@@ -61,7 +61,7 @@
 
         There is authorized to be appropriated to the Secretary of the Treasury $1,500,000,000, without fiscal year limitation, to carry out the purposes of this subchapter.
 
-([Pub. L. 92–181, title VIII, § 8][/us/pl/92/181/s8].13, as added [Pub. L. 100–233, title VII, § 702][/us/pl/100/233/s702], Jan. 6, 1988, [101 Stat. 1704][/us/stat/101/1704]; amended [Pub. L. 104–105, title I, § 109(b)(2)][/us/pl/104/105/s109/b/2], Feb. 10, 1996, [110 Stat. 165][/us/stat/110/165].)
+([Pub. L. 92–181, title VIII][/us/pl/92/181/tVIII], § 8.13, as added [Pub. L. 100–233, title VII][/us/pl/100/233/tVII], § 702, Jan. 6, 1988, [101 Stat. 1704][/us/stat/101/1704]; amended [Pub. L. 104–105, title I][/us/pl/104/105/tI], § 109(b)(2), Feb. 10, 1996, [110 Stat. 165][/us/stat/110/165].)
 
  __Amendments__ 
 
@@ -76,10 +76,10 @@
 
 [/us/usc/t12/s2279aa–10/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2279aa%E2%80%9310%2Fc
 [/us/usc/t12/s2279aa–10/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2279aa%E2%80%9310%2Fc
-[/us/pl/92/181/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs8
-[/us/pl/100/233/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs702
+[/us/pl/92/181/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtVIII
+[/us/pl/100/233/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtVII
 [/us/stat/101/1704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1704
-[/us/pl/104/105/s109/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2Fs109%2Fb%2F2
+[/us/pl/104/105/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2FtI
 [/us/stat/110/165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F165
 [/us/pl/104/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105
 

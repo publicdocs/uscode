@@ -17,7 +17,7 @@
 
     Whenever the Board of Governors of the Federal Reserve System shall permit the applying bank to become a stockholder in the Federal reserve bank of the district its stock subscription shall be payable on call of the Board of Governors of the Federal Reserve System, and stock issued to it shall be held subject to the provisions of this chapter.
 
-([Dec. 23, 1913, ch. 6, § 9][/us/act/1913-12-23/ch6/s9] (par.), [38 Stat. 259][/us/stat/38/259]; [June 21, 1917, ch. 32, § 3][/us/act/1917-06-21/ch32/s3], [40 Stat. 233][/us/stat/40/233]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 203(a), [49 Stat. 704][/us/stat/49/704].)
+([Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 9 (par.), [38 Stat. 259][/us/stat/38/259]; [June 21, 1917, ch. 32][/us/act/1917-06-21/ch32], § 3, [40 Stat. 233][/us/stat/40/233]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 203(a), [49 Stat. 704][/us/stat/49/704].)
 
  __References in Text__ 
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/act/1913-12-23/ch6/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs9
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
 [/us/stat/38/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F259
-[/us/act/1917-06-21/ch32/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-21%2Fch32%2Fs3
+[/us/act/1917-06-21/ch32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-21%2Fch32
 [/us/stat/40/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F233
 [/us/act/1935-08-23/ch614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch614
 [/us/stat/49/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F704

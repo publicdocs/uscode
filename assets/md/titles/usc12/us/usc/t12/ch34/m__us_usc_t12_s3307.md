@@ -31,7 +31,7 @@
 
         (2) obtain the services of such experts and consultants as are necessary to carry out the provisions of this chapter.
 
-([Pub. L. 95–630, title X, § 1008][/us/pl/95/630/s1008], Nov. 10, 1978, [92 Stat. 3696][/us/stat/92/3696].)
+([Pub. L. 95–630, title X][/us/pl/95/630/tX], § 1008, Nov. 10, 1978, [92 Stat. 3696][/us/stat/92/3696].)
 
  __References in Text__ 
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/95/630/s1008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs1008
+[/us/pl/95/630/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtX
 [/us/stat/92/3696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3696
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 

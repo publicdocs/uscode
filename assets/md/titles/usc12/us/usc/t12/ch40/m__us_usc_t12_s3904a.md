@@ -55,15 +55,15 @@
 
         As used in this section, the term “highly indebted country” means any country designated as a “Highly Indebted Country” in the annual World Debt Tables most recently published by the International Bank for Reconstruction and Development before December 19, 1989.
 
-([Pub. L. 98–181, title I][/us/pl/98/181] \[title IX, § 905A\], as added [Pub. L. 101–240, title IV, § 402(b)][/us/pl/101/240/s402/b], Dec. 19, 1989, [103 Stat. 2501][/us/stat/103/2501].)
+([Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title IX, § 905A\], as added [Pub. L. 101–240, title IV][/us/pl/101/240/tIV], § 402(b), Dec. 19, 1989, [103 Stat. 2501][/us/stat/103/2501].)
 
  __References in Text__ 
 
-    [Section 3912(d) of this title][/us/usc/t12/s3912/d], referred to in subsec. (c)(2), was repealed by [Pub. L. 104–208, div. A, title II, § 2224(c)][/us/pl/104/208/s2224/c], Sept. 30, 1996, [110 Stat. 3009–415][/us/stat/110/3009-415].
+    [Section 3912(d) of this title][/us/usc/t12/s3912/d], referred to in subsec. (c)(2), was repealed by [Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], § 2224(c), Sept. 30, 1996, [110 Stat. 3009–415][/us/stat/110/3009-415].
 
  __Congressional Findings__ 
 
-[Pub. L. 101–240, title IV, § 402(a)][/us/pl/101/240/s402/a], Dec. 19, 1989, [103 Stat. 2501][/us/stat/103/2501], provided that: 
+[Pub. L. 101–240, title IV][/us/pl/101/240/tIV], § 402(a), Dec. 19, 1989, [103 Stat. 2501][/us/stat/103/2501], provided that: 
 
 > “The Congress finds that—
 
@@ -82,13 +82,13 @@
 ----------
 ----------
 
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
-[/us/pl/101/240/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2Fs402%2Fb
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
+[/us/pl/101/240/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2FtIV
 [/us/stat/103/2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2501
 [/us/usc/t12/s3912/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3912%2Fd
-[/us/pl/104/208/s2224/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2224%2Fc
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-415
-[/us/pl/101/240/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2Fs402%2Fa
+[/us/pl/101/240/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2FtIV
 [/us/stat/103/2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2501
 [/us/usc/t12/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3901
 

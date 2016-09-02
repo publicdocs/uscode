@@ -25,7 +25,7 @@
 
     (b) The Comptroller General is authorized to make detailed audits of the books and records of the Commission, and shall report the results of any such audit to the Commission and to the Congress.
 
-([Pub. L. 93–495, title II, § 205][/us/pl/93/495/s205], Oct. 28, 1974, [88 Stat. 1510][/us/stat/88/1510].)
+([Pub. L. 93–495, title II][/us/pl/93/495/tII], § 205, Oct. 28, 1974, [88 Stat. 1510][/us/stat/88/1510].)
 
  __References in Other Laws to GS–16, 17, or 18 Pay Rates__ 
 
@@ -39,7 +39,7 @@
 ----------
 
 [/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109
-[/us/pl/93/495/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2Fs205
+[/us/pl/93/495/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2FtII
 [/us/stat/88/1510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1510
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/usc/t5/s5376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5376

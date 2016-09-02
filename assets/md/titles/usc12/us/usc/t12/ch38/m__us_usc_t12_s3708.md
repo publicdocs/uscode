@@ -33,7 +33,7 @@
 
     (3) A copy of the notice of default and foreclosure sale shall be posted in a prominent place at or on the real property to be sold at least seven days prior to the foreclosure sale, and entry upon the premises for this purpose shall be privileged as against all persons. If the property consists of two or more noncontiguous parcels of land, a copy of the notice of default and foreclosure sale shall be posted in a prominent place on each such parcel. If the security property consists of two or more separate buildings, a copy of the notice of default and foreclosure sale shall be posted in a prominent place on each such building. Posting at or on the premises shall not be required where the foreclosure commissioner, in the commissioner’s sole discretion, finds that the act of posting will likely cause a breach of the peace or that posting may result in an increased risk of vandalism or damage to the property.
 
-([Pub. L. 97–35, title III, § 369][/us/pl/97/35/s369], Aug. 13, 1981, [95 Stat. 426][/us/stat/95/426].)
+([Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 369, Aug. 13, 1981, [95 Stat. 426][/us/stat/95/426].)
 
 ----------
 
@@ -46,7 +46,7 @@
 [/us/usc/t12/s3704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3704
 [/us/usc/t12/s3707/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3707%2Fb
 [/us/usc/t12/s3706/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3706%2Fa%2F4
-[/us/pl/97/35/s369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs369
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F426
 
 

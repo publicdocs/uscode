@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act Dec. 23, 1913, ch. 6, § 16][/us/act/1913-12-23/ch6/s16] (par.), [38 Stat. 267][/us/stat/38/267], which made permanent appropriations for printing notes besides authorizing use of certain printing stock on hand Dec. 23, 1913, was superseded by [act June 26, 1934, ch. 756, § 1(a)][/us/act/1934-06-26/ch756/s1/a], (b)(3), [48 Stat. 1225][/us/stat/48/1225].
+    Section, [act Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 16 (par.), [38 Stat. 267][/us/stat/38/267], which made permanent appropriations for printing notes besides authorizing use of certain printing stock on hand Dec. 23, 1913, was superseded by [act June 26, 1934, ch. 756][/us/act/1934-06-26/ch756], § 1(a), (b)(3), [48 Stat. 1225][/us/stat/48/1225].
 
 ----------
 
@@ -26,9 +26,9 @@
 ----------
 ----------
 
-[/us/act/1913-12-23/ch6/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs16
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
 [/us/stat/38/267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F267
-[/us/act/1934-06-26/ch756/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-26%2Fch756%2Fs1%2Fa
+[/us/act/1934-06-26/ch756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-26%2Fch756
 [/us/stat/48/1225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1225
 
 

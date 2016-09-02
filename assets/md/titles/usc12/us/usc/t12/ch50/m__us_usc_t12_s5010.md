@@ -33,7 +33,7 @@
 
         A timely claim by a consumer under [section 5006 of this title][/us/usc/t12/s5006] for expedited recredit constitutes timely notice of a claim by the consumer for purposes of subsection (b).
 
-([Pub. L. 108–100, § 11][/us/pl/108/100/s11], Oct. 28, 2003, [117 Stat. 1188][/us/stat/117/1188].)
+([Pub. L. 108–100][/us/pl/108/100], § 11, Oct. 28, 2003, [117 Stat. 1188][/us/stat/117/1188].)
 
  __References in Text__ 
 
@@ -47,7 +47,7 @@
 ----------
 
 [/us/usc/t12/s5006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5006
-[/us/pl/108/100/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F100%2Fs11
+[/us/pl/108/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F100
 [/us/stat/117/1188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1188
 [/us/pl/108/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F100
 [/us/stat/117/1177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1177

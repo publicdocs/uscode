@@ -27,7 +27,7 @@
 
     (5) accounts with respect to which determination of annual percentage yield is based on an annual rate of interest that is guaranteed for a stated term.
 
-([Pub. L. 102–242, title II, § 265][/us/pl/102/242/s265], Dec. 19, 1991, [105 Stat. 2336][/us/stat/105/2336]; [Pub. L. 102–550, title XVI, § 1604(e)(2)(A)][/us/pl/102/550/s1604/e/2/A], Oct. 28, 1992, [106 Stat. 4084][/us/stat/106/4084]; [Pub. L. 111–203, title X, § 1100B(1)][/us/pl/111/203/s1100B/1], July 21, 2010, [124 Stat. 2109][/us/stat/124/2109].)
+([Pub. L. 102–242, title II][/us/pl/102/242/tII], § 265, Dec. 19, 1991, [105 Stat. 2336][/us/stat/105/2336]; [Pub. L. 102–550, title XVI][/us/pl/102/550/tXVI], § 1604(e)(2)(A), Oct. 28, 1992, [106 Stat. 4084][/us/stat/106/4084]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1100B(1), July 21, 2010, [124 Stat. 2109][/us/stat/124/2109].)
 
  __Amendments__ 
 
@@ -50,11 +50,11 @@
 ----------
 ----------
 
-[/us/pl/102/242/s265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs265
+[/us/pl/102/242/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtII
 [/us/stat/105/2336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2336
-[/us/pl/102/550/s1604/e/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1604%2Fe%2F2%2FA
+[/us/pl/102/550/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXVI
 [/us/stat/106/4084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4084
-[/us/pl/111/203/s1100B/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100B%2F1
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2109
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550

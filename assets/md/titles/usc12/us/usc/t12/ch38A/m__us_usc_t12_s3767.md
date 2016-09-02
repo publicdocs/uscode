@@ -17,7 +17,7 @@
 
     If any part of this chapter shall, for any reason, be adjudged by a court of competent jurisdiction to be invalid, or invalid as applied to a class of cases, such judgment shall not affect, impair, or invalidate the remainder thereof, and shall be confined in its operation to the part thereof directly involved in the controversy in which such judgment shall have been rendered.
 
-([Pub. L. 103–327, title II][/us/pl/103/327], Sept. 28, 1994, [108 Stat. 2316][/us/stat/108/2316].)
+([Pub. L. 103–327, title II][/us/pl/103/327/tII], Sept. 28, 1994, [108 Stat. 2316][/us/stat/108/2316].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/103/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F327
+[/us/pl/103/327/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F327%2FtII
 [/us/stat/108/2316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2316
 [/us/pl/103/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F327
 

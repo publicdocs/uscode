@@ -27,7 +27,7 @@
 
         The foreclosure commissioner shall have discretion, prior to or at the time of sale, to adjourn or cancel the foreclosure sale if the commissioner determines, in the commissioner’s sole discretion, that circumstances are not conducive to a sale which is fair to the mortgagor and the Secretary or that additional time is necessary to determine whether the security property should be withdrawn from foreclosure as provided in [section 3709 of this title][/us/usc/t12/s3709]. The foreclosure commissioner may adjourn a sale to a later hour the same day without the giving of further notice, or may adjourn the foreclosure sale for not less than nine nor more than twenty-four days, in which case the commissioner shall serve a notice of default and foreclosure sale revised to recite that the foreclosure sale has been adjourned to a specified date and to include any corrections the foreclosure commissioner deems appropriate. Such notice shall be served by publication, mailing and posting in accordance with [section 3708 of this title][/us/usc/t12/s3708], except that publication may be made on any of three separate days prior to the revised date of foreclosure sale, and mailing may be made at any time at least seven days prior to the date to which the foreclosure sale has been adjourned.
 
-([Pub. L. 97–35, title III, § 369B][/us/pl/97/35/s369B], Aug. 13, 1981, [95 Stat. 428][/us/stat/95/428].)
+([Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 369B, Aug. 13, 1981, [95 Stat. 428][/us/stat/95/428].)
 
 ----------
 
@@ -40,7 +40,7 @@
 [/us/usc/t12/s3711/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3711%2F5
 [/us/usc/t12/s3709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3709
 [/us/usc/t12/s3708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3708
-[/us/pl/97/35/s369B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs369B
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F428
 
 

@@ -17,7 +17,7 @@
 
     The Department of Housing and Urban Development, and any other departments or agencies of the Federal Government having powers, functions, or duties with respect to housing under any law shall exercise such powers, functions, or duties in such manner as, consistent with the requirements thereof, will facilitate progress in the reduction of the vulnerability of congested urban areas to enemy attack.
 
-([Aug. 2, 1954, ch. 649][/us/act/1954-08-02/ch649], title VIII, § 811, [68 Stat. 646][/us/stat/68/646]; [Pub. L. 90–19, § 10(g)][/us/pl/90/19/s10/g], May 25, 1967, [81 Stat. 23][/us/stat/81/23].)
+([Aug. 2, 1954, ch. 649][/us/act/1954-08-02/ch649], title VIII, § 811, [68 Stat. 646][/us/stat/68/646]; [Pub. L. 90–19][/us/pl/90/19], § 10(g), May 25, 1967, [81 Stat. 23][/us/stat/81/23].)
 
  __Codification__ 
 
@@ -36,7 +36,7 @@
 
 [/us/act/1954-08-02/ch649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-02%2Fch649
 [/us/stat/68/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F646
-[/us/pl/90/19/s10/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19%2Fs10%2Fg
+[/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
 [/us/stat/81/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F23
 [/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
 

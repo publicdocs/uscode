@@ -17,7 +17,7 @@
 
     Every Federal reserve bank shall have power to purchase from member banks and to sell, with or without its indorsement, bills of exchange arising out of commercial transactions, as hereinbefore defined.
 
-([Dec. 23, 1913, ch. 6, § 14(c)][/us/act/1913-12-23/ch6/s14/c], [38 Stat. 264][/us/stat/38/264].)
+([Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 14(c), [38 Stat. 264][/us/stat/38/264].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1913-12-23/ch6/s14/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs14%2Fc
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
 [/us/stat/38/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F264
 [/us/usc/t12/s353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs353
 

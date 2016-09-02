@@ -35,31 +35,31 @@
 
         (3) The Secretary shall undertake an annual assessment of the risks associated with each of the insurance programs comprising the Special Risk Insurance Fund, and shall present findings from such review to the Congress in the FHA Annual Management Report.
 
-([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title II, § 238, as added [Pub. L. 90–448, title I, § 104(a)][/us/pl/90/448/s104/a], Aug. 1, 1968, [82 Stat. 486][/us/stat/82/486]; amended [Pub. L. 91–152, title IV, § 415][/us/pl/91/152/s415], Dec. 24, 1969, [83 Stat. 401][/us/stat/83/401]; [Pub. L. 91–351, title V, § 503][/us/pl/91/351/s503], July 24, 1970, [84 Stat. 461][/us/stat/84/461]; [Pub. L. 91–609, title I, § 117(d)][/us/pl/91/609/s117/d], Dec. 31, 1970, [84 Stat. 1775][/us/stat/84/1775]; [Pub. L. 93–383, title III, § 318][/us/pl/93/383/s318], Aug. 22, 1974, [88 Stat. 685][/us/stat/88/685]; [Pub. L. 95–128, title III, § 309][/us/pl/95/128/s309], Oct. 12, 1977, [91 Stat. 1135][/us/stat/91/1135]; [Pub. L. 103–233, title I][/us/pl/103/233], §§ 103(g)(1), 105(a), Apr. 11, 1994, [108 Stat. 362][/us/stat/108/362], 363.)
+([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title II, § 238, as added [Pub. L. 90–448, title I][/us/pl/90/448/tI], § 104(a), Aug. 1, 1968, [82 Stat. 486][/us/stat/82/486]; amended [Pub. L. 91–152, title IV][/us/pl/91/152/tIV], § 415, Dec. 24, 1969, [83 Stat. 401][/us/stat/83/401]; [Pub. L. 91–351, title V][/us/pl/91/351/tV], § 503, July 24, 1970, [84 Stat. 461][/us/stat/84/461]; [Pub. L. 91–609, title I][/us/pl/91/609/tI], § 117(d), Dec. 31, 1970, [84 Stat. 1775][/us/stat/84/1775]; [Pub. L. 93–383, title III][/us/pl/93/383/tIII], § 318, Aug. 22, 1974, [88 Stat. 685][/us/stat/88/685]; [Pub. L. 95–128, title III][/us/pl/95/128/tIII], § 309, Oct. 12, 1977, [91 Stat. 1135][/us/stat/91/1135]; [Pub. L. 103–233, title I][/us/pl/103/233/tI], §§ 103(g)(1), 105(a), Apr. 11, 1994, [108 Stat. 362][/us/stat/108/362], 363.)
 
  __References in Text__ 
 
-    Subsection (k) of [section 1710 of this title][/us/usc/t12/s1710], referred to in subsec. (a)(1), was repealed by [Pub. L. 105–276, title VI, § 601(c)][/us/pl/105/276/s601/c], Oct. 21, 1998, [112 Stat. 2673][/us/stat/112/2673].
+    Subsection (k) of [section 1710 of this title][/us/usc/t12/s1710], referred to in subsec. (a)(1), was repealed by [Pub. L. 105–276, title VI][/us/pl/105/276/tVI], § 601(c), Oct. 21, 1998, [112 Stat. 2673][/us/stat/112/2673].
 
-    [Section 1715z–2 of this title][/us/usc/t12/s1715z–2], referred to in subsecs. (a)(1) and (b), was repealed by [Pub. L. 110–289, div. B, title I, § 2120(a)(6)][/us/pl/110/289/s2120/a/6], July 30, 2008, [122 Stat. 2835][/us/stat/122/2835].
+    [Section 1715z–2 of this title][/us/usc/t12/s1715z–2], referred to in subsecs. (a)(1) and (b), was repealed by [Pub. L. 110–289, div. B, title I][/us/pl/110/289/dB/tI], § 2120(a)(6), July 30, 2008, [122 Stat. 2835][/us/stat/122/2835].
 
     This chapter, referred to in subsec. (c)(1), was in the original “this Act”, meaning [act June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], [48 Stat. 1246][/us/stat/48/1246], which is classified principally to this chapter (§ 1701 et seq.). For complete classification of this Act to the Code, see Tables.
 
  __Amendments__ 
 
-    1994—Subsec. (b). [Pub. L. 103–233, § 105(a)][/us/pl/103/233/s105/a], struck out after fourth sentence “There is authorized to be appropriated such sums as may be needed from time to time to cover losses sustained by the fund in carrying out the mortgage insurance obligations of sections 1715n(e), 1715x(a)(2), 1715z, 1715z–1, 1715z–2, and 1715z–8 of this title.”
+    1994—Subsec. (b). [Pub. L. 103–233][/us/pl/103/233], § 105(a), struck out after fourth sentence “There is authorized to be appropriated such sums as may be needed from time to time to cover losses sustained by the fund in carrying out the mortgage insurance obligations of sections 1715n(e), 1715x(a)(2), 1715z, 1715z–1, 1715z–2, and 1715z–8 of this title.”
 
-    Subsec. (c)(3). [Pub. L. 103–233, § 103(g)(1)][/us/pl/103/233/s103/g/1], added par. (3).
+    Subsec. (c)(3). [Pub. L. 103–233][/us/pl/103/233], § 103(g)(1), added par. (3).
 
     1977—Subsec. (c). [Pub. L. 95–128][/us/pl/95/128] substituted provisions of pars. (1) and (2) respecting mortgage insurance for military impacted areas, criteria therefore, and establishment of premiums and other charges for prior subsec. (c), which had authorized use of the Special Risk Insurance Fund to carry out mortgage insurance obligations of sections 1709 and 1713 of this title to provide housing for military personnel, Federal civilian employees, and Federal contractor employees assigned to duty or employed at or in connection with any installation of the Armed Forces in federally impacted areas where in the judgment of the Secretary (1) the residual housing requirements for persons not associated with such installations were insufficient to sustain the housing market in the event of substantial curtailment of employment of personnel assigned to such installations, and (2) the benefits to be derived from such use outweighed the risk of possible cost to the Government.
 
     1974—Subsec. (c). [Pub. L. 93–383][/us/pl/93/383] added subsec. (c).
 
-    1970—Subsec. (a)(1). [Pub. L. 91–351, § 503(1)][/us/pl/91/351/s503/1], inserted references to [section 1715z–8 of this title][/us/usc/t12/s1715z–8] wherever appearing.
+    1970—Subsec. (a)(1). [Pub. L. 91–351][/us/pl/91/351], § 503(1), inserted references to [section 1715z–8 of this title][/us/usc/t12/s1715z–8] wherever appearing.
 
     Subsec. (b). [Pub. L. 91–609][/us/pl/91/609] provided for guarantee as to principal and interest by any agency of the United States and for investment of moneys in bonds or other obligations the proceeds of which will be used to directly support the residential mortgage market.
 
-    [Pub. L. 91–351, § 503(2)][/us/pl/91/351/s503/2], inserted references to [section 1715z–8 of this title][/us/usc/t12/s1715z–8] wherever appearing.
+    [Pub. L. 91–351][/us/pl/91/351], § 503(2), inserted references to [section 1715z–8 of this title][/us/usc/t12/s1715z–8] wherever appearing.
 
     1969—Subsec. (b). [Pub. L. 91–152][/us/pl/91/152] increased from $5,000,000 to a total sum of $20,000,000, at such times and in such amounts as he may determine to be necessary, the amount authorized to be advanced by the Secretary to the Fund.
 
@@ -81,36 +81,36 @@
 [/us/usc/t12/s1735c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1735c
 [/us/usc/t12/s1715n/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715n%2Fe
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
-[/us/pl/90/448/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs104%2Fa
+[/us/pl/90/448/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2FtI
 [/us/stat/82/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F486
-[/us/pl/91/152/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F152%2Fs415
+[/us/pl/91/152/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F152%2FtIV
 [/us/stat/83/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F401
-[/us/pl/91/351/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F351%2Fs503
+[/us/pl/91/351/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F351%2FtV
 [/us/stat/84/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F461
-[/us/pl/91/609/s117/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F609%2Fs117%2Fd
+[/us/pl/91/609/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F609%2FtI
 [/us/stat/84/1775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1775
-[/us/pl/93/383/s318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs318
+[/us/pl/93/383/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtIII
 [/us/stat/88/685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F685
-[/us/pl/95/128/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs309
+[/us/pl/95/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2FtIII
 [/us/stat/91/1135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1135
-[/us/pl/103/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233
+[/us/pl/103/233/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2FtI
 [/us/stat/108/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F362
 [/us/usc/t12/s1710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1710
-[/us/pl/105/276/s601/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs601%2Fc
+[/us/pl/105/276/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtVI
 [/us/stat/112/2673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2673
 [/us/usc/t12/s1715z–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715z%E2%80%932
-[/us/pl/110/289/s2120/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs2120%2Fa%2F6
+[/us/pl/110/289/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdB%2FtI
 [/us/stat/122/2835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2835
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
 [/us/stat/48/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1246
-[/us/pl/103/233/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2Fs105%2Fa
-[/us/pl/103/233/s103/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2Fs103%2Fg%2F1
+[/us/pl/103/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233
+[/us/pl/103/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233
 [/us/pl/95/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128
 [/us/pl/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383
-[/us/pl/91/351/s503/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F351%2Fs503%2F1
+[/us/pl/91/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F351
 [/us/usc/t12/s1715z–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715z%E2%80%938
 [/us/pl/91/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F609
-[/us/pl/91/351/s503/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F351%2Fs503%2F2
+[/us/pl/91/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F351
 [/us/usc/t12/s1715z–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715z%E2%80%938
 [/us/pl/91/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F152
 

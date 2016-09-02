@@ -49,15 +49,15 @@
 
             The Secretary shall provide public notice of the date on which the amendment referred to in paragraph (1) will take effect in accordance with such paragraph not less than 90 days and not more than 180 days before such effective date.
 
-([Pub. L. 93–533, § 19][/us/pl/93/533/s19], as added [Pub. L. 94–205, § 10][/us/pl/94/205/s10], Jan. 2, 1976, [89 Stat. 1159][/us/stat/89/1159]; amended [Pub. L. 98–181, title I][/us/pl/98/181] \[title IV, § 461(e)\], Nov. 30, 1983, [97 Stat. 1232][/us/stat/97/1232]; [Pub. L. 104–208, div. A, title II, § 2103(f)][/us/pl/104/208/s2103/f], Sept. 30, 1996, [110 Stat. 3009–401][/us/stat/110/3009-401]; [Pub. L. 111–203, title X, § 1098(11)][/us/pl/111/203/s1098/11], July 21, 2010, [124 Stat. 2104][/us/stat/124/2104].)
+([Pub. L. 93–533][/us/pl/93/533], § 19, as added [Pub. L. 94–205][/us/pl/94/205], § 10, Jan. 2, 1976, [89 Stat. 1159][/us/stat/89/1159]; amended [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title IV, § 461(e)\], Nov. 30, 1983, [97 Stat. 1232][/us/stat/97/1232]; [Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], § 2103(f), Sept. 30, 1996, [110 Stat. 3009–401][/us/stat/110/3009-401]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1098(11), July 21, 2010, [124 Stat. 2104][/us/stat/124/2104].)
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–203, § 1098(11)(A)][/us/pl/111/203/s1098/11/A], substituted “Bureau” for “Secretary” in section catchline.
+    2010—[Pub. L. 111–203][/us/pl/111/203], § 1098(11)(A), substituted “Bureau” for “Secretary” in section catchline.
 
-    Subsec. (a). [Pub. L. 111–203, § 1098(11)(B)][/us/pl/111/203/s1098/11/B], substituted “Bureau” for “Secretary”.
+    Subsec. (a). [Pub. L. 111–203][/us/pl/111/203], § 1098(11)(B), substituted “Bureau” for “Secretary”.
 
-    Subsecs. (b), (c). [Pub. L. 111–203, § 1098(11)(C)][/us/pl/111/203/s1098/11/C], substituted “the Bureau” for “the Secretary” wherever appearing.
+    Subsecs. (b), (c). [Pub. L. 111–203][/us/pl/111/203], § 1098(11)(C), substituted “the Bureau” for “the Secretary” wherever appearing.
 
     1996—Subsec. (d). [Pub. L. 104–208][/us/pl/104/208] added subsec. (d).
 
@@ -82,18 +82,18 @@
 ----------
 ----------
 
-[/us/pl/93/533/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F533%2Fs19
-[/us/pl/94/205/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F205%2Fs10
+[/us/pl/93/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F533
+[/us/pl/94/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F205
 [/us/stat/89/1159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1159
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1232
-[/us/pl/104/208/s2103/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2103%2Ff
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-401
-[/us/pl/111/203/s1098/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1098%2F11
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2104
-[/us/pl/111/203/s1098/11/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1098%2F11%2FA
-[/us/pl/111/203/s1098/11/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1098%2F11%2FB
-[/us/pl/111/203/s1098/11/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1098%2F11%2FC
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203

@@ -23,7 +23,7 @@
 
         The Secretary, upon submission of a written certification to Congress, may extend the authority provided under this chapter to expire not later than 2 years from October 3, 2008. Such certification shall include a justification of why the extension is necessary to assist American families and stabilize financial markets, as well as the expected cost to the taxpayers for such an extension. Notwithstanding the foregoing, the Secretary may further extend the authority provided under this chapter to expire on December 31, 2017, provided that (1) any such extension shall apply only with respect to current program participants in the Housing Finance Agency Innovation Fund for the Hardest Hit Housing Markets, and (2) funds obligated following such extension shall not exceed $2,000,000,000.
 
-([Pub. L. 110–343, div. A, title I, § 120][/us/pl/110/343/s120], Oct. 3, 2008, [122 Stat. 3788][/us/stat/122/3788]; [Pub. L. 114–113, div. O, title VII, § 709(a)][/us/pl/114/113/s709/a], Dec. 18, 2015, [129 Stat. 3030][/us/stat/129/3030].)
+([Pub. L. 110–343, div. A, title I][/us/pl/110/343/dA/tI], § 120, Oct. 3, 2008, [122 Stat. 3788][/us/stat/122/3788]; [Pub. L. 114–113, div. O, title VII][/us/pl/114/113/dO/tVII], § 709(a), Dec. 18, 2015, [129 Stat. 3030][/us/stat/129/3030].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 
  __Termination of the Making Home Affordable Initiative__ 
 
-[Pub. L. 114–113, div. O, title VII, § 709(b)][/us/pl/114/113/s709/b], Dec. 18, 2015, [129 Stat. 3030][/us/stat/129/3030], provided that:
+[Pub. L. 114–113, div. O, title VII][/us/pl/114/113/dO/tVII], § 709(b), Dec. 18, 2015, [129 Stat. 3030][/us/stat/129/3030], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -52,15 +52,15 @@
 ----------
 ----------
 
-[/us/pl/110/343/s120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs120
+[/us/pl/110/343/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdA%2FtI
 [/us/stat/122/3788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3788
-[/us/pl/114/113/s709/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs709%2Fa
+[/us/pl/114/113/dO/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdO%2FtVII
 [/us/stat/129/3030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3030
 [/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
 [/us/stat/122/3765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3765
 [/us/usc/t12/s5201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5201
 [/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
-[/us/pl/114/113/s709/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs709%2Fb
+[/us/pl/114/113/dO/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdO%2FtVII
 [/us/stat/129/3030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3030
 [/us/usc/t12/s5201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5201
 [/us/usc/t12/s5201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5201

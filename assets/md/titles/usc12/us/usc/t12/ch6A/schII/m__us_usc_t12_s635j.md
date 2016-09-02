@@ -23,7 +23,7 @@
 
         The Bank shall specially designate loans, guarantees, and insurance on the books of the Bank made under authority of this subchapter. In connection with guarantees and insurance, not less than 25 per centum of the related contractual liability of the Bank shall be taken into account for the purpose of applying the limitation imposed by [section 635e of this title][/us/usc/t12/s635e]; but the full amount of the related contractual liability of such guarantees and insurance shall be taken into account for the purpose of applying the limitation in [section 635(c)(1) of this title][/us/usc/t12/s635/c/1], concerning the amount of guarantees and insurance the Bank may have outstanding at any one time thereunder. The aggregate amount of loans plus 25 per centum of the contractual liability of guarantees and insurance outstanding at any one time under this subchapter shall not exceed $500,000,000.
 
-([Pub. L. 90–390, § 1][/us/pl/90/390/s1], July 7, 1968, [82 Stat. 296][/us/stat/82/296]; [Pub. L. 96–470, title I, § 115][/us/pl/96/470/s115], Oct. 19, 1980, [94 Stat. 2240][/us/stat/94/2240].)
+([Pub. L. 90–390][/us/pl/90/390], § 1, July 7, 1968, [82 Stat. 296][/us/stat/82/296]; [Pub. L. 96–470, title I][/us/pl/96/470/tI], § 115, Oct. 19, 1980, [94 Stat. 2240][/us/stat/94/2240].)
 
  __Amendments__ 
 
@@ -66,9 +66,9 @@
 
 [/us/usc/t12/s635e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635e
 [/us/usc/t12/s635/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635%2Fc%2F1
-[/us/pl/90/390/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F390%2Fs1
+[/us/pl/90/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F390
 [/us/stat/82/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F296
-[/us/pl/96/470/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470%2Fs115
+[/us/pl/96/470/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470%2FtI
 [/us/stat/94/2240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2240
 [/us/pl/96/470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470
 [/us/pl/92/463/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs14

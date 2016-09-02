@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t12/ch13/schI/m__us_usc_t12_s1706.md) | [Next](./../../../../..//us/usc/t12/ch13/schI/m__us_usc_t12_s1706b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1706a)
 
-## § 1706a. Repealed. [June 3, 1939, ch. 175, § 3][/us/act/1939-06-03/ch175/s3], [53 Stat. 805][/us/stat/53/805]
+## § 1706a. Repealed. [June 3, 1939, ch. 175][/us/act/1939-06-03/ch175], § 3, [53 Stat. 805][/us/stat/53/805]
 
-    Section, [act June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title I, § 6, as added [act Apr. 17, 1936, ch. 234, § 3][/us/act/1936-04-17/ch234/s3], [49 Stat. 1233][/us/stat/49/1233]; amended [act Apr. 22, 1937, ch. 121, § 1][/us/act/1937-04-22/ch121/s1], [50 Stat. 70][/us/stat/50/70], related to insurance of financial institutions financing rehabilitation of property damaged by fires, floods, storms, etc.
+    Section, [act June 27, 1934, ch. 847, title I][/us/act/1934-06-27/ch847/tI], § 6, as added [act Apr. 17, 1936, ch. 234][/us/act/1936-04-17/ch234], § 3, [49 Stat. 1233][/us/stat/49/1233]; amended [act Apr. 22, 1937, ch. 121][/us/act/1937-04-22/ch121], § 1, [50 Stat. 70][/us/stat/50/70], related to insurance of financial institutions financing rehabilitation of property damaged by fires, floods, storms, etc.
 
  __Effective Date of Repeal__ 
 
@@ -28,12 +28,12 @@
 ----------
 ----------
 
-[/us/act/1939-06-03/ch175/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-06-03%2Fch175%2Fs3
+[/us/act/1939-06-03/ch175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-06-03%2Fch175
 [/us/stat/53/805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F805
-[/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
-[/us/act/1936-04-17/ch234/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-04-17%2Fch234%2Fs3
+[/us/act/1934-06-27/ch847/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847%2FtI
+[/us/act/1936-04-17/ch234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-04-17%2Fch234
 [/us/stat/49/1233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1233
-[/us/act/1937-04-22/ch121/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-04-22%2Fch121%2Fs1
+[/us/act/1937-04-22/ch121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-04-22%2Fch121
 [/us/stat/50/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F70
 [/us/usc/t12/s1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1703
 

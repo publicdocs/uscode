@@ -53,7 +53,7 @@
 
         Any association against which any penalty is assessed under this subsection  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “section”. </sup></sup>  shall be afforded an agency hearing if such association submits a request for such hearing within 20 days after the issuance of the notice of assessment. [Section 1818(h) of this title][/us/usc/t12/s1818/h] shall apply to any proceeding under this section.
 
-(R.S. § 5213; [Pub. L. 86–230, § 12][/us/pl/86/230/s12], Sept. 8, 1959, [73 Stat. 458][/us/stat/73/458]; [Pub. L. 101–73, title IX, § 911(b)(2)][/us/pl/101/73/s911/b/2], Aug. 9, 1989, [103 Stat. 478][/us/stat/103/478].)
+(R.S. § 5213; [Pub. L. 86–230][/us/pl/86/230], § 12, Sept. 8, 1959, [73 Stat. 458][/us/stat/73/458]; [Pub. L. 101–73, title IX][/us/pl/101/73/tIX], § 911(b)(2), Aug. 9, 1989, [103 Stat. 478][/us/stat/103/478].)
 
  __Codification__ 
 
@@ -84,9 +84,9 @@
 [/us/usc/t12/s161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs161
 [/us/usc/t12/s1818/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1818%2Fi%2F2
 [/us/usc/t12/s1818/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1818%2Fh
-[/us/pl/86/230/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F230%2Fs12
+[/us/pl/86/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F230
 [/us/stat/73/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F458
-[/us/pl/101/73/s911/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs911%2Fb%2F2
+[/us/pl/101/73/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtIX
 [/us/stat/103/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F478
 [/us/act/1869-03-03/ch130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1869-03-03%2Fch130
 [/us/stat/15/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F15%2F326

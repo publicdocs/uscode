@@ -57,7 +57,7 @@
 
         The Bureau shall enter into a memorandum of understanding with any affected Federal regulatory agency regarding procedures by which any covered person, and the prudential regulators, and any other agency having jurisdiction over a covered person, including the Secretary of the Department of Housing and Urban Development and the Secretary of Education, shall comply with this section.
 
-([Pub. L. 111–203, title X, § 1034][/us/pl/111/203/s1034], July 21, 2010, [124 Stat. 2008][/us/stat/124/2008].)
+([Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1034, July 21, 2010, [124 Stat. 2008][/us/stat/124/2008].)
 
  __Effective Date__ 
 
@@ -74,7 +74,7 @@
 [/us/usc/t12/s5515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5515
 [/us/usc/t12/s5515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5515
 [/us/usc/t12/s5515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5515
-[/us/pl/111/203/s1034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1034
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2008
 [/us/pl/111/203/s1037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1037
 [/us/usc/t12/s5531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5531

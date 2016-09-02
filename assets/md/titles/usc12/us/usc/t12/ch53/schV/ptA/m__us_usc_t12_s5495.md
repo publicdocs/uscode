@@ -17,7 +17,7 @@
 
     The Bureau shall coordinate with the Commission, the Commodity Futures Trading Commission, the Federal Trade Commission, and other Federal agencies and State regulators, as appropriate, to promote consistent regulatory treatment of consumer financial and investment products and services.
 
-([Pub. L. 111–203, title X, § 1015][/us/pl/111/203/s1015], July 21, 2010, [124 Stat. 1974][/us/stat/124/1974].)
+([Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1015, July 21, 2010, [124 Stat. 1974][/us/stat/124/1974].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/111/203/s1015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1015
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/1974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1974
 
 

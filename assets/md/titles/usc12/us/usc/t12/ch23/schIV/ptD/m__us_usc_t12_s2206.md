@@ -17,7 +17,7 @@
 
     Notwithstanding any other provisions of this chapter, the terms of any loan participated in by two or more Farm Credit System institutions operating under different subchapters of this chapter, including provisions for capitalization of the portion of the loan participated in by each institution, shall be as may be agreed upon among such institutions and authorized under regulations issued by the Farm Credit Administration, except that for purposes of determining borrower eligibility, membership, term, amount, loan security, and purchase of stock or participation certificates by the borrower, the provisions of law applicable to the loan shall be the provisions in the subchapter under which the institution that originates the loan operates.
 
-([Pub. L. 92–181, title IV, § 4][/us/pl/92/181/s4].18, as added [Pub. L. 96–592, title IV, § 403][/us/pl/96/592/s403], Dec. 24, 1980, [94 Stat. 3446][/us/stat/94/3446]; amended [Pub. L. 99–205, title II, § 205(f)(7)][/us/pl/99/205/s205/f/7], Dec. 23, 1985, [99 Stat. 1706][/us/stat/99/1706].)
+([Pub. L. 92–181, title IV][/us/pl/92/181/tIV], § 4.18, as added [Pub. L. 96–592, title IV][/us/pl/96/592/tIV], § 403, Dec. 24, 1980, [94 Stat. 3446][/us/stat/94/3446]; amended [Pub. L. 99–205, title II][/us/pl/99/205/tII], § 205(f)(7), Dec. 23, 1985, [99 Stat. 1706][/us/stat/99/1706].)
 
  __Amendments__ 
 
@@ -34,10 +34,10 @@
 ----------
 ----------
 
-[/us/pl/92/181/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs4
-[/us/pl/96/592/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592%2Fs403
+[/us/pl/92/181/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtIV
+[/us/pl/96/592/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592%2FtIV
 [/us/stat/94/3446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3446
-[/us/pl/99/205/s205/f/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2Fs205%2Ff%2F7
+[/us/pl/99/205/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2FtII
 [/us/stat/99/1706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1706
 [/us/pl/98/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F205
 [/us/pl/99/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205

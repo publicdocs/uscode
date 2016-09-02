@@ -81,17 +81,17 @@
 
         For purposes of this subsection, the term “rural area” means all territory of a State that is not within the outer boundary of any city or town having a population of more than 20,000 based on the latest decennial census of the United States.
 
-([Pub. L. 92–181, title III, § 3][/us/pl/92/181/s3].7, Dec. 10, 1971, [85 Stat. 605][/us/stat/85/605]; [Pub. L. 96–592, title III, § 304][/us/pl/96/592/s304], Dec. 24, 1980, [94 Stat. 3444][/us/stat/94/3444]; [Pub. L. 101–624, title XXIII, § 2323(a)][/us/pl/101/624/s2323/a], Nov. 28, 1990, [104 Stat. 4013][/us/stat/104/4013]; [Pub. L. 102–237, title V, § 502(e)(1)][/us/pl/102/237/s502/e/1], Dec. 13, 1991, [105 Stat. 1868][/us/stat/105/1868]; [Pub. L. 102–552, title V][/us/pl/102/552], §§ 504, 505, Oct. 28, 1992, [106 Stat. 4131][/us/stat/106/4131]; [Pub. L. 103–376, § 3][/us/pl/103/376/s3], Oct. 19, 1994, [108 Stat. 3497][/us/stat/108/3497]; [Pub. L. 107–171, title V, § 5402][/us/pl/107/171/s5402], May 13, 2002, [116 Stat. 350][/us/stat/116/350].)
+([Pub. L. 92–181, title III][/us/pl/92/181/tIII], § 3.7, Dec. 10, 1971, [85 Stat. 605][/us/stat/85/605]; [Pub. L. 96–592, title III][/us/pl/96/592/tIII], § 304, Dec. 24, 1980, [94 Stat. 3444][/us/stat/94/3444]; [Pub. L. 101–624, title XXIII][/us/pl/101/624/tXXIII], § 2323(a), Nov. 28, 1990, [104 Stat. 4013][/us/stat/104/4013]; [Pub. L. 102–237, title V][/us/pl/102/237/tV], § 502(e)(1), Dec. 13, 1991, [105 Stat. 1868][/us/stat/105/1868]; [Pub. L. 102–552, title V][/us/pl/102/552/tV], §§ 504, 505, Oct. 28, 1992, [106 Stat. 4131][/us/stat/106/4131]; [Pub. L. 103–376][/us/pl/103/376], § 3, Oct. 19, 1994, [108 Stat. 3497][/us/stat/108/3497]; [Pub. L. 107–171, title V][/us/pl/107/171/tV], § 5402, May 13, 2002, [116 Stat. 350][/us/stat/116/350].)
 
  __Amendments__ 
 
-    2002—Subsec. (b)(1), (2)(A)(i). [Pub. L. 107–171, § 5402(1)][/us/pl/107/171/s5402/1], substituted “agricultural supplies” for “farm supplies”.
+    2002—Subsec. (b)(1), (2)(A)(i). [Pub. L. 107–171][/us/pl/107/171], § 5402(1), substituted “agricultural supplies” for “farm supplies”.
 
-    Subsec. (b)(4). [Pub. L. 107–171, § 5402(2)][/us/pl/107/171/s5402/2], added par. (4).
+    Subsec. (b)(4). [Pub. L. 107–171][/us/pl/107/171], § 5402(2), added par. (4).
 
-    1994—Subsec. (b)(1). [Pub. L. 103–376, § 3(A)][/us/pl/103/376/s3/A], substituted “assistance to” for “assistance to (A)”, “bank for the import” for “bank for the export or import”, and “if the bank for cooperatives” for “and (B) a domestic or foreign party in which such an association has at least the minimum ownership interest approved under regulations of the Farm Credit Administration for the purpose of facilitating the association’s export or import operations of the type described in subparagraph (A): Provided, That a”.
+    1994—Subsec. (b)(1). [Pub. L. 103–376][/us/pl/103/376], § 3(A), substituted “assistance to” for “assistance to (A)”, “bank for the import” for “bank for the export or import”, and “if the bank for cooperatives” for “and (B) a domestic or foreign party in which such an association has at least the minimum ownership interest approved under regulations of the Farm Credit Administration for the purpose of facilitating the association’s export or import operations of the type described in subparagraph (A): Provided, That a”.
 
-    Subsec. (b)(2). [Pub. L. 103–376, § 3(B)][/us/pl/103/376/s3/B], added par. (2) and struck out former par. (2) which read as follows: “A bank for cooperatives is authorized to make or participate in loans and commitments, and to extend other technical and financial assistance, to any domestic or foreign entity that is eligible for a guarantee or insurance as described in subparagraphs (A) and (B) with respect to transactions involving the Soviet Union (its successor entities or any of the individual republics of the Soviet Union) or an emerging democracy (as defined in section 1542(f) of the Food, Agriculture, Conservation, and Trade Act of 1990 ([7 U.S.C. 5622][/us/usc/t7/s5622] note)) for the export of agricultural commodities and products thereof from the United States, including (where applicable) the cost of freight, if in each case—
+    Subsec. (b)(2). [Pub. L. 103–376][/us/pl/103/376], § 3(B), added par. (2) and struck out former par. (2) which read as follows: “A bank for cooperatives is authorized to make or participate in loans and commitments, and to extend other technical and financial assistance, to any domestic or foreign entity that is eligible for a guarantee or insurance as described in subparagraphs (A) and (B) with respect to transactions involving the Soviet Union (its successor entities or any of the individual republics of the Soviet Union) or an emerging democracy (as defined in section 1542(f) of the Food, Agriculture, Conservation, and Trade Act of 1990 ([7 U.S.C. 5622][/us/usc/t7/s5622] note)) for the export of agricultural commodities and products thereof from the United States, including (where applicable) the cost of freight, if in each case—
 
     “(A) the loan involved is unconditionally guaranteed or insured by a department, agency, bureau, board, commission, or establishment of the United States or any corporation wholly owned directly or indirectly by the United States; and
 
@@ -101,9 +101,9 @@
 
     “(ii) is issued on or before September 30, 1995.”
 
-    1992—Subsec. (a). [Pub. L. 102–552, § 504][/us/pl/102/552/s504], inserted “at any time (whether or not they have a loan from the bank outstanding)” after “assistance” in first sentence.
+    1992—Subsec. (a). [Pub. L. 102–552][/us/pl/102/552], § 504, inserted “at any time (whether or not they have a loan from the bank outstanding)” after “assistance” in first sentence.
 
-    Subsec. (f). [Pub. L. 102–552, § 505][/us/pl/102/552/s505], in introductory provisions, substituted “installing, maintaining, expanding, improving, or operating” for “the installation, expansion, or improvement of” and “extending” for “to extend”.
+    Subsec. (f). [Pub. L. 102–552][/us/pl/102/552], § 505, in introductory provisions, substituted “installing, maintaining, expanding, improving, or operating” for “the installation, expansion, or improvement of” and “extending” for “to extend”.
 
     1991—Subsec. (b). [Pub. L. 102–237][/us/pl/102/237] designated existing provisions as par. (1), redesignated cl. (1) as (A) and inserted “or products thereof” after “commodities”, redesignated cl. (2) as (B) and substituted “subparagraph (A)” for “clause (1) of this subsection”, and added pars. (2) and (3).
 
@@ -121,27 +121,27 @@
 [/us/usc/t12/s2129/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2129%2Fa
 [/us/usc/t12/s2129/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2129%2Fa
 [/us/usc/t12/s2129/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2129%2Fb%2F1%2FA
-[/us/pl/92/181/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs3
+[/us/pl/92/181/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtIII
 [/us/stat/85/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F605
-[/us/pl/96/592/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592%2Fs304
+[/us/pl/96/592/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592%2FtIII
 [/us/stat/94/3444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3444
-[/us/pl/101/624/s2323/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2323%2Fa
+[/us/pl/101/624/tXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXIII
 [/us/stat/104/4013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4013
-[/us/pl/102/237/s502/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs502%2Fe%2F1
+[/us/pl/102/237/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtV
 [/us/stat/105/1868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1868
-[/us/pl/102/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552
+[/us/pl/102/552/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2FtV
 [/us/stat/106/4131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4131
-[/us/pl/103/376/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F376%2Fs3
+[/us/pl/103/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F376
 [/us/stat/108/3497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3497
-[/us/pl/107/171/s5402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs5402
+[/us/pl/107/171/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtV
 [/us/stat/116/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F350
-[/us/pl/107/171/s5402/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs5402%2F1
-[/us/pl/107/171/s5402/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs5402%2F2
-[/us/pl/103/376/s3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F376%2Fs3%2FA
-[/us/pl/103/376/s3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F376%2Fs3%2FB
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/103/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F376
+[/us/pl/103/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F376
 [/us/usc/t7/s5622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5622
-[/us/pl/102/552/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2Fs504
-[/us/pl/102/552/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2Fs505
+[/us/pl/102/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552
+[/us/pl/102/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/pl/96/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592

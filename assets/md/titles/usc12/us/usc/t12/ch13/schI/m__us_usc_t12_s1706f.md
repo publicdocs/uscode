@@ -35,7 +35,7 @@
 
         In connection with the purchase of a manufactured home financed with a loan or extension of credit insured by the Federal Housing Administration under this subchapter, the Secretary shall prohibit acts or practices in connection with loans or extensions of credit that the Secretary finds to be unfair, deceptive, or otherwise not in the interests of the borrower.
 
-([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title I, § 10, as added [Pub. L. 110–289, div. B, title I, § 2149][/us/pl/110/289/s2149], July 30, 2008, [122 Stat. 2847][/us/stat/122/2847].)
+([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title I, § 10, as added [Pub. L. 110–289, div. B, title I][/us/pl/110/289/dB/tI], § 2149, July 30, 2008, [122 Stat. 2847][/us/stat/122/2847].)
 
 ----------
 
@@ -45,7 +45,7 @@
 ----------
 
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
-[/us/pl/110/289/s2149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs2149
+[/us/pl/110/289/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdB%2FtI
 [/us/stat/122/2847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2847
 
 

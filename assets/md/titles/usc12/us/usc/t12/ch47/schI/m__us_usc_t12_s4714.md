@@ -41,7 +41,7 @@
 
             The Fund, after deleting or redacting any material as appropriate to protect privacy or proprietary interests, shall make such reports submitted under paragraph (1) available for public inspection.
 
-([Pub. L. 103–325, title I, § 115][/us/pl/103/325/s115], Sept. 23, 1994, [108 Stat. 2184][/us/stat/108/2184].)
+([Pub. L. 103–325, title I][/us/pl/103/325/tI], § 115, Sept. 23, 1994, [108 Stat. 2184][/us/stat/108/2184].)
 
 ----------
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/103/325/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs115
+[/us/pl/103/325/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtI
 [/us/stat/108/2184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2184
 
 

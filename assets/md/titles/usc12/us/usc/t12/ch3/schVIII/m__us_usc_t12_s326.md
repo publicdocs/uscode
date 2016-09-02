@@ -17,7 +17,7 @@
 
     Whenever the directors of the Federal reserve bank shall approve the examinations made by the State authorities, such examinations and the reports thereof may be accepted in lieu of examinations made by examiners selected or approved by the Board of Governors of the Federal Reserve System: Provided, however, That when it deems it necessary the board may order special examinations by examiners of its own selection and shall in all cases approve the form of the report. The expenses of all examinations, other than those made by State authorities, may, in the discretion of the Board of Governors of the Federal Reserve System, be assessed against the banks examined and, when so assessed, shall be paid by the banks examined. The Board of Governors of the Federal Reserve System, at its discretion, may furnish any report of examination or other confidential supervisory information concerning any State member bank or other entity examined under any other authority of the Board, to any Federal or State agency or authority with supervisory or regulatory authority over the examined entity, to any officer, director, or receiver of the examined entity, and to any other person that the Board determines to be proper.
 
-([Dec. 23, 1913, ch. 6, § 9][/us/act/1913-12-23/ch6/s9] (par.), as added [June 21, 1917, ch. 32, § 3][/us/act/1917-06-21/ch32/s3], [40 Stat. 233][/us/stat/40/233]; amended [June 26, 1930, ch. 611, § 1][/us/act/1930-06-26/ch611/s1], [46 Stat. 814][/us/stat/46/814]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 203(a), [49 Stat. 704][/us/stat/49/704]; [Pub. L. 106–102, title VII, § 727(a)][/us/pl/106/102/s727/a], Nov. 12, 1999, [113 Stat. 1475][/us/stat/113/1475].)
+([Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 9 (par.), as added [June 21, 1917, ch. 32][/us/act/1917-06-21/ch32], § 3, [40 Stat. 233][/us/stat/40/233]; amended [June 26, 1930, ch. 611][/us/act/1930-06-26/ch611], § 1, [46 Stat. 814][/us/stat/46/814]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 203(a), [49 Stat. 704][/us/stat/49/704]; [Pub. L. 106–102, title VII][/us/pl/106/102/tVII], § 727(a), Nov. 12, 1999, [113 Stat. 1475][/us/stat/113/1475].)
 
  __Codification__ 
 
@@ -40,14 +40,14 @@
 ----------
 ----------
 
-[/us/act/1913-12-23/ch6/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs9
-[/us/act/1917-06-21/ch32/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-21%2Fch32%2Fs3
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
+[/us/act/1917-06-21/ch32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-21%2Fch32
 [/us/stat/40/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F233
-[/us/act/1930-06-26/ch611/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-26%2Fch611%2Fs1
+[/us/act/1930-06-26/ch611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-26%2Fch611
 [/us/stat/46/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F814
 [/us/act/1935-08-23/ch614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch614
 [/us/stat/49/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F704
-[/us/pl/106/102/s727/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs727%2Fa
+[/us/pl/106/102/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtVII
 [/us/stat/113/1475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1475
 [/us/stat/40/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F232
 [/us/stat/44/1229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1229

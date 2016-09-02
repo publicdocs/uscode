@@ -27,7 +27,7 @@
 
     (5) a commission for the foreclosure commissioner for the conduct of the foreclosure to the extent authorized by regulations issued by the Secretary.
 
-([Pub. L. 97–35, title III, § 369C][/us/pl/97/35/s369C], Aug. 13, 1981, [95 Stat. 429][/us/stat/95/429].)
+([Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 369C, Aug. 13, 1981, [95 Stat. 429][/us/stat/95/429].)
 
 ----------
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t28/s1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1921
-[/us/pl/97/35/s369C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs369C
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F429
 
 

@@ -121,7 +121,7 @@
 
         (B) with respect to an adjustable rate mortgage, the date on which the principal balance of the mortgage, based solely on the amortization schedule then in effect for that mortgage, and irrespective of the outstanding balance for that mortgage on that date, is first scheduled to reach 78 percent of the original value of the property securing the loan.
 
-([Pub. L. 105–216, § 2][/us/pl/105/216/s2], July 29, 1998, [112 Stat. 897][/us/stat/112/897]; [Pub. L. 106–569, title IV][/us/pl/106/569], §§ 402(a)(1), (b), 405(a), 406(b)–(d), Dec. 27, 2000, [114 Stat. 2956][/us/stat/114/2956], 2958, 2959.)
+([Pub. L. 105–216][/us/pl/105/216], § 2, July 29, 1998, [112 Stat. 897][/us/stat/112/897]; [Pub. L. 106–569, title IV][/us/pl/106/569/tIV], §§ 402(a)(1), (b), 405(a), 406(b)–(d), Dec. 27, 2000, [114 Stat. 2956][/us/stat/114/2956], 2958, 2959.)
 
  __References in Text__ 
 
@@ -133,55 +133,55 @@
 
  __Amendments__ 
 
-    2000—Par. (1). [Pub. L. 106–569, § 402(b)][/us/pl/106/569/s402/b], inserted at end “A residential mortgage that: (A) does not fully amortize over the term of the obligation; and (B) contains a conditional right to refinance or modify the unamortized principal at the maturity date of the term, shall be considered to be an adjustable rate mortgage for purposes of this chapter.”
+    2000—Par. (1). [Pub. L. 106–569][/us/pl/106/569], § 402(b), inserted at end “A residential mortgage that: (A) does not fully amortize over the term of the obligation; and (B) contains a conditional right to refinance or modify the unamortized principal at the maturity date of the term, shall be considered to be an adjustable rate mortgage for purposes of this chapter.”
 
-    Par. (2)(B)(i). [Pub. L. 106–569, § 402(a)(1)(A)][/us/pl/106/569/s402/a/1/A], substituted “the amortization schedule then in effect” for “amortization schedules”.
+    Par. (2)(B)(i). [Pub. L. 106–569][/us/pl/106/569], § 402(a)(1)(A), substituted “the amortization schedule then in effect” for “amortization schedules”.
 
-    Par. (4)(A). [Pub. L. 106–569, § 405(a)(1)][/us/pl/106/569/s405/a/1], inserted “the later of (i)” before “the date on which the mortgage” and “, or (ii) the date that the mortgagor submits a request for cancellation under [section 4902(a)(1) of this title][/us/usc/t12/s4902/a/1]” before the semicolon.
+    Par. (4)(A). [Pub. L. 106–569][/us/pl/106/569], § 405(a)(1), inserted “the later of (i)” before “the date on which the mortgage” and “, or (ii) the date that the mortgagor submits a request for cancellation under [section 4902(a)(1) of this title][/us/usc/t12/s4902/a/1]” before the semicolon.
 
-    Par. (4)(B). [Pub. L. 106–569, § 405(a)(2)][/us/pl/106/569/s405/a/2], inserted “the later of (i)” before “the date on which the mortgage” and “, or (ii) the date that the mortgagor submits a request for cancellation under [section 4902(a)(1) of this title][/us/usc/t12/s4902/a/1]” before period at end.
+    Par. (4)(B). [Pub. L. 106–569][/us/pl/106/569], § 405(a)(2), inserted “the later of (i)” before “the date on which the mortgage” and “, or (ii) the date that the mortgagor submits a request for cancellation under [section 4902(a)(1) of this title][/us/usc/t12/s4902/a/1]” before period at end.
 
-    Par. (6). [Pub. L. 106–569, § 402(a)(1)(D)][/us/pl/106/569/s402/a/1/D], added par. (6). Former par. (6) redesignated (8).
+    Par. (6). [Pub. L. 106–569][/us/pl/106/569], § 402(a)(1)(D), added par. (6). Former par. (6) redesignated (8).
 
-    Par. (7). [Pub. L. 106–569, § 406(b)][/us/pl/106/569/s406/b], added par. (7). Former par. (7) redesignated (9).
+    Par. (7). [Pub. L. 106–569][/us/pl/106/569], § 406(b), added par. (7). Former par. (7) redesignated (9).
 
-    Pars. (8) to (11). [Pub. L. 106–569, § 402(a)(1)(C)][/us/pl/106/569/s402/a/1/C], redesignated pars. (6) to (9) as (8) to (11), respectively. Former pars. (10) and (11) redesignated (12) and (13), respectively.
+    Pars. (8) to (11). [Pub. L. 106–569][/us/pl/106/569], § 402(a)(1)(C), redesignated pars. (6) to (9) as (8) to (11), respectively. Former pars. (10) and (11) redesignated (12) and (13), respectively.
 
-    Par. (12). [Pub. L. 106–569, § 406(c)][/us/pl/106/569/s406/c], inserted “transaction” after “a residential mortgage” and inserted at end “In the case of a residential mortgage transaction for refinancing the principal residence of the mortgagor, such term means only the appraised value relied upon by the mortgagee to approve the refinance transaction.”
+    Par. (12). [Pub. L. 106–569][/us/pl/106/569], § 406(c), inserted “transaction” after “a residential mortgage” and inserted at end “In the case of a residential mortgage transaction for refinancing the principal residence of the mortgagor, such term means only the appraised value relied upon by the mortgagee to approve the refinance transaction.”
 
-    [Pub. L. 106–569, § 402(a)(1)(C)][/us/pl/106/569/s402/a/1/C], redesignated par. (10) as (12). Former par. (12) redesignated (14).
+    [Pub. L. 106–569][/us/pl/106/569], § 402(a)(1)(C), redesignated par. (10) as (12). Former par. (12) redesignated (14).
 
-    Par. (13). [Pub. L. 106–569, § 402(a)(1)(C)][/us/pl/106/569/s402/a/1/C], redesignated par. (11) as (13). Former par. (13) redesignated (15).
+    Par. (13). [Pub. L. 106–569][/us/pl/106/569], § 402(a)(1)(C), redesignated par. (11) as (13). Former par. (13) redesignated (15).
 
-    Par. (14). [Pub. L. 106–569, § 406(d)(1)][/us/pl/106/569/s406/d/1], substituted “principal residence of the mortgagor” for “primary residence of the mortgagor”.
+    Par. (14). [Pub. L. 106–569][/us/pl/106/569], § 406(d)(1), substituted “principal residence of the mortgagor” for “primary residence of the mortgagor”.
 
-    [Pub. L. 106–569, § 402(a)(1)(C)][/us/pl/106/569/s402/a/1/C], redesignated par. (12) as (14). Former par. (14) redesignated (16).
+    [Pub. L. 106–569][/us/pl/106/569], § 402(a)(1)(C), redesignated par. (12) as (14). Former par. (14) redesignated (16).
 
-    Par. (15). [Pub. L. 106–569, § 406(d)(2)][/us/pl/106/569/s406/d/2], substituted “principal residence of the mortgagor” for “primary residence of the mortgagor”.
+    Par. (15). [Pub. L. 106–569][/us/pl/106/569], § 406(d)(2), substituted “principal residence of the mortgagor” for “primary residence of the mortgagor”.
 
-    [Pub. L. 106–569, § 402(a)(1)(C)][/us/pl/106/569/s402/a/1/C], redesignated par. (13) as (15). Former par. (15) redesignated (17).
+    [Pub. L. 106–569][/us/pl/106/569], § 402(a)(1)(C), redesignated par. (13) as (15). Former par. (15) redesignated (17).
 
-    Par. (16). [Pub. L. 106–569, § 402(a)(1)(C)][/us/pl/106/569/s402/a/1/C], redesignated par. (14) as (16). Former par. (16) redesignated (18).
+    Par. (16). [Pub. L. 106–569][/us/pl/106/569], § 402(a)(1)(C), redesignated par. (14) as (16). Former par. (16) redesignated (18).
 
-    Par. (16)(B). [Pub. L. 106–569, § 402(a)(1)(B)][/us/pl/106/569/s402/a/1/B], substituted “the amortization schedule then in effect” for “amortization schedules”.
+    Par. (16)(B). [Pub. L. 106–569][/us/pl/106/569], § 402(a)(1)(B), substituted “the amortization schedule then in effect” for “amortization schedules”.
 
-    Pars. (17), (18). [Pub. L. 106–569, § 402(a)(1)(C)][/us/pl/106/569/s402/a/1/C], redesignated pars. (15) and (16) as (17) and (18), respectively.
+    Pars. (17), (18). [Pub. L. 106–569][/us/pl/106/569], § 402(a)(1)(C), redesignated pars. (15) and (16) as (17) and (18), respectively.
 
  __Effective Date__ 
 
-[Pub. L. 105–216, § 13][/us/pl/105/216/s13], July 29, 1998, [112 Stat. 908][/us/stat/112/908], provided that: 
+[Pub. L. 105–216][/us/pl/105/216], § 13, July 29, 1998, [112 Stat. 908][/us/stat/112/908], provided that: 
 
 > “This Act \[enacting this chapter and amending [section 1088 of Title 20][/us/usc/t20/s1088], Education\], other than section 14 \[enacting provisions set out as notes under sections 1441a and 1831q of this title and amending provisions set out as a note under [section 1831q of this title][/us/usc/t12/s1831q]\], shall become effective 1 year after the date of enactment of this Act \[July 29, 1998\].”
 
  __Short Title of 2000 Amendment__ 
 
-[Pub. L. 106–569, title IV, § 401][/us/pl/106/569/s401], Dec. 27, 2000, [114 Stat. 2956][/us/stat/114/2956], provided that: 
+[Pub. L. 106–569, title IV][/us/pl/106/569/tIV], § 401, Dec. 27, 2000, [114 Stat. 2956][/us/stat/114/2956], provided that: 
 
 > “This title \[amending this section and sections 4902, 4903, and 4905 of this title\] may be cited as the ‘Private Mortgage Insurance Technical Corrections and Clarification Act’.”
 
  __Short Title__ 
 
-[Pub. L. 105–216, § 1(a)][/us/pl/105/216/s1/a], July 29, 1998, [112 Stat. 897][/us/stat/112/897], provided that: 
+[Pub. L. 105–216][/us/pl/105/216], § 1(a), July 29, 1998, [112 Stat. 897][/us/stat/112/897], provided that: 
 
 > “This Act \[enacting this chapter, amending [section 1088 of Title 20][/us/usc/t20/s1088], Education, enacting provisions set out as notes under sections 1441a and 1831q of this title, and amending provisions set out as a note under [section 1831q of this title][/us/usc/t12/s1831q]\] may be cited as the ‘Homeowners Protection Act of 1998’.”
 
@@ -197,9 +197,9 @@
 [/us/usc/t12/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701
 [/us/usc/t42/s1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1471
 [/us/usc/t12/s2605/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2605%2Fi%2F2
-[/us/pl/105/216/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F216%2Fs2
+[/us/pl/105/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F216
 [/us/stat/112/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F897
-[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/569/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2FtIV
 [/us/stat/114/2956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2956
 [/us/pl/105/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F216
 [/us/stat/112/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F897
@@ -209,32 +209,32 @@
 [/us/act/1949-07-15/ch338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-07-15%2Fch338
 [/us/stat/63/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F413
 [/us/usc/t42/s1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1441
-[/us/pl/106/569/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs402%2Fb
-[/us/pl/106/569/s402/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs402%2Fa%2F1%2FA
-[/us/pl/106/569/s405/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs405%2Fa%2F1
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
 [/us/usc/t12/s4902/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4902%2Fa%2F1
-[/us/pl/106/569/s405/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs405%2Fa%2F2
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
 [/us/usc/t12/s4902/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4902%2Fa%2F1
-[/us/pl/106/569/s402/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs402%2Fa%2F1%2FD
-[/us/pl/106/569/s406/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs406%2Fb
-[/us/pl/106/569/s402/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs402%2Fa%2F1%2FC
-[/us/pl/106/569/s406/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs406%2Fc
-[/us/pl/106/569/s402/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs402%2Fa%2F1%2FC
-[/us/pl/106/569/s402/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs402%2Fa%2F1%2FC
-[/us/pl/106/569/s406/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs406%2Fd%2F1
-[/us/pl/106/569/s402/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs402%2Fa%2F1%2FC
-[/us/pl/106/569/s406/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs406%2Fd%2F2
-[/us/pl/106/569/s402/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs402%2Fa%2F1%2FC
-[/us/pl/106/569/s402/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs402%2Fa%2F1%2FC
-[/us/pl/106/569/s402/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs402%2Fa%2F1%2FB
-[/us/pl/106/569/s402/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs402%2Fa%2F1%2FC
-[/us/pl/105/216/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F216%2Fs13
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/105/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F216
 [/us/stat/112/908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F908
 [/us/usc/t20/s1088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1088
 [/us/usc/t12/s1831q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1831q
-[/us/pl/106/569/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs401
+[/us/pl/106/569/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2FtIV
 [/us/stat/114/2956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2956
-[/us/pl/105/216/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F216%2Fs1%2Fa
+[/us/pl/105/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F216
 [/us/stat/112/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F897
 [/us/usc/t20/s1088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1088
 [/us/usc/t12/s1831q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1831q

@@ -17,7 +17,7 @@
 
     Every Federal reserve bank shall have power to purchase and sell in the open market, either from or to domestic banks, firms, corporations, or individuals, acceptances of Federal intermediate credit banks and of national agricultural credit corporations, whenever the Board of Governors of the Federal Reserve System shall declare that the public interest so requires.
 
-([Dec. 23, 1913, ch. 6, § 14(f)][/us/act/1913-12-23/ch6/s14/f], as added [Mar. 4, 1923, ch. 252][/us/act/1923-03-04/ch252], title IV, § 405, [42 Stat. 1480][/us/stat/42/1480]; amended [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 203(a), [49 Stat. 704][/us/stat/49/704].)
+([Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 14(f), as added [Mar. 4, 1923, ch. 252][/us/act/1923-03-04/ch252], title IV, § 405, [42 Stat. 1480][/us/stat/42/1480]; amended [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 203(a), [49 Stat. 704][/us/stat/49/704].)
 
  __Codification__ 
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/act/1913-12-23/ch6/s14/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs14%2Ff
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
 [/us/act/1923-03-04/ch252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1923-03-04%2Fch252
 [/us/stat/42/1480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F1480
 [/us/act/1935-08-23/ch614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch614

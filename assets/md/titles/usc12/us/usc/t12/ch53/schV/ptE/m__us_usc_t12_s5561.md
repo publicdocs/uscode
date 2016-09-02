@@ -37,11 +37,11 @@
 
         The term “violation” means any act or omission that, if proved, would constitute a violation of any provision of Federal consumer financial law.
 
-([Pub. L. 111–203, title X, § 1051][/us/pl/111/203/s1051], July 21, 2010, [124 Stat. 2018][/us/stat/124/2018].)
+([Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1051, July 21, 2010, [124 Stat. 2018][/us/stat/124/2018].)
 
  __Effective Date__ 
 
-[Pub. L. 111–203, title X, § 1058][/us/pl/111/203/s1058], July 21, 2010, [124 Stat. 2035][/us/stat/124/2035], provided that: 
+[Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1058, July 21, 2010, [124 Stat. 2035][/us/stat/124/2035], provided that: 
 
 > “This subtitle \[subtitle E (§§ 1051–1058), enacting this part\] shall become effective on the designated transfer date.”
 
@@ -54,9 +54,9 @@
 ----------
 ----------
 
-[/us/pl/111/203/s1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1051
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2018
-[/us/pl/111/203/s1058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1058
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2035
 [/us/usc/t12/s5481/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5481%2F9
 [/us/usc/t12/s5582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5582

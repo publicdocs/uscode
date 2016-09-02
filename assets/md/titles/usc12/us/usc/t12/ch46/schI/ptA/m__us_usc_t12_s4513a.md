@@ -61,7 +61,7 @@
 
         (6) such other matters relating to the Agency and its fulfillment of its mission, as the Board determines appropriate.
 
-([Pub. L. 102–550, title XIII, § 1313A][/us/pl/102/550/s1313A], as added [Pub. L. 110–289, div. A, title I, § 1103(a)][/us/pl/110/289/s1103/a], July 30, 2008, [122 Stat. 2665][/us/stat/122/2665].)
+([Pub. L. 102–550, title XIII][/us/pl/102/550/tXIII], § 1313A, as added [Pub. L. 110–289, div. A, title I][/us/pl/110/289/dA/tI], § 1103(a), July 30, 2008, [122 Stat. 2665][/us/stat/122/2665].)
 
  __References in Text__ 
 
@@ -74,8 +74,8 @@
 ----------
 ----------
 
-[/us/pl/102/550/s1313A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1313A
-[/us/pl/110/289/s1103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1103%2Fa
+[/us/pl/102/550/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIII
+[/us/pl/110/289/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtI
 [/us/stat/122/2665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2665
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/stat/106/3941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3941

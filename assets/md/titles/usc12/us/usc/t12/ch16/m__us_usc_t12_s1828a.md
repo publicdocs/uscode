@@ -87,7 +87,7 @@
 
             (B) modify or eliminate any such restriction or requirement the Corporation finds is no longer required for such purposes.
 
-([Pub. L. 106–102, title I, § 114][/us/pl/106/102/s114], Nov. 12, 1999, [113 Stat. 1369][/us/stat/113/1369]; [Pub. L. 109–173, § 9(i)][/us/pl/109/173/s9/i], Feb. 15, 2006, [119 Stat. 3618][/us/stat/119/3618].)
+([Pub. L. 106–102, title I][/us/pl/106/102/tI], § 114, Nov. 12, 1999, [113 Stat. 1369][/us/stat/113/1369]; [Pub. L. 109–173][/us/pl/109/173], § 9(i), Feb. 15, 2006, [119 Stat. 3618][/us/stat/119/3618].)
 
  __References in Text__ 
 
@@ -99,7 +99,7 @@
 
     The Federal Reserve Act, referred to in subsec. (b)(2)(A), (4)(A), is [act Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], [38 Stat. 251][/us/stat/38/251], as amended, which is classified principally to chapter 3 (§ 221 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under [section 226 of this title][/us/usc/t12/s226] and Tables.
 
-    The Federal Deposit Insurance Act, referred to in subsec. (c)(1)(A), is [act Sept. 21, 1950, ch. 967, § 2][/us/act/1950-09-21/ch967/s2], [64 Stat. 873][/us/stat/64/873], as amended, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1811 of this title][/us/usc/t12/s1811] and Tables.
+    The Federal Deposit Insurance Act, referred to in subsec. (c)(1)(A), is [act Sept. 21, 1950, ch. 967][/us/act/1950-09-21/ch967], § 2, [64 Stat. 873][/us/stat/64/873], as amended, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1811 of this title][/us/usc/t12/s1811] and Tables.
 
  __Codification__ 
 
@@ -128,9 +128,9 @@
 [/us/usc/t12/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs221
 [/us/usc/t12/s1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813
 [/us/usc/t12/s1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1811
-[/us/pl/106/102/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs114
+[/us/pl/106/102/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtI
 [/us/stat/113/1369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1369
-[/us/pl/109/173/s9/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173%2Fs9%2Fi
+[/us/pl/109/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173
 [/us/stat/119/3618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3618
 [/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102
 [/us/stat/113/1338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1338
@@ -141,7 +141,7 @@
 [/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
 [/us/stat/38/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F251
 [/us/usc/t12/s226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs226
-[/us/act/1950-09-21/ch967/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967%2Fs2
+[/us/act/1950-09-21/ch967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967
 [/us/stat/64/873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F873
 [/us/usc/t12/s1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1811
 [/us/pl/109/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173

@@ -27,15 +27,15 @@
 
     (b) It is the purpose of this chapter to provide a standby authority which will prevent widespread mortgage foreclosures and distress sales of homes resulting from the temporary loss of employment and income through a program of emergency loans and advances and emergency mortgage relief payments to homeowners to defray mortgage expenses.
 
-([Pub. L. 94–50, title I, § 102][/us/pl/94/50/s102], July 2, 1975, [89 Stat. 249][/us/stat/89/249].)
+([Pub. L. 94–50, title I][/us/pl/94/50/tI], § 102, July 2, 1975, [89 Stat. 249][/us/stat/89/249].)
 
  __Short Title__ 
 
-[Pub. L. 94–50, § 1][/us/pl/94/50/s1], July 2, 1975, [89 Stat. 249][/us/stat/89/249], provided: 
+[Pub. L. 94–50][/us/pl/94/50], § 1, July 2, 1975, [89 Stat. 249][/us/stat/89/249], provided: 
 
 > “That this Act \[enacting this chapter, amending sections 1723e and 1735b of this title and sections 1452 and 4106 of Title 42, The Public Health and Welfare, enacting provisions set out as a note under this section, and amending provisions set out as a note under [section 1723e of this title][/us/usc/t12/s1723e]\] may be cited as the ‘Emergency Housing Act of 1975’.”
 
-[Pub. L. 94–50, title I, § 101][/us/pl/94/50/s101], July 2, 1975, [89 Stat. 249][/us/stat/89/249], provided that: 
+[Pub. L. 94–50, title I][/us/pl/94/50/tI], § 101, July 2, 1975, [89 Stat. 249][/us/stat/89/249], provided that: 
 
 > “This title \[enacting this chapter\] may be cited as the ‘Emergency Homeowners’ Relief Act’.”
 
@@ -46,12 +46,12 @@
 ----------
 ----------
 
-[/us/pl/94/50/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F50%2Fs102
+[/us/pl/94/50/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F50%2FtI
 [/us/stat/89/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F249
-[/us/pl/94/50/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F50%2Fs1
+[/us/pl/94/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F50
 [/us/stat/89/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F249
 [/us/usc/t12/s1723e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1723e
-[/us/pl/94/50/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F50%2Fs101
+[/us/pl/94/50/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F50%2FtI
 [/us/stat/89/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F249
 
 

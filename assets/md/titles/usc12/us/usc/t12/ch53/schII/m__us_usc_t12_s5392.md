@@ -27,7 +27,7 @@
 
         In the event that the Corporation is appointed receiver for more than 1 covered financial company or is appointed receiver for a covered financial company and receiver for any insured depository institution that is an affiliate of such covered financial company, the Corporation shall take appropriate action, as necessary to avoid any conflicts of interest that may arise in connection with multiple receiverships.
 
-([Pub. L. 111–203, title II, § 212][/us/pl/111/203/s212], July 21, 2010, [124 Stat. 1516][/us/stat/124/1516].)
+([Pub. L. 111–203, title II][/us/pl/111/203/tII], § 212, July 21, 2010, [124 Stat. 1516][/us/stat/124/1516].)
 
  __References in Text__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/111/203/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs212
+[/us/pl/111/203/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtII
 [/us/stat/124/1516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1516
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1442

@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated to the Office $2,000,000 for the fiscal year ending September 30, 1979, and for each of the two succeeding fiscal years, such sums as may be necessary for the administration of this subchapter. Any sums so appropriated shall remain available until expended.
 
-([Pub. L. 95–351, title II, § 209][/us/pl/95/351/s209], Aug. 20, 1978, [92 Stat. 513][/us/stat/92/513].)
+([Pub. L. 95–351, title II][/us/pl/95/351/tII], § 209, Aug. 20, 1978, [92 Stat. 513][/us/stat/92/513].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/351/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F351%2Fs209
+[/us/pl/95/351/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F351%2FtII
 [/us/stat/92/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F513
 
 

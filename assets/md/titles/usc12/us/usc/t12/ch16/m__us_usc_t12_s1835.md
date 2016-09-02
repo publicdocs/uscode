@@ -87,7 +87,7 @@
 
         (9) the term “well capitalized” has the same meaning as in section 1831o(b) of this title.
 
-([Pub. L. 103–325, title II, § 208][/us/pl/103/325/s208], Sept. 23, 1994, [108 Stat. 2201][/us/stat/108/2201].)
+([Pub. L. 103–325, title II][/us/pl/103/325/tII], § 208, Sept. 23, 1994, [108 Stat. 2201][/us/stat/108/2201].)
 
  __Codification__ 
 
@@ -104,7 +104,7 @@
 [/us/usc/t12/s1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813
 [/us/usc/t12/s1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813
 [/us/usc/t15/s632/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632%2Fa
-[/us/pl/103/325/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs208
+[/us/pl/103/325/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtII
 [/us/stat/108/2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2201
 
 

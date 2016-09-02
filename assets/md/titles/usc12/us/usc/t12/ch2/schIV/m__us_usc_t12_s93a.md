@@ -17,7 +17,7 @@
 
     Except to the extent that authority to issue such rules and regulations has been expressly and exclusively granted to another regulatory agency, the Comptroller of the Currency is authorized to prescribe rules and regulations to carry out the responsibilities of the office, except that the authority conferred by this section does not apply to [section 36 of this title][/us/usc/t12/s36] or to securities activities of National Banks under the Act commonly known as the “Glass-Steagall Act”.
 
-(R.S. § 5239A, as added [Pub. L. 96–221, title VII, § 708][/us/pl/96/221/s708], Mar. 31, 1980, [94 Stat. 188][/us/stat/94/188].)
+(R.S. § 5239A, as added [Pub. L. 96–221, title VII][/us/pl/96/221/tVII], § 708, Mar. 31, 1980, [94 Stat. 188][/us/stat/94/188].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t12/s36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs36
-[/us/pl/96/221/s708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs708
+[/us/pl/96/221/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2FtVII
 [/us/stat/94/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F188
 [/us/act/1933-06-16/ch89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-16%2Fch89
 [/us/stat/48/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F162

@@ -13,9 +13,9 @@
 
 [Previous](./../../../..//us/usc/t12/ch9/m__us_usc_t12_ch9.md) | [Next](./../../../..//us/usc/t12/ch9/m__us_usc_t12_s1151a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1151)
 
-## § 1151. Repealed. [Pub. L. 86–230, § 24][/us/pl/86/230/s24], Sept. 8, 1959, [73 Stat. 466][/us/stat/73/466]
+## § 1151. Repealed. [Pub. L. 86–230][/us/pl/86/230], § 24, Sept. 8, 1959, [73 Stat. 466][/us/stat/73/466]
 
-    Section, [act Mar. 4, 1923, ch. 252][/us/act/1923-03-04/ch252], title II, § 201, [42 Stat. 1461][/us/stat/42/1461], related to purpose, incorporators, articles of association and signing and filing thereof.
+    Section, [act Mar. 4, 1923, ch. 252, title II][/us/act/1923-03-04/ch252/tII], § 201, [42 Stat. 1461][/us/stat/42/1461], related to purpose, incorporators, articles of association and signing and filing thereof.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/pl/86/230/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F230%2Fs24
+[/us/pl/86/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F230
 [/us/stat/73/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F466
-[/us/act/1923-03-04/ch252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1923-03-04%2Fch252
+[/us/act/1923-03-04/ch252/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1923-03-04%2Fch252%2FtII
 [/us/stat/42/1461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F1461
 
 

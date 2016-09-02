@@ -17,7 +17,7 @@
 
     The Bank shall implement such regulations and procedures as may be appropriate to insure that full consideration is given to the extent to which any loan or financial guarantee is likely to have an adverse effect on industries, including agriculture, and employment in the United States, either by reducing demand for goods produced in the United States or by increasing imports to the United States. To carry out the purposes of this subsection, <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “section,”. </sup></sup>  the Bank shall request, and the United States International Trade Commission shall furnish, a report assessing the impact of the Bank’s activities on industries and employment in the United States. Such report shall include an assessment of previous loans or financial guarantees and shall provide recommendations concerning general areas which may adversely affect domestic industries, including agriculture, and employment. After October 1, 1983, there are authorized to be appropriated such sums as may be necessary to carry out the provisions of this section. In all cases to which this section applies, the Bank shall consider and address in writing the views of parties or persons who may be substantially adversely affected by the loan or guarantee prior to taking final action on the loan or guarantee. This requirement does not subject the Bank to the provisions of subchapter II of chapter 5 of title 5.
 
-([Pub. L. 95–630, title XIX, § 1911][/us/pl/95/630/s1911], Nov. 10, 1978, [92 Stat. 3726][/us/stat/92/3726]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title VI, § 632\], Nov. 30, 1983, [97 Stat. 1262][/us/stat/97/1262]; [Pub. L. 99–472, § 12][/us/pl/99/472/s12], Oct. 15, 1986, [100 Stat. 1204][/us/stat/100/1204].)
+([Pub. L. 95–630, title XIX][/us/pl/95/630/tXIX], § 1911, Nov. 10, 1978, [92 Stat. 3726][/us/stat/92/3726]; [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title VI, § 632\], Nov. 30, 1983, [97 Stat. 1262][/us/stat/97/1262]; [Pub. L. 99–472][/us/pl/99/472], § 12, Oct. 15, 1986, [100 Stat. 1204][/us/stat/100/1204].)
 
  __Codification__ 
 
@@ -35,7 +35,7 @@
 
  __Improvement of Method for Calculating the Effects of Bank Financing on Job Creation and Maintenance in the United States__ 
 
-[Pub. L. 112–122, § 16][/us/pl/112/122/s16], May 30, 2012, [126 Stat. 359][/us/stat/126/359], provided that:
+[Pub. L. 112–122][/us/pl/112/122], § 16, May 30, 2012, [126 Stat. 359][/us/stat/126/359], provided that:
 
 >     “(a)  __GAO Study__  __.—__ 
 
@@ -56,17 +56,17 @@
 ----------
 ----------
 
-[/us/pl/95/630/s1911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs1911
+[/us/pl/95/630/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtXIX
 [/us/stat/92/3726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3726
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1262
-[/us/pl/99/472/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F472%2Fs12
+[/us/pl/99/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F472
 [/us/stat/100/1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1204
 [/us/pl/99/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F472
 [/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
 [/us/pl/95/630/s1917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs1917
 [/us/usc/t12/s635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635
-[/us/pl/112/122/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F122%2Fs16
+[/us/pl/112/122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F122
 [/us/stat/126/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F359
 
 

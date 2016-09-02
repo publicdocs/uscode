@@ -21,7 +21,7 @@
 
     (c) The Secretary may establish an exception to any minimum property standard established under this section in order to address alternative water systems, including cisterns, which meet requirements of State and local building codes that ensure health and safety standards.
 
-([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title V, § 526, as added [Pub. L. 93–383, title III, § 305][/us/pl/93/383/s305], Aug. 22, 1974, [88 Stat. 678][/us/stat/88/678]; amended [Pub. L. 95–619, title II, § 252(a)][/us/pl/95/619/s252/a], Nov. 9, 1978, [92 Stat. 3236][/us/stat/92/3236]; [Pub. L. 96–399, title III, § 326(e)][/us/pl/96/399/s326/e], Oct. 8, 1980, [94 Stat. 1650][/us/stat/94/1650]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title IV, § 405\], Nov. 30, 1983, [97 Stat. 1210][/us/stat/97/1210]; [Pub. L. 98–479, title I, § 104(a)(6)][/us/pl/98/479/s104/a/6], Oct. 17, 1984, [98 Stat. 2225][/us/stat/98/2225]; [Pub. L. 114–113, div. L, title II, § 238][/us/pl/114/113/s238], Dec. 18, 2015, [129 Stat. 2897][/us/stat/129/2897].)
+([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title V, § 526, as added [Pub. L. 93–383, title III][/us/pl/93/383/tIII], § 305, Aug. 22, 1974, [88 Stat. 678][/us/stat/88/678]; amended [Pub. L. 95–619, title II][/us/pl/95/619/tII], § 252(a), Nov. 9, 1978, [92 Stat. 3236][/us/stat/92/3236]; [Pub. L. 96–399, title III][/us/pl/96/399/tIII], § 326(e), Oct. 8, 1980, [94 Stat. 1650][/us/stat/94/1650]; [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title IV, § 405\], Nov. 30, 1983, [97 Stat. 1210][/us/stat/97/1210]; [Pub. L. 98–479, title I][/us/pl/98/479/tI], § 104(a)(6), Oct. 17, 1984, [98 Stat. 2225][/us/stat/98/2225]; [Pub. L. 114–113, div. L, title II][/us/pl/114/113/dL/tII], § 238, Dec. 18, 2015, [129 Stat. 2897][/us/stat/129/2897].)
 
  __Amendments__ 
 
@@ -43,17 +43,17 @@
 ----------
 
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
-[/us/pl/93/383/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs305
+[/us/pl/93/383/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtIII
 [/us/stat/88/678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F678
-[/us/pl/95/619/s252/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs252%2Fa
+[/us/pl/95/619/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtII
 [/us/stat/92/3236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3236
-[/us/pl/96/399/s326/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs326%2Fe
+[/us/pl/96/399/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2FtIII
 [/us/stat/94/1650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1650
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1210
-[/us/pl/98/479/s104/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2Fs104%2Fa%2F6
+[/us/pl/98/479/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2FtI
 [/us/stat/98/2225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2225
-[/us/pl/114/113/s238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs238
+[/us/pl/114/113/dL/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdL%2FtII
 [/us/stat/129/2897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2897
 [/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/98/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479

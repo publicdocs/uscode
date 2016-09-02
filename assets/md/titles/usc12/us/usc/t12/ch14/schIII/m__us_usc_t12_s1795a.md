@@ -33,7 +33,7 @@
 
     (4) “member” means a Regular or an Agent member of the Facility.
 
-([June 26, 1934, ch. 750][/us/act/1934-06-26/ch750], title III, formerly subch. III, § 302, as added [Pub. L. 95–630, title XVIII, § 1802][/us/pl/95/630/s1802], Nov. 10, 1978, [92 Stat. 3719][/us/stat/92/3719]; amended [Pub. L. 96–221, title III, § 309(b)(1)][/us/pl/96/221/s309/b/1], (2), Mar. 31, 1980, [94 Stat. 149][/us/stat/94/149].)
+([June 26, 1934, ch. 750][/us/act/1934-06-26/ch750], title III, formerly subch. III, § 302, as added [Pub. L. 95–630, title XVIII][/us/pl/95/630/tXVIII], § 1802, Nov. 10, 1978, [92 Stat. 3719][/us/stat/92/3719]; amended [Pub. L. 96–221, title III][/us/pl/96/221/tIII], § 309(b)(1), (2), Mar. 31, 1980, [94 Stat. 149][/us/stat/94/149].)
 
  __Codification__ 
 
@@ -41,7 +41,7 @@
 
  __Amendments__ 
 
-    1980—[Pub. L. 96–221, § 309(b)(2)][/us/pl/96/221/s309/b/2], substituted “title” for “subchapter”, which for purposes of codification has been editorially translated as “subchapter”, thereby requiring no further change in text.
+    1980—[Pub. L. 96–221][/us/pl/96/221], § 309(b)(2), substituted “title” for “subchapter”, which for purposes of codification has been editorially translated as “subchapter”, thereby requiring no further change in text.
 
 ----------
 
@@ -51,12 +51,12 @@
 ----------
 
 [/us/act/1934-06-26/ch750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-26%2Fch750
-[/us/pl/95/630/s1802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs1802
+[/us/pl/95/630/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtXVIII
 [/us/stat/92/3719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3719
-[/us/pl/96/221/s309/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs309%2Fb%2F1
+[/us/pl/96/221/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2FtIII
 [/us/stat/94/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F149
 [/us/pl/96/221/s309/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs309%2Fb%2F1
 [/us/act/1934-06-26/ch750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-26%2Fch750
-[/us/pl/96/221/s309/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs309%2Fb%2F2
+[/us/pl/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221
 
 

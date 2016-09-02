@@ -129,7 +129,7 @@
 
             Solely with respect to the housing goals established under sections 4562(a) and 4563(a)(1) of this title, if the Director requires an enterprise to submit a housing plan under this subsection and the enterprise refuses to submit such a plan, submits an unacceptable plan, or fails to comply with the plan, the Director may issue a cease and desist order in accordance with [section 4581 of this title][/us/usc/t12/s4581], impose civil money penalties in accordance with [section 4585 of this title][/us/usc/t12/s4585], exercise other appropriate enforcement authority or seek other appropriate actions.
 
-([Pub. L. 102–550, title XIII, § 1336][/us/pl/102/550/s1336], Oct. 28, 1992, [106 Stat. 3962][/us/stat/106/3962]; [Pub. L. 110–289, div. A, title I][/us/pl/110/289], §§ 1122(a)(1), 1128(c)(2), 1129(b), (c), 1130(a), July 30, 2008, [122 Stat. 2689][/us/stat/122/2689], 2702, 2705, 2706.)
+([Pub. L. 102–550, title XIII][/us/pl/102/550/tXIII], § 1336, Oct. 28, 1992, [106 Stat. 3962][/us/stat/106/3962]; [Pub. L. 110–289, div. A, title I][/us/pl/110/289/dA/tI], §§ 1122(a)(1), 1128(c)(2), 1129(b), (c), 1130(a), July 30, 2008, [122 Stat. 2689][/us/stat/122/2689], 2702, 2705, 2706.)
 
  __References in Text__ 
 
@@ -141,19 +141,19 @@
 
  __Amendments__ 
 
-    2008—Subsec. (a). [Pub. L. 110–289, § 1122(a)(1)][/us/pl/110/289/s1122/a/1], substituted “Director” for “Secretary” wherever appearing in pars. (1) to (3).
+    2008—Subsec. (a). [Pub. L. 110–289][/us/pl/110/289], § 1122(a)(1), substituted “Director” for “Secretary” wherever appearing in pars. (1) to (3).
 
-    Subsec. (a)(1). [Pub. L. 110–289, § 1129(b)(1)][/us/pl/110/289/s1129/b/1], inserted “and with the duty under [section 4565(a) of this title][/us/usc/t12/s4565/a] of each enterprise with respect to underserved markets,” before “as provided in this section”.
+    Subsec. (a)(1). [Pub. L. 110–289][/us/pl/110/289], § 1129(b)(1), inserted “and with the duty under [section 4565(a) of this title][/us/usc/t12/s4565/a] of each enterprise with respect to underserved markets,” before “as provided in this section”.
 
-    [Pub. L. 110–289, § 1128(c)(2)][/us/pl/110/289/s1128/c/2], substituted “this subpart” for “sections 4562, 4563, and 4564 of this title,”.
+    [Pub. L. 110–289][/us/pl/110/289], § 1128(c)(2), substituted “this subpart” for “sections 4562, 4563, and 4564 of this title,”.
 
-    Subsec. (a)(2). [Pub. L. 110–289, § 1129(c)(1)][/us/pl/110/289/s1129/c/1], inserted “, except as provided in paragraph (5),” before “may assign”.
+    Subsec. (a)(2). [Pub. L. 110–289][/us/pl/110/289], § 1129(c)(1), inserted “, except as provided in paragraph (5),” before “may assign”.
 
-    Subsec. (a)(4). [Pub. L. 110–289, § 1129(b)(2)][/us/pl/110/289/s1129/b/2], added par. (4).
+    Subsec. (a)(4). [Pub. L. 110–289][/us/pl/110/289], § 1129(b)(2), added par. (4).
 
-    Subsec. (a)(5). [Pub. L. 110–289, § 1129(c)(2)][/us/pl/110/289/s1129/c/2], added par. (5).
+    Subsec. (a)(5). [Pub. L. 110–289][/us/pl/110/289], § 1129(c)(2), added par. (5).
 
-    Subsecs. (b), (c). [Pub. L. 110–289, § 1130(a)][/us/pl/110/289/s1130/a], added subsecs. (b) and (c) and struck out former subsecs. (b) and (c) which related to notice and determination of failure to meet housing goals and submission of housing plans, respectively.
+    Subsecs. (b), (c). [Pub. L. 110–289][/us/pl/110/289], § 1130(a), added subsecs. (b) and (c) and struck out former subsecs. (b) and (c) which related to notice and determination of failure to meet housing goals and submission of housing plans, respectively.
 
 ----------
 
@@ -173,9 +173,9 @@
 [/us/usc/t12/s1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1451
 [/us/usc/t12/s4581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4581
 [/us/usc/t12/s4585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4585
-[/us/pl/102/550/s1336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1336
+[/us/pl/102/550/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIII
 [/us/stat/106/3962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3962
-[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtI
 [/us/stat/122/2689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2689
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/stat/106/3941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3941
@@ -186,13 +186,13 @@
 [/us/pl/91/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F351
 [/us/stat/84/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F451
 [/us/usc/t12/s1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1451
-[/us/pl/110/289/s1122/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1122%2Fa%2F1
-[/us/pl/110/289/s1129/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1129%2Fb%2F1
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
 [/us/usc/t12/s4565/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4565%2Fa
-[/us/pl/110/289/s1128/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1128%2Fc%2F2
-[/us/pl/110/289/s1129/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1129%2Fc%2F1
-[/us/pl/110/289/s1129/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1129%2Fb%2F2
-[/us/pl/110/289/s1129/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1129%2Fc%2F2
-[/us/pl/110/289/s1130/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1130%2Fa
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
 
 

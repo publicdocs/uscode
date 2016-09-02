@@ -67,7 +67,7 @@
 
         On the earlier of the date of a submission made to Congress under [section 5612(c) of this title][/us/usc/t12/s5612/c], or within 30 days of the date of a determination under subsection (a), the Secretary shall provide written notice of the determination of the Corporation and the Board of Governors to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives, including a description of the basis for the determination.
 
-([Pub. L. 111–203, title XI, § 1104][/us/pl/111/203/s1104], July 21, 2010, [124 Stat. 2120][/us/stat/124/2120].)
+([Pub. L. 111–203, title XI][/us/pl/111/203/tXI], § 1104, July 21, 2010, [124 Stat. 2120][/us/stat/124/2120].)
 
  __Effective Date__ 
 
@@ -86,7 +86,7 @@
 [/us/usc/t12/s5612/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5612%2Fa
 [/us/usc/t12/s5612/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5612%2Fc
 [/us/usc/t12/s5612/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5612%2Fc
-[/us/pl/111/203/s1104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1104
+[/us/pl/111/203/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtXI
 [/us/stat/124/2120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2120
 [/us/pl/111/203/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs4
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301

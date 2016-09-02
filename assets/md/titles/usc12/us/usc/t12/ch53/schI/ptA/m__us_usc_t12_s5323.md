@@ -183,7 +183,7 @@
 
         In exercising its duties under this subchapter with respect to foreign nonbank financial companies, foreign-based bank holding companies, and cross-border activities and markets, the Council shall consult with appropriate foreign regulatory authorities, to the extent appropriate.
 
-([Pub. L. 111–203, title I, § 113][/us/pl/111/203/s113], July 21, 2010, [124 Stat. 1398][/us/stat/124/1398].)
+([Pub. L. 111–203, title I][/us/pl/111/203/tI], § 113, July 21, 2010, [124 Stat. 1398][/us/stat/124/1398].)
 
  __References in Text__ 
 
@@ -201,7 +201,7 @@
 [/us/usc/t12/s5367/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5367%2Fb%2F2
 [/us/usc/t12/s5367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5367
 [/us/usc/t12/s1843/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1843%2Fk
-[/us/pl/111/203/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs113
+[/us/pl/111/203/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtI
 [/us/stat/124/1398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1398
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1391

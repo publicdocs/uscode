@@ -45,7 +45,7 @@
 
             Nothing in this subsection reduces the rights of a consumer or any other person under the Uniform Commercial Code or other applicable provision of Federal or State law.
 
-([Pub. L. 108–100, § 10][/us/pl/108/100/s10], Oct. 28, 2003, [117 Stat. 1188][/us/stat/117/1188].)
+([Pub. L. 108–100][/us/pl/108/100], § 10, Oct. 28, 2003, [117 Stat. 1188][/us/stat/117/1188].)
 
  __References in Text__ 
 
@@ -59,7 +59,7 @@
 ----------
 
 [/us/usc/t12/s5005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5005
-[/us/pl/108/100/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F100%2Fs10
+[/us/pl/108/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F100
 [/us/stat/117/1188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1188
 [/us/pl/108/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F100
 [/us/stat/117/1177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1177

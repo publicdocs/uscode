@@ -27,13 +27,13 @@
 
     For the purposes of this section, (1) the term “property” includes gold, silver, currency, credits, deposits, securities, choses in action, and any other form of property, the proceeds thereof, and any right, title, or interest therein; (2) the term “foreign state” includes any foreign government or any department, district, province, county, possession, or other similar governmental organization or subdivision of a foreign government, and any agency or instrumentality of any such foreign government or of any such organization or subdivision; (3) the term “central bank” includes any foreign bank or banker authorized to perform any one or more of the functions of a central bank; (4) the term “person” includes any individual, or any corporation, partnership, association, or other similar organization; and (5) the term “insured bank” shall have the meaning given to it in section 12B of this Act.
 
-([Dec. 23, 1913, ch. 6, § 25B][/us/act/1913-12-23/ch6/s25B], formerly § 25(b), as added [June 16, 1933, ch. 89, § 15][/us/act/1933-06-16/ch89/s15], [48 Stat. 184][/us/stat/48/184]; amended [Apr. 7, 1941, ch. 43, § 2][/us/act/1941-04-07/ch43/s2], [55 Stat. 131][/us/stat/55/131]; renumbered § 25B, [Pub. L. 102–242, title I, § 142(e)(3)][/us/pl/102/242/s142/e/3], Dec. 19, 1991, [105 Stat. 2281][/us/stat/105/2281].)
+([Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 25B, formerly § 25(b), as added [June 16, 1933, ch. 89][/us/act/1933-06-16/ch89], § 15, [48 Stat. 184][/us/stat/48/184]; amended [Apr. 7, 1941, ch. 43][/us/act/1941-04-07/ch43], § 2, [55 Stat. 131][/us/stat/55/131]; renumbered § 25B, [Pub. L. 102–242, title I][/us/pl/102/242/tI], § 142(e)(3), Dec. 19, 1991, [105 Stat. 2281][/us/stat/105/2281].)
 
  __References in Text__ 
 
-    The Gold Reserve Act of 1934, as amended, referred to in text, is [act Jan. 30, 1934, ch. 6][/us/act/1934-01-30/ch6], [48 Stat. 337][/us/stat/48/337], as amended, which enacted sections 315b, 405b, 408a, 408b, 440 to 446, 754a, 754b, 822a, 822b, and 824 of former Title 31, Money and Finance, and amended sections 314, 316, 733, 734, 752, 753, 767, 771, and 821 of former Title 31 and sections 411, 412, 413, 414, 415, 417, and 467 of this title. Title 31 was revised, codified, and enacted into law by [Pub. L. 97–258, § 1][/us/pl/97/258/s1], Sept. 13, 1982, [96 Stat. 877][/us/stat/96/877]. For disposition of sections of former Title 31 into revised Title 31, see Table preceding [section 101 of Title 31][/us/usc/t31/s101]. For complete classification of this Act to the Code, see Tables.
+    The Gold Reserve Act of 1934, as amended, referred to in text, is [act Jan. 30, 1934, ch. 6][/us/act/1934-01-30/ch6], [48 Stat. 337][/us/stat/48/337], as amended, which enacted sections 315b, 405b, 408a, 408b, 440 to 446, 754a, 754b, 822a, 822b, and 824 of former Title 31, Money and Finance, and amended sections 314, 316, 733, 734, 752, 753, 767, 771, and 821 of former Title 31 and sections 411, 412, 413, 414, 415, 417, and 467 of this title. Title 31 was revised, codified, and enacted into law by [Pub. L. 97–258][/us/pl/97/258], § 1, Sept. 13, 1982, [96 Stat. 877][/us/stat/96/877]. For disposition of sections of former Title 31 into revised Title 31, see Table preceding [section 101 of Title 31][/us/usc/t31/s101]. For complete classification of this Act to the Code, see Tables.
 
-    The Silver Purchase Act of 1934, as amended, referred to in text, is [act June 19, 1934, ch. 674][/us/act/1934-06-19/ch674], [48 Stat. 1178][/us/stat/48/1178], which was classified to sections 311a, 316a, 316b, 405a, 448 to 448e, 734a, and 734b of former Title 31, Money and Finance, and was repealed by [Pub. L. 88–36, title I, § 1][/us/pl/88/36/s1], June 4, 1963, [77 Stat. 54][/us/stat/77/54]. For complete classification of this Act to the Code, see Tables.
+    The Silver Purchase Act of 1934, as amended, referred to in text, is [act June 19, 1934, ch. 674][/us/act/1934-06-19/ch674], [48 Stat. 1178][/us/stat/48/1178], which was classified to sections 311a, 316a, 316b, 405a, 448 to 448e, 734a, and 734b of former Title 31, Money and Finance, and was repealed by [Pub. L. 88–36, title I][/us/pl/88/36/tI], § 1, June 4, 1963, [77 Stat. 54][/us/stat/77/54]. For complete classification of this Act to the Code, see Tables.
 
     Subdivision (b) of [section 5 of the Act of October 6, 1917][/us/act/1917-10-06/s5], referred to in text, is classified to [section 4305(b) of Title 50][/us/usc/t50/s4305/b], War and National Defense.
 
@@ -55,21 +55,21 @@
 ----------
 
 [/us/act/1917-10-06/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fs5
-[/us/act/1913-12-23/ch6/s25B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs25B
-[/us/act/1933-06-16/ch89/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-16%2Fch89%2Fs15
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
+[/us/act/1933-06-16/ch89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-16%2Fch89
 [/us/stat/48/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F184
-[/us/act/1941-04-07/ch43/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-04-07%2Fch43%2Fs2
+[/us/act/1941-04-07/ch43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-04-07%2Fch43
 [/us/stat/55/131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F131
-[/us/pl/102/242/s142/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs142%2Fe%2F3
+[/us/pl/102/242/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtI
 [/us/stat/105/2281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2281
 [/us/act/1934-01-30/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-01-30%2Fch6
 [/us/stat/48/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F337
-[/us/pl/97/258/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs1
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F877
 [/us/usc/t31/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs101
 [/us/act/1934-06-19/ch674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch674
 [/us/stat/48/1178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1178
-[/us/pl/88/36/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F36%2Fs1
+[/us/pl/88/36/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F36%2FtI
 [/us/stat/77/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F54
 [/us/act/1917-10-06/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fs5
 [/us/usc/t50/s4305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4305%2Fb

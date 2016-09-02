@@ -71,7 +71,7 @@
 
         The provisions of this section shall not take effect until appropriations are specifically provided in advance. There are hereby authorized to be appropriated such sums as may be necessary to carry out the provisions of this section.
 
-([Pub. L. 102–242, title II, § 232][/us/pl/102/242/s232], Dec. 19, 1991, [105 Stat. 2308][/us/stat/105/2308]; [Pub. L. 102–550, title XVI][/us/pl/102/550], §§ 1604(b)(1), 1605(a)(3), Oct. 28, 1992, [106 Stat. 4083][/us/stat/106/4083], 4085; [Pub. L. 102–558, title III][/us/pl/102/558], §§ 303(b)(1), (4), 305, Oct. 28, 1992, [106 Stat. 4224–4226][/us/stat/106/4224-4226]; [Pub. L. 104–208, div. A, title II, § 2704(d)(16)][/us/pl/104/208/s2704/d/16], Sept. 30, 1996, [110 Stat. 3009–495][/us/stat/110/3009-495]; [Pub. L. 109–171, title II, § 2102(b)][/us/pl/109/171/s2102/b], Feb. 8, 2006, [120 Stat. 9][/us/stat/120/9]; [Pub. L. 109–173, § 3(a)(9)][/us/pl/109/173/s3/a/9], Feb. 15, 2006, [119 Stat. 3606][/us/stat/119/3606]; [Pub. L. 111–203, title III, § 353][/us/pl/111/203/s353], July 21, 2010, [124 Stat. 1546][/us/stat/124/1546].)
+([Pub. L. 102–242, title II][/us/pl/102/242/tII], § 232, Dec. 19, 1991, [105 Stat. 2308][/us/stat/105/2308]; [Pub. L. 102–550, title XVI][/us/pl/102/550/tXVI], §§ 1604(b)(1), 1605(a)(3), Oct. 28, 1992, [106 Stat. 4083][/us/stat/106/4083], 4085; [Pub. L. 102–558, title III][/us/pl/102/558/tIII], §§ 303(b)(1), (4), 305, Oct. 28, 1992, [106 Stat. 4224–4226][/us/stat/106/4224-4226]; [Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], § 2704(d)(16), Sept. 30, 1996, [110 Stat. 3009–495][/us/stat/110/3009-495]; [Pub. L. 109–171, title II][/us/pl/109/171/tII], § 2102(b), Feb. 8, 2006, [120 Stat. 9][/us/stat/120/9]; [Pub. L. 109–173][/us/pl/109/173], § 3(a)(9), Feb. 15, 2006, [119 Stat. 3606][/us/stat/119/3606]; [Pub. L. 111–203, title III][/us/pl/111/203/tIII], § 353, July 21, 2010, [124 Stat. 1546][/us/stat/124/1546].)
 
  __Codification__ 
 
@@ -81,29 +81,29 @@
 
  __Amendments__ 
 
-    2010—Subsec. (a). [Pub. L. 111–203, § 353(1)][/us/pl/111/203/s353/1], struck out “by Federal Reserve Board” at end of heading.
+    2010—Subsec. (a). [Pub. L. 111–203][/us/pl/111/203], § 353(1), struck out “by Federal Reserve Board” at end of heading.
 
-    Subsec. (a)(1). [Pub. L. 111–203, § 353(2)][/us/pl/111/203/s353/2], substituted “The Comptroller of the Currency” for “The Board of Governors of the Federal Reserve System,” and “section 1817(b)(2)(E)” for “section 1817(b)(2)(H)”.
+    Subsec. (a)(1). [Pub. L. 111–203][/us/pl/111/203], § 353(2), substituted “The Comptroller of the Currency” for “The Board of Governors of the Federal Reserve System,” and “section 1817(b)(2)(E)” for “section 1817(b)(2)(H)”.
 
-    Subsec. (a)(2)(A). [Pub. L. 111–203, § 353(3)][/us/pl/111/203/s353/3], substituted “Comptroller” for “Board”.
+    Subsec. (a)(2)(A). [Pub. L. 111–203][/us/pl/111/203], § 353(3), substituted “Comptroller” for “Board”.
 
-    Subsec. (a)(3). [Pub. L. 111–203, § 353(4)][/us/pl/111/203/s353/4], added subpar. (A) and redesignated former subpars. (A) to (C) as (B) to (D), respectively.
+    Subsec. (a)(3). [Pub. L. 111–203][/us/pl/111/203], § 353(4), added subpar. (A) and redesignated former subpars. (A) to (C) as (B) to (D), respectively.
 
-    2006—Subsec. (a)(1). [Pub. L. 109–171][/us/pl/109/171] repealed [Pub. L. 104–208, § 2704(d)(16)][/us/pl/104/208/s2704/d/16]. See 1996 Amendment note below.
+    2006—Subsec. (a)(1). [Pub. L. 109–171][/us/pl/109/171] repealed [Pub. L. 104–208][/us/pl/104/208], § 2704(d)(16). See 1996 Amendment note below.
 
-    Subsec. (a)(2). [Pub. L. 109–173, § 3(a)(9)(A)][/us/pl/109/173/s3/a/9/A], struck out “the Board and” before “the Corporation” in introductory provisions.
+    Subsec. (a)(2). [Pub. L. 109–173][/us/pl/109/173], § 3(a)(9)(A), struck out “the Board and” before “the Corporation” in introductory provisions.
 
-    Subsec. (a)(2)(J). [Pub. L. 109–173, § 3(a)(9)(B)][/us/pl/109/173/s3/a/9/B], substituted “the Corporation” for “the Board”.
+    Subsec. (a)(2)(J). [Pub. L. 109–173][/us/pl/109/173], § 3(a)(9)(B), substituted “the Corporation” for “the Board”.
 
-    Subsec. (a)(3)(A). [Pub. L. 109–173, § 3(a)(9)(C)][/us/pl/109/173/s3/a/9/C], added subpar. (A) and struck out heading and text of former subpar. (A). Text read as follows: “The term ‘Board’ means the Board of Governors of the Federal Reserve System.”
+    Subsec. (a)(3)(A). [Pub. L. 109–173][/us/pl/109/173], § 3(a)(9)(C), added subpar. (A) and struck out heading and text of former subpar. (A). Text read as follows: “The term ‘Board’ means the Board of Governors of the Federal Reserve System.”
 
-    Subsec. (a)(3)(C). [Pub. L. 109–173, § 3(a)(9)(D)][/us/pl/109/173/s3/a/9/D], substituted “Corporation” for “Board”.
+    Subsec. (a)(3)(C). [Pub. L. 109–173][/us/pl/109/173], § 3(a)(9)(D), substituted “Corporation” for “Board”.
 
-    1996—Subsec. (a)(1). [Pub. L. 104–208, § 2704(d)(16)][/us/pl/104/208/s2704/d/16], which directed substitution of “[section 1817(b)(2)(G) of this title][/us/usc/t12/s1817/b/2/G]” for “[section 1817(b)(2)(H) of this title][/us/usc/t12/s1817/b/2/H]”, was repealed by [Pub. L. 109–171][/us/pl/109/171]. See Effective Date of 1996 Amendment note below.
+    1996—Subsec. (a)(1). [Pub. L. 104–208][/us/pl/104/208], § 2704(d)(16), which directed substitution of “[section 1817(b)(2)(G) of this title][/us/usc/t12/s1817/b/2/G]” for “[section 1817(b)(2)(H) of this title][/us/usc/t12/s1817/b/2/H]”, was repealed by [Pub. L. 109–171][/us/pl/109/171]. See Effective Date of 1996 Amendment note below.
 
-    1992—Subsec. (a)(1). [Pub. L. 102–558, § 303(b)(4)][/us/pl/102/558/s303/b/4], substituted “section 1817(b)(2)(H)” for “section 1817(b)(10)”. [Pub. L. 102–550, § 1605(a)(3)][/us/pl/102/550/s1605/a/3], which made an identical amendment, was repealed, effective Oct. 28, 1992, by [Pub. L. 102–558, § 305][/us/pl/102/558/s305], set out as a Repeal of Duplicative Provisions note under [section 1815 of this title][/us/usc/t12/s1815].
+    1992—Subsec. (a)(1). [Pub. L. 102–558][/us/pl/102/558], § 303(b)(4), substituted “section 1817(b)(2)(H)” for “section 1817(b)(10)”. [Pub. L. 102–550][/us/pl/102/550], § 1605(a)(3), which made an identical amendment, was repealed, effective Oct. 28, 1992, by [Pub. L. 102–558][/us/pl/102/558], § 305, set out as a Repeal of Duplicative Provisions note under [section 1815 of this title][/us/usc/t12/s1815].
 
-    Subsec. (b). [Pub. L. 102–558, § 303(b)(1)][/us/pl/102/558/s303/b/1], made technical correction to directory language of subsec. (b)(1). See Codification note above. [Pub. L. 102–550, § 1604(b)(1)][/us/pl/102/550/s1604/b/1], which made a similar amendment, was repealed, effective Oct. 28, 1992, by [Pub. L. 102–558, § 305][/us/pl/102/558/s305], set out as a Repeal of Duplicative Provisions note under [section 1815 of this title][/us/usc/t12/s1815].
+    Subsec. (b). [Pub. L. 102–558][/us/pl/102/558], § 303(b)(1), made technical correction to directory language of subsec. (b)(1). See Codification note above. [Pub. L. 102–550][/us/pl/102/550], § 1604(b)(1), which made a similar amendment, was repealed, effective Oct. 28, 1992, by [Pub. L. 102–558][/us/pl/102/558], § 305, set out as a Repeal of Duplicative Provisions note under [section 1815 of this title][/us/usc/t12/s1815].
 
  __Effective Date of 2010 Amendment__ 
 
@@ -121,9 +121,9 @@
 
  __Effective Date of 1992 Amendments__ 
 
-    [Pub. L. 102–558, title III, § 303(b)(4)][/us/pl/102/558/s303/b/4], Oct. 28, 1992, [106 Stat. 4225][/us/stat/106/4225], provided that the amendment made by that section is effective on the effective date of the amendment made by [section 302(a) of Pub. L. 102–242][/us/pl/102/242/s302/a] \[see [section 302(g) of Pub. L. 102–242][/us/pl/102/242/s302/g], set out as a note under [section 1817 of this title][/us/usc/t12/s1817]\].
+    [Pub. L. 102–558, title III][/us/pl/102/558/tIII], § 303(b)(4), Oct. 28, 1992, [106 Stat. 4225][/us/stat/106/4225], provided that the amendment made by that section is effective on the effective date of the amendment made by [section 302(a) of Pub. L. 102–242][/us/pl/102/242/s302/a] \[see [section 302(g) of Pub. L. 102–242][/us/pl/102/242/s302/g], set out as a note under [section 1817 of this title][/us/usc/t12/s1817]\].
 
-    [Pub. L. 102–550, title XVI, § 1605(a)(3)][/us/pl/102/550/s1605/a/3], Oct. 28, 1992, [106 Stat. 4085][/us/stat/106/4085], which provided effective date provisions for the amendment made by that section, was repealed, effective Oct. 28, 1992, by [section 305 of Pub. L. 102–558][/us/pl/102/558/s305], set out as a Repeal of Duplicative Provisions note under [section 1815 of this title][/us/usc/t12/s1815].
+    [Pub. L. 102–550, title XVI][/us/pl/102/550/tXVI], § 1605(a)(3), Oct. 28, 1992, [106 Stat. 4085][/us/stat/106/4085], which provided effective date provisions for the amendment made by that section, was repealed, effective Oct. 28, 1992, by [section 305 of Pub. L. 102–558][/us/pl/102/558/s305], set out as a Repeal of Duplicative Provisions note under [section 1815 of this title][/us/usc/t12/s1815].
 
 ----------
 
@@ -135,44 +135,44 @@
 [/us/usc/t12/s1817/b/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1817%2Fb%2F2%2FE
 [/us/usc/t12/s1813/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813%2Fc%2F2
 [/us/usc/t12/s461/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs461%2Fb%2F1%2FC
-[/us/pl/102/242/s232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs232
+[/us/pl/102/242/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtII
 [/us/stat/105/2308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2308
-[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXVI
 [/us/stat/106/4083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4083
-[/us/pl/102/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558
+[/us/pl/102/558/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2FtIII
 [/us/stat/106/4224-4226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4224-4226
-[/us/pl/104/208/s2704/d/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2704%2Fd%2F16
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-495
-[/us/pl/109/171/s2102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs2102%2Fb
+[/us/pl/109/171/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2FtII
 [/us/stat/120/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F9
-[/us/pl/109/173/s3/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173%2Fs3%2Fa%2F9
+[/us/pl/109/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173
 [/us/stat/119/3606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3606
-[/us/pl/111/203/s353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs353
+[/us/pl/111/203/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIII
 [/us/stat/124/1546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1546
 [/us/pl/102/242/s232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs232
 [/us/pl/102/242/s232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs232
 [/us/usc/t12/s1817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1817
-[/us/pl/111/203/s353/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs353%2F1
-[/us/pl/111/203/s353/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs353%2F2
-[/us/pl/111/203/s353/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs353%2F3
-[/us/pl/111/203/s353/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs353%2F4
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
-[/us/pl/104/208/s2704/d/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2704%2Fd%2F16
-[/us/pl/109/173/s3/a/9/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173%2Fs3%2Fa%2F9%2FA
-[/us/pl/109/173/s3/a/9/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173%2Fs3%2Fa%2F9%2FB
-[/us/pl/109/173/s3/a/9/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173%2Fs3%2Fa%2F9%2FC
-[/us/pl/109/173/s3/a/9/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173%2Fs3%2Fa%2F9%2FD
-[/us/pl/104/208/s2704/d/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2704%2Fd%2F16
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/109/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173
+[/us/pl/109/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173
+[/us/pl/109/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173
+[/us/pl/109/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/usc/t12/s1817/b/2/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1817%2Fb%2F2%2FG
 [/us/usc/t12/s1817/b/2/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1817%2Fb%2F2%2FH
 [/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
-[/us/pl/102/558/s303/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2Fs303%2Fb%2F4
-[/us/pl/102/550/s1605/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1605%2Fa%2F3
-[/us/pl/102/558/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2Fs305
+[/us/pl/102/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558
 [/us/usc/t12/s1815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1815
-[/us/pl/102/558/s303/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2Fs303%2Fb%2F1
-[/us/pl/102/550/s1604/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1604%2Fb%2F1
-[/us/pl/102/558/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2Fs305
+[/us/pl/102/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558
 [/us/usc/t12/s1815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1815
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs351
@@ -186,12 +186,12 @@
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/104/208/s2704/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2704%2Fc
 [/us/usc/t12/s1821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1821
-[/us/pl/102/558/s303/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2Fs303%2Fb%2F4
+[/us/pl/102/558/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2FtIII
 [/us/stat/106/4225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4225
 [/us/pl/102/242/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs302%2Fa
 [/us/pl/102/242/s302/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs302%2Fg
 [/us/usc/t12/s1817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1817
-[/us/pl/102/550/s1605/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1605%2Fa%2F3
+[/us/pl/102/550/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXVI
 [/us/stat/106/4085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4085
 [/us/pl/102/558/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2Fs305
 [/us/usc/t12/s1815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1815

@@ -27,7 +27,7 @@
 
         (2) The revocation of a State-issued mortgage loan originator license issued pursuant to the S.A.F.E. Mortgage Licensing Act of 2008 ([12 U.S.C. 5101][/us/usc/t12/s5101] et seq.) or any other similar declaration of ineligibility pursuant to State law.
 
-([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title V, § 532, as added [Pub. L. 111–22, div. A, title II, § 203(e)][/us/pl/111/22/s203/e], May 20, 2009, [123 Stat. 1647][/us/stat/123/1647].)
+([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title V, § 532, as added [Pub. L. 111–22, div. A, title II][/us/pl/111/22/dA/tII], § 203(e), May 20, 2009, [123 Stat. 1647][/us/stat/123/1647].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 1735f–10, [act June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title V, § 532, as added [Pub. L. 97–35, title III, § 339G][/us/pl/97/35/s339G], Aug. 13, 1981, [95 Stat. 418][/us/stat/95/418], which related to purchaser-broker arrangement payments for insurance purposes, was repealed by [section 203(e) of Pub. L. 111–22][/us/pl/111/22/s203/e].
+    A prior section 1735f–10, [act June 27, 1934, ch. 847, title V][/us/act/1934-06-27/ch847/tV], § 532, as added [Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 339G, Aug. 13, 1981, [95 Stat. 418][/us/stat/95/418], which related to purchaser-broker arrangement payments for insurance purposes, was repealed by [section 203(e) of Pub. L. 111–22][/us/pl/111/22/s203/e].
 
 ----------
 
@@ -46,13 +46,13 @@
 
 [/us/usc/t12/s5101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5101
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
-[/us/pl/111/22/s203/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs203%2Fe
+[/us/pl/111/22/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2FdA%2FtII
 [/us/stat/123/1647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1647
 [/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
 [/us/stat/122/2810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2810
 [/us/usc/t12/s5101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5101
-[/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
-[/us/pl/97/35/s339G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs339G
+[/us/act/1934-06-27/ch847/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847%2FtV
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F418
 [/us/pl/111/22/s203/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs203%2Fe
 

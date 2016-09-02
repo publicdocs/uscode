@@ -23,7 +23,7 @@
 
     (3) a provision requiring that the initiation, settlement, dismissal, or compromise of a claim be approved by a duly appointed officer of the United States.
 
-([Pub. L. 101–647, title XXV, § 2591][/us/pl/101/647/s2591], Nov. 29, 1990, [104 Stat. 4906][/us/stat/104/4906].)
+([Pub. L. 101–647, title XXV][/us/pl/101/647/tXXV], § 2591, Nov. 29, 1990, [104 Stat. 4906][/us/stat/104/4906].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t12/s4241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4241
-[/us/pl/101/647/s2591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2591
+[/us/pl/101/647/tXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXV
 [/us/stat/104/4906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4906
 
 

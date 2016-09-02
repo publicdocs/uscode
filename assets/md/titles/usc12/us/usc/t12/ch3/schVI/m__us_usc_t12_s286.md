@@ -17,7 +17,7 @@
 
     The Board of Governors of the Federal Reserve System is empowered to adopt and promulgate rules and regulations governing the transfers of said stock.
 
-([Dec. 23, 1913, ch. 6, § 2][/us/act/1913-12-23/ch6/s2] (par.), [38 Stat. 253][/us/stat/38/253]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 203(a), [49 Stat. 704][/us/stat/49/704].)
+([Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 2 (par.), [38 Stat. 253][/us/stat/38/253]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 203(a), [49 Stat. 704][/us/stat/49/704].)
 
  __Codification__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1913-12-23/ch6/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs2
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
 [/us/stat/38/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F253
 [/us/act/1935-08-23/ch614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch614
 [/us/stat/49/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F704

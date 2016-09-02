@@ -17,7 +17,7 @@
 
     Directors of Federal reserve banks shall receive, in addition to any compensation otherwise provided, a reasonable allowance for necessary expenses in attending meetings of their respective boards, which amount shall be paid by the respective Federal reserve banks. Any compensation that may be provided by boards of directors of Federal reserve banks for directors, officers or employees shall be subject to the approval of the Board of Governors of the Federal Reserve System.
 
-([Dec. 23, 1913, ch. 6, § 4][/us/act/1913-12-23/ch6/s4] (par.), [38 Stat. 257][/us/stat/38/257]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 203(a), [49 Stat. 704][/us/stat/49/704].)
+([Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 4 (par.), [38 Stat. 257][/us/stat/38/257]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 203(a), [49 Stat. 704][/us/stat/49/704].)
 
  __Codification__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1913-12-23/ch6/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs4
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
 [/us/stat/38/257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F257
 [/us/act/1935-08-23/ch614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch614
 [/us/stat/49/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F704

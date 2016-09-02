@@ -31,7 +31,7 @@
 
         A proceeding with respect to a violation of this section shall be an administrative proceeding which may be conducted by a Federal financial institutions regulatory agency in accordance with the procedures set forth in subchapter II of chapter 5 of title 5.
 
-([Pub. L. 101–73, title XI, § 1120][/us/pl/101/73/s1120], Aug. 9, 1989, [103 Stat. 517][/us/stat/103/517].)
+([Pub. L. 101–73, title XI][/us/pl/101/73/tXI], § 1120, Aug. 9, 1989, [103 Stat. 517][/us/stat/103/517].)
 
 ----------
 
@@ -44,7 +44,7 @@
 [/us/usc/t12/s3350/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3350%2F5
 [/us/usc/t12/s1818/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1818%2Fi%2F2
 [/us/usc/t12/s1786/k/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1786%2Fk%2F2
-[/us/pl/101/73/s1120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs1120
+[/us/pl/101/73/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtXI
 [/us/stat/103/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F517
 
 

@@ -47,25 +47,25 @@
 
     (4) A financial institution whose business predominately consists of serving the needs of military personnel who are not located within a defined geographic area may define its “entire community” to include its entire deposit customer base without regard to geographic proximity.
 
-([Pub. L. 95–128, title VIII, § 803][/us/pl/95/128/s803], Oct. 12, 1977, [91 Stat. 1147][/us/stat/91/1147]; [Pub. L. 95–630, title XV, § 1502][/us/pl/95/630/s1502], Nov. 10, 1978, [92 Stat. 3713][/us/stat/92/3713]; [Pub. L. 101–73, title VII, § 744(q)][/us/pl/101/73/s744/q], title XII, § 1212(a), Aug. 9, 1989, [103 Stat. 440][/us/stat/103/440], 526; [Pub. L. 111–203, title III, § 358(1)][/us/pl/111/203/s358/1], July 21, 2010, [124 Stat. 1548][/us/stat/124/1548].)
+([Pub. L. 95–128, title VIII][/us/pl/95/128/tVIII], § 803, Oct. 12, 1977, [91 Stat. 1147][/us/stat/91/1147]; [Pub. L. 95–630, title XV][/us/pl/95/630/tXV], § 1502, Nov. 10, 1978, [92 Stat. 3713][/us/stat/92/3713]; [Pub. L. 101–73, title VII][/us/pl/101/73/tVII], § 744(q), title XII, § 1212(a), Aug. 9, 1989, [103 Stat. 440][/us/stat/103/440], 526; [Pub. L. 111–203, title III][/us/pl/111/203/tIII], § 358(1), July 21, 2010, [124 Stat. 1548][/us/stat/124/1548].)
 
  __References in Text__ 
 
-    The National Housing Act, referred to in par. (3)(E), (F), is [act June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], [48 Stat. 1246][/us/stat/48/1246]. Title IV of the National Housing Act which was classified generally to subchapter IV (§ 1724 et seq.) of chapter 13 of this title, was repealed by [Pub. L. 101–73, title IV, § 407][/us/pl/101/73/s407], Aug. 9, 1989, [103 Stat. 363][/us/stat/103/363]. Section 408 of the National Housing Act, which was classified to [section 1730a of this title][/us/usc/t12/s1730a], was also repealed by [section 407 of Pub. L. 101–73][/us/pl/101/73/s407]. For complete classification of this Act to the Code, see [section 1701 of this title][/us/usc/t12/s1701] and Tables.
+    The National Housing Act, referred to in par. (3)(E), (F), is [act June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], [48 Stat. 1246][/us/stat/48/1246]. Title IV of the National Housing Act which was classified generally to subchapter IV (§ 1724 et seq.) of chapter 13 of this title, was repealed by [Pub. L. 101–73, title IV][/us/pl/101/73/tIV], § 407, Aug. 9, 1989, [103 Stat. 363][/us/stat/103/363]. Section 408 of the National Housing Act, which was classified to [section 1730a of this title][/us/usc/t12/s1730a], was also repealed by [section 407 of Pub. L. 101–73][/us/pl/101/73/s407]. For complete classification of this Act to the Code, see [section 1701 of this title][/us/usc/t12/s1701] and Tables.
 
  __Amendments__ 
 
-    Par. (1)(A). [Pub. L. 111–203, § 358(1)(A)(i)][/us/pl/111/203/s358/1/A/i], inserted “and Federal savings associations (the deposits of which are insured by the Federal Deposit Insurance Corporation)” after “banks”.
+    Par. (1)(A). [Pub. L. 111–203][/us/pl/111/203], § 358(1)(A)(i), inserted “and Federal savings associations (the deposits of which are insured by the Federal Deposit Insurance Corporation)” after “banks”.
 
-    Par. (1)(B). [Pub. L. 111–203, § 358(1)(A)(ii)][/us/pl/111/203/s358/1/A/ii], substituted “, bank holding companies, and savings and loan holding companies” for “and bank holding companies”.
+    Par. (1)(B). [Pub. L. 111–203][/us/pl/111/203], § 358(1)(A)(ii), substituted “, bank holding companies, and savings and loan holding companies” for “and bank holding companies”.
 
-    Par. (1)(C). [Pub. L. 111–203, § 358(1)(A)(iii)][/us/pl/111/203/s358/1/A/iii], substituted “, and State savings associations (the deposits of which are insured by the Federal Deposit Insurance Corporation).” for “; and”.
+    Par. (1)(C). [Pub. L. 111–203][/us/pl/111/203], § 358(1)(A)(iii), substituted “, and State savings associations (the deposits of which are insured by the Federal Deposit Insurance Corporation).” for “; and”.
 
-    Par. (2). [Pub. L. 111–203, § 358(1)(B)][/us/pl/111/203/s358/1/B], struck out par. (2) relating to the Director of the Office of Thrift Supervision which read as follows: “[section 1818 of this title][/us/usc/t12/s1818], by the Director of the Office of Thrift Supervision, in the case of a savings association (the deposits of which are insured by the Federal Deposit Insurance Corporation) and a savings and loan holding company;”.
+    Par. (2). [Pub. L. 111–203][/us/pl/111/203], § 358(1)(B), struck out par. (2) relating to the Director of the Office of Thrift Supervision which read as follows: “[section 1818 of this title][/us/usc/t12/s1818], by the Director of the Office of Thrift Supervision, in the case of a savings association (the deposits of which are insured by the Federal Deposit Insurance Corporation) and a savings and loan holding company;”.
 
-    1989—Par. (1)(D). [Pub. L. 101–73, § 744(q)][/us/pl/101/73/s744/q], directed the general amendment of par. (1)(D) but then set out “(2)” followed by the text of the new provisions. Prior to amendment, par. (1)(D) read as follows: “the Federal Home Loan Bank Board with respect to institutions the deposits of which are insured by the Federal Savings and Loan Insurance Corporation and to savings and loan holding companies;”.
+    1989—Par. (1)(D). [Pub. L. 101–73][/us/pl/101/73], § 744(q), directed the general amendment of par. (1)(D) but then set out “(2)” followed by the text of the new provisions. Prior to amendment, par. (1)(D) read as follows: “the Federal Home Loan Bank Board with respect to institutions the deposits of which are insured by the Federal Savings and Loan Insurance Corporation and to savings and loan holding companies;”.
 
-    Par. (2). [Pub. L. 101–73, § 1212(a)][/us/pl/101/73/s1212/a], substituted “insured depository institution (as defined in [section 1813 of this title][/us/usc/t12/s1813])” for “insured bank as defined in [section 1813 of this title][/us/usc/t12/s1813] or an insured institution as defined in section 401 of the National Housing Act”.
+    Par. (2). [Pub. L. 101–73][/us/pl/101/73], § 1212(a), substituted “insured depository institution (as defined in [section 1813 of this title][/us/usc/t12/s1813])” for “insured bank as defined in [section 1813 of this title][/us/usc/t12/s1813] or an insured institution as defined in section 401 of the National Housing Act”.
 
     1978—Par. (4). [Pub. L. 95–630][/us/pl/95/630] added par. (4).
 
@@ -89,28 +89,28 @@
 [/us/usc/t12/s1724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1724
 [/us/usc/t12/s1842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1842
 [/us/usc/t12/s1730a/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1730a%2Fe
-[/us/pl/95/128/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs803
+[/us/pl/95/128/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2FtVIII
 [/us/stat/91/1147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1147
-[/us/pl/95/630/s1502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs1502
+[/us/pl/95/630/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtXV
 [/us/stat/92/3713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3713
-[/us/pl/101/73/s744/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs744%2Fq
+[/us/pl/101/73/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtVII
 [/us/stat/103/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F440
-[/us/pl/111/203/s358/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs358%2F1
+[/us/pl/111/203/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIII
 [/us/stat/124/1548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1548
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
 [/us/stat/48/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1246
-[/us/pl/101/73/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs407
+[/us/pl/101/73/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtIV
 [/us/stat/103/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F363
 [/us/usc/t12/s1730a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1730a
 [/us/pl/101/73/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs407
 [/us/usc/t12/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701
-[/us/pl/111/203/s358/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs358%2F1%2FA%2Fi
-[/us/pl/111/203/s358/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs358%2F1%2FA%2Fii
-[/us/pl/111/203/s358/1/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs358%2F1%2FA%2Fiii
-[/us/pl/111/203/s358/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs358%2F1%2FB
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/usc/t12/s1818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1818
-[/us/pl/101/73/s744/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs744%2Fq
-[/us/pl/101/73/s1212/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs1212%2Fa
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
 [/us/usc/t12/s1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813
 [/us/usc/t12/s1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813
 [/us/pl/95/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630

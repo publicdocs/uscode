@@ -17,7 +17,7 @@
 
     The receipt of assets or assumption of liabilities by the consolidated bank, the exchange of stock, equities, or other ownership interests, and any other transaction carried out in accomplishing the merger of the banks for cooperatives shall not be treated as a taxable event under the laws of the United States or of any State or political subdivision thereof. The preceding sentence shall also apply to the receipt of assets and liabilities by a cooperative to the extent that the net amount of the distribution is immediately reinvested in stock of a consolidated bank (and in such case the basis of such stock shall be appropriately reduced by the amount of gain not recognized by reason of this sentence).
 
-([Pub. L. 92–181, title III, § 3][/us/pl/92/181/s3].27, as added [Pub. L. 100–233, title IV, § 415(2)][/us/pl/100/233/s415/2], Jan. 6, 1988, [101 Stat. 1644][/us/stat/101/1644]; amended [Pub. L. 100–399, title IV, § 407(g)][/us/pl/100/399/s407/g], Aug. 17, 1988, [102 Stat. 1001][/us/stat/102/1001].)
+([Pub. L. 92–181, title III][/us/pl/92/181/tIII], § 3.27, as added [Pub. L. 100–233, title IV][/us/pl/100/233/tIV], § 415(2), Jan. 6, 1988, [101 Stat. 1644][/us/stat/101/1644]; amended [Pub. L. 100–399, title IV][/us/pl/100/399/tIV], § 407(g), Aug. 17, 1988, [102 Stat. 1001][/us/stat/102/1001].)
 
  __Amendments__ 
 
@@ -34,10 +34,10 @@
 ----------
 ----------
 
-[/us/pl/92/181/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs3
-[/us/pl/100/233/s415/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs415%2F2
+[/us/pl/92/181/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtIII
+[/us/pl/100/233/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtIV
 [/us/stat/101/1644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1644
-[/us/pl/100/399/s407/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs407%2Fg
+[/us/pl/100/399/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtIV
 [/us/stat/102/1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1001
 [/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399

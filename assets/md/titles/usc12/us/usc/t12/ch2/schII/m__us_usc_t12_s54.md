@@ -13,7 +13,7 @@
 
 [Previous](./../../../../..//us/usc/t12/ch2/schII/m__us_usc_t12_s53.md) | [Next](./../../../../..//us/usc/t12/ch2/schII/m__us_usc_t12_s55.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs54)
 
-## § 54. Repealed. [Pub. L. 86–230, § 5][/us/pl/86/230/s5], Sept. 8, 1959, [73 Stat. 457][/us/stat/73/457]
+## § 54. Repealed. [Pub. L. 86–230][/us/pl/86/230], § 5, Sept. 8, 1959, [73 Stat. 457][/us/stat/73/457]
 
     Section, R.S. § 5141, related to failure to pay installments, remedy and effect if reduction of capital resulted.
 
@@ -24,7 +24,7 @@
 ----------
 ----------
 
-[/us/pl/86/230/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F230%2Fs5
+[/us/pl/86/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F230
 [/us/stat/73/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F457
 
 

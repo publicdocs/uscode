@@ -17,7 +17,7 @@
 
     The Bank shall not extend loans, guarantees, or insurance under this subchapter in connection with the sale of defense articles or defense services.
 
-([Pub. L. 90–390, § 5][/us/pl/90/390/s5], July 7, 1968, [82 Stat. 297][/us/stat/82/297].)
+([Pub. L. 90–390][/us/pl/90/390], § 5, July 7, 1968, [82 Stat. 297][/us/stat/82/297].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/90/390/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F390%2Fs5
+[/us/pl/90/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F390
 [/us/stat/82/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F297
 
 

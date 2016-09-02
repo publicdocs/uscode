@@ -17,7 +17,7 @@
 
     If at any time the Director determines that the Nationwide Mortgage Licensing System and Registry is failing to meet the requirements and purposes of this chapter for a comprehensive licensing, supervisory, and tracking system for loan originators, the Director shall establish and maintain such a system to carry out the purposes of this chapter and the effective registration and regulation of loan originators.
 
-([Pub. L. 110–289, div. A, title V, § 1509][/us/pl/110/289/s1509], July 30, 2008, [122 Stat. 2819][/us/stat/122/2819]; [Pub. L. 111–203, title X, § 1100(3)][/us/pl/111/203/s1100/3], July 21, 2010, [124 Stat. 2106][/us/stat/124/2106].)
+([Pub. L. 110–289, div. A, title V][/us/pl/110/289/dA/tV], § 1509, July 30, 2008, [122 Stat. 2819][/us/stat/122/2819]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1100(3), July 21, 2010, [124 Stat. 2106][/us/stat/124/2106].)
 
  __Amendments__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/110/289/s1509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1509
+[/us/pl/110/289/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtV
 [/us/stat/122/2819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2819
-[/us/pl/111/203/s1100/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100%2F3
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2106
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203

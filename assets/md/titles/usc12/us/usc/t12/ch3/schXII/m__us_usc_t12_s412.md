@@ -17,7 +17,7 @@
 
     Any Federal Reserve bank may make application to the local Federal Reserve agent for such amount of the Federal Reserve notes hereinbefore provided for as it may require. Such application shall be accompanied with a tender to the local Federal Reserve agent of collateral in amount equal to the sum of the Federal Reserve notes thus applied for and issued pursuant to such application. The collateral security thus offered shall be notes, drafts, bills of exchange, or acceptances acquired under section 92, 342 to 348, 349 to 352, 361, 372, or 373 of this title, or bills of exchange endorsed by a member bank of any Federal Reserve district and purchased under the provisions of sections 348a and 353 to 359 of this title, or bankers’ acceptances purchased under the provisions of said sections 348a and 353 to 359 of this title, or gold certificates, or Special Drawing Right certificates, or any obligations which are direct obligations of, or are fully guaranteed as to principal and interest by, the United States or any agency thereof, or assets that Federal Reserve banks may purchase or hold under sections 348a and 353 to 359 of this title or any other asset of a Federal Reserve bank. In no event shall such collateral security be less than the amount of Federal Reserve notes applied for. The Federal Reserve agent shall each day notify the Board of Governors of the Federal Reserve System of all issues and withdrawals of Federal Reserve notes to and by the Federal Reserve bank to which he is accredited. The said Board of Governors of the Federal Reserve System may at any time call upon a Federal Reserve bank for additional security to protect the Federal Reserve notes issued to it. Collateral shall not be required for Federal Reserve notes which are held in the vaults of, or are otherwise held by or on behalf of, Federal Reserve banks.
 
-([Dec. 23, 1913, ch. 6, § 16][/us/act/1913-12-23/ch6/s16] (par.), [38 Stat. 265][/us/stat/38/265]; [Sept. 7, 1916, ch. 461][/us/act/1916-09-07/ch461], [39 Stat. 754][/us/stat/39/754]; [June 21, 1917, ch. 32, § 7][/us/act/1917-06-21/ch32/s7], [40 Stat. 236][/us/stat/40/236]; [Feb. 27, 1932, ch. 58, § 3][/us/act/1932-02-27/ch58/s3], [47 Stat. 57][/us/stat/47/57]; [Feb. 3, 1933, ch. 34][/us/act/1933-02-03/ch34], [47 Stat. 794][/us/stat/47/794]; [Jan. 30, 1934, ch. 6, § 2(b)(2)][/us/act/1934-01-30/ch6/s2/b/2], [48 Stat. 338][/us/stat/48/338]; [Mar. 6, 1934, ch. 47][/us/act/1934-03-06/ch47], [48 Stat. 398][/us/stat/48/398]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 203(a), [49 Stat. 704][/us/stat/49/704]; [Mar. 1, 1937, ch. 20][/us/act/1937-03-01/ch20], [50 Stat. 23][/us/stat/50/23]; [June 30, 1939, ch. 256][/us/act/1939-06-30/ch256], [53 Stat. 991][/us/stat/53/991]; [June 30, 1941, ch. 264][/us/act/1941-06-30/ch264], [55 Stat. 395][/us/stat/55/395]; [May 25, 1943, ch. 102][/us/act/1943-05-25/ch102], [57 Stat. 85][/us/stat/57/85]; [June 12, 1945, ch. 186, § 2][/us/act/1945-06-12/ch186/s2], [59 Stat. 237][/us/stat/59/237]; [Pub. L. 90–349, § 5(a)][/us/pl/90/349/s5/a], June 19, 1968, [82 Stat. 189][/us/stat/82/189]; [Pub. L. 95–630, title I, § 113][/us/pl/95/630/s113], Nov. 10, 1978, [92 Stat. 3671][/us/stat/92/3671]; [Pub. L. 96–221, title I, § 105(b)(1)][/us/pl/96/221/s105/b/1], Mar. 31, 1980, [94 Stat. 140][/us/stat/94/140]; [Pub. L. 106–122][/us/pl/106/122], Dec. 6, 1999, [113 Stat. 1638][/us/stat/113/1638]; [Pub. L. 108–100, § 19(d)][/us/pl/108/100/s19/d], Oct. 28, 2003, [117 Stat. 1193][/us/stat/117/1193].)
+([Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 16 (par.), [38 Stat. 265][/us/stat/38/265]; [Sept. 7, 1916, ch. 461][/us/act/1916-09-07/ch461], [39 Stat. 754][/us/stat/39/754]; [June 21, 1917, ch. 32][/us/act/1917-06-21/ch32], § 7, [40 Stat. 236][/us/stat/40/236]; [Feb. 27, 1932, ch. 58][/us/act/1932-02-27/ch58], § 3, [47 Stat. 57][/us/stat/47/57]; [Feb. 3, 1933, ch. 34][/us/act/1933-02-03/ch34], [47 Stat. 794][/us/stat/47/794]; [Jan. 30, 1934, ch. 6][/us/act/1934-01-30/ch6], § 2(b)(2), [48 Stat. 338][/us/stat/48/338]; [Mar. 6, 1934, ch. 47][/us/act/1934-03-06/ch47], [48 Stat. 398][/us/stat/48/398]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 203(a), [49 Stat. 704][/us/stat/49/704]; [Mar. 1, 1937, ch. 20][/us/act/1937-03-01/ch20], [50 Stat. 23][/us/stat/50/23]; [June 30, 1939, ch. 256][/us/act/1939-06-30/ch256], [53 Stat. 991][/us/stat/53/991]; [June 30, 1941, ch. 264][/us/act/1941-06-30/ch264], [55 Stat. 395][/us/stat/55/395]; [May 25, 1943, ch. 102][/us/act/1943-05-25/ch102], [57 Stat. 85][/us/stat/57/85]; [June 12, 1945, ch. 186][/us/act/1945-06-12/ch186], § 2, [59 Stat. 237][/us/stat/59/237]; [Pub. L. 90–349][/us/pl/90/349], § 5(a), June 19, 1968, [82 Stat. 189][/us/stat/82/189]; [Pub. L. 95–630, title I][/us/pl/95/630/tI], § 113, Nov. 10, 1978, [92 Stat. 3671][/us/stat/92/3671]; [Pub. L. 96–221, title I][/us/pl/96/221/tI], § 105(b)(1), Mar. 31, 1980, [94 Stat. 140][/us/stat/94/140]; [Pub. L. 106–122][/us/pl/106/122], Dec. 6, 1999, [113 Stat. 1638][/us/stat/113/1638]; [Pub. L. 108–100][/us/pl/108/100], § 19(d), Oct. 28, 2003, [117 Stat. 1193][/us/stat/117/1193].)
 
  __Codification__ 
 
@@ -76,17 +76,17 @@
 ----------
 ----------
 
-[/us/act/1913-12-23/ch6/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs16
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
 [/us/stat/38/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F265
 [/us/act/1916-09-07/ch461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-09-07%2Fch461
 [/us/stat/39/754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F754
-[/us/act/1917-06-21/ch32/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-21%2Fch32%2Fs7
+[/us/act/1917-06-21/ch32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-21%2Fch32
 [/us/stat/40/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F236
-[/us/act/1932-02-27/ch58/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-02-27%2Fch58%2Fs3
+[/us/act/1932-02-27/ch58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-02-27%2Fch58
 [/us/stat/47/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F57
 [/us/act/1933-02-03/ch34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-02-03%2Fch34
 [/us/stat/47/794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F794
-[/us/act/1934-01-30/ch6/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-01-30%2Fch6%2Fs2%2Fb%2F2
+[/us/act/1934-01-30/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-01-30%2Fch6
 [/us/stat/48/338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F338
 [/us/act/1934-03-06/ch47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-06%2Fch47
 [/us/stat/48/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F398
@@ -100,17 +100,17 @@
 [/us/stat/55/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F395
 [/us/act/1943-05-25/ch102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-05-25%2Fch102
 [/us/stat/57/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F57%2F85
-[/us/act/1945-06-12/ch186/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-06-12%2Fch186%2Fs2
+[/us/act/1945-06-12/ch186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-06-12%2Fch186
 [/us/stat/59/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F237
-[/us/pl/90/349/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F349%2Fs5%2Fa
+[/us/pl/90/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F349
 [/us/stat/82/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F189
-[/us/pl/95/630/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs113
+[/us/pl/95/630/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtI
 [/us/stat/92/3671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3671
-[/us/pl/96/221/s105/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs105%2Fb%2F1
+[/us/pl/96/221/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2FtI
 [/us/stat/94/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F140
 [/us/pl/106/122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F122
 [/us/stat/113/1638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1638
-[/us/pl/108/100/s19/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F100%2Fs19%2Fd
+[/us/pl/108/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F100
 [/us/stat/117/1193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1193
 [/us/usc/t12/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs411
 [/us/pl/108/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F100

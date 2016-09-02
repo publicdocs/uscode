@@ -17,7 +17,7 @@
 
     The short title of the [Act of June 16, 1933, ch. 89][/us/act/1933-06-16/ch89], [48 Stat. 162][/us/stat/48/162], shall be the “Banking Act of 1933.”
 
-([June 16, 1933, ch. 89, § 1][/us/act/1933-06-16/ch89/s1], [48 Stat. 162][/us/stat/48/162].)
+([June 16, 1933, ch. 89][/us/act/1933-06-16/ch89], § 1, [48 Stat. 162][/us/stat/48/162].)
 
  __References in Text__ 
 
@@ -25,7 +25,7 @@
 
  __Right To Amend, Alter or Repeal; Separability__ 
 
-[Act June 16, 1933, ch. 89, § 34][/us/act/1933-06-16/ch89/s34], [48 Stat. 195][/us/stat/48/195], provided: 
+[Act June 16, 1933, ch. 89][/us/act/1933-06-16/ch89], § 34, [48 Stat. 195][/us/stat/48/195], provided: 
 
 > “The right to alter, amend, or repeal this Act is hereby expressly reserved. If any provision of this act, or the application thereof to any person or circumstances, is held invalid, the remainder of the act, and the application of such provision to other persons or circumstances, shall not be affected thereby”.
 
@@ -38,9 +38,9 @@
 
 [/us/act/1933-06-16/ch89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-16%2Fch89
 [/us/stat/48/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F162
-[/us/act/1933-06-16/ch89/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-16%2Fch89%2Fs1
+[/us/act/1933-06-16/ch89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-16%2Fch89
 [/us/stat/48/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F162
-[/us/act/1933-06-16/ch89/s34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-16%2Fch89%2Fs34
+[/us/act/1933-06-16/ch89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-16%2Fch89
 [/us/stat/48/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F195
 
 

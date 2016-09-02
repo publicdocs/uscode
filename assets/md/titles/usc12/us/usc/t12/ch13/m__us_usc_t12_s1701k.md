@@ -17,7 +17,7 @@
 
     The right to redeem provided for by [section 2410(c) of title 28][/us/usc/t28/s2410/c], shall not arise in any case in which the subordinate lien or interest of the United States derives from the issuance of insurance under the National Housing Act, as amended \[[12 U.S.C. 1701][/us/usc/t12/s1701] et seq.\].
 
-([Apr. 20, 1950, ch. 94][/us/act/1950-04-20/ch94], title V, § 505, [64 Stat. 81][/us/stat/64/81]; [Pub. L. 85–857, § 13(q)][/us/pl/85/857/s13/q], Sept. 2, 1958, [72 Stat. 1266][/us/stat/72/1266].)
+([Apr. 20, 1950, ch. 94][/us/act/1950-04-20/ch94], title V, § 505, [64 Stat. 81][/us/stat/64/81]; [Pub. L. 85–857][/us/pl/85/857], § 13(q), Sept. 2, 1958, [72 Stat. 1266][/us/stat/72/1266].)
 
  __References in Text__ 
 
@@ -37,13 +37,13 @@
 
  __Act__  __April 20, 1950__  __, as Controlling Law; Housing and Home Finance Administrator Unaffected__ 
 
-[Act Apr. 20, 1950, ch. 94][/us/act/1950-04-20/ch94], title V, § 509, [64 Stat. 81][/us/stat/64/81], provided that: 
+[Act Apr. 20, 1950, ch. 94, title V][/us/act/1950-04-20/ch94/tV], § 509, [64 Stat. 81][/us/stat/64/81], provided that: 
 
-> “Insofar as the provisions of any other law are inconsistent with the provisions of this Act \[see Tables for classification\] the provisions of this Act shall be controlling: Provided, That nothing contained in this Act shall affect the authority of the Housing and Home Finance Administrator under title II of Public Law 266, Eighty-first Congress \[[Act Aug. 24, 1949, ch. 506][/us/act/1949-08-24/ch506], title II, [63 Stat. 657][/us/stat/63/657]\].”
+> “Insofar as the provisions of any other law are inconsistent with the provisions of this Act \[see Tables for classification\] the provisions of this Act shall be controlling: Provided, That nothing contained in this Act shall affect the authority of the Housing and Home Finance Administrator under title II of Public Law 266, Eighty-first Congress \[[Act Aug. 24, 1949, ch. 506, title II][/us/act/1949-08-24/ch506/tII], [63 Stat. 657][/us/stat/63/657]\].”
 
  __Powers and Authorities of Act__  __April 20, 1950__  __, as Cumulative; Separability__ 
 
-[Act Apr. 20, 1950, ch. 94][/us/act/1950-04-20/ch94], title V, § 510, [64 Stat. 81][/us/stat/64/81], provided that: 
+[Act Apr. 20, 1950, ch. 94, title V][/us/act/1950-04-20/ch94/tV], § 510, [64 Stat. 81][/us/stat/64/81], provided that: 
 
 > “Except as may be otherwise expressly provided in this Act \[see Tables for classification\] all powers and authorities conferred by this Act shall be cumulative and additional to and not in derogation of any powers and authorities otherwise existing. Notwithstanding any other evidences of the intention of Congress, it is hereby declared to be the controlling intent of Congress that if any provisions of this Act, or the application thereof to any persons or circumstances, shall be adjudged by any court of competent jurisdiction to be invalid, such judgment shall not affect, impair, or invalidate the remainder of this Act or its applications to other persons and circumstances, but shall be confined in its operation to the provisions of this Act, or the application thereof to the persons and circumstances, directly involved in the controversy in which such judgment shall have been rendered.”
 
@@ -58,7 +58,7 @@
 [/us/usc/t12/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701
 [/us/act/1950-04-20/ch94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-04-20%2Fch94
 [/us/stat/64/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F81
-[/us/pl/85/857/s13/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857%2Fs13%2Fq
+[/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1266
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
 [/us/stat/48/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1246
@@ -66,11 +66,11 @@
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/pl/85/857/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857%2Fs2
-[/us/act/1950-04-20/ch94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-04-20%2Fch94
+[/us/act/1950-04-20/ch94/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-04-20%2Fch94%2FtV
 [/us/stat/64/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F81
-[/us/act/1949-08-24/ch506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-24%2Fch506
+[/us/act/1949-08-24/ch506/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-24%2Fch506%2FtII
 [/us/stat/63/657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F657
-[/us/act/1950-04-20/ch94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-04-20%2Fch94
+[/us/act/1950-04-20/ch94/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-04-20%2Fch94%2FtV
 [/us/stat/64/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F81
 
 

@@ -17,7 +17,7 @@
 
     The Board of Governors shall take any action that the Board of Governors deems appropriate to avoid imposing requirements under this part that are duplicative of requirements applicable to bank holding companies and nonbank financial companies under other provisions of law.
 
-([Pub. L. 111–203, title I, § 169][/us/pl/111/203/s169], July 21, 2010, [124 Stat. 1434][/us/stat/124/1434].)
+([Pub. L. 111–203, title I][/us/pl/111/203/tI], § 169, July 21, 2010, [124 Stat. 1434][/us/stat/124/1434].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/111/203/s169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs169
+[/us/pl/111/203/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtI
 [/us/stat/124/1434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1434
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1420

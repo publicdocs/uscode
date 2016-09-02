@@ -27,7 +27,7 @@
 
         Interest on accounts that are subject to this chapter shall begin to accrue not later than the business day specified for interest-bearing accounts in [section 4005 of this title][/us/usc/t12/s4005], subject to subsections (b) and (c) of such section.
 
-([Pub. L. 102–242, title II, § 267][/us/pl/102/242/s267], Dec. 19, 1991, [105 Stat. 2338][/us/stat/105/2338]; [Pub. L. 102–550, title XVI, § 1604(e)(2)(B)][/us/pl/102/550/s1604/e/2/B], (C), Oct. 28, 1992, [106 Stat. 4084][/us/stat/106/4084].)
+([Pub. L. 102–242, title II][/us/pl/102/242/tII], § 267, Dec. 19, 1991, [105 Stat. 2338][/us/stat/105/2338]; [Pub. L. 102–550, title XVI][/us/pl/102/550/tXVI], § 1604(e)(2)(B), (C), Oct. 28, 1992, [106 Stat. 4084][/us/stat/106/4084].)
 
  __Amendments__ 
 
@@ -45,9 +45,9 @@
 ----------
 
 [/us/usc/t12/s4005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4005
-[/us/pl/102/242/s267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs267
+[/us/pl/102/242/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtII
 [/us/stat/105/2338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2338
-[/us/pl/102/550/s1604/e/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1604%2Fe%2F2%2FB
+[/us/pl/102/550/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXVI
 [/us/stat/106/4084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4084
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550

@@ -27,7 +27,7 @@
 
         No provision of this section shall be construed as prohibiting any Federal Reserve bank from making advances or otherwise extending credit pursuant to the Federal Reserve Act \[[12 U.S.C. 221][/us/usc/t12/s221] et seq.\] to any insured depository institution to the extent that such advance or extension of credit is consistent with the conditions and limitations imposed under section 10B of such Act \[[12 U.S.C. 347b][/us/usc/t12/s347b]\].
 
-([Sept. 21, 1950, ch. 967, § 2][/us/act/1950-09-21/ch967/s2]\[41\], as added [Pub. L. 102–242, title III, § 312][/us/pl/102/242/s312], Dec. 19, 1991, [105 Stat. 2367][/us/stat/105/2367].)
+([Sept. 21, 1950, ch. 967][/us/act/1950-09-21/ch967], § 2\[41\], as added [Pub. L. 102–242, title III][/us/pl/102/242/tIII], § 312, Dec. 19, 1991, [105 Stat. 2367][/us/stat/105/2367].)
 
  __References in Text__ 
 
@@ -43,8 +43,8 @@
 [/us/usc/t12/s1823/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1823%2Fc
 [/us/usc/t12/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs221
 [/us/usc/t12/s347b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs347b
-[/us/act/1950-09-21/ch967/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967%2Fs2
-[/us/pl/102/242/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs312
+[/us/act/1950-09-21/ch967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967
+[/us/pl/102/242/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtIII
 [/us/stat/105/2367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2367
 [/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
 [/us/stat/38/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F251

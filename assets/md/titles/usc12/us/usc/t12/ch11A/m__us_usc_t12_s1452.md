@@ -65,37 +65,37 @@
 
         (4) Notwithstanding any other provision of this section, the Corporation shall not transfer, disburse, or pay compensation to any executive officer, or enter into an agreement with such executive officer, without the approval of the Director, for matters being reviewed under [section 4518 of this title][/us/usc/t12/s4518].
 
-([Pub. L. 91–351, title III, § 303][/us/pl/91/351/s303], July 24, 1970, [84 Stat. 452][/us/stat/84/452]; [Pub. L. 96–153, title III, § 316(b)][/us/pl/96/153/s316/b], Dec. 21, 1979, [93 Stat. 1118][/us/stat/93/1118]; [Pub. L. 98–369, div. A, title I, § 177(a)][/us/pl/98/369/s177/a], July 18, 1984, [98 Stat. 709][/us/stat/98/709]; [Pub. L. 101–73, title VII, § 731(b)(1)][/us/pl/101/73/s731/b/1], (c), Aug. 9, 1989, [103 Stat. 429][/us/stat/103/429], 431; [Pub. L. 102–550, title XIII, § 1382(c)(1)][/us/pl/102/550/s1382/c/1], (d)–(h), Oct. 28, 1992, [106 Stat. 4002–4004][/us/stat/106/4002-4004]; [Pub. L. 110–289, div. A, title I][/us/pl/110/289], §§ 1113(b)(2), 1153(b)(3), 1161(c)(1), 1162(b)(1), July 30, 2008, [122 Stat. 2678][/us/stat/122/2678], 2775, 2780, 2781.)
+([Pub. L. 91–351, title III][/us/pl/91/351/tIII], § 303, July 24, 1970, [84 Stat. 452][/us/stat/84/452]; [Pub. L. 96–153, title III][/us/pl/96/153/tIII], § 316(b), Dec. 21, 1979, [93 Stat. 1118][/us/stat/93/1118]; [Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 177(a), July 18, 1984, [98 Stat. 709][/us/stat/98/709]; [Pub. L. 101–73, title VII][/us/pl/101/73/tVII], § 731(b)(1), (c), Aug. 9, 1989, [103 Stat. 429][/us/stat/103/429], 431; [Pub. L. 102–550, title XIII][/us/pl/102/550/tXIII], § 1382(c)(1), (d)–(h), Oct. 28, 1992, [106 Stat. 4002–4004][/us/stat/106/4002-4004]; [Pub. L. 110–289, div. A, title I][/us/pl/110/289/dA/tI], §§ 1113(b)(2), 1153(b)(3), 1161(c)(1), 1162(b)(1), July 30, 2008, [122 Stat. 2678][/us/stat/122/2678], 2775, 2780, 2781.)
 
  __Amendments__ 
 
-    2008—Subsec. (a)(2)(A). [Pub. L. 110–289, § 1162(b)(1)(A)][/us/pl/110/289/s1162/b/1/A], substituted “13 persons, or such other number as the Director determines appropriate, who” for “18 persons, 5 of whom shall be appointed annually by the President of the United States and the remainder of whom” in first sentence and struck out “appointed by the President of the United States” after “as members” in second sentence.
+    2008—Subsec. (a)(2)(A). [Pub. L. 110–289][/us/pl/110/289], § 1162(b)(1)(A), substituted “13 persons, or such other number as the Director determines appropriate, who” for “18 persons, 5 of whom shall be appointed annually by the President of the United States and the remainder of whom” in first sentence and struck out “appointed by the President of the United States” after “as members” in second sentence.
 
-    [Pub. L. 110–289, § 1153(b)(3)][/us/pl/110/289/s1153/b/3], substituted “Except to the extent action under [section 4636a of this title][/us/usc/t12/s4636a] temporarily results in a lesser number, the” for “The” in second sentence.
+    [Pub. L. 110–289][/us/pl/110/289], § 1153(b)(3), substituted “Except to the extent action under [section 4636a of this title][/us/usc/t12/s4636a] temporarily results in a lesser number, the” for “The” in second sentence.
 
-    Subsec. (a)(2)(B). [Pub. L. 110–289, § 1162(b)(1)(B)][/us/pl/110/289/s1162/b/1/B], struck out “such or” before “elected” and “, except that any appointed member may be removed from office by the President for good cause” before period at end.
+    Subsec. (a)(2)(B). [Pub. L. 110–289][/us/pl/110/289], § 1162(b)(1)(B), struck out “such or” before “elected” and “, except that any appointed member may be removed from office by the President for good cause” before period at end.
 
-    Subsec. (a)(2)(C). [Pub. L. 110–289, § 1162(b)(1)(C)][/us/pl/110/289/s1162/b/1/C], struck out “elective” after “Any” in second sentence and struck out first sentence which read as follows: “Any appointive seat on the Board of Directors that becomes vacant shall be filled by appointment by the President of the United States, but only for the unexpired portion of the term.”
+    Subsec. (a)(2)(C). [Pub. L. 110–289][/us/pl/110/289], § 1162(b)(1)(C), struck out “elective” after “Any” in second sentence and struck out first sentence which read as follows: “Any appointive seat on the Board of Directors that becomes vacant shall be filled by appointment by the President of the United States, but only for the unexpired portion of the term.”
 
-    Subsecs. (b)(2), (h)(2). [Pub. L. 110–289, § 1161(c)(1)][/us/pl/110/289/s1161/c/1], substituted “Director of the Federal Housing Finance Agency” for “Director of the Office of Federal Housing Enterprise Oversight of the Department of Housing and Urban Development”.
+    Subsecs. (b)(2), (h)(2). [Pub. L. 110–289][/us/pl/110/289], § 1161(c)(1), substituted “Director of the Federal Housing Finance Agency” for “Director of the Office of Federal Housing Enterprise Oversight of the Department of Housing and Urban Development”.
 
-    Subsec. (h)(4). [Pub. L. 110–289, § 1113(b)(2)][/us/pl/110/289/s1113/b/2], added par. (4).
+    Subsec. (h)(4). [Pub. L. 110–289][/us/pl/110/289], § 1113(b)(2), added par. (4).
 
-    1992—Subsec. (a)(2)(A). [Pub. L. 102–550, § 1382(c)(1)][/us/pl/102/550/s1382/c/1], in second sentence, struck out “and” after “mortgage lending industry,” and inserted before period “, and at least 1 person from an organization that has represented consumer or community interests for not less than 2 years or 1 person who has demonstrated a career commitment to the provision of housing for low-income households”.
+    1992—Subsec. (a)(2)(A). [Pub. L. 102–550][/us/pl/102/550], § 1382(c)(1), in second sentence, struck out “and” after “mortgage lending industry,” and inserted before period “, and at least 1 person from an organization that has represented consumer or community interests for not less than 2 years or 1 person who has demonstrated a career commitment to the provision of housing for low-income households”.
 
-    Subsec. (a)(2)(B). [Pub. L. 102–550, § 1382(d)][/us/pl/102/550/s1382/d], inserted before period at end “, except that any appointed member may be removed from office by the President for good cause”.
+    Subsec. (a)(2)(B). [Pub. L. 102–550][/us/pl/102/550], § 1382(d), inserted before period at end “, except that any appointed member may be removed from office by the President for good cause”.
 
-    Subsec. (b). [Pub. L. 102–550, § 1382(e)][/us/pl/102/550/s1382/e], amended subsec. (b) generally, substituting present provisions for provisions which outlined general regulatory authority of the Secretary of Housing and Urban Development over Corporation in such areas as mortgage purchases, dividends, examinations and audits, outstanding obligations, conversion of stock and debt obligations, residential mortgage transactions, and approval or disapproval of requests.
+    Subsec. (b). [Pub. L. 102–550][/us/pl/102/550], § 1382(e), amended subsec. (b) generally, substituting present provisions for provisions which outlined general regulatory authority of the Secretary of Housing and Urban Development over Corporation in such areas as mortgage purchases, dividends, examinations and audits, outstanding obligations, conversion of stock and debt obligations, residential mortgage transactions, and approval or disapproval of requests.
 
-    Subsec. (c). [Pub. L. 102–550, § 1382(f)(1)][/us/pl/102/550/s1382/f/1], (g), in cl. (9) of first sentence, inserted “as the Board of Directors determines reasonable and comparable with compensation for employment in other similar businesses (including publicly held financial institutions or other major financial services companies) involving similar duties and responsibilities, except that a significant portion of potential compensation of all executive officers (as such term is defined in subsection (h)(3)) of the Corporation shall be based on the performance of the Corporation” and struck out after first sentence “Nothing in this chapter or any other law shall be construed to prevent the appointment, employment, and provision for compensation and benefits, as an officer, employee, attorney, or agent of the Corporation, of any officer, employee, attorney, or agent of any department, establishment, or corporate or other instrumentality of the Government, including any Federal home loan bank or member thereof.”
+    Subsec. (c). [Pub. L. 102–550][/us/pl/102/550], § 1382(f)(1), (g), in cl. (9) of first sentence, inserted “as the Board of Directors determines reasonable and comparable with compensation for employment in other similar businesses (including publicly held financial institutions or other major financial services companies) involving similar duties and responsibilities, except that a significant portion of potential compensation of all executive officers (as such term is defined in subsection (h)(3)) of the Corporation shall be based on the performance of the Corporation” and struck out after first sentence “Nothing in this chapter or any other law shall be construed to prevent the appointment, employment, and provision for compensation and benefits, as an officer, employee, attorney, or agent of the Corporation, of any officer, employee, attorney, or agent of any department, establishment, or corporate or other instrumentality of the Government, including any Federal home loan bank or member thereof.”
 
-    Subsec. (f). [Pub. L. 102–550, § 1382(h)][/us/pl/102/550/s1382/h], struck out at end “No attachment or execution shall be issued against the Corporation or any of its property before final judgment in any State, Federal, or other court.”
+    Subsec. (f). [Pub. L. 102–550][/us/pl/102/550], § 1382(h), struck out at end “No attachment or execution shall be issued against the Corporation or any of its property before final judgment in any State, Federal, or other court.”
 
-    Subsec. (h). [Pub. L. 102–550, § 1382(f)(2)][/us/pl/102/550/s1382/f/2], added subsec. (h).
+    Subsec. (h). [Pub. L. 102–550][/us/pl/102/550], § 1382(f)(2), added subsec. (h).
 
-    1989—Subsec. (a). [Pub. L. 101–73, § 731(b)(1)][/us/pl/101/73/s731/b/1], amended subsec. (a) generally, reorganizing provisions into pars. (1) and (2), and substituting provisions setting forth general policies as governing Board, membership requirements and vacancies, for provisions setting forth status of members, liabilities, and conditions and limitations.
+    1989—Subsec. (a). [Pub. L. 101–73][/us/pl/101/73], § 731(b)(1), amended subsec. (a) generally, reorganizing provisions into pars. (1) and (2), and substituting provisions setting forth general policies as governing Board, membership requirements and vacancies, for provisions setting forth status of members, liabilities, and conditions and limitations.
 
-    Subsecs. (b) to (g). [Pub. L. 101–73, § 731(c)][/us/pl/101/73/s731/c], added subsec. (b) and redesignated former subsecs. (b) to (f) as (c) to (g), respectively.
+    Subsecs. (b) to (g). [Pub. L. 101–73][/us/pl/101/73], § 731(c), added subsec. (b) and redesignated former subsecs. (b) to (f) as (c) to (g), respectively.
 
     1984—Subsec. (d). [Pub. L. 98–369][/us/pl/98/369] struck out “by the United States,” before “by any territory”, substituted “possession of the United States” for “possession thereof,” and struck out “The provisions of this subsection shall be applicable without regard to any other law, including without limitation on the generality of the foregoing [section 3301 of title 26][/us/usc/t26/s3301], except laws hereafter enacted by Congress expressly in limitation of this subsection.”
 
@@ -107,7 +107,7 @@
 
  __Effective Date of 1992 Amendment__ 
 
-[Pub. L. 102–550, title XIII, § 1382(c)(2)][/us/pl/102/550/s1382/c/2], Oct. 28, 1992, [106 Stat. 4002][/us/stat/106/4002], provided that: 
+[Pub. L. 102–550, title XIII][/us/pl/102/550/tXIII], § 1382(c)(2), Oct. 28, 1992, [106 Stat. 4002][/us/stat/106/4002], provided that: 
 
 > “The amendments made by paragraph (1) \[amending this section\] shall apply to the first annual appointment by the President of members to the Board of Directors of the Federal Home Loan Mortgage Corporation that occurs after the date of the enactment of this Act \[Oct. 28, 1992\].”
 
@@ -117,11 +117,11 @@
 
  __Transitional Provisions__ 
 
-[Pub. L. 110–289, div. A, title I, § 1162(b)(2)][/us/pl/110/289/s1162/b/2], July 30, 2008, [122 Stat. 2782][/us/stat/122/2782], provided that: 
+[Pub. L. 110–289, div. A, title I][/us/pl/110/289/dA/tI], § 1162(b)(2), July 30, 2008, [122 Stat. 2782][/us/stat/122/2782], provided that: 
 
 > “The amendments made by paragraph (1) \[amending this section\] shall not apply to any appointed position of the board of directors of the Federal Home Loan Mortgage Corporation until the expiration of the annual term for such position during which the effective date under section 1163 \[set out as an Effective Date of 2008 Amendment note under [section 3132 of Title 5][/us/usc/t5/s3132], Government Organization and Employees\] occurs.”
 
-[Pub. L. 101–73, title VII, § 731(b)(2)][/us/pl/101/73/s731/b/2], Aug. 9, 1989, [103 Stat. 430][/us/stat/103/430], provided that:
+[Pub. L. 101–73, title VII][/us/pl/101/73/tVII], § 731(b)(2), Aug. 9, 1989, [103 Stat. 430][/us/stat/103/430], provided that:
 
 >     “(A) __Interim board.—__ 
 
@@ -162,47 +162,47 @@
 [/us/usc/t12/s1455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1455
 [/us/usc/t12/s4502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4502
 [/us/usc/t12/s4518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4518
-[/us/pl/91/351/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F351%2Fs303
+[/us/pl/91/351/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F351%2FtIII
 [/us/stat/84/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F452
-[/us/pl/96/153/s316/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153%2Fs316%2Fb
+[/us/pl/96/153/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153%2FtIII
 [/us/stat/93/1118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1118
-[/us/pl/98/369/s177/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs177%2Fa
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F709
-[/us/pl/101/73/s731/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs731%2Fb%2F1
+[/us/pl/101/73/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtVII
 [/us/stat/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F429
-[/us/pl/102/550/s1382/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1382%2Fc%2F1
+[/us/pl/102/550/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIII
 [/us/stat/106/4002-4004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4002-4004
-[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtI
 [/us/stat/122/2678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2678
-[/us/pl/110/289/s1162/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1162%2Fb%2F1%2FA
-[/us/pl/110/289/s1153/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1153%2Fb%2F3
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
 [/us/usc/t12/s4636a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4636a
-[/us/pl/110/289/s1162/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1162%2Fb%2F1%2FB
-[/us/pl/110/289/s1162/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1162%2Fb%2F1%2FC
-[/us/pl/110/289/s1161/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1161%2Fc%2F1
-[/us/pl/110/289/s1113/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1113%2Fb%2F2
-[/us/pl/102/550/s1382/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1382%2Fc%2F1
-[/us/pl/102/550/s1382/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1382%2Fd
-[/us/pl/102/550/s1382/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1382%2Fe
-[/us/pl/102/550/s1382/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1382%2Ff%2F1
-[/us/pl/102/550/s1382/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1382%2Fh
-[/us/pl/102/550/s1382/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1382%2Ff%2F2
-[/us/pl/101/73/s731/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs731%2Fb%2F1
-[/us/pl/101/73/s731/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs731%2Fc
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/usc/t26/s3301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3301
 [/us/pl/96/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21
-[/us/pl/102/550/s1382/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1382%2Fc%2F2
+[/us/pl/102/550/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIII
 [/us/stat/106/4002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4002
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/98/369/s177/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs177%2Fd
 [/us/usc/t26/s172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs172
-[/us/pl/110/289/s1162/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1162%2Fb%2F2
+[/us/pl/110/289/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtI
 [/us/stat/122/2782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2782
 [/us/usc/t5/s3132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3132
-[/us/pl/101/73/s731/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs731%2Fb%2F2
+[/us/pl/101/73/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtVII
 [/us/stat/103/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F430
 
 

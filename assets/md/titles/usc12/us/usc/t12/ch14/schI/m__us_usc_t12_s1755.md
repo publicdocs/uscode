@@ -39,7 +39,7 @@
 
         (3) All income derived from such investments and reinvestments shall be deposited to the account of the Administration described in subsection (d).
 
-([June 26, 1934, ch. 750][/us/act/1934-06-26/ch750], title I, § 105, formerly § 5, [48 Stat. 1217][/us/stat/48/1217]; 1947 Reorg. Plan No. 1, § 401, eff. July 1, 1947, 12 F.R. 4534, [61 Stat. 952][/us/stat/61/952]; [June 29, 1948, ch. 711][/us/act/1948-06-29/ch711], §§ 1, 2, [62 Stat. 1091][/us/stat/62/1091]; [Apr. 17, 1952, ch. 214, § 1][/us/act/1952-04-17/ch214/s1], [66 Stat. 63][/us/stat/66/63]; renumbered § 6 and amended [Pub. L. 86–354, § 1][/us/pl/86/354/s1], Sept. 22, 1959, [73 Stat. 629][/us/stat/73/629]; [Pub. L. 91–206, § 2(1)][/us/pl/91/206/s2/1], (3), Mar. 10, 1970, [84 Stat. 49][/us/stat/84/49]; renumbered title I, § 105, [Pub. L. 91–468, § 1(2)][/us/pl/91/468/s1/2], Oct. 19, 1970, [84 Stat. 994][/us/stat/84/994]; amended [Pub. L. 95–630, title V, § 507][/us/pl/95/630/s507], Nov. 10, 1978, [92 Stat. 3682][/us/stat/92/3682]; [Pub. L. 97–320, title V, § 505][/us/pl/97/320/s505], Oct. 15, 1982, [96 Stat. 1528][/us/stat/96/1528].)
+([June 26, 1934, ch. 750][/us/act/1934-06-26/ch750], title I, § 105, formerly § 5, [48 Stat. 1217][/us/stat/48/1217]; 1947 Reorg. Plan No. 1, § 401, eff. July 1, 1947, 12 F.R. 4534, [61 Stat. 952][/us/stat/61/952]; [June 29, 1948, ch. 711][/us/act/1948-06-29/ch711], §§ 1, 2, [62 Stat. 1091][/us/stat/62/1091]; [Apr. 17, 1952, ch. 214][/us/act/1952-04-17/ch214], § 1, [66 Stat. 63][/us/stat/66/63]; renumbered § 6 and amended [Pub. L. 86–354][/us/pl/86/354], § 1, Sept. 22, 1959, [73 Stat. 629][/us/stat/73/629]; [Pub. L. 91–206][/us/pl/91/206], § 2(1), (3), Mar. 10, 1970, [84 Stat. 49][/us/stat/84/49]; renumbered title I, § 105, [Pub. L. 91–468][/us/pl/91/468], § 1(2), Oct. 19, 1970, [84 Stat. 994][/us/stat/84/994]; amended [Pub. L. 95–630, title V][/us/pl/95/630/tV], § 507, Nov. 10, 1978, [92 Stat. 3682][/us/stat/92/3682]; [Pub. L. 97–320, title V][/us/pl/97/320/tV], § 505, Oct. 15, 1982, [96 Stat. 1528][/us/stat/96/1528].)
 
  __Amendments__ 
 
@@ -59,7 +59,7 @@
 
  __Effective Date of 1952 Amendment__ 
 
-[Act Apr. 17, 1952, ch. 214, § 2][/us/act/1952-04-17/ch214/s2], [66 Stat. 63][/us/stat/66/63], provided that: 
+[Act Apr. 17, 1952, ch. 214][/us/act/1952-04-17/ch214], § 2, [66 Stat. 63][/us/stat/66/63], provided that: 
 
 > “The amendment by section 1 of this Act \[amending this section\] shall apply to supervision fees payable with respect to the calendar year 1952 and subsequent calendar years.”
 
@@ -81,17 +81,17 @@
 [/us/stat/61/952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F952
 [/us/act/1948-06-29/ch711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-29%2Fch711
 [/us/stat/62/1091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1091
-[/us/act/1952-04-17/ch214/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-04-17%2Fch214%2Fs1
+[/us/act/1952-04-17/ch214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-04-17%2Fch214
 [/us/stat/66/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F63
-[/us/pl/86/354/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F354%2Fs1
+[/us/pl/86/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F354
 [/us/stat/73/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F629
-[/us/pl/91/206/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F206%2Fs2%2F1
+[/us/pl/91/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F206
 [/us/stat/84/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F49
-[/us/pl/91/468/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F468%2Fs1%2F2
+[/us/pl/91/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F468
 [/us/stat/84/994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F994
-[/us/pl/95/630/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs507
+[/us/pl/95/630/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtV
 [/us/stat/92/3682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3682
-[/us/pl/97/320/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs505
+[/us/pl/97/320/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2FtV
 [/us/stat/96/1528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1528
 [/us/pl/97/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320
 [/us/pl/95/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630
@@ -100,7 +100,7 @@
 [/us/pl/95/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630
 [/us/pl/95/630/s509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs509
 [/us/usc/t12/s1752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1752
-[/us/act/1952-04-17/ch214/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-04-17%2Fch214%2Fs2
+[/us/act/1952-04-17/ch214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-04-17%2Fch214
 [/us/stat/66/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F63
 [/us/usc/t12/s1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1751
 

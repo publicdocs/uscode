@@ -129,7 +129,7 @@
 
         Nothing in this section shall affect the authority of an appropriate Federal banking agency or the National Credit Union Administration Board to take enforcement or supervisory action.
 
-([Pub. L. 103–325, title III, § 309][/us/pl/103/325/s309], Sept. 23, 1994, [108 Stat. 2218][/us/stat/108/2218].)
+([Pub. L. 103–325, title III][/us/pl/103/325/tIII], § 309, Sept. 23, 1994, [108 Stat. 2218][/us/stat/108/2218].)
 
  __Termination of Administrative Conference of United States__ 
 
@@ -144,7 +144,7 @@
 
 [/us/usc/t12/s1790a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1790a
 [/us/usc/t5/s571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs571
-[/us/pl/103/325/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs309
+[/us/pl/103/325/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtIII
 [/us/stat/108/2218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2218
 [/us/pl/104/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F52
 [/us/usc/t5/s591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs591

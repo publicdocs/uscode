@@ -33,7 +33,7 @@
 
         The authority of the Director to take actions under subchapters II and III shall not in any way limit the general supervisory and regulatory authority granted to the Director under subsection (b).
 
-([Pub. L. 102–550, title XIII, § 1311][/us/pl/102/550/s1311], as added [Pub. L. 110–289, div. A, title I, § 1101][/us/pl/110/289/s1101], July 30, 2008, [122 Stat. 2661][/us/stat/122/2661].)
+([Pub. L. 102–550, title XIII][/us/pl/102/550/tXIII], § 1311, as added [Pub. L. 110–289, div. A, title I][/us/pl/110/289/dA/tI], § 1101, July 30, 2008, [122 Stat. 2661][/us/stat/122/2661].)
 
  __References in Text__ 
 
@@ -43,11 +43,11 @@
 
  __Prior Provisions__ 
 
-    A prior section 4511, [Pub. L. 102–550, title XIII, § 1311][/us/pl/102/550/s1311], Oct. 28, 1992, [106 Stat. 3944][/us/stat/106/3944], related to establishment of the Office of Federal Housing Enterprise Oversight, prior to repeal by [Pub. L. 110–289, div. A, title I, § 1101][/us/pl/110/289/s1101], July 30, 2008, [122 Stat. 2661][/us/stat/122/2661].
+    A prior section 4511, [Pub. L. 102–550, title XIII][/us/pl/102/550/tXIII], § 1311, Oct. 28, 1992, [106 Stat. 3944][/us/stat/106/3944], related to establishment of the Office of Federal Housing Enterprise Oversight, prior to repeal by [Pub. L. 110–289, div. A, title I][/us/pl/110/289/dA/tI], § 1101, July 30, 2008, [122 Stat. 2661][/us/stat/122/2661].
 
  __Transfer and Rights of Certain HUD Employees__ 
 
-[Pub. L. 110–289, div. A, title I, § 1133][/us/pl/110/289/s1133], July 30, 2008, [122 Stat. 2728][/us/stat/122/2728], provided that:
+[Pub. L. 110–289, div. A, title I][/us/pl/110/289/dA/tI], § 1133, July 30, 2008, [122 Stat. 2728][/us/stat/122/2728], provided that:
 
 >     “(a)  __Transfer__  __.—__ 
 
@@ -105,7 +105,7 @@
 
  __Transfer of Functions, Personnel, and Property of OFHEO and the Federal Housing Finance Board__ 
 
-[Pub. L. 110–289, div. A, title III][/us/pl/110/289], July 30, 2008, [122 Stat. 2794–2799][/us/stat/122/2794-2799], provided that:
+[Pub. L. 110–289, div. A, title III][/us/pl/110/289/dA/tIII], July 30, 2008, [122 Stat. 2794–2799][/us/stat/122/2794-2799], provided that:
 
 > “Subtitle A— __OFHEO__ 
 
@@ -387,7 +387,7 @@
 
  __Definitions__ 
 
-[Pub. L. 110–289, div. A, § 1002(b)][/us/pl/110/289/s1002/b], July 30, 2008, [122 Stat. 2661][/us/stat/122/2661], provided that: 
+[Pub. L. 110–289, div. A][/us/pl/110/289/dA], § 1002(b), July 30, 2008, [122 Stat. 2661][/us/stat/122/2661], provided that: 
 
 > “As used in this Act \[see Tables for classification\], unless otherwise specified—
 
@@ -405,8 +405,8 @@
 ----------
 
 [/us/usc/t12/s4513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4513
-[/us/pl/102/550/s1311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1311
-[/us/pl/110/289/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1101
+[/us/pl/102/550/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIII
+[/us/pl/110/289/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtI
 [/us/stat/122/2661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2661
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/stat/106/3941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3941
@@ -414,11 +414,11 @@
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/stat/106/3672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3672
 [/us/usc/t42/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5301
-[/us/pl/102/550/s1311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1311
+[/us/pl/102/550/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIII
 [/us/stat/106/3944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3944
-[/us/pl/110/289/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1101
+[/us/pl/110/289/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtI
 [/us/stat/122/2661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2661
-[/us/pl/110/289/s1133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1133
+[/us/pl/110/289/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtI
 [/us/stat/122/2728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2728
 [/us/usc/t12/s4561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4561
 [/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
@@ -427,7 +427,7 @@
 [/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
 [/us/pl/110/289/s1133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1133
 [/us/pl/110/289/s1002/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1002%2Fb
-[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtIII
 [/us/stat/122/2794-2799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2794-2799
 [/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
 [/us/usc/t12/s4501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4501
@@ -443,7 +443,7 @@
 [/us/usc/t5/s3503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3503
 [/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
 [/us/pl/110/289/s1002/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1002%2Fb
-[/us/pl/110/289/s1002/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1002%2Fb
+[/us/pl/110/289/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA
 [/us/stat/122/2661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2661
 [/us/usc/t12/s4502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4502
 

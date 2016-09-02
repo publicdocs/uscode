@@ -37,17 +37,17 @@
 
     (10) Facilitates the collection and disbursement of consumer complaints on behalf of State and Federal mortgage regulators.
 
-([Pub. L. 110–289, div. A, title V, § 1502][/us/pl/110/289/s1502], July 30, 2008, [122 Stat. 2810][/us/stat/122/2810].)
+([Pub. L. 110–289, div. A, title V][/us/pl/110/289/dA/tV], § 1502, July 30, 2008, [122 Stat. 2810][/us/stat/122/2810].)
 
  __Short Title of 2015 Amendment__ 
 
-[Pub. L. 114–94, div. G, title LXXXVIII, § 88001][/us/pl/114/94/s88001], Dec. 4, 2015, [129 Stat. 1799][/us/stat/129/1799], provided that: 
+[Pub. L. 114–94, div. G, title LXXXVIII][/us/pl/114/94/dG/tLXXXVIII], § 88001, Dec. 4, 2015, [129 Stat. 1799][/us/stat/129/1799], provided that: 
 
 > “This title \[amending [section 5110 of this title][/us/usc/t12/s5110]\] may be cited as the ‘State Licensing Efficiency Act of 2015’.”
 
  __Short Title__ 
 
-[Pub. L. 110–289, div. A, title V, § 1501][/us/pl/110/289/s1501], July 30, 2008, [122 Stat. 2810][/us/stat/122/2810], provided that: 
+[Pub. L. 110–289, div. A, title V][/us/pl/110/289/dA/tV], § 1501, July 30, 2008, [122 Stat. 2810][/us/stat/122/2810], provided that: 
 
 > “This title \[enacting this chapter\] may be cited as the ‘Secure and Fair Enforcement for Mortgage Licensing Act of 2008’ or ‘S.A.F.E. Mortgage Licensing Act of 2008’.”
 
@@ -58,12 +58,12 @@
 ----------
 ----------
 
-[/us/pl/110/289/s1502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1502
+[/us/pl/110/289/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtV
 [/us/stat/122/2810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2810
-[/us/pl/114/94/s88001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs88001
+[/us/pl/114/94/dG/tLXXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdG%2FtLXXXVIII
 [/us/stat/129/1799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1799
 [/us/usc/t12/s5110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5110
-[/us/pl/110/289/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1501
+[/us/pl/110/289/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtV
 [/us/stat/122/2810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2810
 
 

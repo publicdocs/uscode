@@ -49,7 +49,7 @@
 
         Nothing in this section shall be construed to create any cause of action.
 
-([July 31, 1945, ch. 341, § 11][/us/act/1945-07-31/ch341/s11], formerly § 17, as added and renumbered § 11, [Pub. L. 102–429, title I][/us/pl/102/429], §§ 106, 121(c)(5), Oct. 21, 1992, [106 Stat. 2189][/us/stat/106/2189], 2199; amended [Pub. L. 103–428, § 2(a)][/us/pl/103/428/s2/a], Oct. 31, 1994, [108 Stat. 4376][/us/stat/108/4376]; [Pub. L. 109–438, § 18(b)][/us/pl/109/438/s18/b], Dec. 20, 2006, [120 Stat. 3281][/us/stat/120/3281]; [Pub. L. 114–94, div. E, title LIV, § 54002(d)][/us/pl/114/94/s54002/d], Dec. 4, 2015, [129 Stat. 1769][/us/stat/129/1769].)
+([July 31, 1945, ch. 341][/us/act/1945-07-31/ch341], § 11, formerly § 17, as added and renumbered § 11, [Pub. L. 102–429, title I][/us/pl/102/429/tI], §§ 106, 121(c)(5), Oct. 21, 1992, [106 Stat. 2189][/us/stat/106/2189], 2199; amended [Pub. L. 103–428][/us/pl/103/428], § 2(a), Oct. 31, 1994, [108 Stat. 4376][/us/stat/108/4376]; [Pub. L. 109–438][/us/pl/109/438], § 18(b), Dec. 20, 2006, [120 Stat. 3281][/us/stat/120/3281]; [Pub. L. 114–94, div. E, title LIV][/us/pl/114/94/dE/tLIV], § 54002(d), Dec. 4, 2015, [129 Stat. 1769][/us/stat/129/1769].)
 
  __Codification__ 
 
@@ -81,14 +81,14 @@
 [/us/usc/t12/s635/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635%2Fb%2F1%2FA
 [/us/usc/t18/s1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1905
 [/us/usc/t2/s661a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs661a%2F5
-[/us/act/1945-07-31/ch341/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch341%2Fs11
-[/us/pl/102/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429
+[/us/act/1945-07-31/ch341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch341
+[/us/pl/102/429/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429%2FtI
 [/us/stat/106/2189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2189
-[/us/pl/103/428/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F428%2Fs2%2Fa
+[/us/pl/103/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F428
 [/us/stat/108/4376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4376
-[/us/pl/109/438/s18/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F438%2Fs18%2Fb
+[/us/pl/109/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F438
 [/us/stat/120/3281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3281
-[/us/pl/114/94/s54002/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs54002%2Fd
+[/us/pl/114/94/dE/tLIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdE%2FtLIV
 [/us/stat/129/1769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1769
 [/us/act/1945-07-31/ch341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch341
 [/us/usc/t12/s635i–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635i%E2%80%938

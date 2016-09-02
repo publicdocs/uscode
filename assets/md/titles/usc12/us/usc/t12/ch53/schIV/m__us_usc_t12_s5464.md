@@ -99,7 +99,7 @@
 
         Designated financial market utilities and financial institutions subject to the standards prescribed under subsection (a) for a designated activity shall conduct their operations in compliance with the applicable risk management standards.
 
-([Pub. L. 111–203, title VIII, § 805][/us/pl/111/203/s805], July 21, 2010, [124 Stat. 1809][/us/stat/124/1809].)
+([Pub. L. 111–203, title VIII][/us/pl/111/203/tVIII], § 805, July 21, 2010, [124 Stat. 1809][/us/stat/124/1809].)
 
 ----------
 
@@ -115,7 +115,7 @@
 [/us/usc/t15/s78c–3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c%E2%80%933%2Fa%2F1
 [/us/usc/t7/s2/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2%2Fh%2F1
 [/us/usc/t15/s78c–3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c%E2%80%933%2Fa%2F1
-[/us/pl/111/203/s805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs805
+[/us/pl/111/203/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVIII
 [/us/stat/124/1809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1809
 
 

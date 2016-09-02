@@ -59,7 +59,7 @@
 
         The Board shall, for the purpose of facilitating insured credit unions’ access to liquidity, make available to the Federal reserve banks (subject to appropriate assurances of confidentiality) information relevant to making advances to such credit unions, including the Board’s reports of examination.
 
-([June 26, 1934, ch. 750][/us/act/1934-06-26/ch750], title II, § 204, as added [Pub. L. 91–468, § 1(3)][/us/pl/91/468/s1/3], Oct. 19, 1970, [84 Stat. 1001][/us/stat/84/1001]; amended [Pub. L. 95–630, title V, § 502(b)][/us/pl/95/630/s502/b], Nov. 10, 1978, [92 Stat. 3681][/us/stat/92/3681]; [Pub. L. 101–73, title IX, § 915(a)][/us/pl/101/73/s915/a], Aug. 9, 1989, [103 Stat. 486][/us/stat/103/486]; [Pub. L. 103–325, title V, § 529(b)][/us/pl/103/325/s529/b], Sept. 23, 1994, [108 Stat. 2266][/us/stat/108/2266]; [Pub. L. 105–219, title III, § 303][/us/pl/105/219/s303], Aug. 7, 1998, [112 Stat. 934][/us/stat/112/934]; [Pub. L. 109–351, title VII, § 726(13)][/us/pl/109/351/s726/13], Oct. 13, 2006, [120 Stat. 2002][/us/stat/120/2002].)
+([June 26, 1934, ch. 750][/us/act/1934-06-26/ch750], title II, § 204, as added [Pub. L. 91–468][/us/pl/91/468], § 1(3), Oct. 19, 1970, [84 Stat. 1001][/us/stat/84/1001]; amended [Pub. L. 95–630, title V][/us/pl/95/630/tV], § 502(b), Nov. 10, 1978, [92 Stat. 3681][/us/stat/92/3681]; [Pub. L. 101–73, title IX][/us/pl/101/73/tIX], § 915(a), Aug. 9, 1989, [103 Stat. 486][/us/stat/103/486]; [Pub. L. 103–325, title V][/us/pl/103/325/tV], § 529(b), Sept. 23, 1994, [108 Stat. 2266][/us/stat/108/2266]; [Pub. L. 105–219, title III][/us/pl/105/219/tIII], § 303, Aug. 7, 1998, [112 Stat. 934][/us/stat/112/934]; [Pub. L. 109–351, title VII][/us/pl/109/351/tVII], § 726(13), Oct. 13, 2006, [120 Stat. 2002][/us/stat/120/2002].)
 
  __Amendments__ 
 
@@ -69,9 +69,9 @@
 
     1994—Subsec. (e). [Pub. L. 103–325][/us/pl/103/325] added subsec. (e).
 
-    1989—Subsec. (b). [Pub. L. 101–73, § 915(a)(1)][/us/pl/101/73/s915/a/1], inserted “or with other types of investigations to determine compliance with applicable law and regulations,” after “insured credit unions,”.
+    1989—Subsec. (b). [Pub. L. 101–73][/us/pl/101/73], § 915(a)(1), inserted “or with other types of investigations to determine compliance with applicable law and regulations,” after “insured credit unions,”.
 
-    [Pub. L. 101–73, § 915(a)(2)][/us/pl/101/73/s915/a/2], which directed the insertion of “and to exercise such others powers as are set forth in [section 1786(p) of this title][/us/usc/t12/s1786/p]” after “subpena duces tecum”, was executed by making the insertion after “subpenas duces tecum”, as the probable intent of Congress.
+    [Pub. L. 101–73][/us/pl/101/73], § 915(a)(2), which directed the insertion of “and to exercise such others powers as are set forth in [section 1786(p) of this title][/us/usc/t12/s1786/p]” after “subpena duces tecum”, was executed by making the insertion after “subpenas duces tecum”, as the probable intent of Congress.
 
     1978—[Pub. L. 95–630][/us/pl/95/630] substituted “Board” for “Administrator” wherever appearing, and “it” and “its” for “him” and “his”, respectively, where appropriate.
 
@@ -88,23 +88,23 @@
 
 [/us/usc/t12/s1786/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1786%2Fp
 [/us/act/1934-06-26/ch750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-26%2Fch750
-[/us/pl/91/468/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F468%2Fs1%2F3
+[/us/pl/91/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F468
 [/us/stat/84/1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1001
-[/us/pl/95/630/s502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs502%2Fb
+[/us/pl/95/630/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtV
 [/us/stat/92/3681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3681
-[/us/pl/101/73/s915/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs915%2Fa
+[/us/pl/101/73/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtIX
 [/us/stat/103/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F486
-[/us/pl/103/325/s529/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs529%2Fb
+[/us/pl/103/325/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtV
 [/us/stat/108/2266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2266
-[/us/pl/105/219/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F219%2Fs303
+[/us/pl/105/219/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F219%2FtIII
 [/us/stat/112/934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F934
-[/us/pl/109/351/s726/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs726%2F13
+[/us/pl/109/351/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2FtVII
 [/us/stat/120/2002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2002
 [/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
 [/us/pl/105/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F219
 [/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
-[/us/pl/101/73/s915/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs915%2Fa%2F1
-[/us/pl/101/73/s915/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs915%2Fa%2F2
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
 [/us/usc/t12/s1786/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1786%2Fp
 [/us/pl/95/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630
 [/us/pl/95/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630

@@ -65,7 +65,7 @@
 
         If a State that has been approved to be a participating State wishes to amend its form of participation agreement and continue to be a participating State, such State shall submit such amendment for review by the Fund in accordance with subsection (b)(4). Any such amendment shall become effective only after it has been approved by the Fund.
 
-([Pub. L. 103–325, title II, § 253][/us/pl/103/325/s253], Sept. 23, 1994, [108 Stat. 2205][/us/stat/108/2205].)
+([Pub. L. 103–325, title II][/us/pl/103/325/tII], § 253, Sept. 23, 1994, [108 Stat. 2205][/us/stat/108/2205].)
 
  __References in Text__ 
 
@@ -84,7 +84,7 @@
 [/us/usc/t12/s4745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4745
 [/us/usc/t12/s4747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4747
 [/us/usc/t12/s4747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4747
-[/us/pl/103/325/s253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs253
+[/us/pl/103/325/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtII
 [/us/stat/108/2205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2205
 [/us/usc/t12/s4747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4747
 [/us/pl/103/325/s257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs257

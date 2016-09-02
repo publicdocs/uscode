@@ -53,21 +53,21 @@
 
         Each appropriate Federal banking agency shall prescribe by regulation a definition for the terms “troubled condition” and “senior executive officer” for purposes of subsection (a).
 
-([Sept. 21, 1950, ch. 967, § 2][/us/act/1950-09-21/ch967/s2]\[32\], as added [Pub. L. 101–73, title IX, § 914(a)][/us/pl/101/73/s914/a], Aug. 9, 1989, [103 Stat. 484][/us/stat/103/484]; amended [Pub. L. 104–208, div. A, title II, § 2209][/us/pl/104/208/s2209], Sept. 30, 1996, [110 Stat. 3009–409][/us/stat/110/3009-409].)
+([Sept. 21, 1950, ch. 967][/us/act/1950-09-21/ch967], § 2\[32\], as added [Pub. L. 101–73, title IX][/us/pl/101/73/tIX], § 914(a), Aug. 9, 1989, [103 Stat. 484][/us/stat/103/484]; amended [Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], § 2209, Sept. 30, 1996, [110 Stat. 3009–409][/us/stat/110/3009-409].)
 
  __Amendments__ 
 
-    1996—Subsec. (a). [Pub. L. 104–208, § 2209(1)(A)][/us/pl/104/208/s2209/1/A], (B), in introductory provisions, inserted “(or such other period, as determined by the appropriate Federal banking agency)” after “30 days” and substituted “if” for “if the insured depository institution or depository institution holding company”.
+    1996—Subsec. (a). [Pub. L. 104–208][/us/pl/104/208], § 2209(1)(A), (B), in introductory provisions, inserted “(or such other period, as determined by the appropriate Federal banking agency)” after “30 days” and substituted “if” for “if the insured depository institution or depository institution holding company”.
 
-    Subsec. (a)(1). [Pub. L. 104–208, § 2209(1)(E)][/us/pl/104/208/s2209/1/E], inserted “the insured depository institution or depository institution holding company” before “is not in compliance” and substituted “; or” for period at end.
+    Subsec. (a)(1). [Pub. L. 104–208][/us/pl/104/208], § 2209(1)(E), inserted “the insured depository institution or depository institution holding company” before “is not in compliance” and substituted “; or” for period at end.
 
-    [Pub. L. 104–208, § 2209(1)(C)][/us/pl/104/208/s2209/1/C], (D), redesignated par. (3) as (1) and struck out former par. (1) which read as follows: “has been chartered less than 2 years in the case of an insured depository institution;”.
+    [Pub. L. 104–208][/us/pl/104/208], § 2209(1)(C), (D), redesignated par. (3) as (1) and struck out former par. (1) which read as follows: “has been chartered less than 2 years in the case of an insured depository institution;”.
 
-    Subsec. (a)(2). [Pub. L. 104–208, § 2209(1)(C)][/us/pl/104/208/s2209/1/C], (F), added par. (2) and struck out former par. (2) which read as follows: “has undergone a change in control within the preceding 2 years; or”.
+    Subsec. (a)(2). [Pub. L. 104–208][/us/pl/104/208], § 2209(1)(C), (F), added par. (2) and struck out former par. (2) which read as follows: “has undergone a change in control within the preceding 2 years; or”.
 
-    Subsec. (a)(3). [Pub. L. 104–208, § 2209(1)(D)][/us/pl/104/208/s2209/1/D], redesignated par. (3) as (1).
+    Subsec. (a)(3). [Pub. L. 104–208][/us/pl/104/208], § 2209(1)(D), redesignated par. (3) as (1).
 
-    Subsec. (b). [Pub. L. 104–208, § 2209(2)][/us/pl/104/208/s2209/2], substituted “notice period, not to exceed 90 days,” for “30-day period”.
+    Subsec. (b). [Pub. L. 104–208][/us/pl/104/208], § 2209(2), substituted “notice period, not to exceed 90 days,” for “30-day period”.
 
 ----------
 
@@ -77,16 +77,16 @@
 ----------
 
 [/us/usc/t12/s1817/j/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1817%2Fj%2F6%2FA
-[/us/act/1950-09-21/ch967/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967%2Fs2
-[/us/pl/101/73/s914/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs914%2Fa
+[/us/act/1950-09-21/ch967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967
+[/us/pl/101/73/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtIX
 [/us/stat/103/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F484
-[/us/pl/104/208/s2209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2209
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-409
-[/us/pl/104/208/s2209/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2209%2F1%2FA
-[/us/pl/104/208/s2209/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2209%2F1%2FE
-[/us/pl/104/208/s2209/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2209%2F1%2FC
-[/us/pl/104/208/s2209/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2209%2F1%2FC
-[/us/pl/104/208/s2209/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2209%2F1%2FD
-[/us/pl/104/208/s2209/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2209%2F2
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 
 

@@ -107,7 +107,7 @@
 
         No provision of this section shall be construed as limiting any authority of the Board, the Corporation, or the Comptroller of the Currency under any other provision of law.
 
-([Sept. 21, 1950, ch. 967, § 2][/us/act/1950-09-21/ch967/s2]\[26\], as added [Pub. L. 111–203, title VI, § 605(a)][/us/pl/111/203/s605/a], July 21, 2010, [124 Stat. 1604][/us/stat/124/1604].)
+([Sept. 21, 1950, ch. 967][/us/act/1950-09-21/ch967], § 2\[26\], as added [Pub. L. 111–203, title VI][/us/pl/111/203/tVI], § 605(a), July 21, 2010, [124 Stat. 1604][/us/stat/124/1604].)
 
  __References in Text__ 
 
@@ -119,11 +119,11 @@
 
  __Prior Provisions__ 
 
-    A prior section 1831c, [act Sept. 21, 1950, ch. 967, § 2][/us/act/1950-09-21/ch967/s2]\[26\], as added Nov. 10, 1978, [Pub. L. 95–630, title XII, § 1205][/us/pl/95/630/s1205], [92 Stat. 3711][/us/stat/92/3711]; amended Oct. 15, 1982, [Pub. L. 97–320, title I, § 113(p)][/us/pl/97/320/s113/p], [96 Stat. 1474][/us/stat/96/1474]; Jan. 12, 1983, [Pub. L. 97–457, § 3][/us/pl/97/457/s3], [96 Stat. 2507][/us/stat/96/2507], which related to conversion, merger, or consolidation of mutual savings banks into Federal savings banks or savings banks which are insured institutions within meaning of former [section 1724 of this title][/us/usc/t12/s1724], was repealed by [Pub. L. 103–325, title VI, § 602(f)(1)][/us/pl/103/325/s602/f/1], Sept. 23, 1994, [108 Stat. 2292][/us/stat/108/2292].
+    A prior section 1831c, [act Sept. 21, 1950, ch. 967][/us/act/1950-09-21/ch967], § 2\[26\], as added Nov. 10, 1978, [Pub. L. 95–630, title XII][/us/pl/95/630/tXII], § 1205, [92 Stat. 3711][/us/stat/92/3711]; amended Oct. 15, 1982, [Pub. L. 97–320, title I][/us/pl/97/320/tI], § 113(p), [96 Stat. 1474][/us/stat/96/1474]; Jan. 12, 1983, [Pub. L. 97–457][/us/pl/97/457], § 3, [96 Stat. 2507][/us/stat/96/2507], which related to conversion, merger, or consolidation of mutual savings banks into Federal savings banks or savings banks which are insured institutions within meaning of former [section 1724 of this title][/us/usc/t12/s1724], was repealed by [Pub. L. 103–325, title VI][/us/pl/103/325/tVI], § 602(f)(1), Sept. 23, 1994, [108 Stat. 2292][/us/stat/108/2292].
 
  __Effective Date__ 
 
-[Pub. L. 111–203, title VI, § 605(b)][/us/pl/111/203/s605/b], July 21, 2010, [124 Stat. 1607][/us/stat/124/1607], provided that: 
+[Pub. L. 111–203, title VI][/us/pl/111/203/tVI], § 605(b), July 21, 2010, [124 Stat. 1607][/us/stat/124/1607], provided that: 
 
 > “The amendment made by subsection (a) \[enacting this section\] shall take effect on the transfer date.”
 
@@ -137,24 +137,24 @@
 ----------
 
 [/us/usc/t12/s5511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5511
-[/us/act/1950-09-21/ch967/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967%2Fs2
-[/us/pl/111/203/s605/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs605%2Fa
+[/us/act/1950-09-21/ch967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967
+[/us/pl/111/203/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVI
 [/us/stat/124/1604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1604
 [/us/usc/t12/s1844/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1844%2Fc%2F5
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1955
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301
-[/us/act/1950-09-21/ch967/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967%2Fs2
-[/us/pl/95/630/s1205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs1205
+[/us/act/1950-09-21/ch967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967
+[/us/pl/95/630/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtXII
 [/us/stat/92/3711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3711
-[/us/pl/97/320/s113/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs113%2Fp
+[/us/pl/97/320/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2FtI
 [/us/stat/96/1474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1474
-[/us/pl/97/457/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F457%2Fs3
+[/us/pl/97/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F457
 [/us/stat/96/2507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2507
 [/us/usc/t12/s1724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1724
-[/us/pl/103/325/s602/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs602%2Ff%2F1
+[/us/pl/103/325/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtVI
 [/us/stat/108/2292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2292
-[/us/pl/111/203/s605/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs605%2Fb
+[/us/pl/111/203/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVI
 [/us/stat/124/1607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1607
 [/us/pl/111/203/s605/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs605%2Fb
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301

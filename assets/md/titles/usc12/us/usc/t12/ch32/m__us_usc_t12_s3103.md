@@ -117,7 +117,7 @@
 
         (2) the fact that the domestic bank is controlled by a foreign bank which has Federal or State branches or agencies in States other than the home State of such domestic bank shall not affect the authority of the domestic bank to establish branches outside the home State of the domestic bank to the extent permitted under [section 36(g) of this title][/us/usc/t12/s36/g] or section 1828(d)(4) or 1831u of this title, as the case may be.
 
-([Pub. L. 95–369, § 5][/us/pl/95/369/s5], Sept. 17, 1978, [92 Stat. 613][/us/stat/92/613]; [Pub. L. 103–328, title I][/us/pl/103/328], §§ 104, 107(f), Sept. 29, 1994, [108 Stat. 2354][/us/stat/108/2354], 2361; [Pub. L. 106–102, title VII, § 732][/us/pl/106/102/s732], Nov. 12, 1999, [113 Stat. 1478][/us/stat/113/1478].)
+([Pub. L. 95–369][/us/pl/95/369], § 5, Sept. 17, 1978, [92 Stat. 613][/us/stat/92/613]; [Pub. L. 103–328, title I][/us/pl/103/328/tI], §§ 104, 107(f), Sept. 29, 1994, [108 Stat. 2354][/us/stat/108/2354], 2361; [Pub. L. 106–102, title VII][/us/pl/106/102/tVII], § 732, Nov. 12, 1999, [113 Stat. 1478][/us/stat/113/1478].)
 
  __References in Text__ 
 
@@ -137,11 +137,11 @@
 
     1994—Subsec. (a). [Pub. L. 103–328][/us/pl/103/328], §§ 104(a), 107(f), inserted heading and substituted provisions consisting of pars. (1) to (9) for former provisions relating to limitations on interstate banking by foreign banks.
 
-    Subsec. (b). [Pub. L. 103–328, § 104(b)][/us/pl/103/328/s104/b], inserted at end “Notwithstanding subsection (a), a foreign bank may continue to operate, after September 29, 1994, any Federal branch, State branch, Federal agency, State agency, or commercial lending company subsidiary which such bank was operating on the day before September 29, 1994, to the extent the branch, agency, or subsidiary continues, after September 29, 1994, to engage in operations which were lawful under the laws in effect on the day before September 29, 1994.”
+    Subsec. (b). [Pub. L. 103–328][/us/pl/103/328], § 104(b), inserted at end “Notwithstanding subsection (a), a foreign bank may continue to operate, after September 29, 1994, any Federal branch, State branch, Federal agency, State agency, or commercial lending company subsidiary which such bank was operating on the day before September 29, 1994, to the extent the branch, agency, or subsidiary continues, after September 29, 1994, to engage in operations which were lawful under the laws in effect on the day before September 29, 1994.”
 
-    Subsec. (c). [Pub. L. 103–328, § 104(d)][/us/pl/103/328/s104/d], amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “For the purposes of this section, the home State of a foreign bank that has branches, agencies, subsidiary commercial lending companies, or subsidiary banks, or any combination thereof, in more than one State, is whichever of such States is so determined by election of the foreign bank, or, in default of such election, by the Board.”
+    Subsec. (c). [Pub. L. 103–328][/us/pl/103/328], § 104(d), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “For the purposes of this section, the home State of a foreign bank that has branches, agencies, subsidiary commercial lending companies, or subsidiary banks, or any combination thereof, in more than one State, is whichever of such States is so determined by election of the foreign bank, or, in default of such election, by the Board.”
 
-    Subsec. (d). [Pub. L. 103–328, § 104(c)][/us/pl/103/328/s104/c], added subsec. (d).
+    Subsec. (d). [Pub. L. 103–328][/us/pl/103/328], § 104(c), added subsec. (d).
 
 ----------
 
@@ -167,11 +167,11 @@
 [/us/usc/t12/s2901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2901
 [/us/usc/t12/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs611
 [/us/usc/t12/s36/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs36%2Fg
-[/us/pl/95/369/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F369%2Fs5
+[/us/pl/95/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F369
 [/us/stat/92/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F613
-[/us/pl/103/328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328
+[/us/pl/103/328/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328%2FtI
 [/us/stat/108/2354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2354
-[/us/pl/106/102/s732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs732
+[/us/pl/106/102/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtVII
 [/us/stat/113/1478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1478
 [/us/usc/t12/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3101
 [/us/pl/95/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128
@@ -180,8 +180,8 @@
 [/us/usc/t12/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs611
 [/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102
 [/us/pl/103/328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328
-[/us/pl/103/328/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328%2Fs104%2Fb
-[/us/pl/103/328/s104/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328%2Fs104%2Fd
-[/us/pl/103/328/s104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328%2Fs104%2Fc
+[/us/pl/103/328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328
+[/us/pl/103/328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328
+[/us/pl/103/328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328
 
 

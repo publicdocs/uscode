@@ -47,7 +47,7 @@
 
         (2) an analysis of whether the appropriate Federal banking agency involved is able to address the regulatory burdens associated with such issues by regulation, or whether such burdens must be addressed by legislative action.
 
-([Pub. L. 104–208, div. A, title II, § 2222][/us/pl/104/208/s2222], Sept. 30, 1996, [110 Stat. 3009–414][/us/stat/110/3009-414].)
+([Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], § 2222, Sept. 30, 1996, [110 Stat. 3009–414][/us/stat/110/3009-414].)
 
  __Codification__ 
 
@@ -60,7 +60,7 @@
 ----------
 ----------
 
-[/us/pl/104/208/s2222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2222
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-414
 
 

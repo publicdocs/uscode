@@ -59,7 +59,7 @@
 
         The Board of Governors of the Federal Reserve System may prescribe such rules and regulations, including definitions of terms, as it deems necessary to effectuate the purposes and to prevent evasions of this section.
 
-([Dec. 23, 1913, ch. 6, § 22(g)][/us/act/1913-12-23/ch6/s22/g], as added [June 16, 1933, ch. 89, § 12][/us/act/1933-06-16/ch89/s12], [48 Stat. 182][/us/stat/48/182]; amended [June 14, 1935, ch. 245][/us/act/1935-06-14/ch245], [49 Stat. 375][/us/stat/49/375]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title III, § 326(c), [49 Stat. 716][/us/stat/49/716]; [Apr. 25, 1938, ch. 173][/us/act/1938-04-25/ch173], [52 Stat. 223][/us/stat/52/223]; [June 20, 1939, ch. 214, § 1][/us/act/1939-06-20/ch214/s1], [53 Stat. 842][/us/stat/53/842]; [Pub. L. 90–44, § 1][/us/pl/90/44/s1], July 3, 1967, [81 Stat. 109][/us/stat/81/109]; [Pub. L. 95–630, title I, § 110][/us/pl/95/630/s110], Nov. 10, 1978, [92 Stat. 3665][/us/stat/92/3665]; [Pub. L. 97–320, title IV, § 421][/us/pl/97/320/s421], Oct. 15, 1982, [96 Stat. 1522][/us/stat/96/1522]; [Pub. L. 103–325, title III, § 334(a)][/us/pl/103/325/s334/a], Sept. 23, 1994, [108 Stat. 2233][/us/stat/108/2233]; [Pub. L. 109–351, title VI, § 601(a)][/us/pl/109/351/s601/a], Oct. 13, 2006, [120 Stat. 1978][/us/stat/120/1978].)
+([Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 22(g), as added [June 16, 1933, ch. 89][/us/act/1933-06-16/ch89], § 12, [48 Stat. 182][/us/stat/48/182]; amended [June 14, 1935, ch. 245][/us/act/1935-06-14/ch245], [49 Stat. 375][/us/stat/49/375]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title III, § 326(c), [49 Stat. 716][/us/stat/49/716]; [Apr. 25, 1938, ch. 173][/us/act/1938-04-25/ch173], [52 Stat. 223][/us/stat/52/223]; [June 20, 1939, ch. 214][/us/act/1939-06-20/ch214], § 1, [53 Stat. 842][/us/stat/53/842]; [Pub. L. 90–44][/us/pl/90/44], § 1, July 3, 1967, [81 Stat. 109][/us/stat/81/109]; [Pub. L. 95–630, title I][/us/pl/95/630/tI], § 110, Nov. 10, 1978, [92 Stat. 3665][/us/stat/92/3665]; [Pub. L. 97–320, title IV][/us/pl/97/320/tIV], § 421, Oct. 15, 1982, [96 Stat. 1522][/us/stat/96/1522]; [Pub. L. 103–325, title III][/us/pl/103/325/tIII], § 334(a), Sept. 23, 1994, [108 Stat. 2233][/us/stat/108/2233]; [Pub. L. 109–351, title VI][/us/pl/109/351/tVI], § 601(a), Oct. 13, 2006, [120 Stat. 1978][/us/stat/120/1978].)
 
  __Codification__ 
 
@@ -71,11 +71,11 @@
 
     1994—Par. (2). [Pub. L. 103–325][/us/pl/103/325] in introductory provisions substituted “A member” for “With the specific prior approval of its board of directors, a member”.
 
-    1982—Par. (2). [Pub. L. 97–320, § 421(a)][/us/pl/97/320/s421/a], struck out “not exceeding $60,000” after “may make a loan”.
+    1982—Par. (2). [Pub. L. 97–320][/us/pl/97/320], § 421(a), struck out “not exceeding $60,000” after “may make a loan”.
 
-    Par. (3). [Pub. L. 97–320, § 421(a)][/us/pl/97/320/s421/a], struck out “, not exceeding the aggregate amount of $20,000 outstanding at any one time,” after “officer of the bank”.
+    Par. (3). [Pub. L. 97–320][/us/pl/97/320], § 421(a), struck out “, not exceeding the aggregate amount of $20,000 outstanding at any one time,” after “officer of the bank”.
 
-    Par. (4). [Pub. L. 97–320, § 421(b)][/us/pl/97/320/s421/b], substituted “in an amount prescribed in a regulation of the member bank’s appropriate Federal banking agency” for “not exceeding the aggregate amount of $10,000 outstanding at any one time”.
+    Par. (4). [Pub. L. 97–320][/us/pl/97/320], § 421(b), substituted “in an amount prescribed in a regulation of the member bank’s appropriate Federal banking agency” for “not exceeding the aggregate amount of $10,000 outstanding at any one time”.
 
     1978—Par. (2). [Pub. L. 95–630][/us/pl/95/630] substituted “$60,000” for “$30,000”.
 
@@ -123,8 +123,8 @@
 ----------
 
 [/us/usc/t12/s1818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1818
-[/us/act/1913-12-23/ch6/s22/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs22%2Fg
-[/us/act/1933-06-16/ch89/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-16%2Fch89%2Fs12
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
+[/us/act/1933-06-16/ch89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-16%2Fch89
 [/us/stat/48/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F182
 [/us/act/1935-06-14/ch245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-06-14%2Fch245
 [/us/stat/49/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F375
@@ -132,23 +132,23 @@
 [/us/stat/49/716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F716
 [/us/act/1938-04-25/ch173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-04-25%2Fch173
 [/us/stat/52/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F223
-[/us/act/1939-06-20/ch214/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-06-20%2Fch214%2Fs1
+[/us/act/1939-06-20/ch214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-06-20%2Fch214
 [/us/stat/53/842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F842
-[/us/pl/90/44/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F44%2Fs1
+[/us/pl/90/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F44
 [/us/stat/81/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F109
-[/us/pl/95/630/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs110
+[/us/pl/95/630/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtI
 [/us/stat/92/3665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3665
-[/us/pl/97/320/s421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs421
+[/us/pl/97/320/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2FtIV
 [/us/stat/96/1522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1522
-[/us/pl/103/325/s334/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs334%2Fa
+[/us/pl/103/325/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtIII
 [/us/stat/108/2233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2233
-[/us/pl/109/351/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs601%2Fa
+[/us/pl/109/351/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2FtVI
 [/us/stat/120/1978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1978
 [/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
 [/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
-[/us/pl/97/320/s421/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs421%2Fa
-[/us/pl/97/320/s421/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs421%2Fa
-[/us/pl/97/320/s421/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs421%2Fb
+[/us/pl/97/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320
+[/us/pl/97/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320
+[/us/pl/97/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320
 [/us/pl/95/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630
 [/us/pl/95/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630
 [/us/pl/95/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630

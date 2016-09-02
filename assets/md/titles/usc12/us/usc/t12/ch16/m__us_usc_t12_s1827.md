@@ -95,17 +95,17 @@
 
         For the purpose of conducting such audit the Comptroller General is authorized in his discretion to employ by contract, without regard to [section 6101 of title 41][/us/usc/t41/s6101], professional services of firms and organizations of certified public accountants, with the concurrence of the Corporation, for temporary periods or for special purposes. The Corporation shall reimburse the Government Accountability Office for the cost of any such audit as billed therefor by the Comptroller General, and the Government Accountability Office shall deposit the sums so reimbursed into the Treasury as miscellaneous receipts.
 
-([Sept. 21, 1950, ch. 967, § 2][/us/act/1950-09-21/ch967/s2]\[17\], [64 Stat. 890][/us/stat/64/890]; [Pub. L. 93–604, title VI, § 602][/us/pl/93/604/s602], Jan. 2, 1975, [88 Stat. 1963][/us/stat/88/1963]; [Pub. L. 101–73, title II, § 220(a)][/us/pl/101/73/s220/a], Aug. 9, 1989, [103 Stat. 263][/us/stat/103/263]; [Pub. L. 102–242, title IV, § 427][/us/pl/102/242/s427], Dec. 19, 1991, [105 Stat. 2378][/us/stat/105/2378]; [Pub. L. 104–208, div. A, title II, § 2704(d)(14)(S)][/us/pl/104/208/s2704/d/14/S], (T), Sept. 30, 1996, [110 Stat. 3009–493][/us/stat/110/3009-493], 3009–494; [Pub. L. 106–569, title XI][/us/pl/106/569], §§ 1103(a), 1104(b), Dec. 27, 2000, [114 Stat. 3030][/us/stat/114/3030], 3032; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 109–171, title II, § 2102(b)][/us/pl/109/171/s2102/b], Feb. 8, 2006, [120 Stat. 9][/us/stat/120/9]; [Pub. L. 109–173, § 8(a)(26)][/us/pl/109/173/s8/a/26], (27), Feb. 15, 2006, [119 Stat. 3614][/us/stat/119/3614], 3615.)
+([Sept. 21, 1950, ch. 967][/us/act/1950-09-21/ch967], § 2\[17\], [64 Stat. 890][/us/stat/64/890]; [Pub. L. 93–604, title VI][/us/pl/93/604/tVI], § 602, Jan. 2, 1975, [88 Stat. 1963][/us/stat/88/1963]; [Pub. L. 101–73, title II][/us/pl/101/73/tII], § 220(a), Aug. 9, 1989, [103 Stat. 263][/us/stat/103/263]; [Pub. L. 102–242, title IV][/us/pl/102/242/tIV], § 427, Dec. 19, 1991, [105 Stat. 2378][/us/stat/105/2378]; [Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], § 2704(d)(14)(S), (T), Sept. 30, 1996, [110 Stat. 3009–493][/us/stat/110/3009-493], 3009–494; [Pub. L. 106–569, title XI][/us/pl/106/569/tXI], §§ 1103(a), 1104(b), Dec. 27, 2000, [114 Stat. 3030][/us/stat/114/3030], 3032; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 109–171, title II][/us/pl/109/171/tII], § 2102(b), Feb. 8, 2006, [120 Stat. 9][/us/stat/120/9]; [Pub. L. 109–173][/us/pl/109/173], § 8(a)(26), (27), Feb. 15, 2006, [119 Stat. 3614][/us/stat/119/3614], 3615.)
 
  __References in Text__ 
 
-    Par. (7) of [section 57a(f) of title 15][/us/usc/t15/s57a/f], referred to in subsec. (a)(3), was repealed by [Pub. L. 111–203, title X, § 1092(3)][/us/pl/111/203/s1092/3], July 21, 2010, [124 Stat. 2095][/us/stat/124/2095].
+    Par. (7) of [section 57a(f) of title 15][/us/usc/t15/s57a/f], referred to in subsec. (a)(3), was repealed by [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1092(3), July 21, 2010, [124 Stat. 2095][/us/stat/124/2095].
 
     The effective date of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989, referred to in subsec. (c)(1), probably means the date of enactment of [Pub. L. 101–73][/us/pl/101/73], which was approved Aug. 9, 1989.
 
  __Codification__ 
 
-    In subsec. (g), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 3709 of the Revised Statutes” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (g), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 3709 of the Revised Statutes” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Prior Provisions__ 
 
@@ -113,39 +113,39 @@
 
  __Amendments__ 
 
-    2006—Subsec. (a). [Pub. L. 109–173, § 8(a)(26)(A)][/us/pl/109/173/s8/a/26/A], substituted “the Deposit Insurance Fund” for “BIF, SAIF,” in heading.
+    2006—Subsec. (a). [Pub. L. 109–173][/us/pl/109/173], § 8(a)(26)(A), substituted “the Deposit Insurance Fund” for “BIF, SAIF,” in heading.
 
-    [Pub. L. 109–171][/us/pl/109/171] repealed [Pub. L. 104–208, § 2704(d)(14)(S)][/us/pl/104/208/s2704/d/14/S]. See 1996 Amendment note below.
+    [Pub. L. 109–171][/us/pl/109/171] repealed [Pub. L. 104–208][/us/pl/104/208], § 2704(d)(14)(S). See 1996 Amendment note below.
 
-    Subsec. (a)(1). [Pub. L. 109–173, § 8(a)(26)(B)(i)][/us/pl/109/173/s8/a/26/B/i], substituted “the Deposit Insurance Fund” for “the Bank Insurance Fund, the Savings Association Insurance Fund,” in introductory provisions.
+    Subsec. (a)(1). [Pub. L. 109–173][/us/pl/109/173], § 8(a)(26)(B)(i), substituted “the Deposit Insurance Fund” for “the Bank Insurance Fund, the Savings Association Insurance Fund,” in introductory provisions.
 
-    Subsec. (a)(1)(D). [Pub. L. 109–173, § 8(a)(26)(B)(ii)][/us/pl/109/173/s8/a/26/B/ii], substituted “the Deposit Insurance Fund” for “each insurance fund”.
+    Subsec. (a)(1)(D). [Pub. L. 109–173][/us/pl/109/173], § 8(a)(26)(B)(ii), substituted “the Deposit Insurance Fund” for “each insurance fund”.
 
-    Subsec. (a)(1)(E). [Pub. L. 109–173, § 8(a)(26)(B)(i)][/us/pl/109/173/s8/a/26/B/i], substituted “the Deposit Insurance Fund” for “the Bank Insurance Fund, the Savings Association Insurance Fund,”.
+    Subsec. (a)(1)(E). [Pub. L. 109–173][/us/pl/109/173], § 8(a)(26)(B)(i), substituted “the Deposit Insurance Fund” for “the Bank Insurance Fund, the Savings Association Insurance Fund,”.
 
-    Subsec. (d). [Pub. L. 109–173, § 8(a)(27)][/us/pl/109/173/s8/a/27], substituted “the Deposit Insurance Fund” for “, the Bank Insurance Fund, the Savings Association Insurance Fund,” in pars. (1) and (2).
+    Subsec. (d). [Pub. L. 109–173][/us/pl/109/173], § 8(a)(27), substituted “the Deposit Insurance Fund” for “, the Bank Insurance Fund, the Savings Association Insurance Fund,” in pars. (1) and (2).
 
-    [Pub. L. 109–171][/us/pl/109/171] repealed [Pub. L. 104–208, § 2704(d)(14)(T)][/us/pl/104/208/s2704/d/14/T]. See 1996 Amendment note below.
+    [Pub. L. 109–171][/us/pl/109/171] repealed [Pub. L. 104–208][/us/pl/104/208], § 2704(d)(14)(T). See 1996 Amendment note below.
 
     2004—Subsecs. (e), (g). [Pub. L. 108–271][/us/pl/108/271] substituted “Government Accountability Office” for “General Accounting Office” in two places.
 
-    2000—Subsec. (a)(3). [Pub. L. 106–569, § 1103(a)][/us/pl/106/569/s1103/a], added par. (3).
+    2000—Subsec. (a)(3). [Pub. L. 106–569][/us/pl/106/569], § 1103(a), added par. (3).
 
-    Subsec. (h). [Pub. L. 106–569, § 1104(b)][/us/pl/106/569/s1104/b], struck out subsec. (h) which related to additional reports.
+    Subsec. (h). [Pub. L. 106–569][/us/pl/106/569], § 1104(b), struck out subsec. (h) which related to additional reports.
 
-    1996—Subsec. (a). [Pub. L. 104–208, § 2704(d)(14)(S)][/us/pl/104/208/s2704/d/14/S], which directed substitution of “the Deposit Insurance Fund” for “BIF, SAIF,” in heading and “the Deposit Insurance Fund” for “the Bank Insurance Fund, the Savings Association Insurance Fund,” wherever appearing in par. (1), was repealed by [Pub. L. 109–171][/us/pl/109/171]. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
+    1996—Subsec. (a). [Pub. L. 104–208][/us/pl/104/208], § 2704(d)(14)(S), which directed substitution of “the Deposit Insurance Fund” for “BIF, SAIF,” in heading and “the Deposit Insurance Fund” for “the Bank Insurance Fund, the Savings Association Insurance Fund,” wherever appearing in par. (1), was repealed by [Pub. L. 109–171][/us/pl/109/171]. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
-    Subsec. (d). [Pub. L. 104–208, § 2704(d)(14)(T)][/us/pl/104/208/s2704/d/14/T], which directed substitution of “the Deposit Insurance Fund” for “the Bank Insurance Fund, the Savings Association Insurance Fund,” in two places, was repealed by [Pub. L. 109–171][/us/pl/109/171]. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
+    Subsec. (d). [Pub. L. 104–208][/us/pl/104/208], § 2704(d)(14)(T), which directed substitution of “the Deposit Insurance Fund” for “the Bank Insurance Fund, the Savings Association Insurance Fund,” in two places, was repealed by [Pub. L. 109–171][/us/pl/109/171]. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
     1991—Subsec. (h). [Pub. L. 102–242][/us/pl/102/242] added subsec. (h).
 
-    1989—Subsec. (a). [Pub. L. 101–73, § 220(a)(1)][/us/pl/101/73/s220/a/1], added heading and text and struck out former subsec. (a) which read as follows: “The Corporation shall annually make a report of its operations to the Congress as soon as practicable after the 1st day of January in each year.”
+    1989—Subsec. (a). [Pub. L. 101–73][/us/pl/101/73], § 220(a)(1), added heading and text and struck out former subsec. (a) which read as follows: “The Corporation shall annually make a report of its operations to the Congress as soon as practicable after the 1st day of January in each year.”
 
-    Subsecs. (b) to (g). [Pub. L. 101–73, § 220(a)(2)][/us/pl/101/73/s220/a/2], (3), added subsecs. (b) to (d) and redesignated former subsecs. (b) to (d) as (e) to (g), respectively.
+    Subsecs. (b) to (g). [Pub. L. 101–73][/us/pl/101/73], § 220(a)(2), (3), added subsecs. (b) to (d) and redesignated former subsecs. (b) to (d) as (e) to (g), respectively.
 
-    1975—Subsec. (b). [Pub. L. 93–604, § 602(a)][/us/pl/93/604/s602/a], inserted provisions that the Corporation shall be audited at least once in every three years.
+    1975—Subsec. (b). [Pub. L. 93–604][/us/pl/93/604], § 602(a), inserted provisions that the Corporation shall be audited at least once in every three years.
 
-    Subsec. (c). [Pub. L. 93–604, § 602(b)][/us/pl/93/604/s602/b], substituted provisions that a report of each audit conducted under subsec. (b) of this section shall be made by the Comptroller General to the Congress not later than six and one-half months following the close of previous year covered by such audit, for provisions that a report of the audit for each fiscal year ending on June 30 shall be made by the Comptroller General to the Congress not later than Jan. 15 following the close of such fiscal year.
+    Subsec. (c). [Pub. L. 93–604][/us/pl/93/604], § 602(b), substituted provisions that a report of each audit conducted under subsec. (b) of this section shall be made by the Comptroller General to the Congress not later than six and one-half months following the close of previous year covered by such audit, for provisions that a report of the audit for each fiscal year ending on June 30 shall be made by the Comptroller General to the Congress not later than Jan. 15 following the close of such fiscal year.
 
  __Effective Date of 2006 Amendment__ 
 
@@ -159,7 +159,7 @@
 
  __Final Reports on RTC and SAIF Funding__ 
 
-[Pub. L. 103–204, § 28][/us/pl/103/204/s28], Dec. 17, 1993, [107 Stat. 2410][/us/stat/107/2410], provided that:
+[Pub. L. 103–204][/us/pl/103/204], § 28, Dec. 17, 1993, [107 Stat. 2410][/us/stat/107/2410], provided that:
 
 >     “(a) __In General.—__ 
 
@@ -181,7 +181,7 @@
 
  __Report to Congress on Risk-Based Assessments__ 
 
-    [Pub. L. 101–73, title II, § 220(b)(1)][/us/pl/101/73/s220/b/1], Aug. 9, 1989, [103 Stat. 265][/us/stat/103/265], directed Federal Deposit Insurance Corporation to study establishment of premium assessment categories related to types of risk to insurance funds and report its recommendations to Congress not later than Jan. 1, 1991; if Corporation recommended establishment of such a risk-based assessment plan, it was to provide a timetable and plan for implementation; and not later than 180 days after receipt of report and accompanying plan and timetable, Congress was to make a recommendation to Chairperson of Board of Directors regarding disposition of such plan and timetable.
+    [Pub. L. 101–73, title II][/us/pl/101/73/tII], § 220(b)(1), Aug. 9, 1989, [103 Stat. 265][/us/stat/103/265], directed Federal Deposit Insurance Corporation to study establishment of premium assessment categories related to types of risk to insurance funds and report its recommendations to Congress not later than Jan. 1, 1991; if Corporation recommended establishment of such a risk-based assessment plan, it was to provide a timetable and plan for implementation; and not later than 180 days after receipt of report and accompanying plan and timetable, Congress was to make a recommendation to Chairperson of Board of Directors regarding disposition of such plan and timetable.
 
 ----------
 
@@ -192,54 +192,54 @@
 
 [/us/usc/t12/s1825/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1825%2Fb
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
-[/us/act/1950-09-21/ch967/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967%2Fs2
+[/us/act/1950-09-21/ch967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967
 [/us/stat/64/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F890
-[/us/pl/93/604/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F604%2Fs602
+[/us/pl/93/604/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F604%2FtVI
 [/us/stat/88/1963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1963
-[/us/pl/101/73/s220/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs220%2Fa
+[/us/pl/101/73/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtII
 [/us/stat/103/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F263
-[/us/pl/102/242/s427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs427
+[/us/pl/102/242/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtIV
 [/us/stat/105/2378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2378
-[/us/pl/104/208/s2704/d/14/S]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2704%2Fd%2F14%2FS
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-493
-[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/569/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2FtXI
 [/us/stat/114/3030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F3030
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
-[/us/pl/109/171/s2102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs2102%2Fb
+[/us/pl/109/171/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2FtII
 [/us/stat/120/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F9
-[/us/pl/109/173/s8/a/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173%2Fs8%2Fa%2F26
+[/us/pl/109/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173
 [/us/stat/119/3614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3614
 [/us/usc/t15/s57a/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs57a%2Ff
-[/us/pl/111/203/s1092/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1092%2F3
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2095
 [/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/usc/t12/s264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs264
 [/us/usc/t12/s1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1811
-[/us/pl/109/173/s8/a/26/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173%2Fs8%2Fa%2F26%2FA
+[/us/pl/109/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173
 [/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
-[/us/pl/104/208/s2704/d/14/S]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2704%2Fd%2F14%2FS
-[/us/pl/109/173/s8/a/26/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173%2Fs8%2Fa%2F26%2FB%2Fi
-[/us/pl/109/173/s8/a/26/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173%2Fs8%2Fa%2F26%2FB%2Fii
-[/us/pl/109/173/s8/a/26/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173%2Fs8%2Fa%2F26%2FB%2Fi
-[/us/pl/109/173/s8/a/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173%2Fs8%2Fa%2F27
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/109/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173
+[/us/pl/109/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173
+[/us/pl/109/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173
+[/us/pl/109/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173
 [/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
-[/us/pl/104/208/s2704/d/14/T]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2704%2Fd%2F14%2FT
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
-[/us/pl/106/569/s1103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs1103%2Fa
-[/us/pl/106/569/s1104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs1104%2Fb
-[/us/pl/104/208/s2704/d/14/S]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2704%2Fd%2F14%2FS
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
-[/us/pl/104/208/s2704/d/14/T]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2704%2Fd%2F14%2FT
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
 [/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
-[/us/pl/101/73/s220/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs220%2Fa%2F1
-[/us/pl/101/73/s220/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs220%2Fa%2F2
-[/us/pl/93/604/s602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F604%2Fs602%2Fa
-[/us/pl/93/604/s602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F604%2Fs602%2Fb
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
+[/us/pl/93/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F604
+[/us/pl/93/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F604
 [/us/pl/109/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173
 [/us/pl/109/173/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173%2Fs8%2Fb
 [/us/usc/t12/s1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813
@@ -249,10 +249,10 @@
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/104/208/s2704/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2704%2Fc
 [/us/usc/t12/s1821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1821
-[/us/pl/103/204/s28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F204%2Fs28
+[/us/pl/103/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F204
 [/us/stat/107/2410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2410
 [/us/usc/t12/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1421
-[/us/pl/101/73/s220/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs220%2Fb%2F1
+[/us/pl/101/73/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtII
 [/us/stat/103/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F265
 
 

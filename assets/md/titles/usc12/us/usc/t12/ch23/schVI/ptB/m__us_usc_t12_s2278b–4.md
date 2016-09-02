@@ -59,13 +59,13 @@
 
         Notwithstanding any other provision of law, any civil action, suit, or proceeding to which the Financial Assistance Corporation is a party shall be deemed to arise under the laws of the United States, and the United States District Court for the District of Columbia shall have exclusive jurisdiction over such. The Financial Assistance Corporation may, without bond or security, remove any such action, suit, or proceeding from a State court to the United States District Court for the District of Columbia.
 
-([Pub. L. 92–181, title VI, § 6][/us/pl/92/181/s6].24, as added [Pub. L. 100–233, title II, § 201][/us/pl/100/233/s201], Jan. 6, 1988, [101 Stat. 1596][/us/stat/101/1596]; amended [Pub. L. 100–399, title II, § 201(a)][/us/pl/100/399/s201/a], (b), Aug. 17, 1988, [102 Stat. 990][/us/stat/102/990].)
+([Pub. L. 92–181, title VI][/us/pl/92/181/tVI], § 6.24, as added [Pub. L. 100–233, title II][/us/pl/100/233/tII], § 201, Jan. 6, 1988, [101 Stat. 1596][/us/stat/101/1596]; amended [Pub. L. 100–399, title II][/us/pl/100/399/tII], § 201(a), (b), Aug. 17, 1988, [102 Stat. 990][/us/stat/102/990].)
 
  __Amendments__ 
 
-    1988—Subsec. (a)(12). [Pub. L. 100–399, § 201(a)][/us/pl/100/399/s201/a], substituted “(within the meaning of [section 1813 of this title][/us/usc/t12/s1813])” for “(as defined in [section 1813(b) of this title][/us/usc/t12/s1813/b])”.
+    1988—Subsec. (a)(12). [Pub. L. 100–399][/us/pl/100/399], § 201(a), substituted “(within the meaning of [section 1813 of this title][/us/usc/t12/s1813])” for “(as defined in [section 1813(b) of this title][/us/usc/t12/s1813/b])”.
 
-    Subsec. (b). [Pub. L. 100–399, § 201(b)][/us/pl/100/399/s201/b], substituted “exclusive” for “original”.
+    Subsec. (b). [Pub. L. 100–399][/us/pl/100/399], § 201(b), substituted “exclusive” for “original”.
 
  __Effective Date of 1988 Amendment__ 
 
@@ -79,15 +79,15 @@
 ----------
 
 [/us/usc/t12/s1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813
-[/us/pl/92/181/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs6
-[/us/pl/100/233/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs201
+[/us/pl/92/181/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtVI
+[/us/pl/100/233/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtII
 [/us/stat/101/1596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1596
-[/us/pl/100/399/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs201%2Fa
+[/us/pl/100/399/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtII
 [/us/stat/102/990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F990
-[/us/pl/100/399/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs201%2Fa
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/usc/t12/s1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813
 [/us/usc/t12/s1813/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813%2Fb
-[/us/pl/100/399/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs201%2Fb
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
 [/us/pl/100/399/s1001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs1001%2Fa

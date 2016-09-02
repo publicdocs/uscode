@@ -21,11 +21,11 @@
 
     (2) a Federally chartered instrumentality of the United States.
 
-([Pub. L. 92–181, title VI, § 6][/us/pl/92/181/s6].20, as added [Pub. L. 100–233, title II, § 201][/us/pl/100/233/s201], Jan. 6, 1988, [101 Stat. 1595][/us/stat/101/1595].)
+([Pub. L. 92–181, title VI][/us/pl/92/181/tVI], § 6.20, as added [Pub. L. 100–233, title II][/us/pl/100/233/tII], § 201, Jan. 6, 1988, [101 Stat. 1595][/us/stat/101/1595].)
 
  __Financial Report__ 
 
-[Pub. L. 100–233, title II, § 206][/us/pl/100/233/s206], Jan. 6, 1988, [101 Stat. 1607][/us/stat/101/1607], provided that: 
+[Pub. L. 100–233, title II][/us/pl/100/233/tII], § 206, Jan. 6, 1988, [101 Stat. 1607][/us/stat/101/1607], provided that: 
 
 > “During the period beginning September 30, 2001, and ending December 31, 2001, the Farm Credit Administration shall review and evaluate the financial condition of the Farm Credit System and report to the Secretary of the Treasury and the appropriate committees of Congress on—
 
@@ -42,10 +42,10 @@
 ----------
 ----------
 
-[/us/pl/92/181/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs6
-[/us/pl/100/233/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs201
+[/us/pl/92/181/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtVI
+[/us/pl/100/233/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtII
 [/us/stat/101/1595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1595
-[/us/pl/100/233/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs206
+[/us/pl/100/233/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtII
 [/us/stat/101/1607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1607
 [/us/usc/t12/s2278b–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2278b%E2%80%936
 [/us/usc/t12/s2278b–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2278b%E2%80%937

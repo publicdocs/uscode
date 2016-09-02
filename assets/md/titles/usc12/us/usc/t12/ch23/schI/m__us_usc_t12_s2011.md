@@ -31,7 +31,7 @@
 
         Each Farm Credit Bank may establish such branches or other offices as may be appropriate for the effective operation of its business.
 
-([Pub. L. 92–181, title I, § 1][/us/pl/92/181/s1].3, as added [Pub. L. 100–233, title IV, § 401][/us/pl/100/233/s401], Jan. 6, 1988, [101 Stat. 1622][/us/stat/101/1622]; amended [Pub. L. 100–399, title IV, § 401(a)][/us/pl/100/399/s401/a], (b), Aug. 17, 1988, [102 Stat. 995][/us/stat/102/995].)
+([Pub. L. 92–181, title I][/us/pl/92/181/tI], § 1.3, as added [Pub. L. 100–233, title IV][/us/pl/100/233/tIV], § 401, Jan. 6, 1988, [101 Stat. 1622][/us/stat/101/1622]; amended [Pub. L. 100–399, title IV][/us/pl/100/399/tIV], § 401(a), (b), Aug. 17, 1988, [102 Stat. 995][/us/stat/102/995].)
 
  __References in Text__ 
 
@@ -39,13 +39,13 @@
 
  __Prior Provisions__ 
 
-    A prior section 2011, [Pub. L. 92–181, title I, § 1][/us/pl/92/181/s1].3, Dec. 10, 1971, [85 Stat. 583][/us/stat/85/583]; [Pub. L. 100–233, title VIII, § 802(a)][/us/pl/100/233/s802/a], Jan. 6, 1988, [101 Stat. 1710][/us/stat/101/1710], related to establishment, title, and branches of Federal land banks prior to the general amendment of this subchapter by [Pub. L. 100–233, § 401][/us/pl/100/233/s401].
+    A prior section 2011, [Pub. L. 92–181, title I][/us/pl/92/181/tI], § 1.3, Dec. 10, 1971, [85 Stat. 583][/us/stat/85/583]; [Pub. L. 100–233, title VIII][/us/pl/100/233/tVIII], § 802(a), Jan. 6, 1988, [101 Stat. 1710][/us/stat/101/1710], related to establishment, title, and branches of Federal land banks prior to the general amendment of this subchapter by [Pub. L. 100–233][/us/pl/100/233], § 401.
 
  __Amendments__ 
 
-    1988—Subsec. (a). [Pub. L. 100–399, § 401(a)][/us/pl/100/399/s401/a], inserted “, as provided in section 410 of the Agricultural Credit Act of 1987,” before “shall”.
+    1988—Subsec. (a). [Pub. L. 100–399][/us/pl/100/399], § 401(a), inserted “, as provided in section 410 of the Agricultural Credit Act of 1987,” before “shall”.
 
-    Subsec. (b). [Pub. L. 100–399, § 401(b)][/us/pl/100/399/s401/b], amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The charters or organization certificates of Farm Credit Banks may be modified from time to time by the Farm Credit Administration Board, not inconsistent with the provisions of this subchapter, as may be necessary or expedient to implement this chapter.”
+    Subsec. (b). [Pub. L. 100–399][/us/pl/100/399], § 401(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The charters or organization certificates of Farm Credit Banks may be modified from time to time by the Farm Credit Administration Board, not inconsistent with the provisions of this subchapter, as may be necessary or expedient to implement this chapter.”
 
  __Effective Date of 1988 Amendment__ 
 
@@ -53,11 +53,11 @@
 
  __Effective Date__ 
 
-    [Pub. L. 100–233, title IV, § 401][/us/pl/100/233/s401], Jan. 6, 1988, [101 Stat. 1622][/us/stat/101/1622], provided that this subchapter is effective 6 months after Jan. 6, 1988.
+    [Pub. L. 100–233, title IV][/us/pl/100/233/tIV], § 401, Jan. 6, 1988, [101 Stat. 1622][/us/stat/101/1622], provided that this subchapter is effective 6 months after Jan. 6, 1988.
 
  __Long-Term Lending Authority of Farm Credit Bank of Texas With Respect to States of Alabama, Louisiana, and Mississippi__ 
 
-[Pub. L. 102–552, title IV, § 401(b)][/us/pl/102/552/s401/b], Oct. 28, 1992, [106 Stat. 4128][/us/stat/106/4128], as amended by [Pub. L. 110–234, title V, § 5407(c)(3)][/us/pl/110/234/s5407/c/3], May 22, 2008, [122 Stat. 1160][/us/stat/122/1160]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title V, § 5407(c)(3), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1922, provided that:
+[Pub. L. 102–552, title IV][/us/pl/102/552/tIV], § 401(b), Oct. 28, 1992, [106 Stat. 4128][/us/stat/106/4128], as amended by [Pub. L. 110–234, title V][/us/pl/110/234/tV], § 5407(c)(3), May 22, 2008, [122 Stat. 1160][/us/stat/122/1160]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title V, § 5407(c)(3), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1922, provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -69,7 +69,7 @@
 
  __Mandatory Merger of System Institutions__ 
 
-[Pub. L. 100–233, title IV, § 410][/us/pl/100/233/s410], Jan. 6, 1988, [101 Stat. 1637][/us/stat/101/1637], as amended by [Pub. L. 100–399, title IV, § 402][/us/pl/100/399/s402], Aug. 17, 1988, [102 Stat. 999][/us/stat/102/999]; [Pub. L. 102–552, title IV, § 401(a)][/us/pl/102/552/s401/a], Oct. 28, 1992, [106 Stat. 4116][/us/stat/106/4116]; [Pub. L. 110–234, title V, § 5407(c)(2)][/us/pl/110/234/s5407/c/2], May 22, 2008, [122 Stat. 1160][/us/stat/122/1160]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title V, § 5407(c)(2), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1922, provided that:
+[Pub. L. 100–233, title IV][/us/pl/100/233/tIV], § 410, Jan. 6, 1988, [101 Stat. 1637][/us/stat/101/1637], as amended by [Pub. L. 100–399, title IV][/us/pl/100/399/tIV], § 402, Aug. 17, 1988, [102 Stat. 999][/us/stat/102/999]; [Pub. L. 102–552, title IV][/us/pl/102/552/tIV], § 401(a), Oct. 28, 1992, [106 Stat. 4116][/us/stat/106/4116]; [Pub. L. 110–234, title V][/us/pl/110/234/tV], § 5407(c)(2), May 22, 2008, [122 Stat. 1160][/us/stat/122/1160]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title V, § 5407(c)(2), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1922, provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -372,42 +372,42 @@
 ----------
 ----------
 
-[/us/pl/92/181/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs1
-[/us/pl/100/233/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs401
+[/us/pl/92/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtI
+[/us/pl/100/233/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtIV
 [/us/stat/101/1622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1622
-[/us/pl/100/399/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs401%2Fa
+[/us/pl/100/399/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtIV
 [/us/stat/102/995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F995
 [/us/pl/100/233/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs410
-[/us/pl/92/181/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs1
+[/us/pl/92/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtI
 [/us/stat/85/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F583
-[/us/pl/100/233/s802/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs802%2Fa
+[/us/pl/100/233/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtVIII
 [/us/stat/101/1710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1710
-[/us/pl/100/233/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs401
-[/us/pl/100/399/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs401%2Fa
-[/us/pl/100/399/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs401%2Fb
+[/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/100/233/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs401
 [/us/pl/100/399/s1001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs1001%2Fb
 [/us/usc/t12/s2002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2002
-[/us/pl/100/233/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs401
+[/us/pl/100/233/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtIV
 [/us/stat/101/1622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1622
-[/us/pl/102/552/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2Fs401%2Fb
+[/us/pl/102/552/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2FtIV
 [/us/stat/106/4128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4128
-[/us/pl/110/234/s5407/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs5407%2Fc%2F3
+[/us/pl/110/234/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtV
 [/us/stat/122/1160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1160
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/usc/t12/s2279c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2279c
 [/us/usc/t12/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2001
-[/us/pl/100/233/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs410
+[/us/pl/100/233/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtIV
 [/us/stat/101/1637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1637
-[/us/pl/100/399/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs402
+[/us/pl/100/399/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtIV
 [/us/stat/102/999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F999
-[/us/pl/102/552/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2Fs401%2Fa
+[/us/pl/102/552/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2FtIV
 [/us/stat/106/4116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4116
-[/us/pl/110/234/s5407/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs5407%2Fc%2F2
+[/us/pl/110/234/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtV
 [/us/stat/122/1160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1160
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/usc/t7/s1988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1988
 [/us/usc/t31/s9105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9105

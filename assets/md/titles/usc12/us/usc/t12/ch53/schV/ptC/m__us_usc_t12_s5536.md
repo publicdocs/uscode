@@ -43,7 +43,7 @@
 
         No person shall be held to have violated subsection (a)(1) solely by virtue of providing or selling time or space to a covered person or service provider placing an advertisement.
 
-([Pub. L. 111–203, title X, § 1036][/us/pl/111/203/s1036], July 21, 2010, [124 Stat. 2010][/us/stat/124/2010].)
+([Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1036, July 21, 2010, [124 Stat. 2010][/us/stat/124/2010].)
 
  __References in Text__ 
 
@@ -61,7 +61,7 @@
 ----------
 
 [/us/usc/t12/s5531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5531
-[/us/pl/111/203/s1036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1036
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2010
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1955

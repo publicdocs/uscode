@@ -61,7 +61,7 @@
 
         The provisions of this chapter shall supersede any conflicting provision contained in any agreement relating to the servicing of a residential mortgage loan entered into by the Federal National Mortgage Association, the Federal Home Loan Mortgage Corporation, or any private investor or note holder (or any successors thereto).
 
-([Pub. L. 105–216, § 9][/us/pl/105/216/s9], July 29, 1998, [112 Stat. 906][/us/stat/112/906].)
+([Pub. L. 105–216][/us/pl/105/216], § 9, July 29, 1998, [112 Stat. 906][/us/stat/112/906].)
 
  __References in Text__ 
 
@@ -74,7 +74,7 @@
 ----------
 ----------
 
-[/us/pl/105/216/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F216%2Fs9
+[/us/pl/105/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F216
 [/us/stat/112/906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F906
 [/us/pl/105/216/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F216%2Fs13
 [/us/usc/t12/s4901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4901

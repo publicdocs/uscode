@@ -131,7 +131,7 @@
 
             The Board shall report its conclusions to the Congress within 9 months of August 10, 1987.
 
-([Pub. L. 100–86, title VI, § 609][/us/pl/100/86/s609], Aug. 10, 1987, [101 Stat. 647][/us/stat/101/647]; [Pub. L. 111–203, title X, § 1086(d)][/us/pl/111/203/s1086/d], July 21, 2010, [124 Stat. 2086][/us/stat/124/2086].)
+([Pub. L. 100–86, title VI][/us/pl/100/86/tVI], § 609, Aug. 10, 1987, [101 Stat. 647][/us/stat/101/647]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1086(d), July 21, 2010, [124 Stat. 2086][/us/stat/124/2086].)
 
  __Codification__ 
 
@@ -139,9 +139,9 @@
 
  __Amendments__ 
 
-    2010—Subsec. (a). [Pub. L. 111–203, § 1086(d)(1)][/us/pl/111/203/s1086/d/1], inserted “, jointly with the Director of the Bureau of Consumer Financial Protection,” after “Board” in introductory provisions.
+    2010—Subsec. (a). [Pub. L. 111–203][/us/pl/111/203], § 1086(d)(1), inserted “, jointly with the Director of the Bureau of Consumer Financial Protection,” after “Board” in introductory provisions.
 
-    Subsec. (e). [Pub. L. 111–203, § 1086(d)(2)][/us/pl/111/203/s1086/d/2], added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: “In prescribing regulations under subsections (a) and (b) of this section, the Board shall consult with the Comptroller of the Currency, the Board of Directors of the Federal Deposit Insurance Corporation, the Federal Home Loan Bank Board, and the National Credit Union Administration Board.”
+    Subsec. (e). [Pub. L. 111–203][/us/pl/111/203], § 1086(d)(2), added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: “In prescribing regulations under subsections (a) and (b) of this section, the Board shall consult with the Comptroller of the Currency, the Board of Directors of the Federal Deposit Insurance Corporation, the Federal Home Loan Bank Board, and the National Credit Union Administration Board.”
 
  __Effective Date of 2010 Amendment__ 
 
@@ -149,7 +149,7 @@
 
  __Exceptions in Areas Where Major Disaster Exists__ 
 
-[Pub. L. 105–18, title V, § 50002][/us/pl/105/18/s50002], June 12, 1997, [111 Stat. 211][/us/stat/111/211], provided that:
+[Pub. L. 105–18, title V][/us/pl/105/18/tV], § 50002, June 12, 1997, [111 Stat. 211][/us/stat/111/211], provided that:
 
 >     “(a)  __Truth in Lending Act__  __.—__ 
 
@@ -173,9 +173,9 @@
 
 Similar provisions were contained in the following prior acts:
 
-    [Pub. L. 103–76, § 2][/us/pl/103/76/s2], Aug. 12, 1993, [107 Stat. 752][/us/stat/107/752].
+    [Pub. L. 103–76][/us/pl/103/76], § 2, Aug. 12, 1993, [107 Stat. 752][/us/stat/107/752].
 
-    [Pub. L. 102–485, § 3][/us/pl/102/485/s3], Oct. 23, 1992, [106 Stat. 2772][/us/stat/106/2772].
+    [Pub. L. 102–485][/us/pl/102/485], § 3, Oct. 23, 1992, [106 Stat. 2772][/us/stat/106/2772].
 
 ----------
 
@@ -188,25 +188,25 @@ Similar provisions were contained in the following prior acts:
 [/us/usc/t12/s4002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4002
 [/us/usc/t12/s4002/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4002%2Fc
 [/us/usc/t12/s4002/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4002%2Fb
-[/us/pl/100/86/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2Fs609
+[/us/pl/100/86/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2FtVI
 [/us/stat/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F647
-[/us/pl/111/203/s1086/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1086%2Fd
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2086
 [/us/pl/100/86/s613/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2Fs613%2Fb
 [/us/usc/t12/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4001
-[/us/pl/111/203/s1086/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1086%2Fd%2F1
-[/us/pl/111/203/s1086/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1086%2Fd%2F2
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s1100H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100H
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
-[/us/pl/105/18/s50002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F18%2Fs50002
+[/us/pl/105/18/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F18%2FtV
 [/us/stat/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F211
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601
 [/us/usc/t42/s5170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5170
 [/us/usc/t12/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4001
-[/us/pl/103/76/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F76%2Fs2
+[/us/pl/103/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F76
 [/us/stat/107/752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F752
-[/us/pl/102/485/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F485%2Fs3
+[/us/pl/102/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F485
 [/us/stat/106/2772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2772
 
 

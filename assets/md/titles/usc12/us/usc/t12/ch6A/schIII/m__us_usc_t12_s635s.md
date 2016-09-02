@@ -23,7 +23,7 @@
 
     (b) The Trade and Development Agency shall be represented at any meetings of the National Advisory Council on International Monetary and Financial Policies for discussion of tied aid credit matters, and the representative of the Trade and Development Agency at any such meeting shall have the right to vote on any decisions of the Advisory Council relating to tied aid credit matters.
 
-([Pub. L. 98–181, title I][/us/pl/98/181] \[title VI, § 646\], Nov. 30, 1983, [97 Stat. 1265][/us/stat/97/1265]; [Pub. L. 100–418, title II, § 2204(c)(2)][/us/pl/100/418/s2204/c/2], Aug. 23, 1988, [102 Stat. 1331][/us/stat/102/1331]; [Pub. L. 102–549, title II, § 202(c)(1)][/us/pl/102/549/s202/c/1], Oct. 28, 1992, [106 Stat. 3658][/us/stat/106/3658].)
+([Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title VI, § 646\], Nov. 30, 1983, [97 Stat. 1265][/us/stat/97/1265]; [Pub. L. 100–418, title II][/us/pl/100/418/tII], § 2204(c)(2), Aug. 23, 1988, [102 Stat. 1331][/us/stat/102/1331]; [Pub. L. 102–549, title II][/us/pl/102/549/tII], § 202(c)(1), Oct. 28, 1992, [106 Stat. 3658][/us/stat/106/3658].)
 
  __Amendments__ 
 
@@ -38,11 +38,11 @@
 ----------
 ----------
 
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1265
-[/us/pl/100/418/s2204/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2204%2Fc%2F2
+[/us/pl/100/418/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtII
 [/us/stat/102/1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1331
-[/us/pl/102/549/s202/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2Fs202%2Fc%2F1
+[/us/pl/102/549/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2FtII
 [/us/stat/106/3658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3658
 [/us/pl/102/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418

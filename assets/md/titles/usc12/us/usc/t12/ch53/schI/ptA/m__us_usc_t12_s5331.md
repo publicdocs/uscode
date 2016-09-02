@@ -55,7 +55,7 @@
 
         (2) taking into account the extent to which the foreign nonbank financial company or foreign-based bank holding company is subject on a consolidated basis to home country standards that are comparable to those applied to financial companies in the United States.
 
-([Pub. L. 111–203, title I, § 121][/us/pl/111/203/s121], July 21, 2010, [124 Stat. 1410][/us/stat/124/1410].)
+([Pub. L. 111–203, title I][/us/pl/111/203/tI], § 121, July 21, 2010, [124 Stat. 1410][/us/stat/124/1410].)
 
 ----------
 
@@ -65,7 +65,7 @@
 ----------
 
 [/us/usc/t12/s5323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5323
-[/us/pl/111/203/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs121
+[/us/pl/111/203/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtI
 [/us/stat/124/1410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1410
 
 

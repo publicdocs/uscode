@@ -43,11 +43,11 @@
 
             (B) with respect to termination of private mortgage insurance under [section 4902(b) of this title][/us/usc/t12/s4902/b], not later than 30 days after the scheduled termination date.
 
-([Pub. L. 105–216, § 5][/us/pl/105/216/s5], July 29, 1998, [112 Stat. 903][/us/stat/112/903].)
+([Pub. L. 105–216][/us/pl/105/216], § 5, July 29, 1998, [112 Stat. 903][/us/stat/112/903].)
 
  __References in Text__ 
 
-    [Section 4902(a)(3) of this title][/us/usc/t12/s4902/a/3], referred to in subsec. (b)(2)(A)(ii), was redesignated [section 4902(a)(4) of this title][/us/usc/t12/s4902/a/4] by [Pub. L. 106–569, title IV, § 404(1)(C)][/us/pl/106/569/s404/1/C], Dec. 27, 2000, [114 Stat. 2958][/us/stat/114/2958].
+    [Section 4902(a)(3) of this title][/us/usc/t12/s4902/a/3], referred to in subsec. (b)(2)(A)(ii), was redesignated [section 4902(a)(4) of this title][/us/usc/t12/s4902/a/4] by [Pub. L. 106–569, title IV][/us/pl/106/569/tIV], § 404(1)(C), Dec. 27, 2000, [114 Stat. 2958][/us/stat/114/2958].
 
 ----------
 
@@ -60,11 +60,11 @@
 [/us/usc/t12/s4902/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4902%2Fa
 [/us/usc/t12/s4902/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4902%2Fa%2F1
 [/us/usc/t12/s4902/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4902%2Fb
-[/us/pl/105/216/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F216%2Fs5
+[/us/pl/105/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F216
 [/us/stat/112/903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F903
 [/us/usc/t12/s4902/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4902%2Fa%2F3
 [/us/usc/t12/s4902/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4902%2Fa%2F4
-[/us/pl/106/569/s404/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs404%2F1%2FC
+[/us/pl/106/569/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2FtIV
 [/us/stat/114/2958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2958
 
 

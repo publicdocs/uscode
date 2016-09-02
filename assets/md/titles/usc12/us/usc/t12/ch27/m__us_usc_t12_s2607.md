@@ -41,7 +41,7 @@
 
         (6) No provision of State law or regulation that imposes more stringent limitations on affiliated business arrangements shall be construed as being inconsistent with this section.
 
-([Pub. L. 93–533, § 8][/us/pl/93/533/s8], Dec. 22, 1974, [88 Stat. 1727][/us/stat/88/1727]; [Pub. L. 94–205, § 7][/us/pl/94/205/s7], Jan. 2, 1976, [89 Stat. 1158][/us/stat/89/1158]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title IV, § 461(b), (c)\], Nov. 30, 1983, [97 Stat. 1231][/us/stat/97/1231]; [Pub. L. 100–242, title V, § 570(g)][/us/pl/100/242/s570/g], Feb. 5, 1988, [101 Stat. 1950][/us/stat/101/1950]; [Pub. L. 102–54, § 13(d)(4)][/us/pl/102/54/s13/d/4], June 13, 1991, [105 Stat. 275][/us/stat/105/275]; [Pub. L. 104–208, div. A, title II, § 2103(c)(2)][/us/pl/104/208/s2103/c/2], (d), Sept. 30, 1996, [110 Stat. 3009–400][/us/stat/110/3009-400]; [Pub. L. 111–203, title X, § 1098(6)][/us/pl/111/203/s1098/6], (7), July 21, 2010, [124 Stat. 2104][/us/stat/124/2104].)
+([Pub. L. 93–533][/us/pl/93/533], § 8, Dec. 22, 1974, [88 Stat. 1727][/us/stat/88/1727]; [Pub. L. 94–205][/us/pl/94/205], § 7, Jan. 2, 1976, [89 Stat. 1158][/us/stat/89/1158]; [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title IV, § 461(b), (c)\], Nov. 30, 1983, [97 Stat. 1231][/us/stat/97/1231]; [Pub. L. 100–242, title V][/us/pl/100/242/tV], § 570(g), Feb. 5, 1988, [101 Stat. 1950][/us/stat/101/1950]; [Pub. L. 102–54][/us/pl/102/54], § 13(d)(4), June 13, 1991, [105 Stat. 275][/us/stat/105/275]; [Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], § 2103(c)(2), (d), Sept. 30, 1996, [110 Stat. 3009–400][/us/stat/110/3009-400]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1098(6), (7), July 21, 2010, [124 Stat. 2104][/us/stat/124/2104].)
 
  __References in Text__ 
 
@@ -49,27 +49,27 @@
 
  __Amendments__ 
 
-    2010—Subsec. (c)(5). [Pub. L. 111–203, § 1098(6)][/us/pl/111/203/s1098/6], which directed substituting “Bureau” for “Secretary”, was executed by making the substitution for “Secretary” the first time appearing, to reflect the probable intent of Congress.
+    2010—Subsec. (c)(5). [Pub. L. 111–203][/us/pl/111/203], § 1098(6), which directed substituting “Bureau” for “Secretary”, was executed by making the substitution for “Secretary” the first time appearing, to reflect the probable intent of Congress.
 
-    Subsec. (d). [Pub. L. 111–203, § 1098(7)(A)][/us/pl/111/203/s1098/7/A], inserted “Bureau and” before “Secretary” in heading that had been supplied editorially.
+    Subsec. (d). [Pub. L. 111–203][/us/pl/111/203], § 1098(7)(A), inserted “Bureau and” before “Secretary” in heading that had been supplied editorially.
 
-    Subsec. (d)(4). [Pub. L. 111–203, § 1098(7)(B)][/us/pl/111/203/s1098/7/B], added par. (4) and struck out former par. (4) which read as follows: “The Secretary, the Attorney General of any State, or the insurance commissioner of any State may bring an action to enjoin violations of this section.”
+    Subsec. (d)(4). [Pub. L. 111–203][/us/pl/111/203], § 1098(7)(B), added par. (4) and struck out former par. (4) which read as follows: “The Secretary, the Attorney General of any State, or the insurance commissioner of any State may bring an action to enjoin violations of this section.”
 
-    1996—Subsec. (c)(4). [Pub. L. 104–208, § 2103(c)(2)][/us/pl/104/208/s2103/c/2], substituted “affiliated business arrangements” for “controlled business arrangements”.
+    1996—Subsec. (c)(4). [Pub. L. 104–208][/us/pl/104/208], § 2103(c)(2), substituted “affiliated business arrangements” for “controlled business arrangements”.
 
-    Subsec. (c)(4)(A). [Pub. L. 104–208, § 2103(d)][/us/pl/104/208/s2103/d], amended subcl. (A) generally. Prior to amendment, subcl. (A) read as follows: “at or prior to the time of the referral a disclosure is made of the existence of such an arrangement to the person being referred and, in connection with the referral, such person is provided a written estimate of the charge or range of charges generally made by the provider to which the person is referred, except that where a lender makes the referral, this requirement may be satisfied as part of and at the time that the estimates of settlement charges required under [section 2604(c) of this title][/us/usc/t12/s2604/c] are provided,”.
+    Subsec. (c)(4)(A). [Pub. L. 104–208][/us/pl/104/208], § 2103(d), amended subcl. (A) generally. Prior to amendment, subcl. (A) read as follows: “at or prior to the time of the referral a disclosure is made of the existence of such an arrangement to the person being referred and, in connection with the referral, such person is provided a written estimate of the charge or range of charges generally made by the provider to which the person is referred, except that where a lender makes the referral, this requirement may be satisfied as part of and at the time that the estimates of settlement charges required under [section 2604(c) of this title][/us/usc/t12/s2604/c] are provided,”.
 
-    Subsec. (d)(6). [Pub. L. 104–208, § 2103(c)(2)][/us/pl/104/208/s2103/c/2], substituted “affiliated business arrangements” for “controlled business arrangements”.
+    Subsec. (d)(6). [Pub. L. 104–208][/us/pl/104/208], § 2103(c)(2), substituted “affiliated business arrangements” for “controlled business arrangements”.
 
     1991—Subsec. (c)(5). [Pub. L. 102–54][/us/pl/102/54] substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
 
     1988—Subsec. (c)(5). [Pub. L. 100–242][/us/pl/100/242] substituted “clause (4)(B)” for “clause 4(B)”.
 
-    1983—Subsec. (c). [Pub. L. 98–181, § 461(b)][/us/pl/98/181/s461/b], redesignated cl. (4) as (5), added cl. (4) and provisions following cl. (5), as so redesignated, relating to arrangements which shall not be considered a violation of cl. (4)(B).
+    1983—Subsec. (c). [Pub. L. 98–181][/us/pl/98/181], § 461(b), redesignated cl. (4) as (5), added cl. (4) and provisions following cl. (5), as so redesignated, relating to arrangements which shall not be considered a violation of cl. (4)(B).
 
-    Subsec. (d)(2). [Pub. L. 98–181, § 461(c)][/us/pl/98/181/s461/c], substituted provisions setting forth the liability of persons violating the prohibitions or limitations of this section for provisions setting forth liability, in addition to penalties provided in par. (1), of persons violating subsecs. (a) and (b) of this section, plus costs and attorney’s fees.
+    Subsec. (d)(2). [Pub. L. 98–181][/us/pl/98/181], § 461(c), substituted provisions setting forth the liability of persons violating the prohibitions or limitations of this section for provisions setting forth liability, in addition to penalties provided in par. (1), of persons violating subsecs. (a) and (b) of this section, plus costs and attorney’s fees.
 
-    Subsec. (d)(3) to (6). [Pub. L. 98–181, § 461(c)][/us/pl/98/181/s461/c], added pars. (3) to (6).
+    Subsec. (d)(3) to (6). [Pub. L. 98–181][/us/pl/98/181], § 461(c), added pars. (3) to (6).
 
     1976—Subsec. (c). [Pub. L. 94–205][/us/pl/94/205] added cls. (3) and (4).
 
@@ -98,35 +98,35 @@
 
 [/us/usc/t12/s2604/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2604%2Fc
 [/us/usc/t12/s5511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5511
-[/us/pl/93/533/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F533%2Fs8
+[/us/pl/93/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F533
 [/us/stat/88/1727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1727
-[/us/pl/94/205/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F205%2Fs7
+[/us/pl/94/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F205
 [/us/stat/89/1158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1158
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1231
-[/us/pl/100/242/s570/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs570%2Fg
+[/us/pl/100/242/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtV
 [/us/stat/101/1950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1950
-[/us/pl/102/54/s13/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54%2Fs13%2Fd%2F4
+[/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/stat/105/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F275
-[/us/pl/104/208/s2103/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2103%2Fc%2F2
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-400
-[/us/pl/111/203/s1098/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1098%2F6
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2104
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1955
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301
-[/us/pl/111/203/s1098/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1098%2F6
-[/us/pl/111/203/s1098/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1098%2F7%2FA
-[/us/pl/111/203/s1098/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1098%2F7%2FB
-[/us/pl/104/208/s2103/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2103%2Fc%2F2
-[/us/pl/104/208/s2103/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2103%2Fd
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/usc/t12/s2604/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2604%2Fc
-[/us/pl/104/208/s2103/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2103%2Fc%2F2
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
-[/us/pl/98/181/s461/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs461%2Fb
-[/us/pl/98/181/s461/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs461%2Fc
-[/us/pl/98/181/s461/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs461%2Fc
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
 [/us/pl/94/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F205
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s1100H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100H

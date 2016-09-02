@@ -27,33 +27,33 @@
 
         Each national banking association shall obtain from each of its affiliates other than member banks and furnish to the Comptroller of the Currency not less than four reports during each year, in such form as the Comptroller may prescribe, verified by the oath or affirmation of the president or such other officer as may be designated by the board of directors of such affiliate to verify such reports, disclosing the information hereinafter provided for as of dates identical with those for which the Comptroller shall during such year require the reports of the condition of the association. Each such report of an affiliate shall be transmitted to the Comptroller at the same time as the corresponding report of the association, except that the Comptroller may, in his discretion, extend such time for good cause shown. Each such report shall contain such information as in the judgment of the Comptroller of the Currency shall be necessary to disclose fully the relations between such affiliate and such bank and to enable the Comptroller to inform himself as to the effect of such relations upon the affairs of such bank. The Comptroller shall also have power to call for additional reports with respect to any such affiliate whenever in his judgment the same are necessary in order to obtain a full and complete knowledge of the conditions of the association with which it is affiliated. Such additional reports shall be transmitted to the Comptroller of the Currency in such form as he may prescribe.
 
-(R.S. § 5211; [Feb. 27, 1877, ch. 69, § 1][/us/act/1877-02-27/ch69/s1], [19 Stat. 252][/us/stat/19/252]; [Dec. 28, 1922, ch. 18][/us/act/1922-12-28/ch18], [42 Stat. 1067][/us/stat/42/1067]; [Feb. 25, 1927, ch. 191, § 13][/us/act/1927-02-25/ch191/s13], [44 Stat. 1232][/us/stat/44/1232]; [June 16, 1933, ch. 89, § 27][/us/act/1933-06-16/ch89/s27], [48 Stat. 191][/us/stat/48/191]; [Pub. L. 86–230][/us/pl/86/230], §§ 11, 22(b), Sept. 8, 1959, [73 Stat. 458][/us/stat/73/458], 466; [Pub. L. 86–671, § 5][/us/pl/86/671/s5], July 14, 1960, [74 Stat. 551][/us/stat/74/551]; [Pub. L. 89–485, § 13(d)][/us/pl/89/485/s13/d], July 1, 1966, [80 Stat. 243][/us/stat/80/243]; [Pub. L. 101–73, title IX, § 911(b)(1)][/us/pl/101/73/s911/b/1], Aug. 9, 1989, [103 Stat. 478][/us/stat/103/478]; [Pub. L. 103–325, title III, § 308(a)][/us/pl/103/325/s308/a], Sept. 23, 1994, [108 Stat. 2218][/us/stat/108/2218].)
+(R.S. § 5211; [Feb. 27, 1877, ch. 69][/us/act/1877-02-27/ch69], § 1, [19 Stat. 252][/us/stat/19/252]; [Dec. 28, 1922, ch. 18][/us/act/1922-12-28/ch18], [42 Stat. 1067][/us/stat/42/1067]; [Feb. 25, 1927, ch. 191][/us/act/1927-02-25/ch191], § 13, [44 Stat. 1232][/us/stat/44/1232]; [June 16, 1933, ch. 89][/us/act/1933-06-16/ch89], § 27, [48 Stat. 191][/us/stat/48/191]; [Pub. L. 86–230][/us/pl/86/230], §§ 11, 22(b), Sept. 8, 1959, [73 Stat. 458][/us/stat/73/458], 466; [Pub. L. 86–671][/us/pl/86/671], § 5, July 14, 1960, [74 Stat. 551][/us/stat/74/551]; [Pub. L. 89–485][/us/pl/89/485], § 13(d), July 1, 1966, [80 Stat. 243][/us/stat/80/243]; [Pub. L. 101–73, title IX][/us/pl/101/73/tIX], § 911(b)(1), Aug. 9, 1989, [103 Stat. 478][/us/stat/103/478]; [Pub. L. 103–325, title III][/us/pl/103/325/tIII], § 308(a), Sept. 23, 1994, [108 Stat. 2218][/us/stat/108/2218].)
 
  __References in Text__ 
 
-    The Federal Deposit Insurance Act, referred to in subsec. (a), is [act Sept. 21, 1950, ch. 967, § 2][/us/act/1950-09-21/ch967/s2], [64 Stat. 873][/us/stat/64/873], as amended, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1811 of this title][/us/usc/t12/s1811] and Tables.
+    The Federal Deposit Insurance Act, referred to in subsec. (a), is [act Sept. 21, 1950, ch. 967][/us/act/1950-09-21/ch967], § 2, [64 Stat. 873][/us/stat/64/873], as amended, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1811 of this title][/us/usc/t12/s1811] and Tables.
 
  __Codification__ 
 
-    R.S. § 5211 derived from [act June 3, 1864, ch. 106, § 34][/us/act/1864-06-03/ch106/s34], [13 Stat. 109][/us/stat/13/109], which was the National Bank Act, and [act Mar. 3, 1869, ch. 130, § 1][/us/act/1869-03-03/ch130/s1], [15 Stat. 326][/us/stat/15/326]. See [section 38 of this title][/us/usc/t12/s38].
+    R.S. § 5211 derived from [act June 3, 1864, ch. 106][/us/act/1864-06-03/ch106], § 34, [13 Stat. 109][/us/stat/13/109], which was the National Bank Act, and [act Mar. 3, 1869, ch. 130][/us/act/1869-03-03/ch130], § 1, [15 Stat. 326][/us/stat/15/326]. See [section 38 of this title][/us/usc/t12/s38].
 
  __Amendments__ 
 
-    1994—Subsec. (a). [Pub. L. 103–325, § 308(a)(1)][/us/pl/103/325/s308/a/1], struck out before period at end of fifth sentence “; and the statement of resources and liabilities in the same form in which it is made to the Comptroller shall be published in a newspaper published in the place where such association is established, or if there is no newspaper in the place, then in the one published nearest thereto in the same county, at the expense of the association, and such proof of publication shall be furnished as may be required by the Comptroller”.
+    1994—Subsec. (a). [Pub. L. 103–325][/us/pl/103/325], § 308(a)(1), struck out before period at end of fifth sentence “; and the statement of resources and liabilities in the same form in which it is made to the Comptroller shall be published in a newspaper published in the place where such association is established, or if there is no newspaper in the place, then in the one published nearest thereto in the same county, at the expense of the association, and such proof of publication shall be furnished as may be required by the Comptroller”.
 
-    Subsec. (c). [Pub. L. 103–325, § 308(a)(2)][/us/pl/103/325/s308/a/2], struck out after third sentence “The reports of such affiliates shall be published by the association under the same conditions as govern its own condition reports.”
+    Subsec. (c). [Pub. L. 103–325][/us/pl/103/325], § 308(a)(2), struck out after third sentence “The reports of such affiliates shall be published by the association under the same conditions as govern its own condition reports.”
 
-    1989—Subsec. (a). [Pub. L. 101–73, § 911(b)(1)(A)][/us/pl/101/73/s911/b/1/A], in fifth sentence substituted “within the period of time specified by the Comptroller” for “within ten days after the receipt of a request therefor from him”.
+    1989—Subsec. (a). [Pub. L. 101–73][/us/pl/101/73], § 911(b)(1)(A), in fifth sentence substituted “within the period of time specified by the Comptroller” for “within ten days after the receipt of a request therefor from him”.
 
-    Subsec. (c). [Pub. L. 101–73, § 911(b)(1)(B)][/us/pl/101/73/s911/b/1/B], struck out at end “Any such affiliated bank which fails to obtain and furnish any report required under this section shall be subject to a penalty of $100 for each day during which such failure continues.”
+    Subsec. (c). [Pub. L. 101–73][/us/pl/101/73], § 911(b)(1)(B), struck out at end “Any such affiliated bank which fails to obtain and furnish any report required under this section shall be subject to a penalty of $100 for each day during which such failure continues.”
 
     1966—Subsec. (c). [Pub. L. 89–485][/us/pl/89/485] struck out second sentence stating that the term “affiliate” shall include holding company affiliates as well as other affiliates.
 
-    1960—Subsec. (a). [Pub. L. 86–671, § 5(a)][/us/pl/86/671/s5/a], designated existing provisions of former first par. as subsec. (a), substituted provisions relating to the making of reports of condition in accordance with the Federal Deposit Insurance Act and additional reports of condition containing declaration of officer for former provisions requiring minimum of three reports annually verified by an officer, inserted provisions respecting contents and publication of special reports and deleted requirement for making reports of payment of dividends, which is incorporated in subsec. (b) of this section.
+    1960—Subsec. (a). [Pub. L. 86–671][/us/pl/86/671], § 5(a), designated existing provisions of former first par. as subsec. (a), substituted provisions relating to the making of reports of condition in accordance with the Federal Deposit Insurance Act and additional reports of condition containing declaration of officer for former provisions requiring minimum of three reports annually verified by an officer, inserted provisions respecting contents and publication of special reports and deleted requirement for making reports of payment of dividends, which is incorporated in subsec. (b) of this section.
 
-    Subsec. (b). [Pub. L. 86–671, § 5(a)][/us/pl/86/671/s5/a], designated existing provisions of former first par. as subsec. (b).
+    Subsec. (b). [Pub. L. 86–671][/us/pl/86/671], § 5(a), designated existing provisions of former first par. as subsec. (b).
 
-    Subsec. (c). [Pub. L. 86–671, § 5(b)][/us/pl/86/671/s5/b], designated existing provisions of former second par. as subsec. (c) and substituted “four” for “three” in first sentence.
+    Subsec. (c). [Pub. L. 86–671][/us/pl/86/671], § 5(b), designated existing provisions of former second par. as subsec. (c) and substituted “four” for “three” in first sentence.
 
     1959—[Pub. L. 86–230][/us/pl/86/230] required transmission of reports to the Comptroller within ten instead of five days and the making of reports of the payment of dividends including advance reports of dividends proposed to be declared or paid, respectively.
 
@@ -63,7 +63,7 @@
 
  __Effective Date of 1989 Amendment__ 
 
-[Pub. L. 101–73, title IX, § 911(i)][/us/pl/101/73/s911/i], Aug. 9, 1989, [103 Stat. 482][/us/stat/103/482], provided that: 
+[Pub. L. 101–73, title IX][/us/pl/101/73/tIX], § 911(i), Aug. 9, 1989, [103 Stat. 482][/us/stat/103/482], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 164, 324, 1782, 1817, 1847, and 1882 of this title\] shall apply with respect to reports filed or required to be filed after the date of the enactment of this Act \[Aug. 9, 1989\].”
 
@@ -83,42 +83,42 @@
 ----------
 
 [/us/usc/t12/s1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1811
-[/us/act/1877-02-27/ch69/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1877-02-27%2Fch69%2Fs1
+[/us/act/1877-02-27/ch69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1877-02-27%2Fch69
 [/us/stat/19/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F19%2F252
 [/us/act/1922-12-28/ch18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-12-28%2Fch18
 [/us/stat/42/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F1067
-[/us/act/1927-02-25/ch191/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-25%2Fch191%2Fs13
+[/us/act/1927-02-25/ch191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-25%2Fch191
 [/us/stat/44/1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1232
-[/us/act/1933-06-16/ch89/s27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-16%2Fch89%2Fs27
+[/us/act/1933-06-16/ch89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-16%2Fch89
 [/us/stat/48/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F191
 [/us/pl/86/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F230
 [/us/stat/73/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F458
-[/us/pl/86/671/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F671%2Fs5
+[/us/pl/86/671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F671
 [/us/stat/74/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F551
-[/us/pl/89/485/s13/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F485%2Fs13%2Fd
+[/us/pl/89/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F485
 [/us/stat/80/243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F243
-[/us/pl/101/73/s911/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs911%2Fb%2F1
+[/us/pl/101/73/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtIX
 [/us/stat/103/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F478
-[/us/pl/103/325/s308/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs308%2Fa
+[/us/pl/103/325/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtIII
 [/us/stat/108/2218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2218
-[/us/act/1950-09-21/ch967/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967%2Fs2
+[/us/act/1950-09-21/ch967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967
 [/us/stat/64/873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F873
 [/us/usc/t12/s1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1811
-[/us/act/1864-06-03/ch106/s34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-06-03%2Fch106%2Fs34
+[/us/act/1864-06-03/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-06-03%2Fch106
 [/us/stat/13/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F13%2F109
-[/us/act/1869-03-03/ch130/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1869-03-03%2Fch130%2Fs1
+[/us/act/1869-03-03/ch130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1869-03-03%2Fch130
 [/us/stat/15/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F15%2F326
 [/us/usc/t12/s38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs38
-[/us/pl/103/325/s308/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs308%2Fa%2F1
-[/us/pl/103/325/s308/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs308%2Fa%2F2
-[/us/pl/101/73/s911/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs911%2Fb%2F1%2FA
-[/us/pl/101/73/s911/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs911%2Fb%2F1%2FB
+[/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
+[/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
 [/us/pl/89/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F485
-[/us/pl/86/671/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F671%2Fs5%2Fa
-[/us/pl/86/671/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F671%2Fs5%2Fa
-[/us/pl/86/671/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F671%2Fs5%2Fb
+[/us/pl/86/671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F671
+[/us/pl/86/671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F671
+[/us/pl/86/671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F671
 [/us/pl/86/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F230
-[/us/pl/101/73/s911/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs911%2Fi
+[/us/pl/101/73/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtIX
 [/us/stat/103/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F482
 [/us/pl/86/671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F671
 [/us/pl/86/671/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F671%2Fs7

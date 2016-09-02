@@ -81,7 +81,7 @@
 
             The Comptroller of the Currency shall report all requirements established under paragraph (1) to each committee receiving the report required under subsection (a).
 
-([Pub. L. 111–22, div. A, title I, § 104][/us/pl/111/22/s104], May 20, 2009, [123 Stat. 1636][/us/stat/123/1636]; [Pub. L. 111–203, title XIV, § 1493][/us/pl/111/203/s1493], July 21, 2010, [124 Stat. 2206][/us/stat/124/2206].)
+([Pub. L. 111–22, div. A, title I][/us/pl/111/22/dA/tI], § 104, May 20, 2009, [123 Stat. 1636][/us/stat/123/1636]; [Pub. L. 111–203, title XIV][/us/pl/111/203/tXIV], § 1493, July 21, 2010, [124 Stat. 2206][/us/stat/124/2206].)
 
  __References in Text__ 
 
@@ -93,13 +93,13 @@
 
  __Amendments__ 
 
-    2010—Subsec. (a)(2). [Pub. L. 111–203, § 1493(a)(1)][/us/pl/111/203/s1493/a/1], substituted “in each State that result” for “resulting” in introductory provisions.
+    2010—Subsec. (a)(2). [Pub. L. 111–203][/us/pl/111/203], § 1493(a)(1), substituted “in each State that result” for “resulting” in introductory provisions.
 
-    Subsec. (a)(3). [Pub. L. 111–203, § 1493(a)(2)][/us/pl/111/203/s1493/a/2], inserted “each State for” after “modifications in” in introductory provisions.
+    Subsec. (a)(3). [Pub. L. 111–203][/us/pl/111/203], § 1493(a)(2), inserted “each State for” after “modifications in” in introductory provisions.
 
-    Subsec. (a)(4). [Pub. L. 111–203, § 1493(a)(3)][/us/pl/111/203/s1493/a/3], inserted “in each State” after “total number of loans” in introductory provisions.
+    Subsec. (a)(4). [Pub. L. 111–203][/us/pl/111/203], § 1493(a)(3), inserted “in each State” after “total number of loans” in introductory provisions.
 
-    Subsec. (b)(1)(A). [Pub. L. 111–203, § 1493(b)][/us/pl/111/203/s1493/b], inserted at end “Not later than 60 days after the date of the enactment of the Dodd-Frank Wall Street Reform and Consumer Protection Act, the Comptroller of the Currency and the Director of the Office of Thrift Supervision shall update such requirements to reflect amendments made to this section by such Act.”
+    Subsec. (b)(1)(A). [Pub. L. 111–203][/us/pl/111/203], § 1493(b), inserted at end “Not later than 60 days after the date of the enactment of the Dodd-Frank Wall Street Reform and Consumer Protection Act, the Comptroller of the Currency and the Director of the Office of Thrift Supervision shall update such requirements to reflect amendments made to this section by such Act.”
 
  __Effective Date of 2010 Amendment__ 
 
@@ -112,17 +112,17 @@
 ----------
 ----------
 
-[/us/pl/111/22/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs104
+[/us/pl/111/22/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2FdA%2FtI
 [/us/stat/123/1636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1636
-[/us/pl/111/203/s1493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1493
+[/us/pl/111/203/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtXIV
 [/us/stat/124/2206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2206
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1376
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301
-[/us/pl/111/203/s1493/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1493%2Fa%2F1
-[/us/pl/111/203/s1493/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1493%2Fa%2F2
-[/us/pl/111/203/s1493/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1493%2Fa%2F3
-[/us/pl/111/203/s1493/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1493%2Fb
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s1400/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1400%2Fc
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601

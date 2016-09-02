@@ -23,7 +23,7 @@
 
     (3) to pay such administrative expenses (or portion of such expenses) of carrying out the provisions of this chapter as the Secretary may deem necessary.
 
-([Pub. L. 94–50, title I, § 107][/us/pl/94/50/s107], July 2, 1975, [89 Stat. 252][/us/stat/89/252]; [Pub. L. 98–479, title II, § 204(m)(1)][/us/pl/98/479/s204/m/1], Oct. 17, 1984, [98 Stat. 2234][/us/stat/98/2234]; [Pub. L. 111–203, title XIV, § 1496(b)(4)][/us/pl/111/203/s1496/b/4], July 21, 2010, [124 Stat. 2208][/us/stat/124/2208].)
+([Pub. L. 94–50, title I][/us/pl/94/50/tI], § 107, July 2, 1975, [89 Stat. 252][/us/stat/89/252]; [Pub. L. 98–479, title II][/us/pl/98/479/tII], § 204(m)(1), Oct. 17, 1984, [98 Stat. 2234][/us/stat/98/2234]; [Pub. L. 111–203, title XIV][/us/pl/111/203/tXIV], § 1496(b)(4), July 21, 2010, [124 Stat. 2208][/us/stat/124/2208].)
 
  __Amendments__ 
 
@@ -33,9 +33,9 @@
 
     “(2) such amounts as may be appropriated for the purposes of this chapter.”
 
-    1984—Subsec. (a). [Pub. L. 98–479, § 204(m)(1)(A)][/us/pl/98/479/s204/m/1/A], (B), redesignated subsec. (a)(1) as subsec. (a) and subpars. (A), (B), and (C) as pars. (1), (2), and (3), respectively.
+    1984—Subsec. (a). [Pub. L. 98–479][/us/pl/98/479], § 204(m)(1)(A), (B), redesignated subsec. (a)(1) as subsec. (a) and subpars. (A), (B), and (C) as pars. (1), (2), and (3), respectively.
 
-    Subsec. (b). [Pub. L. 98–479, § 204(m)(1)(C)][/us/pl/98/479/s204/m/1/C], (D), redesignated subsec. (a)(2) as subsec. (b) and subpars. (A) and (B) as pars. (1) and (2), respectively.
+    Subsec. (b). [Pub. L. 98–479][/us/pl/98/479], § 204(m)(1)(C), (D), redesignated subsec. (a)(2) as subsec. (b) and subpars. (A) and (B) as pars. (1) and (2), respectively.
 
  __Effective Date of 2010 Amendment__ 
 
@@ -43,7 +43,7 @@
 
  __Emergency Mortgage Relief__ 
 
-[Pub. L. 111–203, title XIV, § 1496(a)][/us/pl/111/203/s1496/a], July 21, 2010, [124 Stat. 2207][/us/stat/124/2207], provided that: 
+[Pub. L. 111–203, title XIV][/us/pl/111/203/tXIV], § 1496(a), July 21, 2010, [124 Stat. 2207][/us/stat/124/2207], provided that: 
 
 > “Effective October 1, 2010, and notwithstanding any other provision of law, there is hereby made available to the Secretary of Housing and Urban Development such sums as are necessary to provide $1,000,000,000 in assistance through the Emergency Homeowners’ Relief Fund, which such Secretary shall establish pursuant to section 107 of the Emergency Housing Act of 1975 ([12 U.S.C. 2706][/us/usc/t12/s2706]), as such Act is amended by this section, for use for emergency mortgage assistance in accordance with title I of such Act \[[12 U.S.C. 2701][/us/usc/t12/s2701] et seq.\].”
 
@@ -56,19 +56,19 @@
 
 [/us/usc/t12/s2704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2704
 [/us/usc/t12/s2705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2705
-[/us/pl/94/50/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F50%2Fs107
+[/us/pl/94/50/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F50%2FtI
 [/us/stat/89/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F252
-[/us/pl/98/479/s204/m/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2Fs204%2Fm%2F1
+[/us/pl/98/479/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2FtII
 [/us/stat/98/2234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2234
-[/us/pl/111/203/s1496/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1496%2Fb%2F4
+[/us/pl/111/203/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtXIV
 [/us/stat/124/2208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2208
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
-[/us/pl/98/479/s204/m/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2Fs204%2Fm%2F1%2FA
-[/us/pl/98/479/s204/m/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2Fs204%2Fm%2F1%2FC
+[/us/pl/98/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479
+[/us/pl/98/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s1400/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1400%2Fc
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601
-[/us/pl/111/203/s1496/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1496%2Fa
+[/us/pl/111/203/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtXIV
 [/us/stat/124/2207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2207
 [/us/usc/t12/s2706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2706
 [/us/usc/t12/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2701

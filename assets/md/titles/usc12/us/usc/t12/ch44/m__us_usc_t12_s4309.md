@@ -47,7 +47,7 @@
 
         The authority of the Bureau to issue regulations under this chapter does not impair the authority of any other agency referred to in subsection (a) to make rules regarding its own procedures in enforcing compliance with the requirements imposed under this chapter.
 
-([Pub. L. 102–242, title II, § 270][/us/pl/102/242/s270], Dec. 19, 1991, [105 Stat. 2339][/us/stat/105/2339]; [Pub. L. 102–550, title XVI, § 1604(e)(2)(I)][/us/pl/102/550/s1604/e/2/I]–(K), (3), (4), Oct. 28, 1992, [106 Stat. 4084][/us/stat/106/4084]; [Pub. L. 111–203, title X, § 1100B(1)][/us/pl/111/203/s1100B/1], (2), July 21, 2010, [124 Stat. 2109][/us/stat/124/2109], 2110.)
+([Pub. L. 102–242, title II][/us/pl/102/242/tII], § 270, Dec. 19, 1991, [105 Stat. 2339][/us/stat/105/2339]; [Pub. L. 102–550, title XVI][/us/pl/102/550/tXVI], § 1604(e)(2)(I)–(K), (3), (4), Oct. 28, 1992, [106 Stat. 4084][/us/stat/106/4084]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1100B(1), (2), July 21, 2010, [124 Stat. 2109][/us/stat/124/2109], 2110.)
 
  __References in Text__ 
 
@@ -57,9 +57,9 @@
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–203, § 1100B(1)][/us/pl/111/203/s1100B/1], substituted “Bureau” for “Board” wherever appearing.
+    2010—[Pub. L. 111–203][/us/pl/111/203], § 1100B(1), substituted “Bureau” for “Board” wherever appearing.
 
-    Subsec. (a). [Pub. L. 111–203, § 1100B(2)(A)][/us/pl/111/203/s1100B/2/A], inserted introductory provisions and added par. (1) and struck out former introductory provisions and par. (1) which read as follows: “Compliance with the requirements imposed under this chapter shall be enforced under—
+    Subsec. (a). [Pub. L. 111–203][/us/pl/111/203], § 1100B(2)(A), inserted introductory provisions and added par. (1) and struck out former introductory provisions and par. (1) which read as follows: “Compliance with the requirements imposed under this chapter shall be enforced under—
 
     “(1) section 8 of the Federal Deposit Insurance Act—
 
@@ -69,7 +69,7 @@
 
     “(C) by the Director of the Office of Thrift Supervision in the case of depository institutions described in clause (v) and or (vi) of section 19(b)(1)(A) of the Federal Reserve Act which are not insured depository institutions (as defined in section 3(c)(2) of the Federal Deposit Insurance Act); and”.
 
-    Subsec. (a)(3). [Pub. L. 111–203, § 1100B(2)(B)][/us/pl/111/203/s1100B/2/B], (C), added par. (3).
+    Subsec. (a)(3). [Pub. L. 111–203][/us/pl/111/203], § 1100B(2)(B), (C), added par. (3).
 
     1992—[Pub. L. 102–550][/us/pl/102/550] made technical amendment to references to “this chapter” wherever appearing to reflect correction of corresponding provision of original act.
 
@@ -99,11 +99,11 @@
 [/us/usc/t12/s1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1751
 [/us/usc/t12/s461/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs461%2Fb%2F1%2FA
 [/us/usc/t12/s5561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5561
-[/us/pl/102/242/s270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs270
+[/us/pl/102/242/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtII
 [/us/stat/105/2339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2339
-[/us/pl/102/550/s1604/e/2/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1604%2Fe%2F2%2FI
+[/us/pl/102/550/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXVI
 [/us/stat/106/4084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4084
-[/us/pl/111/203/s1100B/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100B%2F1
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2109
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1955
@@ -111,9 +111,9 @@
 [/us/act/1934-06-26/ch750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-26%2Fch750
 [/us/stat/48/1216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1216
 [/us/usc/t12/s1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1751
-[/us/pl/111/203/s1100B/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100B%2F1
-[/us/pl/111/203/s1100B/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100B%2F2%2FA
-[/us/pl/111/203/s1100B/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100B%2F2%2FB
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s1100H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100H

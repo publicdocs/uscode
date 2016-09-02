@@ -43,11 +43,11 @@
 
             (B) The conservator shall be deemed to have discharged all responsibility of the conservatorship upon the deposit of the proceeds with the district court and giving the required notifications.
 
-([Mar. 9, 1933, ch. 1][/us/act/1933-03-09/ch1], title II, § 205, [48 Stat. 3][/us/stat/48/3]; [Pub. L. 101–73, title VIII, § 804][/us/pl/101/73/s804], Aug. 9, 1989, [103 Stat. 443][/us/stat/103/443].)
+([Mar. 9, 1933, ch. 1][/us/act/1933-03-09/ch1], title II, § 205, [48 Stat. 3][/us/stat/48/3]; [Pub. L. 101–73, title VIII][/us/pl/101/73/tVIII], § 804, Aug. 9, 1989, [103 Stat. 443][/us/stat/103/443].)
 
  __References in Text__ 
 
-    The Federal Deposit Insurance Act, referred to in subsec. (c), is [act Sept. 21, 1950, ch. 967, § 2][/us/act/1950-09-21/ch967/s2], [64 Stat. 873][/us/stat/64/873], as amended, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1811 of this title][/us/usc/t12/s1811] and Tables.
+    The Federal Deposit Insurance Act, referred to in subsec. (c), is [act Sept. 21, 1950, ch. 967][/us/act/1950-09-21/ch967], § 2, [64 Stat. 873][/us/stat/64/873], as amended, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1811 of this title][/us/usc/t12/s1811] and Tables.
 
  __Amendments__ 
 
@@ -69,9 +69,9 @@
 [/us/usc/t12/s1818/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1818%2Fb
 [/us/act/1933-03-09/ch1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-03-09%2Fch1
 [/us/stat/48/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F3
-[/us/pl/101/73/s804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs804
+[/us/pl/101/73/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtVIII
 [/us/stat/103/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F443
-[/us/act/1950-09-21/ch967/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967%2Fs2
+[/us/act/1950-09-21/ch967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967
 [/us/stat/64/873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F873
 [/us/usc/t12/s1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1811
 [/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73

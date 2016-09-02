@@ -19,7 +19,7 @@
 
     If any national bank which has not gone into liquidation as provided in [section 181 of this title][/us/usc/t12/s181], and for which a receiver has not already been appointed for other lawful cause, shall discontinue its banking operations for a period of sixty days the Comptroller of the Currency may, if he deems it advisable, appoint a receiver for such bank. The stock held by the said national bank in the Federal reserve bank of its district shall thereupon be canceled and said national bank shall receive in payment therefor, under regulations to be prescribed by the Board of Governors of the Federal Reserve System, a sum equal to its cash-paid subscriptions on the shares canceled and one-half of 1 per centum a month from the period of the last dividend, if earned, not to exceed the book value thereof, less any liability of such national bank to the Federal reserve bank.
 
-([Dec. 23, 1913, ch. 6, § 6][/us/act/1913-12-23/ch6/s6], [38 Stat. 258][/us/stat/38/258]; [Apr. 23, 1930, ch. 207, § 1][/us/act/1930-04-23/ch207/s1], [46 Stat. 250][/us/stat/46/250]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 203(a), title III, § 319(b), [49 Stat. 704][/us/stat/49/704], 713.)
+([Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 6, [38 Stat. 258][/us/stat/38/258]; [Apr. 23, 1930, ch. 207][/us/act/1930-04-23/ch207], § 1, [46 Stat. 250][/us/stat/46/250]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 203(a), title III, § 319(b), [49 Stat. 704][/us/stat/49/704], 713.)
 
  __Amendments__ 
 
@@ -43,9 +43,9 @@
 ----------
 
 [/us/usc/t12/s181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs181
-[/us/act/1913-12-23/ch6/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs6
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
 [/us/stat/38/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F258
-[/us/act/1930-04-23/ch207/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-04-23%2Fch207%2Fs1
+[/us/act/1930-04-23/ch207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-04-23%2Fch207
 [/us/stat/46/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F250
 [/us/act/1935-08-23/ch614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch614
 [/us/stat/49/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F704

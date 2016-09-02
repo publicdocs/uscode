@@ -225,13 +225,13 @@
 
             No provision of this subsection may be construed as limiting or otherwise affecting, except to the extent specifically provided in this subsection, the regulatory authority, including the scope of the authority, of any Federal agency or department with regard to any entity that is within the jurisdiction of such agency or department.
 
-([May 9, 1956, ch. 240, § 5][/us/act/1956-05-09/ch240/s5], [70 Stat. 137][/us/stat/70/137]; [Pub. L. 95–630, title I][/us/pl/95/630], §§ 105(a), 106(b), Nov. 10, 1978, [92 Stat. 3646][/us/stat/92/3646], 3648; [Pub. L. 106–102, title I][/us/pl/106/102], §§ 111, 112(a), 116, Nov. 12, 1999, [113 Stat. 1362][/us/stat/113/1362], 1366, 1372; [Pub. L. 111–203, title III, § 354(3)][/us/pl/111/203/s354/3], title VI, §§ 604(a)–(c)(1), 616(a), July 21, 2010, [124 Stat. 1547][/us/stat/124/1547], 1599–1601, 1615.)
+([May 9, 1956, ch. 240][/us/act/1956-05-09/ch240], § 5, [70 Stat. 137][/us/stat/70/137]; [Pub. L. 95–630, title I][/us/pl/95/630/tI], §§ 105(a), 106(b), Nov. 10, 1978, [92 Stat. 3646][/us/stat/92/3646], 3648; [Pub. L. 106–102, title I][/us/pl/106/102/tI], §§ 111, 112(a), 116, Nov. 12, 1999, [113 Stat. 1362][/us/stat/113/1362], 1366, 1372; [Pub. L. 111–203, title III][/us/pl/111/203/tIII], § 354(3), title VI, §§ 604(a)–(c)(1), 616(a), July 21, 2010, [124 Stat. 1547][/us/stat/124/1547], 1599–1601, 1615.)
 
  __References in Text__ 
 
     This chapter, referred to in text, was in the original “this Act”, meaning [act May 9, 1956, ch. 240][/us/act/1956-05-09/ch240], [70 Stat. 133][/us/stat/70/133], known as the Bank Holding Company Act of 1956, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1841 of this title][/us/usc/t12/s1841] and Tables.
 
-    Section 1843(l)(1)(C) of this title, referred to in subsec. (a), was redesignated section 1843(l)(1)(D) of this title by [Pub. L. 111–203, title VI, § 606(a)(2)][/us/pl/111/203/s606/a/2], July 21, 2010, [124 Stat. 1607][/us/stat/124/1607].
+    Section 1843(l)(1)(C) of this title, referred to in subsec. (a), was redesignated section 1843(l)(1)(D) of this title by [Pub. L. 111–203, title VI][/us/pl/111/203/tVI], § 606(a)(2), July 21, 2010, [124 Stat. 1607][/us/stat/124/1607].
 
     The Consumer Financial Protection Act of 2010, referred to in subsec. (c)(2)(A), is title X of [Pub. L. 111–203][/us/pl/111/203], July 21, 2010, [124 Stat. 1955][/us/stat/124/1955]. Subtitle B of the Act is classified generally to part B (§ 5511 et seq.) of subchapter V of chapter 53 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title][/us/usc/t12/s5301] and Tables.
 
@@ -245,31 +245,31 @@
 
  __Amendments__ 
 
-    2010—Subsec. (b). [Pub. L. 111–203, § 616(a)][/us/pl/111/203/s616/a], inserted “, including regulations and orders relating to the capital requirements for bank holding companies,” after “orders” and “In establishing capital regulations pursuant to this subsection, the Board shall seek to make such requirements countercyclical, so that the amount of capital required to be maintained by a company increases in times of economic expansion and decreases in times of economic contraction, consistent with the safety and soundness of the company.” at the end.
+    2010—Subsec. (b). [Pub. L. 111–203][/us/pl/111/203], § 616(a), inserted “, including regulations and orders relating to the capital requirements for bank holding companies,” after “orders” and “In establishing capital regulations pursuant to this subsection, the Board shall seek to make such requirements countercyclical, so that the amount of capital required to be maintained by a company increases in times of economic expansion and decreases in times of economic contraction, consistent with the safety and soundness of the company.” at the end.
 
-    Subsec. (c)(1)(A)(ii). [Pub. L. 111–203, § 604(a)(1)][/us/pl/111/203/s604/a/1], added cl. (ii) and struck out former cl. (ii) which read as follows: “compliance by the company or subsidiary with applicable provisions of this chapter or any other Federal law that the Board has specific jurisdiction to enforce against such company or subsidiary.”
+    Subsec. (c)(1)(A)(ii). [Pub. L. 111–203][/us/pl/111/203], § 604(a)(1), added cl. (ii) and struck out former cl. (ii) which read as follows: “compliance by the company or subsidiary with applicable provisions of this chapter or any other Federal law that the Board has specific jurisdiction to enforce against such company or subsidiary.”
 
-    Subsec. (c)(1)(B). [Pub. L. 111–203, § 604(a)(2)][/us/pl/111/203/s604/a/2], added subpar. (B) and struck out former subpar. (B) which related to use of existing reports.
+    Subsec. (c)(1)(B). [Pub. L. 111–203][/us/pl/111/203], § 604(a)(2), added subpar. (B) and struck out former subpar. (B) which related to use of existing reports.
 
-    Subsec. (c)(1)(C). [Pub. L. 111–203, § 604(a)(3)][/us/pl/111/203/s604/a/3], added subpar. (C).
+    Subsec. (c)(1)(C). [Pub. L. 111–203][/us/pl/111/203], § 604(a)(3), added subpar. (C).
 
-    Subsec. (c)(2). [Pub. L. 111–203, § 604(b)][/us/pl/111/203/s604/b], amended par. (2) generally. Prior to amendment, par. (2) consisted of subpars. (A) to (E) relating to examination authority for bank holding companies and subsidiaries, functionally regulated subsidiaries, restricted focus of examinations, deference to bank examinations, and deference to other examinations, respectively.
+    Subsec. (c)(2). [Pub. L. 111–203][/us/pl/111/203], § 604(b), amended par. (2) generally. Prior to amendment, par. (2) consisted of subpars. (A) to (E) relating to examination authority for bank holding companies and subsidiaries, functionally regulated subsidiaries, restricted focus of examinations, deference to bank examinations, and deference to other examinations, respectively.
 
-    Subsec. (c)(5)(B)(v). [Pub. L. 111–203, § 604(c)(1)][/us/pl/111/203/s604/c/1], added cl. (v) and struck out former cl. (v) which read as follows: “an entity that is subject to regulation by the Commodity Futures Trading Commission, with respect to the commodities activities of such entity and activities incidental to such commodities activities.”
+    Subsec. (c)(5)(B)(v). [Pub. L. 111–203][/us/pl/111/203], § 604(c)(1), added cl. (v) and struck out former cl. (v) which read as follows: “an entity that is subject to regulation by the Commodity Futures Trading Commission, with respect to the commodities activities of such entity and activities incidental to such commodities activities.”
 
-    Subsec. (f). [Pub. L. 111–203, § 354(3)][/us/pl/111/203/s354/3], substituted “subpoenas” for “subpenas” in two places, “subpoena” for “subpena” wherever appearing, and “subpoenaed” for “subpenaed”.
+    Subsec. (f). [Pub. L. 111–203][/us/pl/111/203], § 354(3), substituted “subpoenas” for “subpenas” in two places, “subpoena” for “subpena” wherever appearing, and “subpoenaed” for “subpenaed”.
 
-    1999—Subsec. (a). [Pub. L. 106–102, § 116(a)][/us/pl/106/102/s116/a], inserted at end “A declaration filed in accordance with section 1843(l)(1)(C) of this title shall satisfy the requirements of this subsection with regard to the registration of a bank holding company but not any requirement to file an application to acquire a bank pursuant to [section 1842 of this title][/us/usc/t12/s1842].”
+    1999—Subsec. (a). [Pub. L. 106–102][/us/pl/106/102], § 116(a), inserted at end “A declaration filed in accordance with section 1843(l)(1)(C) of this title shall satisfy the requirements of this subsection with regard to the registration of a bank holding company but not any requirement to file an application to acquire a bank pursuant to [section 1842 of this title][/us/usc/t12/s1842].”
 
-    Subsec. (c). [Pub. L. 106–102, § 111][/us/pl/106/102/s111], inserted heading and amended text of subsec. (c) generally. Prior to amendment, text read as follows: “The Board from time to time may require reports under oath to keep it informed as to whether the provisions of this chapter and such regulations and orders issued thereunder have been complied with; and the Board may make examinations of each bank holding company and each subsidiary thereof, the cost of which shall be assessed against, and paid by, such holding company. The Board shall, as far as possible, use the report of examinations made by the Comptroller of the Currency, the Federal Deposit Insurance Corporation, or the appropriate State bank supervisory authority for the purposes of this section.”
+    Subsec. (c). [Pub. L. 106–102][/us/pl/106/102], § 111, inserted heading and amended text of subsec. (c) generally. Prior to amendment, text read as follows: “The Board from time to time may require reports under oath to keep it informed as to whether the provisions of this chapter and such regulations and orders issued thereunder have been complied with; and the Board may make examinations of each bank holding company and each subsidiary thereof, the cost of which shall be assessed against, and paid by, such holding company. The Board shall, as far as possible, use the report of examinations made by the Comptroller of the Currency, the Federal Deposit Insurance Corporation, or the appropriate State bank supervisory authority for the purposes of this section.”
 
-    Subsec. (e)(1). [Pub. L. 106–102, § 116(b)][/us/pl/106/102/s116/b], in first sentence, substituted “Financial Institutions Supervisory Act of 1966, at the election of the bank holding company—” along with subpar. (A) designation and “order” for “Financial Institutions Supervisory Act of 1966, order” and “shareholders of the bank holding company; or” along with subpar. (B) for “shareholders of the bank holding company.”, designated second sentence as concluding provisions, and substituted “The distribution referred to in subparagraph (A)” for “Such distribution”.
+    Subsec. (e)(1). [Pub. L. 106–102][/us/pl/106/102], § 116(b), in first sentence, substituted “Financial Institutions Supervisory Act of 1966, at the election of the bank holding company—” along with subpar. (A) designation and “order” for “Financial Institutions Supervisory Act of 1966, order” and “shareholders of the bank holding company; or” along with subpar. (B) for “shareholders of the bank holding company.”, designated second sentence as concluding provisions, and substituted “The distribution referred to in subparagraph (A)” for “Such distribution”.
 
-    Subsec. (g). [Pub. L. 106–102, § 112(a)][/us/pl/106/102/s112/a], added subsec. (g).
+    Subsec. (g). [Pub. L. 106–102][/us/pl/106/102], § 112(a), added subsec. (g).
 
-    1978—Subsec. (e). [Pub. L. 95–630, § 105(a)][/us/pl/95/630/s105/a], added subsec. (e).
+    1978—Subsec. (e). [Pub. L. 95–630][/us/pl/95/630], § 105(a), added subsec. (e).
 
-    Subsec. (f). [Pub. L. 95–630, § 106(b)][/us/pl/95/630/s106/b], added subsec. (f).
+    Subsec. (f). [Pub. L. 95–630][/us/pl/95/630], § 106(b), added subsec. (f).
 
  __Effective Date of 2010 Amendment__ 
 
@@ -309,18 +309,18 @@
 [/us/usc/t12/s1848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1848
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
 [/us/usc/t15/s80a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%931
-[/us/act/1956-05-09/ch240/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-05-09%2Fch240%2Fs5
+[/us/act/1956-05-09/ch240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-05-09%2Fch240
 [/us/stat/70/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F137
-[/us/pl/95/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630
+[/us/pl/95/630/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtI
 [/us/stat/92/3646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3646
-[/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102
+[/us/pl/106/102/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtI
 [/us/stat/113/1362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1362
-[/us/pl/111/203/s354/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs354%2F3
+[/us/pl/111/203/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIII
 [/us/stat/124/1547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1547
 [/us/act/1956-05-09/ch240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-05-09%2Fch240
 [/us/stat/70/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F133
 [/us/usc/t12/s1841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1841
-[/us/pl/111/203/s606/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs606%2Fa%2F2
+[/us/pl/111/203/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVI
 [/us/stat/124/1607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1607
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1955
@@ -337,20 +337,20 @@
 [/us/pl/89/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F695
 [/us/stat/80/1028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1028
 [/us/usc/t12/s1464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1464
-[/us/pl/111/203/s616/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs616%2Fa
-[/us/pl/111/203/s604/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs604%2Fa%2F1
-[/us/pl/111/203/s604/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs604%2Fa%2F2
-[/us/pl/111/203/s604/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs604%2Fa%2F3
-[/us/pl/111/203/s604/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs604%2Fb
-[/us/pl/111/203/s604/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs604%2Fc%2F1
-[/us/pl/111/203/s354/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs354%2F3
-[/us/pl/106/102/s116/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs116%2Fa
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102
 [/us/usc/t12/s1842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1842
-[/us/pl/106/102/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs111
-[/us/pl/106/102/s116/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs116%2Fb
-[/us/pl/106/102/s112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs112%2Fa
-[/us/pl/95/630/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs105%2Fa
-[/us/pl/95/630/s106/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs106%2Fb
+[/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102
+[/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102
+[/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102
+[/us/pl/95/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630
+[/us/pl/95/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630
 [/us/pl/111/203/s354/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs354%2F3
 [/us/pl/111/203/s351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs351
 [/us/usc/t2/s906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs906

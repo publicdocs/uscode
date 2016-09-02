@@ -417,7 +417,7 @@
 
         Any grant under this section to a grantee by a State or State designated entity, any assistance provided to a recipient by a State or State designated entity, and any grant, award, or other assistance from an affordable housing trust fund referred to in subsection (h) shall be considered a Federal award for purposes of the Federal Funding Accountability and Transparency Act of 2006 ([31 U.S.C. 6101][/us/usc/t31/s6101] note). Upon the request of the Director of the Office of Management and Budget, the Secretary shall obtain and provide such information regarding any such grants, assistance, and awards as the Director of the Office of Management and Budget considers necessary to comply with the requirements of such Act, as applicable, pursuant to the preceding sentence.
 
-([Pub. L. 102–550, title XIII, § 1338][/us/pl/102/550/s1338], as added [Pub. L. 110–289, div. A, title I, § 1131(b)][/us/pl/110/289/s1131/b], July 30, 2008, [122 Stat. 2712][/us/stat/122/2712].)
+([Pub. L. 102–550, title XIII][/us/pl/102/550/tXIII], § 1338, as added [Pub. L. 110–289, div. A, title I][/us/pl/110/289/dA/tI], § 1131(b), July 30, 2008, [122 Stat. 2712][/us/stat/122/2712].)
 
  __References in Text__ 
 
@@ -433,7 +433,7 @@
 
  __Prior Provisions__ 
 
-    A prior [section 1338 of Pub. L. 102–550][/us/pl/102/550/s1338], title XIII, Oct. 28, 1992, [106 Stat. 3964][/us/stat/106/3964], was set out as a note under [section 4562 of this title][/us/usc/t12/s4562], prior to repeal by [Pub. L. 110–289, div. A, title I, § 1122(a)(2)][/us/pl/110/289/s1122/a/2], July 30, 2008, [122 Stat. 2689][/us/stat/122/2689].
+    A prior [section 1338 of Pub. L. 102–550][/us/pl/102/550/s1338], title XIII, Oct. 28, 1992, [106 Stat. 3964][/us/stat/106/3964], was set out as a note under [section 4562 of this title][/us/usc/t12/s4562], prior to repeal by [Pub. L. 110–289, div. A, title I][/us/pl/110/289/dA/tI], § 1122(a)(2), July 30, 2008, [122 Stat. 2689][/us/stat/122/2689].
 
 ----------
 
@@ -465,8 +465,8 @@
 [/us/usc/t12/s4502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4502
 [/us/usc/t42/s9902/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9902%2F2
 [/us/usc/t31/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs6101
-[/us/pl/102/550/s1338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1338
-[/us/pl/110/289/s1131/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1131%2Fb
+[/us/pl/102/550/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIII
+[/us/pl/110/289/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtI
 [/us/stat/122/2712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2712
 [/us/usc/t25/s4103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4103
 [/us/usc/t25/s4103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4103
@@ -484,7 +484,7 @@
 [/us/pl/102/550/s1338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1338
 [/us/stat/106/3964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3964
 [/us/usc/t12/s4562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4562
-[/us/pl/110/289/s1122/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1122%2Fa%2F2
+[/us/pl/110/289/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtI
 [/us/stat/122/2689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2689
 
 

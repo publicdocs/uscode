@@ -87,7 +87,7 @@
 
         (2) the supervision of the powers, functions, and duties of the Corporation is performed, to the extent practicable, by personnel who are not responsible for the supervision of the banks and associations of the Farm Credit System.
 
-([Pub. L. 92–181, title VIII, § 8][/us/pl/92/181/s8].11, as added [Pub. L. 100–233, title VII, § 702][/us/pl/100/233/s702], Jan. 6, 1988, [101 Stat. 1702][/us/stat/101/1702]; amended [Pub. L. 101–624, title XVIII, § 1840][/us/pl/101/624/s1840], Nov. 28, 1990, [104 Stat. 3835][/us/stat/104/3835]; [Pub. L. 102–237, title V, § 503(a)][/us/pl/102/237/s503/a], Dec. 13, 1991, [105 Stat. 1870][/us/stat/105/1870]; [Pub. L. 102–552, title III, § 308(b)(2)][/us/pl/102/552/s308/b/2], Oct. 28, 1992, [106 Stat. 4116][/us/stat/106/4116]; [Pub. L. 104–105, title I, § 111][/us/pl/104/105/s111], Feb. 10, 1996, [110 Stat. 165][/us/stat/110/165].)
+([Pub. L. 92–181, title VIII][/us/pl/92/181/tVIII], § 8.11, as added [Pub. L. 100–233, title VII][/us/pl/100/233/tVII], § 702, Jan. 6, 1988, [101 Stat. 1702][/us/stat/101/1702]; amended [Pub. L. 101–624, title XVIII][/us/pl/101/624/tXVIII], § 1840, Nov. 28, 1990, [104 Stat. 3835][/us/stat/104/3835]; [Pub. L. 102–237, title V][/us/pl/102/237/tV], § 503(a), Dec. 13, 1991, [105 Stat. 1870][/us/stat/105/1870]; [Pub. L. 102–552, title III][/us/pl/102/552/tIII], § 308(b)(2), Oct. 28, 1992, [106 Stat. 4116][/us/stat/106/4116]; [Pub. L. 104–105, title I][/us/pl/104/105/tI], § 111, Feb. 10, 1996, [110 Stat. 165][/us/stat/110/165].)
 
  __Amendments__ 
 
@@ -95,23 +95,23 @@
 
     1992—Subsec. (a)(1)(B)(ii). [Pub. L. 102–552][/us/pl/102/552] substituted “December 13, 1991” for “the date of enactment of this section”.
 
-    1991—Subsec. (a)(1). [Pub. L. 102–237, § 503(a)(1)][/us/pl/102/237/s503/a/1], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Notwithstanding any other provision of this chapter, the Farm Credit Administration shall have the authority to—
+    1991—Subsec. (a)(1). [Pub. L. 102–237][/us/pl/102/237], § 503(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Notwithstanding any other provision of this chapter, the Farm Credit Administration shall have the authority to—
 
     “(A) provide for the examination of the condition of the Corporation and its affiliates; and
 
     “(B) provide for the general supervision of the safe and sound performance of the powers, functions, and duties vested in the Corporation and its affiliates by this subchapter, including through the use of the enforcement powers of the Farm Credit Administration under part C of subchapter V of this chapter.”
 
-    Subsec. (a)(3). [Pub. L. 102–237, § 503(a)(2)][/us/pl/102/237/s503/a/2], added par. (3).
+    Subsec. (a)(3). [Pub. L. 102–237][/us/pl/102/237], § 503(a)(2), added par. (3).
 
-    Subsec. (f). [Pub. L. 102–237, § 503(a)(3)][/us/pl/102/237/s503/a/3], added subsec. (f).
+    Subsec. (f). [Pub. L. 102–237][/us/pl/102/237], § 503(a)(3), added subsec. (f).
 
-    1990—Subsec. (a)(1). [Pub. L. 101–624, § 1840(1)][/us/pl/101/624/s1840/1], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Notwithstanding any other provision of this chapter, the regulatory authority of the Farm Credit Administration with respect to the Corporation shall be confined to—
+    1990—Subsec. (a)(1). [Pub. L. 101–624][/us/pl/101/624], § 1840(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Notwithstanding any other provision of this chapter, the regulatory authority of the Farm Credit Administration with respect to the Corporation shall be confined to—
 
     “(A) providing for the examination of the condition of the Corporation; and
 
     “(B) providing for the general supervision of the safe and sound performance of the powers, functions, and duties vested in the Corporation by this subchapter, including through the use of the enforcement powers of the Farm Credit Administration under part C of subchapter V of this chapter.”
 
-    Subsec. (e). [Pub. L. 101–624, § 1840(2)][/us/pl/101/624/s1840/2], added subsec. (e).
+    Subsec. (e). [Pub. L. 101–624][/us/pl/101/624], § 1840(2), added subsec. (e).
 
 ----------
 
@@ -122,25 +122,25 @@
 
 [/us/usc/t12/s2252/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2252%2Fa%2F9
 [/us/usc/t12/s2279aa/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2279aa%2F7
-[/us/pl/92/181/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs8
-[/us/pl/100/233/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs702
+[/us/pl/92/181/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtVIII
+[/us/pl/100/233/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtVII
 [/us/stat/101/1702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1702
-[/us/pl/101/624/s1840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1840
+[/us/pl/101/624/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXVIII
 [/us/stat/104/3835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3835
-[/us/pl/102/237/s503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs503%2Fa
+[/us/pl/102/237/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtV
 [/us/stat/105/1870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1870
-[/us/pl/102/552/s308/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2Fs308%2Fb%2F2
+[/us/pl/102/552/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2FtIII
 [/us/stat/106/4116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4116
-[/us/pl/104/105/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2Fs111
+[/us/pl/104/105/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2FtI
 [/us/stat/110/165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F165
 [/us/pl/104/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105
 [/us/usc/t12/s2279aa/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2279aa%2F7
 [/us/usc/t12/s2279aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2279aa
 [/us/pl/102/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552
-[/us/pl/102/237/s503/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs503%2Fa%2F1
-[/us/pl/102/237/s503/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs503%2Fa%2F2
-[/us/pl/102/237/s503/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs503%2Fa%2F3
-[/us/pl/101/624/s1840/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1840%2F1
-[/us/pl/101/624/s1840/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1840%2F2
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 
 

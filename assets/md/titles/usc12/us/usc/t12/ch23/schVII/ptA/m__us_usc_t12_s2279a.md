@@ -25,7 +25,7 @@
 
     (4) in the case of a bank for cooperatives, a majority of the total equity interests in such merging bank for cooperatives (including allocated, but not unallocated, surplus and reserves) held by those stockholders or subscribers to the guaranty fund of the bank voting.
 
-([Pub. L. 92–181, title VII, § 7][/us/pl/92/181/s7].0, as added [Pub. L. 100–233, title IV, § 416][/us/pl/100/233/s416], Jan. 6, 1988, [101 Stat. 1645][/us/stat/101/1645]; amended [Pub. L. 100–399, title IV, § 408(b)][/us/pl/100/399/s408/b], Aug. 17, 1988, [102 Stat. 1001][/us/stat/102/1001].)
+([Pub. L. 92–181, title VII][/us/pl/92/181/tVII], § 7.0, as added [Pub. L. 100–233, title IV][/us/pl/100/233/tIV], § 416, Jan. 6, 1988, [101 Stat. 1645][/us/stat/101/1645]; amended [Pub. L. 100–399, title IV][/us/pl/100/399/tIV], § 408(b), Aug. 17, 1988, [102 Stat. 1001][/us/stat/102/1001].)
 
  __Amendments__ 
 
@@ -42,10 +42,10 @@
 ----------
 ----------
 
-[/us/pl/92/181/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs7
-[/us/pl/100/233/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs416
+[/us/pl/92/181/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtVII
+[/us/pl/100/233/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtIV
 [/us/stat/101/1645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1645
-[/us/pl/100/399/s408/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs408%2Fb
+[/us/pl/100/399/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtIV
 [/us/stat/102/1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1001
 [/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/usc/t12/s2223/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2223%2Fc

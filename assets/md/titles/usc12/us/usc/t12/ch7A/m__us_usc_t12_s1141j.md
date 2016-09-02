@@ -47,7 +47,7 @@
 
         As used in this chapter, the term “agricultural commodity” includes, in addition to other agricultural commodities, crude gum (oleoresin) from a living tree, and the following products as processed by the original producer of the crude gum (oleoresin) from which derived: Gum spirits of turpentine and gum rosin, as defined in [section 92 of title 7][/us/usc/t7/s92].
 
-([June 15, 1929, ch. 24, § 15][/us/act/1929-06-15/ch24/s15], [46 Stat. 18][/us/stat/46/18]; [Mar. 4, 1931, ch. 520, § 3][/us/act/1931-03-04/ch520/s3], [46 Stat. 1550][/us/stat/46/1550]; Ex. Ord. No. 6084, Mar. 27, 1933; [June 16, 1933, ch. 98][/us/act/1933-06-16/ch98], title V, § 55, [48 Stat. 266][/us/stat/48/266]; [June 3, 1935, ch. 164, § 12][/us/act/1935-06-03/ch164/s12], [49 Stat. 317][/us/stat/49/317]; [Pub. L. 110–234, title I, § 1610][/us/pl/110/234/s1610], May 22, 2008, [122 Stat. 1018][/us/stat/122/1018]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title I, § 1610, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1746.)
+([June 15, 1929, ch. 24][/us/act/1929-06-15/ch24], § 15, [46 Stat. 18][/us/stat/46/18]; [Mar. 4, 1931, ch. 520][/us/act/1931-03-04/ch520], § 3, [46 Stat. 1550][/us/stat/46/1550]; Ex. Ord. No. 6084, Mar. 27, 1933; [June 16, 1933, ch. 98][/us/act/1933-06-16/ch98], title V, § 55, [48 Stat. 266][/us/stat/48/266]; [June 3, 1935, ch. 164][/us/act/1935-06-03/ch164], § 12, [49 Stat. 317][/us/stat/49/317]; [Pub. L. 110–234, title I][/us/pl/110/234/tI], § 1610, May 22, 2008, [122 Stat. 1018][/us/stat/122/1018]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title I, § 1610, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1746.)
 
  __Codification__ 
 
@@ -57,7 +57,7 @@
 
  __Amendments__ 
 
-    2008—Subsecs. (d) to (g). [Pub. L. 110–246, § 1610][/us/pl/110/246/s1610], redesignated subsecs. (e) to (g) as (d) to (f), respectively, and struck out former subsec. (d) which read as follows: “The inclusion in any governmental report, bulletin, or other such publication hereafter issued or published of any prediction with respect to cotton prices is prohibited. Any officer or employee of the United States who authorizes or is responsible for the inclusion in any such report, bulletin, or other publication of any such prediction, or who knowingly causes the issuance or publication of any such report, bulletin, or other publication containing any such prediction, shall, upon conviction thereof, be fined not less than $500 or more than $5,000, or imprisoned for not more than five years, or both: Provided, That this subdivision shall not apply to the Governor of the Farm Credit Administration when engaged in the performance of his duties herein provided.”
+    2008—Subsecs. (d) to (g). [Pub. L. 110–246][/us/pl/110/246], § 1610, redesignated subsecs. (e) to (g) as (d) to (f), respectively, and struck out former subsec. (d) which read as follows: “The inclusion in any governmental report, bulletin, or other such publication hereafter issued or published of any prediction with respect to cotton prices is prohibited. Any officer or employee of the United States who authorizes or is responsible for the inclusion in any such report, bulletin, or other publication of any such prediction, or who knowingly causes the issuance or publication of any such report, bulletin, or other publication containing any such prediction, shall, upon conviction thereof, be fined not less than $500 or more than $5,000, or imprisoned for not more than five years, or both: Provided, That this subdivision shall not apply to the Governor of the Farm Credit Administration when engaged in the performance of his duties herein provided.”
 
     1935—Subsec. (a). Act June 3, 1935, amended definition of cooperative association and inserted second sentence in par. “Third”.
 
@@ -89,24 +89,24 @@
 ----------
 
 [/us/usc/t7/s92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs92
-[/us/act/1929-06-15/ch24/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-06-15%2Fch24%2Fs15
+[/us/act/1929-06-15/ch24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-06-15%2Fch24
 [/us/stat/46/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F18
-[/us/act/1931-03-04/ch520/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1931-03-04%2Fch520%2Fs3
+[/us/act/1931-03-04/ch520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1931-03-04%2Fch520
 [/us/stat/46/1550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F1550
 [/us/act/1933-06-16/ch98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-16%2Fch98
 [/us/stat/48/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F266
-[/us/act/1935-06-03/ch164/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-06-03%2Fch164%2Fs12
+[/us/act/1935-06-03/ch164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-06-03%2Fch164
 [/us/stat/49/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F317
-[/us/pl/110/234/s1610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs1610
+[/us/pl/110/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtI
 [/us/stat/122/1018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1018
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/usc/t7/s535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs535
-[/us/pl/110/246/s1610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs1610
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/usc/t12/s2241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2241
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

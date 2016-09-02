@@ -17,7 +17,7 @@
 
     The organization of reserve districts and Federal reserve cities shall not be construed as changing the present status of reserve cities except in so far as this chapter changes the amount of reserves that may be carried with approved reserve agents located therein.
 
-([Dec. 23, 1913, ch. 6, § 2][/us/act/1913-12-23/ch6/s2] (part), [38 Stat. 253][/us/stat/38/253]; [Pub. L. 86–114, § 3(b)(5)][/us/pl/86/114/s3/b/5], July 28, 1959, [73 Stat. 264][/us/stat/73/264].)
+([Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 2 (part), [38 Stat. 253][/us/stat/38/253]; [Pub. L. 86–114][/us/pl/86/114], § 3(b)(5), July 28, 1959, [73 Stat. 264][/us/stat/73/264].)
 
  __References in Text__ 
 
@@ -46,9 +46,9 @@
 ----------
 ----------
 
-[/us/act/1913-12-23/ch6/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs2
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
 [/us/stat/38/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F253
-[/us/pl/86/114/s3/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F114%2Fs3%2Fb%2F5
+[/us/pl/86/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F114
 [/us/stat/73/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F264
 [/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
 [/us/stat/38/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F251

@@ -13,7 +13,7 @@
 
 [Previous](./../../../../..//us/usc/t12/ch3/schII/m__us_usc_t12_s248b.md) | [Next](./../../../../..//us/usc/t12/ch3/schII/m__us_usc_t12_s250.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs249)
 
-## § 249. Repealed. [Pub. L. 94–412, title V, § 501(c)][/us/pl/94/412/s501/c], Sept. 14, 1976, [90 Stat. 1258][/us/stat/90/1258]
+## § 249. Repealed. [Pub. L. 94–412, title V][/us/pl/94/412/tV], § 501(c), Sept. 14, 1976, [90 Stat. 1258][/us/stat/90/1258]
 
     Section, [act Aug. 8, 1947, ch. 517][/us/act/1947-08-08/ch517], [61 Stat. 921][/us/stat/61/921], dealt with regulation of consumer credit.
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/94/412/s501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F412%2Fs501%2Fc
+[/us/pl/94/412/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F412%2FtV
 [/us/stat/90/1258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1258
 [/us/act/1947-08-08/ch517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-08-08%2Fch517
 [/us/stat/61/921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F921

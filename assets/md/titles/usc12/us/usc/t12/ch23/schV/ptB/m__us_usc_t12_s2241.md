@@ -17,7 +17,7 @@
 
     The Farm Credit Administration shall be an independent agency in the executive branch of the Government. It shall be composed of the Farm Credit Administration Board and such other personnel as are employed in carrying out the functions, powers, and duties vested in the Farm Credit Administration by this chapter.
 
-([Pub. L. 92–181, title V, § 5][/us/pl/92/181/s5].7, Dec. 10, 1971, [85 Stat. 617][/us/stat/85/617]; [Pub. L. 99–205, title II, § 201(1)][/us/pl/99/205/s201/1], Dec. 23, 1985, [99 Stat. 1688][/us/stat/99/1688].)
+([Pub. L. 92–181, title V][/us/pl/92/181/tV], § 5.7, Dec. 10, 1971, [85 Stat. 617][/us/stat/85/617]; [Pub. L. 99–205, title II][/us/pl/99/205/tII], § 201(1), Dec. 23, 1985, [99 Stat. 1688][/us/stat/99/1688].)
 
  __Amendments__ 
 
@@ -29,7 +29,7 @@
 
  __Interim Implementation of 1985 Amendment__ 
 
-[Pub. L. 99–205, title IV, § 402][/us/pl/99/205/s402], Dec. 23, 1985, [99 Stat. 1709][/us/stat/99/1709], provided that:
+[Pub. L. 99–205, title IV][/us/pl/99/205/tIV], § 402, Dec. 23, 1985, [99 Stat. 1709][/us/stat/99/1709], provided that:
 
 >     “(a) Until the Chairman of the Farm Credit Administration Board provided for under the amendment made by section 201(1) of this Act \[see [section 2242 of this title][/us/usc/t12/s2242]\] is appointed by the President and confirmed by the Senate, the Governor of the Farm Credit Administration, under the Farm Credit Act of 1971 \[this chapter\] as in effect on the day before the date of enactment of this Act \[Dec. 23, 1985\], shall perform the functions of the Chairman prescribed for the Chairman by this Act \[[Pub. L. 99–205][/us/pl/99/205], see Short Title of 1985 Amendment note set out under [section 2001 of this title][/us/usc/t12/s2001]\].
 
@@ -50,15 +50,15 @@
 ----------
 ----------
 
-[/us/pl/92/181/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs5
+[/us/pl/92/181/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtV
 [/us/stat/85/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F617
-[/us/pl/99/205/s201/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2Fs201%2F1
+[/us/pl/99/205/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2FtII
 [/us/stat/99/1688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1688
 [/us/pl/99/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205
 [/us/pl/99/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205
 [/us/pl/99/205/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2Fs401
 [/us/usc/t12/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2001
-[/us/pl/99/205/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2Fs402
+[/us/pl/99/205/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2FtIV
 [/us/stat/99/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1709
 [/us/usc/t12/s2242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2242
 [/us/pl/99/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205

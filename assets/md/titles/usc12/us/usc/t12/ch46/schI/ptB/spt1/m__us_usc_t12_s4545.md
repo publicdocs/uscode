@@ -29,13 +29,13 @@
 
     (6) periodically review and comment on the underwriting and appraisal guidelines of each enterprise to ensure that such guidelines are consistent with the Fair Housing Act and this section.
 
-([Pub. L. 102–550, title XIII, § 1325][/us/pl/102/550/s1325], Oct. 28, 1992, [106 Stat. 3955][/us/stat/106/3955]; [Pub. L. 110–289, div. A, title I, § 1122(b)][/us/pl/110/289/s1122/b], July 30, 2008, [122 Stat. 2689][/us/stat/122/2689].)
+([Pub. L. 102–550, title XIII][/us/pl/102/550/tXIII], § 1325, Oct. 28, 1992, [106 Stat. 3955][/us/stat/106/3955]; [Pub. L. 110–289, div. A, title I][/us/pl/110/289/dA/tI], § 1122(b), July 30, 2008, [122 Stat. 2689][/us/stat/122/2689].)
 
  __References in Text__ 
 
     The Fair Housing Act, referred to in pars. (2) and (4) to (6), is title VIII of [Pub. L. 90–284][/us/pl/90/284], Apr. 11, 1968, [82 Stat. 81][/us/stat/82/81], as amended, which is classified principally to subchapter I (§ 3601 et seq.) of chapter 45 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 3601 of Title 42][/us/usc/t42/s3601] and Tables.
 
-    The Equal Credit Opportunity Act, referred to in pars. (3) to (5), is title VII of [Pub. L. 90–321][/us/pl/90/321], as added by [Pub. L. 93–495, title V, § 503][/us/pl/93/495/s503], Oct. 28, 1974, [88 Stat. 1521][/us/stat/88/1521], as amended, which is classified generally to subchapter IV (§ 1691 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 15][/us/usc/t15/s1601] and Tables.
+    The Equal Credit Opportunity Act, referred to in pars. (3) to (5), is title VII of [Pub. L. 90–321][/us/pl/90/321], as added by [Pub. L. 93–495, title V][/us/pl/93/495/tV], § 503, Oct. 28, 1974, [88 Stat. 1521][/us/stat/88/1521], as amended, which is classified generally to subchapter IV (§ 1691 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 15][/us/usc/t15/s1601] and Tables.
 
  __Amendments__ 
 
@@ -51,15 +51,15 @@
 [/us/usc/t42/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3601
 [/us/usc/t15/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1691
 [/us/usc/t15/s1691c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1691c
-[/us/pl/102/550/s1325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1325
+[/us/pl/102/550/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIII
 [/us/stat/106/3955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3955
-[/us/pl/110/289/s1122/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1122%2Fb
+[/us/pl/110/289/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtI
 [/us/stat/122/2689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2689
 [/us/pl/90/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284
 [/us/stat/82/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F81
 [/us/usc/t42/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3601
 [/us/pl/90/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321
-[/us/pl/93/495/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2Fs503
+[/us/pl/93/495/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2FtV
 [/us/stat/88/1521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1521
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601
 [/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289

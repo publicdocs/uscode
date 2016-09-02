@@ -49,7 +49,7 @@
 
         The term “State” means the States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, the Virgin Islands, American Samoa, the Trust Territory of the Pacific Islands, and any other territory or possession of the United States.
 
-([Pub. L. 92–181, title VIII, § 8][/us/pl/92/181/s8].31, as added [Pub. L. 102–237, title V, § 503(b)(2)][/us/pl/102/237/s503/b/2], Dec. 13, 1991, [105 Stat. 1871][/us/stat/105/1871].)
+([Pub. L. 92–181, title VIII][/us/pl/92/181/tVIII], § 8.31, as added [Pub. L. 102–237, title V][/us/pl/102/237/tV], § 503(b)(2), Dec. 13, 1991, [105 Stat. 1871][/us/stat/105/1871].)
 
  __Termination of Trust Territory of the Pacific Islands__ 
 
@@ -64,8 +64,8 @@
 
 [/us/usc/t12/s2279aa–11/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2279aa%E2%80%9311%2Fa%2F3
 [/us/usc/t12/s2279aa–11/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2279aa%E2%80%9311%2Fa
-[/us/pl/92/181/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs8
-[/us/pl/102/237/s503/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs503%2Fb%2F2
+[/us/pl/92/181/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtVIII
+[/us/pl/102/237/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtV
 [/us/stat/105/1871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1871
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
 

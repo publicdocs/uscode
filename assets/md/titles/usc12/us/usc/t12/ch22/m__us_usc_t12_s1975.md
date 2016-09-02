@@ -17,7 +17,7 @@
 
     Any person who is injured in his business or property by reason of anything forbidden in [section 1972 of this title][/us/usc/t12/s1972] may sue therefor in any district court of the United States in which the defendant resides or is found or has an agent, without regard to the amount in controversy, and shall be entitled to recover three times the amount of the damages sustained by him, and the cost of suit, including a reasonable attorney’s fee.
 
-([Pub. L. 91–607, title I, § 106(e)][/us/pl/91/607/s106/e], Dec. 31, 1970, [84 Stat. 1767][/us/stat/84/1767].)
+([Pub. L. 91–607, title I][/us/pl/91/607/tI], § 106(e), Dec. 31, 1970, [84 Stat. 1767][/us/stat/84/1767].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t12/s1972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1972
-[/us/pl/91/607/s106/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F607%2Fs106%2Fe
+[/us/pl/91/607/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F607%2FtI
 [/us/stat/84/1767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1767
 
 

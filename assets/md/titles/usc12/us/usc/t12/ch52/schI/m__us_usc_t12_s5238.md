@@ -35,7 +35,7 @@
 
         The Securities and Exchange Commission shall submit to Congress a report of such study before the end of the 90-day period beginning on October 3, 2008, containing the findings and determinations of the Commission, including such administrative and legislative recommendations as the Commission determines appropriate.
 
-([Pub. L. 110–343, div. A, title I, § 133][/us/pl/110/343/s133], Oct. 3, 2008, [122 Stat. 3798][/us/stat/122/3798].)
+([Pub. L. 110–343, div. A, title I][/us/pl/110/343/dA/tI], § 133, Oct. 3, 2008, [122 Stat. 3798][/us/stat/122/3798].)
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/110/343/s133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs133
+[/us/pl/110/343/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdA%2FtI
 [/us/stat/122/3798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3798
 
 

@@ -17,7 +17,7 @@
 
     National banks, or banks organized under local laws, located in a dependency or insular possession or any part of the United States outside the continental United States, may remain nonmember banks, and shall in that event maintain reserves and comply with all the conditions now provided by law regulating them; or said banks may with the consent of the Board of Governors of the Federal Reserve System, become member banks of any one of the reserve districts, and shall in that event take stock, maintain reserves, and be subject to all the other provisions of this chapter.
 
-([Dec. 23, 1913, ch. 6, § 19(h)][/us/act/1913-12-23/ch6/s19/h], formerly § 19 (par. 11), [38 Stat. 270][/us/stat/38/270]; [Aug. 15, 1914, ch. 252][/us/act/1914-08-15/ch252], [38 Stat. 692][/us/stat/38/692]; [June 21, 1917, ch. 32, § 10][/us/act/1917-06-21/ch32/s10], [40 Stat. 240][/us/stat/40/240]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 203(a), [49 Stat. 704][/us/stat/49/704]; [Pub. L. 86–70, § 8(b)][/us/pl/86/70/s8/b], June 25, 1959, [73 Stat. 142][/us/stat/73/142]; renumbered § 19(h), [Pub. L. 89–597, § 2(b)][/us/pl/89/597/s2/b], Sept. 21, 1966, [80 Stat. 824][/us/stat/80/824].)
+([Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 19(h), formerly § 19 (par. 11), [38 Stat. 270][/us/stat/38/270]; [Aug. 15, 1914, ch. 252][/us/act/1914-08-15/ch252], [38 Stat. 692][/us/stat/38/692]; [June 21, 1917, ch. 32][/us/act/1917-06-21/ch32], § 10, [40 Stat. 240][/us/stat/40/240]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 203(a), [49 Stat. 704][/us/stat/49/704]; [Pub. L. 86–70][/us/pl/86/70], § 8(b), June 25, 1959, [73 Stat. 142][/us/stat/73/142]; renumbered § 19(h), [Pub. L. 89–597][/us/pl/89/597], § 2(b), Sept. 21, 1966, [80 Stat. 824][/us/stat/80/824].)
 
  __References in Text__ 
 
@@ -42,17 +42,17 @@
 ----------
 ----------
 
-[/us/act/1913-12-23/ch6/s19/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs19%2Fh
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
 [/us/stat/38/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F270
 [/us/act/1914-08-15/ch252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-08-15%2Fch252
 [/us/stat/38/692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F692
-[/us/act/1917-06-21/ch32/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-21%2Fch32%2Fs10
+[/us/act/1917-06-21/ch32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-21%2Fch32
 [/us/stat/40/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F240
 [/us/act/1935-08-23/ch614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch614
 [/us/stat/49/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F704
-[/us/pl/86/70/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70%2Fs8%2Fb
+[/us/pl/86/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70
 [/us/stat/73/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F142
-[/us/pl/89/597/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F597%2Fs2%2Fb
+[/us/pl/89/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F597
 [/us/stat/80/824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F824
 [/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
 [/us/stat/38/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F251

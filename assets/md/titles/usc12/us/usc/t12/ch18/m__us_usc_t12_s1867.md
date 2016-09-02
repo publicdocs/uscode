@@ -35,21 +35,21 @@
 
         The Board and the appropriate Federal banking agencies are authorized to issue such regulations and orders as may be necessary to enable them to administer and to carry out the purposes of this chapter and to prevent evasions thereof.
 
-([Pub. L. 87–856, § 7][/us/pl/87/856/s7], Oct. 23, 1962, as added [Pub. L. 97–320, title VII, § 709][/us/pl/97/320/s709], Oct. 15, 1982, [96 Stat. 1543][/us/stat/96/1543]; amended [Pub. L. 97–457, § 32(b)(1)][/us/pl/97/457/s32/b/1], Jan. 12, 1983, [96 Stat. 2511][/us/stat/96/2511]; [Pub. L. 104–208, div. A, title II, § 2613(h)][/us/pl/104/208/s2613/h], Sept. 30, 1996, [110 Stat. 3009–478][/us/stat/110/3009-478]; [Pub. L. 109–351, title VI, § 602(b)(5)][/us/pl/109/351/s602/b/5], Oct. 13, 2006, [120 Stat. 1980][/us/stat/120/1980]; [Pub. L. 111–203, title III, § 357(3)][/us/pl/111/203/s357/3], July 21, 2010, [124 Stat. 1548][/us/stat/124/1548].)
+([Pub. L. 87–856][/us/pl/87/856], § 7, Oct. 23, 1962, as added [Pub. L. 97–320, title VII][/us/pl/97/320/tVII], § 709, Oct. 15, 1982, [96 Stat. 1543][/us/stat/96/1543]; amended [Pub. L. 97–457][/us/pl/97/457], § 32(b)(1), Jan. 12, 1983, [96 Stat. 2511][/us/stat/96/2511]; [Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], § 2613(h), Sept. 30, 1996, [110 Stat. 3009–478][/us/stat/110/3009-478]; [Pub. L. 109–351, title VI][/us/pl/109/351/tVI], § 602(b)(5), Oct. 13, 2006, [120 Stat. 1980][/us/stat/120/1980]; [Pub. L. 111–203, title III][/us/pl/111/203/tIII], § 357(3), July 21, 2010, [124 Stat. 1548][/us/stat/124/1548].)
 
  __Amendments__ 
 
     2010—Subsec. (c)(2). [Pub. L. 111–203][/us/pl/111/203] inserted “each” after “notify”.
 
-    2006—Subsec. (b). [Pub. L. 109–351, § 602(b)(5)(A)][/us/pl/109/351/s602/b/5/A], substituted “insured depository institution” for “insured bank”.
+    2006—Subsec. (b). [Pub. L. 109–351][/us/pl/109/351], § 602(b)(5)(A), substituted “insured depository institution” for “insured bank”.
 
-    Subsec. (c). [Pub. L. 109–351, § 602(b)(5)(B)][/us/pl/109/351/s602/b/5/B], substituted “a depository institution” for “a bank” in two places in introductory provisions and “the depository institution” for “the bank” in pars. (1) and (2).
+    Subsec. (c). [Pub. L. 109–351][/us/pl/109/351], § 602(b)(5)(B), substituted “a depository institution” for “a bank” in two places in introductory provisions and “the depository institution” for “the bank” in pars. (1) and (2).
 
-    1996—[Pub. L. 104–208, § 2613(h)(3)][/us/pl/104/208/s2613/h/3], substituted “companies” for “corporations” in section catchline.
+    1996—[Pub. L. 104–208][/us/pl/104/208], § 2613(h)(3), substituted “companies” for “corporations” in section catchline.
 
-    Subsec. (a). [Pub. L. 104–208, § 2613(h)(1)][/us/pl/104/208/s2613/h/1], (2), substituted “company” for “corporation” wherever appearing and inserted “or principal member” after “principal shareholder” and “or member” after “other shareholder”.
+    Subsec. (a). [Pub. L. 104–208][/us/pl/104/208], § 2613(h)(1), (2), substituted “company” for “corporation” wherever appearing and inserted “or principal member” after “principal shareholder” and “or member” after “other shareholder”.
 
-    Subsec. (b). [Pub. L. 104–208, § 2613(h)(1)][/us/pl/104/208/s2613/h/1], substituted “company” for “corporation” wherever appearing.
+    Subsec. (b). [Pub. L. 104–208][/us/pl/104/208], § 2613(h)(1), substituted “company” for “corporation” wherever appearing.
 
     1983—Subsec. (b). [Pub. L. 97–457][/us/pl/97/457] substituted reference to [section 1818 of this title][/us/usc/t12/s1818] for reference to the Financial Institutions Supervisory Act of 1966 ([12 U.S.C. 1818(b)][/us/usc/t12/s1818/b] et seq.).
 
@@ -66,23 +66,23 @@
 
 [/us/usc/t12/s1818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1818
 [/us/usc/t12/s1818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1818
-[/us/pl/87/856/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F856%2Fs7
-[/us/pl/97/320/s709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs709
+[/us/pl/87/856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F856
+[/us/pl/97/320/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2FtVII
 [/us/stat/96/1543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1543
-[/us/pl/97/457/s32/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F457%2Fs32%2Fb%2F1
+[/us/pl/97/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F457
 [/us/stat/96/2511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2511
-[/us/pl/104/208/s2613/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2613%2Fh
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-478
-[/us/pl/109/351/s602/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs602%2Fb%2F5
+[/us/pl/109/351/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2FtVI
 [/us/stat/120/1980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1980
-[/us/pl/111/203/s357/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs357%2F3
+[/us/pl/111/203/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIII
 [/us/stat/124/1548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1548
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
-[/us/pl/109/351/s602/b/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs602%2Fb%2F5%2FA
-[/us/pl/109/351/s602/b/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs602%2Fb%2F5%2FB
-[/us/pl/104/208/s2613/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2613%2Fh%2F3
-[/us/pl/104/208/s2613/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2613%2Fh%2F1
-[/us/pl/104/208/s2613/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2613%2Fh%2F1
+[/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
+[/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/97/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F457
 [/us/usc/t12/s1818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1818
 [/us/usc/t12/s1818/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1818%2Fb

@@ -17,7 +17,7 @@
 
     This title, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  and regulations, orders, guidance, and interpretations prescribed, issued, or established by the Bureau, shall not be construed to alter or affect the applicability of any regulation, order, guidance, or interpretation prescribed, issued, and established by the Comptroller of the Currency or the Director of the Office of Thrift Supervision regarding the applicability of State law under Federal banking law to any contract entered into on or before July 21, 2010, by national banks, Federal savings associations, or subsidiaries thereof that are regulated and supervised by the Comptroller of the Currency or the Director of the Office of Thrift Supervision, respectively.
 
-([Pub. L. 111–203, title X, § 1043][/us/pl/111/203/s1043], July 21, 2010, [124 Stat. 2014][/us/stat/124/2014].)
+([Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1043, July 21, 2010, [124 Stat. 2014][/us/stat/124/2014].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/111/203/s1043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1043
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2014
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1955

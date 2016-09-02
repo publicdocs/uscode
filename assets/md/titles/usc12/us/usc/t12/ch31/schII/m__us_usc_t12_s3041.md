@@ -19,7 +19,7 @@
 
     (b) The Office shall have a Director who shall be appointed by the President, with the advice and consent of the Senate, and who shall not be a member of the Board. Subject to review by the Board, the Director shall promulgate and publish in the Federal Register policies and procedures governing the operation of the Office.
 
-([Pub. L. 95–351, title II, § 201][/us/pl/95/351/s201], Aug. 20, 1978, [92 Stat. 511][/us/stat/92/511].)
+([Pub. L. 95–351, title II][/us/pl/95/351/tII], § 201, Aug. 20, 1978, [92 Stat. 511][/us/stat/92/511].)
 
  __Abolition of Office and Performance of Functions__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/95/351/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F351%2Fs201
+[/us/pl/95/351/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F351%2FtII
 [/us/stat/92/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F511
 [/us/usc/t12/s3051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3051
 

@@ -55,7 +55,7 @@
 
             A decision of the subcommittee under this section shall be subject to judicial review.
 
-([Pub. L. 101–73, title XI, § 1118][/us/pl/101/73/s1118], Aug. 9, 1989, [103 Stat. 515][/us/stat/103/515]; [Pub. L. 111–203, title XIV, § 1473(k)][/us/pl/111/203/s1473/k], July 21, 2010, [124 Stat. 2196][/us/stat/124/2196].)
+([Pub. L. 101–73, title XI][/us/pl/101/73/tXI], § 1118, Aug. 9, 1989, [103 Stat. 515][/us/stat/103/515]; [Pub. L. 111–203, title XIV][/us/pl/111/203/tXIV], § 1473(k), July 21, 2010, [124 Stat. 2196][/us/stat/124/2196].)
 
  __References in Text__ 
 
@@ -63,9 +63,9 @@
 
  __Amendments__ 
 
-    2010—Subsec. (a). [Pub. L. 111–203, § 1473(k)(1)][/us/pl/111/203/s1473/k/1], amended subsec. (a) generally. Prior to amendment, text read as follows: “The Appraisal Subcommittee shall monitor State appraiser certifying and licensing agencies for the purpose of determining whether a State agency’s policies, practices, and procedures are consistent with this chapter. The Appraisal Subcommittee and all agencies, instrumentalities, and federally recognized entities under this chapter shall not recognize appraiser certifications and licenses from States whose appraisal policies, practices, or procedures are found to be inconsistent with this chapter.”
+    2010—Subsec. (a). [Pub. L. 111–203][/us/pl/111/203], § 1473(k)(1), amended subsec. (a) generally. Prior to amendment, text read as follows: “The Appraisal Subcommittee shall monitor State appraiser certifying and licensing agencies for the purpose of determining whether a State agency’s policies, practices, and procedures are consistent with this chapter. The Appraisal Subcommittee and all agencies, instrumentalities, and federally recognized entities under this chapter shall not recognize appraiser certifications and licenses from States whose appraisal policies, practices, or procedures are found to be inconsistent with this chapter.”
 
-    Subsec. (b)(2). [Pub. L. 111–203, § 1473(k)(2)][/us/pl/111/203/s1473/k/2], inserted “or sufficient funding” after “authority”.
+    Subsec. (b)(2). [Pub. L. 111–203][/us/pl/111/203], § 1473(k)(2), inserted “or sufficient funding” after “authority”.
 
  __Effective Date of 2010 Amendment__ 
 
@@ -78,13 +78,13 @@
 ----------
 ----------
 
-[/us/pl/101/73/s1118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs1118
+[/us/pl/101/73/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtXI
 [/us/stat/103/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F515
-[/us/pl/111/203/s1473/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1473%2Fk
+[/us/pl/111/203/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtXIV
 [/us/stat/124/2196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2196
 [/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
-[/us/pl/111/203/s1473/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1473%2Fk%2F1
-[/us/pl/111/203/s1473/k/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1473%2Fk%2F2
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s1400/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1400%2Fc
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601

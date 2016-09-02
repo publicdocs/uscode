@@ -17,11 +17,11 @@
 
     The president of the bank shall be a member of the board and shall be the chairman thereof, but the board may designate a director in lieu of the president to be chairman of the board, who shall perform such duties as may be designated by the board.
 
-(R.S. § 5150; [Feb. 25, 1927, ch. 191, § 6][/us/act/1927-02-25/ch191/s6], [44 Stat. 1228][/us/stat/44/1228].)
+(R.S. § 5150; [Feb. 25, 1927, ch. 191][/us/act/1927-02-25/ch191], § 6, [44 Stat. 1228][/us/stat/44/1228].)
 
  __Codification__ 
 
-    R.S. § 5150 derived from [act June 3, 1864, ch. 106, § 9][/us/act/1864-06-03/ch106/s9], [13 Stat. 102][/us/stat/13/102], which was the National Bank Act. See [section 38 of this title][/us/usc/t12/s38].
+    R.S. § 5150 derived from [act June 3, 1864, ch. 106][/us/act/1864-06-03/ch106], § 9, [13 Stat. 102][/us/stat/13/102], which was the National Bank Act. See [section 38 of this title][/us/usc/t12/s38].
 
  __Amendments__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/act/1927-02-25/ch191/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-25%2Fch191%2Fs6
+[/us/act/1927-02-25/ch191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-25%2Fch191
 [/us/stat/44/1228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1228
-[/us/act/1864-06-03/ch106/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-06-03%2Fch106%2Fs9
+[/us/act/1864-06-03/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-06-03%2Fch106
 [/us/stat/13/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F13%2F102
 [/us/usc/t12/s38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs38
 

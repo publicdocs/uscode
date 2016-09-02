@@ -23,7 +23,7 @@
 
         Any regulated entity that, in good faith, makes a report pursuant to subsection (a), and any entity-affiliated party, that, in good faith, makes or requires another to make any such report, shall not be liable to any person under any provision of law or regulation, any constitution, law, or regulation of any State or political subdivision of any State, or under any contract or other legally enforceable agreement (including any arbitration agreement) for such report or for any failure to provide notice of such report to the person who is the subject of such report or any other persons identified in the report.
 
-([Pub. L. 102–550, title XIII, § 1379E][/us/pl/102/550/s1379E], as added [Pub. L. 110–289, div. A, title I, § 1115][/us/pl/110/289/s1115], July 30, 2008, [122 Stat. 2681][/us/stat/122/2681].)
+([Pub. L. 102–550, title XIII][/us/pl/102/550/tXIII], § 1379E, as added [Pub. L. 110–289, div. A, title I][/us/pl/110/289/dA/tI], § 1115, July 30, 2008, [122 Stat. 2681][/us/stat/122/2681].)
 
 ----------
 
@@ -32,8 +32,8 @@
 ----------
 ----------
 
-[/us/pl/102/550/s1379E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1379E
-[/us/pl/110/289/s1115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1115
+[/us/pl/102/550/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIII
+[/us/pl/110/289/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtI
 [/us/stat/122/2681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2681
 
 

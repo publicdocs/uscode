@@ -23,7 +23,7 @@
 
         If the rate prescribed in subsection (a) exceeds the rate such State bank or such insured branch of a foreign bank would be permitted to charge in the absence of this section, and such State fixed rate is thereby preempted by the rate described in subsection (a), the taking, receiving, reserving, or charging a greater rate of interest than is allowed by subsection (a), when knowingly done, shall be deemed a forfeiture of the entire interest which the note, bill, or other evidence of debt carries with it, or which has been agreed to be paid thereon. If such greater rate of interest has been paid, the person who paid it may recover in a civil action commenced in a court of appropriate jurisdiction not later than two years after the date of such payment, an amount equal to twice the amount of the interest paid from such State bank or such insured branch of a foreign bank taking, receiving, reserving, or charging such interest.
 
-([Sept. 21, 1950, ch. 967, § 2][/us/act/1950-09-21/ch967/s2]\[27\], as added [Pub. L. 96–221, title V, § 521][/us/pl/96/221/s521], Mar. 31, 1980, [94 Stat. 164][/us/stat/94/164]; amended [Pub. L. 100–86, title I, § 101(g)(2)][/us/pl/100/86/s101/g/2], Aug. 10, 1987, [101 Stat. 563][/us/stat/101/563]; [Pub. L. 101–73, title II, § 201(a)][/us/pl/101/73/s201/a], Aug. 9, 1989, [103 Stat. 187][/us/stat/103/187].)
+([Sept. 21, 1950, ch. 967][/us/act/1950-09-21/ch967], § 2\[27\], as added [Pub. L. 96–221, title V][/us/pl/96/221/tV], § 521, Mar. 31, 1980, [94 Stat. 164][/us/stat/94/164]; amended [Pub. L. 100–86, title I][/us/pl/100/86/tI], § 101(g)(2), Aug. 10, 1987, [101 Stat. 563][/us/stat/101/563]; [Pub. L. 101–73, title II][/us/pl/101/73/tII], § 201(a), Aug. 9, 1989, [103 Stat. 187][/us/stat/103/187].)
 
  __Prior Provisions__ 
 
@@ -54,12 +54,12 @@
 ----------
 ----------
 
-[/us/act/1950-09-21/ch967/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967%2Fs2
-[/us/pl/96/221/s521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs521
+[/us/act/1950-09-21/ch967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967
+[/us/pl/96/221/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2FtV
 [/us/stat/94/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F164
-[/us/pl/100/86/s101/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2Fs101%2Fg%2F2
+[/us/pl/100/86/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2FtI
 [/us/stat/101/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F563
-[/us/pl/101/73/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs201%2Fa
+[/us/pl/101/73/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtII
 [/us/stat/103/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F187
 [/us/usc/t12/s1831a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1831a
 [/us/pl/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221

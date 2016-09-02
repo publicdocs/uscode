@@ -23,7 +23,7 @@
 
         The Appraisal Subcommittee shall meet in public session after notice in the Federal Register, but may close certain portions of these meetings related to personnel and review of preliminary State audit reports, at the call of the Chairperson or a majority of its members when there is business to be conducted. A majority of members of the Appraisal Subcommittee shall constitute a quorum but 2 or more members may hold hearings. Decisions of the Appraisal Subcommittee shall be made by the vote of a majority of its members. The subject matter discussed in any closed or executive session shall be described in the Federal Register notice of the meeting.
 
-([Pub. L. 101–73, title XI, § 1104][/us/pl/101/73/s1104], Aug. 9, 1989, [103 Stat. 512][/us/stat/103/512]; [Pub. L. 111–203, title XIV, § 1473(c)][/us/pl/111/203/s1473/c], July 21, 2010, [124 Stat. 2191][/us/stat/124/2191].)
+([Pub. L. 101–73, title XI][/us/pl/101/73/tXI], § 1104, Aug. 9, 1989, [103 Stat. 512][/us/stat/103/512]; [Pub. L. 111–203, title XIV][/us/pl/111/203/tXIV], § 1473(c), July 21, 2010, [124 Stat. 2191][/us/stat/124/2191].)
 
  __Amendments__ 
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/101/73/s1104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs1104
+[/us/pl/101/73/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtXI
 [/us/stat/103/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F512
-[/us/pl/111/203/s1473/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1473%2Fc
+[/us/pl/111/203/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtXIV
 [/us/stat/124/2191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2191
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203

@@ -43,7 +43,7 @@
 
         (2) As soon as practicable after August 13, 1981, the Board shall adopt bylaws which will assist in expediting and coordinating the activities which will occur with respect to the Final Government Equity Redemption Date.
 
-([Pub. L. 95–351, title I, § 116][/us/pl/95/351/s116], as added [Pub. L. 97–35, title III, § 391(a)(1)][/us/pl/97/35/s391/a/1], Aug. 13, 1981, [95 Stat. 433][/us/stat/95/433].)
+([Pub. L. 95–351, title I][/us/pl/95/351/tI], § 116, as added [Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 391(a)(1), Aug. 13, 1981, [95 Stat. 433][/us/stat/95/433].)
 
  __References in Text__ 
 
@@ -51,13 +51,13 @@
 
  __Effective Date__ 
 
-[Pub. L. 97–35, title III, § 391(a)(2)][/us/pl/97/35/s391/a/2], Aug. 13, 1981, [95 Stat. 434][/us/stat/95/434], provided that: 
+[Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 391(a)(2), Aug. 13, 1981, [95 Stat. 434][/us/stat/95/434], provided that: 
 
 > “The amendment made by paragraph (1) \[enacting this section\] shall take effect on the date of the enactment of this Act \[Aug. 13, 1981\].”
 
  __Final Government Equity Redemption Date Established__ 
 
-[Pub. L. 97–101, title V, § 501(36)][/us/pl/97/101/s501/36], Dec. 23, 1981, [95 Stat. 1440][/us/stat/95/1440], provided in part that: 
+[Pub. L. 97–101, title V][/us/pl/97/101/tV], § 501(36), Dec. 23, 1981, [95 Stat. 1440][/us/stat/95/1440], provided in part that: 
 
 > “the final Government equity redemption date for the National Consumer Cooperative Bank shall occur on December 31, 1981.”
 
@@ -69,14 +69,14 @@
 ----------
 
 [/us/usc/t12/s3014/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3014%2Fc
-[/us/pl/95/351/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F351%2Fs116
-[/us/pl/97/35/s391/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs391%2Fa%2F1
+[/us/pl/95/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F351%2FtI
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F433
 [/us/pl/97/101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F101
 [/us/stat/95/1417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1417
-[/us/pl/97/35/s391/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs391%2Fa%2F2
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F434
-[/us/pl/97/101/s501/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F101%2Fs501%2F36
+[/us/pl/97/101/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F101%2FtV
 [/us/stat/95/1440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1440
 
 

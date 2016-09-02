@@ -17,7 +17,7 @@
 
     The Farm Credit Administration may, within the limits of funds available therefor, make necessary expenditures for personnel services and rent at the seat of Government and elsewhere; contract stenographic reporting services; purchase and exchange lawbooks, books of reference, periodicals, newspapers, expenses of attendance at meetings and conferences; purchase, operation, and maintenance at the seat of Government and elsewhere of motor-propelled passenger-carrying vehicles and other vehicles; printing and binding; and for such other facilities and services, including temporary employment by contract or otherwise, as it may from time to time find necessary for the proper administration of this chapter. The Farm Credit Administration may dispose of property so acquired and any amounts collected from the disposition of such property shall be deposited in the special fund provided for in [section 2250(b) of this title][/us/usc/t12/s2250/b] and shall be available to the Administration in the same manner and for the same purposes as the funds collected under [section 2250(a) of this title][/us/usc/t12/s2250/a].
 
-([Pub. L. 92–181, title V, § 5][/us/pl/92/181/s5].14, formerly § 5.15, Dec. 10, 1971, [85 Stat. 620][/us/stat/85/620]; [Pub. L. 96–592, title V, § 505][/us/pl/96/592/s505], Dec. 24, 1980, [94 Stat. 3449][/us/stat/94/3449]; renumbered § 5.14 and amended [Pub. L. 99–205, title II, § 201(4)][/us/pl/99/205/s201/4], Dec. 23, 1985, [99 Stat. 1690][/us/stat/99/1690].)
+([Pub. L. 92–181, title V][/us/pl/92/181/tV], § 5.14, formerly § 5.15, Dec. 10, 1971, [85 Stat. 620][/us/stat/85/620]; [Pub. L. 96–592, title V][/us/pl/96/592/tV], § 505, Dec. 24, 1980, [94 Stat. 3449][/us/stat/94/3449]; renumbered § 5.14 and amended [Pub. L. 99–205, title II][/us/pl/99/205/tII], § 201(4), Dec. 23, 1985, [99 Stat. 1690][/us/stat/99/1690].)
 
  __Prior Provisions__ 
 
@@ -42,11 +42,11 @@
 
 [/us/usc/t12/s2250/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2250%2Fb
 [/us/usc/t12/s2250/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2250%2Fa
-[/us/pl/92/181/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs5
+[/us/pl/92/181/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtV
 [/us/stat/85/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F620
-[/us/pl/96/592/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592%2Fs505
+[/us/pl/96/592/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592%2FtV
 [/us/stat/94/3449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3449
-[/us/pl/99/205/s201/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2Fs201%2F4
+[/us/pl/99/205/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2FtII
 [/us/stat/99/1690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1690
 [/us/pl/92/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181
 [/us/usc/t12/s2248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2248

@@ -35,7 +35,7 @@
 
         Upon receipt of authorization by the Secretary of the Treasury, the Export-Import Bank may provide financing to match that offered by the foreign official export credit entity: Provided, however, That loans, guarantees and insurance provided under this authority shall conform to all provisions of the Export-Import Bank Act of 1945, as amended \[[12 U.S.C. 635][/us/usc/t12/s635] et seq.\].
 
-([Pub. L. 95–630, title XIX, § 1912][/us/pl/95/630/s1912], Nov. 10, 1978, [92 Stat. 3726][/us/stat/92/3726]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title VI, §§ 631, 633\], Nov. 30, 1983, [97 Stat. 1262][/us/stat/97/1262], 1263; [Pub. L. 99–472, § 15][/us/pl/99/472/s15], Oct. 15, 1986, [100 Stat. 1204][/us/stat/100/1204].)
+([Pub. L. 95–630, title XIX][/us/pl/95/630/tXIX], § 1912, Nov. 10, 1978, [92 Stat. 3726][/us/stat/92/3726]; [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title VI, §§ 631, 633\], Nov. 30, 1983, [97 Stat. 1262][/us/stat/97/1262], 1263; [Pub. L. 99–472][/us/pl/99/472], § 15, Oct. 15, 1986, [100 Stat. 1204][/us/stat/100/1204].)
 
  __References in Text__ 
 
@@ -47,21 +47,21 @@
 
  __Amendments__ 
 
-    1986—Subsec. (a)(1). [Pub. L. 99–472, § 15(b)][/us/pl/99/472/s15/b], which directed the insertion of “irrespective of whether these credits are being offered by governments which are signatories to such standstills, minutes, or practices,” after “major export countries have agreed,” was executed by inserting that phrase after “major exporting countries have agreed,” as the probable intent of Congress.
+    1986—Subsec. (a)(1). [Pub. L. 99–472][/us/pl/99/472], § 15(b), which directed the insertion of “irrespective of whether these credits are being offered by governments which are signatories to such standstills, minutes, or practices,” after “major export countries have agreed,” was executed by inserting that phrase after “major exporting countries have agreed,” as the probable intent of Congress.
 
-    Subsec. (b). [Pub. L. 99–472, § 15(a)][/us/pl/99/472/s15/a], amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The Secretary of the Treasury shall only issue such authorization to the Bank to provide guarantees, insurance and credits to competing United States sellers, if the Secretary determines that:
+    Subsec. (b). [Pub. L. 99–472][/us/pl/99/472], § 15(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The Secretary of the Treasury shall only issue such authorization to the Bank to provide guarantees, insurance and credits to competing United States sellers, if the Secretary determines that:
 
     “(1) the availability of foreign official noncompetitive financing is likely to be a significant factor in the sale, and
 
     “(2) the foreign noncompetitive financing has not been withdrawn on the date the Bank is authorized to provide competitive financing.”
 
-    1983—Subsec. (a)(1). [Pub. L. 98–181, § 631(1)][/us/pl/98/181/s631/1], inserted provision that the inquiry, and where appropriate, the determination and authorization to the Export-Import Bank of the United States referred to in this section shall be completed and made within 60 days of the receipt of such information.
+    1983—Subsec. (a)(1). [Pub. L. 98–181][/us/pl/98/181], § 631(1), inserted provision that the inquiry, and where appropriate, the determination and authorization to the Export-Import Bank of the United States referred to in this section shall be completed and made within 60 days of the receipt of such information.
 
-    Subsec. (a)(2). [Pub. L. 98–181, § 633(b)][/us/pl/98/181/s633/b], substituted “the Secretary shall request” for “he shall request”.
+    Subsec. (a)(2). [Pub. L. 98–181][/us/pl/98/181], § 633(b), substituted “the Secretary shall request” for “he shall request”.
 
-    Subsec. (b). [Pub. L. 98–181, § 633(a)][/us/pl/98/181/s633/a], substituted “if the Secretary determines that” for “if he determines that” in provisions preceding par. (1).
+    Subsec. (b). [Pub. L. 98–181][/us/pl/98/181], § 633(a), substituted “if the Secretary determines that” for “if he determines that” in provisions preceding par. (1).
 
-    Subsec. (b)(1). [Pub. L. 98–181, § 631(2)][/us/pl/98/181/s631/2], substituted “significant factor” for “determining factor”.
+    Subsec. (b)(1). [Pub. L. 98–181][/us/pl/98/181], § 631(2), substituted “significant factor” for “determining factor”.
 
  __Effective Date__ 
 
@@ -75,21 +75,21 @@
 ----------
 
 [/us/usc/t12/s635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635
-[/us/pl/95/630/s1912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs1912
+[/us/pl/95/630/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtXIX
 [/us/stat/92/3726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3726
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1262
-[/us/pl/99/472/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F472%2Fs15
+[/us/pl/99/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F472
 [/us/stat/100/1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1204
 [/us/act/1945-07-31/ch341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch341
 [/us/stat/59/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F526
 [/us/usc/t12/s635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635
-[/us/pl/99/472/s15/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F472%2Fs15%2Fb
-[/us/pl/99/472/s15/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F472%2Fs15%2Fa
-[/us/pl/98/181/s631/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs631%2F1
-[/us/pl/98/181/s633/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs633%2Fb
-[/us/pl/98/181/s633/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs633%2Fa
-[/us/pl/98/181/s631/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs631%2F2
+[/us/pl/99/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F472
+[/us/pl/99/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F472
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
 [/us/pl/95/630/s1917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs1917
 [/us/usc/t12/s635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635
 

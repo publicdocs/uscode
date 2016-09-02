@@ -63,7 +63,7 @@
 
         The Fund shall provide an outreach program to identify and provide information to potential applicants and may provide technical assistance to potential applicants, but shall not assist in the preparation of any application.
 
-([Pub. L. 103–325, title I, § 105][/us/pl/103/325/s105], Sept. 23, 1994, [108 Stat. 2170][/us/stat/108/2170].)
+([Pub. L. 103–325, title I][/us/pl/103/325/tI], § 105, Sept. 23, 1994, [108 Stat. 2170][/us/stat/108/2170].)
 
 ----------
 
@@ -72,7 +72,7 @@
 ----------
 ----------
 
-[/us/pl/103/325/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs105
+[/us/pl/103/325/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtI
 [/us/stat/108/2170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2170
 
 

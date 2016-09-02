@@ -27,7 +27,7 @@
 
         Within 6 months of January 6, 1988, each System institution shall submit to the Farm Credit Administration a report on the plan of that institution to bring the operations of the institution into compliance with the uniform financial reporting instructions required by the Farm Credit Administration.
 
-([Pub. L. 92–181, title V, § 5][/us/pl/92/181/s5].22A, as added [Pub. L. 100–233, title IV, § 429][/us/pl/100/233/s429], Jan. 6, 1988, [101 Stat. 1658][/us/stat/101/1658].)
+([Pub. L. 92–181, title V][/us/pl/92/181/tV], § 5.22A, as added [Pub. L. 100–233, title IV][/us/pl/100/233/tIV], § 429, Jan. 6, 1988, [101 Stat. 1658][/us/stat/101/1658].)
 
 ----------
 
@@ -36,8 +36,8 @@
 ----------
 ----------
 
-[/us/pl/92/181/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs5
-[/us/pl/100/233/s429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs429
+[/us/pl/92/181/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtV
+[/us/pl/100/233/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtIV
 [/us/stat/101/1658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1658
 
 

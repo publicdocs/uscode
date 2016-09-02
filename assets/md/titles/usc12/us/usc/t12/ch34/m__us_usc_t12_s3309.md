@@ -27,7 +27,7 @@
 
         (2) report to the Congress the results of such study.
 
-([Pub. L. 95–630, title X, § 1009A][/us/pl/95/630/s1009A], as added [Pub. L. 101–73, title XII, § 1218][/us/pl/101/73/s1218], Aug. 9, 1989, [103 Stat. 546][/us/stat/103/546].)
+([Pub. L. 95–630, title X][/us/pl/95/630/tX], § 1009A, as added [Pub. L. 101–73, title XII][/us/pl/101/73/tXII], § 1218, Aug. 9, 1989, [103 Stat. 546][/us/stat/103/546].)
 
 ----------
 
@@ -36,8 +36,8 @@
 ----------
 ----------
 
-[/us/pl/95/630/s1009A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs1009A
-[/us/pl/101/73/s1218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs1218
+[/us/pl/95/630/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtX
+[/us/pl/101/73/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtXII
 [/us/stat/103/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F546
 
 

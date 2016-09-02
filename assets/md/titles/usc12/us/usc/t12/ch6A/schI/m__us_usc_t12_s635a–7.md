@@ -23,7 +23,7 @@
 
         Not later than 1 year after December 4, 2015, and not less frequently than every 3 years thereafter, the Inspector General shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a written report containing all findings and determinations made in carrying out subsection (a).
 
-([Pub. L. 114–94, div. E, title LI, § 51007][/us/pl/114/94/s51007], Dec. 4, 2015, [129 Stat. 1766][/us/stat/129/1766].)
+([Pub. L. 114–94, div. E, title LI][/us/pl/114/94/dE/tLI], § 51007, Dec. 4, 2015, [129 Stat. 1766][/us/stat/129/1766].)
 
  __References in Text__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/114/94/s51007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs51007
+[/us/pl/114/94/dE/tLI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdE%2FtLI
 [/us/stat/129/1766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1766
 [/us/pl/114/94/s51005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs51005
 

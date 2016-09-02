@@ -53,7 +53,7 @@
 
         The remedy provided by this section is in addition to any other remedies available to the Secretary or the United States.
 
-([Pub. L. 100–242, title IV, § 421][/us/pl/100/242/s421], Feb. 5, 1988, [101 Stat. 1913][/us/stat/101/1913]; [Pub. L. 105–65, title V, § 563][/us/pl/105/65/s563], Oct. 27, 1997, [111 Stat. 1419][/us/stat/111/1419]; [Pub. L. 108–447, div. I, title II, § 220][/us/pl/108/447/s220], Dec. 8, 2004, [118 Stat. 3319][/us/stat/118/3319]; [Pub. L. 109–115, div. A, title III, § 324][/us/pl/109/115/s324], Nov. 30, 2005, [119 Stat. 2466][/us/stat/119/2466].)
+([Pub. L. 100–242, title IV][/us/pl/100/242/tIV], § 421, Feb. 5, 1988, [101 Stat. 1913][/us/stat/101/1913]; [Pub. L. 105–65, title V][/us/pl/105/65/tV], § 563, Oct. 27, 1997, [111 Stat. 1419][/us/stat/111/1419]; [Pub. L. 108–447, div. I, title II][/us/pl/108/447/dI/tII], § 220, Dec. 8, 2004, [118 Stat. 3319][/us/stat/118/3319]; [Pub. L. 109–115, div. A, title III][/us/pl/109/115/dA/tIII], § 324, Nov. 30, 2005, [119 Stat. 2466][/us/stat/119/2466].)
 
  __References in Text__ 
 
@@ -65,31 +65,31 @@
 
  __Amendments__ 
 
-    2005—Subsec. (a)(1)(A). [Pub. L. 109–115, § 324(1)][/us/pl/109/115/s324/1], inserted “or, at the time of the violations, was” after “is”.
+    2005—Subsec. (a)(1)(A). [Pub. L. 109–115][/us/pl/109/115], § 324(1), inserted “or, at the time of the violations, was” after “is”.
 
-    Subsec. (a)(1)(C). [Pub. L. 109–115, § 324(2)][/us/pl/109/115/s324/2], inserted “or, at the time of the violations, was insured or held” after “held”.
+    Subsec. (a)(1)(C). [Pub. L. 109–115][/us/pl/109/115], § 324(2), inserted “or, at the time of the violations, was insured or held” after “held”.
 
-    2004—Subsec. (a)(1). [Pub. L. 108–447, § 220(3)][/us/pl/108/447/s220/3], substituted “property” for “project” in second sentence.
+    2004—Subsec. (a)(1). [Pub. L. 108–447][/us/pl/108/447], § 220(3), substituted “property” for “project” in second sentence.
 
-    Subsec. (a)(1)(A). [Pub. L. 108–447, § 220(1)][/us/pl/108/447/s220/1], inserted “, nursing home, intermediate care facility, board and care home, assisted living facility, or hospital” after “project”.
+    Subsec. (a)(1)(A). [Pub. L. 108–447][/us/pl/108/447], § 220(1), inserted “, nursing home, intermediate care facility, board and care home, assisted living facility, or hospital” after “project”.
 
-    Subsec. (a)(1)(B). [Pub. L. 108–447, § 220(2)][/us/pl/108/447/s220/2], inserted “or, at the time of the violations, was” after “whose mortgage is”.
+    Subsec. (a)(1)(B). [Pub. L. 108–447][/us/pl/108/447], § 220(2), inserted “or, at the time of the violations, was” after “whose mortgage is”.
 
-    Subsec. (a)(2). [Pub. L. 108–447, § 220(4)][/us/pl/108/447/s220/4], substituted “that owns or operates a property, as identified in the regulatory agreement, including but not limited to—” and subpars. (A) to (G) for “which owns a project, as identified in the regulatory agreement, including but not limited to any stockholder holding 25 percent or more interest of a corporation that owns the project; any beneficial owner under any business or trust; any officer, director, or partner of an entity owning the project; and any heir, assignee, successor in interest, or agent of any owner.”
+    Subsec. (a)(2). [Pub. L. 108–447][/us/pl/108/447], § 220(4), substituted “that owns or operates a property, as identified in the regulatory agreement, including but not limited to—” and subpars. (A) to (G) for “which owns a project, as identified in the regulatory agreement, including but not limited to any stockholder holding 25 percent or more interest of a corporation that owns the project; any beneficial owner under any business or trust; any officer, director, or partner of an entity owning the project; and any heir, assignee, successor in interest, or agent of any owner.”
 
-    Subsec. (c). [Pub. L. 108–447, § 220(5)][/us/pl/108/447/s220/5], substituted “property that the court determines” for “project that the court determines” and “property or to the applicable insurance fund” for “project or to the applicable insurance fund”.
+    Subsec. (c). [Pub. L. 108–447][/us/pl/108/447], § 220(5), substituted “property that the court determines” for “project that the court determines” and “property or to the applicable insurance fund” for “project or to the applicable insurance fund”.
 
-    Subsec. (d). [Pub. L. 108–447, § 220(6)][/us/pl/108/447/s220/6], substituted “a property’s” for “project”.
+    Subsec. (d). [Pub. L. 108–447][/us/pl/108/447], § 220(6), substituted “a property’s” for “project”.
 
-    1997—Subsec. (a)(1). [Pub. L. 105–65, § 563(1)][/us/pl/105/65/s563/1], substituted “(B) a regulatory agreement that applies to a multifamily project whose mortgage is insured or held by the Secretary under [section 1701q of this title][/us/usc/t12/s1701q] (including property subject to [section 1701q of this title][/us/usc/t12/s1701q] as it existed before November 28, 1990); (C) a regulatory agreement or such other form of regulatory control as may be imposed by the Secretary that applies to mortgages insured or held by the Secretary under section 542 of the Housing and Community Development Act of 1992, but not reinsured under section 542 of the Housing and Community Development Act of 1992; or (D)” for “or (B)” in first sentence and inserted “, or such other form of regulatory control as may be imposed by the Secretary,” after “regulatory agreement” in second sentence.
+    1997—Subsec. (a)(1). [Pub. L. 105–65][/us/pl/105/65], § 563(1), substituted “(B) a regulatory agreement that applies to a multifamily project whose mortgage is insured or held by the Secretary under [section 1701q of this title][/us/usc/t12/s1701q] (including property subject to [section 1701q of this title][/us/usc/t12/s1701q] as it existed before November 28, 1990); (C) a regulatory agreement or such other form of regulatory control as may be imposed by the Secretary that applies to mortgages insured or held by the Secretary under section 542 of the Housing and Community Development Act of 1992, but not reinsured under section 542 of the Housing and Community Development Act of 1992; or (D)” for “or (B)” in first sentence and inserted “, or such other form of regulatory control as may be imposed by the Secretary,” after “regulatory agreement” in second sentence.
 
-    Subsec. (a)(2). [Pub. L. 105–65, § 563(2)][/us/pl/105/65/s563/2], inserted “under [section 1701q of this title][/us/usc/t12/s1701q] (including [section 1701q of this title][/us/usc/t12/s1701q] as it existed before November 28, 1990) and under section 542 of the Housing and Community Development Act of 1992,” after “title II of National Housing Act,”.
+    Subsec. (a)(2). [Pub. L. 105–65][/us/pl/105/65], § 563(2), inserted “under [section 1701q of this title][/us/usc/t12/s1701q] (including [section 1701q of this title][/us/usc/t12/s1701q] as it existed before November 28, 1990) and under section 542 of the Housing and Community Development Act of 1992,” after “title II of National Housing Act,”.
 
-    Subsec. (b). [Pub. L. 105–65, § 563(3)][/us/pl/105/65/s563/3], inserted “, or such other form of regulatory control as may be imposed by the Secretary,” after “regulatory agreement”.
+    Subsec. (b). [Pub. L. 105–65][/us/pl/105/65], § 563(3), inserted “, or such other form of regulatory control as may be imposed by the Secretary,” after “regulatory agreement”.
 
-    Subsec. (c). [Pub. L. 105–65, § 563(4)][/us/pl/105/65/s563/4], in first sentence, inserted “, or such other form of regulatory control as may be imposed by the Secretary,” after “regulatory agreement” and inserted before period at end of second sentence “or, in the case of any project for which the mortgage is held by the Secretary under [section 1701q of this title][/us/usc/t12/s1701q] (including property subject to [section 1701q of this title][/us/usc/t12/s1701q] as it existed before November 28, 1990), to the project or to the Department for use by the appropriate office within the Department for administrative costs related to enforcement of the requirements of the various programs administered by the Secretary, as appropriate”.
+    Subsec. (c). [Pub. L. 105–65][/us/pl/105/65], § 563(4), in first sentence, inserted “, or such other form of regulatory control as may be imposed by the Secretary,” after “regulatory agreement” and inserted before period at end of second sentence “or, in the case of any project for which the mortgage is held by the Secretary under [section 1701q of this title][/us/usc/t12/s1701q] (including property subject to [section 1701q of this title][/us/usc/t12/s1701q] as it existed before November 28, 1990), to the project or to the Department for use by the appropriate office within the Department for administrative costs related to enforcement of the requirements of the various programs administered by the Secretary, as appropriate”.
 
-    Subsec. (d). [Pub. L. 105–65, § 563(5)][/us/pl/105/65/s563/5], inserted “, or such other form of regulatory control as may be imposed by the Secretary,” after “regulatory agreement”.
+    Subsec. (d). [Pub. L. 105–65][/us/pl/105/65], § 563(5), inserted “, or such other form of regulatory control as may be imposed by the Secretary,” after “regulatory agreement”.
 
 ----------
 
@@ -110,35 +110,35 @@
 [/us/usc/t12/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701
 [/us/usc/t12/s1701q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701q
 [/us/usc/t12/s1701q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701q
-[/us/pl/100/242/s421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs421
+[/us/pl/100/242/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtIV
 [/us/stat/101/1913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1913
-[/us/pl/105/65/s563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65%2Fs563
+[/us/pl/105/65/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65%2FtV
 [/us/stat/111/1419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1419
-[/us/pl/108/447/s220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs220
+[/us/pl/108/447/dI/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdI%2FtII
 [/us/stat/118/3319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3319
-[/us/pl/109/115/s324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F115%2Fs324
+[/us/pl/109/115/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F115%2FdA%2FtIII
 [/us/stat/119/2466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2466
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
 [/us/stat/48/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1246
 [/us/usc/t12/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701
-[/us/pl/109/115/s324/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F115%2Fs324%2F1
-[/us/pl/109/115/s324/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F115%2Fs324%2F2
-[/us/pl/108/447/s220/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs220%2F3
-[/us/pl/108/447/s220/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs220%2F1
-[/us/pl/108/447/s220/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs220%2F2
-[/us/pl/108/447/s220/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs220%2F4
-[/us/pl/108/447/s220/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs220%2F5
-[/us/pl/108/447/s220/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs220%2F6
-[/us/pl/105/65/s563/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65%2Fs563%2F1
+[/us/pl/109/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F115
+[/us/pl/109/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F115
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/105/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65
 [/us/usc/t12/s1701q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701q
 [/us/usc/t12/s1701q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701q
-[/us/pl/105/65/s563/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65%2Fs563%2F2
+[/us/pl/105/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65
 [/us/usc/t12/s1701q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701q
 [/us/usc/t12/s1701q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701q
-[/us/pl/105/65/s563/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65%2Fs563%2F3
-[/us/pl/105/65/s563/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65%2Fs563%2F4
+[/us/pl/105/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65
+[/us/pl/105/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65
 [/us/usc/t12/s1701q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701q
 [/us/usc/t12/s1701q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701q
-[/us/pl/105/65/s563/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65%2Fs563%2F5
+[/us/pl/105/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65
 
 

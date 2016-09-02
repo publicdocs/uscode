@@ -75,7 +75,7 @@
 
                 In any action arising solely under laws for which authorities were transferred under subtitles F and H, the Bureau may commence, defend, or intervene in the action in accordance with the requirements of that provision of law, as applicable.
 
-([Pub. L. 111–203, title X, § 1054][/us/pl/111/203/s1054], July 21, 2010, [124 Stat. 2028][/us/stat/124/2028].)
+([Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1054, July 21, 2010, [124 Stat. 2028][/us/stat/124/2028].)
 
  __References in Text__ 
 
@@ -96,7 +96,7 @@
 ----------
 ----------
 
-[/us/pl/111/203/s1054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1054
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2028
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1955

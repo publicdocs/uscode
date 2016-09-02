@@ -17,7 +17,7 @@
 
     It is the intent of Congress that no sale of a dwelling on which a mortgage is insured under the National Housing Act, as amended \[[12 U.S.C. 1701][/us/usc/t12/s1701] et seq.\], shall be financed, while such mortgage is so insured, at an interest rate higher than that prescribed by the Secretary of Housing and Urban Development. It is the further intent of Congress that no such sale shall be made, while such mortgage is so insured, on terms less favorable to the purchaser as to amortization, retirement, foreclosure, or forfeiture than those contained in such mortgage.
 
-([Apr. 20, 1950, ch. 94][/us/act/1950-04-20/ch94], title V, § 508, [64 Stat. 81][/us/stat/64/81]; [Pub. L. 90–19, § 8(e)][/us/pl/90/19/s8/e], May 25, 1967, [81 Stat. 22][/us/stat/81/22].)
+([Apr. 20, 1950, ch. 94][/us/act/1950-04-20/ch94], title V, § 508, [64 Stat. 81][/us/stat/64/81]; [Pub. L. 90–19][/us/pl/90/19], § 8(e), May 25, 1967, [81 Stat. 22][/us/stat/81/22].)
 
  __References in Text__ 
 
@@ -41,7 +41,7 @@
 [/us/usc/t12/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701
 [/us/act/1950-04-20/ch94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-04-20%2Fch94
 [/us/stat/64/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F81
-[/us/pl/90/19/s8/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19%2Fs8%2Fe
+[/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
 [/us/stat/81/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F22
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
 [/us/stat/48/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1246

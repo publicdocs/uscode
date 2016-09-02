@@ -37,7 +37,7 @@
 
         The Secretary of Housing and Urban Development may utilize funds made available to him for salaries and expenses for payment in advance for dues or fees for library memberships in organizations (or for membership of the individual librarians in organizations which will not accept library membership) whose publications are available to members only, or to members at a price lower than to the general public, and for payment in advance for publications available only upon that basis or available at a reduced price on prepublication order.
 
-([Aug. 10, 1948, ch. 832][/us/act/1948-08-10/ch832], title V, § 502, [62 Stat. 1283][/us/stat/62/1283]; [Oct. 28, 1949, ch. 782][/us/act/1949-10-28/ch782], title XI, § 1106(a), [63 Stat. 972][/us/stat/63/972]; [Apr. 20, 1950, ch. 94][/us/act/1950-04-20/ch94], title V, § 503, [64 Stat. 80][/us/stat/64/80]; [Pub. L. 87–70, title IX, § 909][/us/pl/87/70/s909], June 30, 1961, [75 Stat. 192][/us/stat/75/192]; [Pub. L. 90–19, § 5(d)(1)][/us/pl/90/19/s5/d/1]–(3), (8)–(13), May 25, 1967, [81 Stat. 21][/us/stat/81/21]; [Pub. L. 98–479, title II][/us/pl/98/479], §§ 202(b), 203(c), Oct. 17, 1984, [98 Stat. 2228][/us/stat/98/2228], 2229; [Pub. L. 100–242, title V, § 570(a)(1)][/us/pl/100/242/s570/a/1], (3), Feb. 5, 1988, [101 Stat. 1949][/us/stat/101/1949], 1950; [Pub. L. 101–73, title III, § 306][/us/pl/101/73/s306], Aug. 9, 1989, [103 Stat. 352][/us/stat/103/352]; [Pub. L. 111–203, title III, § 370][/us/pl/111/203/s370], July 21, 2010, [124 Stat. 1565][/us/stat/124/1565].)
+([Aug. 10, 1948, ch. 832][/us/act/1948-08-10/ch832], title V, § 502, [62 Stat. 1283][/us/stat/62/1283]; [Oct. 28, 1949, ch. 782][/us/act/1949-10-28/ch782], title XI, § 1106(a), [63 Stat. 972][/us/stat/63/972]; [Apr. 20, 1950, ch. 94][/us/act/1950-04-20/ch94], title V, § 503, [64 Stat. 80][/us/stat/64/80]; [Pub. L. 87–70, title IX][/us/pl/87/70/tIX], § 909, June 30, 1961, [75 Stat. 192][/us/stat/75/192]; [Pub. L. 90–19][/us/pl/90/19], § 5(d)(1)–(3), (8)–(13), May 25, 1967, [81 Stat. 21][/us/stat/81/21]; [Pub. L. 98–479, title II][/us/pl/98/479/tII], §§ 202(b), 203(c), Oct. 17, 1984, [98 Stat. 2228][/us/stat/98/2228], 2229; [Pub. L. 100–242, title V][/us/pl/100/242/tV], § 570(a)(1), (3), Feb. 5, 1988, [101 Stat. 1949][/us/stat/101/1949], 1950; [Pub. L. 101–73, title III][/us/pl/101/73/tIII], § 306, Aug. 9, 1989, [103 Stat. 352][/us/stat/103/352]; [Pub. L. 111–203, title III][/us/pl/111/203/tIII], § 370, July 21, 2010, [124 Stat. 1565][/us/stat/124/1565].)
 
  __References in Text__ 
 
@@ -45,7 +45,7 @@
 
  __Codification__ 
 
-    In subsec. (c)(2), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 3709 of the Revised Statutes” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (c)(2), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 3709 of the Revised Statutes” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
     Subsec. (b) of section 502 of act Aug. 10, 1948, is set out as [section 1404a of Title 42][/us/usc/t42/s1404a], The Public Health and Welfare.
 
@@ -53,35 +53,35 @@
 
  __Amendments__ 
 
-    2010—Subsec. (c). [Pub. L. 111–203, § 370(1)][/us/pl/111/203/s370/1], substituted “, the Comptroller of the Currency, and the Federal Deposit Insurance Corporation” for “and the Director of the Office of Thrift Supervision” in introductory provisions.
+    2010—Subsec. (c). [Pub. L. 111–203][/us/pl/111/203], § 370(1), substituted “, the Comptroller of the Currency, and the Federal Deposit Insurance Corporation” for “and the Director of the Office of Thrift Supervision” in introductory provisions.
 
-    Subsec. (c)(3). [Pub. L. 111–203, § 370(2)][/us/pl/111/203/s370/2], substituted “Agency” for “Board”.
+    Subsec. (c)(3). [Pub. L. 111–203][/us/pl/111/203], § 370(2), substituted “Agency” for “Board”.
 
-    1989—Subsec. (c). [Pub. L. 101–73, § 306(a)][/us/pl/101/73/s306/a], which directed the substitution of “Director of the Office of Thrift Supervision” for “Federal Home Loan Bank Board (which term as used in this section shall also include and refer to the Federal Savings and Loan Insurance Corporation, the Home Owners Loan Corporation, and the Chairman of the Federal Home Loan Bank Board)”, was executed as directed, except that “Home Owners’ ” rather than “Home Owners” appeared in the original in the language struck out.
+    1989—Subsec. (c). [Pub. L. 101–73][/us/pl/101/73], § 306(a), which directed the substitution of “Director of the Office of Thrift Supervision” for “Federal Home Loan Bank Board (which term as used in this section shall also include and refer to the Federal Savings and Loan Insurance Corporation, the Home Owners Loan Corporation, and the Chairman of the Federal Home Loan Bank Board)”, was executed as directed, except that “Home Owners’ ” rather than “Home Owners” appeared in the original in the language struck out.
 
-    Subsec. (c)(1). [Pub. L. 101–73, § 306(b)][/us/pl/101/73/s306/b], substituted “of any Federal, State, or local” for “of any State or local”.
+    Subsec. (c)(1). [Pub. L. 101–73][/us/pl/101/73], § 306(b), substituted “of any Federal, State, or local” for “of any State or local”.
 
-    1988—Subsec. (a). [Pub. L. 100–242, § 570(a)(1)][/us/pl/100/242/s570/a/1], struck out “The Secretary of Commerce or his designee shall hereafter be included in the membership of the National Housing Council.”
+    1988—Subsec. (a). [Pub. L. 100–242][/us/pl/100/242], § 570(a)(1), struck out “The Secretary of Commerce or his designee shall hereafter be included in the membership of the National Housing Council.”
 
-    Subsec. (c)(2). [Pub. L. 100–242, § 570(a)(3)][/us/pl/100/242/s570/a/3], inserted “and” at end.
+    Subsec. (c)(2). [Pub. L. 100–242][/us/pl/100/242], § 570(a)(3), inserted “and” at end.
 
-    1984—Subsec. (a). [Pub. L. 98–479, § 202(b)(1)][/us/pl/98/479/s202/b/1], substituted “chapter 51 and subchapter III of chapter 53 of title 5” for “the Classification Act of 1949, as amended”.
+    1984—Subsec. (a). [Pub. L. 98–479][/us/pl/98/479], § 202(b)(1), substituted “chapter 51 and subchapter III of chapter 53 of title 5” for “the Classification Act of 1949, as amended”.
 
-    Subsec. (c)(1). [Pub. L. 98–479, § 202(b)(2)][/us/pl/98/479/s202/b/2], substituted “[section 5703 of title 5][/us/usc/t5/s5703]” for “[5 U.S.C. 73b–2][/us/usc/t5/s73b–2]”.
+    Subsec. (c)(1). [Pub. L. 98–479][/us/pl/98/479], § 202(b)(2), substituted “[section 5703 of title 5][/us/usc/t5/s5703]” for “[5 U.S.C. 73b–2][/us/usc/t5/s73b–2]”.
 
-    Subsec. (c)(2). [Pub. L. 98–479, § 203(c)][/us/pl/98/479/s203/c], substituted “subsections (a) and (b) of [section 3324 of title 31][/us/usc/t31/s3324]” for “section 3648 of the Revised Statutes \[[31 U.S.C. 529][/us/usc/t31/s529]\]”.
+    Subsec. (c)(2). [Pub. L. 98–479][/us/pl/98/479], § 203(c), substituted “subsections (a) and (b) of [section 3324 of title 31][/us/usc/t31/s3324]” for “section 3648 of the Revised Statutes \[[31 U.S.C. 529][/us/usc/t31/s529]\]”.
 
-    1967—Subsec. (a). [Pub. L. 90–19, § 5(d)(1)][/us/pl/90/19/s5/d/1]–(3), substituted “Secretary of Housing and Urban Development” for “Housing and Home Finance Administrator” and “Secretary” for “Administrator” wherever appearing, and struck out provision for preparation of official seal and judicial notice thereof.
+    1967—Subsec. (a). [Pub. L. 90–19][/us/pl/90/19], § 5(d)(1)–(3), substituted “Secretary of Housing and Urban Development” for “Housing and Home Finance Administrator” and “Secretary” for “Administrator” wherever appearing, and struck out provision for preparation of official seal and judicial notice thereof.
 
-    Subsec. (c). [Pub. L. 90–19, § 5(d)(8)][/us/pl/90/19/s5/d/8], (9), substituted “Secretary of Housing and Urban Development and the Federal Home Loan Bank Board” for “Housing and Home Finance Administrator, the Home Loan Bank Board” where it first appears and “Federal Home Loan Bank Board” for “Home Loan Bank Board, the Federal Housing Commissioner, and the Public Housing Commissioner”.
+    Subsec. (c). [Pub. L. 90–19][/us/pl/90/19], § 5(d)(8), (9), substituted “Secretary of Housing and Urban Development and the Federal Home Loan Bank Board” for “Housing and Home Finance Administrator, the Home Loan Bank Board” where it first appears and “Federal Home Loan Bank Board” for “Home Loan Bank Board, the Federal Housing Commissioner, and the Public Housing Commissioner”.
 
-    Subsec. (c)(3). [Pub. L. 90–19, § 5(d)(10)][/us/pl/90/19/s5/d/10], (11), substituted “Secretary of Housing and Urban Development and the Federal Home Loan Bank Board” and “such officer or agency” for “Housing and Home Finance Administrator, the Home Loan Bank Board, the Federal Housing Commissioner, and the Public Housing Commissioner” and “said officers or agencies”.
+    Subsec. (c)(3). [Pub. L. 90–19][/us/pl/90/19], § 5(d)(10), (11), substituted “Secretary of Housing and Urban Development and the Federal Home Loan Bank Board” and “such officer or agency” for “Housing and Home Finance Administrator, the Home Loan Bank Board, the Federal Housing Commissioner, and the Public Housing Commissioner” and “said officers or agencies”.
 
-    Subsec. (d). [Pub. L. 90–19, § 5(d)(12)][/us/pl/90/19/s5/d/12], (13), substituted “Secretary of Housing and Urban Development may utilize funds made available to him” for “Housing and Home Finance Administrator, the Federal Housing Commissioner and the Public Housing Commissioner, respectively, may utilize funds made available to them” and struck out “of the respective agencies” after “librarians”.
+    Subsec. (d). [Pub. L. 90–19][/us/pl/90/19], § 5(d)(12), (13), substituted “Secretary of Housing and Urban Development may utilize funds made available to him” for “Housing and Home Finance Administrator, the Federal Housing Commissioner and the Public Housing Commissioner, respectively, may utilize funds made available to them” and struck out “of the respective agencies” after “librarians”.
 
-    1961—Subsec. (c)(3). [Pub. L. 87–70, § 909(1)][/us/pl/87/70/s909/1], struck out provisions which made [section 5 of title 41][/us/usc/t41/s5] inapplicable to any purchase or contract by officers (or their agencies) for services or supplies if the amount thereof does not exceed $300.
+    1961—Subsec. (c)(3). [Pub. L. 87–70][/us/pl/87/70], § 909(1), struck out provisions which made [section 5 of title 41][/us/usc/t41/s5] inapplicable to any purchase or contract by officers (or their agencies) for services or supplies if the amount thereof does not exceed $300.
 
-    Subsec. (d). [Pub. L. 87–70, § 909(2)][/us/pl/87/70/s909/2], added subsec. (d).
+    Subsec. (d). [Pub. L. 87–70][/us/pl/87/70], § 909(2), added subsec. (d).
 
     1950—Act Apr. 20, 1950, amended third sentence of subsec. (a) to authorize the Administrator to permit redelegation of functions and powers which he had delegated previously to officers, agents, and employees but this does not relieve him of any final responsibility, and inserted “or pay” after “reimburse” in subsec. (c)(2).
 
@@ -105,7 +105,7 @@
 
  __Annual Report on Areas of Program Administration and Management Which Require Improvement__ 
 
-    [Pub. L. 90–448, § 5][/us/pl/90/448/s5], Aug. 1, 1968, [82 Stat. 477][/us/stat/82/477], as amended by [Pub. L. 91–609, title IX, § 918][/us/pl/91/609/s918], Dec. 31, 1970, [84 Stat. 1816][/us/stat/84/1816], directed Secretary to report annually to Committees on Banking and Currency of House and Senate, identifying specific areas of program administration and management which require improvement, describing actions taken and proposed, and recommendations for legislation, prior to repeal by [Pub. L. 93–608, § 1(9)][/us/pl/93/608/s1/9], Jan. 2, 1975, [88 Stat. 1968][/us/stat/88/1968].
+    [Pub. L. 90–448][/us/pl/90/448], § 5, Aug. 1, 1968, [82 Stat. 477][/us/stat/82/477], as amended by [Pub. L. 91–609, title IX][/us/pl/91/609/tIX], § 918, Dec. 31, 1970, [84 Stat. 1816][/us/stat/84/1816], directed Secretary to report annually to Committees on Banking and Currency of House and Senate, identifying specific areas of program administration and management which require improvement, describing actions taken and proposed, and recommendations for legislation, prior to repeal by [Pub. L. 93–608][/us/pl/93/608], § 1(9), Jan. 2, 1975, [88 Stat. 1968][/us/stat/88/1968].
 
  __Executive Order No. 11196__ 
 
@@ -127,45 +127,45 @@
 [/us/stat/63/972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F972
 [/us/act/1950-04-20/ch94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-04-20%2Fch94
 [/us/stat/64/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F80
-[/us/pl/87/70/s909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F70%2Fs909
+[/us/pl/87/70/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F70%2FtIX
 [/us/stat/75/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F192
-[/us/pl/90/19/s5/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19%2Fs5%2Fd%2F1
+[/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
 [/us/stat/81/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F21
-[/us/pl/98/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479
+[/us/pl/98/479/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2FtII
 [/us/stat/98/2228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2228
-[/us/pl/100/242/s570/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs570%2Fa%2F1
+[/us/pl/100/242/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtV
 [/us/stat/101/1949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1949
-[/us/pl/101/73/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs306
+[/us/pl/101/73/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtIII
 [/us/stat/103/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F352
-[/us/pl/111/203/s370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs370
+[/us/pl/111/203/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIII
 [/us/stat/124/1565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1565
 [/us/act/1948-08-10/ch832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-08-10%2Fch832
 [/us/stat/62/1268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1268
 [/us/usc/t12/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/usc/t42/s1404a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1404a
-[/us/pl/111/203/s370/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs370%2F1
-[/us/pl/111/203/s370/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs370%2F2
-[/us/pl/101/73/s306/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs306%2Fa
-[/us/pl/101/73/s306/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs306%2Fb
-[/us/pl/100/242/s570/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs570%2Fa%2F1
-[/us/pl/100/242/s570/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs570%2Fa%2F3
-[/us/pl/98/479/s202/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2Fs202%2Fb%2F1
-[/us/pl/98/479/s202/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2Fs202%2Fb%2F2
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/98/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479
+[/us/pl/98/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
 [/us/usc/t5/s73b–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs73b%E2%80%932
-[/us/pl/98/479/s203/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2Fs203%2Fc
+[/us/pl/98/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479
 [/us/usc/t31/s3324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3324
 [/us/usc/t31/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs529
-[/us/pl/90/19/s5/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19%2Fs5%2Fd%2F1
-[/us/pl/90/19/s5/d/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19%2Fs5%2Fd%2F8
-[/us/pl/90/19/s5/d/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19%2Fs5%2Fd%2F10
-[/us/pl/90/19/s5/d/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19%2Fs5%2Fd%2F12
-[/us/pl/87/70/s909/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F70%2Fs909%2F1
+[/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
+[/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
+[/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
+[/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
+[/us/pl/87/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F70
 [/us/usc/t41/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs5
-[/us/pl/87/70/s909/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F70%2Fs909%2F2
+[/us/pl/87/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F70
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs351
 [/us/usc/t2/s906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs906
@@ -175,11 +175,11 @@
 [/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
 [/us/usc/t12/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1437
 [/us/usc/t42/s5195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5195
-[/us/pl/90/448/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs5
+[/us/pl/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448
 [/us/stat/82/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F477
-[/us/pl/91/609/s918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F609%2Fs918
+[/us/pl/91/609/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F609%2FtIX
 [/us/stat/84/1816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1816
-[/us/pl/93/608/s1/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F608%2Fs1%2F9
+[/us/pl/93/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F608
 [/us/stat/88/1968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1968
 
 

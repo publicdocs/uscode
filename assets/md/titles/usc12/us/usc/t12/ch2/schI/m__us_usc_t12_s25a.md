@@ -63,23 +63,23 @@
 
         The Comptroller of the Currency shall issue such regulations as may be necessary to the strict enforcement of this section and the prevention of evasions thereof.
 
-(R.S. § 5136B, formerly § 5136A, as added [Pub. L. 90–203, § 1(a)][/us/pl/90/203/s1/a], Dec. 15, 1967, [81 Stat. 608][/us/stat/81/608]; renumbered R.S. § 5136B, [Pub. L. 106–102, title I, § 121(a)(1)][/us/pl/106/102/s121/a/1], Nov. 12, 1999, [113 Stat. 1373][/us/stat/113/1373]; amended [Pub. L. 113–251, § 3(a)][/us/pl/113/251/s3/a], Dec. 18, 2014, [128 Stat. 2889][/us/stat/128/2889].)
+(R.S. § 5136B, formerly § 5136A, as added [Pub. L. 90–203][/us/pl/90/203], § 1(a), Dec. 15, 1967, [81 Stat. 608][/us/stat/81/608]; renumbered R.S. § 5136B, [Pub. L. 106–102, title I][/us/pl/106/102/tI], § 121(a)(1), Nov. 12, 1999, [113 Stat. 1373][/us/stat/113/1373]; amended [Pub. L. 113–251][/us/pl/113/251], § 3(a), Dec. 18, 2014, [128 Stat. 2889][/us/stat/128/2889].)
 
  __Amendments__ 
 
-    2014—Subsec. (c)(2). [Pub. L. 113–251, § 3(a)(1)][/us/pl/113/251/s3/a/1], inserted “, other than a savings promotion raffle,” before “whereby” in introductory provisions.
+    2014—Subsec. (c)(2). [Pub. L. 113–251][/us/pl/113/251], § 3(a)(1), inserted “, other than a savings promotion raffle,” before “whereby” in introductory provisions.
 
-    Subsec. (c)(4). [Pub. L. 113–251, § 3(a)(2)][/us/pl/113/251/s3/a/2], added par. (4).
+    Subsec. (c)(4). [Pub. L. 113–251][/us/pl/113/251], § 3(a)(2), added par. (4).
 
  __Effective Date__ 
 
-[Pub. L. 90–203, § 6][/us/pl/90/203/s6], Dec. 15, 1967, [81 Stat. 611][/us/stat/81/611], provided that: 
+[Pub. L. 90–203][/us/pl/90/203], § 6, Dec. 15, 1967, [81 Stat. 611][/us/stat/81/611], provided that: 
 
 > “The amendments made by this Act \[adding this section, sections 339, 1730c, and 1829a of this title, and [section 1306 of Title 18][/us/usc/t18/s1306], Crimes and Criminal Procedure\] shall take effect on April 1, 1968.”
 
  __Findings__ 
 
-[Pub. L. 113–251, § 2][/us/pl/113/251/s2], Dec. 18, 2014, [128 Stat. 2888][/us/stat/128/2888], provided that: 
+[Pub. L. 113–251][/us/pl/113/251], § 2, Dec. 18, 2014, [128 Stat. 2888][/us/stat/128/2888], provided that: 
 
 > “Congress finds that—
 
@@ -109,18 +109,18 @@
 ----------
 
 [/us/usc/t12/s5481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5481
-[/us/pl/90/203/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F203%2Fs1%2Fa
+[/us/pl/90/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F203
 [/us/stat/81/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F608
-[/us/pl/106/102/s121/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs121%2Fa%2F1
+[/us/pl/106/102/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtI
 [/us/stat/113/1373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1373
-[/us/pl/113/251/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F251%2Fs3%2Fa
+[/us/pl/113/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F251
 [/us/stat/128/2889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2889
-[/us/pl/113/251/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F251%2Fs3%2Fa%2F1
-[/us/pl/113/251/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F251%2Fs3%2Fa%2F2
-[/us/pl/90/203/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F203%2Fs6
+[/us/pl/113/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F251
+[/us/pl/113/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F251
+[/us/pl/90/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F203
 [/us/stat/81/611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F611
 [/us/usc/t18/s1306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1306
-[/us/pl/113/251/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F251%2Fs2
+[/us/pl/113/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F251
 [/us/stat/128/2888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2888
 
 

@@ -23,11 +23,11 @@
 
     (3) owners of rural homes.
 
-([Pub. L. 92–181, title I, § 1][/us/pl/92/181/s1].9, as added [Pub. L. 100–233, title IV, § 401][/us/pl/100/233/s401], Jan. 6, 1988, [101 Stat. 1626][/us/stat/101/1626].)
+([Pub. L. 92–181, title I][/us/pl/92/181/tI], § 1.9, as added [Pub. L. 100–233, title IV][/us/pl/100/233/tIV], § 401, Jan. 6, 1988, [101 Stat. 1626][/us/stat/101/1626].)
 
  __Prior Provisions__ 
 
-    A prior section 2017, [Pub. L. 92–181, title I, § 1][/us/pl/92/181/s1].9, Dec. 10, 1971, [85 Stat. 586][/us/stat/85/586]; [Pub. L. 96–592, title I, § 106][/us/pl/96/592/s106], Dec. 24, 1980, [94 Stat. 3438][/us/stat/94/3438]; [Pub. L. 100–233, title IV, § 426][/us/pl/100/233/s426], title VIII, § 802(d), Jan. 6, 1988, [101 Stat. 1657][/us/stat/101/1657], 1710; [Pub. L. 100–399, title IV, § 412][/us/pl/100/399/s412], title VII, § 701, Aug. 17, 1988, [102 Stat. 1004][/us/stat/102/1004], 1006, related to security, prior to the general amendment of this subchapter by [Pub. L. 100–233, § 401][/us/pl/100/233/s401].
+    A prior section 2017, [Pub. L. 92–181, title I][/us/pl/92/181/tI], § 1.9, Dec. 10, 1971, [85 Stat. 586][/us/stat/85/586]; [Pub. L. 96–592, title I][/us/pl/96/592/tI], § 106, Dec. 24, 1980, [94 Stat. 3438][/us/stat/94/3438]; [Pub. L. 100–233, title IV][/us/pl/100/233/tIV], § 426, title VIII, § 802(d), Jan. 6, 1988, [101 Stat. 1657][/us/stat/101/1657], 1710; [Pub. L. 100–399, title IV][/us/pl/100/399/tIV], § 412, title VII, § 701, Aug. 17, 1988, [102 Stat. 1004][/us/stat/102/1004], 1006, related to security, prior to the general amendment of this subchapter by [Pub. L. 100–233][/us/pl/100/233], § 401.
 
 ----------
 
@@ -36,17 +36,17 @@
 ----------
 ----------
 
-[/us/pl/92/181/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs1
-[/us/pl/100/233/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs401
+[/us/pl/92/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtI
+[/us/pl/100/233/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtIV
 [/us/stat/101/1626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1626
-[/us/pl/92/181/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs1
+[/us/pl/92/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtI
 [/us/stat/85/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F586
-[/us/pl/96/592/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592%2Fs106
+[/us/pl/96/592/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592%2FtI
 [/us/stat/94/3438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3438
-[/us/pl/100/233/s426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs426
+[/us/pl/100/233/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtIV
 [/us/stat/101/1657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1657
-[/us/pl/100/399/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs412
+[/us/pl/100/399/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtIV
 [/us/stat/102/1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1004
-[/us/pl/100/233/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs401
+[/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
 
 

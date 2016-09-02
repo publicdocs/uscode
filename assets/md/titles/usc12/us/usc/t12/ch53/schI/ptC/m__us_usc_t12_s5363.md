@@ -41,7 +41,7 @@
 
             Solely for purposes of [section 18a(c)(8) of title 15][/us/usc/t15/s18a/c/8], the transactions subject to the requirements of paragraph (1) shall be treated as if Board of Governors approval is not required.
 
-([Pub. L. 111–203, title I, § 163][/us/pl/111/203/s163], July 21, 2010, [124 Stat. 1422][/us/stat/124/1422].)
+([Pub. L. 111–203, title I][/us/pl/111/203/tI], § 163, July 21, 2010, [124 Stat. 1422][/us/stat/124/1422].)
 
 ----------
 
@@ -60,7 +60,7 @@
 [/us/usc/t12/s1843/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1843%2Fk
 [/us/usc/t12/s1843/j/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1843%2Fj%2F2
 [/us/usc/t15/s18a/c/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs18a%2Fc%2F8
-[/us/pl/111/203/s163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs163
+[/us/pl/111/203/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtI
 [/us/stat/124/1422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1422
 
 

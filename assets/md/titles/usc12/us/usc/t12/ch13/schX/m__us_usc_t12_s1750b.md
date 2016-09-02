@@ -49,21 +49,21 @@
 
         Any contract of insurance heretofore or hereafter executed by the Secretary under this subchapter shall be conclusive evidence of the eligibility of the mortgage for insurance, and the validity of any contract of insurance so executed shall be incontestable in the hands of an approved mortgagee from the date of the execution of such contract, except for fraud or misrepresentation on the part of such approved mortgagee.
 
-([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title IX, § 903, as added [Sept. 1, 1951, ch. 378][/us/act/1951-09-01/ch378], title II, § 201, [65 Stat. 296][/us/stat/65/296]; amended [July 14, 1952, ch. 723, § 13][/us/act/1952-07-14/ch723/s13], [66 Stat. 604][/us/stat/66/604]; [June 30, 1953, ch. 170, § 11][/us/act/1953-06-30/ch170/s11], [67 Stat. 124][/us/stat/67/124]; [Aug. 2, 1954, ch. 649][/us/act/1954-08-02/ch649], title I, § 128(b), [68 Stat. 609][/us/stat/68/609]; [Pub. L. 89–117, title XI, § 1108(x)][/us/pl/89/117/s1108/x], Aug. 10, 1965, [79 Stat. 507][/us/stat/79/507]; [Pub. L. 90–19, § 1(a)(3)][/us/pl/90/19/s1/a/3], (4), (s), (t), May 25, 1967, [81 Stat. 17][/us/stat/81/17], 19.)
+([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title IX, § 903, as added [Sept. 1, 1951, ch. 378][/us/act/1951-09-01/ch378], title II, § 201, [65 Stat. 296][/us/stat/65/296]; amended [July 14, 1952, ch. 723][/us/act/1952-07-14/ch723], § 13, [66 Stat. 604][/us/stat/66/604]; [June 30, 1953, ch. 170][/us/act/1953-06-30/ch170], § 11, [67 Stat. 124][/us/stat/67/124]; [Aug. 2, 1954, ch. 649][/us/act/1954-08-02/ch649], title I, § 128(b), [68 Stat. 609][/us/stat/68/609]; [Pub. L. 89–117, title XI][/us/pl/89/117/tXI], § 1108(x), Aug. 10, 1965, [79 Stat. 507][/us/stat/79/507]; [Pub. L. 90–19][/us/pl/90/19], § 1(a)(3), (4), (s), (t), May 25, 1967, [81 Stat. 17][/us/stat/81/17], 19.)
 
  __References in Text__ 
 
     The General Insurance Fund, referred to in text, was established by [section 1735c of this title][/us/usc/t12/s1735c].
 
-    [Section 1715h of this title][/us/usc/t12/s1715h], referred to in subsec. (a), was repealed by [Pub. L. 100–242, title IV, § 401(a)(1)][/us/pl/100/242/s401/a/1], Feb. 5, 1988, [101 Stat. 1898][/us/stat/101/1898].
+    [Section 1715h of this title][/us/usc/t12/s1715h], referred to in subsec. (a), was repealed by [Pub. L. 100–242, title IV][/us/pl/100/242/tIV], § 401(a)(1), Feb. 5, 1988, [101 Stat. 1898][/us/stat/101/1898].
 
  __Amendments__ 
 
-    1967—[Pub. L. 90–19, § 1(a)(3)][/us/pl/90/19/s1/a/3], substituted “Secretary” for “Commissioner” wherever appearing in subsecs. (a), (b)(1) to (4), (6), (7), and (c) to (e).
+    1967—[Pub. L. 90–19][/us/pl/90/19], § 1(a)(3), substituted “Secretary” for “Commissioner” wherever appearing in subsecs. (a), (b)(1) to (4), (6), (7), and (c) to (e).
 
-    Subsec. (a). [Pub. L. 90–19, § 1(a)(4)][/us/pl/90/19/s1/a/4], (s), substituted “Secretary’s” and “Secretary of Housing and Home Development” for “Commissioner’s” and “Housing and Home Finance Administrator”, respectively.
+    Subsec. (a). [Pub. L. 90–19][/us/pl/90/19], § 1(a)(4), (s), substituted “Secretary’s” and “Secretary of Housing and Home Development” for “Commissioner’s” and “Housing and Home Finance Administrator”, respectively.
 
-    Subsec. (d). [Pub. L. 90–19, § 1(t)][/us/pl/90/19/s1/t], struck out “, with the approval of the Housing and Home Finance Administrator,” before “is further authorized”.
+    Subsec. (d). [Pub. L. 90–19][/us/pl/90/19], § 1(t), struck out “, with the approval of the Housing and Home Finance Administrator,” before “is further authorized”.
 
     1965—Subsec. (a). [Pub. L. 89–117][/us/pl/89/117] substituted “General Insurance Fund” for “National Defense Housing Insurance Fund”.
 
@@ -94,23 +94,23 @@
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
 [/us/act/1951-09-01/ch378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-09-01%2Fch378
 [/us/stat/65/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F296
-[/us/act/1952-07-14/ch723/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-14%2Fch723%2Fs13
+[/us/act/1952-07-14/ch723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-14%2Fch723
 [/us/stat/66/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F604
-[/us/act/1953-06-30/ch170/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-30%2Fch170%2Fs11
+[/us/act/1953-06-30/ch170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-30%2Fch170
 [/us/stat/67/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F124
 [/us/act/1954-08-02/ch649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-02%2Fch649
 [/us/stat/68/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F609
-[/us/pl/89/117/s1108/x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117%2Fs1108%2Fx
+[/us/pl/89/117/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117%2FtXI
 [/us/stat/79/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F507
-[/us/pl/90/19/s1/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19%2Fs1%2Fa%2F3
+[/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
 [/us/stat/81/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F17
 [/us/usc/t12/s1735c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1735c
 [/us/usc/t12/s1715h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715h
-[/us/pl/100/242/s401/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs401%2Fa%2F1
+[/us/pl/100/242/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtIV
 [/us/stat/101/1898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1898
-[/us/pl/90/19/s1/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19%2Fs1%2Fa%2F3
-[/us/pl/90/19/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19%2Fs1%2Fa%2F4
-[/us/pl/90/19/s1/t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19%2Fs1%2Ft
+[/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
+[/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
+[/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
 [/us/pl/89/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117
 
 

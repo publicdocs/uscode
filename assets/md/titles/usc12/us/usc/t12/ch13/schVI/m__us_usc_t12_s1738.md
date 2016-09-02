@@ -69,15 +69,15 @@
 
         Any contract of insurance heretofore or hereafter executed by the Secretary under this subchapter shall be conclusive evidence of the eligibility of the mortgage for insurance, and the validity of any contract of insurance so executed shall be incontestable in the hands of an approved mortgagee from the date of the execution of such contract, except for fraud or misrepresentation on the part of such approved mortgagee.
 
-([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title VI, § 603, as added [Mar. 28, 1941, ch. 31, § 1][/us/act/1941-03-28/ch31/s1], [55 Stat. 56][/us/stat/55/56]; amended [Sept. 2, 1941, ch. 410][/us/act/1941-09-02/ch410], 55, Stat. 686; [May 26, 1942, ch. 319][/us/act/1942-05-26/ch319], §§ 1–4, 14(b), [56 Stat. 301][/us/stat/56/301], 305; [Mar. 23, 1943, ch. 21, § 1][/us/act/1943-03-23/ch21/s1], [57 Stat. 42][/us/stat/57/42]; [Oct. 15, 1943, ch. 259, § 1][/us/act/1943-10-15/ch259/s1], [57 Stat. 571][/us/stat/57/571]; [June 30, 1944, ch. 334][/us/act/1944-06-30/ch334], [58 Stat. 648][/us/stat/58/648]; [Mar. 31, 1945, ch. 48, § 1][/us/act/1945-03-31/ch48/s1], [59 Stat. 47][/us/stat/59/47]; [May 22, 1946, ch. 268, § 10(a)][/us/act/1946-05-22/ch268/s10/a]–(d), [60 Stat. 212][/us/stat/60/212], 213; [June 30, 1947, ch. 163][/us/act/1947-06-30/ch163], title I, § 2, [61 Stat. 193][/us/stat/61/193]; [Aug. 5, 1947, ch. 495, § 1][/us/act/1947-08-05/ch495/s1], [61 Stat. 777][/us/stat/61/777]; [Dec. 27, 1947, ch. 525, § 1][/us/act/1947-12-27/ch525/s1], [61 Stat. 945][/us/stat/61/945]; [Mar. 31, 1948, ch. 165, § 1(a)][/us/act/1948-03-31/ch165/s1/a]–(c), [62 Stat. 101][/us/stat/62/101]; [Aug. 10, 1948, ch. 832][/us/act/1948-08-10/ch832], title I, § 101(a), (k)(2), [62 Stat. 1268][/us/stat/62/1268], 1273; [Mar. 30, 1949, ch. 42][/us/act/1949-03-30/ch42], title III, § 304, [63 Stat. 29][/us/stat/63/29]; [July 15, 1949, ch. 338][/us/act/1949-07-15/ch338], title II, § 201(3), [63 Stat. 421][/us/stat/63/421]; [Aug. 30, 1949, ch. 524][/us/act/1949-08-30/ch524], [63 Stat. 681][/us/stat/63/681]; [Oct. 25, 1949, ch. 729, § 1(4)][/us/act/1949-10-25/ch729/s1/4], [63 Stat. 905][/us/stat/63/905]; [Apr. 20, 1950, ch. 94][/us/act/1950-04-20/ch94], title I, §§ 119, 122, [64 Stat. 57][/us/stat/64/57], 59; [Pub. L. 90–19, § 1(a)(1)][/us/pl/90/19/s1/a/1], (3), (4), (n), May 25, 1967, [81 Stat. 17][/us/stat/81/17], 19.)
+([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title VI, § 603, as added [Mar. 28, 1941, ch. 31][/us/act/1941-03-28/ch31], § 1, [55 Stat. 56][/us/stat/55/56]; amended [Sept. 2, 1941, ch. 410][/us/act/1941-09-02/ch410], 55, Stat. 686; [May 26, 1942, ch. 319][/us/act/1942-05-26/ch319], §§ 1–4, 14(b), [56 Stat. 301][/us/stat/56/301], 305; [Mar. 23, 1943, ch. 21][/us/act/1943-03-23/ch21], § 1, [57 Stat. 42][/us/stat/57/42]; [Oct. 15, 1943, ch. 259][/us/act/1943-10-15/ch259], § 1, [57 Stat. 571][/us/stat/57/571]; [June 30, 1944, ch. 334][/us/act/1944-06-30/ch334], [58 Stat. 648][/us/stat/58/648]; [Mar. 31, 1945, ch. 48][/us/act/1945-03-31/ch48], § 1, [59 Stat. 47][/us/stat/59/47]; [May 22, 1946, ch. 268][/us/act/1946-05-22/ch268], § 10(a)–(d), [60 Stat. 212][/us/stat/60/212], 213; [June 30, 1947, ch. 163][/us/act/1947-06-30/ch163], title I, § 2, [61 Stat. 193][/us/stat/61/193]; [Aug. 5, 1947, ch. 495][/us/act/1947-08-05/ch495], § 1, [61 Stat. 777][/us/stat/61/777]; [Dec. 27, 1947, ch. 525][/us/act/1947-12-27/ch525], § 1, [61 Stat. 945][/us/stat/61/945]; [Mar. 31, 1948, ch. 165][/us/act/1948-03-31/ch165], § 1(a)–(c), [62 Stat. 101][/us/stat/62/101]; [Aug. 10, 1948, ch. 832][/us/act/1948-08-10/ch832], title I, § 101(a), (k)(2), [62 Stat. 1268][/us/stat/62/1268], 1273; [Mar. 30, 1949, ch. 42][/us/act/1949-03-30/ch42], title III, § 304, [63 Stat. 29][/us/stat/63/29]; [July 15, 1949, ch. 338][/us/act/1949-07-15/ch338], title II, § 201(3), [63 Stat. 421][/us/stat/63/421]; [Aug. 30, 1949, ch. 524][/us/act/1949-08-30/ch524], [63 Stat. 681][/us/stat/63/681]; [Oct. 25, 1949, ch. 729][/us/act/1949-10-25/ch729], § 1(4), [63 Stat. 905][/us/stat/63/905]; [Apr. 20, 1950, ch. 94][/us/act/1950-04-20/ch94], title I, §§ 119, 122, [64 Stat. 57][/us/stat/64/57], 59; [Pub. L. 90–19][/us/pl/90/19], § 1(a)(1), (3), (4), (n), May 25, 1967, [81 Stat. 17][/us/stat/81/17], 19.)
 
  __Amendments__ 
 
-    1967—[Pub. L. 90–19, § 1(a)(3)][/us/pl/90/19/s1/a/3], substituted “Secretary” for “Commissioner” wherever appearing in subsecs. (a), (b)(1), (2), (b)(2)(D), (b)(3), (4), (6), (7), (c), and (d).
+    1967—[Pub. L. 90–19][/us/pl/90/19], § 1(a)(3), substituted “Secretary” for “Commissioner” wherever appearing in subsecs. (a), (b)(1), (2), (b)(2)(D), (b)(3), (4), (6), (7), (c), and (d).
 
-    Subsec. (a). [Pub. L. 90–19, § 1(a)(1)][/us/pl/90/19/s1/a/1], (n), substituted “Department of Housing and Urban Development” for “Federal Housing Administration” and “by” for “in any field office of” after “received”, in third par., respectively.
+    Subsec. (a). [Pub. L. 90–19][/us/pl/90/19], § 1(a)(1), (n), substituted “Department of Housing and Urban Development” for “Federal Housing Administration” and “by” for “in any field office of” after “received”, in third par., respectively.
 
-    Subsec. (b)(2). [Pub. L. 90–19, § 1(a)(4)][/us/pl/90/19/s1/a/4], substituted “Secretary’s” for “Commissioner’s” wherever appearing.
+    Subsec. (b)(2). [Pub. L. 90–19][/us/pl/90/19], § 1(a)(4), substituted “Secretary’s” for “Commissioner’s” wherever appearing.
 
     1950—Act Apr. 20, 1950, § 122, substituted “Commissioner” for “Administrator” wherever appearing.
 
@@ -139,7 +139,7 @@
 
  __Inflation Safeguards__ 
 
-[Act Dec. 27, 1947, ch. 525, § 2][/us/act/1947-12-27/ch525/s2], [61 Stat. 945][/us/stat/61/945], provided: 
+[Act Dec. 27, 1947, ch. 525][/us/act/1947-12-27/ch525], § 2, [61 Stat. 945][/us/stat/61/945], provided: 
 
 > “Title VI of the National Housing Act, as amended \[this subchapter\], shall be employed to assist in maintaining a high volume of new residential construction without supporting unnecessary or artificial costs. In estimating necessary current cost for the purposes of said title, the Federal Housing Commissioner shall therefore use every feasible means to assure that such estimates will approximate as closely as possible the actual costs of efficient building operations.”
 
@@ -157,28 +157,28 @@
 [/us/usc/t12/s1743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1743
 [/us/usc/t12/s1743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1743
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
-[/us/act/1941-03-28/ch31/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-03-28%2Fch31%2Fs1
+[/us/act/1941-03-28/ch31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-03-28%2Fch31
 [/us/stat/55/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F56
 [/us/act/1941-09-02/ch410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-09-02%2Fch410
 [/us/act/1942-05-26/ch319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-05-26%2Fch319
 [/us/stat/56/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F301
-[/us/act/1943-03-23/ch21/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-03-23%2Fch21%2Fs1
+[/us/act/1943-03-23/ch21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-03-23%2Fch21
 [/us/stat/57/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F57%2F42
-[/us/act/1943-10-15/ch259/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-10-15%2Fch259%2Fs1
+[/us/act/1943-10-15/ch259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-10-15%2Fch259
 [/us/stat/57/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F57%2F571
 [/us/act/1944-06-30/ch334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-06-30%2Fch334
 [/us/stat/58/648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F648
-[/us/act/1945-03-31/ch48/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-03-31%2Fch48%2Fs1
+[/us/act/1945-03-31/ch48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-03-31%2Fch48
 [/us/stat/59/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F47
-[/us/act/1946-05-22/ch268/s10/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-05-22%2Fch268%2Fs10%2Fa
+[/us/act/1946-05-22/ch268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-05-22%2Fch268
 [/us/stat/60/212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F212
 [/us/act/1947-06-30/ch163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-30%2Fch163
 [/us/stat/61/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F193
-[/us/act/1947-08-05/ch495/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-08-05%2Fch495%2Fs1
+[/us/act/1947-08-05/ch495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-08-05%2Fch495
 [/us/stat/61/777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F777
-[/us/act/1947-12-27/ch525/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-12-27%2Fch525%2Fs1
+[/us/act/1947-12-27/ch525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-12-27%2Fch525
 [/us/stat/61/945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F945
-[/us/act/1948-03-31/ch165/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-03-31%2Fch165%2Fs1%2Fa
+[/us/act/1948-03-31/ch165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-03-31%2Fch165
 [/us/stat/62/101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F101
 [/us/act/1948-08-10/ch832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-08-10%2Fch832
 [/us/stat/62/1268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1268
@@ -188,17 +188,17 @@
 [/us/stat/63/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F421
 [/us/act/1949-08-30/ch524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-30%2Fch524
 [/us/stat/63/681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F681
-[/us/act/1949-10-25/ch729/s1/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-25%2Fch729%2Fs1%2F4
+[/us/act/1949-10-25/ch729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-25%2Fch729
 [/us/stat/63/905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F905
 [/us/act/1950-04-20/ch94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-04-20%2Fch94
 [/us/stat/64/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F57
-[/us/pl/90/19/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19%2Fs1%2Fa%2F1
+[/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
 [/us/stat/81/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F17
-[/us/pl/90/19/s1/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19%2Fs1%2Fa%2F3
-[/us/pl/90/19/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19%2Fs1%2Fa%2F1
-[/us/pl/90/19/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19%2Fs1%2Fa%2F4
+[/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
+[/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
+[/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
 [/us/usc/t12/s1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1703
-[/us/act/1947-12-27/ch525/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-12-27%2Fch525%2Fs2
+[/us/act/1947-12-27/ch525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-12-27%2Fch525
 [/us/stat/61/945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F945
 
 

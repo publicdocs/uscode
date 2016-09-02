@@ -23,7 +23,7 @@
 
         For purposes of this section, the term “broker price opinion” means an estimate prepared by a real estate broker, agent, or sales person that details the probable selling price of a particular piece of real estate property and provides a varying level of detail about the property’s condition, market, and neighborhood, and information on comparable sales, but does not include an automated valuation model, as defined in section 3354(c)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title.
 
-([Pub. L. 101–73, title XI, § 1126][/us/pl/101/73/s1126], as added [Pub. L. 111–203, title XIV, § 1473(r)][/us/pl/111/203/s1473/r], July 21, 2010, [124 Stat. 2198][/us/stat/124/2198].)
+([Pub. L. 101–73, title XI][/us/pl/101/73/tXI], § 1126, as added [Pub. L. 111–203, title XIV][/us/pl/111/203/tXIV], § 1473(r), July 21, 2010, [124 Stat. 2198][/us/stat/124/2198].)
 
  __References in Text__ 
 
@@ -40,8 +40,8 @@
 ----------
 ----------
 
-[/us/pl/101/73/s1126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs1126
-[/us/pl/111/203/s1473/r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1473%2Fr
+[/us/pl/101/73/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtXI
+[/us/pl/111/203/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtXIV
 [/us/stat/124/2198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2198
 [/us/usc/t12/s3354/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3354%2Fc
 [/us/usc/t12/s3354/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3354%2Fd

@@ -45,11 +45,11 @@
 
         (2) any report of examination or other confidential supervisory information obtained by any State agency or authority, or any other person, from a Federal banking agency.
 
-([Pub. L. 106–102, title I, § 132][/us/pl/106/102/s132], Nov. 12, 1999, [113 Stat. 1382][/us/stat/113/1382].)
+([Pub. L. 106–102, title I][/us/pl/106/102/tI], § 132, Nov. 12, 1999, [113 Stat. 1382][/us/stat/113/1382].)
 
  __References in Text__ 
 
-    The National Bank Consolidation and Merger Act, referred to in subsec. (a), is [act Nov. 7, 1918, ch. 209][/us/act/1918-11-07/ch209], as added by [Pub. L. 86–230, § 20][/us/pl/86/230/s20], Sept. 8, 1959, [73 Stat. 460][/us/stat/73/460], and amended, which is classified generally to subchapter XVI (§ 215 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 215 of this title][/us/usc/t12/s215] and Tables.
+    The National Bank Consolidation and Merger Act, referred to in subsec. (a), is [act Nov. 7, 1918, ch. 209][/us/act/1918-11-07/ch209], as added by [Pub. L. 86–230][/us/pl/86/230], § 20, Sept. 8, 1959, [73 Stat. 460][/us/stat/73/460], and amended, which is classified generally to subchapter XVI (§ 215 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 215 of this title][/us/usc/t12/s215] and Tables.
 
  __Codification__ 
 
@@ -70,10 +70,10 @@
 [/us/usc/t12/s215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs215
 [/us/usc/t12/s1467a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1467a
 [/us/usc/t12/s1813/z]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813%2Fz
-[/us/pl/106/102/s132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs132
+[/us/pl/106/102/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtI
 [/us/stat/113/1382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1382
 [/us/act/1918-11-07/ch209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-11-07%2Fch209
-[/us/pl/86/230/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F230%2Fs20
+[/us/pl/86/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F230
 [/us/stat/73/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F460
 [/us/usc/t12/s215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs215
 [/us/pl/106/102/s161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs161

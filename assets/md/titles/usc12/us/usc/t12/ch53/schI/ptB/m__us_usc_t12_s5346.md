@@ -95,7 +95,7 @@
 
         (2) the rights of employees under chapter 71 of title 5.
 
-([Pub. L. 111–203, title I, § 156][/us/pl/111/203/s156], July 21, 2010, [124 Stat. 1419][/us/stat/124/1419].)
+([Pub. L. 111–203, title I][/us/pl/111/203/tI], § 156, July 21, 2010, [124 Stat. 1419][/us/stat/124/1419].)
 
 ----------
 
@@ -105,7 +105,7 @@
 ----------
 
 [/us/usc/t5/s7103/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7103%2Fa%2F8
-[/us/pl/111/203/s156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs156
+[/us/pl/111/203/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtI
 [/us/stat/124/1419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1419
 
 

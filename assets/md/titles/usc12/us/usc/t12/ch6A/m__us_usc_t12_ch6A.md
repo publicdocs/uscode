@@ -257,7 +257,7 @@ SUBCHAPTER II—EXPORT FINANCING  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs635" data-uslm-ref="/us/usc/t12/s635">635</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs635l" data-uslm-ref="/us/usc/t12/s635l">635l.</a>  </td>
 
     <td> Authorization for appropriation of funds for losses.  </td>
 
@@ -289,7 +289,7 @@ SUBCHAPTER III—TIED AID CREDIT EXPORT SUBSIDIES  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs635" data-uslm-ref="/us/usc/t12/s635">635</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs635o" data-uslm-ref="/us/usc/t12/s635o">635o.</a>  </td>
 
     <td> Congressional statement of purpose.  </td>
 

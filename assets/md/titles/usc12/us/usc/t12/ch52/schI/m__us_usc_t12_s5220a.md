@@ -17,7 +17,7 @@
 
     In making any assistance available to prevent and mitigate foreclosures on residential properties, including any assistance for mortgage modifications, using any amounts made available to the Secretary of the Treasury under title I of the Emergency Economic Stabilization Act of 2008 \[[12 U.S.C. 5211][/us/usc/t12/s5211] et seq.\], the Secretary shall provide that the limitation on the maximum original principal obligation of a mortgage that may be modified, refinanced, made, guaranteed, insured, or otherwise assisted, using such amounts shall not be less than the dollar amount limitation on the maximum original principal obligation of a mortgage that may be purchased by the Federal Home Loan Mortgage Corporation that is in effect, at the time that the mortgage is modified, refinanced, made, guaranteed, insured, or otherwise assisted using such amounts, for the area in which the property involved in the transaction is located.
 
-([Pub. L. 111–22, div. A, title II, § 205][/us/pl/111/22/s205], May 20, 2009, [123 Stat. 1654][/us/stat/123/1654].)
+([Pub. L. 111–22, div. A, title II][/us/pl/111/22/dA/tII], § 205, May 20, 2009, [123 Stat. 1654][/us/stat/123/1654].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t12/s5211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5211
-[/us/pl/111/22/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs205
+[/us/pl/111/22/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2FdA%2FtII
 [/us/stat/123/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1654
 [/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
 [/us/stat/122/3765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3765

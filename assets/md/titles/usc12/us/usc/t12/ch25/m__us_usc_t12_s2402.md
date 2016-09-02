@@ -57,7 +57,7 @@
 
         A vacancy in the Commission shall be filled in the manner in which the original appointment was made.
 
-([Pub. L. 93–495, title II, § 202][/us/pl/93/495/s202], Oct. 28, 1974, [88 Stat. 1508][/us/stat/88/1508].)
+([Pub. L. 93–495, title II][/us/pl/93/495/tII], § 202, Oct. 28, 1974, [88 Stat. 1508][/us/stat/88/1508].)
 
  __Transfer of Functions__ 
 
@@ -72,7 +72,7 @@
 ----------
 ----------
 
-[/us/pl/93/495/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2Fs202
+[/us/pl/93/495/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2FtII
 [/us/stat/88/1508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1508
 [/us/usc/t12/s1752a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1752a
 [/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73

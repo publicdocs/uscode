@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch6A/schI/m__us_usc_t12_s635h.md) | [Next](./../../../../..//us/usc/t12/ch6A/schI/m__us_usc_t12_s635i–4.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635i%E2%80%933)
+[Previous](./../../../../..//us/usc/t12/ch6A/schI/m__us_usc_t12_s635i...635i–2.md) | [Next](./../../../../..//us/usc/t12/ch6A/schI/m__us_usc_t12_s635i–4.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635i%E2%80%933)
 
 ## § 635i–3. Tied Aid Credit Fund and program
 
@@ -265,7 +265,7 @@
 
             The Bank, in consultation with the Secretary of the Treasury, shall define “market window” for purposes of this section.
 
-([July 31, 1945, ch. 341, § 10][/us/act/1945-07-31/ch341/s10], formerly § 15, as added [Pub. L. 99–472, § 19][/us/pl/99/472/s19], Oct. 15, 1986, [100 Stat. 1205][/us/stat/100/1205]; amended [Pub. L. 100–217][/us/pl/100/217], Dec. 29, 1987, [101 Stat. 1454][/us/stat/101/1454]; [Pub. L. 100–418, title III, § 3302(b)][/us/pl/100/418/s3302/b], Aug. 23, 1988, [102 Stat. 1383][/us/stat/102/1383]; [Pub. L. 101–240, title I, § 101(b)][/us/pl/101/240/s101/b], Dec. 19, 1989, [103 Stat. 2493][/us/stat/103/2493]; [Pub. L. 101–513, title V, § 562(d)][/us/pl/101/513/s562/d], Nov. 5, 1990, [104 Stat. 2036][/us/stat/104/2036]; renumbered § 10 and amended [Pub. L. 102–429, title I][/us/pl/102/429], §§ 103, 121(c)(4), Oct. 21, 1992, [106 Stat. 2187][/us/stat/106/2187], 2199; [Pub. L. 104–97, § 1][/us/pl/104/97/s1], Jan. 11, 1996, [109 Stat. 984][/us/stat/109/984]; [Pub. L. 104–107, title V, § 579][/us/pl/104/107/s579], Feb. 12, 1996, [110 Stat. 751][/us/stat/110/751]; [Pub. L. 105–121, § 3][/us/pl/105/121/s3], Nov. 26, 1997, [111 Stat. 2528][/us/stat/111/2528]; [Pub. L. 106–569, title XI, § 1103(d)(2)][/us/pl/106/569/s1103/d/2], Dec. 27, 2000, [114 Stat. 3031][/us/stat/114/3031]; [Pub. L. 107–189][/us/pl/107/189], §§ 9, 10(c), (d), 24(a)(2)(E), June 14, 2002, [116 Stat. 701][/us/stat/116/701], 703, 704, 708; [Pub. L. 109–438, § 10][/us/pl/109/438/s10], Dec. 20, 2006, [120 Stat. 3275][/us/stat/120/3275].)
+([July 31, 1945, ch. 341][/us/act/1945-07-31/ch341], § 10, formerly § 15, as added [Pub. L. 99–472][/us/pl/99/472], § 19, Oct. 15, 1986, [100 Stat. 1205][/us/stat/100/1205]; amended [Pub. L. 100–217][/us/pl/100/217], Dec. 29, 1987, [101 Stat. 1454][/us/stat/101/1454]; [Pub. L. 100–418, title III][/us/pl/100/418/tIII], § 3302(b), Aug. 23, 1988, [102 Stat. 1383][/us/stat/102/1383]; [Pub. L. 101–240, title I][/us/pl/101/240/tI], § 101(b), Dec. 19, 1989, [103 Stat. 2493][/us/stat/103/2493]; [Pub. L. 101–513, title V][/us/pl/101/513/tV], § 562(d), Nov. 5, 1990, [104 Stat. 2036][/us/stat/104/2036]; renumbered § 10 and amended [Pub. L. 102–429, title I][/us/pl/102/429/tI], §§ 103, 121(c)(4), Oct. 21, 1992, [106 Stat. 2187][/us/stat/106/2187], 2199; [Pub. L. 104–97][/us/pl/104/97], § 1, Jan. 11, 1996, [109 Stat. 984][/us/stat/109/984]; [Pub. L. 104–107, title V][/us/pl/104/107/tV], § 579, Feb. 12, 1996, [110 Stat. 751][/us/stat/110/751]; [Pub. L. 105–121][/us/pl/105/121], § 3, Nov. 26, 1997, [111 Stat. 2528][/us/stat/111/2528]; [Pub. L. 106–569, title XI][/us/pl/106/569/tXI], § 1103(d)(2), Dec. 27, 2000, [114 Stat. 3031][/us/stat/114/3031]; [Pub. L. 107–189][/us/pl/107/189], §§ 9, 10(c), (d), 24(a)(2)(E), June 14, 2002, [116 Stat. 701][/us/stat/116/701], 703, 704, 708; [Pub. L. 109–438][/us/pl/109/438], § 10, Dec. 20, 2006, [120 Stat. 3275][/us/stat/120/3275].)
 
  __Prior Provisions__ 
 
@@ -273,67 +273,67 @@
 
  __Amendments__ 
 
-    2006—Subsec. (a)(6). [Pub. L. 109–438, § 10(b)(1)(A)][/us/pl/109/438/s10/b/1/A], inserted “, including those that are not a party to the Arrangement,” after “countries” in introductory provisions.
+    2006—Subsec. (a)(6). [Pub. L. 109–438][/us/pl/109/438], § 10(b)(1)(A), inserted “, including those that are not a party to the Arrangement,” after “countries” in introductory provisions.
 
-    Subsec. (a)(6)(C). [Pub. L. 109–438, § 10(b)(1)(B)][/us/pl/109/438/s10/b/1/B], (C), added subpar. (C).
+    Subsec. (a)(6)(C). [Pub. L. 109–438][/us/pl/109/438], § 10(b)(1)(B), (C), added subpar. (C).
 
-    Subsec. (b)(5)(B)(i)(I). [Pub. L. 109–438, § 10(b)(2)(A)(i)][/us/pl/109/438/s10/b/2/A/i], struck out “and” after “multilateral rules,” and inserted “, and to seek compliance by those countries that are not a party to the Arrangement” before period.
+    Subsec. (b)(5)(B)(i)(I). [Pub. L. 109–438][/us/pl/109/438], § 10(b)(2)(A)(i), struck out “and” after “multilateral rules,” and inserted “, and to seek compliance by those countries that are not a party to the Arrangement” before period.
 
-    Subsec. (b)(5)(B)(i)(III). [Pub. L. 109–438, § 10(b)(2)(A)(ii)][/us/pl/109/438/s10/b/2/A/ii], inserted at end “In cases where information about a specific offer of foreign tied aid (or untied aid used to promote exports as if it were tied aid) is not available in a timely manner, or is unavailable because the foreign export credit agency involved is not subject to the reporting requirements under the Arrangement, then the Bank may decide to use the Tied Aid Credit Fund based on credible evidence of a history of such offers under similar circumstances or other forms of credible evidence.”
+    Subsec. (b)(5)(B)(i)(III). [Pub. L. 109–438][/us/pl/109/438], § 10(b)(2)(A)(ii), inserted at end “In cases where information about a specific offer of foreign tied aid (or untied aid used to promote exports as if it were tied aid) is not available in a timely manner, or is unavailable because the foreign export credit agency involved is not subject to the reporting requirements under the Arrangement, then the Bank may decide to use the Tied Aid Credit Fund based on credible evidence of a history of such offers under similar circumstances or other forms of credible evidence.”
 
-    Subsec. (b)(5)(B)(ii). [Pub. L. 109–438, § 10(a)][/us/pl/109/438/s10/a], amended cl. (ii) heading and text generally. Prior to amendment, text read as follows: “Once the principles, process and standards referred to in subparagraph (A) are followed, the final case-by-case decisions on the use of the Tied Aid Credit Fund shall be made by the Bank: Provided however, That the Bank shall not approve the extension of a proposed tied aid credit if the President of the United States determines, after consulting with the President of the Bank and the Secretary of the Treasury, that the extension of the tied aid credit would materially impede achieving the purposes described in subsection (a)(6) of this section.”
+    Subsec. (b)(5)(B)(ii). [Pub. L. 109–438][/us/pl/109/438], § 10(a), amended cl. (ii) heading and text generally. Prior to amendment, text read as follows: “Once the principles, process and standards referred to in subparagraph (A) are followed, the final case-by-case decisions on the use of the Tied Aid Credit Fund shall be made by the Bank: Provided however, That the Bank shall not approve the extension of a proposed tied aid credit if the President of the United States determines, after consulting with the President of the Bank and the Secretary of the Treasury, that the extension of the tied aid credit would materially impede achieving the purposes described in subsection (a)(6) of this section.”
 
-    2002—Subsec. (a)(4). [Pub. L. 107–189, § 10(c)(1)][/us/pl/107/189/s10/c/1], struck out “and” at end.
+    2002—Subsec. (a)(4). [Pub. L. 107–189][/us/pl/107/189], § 10(c)(1), struck out “and” at end.
 
-    Subsec. (a)(5). [Pub. L. 107–189, § 10(c)(3)][/us/pl/107/189/s10/c/3], added par. (5). Former par. (5) redesignated (6).
+    Subsec. (a)(5). [Pub. L. 107–189][/us/pl/107/189], § 10(c)(3), added par. (5). Former par. (5) redesignated (6).
 
-    [Pub. L. 107–189, § 10(c)(2)][/us/pl/107/189/s10/c/2], inserted “, or untied aid used to promote exports as if it were tied aid,” before “for commercial” in introductory provisions and in subpar. (B).
+    [Pub. L. 107–189][/us/pl/107/189], § 10(c)(2), inserted “, or untied aid used to promote exports as if it were tied aid,” before “for commercial” in introductory provisions and in subpar. (B).
 
-    Subsec. (a)(6). [Pub. L. 107–189, § 10(c)(3)][/us/pl/107/189/s10/c/3], redesignated par. (5) as (6).
+    Subsec. (a)(6). [Pub. L. 107–189][/us/pl/107/189], § 10(c)(3), redesignated par. (5) as (6).
 
-    Subsec. (b)(2)(A). [Pub. L. 107–189, § 9(a)(1)][/us/pl/107/189/s9/a/1], added subpar. (A) and struck out former subpar. (A) which read as follows: “in consultation with the Secretary and in accordance with the Secretary’s recommendations on how such credits could be used most effectively and efficiently to carry out the purposes described in subsection (a)(5) of this section;”.
+    Subsec. (b)(2)(A). [Pub. L. 107–189][/us/pl/107/189], § 9(a)(1), added subpar. (A) and struck out former subpar. (A) which read as follows: “in consultation with the Secretary and in accordance with the Secretary’s recommendations on how such credits could be used most effectively and efficiently to carry out the purposes described in subsection (a)(5) of this section;”.
 
-    Subsec. (b)(5). [Pub. L. 107–189, § 9(a)(2)][/us/pl/107/189/s9/a/2], added par. (5).
+    Subsec. (b)(5). [Pub. L. 107–189][/us/pl/107/189], § 9(a)(2), added par. (5).
 
-    Subsec. (b)(6). [Pub. L. 107–189, § 9(b)][/us/pl/107/189/s9/b], added par. (6).
+    Subsec. (b)(6). [Pub. L. 107–189][/us/pl/107/189], § 9(b), added par. (6).
 
-    Subsec. (g)(1). [Pub. L. 107–189, § 24(a)(2)(E)][/us/pl/107/189/s24/a/2/E], substituted “Committee on Financial Services of the House of Representatives” for “Committee on Banking, Finance and Urban Affairs of the House of Representatives”.
+    Subsec. (g)(1). [Pub. L. 107–189][/us/pl/107/189], § 24(a)(2)(E), substituted “Committee on Financial Services of the House of Representatives” for “Committee on Banking, Finance and Urban Affairs of the House of Representatives”.
 
-    Subsec. (h)(7). [Pub. L. 107–189, § 10(d)][/us/pl/107/189/s10/d], added par. (7).
+    Subsec. (h)(7). [Pub. L. 107–189][/us/pl/107/189], § 10(d), added par. (7).
 
     2000—Subsec. (g)(1). [Pub. L. 106–569][/us/pl/106/569] substituted “The Bank” for “On or before October 15, 1992, and every 6 months thereafter, the Bank” and “submit an annual report” for “submit a report”.
 
-    1997—Subsec. (c)(2). [Pub. L. 105–121, § 3(a)][/us/pl/105/121/s3/a], struck out “through September 30, 1997” after “authorized by the Bank”.
+    1997—Subsec. (c)(2). [Pub. L. 105–121][/us/pl/105/121], § 3(a), struck out “through September 30, 1997” after “authorized by the Bank”.
 
-    Subsec. (e). [Pub. L. 105–121, § 3(b)][/us/pl/105/121/s3/b], amended first sentence generally. Prior to amendment first sentence read as follows: “There are authorized to be appropriated to the Fund such sums as may be necessary for each of fiscal years 1996 and 1997.”
+    Subsec. (e). [Pub. L. 105–121][/us/pl/105/121], § 3(b), amended first sentence generally. Prior to amendment first sentence read as follows: “There are authorized to be appropriated to the Fund such sums as may be necessary for each of fiscal years 1996 and 1997.”
 
-    1996—Subsec. (c)(2). [Pub. L. 104–107, § 579(a)][/us/pl/104/107/s579/a], which directed substitution of “1997” for “1995”, could not be executed because “1995” does not appear in text after amendment by [Pub. L. 104–97][/us/pl/104/97]. See below.
+    1996—Subsec. (c)(2). [Pub. L. 104–107][/us/pl/104/107], § 579(a), which directed substitution of “1997” for “1995”, could not be executed because “1995” does not appear in text after amendment by [Pub. L. 104–97][/us/pl/104/97]. See below.
 
-    [Pub. L. 104–97, § 1(a)][/us/pl/104/97/s1/a], substituted “1997” for “1995”.
+    [Pub. L. 104–97][/us/pl/104/97], § 1(a), substituted “1997” for “1995”.
 
-    Subsec. (e). [Pub. L. 104–107, § 579(b)][/us/pl/104/107/s579/b], which directed substitution of “1996 and 1997” for “1993, 1994, and 1995”, could not be executed because that language does not appear in text after general amendment by [Pub. L. 104–97][/us/pl/104/97]. See below.
+    Subsec. (e). [Pub. L. 104–107][/us/pl/104/107], § 579(b), which directed substitution of “1996 and 1997” for “1993, 1994, and 1995”, could not be executed because that language does not appear in text after general amendment by [Pub. L. 104–97][/us/pl/104/97]. See below.
 
-    [Pub. L. 104–97, § 1(b)][/us/pl/104/97/s1/b], substituted “There are authorized to be appropriated to the Fund such sums as may be necessary for each of fiscal years 1996 and 1997.” for “There are authorized to be appropriated to the Fund $500,000,000 for each of fiscal years 1993, 1994, and 1995.”
+    [Pub. L. 104–97][/us/pl/104/97], § 1(b), substituted “There are authorized to be appropriated to the Fund such sums as may be necessary for each of fiscal years 1996 and 1997.” for “There are authorized to be appropriated to the Fund $500,000,000 for each of fiscal years 1993, 1994, and 1995.”
 
-    1992—Subsec. (a). [Pub. L. 102–429, § 103(c)(1)][/us/pl/102/429/s103/c/1], (2), substituted “predatory” for “predacious” in par. (1), struck out “temporary” before “tied aid program” in introductory provisions of par. (5), and substituted “existing Arrangement” for “existing arrangement” in par. (5)(A).
+    1992—Subsec. (a). [Pub. L. 102–429][/us/pl/102/429], § 103(c)(1), (2), substituted “predatory” for “predacious” in par. (1), struck out “temporary” before “tied aid program” in introductory provisions of par. (5), and substituted “existing Arrangement” for “existing arrangement” in par. (5)(A).
 
-    Subsec. (b)(1). [Pub. L. 102–429, § 103(c)(3)(A)][/us/pl/102/429/s103/c/3/A], substituted “The” for “To carry out the purposes of subsection (a)(5) of this section, the”.
+    Subsec. (b)(1). [Pub. L. 102–429][/us/pl/102/429], § 103(c)(3)(A), substituted “The” for “To carry out the purposes of subsection (a)(5) of this section, the”.
 
-    Subsec. (b)(1)(A). [Pub. L. 102–429, § 103(c)(1)][/us/pl/102/429/s103/c/1], (3)(B), substituted “predatory” for “predacious” and inserted before semicolon “and with special attention to matching tied aid and partially untied aid credits extended by other governments—” followed by cls. (i) and (ii).
+    Subsec. (b)(1)(A). [Pub. L. 102–429][/us/pl/102/429], § 103(c)(1), (3)(B), substituted “predatory” for “predacious” and inserted before semicolon “and with special attention to matching tied aid and partially untied aid credits extended by other governments—” followed by cls. (i) and (ii).
 
-    Subsec. (b)(1)(B). [Pub. L. 102–429, § 103(c)(1)][/us/pl/102/429/s103/c/1], (3)(C), in cl. (i) substituted “predatory” for “predacious” and “partially untied aid credits, and impedes negotiations or violates agreements on tied aid to eliminate the use of such credits for commercial purposes; or” for “partially untied aid credits; and”, added cl. (ii), and struck out former cl. (ii) which read as follows: “impedes negotiations to eliminate the use of such credits for commercial purposes; or”.
+    Subsec. (b)(1)(B). [Pub. L. 102–429][/us/pl/102/429], § 103(c)(1), (3)(C), in cl. (i) substituted “predatory” for “predacious” and “partially untied aid credits, and impedes negotiations or violates agreements on tied aid to eliminate the use of such credits for commercial purposes; or” for “partially untied aid credits; and”, added cl. (ii), and struck out former cl. (ii) which read as follows: “impedes negotiations to eliminate the use of such credits for commercial purposes; or”.
 
-    Subsec. (b)(2). [Pub. L. 102–429, § 103(c)(4)][/us/pl/102/429/s103/c/4], (5), struck out “of the Treasury” after “Secretary” in subpar. (A) and substituted “United States exporters and private financial institutions or entities, and in consultation with other Federal agencies” for “private financial institutions or entities” in subpar. (B).
+    Subsec. (b)(2). [Pub. L. 102–429][/us/pl/102/429], § 103(c)(4), (5), struck out “of the Treasury” after “Secretary” in subpar. (A) and substituted “United States exporters and private financial institutions or entities, and in consultation with other Federal agencies” for “private financial institutions or entities” in subpar. (B).
 
-    Subsec. (b)(4). [Pub. L. 102–429, § 103(c)(6)][/us/pl/102/429/s103/c/6], inserted at end “The Bank shall also request and take into consideration the views of the private sector on principal sectors and key markets of countries described in paragraph (1)(B).”
+    Subsec. (b)(4). [Pub. L. 102–429][/us/pl/102/429], § 103(c)(6), inserted at end “The Bank shall also request and take into consideration the views of the private sector on principal sectors and key markets of countries described in paragraph (1)(B).”
 
-    Subsec. (c)(2). [Pub. L. 102–429, § 103(a)][/us/pl/102/429/s103/a], substituted “September 30, 1995” for “fiscal year 1992”.
+    Subsec. (c)(2). [Pub. L. 102–429][/us/pl/102/429], § 103(a), substituted “September 30, 1995” for “fiscal year 1992”.
 
-    Subsec. (e). [Pub. L. 102–429, § 103(b)][/us/pl/102/429/s103/b], amended subsec. (e) generally, substituting present provisions for provisions which authorized appropriations for fiscal years 1987 through 1992 and provided authority for Presidential rescission.
+    Subsec. (e). [Pub. L. 102–429][/us/pl/102/429], § 103(b), amended subsec. (e) generally, substituting present provisions for provisions which authorized appropriations for fiscal years 1987 through 1992 and provided authority for Presidential rescission.
 
-    Subsec. (g)(1). [Pub. L. 102–429, § 103(c)(7)][/us/pl/102/429/s103/c/7], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Report required.—Before the end of the 6-month period beginning on October 15, 1986, and every six months thereafter, the Bank, in consultation with the Secretary, shall prepare and transmit a report on tied aid credits to the President of the Senate and the Speaker of the House of Representatives.”
+    Subsec. (g)(1). [Pub. L. 102–429][/us/pl/102/429], § 103(c)(7), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Report required.—Before the end of the 6-month period beginning on October 15, 1986, and every six months thereafter, the Bank, in consultation with the Secretary, shall prepare and transmit a report on tied aid credits to the President of the Senate and the Speaker of the House of Representatives.”
 
-    Subsec. (g)(2). [Pub. L. 102–429, § 103(c)(7)][/us/pl/102/429/s103/c/7], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Contents of report.—Each report required by paragraph (1) shall contain a description of—
+    Subsec. (g)(2). [Pub. L. 102–429][/us/pl/102/429], § 103(c)(7), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Contents of report.—Each report required by paragraph (1) shall contain a description of—
 
     “(A) the principal offers of predacious financing by foreign countries during the course of the previous 6 months;
 
@@ -345,25 +345,25 @@
 
     “(E) the progress achieved by negotiations conducted to carry out the purposes described in subsection (a)(5) of this section.”
 
-    Subsec. (h). [Pub. L. 102–429, § 103(c)(8)][/us/pl/102/429/s103/c/8], substituted “For purposes of this section, the following definitions shall apply:” for “For the purpose of this section—” in introductory provisions and added par. (6).
+    Subsec. (h). [Pub. L. 102–429][/us/pl/102/429], § 103(c)(8), substituted “For purposes of this section, the following definitions shall apply:” for “For the purpose of this section—” in introductory provisions and added par. (6).
 
-    1990—Subsec. (c)(2). [Pub. L. 101–513, § 562(d)(2)][/us/pl/101/513/s562/d/2], substituted “1992” for “1991”.
+    1990—Subsec. (c)(2). [Pub. L. 101–513][/us/pl/101/513], § 562(d)(2), substituted “1992” for “1991”.
 
-    Subsec. (e)(1). [Pub. L. 101–513, § 562(d)(1)][/us/pl/101/513/s562/d/1], substituted “for fiscal year 1990, $300,000,000, and for each of fiscal years 1991 and 1992, $500,000,000” for “and for fiscal years 1990 and 1991, $300,000,000”.
+    Subsec. (e)(1). [Pub. L. 101–513][/us/pl/101/513], § 562(d)(1), substituted “for fiscal year 1990, $300,000,000, and for each of fiscal years 1991 and 1992, $500,000,000” for “and for fiscal years 1990 and 1991, $300,000,000”.
 
-    1989—Subsec. (a)(5). [Pub. L. 101–240, § 101(b)(1)][/us/pl/101/240/s101/b/1], substituted “for the purposes of—”, pars. (A) and (B), and concluding provisions for “for the purpose of facilitating the negotiation of a comprehensive international arrangement restricting the use of tied aid and partially untied aid credits for commercial purposes, and such program should be aggressively used until such an arrangement is established.”
+    1989—Subsec. (a)(5). [Pub. L. 101–240][/us/pl/101/240], § 101(b)(1), substituted “for the purposes of—”, pars. (A) and (B), and concluding provisions for “for the purpose of facilitating the negotiation of a comprehensive international arrangement restricting the use of tied aid and partially untied aid credits for commercial purposes, and such program should be aggressively used until such an arrangement is established.”
 
-    Subsec. (b)(1). [Pub. L. 101–240, § 101(b)(2)][/us/pl/101/240/s101/b/2], inserted introductory provisions and struck out former introductory provisions which read as follows: “For the purpose of facilitating the negotiation of a comprehensive international arrangement restricting the use of tied aid and partially untied aid credits for commercial purposes, the Bank shall establish a tied aid credit program under which grants shall be made from funds available in the Tied Aid Credit Fund established under subsection (c) of this section—”.
+    Subsec. (b)(1). [Pub. L. 101–240][/us/pl/101/240], § 101(b)(2), inserted introductory provisions and struck out former introductory provisions which read as follows: “For the purpose of facilitating the negotiation of a comprehensive international arrangement restricting the use of tied aid and partially untied aid credits for commercial purposes, the Bank shall establish a tied aid credit program under which grants shall be made from funds available in the Tied Aid Credit Fund established under subsection (c) of this section—”.
 
-    Subsec. (b)(2)(A). [Pub. L. 101–240, § 101(b)(3)][/us/pl/101/240/s101/b/3], substituted “carry out the purposes described in subsection (a)(5) of this section” for “promote the negotiation of a comprehensive international arrangement restricting the use of tied aid and partially untied aid credits for commercial purposes”.
+    Subsec. (b)(2)(A). [Pub. L. 101–240][/us/pl/101/240], § 101(b)(3), substituted “carry out the purposes described in subsection (a)(5) of this section” for “promote the negotiation of a comprehensive international arrangement restricting the use of tied aid and partially untied aid credits for commercial purposes”.
 
-    Subsec. (c)(2). [Pub. L. 101–240, § 101(b)(4)][/us/pl/101/240/s101/b/4], substituted “amount equal to the concessionality level” for “cost” and “through fiscal year 1991” for “during fiscal years 1986, 1987, 1988, and 1989”.
+    Subsec. (c)(2). [Pub. L. 101–240][/us/pl/101/240], § 101(b)(4), substituted “amount equal to the concessionality level” for “cost” and “through fiscal year 1991” for “during fiscal years 1986, 1987, 1988, and 1989”.
 
-    Subsec. (e)(1). [Pub. L. 101–240, § 101(b)(7)][/us/pl/101/240/s101/b/7], which directed the insertion of “, and for fiscal years 1990, 1991, and 1992, $200,000,000” after “$300,000,000” was not executed in view of earlier amendment by [section 101(b)(5) of Pub. L. 101–240][/us/pl/101/240/s101/b/5], which inserted “, and for fiscal years 1990 and 1991, $300,000,000” after “$300,000,000”, and in view of Senate floor amendment of the bill which added the authorization contained in section 101(b)(5) and was intended to replace the authorization now appearing in section 101(b)(7). See Cong. Rec., Vol. 135, pt. 22, pp. 31199, 31203.
+    Subsec. (e)(1). [Pub. L. 101–240][/us/pl/101/240], § 101(b)(7), which directed the insertion of “, and for fiscal years 1990, 1991, and 1992, $200,000,000” after “$300,000,000” was not executed in view of earlier amendment by [section 101(b)(5) of Pub. L. 101–240][/us/pl/101/240/s101/b/5], which inserted “, and for fiscal years 1990 and 1991, $300,000,000” after “$300,000,000”, and in view of Senate floor amendment of the bill which added the authorization contained in section 101(b)(5) and was intended to replace the authorization now appearing in section 101(b)(7). See Cong. Rec., Vol. 135, pt. 22, pp. 31199, 31203.
 
-    [Pub. L. 101–240, § 101(b)(5)][/us/pl/101/240/s101/b/5], inserted “, and for fiscal years 1990 and 1991, $300,000,000” after “$300,000,000”.
+    [Pub. L. 101–240][/us/pl/101/240], § 101(b)(5), inserted “, and for fiscal years 1990 and 1991, $300,000,000” after “$300,000,000”.
 
-    Subsec. (g)(2)(E). [Pub. L. 101–240, § 101(b)(6)][/us/pl/101/240/s101/b/6], amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “any progress achieved in negotiations to establish a comprehensive international arrangement restricting the use of tied aid and partially untied credits for commercial purposes.”
+    Subsec. (g)(2)(E). [Pub. L. 101–240][/us/pl/101/240], § 101(b)(6), amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “any progress achieved in negotiations to establish a comprehensive international arrangement restricting the use of tied aid and partially untied credits for commercial purposes.”
 
     1988—Subsecs. (c)(2), (e)(1). [Pub. L. 100–418][/us/pl/100/418] substituted “1988, and 1989” for “and 1988”.
 
@@ -371,7 +371,7 @@
 
  __Use of Fund To Discourage Predatory Financing Practices__ 
 
-[Pub. L. 100–418, title III, § 3302(a)][/us/pl/100/418/s3302/a], Aug. 23, 1988, [102 Stat. 1383][/us/stat/102/1383], provided that: 
+[Pub. L. 100–418, title III][/us/pl/100/418/tIII], § 3302(a), Aug. 23, 1988, [102 Stat. 1383][/us/stat/102/1383], provided that: 
 
 > “The Congress finds that—
 
@@ -385,85 +385,85 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch6A/schI/m__us_usc_t12_s635h.md) | [Next](./../../../../..//us/usc/t12/ch6A/schI/m__us_usc_t12_s635i–4.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635i%E2%80%933)
+[Previous](./../../../../..//us/usc/t12/ch6A/schI/m__us_usc_t12_s635i...635i–2.md) | [Next](./../../../../..//us/usc/t12/ch6A/schI/m__us_usc_t12_s635i–4.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635i%E2%80%933)
 
 ----------
 ----------
 
-[/us/act/1945-07-31/ch341/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch341%2Fs10
-[/us/pl/99/472/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F472%2Fs19
+[/us/act/1945-07-31/ch341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch341
+[/us/pl/99/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F472
 [/us/stat/100/1205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1205
 [/us/pl/100/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F217
 [/us/stat/101/1454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1454
-[/us/pl/100/418/s3302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs3302%2Fb
+[/us/pl/100/418/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtIII
 [/us/stat/102/1383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1383
-[/us/pl/101/240/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2Fs101%2Fb
+[/us/pl/101/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2FtI
 [/us/stat/103/2493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2493
-[/us/pl/101/513/s562/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2Fs562%2Fd
+[/us/pl/101/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2FtV
 [/us/stat/104/2036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2036
-[/us/pl/102/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429
+[/us/pl/102/429/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429%2FtI
 [/us/stat/106/2187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2187
-[/us/pl/104/97/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F97%2Fs1
+[/us/pl/104/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F97
 [/us/stat/109/984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F984
-[/us/pl/104/107/s579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F107%2Fs579
+[/us/pl/104/107/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F107%2FtV
 [/us/stat/110/751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F751
-[/us/pl/105/121/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F121%2Fs3
+[/us/pl/105/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F121
 [/us/stat/111/2528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2528
-[/us/pl/106/569/s1103/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs1103%2Fd%2F2
+[/us/pl/106/569/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2FtXI
 [/us/stat/114/3031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F3031
 [/us/pl/107/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F189
 [/us/stat/116/701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F701
-[/us/pl/109/438/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F438%2Fs10
+[/us/pl/109/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F438
 [/us/stat/120/3275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3275
 [/us/act/1945-07-31/ch341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch341
 [/us/usc/t15/s713b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs713b
-[/us/pl/109/438/s10/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F438%2Fs10%2Fb%2F1%2FA
-[/us/pl/109/438/s10/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F438%2Fs10%2Fb%2F1%2FB
-[/us/pl/109/438/s10/b/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F438%2Fs10%2Fb%2F2%2FA%2Fi
-[/us/pl/109/438/s10/b/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F438%2Fs10%2Fb%2F2%2FA%2Fii
-[/us/pl/109/438/s10/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F438%2Fs10%2Fa
-[/us/pl/107/189/s10/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F189%2Fs10%2Fc%2F1
-[/us/pl/107/189/s10/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F189%2Fs10%2Fc%2F3
-[/us/pl/107/189/s10/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F189%2Fs10%2Fc%2F2
-[/us/pl/107/189/s10/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F189%2Fs10%2Fc%2F3
-[/us/pl/107/189/s9/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F189%2Fs9%2Fa%2F1
-[/us/pl/107/189/s9/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F189%2Fs9%2Fa%2F2
-[/us/pl/107/189/s9/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F189%2Fs9%2Fb
-[/us/pl/107/189/s24/a/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F189%2Fs24%2Fa%2F2%2FE
-[/us/pl/107/189/s10/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F189%2Fs10%2Fd
+[/us/pl/109/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F438
+[/us/pl/109/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F438
+[/us/pl/109/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F438
+[/us/pl/109/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F438
+[/us/pl/109/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F438
+[/us/pl/107/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F189
+[/us/pl/107/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F189
+[/us/pl/107/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F189
+[/us/pl/107/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F189
+[/us/pl/107/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F189
+[/us/pl/107/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F189
+[/us/pl/107/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F189
+[/us/pl/107/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F189
+[/us/pl/107/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F189
 [/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
-[/us/pl/105/121/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F121%2Fs3%2Fa
-[/us/pl/105/121/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F121%2Fs3%2Fb
-[/us/pl/104/107/s579/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F107%2Fs579%2Fa
+[/us/pl/105/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F121
+[/us/pl/105/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F121
+[/us/pl/104/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F107
 [/us/pl/104/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F97
-[/us/pl/104/97/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F97%2Fs1%2Fa
-[/us/pl/104/107/s579/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F107%2Fs579%2Fb
 [/us/pl/104/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F97
-[/us/pl/104/97/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F97%2Fs1%2Fb
-[/us/pl/102/429/s103/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429%2Fs103%2Fc%2F1
-[/us/pl/102/429/s103/c/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429%2Fs103%2Fc%2F3%2FA
-[/us/pl/102/429/s103/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429%2Fs103%2Fc%2F1
-[/us/pl/102/429/s103/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429%2Fs103%2Fc%2F1
-[/us/pl/102/429/s103/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429%2Fs103%2Fc%2F4
-[/us/pl/102/429/s103/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429%2Fs103%2Fc%2F6
-[/us/pl/102/429/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429%2Fs103%2Fa
-[/us/pl/102/429/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429%2Fs103%2Fb
-[/us/pl/102/429/s103/c/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429%2Fs103%2Fc%2F7
-[/us/pl/102/429/s103/c/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429%2Fs103%2Fc%2F7
-[/us/pl/102/429/s103/c/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429%2Fs103%2Fc%2F8
-[/us/pl/101/513/s562/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2Fs562%2Fd%2F2
-[/us/pl/101/513/s562/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2Fs562%2Fd%2F1
-[/us/pl/101/240/s101/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2Fs101%2Fb%2F1
-[/us/pl/101/240/s101/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2Fs101%2Fb%2F2
-[/us/pl/101/240/s101/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2Fs101%2Fb%2F3
-[/us/pl/101/240/s101/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2Fs101%2Fb%2F4
-[/us/pl/101/240/s101/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2Fs101%2Fb%2F7
+[/us/pl/104/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F107
+[/us/pl/104/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F97
+[/us/pl/104/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F97
+[/us/pl/102/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429
+[/us/pl/102/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429
+[/us/pl/102/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429
+[/us/pl/102/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429
+[/us/pl/102/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429
+[/us/pl/102/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429
+[/us/pl/102/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429
+[/us/pl/102/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429
+[/us/pl/102/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429
+[/us/pl/102/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429
+[/us/pl/102/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429
+[/us/pl/101/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513
+[/us/pl/101/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513
+[/us/pl/101/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240
+[/us/pl/101/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240
+[/us/pl/101/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240
+[/us/pl/101/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240
+[/us/pl/101/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240
 [/us/pl/101/240/s101/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2Fs101%2Fb%2F5
-[/us/pl/101/240/s101/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2Fs101%2Fb%2F5
-[/us/pl/101/240/s101/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2Fs101%2Fb%2F6
+[/us/pl/101/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240
+[/us/pl/101/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/100/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F217
-[/us/pl/100/418/s3302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs3302%2Fa
+[/us/pl/100/418/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtIII
 [/us/stat/102/1383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1383
 [/us/usc/t12/s635i–3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635i%E2%80%933%2Fc
 

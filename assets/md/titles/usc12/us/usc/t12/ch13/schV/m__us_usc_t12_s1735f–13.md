@@ -17,7 +17,7 @@
 
     A mortgagee or lender may not require, as a condition of providing a loan insured under this chapter or secured by a mortgage insured under this chapter, that the principal amount of the loan exceed a minimum amount established by the mortgagee or lender.
 
-([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title V, § 535, as added [Pub. L. 100–242, title IV, § 419(a)][/us/pl/100/242/s419/a], Feb. 5, 1988, [101 Stat. 1913][/us/stat/101/1913].)
+([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title V, § 535, as added [Pub. L. 100–242, title IV][/us/pl/100/242/tIV], § 419(a), Feb. 5, 1988, [101 Stat. 1913][/us/stat/101/1913].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
-[/us/pl/100/242/s419/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs419%2Fa
+[/us/pl/100/242/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtIV
 [/us/stat/101/1913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1913
 
 

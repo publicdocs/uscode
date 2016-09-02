@@ -19,7 +19,7 @@
 
     The Comptroller of the Currency shall have sole authority to determine the manner in which the obligations of the Office of the Comptroller of the Currency shall be incurred and its disbursements and expenses allowed and paid, in accordance with this section, except as provided in chapter 71 of title 5 (with respect to compensation).
 
-(R.S. § 5240A, as added [Pub. L. 111–203, title III, § 318(b)][/us/pl/111/203/s318/b], July 21, 2010, [124 Stat. 1526][/us/stat/124/1526].)
+(R.S. § 5240A, as added [Pub. L. 111–203, title III][/us/pl/111/203/tIII], § 318(b), July 21, 2010, [124 Stat. 1526][/us/stat/124/1526].)
 
  __References in Text__ 
 
@@ -27,7 +27,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 111–203, title III, § 318(e)][/us/pl/111/203/s318/e], July 21, 2010, [124 Stat. 1527][/us/stat/124/1527], provided that: 
+[Pub. L. 111–203, title III][/us/pl/111/203/tIII], § 318(e), July 21, 2010, [124 Stat. 1527][/us/stat/124/1527], provided that: 
 
 > “This section \[enacting this section and amending sections 248, 481, 482, and 1820 of this title\], and the amendments made by this section, shall take effect on the transfer date.”
 
@@ -42,9 +42,9 @@
 
 [/us/usc/t12/s1813/q/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813%2Fq%2F1
 [/us/usc/t12/s192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs192
-[/us/pl/111/203/s318/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs318%2Fb
+[/us/pl/111/203/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIII
 [/us/stat/124/1526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1526
-[/us/pl/111/203/s318/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs318%2Fe
+[/us/pl/111/203/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIII
 [/us/stat/124/1527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1527
 [/us/pl/111/203/s318/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs318%2Fe
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301

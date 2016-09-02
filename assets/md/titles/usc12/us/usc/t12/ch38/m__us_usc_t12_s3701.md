@@ -33,17 +33,17 @@
 
     (b) The purpose of this chapter is to create a uniform Federal foreclosure remedy for multifamily mortgages.
 
-([Pub. L. 97–35, title III, § 362][/us/pl/97/35/s362], Aug. 13, 1981, [95 Stat. 422][/us/stat/95/422]; [Pub. L. 102–550, title V, § 517(a)][/us/pl/102/550/s517/a], Oct. 28, 1992, [106 Stat. 3791][/us/stat/106/3791].)
+([Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 362, Aug. 13, 1981, [95 Stat. 422][/us/stat/95/422]; [Pub. L. 102–550, title V][/us/pl/102/550/tV], § 517(a), Oct. 28, 1992, [106 Stat. 3791][/us/stat/106/3791].)
 
  __Amendments__ 
 
-    1992—Subsec. (a)(1). [Pub. L. 102–550, § 517(a)(1)][/us/pl/102/550/s517/a/1], substituted “multifamily mortgages” for “real estate mortgages which the Secretary holds pursuant to title II of the National Housing Act or section 312 of the Housing Act of 1964 covering multiunit residential and nonresidential properties”.
+    1992—Subsec. (a)(1). [Pub. L. 102–550][/us/pl/102/550], § 517(a)(1), substituted “multifamily mortgages” for “real estate mortgages which the Secretary holds pursuant to title II of the National Housing Act or section 312 of the Housing Act of 1964 covering multiunit residential and nonresidential properties”.
 
-    Subsec. (b). [Pub. L. 102–550, § 517(a)(2)][/us/pl/102/550/s517/a/2], substituted “multifamily mortgages” for “multiunit residential and nonresidential mortgages held by the Secretary of Housing and Urban Development pursuant to title II of the National Housing Act or section 312 of the Housing Act of 1964”.
+    Subsec. (b). [Pub. L. 102–550][/us/pl/102/550], § 517(a)(2), substituted “multifamily mortgages” for “multiunit residential and nonresidential mortgages held by the Secretary of Housing and Urban Development pursuant to title II of the National Housing Act or section 312 of the Housing Act of 1964”.
 
  __Effective Date__ 
 
-[Pub. L. 97–35, title III, § 371][/us/pl/97/35/s371], Aug. 13, 1981, [95 Stat. 431][/us/stat/95/431], provided that:
+[Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 371, Aug. 13, 1981, [95 Stat. 431][/us/stat/95/431], provided that:
 
 >     “(a) Except as otherwise provided in this subtitle, the provisions of this subtitle \[for classification of subtitle A (§ 300–371) of title III of [Pub. L. 97–35][/us/pl/97/35], see Tables\] shall take effect on October 1, 1981.
 
@@ -51,7 +51,7 @@
 
  __Short Title__ 
 
-[Pub. L. 97–35, title III, § 361][/us/pl/97/35/s361], Aug. 13, 1981, [95 Stat. 422][/us/stat/95/422], provided that: 
+[Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 361, Aug. 13, 1981, [95 Stat. 422][/us/stat/95/422], provided that: 
 
 > “This part \[enacting this chapter\] may be cited as the ‘Multifamily Mortgage Foreclosure Act of 1981’.”
 
@@ -62,17 +62,17 @@
 ----------
 ----------
 
-[/us/pl/97/35/s362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs362
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F422
-[/us/pl/102/550/s517/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs517%2Fa
+[/us/pl/102/550/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtV
 [/us/stat/106/3791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3791
-[/us/pl/102/550/s517/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs517%2Fa%2F1
-[/us/pl/102/550/s517/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs517%2Fa%2F2
-[/us/pl/97/35/s371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs371
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F431
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
-[/us/pl/97/35/s361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs361
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F422
 
 

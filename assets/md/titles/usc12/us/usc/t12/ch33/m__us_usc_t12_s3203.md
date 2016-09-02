@@ -17,7 +17,7 @@
 
     If a depository institution or a depository holding company has total assets exceeding $2,500,000,000, a management official of such institution or any affiliate thereof may not serve as a management official of any other nonaffiliated depository institution or depository holding company having total assets exceeding $1,500,000,000 or as a management official of any affiliate of such other institution. In order to allow for inflation or market changes, the appropriate Federal depository institutions regulatory agencies may, by regulation, adjust, as necessary, the amount of total assets required for depository institutions or depository holding companies under this section.
 
-([Pub. L. 95–630, title II, § 204][/us/pl/95/630/s204], Nov. 10, 1978, [92 Stat. 3673][/us/stat/92/3673]; [Pub. L. 104–208, div. A, title II, § 2210(a)][/us/pl/104/208/s2210/a], Sept. 30, 1996, [110 Stat. 3009–409][/us/stat/110/3009-409].)
+([Pub. L. 95–630, title II][/us/pl/95/630/tII], § 204, Nov. 10, 1978, [92 Stat. 3673][/us/stat/92/3673]; [Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], § 2210(a), Sept. 30, 1996, [110 Stat. 3009–409][/us/stat/110/3009-409].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/95/630/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs204
+[/us/pl/95/630/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtII
 [/us/stat/92/3673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3673
-[/us/pl/104/208/s2210/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2210%2Fa
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-409
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 

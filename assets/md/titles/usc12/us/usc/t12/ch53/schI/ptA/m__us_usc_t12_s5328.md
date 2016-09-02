@@ -17,7 +17,7 @@
 
     Any expenses of the Council shall be treated as expenses of, and paid by, the Office of Financial Research.
 
-([Pub. L. 111–203, title I, § 118][/us/pl/111/203/s118], July 21, 2010, [124 Stat. 1408][/us/stat/124/1408].)
+([Pub. L. 111–203, title I][/us/pl/111/203/tI], § 118, July 21, 2010, [124 Stat. 1408][/us/stat/124/1408].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/111/203/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs118
+[/us/pl/111/203/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtI
 [/us/stat/124/1408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1408
 
 

@@ -17,7 +17,7 @@
 
     With respect to any proceeding before the Federal Reserve Board wherein an applicant seeks authority to acquire a subsidiary which is a bank under [section 1842 of this title][/us/usc/t12/s1842] or to engage in an activity otherwise prohibited under chapter 22 of this title, a party who would become a competitor of the applicant or subsidiary thereof by virtue of the applicant’s or its subsidiary’s acquisition, entry into the business involved, or activity, shall have the right to be a party in interest in the proceeding and, in the event of an adverse order of the Board, shall have the right as an aggrieved party to obtain judicial review thereof as provided in [section 1848 of this title][/us/usc/t12/s1848] or as otherwise provided by law.
 
-([Pub. L. 91–607, title I, § 105][/us/pl/91/607/s105], Dec. 31, 1970, [84 Stat. 1766][/us/stat/84/1766]; [Pub. L. 106–102, title I, § 102(b)(1)][/us/pl/106/102/s102/b/1], Nov. 12, 1999, [113 Stat. 1341][/us/stat/113/1341].)
+([Pub. L. 91–607, title I][/us/pl/91/607/tI], § 105, Dec. 31, 1970, [84 Stat. 1766][/us/stat/84/1766]; [Pub. L. 106–102, title I][/us/pl/106/102/tI], § 102(b)(1), Nov. 12, 1999, [113 Stat. 1341][/us/stat/113/1341].)
 
  __Codification__ 
 
@@ -40,9 +40,9 @@
 
 [/us/usc/t12/s1842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1842
 [/us/usc/t12/s1848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1848
-[/us/pl/91/607/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F607%2Fs105
+[/us/pl/91/607/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F607%2FtI
 [/us/stat/84/1766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1766
-[/us/pl/106/102/s102/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs102%2Fb%2F1
+[/us/pl/106/102/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtI
 [/us/stat/113/1341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1341
 [/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102
 [/us/usc/t12/s1843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1843

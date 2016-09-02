@@ -27,7 +27,7 @@
 
         (2) seek to maintain comparability with those agencies regarding compensation and benefits.
 
-([Pub. L. 101–73, title XII, § 1206][/us/pl/101/73/s1206], Aug. 9, 1989, [103 Stat. 523][/us/stat/103/523]; [Pub. L. 102–233, title III, § 302(a)][/us/pl/102/233/s302/a], Dec. 12, 1991, [105 Stat. 1767][/us/stat/105/1767]; [Pub. L. 107–123, § 8(d)(3)][/us/pl/107/123/s8/d/3], Jan. 16, 2002, [115 Stat. 2400][/us/stat/115/2400]; [Pub. L. 107–171, title X, § 10702(b)][/us/pl/107/171/s10702/b], May 13, 2002, [116 Stat. 516][/us/stat/116/516]; [Pub. L. 111–203, title I, § 152(d)(3)][/us/pl/111/203/s152/d/3], title III, § 367(8), July 21, 2010, [124 Stat. 1414][/us/stat/124/1414], 1557.)
+([Pub. L. 101–73, title XII][/us/pl/101/73/tXII], § 1206, Aug. 9, 1989, [103 Stat. 523][/us/stat/103/523]; [Pub. L. 102–233, title III][/us/pl/102/233/tIII], § 302(a), Dec. 12, 1991, [105 Stat. 1767][/us/stat/105/1767]; [Pub. L. 107–123][/us/pl/107/123], § 8(d)(3), Jan. 16, 2002, [115 Stat. 2400][/us/stat/115/2400]; [Pub. L. 107–171, title X][/us/pl/107/171/tX], § 10702(b), May 13, 2002, [116 Stat. 516][/us/stat/116/516]; [Pub. L. 111–203, title I][/us/pl/111/203/tI], § 152(d)(3), title III, § 367(8), July 21, 2010, [124 Stat. 1414][/us/stat/124/1414], 1557.)
 
  __Codification__ 
 
@@ -35,11 +35,11 @@
 
  __Amendments__ 
 
-    2010—Subsec. (a). [Pub. L. 111–203, § 367(8)(B)][/us/pl/111/203/s367/8/B], which directed striking out “, and the Office of Thrift Supervision” could not be executed because those words did not appear subsequent to amendment by [Pub. L. 111–203, § 152(d)(3)(B)][/us/pl/111/203/s152/d/3/B]. See below.
+    2010—Subsec. (a). [Pub. L. 111–203][/us/pl/111/203], § 367(8)(B), which directed striking out “, and the Office of Thrift Supervision” could not be executed because those words did not appear subsequent to amendment by [Pub. L. 111–203][/us/pl/111/203], § 152(d)(3)(B). See below.
 
-    [Pub. L. 111–203, § 367(8)(A)][/us/pl/111/203/s367/8/A], which directed substitution of “Agency, and” for “Board, the Oversight Board of the Resolution Trust Corporation”, was executed by substituting “Agency” for “Board” after “Federal Housing Finance”, to reflect the probable intent of Congress and the amendments made by [Pub. L. 107–123][/us/pl/107/123] and [section 302(a) of Pub. L. 102–233][/us/pl/102/233/s302/a]. See 2002 Amendment note and Change of Name note below.
+    [Pub. L. 111–203][/us/pl/111/203], § 367(8)(A), which directed substitution of “Agency, and” for “Board, the Oversight Board of the Resolution Trust Corporation”, was executed by substituting “Agency” for “Board” after “Federal Housing Finance”, to reflect the probable intent of Congress and the amendments made by [Pub. L. 107–123][/us/pl/107/123] and [section 302(a) of Pub. L. 102–233][/us/pl/102/233/s302/a]. See 2002 Amendment note and Change of Name note below.
 
-    [Pub. L. 111–203, § 152(d)(3)][/us/pl/111/203/s152/d/3], substituted “Finance Board, the Office of Financial Research, and the Bureau of Consumer Financial Protection” for “Finance Board,” and struck out “and the Office of Thrift Supervision,” after “Credit Administration,”.
+    [Pub. L. 111–203][/us/pl/111/203], § 152(d)(3), substituted “Finance Board, the Office of Financial Research, and the Bureau of Consumer Financial Protection” for “Finance Board,” and struck out “and the Office of Thrift Supervision,” after “Credit Administration,”.
 
     2002—[Pub. L. 107–171][/us/pl/107/171] designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
@@ -66,22 +66,22 @@
 ----------
 ----------
 
-[/us/pl/101/73/s1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs1206
+[/us/pl/101/73/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtXII
 [/us/stat/103/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F523
-[/us/pl/102/233/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F233%2Fs302%2Fa
+[/us/pl/102/233/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F233%2FtIII
 [/us/stat/105/1767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1767
-[/us/pl/107/123/s8/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F123%2Fs8%2Fd%2F3
+[/us/pl/107/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F123
 [/us/stat/115/2400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2400
-[/us/pl/107/171/s10702/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10702%2Fb
+[/us/pl/107/171/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtX
 [/us/stat/116/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F516
-[/us/pl/111/203/s152/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs152%2Fd%2F3
+[/us/pl/111/203/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtI
 [/us/stat/124/1414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1414
-[/us/pl/111/203/s367/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs367%2F8%2FB
-[/us/pl/111/203/s152/d/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs152%2Fd%2F3%2FB
-[/us/pl/111/203/s367/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs367%2F8%2FA
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/107/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F123
 [/us/pl/102/233/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F233%2Fs302%2Fa
-[/us/pl/111/203/s152/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs152%2Fd%2F3
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/pl/107/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F123
 [/us/pl/102/233/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F233%2Fs302%2Fa

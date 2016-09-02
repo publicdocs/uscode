@@ -79,7 +79,7 @@
 
             Model disclosure forms and clauses shall be adopted by the Board, jointly with the Director of the Bureau of Consumer Financial Protection, only after notice duly given in the Federal Register and an opportunity for public comment in accordance with [section 553 of title 5][/us/usc/t5/s553].
 
-([Pub. L. 100–86, title VI, § 605][/us/pl/100/86/s605], Aug. 10, 1987, [101 Stat. 644][/us/stat/101/644]; [Pub. L. 111–203, title X, § 1086(c)][/us/pl/111/203/s1086/c], July 21, 2010, [124 Stat. 2086][/us/stat/124/2086].)
+([Pub. L. 100–86, title VI][/us/pl/100/86/tVI], § 605, Aug. 10, 1987, [101 Stat. 644][/us/stat/101/644]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1086(c), July 21, 2010, [124 Stat. 2086][/us/stat/124/2086].)
 
  __References in Text__ 
 
@@ -87,13 +87,13 @@
 
  __Amendments__ 
 
-    2010—Subsecs. (b), (d)(2). [Pub. L. 111–203, § 1086(c)(1)][/us/pl/111/203/s1086/c/1], inserted “, jointly with the Director of the Bureau of Consumer Financial Protection,” after “Board”.
+    2010—Subsecs. (b), (d)(2). [Pub. L. 111–203][/us/pl/111/203], § 1086(c)(1), inserted “, jointly with the Director of the Bureau of Consumer Financial Protection,” after “Board”.
 
-    Subsec. (f)(1). [Pub. L. 111–203, § 1086(c)(2)][/us/pl/111/203/s1086/c/2], inserted “and Bureau” after “Board” in heading.
+    Subsec. (f)(1). [Pub. L. 111–203][/us/pl/111/203], § 1086(c)(2), inserted “and Bureau” after “Board” in heading.
 
-    [Pub. L. 111–203, § 1086(c)(1)][/us/pl/111/203/s1086/c/1], inserted “, jointly with the Director of the Bureau of Consumer Financial Protection,” after “Board”.
+    [Pub. L. 111–203][/us/pl/111/203], § 1086(c)(1), inserted “, jointly with the Director of the Bureau of Consumer Financial Protection,” after “Board”.
 
-    Subsec. (f)(2)(A), (3), (4). [Pub. L. 111–203, § 1086(c)(1)][/us/pl/111/203/s1086/c/1], inserted “, jointly with the Director of the Bureau of Consumer Financial Protection,” after “Board”.
+    Subsec. (f)(2)(A), (3), (4). [Pub. L. 111–203][/us/pl/111/203], § 1086(c)(1), inserted “, jointly with the Director of the Bureau of Consumer Financial Protection,” after “Board”.
 
  __Effective Date of 2010 Amendment__ 
 
@@ -113,14 +113,14 @@
 [/us/usc/t12/s4005/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4005%2Fb
 [/us/usc/t12/s4005/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4005%2Fa
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/pl/100/86/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2Fs605
+[/us/pl/100/86/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2FtVI
 [/us/stat/101/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F644
-[/us/pl/111/203/s1086/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1086%2Fc
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2086
-[/us/pl/111/203/s1086/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1086%2Fc%2F1
-[/us/pl/111/203/s1086/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1086%2Fc%2F2
-[/us/pl/111/203/s1086/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1086%2Fc%2F1
-[/us/pl/111/203/s1086/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1086%2Fc%2F1
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s1100H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100H
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a

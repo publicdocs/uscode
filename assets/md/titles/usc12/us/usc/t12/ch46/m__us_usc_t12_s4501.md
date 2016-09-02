@@ -33,7 +33,7 @@
 
     (8) the Federal Home Loan Bank Act \[[12 U.S.C. 1421][/us/usc/t12/s1421] et seq.\] should be amended to emphasize that providing for financial safety and soundness of the Federal Home Loan Banks is the primary mission of the Federal Housing Finance Board.
 
-([Pub. L. 102–550, title XIII, § 1302][/us/pl/102/550/s1302], Oct. 28, 1992, [106 Stat. 3941][/us/stat/106/3941].)
+([Pub. L. 102–550, title XIII][/us/pl/102/550/tXIII], § 1302, Oct. 28, 1992, [106 Stat. 3941][/us/stat/106/3941].)
 
  __References in Text__ 
 
@@ -41,17 +41,17 @@
 
  __Short Title of 2008 Amendment__ 
 
-[Pub. L. 110–289, § 1(a)][/us/pl/110/289/s1/a], July 30, 2008, [122 Stat. 2654][/us/stat/122/2654], provided that: 
+[Pub. L. 110–289][/us/pl/110/289], § 1(a), July 30, 2008, [122 Stat. 2654][/us/stat/122/2654], provided that: 
 
 > “This Act \[see Tables for classification\] may be cited as the ‘Housing and Economic Recovery Act of 2008’.”
 
-[Pub. L. 110–289, div. A, § 1001][/us/pl/110/289/s1001], July 30, 2008, [122 Stat. 2659][/us/stat/122/2659], provided that: 
+[Pub. L. 110–289, div. A][/us/pl/110/289/dA], § 1001, July 30, 2008, [122 Stat. 2659][/us/stat/122/2659], provided that: 
 
 > “This division \[see Tables for classification\] may be cited as the ‘Federal Housing Finance Regulatory Reform Act of 2008’.”
 
  __Short Title__ 
 
-[Pub. L. 102–550, title XIII, § 1301][/us/pl/102/550/s1301], Oct. 28, 1992, [106 Stat. 3941][/us/stat/106/3941], provided that: 
+[Pub. L. 102–550, title XIII][/us/pl/102/550/tXIII], § 1301, Oct. 28, 1992, [106 Stat. 3941][/us/stat/106/3941], provided that: 
 
 > “This title \[enacting this chapter, amending sections 1422a, 1430, 1430b, 1451 to 1456, 1716 to 1719, 1723, 1723a, and 1723c of this title, sections 3132 and 5313 of Title 5, Government Organization and Employees, [section 1905 of Title 18][/us/usc/t18/s1905], Crimes and Criminal Procedure, and [section 3534 of Title 42][/us/usc/t42/s3534], The Public Health and Welfare, enacting provisions set out as notes under sections 1451, 1452, 1723, and 4562 of this title, and amending provisions set out as a note under [section 1451 of this title][/us/usc/t12/s1451]\] may be cited as the ‘Federal Housing Enterprises Financial Safety and Soundness Act of 1992’.”
 
@@ -63,16 +63,16 @@
 ----------
 
 [/us/usc/t12/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1421
-[/us/pl/102/550/s1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1302
+[/us/pl/102/550/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIII
 [/us/stat/106/3941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3941
 [/us/act/1932-07-22/ch522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-07-22%2Fch522
 [/us/stat/47/725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F725
 [/us/usc/t12/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1421
-[/us/pl/110/289/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1%2Fa
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
 [/us/stat/122/2654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2654
-[/us/pl/110/289/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1001
+[/us/pl/110/289/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA
 [/us/stat/122/2659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2659
-[/us/pl/102/550/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1301
+[/us/pl/102/550/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIII
 [/us/stat/106/3941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3941
 [/us/usc/t18/s1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1905
 [/us/usc/t42/s3534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3534

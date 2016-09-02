@@ -55,7 +55,7 @@
 
         Any recommendation made by the Council under subsection (c) shall not be binding on the Federal agencies that are parties to the dispute.
 
-([Pub. L. 111–203, title I, § 119][/us/pl/111/203/s119], July 21, 2010, [124 Stat. 1408][/us/stat/124/1408].)
+([Pub. L. 111–203, title I][/us/pl/111/203/tI], § 119, July 21, 2010, [124 Stat. 1408][/us/stat/124/1408].)
 
  __References in Text__ 
 
@@ -68,7 +68,7 @@
 ----------
 ----------
 
-[/us/pl/111/203/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs119
+[/us/pl/111/203/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtI
 [/us/stat/124/1408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1408
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1955

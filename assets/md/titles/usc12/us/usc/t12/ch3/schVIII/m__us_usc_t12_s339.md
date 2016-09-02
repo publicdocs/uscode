@@ -63,7 +63,7 @@
 
         The Board of Governors of the Federal Reserve System shall issue such regulations as may be necessary to the strict enforcement of this section and the prevention of evasions thereof.
 
-([Dec. 13, 1913, ch. 6, § 9A][/us/act/1913-12-13/ch6/s9A], as added [Pub. L. 90–203, § 2][/us/pl/90/203/s2], Dec. 15, 1967, [81 Stat. 609][/us/stat/81/609]; amended [Pub. L. 113–251, § 3(b)][/us/pl/113/251/s3/b], Dec. 18, 2014, [128 Stat. 2889][/us/stat/128/2889].)
+([Dec. 13, 1913, ch. 6][/us/act/1913-12-13/ch6], § 9A, as added [Pub. L. 90–203][/us/pl/90/203], § 2, Dec. 15, 1967, [81 Stat. 609][/us/stat/81/609]; amended [Pub. L. 113–251][/us/pl/113/251], § 3(b), Dec. 18, 2014, [128 Stat. 2889][/us/stat/128/2889].)
 
  __Codification__ 
 
@@ -71,9 +71,9 @@
 
  __Amendments__ 
 
-    2014—Subsec. (c)(2). [Pub. L. 113–251, § 3(b)(1)][/us/pl/113/251/s3/b/1], inserted “, other than a savings promotion raffle,” before “whereby” in introductory provisions.
+    2014—Subsec. (c)(2). [Pub. L. 113–251][/us/pl/113/251], § 3(b)(1), inserted “, other than a savings promotion raffle,” before “whereby” in introductory provisions.
 
-    Subsec. (c)(4). [Pub. L. 113–251, § 3(b)(2)][/us/pl/113/251/s3/b/2], added par. (4).
+    Subsec. (c)(4). [Pub. L. 113–251][/us/pl/113/251], § 3(b)(2), added par. (4).
 
  __Effective Date__ 
 
@@ -87,13 +87,13 @@
 ----------
 
 [/us/usc/t12/s5481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5481
-[/us/act/1913-12-13/ch6/s9A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-13%2Fch6%2Fs9A
-[/us/pl/90/203/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F203%2Fs2
+[/us/act/1913-12-13/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-13%2Fch6
+[/us/pl/90/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F203
 [/us/stat/81/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F609
-[/us/pl/113/251/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F251%2Fs3%2Fb
+[/us/pl/113/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F251
 [/us/stat/128/2889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2889
-[/us/pl/113/251/s3/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F251%2Fs3%2Fb%2F1
-[/us/pl/113/251/s3/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F251%2Fs3%2Fb%2F2
+[/us/pl/113/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F251
+[/us/pl/113/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F251
 [/us/pl/90/203/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F203%2Fs6
 [/us/usc/t12/s25a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs25a
 

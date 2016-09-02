@@ -17,7 +17,7 @@
 
     No Federal reserve bank shall commence business with a subscribed capital less than $4,000,000.
 
-([Dec. 23, 1913, ch. 6, § 2][/us/act/1913-12-23/ch6/s2] (part), [38 Stat. 253][/us/stat/38/253].)
+([Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 2 (part), [38 Stat. 253][/us/stat/38/253].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1913-12-23/ch6/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs2
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
 [/us/stat/38/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F253
 [/us/usc/t12/s224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs224
 [/us/usc/t12/s222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs222

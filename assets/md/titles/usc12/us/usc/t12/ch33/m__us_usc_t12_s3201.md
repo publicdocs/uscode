@@ -41,23 +41,23 @@
 
     (6) the term “appropriate Federal depository institutions regulatory agency” means, with respect to any depository institution or depository holding company, the agency referred to in [section 3207 of this title][/us/usc/t12/s3207] in connection with such institution or company.
 
-([Pub. L. 95–630, title II, § 202][/us/pl/95/630/s202], Nov. 10, 1978, [92 Stat. 3672][/us/stat/92/3672]; [Pub. L. 100–650][/us/pl/100/650], §§ 2, 3, 5(b)(1), Nov. 10, 1988, [102 Stat. 3819][/us/stat/102/3819], 3820; [Pub. L. 103–325, title III, § 322(c)(2)][/us/pl/103/325/s322/c/2], Sept. 23, 1994, [108 Stat. 2227][/us/stat/108/2227].)
+([Pub. L. 95–630, title II][/us/pl/95/630/tII], § 202, Nov. 10, 1978, [92 Stat. 3672][/us/stat/92/3672]; [Pub. L. 100–650][/us/pl/100/650], §§ 2, 3, 5(b)(1), Nov. 10, 1988, [102 Stat. 3819][/us/stat/102/3819], 3820; [Pub. L. 103–325, title III][/us/pl/103/325/tIII], § 322(c)(2), Sept. 23, 1994, [108 Stat. 2227][/us/stat/108/2227].)
 
  __References in Text__ 
 
     This chapter, referred to in text, was in the original “this title”, meaning title II of [Pub. L. 95–630][/us/pl/95/630], Nov. 10, 1978, [92 Stat. 3672][/us/stat/92/3672], known as the Depository Institution Management Interlocks Act, which enacted this chapter, amended sections 1464, 1730, and 1818 of this title, and enacted provisions set out as a note below. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
-    [Section 1730a of this title][/us/usc/t12/s1730a], referred to in pars. (2) and (3)(A), was repealed by [Pub. L. 101–73, title IV, § 407][/us/pl/101/73/s407], Aug. 9, 1989, [103 Stat. 363][/us/stat/103/363].
+    [Section 1730a of this title][/us/usc/t12/s1730a], referred to in pars. (2) and (3)(A), was repealed by [Pub. L. 101–73, title IV][/us/pl/101/73/tIV], § 407, Aug. 9, 1989, [103 Stat. 363][/us/stat/103/363].
 
  __Amendments__ 
 
     1994—Par. (3)(D). [Pub. L. 103–325][/us/pl/103/325] substituted “and is a bankers’ bank, described in Paragraph Seventh of [section 24 of this title][/us/usc/t12/s24]; or” for “the voting securities of which are held by other banks, as permitted by State law, and which bank is primarily engaged in providing banking services for other banks and not the public: Provided, however, That in no case shall the voting securities of such corporation be held by any such other bank in excess of 5 per centum of the paid-in capital and 5 per centum of the surplus of such other bank; or”.
 
-    1988—Par. (3)(B). [Pub. L. 100–650, § 2][/us/pl/100/650/s2], substituted “25 percent” for “50 per centum” in two places.
+    1988—Par. (3)(B). [Pub. L. 100–650][/us/pl/100/650], § 2, substituted “25 percent” for “50 per centum” in two places.
 
-    Par. (4). [Pub. L. 100–650, § 3][/us/pl/100/650/s3], substituted “(including an advisory or honorary director, except in the case of a depository institution with total assets of less than $100,000,000)” for “(including an advisory or honorary director)”.
+    Par. (4). [Pub. L. 100–650][/us/pl/100/650], § 3, substituted “(including an advisory or honorary director, except in the case of a depository institution with total assets of less than $100,000,000)” for “(including an advisory or honorary director)”.
 
-    Par. (6). [Pub. L. 100–650, § 5(b)(1)][/us/pl/100/650/s5/b/1], added par. (6).
+    Par. (6). [Pub. L. 100–650][/us/pl/100/650], § 5(b)(1), added par. (6).
 
  __Effective Date__ 
 
@@ -65,13 +65,13 @@
 
  __Short Title of 1988 Amendment__ 
 
-[Pub. L. 100–650, § 1][/us/pl/100/650/s1], Nov. 10, 1988, [102 Stat. 3819][/us/stat/102/3819], provided that: 
+[Pub. L. 100–650][/us/pl/100/650], § 1, Nov. 10, 1988, [102 Stat. 3819][/us/stat/102/3819], provided that: 
 
 > “This Act \[amending sections 3201, 3204, and 3205 of this title\] may be referred to as the ‘Management Interlocks Revision Act of 1988’.”
 
  __Short Title__ 
 
-[Pub. L. 95–630, title II, § 201][/us/pl/95/630/s201], Nov. 10, 1978, [92 Stat. 3672][/us/stat/92/3672], provided that: 
+[Pub. L. 95–630, title II][/us/pl/95/630/tII], § 201, Nov. 10, 1978, [92 Stat. 3672][/us/stat/92/3672], provided that: 
 
 > “This title \[enacting this chapter and amending sections 1464, 1730, and 1818 of this title\] may be cited as the ‘Depository Institution Management Interlocks Act’.”
 
@@ -87,27 +87,27 @@
 [/us/usc/t12/s1841/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1841%2Fd
 [/us/usc/t12/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs24
 [/us/usc/t12/s3207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3207
-[/us/pl/95/630/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs202
+[/us/pl/95/630/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtII
 [/us/stat/92/3672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3672
 [/us/pl/100/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F650
 [/us/stat/102/3819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3819
-[/us/pl/103/325/s322/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs322%2Fc%2F2
+[/us/pl/103/325/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtIII
 [/us/stat/108/2227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2227
 [/us/pl/95/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630
 [/us/stat/92/3672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3672
 [/us/usc/t12/s1730a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1730a
-[/us/pl/101/73/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs407
+[/us/pl/101/73/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtIV
 [/us/stat/103/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F363
 [/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
 [/us/usc/t12/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs24
-[/us/pl/100/650/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F650%2Fs2
-[/us/pl/100/650/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F650%2Fs3
-[/us/pl/100/650/s5/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F650%2Fs5%2Fb%2F1
+[/us/pl/100/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F650
+[/us/pl/100/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F650
+[/us/pl/100/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F650
 [/us/pl/95/630/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs2101
 [/us/usc/t12/s375b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs375b
-[/us/pl/100/650/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F650%2Fs1
+[/us/pl/100/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F650
 [/us/stat/102/3819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3819
-[/us/pl/95/630/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs201
+[/us/pl/95/630/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtII
 [/us/stat/92/3672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3672
 
 

@@ -77,35 +77,35 @@
 
         Members of the Board appointed by the President from among the officers of the agencies and departments of the United States Government shall not receive any additional compensation by virtue of their service on the Board. The member of the Board appointed from among proprietors of small business and the member of the Board appointed pursuant to subsection (b)(1)(C) shall (1) receive compensation at a rate equal to the daily equivalent of the rate prescribed for grade GS–18 under [section 5332 of title 5][/us/usc/t5/s5332] for each day that they are engaged in the performance of their duties on the Board, and (2) be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under section 5703(b)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of title 5 for each day that they are away from their homes or regular places of business in the performance of their duties on the Board. The members of the Board who are elected by the holders of class B stock and class C stock shall be compensated in accordance with the bylaws of the Bank. All compensation and expenses paid to the members of the Board of Directors shall be paid by the Bank.
 
-([Pub. L. 95–351, title I, § 103][/us/pl/95/351/s103], Aug. 20, 1978, [92 Stat. 502][/us/stat/92/502]; [Pub. L. 96–149][/us/pl/96/149], Dec. 16, 1979, [93 Stat. 1089][/us/stat/93/1089]; [Pub. L. 97–35, title III, § 393(a)][/us/pl/97/35/s393/a], (b), Aug. 13, 1981, [95 Stat. 435][/us/stat/95/435], 436.)
+([Pub. L. 95–351, title I][/us/pl/95/351/tI], § 103, Aug. 20, 1978, [92 Stat. 502][/us/stat/92/502]; [Pub. L. 96–149][/us/pl/96/149], Dec. 16, 1979, [93 Stat. 1089][/us/stat/93/1089]; [Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 393(a), (b), Aug. 13, 1981, [95 Stat. 435][/us/stat/95/435], 436.)
 
  __References in Text__ 
 
-    [Section 5703 of title 5][/us/usc/t5/s5703], referred to in subsec. (h), was amended generally by [Pub. L. 94–22, § 4][/us/pl/94/22/s4], May 19, 1975, [89 Stat. 85][/us/stat/89/85], and, as so amended, does not contain a subsec. (b).
+    [Section 5703 of title 5][/us/usc/t5/s5703], referred to in subsec. (h), was amended generally by [Pub. L. 94–22][/us/pl/94/22], § 4, May 19, 1975, [89 Stat. 85][/us/stat/89/85], and, as so amended, does not contain a subsec. (b).
 
  __Amendments__ 
 
-    1981—Subsec. (a). [Pub. L. 97–35, § 393(a)][/us/pl/97/35/s393/a], substituted provisions relating to composition, term of office, and removal by the President, for provisions relating to composition, appointment, eligibility, removal, and vacancies.
+    1981—Subsec. (a). [Pub. L. 97–35][/us/pl/97/35], § 393(a), substituted provisions relating to composition, term of office, and removal by the President, for provisions relating to composition, appointment, eligibility, removal, and vacancies.
 
-    Subsec. (b). [Pub. L. 97–35, § 393(a)][/us/pl/97/35/s393/a], substituted provisions relating to appointment by the President, and election by the stockholders, for provisions relating to resignation and termination of terms of Presidential appointees, shareholder directorships, resignation of remaining Presidential appointees on Final Government Equity Redemption Date, and continuation of Presidential appointment power.
+    Subsec. (b). [Pub. L. 97–35][/us/pl/97/35], § 393(a), substituted provisions relating to appointment by the President, and election by the stockholders, for provisions relating to resignation and termination of terms of Presidential appointees, shareholder directorships, resignation of remaining Presidential appointees on Final Government Equity Redemption Date, and continuation of Presidential appointment power.
 
-    Subsec. (c). [Pub. L. 97–35, § 393(a)][/us/pl/97/35/s393/a], substituted provisions relating to resignations, continuances, completion of term, and committee representation, for provisions relating to nominating criteria for appointment or election, and representational limitations.
+    Subsec. (c). [Pub. L. 97–35][/us/pl/97/35], § 393(a), substituted provisions relating to resignations, continuances, completion of term, and committee representation, for provisions relating to nominating criteria for appointment or election, and representational limitations.
 
-    Subsec. (d). [Pub. L. 97–35, § 393(a)][/us/pl/97/35/s393/a], substituted provisions relating to nominations by cooperative classes, vacancies, and representational requirements for elections, for provisions relating to rules governing election of successors to resigned Presidential appointees and successors to shareholder directors.
+    Subsec. (d). [Pub. L. 97–35][/us/pl/97/35], § 393(a), substituted provisions relating to nominations by cooperative classes, vacancies, and representational requirements for elections, for provisions relating to rules governing election of successors to resigned Presidential appointees and successors to shareholder directors.
 
-    Subsec. (h). [Pub. L. 97–35, § 393(b)][/us/pl/97/35/s393/b], inserted provisions relating to compensation of members elected by holders of class B and C stock, and provisions relating to payment of compensation and expenses by the Bank, and substituted provisions relating to members appointed under subsec. (b)(1)(C) of this section, for provisions relating to Final Government Equity Redemption Date, and members elected by holders of class B and C stock.
+    Subsec. (h). [Pub. L. 97–35][/us/pl/97/35], § 393(b), inserted provisions relating to compensation of members elected by holders of class B and C stock, and provisions relating to payment of compensation and expenses by the Bank, and substituted provisions relating to members appointed under subsec. (b)(1)(C) of this section, for provisions relating to Final Government Equity Redemption Date, and members elected by holders of class B and C stock.
 
-    1979—Subsec. (a). [Pub. L. 96–149, § 1(a)][/us/pl/96/149/s1/a], inserted provisions respecting appointment of a member from among proprietors of small business concerns, and substituted “fifteen” for “thirteen”, “eight” for “seven”, and “this section” for “this section 104”, which for purposes of codification had been editorially translated as “[section 3014 of this title][/us/usc/t12/s3014]”.
+    1979—Subsec. (a). [Pub. L. 96–149][/us/pl/96/149], § 1(a), inserted provisions respecting appointment of a member from among proprietors of small business concerns, and substituted “fifteen” for “thirteen”, “eight” for “seven”, and “this section” for “this section 104”, which for purposes of codification had been editorially translated as “[section 3014 of this title][/us/usc/t12/s3014]”.
 
-    Subsec. (b). [Pub. L. 96–149, § 1(b)][/us/pl/96/149/s1/b], substituted provisions respecting criteria for resignations of initial two additional Board members and the additional Board member, for provisions respecting criteria for resignation of an additional Board member, and substituted “Five of the” for “Five”.
+    Subsec. (b). [Pub. L. 96–149][/us/pl/96/149], § 1(b), substituted provisions respecting criteria for resignations of initial two additional Board members and the additional Board member, for provisions respecting criteria for resignation of an additional Board member, and substituted “Five of the” for “Five”.
 
-    Subsec. (d). [Pub. L. 96–149, § 1(c)][/us/pl/96/149/s1/c], substituted “five of the” for “all five”.
+    Subsec. (d). [Pub. L. 96–149][/us/pl/96/149], § 1(c), substituted “five of the” for “all five”.
 
-    Subsec. (h). [Pub. L. 96–149, § 1(d)][/us/pl/96/149/s1/d], inserted provisions relating to Board member appointed from among proprietors of small businesses.
+    Subsec. (h). [Pub. L. 96–149][/us/pl/96/149], § 1(d), inserted provisions relating to Board member appointed from among proprietors of small businesses.
 
  __Effective Date of 1981 Amendment__ 
 
-[Pub. L. 97–35, title III, § 393(c)][/us/pl/97/35/s393/c], Aug. 13, 1981, [95 Stat. 436][/us/stat/95/436], provided that: 
+[Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 393(c), Aug. 13, 1981, [95 Stat. 436][/us/stat/95/436], provided that: 
 
 > “The amendments made by subsections (a) and (b) \[amending this section\] shall take effect on the day after the Final Government Equity Redemption Date \[Dec. 31, 1981\].”
 
@@ -124,26 +124,26 @@
 
 [/us/usc/t15/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
-[/us/pl/95/351/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F351%2Fs103
+[/us/pl/95/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F351%2FtI
 [/us/stat/92/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F502
 [/us/pl/96/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F149
 [/us/stat/93/1089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1089
-[/us/pl/97/35/s393/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs393%2Fa
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F435
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
-[/us/pl/94/22/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F22%2Fs4
+[/us/pl/94/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F22
 [/us/stat/89/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F85
-[/us/pl/97/35/s393/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs393%2Fa
-[/us/pl/97/35/s393/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs393%2Fa
-[/us/pl/97/35/s393/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs393%2Fa
-[/us/pl/97/35/s393/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs393%2Fa
-[/us/pl/97/35/s393/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs393%2Fb
-[/us/pl/96/149/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F149%2Fs1%2Fa
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/96/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F149
 [/us/usc/t12/s3014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3014
-[/us/pl/96/149/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F149%2Fs1%2Fb
-[/us/pl/96/149/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F149%2Fs1%2Fc
-[/us/pl/96/149/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F149%2Fs1%2Fd
-[/us/pl/97/35/s393/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs393%2Fc
+[/us/pl/96/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F149
+[/us/pl/96/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F149
+[/us/pl/96/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F149
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F436
 [/us/pl/97/35/s396/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs396%2Fa
 [/us/usc/t12/s3012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3012

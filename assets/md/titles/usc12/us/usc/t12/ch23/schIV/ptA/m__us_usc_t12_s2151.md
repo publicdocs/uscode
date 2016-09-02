@@ -17,7 +17,7 @@
 
     The revolving fund established by this section (in effect immediately before January 6, 1988) shall be available to the Farm Credit Administration and the Assistance Board during the periods, and for the purposes, provided for in sections 2278a–13 and 2278a–7 of this title, respectively.
 
-([Pub. L. 92–181, title IV, § 4][/us/pl/92/181/s4].0, Dec. 10, 1971, [85 Stat. 609][/us/stat/85/609]; [Pub. L. 99–205, title I, § 101(1)][/us/pl/99/205/s101/1], Dec. 23, 1985, [99 Stat. 1678][/us/stat/99/1678]; [Pub. L. 100–233, title II, § 202][/us/pl/100/233/s202], Jan. 6, 1988, [101 Stat. 1605][/us/stat/101/1605]; [Pub. L. 100–399, title II, § 202][/us/pl/100/399/s202], Aug. 17, 1988, [102 Stat. 992][/us/stat/102/992].)
+([Pub. L. 92–181, title IV][/us/pl/92/181/tIV], § 4.0, Dec. 10, 1971, [85 Stat. 609][/us/stat/85/609]; [Pub. L. 99–205, title I][/us/pl/99/205/tI], § 101(1), Dec. 23, 1985, [99 Stat. 1678][/us/stat/99/1678]; [Pub. L. 100–233, title II][/us/pl/100/233/tII], § 202, Jan. 6, 1988, [101 Stat. 1605][/us/stat/101/1605]; [Pub. L. 100–399, title II][/us/pl/100/399/tII], § 202, Aug. 17, 1988, [102 Stat. 992][/us/stat/102/992].)
 
  __References in Text__ 
 
@@ -49,7 +49,7 @@
 
     At the time of enactment of former [section 2152 of this title][/us/usc/t12/s2152] (see second par. of note under former [section 2152 of this title][/us/usc/t12/s2152]) by [Pub. L. 92–181][/us/pl/92/181] funds for temporary investment by the Governor of the Farm Credit Administration in the farm credit system were available from two revolving funds.
 
-    The first fund, providing moneys for investment in production credit associations and intermediate credit banks, was covered by former [section 1131i of this title][/us/usc/t12/s1131i]. Such fund was itself the result of an earlier merger of two revolving funds, the first having been created by the Farm Credit Act of 1933 and the second having been created by the Federal Farm Mortgage Corporation Act of 1934. These two were combined into a single fund pursuant to [Pub. L. 87–343, § 2(1)][/us/pl/87/343/s2/1], Oct. 3, 1961, [75 Stat. 758][/us/stat/75/758]. Each of the statutory steps in the establishment of such fund was cast in the form of an amendment to the Farm Credit Act of 1933. Since such Farm Credit Act of 1933 has been repealed by section 5.26 of [Pub. L. 92–181][/us/pl/92/181], [section 1131i of this title][/us/usc/t12/s1131i] is carried as repealed. Notwithstanding such apparent repeal, statements of Congressional intent indicate an intention to retain the fund using as its statutory base the law ([Pub. L. 87–343][/us/pl/87/343]) which had effected the consolidation in 1961.
+    The first fund, providing moneys for investment in production credit associations and intermediate credit banks, was covered by former [section 1131i of this title][/us/usc/t12/s1131i]. Such fund was itself the result of an earlier merger of two revolving funds, the first having been created by the Farm Credit Act of 1933 and the second having been created by the Federal Farm Mortgage Corporation Act of 1934. These two were combined into a single fund pursuant to [Pub. L. 87–343][/us/pl/87/343], § 2(1), Oct. 3, 1961, [75 Stat. 758][/us/stat/75/758]. Each of the statutory steps in the establishment of such fund was cast in the form of an amendment to the Farm Credit Act of 1933. Since such Farm Credit Act of 1933 has been repealed by section 5.26 of [Pub. L. 92–181][/us/pl/92/181], [section 1131i of this title][/us/usc/t12/s1131i] is carried as repealed. Notwithstanding such apparent repeal, statements of Congressional intent indicate an intention to retain the fund using as its statutory base the law ([Pub. L. 87–343][/us/pl/87/343]) which had effected the consolidation in 1961.
 
     The second fund, providing moneys for investment in banks for cooperatives, is covered by [section 1141d of this title][/us/usc/t12/s1141d]. Although the basic authority for such fund would be the Agricultural Marketing Act of 1929, a more updated authority for such fund is the Agricultural Marketing Act Amendment of 1962, [Pub. L. 87–494][/us/pl/87/494], June 25, 1962, [76 Stat. 109][/us/stat/76/109], under which the fund was reduced to $150,000,000 and the amount in such fund in excess of such figure was returned to the Treasury as miscellaneous receipts.
 
@@ -62,13 +62,13 @@
 ----------
 ----------
 
-[/us/pl/92/181/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs4
+[/us/pl/92/181/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtIV
 [/us/stat/85/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F609
-[/us/pl/99/205/s101/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2Fs101%2F1
+[/us/pl/99/205/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2FtI
 [/us/stat/99/1678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1678
-[/us/pl/100/233/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs202
+[/us/pl/100/233/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtII
 [/us/stat/101/1605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1605
-[/us/pl/100/399/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs202
+[/us/pl/100/399/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtII
 [/us/stat/102/992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F992
 [/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/usc/t12/s2277a–5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2277a%E2%80%935%2Fc
@@ -95,7 +95,7 @@
 [/us/usc/t12/s2152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2152
 [/us/pl/92/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181
 [/us/usc/t12/s1131i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1131i
-[/us/pl/87/343/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F343%2Fs2%2F1
+[/us/pl/87/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F343
 [/us/stat/75/758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F758
 [/us/pl/92/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181
 [/us/usc/t12/s1131i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1131i

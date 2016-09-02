@@ -37,11 +37,11 @@
 
             The dollar amount applicable under paragraph (1) for any calendar year shall be the amount determined in accordance with subparagraphs (A) and (B) of paragraph (2) and rounded to the nearest multiple of $1,000,000.
 
-([Pub. L. 94–200, title III, § 309][/us/pl/94/200/s309], Dec. 31, 1975, [89 Stat. 1128][/us/stat/89/1128]; [Pub. L. 102–242, title II, § 224(a)][/us/pl/102/242/s224/a], Dec. 19, 1991, [105 Stat. 2307][/us/stat/105/2307]; [Pub. L. 102–550, title XVI, § 1604(a)(15)][/us/pl/102/550/s1604/a/15], Oct. 28, 1992, [106 Stat. 4083][/us/stat/106/4083]; [Pub. L. 104–208, div. A, title II, § 2225(a)][/us/pl/104/208/s2225/a], Sept. 30, 1996, [110 Stat. 3009–415][/us/stat/110/3009-415]; [Pub. L. 111–203, title X, § 1094(1)][/us/pl/111/203/s1094/1], July 21, 2010, [124 Stat. 2097][/us/stat/124/2097].)
+([Pub. L. 94–200, title III][/us/pl/94/200/tIII], § 309, Dec. 31, 1975, [89 Stat. 1128][/us/stat/89/1128]; [Pub. L. 102–242, title II][/us/pl/102/242/tII], § 224(a), Dec. 19, 1991, [105 Stat. 2307][/us/stat/105/2307]; [Pub. L. 102–550, title XVI][/us/pl/102/550/tXVI], § 1604(a)(15), Oct. 28, 1992, [106 Stat. 4083][/us/stat/106/4083]; [Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], § 2225(a), Sept. 30, 1996, [110 Stat. 3009–415][/us/stat/110/3009-415]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1094(1), July 21, 2010, [124 Stat. 2097][/us/stat/124/2097].)
 
  __References in Text__ 
 
-    [Section 2802(2) of this title][/us/usc/t12/s2802/2], referred to in subsecs. (a) and (b)(1), was redesignated [section 2802(3) of this title][/us/usc/t12/s2802/3] by [Pub. L. 111–203, title X, § 1094(2)(A)][/us/pl/111/203/s1094/2/A], July 21, 2010, [124 Stat. 2097][/us/stat/124/2097].
+    [Section 2802(2) of this title][/us/usc/t12/s2802/2], referred to in subsecs. (a) and (b)(1), was redesignated [section 2802(3) of this title][/us/usc/t12/s2802/3] by [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1094(2)(A), July 21, 2010, [124 Stat. 2097][/us/stat/124/2097].
 
  __Amendments__ 
 
@@ -49,9 +49,9 @@
 
     1996—[Pub. L. 104–208][/us/pl/104/208] designated existing provisions as subsec. (a), inserted heading, inserted “(as determined without regard to the adjustment made by subsection (b))” before period at end, and added subsec. (b).
 
-    1992—[Pub. L. 102–550, § 1604(a)(15)][/us/pl/102/550/s1604/a/15], amended directory language of [Pub. L. 102–242, § 224(a)][/us/pl/102/242/s224/a]. See 1991 Amendment note below.
+    1992—[Pub. L. 102–550][/us/pl/102/550], § 1604(a)(15), amended directory language of [Pub. L. 102–242][/us/pl/102/242], § 224(a). See 1991 Amendment note below.
 
-    1991—[Pub. L. 102–242, § 224(a)][/us/pl/102/242/s224/a], as amended by [Pub. L. 102–550, § 1604(a)(15)][/us/pl/102/550/s1604/a/15], struck out “depository” before “institution”, inserted “specified in [section 2802(2)(A) of this title][/us/usc/t12/s2802/2/A]” after “institution”, and inserted at end: “The Board, in consultation with the Secretary, may exempt institutions described in [section 2802(2)(B) of this title][/us/usc/t12/s2802/2/B] that are comparable within their respective industries to institutions that are exempt under the preceding sentence.”
+    1991—[Pub. L. 102–242][/us/pl/102/242], § 224(a), as amended by [Pub. L. 102–550][/us/pl/102/550], § 1604(a)(15), struck out “depository” before “institution”, inserted “specified in [section 2802(2)(A) of this title][/us/usc/t12/s2802/2/A]” after “institution”, and inserted at end: “The Board, in consultation with the Secretary, may exempt institutions described in [section 2802(2)(B) of this title][/us/usc/t12/s2802/2/B] that are comparable within their respective industries to institutions that are exempt under the preceding sentence.”
 
  __Effective Date of 2010 Amendment__ 
 
@@ -63,7 +63,7 @@
 
  __Effective Date of 1991 Amendment__ 
 
-[Pub. L. 102–242, title II, § 224(b)][/us/pl/102/242/s224/b], Dec. 19, 1991, [105 Stat. 2307][/us/stat/105/2307], provided that: 
+[Pub. L. 102–242, title II][/us/pl/102/242/tII], § 224(b), Dec. 19, 1991, [105 Stat. 2307][/us/stat/105/2307], provided that: 
 
 > “This section \[amending this section\] shall become effective on January 1, 1992.”
 
@@ -74,26 +74,26 @@
 ----------
 ----------
 
-[/us/pl/94/200/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F200%2Fs309
+[/us/pl/94/200/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F200%2FtIII
 [/us/stat/89/1128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1128
-[/us/pl/102/242/s224/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs224%2Fa
+[/us/pl/102/242/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtII
 [/us/stat/105/2307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2307
-[/us/pl/102/550/s1604/a/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1604%2Fa%2F15
+[/us/pl/102/550/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXVI
 [/us/stat/106/4083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4083
-[/us/pl/104/208/s2225/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2225%2Fa
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-415
-[/us/pl/111/203/s1094/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1094%2F1
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2097
 [/us/usc/t12/s2802/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2802%2F2
 [/us/usc/t12/s2802/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2802%2F3
-[/us/pl/111/203/s1094/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1094%2F2%2FA
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2097
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
-[/us/pl/102/550/s1604/a/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1604%2Fa%2F15
-[/us/pl/102/242/s224/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs224%2Fa
-[/us/pl/102/242/s224/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs224%2Fa
-[/us/pl/102/550/s1604/a/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1604%2Fa%2F15
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
+[/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/usc/t12/s2802/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2802%2F2%2FA
 [/us/usc/t12/s2802/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2802%2F2%2FB
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
@@ -103,7 +103,7 @@
 [/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
 [/us/pl/102/550/s1609/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1609%2Fa
 [/us/usc/t12/s191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs191
-[/us/pl/102/242/s224/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs224%2Fb
+[/us/pl/102/242/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtII
 [/us/stat/105/2307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2307
 
 

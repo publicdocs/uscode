@@ -17,7 +17,7 @@
 
     If any cooperative association is not authorized under the laws of the State in which it is organized to take and hold stock in a bank for cooperatives, the bank shall, in lieu of any requirement for stock purchase, require the association to pay into or have on deposit in a guaranty fund, or the bank may retain out of the amount of the loan and credit to the guaranty fund account of the borrower, a sum equal to the amount of stock which the association would otherwise be required to own. Each reference to stock of the banks for cooperatives in this chapter shall include such guaranty fund equivalents. The holder of the guaranty fund equivalent and the bank shall each be entitled to the same rights and obligations with respect thereto as the rights and obligations associated with the class or classes of stock involved.
 
-([Pub. L. 92–181, title III, § 3][/us/pl/92/181/s3].6, Dec. 10, 1971, [85 Stat. 604][/us/stat/85/604].)
+([Pub. L. 92–181, title III][/us/pl/92/181/tIII], § 3.6, Dec. 10, 1971, [85 Stat. 604][/us/stat/85/604].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/92/181/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs3
+[/us/pl/92/181/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtIII
 [/us/stat/85/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F604
 
 

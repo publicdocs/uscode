@@ -17,7 +17,7 @@
 
     In the administration of housing assistance programs, the Secretary of Housing and Urban Development shall encourage the use of materials and products mined and produced in the United States.
 
-([Pub. L. 100–242, title V, § 571][/us/pl/100/242/s571], Feb. 5, 1988, [101 Stat. 1950][/us/stat/101/1950].)
+([Pub. L. 100–242, title V][/us/pl/100/242/tV], § 571, Feb. 5, 1988, [101 Stat. 1950][/us/stat/101/1950].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/100/242/s571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs571
+[/us/pl/100/242/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtV
 [/us/stat/101/1950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1950
 
 

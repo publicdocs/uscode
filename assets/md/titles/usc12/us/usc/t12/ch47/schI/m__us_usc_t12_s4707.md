@@ -213,7 +213,7 @@
 
         Nothing in this subchapter shall affect any authority of the appropriate Federal banking agency to supervise and regulate any institution or company.
 
-([Pub. L. 103–325, title I, § 108][/us/pl/103/325/s108], Sept. 23, 1994, [108 Stat. 2172][/us/stat/108/2172].)
+([Pub. L. 103–325, title I][/us/pl/103/325/tI], § 108, Sept. 23, 1994, [108 Stat. 2172][/us/stat/108/2172].)
 
  __References in Text__ 
 
@@ -235,7 +235,7 @@
 [/us/usc/t12/s4714/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4714%2Fe%2F1
 [/us/usc/t12/s4704/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4704%2Fb%2F2
 [/us/usc/t12/s4704/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4704%2Fb%2F2
-[/us/pl/103/325/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs108
+[/us/pl/103/325/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtI
 [/us/stat/108/2172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2172
 [/us/pl/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383
 [/us/stat/88/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F633

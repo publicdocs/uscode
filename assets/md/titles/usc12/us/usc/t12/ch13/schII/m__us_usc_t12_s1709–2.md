@@ -25,7 +25,7 @@
 
     shall be fined not more than $250,000 or imprisoned not more than 5 years, or both. This section shall apply to a purchaser of such a dwelling, or a beneficial owner under any business organization or trust purchasing such dwelling, or to an officer, director, or agent of any such purchaser. Nothing in this section shall apply to the purchaser of only one such dwelling.
 
-([Pub. L. 91–609, title IX, § 912][/us/pl/91/609/s912], Dec. 31, 1970, [84 Stat. 1814][/us/stat/84/1814]; [Pub. L. 100–242, title IV, § 416(a)][/us/pl/100/242/s416/a], Feb. 5, 1988, [101 Stat. 1907][/us/stat/101/1907]; [Pub. L. 102–54, § 13(d)(1)][/us/pl/102/54/s13/d/1], June 13, 1991, [105 Stat. 274][/us/stat/105/274].)
+([Pub. L. 91–609, title IX][/us/pl/91/609/tIX], § 912, Dec. 31, 1970, [84 Stat. 1814][/us/stat/84/1814]; [Pub. L. 100–242, title IV][/us/pl/100/242/tIV], § 416(a), Feb. 5, 1988, [101 Stat. 1907][/us/stat/101/1907]; [Pub. L. 102–54][/us/pl/102/54], § 13(d)(1), June 13, 1991, [105 Stat. 274][/us/stat/105/274].)
 
  __Codification__ 
 
@@ -44,11 +44,11 @@
 ----------
 ----------
 
-[/us/pl/91/609/s912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F609%2Fs912
+[/us/pl/91/609/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F609%2FtIX
 [/us/stat/84/1814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1814
-[/us/pl/100/242/s416/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs416%2Fa
+[/us/pl/100/242/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtIV
 [/us/stat/101/1907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1907
-[/us/pl/102/54/s13/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54%2Fs13%2Fd%2F1
+[/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/stat/105/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F274
 [/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242

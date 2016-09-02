@@ -25,7 +25,7 @@
 
     (4) may require such reports as it deems necessary from the institutions of the Farm Credit System.
 
-([Pub. L. 92–181, title V, § 5][/us/pl/92/181/s5].9, Dec. 10, 1971, [85 Stat. 619][/us/stat/85/619]; [Pub. L. 99–205, title II, § 201(1)][/us/pl/99/205/s201/1], Dec. 23, 1985, [99 Stat. 1689][/us/stat/99/1689]; [Pub. L. 100–233, title VIII, § 805(w)][/us/pl/100/233/s805/w], Jan. 6, 1988, [101 Stat. 1716][/us/stat/101/1716].)
+([Pub. L. 92–181, title V][/us/pl/92/181/tV], § 5.9, Dec. 10, 1971, [85 Stat. 619][/us/stat/85/619]; [Pub. L. 99–205, title II][/us/pl/99/205/tII], § 201(1), Dec. 23, 1985, [99 Stat. 1689][/us/stat/99/1689]; [Pub. L. 100–233, title VIII][/us/pl/100/233/tVIII], § 805(w), Jan. 6, 1988, [101 Stat. 1716][/us/stat/101/1716].)
 
  __Amendments__ 
 
@@ -48,11 +48,11 @@
 ----------
 ----------
 
-[/us/pl/92/181/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs5
+[/us/pl/92/181/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtV
 [/us/stat/85/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F619
-[/us/pl/99/205/s201/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2Fs201%2F1
+[/us/pl/99/205/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2FtII
 [/us/stat/99/1689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1689
-[/us/pl/100/233/s805/w]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs805%2Fw
+[/us/pl/100/233/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtVIII
 [/us/stat/101/1716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1716
 [/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
 [/us/pl/99/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205

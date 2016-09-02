@@ -17,7 +17,7 @@
 
     Every national banking association operating foreign branches shall conduct the accounts of each foreign branch independently of the accounts of other foreign branches established by it and of its home office, and shall at the end of each fiscal period transfer to its general ledger the profit or loss accrued at each branch as a separate item.
 
-([Dec. 23, 1913, ch. 6, § 25][/us/act/1913-12-23/ch6/s25] (par.), [38 Stat. 273][/us/stat/38/273]; [Sept. 7, 1916, ch. 461][/us/act/1916-09-07/ch461], [39 Stat. 756][/us/stat/39/756].)
+([Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 25 (par.), [38 Stat. 273][/us/stat/38/273]; [Sept. 7, 1916, ch. 461][/us/act/1916-09-07/ch461], [39 Stat. 756][/us/stat/39/756].)
 
  __Codification__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/act/1913-12-23/ch6/s25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs25
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
 [/us/stat/38/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F273
 [/us/act/1916-09-07/ch461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-09-07%2Fch461
 [/us/stat/39/756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F756

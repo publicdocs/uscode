@@ -19,7 +19,7 @@
 
     (b) Any Federal credit union, upon the deposit with it of any funds by the Federal Government, an Indian tribe, or any State or local government or political subdivision thereof as otherwise authorized by this chapter, is authorized to pledge any of its assets securing the payment of the funds so deposited.
 
-([June 26, 1934, ch. 750][/us/act/1934-06-26/ch750], title I, § 121, formerly § 17, [48 Stat. 1222][/us/stat/48/1222]; 1947, Reorg. Plan No. 1, § 401, eff. July 1, 1947, 12 F.R. 4534, [61 Stat. 952][/us/stat/61/952]; [June 29, 1948, ch. 711][/us/act/1948-06-29/ch711], §§ 1, 2, [62 Stat. 1091][/us/stat/62/1091]; renumbered § 22, [Pub. L. 86–354, § 1][/us/pl/86/354/s1], Sept. 22, 1959, [73 Stat. 637][/us/stat/73/637]; amended [Pub. L. 91–206, § 2(1)][/us/pl/91/206/s2/1], Mar. 10, 1970, [84 Stat. 49][/us/stat/84/49]; renumbered title I, § 121, [Pub. L. 91–468, § 1(2)][/us/pl/91/468/s1/2], Oct. 19, 1970, [84 Stat. 994][/us/stat/84/994]; amended [Pub. L. 95–630, title V, § 502(b)][/us/pl/95/630/s502/b], Nov. 10, 1978, [92 Stat. 3681][/us/stat/92/3681]; [Pub. L. 100–86, title VII, § 716][/us/pl/100/86/s716], Aug. 10, 1987, [101 Stat. 656][/us/stat/101/656].)
+([June 26, 1934, ch. 750][/us/act/1934-06-26/ch750], title I, § 121, formerly § 17, [48 Stat. 1222][/us/stat/48/1222]; 1947, Reorg. Plan No. 1, § 401, eff. July 1, 1947, 12 F.R. 4534, [61 Stat. 952][/us/stat/61/952]; [June 29, 1948, ch. 711][/us/act/1948-06-29/ch711], §§ 1, 2, [62 Stat. 1091][/us/stat/62/1091]; renumbered § 22, [Pub. L. 86–354][/us/pl/86/354], § 1, Sept. 22, 1959, [73 Stat. 637][/us/stat/73/637]; amended [Pub. L. 91–206][/us/pl/91/206], § 2(1), Mar. 10, 1970, [84 Stat. 49][/us/stat/84/49]; renumbered title I, § 121, [Pub. L. 91–468][/us/pl/91/468], § 1(2), Oct. 19, 1970, [84 Stat. 994][/us/stat/84/994]; amended [Pub. L. 95–630, title V][/us/pl/95/630/tV], § 502(b), Nov. 10, 1978, [92 Stat. 3681][/us/stat/92/3681]; [Pub. L. 100–86, title VII][/us/pl/100/86/tVII], § 716, Aug. 10, 1987, [101 Stat. 656][/us/stat/101/656].)
 
  __Amendments__ 
 
@@ -51,15 +51,15 @@
 [/us/stat/61/952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F952
 [/us/act/1948-06-29/ch711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-29%2Fch711
 [/us/stat/62/1091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1091
-[/us/pl/86/354/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F354%2Fs1
+[/us/pl/86/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F354
 [/us/stat/73/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F637
-[/us/pl/91/206/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F206%2Fs2%2F1
+[/us/pl/91/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F206
 [/us/stat/84/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F49
-[/us/pl/91/468/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F468%2Fs1%2F2
+[/us/pl/91/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F468
 [/us/stat/84/994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F994
-[/us/pl/95/630/s502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs502%2Fb
+[/us/pl/95/630/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtV
 [/us/stat/92/3681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3681
-[/us/pl/100/86/s716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2Fs716
+[/us/pl/100/86/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2FtVII
 [/us/stat/101/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F656
 [/us/pl/100/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86
 [/us/pl/95/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630

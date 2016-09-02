@@ -27,7 +27,7 @@
 
         The Board of Governors and the Secretary shall consult with their foreign counterparts and through appropriate multilateral organizations to encourage comprehensive and robust prudential supervision and regulation for all highly leveraged and interconnected financial companies.
 
-([Pub. L. 111–203, title I, § 175][/us/pl/111/203/s175], July 21, 2010, [124 Stat. 1442][/us/stat/124/1442].)
+([Pub. L. 111–203, title I][/us/pl/111/203/tI], § 175, July 21, 2010, [124 Stat. 1442][/us/stat/124/1442].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/111/203/s175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs175
+[/us/pl/111/203/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtI
 [/us/stat/124/1442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1442
 
 

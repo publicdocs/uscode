@@ -71,15 +71,15 @@
 
             Any number of Farm Credit System institutions (other than the Corporation) may enter into an agreement with any certified facility (including an affiliate established under paragraph (1)) to sell the qualified loans of such institutions exclusively to or through the facility.
 
-([Pub. L. 92–181, title VIII, § 8][/us/pl/92/181/s8].5, as added [Pub. L. 100–233, title VII, § 702][/us/pl/100/233/s702], Jan. 6, 1988, [101 Stat. 1694][/us/stat/101/1694]; amended [Pub. L. 104–105, title I, § 106][/us/pl/104/105/s106], Feb. 10, 1996, [110 Stat. 164][/us/stat/110/164].)
+([Pub. L. 92–181, title VIII][/us/pl/92/181/tVIII], § 8.5, as added [Pub. L. 100–233, title VII][/us/pl/100/233/tVII], § 702, Jan. 6, 1988, [101 Stat. 1694][/us/stat/101/1694]; amended [Pub. L. 104–105, title I][/us/pl/104/105/tI], § 106, Feb. 10, 1996, [110 Stat. 164][/us/stat/110/164].)
 
  __Amendments__ 
 
-    1996—Subsec. (a)(1). [Pub. L. 104–105, § 106(1)(A)][/us/pl/104/105/s106/1/A], inserted “(other than the Corporation)” after “facilities”.
+    1996—Subsec. (a)(1). [Pub. L. 104–105][/us/pl/104/105], § 106(1)(A), inserted “(other than the Corporation)” after “facilities”.
 
-    Subsec. (a)(2). [Pub. L. 104–105, § 106(1)(B)][/us/pl/104/105/s106/1/B], inserted “(other than the Corporation)” after “facility” in introductory provisions.
+    Subsec. (a)(2). [Pub. L. 104–105][/us/pl/104/105], § 106(1)(B), inserted “(other than the Corporation)” after “facility” in introductory provisions.
 
-    Subsec. (e)(1). [Pub. L. 104–105, § 106(2)][/us/pl/104/105/s106/2], struck out “(other than the Corporation)” after “System institution”.
+    Subsec. (e)(1). [Pub. L. 104–105][/us/pl/104/105], § 106(2), struck out “(other than the Corporation)” after “System institution”.
 
 ----------
 
@@ -88,13 +88,13 @@
 ----------
 ----------
 
-[/us/pl/92/181/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs8
-[/us/pl/100/233/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs702
+[/us/pl/92/181/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtVIII
+[/us/pl/100/233/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtVII
 [/us/stat/101/1694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1694
-[/us/pl/104/105/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2Fs106
+[/us/pl/104/105/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2FtI
 [/us/stat/110/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F164
-[/us/pl/104/105/s106/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2Fs106%2F1%2FA
-[/us/pl/104/105/s106/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2Fs106%2F1%2FB
-[/us/pl/104/105/s106/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2Fs106%2F2
+[/us/pl/104/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105
+[/us/pl/104/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105
+[/us/pl/104/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105
 
 

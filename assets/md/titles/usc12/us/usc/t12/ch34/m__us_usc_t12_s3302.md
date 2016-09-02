@@ -23,13 +23,13 @@
 
     (3) the term “financial institution” means a commercial bank, a savings bank, a trust company, a savings association, a building and loan association, a homestead association, a cooperative bank, or a credit union;  <sup>\[1\]</sup>  <sup><sup> 1 So in original. The semicolon probably should be a period. </sup></sup> 
 
-([Pub. L. 95–630, title X, § 1003][/us/pl/95/630/s1003], Nov. 10, 1978, [92 Stat. 3694][/us/stat/92/3694]; [Pub. L. 101–73, title VII, § 744(a)(1)][/us/pl/101/73/s744/a/1], Aug. 9, 1989, [103 Stat. 438][/us/stat/103/438].)
+([Pub. L. 95–630, title X][/us/pl/95/630/tX], § 1003, Nov. 10, 1978, [92 Stat. 3694][/us/stat/92/3694]; [Pub. L. 101–73, title VII][/us/pl/101/73/tVII], § 744(a)(1), Aug. 9, 1989, [103 Stat. 438][/us/stat/103/438].)
 
  __Amendments__ 
 
-    1989—Par. (1). [Pub. L. 101–73, § 744(a)(1)(A)][/us/pl/101/73/s744/a/1/A], substituted “Office of Thrift Supervision” for “Federal Home Loan Bank Board”.
+    1989—Par. (1). [Pub. L. 101–73][/us/pl/101/73], § 744(a)(1)(A), substituted “Office of Thrift Supervision” for “Federal Home Loan Bank Board”.
 
-    Par. (3). [Pub. L. 101–73, § 744(a)(1)(B)][/us/pl/101/73/s744/a/1/B], substituted “savings association” for “savings and loan association”.
+    Par. (3). [Pub. L. 101–73][/us/pl/101/73], § 744(a)(1)(B), substituted “savings association” for “savings and loan association”.
 
 ----------
 
@@ -38,11 +38,11 @@
 ----------
 ----------
 
-[/us/pl/95/630/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs1003
+[/us/pl/95/630/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtX
 [/us/stat/92/3694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3694
-[/us/pl/101/73/s744/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs744%2Fa%2F1
+[/us/pl/101/73/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtVII
 [/us/stat/103/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F438
-[/us/pl/101/73/s744/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs744%2Fa%2F1%2FA
-[/us/pl/101/73/s744/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs744%2Fa%2F1%2FB
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
 
 

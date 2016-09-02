@@ -91,7 +91,7 @@
 
             Not later than 9 months after the date of completion of the study under paragraph (1), and notwithstanding subsections (b) and (d), the Board shall issue final regulations implementing this section, which shall reflect any recommendations by the Council under paragraph (1)(B).
 
-([May 9, 1956, ch. 240, § 14][/us/act/1956-05-09/ch240/s14], as added [Pub. L. 111–203, title VI, § 622][/us/pl/111/203/s622], July 21, 2010, [124 Stat. 1632][/us/stat/124/1632].)
+([May 9, 1956, ch. 240][/us/act/1956-05-09/ch240], § 14, as added [Pub. L. 111–203, title VI][/us/pl/111/203/tVI], § 622, July 21, 2010, [124 Stat. 1632][/us/stat/124/1632].)
 
  __References in Text__ 
 
@@ -112,8 +112,8 @@
 
 [/us/usc/t12/s5311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5311
 [/us/usc/t12/s1823/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1823%2Fc
-[/us/act/1956-05-09/ch240/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-05-09%2Fch240%2Fs14
-[/us/pl/111/203/s622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs622
+[/us/act/1956-05-09/ch240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-05-09%2Fch240
+[/us/pl/111/203/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVI
 [/us/stat/124/1632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1632
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1376

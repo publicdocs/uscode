@@ -59,7 +59,7 @@
 
             The term “savings and loan holding company” has the meaning given the term in [section 1467a(a)(1)(D) of this title][/us/usc/t12/s1467a/a/1/D].
 
-([Pub. L. 106–102, title I, § 115][/us/pl/106/102/s115], Nov. 12, 1999, [113 Stat. 1371][/us/stat/113/1371].)
+([Pub. L. 106–102, title I][/us/pl/106/102/tI], § 115, Nov. 12, 1999, [113 Stat. 1371][/us/stat/113/1371].)
 
  __References in Text__ 
 
@@ -86,7 +86,7 @@
 [/us/usc/t12/s1813/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813%2Fc
 [/us/usc/t15/s80a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%931
 [/us/usc/t12/s1467a/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1467a%2Fa%2F1%2FD
-[/us/pl/106/102/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs115
+[/us/pl/106/102/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtI
 [/us/stat/113/1371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1371
 [/us/act/1940-08-22/ch686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-08-22%2Fch686
 [/us/stat/54/789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F789

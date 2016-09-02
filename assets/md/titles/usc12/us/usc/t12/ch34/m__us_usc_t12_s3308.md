@@ -17,7 +17,7 @@
 
     For the purpose of carrying out this chapter, the Council shall have access to all books, accounts, records, reports, files, memorandums, papers, things, and property belonging to or in use by Federal financial institutions regulatory agencies, including reports of examination of financial institutions or their holding companies from whatever source, together with workpapers and correspondence files related to such reports, whether or not a part of the report, and all without any deletions.
 
-([Pub. L. 95–630, title X, § 1009][/us/pl/95/630/s1009], Nov. 10, 1978, [92 Stat. 3696][/us/stat/92/3696].)
+([Pub. L. 95–630, title X][/us/pl/95/630/tX], § 1009, Nov. 10, 1978, [92 Stat. 3696][/us/stat/92/3696].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/630/s1009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs1009
+[/us/pl/95/630/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtX
 [/us/stat/92/3696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3696
 
 

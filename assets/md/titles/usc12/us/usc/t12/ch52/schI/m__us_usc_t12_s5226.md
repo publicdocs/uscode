@@ -149,7 +149,7 @@
 
         (2) the date of expiration of the last insurance contract issued under [section 5212 of this title][/us/usc/t12/s5212].
 
-([Pub. L. 110–343, div. A, title I, § 116][/us/pl/110/343/s116], Oct. 3, 2008, [122 Stat. 3783][/us/stat/122/3783]; [Pub. L. 111–22, div. A, title VI, § 601][/us/pl/111/22/s601], May 20, 2009, [123 Stat. 1659][/us/stat/123/1659].)
+([Pub. L. 110–343, div. A, title I][/us/pl/110/343/dA/tI], § 116, Oct. 3, 2008, [122 Stat. 3783][/us/stat/122/3783]; [Pub. L. 111–22, div. A, title VI][/us/pl/111/22/dA/tVI], § 601, May 20, 2009, [123 Stat. 1659][/us/stat/123/1659].)
 
  __References in Text__ 
 
@@ -157,15 +157,15 @@
 
     Section 1204 of the Financial Institutions Reform, Recovery, and Enhancement Act of 1989, referred to in subsec. (a)(1)(H), probably means section 1204 of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989, [Pub. L. 101–73][/us/pl/101/73], which is set out as a note under [section 1811 of this title][/us/usc/t12/s1811].
 
-    [Section 1441a of this title][/us/usc/t12/s1441a], referred to in subsec. (a)(1)(H), was repealed by [Pub. L. 111–203, title III, § 364(b)][/us/pl/111/203/s364/b], July 21, 2010, [124 Stat. 1555][/us/stat/124/1555].
+    [Section 1441a of this title][/us/usc/t12/s1441a], referred to in subsec. (a)(1)(H), was repealed by [Pub. L. 111–203, title III][/us/pl/111/203/tIII], § 364(b), July 21, 2010, [124 Stat. 1555][/us/stat/124/1555].
 
-    [Section 5230 of this title][/us/usc/t12/s5230], referred to in subsec. (a)(2)(B), was so in the original, but probably should have been a reference to [section 120 of title I of div. A of Pub. L. 110–343][/us/pl/110/343/s120], which is classified to [section 5230 of this title][/us/usc/t12/s5230].
+    [Section 5230 of this title][/us/usc/t12/s5230], referred to in subsec. (a)(2)(B), was so in the original, but probably should have been a reference to [section 120 of title I of div. A of Pub. L. 110–343][/us/pl/110/343/dA/tI/s120], which is classified to [section 5230 of this title][/us/usc/t12/s5230].
 
  __Amendments__ 
 
-    2009—Subsec. (a)(1)(A)(v). [Pub. L. 111–22, § 601(1)][/us/pl/111/22/s601/1], added cl. (v).
+    2009—Subsec. (a)(1)(A)(v). [Pub. L. 111–22][/us/pl/111/22], § 601(1), added cl. (v).
 
-    Subsec. (a)(2). [Pub. L. 111–22, § 601(2)][/us/pl/111/22/s601/2], added subpars. (A) to (E), redesignated former subpar. (C) as (F), and struck out former subpars. (A) and (B) which related to GAO presence and access to records, respectively.
+    Subsec. (a)(2). [Pub. L. 111–22][/us/pl/111/22], § 601(2), added subpars. (A) to (E), redesignated former subpar. (C) as (F), and struck out former subpars. (A) and (B) which related to GAO presence and access to records, respectively.
 
 ----------
 
@@ -185,9 +185,9 @@
 [/us/usc/t12/s5233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5233
 [/us/usc/t12/s5211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5211
 [/us/usc/t12/s5212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5212
-[/us/pl/110/343/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs116
+[/us/pl/110/343/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdA%2FtI
 [/us/stat/122/3783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3783
-[/us/pl/111/22/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs601
+[/us/pl/111/22/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2FdA%2FtVI
 [/us/stat/123/1659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1659
 [/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
 [/us/stat/122/3765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3765
@@ -195,12 +195,12 @@
 [/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
 [/us/usc/t12/s1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1811
 [/us/usc/t12/s1441a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1441a
-[/us/pl/111/203/s364/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs364%2Fb
+[/us/pl/111/203/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIII
 [/us/stat/124/1555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1555
 [/us/usc/t12/s5230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5230
-[/us/pl/110/343/s120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs120
+[/us/pl/110/343/dA/tI/s120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdA%2FtI%2Fs120
 [/us/usc/t12/s5230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5230
-[/us/pl/111/22/s601/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs601%2F1
-[/us/pl/111/22/s601/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs601%2F2
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
 
 

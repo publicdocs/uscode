@@ -17,7 +17,7 @@
 
     The Secretary is authorized to issue such regulations as may be necessary to carry out the provisions of this chapter.
 
-([Pub. L. 97–35, title III, § 369I][/us/pl/97/35/s369I], Aug. 13, 1981, [95 Stat. 431][/us/stat/95/431].)
+([Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 369I, Aug. 13, 1981, [95 Stat. 431][/us/stat/95/431].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/97/35/s369I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs369I
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F431
 
 

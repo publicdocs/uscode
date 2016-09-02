@@ -17,7 +17,7 @@
 
     The Bureau, in consultation with the Secretary of Housing and Urban Development, shall report annually to the Congress on the utility of the requirements of [section 2803(b)(4) of this title][/us/usc/t12/s2803/b/4].
 
-([Pub. L. 94–200, title III, § 308][/us/pl/94/200/s308], Dec. 31, 1975, [89 Stat. 1128][/us/stat/89/1128]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title VII, § 701(b)\], Nov. 30, 1983, [97 Stat. 1266][/us/stat/97/1266]; [Pub. L. 101–73, title XII, § 1211(h)][/us/pl/101/73/s1211/h], Aug. 9, 1989, [103 Stat. 526][/us/stat/103/526]; [Pub. L. 111–203, title X, § 1094(1)][/us/pl/111/203/s1094/1], July 21, 2010, [124 Stat. 2097][/us/stat/124/2097].)
+([Pub. L. 94–200, title III][/us/pl/94/200/tIII], § 308, Dec. 31, 1975, [89 Stat. 1128][/us/stat/89/1128]; [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title VII, § 701(b)\], Nov. 30, 1983, [97 Stat. 1266][/us/stat/97/1266]; [Pub. L. 101–73, title XII][/us/pl/101/73/tXII], § 1211(h), Aug. 9, 1989, [103 Stat. 526][/us/stat/103/526]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1094(1), July 21, 2010, [124 Stat. 2097][/us/stat/124/2097].)
 
  __Amendments__ 
 
@@ -47,13 +47,13 @@
 ----------
 
 [/us/usc/t12/s2803/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2803%2Fb%2F4
-[/us/pl/94/200/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F200%2Fs308
+[/us/pl/94/200/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F200%2FtIII
 [/us/stat/89/1128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1128
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1266
-[/us/pl/101/73/s1211/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs1211%2Fh
+[/us/pl/101/73/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtXII
 [/us/stat/103/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F526
-[/us/pl/111/203/s1094/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1094%2F1
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2097
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73

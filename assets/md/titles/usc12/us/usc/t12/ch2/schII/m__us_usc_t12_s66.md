@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 5152 derived from [act June 3, 1864, ch. 106, § 63][/us/act/1864-06-03/ch106/s63], [13 Stat. 118][/us/stat/13/118], which was the National Bank Act. See [section 38 of this title][/us/usc/t12/s38].
+    R.S. § 5152 derived from [act June 3, 1864, ch. 106][/us/act/1864-06-03/ch106], § 63, [13 Stat. 118][/us/stat/13/118], which was the National Bank Act. See [section 38 of this title][/us/usc/t12/s38].
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1864-06-03/ch106/s63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-06-03%2Fch106%2Fs63
+[/us/act/1864-06-03/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-06-03%2Fch106
 [/us/stat/13/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F13%2F118
 [/us/usc/t12/s38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs38
 

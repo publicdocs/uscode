@@ -35,7 +35,7 @@
 
         The Director shall annually report to Congress on the performance of the Banks in meeting the goals established under this section.
 
-([July 22, 1932, ch. 522, § 10C][/us/act/1932-07-22/ch522/s10C], as added [Pub. L. 110–289, div. A, title II, § 1205][/us/pl/110/289/s1205], July 30, 2008, [122 Stat. 2786][/us/stat/122/2786].)
+([July 22, 1932, ch. 522][/us/act/1932-07-22/ch522], § 10C, as added [Pub. L. 110–289, div. A, title II][/us/pl/110/289/dA/tII], § 1205, July 30, 2008, [122 Stat. 2786][/us/stat/122/2786].)
 
  __References in Text__ 
 
@@ -48,8 +48,8 @@
 ----------
 ----------
 
-[/us/act/1932-07-22/ch522/s10C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-07-22%2Fch522%2Fs10C
-[/us/pl/110/289/s1205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1205
+[/us/act/1932-07-22/ch522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-07-22%2Fch522
+[/us/pl/110/289/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtII
 [/us/stat/122/2786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2786
 [/us/usc/t12/s4566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4566
 

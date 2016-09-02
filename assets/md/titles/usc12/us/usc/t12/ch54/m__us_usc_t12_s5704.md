@@ -119,7 +119,7 @@
 
             At the time that a State applies to the Secretary to have the State capital access program approved as eligible for Federal contributions, the State shall deliver to the Secretary a report stating how the State plans to use the Federal contributions to the reserve fund to provide access to capital for small businesses in low- and moderate-income, minority, and other underserved communities, including women- and minority-owned small businesses.
 
-([Pub. L. 111–240, title III, § 3005][/us/pl/111/240/s3005], Sept. 27, 2010, [124 Stat. 2574][/us/stat/124/2574].)
+([Pub. L. 111–240, title III][/us/pl/111/240/tIII], § 3005, Sept. 27, 2010, [124 Stat. 2574][/us/stat/124/2574].)
 
 ----------
 
@@ -129,7 +129,7 @@
 ----------
 
 [/us/usc/t12/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5703
-[/us/pl/111/240/s3005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs3005
+[/us/pl/111/240/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2FtIII
 [/us/stat/124/2574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2574
 
 

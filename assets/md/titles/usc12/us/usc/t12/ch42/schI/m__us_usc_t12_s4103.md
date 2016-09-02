@@ -61,7 +61,7 @@
 
             In the case of preservation value determined under subsection (b)(2), the guidelines shall assume conversion of the housing to highest and best use for the property and shall establish methods for (A) determining any rehabilitation expenditures that would be necessary to convert the housing to such use, and (B) assessing other costs that the owner could reasonably be expected to incur if the owner converted the property to its highest and best use.
 
-([Pub. L. 100–242, title II, § 213][/us/pl/100/242/s213], as added [Pub. L. 101–625, title VI, § 601(a)][/us/pl/101/625/s601/a], Nov. 28, 1990, [104 Stat. 4250][/us/stat/104/4250]; amended [Pub. L. 102–550, title III, § 302][/us/pl/102/550/s302], Oct. 28, 1992, [106 Stat. 3763][/us/stat/106/3763].)
+([Pub. L. 100–242, title II][/us/pl/100/242/tII], § 213, as added [Pub. L. 101–625, title VI][/us/pl/101/625/tVI], § 601(a), Nov. 28, 1990, [104 Stat. 4250][/us/stat/104/4250]; amended [Pub. L. 102–550, title III][/us/pl/102/550/tIII], § 302, Oct. 28, 1992, [106 Stat. 3763][/us/stat/106/3763].)
 
  __Amendments__ 
 
@@ -80,10 +80,10 @@
 [/us/usc/t12/s4109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4109
 [/us/usc/t12/s4110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4110
 [/us/usc/t12/s4109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4109
-[/us/pl/100/242/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs213
-[/us/pl/101/625/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs601%2Fa
+[/us/pl/100/242/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtII
+[/us/pl/101/625/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtVI
 [/us/stat/104/4250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4250
-[/us/pl/102/550/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs302
+[/us/pl/102/550/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtIII
 [/us/stat/106/3763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3763
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 

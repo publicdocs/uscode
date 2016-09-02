@@ -37,7 +37,7 @@
 
         The Federal Reserve Board on a timely basis shall notify the Secretary, or his designee, in writing of the adjustment described in subsection (a) and of the effective date of such adjustment in order to permit the Secretary to undertake publication in the Federal Register of corresponding adjustments to the Dollar Amounts. The dollar amount of any adjustment shall be rounded to the next lower dollar.
 
-([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title II, § 206A, as added [Pub. L. 107–326, § 5(a)][/us/pl/107/326/s5/a], Dec. 4, 2002, [116 Stat. 2794][/us/stat/116/2794].)
+([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title II, § 206A, as added [Pub. L. 107–326][/us/pl/107/326], § 5(a), Dec. 4, 2002, [116 Stat. 2794][/us/stat/116/2794].)
 
  __References in Text__ 
 
@@ -56,7 +56,7 @@
 [/us/usc/t12/s1715v/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715v%2Fc%2F2%2FA
 [/us/usc/t12/s1715y/e/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715y%2Fe%2F3%2FA
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
-[/us/pl/107/326/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F326%2Fs5%2Fa
+[/us/pl/107/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F326
 [/us/stat/116/2794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2794
 [/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
 [/us/stat/108/2190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2190

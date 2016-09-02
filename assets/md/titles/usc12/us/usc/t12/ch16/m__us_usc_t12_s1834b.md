@@ -89,13 +89,13 @@
 
             The term “qualified distressed community” has the meaning given to such term in [section 1834a(b) of this title][/us/usc/t12/s1834a/b].
 
-([Pub. L. 102–242, title II, § 234][/us/pl/102/242/s234], Dec. 19, 1991, [105 Stat. 2315][/us/stat/105/2315].)
+([Pub. L. 102–242, title II][/us/pl/102/242/tII], § 234, Dec. 19, 1991, [105 Stat. 2315][/us/stat/105/2315].)
 
  __References in Text__ 
 
     This subtitle, referred to in subsecs. (a) and (d), is subtitle C (§§ 231–234) of title II of [Pub. L. 102–242][/us/pl/102/242], Dec. 19, 1991, [105 Stat. 2308][/us/stat/105/2308], known as the Bank Enterprise Act of 1991, which enacted this section and sections 1834 and 1834a of this title, amended [section 1817 of this title][/us/usc/t12/s1817], and enacted provisions set out as a note under [section 1811 of this title][/us/usc/t12/s1811]. For complete classification of subtitle C to the Code, see [section 231 of Pub. L. 102–242][/us/pl/102/242/s231], set out as a Short Title of 1991 Amendment note under [section 1811 of this title][/us/usc/t12/s1811] and Tables.
 
-    [Section 1602(i) of title 15][/us/usc/t15/s1602/i], referred to in subsec. (a)(3), was redesignated [section 1602(j) of title 15][/us/usc/t15/s1602/j] by [Pub. L. 111–203, title X, § 1100A(1)(A)][/us/pl/111/203/s1100A/1/A], July 21, 2010, [124 Stat. 2107][/us/stat/124/2107].
+    [Section 1602(i) of title 15][/us/usc/t15/s1602/i], referred to in subsec. (a)(3), was redesignated [section 1602(j) of title 15][/us/usc/t15/s1602/j] by [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1100A(1)(A), July 21, 2010, [124 Stat. 2107][/us/stat/124/2107].
 
  __Codification__ 
 
@@ -111,7 +111,7 @@
 [/us/usc/t12/s1813/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813%2Fc%2F1
 [/us/usc/t42/s5302/a/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5302%2Fa%2F20
 [/us/usc/t12/s1834a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1834a%2Fb
-[/us/pl/102/242/s234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs234
+[/us/pl/102/242/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtII
 [/us/stat/105/2315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2315
 [/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
 [/us/stat/105/2308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2308
@@ -121,7 +121,7 @@
 [/us/usc/t12/s1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1811
 [/us/usc/t15/s1602/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1602%2Fi
 [/us/usc/t15/s1602/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1602%2Fj
-[/us/pl/111/203/s1100A/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F1%2FA
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2107
 
 

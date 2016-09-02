@@ -17,7 +17,7 @@
 
     Each merged bank shall elect a board of directors of such number, for such term, in such manner, and with such qualifications, as may be required in its bylaws, except that at least one member shall be elected by the other directors, which member shall not be a director, officer, employee, or stockholder of a System institution.
 
-([Pub. L. 92–181, title VII, § 7][/us/pl/92/181/s7].1, as added [Pub. L. 100–233, title IV, § 416][/us/pl/100/233/s416], Jan. 6, 1988, [101 Stat. 1645][/us/stat/101/1645]; amended [Pub. L. 100–399, title IV, § 408(c)][/us/pl/100/399/s408/c], Aug. 17, 1988, [102 Stat. 1001][/us/stat/102/1001].)
+([Pub. L. 92–181, title VII][/us/pl/92/181/tVII], § 7.1, as added [Pub. L. 100–233, title IV][/us/pl/100/233/tIV], § 416, Jan. 6, 1988, [101 Stat. 1645][/us/stat/101/1645]; amended [Pub. L. 100–399, title IV][/us/pl/100/399/tIV], § 408(c), Aug. 17, 1988, [102 Stat. 1001][/us/stat/102/1001].)
 
  __Amendments__ 
 
@@ -34,10 +34,10 @@
 ----------
 ----------
 
-[/us/pl/92/181/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs7
-[/us/pl/100/233/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs416
+[/us/pl/92/181/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtVII
+[/us/pl/100/233/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtIV
 [/us/stat/101/1645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1645
-[/us/pl/100/399/s408/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs408%2Fc
+[/us/pl/100/399/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtIV
 [/us/stat/102/1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1001
 [/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399

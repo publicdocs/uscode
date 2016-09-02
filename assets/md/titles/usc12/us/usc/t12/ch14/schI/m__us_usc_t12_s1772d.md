@@ -53,7 +53,7 @@
 
         This section shall not apply to a successor to the interests of, or a person who acquires, a credit union that violated a provision of law described in subsection (a), if the successor succeeds to the interests of the violator, or the acquisition is made, in good faith and not for purposes of evading this section or regulations prescribed under this section.
 
-([June 26, 1934, ch. 750][/us/act/1934-06-26/ch750], title I, § 131, as added [Pub. L. 102–550, title XV, § 1502(c)][/us/pl/102/550/s1502/c], Oct. 28, 1992, [106 Stat. 4047][/us/stat/106/4047]; amended [Pub. L. 103–325, title IV, § 411(c)(2)(B)][/us/pl/103/325/s411/c/2/B], Sept. 23, 1994, [108 Stat. 2253][/us/stat/108/2253].)
+([June 26, 1934, ch. 750][/us/act/1934-06-26/ch750], title I, § 131, as added [Pub. L. 102–550, title XV][/us/pl/102/550/tXV], § 1502(c), Oct. 28, 1992, [106 Stat. 4047][/us/stat/106/4047]; amended [Pub. L. 103–325, title IV][/us/pl/103/325/tIV], § 411(c)(2)(B), Sept. 23, 1994, [108 Stat. 2253][/us/stat/108/2253].)
 
  __Amendments__ 
 
@@ -68,9 +68,9 @@
 
 [/us/usc/t12/s1786/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1786%2Fj
 [/us/act/1934-06-26/ch750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-26%2Fch750
-[/us/pl/102/550/s1502/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1502%2Fc
+[/us/pl/102/550/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXV
 [/us/stat/106/4047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4047
-[/us/pl/103/325/s411/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs411%2Fc%2F2%2FB
+[/us/pl/103/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtIV
 [/us/stat/108/2253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2253
 [/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
 [/us/usc/t31/s5322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5322

@@ -17,7 +17,7 @@
 
     The provisions of all Acts of Congress relating to national banks shall apply in the several States, the District of Columbia, the several Territories and possessions of the United States, and the Commonwealth of Puerto Rico.
 
-([Pub. L. 86–230, § 14][/us/pl/86/230/s14], Sept. 8, 1959, [73 Stat. 458][/us/stat/73/458].)
+([Pub. L. 86–230][/us/pl/86/230], § 14, Sept. 8, 1959, [73 Stat. 458][/us/stat/73/458].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/86/230/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F230%2Fs14
+[/us/pl/86/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F230
 [/us/stat/73/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F458
 
 

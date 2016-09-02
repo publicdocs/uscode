@@ -29,7 +29,7 @@
 
         (2) The Secretary shall give a mortgagee at least 60 days prior written notice of any termination under this subsection. The termination shall take effect at the end of the notice period, unless the Secretary withdraws the termination notice or extends the notice period. If requested in writing by the mortgagee within 30 days of the date of the notice, the mortgagee shall be entitled to an informal conference with the official authorized to issue termination notices on behalf of the Secretary (or a designee of that official). At the informal conference, the mortgagee may present for consideration specific factors that it believes were beyond its control and that caused the excessive default and claim rate.
 
-([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title V, § 533, as added [Pub. L. 100–242, title IV, § 407(b)][/us/pl/100/242/s407/b], Feb. 5, 1988, [101 Stat. 1902][/us/stat/101/1902]; amended [Pub. L. 107–73, title II, § 209][/us/pl/107/73/s209], Nov. 26, 2001, [115 Stat. 675][/us/stat/115/675].)
+([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title V, § 533, as added [Pub. L. 100–242, title IV][/us/pl/100/242/tIV], § 407(b), Feb. 5, 1988, [101 Stat. 1902][/us/stat/101/1902]; amended [Pub. L. 107–73, title II][/us/pl/107/73/tII], § 209, Nov. 26, 2001, [115 Stat. 675][/us/stat/115/675].)
 
  __Amendments__ 
 
@@ -48,9 +48,9 @@
 
 [/us/usc/t12/s1708/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1708%2Fc
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
-[/us/pl/100/242/s407/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs407%2Fb
+[/us/pl/100/242/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtIV
 [/us/stat/101/1902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1902
-[/us/pl/107/73/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F73%2Fs209
+[/us/pl/107/73/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F73%2FtII
 [/us/stat/115/675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F675
 [/us/pl/107/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F73
 

@@ -67,7 +67,7 @@
 
         (5) The Secretary is authorized to fix a premium charge for the insurance granted under this subsection, in addition to the premium charge authorized under subsection (h) of this section. Such premium charge shall not exceed an amount equivalent to 1 per centum of the original principal of such promissory note or notes and shall be paid at such time and in such manner as may be prescribed by the Secretary.
 
-([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title VI, § 609, as added [June 30, 1947, ch. 163][/us/act/1947-06-30/ch163], title I, § 3, [61 Stat. 193][/us/stat/61/193]; amended [Aug. 10, 1948, ch. 832][/us/act/1948-08-10/ch832], title I, § 101(d), [62 Stat. 1269][/us/stat/62/1269]; [Apr. 20, 1950, ch. 94][/us/act/1950-04-20/ch94], title I, § 122, [64 Stat. 59][/us/stat/64/59]; [Pub. L. 89–117, title XI, § 1108(r)][/us/pl/89/117/s1108/r], Aug. 10, 1965, [79 Stat. 506][/us/stat/79/506]; [Pub. L. 90–19, § 1(a)(3)][/us/pl/90/19/s1/a/3], May 25, 1967, [81 Stat. 17][/us/stat/81/17].)
+([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title VI, § 609, as added [June 30, 1947, ch. 163][/us/act/1947-06-30/ch163], title I, § 3, [61 Stat. 193][/us/stat/61/193]; amended [Aug. 10, 1948, ch. 832][/us/act/1948-08-10/ch832], title I, § 101(d), [62 Stat. 1269][/us/stat/62/1269]; [Apr. 20, 1950, ch. 94][/us/act/1950-04-20/ch94], title I, § 122, [64 Stat. 59][/us/stat/64/59]; [Pub. L. 89–117, title XI][/us/pl/89/117/tXI], § 1108(r), Aug. 10, 1965, [79 Stat. 506][/us/stat/79/506]; [Pub. L. 90–19][/us/pl/90/19], § 1(a)(3), May 25, 1967, [81 Stat. 17][/us/stat/81/17].)
 
  __Amendments__ 
 
@@ -105,9 +105,9 @@
 [/us/stat/62/1269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1269
 [/us/act/1950-04-20/ch94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-04-20%2Fch94
 [/us/stat/64/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F59
-[/us/pl/89/117/s1108/r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117%2Fs1108%2Fr
+[/us/pl/89/117/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117%2FtXI
 [/us/stat/79/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F506
-[/us/pl/90/19/s1/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19%2Fs1%2Fa%2F3
+[/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
 [/us/stat/81/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F17
 [/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
 [/us/pl/89/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117

@@ -23,7 +23,7 @@
 
         A declaration under subsection (a) shall be filed with the Attorney General of the United States or with an agent designated by him for receiving declarations under this section.
 
-([Pub. L. 101–647, title XXV, § 2576][/us/pl/101/647/s2576], Nov. 29, 1990, [104 Stat. 4899][/us/stat/104/4899].)
+([Pub. L. 101–647, title XXV][/us/pl/101/647/tXXV], § 2576, Nov. 29, 1990, [104 Stat. 4899][/us/stat/104/4899].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t12/s4201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4201
-[/us/pl/101/647/s2576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2576
+[/us/pl/101/647/tXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXV
 [/us/stat/104/4899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4899
 
 

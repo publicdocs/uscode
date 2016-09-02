@@ -31,7 +31,7 @@
 
         After the expiration of the 5-year period beginning on July 30, 2008, the Secretary may not enter into any new commitment to insure any mortgage, or newly insure any mortgage, pursuant to the automated process established under this section.
 
-([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title II, § 258, formerly § 257, as added [Pub. L. 110–289, div. B, title I, § 2124(a)][/us/pl/110/289/s2124/a], July 30, 2008, [122 Stat. 2839][/us/stat/122/2839]; renumbered § 258, [Pub. L. 111–22, div. A, title II, § 202(c)][/us/pl/111/22/s202/c], May 20, 2009, [123 Stat. 1643][/us/stat/123/1643].)
+([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title II, § 258, formerly § 257, as added [Pub. L. 110–289, div. B, title I][/us/pl/110/289/dB/tI], § 2124(a), July 30, 2008, [122 Stat. 2839][/us/stat/122/2839]; renumbered § 258, [Pub. L. 111–22, div. A, title II][/us/pl/111/22/dA/tII], § 202(c), May 20, 2009, [123 Stat. 1643][/us/stat/123/1643].)
 
 ----------
 
@@ -41,9 +41,9 @@
 ----------
 
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
-[/us/pl/110/289/s2124/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs2124%2Fa
+[/us/pl/110/289/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdB%2FtI
 [/us/stat/122/2839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2839
-[/us/pl/111/22/s202/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs202%2Fc
+[/us/pl/111/22/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2FdA%2FtII
 [/us/stat/123/1643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1643
 
 

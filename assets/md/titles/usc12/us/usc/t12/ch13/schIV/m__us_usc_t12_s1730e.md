@@ -11,92 +11,53 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch13/schIV/m__us_usc_t12_ch13_schIV.md) | [Next](./../../../../..//us/usc/t12/ch13/schV/m__us_usc_t12_ch13_schV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1730e)
+[Previous](./../../../../..//us/usc/t12/ch13/schIV/m__us_usc_t12_s1724...1730d.md) | [Next](./../../../../..//us/usc/t12/ch13/schIV/m__us_usc_t12_s1730f...1730i.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1730e)
 
-## § 1730e. Repealed. [Pub. L. 96–221, title V, § 529][/us/pl/96/221/s529], Mar. 31, 1980, [94 Stat. 168][/us/stat/94/168]
+## § 1730e. Repealed. [Pub. L. 96–221, title V][/us/pl/96/221/tV], § 529, Mar. 31, 1980, [94 Stat. 168][/us/stat/94/168]
 
-    Section, [act June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title IV, § 412, as added Dec. 28, 1979, [Pub. L. 96–161, title II, § 203][/us/pl/96/161/s203], [93 Stat. 1236][/us/stat/93/1236], provided that if the applicable rate prescribed in this section exceeded the rate an insured institution would be permitted to charge in the absence of this section, then such institution could, for a business or agricultural loan of $25,000 or more, notwithstanding State law, take or charge on any evidence of debt, interest of not more than 5 per centum in excess of the discount rate in effect at the Federal Reserve bank in the district in which the institution was located, that the taking or charging of interest at a greater rate than that prescribed by this section, if knowingly done, would be deemed a forfeit of the entire interest on that particular evidence of debt, and that if such greater rate of interest had already been paid, the payor could recover twice the amount of such payment in a civil action commenced within two years of such payment. See [section 1730g of this title][/us/usc/t12/s1730g].
+    Section, [act June 27, 1934, ch. 847, title IV][/us/act/1934-06-27/ch847/tIV], § 412, as added Dec. 28, 1979, [Pub. L. 96–161, title II][/us/pl/96/161/tII], § 203, [93 Stat. 1236][/us/stat/93/1236], provided that if the applicable rate prescribed in this section exceeded the rate an insured institution would be permitted to charge in the absence of this section, then such institution could, for a business or agricultural loan of $25,000 or more, notwithstanding State law, take or charge on any evidence of debt, interest of not more than 5 per centum in excess of the discount rate in effect at the Federal Reserve bank in the district in which the institution was located, that the taking or charging of interest at a greater rate than that prescribed by this section, if knowingly done, would be deemed a forfeit of the entire interest on that particular evidence of debt, and that if such greater rate of interest had already been paid, the payor could recover twice the amount of such payment in a civil action commenced within two years of such payment. See [section 1730g of this title][/us/usc/t12/s1730g].
 
-    A prior section 1730e, [act June 27, 1934, ch. 847, § 412][/us/act/1934-06-27/ch847/s412], as added Nov. 5, 1979, [Pub. L. 96–104, title I, § 103][/us/pl/96/104/s103], [93 Stat. 790][/us/stat/93/790], identical to this section as added by [Pub. L. 96–161][/us/pl/96/161], was repealed by [section 212 of Pub. L. 96–161][/us/pl/96/161/s212], effective at the close of Dec. 27, 1979, except that its provisions would continue to apply to any loan made in any State on or after Nov. 5, 1979, but prior to such repeal.
+    A prior section 1730e, [act June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], § 412, as added Nov. 5, 1979, [Pub. L. 96–104, title I][/us/pl/96/104/tI], § 103, [93 Stat. 790][/us/stat/93/790], identical to this section as added by [Pub. L. 96–161][/us/pl/96/161], was repealed by [section 212 of Pub. L. 96–161][/us/pl/96/161/s212], effective at the close of Dec. 27, 1979, except that its provisions would continue to apply to any loan made in any State on or after Nov. 5, 1979, but prior to such repeal.
 
-    A prior section 1730e, [act June 27, 1934, ch. 847, § 412][/us/act/1934-06-27/ch847/s412], as added Oct. 29, 1974, [Pub. L. 93–501, title II, § 203][/us/pl/93/501/s203], [88 Stat. 1559][/us/stat/88/1559], identical to this section as added by [Pub. L. 96–104][/us/pl/96/104], was repealed by [section 1 of Pub. L. 96–104][/us/pl/96/104/s1] except that its provisions shall continue to apply to any loan made in any State during the period specified in [section 206 of Pub. L. 93–501][/us/pl/93/501/s206].
+    A prior section 1730e, [act June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], § 412, as added Oct. 29, 1974, [Pub. L. 93–501, title II][/us/pl/93/501/tII], § 203, [88 Stat. 1559][/us/stat/88/1559], identical to this section as added by [Pub. L. 96–104][/us/pl/96/104], was repealed by [section 1 of Pub. L. 96–104][/us/pl/96/104/s1] except that its provisions shall continue to apply to any loan made in any State during the period specified in [section 206 of Pub. L. 93–501][/us/pl/93/501/s206].
 
  __Effective Date of Repeal__ 
 
-    [Pub. L. 96–221, title V, § 529][/us/pl/96/221/s529], Mar. 31, 1980, [94 Stat. 168][/us/stat/94/168], provided that the repeal of this section is effective at close of Mar. 31, 1980.
+    [Pub. L. 96–221, title V][/us/pl/96/221/tV], § 529, Mar. 31, 1980, [94 Stat. 168][/us/stat/94/168], provided that the repeal of this section is effective at close of Mar. 31, 1980.
 
  __Savings Provision__ 
 
-    [Pub. L. 96–221, title V, § 529][/us/pl/96/221/s529], Mar. 31, 1980, [94 Stat. 168][/us/stat/94/168], provided that, notwithstanding the repeal of [Pub. L. 96–104][/us/pl/96/104] and title II of [Pub. L. 96–161][/us/pl/96/161], this section \[which had been enacted by those laws\] shall continue to apply to any loan made, any deposit made, or any obligation issued in any State during any period when this section was in effect in such State.
-
-§§ 1730f to 1730i. __Repealed.__  __[__  __Pub. L. 101–73, title IV, § 407__  __][/us/pl/101/73/s407]__  __,__  __Aug. 9, 1989__  __,__  __[__  __103 Stat. 363__  __][/us/stat/103/363]__ 
-
-    Section 1730f, [act June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title IV, § 413, as added Dec. 22, 1974, [Pub. L. 93–533, § 11(b)][/us/pl/93/533/s11/b], [88 Stat. 1729][/us/stat/88/1729], related to disclosures with respect to certain federally related mortgage loans, identity of beneficiary interest as condition for loan, and report to Board.
-
-    Section 1730g, [act June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title IV, § 414, as added Mar. 31, 1980, [Pub. L. 96–221, title V, § 522][/us/pl/96/221/s522], [94 Stat. 165][/us/stat/94/165]; amended Jan. 12, 1983, [Pub. L. 97–457, § 33][/us/pl/97/457/s33], [96 Stat. 2511][/us/stat/96/2511], related to insured savings and loan associations.
-
-    Section 1730h, [act June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title IV, § 415, as added Aug. 10, 1987, [Pub. L. 100–86, title IV, § 402(b)][/us/pl/100/86/s402/b], [101 Stat. 606][/us/stat/101/606], related to accounting principles and other standards and requirements.
-
-    Section 1730i, [act June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title IV, § 416, as added Aug. 10, 1987, [Pub. L. 100–86, title IV, § 404(b)][/us/pl/100/86/s404/b], [101 Stat. 611][/us/stat/101/611], related to thrift industry recovery regulations.
-
- __Savings Provision__ 
-
-    Any plan approved by the Federal Savings and Loan Insurance Corporation under former [section 1730i of this title][/us/usc/t12/s1730i] for any State savings association to continue in effect as long as such association adheres to the plan and continues to submit to the Federal Deposit Insurance Corporation regular and complete reports on the progress in meeting the association’s goals under the plan, notwithstanding the repeal of that section, see [section 302 of Pub. L. 101–73][/us/pl/101/73/s302], set out as a Savings Provision note under [section 1467a of this title][/us/usc/t12/s1467a].
-
- __Transfer of Functions__ 
-
-    For provisions relating to abolition of Federal Savings and Loan Insurance Corporation and Federal Home Loan Bank Board and transfer of functions, personnel, and property of such agencies, see sections 401 to 406 of [Pub. L. 101–73][/us/pl/101/73], set out as a note under [section 1437 of this title][/us/usc/t12/s1437].
+    [Pub. L. 96–221, title V][/us/pl/96/221/tV], § 529, Mar. 31, 1980, [94 Stat. 168][/us/stat/94/168], provided that, notwithstanding the repeal of [Pub. L. 96–104][/us/pl/96/104] and title II of [Pub. L. 96–161][/us/pl/96/161], this section \[which had been enacted by those laws\] shall continue to apply to any loan made, any deposit made, or any obligation issued in any State during any period when this section was in effect in such State.
 
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch13/schIV/m__us_usc_t12_ch13_schIV.md) | [Next](./../../../../..//us/usc/t12/ch13/schV/m__us_usc_t12_ch13_schV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1730e)
+[Previous](./../../../../..//us/usc/t12/ch13/schIV/m__us_usc_t12_s1724...1730d.md) | [Next](./../../../../..//us/usc/t12/ch13/schIV/m__us_usc_t12_s1730f...1730i.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1730e)
 
 ----------
 ----------
 
-[/us/pl/96/221/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs529
+[/us/pl/96/221/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2FtV
 [/us/stat/94/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F168
-[/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
-[/us/pl/96/161/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F161%2Fs203
+[/us/act/1934-06-27/ch847/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847%2FtIV
+[/us/pl/96/161/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F161%2FtII
 [/us/stat/93/1236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1236
 [/us/usc/t12/s1730g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1730g
-[/us/act/1934-06-27/ch847/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847%2Fs412
-[/us/pl/96/104/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F104%2Fs103
+[/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
+[/us/pl/96/104/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F104%2FtI
 [/us/stat/93/790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F790
 [/us/pl/96/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F161
 [/us/pl/96/161/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F161%2Fs212
-[/us/act/1934-06-27/ch847/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847%2Fs412
-[/us/pl/93/501/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F501%2Fs203
+[/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
+[/us/pl/93/501/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F501%2FtII
 [/us/stat/88/1559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1559
 [/us/pl/96/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F104
 [/us/pl/96/104/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F104%2Fs1
 [/us/pl/93/501/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F501%2Fs206
-[/us/pl/96/221/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs529
+[/us/pl/96/221/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2FtV
 [/us/stat/94/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F168
-[/us/pl/96/221/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs529
+[/us/pl/96/221/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2FtV
 [/us/stat/94/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F168
 [/us/pl/96/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F104
 [/us/pl/96/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F161
-[/us/pl/101/73/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs407
-[/us/stat/103/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F363
-[/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
-[/us/pl/93/533/s11/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F533%2Fs11%2Fb
-[/us/stat/88/1729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1729
-[/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
-[/us/pl/96/221/s522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs522
-[/us/stat/94/165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F165
-[/us/pl/97/457/s33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F457%2Fs33
-[/us/stat/96/2511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2511
-[/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
-[/us/pl/100/86/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2Fs402%2Fb
-[/us/stat/101/606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F606
-[/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
-[/us/pl/100/86/s404/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2Fs404%2Fb
-[/us/stat/101/611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F611
-[/us/usc/t12/s1730i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1730i
-[/us/pl/101/73/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs302
-[/us/usc/t12/s1467a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1467a
-[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
-[/us/usc/t12/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1437
 
 

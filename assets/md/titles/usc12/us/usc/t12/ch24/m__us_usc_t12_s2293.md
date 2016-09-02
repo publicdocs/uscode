@@ -17,11 +17,11 @@
 
     The budget and audit provisions of chapter 91 of title 31 shall be applicable to the Federal Financing Bank in the same manner as they are applied to the wholly owned Government corporations named in [section 9101(3) of title 31][/us/usc/t31/s9101/3].
 
-([Pub. L. 93–224, § 15][/us/pl/93/224/s15], Dec. 29, 1973, [87 Stat. 941][/us/stat/87/941].)
+([Pub. L. 93–224][/us/pl/93/224], § 15, Dec. 29, 1973, [87 Stat. 941][/us/stat/87/941].)
 
  __Codification__ 
 
-    “Chapter 91 of title 31” and “[section 9101(3) of title 31][/us/usc/t31/s9101/3]” substituted in text for “the Government Corporation Control Act ([31 U.S.C. 841][/us/usc/t31/s841] et seq.)” and “section 101 of such Act ([31 U.S.C. 846][/us/usc/t31/s846])”, respectively, on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    “Chapter 91 of title 31” and “[section 9101(3) of title 31][/us/usc/t31/s9101/3]” substituted in text for “the Government Corporation Control Act ([31 U.S.C. 841][/us/usc/t31/s841] et seq.)” and “section 101 of such Act ([31 U.S.C. 846][/us/usc/t31/s846])”, respectively, on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
 ----------
 
@@ -31,12 +31,12 @@
 ----------
 
 [/us/usc/t31/s9101/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9101%2F3
-[/us/pl/93/224/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F224%2Fs15
+[/us/pl/93/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F224
 [/us/stat/87/941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F941
 [/us/usc/t31/s9101/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9101%2F3
 [/us/usc/t31/s841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs841
 [/us/usc/t31/s846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs846
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
 
 

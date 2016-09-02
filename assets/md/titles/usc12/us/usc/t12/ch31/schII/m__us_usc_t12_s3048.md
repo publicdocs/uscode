@@ -17,7 +17,7 @@
 
     The Office shall work closely with all United States Government agencies offering programs for which consumer cooperatives may be eligible to assure that information concerning all such programs is made available to eligible cooperatives.
 
-([Pub. L. 95–351, title II, § 208][/us/pl/95/351/s208], Aug. 20, 1978, [92 Stat. 513][/us/stat/92/513].)
+([Pub. L. 95–351, title II][/us/pl/95/351/tII], § 208, Aug. 20, 1978, [92 Stat. 513][/us/stat/92/513].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/351/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F351%2Fs208
+[/us/pl/95/351/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F351%2FtII
 [/us/stat/92/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F513
 
 

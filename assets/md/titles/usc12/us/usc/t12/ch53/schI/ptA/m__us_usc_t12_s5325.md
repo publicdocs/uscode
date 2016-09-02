@@ -153,7 +153,7 @@
 
         The Council may make recommendations to the Board of Governors to require short-term debt limits to mitigate the risks that an over-accumulation of such debt could pose to bank holding companies described in subsection (a), nonbank financial companies supervised by the Board of Governors, or the financial system.
 
-([Pub. L. 111–203, title I, § 115][/us/pl/111/203/s115], July 21, 2010, [124 Stat. 1403][/us/stat/124/1403].)
+([Pub. L. 111–203, title I][/us/pl/111/203/tI], § 115, July 21, 2010, [124 Stat. 1403][/us/stat/124/1403].)
 
 ----------
 
@@ -166,7 +166,7 @@
 [/us/usc/t12/s5323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5323
 [/us/usc/t12/s5365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5365
 [/us/usc/t12/s5365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5365
-[/us/pl/111/203/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs115
+[/us/pl/111/203/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtI
 [/us/stat/124/1403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1403
 
 

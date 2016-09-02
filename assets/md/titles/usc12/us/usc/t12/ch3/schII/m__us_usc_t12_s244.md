@@ -17,7 +17,7 @@
 
     The principal offices of the Board shall be in the District of Columbia. At meetings of the Board the chairman shall preside, and, in his absence, the vice chairman shall preside. In the absence of the chairman and the vice chairman, the Board shall elect a member to act as chairman pro tempore. The Board shall determine and prescribe the manner in which its obligations shall be incurred and its disbursements and expenses allowed and paid, and may leave on deposit in the Federal Reserve banks the proceeds of assessments levied upon them to defray its estimated expenses and the salaries of its members and employees, whose employment, compensation, leave, and expenses shall be governed solely by the provisions of this chapter and rules and regulations of the Board not inconsistent therewith; and funds derived from such assessments shall not be construed to be Government funds or appropriated moneys. No member of the Board of Governors of the Federal Reserve System shall be an officer or director of any bank, banking institution, trust company, or Federal Reserve bank or hold stock in any bank, banking institution, or trust company; and before entering upon his duties as a member of the Board of Governors of the Federal Reserve System he shall certify under oath that he has complied with this requirement, and such certification shall be filed with the secretary of the Board. Whenever a vacancy shall occur, other than by expiration of term, among the seven members of the Board of Governors of the Federal Reserve System appointed by the President as above provided, a successor shall be appointed by the President, by and with the advice and consent of the Senate, to fill such vacancy, and when appointed he shall hold office for the unexpired term of his predecessor.
 
-([Dec. 23, 1913, ch. 6, § 10][/us/act/1913-12-23/ch6/s10] (par.), [38 Stat. 261][/us/stat/38/261]; [June 3, 1922, ch. 205][/us/act/1922-06-03/ch205], [42 Stat. 621][/us/stat/42/621]; [June 16, 1933, ch. 89, § 6(b)][/us/act/1933-06-16/ch89/s6/b], [48 Stat. 167][/us/stat/48/167]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 203(a)–(c), [49 Stat. 704][/us/stat/49/704], 705.)
+([Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 10 (par.), [38 Stat. 261][/us/stat/38/261]; [June 3, 1922, ch. 205][/us/act/1922-06-03/ch205], [42 Stat. 621][/us/stat/42/621]; [June 16, 1933, ch. 89][/us/act/1933-06-16/ch89], § 6(b), [48 Stat. 167][/us/stat/48/167]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 203(a)–(c), [49 Stat. 704][/us/stat/49/704], 705.)
 
  __References in Text__ 
 
@@ -46,11 +46,11 @@
 ----------
 ----------
 
-[/us/act/1913-12-23/ch6/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs10
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
 [/us/stat/38/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F261
 [/us/act/1922-06-03/ch205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-06-03%2Fch205
 [/us/stat/42/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F621
-[/us/act/1933-06-16/ch89/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-16%2Fch89%2Fs6%2Fb
+[/us/act/1933-06-16/ch89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-16%2Fch89
 [/us/stat/48/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F167
 [/us/act/1935-08-23/ch614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch614
 [/us/stat/49/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F704

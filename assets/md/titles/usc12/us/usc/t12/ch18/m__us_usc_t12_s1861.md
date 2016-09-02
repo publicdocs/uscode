@@ -61,35 +61,35 @@
 
         (9) the terms “State depository institution”, “Federal depository institution”, “State savings association” and “Federal savings association” have the same meanings as in [section 1813 of this title][/us/usc/t12/s1813].
 
-([Pub. L. 87–856, § 1][/us/pl/87/856/s1], Oct. 23, 1962, [76 Stat. 1132][/us/stat/76/1132]; [Pub. L. 97–320, title VII, § 709][/us/pl/97/320/s709], Oct. 15, 1982, [96 Stat. 1540][/us/stat/96/1540]; [Pub. L. 97–457, § 32(a)][/us/pl/97/457/s32/a], Jan. 12, 1983, [96 Stat. 2511][/us/stat/96/2511]; [Pub. L. 104–208, div. A, title II, § 2613(a)][/us/pl/104/208/s2613/a], (b), Sept. 30, 1996, [110 Stat. 3009–476][/us/stat/110/3009-476]; [Pub. L. 109–351, title VI, § 602(b)(1)][/us/pl/109/351/s602/b/1], Oct. 13, 2006, [120 Stat. 1979][/us/stat/120/1979]; [Pub. L. 111–203, title III, § 357(1)][/us/pl/111/203/s357/1], (2), July 21, 2010, [124 Stat. 1547][/us/stat/124/1547], 1548.)
+([Pub. L. 87–856][/us/pl/87/856], § 1, Oct. 23, 1962, [76 Stat. 1132][/us/stat/76/1132]; [Pub. L. 97–320, title VII][/us/pl/97/320/tVII], § 709, Oct. 15, 1982, [96 Stat. 1540][/us/stat/96/1540]; [Pub. L. 97–457][/us/pl/97/457], § 32(a), Jan. 12, 1983, [96 Stat. 2511][/us/stat/96/2511]; [Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], § 2613(a), (b), Sept. 30, 1996, [110 Stat. 3009–476][/us/stat/110/3009-476]; [Pub. L. 109–351, title VI][/us/pl/109/351/tVI], § 602(b)(1), Oct. 13, 2006, [120 Stat. 1979][/us/stat/120/1979]; [Pub. L. 111–203, title III][/us/pl/111/203/tIII], § 357(1), (2), July 21, 2010, [124 Stat. 1547][/us/stat/124/1547], 1548.)
 
  __Amendments__ 
 
-    2010—Subsec. (b)(4). [Pub. L. 111–203, § 357(1)][/us/pl/111/203/s357/1], inserted “a savings association,” after “an insured bank,”, substituted “appropriate Federal banking agency” for “Director of the Office of Thrift Supervision”, and struck out “, the Federal Savings and Loan Insurance Corporation,” after “Federal Deposit Insurance Corporation”.
+    2010—Subsec. (b)(4). [Pub. L. 111–203][/us/pl/111/203], § 357(1), inserted “a savings association,” after “an insured bank,”, substituted “appropriate Federal banking agency” for “Director of the Office of Thrift Supervision”, and struck out “, the Federal Savings and Loan Insurance Corporation,” after “Federal Deposit Insurance Corporation”.
 
-    Subsec. (b)(5). [Pub. L. 111–203, § 357(2)][/us/pl/111/203/s357/2], substituted “terms ‘depository institution’ and ‘savings association’ have the same meanings as in section 1813” for “term ‘insured depository institution’ has the same meaning as in section 1813(c)”.
+    Subsec. (b)(5). [Pub. L. 111–203][/us/pl/111/203], § 357(2), substituted “terms ‘depository institution’ and ‘savings association’ have the same meanings as in section 1813” for “term ‘insured depository institution’ has the same meaning as in section 1813(c)”.
 
-    2006—Subsec. (b)(2)(A)(ii), (B)(ii). [Pub. L. 109–351, § 602(b)(1)(F)][/us/pl/109/351/s602/b/1/F], substituted “insured depository institutions” for “insured banks”.
+    2006—Subsec. (b)(2)(A)(ii), (B)(ii). [Pub. L. 109–351][/us/pl/109/351], § 602(b)(1)(F), substituted “insured depository institutions” for “insured banks”.
 
-    Subsec. (b)(4). [Pub. L. 109–351, § 602(b)(1)(A)][/us/pl/109/351/s602/b/1/A], inserted “, except when such term appears in connection with the term ‘insured depository institution’,” after “means” and substituted “Director of the Office of Thrift Supervision” for “Federal Home Loan Bank Board”.
+    Subsec. (b)(4). [Pub. L. 109–351][/us/pl/109/351], § 602(b)(1)(A), inserted “, except when such term appears in connection with the term ‘insured depository institution’,” after “means” and substituted “Director of the Office of Thrift Supervision” for “Federal Home Loan Bank Board”.
 
-    Subsec. (b)(5). [Pub. L. 109–351, § 602(b)(1)(B)][/us/pl/109/351/s602/b/1/B], added par. (5) and struck out former par. (5) which defined “insured bank”.
+    Subsec. (b)(5). [Pub. L. 109–351][/us/pl/109/351], § 602(b)(1)(B), added par. (5) and struck out former par. (5) which defined “insured bank”.
 
-    Subsec. (b)(8). [Pub. L. 109–351, § 602(b)(1)(G)][/us/pl/109/351/s602/b/1/G], substituted “means the insured depository institution” for “means the insured bank”, “insured depository institutions” for “insured banks” in two places, and “the depository institution’s appropriate” for “the bank’s appropriate”.
+    Subsec. (b)(8). [Pub. L. 109–351][/us/pl/109/351], § 602(b)(1)(G), substituted “means the insured depository institution” for “means the insured bank”, “insured depository institutions” for “insured banks” in two places, and “the depository institution’s appropriate” for “the bank’s appropriate”.
 
-    Subsec. (b)(9). [Pub. L. 109–351, § 602(b)(1)(C)][/us/pl/109/351/s602/b/1/C]–(E), added par. (9).
+    Subsec. (b)(9). [Pub. L. 109–351][/us/pl/109/351], § 602(b)(1)(C)–(E), added par. (9).
 
-    1996—Subsec. (a). [Pub. L. 104–208, § 2613(a)][/us/pl/104/208/s2613/a], inserted heading and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “This chapter may be cited as the ‘Bank Service Corporation Act’.”
+    1996—Subsec. (a). [Pub. L. 104–208][/us/pl/104/208], § 2613(a), inserted heading and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “This chapter may be cited as the ‘Bank Service Corporation Act’.”
 
-    Subsec. (b)(2). [Pub. L. 104–208, § 2613(b)(1)][/us/pl/104/208/s2613/b/1], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the term ‘bank service corporation’ means a corporation organized to perform services authorized by this chapter, all of the capital stock of which is owned by one or more insured banks;”.
+    Subsec. (b)(2). [Pub. L. 104–208][/us/pl/104/208], § 2613(b)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the term ‘bank service corporation’ means a corporation organized to perform services authorized by this chapter, all of the capital stock of which is owned by one or more insured banks;”.
 
-    Subsec. (b)(6). [Pub. L. 104–208, § 2613(b)(2)][/us/pl/104/208/s2613/b/2], substituted “company” for “corporation” and struck out “and” after semicolon at end.
+    Subsec. (b)(6). [Pub. L. 104–208][/us/pl/104/208], § 2613(b)(2), substituted “company” for “corporation” and struck out “and” after semicolon at end.
 
-    Subsec. (b)(7). [Pub. L. 104–208, § 2613(b)(3)][/us/pl/104/208/s2613/b/3], added par. (7). Former par. (7) redesignated (8).
+    Subsec. (b)(7). [Pub. L. 104–208][/us/pl/104/208], § 2613(b)(3), added par. (7). Former par. (7) redesignated (8).
 
-    Subsec. (b)(8). [Pub. L. 104–208, § 2613(b)(4)][/us/pl/104/208/s2613/b/4], substituted “company” for “corporation” wherever appearing and “equity” for “capital stock”.
+    Subsec. (b)(8). [Pub. L. 104–208][/us/pl/104/208], § 2613(b)(4), substituted “company” for “corporation” wherever appearing and “equity” for “capital stock”.
 
-    [Pub. L. 104–208, § 2613(b)(3)][/us/pl/104/208/s2613/b/3], redesignated par. (7) as (8).
+    [Pub. L. 104–208][/us/pl/104/208], § 2613(b)(3), redesignated par. (7) as (8).
 
     1983—Subsec. (b)(4). [Pub. L. 97–457][/us/pl/97/457] substituted “a” for “or another” after “insured bank,” and inserted reference to a financial institution insured by State law and eligible to be insured by certain Federal agencies.
 
@@ -116,31 +116,31 @@
 [/us/usc/t12/s1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813
 [/us/usc/t12/s1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813
 [/us/usc/t12/s1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813
-[/us/pl/87/856/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F856%2Fs1
+[/us/pl/87/856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F856
 [/us/stat/76/1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1132
-[/us/pl/97/320/s709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs709
+[/us/pl/97/320/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2FtVII
 [/us/stat/96/1540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1540
-[/us/pl/97/457/s32/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F457%2Fs32%2Fa
+[/us/pl/97/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F457
 [/us/stat/96/2511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2511
-[/us/pl/104/208/s2613/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2613%2Fa
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-476
-[/us/pl/109/351/s602/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs602%2Fb%2F1
+[/us/pl/109/351/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2FtVI
 [/us/stat/120/1979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1979
-[/us/pl/111/203/s357/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs357%2F1
+[/us/pl/111/203/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIII
 [/us/stat/124/1547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1547
-[/us/pl/111/203/s357/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs357%2F1
-[/us/pl/111/203/s357/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs357%2F2
-[/us/pl/109/351/s602/b/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs602%2Fb%2F1%2FF
-[/us/pl/109/351/s602/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs602%2Fb%2F1%2FA
-[/us/pl/109/351/s602/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs602%2Fb%2F1%2FB
-[/us/pl/109/351/s602/b/1/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs602%2Fb%2F1%2FG
-[/us/pl/109/351/s602/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs602%2Fb%2F1%2FC
-[/us/pl/104/208/s2613/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2613%2Fa
-[/us/pl/104/208/s2613/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2613%2Fb%2F1
-[/us/pl/104/208/s2613/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2613%2Fb%2F2
-[/us/pl/104/208/s2613/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2613%2Fb%2F3
-[/us/pl/104/208/s2613/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2613%2Fb%2F4
-[/us/pl/104/208/s2613/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2613%2Fb%2F3
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
+[/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
+[/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
+[/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
+[/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/97/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F457
 [/us/pl/97/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320
 [/us/pl/97/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320

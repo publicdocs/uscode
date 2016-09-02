@@ -139,7 +139,7 @@
 
             An amount equal to the expenses of the Oversight Panel shall be promptly transferred by the Secretary, from time to time upon the presentment of a statement of such expenses by the Chairperson of the Oversight Panel, from funds made available to the Secretary under this chapter to the applicable fund of the House of Representatives and the contingent fund of the Senate, as appropriate, as reimbursement for amounts expended from such account and fund under paragraph (1).
 
-([Pub. L. 110–343, div. A, title I, § 125][/us/pl/110/343/s125], Oct. 3, 2008, [122 Stat. 3791][/us/stat/122/3791]; [Pub. L. 111–22, div. A, title V, § 501][/us/pl/111/22/s501], May 20, 2009, [123 Stat. 1658][/us/stat/123/1658].)
+([Pub. L. 110–343, div. A, title I][/us/pl/110/343/dA/tI], § 125, Oct. 3, 2008, [122 Stat. 3791][/us/stat/122/3791]; [Pub. L. 111–22, div. A, title V][/us/pl/111/22/dA/tV], § 501, May 20, 2009, [123 Stat. 1658][/us/stat/123/1658].)
 
  __References in Text__ 
 
@@ -160,9 +160,9 @@
 
 [/us/usc/t5/s3109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109%2Fb
 [/us/usc/t12/s5230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5230
-[/us/pl/110/343/s125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs125
+[/us/pl/110/343/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdA%2FtI
 [/us/stat/122/3791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3791
-[/us/pl/111/22/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs501
+[/us/pl/111/22/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2FdA%2FtV
 [/us/stat/123/1658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1658
 [/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
 [/us/stat/122/3765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3765

@@ -65,19 +65,19 @@
 
         (4) A revocation order shall become effective not earlier than the expiration of thirty days after service of such order upon the association so served (except in the case of a revocation order issued upon consent, which shall become effective at the time specified therein), and shall remain effective and enforceable, except to such extent as it is stayed, modified, terminated, or set aside by action of the Comptroller or a reviewing court.
 
-([Pub. L. 87–722, § 1][/us/pl/87/722/s1], Sept. 28, 1962, [76 Stat. 668][/us/stat/76/668]; [Pub. L. 96–221, title VII, § 704][/us/pl/96/221/s704], Mar. 31, 1980, [94 Stat. 187][/us/stat/94/187]; [Pub. L. 112–231, § 2(b)(1)][/us/pl/112/231/s2/b/1], Dec. 28, 2012, [126 Stat. 1619][/us/stat/126/1619].)
+([Pub. L. 87–722][/us/pl/87/722], § 1, Sept. 28, 1962, [76 Stat. 668][/us/stat/76/668]; [Pub. L. 96–221, title VII][/us/pl/96/221/tVII], § 704, Mar. 31, 1980, [94 Stat. 187][/us/stat/94/187]; [Pub. L. 112–231][/us/pl/112/231], § 2(b)(1), Dec. 28, 2012, [126 Stat. 1619][/us/stat/126/1619].)
 
  __Amendments__ 
 
-    2012—Subsec. (a). [Pub. L. 112–231, § 2(b)(1)(A)][/us/pl/112/231/s2/b/1/A], struck out “committee of estates of lunatics,” before “or in any other fiduciary capacity”.
+    2012—Subsec. (a). [Pub. L. 112–231][/us/pl/112/231], § 2(b)(1)(A), struck out “committee of estates of lunatics,” before “or in any other fiduciary capacity”.
 
-    Subsec. (j). [Pub. L. 112–231, § 2(b)(1)(B)][/us/pl/112/231/s2/b/1/B], struck out “committee of estates of lunatics” before “or other fiduciary, under court, private,”.
+    Subsec. (j). [Pub. L. 112–231][/us/pl/112/231], § 2(b)(1)(B), struck out “committee of estates of lunatics” before “or other fiduciary, under court, private,”.
 
     1980—Subsec. (k). [Pub. L. 96–221][/us/pl/96/221] added subsec. (k).
 
  __Savings Provision__ 
 
-[Pub. L. 87–722, § 2][/us/pl/87/722/s2], Sept. 28, 1962, [76 Stat. 669][/us/stat/76/669], provided that: 
+[Pub. L. 87–722][/us/pl/87/722], § 2, Sept. 28, 1962, [76 Stat. 669][/us/stat/76/669], provided that: 
 
 > “Nothing contained in this Act \[enacting this section, amending sections 581 and 584(a)(2) of Title 26, and repealing [section 248(k) of this title][/us/usc/t12/s248/k]\] shall be deemed to affect or curtail the right of any national bank to act in fiduciary capacities under a permit granted before the date of enactment of this Act \[Sept. 28, 1962\] by the Board of Governors of the Federal Reserve System, nor to affect the validity of any transactions entered into at any time by any national bank pursuant to such permit. On and after the date of enactment of this Act the exercise of fiduciary powers by national banks shall be subject to the provisions of this Act and the requirements of regulations issued by the Comptroller of the Currency pursuant to the authority granted by this Act.”
 
@@ -89,16 +89,16 @@
 ----------
 
 [/us/usc/t12/s1818/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1818%2Fh
-[/us/pl/87/722/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F722%2Fs1
+[/us/pl/87/722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F722
 [/us/stat/76/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F668
-[/us/pl/96/221/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs704
+[/us/pl/96/221/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2FtVII
 [/us/stat/94/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F187
-[/us/pl/112/231/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F231%2Fs2%2Fb%2F1
+[/us/pl/112/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F231
 [/us/stat/126/1619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1619
-[/us/pl/112/231/s2/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F231%2Fs2%2Fb%2F1%2FA
-[/us/pl/112/231/s2/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F231%2Fs2%2Fb%2F1%2FB
+[/us/pl/112/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F231
+[/us/pl/112/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F231
 [/us/pl/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221
-[/us/pl/87/722/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F722%2Fs2
+[/us/pl/87/722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F722
 [/us/stat/76/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F669
 [/us/usc/t12/s248/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs248%2Fk
 

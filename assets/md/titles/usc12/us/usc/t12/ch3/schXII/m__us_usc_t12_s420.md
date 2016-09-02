@@ -17,7 +17,7 @@
 
     The plates and dies to be procured by the Secretary of the Treasury for the printing of such circulating notes shall remain under his control and direction, and the expenses necessarily incurred in executing the laws relating to the procuring of such notes, and all other expenses incidental to their issue and retirement, shall be paid by the Federal reserve banks, and the Board of Governors of the Federal Reserve System shall include in its estimate of expenses levied against the Federal reserve banks a sufficient amount to cover the expenses herein provided for.
 
-([Dec. 23, 1913, ch. 6, § 16][/us/act/1913-12-23/ch6/s16] (par.), [38 Stat. 267][/us/stat/38/267]; [Pub. L. 103–325, title VI, § 602(g)(5)][/us/pl/103/325/s602/g/5], Sept. 23, 1994, [108 Stat. 2293][/us/stat/108/2293].)
+([Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 16 (par.), [38 Stat. 267][/us/stat/38/267]; [Pub. L. 103–325, title VI][/us/pl/103/325/tVI], § 602(g)(5), Sept. 23, 1994, [108 Stat. 2293][/us/stat/108/2293].)
 
  __References in Text__ 
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/act/1913-12-23/ch6/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs16
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
 [/us/stat/38/267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F267
-[/us/pl/103/325/s602/g/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs602%2Fg%2F5
+[/us/pl/103/325/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtVI
 [/us/stat/108/2293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2293
 [/us/usc/t12/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs411
 [/us/usc/t12/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs411

@@ -47,7 +47,7 @@
 
         The provisions of subsections (c), (d), (e), and (f) of [section 1743 of this title][/us/usc/t12/s1743] shall be applicable to mortgages insured under this section covering a project described in subsection (b) of this section, and the provisions of subsections (a) to (f), and (h) of [section 1739 of this title][/us/usc/t12/s1739] shall be applicable to the individual mortgages insured pursuant to subsection (b)(4) of this section  covering  individual  dwellings  in  the project.
 
-([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title VI, § 611, as added [Aug. 10, 1948, ch. 832][/us/act/1948-08-10/ch832], title I, § 101(f), [62 Stat. 1271][/us/stat/62/1271]; amended [Apr. 20, 1950, ch. 94][/us/act/1950-04-20/ch94], title I, §§ 121, 122, [64 Stat. 58][/us/stat/64/58], 59; [Pub. L. 90–19, § 1(a)(3)][/us/pl/90/19/s1/a/3], May 25, 1967, [81 Stat. 17][/us/stat/81/17].)
+([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title VI, § 611, as added [Aug. 10, 1948, ch. 832][/us/act/1948-08-10/ch832], title I, § 101(f), [62 Stat. 1271][/us/stat/62/1271]; amended [Apr. 20, 1950, ch. 94][/us/act/1950-04-20/ch94], title I, §§ 121, 122, [64 Stat. 58][/us/stat/64/58], 59; [Pub. L. 90–19][/us/pl/90/19], § 1(a)(3), May 25, 1967, [81 Stat. 17][/us/stat/81/17].)
 
  __References in Text__ 
 
@@ -80,7 +80,7 @@
 [/us/stat/62/1271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1271
 [/us/act/1950-04-20/ch94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-04-20%2Fch94
 [/us/stat/64/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F58
-[/us/pl/90/19/s1/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19%2Fs1%2Fa%2F3
+[/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
 [/us/stat/81/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F17
 [/us/usc/t12/s1709/b/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1709%2Fb%2F2%2FD
 [/us/act/1954-08-02/ch649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-02%2Fch649

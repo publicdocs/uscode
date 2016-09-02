@@ -75,7 +75,7 @@
 
         The Secretary shall not insure any mortgage under this section unless the principal contractor or contractors engaged in the construction of the project involved file a certificate or certificates (at such times, in the course of construction or otherwise, as the Secretary may prescribe) certifying that the laborers and mechanics employed in the construction of such project have been paid not less than one and one-half times the regular rate of pay for employment in excess of eight hours in any one day or in excess of forty hours in any one week.
 
-([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title VIII, § 803, as added [Aug. 8, 1949, ch. 403, § 1][/us/act/1949-08-08/ch403/s1], [63 Stat. 571][/us/stat/63/571]; amended [Sept. 1, 1951, ch. 378][/us/act/1951-09-01/ch378], title VI, § 601(a)–(c), [65 Stat. 312][/us/stat/65/312]; [June 30, 1953, ch. 170, § 10][/us/act/1953-06-30/ch170/s10], [67 Stat. 124][/us/stat/67/124]; [June 29, 1954, ch. 410, § 1(2)][/us/act/1954-06-29/ch410/s1/2], [68 Stat. 320][/us/stat/68/320]; [Aug. 2, 1954, ch. 649][/us/act/1954-08-02/ch649], title I, §§ 112(c), 128(a), 130, [68 Stat. 593][/us/stat/68/593], 609; [June 30, 1955, ch. 251, § 1(2)][/us/act/1955-06-30/ch251/s1/2], [69 Stat. 225][/us/stat/69/225]; [Aug. 11, 1955, ch. 783][/us/act/1955-08-11/ch783], title IV, § 401, [69 Stat. 647][/us/stat/69/647]; [Aug. 7, 1956, ch. 1029][/us/act/1956-08-07/ch1029], title V, §§ 502–506(a), [70 Stat. 1109][/us/stat/70/1109], 1110; [Pub. L. 85–104, title I, § 108(c)][/us/pl/85/104/s108/c], title V, §§ 501, 502, July 12, 1957, [71 Stat. 297][/us/stat/71/297], 303; [Pub. L. 85–364, § 3(b)][/us/pl/85/364/s3/b], Apr. 1, 1958, [72 Stat. 73][/us/stat/72/73]; [Pub. L. 86–149, title IV, § 414(a)][/us/pl/86/149/s414/a], Aug. 10, 1959, [73 Stat. 322][/us/stat/73/322]; [Pub. L. 86–372, title VII, § 701][/us/pl/86/372/s701], Sept. 23, 1959, [73 Stat. 682][/us/stat/73/682]; [Pub. L. 86–500, title V, § 507(a)][/us/pl/86/500/s507/a], (c), June 8, 1960, [74 Stat. 185][/us/stat/74/185], 186; [Pub. L. 87–57, title VI, § 607(a)][/us/pl/87/57/s607/a], June 27, 1961, [75 Stat. 111][/us/stat/75/111]; [Pub. L. 87–70, title VI, § 604(d)][/us/pl/87/70/s604/d], June 30, 1961, [75 Stat. 177][/us/stat/75/177]; [Pub. L. 87–623, § 1][/us/pl/87/623/s1], Aug. 31, 1962, [76 Stat. 418][/us/stat/76/418]; [Pub. L. 89–117, title XI, § 1108(u)][/us/pl/89/117/s1108/u], Aug. 10, 1965, [79 Stat. 506][/us/stat/79/506]; [Pub. L. 90–19, § 1(a)(3)][/us/pl/90/19/s1/a/3], (p), May 25, 1967, [81 Stat. 17][/us/stat/81/17], 19; [Pub. L. 96–470, title I, § 107(b)][/us/pl/96/470/s107/b], Oct. 19, 1980, [94 Stat. 2238][/us/stat/94/2238].)
+([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title VIII, § 803, as added [Aug. 8, 1949, ch. 403][/us/act/1949-08-08/ch403], § 1, [63 Stat. 571][/us/stat/63/571]; amended [Sept. 1, 1951, ch. 378][/us/act/1951-09-01/ch378], title VI, § 601(a)–(c), [65 Stat. 312][/us/stat/65/312]; [June 30, 1953, ch. 170][/us/act/1953-06-30/ch170], § 10, [67 Stat. 124][/us/stat/67/124]; [June 29, 1954, ch. 410][/us/act/1954-06-29/ch410], § 1(2), [68 Stat. 320][/us/stat/68/320]; [Aug. 2, 1954, ch. 649][/us/act/1954-08-02/ch649], title I, §§ 112(c), 128(a), 130, [68 Stat. 593][/us/stat/68/593], 609; [June 30, 1955, ch. 251][/us/act/1955-06-30/ch251], § 1(2), [69 Stat. 225][/us/stat/69/225]; [Aug. 11, 1955, ch. 783][/us/act/1955-08-11/ch783], title IV, § 401, [69 Stat. 647][/us/stat/69/647]; [Aug. 7, 1956, ch. 1029][/us/act/1956-08-07/ch1029], title V, §§ 502–506(a), [70 Stat. 1109][/us/stat/70/1109], 1110; [Pub. L. 85–104, title I][/us/pl/85/104/tI], § 108(c), title V, §§ 501, 502, July 12, 1957, [71 Stat. 297][/us/stat/71/297], 303; [Pub. L. 85–364][/us/pl/85/364], § 3(b), Apr. 1, 1958, [72 Stat. 73][/us/stat/72/73]; [Pub. L. 86–149, title IV][/us/pl/86/149/tIV], § 414(a), Aug. 10, 1959, [73 Stat. 322][/us/stat/73/322]; [Pub. L. 86–372, title VII][/us/pl/86/372/tVII], § 701, Sept. 23, 1959, [73 Stat. 682][/us/stat/73/682]; [Pub. L. 86–500, title V][/us/pl/86/500/tV], § 507(a), (c), June 8, 1960, [74 Stat. 185][/us/stat/74/185], 186; [Pub. L. 87–57, title VI][/us/pl/87/57/tVI], § 607(a), June 27, 1961, [75 Stat. 111][/us/stat/75/111]; [Pub. L. 87–70, title VI][/us/pl/87/70/tVI], § 604(d), June 30, 1961, [75 Stat. 177][/us/stat/75/177]; [Pub. L. 87–623][/us/pl/87/623], § 1, Aug. 31, 1962, [76 Stat. 418][/us/stat/76/418]; [Pub. L. 89–117, title XI][/us/pl/89/117/tXI], § 1108(u), Aug. 10, 1965, [79 Stat. 506][/us/stat/79/506]; [Pub. L. 90–19][/us/pl/90/19], § 1(a)(3), (p), May 25, 1967, [81 Stat. 17][/us/stat/81/17], 19; [Pub. L. 96–470, title I][/us/pl/96/470/tI], § 107(b), Oct. 19, 1980, [94 Stat. 2238][/us/stat/94/2238].)
 
  __References in Text__ 
 
@@ -85,13 +85,13 @@
 
     1980—Subsec. (b)(2). [Pub. L. 96–470][/us/pl/96/470] struck out provision requiring the Secretary to report to the Committees on Banking and Currency of the Senate and the House of Representatives each instance in which he has required the Secretary of Defense to guarantee the General Insurance Fund and the reasons therefor.
 
-    1967—[Pub. L. 90–19, § 1(a)(3)][/us/pl/90/19/s1/a/3], substituted “Secretary” for “Commissioner” wherever appearing in subsecs. (a), (b)(1), (2), (3)(A), (B), following (C), and (c) to (k).
+    1967—[Pub. L. 90–19][/us/pl/90/19], § 1(a)(3), substituted “Secretary” for “Commissioner” wherever appearing in subsecs. (a), (b)(1), (2), (3)(A), (B), following (C), and (c) to (k).
 
-    Subsec. (b)(2). [Pub. L. 90–19, § 1(p)(1)][/us/pl/90/19/s1/p/1]–(4), substituted “Secretary of Defense” for “Secretary” in first, third, and fourth sentences.
+    Subsec. (b)(2). [Pub. L. 90–19][/us/pl/90/19], § 1(p)(1)–(4), substituted “Secretary of Defense” for “Secretary” in first, third, and fourth sentences.
 
-    1965—Subsecs. (b)(1), (b)(2), (e), (f), (g). [Pub. L. 89–117, § 1108(u)(1)][/us/pl/89/117/s1108/u/1], substituted “General Insurance Fund” for “Armed Services Housing Mortgage Insurance Fund” wherever appearing.
+    1965—Subsecs. (b)(1), (b)(2), (e), (f), (g). [Pub. L. 89–117][/us/pl/89/117], § 1108(u)(1), substituted “General Insurance Fund” for “Armed Services Housing Mortgage Insurance Fund” wherever appearing.
 
-    Subsec. (h). [Pub. L. 89–117, § 1108(u)(2)][/us/pl/89/117/s1108/u/2], struck out provision that, as applied to mortgages insured under this subchapter and to property acquired by the Commissioner hereunder, reference in subsecs. (k) and (l) of [section 1713 of this title][/us/usc/t12/s1713] to the “Housing Fund” shall be construed to refer to the “Armed Services Housing Mortgage Insurance Fund”.
+    Subsec. (h). [Pub. L. 89–117][/us/pl/89/117], § 1108(u)(2), struck out provision that, as applied to mortgages insured under this subchapter and to property acquired by the Commissioner hereunder, reference in subsecs. (k) and (l) of [section 1713 of this title][/us/usc/t12/s1713] to the “Housing Fund” shall be construed to refer to the “Armed Services Housing Mortgage Insurance Fund”.
 
     1962—Subsec. (a). [Pub. L. 87–623][/us/pl/87/623] substituted “mortgages shall be insured under this section after October 1, 1962” for “mortgages shall be insured under this subchapter after October 1, 1962”.
 
@@ -99,27 +99,27 @@
 
     [Pub. L. 87–57][/us/pl/87/57] substituted “October 1, 1962” for “October 1, 1961”, and “twenty-eight thousand family units” for “twenty-five thousand family housing units”.
 
-    1960—Subsec. (a). [Pub. L. 86–500, § 507(a)][/us/pl/86/500/s507/a], substituted “twenty-five thousand family housing units” for “twenty thousand family housing units”.
+    1960—Subsec. (a). [Pub. L. 86–500][/us/pl/86/500], § 507(a), substituted “twenty-five thousand family housing units” for “twenty thousand family housing units”.
 
-    Subsec. (b)(3). [Pub. L. 86–500, § 507(c)][/us/pl/86/500/s507/c], inserted proviso prohibiting, subject to the limitations of par. (B), the contracting for any family unit included in any mortgaged property after June 8, 1960, if the cost of the unit exceeds $19,800.
+    Subsec. (b)(3). [Pub. L. 86–500][/us/pl/86/500], § 507(c), inserted proviso prohibiting, subject to the limitations of par. (B), the contracting for any family unit included in any mortgaged property after June 8, 1960, if the cost of the unit exceeds $19,800.
 
-    1959—Subsec. (a). [Pub. L. 86–372, § 701(a)][/us/pl/86/372/s701/a], substituted “October 1, 1961” for “September 30, 1960”.
+    1959—Subsec. (a). [Pub. L. 86–372][/us/pl/86/372], § 701(a), substituted “October 1, 1961” for “September 30, 1960”.
 
     [Pub. L. 86–149][/us/pl/86/149] inserted provisions in subsec. (a) to prohibit insurance of mortgages under this subchapter after Sept. 30, 1960, and to limit the number of housing units which may be contracted for after June 30, 1959 to not more than 20,000.
 
-    Subsec. (b)(3). [Pub. L. 86–372, § 701(b)][/us/pl/86/372/s701/b], (c), substituted “but not to exceed thirty years from the beginning of amortization of the mortgage” for “have a maturity of not to exceed twenty-five years”, and inserted provisions authorizing the property or project to include such nondwelling facilities as the Commission deems adequate to serve the occupants.
+    Subsec. (b)(3). [Pub. L. 86–372][/us/pl/86/372], § 701(b), (c), substituted “but not to exceed thirty years from the beginning of amortization of the mortgage” for “have a maturity of not to exceed twenty-five years”, and inserted provisions authorizing the property or project to include such nondwelling facilities as the Commission deems adequate to serve the occupants.
 
-    Subsec. (c). [Pub. L. 86–372, § 701(d)][/us/pl/86/372/s701/d], authorized the Commissioner to reduce the amount of the premium charge below one-half of 1 per centum per annum with respect to any mortgage on property acquired by the Secretary of Defense or his designee if the mortgage is insured pursuant to the provisions of this subchapter as in effect prior to August 11, 1955.
+    Subsec. (c). [Pub. L. 86–372][/us/pl/86/372], § 701(d), authorized the Commissioner to reduce the amount of the premium charge below one-half of 1 per centum per annum with respect to any mortgage on property acquired by the Secretary of Defense or his designee if the mortgage is insured pursuant to the provisions of this subchapter as in effect prior to August 11, 1955.
 
-    Subsec. (k). [Pub. L. 86–372, § 701(e)][/us/pl/86/372/s701/e], added subsec. (k).
+    Subsec. (k). [Pub. L. 86–372][/us/pl/86/372], § 701(e), added subsec. (k).
 
     1958—Subsec. (b). [Pub. L. 85–364][/us/pl/85/364] increased the maximum amount of interest from 4 to 4½ per centum per annum.
 
-    1957—Subsec. (a). [Pub. L. 85–104, § 501][/us/pl/85/104/s501], substituted “June 30, 1959” for “June 30, 1958”.
+    1957—Subsec. (a). [Pub. L. 85–104][/us/pl/85/104], § 501, substituted “June 30, 1959” for “June 30, 1958”.
 
-    Subsec. (b)(3)(B). [Pub. L. 85–104, § 502][/us/pl/85/104/s502], inserted proviso that should financing of housing to be constructed pursuant to a single invitation for bids be accomplished by two or more mortgages, any single mortgage may exceed an average of $16,500 if sum of all mortgages for such housing does not exceed average of $16,500.
+    Subsec. (b)(3)(B). [Pub. L. 85–104][/us/pl/85/104], § 502, inserted proviso that should financing of housing to be constructed pursuant to a single invitation for bids be accomplished by two or more mortgages, any single mortgage may exceed an average of $16,500 if sum of all mortgages for such housing does not exceed average of $16,500.
 
-    Subsec. (f). [Pub. L. 85–104, § 108(c)][/us/pl/85/104/s108/c], substituted, in second sentence, “established by the Commissioner pursuant to section 1715o of this title” for “determined by the Commissioner with the approval of the Secretary of the Treasury, at the time the mortgage was accepted for insurance, but not to exceed 3 per centum per annum”.
+    Subsec. (f). [Pub. L. 85–104][/us/pl/85/104], § 108(c), substituted, in second sentence, “established by the Commissioner pursuant to section 1715o of this title” for “determined by the Commissioner with the approval of the Secretary of the Treasury, at the time the mortgage was accepted for insurance, but not to exceed 3 per centum per annum”.
 
     1956—Subsec. (a). Act Aug. 7, 1956, §§ 502, 503, inserted “(except mortgages insured pursuant to the provisions of this subchapter in effect prior to August 11, 1955)” and substituted “$2,300,000” for “$1,363,500,000” in first proviso and “June 30, 1958” for “September 30, 1956” in third proviso.
 
@@ -169,7 +169,7 @@
 
  __Effective Date of 1951 Amendment__ 
 
-    [Act Sept. 1, 1951, ch. 378, § 601(a)][/us/act/1951-09-01/ch378/s601/a], [65 Stat. 312][/us/stat/65/312], provided that the amendment made by that section is effective July 1, 1951.
+    [Act Sept. 1, 1951, ch. 378][/us/act/1951-09-01/ch378], § 601(a), [65 Stat. 312][/us/stat/65/312], provided that the amendment made by that section is effective July 1, 1951.
 
 ----------
 
@@ -183,69 +183,69 @@
 [/us/usc/t12/s1739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1739
 [/us/usc/t12/s1713/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1713%2Fk
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
-[/us/act/1949-08-08/ch403/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-08%2Fch403%2Fs1
+[/us/act/1949-08-08/ch403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-08%2Fch403
 [/us/stat/63/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F571
 [/us/act/1951-09-01/ch378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-09-01%2Fch378
 [/us/stat/65/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F312
-[/us/act/1953-06-30/ch170/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-30%2Fch170%2Fs10
+[/us/act/1953-06-30/ch170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-30%2Fch170
 [/us/stat/67/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F124
-[/us/act/1954-06-29/ch410/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-06-29%2Fch410%2Fs1%2F2
+[/us/act/1954-06-29/ch410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-06-29%2Fch410
 [/us/stat/68/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F320
 [/us/act/1954-08-02/ch649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-02%2Fch649
 [/us/stat/68/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F593
-[/us/act/1955-06-30/ch251/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-06-30%2Fch251%2Fs1%2F2
+[/us/act/1955-06-30/ch251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-06-30%2Fch251
 [/us/stat/69/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F225
 [/us/act/1955-08-11/ch783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-11%2Fch783
 [/us/stat/69/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F647
 [/us/act/1956-08-07/ch1029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-07%2Fch1029
 [/us/stat/70/1109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1109
-[/us/pl/85/104/s108/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F104%2Fs108%2Fc
+[/us/pl/85/104/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F104%2FtI
 [/us/stat/71/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F297
-[/us/pl/85/364/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F364%2Fs3%2Fb
+[/us/pl/85/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F364
 [/us/stat/72/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F73
-[/us/pl/86/149/s414/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F149%2Fs414%2Fa
+[/us/pl/86/149/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F149%2FtIV
 [/us/stat/73/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F322
-[/us/pl/86/372/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F372%2Fs701
+[/us/pl/86/372/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F372%2FtVII
 [/us/stat/73/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F682
-[/us/pl/86/500/s507/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F500%2Fs507%2Fa
+[/us/pl/86/500/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F500%2FtV
 [/us/stat/74/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F185
-[/us/pl/87/57/s607/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F57%2Fs607%2Fa
+[/us/pl/87/57/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F57%2FtVI
 [/us/stat/75/111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F111
-[/us/pl/87/70/s604/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F70%2Fs604%2Fd
+[/us/pl/87/70/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F70%2FtVI
 [/us/stat/75/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F177
-[/us/pl/87/623/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F623%2Fs1
+[/us/pl/87/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F623
 [/us/stat/76/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F418
-[/us/pl/89/117/s1108/u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117%2Fs1108%2Fu
+[/us/pl/89/117/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117%2FtXI
 [/us/stat/79/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F506
-[/us/pl/90/19/s1/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19%2Fs1%2Fa%2F3
+[/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
 [/us/stat/81/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F17
-[/us/pl/96/470/s107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470%2Fs107%2Fb
+[/us/pl/96/470/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470%2FtI
 [/us/stat/94/2238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2238
 [/us/usc/t12/s1735c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1735c
 [/us/pl/96/470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470
-[/us/pl/90/19/s1/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19%2Fs1%2Fa%2F3
-[/us/pl/90/19/s1/p/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19%2Fs1%2Fp%2F1
-[/us/pl/89/117/s1108/u/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117%2Fs1108%2Fu%2F1
-[/us/pl/89/117/s1108/u/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117%2Fs1108%2Fu%2F2
+[/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
+[/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
+[/us/pl/89/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117
+[/us/pl/89/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117
 [/us/usc/t12/s1713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1713
 [/us/pl/87/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F623
 [/us/pl/87/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F70
 [/us/pl/87/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F57
 [/us/pl/87/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F57
-[/us/pl/86/500/s507/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F500%2Fs507%2Fa
-[/us/pl/86/500/s507/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F500%2Fs507%2Fc
-[/us/pl/86/372/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F372%2Fs701%2Fa
+[/us/pl/86/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F500
+[/us/pl/86/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F500
+[/us/pl/86/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F372
 [/us/pl/86/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F149
-[/us/pl/86/372/s701/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F372%2Fs701%2Fb
-[/us/pl/86/372/s701/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F372%2Fs701%2Fd
-[/us/pl/86/372/s701/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F372%2Fs701%2Fe
+[/us/pl/86/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F372
+[/us/pl/86/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F372
+[/us/pl/86/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F372
 [/us/pl/85/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F364
-[/us/pl/85/104/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F104%2Fs501
-[/us/pl/85/104/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F104%2Fs502
-[/us/pl/85/104/s108/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F104%2Fs108%2Fc
+[/us/pl/85/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F104
+[/us/pl/85/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F104
+[/us/pl/85/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F104
 [/us/usc/t12/s1715r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715r
 [/us/usc/t12/s1710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1710
-[/us/act/1951-09-01/ch378/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-09-01%2Fch378%2Fs601%2Fa
+[/us/act/1951-09-01/ch378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-09-01%2Fch378
 [/us/stat/65/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F312
 
 

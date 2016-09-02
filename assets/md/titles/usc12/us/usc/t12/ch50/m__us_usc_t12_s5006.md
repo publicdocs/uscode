@@ -199,7 +199,7 @@
 
         This section shall only apply to customers who are consumers.
 
-([Pub. L. 108–100, § 7][/us/pl/108/100/s7], Oct. 28, 2003, [117 Stat. 1182][/us/stat/117/1182].)
+([Pub. L. 108–100][/us/pl/108/100], § 7, Oct. 28, 2003, [117 Stat. 1182][/us/stat/117/1182].)
 
 ----------
 
@@ -208,7 +208,7 @@
 ----------
 ----------
 
-[/us/pl/108/100/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F100%2Fs7
+[/us/pl/108/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F100
 [/us/stat/117/1182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1182
 
 

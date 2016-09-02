@@ -49,7 +49,7 @@
 
             Records so transferred shall be used only for criminal investigative or prosecutive purposes, for civil actions under [section 1833a of this title][/us/usc/t12/s1833a], or for forfeiture under sections  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “section”. </sup></sup>  981 or 982 of title 18 by the Department of Justice and only for criminal investigative purposes relating to money laundering and other financial crimes by the Department of the Treasury and shall, upon completion of the investigation or prosecution (including any appeal), be returned only to the transferring agency or department. No agency or department so transferring such records shall be deemed to have waived any privilege applicable to those records under law.
 
-([Pub. L. 95–630, title XI, § 1112][/us/pl/95/630/s1112], Nov. 10, 1978, [92 Stat. 3705][/us/stat/92/3705]; [Pub. L. 97–320, title IV, § 432(a)][/us/pl/97/320/s432/a], Oct. 15, 1982, [96 Stat. 1527][/us/stat/96/1527]; [Pub. L. 100–690, title VI, § 6186(b)][/us/pl/100/690/s6186/b], Nov. 18, 1988, [102 Stat. 4357][/us/stat/102/4357]; [Pub. L. 101–73, title IX, § 944][/us/pl/101/73/s944], Aug. 9, 1989, [103 Stat. 498][/us/stat/103/498]; [Pub. L. 102–242, title IV, § 411(1)][/us/pl/102/242/s411/1], Dec. 19, 1991, [105 Stat. 2375][/us/stat/105/2375]; [Pub. L. 102–550, title XV, § 1516][/us/pl/102/550/s1516], title XVI, § 1606(b), Oct. 28, 1992, [106 Stat. 4059][/us/stat/106/4059], 4087; [Pub. L. 106–102, title II, § 231(b)(2)][/us/pl/106/102/s231/b/2], title VII, § 727(b)(2), Nov. 12, 1999, [113 Stat. 1407][/us/stat/113/1407], 1475; [Pub. L. 107–56, title III, § 358(f)(1)][/us/pl/107/56/s358/f/1], Oct. 26, 2001, [115 Stat. 327][/us/stat/115/327]; [Pub. L. 109–455][/us/pl/109/455], §§ 10, 13, Dec. 22, 2006, [120 Stat. 3381][/us/stat/120/3381], 3382; [Pub. L. 111–203, title X, § 1099(2)][/us/pl/111/203/s1099/2], July 21, 2010, [124 Stat. 2105][/us/stat/124/2105]; [Pub. L. 112–203, § 1][/us/pl/112/203/s1], Dec. 4, 2012, [126 Stat. 1484][/us/stat/126/1484].)
+([Pub. L. 95–630, title XI][/us/pl/95/630/tXI], § 1112, Nov. 10, 1978, [92 Stat. 3705][/us/stat/92/3705]; [Pub. L. 97–320, title IV][/us/pl/97/320/tIV], § 432(a), Oct. 15, 1982, [96 Stat. 1527][/us/stat/96/1527]; [Pub. L. 100–690, title VI][/us/pl/100/690/tVI], § 6186(b), Nov. 18, 1988, [102 Stat. 4357][/us/stat/102/4357]; [Pub. L. 101–73, title IX][/us/pl/101/73/tIX], § 944, Aug. 9, 1989, [103 Stat. 498][/us/stat/103/498]; [Pub. L. 102–242, title IV][/us/pl/102/242/tIV], § 411(1), Dec. 19, 1991, [105 Stat. 2375][/us/stat/105/2375]; [Pub. L. 102–550, title XV][/us/pl/102/550/tXV], § 1516, title XVI, § 1606(b), Oct. 28, 1992, [106 Stat. 4059][/us/stat/106/4059], 4087; [Pub. L. 106–102, title II][/us/pl/106/102/tII], § 231(b)(2), title VII, § 727(b)(2), Nov. 12, 1999, [113 Stat. 1407][/us/stat/113/1407], 1475; [Pub. L. 107–56, title III][/us/pl/107/56/tIII], § 358(f)(1), Oct. 26, 2001, [115 Stat. 327][/us/stat/115/327]; [Pub. L. 109–455][/us/pl/109/455], §§ 10, 13, Dec. 22, 2006, [120 Stat. 3381][/us/stat/120/3381], 3382; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1099(2), July 21, 2010, [124 Stat. 2105][/us/stat/124/2105]; [Pub. L. 112–203][/us/pl/112/203], § 1, Dec. 4, 2012, [126 Stat. 1484][/us/stat/126/1484].)
 
  __Amendment of Section__ 
 
@@ -61,31 +61,31 @@
 
     The Privacy Act of 1974, referred to in subsec. (b), is [Pub. L. 93–579][/us/pl/93/579], Dec. 31, 1974, [88 Stat. 1896][/us/stat/88/1896], which enacted [section 552a of Title 5][/us/usc/t5/s552a], Government Organization and Employees, and provisions set out as notes under [section 552a of Title 5][/us/usc/t5/s552a].
 
-    [Section 3401(6) of this title][/us/usc/t12/s3401/6], referred to in subsec. (e), was redesignated [section 3401(7) of this title][/us/usc/t12/s3401/7] by [Pub. L. 101–73, title IX, § 941(1)][/us/pl/101/73/s941/1], Aug. 9, 1989, [103 Stat. 496][/us/stat/103/496].
+    [Section 3401(6) of this title][/us/usc/t12/s3401/6], referred to in subsec. (e), was redesignated [section 3401(7) of this title][/us/usc/t12/s3401/7] by [Pub. L. 101–73, title IX][/us/pl/101/73/tIX], § 941(1), Aug. 9, 1989, [103 Stat. 496][/us/stat/103/496].
 
  __Amendments__ 
 
-    2012—Subsec. (e). [Pub. L. 112–203, § 1][/us/pl/112/203/s1], amended [Pub. L. 109–455, § 13][/us/pl/109/455/s13]. See 2006 Amendment note below.
+    2012—Subsec. (e). [Pub. L. 112–203][/us/pl/112/203], § 1, amended [Pub. L. 109–455][/us/pl/109/455], § 13. See 2006 Amendment note below.
 
     2010—Subsec. (e). [Pub. L. 111–203][/us/pl/111/203] substituted “the Commodity Futures Trading Commission, and the Bureau of Consumer Financial Protection is permitted” for “and the Commodity Futures Trading Commission is permitted”.
 
-    2006—Subsec. (e). [Pub. L. 109–455, § 10][/us/pl/109/455/s10], which inserted “the Federal Trade Commission,” after “the Securities and Exchange Commission,”, was repealed by [Pub. L. 109–455, § 13][/us/pl/109/455/s13], as amended by [Pub. L. 112–203, § 1][/us/pl/112/203/s1]. See Termination Date of 2006 Amendment note below.
+    2006—Subsec. (e). [Pub. L. 109–455][/us/pl/109/455], § 10, which inserted “the Federal Trade Commission,” after “the Securities and Exchange Commission,”, was repealed by [Pub. L. 109–455][/us/pl/109/455], § 13, as amended by [Pub. L. 112–203][/us/pl/112/203], § 1. See Termination Date of 2006 Amendment note below.
 
     2001—Subsec. (a). [Pub. L. 107–56][/us/pl/107/56] inserted “, or intelligence or counterintelligence activity, investigation or analysis related to international terrorism” after “legitimate law enforcement inquiry”.
 
     1999—Subsec. (e). [Pub. L. 106–102][/us/pl/106/102] inserted “, examination reports” after “financial records” and substituted “provision of law,” for “provision of this chapter,” and “, the Securities and Exchange Commission, and the Commodity Futures Trading Commission” for “and the Securities and Exchange Commission”.
 
-    1992—Subsec. (f)(1). [Pub. L. 102–550, § 1516(1)][/us/pl/102/550/s1516/1], inserted “or the Secretary of the Treasury” after “the Attorney General”.
+    1992—Subsec. (f)(1). [Pub. L. 102–550][/us/pl/102/550], § 1516(1), inserted “or the Secretary of the Treasury” after “the Attorney General”.
 
-    Subsec. (f)(2). [Pub. L. 102–550, § 1606(b)][/us/pl/102/550/s1606/b], inserted a comma before “for civil actions” and made technical amendment to reference to sections 981 or 982 of title 18.
+    Subsec. (f)(2). [Pub. L. 102–550][/us/pl/102/550], § 1606(b), inserted a comma before “for civil actions” and made technical amendment to reference to sections 981 or 982 of title 18.
 
-    [Pub. L. 102–550, § 1516(2)][/us/pl/102/550/s1516/2], inserted “and only for criminal investigative purposes relating to money laundering and other financial crimes by the Department of the Treasury” after “the Department of Justice”.
+    [Pub. L. 102–550][/us/pl/102/550], § 1516(2), inserted “and only for criminal investigative purposes relating to money laundering and other financial crimes by the Department of the Treasury” after “the Department of Justice”.
 
     1991—Subsec. (f)(2). [Pub. L. 102–242][/us/pl/102/242] inserted “for civil actions under [section 1833a of this title][/us/usc/t12/s1833a], or for forfeiture under sections 981 or 982 of title 18” after “or prosecutive purposes” and inserted at end “No agency or department so transferring such records shall be deemed to have waived any privilege applicable to those records under law.”
 
-    1989—Subsec. (e). [Pub. L. 101–73, § 944(1)][/us/pl/101/73/s944/1], which directed the insertion of “, holding company, or any subsidiary of a depository institution or holding company,” after “with respect to a depository institution”, was executed by making the insertion after “with respect to a financial institution”, as the probable intent of Congress.
+    1989—Subsec. (e). [Pub. L. 101–73][/us/pl/101/73], § 944(1), which directed the insertion of “, holding company, or any subsidiary of a depository institution or holding company,” after “with respect to a depository institution”, was executed by making the insertion after “with respect to a financial institution”, as the probable intent of Congress.
 
-    [Pub. L. 101–73, § 944(2)][/us/pl/101/73/s944/2], substituted “Council and the Securities and Exchange Commission” for “Council”.
+    [Pub. L. 101–73][/us/pl/101/73], § 944(2), substituted “Council and the Securities and Exchange Commission” for “Council”.
 
     1988—Subsec. (f). [Pub. L. 100–690][/us/pl/100/690] added subsec. (f).
 
@@ -118,27 +118,27 @@
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
 [/us/usc/t12/s3409/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3409%2Fb
 [/us/usc/t12/s1833a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1833a
-[/us/pl/95/630/s1112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs1112
+[/us/pl/95/630/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtXI
 [/us/stat/92/3705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3705
-[/us/pl/97/320/s432/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs432%2Fa
+[/us/pl/97/320/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2FtIV
 [/us/stat/96/1527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1527
-[/us/pl/100/690/s6186/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6186%2Fb
+[/us/pl/100/690/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVI
 [/us/stat/102/4357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4357
-[/us/pl/101/73/s944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs944
+[/us/pl/101/73/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtIX
 [/us/stat/103/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F498
-[/us/pl/102/242/s411/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs411%2F1
+[/us/pl/102/242/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtIV
 [/us/stat/105/2375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2375
-[/us/pl/102/550/s1516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1516
+[/us/pl/102/550/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXV
 [/us/stat/106/4059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4059
-[/us/pl/106/102/s231/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs231%2Fb%2F2
+[/us/pl/106/102/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtII
 [/us/stat/113/1407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1407
-[/us/pl/107/56/s358/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs358%2Ff%2F1
+[/us/pl/107/56/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtIII
 [/us/stat/115/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F327
 [/us/pl/109/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F455
 [/us/stat/120/3381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3381
-[/us/pl/111/203/s1099/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1099%2F2
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2105
-[/us/pl/112/203/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F203%2Fs1
+[/us/pl/112/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F203
 [/us/stat/126/1484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1484
 [/us/pl/109/455/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F455%2Fs13
 [/us/pl/95/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630
@@ -150,23 +150,23 @@
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
 [/us/usc/t12/s3401/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3401%2F6
 [/us/usc/t12/s3401/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3401%2F7
-[/us/pl/101/73/s941/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs941%2F1
+[/us/pl/101/73/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtIX
 [/us/stat/103/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F496
-[/us/pl/112/203/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F203%2Fs1
-[/us/pl/109/455/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F455%2Fs13
+[/us/pl/112/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F203
+[/us/pl/109/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F455
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
-[/us/pl/109/455/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F455%2Fs10
-[/us/pl/109/455/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F455%2Fs13
-[/us/pl/112/203/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F203%2Fs1
+[/us/pl/109/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F455
+[/us/pl/109/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F455
+[/us/pl/112/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F203
 [/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
 [/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102
-[/us/pl/102/550/s1516/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1516%2F1
-[/us/pl/102/550/s1606/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1606%2Fb
-[/us/pl/102/550/s1516/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1516%2F2
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
 [/us/usc/t12/s1833a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1833a
-[/us/pl/101/73/s944/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs944%2F1
-[/us/pl/101/73/s944/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs944%2F2
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/pl/97/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203

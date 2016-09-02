@@ -47,19 +47,19 @@
 
         For purposes of this section, any directive issued under section 2154(b)(2), 2154a(e), or 2202a(i) of this title shall be treated as an order that has become final and was issued under [section 2261 of this title][/us/usc/t12/s2261].
 
-([Pub. L. 92–181, title V, § 5][/us/pl/92/181/s5].32, as added [Pub. L. 99–205, title II, § 204][/us/pl/99/205/s204], Dec. 23, 1985, [99 Stat. 1700][/us/stat/99/1700]; amended [Pub. L. 100–233, title IV, § 423][/us/pl/100/233/s423], title VIII, §§ 804(a)(2), 805(dd), Jan. 6, 1988, [101 Stat. 1656][/us/stat/101/1656], 1714, 1717.)
+([Pub. L. 92–181, title V][/us/pl/92/181/tV], § 5.32, as added [Pub. L. 99–205, title II][/us/pl/99/205/tII], § 204, Dec. 23, 1985, [99 Stat. 1700][/us/stat/99/1700]; amended [Pub. L. 100–233, title IV][/us/pl/100/233/tIV], § 423, title VIII, §§ 804(a)(2), 805(dd), Jan. 6, 1988, [101 Stat. 1656][/us/stat/101/1656], 1714, 1717.)
 
  __Amendments__ 
 
-    1988—Subsec. (a). [Pub. L. 100–233, § 423(a)][/us/pl/100/233/s423/a], substituted “continues. Any such institution or person who violates any provision of this chapter or any regulation issued under this chapter shall forfeit and pay a civil penalty of not more than $500 per day for each day during which such violation continues. Notwithstanding the preceding sentences,” for “continues, but”.
+    1988—Subsec. (a). [Pub. L. 100–233][/us/pl/100/233], § 423(a), substituted “continues. Any such institution or person who violates any provision of this chapter or any regulation issued under this chapter shall forfeit and pay a civil penalty of not more than $500 per day for each day during which such violation continues. Notwithstanding the preceding sentences,” for “continues, but”.
 
-    Subsec. (b). [Pub. L. 100–233, § 423(b)][/us/pl/100/233/s423/b], inserted “Before determining whether to assess a civil money penalty and determining the amount of such penalty, the Farm Credit Administration shall notify the institution or person to be assessed of the violation or violations alleged to have occurred or to be occurring, and shall solicit the views of the institution or person regarding the imposition of such penalty.”
+    Subsec. (b). [Pub. L. 100–233][/us/pl/100/233], § 423(b), inserted “Before determining whether to assess a civil money penalty and determining the amount of such penalty, the Farm Credit Administration shall notify the institution or person to be assessed of the violation or violations alleged to have occurred or to be occurring, and shall solicit the views of the institution or person regarding the imposition of such penalty.”
 
-    Subsec. (d). [Pub. L. 100–233, § 423(c)][/us/pl/100/233/s423/c], substituted “Final orders of the Farm Credit Administration issued under subsection (c) shall be reviewable under chapter 7 of title 5” for “The findings of the Farm Credit Administration shall be set aside if found to be unsupported by substantial evidence as provided by [section 706(2)(E) of title 5][/us/usc/t5/s706/2/E]”.
+    Subsec. (d). [Pub. L. 100–233][/us/pl/100/233], § 423(c), substituted “Final orders of the Farm Credit Administration issued under subsection (c) shall be reviewable under chapter 7 of title 5” for “The findings of the Farm Credit Administration shall be set aside if found to be unsupported by substantial evidence as provided by [section 706(2)(E) of title 5][/us/usc/t5/s706/2/E]”.
 
-    Subsec. (f). [Pub. L. 100–233, § 805(dd)][/us/pl/100/233/s805/dd], substituted “[section 2267 of this title][/us/usc/t12/s2267] and this section” for “sections 2267 and 2268 of this title”.
+    Subsec. (f). [Pub. L. 100–233][/us/pl/100/233], § 805(dd), substituted “[section 2267 of this title][/us/usc/t12/s2267] and this section” for “sections 2267 and 2268 of this title”.
 
-    Subsec. (h). [Pub. L. 100–233, § 804(a)(2)][/us/pl/100/233/s804/a/2], added subsec. (h).
+    Subsec. (h). [Pub. L. 100–233][/us/pl/100/233], § 804(a)(2), added subsec. (h).
 
  __Effective Date__ 
 
@@ -76,18 +76,18 @@
 [/us/usc/t28/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2112
 [/us/usc/t12/s2267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2267
 [/us/usc/t12/s2261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2261
-[/us/pl/92/181/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs5
-[/us/pl/99/205/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2Fs204
+[/us/pl/92/181/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtV
+[/us/pl/99/205/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2FtII
 [/us/stat/99/1700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1700
-[/us/pl/100/233/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs423
+[/us/pl/100/233/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtIV
 [/us/stat/101/1656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1656
-[/us/pl/100/233/s423/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs423%2Fa
-[/us/pl/100/233/s423/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs423%2Fb
-[/us/pl/100/233/s423/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs423%2Fc
+[/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
+[/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
+[/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
 [/us/usc/t5/s706/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs706%2F2%2FE
-[/us/pl/100/233/s805/dd]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs805%2Fdd
+[/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
 [/us/usc/t12/s2267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2267
-[/us/pl/100/233/s804/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs804%2Fa%2F2
+[/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
 [/us/pl/99/205/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2Fs401
 [/us/usc/t12/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2001
 

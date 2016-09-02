@@ -17,7 +17,7 @@
 
     At the first meeting of the full board of directors of each Federal reserve bank, it shall be the duty of the directors of classes A, B, and C, respectively, to designate one of the members of each class whose term of office shall expire in one year from the 1st of January nearest to date of such meeting, one whose term of office shall expire at the end of two years from said date, and one whose term of office shall expire at the end of three years from said date. Thereafter every director of a Federal reserve bank chosen as hereinbefore provided shall hold office for a term of three years. Vacancies that may occur in the several classes of directors of Federal reserve banks may be filled in the manner provided for the original selection of such directors, such appointees to hold office for the unexpired terms of their predecessors.
 
-([Dec. 23, 1913, ch. 6, § 4][/us/act/1913-12-23/ch6/s4] (par.), [38 Stat. 257][/us/stat/38/257].)
+([Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 4 (par.), [38 Stat. 257][/us/stat/38/257].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1913-12-23/ch6/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs4
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
 [/us/stat/38/257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F257
 [/us/usc/t12/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs301
 

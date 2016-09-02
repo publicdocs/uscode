@@ -33,7 +33,7 @@
 
         Each plan of merger or transfer of lending authority may include a proposed new or revised Federal charter for the merged or transferee entity. The Farm Credit Administration Board shall issue such charter on the approval of the plan, as prescribed in this subchapter, unless the Board determines that the charter submitted is not consistent with this chapter.
 
-([Pub. L. 92–181, title VII, § 7][/us/pl/92/181/s7].11, as added [Pub. L. 100–233, title IV, § 416][/us/pl/100/233/s416], Jan. 6, 1988, [101 Stat. 1651][/us/stat/101/1651]; amended [Pub. L. 100–399, title IV, § 408(p)][/us/pl/100/399/s408/p], Aug. 17, 1988, [102 Stat. 1002][/us/stat/102/1002]; [Pub. L. 102–237, title V, § 502(n)][/us/pl/102/237/s502/n], Dec. 13, 1991, [105 Stat. 1870][/us/stat/105/1870].)
+([Pub. L. 92–181, title VII][/us/pl/92/181/tVII], § 7.11, as added [Pub. L. 100–233, title IV][/us/pl/100/233/tIV], § 416, Jan. 6, 1988, [101 Stat. 1651][/us/stat/101/1651]; amended [Pub. L. 100–399, title IV][/us/pl/100/399/tIV], § 408(p), Aug. 17, 1988, [102 Stat. 1002][/us/stat/102/1002]; [Pub. L. 102–237, title V][/us/pl/102/237/tV], § 502(n), Dec. 13, 1991, [105 Stat. 1870][/us/stat/105/1870].)
 
  __Amendments__ 
 
@@ -52,12 +52,12 @@
 ----------
 ----------
 
-[/us/pl/92/181/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs7
-[/us/pl/100/233/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs416
+[/us/pl/92/181/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtVII
+[/us/pl/100/233/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtIV
 [/us/stat/101/1651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1651
-[/us/pl/100/399/s408/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs408%2Fp
+[/us/pl/100/399/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtIV
 [/us/stat/102/1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1002
-[/us/pl/102/237/s502/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs502%2Fn
+[/us/pl/102/237/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtV
 [/us/stat/105/1870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1870
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 [/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399

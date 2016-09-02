@@ -77,7 +77,7 @@
 
         The Corporation may prescribe by its Board of Directors such rules and regulations as it considers necessary to carry out this part and [section 2020(b) of this title][/us/usc/t12/s2020/b] (except to the extent that authority to issue such rules and regulations has been expressly and exclusively granted to any other regulatory agency).
 
-([Pub. L. 92–181, title V, § 5][/us/pl/92/181/s5].58, as added [Pub. L. 100–233, title III, § 302][/us/pl/100/233/s302], Jan. 6, 1988, [101 Stat. 1614][/us/stat/101/1614]; amended [Pub. L. 100–399, title III, § 302(i)][/us/pl/100/399/s302/i], Aug. 17, 1988, [102 Stat. 994][/us/stat/102/994]; [Pub. L. 102–237, title V, § 502(j)][/us/pl/102/237/s502/j], Dec. 13, 1991, [105 Stat. 1869][/us/stat/105/1869]; [Pub. L. 102–552, title II, § 202(a)][/us/pl/102/552/s202/a], Oct. 28, 1992, [106 Stat. 4105][/us/stat/106/4105]; [Pub. L. 104–105, title II, § 214(b)][/us/pl/104/105/s214/b], Feb. 10, 1996, [110 Stat. 175][/us/stat/110/175]; [Pub. L. 110–234, title V, § 5401(b)][/us/pl/110/234/s5401/b], May 22, 2008, [122 Stat. 1154][/us/stat/122/1154]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title V, § 5401(b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1915.)
+([Pub. L. 92–181, title V][/us/pl/92/181/tV], § 5.58, as added [Pub. L. 100–233, title III][/us/pl/100/233/tIII], § 302, Jan. 6, 1988, [101 Stat. 1614][/us/stat/101/1614]; amended [Pub. L. 100–399, title III][/us/pl/100/399/tIII], § 302(i), Aug. 17, 1988, [102 Stat. 994][/us/stat/102/994]; [Pub. L. 102–237, title V][/us/pl/102/237/tV], § 502(j), Dec. 13, 1991, [105 Stat. 1869][/us/stat/105/1869]; [Pub. L. 102–552, title II][/us/pl/102/552/tII], § 202(a), Oct. 28, 1992, [106 Stat. 4105][/us/stat/106/4105]; [Pub. L. 104–105, title II][/us/pl/104/105/tII], § 214(b), Feb. 10, 1996, [110 Stat. 175][/us/stat/110/175]; [Pub. L. 110–234, title V][/us/pl/110/234/tV], § 5401(b), May 22, 2008, [122 Stat. 1154][/us/stat/122/1154]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title V, § 5401(b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1915.)
 
  __Codification__ 
 
@@ -85,7 +85,7 @@
 
  __Amendments__ 
 
-    2008—Par. (10). [Pub. L. 110–246, § 5401(b)][/us/pl/110/246/s5401/b], inserted “and [section 2020(b) of this title][/us/usc/t12/s2020/b]” after “this part”.
+    2008—Par. (10). [Pub. L. 110–246][/us/pl/110/246], § 5401(b), inserted “and [section 2020(b) of this title][/us/usc/t12/s2020/b]” after “this part”.
 
     1996—Par. (9). [Pub. L. 104–105][/us/pl/104/105] added par. (9) and struck out heading and text of former par. (9). Text read as follows: “The Corporation may act as receiver.”
 
@@ -112,26 +112,26 @@
 
 [/us/usc/t12/s2278a–12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2278a%E2%80%9312
 [/us/usc/t12/s2020/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2020%2Fb
-[/us/pl/92/181/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs5
-[/us/pl/100/233/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs302
+[/us/pl/92/181/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtV
+[/us/pl/100/233/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtIII
 [/us/stat/101/1614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1614
-[/us/pl/100/399/s302/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs302%2Fi
+[/us/pl/100/399/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtIII
 [/us/stat/102/994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F994
-[/us/pl/102/237/s502/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs502%2Fj
+[/us/pl/102/237/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtV
 [/us/stat/105/1869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1869
-[/us/pl/102/552/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2Fs202%2Fa
+[/us/pl/102/552/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2FtII
 [/us/stat/106/4105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4105
-[/us/pl/104/105/s214/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2Fs214%2Fb
+[/us/pl/104/105/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2FtII
 [/us/stat/110/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F175
-[/us/pl/110/234/s5401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs5401%2Fb
+[/us/pl/110/234/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtV
 [/us/stat/122/1154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1154
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s5401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs5401%2Fb
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/usc/t12/s2020/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2020%2Fb
 [/us/pl/104/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105
 [/us/pl/102/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552

@@ -281,7 +281,7 @@
 
             If the number of units described in subparagraph (A)(i) exceeds the number of extremely low- and very low-income households as described in subparagraph (A)(ii), there is no shortage.
 
-([Pub. L. 102–550, title XIII, § 1303][/us/pl/102/550/s1303], Oct. 28, 1992, [106 Stat. 3942][/us/stat/106/3942]; [Pub. L. 110–289, div. A, § 1002(a)][/us/pl/110/289/s1002/a], title I, § 1128(d), July 30, 2008, [122 Stat. 2659][/us/stat/122/2659], 2702.)
+([Pub. L. 102–550, title XIII][/us/pl/102/550/tXIII], § 1303, Oct. 28, 1992, [106 Stat. 3942][/us/stat/106/3942]; [Pub. L. 110–289, div. A][/us/pl/110/289/dA], § 1002(a), title I, § 1128(d), July 30, 2008, [122 Stat. 2659][/us/stat/122/2659], 2702.)
 
  __References in Text__ 
 
@@ -295,13 +295,13 @@
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–289, § 1002(a)(2)][/us/pl/110/289/s1002/a/2]–(14), added pars. (2) to (4), (8), (11), (13), (19), (20), and (25), redesignated former pars. (2) to (12) and (16) to (19) as (5) to (7), (9), (10), (12), (14) to (18), and (21) to (24), respectively, substituted “Federal Housing Finance Agency” for “Office of Federal Housing Enterprise Oversight of the Department of Housing and Urban Development” in par. (9), and struck out former pars. (13) to (15) which defined the terms “new program”, “Office”, and “Secretary”, respectively.
+    2008—[Pub. L. 110–289][/us/pl/110/289], § 1002(a)(2)–(14), added pars. (2) to (4), (8), (11), (13), (19), (20), and (25), redesignated former pars. (2) to (12) and (16) to (19) as (5) to (7), (9), (10), (12), (14) to (18), and (21) to (24), respectively, substituted “Federal Housing Finance Agency” for “Office of Federal Housing Enterprise Oversight of the Department of Housing and Urban Development” in par. (9), and struck out former pars. (13) to (15) which defined the terms “new program”, “Office”, and “Secretary”, respectively.
 
-    Pars. (8)(B), (9), (10)(B), (19)(B). [Pub. L. 110–289, § 1002(a)(1)][/us/pl/110/289/s1002/a/1], substituted “Director” for “Secretary”.
+    Pars. (8)(B), (9), (10)(B), (19)(B). [Pub. L. 110–289][/us/pl/110/289], § 1002(a)(1), substituted “Director” for “Secretary”.
 
-    Par. (24). [Pub. L. 110–289, § 1128(d)(1)][/us/pl/110/289/s1128/d/1], added par. (24) and struck out former par. (24) which defined the term “very low-income”.
+    Par. (24). [Pub. L. 110–289][/us/pl/110/289], § 1128(d)(1), added par. (24) and struck out former par. (24) which defined the term “very low-income”.
 
-    Pars. (26) to (31). [Pub. L. 110–289, § 1128(d)(2)][/us/pl/110/289/s1128/d/2], added pars. (26) to (31).
+    Pars. (26) to (31). [Pub. L. 110–289][/us/pl/110/289], § 1128(d)(2), added pars. (26) to (31).
 
  __Termination of Trust Territory of the Pacific Islands__ 
 
@@ -321,9 +321,9 @@
 [/us/usc/t12/s1717/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1717%2Fb%2F2
 [/us/usc/t12/s1454/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1454%2Fa%2F2
 [/us/usc/t12/s4562/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4562%2Fa%2F1%2FB
-[/us/pl/102/550/s1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1303
+[/us/pl/102/550/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIII
 [/us/stat/106/3942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3942
-[/us/pl/110/289/s1002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1002%2Fa
+[/us/pl/110/289/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA
 [/us/stat/122/2659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2659
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/stat/106/3941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3941
@@ -337,10 +337,10 @@
 [/us/act/1932-07-22/ch522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-07-22%2Fch522
 [/us/stat/47/725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F725
 [/us/usc/t12/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1421
-[/us/pl/110/289/s1002/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1002%2Fa%2F2
-[/us/pl/110/289/s1002/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1002%2Fa%2F1
-[/us/pl/110/289/s1128/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1128%2Fd%2F1
-[/us/pl/110/289/s1128/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1128%2Fd%2F2
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
 
 

@@ -17,7 +17,7 @@
 
     Except as provided in the Securities Exchange Act of 1934 \[[15 U.S.C. 78a][/us/usc/t15/s78a] et seq.\], this chapter shall apply with respect to the Securities and Exchange Commission.
 
-([Pub. L. 95–630, title XI, § 1122][/us/pl/95/630/s1122], Nov. 10, 1978, [92 Stat. 3710][/us/stat/92/3710]; [Pub. L. 96–433, § 2][/us/pl/96/433/s2], Oct. 10, 1980, [94 Stat. 1855][/us/stat/94/1855].)
+([Pub. L. 95–630, title XI][/us/pl/95/630/tXI], § 1122, Nov. 10, 1978, [92 Stat. 3710][/us/stat/92/3710]; [Pub. L. 96–433][/us/pl/96/433], § 2, Oct. 10, 1980, [94 Stat. 1855][/us/stat/94/1855].)
 
  __References in Text__ 
 
@@ -39,9 +39,9 @@
 ----------
 
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
-[/us/pl/95/630/s1122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs1122
+[/us/pl/95/630/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtXI
 [/us/stat/92/3710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3710
-[/us/pl/96/433/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F433%2Fs2
+[/us/pl/96/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F433
 [/us/stat/94/1855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1855
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
 [/us/stat/48/881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F881

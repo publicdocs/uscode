@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of this chapter and with respect to any loan or mortgage heretofore or hereafter insured under this chapter, except under [section 1703 of this title][/us/usc/t12/s1703] and except as specified under [section 1715z–15 of this title][/us/usc/t12/s1715z–15] and subtitle B of the Emergency Low Income Housing Preservation Act of 1987,, <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  the Secretary is authorized to terminate any insurance contract upon request by the borrower or mortgagor and the financial institution or mortgagee and upon payment of such termination charge as the Secretary determines to be equitable, taking into consideration the necessity of protecting the various insurance Funds. Upon such termination, borrowers and mortgagors and financial institutions and mortgagees shall be entitled to the rights, if any, to which they would be entitled under this chapter if the insurance contract were terminated by payment in full of the insured loan or mortgage.
 
-([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title II, § 229, as added [Pub. L. 86–372, title I, § 113][/us/pl/86/372/s113], Sept. 23, 1959, [73 Stat. 662][/us/stat/73/662]; amended [Pub. L. 87–70, title VI, § 612][/us/pl/87/70/s612](l), June 30, 1961, [75 Stat. 183][/us/stat/75/183]; [Pub. L. 89–117, title XI, § 1108(k)][/us/pl/89/117/s1108/k], Aug. 10, 1965, [79 Stat. 505][/us/stat/79/505]; [Pub. L. 90–19, § 1(a)(3)][/us/pl/90/19/s1/a/3], May 25, 1967, [81 Stat. 17][/us/stat/81/17]; [Pub. L. 101–235, title II, § 202(d)(2)][/us/pl/101/235/s202/d/2], Dec. 15, 1989, [103 Stat. 2037][/us/stat/103/2037].)
+([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title II, § 229, as added [Pub. L. 86–372, title I][/us/pl/86/372/tI], § 113, Sept. 23, 1959, [73 Stat. 662][/us/stat/73/662]; amended [Pub. L. 87–70, title VI][/us/pl/87/70/tVI], § 612(l), June 30, 1961, [75 Stat. 183][/us/stat/75/183]; [Pub. L. 89–117, title XI][/us/pl/89/117/tXI], § 1108(k), Aug. 10, 1965, [79 Stat. 505][/us/stat/79/505]; [Pub. L. 90–19][/us/pl/90/19], § 1(a)(3), May 25, 1967, [81 Stat. 17][/us/stat/81/17]; [Pub. L. 101–235, title II][/us/pl/101/235/tII], § 202(d)(2), Dec. 15, 1989, [103 Stat. 2037][/us/stat/103/2037].)
 
  __References in Text__ 
 
@@ -45,15 +45,15 @@
 [/us/usc/t12/s1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1703
 [/us/usc/t12/s1715z–15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715z%E2%80%9315
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
-[/us/pl/86/372/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F372%2Fs113
+[/us/pl/86/372/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F372%2FtI
 [/us/stat/73/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F662
-[/us/pl/87/70/s612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F70%2Fs612
+[/us/pl/87/70/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F70%2FtVI
 [/us/stat/75/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F183
-[/us/pl/89/117/s1108/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117%2Fs1108%2Fk
+[/us/pl/89/117/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117%2FtXI
 [/us/stat/79/505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F505
-[/us/pl/90/19/s1/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19%2Fs1%2Fa%2F3
+[/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
 [/us/stat/81/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F17
-[/us/pl/101/235/s202/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235%2Fs202%2Fd%2F2
+[/us/pl/101/235/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235%2FtII
 [/us/stat/103/2037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2037
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
 [/us/stat/48/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1246

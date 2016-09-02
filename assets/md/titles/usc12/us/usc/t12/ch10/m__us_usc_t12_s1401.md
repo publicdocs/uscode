@@ -17,7 +17,7 @@
 
     The Governor of the Farm Credit Administration is authorized to make advances or loans to individuals, under such regulations as he may prescribe, for the purpose of assisting in forming local agricultural-credit corporations, livestock-loan companies, or like organizations, or of increasing the capital stock of such corporations, companies, or organizations qualified to do business with Federal intermediate credit banks, or to which such privileges may be extended.
 
-([Mar. 3, 1932, ch. 70, § 1][/us/act/1932-03-03/ch70/s1], [47 Stat. 60][/us/stat/47/60]; Ex. Ord. No. 6084, Mar. 27, 1933.)
+([Mar. 3, 1932, ch. 70][/us/act/1932-03-03/ch70], § 1, [47 Stat. 60][/us/stat/47/60]; Ex. Ord. No. 6084, Mar. 27, 1933.)
 
  __Transfer of Functions__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/act/1932-03-03/ch70/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-03-03%2Fch70%2Fs1
+[/us/act/1932-03-03/ch70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-03-03%2Fch70
 [/us/stat/47/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F60
 [/us/usc/t12/s2241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2241
 

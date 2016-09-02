@@ -27,11 +27,11 @@
 
         The Secretary may make such delegations and accept such certifications with respect to the processing of mortgage relief payments provided under this section as he deems appropriate to facilitate the prompt and efficient implementation of the assistance authorized under this section.
 
-([Pub. L. 94–50, title I, § 106][/us/pl/94/50/s106], July 2, 1975, [89 Stat. 251][/us/stat/89/251].)
+([Pub. L. 94–50, title I][/us/pl/94/50/tI], § 106, July 2, 1975, [89 Stat. 251][/us/stat/89/251].)
 
  __References in Text__ 
 
-    [Section 2712 of this title][/us/usc/t12/s2712], referred to in subsec. (a), was repealed by [Pub. L. 111–203, title XIV, § 1496(b)(7)][/us/pl/111/203/s1496/b/7], July 21, 2010, [124 Stat. 2209][/us/stat/124/2209].
+    [Section 2712 of this title][/us/usc/t12/s2712], referred to in subsec. (a), was repealed by [Pub. L. 111–203, title XIV][/us/pl/111/203/tXIV], § 1496(b)(7), July 21, 2010, [124 Stat. 2209][/us/stat/124/2209].
 
 ----------
 
@@ -44,10 +44,10 @@
 [/us/usc/t12/s2704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2704
 [/us/usc/t12/s2702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2702
 [/us/usc/t12/s2703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2703
-[/us/pl/94/50/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F50%2Fs106
+[/us/pl/94/50/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F50%2FtI
 [/us/stat/89/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F251
 [/us/usc/t12/s2712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2712
-[/us/pl/111/203/s1496/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1496%2Fb%2F7
+[/us/pl/111/203/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtXIV
 [/us/stat/124/2209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2209
 
 

@@ -27,7 +27,7 @@
 
     (b) The Secretary shall report to Congress not later than thirty-six months after October 31, 1978, regarding (1) actions taken by State and local governments to adopt guidelines or their equivalents, and (2) recommendations for further action.
 
-([Pub. L. 91–609, title V, § 511][/us/pl/91/609/s511], as added [Pub. L. 95–557, title IX, § 903][/us/pl/95/557/s903], Oct. 31, 1978, [92 Stat. 2125][/us/stat/92/2125].)
+([Pub. L. 91–609, title V][/us/pl/91/609/tV], § 511, as added [Pub. L. 95–557, title IX][/us/pl/95/557/tIX], § 903, Oct. 31, 1978, [92 Stat. 2125][/us/stat/92/2125].)
 
  __Codification__ 
 
@@ -40,8 +40,8 @@
 ----------
 ----------
 
-[/us/pl/91/609/s511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F609%2Fs511
-[/us/pl/95/557/s903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2Fs903
+[/us/pl/91/609/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F609%2FtV
+[/us/pl/95/557/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2FtIX
 [/us/stat/92/2125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2125
 
 

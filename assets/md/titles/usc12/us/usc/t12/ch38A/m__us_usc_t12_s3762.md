@@ -61,7 +61,7 @@
 
             If the person to whom such surplus is to be paid cannot be located, or if the surplus available is insufficient to pay all claimants and the claimants cannot agree on the allocation of the surplus, or if any person claiming an interest in the mortgage proceeds does not agree that some or all of the sale proceeds should be paid to a claimant as provided in this section, that part of the sale proceeds in question may be deposited by the foreclosure commissioner with an appropriate official or court authorized under law to receive disputed funds in such circumstances. If a procedure for the deposit of disputed funds is not available, and the foreclosure commissioner files a bill of interpleader or is sued as a stakeholder to determine entitlement to such funds, the foreclosure commissioner’s necessary costs incurred in taking or defending such action shall be deductible from the disputed funds.
 
-([Pub. L. 103–327, title II][/us/pl/103/327], Sept. 28, 1994, [108 Stat. 2316][/us/stat/108/2316].)
+([Pub. L. 103–327, title II][/us/pl/103/327/tII], Sept. 28, 1994, [108 Stat. 2316][/us/stat/108/2316].)
 
  __Codification__ 
 
@@ -75,7 +75,7 @@
 ----------
 
 [/us/usc/t12/s3761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3761
-[/us/pl/103/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F327
+[/us/pl/103/327/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F327%2FtII
 [/us/stat/108/2316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2316
 [/us/pl/103/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F327
 

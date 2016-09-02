@@ -41,11 +41,11 @@
 
         Any depository institution which violates this section shall be fined $1,000 for each violation.
 
-([Pub. L. 93–100, § 2][/us/pl/93/100/s2], Aug. 16, 1973, [87 Stat. 342][/us/stat/87/342]; [Pub. L. 94–222, § 2][/us/pl/94/222/s2], Feb. 27, 1976, [90 Stat. 197][/us/stat/90/197]; [Pub. L. 95–630, title XIII, § 1301][/us/pl/95/630/s1301], Nov. 10, 1978, [92 Stat. 3712][/us/stat/92/3712]; [Pub. L. 96–161, title I, § 106][/us/pl/96/161/s106], Dec. 28, 1979, [93 Stat. 1235][/us/stat/93/1235]; [Pub. L. 96–221, title III, § 303][/us/pl/96/221/s303], Mar. 31, 1980, [94 Stat. 146][/us/stat/94/146]; [Pub. L. 97–320, title VII, § 706(a)][/us/pl/97/320/s706/a], Oct. 15, 1982, [96 Stat. 1540][/us/stat/96/1540]; [Pub. L. 100–86, title I, § 109][/us/pl/100/86/s109], Aug. 10, 1987, [101 Stat. 579][/us/stat/101/579].)
+([Pub. L. 93–100][/us/pl/93/100], § 2, Aug. 16, 1973, [87 Stat. 342][/us/stat/87/342]; [Pub. L. 94–222][/us/pl/94/222], § 2, Feb. 27, 1976, [90 Stat. 197][/us/stat/90/197]; [Pub. L. 95–630, title XIII][/us/pl/95/630/tXIII], § 1301, Nov. 10, 1978, [92 Stat. 3712][/us/stat/92/3712]; [Pub. L. 96–161, title I][/us/pl/96/161/tI], § 106, Dec. 28, 1979, [93 Stat. 1235][/us/stat/93/1235]; [Pub. L. 96–221, title III][/us/pl/96/221/tIII], § 303, Mar. 31, 1980, [94 Stat. 146][/us/stat/94/146]; [Pub. L. 97–320, title VII][/us/pl/97/320/tVII], § 706(a), Oct. 15, 1982, [96 Stat. 1540][/us/stat/96/1540]; [Pub. L. 100–86, title I][/us/pl/100/86/tI], § 109, Aug. 10, 1987, [101 Stat. 579][/us/stat/101/579].)
 
  __References in Text__ 
 
-    [Section 1724 of this title][/us/usc/t12/s1724], referred to in subsec. (b)(5), was repealed by [Pub. L. 101–73, title IV, § 407][/us/pl/101/73/s407], Aug. 9, 1989, [103 Stat. 363][/us/stat/103/363].
+    [Section 1724 of this title][/us/usc/t12/s1724], referred to in subsec. (b)(5), was repealed by [Pub. L. 101–73, title IV][/us/pl/101/73/tIV], § 407, Aug. 9, 1989, [103 Stat. 363][/us/stat/103/363].
 
  __Codification__ 
 
@@ -71,7 +71,7 @@
 
  __Effective Date of 1978__  __ Amendment__ 
 
-[Pub. L. 95–630, title XIII, § 1302][/us/pl/95/630/s1302], Nov. 10, 1978, [92 Stat. 3712][/us/stat/92/3712], provided that: 
+[Pub. L. 95–630, title XIII][/us/pl/95/630/tXIII], § 1302, Nov. 10, 1978, [92 Stat. 3712][/us/stat/92/3712], provided that: 
 
 > “This title \[amending this section\] shall take effect upon enactment \[Nov. 10, 1978\].”
 
@@ -90,22 +90,22 @@
 [/us/usc/t12/s1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813
 [/us/usc/t12/s1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813
 [/us/usc/t12/s1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813
-[/us/pl/93/100/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F100%2Fs2
+[/us/pl/93/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F100
 [/us/stat/87/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F342
-[/us/pl/94/222/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F222%2Fs2
+[/us/pl/94/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F222
 [/us/stat/90/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F197
-[/us/pl/95/630/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs1301
+[/us/pl/95/630/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtXIII
 [/us/stat/92/3712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3712
-[/us/pl/96/161/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F161%2Fs106
+[/us/pl/96/161/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F161%2FtI
 [/us/stat/93/1235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1235
-[/us/pl/96/221/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs303
+[/us/pl/96/221/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2FtIII
 [/us/stat/94/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F146
-[/us/pl/97/320/s706/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs706%2Fa
+[/us/pl/97/320/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2FtVII
 [/us/stat/96/1540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1540
-[/us/pl/100/86/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2Fs109
+[/us/pl/100/86/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2FtI
 [/us/stat/101/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F579
 [/us/usc/t12/s1724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1724
-[/us/pl/101/73/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs407
+[/us/pl/101/73/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtIV
 [/us/stat/103/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F363
 [/us/pl/100/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86
 [/us/pl/97/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320
@@ -116,7 +116,7 @@
 [/us/pl/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221
 [/us/pl/96/221/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs306
 [/us/usc/t12/s1464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1464
-[/us/pl/95/630/s1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs1302
+[/us/pl/95/630/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtXIII
 [/us/stat/92/3712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3712
 [/us/pl/93/100/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F100%2Fs8
 [/us/usc/t12/s1469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1469

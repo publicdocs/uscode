@@ -31,13 +31,13 @@
 
     (7) may sell at public or private sale to the highest responsible bidder, upon such terms and after such public advertisement as the Farm Credit Administration may deem in the public interest, any property, real or personal, or any interest therein, acquired by the United States on account of or as a result of any loans made from the revolving fund authorized by [section 1141d of this title][/us/usc/t12/s1141d]; may lease any such property, pending its sale, on such terms and for such period, not in excess of five years, as the Farm Credit Administration may deem in the public interest; and may incur and pay, from the said revolving fund, obligations and expenses for the operation, upkeep, maintenance, repair, disposition, insurance, and protection of any such property: Provided, That [section 6101 of title 41][/us/usc/t41/s6101] shall not be construed to apply to any purchase or service on account of such property.
 
-([June 15, 1929, ch. 24, § 4][/us/act/1929-06-15/ch24/s4], [46 Stat. 13][/us/stat/46/13]; Ex. Ord. No. 6084, Mar. 27, 1933; [Aug. 19, 1937, ch. 704, § 37][/us/act/1937-08-19/ch704/s37], [50 Stat. 717][/us/stat/50/717]; [Oct. 28, 1949, ch. 782][/us/act/1949-10-28/ch782], title XI, § 1106(a), [63 Stat. 972][/us/stat/63/972]; [Pub. L. 96–592, title V, § 510][/us/pl/96/592/s510], Dec. 24, 1980, [94 Stat. 3451][/us/stat/94/3451].)
+([June 15, 1929, ch. 24][/us/act/1929-06-15/ch24], § 4, [46 Stat. 13][/us/stat/46/13]; Ex. Ord. No. 6084, Mar. 27, 1933; [Aug. 19, 1937, ch. 704][/us/act/1937-08-19/ch704], § 37, [50 Stat. 717][/us/stat/50/717]; [Oct. 28, 1949, ch. 782][/us/act/1949-10-28/ch782], title XI, § 1106(a), [63 Stat. 972][/us/stat/63/972]; [Pub. L. 96–592, title V][/us/pl/96/592/tV], § 510, Dec. 24, 1980, [94 Stat. 3451][/us/stat/94/3451].)
 
  __Codification__ 
 
     In par. (5), “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Act of 1949” on authority of [section 7(b) of Pub. L. 89–554][/us/pl/89/554/s7/b], Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], section 1 of which enacted Title 5, Government Organization and Employees.
 
-    In par. (7), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 3709 of the Revised Statutes” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In par. (7), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 3709 of the Revised Statutes” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
     Section was formerly classified to [section 524 of Title 7][/us/usc/t7/s524], Agriculture.
 
@@ -63,7 +63,7 @@
 
  __Separability__ 
 
-[Act Aug. 19, 1937, ch. 704, § 40][/us/act/1937-08-19/ch704/s40], [50 Stat. 718][/us/stat/50/718], provided as follows:
+[Act Aug. 19, 1937, ch. 704][/us/act/1937-08-19/ch704], § 40, [50 Stat. 718][/us/stat/50/718], provided as follows:
 
 > “Sec. 40.
 
@@ -93,18 +93,18 @@
 [/us/usc/t12/s1141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1141
 [/us/usc/t12/s1141d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1141d
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
-[/us/act/1929-06-15/ch24/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-06-15%2Fch24%2Fs4
+[/us/act/1929-06-15/ch24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-06-15%2Fch24
 [/us/stat/46/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F13
-[/us/act/1937-08-19/ch704/s37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-19%2Fch704%2Fs37
+[/us/act/1937-08-19/ch704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-19%2Fch704
 [/us/stat/50/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F717
 [/us/act/1949-10-28/ch782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-28%2Fch782
 [/us/stat/63/972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F972
-[/us/pl/96/592/s510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592%2Fs510
+[/us/pl/96/592/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592%2FtV
 [/us/stat/94/3451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3451
 [/us/pl/89/554/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs7%2Fb
 [/us/stat/80/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F631
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/usc/t7/s524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs524
 [/us/pl/96/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592
@@ -112,7 +112,7 @@
 [/us/act/1949-10-28/ch782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-28%2Fch782
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F632
-[/us/act/1937-08-19/ch704/s40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-19%2Fch704%2Fs40
+[/us/act/1937-08-19/ch704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-19%2Fch704
 [/us/stat/50/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F718
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113

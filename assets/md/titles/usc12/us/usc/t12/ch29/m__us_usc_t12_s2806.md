@@ -33,11 +33,11 @@
 
         The Director of the Bureau of Consumer Financial Protection shall recommend to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives, such additional legislation as the Director of the Bureau of Consumer Financial Protection deems appropriate to carry out the purpose of this chapter.
 
-([Pub. L. 94–200, title III, § 307][/us/pl/94/200/s307], as added [Pub. L. 111–203, title X, § 1094(6)][/us/pl/111/203/s1094/6], July 21, 2010, [124 Stat. 2101][/us/stat/124/2101].)
+([Pub. L. 94–200, title III][/us/pl/94/200/tIII], § 307, as added [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1094(6), July 21, 2010, [124 Stat. 2101][/us/stat/124/2101].)
 
  __Prior Provisions__ 
 
-    A prior section 2806, [Pub. L. 94–200, title III, § 307][/us/pl/94/200/s307], Dec. 31, 1975, [89 Stat. 1127][/us/stat/89/1127]; [Pub. L. 100–628, title X, § 1087(c)][/us/pl/100/628/s1087/c], Nov. 7, 1988, [102 Stat. 3280][/us/stat/102/3280]; [Pub. L. 101–73, title VII, § 744(p)(3)][/us/pl/101/73/s744/p/3], Aug. 9, 1989, [103 Stat. 440][/us/stat/103/440], which related to research and improved methods; authorization of appropriations; recommendations to congressional committees, was repealed by [Pub. L. 111–203, title X, § 1094(6)][/us/pl/111/203/s1094/6], July 21, 2010, [124 Stat. 2101][/us/stat/124/2101].
+    A prior section 2806, [Pub. L. 94–200, title III][/us/pl/94/200/tIII], § 307, Dec. 31, 1975, [89 Stat. 1127][/us/stat/89/1127]; [Pub. L. 100–628, title X][/us/pl/100/628/tX], § 1087(c), Nov. 7, 1988, [102 Stat. 3280][/us/stat/102/3280]; [Pub. L. 101–73, title VII][/us/pl/101/73/tVII], § 744(p)(3), Aug. 9, 1989, [103 Stat. 440][/us/stat/103/440], which related to research and improved methods; authorization of appropriations; recommendations to congressional committees, was repealed by [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1094(6), July 21, 2010, [124 Stat. 2101][/us/stat/124/2101].
 
  __Effective Date__ 
 
@@ -50,16 +50,16 @@
 ----------
 ----------
 
-[/us/pl/94/200/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F200%2Fs307
-[/us/pl/111/203/s1094/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1094%2F6
+[/us/pl/94/200/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F200%2FtIII
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2101
-[/us/pl/94/200/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F200%2Fs307
+[/us/pl/94/200/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F200%2FtIII
 [/us/stat/89/1127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1127
-[/us/pl/100/628/s1087/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs1087%2Fc
+[/us/pl/100/628/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2FtX
 [/us/stat/102/3280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3280
-[/us/pl/101/73/s744/p/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs744%2Fp%2F3
+[/us/pl/101/73/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtVII
 [/us/stat/103/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F440
-[/us/pl/111/203/s1094/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1094%2F6
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2101
 [/us/pl/111/203/s1100H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100H
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a

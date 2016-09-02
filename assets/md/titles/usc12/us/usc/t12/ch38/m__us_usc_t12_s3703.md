@@ -17,7 +17,7 @@
 
     Multifamily mortgages held by the Secretary encumbering real estate located in any State may be foreclosed by the Secretary in accordance with this chapter, or pursuant to other foreclosure procedures available, at the option of the Secretary. If the Secretary forecloses on any such mortgage pursuant to such other foreclosure procedures available, the provisions of [section 3706(b) of this title][/us/usc/t12/s3706/b] may be applied at the discretion of the Secretary.
 
-([Pub. L. 97–35, title III, § 364][/us/pl/97/35/s364], Aug. 13, 1981, [95 Stat. 423][/us/stat/95/423]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title IV, § 471\], Nov. 30, 1983, [97 Stat. 1237][/us/stat/97/1237].)
+([Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 364, Aug. 13, 1981, [95 Stat. 423][/us/stat/95/423]; [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title IV, § 471\], Nov. 30, 1983, [97 Stat. 1237][/us/stat/97/1237].)
 
  __Amendments__ 
 
@@ -31,9 +31,9 @@
 ----------
 
 [/us/usc/t12/s3706/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3706%2Fb
-[/us/pl/97/35/s364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs364
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F423
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1237
 [/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
 [/us/usc/t12/s3706/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3706%2Fb

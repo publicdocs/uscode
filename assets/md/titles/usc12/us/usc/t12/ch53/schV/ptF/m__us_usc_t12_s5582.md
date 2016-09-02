@@ -51,7 +51,7 @@
 
             In no case may any date designated under this section be later than 18 months after July 21, 2010.
 
-([Pub. L. 111–203, title X, § 1062][/us/pl/111/203/s1062], July 21, 2010, [124 Stat. 2039][/us/stat/124/2039].)
+([Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1062, July 21, 2010, [124 Stat. 2039][/us/stat/124/2039].)
 
  __Definition of Designated Transfer Date__ 
 
@@ -69,7 +69,7 @@
 ----------
 
 [/us/usc/t12/s5581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5581
-[/us/pl/111/203/s1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1062
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2039
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1955

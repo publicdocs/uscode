@@ -23,7 +23,7 @@
 
         Any person submitting an application to a Federal banking agency may waive the applicability of subsection (a) with respect to such application at any time.
 
-([Pub. L. 103–325, title III, § 343][/us/pl/103/325/s343], Sept. 23, 1994, [108 Stat. 2238][/us/stat/108/2238].)
+([Pub. L. 103–325, title III][/us/pl/103/325/tIII], § 343, Sept. 23, 1994, [108 Stat. 2238][/us/stat/108/2238].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/103/325/s343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs343
+[/us/pl/103/325/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtIII
 [/us/stat/108/2238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2238
 
 

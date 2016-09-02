@@ -65,21 +65,21 @@
 
         In the case of violation or threatened violation of, or failure to obey, a temporary order issued pursuant to this section, the Director may bring an action in the United States District Court for the District of Columbia for an injunction to enforce such order. If the court finds any such violation, threatened violation, or failure to obey, the court shall issue such injunction.
 
-([Pub. L. 102–550, title XIII, § 1372][/us/pl/102/550/s1372], Oct. 28, 1992, [106 Stat. 3988][/us/stat/106/3988]; [Pub. L. 110–289, div. A, title I, § 1152][/us/pl/110/289/s1152], July 30, 2008, [122 Stat. 2769][/us/stat/122/2769].)
+([Pub. L. 102–550, title XIII][/us/pl/102/550/tXIII], § 1372, Oct. 28, 1992, [106 Stat. 3988][/us/stat/106/3988]; [Pub. L. 110–289, div. A, title I][/us/pl/110/289/dA/tI], § 1152, July 30, 2008, [122 Stat. 2769][/us/stat/122/2769].)
 
  __Amendments__ 
 
-    2008—Subsec. (a). [Pub. L. 110–289, § 1152(1)][/us/pl/110/289/s1152/1], added subsec. (a) and struck out former subsec. (a) which related to grounds for issuance and scope of temporary cease-and-desist orders.
+    2008—Subsec. (a). [Pub. L. 110–289][/us/pl/110/289], § 1152(1), added subsec. (a) and struck out former subsec. (a) which related to grounds for issuance and scope of temporary cease-and-desist orders.
 
-    Subsec. (b). [Pub. L. 110–289, § 1152(2)][/us/pl/110/289/s1152/2], substituted “director, or entity-affiliated party” for “or director” and “regulated entity” for “enterprise”.
+    Subsec. (b). [Pub. L. 110–289][/us/pl/110/289], § 1152(2), substituted “director, or entity-affiliated party” for “or director” and “regulated entity” for “enterprise”.
 
-    Subsec. (c). [Pub. L. 110–289, § 1152(3)][/us/pl/110/289/s1152/3], substituted “regulated entity” for “enterprise” wherever appearing.
+    Subsec. (c). [Pub. L. 110–289][/us/pl/110/289], § 1152(3), substituted “regulated entity” for “enterprise” wherever appearing.
 
-    Subsec. (d). [Pub. L. 110–289, § 1152(4)][/us/pl/110/289/s1152/4], substituted “A regulated entity” for “An enterprise” and “director, or entity-affiliated party” for “or director” in two places.
+    Subsec. (d). [Pub. L. 110–289][/us/pl/110/289], § 1152(4), substituted “A regulated entity” for “An enterprise” and “director, or entity-affiliated party” for “or director” in two places.
 
-    Subsec. (e). [Pub. L. 110–289, § 1152(5)(B)][/us/pl/110/289/s1152/5/B], which directed the striking of “or may, under the direction and control of the Attorney General, bring such action”, was executed by striking “or may, under the direction and control of the Attorney General, bring such an action” after “such order” to reflect the probable intent of Congress.
+    Subsec. (e). [Pub. L. 110–289][/us/pl/110/289], § 1152(5)(B), which directed the striking of “or may, under the direction and control of the Attorney General, bring such action”, was executed by striking “or may, under the direction and control of the Attorney General, bring such an action” after “such order” to reflect the probable intent of Congress.
 
-    [Pub. L. 110–289, § 1152(5)(A)][/us/pl/110/289/s1152/5/A], struck out “request the Attorney General of the United States to” after “Director may”.
+    [Pub. L. 110–289][/us/pl/110/289], § 1152(5)(A), struck out “request the Attorney General of the United States to” after “Director may”.
 
 ----------
 
@@ -92,15 +92,15 @@
 [/us/usc/t12/s4631/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4631%2Fd
 [/us/usc/t12/s4631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4631
 [/us/usc/t12/s4631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4631
-[/us/pl/102/550/s1372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1372
+[/us/pl/102/550/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIII
 [/us/stat/106/3988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3988
-[/us/pl/110/289/s1152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1152
+[/us/pl/110/289/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtI
 [/us/stat/122/2769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2769
-[/us/pl/110/289/s1152/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1152%2F1
-[/us/pl/110/289/s1152/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1152%2F2
-[/us/pl/110/289/s1152/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1152%2F3
-[/us/pl/110/289/s1152/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1152%2F4
-[/us/pl/110/289/s1152/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1152%2F5%2FB
-[/us/pl/110/289/s1152/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1152%2F5%2FA
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
 
 

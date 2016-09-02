@@ -17,7 +17,7 @@
 
     In accordance with regulations of the Farm Credit Administration, qualified lenders shall provide their borrowers, at the time of execution of loans, copies of all documents signed by the borrower and at any time thereafter, on a borrower’s request, copies of all documents signed or delivered by the borrower and at any time, on request, a copy of the institution’s articles of incorporation or charter and bylaws and copies of each appraisal of the borrower’s assets made or used by the qualified lender.
 
-([Pub. L. 92–181, title IV, § 4][/us/pl/92/181/s4].13A, as added [Pub. L. 99–205, title III, § 301(b)][/us/pl/99/205/s301/b], Dec. 23, 1985, [99 Stat. 1707][/us/stat/99/1707]; amended [Pub. L. 100–233, title I, § 104][/us/pl/100/233/s104], Jan. 6, 1988, [101 Stat. 1579][/us/stat/101/1579].)
+([Pub. L. 92–181, title IV][/us/pl/92/181/tIV], § 4.13A, as added [Pub. L. 99–205, title III][/us/pl/99/205/tIII], § 301(b), Dec. 23, 1985, [99 Stat. 1707][/us/stat/99/1707]; amended [Pub. L. 100–233, title I][/us/pl/100/233/tI], § 104, Jan. 6, 1988, [101 Stat. 1579][/us/stat/101/1579].)
 
  __Amendments__ 
 
@@ -34,10 +34,10 @@
 ----------
 ----------
 
-[/us/pl/92/181/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs4
-[/us/pl/99/205/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2Fs301%2Fb
+[/us/pl/92/181/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtIV
+[/us/pl/99/205/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2FtIII
 [/us/stat/99/1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1707
-[/us/pl/100/233/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs104
+[/us/pl/100/233/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtI
 [/us/stat/101/1579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1579
 [/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
 [/us/pl/99/205/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2Fs401

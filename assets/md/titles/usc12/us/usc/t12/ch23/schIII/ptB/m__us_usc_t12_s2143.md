@@ -17,7 +17,7 @@
 
     On a determination by the board of directors of the consolidated bank that the bank’s loan portfolio is concentrated in any one district or districts (according to the district boundaries in effect immediately prior to the effective date of the establishment of the bank under section 413 of the Agricultural Credit Act of 1987), the bank may consider the creation of regional service centers to accommodate such loan concentrations.
 
-([Pub. L. 92–181, title III, § 3][/us/pl/92/181/s3].22, as added [Pub. L. 100–233, title IV, § 415(2)][/us/pl/100/233/s415/2], Jan. 6, 1988, [101 Stat. 1643][/us/stat/101/1643]; amended [Pub. L. 100–399, title IV, § 407(e)][/us/pl/100/399/s407/e], Aug. 17, 1988, [102 Stat. 1000][/us/stat/102/1000].)
+([Pub. L. 92–181, title III][/us/pl/92/181/tIII], § 3.22, as added [Pub. L. 100–233, title IV][/us/pl/100/233/tIV], § 415(2), Jan. 6, 1988, [101 Stat. 1643][/us/stat/101/1643]; amended [Pub. L. 100–399, title IV][/us/pl/100/399/tIV], § 407(e), Aug. 17, 1988, [102 Stat. 1000][/us/stat/102/1000].)
 
  __References in Text__ 
 
@@ -38,10 +38,10 @@
 ----------
 ----------
 
-[/us/pl/92/181/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs3
-[/us/pl/100/233/s415/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs415%2F2
+[/us/pl/92/181/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtIII
+[/us/pl/100/233/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtIV
 [/us/stat/101/1643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1643
-[/us/pl/100/399/s407/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs407%2Fe
+[/us/pl/100/399/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtIV
 [/us/stat/102/1000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1000
 [/us/pl/100/233/s413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs413
 [/us/usc/t12/s2121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2121

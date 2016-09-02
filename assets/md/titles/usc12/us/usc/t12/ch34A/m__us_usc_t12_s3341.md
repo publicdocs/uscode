@@ -41,7 +41,7 @@
 
             Upon completing each of the studies referred to in paragraph (1), the Comptroller General shall submit a report on the Comptroller General’s findings and conclusions with respect to such study to the Federal financial institutions regulatory agencies, the Committee on Banking, Finance and Urban Affairs of the House of Representatives, and the Committee on Banking, Housing, and Urban Affairs of the Senate, together with such recommendations for legislative or administrative action as the Comptroller General determines to be appropriate.
 
-([Pub. L. 101–73, title XI, § 1112][/us/pl/101/73/s1112], Aug. 9, 1989, [103 Stat. 514][/us/stat/103/514]; [Pub. L. 102–550, title IX, § 954][/us/pl/102/550/s954], Oct. 28, 1992, [106 Stat. 3894][/us/stat/106/3894]; [Pub. L. 104–208, div. A, title II, § 2704(d)(15)(B)][/us/pl/104/208/s2704/d/15/B], Sept. 30, 1996, [110 Stat. 3009–495][/us/stat/110/3009-495]; [Pub. L. 104–316, title I, § 106(g)][/us/pl/104/316/s106/g], Oct. 19, 1996, [110 Stat. 3831][/us/stat/110/3831]; [Pub. L. 109–171, title II, § 2102(b)][/us/pl/109/171/s2102/b], Feb. 8, 2006, [120 Stat. 9][/us/stat/120/9]; [Pub. L. 109–173, § 9(g)(2)][/us/pl/109/173/s9/g/2], Feb. 15, 2006, [119 Stat. 3618][/us/stat/119/3618]; [Pub. L. 111–203, title XIV, § 1473(a)][/us/pl/111/203/s1473/a], July 21, 2010, [124 Stat. 2190][/us/stat/124/2190].)
+([Pub. L. 101–73, title XI][/us/pl/101/73/tXI], § 1112, Aug. 9, 1989, [103 Stat. 514][/us/stat/103/514]; [Pub. L. 102–550, title IX][/us/pl/102/550/tIX], § 954, Oct. 28, 1992, [106 Stat. 3894][/us/stat/106/3894]; [Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], § 2704(d)(15)(B), Sept. 30, 1996, [110 Stat. 3009–495][/us/stat/110/3009-495]; [Pub. L. 104–316, title I][/us/pl/104/316/tI], § 106(g), Oct. 19, 1996, [110 Stat. 3831][/us/stat/110/3831]; [Pub. L. 109–171, title II][/us/pl/109/171/tII], § 2102(b), Feb. 8, 2006, [120 Stat. 9][/us/stat/120/9]; [Pub. L. 109–173][/us/pl/109/173], § 9(g)(2), Feb. 15, 2006, [119 Stat. 3618][/us/stat/119/3618]; [Pub. L. 111–203, title XIV][/us/pl/111/203/tXIV], § 1473(a), July 21, 2010, [124 Stat. 2190][/us/stat/124/2190].)
 
  __Amendments__ 
 
@@ -49,13 +49,13 @@
 
     2006—Subsec. (c)(1)(B). [Pub. L. 109–173][/us/pl/109/173] substituted “Deposit Insurance Fund” for “Bank Insurance Fund, the Savings Association Insurance Fund,”.
 
-    [Pub. L. 109–171][/us/pl/109/171] repealed [Pub. L. 104–208, § 2704(d)(15)(B)][/us/pl/104/208/s2704/d/15/B]. See 1996 Amendment note below.
+    [Pub. L. 109–171][/us/pl/109/171] repealed [Pub. L. 104–208][/us/pl/104/208], § 2704(d)(15)(B). See 1996 Amendment note below.
 
-    1996—Subsec. (c)(1). [Pub. L. 104–316, § 106(g)(1)(A)][/us/pl/104/316/s106/g/1/A], (2), in heading substituted “GAO studies” for “Study required”, and in text substituted “The Comptroller General of the United States may conduct, under such conditions as the Comptroller General determines appropriate, studies” for “At the end of the 18-month period, and the end of the 36-month period, beginning on October 28, 1992, the Comptroller General of the United States shall conduct a study”.
+    1996—Subsec. (c)(1). [Pub. L. 104–316][/us/pl/104/316], § 106(g)(1)(A), (2), in heading substituted “GAO studies” for “Study required”, and in text substituted “The Comptroller General of the United States may conduct, under such conditions as the Comptroller General determines appropriate, studies” for “At the end of the 18-month period, and the end of the 36-month period, beginning on October 28, 1992, the Comptroller General of the United States shall conduct a study”.
 
-    Subsec. (c)(1)(B). [Pub. L. 104–208, § 2704(d)(15)(B)][/us/pl/104/208/s2704/d/15/B], which directed substitution of “Deposit Insurance Fund” for “Bank Insurance Fund, the Savings Association Insurance Fund,”, was repealed by [Pub. L. 109–171][/us/pl/109/171]. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
+    Subsec. (c)(1)(B). [Pub. L. 104–208][/us/pl/104/208], § 2704(d)(15)(B), which directed substitution of “Deposit Insurance Fund” for “Bank Insurance Fund, the Savings Association Insurance Fund,”, was repealed by [Pub. L. 109–171][/us/pl/109/171]. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
-    Subsec. (c)(2). [Pub. L. 104–316, § 106(g)(1)(B)][/us/pl/104/316/s106/g/1/B], substituted “referred to in” for “required under”.
+    Subsec. (c)(2). [Pub. L. 104–316][/us/pl/104/316], § 106(g)(1)(B), substituted “referred to in” for “required under”.
 
     1992—[Pub. L. 102–550][/us/pl/102/550] designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) and (c).
 
@@ -84,28 +84,28 @@
 ----------
 ----------
 
-[/us/pl/101/73/s1112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs1112
+[/us/pl/101/73/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtXI
 [/us/stat/103/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F514
-[/us/pl/102/550/s954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs954
+[/us/pl/102/550/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtIX
 [/us/stat/106/3894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3894
-[/us/pl/104/208/s2704/d/15/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2704%2Fd%2F15%2FB
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-495
-[/us/pl/104/316/s106/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs106%2Fg
+[/us/pl/104/316/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2FtI
 [/us/stat/110/3831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3831
-[/us/pl/109/171/s2102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs2102%2Fb
+[/us/pl/109/171/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2FtII
 [/us/stat/120/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F9
-[/us/pl/109/173/s9/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173%2Fs9%2Fg%2F2
+[/us/pl/109/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173
 [/us/stat/119/3618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3618
-[/us/pl/111/203/s1473/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1473%2Fa
+[/us/pl/111/203/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtXIV
 [/us/stat/124/2190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2190
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/109/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173
 [/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
-[/us/pl/104/208/s2704/d/15/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2704%2Fd%2F15%2FB
-[/us/pl/104/316/s106/g/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs106%2Fg%2F1%2FA
-[/us/pl/104/208/s2704/d/15/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2704%2Fd%2F15%2FB
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
-[/us/pl/104/316/s106/g/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs106%2Fg%2F1%2FB
+[/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21

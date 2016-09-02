@@ -65,33 +65,33 @@
 
         The Director may take, with respect to an undercapitalized regulated entity, any of the actions authorized to be taken under [section 4616 of this title][/us/usc/t12/s4616] with respect to a significantly undercapitalized regulated entity, if the Director determines that such actions are necessary to carry out the purpose of this subchapter.
 
-([Pub. L. 102–550, title XIII, § 1365][/us/pl/102/550/s1365], Oct. 28, 1992, [106 Stat. 3978][/us/stat/106/3978]; [Pub. L. 110–289, div. A, title I, § 1143][/us/pl/110/289/s1143], July 30, 2008, [122 Stat. 2732][/us/stat/122/2732].)
+([Pub. L. 102–550, title XIII][/us/pl/102/550/tXIII], § 1365, Oct. 28, 1992, [106 Stat. 3978][/us/stat/106/3978]; [Pub. L. 110–289, div. A, title I][/us/pl/110/289/dA/tI], § 1143, July 30, 2008, [122 Stat. 2732][/us/stat/122/2732].)
 
  __Amendments__ 
 
-    2008—Subsec. (a)(1). [Pub. L. 110–289, § 1143(4)(B)][/us/pl/110/289/s1143/4/B], added par. (1). Former par. (1) redesignated (2).
+    2008—Subsec. (a)(1). [Pub. L. 110–289][/us/pl/110/289], § 1143(4)(B), added par. (1). Former par. (1) redesignated (2).
 
-    [Pub. L. 110–289, § 1143(2)][/us/pl/110/289/s1143/2], substituted “A regulated entity” for “An enterprise”.
+    [Pub. L. 110–289][/us/pl/110/289], § 1143(2), substituted “A regulated entity” for “An enterprise”.
 
-    Subsec. (a)(2). [Pub. L. 110–289, § 1143(4)(A)][/us/pl/110/289/s1143/4/A], redesignated par. (1) as (2). Former par. (2) redesignated (3).
+    Subsec. (a)(2). [Pub. L. 110–289][/us/pl/110/289], § 1143(4)(A), redesignated par. (1) as (2). Former par. (2) redesignated (3).
 
-    [Pub. L. 110–289, § 1143(1)][/us/pl/110/289/s1143/1], (2), substituted “the regulated entity” for “the enterprise” and “A regulated entity” for “An enterprise”.
+    [Pub. L. 110–289][/us/pl/110/289], § 1143(1), (2), substituted “the regulated entity” for “the enterprise” and “A regulated entity” for “An enterprise”.
 
-    Subsec. (a)(3). [Pub. L. 110–289, § 1143(4)(A)][/us/pl/110/289/s1143/4/A], redesignated par. (2) as (3).
+    Subsec. (a)(3). [Pub. L. 110–289][/us/pl/110/289], § 1143(4)(A), redesignated par. (2) as (3).
 
-    Subsec. (a)(4), (5). [Pub. L. 110–289, § 1143(4)(C)][/us/pl/110/289/s1143/4/C], added pars. (4) and (5).
+    Subsec. (a)(4), (5). [Pub. L. 110–289][/us/pl/110/289], § 1143(4)(C), added pars. (4) and (5).
 
-    Subsec. (b). [Pub. L. 110–289, § 1143(5)(A)][/us/pl/110/289/s1143/5/A], (B), substituted “Reclassification” for “Discretionary reclassification” in heading and “shall” for “may” in introductory provisions.
+    Subsec. (b). [Pub. L. 110–289][/us/pl/110/289], § 1143(5)(A), (B), substituted “Reclassification” for “Discretionary reclassification” in heading and “shall” for “may” in introductory provisions.
 
-    [Pub. L. 110–289, § 1143(1)][/us/pl/110/289/s1143/1], (3), substituted “a regulated entity” for “an enterprise” and “the regulated entity” for “the enterprise” in introductory provisions.
+    [Pub. L. 110–289][/us/pl/110/289], § 1143(1), (3), substituted “a regulated entity” for “an enterprise” and “the regulated entity” for “the enterprise” in introductory provisions.
 
-    Subsec. (b)(1). [Pub. L. 110–289, § 1143(1)][/us/pl/110/289/s1143/1], substituted “the regulated entity” for “the enterprise” in two places.
+    Subsec. (b)(1). [Pub. L. 110–289][/us/pl/110/289], § 1143(1), substituted “the regulated entity” for “the enterprise” in two places.
 
-    Subsec. (b)(2). [Pub. L. 110–289, § 1143(5)(C)][/us/pl/110/289/s1143/5/C], struck out “make, in good faith, reasonable efforts necessary to” before “comply with” and inserted “in any material respect” before period at end.
+    Subsec. (b)(2). [Pub. L. 110–289][/us/pl/110/289], § 1143(5)(C), struck out “make, in good faith, reasonable efforts necessary to” before “comply with” and inserted “in any material respect” before period at end.
 
-    [Pub. L. 110–289, § 1143(1)][/us/pl/110/289/s1143/1], substituted “the regulated entity” for “the enterprise”.
+    [Pub. L. 110–289][/us/pl/110/289], § 1143(1), substituted “the regulated entity” for “the enterprise”.
 
-    Subsec. (c). [Pub. L. 110–289, § 1143(6)][/us/pl/110/289/s1143/6], added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “This section shall take effect upon the expiration of the 1-year period beginning on the date of the effectiveness of the regulations issued under [section 4611(e) of this title][/us/usc/t12/s4611/e] establishing the risk-based capital test.”
+    Subsec. (c). [Pub. L. 110–289][/us/pl/110/289], § 1143(6), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “This section shall take effect upon the expiration of the 1-year period beginning on the date of the effectiveness of the regulations issued under [section 4611(e) of this title][/us/usc/t12/s4611/e] establishing the risk-based capital test.”
 
 ----------
 
@@ -104,22 +104,22 @@
 [/us/usc/t12/s4616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4616
 [/us/usc/t12/s4622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4622
 [/us/usc/t12/s4616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4616
-[/us/pl/102/550/s1365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1365
+[/us/pl/102/550/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIII
 [/us/stat/106/3978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3978
-[/us/pl/110/289/s1143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1143
+[/us/pl/110/289/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtI
 [/us/stat/122/2732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2732
-[/us/pl/110/289/s1143/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1143%2F4%2FB
-[/us/pl/110/289/s1143/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1143%2F2
-[/us/pl/110/289/s1143/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1143%2F4%2FA
-[/us/pl/110/289/s1143/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1143%2F1
-[/us/pl/110/289/s1143/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1143%2F4%2FA
-[/us/pl/110/289/s1143/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1143%2F4%2FC
-[/us/pl/110/289/s1143/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1143%2F5%2FA
-[/us/pl/110/289/s1143/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1143%2F1
-[/us/pl/110/289/s1143/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1143%2F1
-[/us/pl/110/289/s1143/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1143%2F5%2FC
-[/us/pl/110/289/s1143/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1143%2F1
-[/us/pl/110/289/s1143/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1143%2F6
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
 [/us/usc/t12/s4611/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4611%2Fe
 
 

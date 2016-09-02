@@ -23,7 +23,7 @@
 
         The Secretary is prohibited from using the Exchange Stabilization Fund for the establishment of any future guaranty programs for the United States money market mutual fund industry.
 
-([Pub. L. 110–343, div. A, title I, § 131][/us/pl/110/343/s131], Oct. 3, 2008, [122 Stat. 3797][/us/stat/122/3797].)
+([Pub. L. 110–343, div. A, title I][/us/pl/110/343/dA/tI], § 131, Oct. 3, 2008, [122 Stat. 3797][/us/stat/122/3797].)
 
  __References in Text__ 
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t31/s5302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5302
-[/us/pl/110/343/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs131
+[/us/pl/110/343/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdA%2FtI
 [/us/stat/122/3797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3797
 [/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
 [/us/stat/122/3765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3765

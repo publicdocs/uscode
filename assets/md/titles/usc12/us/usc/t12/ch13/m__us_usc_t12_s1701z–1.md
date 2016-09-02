@@ -17,7 +17,7 @@
 
     The Secretary of Housing and Urban Development is authorized and directed to undertake such programs of research, studies, testing, and demonstration relating to the mission and programs of the Department as he determines to be necessary and appropriate. There is  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “are”. </sup></sup>  authorized to be appropriated to carry out this title \[[12 U.S.C. 1701z–1][/us/usc/t12/s1701z–1] et seq.\] $35,000,000 for fiscal year 1993 and $36,470,000 for fiscal year 1994.
 
-([Pub. L. 91–609, title V, § 501][/us/pl/91/609/s501], Dec. 31, 1970, [84 Stat. 1784][/us/stat/84/1784]; [Pub. L. 94–375, § 23(a)][/us/pl/94/375/s23/a], Aug. 3, 1976, [90 Stat. 1078][/us/stat/90/1078]; [Pub. L. 95–128, title II, § 204][/us/pl/95/128/s204], Oct. 12, 1977, [91 Stat. 1129][/us/stat/91/1129]; [Pub. L. 95–557, title III, § 305(a)][/us/pl/95/557/s305/a], Oct. 31, 1978, [92 Stat. 2097][/us/stat/92/2097]; [Pub. L. 96–153, title III, § 304][/us/pl/96/153/s304], Dec. 21, 1979, [93 Stat. 1112][/us/stat/93/1112]; [Pub. L. 96–399, title III, § 303][/us/pl/96/399/s303], Oct. 8, 1980, [94 Stat. 1639][/us/stat/94/1639]; [Pub. L. 97–35, title III, § 337][/us/pl/97/35/s337], Aug. 13, 1981, [95 Stat. 414][/us/stat/95/414]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title IV, § 466(a)\], Nov. 30, 1983, [97 Stat. 1236][/us/stat/97/1236]; [Pub. L. 100–242, title V, § 564][/us/pl/100/242/s564], Feb. 5, 1988, [101 Stat. 1945][/us/stat/101/1945]; [Pub. L. 101–625, title IX, § 951(a)][/us/pl/101/625/s951/a], Nov. 28, 1990, [104 Stat. 4417][/us/stat/104/4417]; [Pub. L. 102–550, title IX, § 901][/us/pl/102/550/s901], Oct. 28, 1992, [106 Stat. 3866][/us/stat/106/3866].)
+([Pub. L. 91–609, title V][/us/pl/91/609/tV], § 501, Dec. 31, 1970, [84 Stat. 1784][/us/stat/84/1784]; [Pub. L. 94–375][/us/pl/94/375], § 23(a), Aug. 3, 1976, [90 Stat. 1078][/us/stat/90/1078]; [Pub. L. 95–128, title II][/us/pl/95/128/tII], § 204, Oct. 12, 1977, [91 Stat. 1129][/us/stat/91/1129]; [Pub. L. 95–557, title III][/us/pl/95/557/tIII], § 305(a), Oct. 31, 1978, [92 Stat. 2097][/us/stat/92/2097]; [Pub. L. 96–153, title III][/us/pl/96/153/tIII], § 304, Dec. 21, 1979, [93 Stat. 1112][/us/stat/93/1112]; [Pub. L. 96–399, title III][/us/pl/96/399/tIII], § 303, Oct. 8, 1980, [94 Stat. 1639][/us/stat/94/1639]; [Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 337, Aug. 13, 1981, [95 Stat. 414][/us/stat/95/414]; [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title IV, § 466(a)\], Nov. 30, 1983, [97 Stat. 1236][/us/stat/97/1236]; [Pub. L. 100–242, title V][/us/pl/100/242/tV], § 564, Feb. 5, 1988, [101 Stat. 1945][/us/stat/101/1945]; [Pub. L. 101–625, title IX][/us/pl/101/625/tIX], § 951(a), Nov. 28, 1990, [104 Stat. 4417][/us/stat/104/4417]; [Pub. L. 102–550, title IX][/us/pl/102/550/tIX], § 901, Oct. 28, 1992, [106 Stat. 3866][/us/stat/106/3866].)
 
  __References in Text__ 
 
@@ -55,7 +55,7 @@
 
  __Rehabilitation Demonstration Grant Program__ 
 
-[Pub. L. 105–276, title V, § 599G][/us/pl/105/276/s599G], Oct. 21, 1998, [112 Stat. 2666][/us/stat/112/2666], provided that:
+[Pub. L. 105–276, title V][/us/pl/105/276/tV], § 599G, Oct. 21, 1998, [112 Stat. 2666][/us/stat/112/2666], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -115,7 +115,7 @@
 
  __Report Regarding Research Activities__ 
 
-    [Pub. L. 101–625, title IX, § 951(b)][/us/pl/101/625/s951/b], Nov. 28, 1990, [104 Stat. 4417][/us/stat/104/4417], directed Secretary of Housing and Urban Development, not later than the expiration of the 1-year period beginning on Nov. 28, 1990, to submit to Congress a report listing and describing various research activities, studies, testing, and demonstration programs relating to mission and programs of Department of Housing and Urban Development that are being conducted, have concluded, or will conclude during such period, pursuant to section 501 of the Housing and Urban Development Act of 1970 ([12 U.S.C. 1701z–1][/us/usc/t12/s1701z–1]), title V of such Act ([12 U.S.C. 1701z–1][/us/usc/t12/s1701z–1] et seq.), or any other authority, such report to include a statement identifying the individual or entity that is conducting each such activity, study, test, and demonstration program.
+    [Pub. L. 101–625, title IX][/us/pl/101/625/tIX], § 951(b), Nov. 28, 1990, [104 Stat. 4417][/us/stat/104/4417], directed Secretary of Housing and Urban Development, not later than the expiration of the 1-year period beginning on Nov. 28, 1990, to submit to Congress a report listing and describing various research activities, studies, testing, and demonstration programs relating to mission and programs of Department of Housing and Urban Development that are being conducted, have concluded, or will conclude during such period, pursuant to section 501 of the Housing and Urban Development Act of 1970 ([12 U.S.C. 1701z–1][/us/usc/t12/s1701z–1]), title V of such Act ([12 U.S.C. 1701z–1][/us/usc/t12/s1701z–1] et seq.), or any other authority, such report to include a statement identifying the individual or entity that is conducting each such activity, study, test, and demonstration program.
 
 ----------
 
@@ -125,27 +125,27 @@
 ----------
 
 [/us/usc/t12/s1701z–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701z%E2%80%931
-[/us/pl/91/609/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F609%2Fs501
+[/us/pl/91/609/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F609%2FtV
 [/us/stat/84/1784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1784
-[/us/pl/94/375/s23/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F375%2Fs23%2Fa
+[/us/pl/94/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F375
 [/us/stat/90/1078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1078
-[/us/pl/95/128/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs204
+[/us/pl/95/128/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2FtII
 [/us/stat/91/1129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1129
-[/us/pl/95/557/s305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2Fs305%2Fa
+[/us/pl/95/557/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2FtIII
 [/us/stat/92/2097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2097
-[/us/pl/96/153/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153%2Fs304
+[/us/pl/96/153/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153%2FtIII
 [/us/stat/93/1112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1112
-[/us/pl/96/399/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs303
+[/us/pl/96/399/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2FtIII
 [/us/stat/94/1639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1639
-[/us/pl/97/35/s337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs337
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F414
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1236
-[/us/pl/100/242/s564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs564
+[/us/pl/100/242/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtV
 [/us/stat/101/1945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1945
-[/us/pl/101/625/s951/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs951%2Fa
+[/us/pl/101/625/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtIX
 [/us/stat/104/4417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4417
-[/us/pl/102/550/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs901
+[/us/pl/102/550/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtIX
 [/us/stat/106/3866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3866
 [/us/pl/91/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F609
 [/us/stat/84/1784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1784
@@ -164,11 +164,11 @@
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/97/35/s371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs371
 [/us/usc/t12/s3701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3701
-[/us/pl/105/276/s599G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs599G
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2666
 [/us/usc/t12/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701
 [/us/usc/t12/s1709/k/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1709%2Fk%2F2%2FB
-[/us/pl/101/625/s951/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs951%2Fb
+[/us/pl/101/625/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtIX
 [/us/stat/104/4417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4417
 [/us/usc/t12/s1701z–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701z%E2%80%931
 [/us/usc/t12/s1701z–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701z%E2%80%931

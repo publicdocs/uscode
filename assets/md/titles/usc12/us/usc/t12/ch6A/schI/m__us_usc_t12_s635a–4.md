@@ -23,7 +23,7 @@
 
     The Board of Directors shall attempt to insure that a major share of any loan guarantees ultimately serves to promote exports from small, medium-size, and minority businesses or agricultural concerns. Guarantees provided under the authority of this section shall be subject to limitations contained in annual appropriations Acts.
 
-([Pub. L. 97–290, title II, § 206][/us/pl/97/290/s206], Oct. 8, 1982, [96 Stat. 1239][/us/stat/96/1239]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title VI, § 616(b)\], Nov. 30, 1983, [97 Stat. 1257][/us/stat/97/1257].)
+([Pub. L. 97–290, title II][/us/pl/97/290/tII], § 206, Oct. 8, 1982, [96 Stat. 1239][/us/stat/96/1239]; [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title VI, § 616(b)\], Nov. 30, 1983, [97 Stat. 1257][/us/stat/97/1257].)
 
  __Codification__ 
 
@@ -41,9 +41,9 @@
 ----------
 
 [/us/usc/t12/s1843/c/14/F/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1843%2Fc%2F14%2FF%2Fi
-[/us/pl/97/290/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F290%2Fs206
+[/us/pl/97/290/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F290%2FtII
 [/us/stat/96/1239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1239
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1257
 [/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
 

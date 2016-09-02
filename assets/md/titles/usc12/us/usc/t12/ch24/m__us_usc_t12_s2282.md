@@ -25,7 +25,7 @@
 
     (4) The term “Bank” means the Federal Financing Bank established by [section 2283 of this title][/us/usc/t12/s2283].
 
-([Pub. L. 93–224, § 3][/us/pl/93/224/s3], Dec. 29, 1973, [87 Stat. 937][/us/stat/87/937].)
+([Pub. L. 93–224][/us/pl/93/224], § 3, Dec. 29, 1973, [87 Stat. 937][/us/stat/87/937].)
 
 ----------
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t12/s2283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2283
-[/us/pl/93/224/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F224%2Fs3
+[/us/pl/93/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F224
 [/us/stat/87/937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F937
 
 

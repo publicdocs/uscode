@@ -17,7 +17,7 @@
 
     The purpose of this subchapter is to encourage initiatives for financial products and services that are appropriate and accessible for millions of Americans who are not fully incorporated into the financial mainstream.
 
-([Pub. L. 111–203, title XII, § 1202][/us/pl/111/203/s1202], July 21, 2010, [124 Stat. 2129][/us/stat/124/2129].)
+([Pub. L. 111–203, title XII][/us/pl/111/203/tXII], § 1202, July 21, 2010, [124 Stat. 2129][/us/stat/124/2129].)
 
  __References in Text__ 
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/111/203/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1202
+[/us/pl/111/203/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtXII
 [/us/stat/124/2129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2129
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/2129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2129

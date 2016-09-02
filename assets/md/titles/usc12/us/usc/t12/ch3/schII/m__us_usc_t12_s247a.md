@@ -17,7 +17,7 @@
 
     The Board of Governors of the Federal Reserve System shall keep a complete record of the action taken by the Board and by the Federal Open Market Committee upon all questions of policy relating to open-market operations and shall record therein the votes taken in connection with the determination of open-market policies and the reasons underlying the action of the Board and the Committee in each instance. The Board shall keep a similar record with respect to all questions of policy determined by the Board, and shall include in its annual report to the Congress a full account of the action so taken during the preceding year with respect to open-market policies and operations and with respect to the policies determined by it and shall include in such report a copy of the records required to be kept under the provisions of this section.
 
-([Dec. 23, 1913, ch. 6, § 10][/us/act/1913-12-23/ch6/s10] (par.), as added [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 203(d), [49 Stat. 705][/us/stat/49/705].)
+([Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 10 (par.), as added [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 203(d), [49 Stat. 705][/us/stat/49/705].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1913-12-23/ch6/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs10
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
 [/us/act/1935-08-23/ch614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch614
 [/us/stat/49/705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F705
 [/us/usc/t12/s241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs241

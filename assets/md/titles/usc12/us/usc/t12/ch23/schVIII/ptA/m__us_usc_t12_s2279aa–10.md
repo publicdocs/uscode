@@ -51,7 +51,7 @@
 
         The Corporation may impose charges or fees in reasonable amounts in connection with the administration of its activities under this subchapter to recover its costs for performing such administration.
 
-([Pub. L. 92–181, title VIII, § 8][/us/pl/92/181/s8].10, as added [Pub. L. 100–233, title VII, § 702][/us/pl/100/233/s702], Jan. 6, 1988, [101 Stat. 1701][/us/stat/101/1701]; amended [Pub. L. 104–316, title I, § 106(f)][/us/pl/104/316/s106/f], Oct. 19, 1996, [110 Stat. 3831][/us/stat/110/3831].)
+([Pub. L. 92–181, title VIII][/us/pl/92/181/tVIII], § 8.10, as added [Pub. L. 100–233, title VII][/us/pl/100/233/tVII], § 702, Jan. 6, 1988, [101 Stat. 1701][/us/stat/101/1701]; amended [Pub. L. 104–316, title I][/us/pl/104/316/tI], § 106(f), Oct. 19, 1996, [110 Stat. 3831][/us/stat/110/3831].)
 
  __Amendments__ 
 
@@ -65,10 +65,10 @@
 ----------
 
 [/us/usc/t12/s2279aa–13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2279aa%E2%80%9313
-[/us/pl/92/181/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs8
-[/us/pl/100/233/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs702
+[/us/pl/92/181/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtVIII
+[/us/pl/100/233/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtVII
 [/us/stat/101/1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1701
-[/us/pl/104/316/s106/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs106%2Ff
+[/us/pl/104/316/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2FtI
 [/us/stat/110/3831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3831
 [/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316
 

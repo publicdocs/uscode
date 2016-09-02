@@ -81,7 +81,7 @@
 
         This section shall apply to sales or exchanges occurring after December 31, 2007, in taxable years ending after such date.
 
-([Pub. L. 110–343, div. A, title III, § 301][/us/pl/110/343/s301], Oct. 3, 2008, [122 Stat. 3802][/us/stat/122/3802].)
+([Pub. L. 110–343, div. A, title III][/us/pl/110/343/dA/tIII], § 301, Oct. 3, 2008, [122 Stat. 3802][/us/stat/122/3802].)
 
  __References in Text__ 
 
@@ -100,7 +100,7 @@
 [/us/usc/t12/s1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1451
 [/us/usc/t26/s582/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs582%2Fc%2F2
 [/us/usc/t12/s1813/w/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813%2Fw%2F1
-[/us/pl/110/343/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs301
+[/us/pl/110/343/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdA%2FtIII
 [/us/stat/122/3802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3802
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
 [/us/stat/48/1252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1252

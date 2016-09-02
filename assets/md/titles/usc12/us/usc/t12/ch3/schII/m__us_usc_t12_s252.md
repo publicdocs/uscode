@@ -43,7 +43,7 @@
 
         The studies required by this section shall not increase the regulatory or paperwork burden on regulated financial institutions, other sources of small business credit, or small businesses.
 
-([Pub. L. 104–208, div. A, title II, § 2227][/us/pl/104/208/s2227], Sept. 30, 1996, [110 Stat. 3009–417][/us/stat/110/3009-417].)
+([Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], § 2227, Sept. 30, 1996, [110 Stat. 3009–417][/us/stat/110/3009-417].)
 
  __Codification__ 
 
@@ -55,7 +55,7 @@
 
  __Study of Financial Modernization’s Effect on the Accessibility of Small Business and Farm Loans__ 
 
-[Pub. L. 106–102, title I, § 109][/us/pl/106/102/s109], Nov. 12, 1999, [113 Stat. 1362][/us/stat/113/1362], provided that:
+[Pub. L. 106–102, title I][/us/pl/106/102/tI], § 109, Nov. 12, 1999, [113 Stat. 1362][/us/stat/113/1362], provided that:
 
 >     “(a)  __Study__  __.—__ 
 
@@ -67,7 +67,7 @@
 
  __Definitions__ 
 
-[Pub. L. 104–208, div. A, title II, § 2001(c)][/us/pl/104/208/s2001/c], Sept. 30, 1996, [110 Stat. 3009–397][/us/stat/110/3009-397], provided that: 
+[Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], § 2001(c), Sept. 30, 1996, [110 Stat. 3009–397][/us/stat/110/3009-397], provided that: 
 
 > “Except as otherwise specified in this title \[see Tables for classification\], the following definitions shall apply for purposes of this title:
 
@@ -106,13 +106,13 @@
 ----------
 ----------
 
-[/us/pl/104/208/s2227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2227
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-417
 [/us/usc/t12/s1752a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1752a
-[/us/pl/106/102/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs109
+[/us/pl/106/102/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtI
 [/us/stat/113/1362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1362
 [/us/usc/t12/s1813/z]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813%2Fz
-[/us/pl/104/208/s2001/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2001%2Fc
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-397
 [/us/usc/t12/s3310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3310
 [/us/usc/t12/s1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813

@@ -127,7 +127,7 @@
 
         For purpose of the definition of the term “financial company” under subsection (a)(11), no company shall be deemed to be predominantly engaged in activities that the Board of Governors has determined are financial in nature or incidental thereto for purposes of [section 1843(k) of this title][/us/usc/t12/s1843/k], if the consolidated revenues of such company from such activities constitute less than 85 percent of the total consolidated revenues of such company, as the Corporation, in consultation with the Secretary, shall establish by regulation. In determining whether a company is a financial company under this subchapter, the consolidated revenues derived from the ownership or control of a depository institution shall be included.
 
-([Pub. L. 111–203, title II, § 201][/us/pl/111/203/s201], July 21, 2010, [124 Stat. 1442][/us/stat/124/1442].)
+([Pub. L. 111–203, title II][/us/pl/111/203/tII], § 201, July 21, 2010, [124 Stat. 1442][/us/stat/124/1442].)
 
  __References in Text__ 
 
@@ -158,7 +158,7 @@
 [/us/usc/t12/s5311/a/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5311%2Fa%2F4%2FC
 [/us/usc/t12/s5311/a/4/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5311%2Fa%2F4%2FD
 [/us/usc/t12/s1843/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1843%2Fk
-[/us/pl/111/203/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs201
+[/us/pl/111/203/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtII
 [/us/stat/124/1442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1442
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1442

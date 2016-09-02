@@ -17,7 +17,7 @@
 
     The Act entitled “An Act to provide a national currency secured by a pledge of United States bonds, and to provide for the circulation and redemption thereof,” approved June 3, 1864, shall be known as “The National Bank Act.”
 
-([June 20, 1874, ch. 343, § 1][/us/act/1874-06-20/ch343/s1], [18 Stat. 123][/us/stat/18/123].)
+([June 20, 1874, ch. 343][/us/act/1874-06-20/ch343], § 1, [18 Stat. 123][/us/stat/18/123].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1874-06-20/ch343/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1874-06-20%2Fch343%2Fs1
+[/us/act/1874-06-20/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1874-06-20%2Fch343
 [/us/stat/18/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F18%2F123
 [/us/act/1864-06-03/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-06-03%2Fch106
 [/us/stat/13/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F13%2F99

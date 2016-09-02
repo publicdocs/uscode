@@ -45,7 +45,7 @@
 
         This section may not be construed to authorize the withholding, or to prohibit the disclosure, of any information to the Congress or any committee or subcommittee thereof.
 
-([Pub. L. 102–550, title XIII, § 1379B][/us/pl/102/550/s1379B], formerly § 1379, Oct. 28, 1992, [106 Stat. 3993][/us/stat/106/3993]; renumbered § 1379B and amended [Pub. L. 110–289, div. A, title I][/us/pl/110/289], §§ 1153(a)(1), 1156(b)(3), July 30, 2008, [122 Stat. 2770][/us/stat/122/2770], 2777.)
+([Pub. L. 102–550, title XIII][/us/pl/102/550/tXIII], § 1379B, formerly § 1379, Oct. 28, 1992, [106 Stat. 3993][/us/stat/106/3993]; renumbered § 1379B and amended [Pub. L. 110–289, div. A, title I][/us/pl/110/289/dA/tI], §§ 1153(a)(1), 1156(b)(3), July 30, 2008, [122 Stat. 2770][/us/stat/122/2770], 2777.)
 
  __Prior Provisions__ 
 
@@ -53,7 +53,7 @@
 
  __Amendments__ 
 
-    2008—Subsec. (c). [Pub. L. 110–289, § 1156(b)(3)][/us/pl/110/289/s1156/b/3], substituted “regulated entity” for “enterprise”.
+    2008—Subsec. (c). [Pub. L. 110–289][/us/pl/110/289], § 1156(b)(3), substituted “regulated entity” for “enterprise”.
 
 ----------
 
@@ -62,12 +62,12 @@
 ----------
 ----------
 
-[/us/pl/102/550/s1379B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1379B
+[/us/pl/102/550/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIII
 [/us/stat/106/3993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3993
-[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtI
 [/us/stat/122/2770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2770
 [/us/pl/102/550/s1379B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1379B
 [/us/usc/t12/s4641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4641
-[/us/pl/110/289/s1156/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1156%2Fb%2F3
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
 
 

@@ -19,7 +19,7 @@
 
     (b) No dividends shall be declared or paid on common stock until the cumulative dividends on the preferred stock shall have been paid in full; and, if the association is placed in voluntary liquidation or a conservator or a receiver is appointed therefor, no payments shall be made to the holders of the common stock until the holders of the preferred stock shall have been paid in full the par value of such stock plus all accumulated dividends.
 
-([Mar. 9, 1933, ch. 1][/us/act/1933-03-09/ch1], title III, § 302, [48 Stat. 5][/us/stat/48/5]; [June 15, 1933, ch. 79][/us/act/1933-06-15/ch79], [48 Stat. 148][/us/stat/48/148]; [Pub. L. 96–221, title VII, § 702][/us/pl/96/221/s702], Mar. 31, 1980, [94 Stat. 186][/us/stat/94/186].)
+([Mar. 9, 1933, ch. 1][/us/act/1933-03-09/ch1], title III, § 302, [48 Stat. 5][/us/stat/48/5]; [June 15, 1933, ch. 79][/us/act/1933-06-15/ch79], [48 Stat. 148][/us/stat/48/148]; [Pub. L. 96–221, title VII][/us/pl/96/221/tVII], § 702, Mar. 31, 1980, [94 Stat. 186][/us/stat/94/186].)
 
  __Amendments__ 
 
@@ -42,7 +42,7 @@
 [/us/stat/48/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F5
 [/us/act/1933-06-15/ch79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-15%2Fch79
 [/us/stat/48/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F148
-[/us/pl/96/221/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs702
+[/us/pl/96/221/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2FtVII
 [/us/stat/94/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F186
 [/us/pl/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221
 [/us/usc/t12/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1

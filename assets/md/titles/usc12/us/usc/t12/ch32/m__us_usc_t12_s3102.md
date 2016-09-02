@@ -75,7 +75,7 @@
 
         (2) In any receivership proceeding ordered pursuant to this subsection (j), whenever there has been paid to each and every depositor and creditor of such foreign bank whose claim or claims shall have been proved or allowed, the full amount of such claims arising out of transactions had by them with any branch or agency of such foreign bank located in any State of the United States, except (A) claims that would not represent an enforceable legal obligation against such branch or agency if such branch or agency were a separate legal entity, and (B) amounts due and other liabilities to other offices or branches or agencies of, and wholly owned (except for a nominal number of directors’ shares) subsidiaries of, such foreign bank, and all expenses of the receivership, the Comptroller or the Federal Deposit Insurance Corporation, where that Corporation has been appointed receiver of the foreign bank, shall turn over the remainder, if any, of the assets and proceeds of such foreign bank to the head office of such foreign bank, or to the duly appointed domiciliary liquidator or receiver of such foreign bank.
 
-([Pub. L. 95–369, § 4][/us/pl/95/369/s4], Sept. 17, 1978, [92 Stat. 610][/us/stat/92/610]; [Pub. L. 102–242, title II][/us/pl/102/242], §§ 202(b), (c), 203(b), Dec. 19, 1991, [105 Stat. 2290][/us/stat/105/2290], 2291; [Pub. L. 106–569, title XII, § 1234][/us/pl/106/569/s1234], Dec. 27, 2000, [114 Stat. 3037][/us/stat/114/3037].)
+([Pub. L. 95–369][/us/pl/95/369], § 4, Sept. 17, 1978, [92 Stat. 610][/us/stat/92/610]; [Pub. L. 102–242, title II][/us/pl/102/242/tII], §§ 202(b), (c), 203(b), Dec. 19, 1991, [105 Stat. 2290][/us/stat/105/2290], 2291; [Pub. L. 106–569, title XII][/us/pl/106/569/tXII], § 1234, Dec. 27, 2000, [114 Stat. 3037][/us/stat/114/3037].)
 
  __References in Text__ 
 
@@ -89,15 +89,15 @@
 
     2000—Subsec. (b). [Pub. L. 106–569][/us/pl/106/569] redesignated cls. (2) to (4) as (1) to (3), respectively, and struck out former cl. (1) which read as follows: “the requirements of [section 481 of this title][/us/usc/t12/s481] shall be met with respect to a Federal branch or agency if it is examined at least once in each calendar year;”.
 
-    1991—Subsec. (a). [Pub. L. 102–242, § 202(b)][/us/pl/102/242/s202/b], inserted heading, designated existing provisions as par. (1) and inserted heading, and added par. (2).
+    1991—Subsec. (a). [Pub. L. 102–242][/us/pl/102/242], § 202(b), inserted heading, designated existing provisions as par. (1) and inserted heading, and added par. (2).
 
-    Subsec. (b). [Pub. L. 102–242, § 203(b)][/us/pl/102/242/s203/b], inserted at end: “The Comptroller of the Currency shall coordinate examinations of Federal branches and agencies of foreign banks with examinations conducted by the Board under [section 3105(c)(1) of this title][/us/usc/t12/s3105/c/1] and, to the extent possible, shall participate in any simultaneous examinations of the United States operations of a foreign bank requested by the Board under such section.”
+    Subsec. (b). [Pub. L. 102–242][/us/pl/102/242], § 203(b), inserted at end: “The Comptroller of the Currency shall coordinate examinations of Federal branches and agencies of foreign banks with examinations conducted by the Board under [section 3105(c)(1) of this title][/us/usc/t12/s3105/c/1] and, to the extent possible, shall participate in any simultaneous examinations of the United States operations of a foreign bank requested by the Board under such section.”
 
-    Subsec. (h). [Pub. L. 102–242, § 202(c)][/us/pl/102/242/s202/c], amended heading, designated existing provisions as par. (1), inserted par. (1) heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
+    Subsec. (h). [Pub. L. 102–242][/us/pl/102/242], § 202(c), amended heading, designated existing provisions as par. (1), inserted par. (1) heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
 
  __Study and Report on Subsidiary Requirements for Foreign Banks__ 
 
-    [Pub. L. 102–242, title II, § 215][/us/pl/102/242/s215], Dec. 19, 1991, [105 Stat. 2304][/us/stat/105/2304], as amended by [Pub. L. 102–550, title XVI, § 1604(a)(14)][/us/pl/102/550/s1604/a/14], Oct. 28, 1992, [106 Stat. 4083][/us/stat/106/4083], directed Secretary of the Treasury, jointly with Board of Governors of the Federal Reserve System and in consultation with Comptroller of the Currency, Federal Deposit Insurance Corporation, and Attorney General, to conduct a study of whether foreign banks should be required to conduct banking operations in United States through subsidiaries rather than branches and, not later than 1 year after Dec. 19, 1991, to transmit to Congress a report on the results of the study.
+    [Pub. L. 102–242, title II][/us/pl/102/242/tII], § 215, Dec. 19, 1991, [105 Stat. 2304][/us/stat/105/2304], as amended by [Pub. L. 102–550, title XVI][/us/pl/102/550/tXVI], § 1604(a)(14), Oct. 28, 1992, [106 Stat. 4083][/us/stat/106/4083], directed Secretary of the Treasury, jointly with Board of Governors of the Federal Reserve System and in consultation with Comptroller of the Currency, Federal Deposit Insurance Corporation, and Attorney General, to conduct a study of whether foreign banks should be required to conduct banking operations in United States through subsidiaries rather than branches and, not later than 1 year after Dec. 19, 1991, to transmit to Congress a report on the results of the study.
 
 ----------
 
@@ -114,11 +114,11 @@
 [/us/usc/t12/s3104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3104
 [/us/usc/t12/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs24
 [/us/usc/t12/s3105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3105%2Fa
-[/us/pl/95/369/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F369%2Fs4
+[/us/pl/95/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F369
 [/us/stat/92/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F610
-[/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
+[/us/pl/102/242/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtII
 [/us/stat/105/2290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2290
-[/us/pl/106/569/s1234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs1234
+[/us/pl/106/569/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2FtXII
 [/us/stat/114/3037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F3037
 [/us/usc/t12/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3101
 [/us/act/1864-06-03/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-06-03%2Fch106
@@ -129,13 +129,13 @@
 [/us/usc/t12/s3104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3104
 [/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
 [/us/usc/t12/s481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs481
-[/us/pl/102/242/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs202%2Fb
-[/us/pl/102/242/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs203%2Fb
+[/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
+[/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
 [/us/usc/t12/s3105/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3105%2Fc%2F1
-[/us/pl/102/242/s202/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs202%2Fc
-[/us/pl/102/242/s215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs215
+[/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
+[/us/pl/102/242/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtII
 [/us/stat/105/2304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2304
-[/us/pl/102/550/s1604/a/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1604%2Fa%2F14
+[/us/pl/102/550/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXVI
 [/us/stat/106/4083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4083
 
 

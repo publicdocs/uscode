@@ -23,7 +23,7 @@
 
         Upon entering into the participation agreement with the participating State, the financial institution shall become a participating financial institution eligible to enroll loans under the Program.
 
-([Pub. L. 103–325, title II, § 254][/us/pl/103/325/s254], Sept. 23, 1994, [108 Stat. 2207][/us/stat/108/2207].)
+([Pub. L. 103–325, title II][/us/pl/103/325/tII], § 254, Sept. 23, 1994, [108 Stat. 2207][/us/stat/108/2207].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/103/325/s254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs254
+[/us/pl/103/325/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtII
 [/us/stat/108/2207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2207
 
 

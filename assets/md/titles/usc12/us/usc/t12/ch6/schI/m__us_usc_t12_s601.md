@@ -27,7 +27,7 @@
 
     Such application shall specify the name and capital of the banking association filing it, the powers applied for, and the place or places where the banking or financial operations proposed are to be carried on. The Board of Governors of the Federal Reserve System shall have power to approve or to reject such application in whole or in part if for any reason the granting of such application is deemed inexpedient, and shall also have power from time to time to increase or decrease the number of places where such banking operations may be carried on.
 
-([Dec. 23, 1913, ch. 6, § 25][/us/act/1913-12-23/ch6/s25] (pars.), [38 Stat. 273][/us/stat/38/273]; [Sept. 7, 1916, ch. 461][/us/act/1916-09-07/ch461], [39 Stat. 755][/us/stat/39/755]; [Sept. 17, 1919, ch. 60][/us/act/1919-09-17/ch60], §§ 1, 2, [41 Stat. 285][/us/stat/41/285], 286; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 203(a), [49 Stat. 704][/us/stat/49/704]; [Pub. L. 89–485, § 12(b)][/us/pl/89/485/s12/b], July 1, 1966, [80 Stat. 241][/us/stat/80/241].)
+([Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 25 (pars.), [38 Stat. 273][/us/stat/38/273]; [Sept. 7, 1916, ch. 461][/us/act/1916-09-07/ch461], [39 Stat. 755][/us/stat/39/755]; [Sept. 17, 1919, ch. 60][/us/act/1919-09-17/ch60], §§ 1, 2, [41 Stat. 285][/us/stat/41/285], 286; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 203(a), [49 Stat. 704][/us/stat/49/704]; [Pub. L. 89–485][/us/pl/89/485], § 12(b), July 1, 1966, [80 Stat. 241][/us/stat/80/241].)
 
  __References in Text__ 
 
@@ -63,7 +63,7 @@
 
  __Study by Secretary of the Treasury of Discriminatory Practices by Foreign Nations Against United States Banks; Report and Recommendations to Congress__ 
 
-    [Pub. L. 95–369, § 9(a)][/us/pl/95/369/s9/a], formerly § 9, Sept. 17, 1978, [92 Stat. 623][/us/stat/92/623], renumbered [Pub. L. 95–630, title III, § 311][/us/pl/95/630/s311], Nov. 10, 1978, [92 Stat. 3678][/us/stat/92/3678], provided that the Secretary of the Treasury conduct a study of discriminatory practices by foreign nations against United States banks and report his findings and recommendations to Congress on or before one year after Sept. 17, 1978, along with a description of efforts taken by the United States to eliminate any foreign laws or practices that discriminate against United States banks or serve as a barrier to the financing of United States exports to any country.
+    [Pub. L. 95–369][/us/pl/95/369], § 9(a), formerly § 9, Sept. 17, 1978, [92 Stat. 623][/us/stat/92/623], renumbered [Pub. L. 95–630, title III][/us/pl/95/630/tIII], § 311, Nov. 10, 1978, [92 Stat. 3678][/us/stat/92/3678], provided that the Secretary of the Treasury conduct a study of discriminatory practices by foreign nations against United States banks and report his findings and recommendations to Congress on or before one year after Sept. 17, 1978, along with a description of efforts taken by the United States to eliminate any foreign laws or practices that discriminate against United States banks or serve as a barrier to the financing of United States exports to any country.
 
 ----------
 
@@ -73,7 +73,7 @@
 ----------
 
 [/us/usc/t12/s371c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs371c
-[/us/act/1913-12-23/ch6/s25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs25
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
 [/us/stat/38/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F273
 [/us/act/1916-09-07/ch461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-09-07%2Fch461
 [/us/stat/39/755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F755
@@ -81,7 +81,7 @@
 [/us/stat/41/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F285
 [/us/act/1935-08-23/ch614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch614
 [/us/stat/49/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F704
-[/us/pl/89/485/s12/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F485%2Fs12%2Fb
+[/us/pl/89/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F485
 [/us/stat/80/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F241
 [/us/usc/t12/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs602
 [/us/usc/t12/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs603
@@ -90,9 +90,9 @@
 [/us/usc/t12/s604a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs604a
 [/us/pl/89/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F485
 [/us/pl/89/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F485
-[/us/pl/95/369/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F369%2Fs9%2Fa
+[/us/pl/95/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F369
 [/us/stat/92/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F623
-[/us/pl/95/630/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs311
+[/us/pl/95/630/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtIII
 [/us/stat/92/3678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3678
 
 

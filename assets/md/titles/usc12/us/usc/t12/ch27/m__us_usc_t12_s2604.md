@@ -75,7 +75,7 @@
 
         Booklets may be printed and distributed by lenders if their form and content are approved by the Bureau as meeting the requirements of subsection (b) of this section.
 
-([Pub. L. 93–533, § 5][/us/pl/93/533/s5], Dec. 22, 1974, [88 Stat. 1725][/us/stat/88/1725]; [Pub. L. 94–205, § 4][/us/pl/94/205/s4], Jan. 2, 1976, [89 Stat. 1158][/us/stat/89/1158]; [Pub. L. 102–550, title IX, § 951][/us/pl/102/550/s951], Oct. 28, 1992, [106 Stat. 3892][/us/stat/106/3892]; [Pub. L. 111–203, title X, § 1098(3)][/us/pl/111/203/s1098/3], title XIV, § 1450, July 21, 2010, [124 Stat. 2104][/us/stat/124/2104], 2174; [Pub. L. 112–141, div. F, title II, § 100222][/us/pl/112/141/s100222], July 6, 2012, [126 Stat. 934][/us/stat/126/934]; [Pub. L. 113–89, § 13(b)][/us/pl/113/89/s13/b], Mar. 21, 2014, [128 Stat. 1026][/us/stat/128/1026].)
+([Pub. L. 93–533][/us/pl/93/533], § 5, Dec. 22, 1974, [88 Stat. 1725][/us/stat/88/1725]; [Pub. L. 94–205][/us/pl/94/205], § 4, Jan. 2, 1976, [89 Stat. 1158][/us/stat/89/1158]; [Pub. L. 102–550, title IX][/us/pl/102/550/tIX], § 951, Oct. 28, 1992, [106 Stat. 3892][/us/stat/106/3892]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1098(3), title XIV, § 1450, July 21, 2010, [124 Stat. 2104][/us/stat/124/2104], 2174; [Pub. L. 112–141, div. F, title II][/us/pl/112/141/dF/tII], § 100222, July 6, 2012, [126 Stat. 934][/us/stat/126/934]; [Pub. L. 113–89][/us/pl/113/89], § 13(b), Mar. 21, 2014, [128 Stat. 1026][/us/stat/128/1026].)
 
  __References in Text__ 
 
@@ -89,19 +89,19 @@
 
     2012—Subsec. (b)(14). [Pub. L. 112–141][/us/pl/112/141] added par. (14) at end of subsec. (b).
 
-    2010—[Pub. L. 111–203, § 1450(1)][/us/pl/111/203/s1450/1], substituted “Home buying” for “Special” in section catchline.
+    2010—[Pub. L. 111–203][/us/pl/111/203], § 1450(1), substituted “Home buying” for “Special” in section catchline.
 
-    [Pub. L. 111–203, § 1098(3)(A)][/us/pl/111/203/s1098/3/A], substituted “Bureau” for “Secretary” wherever appearing.
+    [Pub. L. 111–203][/us/pl/111/203], § 1098(3)(A), substituted “Bureau” for “Secretary” wherever appearing.
 
-    Subsec. (a). [Pub. L. 111–203, § 1450(2)][/us/pl/111/203/s1450/2], added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Bureau shall prepare and distribute booklets jointly addressing compliance with the requirements of the Truth in Lending Act and the provisions of this chapter, in order to help persons borrowing money to finance the purchase of residential real estate better to understand the nature and costs of real estate settlement services. The Bureau shall distribute such booklets to all lenders which make federally related mortgage loans.”
+    Subsec. (a). [Pub. L. 111–203][/us/pl/111/203], § 1450(2), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Bureau shall prepare and distribute booklets jointly addressing compliance with the requirements of the Truth in Lending Act and the provisions of this chapter, in order to help persons borrowing money to finance the purchase of residential real estate better to understand the nature and costs of real estate settlement services. The Bureau shall distribute such booklets to all lenders which make federally related mortgage loans.”
 
-    [Pub. L. 111–203, § 1098(3)(B)][/us/pl/111/203/s1098/3/B], substituted “The Bureau shall prepare and distribute booklets jointly addressing compliance with the requirements of the Truth in Lending Act and the provisions of this chapter, in order to help persons borrowing money to finance the purchase of residential real estate better to understand the nature and costs of real estate settlement services.” for “The Secretary shall prepare and distribute booklets to help persons borrowing money to finance the purchase of residential real estate better to understand the nature and costs of real estate settlement services.”
+    [Pub. L. 111–203][/us/pl/111/203], § 1098(3)(B), substituted “The Bureau shall prepare and distribute booklets jointly addressing compliance with the requirements of the Truth in Lending Act and the provisions of this chapter, in order to help persons borrowing money to finance the purchase of residential real estate better to understand the nature and costs of real estate settlement services.” for “The Secretary shall prepare and distribute booklets to help persons borrowing money to finance the purchase of residential real estate better to understand the nature and costs of real estate settlement services.”
 
-    Subsec. (b). [Pub. L. 111–203, § 1450(2)][/us/pl/111/203/s1450/2], added subsec. (b) and struck out former subsec. (b) which related to form and detail, cost elements, standard settlement form, escrow accounts, selection of persons for settlement services; and consideration of differences in settlement procedures.
+    Subsec. (b). [Pub. L. 111–203][/us/pl/111/203], § 1450(2), added subsec. (b) and struck out former subsec. (b) which related to form and detail, cost elements, standard settlement form, escrow accounts, selection of persons for settlement services; and consideration of differences in settlement procedures.
 
-    Subsec. (c). [Pub. L. 111–203, § 1450(3)][/us/pl/111/203/s1450/3], inserted at end “Each lender shall also include with the booklet a reasonably complete or updated list of homeownership counselors who are certified pursuant to [section 1701x(e) of this title][/us/usc/t12/s1701x/e] and located in the area of the lender.”
+    Subsec. (c). [Pub. L. 111–203][/us/pl/111/203], § 1450(3), inserted at end “Each lender shall also include with the booklet a reasonably complete or updated list of homeownership counselors who are certified pursuant to [section 1701x(e) of this title][/us/usc/t12/s1701x/e] and located in the area of the lender.”
 
-    Subsec. (d). [Pub. L. 111–203, § 1450(4)][/us/pl/111/203/s1450/4], inserted “The lender shall provide the booklet in the version that is most appropriate for the person receiving it.” after the first sentence.
+    Subsec. (d). [Pub. L. 111–203][/us/pl/111/203], § 1450(4), inserted “The lender shall provide the booklet in the version that is most appropriate for the person receiving it.” after the first sentence.
 
     1992—Subsec. (d). [Pub. L. 102–550][/us/pl/102/550] substituted “Such booklet shall be provided by delivering it or placing it in the mail not later than 3 business days after the lender receives the application, but no booklet need be provided if the lender denies the application for credit before the end of the 3-day period.” for “Such booklet shall be provided at the time of receipt or preparation of such application.”
 
@@ -131,17 +131,17 @@
 [/us/usc/t12/s1701x/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701x%2Fa%2F4
 [/us/usc/t12/s2609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2609
 [/us/usc/t12/s1701x/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701x%2Fe
-[/us/pl/93/533/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F533%2Fs5
+[/us/pl/93/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F533
 [/us/stat/88/1725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1725
-[/us/pl/94/205/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F205%2Fs4
+[/us/pl/94/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F205
 [/us/stat/89/1158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1158
-[/us/pl/102/550/s951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs951
+[/us/pl/102/550/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtIX
 [/us/stat/106/3892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3892
-[/us/pl/111/203/s1098/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1098%2F3
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2104
-[/us/pl/112/141/s100222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100222
+[/us/pl/112/141/dF/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdF%2FtII
 [/us/stat/126/934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F934
-[/us/pl/113/89/s13/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89%2Fs13%2Fb
+[/us/pl/113/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89
 [/us/stat/128/1026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1026
 [/us/pl/93/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F533
 [/us/pl/93/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F533
@@ -150,14 +150,14 @@
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601
 [/us/pl/113/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
-[/us/pl/111/203/s1450/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1450%2F1
-[/us/pl/111/203/s1098/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1098%2F3%2FA
-[/us/pl/111/203/s1450/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1450%2F2
-[/us/pl/111/203/s1098/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1098%2F3%2FB
-[/us/pl/111/203/s1450/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1450%2F2
-[/us/pl/111/203/s1450/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1450%2F3
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/usc/t12/s1701x/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701x%2Fe
-[/us/pl/111/203/s1450/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1450%2F4
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/pl/94/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F205
 [/us/pl/111/203/s1098/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1098%2F3

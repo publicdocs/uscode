@@ -27,7 +27,7 @@
 
         (2) to otherwise effectively carry out this section.
 
-([Pub. L. 92–181, title IV, § 4][/us/pl/92/181/s4].37, as added [Pub. L. 100–233, title I, § 110][/us/pl/100/233/s110], Jan. 6, 1988, [101 Stat. 1585][/us/stat/101/1585].)
+([Pub. L. 92–181, title IV][/us/pl/92/181/tIV], § 4.37, as added [Pub. L. 100–233, title I][/us/pl/100/233/tI], § 110, Jan. 6, 1988, [101 Stat. 1585][/us/stat/101/1585].)
 
  __Codification__ 
 
@@ -40,8 +40,8 @@
 ----------
 ----------
 
-[/us/pl/92/181/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs4
-[/us/pl/100/233/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs110
+[/us/pl/92/181/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtIV
+[/us/pl/100/233/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtI
 [/us/stat/101/1585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1585
 [/us/pl/92/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181
 [/us/usc/t12/s2219c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2219c

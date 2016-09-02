@@ -263,7 +263,7 @@
 
             Any final order entered as described in paragraph (1) shall be subject to appeal pursuant to [section 1291 of title 28][/us/usc/t28/s1291].
 
-([Pub. L. 111–203, title X, § 1052][/us/pl/111/203/s1052], July 21, 2010, [124 Stat. 2019][/us/stat/124/2019].)
+([Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1052, July 21, 2010, [124 Stat. 2019][/us/stat/124/2019].)
 
  __References in Text__ 
 
@@ -282,7 +282,7 @@
 
 [/us/usc/t18/s6004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs6004
 [/us/usc/t28/s1291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1291
-[/us/pl/111/203/s1052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1052
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2019
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1955

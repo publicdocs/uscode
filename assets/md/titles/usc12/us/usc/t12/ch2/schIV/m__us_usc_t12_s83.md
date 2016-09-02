@@ -23,11 +23,11 @@
 
         For purposes of this section, a national bank shall not be deemed to be making a loan or discount on the security of the shares of its own capital stock if it acquires the stock to prevent loss upon a debt previously contracted for in good faith.
 
-(R.S. § 5201; [Pub. L. 106–569, title XII, § 1207(a)][/us/pl/106/569/s1207/a], Dec. 27, 2000, [114 Stat. 3034][/us/stat/114/3034].)
+(R.S. § 5201; [Pub. L. 106–569, title XII][/us/pl/106/569/tXII], § 1207(a), Dec. 27, 2000, [114 Stat. 3034][/us/stat/114/3034].)
 
  __Codification__ 
 
-    R.S. § 5201 derived from [act June 3, 1864, ch. 106, § 35][/us/act/1864-06-03/ch106/s35], [13 Stat. 110][/us/stat/13/110], which was the National Bank Act. See [section 38 of this title][/us/usc/t12/s38].
+    R.S. § 5201 derived from [act June 3, 1864, ch. 106][/us/act/1864-06-03/ch106], § 35, [13 Stat. 110][/us/stat/13/110], which was the National Bank Act. See [section 38 of this title][/us/usc/t12/s38].
 
  __Amendments__ 
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/106/569/s1207/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs1207%2Fa
+[/us/pl/106/569/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2FtXII
 [/us/stat/114/3034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F3034
-[/us/act/1864-06-03/ch106/s35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-06-03%2Fch106%2Fs35
+[/us/act/1864-06-03/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-06-03%2Fch106
 [/us/stat/13/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F13%2F110
 [/us/usc/t12/s38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs38
 [/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569

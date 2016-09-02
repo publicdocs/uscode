@@ -43,15 +43,15 @@
 
             (C) determinations regarding the eligibility of such applications for such mortgage insurance to be made by the chief underwriter pursuant to requirements prescribed by the Secretary, which shall include requiring submission of reports regarding applications of proposed mortgagees by third-party entities expressly approved by the chief underwriter.
 
-([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title II, § 228, as added [Pub. L. 110–289, div. B, title VIII, § 2834(c)][/us/pl/110/289/s2834/c], July 30, 2008, [122 Stat. 2870][/us/stat/122/2870].)
+([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title II, § 228, as added [Pub. L. 110–289, div. B, title VIII][/us/pl/110/289/dB/tVIII], § 2834(c), July 30, 2008, [122 Stat. 2870][/us/stat/122/2870].)
 
  __Prior Provisions__ 
 
-    A prior section 1715s, which was based in part on [act Aug. 2, 1954, ch. 649][/us/act/1954-08-02/ch649], title VIII, § 814, [68 Stat. 647][/us/stat/68/647], provided for the keeping of records with respect to multifamily housing and examination and audit thereof. Section 814 of act Aug. 2, 1954, was transferred and is classified in full to [section 1434 of Title 42][/us/usc/t42/s1434], The Public Health and Welfare.
+    A prior section 1715s, which was based in part on [act Aug. 2, 1954, ch. 649, title VIII][/us/act/1954-08-02/ch649/tVIII], § 814, [68 Stat. 647][/us/stat/68/647], provided for the keeping of records with respect to multifamily housing and examination and audit thereof. Section 814 of act Aug. 2, 1954, was transferred and is classified in full to [section 1434 of Title 42][/us/usc/t42/s1434], The Public Health and Welfare.
 
  __Approvals by Department of Housing and Urban Development__ 
 
-[Pub. L. 110–289, div. B, title VIII, § 2832][/us/pl/110/289/s2832], July 30, 2008, [122 Stat. 2867][/us/stat/122/2867], provided that:
+[Pub. L. 110–289, div. B, title VIII][/us/pl/110/289/dB/tVIII], § 2832, July 30, 2008, [122 Stat. 2867][/us/stat/122/2867], provided that:
 
 >     “(a) __Administrative and Procedural Changes.—__ 
 
@@ -121,12 +121,12 @@
 [/us/usc/t26/s42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs42
 [/us/usc/t26/s42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs42
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
-[/us/pl/110/289/s2834/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs2834%2Fc
+[/us/pl/110/289/dB/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdB%2FtVIII
 [/us/stat/122/2870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2870
-[/us/act/1954-08-02/ch649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-02%2Fch649
+[/us/act/1954-08-02/ch649/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-02%2Fch649%2FtVIII
 [/us/stat/68/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F647
 [/us/usc/t42/s1434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1434
-[/us/pl/110/289/s2832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs2832
+[/us/pl/110/289/dB/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdB%2FtVIII
 [/us/stat/122/2867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2867
 [/us/usc/t26/s42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs42
 [/us/usc/t26/s42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs42

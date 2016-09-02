@@ -53,7 +53,7 @@
 
         In addition to the authority to borrow from the Secretary of the Treasury provided in subsection (d), if in the judgment of the Board, a loan to the fund is required at any time for carrying out the purposes of this subchapter, the fund is authorized to borrow from the National Credit Union Administration Central Liquidity Facility.
 
-([June 26, 1934, ch. 750][/us/act/1934-06-26/ch750], title II, § 203, as added [Pub. L. 91–468, § 1(3)][/us/pl/91/468/s1/3], Oct. 19, 1970, [84 Stat. 999][/us/stat/84/999]; amended [Pub. L. 94–273, § 2(4)][/us/pl/94/273/s2/4], Apr. 21, 1976, [90 Stat. 375][/us/stat/90/375]; [Pub. L. 95–630, title V, § 502(b)][/us/pl/95/630/s502/b], Nov. 10, 1978, [92 Stat. 3681][/us/stat/92/3681]; [Pub. L. 97–320, title V, § 530][/us/pl/97/320/s530], Oct. 15, 1982, [96 Stat. 1535][/us/stat/96/1535]; [Pub. L. 98–369, div. B, title VIII, § 2811][/us/pl/98/369/s2811], July 18, 1984, [98 Stat. 1206][/us/stat/98/1206]; [Pub. L. 111–22, div. A, title II, § 204(c)(2)][/us/pl/111/22/s204/c/2], (3), May 20, 2009, [123 Stat. 1650][/us/stat/123/1650].)
+([June 26, 1934, ch. 750][/us/act/1934-06-26/ch750], title II, § 203, as added [Pub. L. 91–468][/us/pl/91/468], § 1(3), Oct. 19, 1970, [84 Stat. 999][/us/stat/84/999]; amended [Pub. L. 94–273][/us/pl/94/273], § 2(4), Apr. 21, 1976, [90 Stat. 375][/us/stat/90/375]; [Pub. L. 95–630, title V][/us/pl/95/630/tV], § 502(b), Nov. 10, 1978, [92 Stat. 3681][/us/stat/92/3681]; [Pub. L. 97–320, title V][/us/pl/97/320/tV], § 530, Oct. 15, 1982, [96 Stat. 1535][/us/stat/96/1535]; [Pub. L. 98–369, div. B, title VIII][/us/pl/98/369/dB/tVIII], § 2811, July 18, 1984, [98 Stat. 1206][/us/stat/98/1206]; [Pub. L. 111–22, div. A, title II][/us/pl/111/22/dA/tII], § 204(c)(2), (3), May 20, 2009, [123 Stat. 1650][/us/stat/123/1650].)
 
  __References in Text__ 
 
@@ -61,13 +61,13 @@
 
  __Codification__ 
 
-    In subsec. (d)(3), “chapter 31 of title 31” substituted for “the Second Liberty Bond Act, as amended” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    In subsec. (d)(3), “chapter 31 of title 31” substituted for “the Second Liberty Bond Act, as amended” on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
  __Amendments__ 
 
-    2009—Subsec. (d)(1). [Pub. L. 111–22, § 204(c)(2)][/us/pl/111/22/s204/c/2], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “If, in the judgment of the Board, a loan to the fund is required at any time for carrying out the purposes of this subchapter, the Secretary of the Treasury shall make the loan, but loans under this paragraph shall not exceed in the aggregate $100,000,000 outstanding at any one time. Except as otherwise provided in this subsection and in subsection (e) of this section, each loan under this paragraph shall be made on such terms as may be fixed by agreement between the Board and the Secretary of the Treasury.”
+    2009—Subsec. (d)(1). [Pub. L. 111–22][/us/pl/111/22], § 204(c)(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “If, in the judgment of the Board, a loan to the fund is required at any time for carrying out the purposes of this subchapter, the Secretary of the Treasury shall make the loan, but loans under this paragraph shall not exceed in the aggregate $100,000,000 outstanding at any one time. Except as otherwise provided in this subsection and in subsection (e) of this section, each loan under this paragraph shall be made on such terms as may be fixed by agreement between the Board and the Secretary of the Treasury.”
 
-    Subsec. (d)(4). [Pub. L. 111–22, § 204(c)(3)][/us/pl/111/22/s204/c/3], added par. (4).
+    Subsec. (d)(4). [Pub. L. 111–22][/us/pl/111/22], § 204(c)(3), added par. (4).
 
     1984—Subsec. (b). [Pub. L. 98–369][/us/pl/98/369] inserted “deposits and” and provisions relating to annual reporting requirements by the Board.
 
@@ -98,23 +98,23 @@
 [/us/usc/t12/s1790e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1790e
 [/us/usc/t12/s1790e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1790e
 [/us/act/1934-06-26/ch750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-26%2Fch750
-[/us/pl/91/468/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F468%2Fs1%2F3
+[/us/pl/91/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F468
 [/us/stat/84/999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F999
-[/us/pl/94/273/s2/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273%2Fs2%2F4
+[/us/pl/94/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273
 [/us/stat/90/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F375
-[/us/pl/95/630/s502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs502%2Fb
+[/us/pl/95/630/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtV
 [/us/stat/92/3681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3681
-[/us/pl/97/320/s530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs530
+[/us/pl/97/320/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2FtV
 [/us/stat/96/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1535
-[/us/pl/98/369/s2811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2811
+[/us/pl/98/369/dB/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdB%2FtVIII
 [/us/stat/98/1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1206
-[/us/pl/111/22/s204/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs204%2Fc%2F2
+[/us/pl/111/22/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2FdA%2FtII
 [/us/stat/123/1650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1650
 [/us/act/1934-06-26/ch750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-26%2Fch750
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
-[/us/pl/111/22/s204/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs204%2Fc%2F2
-[/us/pl/111/22/s204/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs204%2Fc%2F3
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/97/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320
 [/us/pl/95/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630

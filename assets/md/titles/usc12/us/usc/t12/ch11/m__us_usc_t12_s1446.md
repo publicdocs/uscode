@@ -29,15 +29,15 @@
 
             The Director shall promulgate regulations establishing the conditions and procedures for the consideration and approval of any voluntary merger described in paragraph (1), including the procedures for Bank member approval.
 
-([July 22, 1932, ch. 522, § 26][/us/act/1932-07-22/ch522/s26], [47 Stat. 740][/us/stat/47/740]; [Pub. L. 101–73, title VII, § 701(b)(1)][/us/pl/101/73/s701/b/1], (3)(A), Aug. 9, 1989, [103 Stat. 412][/us/stat/103/412]; [Pub. L. 110–289, div. A, title II][/us/pl/110/289], §§ 1204(8), 1209, 1214, July 30, 2008, [122 Stat. 2786][/us/stat/122/2786], 2789, 2791.)
+([July 22, 1932, ch. 522][/us/act/1932-07-22/ch522], § 26, [47 Stat. 740][/us/stat/47/740]; [Pub. L. 101–73, title VII][/us/pl/101/73/tVII], § 701(b)(1), (3)(A), Aug. 9, 1989, [103 Stat. 412][/us/stat/103/412]; [Pub. L. 110–289, div. A, title II][/us/pl/110/289/dA/tII], §§ 1204(8), 1209, 1214, July 30, 2008, [122 Stat. 2786][/us/stat/122/2786], 2789, 2791.)
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–289, § 1209][/us/pl/110/289/s1209], designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+    2008—[Pub. L. 110–289][/us/pl/110/289], § 1209, designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
-    [Pub. L. 110–289, § 1204(8)][/us/pl/110/289/s1204/8], substituted “the Director” for “the Board” wherever appearing.
+    [Pub. L. 110–289][/us/pl/110/289], § 1204(8), substituted “the Director” for “the Board” wherever appearing.
 
-    Subsec. (a). [Pub. L. 110–289, § 1214][/us/pl/110/289/s1214], which directed insertion of “At least 30 days prior to liquidating or reorganizing any Bank under this section, the Director shall notify the Bank of its determination and the facts and circumstances upon which such determination is based. The Bank may contest that determination in a hearing before the Director, in which all issues shall be determined on the record pursuant to [section 554 of title 5][/us/usc/t5/s554].” at the end of this section, was executed by making the insertion at the end of subsec. (a), to reflect the probable intent of Congress and the amendment by [Pub. L. 110–289, § 1209][/us/pl/110/289/s1209]. See above.
+    Subsec. (a). [Pub. L. 110–289][/us/pl/110/289], § 1214, which directed insertion of “At least 30 days prior to liquidating or reorganizing any Bank under this section, the Director shall notify the Bank of its determination and the facts and circumstances upon which such determination is based. The Bank may contest that determination in a hearing before the Director, in which all issues shall be determined on the record pursuant to [section 554 of title 5][/us/usc/t5/s554].” at the end of this section, was executed by making the insertion at the end of subsec. (a), to reflect the probable intent of Congress and the amendment by [Pub. L. 110–289][/us/pl/110/289], § 1209. See above.
 
     1989—[Pub. L. 101–73][/us/pl/101/73] substituted “Board” for “board” wherever appearing.
 
@@ -49,17 +49,17 @@
 ----------
 
 [/us/usc/t5/s554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs554
-[/us/act/1932-07-22/ch522/s26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-07-22%2Fch522%2Fs26
+[/us/act/1932-07-22/ch522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-07-22%2Fch522
 [/us/stat/47/740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F740
-[/us/pl/101/73/s701/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs701%2Fb%2F1
+[/us/pl/101/73/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtVII
 [/us/stat/103/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F412
-[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtII
 [/us/stat/122/2786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2786
-[/us/pl/110/289/s1209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1209
-[/us/pl/110/289/s1204/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1204%2F8
-[/us/pl/110/289/s1214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1214
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
 [/us/usc/t5/s554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs554
-[/us/pl/110/289/s1209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1209
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
 [/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
 
 

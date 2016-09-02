@@ -287,7 +287,7 @@
 
         This section is repealed, and the authority provided under this section shall terminate, on September 30, 2014.
 
-([Pub. L. 103–325, title I, § 114A][/us/pl/103/325/s114A], as added [Pub. L. 111–240, title I, § 1134][/us/pl/111/240/s1134], Sept. 27, 2010, [124 Stat. 2515][/us/stat/124/2515].)
+([Pub. L. 103–325, title I][/us/pl/103/325/tI], § 114A, as added [Pub. L. 111–240, title I][/us/pl/111/240/tI], § 1134, Sept. 27, 2010, [124 Stat. 2515][/us/stat/124/2515].)
 
  __Termination of Section__ 
 
@@ -299,13 +299,13 @@
 
  __Termination Date__ 
 
-[Pub. L. 114–113, div. E, title I][/us/pl/114/113], Dec. 18, 2015, [129 Stat. 2427][/us/stat/129/2427], provided in part: 
+[Pub. L. 114–113, div. E, title I][/us/pl/114/113/dE/tI], Dec. 18, 2015, [129 Stat. 2427][/us/stat/129/2427], provided in part: 
 
 > “That such section 114A \[this section\] shall remain in effect until September 30, 2016.”
 
     Similar provisions were contained in the following prior appropriations act:
 
-    [Pub. L. 113–235, div. E, title I][/us/pl/113/235], Dec. 16, 2014, [128 Stat. 2336][/us/stat/128/2336].
+    [Pub. L. 113–235, div. E, title I][/us/pl/113/235/dE/tI], Dec. 16, 2014, [128 Stat. 2336][/us/stat/128/2336].
 
 ----------
 
@@ -316,16 +316,16 @@
 
 [/us/usc/t12/s4707/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4707%2Fb
 [/us/usc/t12/s2901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2901
-[/us/pl/103/325/s114A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs114A
-[/us/pl/111/240/s1134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1134
+[/us/pl/103/325/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtI
+[/us/pl/111/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2FtI
 [/us/stat/124/2515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2515
 [/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/95/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128
 [/us/stat/91/1147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1147
 [/us/usc/t12/s2901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2901
-[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113/dE/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdE%2FtI
 [/us/stat/129/2427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2427
-[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235/dE/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdE%2FtI
 [/us/stat/128/2336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2336
 
 

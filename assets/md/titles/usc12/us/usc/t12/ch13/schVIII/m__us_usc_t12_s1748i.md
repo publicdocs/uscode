@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act Sept. 28, 1951, ch. 434][/us/act/1951-09-28/ch434], title V, § 505, [65 Stat. 365][/us/stat/65/365], related to appropriation and expenditure of funds for acquisition of land, installation of outside utilities, and site preparation for housing projects constructed under this subchapter.
+    Section, [act Sept. 28, 1951, ch. 434, title V][/us/act/1951-09-28/ch434/tV], § 505, [65 Stat. 365][/us/stat/65/365], related to appropriation and expenditure of funds for acquisition of land, installation of outside utilities, and site preparation for housing projects constructed under this subchapter.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1951-09-28/ch434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-09-28%2Fch434
+[/us/act/1951-09-28/ch434/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-09-28%2Fch434%2FtV
 [/us/stat/65/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F365
 
 

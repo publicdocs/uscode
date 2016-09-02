@@ -45,7 +45,7 @@
 
         This section may not be construed to authorize the withholding of any information from, or to prohibit the disclosure of any information to, the Congress or any committee or subcommittee thereof.
 
-([Pub. L. 102–550, title XIII, § 1319C][/us/pl/102/550/s1319C], Oct. 28, 1992, [106 Stat. 3951][/us/stat/106/3951].)
+([Pub. L. 102–550, title XIII][/us/pl/102/550/tXIII], § 1319C, Oct. 28, 1992, [106 Stat. 3951][/us/stat/106/3951].)
 
 ----------
 
@@ -54,7 +54,7 @@
 ----------
 ----------
 
-[/us/pl/102/550/s1319C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1319C
+[/us/pl/102/550/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIII
 [/us/stat/106/3951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3951
 
 

@@ -53,7 +53,7 @@
 
         Subject to subtitle B of the Consumer Financial Protection Act of 2010 \[[12 U.S.C. 5511][/us/usc/t12/s5511] et seq.\], enforcement of the requirements imposed under this chapter is committed to each of the agencies under subsection (b). To facilitate research, examinations, and enforcement, all data collected pursuant to [section 2803 of this title][/us/usc/t12/s2803] shall be available to the entities listed under subsection (b). The Bureau may exercise its authorities under the Consumer Financial Protection Act of 2010 to exercise principal authority to examine and enforce compliance by any person with the requirements of this chapter.
 
-([Pub. L. 94–200, title III, § 305][/us/pl/94/200/s305], Dec. 31, 1975, [89 Stat. 1126][/us/stat/89/1126]; [Pub. L. 101–73, title VII, § 744(p)(1)][/us/pl/101/73/s744/p/1], title XII, § 1211(g), Aug. 9, 1989, [103 Stat. 440][/us/stat/103/440], 526; [Pub. L. 102–242, title II, § 212(a)(2)][/us/pl/102/242/s212/a/2], Dec. 19, 1991, [105 Stat. 2299][/us/stat/105/2299]; [Pub. L. 111–203, title X, § 1094(1)][/us/pl/111/203/s1094/1], (4), July 21, 2010, [124 Stat. 2097][/us/stat/124/2097], 2099.)
+([Pub. L. 94–200, title III][/us/pl/94/200/tIII], § 305, Dec. 31, 1975, [89 Stat. 1126][/us/stat/89/1126]; [Pub. L. 101–73, title VII][/us/pl/101/73/tVII], § 744(p)(1), title XII, § 1211(g), Aug. 9, 1989, [103 Stat. 440][/us/stat/103/440], 526; [Pub. L. 102–242, title II][/us/pl/102/242/tII], § 212(a)(2), Dec. 19, 1991, [105 Stat. 2299][/us/stat/105/2299]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1094(1), (4), July 21, 2010, [124 Stat. 2097][/us/stat/124/2097], 2099.)
 
  __References in Text__ 
 
@@ -67,15 +67,15 @@
 
  __Amendments__ 
 
-    2010—Subsec. (a). [Pub. L. 111–203, § 1094(1)][/us/pl/111/203/s1094/1], substituted “Bureau” for “Board” in two places.
+    2010—Subsec. (a). [Pub. L. 111–203][/us/pl/111/203], § 1094(1), substituted “Bureau” for “Board” in two places.
 
-    Subsec. (b). [Pub. L. 111–203, § 1094(4)(A)][/us/pl/111/203/s1094/4/A], added subsec. (b) and struck out former subsec. (b) which related to powers of certain other agencies.
+    Subsec. (b). [Pub. L. 111–203][/us/pl/111/203], § 1094(4)(A), added subsec. (b) and struck out former subsec. (b) which related to powers of certain other agencies.
 
-    Subsec. (d). [Pub. L. 111–203, § 1094(4)(B)][/us/pl/111/203/s1094/4/B], added subsec. (d).
+    Subsec. (d). [Pub. L. 111–203][/us/pl/111/203], § 1094(4)(B), added subsec. (d).
 
-    1991—Subsec. (b). [Pub. L. 102–242, § 212(a)(2)(B)][/us/pl/102/242/s212/a/2/B], inserted at end “The terms used in paragraph (1) that are not defined in this chapter or otherwise defined in [section 1813(s) of this title][/us/usc/t12/s1813/s] shall have the meaning given to them in [section 3101 of this title][/us/usc/t12/s3101].”
+    1991—Subsec. (b). [Pub. L. 102–242][/us/pl/102/242], § 212(a)(2)(B), inserted at end “The terms used in paragraph (1) that are not defined in this chapter or otherwise defined in [section 1813(s) of this title][/us/usc/t12/s1813/s] shall have the meaning given to them in [section 3101 of this title][/us/usc/t12/s3101].”
 
-    Subsec. (b)(1). [Pub. L. 102–242, § 212(a)(2)(A)][/us/pl/102/242/s212/a/2/A], added par. (1) and struck out former par. (1) which read as follows: “[section 1818 of this title][/us/usc/t12/s1818], in the case of—
+    Subsec. (b)(1). [Pub. L. 102–242][/us/pl/102/242], § 212(a)(2)(A), added par. (1) and struck out former par. (1) which read as follows: “[section 1818 of this title][/us/usc/t12/s1818], in the case of—
 
     “(A) national banks, by the Comptroller of the Currency;
 
@@ -83,9 +83,9 @@
 
     “(C) banks insured by the Federal Deposit Insurance Corporation (other than members of the Federal Reserve System) and mutual savings banks as defined in [section 1813(f) of this title][/us/usc/t12/s1813/f] and any other depository institution not referred to in this paragraph or paragraph (2) or (3) of this subsection, by the Board of Directors of the Federal Deposit Insurance Corporation;”.
 
-    1989—Subsec. (b)(2). [Pub. L. 101–73, § 744(p)(1)][/us/pl/101/73/s744/p/1], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “[section 1464(d) of this title][/us/usc/t12/s1464/d], [section 1730 of this title][/us/usc/t12/s1730], and sections 1426(i) and 1437 of this title, by the Federal Home Loan Bank Board (acting directly or through the Federal Savings and Loan Insurance Corporation) in the case of any institution subject to any of those provisions; and”.
+    1989—Subsec. (b)(2). [Pub. L. 101–73][/us/pl/101/73], § 744(p)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “[section 1464(d) of this title][/us/usc/t12/s1464/d], [section 1730 of this title][/us/usc/t12/s1730], and sections 1426(i) and 1437 of this title, by the Federal Home Loan Bank Board (acting directly or through the Federal Savings and Loan Insurance Corporation) in the case of any institution subject to any of those provisions; and”.
 
-    Subsec. (b)(4). [Pub. L. 101–73, § 1211(g)][/us/pl/101/73/s1211/g], added par. (4).
+    Subsec. (b)(4). [Pub. L. 101–73][/us/pl/101/73], § 1211(g), added par. (4).
 
  __Effective Date of 2010 Amendment__ 
 
@@ -117,13 +117,13 @@
 [/us/usc/t12/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3101
 [/us/usc/t12/s5511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5511
 [/us/usc/t12/s2803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2803
-[/us/pl/94/200/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F200%2Fs305
+[/us/pl/94/200/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F200%2FtIII
 [/us/stat/89/1126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1126
-[/us/pl/101/73/s744/p/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs744%2Fp%2F1
+[/us/pl/101/73/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtVII
 [/us/stat/103/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F440
-[/us/pl/102/242/s212/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs212%2Fa%2F2
+[/us/pl/102/242/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtII
 [/us/stat/105/2299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2299
-[/us/pl/111/203/s1094/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1094%2F1
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2097
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1955
@@ -132,19 +132,19 @@
 [/us/act/1934-06-26/ch750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-26%2Fch750
 [/us/stat/48/1216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1216
 [/us/usc/t12/s1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1751
-[/us/pl/111/203/s1094/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1094%2F1
-[/us/pl/111/203/s1094/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1094%2F4%2FA
-[/us/pl/111/203/s1094/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1094%2F4%2FB
-[/us/pl/102/242/s212/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs212%2Fa%2F2%2FB
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
 [/us/usc/t12/s1813/s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813%2Fs
 [/us/usc/t12/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3101
-[/us/pl/102/242/s212/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs212%2Fa%2F2%2FA
+[/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
 [/us/usc/t12/s1818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1818
 [/us/usc/t12/s1813/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813%2Ff
-[/us/pl/101/73/s744/p/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs744%2Fp%2F1
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
 [/us/usc/t12/s1464/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1464%2Fd
 [/us/usc/t12/s1730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1730
-[/us/pl/101/73/s1211/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs1211%2Fg
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s1100H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100H
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a

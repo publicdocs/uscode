@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, R.S. § 5191 (part); acts [Dec. 23, 1913, ch. 6, § 2][/us/act/1913-12-23/ch6/s2] (part), [38 Stat. 251][/us/stat/38/251]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 203(a), [49 Stat. 704][/us/stat/49/704], which set out a list of reserve and central reserve cities and permitted the Board of Governors of the Federal Reserve System to reclassify, add to, or terminate the designation of such cities, was apparently included in the 1926 ed. of the Code on the basis of authorities other than the source credits. Accordingly, and because the continuing accuracy of the table was doubtful, this section was omitted.
+    Section, R.S. § 5191 (part); acts [Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 2 (part), [38 Stat. 251][/us/stat/38/251]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 203(a), [49 Stat. 704][/us/stat/49/704], which set out a list of reserve and central reserve cities and permitted the Board of Governors of the Federal Reserve System to reclassify, add to, or terminate the designation of such cities, was apparently included in the 1926 ed. of the Code on the basis of authorities other than the source credits. Accordingly, and because the continuing accuracy of the table was doubtful, this section was omitted.
 
     Some of the other provisions of R.S. § 5191 are classified to sections 142 and 143 of this title and some were not included in the Code.
 
@@ -25,7 +25,7 @@
 
  __Central Reserve and Reserve Cities__ 
 
-[Pub. L. 86–114, § 3(b)][/us/pl/86/114/s3/b], July 28, 1959, [73 Stat. 263][/us/stat/73/263], provided that: 
+[Pub. L. 86–114][/us/pl/86/114], § 3(b), July 28, 1959, [73 Stat. 263][/us/stat/73/263], provided that: 
 
 > “Effective three years after the date of the enactment of this Act \[July 28, 1959\]—
 
@@ -58,12 +58,12 @@
 ----------
 ----------
 
-[/us/act/1913-12-23/ch6/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs2
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
 [/us/stat/38/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F251
 [/us/act/1935-08-23/ch614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch614
 [/us/stat/49/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F704
 [/us/usc/t12/s222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs222
-[/us/pl/86/114/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F114%2Fs3%2Fb
+[/us/pl/86/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F114
 [/us/stat/73/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F263
 [/us/act/1887-03-03/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1887-03-03%2Fs2
 [/us/stat/24/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F24%2F560

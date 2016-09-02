@@ -23,11 +23,11 @@
 
         A declaration under subsection (a) shall be filed with the Attorney General of the United States or with an agent designated by the Attorney General for receiving declarations under this section.
 
-([Pub. L. 101–647, title XXV, § 2561][/us/pl/101/647/s2561], Nov. 29, 1990, [104 Stat. 4894][/us/stat/104/4894].)
+([Pub. L. 101–647, title XXV][/us/pl/101/647/tXXV], § 2561, Nov. 29, 1990, [104 Stat. 4894][/us/stat/104/4894].)
 
  __Short Title__ 
 
-[Pub. L. 101–647, title XXV, § 2560][/us/pl/101/647/s2560], Nov. 29, 1990, [104 Stat. 4893][/us/stat/104/4893], provided that: 
+[Pub. L. 101–647, title XXV][/us/pl/101/647/tXXV], § 2560, Nov. 29, 1990, [104 Stat. 4893][/us/stat/104/4893], provided that: 
 
 > “This subtitle \[subtitle H (§§ 2560–2594) of title XXV of [Pub. L. 101–647][/us/pl/101/647], enacting this chapter and [section 3059A of Title 18][/us/usc/t18/s3059A], Crimes and Criminal Procedure, and amending [section 1831k of this title][/us/usc/t12/s1831k]\] may be cited as the ‘Financial Institutions Anti-Fraud Enforcement Act of 1990’.”
 
@@ -39,9 +39,9 @@
 ----------
 
 [/us/usc/t12/s1833a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1833a
-[/us/pl/101/647/s2561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2561
+[/us/pl/101/647/tXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXV
 [/us/stat/104/4894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4894
-[/us/pl/101/647/s2560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2560
+[/us/pl/101/647/tXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXV
 [/us/stat/104/4893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4893
 [/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
 [/us/usc/t18/s3059A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3059A

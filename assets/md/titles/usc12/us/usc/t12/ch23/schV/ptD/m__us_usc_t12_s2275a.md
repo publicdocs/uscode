@@ -33,7 +33,7 @@
 
         This section shall not affect the authority of the Farm Credit Administration to exercise any other approval authority either on a case-by-case basis or through regulation, as provided in [section 2252(a)(5) of this title][/us/usc/t12/s2252/a/5].
 
-([Pub. L. 92–181, title V, § 5][/us/pl/92/181/s5].45, as added [Pub. L. 100–233, title VIII, § 802(w)][/us/pl/100/233/s802/w], Jan. 6, 1988, [101 Stat. 1713][/us/stat/101/1713].)
+([Pub. L. 92–181, title V][/us/pl/92/181/tV], § 5.45, as added [Pub. L. 100–233, title VIII][/us/pl/100/233/tVIII], § 802(w), Jan. 6, 1988, [101 Stat. 1713][/us/stat/101/1713].)
 
  __References in Text__ 
 
@@ -47,8 +47,8 @@
 ----------
 
 [/us/usc/t12/s2252/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2252%2Fa%2F5
-[/us/pl/92/181/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs5
-[/us/pl/100/233/s802/w]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs802%2Fw
+[/us/pl/92/181/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtV
+[/us/pl/100/233/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtVIII
 [/us/stat/101/1713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1713
 [/us/pl/100/233/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs802
 [/us/stat/101/1710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1710

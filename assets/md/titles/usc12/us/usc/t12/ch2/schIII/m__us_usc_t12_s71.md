@@ -17,7 +17,7 @@
 
     The affairs of each association shall be managed by not less than five directors, who shall be elected by the shareholders at a meeting to be held at any time before the association is authorized by the Comptroller of the Currency to commence the business of banking; and afterward at meetings to be held on such day of each year as is specified therefor in the bylaws. The directors shall hold office for a period of not more than 3 years, and until their successors are elected and have qualified. In accordance with regulations issued by the Comptroller of the Currency, a national bank may adopt bylaws that provide for staggering the terms of its directors.
 
-(R.S. § 5145; [Pub. L. 88–232, § 1][/us/pl/88/232/s1], Dec. 23, 1963, [77 Stat. 472][/us/stat/77/472]; [Pub. L. 106–569, title XII, § 1205(a)][/us/pl/106/569/s1205/a], Dec. 27, 2000, [114 Stat. 3033][/us/stat/114/3033].)
+(R.S. § 5145; [Pub. L. 88–232][/us/pl/88/232], § 1, Dec. 23, 1963, [77 Stat. 472][/us/stat/77/472]; [Pub. L. 106–569, title XII][/us/pl/106/569/tXII], § 1205(a), Dec. 27, 2000, [114 Stat. 3033][/us/stat/114/3033].)
 
  __Codification__ 
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/88/232/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F232%2Fs1
+[/us/pl/88/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F232
 [/us/stat/77/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F472
-[/us/pl/106/569/s1205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs1205%2Fa
+[/us/pl/106/569/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2FtXII
 [/us/stat/114/3033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F3033
 [/us/act/1864-06-03/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-06-03%2Fch106
 [/us/stat/13/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F13%2F102

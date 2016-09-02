@@ -53,7 +53,7 @@
 
             Nothing in paragraph (1) shall be construed to impose any additional requirement or liability on a mortgage insurer, a mortgagee, or a holder of a residential mortgage.
 
-([Pub. L. 105–216, § 8][/us/pl/105/216/s8], July 29, 1998, [112 Stat. 905][/us/stat/112/905].)
+([Pub. L. 105–216][/us/pl/105/216], § 8, July 29, 1998, [112 Stat. 905][/us/stat/112/905].)
 
 ----------
 
@@ -65,7 +65,7 @@
 [/us/usc/t12/s4909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4909
 [/us/usc/t12/s4909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4909
 [/us/usc/t12/s4909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4909
-[/us/pl/105/216/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F216%2Fs8
+[/us/pl/105/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F216
 [/us/stat/112/905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F905
 
 

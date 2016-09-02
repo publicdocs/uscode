@@ -139,13 +139,13 @@
 
             (C) if the owner has an existing multi-year project-based rental assistance contract for less than 20 years, have the option to extend the contract to a 20-year term.
 
-([Pub. L. 100–242, title II, § 222][/us/pl/100/242/s222], as added [Pub. L. 101–625, title VI, § 601(a)][/us/pl/101/625/s601/a], Nov. 28, 1990, [104 Stat. 4260][/us/stat/104/4260]; amended [Pub. L. 102–550, title III][/us/pl/102/550], §§ 308, 317(a)(4), Oct. 28, 1992, [106 Stat. 3764][/us/stat/106/3764], 3772; [Pub. L. 103–327, title II][/us/pl/103/327], Sept. 28, 1994, [108 Stat. 2316][/us/stat/108/2316]; [Pub. L. 114–94, div. G, title LXXVII, § 77001][/us/pl/114/94/s77001], Dec. 4, 2015, [129 Stat. 1790][/us/stat/129/1790].)
+([Pub. L. 100–242, title II][/us/pl/100/242/tII], § 222, as added [Pub. L. 101–625, title VI][/us/pl/101/625/tVI], § 601(a), Nov. 28, 1990, [104 Stat. 4260][/us/stat/104/4260]; amended [Pub. L. 102–550, title III][/us/pl/102/550/tIII], §§ 308, 317(a)(4), Oct. 28, 1992, [106 Stat. 3764][/us/stat/106/3764], 3772; [Pub. L. 103–327, title II][/us/pl/103/327/tII], Sept. 28, 1994, [108 Stat. 2316][/us/stat/108/2316]; [Pub. L. 114–94, div. G, title LXXVII][/us/pl/114/94/dG/tLXXVII], § 77001, Dec. 4, 2015, [129 Stat. 1790][/us/stat/129/1790].)
 
  __References in Text__ 
 
-    This title, referred to in subsecs. (a)(1) and (c)(1), means title II of [Pub. L. 100–242][/us/pl/100/242], as amended by [Pub. L. 101–625, title VI, § 601(a)][/us/pl/101/625/s601/a], Nov. 28, 1990, [104 Stat. 4249][/us/stat/104/4249], known as the Low-Income Housing Preservation and Resident Homeownership Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 4101 of this title][/us/usc/t12/s4101] and Tables.
+    This title, referred to in subsecs. (a)(1) and (c)(1), means title II of [Pub. L. 100–242][/us/pl/100/242], as amended by [Pub. L. 101–625, title VI][/us/pl/101/625/tVI], § 601(a), Nov. 28, 1990, [104 Stat. 4249][/us/stat/104/4249], known as the Low-Income Housing Preservation and Resident Homeownership Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 4101 of this title][/us/usc/t12/s4101] and Tables.
 
-    [Section 1715z–6(f) of this title][/us/usc/t12/s1715z–6/f], referred to in subsec. (d)(2)(A)(i), (C)(ii), was repealed by [Pub. L. 104–204, title II][/us/pl/104/204], Sept. 26, 1996, [110 Stat. 2885][/us/stat/110/2885].
+    [Section 1715z–6(f) of this title][/us/usc/t12/s1715z–6/f], referred to in subsec. (d)(2)(A)(i), (C)(ii), was repealed by [Pub. L. 104–204, title II][/us/pl/104/204/tII], Sept. 26, 1996, [110 Stat. 2885][/us/stat/110/2885].
 
  __Codification__ 
 
@@ -179,25 +179,25 @@
 
     Subsec. (a)(2)(F). [Pub. L. 103–327][/us/pl/103/327], which directed the temporary amendment of par. (1)(F) by substituting “to the extent practicable, the units becoming available to new tenants shall be” for “rents for units becoming available to new tenants shall be at levels approved by the Secretary that will ensure, to the extent practicable, that the units will be” in cl. (i), adding cl. (ii), and redesignating former cl. (ii) as (iii), was executed by making the amendments to par. (2)(F) to reflect the probable intent of Congress. Cl. (ii) read as follows: “in order to maintain the proportions of very low- and low-income families and persons required by clause (i), owners shall be required to apply any required Federal preference rules only with respect to tenants within each low- or very low-income category, in accordance with the approved tenant profile; and”. See Effective and Termination Dates of 1994 Amendment note below.
 
-    1992—Subsec. (a)(2)(A). [Pub. L. 102–550, § 317(a)(4)(A)][/us/pl/102/550/s317/a/4/A], substituted “low-income” for “low income” after “families or persons,”.
+    1992—Subsec. (a)(2)(A). [Pub. L. 102–550][/us/pl/102/550], § 317(a)(4)(A), substituted “low-income” for “low income” after “families or persons,”.
 
-    Subsec. (a)(2)(G)(i). [Pub. L. 102–550, § 308(b)][/us/pl/102/550/s308/b], substituted “, where the owner is a priority purchaser, to the portion of rent attributable to project oversight costs” for “by making changes in the annual authorized return under [section 4104 of this title][/us/usc/t12/s4104]”.
+    Subsec. (a)(2)(G)(i). [Pub. L. 102–550][/us/pl/102/550], § 308(b), substituted “, where the owner is a priority purchaser, to the portion of rent attributable to project oversight costs” for “by making changes in the annual authorized return under [section 4104 of this title][/us/usc/t12/s4104]”.
 
-    Subsec. (c)(2). [Pub. L. 102–550, § 317(a)(4)(B)][/us/pl/102/550/s317/a/4/B], substituted “a hearing” for “an hearing”.
+    Subsec. (c)(2). [Pub. L. 102–550][/us/pl/102/550], § 317(a)(4)(B), substituted “a hearing” for “an hearing”.
 
-    Subsec. (d)(2)(B). [Pub. L. 102–550, § 317(a)(4)(C)][/us/pl/102/550/s317/a/4/C], inserted “the” after “that”.
+    Subsec. (d)(2)(B). [Pub. L. 102–550][/us/pl/102/550], § 317(a)(4)(C), inserted “the” after “that”.
 
-    Subsec. (d)(2)(C)(ii). [Pub. L. 102–550, § 317(a)(4)(D)][/us/pl/102/550/s317/a/4/D], substituted “in default” for “default”.
+    Subsec. (d)(2)(C)(ii). [Pub. L. 102–550][/us/pl/102/550], § 317(a)(4)(D), substituted “in default” for “default”.
 
-    Subsec. (e). [Pub. L. 102–550, § 308(a)][/us/pl/102/550/s308/a], struck out subsec. (e) which read as follows: “(e) Windfall Profits.—The Secretary shall submit a report to the Congress not later than 90 days after November 28, 1990, evaluating the availability, quality, and reliability of data to measure the accessibility of decent, affordable housing in all areas where properties are eligible to submit a notice of intent to prepay under [section 4102 of this title][/us/usc/t12/s4102]. To prevent payment of windfall profits, the Secretary may make available incentive payments under section 4109 or 4110 of this title only to owners in those rental markets where there is an inadequate supply of decent, affordable housing, if the Secretary determines that adequate data can be obtained to permit objective and fair implementation or where necessary to accomplish the other public policy objectives under this chapter. The Secretary shall implement this subsection in a manner consistent with the process established by this chapter.”
+    Subsec. (e). [Pub. L. 102–550][/us/pl/102/550], § 308(a), struck out subsec. (e) which read as follows: “(e) Windfall Profits.—The Secretary shall submit a report to the Congress not later than 90 days after November 28, 1990, evaluating the availability, quality, and reliability of data to measure the accessibility of decent, affordable housing in all areas where properties are eligible to submit a notice of intent to prepay under [section 4102 of this title][/us/usc/t12/s4102]. To prevent payment of windfall profits, the Secretary may make available incentive payments under section 4109 or 4110 of this title only to owners in those rental markets where there is an inadequate supply of decent, affordable housing, if the Secretary determines that adequate data can be obtained to permit objective and fair implementation or where necessary to accomplish the other public policy objectives under this chapter. The Secretary shall implement this subsection in a manner consistent with the process established by this chapter.”
 
  __Effective and Termination Dates of 1994 Amendment__ 
 
-[Pub. L. 103–327, title II][/us/pl/103/327], Sept. 28, 1994, [108 Stat. 2316][/us/stat/108/2316], provided in part that: 
+[Pub. L. 103–327, title II][/us/pl/103/327/tII], Sept. 28, 1994, [108 Stat. 2316][/us/stat/108/2316], provided in part that: 
 
 > “Section 601 \[amending this section and [section 4119 of this title][/us/usc/t12/s4119] and enacting provisions set out below\] of title VI of S. 2281 (103d Cong., 2d Sess\[.\]), as reported to the Senate on July 13 (legislative day, July 11), 1994 (S. Rep. 103–307), is hereby incorporated into this Act \[[Pub. L. 103–327][/us/pl/103/327]\], and such section 601 is deemed enacted into law upon enactment of this Act \[Sept. 28, 1994\]: Provided, That the provisions of such section 601 shall be effective only during fiscal year 1995.”
 
-Section 601(f) of title VI of S. 2281, One-Hundred Third Congress, as reported July 13, 1994, which was enacted into law by [Pub. L. 103–327, title II][/us/pl/103/327] \[title VI, § 601(f)\], Sept. 28, 1994, [108 Stat. 2316][/us/stat/108/2316], provided in part, that:
+Section 601(f) of title VI of S. 2281, One-Hundred Third Congress, as reported July 13, 1994, which was enacted into law by [Pub. L. 103–327, title II][/us/pl/103/327/tII] \[title VI, § 601(f)\], Sept. 28, 1994, [108 Stat. 2316][/us/stat/108/2316], provided in part, that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -221,21 +221,21 @@ Section 601(f) of title VI of S. 2281, One-Hundred Third Congress, as reported J
 [/us/usc/t12/s4110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4110
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
-[/us/pl/100/242/s222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs222
-[/us/pl/101/625/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs601%2Fa
+[/us/pl/100/242/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtII
+[/us/pl/101/625/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtVI
 [/us/stat/104/4260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4260
-[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtIII
 [/us/stat/106/3764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3764
-[/us/pl/103/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F327
+[/us/pl/103/327/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F327%2FtII
 [/us/stat/108/2316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2316
-[/us/pl/114/94/s77001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs77001
+[/us/pl/114/94/dG/tLXXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdG%2FtLXXVII
 [/us/stat/129/1790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1790
 [/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
-[/us/pl/101/625/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs601%2Fa
+[/us/pl/101/625/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtVI
 [/us/stat/104/4249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4249
 [/us/usc/t12/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4101
 [/us/usc/t12/s1715z–6/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715z%E2%80%936%2Ff
-[/us/pl/104/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204
+[/us/pl/104/204/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2FtII
 [/us/stat/110/2885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2885
 [/us/pl/103/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F327
 [/us/pl/103/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F327
@@ -250,19 +250,19 @@ Section 601(f) of title VI of S. 2281, One-Hundred Third Congress, as reported J
 [/us/pl/103/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F327
 [/us/usc/t42/s1437a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437a%2Fa
 [/us/pl/103/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F327
-[/us/pl/102/550/s317/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs317%2Fa%2F4%2FA
-[/us/pl/102/550/s308/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs308%2Fb
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/usc/t12/s4104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4104
-[/us/pl/102/550/s317/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs317%2Fa%2F4%2FB
-[/us/pl/102/550/s317/a/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs317%2Fa%2F4%2FC
-[/us/pl/102/550/s317/a/4/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs317%2Fa%2F4%2FD
-[/us/pl/102/550/s308/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs308%2Fa
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/usc/t12/s4102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4102
-[/us/pl/103/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F327
+[/us/pl/103/327/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F327%2FtII
 [/us/stat/108/2316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2316
 [/us/usc/t12/s4119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4119
 [/us/pl/103/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F327
-[/us/pl/103/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F327
+[/us/pl/103/327/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F327%2FtII
 [/us/stat/108/2316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2316
 [/us/usc/t12/s4119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4119
 

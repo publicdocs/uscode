@@ -25,7 +25,7 @@
 
     (4) The costs of the rehabilitation of multifamily housing projects (as defined in [section 1701z–11(b) of this title][/us/usc/t12/s1701z–11/b]) upon disposition by the Secretary.
 
-([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title V, § 542, as added [Pub. L. 103–233, title I, § 105(c)][/us/pl/103/233/s105/c], Apr. 11, 1994, [108 Stat. 363][/us/stat/108/363].)
+([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title V, § 542, as added [Pub. L. 103–233, title I][/us/pl/103/233/tI], § 105(c), Apr. 11, 1994, [108 Stat. 363][/us/stat/108/363].)
 
  __References in Text__ 
 
@@ -43,7 +43,7 @@
 [/us/usc/t12/s1701z–11/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701z%E2%80%9311%2Ff
 [/us/usc/t12/s1701z–11/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701z%E2%80%9311%2Fb
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
-[/us/pl/103/233/s105/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2Fs105%2Fc
+[/us/pl/103/233/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2FtI
 [/us/stat/108/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F363
 [/us/usc/t2/s661a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs661a
 

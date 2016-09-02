@@ -33,7 +33,7 @@
 
         (2) When the Board has been satisfied that all of such requirements, and all other requirements of this chapter, have been complied with, the Board shall approve the organization certificate. Upon such approval, the State credit union shall become a Federal credit union as of the date it ceases to be a State credit union. The Federal credit union shall be vested with all of the assets and shall continue responsible for all of the obligations of the State credit union to the same extent as though the conversion had not taken place.
 
-([June 26, 1934, ch. 750][/us/act/1934-06-26/ch750], title I, § 125, formerly § 26, as added [Pub. L. 86–354, § 1][/us/pl/86/354/s1], Sept. 22, 1959, [73 Stat. 638][/us/stat/73/638]; amended [Pub. L. 91–206, § 2(1)][/us/pl/91/206/s2/1], (3), Mar. 10, 1970, [84 Stat. 49][/us/stat/84/49]; renumbered title I, § 125, [Pub. L. 91–468, § 1(2)][/us/pl/91/468/s1/2], Oct. 19, 1970, [84 Stat. 994][/us/stat/84/994]; amended [Pub. L. 95–630, title V, § 502(b)][/us/pl/95/630/s502/b], Nov. 10, 1978, [92 Stat. 3681][/us/stat/92/3681]; [Pub. L. 97–320, title V, § 527][/us/pl/97/320/s527], Oct. 15, 1982, [96 Stat. 1535][/us/stat/96/1535].)
+([June 26, 1934, ch. 750][/us/act/1934-06-26/ch750], title I, § 125, formerly § 26, as added [Pub. L. 86–354][/us/pl/86/354], § 1, Sept. 22, 1959, [73 Stat. 638][/us/stat/73/638]; amended [Pub. L. 91–206][/us/pl/91/206], § 2(1), (3), Mar. 10, 1970, [84 Stat. 49][/us/stat/84/49]; renumbered title I, § 125, [Pub. L. 91–468][/us/pl/91/468], § 1(2), Oct. 19, 1970, [84 Stat. 994][/us/stat/84/994]; amended [Pub. L. 95–630, title V][/us/pl/95/630/tV], § 502(b), Nov. 10, 1978, [92 Stat. 3681][/us/stat/92/3681]; [Pub. L. 97–320, title V][/us/pl/97/320/tV], § 527, Oct. 15, 1982, [96 Stat. 1535][/us/stat/96/1535].)
 
  __References in Text__ 
 
@@ -41,7 +41,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 1771, [act June 26, 1934, ch. 750, § 21][/us/act/1934-06-26/ch750/s21], as added [July 9, 1937, ch. 471][/us/act/1937-07-09/ch471], [50 Stat. 487][/us/stat/50/487], related to allotment of space in Federal buildings, prior to the amendment of act June 26, 1934, by [Pub. L. 86–354][/us/pl/86/354]. See [section 1770 of this title][/us/usc/t12/s1770].
+    A prior section 1771, [act June 26, 1934, ch. 750][/us/act/1934-06-26/ch750], § 21, as added [July 9, 1937, ch. 471][/us/act/1937-07-09/ch471], [50 Stat. 487][/us/stat/50/487], related to allotment of space in Federal buildings, prior to the amendment of act June 26, 1934, by [Pub. L. 86–354][/us/pl/86/354]. See [section 1770 of this title][/us/usc/t12/s1770].
 
  __Amendments__ 
 
@@ -63,18 +63,18 @@
 ----------
 
 [/us/act/1934-06-26/ch750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-26%2Fch750
-[/us/pl/86/354/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F354%2Fs1
+[/us/pl/86/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F354
 [/us/stat/73/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F638
-[/us/pl/91/206/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F206%2Fs2%2F1
+[/us/pl/91/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F206
 [/us/stat/84/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F49
-[/us/pl/91/468/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F468%2Fs1%2F2
+[/us/pl/91/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F468
 [/us/stat/84/994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F994
-[/us/pl/95/630/s502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs502%2Fb
+[/us/pl/95/630/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtV
 [/us/stat/92/3681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3681
-[/us/pl/97/320/s527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs527
+[/us/pl/97/320/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2FtV
 [/us/stat/96/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1535
 [/us/usc/t22/s3602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3602%2Fb
-[/us/act/1934-06-26/ch750/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-26%2Fch750%2Fs21
+[/us/act/1934-06-26/ch750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-26%2Fch750
 [/us/act/1937-07-09/ch471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-07-09%2Fch471
 [/us/stat/50/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F487
 [/us/pl/86/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F354

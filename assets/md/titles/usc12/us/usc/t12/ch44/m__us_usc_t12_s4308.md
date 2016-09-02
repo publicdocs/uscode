@@ -59,7 +59,7 @@
 
             Model disclosure forms and clauses shall be adopted by the Bureau after duly given notice in the Federal Register and an opportunity for public comment in accordance with [section 553 of title 5][/us/usc/t5/s553].
 
-([Pub. L. 102–242, title II, § 269][/us/pl/102/242/s269], Dec. 19, 1991, [105 Stat. 2338][/us/stat/105/2338]; [Pub. L. 102–550, title IX, § 957(b)][/us/pl/102/550/s957/b], title XVI, § 1604(e)(2)(D)–(H), Oct. 28, 1992, [106 Stat. 3897][/us/stat/106/3897], 4084; [Pub. L. 111–203, title X, § 1100B(1)][/us/pl/111/203/s1100B/1], July 21, 2010, [124 Stat. 2109][/us/stat/124/2109].)
+([Pub. L. 102–242, title II][/us/pl/102/242/tII], § 269, Dec. 19, 1991, [105 Stat. 2338][/us/stat/105/2338]; [Pub. L. 102–550, title IX][/us/pl/102/550/tIX], § 957(b), title XVI, § 1604(e)(2)(D)–(H), Oct. 28, 1992, [106 Stat. 3897][/us/stat/106/3897], 4084; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1100B(1), July 21, 2010, [124 Stat. 2109][/us/stat/124/2109].)
 
  __References in Text__ 
 
@@ -69,9 +69,9 @@
 
     2010—[Pub. L. 111–203][/us/pl/111/203] substituted “Bureau” for “Board” wherever appearing.
 
-    1992—[Pub. L. 102–550, § 1604(e)(2)(D)][/us/pl/102/550/s1604/e/2/D]–(H), made technical amendment to references to “this chapter” wherever appearing to reflect correction of corresponding provision of original act.
+    1992—[Pub. L. 102–550][/us/pl/102/550], § 1604(e)(2)(D)–(H), made technical amendment to references to “this chapter” wherever appearing to reflect correction of corresponding provision of original act.
 
-    Subsec. (a)(2). [Pub. L. 102–550, § 957(b)][/us/pl/102/550/s957/b], substituted “9 months” for “6 months”.
+    Subsec. (a)(2). [Pub. L. 102–550][/us/pl/102/550], § 957(b), substituted “9 months” for “6 months”.
 
  __Effective Date of 2010 Amendment__ 
 
@@ -91,18 +91,18 @@
 [/us/usc/t12/s4309/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4309%2Fa
 [/us/usc/t12/s461/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs461%2Fb%2F1%2FA
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/pl/102/242/s269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs269
+[/us/pl/102/242/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtII
 [/us/stat/105/2338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2338
-[/us/pl/102/550/s957/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs957%2Fb
+[/us/pl/102/550/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtIX
 [/us/stat/106/3897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3897
-[/us/pl/111/203/s1100B/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100B%2F1
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2109
 [/us/usc/t12/s4311/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4311%2Fb
 [/us/pl/102/242/s12/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs12%2Fb
 [/us/pl/102/242/s272/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs272%2Fb
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
-[/us/pl/102/550/s1604/e/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1604%2Fe%2F2%2FD
-[/us/pl/102/550/s957/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs957%2Fb
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s1100H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100H
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a

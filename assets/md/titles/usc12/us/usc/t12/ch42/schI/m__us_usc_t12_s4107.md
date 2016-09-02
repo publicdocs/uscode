@@ -65,17 +65,17 @@
 
         An owner may from time to time revise and amend the plan of action as may be necessary to obtain approval of the plan under this subchapter. The owner shall submit any revision to the Secretary and to the tenants of the housing and make available to the Secretary and tenants all documentation supporting any revision, but not including any information that the Secretary determines is proprietary information.
 
-([Pub. L. 100–242, title II, § 217][/us/pl/100/242/s217], as added [Pub. L. 101–625, title VI, § 601(a)][/us/pl/101/625/s601/a], Nov. 28, 1990, [104 Stat. 4254][/us/stat/104/4254]; amended [Pub. L. 102–550, title III, § 304][/us/pl/102/550/s304], Oct. 28, 1992, [106 Stat. 3763][/us/stat/106/3763].)
+([Pub. L. 100–242, title II][/us/pl/100/242/tII], § 217, as added [Pub. L. 101–625, title VI][/us/pl/101/625/tVI], § 601(a), Nov. 28, 1990, [104 Stat. 4254][/us/stat/104/4254]; amended [Pub. L. 102–550, title III][/us/pl/102/550/tIII], § 304, Oct. 28, 1992, [106 Stat. 3763][/us/stat/106/3763].)
 
  __References in Text__ 
 
-    This title, referred to in subsecs. (a)(2) and (b)(1)(F), (2)(E), means title II of [Pub. L. 100–242][/us/pl/100/242], as amended by [Pub. L. 101–625, title VI, § 601(a)][/us/pl/101/625/s601/a], Nov. 28, 1990, [104 Stat. 4249][/us/stat/104/4249], known as the Low-Income Housing Preservation and Resident Homeownership Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 4101 of this title][/us/usc/t12/s4101] and Tables.
+    This title, referred to in subsecs. (a)(2) and (b)(1)(F), (2)(E), means title II of [Pub. L. 100–242][/us/pl/100/242], as amended by [Pub. L. 101–625, title VI][/us/pl/101/625/tVI], § 601(a), Nov. 28, 1990, [104 Stat. 4249][/us/stat/104/4249], known as the Low-Income Housing Preservation and Resident Homeownership Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 4101 of this title][/us/usc/t12/s4101] and Tables.
 
  __Amendments__ 
 
-    1992—Subsec. (a)(2). [Pub. L. 102–550, § 304(a)][/us/pl/102/550/s304/a], inserted after second sentence “Each owner and the Secretary shall also, upon request, make available to the tenants of the housing and to the office of the chief executive officer of the appropriate State or local government for the jurisdiction within which the housing is located all documentation supporting the plan of action, but not including any information that the Secretary determines is proprietary information.”
+    1992—Subsec. (a)(2). [Pub. L. 102–550][/us/pl/102/550], § 304(a), inserted after second sentence “Each owner and the Secretary shall also, upon request, make available to the tenants of the housing and to the office of the chief executive officer of the appropriate State or local government for the jurisdiction within which the housing is located all documentation supporting the plan of action, but not including any information that the Secretary determines is proprietary information.”
 
-    Subsec. (c). [Pub. L. 102–550, § 304(b)][/us/pl/102/550/s304/b], inserted before period at end “and make available to the Secretary and tenants all documentation supporting any revision, but not including any information that the Secretary determines is proprietary information”.
+    Subsec. (c). [Pub. L. 102–550][/us/pl/102/550], § 304(b), inserted before period at end “and make available to the Secretary and tenants all documentation supporting any revision, but not including any information that the Secretary determines is proprietary information”.
 
 ----------
 
@@ -92,16 +92,16 @@
 [/us/usc/t12/s4108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4108
 [/us/usc/t12/s4109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4109
 [/us/usc/t12/s4110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4110
-[/us/pl/100/242/s217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs217
-[/us/pl/101/625/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs601%2Fa
+[/us/pl/100/242/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtII
+[/us/pl/101/625/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtVI
 [/us/stat/104/4254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4254
-[/us/pl/102/550/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs304
+[/us/pl/102/550/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtIII
 [/us/stat/106/3763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3763
 [/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
-[/us/pl/101/625/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs601%2Fa
+[/us/pl/101/625/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtVI
 [/us/stat/104/4249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4249
 [/us/usc/t12/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4101
-[/us/pl/102/550/s304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs304%2Fa
-[/us/pl/102/550/s304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs304%2Fb
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 
 

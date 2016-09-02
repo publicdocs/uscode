@@ -87,29 +87,29 @@
 
         (2) provide compensation to any executive officer at a rate exceeding the average rate of compensation of that officer (excluding bonuses, stock options, and profit sharing) during the 12 calendar months preceding the calendar month in which the regulated entity became significantly undercapitalized.
 
-([Pub. L. 102–550, title XIII, § 1366][/us/pl/102/550/s1366], Oct. 28, 1992, [106 Stat. 3978][/us/stat/106/3978]; [Pub. L. 110–289, div. A, title I, § 1144][/us/pl/110/289/s1144], July 30, 2008, [122 Stat. 2733][/us/stat/122/2733].)
+([Pub. L. 102–550, title XIII][/us/pl/102/550/tXIII], § 1366, Oct. 28, 1992, [106 Stat. 3978][/us/stat/106/3978]; [Pub. L. 110–289, div. A, title I][/us/pl/110/289/dA/tI], § 1144, July 30, 2008, [122 Stat. 2733][/us/stat/122/2733].)
 
  __Amendments__ 
 
-    2008—Subsec. (a)(1). [Pub. L. 110–289, § 1144(3)][/us/pl/110/289/s1144/3], substituted “A regulated entity” for “An enterprise”.
+    2008—Subsec. (a)(1). [Pub. L. 110–289][/us/pl/110/289], § 1144(3), substituted “A regulated entity” for “An enterprise”.
 
-    Subsec. (a)(2)(A). [Pub. L. 110–289, § 1144(1)][/us/pl/110/289/s1144/1]–(3), substituted “A regulated entity” for “An enterprise” in two places, “the regulated entity” for “the enterprise”, and, in second sentence, “undercapitalized” for “undercapitalized enterprise”.
+    Subsec. (a)(2)(A). [Pub. L. 110–289][/us/pl/110/289], § 1144(1)–(3), substituted “A regulated entity” for “An enterprise” in two places, “the regulated entity” for “the enterprise”, and, in second sentence, “undercapitalized” for “undercapitalized enterprise”.
 
-    Subsec. (a)(2)(B). [Pub. L. 110–289, § 1144(2)][/us/pl/110/289/s1144/2], (4), substituted “a regulated entity” for “an enterprise” and “the regulated entity” for “the enterprise” wherever appearing.
+    Subsec. (a)(2)(B). [Pub. L. 110–289][/us/pl/110/289], § 1144(2), (4), substituted “a regulated entity” for “an enterprise” and “the regulated entity” for “the enterprise” wherever appearing.
 
-    Subsec. (b). [Pub. L. 110–289, § 1144(4)][/us/pl/110/289/s1144/4], (5)(A), (B), substituted “Specific” for “Discretionary supervisory” in heading and “shall carry out this section by taking, at any time, 1 or more” for “may, at any time, take any” and “a regulated entity” for “an enterprise” in introductory provisions.
+    Subsec. (b). [Pub. L. 110–289][/us/pl/110/289], § 1144(4), (5)(A), (B), substituted “Specific” for “Discretionary supervisory” in heading and “shall carry out this section by taking, at any time, 1 or more” for “may, at any time, take any” and “a regulated entity” for “an enterprise” in introductory provisions.
 
-    Subsec. (b)(1) to (4). [Pub. L. 110–289, § 1144(2)][/us/pl/110/289/s1144/2], substituted “the regulated entity” for “the enterprise” wherever appearing.
+    Subsec. (b)(1) to (4). [Pub. L. 110–289][/us/pl/110/289], § 1144(2), substituted “the regulated entity” for “the enterprise” wherever appearing.
 
-    Subsec. (b)(5). [Pub. L. 110–289, § 1144(5)(E)][/us/pl/110/289/s1144/5/E], added par. (5). Former par. (5) redesignated (6).
+    Subsec. (b)(5). [Pub. L. 110–289][/us/pl/110/289], § 1144(5)(E), added par. (5). Former par. (5) redesignated (6).
 
-    [Pub. L. 110–289, § 1144(2)][/us/pl/110/289/s1144/2], (4), substituted “a regulated entity” for “an enterprise” in introductory provisions and “the regulated entity” for “the enterprise” wherever appearing.
+    [Pub. L. 110–289][/us/pl/110/289], § 1144(2), (4), substituted “a regulated entity” for “an enterprise” in introductory provisions and “the regulated entity” for “the enterprise” wherever appearing.
 
-    Subsec. (b)(6). [Pub. L. 110–289, § 1144(5)(C)][/us/pl/110/289/s1144/5/C], (D), redesignated par. (5) as (6) and struck out former par. (6) which permitted the Director to appoint a conservator.
+    Subsec. (b)(6). [Pub. L. 110–289][/us/pl/110/289], § 1144(5)(C), (D), redesignated par. (5) as (6) and struck out former par. (6) which permitted the Director to appoint a conservator.
 
-    Subsec. (b)(7). [Pub. L. 110–289, § 1144(5)(F)][/us/pl/110/289/s1144/5/F], added par. (7).
+    Subsec. (b)(7). [Pub. L. 110–289][/us/pl/110/289], § 1144(5)(F), added par. (7).
 
-    Subsec. (c). [Pub. L. 110–289, § 1144(6)][/us/pl/110/289/s1144/6], added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “This section shall take effect upon the first classification of the enterprises within capital classifications that occurs under [section 4614 of this title][/us/usc/t12/s4614].”
+    Subsec. (c). [Pub. L. 110–289][/us/pl/110/289], § 1144(6), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “This section shall take effect upon the first classification of the enterprises within capital classifications that occurs under [section 4614 of this title][/us/usc/t12/s4614].”
 
 ----------
 
@@ -123,20 +123,20 @@
 [/us/usc/t12/s4617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4617
 [/us/usc/t12/s4622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4622
 [/us/usc/t12/s4614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4614
-[/us/pl/102/550/s1366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1366
+[/us/pl/102/550/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIII
 [/us/stat/106/3978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3978
-[/us/pl/110/289/s1144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1144
+[/us/pl/110/289/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtI
 [/us/stat/122/2733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2733
-[/us/pl/110/289/s1144/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1144%2F3
-[/us/pl/110/289/s1144/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1144%2F1
-[/us/pl/110/289/s1144/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1144%2F2
-[/us/pl/110/289/s1144/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1144%2F4
-[/us/pl/110/289/s1144/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1144%2F2
-[/us/pl/110/289/s1144/5/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1144%2F5%2FE
-[/us/pl/110/289/s1144/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1144%2F2
-[/us/pl/110/289/s1144/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1144%2F5%2FC
-[/us/pl/110/289/s1144/5/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1144%2F5%2FF
-[/us/pl/110/289/s1144/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1144%2F6
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
 [/us/usc/t12/s4614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4614
 
 

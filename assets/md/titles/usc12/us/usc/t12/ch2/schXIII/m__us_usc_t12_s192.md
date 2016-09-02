@@ -19,17 +19,17 @@
 
     Provided, That the Comptroller may, if he deems proper, deposit any of the money so made in any regular Government depositary, or in any State or national bank either of the city or town in which the insolvent bank was located, or of a city or town as adjacent thereto as practicable; if such deposit is made he shall require the depositary to deposit United States bonds or other satisfactory securities with the Treasurer of the United States for the safekeeping and prompt payment of the money so deposited: Provided, That no security in the form of deposit of United States bonds, or otherwise, shall be required in the case of such parts of the deposits as are insured under section 12B of the Federal Reserve Act, as amended. Such depositary shall pay upon such money interest at such rate as the Comptroller may prescribe, not less, however, than 2 per centum per annum upon the average monthly amount of such deposits.
 
-(R.S. § 5234; [May 15, 1916, ch. 121][/us/act/1916-05-15/ch121], [39 Stat. 121][/us/stat/39/121]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title III, § 339, [49 Stat. 721][/us/stat/49/721]; [Pub. L. 86–230, § 17][/us/pl/86/230/s17], Sept. 8, 1959, [73 Stat. 458][/us/stat/73/458]; [Pub. L. 103–325, title VI, § 602(g)(11)][/us/pl/103/325/s602/g/11], Sept. 23, 1994, [108 Stat. 2294][/us/stat/108/2294].)
+(R.S. § 5234; [May 15, 1916, ch. 121][/us/act/1916-05-15/ch121], [39 Stat. 121][/us/stat/39/121]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title III, § 339, [49 Stat. 721][/us/stat/49/721]; [Pub. L. 86–230][/us/pl/86/230], § 17, Sept. 8, 1959, [73 Stat. 458][/us/stat/73/458]; [Pub. L. 103–325, title VI][/us/pl/103/325/tVI], § 602(g)(11), Sept. 23, 1994, [108 Stat. 2294][/us/stat/108/2294].)
 
  __References in Text__ 
 
-    Sections 131 and 132 of this title, referred to in text, were repealed by [Pub. L. 103–325, title VI, § 602(e)(14)][/us/pl/103/325/s602/e/14], (15), Sept. 23, 1994, [108 Stat. 2292][/us/stat/108/2292].
+    Sections 131 and 132 of this title, referred to in text, were repealed by [Pub. L. 103–325, title VI][/us/pl/103/325/tVI], § 602(e)(14), (15), Sept. 23, 1994, [108 Stat. 2292][/us/stat/108/2292].
 
     Section 12B of the Federal Reserve Act, as amended, referred to in text, formerly classified to [section 264 of this title][/us/usc/t12/s264], has been withdrawn from the Federal Reserve Act and incorporated in the Federal Deposit Insurance Act which is classified generally to chapter 16 (§ 1811 et seq.) of this title.
 
  __Codification__ 
 
-    R.S. § 5234 derived from [act June 3, 1864, ch. 106, § 50][/us/act/1864-06-03/ch106/s50], [13 Stat. 114][/us/stat/13/114], which was part of the National Bank Act. See [section 38 of this title][/us/usc/t12/s38].
+    R.S. § 5234 derived from [act June 3, 1864, ch. 106][/us/act/1864-06-03/ch106], § 50, [13 Stat. 114][/us/stat/13/114], which was part of the National Bank Act. See [section 38 of this title][/us/usc/t12/s38].
 
  __Amendments__ 
 
@@ -45,7 +45,7 @@
 
  __Application to District of Columbia__ 
 
-    Provisions of this section were made applicable to banks, etc., in the District of Columbia by [act Mar. 4, 1933, ch. 274, § 4][/us/act/1933-03-04/ch274/s4], [47 Stat. 1567][/us/stat/47/1567].
+    Provisions of this section were made applicable to banks, etc., in the District of Columbia by [act Mar. 4, 1933, ch. 274][/us/act/1933-03-04/ch274], § 4, [47 Stat. 1567][/us/stat/47/1567].
 
  __Interest on Deposits__ 
 
@@ -62,20 +62,20 @@
 [/us/stat/39/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F121
 [/us/act/1935-08-23/ch614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch614
 [/us/stat/49/721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F721
-[/us/pl/86/230/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F230%2Fs17
+[/us/pl/86/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F230
 [/us/stat/73/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F458
-[/us/pl/103/325/s602/g/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs602%2Fg%2F11
+[/us/pl/103/325/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtVI
 [/us/stat/108/2294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2294
-[/us/pl/103/325/s602/e/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs602%2Fe%2F14
+[/us/pl/103/325/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtVI
 [/us/stat/108/2292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2292
 [/us/usc/t12/s264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs264
-[/us/act/1864-06-03/ch106/s50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-06-03%2Fch106%2Fs50
+[/us/act/1864-06-03/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-06-03%2Fch106
 [/us/stat/13/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F13%2F114
 [/us/usc/t12/s38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs38
 [/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
 [/us/pl/86/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F230
 [/us/usc/t12/s55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs55
-[/us/act/1933-03-04/ch274/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-03-04%2Fch274%2Fs4
+[/us/act/1933-03-04/ch274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-03-04%2Fch274
 [/us/stat/47/1567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F1567
 [/us/usc/t12/s466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs466
 [/us/usc/t12/s371a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs371a

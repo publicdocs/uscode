@@ -23,7 +23,7 @@
 
         As one of the 4 Federal bank regulatory and supervisory agencies, the Office of Thrift Supervision shall be given equal representation with the Board of Governors of the Federal Reserve System, the Office of the Comptroller of the Currency, and the Federal Deposit Insurance Corporation on the Committee on Banking Regulations and Supervisory Practices of the Group of Ten Countries and Switzerland.
 
-([Pub. L. 98–181, title I][/us/pl/98/181] \[title IX, § 912\], Nov. 30, 1983, [97 Stat. 1284][/us/stat/97/1284]; [Pub. L. 109–351, title VII, § 713(a)][/us/pl/109/351/s713/a], Oct. 13, 2006, [120 Stat. 1995][/us/stat/120/1995].)
+([Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title IX, § 912\], Nov. 30, 1983, [97 Stat. 1284][/us/stat/97/1284]; [Pub. L. 109–351, title VII][/us/pl/109/351/tVII], § 713(a), Oct. 13, 2006, [120 Stat. 1995][/us/stat/120/1995].)
 
  __Amendments__ 
 
@@ -36,9 +36,9 @@
 ----------
 ----------
 
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1284
-[/us/pl/109/351/s713/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs713%2Fa
+[/us/pl/109/351/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2FtVII
 [/us/stat/120/1995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1995
 [/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
 

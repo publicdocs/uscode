@@ -55,7 +55,7 @@
 
             (D) The term “unamortized insurance-in-force” means the remaining obligation on outstanding mortgages which are obligations of the Mutual Mortgage Insurance Fund, as estimated by the Secretary.
 
-([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title II, § 205, [48 Stat. 1250][/us/stat/48/1250]; [May 28, 1935, ch. 150, § 29(b)][/us/act/1935-05-28/ch150/s29/b], [49 Stat. 300][/us/stat/49/300]; [Feb. 3, 1938, ch. 13, § 3][/us/act/1938-02-03/ch13/s3], [52 Stat. 15][/us/stat/52/15]; [June 3, 1939, ch. 175, § 11][/us/act/1939-06-03/ch175/s11], [53 Stat. 807][/us/stat/53/807]; [Apr. 20, 1950, ch. 94][/us/act/1950-04-20/ch94], title I, § 122, [64 Stat. 59][/us/stat/64/59]; [June 30, 1953, ch. 170, § 4][/us/act/1953-06-30/ch170/s4], [67 Stat. 122][/us/stat/67/122]; [Aug. 2, 1954, ch. 649][/us/act/1954-08-02/ch649], title I, § 114, [68 Stat. 594][/us/stat/68/594]; [Pub. L. 90–19, § 1(a)(3)][/us/pl/90/19/s1/a/3], May 25, 1967, [81 Stat. 17][/us/stat/81/17]; [Pub. L. 101–508, title II][/us/pl/101/508], §§ 2104, 2105, Nov. 5, 1990, [104 Stat. 1388–19][/us/stat/104/1388-19]; [Pub. L. 102–550, title V, § 508(a)][/us/pl/102/550/s508/a], Oct. 28, 1992, [106 Stat. 3782][/us/stat/106/3782]; [Pub. L. 110–289, div. B, title I, § 2118(c)(1)][/us/pl/110/289/s2118/c/1], July 30, 2008, [122 Stat. 2835][/us/stat/122/2835].)
+([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title II, § 205, [48 Stat. 1250][/us/stat/48/1250]; [May 28, 1935, ch. 150][/us/act/1935-05-28/ch150], § 29(b), [49 Stat. 300][/us/stat/49/300]; [Feb. 3, 1938, ch. 13][/us/act/1938-02-03/ch13], § 3, [52 Stat. 15][/us/stat/52/15]; [June 3, 1939, ch. 175][/us/act/1939-06-03/ch175], § 11, [53 Stat. 807][/us/stat/53/807]; [Apr. 20, 1950, ch. 94][/us/act/1950-04-20/ch94], title I, § 122, [64 Stat. 59][/us/stat/64/59]; [June 30, 1953, ch. 170][/us/act/1953-06-30/ch170], § 4, [67 Stat. 122][/us/stat/67/122]; [Aug. 2, 1954, ch. 649][/us/act/1954-08-02/ch649], title I, § 114, [68 Stat. 594][/us/stat/68/594]; [Pub. L. 90–19][/us/pl/90/19], § 1(a)(3), May 25, 1967, [81 Stat. 17][/us/stat/81/17]; [Pub. L. 101–508, title II][/us/pl/101/508/tII], §§ 2104, 2105, Nov. 5, 1990, [104 Stat. 1388–19][/us/stat/104/1388-19]; [Pub. L. 102–550, title V][/us/pl/102/550/tV], § 508(a), Oct. 28, 1992, [106 Stat. 3782][/us/stat/106/3782]; [Pub. L. 110–289, div. B, title I][/us/pl/110/289/dB/tI], § 2118(c)(1), July 30, 2008, [122 Stat. 2835][/us/stat/122/2835].)
 
  __Amendments__ 
 
@@ -63,9 +63,9 @@
 
     1992—Subsec. (c). [Pub. L. 102–550][/us/pl/102/550] inserted at end “The Secretary shall not distribute any share to an eligible mortgagor under this subsection beginning on the date which is 6 years after the date the Secretary first transmitted written notification of eligibility to the last known address of the mortgagor, unless the mortgagor has applied in accordance with procedures prescribed by the Secretary for payment of the share within the 6-year period. The Secretary shall transfer any amounts no longer eligible for distribution under the previous sentence from the Participating Reserve Account to the General Surplus Account.”
 
-    1990—Subsec. (e). [Pub. L. 101–508, § 2104][/us/pl/101/508/s2104], added subsec. (e).
+    1990—Subsec. (e). [Pub. L. 101–508][/us/pl/101/508], § 2104, added subsec. (e).
 
-    Subsecs. (f) to (h). [Pub. L. 101–508, § 2105][/us/pl/101/508/s2105], added subsecs. (f) to (h).
+    Subsecs. (f) to (h). [Pub. L. 101–508][/us/pl/101/508], § 2105, added subsecs. (f) to (h).
 
     1967—[Pub. L. 90–19][/us/pl/90/19] substituted “Secretary” for “Commissioner” wherever appearing in subsecs. (a) to (d) of this section.
 
@@ -83,7 +83,7 @@
 
  __Exception to Statute of Limitations__ 
 
-[Pub. L. 102–550, title V, § 508(b)][/us/pl/102/550/s508/b], Oct. 28, 1992, [106 Stat. 3782][/us/stat/106/3782], provided that: 
+[Pub. L. 102–550, title V][/us/pl/102/550/tV], § 508(b), Oct. 28, 1992, [106 Stat. 3782][/us/stat/106/3782], provided that: 
 
 > “Notwithstanding the 6-year limitation on distribution of shares of the Participating Reserve Account under section 205(c) of the National Housing Act \[[12 U.S.C. 1711(c)][/us/usc/t12/s1711/c]\], the Secretary shall distribute a share to an otherwise eligible mortgagor in accordance with section 205(c), if the mortgagor applies for payment of the share within 1 year after the date of enactment of this Act \[Oct. 28, 1992\] in accordance with procedures in effect on such date.”
 
@@ -98,32 +98,32 @@
 [/us/usc/t12/s1735f–16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1735f%E2%80%9316
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
 [/us/stat/48/1250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1250
-[/us/act/1935-05-28/ch150/s29/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-05-28%2Fch150%2Fs29%2Fb
+[/us/act/1935-05-28/ch150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-05-28%2Fch150
 [/us/stat/49/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F300
-[/us/act/1938-02-03/ch13/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-03%2Fch13%2Fs3
+[/us/act/1938-02-03/ch13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-03%2Fch13
 [/us/stat/52/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F15
-[/us/act/1939-06-03/ch175/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-06-03%2Fch175%2Fs11
+[/us/act/1939-06-03/ch175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-06-03%2Fch175
 [/us/stat/53/807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F807
 [/us/act/1950-04-20/ch94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-04-20%2Fch94
 [/us/stat/64/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F59
-[/us/act/1953-06-30/ch170/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-30%2Fch170%2Fs4
+[/us/act/1953-06-30/ch170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-30%2Fch170
 [/us/stat/67/122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F122
 [/us/act/1954-08-02/ch649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-02%2Fch649
 [/us/stat/68/594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F594
-[/us/pl/90/19/s1/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19%2Fs1%2Fa%2F3
+[/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
 [/us/stat/81/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F17
-[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtII
 [/us/stat/104/1388-19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-19
-[/us/pl/102/550/s508/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs508%2Fa
+[/us/pl/102/550/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtV
 [/us/stat/106/3782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3782
-[/us/pl/110/289/s2118/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs2118%2Fc%2F1
+[/us/pl/110/289/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdB%2FtI
 [/us/stat/122/2835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2835
 [/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
-[/us/pl/101/508/s2104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs2104
-[/us/pl/101/508/s2105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs2105
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
-[/us/pl/102/550/s508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs508%2Fb
+[/us/pl/102/550/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtV
 [/us/stat/106/3782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3782
 [/us/usc/t12/s1711/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1711%2Fc
 

@@ -57,7 +57,7 @@
 
         The servicer of a residential mortgage transaction may develop and use a standardized form or forms for the provision of notices to the mortgagor, as required under subsection (c).
 
-([Pub. L. 105–216, § 6][/us/pl/105/216/s6], July 29, 1998, [112 Stat. 904][/us/stat/112/904]; [Pub. L. 106–569, title IV][/us/pl/106/569], §§ 403(c), 406(a), Dec. 27, 2000, [114 Stat. 2957][/us/stat/114/2957], 2959.)
+([Pub. L. 105–216][/us/pl/105/216], § 6, July 29, 1998, [112 Stat. 904][/us/stat/112/904]; [Pub. L. 106–569, title IV][/us/pl/106/569/tIV], §§ 403(c), 406(a), Dec. 27, 2000, [114 Stat. 2957][/us/stat/114/2957], 2959.)
 
  __References in Text__ 
 
@@ -65,13 +65,13 @@
 
  __Amendments__ 
 
-    2000—Subsec. (c). [Pub. L. 106–569, § 403(c)(1)(A)][/us/pl/106/569/s403/c/1/A], struck out “a residential mortgage or” before “a residential mortgage transaction” in introductory provisions.
+    2000—Subsec. (c). [Pub. L. 106–569][/us/pl/106/569], § 403(c)(1)(A), struck out “a residential mortgage or” before “a residential mortgage transaction” in introductory provisions.
 
-    Subsec. (c)(1)(B)(ii). [Pub. L. 106–569, § 406(a)][/us/pl/106/569/s406/a], inserted “(under the meaning given such term in the regulations issued by the Board of Governors of the Federal Reserve System to carry out the Truth in Lending Act ([15 U.S.C. 1601][/us/usc/t15/s1601] et seq.))” after “refinanced”.
+    Subsec. (c)(1)(B)(ii). [Pub. L. 106–569][/us/pl/106/569], § 406(a), inserted “(under the meaning given such term in the regulations issued by the Board of Governors of the Federal Reserve System to carry out the Truth in Lending Act ([15 U.S.C. 1601][/us/usc/t15/s1601] et seq.))” after “refinanced”.
 
-    Subsec. (c)(2). [Pub. L. 106–569, § 403(c)(1)(B)][/us/pl/106/569/s403/c/1/B], inserted “transaction” before period at end.
+    Subsec. (c)(2). [Pub. L. 106–569][/us/pl/106/569], § 403(c)(1)(B), inserted “transaction” before period at end.
 
-    Subsec. (d). [Pub. L. 106–569, § 403(c)(2)][/us/pl/106/569/s403/c/2], inserted “transaction” after “residential mortgage”.
+    Subsec. (d). [Pub. L. 106–569][/us/pl/106/569], § 403(c)(2), inserted “transaction” after “residential mortgage”.
 
 ----------
 
@@ -83,17 +83,17 @@
 [/us/usc/t12/s4902/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4902%2Fa
 [/us/usc/t12/s4902/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4902%2Fb
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601
-[/us/pl/105/216/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F216%2Fs6
+[/us/pl/105/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F216
 [/us/stat/112/904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F904
-[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/569/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2FtIV
 [/us/stat/114/2957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2957
 [/us/pl/90/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321
 [/us/stat/82/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F146
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601
-[/us/pl/106/569/s403/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs403%2Fc%2F1%2FA
-[/us/pl/106/569/s406/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs406%2Fa
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601
-[/us/pl/106/569/s403/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs403%2Fc%2F1%2FB
-[/us/pl/106/569/s403/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs403%2Fc%2F2
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
 
 

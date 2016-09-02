@@ -31,7 +31,7 @@
 
     (g) The term “State” includes the several States, and Puerto Rico, the District of Columbia, Guam, the Virgin Islands, the Canal Zone, and Midway Island.
 
-([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title VIII, § 801, as added [Aug. 8, 1949, ch. 403, § 1][/us/act/1949-08-08/ch403/s1], [63 Stat. 570][/us/stat/63/570]; amended [July 14, 1952, ch. 723, § 10(a)(2)][/us/act/1952-07-14/ch723/s10/a/2], [66 Stat. 603][/us/stat/66/603]; [Aug. 11, 1955, ch. 783][/us/act/1955-08-11/ch783], title IV, § 401, [69 Stat. 646][/us/stat/69/646]; [Aug. 7, 1956, ch. 1029][/us/act/1956-08-07/ch1029], title V, § 501, [70 Stat. 1109][/us/stat/70/1109]; [Pub. L. 86–70, § 10(a)][/us/pl/86/70/s10/a], June 25, 1959, [73 Stat. 142][/us/stat/73/142]; [Pub. L. 86–624, § 6][/us/pl/86/624/s6], July 12, 1960, [74 Stat. 411][/us/stat/74/411]; [Pub. L. 90–19, § 1(a)(3)][/us/pl/90/19/s1/a/3], May 25, 1967, [81 Stat. 17][/us/stat/81/17].)
+([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title VIII, § 801, as added [Aug. 8, 1949, ch. 403][/us/act/1949-08-08/ch403], § 1, [63 Stat. 570][/us/stat/63/570]; amended [July 14, 1952, ch. 723][/us/act/1952-07-14/ch723], § 10(a)(2), [66 Stat. 603][/us/stat/66/603]; [Aug. 11, 1955, ch. 783][/us/act/1955-08-11/ch783], title IV, § 401, [69 Stat. 646][/us/stat/69/646]; [Aug. 7, 1956, ch. 1029][/us/act/1956-08-07/ch1029], title V, § 501, [70 Stat. 1109][/us/stat/70/1109]; [Pub. L. 86–70][/us/pl/86/70], § 10(a), June 25, 1959, [73 Stat. 142][/us/stat/73/142]; [Pub. L. 86–624][/us/pl/86/624], § 6, July 12, 1960, [74 Stat. 411][/us/stat/74/411]; [Pub. L. 90–19][/us/pl/90/19], § 1(a)(3), May 25, 1967, [81 Stat. 17][/us/stat/81/17].)
 
  __References in Text__ 
 
@@ -53,7 +53,7 @@
 
  __Savings Provision__ 
 
-[Act Aug. 11, 1955, ch. 783][/us/act/1955-08-11/ch783], title IV, § 408, [69 Stat. 653][/us/stat/69/653], as amended by [act Aug. 7, 1956, ch. 1029][/us/act/1956-08-07/ch1029], title V, § 511, [70 Stat. 1110][/us/stat/70/1110], provided that: 
+[Act Aug. 11, 1955, ch. 783, title IV][/us/act/1955-08-11/ch783/tIV], § 408, [69 Stat. 653][/us/stat/69/653], as amended by [act Aug. 7, 1956, ch. 1029, title V][/us/act/1956-08-07/ch1029/tV], § 511, [70 Stat. 1110][/us/stat/70/1110], provided that: 
 
 > “Notwithstanding the provisions of section 401 of this Act \[amending this subchapter\], the provisions of title VIII of the National Housing Act \[this subchapter\] in effect prior to the enactment of the Housing Amendments of 1955 \[August 11, 1955\] shall continue in full force and effect with respect to all mortgages insured pursuant to a certification by the Secretary of Defense or his designee made on or before June 30, 1955, and a commitment to insure issued on or before June 30, 1956 or pursuant to a certification by the Atomic Energy Commission or its designee made on or before June 30, 1956, except that the maximum dollar amount for each such mortgage shall be $12,500,000.\] Nothing contained in the provisions of title VIII of the National Housing Act \[this subchapter\] in effect prior to August 11, 1955 or any related provision of law, shall be construed to exempt from State or local taxes or assessments the interest of a lessee from the Federal Government in or with respect to any property covered by a mortgage insured under such provisions of title VIII: Provided, That, no such taxes or assessments (not paid or encumbering such property or interest prior to June 15, 1956) on the interest of such lessee shall exceed the amount of taxes or assessments on other similar property of similar value, less such amount as the Secretary of Defense or his designee determines to be equal to (1) any payments made by the Federal Government to the local taxing or other public agencies involved with respect to such property, plus (2) such amount as may be appropriate for any expenditures made by the Federal Government or the lessee for the provision or maintenance of streets, sidewalks, curbs, gutters, sewers, lighting, snow removal or any other services or facilities which are customarily provided by the State, county, city, or other local taxing authority with respect to such other similar property: And provided further, That the provisions of this section shall not apply to properties leased pursuant to the provisions of section 805 of the National Housing Act \[[12 U.S.C. 1748d][/us/usc/t12/s1748d]\] as amended on or after August 11, 1955, which properties shall be exempt from State or local taxes or assessments.”
 
@@ -73,27 +73,27 @@
 ----------
 
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
-[/us/act/1949-08-08/ch403/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-08%2Fch403%2Fs1
+[/us/act/1949-08-08/ch403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-08%2Fch403
 [/us/stat/63/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F570
-[/us/act/1952-07-14/ch723/s10/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-14%2Fch723%2Fs10%2Fa%2F2
+[/us/act/1952-07-14/ch723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-14%2Fch723
 [/us/stat/66/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F603
 [/us/act/1955-08-11/ch783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-11%2Fch783
 [/us/stat/69/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F646
 [/us/act/1956-08-07/ch1029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-07%2Fch1029
 [/us/stat/70/1109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1109
-[/us/pl/86/70/s10/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70%2Fs10%2Fa
+[/us/pl/86/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70
 [/us/stat/73/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F142
-[/us/pl/86/624/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624%2Fs6
+[/us/pl/86/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624
 [/us/stat/74/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F411
-[/us/pl/90/19/s1/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19%2Fs1%2Fa%2F3
+[/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
 [/us/stat/81/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F17
 [/us/usc/t22/s3602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3602%2Fb
 [/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
 [/us/pl/86/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624
 [/us/pl/86/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70
-[/us/act/1955-08-11/ch783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-11%2Fch783
+[/us/act/1955-08-11/ch783/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-11%2Fch783%2FtIV
 [/us/stat/69/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F653
-[/us/act/1956-08-07/ch1029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-07%2Fch1029
+[/us/act/1956-08-07/ch1029/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-07%2Fch1029%2FtV
 [/us/stat/70/1110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1110
 [/us/usc/t12/s1748d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1748d
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542

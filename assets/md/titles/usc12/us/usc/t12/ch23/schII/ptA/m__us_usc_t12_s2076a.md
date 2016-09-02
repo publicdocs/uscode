@@ -17,7 +17,7 @@
 
     Except with regard to stock or participation certificates held by other Farm Credit System institutions, each production credit association shall have a first lien on stock and participation certificates the association issues, on allocated surplus, and on investments in equity reserve, for any indebtedness of the holder of the capital investments and, in the case of equity reserves, for charges for association losses in excess of reserves and surpluses.
 
-([Pub. L. 92–181, title II, § 2][/us/pl/92/181/s2].6, as added [Pub. L. 101–624, title XVIII, § 1833(2)][/us/pl/101/624/s1833/2], Nov. 28, 1990, [104 Stat. 3832][/us/stat/104/3832].)
+([Pub. L. 92–181, title II][/us/pl/92/181/tII], § 2.6, as added [Pub. L. 101–624, title XVIII][/us/pl/101/624/tXVIII], § 1833(2), Nov. 28, 1990, [104 Stat. 3832][/us/stat/104/3832].)
 
  __Prior Provisions__ 
 
@@ -34,8 +34,8 @@
 ----------
 ----------
 
-[/us/pl/92/181/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs2
-[/us/pl/101/624/s1833/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1833%2F2
+[/us/pl/92/181/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtII
+[/us/pl/101/624/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXVIII
 [/us/stat/104/3832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3832
 [/us/pl/92/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181
 [/us/usc/t12/s2077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2077

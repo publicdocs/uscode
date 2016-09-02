@@ -51,17 +51,17 @@
 
             In accordance with [section 2154a of this title][/us/usc/t12/s2154a], each merged association shall provide, through bylaws and subject to Farm Credit Administration regulations, for the capitalization of the association and the manner in which association stock shall be issued, held, transferred, and retired, and association earnings shall be distributed.
 
-([Pub. L. 92–181, title VII, § 7][/us/pl/92/181/s7].8, as added [Pub. L. 100–233, title IV, § 416][/us/pl/100/233/s416], Jan. 6, 1988, [101 Stat. 1647][/us/stat/101/1647]; amended [Pub. L. 100–399, title IV, § 408(k)][/us/pl/100/399/s408/k], (l), Aug. 17, 1988, [102 Stat. 1002][/us/stat/102/1002].)
+([Pub. L. 92–181, title VII][/us/pl/92/181/tVII], § 7.8, as added [Pub. L. 100–233, title IV][/us/pl/100/233/tIV], § 416, Jan. 6, 1988, [101 Stat. 1647][/us/stat/101/1647]; amended [Pub. L. 100–399, title IV][/us/pl/100/399/tIV], § 408(k), (l), Aug. 17, 1988, [102 Stat. 1002][/us/stat/102/1002].)
 
  __Amendments__ 
 
-    1988—Subsec. (b)(2). [Pub. L. 100–399, § 408(k)][/us/pl/100/399/s408/k], struck out second sentence, which directed that, following a merger under subsection (a) of this section, the provisions of [section 2154a of this title][/us/usc/t12/s2154a] were to be applicable to the merged association.
+    1988—Subsec. (b)(2). [Pub. L. 100–399][/us/pl/100/399], § 408(k), struck out second sentence, which directed that, following a merger under subsection (a) of this section, the provisions of [section 2154a of this title][/us/usc/t12/s2154a] were to be applicable to the merged association.
 
-    Subsec. (c)(2). [Pub. L. 100–399, § 408][/us/pl/100/399/s408](l), substituted “Capitalization” for “Plan of capitalization” as par. (2) heading and amended text generally. Prior to amendment, text read as follows: “The number of shares of capital stock, and the rights and privileges thereof, issued by a merged association after a merger shall be determined by the Board of Directors of the merged association, with the approval of the supervising bank, and shall be consistent with [section 2154a of this title][/us/usc/t12/s2154a] and the regulations issued by the Farm Credit Administration.”
+    Subsec. (c)(2). [Pub. L. 100–399][/us/pl/100/399], § 408(l), substituted “Capitalization” for “Plan of capitalization” as par. (2) heading and amended text generally. Prior to amendment, text read as follows: “The number of shares of capital stock, and the rights and privileges thereof, issued by a merged association after a merger shall be determined by the Board of Directors of the merged association, with the approval of the supervising bank, and shall be consistent with [section 2154a of this title][/us/usc/t12/s2154a] and the regulations issued by the Farm Credit Administration.”
 
-    Subsec. (c)(3). [Pub. L. 100–399, § 408][/us/pl/100/399/s408](l), struck out par. (3) which read as follows: “Voting stock of a merged association shall be issued to and held by farmers, ranchers, or producers or harvesters of aquatic products who are or were, immediately prior to the merger, direct borrowers from one of the associations forming the merged association or the supervising bank of such merged association.”
+    Subsec. (c)(3). [Pub. L. 100–399][/us/pl/100/399], § 408(l), struck out par. (3) which read as follows: “Voting stock of a merged association shall be issued to and held by farmers, ranchers, or producers or harvesters of aquatic products who are or were, immediately prior to the merger, direct borrowers from one of the associations forming the merged association or the supervising bank of such merged association.”
 
-    Subsec. (d). [Pub. L. 100–399, § 408][/us/pl/100/399/s408](l), struck out subsec. (d) which read as follows: “The plan of merger shall provide for the issuance, transfer, and retirement of stock and the distribution of earnings in accordance with the provisions of [section 2154a of this title][/us/usc/t12/s2154a].”
+    Subsec. (d). [Pub. L. 100–399][/us/pl/100/399], § 408(l), struck out subsec. (d) which read as follows: “The plan of merger shall provide for the issuance, transfer, and retirement of stock and the distribution of earnings in accordance with the provisions of [section 2154a of this title][/us/usc/t12/s2154a].”
 
  __Effective Date of 1988 Amendment__ 
 
@@ -76,17 +76,17 @@
 
 [/us/usc/t12/s2154a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2154a
 [/us/usc/t12/s2154a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2154a
-[/us/pl/92/181/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs7
-[/us/pl/100/233/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs416
+[/us/pl/92/181/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtVII
+[/us/pl/100/233/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtIV
 [/us/stat/101/1647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1647
-[/us/pl/100/399/s408/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs408%2Fk
+[/us/pl/100/399/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtIV
 [/us/stat/102/1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1002
-[/us/pl/100/399/s408/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs408%2Fk
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/usc/t12/s2154a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2154a
-[/us/pl/100/399/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs408
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/usc/t12/s2154a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2154a
-[/us/pl/100/399/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs408
-[/us/pl/100/399/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs408
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/usc/t12/s2154a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2154a
 [/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233

@@ -19,7 +19,7 @@
 
     (b) Within thirty days from service of any notice of suspension or order of removal issued under subsection (a), the director, officer, or other person concerned may request in writing an opportunity to appear before the Farm Credit Administration to show that the continued service to or participation in the conduct of the affairs of the institution by such individual does not, or is not likely to, pose a threat to the interest of the institution’s shareholders or the investors in Farm Credit System obligations or threaten to impair public confidence in the institution or the Farm Credit System. Upon receipt of any such request, the Farm Credit Administration shall fix a time (not more than thirty days after receipt of such request, unless extended at the request of the concerned director, officer, or other person) and place at which the director, officer, or other person may appear, personally or through counsel, before the Chairman of the Farm Credit Administration or designated employees of the Farm Credit Administration to submit written materials (or, at the discretion of the Farm Credit Administration, oral testimony) and oral argument. Within sixty days of such hearing, the Farm Credit Administration shall notify the director, officer, or other person whether the suspension or prohibition from participation in any manner in the conduct of the affairs of the institution will be continued, terminated, or otherwise modified, or whether the order removing such director, officer, or other person from office or prohibiting such individual from further participation in any manner in the conduct of the affairs of the institution will be rescinded or otherwise modified. Such notification shall contain a statement of the basis for the Farm Credit Administration’s decision, if adverse to the director, officer, or other person. The Farm Credit Administration may prescribe such rules as may be necessary to effectuate the purposes of this subsection.
 
-([Pub. L. 92–181, title V, § 5][/us/pl/92/181/s5].29, as added [Pub. L. 99–205, title II, § 204][/us/pl/99/205/s204], Dec. 23, 1985, [99 Stat. 1698][/us/stat/99/1698]; amended [Pub. L. 100–233, title VIII, § 805(bb)][/us/pl/100/233/s805/bb], Jan. 6, 1988, [101 Stat. 1717][/us/stat/101/1717]; [Pub. L. 100–399, title VII, § 702(e)][/us/pl/100/399/s702/e], Aug. 17, 1988, [102 Stat. 1006][/us/stat/102/1006].)
+([Pub. L. 92–181, title V][/us/pl/92/181/tV], § 5.29, as added [Pub. L. 99–205, title II][/us/pl/99/205/tII], § 204, Dec. 23, 1985, [99 Stat. 1698][/us/stat/99/1698]; amended [Pub. L. 100–233, title VIII][/us/pl/100/233/tVIII], § 805(bb), Jan. 6, 1988, [101 Stat. 1717][/us/stat/101/1717]; [Pub. L. 100–399, title VII][/us/pl/100/399/tVII], § 702(e), Aug. 17, 1988, [102 Stat. 1006][/us/stat/102/1006].)
 
  __Prior Provisions__ 
 
@@ -27,11 +27,11 @@
 
  __Amendments__ 
 
-    1988—Subsec. (a). [Pub. L. 100–233, § 805(bb)(1)][/us/pl/100/233/s805/bb/1], substituted “may pose a threat to the interests of the institution’s shareholders or investors in Farm Credit System obligations or may threaten to impair public confidence in the institution or the Farm Credit System” for “may pose a threat to the interest of the institution’s shareholders or the investors in the Farm Credit System obligations or may threaten to impair public confidence in the institution or Farm Credit System”.
+    1988—Subsec. (a). [Pub. L. 100–233][/us/pl/100/233], § 805(bb)(1), substituted “may pose a threat to the interests of the institution’s shareholders or investors in Farm Credit System obligations or may threaten to impair public confidence in the institution or the Farm Credit System” for “may pose a threat to the interest of the institution’s shareholders or the investors in the Farm Credit System obligations or may threaten to impair public confidence in the institution or Farm Credit System”.
 
     Subsec. (b). [Pub. L. 100–233][/us/pl/100/233] struck out “may” before “threaten to impair public confidence”.
 
-    [Pub. L. 100–233, § 805(bb)(2)][/us/pl/100/233/s805/bb/2], substituted “of the institution’s shareholders or the investors in Farm Credit System obligations or may threaten to impair public confidence in the institution or the Farm Credit System” for “in Farm Credit System obligations”.
+    [Pub. L. 100–233][/us/pl/100/233], § 805(bb)(2), substituted “of the institution’s shareholders or the investors in Farm Credit System obligations or may threaten to impair public confidence in the institution or the Farm Credit System” for “in Farm Credit System obligations”.
 
  __Effective Date of 1988 Amendment__ 
 
@@ -49,18 +49,18 @@
 ----------
 
 [/us/usc/t12/s2264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2264
-[/us/pl/92/181/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs5
-[/us/pl/99/205/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2Fs204
+[/us/pl/92/181/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtV
+[/us/pl/99/205/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2FtII
 [/us/stat/99/1698]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1698
-[/us/pl/100/233/s805/bb]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs805%2Fbb
+[/us/pl/100/233/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtVIII
 [/us/stat/101/1717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1717
-[/us/pl/100/399/s702/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs702%2Fe
+[/us/pl/100/399/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtVII
 [/us/stat/102/1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1006
 [/us/pl/92/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181
 [/us/usc/t12/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2001
-[/us/pl/100/233/s805/bb/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs805%2Fbb%2F1
 [/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
-[/us/pl/100/233/s805/bb/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs805%2Fbb%2F2
+[/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
+[/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
 [/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
 [/us/pl/100/399/s1001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs1001%2Fa

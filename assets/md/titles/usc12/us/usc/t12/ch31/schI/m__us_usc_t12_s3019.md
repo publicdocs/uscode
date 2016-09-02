@@ -31,7 +31,7 @@
 
         (5) any amounts required to be included in the incomes of patrons of the Bank with respect to class B or class C stock or allocated surplus shall be treated as earnings from business done by such patrons of the Bank with or for their own patrons.
 
-([Pub. L. 95–351, title I, § 109][/us/pl/95/351/s109], Aug. 20, 1978, [92 Stat. 509][/us/stat/92/509]; [Pub. L. 97–35, title III, § 392(a)][/us/pl/97/35/s392/a], Aug. 13, 1981, [95 Stat. 434][/us/stat/95/434]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095].)
+([Pub. L. 95–351, title I][/us/pl/95/351/tI], § 109, Aug. 20, 1978, [92 Stat. 509][/us/stat/92/509]; [Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 392(a), Aug. 13, 1981, [95 Stat. 434][/us/stat/95/434]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095].)
 
  __References in Text__ 
 
@@ -45,7 +45,7 @@
 
  __Effective Date of 1981 Amendment__ 
 
-[Pub. L. 97–35, title III, § 392(b)][/us/pl/97/35/s392/b], Aug. 13, 1981, [95 Stat. 435][/us/stat/95/435], provided that: 
+[Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 392(b), Aug. 13, 1981, [95 Stat. 435][/us/stat/95/435], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall take effect on the day after the Final Government Equity Redemption Date \[Dec. 31, 1981\].”
 
@@ -64,15 +64,15 @@
 [/us/usc/t12/s3014/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3014%2Fi
 [/us/usc/t12/s3014/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3014%2Fi
 [/us/usc/t26/s1388/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1388%2Fc%2F2
-[/us/pl/95/351/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F351%2Fs109
+[/us/pl/95/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F351%2FtI
 [/us/stat/92/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F509
-[/us/pl/97/35/s392/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs392%2Fa
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F434
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
-[/us/pl/97/35/s392/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs392%2Fb
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F435
 [/us/pl/97/35/s396/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs396%2Fa
 [/us/usc/t12/s3012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3012

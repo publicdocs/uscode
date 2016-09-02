@@ -51,7 +51,7 @@
 
     (q) “State” shall include the several States and Puerto Rico, the District of Columbia, Guam, and the Virgin Islands.
 
-([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title VII, § 713, as added [Aug. 10, 1948, ch. 832][/us/act/1948-08-10/ch832], title IV, § 401, [62 Stat. 1281][/us/stat/62/1281]; amended [Apr. 20, 1950, ch. 94][/us/act/1950-04-20/ch94], title I, § 122, [64 Stat. 59][/us/stat/64/59]; [Sept. 1, 1951, ch. 378][/us/act/1951-09-01/ch378], title VI, §§ 610, 612, [65 Stat. 316][/us/stat/65/316]; [July 14, 1952, ch. 723, § 10(a)(4)][/us/act/1952-07-14/ch723/s10/a/4], [66 Stat. 603][/us/stat/66/603]; [Pub. L. 86–70, § 10(a)][/us/pl/86/70/s10/a], June 25, 1959, [73 Stat. 142][/us/stat/73/142]; [Pub. L. 86–624, § 6][/us/pl/86/624/s6], July 12, 1960, [74 Stat. 411][/us/stat/74/411]; [Pub. L. 90–19, § 1(a)(3)][/us/pl/90/19/s1/a/3], May 25, 1967, [81 Stat. 17][/us/stat/81/17].)
+([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title VII, § 713, as added [Aug. 10, 1948, ch. 832][/us/act/1948-08-10/ch832], title IV, § 401, [62 Stat. 1281][/us/stat/62/1281]; amended [Apr. 20, 1950, ch. 94][/us/act/1950-04-20/ch94], title I, § 122, [64 Stat. 59][/us/stat/64/59]; [Sept. 1, 1951, ch. 378][/us/act/1951-09-01/ch378], title VI, §§ 610, 612, [65 Stat. 316][/us/stat/65/316]; [July 14, 1952, ch. 723][/us/act/1952-07-14/ch723], § 10(a)(4), [66 Stat. 603][/us/stat/66/603]; [Pub. L. 86–70][/us/pl/86/70], § 10(a), June 25, 1959, [73 Stat. 142][/us/stat/73/142]; [Pub. L. 86–624][/us/pl/86/624], § 6, July 12, 1960, [74 Stat. 411][/us/stat/74/411]; [Pub. L. 90–19][/us/pl/90/19], § 1(a)(3), May 25, 1967, [81 Stat. 17][/us/stat/81/17].)
 
  __Amendments__ 
 
@@ -86,13 +86,13 @@
 [/us/stat/64/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F59
 [/us/act/1951-09-01/ch378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-09-01%2Fch378
 [/us/stat/65/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F316
-[/us/act/1952-07-14/ch723/s10/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-14%2Fch723%2Fs10%2Fa%2F4
+[/us/act/1952-07-14/ch723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-14%2Fch723
 [/us/stat/66/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F603
-[/us/pl/86/70/s10/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70%2Fs10%2Fa
+[/us/pl/86/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70
 [/us/stat/73/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F142
-[/us/pl/86/624/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624%2Fs6
+[/us/pl/86/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624
 [/us/stat/74/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F411
-[/us/pl/90/19/s1/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19%2Fs1%2Fa%2F3
+[/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
 [/us/stat/81/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F17
 [/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
 [/us/pl/86/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624

@@ -57,19 +57,19 @@
 
         The term “multiple rate account” means any account that has 2 or more annual rates of simple interest which take effect at the same time or in succeeding periods and which are known at the time of disclosure.
 
-([Pub. L. 102–242, title II, § 274][/us/pl/102/242/s274], Dec. 19, 1991, [105 Stat. 2342][/us/stat/105/2342]; [Pub. L. 102–550, title XVI, § 1604(e)(2)(S)][/us/pl/102/550/s1604/e/2/S], Oct. 28, 1992, [106 Stat. 4084][/us/stat/106/4084]; [Pub. L. 103–325, title III, § 332][/us/pl/103/325/s332], Sept. 23, 1994, [108 Stat. 2232][/us/stat/108/2232]; [Pub. L. 104–208, div. A, title II, § 2604(c)][/us/pl/104/208/s2604/c], Sept. 30, 1996, [110 Stat. 3009–471][/us/stat/110/3009-471]; [Pub. L. 111–203, title X, § 1100B(1)][/us/pl/111/203/s1100B/1], (4), July 21, 2010, [124 Stat. 2109][/us/stat/124/2109], 2110.)
+([Pub. L. 102–242, title II][/us/pl/102/242/tII], § 274, Dec. 19, 1991, [105 Stat. 2342][/us/stat/105/2342]; [Pub. L. 102–550, title XVI][/us/pl/102/550/tXVI], § 1604(e)(2)(S), Oct. 28, 1992, [106 Stat. 4084][/us/stat/106/4084]; [Pub. L. 103–325, title III][/us/pl/103/325/tIII], § 332, Sept. 23, 1994, [108 Stat. 2232][/us/stat/108/2232]; [Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], § 2604(c), Sept. 30, 1996, [110 Stat. 3009–471][/us/stat/110/3009-471]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1100B(1), (4), July 21, 2010, [124 Stat. 2109][/us/stat/124/2109], 2110.)
 
  __References in Text__ 
 
-    [Section 1831f(f)(1) of this title][/us/usc/t12/s1831f/f/1], referred to in par. (5)(A), was redesignated [section 1831f(g)(1) of this title][/us/usc/t12/s1831f/g/1] by [Pub. L. 102–242, title III, § 301(a)(4)][/us/pl/102/242/s301/a/4], Dec. 19, 1991, [105 Stat. 2344][/us/stat/105/2344].
+    [Section 1831f(f)(1) of this title][/us/usc/t12/s1831f/f/1], referred to in par. (5)(A), was redesignated [section 1831f(g)(1) of this title][/us/usc/t12/s1831f/g/1] by [Pub. L. 102–242, title III][/us/pl/102/242/tIII], § 301(a)(4), Dec. 19, 1991, [105 Stat. 2344][/us/stat/105/2344].
 
     This chapter, referred to in par. (6), was in the original “this title”, and was translated as meaning “this subtitle”, which is subtitle F of title II of [Pub. L. 102–242][/us/pl/102/242], Dec. 19, 1991, [105 Stat. 2334][/us/stat/105/2334], which enacted this chapter, to reflect the probable intent of Congress.
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–203, § 1100B(1)][/us/pl/111/203/s1100B/1], substituted “Bureau” for “Board” wherever appearing.
+    2010—[Pub. L. 111–203][/us/pl/111/203], § 1100B(1), substituted “Bureau” for “Board” wherever appearing.
 
-    Par. (4). [Pub. L. 111–203, § 1100B(4)][/us/pl/111/203/s1100B/4], added par. (4) and struck out former par. (4). Prior to amendment, text read as follows: “The term ‘Board’ means the Board of Governors of the Federal Reserve System.”
+    Par. (4). [Pub. L. 111–203][/us/pl/111/203], § 1100B(4), added par. (4) and struck out former par. (4). Prior to amendment, text read as follows: “The term ‘Board’ means the Board of Governors of the Federal Reserve System.”
 
     1996—Par. (6). [Pub. L. 104–208][/us/pl/104/208] inserted before period at end “, but does not include any nonautomated credit union that was not required to comply with the requirements of this chapter as of September 30, 1996, pursuant to the determination of the National Credit Union Administration Board”.
 
@@ -93,24 +93,24 @@
 ----------
 
 [/us/usc/t12/s461/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs461%2Fb%2F1%2FA
-[/us/pl/102/242/s274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs274
+[/us/pl/102/242/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtII
 [/us/stat/105/2342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2342
-[/us/pl/102/550/s1604/e/2/S]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1604%2Fe%2F2%2FS
+[/us/pl/102/550/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXVI
 [/us/stat/106/4084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4084
-[/us/pl/103/325/s332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs332
+[/us/pl/103/325/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtIII
 [/us/stat/108/2232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2232
-[/us/pl/104/208/s2604/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2604%2Fc
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-471
-[/us/pl/111/203/s1100B/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100B%2F1
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2109
 [/us/usc/t12/s1831f/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1831f%2Ff%2F1
 [/us/usc/t12/s1831f/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1831f%2Fg%2F1
-[/us/pl/102/242/s301/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs301%2Fa%2F4
+[/us/pl/102/242/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtIII
 [/us/stat/105/2344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2344
 [/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
 [/us/stat/105/2334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2334
-[/us/pl/111/203/s1100B/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100B%2F1
-[/us/pl/111/203/s1100B/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100B%2F4
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550

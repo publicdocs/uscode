@@ -39,7 +39,7 @@
 
         The remedies and sanctions described in this chapter shall be the only authorized judicial remedies and sanctions for violations of this chapter.
 
-([Pub. L. 95–630, title XI, § 1117][/us/pl/95/630/s1117], Nov. 10, 1978, [92 Stat. 3708][/us/stat/92/3708]; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3783][/us/stat/92/3783]; [Pub. L. 100–690, title VI, § 6186(d)][/us/pl/100/690/s6186/d], Nov. 18, 1988, [102 Stat. 4358][/us/stat/102/4358].)
+([Pub. L. 95–630, title XI][/us/pl/95/630/tXI], § 1117, Nov. 10, 1978, [92 Stat. 3708][/us/stat/92/3708]; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3783][/us/stat/92/3783]; [Pub. L. 100–690, title VI][/us/pl/100/690/tVI], § 6186(d), Nov. 18, 1988, [102 Stat. 4358][/us/stat/102/4358].)
 
  __Amendments__ 
 
@@ -56,10 +56,10 @@
 ----------
 ----------
 
-[/us/pl/95/630/s1117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs1117
+[/us/pl/95/630/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtXI
 [/us/stat/92/3708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3708
 [/us/stat/92/3783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3783
-[/us/pl/100/690/s6186/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6186%2Fd
+[/us/pl/100/690/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVI
 [/us/stat/102/4358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4358
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/stat/92/3783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3783

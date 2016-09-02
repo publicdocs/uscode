@@ -59,7 +59,7 @@
 
         The Secretary shall also have power to insure under this subchapter or subchapter I, II, VIII, or X any mortgage executed in connection with the sale by him of any property acquired under any of such subchapters without regard to limitations upon eligibility, time, or aggregate amount contained therein.
 
-([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title VI, § 608, as added [May 26, 1942, ch. 319, § 11][/us/act/1942-05-26/ch319/s11], [56 Stat. 303][/us/stat/56/303]; amended [Mar. 31, 1945, ch. 48, § 2][/us/act/1945-03-31/ch48/s2], [59 Stat. 47][/us/stat/59/47]; [May 22, 1946, ch. 268, § 10(f)][/us/act/1946-05-22/ch268/s10/f], (g), [60 Stat. 214][/us/stat/60/214]; [Aug. 10, 1948, ch. 832][/us/act/1948-08-10/ch832], title I, § 101(b), (c), [62 Stat. 1269][/us/stat/62/1269]; [Apr. 20, 1950, ch. 94][/us/act/1950-04-20/ch94], title I, § 122, [64 Stat. 59][/us/stat/64/59]; [Sept. 1, 1951, ch. 378][/us/act/1951-09-01/ch378], title II, § 206, [65 Stat. 303][/us/stat/65/303]; [Pub. L. 89–117, title XI, § 1108(q)][/us/pl/89/117/s1108/q], Aug. 10, 1965, [79 Stat. 506][/us/stat/79/506]; [Pub. L. 90–19, § 1(a)(3)][/us/pl/90/19/s1/a/3], (4), May 25, 1967, [81 Stat. 17][/us/stat/81/17].)
+([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title VI, § 608, as added [May 26, 1942, ch. 319][/us/act/1942-05-26/ch319], § 11, [56 Stat. 303][/us/stat/56/303]; amended [Mar. 31, 1945, ch. 48][/us/act/1945-03-31/ch48], § 2, [59 Stat. 47][/us/stat/59/47]; [May 22, 1946, ch. 268][/us/act/1946-05-22/ch268], § 10(f), (g), [60 Stat. 214][/us/stat/60/214]; [Aug. 10, 1948, ch. 832][/us/act/1948-08-10/ch832], title I, § 101(b), (c), [62 Stat. 1269][/us/stat/62/1269]; [Apr. 20, 1950, ch. 94][/us/act/1950-04-20/ch94], title I, § 122, [64 Stat. 59][/us/stat/64/59]; [Sept. 1, 1951, ch. 378][/us/act/1951-09-01/ch378], title II, § 206, [65 Stat. 303][/us/stat/65/303]; [Pub. L. 89–117, title XI][/us/pl/89/117/tXI], § 1108(q), Aug. 10, 1965, [79 Stat. 506][/us/stat/79/506]; [Pub. L. 90–19][/us/pl/90/19], § 1(a)(3), (4), May 25, 1967, [81 Stat. 17][/us/stat/81/17].)
 
  __References in Text__ 
 
@@ -67,13 +67,13 @@
 
  __Amendments__ 
 
-    1967—[Pub. L. 90–19, § 1(a)(3)][/us/pl/90/19/s1/a/3], substituted “Secretary” for “Commissioner” wherever appearing in subsecs. (a), (b)(1), (2), (3)(B), following (C), (c), (d), and (g).
+    1967—[Pub. L. 90–19][/us/pl/90/19], § 1(a)(3), substituted “Secretary” for “Commissioner” wherever appearing in subsecs. (a), (b)(1), (2), (3)(B), following (C), (c), (d), and (g).
 
-    Subsec. (b)(3)(B). [Pub. L. 90–19, § 1(a)(4)][/us/pl/90/19/s1/a/4], substituted “Secretary’s” for “Commissioner’s”.
+    Subsec. (b)(3)(B). [Pub. L. 90–19][/us/pl/90/19], § 1(a)(4), substituted “Secretary’s” for “Commissioner’s”.
 
-    1965—Subsecs. (b)(1), (d). [Pub. L. 89–117, § 1108(q)(1)][/us/pl/89/117/s1108/q/1], substituted “General Insurance Fund” for “War Housing Insurance Fund”.
+    1965—Subsecs. (b)(1), (d). [Pub. L. 89–117][/us/pl/89/117], § 1108(q)(1), substituted “General Insurance Fund” for “War Housing Insurance Fund”.
 
-    Subsec. (f). [Pub. L. 89–117, § 1108(q)(2)][/us/pl/89/117/s1108/q/2], struck out provisions that, as applied to mortgages insured under this section, all references in [section 1713(k) of this title][/us/usc/t12/s1713/k] to the “Housing Fund” shall be construed to refer to the “War Housing Insurance Fund”.
+    Subsec. (f). [Pub. L. 89–117][/us/pl/89/117], § 1108(q)(2), struck out provisions that, as applied to mortgages insured under this section, all references in [section 1713(k) of this title][/us/usc/t12/s1713/k] to the “Housing Fund” shall be construed to refer to the “War Housing Insurance Fund”.
 
     1951—Subsec. (g). Act Sept. 1, 1951, inserted references to subchapters I, VIII and X of this chapter.
 
@@ -91,7 +91,7 @@
 
  __Construction of Act__  __May 26, 1942__  __, With Ex. Ord. No. 9070, Consolidating National Housing Agency__ 
 
-    [Act May 26, 1942, ch. 319, § 12][/us/act/1942-05-26/ch319/s12], [56 Stat. 305][/us/stat/56/305], provided that nothing contained in act May 26, 1942, was to be construed to supersede or be inconsistent with the provisions of Ex. Ord. No. 9070, Feb. 24, 1942.
+    [Act May 26, 1942, ch. 319][/us/act/1942-05-26/ch319], § 12, [56 Stat. 305][/us/stat/56/305], provided that nothing contained in act May 26, 1942, was to be construed to supersede or be inconsistent with the provisions of Ex. Ord. No. 9070, Feb. 24, 1942.
 
 ----------
 
@@ -106,11 +106,11 @@
 [/us/usc/t12/s1739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1739
 [/us/usc/t12/s1713/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1713%2Fk
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
-[/us/act/1942-05-26/ch319/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-05-26%2Fch319%2Fs11
+[/us/act/1942-05-26/ch319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-05-26%2Fch319
 [/us/stat/56/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F303
-[/us/act/1945-03-31/ch48/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-03-31%2Fch48%2Fs2
+[/us/act/1945-03-31/ch48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-03-31%2Fch48
 [/us/stat/59/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F47
-[/us/act/1946-05-22/ch268/s10/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-05-22%2Fch268%2Fs10%2Ff
+[/us/act/1946-05-22/ch268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-05-22%2Fch268
 [/us/stat/60/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F214
 [/us/act/1948-08-10/ch832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-08-10%2Fch832
 [/us/stat/62/1269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1269
@@ -118,17 +118,17 @@
 [/us/stat/64/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F59
 [/us/act/1951-09-01/ch378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-09-01%2Fch378
 [/us/stat/65/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F303
-[/us/pl/89/117/s1108/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117%2Fs1108%2Fq
+[/us/pl/89/117/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117%2FtXI
 [/us/stat/79/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F506
-[/us/pl/90/19/s1/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19%2Fs1%2Fa%2F3
+[/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
 [/us/stat/81/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F17
 [/us/usc/t12/s1735c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1735c
-[/us/pl/90/19/s1/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19%2Fs1%2Fa%2F3
-[/us/pl/90/19/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19%2Fs1%2Fa%2F4
-[/us/pl/89/117/s1108/q/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117%2Fs1108%2Fq%2F1
-[/us/pl/89/117/s1108/q/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117%2Fs1108%2Fq%2F2
+[/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
+[/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
+[/us/pl/89/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117
+[/us/pl/89/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117
 [/us/usc/t12/s1713/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1713%2Fk
-[/us/act/1942-05-26/ch319/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-05-26%2Fch319%2Fs12
+[/us/act/1942-05-26/ch319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-05-26%2Fch319
 [/us/stat/56/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F305
 
 

@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated without fiscal year limitations such sums, not to exceed $2,000,000, as may be necessary to carry out the provisions of this chapter.
 
-([Pub. L. 93–495, title II, § 208][/us/pl/93/495/s208], Oct. 28, 1974, [88 Stat. 1511][/us/stat/88/1511].)
+([Pub. L. 93–495, title II][/us/pl/93/495/tII], § 208, Oct. 28, 1974, [88 Stat. 1511][/us/stat/88/1511].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/93/495/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2Fs208
+[/us/pl/93/495/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2FtII
 [/us/stat/88/1511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1511
 
 

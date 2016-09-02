@@ -69,7 +69,7 @@
 
         (3) The Board is authorized, with respect to participation in the collection and settlement of any items by the Central Liquidity Facility or by its Agent members, and with respect to the collection and settlement (including payment by the payor institution) of items payable by members of the Central Liquidity Facility or of any of its Agent members, to prescribe rules and regulations regarding the rights, powers, responsibilities, duties, and liabilities, including standards relating thereto, of such entities and other parties to any such items or their collection and settlement. In prescribing such rules and regulations, the Board may adopt or apply, in whole or in part, general banking usage and practices, and, in instances or respects in which they would otherwise not be applicable, Federal Reserve regulations and operating letters, the Uniform Commercial Code, and clearinghouse rules.
 
-([June 26, 1934, ch. 750][/us/act/1934-06-26/ch750], title III, formerly subch. III, § 307, as added and amended [Pub. L. 95–630, title V, § 502(b)][/us/pl/95/630/s502/b], title XVIII, § 1802, Nov. 10, 1978, [92 Stat. 3681][/us/stat/92/3681], 3722; [Pub. L. 96–221, title III][/us/pl/96/221], §§ 309(a)(3), (4), (b), 312, Mar. 31, 1980, [94 Stat. 149][/us/stat/94/149], 150; [Pub. L. 97–320, title V, § 531][/us/pl/97/320/s531], Oct. 15, 1982, [96 Stat. 1536][/us/stat/96/1536].)
+([June 26, 1934, ch. 750][/us/act/1934-06-26/ch750], title III, formerly subch. III, § 307, as added and amended [Pub. L. 95–630, title V][/us/pl/95/630/tV], § 502(b), title XVIII, § 1802, Nov. 10, 1978, [92 Stat. 3681][/us/stat/92/3681], 3722; [Pub. L. 96–221, title III][/us/pl/96/221/tIII], §§ 309(a)(3), (4), (b), 312, Mar. 31, 1980, [94 Stat. 149][/us/stat/94/149], 150; [Pub. L. 97–320, title V][/us/pl/97/320/tV], § 531, Oct. 15, 1982, [96 Stat. 1536][/us/stat/96/1536].)
 
  __Codification__ 
 
@@ -81,7 +81,7 @@
 
     1980—[Pub. L. 96–221][/us/pl/96/221], §§ 309(a)(3), (4), (b)(2), (3), 312, designated existing provisions as subsec. (a) substituted “Board” for “Administrator”, such change having been made previously by [Pub. L. 95–630][/us/pl/95/630], and “title” and “titles” for “subchapter” and “subchapters”, which for purposes of codification has been editorially translated as “subchapter” or “subchapters” thereby requiring no further change in text, in par. (15) struck out requirement respecting advance appropriation of amounts, and added subsec. (b).
 
-    1978—[Pub. L. 95–630, § 502(b)][/us/pl/95/630/s502/b], substituted “Board” for “Administrator”.
+    1978—[Pub. L. 95–630][/us/pl/95/630], § 502(b), substituted “Board” for “Administrator”.
 
  __Effective Date of 1978 Amendment__ 
 
@@ -96,18 +96,18 @@
 
 [/us/usc/t12/s248a/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs248a%2Fc
 [/us/act/1934-06-26/ch750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-26%2Fch750
-[/us/pl/95/630/s502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs502%2Fb
+[/us/pl/95/630/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtV
 [/us/stat/92/3681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3681
-[/us/pl/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221
+[/us/pl/96/221/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2FtIII
 [/us/stat/94/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F149
-[/us/pl/97/320/s531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs531
+[/us/pl/97/320/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2FtV
 [/us/stat/96/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1536
 [/us/pl/96/221/s309/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs309%2Fb%2F1
 [/us/act/1934-06-26/ch750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-26%2Fch750
 [/us/pl/97/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320
 [/us/pl/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221
 [/us/pl/95/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630
-[/us/pl/95/630/s502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs502%2Fb
+[/us/pl/95/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630
 [/us/pl/95/630/s509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs509
 [/us/usc/t12/s1752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1752
 

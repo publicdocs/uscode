@@ -115,53 +115,53 @@
 
         The appropriate Federal banking agency is authorized to use the combined resources retained through fees and assessments imposed pursuant to this section to pay all direct and indirect salary and administrative expenses of the Office, including contracts and purchases of property and services, and the direct and indirect expenses of the examinations and supervisory activities of the Office.
 
-([June 13, 1933, ch. 64, § 9][/us/act/1933-06-13/ch64/s9], as added [Pub. L. 100–86, title IV, § 402(a)][/us/pl/100/86/s402/a], Aug. 10, 1987, [101 Stat. 605][/us/stat/101/605]; amended [Pub. L. 101–73, title III, § 301][/us/pl/101/73/s301], Aug. 9, 1989, [103 Stat. 316][/us/stat/103/316]; [Pub. L. 102–242, title I, § 114(c)][/us/pl/102/242/s114/c], Dec. 19, 1991, [105 Stat. 2248][/us/stat/105/2248]; [Pub. L. 111–203, title III, § 369(7)][/us/pl/111/203/s369/7], July 21, 2010, [124 Stat. 1563][/us/stat/124/1563].)
+([June 13, 1933, ch. 64][/us/act/1933-06-13/ch64], § 9, as added [Pub. L. 100–86, title IV][/us/pl/100/86/tIV], § 402(a), Aug. 10, 1987, [101 Stat. 605][/us/stat/101/605]; amended [Pub. L. 101–73, title III][/us/pl/101/73/tIII], § 301, Aug. 9, 1989, [103 Stat. 316][/us/stat/103/316]; [Pub. L. 102–242, title I][/us/pl/102/242/tI], § 114(c), Dec. 19, 1991, [105 Stat. 2248][/us/stat/105/2248]; [Pub. L. 111–203, title III][/us/pl/111/203/tIII], § 369(7), July 21, 2010, [124 Stat. 1563][/us/stat/124/1563].)
 
  __Prior Provisions__ 
 
-    A prior section 1467, acts [June 13, 1933, ch. 64, § 8][/us/act/1933-06-13/ch64/s8], [48 Stat. 134][/us/stat/48/134]; [Apr. 27, 1934, ch. 168, § 12][/us/act/1934-04-27/ch168/s12], [48 Stat. 647][/us/stat/48/647]; [May 28, 1935, ch. 150][/us/act/1935-05-28/ch150], §§ 20, 21, [49 Stat. 298][/us/stat/49/298], related to penalties, prior to repeal by [act June 25, 1948, ch. 645, § 21][/us/act/1948-06-25/ch645/s21], [62 Stat. 862][/us/stat/62/862], eff. Sept. 1, 1948. See sections 223, 433, 493, 657, 1006, and 1014 of Title 18, Crimes and Criminal Procedure.
+    A prior section 1467, acts [June 13, 1933, ch. 64][/us/act/1933-06-13/ch64], § 8, [48 Stat. 134][/us/stat/48/134]; [Apr. 27, 1934, ch. 168][/us/act/1934-04-27/ch168], § 12, [48 Stat. 647][/us/stat/48/647]; [May 28, 1935, ch. 150][/us/act/1935-05-28/ch150], §§ 20, 21, [49 Stat. 298][/us/stat/49/298], related to penalties, prior to repeal by [act June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], § 21, [62 Stat. 862][/us/stat/62/862], eff. Sept. 1, 1948. See sections 223, 433, 493, 657, 1006, and 1014 of Title 18, Crimes and Criminal Procedure.
 
     A prior section 9 of act June 13, 1933, was renumbered section 11 and is classified to [section 1468 of this title][/us/usc/t12/s1468].
 
  __Amendments__ 
 
-    2010—Subsec. (a). [Pub. L. 111–203, § 369(7)(A)][/us/pl/111/203/s369/7/A], substituted “assessed by—” for “assessed by the Director against each such savings association as the Director deems necessary or appropriate.” and added pars. (1) and (2).
+    2010—Subsec. (a). [Pub. L. 111–203][/us/pl/111/203], § 369(7)(A), substituted “assessed by—” for “assessed by the Director against each such savings association as the Director deems necessary or appropriate.” and added pars. (1) and (2).
 
-    Subsec. (b). [Pub. L. 111–203, § 369(7)(B)][/us/pl/111/203/s369/7/B], substituted “Comptroller or Corporation, as appropriate” for “Director” in two places.
+    Subsec. (b). [Pub. L. 111–203][/us/pl/111/203], § 369(7)(B), substituted “Comptroller or Corporation, as appropriate” for “Director” in two places.
 
-    Subsecs. (c), (d). [Pub. L. 111–203, § 369(7)(I)][/us/pl/111/203/s369/7/I], substituted “appropriate Federal banking agency” for “Director” in two places.
+    Subsecs. (c), (d). [Pub. L. 111–203][/us/pl/111/203], § 369(7)(I), substituted “appropriate Federal banking agency” for “Director” in two places.
 
-    Subsec. (e). [Pub. L. 111–203, § 369(7)(I)][/us/pl/111/203/s369/7/I], substituted “appropriate Federal banking agency” for “Director” in concluding provisions.
+    Subsec. (e). [Pub. L. 111–203][/us/pl/111/203], § 369(7)(I), substituted “appropriate Federal banking agency” for “Director” in concluding provisions.
 
-    [Pub. L. 111–203, § 369(7)(C)][/us/pl/111/203/s369/7/C], substituted “The Comptroller” for “Only the Director” in introductory provisions and “designee of the Comptroller” for “Director’s designee” in concluding provisions.
+    [Pub. L. 111–203][/us/pl/111/203], § 369(7)(C), substituted “The Comptroller” for “Only the Director” in introductory provisions and “designee of the Comptroller” for “Director’s designee” in concluding provisions.
 
-    Subsec. (f). [Pub. L. 111–203, § 369(7)(D)][/us/pl/111/203/s369/7/D], substituted “\[Reserved\].” for text which read as follows: “The Corporation or the Federal home loan banks shall, upon request of and by agreement with the Director, collect fees and assessments on behalf of the Director and be reimbursed for the actual cost of collection.”
+    Subsec. (f). [Pub. L. 111–203][/us/pl/111/203], § 369(7)(D), substituted “\[Reserved\].” for text which read as follows: “The Corporation or the Federal home loan banks shall, upon request of and by agreement with the Director, collect fees and assessments on behalf of the Director and be reimbursed for the actual cost of collection.”
 
-    Subsec. (g)(1). [Pub. L. 111–203, § 369(7)(E)(i)][/us/pl/111/203/s369/7/E/i], substituted “appropriate Federal banking agency” for “Director”.
+    Subsec. (g)(1). [Pub. L. 111–203][/us/pl/111/203], § 369(7)(E)(i), substituted “appropriate Federal banking agency” for “Director”.
 
-    Subsec. (g)(2). [Pub. L. 111–203, § 369(7)(I)][/us/pl/111/203/s369/7/I], substituted “appropriate Federal banking agency or the Corporation” for “Director or the Corporation”.
+    Subsec. (g)(2). [Pub. L. 111–203][/us/pl/111/203], § 369(7)(I), substituted “appropriate Federal banking agency or the Corporation” for “Director or the Corporation”.
 
-    [Pub. L. 111–203, § 369(7)(E)(ii)][/us/pl/111/203/s369/7/E/ii], substituted “appropriate Federal banking agency for the savings association” for “Director, or the Corporation, as the case may be,”.
+    [Pub. L. 111–203][/us/pl/111/203], § 369(7)(E)(ii), substituted “appropriate Federal banking agency for the savings association” for “Director, or the Corporation, as the case may be,”.
 
-    Subsec. (h). [Pub. L. 111–203, § 369(7)(I)][/us/pl/111/203/s369/7/I], substituted “appropriate Federal banking agency” for “Director” in two places.
+    Subsec. (h). [Pub. L. 111–203][/us/pl/111/203], § 369(7)(I), substituted “appropriate Federal banking agency” for “Director” in two places.
 
-    Subsec. (i). [Pub. L. 111–203, § 369(7)(F)][/us/pl/111/203/s369/7/F], substituted “appropriate Federal banking agency” for “Director” wherever appearing.
+    Subsec. (i). [Pub. L. 111–203][/us/pl/111/203], § 369(7)(F), substituted “appropriate Federal banking agency” for “Director” wherever appearing.
 
-    Subsec. (j). [Pub. L. 111–203, § 369(7)(I)][/us/pl/111/203/s369/7/I], substituted “The appropriate Federal banking agency” for “The Director” and “submits to the appropriate Federal banking agency” for “submits to the Director”.
+    Subsec. (j). [Pub. L. 111–203][/us/pl/111/203], § 369(7)(I), substituted “The appropriate Federal banking agency” for “The Director” and “submits to the appropriate Federal banking agency” for “submits to the Director”.
 
-    [Pub. L. 111–203, § 369(7)(G)][/us/pl/111/203/s369/7/G], substituted “sole discretion of the appropriate Federal banking agency” for “Director’s sole discretion”.
+    [Pub. L. 111–203][/us/pl/111/203], § 369(7)(G), substituted “sole discretion of the appropriate Federal banking agency” for “Director’s sole discretion”.
 
-    Subsec. (k). [Pub. L. 111–203, § 369(7)(I)][/us/pl/111/203/s369/7/I], substituted “appropriate Federal banking agency deems” for “Director deems” and “discretion of the appropriate Federal banking agency” for “discretion of the Director”.
+    Subsec. (k). [Pub. L. 111–203][/us/pl/111/203], § 369(7)(I), substituted “appropriate Federal banking agency deems” for “Director deems” and “discretion of the appropriate Federal banking agency” for “discretion of the Director”.
 
-    [Pub. L. 111–203, § 369(7)(H)][/us/pl/111/203/s369/7/H], substituted “appropriate Federal banking agency may assess against an institution” for “Director may assess against institutions for which the Director is the appropriate Federal banking agency, as defined in section 3 of the Federal Deposit Insurance Act,”.
+    [Pub. L. 111–203][/us/pl/111/203], § 369(7)(H), substituted “appropriate Federal banking agency may assess against an institution” for “Director may assess against institutions for which the Director is the appropriate Federal banking agency, as defined in section 3 of the Federal Deposit Insurance Act,”.
 
-    Subsecs. (l), (m). [Pub. L. 111–203, § 369(7)(I)][/us/pl/111/203/s369/7/I], substituted “appropriate Federal banking agency” for “Director” wherever appearing.
+    Subsecs. (l), (m). [Pub. L. 111–203][/us/pl/111/203], § 369(7)(I), substituted “appropriate Federal banking agency” for “Director” wherever appearing.
 
-    1991—Subsec. (a). [Pub. L. 102–242, § 114(c)(1)][/us/pl/102/242/s114/c/1], added subsec. (a) and struck out former subsec. (a) which read as follows: “The cost of conducting examinations of savings associations pursuant to [section 1464(d) of this title][/us/usc/t12/s1464/d] shall be assessed by the Director against each such savings association in proportion to the assets or resources of the savings association.”
+    1991—Subsec. (a). [Pub. L. 102–242][/us/pl/102/242], § 114(c)(1), added subsec. (a) and struck out former subsec. (a) which read as follows: “The cost of conducting examinations of savings associations pursuant to [section 1464(d) of this title][/us/usc/t12/s1464/d] shall be assessed by the Director against each such savings association in proportion to the assets or resources of the savings association.”
 
-    Subsec. (b). [Pub. L. 102–242, § 114(c)(1)][/us/pl/102/242/s114/c/1], added subsec. (b) and struck out former subsec. (b) which read as follows: “The cost of conducting examinations of affiliates of savings associations pursuant to this chapter may be assessed by the Director against each affiliate which is examined in proportion to the assets or resources held by the affiliate on the date of any such examination.”
+    Subsec. (b). [Pub. L. 102–242][/us/pl/102/242], § 114(c)(1), added subsec. (b) and struck out former subsec. (b) which read as follows: “The cost of conducting examinations of affiliates of savings associations pursuant to this chapter may be assessed by the Director against each affiliate which is examined in proportion to the assets or resources held by the affiliate on the date of any such examination.”
 
-    Subsec. (k). [Pub. L. 102–242, § 114(c)(2)][/us/pl/102/242/s114/c/2], amended subsec. (k) generally. Prior to amendment, subsec. (k) read as follows: “The Director may assess against institutions for which the Director is the appropriate Federal banking agency, within the meaning of section 3 of the Federal Deposit Insurance Act, fees to fund the direct and indirect expenses of the Office. Such fees shall be imposed in proportion of the assets or resources of the institutions. The fees may be imposed more frequently than annually at the discretion of the Director. The annual rate of such fees shall be the same for all institutions subject to such fees.”
+    Subsec. (k). [Pub. L. 102–242][/us/pl/102/242], § 114(c)(2), amended subsec. (k) generally. Prior to amendment, subsec. (k) read as follows: “The Director may assess against institutions for which the Director is the appropriate Federal banking agency, within the meaning of section 3 of the Federal Deposit Insurance Act, fees to fund the direct and indirect expenses of the Office. Such fees shall be imposed in proportion of the assets or resources of the institutions. The fees may be imposed more frequently than annually at the discretion of the Director. The annual rate of such fees shall be the same for all institutions subject to such fees.”
 
     1989—[Pub. L. 101–73][/us/pl/101/73] amended section generally, substituting subsecs. (a) to (m) relating to examination fees for former subsecs. (a) to (f) relating to accounting principles and other standards and requirements.
 
@@ -175,7 +175,7 @@
 
  __Submission of Proposed Regulations to Congress__ 
 
-[Pub. L. 100–86, title IV, § 402(c)][/us/pl/100/86/s402/c], Aug. 10, 1987, [101 Stat. 608][/us/stat/101/608], provided that: 
+[Pub. L. 100–86, title IV][/us/pl/100/86/tIV], § 402(c), Aug. 10, 1987, [101 Stat. 608][/us/stat/101/608], provided that: 
 
 > “Not later than the end of the 90-day period beginning on the date of the enactment of this Act \[Aug. 10, 1987\]—
 
@@ -185,7 +185,7 @@
 
  __Effective Date of Regulations__ 
 
-[Pub. L. 100–86, title IV, § 402(d)][/us/pl/100/86/s402/d], Aug. 10, 1987, [101 Stat. 608][/us/stat/101/608], provided that:
+[Pub. L. 100–86, title IV][/us/pl/100/86/tIV], § 402(d), Aug. 10, 1987, [101 Stat. 608][/us/stat/101/608], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -220,44 +220,44 @@
 [/us/usc/t12/s1818/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1818%2Fi%2F2
 [/us/usc/t12/s1467a/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1467a%2Fb%2F4
 [/us/usc/t12/s192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs192
-[/us/act/1933-06-13/ch64/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-13%2Fch64%2Fs9
-[/us/pl/100/86/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2Fs402%2Fa
+[/us/act/1933-06-13/ch64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-13%2Fch64
+[/us/pl/100/86/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2FtIV
 [/us/stat/101/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F605
-[/us/pl/101/73/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs301
+[/us/pl/101/73/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtIII
 [/us/stat/103/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F316
-[/us/pl/102/242/s114/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs114%2Fc
+[/us/pl/102/242/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtI
 [/us/stat/105/2248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2248
-[/us/pl/111/203/s369/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs369%2F7
+[/us/pl/111/203/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIII
 [/us/stat/124/1563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1563
-[/us/act/1933-06-13/ch64/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-13%2Fch64%2Fs8
+[/us/act/1933-06-13/ch64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-13%2Fch64
 [/us/stat/48/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F134
-[/us/act/1934-04-27/ch168/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-04-27%2Fch168%2Fs12
+[/us/act/1934-04-27/ch168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-04-27%2Fch168
 [/us/stat/48/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F647
 [/us/act/1935-05-28/ch150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-05-28%2Fch150
 [/us/stat/49/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F298
-[/us/act/1948-06-25/ch645/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645%2Fs21
+[/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F862
 [/us/usc/t12/s1468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1468
-[/us/pl/111/203/s369/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs369%2F7%2FA
-[/us/pl/111/203/s369/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs369%2F7%2FB
-[/us/pl/111/203/s369/7/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs369%2F7%2FI
-[/us/pl/111/203/s369/7/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs369%2F7%2FI
-[/us/pl/111/203/s369/7/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs369%2F7%2FC
-[/us/pl/111/203/s369/7/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs369%2F7%2FD
-[/us/pl/111/203/s369/7/E/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs369%2F7%2FE%2Fi
-[/us/pl/111/203/s369/7/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs369%2F7%2FI
-[/us/pl/111/203/s369/7/E/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs369%2F7%2FE%2Fii
-[/us/pl/111/203/s369/7/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs369%2F7%2FI
-[/us/pl/111/203/s369/7/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs369%2F7%2FF
-[/us/pl/111/203/s369/7/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs369%2F7%2FI
-[/us/pl/111/203/s369/7/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs369%2F7%2FG
-[/us/pl/111/203/s369/7/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs369%2F7%2FI
-[/us/pl/111/203/s369/7/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs369%2F7%2FH
-[/us/pl/111/203/s369/7/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs369%2F7%2FI
-[/us/pl/102/242/s114/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs114%2Fc%2F1
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
 [/us/usc/t12/s1464/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1464%2Fd
-[/us/pl/102/242/s114/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs114%2Fc%2F1
-[/us/pl/102/242/s114/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs114%2Fc%2F2
+[/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
+[/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
 [/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs351
@@ -266,10 +266,10 @@
 [/us/usc/t12/s1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813
 [/us/pl/101/73/s305/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs305%2Fc
 [/us/usc/t12/s1461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1461
-[/us/pl/100/86/s402/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2Fs402%2Fc
+[/us/pl/100/86/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2FtIV
 [/us/stat/101/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F608
 [/us/usc/t12/s1730h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1730h
-[/us/pl/100/86/s402/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2Fs402%2Fd
+[/us/pl/100/86/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2FtIV
 [/us/stat/101/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F608
 [/us/pl/100/86/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2Fs416
 [/us/usc/t12/s1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1441

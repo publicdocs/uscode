@@ -167,7 +167,7 @@
 
         The authority granted by this section is in addition to any other authority of the Federal banking agencies.
 
-([Sept. 21, 1950, ch. 967, § 2][/us/act/1950-09-21/ch967/s2]\[39\], as added [Pub. L. 102–242, title I, § 132(a)][/us/pl/102/242/s132/a], Dec. 19, 1991, [105 Stat. 2267][/us/stat/105/2267]; amended [Pub. L. 102–550, title IX, § 956][/us/pl/102/550/s956], Oct. 28, 1992, [106 Stat. 3895][/us/stat/106/3895]; [Pub. L. 103–325, title III, § 318(a)][/us/pl/103/325/s318/a]–(c), Sept. 23, 1994, [108 Stat. 2223][/us/stat/108/2223], 2224.)
+([Sept. 21, 1950, ch. 967][/us/act/1950-09-21/ch967], § 2\[39\], as added [Pub. L. 102–242, title I][/us/pl/102/242/tI], § 132(a), Dec. 19, 1991, [105 Stat. 2267][/us/stat/105/2267]; amended [Pub. L. 102–550, title IX][/us/pl/102/550/tIX], § 956, Oct. 28, 1992, [106 Stat. 3895][/us/stat/106/3895]; [Pub. L. 103–325, title III][/us/pl/103/325/tIII], § 318(a)–(c), Sept. 23, 1994, [108 Stat. 2223][/us/stat/108/2223], 2224.)
 
  __Codification__ 
 
@@ -177,9 +177,9 @@
 
  __Amendments__ 
 
-    1994—Subsec. (a). [Pub. L. 103–325, § 318(c)(1)][/us/pl/103/325/s318/c/1], struck out “and depository institution holding companies” before “, prescribe” in introductory provisions.
+    1994—Subsec. (a). [Pub. L. 103–325][/us/pl/103/325], § 318(c)(1), struck out “and depository institution holding companies” before “, prescribe” in introductory provisions.
 
-    Subsec. (b). [Pub. L. 103–325, § 318(a)][/us/pl/103/325/s318/a], amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “Each appropriate Federal banking agency shall, for all insured depository institutions and depository institution holding companies, prescribe—
+    Subsec. (b). [Pub. L. 103–325][/us/pl/103/325], § 318(a), amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “Each appropriate Federal banking agency shall, for all insured depository institutions and depository institution holding companies, prescribe—
 
     “(1) standards specifying—
 
@@ -191,37 +191,37 @@
 
     “(2) such other standards relating to asset quality, earnings, and valuation as the agency determines to be appropriate.”
 
-    Subsec. (d). [Pub. L. 103–325, § 318(b)(1)][/us/pl/103/325/s318/b/1], struck out “by regulation” after “Standards to be prescribed” in heading.
+    Subsec. (d). [Pub. L. 103–325][/us/pl/103/325], § 318(b)(1), struck out “by regulation” after “Standards to be prescribed” in heading.
 
-    Subsec. (d)(1). [Pub. L. 103–325, § 318(b)(2)][/us/pl/103/325/s318/b/2], inserted “or guideline” before period at end of first sentence and inserted “or guidelines” after “Such regulations” in second sentence.
+    Subsec. (d)(1). [Pub. L. 103–325][/us/pl/103/325], § 318(b)(2), inserted “or guideline” before period at end of first sentence and inserted “or guidelines” after “Such regulations” in second sentence.
 
-    Subsec. (e)(1)(A). [Pub. L. 103–325, § 318(c)(2)(A)][/us/pl/103/325/s318/c/2/A]–(C), struck out “or depository institution holding company” after “insured depository institution”, substituted “or (b)—
+    Subsec. (e)(1)(A). [Pub. L. 103–325][/us/pl/103/325], § 318(c)(2)(A)–(C), struck out “or depository institution holding company” after “insured depository institution”, substituted “or (b)—
 
     “(i) if such standard is prescribed by regulation of the agency, the agency shall require”
 
     for “or (b) of this section the agency shall require”, struck out “or company” before “to submit an acceptable plan”, substituted “; and” for period at end of cl. (i), and added cl. (ii).
 
-    Subsec. (e)(1)(B). [Pub. L. 103–325, § 318(c)(2)(A)][/us/pl/103/325/s318/c/2/A], struck out “or company” before “will take to correct”.
+    Subsec. (e)(1)(B). [Pub. L. 103–325][/us/pl/103/325], § 318(c)(2)(A), struck out “or company” before “will take to correct”.
 
-    Subsec. (e)(1)(C)(i). [Pub. L. 103–325, § 318(c)(2)(A)][/us/pl/103/325/s318/c/2/A], (D), struck out “and companies” after “institutions” and struck out “or company” after “institution” in two places.
+    Subsec. (e)(1)(C)(i). [Pub. L. 103–325][/us/pl/103/325], § 318(c)(2)(A), (D), struck out “and companies” after “institutions” and struck out “or company” after “institution” in two places.
 
-    Subsec. (e)(2). [Pub. L. 103–325, § 318(c)(2)(B)][/us/pl/103/325/s318/c/2/B], struck out “or depository institution holding company” after “insured depository institution” in introductory provisions.
+    Subsec. (e)(2). [Pub. L. 103–325][/us/pl/103/325], § 318(c)(2)(B), struck out “or depository institution holding company” after “insured depository institution” in introductory provisions.
 
-    Subsec. (e)(2)(A), (B). [Pub. L. 103–325, § 318(c)(2)(A)][/us/pl/103/325/s318/c/2/A], struck out “or company” after “institution” wherever appearing.
+    Subsec. (e)(2)(A), (B). [Pub. L. 103–325][/us/pl/103/325], § 318(c)(2)(A), struck out “or company” after “institution” wherever appearing.
 
-    1992—Subsec. (d). [Pub. L. 102–550, § 956(1)][/us/pl/102/550/s956/1], added subsec. (d) and struck out former subsec. (d) which read as follows: “Standards under subsections (a), (b), and (c) of this section shall be prescribed by regulation.”
+    1992—Subsec. (d). [Pub. L. 102–550][/us/pl/102/550], § 956(1), added subsec. (d) and struck out former subsec. (d) which read as follows: “Standards under subsections (a), (b), and (c) of this section shall be prescribed by regulation.”
 
-    Subsec. (e)(1)(A). [Pub. L. 102–550, § 956(2)][/us/pl/102/550/s956/2], substituted “(a) or (b)” for “(a), (b), or (c)”.
+    Subsec. (e)(1)(A). [Pub. L. 102–550][/us/pl/102/550], § 956(2), substituted “(a) or (b)” for “(a), (b), or (c)”.
 
  __Effective Date of 1994 Amendment__ 
 
-[Pub. L. 103–325, title III, § 318(d)][/us/pl/103/325/s318/d], Sept. 23, 1994, [108 Stat. 2224][/us/stat/108/2224], provided that: 
+[Pub. L. 103–325, title III][/us/pl/103/325/tIII], § 318(d), Sept. 23, 1994, [108 Stat. 2224][/us/stat/108/2224], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall be construed to have the same effective date as section 39 of the Federal Deposit Insurance Act \[this section\], as provided in section 132(c) of the Federal Deposit Insurance Corporation Improvement Act of 1991 \[[Pub. L. 102–242][/us/pl/102/242], set out as an Effective Date note below\].”
 
  __Effective Date__ 
 
-[Pub. L. 102–242, title I, § 132(c)][/us/pl/102/242/s132/c], Dec. 19, 1991, [105 Stat. 2270][/us/stat/105/2270], provided that: 
+[Pub. L. 102–242, title I][/us/pl/102/242/tI], § 132(c), Dec. 19, 1991, [105 Stat. 2270][/us/stat/105/2270], provided that: 
 
 > “The amendment made by subsection (a) \[enacting this section\] shall become effective on the earlier of—
 
@@ -231,7 +231,7 @@
 
  __Regulations__ 
 
-[Pub. L. 102–242, title I, § 132(b)][/us/pl/102/242/s132/b], Dec. 19, 1991, [105 Stat. 2270][/us/stat/105/2270], provided that: 
+[Pub. L. 102–242, title I][/us/pl/102/242/tI], § 132(b), Dec. 19, 1991, [105 Stat. 2270][/us/stat/105/2270], provided that: 
 
 > “Each appropriate Federal banking agency (as defined in section 3 of the Federal Deposit Insurance Act \[[12 U.S.C. 1813][/us/usc/t12/s1813]\]) shall promulgate final regulations under section 39 of the Federal Deposit Insurance Act \[[12 U.S.C. 1831p–1][/us/usc/t12/s1831p–1]\] (as added by subsection (a)) not later than August 1, 1993.”
 
@@ -246,32 +246,32 @@
 [/us/usc/t12/s1828/k/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1828%2Fk%2F4
 [/us/usc/t12/s1818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1818
 [/us/usc/t12/s1818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1818
-[/us/act/1950-09-21/ch967/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967%2Fs2
-[/us/pl/102/242/s132/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs132%2Fa
+[/us/act/1950-09-21/ch967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967
+[/us/pl/102/242/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtI
 [/us/stat/105/2267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2267
-[/us/pl/102/550/s956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs956
+[/us/pl/102/550/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtIX
 [/us/stat/106/3895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3895
-[/us/pl/103/325/s318/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs318%2Fa
+[/us/pl/103/325/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtIII
 [/us/stat/108/2223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2223
 [/us/usc/t12/s1831s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1831s
 [/us/usc/t12/s1831r–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1831r%E2%80%931
-[/us/pl/103/325/s318/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs318%2Fc%2F1
-[/us/pl/103/325/s318/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs318%2Fa
-[/us/pl/103/325/s318/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs318%2Fb%2F1
-[/us/pl/103/325/s318/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs318%2Fb%2F2
-[/us/pl/103/325/s318/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs318%2Fc%2F2%2FA
-[/us/pl/103/325/s318/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs318%2Fc%2F2%2FA
-[/us/pl/103/325/s318/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs318%2Fc%2F2%2FA
-[/us/pl/103/325/s318/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs318%2Fc%2F2%2FB
-[/us/pl/103/325/s318/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs318%2Fc%2F2%2FA
-[/us/pl/102/550/s956/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs956%2F1
-[/us/pl/102/550/s956/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs956%2F2
-[/us/pl/103/325/s318/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs318%2Fd
+[/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
+[/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
+[/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
+[/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
+[/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
+[/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
+[/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
+[/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
+[/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/103/325/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtIII
 [/us/stat/108/2224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2224
 [/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
-[/us/pl/102/242/s132/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs132%2Fc
+[/us/pl/102/242/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtI
 [/us/stat/105/2270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2270
-[/us/pl/102/242/s132/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs132%2Fb
+[/us/pl/102/242/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtI
 [/us/stat/105/2270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2270
 [/us/usc/t12/s1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813
 [/us/usc/t12/s1831p–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1831p%E2%80%931

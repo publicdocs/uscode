@@ -51,7 +51,7 @@
 
         (4) such other information as the Board reasonably believes is necessary or helpful to the public in understanding the accounting, financial reporting, and internal controls of the Board and the Federal reserve banks.
 
-([Dec. 23, 1913, ch. 6, § 2B][/us/act/1913-12-23/ch6/s2B], as added [Pub. L. 106–569, title X, § 1003(b)(1)][/us/pl/106/569/s1003/b/1], Dec. 27, 2000, [114 Stat. 3028][/us/stat/114/3028]; amended [Pub. L. 111–203, title XI, § 1103(a)][/us/pl/111/203/s1103/a], July 21, 2010, [124 Stat. 2118][/us/stat/124/2118].)
+([Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 2B, as added [Pub. L. 106–569, title X][/us/pl/106/569/tX], § 1003(b)(1), Dec. 27, 2000, [114 Stat. 3028][/us/stat/114/3028]; amended [Pub. L. 111–203, title XI][/us/pl/111/203/tXI], § 1103(a), July 21, 2010, [124 Stat. 2118][/us/stat/124/2118].)
 
  __Amendments__ 
 
@@ -75,10 +75,10 @@
 [/us/usc/t31/s714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs714
 [/us/usc/t12/s248b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs248b
 [/us/usc/t12/s343/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs343%2F3
-[/us/act/1913-12-23/ch6/s2B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs2B
-[/us/pl/106/569/s1003/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs1003%2Fb%2F1
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
+[/us/pl/106/569/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2FtX
 [/us/stat/114/3028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F3028
-[/us/pl/111/203/s1103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1103%2Fa
+[/us/pl/111/203/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtXI
 [/us/stat/124/2118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2118
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203

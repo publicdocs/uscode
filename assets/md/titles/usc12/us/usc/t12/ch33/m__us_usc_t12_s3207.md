@@ -25,17 +25,17 @@
 
     (4) the National Credit Union Administration with respect to credit unions the accounts of which are insured by the National Credit Union Administration.
 
-([Pub. L. 95–630, title II, § 209][/us/pl/95/630/s209], Nov. 10, 1978, [92 Stat. 3675][/us/stat/92/3675]; [Pub. L. 103–325, title III, § 338(b)][/us/pl/103/325/s338/b], Sept. 23, 1994, [108 Stat. 2236][/us/stat/108/2236]; [Pub. L. 104–208, div. A, title II, § 2210(c)][/us/pl/104/208/s2210/c], Sept. 30, 1996, [110 Stat. 3009–410][/us/stat/110/3009-410]; [Pub. L. 108–386, § 8(e)(2)][/us/pl/108/386/s8/e/2], Oct. 30, 2004, [118 Stat. 2232][/us/stat/118/2232]; [Pub. L. 111–203, title III, § 360(2)][/us/pl/111/203/s360/2], July 21, 2010, [124 Stat. 1549][/us/stat/124/1549].)
+([Pub. L. 95–630, title II][/us/pl/95/630/tII], § 209, Nov. 10, 1978, [92 Stat. 3675][/us/stat/92/3675]; [Pub. L. 103–325, title III][/us/pl/103/325/tIII], § 338(b), Sept. 23, 1994, [108 Stat. 2236][/us/stat/108/2236]; [Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], § 2210(c), Sept. 30, 1996, [110 Stat. 3009–410][/us/stat/110/3009-410]; [Pub. L. 108–386][/us/pl/108/386], § 8(e)(2), Oct. 30, 2004, [118 Stat. 2232][/us/stat/118/2232]; [Pub. L. 111–203, title III][/us/pl/111/203/tIII], § 360(2), July 21, 2010, [124 Stat. 1549][/us/stat/124/1549].)
 
  __Amendments__ 
 
-    2010—Par. (1). [Pub. L. 111–203, § 360(2)(A)][/us/pl/111/203/s360/2/A], inserted “and Federal savings associations (the deposits of which are insured by the Federal Deposit Insurance Corporation)” before the comma.
+    2010—Par. (1). [Pub. L. 111–203][/us/pl/111/203], § 360(2)(A), inserted “and Federal savings associations (the deposits of which are insured by the Federal Deposit Insurance Corporation)” before the comma.
 
-    Par. (2). [Pub. L. 111–203, § 360(2)(B)][/us/pl/111/203/s360/2/B], substituted “, bank holding companies, and savings and loan holding companies” for “, and bank holding companies”.
+    Par. (2). [Pub. L. 111–203][/us/pl/111/203], § 360(2)(B), substituted “, bank holding companies, and savings and loan holding companies” for “, and bank holding companies”.
 
-    Par. (3). [Pub. L. 111–203, § 360(2)(C)][/us/pl/111/203/s360/2/C], substituted “Corporation and State savings associations (the deposits of which are insured by the Federal Deposit Insurance Corporation),” for “Corporation,”.
+    Par. (3). [Pub. L. 111–203][/us/pl/111/203], § 360(2)(C), substituted “Corporation and State savings associations (the deposits of which are insured by the Federal Deposit Insurance Corporation),” for “Corporation,”.
 
-    Pars. (4), (5). [Pub. L. 111–203, § 360(2)(D)][/us/pl/111/203/s360/2/D], (E), redesignated par. (5) as (4) and struck out former par. (4) which read as follows: “the Director of the Office of Thrift Supervision with respect to institutions the accounts of which are insured by the Federal Deposit Insurance Corporation, and savings and loan holding companies, and”.
+    Pars. (4), (5). [Pub. L. 111–203][/us/pl/111/203], § 360(2)(D), (E), redesignated par. (5) as (4) and struck out former par. (4) which read as follows: “the Director of the Office of Thrift Supervision with respect to institutions the accounts of which are insured by the Federal Deposit Insurance Corporation, and savings and loan holding companies, and”.
 
     2004—Par. (1). [Pub. L. 108–386][/us/pl/108/386] struck out “and banks located in the District of Columbia” after “national banks”.
 
@@ -60,20 +60,20 @@
 
 [/us/usc/t12/s3202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3202
 [/us/usc/t12/s3203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3203
-[/us/pl/95/630/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs209
+[/us/pl/95/630/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtII
 [/us/stat/92/3675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3675
-[/us/pl/103/325/s338/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs338%2Fb
+[/us/pl/103/325/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtIII
 [/us/stat/108/2236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2236
-[/us/pl/104/208/s2210/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2210%2Fc
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-410
-[/us/pl/108/386/s8/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F386%2Fs8%2Fe%2F2
+[/us/pl/108/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F386
 [/us/stat/118/2232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2232
-[/us/pl/111/203/s360/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs360%2F2
+[/us/pl/111/203/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIII
 [/us/stat/124/1549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1549
-[/us/pl/111/203/s360/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs360%2F2%2FA
-[/us/pl/111/203/s360/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs360%2F2%2FB
-[/us/pl/111/203/s360/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs360%2F2%2FC
-[/us/pl/111/203/s360/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs360%2F2%2FD
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/108/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F386
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/usc/t12/s3202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3202

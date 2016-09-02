@@ -39,7 +39,7 @@
 
         This section shall take effect upon the expiration of the 30-month period beginning on December 13, 1991.
 
-([Pub. L. 92–181, title VIII, § 8][/us/pl/92/181/s8].36, as added [Pub. L. 102–237, title V, § 503(b)(2)][/us/pl/102/237/s503/b/2], Dec. 13, 1991, [105 Stat. 1876][/us/stat/105/1876].)
+([Pub. L. 92–181, title VIII][/us/pl/92/181/tVIII], § 8.36, as added [Pub. L. 102–237, title V][/us/pl/102/237/tV], § 503(b)(2), Dec. 13, 1991, [105 Stat. 1876][/us/stat/105/1876].)
 
 ----------
 
@@ -49,8 +49,8 @@
 ----------
 
 [/us/usc/t12/s2279bb–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2279bb%E2%80%936
-[/us/pl/92/181/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs8
-[/us/pl/102/237/s503/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs503%2Fb%2F2
+[/us/pl/92/181/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtVIII
+[/us/pl/102/237/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtV
 [/us/stat/105/1876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1876
 
 

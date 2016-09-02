@@ -83,7 +83,7 @@
 
         Notwithstanding the laws of the District of Columbia, the Board of Directors of such nonprofit corporation shall adopt and publish its own conflict of interest rules which shall be no less stringent in effect than the conflict of interest provisions adopted by the Board of Directors of the Bank pursuant to [section 3024 of this title][/us/usc/t12/s3024].
 
-([Pub. L. 95–351, title II, § 211][/us/pl/95/351/s211], as added [Pub. L. 97–35, title III, § 395(a)][/us/pl/97/35/s395/a], Aug. 13, 1981, [95 Stat. 437][/us/stat/95/437]; amended [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095].)
+([Pub. L. 95–351, title II][/us/pl/95/351/tII], § 211, as added [Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 395(a), Aug. 13, 1981, [95 Stat. 437][/us/stat/95/437]; amended [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095].)
 
  __Amendments__ 
 
@@ -108,10 +108,10 @@
 [/us/usc/t26/s170/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs170%2Fc
 [/us/usc/t26/s170/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs170%2Fa
 [/us/usc/t12/s3024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3024
-[/us/pl/95/351/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F351%2Fs211
-[/us/pl/97/35/s395/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs395%2Fa
+[/us/pl/95/351/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F351%2FtII
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F437
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 

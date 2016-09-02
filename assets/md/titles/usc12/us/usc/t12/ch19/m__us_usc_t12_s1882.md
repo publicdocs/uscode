@@ -23,7 +23,7 @@
 
         The rules shall establish the time limits within which banks and savings associations shall comply with the standards.
 
-([Pub. L. 90–389, § 3][/us/pl/90/389/s3], July 7, 1968, [82 Stat. 295][/us/stat/82/295]; [Pub. L. 101–73, title IX, § 911(a)][/us/pl/101/73/s911/a], Aug. 9, 1989, [103 Stat. 478][/us/stat/103/478]; [Pub. L. 111–203, title III, § 356(2)][/us/pl/111/203/s356/2], July 21, 2010, [124 Stat. 1547][/us/stat/124/1547].)
+([Pub. L. 90–389][/us/pl/90/389], § 3, July 7, 1968, [82 Stat. 295][/us/stat/82/295]; [Pub. L. 101–73, title IX][/us/pl/101/73/tIX], § 911(a), Aug. 9, 1989, [103 Stat. 478][/us/stat/103/478]; [Pub. L. 111–203, title III][/us/pl/111/203/tIII], § 356(2), July 21, 2010, [124 Stat. 1547][/us/stat/124/1547].)
 
  __Amendments__ 
 
@@ -46,11 +46,11 @@
 ----------
 ----------
 
-[/us/pl/90/389/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F389%2Fs3
+[/us/pl/90/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F389
 [/us/stat/82/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F295
-[/us/pl/101/73/s911/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs911%2Fa
+[/us/pl/101/73/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtIX
 [/us/stat/103/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F478
-[/us/pl/111/203/s356/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs356%2F2
+[/us/pl/111/203/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIII
 [/us/stat/124/1547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1547
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73

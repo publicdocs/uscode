@@ -103,7 +103,7 @@
 
         Notwithstanding section 20, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  this section shall take effect on October 28, 2003.
 
-([Pub. L. 108–100, § 19][/us/pl/108/100/s19], Oct. 28, 2003, [117 Stat. 1191][/us/stat/117/1191].)
+([Pub. L. 108–100][/us/pl/108/100], § 19, Oct. 28, 2003, [117 Stat. 1191][/us/stat/117/1191].)
 
  __References in Text__ 
 
@@ -115,7 +115,7 @@
 
  __Funds for Reimbursement for Depositary and Financial Agency Services__ 
 
-[Pub. L. 108–199, div. F, title II, § 218][/us/pl/108/199/s218], Jan. 23, 2004, [118 Stat. 321][/us/stat/118/321], provided that: 
+[Pub. L. 108–199, div. F, title II][/us/pl/108/199/dF/tII], § 218, Jan. 23, 2004, [118 Stat. 321][/us/stat/118/321], provided that: 
 
 > “For fiscal year 2004 and each fiscal year thereafter, there are appropriated to the Secretary of the Treasury such sums as may be necessary to reimburse financial institutions in their capacity as depositaries and financial agents of the United States for all services required or directed by the Secretary of the Treasury, or the Secretary’s designee, to be performed by such financial institutions on behalf of the Department of the Treasury or other Federal agencies, including services rendered prior to fiscal year 2004.”
 
@@ -127,14 +127,14 @@
 ----------
 
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
-[/us/pl/108/100/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F100%2Fs19
+[/us/pl/108/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F100
 [/us/stat/117/1191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1191
 [/us/pl/108/100/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F100%2Fs20
 [/us/usc/t12/s5001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5001
 [/us/pl/108/100/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F100%2Fs19
 [/us/pl/108/100/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F100%2Fs19
 [/us/usc/t12/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs412
-[/us/pl/108/199/s218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs218
+[/us/pl/108/199/dF/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdF%2FtII
 [/us/stat/118/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F321
 
 

@@ -87,7 +87,7 @@
 
             If the Secretary approves municipalities to be participating municipalities under this subsection, the Secretary shall take into account the additional considerations in [section 5705(d) of this title][/us/usc/t12/s5705/d] in making the determination under section 5704 or 5705 of this title that the State program or programs to be implemented by the participating municipalities, including a State capital access program, is eligible for Federal contributions to, or for the account of, the State program.
 
-([Pub. L. 111–240, title III, § 3004][/us/pl/111/240/s3004], Sept. 27, 2010, [124 Stat. 2573][/us/stat/124/2573].)
+([Pub. L. 111–240, title III][/us/pl/111/240/tIII], § 3004, Sept. 27, 2010, [124 Stat. 2573][/us/stat/124/2573].)
 
 ----------
 
@@ -100,7 +100,7 @@
 [/us/usc/t12/s5705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5705
 [/us/usc/t12/s5708/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5708%2Fa%2F2
 [/us/usc/t12/s5705/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5705%2Fd
-[/us/pl/111/240/s3004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs3004
+[/us/pl/111/240/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2FtIII
 [/us/stat/124/2573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2573
 
 

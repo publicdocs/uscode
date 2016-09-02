@@ -43,7 +43,7 @@
 
             Judicial review of any such order shall be exclusively as provided in [section 4583 of this title][/us/usc/t12/s4583]. Unless such a petition for review is timely filed as provided in [section 4583 of this title][/us/usc/t12/s4583], and thereafter until the record in the proceeding has been filed as so provided, the Director may at any time, modify, terminate, or set aside any such order, upon such notice and in such manner as the Director considers proper. Upon such filing of the record, the Director may modify, terminate, or set aside any such order with permission of the court.
 
-([Pub. L. 102–550, title XIII, § 1342][/us/pl/102/550/s1342], Oct. 28, 1992, [106 Stat. 3965][/us/stat/106/3965]; [Pub. L. 110–289, div. A, title I, § 1130(e)(3)(A)][/us/pl/110/289/s1130/e/3/A], July 30, 2008, [122 Stat. 2711][/us/stat/122/2711].)
+([Pub. L. 102–550, title XIII][/us/pl/102/550/tXIII], § 1342, Oct. 28, 1992, [106 Stat. 3965][/us/stat/106/3965]; [Pub. L. 110–289, div. A, title I][/us/pl/110/289/dA/tI], § 1130(e)(3)(A), July 30, 2008, [122 Stat. 2711][/us/stat/122/2711].)
 
  __Amendments__ 
 
@@ -60,9 +60,9 @@
 [/us/usc/t12/s4585/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4585%2Fc%2F1
 [/us/usc/t12/s4583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4583
 [/us/usc/t12/s4583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4583
-[/us/pl/102/550/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1342
+[/us/pl/102/550/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIII
 [/us/stat/106/3965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3965
-[/us/pl/110/289/s1130/e/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1130%2Fe%2F3%2FA
+[/us/pl/110/289/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtI
 [/us/stat/122/2711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2711
 [/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
 

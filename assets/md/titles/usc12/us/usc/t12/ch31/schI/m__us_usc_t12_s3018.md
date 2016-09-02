@@ -41,15 +41,15 @@
 
         As long as any of the class A stock of the Bank is held by the Secretary of the Treasury, the aggregate amount of commitments by the Bank to make or guarantee loans shall not exceed such amounts as may be specified in annual appropriation Acts.
 
-([Pub. L. 95–351, title I, § 108][/us/pl/95/351/s108], Aug. 20, 1978, [92 Stat. 508][/us/stat/92/508]; [Pub. L. 97–35, title III][/us/pl/97/35], §§ 394(b), 396(e), Aug. 13, 1981, [95 Stat. 436][/us/stat/95/436], 440; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095].)
+([Pub. L. 95–351, title I][/us/pl/95/351/tI], § 108, Aug. 20, 1978, [92 Stat. 508][/us/stat/92/508]; [Pub. L. 97–35, title III][/us/pl/97/35/tIII], §§ 394(b), 396(e), Aug. 13, 1981, [95 Stat. 436][/us/stat/95/436], 440; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095].)
 
  __Amendments__ 
 
     1986—Subsec. (c). [Pub. L. 99–514][/us/pl/99/514] substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-    1981—Subsec. (a). [Pub. L. 97–35, § 394(b)][/us/pl/97/35/s394/b], substituted “1985” for “1983”.
+    1981—Subsec. (a). [Pub. L. 97–35][/us/pl/97/35], § 394(b), substituted “1985” for “1983”.
 
-    Subsec. (b). [Pub. L. 97–35, § 396(e)][/us/pl/97/35/s396/e], struck out provisions relating to proceeds from class A and class B stock.
+    Subsec. (b). [Pub. L. 97–35][/us/pl/97/35], § 396(e), struck out provisions relating to proceeds from class A and class B stock.
 
  __Effective Date of 1981 Amendment__ 
 
@@ -64,15 +64,15 @@
 
 [/us/usc/t12/s3015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3015
 [/us/usc/t12/s3012/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3012%2F13
-[/us/pl/95/351/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F351%2Fs108
+[/us/pl/95/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F351%2FtI
 [/us/stat/92/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F508
-[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F436
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/97/35/s394/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs394%2Fb
-[/us/pl/97/35/s396/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs396%2Fe
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/97/35/s396/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs396%2Fe
 [/us/pl/97/35/s396/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs396%2Fi
 [/us/usc/t12/s3011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3011

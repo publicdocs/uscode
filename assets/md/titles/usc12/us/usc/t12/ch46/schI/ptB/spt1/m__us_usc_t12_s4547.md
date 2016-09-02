@@ -111,11 +111,11 @@
 
         The provisions of this section shall expire on October 1, 2021.
 
-([Pub. L. 102–550, title XIII, § 1327][/us/pl/102/550/s1327], as added [Pub. L. 112–78, title IV, § 401][/us/pl/112/78/s401], Dec. 23, 2011, [125 Stat. 1287][/us/stat/125/1287].)
+([Pub. L. 102–550, title XIII][/us/pl/102/550/tXIII], § 1327, as added [Pub. L. 112–78, title IV][/us/pl/112/78/tIV], § 401, Dec. 23, 2011, [125 Stat. 1287][/us/stat/125/1287].)
 
  __Prior Provisions__ 
 
-    A prior section 4547, [Pub. L. 102–550, title XIII, § 1327][/us/pl/102/550/s1327], Oct. 28, 1992, [106 Stat. 3956][/us/stat/106/3956]; [Pub. L. 110–289, div. A, title I, § 1122(a)(1)][/us/pl/110/289/s1122/a/1], July 30, 2008, [122 Stat. 2689][/us/stat/122/2689], related to authority to require reports by enterprises, prior to repeal by [Pub. L. 110–289, div. A][/us/pl/110/289] , title I, § 1104(b), July 30, 2008, [122 Stat. 2667][/us/stat/122/2667].
+    A prior section 4547, [Pub. L. 102–550, title XIII][/us/pl/102/550/tXIII], § 1327, Oct. 28, 1992, [106 Stat. 3956][/us/stat/106/3956]; [Pub. L. 110–289, div. A, title I][/us/pl/110/289/dA/tI], § 1122(a)(1), July 30, 2008, [122 Stat. 2689][/us/stat/122/2689], related to authority to require reports by enterprises, prior to repeal by [Pub. L. 110–289, div. A][/us/pl/110/289/dA] , title I, § 1104(b), July 30, 2008, [122 Stat. 2667][/us/stat/122/2667].
 
 ----------
 
@@ -124,14 +124,14 @@
 ----------
 ----------
 
-[/us/pl/102/550/s1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1327
-[/us/pl/112/78/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F78%2Fs401
+[/us/pl/102/550/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIII
+[/us/pl/112/78/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F78%2FtIV
 [/us/stat/125/1287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1287
-[/us/pl/102/550/s1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1327
+[/us/pl/102/550/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIII
 [/us/stat/106/3956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3956
-[/us/pl/110/289/s1122/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1122%2Fa%2F1
+[/us/pl/110/289/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtI
 [/us/stat/122/2689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2689
-[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA
 [/us/stat/122/2667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2667
 
 

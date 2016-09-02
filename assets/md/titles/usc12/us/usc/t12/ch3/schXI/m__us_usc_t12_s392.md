@@ -17,7 +17,7 @@
 
     No public funds of the postal savings, or any Government funds, shall be deposited in the continental United States in any bank not belonging to the system established by this chapter: Provided, however, That nothing in this chapter shall be construed to deny the right of the Secretary of the Treasury to use member banks as depositaries.
 
-([Dec. 23, 1913, ch. 6, § 15][/us/act/1913-12-23/ch6/s15] (par.), [38 Stat. 265][/us/stat/38/265]; Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7517, [60 Stat. 1352][/us/stat/60/1352].)
+([Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 15 (par.), [38 Stat. 265][/us/stat/38/265]; Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7517, [60 Stat. 1352][/us/stat/60/1352].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/act/1913-12-23/ch6/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs15
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
 [/us/stat/38/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F265
 [/us/stat/60/1352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1352
 [/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6

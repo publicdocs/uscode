@@ -27,7 +27,7 @@
 
         The Bank is authorized to charge fees for its commitments and other services adequate to cover all expenses and to provide for the accumulation of reasonable contingency reserves.
 
-([Pub. L. 93–224, § 6][/us/pl/93/224/s6], Dec. 29, 1973, [87 Stat. 938][/us/stat/87/938].)
+([Pub. L. 93–224][/us/pl/93/224], § 6, Dec. 29, 1973, [87 Stat. 938][/us/stat/87/938].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/93/224/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F224%2Fs6
+[/us/pl/93/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F224
 [/us/stat/87/938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F938
 
 

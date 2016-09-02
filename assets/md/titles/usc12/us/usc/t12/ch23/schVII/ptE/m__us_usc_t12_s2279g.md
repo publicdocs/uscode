@@ -17,7 +17,7 @@
 
     No State or political subdivision thereof may treat the merger or consolidation of two or more institutions of the Farm Credit System under this subchapter or title IV of the Agricultural Credit Act of 1987 as resulting in a change of ownership of any property owned by any of such merging or consolidating institutions, for purposes of any law of such State or political subdivision providing for reassessment of property on the occurrence of a change of ownership or imposing a tax on the ownership or transfer of property.
 
-([Pub. L. 92–181, title VII, § 7][/us/pl/92/181/s7].14, as added [Pub. L. 100–399, title IV, § 408(u)][/us/pl/100/399/s408/u], Aug. 17, 1988, [102 Stat. 1003][/us/stat/102/1003].)
+([Pub. L. 92–181, title VII][/us/pl/92/181/tVII], § 7.14, as added [Pub. L. 100–399, title IV][/us/pl/100/399/tIV], § 408(u), Aug. 17, 1988, [102 Stat. 1003][/us/stat/102/1003].)
 
  __References in Text__ 
 
@@ -34,8 +34,8 @@
 ----------
 ----------
 
-[/us/pl/92/181/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs7
-[/us/pl/100/399/s408/u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs408%2Fu
+[/us/pl/92/181/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtVII
+[/us/pl/100/399/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtIV
 [/us/stat/102/1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1003
 [/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
 [/us/stat/101/1568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1568

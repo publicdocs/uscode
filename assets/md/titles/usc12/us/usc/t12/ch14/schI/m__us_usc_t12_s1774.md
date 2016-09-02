@@ -17,7 +17,7 @@
 
     The Board shall approve any such organization certificate meeting such requirements. Upon such approval, the applicant credit union shall become a Federal credit union, and shall be vested with all of the assets and shall continue responsible for all of the obligations of such applicant credit union to the same extent as though the conversion had not taken place.
 
-([Pub. L. 88–395, § 2][/us/pl/88/395/s2], Aug. 1, 1964, [78 Stat. 377][/us/stat/78/377]; [Pub. L. 91–206, § 3][/us/pl/91/206/s3], Mar. 10, 1970, [84 Stat. 49][/us/stat/84/49]; [Pub. L. 95–630, title V, § 501][/us/pl/95/630/s501], Nov. 10, 1978, [92 Stat. 3680][/us/stat/92/3680].)
+([Pub. L. 88–395][/us/pl/88/395], § 2, Aug. 1, 1964, [78 Stat. 377][/us/stat/78/377]; [Pub. L. 91–206][/us/pl/91/206], § 3, Mar. 10, 1970, [84 Stat. 49][/us/stat/84/49]; [Pub. L. 95–630, title V][/us/pl/95/630/tV], § 501, Nov. 10, 1978, [92 Stat. 3680][/us/stat/92/3680].)
 
  __Codification__ 
 
@@ -34,11 +34,11 @@
 ----------
 ----------
 
-[/us/pl/88/395/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F395%2Fs2
+[/us/pl/88/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F395
 [/us/stat/78/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F377
-[/us/pl/91/206/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F206%2Fs3
+[/us/pl/91/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F206
 [/us/stat/84/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F49
-[/us/pl/95/630/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs501
+[/us/pl/95/630/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtV
 [/us/stat/92/3680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3680
 [/us/pl/91/206/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F206%2Fs3
 [/us/pl/95/630/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs501

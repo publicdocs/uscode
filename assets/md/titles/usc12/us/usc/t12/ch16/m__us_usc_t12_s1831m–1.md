@@ -71,7 +71,7 @@
 
         For purposes of this section, the terms “appropriate Federal banking agency” and “depository institution” have the same meanings as in [section 1818 of this title][/us/usc/t12/s1818].
 
-([Pub. L. 102–550, title XV, § 1542][/us/pl/102/550/s1542], Oct. 28, 1992, [106 Stat. 4067][/us/stat/106/4067]; [Pub. L. 105–362, title X, § 1001(f)][/us/pl/105/362/s1001/f], Nov. 10, 1998, [112 Stat. 3292][/us/stat/112/3292].)
+([Pub. L. 102–550, title XV][/us/pl/102/550/tXV], § 1542, Oct. 28, 1992, [106 Stat. 4067][/us/stat/106/4067]; [Pub. L. 105–362, title X][/us/pl/105/362/tX], § 1001(f), Nov. 10, 1998, [112 Stat. 3292][/us/stat/112/3292].)
 
  __References in Text__ 
 
@@ -97,9 +97,9 @@
 ----------
 
 [/us/usc/t12/s1818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1818
-[/us/pl/102/550/s1542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1542
+[/us/pl/102/550/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXV
 [/us/stat/106/4067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4067
-[/us/pl/105/362/s1001/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs1001%2Ff
+[/us/pl/105/362/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2FtX
 [/us/stat/112/3292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3292
 [/us/pl/105/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458

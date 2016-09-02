@@ -23,7 +23,7 @@
 
     Any candidate having a majority of all votes cast in the column of first choice shall be declared elected. If no candidate have a majority of all the votes in the first column, then there shall be added together the votes cast by the electors for such candidates in the second column and the votes cast for the several candidates in the first column. The candidate then having a majority of the electors voting and the highest number of combined votes shall be declared elected. If no candidate have a majority of electors voting and the highest number of votes when the first and second choices shall have been added, then the votes cast in the third column for other choices shall be added together in like manner, and the candidate then having the highest number of votes shall be declared elected. An immediate report of election shall be declared.
 
-([Dec. 23, 1913, ch. 6, § 4][/us/act/1913-12-23/ch6/s4] (pars.), [38 Stat. 256][/us/stat/38/256]; [Sept. 26, 1918, ch. 177, § 1][/us/act/1918-09-26/ch177/s1], [40 Stat. 968][/us/stat/40/968]; [June 26, 1930, ch. 614][/us/act/1930-06-26/ch614], [46 Stat. 815][/us/stat/46/815]; [June 16, 1933, ch. 89, § 3(b)][/us/act/1933-06-16/ch89/s3/b], [48 Stat. 163][/us/stat/48/163]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 203(a), [49 Stat. 704][/us/stat/49/704]; [Pub. L. 89–485, § 13(e)][/us/pl/89/485/s13/e], July 1, 1966, [80 Stat. 243][/us/stat/80/243].)
+([Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 4 (pars.), [38 Stat. 256][/us/stat/38/256]; [Sept. 26, 1918, ch. 177][/us/act/1918-09-26/ch177], § 1, [40 Stat. 968][/us/stat/40/968]; [June 26, 1930, ch. 614][/us/act/1930-06-26/ch614], [46 Stat. 815][/us/stat/46/815]; [June 16, 1933, ch. 89][/us/act/1933-06-16/ch89], § 3(b), [48 Stat. 163][/us/stat/48/163]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 203(a), [49 Stat. 704][/us/stat/49/704]; [Pub. L. 89–485][/us/pl/89/485], § 13(e), July 1, 1966, [80 Stat. 243][/us/stat/80/243].)
 
  __References in Text__ 
 
@@ -53,17 +53,17 @@
 ----------
 
 [/us/usc/t12/s1841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1841
-[/us/act/1913-12-23/ch6/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs4
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
 [/us/stat/38/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F256
-[/us/act/1918-09-26/ch177/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-09-26%2Fch177%2Fs1
+[/us/act/1918-09-26/ch177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-09-26%2Fch177
 [/us/stat/40/968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F968
 [/us/act/1930-06-26/ch614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-26%2Fch614
 [/us/stat/46/815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F815
-[/us/act/1933-06-16/ch89/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-16%2Fch89%2Fs3%2Fb
+[/us/act/1933-06-16/ch89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-16%2Fch89
 [/us/stat/48/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F163
 [/us/act/1935-08-23/ch614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch614
 [/us/stat/49/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F704
-[/us/pl/89/485/s13/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F485%2Fs13%2Fe
+[/us/pl/89/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F485
 [/us/stat/80/243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F243
 [/us/act/1956-05-09/ch240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-05-09%2Fch240
 [/us/stat/70/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F133

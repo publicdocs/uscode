@@ -27,7 +27,7 @@
 
     (5) such financial records are disclosed in response to a formal written request which meets the requirements of [section 3408 of this title][/us/usc/t12/s3408].
 
-([Pub. L. 95–630, title XI, § 1102][/us/pl/95/630/s1102], Nov. 10, 1978, [92 Stat. 3697][/us/stat/92/3697].)
+([Pub. L. 95–630, title XI][/us/pl/95/630/tXI], § 1102, Nov. 10, 1978, [92 Stat. 3697][/us/stat/92/3697].)
 
 ----------
 
@@ -41,7 +41,7 @@
 [/us/usc/t12/s3406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3406
 [/us/usc/t12/s3407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3407
 [/us/usc/t12/s3408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3408
-[/us/pl/95/630/s1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs1102
+[/us/pl/95/630/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtXI
 [/us/stat/92/3697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3697
 
 

@@ -17,7 +17,7 @@
 
     The Board of Governors, the Supervisory Agencies, and the Council are authorized to prescribe such rules and issue such orders as may be necessary to administer and carry out their respective authorities and duties granted under this subchapter and prevent evasions thereof.
 
-([Pub. L. 111–203, title VIII, § 810][/us/pl/111/203/s810], July 21, 2010, [124 Stat. 1820][/us/stat/124/1820].)
+([Pub. L. 111–203, title VIII][/us/pl/111/203/tVIII], § 810, July 21, 2010, [124 Stat. 1820][/us/stat/124/1820].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/111/203/s810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs810
+[/us/pl/111/203/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVIII
 [/us/stat/124/1820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1820
 
 

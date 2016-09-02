@@ -17,7 +17,7 @@
 
     After June 30, 1966, no department or agency listed in [section 1717(c)(2) of this title][/us/usc/t12/s1717/c/2] may sell any obligation held by it except as provided in [section 1717(c) of this title][/us/usc/t12/s1717/c], or as approved by the Secretary of the Treasury, except that this prohibition shall not apply to the Government National Mortgage Association.
 
-([Pub. L. 89–429, § 6(b)][/us/pl/89/429/s6/b], May 24, 1966, [80 Stat. 167][/us/stat/80/167]; [Pub. L. 90–448, title VIII, § 807(g)][/us/pl/90/448/s807/g], Aug. 1, 1968, [82 Stat. 545][/us/stat/82/545].)
+([Pub. L. 89–429][/us/pl/89/429], § 6(b), May 24, 1966, [80 Stat. 167][/us/stat/80/167]; [Pub. L. 90–448, title VIII][/us/pl/90/448/tVIII], § 807(g), Aug. 1, 1968, [82 Stat. 545][/us/stat/82/545].)
 
  __Codification__ 
 
@@ -41,9 +41,9 @@
 [/us/usc/t12/s1717/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1717%2Fc
 [/us/usc/t12/s1717/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1717%2Fc%2F2
 [/us/usc/t12/s1717/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1717%2Fc
-[/us/pl/89/429/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F429%2Fs6%2Fb
+[/us/pl/89/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F429
 [/us/stat/80/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F167
-[/us/pl/90/448/s807/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs807%2Fg
+[/us/pl/90/448/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2FtVIII
 [/us/stat/82/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F545
 [/us/pl/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448
 [/us/pl/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448

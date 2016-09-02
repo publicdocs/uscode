@@ -85,11 +85,11 @@
 
         In implementing this section, the Board shall consult and seek to work cooperatively with State officials having jurisdiction over State-chartered insured credit unions.
 
-([June 26, 1934, ch. 750][/us/act/1934-06-26/ch750], title I, § 107A, as added [Pub. L. 105–219, title II, § 203(a)][/us/pl/105/219/s203/a], Aug. 7, 1998, [112 Stat. 920][/us/stat/112/920].)
+([June 26, 1934, ch. 750][/us/act/1934-06-26/ch750], title I, § 107A, as added [Pub. L. 105–219, title II][/us/pl/105/219/tII], § 203(a), Aug. 7, 1998, [112 Stat. 920][/us/stat/112/920].)
 
  __Study and Report__ 
 
-[Pub. L. 105–219, title II, § 203(b)][/us/pl/105/219/s203/b], Aug. 7, 1998, [112 Stat. 922][/us/stat/112/922], provided that:
+[Pub. L. 105–219, title II][/us/pl/105/219/tII], § 203(b), Aug. 7, 1998, [112 Stat. 922][/us/stat/112/922], provided that:
 
 >     “(1)  __Study__  __.—__ 
 
@@ -125,9 +125,9 @@
 [/us/usc/t12/s1790d/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1790d%2Fc%2F1%2FA
 [/us/usc/t12/s4702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4702
 [/us/act/1934-06-26/ch750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-26%2Fch750
-[/us/pl/105/219/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F219%2Fs203%2Fa
+[/us/pl/105/219/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F219%2FtII
 [/us/stat/112/920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F920
-[/us/pl/105/219/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F219%2Fs203%2Fb
+[/us/pl/105/219/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F219%2FtII
 [/us/stat/112/922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F922
 [/us/usc/t12/s1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1751
 

@@ -19,11 +19,11 @@
 
     (b) Notwithstanding subsection (a), lawfully authorized State auditors and examiners may, at reasonable times and upon reasonable notice to a bank, review its records solely to ensure compliance with applicable State unclaimed property or escheat laws upon reasonable cause to believe that the bank has failed to comply with such laws.
 
-(R.S. § 5240 (par.); [Feb. 19, 1875, ch. 89][/us/act/1875-02-19/ch89], [18 Stat. 329][/us/stat/18/329]; [Dec. 23, 1913, ch. 6, § 21][/us/act/1913-12-23/ch6/s21], [38 Stat. 272][/us/stat/38/272]; [Pub. L. 97–320, title IV, § 412][/us/pl/97/320/s412], Oct. 15, 1982, [96 Stat. 1521][/us/stat/96/1521]; [Pub. L. 97–457, § 23(a)][/us/pl/97/457/s23/a], Jan. 12, 1983, [96 Stat. 2510][/us/stat/96/2510].)
+(R.S. § 5240 (par.); [Feb. 19, 1875, ch. 89][/us/act/1875-02-19/ch89], [18 Stat. 329][/us/stat/18/329]; [Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 21, [38 Stat. 272][/us/stat/38/272]; [Pub. L. 97–320, title IV][/us/pl/97/320/tIV], § 412, Oct. 15, 1982, [96 Stat. 1521][/us/stat/96/1521]; [Pub. L. 97–457][/us/pl/97/457], § 23(a), Jan. 12, 1983, [96 Stat. 2510][/us/stat/96/2510].)
 
  __Codification__ 
 
-    R.S. § 5240 derived from [act June 3, 1864, ch. 106, § 54][/us/act/1864-06-03/ch106/s54], [13 Stat. 116][/us/stat/13/116], which was part of the National Bank Act. See [section 38 of this title][/us/usc/t12/s38].
+    R.S. § 5240 derived from [act June 3, 1864, ch. 106][/us/act/1864-06-03/ch106], § 54, [13 Stat. 116][/us/stat/13/116], which was part of the National Bank Act. See [section 38 of this title][/us/usc/t12/s38].
 
     Section is comprised of sixth par. of R.S. § 5240, as amended. See Codification note set out under [section 481 of this title][/us/usc/t12/s481].
 
@@ -37,7 +37,7 @@
 
  __Effective Date of 1983 Amendment__ 
 
-[Pub. L. 97–457, § 23(b)][/us/pl/97/457/s23/b], Jan. 12, 1983, [96 Stat. 2510][/us/stat/96/2510], provided that: 
+[Pub. L. 97–457][/us/pl/97/457], § 23(b), Jan. 12, 1983, [96 Stat. 2510][/us/stat/96/2510], provided that: 
 
 > “The amendment made by subsection (a) \[amending [section 412 of Pub. L. 97–320][/us/pl/97/320/s412], which amended this section\] shall be deemed to have taken effect upon the enactment of [Public Law 97–320][/us/pl/97/320] \[Oct. 15, 1982\].”
 
@@ -50,13 +50,13 @@
 
 [/us/act/1875-02-19/ch89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1875-02-19%2Fch89
 [/us/stat/18/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F18%2F329
-[/us/act/1913-12-23/ch6/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs21
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
 [/us/stat/38/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F272
-[/us/pl/97/320/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs412
+[/us/pl/97/320/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2FtIV
 [/us/stat/96/1521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1521
-[/us/pl/97/457/s23/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F457%2Fs23%2Fa
+[/us/pl/97/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F457
 [/us/stat/96/2510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2510
-[/us/act/1864-06-03/ch106/s54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-06-03%2Fch106%2Fs54
+[/us/act/1864-06-03/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-06-03%2Fch106
 [/us/stat/13/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F13%2F116
 [/us/usc/t12/s38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs38
 [/us/usc/t12/s481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs481
@@ -69,7 +69,7 @@
 [/us/pl/97/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F457
 [/us/pl/97/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320
 [/us/pl/97/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F457
-[/us/pl/97/457/s23/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F457%2Fs23%2Fb
+[/us/pl/97/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F457
 [/us/stat/96/2510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2510
 [/us/pl/97/320/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs412
 [/us/pl/97/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320

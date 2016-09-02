@@ -17,7 +17,7 @@
 
     The Appraisal Subcommittee may, for the purpose of carrying out this chapter, establish advisory committees, hold hearings prescribe  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be preceded by a comma. </sup></sup>  regulations in accordance with chapter 5 of title 5 (commonly referred to as the Administrative Procedures Act) after notice and opportunity for comment,, <sup>\[2\]</sup>  <sup><sup> 2 So in original. </sup></sup>  sit and act at times and places, take testimony, receive evidence, provide information, and perform research, as the Appraisal Subcommittee considers appropriate. Any regulations prescribed by the Appraisal Subcommittee shall (unless otherwise provided in this chapter) be limited to the following functions: temporary practice, national registry, information sharing, and enforcement. For purposes of prescribing regulations, the Appraisal Subcommittee shall establish an advisory committee of industry participants, including appraisers, lenders, consumer advocates, real estate agents, and government agencies, and hold meetings as necessary to support the development of regulations.
 
-([Pub. L. 101–73, title XI, § 1106][/us/pl/101/73/s1106], Aug. 9, 1989, [103 Stat. 512][/us/stat/103/512]; [Pub. L. 111–203, title XIV, § 1473(d)][/us/pl/111/203/s1473/d], July 21, 2010, [124 Stat. 2191][/us/stat/124/2191].)
+([Pub. L. 101–73, title XI][/us/pl/101/73/tXI], § 1106, Aug. 9, 1989, [103 Stat. 512][/us/stat/103/512]; [Pub. L. 111–203, title XIV][/us/pl/111/203/tXIV], § 1473(d), July 21, 2010, [124 Stat. 2191][/us/stat/124/2191].)
 
  __References in Text__ 
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/pl/101/73/s1106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs1106
+[/us/pl/101/73/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtXI
 [/us/stat/103/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F512
-[/us/pl/111/203/s1473/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1473%2Fd
+[/us/pl/111/203/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtXIV
 [/us/stat/124/2191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2191
 [/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203

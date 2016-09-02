@@ -149,7 +149,7 @@
 
                 [Section 552 of title 5][/us/usc/t5/s552], including the exceptions thereunder, shall apply to any data or information submitted under this subsection and part B.
 
-([Pub. L. 111–203, title I, § 112][/us/pl/111/203/s112], July 21, 2010, [124 Stat. 1394][/us/stat/124/1394].)
+([Pub. L. 111–203, title I][/us/pl/111/203/tI], § 112, July 21, 2010, [124 Stat. 1394][/us/stat/124/1394].)
 
  __References in Text__ 
 
@@ -166,7 +166,7 @@
 [/us/usc/t12/s5323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5323
 [/us/usc/t12/s5329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5329
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
-[/us/pl/111/203/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs112
+[/us/pl/111/203/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtI
 [/us/stat/124/1394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1394
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1391

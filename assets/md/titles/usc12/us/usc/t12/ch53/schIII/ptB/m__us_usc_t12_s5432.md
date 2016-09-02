@@ -241,7 +241,7 @@
 
             For purposes of this subsection, periods of service with a Federal home loan bank or a joint office of Federal home loan banks shall be credited as periods of service with a Federal agency.
 
-([Pub. L. 111–203, title III, § 322][/us/pl/111/203/s322], July 21, 2010, [124 Stat. 1529][/us/stat/124/1529].)
+([Pub. L. 111–203, title III][/us/pl/111/203/tIII], § 322, July 21, 2010, [124 Stat. 1529][/us/stat/124/1529].)
 
  __References in Text__ 
 
@@ -263,7 +263,7 @@
 [/us/usc/t5/s8901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8901
 [/us/usc/t5/s8714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8714
 [/us/usc/t5/s8706/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8706%2Fb%2F1%2FA
-[/us/pl/111/203/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs322
+[/us/pl/111/203/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIII
 [/us/stat/124/1529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1529
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1520

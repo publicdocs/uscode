@@ -17,11 +17,11 @@
 
     The Bureau, any State official or agency, or any organization serving as the administrator of the Nationwide Mortgage Licensing System and Registry or a system established by the Director under [section 5108 of this title][/us/usc/t12/s5108], or any officer or employee of any such entity, shall not be subject to any civil action or proceeding for monetary damages by reason of the good faith action or omission of any officer or employee of any such entity, while acting within the scope of office or employment, relating to the collection, furnishing, or dissemination of information concerning persons who are loan originators or are applying for licensing or registration as loan originators.
 
-([Pub. L. 110–289, div. A, title V, § 1513][/us/pl/110/289/s1513], as added [Pub. L. 111–203, title X, § 1100(8)][/us/pl/111/203/s1100/8], July 21, 2010, [124 Stat. 2107][/us/stat/124/2107].)
+([Pub. L. 110–289, div. A, title V][/us/pl/110/289/dA/tV], § 1513, as added [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1100(8), July 21, 2010, [124 Stat. 2107][/us/stat/124/2107].)
 
  __Prior Provisions__ 
 
-    A prior section 5112, [Pub. L. 110–289, div. A, title V, § 1513][/us/pl/110/289/s1513], July 30, 2008, [122 Stat. 2820][/us/stat/122/2820], which barred liability for good faith actions or omissions by certain entities’ officers or employees, was repealed by [Pub. L. 111–203, title X, § 1100(8)][/us/pl/111/203/s1100/8], July 21, 2010, [124 Stat. 2107][/us/stat/124/2107].
+    A prior section 5112, [Pub. L. 110–289, div. A, title V][/us/pl/110/289/dA/tV], § 1513, July 30, 2008, [122 Stat. 2820][/us/stat/122/2820], which barred liability for good faith actions or omissions by certain entities’ officers or employees, was repealed by [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1100(8), July 21, 2010, [124 Stat. 2107][/us/stat/124/2107].
 
  __Effective Date__ 
 
@@ -35,12 +35,12 @@
 ----------
 
 [/us/usc/t12/s5108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5108
-[/us/pl/110/289/s1513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1513
-[/us/pl/111/203/s1100/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100%2F8
+[/us/pl/110/289/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtV
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2107
-[/us/pl/110/289/s1513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1513
+[/us/pl/110/289/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtV
 [/us/stat/122/2820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2820
-[/us/pl/111/203/s1100/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100%2F8
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2107
 [/us/pl/111/203/s1100H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100H
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a

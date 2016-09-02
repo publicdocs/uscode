@@ -19,7 +19,7 @@
 
     (b) Subsequent to commencement of a foreclosure under this chapter, the Secretary may designate a substitute foreclosure commissioner at any time up to forty-eight hours prior to the time of foreclosure sale, and the foreclosure shall continue without prejudice, unless the substitute commissioner, in his or her sole discretion, finds that continuation of the foreclosure sale will unfairly affect the interests of the mortgagor. In the event that the substitute commissioner makes such a finding, the substitute commissioner shall cancel the foreclosure sale, or adjourn such sale in the manner provided in [section 3710(c) of this title][/us/usc/t12/s3710/c]. Upon designation of a substitute foreclosure commissioner, a copy of the written notice of such designation referred to in [section 3704 of this title][/us/usc/t12/s3704] shall be served upon the persons set forth in [section 3708(1) of this title][/us/usc/t12/s3708/1] (1) by mail as provided in such [section 3708 of this title][/us/usc/t12/s3708] (except that the minimum time periods between mailing and the date of foreclosure sale prescribed in such section shall not apply to notice by mail pursuant to this subsection), or (2) in any other manner, which in the substitute commissioner’s sole discretion, is conducive to achieving timely notice of such substitution. In the event a substitute foreclosure commissioner is designated less than forty-eight hours prior to the time of the foreclosure sale, the pending foreclosure shall be terminated and a new foreclosure shall be commenced by commencing service of a new notice of default and foreclosure sale.
 
-([Pub. L. 97–35, title III, § 368][/us/pl/97/35/s368], Aug. 13, 1981, [95 Stat. 425][/us/stat/95/425].)
+([Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 368, Aug. 13, 1981, [95 Stat. 425][/us/stat/95/425].)
 
 ----------
 
@@ -34,7 +34,7 @@
 [/us/usc/t12/s3704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3704
 [/us/usc/t12/s3708/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3708%2F1
 [/us/usc/t12/s3708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3708
-[/us/pl/97/35/s368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs368
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F425
 
 

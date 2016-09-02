@@ -17,7 +17,7 @@
 
     All obligations, participations, or other instruments issued by either of the bodies corporate named in [section 1717(a)(2) of this title][/us/usc/t12/s1717/a/2] shall be lawful investments, and may be accepted as security for all fiduciary, trust, and public funds, the investment or deposit of which shall be under the authority and control of the United States or any officer or officers thereof. All stock, obligations, securities, participations, or other instruments issued pursuant to this subchapter shall, to the same extent as securities which are direct obligations of or obligations guaranteed as to principal or interest by the United States, be deemed to be exempt securities within the meaning of laws administered by the Securities and Exchange Commission.
 
-([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title III, § 311, as added [Aug. 2, 1954, ch. 649][/us/act/1954-08-02/ch649], title II, § 201, [68 Stat. 622][/us/stat/68/622]; amended [Pub. L. 88–560, title VII, § 701(b)(1)][/us/pl/88/560/s701/b/1], Sept. 2, 1964, [78 Stat. 800][/us/stat/78/800]; [Pub. L. 90–448, title VIII, § 802(ff)][/us/pl/90/448/s802/ff], Aug. 1, 1968, [82 Stat. 542][/us/stat/82/542]; [Pub. L. 98–440, title II, § 213(b)][/us/pl/98/440/s213/b], Oct. 3, 1984, [98 Stat. 1698][/us/stat/98/1698]; [Pub. L. 102–550, title XIII, § 1381(r)][/us/pl/102/550/s1381/r], Oct. 28, 1992, [106 Stat. 4001][/us/stat/106/4001].)
+([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title III, § 311, as added [Aug. 2, 1954, ch. 649][/us/act/1954-08-02/ch649], title II, § 201, [68 Stat. 622][/us/stat/68/622]; amended [Pub. L. 88–560, title VII][/us/pl/88/560/tVII], § 701(b)(1), Sept. 2, 1964, [78 Stat. 800][/us/stat/78/800]; [Pub. L. 90–448, title VIII][/us/pl/90/448/tVIII], § 802(ff), Aug. 1, 1968, [82 Stat. 542][/us/stat/82/542]; [Pub. L. 98–440, title II][/us/pl/98/440/tII], § 213(b), Oct. 3, 1984, [98 Stat. 1698][/us/stat/98/1698]; [Pub. L. 102–550, title XIII][/us/pl/102/550/tXIII], § 1381(r), Oct. 28, 1992, [106 Stat. 4001][/us/stat/106/4001].)
 
  __Amendments__ 
 
@@ -44,13 +44,13 @@
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
 [/us/act/1954-08-02/ch649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-02%2Fch649
 [/us/stat/68/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F622
-[/us/pl/88/560/s701/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F560%2Fs701%2Fb%2F1
+[/us/pl/88/560/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F560%2FtVII
 [/us/stat/78/800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F800
-[/us/pl/90/448/s802/ff]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs802%2Fff
+[/us/pl/90/448/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2FtVIII
 [/us/stat/82/542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F542
-[/us/pl/98/440/s213/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F440%2Fs213%2Fb
+[/us/pl/98/440/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F440%2FtII
 [/us/stat/98/1698]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1698
-[/us/pl/102/550/s1381/r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1381%2Fr
+[/us/pl/102/550/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIII
 [/us/stat/106/4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4001
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/pl/98/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F440

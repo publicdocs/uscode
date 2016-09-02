@@ -51,7 +51,7 @@
 
         This section does not affect in any way the applicability of the Bank Holding Company Act of 1956 \[[12 U.S.C. 1841][/us/usc/t12/s1841] et seq.\] to a transaction described in subsection (a).
 
-([Nov. 7, 1918, ch. 209, § 5][/us/act/1918-11-07/ch209/s5], as added [Pub. L. 106–569, title XII, § 1204(2)][/us/pl/106/569/s1204/2], Dec. 27, 2000, [114 Stat. 3033][/us/stat/114/3033].)
+([Nov. 7, 1918, ch. 209][/us/act/1918-11-07/ch209], § 5, as added [Pub. L. 106–569, title XII][/us/pl/106/569/tXII], § 1204(2), Dec. 27, 2000, [114 Stat. 3033][/us/stat/114/3033].)
 
  __References in Text__ 
 
@@ -67,8 +67,8 @@
 [/us/usc/t12/s215a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs215a
 [/us/usc/t12/s215a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs215a
 [/us/usc/t12/s1841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1841
-[/us/act/1918-11-07/ch209/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-11-07%2Fch209%2Fs5
-[/us/pl/106/569/s1204/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs1204%2F2
+[/us/act/1918-11-07/ch209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-11-07%2Fch209
+[/us/pl/106/569/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2FtXII
 [/us/stat/114/3033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F3033
 [/us/act/1956-05-09/ch240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-05-09%2Fch240
 [/us/stat/70/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F133

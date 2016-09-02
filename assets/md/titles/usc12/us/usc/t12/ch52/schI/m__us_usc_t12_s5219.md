@@ -33,7 +33,7 @@
 
         Upon any request arising under existing investment contracts, the Secretary shall consent, where appropriate, and considering net present value to the taxpayer, to reasonable requests for loss mitigation measures, including term extensions, rate reductions, principal write downs, increases in the proportion of loans within a trust or other structure allowed to be modified, or removal of other limitation on modifications.
 
-([Pub. L. 110–343, div. A, title I, § 109][/us/pl/110/343/s109], Oct. 3, 2008, [122 Stat. 3774][/us/stat/122/3774]; [Pub. L. 111–5, div. B, title VII, § 7002][/us/pl/111/5/s7002], Feb. 17, 2009, [123 Stat. 521][/us/stat/123/521].)
+([Pub. L. 110–343, div. A, title I][/us/pl/110/343/dA/tI], § 109, Oct. 3, 2008, [122 Stat. 3774][/us/stat/122/3774]; [Pub. L. 111–5, div. B, title VII][/us/pl/111/5/dB/tVII], § 7002, Feb. 17, 2009, [123 Stat. 521][/us/stat/123/521].)
 
  __Amendments__ 
 
@@ -50,9 +50,9 @@
 [/us/usc/t12/s5221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5221
 [/us/usc/t12/s5223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5223
 [/us/usc/t12/s5220/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5220%2Fa%2F1%2FC
-[/us/pl/110/343/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs109
+[/us/pl/110/343/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdA%2FtI
 [/us/stat/122/3774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3774
-[/us/pl/111/5/s7002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs7002
+[/us/pl/111/5/dB/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdB%2FtVII
 [/us/stat/123/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F521
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 

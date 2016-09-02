@@ -31,7 +31,7 @@
 
         Notwithstanding [section 3302(b) of title 31][/us/usc/t31/s3302/b], a contract under this section shall provide that a fee that the United States pays private counsel for services is payable from the amount recovered and shall be based on a percentage of the civil penalties or assets recovered.
 
-([Pub. L. 101–647, title XXV, § 2588][/us/pl/101/647/s2588], Nov. 29, 1990, [104 Stat. 4905][/us/stat/104/4905].)
+([Pub. L. 101–647, title XXV][/us/pl/101/647/tXXV], § 2588, Nov. 29, 1990, [104 Stat. 4905][/us/stat/104/4905].)
 
 ----------
 
@@ -44,7 +44,7 @@
 [/us/usc/t12/s4225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4225
 [/us/usc/t12/s4244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4244
 [/us/usc/t31/s3302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3302%2Fb
-[/us/pl/101/647/s2588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2588
+[/us/pl/101/647/tXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXV
 [/us/stat/104/4905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4905
 
 

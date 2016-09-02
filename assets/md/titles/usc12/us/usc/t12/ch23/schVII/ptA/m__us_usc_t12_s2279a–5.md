@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [Pub. L. 92–181, title VII, § 7][/us/pl/92/181/s7].5, as added [Pub. L. 100–233, title IV, § 416][/us/pl/100/233/s416], Jan. 6, 1988, [101 Stat. 1646][/us/stat/101/1646], which required reports by merged banks for cooperatives, was renumbered section 3.29 of title III of [Pub. L. 92–181][/us/pl/92/181] by [Pub. L. 100–399, title IV, § 408(e)][/us/pl/100/399/s408/e], Aug. 17, 1988, [102 Stat. 1001][/us/stat/102/1001], and is classified to [section 2149a of this title][/us/usc/t12/s2149a].
+    Section, [Pub. L. 92–181, title VII][/us/pl/92/181/tVII], § 7.5, as added [Pub. L. 100–233, title IV][/us/pl/100/233/tIV], § 416, Jan. 6, 1988, [101 Stat. 1646][/us/stat/101/1646], which required reports by merged banks for cooperatives, was renumbered section 3.29 of title III of [Pub. L. 92–181][/us/pl/92/181] by [Pub. L. 100–399, title IV][/us/pl/100/399/tIV], § 408(e), Aug. 17, 1988, [102 Stat. 1001][/us/stat/102/1001], and is classified to [section 2149a of this title][/us/usc/t12/s2149a].
 
 ----------
 
@@ -26,11 +26,11 @@
 ----------
 ----------
 
-[/us/pl/92/181/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs7
-[/us/pl/100/233/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs416
+[/us/pl/92/181/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtVII
+[/us/pl/100/233/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtIV
 [/us/stat/101/1646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1646
 [/us/pl/92/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181
-[/us/pl/100/399/s408/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs408%2Fe
+[/us/pl/100/399/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtIV
 [/us/stat/102/1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1001
 [/us/usc/t12/s2149a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2149a
 

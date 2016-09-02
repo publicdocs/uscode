@@ -23,11 +23,11 @@
 
         As part of its capital reduction plan approved in accordance with subsection (a), and with the affirmative vote of shareholders owning at least two thirds of the shares of each class of its stock outstanding (each voting as a class), a national banking association may distribute cash or other assets to its shareholders.
 
-(R.S. § 5143; [Dec. 23, 1913, ch. 6, § 28][/us/act/1913-12-23/ch6/s28], [38 Stat. 274][/us/stat/38/274]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title III, § 334, [49 Stat. 720][/us/stat/49/720]; [Pub. L. 109–351, title III, § 304][/us/pl/109/351/s304], Oct. 13, 2006, [120 Stat. 1970][/us/stat/120/1970].)
+(R.S. § 5143; [Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 28, [38 Stat. 274][/us/stat/38/274]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title III, § 334, [49 Stat. 720][/us/stat/49/720]; [Pub. L. 109–351, title III][/us/pl/109/351/tIII], § 304, Oct. 13, 2006, [120 Stat. 1970][/us/stat/120/1970].)
 
  __Codification__ 
 
-    R.S. § 5143 derived from [act June 3, 1864, ch. 106, § 13][/us/act/1864-06-03/ch106/s13], [13 Stat. 103][/us/stat/13/103], which was the National Bank Act. See [section 38 of this title][/us/usc/t12/s38].
+    R.S. § 5143 derived from [act June 3, 1864, ch. 106][/us/act/1864-06-03/ch106], § 13, [13 Stat. 103][/us/stat/13/103], which was the National Bank Act. See [section 38 of this title][/us/usc/t12/s38].
 
  __Amendments__ 
 
@@ -42,13 +42,13 @@
 ----------
 ----------
 
-[/us/act/1913-12-23/ch6/s28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs28
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
 [/us/stat/38/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F274
 [/us/act/1935-08-23/ch614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch614
 [/us/stat/49/720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F720
-[/us/pl/109/351/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs304
+[/us/pl/109/351/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2FtIII
 [/us/stat/120/1970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1970
-[/us/act/1864-06-03/ch106/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-06-03%2Fch106%2Fs13
+[/us/act/1864-06-03/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-06-03%2Fch106
 [/us/stat/13/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F13%2F103
 [/us/usc/t12/s38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs38
 [/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351

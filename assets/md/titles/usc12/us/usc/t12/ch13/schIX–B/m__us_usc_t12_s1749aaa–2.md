@@ -17,7 +17,7 @@
 
     The mortgagee shall be entitled to receive the benefits of the insurance under this subchapter in the manner provided in subsection (g) of [section 1713 of this title][/us/usc/t12/s1713] with respect to mortgages insured under that section. For such purpose the provisions of subsections (g), (h), (i), (j), (k), (l), and (n) of such section 1713 shall apply to mortgages insured under this subchapter and all references in such subsections to such section 1713 shall be deemed to refer to this subchapter.
 
-([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title XI, § 1103, as added [Pub. L. 89–754, title V, § 502(a)][/us/pl/89/754/s502/a], Nov. 3, 1966, [80 Stat. 1275][/us/stat/80/1275].)
+([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title XI, § 1103, as added [Pub. L. 89–754, title V][/us/pl/89/754/tV], § 502(a), Nov. 3, 1966, [80 Stat. 1275][/us/stat/80/1275].)
 
 ----------
 
@@ -28,7 +28,7 @@
 
 [/us/usc/t12/s1713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1713
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
-[/us/pl/89/754/s502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F754%2Fs502%2Fa
+[/us/pl/89/754/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F754%2FtV
 [/us/stat/80/1275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1275
 
 

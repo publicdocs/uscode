@@ -27,17 +27,17 @@
 
     (b) It is the purpose of this chapter to require each appropriate Federal financial supervisory agency to use its authority when examining financial institutions, to encourage such institutions to help meet the credit needs of the local communities in which they are chartered consistent with the safe and sound operation of such institutions.
 
-([Pub. L. 95–128, title VIII, § 802][/us/pl/95/128/s802], Oct. 12, 1977, [91 Stat. 1147][/us/stat/91/1147].)
+([Pub. L. 95–128, title VIII][/us/pl/95/128/tVIII], § 802, Oct. 12, 1977, [91 Stat. 1147][/us/stat/91/1147].)
 
  __Short Title__ 
 
-[Pub. L. 95–128, title VIII, § 801][/us/pl/95/128/s801], Oct. 12, 1977, [91 Stat. 1147][/us/stat/91/1147], provided that: 
+[Pub. L. 95–128, title VIII][/us/pl/95/128/tVIII], § 801, Oct. 12, 1977, [91 Stat. 1147][/us/stat/91/1147], provided that: 
 
 > “This title \[enacting this chapter\] may be cited as the ‘Community Reinvestment Act of 1977’.”
 
  __Responsiveness to Community Needs for Financial Services__ 
 
-[Pub. L. 106–102, title VII, § 715][/us/pl/106/102/s715], Nov. 12, 1999, [113 Stat. 1470][/us/stat/113/1470], provided that:
+[Pub. L. 106–102, title VII][/us/pl/106/102/tVII], § 715, Nov. 12, 1999, [113 Stat. 1470][/us/stat/113/1470], provided that:
 
 >     “(a)  __Study__  __.—__ 
 
@@ -59,7 +59,7 @@
 
  __Report on Community Development Lending__ 
 
-[Pub. L. 102–550, title IX, § 910][/us/pl/102/550/s910], Oct. 28, 1992, [106 Stat. 3874][/us/stat/106/3874], provided that:
+[Pub. L. 102–550, title IX][/us/pl/102/550/tIX], § 910, Oct. 28, 1992, [106 Stat. 3874][/us/stat/106/3874], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -82,16 +82,16 @@
 ----------
 ----------
 
-[/us/pl/95/128/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs802
+[/us/pl/95/128/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2FtVIII
 [/us/stat/91/1147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1147
-[/us/pl/95/128/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs801
+[/us/pl/95/128/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2FtVIII
 [/us/stat/91/1147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1147
-[/us/pl/106/102/s715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs715
+[/us/pl/106/102/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtVII
 [/us/stat/113/1470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1470
 [/us/usc/t12/s1813/z]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813%2Fz
 [/us/usc/t12/s2901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2901
 [/us/usc/t12/s2901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2901
-[/us/pl/102/550/s910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs910
+[/us/pl/102/550/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtIX
 [/us/stat/106/3874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3874
 
 

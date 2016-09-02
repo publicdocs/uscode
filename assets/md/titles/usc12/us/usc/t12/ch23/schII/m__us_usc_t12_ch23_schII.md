@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Title II of the Farm Credit Act of 1971, comprising this subchapter, was originally enacted by [Pub. L. 92–181, title II][/us/pl/92/181], Dec. 10, 1971, [85 Stat. 590][/us/stat/85/590], and amended by [Pub. L. 95–443][/us/pl/95/443], Oct. 10, 1978, [92 Stat. 1066][/us/stat/92/1066]; [Pub. L. 96–592][/us/pl/96/592], Dec. 24, 1980, [94 Stat. 3437][/us/stat/94/3437]; [Pub. L. 99–205][/us/pl/99/205], Dec. 23, 1985, [99 Stat. 1678][/us/stat/99/1678]; [Pub. L. 99–509][/us/pl/99/509], Oct. 21, 1986, [100 Stat. 1874][/us/stat/100/1874]; [Pub. L. 100–233][/us/pl/100/233], Jan. 6, 1988, [101 Stat. 1568][/us/stat/101/1568]. Such title is shown herein, however, as having been added by [Pub. L. 100–233, title IV, § 401][/us/pl/100/233/s401], Jan. 6, 1988, [101 Stat. 1622][/us/stat/101/1622], without reference to such intervening amendments because of the extensive revision of the title’s provisions by [Pub. L. 100–233][/us/pl/100/233].
+    Title II of the Farm Credit Act of 1971, comprising this subchapter, was originally enacted by [Pub. L. 92–181, title II][/us/pl/92/181/tII], Dec. 10, 1971, [85 Stat. 590][/us/stat/85/590], and amended by [Pub. L. 95–443][/us/pl/95/443], Oct. 10, 1978, [92 Stat. 1066][/us/stat/92/1066]; [Pub. L. 96–592][/us/pl/96/592], Dec. 24, 1980, [94 Stat. 3437][/us/stat/94/3437]; [Pub. L. 99–205][/us/pl/99/205], Dec. 23, 1985, [99 Stat. 1678][/us/stat/99/1678]; [Pub. L. 99–509][/us/pl/99/509], Oct. 21, 1986, [100 Stat. 1874][/us/stat/100/1874]; [Pub. L. 100–233][/us/pl/100/233], Jan. 6, 1988, [101 Stat. 1568][/us/stat/101/1568]. Such title is shown herein, however, as having been added by [Pub. L. 100–233, title IV][/us/pl/100/233/tIV], § 401, Jan. 6, 1988, [101 Stat. 1622][/us/stat/101/1622], without reference to such intervening amendments because of the extensive revision of the title’s provisions by [Pub. L. 100–233][/us/pl/100/233].
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/92/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181
+[/us/pl/92/181/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtII
 [/us/stat/85/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F590
 [/us/pl/95/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F443
 [/us/stat/92/1066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1066
@@ -38,7 +38,7 @@
 [/us/stat/100/1874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1874
 [/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
 [/us/stat/101/1568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1568
-[/us/pl/100/233/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs401
+[/us/pl/100/233/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtIV
 [/us/stat/101/1622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1622
 [/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
 

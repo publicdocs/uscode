@@ -17,7 +17,7 @@
 
     Upon request, and to the extent otherwise consistent with law, all information used by the Secretary in connection with activities authorized under this chapter (including the records to which the Comptroller General is entitled under this chapter) shall be made available to congressional support agencies (in accordance with their obligations to support the Congress as set out in their authorizing statutes) for the purposes of assisting the committees of Congress with conducting oversight, monitoring, and analysis of the activities authorized under this chapter.
 
-([Pub. L. 110–343, div. A, title II, § 201][/us/pl/110/343/s201], Oct. 3, 2008, [122 Stat. 3800][/us/stat/122/3800].)
+([Pub. L. 110–343, div. A, title II][/us/pl/110/343/dA/tII], § 201, Oct. 3, 2008, [122 Stat. 3800][/us/stat/122/3800].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/110/343/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs201
+[/us/pl/110/343/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdA%2FtII
 [/us/stat/122/3800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3800
 [/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
 [/us/stat/122/3765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3765

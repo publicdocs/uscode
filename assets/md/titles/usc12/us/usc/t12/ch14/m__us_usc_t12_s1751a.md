@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act June 29, 1948, ch. 711, § 2][/us/act/1948-06-29/ch711/s2], [62 Stat. 1091][/us/stat/62/1091], related to establishment of Bureau of Federal Credit Unions. See [section 1752a of this title][/us/usc/t12/s1752a].
+    Section, [act June 29, 1948, ch. 711][/us/act/1948-06-29/ch711], § 2, [62 Stat. 1091][/us/stat/62/1091], related to establishment of Bureau of Federal Credit Unions. See [section 1752a of this title][/us/usc/t12/s1752a].
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1948-06-29/ch711/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-29%2Fch711%2Fs2
+[/us/act/1948-06-29/ch711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-29%2Fch711
 [/us/stat/62/1091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1091
 [/us/usc/t12/s1752a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1752a
 

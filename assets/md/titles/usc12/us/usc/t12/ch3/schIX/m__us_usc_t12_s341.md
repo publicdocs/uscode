@@ -35,7 +35,7 @@
 
     But no Federal reserve bank shall transact any business except such as is incidental and necessarily preliminary to its organization until it has been authorized by the Comptroller of the Currency to commence business under the provisions of this chapter.
 
-([Dec. 23, 1913, ch. 6, § 4][/us/act/1913-12-23/ch6/s4] (pars.), [38 Stat. 254][/us/stat/38/254]; [Feb. 25, 1927, ch. 191, § 18][/us/act/1927-02-25/ch191/s18], [44 Stat. 1234][/us/stat/44/1234]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 201, [49 Stat. 703][/us/stat/49/703]; [Pub. L. 103–325, title VI, § 602(g)(1)][/us/pl/103/325/s602/g/1], Sept. 23, 1994, [108 Stat. 2293][/us/stat/108/2293]; [Pub. L. 111–203, title XI, § 1107][/us/pl/111/203/s1107], July 21, 2010, [124 Stat. 2126][/us/stat/124/2126].)
+([Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 4 (pars.), [38 Stat. 254][/us/stat/38/254]; [Feb. 25, 1927, ch. 191][/us/act/1927-02-25/ch191], § 18, [44 Stat. 1234][/us/stat/44/1234]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 201, [49 Stat. 703][/us/stat/49/703]; [Pub. L. 103–325, title VI][/us/pl/103/325/tVI], § 602(g)(1), Sept. 23, 1994, [108 Stat. 2293][/us/stat/108/2293]; [Pub. L. 111–203, title XI][/us/pl/111/203/tXI], § 1107, July 21, 2010, [124 Stat. 2126][/us/stat/124/2126].)
 
  __References in Text__ 
 
@@ -61,7 +61,7 @@
 
  __Effective Date of 1935 Amendment__ 
 
-    [Act Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 201, [49 Stat. 703][/us/stat/49/703], provided that the amendment made by that section is effective Mar. 1, 1936.
+    [Act Aug. 23, 1935, ch. 614, title II][/us/act/1935-08-23/ch614/tII], § 201, [49 Stat. 703][/us/stat/49/703], provided that the amendment made by that section is effective Mar. 1, 1936.
 
  __Transfer of Functions__ 
 
@@ -74,15 +74,15 @@
 ----------
 ----------
 
-[/us/act/1913-12-23/ch6/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs4
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
 [/us/stat/38/254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F254
-[/us/act/1927-02-25/ch191/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-25%2Fch191%2Fs18
+[/us/act/1927-02-25/ch191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-25%2Fch191
 [/us/stat/44/1234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1234
 [/us/act/1935-08-23/ch614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch614
 [/us/stat/49/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F703
-[/us/pl/103/325/s602/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs602%2Fg%2F1
+[/us/pl/103/325/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtVI
 [/us/stat/108/2293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2293
-[/us/pl/111/203/s1107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1107
+[/us/pl/111/203/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtXI
 [/us/stat/124/2126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2126
 [/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
 [/us/stat/38/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F251
@@ -93,7 +93,7 @@
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs4
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301
-[/us/act/1935-08-23/ch614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch614
+[/us/act/1935-08-23/ch614/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch614%2FtII
 [/us/stat/49/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F703
 [/us/usc/t12/s55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs55
 

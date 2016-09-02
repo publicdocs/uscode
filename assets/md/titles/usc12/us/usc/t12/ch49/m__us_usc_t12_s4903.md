@@ -81,7 +81,7 @@
 
         The mortgagee or servicer may use standardized forms for the provision of disclosures required under this section, which disclosures shall relate to the mortgagor’s rights under this chapter.
 
-([Pub. L. 105–216, § 4][/us/pl/105/216/s4], July 29, 1998, [112 Stat. 902][/us/stat/112/902]; [Pub. L. 106–569, title IV][/us/pl/106/569], §§ 402(c)(2), 403(b), Dec. 27, 2000, [114 Stat. 2957][/us/stat/114/2957].)
+([Pub. L. 105–216][/us/pl/105/216], § 4, July 29, 1998, [112 Stat. 902][/us/stat/112/902]; [Pub. L. 106–569, title IV][/us/pl/106/569/tIV], §§ 402(c)(2), 403(b), Dec. 27, 2000, [114 Stat. 2957][/us/stat/114/2957].)
 
  __References in Text__ 
 
@@ -93,13 +93,13 @@
 
     2000—Subsec. (a)(1). [Pub. L. 106–569][/us/pl/106/569], §§ 402(c)(2)(A)(i), 403(b)(1)(A), substituted “residential mortgage transaction (other than a residential mortgage transaction described in [section 4902(g)(1) of this title][/us/usc/t12/s4902/g/1])” for “residential mortgage or mortgage transaction (other than a mortgage or mortgage transaction described in [section 4902(f)(1) of this title][/us/usc/t12/s4902/f/1])” in introductory provisions.
 
-    Subsec. (a)(1)(A)(ii)(IV), (B)(iii). [Pub. L. 106–569, § 402(c)(2)(A)(ii)][/us/pl/106/569/s402/c/2/A/ii], (iii), substituted “[section 4902(g) of this title][/us/usc/t12/s4902/g]” for “[section 4902(f) of this title][/us/usc/t12/s4902/f]”.
+    Subsec. (a)(1)(A)(ii)(IV), (B)(iii). [Pub. L. 106–569][/us/pl/106/569], § 402(c)(2)(A)(ii), (iii), substituted “[section 4902(g) of this title][/us/usc/t12/s4902/g]” for “[section 4902(f) of this title][/us/usc/t12/s4902/f]”.
 
     Subsec. (a)(2). [Pub. L. 106–569][/us/pl/106/569], §§ 402(c)(2)(B), 403(b)(1)(B), substituted “residential mortgage transaction” for “mortgage or mortgage transaction” and “[section 4902(g)(1) of this title][/us/usc/t12/s4902/g/1]” for “[section 4902(f)(1) of this title][/us/usc/t12/s4902/f/1]”.
 
-    Subsec. (c). [Pub. L. 106–569, § 403(b)(2)][/us/pl/106/569/s403/b/2], substituted “subsection (a)(3)” for “paragraphs (1)(B) and (3) of subsection (a)”.
+    Subsec. (c). [Pub. L. 106–569][/us/pl/106/569], § 403(b)(2), substituted “subsection (a)(3)” for “paragraphs (1)(B) and (3) of subsection (a)”.
 
-    Subsec. (d). [Pub. L. 106–569, § 403(b)(3)][/us/pl/106/569/s403/b/3], inserted before period at end “, which disclosures shall relate to the mortgagor’s rights under this chapter”.
+    Subsec. (d). [Pub. L. 106–569][/us/pl/106/569], § 403(b)(3), inserted before period at end “, which disclosures shall relate to the mortgagor’s rights under this chapter”.
 
 ----------
 
@@ -117,9 +117,9 @@
 [/us/usc/t12/s4902/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4902%2Fg
 [/us/usc/t12/s4902/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4902%2Fg%2F1
 [/us/usc/t12/s2601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2601
-[/us/pl/105/216/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F216%2Fs4
+[/us/pl/105/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F216
 [/us/stat/112/902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F902
-[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/569/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2FtIV
 [/us/stat/114/2957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2957
 [/us/pl/105/216/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F216%2Fs13
 [/us/usc/t12/s4901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4901
@@ -129,13 +129,13 @@
 [/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
 [/us/usc/t12/s4902/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4902%2Fg%2F1
 [/us/usc/t12/s4902/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4902%2Ff%2F1
-[/us/pl/106/569/s402/c/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs402%2Fc%2F2%2FA%2Fii
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
 [/us/usc/t12/s4902/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4902%2Fg
 [/us/usc/t12/s4902/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4902%2Ff
 [/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
 [/us/usc/t12/s4902/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4902%2Fg%2F1
 [/us/usc/t12/s4902/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4902%2Ff%2F1
-[/us/pl/106/569/s403/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs403%2Fb%2F2
-[/us/pl/106/569/s403/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs403%2Fb%2F3
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
 
 

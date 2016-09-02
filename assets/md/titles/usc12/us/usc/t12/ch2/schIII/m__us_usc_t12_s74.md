@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 5148 derived from [act June 3, 1864, ch. 106, § 10][/us/act/1864-06-03/ch106/s10], [13 Stat. 102][/us/stat/13/102], which was the National Bank Act. See [section 38 of this title][/us/usc/t12/s38].
+    R.S. § 5148 derived from [act June 3, 1864, ch. 106][/us/act/1864-06-03/ch106], § 10, [13 Stat. 102][/us/stat/13/102], which was the National Bank Act. See [section 38 of this title][/us/usc/t12/s38].
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1864-06-03/ch106/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-06-03%2Fch106%2Fs10
+[/us/act/1864-06-03/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-06-03%2Fch106
 [/us/stat/13/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F13%2F102
 [/us/usc/t12/s38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs38
 

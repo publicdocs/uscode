@@ -23,7 +23,7 @@
 
         Except as provided in subsection (a), no provision of this chapter may be varied by agreement of any person or persons.
 
-([Pub. L. 108–100, § 14][/us/pl/108/100/s14], Oct. 28, 2003, [117 Stat. 1190][/us/stat/117/1190].)
+([Pub. L. 108–100][/us/pl/108/100], § 14, Oct. 28, 2003, [117 Stat. 1190][/us/stat/117/1190].)
 
  __References in Text__ 
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t12/s5007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5007
-[/us/pl/108/100/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F100%2Fs14
+[/us/pl/108/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F100
 [/us/stat/117/1190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1190
 [/us/pl/108/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F100
 [/us/stat/117/1177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1177

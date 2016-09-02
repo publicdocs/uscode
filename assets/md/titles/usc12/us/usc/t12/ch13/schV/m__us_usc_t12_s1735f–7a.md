@@ -117,13 +117,13 @@
 
         This section takes effect on April 1, 1980.
 
-([Pub. L. 96–221, title II, § 207(b)(11)][/us/pl/96/221/s207/b/11], title V, § 501, Mar. 31, 1980, [94 Stat. 144][/us/stat/94/144], 161; [Pub. L. 96–399, title III][/us/pl/96/399], §§ 308(c)(6), 324(a), (e), Oct. 8, 1980, [94 Stat. 1641][/us/stat/94/1641], 1647, 1648; [Pub. L. 97–35, title III, § 384][/us/pl/97/35/s384], Aug. 13, 1981, [95 Stat. 432][/us/stat/95/432].)
+([Pub. L. 96–221, title II][/us/pl/96/221/tII], § 207(b)(11), title V, § 501, Mar. 31, 1980, [94 Stat. 144][/us/stat/94/144], 161; [Pub. L. 96–399, title III][/us/pl/96/399/tIII], §§ 308(c)(6), 324(a), (e), Oct. 8, 1980, [94 Stat. 1641][/us/stat/94/1641], 1647, 1648; [Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 384, Aug. 13, 1981, [95 Stat. 432][/us/stat/95/432].)
 
  __References in Text__ 
 
-    The National Housing Act, referred to in subsec. (a), is [act June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], [48 Stat. 1246][/us/stat/48/1246], which is classified principally to this chapter (§ 1701 et seq.). Section 408 of the National Housing Act, which was classified to [section 1730a of this title][/us/usc/t12/s1730a], was repealed by [Pub. L. 101–73, title IV, § 407][/us/pl/101/73/s407], Aug. 9, 1989, [103 Stat. 363][/us/stat/103/363]. For complete classification of this Act to the Code, see [section 1701 of this title][/us/usc/t12/s1701] and Tables.
+    The National Housing Act, referred to in subsec. (a), is [act June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], [48 Stat. 1246][/us/stat/48/1246], which is classified principally to this chapter (§ 1701 et seq.). Section 408 of the National Housing Act, which was classified to [section 1730a of this title][/us/usc/t12/s1730a], was repealed by [Pub. L. 101–73, title IV][/us/pl/101/73/tIV], § 407, Aug. 9, 1989, [103 Stat. 363][/us/stat/103/363]. For complete classification of this Act to the Code, see [section 1701 of this title][/us/usc/t12/s1701] and Tables.
 
-    Section 103(f) of the Truth in Lending Act, referred to in subsec. (a)(1)(C)(v), was redesignated section 103(g) of the Truth in Lending Act by [Pub. L. 111–203, title X, § 1100A(1)(A)][/us/pl/111/203/s1100A/1/A], July 21, 2010, [124 Stat. 2107][/us/stat/124/2107], and is classified to [section 1602(g) of Title 15][/us/usc/t15/s1602/g], Commerce and Trade.
+    Section 103(f) of the Truth in Lending Act, referred to in subsec. (a)(1)(C)(v), was redesignated section 103(g) of the Truth in Lending Act by [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1100A(1)(A), July 21, 2010, [124 Stat. 2107][/us/stat/124/2107], and is classified to [section 1602(g) of Title 15][/us/usc/t15/s1602/g], Commerce and Trade.
 
  __Codification__ 
 
@@ -133,21 +133,21 @@
 
     1981—Subsec. (a)(1)(C)(vi). [Pub. L. 97–35][/us/pl/97/35] inserted reference to a residential manufactured home.
 
-    1980—Subsec. (a)(1)(A). [Pub. L. 96–399, § 324(a)][/us/pl/96/399/s324/a], substituted “all stock allocated to a dwelling unit” for first reference to “stock” and struck out “where the loan, mortgage, or advance is used to finance the acquisition of such stock” after “housing corporation”.
+    1980—Subsec. (a)(1)(A). [Pub. L. 96–399][/us/pl/96/399], § 324(a), substituted “all stock allocated to a dwelling unit” for first reference to “stock” and struck out “where the loan, mortgage, or advance is used to finance the acquisition of such stock” after “housing corporation”.
 
-    Subsec. (a)(1)(C)(vi). [Pub. L. 96–399, § 324(e)][/us/pl/96/399/s324/e], inserted reference to any person who finances the sale or exchange of residential real property which such individual owns and which such individual occupies or has occupied as his principal residence.
+    Subsec. (a)(1)(C)(vi). [Pub. L. 96–399][/us/pl/96/399], § 324(e), inserted reference to any person who finances the sale or exchange of residential real property which such individual owns and which such individual occupies or has occupied as his principal residence.
 
-    Subsec. (a)(2). [Pub. L. 96–221, § 207(b)(11)][/us/pl/96/221/s207/b/11], struck out “(A)” after “(2)” and struck out subpar. (B) which provided that this paragraph shall not apply to any such deposit, account, or obligation which is payable only at an office of an insured bank, as defined in section 3 of the Federal Deposit Insurance Act, located in the Commonwealth of Puerto Rico.
+    Subsec. (a)(2). [Pub. L. 96–221][/us/pl/96/221], § 207(b)(11), struck out “(A)” after “(2)” and struck out subpar. (B) which provided that this paragraph shall not apply to any such deposit, account, or obligation which is payable only at an office of an insured bank, as defined in section 3 of the Federal Deposit Insurance Act, located in the Commonwealth of Puerto Rico.
 
-    Subsec. (e)(4). [Pub. L. 96–399, § 308(c)(6)][/us/pl/96/399/s308/c/6], substituted “manufactured” for “mobile”.
+    Subsec. (e)(4). [Pub. L. 96–399][/us/pl/96/399], § 308(c)(6), substituted “manufactured” for “mobile”.
 
  __Effective Date of 1980 Amendment__ 
 
-    [Pub. L. 96–221, title II, § 207(b)][/us/pl/96/221/s207/b], Mar. 31, 1980, [94 Stat. 144][/us/stat/94/144], provided in part that the amendment made by that section is effective 6 years after Mar. 31, 1980.
+    [Pub. L. 96–221, title II][/us/pl/96/221/tII], § 207(b), Mar. 31, 1980, [94 Stat. 144][/us/stat/94/144], provided in part that the amendment made by that section is effective 6 years after Mar. 31, 1980.
 
  __Severability__ 
 
-[Pub. L. 96–221, title V, § 526][/us/pl/96/221/s526], Mar. 31, 1980, [94 Stat. 167][/us/stat/94/167], provided that: 
+[Pub. L. 96–221, title V][/us/pl/96/221/tV], § 526, Mar. 31, 1980, [94 Stat. 167][/us/stat/94/167], provided that: 
 
 > “If any provision of this Act \[for classification of Act to the Code, see Short Title of 1980 Amendment note set out under [section 226 of this title][/us/usc/t12/s226] and Tables\] or the application of such provision to any person or circumstance shall be held invalid, the remainder of this Act and the application of such provision to any person or circumstance other than that as to which it is held invalid shall not be affected thereby.”
 
@@ -157,17 +157,17 @@
 
  __Choice of Highest Applicable Interest Rate__ 
 
-[Pub. L. 96–221, title V, § 528][/us/pl/96/221/s528], Mar. 31, 1980, [94 Stat. 168][/us/stat/94/168], provided that: 
+[Pub. L. 96–221, title V][/us/pl/96/221/tV], § 528, Mar. 31, 1980, [94 Stat. 168][/us/stat/94/168], provided that: 
 
 > “In any case in which one or more provisions of, or amendments made by, this title \[enacting sections 86a, 1730g, 1735f–7a, and 1831d of this title, amending [section 1785 of this title][/us/usc/t12/s1785] and [section 687 of Title 15][/us/usc/t15/s687], Commerce and Trade, and enacting provisions set out as notes under sections 86a, 1730g, and 1735f–7 of this title\], section 529 of the National Housing Act \[[section 1735f–7 of this title][/us/usc/t12/s1735f–7]\], or any other provision of law, including section 5197 of the Revised Statutes ([12 U.S.C. 85][/us/usc/t12/s85]), apply with respect to the same loan, mortgage, credit sale, or advance, such loan, mortgage, credit sale, or advance may be made at the highest applicable rate.”
 
  __Definition of “State”__ 
 
-[Pub. L. 96–221, title V, § 527][/us/pl/96/221/s527], Mar. 31, 1980, [94 Stat. 168][/us/stat/94/168], as amended by [Pub. L. 96–221, title II, § 207(b)(12)][/us/pl/96/221/s207/b/12], Mar. 31, 1980, [94 Stat. 144][/us/stat/94/144], provided that: 
+[Pub. L. 96–221, title V][/us/pl/96/221/tV], § 527, Mar. 31, 1980, [94 Stat. 168][/us/stat/94/168], as amended by [Pub. L. 96–221, title II][/us/pl/96/221/tII], § 207(b)(12), Mar. 31, 1980, [94 Stat. 144][/us/stat/94/144], provided that: 
 
 > “For purposes of this title \[enacting sections 86a, 1730g, 1735f–7a, and 1831d of this title, amending [section 1785 of this title][/us/usc/t12/s1785] and [section 687 of Title 15][/us/usc/t15/s687], Commerce and Trade, and enacting provisions set out as notes under sections 86a, 1730g, 1735f–7, and 1735f–7a of this title\] the term ‘State’ includes the several States, the Commonwealth of Puerto Rico, the District of Columbia, Guam, the Trust Territories of the Pacific Islands, the Northern Mariana Islands, and the Virgin Islands.”
 
-    \[[Pub. L. 96–221, title II, § 207(b)][/us/pl/96/221/s207/b], Mar. 31, 1980, [94 Stat. 144][/us/stat/94/144], provided that the amendment of above note made by that section is effective 6 years after Mar. 31, 1980.\]
+    \[[Pub. L. 96–221, title II][/us/pl/96/221/tII], § 207(b), Mar. 31, 1980, [94 Stat. 144][/us/stat/94/144], provided that the amendment of above note made by that section is effective 6 years after Mar. 31, 1980.\]
 
     \[For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48][/us/usc/t48/s1681], Territories and Insular Possessions.\]
 
@@ -188,46 +188,46 @@
 [/us/usc/t12/s1730a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1730a
 [/us/usc/t15/s1605/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1605%2Fa%2F1
 [/us/usc/t42/s5402/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5402%2F6
-[/us/pl/96/221/s207/b/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs207%2Fb%2F11
+[/us/pl/96/221/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2FtII
 [/us/stat/94/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F144
-[/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
+[/us/pl/96/399/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2FtIII
 [/us/stat/94/1641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1641
-[/us/pl/97/35/s384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs384
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F432
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
 [/us/stat/48/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1246
 [/us/usc/t12/s1730a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1730a
-[/us/pl/101/73/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs407
+[/us/pl/101/73/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtIV
 [/us/stat/103/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F363
 [/us/usc/t12/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701
-[/us/pl/111/203/s1100A/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F1%2FA
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2107
 [/us/usc/t15/s1602/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1602%2Fg
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
-[/us/pl/96/399/s324/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs324%2Fa
-[/us/pl/96/399/s324/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs324%2Fe
-[/us/pl/96/221/s207/b/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs207%2Fb%2F11
-[/us/pl/96/399/s308/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs308%2Fc%2F6
-[/us/pl/96/221/s207/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs207%2Fb
+[/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
+[/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
+[/us/pl/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221
+[/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
+[/us/pl/96/221/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2FtII
 [/us/stat/94/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F144
-[/us/pl/96/221/s526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs526
+[/us/pl/96/221/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2FtV
 [/us/stat/94/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F167
 [/us/usc/t12/s226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs226
 [/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
 [/us/usc/t12/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1437
-[/us/pl/96/221/s528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs528
+[/us/pl/96/221/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2FtV
 [/us/stat/94/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F168
 [/us/usc/t12/s1785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1785
 [/us/usc/t15/s687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs687
 [/us/usc/t12/s1735f–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1735f%E2%80%937
 [/us/usc/t12/s85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs85
-[/us/pl/96/221/s527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs527
+[/us/pl/96/221/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2FtV
 [/us/stat/94/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F168
-[/us/pl/96/221/s207/b/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs207%2Fb%2F12
+[/us/pl/96/221/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2FtII
 [/us/stat/94/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F144
 [/us/usc/t12/s1785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1785
 [/us/usc/t15/s687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs687
-[/us/pl/96/221/s207/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs207%2Fb
+[/us/pl/96/221/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2FtII
 [/us/stat/94/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F144
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
 

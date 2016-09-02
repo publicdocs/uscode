@@ -75,13 +75,13 @@
 
         The provisions of subsection (b) relating to the board of directors of the consolidated bank, other than the provisions relating to the initial composition, nomination, and election of the members of the board, may be modified on an affirmative vote of at least two-thirds of the voting stockholders of the bank, with each such stockholder to have, for such purposes, only one vote. Any proposals for modifying such provisions shall be submitted for a vote by such stockholders in accordance with procedures prescribed by the Farm Credit Administration.
 
-([Pub. L. 92–181, title III, § 3][/us/pl/92/181/s3].21, as added [Pub. L. 100–233, title IV, § 415(2)][/us/pl/100/233/s415/2], Jan. 6, 1988, [101 Stat. 1642][/us/stat/101/1642]; amended [Pub. L. 100–399, title IV, § 407(c)][/us/pl/100/399/s407/c], (d), Aug. 17, 1988, [102 Stat. 1000][/us/stat/102/1000].)
+([Pub. L. 92–181, title III][/us/pl/92/181/tIII], § 3.21, as added [Pub. L. 100–233, title IV][/us/pl/100/233/tIV], § 415(2), Jan. 6, 1988, [101 Stat. 1642][/us/stat/101/1642]; amended [Pub. L. 100–399, title IV][/us/pl/100/399/tIV], § 407(c), (d), Aug. 17, 1988, [102 Stat. 1000][/us/stat/102/1000].)
 
  __Amendments__ 
 
-    1988—Subsec. (b)(2)(B)(i)(I). [Pub. L. 100–399, § 407(d)][/us/pl/100/399/s407/d], amended subcl. (I) generally. Prior to amendment, subcl. (I) read as follows: “as of the final date of the fiscal year of the consolidated bank; or”.
+    1988—Subsec. (b)(2)(B)(i)(I). [Pub. L. 100–399][/us/pl/100/399], § 407(d), amended subcl. (I) generally. Prior to amendment, subcl. (I) read as follows: “as of the final date of the fiscal year of the consolidated bank; or”.
 
-    Subsec. (b)(2)(C). [Pub. L. 100–399, § 407(c)][/us/pl/100/399/s407/c], added subpar. (C).
+    Subsec. (b)(2)(C). [Pub. L. 100–399][/us/pl/100/399], § 407(c), added subpar. (C).
 
  __Effective Date of 1988 Amendment__ 
 
@@ -95,13 +95,13 @@
 ----------
 
 [/us/usc/t12/s2124/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2124%2Fd
-[/us/pl/92/181/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs3
-[/us/pl/100/233/s415/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs415%2F2
+[/us/pl/92/181/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtIII
+[/us/pl/100/233/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtIV
 [/us/stat/101/1642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1642
-[/us/pl/100/399/s407/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs407%2Fc
+[/us/pl/100/399/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtIV
 [/us/stat/102/1000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1000
-[/us/pl/100/399/s407/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs407%2Fd
-[/us/pl/100/399/s407/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs407%2Fc
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
 [/us/pl/100/399/s1001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs1001%2Fa

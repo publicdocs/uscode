@@ -41,7 +41,7 @@
 
         Before approving a delegation under this section, the Secretary shall issue regulations establishing appropriate requirements and procedures, including requirements and procedures governing the indemnification of the Secretary by the mortgagee.
 
-([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title II, § 256, as added [Pub. L. 104–204, title IV, § 427][/us/pl/104/204/s427], Sept. 26, 1996, [110 Stat. 2928][/us/stat/110/2928].)
+([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title II, § 256, as added [Pub. L. 104–204, title IV][/us/pl/104/204/tIV], § 427, Sept. 26, 1996, [110 Stat. 2928][/us/stat/110/2928].)
 
 ----------
 
@@ -51,7 +51,7 @@
 ----------
 
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
-[/us/pl/104/204/s427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2Fs427
+[/us/pl/104/204/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2FtIV
 [/us/stat/110/2928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2928
 
 

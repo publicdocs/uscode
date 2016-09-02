@@ -61,17 +61,17 @@
 
         The Board may issue such regulations and orders, including definitions consistent with this section, as may be necessary to administer and carry out the purpose of this section. The appropriate Federal banking agency shall enforce compliance with those regulations under [section 1818 of this title][/us/usc/t12/s1818].
 
-([Dec. 23, 1913, ch. 6, § 23][/us/act/1913-12-23/ch6/s23], as added [Pub. L. 102–242, title III, § 308(a)][/us/pl/102/242/s308/a], Dec. 19, 1991, [105 Stat. 2362][/us/stat/105/2362].)
+([Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 23, as added [Pub. L. 102–242, title III][/us/pl/102/242/tIII], § 308(a), Dec. 19, 1991, [105 Stat. 2362][/us/stat/105/2362].)
 
  __Effective Date__ 
 
-[Pub. L. 102–242, title III, § 308(c)][/us/pl/102/242/s308/c], Dec. 19, 1991, [105 Stat. 2363][/us/stat/105/2363], provided that: 
+[Pub. L. 102–242, title III][/us/pl/102/242/tIII], § 308(c), Dec. 19, 1991, [105 Stat. 2363][/us/stat/105/2363], provided that: 
 
 > “The amendment made by this section \[enacting this section\] shall become effective 1 year after the date of enactment of this Act \[Dec. 19, 1991\].”
 
  __Regulations__ 
 
-[Pub. L. 102–242, title III, § 308(b)][/us/pl/102/242/s308/b], Dec. 19, 1991, [105 Stat. 2362][/us/stat/105/2362], provided that: 
+[Pub. L. 102–242, title III][/us/pl/102/242/tIII], § 308(b), Dec. 19, 1991, [105 Stat. 2362][/us/stat/105/2362], provided that: 
 
 > “The Board shall prescribe reasonable transition rules to facilitate compliance with section 23 of the Federal Reserve Act \[[12 U.S.C. 371b–2][/us/usc/t12/s371b–2]\] (as added by subsection (a)).”
 
@@ -84,12 +84,12 @@
 
 [/us/usc/t12/s1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813
 [/us/usc/t12/s1818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1818
-[/us/act/1913-12-23/ch6/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs23
-[/us/pl/102/242/s308/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs308%2Fa
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
+[/us/pl/102/242/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtIII
 [/us/stat/105/2362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2362
-[/us/pl/102/242/s308/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs308%2Fc
+[/us/pl/102/242/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtIII
 [/us/stat/105/2363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2363
-[/us/pl/102/242/s308/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs308%2Fb
+[/us/pl/102/242/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtIII
 [/us/stat/105/2362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2362
 [/us/usc/t12/s371b–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs371b%E2%80%932
 

@@ -17,7 +17,7 @@
 
  __Amendments__ 
 
-    1942—[Act May 26, 1942, ch. 319, § 14(a)][/us/act/1942-05-26/ch319/s14/a], [56 Stat. 305][/us/stat/56/305], amended subchapter heading, substituting “WAR” for “DEFENSE”.
+    1942—[Act May 26, 1942, ch. 319][/us/act/1942-05-26/ch319], § 14(a), [56 Stat. 305][/us/stat/56/305], amended subchapter heading, substituting “WAR” for “DEFENSE”.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1942-05-26/ch319/s14/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-05-26%2Fch319%2Fs14%2Fa
+[/us/act/1942-05-26/ch319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-05-26%2Fch319
 [/us/stat/56/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F305
 
 

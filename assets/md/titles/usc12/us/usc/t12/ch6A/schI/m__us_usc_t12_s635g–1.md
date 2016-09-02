@@ -71,7 +71,7 @@
 
         The term “appropriate congressional committees” means the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate.
 
-([July 31, 1945, ch. 341, § 8A][/us/act/1945-07-31/ch341/s8A], as added [Pub. L. 109–438, § 13(a)][/us/pl/109/438/s13/a], Dec. 20, 2006, [120 Stat. 3277][/us/stat/120/3277].)
+([July 31, 1945, ch. 341][/us/act/1945-07-31/ch341], § 8A, as added [Pub. L. 109–438][/us/pl/109/438], § 13(a), Dec. 20, 2006, [120 Stat. 3277][/us/stat/120/3277].)
 
 ----------
 
@@ -88,8 +88,8 @@
 [/us/usc/t12/s635i–3/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635i%E2%80%933%2Fh%2F3
 [/us/usc/t12/s635i–3/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635i%E2%80%933%2Fh%2F3
 [/us/usc/t19/s3511/d/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3511%2Fd%2F12
-[/us/act/1945-07-31/ch341/s8A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch341%2Fs8A
-[/us/pl/109/438/s13/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F438%2Fs13%2Fa
+[/us/act/1945-07-31/ch341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch341
+[/us/pl/109/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F438
 [/us/stat/120/3277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3277
 
 

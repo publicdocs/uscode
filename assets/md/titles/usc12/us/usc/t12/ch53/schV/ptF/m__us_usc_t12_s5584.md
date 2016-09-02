@@ -407,7 +407,7 @@
 
         In implementing the provisions of this section, the Bureau shall coordinate with the Office of Personnel Management and other entities having expertise in matters related to employment to ensure a fair and orderly transition for affected employees.
 
-([Pub. L. 111–203, title X, § 1064][/us/pl/111/203/s1064], July 21, 2010, [124 Stat. 2043][/us/stat/124/2043].)
+([Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1064, July 21, 2010, [124 Stat. 2043][/us/stat/124/2043].)
 
  __References in Text__ 
 
@@ -430,7 +430,7 @@
 [/us/usc/t5/s8901/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8901%2F3
 [/us/usc/t5/s8714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8714
 [/us/usc/t5/s8706/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8706%2Fb%2F1%2FA
-[/us/pl/111/203/s1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1064
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2043
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1955

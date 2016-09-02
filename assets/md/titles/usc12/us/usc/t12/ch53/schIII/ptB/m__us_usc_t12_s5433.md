@@ -37,7 +37,7 @@
 
         Property identified for transfer under this section shall not be altered, destroyed, or deleted before transfer under this section.
 
-([Pub. L. 111–203, title III, § 323][/us/pl/111/203/s323], July 21, 2010, [124 Stat. 1535][/us/stat/124/1535].)
+([Pub. L. 111–203, title III][/us/pl/111/203/tIII], § 323, July 21, 2010, [124 Stat. 1535][/us/stat/124/1535].)
 
  __References in Text__ 
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/111/203/s323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs323
+[/us/pl/111/203/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIII
 [/us/stat/124/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1535
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1520

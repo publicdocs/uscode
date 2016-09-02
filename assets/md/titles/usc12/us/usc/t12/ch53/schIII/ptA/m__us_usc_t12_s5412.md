@@ -75,7 +75,7 @@
 
         Nothing in this section may be construed to limit or otherwise affect the transfer of powers under title X. <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
-([Pub. L. 111–203, title III, § 312][/us/pl/111/203/s312], July 21, 2010, [124 Stat. 1521][/us/stat/124/1521].)
+([Pub. L. 111–203, title III][/us/pl/111/203/tIII], § 312, July 21, 2010, [124 Stat. 1521][/us/stat/124/1521].)
 
  __References in Text__ 
 
@@ -94,7 +94,7 @@
 
 [/us/usc/t12/s1468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1468
 [/us/usc/t12/s1464/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1464%2Fq
-[/us/pl/111/203/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs312
+[/us/pl/111/203/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIII
 [/us/stat/124/1521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1521
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1955

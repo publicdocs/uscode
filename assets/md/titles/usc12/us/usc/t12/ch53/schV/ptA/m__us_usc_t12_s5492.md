@@ -73,7 +73,7 @@
 
             The Bureau shall not be liable under any provision of law for any action or inaction of the Board of Governors, and the Board of Governors shall not be liable under any provision of law for any action or inaction of the Bureau.
 
-([Pub. L. 111–203, title X, § 1012][/us/pl/111/203/s1012], July 21, 2010, [124 Stat. 1965][/us/stat/124/1965].)
+([Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1012, July 21, 2010, [124 Stat. 1965][/us/stat/124/1965].)
 
  __References in Text__ 
 
@@ -89,7 +89,7 @@
 ----------
 
 [/us/usc/t12/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs221
-[/us/pl/111/203/s1012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1012
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/1965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1965
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1955

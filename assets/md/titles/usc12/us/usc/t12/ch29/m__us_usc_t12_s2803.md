@@ -261,7 +261,7 @@
 
         The data required to be disclosed under subsection (b) shall be submitted to the Bureau or to the appropriate agency for any institution reporting under this chapter, in accordance with regulations prescribed by the Bureau. Institutions shall not be required to report new data under paragraph (5) or (6) of subsection (b) before the first January 1 that occurs after the end of the 9-month period beginning on the date on which regulations are issued by the Bureau in final form with respect to such disclosures.
 
-([Pub. L. 94–200, title III, § 304][/us/pl/94/200/s304], Dec. 31, 1975, [89 Stat. 1125][/us/stat/89/1125]; [Pub. L. 96–399, title III, § 340(a)][/us/pl/96/399/s340/a], Oct. 8, 1980, [94 Stat. 1657][/us/stat/94/1657]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title VII, § 701(a)\], Nov. 30, 1983, [97 Stat. 1266][/us/stat/97/1266]; [Pub. L. 100–242, title V][/us/pl/100/242], §§ 565(a)(2), 570(h), Feb. 5, 1988, [101 Stat. 1945][/us/stat/101/1945], 1950; [Pub. L. 101–73, title XII, § 1211(a)][/us/pl/101/73/s1211/a]–(c)(2)(C), (f), (i), (j), Aug. 9, 1989, [103 Stat. 524–526][/us/stat/103/524-526]; [Pub. L. 102–242, title II, § 212(a)(1)][/us/pl/102/242/s212/a/1], Dec. 19, 1991, [105 Stat. 2299][/us/stat/105/2299]; [Pub. L. 102–550, title IX, § 932(a)][/us/pl/102/550/s932/a], (b), Oct. 28, 1992, [106 Stat. 3889][/us/stat/106/3889], 3891; [Pub. L. 104–208, div. A, title II, § 2225(b)][/us/pl/104/208/s2225/b], Sept. 30, 1996, [110 Stat. 3009–416][/us/stat/110/3009-416]; [Pub. L. 111–203, title X, § 1094(1)][/us/pl/111/203/s1094/1], (3), July 21, 2010, [124 Stat. 2097][/us/stat/124/2097].)
+([Pub. L. 94–200, title III][/us/pl/94/200/tIII], § 304, Dec. 31, 1975, [89 Stat. 1125][/us/stat/89/1125]; [Pub. L. 96–399, title III][/us/pl/96/399/tIII], § 340(a), Oct. 8, 1980, [94 Stat. 1657][/us/stat/94/1657]; [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title VII, § 701(a)\], Nov. 30, 1983, [97 Stat. 1266][/us/stat/97/1266]; [Pub. L. 100–242, title V][/us/pl/100/242/tV], §§ 565(a)(2), 570(h), Feb. 5, 1988, [101 Stat. 1945][/us/stat/101/1945], 1950; [Pub. L. 101–73, title XII][/us/pl/101/73/tXII], § 1211(a)–(c)(2)(C), (f), (i), (j), Aug. 9, 1989, [103 Stat. 524–526][/us/stat/103/524-526]; [Pub. L. 102–242, title II][/us/pl/102/242/tII], § 212(a)(1), Dec. 19, 1991, [105 Stat. 2299][/us/stat/105/2299]; [Pub. L. 102–550, title IX][/us/pl/102/550/tIX], § 932(a), (b), Oct. 28, 1992, [106 Stat. 3889][/us/stat/106/3889], 3891; [Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], § 2225(b), Sept. 30, 1996, [110 Stat. 3009–416][/us/stat/110/3009-416]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1094(1), (3), July 21, 2010, [124 Stat. 2097][/us/stat/124/2097].)
 
  __References in Text__ 
 
@@ -271,79 +271,79 @@
 
     The Housing Act of 1949, referred to in subsec. (b)(1), is [act July 15, 1949, ch. 338][/us/act/1949-07-15/ch338], [63 Stat. 413][/us/stat/63/413]. Title V of the Housing Act of 1949 is classified generally to subchapter III (§ 1471 et seq.) of chapter 8A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1441 of Title 42][/us/usc/t42/s1441] and Tables.
 
-    [Section 2802(2)(A) of this title][/us/usc/t12/s2802/2/A], referred to in subsecs. (h)(2)(B) and (i), was redesignated [section 2802(3)(A) of this title][/us/usc/t12/s2802/3/A] by [Pub. L. 111–203, title X, § 1094(2)(A)][/us/pl/111/203/s1094/2/A], July 21, 2010, [124 Stat. 2097][/us/stat/124/2097].
+    [Section 2802(2)(A) of this title][/us/usc/t12/s2802/2/A], referred to in subsecs. (h)(2)(B) and (i), was redesignated [section 2802(3)(A) of this title][/us/usc/t12/s2802/3/A] by [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1094(2)(A), July 21, 2010, [124 Stat. 2097][/us/stat/124/2097].
 
  __Amendments__ 
 
-    Subsec. (a)(1). [Pub. L. 111–203, § 1094(1)][/us/pl/111/203/s1094/1], substituted “Bureau” for “Board”.
+    Subsec. (a)(1). [Pub. L. 111–203][/us/pl/111/203], § 1094(1), substituted “Bureau” for “Board”.
 
-    Subsec. (b)(4). [Pub. L. 111–203, § 1094(3)(A)(i)][/us/pl/111/203/s1094/3/A/i], inserted “age,” before “and gender”.
+    Subsec. (b)(4). [Pub. L. 111–203][/us/pl/111/203], § 1094(3)(A)(i), inserted “age,” before “and gender”.
 
-    Subsec. (b)(5), (6). [Pub. L. 111–203, § 1094(3)(A)(ii)][/us/pl/111/203/s1094/3/A/ii]–(iv), added pars. (5) and (6).
+    Subsec. (b)(5), (6). [Pub. L. 111–203][/us/pl/111/203], § 1094(3)(A)(ii)–(iv), added pars. (5) and (6).
 
-    Subsec. (e). [Pub. L. 111–203, § 1094(1)][/us/pl/111/203/s1094/1], substituted “Bureau” for “Board”.
+    Subsec. (e). [Pub. L. 111–203][/us/pl/111/203], § 1094(1), substituted “Bureau” for “Board”.
 
-    Subsec. (h). [Pub. L. 111–203, § 1094(3)(B)][/us/pl/111/203/s1094/3/B], added subsec. (h) and struck out former subsec. (h) which related to submission to agencies.
+    Subsec. (h). [Pub. L. 111–203][/us/pl/111/203], § 1094(3)(B), added subsec. (h) and struck out former subsec. (h) which related to submission to agencies.
 
-    Subsec. (i). [Pub. L. 111–203, § 1094(3)(C)][/us/pl/111/203/s1094/3/C], substituted “subsections (b)(4), (b)(5), and (b)(6)” for “subsection (b)(4)”.
+    Subsec. (i). [Pub. L. 111–203][/us/pl/111/203], § 1094(3)(C), substituted “subsections (b)(4), (b)(5), and (b)(6)” for “subsection (b)(4)”.
 
-    Subsec. (j)(1). [Pub. L. 111–203, § 1094(1)][/us/pl/111/203/s1094/1], substituted “Bureau” for “Board” in two places.
+    Subsec. (j)(1). [Pub. L. 111–203][/us/pl/111/203], § 1094(1), substituted “Bureau” for “Board” in two places.
 
-    Subsec. (j)(2)(A). [Pub. L. 111–203, § 1094(3)(D)(ii)][/us/pl/111/203/s1094/3/D/ii], substituted “in such formats as the Bureau may require” for “in the format in which such information is maintained by the institution”.
+    Subsec. (j)(2)(A). [Pub. L. 111–203][/us/pl/111/203], § 1094(3)(D)(ii), substituted “in such formats as the Bureau may require” for “in the format in which such information is maintained by the institution”.
 
-    Subsec. (j)(2)(B). [Pub. L. 111–203, § 1094(1)][/us/pl/111/203/s1094/1], substituted “Bureau” for “Board” in two places.
+    Subsec. (j)(2)(B). [Pub. L. 111–203][/us/pl/111/203], § 1094(1), substituted “Bureau” for “Board” in two places.
 
-    Subsec. (j)(3). [Pub. L. 111–203, § 1094(3)(D)(i)][/us/pl/111/203/s1094/3/D/i], added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “A depository institution meets the disclosure requirement of paragraph (1) if the institution provides the information required under such paragraph in the form in which the institution maintains such information.”
+    Subsec. (j)(3). [Pub. L. 111–203][/us/pl/111/203], § 1094(3)(D)(i), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “A depository institution meets the disclosure requirement of paragraph (1) if the institution provides the information required under such paragraph in the form in which the institution maintains such information.”
 
-    Subsecs. (j)(7), (k)(1), (l)(2)(A). [Pub. L. 111–203, § 1094(1)][/us/pl/111/203/s1094/1], substituted “Bureau” for “Board” wherever appearing.
+    Subsecs. (j)(7), (k)(1), (l)(2)(A). [Pub. L. 111–203][/us/pl/111/203], § 1094(1), substituted “Bureau” for “Board” wherever appearing.
 
-    Subsec. (m)(2). [Pub. L. 111–203, § 1094(3)(E)][/us/pl/111/203/s1094/3/E], added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “In complying with paragraph (1), a depository institution shall, in the sole discretion of the institution, provide the person requesting the information with—
+    Subsec. (m)(2). [Pub. L. 111–203][/us/pl/111/203], § 1094(3)(E), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “In complying with paragraph (1), a depository institution shall, in the sole discretion of the institution, provide the person requesting the information with—
 
     “(A) a paper copy of the information requested; or
 
     “(B) if acceptable to the person, the information through a form of electronic medium, such as a computer disk.”
 
-    Subsec. (n). [Pub. L. 111–203, § 1094(3)(F)][/us/pl/111/203/s1094/3/F], added subsec. (n).
+    Subsec. (n). [Pub. L. 111–203][/us/pl/111/203], § 1094(3)(F), added subsec. (n).
 
     1996—Subsec. (m). [Pub. L. 104–208][/us/pl/104/208] added subsec. (m).
 
-    1992—Subsec. (c). [Pub. L. 102–550, § 932(b)][/us/pl/102/550/s932/b], inserted “, other than loan application register information under subsection (j),” after “under this section”.
+    1992—Subsec. (c). [Pub. L. 102–550][/us/pl/102/550], § 932(b), inserted “, other than loan application register information under subsection (j),” after “under this section”.
 
-    Subsecs. (j) to (l). [Pub. L. 102–550, § 932(a)][/us/pl/102/550/s932/a], added subsecs. (j) to (l).
+    Subsecs. (j) to (l). [Pub. L. 102–550][/us/pl/102/550], § 932(a), added subsecs. (j) to (l).
 
-    1991—Subsec. (h)(1). [Pub. L. 102–242, § 212(a)(1)(A)][/us/pl/102/242/s212/a/1/A], added par. (1) and struck out former par. (1) which read as follows: “the Comptroller of the Currency for national banks;”.
+    1991—Subsec. (h)(1). [Pub. L. 102–242][/us/pl/102/242], § 212(a)(1)(A), added par. (1) and struck out former par. (1) which read as follows: “the Comptroller of the Currency for national banks;”.
 
-    Subsec. (h)(3). [Pub. L. 102–242, § 212(a)(1)(B)][/us/pl/102/242/s212/a/1/B], added par. (3) and struck out former par. (3) which read as follows: “the Federal Deposit Insurance Corporation for banks insured by the Federal Deposit Insurance Corporation (other than members of the Federal Reserve System), mutual savings banks, and any other depository institution described in [section 2802(2)(A) of this title][/us/usc/t12/s2802/2/A] which is not otherwise referred to in this paragraph;”.
+    Subsec. (h)(3). [Pub. L. 102–242][/us/pl/102/242], § 212(a)(1)(B), added par. (3) and struck out former par. (3) which read as follows: “the Federal Deposit Insurance Corporation for banks insured by the Federal Deposit Insurance Corporation (other than members of the Federal Reserve System), mutual savings banks, and any other depository institution described in [section 2802(2)(A) of this title][/us/usc/t12/s2802/2/A] which is not otherwise referred to in this paragraph;”.
 
-    1989—Subsec. (a)(1). [Pub. L. 101–73, § 1211(c)(1)][/us/pl/101/73/s1211/c/1], inserted “(or for which the institution received completed applications)” after “originated”.
+    1989—Subsec. (a)(1). [Pub. L. 101–73][/us/pl/101/73], § 1211(c)(1), inserted “(or for which the institution received completed applications)” after “originated”.
 
-    Subsec. (a)(2). [Pub. L. 101–73, § 1211(c)(2)(A)][/us/pl/101/73/s1211/c/2/A], inserted “(or for which completed applications were received)” after “originated or purchased” in last sentence.
+    Subsec. (a)(2). [Pub. L. 101–73][/us/pl/101/73], § 1211(c)(2)(A), inserted “(or for which completed applications were received)” after “originated or purchased” in last sentence.
 
-    [Pub. L. 101–73, § 1211(f)][/us/pl/101/73/s1211/f], inserted at end “For purposes of this paragraph, other lending institutions shall be deemed to have a home office or branch office within a primary metropolitan statistical area, metropolitan statistical area, or consolidated metropolitan statistical area that is not comprised of designated primary metropolitan statistical areas if such institutions have originated or purchased or received completed applications for at least 5 mortgage loans in such area in the preceding calendar year.”
+    [Pub. L. 101–73][/us/pl/101/73], § 1211(f), inserted at end “For purposes of this paragraph, other lending institutions shall be deemed to have a home office or branch office within a primary metropolitan statistical area, metropolitan statistical area, or consolidated metropolitan statistical area that is not comprised of designated primary metropolitan statistical areas if such institutions have originated or purchased or received completed applications for at least 5 mortgage loans in such area in the preceding calendar year.”
 
-    Subsec. (b)(4). [Pub. L. 101–73, § 1211(a)][/us/pl/101/73/s1211/a], added par. (4).
+    Subsec. (b)(4). [Pub. L. 101–73][/us/pl/101/73], § 1211(a), added par. (4).
 
-    Subsec. (e). [Pub. L. 101–73, § 1211(i)][/us/pl/101/73/s1211/i], substituted “Subject to subsection (h), the Board” for “The Board”.
+    Subsec. (e). [Pub. L. 101–73][/us/pl/101/73], § 1211(i), substituted “Subject to subsection (h), the Board” for “The Board”.
 
-    Subsec. (g)(1). [Pub. L. 101–73, § 1211(c)(2)(B)][/us/pl/101/73/s1211/c/2/B], inserted “(or for which completed applications are received)” after “made”.
+    Subsec. (g)(1). [Pub. L. 101–73][/us/pl/101/73], § 1211(c)(2)(B), inserted “(or for which completed applications are received)” after “made”.
 
-    Subsec. (g)(2). [Pub. L. 101–73, § 1211(c)(2)(C)][/us/pl/101/73/s1211/c/2/C], inserted “(or for which completed applications are received)” after “approved”.
+    Subsec. (g)(2). [Pub. L. 101–73][/us/pl/101/73], § 1211(c)(2)(C), inserted “(or for which completed applications are received)” after “approved”.
 
-    Subsec. (h). [Pub. L. 101–73, § 1211(b)][/us/pl/101/73/s1211/b], added subsec. (h).
+    Subsec. (h). [Pub. L. 101–73][/us/pl/101/73], § 1211(b), added subsec. (h).
 
-    Subsec. (i). [Pub. L. 101–73, § 1211(j)][/us/pl/101/73/s1211/j], added subsec. (i).
+    Subsec. (i). [Pub. L. 101–73][/us/pl/101/73], § 1211(j), added subsec. (i).
 
-    1988—Subsec. (a)(1). [Pub. L. 100–242, § 570(h)][/us/pl/100/242/s570/h], substituted “at least one branch” for “at at least one branch”.
+    1988—Subsec. (a)(1). [Pub. L. 100–242][/us/pl/100/242], § 570(h), substituted “at least one branch” for “at at least one branch”.
 
-    Subsec. (g). [Pub. L. 100–242, § 565(a)(2)][/us/pl/100/242/s565/a/2], added subsec. (g).
+    Subsec. (g). [Pub. L. 100–242][/us/pl/100/242], § 565(a)(2), added subsec. (g).
 
     1983—Subsecs. (a), (f). [Pub. L. 98–181][/us/pl/98/181] substituted “primary metropolitan statistical area, metropolitan statistical area, or consolidated metropolitan statistical area that is not comprised of designated primary metropolitan statistical areas” for “standard metropolitan statistical area” wherever appearing.
 
-    1980—Subsec. (a)(1). [Pub. L. 96–399, § 340(a)(1)][/us/pl/96/399/s340/a/1], substituted “Department of Commerce” for “Office of Management and Budget”.
+    1980—Subsec. (a)(1). [Pub. L. 96–399][/us/pl/96/399], § 340(a)(1), substituted “Department of Commerce” for “Office of Management and Budget”.
 
-    Subsec. (a)(2)(A). [Pub. L. 96–399, § 340(a)(2)][/us/pl/96/399/s340/a/2], revised applicable factors so as to include mortgage loans in a census tract, or by a county, and exclude readily available and reasonably costing census tracts, or by ZIP code.
+    Subsec. (a)(2)(A). [Pub. L. 96–399][/us/pl/96/399], § 340(a)(2), revised applicable factors so as to include mortgage loans in a census tract, or by a county, and exclude readily available and reasonably costing census tracts, or by ZIP code.
 
-    Subsecs. (d) to (f). [Pub. L. 96–399, § 340(a)(3)][/us/pl/96/399/s340/a/3], added subsecs. (d) to (f).
+    Subsecs. (d) to (f). [Pub. L. 96–399][/us/pl/96/399], § 340(a)(3), added subsecs. (d) to (f).
 
  __Effective Date of 2010 Amendment__ 
 
@@ -351,7 +351,7 @@
 
  __Effective Date of 1992 Amendment__ 
 
-[Pub. L. 102–550, title IX, § 932(c)][/us/pl/102/550/s932/c], Oct. 28, 1992, [106 Stat. 3891][/us/stat/106/3891], provided that: 
+[Pub. L. 102–550, title IX][/us/pl/102/550/tIX], § 932(c), Oct. 28, 1992, [106 Stat. 3891][/us/stat/106/3891], provided that: 
 
 > “The amendments made by subsections (a) and (b) \[amending this section\] shall apply with respect to information disclosed under section 304 of the Home Mortgage Disclosure Act of 1975 \[this section\] for any year which ends after the date of the enactment of this Act \[Oct. 28, 1992\].”
 
@@ -385,23 +385,23 @@
 [/us/usc/t12/s2809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2809
 [/us/usc/t12/s2809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2809
 [/us/usc/t12/s2809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2809
-[/us/pl/94/200/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F200%2Fs304
+[/us/pl/94/200/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F200%2FtIII
 [/us/stat/89/1125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1125
-[/us/pl/96/399/s340/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs340%2Fa
+[/us/pl/96/399/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2FtIII
 [/us/stat/94/1657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1657
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1266
-[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtV
 [/us/stat/101/1945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1945
-[/us/pl/101/73/s1211/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs1211%2Fa
+[/us/pl/101/73/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtXII
 [/us/stat/103/524-526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F524-526
-[/us/pl/102/242/s212/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs212%2Fa%2F1
+[/us/pl/102/242/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtII
 [/us/stat/105/2299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2299
-[/us/pl/102/550/s932/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs932%2Fa
+[/us/pl/102/550/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtIX
 [/us/stat/106/3889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3889
-[/us/pl/104/208/s2225/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2225%2Fb
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-416
-[/us/pl/111/203/s1094/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1094%2F1
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2097
 [/us/usc/t12/s2808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2808
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
@@ -412,46 +412,46 @@
 [/us/usc/t42/s1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1441
 [/us/usc/t12/s2802/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2802%2F2%2FA
 [/us/usc/t12/s2802/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2802%2F3%2FA
-[/us/pl/111/203/s1094/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1094%2F2%2FA
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2097
-[/us/pl/111/203/s1094/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1094%2F1
-[/us/pl/111/203/s1094/3/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1094%2F3%2FA%2Fi
-[/us/pl/111/203/s1094/3/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1094%2F3%2FA%2Fii
-[/us/pl/111/203/s1094/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1094%2F1
-[/us/pl/111/203/s1094/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1094%2F3%2FB
-[/us/pl/111/203/s1094/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1094%2F3%2FC
-[/us/pl/111/203/s1094/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1094%2F1
-[/us/pl/111/203/s1094/3/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1094%2F3%2FD%2Fii
-[/us/pl/111/203/s1094/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1094%2F1
-[/us/pl/111/203/s1094/3/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1094%2F3%2FD%2Fi
-[/us/pl/111/203/s1094/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1094%2F1
-[/us/pl/111/203/s1094/3/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1094%2F3%2FE
-[/us/pl/111/203/s1094/3/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1094%2F3%2FF
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
-[/us/pl/102/550/s932/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs932%2Fb
-[/us/pl/102/550/s932/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs932%2Fa
-[/us/pl/102/242/s212/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs212%2Fa%2F1%2FA
-[/us/pl/102/242/s212/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs212%2Fa%2F1%2FB
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
+[/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
 [/us/usc/t12/s2802/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2802%2F2%2FA
-[/us/pl/101/73/s1211/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs1211%2Fc%2F1
-[/us/pl/101/73/s1211/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs1211%2Fc%2F2%2FA
-[/us/pl/101/73/s1211/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs1211%2Ff
-[/us/pl/101/73/s1211/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs1211%2Fa
-[/us/pl/101/73/s1211/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs1211%2Fi
-[/us/pl/101/73/s1211/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs1211%2Fc%2F2%2FB
-[/us/pl/101/73/s1211/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs1211%2Fc%2F2%2FC
-[/us/pl/101/73/s1211/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs1211%2Fb
-[/us/pl/101/73/s1211/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs1211%2Fj
-[/us/pl/100/242/s570/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs570%2Fh
-[/us/pl/100/242/s565/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs565%2Fa%2F2
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
 [/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
-[/us/pl/96/399/s340/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs340%2Fa%2F1
-[/us/pl/96/399/s340/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs340%2Fa%2F2
-[/us/pl/96/399/s340/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs340%2Fa%2F3
+[/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
+[/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
+[/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s1100H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100H
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
-[/us/pl/102/550/s932/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs932%2Fc
+[/us/pl/102/550/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtIX
 [/us/stat/106/3891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3891
 [/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
 [/us/pl/101/73/s1211/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs1211%2Fk

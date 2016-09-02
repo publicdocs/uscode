@@ -69,15 +69,15 @@
 
             For each willful violation of paragraph (1), the institution involved shall be subject to a penalty of not more than $100 for each day during which the violation continues, which the Corporation may recover for its use.
 
-([Pub. L. 92–181, title V, § 5][/us/pl/92/181/s5].65, as added [Pub. L. 100–233, title III, § 302][/us/pl/100/233/s302], Jan. 6, 1988, [101 Stat. 1619][/us/stat/101/1619]; amended [Pub. L. 101–624, title XVIII, § 1837][/us/pl/101/624/s1837], Nov. 28, 1990, [104 Stat. 3834][/us/stat/104/3834]; [Pub. L. 102–237, title V, § 502(k)][/us/pl/102/237/s502/k], Dec. 13, 1991, [105 Stat. 1869][/us/stat/105/1869].)
+([Pub. L. 92–181, title V][/us/pl/92/181/tV], § 5.65, as added [Pub. L. 100–233, title III][/us/pl/100/233/tIII], § 302, Jan. 6, 1988, [101 Stat. 1619][/us/stat/101/1619]; amended [Pub. L. 101–624, title XVIII][/us/pl/101/624/tXVIII], § 1837, Nov. 28, 1990, [104 Stat. 3834][/us/stat/104/3834]; [Pub. L. 102–237, title V][/us/pl/102/237/tV], § 502(k), Dec. 13, 1991, [105 Stat. 1869][/us/stat/105/1869].)
 
  __Amendments__ 
 
     1991—Subsec. (d)(1). [Pub. L. 102–237][/us/pl/102/237] struck out “insured” before “System”.
 
-    1990—Subsec. (d)(1). [Pub. L. 101–624, § 1837(1)][/us/pl/101/624/s1837/1], substituted “insured System institution” for “insured System bank”.
+    1990—Subsec. (d)(1). [Pub. L. 101–624][/us/pl/101/624], § 1837(1), substituted “insured System institution” for “insured System bank”.
 
-    Subsec. (d)(2). [Pub. L. 101–624, § 1837(2)][/us/pl/101/624/s1837/2], substituted “institution” for “bank”.
+    Subsec. (d)(2). [Pub. L. 101–624][/us/pl/101/624], § 1837(2), substituted “institution” for “bank”.
 
 ----------
 
@@ -86,15 +86,15 @@
 ----------
 ----------
 
-[/us/pl/92/181/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs5
-[/us/pl/100/233/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs302
+[/us/pl/92/181/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtV
+[/us/pl/100/233/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtIII
 [/us/stat/101/1619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1619
-[/us/pl/101/624/s1837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1837
+[/us/pl/101/624/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXVIII
 [/us/stat/104/3834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3834
-[/us/pl/102/237/s502/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs502%2Fk
+[/us/pl/102/237/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtV
 [/us/stat/105/1869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1869
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
-[/us/pl/101/624/s1837/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1837%2F1
-[/us/pl/101/624/s1837/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1837%2F2
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 
 

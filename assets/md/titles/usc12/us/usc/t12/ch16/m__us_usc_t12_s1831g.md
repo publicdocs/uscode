@@ -45,7 +45,7 @@
 
             Before the end of the 1-year period beginning on August 9, 1989, the Attorney General and the Comptroller General shall submit a report to the Congress on the results of the study conducted pursuant to paragraph (1).
 
-([Sept. 21, 1950, ch. 967, § 2][/us/act/1950-09-21/ch967/s2]\[30\], as added [Pub. L. 101–73, title II, § 225][/us/pl/101/73/s225], Aug. 9, 1989, [103 Stat. 275][/us/stat/103/275]; amended [Pub. L. 103–325, title VI, § 602(a)(59)][/us/pl/103/325/s602/a/59], Sept. 23, 1994, [108 Stat. 2291][/us/stat/108/2291].)
+([Sept. 21, 1950, ch. 967][/us/act/1950-09-21/ch967], § 2\[30\], as added [Pub. L. 101–73, title II][/us/pl/101/73/tII], § 225, Aug. 9, 1989, [103 Stat. 275][/us/stat/103/275]; amended [Pub. L. 103–325, title VI][/us/pl/103/325/tVI], § 602(a)(59), Sept. 23, 1994, [108 Stat. 2291][/us/stat/108/2291].)
 
  __Amendments__ 
 
@@ -59,10 +59,10 @@
 ----------
 
 [/us/usc/t12/s1818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1818
-[/us/act/1950-09-21/ch967/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967%2Fs2
-[/us/pl/101/73/s225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs225
+[/us/act/1950-09-21/ch967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967
+[/us/pl/101/73/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtII
 [/us/stat/103/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F275
-[/us/pl/103/325/s602/a/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs602%2Fa%2F59
+[/us/pl/103/325/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtVI
 [/us/stat/108/2291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2291
 [/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
 

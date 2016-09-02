@@ -27,7 +27,7 @@
 
         Notwithstanding subsections (a) and (b), any order entered or other relief granted by a bankruptcy court prior to the date of appointment of the Corporation as receiver shall continue with the same validity as if an orderly liquidation had not been commenced.
 
-([Pub. L. 111–203, title II, § 208][/us/pl/111/203/s208], July 21, 2010, [124 Stat. 1459][/us/stat/124/1459].)
+([Pub. L. 111–203, title II][/us/pl/111/203/tII], § 208, July 21, 2010, [124 Stat. 1459][/us/stat/124/1459].)
 
  __References in Text__ 
 
@@ -44,7 +44,7 @@
 [/us/usc/t12/s5385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5385
 [/us/usc/t15/s78aaa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78aaa
 [/us/usc/t15/s78aaa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78aaa
-[/us/pl/111/203/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs208
+[/us/pl/111/203/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtII
 [/us/stat/124/1459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1459
 [/us/pl/91/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F598
 [/us/stat/84/1636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1636

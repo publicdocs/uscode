@@ -83,7 +83,7 @@
 
         The requirements of this section shall not supersede any other duty or requirement imposed on the Federal property managers under otherwise applicable law.
 
-([Pub. L. 110–343, div. A, title I, § 110][/us/pl/110/343/s110], Oct. 3, 2008, [122 Stat. 3775][/us/stat/122/3775].)
+([Pub. L. 110–343, div. A, title I][/us/pl/110/343/dA/tI], § 110, Oct. 3, 2008, [122 Stat. 3775][/us/stat/122/3775].)
 
  __References in Text__ 
 
@@ -91,7 +91,7 @@
 
  __Effect of Foreclosure on Preexisting Tenancy__ 
 
-    [Pub. L. 111–22, div. A, title VII, § 702][/us/pl/111/22/s702], May 20, 2009, [123 Stat. 1660][/us/stat/123/1660], as amended by [Pub. L. 111–203, title XIV, § 1484(1)][/us/pl/111/203/s1484/1], July 21, 2010, [124 Stat. 2204][/us/stat/124/2204], which related to the effect of foreclosure on a preexisting tenancy, was repealed by [Pub. L. 111–22, div. A, title VII, § 704][/us/pl/111/22/s704], May 20, 2009, [123 Stat. 1662][/us/stat/123/1662], as amended by [Pub. L. 111–203, title XIV, § 1484(2)][/us/pl/111/203/s1484/2], July 21, 2010, [124 Stat. 2204][/us/stat/124/2204], set out as a Termination Date of 2009 Amendment note under [section 1437f of Title 42][/us/usc/t42/s1437f], The Public Health and Welfare, effective Dec. 31, 2014.
+    [Pub. L. 111–22, div. A, title VII][/us/pl/111/22/dA/tVII], § 702, May 20, 2009, [123 Stat. 1660][/us/stat/123/1660], as amended by [Pub. L. 111–203, title XIV][/us/pl/111/203/tXIV], § 1484(1), July 21, 2010, [124 Stat. 2204][/us/stat/124/2204], which related to the effect of foreclosure on a preexisting tenancy, was repealed by [Pub. L. 111–22, div. A, title VII][/us/pl/111/22/dA/tVII], § 704, May 20, 2009, [123 Stat. 1662][/us/stat/123/1662], as amended by [Pub. L. 111–203, title XIV][/us/pl/111/203/tXIV], § 1484(2), July 21, 2010, [124 Stat. 2204][/us/stat/124/2204], set out as a Termination Date of 2009 Amendment note under [section 1437f of Title 42][/us/usc/t42/s1437f], The Public Health and Welfare, effective Dec. 31, 2014.
 
 ----------
 
@@ -105,17 +105,17 @@
 [/us/usc/t12/s1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813
 [/us/usc/t12/s2605/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2605%2Fi%2F2
 [/us/usc/t12/s1715z–23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715z%E2%80%9323
-[/us/pl/110/343/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs110
+[/us/pl/110/343/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdA%2FtI
 [/us/stat/122/3775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3775
 [/us/usc/t12/s353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs353
 [/us/usc/t12/s353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs353
-[/us/pl/111/22/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs702
+[/us/pl/111/22/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2FdA%2FtVII
 [/us/stat/123/1660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1660
-[/us/pl/111/203/s1484/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1484%2F1
+[/us/pl/111/203/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtXIV
 [/us/stat/124/2204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2204
-[/us/pl/111/22/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs704
+[/us/pl/111/22/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2FdA%2FtVII
 [/us/stat/123/1662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1662
-[/us/pl/111/203/s1484/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1484%2F2
+[/us/pl/111/203/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtXIV
 [/us/stat/124/2204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2204
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 

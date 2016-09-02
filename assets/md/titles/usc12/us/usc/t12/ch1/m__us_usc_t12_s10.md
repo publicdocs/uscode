@@ -17,7 +17,7 @@
 
     The salaries of the Deputy Comptrollers and of all national bank examiners and assistant examiners assigned to duty in the office of the bureau in Washington in connection with the supervision of national banks shall be considered part of the expenses of the examinations provided for by subchapter XV of chapter 3 of this title.
 
-([Mar. 4, 1923, ch. 252][/us/act/1923-03-04/ch252], title II, § 209(b), [42 Stat. 1467][/us/stat/42/1467]; [Pub. L. 86–251, § 1(c)(2)][/us/pl/86/251/s1/c/2], Sept. 9, 1959, [73 Stat. 488][/us/stat/73/488].)
+([Mar. 4, 1923, ch. 252][/us/act/1923-03-04/ch252], title II, § 209(b), [42 Stat. 1467][/us/stat/42/1467]; [Pub. L. 86–251][/us/pl/86/251], § 1(c)(2), Sept. 9, 1959, [73 Stat. 488][/us/stat/73/488].)
 
  __References in Text__ 
 
@@ -40,7 +40,7 @@
 
 [/us/act/1923-03-04/ch252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1923-03-04%2Fch252
 [/us/stat/42/1467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F1467
-[/us/pl/86/251/s1/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F251%2Fs1%2Fc%2F2
+[/us/pl/86/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F251
 [/us/stat/73/488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F488
 [/us/pl/86/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F251
 

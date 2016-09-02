@@ -39,7 +39,7 @@
 
             The Comptroller General may make and retain copies of such books, accounts, and other records, access to which is granted under this section, as the Comptroller General considers appropriate.
 
-([Pub. L. 111–203, title I, § 122][/us/pl/111/203/s122], July 21, 2010, [124 Stat. 1411][/us/stat/124/1411].)
+([Pub. L. 111–203, title I][/us/pl/111/203/tI], § 122, July 21, 2010, [124 Stat. 1411][/us/stat/124/1411].)
 
 ----------
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/111/203/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs122
+[/us/pl/111/203/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtI
 [/us/stat/124/1411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1411
 
 

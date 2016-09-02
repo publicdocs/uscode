@@ -175,7 +175,7 @@
 
                 Not later than 60 days after December 21, 2000, the Secretary shall issue such final regulations as are necessary to carry out this subsection.
 
-([Pub. L. 104–204, title II, § 204][/us/pl/104/204/s204], Sept. 26, 1996, [110 Stat. 2894][/us/stat/110/2894]; [Pub. L. 105–65, title II, § 213][/us/pl/105/65/s213], Oct. 27, 1997, [111 Stat. 1366][/us/stat/111/1366]; [Pub. L. 105–276, title II, § 206][/us/pl/105/276/s206], Oct. 21, 1998, [112 Stat. 2484][/us/stat/112/2484]; [Pub. L. 106–74, title V, § 537][/us/pl/106/74/s537], Oct. 20, 1999, [113 Stat. 1122][/us/stat/113/1122]; [Pub. L. 106–377, § 1(a)(1)][/us/pl/106/377/s1/a/1] \[title II, § 204\], Oct. 27, 2000, [114 Stat. 1441][/us/stat/114/1441], 1441A–24; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title I, § 141\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–614; [Pub. L. 109–171, title II, § 2003(a)][/us/pl/109/171/s2003/a], Feb. 8, 2006, [120 Stat. 9][/us/stat/120/9].)
+([Pub. L. 104–204, title II][/us/pl/104/204/tII], § 204, Sept. 26, 1996, [110 Stat. 2894][/us/stat/110/2894]; [Pub. L. 105–65, title II][/us/pl/105/65/tII], § 213, Oct. 27, 1997, [111 Stat. 1366][/us/stat/111/1366]; [Pub. L. 105–276, title II][/us/pl/105/276/tII], § 206, Oct. 21, 1998, [112 Stat. 2484][/us/stat/112/2484]; [Pub. L. 106–74, title V][/us/pl/106/74/tV], § 537, Oct. 20, 1999, [113 Stat. 1122][/us/stat/113/1122]; [Pub. L. 106–377][/us/pl/106/377], § 1(a)(1) \[title II, § 204\], Oct. 27, 2000, [114 Stat. 1441][/us/stat/114/1441], 1441A–24; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title I, § 141\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–614; [Pub. L. 109–171, title II][/us/pl/109/171/tII], § 2003(a), Feb. 8, 2006, [120 Stat. 9][/us/stat/120/9].)
 
  __Codification__ 
 
@@ -214,19 +214,19 @@
 [/us/usc/t12/s1710/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1710%2Fg
 [/us/usc/t12/s1701z–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701z%E2%80%9311
 [/us/usc/t42/s5302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5302%2Fa
-[/us/pl/104/204/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2Fs204
+[/us/pl/104/204/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2FtII
 [/us/stat/110/2894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2894
-[/us/pl/105/65/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65%2Fs213
+[/us/pl/105/65/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65%2FtII
 [/us/stat/111/1366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1366
-[/us/pl/105/276/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs206
+[/us/pl/105/276/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtII
 [/us/stat/112/2484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2484
-[/us/pl/106/74/s537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F74%2Fs537
+[/us/pl/106/74/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F74%2FtV
 [/us/stat/113/1122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1122
-[/us/pl/106/377/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377%2Fs1%2Fa%2F1
+[/us/pl/106/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377
 [/us/stat/114/1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1441
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/109/171/s2003/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs2003%2Fa
+[/us/pl/109/171/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2FtII
 [/us/stat/120/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F9
 [/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554

@@ -117,7 +117,7 @@
 
             Before taking any action on, or completing its review of, a change proposed by a designated financial market utility, the Supervisory Agency shall consult with the Board of Governors.
 
-([Pub. L. 111–203, title VIII, § 806][/us/pl/111/203/s806], July 21, 2010, [124 Stat. 1811][/us/stat/124/1811].)
+([Pub. L. 111–203, title VIII][/us/pl/111/203/tVIII], § 806, July 21, 2010, [124 Stat. 1811][/us/stat/124/1811].)
 
  __References in Text__ 
 
@@ -140,7 +140,7 @@
 [/us/usc/t12/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs221
 [/us/usc/t12/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs461
 [/us/usc/t12/s5464/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5464%2Fa
-[/us/pl/111/203/s806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs806
+[/us/pl/111/203/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVIII
 [/us/stat/124/1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1811
 [/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
 [/us/stat/38/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F251

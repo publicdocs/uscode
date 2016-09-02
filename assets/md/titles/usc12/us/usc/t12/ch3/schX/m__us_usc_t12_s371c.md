@@ -259,7 +259,7 @@
 
         The Board may issue such regulations or interpretations as the Board determines are necessary or appropriate with respect to the manner in which a netting agreement may be taken into account in determining the amount of a covered transaction between a member bank or a subsidiary and an affiliate, including the extent to which netting agreements between a member bank or a subsidiary and an affiliate may be taken into account in determining whether a covered transaction is fully secured for purposes of subsection (d)(4). An interpretation under this paragraph with respect to a specific member bank, subsidiary, or affiliate shall be issued jointly with the appropriate Federal banking agency for such member bank, subsidiary, or affiliate.
 
-([Dec. 23, 1913, ch. 6, § 23A][/us/act/1913-12-23/ch6/s23A], as added [June 16, 1933, ch. 89, § 13][/us/act/1933-06-16/ch89/s13], [48 Stat. 183][/us/stat/48/183]; amended [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title III, § 327, [49 Stat. 717][/us/stat/49/717]; [June 30, 1954, ch. 434, § 1][/us/act/1954-06-30/ch434/s1], [68 Stat. 358][/us/stat/68/358]; [Pub. L. 86–230, § 1(b)][/us/pl/86/230/s1/b], Sept. 8, 1959, [73 Stat. 457][/us/stat/73/457]; [Pub. L. 89–485][/us/pl/89/485], §§ 12(a), 13(h), July 1, 1966, [80 Stat. 241][/us/stat/80/241], 243; [Pub. L. 97–320, title IV, § 410(b)][/us/pl/97/320/s410/b], Oct. 15, 1982, [96 Stat. 1515][/us/stat/96/1515]; [Pub. L. 97–457, § 22][/us/pl/97/457/s22], Jan. 12, 1983, [96 Stat. 2509][/us/stat/96/2509]; [Pub. L. 106–102, title I, § 121(b)][/us/pl/106/102/s121/b], Nov. 12, 1999, [113 Stat. 1378][/us/stat/113/1378]; [Pub. L. 111–203, title VI][/us/pl/111/203], §§ 608(a), 609(a), July 21, 2010, [124 Stat. 1608][/us/stat/124/1608], 1611.)
+([Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 23A, as added [June 16, 1933, ch. 89][/us/act/1933-06-16/ch89], § 13, [48 Stat. 183][/us/stat/48/183]; amended [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title III, § 327, [49 Stat. 717][/us/stat/49/717]; [June 30, 1954, ch. 434][/us/act/1954-06-30/ch434], § 1, [68 Stat. 358][/us/stat/68/358]; [Pub. L. 86–230][/us/pl/86/230], § 1(b), Sept. 8, 1959, [73 Stat. 457][/us/stat/73/457]; [Pub. L. 89–485][/us/pl/89/485], §§ 12(a), 13(h), July 1, 1966, [80 Stat. 241][/us/stat/80/241], 243; [Pub. L. 97–320, title IV][/us/pl/97/320/tIV], § 410(b), Oct. 15, 1982, [96 Stat. 1515][/us/stat/96/1515]; [Pub. L. 97–457][/us/pl/97/457], § 22, Jan. 12, 1983, [96 Stat. 2509][/us/stat/96/2509]; [Pub. L. 106–102, title I][/us/pl/106/102/tI], § 121(b), Nov. 12, 1999, [113 Stat. 1378][/us/stat/113/1378]; [Pub. L. 111–203, title VI][/us/pl/111/203/tVI], §§ 608(a), 609(a), July 21, 2010, [124 Stat. 1608][/us/stat/124/1608], 1611.)
 
  __References in Text__ 
 
@@ -271,61 +271,61 @@
 
  __Amendments__ 
 
-    2010—Subsec. (b)(1)(D). [Pub. L. 111–203, § 608(a)(1)(A)][/us/pl/111/203/s608/a/1/A], added subpar. (D) and struck out former subpar. (D) which read as follows:
+    2010—Subsec. (b)(1)(D). [Pub. L. 111–203][/us/pl/111/203], § 608(a)(1)(A), added subpar. (D) and struck out former subpar. (D) which read as follows:
 
     “(i) any company, including a real estate investment trust, that is sponsored and advised on a contractual basis by the member bank or any subsidiary or affiliate of the member bank; or
 
     “(ii) any investment company with respect to which a member bank or any affiliate thereof is an investment advisor as defined in [section 80a–2(a)(20) of title 15][/us/usc/t15/s80a–2/a/20]; and”.
 
-    Subsec. (b)(7)(A). [Pub. L. 111–203, § 608(a)(1)(B)(i)][/us/pl/111/203/s608/a/1/B/i], inserted “, including a purchase of assets subject to an agreement to repurchase” before semicolon at end.
+    Subsec. (b)(7)(A). [Pub. L. 111–203][/us/pl/111/203], § 608(a)(1)(B)(i), inserted “, including a purchase of assets subject to an agreement to repurchase” before semicolon at end.
 
-    Subsec. (b)(7)(C). [Pub. L. 111–203, § 608(a)(1)(B)(ii)][/us/pl/111/203/s608/a/1/B/ii], struck out “, including assets subject to an agreement to repurchase,” after “purchase of assets”.
+    Subsec. (b)(7)(C). [Pub. L. 111–203][/us/pl/111/203], § 608(a)(1)(B)(ii), struck out “, including assets subject to an agreement to repurchase,” after “purchase of assets”.
 
-    Subsec. (b)(7)(D). [Pub. L. 111–203, § 608(a)(1)(B)(iii)(I)][/us/pl/111/203/s608/a/1/B/iii/I], inserted “or other debt obligations” after “acceptance of securities”.
+    Subsec. (b)(7)(D). [Pub. L. 111–203][/us/pl/111/203], § 608(a)(1)(B)(iii)(I), inserted “or other debt obligations” after “acceptance of securities”.
 
-    Subsec. (b)(7)(F), (G). [Pub. L. 111–203, § 608(a)(1)(B)(iii)(II)][/us/pl/111/203/s608/a/1/B/iii/II], (iv), added subpars. (F) and (G).
+    Subsec. (b)(7)(F), (G). [Pub. L. 111–203][/us/pl/111/203], § 608(a)(1)(B)(iii)(II), (iv), added subpars. (F) and (G).
 
-    Subsec. (c)(1). [Pub. L. 111–203, § 608(a)(2)(A)(i)][/us/pl/111/203/s608/a/2/A/i], substituted “subsidiary, and any credit exposure of a member bank or a subsidiary to an affiliate resulting from a securities borrowing or lending transaction, or a derivative transaction, shall be secured at all times” for “subsidiary shall be secured at the time of the transaction” in introductory provisions.
+    Subsec. (c)(1). [Pub. L. 111–203][/us/pl/111/203], § 608(a)(2)(A)(i), substituted “subsidiary, and any credit exposure of a member bank or a subsidiary to an affiliate resulting from a securities borrowing or lending transaction, or a derivative transaction, shall be secured at all times” for “subsidiary shall be secured at the time of the transaction” in introductory provisions.
 
-    Subsec. (c)(1)(A) to (D). [Pub. L. 111–203, § 608(a)(2)(A)(ii)][/us/pl/111/203/s608/a/2/A/ii], substituted “letter of credit, or credit exposure” for “or letter of credit”.
+    Subsec. (c)(1)(A) to (D). [Pub. L. 111–203][/us/pl/111/203], § 608(a)(2)(A)(ii), substituted “letter of credit, or credit exposure” for “or letter of credit”.
 
-    Subsec. (c)(2). [Pub. L. 111–203, § 608(a)(2)(D)][/us/pl/111/203/s608/a/2/D], inserted “, or credit exposure to an affiliate resulting from a securities borrowing or lending transaction, or derivative transaction” before period at end.
+    Subsec. (c)(2). [Pub. L. 111–203][/us/pl/111/203], § 608(a)(2)(D), inserted “, or credit exposure to an affiliate resulting from a securities borrowing or lending transaction, or derivative transaction” before period at end.
 
-    [Pub. L. 111–203, § 608(a)(2)(B)][/us/pl/111/203/s608/a/2/B], (C), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “Any such collateral that is subsequently retired or amortized shall be replaced by additional eligible collateral where needed to keep the percentage of the collateral value relative to the amount of the outstanding loan or extension of credit, guarantee, acceptance, or letter of credit equal to the minimum percentage required at the inception of the transaction.”
+    [Pub. L. 111–203][/us/pl/111/203], § 608(a)(2)(B), (C), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “Any such collateral that is subsequently retired or amortized shall be replaced by additional eligible collateral where needed to keep the percentage of the collateral value relative to the amount of the outstanding loan or extension of credit, guarantee, acceptance, or letter of credit equal to the minimum percentage required at the inception of the transaction.”
 
-    Subsec. (c)(3). [Pub. L. 111–203, § 608(a)(2)(E)][/us/pl/111/203/s608/a/2/E], inserted “or other debt obligations” after “securities” and substituted “guarantee, acceptance, or letter of credit issued on behalf of, or credit exposure from a securities borrowing or lending transaction, or derivative transaction to,” for “or guarantee, acceptance, or letter of credit issued on behalf of,”.
+    Subsec. (c)(3). [Pub. L. 111–203][/us/pl/111/203], § 608(a)(2)(E), inserted “or other debt obligations” after “securities” and substituted “guarantee, acceptance, or letter of credit issued on behalf of, or credit exposure from a securities borrowing or lending transaction, or derivative transaction to,” for “or guarantee, acceptance, or letter of credit issued on behalf of,”.
 
-    [Pub. L. 111–203, § 608(a)(2)(C)][/us/pl/111/203/s608/a/2/C], redesignated par. (4) as (3). Former par. (3) redesignated (2).
+    [Pub. L. 111–203][/us/pl/111/203], § 608(a)(2)(C), redesignated par. (4) as (3). Former par. (3) redesignated (2).
 
-    Subsec. (c)(4), (5). [Pub. L. 111–203, § 608(a)(2)(C)][/us/pl/111/203/s608/a/2/C], redesignated par. (5) as (4). Former par. (4) redesignated (3).
+    Subsec. (c)(4), (5). [Pub. L. 111–203][/us/pl/111/203], § 608(a)(2)(C), redesignated par. (5) as (4). Former par. (4) redesignated (3).
 
-    Subsec. (d)(4). [Pub. L. 111–203, § 608(a)(3)][/us/pl/111/203/s608/a/3], substituted “issuing a guarantee, acceptance, or letter of credit on behalf of, or having credit exposure resulting from a securities borrowing or lending transaction, or derivative transaction to,” for “or issuing a guarantee, acceptance, or letter of credit on behalf of,” in introductory provisions.
+    Subsec. (d)(4). [Pub. L. 111–203][/us/pl/111/203], § 608(a)(3), substituted “issuing a guarantee, acceptance, or letter of credit on behalf of, or having credit exposure resulting from a securities borrowing or lending transaction, or derivative transaction to,” for “or issuing a guarantee, acceptance, or letter of credit on behalf of,” in introductory provisions.
 
-    Subsec. (e)(3), (4). [Pub. L. 111–203, § 609(a)][/us/pl/111/203/s609/a], redesignated par. (4) as (3) and struck out former par. (3). Prior to amendment, text of par. (3) read as follows:
+    Subsec. (e)(3), (4). [Pub. L. 111–203][/us/pl/111/203], § 609(a), redesignated par. (4) as (3) and struck out former par. (3). Prior to amendment, text of par. (3) read as follows:
 
     “(A) Exception from limit on covered transactions with any individual financial subsidiary.—Notwithstanding paragraph (2), the restriction contained in subsection (a)(1)(A) of this section shall not apply with respect to covered transactions between a bank and any individual financial subsidiary of the bank.
 
     “(B) Exception for earnings retained by financial subsidiaries.—Notwithstanding paragraph (2) or subsection (b)(7) of this section, a bank’s investment in a financial subsidiary of the bank shall not include retained earnings of the financial subsidiary.”
 
-    Subsec. (f)(2). [Pub. L. 111–203, § 608(a)(4)(A)(iii)][/us/pl/111/203/s608/a/4/A/iii], which directed “striking the Board and inserting” subpar. (A) designation and heading, followed by “The Board”, was executed by inserting subpar. (A) designation and heading before “The Board” as it appeared, to reflect the probable intent of Congress.
+    Subsec. (f)(2). [Pub. L. 111–203][/us/pl/111/203], § 608(a)(4)(A)(iii), which directed “striking the Board and inserting” subpar. (A) designation and heading, followed by “The Board”, was executed by inserting subpar. (A) designation and heading before “The Board” as it appeared, to reflect the probable intent of Congress.
 
-    [Pub. L. 111–203, § 608(a)(4)(A)(ii)][/us/pl/111/203/s608/a/4/A/ii], substituted “if—” for “if it finds such exemptions to be in the public interest and consistent with the purposes of this section.” and added cls. (i) and (ii).
+    [Pub. L. 111–203][/us/pl/111/203], § 608(a)(4)(A)(ii), substituted “if—” for “if it finds such exemptions to be in the public interest and consistent with the purposes of this section.” and added cls. (i) and (ii).
 
-    [Pub. L. 111–203, § 608(a)(4)(A)(i)][/us/pl/111/203/s608/a/4/A/i], struck out “or order” after “regulation”.
+    [Pub. L. 111–203][/us/pl/111/203], § 608(a)(4)(A)(i), struck out “or order” after “regulation”.
 
-    Subsec. (f)(2)(B). [Pub. L. 111–203, § 608(a)(4)(A)(iv)][/us/pl/111/203/s608/a/4/A/iv], added subpar. (B).
+    Subsec. (f)(2)(B). [Pub. L. 111–203][/us/pl/111/203], § 608(a)(4)(A)(iv), added subpar. (B).
 
-    Subsec. (f)(4). [Pub. L. 111–203, § 608(a)(4)(B)][/us/pl/111/203/s608/a/4/B], added par. (4).
+    Subsec. (f)(4). [Pub. L. 111–203][/us/pl/111/203], § 608(a)(4)(B), added par. (4).
 
-    1999—Subsec. (b)(11). [Pub. L. 106–102, § 121(b)(2)][/us/pl/106/102/s121/b/2], added par. (11).
+    1999—Subsec. (b)(11). [Pub. L. 106–102][/us/pl/106/102], § 121(b)(2), added par. (11).
 
-    Subsec. (e). [Pub. L. 106–102, § 121(b)(1)(B)][/us/pl/106/102/s121/b/1/B], added subsec. (e). Former subsec. (e) redesignated (f).
+    Subsec. (e). [Pub. L. 106–102][/us/pl/106/102], § 121(b)(1)(B), added subsec. (e). Former subsec. (e) redesignated (f).
 
-    Subsec. (f). [Pub. L. 106–102, § 121(b)(1)(A)][/us/pl/106/102/s121/b/1/A], (3), redesignated subsec. (e) as (f) and added par. (3).
+    Subsec. (f). [Pub. L. 106–102][/us/pl/106/102], § 121(b)(1)(A), (3), redesignated subsec. (e) as (f) and added par. (3).
 
-    1983—Subsec. (d)(1). [Pub. L. 97–457, § 22(1)][/us/pl/97/457/s22/1], substituted “subject to the prohibition contained in subsection (a)(3)” for “except for the purchase of a low-quality asset which is prohibited”.
+    1983—Subsec. (d)(1). [Pub. L. 97–457][/us/pl/97/457], § 22(1), substituted “subject to the prohibition contained in subsection (a)(3)” for “except for the purchase of a low-quality asset which is prohibited”.
 
-    Subsec. (d)(6). [Pub. L. 97–457, § 22(2)][/us/pl/97/457/s22/2], inserted “, subject to the prohibition contained in subsection (a)(3),” after “market quotation or”.
+    Subsec. (d)(6). [Pub. L. 97–457][/us/pl/97/457], § 22(2), inserted “, subject to the prohibition contained in subsection (a)(3),” after “market quotation or”.
 
     1982—[Pub. L. 97–320][/us/pl/97/320] amended section generally by substituting provisions in lettered subsections relating to restrictions on transactions with affiliates, collateral for such transactions, exemptions for certain transactions and rulemaking and additional exemptions, for prior undesignated paragraphs which read as follows:
 
@@ -351,13 +351,13 @@
 
  __Effective Date of 2010 Amendment__ 
 
-[Pub. L. 111–203, title VI, § 608(d)][/us/pl/111/203/s608/d], July 21, 2010, [124 Stat. 1611][/us/stat/124/1611], provided that: 
+[Pub. L. 111–203, title VI][/us/pl/111/203/tVI], § 608(d), July 21, 2010, [124 Stat. 1611][/us/stat/124/1611], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 371c–1 and 1468 of this title\] shall take effect 1 year after the transfer date.”
 
     \[For definition of “transfer date” as used in [section 608(d) of Pub. L. 111–203][/us/pl/111/203/s608/d], set out above, see [section 5301 of this title][/us/usc/t12/s5301].\]
 
-[Pub. L. 111–203, title VI, § 609(b)][/us/pl/111/203/s609/b], (c), July 21, 2010, [124 Stat. 1611][/us/stat/124/1611], provided that:
+[Pub. L. 111–203, title VI][/us/pl/111/203/tVI], § 609(b), (c), July 21, 2010, [124 Stat. 1611][/us/stat/124/1611], provided that:
 
 >     “(b)  __Prospective Application of Amendment__  __.—__ 
 
@@ -375,7 +375,7 @@
 
  __Effective Date of 1982 Amendment__ 
 
-[Pub. L. 97–320, title IV, § 410(c)][/us/pl/97/320/s410/c], Oct. 15, 1982, [96 Stat. 1520][/us/stat/96/1520], provided that: 
+[Pub. L. 97–320, title IV][/us/pl/97/320/tIV], § 410(c), Oct. 15, 1982, [96 Stat. 1520][/us/stat/96/1520], provided that: 
 
 > “Section 23A of the Federal Reserve Act, as amended by this section \[this section\], shall apply to any transaction entered into after the date of enactment of this Act \[Oct. 15, 1982\], except for transactions which are the subject of a binding written contract or commitment entered into on or before July 28, 1982, and except that any renewal of a participation in a loan outstanding on July 28, 1982, to a company that becomes an affiliate as a result of the enactment of this Act \[see [section 1 of Pub. L. 97–320][/us/pl/97/320/s1], set out as a Short Title of 1982 Amendments note under [section 226 of this title][/us/usc/t12/s226]\], or any participation in a loan to such an affiliate emanating from the renewal of a binding written contract or commitment outstanding on July 28, 1982, shall not be subject to the collateral requirements of this Act.”
 
@@ -394,24 +394,24 @@
 [/us/usc/t12/s371c–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs371c%E2%80%931
 [/us/usc/t12/s371c–1/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs371c%E2%80%931%2Fd%2F1
 [/us/usc/t12/s371c–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs371c%E2%80%931
-[/us/act/1913-12-23/ch6/s23A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs23A
-[/us/act/1933-06-16/ch89/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-16%2Fch89%2Fs13
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
+[/us/act/1933-06-16/ch89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-16%2Fch89
 [/us/stat/48/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F183
 [/us/act/1935-08-23/ch614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch614
 [/us/stat/49/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F717
-[/us/act/1954-06-30/ch434/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-06-30%2Fch434%2Fs1
+[/us/act/1954-06-30/ch434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-06-30%2Fch434
 [/us/stat/68/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F358
-[/us/pl/86/230/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F230%2Fs1%2Fb
+[/us/pl/86/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F230
 [/us/stat/73/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F457
 [/us/pl/89/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F485
 [/us/stat/80/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F241
-[/us/pl/97/320/s410/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs410%2Fb
+[/us/pl/97/320/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2FtIV
 [/us/stat/96/1515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1515
-[/us/pl/97/457/s22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F457%2Fs22
+[/us/pl/97/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F457
 [/us/stat/96/2509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2509
-[/us/pl/106/102/s121/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs121%2Fb
+[/us/pl/106/102/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtI
 [/us/stat/113/1378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1378
-[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVI
 [/us/stat/124/1608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1608
 [/us/pl/97/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320
 [/us/pl/97/320/s410/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs410%2Fc
@@ -422,31 +422,31 @@
 [/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
 [/us/stat/38/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F251
 [/us/usc/t12/s226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs226
-[/us/pl/111/203/s608/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs608%2Fa%2F1%2FA
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/usc/t15/s80a–2/a/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%932%2Fa%2F20
-[/us/pl/111/203/s608/a/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs608%2Fa%2F1%2FB%2Fi
-[/us/pl/111/203/s608/a/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs608%2Fa%2F1%2FB%2Fii
-[/us/pl/111/203/s608/a/1/B/iii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs608%2Fa%2F1%2FB%2Fiii%2FI
-[/us/pl/111/203/s608/a/1/B/iii/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs608%2Fa%2F1%2FB%2Fiii%2FII
-[/us/pl/111/203/s608/a/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs608%2Fa%2F2%2FA%2Fi
-[/us/pl/111/203/s608/a/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs608%2Fa%2F2%2FA%2Fii
-[/us/pl/111/203/s608/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs608%2Fa%2F2%2FD
-[/us/pl/111/203/s608/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs608%2Fa%2F2%2FB
-[/us/pl/111/203/s608/a/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs608%2Fa%2F2%2FE
-[/us/pl/111/203/s608/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs608%2Fa%2F2%2FC
-[/us/pl/111/203/s608/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs608%2Fa%2F2%2FC
-[/us/pl/111/203/s608/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs608%2Fa%2F3
-[/us/pl/111/203/s609/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs609%2Fa
-[/us/pl/111/203/s608/a/4/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs608%2Fa%2F4%2FA%2Fiii
-[/us/pl/111/203/s608/a/4/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs608%2Fa%2F4%2FA%2Fii
-[/us/pl/111/203/s608/a/4/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs608%2Fa%2F4%2FA%2Fi
-[/us/pl/111/203/s608/a/4/A/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs608%2Fa%2F4%2FA%2Fiv
-[/us/pl/111/203/s608/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs608%2Fa%2F4%2FB
-[/us/pl/106/102/s121/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs121%2Fb%2F2
-[/us/pl/106/102/s121/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs121%2Fb%2F1%2FB
-[/us/pl/106/102/s121/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs121%2Fb%2F1%2FA
-[/us/pl/97/457/s22/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F457%2Fs22%2F1
-[/us/pl/97/457/s22/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F457%2Fs22%2F2
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102
+[/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102
+[/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102
+[/us/pl/97/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F457
+[/us/pl/97/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F457
 [/us/pl/97/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320
 [/us/usc/t12/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs601
 [/us/usc/t12/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs611
@@ -456,11 +456,11 @@
 [/us/pl/89/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F485
 [/us/usc/t12/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs24
 [/us/pl/86/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F230
-[/us/pl/111/203/s608/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs608%2Fd
+[/us/pl/111/203/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVI
 [/us/stat/124/1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1611
 [/us/pl/111/203/s608/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs608%2Fd
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301
-[/us/pl/111/203/s609/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs609%2Fb
+[/us/pl/111/203/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVI
 [/us/stat/124/1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1611
 [/us/usc/t12/s371c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs371c
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
@@ -468,7 +468,7 @@
 [/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102
 [/us/pl/106/102/s161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs161
 [/us/usc/t12/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs24
-[/us/pl/97/320/s410/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs410%2Fc
+[/us/pl/97/320/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2FtIV
 [/us/stat/96/1520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1520
 [/us/pl/97/320/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs1
 [/us/usc/t12/s226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs226

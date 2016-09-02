@@ -17,7 +17,7 @@
 
     The Secretary, in consultation with the Administrator of the Small Business Administration, shall issue such regulations and other guidance as the Secretary determines necessary or appropriate to implement this chapter including to define terms, to establish compliance and reporting requirements, and such other terms and conditions necessary to carry out the purposes of this chapter.
 
-([Pub. L. 111–240, title III, § 3010][/us/pl/111/240/s3010], Sept. 27, 2010, [124 Stat. 2581][/us/stat/124/2581].)
+([Pub. L. 111–240, title III][/us/pl/111/240/tIII], § 3010, Sept. 27, 2010, [124 Stat. 2581][/us/stat/124/2581].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/111/240/s3010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs3010
+[/us/pl/111/240/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2FtIII
 [/us/stat/124/2581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2581
 
 

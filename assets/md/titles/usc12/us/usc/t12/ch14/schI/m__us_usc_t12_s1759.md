@@ -151,21 +151,21 @@
 
             The definition prescribed by the Board under paragraph (1) shall apply with respect to any application to form a new credit union, or to alter or expand the field of membership of an existing credit union, that is filed with the Board after August 7, 1998.
 
-([June 26, 1934, ch. 750][/us/act/1934-06-26/ch750], title I, § 109, formerly § 9, [48 Stat. 1219][/us/stat/48/1219]; [July 31, 1946, ch. 711, § 2][/us/act/1946-07-31/ch711/s2], [60 Stat. 744][/us/stat/60/744]; 1947 Reorg. Plan No. 1, § 401, eff. July 1, 1947, 12 F.R. 4534, [61 Stat. 952][/us/stat/61/952]; [June 29, 1948, ch. 711][/us/act/1948-06-29/ch711], §§ 1, 2, [62 Stat. 1091][/us/stat/62/1091]; renumbered § 10 and amended [Pub. L. 86–354, § 1][/us/pl/86/354/s1], Sept. 22, 1959, [73 Stat. 631][/us/stat/73/631]; [Pub. L. 91–206, § 2(1)][/us/pl/91/206/s2/1], Mar. 10, 1970, [84 Stat. 49][/us/stat/84/49]; renumbered title I, § 109, [Pub. L. 91–468, § 1(2)][/us/pl/91/468/s1/2], Oct. 19, 1970, [84 Stat. 994][/us/stat/84/994]; amended [Pub. L. 93–383, title VII, § 722][/us/pl/93/383/s722], Aug. 22, 1974, [88 Stat. 719][/us/stat/88/719]; [Pub. L. 95–630, title V, § 502(b)][/us/pl/95/630/s502/b], Nov. 10, 1978, [92 Stat. 3681][/us/stat/92/3681]; [Pub. L. 105–219, title I][/us/pl/105/219], §§ 101–103, Aug. 7, 1998, [112 Stat. 914–917][/us/stat/112/914-917]; [Pub. L. 109–351, title VII, § 726(9)][/us/pl/109/351/s726/9], Oct. 13, 2006, [120 Stat. 2002][/us/stat/120/2002].)
+([June 26, 1934, ch. 750][/us/act/1934-06-26/ch750], title I, § 109, formerly § 9, [48 Stat. 1219][/us/stat/48/1219]; [July 31, 1946, ch. 711][/us/act/1946-07-31/ch711], § 2, [60 Stat. 744][/us/stat/60/744]; 1947 Reorg. Plan No. 1, § 401, eff. July 1, 1947, 12 F.R. 4534, [61 Stat. 952][/us/stat/61/952]; [June 29, 1948, ch. 711][/us/act/1948-06-29/ch711], §§ 1, 2, [62 Stat. 1091][/us/stat/62/1091]; renumbered § 10 and amended [Pub. L. 86–354][/us/pl/86/354], § 1, Sept. 22, 1959, [73 Stat. 631][/us/stat/73/631]; [Pub. L. 91–206][/us/pl/91/206], § 2(1), Mar. 10, 1970, [84 Stat. 49][/us/stat/84/49]; renumbered title I, § 109, [Pub. L. 91–468][/us/pl/91/468], § 1(2), Oct. 19, 1970, [84 Stat. 994][/us/stat/84/994]; amended [Pub. L. 93–383, title VII][/us/pl/93/383/tVII], § 722, Aug. 22, 1974, [88 Stat. 719][/us/stat/88/719]; [Pub. L. 95–630, title V][/us/pl/95/630/tV], § 502(b), Nov. 10, 1978, [92 Stat. 3681][/us/stat/92/3681]; [Pub. L. 105–219, title I][/us/pl/105/219/tI], §§ 101–103, Aug. 7, 1998, [112 Stat. 914–917][/us/stat/112/914-917]; [Pub. L. 109–351, title VII][/us/pl/109/351/tVII], § 726(9), Oct. 13, 2006, [120 Stat. 2002][/us/stat/120/2002].)
 
  __Amendments__ 
 
     2006—Subsec. (c)(2)(A)(i). [Pub. L. 109–351][/us/pl/109/351] made technical amendment to reference in original act which appears in text as reference to [section 4702(16) of this title][/us/usc/t12/s4702/16].
 
-    1998—Subsec. (a). [Pub. L. 105–219, § 101(1)(A)][/us/pl/105/219/s101/1/A], designated existing provisions as subsec. (a) and inserted heading and “Subject to subsection (b),” before “Federal credit union membership shall consist of”.
+    1998—Subsec. (a). [Pub. L. 105–219][/us/pl/105/219], § 101(1)(A), designated existing provisions as subsec. (a) and inserted heading and “Subject to subsection (b),” before “Federal credit union membership shall consist of”.
 
-    [Pub. L. 105–219, § 101(1)(B)][/us/pl/105/219/s101/1/B], which directed the amendment of subsec. (a) by striking out “, except that Federal credit union membership shall be limited to groups having a common bond of occupation or association, or to groups within a well-defined neighborhood, community, or rural district” after “directors”, was executed by striking out such language which began with a semicolon rather than a comma after “directors” to reflect the probable intent of Congress.
+    [Pub. L. 105–219][/us/pl/105/219], § 101(1)(B), which directed the amendment of subsec. (a) by striking out “, except that Federal credit union membership shall be limited to groups having a common bond of occupation or association, or to groups within a well-defined neighborhood, community, or rural district” after “directors”, was executed by striking out such language which began with a semicolon rather than a comma after “directors” to reflect the probable intent of Congress.
 
-    Subsecs. (b) to (e). [Pub. L. 105–219, § 101(2)][/us/pl/105/219/s101/2], added subsecs. (b) to (e).
+    Subsecs. (b) to (e). [Pub. L. 105–219][/us/pl/105/219], § 101(2), added subsecs. (b) to (e).
 
-    Subsec. (f). [Pub. L. 105–219, § 102][/us/pl/105/219/s102], added subsec. (f).
+    Subsec. (f). [Pub. L. 105–219][/us/pl/105/219], § 102, added subsec. (f).
 
-    Subsec. (g). [Pub. L. 105–219, § 103][/us/pl/105/219/s103], added subsec. (g).
+    Subsec. (g). [Pub. L. 105–219][/us/pl/105/219], § 103, added subsec. (g).
 
     1978—[Pub. L. 95–630][/us/pl/95/630] substituted “Board” for “Administrator”.
 
@@ -183,7 +183,7 @@
 
  __Report and Congressional Review Requirement for Certain Regulations__ 
 
-[Pub. L. 105–219, title II, § 205][/us/pl/105/219/s205], Aug. 7, 1998, [112 Stat. 923][/us/stat/112/923], provided that: 
+[Pub. L. 105–219, title II][/us/pl/105/219/tII], § 205, Aug. 7, 1998, [112 Stat. 923][/us/stat/112/923], provided that: 
 
 > “A regulation prescribed by the Board \[National Credit Union Administration Board\] shall be treated as a major rule for purposes of chapter 8 of title 5, United States Code, if the regulation defines, or amends the definition of—
 
@@ -205,32 +205,32 @@
 [/us/usc/t12/s1786/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1786%2Fb
 [/us/act/1934-06-26/ch750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-26%2Fch750
 [/us/stat/48/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1219
-[/us/act/1946-07-31/ch711/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-31%2Fch711%2Fs2
+[/us/act/1946-07-31/ch711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-31%2Fch711
 [/us/stat/60/744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F744
 [/us/stat/61/952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F952
 [/us/act/1948-06-29/ch711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-29%2Fch711
 [/us/stat/62/1091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1091
-[/us/pl/86/354/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F354%2Fs1
+[/us/pl/86/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F354
 [/us/stat/73/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F631
-[/us/pl/91/206/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F206%2Fs2%2F1
+[/us/pl/91/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F206
 [/us/stat/84/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F49
-[/us/pl/91/468/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F468%2Fs1%2F2
+[/us/pl/91/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F468
 [/us/stat/84/994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F994
-[/us/pl/93/383/s722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs722
+[/us/pl/93/383/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtVII
 [/us/stat/88/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F719
-[/us/pl/95/630/s502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs502%2Fb
+[/us/pl/95/630/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtV
 [/us/stat/92/3681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3681
-[/us/pl/105/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F219
+[/us/pl/105/219/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F219%2FtI
 [/us/stat/112/914-917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F914-917
-[/us/pl/109/351/s726/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs726%2F9
+[/us/pl/109/351/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2FtVII
 [/us/stat/120/2002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2002
 [/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
 [/us/usc/t12/s4702/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4702%2F16
-[/us/pl/105/219/s101/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F219%2Fs101%2F1%2FA
-[/us/pl/105/219/s101/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F219%2Fs101%2F1%2FB
-[/us/pl/105/219/s101/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F219%2Fs101%2F2
-[/us/pl/105/219/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F219%2Fs102
-[/us/pl/105/219/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F219%2Fs103
+[/us/pl/105/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F219
+[/us/pl/105/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F219
+[/us/pl/105/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F219
+[/us/pl/105/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F219
+[/us/pl/105/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F219
 [/us/pl/95/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630
 [/us/pl/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383
 [/us/pl/91/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F206
@@ -238,7 +238,7 @@
 [/us/pl/95/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630
 [/us/pl/95/630/s509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs509
 [/us/usc/t12/s1752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1752
-[/us/pl/105/219/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F219%2Fs205
+[/us/pl/105/219/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F219%2FtII
 [/us/stat/112/923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F923
 [/us/usc/t12/s1759/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1759%2Fe%2F1
 

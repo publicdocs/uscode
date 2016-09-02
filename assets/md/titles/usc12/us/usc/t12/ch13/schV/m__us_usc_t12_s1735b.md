@@ -45,7 +45,7 @@
 
         The Secretary of Housing and Urban Development is authorized and directed to conduct a full and complete investigation and study and report to Congress, with recommendations, not later than March 1, 1977, with respect to an effective program for protecting home buyers from hidden or undisclosed defects seriously affecting the use and livability of the home, which would be applicable to existing homes financed with mortgages insured under this chapter. In the study and report the Secretary shall particularly investigate the need for, cost and feasible structure of, a national home inspection and warranty program, with respect to such homes, to be operated by the Federal Government out of fees assessed on the home buyer and amortized over a period of two years. The Secretary’s report shall also present an analysis of alternative Federal programs to meet these needs, and the cost and means of financing such programs. In the report the Secretary shall also outline administrative steps which can be taken to provide disclosure to purchasers of existing homes financed with mortgages insured under this chapter of the actual condition of the home and the types of repairs or replacements likely to be needed within a period of two years, such as repairs or replacement of furnace, roof or major appliances, based on age and useful life expectancy of such appurtenances.
 
-([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title V, § 518, as added [Pub. L. 88–560, title I, § 121][/us/pl/88/560/s121], Sept. 2, 1964, [78 Stat. 783][/us/stat/78/783]; amended [Pub. L. 90–19, § 1(a)(3)][/us/pl/90/19/s1/a/3], May 25, 1967, [81 Stat. 17][/us/stat/81/17]; [Pub. L. 91–609, title I, § 104][/us/pl/91/609/s104], Dec. 31, 1970, [84 Stat. 1771][/us/stat/84/1771]; [Pub. L. 93–383, title III, § 306][/us/pl/93/383/s306], Aug. 22, 1974, [88 Stat. 678][/us/stat/88/678]; [Pub. L. 94–50, title III, § 302][/us/pl/94/50/s302], July 2, 1975, [89 Stat. 256][/us/stat/89/256]; [Pub. L. 94–375, § 9][/us/pl/94/375/s9], Aug. 3, 1976, [90 Stat. 1072][/us/stat/90/1072]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title IV, § 427\], Nov. 30, 1983, [97 Stat. 1218][/us/stat/97/1218]; [Pub. L. 102–550, title V, § 515][/us/pl/102/550/s515], Oct. 28, 1992, [106 Stat. 3789][/us/stat/106/3789].)
+([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title V, § 518, as added [Pub. L. 88–560, title I][/us/pl/88/560/tI], § 121, Sept. 2, 1964, [78 Stat. 783][/us/stat/78/783]; amended [Pub. L. 90–19][/us/pl/90/19], § 1(a)(3), May 25, 1967, [81 Stat. 17][/us/stat/81/17]; [Pub. L. 91–609, title I][/us/pl/91/609/tI], § 104, Dec. 31, 1970, [84 Stat. 1771][/us/stat/84/1771]; [Pub. L. 93–383, title III][/us/pl/93/383/tIII], § 306, Aug. 22, 1974, [88 Stat. 678][/us/stat/88/678]; [Pub. L. 94–50, title III][/us/pl/94/50/tIII], § 302, July 2, 1975, [89 Stat. 256][/us/stat/89/256]; [Pub. L. 94–375][/us/pl/94/375], § 9, Aug. 3, 1976, [90 Stat. 1072][/us/stat/90/1072]; [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title IV, § 427\], Nov. 30, 1983, [97 Stat. 1218][/us/stat/97/1218]; [Pub. L. 102–550, title V][/us/pl/102/550/tV], § 515, Oct. 28, 1992, [106 Stat. 3789][/us/stat/106/3789].)
 
  __Amendments__ 
 
@@ -53,9 +53,9 @@
 
     1983—Subsec. (a). [Pub. L. 98–181][/us/pl/98/181] substituted “that, before the beginning of construction, was approved for mortgage insurance under this chapter or for guaranty, insurance, or a direct loan under chapter 37 of title 38 and that the Secretary finds” for “approved for mortgage insurance prior to the beginning of construction which he finds”.
 
-    1976—Subsec. (b). [Pub. L. 94–375, § 9(a)][/us/pl/94/375/s9/a], substituted “not more than four months after August 3, 1976” for “not more than 19 months after August 22, 1974”, and provision requiring expenditures be made from the insurance fund chargeable for insurance benefits on the mortgage covering the structure and appropriating sums for expenditures not otherwise covered for provision requiring expenditures be made from the Special Risk Insurance Fund.
+    1976—Subsec. (b). [Pub. L. 94–375][/us/pl/94/375], § 9(a), substituted “not more than four months after August 3, 1976” for “not more than 19 months after August 22, 1974”, and provision requiring expenditures be made from the insurance fund chargeable for insurance benefits on the mortgage covering the structure and appropriating sums for expenditures not otherwise covered for provision requiring expenditures be made from the Special Risk Insurance Fund.
 
-    Subsecs. (d), (e). [Pub. L. 94–375, § 9(b)][/us/pl/94/375/s9/b], added subsecs. (d) and (e).
+    Subsecs. (d), (e). [Pub. L. 94–375][/us/pl/94/375], § 9(b), added subsecs. (d) and (e).
 
     1975—Subsec. (b). [Pub. L. 94–50][/us/pl/94/50] substituted “one, two, three, or four” for “one or two”, and “not more than 19 months” for “not more than one year”.
 
@@ -74,26 +74,26 @@
 
 [/us/usc/t12/s1715z]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715z
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
-[/us/pl/88/560/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F560%2Fs121
+[/us/pl/88/560/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F560%2FtI
 [/us/stat/78/783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F783
-[/us/pl/90/19/s1/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19%2Fs1%2Fa%2F3
+[/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
 [/us/stat/81/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F17
-[/us/pl/91/609/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F609%2Fs104
+[/us/pl/91/609/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F609%2FtI
 [/us/stat/84/1771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1771
-[/us/pl/93/383/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs306
+[/us/pl/93/383/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtIII
 [/us/stat/88/678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F678
-[/us/pl/94/50/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F50%2Fs302
+[/us/pl/94/50/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F50%2FtIII
 [/us/stat/89/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F256
-[/us/pl/94/375/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F375%2Fs9
+[/us/pl/94/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F375
 [/us/stat/90/1072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1072
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1218
-[/us/pl/102/550/s515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs515
+[/us/pl/102/550/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtV
 [/us/stat/106/3789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3789
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
-[/us/pl/94/375/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F375%2Fs9%2Fa
-[/us/pl/94/375/s9/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F375%2Fs9%2Fb
+[/us/pl/94/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F375
+[/us/pl/94/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F375
 [/us/pl/94/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F50
 [/us/pl/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383
 [/us/pl/91/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F609

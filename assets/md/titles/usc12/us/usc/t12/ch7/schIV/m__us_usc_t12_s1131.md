@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t12/ch7/schIV/m__us_usc_t12_ch7_schIV.md) | [Next](./../../../../..//us/usc/t12/ch7/schIV/m__us_usc_t12_s1131a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1131)
 
-## § 1131. Repealed. [Pub. L. 89–554, § 8(a)][/us/pl/89/554/s8/a], Sept. 6, 1966, [80 Stat. 648][/us/stat/80/648]
+## § 1131. Repealed. [Pub. L. 89–554][/us/pl/89/554], § 8(a), Sept. 6, 1966, [80 Stat. 648][/us/stat/80/648]
 
-    Section, acts [June 16, 1933, ch. 98][/us/act/1933-06-16/ch98], title I, § 2, [48 Stat. 257][/us/stat/48/257]; [Aug. 19, 1937, ch. 704, § 11][/us/act/1937-08-19/ch704/s11], [50 Stat. 708][/us/stat/50/708], provided for establishment of twelve Production Credit Corporations, their locations and officers.
+    Section, acts [June 16, 1933, ch. 98][/us/act/1933-06-16/ch98], title I, § 2, [48 Stat. 257][/us/stat/48/257]; [Aug. 19, 1937, ch. 704][/us/act/1937-08-19/ch704], § 11, [50 Stat. 708][/us/stat/50/708], provided for establishment of twelve Production Credit Corporations, their locations and officers.
 
 ----------
 
@@ -24,11 +24,11 @@
 ----------
 ----------
 
-[/us/pl/89/554/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs8%2Fa
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F648
 [/us/act/1933-06-16/ch98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-16%2Fch98
 [/us/stat/48/257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F257
-[/us/act/1937-08-19/ch704/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-19%2Fch704%2Fs11
+[/us/act/1937-08-19/ch704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-19%2Fch704
 [/us/stat/50/708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F708
 
 

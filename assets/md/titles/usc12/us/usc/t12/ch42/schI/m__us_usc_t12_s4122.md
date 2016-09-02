@@ -33,7 +33,7 @@
 
         This section shall not prevent the establishment, continuing in effect, or enforcement of any law or regulation of any State or political subdivision of a State not inconsistent with the provisions of this subchapter, such as any law or regulation relating to building standards, zoning limitations, health, safety, or habitability standards for housing, rent control, or conversion of rental housing to condominium or cooperative ownership, to the extent such law or regulation is of general applicability to both housing receiving Federal assistance and nonassisted housing. This section shall not preempt, annul, or alter any contractual restrictions or obligations existing before November 28, 1990, that prevent or limit an owner of eligible low-income housing from prepaying the mortgage on the housing (or terminating the insurance contract on the housing).
 
-([Pub. L. 100–242, title II, § 232][/us/pl/100/242/s232], as added [Pub. L. 101–625, title VI, § 601(a)][/us/pl/101/625/s601/a], Nov. 28, 1990, [104 Stat. 4273][/us/stat/104/4273]; amended [Pub. L. 102–550, title III, § 311][/us/pl/102/550/s311], Oct. 28, 1992, [106 Stat. 3765][/us/stat/106/3765].)
+([Pub. L. 100–242, title II][/us/pl/100/242/tII], § 232, as added [Pub. L. 101–625, title VI][/us/pl/101/625/tVI], § 601(a), Nov. 28, 1990, [104 Stat. 4273][/us/stat/104/4273]; amended [Pub. L. 102–550, title III][/us/pl/102/550/tIII], § 311, Oct. 28, 1992, [106 Stat. 3765][/us/stat/106/3765].)
 
  __Amendments__ 
 
@@ -49,10 +49,10 @@
 [/us/usc/t12/s4119/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4119%2F1
 [/us/usc/t12/s1715t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715t
 [/us/usc/t12/s4104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4104
-[/us/pl/100/242/s232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs232
-[/us/pl/101/625/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs601%2Fa
+[/us/pl/100/242/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtII
+[/us/pl/101/625/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtVI
 [/us/stat/104/4273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4273
-[/us/pl/102/550/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs311
+[/us/pl/102/550/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtIII
 [/us/stat/106/3765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3765
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 

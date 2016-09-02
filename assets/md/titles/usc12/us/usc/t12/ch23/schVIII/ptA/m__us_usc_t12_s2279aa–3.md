@@ -97,15 +97,15 @@
 
         The Corporation shall have access to the book-entry system of the Federal Reserve System.
 
-([Pub. L. 92–181, title VIII, § 8][/us/pl/92/181/s8].3, as added [Pub. L. 100–233, title VII, § 702][/us/pl/100/233/s702], Jan. 6, 1988, [101 Stat. 1691][/us/stat/101/1691]; amended [Pub. L. 100–399, title VI, § 601(c)][/us/pl/100/399/s601/c], Aug. 17, 1988, [102 Stat. 1005][/us/stat/102/1005]; [Pub. L. 102–237, title V, § 503(c)][/us/pl/102/237/s503/c], Dec. 13, 1991, [105 Stat. 1877][/us/stat/105/1877]; [Pub. L. 102–552, title III, § 308(b)(1)][/us/pl/102/552/s308/b/1], Oct. 28, 1992, [106 Stat. 4116][/us/stat/106/4116]; [Pub. L. 104–105, title I][/us/pl/104/105], §§ 104, 105, Feb. 10, 1996, [110 Stat. 163][/us/stat/110/163].)
+([Pub. L. 92–181, title VIII][/us/pl/92/181/tVIII], § 8.3, as added [Pub. L. 100–233, title VII][/us/pl/100/233/tVII], § 702, Jan. 6, 1988, [101 Stat. 1691][/us/stat/101/1691]; amended [Pub. L. 100–399, title VI][/us/pl/100/399/tVI], § 601(c), Aug. 17, 1988, [102 Stat. 1005][/us/stat/102/1005]; [Pub. L. 102–237, title V][/us/pl/102/237/tV], § 503(c), Dec. 13, 1991, [105 Stat. 1877][/us/stat/105/1877]; [Pub. L. 102–552, title III][/us/pl/102/552/tIII], § 308(b)(1), Oct. 28, 1992, [106 Stat. 4116][/us/stat/106/4116]; [Pub. L. 104–105, title I][/us/pl/104/105/tI], §§ 104, 105, Feb. 10, 1996, [110 Stat. 163][/us/stat/110/163].)
 
  __Amendments__ 
 
-    1996—Subsec. (c)(13) to (15). [Pub. L. 104–105, § 104][/us/pl/104/105/s104], added par. (13) and redesignated former pars. (13) and (14) as (14) and (15), respectively.
+    1996—Subsec. (c)(13) to (15). [Pub. L. 104–105][/us/pl/104/105], § 104, added par. (13) and redesignated former pars. (13) and (14) as (14) and (15), respectively.
 
-    Subsec. (d). [Pub. L. 104–105, § 105(1)][/us/pl/104/105/s105/1], which directed the amendment of subsec. (d) by substituting “shall act as depositories for, and” for “may act as depositories for, or”, was executed by making the substitution for “may act as depositaries for, or” to reflect the probable intent of Congress.
+    Subsec. (d). [Pub. L. 104–105][/us/pl/104/105], § 105(1), which directed the amendment of subsec. (d) by substituting “shall act as depositories for, and” for “may act as depositories for, or”, was executed by making the substitution for “may act as depositaries for, or” to reflect the probable intent of Congress.
 
-    Subsec. (e). [Pub. L. 104–105, § 105(2)][/us/pl/104/105/s105/2], substituted “Corporation shall have access to” for “Secretary of the Treasury may authorize the Corporation to use”.
+    Subsec. (e). [Pub. L. 104–105][/us/pl/104/105], § 105(2), substituted “Corporation shall have access to” for “Secretary of the Treasury may authorize the Corporation to use”.
 
     1992—Subsec. (c)(13). [Pub. L. 102–552][/us/pl/102/552] substituted “2279aa–11(e)” for “2279aa–11(g)”.
 
@@ -127,20 +127,20 @@
 [/us/usc/t12/s2279aa–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2279aa%E2%80%934
 [/us/usc/t12/s2279aa–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2279aa%E2%80%936
 [/us/usc/t12/s2279aa–11/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2279aa%E2%80%9311%2Fe
-[/us/pl/92/181/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs8
-[/us/pl/100/233/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs702
+[/us/pl/92/181/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtVIII
+[/us/pl/100/233/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtVII
 [/us/stat/101/1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1691
-[/us/pl/100/399/s601/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs601%2Fc
+[/us/pl/100/399/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtVI
 [/us/stat/102/1005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1005
-[/us/pl/102/237/s503/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs503%2Fc
+[/us/pl/102/237/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtV
 [/us/stat/105/1877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1877
-[/us/pl/102/552/s308/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2Fs308%2Fb%2F1
+[/us/pl/102/552/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2FtIII
 [/us/stat/106/4116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4116
-[/us/pl/104/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105
+[/us/pl/104/105/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2FtI
 [/us/stat/110/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F163
-[/us/pl/104/105/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2Fs104
-[/us/pl/104/105/s105/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2Fs105%2F1
-[/us/pl/104/105/s105/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2Fs105%2F2
+[/us/pl/104/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105
+[/us/pl/104/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105
+[/us/pl/104/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105
 [/us/pl/102/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 [/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399

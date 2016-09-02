@@ -121,17 +121,17 @@
 
             The Board may grant an exemption or exclusion under this subsection only if, during the 60-day period beginning on the date of receipt of notice of the finding from the Board under paragraph (1)(B), the Federal Deposit Insurance Corporation does not object, in writing, to such exemption or exclusion, based on a determination that the exemption presents an unacceptable risk to the Deposit Insurance Fund.
 
-([Dec. 23, 1913, ch. 6, § 23B][/us/act/1913-12-23/ch6/s23B], as added [Pub. L. 100–86, title I, § 102(a)][/us/pl/100/86/s102/a], Aug. 10, 1987, [101 Stat. 564][/us/stat/101/564]; amended [Pub. L. 106–102, title VII, § 738][/us/pl/106/102/s738], Nov. 12, 1999, [113 Stat. 1480][/us/stat/113/1480]; [Pub. L. 111–203, title VI, § 608(b)][/us/pl/111/203/s608/b], July 21, 2010, [124 Stat. 1610][/us/stat/124/1610].)
+([Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 23B, as added [Pub. L. 100–86, title I][/us/pl/100/86/tI], § 102(a), Aug. 10, 1987, [101 Stat. 564][/us/stat/101/564]; amended [Pub. L. 106–102, title VII][/us/pl/106/102/tVII], § 738, Nov. 12, 1999, [113 Stat. 1480][/us/stat/113/1480]; [Pub. L. 111–203, title VI][/us/pl/111/203/tVI], § 608(b), July 21, 2010, [124 Stat. 1610][/us/stat/124/1610].)
 
  __Amendments__ 
 
-    2010—Subsec. (e). [Pub. L. 111–203, § 608(b)(1)][/us/pl/111/203/s608/b/1]–(4), designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), redesignated former subpars. (A) and (B) of par. (2) as cls. (i) and (ii), respectively, of par. (1)(B), realigned margins, and struck out concluding provisions which read as follows: “if the Board finds such exemptions or exclusions are in the public interest and are consistent with the purposes of this section.”
+    2010—Subsec. (e). [Pub. L. 111–203][/us/pl/111/203], § 608(b)(1)–(4), designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), redesignated former subpars. (A) and (B) of par. (2) as cls. (i) and (ii), respectively, of par. (1)(B), realigned margins, and struck out concluding provisions which read as follows: “if the Board finds such exemptions or exclusions are in the public interest and are consistent with the purposes of this section.”
 
-    Subsec. (e)(1)(B). [Pub. L. 111–203, § 608(b)(5)(A)][/us/pl/111/203/s608/b/5/A], inserted “subject to paragraph (2), if the Board finds that an exemption or exclusion is in the public interest and is consistent with the purposes of this section, and notifies the Federal Deposit Insurance Corporation of such finding,” before “regulations” in introductory provisions.
+    Subsec. (e)(1)(B). [Pub. L. 111–203][/us/pl/111/203], § 608(b)(5)(A), inserted “subject to paragraph (2), if the Board finds that an exemption or exclusion is in the public interest and is consistent with the purposes of this section, and notifies the Federal Deposit Insurance Corporation of such finding,” before “regulations” in introductory provisions.
 
-    Subsec. (e)(1)(B)(ii). [Pub. L. 111–203, § 608(b)(5)(B)][/us/pl/111/203/s608/b/5/B], substituted period for comma at end.
+    Subsec. (e)(1)(B)(ii). [Pub. L. 111–203][/us/pl/111/203], § 608(b)(5)(B), substituted period for comma at end.
 
-    Subsec. (e)(2). [Pub. L. 111–203, § 608(b)(6)][/us/pl/111/203/s608/b/6], added par. (2).
+    Subsec. (e)(2). [Pub. L. 111–203][/us/pl/111/203], § 608(b)(6), added par. (2).
 
     1999—Subsec. (b)(2). [Pub. L. 106–102][/us/pl/106/102] amended text of par. (2) generally. Prior to amendment, text read as follows: “Subparagraph (B) of paragraph (1) shall not apply if the purchase or acquisition of such securities has been approved, before such securities are initially offered for sale to the public, by a majority of the directors of the bank who are not officers or employees of the bank or any affiliate thereof.”
 
@@ -150,17 +150,17 @@
 [/us/usc/t12/s371c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs371c
 [/us/usc/t12/s371c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs371c
 [/us/usc/t12/s371c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs371c
-[/us/act/1913-12-23/ch6/s23B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs23B
-[/us/pl/100/86/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2Fs102%2Fa
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
+[/us/pl/100/86/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2FtI
 [/us/stat/101/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F564
-[/us/pl/106/102/s738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs738
+[/us/pl/106/102/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtVII
 [/us/stat/113/1480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1480
-[/us/pl/111/203/s608/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs608%2Fb
+[/us/pl/111/203/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVI
 [/us/stat/124/1610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1610
-[/us/pl/111/203/s608/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs608%2Fb%2F1
-[/us/pl/111/203/s608/b/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs608%2Fb%2F5%2FA
-[/us/pl/111/203/s608/b/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs608%2Fb%2F5%2FB
-[/us/pl/111/203/s608/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs608%2Fb%2F6
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s608/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs608%2Fd

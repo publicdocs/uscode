@@ -29,11 +29,11 @@
 
         so that consumers can make a meaningful comparison between the competing claims of depository institutions with regard to deposit accounts.
 
-([Pub. L. 102–242, title II, § 262][/us/pl/102/242/s262], Dec. 19, 1991, [105 Stat. 2334][/us/stat/105/2334].)
+([Pub. L. 102–242, title II][/us/pl/102/242/tII], § 262, Dec. 19, 1991, [105 Stat. 2334][/us/stat/105/2334].)
 
  __Short Title__ 
 
-[Pub. L. 102–242, title II, § 261][/us/pl/102/242/s261], Dec. 19, 1991, [105 Stat. 2334][/us/stat/105/2334], provided that: 
+[Pub. L. 102–242, title II][/us/pl/102/242/tII], § 261, Dec. 19, 1991, [105 Stat. 2334][/us/stat/105/2334], provided that: 
 
 > “This subtitle \[subtitle F (§§ 261–274) of title II of [Pub. L. 102–242][/us/pl/102/242], enacting this chapter\] may be cited as the ‘Truth in Savings Act’.”
 
@@ -48,9 +48,9 @@
 ----------
 ----------
 
-[/us/pl/102/242/s262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs262
+[/us/pl/102/242/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtII
 [/us/stat/105/2334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2334
-[/us/pl/102/242/s261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs261
+[/us/pl/102/242/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtII
 [/us/stat/105/2334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2334
 [/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
 [/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242

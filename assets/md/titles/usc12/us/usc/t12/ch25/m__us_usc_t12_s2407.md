@@ -19,7 +19,7 @@
 
     (b) The head of any department, agency, or instrumentality of the United States may detail such personnel and may furnish such services, with or without reimbursement, as the Commission may request to assist it in carrying out its functions.
 
-([Pub. L. 93–495, title II, § 207][/us/pl/93/495/s207], Oct. 28, 1974, [88 Stat. 1510][/us/stat/88/1510].)
+([Pub. L. 93–495, title II][/us/pl/93/495/tII], § 207, Oct. 28, 1974, [88 Stat. 1510][/us/stat/88/1510].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/93/495/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2Fs207
+[/us/pl/93/495/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2FtII
 [/us/stat/88/1510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1510
 
 

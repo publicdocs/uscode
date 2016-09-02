@@ -27,7 +27,7 @@
 
         The terms “home State” and “out-of-State bank” have the same meaning as in section 1831u(f)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title.
 
-([Nov. 7, 1918, ch. 209, § 4][/us/act/1918-11-07/ch209/s4], as added [Pub. L. 103–328, title I, § 102(b)(4)(D)][/us/pl/103/328/s102/b/4/D], Sept. 29, 1994, [108 Stat. 2351][/us/stat/108/2351].)
+([Nov. 7, 1918, ch. 209][/us/act/1918-11-07/ch209], § 4, as added [Pub. L. 103–328, title I][/us/pl/103/328/tI], § 102(b)(4)(D), Sept. 29, 1994, [108 Stat. 2351][/us/stat/108/2351].)
 
  __References in Text__ 
 
@@ -42,8 +42,8 @@
 
 [/us/usc/t12/s1831u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1831u
 [/us/usc/t12/s1831u/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1831u%2Fa%2F3
-[/us/act/1918-11-07/ch209/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-11-07%2Fch209%2Fs4
-[/us/pl/103/328/s102/b/4/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328%2Fs102%2Fb%2F4%2FD
+[/us/act/1918-11-07/ch209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-11-07%2Fch209
+[/us/pl/103/328/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328%2FtI
 [/us/stat/108/2351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2351
 [/us/usc/t12/s1831u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1831u
 

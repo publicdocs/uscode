@@ -31,7 +31,7 @@
 
         The Director shall, promptly upon receipt of a petition regarding a reduction, seek public comment on the reduction for a period of 30 days. The Director shall make a determination regarding any proposed reduction within 30 days after the expiration of such public comment period. The Director may extend such determination period for a single additional 15-day period, but only if the Director requests additional information from the enterprise.
 
-([Pub. L. 102–550, title XIII, § 1334][/us/pl/102/550/s1334], as added [Pub. L. 110–289, div. A, title I, § 1128(b)][/us/pl/110/289/s1128/b], July 30, 2008, [122 Stat. 2701][/us/stat/122/2701].)
+([Pub. L. 102–550, title XIII][/us/pl/102/550/tXIII], § 1334, as added [Pub. L. 110–289, div. A, title I][/us/pl/110/289/dA/tI], § 1128(b), July 30, 2008, [122 Stat. 2701][/us/stat/122/2701].)
 
  __References in Text__ 
 
@@ -39,7 +39,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 4564, [Pub. L. 102–550, title XIII, § 1334][/us/pl/102/550/s1334], Oct. 28, 1992, [106 Stat. 3960][/us/stat/106/3960], related to central cities, rural areas, and other underserved areas housing goal, prior to repeal by [Pub. L. 110–289, div. A, title I, § 1128(a)][/us/pl/110/289/s1128/a], July 30, 2008, [122 Stat. 2696][/us/stat/122/2696].
+    A prior section 4564, [Pub. L. 102–550, title XIII][/us/pl/102/550/tXIII], § 1334, Oct. 28, 1992, [106 Stat. 3960][/us/stat/106/3960], related to central cities, rural areas, and other underserved areas housing goal, prior to repeal by [Pub. L. 110–289, div. A, title I][/us/pl/110/289/dA/tI], § 1128(a), July 30, 2008, [122 Stat. 2696][/us/stat/122/2696].
 
 ----------
 
@@ -50,14 +50,14 @@
 
 [/us/usc/t12/s1716/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1716%2F3
 [/us/usc/t12/s1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1451
-[/us/pl/102/550/s1334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1334
-[/us/pl/110/289/s1128/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1128%2Fb
+[/us/pl/102/550/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIII
+[/us/pl/110/289/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtI
 [/us/stat/122/2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2701
 [/us/pl/91/351/s301/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F351%2Fs301%2Fb%2F3
 [/us/usc/t12/s1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1451
-[/us/pl/102/550/s1334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1334
+[/us/pl/102/550/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIII
 [/us/stat/106/3960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3960
-[/us/pl/110/289/s1128/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1128%2Fa
+[/us/pl/110/289/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtI
 [/us/stat/122/2696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2696
 
 

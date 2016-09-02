@@ -17,7 +17,7 @@
 
     For the purposes of carrying out the provisions of this subchapter and subchapters II and III, the President, in his discretion, is authorized to provide such funds or any portion thereof by allotment to the Secretary from any funds that are available, or may hereafter be made available, to the President for emergency purposes.
 
-([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title I, § 4, [48 Stat. 1247][/us/stat/48/1247]; [June 30, 1947, ch. 166][/us/act/1947-06-30/ch166], title II, § 206(l), [61 Stat. 208][/us/stat/61/208]; [Apr. 20, 1950, ch. 94][/us/act/1950-04-20/ch94], title I, § 122, [64 Stat. 59][/us/stat/64/59]; [Pub. L. 90–19, § 1(a)(3)][/us/pl/90/19/s1/a/3], May 25, 1967, [81 Stat. 17][/us/stat/81/17]; [Pub. L. 98–479, title II, § 204(a)(1)][/us/pl/98/479/s204/a/1], Oct. 17, 1984, [98 Stat. 2231][/us/stat/98/2231].)
+([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title I, § 4, [48 Stat. 1247][/us/stat/48/1247]; [June 30, 1947, ch. 166][/us/act/1947-06-30/ch166], title II, § 206(l), [61 Stat. 208][/us/stat/61/208]; [Apr. 20, 1950, ch. 94][/us/act/1950-04-20/ch94], title I, § 122, [64 Stat. 59][/us/stat/64/59]; [Pub. L. 90–19][/us/pl/90/19], § 1(a)(3), May 25, 1967, [81 Stat. 17][/us/stat/81/17]; [Pub. L. 98–479, title II][/us/pl/98/479/tII], § 204(a)(1), Oct. 17, 1984, [98 Stat. 2231][/us/stat/98/2231].)
 
  __Amendments__ 
 
@@ -42,9 +42,9 @@
 [/us/stat/61/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F208
 [/us/act/1950-04-20/ch94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-04-20%2Fch94
 [/us/stat/64/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F59
-[/us/pl/90/19/s1/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19%2Fs1%2Fa%2F3
+[/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
 [/us/stat/81/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F17
-[/us/pl/98/479/s204/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2Fs204%2Fa%2F1
+[/us/pl/98/479/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2FtII
 [/us/stat/98/2231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2231
 [/us/pl/98/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479
 [/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19

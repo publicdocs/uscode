@@ -17,7 +17,7 @@
 
     Banks becoming members of the Federal reserve system under authority of this subchapter shall be subject to the provisions of this subchapter and to those of this chapter which relate specifically to member banks, but shall not be subject to examination under the provisions of sections 481 and 482 of this title. Subject to the provisions of this chapter and to the regulations of the board made pursuant thereto, any bank becoming a member of the Federal reserve system shall retain its full charter and statutory rights as a State bank or trust company, and may continue to exercise all corporate powers granted it by the State in which it was created, and shall be entitled to all privileges of member banks, except that the Board of Governors of the Federal Reserve System may limit the activities of State member banks and subsidiaries of State member banks in a manner consistent with [section 1831a of this title][/us/usc/t12/s1831a]. No Federal reserve bank shall be permitted to discount for any State bank or trust company notes, drafts, or bills of exchange of any one borrower who is liable for borrowed money to such State bank or trust company in an amount greater than that which could be borrowed lawfully from such State bank or trust company were it a national banking association. The Federal reserve bank, as a condition of the discount of notes, drafts, and bills of exchange for such State bank or trust company, shall require a certificate or guaranty to the effect that the borrower is not liable to such bank in excess of the amount provided by this subchapter, and will not be permitted to become liable in excess of this amount while such notes, drafts, or bills of exchange are under discount with the Federal reserve bank.
 
-([Dec. 23, 1913, ch. 6, § 9][/us/act/1913-12-23/ch6/s9] (par.), as added [June 21, 1917, ch. 32, § 3][/us/act/1917-06-21/ch32/s3], [40 Stat. 234][/us/stat/40/234]; amended [July 1, 1922, ch. 274][/us/act/1922-07-01/ch274], [42 Stat. 821][/us/stat/42/821]; [Pub. L. 102–242, title III, § 303(b)][/us/pl/102/242/s303/b], Dec. 19, 1991, [105 Stat. 2353][/us/stat/105/2353].)
+([Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 9 (par.), as added [June 21, 1917, ch. 32][/us/act/1917-06-21/ch32], § 3, [40 Stat. 234][/us/stat/40/234]; amended [July 1, 1922, ch. 274][/us/act/1922-07-01/ch274], [42 Stat. 821][/us/stat/42/821]; [Pub. L. 102–242, title III][/us/pl/102/242/tIII], § 303(b), Dec. 19, 1991, [105 Stat. 2353][/us/stat/105/2353].)
 
  __References in Text__ 
 
@@ -41,12 +41,12 @@
 ----------
 
 [/us/usc/t12/s1831a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1831a
-[/us/act/1913-12-23/ch6/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs9
-[/us/act/1917-06-21/ch32/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-21%2Fch32%2Fs3
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
+[/us/act/1917-06-21/ch32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-21%2Fch32
 [/us/stat/40/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F234
 [/us/act/1922-07-01/ch274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-07-01%2Fch274
 [/us/stat/42/821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F821
-[/us/pl/102/242/s303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs303%2Fb
+[/us/pl/102/242/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtIII
 [/us/stat/105/2353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2353
 [/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
 [/us/stat/38/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F251

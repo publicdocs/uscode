@@ -77,7 +77,7 @@
 
         The Secretary of the Treasury may prescribe such regulations or other guidance as may be necessary or appropriate to define terms or carry out the authorities or purposes of this section.
 
-([Pub. L. 111–22, div. A, title IV, § 402][/us/pl/111/22/s402], May 20, 2009, [123 Stat. 1656][/us/stat/123/1656].)
+([Pub. L. 111–22, div. A, title IV][/us/pl/111/22/dA/tIV], § 402, May 20, 2009, [123 Stat. 1656][/us/stat/123/1656].)
 
  __References in Text__ 
 
@@ -102,7 +102,7 @@
 [/us/usc/t12/s1823/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1823%2Fc%2F2%2FB
 [/us/usc/t12/s5211/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5211%2Fa%2F1
 [/us/usc/t12/s5201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5201
-[/us/pl/111/22/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs402
+[/us/pl/111/22/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2FdA%2FtIV
 [/us/stat/123/1656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1656
 [/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
 [/us/stat/122/3765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3765

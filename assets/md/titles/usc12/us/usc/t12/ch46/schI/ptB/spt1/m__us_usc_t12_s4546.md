@@ -35,7 +35,7 @@
 
         (2) information collected by the Director under [section 4544(b)(6) of this title][/us/usc/t12/s4544/b/6].
 
-([Pub. L. 102–550, title XIII, § 1326][/us/pl/102/550/s1326], Oct. 28, 1992, [106 Stat. 3955][/us/stat/106/3955]; [Pub. L. 110–289, div. A, title I][/us/pl/110/289], §§ 1122(a)(1), 1127, July 30, 2008, [122 Stat. 2689][/us/stat/122/2689], 2695.)
+([Pub. L. 102–550, title XIII][/us/pl/102/550/tXIII], § 1326, Oct. 28, 1992, [106 Stat. 3955][/us/stat/106/3955]; [Pub. L. 110–289, div. A, title I][/us/pl/110/289/dA/tI], §§ 1122(a)(1), 1127, July 30, 2008, [122 Stat. 2689][/us/stat/122/2689], 2695.)
 
  __References in Text__ 
 
@@ -43,11 +43,11 @@
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–289, § 1122(a)(1)][/us/pl/110/289/s1122/a/1], substituted “Director” for “Secretary” wherever appearing in subsecs. (a) and (b).
+    2008—[Pub. L. 110–289][/us/pl/110/289], § 1122(a)(1), substituted “Director” for “Secretary” wherever appearing in subsecs. (a) and (b).
 
-    Subsec. (a). [Pub. L. 110–289, § 1127(1)][/us/pl/110/289/s1127/1], substituted “Subject to subsection (d), the Director” for “The Director”.
+    Subsec. (a). [Pub. L. 110–289][/us/pl/110/289], § 1127(1), substituted “Subject to subsection (d), the Director” for “The Director”.
 
-    Subsec. (d). [Pub. L. 110–289, § 1127(2)][/us/pl/110/289/s1127/2], added subsec. (d).
+    Subsec. (d). [Pub. L. 110–289][/us/pl/110/289], § 1127(2), added subsec. (d).
 
 ----------
 
@@ -64,15 +64,15 @@
 [/us/usc/t12/s2803/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2803%2Fj
 [/us/usc/t12/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2801
 [/us/usc/t12/s4544/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4544%2Fb%2F6
-[/us/pl/102/550/s1326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1326
+[/us/pl/102/550/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIII
 [/us/stat/106/3955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3955
-[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtI
 [/us/stat/122/2689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2689
 [/us/pl/94/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F200
 [/us/stat/89/1125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1125
 [/us/usc/t12/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2801
-[/us/pl/110/289/s1122/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1122%2Fa%2F1
-[/us/pl/110/289/s1127/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1127%2F1
-[/us/pl/110/289/s1127/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1127%2F2
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
 
 

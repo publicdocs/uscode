@@ -83,15 +83,15 @@
 
     (18) As may be authorized by its board of directors, agree with other Farm Credit System institutions to share loan or other losses, whether to protect against capital impairment or for any other purpose.
 
-([Pub. L. 92–181, title III, § 3][/us/pl/92/181/s3].1, Dec. 10, 1971, [85 Stat. 602][/us/stat/85/602]; [Pub. L. 96–592, title III, § 301][/us/pl/96/592/s301], Dec. 24, 1980, [94 Stat. 3443][/us/stat/94/3443]; [Pub. L. 99–205, title II, § 205(e)(1)][/us/pl/99/205/s205/e/1], Dec. 23, 1985, [99 Stat. 1705][/us/stat/99/1705]; [Pub. L. 100–233, title VIII, § 802(n)][/us/pl/100/233/s802/n], Jan. 6, 1988, [101 Stat. 1712][/us/stat/101/1712]; [Pub. L. 100–399, title IX, § 901(b)][/us/pl/100/399/s901/b], Aug. 17, 1988, [102 Stat. 1007][/us/stat/102/1007]; [Pub. L. 102–552, title V, § 502][/us/pl/102/552/s502], Oct. 28, 1992, [106 Stat. 4130][/us/stat/106/4130]; [Pub. L. 103–376][/us/pl/103/376], §§ 2, 6, Oct. 19, 1994, [108 Stat. 3497][/us/stat/108/3497], 3500; [Pub. L. 107–171, title V, § 5401(a)][/us/pl/107/171/s5401/a], May 13, 2002, [116 Stat. 349][/us/stat/116/349].)
+([Pub. L. 92–181, title III][/us/pl/92/181/tIII], § 3.1, Dec. 10, 1971, [85 Stat. 602][/us/stat/85/602]; [Pub. L. 96–592, title III][/us/pl/96/592/tIII], § 301, Dec. 24, 1980, [94 Stat. 3443][/us/stat/94/3443]; [Pub. L. 99–205, title II][/us/pl/99/205/tII], § 205(e)(1), Dec. 23, 1985, [99 Stat. 1705][/us/stat/99/1705]; [Pub. L. 100–233, title VIII][/us/pl/100/233/tVIII], § 802(n), Jan. 6, 1988, [101 Stat. 1712][/us/stat/101/1712]; [Pub. L. 100–399, title IX][/us/pl/100/399/tIX], § 901(b), Aug. 17, 1988, [102 Stat. 1007][/us/stat/102/1007]; [Pub. L. 102–552, title V][/us/pl/102/552/tV], § 502, Oct. 28, 1992, [106 Stat. 4130][/us/stat/106/4130]; [Pub. L. 103–376][/us/pl/103/376], §§ 2, 6, Oct. 19, 1994, [108 Stat. 3497][/us/stat/108/3497], 3500; [Pub. L. 107–171, title V][/us/pl/107/171/tV], § 5401(a), May 13, 2002, [116 Stat. 349][/us/stat/116/349].)
 
  __Amendments__ 
 
     2002—Par. (11)(B)(iii), (iv). [Pub. L. 107–171][/us/pl/107/171] redesignated cl. (iv) as (iii) and struck out former cl. (iii) which read as follows: “With respect to similar entities that are eligible to borrow from a Farm Credit Bank or association under subchapter I or II of this chapter, the authority of a bank for cooperatives to participate in loans to the entities under this subparagraph shall be subject to the prior approval of the Farm Credit Bank or Banks in whose chartered territory the entity is eligible to borrow. The approval may be granted on an annual basis and under such terms and conditions as may be agreed on between the bank for cooperatives and the Farm Credit Bank or Banks that serve the territory.”
 
-    1994—Par. (11)(B)(i)(I)(bb). [Pub. L. 103–376, § 6][/us/pl/103/376/s6], substituted “other Farm Credit System institutions” for “the other banks for cooperatives under this subparagraph” and “all Farm Credit System institutions” for “all banks for cooperatives”.
+    1994—Par. (11)(B)(i)(I)(bb). [Pub. L. 103–376][/us/pl/103/376], § 6, substituted “other Farm Credit System institutions” for “the other banks for cooperatives under this subparagraph” and “all Farm Credit System institutions” for “all banks for cooperatives”.
 
-    Par. (11)(B)(iv). [Pub. L. 103–376, § 2][/us/pl/103/376/s2], added cl. (iv).
+    Par. (11)(B)(iv). [Pub. L. 103–376][/us/pl/103/376], § 2, added cl. (iv).
 
     1992—Par. (11). [Pub. L. 102–552][/us/pl/102/552] designated existing provisions as subpar. (A) and added subpar. (B).
 
@@ -105,13 +105,13 @@
 
     Pars. (16) to (19). [Pub. L. 99–205][/us/pl/99/205] struck out par. (16) respecting power of bank for cooperatives to perform any function delegated to it by the Farm Credit Administration, and redesignated pars. (17) to (19) as (16) to (18), respectively.
 
-    1980—Par. (11). [Pub. L. 96–592, § 301(1)][/us/pl/96/592/s301/1], inserted provisions respecting participation with one or more other Farm Credit System institutions in loans.
+    1980—Par. (11). [Pub. L. 96–592][/us/pl/96/592], § 301(1), inserted provisions respecting participation with one or more other Farm Credit System institutions in loans.
 
-    Par. (12). [Pub. L. 96–592, § 301(2)][/us/pl/96/592/s301/2], inserted applicability to any insured State nonmember bank and to other domestic or foreign financial organizations.
+    Par. (12). [Pub. L. 96–592][/us/pl/96/592], § 301(2), inserted applicability to any insured State nonmember bank and to other domestic or foreign financial organizations.
 
-    Par. (13). [Pub. L. 96–592, § 301(3)][/us/pl/96/592/s301/3], designated existing provisions as subpar. (A) and added subpars. (B) and (C).
+    Par. (13). [Pub. L. 96–592][/us/pl/96/592], § 301(3), designated existing provisions as subpar. (A) and added subpars. (B) and (C).
 
-    Pars. (18), (19). [Pub. L. 96–592, § 301(4)][/us/pl/96/592/s301/4], added pars. (18) and (19).
+    Pars. (18), (19). [Pub. L. 96–592][/us/pl/96/592], § 301(4), added pars. (18) and (19).
 
  __Effective Date of 1988 Amendment__ 
 
@@ -135,25 +135,25 @@
 [/us/usc/t12/s2128/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2128%2Fb
 [/us/usc/t12/s2128/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2128%2Fb
 [/us/usc/t12/s2128/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2128%2Fb
-[/us/pl/92/181/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs3
+[/us/pl/92/181/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtIII
 [/us/stat/85/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F602
-[/us/pl/96/592/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592%2Fs301
+[/us/pl/96/592/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592%2FtIII
 [/us/stat/94/3443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3443
-[/us/pl/99/205/s205/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2Fs205%2Fe%2F1
+[/us/pl/99/205/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2FtII
 [/us/stat/99/1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1705
-[/us/pl/100/233/s802/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs802%2Fn
+[/us/pl/100/233/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtVIII
 [/us/stat/101/1712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1712
-[/us/pl/100/399/s901/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs901%2Fb
+[/us/pl/100/399/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtIX
 [/us/stat/102/1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1007
-[/us/pl/102/552/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2Fs502
+[/us/pl/102/552/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2FtV
 [/us/stat/106/4130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4130
 [/us/pl/103/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F376
 [/us/stat/108/3497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3497
-[/us/pl/107/171/s5401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs5401%2Fa
+[/us/pl/107/171/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtV
 [/us/stat/116/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F349
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
-[/us/pl/103/376/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F376%2Fs6
-[/us/pl/103/376/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F376%2Fs2
+[/us/pl/103/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F376
+[/us/pl/103/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F376
 [/us/pl/102/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552
 [/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/usc/t12/s1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813
@@ -162,10 +162,10 @@
 [/us/pl/99/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205
 [/us/pl/99/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205
 [/us/pl/99/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205
-[/us/pl/96/592/s301/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592%2Fs301%2F1
-[/us/pl/96/592/s301/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592%2Fs301%2F2
-[/us/pl/96/592/s301/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592%2Fs301%2F3
-[/us/pl/96/592/s301/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592%2Fs301%2F4
+[/us/pl/96/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592
+[/us/pl/96/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592
+[/us/pl/96/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592
+[/us/pl/96/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592
 [/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
 [/us/pl/100/399/s1001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs1001%2Fa

@@ -117,7 +117,7 @@
 
         Each mortgage licensee shall submit to the Nationwide Mortgage Licensing System and Registry reports of condition, which shall be in such form and shall contain such information as the Nationwide Mortgage Licensing System and Registry may require.
 
-([Pub. L. 110–289, div. A, title V, § 1505][/us/pl/110/289/s1505], July 30, 2008, [122 Stat. 2814][/us/stat/122/2814].)
+([Pub. L. 110–289, div. A, title V][/us/pl/110/289/dA/tV], § 1505, July 30, 2008, [122 Stat. 2814][/us/stat/122/2814].)
 
 ----------
 
@@ -128,7 +128,7 @@
 
 [/us/usc/t15/s1681a/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681a%2Fp
 [/us/usc/t12/s5107/d/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5107%2Fd%2F6
-[/us/pl/110/289/s1505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1505
+[/us/pl/110/289/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtV
 [/us/stat/122/2814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2814
 
 

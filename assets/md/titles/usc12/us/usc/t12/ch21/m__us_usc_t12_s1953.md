@@ -31,11 +31,11 @@
 
         The Secretary shall permit an uninsured bank or financial institution to retain or maintain records referred to in subsection (a) in electronic or automated form, subject to terms and conditions established by the Secretary.
 
-([Pub. L. 91–508, title I, § 123][/us/pl/91/508/s123], Oct. 26, 1970, [84 Stat. 1116][/us/stat/84/1116]; [Pub. L. 100–690, title VI, § 6185(d)(3)(A)][/us/pl/100/690/s6185/d/3/A], Nov. 18, 1988, [102 Stat. 4357][/us/stat/102/4357]; [Pub. L. 103–325, title III, § 310][/us/pl/103/325/s310], Sept. 23, 1994, [108 Stat. 2221][/us/stat/108/2221]; [Pub. L. 107–56, title III, § 358(e)][/us/pl/107/56/s358/e], Oct. 26, 2001, [115 Stat. 327][/us/stat/115/327]; [Pub. L. 108–458, title VI, § 6202(k)][/us/pl/108/458/s6202/k], Dec. 17, 2004, [118 Stat. 3746][/us/stat/118/3746].)
+([Pub. L. 91–508, title I][/us/pl/91/508/tI], § 123, Oct. 26, 1970, [84 Stat. 1116][/us/stat/84/1116]; [Pub. L. 100–690, title VI][/us/pl/100/690/tVI], § 6185(d)(3)(A), Nov. 18, 1988, [102 Stat. 4357][/us/stat/102/4357]; [Pub. L. 103–325, title III][/us/pl/103/325/tIII], § 310, Sept. 23, 1994, [108 Stat. 2221][/us/stat/108/2221]; [Pub. L. 107–56, title III][/us/pl/107/56/tIII], § 358(e), Oct. 26, 2001, [115 Stat. 327][/us/stat/115/327]; [Pub. L. 108–458, title VI][/us/pl/108/458/tVI], § 6202(k), Dec. 17, 2004, [118 Stat. 3746][/us/stat/118/3746].)
 
  __References in Text__ 
 
-    [Section 1724 of this title][/us/usc/t12/s1724], referred to in subsec. (b), was repealed by [Pub. L. 101–73, title IV, § 407][/us/pl/101/73/s407], Aug. 9, 1989, [103 Stat. 363][/us/stat/103/363].
+    [Section 1724 of this title][/us/usc/t12/s1724], referred to in subsec. (b), was repealed by [Pub. L. 101–73, title IV][/us/pl/101/73/tIV], § 407, Aug. 9, 1989, [103 Stat. 363][/us/stat/103/363].
 
  __Amendments__ 
 
@@ -75,18 +75,18 @@
 [/us/usc/t12/s1829b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1829b
 [/us/usc/t31/s5312/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5312%2Fa%2F2
 [/us/usc/t12/s1813/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813%2Fh
-[/us/pl/91/508/s123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508%2Fs123
+[/us/pl/91/508/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508%2FtI
 [/us/stat/84/1116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1116
-[/us/pl/100/690/s6185/d/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6185%2Fd%2F3%2FA
+[/us/pl/100/690/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVI
 [/us/stat/102/4357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4357
-[/us/pl/103/325/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs310
+[/us/pl/103/325/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtIII
 [/us/stat/108/2221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2221
-[/us/pl/107/56/s358/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs358%2Fe
+[/us/pl/107/56/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtIII
 [/us/stat/115/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F327
-[/us/pl/108/458/s6202/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6202%2Fk
+[/us/pl/108/458/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVI
 [/us/stat/118/3746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3746
 [/us/usc/t12/s1724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1724
-[/us/pl/101/73/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs407
+[/us/pl/101/73/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtIV
 [/us/stat/103/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F363
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56

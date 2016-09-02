@@ -23,7 +23,7 @@
 
     This Act, referred to in text, is [act Mar. 9, 1933, ch. 1][/us/act/1933-03-09/ch1], [48 Stat. 1][/us/stat/48/1], popularly known as the Emergency Banking and Bank Conservation Act, which is classified to sections 51a, 51b, 51c, 51d, 95, 201 to 212, 248, 347b, 347c, 347d, and 445 of this title and [section 4305 of Title 50][/us/usc/t50/s4305], War and National Defense, and classified as a note under [section 4305 of Title 50][/us/usc/t50/s4305].
 
-    [Section 51d of this title][/us/usc/t12/s51d] was repealed by [act June 30, 1947, ch. 166][/us/act/1947-06-30/ch166], title II, § 206(b), (o), [61 Stat. 208][/us/stat/61/208]. For effect of the repeal on outstanding debentures held by banks, see References in Text note set out under [section 51b–1 of this title][/us/usc/t12/s51b–1].
+    [Section 51d of this title][/us/usc/t12/s51d] was repealed by [act June 30, 1947, ch. 166, title II][/us/act/1947-06-30/ch166/tII], § 206(b), (o), [61 Stat. 208][/us/stat/61/208]. For effect of the repeal on outstanding debentures held by banks, see References in Text note set out under [section 51b–1 of this title][/us/usc/t12/s51b–1].
 
  __Codification__ 
 
@@ -43,7 +43,7 @@
 [/us/usc/t50/s4305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4305
 [/us/usc/t50/s4305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4305
 [/us/usc/t12/s51d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs51d
-[/us/act/1947-06-30/ch166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-30%2Fch166
+[/us/act/1947-06-30/ch166/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-30%2Fch166%2FtII
 [/us/stat/61/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F208
 [/us/usc/t12/s51b–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs51b%E2%80%931
 [/us/act/1933-03-09/ch1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-03-09%2Fch1

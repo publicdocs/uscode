@@ -55,7 +55,7 @@
 
         The financial statements of the Fund shall be audited in accordance with [section 9105 of title 31][/us/usc/t31/s9105], except that audits required by section 9105(a) of such title shall be performed annually.
 
-([Pub. L. 103–325, title I, § 117][/us/pl/103/325/s117], Sept. 23, 1994, [108 Stat. 2187][/us/stat/108/2187]; [Pub. L. 110–289, div. A, title II, § 1216(b)][/us/pl/110/289/s1216/b], July 30, 2008, [122 Stat. 2792][/us/stat/122/2792].)
+([Pub. L. 103–325, title I][/us/pl/103/325/tI], § 117, Sept. 23, 1994, [108 Stat. 2187][/us/stat/108/2187]; [Pub. L. 110–289, div. A, title II][/us/pl/110/289/dA/tII], § 1216(b), July 30, 2008, [122 Stat. 2792][/us/stat/122/2792].)
 
  __Amendments__ 
 
@@ -69,9 +69,9 @@
 ----------
 
 [/us/usc/t31/s9105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9105
-[/us/pl/103/325/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs117
+[/us/pl/103/325/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtI
 [/us/stat/108/2187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2187
-[/us/pl/110/289/s1216/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1216%2Fb
+[/us/pl/110/289/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtII
 [/us/stat/122/2792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2792
 [/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
 

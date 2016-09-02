@@ -17,7 +17,7 @@
 
     There is established the National Commission on Electronic Fund Transfers (hereinafter referred to as the “Commission”) which shall be an independent instrumentality of the United States.
 
-([Pub. L. 93–495, title II, § 201][/us/pl/93/495/s201], Oct. 28, 1974, [88 Stat. 1508][/us/stat/88/1508].)
+([Pub. L. 93–495, title II][/us/pl/93/495/tII], § 201, Oct. 28, 1974, [88 Stat. 1508][/us/stat/88/1508].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/93/495/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2Fs201
+[/us/pl/93/495/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2FtII
 [/us/stat/88/1508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1508
 
 

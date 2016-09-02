@@ -139,7 +139,7 @@
 
         To the extent that any provision of this section is inconsistent with any other provision of this chapter (other than [section 2162 of this title][/us/usc/t12/s2162]), the provision of this section shall control.
 
-([Pub. L. 92–181, title IV, § 4][/us/pl/92/181/s4].3A, as added [Pub. L. 100–233, title III, § 301(b)][/us/pl/100/233/s301/b], Jan. 6, 1988, [101 Stat. 1608][/us/stat/101/1608]; amended [Pub. L. 100–399, title III, § 301(b)][/us/pl/100/399/s301/b]–(f), Aug. 17, 1988, [102 Stat. 994][/us/stat/102/994]; [Pub. L. 102–552, title I, § 101][/us/pl/102/552/s101], Oct. 28, 1992, [106 Stat. 4103][/us/stat/106/4103]; [Pub. L. 104–105, title II, § 206][/us/pl/104/105/s206], Feb. 10, 1996, [110 Stat. 173][/us/stat/110/173]; [Pub. L. 110–234, title V, § 5403(b)][/us/pl/110/234/s5403/b], May 22, 2008, [122 Stat. 1154][/us/stat/122/1154]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title V, § 5403(b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1916.)
+([Pub. L. 92–181, title IV][/us/pl/92/181/tIV], § 4.3A, as added [Pub. L. 100–233, title III][/us/pl/100/233/tIII], § 301(b), Jan. 6, 1988, [101 Stat. 1608][/us/stat/101/1608]; amended [Pub. L. 100–399, title III][/us/pl/100/399/tIII], § 301(b)–(f), Aug. 17, 1988, [102 Stat. 994][/us/stat/102/994]; [Pub. L. 102–552, title I][/us/pl/102/552/tI], § 101, Oct. 28, 1992, [106 Stat. 4103][/us/stat/106/4103]; [Pub. L. 104–105, title II][/us/pl/104/105/tII], § 206, Feb. 10, 1996, [110 Stat. 173][/us/stat/110/173]; [Pub. L. 110–234, title V][/us/pl/110/234/tV], § 5403(b), May 22, 2008, [122 Stat. 1154][/us/stat/122/1154]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title V, § 5403(b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1916.)
 
  __Codification__ 
 
@@ -147,7 +147,7 @@
 
  __Amendments__ 
 
-    2008—Subsec. (c)(1)(D)(ii) to (iv). [Pub. L. 110–246, § 5403(b)][/us/pl/110/246/s5403/b], added cl. (ii) and redesignated former cls. (ii) and (iii) as (iii) and (iv), respectively.
+    2008—Subsec. (c)(1)(D)(ii) to (iv). [Pub. L. 110–246][/us/pl/110/246], § 5403(b), added cl. (ii) and redesignated former cls. (ii) and (iii) as (iii) and (iv), respectively.
 
     1996—Subsecs. (f) to (h). [Pub. L. 104–105][/us/pl/104/105] added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
 
@@ -157,17 +157,17 @@
 
     “(B) is protected under [section 2162 of this title][/us/usc/t12/s2162] or is otherwise not at risk.”
 
-    1988—Subsec. (a)(1)(B). [Pub. L. 100–399, § 301(b)][/us/pl/100/399/s301/b], substituted “[section 2162 of this title][/us/usc/t12/s2162]” for “section 4.9B”.
+    1988—Subsec. (a)(1)(B). [Pub. L. 100–399][/us/pl/100/399], § 301(b), substituted “[section 2162 of this title][/us/usc/t12/s2162]” for “section 4.9B”.
 
-    Subsec. (c)(1)(D)(i). [Pub. L. 100–399, § 301(c)(1)][/us/pl/100/399/s301/c/1], substituted “producers or” for “producers, or”.
+    Subsec. (c)(1)(D)(i). [Pub. L. 100–399][/us/pl/100/399], § 301(c)(1), substituted “producers or” for “producers, or”.
 
-    Subsec. (c)(1)(G). [Pub. L. 100–399, § 301(c)(2)][/us/pl/100/399/s301/c/2], substituted “voting stock issued” for “stock issued”.
+    Subsec. (c)(1)(G). [Pub. L. 100–399][/us/pl/100/399], § 301(c)(2), substituted “voting stock issued” for “stock issued”.
 
-    Subsec. (c)(1)(H). [Pub. L. 100–399, § 301(d)][/us/pl/100/399/s301/d], inserted “, except as otherwise provided in this section” after “the borrower”.
+    Subsec. (c)(1)(H). [Pub. L. 100–399][/us/pl/100/399], § 301(d), inserted “, except as otherwise provided in this section” after “the borrower”.
 
-    Subsec. (c)(1)(I). [Pub. L. 100–399, § 301(e)][/us/pl/100/399/s301/e], struck out “standards issued under” after “established under”.
+    Subsec. (c)(1)(I). [Pub. L. 100–399][/us/pl/100/399], § 301(e), struck out “standards issued under” after “established under”.
 
-    Subsec. (d)(1). [Pub. L. 100–399, § 301(f)][/us/pl/100/399/s301/f], struck out “and in [section 2162 of this title][/us/usc/t12/s2162]” after “paragraph (2)” and “or allocated equities” after “retirement of stock”.
+    Subsec. (d)(1). [Pub. L. 100–399][/us/pl/100/399], § 301(f), struck out “and in [section 2162 of this title][/us/usc/t12/s2162]” after “paragraph (2)” and “or allocated equities” after “retirement of stock”.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -190,34 +190,34 @@
 [/us/usc/t12/s2154/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2154%2Fa
 [/us/usc/t12/s2154/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2154%2Fa
 [/us/usc/t12/s2162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2162
-[/us/pl/92/181/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs4
-[/us/pl/100/233/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs301%2Fb
+[/us/pl/92/181/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtIV
+[/us/pl/100/233/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtIII
 [/us/stat/101/1608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1608
-[/us/pl/100/399/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs301%2Fb
+[/us/pl/100/399/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtIII
 [/us/stat/102/994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F994
-[/us/pl/102/552/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2Fs101
+[/us/pl/102/552/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2FtI
 [/us/stat/106/4103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4103
-[/us/pl/104/105/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2Fs206
+[/us/pl/104/105/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2FtII
 [/us/stat/110/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F173
-[/us/pl/110/234/s5403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs5403%2Fb
+[/us/pl/110/234/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtV
 [/us/stat/122/1154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1154
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s5403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs5403%2Fb
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/104/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105
 [/us/pl/102/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552
 [/us/usc/t12/s2162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2162
-[/us/pl/100/399/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs301%2Fb
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/usc/t12/s2162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2162
-[/us/pl/100/399/s301/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs301%2Fc%2F1
-[/us/pl/100/399/s301/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs301%2Fc%2F2
-[/us/pl/100/399/s301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs301%2Fd
-[/us/pl/100/399/s301/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs301%2Fe
-[/us/pl/100/399/s301/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs301%2Ff
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/usc/t12/s2162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2162
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

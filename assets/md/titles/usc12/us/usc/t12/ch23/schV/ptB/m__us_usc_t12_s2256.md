@@ -17,7 +17,7 @@
 
     Any organization other than State banks, trust companies, and savings associations shall, as a condition precedent to securing discount privileges with a bank of the Farm Credit System, file with such bank its written consent to examination by farm credit examiners as may be directed by the Farm Credit Administration; and State banks, trust companies, and savings associations may be required in like manner to file a written consent that reports of their examination by constituted State authorities may be furnished by such authorities upon the request of the Farm Credit Administration.
 
-([Pub. L. 92–181, title V, § 5][/us/pl/92/181/s5].21, formerly § 5.22, Dec. 10, 1971, [85 Stat. 623][/us/stat/85/623]; renumbered § 5.21, [Pub. L. 99–205, title II, § 203(b)][/us/pl/99/205/s203/b], Dec. 23, 1985, [99 Stat. 1694][/us/stat/99/1694].)
+([Pub. L. 92–181, title V][/us/pl/92/181/tV], § 5.21, formerly § 5.22, Dec. 10, 1971, [85 Stat. 623][/us/stat/85/623]; renumbered § 5.21, [Pub. L. 99–205, title II][/us/pl/99/205/tII], § 203(b), Dec. 23, 1985, [99 Stat. 1694][/us/stat/99/1694].)
 
  __Prior Provisions__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/92/181/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs5
+[/us/pl/92/181/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtV
 [/us/stat/85/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F623
-[/us/pl/99/205/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2Fs203%2Fb
+[/us/pl/99/205/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2FtII
 [/us/stat/99/1694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1694
 [/us/pl/92/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181
 [/us/usc/t12/s2255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2255

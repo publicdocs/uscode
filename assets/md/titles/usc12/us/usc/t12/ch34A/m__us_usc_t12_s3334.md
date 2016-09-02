@@ -17,7 +17,7 @@
 
     The Chairperson of the Appraisal Subcommittee shall appoint such officers and staff as may be necessary to carry out the functions of this chapter consistent with the appointment and compensation practices of the Council.
 
-([Pub. L. 101–73, title XI, § 1105][/us/pl/101/73/s1105], Aug. 9, 1989, [103 Stat. 512][/us/stat/103/512].)
+([Pub. L. 101–73, title XI][/us/pl/101/73/tXI], § 1105, Aug. 9, 1989, [103 Stat. 512][/us/stat/103/512].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/101/73/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs1105
+[/us/pl/101/73/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtXI
 [/us/stat/103/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F512
 
 

@@ -67,7 +67,7 @@
 
         (2) avoid duplication of examination activities, reporting requirements, and requests for information, to the fullest extent possible.
 
-([Pub. L. 111–203, title I, § 161][/us/pl/111/203/s161], July 21, 2010, [124 Stat. 1420][/us/stat/124/1420].)
+([Pub. L. 111–203, title I][/us/pl/111/203/tI], § 161, July 21, 2010, [124 Stat. 1420][/us/stat/124/1420].)
 
  __References in Text__ 
 
@@ -80,7 +80,7 @@
 ----------
 ----------
 
-[/us/pl/111/203/s161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs161
+[/us/pl/111/203/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtI
 [/us/stat/124/1420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1420
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1391

@@ -31,11 +31,11 @@
 
         When the bylaws of an association so provide and subject to the general directions of the Farm Credit Administration, available net earnings at the end of any fiscal year may be distributed on a patronage basis in stock, participation certificates, or in cash. Any part of the earnings of the fiscal year in excess of the operating expenses for such year held in the surplus account may be allocated to patrons on a patronage basis.
 
-([Pub. L. 92–181, title II, § 2][/us/pl/92/181/s2].3, as added [Pub. L. 100–233, title IV, § 401][/us/pl/100/233/s401], Jan. 6, 1988, [101 Stat. 1632][/us/stat/101/1632]; amended [Pub. L. 102–552, title V, § 501][/us/pl/102/552/s501], Oct. 28, 1992, [106 Stat. 4129][/us/stat/106/4129].)
+([Pub. L. 92–181, title II][/us/pl/92/181/tII], § 2.3, as added [Pub. L. 100–233, title IV][/us/pl/100/233/tIV], § 401, Jan. 6, 1988, [101 Stat. 1632][/us/stat/101/1632]; amended [Pub. L. 102–552, title V][/us/pl/102/552/tV], § 501, Oct. 28, 1992, [106 Stat. 4129][/us/stat/106/4129].)
 
  __Prior Provisions__ 
 
-    A prior section 2074, [Pub. L. 92–181, title II, § 2][/us/pl/92/181/s2].3, Dec. 10, 1971, [85 Stat. 593][/us/stat/85/593]; [Pub. L. 96–592, title II, § 203][/us/pl/96/592/s203], Dec. 24, 1980, [94 Stat. 3440][/us/stat/94/3440]; [Pub. L. 99–205, title II, § 205(e)(6)][/us/pl/99/205/s205/e/6], Dec. 23, 1985, [99 Stat. 1704][/us/stat/99/1704], related to loans, discounts, participation, and leasing, prior to the general amendment of this subchapter by [Pub. L. 100–233, § 401][/us/pl/100/233/s401].
+    A prior section 2074, [Pub. L. 92–181, title II][/us/pl/92/181/tII], § 2.3, Dec. 10, 1971, [85 Stat. 593][/us/stat/85/593]; [Pub. L. 96–592, title II][/us/pl/96/592/tII], § 203, Dec. 24, 1980, [94 Stat. 3440][/us/stat/94/3440]; [Pub. L. 99–205, title II][/us/pl/99/205/tII], § 205(e)(6), Dec. 23, 1985, [99 Stat. 1704][/us/stat/99/1704], related to loans, discounts, participation, and leasing, prior to the general amendment of this subchapter by [Pub. L. 100–233][/us/pl/100/233], § 401.
 
  __Amendments__ 
 
@@ -49,18 +49,18 @@
 ----------
 
 [/us/usc/t12/s2154a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2154a
-[/us/pl/92/181/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs2
-[/us/pl/100/233/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs401
+[/us/pl/92/181/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtII
+[/us/pl/100/233/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtIV
 [/us/stat/101/1632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1632
-[/us/pl/102/552/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2Fs501
+[/us/pl/102/552/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2FtV
 [/us/stat/106/4129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4129
-[/us/pl/92/181/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs2
+[/us/pl/92/181/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtII
 [/us/stat/85/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F593
-[/us/pl/96/592/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592%2Fs203
+[/us/pl/96/592/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592%2FtII
 [/us/stat/94/3440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3440
-[/us/pl/99/205/s205/e/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2Fs205%2Fe%2F6
+[/us/pl/99/205/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2FtII
 [/us/stat/99/1704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1704
-[/us/pl/100/233/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs401
+[/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
 [/us/pl/102/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552
 
 

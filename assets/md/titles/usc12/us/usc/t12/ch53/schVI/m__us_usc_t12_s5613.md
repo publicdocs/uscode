@@ -41,7 +41,7 @@
 
             (B) file a petition for involuntary bankruptcy on behalf of the company under [section 303 of title 11][/us/usc/t11/s303].
 
-([Pub. L. 111–203, title XI, § 1106][/us/pl/111/203/s1106], July 21, 2010, [124 Stat. 2125][/us/stat/124/2125].)
+([Pub. L. 111–203, title XI][/us/pl/111/203/tXI], § 1106, July 21, 2010, [124 Stat. 2125][/us/stat/124/2125].)
 
  __Codification__ 
 
@@ -64,7 +64,7 @@
 [/us/usc/t11/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs301
 [/us/usc/t12/s5382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5382
 [/us/usc/t11/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs303
-[/us/pl/111/203/s1106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1106
+[/us/pl/111/203/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtXI
 [/us/stat/124/2125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2125
 [/us/pl/111/203/s1106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1106
 [/us/pl/111/203/s1106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1106

@@ -79,7 +79,7 @@
 
             A regulated entity against which a penalty is assessed under this section shall be afforded an agency hearing if the regulated entity submits a request for a hearing not later than 20 days after the date of the issuance of the notice of assessment. [Section 4634 of this title][/us/usc/t12/s4634] shall apply to any such proceedings.
 
-([Pub. L. 102–550, title XIII, § 1314][/us/pl/102/550/s1314], Oct. 28, 1992, [106 Stat. 3946][/us/stat/106/3946]; [Pub. L. 110–289, div. A, title I, § 1104(a)][/us/pl/110/289/s1104/a], July 30, 2008, [122 Stat. 2666][/us/stat/122/2666].)
+([Pub. L. 102–550, title XIII][/us/pl/102/550/tXIII], § 1314, Oct. 28, 1992, [106 Stat. 3946][/us/stat/106/3946]; [Pub. L. 110–289, div. A, title I][/us/pl/110/289/dA/tI], § 1104(a), July 30, 2008, [122 Stat. 2666][/us/stat/122/2666].)
 
  __References in Text__ 
 
@@ -87,21 +87,21 @@
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–289, § 1104(a)(1)][/us/pl/110/289/s1104/a/1], substituted “regulated entities” for “enterprises” in section catchline.
+    2008—[Pub. L. 110–289][/us/pl/110/289], § 1104(a)(1), substituted “regulated entities” for “enterprises” in section catchline.
 
-    Subsec. (a). [Pub. L. 110–289, § 1104(a)(4)(A)][/us/pl/110/289/s1104/a/4/A], substituted “Regular and special reports” for “Special reports and reports of financial condition” in subsec. heading, “Regular reports” for “Financial condition” in par. (1) heading, and “The Director may require, by general or specific orders, a regulated entity to submit regular reports, including financial statements determined on a fair value basis, on the condition (including financial condition), management, activities, or operations of the regulated entity, as the Director considers appropriate” for “The Director may require an enterprise to submit reports of financial condition and operations” in par. (1).
+    Subsec. (a). [Pub. L. 110–289][/us/pl/110/289], § 1104(a)(4)(A), substituted “Regular and special reports” for “Special reports and reports of financial condition” in subsec. heading, “Regular reports” for “Financial condition” in par. (1) heading, and “The Director may require, by general or specific orders, a regulated entity to submit regular reports, including financial statements determined on a fair value basis, on the condition (including financial condition), management, activities, or operations of the regulated entity, as the Director considers appropriate” for “The Director may require an enterprise to submit reports of financial condition and operations” in par. (1).
 
-    Subsec. (a)(2). [Pub. L. 110–289, § 1104(a)(4)(B)][/us/pl/110/289/s1104/a/4/B], inserted “, by general or specific orders,” after “may also require” and substituted “on any of the topics specified in paragraph (1) or any other relevant topics, if” for “whenever”.
+    Subsec. (a)(2). [Pub. L. 110–289][/us/pl/110/289], § 1104(a)(4)(B), inserted “, by general or specific orders,” after “may also require” and substituted “on any of the topics specified in paragraph (1) or any other relevant topics, if” for “whenever”.
 
-    [Pub. L. 110–289, § 1104(a)(2)][/us/pl/110/289/s1104/a/2], substituted “a regulated entity” for “an enterprise”.
+    [Pub. L. 110–289][/us/pl/110/289], § 1104(a)(2), substituted “a regulated entity” for “an enterprise”.
 
-    Subsec. (a)(3), (4). [Pub. L. 110–289, § 1104(a)(3)][/us/pl/110/289/s1104/a/3], which directed amendment of this section by substituting “the regulated entity” for “the enterprise”, was executed by making the substitution wherever appearing to reflect the probable intent of Congress.
+    Subsec. (a)(3), (4). [Pub. L. 110–289][/us/pl/110/289], § 1104(a)(3), which directed amendment of this section by substituting “the regulated entity” for “the enterprise”, was executed by making the substitution wherever appearing to reflect the probable intent of Congress.
 
-    Subsec. (b). [Pub. L. 110–289, § 1104(a)(3)][/us/pl/110/289/s1104/a/3], which directed amendment of this section by substituting “the regulated entity” for “the enterprise”, was executed by making the substitution wherever appearing to reflect the probable intent of Congress.
+    Subsec. (b). [Pub. L. 110–289][/us/pl/110/289], § 1104(a)(3), which directed amendment of this section by substituting “the regulated entity” for “the enterprise”, was executed by making the substitution wherever appearing to reflect the probable intent of Congress.
 
-    [Pub. L. 110–289, § 1104(a)(2)][/us/pl/110/289/s1104/a/2], substituted “a regulated entity” for “an enterprise”.
+    [Pub. L. 110–289][/us/pl/110/289], § 1104(a)(2), substituted “a regulated entity” for “an enterprise”.
 
-    Subsec. (c). [Pub. L. 110–289, § 1104(a)(5)][/us/pl/110/289/s1104/a/5], added subsec. (c).
+    Subsec. (c). [Pub. L. 110–289][/us/pl/110/289], § 1104(a)(5), added subsec. (c).
 
 ----------
 
@@ -119,20 +119,20 @@
 [/us/usc/t12/s4636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4636
 [/us/usc/t12/s4636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4636
 [/us/usc/t12/s4634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4634
-[/us/pl/102/550/s1314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1314
+[/us/pl/102/550/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIII
 [/us/stat/106/3946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3946
-[/us/pl/110/289/s1104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1104%2Fa
+[/us/pl/110/289/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtI
 [/us/stat/122/2666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2666
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/stat/106/3941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3941
 [/us/usc/t12/s4501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4501
-[/us/pl/110/289/s1104/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1104%2Fa%2F1
-[/us/pl/110/289/s1104/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1104%2Fa%2F4%2FA
-[/us/pl/110/289/s1104/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1104%2Fa%2F4%2FB
-[/us/pl/110/289/s1104/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1104%2Fa%2F2
-[/us/pl/110/289/s1104/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1104%2Fa%2F3
-[/us/pl/110/289/s1104/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1104%2Fa%2F3
-[/us/pl/110/289/s1104/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1104%2Fa%2F2
-[/us/pl/110/289/s1104/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1104%2Fa%2F5
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
 
 

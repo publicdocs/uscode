@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t12/ch45/schII/m__us_usc_t12_ch45_schII.md) | [Next](./../../../..//us/usc/t12/ch46/m__us_usc_t12_s4501.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fch46)
+[Previous](./../../../..//us/usc/t12/ch45/schII/m__us_usc_t12_s4421 _us_usc_t12_s4422.md) | [Next](./../../../..//us/usc/t12/ch46/m__us_usc_t12_s4501.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fch46)
 
 ## CHAPTER 46—GOVERNMENT SPONSORED ENTERPRISES
 
@@ -723,7 +723,7 @@ SUBCHAPTER III—ENFORCEMENT PROVISIONS  </td>
 
 ----------
 
-[Previous](./../../../..//us/usc/t12/ch45/schII/m__us_usc_t12_ch45_schII.md) | [Next](./../../../..//us/usc/t12/ch46/m__us_usc_t12_s4501.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fch46)
+[Previous](./../../../..//us/usc/t12/ch45/schII/m__us_usc_t12_s4421 _us_usc_t12_s4422.md) | [Next](./../../../..//us/usc/t12/ch46/m__us_usc_t12_s4501.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fch46)
 
 ----------
 ----------

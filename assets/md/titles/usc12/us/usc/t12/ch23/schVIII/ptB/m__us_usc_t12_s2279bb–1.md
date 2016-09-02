@@ -83,7 +83,7 @@
 
         The Director shall make copies of the statistical model or models used to implement the risk-based capital test under this section available for public acquisition and may charge a reasonable fee for such copies.
 
-([Pub. L. 92–181, title VIII, § 8][/us/pl/92/181/s8].32, as added [Pub. L. 102–237, title V, § 503(b)(2)][/us/pl/102/237/s503/b/2], Dec. 13, 1991, [105 Stat. 1871][/us/stat/105/1871]; amended [Pub. L. 102–552, title III, § 308(b)(3)][/us/pl/102/552/s308/b/3], Oct. 28, 1992, [106 Stat. 4116][/us/stat/106/4116]; [Pub. L. 104–105, title I][/us/pl/104/105], §§ 109(b)(3), 113, Feb. 10, 1996, [110 Stat. 165][/us/stat/110/165], 166; [Pub. L. 110–234, title V, § 5406(d)][/us/pl/110/234/s5406/d], May 22, 2008, [122 Stat. 1159][/us/stat/122/1159]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title V, § 5406(d), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1920.)
+([Pub. L. 92–181, title VIII][/us/pl/92/181/tVIII], § 8.32, as added [Pub. L. 102–237, title V][/us/pl/102/237/tV], § 503(b)(2), Dec. 13, 1991, [105 Stat. 1871][/us/stat/105/1871]; amended [Pub. L. 102–552, title III][/us/pl/102/552/tIII], § 308(b)(3), Oct. 28, 1992, [106 Stat. 4116][/us/stat/106/4116]; [Pub. L. 104–105, title I][/us/pl/104/105/tI], §§ 109(b)(3), 113, Feb. 10, 1996, [110 Stat. 165][/us/stat/110/165], 166; [Pub. L. 110–234, title V][/us/pl/110/234/tV], § 5406(d), May 22, 2008, [122 Stat. 1159][/us/stat/122/1159]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title V, § 5406(d), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1920.)
 
  __Codification__ 
 
@@ -91,21 +91,21 @@
 
  __Amendments__ 
 
-    2008—Subsec. (a)(1). [Pub. L. 110–246, § 5406(d)][/us/pl/110/246/s5406/d], designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
+    2008—Subsec. (a)(1). [Pub. L. 110–246][/us/pl/110/246], § 5406(d), designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
 
-    1996—Subsec. (a). [Pub. L. 104–105, § 113(1)][/us/pl/104/105/s113/1], in first sentence, substituted “Not sooner than the expiration of the 3-year period beginning on February 10, 1996,” for “Not later than the expiration of the 2-year period beginning on December 13, 1991,”.
+    1996—Subsec. (a). [Pub. L. 104–105][/us/pl/104/105], § 113(1), in first sentence, substituted “Not sooner than the expiration of the 3-year period beginning on February 10, 1996,” for “Not later than the expiration of the 2-year period beginning on December 13, 1991,”.
 
-    Subsec. (b)(1)(C). [Pub. L. 104–105, § 109(b)(3)][/us/pl/104/105/s109/b/3], substituted “Director may” for “Director shall” and inserted before semicolon at end “(as in effect before February 10, 1996)”.
+    Subsec. (b)(1)(C). [Pub. L. 104–105][/us/pl/104/105], § 109(b)(3), substituted “Director may” for “Director shall” and inserted before semicolon at end “(as in effect before February 10, 1996)”.
 
-    Subsec. (b)(2). [Pub. L. 104–105, § 113(2)][/us/pl/104/105/s113/2], substituted “8-year” for “5-year” in first sentence.
+    Subsec. (b)(2). [Pub. L. 104–105][/us/pl/104/105], § 113(2), substituted “8-year” for “5-year” in first sentence.
 
-    Subsec. (d). [Pub. L. 104–105, § 113(3)][/us/pl/104/105/s113/3], designated first sentence of existing provisions as par. (1), inserted heading, added subpar. (A), and designated part of first sentence as subpar. (B), designated second sentence of existing provisions as par. (2), inserted heading, and substituted “The regulations referred to in paragraph (1) shall” for “The regulations shall”.
+    Subsec. (d). [Pub. L. 104–105][/us/pl/104/105], § 113(3), designated first sentence of existing provisions as par. (1), inserted heading, added subpar. (A), and designated part of first sentence as subpar. (B), designated second sentence of existing provisions as par. (2), inserted heading, and substituted “The regulations referred to in paragraph (1) shall” for “The regulations shall”.
 
-    1992—Subsecs. (a), (b)(1)(D). [Pub. L. 102–552, § 308(b)(3)(A)][/us/pl/102/552/s308/b/3/A], substituted “December 13, 1991” for “the date of the enactment of this section”.
+    1992—Subsecs. (a), (b)(1)(D). [Pub. L. 102–552][/us/pl/102/552], § 308(b)(3)(A), substituted “December 13, 1991” for “the date of the enactment of this section”.
 
-    Subsec. (b)(1)(E). [Pub. L. 102–552, § 308(b)(3)(B)][/us/pl/102/552/s308/b/3/B], substituted “December 13, 1991” for “the date of the enactment of such Act”.
+    Subsec. (b)(1)(E). [Pub. L. 102–552][/us/pl/102/552], § 308(b)(3)(B), substituted “December 13, 1991” for “the date of the enactment of such Act”.
 
-    Subsec. (b)(2). [Pub. L. 102–552, § 308(b)(3)(A)][/us/pl/102/552/s308/b/3/A], substituted “December 13, 1991” for “the date of the enactment of this section” in two places.
+    Subsec. (b)(2). [Pub. L. 102–552][/us/pl/102/552], § 308(b)(3)(A), substituted “December 13, 1991” for “the date of the enactment of this section” in two places.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -121,29 +121,29 @@
 [/us/usc/t12/s2279aa/9/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2279aa%2F9%2FC
 [/us/usc/t12/s2279aa–6/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2279aa%E2%80%936%2Fb%2F2
 [/us/usc/t12/s2279bb–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2279bb%E2%80%934
-[/us/pl/92/181/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs8
-[/us/pl/102/237/s503/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs503%2Fb%2F2
+[/us/pl/92/181/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtVIII
+[/us/pl/102/237/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtV
 [/us/stat/105/1871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1871
-[/us/pl/102/552/s308/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2Fs308%2Fb%2F3
+[/us/pl/102/552/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2FtIII
 [/us/stat/106/4116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4116
-[/us/pl/104/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105
+[/us/pl/104/105/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2FtI
 [/us/stat/110/165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F165
-[/us/pl/110/234/s5406/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs5406%2Fd
+[/us/pl/110/234/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtV
 [/us/stat/122/1159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1159
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s5406/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs5406%2Fd
-[/us/pl/104/105/s113/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2Fs113%2F1
-[/us/pl/104/105/s109/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2Fs109%2Fb%2F3
-[/us/pl/104/105/s113/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2Fs113%2F2
-[/us/pl/104/105/s113/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2Fs113%2F3
-[/us/pl/102/552/s308/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2Fs308%2Fb%2F3%2FA
-[/us/pl/102/552/s308/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2Fs308%2Fb%2F3%2FB
-[/us/pl/102/552/s308/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2Fs308%2Fb%2F3%2FA
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/104/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105
+[/us/pl/104/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105
+[/us/pl/104/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105
+[/us/pl/104/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105
+[/us/pl/102/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552
+[/us/pl/102/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552
+[/us/pl/102/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

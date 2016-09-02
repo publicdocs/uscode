@@ -43,23 +43,23 @@
 
         Stock of the consolidated national banking association may be issued as provided by the terms of the consolidation agreement, free from any preemptive rights of the shareholders of the respective consolidating banks.
 
-([Nov. 7, 1918, ch. 209, § 2][/us/act/1918-11-07/ch209/s2], formerly § 1, as added [Pub. L. 86–230, § 20][/us/pl/86/230/s20], Sept. 8, 1959, [73 Stat. 460][/us/stat/73/460]; renumbered § 2 and amended [Pub. L. 103–328, title I, § 102(b)(4)(C)][/us/pl/103/328/s102/b/4/C], Sept. 29, 1994, [108 Stat. 2351][/us/stat/108/2351]; [Pub. L. 112–231, § 2(b)(2)(A)][/us/pl/112/231/s2/b/2/A], Dec. 28, 2012, [126 Stat. 1619][/us/stat/126/1619].)
+([Nov. 7, 1918, ch. 209][/us/act/1918-11-07/ch209], § 2, formerly § 1, as added [Pub. L. 86–230][/us/pl/86/230], § 20, Sept. 8, 1959, [73 Stat. 460][/us/stat/73/460]; renumbered § 2 and amended [Pub. L. 103–328, title I][/us/pl/103/328/tI], § 102(b)(4)(C), Sept. 29, 1994, [108 Stat. 2351][/us/stat/108/2351]; [Pub. L. 112–231][/us/pl/112/231], § 2(b)(2)(A), Dec. 28, 2012, [126 Stat. 1619][/us/stat/126/1619].)
 
  __Codification__ 
 
-    Provisions similar to those comprising this section were contained in sections 1 and 2 of [act Nov. 7, 1918, ch. 209][/us/act/1918-11-07/ch209], [40 Stat. 1043][/us/stat/40/1043], and section 3 of [act Nov. 7, 1918, ch. 209][/us/act/1918-11-07/ch209], added [Feb. 25, 1927, ch. 191, § 1][/us/act/1927-02-25/ch191/s1], [44 Stat. 1225][/us/stat/44/1225] (formerly classified to sections 33 to 34a of this title) prior to the complete amendment and renumbering of act Nov. 7, 1918, by [Pub. L. 86–230][/us/pl/86/230].
+    Provisions similar to those comprising this section were contained in sections 1 and 2 of [act Nov. 7, 1918, ch. 209][/us/act/1918-11-07/ch209], [40 Stat. 1043][/us/stat/40/1043], and section 3 of [act Nov. 7, 1918, ch. 209][/us/act/1918-11-07/ch209], added [Feb. 25, 1927, ch. 191][/us/act/1927-02-25/ch191], § 1, [44 Stat. 1225][/us/stat/44/1225] (formerly classified to sections 33 to 34a of this title) prior to the complete amendment and renumbering of act Nov. 7, 1918, by [Pub. L. 86–230][/us/pl/86/230].
 
  __Amendments__ 
 
-    2012—Subsec. (e). [Pub. L. 112–231, § 2(b)(2)(A)(i)][/us/pl/112/231/s2/b/2/A/i], substituted “and receiver” for “receiver, and committee of estates of lunatics”.
+    2012—Subsec. (e). [Pub. L. 112–231][/us/pl/112/231], § 2(b)(2)(A)(i), substituted “and receiver” for “receiver, and committee of estates of lunatics”.
 
-    Subsec. (f). [Pub. L. 112–231, § 2(b)(2)(A)(ii)][/us/pl/112/231/s2/b/2/A/ii], substituted “or receiver” for “receiver, or committee of estates of lunatics”.
+    Subsec. (f). [Pub. L. 112–231][/us/pl/112/231], § 2(b)(2)(A)(ii), substituted “or receiver” for “receiver, or committee of estates of lunatics”.
 
     1994—[Pub. L. 103–328][/us/pl/103/328] inserted section catchline and, in subsec. (a), inserted heading and substituted “Any national bank” for “Any national banking association”.
 
  __Short Title__ 
 
-[Act Nov. 7, 1918, ch. 209, § 1][/us/act/1918-11-07/ch209/s1], as added by [Pub. L. 103–328, title I, § 102(b)(4)(C)][/us/pl/103/328/s102/b/4/C], Sept. 29, 1994, [108 Stat. 2351][/us/stat/108/2351], provided that: 
+[Act Nov. 7, 1918, ch. 209][/us/act/1918-11-07/ch209], § 1, as added by [Pub. L. 103–328, title I][/us/pl/103/328/tI], § 102(b)(4)(C), Sept. 29, 1994, [108 Stat. 2351][/us/stat/108/2351], provided that: 
 
 > “This Act \[enacting this subchapter\] may be cited as the ‘National Bank Consolidation and Merger Act’.”
 
@@ -70,24 +70,24 @@
 ----------
 ----------
 
-[/us/act/1918-11-07/ch209/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-11-07%2Fch209%2Fs2
-[/us/pl/86/230/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F230%2Fs20
+[/us/act/1918-11-07/ch209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-11-07%2Fch209
+[/us/pl/86/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F230
 [/us/stat/73/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F460
-[/us/pl/103/328/s102/b/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328%2Fs102%2Fb%2F4%2FC
+[/us/pl/103/328/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328%2FtI
 [/us/stat/108/2351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2351
-[/us/pl/112/231/s2/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F231%2Fs2%2Fb%2F2%2FA
+[/us/pl/112/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F231
 [/us/stat/126/1619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1619
 [/us/act/1918-11-07/ch209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-11-07%2Fch209
 [/us/stat/40/1043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F1043
 [/us/act/1918-11-07/ch209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-11-07%2Fch209
-[/us/act/1927-02-25/ch191/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-25%2Fch191%2Fs1
+[/us/act/1927-02-25/ch191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-25%2Fch191
 [/us/stat/44/1225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1225
 [/us/pl/86/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F230
-[/us/pl/112/231/s2/b/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F231%2Fs2%2Fb%2F2%2FA%2Fi
-[/us/pl/112/231/s2/b/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F231%2Fs2%2Fb%2F2%2FA%2Fii
+[/us/pl/112/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F231
+[/us/pl/112/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F231
 [/us/pl/103/328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328
-[/us/act/1918-11-07/ch209/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-11-07%2Fch209%2Fs1
-[/us/pl/103/328/s102/b/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328%2Fs102%2Fb%2F4%2FC
+[/us/act/1918-11-07/ch209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-11-07%2Fch209
+[/us/pl/103/328/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328%2FtI
 [/us/stat/108/2351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2351
 
 

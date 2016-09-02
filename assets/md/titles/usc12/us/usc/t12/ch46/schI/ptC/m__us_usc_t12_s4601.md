@@ -37,7 +37,7 @@
 
         Not later than the expiration of the 1-year period beginning on October 28, 1992, each enterprise shall submit to the Secretary, the Committee on Banking, Finance and Urban Affairs of the House of Representatives, and the Committee on Banking, Housing, and Urban Affairs of the Senate a report regarding the study conducted by the enterprise under subsection (a). Each report shall include any recommendations of the enterprise for better meeting the housing needs of low- and moderate-income families.
 
-([Pub. L. 102–550, title XIII, § 1354][/us/pl/102/550/s1354], Oct. 28, 1992, [106 Stat. 3970][/us/stat/106/3970].)
+([Pub. L. 102–550, title XIII][/us/pl/102/550/tXIII], § 1354, Oct. 28, 1992, [106 Stat. 3970][/us/stat/106/3970].)
 
  __Change of Name__ 
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/102/550/s1354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1354
+[/us/pl/102/550/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIII
 [/us/stat/106/3970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3970
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21

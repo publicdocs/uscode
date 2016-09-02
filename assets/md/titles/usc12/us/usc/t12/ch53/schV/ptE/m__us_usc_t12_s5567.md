@@ -161,7 +161,7 @@
 
             Notwithstanding paragraphs (1) and (2), an arbitration provision in a collective bargaining agreement shall be enforceable as to disputes arising under subsection (a)(4), unless the Bureau determines, by rule, that such provision is inconsistent with the purposes of this title.1
 
-([Pub. L. 111–203, title X, § 1057][/us/pl/111/203/s1057], July 21, 2010, [124 Stat. 2031][/us/stat/124/2031].)
+([Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1057, July 21, 2010, [124 Stat. 2031][/us/stat/124/2031].)
 
  __References in Text__ 
 
@@ -179,7 +179,7 @@
 ----------
 
 [/us/usc/t28/s1361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1361
-[/us/pl/111/203/s1057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1057
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2031
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1955

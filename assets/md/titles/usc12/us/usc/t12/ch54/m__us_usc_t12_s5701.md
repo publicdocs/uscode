@@ -117,7 +117,7 @@
 
         The term “Secretary” means the Secretary of the Treasury.
 
-([Pub. L. 111–240, title III, § 3002][/us/pl/111/240/s3002], Sept. 27, 2010, [124 Stat. 2568][/us/stat/124/2568].)
+([Pub. L. 111–240, title III][/us/pl/111/240/tIII], § 3002, Sept. 27, 2010, [124 Stat. 2568][/us/stat/124/2568].)
 
  __References in Text__ 
 
@@ -125,7 +125,7 @@
 
  __Short Title__ 
 
-[Pub. L. 111–240, title III, § 3001][/us/pl/111/240/s3001], Sept. 27, 2010, [124 Stat. 2568][/us/stat/124/2568], provided that: 
+[Pub. L. 111–240, title III][/us/pl/111/240/tIII], § 3001, Sept. 27, 2010, [124 Stat. 2568][/us/stat/124/2568], provided that: 
 
 > “This title \[enacting this chapter\] may be cited as the ‘State Small Business Credit Initiative Act of 2010’.”
 
@@ -145,12 +145,12 @@
 [/us/usc/t12/s5703/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5703%2Fd
 [/us/usc/t12/s5704/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5704%2Fc
 [/us/usc/t12/s5705/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5705%2Fc
-[/us/pl/111/240/s3002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs3002
+[/us/pl/111/240/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2FtIII
 [/us/stat/124/2568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2568
 [/us/act/1934-06-26/ch750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-26%2Fch750
 [/us/stat/48/1216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1216
 [/us/usc/t12/s1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1751
-[/us/pl/111/240/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs3001
+[/us/pl/111/240/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2FtIII
 [/us/stat/124/2568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2568
 
 

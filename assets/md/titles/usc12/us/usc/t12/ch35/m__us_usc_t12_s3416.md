@@ -17,7 +17,7 @@
 
     An action to enforce any provision of this chapter may be brought in any appropriate United States district court without regard to the amount in controversy within three years from the date on which the violation occurs or the date of discovery of such violation, whichever is later.
 
-([Pub. L. 95–630, title XI, § 1116][/us/pl/95/630/s1116], Nov. 10, 1978, [92 Stat. 3708][/us/stat/92/3708].)
+([Pub. L. 95–630, title XI][/us/pl/95/630/tXI], § 1116, Nov. 10, 1978, [92 Stat. 3708][/us/stat/92/3708].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/630/s1116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs1116
+[/us/pl/95/630/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtXI
 [/us/stat/92/3708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3708
 
 

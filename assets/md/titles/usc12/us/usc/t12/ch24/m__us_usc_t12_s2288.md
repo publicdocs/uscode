@@ -31,11 +31,11 @@
 
         Obligations of the Bank issued pursuant to this section shall be lawful investments, and may be accepted as security for all fiduciary, trust, and public funds, the investment or deposit of which shall be under the authority or control of the United States, the District of Columbia, the Commonwealth of Puerto Rico, or any territory or possession of the United States, or any agency or instrumentality of any of the foregoing, or any officer or officers thereof.
 
-([Pub. L. 93–224, § 9][/us/pl/93/224/s9], Dec. 29, 1973, [87 Stat. 939][/us/stat/87/939].)
+([Pub. L. 93–224][/us/pl/93/224], § 9, Dec. 29, 1973, [87 Stat. 939][/us/stat/87/939].)
 
  __Codification__ 
 
-    In subsec. (b), “chapter 31 of title 31” substituted for “the Second Liberty Bond Act” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    In subsec. (b), “chapter 31 of title 31” substituted for “the Second Liberty Bond Act” on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
 ----------
 
@@ -44,9 +44,9 @@
 ----------
 ----------
 
-[/us/pl/93/224/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F224%2Fs9
+[/us/pl/93/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F224
 [/us/stat/87/939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F939
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
 
 

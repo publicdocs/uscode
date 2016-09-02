@@ -13,9 +13,9 @@
 
 [Previous](./../../../..//us/usc/t12/ch17/m__us_usc_t12_s1848.md) | [Next](./../../../..//us/usc/t12/ch17/m__us_usc_t12_s1849.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1848a)
 
-## § 1848a. Repealed. [Pub. L. 111–203, title VI, § 604(c)(2)][/us/pl/111/203/s604/c/2], July 21, 2010, [124 Stat. 1601][/us/stat/124/1601]
+## § 1848a. Repealed. [Pub. L. 111–203, title VI][/us/pl/111/203/tVI], § 604(c)(2), July 21, 2010, [124 Stat. 1601][/us/stat/124/1601]
 
-    Section, [act May 9, 1956, ch. 240, § 10A][/us/act/1956-05-09/ch240/s10A], as added [Pub. L. 106–102, title I, § 113][/us/pl/106/102/s113], Nov. 12, 1999, [113 Stat. 1368][/us/stat/113/1368], related to limitation on rulemaking, prudential, supervisory, and enforcement authority of the Board.
+    Section, [act May 9, 1956, ch. 240][/us/act/1956-05-09/ch240], § 10A, as added [Pub. L. 106–102, title I][/us/pl/106/102/tI], § 113, Nov. 12, 1999, [113 Stat. 1368][/us/stat/113/1368], related to limitation on rulemaking, prudential, supervisory, and enforcement authority of the Board.
 
  __Effective Date of Repeal__ 
 
@@ -28,10 +28,10 @@
 ----------
 ----------
 
-[/us/pl/111/203/s604/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs604%2Fc%2F2
+[/us/pl/111/203/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVI
 [/us/stat/124/1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1601
-[/us/act/1956-05-09/ch240/s10A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-05-09%2Fch240%2Fs10A
-[/us/pl/106/102/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs113
+[/us/act/1956-05-09/ch240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-05-09%2Fch240
+[/us/pl/106/102/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtI
 [/us/stat/113/1368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1368
 [/us/pl/111/203/s604/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs604%2Fj
 [/us/usc/t12/s1462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1462

@@ -27,7 +27,7 @@
 
         Taxpayers shall bear no losses from the exercise of any authority under this subchapter.
 
-([Pub. L. 111–203, title II, § 214][/us/pl/111/203/s214], July 21, 2010, [124 Stat. 1518][/us/stat/124/1518].)
+([Pub. L. 111–203, title II][/us/pl/111/203/tII], § 214, July 21, 2010, [124 Stat. 1518][/us/stat/124/1518].)
 
  __References in Text__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/111/203/s214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs214
+[/us/pl/111/203/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtII
 [/us/stat/124/1518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1518
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1442

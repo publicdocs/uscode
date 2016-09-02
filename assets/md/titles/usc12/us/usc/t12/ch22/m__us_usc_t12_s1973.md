@@ -17,7 +17,7 @@
 
     The district courts of the United States have jurisdiction to prevent and restrain violations of [section 1972 of this title][/us/usc/t12/s1972] and it is the duty of the United States attorneys, under the direction of the Attorney General, to institute proceedings in equity to prevent and restrain such violations. The proceedings may be by way of a petition setting forth the case and praying that the violation be enjoined or otherwise prohibited. When the parties complained of have been duly notified of the petition, the court shall proceed, as soon as possible, to the hearing and determination of the case. While the petition is pending, and before final decree, the court may at any time make such temporary restraining order or prohibition as it deems just. Whenever it appears to the court that the ends of justice require that other parties be brought before it, the court may cause them to be summoned whether or not they reside in the district in which the court is held, and subpenas to that end may be served in any district by the marshal thereof.
 
-([Pub. L. 91–607, title I, § 106(c)][/us/pl/91/607/s106/c], Dec. 31, 1970, [84 Stat. 1767][/us/stat/84/1767].)
+([Pub. L. 91–607, title I][/us/pl/91/607/tI], § 106(c), Dec. 31, 1970, [84 Stat. 1767][/us/stat/84/1767].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t12/s1972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1972
-[/us/pl/91/607/s106/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F607%2Fs106%2Fc
+[/us/pl/91/607/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F607%2FtI
 [/us/stat/84/1767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1767
 
 

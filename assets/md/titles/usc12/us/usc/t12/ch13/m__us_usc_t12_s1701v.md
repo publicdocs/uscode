@@ -23,7 +23,7 @@
 
     The Congress declares that in the administration of housing programs which assist in the provision of housing for low and moderate income families, emphasis should be given to encouraging good design as an essential component of such housing and to developing housing which will be of such quality as to reflect its important relationship to the architectural standards of the neighborhood and community in which it is situated, consistent with prudent budgeting.
 
-([Pub. L. 90–448, § 4][/us/pl/90/448/s4], Aug. 1, 1968, [82 Stat. 477][/us/stat/82/477].)
+([Pub. L. 90–448][/us/pl/90/448], § 4, Aug. 1, 1968, [82 Stat. 477][/us/stat/82/477].)
 
  __Codification__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/90/448/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs4
+[/us/pl/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448
 [/us/stat/82/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F477
 
 

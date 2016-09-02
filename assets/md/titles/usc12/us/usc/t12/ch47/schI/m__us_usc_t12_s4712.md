@@ -73,7 +73,7 @@
 
         Any proceeds from the sale of loans by an organization assisted under this section shall be used by the seller for community development purposes.
 
-([Pub. L. 103–325, title I, § 113][/us/pl/103/325/s113], Sept. 23, 1994, [108 Stat. 2178][/us/stat/108/2178].)
+([Pub. L. 103–325, title I][/us/pl/103/325/tI], § 113, Sept. 23, 1994, [108 Stat. 2178][/us/stat/108/2178].)
 
  __References in Text__ 
 
@@ -87,7 +87,7 @@
 ----------
 
 [/us/usc/t42/s5305/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5305%2Fa%2F9
-[/us/pl/103/325/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs113
+[/us/pl/103/325/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtI
 [/us/stat/108/2178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2178
 [/us/pl/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383
 [/us/stat/88/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F633

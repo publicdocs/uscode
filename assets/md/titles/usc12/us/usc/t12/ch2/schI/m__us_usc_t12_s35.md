@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch2/schI/m__us_usc_t12_s32.md) | [Next](./../../../../..//us/usc/t12/ch2/schI/m__us_usc_t12_s36.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs35)
+[Previous](./../../../../..//us/usc/t12/ch2/schI/m__us_usc_t12_s33...34c.md) | [Next](./../../../../..//us/usc/t12/ch2/schI/m__us_usc_t12_s36.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs35)
 
 ## § 35. Organization of State banks as national banking associations
 
@@ -19,7 +19,7 @@
 
     The Comptroller of the Currency may, in his discretion and subject to such conditions as he may prescribe, permit such converting bank to retain and carry at a value determined by the Comptroller such of the assets of such converting bank as do not conform to the legal requirements relative to assets acquired and held by national banking associations. The Comptroller of the Currency may not approve the conversion of a State bank or State savings association to a national banking association or Federal savings association during any period in which the State bank or State savings association is subject to a cease and desist order (or other formal enforcement order) issued by, or a memorandum of understanding entered into with, a State bank supervisor or the appropriate Federal banking agency with respect to a significant supervisory matter or a final enforcement action by a State Attorney General.
 
-(R.S. § 5154; [Dec. 23, 1913, ch. 6, § 8][/us/act/1913-12-23/ch6/s8], [38 Stat. 258][/us/stat/38/258]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title III, § 312, [49 Stat. 711][/us/stat/49/711]; [Pub. L. 97–457, § 19(b)][/us/pl/97/457/s19/b], Jan. 12, 1983, [96 Stat. 2509][/us/stat/96/2509]; [Pub. L. 111–203, title VI, § 612(b)][/us/pl/111/203/s612/b], July 21, 2010, [124 Stat. 1612][/us/stat/124/1612].)
+(R.S. § 5154; [Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 8, [38 Stat. 258][/us/stat/38/258]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title III, § 312, [49 Stat. 711][/us/stat/49/711]; [Pub. L. 97–457][/us/pl/97/457], § 19(b), Jan. 12, 1983, [96 Stat. 2509][/us/stat/96/2509]; [Pub. L. 111–203, title VI][/us/pl/111/203/tVI], § 612(b), July 21, 2010, [124 Stat. 1612][/us/stat/124/1612].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 
  __Codification__ 
 
-    R.S. § 5154 derived from [act June 3, 1864, ch. 106, § 44][/us/act/1864-06-03/ch106/s44], [13 Stat. 112][/us/stat/13/112], which was the National Bank Act. See [section 38 of this title][/us/usc/t12/s38].
+    R.S. § 5154 derived from [act June 3, 1864, ch. 106][/us/act/1864-06-03/ch106], § 44, [13 Stat. 112][/us/stat/13/112], which was the National Bank Act. See [section 38 of this title][/us/usc/t12/s38].
 
  __Amendments__ 
 
@@ -51,7 +51,7 @@
 
  __Exception to Prohibition on Approval of Conversions__ 
 
-[Pub. L. 111–203, title VI, § 612(d)][/us/pl/111/203/s612/d], July 21, 2010, [124 Stat. 1613][/us/stat/124/1613], provided that: 
+[Pub. L. 111–203, title VI][/us/pl/111/203/tVI], § 612(d), July 21, 2010, [124 Stat. 1613][/us/stat/124/1613], provided that: 
 
 > “The prohibition on the approval of conversions under the amendments made by subsections (a), (b), and (c) \[enacting [section 214d of this title][/us/usc/t12/s214d] and amending this section and [section 1464 of this title][/us/usc/t12/s1464]\] shall not apply, if—
 
@@ -67,7 +67,7 @@
 
  __Notification of Pending Enforcement Actions__ 
 
-[Pub. L. 111–203, title VI, § 612(e)][/us/pl/111/203/s612/e], July 21, 2010, [124 Stat. 1613][/us/stat/124/1613], provided that:
+[Pub. L. 111–203, title VI][/us/pl/111/203/tVI], § 612(e), July 21, 2010, [124 Stat. 1613][/us/stat/124/1613], provided that:
 
 >     “(1)  __Copy of conversion application__  __.—__ 
 
@@ -89,19 +89,19 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch2/schI/m__us_usc_t12_s32.md) | [Next](./../../../../..//us/usc/t12/ch2/schI/m__us_usc_t12_s36.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs35)
+[Previous](./../../../../..//us/usc/t12/ch2/schI/m__us_usc_t12_s33...34c.md) | [Next](./../../../../..//us/usc/t12/ch2/schI/m__us_usc_t12_s36.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs35)
 
 ----------
 ----------
 
 [/us/usc/t12/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs221
-[/us/act/1913-12-23/ch6/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs8
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
 [/us/stat/38/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F258
 [/us/act/1935-08-23/ch614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch614
 [/us/stat/49/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F711
-[/us/pl/97/457/s19/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F457%2Fs19%2Fb
+[/us/pl/97/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F457
 [/us/stat/96/2509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2509
-[/us/pl/111/203/s612/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs612%2Fb
+[/us/pl/111/203/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVI
 [/us/stat/124/1612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1612
 [/us/act/1864-06-03/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-06-03%2Fch106
 [/us/stat/13/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F13%2F99
@@ -112,7 +112,7 @@
 [/us/act/1864-06-03/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-06-03%2Fch106
 [/us/stat/13/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F13%2F99
 [/us/usc/t12/s38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs38
-[/us/act/1864-06-03/ch106/s44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-06-03%2Fch106%2Fs44
+[/us/act/1864-06-03/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-06-03%2Fch106
 [/us/stat/13/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F13%2F112
 [/us/usc/t12/s38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs38
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
@@ -121,13 +121,13 @@
 [/us/pl/111/203/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs4
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301
 [/us/usc/t12/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1
-[/us/pl/111/203/s612/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs612%2Fd
+[/us/pl/111/203/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVI
 [/us/stat/124/1613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1613
 [/us/usc/t12/s214d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs214d
 [/us/usc/t12/s1464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1464
 [/us/pl/111/203/s612/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs612%2Fd
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301
-[/us/pl/111/203/s612/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs612%2Fe
+[/us/pl/111/203/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVI
 [/us/stat/124/1613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1613
 [/us/pl/111/203/s612/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs612%2Fe
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301

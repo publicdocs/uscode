@@ -27,7 +27,7 @@
 
         No member of the board or of any other committee shall, as such, be compensated, except that reasonable health, accident, similar insurance protection, and the reimbursement of reasonable expenses incurred in the execution of the duties of the position shall not be considered compensation.
 
-([June 26, 1934, ch. 750][/us/act/1934-06-26/ch750], title I, § 111, formerly § 11, [48 Stat. 1219][/us/stat/48/1219]; [June 15, 1940, ch. 366][/us/act/1940-06-15/ch366], [54 Stat. 398][/us/stat/54/398]; [July 31, 1946, ch. 711][/us/act/1946-07-31/ch711], §§ 3–6, [60 Stat. 745][/us/stat/60/745]; 1947 Reorg. Plan No. 1, § 401, eff. July 1, 1947, 12 F.R. 4534, [61 Stat. 952][/us/stat/61/952]; [June 29, 1948, ch. 711][/us/act/1948-06-29/ch711], §§ 1, 2, [62 Stat. 1091][/us/stat/62/1091]; [Oct. 25, 1949, ch. 713, § 2][/us/act/1949-10-25/ch713/s2], [63 Stat. 890][/us/stat/63/890]; [June 30, 1954, ch. 426, § 1][/us/act/1954-06-30/ch426/s1], [68 Stat. 335][/us/stat/68/335]; [Aug. 24, 1954, ch. 905][/us/act/1954-08-24/ch905], §§ 1, 2, [68 Stat. 792][/us/stat/68/792]; renumbered § 12 and amended [Pub. L. 86–354, § 1][/us/pl/86/354/s1], Sept. 22, 1959, [73 Stat. 632][/us/stat/73/632]; [Pub. L. 88–353, § 2][/us/pl/88/353/s2], July 2, 1964, [78 Stat. 269][/us/stat/78/269]; [Pub. L. 91–206, § 2(3)][/us/pl/91/206/s2/3], Mar. 10, 1970, [84 Stat. 49][/us/stat/84/49]; renumbered title I, § 111, [Pub. L. 91–468, § 1(2)][/us/pl/91/468/s1/2], Oct. 19, 1970, [84 Stat. 994][/us/stat/84/994]; amended [Pub. L. 93–495, title I, § 116][/us/pl/93/495/s116], Oct. 28, 1974, [88 Stat. 1507][/us/stat/88/1507]; [Pub. L. 95–630, title V, § 502(b)][/us/pl/95/630/s502/b], Nov. 10, 1978, [92 Stat. 3681][/us/stat/92/3681]; [Pub. L. 97–320, title V, § 520][/us/pl/97/320/s520], Oct. 15, 1982, [96 Stat. 1531][/us/stat/96/1531].)
+([June 26, 1934, ch. 750][/us/act/1934-06-26/ch750], title I, § 111, formerly § 11, [48 Stat. 1219][/us/stat/48/1219]; [June 15, 1940, ch. 366][/us/act/1940-06-15/ch366], [54 Stat. 398][/us/stat/54/398]; [July 31, 1946, ch. 711][/us/act/1946-07-31/ch711], §§ 3–6, [60 Stat. 745][/us/stat/60/745]; 1947 Reorg. Plan No. 1, § 401, eff. July 1, 1947, 12 F.R. 4534, [61 Stat. 952][/us/stat/61/952]; [June 29, 1948, ch. 711][/us/act/1948-06-29/ch711], §§ 1, 2, [62 Stat. 1091][/us/stat/62/1091]; [Oct. 25, 1949, ch. 713][/us/act/1949-10-25/ch713], § 2, [63 Stat. 890][/us/stat/63/890]; [June 30, 1954, ch. 426][/us/act/1954-06-30/ch426], § 1, [68 Stat. 335][/us/stat/68/335]; [Aug. 24, 1954, ch. 905][/us/act/1954-08-24/ch905], §§ 1, 2, [68 Stat. 792][/us/stat/68/792]; renumbered § 12 and amended [Pub. L. 86–354][/us/pl/86/354], § 1, Sept. 22, 1959, [73 Stat. 632][/us/stat/73/632]; [Pub. L. 88–353][/us/pl/88/353], § 2, July 2, 1964, [78 Stat. 269][/us/stat/78/269]; [Pub. L. 91–206][/us/pl/91/206], § 2(3), Mar. 10, 1970, [84 Stat. 49][/us/stat/84/49]; renumbered title I, § 111, [Pub. L. 91–468][/us/pl/91/468], § 1(2), Oct. 19, 1970, [84 Stat. 994][/us/stat/84/994]; amended [Pub. L. 93–495, title I][/us/pl/93/495/tI], § 116, Oct. 28, 1974, [88 Stat. 1507][/us/stat/88/1507]; [Pub. L. 95–630, title V][/us/pl/95/630/tV], § 502(b), Nov. 10, 1978, [92 Stat. 3681][/us/stat/92/3681]; [Pub. L. 97–320, title V][/us/pl/97/320/tV], § 520, Oct. 15, 1982, [96 Stat. 1531][/us/stat/96/1531].)
 
  __Amendments__ 
 
@@ -83,25 +83,25 @@
 [/us/stat/61/952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F952
 [/us/act/1948-06-29/ch711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-29%2Fch711
 [/us/stat/62/1091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1091
-[/us/act/1949-10-25/ch713/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-25%2Fch713%2Fs2
+[/us/act/1949-10-25/ch713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-25%2Fch713
 [/us/stat/63/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F890
-[/us/act/1954-06-30/ch426/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-06-30%2Fch426%2Fs1
+[/us/act/1954-06-30/ch426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-06-30%2Fch426
 [/us/stat/68/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F335
 [/us/act/1954-08-24/ch905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-24%2Fch905
 [/us/stat/68/792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F792
-[/us/pl/86/354/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F354%2Fs1
+[/us/pl/86/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F354
 [/us/stat/73/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F632
-[/us/pl/88/353/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F353%2Fs2
+[/us/pl/88/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F353
 [/us/stat/78/269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F269
-[/us/pl/91/206/s2/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F206%2Fs2%2F3
+[/us/pl/91/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F206
 [/us/stat/84/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F49
-[/us/pl/91/468/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F468%2Fs1%2F2
+[/us/pl/91/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F468
 [/us/stat/84/994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F994
-[/us/pl/93/495/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2Fs116
+[/us/pl/93/495/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2FtI
 [/us/stat/88/1507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1507
-[/us/pl/95/630/s502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs502%2Fb
+[/us/pl/95/630/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtV
 [/us/stat/92/3681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3681
-[/us/pl/97/320/s520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs520
+[/us/pl/97/320/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2FtV
 [/us/stat/96/1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1531
 [/us/pl/97/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320
 [/us/pl/95/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630

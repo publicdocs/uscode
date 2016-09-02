@@ -21,7 +21,7 @@
 
     No Federal Reserve bank shall have authority hereafter to enter into any contract or contracts for the erection of any branch bank building of any kind or character or to authorize the erection of any such building, except with the approval of the Board of Governors of the Federal Reserve System.
 
-([Dec. 23, 1913, ch. 6, § 3][/us/act/1913-12-23/ch6/s3], [38 Stat. 253][/us/stat/38/253]; [June 21, 1917, ch. 32, § 1][/us/act/1917-06-21/ch32/s1], [40 Stat. 232][/us/stat/40/232]; [Feb. 25, 1927, ch. 191, § 19][/us/act/1927-02-25/ch191/s19], [44 Stat. 1234][/us/stat/44/1234]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 203(a), [49 Stat. 704][/us/stat/49/704]; [Pub. L. 87–622, § 2][/us/pl/87/622/s2], Aug. 31, 1962, [76 Stat. 418][/us/stat/76/418].)
+([Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 3, [38 Stat. 253][/us/stat/38/253]; [June 21, 1917, ch. 32][/us/act/1917-06-21/ch32], § 1, [40 Stat. 232][/us/stat/40/232]; [Feb. 25, 1927, ch. 191][/us/act/1927-02-25/ch191], § 19, [44 Stat. 1234][/us/stat/44/1234]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 203(a), [49 Stat. 704][/us/stat/49/704]; [Pub. L. 87–622][/us/pl/87/622], § 2, Aug. 31, 1962, [76 Stat. 418][/us/stat/76/418].)
 
  __Amendments__ 
 
@@ -40,15 +40,15 @@
 ----------
 ----------
 
-[/us/act/1913-12-23/ch6/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs3
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
 [/us/stat/38/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F253
-[/us/act/1917-06-21/ch32/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-21%2Fch32%2Fs1
+[/us/act/1917-06-21/ch32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-21%2Fch32
 [/us/stat/40/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F232
-[/us/act/1927-02-25/ch191/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-25%2Fch191%2Fs19
+[/us/act/1927-02-25/ch191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-25%2Fch191
 [/us/stat/44/1234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1234
 [/us/act/1935-08-23/ch614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch614
 [/us/stat/49/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F704
-[/us/pl/87/622/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F622%2Fs2
+[/us/pl/87/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F622
 [/us/stat/76/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F418
 [/us/pl/87/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F622
 

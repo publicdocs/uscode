@@ -41,7 +41,7 @@
 
         The Chairman of the Board shall enforce the rules, regulations, and orders of the Board. Except as provided in [section 518 of title 28][/us/usc/t28/s518], relating to litigation before the Supreme Court, attorneys designated by the Chairman shall represent the Farm Credit Administration in any civil proceeding or civil action brought in connection with the administration of conservatorships and receiverships. Attorneys designated by the Chairman may represent the Farm Credit Administration in any other civil proceedings or civil action when so authorized by the Attorney General under provisions of title 28.
 
-([Pub. L. 92–181, title V, § 5][/us/pl/92/181/s5].10, Dec. 10, 1971, [85 Stat. 619][/us/stat/85/619]; [Pub. L. 96–592, title V, § 504][/us/pl/96/592/s504], Dec. 24, 1980, [94 Stat. 3449][/us/stat/94/3449]; [Pub. L. 99–205, title II, § 201(1)][/us/pl/99/205/s201/1], Dec. 23, 1985, [99 Stat. 1689][/us/stat/99/1689]; [Pub. L. 100–233, title IV, § 431(b)][/us/pl/100/233/s431/b], Jan. 6, 1988, [101 Stat. 1658][/us/stat/101/1658].)
+([Pub. L. 92–181, title V][/us/pl/92/181/tV], § 5.10, Dec. 10, 1971, [85 Stat. 619][/us/stat/85/619]; [Pub. L. 96–592, title V][/us/pl/96/592/tV], § 504, Dec. 24, 1980, [94 Stat. 3449][/us/stat/94/3449]; [Pub. L. 99–205, title II][/us/pl/99/205/tII], § 201(1), Dec. 23, 1985, [99 Stat. 1689][/us/stat/99/1689]; [Pub. L. 100–233, title IV][/us/pl/100/233/tIV], § 431(b), Jan. 6, 1988, [101 Stat. 1658][/us/stat/101/1658].)
 
  __Amendments__ 
 
@@ -68,13 +68,13 @@
 
 [/us/usc/t12/s2153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2153
 [/us/usc/t28/s518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs518
-[/us/pl/92/181/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs5
+[/us/pl/92/181/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtV
 [/us/stat/85/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F619
-[/us/pl/96/592/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592%2Fs504
+[/us/pl/96/592/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592%2FtV
 [/us/stat/94/3449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3449
-[/us/pl/99/205/s201/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2Fs201%2F1
+[/us/pl/99/205/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2FtII
 [/us/stat/99/1689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1689
-[/us/pl/100/233/s431/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs431%2Fb
+[/us/pl/100/233/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtIV
 [/us/stat/101/1658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1658
 [/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
 [/us/usc/t12/s2153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2153

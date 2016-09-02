@@ -63,7 +63,7 @@
 
         (3) recommendations on the manner in which maximum transparency and disclosure to consumers of exchange rates for remittance transfers subject to this title  <sup>\[3\]</sup>  <sup><sup> 3 See References in Text note below. </sup></sup>  and the amendments made by this title  <sup>\[3\]</sup>  may be accomplished, whether or not such exchange rates are known at the time of origination or payment by the consumer for the remittance transfer, including disclosure to the sender of the actual exchange rate used and the amount of currency that the recipient of the remittance transfer received, using the values of the currency into which the funds were exchanged, as contained in sections 1693o–1(a)(2)(D)  <sup>\[3\]</sup>  and 1693o–1(a)(3) of title 15 (as amended by this section).
 
-([Pub. L. 111–203, title X, § 1073][/us/pl/111/203/s1073], July 21, 2010, [124 Stat. 2060][/us/stat/124/2060].)
+([Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1073, July 21, 2010, [124 Stat. 2060][/us/stat/124/2060].)
 
  __References in Text__ 
 
@@ -86,7 +86,7 @@
 ----------
 ----------
 
-[/us/pl/111/203/s1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1073
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2060
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1955

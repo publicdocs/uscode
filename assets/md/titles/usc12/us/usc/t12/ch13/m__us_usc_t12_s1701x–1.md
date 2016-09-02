@@ -57,7 +57,7 @@
 
         (4) review of home inspection public outreach materials of the Department.
 
-([Pub. L. 111–203, title XIV, § 1451][/us/pl/111/203/s1451], July 21, 2010, [124 Stat. 2176][/us/stat/124/2176].)
+([Pub. L. 111–203, title XIV][/us/pl/111/203/tXIV], § 1451, July 21, 2010, [124 Stat. 2176][/us/stat/124/2176].)
 
  __References in Text__ 
 
@@ -79,7 +79,7 @@
 ----------
 
 [/us/usc/t12/s1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1707
-[/us/pl/111/203/s1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1451
+[/us/pl/111/203/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtXIV
 [/us/stat/124/2176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2176
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
 [/us/stat/48/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1246

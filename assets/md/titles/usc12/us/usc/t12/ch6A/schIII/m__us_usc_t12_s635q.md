@@ -41,21 +41,21 @@
 
         Concessional financing or grants made available under [section 635r(d) of this title][/us/usc/t12/s635r/d] for the purposes of the mixed financing program established under this section shall be made available in accordance with the provisions of [section 635r(c) of this title][/us/usc/t12/s635r/c].
 
-([Pub. L. 98–181, title I][/us/pl/98/181] \[title VI, § 644\], Nov. 30, 1983, [97 Stat. 1264][/us/stat/97/1264]; [Pub. L. 100–418, title II, § 2204(c)(1)(A)][/us/pl/100/418/s2204/c/1/A], Aug. 23, 1988, [102 Stat. 1330][/us/stat/102/1330]; [Pub. L. 102–549, title II, § 202(c)(1)][/us/pl/102/549/s202/c/1], Oct. 28, 1992, [106 Stat. 3658][/us/stat/106/3658].)
+([Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title VI, § 644\], Nov. 30, 1983, [97 Stat. 1264][/us/stat/97/1264]; [Pub. L. 100–418, title II][/us/pl/100/418/tII], § 2204(c)(1)(A), Aug. 23, 1988, [102 Stat. 1330][/us/stat/102/1330]; [Pub. L. 102–549, title II][/us/pl/102/549/tII], § 202(c)(1), Oct. 28, 1992, [106 Stat. 3658][/us/stat/106/3658].)
 
  __Amendments__ 
 
     1992—Subsec. (a)(2), (3)(A). [Pub. L. 102–549][/us/pl/102/549] substituted “Development Agency” for “Development Program”.
 
-    1988—Subsec. (a)(2). [Pub. L. 100–418, § 2204(c)(1)(A)(i)][/us/pl/100/418/s2204/c/1/A/i], substituted “Trade and Development Program” for “Agency for International Development”.
+    1988—Subsec. (a)(2). [Pub. L. 100–418][/us/pl/100/418], § 2204(c)(1)(A)(i), substituted “Trade and Development Program” for “Agency for International Development”.
 
-    Subsec. (a)(3)(A). [Pub. L. 100–418, § 2204(c)(1)(A)(ii)][/us/pl/100/418/s2204/c/1/A/ii], substituted “made available under [section 635r(d) of this title][/us/usc/t12/s635r/d]” for “offered by the Agency for International Development” and “Trade and Development Program” for “Agency for International Development”.
+    Subsec. (a)(3)(A). [Pub. L. 100–418][/us/pl/100/418], § 2204(c)(1)(A)(ii), substituted “made available under [section 635r(d) of this title][/us/usc/t12/s635r/d]” for “offered by the Agency for International Development” and “Trade and Development Program” for “Agency for International Development”.
 
-    Subsec. (d). [Pub. L. 100–418, § 2204(c)(1)(A)(iii)][/us/pl/100/418/s2204/c/1/A/iii], substituted “made available under [section 635r(d) of this title][/us/usc/t12/s635r/d]” for “offered by the Agency for International Development” and “[section 635r(c) of this title][/us/usc/t12/s635r/c]” for “subsections (c) and (d) of [section 635r of this title][/us/usc/t12/s635r]”.
+    Subsec. (d). [Pub. L. 100–418][/us/pl/100/418], § 2204(c)(1)(A)(iii), substituted “made available under [section 635r(d) of this title][/us/usc/t12/s635r/d]” for “offered by the Agency for International Development” and “[section 635r(c) of this title][/us/usc/t12/s635r/c]” for “subsections (c) and (d) of [section 635r of this title][/us/usc/t12/s635r]”.
 
  __Transition Provisions__ 
 
-[Pub. L. 100–418, title II, § 2204(d)(2)][/us/pl/100/418/s2204/d/2], Aug. 23, 1988, [102 Stat. 1331][/us/stat/102/1331], provided that:
+[Pub. L. 100–418, title II][/us/pl/100/418/tII], § 2204(d)(2), Aug. 23, 1988, [102 Stat. 1331][/us/stat/102/1331], provided that:
 
 >     “(A) The Administrator of the Agency for International Development shall transfer to the Director of the Trade and Development Program \[now Trade and Development Agency\] all records, contracts, applications, and any other documents or information in connection with the functions transferred by virtue of the amendments made by subsection (c)(1) \[amending sections 635q and 635r of this title\].
 
@@ -91,21 +91,21 @@
 [/us/usc/t12/s635r/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635r%2Fd
 [/us/usc/t12/s635r/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635r%2Fd
 [/us/usc/t12/s635r/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635r%2Fc
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1264
-[/us/pl/100/418/s2204/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2204%2Fc%2F1%2FA
+[/us/pl/100/418/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtII
 [/us/stat/102/1330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1330
-[/us/pl/102/549/s202/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2Fs202%2Fc%2F1
+[/us/pl/102/549/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2FtII
 [/us/stat/106/3658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3658
 [/us/pl/102/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549
-[/us/pl/100/418/s2204/c/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2204%2Fc%2F1%2FA%2Fi
-[/us/pl/100/418/s2204/c/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2204%2Fc%2F1%2FA%2Fii
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/usc/t12/s635r/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635r%2Fd
-[/us/pl/100/418/s2204/c/1/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2204%2Fc%2F1%2FA%2Fiii
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/usc/t12/s635r/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635r%2Fd
 [/us/usc/t12/s635r/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635r%2Fc
 [/us/usc/t12/s635r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635r
-[/us/pl/100/418/s2204/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2204%2Fd%2F2
+[/us/pl/100/418/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtII
 [/us/stat/102/1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1331
 [/us/usc/t5/s5314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5314
 [/us/usc/t22/s2421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2421

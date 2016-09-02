@@ -29,7 +29,7 @@
 
         The Secretary shall include in any demonstration under this section an evaluation of the demonstration to cover the full experience involved in all stages of the demonstration.
 
-([Pub. L. 91–609, title V, § 506][/us/pl/91/609/s506], as added [Pub. L. 93–383, title VIII, § 814][/us/pl/93/383/s814], Aug. 22, 1974, [88 Stat. 738][/us/stat/88/738]; amended [Pub. L. 99–386, title I, § 105(b)][/us/pl/99/386/s105/b], Aug. 22, 1986, [100 Stat. 822][/us/stat/100/822].)
+([Pub. L. 91–609, title V][/us/pl/91/609/tV], § 506, as added [Pub. L. 93–383, title VIII][/us/pl/93/383/tVIII], § 814, Aug. 22, 1974, [88 Stat. 738][/us/stat/88/738]; amended [Pub. L. 99–386, title I][/us/pl/99/386/tI], § 105(b), Aug. 22, 1986, [100 Stat. 822][/us/stat/100/822].)
 
  __Codification__ 
 
@@ -47,10 +47,10 @@
 ----------
 
 [/us/usc/t12/s1701z–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701z%E2%80%931
-[/us/pl/91/609/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F609%2Fs506
-[/us/pl/93/383/s814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs814
+[/us/pl/91/609/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F609%2FtV
+[/us/pl/93/383/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtVIII
 [/us/stat/88/738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F738
-[/us/pl/99/386/s105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F386%2Fs105%2Fb
+[/us/pl/99/386/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F386%2FtI
 [/us/stat/100/822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F822
 [/us/pl/99/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F386
 

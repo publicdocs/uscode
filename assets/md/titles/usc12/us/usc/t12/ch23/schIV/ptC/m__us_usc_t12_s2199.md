@@ -41,7 +41,7 @@
 
         (3) explain to the borrower in writing how the credit status of the borrower may be improved to receive a lower interest rate on the loan.
 
-([Pub. L. 92–181, title IV, § 4][/us/pl/92/181/s4].13, as added [Pub. L. 99–205, title III, § 301(b)][/us/pl/99/205/s301/b], Dec. 23, 1985, [99 Stat. 1707][/us/stat/99/1707]; amended [Pub. L. 100–233, title I][/us/pl/100/233], §§ 103, 109, Jan. 6, 1988, [101 Stat. 1579][/us/stat/101/1579], 1584; [Pub. L. 104–105, title II, § 207][/us/pl/104/105/s207], Feb. 10, 1996, [110 Stat. 173][/us/stat/110/173].)
+([Pub. L. 92–181, title IV][/us/pl/92/181/tIV], § 4.13, as added [Pub. L. 99–205, title III][/us/pl/99/205/tIII], § 301(b), Dec. 23, 1985, [99 Stat. 1707][/us/stat/99/1707]; amended [Pub. L. 100–233, title I][/us/pl/100/233/tI], §§ 103, 109, Jan. 6, 1988, [101 Stat. 1579][/us/stat/101/1579], 1584; [Pub. L. 104–105, title II][/us/pl/104/105/tII], § 207, Feb. 10, 1996, [110 Stat. 173][/us/stat/110/173].)
 
  __References in Text__ 
 
@@ -49,15 +49,15 @@
 
  __Prior Provisions__ 
 
-    A prior section 4.13 of [Pub. L. 92–181, title IV][/us/pl/92/181], Dec. 10, 1971, [85 Stat. 613][/us/stat/85/613], was renumbered section 4.13B by [Pub. L. 99–205, title III, § 301(a)][/us/pl/99/205/s301/a], Dec. 23, 1985, [99 Stat. 1707][/us/stat/99/1707], and is classified to [section 2201 of this title][/us/usc/t12/s2201].
+    A prior section 4.13 of [Pub. L. 92–181, title IV][/us/pl/92/181/tIV], Dec. 10, 1971, [85 Stat. 613][/us/stat/85/613], was renumbered section 4.13B by [Pub. L. 99–205, title III][/us/pl/99/205/tIII], § 301(a), Dec. 23, 1985, [99 Stat. 1707][/us/stat/99/1707], and is classified to [section 2201 of this title][/us/usc/t12/s2201].
 
  __Amendments__ 
 
     1996—Subsec. (a)(4). [Pub. L. 104–105][/us/pl/104/105] inserted before semicolon at end “, and notice to the borrower of a change in the interest rate applicable to the loan of the borrower may be made within a reasonable time after the effective date of an increase or decrease in the interest rate”.
 
-    1988—[Pub. L. 100–233, § 109][/us/pl/100/233/s109], designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+    1988—[Pub. L. 100–233][/us/pl/100/233], § 109, designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
-    [Pub. L. 100–233, § 103][/us/pl/100/233/s103], amended section generally, substituting introductory provisions and cls. (1) to (6) for former subsecs. (a) and (b).
+    [Pub. L. 100–233][/us/pl/100/233], § 103, amended section generally, substituting introductory provisions and cls. (1) to (6) for former subsecs. (a) and (b).
 
  __Effective Date__ 
 
@@ -72,24 +72,24 @@
 
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601
 [/us/usc/t12/s2162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2162
-[/us/pl/92/181/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs4
-[/us/pl/99/205/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2Fs301%2Fb
+[/us/pl/92/181/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtIV
+[/us/pl/99/205/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2FtIII
 [/us/stat/99/1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1707
-[/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
+[/us/pl/100/233/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtI
 [/us/stat/101/1579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1579
-[/us/pl/104/105/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2Fs207
+[/us/pl/104/105/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2FtII
 [/us/stat/110/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F173
 [/us/pl/90/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321
 [/us/stat/82/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F146
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601
-[/us/pl/92/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181
+[/us/pl/92/181/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtIV
 [/us/stat/85/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F613
-[/us/pl/99/205/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2Fs301%2Fa
+[/us/pl/99/205/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2FtIII
 [/us/stat/99/1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1707
 [/us/usc/t12/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2201
 [/us/pl/104/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105
-[/us/pl/100/233/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs109
-[/us/pl/100/233/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs103
+[/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
+[/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
 [/us/pl/99/205/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2Fs401
 [/us/usc/t12/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2001
 

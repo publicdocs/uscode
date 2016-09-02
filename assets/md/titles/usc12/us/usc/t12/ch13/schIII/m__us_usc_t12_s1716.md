@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch13/schIII/m__us_usc_t12_ch13_schIII.md) | [Next](./../../../../..//us/usc/t12/ch13/schIII/m__us_usc_t12_s1716b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1716)
+[Previous](./../../../../..//us/usc/t12/ch13/schIII/m__us_usc_t12_ch13_schIII.md) | [Next](./../../../../..//us/usc/t12/ch13/schIII/m__us_usc_t12_s1716–1 _us_usc_t12_s1716a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1716)
 
 ## § 1716. Declaration of purposes of subchapter
 
@@ -27,19 +27,19 @@
 
     (5) manage and liquidate federally owned mortgage portfolios in an orderly manner, with a minimum of adverse effect upon the residential mortgage market and minimum loss to the Federal Government.
 
-([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title III, § 301, [48 Stat. 1252][/us/stat/48/1252]; [May 28, 1935, ch. 150, § 30][/us/act/1935-05-28/ch150/s30], [49 Stat. 300][/us/stat/49/300]; [Feb. 3, 1938, ch. 13][/us/act/1938-02-03/ch13], §§ 4, 5, [52 Stat. 23][/us/stat/52/23]; [June 3, 1939, ch. 175][/us/act/1939-06-03/ch175], §§ 15, 16, [53 Stat. 808][/us/stat/53/808]; [Mar. 28, 1941, ch. 31, § 5][/us/act/1941-03-28/ch31/s5], [55 Stat. 62][/us/stat/55/62]; [July 1, 1948, ch. 784, § 1][/us/act/1948-07-01/ch784/s1], [62 Stat. 1206][/us/stat/62/1206]; [Aug. 10, 1948, ch. 832][/us/act/1948-08-10/ch832], title II, §§ 201, 202, [62 Stat. 1275][/us/stat/62/1275]; [Aug. 8, 1949, ch. 403, § 4][/us/act/1949-08-08/ch403/s4], [63 Stat. 576][/us/stat/63/576]; [Oct. 25, 1949, ch. 729, § 7][/us/act/1949-10-25/ch729/s7], [63 Stat. 906][/us/stat/63/906]; [Apr. 20, 1950, ch. 94][/us/act/1950-04-20/ch94], title I, §§ 116, 122, [64 Stat. 57][/us/stat/64/57], 59; [Sept. 1, 1951, ch. 378][/us/act/1951-09-01/ch378], title II, § 205, title VI, § 608(b), [65 Stat. 303][/us/stat/65/303], 315; [Apr. 9, 1952, ch. 173][/us/act/1952-04-09/ch173], [66 Stat. 51][/us/stat/66/51]; [July 14, 1952, ch. 723][/us/act/1952-07-14/ch723], §§ 3(a), 10(a)(2), [66 Stat. 602][/us/stat/66/602], 603; [June 30, 1953, ch. 170][/us/act/1953-06-30/ch170], §§ 12, 13(a), [67 Stat. 125][/us/stat/67/125]; [June 29, 1954, ch. 410, § 1(1)][/us/act/1954-06-29/ch410/s1/1], [68 Stat. 320][/us/stat/68/320]; [Aug. 2, 1954, ch. 649][/us/act/1954-08-02/ch649], title II, § 201, [68 Stat. 612][/us/stat/68/612]; [Pub. L. 90–448, title VIII, § 802(b)][/us/pl/90/448/s802/b], Aug. 1, 1968, [82 Stat. 536][/us/stat/82/536]; [Pub. L. 101–73, title VII, § 731(m)(1)][/us/pl/101/73/s731/m/1], Aug. 9, 1989, [103 Stat. 435][/us/stat/103/435]; [Pub. L. 102–550, title XIII, § 1381(a)][/us/pl/102/550/s1381/a], Oct. 28, 1992, [106 Stat. 3994][/us/stat/106/3994].)
+([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title III, § 301, [48 Stat. 1252][/us/stat/48/1252]; [May 28, 1935, ch. 150][/us/act/1935-05-28/ch150], § 30, [49 Stat. 300][/us/stat/49/300]; [Feb. 3, 1938, ch. 13][/us/act/1938-02-03/ch13], §§ 4, 5, [52 Stat. 23][/us/stat/52/23]; [June 3, 1939, ch. 175][/us/act/1939-06-03/ch175], §§ 15, 16, [53 Stat. 808][/us/stat/53/808]; [Mar. 28, 1941, ch. 31][/us/act/1941-03-28/ch31], § 5, [55 Stat. 62][/us/stat/55/62]; [July 1, 1948, ch. 784][/us/act/1948-07-01/ch784], § 1, [62 Stat. 1206][/us/stat/62/1206]; [Aug. 10, 1948, ch. 832][/us/act/1948-08-10/ch832], title II, §§ 201, 202, [62 Stat. 1275][/us/stat/62/1275]; [Aug. 8, 1949, ch. 403][/us/act/1949-08-08/ch403], § 4, [63 Stat. 576][/us/stat/63/576]; [Oct. 25, 1949, ch. 729][/us/act/1949-10-25/ch729], § 7, [63 Stat. 906][/us/stat/63/906]; [Apr. 20, 1950, ch. 94][/us/act/1950-04-20/ch94], title I, §§ 116, 122, [64 Stat. 57][/us/stat/64/57], 59; [Sept. 1, 1951, ch. 378][/us/act/1951-09-01/ch378], title II, § 205, title VI, § 608(b), [65 Stat. 303][/us/stat/65/303], 315; [Apr. 9, 1952, ch. 173][/us/act/1952-04-09/ch173], [66 Stat. 51][/us/stat/66/51]; [July 14, 1952, ch. 723][/us/act/1952-07-14/ch723], §§ 3(a), 10(a)(2), [66 Stat. 602][/us/stat/66/602], 603; [June 30, 1953, ch. 170][/us/act/1953-06-30/ch170], §§ 12, 13(a), [67 Stat. 125][/us/stat/67/125]; [June 29, 1954, ch. 410][/us/act/1954-06-29/ch410], § 1(1), [68 Stat. 320][/us/stat/68/320]; [Aug. 2, 1954, ch. 649][/us/act/1954-08-02/ch649], title II, § 201, [68 Stat. 612][/us/stat/68/612]; [Pub. L. 90–448, title VIII][/us/pl/90/448/tVIII], § 802(b), Aug. 1, 1968, [82 Stat. 536][/us/stat/82/536]; [Pub. L. 101–73, title VII][/us/pl/101/73/tVII], § 731(m)(1), Aug. 9, 1989, [103 Stat. 435][/us/stat/103/435]; [Pub. L. 102–550, title XIII][/us/pl/102/550/tXIII], § 1381(a), Oct. 28, 1992, [106 Stat. 3994][/us/stat/106/3994].)
 
  __Amendments__ 
 
-    1992—[Pub. L. 102–550, § 1381(a)(1)][/us/pl/102/550/s1381/a/1], substituted “residential” for “home” in introductory provisions.
+    1992—[Pub. L. 102–550][/us/pl/102/550], § 1381(a)(1), substituted “residential” for “home” in introductory provisions.
 
-    Par. (1). [Pub. L. 102–550, § 1381(a)(1)][/us/pl/102/550/s1381/a/1], substituted “residential” for “home”.
+    Par. (1). [Pub. L. 102–550][/us/pl/102/550], § 1381(a)(1), substituted “residential” for “home”.
 
-    Par. (3). [Pub. L. 102–550, § 1381(a)(1)][/us/pl/102/550/s1381/a/1], (2), substituted “residential” for “home” in two places, substituted “(including activities relating to mortgages on housing for low- and moderate-income families involving a reasonable economic return that may be less than the return earned on other activities)” for “(including mortgages securing housing for low- and moderate-income families involving a reasonable economic return)”, and struck out “and” at end.
+    Par. (3). [Pub. L. 102–550][/us/pl/102/550], § 1381(a)(1), (2), substituted “residential” for “home” in two places, substituted “(including activities relating to mortgages on housing for low- and moderate-income families involving a reasonable economic return that may be less than the return earned on other activities)” for “(including mortgages securing housing for low- and moderate-income families involving a reasonable economic return)”, and struck out “and” at end.
 
-    Par. (4). [Pub. L. 102–550, § 1381(a)(3)][/us/pl/102/550/s1381/a/3], (4), added par. (4) and redesignated former par. (4) as (5).
+    Par. (4). [Pub. L. 102–550][/us/pl/102/550], § 1381(a)(3), (4), added par. (4) and redesignated former par. (4) as (5).
 
-    Par. (5). [Pub. L. 102–550, § 1381(a)(1)][/us/pl/102/550/s1381/a/1], (3), redesignated par. (4) as (5) and substituted “residential” for “home”.
+    Par. (5). [Pub. L. 102–550][/us/pl/102/550], § 1381(a)(1), (3), redesignated par. (4) as (5) and substituted “residential” for “home”.
 
     1989—[Pub. L. 101–73][/us/pl/101/73] added pars. (1) to (3), struck out subsecs. (a) and (b), and redesignated subsec. (c) as par. (4). Prior to amendment, subsecs. (a) and (b) related to supplementary assistance to the secondary market and to provision of special assistance, respectively.
 
@@ -103,7 +103,7 @@
 
  __Effective Date of 1949 Amendment__ 
 
-    Joint Res. [Oct. 25, 1949, ch. 729, § 7][/us/act/1949-10-25/ch729/s7], [63 Stat. 906][/us/stat/63/906], provided in part: “That the amendment made by this section 7 with respect to mortgages guaranteed under section 501 of the Servicemen’s Readjustment Act of 1944, as amended \[this section\], shall apply only to such mortgages guaranteed after the date of enactment of this Act \[Oct. 25, 1949\].”
+    Joint Res. [Oct. 25, 1949, ch. 729][/us/act/1949-10-25/ch729], § 7, [63 Stat. 906][/us/stat/63/906], provided in part: “That the amendment made by this section 7 with respect to mortgages guaranteed under section 501 of the Servicemen’s Readjustment Act of 1944, as amended \[this section\], shall apply only to such mortgages guaranteed after the date of enactment of this Act \[Oct. 25, 1949\].”
 
  __Delegation of Functions__ 
 
@@ -111,40 +111,34 @@
 
  __Service or Sale of Mortgages Purchased Prior to__  __July 1, 1948__  __; Fulfillment of Prior Commitments__ 
 
-[Act July 1, 1948, ch. 784, § 2][/us/act/1948-07-01/ch784/s2], [62 Stat. 1209][/us/stat/62/1209], provided that: 
+[Act July 1, 1948, ch. 784][/us/act/1948-07-01/ch784], § 2, [62 Stat. 1209][/us/stat/62/1209], provided that: 
 
 > “Nothing in the amendment made by the first section of this Act \[amending sections 1716, 1717 to 1721 of this title\] shall limit the authority of the Federal National Mortgage Association to service or sell any mortgage purchased prior to the date of the enactment of this Act \[July 1, 1948\], or to purchase, service, or sell any mortgage with respect to which a commitment to purchase was made prior to the date of the enactment of this Act \[July 1, 1948\].”
 
-§§ 1716–1, 1716a. __Repealed.__  __[__  __Aug. 2, 1954, ch. 649__  __][/us/act/1954-08-02/ch649]__  __, title II, § 206,__  __[__  __68 Stat. 622__  __][/us/stat/68/622]__ 
-
-    Section 1716–1, acts [Oct. 30, 1951, ch. 642][/us/act/1951-10-30/ch642], [65 Stat. 599][/us/stat/65/599]; [June 30, 1953, ch. 170, § 14][/us/act/1953-06-30/ch170/s14], [67 Stat. 125][/us/stat/67/125], related to special authority of the Federal National Mortgage Association to make advance commitments, under certain conditions, with respect to insured cooperative-housing mortgages under [section 1715e of this title][/us/usc/t12/s1715e].
-
-    Section 1716a, [act Sept. 1, 1951, ch. 378][/us/act/1951-09-01/ch378], title VI, § 608(a), [65 Stat. 315][/us/stat/65/315], required that one of the persons constituting the Board of Directors of the Federal National Mortgage Association be appointed by the Administrator of Veterans’ Affairs from among personnel of the Veterans’ Administration.
-
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch13/schIII/m__us_usc_t12_ch13_schIII.md) | [Next](./../../../../..//us/usc/t12/ch13/schIII/m__us_usc_t12_s1716b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1716)
+[Previous](./../../../../..//us/usc/t12/ch13/schIII/m__us_usc_t12_ch13_schIII.md) | [Next](./../../../../..//us/usc/t12/ch13/schIII/m__us_usc_t12_s1716–1 _us_usc_t12_s1716a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1716)
 
 ----------
 ----------
 
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
 [/us/stat/48/1252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1252
-[/us/act/1935-05-28/ch150/s30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-05-28%2Fch150%2Fs30
+[/us/act/1935-05-28/ch150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-05-28%2Fch150
 [/us/stat/49/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F300
 [/us/act/1938-02-03/ch13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-03%2Fch13
 [/us/stat/52/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F23
 [/us/act/1939-06-03/ch175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-06-03%2Fch175
 [/us/stat/53/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F808
-[/us/act/1941-03-28/ch31/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-03-28%2Fch31%2Fs5
+[/us/act/1941-03-28/ch31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-03-28%2Fch31
 [/us/stat/55/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F62
-[/us/act/1948-07-01/ch784/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-07-01%2Fch784%2Fs1
+[/us/act/1948-07-01/ch784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-07-01%2Fch784
 [/us/stat/62/1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1206
 [/us/act/1948-08-10/ch832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-08-10%2Fch832
 [/us/stat/62/1275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1275
-[/us/act/1949-08-08/ch403/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-08%2Fch403%2Fs4
+[/us/act/1949-08-08/ch403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-08%2Fch403
 [/us/stat/63/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F576
-[/us/act/1949-10-25/ch729/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-25%2Fch729%2Fs7
+[/us/act/1949-10-25/ch729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-25%2Fch729
 [/us/stat/63/906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F906
 [/us/act/1950-04-20/ch94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-04-20%2Fch94
 [/us/stat/64/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F57
@@ -156,21 +150,21 @@
 [/us/stat/66/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F602
 [/us/act/1953-06-30/ch170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-30%2Fch170
 [/us/stat/67/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F125
-[/us/act/1954-06-29/ch410/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-06-29%2Fch410%2Fs1%2F1
+[/us/act/1954-06-29/ch410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-06-29%2Fch410
 [/us/stat/68/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F320
 [/us/act/1954-08-02/ch649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-02%2Fch649
 [/us/stat/68/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F612
-[/us/pl/90/448/s802/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs802%2Fb
+[/us/pl/90/448/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2FtVIII
 [/us/stat/82/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F536
-[/us/pl/101/73/s731/m/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs731%2Fm%2F1
+[/us/pl/101/73/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtVII
 [/us/stat/103/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F435
-[/us/pl/102/550/s1381/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1381%2Fa
+[/us/pl/102/550/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIII
 [/us/stat/106/3994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3994
-[/us/pl/102/550/s1381/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1381%2Fa%2F1
-[/us/pl/102/550/s1381/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1381%2Fa%2F1
-[/us/pl/102/550/s1381/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1381%2Fa%2F1
-[/us/pl/102/550/s1381/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1381%2Fa%2F3
-[/us/pl/102/550/s1381/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1381%2Fa%2F1
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
 [/us/pl/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448
 [/us/usc/t12/s1716b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1716b
@@ -179,19 +173,10 @@
 [/us/pl/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448
 [/us/pl/90/448/s808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs808
 [/us/usc/t12/s1716b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1716b
-[/us/act/1949-10-25/ch729/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-25%2Fch729%2Fs7
+[/us/act/1949-10-25/ch729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-25%2Fch729
 [/us/stat/63/906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F906
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
-[/us/act/1948-07-01/ch784/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-07-01%2Fch784%2Fs2
+[/us/act/1948-07-01/ch784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-07-01%2Fch784
 [/us/stat/62/1209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1209
-[/us/act/1954-08-02/ch649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-02%2Fch649
-[/us/stat/68/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F622
-[/us/act/1951-10-30/ch642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-30%2Fch642
-[/us/stat/65/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F599
-[/us/act/1953-06-30/ch170/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-30%2Fch170%2Fs14
-[/us/stat/67/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F125
-[/us/usc/t12/s1715e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715e
-[/us/act/1951-09-01/ch378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-09-01%2Fch378
-[/us/stat/65/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F315
 
 

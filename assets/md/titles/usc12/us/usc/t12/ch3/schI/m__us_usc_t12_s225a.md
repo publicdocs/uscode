@@ -17,7 +17,7 @@
 
     The Board of Governors of the Federal Reserve System and the Federal Open Market Committee shall maintain long run growth of the monetary and credit aggregates commensurate with the economy’s long run potential to increase production, so as to promote effectively the goals of maximum employment, stable prices, and moderate long-term interest rates.
 
-([Dec. 23, 1913, ch. 6, § 2A][/us/act/1913-12-23/ch6/s2A], as added [Pub. L. 95–188, title II, § 202][/us/pl/95/188/s202], Nov. 16, 1977, [91 Stat. 1387][/us/stat/91/1387]; amended [Pub. L. 95–523, title I, § 108(a)][/us/pl/95/523/s108/a], Oct. 27, 1978, [92 Stat. 1897][/us/stat/92/1897]; [Pub. L. 100–418, title III, § 3005(c)][/us/pl/100/418/s3005/c], Aug. 23, 1988, [102 Stat. 1375][/us/stat/102/1375]; [Pub. L. 106–569, title X, § 1003(a)][/us/pl/106/569/s1003/a], Dec. 27, 2000, [114 Stat. 3028][/us/stat/114/3028].)
+([Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 2A, as added [Pub. L. 95–188, title II][/us/pl/95/188/tII], § 202, Nov. 16, 1977, [91 Stat. 1387][/us/stat/91/1387]; amended [Pub. L. 95–523, title I][/us/pl/95/523/tI], § 108(a), Oct. 27, 1978, [92 Stat. 1897][/us/stat/92/1897]; [Pub. L. 100–418, title III][/us/pl/100/418/tIII], § 3005(c), Aug. 23, 1988, [102 Stat. 1375][/us/stat/102/1375]; [Pub. L. 106–569, title X][/us/pl/106/569/tX], § 1003(a), Dec. 27, 2000, [114 Stat. 3028][/us/stat/114/3028].)
 
  __Codification__ 
 
@@ -33,7 +33,7 @@
 
  __Effective Date of 1978 Amendment__ 
 
-[Pub. L. 95–523, title I, § 108(b)][/us/pl/95/523/s108/b], Oct. 27, 1978, [92 Stat. 1898][/us/stat/92/1898], provided that: 
+[Pub. L. 95–523, title I][/us/pl/95/523/tI], § 108(b), Oct. 27, 1978, [92 Stat. 1898][/us/stat/92/1898], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] takes effect on January 1, 1979.”
 
@@ -44,21 +44,21 @@
 ----------
 ----------
 
-[/us/act/1913-12-23/ch6/s2A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs2A
-[/us/pl/95/188/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F188%2Fs202
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
+[/us/pl/95/188/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F188%2FtII
 [/us/stat/91/1387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1387
-[/us/pl/95/523/s108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523%2Fs108%2Fa
+[/us/pl/95/523/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523%2FtI
 [/us/stat/92/1897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1897
-[/us/pl/100/418/s3005/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs3005%2Fc
+[/us/pl/100/418/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtIII
 [/us/stat/102/1375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1375
-[/us/pl/106/569/s1003/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs1003%2Fa
+[/us/pl/106/569/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2FtX
 [/us/stat/114/3028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F3028
 [/us/pl/95/188/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F188%2Fs202
 [/us/usc/t12/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs302
 [/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/95/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523
-[/us/pl/95/523/s108/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523%2Fs108%2Fb
+[/us/pl/95/523/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523%2FtI
 [/us/stat/92/1898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1898
 
 

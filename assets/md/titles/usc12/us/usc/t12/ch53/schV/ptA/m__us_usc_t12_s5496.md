@@ -45,7 +45,7 @@
 
         (9) an analysis of the efforts of the Bureau to increase workforce and contracting diversity consistent with the procedures established by the Office of Minority and Women Inclusion.
 
-([Pub. L. 111–203, title X, § 1016][/us/pl/111/203/s1016], July 21, 2010, [124 Stat. 1974][/us/stat/124/1974].)
+([Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1016, July 21, 2010, [124 Stat. 1974][/us/stat/124/1974].)
 
 ----------
 
@@ -54,7 +54,7 @@
 ----------
 ----------
 
-[/us/pl/111/203/s1016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1016
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/1974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1974
 
 

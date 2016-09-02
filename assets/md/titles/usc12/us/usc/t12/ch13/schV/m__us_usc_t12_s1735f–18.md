@@ -59,11 +59,11 @@
 
             The term “designated census tract” means a census tract located within a metropolitan statistical area, as defined pursuant to regulations issued by the Secretary of Commerce.
 
-([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title V, § 540, as added [Pub. L. 101–625, title III, § 335(a)][/us/pl/101/625/s335/a], Nov. 28, 1990, [104 Stat. 4142][/us/stat/104/4142].)
+([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title V, § 540, as added [Pub. L. 101–625, title III][/us/pl/101/625/tIII], § 335(a), Nov. 28, 1990, [104 Stat. 4142][/us/stat/104/4142].)
 
  __Availability of Information Regarding Default/Claim Rates During Transition__ 
 
-[Pub. L. 101–625, title III, § 335(b)][/us/pl/101/625/s335/b], Nov. 28, 1990, [104 Stat. 4144][/us/stat/104/4144], provided that: 
+[Pub. L. 101–625, title III][/us/pl/101/625/tIII], § 335(b), Nov. 28, 1990, [104 Stat. 4144][/us/stat/104/4144], provided that: 
 
 > “During the period beginning on the date of the enactment of this Act \[Nov. 28, 1990\] and ending on the date of the initial availability of information under section 540 of the National Housing Act \[[12 U.S.C. 1735f–18][/us/usc/t12/s1735f–18]\] (as added by subsection (a)), the Secretary of Housing and Urban Development shall make publicly available all reports regarding Default/Claim Rates per Regional Office for Fiscal Year 1990 Endorsements that are produced by the Department of Housing and Urban Development during such period.”
 
@@ -77,9 +77,9 @@
 [/us/usc/t12/s1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1709
 [/us/usc/t12/s1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1709
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
-[/us/pl/101/625/s335/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs335%2Fa
+[/us/pl/101/625/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtIII
 [/us/stat/104/4142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4142
-[/us/pl/101/625/s335/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs335%2Fb
+[/us/pl/101/625/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtIII
 [/us/stat/104/4144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4144
 [/us/usc/t12/s1735f–18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1735f%E2%80%9318
 

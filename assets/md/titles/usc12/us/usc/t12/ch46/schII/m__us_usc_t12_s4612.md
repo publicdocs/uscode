@@ -61,13 +61,13 @@
 
         The Director shall periodically review the amount of core capital maintained by the enterprises, the amount of capital retained by the Federal Home Loan Banks, and the minimum capital levels established for such regulated entities pursuant to this section.
 
-([Pub. L. 102–550, title XIII, § 1362][/us/pl/102/550/s1362], Oct. 28, 1992, [106 Stat. 3975][/us/stat/106/3975]; [Pub. L. 110–289, div. A, title I, § 1111][/us/pl/110/289/s1111], July 30, 2008, [122 Stat. 2676][/us/stat/122/2676].)
+([Pub. L. 102–550, title XIII][/us/pl/102/550/tXIII], § 1362, Oct. 28, 1992, [106 Stat. 3975][/us/stat/106/3975]; [Pub. L. 110–289, div. A, title I][/us/pl/110/289/dA/tI], § 1111, July 30, 2008, [122 Stat. 2676][/us/stat/122/2676].)
 
  __Amendments__ 
 
-    2008—Subsec. (a). [Pub. L. 110–289, § 1111(1)][/us/pl/110/289/s1111/1], substituted “Enterprises” for “In general” in heading.
+    2008—Subsec. (a). [Pub. L. 110–289][/us/pl/110/289], § 1111(1), substituted “Enterprises” for “In general” in heading.
 
-    Subsecs. (b) to (f). [Pub. L. 110–289, § 1111(2)][/us/pl/110/289/s1111/2], added subsecs. (b) to (f) and struck out former subsec. (b) which related to minimum capital level during transition period.
+    Subsecs. (b) to (f). [Pub. L. 110–289][/us/pl/110/289], § 1111(2), added subsecs. (b) to (f) and struck out former subsec. (b) which related to minimum capital level during transition period.
 
 ----------
 
@@ -78,11 +78,11 @@
 
 [/us/usc/t12/s1426/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1426%2Fa%2F2
 [/us/usc/t12/s4526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4526
-[/us/pl/102/550/s1362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1362
+[/us/pl/102/550/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIII
 [/us/stat/106/3975]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3975
-[/us/pl/110/289/s1111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1111
+[/us/pl/110/289/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtI
 [/us/stat/122/2676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2676
-[/us/pl/110/289/s1111/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1111%2F1
-[/us/pl/110/289/s1111/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1111%2F2
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
 
 

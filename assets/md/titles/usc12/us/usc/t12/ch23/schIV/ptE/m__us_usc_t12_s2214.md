@@ -17,7 +17,7 @@
 
     State and other laws shall apply to corporations organized pursuant to this part to the same extent such laws would apply to the organizing banks engaged in the same activity in the same jurisdiction: Provided, however, That to the extent that sections 2023, 2098, and 2134 of this title may exempt banks or associations of the Farm Credit System from taxation, such exemptions, other than with respect to franchise taxes, shall not extend to corporations organized pursuant to this part.
 
-([Pub. L. 92–181, title IV, § 4][/us/pl/92/181/s4].28, as added [Pub. L. 96–592, title IV, § 404][/us/pl/96/592/s404], Dec. 24, 1980, [94 Stat. 3448][/us/stat/94/3448]; amended [Pub. L. 100–399, title IX, § 901(k)][/us/pl/100/399/s901/k], Aug. 17, 1988, [102 Stat. 1007][/us/stat/102/1007]; [Pub. L. 102–237, title V, § 502(g)][/us/pl/102/237/s502/g], Dec. 13, 1991, [105 Stat. 1869][/us/stat/105/1869].)
+([Pub. L. 92–181, title IV][/us/pl/92/181/tIV], § 4.28, as added [Pub. L. 96–592, title IV][/us/pl/96/592/tIV], § 404, Dec. 24, 1980, [94 Stat. 3448][/us/stat/94/3448]; amended [Pub. L. 100–399, title IX][/us/pl/100/399/tIX], § 901(k), Aug. 17, 1988, [102 Stat. 1007][/us/stat/102/1007]; [Pub. L. 102–237, title V][/us/pl/102/237/tV], § 502(g), Dec. 13, 1991, [105 Stat. 1869][/us/stat/105/1869].)
 
  __Amendments__ 
 
@@ -40,12 +40,12 @@
 ----------
 ----------
 
-[/us/pl/92/181/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs4
-[/us/pl/96/592/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592%2Fs404
+[/us/pl/92/181/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtIV
+[/us/pl/96/592/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592%2FtIV
 [/us/stat/94/3448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3448
-[/us/pl/100/399/s901/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs901%2Fk
+[/us/pl/100/399/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtIX
 [/us/stat/102/1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1007
-[/us/pl/102/237/s502/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs502%2Fg
+[/us/pl/102/237/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtV
 [/us/stat/105/1869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1869
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 [/us/usc/t12/s2098]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2098

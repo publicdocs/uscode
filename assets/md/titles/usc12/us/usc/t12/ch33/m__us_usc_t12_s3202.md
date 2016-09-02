@@ -21,7 +21,7 @@
 
     (2) the same city, town, or village as that in which an office of the other institution or any depository institution that is an affiliate of such other institution is located, or in any city, town, or village contiguous or adjacent thereto.
 
-([Pub. L. 95–630, title II, § 203][/us/pl/95/630/s203], Nov. 10, 1978, [92 Stat. 3673][/us/stat/92/3673]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title VII, § 701(c)\], Nov. 30, 1983, [97 Stat. 1267][/us/stat/97/1267]; [Pub. L. 109–351, title VI, § 610][/us/pl/109/351/s610], Oct. 13, 2006, [120 Stat. 1984][/us/stat/120/1984].)
+([Pub. L. 95–630, title II][/us/pl/95/630/tII], § 203, Nov. 10, 1978, [92 Stat. 3673][/us/stat/92/3673]; [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title VII, § 701(c)\], Nov. 30, 1983, [97 Stat. 1267][/us/stat/97/1267]; [Pub. L. 109–351, title VI][/us/pl/109/351/tVI], § 610, Oct. 13, 2006, [120 Stat. 1984][/us/stat/120/1984].)
 
  __Amendments__ 
 
@@ -36,11 +36,11 @@
 ----------
 ----------
 
-[/us/pl/95/630/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs203
+[/us/pl/95/630/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtII
 [/us/stat/92/3673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3673
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1267
-[/us/pl/109/351/s610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs610
+[/us/pl/109/351/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2FtVI
 [/us/stat/120/1984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1984
 [/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
 [/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181

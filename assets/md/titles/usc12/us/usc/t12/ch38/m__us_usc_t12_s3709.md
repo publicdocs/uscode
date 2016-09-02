@@ -39,7 +39,7 @@
 
         If the foreclosure commissioner cancels a foreclosure sale under this chapter a new foreclosure may be subsequently commenced as provided in this chapter.
 
-([Pub. L. 97–35, title III, § 369A][/us/pl/97/35/s369A], Aug. 13, 1981, [95 Stat. 427][/us/stat/95/427].)
+([Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 369A, Aug. 13, 1981, [95 Stat. 427][/us/stat/95/427].)
 
 ----------
 
@@ -49,7 +49,7 @@
 ----------
 
 [/us/usc/t12/s3711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3711
-[/us/pl/97/35/s369A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs369A
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F427
 
 

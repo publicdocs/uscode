@@ -101,7 +101,7 @@
 
         There are authorized to be appropriated such sums as may be necessary to carry out this section.
 
-([Pub. L. 102–486, title I, § 106][/us/pl/102/486/s106], Oct. 24, 1992, [106 Stat. 2792][/us/stat/106/2792]; [Pub. L. 110–289, div. B, title I, § 2123][/us/pl/110/289/s2123], July 30, 2008, [122 Stat. 2839][/us/stat/122/2839].)
+([Pub. L. 102–486, title I][/us/pl/102/486/tI], § 106, Oct. 24, 1992, [106 Stat. 2792][/us/stat/106/2792]; [Pub. L. 110–289, div. B, title I][/us/pl/110/289/dB/tI], § 2123, July 30, 2008, [122 Stat. 2839][/us/stat/122/2839].)
 
  __References in Text__ 
 
@@ -115,17 +115,17 @@
 
  __Amendments__ 
 
-    2008—Subsec. (a)(2)(C). [Pub. L. 110–289, § 2123(1)][/us/pl/110/289/s2123/1], amended subpar. (C) generally. Prior to amendment, text read as follows: “The cost of cost-effective energy efficiency improvements shall not exceed the greater of—
+    2008—Subsec. (a)(2)(C). [Pub. L. 110–289][/us/pl/110/289], § 2123(1), amended subpar. (C) generally. Prior to amendment, text read as follows: “The cost of cost-effective energy efficiency improvements shall not exceed the greater of—
 
     “(i) 5 percent of the property value (not to exceed $8,000); or
 
     “(ii) $4,000.”
 
-    Subsec. (a)(2)(D). [Pub. L. 110–289, § 2123(2)][/us/pl/110/289/s2123/2], added subpar. (D).
+    Subsec. (a)(2)(D). [Pub. L. 110–289][/us/pl/110/289], § 2123(2), added subpar. (D).
 
  __Similar Provisions__ 
 
-    Similar provisions were contained in [Pub. L. 102–550, title V, § 513][/us/pl/102/550/s513], Oct. 28, 1992, [106 Stat. 3786][/us/stat/106/3786].
+    Similar provisions were contained in [Pub. L. 102–550, title V][/us/pl/102/550/tV], § 513, Oct. 28, 1992, [106 Stat. 3786][/us/stat/106/3786].
 
 ----------
 
@@ -142,17 +142,17 @@
 [/us/usc/t12/s1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1707
 [/us/usc/t12/s1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1707
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/pl/102/486/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs106
+[/us/pl/102/486/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtI
 [/us/stat/106/2792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2792
-[/us/pl/110/289/s2123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs2123
+[/us/pl/110/289/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdB%2FtI
 [/us/stat/122/2839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2839
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
 [/us/stat/48/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1246
 [/us/usc/t12/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701
 [/us/usc/t42/s12712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12712
-[/us/pl/110/289/s2123/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs2123%2F1
-[/us/pl/110/289/s2123/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs2123%2F2
-[/us/pl/102/550/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs513
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/102/550/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtV
 [/us/stat/106/3786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3786
 
 

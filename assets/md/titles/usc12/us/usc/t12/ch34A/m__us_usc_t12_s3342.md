@@ -21,7 +21,7 @@
 
     (2) 1-to-4 unit, single family residential appraisals may be performed by State licensed appraisers unless the size and complexity requires a State certified appraiser, where a complex 1-to-4 unit single family residential appraisal means an appraisal for which the property to be appraised, the form of ownership, the property characteristics, or the market conditions are atypical.
 
-([Pub. L. 101–73, title XI, § 1113][/us/pl/101/73/s1113], Aug. 9, 1989, [103 Stat. 514][/us/stat/103/514]; [Pub. L. 111–203, title XIV, § 1473(e)(2)][/us/pl/111/203/s1473/e/2], July 21, 2010, [124 Stat. 2191][/us/stat/124/2191].)
+([Pub. L. 101–73, title XI][/us/pl/101/73/tXI], § 1113, Aug. 9, 1989, [103 Stat. 514][/us/stat/103/514]; [Pub. L. 111–203, title XIV][/us/pl/111/203/tXIV], § 1473(e)(2), July 21, 2010, [124 Stat. 2191][/us/stat/124/2191].)
 
  __Amendments__ 
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/pl/101/73/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs1113
+[/us/pl/101/73/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtXI
 [/us/stat/103/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F514
-[/us/pl/111/203/s1473/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1473%2Fe%2F2
+[/us/pl/111/203/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtXIV
 [/us/stat/124/2191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2191
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203

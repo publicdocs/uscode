@@ -17,7 +17,7 @@
 
     The Comptroller may issue rules and regulations necessary or appropriate to carry out this subchapter.
 
-([Pub. L. 96–221, title VII, § 734][/us/pl/96/221/s734], as added [Pub. L. 97–320, title IV, § 408][/us/pl/97/320/s408], Oct. 15, 1982, [96 Stat. 1515][/us/stat/96/1515].)
+([Pub. L. 96–221, title VII][/us/pl/96/221/tVII], § 734, as added [Pub. L. 97–320, title IV][/us/pl/97/320/tIV], § 408, Oct. 15, 1982, [96 Stat. 1515][/us/stat/96/1515].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/96/221/s734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs734
-[/us/pl/97/320/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs408
+[/us/pl/96/221/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2FtVII
+[/us/pl/97/320/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2FtIV
 [/us/stat/96/1515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1515
 
 

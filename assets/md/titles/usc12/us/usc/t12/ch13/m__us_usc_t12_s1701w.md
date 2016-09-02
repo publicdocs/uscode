@@ -17,7 +17,7 @@
 
     The Secretary of Housing and Urban Development is authorized to provide, or contract with public or private organizations to provide, such budget, debt management, and related counseling services to mortgagors whose mortgages are insured under section 1715z(i) or (j)(4) of this title as he determines to be necessary to assist such mortgagors in meeting the responsibilities of homeownership. There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this section.
 
-([Pub. L. 90–448, title I, § 101(e)][/us/pl/90/448/s101/e], Aug. 1, 1968, [82 Stat. 484][/us/stat/82/484].)
+([Pub. L. 90–448, title I][/us/pl/90/448/tI], § 101(e), Aug. 1, 1968, [82 Stat. 484][/us/stat/82/484].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/90/448/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs101%2Fe
+[/us/pl/90/448/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2FtI
 [/us/stat/82/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F484
 
 

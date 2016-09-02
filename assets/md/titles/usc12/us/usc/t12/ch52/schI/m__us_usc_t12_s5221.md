@@ -159,7 +159,7 @@
 
         The Secretary shall promulgate regulations to implement this section.
 
-([Pub. L. 110–343, div. A, title I, § 111][/us/pl/110/343/s111], Oct. 3, 2008, [122 Stat. 3776][/us/stat/122/3776]; [Pub. L. 111–5, div. B, title VII, § 7001][/us/pl/111/5/s7001], Feb. 17, 2009, [123 Stat. 516][/us/stat/123/516]; [Pub. L. 111–22, div. A, title IV, § 403][/us/pl/111/22/s403], May 20, 2009, [123 Stat. 1658][/us/stat/123/1658].)
+([Pub. L. 110–343, div. A, title I][/us/pl/110/343/dA/tI], § 111, Oct. 3, 2008, [122 Stat. 3776][/us/stat/122/3776]; [Pub. L. 111–5, div. B, title VII][/us/pl/111/5/dB/tVII], § 7001, Feb. 17, 2009, [123 Stat. 516][/us/stat/123/516]; [Pub. L. 111–22, div. A, title IV][/us/pl/111/22/dA/tIV], § 403, May 20, 2009, [123 Stat. 1658][/us/stat/123/1658].)
 
  __References in Text__ 
 
@@ -182,11 +182,11 @@
 [/us/usc/t26/s162/m/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs162%2Fm%2F5
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
 [/us/usc/t12/s1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813
-[/us/pl/110/343/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs111
+[/us/pl/110/343/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdA%2FtI
 [/us/stat/122/3776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3776
-[/us/pl/111/5/s7001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs7001
+[/us/pl/111/5/dB/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdB%2FtVII
 [/us/stat/123/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F516
-[/us/pl/111/22/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs403
+[/us/pl/111/22/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2FdA%2FtIV
 [/us/stat/123/1658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1658
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
 [/us/stat/48/881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F881

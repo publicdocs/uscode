@@ -17,7 +17,7 @@
 
     A national banking association may not convert to a State bank or State savings association during any period in which the national banking association is subject to a cease and desist order (or other formal enforcement order) issued by, or a memorandum of understanding entered into with, the Comptroller of the Currency with respect to a significant supervisory matter.
 
-([Aug. 17, 1950, ch. 729, § 10][/us/act/1950-08-17/ch729/s10], as added [Pub. L. 111–203, title VI, § 612(a)][/us/pl/111/203/s612/a], July 21, 2010, [124 Stat. 1612][/us/stat/124/1612].)
+([Aug. 17, 1950, ch. 729][/us/act/1950-08-17/ch729], § 10, as added [Pub. L. 111–203, title VI][/us/pl/111/203/tVI], § 612(a), July 21, 2010, [124 Stat. 1612][/us/stat/124/1612].)
 
  __Effective Date__ 
 
@@ -30,8 +30,8 @@
 ----------
 ----------
 
-[/us/act/1950-08-17/ch729/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-17%2Fch729%2Fs10
-[/us/pl/111/203/s612/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs612%2Fa
+[/us/act/1950-08-17/ch729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-17%2Fch729
+[/us/pl/111/203/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVI
 [/us/stat/124/1612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1612
 [/us/pl/111/203/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs4
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301

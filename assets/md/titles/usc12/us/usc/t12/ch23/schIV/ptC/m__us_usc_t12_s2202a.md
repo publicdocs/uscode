@@ -205,23 +205,23 @@
 
         Each Farm Credit Bank, on request of any production credit association, may assist the association in restructuring loans under this section.
 
-([Pub. L. 92–181, title IV, § 4][/us/pl/92/181/s4].14A, as added [Pub. L. 100–233, title I, § 102(a)][/us/pl/100/233/s102/a], Jan. 6, 1988, [101 Stat. 1574][/us/stat/101/1574]; amended [Pub. L. 100–399, title I, § 102(a)][/us/pl/100/399/s102/a]–(f), Aug. 17, 1988, [102 Stat. 990][/us/stat/102/990]; [Pub. L. 104–105, title II, § 208(a)][/us/pl/104/105/s208/a], Feb. 10, 1996, [110 Stat. 173][/us/stat/110/173].)
+([Pub. L. 92–181, title IV][/us/pl/92/181/tIV], § 4.14A, as added [Pub. L. 100–233, title I][/us/pl/100/233/tI], § 102(a), Jan. 6, 1988, [101 Stat. 1574][/us/stat/101/1574]; amended [Pub. L. 100–399, title I][/us/pl/100/399/tI], § 102(a)–(f), Aug. 17, 1988, [102 Stat. 990][/us/stat/102/990]; [Pub. L. 104–105, title II][/us/pl/104/105/tII], § 208(a), Feb. 10, 1996, [110 Stat. 173][/us/stat/110/173].)
 
  __Amendments__ 
 
     1996—Subsec. (a)(5). [Pub. L. 104–105][/us/pl/104/105] designated existing provisions as subpar. (A), inserted subpar. heading, substituted “Subject to subparagraph (B), the term” for “The term”, and added subpar. (B).
 
-    1988—Subsec. (a). [Pub. L. 100–399, § 102(a)][/us/pl/100/399/s102/a], struck out “(other than in sections 2205 and 2206 of this title)” after “in this part”.
+    1988—Subsec. (a). [Pub. L. 100–399][/us/pl/100/399], § 102(a), struck out “(other than in sections 2205 and 2206 of this title)” after “in this part”.
 
-    Subsec. (a)(6)(B). [Pub. L. 100–399, § 102(b)][/us/pl/100/399/s102/b], substituted “[section 2015(b)(1)(B) of this title][/us/usc/t12/s2015/b/1/B]” for “[section 2074(a)(2) of this title][/us/usc/t12/s2074/a/2]” and “[section 2015(b)(1) of this title][/us/usc/t12/s2015/b/1]” for “[section 2074(a) of this title][/us/usc/t12/s2074/a]”.
+    Subsec. (a)(6)(B). [Pub. L. 100–399][/us/pl/100/399], § 102(b), substituted “[section 2015(b)(1)(B) of this title][/us/usc/t12/s2015/b/1/B]” for “[section 2074(a)(2) of this title][/us/usc/t12/s2074/a/2]” and “[section 2015(b)(1) of this title][/us/usc/t12/s2015/b/1]” for “[section 2074(a) of this title][/us/usc/t12/s2074/a]”.
 
-    Subsec. (e)(1). [Pub. L. 100–399, § 102(c)][/us/pl/100/399/s102/c], substituted “cost to such qualified” for “cost to a qualified”.
+    Subsec. (e)(1). [Pub. L. 100–399][/us/pl/100/399], § 102(c), substituted “cost to such qualified” for “cost to a qualified”.
 
-    Subsec. (g)(1). [Pub. L. 100–399, § 102(d)][/us/pl/100/399/s102/d], substituted “bank” for “farm credit district”.
+    Subsec. (g)(1). [Pub. L. 100–399][/us/pl/100/399], § 102(d), substituted “bank” for “farm credit district”.
 
-    Subsec. (g)(3). [Pub. L. 100–399, § 102(e)][/us/pl/100/399/s102/e], substituted “bank board” for “district board”.
+    Subsec. (g)(3). [Pub. L. 100–399][/us/pl/100/399], § 102(e), substituted “bank board” for “district board”.
 
-    Subsec. (l). [Pub. L. 100–399, § 102(f)][/us/pl/100/399/s102/f], substituted “Farm Credit Bank” for “Federal intermediate credit bank”.
+    Subsec. (l). [Pub. L. 100–399][/us/pl/100/399], § 102(f), substituted “Farm Credit Bank” for “Federal intermediate credit bank”.
 
  __Effective Date of 1988 Amendment__ 
 
@@ -229,7 +229,7 @@
 
  __Sense of Congress__ 
 
-[Pub. L. 100–233, title I, § 102(b)][/us/pl/100/233/s102/b], Jan. 6, 1988, [101 Stat. 1579][/us/stat/101/1579], provided that: 
+[Pub. L. 100–233, title I][/us/pl/100/233/tI], § 102(b), Jan. 6, 1988, [101 Stat. 1579][/us/stat/101/1579], provided that: 
 
 > “It is the sense of Congress that the banks and associations (except banks for cooperatives) operating under the Farm Credit Act of 1971 ([12 U.S.C. 2001][/us/usc/t12/s2001] et seq.) should administer distressed loans to farmers with the objective of using the loan guarantee programs of the Farmers Home Administration and other loan restructuring measures, including participation in interest rate buy-down programs that are Federally or State funded, and other Federal and State sponsored financial assistance programs that offer relief to financially distressed farmers, as alternatives to foreclosure, considering the availability and appropriateness of such programs on a case-by-case basis.”
 
@@ -243,31 +243,31 @@
 [/us/usc/t12/s2015/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2015%2Fb%2F1%2FB
 [/us/usc/t12/s2015/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2015%2Fb%2F1
 [/us/usc/t12/s2202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2202
-[/us/pl/92/181/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs4
-[/us/pl/100/233/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs102%2Fa
+[/us/pl/92/181/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtIV
+[/us/pl/100/233/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtI
 [/us/stat/101/1574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1574
-[/us/pl/100/399/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs102%2Fa
+[/us/pl/100/399/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtI
 [/us/stat/102/990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F990
-[/us/pl/104/105/s208/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2Fs208%2Fa
+[/us/pl/104/105/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2FtII
 [/us/stat/110/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F173
 [/us/pl/104/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105
-[/us/pl/100/399/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs102%2Fa
-[/us/pl/100/399/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs102%2Fb
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/usc/t12/s2015/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2015%2Fb%2F1%2FB
 [/us/usc/t12/s2074/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2074%2Fa%2F2
 [/us/usc/t12/s2015/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2015%2Fb%2F1
 [/us/usc/t12/s2074/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2074%2Fa
-[/us/pl/100/399/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs102%2Fc
-[/us/pl/100/399/s102/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs102%2Fd
-[/us/pl/100/399/s102/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs102%2Fe
-[/us/pl/100/399/s102/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs102%2Ff
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/100/233/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs401
 [/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
 [/us/pl/100/399/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs1001
 [/us/usc/t12/s2002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2002
-[/us/pl/100/233/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs102%2Fb
+[/us/pl/100/233/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtI
 [/us/stat/101/1579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1579
 [/us/usc/t12/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2001
 

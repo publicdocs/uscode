@@ -29,7 +29,7 @@
 
     (6) to prohibit the use of tied aid credit for production facilities for goods which are in structural oversupply in the world.
 
-([Pub. L. 98–181, title I][/us/pl/98/181] \[title VI, § 643\], Nov. 30, 1983, [97 Stat. 1263][/us/stat/97/1263].)
+([Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title VI, § 643\], Nov. 30, 1983, [97 Stat. 1263][/us/stat/97/1263].)
 
 ----------
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1263
 
 

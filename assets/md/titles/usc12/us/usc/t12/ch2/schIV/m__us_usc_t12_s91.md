@@ -25,7 +25,7 @@
 
  __Codification__ 
 
-    R.S. § 5242 derived from [act June 3, 1864, ch. 106, § 52][/us/act/1864-06-03/ch106/s52], [13 Stat. 115][/us/stat/13/115], which was the National Bank Act, and [act Mar. 3, 1873, ch. 269, § 2][/us/act/1873-03-03/ch269/s2], [17 Stat. 603][/us/stat/17/603]. See [section 38 of this title][/us/usc/t12/s38].
+    R.S. § 5242 derived from [act June 3, 1864, ch. 106][/us/act/1864-06-03/ch106], § 52, [13 Stat. 115][/us/stat/13/115], which was the National Bank Act, and [act Mar. 3, 1873, ch. 269][/us/act/1873-03-03/ch269], § 2, [17 Stat. 603][/us/stat/17/603]. See [section 38 of this title][/us/usc/t12/s38].
 
 ----------
 
@@ -35,9 +35,9 @@
 ----------
 
 [/us/usc/t18/s709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs709
-[/us/act/1864-06-03/ch106/s52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-06-03%2Fch106%2Fs52
+[/us/act/1864-06-03/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-06-03%2Fch106
 [/us/stat/13/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F13%2F115
-[/us/act/1873-03-03/ch269/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1873-03-03%2Fch269%2Fs2
+[/us/act/1873-03-03/ch269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1873-03-03%2Fch269
 [/us/stat/17/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F17%2F603
 [/us/usc/t12/s38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs38
 

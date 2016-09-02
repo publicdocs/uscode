@@ -339,7 +339,7 @@
 
             The term “affiliate” has the same meaning as in [section 1841 of this title][/us/usc/t12/s1841].
 
-([Pub. L. 102–242, title II, § 233][/us/pl/102/242/s233], Dec. 19, 1991, [105 Stat. 2311][/us/stat/105/2311]; [Pub. L. 102–550, title IX, § 931(c)][/us/pl/102/550/s931/c]–(e), title XVI, §§ 1604(b)(2), 1605(a)(7), Oct. 28, 1992, [106 Stat. 3888][/us/stat/106/3888], 3889, 4083, 4086; [Pub. L. 102–558, title III][/us/pl/102/558], §§ 303(b)(2), (9), 305, Oct. 28, 1992, [106 Stat. 4224][/us/stat/106/4224], 4226; [Pub. L. 103–325, title I, § 114(c)][/us/pl/103/325/s114/c], Sept. 23, 1994, [108 Stat. 2181][/us/stat/108/2181].)
+([Pub. L. 102–242, title II][/us/pl/102/242/tII], § 233, Dec. 19, 1991, [105 Stat. 2311][/us/stat/105/2311]; [Pub. L. 102–550, title IX][/us/pl/102/550/tIX], § 931(c)–(e), title XVI, §§ 1604(b)(2), 1605(a)(7), Oct. 28, 1992, [106 Stat. 3888][/us/stat/106/3888], 3889, 4083, 4086; [Pub. L. 102–558, title III][/us/pl/102/558/tIII], §§ 303(b)(2), (9), 305, Oct. 28, 1992, [106 Stat. 4224][/us/stat/106/4224], 4226; [Pub. L. 103–325, title I][/us/pl/103/325/tI], § 114(c), Sept. 23, 1994, [108 Stat. 2181][/us/stat/108/2181].)
 
  __References in Text__ 
 
@@ -349,7 +349,7 @@
 
     The Cranston-Gonzalez National Affordable Housing Act, referred to in subsec. (a)(4)(E), (F), is [Pub. L. 101–625][/us/pl/101/625], Nov. 28, 1990, [104 Stat. 4079][/us/stat/104/4079]. Title II of the Act, also known as the “HOME Investment Partnerships Act”, is classified principally to subchapter II (§ 12721 et seq.) of chapter 130 of Title 42. Subtitles B and C of title IV of the Act are classified respectively to parts A (§ 12871 et seq.) and B (§ 12891 et seq.) of subchapter IV of chapter 130 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 12701 of Title 42][/us/usc/t42/s12701] and Tables.
 
-    The United States Housing Act of 1937, referred to in subsec. (a)(4)(F), is [act Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], as revised generally by [Pub. L. 93–383, title II, § 201(a)][/us/pl/93/383/s201/a], Aug. 22, 1974, [88 Stat. 653][/us/stat/88/653]. Title III of the Act is classified generally to subchapter II–A (§ 1437aaa et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 1437 of Title 42][/us/usc/t42/s1437] and Tables.
+    The United States Housing Act of 1937, referred to in subsec. (a)(4)(F), is [act Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], as revised generally by [Pub. L. 93–383, title II][/us/pl/93/383/tII], § 201(a), Aug. 22, 1974, [88 Stat. 653][/us/stat/88/653]. Title III of the Act is classified generally to subchapter II–A (§ 1437aaa et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 1437 of Title 42][/us/usc/t42/s1437] and Tables.
 
     This subtitle, referred to in subsec. (b)(4)(C), is subtitle C (§§ 231–234) of title II of [Pub. L. 102–242][/us/pl/102/242], Dec. 19, 1991, [105 Stat. 2308][/us/stat/105/2308], known as the Bank Enterprise Act of 1991, which enacted this section and sections 1834 and 1834b of this title, amended [section 1817 of this title][/us/usc/t12/s1817], and enacted provisions set out as a note under [section 1811 of this title][/us/usc/t12/s1811]. For complete classification of subtitle C to the Code, see [section 231 of Pub. L. 102–242][/us/pl/102/242/s231], set out as a Short Title of 1991 Amendment note under [section 1811 of this title][/us/usc/t12/s1811] and Tables.
 
@@ -361,51 +361,51 @@
 
  __Amendments__ 
 
-    1994—Subsec. (a)(2). [Pub. L. 103–325, § 114(c)(1)(A)][/us/pl/103/325/s114/c/1/A], substituted “may apply for” for “shall be eligible” in introductory provisions.
+    1994—Subsec. (a)(2). [Pub. L. 103–325][/us/pl/103/325], § 114(c)(1)(A), substituted “may apply for” for “shall be eligible” in introductory provisions.
 
-    Subsec. (a)(2)(A). [Pub. L. 103–325, § 114(c)(1)(B)][/us/pl/103/325/s114/c/1/B], substituted “assistance” for “financial assistance”.
+    Subsec. (a)(2)(A). [Pub. L. 103–325][/us/pl/103/325], § 114(c)(1)(B), substituted “assistance” for “financial assistance”.
 
-    Subsec. (a)(2)(C). [Pub. L. 103–325, § 114(c)(1)(C)][/us/pl/103/325/s114/c/1/C] to (E), added subpar. (C).
+    Subsec. (a)(2)(C). [Pub. L. 103–325][/us/pl/103/325], § 114(c)(1)(C) to (E), added subpar. (C).
 
-    Subsec. (a)(4). [Pub. L. 103–325, § 114(c)(2)(A)][/us/pl/103/325/s114/c/2/A], struck out “financial” before “assistance” in introductory provisions.
+    Subsec. (a)(4). [Pub. L. 103–325][/us/pl/103/325], § 114(c)(2)(A), struck out “financial” before “assistance” in introductory provisions.
 
-    Subsec. (a)(4)(L) to (O). [Pub. L. 103–325, § 114(c)(2)(B)][/us/pl/103/325/s114/c/2/B], added subpars. (L) to (O).
+    Subsec. (a)(4)(L) to (O). [Pub. L. 103–325][/us/pl/103/325], § 114(c)(2)(B), added subpars. (L) to (O).
 
-    Subsec. (a)(5). [Pub. L. 103–325, § 114(c)(3)][/us/pl/103/325/s114/c/3], substituted “paragraph (3)(A)” for “paragraph (3)”.
+    Subsec. (a)(5). [Pub. L. 103–325][/us/pl/103/325], § 114(c)(3), substituted “paragraph (3)(A)” for “paragraph (3)”.
 
-    Subsec. (a)(6). [Pub. L. 103–325, § 114(c)(4)][/us/pl/103/325/s114/c/4], substituted “Loans, financial assistance, and equity investments made by any insured depository institution” for “Investments by any insured depository institution in loans and securities”.
+    Subsec. (a)(6). [Pub. L. 103–325][/us/pl/103/325], § 114(c)(4), substituted “Loans, financial assistance, and equity investments made by any insured depository institution” for “Investments by any insured depository institution in loans and securities”.
 
-    Subsec. (a)(7). [Pub. L. 103–325, § 114(c)(5)][/us/pl/103/325/s114/c/5], added par. (7).
+    Subsec. (a)(7). [Pub. L. 103–325][/us/pl/103/325], § 114(c)(5), added par. (7).
 
-    Subsec. (g). [Pub. L. 103–325, § 114(c)(6)][/us/pl/103/325/s114/c/6], added subsec. (g) and redesignated former subsec. (g) as (j).
+    Subsec. (g). [Pub. L. 103–325][/us/pl/103/325], § 114(c)(6), added subsec. (g) and redesignated former subsec. (g) as (j).
 
-    Subsecs. (h), (i). [Pub. L. 103–325, § 114(c)(7)][/us/pl/103/325/s114/c/7], added subsecs. (h) and (i).
+    Subsecs. (h), (i). [Pub. L. 103–325][/us/pl/103/325], § 114(c)(7), added subsecs. (h) and (i).
 
-    Subsec. (j). [Pub. L. 103–325, § 114(c)(6)(A)][/us/pl/103/325/s114/c/6/A], redesignated subsec. (g) as (j).
+    Subsec. (j). [Pub. L. 103–325][/us/pl/103/325], § 114(c)(6)(A), redesignated subsec. (g) as (j).
 
-    Subsec. (j)(4), (5). [Pub. L. 103–325, § 114(a)(8)][/us/pl/103/325/s114/a/8], added pars. (4) and (5).
+    Subsec. (j)(4), (5). [Pub. L. 103–325][/us/pl/103/325], § 114(a)(8), added pars. (4) and (5).
 
-    1992—Subsec. (a)(1)(A). [Pub. L. 102–558, § 303(b)(9)(A)][/us/pl/102/558/s303/b/9/A], substituted “section 1817(b)(7)” for “section 1817(d)(4)”. [Pub. L. 102–550, § 1605(a)(7)(A)][/us/pl/102/550/s1605/a/7/A], which contained an identical amendment, was repealed, effective Oct. 28, 1992, by [Pub. L. 102–558, § 305][/us/pl/102/558/s305], set out as a Repeal of Duplicative Provisions note under [section 1815 of this title][/us/usc/t12/s1815].
+    1992—Subsec. (a)(1)(A). [Pub. L. 102–558][/us/pl/102/558], § 303(b)(9)(A), substituted “section 1817(b)(7)” for “section 1817(d)(4)”. [Pub. L. 102–550][/us/pl/102/550], § 1605(a)(7)(A), which contained an identical amendment, was repealed, effective Oct. 28, 1992, by [Pub. L. 102–558][/us/pl/102/558], § 305, set out as a Repeal of Duplicative Provisions note under [section 1815 of this title][/us/usc/t12/s1815].
 
-    Subsec. (a)(2). [Pub. L. 102–550, § 931(c)][/us/pl/102/550/s931/c], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “An insured depository institution shall be eligible for any community enterprise assessment credit for any semiannual period for—
+    Subsec. (a)(2). [Pub. L. 102–550][/us/pl/102/550], § 931(c), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “An insured depository institution shall be eligible for any community enterprise assessment credit for any semiannual period for—
 
     “(A) any increase during such period in the amount of new originations of qualified loans and other financial assistance provided for low- and moderate-income persons in distressed communities, or enterprises integrally involved with such neighborhoods, which the Board determines are qualified to be taken into account for purposes of this subsection; and
 
     “(B) any increase during such period in the amount of deposits accepted from persons domiciled in the distressed community, at any office of the institution (including any branch) located in any qualified distressed community, and any increase during such period in the amount of new originations of loans and other financial assistance made within that community, except that in no case shall the credit for increased deposits at any institution or branch exceed the credit for increased loan and other financial assistance by the bank or branch in the distressed community.”
 
-    Subsec. (a)(3). [Pub. L. 102–558, § 303(b)(9)(B)][/us/pl/102/558/s303/b/9/B], substituted “section 1817(b)(7)” for “section 1817(d)(4)”. [Pub. L. 102–550, § 1605(a)(7)(B)][/us/pl/102/550/s1605/a/7/B], which contained an identical amendment, was repealed, effective Oct. 28, 1992, by [Pub. L. 102–558, § 305][/us/pl/102/558/s305], set out as a Repeal of Duplicative Provisions note under [section 1815 of this title][/us/usc/t12/s1815].
+    Subsec. (a)(3). [Pub. L. 102–558][/us/pl/102/558], § 303(b)(9)(B), substituted “section 1817(b)(7)” for “section 1817(d)(4)”. [Pub. L. 102–550][/us/pl/102/550], § 1605(a)(7)(B), which contained an identical amendment, was repealed, effective Oct. 28, 1992, by [Pub. L. 102–558][/us/pl/102/558], § 305, set out as a Repeal of Duplicative Provisions note under [section 1815 of this title][/us/usc/t12/s1815].
 
-    [Pub. L. 102–558, § 303(b)(2)][/us/pl/102/558/s303/b/2], which directed technical amendment to reference to [section 1834b of this title][/us/usc/t12/s1834b] to correct reference to corresponding section of original act, could not be executed because of prior general amendment by [Pub. L. 102–550, § 931(d)][/us/pl/102/550/s931/d]. See below. [Pub. L. 102–550, § 1604(b)(2)][/us/pl/102/550/s1604/b/2], which contained an identical amendment, was repealed, effective Oct. 28, 1992, by [Pub. L. 102–558, § 305][/us/pl/102/558/s305], set out as a Repeal of Duplicative Provisions note under [section 1815 of this title][/us/usc/t12/s1815].
+    [Pub. L. 102–558][/us/pl/102/558], § 303(b)(2), which directed technical amendment to reference to [section 1834b of this title][/us/usc/t12/s1834b] to correct reference to corresponding section of original act, could not be executed because of prior general amendment by [Pub. L. 102–550][/us/pl/102/550], § 931(d). See below. [Pub. L. 102–550][/us/pl/102/550], § 1604(b)(2), which contained an identical amendment, was repealed, effective Oct. 28, 1992, by [Pub. L. 102–558][/us/pl/102/558], § 305, set out as a Repeal of Duplicative Provisions note under [section 1815 of this title][/us/usc/t12/s1815].
 
-    [Pub. L. 102–550, § 931(d)][/us/pl/102/550/s931/d], amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The amount of any community enterprise assessment credit available under [section 1817(d)(4) of this title][/us/usc/t12/s1817/d/4] for any insured depository institution, or a qualified portion thereof, for any semiannual period shall be the amount which is equal to 5 percent, in the case of an institution which does not meet the community development organization requirements under [section 1834b of this title][/us/usc/t12/s1834b], and 15 percent, in the case of an institution, or a qualified portion thereof, which meets such requirements (or any percentage designated under paragraph (5)) of the sum of—
+    [Pub. L. 102–550][/us/pl/102/550], § 931(d), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The amount of any community enterprise assessment credit available under [section 1817(d)(4) of this title][/us/usc/t12/s1817/d/4] for any insured depository institution, or a qualified portion thereof, for any semiannual period shall be the amount which is equal to 5 percent, in the case of an institution which does not meet the community development organization requirements under [section 1834b of this title][/us/usc/t12/s1834b], and 15 percent, in the case of an institution, or a qualified portion thereof, which meets such requirements (or any percentage designated under paragraph (5)) of the sum of—
 
     “(A) the amounts of assets described in paragraph (2)(A); and
 
     “(B) the amounts of deposits, loans, and other extensions of credit described in paragraph (2)(B).”
 
-    Subsec. (a)(5). [Pub. L. 102–558, § 303(b)(2)][/us/pl/102/558/s303/b/2], made technical amendment to reference to [section 1834b of this title][/us/usc/t12/s1834b] to correct reference to corresponding section of original act. [Pub. L. 102–550, § 1604(b)(2)][/us/pl/102/550/s1604/b/2], which made identical amendment, was repealed, effective Oct. 28, 1992, by [Pub. L. 102–558, § 305][/us/pl/102/558/s305], set out as a Repeal of Duplicative Provisions note under [section 1815 of this title][/us/usc/t12/s1815].
+    Subsec. (a)(5). [Pub. L. 102–558][/us/pl/102/558], § 303(b)(2), made technical amendment to reference to [section 1834b of this title][/us/usc/t12/s1834b] to correct reference to corresponding section of original act. [Pub. L. 102–550][/us/pl/102/550], § 1604(b)(2), which made identical amendment, was repealed, effective Oct. 28, 1992, by [Pub. L. 102–558][/us/pl/102/558], § 305, set out as a Repeal of Duplicative Provisions note under [section 1815 of this title][/us/usc/t12/s1815].
 
-    Subsec. (b)(4). [Pub. L. 102–550, § 931(e)][/us/pl/102/550/s931/e], amended par. (4) generally. Prior to amendment, par. (4) read as follows: “For purposes of this subsection, an area meets the requirements of this paragraph if at least 2 of the following criteria are met:
+    Subsec. (b)(4). [Pub. L. 102–550][/us/pl/102/550], § 931(e), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “For purposes of this subsection, an area meets the requirements of this paragraph if at least 2 of the following criteria are met:
 
     “(A) Income.—At least 70 percent of the families and unrelated individuals residing in the area have incomes of less than 80 percent of the median income of the area.
 
@@ -413,15 +413,15 @@
 
     “(C) Unemployment.—The unemployment rate for the area is one and one-half times greater than the national average (as determined by the Bureau of Labor Statistic’s most recent figures).”
 
-    Subsec. (e)(2). [Pub. L. 102–558, § 303(b)(9)(C)][/us/pl/102/558/s303/b/9/C], substituted “of the semiannual assessment to which such credit is applicable” for “made for purposes of the notification required under [section 1817(d)(1)(B) of this title][/us/usc/t12/s1817/d/1/B]”. [Pub. L. 102–550, § 1605(a)(7)(C)][/us/pl/102/550/s1605/a/7/C], which contained an identical amendment, was repealed, effective Oct. 28, 1992, by [Pub. L. 102–558, § 305][/us/pl/102/558/s305], set out as a Repeal of Duplicative Provisions note under [section 1815 of this title][/us/usc/t12/s1815].
+    Subsec. (e)(2). [Pub. L. 102–558][/us/pl/102/558], § 303(b)(9)(C), substituted “of the semiannual assessment to which such credit is applicable” for “made for purposes of the notification required under [section 1817(d)(1)(B) of this title][/us/usc/t12/s1817/d/1/B]”. [Pub. L. 102–550][/us/pl/102/550], § 1605(a)(7)(C), which contained an identical amendment, was repealed, effective Oct. 28, 1992, by [Pub. L. 102–558][/us/pl/102/558], § 305, set out as a Repeal of Duplicative Provisions note under [section 1815 of this title][/us/usc/t12/s1815].
 
  __Effective Date of 1992 Amendment__ 
 
     Amendment by [section 303(b)(2) of Pub. L. 102–558][/us/pl/102/558/s303/b/2] deemed to have become effective Mar. 1, 1992, see [section 304 of Pub. L. 102–558][/us/pl/102/558/s304], set out as a note under [section 4502 of Title 50][/us/usc/t50/s4502], War and National Defense.
 
-    [Pub. L. 102–558, title III, § 303(b)(9)][/us/pl/102/558/s303/b/9], Oct. 28, 1992, [106 Stat. 4226][/us/stat/106/4226], provided that the amendment made by that section is effective on the effective date of the amendment made by [section 302(e)(4) of Pub. L. 102–242][/us/pl/102/242/s302/e/4] \[see [section 302(g) of Pub. L. 102–242][/us/pl/102/242/s302/g], set out as a note under [section 1817 of this title][/us/usc/t12/s1817]\].
+    [Pub. L. 102–558, title III][/us/pl/102/558/tIII], § 303(b)(9), Oct. 28, 1992, [106 Stat. 4226][/us/stat/106/4226], provided that the amendment made by that section is effective on the effective date of the amendment made by [section 302(e)(4) of Pub. L. 102–242][/us/pl/102/242/s302/e/4] \[see [section 302(g) of Pub. L. 102–242][/us/pl/102/242/s302/g], set out as a note under [section 1817 of this title][/us/usc/t12/s1817]\].
 
-    [Pub. L. 102–550, title XVI, § 1605(a)(7)][/us/pl/102/550/s1605/a/7], Oct. 28, 1992, [106 Stat. 4086][/us/stat/106/4086], which provided effective date provisions for the amendment made by that section, was repealed, effective Oct. 28, 1992, by [section 305 of Pub. L. 102–558][/us/pl/102/558/s305], set out as a Repeal of Duplicative Provisions note under [section 1815 of this title][/us/usc/t12/s1815].
+    [Pub. L. 102–550, title XVI][/us/pl/102/550/tXVI], § 1605(a)(7), Oct. 28, 1992, [106 Stat. 4086][/us/stat/106/4086], which provided effective date provisions for the amendment made by that section, was repealed, effective Oct. 28, 1992, by [section 305 of Pub. L. 102–558][/us/pl/102/558/s305], set out as a Repeal of Duplicative Provisions note under [section 1815 of this title][/us/usc/t12/s1815].
 
 ----------
 
@@ -445,13 +445,13 @@
 [/us/usc/t12/s1813/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813%2Fc%2F2
 [/us/usc/t12/s4702/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4702%2F5
 [/us/usc/t12/s1841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1841
-[/us/pl/102/242/s233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs233
+[/us/pl/102/242/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtII
 [/us/stat/105/2311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2311
-[/us/pl/102/550/s931/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs931%2Fc
+[/us/pl/102/550/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtIX
 [/us/stat/106/3888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3888
-[/us/pl/102/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558
+[/us/pl/102/558/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2FtIII
 [/us/stat/106/4224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4224
-[/us/pl/103/325/s114/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs114%2Fc
+[/us/pl/103/325/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtI
 [/us/stat/108/2181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2181
 [/us/pl/95/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557
 [/us/stat/92/2115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2115
@@ -464,7 +464,7 @@
 [/us/stat/104/4079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4079
 [/us/usc/t42/s12701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12701
 [/us/act/1937-09-01/ch896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch896
-[/us/pl/93/383/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs201%2Fa
+[/us/pl/93/383/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtII
 [/us/stat/88/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F653
 [/us/usc/t42/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437
 [/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
@@ -476,56 +476,56 @@
 [/us/pl/102/242/s233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs233
 [/us/pl/102/242/s233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs233
 [/us/usc/t12/s1817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1817
-[/us/pl/103/325/s114/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs114%2Fc%2F1%2FA
-[/us/pl/103/325/s114/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs114%2Fc%2F1%2FB
-[/us/pl/103/325/s114/c/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs114%2Fc%2F1%2FC
-[/us/pl/103/325/s114/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs114%2Fc%2F2%2FA
-[/us/pl/103/325/s114/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs114%2Fc%2F2%2FB
-[/us/pl/103/325/s114/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs114%2Fc%2F3
-[/us/pl/103/325/s114/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs114%2Fc%2F4
-[/us/pl/103/325/s114/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs114%2Fc%2F5
-[/us/pl/103/325/s114/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs114%2Fc%2F6
-[/us/pl/103/325/s114/c/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs114%2Fc%2F7
-[/us/pl/103/325/s114/c/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs114%2Fc%2F6%2FA
-[/us/pl/103/325/s114/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs114%2Fa%2F8
-[/us/pl/102/558/s303/b/9/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2Fs303%2Fb%2F9%2FA
-[/us/pl/102/550/s1605/a/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1605%2Fa%2F7%2FA
-[/us/pl/102/558/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2Fs305
+[/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
+[/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
+[/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
+[/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
+[/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
+[/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
+[/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
+[/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
+[/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
+[/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
+[/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
+[/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
+[/us/pl/102/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558
 [/us/usc/t12/s1815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1815
-[/us/pl/102/550/s931/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs931%2Fc
-[/us/pl/102/558/s303/b/9/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2Fs303%2Fb%2F9%2FB
-[/us/pl/102/550/s1605/a/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1605%2Fa%2F7%2FB
-[/us/pl/102/558/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2Fs305
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558
 [/us/usc/t12/s1815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1815
-[/us/pl/102/558/s303/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2Fs303%2Fb%2F2
+[/us/pl/102/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558
 [/us/usc/t12/s1834b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1834b
-[/us/pl/102/550/s931/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs931%2Fd
-[/us/pl/102/550/s1604/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1604%2Fb%2F2
-[/us/pl/102/558/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2Fs305
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558
 [/us/usc/t12/s1815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1815
-[/us/pl/102/550/s931/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs931%2Fd
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/usc/t12/s1817/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1817%2Fd%2F4
 [/us/usc/t12/s1834b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1834b
-[/us/pl/102/558/s303/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2Fs303%2Fb%2F2
+[/us/pl/102/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558
 [/us/usc/t12/s1834b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1834b
-[/us/pl/102/550/s1604/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1604%2Fb%2F2
-[/us/pl/102/558/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2Fs305
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558
 [/us/usc/t12/s1815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1815
-[/us/pl/102/550/s931/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs931%2Fe
-[/us/pl/102/558/s303/b/9/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2Fs303%2Fb%2F9%2FC
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558
 [/us/usc/t12/s1817/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1817%2Fd%2F1%2FB
-[/us/pl/102/550/s1605/a/7/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1605%2Fa%2F7%2FC
-[/us/pl/102/558/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2Fs305
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558
 [/us/usc/t12/s1815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1815
 [/us/pl/102/558/s303/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2Fs303%2Fb%2F2
 [/us/pl/102/558/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2Fs304
 [/us/usc/t50/s4502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4502
-[/us/pl/102/558/s303/b/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2Fs303%2Fb%2F9
+[/us/pl/102/558/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2FtIII
 [/us/stat/106/4226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4226
 [/us/pl/102/242/s302/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs302%2Fe%2F4
 [/us/pl/102/242/s302/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs302%2Fg
 [/us/usc/t12/s1817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1817
-[/us/pl/102/550/s1605/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1605%2Fa%2F7
+[/us/pl/102/550/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXVI
 [/us/stat/106/4086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4086
 [/us/pl/102/558/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2Fs305
 [/us/usc/t12/s1815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1815

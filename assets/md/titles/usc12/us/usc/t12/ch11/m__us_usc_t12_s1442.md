@@ -35,7 +35,7 @@
 
         (3) to agree to give the Bank or the Federal agency, upon request, such information as they may need to compile and publish cost of funds indices and to publish other reports or statistical summaries pertaining to the activities of Bank members.
 
-([July 22, 1932, ch. 522, § 22][/us/act/1932-07-22/ch522/s22], [47 Stat. 739][/us/stat/47/739]; [Pub. L. 101–73, title VII, § 719][/us/pl/101/73/s719], Aug. 9, 1989, [103 Stat. 422][/us/stat/103/422]; [Pub. L. 110–289, div. A, title II, § 1204(8)][/us/pl/110/289/s1204/8], July 30, 2008, [122 Stat. 2786][/us/stat/122/2786].)
+([July 22, 1932, ch. 522][/us/act/1932-07-22/ch522], § 22, [47 Stat. 739][/us/stat/47/739]; [Pub. L. 101–73, title VII][/us/pl/101/73/tVII], § 719, Aug. 9, 1989, [103 Stat. 422][/us/stat/103/422]; [Pub. L. 110–289, div. A, title II][/us/pl/110/289/dA/tII], § 1204(8), July 30, 2008, [122 Stat. 2786][/us/stat/122/2786].)
 
  __Amendments__ 
 
@@ -56,11 +56,11 @@
 ----------
 ----------
 
-[/us/act/1932-07-22/ch522/s22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-07-22%2Fch522%2Fs22
+[/us/act/1932-07-22/ch522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-07-22%2Fch522
 [/us/stat/47/739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F739
-[/us/pl/101/73/s719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs719
+[/us/pl/101/73/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtVII
 [/us/stat/103/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F422
-[/us/pl/110/289/s1204/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1204%2F8
+[/us/pl/110/289/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtII
 [/us/stat/122/2786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2786
 [/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
 [/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289

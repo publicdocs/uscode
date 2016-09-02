@@ -135,19 +135,19 @@
 
             Any entity that assumes a mortgage covering low-income housing in connection with the acquisition of the housing from an owner under this section must comply with any low-income affordability restrictions for the remaining useful life of the housing as determined under [section 4112(c) of this title][/us/usc/t12/s4112/c].
 
-([Pub. L. 100–242, title II, § 226][/us/pl/100/242/s226], as added [Pub. L. 101–625, title VI, § 601(a)][/us/pl/101/625/s601/a], Nov. 28, 1990, [104 Stat. 4267][/us/stat/104/4267]; amended [Pub. L. 102–550, title III, § 309][/us/pl/102/550/s309], Oct. 28, 1992, [106 Stat. 3765][/us/stat/106/3765]; [Pub. L. 105–276, title V, § 514(b)(2)(A)][/us/pl/105/276/s514/b/2/A], Oct. 21, 1998, [112 Stat. 2548][/us/stat/112/2548].)
+([Pub. L. 100–242, title II][/us/pl/100/242/tII], § 226, as added [Pub. L. 101–625, title VI][/us/pl/101/625/tVI], § 601(a), Nov. 28, 1990, [104 Stat. 4267][/us/stat/104/4267]; amended [Pub. L. 102–550, title III][/us/pl/102/550/tIII], § 309, Oct. 28, 1992, [106 Stat. 3765][/us/stat/106/3765]; [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 514(b)(2)(A), Oct. 21, 1998, [112 Stat. 2548][/us/stat/112/2548].)
 
  __Amendments__ 
 
     1998—Subsec. (b)(6)(B). [Pub. L. 105–276][/us/pl/105/276], which directed the substitution of “Any system for preferences established under section 1437f(d)(1)(A) or 1437f(o)(6)(A)” for “The requirement for giving preferences to certain categories of eligible families under sections 1437f(d)(1)(A) and 1437f(o)(3)” in second sentence, was executed by making the substitution for text which included the word “preference” rather than “preferences” to reflect the probable intent of Congress.
 
-    1992—Subsec. (b)(2). [Pub. L. 102–550, § 309(1)][/us/pl/102/550/s309/1], inserted “and limitation on conditions of approval” in heading and inserted at end of text “The Secretary may not require the prepayment of the mortgage on eligible low-income housing for the approval of a plan of action involving a homeownership program for the housing.”
+    1992—Subsec. (b)(2). [Pub. L. 102–550][/us/pl/102/550], § 309(1), inserted “and limitation on conditions of approval” in heading and inserted at end of text “The Secretary may not require the prepayment of the mortgage on eligible low-income housing for the approval of a plan of action involving a homeownership program for the housing.”
 
-    Subsec. (b)(3)(E). [Pub. L. 102–550, § 309(2)][/us/pl/102/550/s309/2], added subpar. (E).
+    Subsec. (b)(3)(E). [Pub. L. 102–550][/us/pl/102/550], § 309(2), added subpar. (E).
 
-    Subsec. (b)(8). [Pub. L. 102–550, § 309(3)][/us/pl/102/550/s309/3], substituted “Except in the case of limited equity cooperatives, resident” for “Resident”.
+    Subsec. (b)(8). [Pub. L. 102–550][/us/pl/102/550], § 309(3), substituted “Except in the case of limited equity cooperatives, resident” for “Resident”.
 
-    Subsec. (b)(10). [Pub. L. 102–550, § 309(4)][/us/pl/102/550/s309/4], struck out “, as determined by the Secretary,” after “entity that assumes”, substituted “4112(c)” for “4112(d)”, and struck out at end “This requirement shall only apply to an entity, such as a cooperative association, that, as determined by the Secretary, intends to own the housing on a permanent basis.”
+    Subsec. (b)(10). [Pub. L. 102–550][/us/pl/102/550], § 309(4), struck out “, as determined by the Secretary,” after “entity that assumes”, substituted “4112(c)” for “4112(d)”, and struck out at end “This requirement shall only apply to an entity, such as a cooperative association, that, as determined by the Secretary, intends to own the housing on a permanent basis.”
 
 ----------
 
@@ -162,17 +162,17 @@
 [/us/usc/t42/s12742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12742
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/usc/t12/s4112/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4112%2Fc
-[/us/pl/100/242/s226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs226
-[/us/pl/101/625/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs601%2Fa
+[/us/pl/100/242/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtII
+[/us/pl/101/625/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtVI
 [/us/stat/104/4267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4267
-[/us/pl/102/550/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs309
+[/us/pl/102/550/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtIII
 [/us/stat/106/3765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3765
-[/us/pl/105/276/s514/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs514%2Fb%2F2%2FA
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2548
 [/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
-[/us/pl/102/550/s309/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs309%2F1
-[/us/pl/102/550/s309/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs309%2F2
-[/us/pl/102/550/s309/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs309%2F3
-[/us/pl/102/550/s309/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs309%2F4
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 
 

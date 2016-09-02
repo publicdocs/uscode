@@ -17,7 +17,7 @@
 
     Nothing in this Act, or any amendment made by this Act, shall be construed to modify, impair, or supersede the operation of any of the antitrust laws, unless otherwise specified. For purposes of this section, the term “antitrust laws” has the same meaning as in subsection (a) of [section 12 of title 15][/us/usc/t15/s12], except that such term includes [section 45 of title 15][/us/usc/t15/s45], to the extent that such section 45 applies to unfair methods of competition.
 
-([Pub. L. 111–203, § 6][/us/pl/111/203/s6], July 21, 2010, [124 Stat. 1390][/us/stat/124/1390].)
+([Pub. L. 111–203][/us/pl/111/203], § 6, July 21, 2010, [124 Stat. 1390][/us/stat/124/1390].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 
 [/us/usc/t15/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs12
 [/us/usc/t15/s45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs45
-[/us/pl/111/203/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs6
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1390
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1376

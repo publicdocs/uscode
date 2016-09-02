@@ -59,7 +59,7 @@
 
         The requirement to submit reports under subsections (a) and (b) shall terminate for a participating State with the submission of the completed reports due on the first March 31 to occur after 5 complete 12-month periods after the State is approved by the Secretary to be a participating State.
 
-([Pub. L. 111–240, title III, § 3007][/us/pl/111/240/s3007], Sept. 27, 2010, [124 Stat. 2579][/us/stat/124/2579].)
+([Pub. L. 111–240, title III][/us/pl/111/240/tIII], § 3007, Sept. 27, 2010, [124 Stat. 2579][/us/stat/124/2579].)
 
 ----------
 
@@ -69,7 +69,7 @@
 ----------
 
 [/us/usc/t12/s5709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5709
-[/us/pl/111/240/s3007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs3007
+[/us/pl/111/240/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2FtIII
 [/us/stat/124/2579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2579
 
 

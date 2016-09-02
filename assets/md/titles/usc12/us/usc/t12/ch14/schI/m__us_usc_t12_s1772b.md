@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of law, funds received by the Board pursuant to any method provided by this chapter, and interest, dividend, or other income thereon, shall not be subject to apportionment for the purpose of chapter 15 of title 31 or under any other authority.
 
-([June 26, 1934, ch. 750][/us/act/1934-06-26/ch750], title I, § 128, as added [Pub. L. 100–86, title V, § 505(e)][/us/pl/100/86/s505/e], Aug. 10, 1987, [101 Stat. 633][/us/stat/101/633].)
+([June 26, 1934, ch. 750][/us/act/1934-06-26/ch750], title I, § 128, as added [Pub. L. 100–86, title V][/us/pl/100/86/tV], § 505(e), Aug. 10, 1987, [101 Stat. 633][/us/stat/101/633].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/act/1934-06-26/ch750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-26%2Fch750
-[/us/pl/100/86/s505/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2Fs505%2Fe
+[/us/pl/100/86/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2FtV
 [/us/stat/101/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F633
 
 

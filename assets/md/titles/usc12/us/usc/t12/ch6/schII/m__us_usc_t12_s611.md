@@ -17,7 +17,7 @@
 
     Corporations to be organized for the purpose of engaging in international or foreign banking or other international or foreign financial operations, or in banking or other financial operations in a dependency or insular possession of the United States, either directly or through the agency, ownership or control of local institutions in foreign countries, or in such dependencies or insular possessions as provided by this subchapter and to act when required by the Secretary of the Treasury as fiscal agents of the United States, may be formed by any number of natural persons, not less in any case than five: Provided, That nothing in this subchapter shall be construed to deny the right of the Secretary of the Treasury to use any corporation organized under this subchapter as depositaries in Panama and the Panama Canal Zone, or other insular possessions and dependencies of the United States.
 
-([Dec. 23, 1913, ch. 6, § 25A][/us/act/1913-12-23/ch6/s25A] (par.), formerly § 25(a), as added [Dec. 24, 1919, ch. 18][/us/act/1919-12-24/ch18], [41 Stat. 378][/us/stat/41/378]; amended [Feb. 27, 1921, ch. 73][/us/act/1921-02-27/ch73], [41 Stat. 1145][/us/stat/41/1145]; Proc. No. 2695, eff. July 4, 1946, 11 F.R. 2517, [60 Stat. 1352][/us/stat/60/1352]; renumbered § 25A, [Pub. L. 102–242, title I, § 142(e)(2)][/us/pl/102/242/s142/e/2], Dec. 19, 1991, [105 Stat. 2281][/us/stat/105/2281].)
+([Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 25A (par.), formerly § 25(a), as added [Dec. 24, 1919, ch. 18][/us/act/1919-12-24/ch18], [41 Stat. 378][/us/stat/41/378]; amended [Feb. 27, 1921, ch. 73][/us/act/1921-02-27/ch73], [41 Stat. 1145][/us/stat/41/1145]; Proc. No. 2695, eff. July 4, 1946, 11 F.R. 2517, [60 Stat. 1352][/us/stat/60/1352]; renumbered § 25A, [Pub. L. 102–242, title I][/us/pl/102/242/tI], § 142(e)(2), Dec. 19, 1991, [105 Stat. 2281][/us/stat/105/2281].)
 
  __References in Text__ 
 
@@ -49,7 +49,7 @@
 
  __Short Title__ 
 
-    [Act Dec. 23, 1913, ch. 6, § 25A][/us/act/1913-12-23/ch6/s25A] (par.), formerly § 25(a), as added by [act Dec. 24, 1919, ch. 18][/us/act/1919-12-24/ch18], [41 Stat. 378][/us/stat/41/378]; amended [Feb. 27, 1921, ch. 73][/us/act/1921-02-27/ch73], [41 Stat. 1145][/us/stat/41/1145]; Proc. No. 2695, eff. July 4, 1946, 11 F.R. 2517, [60 Stat. 1352][/us/stat/60/1352]; renumbered § 25A, [Pub. L. 102–242, title I, § 142(e)(2)][/us/pl/102/242/s142/e/2], Dec. 19, 1991, [105 Stat. 2281][/us/stat/105/2281], which is classified to this subchapter, is popularly known as the “Edge Act”.
+    [Act Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 25A (par.), formerly § 25(a), as added by [act Dec. 24, 1919, ch. 18][/us/act/1919-12-24/ch18], [41 Stat. 378][/us/stat/41/378]; amended [Feb. 27, 1921, ch. 73][/us/act/1921-02-27/ch73], [41 Stat. 1145][/us/stat/41/1145]; Proc. No. 2695, eff. July 4, 1946, 11 F.R. 2517, [60 Stat. 1352][/us/stat/60/1352]; renumbered § 25A, [Pub. L. 102–242, title I][/us/pl/102/242/tI], § 142(e)(2), Dec. 19, 1991, [105 Stat. 2281][/us/stat/105/2281], which is classified to this subchapter, is popularly known as the “Edge Act”.
 
 ----------
 
@@ -58,13 +58,13 @@
 ----------
 ----------
 
-[/us/act/1913-12-23/ch6/s25A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs25A
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
 [/us/act/1919-12-24/ch18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-12-24%2Fch18
 [/us/stat/41/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F378
 [/us/act/1921-02-27/ch73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-02-27%2Fch73
 [/us/stat/41/1145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F1145
 [/us/stat/60/1352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1352
-[/us/pl/102/242/s142/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs142%2Fe%2F2
+[/us/pl/102/242/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtI
 [/us/stat/105/2281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2281
 [/us/usc/t22/s3602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3602%2Fb
 [/us/usc/t12/s611a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs611a
@@ -72,13 +72,13 @@
 [/us/usc/t12/s624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs624
 [/us/usc/t22/s1394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1394
 [/us/usc/t22/s1394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1394
-[/us/act/1913-12-23/ch6/s25A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs25A
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
 [/us/act/1919-12-24/ch18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-12-24%2Fch18
 [/us/stat/41/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F378
 [/us/act/1921-02-27/ch73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-02-27%2Fch73
 [/us/stat/41/1145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F1145
 [/us/stat/60/1352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1352
-[/us/pl/102/242/s142/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs142%2Fe%2F2
+[/us/pl/102/242/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtI
 [/us/stat/105/2281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2281
 
 

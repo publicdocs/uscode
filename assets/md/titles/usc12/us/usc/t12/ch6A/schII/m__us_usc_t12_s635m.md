@@ -17,7 +17,7 @@
 
     Nothing in this subchapter shall be construed as a limitation on the powers of the Bank under subchapter I of this chapter; and except as to the standard of reasonable assurance of repayment required under [section 635(b)(1) of this title][/us/usc/t12/s635/b/1], all loans, guarantees, and insurance extended hereunder shall be subject to the provisions of subchapter I of this chapter and to the policies of the Bank with respect to terms of repayment, interest rates, fees, and premiums applicable to loans, guarantees, and insurance extended under subchapter I of this chapter.
 
-([Pub. L. 90–390, § 4][/us/pl/90/390/s4], July 7, 1968, [82 Stat. 297][/us/stat/82/297].)
+([Pub. L. 90–390][/us/pl/90/390], § 4, July 7, 1968, [82 Stat. 297][/us/stat/82/297].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t12/s635/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635%2Fb%2F1
-[/us/pl/90/390/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F390%2Fs4
+[/us/pl/90/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F390
 [/us/stat/82/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F297
 
 

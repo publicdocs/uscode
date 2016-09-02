@@ -19,7 +19,7 @@
 
     (b) Each such agency shall establish examination and supervisory procedures to assure that factors such as foreign country exposure and transfer risk are taken into account in evaluating the adequacy of the capital of banking institutions.
 
-([Pub. L. 98–181, title I][/us/pl/98/181] \[title IX, § 904\], Nov. 30, 1983, [97 Stat. 1279][/us/stat/97/1279].)
+([Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title IX, § 904\], Nov. 30, 1983, [97 Stat. 1279][/us/stat/97/1279].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1279
 
 

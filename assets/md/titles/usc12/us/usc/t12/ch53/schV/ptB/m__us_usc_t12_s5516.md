@@ -79,7 +79,7 @@
 
         A service provider to a substantial number of persons described in subsection (a) shall be subject to the authority of the Bureau under [section 5515 of this title][/us/usc/t12/s5515] to the same extent as if the Bureau were an appropriate Federal bank agency under [section 1867(c) of this title][/us/usc/t12/s1867/c]. When conducting any examination or requiring any report from a service provider subject to this subsection, the Bureau shall coordinate with the appropriate prudential regulator.
 
-([Pub. L. 111–203, title X, § 1026][/us/pl/111/203/s1026], July 21, 2010, [124 Stat. 1993][/us/stat/124/1993].)
+([Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1026, July 21, 2010, [124 Stat. 1993][/us/stat/124/1993].)
 
  __Effective Date__ 
 
@@ -94,7 +94,7 @@
 
 [/us/usc/t12/s5515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5515
 [/us/usc/t12/s1867/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1867%2Fc
-[/us/pl/111/203/s1026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1026
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/1993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1993
 [/us/pl/111/203/s1029A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1029A
 [/us/usc/t12/s5511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5511

@@ -35,7 +35,7 @@
 
  __Prepayment and Refinancing__ 
 
-[Pub. L. 106–569, title VIII, § 811][/us/pl/106/569/s811], Dec. 27, 2000, [114 Stat. 3019][/us/stat/114/3019], as amended by [Pub. L. 107–116, title VI, § 633(a)][/us/pl/107/116/s633/a], Jan. 10, 2002, [115 Stat. 2228][/us/stat/115/2228]; [Pub. L. 111–372, title II][/us/pl/111/372], §§ 201–204, Jan. 4, 2011, [124 Stat. 4079–4081][/us/stat/124/4079-4081], provided that:
+[Pub. L. 106–569, title VIII][/us/pl/106/569/tVIII], § 811, Dec. 27, 2000, [114 Stat. 3019][/us/stat/114/3019], as amended by [Pub. L. 107–116, title VI][/us/pl/107/116/tVI], § 633(a), Jan. 10, 2002, [115 Stat. 2228][/us/stat/115/2228]; [Pub. L. 111–372, title II][/us/pl/111/372/tII], §§ 201–204, Jan. 4, 2011, [124 Stat. 4079–4081][/us/stat/124/4079-4081], provided that:
 
 >     “(a)  __Approval of Prepayment of Debt__  __.—__ 
 
@@ -137,9 +137,9 @@
 
 >     For purposes of this section, the term ‘private nonprofit organization’ has the meaning given such term in section 202(k) of the Housing Act of 1959 ([12 U.S.C. 1701q(k)][/us/usc/t12/s1701q/k]).”
 
-    \[[Pub. L. 111–372, title II, § 203(2)][/us/pl/111/372/s203/2], Jan. 4, 2011, [124 Stat. 4081][/us/stat/124/4081], which directed amendment of [section 811(d)(1) of Pub. L. 106–569][/us/pl/106/569/s811/d/1], set out above, by inserting before the period at the end “or other purposes approved by the Secretary”, was executed by making the insertion before “; and” to reflect the probable intent of Congress.\]
+    \[[Pub. L. 111–372, title II][/us/pl/111/372/tII], § 203(2), Jan. 4, 2011, [124 Stat. 4081][/us/stat/124/4081], which directed amendment of [section 811(d)(1) of Pub. L. 106–569][/us/pl/106/569/s811/d/1], set out above, by inserting before the period at the end “or other purposes approved by the Secretary”, was executed by making the insertion before “; and” to reflect the probable intent of Congress.\]
 
-\[[Pub. L. 107–116, title VI, § 633(b)][/us/pl/107/116/s633/b], Jan. 10, 2002, [115 Stat. 2228][/us/stat/115/2228], provided that: 
+\[[Pub. L. 107–116, title VI][/us/pl/107/116/tVI], § 633(b), Jan. 10, 2002, [115 Stat. 2228][/us/stat/115/2228], provided that: 
 
 > “The amendment made by subsection (a) of this section \[amending [section 811 of Pub. L. 106–569][/us/pl/106/569/s811], set out above\] shall take effect upon the date of the enactment of this Act \[Jan. 10, 2002\] and the provisions of section 811 of the American Homeownership and Economic Opportunity Act of 2000 ([12 U.S.C. 1701q][/us/usc/t12/s1701q] note), as amended by subsection (a) of this section, shall apply as so amended upon such date of enactment, notwithstanding—
 
@@ -149,7 +149,7 @@
 
  __Consideration of Costs of Providing Service Coordinators in Determining Amount of Housing Assistance__ 
 
-[Pub. L. 102–550, title VI, § 677(b)][/us/pl/102/550/s677/b], Oct. 28, 1992, [106 Stat. 3829][/us/stat/106/3829], provided that:
+[Pub. L. 102–550, title VI][/us/pl/102/550/tVI], § 677(b), Oct. 28, 1992, [106 Stat. 3829][/us/stat/106/3829], provided that:
 
 >     “(1)  __Availability of section 8 assistance__  __.—__ 
 
@@ -171,7 +171,7 @@
 
  __Expedited Financing and Construction__ 
 
-[Pub. L. 101–625, title VIII, § 801(d)][/us/pl/101/625/s801/d], Nov. 28, 1990, [104 Stat. 4304][/us/stat/104/4304], provided that:
+[Pub. L. 101–625, title VIII][/us/pl/101/625/tVIII], § 801(d), Nov. 28, 1990, [104 Stat. 4304][/us/stat/104/4304], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -193,7 +193,7 @@
 
  __Feasibility of Including Elder Cottage Housing Opportunity Units as Eligible Development Costs__ 
 
-[Pub. L. 101–625, title VIII, § 806(b)][/us/pl/101/625/s806/b], Nov. 28, 1990, [104 Stat. 4323][/us/stat/104/4323], as amended by [Pub. L. 102–550, title VI, § 602(d)][/us/pl/102/550/s602/d], Oct. 28, 1992, [106 Stat. 3804][/us/stat/106/3804], provided that:
+[Pub. L. 101–625, title VIII][/us/pl/101/625/tVIII], § 806(b), Nov. 28, 1990, [104 Stat. 4323][/us/stat/104/4323], as amended by [Pub. L. 102–550, title VI][/us/pl/102/550/tVI], § 602(d), Oct. 28, 1992, [106 Stat. 3804][/us/stat/106/3804], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -217,7 +217,7 @@
 
  __Findings and Purpose of 1988 Amendment__ 
 
-[Pub. L. 100–242, title I, § 162(a)][/us/pl/100/242/s162/a], Feb. 5, 1988, [101 Stat. 1856][/us/stat/101/1856], provided that:
+[Pub. L. 100–242, title I][/us/pl/100/242/tI], § 162(a), Feb. 5, 1988, [101 Stat. 1856][/us/stat/101/1856], provided that:
 
 >     “(1)
 
@@ -245,45 +245,45 @@
 
  __Termination of Section 8 Assistance__ 
 
-[Pub. L. 100–242, title I, § 162(d)][/us/pl/100/242/s162/d], Feb. 5, 1988, [101 Stat. 1859][/us/stat/101/1859], provided that: 
+[Pub. L. 100–242, title I][/us/pl/100/242/tI], § 162(d), Feb. 5, 1988, [101 Stat. 1859][/us/stat/101/1859], provided that: 
 
 > “On and after the first date that amounts approved in an appropriation Act for any fiscal year become available for contracts under section 202(h)(4)(A) of the Housing Act of 1959 \[[12 U.S.C. 1701q(h)(4)(A)][/us/usc/t12/s1701q/h/4/A]\], as amended by subsection (b) of this section, no project for handicapped (primarily nonelderly) families approved for such fiscal year pursuant to section 202 of such Act shall be provided assistance payments under section 8 of the United States Housing Act of 1937 \[[42 U.S.C. 1437f][/us/usc/t42/s1437f]\], except pursuant to a reservation for a contract to make such assistance payments that was made before the first date that amounts for contracts under such section 202(h)(4)(A) became available.”
 
  __Implementation of 1988 Amendment__ 
 
-[Pub. L. 100–242, title I, § 162(e)][/us/pl/100/242/s162/e], Feb. 5, 1988, [101 Stat. 1859][/us/stat/101/1859], provided that: 
+[Pub. L. 100–242, title I][/us/pl/100/242/tI], § 162(e), Feb. 5, 1988, [101 Stat. 1859][/us/stat/101/1859], provided that: 
 
 > “Not later than the expiration of the 120-day period following the date of the enactment of this Act \[Feb. 5, 1988\], the Secretary of Housing and Urban Development shall, to the extent amounts are approved in an appropriation Act for use under section 202(h)(4)(A) of the Housing Act of 1959 \[[12 U.S.C. 1701q(h)(4)(A)][/us/usc/t12/s1701q/h/4/A]\] for fiscal year 1988, publish in the Federal Register a notice of fund availability to implement the provisions of, and amendments made by, this section \[amending this section and enacting and repealing provisions set out above\]. The Secretary shall issue such rules as may be necessary to carry out such provisions and amendments for fiscal year 1989 and thereafter.”
 
  __Housing for the Elderly or Handicapped Fund__ 
 
-[Pub. L. 101–507, title II][/us/pl/101/507], Nov. 5, 1990, [104 Stat. 1361][/us/stat/104/1361], provided: 
+[Pub. L. 101–507, title II][/us/pl/101/507/tII], Nov. 5, 1990, [104 Stat. 1361][/us/stat/104/1361], provided: 
 
 > “That, notwithstanding section 202(a)(3) of the Housing Act of 1959 \[[12 U.S.C. 1701q(a)(3)][/us/usc/t12/s1701q/a/3]\], any such obligations \[direct loan obligations made in fiscal year 1991\] shall bear an interest rate which does not exceed 9.25 per centum, including the allowance adequate in the judgment of the Secretary to cover administrative costs and probable losses under the program.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
-    [Pub. L. 101–144, title II][/us/pl/101/144], Nov. 9, 1989, [103 Stat. 847][/us/stat/103/847].
+    [Pub. L. 101–144, title II][/us/pl/101/144/tII], Nov. 9, 1989, [103 Stat. 847][/us/stat/103/847].
 
-    [Pub. L. 100–404, title I][/us/pl/100/404], Aug. 19, 1988, [102 Stat. 1016][/us/stat/102/1016].
+    [Pub. L. 100–404, title I][/us/pl/100/404/tI], Aug. 19, 1988, [102 Stat. 1016][/us/stat/102/1016].
 
-    [Pub. L. 100–202, § 101(f)][/us/pl/100/202/s101/f] \[title I\], Dec. 22, 1987, [101 Stat. 1329–187][/us/stat/101/1329-187], 1329–190.
+    [Pub. L. 100–202][/us/pl/100/202], § 101(f) \[title I\], Dec. 22, 1987, [101 Stat. 1329–187][/us/stat/101/1329-187], 1329–190.
 
-    [Pub. L. 99–500, § 101(g)][/us/pl/99/500/s101/g] \[H.R. 5313, title I\], Oct. 18, 1986, [100 Stat. 1783–242][/us/stat/100/1783-242], and [Pub. L. 99–591, § 101(g)][/us/pl/99/591/s101/g], Oct. 30, 1986, [100 Stat. 3341–242][/us/stat/100/3341-242].
+    [Pub. L. 99–500][/us/pl/99/500], § 101(g) \[H.R. 5313, title I\], Oct. 18, 1986, [100 Stat. 1783–242][/us/stat/100/1783-242], and [Pub. L. 99–591][/us/pl/99/591], § 101(g), Oct. 30, 1986, [100 Stat. 3341–242][/us/stat/100/3341-242].
 
-    [Pub. L. 99–160, title I][/us/pl/99/160], Nov. 25, 1985, [99 Stat. 911][/us/stat/99/911].
+    [Pub. L. 99–160, title I][/us/pl/99/160/tI], Nov. 25, 1985, [99 Stat. 911][/us/stat/99/911].
 
-    [Pub. L. 98–371, title I][/us/pl/98/371], July 18, 1984, [98 Stat. 1216][/us/stat/98/1216].
+    [Pub. L. 98–371, title I][/us/pl/98/371/tI], July 18, 1984, [98 Stat. 1216][/us/stat/98/1216].
 
-    [Pub. L. 98–45, title I][/us/pl/98/45], as added [Pub. L. 98–181, title I][/us/pl/98/181], Nov. 30, 1983, [97 Stat. 1153][/us/stat/97/1153].
+    [Pub. L. 98–45, title I][/us/pl/98/45/tI], as added [Pub. L. 98–181, title I][/us/pl/98/181/tI], Nov. 30, 1983, [97 Stat. 1153][/us/stat/97/1153].
 
  __Reports Respecting Elderly and Handicapped Housing Programs in Rural Areas, Etc.__ 
 
-    [Pub. L. 96–153, title III, § 306(e)][/us/pl/96/153/s306/e], (f), Dec. 21, 1979, [93 Stat. 1113][/us/stat/93/1113], required Secretary of Housing and Urban Development, not later than six months after Dec. 21, 1979, to report to Congress on housing needs of elderly and handicapped in rural areas and recommend to Congress on means to reduce costs of program carried out under this section.
+    [Pub. L. 96–153, title III][/us/pl/96/153/tIII], § 306(e), (f), Dec. 21, 1979, [93 Stat. 1113][/us/stat/93/1113], required Secretary of Housing and Urban Development, not later than six months after Dec. 21, 1979, to report to Congress on housing needs of elderly and handicapped in rural areas and recommend to Congress on means to reduce costs of program carried out under this section.
 
  __Feasibility and Marketability of Projects; Assistance for Projects Servicing Low- and Moderate-Income Families__ 
 
-[Pub. L. 93–383, title II, § 210(g)][/us/pl/93/383/s210/g], Aug. 22, 1974, [88 Stat. 671][/us/stat/88/671], provided that:
+[Pub. L. 93–383, title II][/us/pl/93/383/tII], § 210(g), Aug. 22, 1974, [88 Stat. 671][/us/stat/88/671], provided that:
 
 >     “(1) In determining the feasibility and marketability of a project under section 202 of the Housing Act of 1959 \[this section\], the Secretary shall consider the availability of monthly assistance payments pursuant to section 8 of the United States Housing Act of 1937 \[[42 U.S.C. 1437f][/us/usc/t42/s1437f]\] with respect to such a proj­ect.
 
@@ -297,11 +297,11 @@ Similar provisions were contained in the following prior appropriation acts:
 ----------
 
 [/us/usc/t12/s1701q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701q
-[/us/pl/106/569/s811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs811
+[/us/pl/106/569/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2FtVIII
 [/us/stat/114/3019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F3019
-[/us/pl/107/116/s633/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F116%2Fs633%2Fa
+[/us/pl/107/116/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F116%2FtVI
 [/us/stat/115/2228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2228
-[/us/pl/111/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F372
+[/us/pl/111/372/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F372%2FtII
 [/us/stat/124/4079-4081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4079-4081
 [/us/usc/t12/s1701q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701q
 [/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
@@ -319,15 +319,15 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
 [/us/usc/t12/s1715z–1a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715z%E2%80%931a
 [/us/usc/t12/s1701q/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701q%2Fk
-[/us/pl/111/372/s203/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F372%2Fs203%2F2
+[/us/pl/111/372/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F372%2FtII
 [/us/stat/124/4081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4081
 [/us/pl/106/569/s811/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs811%2Fd%2F1
-[/us/pl/107/116/s633/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F116%2Fs633%2Fb
+[/us/pl/107/116/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F116%2FtVI
 [/us/stat/115/2228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2228
 [/us/pl/106/569/s811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs811
 [/us/usc/t12/s1701q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701q
 [/us/usc/t12/s1701q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701q
-[/us/pl/102/550/s677/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs677%2Fb
+[/us/pl/102/550/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtVI
 [/us/stat/106/3829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3829
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/usc/t12/s1701q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701q
@@ -336,51 +336,51 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/usc/t42/s3545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3545
 [/us/usc/t42/s8001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8001
 [/us/usc/t42/s8011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8011
-[/us/pl/101/625/s801/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs801%2Fd
+[/us/pl/101/625/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtVIII
 [/us/stat/104/4304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4304
 [/us/usc/t42/s1437f/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f%2Fc%2F1
 [/us/usc/t12/s1701q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701q
-[/us/pl/101/625/s806/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs806%2Fb
+[/us/pl/101/625/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtVIII
 [/us/stat/104/4323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4323
-[/us/pl/102/550/s602/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs602%2Fd
+[/us/pl/102/550/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtVI
 [/us/stat/106/3804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3804
 [/us/usc/t12/s1701q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701q
 [/us/pl/101/625/s958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs958
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
-[/us/pl/100/242/s162/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs162%2Fa
+[/us/pl/100/242/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtI
 [/us/stat/101/1856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1856
 [/us/usc/t12/s1701q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701q
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
-[/us/pl/100/242/s162/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs162%2Fd
+[/us/pl/100/242/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtI
 [/us/stat/101/1859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1859
 [/us/usc/t12/s1701q/h/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701q%2Fh%2F4%2FA
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
-[/us/pl/100/242/s162/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs162%2Fe
+[/us/pl/100/242/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtI
 [/us/stat/101/1859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1859
 [/us/usc/t12/s1701q/h/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701q%2Fh%2F4%2FA
-[/us/pl/101/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F507
+[/us/pl/101/507/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F507%2FtII
 [/us/stat/104/1361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1361
 [/us/usc/t12/s1701q/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701q%2Fa%2F3
-[/us/pl/101/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F144
+[/us/pl/101/144/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F144%2FtII
 [/us/stat/103/847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F847
-[/us/pl/100/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F404
+[/us/pl/100/404/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F404%2FtI
 [/us/stat/102/1016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1016
-[/us/pl/100/202/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Ff
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-187
-[/us/pl/99/500/s101/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fg
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-242
-[/us/pl/99/591/s101/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fg
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341-242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-242
-[/us/pl/99/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F160
+[/us/pl/99/160/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F160%2FtI
 [/us/stat/99/911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F911
-[/us/pl/98/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F371
+[/us/pl/98/371/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F371%2FtI
 [/us/stat/98/1216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1216
-[/us/pl/98/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F45
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/45/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F45%2FtI
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1153
-[/us/pl/96/153/s306/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153%2Fs306%2Fe
+[/us/pl/96/153/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153%2FtIII
 [/us/stat/93/1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1113
-[/us/pl/93/383/s210/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs210%2Fg
+[/us/pl/93/383/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtII
 [/us/stat/88/671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F671
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 

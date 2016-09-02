@@ -55,7 +55,7 @@
 
         The several district courts of the United States and the several district courts of the Territories of the United States or other place subject to United States jurisdiction, within whose jurisdictional limits the person doing or committing the acts or practices constituting the alleged violation shall be found, shall, wheresoever such acts or practices may have been done or committed, have full power and jurisdiction to hear, try, and determine such matter under subsections (h) and (i) of this section.
 
-([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title V, § 513, as added [Aug. 2, 1954, ch. 649][/us/act/1954-08-02/ch649], title I, § 132, [68 Stat. 610][/us/stat/68/610]; amended [Pub. L. 90–19, § 1(a)(3)][/us/pl/90/19/s1/a/3], May 25, 1967, [81 Stat. 17][/us/stat/81/17]; [Pub. L. 98–479, title II, § 204(a)(18)][/us/pl/98/479/s204/a/18], Oct. 17, 1984, [98 Stat. 2232][/us/stat/98/2232].)
+([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title V, § 513, as added [Aug. 2, 1954, ch. 649][/us/act/1954-08-02/ch649], title I, § 132, [68 Stat. 610][/us/stat/68/610]; amended [Pub. L. 90–19][/us/pl/90/19], § 1(a)(3), May 25, 1967, [81 Stat. 17][/us/stat/81/17]; [Pub. L. 98–479, title II][/us/pl/98/479/tII], § 204(a)(18), Oct. 17, 1984, [98 Stat. 2232][/us/stat/98/2232].)
 
  __Prior Provisions__ 
 
@@ -80,9 +80,9 @@
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
 [/us/act/1954-08-02/ch649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-02%2Fch649
 [/us/stat/68/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F610
-[/us/pl/90/19/s1/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19%2Fs1%2Fa%2F3
+[/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
 [/us/stat/81/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F17
-[/us/pl/98/479/s204/a/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2Fs204%2Fa%2F18
+[/us/pl/98/479/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2FtII
 [/us/stat/98/2232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2232
 [/us/usc/t12/s1732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1732
 [/us/pl/98/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479

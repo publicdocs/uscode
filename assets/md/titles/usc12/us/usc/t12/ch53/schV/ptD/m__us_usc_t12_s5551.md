@@ -65,7 +65,7 @@
 
             For purposes of this subsection, the term “consumer protection regulation” means a regulation that the Bureau is authorized to prescribe under the Federal consumer financial laws.
 
-([Pub. L. 111–203, title X, § 1041][/us/pl/111/203/s1041], July 21, 2010, [124 Stat. 2011][/us/stat/124/2011].)
+([Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1041, July 21, 2010, [124 Stat. 2011][/us/stat/124/2011].)
 
  __References in Text__ 
 
@@ -77,7 +77,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 111–203, title X, § 1048][/us/pl/111/203/s1048], July 21, 2010, [124 Stat. 2018][/us/stat/124/2018], provided that: 
+[Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1048, July 21, 2010, [124 Stat. 2018][/us/stat/124/2018], provided that: 
 
 > “This subtitle \[subtitle D (§§ 1041–1048) of title X of [Pub. L. 111–203][/us/pl/111/203], enacting this part and enacting and amending sections 25b and 1465 of this title\] shall become effective on the designated transfer date.”
 
@@ -90,7 +90,7 @@
 ----------
 ----------
 
-[/us/pl/111/203/s1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1041
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2011
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1955
@@ -98,7 +98,7 @@
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s1083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1083
 [/us/usc/t12/s3802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3802
-[/us/pl/111/203/s1048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1048
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2018
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/usc/t12/s5481/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5481%2F9

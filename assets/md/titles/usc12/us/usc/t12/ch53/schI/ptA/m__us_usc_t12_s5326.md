@@ -47,7 +47,7 @@
 
             The Council shall maintain the confidentiality of the reports obtained under subsection (a) and paragraph (1)(A) of this subsection.
 
-([Pub. L. 111–203, title I, § 116][/us/pl/111/203/s116], July 21, 2010, [124 Stat. 1406][/us/stat/124/1406].)
+([Pub. L. 111–203, title I][/us/pl/111/203/tI], § 116, July 21, 2010, [124 Stat. 1406][/us/stat/124/1406].)
 
 ----------
 
@@ -56,7 +56,7 @@
 ----------
 ----------
 
-[/us/pl/111/203/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs116
+[/us/pl/111/203/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtI
 [/us/stat/124/1406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1406
 
 

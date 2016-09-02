@@ -25,7 +25,7 @@
 
  __Application to District of Columbia__ 
 
-    Provisions of this section were made applicable to banks, etc., in the District of Columbia by [act Mar. 4, 1933, ch. 274, § 4][/us/act/1933-03-04/ch274/s4], [47 Stat. 1567][/us/stat/47/1567].
+    Provisions of this section were made applicable to banks, etc., in the District of Columbia by [act Mar. 4, 1933, ch. 274][/us/act/1933-03-04/ch274], § 4, [47 Stat. 1567][/us/stat/47/1567].
 
 ----------
 
@@ -37,7 +37,7 @@
 [/us/act/1930-02-25/ch58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-02-25%2Fch58
 [/us/stat/46/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F74
 [/us/usc/t12/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1
-[/us/act/1933-03-04/ch274/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-03-04%2Fch274%2Fs4
+[/us/act/1933-03-04/ch274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-03-04%2Fch274
 [/us/stat/47/1567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F1567
 
 

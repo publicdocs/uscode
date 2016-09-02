@@ -33,7 +33,7 @@
 
     (2) the terms “eligible low-income housing”, “nonprofit organization”, “owner”, and “resident council” have the meanings given such terms in [section 4119 of this title][/us/usc/t12/s4119].
 
-([Pub. L. 100–242, title II, § 256][/us/pl/100/242/s256], as added [Pub. L. 102–550, title III, § 312][/us/pl/102/550/s312], Oct. 28, 1992, [106 Stat. 3769][/us/stat/106/3769].)
+([Pub. L. 100–242, title II][/us/pl/100/242/tII], § 256, as added [Pub. L. 102–550, title III][/us/pl/102/550/tIII], § 312, Oct. 28, 1992, [106 Stat. 3769][/us/stat/106/3769].)
 
 ----------
 
@@ -44,8 +44,8 @@
 
 [/us/usc/t26/s501/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc%2F3
 [/us/usc/t12/s4119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4119
-[/us/pl/100/242/s256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs256
-[/us/pl/102/550/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs312
+[/us/pl/100/242/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtII
+[/us/pl/102/550/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtIII
 [/us/stat/106/3769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3769
 
 

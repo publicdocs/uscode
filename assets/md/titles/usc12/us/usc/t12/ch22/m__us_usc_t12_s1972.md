@@ -147,7 +147,7 @@
 
         The resignation, termination of employment or participation, or separation of an institution-affiliated party (within the meaning of [section 1813(u) of this title][/us/usc/t12/s1813/u]) with respect to such a bank (including a separation caused by the closing of such a bank) shall not affect the jurisdiction and authority of the appropriate Federal banking agency to issue any notice and proceed under this section against any such party, if such notice is served before the end of the 6-year period beginning on the date such party ceased to be such a party with respect to such bank (whether such date occurs before, on, or after August 9, 1989).
 
-([Pub. L. 91–607, title I, § 106(b)][/us/pl/91/607/s106/b], Dec. 31, 1970, [84 Stat. 1766][/us/stat/84/1766]; [Pub. L. 95–630, title VIII, § 801][/us/pl/95/630/s801], Nov. 10, 1978, [92 Stat. 3690][/us/stat/92/3690]; [Pub. L. 97–320, title IV][/us/pl/97/320], §§ 410(f), 424(c), (d)(11), (e), 428, Oct. 15, 1982, [96 Stat. 1520][/us/stat/96/1520], 1523, 1526; [Pub. L. 101–73, title IX][/us/pl/101/73], §§ 905(h), 907(i), Aug. 9, 1989, [103 Stat. 461][/us/stat/103/461], 473; [Pub. L. 102–242, title III, § 306(j)][/us/pl/102/242/s306/j], Dec. 19, 1991, [105 Stat. 2359][/us/stat/105/2359]; [Pub. L. 104–208, div. A, title II, § 2216(a)][/us/pl/104/208/s2216/a], Sept. 30, 1996, [110 Stat. 3009–413][/us/stat/110/3009-413]; [Pub. L. 109–351, title VI, § 601(b)][/us/pl/109/351/s601/b], Oct. 13, 2006, [120 Stat. 1978][/us/stat/120/1978]; [Pub. L. 111–203, title III, § 355][/us/pl/111/203/s355], July 21, 2010, [124 Stat. 1547][/us/stat/124/1547].)
+([Pub. L. 91–607, title I][/us/pl/91/607/tI], § 106(b), Dec. 31, 1970, [84 Stat. 1766][/us/stat/84/1766]; [Pub. L. 95–630, title VIII][/us/pl/95/630/tVIII], § 801, Nov. 10, 1978, [92 Stat. 3690][/us/stat/92/3690]; [Pub. L. 97–320, title IV][/us/pl/97/320/tIV], §§ 410(f), 424(c), (d)(11), (e), 428, Oct. 15, 1982, [96 Stat. 1520][/us/stat/96/1520], 1523, 1526; [Pub. L. 101–73, title IX][/us/pl/101/73/tIX], §§ 905(h), 907(i), Aug. 9, 1989, [103 Stat. 461][/us/stat/103/461], 473; [Pub. L. 102–242, title III][/us/pl/102/242/tIII], § 306(j), Dec. 19, 1991, [105 Stat. 2359][/us/stat/105/2359]; [Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], § 2216(a), Sept. 30, 1996, [110 Stat. 3009–413][/us/stat/110/3009-413]; [Pub. L. 109–351, title VI][/us/pl/109/351/tVI], § 601(b), Oct. 13, 2006, [120 Stat. 1978][/us/stat/120/1978]; [Pub. L. 111–203, title III][/us/pl/111/203/tIII], § 355, July 21, 2010, [124 Stat. 1547][/us/stat/124/1547].)
 
  __Amendments__ 
 
@@ -159,23 +159,23 @@
 
     1991—Par. (2)(H)(i). [Pub. L. 102–242][/us/pl/102/242] inserted before semicolon at end “, a savings bank, and a savings association (as those terms are defined in [section 1813 of this title][/us/usc/t12/s1813])”.
 
-    1989—Par. (2)(F). [Pub. L. 101–73, § 907(i)][/us/pl/101/73/s907/i], amended subpar. (F) generally, revising and restating as cls. (i) to (ix) provisions of former cls. (i) to (vii).
+    1989—Par. (2)(F). [Pub. L. 101–73][/us/pl/101/73], § 907(i), amended subpar. (F) generally, revising and restating as cls. (i) to (ix) provisions of former cls. (i) to (vii).
 
-    Par. (2)(I). [Pub. L. 101–73, § 905(h)][/us/pl/101/73/s905/h], added subpar. (I).
+    Par. (2)(I). [Pub. L. 101–73][/us/pl/101/73], § 905(h), added subpar. (I).
 
-    1982—Par. (2)(A) to (D). [Pub. L. 97–320, § 428(a)(1)][/us/pl/97/320/s428/a/1]–(4), inserted “or to any related interest of such person” after “such other bank” in subpar. (A), “desiring to open the account” in subpar. (B), “such other bank” in subpar. (C), and “another bank” in subpar. (D).
+    1982—Par. (2)(A) to (D). [Pub. L. 97–320][/us/pl/97/320], § 428(a)(1)–(4), inserted “or to any related interest of such person” after “such other bank” in subpar. (A), “desiring to open the account” in subpar. (B), “such other bank” in subpar. (C), and “another bank” in subpar. (D).
 
-    Par. (2)(E). [Pub. L. 97–320, § 410(f)][/us/pl/97/320/s410/f], substituted “the meaning prescribed by the Board pursuant to [section 375b of this title][/us/usc/t12/s375b]” for “the same meaning given it in [section 371c of this title][/us/usc/t12/s371c]”.
+    Par. (2)(E). [Pub. L. 97–320][/us/pl/97/320], § 410(f), substituted “the meaning prescribed by the Board pursuant to [section 375b of this title][/us/usc/t12/s375b]” for “the same meaning given it in [section 371c of this title][/us/usc/t12/s371c]”.
 
-    Par. (2)(F)(i). [Pub. L. 97–320, § 424(c)][/us/pl/97/320/s424/c], (d)(11), inserted proviso giving agency discretionary authority to compromise, etc., any civil money penalty imposed under such authority, and substituted “may be assessed” for “shall be assessed”.
+    Par. (2)(F)(i). [Pub. L. 97–320][/us/pl/97/320], § 424(c), (d)(11), inserted proviso giving agency discretionary authority to compromise, etc., any civil money penalty imposed under such authority, and substituted “may be assessed” for “shall be assessed”.
 
-    Par. (2)(F)(iv). [Pub. L. 97–320, § 424(e)][/us/pl/97/320/s424/e], substituted “twenty days from the service” for “ten days from the date”.
+    Par. (2)(F)(iv). [Pub. L. 97–320][/us/pl/97/320], § 424(e), substituted “twenty days from the service” for “ten days from the date”.
 
-    Par. (2)(G)(ii). [Pub. L. 97–320, § 428(b)(1)][/us/pl/97/320/s428/b/1], substituted “(ii) The appropriate Federal banking agencies are authorized to issue rules and regulations, including definitions of terms, to require the reporting and public disclosure of information by any bank or executive officer or principal shareholder thereof concerning any extension of credit by a correspondent bank to the reporting bank’s executive officers or principal shareholders, or the related interests of such persons.” for “(ii) Each insured bank shall compile the reports filed pursuant to subparagraph (G)(i) and forward such compilation to the Comptroller of the Currency in the case of a national bank, the Board in the case of a State member bank, and the Federal Deposit Insurance Corporation in the case of an insured nonmember State bank.”
+    Par. (2)(G)(ii). [Pub. L. 97–320][/us/pl/97/320], § 428(b)(1), substituted “(ii) The appropriate Federal banking agencies are authorized to issue rules and regulations, including definitions of terms, to require the reporting and public disclosure of information by any bank or executive officer or principal shareholder thereof concerning any extension of credit by a correspondent bank to the reporting bank’s executive officers or principal shareholders, or the related interests of such persons.” for “(ii) Each insured bank shall compile the reports filed pursuant to subparagraph (G)(i) and forward such compilation to the Comptroller of the Currency in the case of a national bank, the Board in the case of a State member bank, and the Federal Deposit Insurance Corporation in the case of an insured nonmember State bank.”
 
-    Par. (2)(G)(iii). [Pub. L. 97–320, § 428(b)(2)][/us/pl/97/320/s428/b/2], struck out cl. (iii) which required insured banks to include in their section 1817(k)(1) report a list of names of executive officers or stockholders of record owning, controlling, or having more than a 10 per centum voting control of any class of voting securities of the bank who file information required by subpar. (G)(i) and aggregate amount of extensions of credit by correspondent banks to such executive officers or stockholders of record, any company controlled by such persons, and any political or campaign committee the funds or services of which will benefit such persons, or which is controlled by such persons.
+    Par. (2)(G)(iii). [Pub. L. 97–320][/us/pl/97/320], § 428(b)(2), struck out cl. (iii) which required insured banks to include in their section 1817(k)(1) report a list of names of executive officers or stockholders of record owning, controlling, or having more than a 10 per centum voting control of any class of voting securities of the bank who file information required by subpar. (G)(i) and aggregate amount of extensions of credit by correspondent banks to such executive officers or stockholders of record, any company controlled by such persons, and any political or campaign committee the funds or services of which will benefit such persons, or which is controlled by such persons.
 
-    Par. (2)(H). [Pub. L. 97–320, § 428(c)][/us/pl/97/320/s428/c], added subpar. (H).
+    Par. (2)(H). [Pub. L. 97–320][/us/pl/97/320], § 428(c), added subpar. (H).
 
     1978—[Pub. L. 95–630][/us/pl/95/630] designated existing provisions as par. (1), redesignated former pars. (1) to (5) as subpars. (A) to (E), and added par. (2).
 
@@ -216,38 +216,38 @@
 [/us/usc/t12/s1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813
 [/us/usc/t12/s375b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs375b
 [/us/usc/t12/s1813/u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813%2Fu
-[/us/pl/91/607/s106/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F607%2Fs106%2Fb
+[/us/pl/91/607/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F607%2FtI
 [/us/stat/84/1766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1766
-[/us/pl/95/630/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs801
+[/us/pl/95/630/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtVIII
 [/us/stat/92/3690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3690
-[/us/pl/97/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320
+[/us/pl/97/320/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2FtIV
 [/us/stat/96/1520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1520
-[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
+[/us/pl/101/73/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtIX
 [/us/stat/103/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F461
-[/us/pl/102/242/s306/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs306%2Fj
+[/us/pl/102/242/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtIII
 [/us/stat/105/2359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2359
-[/us/pl/104/208/s2216/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2216%2Fa
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-413
-[/us/pl/109/351/s601/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs601%2Fb
+[/us/pl/109/351/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2FtVI
 [/us/stat/120/1978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1978
-[/us/pl/111/203/s355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs355
+[/us/pl/111/203/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIII
 [/us/stat/124/1547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1547
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
 [/us/usc/t12/s1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813
-[/us/pl/101/73/s907/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs907%2Fi
-[/us/pl/101/73/s905/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs905%2Fh
-[/us/pl/97/320/s428/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs428%2Fa%2F1
-[/us/pl/97/320/s410/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs410%2Ff
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
+[/us/pl/97/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320
+[/us/pl/97/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320
 [/us/usc/t12/s375b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs375b
 [/us/usc/t12/s371c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs371c
-[/us/pl/97/320/s424/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs424%2Fc
-[/us/pl/97/320/s424/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs424%2Fe
-[/us/pl/97/320/s428/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs428%2Fb%2F1
-[/us/pl/97/320/s428/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs428%2Fb%2F2
-[/us/pl/97/320/s428/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs428%2Fc
+[/us/pl/97/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320
+[/us/pl/97/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320
+[/us/pl/97/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320
+[/us/pl/97/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320
+[/us/pl/97/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320
 [/us/pl/95/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs351

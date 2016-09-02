@@ -17,7 +17,7 @@
 
     If any individual files a motion or application under this chapter which has the effect of delaying the access of a Government authority to financial records pertaining to such individual, any applicable statute of limitations shall be deemed to be tolled for the period extending from the date such motion or application was filed until the date upon which the motion or application is decided.
 
-([Pub. L. 95–630, title XI, § 1119][/us/pl/95/630/s1119], Nov. 10, 1978, [92 Stat. 3709][/us/stat/92/3709].)
+([Pub. L. 95–630, title XI][/us/pl/95/630/tXI], § 1119, Nov. 10, 1978, [92 Stat. 3709][/us/stat/92/3709].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/630/s1119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs1119
+[/us/pl/95/630/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtXI
 [/us/stat/92/3709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3709
 
 

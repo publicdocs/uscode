@@ -469,7 +469,7 @@
 
             (B) has not more than $10,000,000 in total assets.
 
-([June 26, 1934, ch. 750][/us/act/1934-06-26/ch750], title II, § 216, as added [Pub. L. 105–219, title III, § 301(a)][/us/pl/105/219/s301/a], Aug. 7, 1998, [112 Stat. 923][/us/stat/112/923]; amended [Pub. L. 109–351, title V, § 504][/us/pl/109/351/s504], title VII, § 726(25), Oct. 13, 2006, [120 Stat. 1975][/us/stat/120/1975], 2003; [Pub. L. 111–203, title IX, § 988(a)][/us/pl/111/203/s988/a], July 21, 2010, [124 Stat. 1938][/us/stat/124/1938]; [Pub. L. 111–382, § 3][/us/pl/111/382/s3], Jan. 4, 2011, [124 Stat. 4135][/us/stat/124/4135].)
+([June 26, 1934, ch. 750][/us/act/1934-06-26/ch750], title II, § 216, as added [Pub. L. 105–219, title III][/us/pl/105/219/tIII], § 301(a), Aug. 7, 1998, [112 Stat. 923][/us/stat/112/923]; amended [Pub. L. 109–351, title V][/us/pl/109/351/tV], § 504, title VII, § 726(25), Oct. 13, 2006, [120 Stat. 1975][/us/stat/120/1975], 2003; [Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 988(a), July 21, 2010, [124 Stat. 1938][/us/stat/124/1938]; [Pub. L. 111–382][/us/pl/111/382], § 3, Jan. 4, 2011, [124 Stat. 4135][/us/stat/124/4135].)
 
  __References in Text__ 
 
@@ -493,9 +493,9 @@
 
     “(2) an amount equal to 10 percent of the total assets of the credit union at the time at which the Board initiated assistance under [section 1788 of this title][/us/usc/t12/s1788] or was appointed liquidating agent.”
 
-    2006—Subsec. (n). [Pub. L. 109–351, § 726(25)][/us/pl/109/351/s726/25], inserted “any action” before “that is required”.
+    2006—Subsec. (n). [Pub. L. 109–351][/us/pl/109/351], § 726(25), inserted “any action” before “that is required”.
 
-    Subsec. (o)(2)(A). [Pub. L. 109–351, § 504][/us/pl/109/351/s504], inserted “the” before “retained earnings balance” and “, together with any amounts that were previously retained earnings of any other credit union with which the credit union has combined” before semicolon.
+    Subsec. (o)(2)(A). [Pub. L. 109–351][/us/pl/109/351], § 504, inserted “the” before “retained earnings balance” and “, together with any amounts that were previously retained earnings of any other credit union with which the credit union has combined” before semicolon.
 
  __Effective Date of 2010 Amendment__ 
 
@@ -503,7 +503,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 105–219, title III, § 301(e)][/us/pl/105/219/s301/e], Aug. 7, 1998, [112 Stat. 931][/us/stat/112/931], provided that:
+[Pub. L. 105–219, title III][/us/pl/105/219/tIII], § 301(e), Aug. 7, 1998, [112 Stat. 931][/us/stat/112/931], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -515,7 +515,7 @@
 
  __Regulations__ 
 
-[Pub. L. 105–219, title III, § 301(d)][/us/pl/105/219/s301/d], Aug. 7, 1998, [112 Stat. 930][/us/stat/112/930], provided that:
+[Pub. L. 105–219, title III][/us/pl/105/219/tIII], § 301(d), Aug. 7, 1998, [112 Stat. 930][/us/stat/112/930], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -537,13 +537,13 @@
 
  __Consultation Required__ 
 
-[Pub. L. 105–219, title III, § 301(c)][/us/pl/105/219/s301/c], Aug. 7, 1998, [112 Stat. 930][/us/stat/112/930], provided that: 
+[Pub. L. 105–219, title III][/us/pl/105/219/tIII], § 301(c), Aug. 7, 1998, [112 Stat. 930][/us/stat/112/930], provided that: 
 
 > “In developing regulations to implement section 216 of the Federal Credit Union Act \[[12 U.S.C. 1790d][/us/usc/t12/s1790d]\] (as added by subsection (a) of this section), the Board shall consult with the Secretary, the Federal banking agencies, and the State officials having jurisdiction over State-chartered insured credit unions.”
 
  __Report to Congress__ 
 
-[Pub. L. 105–219, title III, § 301(f)][/us/pl/105/219/s301/f], Aug. 7, 1998, [112 Stat. 931][/us/stat/112/931], provided that: 
+[Pub. L. 105–219, title III][/us/pl/105/219/tIII], § 301(f), Aug. 7, 1998, [112 Stat. 931][/us/stat/112/931], provided that: 
 
 > “When the Board publishes proposed regulations pursuant to subsection (d)(1)(A) \[set out above\], or promulgates final regulations pursuant to subsection (d)(1)(B) \[set out above\], the Board shall submit to the Congress a report that specifically explains—
 
@@ -553,7 +553,7 @@
 
  __Definitions__ 
 
-[Pub. L. 105–219, § 3][/us/pl/105/219/s3], Aug. 7, 1998, [112 Stat. 914][/us/stat/112/914], provided that: 
+[Pub. L. 105–219][/us/pl/105/219], § 3, Aug. 7, 1998, [112 Stat. 914][/us/stat/112/914], provided that: 
 
 > “As used in this Act \[see Short Title of 1998 Amendment note set out under [section 1751 of this title][/us/usc/t12/s1751]\]—
 
@@ -584,37 +584,37 @@
 [/us/usc/t12/s1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813
 [/us/usc/t12/s1788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1788
 [/us/act/1934-06-26/ch750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-26%2Fch750
-[/us/pl/105/219/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F219%2Fs301%2Fa
+[/us/pl/105/219/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F219%2FtIII
 [/us/stat/112/923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F923
-[/us/pl/109/351/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs504
+[/us/pl/109/351/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2FtV
 [/us/stat/120/1975]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1975
-[/us/pl/111/203/s988/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs988%2Fa
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1938
-[/us/pl/111/382/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F382%2Fs3
+[/us/pl/111/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F382
 [/us/stat/124/4135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4135
 [/us/pl/95/452/s8L]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452%2Fs8L
 [/us/pl/111/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F382
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/usc/t12/s1788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1788
-[/us/pl/109/351/s726/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs726%2F25
-[/us/pl/109/351/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs504
+[/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
+[/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs4
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301
-[/us/pl/105/219/s301/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F219%2Fs301%2Fe
+[/us/pl/105/219/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F219%2FtIII
 [/us/stat/112/931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F931
 [/us/usc/t12/s1790d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1790d
-[/us/pl/105/219/s301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F219%2Fs301%2Fd
+[/us/pl/105/219/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F219%2FtIII
 [/us/stat/112/930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F930
 [/us/usc/t12/s1790d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1790d
-[/us/pl/105/219/s301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F219%2Fs301%2Fc
+[/us/pl/105/219/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F219%2FtIII
 [/us/stat/112/930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F930
 [/us/usc/t12/s1790d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1790d
-[/us/pl/105/219/s301/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F219%2Fs301%2Ff
+[/us/pl/105/219/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F219%2FtIII
 [/us/stat/112/931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F931
 [/us/usc/t12/s1790d/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1790d%2Fb%2F1%2FB
 [/us/usc/t12/s1831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1831
-[/us/pl/105/219/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F219%2Fs3
+[/us/pl/105/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F219
 [/us/stat/112/914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F914
 [/us/usc/t12/s1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1751
 [/us/usc/t12/s1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813

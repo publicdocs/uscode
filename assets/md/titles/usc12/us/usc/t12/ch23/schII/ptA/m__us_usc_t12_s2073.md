@@ -75,15 +75,15 @@
 
     (21) operate as an originator and become certified as a certified facility under subchapter VIII.
 
-([Pub. L. 92–181, title II, § 2][/us/pl/92/181/s2].2, as added [Pub. L. 100–233, title IV, § 401][/us/pl/100/233/s401], Jan. 6, 1988, [101 Stat. 1630][/us/stat/101/1630]; amended [Pub. L. 100–399, title IV, § 401][/us/pl/100/399/s401](o), Aug. 17, 1988, [102 Stat. 997][/us/stat/102/997].)
+([Pub. L. 92–181, title II][/us/pl/92/181/tII], § 2.2, as added [Pub. L. 100–233, title IV][/us/pl/100/233/tIV], § 401, Jan. 6, 1988, [101 Stat. 1630][/us/stat/101/1630]; amended [Pub. L. 100–399, title IV][/us/pl/100/399/tIV], § 401(o), Aug. 17, 1988, [102 Stat. 997][/us/stat/102/997].)
 
  __Prior Provisions__ 
 
-    A prior section 2073, [Pub. L. 92–181, title II, § 2][/us/pl/92/181/s2].2, Dec. 10, 1971, [85 Stat. 592][/us/stat/85/592]; [Pub. L. 96–592, title II, § 202][/us/pl/96/592/s202], Dec. 24, 1980, [94 Stat. 3440][/us/stat/94/3440]; [Pub. L. 99–205, title II, § 205(e)(2)][/us/pl/99/205/s205/e/2]–(5), title VI, § 604, Dec. 23, 1985, [99 Stat. 1704][/us/stat/99/1704], 1711; [Pub. L. 100–233, title VIII][/us/pl/100/233], §§ 802(j), 805(e), Jan. 6, 1988, [101 Stat. 1711][/us/stat/101/1711], 1715, related to Federal intermediate credit bank stock, prior to the general amendment of this subchapter by [Pub. L. 100–233, § 401][/us/pl/100/233/s401].
+    A prior section 2073, [Pub. L. 92–181, title II][/us/pl/92/181/tII], § 2.2, Dec. 10, 1971, [85 Stat. 592][/us/stat/85/592]; [Pub. L. 96–592, title II][/us/pl/96/592/tII], § 202, Dec. 24, 1980, [94 Stat. 3440][/us/stat/94/3440]; [Pub. L. 99–205, title II][/us/pl/99/205/tII], § 205(e)(2)–(5), title VI, § 604, Dec. 23, 1985, [99 Stat. 1704][/us/stat/99/1704], 1711; [Pub. L. 100–233, title VIII][/us/pl/100/233/tVIII], §§ 802(j), 805(e), Jan. 6, 1988, [101 Stat. 1711][/us/stat/101/1711], 1715, related to Federal intermediate credit bank stock, prior to the general amendment of this subchapter by [Pub. L. 100–233][/us/pl/100/233], § 401.
 
  __Amendments__ 
 
-    1988—Par. (16). [Pub. L. 100–399, § 401][/us/pl/100/399/s401](o)(1), amended par. (16) generally. Prior to amendment, par. (16) read as follows: “prescribe by the board of directors of the association the bylaws not inconsistent with law providing for—
+    1988—Par. (16). [Pub. L. 100–399][/us/pl/100/399], § 401(o)(1), amended par. (16) generally. Prior to amendment, par. (16) read as follows: “prescribe by the board of directors of the association the bylaws not inconsistent with law providing for—
 
     “(A) the classes of association stock and the manner in which the stock shall be issued, transferred, and retired;
 
@@ -93,9 +93,9 @@
 
     “(D) the general business conducted, and the privileges granted to the association by law exercised and enjoyed;”.
 
-    Par. (17). [Pub. L. 100–399, § 401][/us/pl/100/399/s401](o)(2), substituted “provide by its board of directors for” for “elect by the board of directors of the association” and “serve as” for “be elected or designated”.
+    Par. (17). [Pub. L. 100–399][/us/pl/100/399], § 401(o)(2), substituted “provide by its board of directors for” for “elect by the board of directors of the association” and “serve as” for “be elected or designated”.
 
-    Par. (21). [Pub. L. 100–399, § 401][/us/pl/100/399/s401](o)(3)–(5), added par. (21).
+    Par. (21). [Pub. L. 100–399][/us/pl/100/399], § 401(o)(3)–(5), added par. (21).
 
  __Effective Date of 1988 Amendment__ 
 
@@ -109,23 +109,23 @@
 ----------
 
 [/us/usc/t12/s2206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2206
-[/us/pl/92/181/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs2
-[/us/pl/100/233/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs401
+[/us/pl/92/181/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtII
+[/us/pl/100/233/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtIV
 [/us/stat/101/1630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1630
-[/us/pl/100/399/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs401
+[/us/pl/100/399/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtIV
 [/us/stat/102/997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F997
-[/us/pl/92/181/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs2
+[/us/pl/92/181/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtII
 [/us/stat/85/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F592
-[/us/pl/96/592/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592%2Fs202
+[/us/pl/96/592/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592%2FtII
 [/us/stat/94/3440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3440
-[/us/pl/99/205/s205/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2Fs205%2Fe%2F2
+[/us/pl/99/205/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2FtII
 [/us/stat/99/1704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1704
-[/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
+[/us/pl/100/233/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtVIII
 [/us/stat/101/1711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1711
-[/us/pl/100/233/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs401
-[/us/pl/100/399/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs401
-[/us/pl/100/399/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs401
-[/us/pl/100/399/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs401
+[/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/100/233/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs401
 [/us/pl/100/399/s1001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs1001%2Fb

@@ -17,11 +17,11 @@
 
     It shall not be lawful for the Comptroller or the Deputy Comptroller of the Currency, either directly or indirectly, to hold an interest in any national bank or any Federal savings association.
 
-(R.S. § 329; [Pub. L. 106–569, title XII, § 1233(b)][/us/pl/106/569/s1233/b], Dec. 27, 2000, [114 Stat. 3037][/us/stat/114/3037]; [Pub. L. 111–203, title III, § 314(c)][/us/pl/111/203/s314/c], July 21, 2010, [124 Stat. 1524][/us/stat/124/1524].)
+(R.S. § 329; [Pub. L. 106–569, title XII][/us/pl/106/569/tXII], § 1233(b), Dec. 27, 2000, [114 Stat. 3037][/us/stat/114/3037]; [Pub. L. 111–203, title III][/us/pl/111/203/tIII], § 314(c), July 21, 2010, [124 Stat. 1524][/us/stat/124/1524].)
 
  __Codification__ 
 
-    R.S. § 329 derived from [act June 3, 1864, ch. 106, § 1][/us/act/1864-06-03/ch106/s1], [13 Stat. 99][/us/stat/13/99], which was the National Bank Act. See [section 38 of this title][/us/usc/t12/s38].
+    R.S. § 329 derived from [act June 3, 1864, ch. 106][/us/act/1864-06-03/ch106], § 1, [13 Stat. 99][/us/stat/13/99], which was the National Bank Act. See [section 38 of this title][/us/usc/t12/s38].
 
  __Amendments__ 
 
@@ -40,11 +40,11 @@
 ----------
 ----------
 
-[/us/pl/106/569/s1233/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs1233%2Fb
+[/us/pl/106/569/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2FtXII
 [/us/stat/114/3037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F3037
-[/us/pl/111/203/s314/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs314%2Fc
+[/us/pl/111/203/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIII
 [/us/stat/124/1524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1524
-[/us/act/1864-06-03/ch106/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-06-03%2Fch106%2Fs1
+[/us/act/1864-06-03/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-06-03%2Fch106
 [/us/stat/13/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F13%2F99
 [/us/usc/t12/s38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs38
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203

@@ -17,11 +17,11 @@
 
     Any Federal reserve bank may also buy and sell debentures and other such obligations issued by a Federal intermediate credit bank or by a national agricultural credit corporation, but only to the same extent as and subject to the same limitations as those upon which it may buy and sell bonds issued under title I of the Federal Farm Loan Act.
 
-([Dec. 23, 1913, ch. 6, § 13A][/us/act/1913-12-23/ch6/s13A] (par.), formerly § 13a, as added [Mar. 4, 1923, ch. 252][/us/act/1923-03-04/ch252], title IV, § 404, [42 Stat. 1480][/us/stat/42/1480]; renumbered § 13A, [Pub. L. 102–242, title I, § 142(e)(1)][/us/pl/102/242/s142/e/1], Dec. 19, 1991, [105 Stat. 2281][/us/stat/105/2281].)
+([Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 13A (par.), formerly § 13a, as added [Mar. 4, 1923, ch. 252][/us/act/1923-03-04/ch252], title IV, § 404, [42 Stat. 1480][/us/stat/42/1480]; renumbered § 13A, [Pub. L. 102–242, title I][/us/pl/102/242/tI], § 142(e)(1), Dec. 19, 1991, [105 Stat. 2281][/us/stat/105/2281].)
 
  __References in Text__ 
 
-    Title I of the Federal Farm Loan Act, referred to in text, is title I of [act July 17, 1916, ch. 245][/us/act/1916-07-17/ch245], [39 Stat. 360][/us/stat/39/360]. Title I was classified to chapter 7 (§ 641 et seq.) of this title, and was repealed by [Pub. L. 92–181, title V, § 5][/us/pl/92/181/s5].26(a), Dec. 10, 1971, [85 Stat. 624][/us/stat/85/624].
+    Title I of the Federal Farm Loan Act, referred to in text, is title I of [act July 17, 1916, ch. 245][/us/act/1916-07-17/ch245], [39 Stat. 360][/us/stat/39/360]. Title I was classified to chapter 7 (§ 641 et seq.) of this title, and was repealed by [Pub. L. 92–181, title V][/us/pl/92/181/tV], § 5.26(a), Dec. 10, 1971, [85 Stat. 624][/us/stat/85/624].
 
  __Codification__ 
 
@@ -38,14 +38,14 @@
 ----------
 ----------
 
-[/us/act/1913-12-23/ch6/s13A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs13A
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
 [/us/act/1923-03-04/ch252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1923-03-04%2Fch252
 [/us/stat/42/1480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F1480
-[/us/pl/102/242/s142/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs142%2Fe%2F1
+[/us/pl/102/242/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtI
 [/us/stat/105/2281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2281
 [/us/act/1916-07-17/ch245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-07-17%2Fch245
 [/us/stat/39/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F360
-[/us/pl/92/181/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs5
+[/us/pl/92/181/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtV
 [/us/stat/85/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F624
 [/us/stat/42/1461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F1461
 [/us/pl/86/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F230

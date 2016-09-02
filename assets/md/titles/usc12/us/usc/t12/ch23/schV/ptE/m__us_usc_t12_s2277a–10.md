@@ -137,19 +137,19 @@
 
         The Corporation shall not exercise any authority under this section during the 5-year period prior to January 1, 1993.
 
-([Pub. L. 92–181, title V, § 5][/us/pl/92/181/s5].61, as added [Pub. L. 100–233, title III, § 302][/us/pl/100/233/s302], Jan. 6, 1988, [101 Stat. 1616][/us/stat/101/1616]; amended [Pub. L. 101–220, § 6(b)(4)][/us/pl/101/220/s6/b/4], Dec. 12, 1989, [103 Stat. 1880][/us/stat/103/1880]; [Pub. L. 101–624, title XVIII, § 1836(b)][/us/pl/101/624/s1836/b], Nov. 28, 1990, [104 Stat. 3833][/us/stat/104/3833]; [Pub. L. 104–105, title II, § 217][/us/pl/104/105/s217], Feb. 10, 1996, [110 Stat. 179][/us/stat/110/179].)
+([Pub. L. 92–181, title V][/us/pl/92/181/tV], § 5.61, as added [Pub. L. 100–233, title III][/us/pl/100/233/tIII], § 302, Jan. 6, 1988, [101 Stat. 1616][/us/stat/101/1616]; amended [Pub. L. 101–220][/us/pl/101/220], § 6(b)(4), Dec. 12, 1989, [103 Stat. 1880][/us/stat/103/1880]; [Pub. L. 101–624, title XVIII][/us/pl/101/624/tXVIII], § 1836(b), Nov. 28, 1990, [104 Stat. 3833][/us/stat/104/3833]; [Pub. L. 104–105, title II][/us/pl/104/105/tII], § 217, Feb. 10, 1996, [110 Stat. 179][/us/stat/110/179].)
 
  __Amendments__ 
 
-    1996—Subsec. (a)(1). [Pub. L. 104–105, § 217(b)(1)][/us/pl/104/105/s217/b/1], substituted “Stand-alone assistance” for “In general” in par. heading.
+    1996—Subsec. (a)(1). [Pub. L. 104–105][/us/pl/104/105], § 217(b)(1), substituted “Stand-alone assistance” for “In general” in par. heading.
 
-    Subsec. (a)(2). [Pub. L. 104–105, § 217(b)(2)(A)][/us/pl/104/105/s217/b/2/A], substituted “Facilitation of mergers or consolidation” for “Enumerated powers” in par. heading.
+    Subsec. (a)(2). [Pub. L. 104–105][/us/pl/104/105], § 217(b)(2)(A), substituted “Facilitation of mergers or consolidation” for “Enumerated powers” in par. heading.
 
-    Subsec. (a)(2)(A). [Pub. L. 104–105, § 217(b)(2)(B)][/us/pl/104/105/s217/b/2/B], substituted “In general” for “Facilitation of mergers or consolidation” in subpar. heading.
+    Subsec. (a)(2)(A). [Pub. L. 104–105][/us/pl/104/105], § 217(b)(2)(B), substituted “In general” for “Facilitation of mergers or consolidation” in subpar. heading.
 
-    Subsec. (a)(3)(A). [Pub. L. 104–105, § 217(a)(2)][/us/pl/104/105/s217/a/2], added subpar. (A) and struck out heading and text of former subpar. (A). Text read as follows: “Assistance shall not be provided to an insured System bank under this subsection if the amount of such assistance exceeds an amount determined by the Corporation to be the cost of liquidating the bank (including paying the insured obligations issued on behalf of the bank). This subparagraph shall not apply to the provision of assistance to a bank if the Corporation determines that the continued operation of the bank is essential to provide adequate agricultural credit services in the area of operations of the bank.”
+    Subsec. (a)(3)(A). [Pub. L. 104–105][/us/pl/104/105], § 217(a)(2), added subpar. (A) and struck out heading and text of former subpar. (A). Text read as follows: “Assistance shall not be provided to an insured System bank under this subsection if the amount of such assistance exceeds an amount determined by the Corporation to be the cost of liquidating the bank (including paying the insured obligations issued on behalf of the bank). This subparagraph shall not apply to the provision of assistance to a bank if the Corporation determines that the continued operation of the bank is essential to provide adequate agricultural credit services in the area of operations of the bank.”
 
-    Subsec. (a)(3)(B) to (F). [Pub. L. 104–105, § 217(a)][/us/pl/104/105/s217/a], added subpars. (B) to (E) and redesignated former subpar. (B) as (F).
+    Subsec. (a)(3)(B) to (F). [Pub. L. 104–105][/us/pl/104/105], § 217(a), added subpars. (B) to (E) and redesignated former subpar. (B) as (F).
 
     1990—Subsec. (f). [Pub. L. 101–624][/us/pl/101/624] substituted “prior to January 1, 1993” for “beginning on the date of the enactment of this part”.
 
@@ -167,20 +167,20 @@
 ----------
 
 [/us/usc/t12/s2279b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2279b
-[/us/pl/92/181/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs5
-[/us/pl/100/233/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs302
+[/us/pl/92/181/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtV
+[/us/pl/100/233/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtIII
 [/us/stat/101/1616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1616
-[/us/pl/101/220/s6/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F220%2Fs6%2Fb%2F4
+[/us/pl/101/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F220
 [/us/stat/103/1880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1880
-[/us/pl/101/624/s1836/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1836%2Fb
+[/us/pl/101/624/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXVIII
 [/us/stat/104/3833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3833
-[/us/pl/104/105/s217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2Fs217
+[/us/pl/104/105/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2FtII
 [/us/stat/110/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F179
-[/us/pl/104/105/s217/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2Fs217%2Fb%2F1
-[/us/pl/104/105/s217/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2Fs217%2Fb%2F2%2FA
-[/us/pl/104/105/s217/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2Fs217%2Fb%2F2%2FB
-[/us/pl/104/105/s217/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2Fs217%2Fa%2F2
-[/us/pl/104/105/s217/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2Fs217%2Fa
+[/us/pl/104/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105
+[/us/pl/104/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105
+[/us/pl/104/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105
+[/us/pl/104/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105
+[/us/pl/104/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/pl/101/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F220
 [/us/usc/t12/s2279b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2279b

@@ -45,7 +45,7 @@
 
         This section may not be construed to authorize the withholding, or to prohibit the disclosure, of any information to the Congress or any committee or subcommittee thereof.
 
-([Pub. L. 102–550, title XIII, § 1346][/us/pl/102/550/s1346], Oct. 28, 1992, [106 Stat. 3968][/us/stat/106/3968]; [Pub. L. 110–289, div. A, title I, § 1130(e)(3)(C)][/us/pl/110/289/s1130/e/3/C], July 30, 2008, [122 Stat. 2711][/us/stat/122/2711].)
+([Pub. L. 102–550, title XIII][/us/pl/102/550/tXIII], § 1346, Oct. 28, 1992, [106 Stat. 3968][/us/stat/106/3968]; [Pub. L. 110–289, div. A, title I][/us/pl/110/289/dA/tI], § 1130(e)(3)(C), July 30, 2008, [122 Stat. 2711][/us/stat/122/2711].)
 
  __Amendments__ 
 
@@ -58,9 +58,9 @@
 ----------
 ----------
 
-[/us/pl/102/550/s1346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1346
+[/us/pl/102/550/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIII
 [/us/stat/106/3968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3968
-[/us/pl/110/289/s1130/e/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1130%2Fe%2F3%2FC
+[/us/pl/110/289/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtI
 [/us/stat/122/2711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2711
 [/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
 

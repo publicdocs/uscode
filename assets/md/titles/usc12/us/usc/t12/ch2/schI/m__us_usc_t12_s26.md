@@ -17,7 +17,7 @@
 
     Whenever a certificate is transmitted to the Comptroller of the Currency, as provided in title 62 of the Revised Statutes, and the association transmitting the same notifies the Comptroller that all of its capital stock has been duly paid in, and that such association has complied with all the provisions of title 62 of the Revised Statutes required to be complied with before an association shall be authorized to commence the business of banking, the Comptroller shall examine into the condition of such association, ascertain especially the amount of money paid in on account of its capital, the name and place of residence of each of its directors, and the amount of the capital stock of which each is the owner in good faith, and generally whether such association has complied with all the provisions of title 62 of the Revised Statutes required to entitle it to engage in the business of banking; and shall cause to be made and attested by the oaths of a majority of the directors, and by the president or cashier of the association, a statement of all the facts necessary to enable the Comptroller to determine whether the association is lawfully entitled to commence the business of banking.
 
-(R.S. § 5168; [Pub. L. 86–230, § 2][/us/pl/86/230/s2], Sept. 8, 1959, [73 Stat. 457][/us/stat/73/457].)
+(R.S. § 5168; [Pub. L. 86–230][/us/pl/86/230], § 2, Sept. 8, 1959, [73 Stat. 457][/us/stat/73/457].)
 
  __References in Text__ 
 
@@ -25,7 +25,7 @@
 
  __Codification__ 
 
-    R.S. § 5168 derived from [act June 3, 1864, ch. 106, § 17][/us/act/1864-06-03/ch106/s17], [13 Stat. 104][/us/stat/13/104], which was the National Bank Act. See [section 38 of this title][/us/usc/t12/s38].
+    R.S. § 5168 derived from [act June 3, 1864, ch. 106][/us/act/1864-06-03/ch106], § 17, [13 Stat. 104][/us/stat/13/104], which was the National Bank Act. See [section 38 of this title][/us/usc/t12/s38].
 
  __Amendments__ 
 
@@ -42,9 +42,9 @@
 ----------
 ----------
 
-[/us/pl/86/230/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F230%2Fs2
+[/us/pl/86/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F230
 [/us/stat/73/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F457
-[/us/act/1864-06-03/ch106/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-06-03%2Fch106%2Fs17
+[/us/act/1864-06-03/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-06-03%2Fch106
 [/us/stat/13/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F13%2F104
 [/us/usc/t12/s38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs38
 [/us/pl/86/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F230

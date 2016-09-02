@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t12/ch23/schV/ptA/m__us_usc_t12_s2221.md) | [Next](./../../../../../..//us/usc/t12/ch23/schV/ptB/m__us_usc_t12_s2241.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fch23%2FschV%2FptB)
+[Previous](./../../../../../..//us/usc/t12/ch23/schV/ptA/m__us_usc_t12_s2222...2227.md) | [Next](./../../../../../..//us/usc/t12/ch23/schV/ptB/m__us_usc_t12_s2241.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fch23%2FschV%2FptB)
 
 #### Part B—Farm Credit Administration Organization
 
@@ -59,18 +59,18 @@
 
                               Franklin D. Roosevelt.
 
-    \[All functions, powers and duties of the Governor of the Farm Credit Administration which relate to the making, administration, and liquidation of all loans identified or referred to in pars. 5(b), 5(c), and 5(d) of this Executive Order were abolished by [act Aug. 14, 1946, ch. 964, § 2(a)(2)][/us/act/1946-08-14/ch964/s2/a/2], [60 Stat. 1062][/us/stat/60/1062], set out as a note under sections 1001 to 1006 of Title 7, Agriculture.\]
+    \[All functions, powers and duties of the Governor of the Farm Credit Administration which relate to the making, administration, and liquidation of all loans identified or referred to in pars. 5(b), 5(c), and 5(d) of this Executive Order were abolished by [act Aug. 14, 1946, ch. 964][/us/act/1946-08-14/ch964], § 2(a)(2), [60 Stat. 1062][/us/stat/60/1062], set out as a note under sections 1001 to 1006 of Title 7, Agriculture.\]
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t12/ch23/schV/ptA/m__us_usc_t12_s2221.md) | [Next](./../../../../../..//us/usc/t12/ch23/schV/ptB/m__us_usc_t12_s2241.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fch23%2FschV%2FptB)
+[Previous](./../../../../../..//us/usc/t12/ch23/schV/ptA/m__us_usc_t12_s2222...2227.md) | [Next](./../../../../../..//us/usc/t12/ch23/schV/ptB/m__us_usc_t12_s2241.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fch23%2FschV%2FptB)
 
 ----------
 ----------
 
 [/us/usc/t12/s1148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1148
 [/us/usc/t12/s1141g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1141g
-[/us/act/1946-08-14/ch964/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-14%2Fch964%2Fs2%2Fa%2F2
+[/us/act/1946-08-14/ch964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-14%2Fch964
 [/us/stat/60/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1062
 
 

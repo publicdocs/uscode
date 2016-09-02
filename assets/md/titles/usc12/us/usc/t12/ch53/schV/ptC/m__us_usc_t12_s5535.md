@@ -49,7 +49,7 @@
 
         For purposes of this section, the terms “private education loan” and “institution of higher education” have the same meanings as in [section 1650 of title 15][/us/usc/t15/s1650].
 
-([Pub. L. 111–203, title X, § 1035][/us/pl/111/203/s1035], July 21, 2010, [124 Stat. 2009][/us/stat/124/2009].)
+([Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1035, July 21, 2010, [124 Stat. 2009][/us/stat/124/2009].)
 
  __Change of Name__ 
 
@@ -68,7 +68,7 @@
 
 [/us/usc/t20/s1018/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1018%2Ff
 [/us/usc/t15/s1650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1650
-[/us/pl/111/203/s1035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1035
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2009
 [/us/pl/111/203/s1037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1037
 [/us/usc/t12/s5531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5531

@@ -17,7 +17,7 @@
 
     The Secretary is hereby authorized to insure any mortgage otherwise eligible for insurance under any of the provisions of this chapter without regard to any requirement with respect to the occupancy of the mortgagor of the property at the time of insurance, where the Secretary is satisfied that the inability of the mortgagor to meet such requirement is by reason of his entry on active duty in a uniformed service subsequent to the filing of an application for insurance and the mortgagor expresses an intent to meet such requirement upon his release from active duty.
 
-([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title II, § 216, as added [Sept. 1, 1951, ch. 378][/us/act/1951-09-01/ch378], title VI, § 607, [65 Stat. 315][/us/stat/65/315]; amended [Pub. L. 90–19, § 1(a)(3)][/us/pl/90/19/s1/a/3], May 25, 1967, [81 Stat. 17][/us/stat/81/17]; [Pub. L. 91–621, § 7(a)][/us/pl/91/621/s7/a], Dec. 31, 1970, [84 Stat. 1865][/us/stat/84/1865]; [Pub. L. 100–242, title IV, § 406(b)(8)][/us/pl/100/242/s406/b/8], Feb. 5, 1988, [101 Stat. 1901][/us/stat/101/1901].)
+([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title II, § 216, as added [Sept. 1, 1951, ch. 378][/us/act/1951-09-01/ch378], title VI, § 607, [65 Stat. 315][/us/stat/65/315]; amended [Pub. L. 90–19][/us/pl/90/19], § 1(a)(3), May 25, 1967, [81 Stat. 17][/us/stat/81/17]; [Pub. L. 91–621][/us/pl/91/621], § 7(a), Dec. 31, 1970, [84 Stat. 1865][/us/stat/84/1865]; [Pub. L. 100–242, title IV][/us/pl/100/242/tIV], § 406(b)(8), Feb. 5, 1988, [101 Stat. 1901][/us/stat/101/1901].)
 
  __References in Text__ 
 
@@ -45,11 +45,11 @@
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
 [/us/act/1951-09-01/ch378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-09-01%2Fch378
 [/us/stat/65/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F315
-[/us/pl/90/19/s1/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19%2Fs1%2Fa%2F3
+[/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
 [/us/stat/81/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F17
-[/us/pl/91/621/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F621%2Fs7%2Fa
+[/us/pl/91/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F621
 [/us/stat/84/1865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1865
-[/us/pl/100/242/s406/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs406%2Fb%2F8
+[/us/pl/100/242/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtIV
 [/us/stat/101/1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1901
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
 [/us/stat/48/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1246

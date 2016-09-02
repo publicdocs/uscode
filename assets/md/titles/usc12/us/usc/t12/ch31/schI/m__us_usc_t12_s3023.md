@@ -19,7 +19,7 @@
 
     (b) Any applicant for assistance under this chapter receiving notice of denial or restriction of the application may, within thirty days of receipt of such notice, request the Board of Directors to review the application and notice of denial or restriction for a determination of whether the action of the Bank was correctly within the terms of this chapter, the regulations, and the policy of the Board. The Board shall consider the request for review at its next meeting and promptly inform the applicant of its determination and the reasons therefor.
 
-([Pub. L. 95–351, title I, § 113][/us/pl/95/351/s113], Aug. 20, 1978, [92 Stat. 510][/us/stat/92/510].)
+([Pub. L. 95–351, title I][/us/pl/95/351/tI], § 113, Aug. 20, 1978, [92 Stat. 510][/us/stat/92/510].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/95/351/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F351%2Fs113
+[/us/pl/95/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F351%2FtI
 [/us/stat/92/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F510
 
 

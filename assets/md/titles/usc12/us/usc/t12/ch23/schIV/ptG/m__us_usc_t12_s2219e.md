@@ -27,7 +27,7 @@
 
         Any institution of the Farm Credit System, or any director, officer, employee, or agent of a Farm Credit System institution, may disclose information to a Government authority that may be relevant to a possible violation of any law or regulation.
 
-([Pub. L. 104–105, title II, § 221][/us/pl/104/105/s221], Feb. 10, 1996, [110 Stat. 184][/us/stat/110/184].)
+([Pub. L. 104–105, title II][/us/pl/104/105/tII], § 221, Feb. 10, 1996, [110 Stat. 184][/us/stat/110/184].)
 
  __Codification__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/104/105/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2Fs221
+[/us/pl/104/105/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2FtII
 [/us/stat/110/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F184
 
 

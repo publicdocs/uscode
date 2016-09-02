@@ -117,7 +117,7 @@
 
         Any employee of the Federal Government may be detailed to the Council without reimbursement, and such detail shall be without interruption or loss of civil service status or privilege. An employee of the Federal Government detailed to the Council shall report to and be subject to oversight by the Council during the assignment to the Council, and shall be compensated by the department or agency from which the employee was detailed.
 
-([Pub. L. 111–203, title I, § 111][/us/pl/111/203/s111], July 21, 2010, [124 Stat. 1392][/us/stat/124/1392].)
+([Pub. L. 111–203, title I][/us/pl/111/203/tI], § 111, July 21, 2010, [124 Stat. 1392][/us/stat/124/1392].)
 
  __References in Text__ 
 
@@ -135,7 +135,7 @@
 ----------
 
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/pl/111/203/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs111
+[/us/pl/111/203/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtI
 [/us/stat/124/1392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1392
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770

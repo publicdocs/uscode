@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 5191 derived from [act June 3, 1864, ch. 106, § 31][/us/act/1864-06-03/ch106/s31], [13 Stat. 108][/us/stat/13/108], which was the National Bank Act, and [act Mar. 1, 1872, ch. 22][/us/act/1872-03-01/ch22], [17 Stat. 32][/us/stat/17/32]. See [section 38 of this title][/us/usc/t12/s38].
+    R.S. § 5191 derived from [act June 3, 1864, ch. 106][/us/act/1864-06-03/ch106], § 31, [13 Stat. 108][/us/stat/13/108], which was the National Bank Act, and [act Mar. 1, 1872, ch. 22][/us/act/1872-03-01/ch22], [17 Stat. 32][/us/stat/17/32]. See [section 38 of this title][/us/usc/t12/s38].
 
     Some of the other provisions of R.S. § 5191 were classified to [section 141 of this title][/us/usc/t12/s141] prior to its omission from the Code, some are classified to [section 142 of this title][/us/usc/t12/s142], and some were not included in the Code.
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t12/s192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs192
-[/us/act/1864-06-03/ch106/s31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-06-03%2Fch106%2Fs31
+[/us/act/1864-06-03/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-06-03%2Fch106
 [/us/stat/13/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F13%2F108
 [/us/act/1872-03-01/ch22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1872-03-01%2Fch22
 [/us/stat/17/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F17%2F32

@@ -451,95 +451,95 @@
 
         The Secretary, with the concurrence of the Board, shall, if feasible, establish a structure and organize procedures for an auction to refinance eligible mortgages on a wholesale or bulk basis.
 
-([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title II, § 257, as added [Pub. L. 110–289, div. A, title IV, § 1402(a)][/us/pl/110/289/s1402/a], July 30, 2008, [122 Stat. 2800][/us/stat/122/2800]; amended [Pub. L. 110–343, div. A, title I, § 124][/us/pl/110/343/s124], Oct. 3, 2008, [122 Stat. 3791][/us/stat/122/3791]; [Pub. L. 111–22, div. A, title II, § 202(a)][/us/pl/111/22/s202/a], May 20, 2009, [123 Stat. 1640][/us/stat/123/1640].)
+([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title II, § 257, as added [Pub. L. 110–289, div. A, title IV][/us/pl/110/289/dA/tIV], § 1402(a), July 30, 2008, [122 Stat. 2800][/us/stat/122/2800]; amended [Pub. L. 110–343, div. A, title I][/us/pl/110/343/dA/tI], § 124, Oct. 3, 2008, [122 Stat. 3791][/us/stat/122/3791]; [Pub. L. 111–22, div. A, title II][/us/pl/111/22/dA/tII], § 202(a), May 20, 2009, [123 Stat. 1640][/us/stat/123/1640].)
 
  __References in Text__ 
 
     The Financial Institutions Reform, Recovery, and Enforcement Act of 1989, referred to in subsec. (e)(8)(B), is [Pub. L. 101–73][/us/pl/101/73], Aug. 9, 1989, [103 Stat. 183][/us/stat/103/183]. Title XI of the Act is classified principally to chapter 34A (§ 3331 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1989 Amendment note set out under [section 1811 of this title][/us/usc/t12/s1811] and Tables.
 
-    [Section 1708(e) of this title][/us/usc/t12/s1708/e], referred to in subsec. (e)(8)(D), was redesignated section 1708(f) and then 1708(g) of this title by [Pub. L. 110–289, div. B, title I, § 2116(1)(B)][/us/pl/110/289/s2116/1/B], July 30, 2008, [122 Stat. 2832][/us/stat/122/2832], and [Pub. L. 111–22, div. A, title II, § 203(b)(1)][/us/pl/111/22/s203/b/1], May 20, 2009, [123 Stat. 1643][/us/stat/123/1643].
+    [Section 1708(e) of this title][/us/usc/t12/s1708/e], referred to in subsec. (e)(8)(D), was redesignated section 1708(f) and then 1708(g) of this title by [Pub. L. 110–289, div. B, title I][/us/pl/110/289/dB/tI], § 2116(1)(B), July 30, 2008, [122 Stat. 2832][/us/stat/122/2832], and [Pub. L. 111–22, div. A, title II][/us/pl/111/22/dA/tII], § 203(b)(1), May 20, 2009, [123 Stat. 1643][/us/stat/123/1643].
 
-    The Federal Credit Reform Act of 1990, referred to in subsec. (w)(1)(B), is title V of [Pub. L. 93–344][/us/pl/93/344], as added by [Pub. L. 101–508, title XIII, § 13201(a)][/us/pl/101/508/s13201/a], Nov. 5, 1990, [104 Stat. 1388–609][/us/stat/104/1388-609], which is classified generally to subchapter III (§ 661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under [section 621 of Title 2][/us/usc/t2/s621] and Tables.
+    The Federal Credit Reform Act of 1990, referred to in subsec. (w)(1)(B), is title V of [Pub. L. 93–344][/us/pl/93/344], as added by [Pub. L. 101–508, title XIII][/us/pl/101/508/tXIII], § 13201(a), Nov. 5, 1990, [104 Stat. 1388–609][/us/stat/104/1388-609], which is classified generally to subchapter III (§ 661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under [section 621 of Title 2][/us/usc/t2/s621] and Tables.
 
     [Section 4568(b) of this title][/us/usc/t12/s4568/b], referred to in subsec. (w)(2), was in the original “section 1338(b) of the Federal Housing Enterprises Regulatory Reform Act of 1992”, and was translated as meaning section 1338(b) of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992, which is classified to [section 4568(b) of this title][/us/usc/t12/s4568/b], to reflect the probable intent of Congress.
 
  __Codification__ 
 
-    [Pub. L. 111–22, § 202(a)(2)][/us/pl/111/22/s202/a/2], which directed amendment of subsecs. (e), (h)(1), (h)(3), (j), (l), (n), (s)(3), and (v) by substituting “Secretary” for “Board” each place such term appeared, was not executed to subsec. (e)(4)(A), (9), or the heading for subsec. (n), to reflect the probable intent of Congress and the amendments by [Pub. L. 111–22, § 202(a)(3)(B)(i)][/us/pl/111/22/s202/a/3/B/i], (D)(ii), (7). See 2009 Amendment notes below.
+    [Pub. L. 111–22][/us/pl/111/22], § 202(a)(2), which directed amendment of subsecs. (e), (h)(1), (h)(3), (j), (l), (n), (s)(3), and (v) by substituting “Secretary” for “Board” each place such term appeared, was not executed to subsec. (e)(4)(A), (9), or the heading for subsec. (n), to reflect the probable intent of Congress and the amendments by [Pub. L. 111–22][/us/pl/111/22], § 202(a)(3)(B)(i), (D)(ii), (7). See 2009 Amendment notes below.
 
     Another section 257 of act June 27, 1934, was renumbered section 258 and is classified to [section 1715z–24 of this title][/us/usc/t12/s1715z–24].
 
  __Amendments__ 
 
-    2009—Subsec. (c)(1). [Pub. L. 111–22, § 202(a)(1)(A)][/us/pl/111/22/s202/a/1/A], (B), substituted “Secretary” for “the Board” in heading and “Secretary, after consultation with the Board,” for “Board” in introductory provisions.
+    2009—Subsec. (c)(1). [Pub. L. 111–22][/us/pl/111/22], § 202(a)(1)(A), (B), substituted “Secretary” for “the Board” in heading and “Secretary, after consultation with the Board,” for “Board” in introductory provisions.
 
-    Subsec. (c)(1)(A). [Pub. L. 111–22, § 202(a)(1)(C)][/us/pl/111/22/s202/a/1/C], inserted “consistent with [section 1709(b) of this title][/us/usc/t12/s1709/b] to the maximum extent possible” before semicolon.
+    Subsec. (c)(1)(A). [Pub. L. 111–22][/us/pl/111/22], § 202(a)(1)(C), inserted “consistent with [section 1709(b) of this title][/us/usc/t12/s1709/b] to the maximum extent possible” before semicolon.
 
-    Subsec. (c)(3). [Pub. L. 111–22, § 202(a)(1)(D)][/us/pl/111/22/s202/a/1/D], added par. (3).
+    Subsec. (c)(3). [Pub. L. 111–22][/us/pl/111/22], § 202(a)(1)(D), added par. (3).
 
-    Subsec. (e)(1). [Pub. L. 111–22, § 202(a)(3)(A)][/us/pl/111/22/s202/a/3/A], added par. (1) and struck out former par. (1) which related to lack of capacity to pay existing mortgage.
+    Subsec. (e)(1). [Pub. L. 111–22][/us/pl/111/22], § 202(a)(3)(A), added par. (1) and struck out former par. (1) which related to lack of capacity to pay existing mortgage.
 
-    Subsec. (e)(2). [Pub. L. 111–22, § 202(a)(2)][/us/pl/111/22/s202/a/2], substituted “established by the Secretary” for “established by the Board” in subpar. (A) and “Secretary” for “Board” in two places in subpar. (B).
+    Subsec. (e)(2). [Pub. L. 111–22][/us/pl/111/22], § 202(a)(2), substituted “established by the Secretary” for “established by the Board” in subpar. (A) and “Secretary” for “Board” in two places in subpar. (B).
 
-    Subsec. (e)(4)(A). [Pub. L. 111–22, § 202(a)(3)(B)(i)][/us/pl/111/22/s202/a/3/B/i], struck out “, subject to standards established by the Board under subparagraph (B),” after “may take such actions”. See Codification note above.
+    Subsec. (e)(4)(A). [Pub. L. 111–22][/us/pl/111/22], § 202(a)(3)(B)(i), struck out “, subject to standards established by the Board under subparagraph (B),” after “may take such actions”. See Codification note above.
 
-    Subsec. (e)(4)(B)(i). [Pub. L. 111–22, § 202(a)(3)(B)(ii)][/us/pl/111/22/s202/a/3/B/ii], substituted “may” for “shall”.
+    Subsec. (e)(4)(B)(i). [Pub. L. 111–22][/us/pl/111/22], § 202(a)(3)(B)(ii), substituted “may” for “shall”.
 
-    [Pub. L. 111–22, § 202(a)(2)][/us/pl/111/22/s202/a/2], substituted “The Secretary” for “The Board”.
+    [Pub. L. 111–22][/us/pl/111/22], § 202(a)(2), substituted “The Secretary” for “The Board”.
 
-    Subsec. (e)(4)(B)(ii). [Pub. L. 111–22, § 202(a)(2)][/us/pl/111/22/s202/a/2], substituted “Secretary” for “Board” in introductory provisions and in subcl. (IV).
+    Subsec. (e)(4)(B)(ii). [Pub. L. 111–22][/us/pl/111/22], § 202(a)(2), substituted “Secretary” for “Board” in introductory provisions and in subcl. (IV).
 
-    Subsec. (e)(7). [Pub. L. 111–22, § 202(a)(3)(C)][/us/pl/111/22/s202/a/3/C], struck out “; and provided that such new outstanding liens (A) do not reduce the value of the Government’s equity in the borrower’s home; and (B) when combined with the mortgagor’s existing mortgage indebtedness, do not exceed 95 percent of the home’s appraised value at the time of the new second lien” after “property standards”.
+    Subsec. (e)(7). [Pub. L. 111–22][/us/pl/111/22], § 202(a)(3)(C), struck out “; and provided that such new outstanding liens (A) do not reduce the value of the Government’s equity in the borrower’s home; and (B) when combined with the mortgagor’s existing mortgage indebtedness, do not exceed 95 percent of the home’s appraised value at the time of the new second lien” after “property standards”.
 
-    [Pub. L. 111–22, § 202(a)(2)][/us/pl/111/22/s202/a/2], substituted “Secretary” for “Board”.
+    [Pub. L. 111–22][/us/pl/111/22], § 202(a)(2), substituted “Secretary” for “Board”.
 
-    Subsec. (e)(9). [Pub. L. 111–22, § 202(a)(3)(D)][/us/pl/111/22/s202/a/3/D], substituted “in accordance with procedures and standards that the Secretary shall establish (provided that such procedures and standards are consistent with [section 1709(b) of this title][/us/usc/t12/s1709/b] to the maximum extent possible) which may include requiring the mortgagee to procure” for “by procuring (A) an income tax return transcript of the income tax returns of the mortgagor, or (B)” and struck out “and by any other method, in accordance with procedures and standards that the Board shall establish” before period at end. See Codification note above.
+    Subsec. (e)(9). [Pub. L. 111–22][/us/pl/111/22], § 202(a)(3)(D), substituted “in accordance with procedures and standards that the Secretary shall establish (provided that such procedures and standards are consistent with [section 1709(b) of this title][/us/usc/t12/s1709/b] to the maximum extent possible) which may include requiring the mortgagee to procure” for “by procuring (A) an income tax return transcript of the income tax returns of the mortgagor, or (B)” and struck out “and by any other method, in accordance with procedures and standards that the Board shall establish” before period at end. See Codification note above.
 
-    Subsec. (e)(10). [Pub. L. 111–22, § 202(a)(3)(E)][/us/pl/111/22/s202/a/3/E], designated existing provisions as subpar. (A), inserted subpar. (A) heading, and added subpar. (B).
+    Subsec. (e)(10). [Pub. L. 111–22][/us/pl/111/22], § 202(a)(3)(E), designated existing provisions as subpar. (A), inserted subpar. (A) heading, and added subpar. (B).
 
-    Subsec. (e)(11). [Pub. L. 111–22, § 202(a)(3)(F)][/us/pl/111/22/s202/a/3/F], inserted “, except that the Secretary may provide exceptions to such latter requirement (relating to present ownership interest) for any mortgagor who has inherited a property” before period at end.
+    Subsec. (e)(11). [Pub. L. 111–22][/us/pl/111/22], § 202(a)(3)(F), inserted “, except that the Secretary may provide exceptions to such latter requirement (relating to present ownership interest) for any mortgagor who has inherited a property” before period at end.
 
-    Subsec. (e)(12). [Pub. L. 111–22, § 202(a)(3)(G)][/us/pl/111/22/s202/a/3/G], added par. (12).
+    Subsec. (e)(12). [Pub. L. 111–22][/us/pl/111/22], § 202(a)(3)(G), added par. (12).
 
-    Subsec. (h)(1). [Pub. L. 111–22, § 202(a)(2)][/us/pl/111/22/s202/a/2], substituted “Secretary” for “Board” in two places.
+    Subsec. (h)(1). [Pub. L. 111–22][/us/pl/111/22], § 202(a)(2), substituted “Secretary” for “Board” in two places.
 
-    Subsec. (h)(2). [Pub. L. 111–22, § 202(a)(4)][/us/pl/111/22/s202/a/4], substituted “The Secretary shall not pay” for “The Board shall prohibit the Secretary from paying”.
+    Subsec. (h)(2). [Pub. L. 111–22][/us/pl/111/22], § 202(a)(4), substituted “The Secretary shall not pay” for “The Board shall prohibit the Secretary from paying”.
 
-    Subsec. (h)(3). [Pub. L. 111–22, § 202(a)(2)][/us/pl/111/22/s202/a/2], substituted “The Secretary” for “The Board”.
+    Subsec. (h)(3). [Pub. L. 111–22][/us/pl/111/22], § 202(a)(2), substituted “The Secretary” for “The Board”.
 
-    Subsec. (i). [Pub. L. 111–22, § 202(a)(5)][/us/pl/111/22/s202/a/5], designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) and (2) as subpars. (A) and (B) of par. (1), respectively, and adjusted margins, substituted “not more than 3 percent” for “equal to 3 percent” in par. (1)(A) and “not more than 1.5 percent” for “equal to 1.5 percent” in par. (1)(B), and added par. (2).
+    Subsec. (i). [Pub. L. 111–22][/us/pl/111/22], § 202(a)(5), designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) and (2) as subpars. (A) and (B) of par. (1), respectively, and adjusted margins, substituted “not more than 3 percent” for “equal to 3 percent” in par. (1)(A) and “not more than 1.5 percent” for “equal to 1.5 percent” in par. (1)(B), and added par. (2).
 
-    Subsec. (j). [Pub. L. 111–22, § 202(a)(2)][/us/pl/111/22/s202/a/2], substituted “Secretary” for “Board” in introductory provisions.
+    Subsec. (j). [Pub. L. 111–22][/us/pl/111/22], § 202(a)(2), substituted “Secretary” for “Board” in introductory provisions.
 
-    Subsec. (k). [Pub. L. 111–22, § 202(a)(6)(A)][/us/pl/111/22/s202/a/6/A], substituted “Exit fee” for “Equity and appreciation” in heading.
+    Subsec. (k). [Pub. L. 111–22][/us/pl/111/22], § 202(a)(6)(A), substituted “Exit fee” for “Equity and appreciation” in heading.
 
-    Subsec. (k)(1). [Pub. L. 111–22, § 202(a)(6)(B)][/us/pl/111/22/s202/a/6/B], substituted “the mortgage being insured under this section” for “such sale or refinancing” in introductory provisions.
+    Subsec. (k)(1). [Pub. L. 111–22][/us/pl/111/22], § 202(a)(6)(B), substituted “the mortgage being insured under this section” for “such sale or refinancing” in introductory provisions.
 
-    Subsec. (k)(2). [Pub. L. 111–22, § 202(a)(6)(C)][/us/pl/111/22/s202/a/6/C], substituted “may, upon any sale or disposition of the property to which the mortgage relates, be entitled to up to 50 percent of appreciation, up to the appraised value of the home at the time when the mortgage being refinanced under this section was originally made. The Secretary may share any amounts received under this paragraph with or assign the rights of any amounts due to the Secretary to the holder of the existing senior mortgage on the eligible mortgage, the holder of any existing subordinate mortgage on the eligible mortgage, or both.” for “and the mortgagor of such mortgage shall, upon any sale or disposition of the property to which such mortgage relates, each be entitled to 50 percent of any appreciation in value of the appraised value of such property that has occurred since the date that such mortgage was insured under this section.”
+    Subsec. (k)(2). [Pub. L. 111–22][/us/pl/111/22], § 202(a)(6)(C), substituted “may, upon any sale or disposition of the property to which the mortgage relates, be entitled to up to 50 percent of appreciation, up to the appraised value of the home at the time when the mortgage being refinanced under this section was originally made. The Secretary may share any amounts received under this paragraph with or assign the rights of any amounts due to the Secretary to the holder of the existing senior mortgage on the eligible mortgage, the holder of any existing subordinate mortgage on the eligible mortgage, or both.” for “and the mortgagor of such mortgage shall, upon any sale or disposition of the property to which such mortgage relates, each be entitled to 50 percent of any appreciation in value of the appraised value of such property that has occurred since the date that such mortgage was insured under this section.”
 
-    Subsec. (l)(1). [Pub. L. 111–22, § 202(a)(2)][/us/pl/111/22/s202/a/2], substituted “Secretary” for “Board”.
+    Subsec. (l)(1). [Pub. L. 111–22][/us/pl/111/22], § 202(a)(2), substituted “Secretary” for “Board”.
 
-    Subsec. (n). [Pub. L. 111–22, § 202(a)(2)][/us/pl/111/22/s202/a/2], (7), substituted “Secretary” for “the Board” in heading and “Secretary” for “Board” in introductory provisions and in par. (6). See Codification note above.
+    Subsec. (n). [Pub. L. 111–22][/us/pl/111/22], § 202(a)(2), (7), substituted “Secretary” for “the Board” in heading and “Secretary” for “Board” in introductory provisions and in par. (6). See Codification note above.
 
-    Subsec. (p). [Pub. L. 111–22, § 202(a)(8)][/us/pl/111/22/s202/a/8], substituted “The” for “Under the direction of the Board, the” in introductory provisions.
+    Subsec. (p). [Pub. L. 111–22][/us/pl/111/22], § 202(a)(8), substituted “The” for “Under the direction of the Board, the” in introductory provisions.
 
-    Subsec. (s)(2). [Pub. L. 111–22, § 202(a)(9)(A)][/us/pl/111/22/s202/a/9/A], substituted “Advisory Board for” for “Board of Directors of”.
+    Subsec. (s)(2). [Pub. L. 111–22][/us/pl/111/22], § 202(a)(9)(A), substituted “Advisory Board for” for “Board of Directors of”.
 
-    Subsec. (s)(3)(A)(ii). [Pub. L. 111–22, § 202(a)(9)(B)][/us/pl/111/22/s202/a/9/B], substituted “such” for “subsection (e)(1)(B) and such other”.
+    Subsec. (s)(3)(A)(ii). [Pub. L. 111–22][/us/pl/111/22], § 202(a)(9)(B), substituted “such” for “subsection (e)(1)(B) and such other”.
 
-    [Pub. L. 111–22, § 202(a)(2)][/us/pl/111/22/s202/a/2], substituted “Secretary” for “Board”.
+    [Pub. L. 111–22][/us/pl/111/22], § 202(a)(2), substituted “Secretary” for “Board”.
 
-    Subsec. (v). [Pub. L. 111–22, § 202(a)(2)][/us/pl/111/22/s202/a/2], (10), substituted “action of the Secretary” for “action of the Board” and inserted at end “The Secretary shall conform documents, forms, and procedures for mortgages insured under this section to those in place for mortgages insured under [section 1709(b) of this title][/us/usc/t12/s1709/b] to the maximum extent possible consistent with the requirements of this section.”
+    Subsec. (v). [Pub. L. 111–22][/us/pl/111/22], § 202(a)(2), (10), substituted “action of the Secretary” for “action of the Board” and inserted at end “The Secretary shall conform documents, forms, and procedures for mortgages insured under this section to those in place for mortgages insured under [section 1709(b) of this title][/us/usc/t12/s1709/b] to the maximum extent possible consistent with the requirements of this section.”
 
-    Subsecs. (x), (y). [Pub. L. 111–22, § 202(a)(11)][/us/pl/111/22/s202/a/11], added subsecs. (x) and (y).
+    Subsecs. (x), (y). [Pub. L. 111–22][/us/pl/111/22], § 202(a)(11), added subsecs. (x) and (y).
 
-    2008—Subsec. (e)(1)(B). [Pub. L. 110–343, § 124(1)(A)][/us/pl/110/343/s124/1/A], inserted “, or thereafter is likely to have, due to the terms of the mortgage being reset,” before “a ratio”.
+    2008—Subsec. (e)(1)(B). [Pub. L. 110–343][/us/pl/110/343], § 124(1)(A), inserted “, or thereafter is likely to have, due to the terms of the mortgage being reset,” before “a ratio”.
 
-    Subsec. (e)(2)(B). [Pub. L. 110–343, § 124(1)(B)][/us/pl/110/343/s124/1/B], inserted “(or such higher percentage as the Board determines, in the discretion of the Board)” before period at end.
+    Subsec. (e)(2)(B). [Pub. L. 110–343][/us/pl/110/343], § 124(1)(B), inserted “(or such higher percentage as the Board determines, in the discretion of the Board)” before period at end.
 
-    Subsec. (e)(4)(A). [Pub. L. 110–343, § 124(1)(C)][/us/pl/110/343/s124/1/C], inserted “and any payments made under this paragraph,” after “insured loan” and inserted “Such actions may include making payments, which shall be accepted as payment in full of all indebtedness under the eligible mortgage, to any holder of an existing subordinate mortgage, in lieu of any future appreciation payments authorized under subparagraph (B).” at end.
+    Subsec. (e)(4)(A). [Pub. L. 110–343][/us/pl/110/343], § 124(1)(C), inserted “and any payments made under this paragraph,” after “insured loan” and inserted “Such actions may include making payments, which shall be accepted as payment in full of all indebtedness under the eligible mortgage, to any holder of an existing subordinate mortgage, in lieu of any future appreciation payments authorized under subparagraph (B).” at end.
 
-    Subsec. (w)(1)(C). [Pub. L. 110–343, § 124(2)][/us/pl/110/343/s124/2], inserted “and payments pursuant to subsection (e)(4)(A)” before period at end.
+    Subsec. (w)(1)(C). [Pub. L. 110–343][/us/pl/110/343], § 124(2), inserted “and payments pursuant to subsection (e)(4)(A)” before period at end.
 
 ----------
 
@@ -563,66 +563,66 @@
 [/us/usc/t12/s4568/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4568%2Fb
 [/us/usc/t12/s4567/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4567%2Fe
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
-[/us/pl/110/289/s1402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1402%2Fa
+[/us/pl/110/289/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtIV
 [/us/stat/122/2800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2800
-[/us/pl/110/343/s124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs124
+[/us/pl/110/343/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdA%2FtI
 [/us/stat/122/3791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3791
-[/us/pl/111/22/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs202%2Fa
+[/us/pl/111/22/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2FdA%2FtII
 [/us/stat/123/1640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1640
 [/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
 [/us/stat/103/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F183
 [/us/usc/t12/s1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1811
 [/us/usc/t12/s1708/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1708%2Fe
-[/us/pl/110/289/s2116/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs2116%2F1%2FB
+[/us/pl/110/289/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdB%2FtI
 [/us/stat/122/2832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2832
-[/us/pl/111/22/s203/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs203%2Fb%2F1
+[/us/pl/111/22/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2FdA%2FtII
 [/us/stat/123/1643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1643
 [/us/pl/93/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344
-[/us/pl/101/508/s13201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13201%2Fa
+[/us/pl/101/508/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXIII
 [/us/stat/104/1388-609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-609
 [/us/usc/t2/s621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs621
 [/us/usc/t12/s4568/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4568%2Fb
 [/us/usc/t12/s4568/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4568%2Fb
-[/us/pl/111/22/s202/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs202%2Fa%2F2
-[/us/pl/111/22/s202/a/3/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs202%2Fa%2F3%2FB%2Fi
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
 [/us/usc/t12/s1715z–24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715z%E2%80%9324
-[/us/pl/111/22/s202/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs202%2Fa%2F1%2FA
-[/us/pl/111/22/s202/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs202%2Fa%2F1%2FC
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
 [/us/usc/t12/s1709/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1709%2Fb
-[/us/pl/111/22/s202/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs202%2Fa%2F1%2FD
-[/us/pl/111/22/s202/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs202%2Fa%2F3%2FA
-[/us/pl/111/22/s202/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs202%2Fa%2F2
-[/us/pl/111/22/s202/a/3/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs202%2Fa%2F3%2FB%2Fi
-[/us/pl/111/22/s202/a/3/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs202%2Fa%2F3%2FB%2Fii
-[/us/pl/111/22/s202/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs202%2Fa%2F2
-[/us/pl/111/22/s202/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs202%2Fa%2F2
-[/us/pl/111/22/s202/a/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs202%2Fa%2F3%2FC
-[/us/pl/111/22/s202/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs202%2Fa%2F2
-[/us/pl/111/22/s202/a/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs202%2Fa%2F3%2FD
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
 [/us/usc/t12/s1709/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1709%2Fb
-[/us/pl/111/22/s202/a/3/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs202%2Fa%2F3%2FE
-[/us/pl/111/22/s202/a/3/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs202%2Fa%2F3%2FF
-[/us/pl/111/22/s202/a/3/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs202%2Fa%2F3%2FG
-[/us/pl/111/22/s202/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs202%2Fa%2F2
-[/us/pl/111/22/s202/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs202%2Fa%2F4
-[/us/pl/111/22/s202/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs202%2Fa%2F2
-[/us/pl/111/22/s202/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs202%2Fa%2F5
-[/us/pl/111/22/s202/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs202%2Fa%2F2
-[/us/pl/111/22/s202/a/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs202%2Fa%2F6%2FA
-[/us/pl/111/22/s202/a/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs202%2Fa%2F6%2FB
-[/us/pl/111/22/s202/a/6/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs202%2Fa%2F6%2FC
-[/us/pl/111/22/s202/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs202%2Fa%2F2
-[/us/pl/111/22/s202/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs202%2Fa%2F2
-[/us/pl/111/22/s202/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs202%2Fa%2F8
-[/us/pl/111/22/s202/a/9/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs202%2Fa%2F9%2FA
-[/us/pl/111/22/s202/a/9/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs202%2Fa%2F9%2FB
-[/us/pl/111/22/s202/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs202%2Fa%2F2
-[/us/pl/111/22/s202/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs202%2Fa%2F2
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
 [/us/usc/t12/s1709/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1709%2Fb
-[/us/pl/111/22/s202/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs202%2Fa%2F11
-[/us/pl/110/343/s124/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs124%2F1%2FA
-[/us/pl/110/343/s124/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs124%2F1%2FB
-[/us/pl/110/343/s124/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs124%2F1%2FC
-[/us/pl/110/343/s124/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs124%2F2
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
 
 

@@ -17,7 +17,7 @@
 
     The Federal Advisory Council shall have power, by itself or through its officers, (1) to confer directly with the Board of Governors of the Federal Reserve System on general business conditions; (2) to make oral or written representations concerning matters within the jurisdiction of said board; (3) to call for information and to make recommendations in regard to discount rates, rediscount business, note issues, reserve conditions in the various districts, the purchase and sale of gold or securities by reserve banks, open-market operations by said banks, and the general affairs of the reserve banking system.
 
-([Dec. 23, 1913, ch. 6, § 12][/us/act/1913-12-23/ch6/s12] (par.), [38 Stat. 263][/us/stat/38/263]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 203(a), [49 Stat. 704][/us/stat/49/704].)
+([Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 12 (par.), [38 Stat. 263][/us/stat/38/263]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 203(a), [49 Stat. 704][/us/stat/49/704].)
 
  __Codification__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1913-12-23/ch6/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs12
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
 [/us/stat/38/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F263
 [/us/act/1935-08-23/ch614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch614
 [/us/stat/49/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F704

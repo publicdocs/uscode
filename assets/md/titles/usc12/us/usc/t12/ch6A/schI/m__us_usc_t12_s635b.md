@@ -17,7 +17,7 @@
 
     The Export-Import Bank of the United States shall have a capital stock of $1,000,000,000 subscribed by the United States. Certificates evidencing stock ownership of the United States shall be issued by the Bank to the President of the United States, or to such other person or persons as the President may designate from time to time, to the extent of payments made for the capital stock of the Bank.
 
-([July 31, 1945, ch. 341, § 4][/us/act/1945-07-31/ch341/s4], [59 Stat. 528][/us/stat/59/528]; [Pub. L. 90–267, § 1(a)][/us/pl/90/267/s1/a], Mar. 13, 1968, [82 Stat. 47][/us/stat/82/47]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title VI, § 620(c)\], Nov. 30, 1983, [97 Stat. 1261][/us/stat/97/1261]; [Pub. L. 102–429, title I, § 121(b)][/us/pl/102/429/s121/b], Oct. 21, 1992, [106 Stat. 2198][/us/stat/106/2198].)
+([July 31, 1945, ch. 341][/us/act/1945-07-31/ch341], § 4, [59 Stat. 528][/us/stat/59/528]; [Pub. L. 90–267][/us/pl/90/267], § 1(a), Mar. 13, 1968, [82 Stat. 47][/us/stat/82/47]; [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title VI, § 620(c)\], Nov. 30, 1983, [97 Stat. 1261][/us/stat/97/1261]; [Pub. L. 102–429, title I][/us/pl/102/429/tI], § 121(b), Oct. 21, 1992, [106 Stat. 2198][/us/stat/106/2198].)
 
  __Amendments__ 
 
@@ -34,13 +34,13 @@
 ----------
 ----------
 
-[/us/act/1945-07-31/ch341/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch341%2Fs4
+[/us/act/1945-07-31/ch341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch341
 [/us/stat/59/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F528
-[/us/pl/90/267/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F267%2Fs1%2Fa
+[/us/pl/90/267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F267
 [/us/stat/82/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F47
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1261
-[/us/pl/102/429/s121/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429%2Fs121%2Fb
+[/us/pl/102/429/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429%2FtI
 [/us/stat/106/2198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2198
 [/us/pl/102/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429
 [/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181

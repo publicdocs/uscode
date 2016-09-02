@@ -17,7 +17,7 @@
 
     Every national banking association within each Federal reserve district shall be required to subscribe to the capital stock of the Federal reserve bank for that district in a sum equal to six per centum of the paid-up capital stock and surplus of such bank, one-sixth of the subscription to be payable on call of the Board of Governors of the Federal Reserve System, one-sixth within three months and one-sixth within six months thereafter, and the remainder of the subscription, or any part thereof, shall be subject to call when deemed necessary by the Board, said payments to be in gold or gold certificates.
 
-([Dec. 23, 1913, ch. 6, § 2][/us/act/1913-12-23/ch6/s2] (part), [38 Stat. 252][/us/stat/38/252]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 203(a), [49 Stat. 704][/us/stat/49/704].)
+([Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 2 (part), [38 Stat. 252][/us/stat/38/252]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 203(a), [49 Stat. 704][/us/stat/49/704].)
 
  __Codification__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1913-12-23/ch6/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs2
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
 [/us/stat/38/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F252
 [/us/act/1935-08-23/ch614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch614
 [/us/stat/49/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F704

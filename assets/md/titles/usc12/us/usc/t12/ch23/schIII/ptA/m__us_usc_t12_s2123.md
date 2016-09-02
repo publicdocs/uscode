@@ -33,7 +33,7 @@
 
     (b) The board of directors of the Central Bank for Cooperatives shall consist of one member elected by the board of each bank for cooperatives, including the United Bank for Cooperatives if the Central Bank for Cooperatives is not merged into such bank, and one member appointed by the Farm Credit Administration.
 
-([Pub. L. 92–181, title III, § 3][/us/pl/92/181/s3].2, Dec. 10, 1971, [85 Stat. 603][/us/stat/85/603]; [Pub. L. 99–205, title II, § 205(e)(2)][/us/pl/99/205/s205/e/2], Dec. 23, 1985, [99 Stat. 1705][/us/stat/99/1705]; [Pub. L. 100–399, title IX, § 901(d)][/us/pl/100/399/s901/d], Aug. 17, 1988, [102 Stat. 1007][/us/stat/102/1007]; [Pub. L. 102–552, title V, § 503][/us/pl/102/552/s503], Oct. 28, 1992, [106 Stat. 4130][/us/stat/106/4130].)
+([Pub. L. 92–181, title III][/us/pl/92/181/tIII], § 3.2, Dec. 10, 1971, [85 Stat. 603][/us/stat/85/603]; [Pub. L. 99–205, title II][/us/pl/99/205/tII], § 205(e)(2), Dec. 23, 1985, [99 Stat. 1705][/us/stat/99/1705]; [Pub. L. 100–399, title IX][/us/pl/100/399/tIX], § 901(d), Aug. 17, 1988, [102 Stat. 1007][/us/stat/102/1007]; [Pub. L. 102–552, title V][/us/pl/102/552/tV], § 503, Oct. 28, 1992, [106 Stat. 4130][/us/stat/106/4130].)
 
  __Amendments__ 
 
@@ -60,13 +60,13 @@
 ----------
 ----------
 
-[/us/pl/92/181/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs3
+[/us/pl/92/181/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtIII
 [/us/stat/85/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F603
-[/us/pl/99/205/s205/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2Fs205%2Fe%2F2
+[/us/pl/99/205/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2FtII
 [/us/stat/99/1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1705
-[/us/pl/100/399/s901/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs901%2Fd
+[/us/pl/100/399/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtIX
 [/us/stat/102/1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1007
-[/us/pl/102/552/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2Fs503
+[/us/pl/102/552/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2FtV
 [/us/stat/106/4130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4130
 [/us/pl/102/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552
 [/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399

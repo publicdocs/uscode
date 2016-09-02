@@ -125,7 +125,7 @@
 
             (B) any assistance provided by the Corporation under [section 1823(c) of this title][/us/usc/t12/s1823/c].
 
-([Sept. 21, 1950, ch. 967, § 2][/us/act/1950-09-21/ch967/s2]\[42\], formerly § 2\[39\], as added [Pub. L. 102–242, title II, § 228][/us/pl/102/242/s228], Dec. 19, 1991, [105 Stat. 2308][/us/stat/105/2308]; renumbered § 2\[42\], [Pub. L. 102–550, title XVI, § 1602(a)][/us/pl/102/550/s1602/a], Oct. 28, 1992, [106 Stat. 4078][/us/stat/106/4078]; amended [Pub. L. 103–328, title I, § 106][/us/pl/103/328/s106], Sept. 29, 1994, [108 Stat. 2357][/us/stat/108/2357]; [Pub. L. 104–208, div. A, title II, § 2213][/us/pl/104/208/s2213], Sept. 30, 1996, [110 Stat. 3009–411][/us/stat/110/3009-411].)
+([Sept. 21, 1950, ch. 967][/us/act/1950-09-21/ch967], § 2\[42\], formerly § 2\[39\], as added [Pub. L. 102–242, title II][/us/pl/102/242/tII], § 228, Dec. 19, 1991, [105 Stat. 2308][/us/stat/105/2308]; renumbered § 2\[42\], [Pub. L. 102–550, title XVI][/us/pl/102/550/tXVI], § 1602(a), Oct. 28, 1992, [106 Stat. 4078][/us/stat/106/4078]; amended [Pub. L. 103–328, title I][/us/pl/103/328/tI], § 106, Sept. 29, 1994, [108 Stat. 2357][/us/stat/108/2357]; [Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], § 2213, Sept. 30, 1996, [110 Stat. 3009–411][/us/stat/110/3009-411].)
 
  __Codification__ 
 
@@ -148,14 +148,14 @@
 [/us/usc/t12/s1821/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1821%2Fn
 [/us/usc/t12/s1823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1823
 [/us/usc/t12/s1823/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1823%2Fc
-[/us/act/1950-09-21/ch967/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967%2Fs2
-[/us/pl/102/242/s228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs228
+[/us/act/1950-09-21/ch967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967
+[/us/pl/102/242/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtII
 [/us/stat/105/2308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2308
-[/us/pl/102/550/s1602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1602%2Fa
+[/us/pl/102/550/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXVI
 [/us/stat/106/4078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4078
-[/us/pl/103/328/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328%2Fs106
+[/us/pl/103/328/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328%2FtI
 [/us/stat/108/2357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2357
-[/us/pl/104/208/s2213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2213
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-411
 [/us/usc/t12/s1831p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1831p
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550

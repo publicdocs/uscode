@@ -17,7 +17,7 @@
 
     No regulation or standard imposed under this subchapter may be construed in a manner that would lessen the stringency of the requirements of any applicable primary financial regulatory agency or any other Federal or State agency that are otherwise applicable. This subchapter, and the rules and regulations or orders prescribed pursuant to this subchapter, do not divest any such agency of any authority derived from any other applicable law.
 
-([Pub. L. 111–203, title I, § 176][/us/pl/111/203/s176], July 21, 2010, [124 Stat. 1442][/us/stat/124/1442].)
+([Pub. L. 111–203, title I][/us/pl/111/203/tI], § 176, July 21, 2010, [124 Stat. 1442][/us/stat/124/1442].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/111/203/s176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs176
+[/us/pl/111/203/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtI
 [/us/stat/124/1442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1442
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1391

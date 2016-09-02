@@ -29,7 +29,7 @@
 
         Not later than the end of the 30-day period following the completion of a study conducted pursuant to subsection (a), the Comptroller General shall issue a report to the Congress containing a detailed description of all findings and conclusions made by the Comptroller General in carrying out such study, together with such recommendations for legislative or administrative action as the Comptroller General may determine to be appropriate.
 
-([Pub. L. 111–203, title X, § 1016B][/us/pl/111/203/s1016B], as added [Pub. L. 112–10, div. B, title V, § 1573(a)][/us/pl/112/10/s1573/a], Apr. 15, 2011, [125 Stat. 138][/us/stat/125/138].)
+([Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1016B, as added [Pub. L. 112–10, div. B, title V][/us/pl/112/10/dB/tV], § 1573(a), Apr. 15, 2011, [125 Stat. 138][/us/stat/125/138].)
 
  __References in Text__ 
 
@@ -43,8 +43,8 @@
 ----------
 
 [/us/usc/t12/s5512/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5512%2Fb%2F2
-[/us/pl/111/203/s1016B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1016B
-[/us/pl/112/10/s1573/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10%2Fs1573%2Fa
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
+[/us/pl/112/10/dB/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10%2FdB%2FtV
 [/us/stat/125/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F138
 [/us/pl/112/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10
 

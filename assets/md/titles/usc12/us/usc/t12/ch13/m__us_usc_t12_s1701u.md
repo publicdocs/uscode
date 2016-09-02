@@ -117,11 +117,11 @@
 
         Not later than 180 days after October 28, 1992, the Secretary shall promulgate regulations to implement this section.
 
-([Pub. L. 90–448, § 3][/us/pl/90/448/s3], Aug. 1, 1968, [82 Stat. 476][/us/stat/82/476]; [Pub. L. 91–152, title IV, § 404][/us/pl/91/152/s404], Dec. 24, 1969, [83 Stat. 395][/us/stat/83/395]; [Pub. L. 93–383, title I, § 118][/us/pl/93/383/s118], Aug. 22, 1974, [88 Stat. 653][/us/stat/88/653]; [Pub. L. 96–399, title III, § 329][/us/pl/96/399/s329], Oct. 8, 1980, [94 Stat. 1651][/us/stat/94/1651]; [Pub. L. 102–550, title IX, § 915][/us/pl/102/550/s915], Oct. 28, 1992, [106 Stat. 3878][/us/stat/106/3878]; [Pub. L. 109–281, § 2(d)(1)][/us/pl/109/281/s2/d/1], Sept. 22, 2006, [120 Stat. 1181][/us/stat/120/1181]; [Pub. L. 113–128, title V, § 512(p)][/us/pl/113/128/s512/p], July 22, 2014, [128 Stat. 1711][/us/stat/128/1711].)
+([Pub. L. 90–448][/us/pl/90/448], § 3, Aug. 1, 1968, [82 Stat. 476][/us/stat/82/476]; [Pub. L. 91–152, title IV][/us/pl/91/152/tIV], § 404, Dec. 24, 1969, [83 Stat. 395][/us/stat/83/395]; [Pub. L. 93–383, title I][/us/pl/93/383/tI], § 118, Aug. 22, 1974, [88 Stat. 653][/us/stat/88/653]; [Pub. L. 96–399, title III][/us/pl/96/399/tIII], § 329, Oct. 8, 1980, [94 Stat. 1651][/us/stat/94/1651]; [Pub. L. 102–550, title IX][/us/pl/102/550/tIX], § 915, Oct. 28, 1992, [106 Stat. 3878][/us/stat/106/3878]; [Pub. L. 109–281][/us/pl/109/281], § 2(d)(1), Sept. 22, 2006, [120 Stat. 1181][/us/stat/120/1181]; [Pub. L. 113–128, title V][/us/pl/113/128/tV], § 512(p), July 22, 2014, [128 Stat. 1711][/us/stat/128/1711].)
 
  __References in Text__ 
 
-    Section 1437l of title 42, referred to in subsecs. (c)(1)(A) and (d)(1)(A), was repealed by [Pub. L. 105–276, title V, § 522(a)][/us/pl/105/276/s522/a], Oct. 21, 1998, [112 Stat. 2564][/us/stat/112/2564].
+    Section 1437l of title 42, referred to in subsecs. (c)(1)(A) and (d)(1)(A), was repealed by [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 522(a), Oct. 21, 1998, [112 Stat. 2564][/us/stat/112/2564].
 
  __Codification__ 
 
@@ -131,13 +131,13 @@
 
  __Amendments__ 
 
-    2014—Subsec. (c)(1)(B)(iii). [Pub. L. 113–128, § 512(p)(1)(A)][/us/pl/113/128/s512/p/1/A], substituted “participants in YouthBuild programs receiving assistance under [section 3226 of title 29][/us/usc/t29/s3226]” for “participants in YouthBuild programs receiving assistance under [section 2918a of title 29][/us/usc/t29/s2918a]”.
+    2014—Subsec. (c)(1)(B)(iii). [Pub. L. 113–128][/us/pl/113/128], § 512(p)(1)(A), substituted “participants in YouthBuild programs receiving assistance under [section 3226 of title 29][/us/usc/t29/s3226]” for “participants in YouthBuild programs receiving assistance under [section 2918a of title 29][/us/usc/t29/s2918a]”.
 
-    Subsec. (c)(2)(B). [Pub. L. 113–128, § 512(p)(1)(B)][/us/pl/113/128/s512/p/1/B], substituted “participants in YouthBuild programs receiving assistance under [section 3226 of title 29][/us/usc/t29/s3226]” for “participants in YouthBuild programs receiving assistance under [section 2918a of title 29][/us/usc/t29/s2918a]”.
+    Subsec. (c)(2)(B). [Pub. L. 113–128][/us/pl/113/128], § 512(p)(1)(B), substituted “participants in YouthBuild programs receiving assistance under [section 3226 of title 29][/us/usc/t29/s3226]” for “participants in YouthBuild programs receiving assistance under [section 2918a of title 29][/us/usc/t29/s2918a]”.
 
-    Subsec. (d)(1)(B)(iii). [Pub. L. 113–128, § 512(p)(2)(A)][/us/pl/113/128/s512/p/2/A], substituted “To YouthBuild programs receiving assistance under [section 3226 of title 29][/us/usc/t29/s3226]” for “To YouthBuild programs receiving assistance under [section 2918a of title 29][/us/usc/t29/s2918a]”.
+    Subsec. (d)(1)(B)(iii). [Pub. L. 113–128][/us/pl/113/128], § 512(p)(2)(A), substituted “To YouthBuild programs receiving assistance under [section 3226 of title 29][/us/usc/t29/s3226]” for “To YouthBuild programs receiving assistance under [section 2918a of title 29][/us/usc/t29/s2918a]”.
 
-    Subsec. (d)(2)(B). [Pub. L. 113–128, § 512(p)(2)(B)][/us/pl/113/128/s512/p/2/B], substituted “to YouthBuild programs receiving assistance under [section 3226 of title 29][/us/usc/t29/s3226]” for “to YouthBuild programs receiving assistance under [section 2918a of title 29][/us/usc/t29/s2918a]”.
+    Subsec. (d)(2)(B). [Pub. L. 113–128][/us/pl/113/128], § 512(p)(2)(B), substituted “to YouthBuild programs receiving assistance under [section 3226 of title 29][/us/usc/t29/s3226]” for “to YouthBuild programs receiving assistance under [section 2918a of title 29][/us/usc/t29/s2918a]”.
 
     2006—Subsecs. (c)(1)(B)(iii), (2)(B), (d)(1)(B)(iii), (2)(B). [Pub. L. 109–281][/us/pl/109/281] substituted “YouthBuild programs receiving assistance under [section 2918a of title 29][/us/usc/t29/s2918a]” for “Youthbuild programs receiving assistance under subtitle D of title IV of the Cranston-Gonzalez National Affordable Housing Act”.
 
@@ -147,9 +147,9 @@
 
     “(2) require, in consultation with the Administrator of the Small Business Administration, that to the greatest extent feasible contracts for work to be performed in connection with any such project be awarded to business concerns, including but not limited to individuals or firms doing business in the field of planning, consulting, design, architecture, building construction, rehabilitation, maintenance or repair, which are located in or owned in substantial part by persons residing in the same metropolitan area (or nonmetropolitan county) as the project.”
 
-    1980—Par. (1). [Pub. L. 96–399, § 329(1)][/us/pl/96/399/s329/1], substituted “residing within the unit of local government or the metropolitan area (or nonmetropolitan county), as determined by the Secretary, in which the project is located” for “residing in the area of such project”.
+    1980—Par. (1). [Pub. L. 96–399][/us/pl/96/399], § 329(1), substituted “residing within the unit of local government or the metropolitan area (or nonmetropolitan county), as determined by the Secretary, in which the project is located” for “residing in the area of such project”.
 
-    Par. (2). [Pub. L. 96–399, § 329(2)][/us/pl/96/399/s329/2], substituted “residing in the same metropolitan area (or nonmetropolitan county) as the project” for “residing in the area of such project”.
+    Par. (2). [Pub. L. 96–399][/us/pl/96/399], § 329(2), substituted “residing in the same metropolitan area (or nonmetropolitan county) as the project” for “residing in the area of such project”.
 
     1974—[Pub. L. 93–383][/us/pl/93/383] inserted reference to community development block grants under title I of the Housing and Community Development Act of 1974.
 
@@ -161,7 +161,7 @@
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–281, § 2(f)][/us/pl/109/281/s2/f], Sept. 22, 2006, [120 Stat. 1182][/us/stat/120/1182], provided that: 
+[Pub. L. 109–281][/us/pl/109/281], § 2(f), Sept. 22, 2006, [120 Stat. 1182][/us/stat/120/1182], provided that: 
 
 > “This section \[enacting former [section 2918a of Title 29][/us/usc/t29/s2918a], Labor, amending this section, [section 4183 of Title 25][/us/usc/t25/s4183], Indians, former [section 2939 of Title 29][/us/usc/t29/s2939], and [section 12870 of Title 42][/us/usc/t42/s12870], The Public Health and Welfare, and repealing sections 12899 to 12899i of Title 42\] and the amendments made by this section take effect on the earlier of—
 
@@ -171,7 +171,7 @@
 
  __Effectiveness Study__ 
 
-[Pub. L. 102–550, title IX, § 916][/us/pl/102/550/s916], Oct. 28, 1992, [106 Stat. 3881][/us/stat/106/3881], provided that:
+[Pub. L. 102–550, title IX][/us/pl/102/550/tIX], § 916, Oct. 28, 1992, [106 Stat. 3881][/us/stat/106/3881], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -235,52 +235,52 @@
 [/us/usc/t29/s3226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3226
 [/us/usc/t29/s3226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3226
 [/us/usc/t42/s1437a/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437a%2Fb%2F2
-[/us/pl/90/448/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs3
+[/us/pl/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448
 [/us/stat/82/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F476
-[/us/pl/91/152/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F152%2Fs404
+[/us/pl/91/152/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F152%2FtIV
 [/us/stat/83/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F395
-[/us/pl/93/383/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs118
+[/us/pl/93/383/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtI
 [/us/stat/88/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F653
-[/us/pl/96/399/s329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs329
+[/us/pl/96/399/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2FtIII
 [/us/stat/94/1651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1651
-[/us/pl/102/550/s915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs915
+[/us/pl/102/550/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtIX
 [/us/stat/106/3878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3878
-[/us/pl/109/281/s2/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F281%2Fs2%2Fd%2F1
+[/us/pl/109/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F281
 [/us/stat/120/1181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1181
-[/us/pl/113/128/s512/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fp
+[/us/pl/113/128/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtV
 [/us/stat/128/1711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1711
-[/us/pl/105/276/s522/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs522%2Fa
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2564
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
-[/us/pl/113/128/s512/p/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fp%2F1%2FA
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/usc/t29/s3226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3226
 [/us/usc/t29/s2918a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2918a
-[/us/pl/113/128/s512/p/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fp%2F1%2FB
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/usc/t29/s3226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3226
 [/us/usc/t29/s2918a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2918a
-[/us/pl/113/128/s512/p/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fp%2F2%2FA
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/usc/t29/s3226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3226
 [/us/usc/t29/s2918a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2918a
-[/us/pl/113/128/s512/p/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fp%2F2%2FB
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/usc/t29/s3226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3226
 [/us/usc/t29/s2918a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2918a
 [/us/pl/109/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F281
 [/us/usc/t29/s2918a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2918a
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
-[/us/pl/96/399/s329/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs329%2F1
-[/us/pl/96/399/s329/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs329%2F2
+[/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
+[/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
 [/us/pl/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383
 [/us/pl/91/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F152
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
-[/us/pl/109/281/s2/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F281%2Fs2%2Ff
+[/us/pl/109/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F281
 [/us/stat/120/1182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1182
 [/us/usc/t29/s2918a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2918a
 [/us/usc/t25/s4183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4183
 [/us/usc/t29/s2939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2939
 [/us/usc/t42/s12870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12870
-[/us/pl/102/550/s916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs916
+[/us/pl/102/550/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtIX
 [/us/stat/106/3881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3881
 [/us/usc/t12/s1701u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701u
 [/us/usc/t12/s1701u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701u

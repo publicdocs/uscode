@@ -17,7 +17,7 @@
 
     Whoever willfully violates any regulation under this chapter shall be fined not more than $1,000 or imprisoned not more than one year, or both.
 
-([Pub. L. 91–508, title I, § 126][/us/pl/91/508/s126], Oct. 26, 1970, [84 Stat. 1118][/us/stat/84/1118].)
+([Pub. L. 91–508, title I][/us/pl/91/508/tI], § 126, Oct. 26, 1970, [84 Stat. 1118][/us/stat/84/1118].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/508/s126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508%2Fs126
+[/us/pl/91/508/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508%2FtI
 [/us/stat/84/1118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1118
 
 

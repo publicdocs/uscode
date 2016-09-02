@@ -55,7 +55,7 @@
 
         (3) require the mortgagee or servicer, as applicable, to reimburse the mortgagor in an amount equal to the total unearned premiums paid by the mortgagor after the date on which the obligation to pay those premiums ceased under this chapter.
 
-([Pub. L. 105–216, § 10][/us/pl/105/216/s10], July 29, 1998, [112 Stat. 907][/us/stat/112/907]; [Pub. L. 111–203, title X, § 1095][/us/pl/111/203/s1095], July 21, 2010, [124 Stat. 2101][/us/stat/124/2101].)
+([Pub. L. 105–216][/us/pl/105/216], § 10, July 29, 1998, [112 Stat. 907][/us/stat/112/907]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1095, July 21, 2010, [124 Stat. 2101][/us/stat/124/2101].)
 
  __References in Text__ 
 
@@ -69,7 +69,7 @@
 
  __Amendments__ 
 
-    2010—Subsec. (a). [Pub. L. 111–203, § 1095(1)(A)][/us/pl/111/203/s1095/1/A], inserted introductory provisions and added par. (1) and struck out former introductory provisions and par. (1) which read as follows: “Compliance with the requirements imposed under this chapter shall be enforced under—
+    2010—Subsec. (a). [Pub. L. 111–203][/us/pl/111/203], § 1095(1)(A), inserted introductory provisions and added par. (1) and struck out former introductory provisions and par. (1) which read as follows: “Compliance with the requirements imposed under this chapter shall be enforced under—
 
     “(1) section 8 of the Federal Deposit Insurance Act—
 
@@ -79,9 +79,9 @@
 
     “(C) by the Director of the Office of Thrift Supervision in the case of depository institutions described in clause (v) and or (vi) of section 19(b)(1)(A) of the Federal Reserve Act that are not insured depository institutions (as defined in section 3(c)(2) of the Federal Deposit Insurance Act);”.
 
-    Subsec. (a)(4). [Pub. L. 111–203, § 1095(1)(B)][/us/pl/111/203/s1095/1/B]–(D), added par. (4).
+    Subsec. (a)(4). [Pub. L. 111–203][/us/pl/111/203], § 1095(1)(B)–(D), added par. (4).
 
-    Subsec. (b)(2). [Pub. L. 111–203, § 1095(2)][/us/pl/111/203/s1095/2], inserted “, subject to subtitle B of the Consumer Financial Protection Act of 2010” before the period.
+    Subsec. (b)(2). [Pub. L. 111–203][/us/pl/111/203], § 1095(2), inserted “, subject to subtitle B of the Consumer Financial Protection Act of 2010” before the period.
 
  __Effective Date of 2010 Amendment__ 
 
@@ -107,9 +107,9 @@
 [/us/usc/t12/s2261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2261
 [/us/usc/t12/s5561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5561
 [/us/usc/t12/s5511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5511
-[/us/pl/105/216/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F216%2Fs10
+[/us/pl/105/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F216
 [/us/stat/112/907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F907
-[/us/pl/111/203/s1095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1095
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2101
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1955
@@ -122,9 +122,9 @@
 [/us/pl/92/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181
 [/us/stat/85/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F583
 [/us/usc/t12/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2001
-[/us/pl/111/203/s1095/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1095%2F1%2FA
-[/us/pl/111/203/s1095/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1095%2F1%2FB
-[/us/pl/111/203/s1095/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1095%2F2
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s1100H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100H
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a

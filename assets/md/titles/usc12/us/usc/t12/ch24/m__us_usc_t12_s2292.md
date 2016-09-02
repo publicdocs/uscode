@@ -17,7 +17,7 @@
 
     The Bank shall, as soon as practicable after the end of each fiscal year, transmit to the President and the Congress an annual report of its operations and activities.
 
-([Pub. L. 93–224, § 13][/us/pl/93/224/s13], Dec. 29, 1973, [87 Stat. 941][/us/stat/87/941].)
+([Pub. L. 93–224][/us/pl/93/224], § 13, Dec. 29, 1973, [87 Stat. 941][/us/stat/87/941].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/93/224/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F224%2Fs13
+[/us/pl/93/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F224
 [/us/stat/87/941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F941
 
 

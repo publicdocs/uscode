@@ -53,7 +53,7 @@
 
         As used in this section, the term “designated transfer date” means the date determined under section 1062 of the Consumer Financial Protection Act of 2010 \[[12 U.S.C. 5582][/us/usc/t12/s5582]\].
 
-([Pub. L. 97–320, title VIII, § 804][/us/pl/97/320/s804], Oct. 15, 1982, [96 Stat. 1546][/us/stat/96/1546]; [Pub. L. 101–73, title VII, § 744(c)][/us/pl/101/73/s744/c], Aug. 9, 1989, [103 Stat. 438][/us/stat/103/438]; [Pub. L. 111–203, title X, § 1083(a)(2)][/us/pl/111/203/s1083/a/2], July 21, 2010, [124 Stat. 2080][/us/stat/124/2080].)
+([Pub. L. 97–320, title VIII][/us/pl/97/320/tVIII], § 804, Oct. 15, 1982, [96 Stat. 1546][/us/stat/96/1546]; [Pub. L. 101–73, title VII][/us/pl/101/73/tVII], § 744(c), Aug. 9, 1989, [103 Stat. 438][/us/stat/103/438]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1083(a)(2), July 21, 2010, [124 Stat. 2080][/us/stat/124/2080].)
 
  __References in Text__ 
 
@@ -61,13 +61,13 @@
 
  __Amendments__ 
 
-    2010—Subsec. (a)(1), (2), (3). [Pub. L. 111–203, § 1083(a)(2)(A)(i)][/us/pl/111/203/s1083/a/2/A/i], inserted “on or before the designated transfer date, as determined under section 1062 of the Consumer Financial Protection Act of 2010,” after “transactions made”.
+    2010—Subsec. (a)(1), (2), (3). [Pub. L. 111–203][/us/pl/111/203], § 1083(a)(2)(A)(i), inserted “on or before the designated transfer date, as determined under section 1062 of the Consumer Financial Protection Act of 2010,” after “transactions made”.
 
-    Subsec. (a)(4). [Pub. L. 111–203, § 1083(a)(2)(A)(ii)][/us/pl/111/203/s1083/a/2/A/ii]–(iv), added par. (4).
+    Subsec. (a)(4). [Pub. L. 111–203][/us/pl/111/203], § 1083(a)(2)(A)(ii)–(iv), added par. (4).
 
-    Subsec. (c). [Pub. L. 111–203, § 1083(a)(2)(B)][/us/pl/111/203/s1083/a/2/B], added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “An alternative mortgage transaction may be made by a housing creditor in accordance with this section, notwithstanding any State constitution, law, or regulation.”
+    Subsec. (c). [Pub. L. 111–203][/us/pl/111/203], § 1083(a)(2)(B), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “An alternative mortgage transaction may be made by a housing creditor in accordance with this section, notwithstanding any State constitution, law, or regulation.”
 
-    Subsecs. (d), (e). [Pub. L. 111–203, § 1083(a)(2)(C)][/us/pl/111/203/s1083/a/2/C], added subsecs. (d) and (e).
+    Subsecs. (d), (e). [Pub. L. 111–203][/us/pl/111/203], § 1083(a)(2)(C), added subsecs. (d) and (e).
 
     1989—Subsec. (a)(3). [Pub. L. 101–73][/us/pl/101/73] substituted “Director of the Office of Thrift Supervision” for “Federal Home Loan Bank Board” wherever appearing.
 
@@ -88,19 +88,19 @@
 
 [/us/usc/t12/s5582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5582
 [/us/usc/t12/s5582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5582
-[/us/pl/97/320/s804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs804
+[/us/pl/97/320/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2FtVIII
 [/us/stat/96/1546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1546
-[/us/pl/101/73/s744/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs744%2Fc
+[/us/pl/101/73/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtVII
 [/us/stat/103/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F438
-[/us/pl/111/203/s1083/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1083%2Fa%2F2
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2080
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1955
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301
-[/us/pl/111/203/s1083/a/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1083%2Fa%2F2%2FA%2Fi
-[/us/pl/111/203/s1083/a/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1083%2Fa%2F2%2FA%2Fii
-[/us/pl/111/203/s1083/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1083%2Fa%2F2%2FB
-[/us/pl/111/203/s1083/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1083%2Fa%2F2%2FC
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s1083/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1083%2Fb

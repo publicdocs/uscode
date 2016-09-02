@@ -23,7 +23,7 @@
 
         The notes, bonds, debentures, and other obligations issued by the Financial Assistance Corporation shall be accorded the same tax treatment as System-wide obligations.
 
-([Pub. L. 92–181, title VI, § 6][/us/pl/92/181/s6].30, as added [Pub. L. 100–233, title II, § 201][/us/pl/100/233/s201], Jan. 6, 1988, [101 Stat. 1604][/us/stat/101/1604].)
+([Pub. L. 92–181, title VI][/us/pl/92/181/tVI], § 6.30, as added [Pub. L. 100–233, title II][/us/pl/100/233/tII], § 201, Jan. 6, 1988, [101 Stat. 1604][/us/stat/101/1604].)
 
 ----------
 
@@ -32,8 +32,8 @@
 ----------
 ----------
 
-[/us/pl/92/181/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs6
-[/us/pl/100/233/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs201
+[/us/pl/92/181/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtVI
+[/us/pl/100/233/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtII
 [/us/stat/101/1604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1604
 
 

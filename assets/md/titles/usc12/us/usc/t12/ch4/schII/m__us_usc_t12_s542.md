@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act Mar. 14, 1900, ch. 41, § 13][/us/act/1900-03-14/ch41/s13], [31 Stat. 49][/us/stat/31/49], related to tax on circulating notes secured by 2 per centum bonds.
+    Section, [act Mar. 14, 1900, ch. 41][/us/act/1900-03-14/ch41], § 13, [31 Stat. 49][/us/stat/31/49], related to tax on circulating notes secured by 2 per centum bonds.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1900-03-14/ch41/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1900-03-14%2Fch41%2Fs13
+[/us/act/1900-03-14/ch41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1900-03-14%2Fch41
 [/us/stat/31/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F49
 
 

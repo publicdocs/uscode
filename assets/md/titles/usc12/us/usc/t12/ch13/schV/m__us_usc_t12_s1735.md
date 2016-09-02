@@ -25,15 +25,15 @@
 
     Payments to the Secretary of the Treasury under this section shall be made in such amounts and at such times as the Secretary determines, after consultations with the Secretary of the Treasury, that funds are available for that purpose, taking into consideration the continued solvency of the funds involved. All payments made pursuant to this section shall be covered into the Treasury as miscellaneous receipts.
 
-([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title V, § 516, as added [June 30, 1953, ch. 170, § 9][/us/act/1953-06-30/ch170/s9], [67 Stat. 123][/us/stat/67/123]; amended [Pub. L. 90–19, § 1(a)(3)][/us/pl/90/19/s1/a/3], May 25, 1967, [81 Stat. 17][/us/stat/81/17]; [Pub. L. 98–479, title II, § 204(a)(21)][/us/pl/98/479/s204/a/21], Oct. 17, 1984, [98 Stat. 2232][/us/stat/98/2232].)
+([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title V, § 516, as added [June 30, 1953, ch. 170][/us/act/1953-06-30/ch170], § 9, [67 Stat. 123][/us/stat/67/123]; amended [Pub. L. 90–19][/us/pl/90/19], § 1(a)(3), May 25, 1967, [81 Stat. 17][/us/stat/81/17]; [Pub. L. 98–479, title II][/us/pl/98/479/tII], § 204(a)(21), Oct. 17, 1984, [98 Stat. 2232][/us/stat/98/2232].)
 
  __References in Text__ 
 
-    [Section 1715a of this title][/us/usc/t12/s1715a], referred to in par. (1), in the original was a reference to section 210 of the National Housing Act ([June 27, 1934, ch. 847, § 210][/us/act/1934-06-27/ch847/s210], as added [Feb. 3, 1938, ch. 13, § 3][/us/act/1938-02-03/ch13/s3], [52 Stat. 22][/us/stat/52/22]), which was repealed by [act June 3, 1939, ch. 175, § 13][/us/act/1939-06-03/ch175/s13], [53 Stat. 807][/us/stat/53/807]. See note set out under section 1715a.
+    [Section 1715a of this title][/us/usc/t12/s1715a], referred to in par. (1), in the original was a reference to section 210 of the National Housing Act ([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], § 210, as added [Feb. 3, 1938, ch. 13][/us/act/1938-02-03/ch13], § 3, [52 Stat. 22][/us/stat/52/22]), which was repealed by [act June 3, 1939, ch. 175][/us/act/1939-06-03/ch175], § 13, [53 Stat. 807][/us/stat/53/807]. See note set out under section 1715a.
 
     [Section 484d of title 48][/us/usc/t48/s484d], referred to in text, which authorized the Federal Housing Commissioner to prescribe a higher maximum for the principal obligation of mortgages, was omitted from the Code.
 
-    Sections 1737, 1747i, and 1748a of this title, referred to in text, were repealed by [Pub. L. 89–117, title II, § 1108(aa)][/us/pl/89/117/s1108/aa], Aug. 10, 1965, [79 Stat. 507][/us/stat/79/507].
+    Sections 1737, 1747i, and 1748a of this title, referred to in text, were repealed by [Pub. L. 89–117, title II][/us/pl/89/117/tII], § 1108(aa), Aug. 10, 1965, [79 Stat. 507][/us/stat/79/507].
 
  __Amendments__ 
 
@@ -51,20 +51,20 @@
 [/us/usc/t48/s484d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs484d
 [/us/usc/t12/s1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1709
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
-[/us/act/1953-06-30/ch170/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-30%2Fch170%2Fs9
+[/us/act/1953-06-30/ch170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-30%2Fch170
 [/us/stat/67/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F123
-[/us/pl/90/19/s1/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19%2Fs1%2Fa%2F3
+[/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
 [/us/stat/81/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F17
-[/us/pl/98/479/s204/a/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2Fs204%2Fa%2F21
+[/us/pl/98/479/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2FtII
 [/us/stat/98/2232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2232
 [/us/usc/t12/s1715a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715a
-[/us/act/1934-06-27/ch847/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847%2Fs210
-[/us/act/1938-02-03/ch13/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-03%2Fch13%2Fs3
+[/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
+[/us/act/1938-02-03/ch13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-03%2Fch13
 [/us/stat/52/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F22
-[/us/act/1939-06-03/ch175/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-06-03%2Fch175%2Fs13
+[/us/act/1939-06-03/ch175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-06-03%2Fch175
 [/us/stat/53/807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F807
 [/us/usc/t48/s484d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs484d
-[/us/pl/89/117/s1108/aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117%2Fs1108%2Faa
+[/us/pl/89/117/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117%2FtII
 [/us/stat/79/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F507
 [/us/pl/98/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479
 [/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19

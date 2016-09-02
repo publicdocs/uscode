@@ -73,19 +73,19 @@
 
         (4) to approve amendments to the charter of such association.
 
-([Pub. L. 92–181, title II, § 2][/us/pl/92/181/s2].10, as added [Pub. L. 100–233, title IV, § 401][/us/pl/100/233/s401], Jan. 6, 1988, [101 Stat. 1634][/us/stat/101/1634]; amended [Pub. L. 100–399, title IV, § 401(s)][/us/pl/100/399/s401/s], (t), Aug. 17, 1988, [102 Stat. 998][/us/stat/102/998].)
+([Pub. L. 92–181, title II][/us/pl/92/181/tII], § 2.10, as added [Pub. L. 100–233, title IV][/us/pl/100/233/tIV], § 401, Jan. 6, 1988, [101 Stat. 1634][/us/stat/101/1634]; amended [Pub. L. 100–399, title IV][/us/pl/100/399/tIV], § 401(s), (t), Aug. 17, 1988, [102 Stat. 998][/us/stat/102/998].)
 
  __Prior Provisions__ 
 
-    A prior section 2091, [Pub. L. 92–181, title II, § 2][/us/pl/92/181/s2].10, Dec. 10, 1971, [85 Stat. 597][/us/stat/85/597]; [Pub. L. 96–592, title II, § 207][/us/pl/96/592/s207], Dec. 24, 1980, [94 Stat. 3442][/us/stat/94/3442]; [Pub. L. 99–205, title II, § 205(e)(10)][/us/pl/99/205/s205/e/10], Dec. 23, 1985, [99 Stat. 1704][/us/stat/99/1704]; [Pub. L. 100–233, title VIII][/us/pl/100/233], §§ 802(l), 805(g), Jan. 6, 1988, [101 Stat. 1711][/us/stat/101/1711], 1715, related to organization and charters of production credit associations, prior to the general amendment of this subchapter by [Pub. L. 100–233, § 401][/us/pl/100/233/s401].
+    A prior section 2091, [Pub. L. 92–181, title II][/us/pl/92/181/tII], § 2.10, Dec. 10, 1971, [85 Stat. 597][/us/stat/85/597]; [Pub. L. 96–592, title II][/us/pl/96/592/tII], § 207, Dec. 24, 1980, [94 Stat. 3442][/us/stat/94/3442]; [Pub. L. 99–205, title II][/us/pl/99/205/tII], § 205(e)(10), Dec. 23, 1985, [99 Stat. 1704][/us/stat/99/1704]; [Pub. L. 100–233, title VIII][/us/pl/100/233/tVIII], §§ 802(l), 805(g), Jan. 6, 1988, [101 Stat. 1711][/us/stat/101/1711], 1715, related to organization and charters of production credit associations, prior to the general amendment of this subchapter by [Pub. L. 100–233][/us/pl/100/233], § 401.
 
  __Amendments__ 
 
-    1988—Subsec. (b)(1). [Pub. L. 100–399, § 401(s)(1)][/us/pl/100/399/s401/s/1], inserted “under [section 2015(a) of this title][/us/usc/t12/s2015/a]” after “a Farm Credit Bank”.
+    1988—Subsec. (b)(1). [Pub. L. 100–399][/us/pl/100/399], § 401(s)(1), inserted “under [section 2015(a) of this title][/us/usc/t12/s2015/a]” after “a Farm Credit Bank”.
 
-    Subsec. (b)(2)(D)(i). [Pub. L. 100–399, § 401(s)(2)][/us/pl/100/399/s401/s/2], amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “the individual’s eligibility for, and request or need of the individual of a Farm Credit Bank loan;”.
+    Subsec. (b)(2)(D)(i). [Pub. L. 100–399][/us/pl/100/399], § 401(s)(2), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “the individual’s eligibility for, and request or need of the individual of a Farm Credit Bank loan;”.
 
-    Subsec. (c). [Pub. L. 100–399, § 401(t)][/us/pl/100/399/s401/t], amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Farm Credit Administration shall have power, in the terms of the charter, under rules and regulations prescribed by the Farm Credit Administration or by approving the bylaws of the association, to provide for the—
+    Subsec. (c). [Pub. L. 100–399][/us/pl/100/399], § 401(t), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Farm Credit Administration shall have power, in the terms of the charter, under rules and regulations prescribed by the Farm Credit Administration or by approving the bylaws of the association, to provide for the—
 
     “(1) organization of the association;
 
@@ -107,24 +107,24 @@
 ----------
 
 [/us/usc/t12/s2015/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2015%2Fa
-[/us/pl/92/181/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs2
-[/us/pl/100/233/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs401
+[/us/pl/92/181/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtII
+[/us/pl/100/233/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtIV
 [/us/stat/101/1634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1634
-[/us/pl/100/399/s401/s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs401%2Fs
+[/us/pl/100/399/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtIV
 [/us/stat/102/998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F998
-[/us/pl/92/181/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs2
+[/us/pl/92/181/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtII
 [/us/stat/85/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F597
-[/us/pl/96/592/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592%2Fs207
+[/us/pl/96/592/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592%2FtII
 [/us/stat/94/3442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3442
-[/us/pl/99/205/s205/e/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2Fs205%2Fe%2F10
+[/us/pl/99/205/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2FtII
 [/us/stat/99/1704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1704
-[/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
+[/us/pl/100/233/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtVIII
 [/us/stat/101/1711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1711
-[/us/pl/100/233/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs401
-[/us/pl/100/399/s401/s/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs401%2Fs%2F1
+[/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/usc/t12/s2015/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2015%2Fa
-[/us/pl/100/399/s401/s/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs401%2Fs%2F2
-[/us/pl/100/399/s401/t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs401%2Ft
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/100/233/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs401
 [/us/pl/100/399/s1001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs1001%2Fb

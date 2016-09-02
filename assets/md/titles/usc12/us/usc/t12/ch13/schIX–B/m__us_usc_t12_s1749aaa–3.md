@@ -17,7 +17,7 @@
 
     The Secretary shall prescribe such regulations as may be necessary to carry out this subchapter, after consulting with the Secretary of Health and Human Services with respect to any health or medical aspects of the program under this subchapter which may be involved in such regulations.
 
-([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title XI, § 1104, as added [Pub. L. 89–754, title V, § 502(a)][/us/pl/89/754/s502/a], Nov. 3, 1966, [80 Stat. 1275][/us/stat/80/1275]; amended [Pub. L. 98–479, title II, § 201(a)(2)][/us/pl/98/479/s201/a/2], Oct. 17, 1984, [98 Stat. 2227][/us/stat/98/2227].)
+([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title XI, § 1104, as added [Pub. L. 89–754, title V][/us/pl/89/754/tV], § 502(a), Nov. 3, 1966, [80 Stat. 1275][/us/stat/80/1275]; amended [Pub. L. 98–479, title II][/us/pl/98/479/tII], § 201(a)(2), Oct. 17, 1984, [98 Stat. 2227][/us/stat/98/2227].)
 
  __Amendments__ 
 
@@ -31,9 +31,9 @@
 ----------
 
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
-[/us/pl/89/754/s502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F754%2Fs502%2Fa
+[/us/pl/89/754/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F754%2FtV
 [/us/stat/80/1275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1275
-[/us/pl/98/479/s201/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2Fs201%2Fa%2F2
+[/us/pl/98/479/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2FtII
 [/us/stat/98/2227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2227
 [/us/pl/98/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479
 

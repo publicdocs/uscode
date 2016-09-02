@@ -103,7 +103,7 @@
 
         The authority of the Director under this section is in addition to any other authority of the Director.
 
-([Pub. L. 102–550, title XIII, § 1313B][/us/pl/102/550/s1313B], as added [Pub. L. 110–289, div. A, title I, § 1108][/us/pl/110/289/s1108], July 30, 2008, [122 Stat. 2672][/us/stat/122/2672].)
+([Pub. L. 102–550, title XIII][/us/pl/102/550/tXIII], § 1313B, as added [Pub. L. 110–289, div. A, title I][/us/pl/110/289/dA/tI], § 1108, July 30, 2008, [122 Stat. 2672][/us/stat/122/2672].)
 
  __References in Text__ 
 
@@ -119,8 +119,8 @@
 [/us/usc/t12/s4622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4622
 [/us/usc/t12/s4516/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4516%2Fb
 [/us/usc/t12/s1426/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1426%2Fa%2F5
-[/us/pl/102/550/s1313B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1313B
-[/us/pl/110/289/s1108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1108
+[/us/pl/102/550/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIII
+[/us/pl/110/289/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtI
 [/us/stat/122/2672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2672
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/stat/106/3941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3941

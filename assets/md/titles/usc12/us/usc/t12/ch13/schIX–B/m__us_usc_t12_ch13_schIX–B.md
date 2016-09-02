@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch13/schIX–A/m__us_usc_t12_ch13_schIX–A.md) | [Next](./../../../../..//us/usc/t12/ch13/schIX–B/m__us_usc_t12_s1749aaa.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fch13%2FschIX%E2%80%93B)
+[Previous](./../../../../..//us/usc/t12/ch13/schIX–A/m__us_usc_t12_s1749aa...1749ll.md) | [Next](./../../../../..//us/usc/t12/ch13/schIX–B/m__us_usc_t12_s1749aaa.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fch13%2FschIX%E2%80%93B)
 
 ### SUBCHAPTER IX–B—MORTGAGE INSURANCE FOR GROUP PRACTICE FACILITIES AND MEDICAL PRACTICE FACILITIES
 
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch13/schIX–A/m__us_usc_t12_ch13_schIX–A.md) | [Next](./../../../../..//us/usc/t12/ch13/schIX–B/m__us_usc_t12_s1749aaa.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fch13%2FschIX%E2%80%93B)
+[Previous](./../../../../..//us/usc/t12/ch13/schIX–A/m__us_usc_t12_s1749aa...1749ll.md) | [Next](./../../../../..//us/usc/t12/ch13/schIX–B/m__us_usc_t12_s1749aaa.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fch13%2FschIX%E2%80%93B)
 
 ----------
 ----------

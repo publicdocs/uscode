@@ -337,7 +337,7 @@
 
                 For the purposes of this paragraph, the term “hedge fund” means any fund identified under subsection (h)(2), and does not include a private equity fund, as such term is used in [section 80b–3(m) of title 15][/us/usc/t15/s80b–3/m].
 
-([May 9, 1956, ch. 240, § 13][/us/act/1956-05-09/ch240/s13], as added [Pub. L. 111–203, title VI, § 619][/us/pl/111/203/s619], July 21, 2010, [124 Stat. 1620][/us/stat/124/1620].)
+([May 9, 1956, ch. 240][/us/act/1956-05-09/ch240], § 13, as added [Pub. L. 111–203, title VI][/us/pl/111/203/tVI], § 619, July 21, 2010, [124 Stat. 1620][/us/stat/124/1620].)
 
  __References in Text__ 
 
@@ -380,8 +380,8 @@
 [/us/usc/t15/s80a–3/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%933%2Fc%2F1
 [/us/usc/t12/s5311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5311
 [/us/usc/t15/s80b–3/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80b%E2%80%933%2Fm
-[/us/act/1956-05-09/ch240/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-05-09%2Fch240%2Fs13
-[/us/pl/111/203/s619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs619
+[/us/act/1956-05-09/ch240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-05-09%2Fch240
+[/us/pl/111/203/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVI
 [/us/stat/124/1620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1620
 [/us/pl/95/369/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F369%2Fs8
 [/us/usc/t12/s3106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3106

@@ -23,7 +23,7 @@
 
     (3) relating to the functions of the Office of Thrift Supervision transferred under [section 5412(b)(1)(A) of this title][/us/usc/t12/s5412/b/1/A], shall be transferred to the Board of Governors on the transfer date.
 
-([Pub. L. 111–203, title III, § 324][/us/pl/111/203/s324], July 21, 2010, [124 Stat. 1536][/us/stat/124/1536].)
+([Pub. L. 111–203, title III][/us/pl/111/203/tIII], § 324, July 21, 2010, [124 Stat. 1536][/us/stat/124/1536].)
 
 ----------
 
@@ -36,7 +36,7 @@
 [/us/usc/t12/s5412/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5412%2Fb%2F2%2FB
 [/us/usc/t12/s5412/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5412%2Fb%2F2%2FC
 [/us/usc/t12/s5412/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5412%2Fb%2F1%2FA
-[/us/pl/111/203/s324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs324
+[/us/pl/111/203/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIII
 [/us/stat/124/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1536
 
 

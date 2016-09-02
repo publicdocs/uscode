@@ -161,7 +161,7 @@
 
             To the extent that the regulations under this subsection conflict with rules of other agencies or Government corporations, officers, directors, employees, and independent contractors of the Corporation who are also subject to the conflict of interest or ethical rules of another agency or Government corporation, shall be governed by the regulations prescribed by the Board of Directors under this subsection when acting for or on behalf of the Corporation. Notwithstanding the preceding sentence, the rules of the Corporation shall not take priority over the ethics and conflict of interest rules and regulations promulgated by the Office of Government Ethics unless specifically authorized by that Office.
 
-([Sept. 21, 1950, ch. 967, § 2][/us/act/1950-09-21/ch967/s2]\[12\], [64 Stat. 887][/us/stat/64/887]; [Pub. L. 95–369, § 6(c)(23)][/us/pl/95/369/s6/c/23], Sept. 17, 1978, [92 Stat. 619][/us/stat/92/619]; [Pub. L. 97–320, title I, § 113][/us/pl/97/320/s113](l), Oct. 15, 1982, [96 Stat. 1474][/us/stat/96/1474]; [Pub. L. 101–73, title II][/us/pl/101/73], §§ 201(a), 216, Aug. 9, 1989, [103 Stat. 187][/us/stat/103/187], 254; [Pub. L. 103–44, § 1][/us/pl/103/44/s1], June 28, 1993, [107 Stat. 220][/us/stat/107/220]; [Pub. L. 103–204, § 19(a)][/us/pl/103/204/s19/a], Dec. 17, 1993, [107 Stat. 2402][/us/stat/107/2402]; [Pub. L. 104–179, § 4(b)(1)][/us/pl/104/179/s4/b/1], Aug. 6, 1996, [110 Stat. 1567][/us/stat/110/1567]; [Pub. L. 109–173, § 8(a)(18)][/us/pl/109/173/s8/a/18], Feb. 15, 2006, [119 Stat. 3613][/us/stat/119/3613]; [Pub. L. 110–289, div. A, title VI, § 1604(b)(1)(C)][/us/pl/110/289/s1604/b/1/C], July 30, 2008, [122 Stat. 2829][/us/stat/122/2829].)
+([Sept. 21, 1950, ch. 967][/us/act/1950-09-21/ch967], § 2\[12\], [64 Stat. 887][/us/stat/64/887]; [Pub. L. 95–369][/us/pl/95/369], § 6(c)(23), Sept. 17, 1978, [92 Stat. 619][/us/stat/92/619]; [Pub. L. 97–320, title I][/us/pl/97/320/tI], § 113(l), Oct. 15, 1982, [96 Stat. 1474][/us/stat/96/1474]; [Pub. L. 101–73, title II][/us/pl/101/73/tII], §§ 201(a), 216, Aug. 9, 1989, [103 Stat. 187][/us/stat/103/187], 254; [Pub. L. 103–44][/us/pl/103/44], § 1, June 28, 1993, [107 Stat. 220][/us/stat/107/220]; [Pub. L. 103–204][/us/pl/103/204], § 19(a), Dec. 17, 1993, [107 Stat. 2402][/us/stat/107/2402]; [Pub. L. 104–179][/us/pl/104/179], § 4(b)(1), Aug. 6, 1996, [110 Stat. 1567][/us/stat/110/1567]; [Pub. L. 109–173][/us/pl/109/173], § 8(a)(18), Feb. 15, 2006, [119 Stat. 3613][/us/stat/119/3613]; [Pub. L. 110–289, div. A, title VI][/us/pl/110/289/dA/tVI], § 1604(b)(1)(C), July 30, 2008, [122 Stat. 2829][/us/stat/122/2829].)
 
  __Prior Provisions__ 
 
@@ -179,15 +179,15 @@
 
     Subsec. (f). [Pub. L. 103–204][/us/pl/103/204] added subsec. (f).
 
-    1989—[Pub. L. 101–73, § 201(a)][/us/pl/101/73/s201/a], substituted references to insured depository institutions for references to insured banks wherever appearing in this section.
+    1989—[Pub. L. 101–73][/us/pl/101/73], § 201(a), substituted references to insured depository institutions for references to insured banks wherever appearing in this section.
 
-    Subsec. (a). [Pub. L. 101–73, § 216(2)][/us/pl/101/73/s216/2], inserted heading and text of subsec. (a), and struck out former subsec. (a) which read as follows: “Notwithstanding any other provision of law, the Corporation as receiver of a closed national bank, branch of a foreign bank, insured Federal savings bank, or District bank shall not be required to furnish bond and shall have the right to appoint an agent or agents to assist it in its duties as such receiver, and all fees, compensation, and expenses of liquidation and administration thereof shall be fixed by the Corporation, and may be paid by it out of funds coming into its possession as such receiver.”
+    Subsec. (a). [Pub. L. 101–73][/us/pl/101/73], § 216(2), inserted heading and text of subsec. (a), and struck out former subsec. (a) which read as follows: “Notwithstanding any other provision of law, the Corporation as receiver of a closed national bank, branch of a foreign bank, insured Federal savings bank, or District bank shall not be required to furnish bond and shall have the right to appoint an agent or agents to assist it in its duties as such receiver, and all fees, compensation, and expenses of liquidation and administration thereof shall be fixed by the Corporation, and may be paid by it out of funds coming into its possession as such receiver.”
 
-    Subsecs. (b), (c). [Pub. L. 101–73, § 216(1)][/us/pl/101/73/s216/1], substituted “depository institution in default” for “closed bank” wherever appearing.
+    Subsecs. (b), (c). [Pub. L. 101–73][/us/pl/101/73], § 216(1), substituted “depository institution in default” for “closed bank” wherever appearing.
 
-    Subsec. (d). [Pub. L. 101–73, § 216(1)][/us/pl/101/73/s216/1], (3), substituted “depository institution in default” for “closed bank” in three places, struck out “as a stockholder of the depository institution in default, or of any liability of such depositor” after “payment of any liability of such depositor”, and substituted “such depository institution” for “such bank”.
+    Subsec. (d). [Pub. L. 101–73][/us/pl/101/73], § 216(1), (3), substituted “depository institution in default” for “closed bank” in three places, struck out “as a stockholder of the depository institution in default, or of any liability of such depositor” after “payment of any liability of such depositor”, and substituted “such depository institution” for “such bank”.
 
-    Subsec. (e). [Pub. L. 101–73, § 216(1)][/us/pl/101/73/s216/1], substituted “depository institution in default” for “closed bank” wherever appearing.
+    Subsec. (e). [Pub. L. 101–73][/us/pl/101/73], § 216(1), substituted “depository institution in default” for “closed bank” wherever appearing.
 
     1982—Subsec. (a). [Pub. L. 97–320][/us/pl/97/320] inserted “insured Federal savings bank,” after “foreign bank,”.
 
@@ -199,11 +199,11 @@
 
  __Effective Date of 1993 Amendments__ 
 
-[Pub. L. 103–204, § 19(c)][/us/pl/103/204/s19/c], Dec. 17, 1993, [107 Stat. 2404][/us/stat/107/2404], provided that: 
+[Pub. L. 103–204][/us/pl/103/204], § 19(c), Dec. 17, 1993, [107 Stat. 2404][/us/stat/107/2404], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply after the end of the 6-month period beginning on the date of enactment of this Act \[Dec. 17, 1993\].”
 
-[Pub. L. 103–44, § 2][/us/pl/103/44/s2], June 28, 1993, [107 Stat. 221][/us/stat/107/221], provided that:
+[Pub. L. 103–44][/us/pl/103/44], § 2, June 28, 1993, [107 Stat. 221][/us/stat/107/221], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -234,23 +234,23 @@
 [/us/usc/t12/s1821/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1821%2Fg%2F1
 [/us/usc/t12/s1821/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1821%2Ff%2F1
 [/us/usc/t18/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs201
-[/us/act/1950-09-21/ch967/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967%2Fs2
+[/us/act/1950-09-21/ch967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967
 [/us/stat/64/887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F887
-[/us/pl/95/369/s6/c/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F369%2Fs6%2Fc%2F23
+[/us/pl/95/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F369
 [/us/stat/92/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F619
-[/us/pl/97/320/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs113
+[/us/pl/97/320/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2FtI
 [/us/stat/96/1474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1474
-[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
+[/us/pl/101/73/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtII
 [/us/stat/103/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F187
-[/us/pl/103/44/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F44%2Fs1
+[/us/pl/103/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F44
 [/us/stat/107/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F220
-[/us/pl/103/204/s19/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F204%2Fs19%2Fa
+[/us/pl/103/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F204
 [/us/stat/107/2402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2402
-[/us/pl/104/179/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F179%2Fs4%2Fb%2F1
+[/us/pl/104/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F179
 [/us/stat/110/1567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1567
-[/us/pl/109/173/s8/a/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173%2Fs8%2Fa%2F18
+[/us/pl/109/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173
 [/us/stat/119/3613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3613
-[/us/pl/110/289/s1604/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1604%2Fb%2F1%2FC
+[/us/pl/110/289/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtVI
 [/us/stat/122/2829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2829
 [/us/usc/t12/s264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs264
 [/us/usc/t12/s1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1811
@@ -259,19 +259,19 @@
 [/us/pl/104/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F179
 [/us/pl/103/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F44
 [/us/pl/103/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F204
-[/us/pl/101/73/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs201%2Fa
-[/us/pl/101/73/s216/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs216%2F2
-[/us/pl/101/73/s216/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs216%2F1
-[/us/pl/101/73/s216/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs216%2F1
-[/us/pl/101/73/s216/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs216%2F1
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
 [/us/pl/97/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320
 [/us/pl/95/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F369
 [/us/pl/109/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173
 [/us/pl/109/173/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173%2Fs8%2Fb
 [/us/usc/t12/s1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813
-[/us/pl/103/204/s19/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F204%2Fs19%2Fc
+[/us/pl/103/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F204
 [/us/stat/107/2404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2404
-[/us/pl/103/44/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F44%2Fs2
+[/us/pl/103/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F44
 [/us/stat/107/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F221
 [/us/usc/t12/s1821/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1821%2Ff
 [/us/usc/t12/s1822/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1822%2Fe

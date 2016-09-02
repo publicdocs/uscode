@@ -67,7 +67,7 @@
 
         (2) limits or prohibits a prepayment penalty (either fixed or declining), yield maintenance, or make-whole payment that may be charged, taken, or received by an agricultural lender or a certified facility in connection with the full or partial payment of the principal amount due on a loan by a borrower in advance of the scheduled date for the payment under the terms of the loan, otherwise known as a prepayment of the loan principal.
 
-([Pub. L. 92–181, title VIII, § 8][/us/pl/92/181/s8].12, as added [Pub. L. 100–233, title VII, § 702][/us/pl/100/233/s702], Jan. 6, 1988, [101 Stat. 1703][/us/stat/101/1703]; amended [Pub. L. 100–399, title VI, § 601(k)][/us/pl/100/399/s601/k], (l), Aug. 17, 1988, [102 Stat. 1006][/us/stat/102/1006]; [Pub. L. 104–105, title I, § 112][/us/pl/104/105/s112], Feb. 10, 1996, [110 Stat. 165][/us/stat/110/165].)
+([Pub. L. 92–181, title VIII][/us/pl/92/181/tVIII], § 8.12, as added [Pub. L. 100–233, title VII][/us/pl/100/233/tVII], § 702, Jan. 6, 1988, [101 Stat. 1703][/us/stat/101/1703]; amended [Pub. L. 100–399, title VI][/us/pl/100/399/tVI], § 601(k), (l), Aug. 17, 1988, [102 Stat. 1006][/us/stat/102/1006]; [Pub. L. 104–105, title I][/us/pl/104/105/tI], § 112, Feb. 10, 1996, [110 Stat. 165][/us/stat/110/165].)
 
  __References in Text__ 
 
@@ -79,9 +79,9 @@
 
     1996—Subsec. (d). [Pub. L. 104–105][/us/pl/104/105] added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: “Any provision of the constitution or law of any State which expressly limits the rate or amount of interest, discount points, finance charges, or other charges that may be charged, taken, received, or reserved by agricultural lenders or certified facilities shall not apply to any agricultural loan made by an originator or a certified facility in accordance with this subchapter that is included in a pool for which the Corporation has provided a guarantee.”
 
-    1988—Subsec. (a)(1). [Pub. L. 100–399, § 601(k)][/us/pl/100/399/s601/k], inserted “, or obligations backed by,” before “a pool”.
+    1988—Subsec. (a)(1). [Pub. L. 100–399][/us/pl/100/399], § 601(k), inserted “, or obligations backed by,” before “a pool”.
 
-    Subsec. (b)(2). [Pub. L. 100–399, § 601][/us/pl/100/399/s601](l), substituted “date of the enactment” for “effective date” both of which for purposes of codification was translated as “January 6, 1988,”.
+    Subsec. (b)(2). [Pub. L. 100–399][/us/pl/100/399], § 601(l), substituted “date of the enactment” for “effective date” both of which for purposes of codification was translated as “January 6, 1988,”.
 
  __Effective Date of 1988 Amendment__ 
 
@@ -97,12 +97,12 @@
 [/us/usc/t15/s77c/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77c%2Fa%2F2
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
 [/us/usc/t15/s80a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%931
-[/us/pl/92/181/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs8
-[/us/pl/100/233/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs702
+[/us/pl/92/181/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtVIII
+[/us/pl/100/233/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtVII
 [/us/stat/101/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1703
-[/us/pl/100/399/s601/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs601%2Fk
+[/us/pl/100/399/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtVI
 [/us/stat/102/1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1006
-[/us/pl/104/105/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2Fs112
+[/us/pl/104/105/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2FtI
 [/us/stat/110/165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F165
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
 [/us/stat/48/881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F881
@@ -111,8 +111,8 @@
 [/us/stat/54/789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F789
 [/us/usc/t15/s80a–51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%9351
 [/us/pl/104/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105
-[/us/pl/100/399/s601/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs601%2Fk
-[/us/pl/100/399/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs601
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
 [/us/pl/100/399/s1001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs1001%2Fa

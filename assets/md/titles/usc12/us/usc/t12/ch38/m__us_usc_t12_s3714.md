@@ -31,7 +31,7 @@
 
     (b) The deed executed by the foreclosure commissioner, the foreclosure commissioner’s affidavit and any other instruments submitted for recordation in relation to the foreclosure of the security property under this chapter shall be accepted for recordation by the registrar of deeds or other appropriate official of the county or counties in which the security property is located upon tendering of payment of the usual recording fees for such instruments.
 
-([Pub. L. 97–35, title III, § 369F][/us/pl/97/35/s369F], Aug. 13, 1981, [95 Stat. 430][/us/stat/95/430].)
+([Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 369F, Aug. 13, 1981, [95 Stat. 430][/us/stat/95/430].)
 
 ----------
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t12/s3711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3711
-[/us/pl/97/35/s369F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs369F
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F430
 
 

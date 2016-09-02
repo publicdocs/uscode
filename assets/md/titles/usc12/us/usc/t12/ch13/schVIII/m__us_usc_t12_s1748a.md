@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t12/ch13/schVIII/m__us_usc_t12_s1748.md) | [Next](./../../../../..//us/usc/t12/ch13/schVIII/m__us_usc_t12_s1748b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1748a)
 
-## § 1748a. Repealed. [Pub. L. 89–117, title XI, § 1108(aa)][/us/pl/89/117/s1108/aa], Aug. 10, 1965, [79 Stat. 507][/us/stat/79/507]
+## § 1748a. Repealed. [Pub. L. 89–117, title XI][/us/pl/89/117/tXI], § 1108(aa), Aug. 10, 1965, [79 Stat. 507][/us/stat/79/507]
 
-    Section, [act June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title VIII, § 802, as added [Aug. 8, 1949, ch. 403, § 1][/us/act/1949-08-08/ch403/s1], [63 Stat. 571][/us/stat/63/571]; amended [Aug. 11, 1955, ch. 783][/us/act/1955-08-11/ch783], title IV, § 401, [69 Stat. 646][/us/stat/69/646], created the Armed Services Housing Insurance Fund.
+    Section, [act June 27, 1934, ch. 847, title VIII][/us/act/1934-06-27/ch847/tVIII], § 802, as added [Aug. 8, 1949, ch. 403][/us/act/1949-08-08/ch403], § 1, [63 Stat. 571][/us/stat/63/571]; amended [Aug. 11, 1955, ch. 783][/us/act/1955-08-11/ch783], title IV, § 401, [69 Stat. 646][/us/stat/69/646], created the Armed Services Housing Insurance Fund.
 
     For establishment of the General Insurance Fund, see [section 1735c of this title][/us/usc/t12/s1735c].
 
@@ -26,10 +26,10 @@
 ----------
 ----------
 
-[/us/pl/89/117/s1108/aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117%2Fs1108%2Faa
+[/us/pl/89/117/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117%2FtXI
 [/us/stat/79/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F507
-[/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
-[/us/act/1949-08-08/ch403/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-08%2Fch403%2Fs1
+[/us/act/1934-06-27/ch847/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847%2FtVIII
+[/us/act/1949-08-08/ch403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-08%2Fch403
 [/us/stat/63/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F571
 [/us/act/1955-08-11/ch783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-11%2Fch783
 [/us/stat/69/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F646

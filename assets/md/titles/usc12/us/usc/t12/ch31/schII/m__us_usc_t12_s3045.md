@@ -17,7 +17,7 @@
 
     The Office may undertake investigations of new types of services which can more effectively be provided through cooperative not-for-profit organizations and make surveys of areas where the increased use of such organizations will contribute to the economic well-being of the community.
 
-([Pub. L. 95–351, title II, § 205][/us/pl/95/351/s205], Aug. 20, 1978, [92 Stat. 512][/us/stat/92/512].)
+([Pub. L. 95–351, title II][/us/pl/95/351/tII], § 205, Aug. 20, 1978, [92 Stat. 512][/us/stat/92/512].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/351/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F351%2Fs205
+[/us/pl/95/351/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F351%2FtII
 [/us/stat/92/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F512
 
 

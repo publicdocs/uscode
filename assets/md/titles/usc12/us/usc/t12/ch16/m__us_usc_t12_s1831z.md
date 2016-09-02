@@ -39,7 +39,7 @@
 
         The Chairperson of the Board of Directors shall submit a bi-annual report to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate containing the Corporation’s findings and conclusions with respect to the survey conducted pursuant to subsection (a), together with such recommendations for legislative or administrative action as the Chairperson may determine to be appropriate.
 
-([Sept. 21, 1950, ch. 967, § 2][/us/act/1950-09-21/ch967/s2]\[49\], as added [Pub. L. 109–173, § 7][/us/pl/109/173/s7], Feb. 15, 2006, [119 Stat. 3609][/us/stat/119/3609].)
+([Sept. 21, 1950, ch. 967][/us/act/1950-09-21/ch967], § 2\[49\], as added [Pub. L. 109–173][/us/pl/109/173], § 7, Feb. 15, 2006, [119 Stat. 3609][/us/stat/119/3609].)
 
 ----------
 
@@ -48,8 +48,8 @@
 ----------
 ----------
 
-[/us/act/1950-09-21/ch967/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967%2Fs2
-[/us/pl/109/173/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173%2Fs7
+[/us/act/1950-09-21/ch967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967
+[/us/pl/109/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173
 [/us/stat/119/3609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3609
 
 

@@ -17,7 +17,7 @@
 
     The Secretary of Agriculture, hereinafter referred to as the Secretary, is authorized and directed to compromise, adjust, or cancel indebtedness arising from loans and payments made or credit extended to farmers under the provisions of the several Acts of Congress or programs enumerated in [section 1150a of this title][/us/usc/t12/s1150a]: Provided, That the Secretary finds, after such investigation as he deems sufficient to establish the facts, that (1) said indebtedness has been due and payable for five years or more; (2) the debtor is unable to pay said indebtedness in full and has no reasonable prospect of being able to do so; (3) the debtor has acted in good faith in an effort to meet his obligation; and (4) the principal amount of said indebtedness is not in excess of $1,000. The Secretary is further authorized at his discretion to cancel and discharge indebtedness arising under said Acts of Congress or programs when the amount of said indebtedness is less than $10, or the debtor is deceased and there is no reasonable prospect of recovering from his estate, or his whereabouts has remained unknown for two years and there is no reasonable prospect of obtaining collection, or he has been discharged of the indebtedness in any proceeding under the Bankruptcy Act or under title 11. The compromises, adjustments, or cancelations  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “cancellations”. </sup></sup>  authorized by this section shall be effected through such agencies, upon such terms and conditions, and subject to such regulations, as the Secretary may prescribe, and the Secretary may delegate the exercise of any such powers and functions to such officers or employees of the Department of Agriculture as he may designate.
 
-([Dec. 20, 1944, ch. 623, § 1][/us/act/1944-12-20/ch623/s1], [58 Stat. 836][/us/stat/58/836]; [Pub. L. 95–598, title III, § 305][/us/pl/95/598/s305], Nov. 6, 1978, [92 Stat. 2674][/us/stat/92/2674].)
+([Dec. 20, 1944, ch. 623][/us/act/1944-12-20/ch623], § 1, [58 Stat. 836][/us/stat/58/836]; [Pub. L. 95–598, title III][/us/pl/95/598/tIII], § 305, Nov. 6, 1978, [92 Stat. 2674][/us/stat/92/2674].)
 
  __References in Text__ 
 
@@ -47,9 +47,9 @@
 ----------
 
 [/us/usc/t12/s1150a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1150a
-[/us/act/1944-12-20/ch623/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-12-20%2Fch623%2Fs1
+[/us/act/1944-12-20/ch623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-12-20%2Fch623
 [/us/stat/58/836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F836
-[/us/pl/95/598/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs305
+[/us/pl/95/598/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2FtIII
 [/us/stat/92/2674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2674
 [/us/act/1898-07-01/ch541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1898-07-01%2Fch541
 [/us/stat/30/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F30%2F544

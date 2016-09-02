@@ -105,21 +105,21 @@
 
         The resignation, termination of employment or participation, or separation of an institution-affiliated party (within the meaning of [section 1813(u) of this title][/us/usc/t12/s1813/u]) with respect to a member bank (including a separation caused by the closing of such a bank) shall not affect the jurisdiction and authority of the appropriate Federal banking agency to issue any notice and proceed under this section against any such party, if such notice is served before the end of the 6-year period beginning on the date such party ceased to be such a party with respect to such bank (whether such date occurs before, on, or after August 9, 1989).
 
-([Dec. 23, 1913, ch. 6, § 29][/us/act/1913-12-23/ch6/s29], as added [Pub. L. 95–630, title I, § 101][/us/pl/95/630/s101], Nov. 10, 1978, [92 Stat. 3641][/us/stat/92/3641]; amended [Pub. L. 97–320, title IV, § 424(c)][/us/pl/97/320/s424/c], (d)(1), (e), Oct. 15, 1982, [96 Stat. 1523][/us/stat/96/1523]; [Pub. L. 101–73, title IX][/us/pl/101/73], §§ 905(f), 907(g), Aug. 9, 1989, [103 Stat. 461][/us/stat/103/461], 470.)
+([Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 29, as added [Pub. L. 95–630, title I][/us/pl/95/630/tI], § 101, Nov. 10, 1978, [92 Stat. 3641][/us/stat/92/3641]; amended [Pub. L. 97–320, title IV][/us/pl/97/320/tIV], § 424(c), (d)(1), (e), Oct. 15, 1982, [96 Stat. 1523][/us/stat/96/1523]; [Pub. L. 101–73, title IX][/us/pl/101/73/tIX], §§ 905(f), 907(g), Aug. 9, 1989, [103 Stat. 461][/us/stat/103/461], 470.)
 
  __Codification__ 
 
-    In subsec. (a), “section 371c, 371c–1, 375, 375a, 375b, 376, or 503 of this title” was in the original “section 22, 23A, or 23B”, meaning section 22, 23A, or 23B of the Federal Reserve Act. Sections 23A and 23B are classified to sections 371c and 371c–1, respectively, of this title. Subsections (d) to (h) of section 22 are classified to sections 375, 375a, 375b, 376, and 503 of this title. The text of [section 375 of this title][/us/usc/t12/s375] was struck out by [Pub. L. 111–203, title VI, § 615(b)][/us/pl/111/203/s615/b], July 21, 2010, [124 Stat. 1615][/us/stat/124/1615].
+    In subsec. (a), “section 371c, 371c–1, 375, 375a, 375b, 376, or 503 of this title” was in the original “section 22, 23A, or 23B”, meaning section 22, 23A, or 23B of the Federal Reserve Act. Sections 23A and 23B are classified to sections 371c and 371c–1, respectively, of this title. Subsections (d) to (h) of section 22 are classified to sections 375, 375a, 375b, 376, and 503 of this title. The text of [section 375 of this title][/us/usc/t12/s375] was struck out by [Pub. L. 111–203, title VI][/us/pl/111/203/tVI], § 615(b), July 21, 2010, [124 Stat. 1615][/us/stat/124/1615].
 
  __Amendments__ 
 
-    1989—[Pub. L. 101–73, § 907(g)][/us/pl/101/73/s907/g], amended section generally, substituting provisions of subsecs. (a) to (i) for former provisions which related to the following: subsec. (a), making loans, extensions of credit, purchases of securities, etc., respecting affiliates, executive officers, etc.; subsec. (b), amount of penalty; subsec. (c), opportunity for hearing; subsec. (d), review by United States court of appeals; subsec. (e), action by Attorney General for failure to pay assessment; subsec. (f), promulgation of regulations; and subsec. (g), penalties covered into Treasury of United States.
+    1989—[Pub. L. 101–73][/us/pl/101/73], § 907(g), amended section generally, substituting provisions of subsecs. (a) to (i) for former provisions which related to the following: subsec. (a), making loans, extensions of credit, purchases of securities, etc., respecting affiliates, executive officers, etc.; subsec. (b), amount of penalty; subsec. (c), opportunity for hearing; subsec. (d), review by United States court of appeals; subsec. (e), action by Attorney General for failure to pay assessment; subsec. (f), promulgation of regulations; and subsec. (g), penalties covered into Treasury of United States.
 
-    Subsec. (m). [Pub. L. 101–73, § 905(f)][/us/pl/101/73/s905/f], added subsec. (m).
+    Subsec. (m). [Pub. L. 101–73][/us/pl/101/73], § 905(f), added subsec. (m).
 
-    1982—Subsec. (a). [Pub. L. 97–320, § 424(c)][/us/pl/97/320/s424/c], (d)(1), inserted proviso giving agency discretionary authority to compromise, etc., any civil money penalty imposed under its authority, and substituted “may be assessed” for “shall be assessed”, respectively.
+    1982—Subsec. (a). [Pub. L. 97–320][/us/pl/97/320], § 424(c), (d)(1), inserted proviso giving agency discretionary authority to compromise, etc., any civil money penalty imposed under its authority, and substituted “may be assessed” for “shall be assessed”, respectively.
 
-    Subsec. (d). [Pub. L. 97–320, § 424(e)][/us/pl/97/320/s424/e], substituted “twenty days from the service” for “ten days from the date”.
+    Subsec. (d). [Pub. L. 97–320][/us/pl/97/320], § 424(e), substituted “twenty days from the service” for “ten days from the date”.
 
  __Effective Date of 1989 Amendment__ 
 
@@ -142,20 +142,20 @@
 [/us/usc/t12/s1818/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1818%2Fi%2F2
 [/us/usc/t12/s1818/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1818%2Fh
 [/us/usc/t12/s1813/u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813%2Fu
-[/us/act/1913-12-23/ch6/s29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs29
-[/us/pl/95/630/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs101
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
+[/us/pl/95/630/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtI
 [/us/stat/92/3641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3641
-[/us/pl/97/320/s424/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs424%2Fc
+[/us/pl/97/320/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2FtIV
 [/us/stat/96/1523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1523
-[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
+[/us/pl/101/73/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtIX
 [/us/stat/103/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F461
 [/us/usc/t12/s375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs375
-[/us/pl/111/203/s615/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs615%2Fb
+[/us/pl/111/203/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVI
 [/us/stat/124/1615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1615
-[/us/pl/101/73/s907/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs907%2Fg
-[/us/pl/101/73/s905/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs905%2Ff
-[/us/pl/97/320/s424/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs424%2Fc
-[/us/pl/97/320/s424/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs424%2Fe
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
+[/us/pl/97/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320
+[/us/pl/97/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320
 [/us/pl/101/73/s907/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs907%2Fg
 [/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
 [/us/usc/t12/s93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs93

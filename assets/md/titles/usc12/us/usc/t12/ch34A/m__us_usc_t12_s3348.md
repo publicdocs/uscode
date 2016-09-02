@@ -33,17 +33,17 @@
 
         The Appraisal Subcommittee, any other Federal agency or instrumentality, or any federally recognized entity shall report any action of a State certified or licensed appraiser that is contrary to the purposes of this chapter, to the appropriate State agency for a disposition of the subject of the referral. The State agency shall provide the Appraisal Subcommittee or the other Federal agency or instrumentality with a report on its disposition of the matter referred. Subsequent to such disposition, the subcommittee or the agency or instrumentality may take such further action, pursuant to written procedures, it deems necessary to carry out the purposes of this chapter.
 
-([Pub. L. 101–73, title XI, § 1119][/us/pl/101/73/s1119], Aug. 9, 1989, [103 Stat. 516][/us/stat/103/516]; [Pub. L. 102–233, title VII, § 701(b)][/us/pl/102/233/s701/b], Dec. 12, 1991, [105 Stat. 1792][/us/stat/105/1792]; [Pub. L. 102–242, title IV, § 472(b)][/us/pl/102/242/s472/b], Dec. 19, 1991, [105 Stat. 2386][/us/stat/105/2386]; [Pub. L. 102–550, title XVI, § 1617(a)][/us/pl/102/550/s1617/a], Oct. 28, 1992, [106 Stat. 4096][/us/stat/106/4096]; [Pub. L. 111–203, title XIV, § 1473(t)(1)][/us/pl/111/203/s1473/t/1], July 21, 2010, [124 Stat. 2199][/us/stat/124/2199].)
+([Pub. L. 101–73, title XI][/us/pl/101/73/tXI], § 1119, Aug. 9, 1989, [103 Stat. 516][/us/stat/103/516]; [Pub. L. 102–233, title VII][/us/pl/102/233/tVII], § 701(b), Dec. 12, 1991, [105 Stat. 1792][/us/stat/105/1792]; [Pub. L. 102–242, title IV][/us/pl/102/242/tIV], § 472(b), Dec. 19, 1991, [105 Stat. 2386][/us/stat/105/2386]; [Pub. L. 102–550, title XVI][/us/pl/102/550/tXVI], § 1617(a), Oct. 28, 1992, [106 Stat. 4096][/us/stat/106/4096]; [Pub. L. 111–203, title XIV][/us/pl/111/203/tXIV], § 1473(t)(1), July 21, 2010, [124 Stat. 2199][/us/stat/124/2199].)
 
  __Amendments__ 
 
     2010—Subsec. (a)(2). [Pub. L. 111–203][/us/pl/111/203] substituted “Council,” for “council,”.
 
-    1992—Subsecs. (a)(1), (b). [Pub. L. 102–550, § 1617(a)][/us/pl/102/550/s1617/a], repealed [Pub. L. 102–233, § 701(b)][/us/pl/102/233/s701/b]. See 1991 Amendment note below.
+    1992—Subsecs. (a)(1), (b). [Pub. L. 102–550][/us/pl/102/550], § 1617(a), repealed [Pub. L. 102–233][/us/pl/102/233], § 701(b). See 1991 Amendment note below.
 
-    1991—Subsec. (a)(1). [Pub. L. 102–242, § 472(b)(1)][/us/pl/102/242/s472/b/1], substituted “December 31, 1992” for “July 1, 1991”. [Pub. L. 102–233, § 701(b)(1)][/us/pl/102/233/s701/b/1], which made an identical amendment, was repealed by [Pub. L. 102–550, § 1617(a)][/us/pl/102/550/s1617/a]. See Construction of 1991 Amendment note below.
+    1991—Subsec. (a)(1). [Pub. L. 102–242][/us/pl/102/242], § 472(b)(1), substituted “December 31, 1992” for “July 1, 1991”. [Pub. L. 102–233][/us/pl/102/233], § 701(b)(1), which made an identical amendment, was repealed by [Pub. L. 102–550][/us/pl/102/550], § 1617(a). See Construction of 1991 Amendment note below.
 
-    Subsec. (b). [Pub. L. 102–242, § 472(b)(2)][/us/pl/102/242/s472/b/2], substituted “, or in any geographical political subdivision of a State, leading to significant delays” for “leading to inordinate delays” in first sentence and “significant” for “inordinate” in second sentence. [Pub. L. 102–233, § 701(b)(2)][/us/pl/102/233/s701/b/2], which made an identical amendment, was repealed by [Pub. L. 102–550, § 1617(a)][/us/pl/102/550/s1617/a]. See Construction of 1991 Amendment note below.
+    Subsec. (b). [Pub. L. 102–242][/us/pl/102/242], § 472(b)(2), substituted “, or in any geographical political subdivision of a State, leading to significant delays” for “leading to inordinate delays” in first sentence and “significant” for “inordinate” in second sentence. [Pub. L. 102–233][/us/pl/102/233], § 701(b)(2), which made an identical amendment, was repealed by [Pub. L. 102–550][/us/pl/102/550], § 1617(a). See Construction of 1991 Amendment note below.
 
  __Effective Date of 2010 Amendment__ 
 
@@ -60,25 +60,25 @@
 ----------
 ----------
 
-[/us/pl/101/73/s1119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs1119
+[/us/pl/101/73/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtXI
 [/us/stat/103/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F516
-[/us/pl/102/233/s701/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F233%2Fs701%2Fb
+[/us/pl/102/233/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F233%2FtVII
 [/us/stat/105/1792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1792
-[/us/pl/102/242/s472/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs472%2Fb
+[/us/pl/102/242/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtIV
 [/us/stat/105/2386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2386
-[/us/pl/102/550/s1617/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1617%2Fa
+[/us/pl/102/550/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXVI
 [/us/stat/106/4096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4096
-[/us/pl/111/203/s1473/t/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1473%2Ft%2F1
+[/us/pl/111/203/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtXIV
 [/us/stat/124/2199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2199
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
-[/us/pl/102/550/s1617/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1617%2Fa
-[/us/pl/102/233/s701/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F233%2Fs701%2Fb
-[/us/pl/102/242/s472/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs472%2Fb%2F1
-[/us/pl/102/233/s701/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F233%2Fs701%2Fb%2F1
-[/us/pl/102/550/s1617/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1617%2Fa
-[/us/pl/102/242/s472/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs472%2Fb%2F2
-[/us/pl/102/233/s701/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F233%2Fs701%2Fb%2F2
-[/us/pl/102/550/s1617/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1617%2Fa
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F233
+[/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
+[/us/pl/102/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F233
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
+[/us/pl/102/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F233
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s1400/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1400%2Fc
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601

@@ -23,7 +23,7 @@
 
         Subject to approval in appropriation Acts, not more than $50,000,000 of the amounts made available under subsection (a) for fiscal year 1993, and not more than $50,000,000 of the amounts made available under subsection (a) for fiscal year 1994, shall be available for grants under [section 4111(d)(2) of this title][/us/usc/t12/s4111/d/2].
 
-([Pub. L. 100–242, title II, § 234][/us/pl/100/242/s234], as added [Pub. L. 101–625, title VI, § 601(a)][/us/pl/101/625/s601/a], Nov. 28, 1990, [104 Stat. 4274][/us/stat/104/4274]; amended [Pub. L. 102–550, title III, § 301][/us/pl/102/550/s301], Oct. 28, 1992, [106 Stat. 3762][/us/stat/106/3762].)
+([Pub. L. 100–242, title II][/us/pl/100/242/tII], § 234, as added [Pub. L. 101–625, title VI][/us/pl/101/625/tVI], § 601(a), Nov. 28, 1990, [104 Stat. 4274][/us/stat/104/4274]; amended [Pub. L. 102–550, title III][/us/pl/102/550/tIII], § 301, Oct. 28, 1992, [106 Stat. 3762][/us/stat/106/3762].)
 
  __Amendments__ 
 
@@ -41,10 +41,10 @@
 ----------
 
 [/us/usc/t12/s4111/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4111%2Fd%2F2
-[/us/pl/100/242/s234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs234
-[/us/pl/101/625/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs601%2Fa
+[/us/pl/100/242/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtII
+[/us/pl/101/625/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtVI
 [/us/stat/104/4274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4274
-[/us/pl/102/550/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs301
+[/us/pl/102/550/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtIII
 [/us/stat/106/3762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3762
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/usc/t12/s4111/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4111%2Fd%2F2

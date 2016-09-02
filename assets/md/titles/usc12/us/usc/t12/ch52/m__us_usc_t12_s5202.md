@@ -61,7 +61,7 @@
 
         (B) any other financial instrument that the Secretary, after consultation with the Chairman of the Board of Governors of the Federal Reserve System, determines the purchase of which is necessary to promote financial market stability, but only upon transmittal of such determination, in writing, to the appropriate committees of Congress.
 
-([Pub. L. 110–343, div. A, § 3][/us/pl/110/343/s3], Oct. 3, 2008, [122 Stat. 3766][/us/stat/122/3766].)
+([Pub. L. 110–343, div. A][/us/pl/110/343/dA], § 3, Oct. 3, 2008, [122 Stat. 3766][/us/stat/122/3766].)
 
  __References in Text__ 
 
@@ -76,7 +76,7 @@
 
 [/us/usc/t12/s5212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5212
 [/us/usc/t12/s5211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5211
-[/us/pl/110/343/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs3
+[/us/pl/110/343/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdA
 [/us/stat/122/3766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3766
 [/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
 [/us/stat/122/3765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3765

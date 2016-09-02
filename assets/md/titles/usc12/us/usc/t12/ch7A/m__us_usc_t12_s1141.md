@@ -31,7 +31,7 @@
 
     (c) The Farm Credit Administration shall execute the powers vested in it by this chapter only in such manner as will, in the judgment of the administration, aid to the fullest practicable extent in carrying out the policy above declared.
 
-([June 15, 1929, ch. 24, § 1][/us/act/1929-06-15/ch24/s1], [46 Stat. 11][/us/stat/46/11]; Ex. Ord. No. 6084, Mar. 27, 1933.)
+([June 15, 1929, ch. 24][/us/act/1929-06-15/ch24], § 1, [46 Stat. 11][/us/stat/46/11]; Ex. Ord. No. 6084, Mar. 27, 1933.)
 
  __Codification__ 
 
@@ -60,7 +60,7 @@
 ----------
 ----------
 
-[/us/act/1929-06-15/ch24/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-06-15%2Fch24%2Fs1
+[/us/act/1929-06-15/ch24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-06-15%2Fch24
 [/us/stat/46/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F11
 [/us/usc/t7/s521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs521
 [/us/usc/t12/s2241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2241

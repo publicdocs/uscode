@@ -25,7 +25,7 @@
 
     (4) No person subject to investigation or examination under this section may knowingly withhold, abstract, remove, mutilate, destroy, or secrete any books, records, computer records, or other information.
 
-([Pub. L. 110–289, div. A, title V, § 1515][/us/pl/110/289/s1515], July 30, 2008, [122 Stat. 2823][/us/stat/122/2823].)
+([Pub. L. 110–289, div. A, title V][/us/pl/110/289/dA/tV], § 1515, July 30, 2008, [122 Stat. 2823][/us/stat/122/2823].)
 
 ----------
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/110/289/s1515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1515
+[/us/pl/110/289/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtV
 [/us/stat/122/2823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2823
 
 

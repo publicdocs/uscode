@@ -45,7 +45,7 @@
 
         (3) not later than 2 years after completion of the review required by paragraph (1), submit a report to the Congress on the results of its actions taken in accordance with this subsection and any recommended legislative actions.
 
-([Pub. L. 103–325, title III, § 303][/us/pl/103/325/s303], Sept. 23, 1994, [108 Stat. 2215][/us/stat/108/2215]; [Pub. L. 104–208, div. A, title II, § 2242][/us/pl/104/208/s2242], Sept. 30, 1996, [110 Stat. 3009–418][/us/stat/110/3009-418].)
+([Pub. L. 103–325, title III][/us/pl/103/325/tIII], § 303, Sept. 23, 1994, [108 Stat. 2215][/us/stat/108/2215]; [Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], § 2242, Sept. 30, 1996, [110 Stat. 3009–418][/us/stat/110/3009-418].)
 
  __References in Text__ 
 
@@ -57,7 +57,7 @@
 
  __Update on Review of Regulations and Paperwork Reductions__ 
 
-[Pub. L. 105–219, title IV, § 402][/us/pl/105/219/s402], Aug. 7, 1998, [112 Stat. 935][/us/stat/112/935], provided that: 
+[Pub. L. 105–219, title IV][/us/pl/105/219/tIV], § 402, Aug. 7, 1998, [112 Stat. 935][/us/stat/112/935], provided that: 
 
 > “Not later than 1 year after the date of enactment of this Act \[Aug. 7, 1998\], the Federal banking agencies \[see [12 U.S.C. 1813(z)][/us/usc/t12/s1813/z]\] shall submit a report to the Congress detailing their progress in carrying out section 303(a) of the Riegle Community Development and Regulatory Improvement Act of 1994 \[[12 U.S.C. 4803(a)][/us/usc/t12/s4803/a]\], since their submission of the report dated September 23, 1996, as required by section 303(a)(4) of that Act.”
 
@@ -69,15 +69,15 @@
 ----------
 
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601
-[/us/pl/103/325/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs303
+[/us/pl/103/325/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtIII
 [/us/stat/108/2215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2215
-[/us/pl/104/208/s2242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2242
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-418
 [/us/pl/90/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321
 [/us/stat/82/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F146
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
-[/us/pl/105/219/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F219%2Fs402
+[/us/pl/105/219/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F219%2FtIV
 [/us/stat/112/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F935
 [/us/usc/t12/s1813/z]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813%2Fz
 [/us/usc/t12/s4803/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4803%2Fa

@@ -19,7 +19,7 @@
 
     (b) Within ten days after the institution concerned or any director, officer, employee, agent, or other person participating in the conduct of the affairs of such institution has been served with a temporary cease and desist order, the institution or such director, officer, employee, agent, or other person may apply to the United States district court for the judicial district in which the home office of the institution is located, or the United States district court for the District of Columbia, for an injunction setting aside, limiting, or suspending the enforcement, operation, or effectiveness of such order pending the completion of the administrative proceedings pursuant to the notice of charges served upon the institution or such director, officer, employee, agent, or other person under [section 2261 of this title][/us/usc/t12/s2261], and such court shall have jurisdiction to issue such injunction.
 
-([Pub. L. 92–181, title V, § 5][/us/pl/92/181/s5].26, as added [Pub. L. 99–205, title II, § 204][/us/pl/99/205/s204], Dec. 23, 1985, [99 Stat. 1695][/us/stat/99/1695].)
+([Pub. L. 92–181, title V][/us/pl/92/181/tV], § 5.26, as added [Pub. L. 99–205, title II][/us/pl/99/205/tII], § 204, Dec. 23, 1985, [99 Stat. 1695][/us/stat/99/1695].)
 
  __Prior Provisions__ 
 
@@ -39,8 +39,8 @@
 [/us/usc/t12/s2261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2261
 [/us/usc/t12/s2261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2261
 [/us/usc/t12/s2261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2261
-[/us/pl/92/181/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs5
-[/us/pl/99/205/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2Fs204
+[/us/pl/92/181/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtV
+[/us/pl/99/205/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2FtII
 [/us/stat/99/1695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1695
 [/us/pl/92/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181
 [/us/usc/t12/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2001

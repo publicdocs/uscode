@@ -91,7 +91,7 @@
 
             No provision of this title 1 shall be construed as altering, limiting, or affecting the authority of a State insurance commission or State insurance regulator under State law to adopt rules, initiate enforcement proceedings, or take any other action with respect to a person regulated by such commission or regulator.
 
-([Pub. L. 111–203, title X, § 1042][/us/pl/111/203/s1042], July 21, 2010, [124 Stat. 2012][/us/stat/124/2012].)
+([Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1042, July 21, 2010, [124 Stat. 2012][/us/stat/124/2012].)
 
  __References in Text__ 
 
@@ -108,7 +108,7 @@
 ----------
 ----------
 
-[/us/pl/111/203/s1042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1042
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2012
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1955

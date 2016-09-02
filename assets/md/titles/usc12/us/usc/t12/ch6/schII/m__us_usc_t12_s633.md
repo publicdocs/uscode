@@ -29,7 +29,7 @@
 
         The Board and the Comptroller of the Currency may jointly prescribe such regulations as they deem necessary to implement this section.
 
-([Dec. 23, 1913, ch. 6, § 25C][/us/act/1913-12-23/ch6/s25C], as added [Pub. L. 103–325, title III, § 326(a)][/us/pl/103/325/s326/a], Sept. 23, 1994, [108 Stat. 2229][/us/stat/108/2229].)
+([Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 25C, as added [Pub. L. 103–325, title III][/us/pl/103/325/tIII], § 326(a), Sept. 23, 1994, [108 Stat. 2229][/us/stat/108/2229].)
 
  __Codification__ 
 
@@ -37,7 +37,7 @@
 
  __Existing Claims Not Affected__ 
 
-[Pub. L. 103–325, title III, § 326(c)][/us/pl/103/325/s326/c], Sept. 23, 1994, [108 Stat. 2229][/us/stat/108/2229], provided that: 
+[Pub. L. 103–325, title III][/us/pl/103/325/tIII], § 326(c), Sept. 23, 1994, [108 Stat. 2229][/us/stat/108/2229], provided that: 
 
 > “Section 25C of the Federal Reserve Act \[this section\] (as added by subsection (a)) shall not be applied retroactively and shall not be construed to affect or apply to any claim or cause of action addressed by that section arising from events or circumstances that occurred before the date of enactment of this Act \[Sept. 23, 1994\].”
 
@@ -48,10 +48,10 @@
 ----------
 ----------
 
-[/us/act/1913-12-23/ch6/s25C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs25C
-[/us/pl/103/325/s326/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs326%2Fa
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
+[/us/pl/103/325/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtIII
 [/us/stat/108/2229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2229
-[/us/pl/103/325/s326/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs326%2Fc
+[/us/pl/103/325/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtIII
 [/us/stat/108/2229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2229
 
 

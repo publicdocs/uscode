@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t12/ch11/m__us_usc_t12_s1422.md) | [Next](./../../../..//us/usc/t12/ch11/m__us_usc_t12_s1424.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1423)
+[Previous](./../../../..//us/usc/t12/ch11/m__us_usc_t12_s1422a _us_usc_t12_s1422b.md) | [Next](./../../../..//us/usc/t12/ch11/m__us_usc_t12_s1424.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1423)
 
 ## § 1423. Federal Home Loan Bank districts; number and boundaries; establishment of Federal Home Loan Banks; names
 
@@ -27,13 +27,13 @@
 
         (2) pursuant to a decision by the Director to liquidate a Bank pursuant to [section 4617 of this title][/us/usc/t12/s4617].
 
-([July 22, 1932, ch. 522, § 3][/us/act/1932-07-22/ch522/s3], [47 Stat. 726][/us/stat/47/726]; [July 14, 1952, ch. 723, § 10(c)][/us/act/1952-07-14/ch723/s10/c], [66 Stat. 604][/us/stat/66/604]; [Pub. L. 101–73, title VII, § 701(b)(1)][/us/pl/101/73/s701/b/1], (3)(A), Aug. 9, 1989, [103 Stat. 412][/us/stat/103/412]; [Pub. L. 110–289, div. A, title II][/us/pl/110/289], §§ 1204(8), 1210, July 30, 2008, [122 Stat. 2786][/us/stat/122/2786], 2790.)
+([July 22, 1932, ch. 522][/us/act/1932-07-22/ch522], § 3, [47 Stat. 726][/us/stat/47/726]; [July 14, 1952, ch. 723][/us/act/1952-07-14/ch723], § 10(c), [66 Stat. 604][/us/stat/66/604]; [Pub. L. 101–73, title VII][/us/pl/101/73/tVII], § 701(b)(1), (3)(A), Aug. 9, 1989, [103 Stat. 412][/us/stat/103/412]; [Pub. L. 110–289, div. A, title II][/us/pl/110/289/dA/tII], §§ 1204(8), 1210, July 30, 2008, [122 Stat. 2786][/us/stat/122/2786], 2790.)
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–289, § 1210][/us/pl/110/289/s1210], designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+    2008—[Pub. L. 110–289][/us/pl/110/289], § 1210, designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
-    [Pub. L. 110–289, § 1204(8)][/us/pl/110/289/s1204/8], substituted “the Director” for “the Board” wherever appearing.
+    [Pub. L. 110–289][/us/pl/110/289], § 1204(8), substituted “the Director” for “the Board” wherever appearing.
 
     1989—[Pub. L. 101–73][/us/pl/101/73] substituted “Board” for “board” wherever appearing.
 
@@ -45,23 +45,23 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t12/ch11/m__us_usc_t12_s1422.md) | [Next](./../../../..//us/usc/t12/ch11/m__us_usc_t12_s1424.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1423)
+[Previous](./../../../..//us/usc/t12/ch11/m__us_usc_t12_s1422a _us_usc_t12_s1422b.md) | [Next](./../../../..//us/usc/t12/ch11/m__us_usc_t12_s1424.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1423)
 
 ----------
 ----------
 
 [/us/usc/t12/s1446/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1446%2Fb
 [/us/usc/t12/s4617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4617
-[/us/act/1932-07-22/ch522/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-07-22%2Fch522%2Fs3
+[/us/act/1932-07-22/ch522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-07-22%2Fch522
 [/us/stat/47/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F726
-[/us/act/1952-07-14/ch723/s10/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-14%2Fch723%2Fs10%2Fc
+[/us/act/1952-07-14/ch723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-14%2Fch723
 [/us/stat/66/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F604
-[/us/pl/101/73/s701/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs701%2Fb%2F1
+[/us/pl/101/73/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtVII
 [/us/stat/103/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F412
-[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtII
 [/us/stat/122/2786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2786
-[/us/pl/110/289/s1210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1210
-[/us/pl/110/289/s1204/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1204%2F8
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
 [/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
 [/us/pl/85/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508
 [/us/stat/72/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F339

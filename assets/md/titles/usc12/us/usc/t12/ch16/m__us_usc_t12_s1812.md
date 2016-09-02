@@ -117,11 +117,11 @@
 
             This subsection shall not be construed to limit or alter in any way the immunities that are available under applicable law for Federal officials and employees not described in this subsection.
 
-([Sept. 21, 1950, ch. 967, § 2][/us/act/1950-09-21/ch967/s2]\[2\], [64 Stat. 873][/us/stat/64/873]; [Pub. L. 86–230, § 19][/us/pl/86/230/s19], Sept. 8, 1959, [73 Stat. 460][/us/stat/73/460]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title VII, § 702(a)\], Nov. 30, 1983, [97 Stat. 1267][/us/stat/97/1267]; [Pub. L. 101–73, title II, § 203(a)][/us/pl/101/73/s203/a], Aug. 9, 1989, [103 Stat. 188][/us/stat/103/188]; [Pub. L. 102–18, title I, § 103(b)][/us/pl/102/18/s103/b], Mar. 23, 1991, [105 Stat. 60][/us/stat/105/60]; [Pub. L. 104–208, div. A, title II, § 2243][/us/pl/104/208/s2243], Sept. 30, 1996, [110 Stat. 3009–419][/us/stat/110/3009-419]; [Pub. L. 111–203, title III, § 336(a)][/us/pl/111/203/s336/a], July 21, 2010, [124 Stat. 1540][/us/stat/124/1540].)
+([Sept. 21, 1950, ch. 967][/us/act/1950-09-21/ch967], § 2\[2\], [64 Stat. 873][/us/stat/64/873]; [Pub. L. 86–230][/us/pl/86/230], § 19, Sept. 8, 1959, [73 Stat. 460][/us/stat/73/460]; [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title VII, § 702(a)\], Nov. 30, 1983, [97 Stat. 1267][/us/stat/97/1267]; [Pub. L. 101–73, title II][/us/pl/101/73/tII], § 203(a), Aug. 9, 1989, [103 Stat. 188][/us/stat/103/188]; [Pub. L. 102–18, title I][/us/pl/102/18/tI], § 103(b), Mar. 23, 1991, [105 Stat. 60][/us/stat/105/60]; [Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], § 2243, Sept. 30, 1996, [110 Stat. 3009–419][/us/stat/110/3009-419]; [Pub. L. 111–203, title III][/us/pl/111/203/tIII], § 336(a), July 21, 2010, [124 Stat. 1540][/us/stat/124/1540].)
 
  __References in Text__ 
 
-    The Securities Act of 1933, referred to in subsec. (f)(1), is [act May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title I, [48 Stat. 74][/us/stat/48/74], which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 77a of Title 15][/us/usc/t15/s77a] and Tables.
+    The Securities Act of 1933, referred to in subsec. (f)(1), is [act May 27, 1933, ch. 38, title I][/us/act/1933-05-27/ch38/tI], [48 Stat. 74][/us/stat/48/74], which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 77a of Title 15][/us/usc/t15/s77a] and Tables.
 
  __Prior Provisions__ 
 
@@ -129,11 +129,11 @@
 
  __Amendments__ 
 
-    2010—Subsec. (a)(1)(B). [Pub. L. 111–203, § 336(a)(1)][/us/pl/111/203/s336/a/1], substituted “Director of the Consumer Financial Protection Bureau” for “Director of the Office of Thrift Supervision”.
+    2010—Subsec. (a)(1)(B). [Pub. L. 111–203][/us/pl/111/203], § 336(a)(1), substituted “Director of the Consumer Financial Protection Bureau” for “Director of the Office of Thrift Supervision”.
 
-    Subsec. (d)(2). [Pub. L. 111–203, § 336(a)(2)][/us/pl/111/203/s336/a/2], amended par. (2) generally. Prior to amendment, text read as follows: “In the event of a vacancy in the office of the Comptroller of the Currency or the office of Director of the Office of Thrift Supervision and pending the appointment of a successor, or during the absence or disability of the Comptroller or such Director, the acting Comptroller of the Currency or the acting Director of the Office of Thrift Supervision, as the case may be, shall be a member of the Board of Directors in the place of the Comptroller or Director.”
+    Subsec. (d)(2). [Pub. L. 111–203][/us/pl/111/203], § 336(a)(2), amended par. (2) generally. Prior to amendment, text read as follows: “In the event of a vacancy in the office of the Comptroller of the Currency or the office of Director of the Office of Thrift Supervision and pending the appointment of a successor, or during the absence or disability of the Comptroller or such Director, the acting Comptroller of the Currency or the acting Director of the Office of Thrift Supervision, as the case may be, shall be a member of the Board of Directors in the place of the Comptroller or Director.”
 
-    Subsec. (f)(2). [Pub. L. 111–203, § 336(a)(3)][/us/pl/111/203/s336/a/3], substituted “Consumer Financial Protection Bureau” for “Office of Thrift Supervision”.
+    Subsec. (f)(2). [Pub. L. 111–203][/us/pl/111/203], § 336(a)(3), substituted “Consumer Financial Protection Bureau” for “Office of Thrift Supervision”.
 
     1996—Subsec. (a)(1)(C). [Pub. L. 104–208][/us/pl/104/208] inserted “, 1 of whom shall have State bank supervisory experience” before period at end.
 
@@ -147,7 +147,7 @@
 
  __Effective Date of 2010 Amendment__ 
 
-[Pub. L. 111–203, title III, § 336(b)][/us/pl/111/203/s336/b], July 21, 2010, [124 Stat. 1540][/us/stat/124/1540], provided that: 
+[Pub. L. 111–203, title III][/us/pl/111/203/tIII], § 336(b), July 21, 2010, [124 Stat. 1540][/us/stat/124/1540], provided that: 
 
 > “This section \[amending this section\], and the amendments made by this section, shall take effect on the transfer date.”
 
@@ -155,7 +155,7 @@
 
  __Transition Provision__ 
 
-    [Pub. L. 101–73, title II, § 203(b)][/us/pl/101/73/s203/b], Aug. 9, 1989, [103 Stat. 189][/us/stat/103/189], which permitted the Chairman of the Board of Directors of the Federal Deposit Insurance Corporation on Aug. 9, 1989, to continue to serve as the Chairperson until the end of the term to which such Chairman was appointed (notwithstanding any provision of this section), provided that the appointed member of the Board on Aug. 9, 1989, who is not the Chairman continue to serve in office until the earlier of the end of the term to which such member was appointed or Feb. 28, 1993, with certain exceptions, and provided that the term of any member appointed to the Board before Feb. 28, 1993 (including the term of any Chairperson), end on such date, was repealed by [Pub. L. 111–203, title III, § 367(1)][/us/pl/111/203/s367/1], July 21, 2010, [124 Stat. 1556][/us/stat/124/1556].
+    [Pub. L. 101–73, title II][/us/pl/101/73/tII], § 203(b), Aug. 9, 1989, [103 Stat. 189][/us/stat/103/189], which permitted the Chairman of the Board of Directors of the Federal Deposit Insurance Corporation on Aug. 9, 1989, to continue to serve as the Chairperson until the end of the term to which such Chairman was appointed (notwithstanding any provision of this section), provided that the appointed member of the Board on Aug. 9, 1989, who is not the Chairman continue to serve in office until the earlier of the end of the term to which such member was appointed or Feb. 28, 1993, with certain exceptions, and provided that the term of any member appointed to the Board before Feb. 28, 1993 (including the term of any Chairperson), end on such date, was repealed by [Pub. L. 111–203, title III][/us/pl/111/203/tIII], § 367(1), July 21, 2010, [124 Stat. 1556][/us/stat/124/1556].
 
  __Compensation of Board of Directors__ 
 
@@ -169,40 +169,40 @@
 ----------
 
 [/us/usc/t15/s77a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77a
-[/us/act/1950-09-21/ch967/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967%2Fs2
+[/us/act/1950-09-21/ch967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967
 [/us/stat/64/873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F873
-[/us/pl/86/230/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F230%2Fs19
+[/us/pl/86/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F230
 [/us/stat/73/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F460
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1267
-[/us/pl/101/73/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs203%2Fa
+[/us/pl/101/73/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtII
 [/us/stat/103/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F188
-[/us/pl/102/18/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F18%2Fs103%2Fb
+[/us/pl/102/18/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F18%2FtI
 [/us/stat/105/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F60
-[/us/pl/104/208/s2243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2243
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-419
-[/us/pl/111/203/s336/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs336%2Fa
+[/us/pl/111/203/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIII
 [/us/stat/124/1540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1540
-[/us/act/1933-05-27/ch38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-27%2Fch38
+[/us/act/1933-05-27/ch38/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-27%2Fch38%2FtI
 [/us/stat/48/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F74
 [/us/usc/t15/s77a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77a
 [/us/usc/t12/s264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs264
 [/us/usc/t12/s1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1811
-[/us/pl/111/203/s336/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs336%2Fa%2F1
-[/us/pl/111/203/s336/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs336%2Fa%2F2
-[/us/pl/111/203/s336/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs336%2Fa%2F3
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/102/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F18
 [/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
 [/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
 [/us/pl/86/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F230
-[/us/pl/111/203/s336/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs336%2Fb
+[/us/pl/111/203/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIII
 [/us/stat/124/1540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1540
 [/us/pl/111/203/s336/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs336%2Fb
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301
-[/us/pl/101/73/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs203%2Fb
+[/us/pl/101/73/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtII
 [/us/stat/103/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F189
-[/us/pl/111/203/s367/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs367%2F1
+[/us/pl/111/203/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIII
 [/us/stat/124/1556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1556
 
 

@@ -163,7 +163,7 @@
 
         Unless the context requires otherwise, the terms not defined in this section shall have the same meanings as in the Uniform Commercial Code.
 
-([Pub. L. 108–100, § 3][/us/pl/108/100/s3], Oct. 28, 2003, [117 Stat. 1178][/us/stat/117/1178].)
+([Pub. L. 108–100][/us/pl/108/100], § 3, Oct. 28, 2003, [117 Stat. 1178][/us/stat/117/1178].)
 
  __References in Text__ 
 
@@ -183,7 +183,7 @@
 [/us/usc/t12/s5005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5005
 [/us/usc/t12/s4001/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4001%2F14
 [/us/usc/t12/s1813/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813%2Fa
-[/us/pl/108/100/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F100%2Fs3
+[/us/pl/108/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F100
 [/us/stat/117/1178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1178
 [/us/pl/108/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F100
 [/us/stat/117/1177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1177

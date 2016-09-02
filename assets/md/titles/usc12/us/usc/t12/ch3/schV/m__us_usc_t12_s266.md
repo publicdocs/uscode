@@ -17,7 +17,7 @@
 
     Banks, savings banks, and savings and loan, building and loan, homestead associations (including cooperative banks), and credit unions created under the laws of any State and the deposits or accounts of which are insured by a State or agency thereof or corporation chartered pursuant to the laws of any State may be depositaries of public money and may be employed as fiscal agents of the United States. The Secretary of the Treasury is authorized to deposit public money in any such institution, and shall prescribe such regulations as may be necessary to enable such institutions to become depositaries of public money and fiscal agents of the United States. Each such institution shall perform all such reasonable duties as depositary of public money and fiscal agent of the United States as may be required of it including services in connection with the collection of taxes and other obligations owed the United States.
 
-([Pub. L. 95–147, § 2(d)][/us/pl/95/147/s2/d], Oct. 28, 1977, [91 Stat. 1228][/us/stat/91/1228].)
+([Pub. L. 95–147][/us/pl/95/147], § 2(d), Oct. 28, 1977, [91 Stat. 1228][/us/stat/91/1228].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/95/147/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F147%2Fs2%2Fd
+[/us/pl/95/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F147
 [/us/stat/91/1228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1228
 
 

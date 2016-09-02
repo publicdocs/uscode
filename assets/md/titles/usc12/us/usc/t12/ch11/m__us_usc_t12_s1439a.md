@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t12/ch11/m__us_usc_t12_s1438a.md) | [Next](./../../../..//us/usc/t12/ch11/m__us_usc_t12_s1440.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1439a)
+[Previous](./../../../..//us/usc/t12/ch11/m__us_usc_t12_s1439 _us_usc_t12_s1439–1.md) | [Next](./../../../..//us/usc/t12/ch11/m__us_usc_t12_s1440.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1439a)
 
 ## § 1439a. Deposits in special fund; availability for all purposes of Federal Home Loan Bank Board and Federal Home Loan Bank Administration
 
@@ -21,7 +21,7 @@
 
  __References in Text__ 
 
-    [Section 1439 of this title][/us/usc/t12/s1439], referred to in text, was repealed by [Pub. L. 101–73, title VII, § 708][/us/pl/101/73/s708], Aug. 9, 1989, [103 Stat. 418][/us/stat/103/418].
+    [Section 1439 of this title][/us/usc/t12/s1439], referred to in text, was repealed by [Pub. L. 101–73, title VII][/us/pl/101/73/tVII], § 708, Aug. 9, 1989, [103 Stat. 418][/us/stat/103/418].
 
  __Codification__ 
 
@@ -29,7 +29,7 @@
 
  __Change of Name__ 
 
-    “Home Loan Bank Board” changed to “Federal Home Loan Bank Board” by [act Aug. 11, 1955, ch. 783, § 109(a)(3)][/us/act/1955-08-11/ch783/s109/a/3], which was classified to [section 1437(b) of this title][/us/usc/t12/s1437/b] prior to the repeal of section 1437 by [Pub. L. 101–73, title VII, § 703(a)][/us/pl/101/73/s703/a], Aug. 9, 1989, [103 Stat. 415][/us/stat/103/415]. Previously, “Home Loan Bank Board” had been substituted for “Federal Home Loan Bank Board” by Reorg. Plan No. 3 of 1947.
+    “Home Loan Bank Board” changed to “Federal Home Loan Bank Board” by [act Aug. 11, 1955, ch. 783][/us/act/1955-08-11/ch783], § 109(a)(3), which was classified to [section 1437(b) of this title][/us/usc/t12/s1437/b] prior to the repeal of section 1437 by [Pub. L. 101–73, title VII][/us/pl/101/73/tVII], § 703(a), Aug. 9, 1989, [103 Stat. 415][/us/stat/103/415]. Previously, “Home Loan Bank Board” had been substituted for “Federal Home Loan Bank Board” by Reorg. Plan No. 3 of 1947.
 
  __Transfer of Functions__ 
 
@@ -39,7 +39,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t12/ch11/m__us_usc_t12_s1438a.md) | [Next](./../../../..//us/usc/t12/ch11/m__us_usc_t12_s1440.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1439a)
+[Previous](./../../../..//us/usc/t12/ch11/m__us_usc_t12_s1439 _us_usc_t12_s1439–1.md) | [Next](./../../../..//us/usc/t12/ch11/m__us_usc_t12_s1440.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1439a)
 
 ----------
 ----------
@@ -51,11 +51,11 @@
 [/us/act/1955-08-11/ch783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-11%2Fch783
 [/us/stat/69/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F640
 [/us/usc/t12/s1439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1439
-[/us/pl/101/73/s708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs708
+[/us/pl/101/73/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtVII
 [/us/stat/103/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F418
-[/us/act/1955-08-11/ch783/s109/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-11%2Fch783%2Fs109%2Fa%2F3
+[/us/act/1955-08-11/ch783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-11%2Fch783
 [/us/usc/t12/s1437/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1437%2Fb
-[/us/pl/101/73/s703/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs703%2Fa
+[/us/pl/101/73/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtVII
 [/us/stat/103/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F415
 [/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
 [/us/usc/t12/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1437

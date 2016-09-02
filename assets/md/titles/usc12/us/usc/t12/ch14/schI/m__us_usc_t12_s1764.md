@@ -27,13 +27,13 @@
 
         Withdrawal or expulsion of a member pursuant to either subsection (a) or (b) of this section shall not operate to relieve him from liability to the Federal credit union. The amount to be paid a withdrawing or expelled member by a Federal credit union shall be determined and paid in a manner specified in the bylaws.
 
-([June 26, 1934, ch. 750][/us/act/1934-06-26/ch750], title I, § 118, formerly § 14, [48 Stat. 1221][/us/stat/48/1221]; renumbered § 19, [Pub. L. 86–354, § 1][/us/pl/86/354/s1], Sept. 22, 1959, [73 Stat. 634][/us/stat/73/634]; renumbered title I, § 118, [Pub. L. 91–468, § 1(2)][/us/pl/91/468/s1/2], Oct. 19, 1970, [84 Stat. 994][/us/stat/84/994]; amended [Pub. L. 97–320, title V, § 525][/us/pl/97/320/s525], Oct. 15, 1982, [96 Stat. 1534][/us/stat/96/1534]; [Pub. L. 100–86, title VII, § 706][/us/pl/100/86/s706], Aug. 10, 1987, [101 Stat. 653][/us/stat/101/653].)
+([June 26, 1934, ch. 750][/us/act/1934-06-26/ch750], title I, § 118, formerly § 14, [48 Stat. 1221][/us/stat/48/1221]; renumbered § 19, [Pub. L. 86–354][/us/pl/86/354], § 1, Sept. 22, 1959, [73 Stat. 634][/us/stat/73/634]; renumbered title I, § 118, [Pub. L. 91–468][/us/pl/91/468], § 1(2), Oct. 19, 1970, [84 Stat. 994][/us/stat/84/994]; amended [Pub. L. 97–320, title V][/us/pl/97/320/tV], § 525, Oct. 15, 1982, [96 Stat. 1534][/us/stat/96/1534]; [Pub. L. 100–86, title VII][/us/pl/100/86/tVII], § 706, Aug. 10, 1987, [101 Stat. 653][/us/stat/101/653].)
 
  __Amendments__ 
 
-    1987—Subsec. (a). [Pub. L. 100–86, § 706(1)][/us/pl/100/86/s706/1], substituted “Except as provided in” for “Subject to”.
+    1987—Subsec. (a). [Pub. L. 100–86][/us/pl/100/86], § 706(1), substituted “Except as provided in” for “Subject to”.
 
-    Subsec. (b). [Pub. L. 100–86, § 706(2)][/us/pl/100/86/s706/2], inserted “and enforce” after “adopt”.
+    Subsec. (b). [Pub. L. 100–86][/us/pl/100/86], § 706(2), inserted “and enforce” after “adopt”.
 
     1982—[Pub. L. 97–320][/us/pl/97/320] designated existing provisions as subsecs. (a) and (c) and added subsec. (b).
 
@@ -46,16 +46,16 @@
 
 [/us/act/1934-06-26/ch750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-26%2Fch750
 [/us/stat/48/1221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1221
-[/us/pl/86/354/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F354%2Fs1
+[/us/pl/86/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F354
 [/us/stat/73/634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F634
-[/us/pl/91/468/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F468%2Fs1%2F2
+[/us/pl/91/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F468
 [/us/stat/84/994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F994
-[/us/pl/97/320/s525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs525
+[/us/pl/97/320/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2FtV
 [/us/stat/96/1534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1534
-[/us/pl/100/86/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2Fs706
+[/us/pl/100/86/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2FtVII
 [/us/stat/101/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F653
-[/us/pl/100/86/s706/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2Fs706%2F1
-[/us/pl/100/86/s706/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2Fs706%2F2
+[/us/pl/100/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86
+[/us/pl/100/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86
 [/us/pl/97/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320
 
 

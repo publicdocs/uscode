@@ -21,7 +21,7 @@
 
     (c) The time, character, and volume of all purchases and sales of paper described in sections 348a and 353 to 359 of this title as eligible for open-market operations shall be governed with a view to accommodating commerce and business and with regard to their bearing upon the general credit situation of the country.
 
-([Dec. 23, 1913, ch. 6, § 12A][/us/act/1913-12-23/ch6/s12A], as added [June 16, 1933, ch. 89, § 8][/us/act/1933-06-16/ch89/s8], [48 Stat. 168][/us/stat/48/168]; amended [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 205, [49 Stat. 705][/us/stat/49/705]; [July 7, 1942, ch. 488, § 1][/us/act/1942-07-07/ch488/s1], [56 Stat. 647][/us/stat/56/647].)
+([Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 12A, as added [June 16, 1933, ch. 89][/us/act/1933-06-16/ch89], § 8, [48 Stat. 168][/us/stat/48/168]; amended [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 205, [49 Stat. 705][/us/stat/49/705]; [July 7, 1942, ch. 488][/us/act/1942-07-07/ch488], § 1, [56 Stat. 647][/us/stat/56/647].)
 
  __Amendments__ 
 
@@ -36,12 +36,12 @@
 ----------
 ----------
 
-[/us/act/1913-12-23/ch6/s12A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs12A
-[/us/act/1933-06-16/ch89/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-16%2Fch89%2Fs8
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
+[/us/act/1933-06-16/ch89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-16%2Fch89
 [/us/stat/48/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F168
 [/us/act/1935-08-23/ch614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch614
 [/us/stat/49/705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F705
-[/us/act/1942-07-07/ch488/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-07-07%2Fch488%2Fs1
+[/us/act/1942-07-07/ch488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-07-07%2Fch488
 [/us/stat/56/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F647
 
 

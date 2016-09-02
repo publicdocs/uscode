@@ -17,11 +17,11 @@
 
     When the day fixed in the bylaws for the regular annual meeting of the shareholders falls on a legal holiday in the State in which the bank is located, the shareholders meeting shall be held, and the directors elected, on the next following banking day. If, from any cause, an election of directors is not made on the day fixed, or in the event of a legal holiday, on the next following banking day, an election may be held on any subsequent day within sixty days of the day fixed, to be designated by the board of directors, or, if the directors fail to fix the day, by shareholders representing two-thirds of the shares, at least ten days’ notice thereof in all cases having been given by first-class mail to the shareholders.
 
-(R.S. § 5149; [Pub. L. 86–230, § 9][/us/pl/86/230/s9], Sept. 8, 1959, [73 Stat. 457][/us/stat/73/457]; [Pub. L. 88–232, § 2][/us/pl/88/232/s2], Dec. 23, 1963, [77 Stat. 472][/us/stat/77/472].)
+(R.S. § 5149; [Pub. L. 86–230][/us/pl/86/230], § 9, Sept. 8, 1959, [73 Stat. 457][/us/stat/73/457]; [Pub. L. 88–232][/us/pl/88/232], § 2, Dec. 23, 1963, [77 Stat. 472][/us/stat/77/472].)
 
  __Codification__ 
 
-    R.S. § 5149 derived from [act June 3, 1864, ch. 106, § 10][/us/act/1864-06-03/ch106/s10], [13 Stat. 102][/us/stat/13/102], which was the National Bank Act. See [section 38 of this title][/us/usc/t12/s38].
+    R.S. § 5149 derived from [act June 3, 1864, ch. 106][/us/act/1864-06-03/ch106], § 10, [13 Stat. 102][/us/stat/13/102], which was the National Bank Act. See [section 38 of this title][/us/usc/t12/s38].
 
  __Amendments__ 
 
@@ -36,11 +36,11 @@
 ----------
 ----------
 
-[/us/pl/86/230/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F230%2Fs9
+[/us/pl/86/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F230
 [/us/stat/73/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F457
-[/us/pl/88/232/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F232%2Fs2
+[/us/pl/88/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F232
 [/us/stat/77/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F472
-[/us/act/1864-06-03/ch106/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-06-03%2Fch106%2Fs10
+[/us/act/1864-06-03/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-06-03%2Fch106
 [/us/stat/13/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F13%2F102
 [/us/usc/t12/s38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs38
 [/us/pl/88/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F232

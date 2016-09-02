@@ -17,7 +17,7 @@
 
     Interest rates on loans from institutions of the Farm Credit System shall not be subject to any interest rate limitation imposed by any State constitution or statute or other laws. Such limitation is preempted for purposes of this chapter. Interest rates on loans made by agricultural credit corporations organized in conjunction with cooperative associations for the purpose of financing the ordinary crop operations of the members of such associations or other producers and eligible to discount with the Federal intermediate credit banks and Farm Credit Banks shall be exempt from any interest rate limitation imposed by any State constitution or statute or other laws which are hereby preempted for purposes of this chapter.
 
-([Pub. L. 92–181, title IV, § 4][/us/pl/92/181/s4].17, as added [Pub. L. 96–592, title IV, § 403][/us/pl/96/592/s403], Dec. 24, 1980, [94 Stat. 3446][/us/stat/94/3446]; amended [Pub. L. 99–205, title II, § 205(f)(6)][/us/pl/99/205/s205/f/6], Dec. 23, 1985, [99 Stat. 1706][/us/stat/99/1706]; [Pub. L. 99–509, title I, § 1035][/us/pl/99/509/s1035], Oct. 21, 1986, [100 Stat. 1878][/us/stat/100/1878]; [Pub. L. 100–399, title IX, § 901(h)][/us/pl/100/399/s901/h], Aug. 17, 1988, [102 Stat. 1007][/us/stat/102/1007].)
+([Pub. L. 92–181, title IV][/us/pl/92/181/tIV], § 4.17, as added [Pub. L. 96–592, title IV][/us/pl/96/592/tIV], § 403, Dec. 24, 1980, [94 Stat. 3446][/us/stat/94/3446]; amended [Pub. L. 99–205, title II][/us/pl/99/205/tII], § 205(f)(6), Dec. 23, 1985, [99 Stat. 1706][/us/stat/99/1706]; [Pub. L. 99–509, title I][/us/pl/99/509/tI], § 1035, Oct. 21, 1986, [100 Stat. 1878][/us/stat/100/1878]; [Pub. L. 100–399, title IX][/us/pl/100/399/tIX], § 901(h), Aug. 17, 1988, [102 Stat. 1007][/us/stat/102/1007].)
 
  __Amendments__ 
 
@@ -42,14 +42,14 @@
 ----------
 ----------
 
-[/us/pl/92/181/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs4
-[/us/pl/96/592/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592%2Fs403
+[/us/pl/92/181/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtIV
+[/us/pl/96/592/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592%2FtIV
 [/us/stat/94/3446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3446
-[/us/pl/99/205/s205/f/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2Fs205%2Ff%2F6
+[/us/pl/99/205/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2FtII
 [/us/stat/99/1706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1706
-[/us/pl/99/509/s1035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs1035
+[/us/pl/99/509/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtI
 [/us/stat/100/1878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1878
-[/us/pl/100/399/s901/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs901%2Fh
+[/us/pl/100/399/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtIX
 [/us/stat/102/1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1007
 [/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/usc/t12/s2074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2074

@@ -113,7 +113,7 @@
 
         The Council shall prescribe procedural rules to implement this section.
 
-([Pub. L. 111–203, title X, § 1023][/us/pl/111/203/s1023], July 21, 2010, [124 Stat. 1985][/us/stat/124/1985].)
+([Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1023, July 21, 2010, [124 Stat. 1985][/us/stat/124/1985].)
 
  __Effective Date__ 
 
@@ -127,7 +127,7 @@
 ----------
 
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/pl/111/203/s1023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1023
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/1985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1985
 [/us/pl/111/203/s1029A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1029A
 [/us/usc/t12/s5511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5511

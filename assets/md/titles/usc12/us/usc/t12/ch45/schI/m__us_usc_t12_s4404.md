@@ -47,17 +47,17 @@
 
         The provisions of any security agreement or arrangement or other credit enhancement related to one or more netting contracts between any 2 members of a clearing organization shall be enforceable in accordance with their terms (except as provided in [section 561(b)(2) of title 11][/us/usc/t11/s561/b/2]), and shall not be stayed, avoided, or otherwise limited by any State or Federal law (other than [section 1821(e) of this title][/us/usc/t12/s1821/e], [section 1787(c) of this title][/us/usc/t12/s1787/c], and [section 78eee(b)(2) of title 15][/us/usc/t15/s78eee/b/2]).
 
-([Pub. L. 102–242, title IV, § 404][/us/pl/102/242/s404], Dec. 19, 1991, [105 Stat. 2374][/us/stat/105/2374]; [Pub. L. 109–8, title IX, § 906(c)][/us/pl/109/8/s906/c], Apr. 20, 2005, [119 Stat. 168][/us/stat/119/168]; [Pub. L. 109–390, § 4(b)][/us/pl/109/390/s4/b], Dec. 12, 2006, [120 Stat. 2695][/us/stat/120/2695].)
+([Pub. L. 102–242, title IV][/us/pl/102/242/tIV], § 404, Dec. 19, 1991, [105 Stat. 2374][/us/stat/105/2374]; [Pub. L. 109–8, title IX][/us/pl/109/8/tIX], § 906(c), Apr. 20, 2005, [119 Stat. 168][/us/stat/119/168]; [Pub. L. 109–390][/us/pl/109/390], § 4(b), Dec. 12, 2006, [120 Stat. 2695][/us/stat/120/2695].)
 
  __Amendments__ 
 
     2006—Subsec. (a). [Pub. L. 109–390][/us/pl/109/390] struck out “paragraphs (8)(E), (8)(F), and (10)(B) of” before “section 1821(e)” and “section 1787(c)” and inserted “terminated, liquidated, accelerated, and” after “organization shall be”.
 
-    Subsec. (h). [Pub. L. 109–390, § 4(b)(1)][/us/pl/109/390/s4/b/1], struck out “paragraphs (8)(E), (8)(F), and (10)(B) of” before “section 1821(e)” and “section 1787(c)”.
+    Subsec. (h). [Pub. L. 109–390][/us/pl/109/390], § 4(b)(1), struck out “paragraphs (8)(E), (8)(F), and (10)(B) of” before “section 1821(e)” and “section 1787(c)”.
 
-    2005—Subsec. (a). [Pub. L. 109–8, § 906(c)(1)][/us/pl/109/8/s906/c/1], added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “Notwithstanding any other provision of law, the covered contractual payment obligations and covered contractual payment entitlements of a member of a clearing organization to and from all other members of a clearing organization shall be netted in accordance with and subject to the conditions of any applicable netting contract.”
+    2005—Subsec. (a). [Pub. L. 109–8][/us/pl/109/8], § 906(c)(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “Notwithstanding any other provision of law, the covered contractual payment obligations and covered contractual payment entitlements of a member of a clearing organization to and from all other members of a clearing organization shall be netted in accordance with and subject to the conditions of any applicable netting contract.”
 
-    Subsec. (h). [Pub. L. 109–8, § 906(c)(2)][/us/pl/109/8/s906/c/2], added subsec. (h).
+    Subsec. (h). [Pub. L. 109–8][/us/pl/109/8], § 906(c)(2), added subsec. (h).
 
  __Effective Date of 2006 Amendment__ 
 
@@ -82,16 +82,16 @@
 [/us/usc/t12/s1821/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1821%2Fe
 [/us/usc/t12/s1787/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1787%2Fc
 [/us/usc/t15/s78eee/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78eee%2Fb%2F2
-[/us/pl/102/242/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs404
+[/us/pl/102/242/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtIV
 [/us/stat/105/2374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2374
-[/us/pl/109/8/s906/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs906%2Fc
+[/us/pl/109/8/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtIX
 [/us/stat/119/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F168
-[/us/pl/109/390/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F390%2Fs4%2Fb
+[/us/pl/109/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F390
 [/us/stat/120/2695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2695
 [/us/pl/109/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F390
-[/us/pl/109/390/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F390%2Fs4%2Fb%2F1
-[/us/pl/109/8/s906/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs906%2Fc%2F1
-[/us/pl/109/8/s906/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs906%2Fc%2F2
+[/us/pl/109/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F390
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/109/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F390
 [/us/pl/109/390/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F390%2Fs7
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101

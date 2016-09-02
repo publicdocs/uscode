@@ -39,7 +39,7 @@
 
         Not later than 6 months after the date on which the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives receives the report required under subsection (b), and every 6 months thereafter until all aspects of the plan have been implemented, the Inspectors General of the Department of the Treasury, the Corporation, and the Board of Governors shall jointly provide a written report on the status of the implementation of the plan to the Board of Governors, the Corporation, the Office of the Comptroller of the Currency, and the Office of Thrift Supervision and shall submit a copy to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives.
 
-([Pub. L. 111–203, title III, § 327][/us/pl/111/203/s327], July 21, 2010, [124 Stat. 1537][/us/stat/124/1537].)
+([Pub. L. 111–203, title III][/us/pl/111/203/tIII], § 327, July 21, 2010, [124 Stat. 1537][/us/stat/124/1537].)
 
  __References in Text__ 
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/111/203/s327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs327
+[/us/pl/111/203/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIII
 [/us/stat/124/1537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1537
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/usc/t44/s3502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3502

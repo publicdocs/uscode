@@ -17,7 +17,7 @@
 
     In addition to any other remedy contained in this chapter, injunctive relief shall be available to require that the procedures of this chapter are complied with. In the event of any successful action, costs together with reasonable attorney’s fees as determined by the court may be recovered.
 
-([Pub. L. 95–630, title XI, § 1118][/us/pl/95/630/s1118], Nov. 10, 1978, [92 Stat. 3709][/us/stat/92/3709].)
+([Pub. L. 95–630, title XI][/us/pl/95/630/tXI], § 1118, Nov. 10, 1978, [92 Stat. 3709][/us/stat/92/3709].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/630/s1118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs1118
+[/us/pl/95/630/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtXI
 [/us/stat/92/3709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3709
 
 

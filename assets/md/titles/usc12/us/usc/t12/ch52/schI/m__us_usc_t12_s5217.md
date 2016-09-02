@@ -31,7 +31,7 @@
 
         (2) shall be reimbursed by the Secretary for any services provided.
 
-([Pub. L. 110–343, div. A, title I, § 107][/us/pl/110/343/s107], Oct. 3, 2008, [122 Stat. 3773][/us/stat/122/3773]; [Pub. L. 111–5, div. A, title XVI, § 1608][/us/pl/111/5/s1608], Feb. 17, 2009, [123 Stat. 304][/us/stat/123/304].)
+([Pub. L. 110–343, div. A, title I][/us/pl/110/343/dA/tI], § 107, Oct. 3, 2008, [122 Stat. 3773][/us/stat/122/3773]; [Pub. L. 111–5, div. A, title XVI][/us/pl/111/5/dA/tXVI], § 1608, Feb. 17, 2009, [123 Stat. 304][/us/stat/123/304].)
 
  __References in Text__ 
 
@@ -39,7 +39,7 @@
 
     Section 1204(c) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989, referred to in subsec. (b), is [section 1204(c) of Pub. L. 101–73][/us/pl/101/73/s1204/c], which is set out as a note under [section 1811 of this title][/us/usc/t12/s1811].
 
-    [Section 1441a(r)(4) of this title][/us/usc/t12/s1441a/r/4], referred to in subsec. (b), was repealed by [Pub. L. 111–203, title III, § 364(b)][/us/pl/111/203/s364/b], July 21, 2010, [124 Stat. 1555][/us/stat/124/1555].
+    [Section 1441a(r)(4) of this title][/us/usc/t12/s1441a/r/4], referred to in subsec. (b), was repealed by [Pub. L. 111–203, title III][/us/pl/111/203/tIII], § 364(b), July 21, 2010, [124 Stat. 1555][/us/stat/124/1555].
 
  __Amendments__ 
 
@@ -54,9 +54,9 @@
 
 [/us/usc/t12/s1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1811
 [/us/usc/t15/s632/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632%2Ff
-[/us/pl/110/343/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs107
+[/us/pl/110/343/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdA%2FtI
 [/us/stat/122/3773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3773
-[/us/pl/111/5/s1608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1608
+[/us/pl/111/5/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdA%2FtXVI
 [/us/stat/123/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F304
 [/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
 [/us/stat/122/3765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3765
@@ -64,7 +64,7 @@
 [/us/pl/101/73/s1204/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs1204%2Fc
 [/us/usc/t12/s1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1811
 [/us/usc/t12/s1441a/r/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1441a%2Fr%2F4
-[/us/pl/111/203/s364/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs364%2Fb
+[/us/pl/111/203/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIII
 [/us/stat/124/1555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1555
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/usc/t15/s632/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632%2Ff

@@ -87,7 +87,7 @@
 
             (B) having natural, cultural, recreational, or scientific value of special significance.
 
-([Pub. L. 101–591, § 10][/us/pl/101/591/s10], Nov. 16, 1990, [104 Stat. 2939][/us/stat/104/2939]; [Pub. L. 106–167, § 3(c)(5)][/us/pl/106/167/s3/c/5], Dec. 9, 1999, [113 Stat. 1804][/us/stat/113/1804].)
+([Pub. L. 101–591][/us/pl/101/591], § 10, Nov. 16, 1990, [104 Stat. 2939][/us/stat/104/2939]; [Pub. L. 106–167][/us/pl/106/167], § 3(c)(5), Dec. 9, 1999, [113 Stat. 1804][/us/stat/113/1804].)
 
  __Codification__ 
 
@@ -108,9 +108,9 @@
 ----------
 ----------
 
-[/us/pl/101/591/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F591%2Fs10
+[/us/pl/101/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F591
 [/us/stat/104/2939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2939
-[/us/pl/106/167/s3/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F167%2Fs3%2Fc%2F5
+[/us/pl/106/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F167
 [/us/stat/113/1804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1804
 [/us/pl/106/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F167
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003

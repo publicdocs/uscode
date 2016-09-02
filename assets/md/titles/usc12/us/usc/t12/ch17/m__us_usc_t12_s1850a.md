@@ -165,7 +165,7 @@
 
             Except as the Board of Governors may otherwise provide by regulation or order, a supervised securities holding company shall be subject to the provisions of the Bank Holding Company Act of 1956 ([12 U.S.C. 1841][/us/usc/t12/s1841] et seq.) in the same manner and to the same extent a bank holding company is subject to such provisions, except that a supervised securities holding company may not, by reason of this paragraph, be deemed to be a bank holding company for purposes of section 4 of the Bank Holding Company Act of 1956 ([12 U.S.C. 1843][/us/usc/t12/s1843]).
 
-([Pub. L. 111–203, title VI, § 618][/us/pl/111/203/s618], July 21, 2010, [124 Stat. 1616][/us/stat/124/1616].)
+([Pub. L. 111–203, title VI][/us/pl/111/203/tVI], § 618, July 21, 2010, [124 Stat. 1616][/us/stat/124/1616].)
 
  __References in Text__ 
 
@@ -207,7 +207,7 @@
 [/us/usc/t12/s1841/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1841%2Fc%2F2
 [/us/usc/t12/s1841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1841
 [/us/usc/t12/s1843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1843
-[/us/pl/111/203/s618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs618
+[/us/pl/111/203/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVI
 [/us/stat/124/1616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1616
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1391

@@ -51,25 +51,25 @@
 
         Loans, other than real estate loans, and discounts made under the provisions of this subchapter shall be repayable in not more than 7 years (15 years if made to producers or harvesters of aquatic products) from the time that such are made or discounted by the Farm Credit Bank, except that the Board of Directors, under regulations of the Farm Credit Administration, may approve policies permitting loans, advances, or discounts (other than those made to producers or harvesters of aquatic products) to be repayable in not more than 10 years from the time that such are made or discounted by such bank.
 
-([Pub. L. 92–181, title I, § 1][/us/pl/92/181/s1].10, as added [Pub. L. 100–233, title IV, § 401][/us/pl/100/233/s401], Jan. 6, 1988, [101 Stat. 1627][/us/stat/101/1627]; amended [Pub. L. 100–399, title IV, § 401(h)][/us/pl/100/399/s401/h], (i), Aug. 17, 1988, [102 Stat. 996][/us/stat/102/996]; [Pub. L. 104–105, title II][/us/pl/104/105], §§ 202, 203, Feb. 10, 1996, [110 Stat. 172][/us/stat/110/172].)
+([Pub. L. 92–181, title I][/us/pl/92/181/tI], § 1.10, as added [Pub. L. 100–233, title IV][/us/pl/100/233/tIV], § 401, Jan. 6, 1988, [101 Stat. 1627][/us/stat/101/1627]; amended [Pub. L. 100–399, title IV][/us/pl/100/399/tIV], § 401(h), (i), Aug. 17, 1988, [102 Stat. 996][/us/stat/102/996]; [Pub. L. 104–105, title II][/us/pl/104/105/tII], §§ 202, 203, Feb. 10, 1996, [110 Stat. 172][/us/stat/110/172].)
 
  __Prior Provisions__ 
 
-    A prior section 2018, [Pub. L. 92–181, title I, § 1][/us/pl/92/181/s1].10, Dec. 10, 1971, [85 Stat. 586][/us/stat/85/586]; [Pub. L. 96–592, title I, § 107][/us/pl/96/592/s107], Dec. 24, 1980, [94 Stat. 3438][/us/stat/94/3438], related to purposes, prior to the general amendment of this subchapter by [Pub. L. 100–233, § 401][/us/pl/100/233/s401].
+    A prior section 2018, [Pub. L. 92–181, title I][/us/pl/92/181/tI], § 1.10, Dec. 10, 1971, [85 Stat. 586][/us/stat/85/586]; [Pub. L. 96–592, title I][/us/pl/96/592/tI], § 107, Dec. 24, 1980, [94 Stat. 3438][/us/stat/94/3438], related to purposes, prior to the general amendment of this subchapter by [Pub. L. 100–233][/us/pl/100/233], § 401.
 
  __Amendments__ 
 
-    1996—Subsec. (a)(1)(A). [Pub. L. 104–105, § 202(b)][/us/pl/104/105/s202/b], substituted “subparagraphs (C) and (D)” for “paragraphs (2) and (3)”.
+    1996—Subsec. (a)(1)(A). [Pub. L. 104–105][/us/pl/104/105], § 202(b), substituted “subparagraphs (C) and (D)” for “paragraphs (2) and (3)”.
 
-    Subsec. (a)(1)(D). [Pub. L. 104–105, § 202(a)][/us/pl/104/105/s202/a], added subpar. (D).
+    Subsec. (a)(1)(D). [Pub. L. 104–105][/us/pl/104/105], § 202(a), added subpar. (D).
 
-    Subsec. (a)(5). [Pub. L. 104–105, § 203][/us/pl/104/105/s203], struck out heading and text of par. (5). Text read as follows: “Each Farm Credit Bank shall require a financial statement from each borrower at least once every 3 years, or during such shorter period of time as may be required under regulations of the Farm Credit Administration.”
+    Subsec. (a)(5). [Pub. L. 104–105][/us/pl/104/105], § 203, struck out heading and text of par. (5). Text read as follows: “Each Farm Credit Bank shall require a financial statement from each borrower at least once every 3 years, or during such shorter period of time as may be required under regulations of the Farm Credit Administration.”
 
-    1988—Subsec. (a)(2). [Pub. L. 100–399, § 401(h)(1)][/us/pl/100/399/s401/h/1], substituted “prescribed by regulations of” for “approved by”.
+    1988—Subsec. (a)(2). [Pub. L. 100–399][/us/pl/100/399], § 401(h)(1), substituted “prescribed by regulations of” for “approved by”.
 
-    Subsec. (a)(3). [Pub. L. 100–399, § 401(h)(2)][/us/pl/100/399/s401/h/2], substituted “under standards” for “under appraisal standards” and “in accordance with regulations of” for “and approved by”.
+    Subsec. (a)(3). [Pub. L. 100–399][/us/pl/100/399], § 401(h)(2), substituted “under standards” for “under appraisal standards” and “in accordance with regulations of” for “and approved by”.
 
-    Subsec. (b). [Pub. L. 100–399, § 401(i)][/us/pl/100/399/s401/i], substituted “harvesters of aquatic products) from” for “harvester of aquatic products) from”.
+    Subsec. (b). [Pub. L. 100–399][/us/pl/100/399], § 401(i), substituted “harvesters of aquatic products) from” for “harvester of aquatic products) from”.
 
  __Effective Date of 1988 Amendment__ 
 
@@ -82,24 +82,24 @@
 ----------
 ----------
 
-[/us/pl/92/181/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs1
-[/us/pl/100/233/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs401
+[/us/pl/92/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtI
+[/us/pl/100/233/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtIV
 [/us/stat/101/1627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1627
-[/us/pl/100/399/s401/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs401%2Fh
+[/us/pl/100/399/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtIV
 [/us/stat/102/996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F996
-[/us/pl/104/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105
+[/us/pl/104/105/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2FtII
 [/us/stat/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F172
-[/us/pl/92/181/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs1
+[/us/pl/92/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtI
 [/us/stat/85/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F586
-[/us/pl/96/592/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592%2Fs107
+[/us/pl/96/592/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592%2FtI
 [/us/stat/94/3438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3438
-[/us/pl/100/233/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs401
-[/us/pl/104/105/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2Fs202%2Fb
-[/us/pl/104/105/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2Fs202%2Fa
-[/us/pl/104/105/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2Fs203
-[/us/pl/100/399/s401/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs401%2Fh%2F1
-[/us/pl/100/399/s401/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs401%2Fh%2F2
-[/us/pl/100/399/s401/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs401%2Fi
+[/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
+[/us/pl/104/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105
+[/us/pl/104/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105
+[/us/pl/104/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/100/233/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs401
 [/us/pl/100/399/s1001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs1001%2Fb

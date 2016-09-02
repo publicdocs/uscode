@@ -17,7 +17,7 @@
 
     The Office shall develop and make available, alone or in concert with other organizations, a program for training directors and staff of eligible cooperatives to improve their understanding of their responsibilities; the problems of and solutions for effective and efficient operation of their organizations or of cooperatives in general; and may by any means it deems appropriate, conduct membership studies, provide membership education programs, and programs for informing consumers and the general public of the advantages of cooperative action. Management supervision, review, and consultations shall be available from the Office to any eligible cooperative.
 
-([Pub. L. 95–351, title II, § 207][/us/pl/95/351/s207], Aug. 20, 1978, [92 Stat. 513][/us/stat/92/513].)
+([Pub. L. 95–351, title II][/us/pl/95/351/tII], § 207, Aug. 20, 1978, [92 Stat. 513][/us/stat/92/513].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/351/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F351%2Fs207
+[/us/pl/95/351/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F351%2FtII
 [/us/stat/92/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F513
 
 

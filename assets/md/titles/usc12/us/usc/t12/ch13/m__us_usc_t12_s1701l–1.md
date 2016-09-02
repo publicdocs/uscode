@@ -17,7 +17,7 @@
 
     The Secretary of Housing and Urban Development shall take action to secure the payment of any deficiency after foreclosure on a mortgage insured or assisted under Federal law where the Secretary has reason to believe that the mortgage proceeds have been fraudulently misappropriated by the mortgagor.
 
-([Pub. L. 93–383, title VIII, § 819][/us/pl/93/383/s819], Aug. 22, 1974, [88 Stat. 740][/us/stat/88/740].)
+([Pub. L. 93–383, title VIII][/us/pl/93/383/tVIII], § 819, Aug. 22, 1974, [88 Stat. 740][/us/stat/88/740].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/93/383/s819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs819
+[/us/pl/93/383/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtVIII
 [/us/stat/88/740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F740
 
 

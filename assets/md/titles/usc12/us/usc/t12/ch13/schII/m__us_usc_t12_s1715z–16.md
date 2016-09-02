@@ -41,7 +41,7 @@
 
         (2) The disclosure required under subsection (b) shall be required for a mortgage insured under this subsection.
 
-([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title II, § 251, as added [Pub. L. 98–181, title I][/us/pl/98/181] \[title IV, § 443\], Nov. 30, 1983, [97 Stat. 1225][/us/stat/97/1225]; amended [Pub. L. 100–242, title IV, § 415(a)][/us/pl/100/242/s415/a], Feb. 5, 1988, [101 Stat. 1907][/us/stat/101/1907]; [Pub. L. 107–73, title II, § 206][/us/pl/107/73/s206], Nov. 26, 2001, [115 Stat. 674][/us/stat/115/674]; [Pub. L. 108–186, title III, § 301(a)][/us/pl/108/186/s301/a], Dec. 16, 2003, [117 Stat. 2692][/us/stat/117/2692].)
+([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title II, § 251, as added [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title IV, § 443\], Nov. 30, 1983, [97 Stat. 1225][/us/stat/97/1225]; amended [Pub. L. 100–242, title IV][/us/pl/100/242/tIV], § 415(a), Feb. 5, 1988, [101 Stat. 1907][/us/stat/101/1907]; [Pub. L. 107–73, title II][/us/pl/107/73/tII], § 206, Nov. 26, 2001, [115 Stat. 674][/us/stat/115/674]; [Pub. L. 108–186, title III][/us/pl/108/186/tIII], § 301(a), Dec. 16, 2003, [117 Stat. 2692][/us/stat/117/2692].)
 
  __References in Text__ 
 
@@ -51,15 +51,15 @@
 
     2003—Subsec. (d)(1)(C). [Pub. L. 108–186][/us/pl/108/186] substituted “3” for “five”
 
-    2001—Subsec. (b). [Pub. L. 107–73, § 206(1)][/us/pl/107/73/s206/1], substituted “require that the mortgagee make available to the mortgagor, at the time of loan application, a written explanation of the features of an adjustable rate mortgage consistent with the disclosure requirements applicable to variable rate mortgages secured by a principal dwelling under the Truth in Lending Act” for “issue regulations requiring that the mortgagee make available to the mortgagor, at the time of loan application, a written explanation of the features of the adjustable rate mortgage, including a hypothetical payment schedule that displays the maximum potential increases in monthly payments to the mortgagor over the first 5 years of the mortgage term”.
+    2001—Subsec. (b). [Pub. L. 107–73][/us/pl/107/73], § 206(1), substituted “require that the mortgagee make available to the mortgagor, at the time of loan application, a written explanation of the features of an adjustable rate mortgage consistent with the disclosure requirements applicable to variable rate mortgages secured by a principal dwelling under the Truth in Lending Act” for “issue regulations requiring that the mortgagee make available to the mortgagor, at the time of loan application, a written explanation of the features of the adjustable rate mortgage, including a hypothetical payment schedule that displays the maximum potential increases in monthly payments to the mortgagor over the first 5 years of the mortgage term”.
 
-    Subsec. (d). [Pub. L. 107–73, § 206(2)][/us/pl/107/73/s206/2], added subsec. (d).
+    Subsec. (d). [Pub. L. 107–73][/us/pl/107/73], § 206(2), added subsec. (d).
 
     1988—Subsec. (c). [Pub. L. 100–242][/us/pl/100/242] amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The aggregate number of mortgages and loans insured under this section, [section 1715z–10(c) of this title][/us/usc/t12/s1715z–10/c], and [section 1715z–17 of this title][/us/usc/t12/s1715z–17] in any fiscal year may not exceed 10 percent of the aggregate number of mortgages and loans insured by the Secretary under this subchapter during the preceding fiscal year.”
 
  __Effective Date of 2003 Amendment__ 
 
-[Pub. L. 108–186, title III, § 301(b)][/us/pl/108/186/s301/b], Dec. 16, 2003, [117 Stat. 2692][/us/stat/117/2692], provided that: 
+[Pub. L. 108–186, title III][/us/pl/108/186/tIII], § 301(b), Dec. 16, 2003, [117 Stat. 2692][/us/stat/117/2692], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to mortgages executed on or after the date of the enactment of this title \[Dec. 16, 2003\].”
 
@@ -72,24 +72,24 @@
 
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1225
-[/us/pl/100/242/s415/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs415%2Fa
+[/us/pl/100/242/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtIV
 [/us/stat/101/1907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1907
-[/us/pl/107/73/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F73%2Fs206
+[/us/pl/107/73/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F73%2FtII
 [/us/stat/115/674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F674
-[/us/pl/108/186/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F186%2Fs301%2Fa
+[/us/pl/108/186/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F186%2FtIII
 [/us/stat/117/2692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2692
 [/us/pl/90/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321
 [/us/stat/82/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F146
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601
 [/us/pl/108/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F186
-[/us/pl/107/73/s206/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F73%2Fs206%2F1
-[/us/pl/107/73/s206/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F73%2Fs206%2F2
+[/us/pl/107/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F73
+[/us/pl/107/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F73
 [/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
 [/us/usc/t12/s1715z–10/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715z%E2%80%9310%2Fc
 [/us/usc/t12/s1715z–17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715z%E2%80%9317
-[/us/pl/108/186/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F186%2Fs301%2Fb
+[/us/pl/108/186/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F186%2FtIII
 [/us/stat/117/2692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2692
 
 

@@ -43,7 +43,7 @@
 
         This section applies only to associations the chartered territory of which was within the geographic area served by the Federal intermediate credit bank immediately prior to its merger with a Farm Credit Bank under section 410(e)(1) of the Agricultural Credit Act of 1987 ([12 U.S.C. 2011][/us/usc/t12/s2011] note; [Public Law 100–233][/us/pl/100/233]).
 
-([Pub. L. 92–181, title VII, § 7][/us/pl/92/181/s7].7, as added [Pub. L. 110–234, title V, § 5407(a)][/us/pl/110/234/s5407/a], May 22, 2008, [122 Stat. 1159][/us/stat/122/1159], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title V, § 5407(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1921.)
+([Pub. L. 92–181, title VII][/us/pl/92/181/tVII], § 7.7, as added [Pub. L. 110–234, title V][/us/pl/110/234/tV], § 5407(a), May 22, 2008, [122 Stat. 1159][/us/stat/122/1159], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title V, § 5407(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1921.)
 
  __Codification__ 
 
@@ -51,7 +51,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 2279c, [Pub. L. 92–181, title VII, § 7][/us/pl/92/181/s7].7, as added [Pub. L. 100–233, title IV, § 416][/us/pl/100/233/s416], Jan. 6, 1988, [101 Stat. 1647][/us/stat/101/1647]; amended [Pub. L. 100–399, title IV, § 408(i)][/us/pl/100/399/s408/i], (j), Aug. 17, 1988, [102 Stat. 1002][/us/stat/102/1002], related to mergers of unlike associations, prior to renumbering as section 7.6(d) of [Pub. L. 92–181][/us/pl/92/181] and transfer to [section 2279b(d) of this title][/us/usc/t12/s2279b/d].
+    A prior section 2279c, [Pub. L. 92–181, title VII][/us/pl/92/181/tVII], § 7.7, as added [Pub. L. 100–233, title IV][/us/pl/100/233/tIV], § 416, Jan. 6, 1988, [101 Stat. 1647][/us/stat/101/1647]; amended [Pub. L. 100–399, title IV][/us/pl/100/399/tIV], § 408(i), (j), Aug. 17, 1988, [102 Stat. 1002][/us/stat/102/1002], related to mergers of unlike associations, prior to renumbering as section 7.6(d) of [Pub. L. 92–181][/us/pl/92/181] and transfer to [section 2279b(d) of this title][/us/usc/t12/s2279b/d].
 
  __Effective Date__ 
 
@@ -70,19 +70,19 @@
 [/us/usc/t12/s2279e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2279e
 [/us/usc/t12/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2011
 [/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
-[/us/pl/92/181/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs7
-[/us/pl/110/234/s5407/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs5407%2Fa
+[/us/pl/92/181/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtVII
+[/us/pl/110/234/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtV
 [/us/stat/122/1159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1159
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/92/181/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs7
-[/us/pl/100/233/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs416
+[/us/pl/92/181/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtVII
+[/us/pl/100/233/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtIV
 [/us/stat/101/1647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1647
-[/us/pl/100/399/s408/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs408%2Fi
+[/us/pl/100/399/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtIV
 [/us/stat/102/1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1002
 [/us/pl/92/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181
 [/us/usc/t12/s2279b/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2279b%2Fd

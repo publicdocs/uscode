@@ -33,7 +33,7 @@
 
         No provision of this chapter or any other provision of law administered by the appropriate Federal banking agency shall be construed as superseding any homestead provision of any State constitution, including any implementing State statute, in effect on September 29, 1994, or any subsequent amendment to such a State constitutional or statutory provision in effect on September 29, 1994, that exempts the homestead of any person from foreclosure, or forced sale, for the payment of all debts, other than a purchase money obligation relating to the homestead, taxes due on the homestead, or an obligation arising from work and material used in constructing improvements on the homestead.
 
-([June 13, 1933, ch. 64, § 3][/us/act/1933-06-13/ch64/s3], as added [Pub. L. 101–73, title III, § 301][/us/pl/101/73/s301], Aug. 9, 1989, [103 Stat. 278][/us/stat/103/278]; amended [Pub. L. 103–325, title III, § 331(c)][/us/pl/103/325/s331/c], Sept. 23, 1994, [108 Stat. 2232][/us/stat/108/2232]; [Pub. L. 103–328, title I, § 102(b)(5)][/us/pl/103/328/s102/b/5], Sept. 29, 1994, [108 Stat. 2352][/us/stat/108/2352]; [Pub. L. 109–351, title VII, § 712][/us/pl/109/351/s712], Oct. 13, 2006, [120 Stat. 1994][/us/stat/120/1994]; [Pub. L. 111–203, title III, § 369(3)][/us/pl/111/203/s369/3], July 21, 2010, [124 Stat. 1558][/us/stat/124/1558].)
+([June 13, 1933, ch. 64][/us/act/1933-06-13/ch64], § 3, as added [Pub. L. 101–73, title III][/us/pl/101/73/tIII], § 301, Aug. 9, 1989, [103 Stat. 278][/us/stat/103/278]; amended [Pub. L. 103–325, title III][/us/pl/103/325/tIII], § 331(c), Sept. 23, 1994, [108 Stat. 2232][/us/stat/108/2232]; [Pub. L. 103–328, title I][/us/pl/103/328/tI], § 102(b)(5), Sept. 29, 1994, [108 Stat. 2352][/us/stat/108/2352]; [Pub. L. 109–351, title VII][/us/pl/109/351/tVII], § 712, Oct. 13, 2006, [120 Stat. 1994][/us/stat/120/1994]; [Pub. L. 111–203, title III][/us/pl/111/203/tIII], § 369(3), July 21, 2010, [124 Stat. 1558][/us/stat/124/1558].)
 
  __References in Text__ 
 
@@ -43,25 +43,25 @@
 
  __Prior Provisions__ 
 
-    A prior section 3 of act June 13, 1933, amended [section 1424 of this title][/us/usc/t12/s1424] prior to the general revision of this chapter by [Pub. L. 101–73, § 301][/us/pl/101/73/s301].
+    A prior section 3 of act June 13, 1933, amended [section 1424 of this title][/us/usc/t12/s1424] prior to the general revision of this chapter by [Pub. L. 101–73][/us/pl/101/73], § 301.
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–203, § 369(3)(A)][/us/pl/111/203/s369/3/A], inserted section catchline and struck out former section catchline “Director of the Office of Thrift Supervision”.
+    2010—[Pub. L. 111–203][/us/pl/111/203], § 369(3)(A), inserted section catchline and struck out former section catchline “Director of the Office of Thrift Supervision”.
 
-    [Pub. L. 111–203, § 369(3)(B)][/us/pl/111/203/s369/3/B], (C), redesignated subsecs. (e) and (f) as (a) and (b), respectively, and struck out former subsecs. (a) to (d), which related to establishment of the Office of Thrift Supervision, position, appointment and term of Director, and prohibition on financial interests by Director; and subsecs. (g) to (j), which related to annual report requirement, staff, funding through assessments, and GAO audits.
+    [Pub. L. 111–203][/us/pl/111/203], § 369(3)(B), (C), redesignated subsecs. (e) and (f) as (a) and (b), respectively, and struck out former subsecs. (a) to (d), which related to establishment of the Office of Thrift Supervision, position, appointment and term of Director, and prohibition on financial interests by Director; and subsecs. (g) to (j), which related to annual report requirement, staff, funding through assessments, and GAO audits.
 
-    Subsec. (a). [Pub. L. 111–203, § 369(3)(D)][/us/pl/111/203/s369/3/D], struck out “of the Director” after “Powers” in heading and substituted “In accordance with subtitle A of title III of the Dodd-Frank Wall Street Reform and Consumer Protection Act, the appropriate Federal banking agency” for “The Director” in introductory provisions.
+    Subsec. (a). [Pub. L. 111–203][/us/pl/111/203], § 369(3)(D), struck out “of the Director” after “Powers” in heading and substituted “In accordance with subtitle A of title III of the Dodd-Frank Wall Street Reform and Consumer Protection Act, the appropriate Federal banking agency” for “The Director” in introductory provisions.
 
-    Subsec. (b). [Pub. L. 111–203, § 369(3)(E)][/us/pl/111/203/s369/3/E], substituted “appropriate Federal banking agency” for “Director”.
+    Subsec. (b). [Pub. L. 111–203][/us/pl/111/203], § 369(3)(E), substituted “appropriate Federal banking agency” for “Director”.
 
-    2006—Subsec. (c)(3). [Pub. L. 109–351, § 712(b)][/us/pl/109/351/s712/b], designated existing provisions as subpar. (A), inserted subpar. heading, and added subpar. (B).
+    2006—Subsec. (c)(3). [Pub. L. 109–351][/us/pl/109/351], § 712(b), designated existing provisions as subpar. (A), inserted subpar. heading, and added subpar. (B).
 
-    Subsec. (c)(5). [Pub. L. 109–351, § 712(a)][/us/pl/109/351/s712/a], amended heading and text of par. (5) generally. Prior to amendment, text read as follows: “Notwithstanding paragraphs (1) and (2), the Chairman of the Federal Home Loan Bank Board on the date of enactment of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989, shall be the Director until the date on which that individual’s term as Chairman of the Federal Home Loan Bank Board would have expired.”
+    Subsec. (c)(5). [Pub. L. 109–351][/us/pl/109/351], § 712(a), amended heading and text of par. (5) generally. Prior to amendment, text read as follows: “Notwithstanding paragraphs (1) and (2), the Chairman of the Federal Home Loan Bank Board on the date of enactment of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989, shall be the Director until the date on which that individual’s term as Chairman of the Federal Home Loan Bank Board would have expired.”
 
-    1994—Subsec. (b)(3). [Pub. L. 103–325, § 331(c)(1)][/us/pl/103/325/s331/c/1], substituted “(including agency enforcement actions) unless otherwise specifically provided by law” for “unless otherwise provided by law”.
+    1994—Subsec. (b)(3). [Pub. L. 103–325][/us/pl/103/325], § 331(c)(1), substituted “(including agency enforcement actions) unless otherwise specifically provided by law” for “unless otherwise provided by law”.
 
-    Subsec. (b)(4). [Pub. L. 103–325, § 331(c)(2)][/us/pl/103/325/s331/c/2], added par. (4).
+    Subsec. (b)(4). [Pub. L. 103–325][/us/pl/103/325], § 331(c)(2), added par. (4).
 
     Subsecs. (f) to (j). [Pub. L. 103–328][/us/pl/103/328] added subsec. (f) and redesignated former subsecs. (f) to (i) as (g) to (j), respectively.
 
@@ -88,16 +88,16 @@
 ----------
 ----------
 
-[/us/act/1933-06-13/ch64/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-13%2Fch64%2Fs3
-[/us/pl/101/73/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs301
+[/us/act/1933-06-13/ch64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-13%2Fch64
+[/us/pl/101/73/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtIII
 [/us/stat/103/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F278
-[/us/pl/103/325/s331/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs331%2Fc
+[/us/pl/103/325/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtIII
 [/us/stat/108/2232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2232
-[/us/pl/103/328/s102/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328%2Fs102%2Fb%2F5
+[/us/pl/103/328/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328%2FtI
 [/us/stat/108/2352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2352
-[/us/pl/109/351/s712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs712
+[/us/pl/109/351/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2FtVII
 [/us/stat/120/1994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1994
-[/us/pl/111/203/s369/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs369%2F3
+[/us/pl/111/203/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIII
 [/us/stat/124/1558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1558
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1376
@@ -106,15 +106,15 @@
 [/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
 [/us/stat/103/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F183
 [/us/usc/t12/s1424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1424
-[/us/pl/101/73/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs301
-[/us/pl/111/203/s369/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs369%2F3%2FA
-[/us/pl/111/203/s369/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs369%2F3%2FB
-[/us/pl/111/203/s369/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs369%2F3%2FD
-[/us/pl/111/203/s369/3/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs369%2F3%2FE
-[/us/pl/109/351/s712/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs712%2Fb
-[/us/pl/109/351/s712/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs712%2Fa
-[/us/pl/103/325/s331/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs331%2Fc%2F1
-[/us/pl/103/325/s331/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs331%2Fc%2F2
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
+[/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
+[/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
+[/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
 [/us/pl/103/328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs351

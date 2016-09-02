@@ -23,7 +23,7 @@
 
         Nothing in this chapter shall be construed to preclude cancellation or termination, by agreement between a mortgagor and the holder of the mortgage, of a requirement for private mortgage insurance in connection with a residential mortgage transaction before the cancellation or termination date established by this chapter for the mortgage.
 
-([Pub. L. 105–216, § 11][/us/pl/105/216/s11], July 29, 1998, [112 Stat. 908][/us/stat/112/908].)
+([Pub. L. 105–216][/us/pl/105/216], § 11, July 29, 1998, [112 Stat. 908][/us/stat/112/908].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/105/216/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F216%2Fs11
+[/us/pl/105/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F216
 [/us/stat/112/908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F908
 
 

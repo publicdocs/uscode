@@ -25,7 +25,7 @@
 
     (4) set forth all facts supporting the allegation of a violation described in paragraph (2) known to the declarant, along with the names of material witnesses and the nature and location of documentary evidence known to the declarant.
 
-([Pub. L. 101–647, title XXV, § 2562][/us/pl/101/647/s2562], Nov. 29, 1990, [104 Stat. 4894][/us/stat/104/4894].)
+([Pub. L. 101–647, title XXV][/us/pl/101/647/tXXV], § 2562, Nov. 29, 1990, [104 Stat. 4894][/us/stat/104/4894].)
 
 ----------
 
@@ -36,7 +36,7 @@
 
 [/us/usc/t12/s4201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4201
 [/us/usc/t12/s1833a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1833a
-[/us/pl/101/647/s2562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2562
+[/us/pl/101/647/tXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXV
 [/us/stat/104/4894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4894
 
 

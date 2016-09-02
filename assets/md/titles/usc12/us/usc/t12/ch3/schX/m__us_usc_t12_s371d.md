@@ -47,7 +47,7 @@
 
         (2) the term “well capitalized” has the same meaning as in section 1831o(b) of this title.
 
-([Dec. 23, 1913, ch. 6, § 24A][/us/act/1913-12-23/ch6/s24A], as added [June 16, 1933, ch. 89, § 14][/us/act/1933-06-16/ch89/s14], [48 Stat. 184][/us/stat/48/184]; amended [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 203(a), [49 Stat. 704][/us/stat/49/704]; [June 30, 1954, ch. 434, § 2][/us/act/1954-06-30/ch434/s2], [68 Stat. 358][/us/stat/68/358]; [Pub. L. 104–208, div. A, title II, § 2206][/us/pl/104/208/s2206], Sept. 30, 1996, [110 Stat. 3009–405][/us/stat/110/3009-405].)
+([Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 24A, as added [June 16, 1933, ch. 89][/us/act/1933-06-16/ch89], § 14, [48 Stat. 184][/us/stat/48/184]; amended [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 203(a), [49 Stat. 704][/us/stat/49/704]; [June 30, 1954, ch. 434][/us/act/1954-06-30/ch434], § 2, [68 Stat. 358][/us/stat/68/358]; [Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], § 2206, Sept. 30, 1996, [110 Stat. 3009–405][/us/stat/110/3009-405].)
 
  __Amendments__ 
 
@@ -71,14 +71,14 @@
 ----------
 
 [/us/usc/t12/s221a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs221a
-[/us/act/1913-12-23/ch6/s24A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs24A
-[/us/act/1933-06-16/ch89/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-16%2Fch89%2Fs14
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
+[/us/act/1933-06-16/ch89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-16%2Fch89
 [/us/stat/48/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F184
 [/us/act/1935-08-23/ch614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch614
 [/us/stat/49/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F704
-[/us/act/1954-06-30/ch434/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-06-30%2Fch434%2Fs2
+[/us/act/1954-06-30/ch434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-06-30%2Fch434
 [/us/stat/68/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F358
-[/us/pl/104/208/s2206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2206
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-405
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/usc/t12/s221a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs221a

@@ -17,7 +17,7 @@
 
     No member bank shall pay to any director, officer, attorney, or employee a greater rate of interest on the deposits of such director, officer, attorney, or employee than that paid to other depositors on similar deposits with such member bank.
 
-([Dec. 23, 1913, ch. 6, § 22(e)][/us/act/1913-12-23/ch6/s22/e], as added [Sept. 26, 1918, ch. 177, § 5][/us/act/1918-09-26/ch177/s5], [40 Stat. 971][/us/stat/40/971].)
+([Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 22(e), as added [Sept. 26, 1918, ch. 177][/us/act/1918-09-26/ch177], § 5, [40 Stat. 971][/us/stat/40/971].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/act/1913-12-23/ch6/s22/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs22%2Fe
-[/us/act/1918-09-26/ch177/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-09-26%2Fch177%2Fs5
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
+[/us/act/1918-09-26/ch177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-09-26%2Fch177
 [/us/stat/40/971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F971
 
 

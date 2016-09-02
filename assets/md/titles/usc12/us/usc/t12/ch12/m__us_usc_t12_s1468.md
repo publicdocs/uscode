@@ -75,7 +75,7 @@
 
             (B) the exemption does not present an unacceptable risk to the Deposit Insurance Fund.
 
-([June 13, 1933, ch. 64, § 11][/us/act/1933-06-13/ch64/s11], formerly § 9, [48 Stat. 135][/us/stat/48/135]; [Apr. 27, 1934, ch. 168, § 15][/us/act/1934-04-27/ch168/s15], [48 Stat. 647][/us/stat/48/647]; renumbered § 11, [Pub. L. 100–86, title IV, § 402(a)][/us/pl/100/86/s402/a], Aug. 10, 1987, [101 Stat. 605][/us/stat/101/605]; [Pub. L. 101–73, title III, § 301][/us/pl/101/73/s301], Aug. 9, 1989, [103 Stat. 342][/us/stat/103/342]; [Pub. L. 102–242, title III, § 306(i)][/us/pl/102/242/s306/i], Dec. 19, 1991, [105 Stat. 2359][/us/stat/105/2359]; [Pub. L. 103–325, title III, § 316][/us/pl/103/325/s316], Sept. 23, 1994, [108 Stat. 2223][/us/stat/108/2223]; [Pub. L. 111–203, title III, § 369(9)][/us/pl/111/203/s369/9], title VI, § 608(c), July 21, 2010, [124 Stat. 1565][/us/stat/124/1565], 1610.)
+([June 13, 1933, ch. 64][/us/act/1933-06-13/ch64], § 11, formerly § 9, [48 Stat. 135][/us/stat/48/135]; [Apr. 27, 1934, ch. 168][/us/act/1934-04-27/ch168], § 15, [48 Stat. 647][/us/stat/48/647]; renumbered § 11, [Pub. L. 100–86, title IV][/us/pl/100/86/tIV], § 402(a), Aug. 10, 1987, [101 Stat. 605][/us/stat/101/605]; [Pub. L. 101–73, title III][/us/pl/101/73/tIII], § 301, Aug. 9, 1989, [103 Stat. 342][/us/stat/103/342]; [Pub. L. 102–242, title III][/us/pl/102/242/tIII], § 306(i), Dec. 19, 1991, [105 Stat. 2359][/us/stat/105/2359]; [Pub. L. 103–325, title III][/us/pl/103/325/tIII], § 316, Sept. 23, 1994, [108 Stat. 2223][/us/stat/108/2223]; [Pub. L. 111–203, title III][/us/pl/111/203/tIII], § 369(9), title VI, § 608(c), July 21, 2010, [124 Stat. 1565][/us/stat/124/1565], 1610.)
 
  __References in Text__ 
 
@@ -83,11 +83,11 @@
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–203, § 369(9)][/us/pl/111/203/s369/9], substituted “appropriate Federal banking agency” for “Director” wherever appearing.
+    2010—[Pub. L. 111–203][/us/pl/111/203], § 369(9), substituted “appropriate Federal banking agency” for “Director” wherever appearing.
 
-    Subsec. (d). [Pub. L. 111–203, § 608(c)][/us/pl/111/203/s608/c], added subsec. (d).
+    Subsec. (d). [Pub. L. 111–203][/us/pl/111/203], § 608(c), added subsec. (d).
 
-    1994—Subsec. (a)(2)(C). [Pub. L. 103–325, § 316(b)][/us/pl/103/325/s316/b], struck out heading and text of subpar. (C) which read as follows:
+    1994—Subsec. (a)(2)(C). [Pub. L. 103–325][/us/pl/103/325], § 316(b), struck out heading and text of subpar. (C) which read as follows:
 
     “(C) Transition rule for well capitalized savings associations.—
 
@@ -95,7 +95,7 @@
 
     “(ii) Liability of commonly controlled depository institutions.—Any savings association that engages under clause (i) in a transaction that would not otherwise be permissible under this subsection, and any affiliated insured bank that is commonly controlled (as defined in [section 1815(e)(9) of this title][/us/usc/t12/s1815/e/9]), shall be subject to subsection (e) of [section 1815 of this title][/us/usc/t12/s1815] as if paragraph (6) of that subsection did not apply.”
 
-    [Pub. L. 103–325, § 316(a)][/us/pl/103/325/s316/a], added subpar. (C).
+    [Pub. L. 103–325][/us/pl/103/325], § 316(a), added subpar. (C).
 
     1991—Subsec. (b)(1). [Pub. L. 102–242][/us/pl/102/242] substituted “Subsections (g) and (h) of section 22” for “Section 22(h)”.
 
@@ -111,7 +111,7 @@
 
  __Effective Date of 1994 Amendment__ 
 
-    [Pub. L. 103–325, title III, § 316(b)][/us/pl/103/325/s316/b], Sept. 23, 1994, [108 Stat. 2223][/us/stat/108/2223], provided that amendment made by that section is effective Jan. 1, 1995.
+    [Pub. L. 103–325, title III][/us/pl/103/325/tIII], § 316(b), Sept. 23, 1994, [108 Stat. 2223][/us/stat/108/2223], provided that amendment made by that section is effective Jan. 1, 1995.
 
  __Effective Date of 1991 Amendment__ 
 
@@ -119,7 +119,7 @@
 
  __Transitional Rule for Certain Transactions With Affiliates__ 
 
-[Pub. L. 101–73, title III, § 304][/us/pl/101/73/s304], Aug. 9, 1989, [103 Stat. 351][/us/stat/103/351], provided that:
+[Pub. L. 101–73, title III][/us/pl/101/73/tIII], § 304, Aug. 9, 1989, [103 Stat. 351][/us/stat/103/351], provided that:
 
 >     “(a)  __Consistency of Certain Regulations With Section__  __23A__  __of the Federal Reserve Act__  __\[__  __[__  __12 U.S.C. 371c__  __][/us/usc/t12/s371c]__  __\].—Not later than 6 months after the date of enactment of this Act \[__  __Aug. 9, 1989__  __\], the Director of the Office of Thrift Supervision shall revise the Director’s conflicts regulations so as not to prohibit a thrift institution from purchasing mortgages from a mortgage-banking affiliate to the same extent as a member bank may do so under section 250.250 of title 12, Code of Federal Regulations.__ 
 
@@ -144,31 +144,31 @@
 [/us/usc/t12/s1467a/c/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1467a%2Fc%2F8
 [/us/usc/t12/s375a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs375a
 [/us/usc/t12/s1818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1818
-[/us/act/1933-06-13/ch64/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-13%2Fch64%2Fs11
+[/us/act/1933-06-13/ch64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-13%2Fch64
 [/us/stat/48/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F135
-[/us/act/1934-04-27/ch168/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-04-27%2Fch168%2Fs15
+[/us/act/1934-04-27/ch168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-04-27%2Fch168
 [/us/stat/48/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F647
-[/us/pl/100/86/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2Fs402%2Fa
+[/us/pl/100/86/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2FtIV
 [/us/stat/101/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F605
-[/us/pl/101/73/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs301
+[/us/pl/101/73/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtIII
 [/us/stat/103/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F342
-[/us/pl/102/242/s306/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs306%2Fi
+[/us/pl/102/242/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtIII
 [/us/stat/105/2359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2359
-[/us/pl/103/325/s316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs316
+[/us/pl/103/325/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtIII
 [/us/stat/108/2223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2223
-[/us/pl/111/203/s369/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs369%2F9
+[/us/pl/111/203/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIII
 [/us/stat/124/1565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1565
 [/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
 [/us/stat/38/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F251
 [/us/usc/t12/s226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs226
-[/us/pl/111/203/s369/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs369%2F9
-[/us/pl/111/203/s608/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs608%2Fc
-[/us/pl/103/325/s316/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs316%2Fb
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
 [/us/usc/t12/s371c/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs371c%2Fd%2F1
 [/us/usc/t12/s371c–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs371c%E2%80%931
 [/us/usc/t12/s1815/e/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1815%2Fe%2F9
 [/us/usc/t12/s1815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1815
-[/us/pl/103/325/s316/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs316%2Fa
+[/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
 [/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
 [/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
 [/us/pl/111/203/s369/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs369%2F9
@@ -177,13 +177,13 @@
 [/us/pl/111/203/s608/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs608%2Fc
 [/us/pl/111/203/s608/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs608%2Fd
 [/us/usc/t12/s371c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs371c
-[/us/pl/103/325/s316/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs316%2Fb
+[/us/pl/103/325/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtIII
 [/us/stat/108/2223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2223
 [/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
 [/us/pl/102/242/s306/m/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs306%2Fm%2F1
 [/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
 [/us/usc/t12/s375b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs375b
-[/us/pl/101/73/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs304
+[/us/pl/101/73/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtIII
 [/us/stat/103/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F351
 [/us/usc/t12/s371c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs371c
 [/us/usc/t12/s1468/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1468%2Fa

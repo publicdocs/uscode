@@ -17,7 +17,7 @@
 
     Each bank for cooperatives and its obligations are instrumentalities of the United States and as such any and all notes, debentures, and other obligations issued by such bank shall be exempt, both as to principal and interest from all taxation (except surtaxes, estate, inheritance, and gift taxes) now or hereafter imposed by the United States or any State, territorial, or local taxing authority, except that interest on such obligations shall be subject to Federal income taxation in the hands of the holder.
 
-([Pub. L. 92–181, title III, § 3][/us/pl/92/181/s3].13, Dec. 10, 1971, [85 Stat. 608][/us/stat/85/608]; [Pub. L. 99–205, title II, § 205(e)(10)][/us/pl/99/205/s205/e/10], Dec. 23, 1985, [99 Stat. 1705][/us/stat/99/1705]; [Pub. L. 100–233, title VIII, § 805(p)][/us/pl/100/233/s805/p], Jan. 6, 1988, [101 Stat. 1716][/us/stat/101/1716].)
+([Pub. L. 92–181, title III][/us/pl/92/181/tIII], § 3.13, Dec. 10, 1971, [85 Stat. 608][/us/stat/85/608]; [Pub. L. 99–205, title II][/us/pl/99/205/tII], § 205(e)(10), Dec. 23, 1985, [99 Stat. 1705][/us/stat/99/1705]; [Pub. L. 100–233, title VIII][/us/pl/100/233/tVIII], § 805(p), Jan. 6, 1988, [101 Stat. 1716][/us/stat/101/1716].)
 
  __Amendments__ 
 
@@ -36,11 +36,11 @@
 ----------
 ----------
 
-[/us/pl/92/181/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs3
+[/us/pl/92/181/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtIII
 [/us/stat/85/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F608
-[/us/pl/99/205/s205/e/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2Fs205%2Fe%2F10
+[/us/pl/99/205/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2FtII
 [/us/stat/99/1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1705
-[/us/pl/100/233/s805/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs805%2Fp
+[/us/pl/100/233/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtVIII
 [/us/stat/101/1716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1716
 [/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
 [/us/pl/99/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205

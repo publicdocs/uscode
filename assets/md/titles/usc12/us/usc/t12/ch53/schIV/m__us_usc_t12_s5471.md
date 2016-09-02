@@ -35,7 +35,7 @@
 
         (3) prior to exercising its rulemaking authorities under [section 78m(n) of title 15][/us/usc/t15/s78m/n], as added by section 763(i) of the Wall Street Transparency and Accountability Act of 2010.
 
-([Pub. L. 111–203, title VIII, § 812][/us/pl/111/203/s812], July 21, 2010, [124 Stat. 1821][/us/stat/124/1821].)
+([Pub. L. 111–203, title VIII][/us/pl/111/203/tVIII], § 812, July 21, 2010, [124 Stat. 1821][/us/stat/124/1821].)
 
  __References in Text__ 
 
@@ -53,7 +53,7 @@
 [/us/usc/t7/s24a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs24a
 [/us/usc/t15/s78s/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78s%2Fb%2F2
 [/us/usc/t15/s78m/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78m%2Fn
-[/us/pl/111/203/s812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs812
+[/us/pl/111/203/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVIII
 [/us/stat/124/1821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1821
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1641

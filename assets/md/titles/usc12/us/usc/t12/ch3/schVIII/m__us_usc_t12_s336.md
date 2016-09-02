@@ -17,7 +17,7 @@
 
     After August 23, 1935, no certificate evidencing the stock of any State member bank shall bear any statement purporting to represent the stock of any other corporation, except a member bank or a corporation engaged on June 16, 1934, in holding the bank premises of such member bank, nor shall the ownership, sale, or transfer of any certificate representing the stock of any State member bank be conditioned in any manner whatsoever upon the ownership, sale, or transfer of a certificate representing the stock of any other corporation, except a member bank or a corporation engaged on June 16, 1934 in holding the bank premises of such member bank: Provided, That this subchapter shall not operate to prevent the ownership, sale, or transfer of stock of any other corporation being conditioned upon the ownership, sale, or transfer of a certificate representing stock of a State member bank.
 
-([Dec. 23, 1913, ch. 6, § 9][/us/act/1913-12-23/ch6/s9] (par.), as added [June 16, 1933, ch. 89, § 5(c)][/us/act/1933-06-16/ch89/s5/c], [48 Stat. 165][/us/stat/48/165]; amended [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title III, § 310(b), [49 Stat. 710][/us/stat/49/710].)
+([Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 9 (par.), as added [June 16, 1933, ch. 89][/us/act/1933-06-16/ch89], § 5(c), [48 Stat. 165][/us/stat/48/165]; amended [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title III, § 310(b), [49 Stat. 710][/us/stat/49/710].)
 
  __References in Text__ 
 
@@ -38,8 +38,8 @@
 ----------
 ----------
 
-[/us/act/1913-12-23/ch6/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs9
-[/us/act/1933-06-16/ch89/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-16%2Fch89%2Fs5%2Fc
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
+[/us/act/1933-06-16/ch89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-16%2Fch89
 [/us/stat/48/165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F165
 [/us/act/1935-08-23/ch614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch614
 [/us/stat/49/710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F710

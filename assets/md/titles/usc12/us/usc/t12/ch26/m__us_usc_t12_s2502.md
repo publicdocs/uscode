@@ -23,7 +23,7 @@
 
     (3) “financial organization” means any savings and loan association, building and loan association, credit union, or investment company engaged in business in the United States.
 
-([Pub. L. 93–495, title VI, § 602][/us/pl/93/495/s602], Oct. 28, 1974, [88 Stat. 1525][/us/stat/88/1525].)
+([Pub. L. 93–495, title VI][/us/pl/93/495/tVI], § 602, Oct. 28, 1974, [88 Stat. 1525][/us/stat/88/1525].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/93/495/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2Fs602
+[/us/pl/93/495/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2FtVI
 [/us/stat/88/1525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1525
 
 

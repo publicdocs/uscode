@@ -79,7 +79,7 @@
 
         There shall be in the Treasury (1) a fund which shall be available to the Secretary of Housing and Urban Development for the purpose of extending financial assistance in behalf of distressed mortgagors as provided in subsection (c) and for paying administrative expenses incurred in connection with such assistance, and (2) a fund which shall be available to the Secretary of Veterans Affairs for the same purpose, except administrative expenses. The capital of each such fund shall consist of such sums as may, from time to time, be appropriated thereto, and any sums so appropriated shall remain available until expended. Receipts arising from the programs of assistance under subsection (c) shall be credited to the funds from which such assistance was extended. Moneys in either of such funds not needed for current operations, as determined by the Secretary of Housing and Urban Development, or the Secretary of Veterans Affairs, as the case may be, shall be invested in bonds or other obligations of the United States, or paid into the Treasury as miscellaneous receipts.
 
-([Pub. L. 89–117, title I, § 107(a)][/us/pl/89/117/s107/a]–(e), Aug. 10, 1965, [79 Stat. 458][/us/stat/79/458], 459; [Pub. L. 89–754, title X, § 1012][/us/pl/89/754/s1012], Nov. 3, 1966, [80 Stat. 1288][/us/stat/80/1288]; [Pub. L. 102–54, § 13(d)(3)][/us/pl/102/54/s13/d/3], June 13, 1991, [105 Stat. 275][/us/stat/105/275].)
+([Pub. L. 89–117, title I][/us/pl/89/117/tI], § 107(a)–(e), Aug. 10, 1965, [79 Stat. 458][/us/stat/79/458], 459; [Pub. L. 89–754, title X][/us/pl/89/754/tX], § 1012, Nov. 3, 1966, [80 Stat. 1288][/us/stat/80/1288]; [Pub. L. 102–54][/us/pl/102/54], § 13(d)(3), June 13, 1991, [105 Stat. 275][/us/stat/105/275].)
 
  __References in Text__ 
 
@@ -125,11 +125,11 @@
 ----------
 
 [/us/usc/t12/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701
-[/us/pl/89/117/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117%2Fs107%2Fa
+[/us/pl/89/117/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117%2FtI
 [/us/stat/79/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F458
-[/us/pl/89/754/s1012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F754%2Fs1012
+[/us/pl/89/754/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F754%2FtX
 [/us/stat/80/1288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1288
-[/us/pl/102/54/s13/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54%2Fs13%2Fd%2F3
+[/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/stat/105/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F275
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
 [/us/stat/48/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1246

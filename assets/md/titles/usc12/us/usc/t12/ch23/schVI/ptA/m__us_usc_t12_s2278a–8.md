@@ -23,7 +23,7 @@
 
         The powers of the Assistance Board under this subchapter shall not include the management, administration, or disposition of any loans or other assets owned by other System institutions, or the providing of technical assistance or other related services to other System institutions in connection with the administration of loans owned by such other institutions.
 
-([Pub. L. 92–181, title VI, § 6][/us/pl/92/181/s6].8, as added [Pub. L. 100–233, title II, § 201][/us/pl/100/233/s201], Jan. 6, 1988, [101 Stat. 1591][/us/stat/101/1591].)
+([Pub. L. 92–181, title VI][/us/pl/92/181/tVI], § 6.8, as added [Pub. L. 100–233, title II][/us/pl/100/233/tII], § 201, Jan. 6, 1988, [101 Stat. 1591][/us/stat/101/1591].)
 
 ----------
 
@@ -32,8 +32,8 @@
 ----------
 ----------
 
-[/us/pl/92/181/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs6
-[/us/pl/100/233/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs201
+[/us/pl/92/181/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtVI
+[/us/pl/100/233/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtII
 [/us/stat/101/1591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1591
 
 

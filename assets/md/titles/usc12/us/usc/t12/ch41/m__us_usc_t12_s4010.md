@@ -71,7 +71,7 @@
 
         The Board is authorized to impose on or allocate among depository institutions the risks of loss and liability in connection with any aspect of the payment system, including the receipt, payment, collection, or clearing of checks, and any related function of the payment system with respect to checks. Liability under this subsection shall not exceed the amount of the check giving rise to the loss or liability, and, where there is bad faith, other damages, if any, suffered as a proximate consequence of any act or omission giving rise to the loss or liability.
 
-([Pub. L. 100–86, title VI, § 611][/us/pl/100/86/s611], Aug. 10, 1987, [101 Stat. 650][/us/stat/101/650].)
+([Pub. L. 100–86, title VI][/us/pl/100/86/tVI], § 611, Aug. 10, 1987, [101 Stat. 650][/us/stat/101/650].)
 
  __Effective Date__ 
 
@@ -84,7 +84,7 @@
 ----------
 ----------
 
-[/us/pl/100/86/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2Fs611
+[/us/pl/100/86/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2FtVI
 [/us/stat/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F650
 [/us/pl/100/86/s613/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2Fs613%2Fb
 [/us/usc/t12/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4001

@@ -23,7 +23,7 @@
 
         The authority provided in this section shall terminate 5 years after July 21, 2010.
 
-([Pub. L. 111–203, title X, § 1065][/us/pl/111/203/s1065], July 21, 2010, [124 Stat. 2055][/us/stat/124/2055].)
+([Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1065, July 21, 2010, [124 Stat. 2055][/us/stat/124/2055].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/111/203/s1065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1065
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2055
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1955

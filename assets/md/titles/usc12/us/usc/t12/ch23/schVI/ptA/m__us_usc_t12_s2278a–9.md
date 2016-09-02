@@ -117,17 +117,17 @@
 
             During the 5-year period beginning on January 6, 1988, and thereafter whenever funds from the Farm Credit System Insurance Fund are available for use in assisting System institutions to meet their obligations on their debt instruments, activation of the Thirty-Seven Banks Capital Preservation Agreement, the Federal Land Banks Capital Preservation Agreement, the Federal Intermediate Credit Banks Capital Preservation Agreement, and the Banks for Cooperatives Loss Sharing Agreement shall be suspended, in exchange for the benefits flowing to the signatories to such agreements under the Agricultural Credit Act of 1987.
 
-([Pub. L. 92–181, title VI, § 6][/us/pl/92/181/s6].9, as added [Pub. L. 100–233, title II, § 201][/us/pl/100/233/s201], Jan. 6, 1988, [101 Stat. 1591][/us/stat/101/1591]; amended [Pub. L. 100–399, title II, § 201(k)][/us/pl/100/399/s201/k], (l), Aug. 17, 1988, [102 Stat. 991][/us/stat/102/991]; [Pub. L. 102–552, title III, § 301][/us/pl/102/552/s301], Oct. 28, 1992, [106 Stat. 4107][/us/stat/106/4107].)
+([Pub. L. 92–181, title VI][/us/pl/92/181/tVI], § 6.9, as added [Pub. L. 100–233, title II][/us/pl/100/233/tII], § 201, Jan. 6, 1988, [101 Stat. 1591][/us/stat/101/1591]; amended [Pub. L. 100–399, title II][/us/pl/100/399/tII], § 201(k), (l), Aug. 17, 1988, [102 Stat. 991][/us/stat/102/991]; [Pub. L. 102–552, title III][/us/pl/102/552/tIII], § 301, Oct. 28, 1992, [106 Stat. 4107][/us/stat/106/4107].)
 
  __References in Text__ 
 
-    Sections 2216f and 2216g of this title, referred to in subsec. (c), were repealed by [Pub. L. 100–233, title II, § 207(a)(3)][/us/pl/100/233/s207/a/3], Jan. 6, 1988, [101 Stat. 1607][/us/stat/101/1607], effective 15 days after Jan. 6, 1988.
+    Sections 2216f and 2216g of this title, referred to in subsec. (c), were repealed by [Pub. L. 100–233, title II][/us/pl/100/233/tII], § 207(a)(3), Jan. 6, 1988, [101 Stat. 1607][/us/stat/101/1607], effective 15 days after Jan. 6, 1988.
 
     The Agricultural Credit Act of 1987, referred to in subsec. (e)(5), is [Pub. L. 100–233][/us/pl/100/233], Jan. 6, 1988, [101 Stat. 1568][/us/stat/101/1568], as amended. For complete classification of this Act to the Code see Short Title of 1988 Amendment note set out under [section 2001 of this title][/us/usc/t12/s2001] and Tables.
 
  __Amendments__ 
 
-    1992—Subsec. (e)(3)(C). [Pub. L. 102–552, § 301(1)][/us/pl/102/552/s301/1], added subpar. (C) and struck out former subpar. (C) which read as follows:
+    1992—Subsec. (e)(3)(C). [Pub. L. 102–552][/us/pl/102/552], § 301(1), added subpar. (C) and struck out former subpar. (C) which read as follows:
 
     “(C) Payment of principal.—After the end of the 15-year period beginning on the date of the issuance of any obligation issued to carry out this subsection, the banks operating under this chapter shall pay to the Financial Assistance Corporation, on demand, an amount equal to the outstanding principal of such obligation. Each bank shall pay a proportion of such principal equal to—
 
@@ -135,13 +135,13 @@
 
     “(ii) the average accruing loan volume of all banks of the System for the same period.”
 
-    Subsec. (e)(3)(D). [Pub. L. 102–552, § 301(2)][/us/pl/102/552/s301/2], (3), added subpar. (D) and redesignated former subpar. (D) as (E).
+    Subsec. (e)(3)(D). [Pub. L. 102–552][/us/pl/102/552], § 301(2), (3), added subpar. (D) and redesignated former subpar. (D) as (E).
 
-    Subsec. (e)(3)(E). [Pub. L. 102–552, § 301(2)][/us/pl/102/552/s301/2], (4), redesignated subpar. (D) as (E) and inserted before period at end “, nor shall the obligation to make future annuity payments to the Financial Assistance Corporation under subparagraph (D) be considered a liability of any System bank”.
+    Subsec. (e)(3)(E). [Pub. L. 102–552][/us/pl/102/552], § 301(2), (4), redesignated subpar. (D) as (E) and inserted before period at end “, nor shall the obligation to make future annuity payments to the Financial Assistance Corporation under subparagraph (D) be considered a liability of any System bank”.
 
-    1988—Subsec. (a). [Pub. L. 100–399, § 201(k)][/us/pl/100/399/s201/k], inserted in heading “Assets and”.
+    1988—Subsec. (a). [Pub. L. 100–399][/us/pl/100/399], § 201(k), inserted in heading “Assets and”.
 
-    Subsec. (e)(5). [Pub. L. 100–399, § 201][/us/pl/100/399/s201](l), inserted “activation of” after “instruments,” and struck out closing quotation mark and following period, which for purposes of codification had been previously struck out requiring no change in text.
+    Subsec. (e)(5). [Pub. L. 100–399][/us/pl/100/399], § 201(l), inserted “activation of” after “instruments,” and struck out closing quotation mark and following period, which for purposes of codification had been previously struck out requiring no change in text.
 
  __Effective Date of 1988 Amendment__ 
 
@@ -158,23 +158,23 @@
 [/us/usc/t12/s2278b–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2278b%E2%80%936
 [/us/usc/t12/s2279d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2279d
 [/us/usc/t12/s2278b–5/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2278b%E2%80%935%2Fa%2F1
-[/us/pl/92/181/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs6
-[/us/pl/100/233/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs201
+[/us/pl/92/181/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtVI
+[/us/pl/100/233/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtII
 [/us/stat/101/1591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1591
-[/us/pl/100/399/s201/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs201%2Fk
+[/us/pl/100/399/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtII
 [/us/stat/102/991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F991
-[/us/pl/102/552/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2Fs301
+[/us/pl/102/552/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2FtIII
 [/us/stat/106/4107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4107
-[/us/pl/100/233/s207/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs207%2Fa%2F3
+[/us/pl/100/233/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtII
 [/us/stat/101/1607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1607
 [/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
 [/us/stat/101/1568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1568
 [/us/usc/t12/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2001
-[/us/pl/102/552/s301/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2Fs301%2F1
-[/us/pl/102/552/s301/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2Fs301%2F2
-[/us/pl/102/552/s301/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2Fs301%2F2
-[/us/pl/100/399/s201/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs201%2Fk
-[/us/pl/100/399/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs201
+[/us/pl/102/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552
+[/us/pl/102/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552
+[/us/pl/102/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
 [/us/pl/100/399/s1001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs1001%2Fa

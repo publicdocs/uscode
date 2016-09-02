@@ -21,13 +21,13 @@
 
     (2) a bank service company may refuse to provide services to a nonstockholding or nonmember institution if comparable services are available from another source at competitive overall costs, or if the providing of services would be beyond the practical capacity of the service company.
 
-([Pub. L. 87–856, § 6][/us/pl/87/856/s6], Oct. 23, 1962, as added [Pub. L. 97–320, title VII, § 709][/us/pl/97/320/s709], Oct. 15, 1982, [96 Stat. 1543][/us/stat/96/1543]; amended [Pub. L. 104–208, div. A, title II, § 2613(g)][/us/pl/104/208/s2613/g], Sept. 30, 1996, [110 Stat. 3009–478][/us/stat/110/3009-478].)
+([Pub. L. 87–856][/us/pl/87/856], § 6, Oct. 23, 1962, as added [Pub. L. 97–320, title VII][/us/pl/97/320/tVII], § 709, Oct. 15, 1982, [96 Stat. 1543][/us/stat/96/1543]; amended [Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], § 2613(g), Sept. 30, 1996, [110 Stat. 3009–478][/us/stat/110/3009-478].)
 
  __Amendments__ 
 
-    1996—[Pub. L. 104–208, § 2613(g)(1)][/us/pl/104/208/s2613/g/1]–(4), (6), in section catchline, inserted “or nonmembers” after “nonstockholders”, and in introductory provisions of text, substituted “company” for “corporation” wherever appearing and “such depository institution” for “the nonstockholding institution” and inserted “or is not a member of” after “does not own stock in” and “or is a member of” after “that owns stock in”.
+    1996—[Pub. L. 104–208][/us/pl/104/208], § 2613(g)(1)–(4), (6), in section catchline, inserted “or nonmembers” after “nonstockholders”, and in introductory provisions of text, substituted “company” for “corporation” wherever appearing and “such depository institution” for “the nonstockholding institution” and inserted “or is not a member of” after “does not own stock in” and “or is a member of” after “that owns stock in”.
 
-    Pars. (1), (2). [Pub. L. 104–208, § 2613(g)(1)][/us/pl/104/208/s2613/g/1], (5), substituted “company” for “corporation” wherever appearing and inserted “or nonmember” after “nonstockholding”.
+    Pars. (1), (2). [Pub. L. 104–208][/us/pl/104/208], § 2613(g)(1), (5), substituted “company” for “corporation” wherever appearing and inserted “or nonmember” after “nonstockholding”.
 
 ----------
 
@@ -36,12 +36,12 @@
 ----------
 ----------
 
-[/us/pl/87/856/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F856%2Fs6
-[/us/pl/97/320/s709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs709
+[/us/pl/87/856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F856
+[/us/pl/97/320/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2FtVII
 [/us/stat/96/1543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1543
-[/us/pl/104/208/s2613/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2613%2Fg
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-478
-[/us/pl/104/208/s2613/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2613%2Fg%2F1
-[/us/pl/104/208/s2613/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2613%2Fg%2F1
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 
 

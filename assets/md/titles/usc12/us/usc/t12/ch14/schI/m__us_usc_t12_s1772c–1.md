@@ -35,7 +35,7 @@
 
         As used in this section, the term “Fund” means the Community Development Credit Union Revolving Loan Fund.
 
-([June 26, 1934, ch. 750][/us/act/1934-06-26/ch750], title I, § 130, as added [Pub. L. 103–325, title I, § 120(b)][/us/pl/103/325/s120/b], Sept. 23, 1994, [108 Stat. 2188][/us/stat/108/2188].)
+([June 26, 1934, ch. 750][/us/act/1934-06-26/ch750], title I, § 130, as added [Pub. L. 103–325, title I][/us/pl/103/325/tI], § 120(b), Sept. 23, 1994, [108 Stat. 2188][/us/stat/108/2188].)
 
  __References in Text__ 
 
@@ -49,7 +49,7 @@
 ----------
 
 [/us/act/1934-06-26/ch750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-26%2Fch750
-[/us/pl/103/325/s120/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs120%2Fb
+[/us/pl/103/325/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtI
 [/us/stat/108/2188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2188
 [/us/pl/99/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F609
 [/us/stat/100/3475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3475

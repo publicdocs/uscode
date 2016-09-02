@@ -31,7 +31,7 @@
 
         A qualified purchaser shall not be precluded from retaining as a property management entity a company that is owned or controlled by the selling owner or a principal thereof if retention of the management company is neither a condition of sale nor part of consideration paid for sale and the property management contract is negotiated by the qualified purchaser on an arm’s length basis.
 
-([Pub. L. 100–242, title II, § 231][/us/pl/100/242/s231], as added [Pub. L. 101–625, title VI, § 601(a)][/us/pl/101/625/s601/a], Nov. 28, 1990, [104 Stat. 4273][/us/stat/104/4273]; amended [Pub. L. 102–550, title III, § 317(a)(6)][/us/pl/102/550/s317/a/6], Oct. 28, 1992, [106 Stat. 3772][/us/stat/106/3772].)
+([Pub. L. 100–242, title II][/us/pl/100/242/tII], § 231, as added [Pub. L. 101–625, title VI][/us/pl/101/625/tVI], § 601(a), Nov. 28, 1990, [104 Stat. 4273][/us/stat/104/4273]; amended [Pub. L. 102–550, title III][/us/pl/102/550/tIII], § 317(a)(6), Oct. 28, 1992, [106 Stat. 3772][/us/stat/106/3772].)
 
  __Amendments__ 
 
@@ -45,10 +45,10 @@
 ----------
 
 [/us/usc/t12/s4112/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4112%2Fc
-[/us/pl/100/242/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs231
-[/us/pl/101/625/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs601%2Fa
+[/us/pl/100/242/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtII
+[/us/pl/101/625/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtVI
 [/us/stat/104/4273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4273
-[/us/pl/102/550/s317/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs317%2Fa%2F6
+[/us/pl/102/550/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtIII
 [/us/stat/106/3772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3772
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 

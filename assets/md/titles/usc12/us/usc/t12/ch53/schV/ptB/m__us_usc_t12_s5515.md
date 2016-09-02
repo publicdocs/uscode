@@ -157,7 +157,7 @@
 
                 Nothing in this section shall modify or limit the authority of the Bureau to interpret, or take enforcement action under, any Federal consumer financial law, or the authority of a prudential regulator to interpret or take enforcement action under any other provision of Federal law for safety and soundness purposes.
 
-([Pub. L. 111–203, title X, § 1025][/us/pl/111/203/s1025], July 21, 2010, [124 Stat. 1990][/us/stat/124/1990].)
+([Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1025, July 21, 2010, [124 Stat. 1990][/us/stat/124/1990].)
 
  __References in Text__ 
 
@@ -177,7 +177,7 @@
 [/us/usc/t12/s1867/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1867%2Fc
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
 [/us/usc/t12/s1790a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1790a
-[/us/pl/111/203/s1025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1025
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/1990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1990
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1955

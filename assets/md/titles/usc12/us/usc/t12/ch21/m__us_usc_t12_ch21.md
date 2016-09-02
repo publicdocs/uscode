@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t12/ch20/m__us_usc_t12_ch20.md) | [Next](./../../../..//us/usc/t12/ch21/m__us_usc_t12_s1951.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fch21)
+[Previous](./../../../..//us/usc/t12/ch20/m__us_usc_t12_s1901...1910.md) | [Next](./../../../..//us/usc/t12/ch21/m__us_usc_t12_s1951.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fch21)
 
 ## CHAPTER 21—FINANCIAL RECORDKEEPING
 
@@ -99,7 +99,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t12/ch20/m__us_usc_t12_ch20.md) | [Next](./../../../..//us/usc/t12/ch21/m__us_usc_t12_s1951.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fch21)
+[Previous](./../../../..//us/usc/t12/ch20/m__us_usc_t12_s1901...1910.md) | [Next](./../../../..//us/usc/t12/ch21/m__us_usc_t12_s1951.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fch21)
 
 ----------
 ----------

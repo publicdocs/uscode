@@ -91,7 +91,7 @@
 
         (2) the date of expiration of the last insurance contract issued under [section 5212 of this title][/us/usc/t12/s5212].
 
-([Pub. L. 110–343, div. A, title I, § 105][/us/pl/110/343/s105], Oct. 3, 2008, [122 Stat. 3771][/us/stat/122/3771].)
+([Pub. L. 110–343, div. A, title I][/us/pl/110/343/dA/tI], § 105, Oct. 3, 2008, [122 Stat. 3771][/us/stat/122/3771].)
 
  __References in Text__ 
 
@@ -113,7 +113,7 @@
 [/us/usc/t12/s5233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5233
 [/us/usc/t12/s5211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5211
 [/us/usc/t12/s5212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5212
-[/us/pl/110/343/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs105
+[/us/pl/110/343/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdA%2FtI
 [/us/stat/122/3771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3771
 [/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
 [/us/stat/122/3765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3765

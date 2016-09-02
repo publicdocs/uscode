@@ -21,9 +21,9 @@
 
  __Codification__ 
 
-    R.S. § 5198 (less last sentence) derived from [act June 3, 1864, ch. 106, § 30][/us/act/1864-06-03/ch106/s30], [13 Stat. 108][/us/stat/13/108], which was the National Bank Act. See [section 38 of this title][/us/usc/t12/s38].
+    R.S. § 5198 (less last sentence) derived from [act June 3, 1864, ch. 106][/us/act/1864-06-03/ch106], § 30, [13 Stat. 108][/us/stat/13/108], which was the National Bank Act. See [section 38 of this title][/us/usc/t12/s38].
 
-    Section is based on R.S. § 5198, less last sentence as added by [act Feb. 18, 1875, ch. 80, § 1][/us/act/1875-02-18/ch80/s1], [18 Stat. 320][/us/stat/18/320], which is classified to [section 94 of this title][/us/usc/t12/s94].
+    Section is based on R.S. § 5198, less last sentence as added by [act Feb. 18, 1875, ch. 80][/us/act/1875-02-18/ch80], § 1, [18 Stat. 320][/us/stat/18/320], which is classified to [section 94 of this title][/us/usc/t12/s94].
 
 ----------
 
@@ -33,10 +33,10 @@
 ----------
 
 [/us/usc/t12/s85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs85
-[/us/act/1864-06-03/ch106/s30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-06-03%2Fch106%2Fs30
+[/us/act/1864-06-03/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-06-03%2Fch106
 [/us/stat/13/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F13%2F108
 [/us/usc/t12/s38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs38
-[/us/act/1875-02-18/ch80/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1875-02-18%2Fch80%2Fs1
+[/us/act/1875-02-18/ch80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1875-02-18%2Fch80
 [/us/stat/18/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F18%2F320
 [/us/usc/t12/s94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs94
 

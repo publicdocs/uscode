@@ -137,17 +137,17 @@
 
         This section shall not apply to a bank for cooperatives.
 
-([Pub. L. 92–181, title IV, § 4][/us/pl/92/181/s4].36, as added [Pub. L. 99–205, title III, § 306][/us/pl/99/205/s306], Dec. 23, 1985, [99 Stat. 1709][/us/stat/99/1709]; amended [Pub. L. 100–233, title I, § 108][/us/pl/100/233/s108], Jan. 6, 1988, [101 Stat. 1582][/us/stat/101/1582]; [Pub. L. 100–399, title I, § 104][/us/pl/100/399/s104], Aug. 17, 1988, [102 Stat. 990][/us/stat/102/990].)
+([Pub. L. 92–181, title IV][/us/pl/92/181/tIV], § 4.36, as added [Pub. L. 99–205, title III][/us/pl/99/205/tIII], § 306, Dec. 23, 1985, [99 Stat. 1709][/us/stat/99/1709]; amended [Pub. L. 100–233, title I][/us/pl/100/233/tI], § 108, Jan. 6, 1988, [101 Stat. 1582][/us/stat/101/1582]; [Pub. L. 100–399, title I][/us/pl/100/399/tI], § 104, Aug. 17, 1988, [102 Stat. 990][/us/stat/102/990].)
 
  __Amendments__ 
 
     1988—[Pub. L. 100–233][/us/pl/100/233] amended section generally. Prior to amendment, section read as follows: “No institution of the Farm Credit System shall sell any real property that previously served as security for a loan in a tract larger than a normal family size farm in the vicinity of the property for less than the amount it can receive from the Capital Corporation.”
 
-    Subsec. (b)(2). [Pub. L. 100–399, § 104(a)][/us/pl/100/399/s104/a], substituted “30” for “15”.
+    Subsec. (b)(2). [Pub. L. 100–399][/us/pl/100/399], § 104(a), substituted “30” for “15”.
 
-    Subsec. (b)(3). [Pub. L. 100–399, § 104(b)][/us/pl/100/399/s104/b], substituted “15” for “30”.
+    Subsec. (b)(3). [Pub. L. 100–399][/us/pl/100/399], § 104(b), substituted “15” for “30”.
 
-    Subsec. (g). [Pub. L. 100–399, § 104(c)][/us/pl/100/399/s104/c], substituted “previous owner” for “former borrower”.
+    Subsec. (g). [Pub. L. 100–399][/us/pl/100/399], § 104(c), substituted “previous owner” for “former borrower”.
 
  __Effective Date of 1988 Amendment__ 
 
@@ -164,17 +164,17 @@
 ----------
 ----------
 
-[/us/pl/92/181/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs4
-[/us/pl/99/205/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2Fs306
+[/us/pl/92/181/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtIV
+[/us/pl/99/205/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2FtIII
 [/us/stat/99/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1709
-[/us/pl/100/233/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs108
+[/us/pl/100/233/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtI
 [/us/stat/101/1582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1582
-[/us/pl/100/399/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs104
+[/us/pl/100/399/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtI
 [/us/stat/102/990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F990
 [/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
-[/us/pl/100/399/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs104%2Fa
-[/us/pl/100/399/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs104%2Fb
-[/us/pl/100/399/s104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs104%2Fc
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
 [/us/pl/100/399/s1001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs1001%2Fa

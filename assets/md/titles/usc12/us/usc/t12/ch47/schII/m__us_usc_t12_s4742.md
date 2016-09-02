@@ -69,7 +69,7 @@
 
         (D) any other political subdivision of a State of the United States that the Fund determines has the capacity to participate in the program. <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be capitalized. </sup></sup> 
 
-([Pub. L. 103–325, title II, § 252][/us/pl/103/325/s252], Sept. 23, 1994, [108 Stat. 2204][/us/stat/108/2204].)
+([Pub. L. 103–325, title II][/us/pl/103/325/tII], § 252, Sept. 23, 1994, [108 Stat. 2204][/us/stat/108/2204].)
 
  __References in Text__ 
 
@@ -87,7 +87,7 @@
 [/us/usc/t12/s1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1751
 [/us/usc/t12/s4744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4744
 [/us/usc/t12/s4743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4743
-[/us/pl/103/325/s252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs252
+[/us/pl/103/325/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtII
 [/us/stat/108/2204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2204
 [/us/act/1934-06-26/ch750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-26%2Fch750
 [/us/stat/48/1216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1216

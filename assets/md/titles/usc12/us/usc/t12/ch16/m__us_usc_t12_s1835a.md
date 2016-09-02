@@ -97,7 +97,7 @@
 
             The term “out-of-State bank” means, with respect to any State, a bank the home State of which is another State and, for purposes of this section, includes a foreign bank, the home State of which is another State.
 
-([Pub. L. 103–328, title I, § 109][/us/pl/103/328/s109], Sept. 29, 1994, [108 Stat. 2362][/us/stat/108/2362]; [Pub. L. 106–102, title I, § 106][/us/pl/106/102/s106], Nov. 12, 1999, [113 Stat. 1359][/us/stat/113/1359].)
+([Pub. L. 103–328, title I][/us/pl/103/328/tI], § 109, Sept. 29, 1994, [108 Stat. 2362][/us/stat/108/2362]; [Pub. L. 106–102, title I][/us/pl/106/102/tI], § 106, Nov. 12, 1999, [113 Stat. 1359][/us/stat/113/1359].)
 
  __References in Text__ 
 
@@ -127,9 +127,9 @@
 [/us/usc/t12/s2901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2901
 [/us/usc/t12/s1818/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1818%2Fh
 [/us/usc/t12/s1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813
-[/us/pl/103/328/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328%2Fs109
+[/us/pl/103/328/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328%2FtI
 [/us/stat/108/2362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2362
-[/us/pl/106/102/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs106
+[/us/pl/106/102/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtI
 [/us/stat/113/1359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1359
 [/us/pl/103/328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328
 [/us/stat/108/2339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2339

@@ -37,7 +37,7 @@
 
         The customer has the right, unless the Government authority obtains a court order as provided in [section 3409 of this title][/us/usc/t12/s3409], to obtain a copy of the record which the financial institution shall keep of all instances in which the customer’s record is disclosed to a Government authority pursuant to this section, including the identity of the Government authority to which such disclosure is made.
 
-([Pub. L. 95–630, title XI, § 1104][/us/pl/95/630/s1104], Nov. 10, 1978, [92 Stat. 3698][/us/stat/92/3698]; [Pub. L. 96–3][/us/pl/96/3], Mar. 7, 1979, [93 Stat. 5][/us/stat/93/5].)
+([Pub. L. 95–630, title XI][/us/pl/95/630/tXI], § 1104, Nov. 10, 1978, [92 Stat. 3698][/us/stat/92/3698]; [Pub. L. 96–3][/us/pl/96/3], Mar. 7, 1979, [93 Stat. 5][/us/stat/93/5].)
 
  __Amendments__ 
 
@@ -52,7 +52,7 @@
 
 [/us/usc/t12/s3402/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3402%2F1
 [/us/usc/t12/s3409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3409
-[/us/pl/95/630/s1104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs1104
+[/us/pl/95/630/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtXI
 [/us/stat/92/3698]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3698
 [/us/pl/96/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F3
 [/us/stat/93/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F5

@@ -171,7 +171,7 @@
 
         Subsections (b) and (c) shall become effective on the designated transfer date.
 
-([Pub. L. 111–203, title X, § 1061][/us/pl/111/203/s1061], July 21, 2010, [124 Stat. 2035][/us/stat/124/2035].)
+([Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1061, July 21, 2010, [124 Stat. 2035][/us/stat/124/2035].)
 
  __References in Text__ 
 
@@ -227,7 +227,7 @@
 [/us/usc/t12/s1813/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813%2Fq
 [/us/usc/t12/s1813/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813%2Fq
 [/us/usc/t12/s1861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1861
-[/us/pl/111/203/s1061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1061
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2035
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1955

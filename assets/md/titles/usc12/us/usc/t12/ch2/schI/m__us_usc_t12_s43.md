@@ -61,7 +61,7 @@
 
                 (ii) an acquisition with respect to which the Federal Deposit Insurance Corporation provides assistance under [section 1823(c) of this title][/us/usc/t12/s1823/c].
 
-(R.S. § 5244, as added [Pub. L. 103–328, title I, § 114][/us/pl/103/328/s114], Sept. 29, 1994, [108 Stat. 2366][/us/stat/108/2366].)
+(R.S. § 5244, as added [Pub. L. 103–328, title I][/us/pl/103/328/tI], § 114, Sept. 29, 1994, [108 Stat. 2366][/us/stat/108/2366].)
 
  __Codification__ 
 
@@ -80,7 +80,7 @@
 [/us/usc/t12/s36/f/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs36%2Ff%2F1%2FA%2Fii
 [/us/usc/t12/s1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813
 [/us/usc/t12/s1823/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1823%2Fc
-[/us/pl/103/328/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328%2Fs114
+[/us/pl/103/328/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328%2FtI
 [/us/stat/108/2366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2366
 [/us/usc/t33/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs8
 

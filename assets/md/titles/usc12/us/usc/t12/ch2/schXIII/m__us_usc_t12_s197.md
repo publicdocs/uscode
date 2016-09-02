@@ -23,7 +23,7 @@
 
         Third. To pay the balance ratably among such stockholders, in proportion to the number of shares held and owned by each. Such distribution shall be made from time to time as the proceeds shall be received and as shall be deemed advisable by the Comptroller of the Currency, or the Federal Deposit Insurance Corporation if continued as receiver of the bank under subsection (a) of this section, or such agent, as the case may be.
 
-([June 30, 1876, ch. 156, § 3][/us/act/1876-06-30/ch156/s3], [19 Stat. 63][/us/stat/19/63]; [Aug. 3, 1892, ch. 360][/us/act/1892-08-03/ch360], [27 Stat. 345][/us/stat/27/345]; [Mar. 2, 1897, ch. 354][/us/act/1897-03-02/ch354], [29 Stat. 600][/us/stat/29/600]; [Mar. 3, 1911, ch. 231, § 291][/us/act/1911-03-03/ch231/s291], [36 Stat. 1167][/us/stat/36/1167]; [Pub. L. 86–230, § 18][/us/pl/86/230/s18], Sept. 8, 1959, [73 Stat. 458][/us/stat/73/458].)
+([June 30, 1876, ch. 156][/us/act/1876-06-30/ch156], § 3, [19 Stat. 63][/us/stat/19/63]; [Aug. 3, 1892, ch. 360][/us/act/1892-08-03/ch360], [27 Stat. 345][/us/stat/27/345]; [Mar. 2, 1897, ch. 354][/us/act/1897-03-02/ch354], [29 Stat. 600][/us/stat/29/600]; [Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 291, [36 Stat. 1167][/us/stat/36/1167]; [Pub. L. 86–230][/us/pl/86/230], § 18, Sept. 8, 1959, [73 Stat. 458][/us/stat/73/458].)
 
  __References in Text__ 
 
@@ -45,7 +45,7 @@
 
  __Application to District of Columbia__ 
 
-    Provisions of this section were made applicable to banks, etc., in the District of Columbia by [act Mar. 4, 1933, ch. 274, § 4][/us/act/1933-03-04/ch274/s4], [47 Stat. 1567][/us/stat/47/1567].
+    Provisions of this section were made applicable to banks, etc., in the District of Columbia by [act Mar. 4, 1933, ch. 274][/us/act/1933-03-04/ch274], § 4, [47 Stat. 1567][/us/stat/47/1567].
 
 ----------
 
@@ -57,15 +57,15 @@
 [/us/usc/t12/s192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs192
 [/us/usc/t12/s1821/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1821%2Fc
 [/us/usc/t12/s194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs194
-[/us/act/1876-06-30/ch156/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1876-06-30%2Fch156%2Fs3
+[/us/act/1876-06-30/ch156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1876-06-30%2Fch156
 [/us/stat/19/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F19%2F63
 [/us/act/1892-08-03/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1892-08-03%2Fch360
 [/us/stat/27/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F27%2F345
 [/us/act/1897-03-02/ch354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1897-03-02%2Fch354
 [/us/stat/29/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F29%2F600
-[/us/act/1911-03-03/ch231/s291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs291
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1167
-[/us/pl/86/230/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F230%2Fs18
+[/us/pl/86/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F230
 [/us/stat/73/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F458
 [/us/usc/t12/s192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs192
 [/us/act/1876-06-30/ch156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1876-06-30%2Fch156
@@ -80,7 +80,7 @@
 [/us/usc/t12/s1821/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1821%2Fc
 [/us/pl/86/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F230
 [/us/usc/t12/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1
-[/us/act/1933-03-04/ch274/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-03-04%2Fch274%2Fs4
+[/us/act/1933-03-04/ch274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-03-04%2Fch274
 [/us/stat/47/1567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F1567
 
 

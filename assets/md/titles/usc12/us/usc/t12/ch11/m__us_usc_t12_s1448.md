@@ -17,7 +17,7 @@
 
     If any provision of this chapter, or the application thereof to any person or circumstances, is held invalid, the remainder of the chapter, and the application of such provision to other persons or circumstances, shall not be affected thereby.
 
-([July 22, 1932, ch. 522, § 28][/us/act/1932-07-22/ch522/s28], [47 Stat. 740][/us/stat/47/740].)
+([July 22, 1932, ch. 522][/us/act/1932-07-22/ch522], § 28, [47 Stat. 740][/us/stat/47/740].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1932-07-22/ch522/s28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-07-22%2Fch522%2Fs28
+[/us/act/1932-07-22/ch522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-07-22%2Fch522
 [/us/stat/47/740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F740
 
 

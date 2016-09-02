@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch46/schII/m__us_usc_t12_s4618.md) | [Next](./../../../../..//us/usc/t12/ch46/schII/m__us_usc_t12_s4623.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4622)
+[Previous](./../../../../..//us/usc/t12/ch46/schII/m__us_usc_t12_s4619...4621.md) | [Next](./../../../../..//us/usc/t12/ch46/schII/m__us_usc_t12_s4623.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4622)
 
 ## § 4622. Capital restoration plans
 
@@ -41,7 +41,7 @@
 
         If the Director disapproves the initial capital restoration plan submitted by the regulated entity, the regulated entity shall submit an amended plan acceptable to the Director within 30 days or such longer period that the Director determines is in the public interest.
 
-([Pub. L. 102–550, title XIII, § 1369C][/us/pl/102/550/s1369C], Oct. 28, 1992, [106 Stat. 3985][/us/stat/106/3985]; [Pub. L. 110–289, div. A, title I, § 1145(b)(2)][/us/pl/110/289/s1145/b/2], July 30, 2008, [122 Stat. 2767][/us/stat/122/2767].)
+([Pub. L. 102–550, title XIII][/us/pl/102/550/tXIII], § 1369C, Oct. 28, 1992, [106 Stat. 3985][/us/stat/106/3985]; [Pub. L. 110–289, div. A, title I][/us/pl/110/289/dA/tI], § 1145(b)(2), July 30, 2008, [122 Stat. 2767][/us/stat/122/2767].)
 
  __Amendments__ 
 
@@ -49,14 +49,14 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch46/schII/m__us_usc_t12_s4618.md) | [Next](./../../../../..//us/usc/t12/ch46/schII/m__us_usc_t12_s4623.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4622)
+[Previous](./../../../../..//us/usc/t12/ch46/schII/m__us_usc_t12_s4619...4621.md) | [Next](./../../../../..//us/usc/t12/ch46/schII/m__us_usc_t12_s4623.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4622)
 
 ----------
 ----------
 
-[/us/pl/102/550/s1369C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1369C
+[/us/pl/102/550/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIII
 [/us/stat/106/3985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3985
-[/us/pl/110/289/s1145/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1145%2Fb%2F2
+[/us/pl/110/289/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtI
 [/us/stat/122/2767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2767
 [/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
 

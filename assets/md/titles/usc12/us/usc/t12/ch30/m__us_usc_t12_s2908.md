@@ -33,7 +33,7 @@
 
         A regulated financial institution described in subsection (a) may be subject to more frequent or less frequent examinations for reasonable cause under such circumstances as may be determined by the appropriate Federal financial supervisory agency.
 
-([Pub. L. 95–128, title VIII, § 809][/us/pl/95/128/s809], as added [Pub. L. 106–102, title VII, § 712][/us/pl/106/102/s712], Nov. 12, 1999, [113 Stat. 1469][/us/stat/113/1469].)
+([Pub. L. 95–128, title VIII][/us/pl/95/128/tVIII], § 809, as added [Pub. L. 106–102, title VII][/us/pl/106/102/tVII], § 712, Nov. 12, 1999, [113 Stat. 1469][/us/stat/113/1469].)
 
 ----------
 
@@ -45,8 +45,8 @@
 [/us/usc/t12/s2903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2903
 [/us/usc/t12/s2903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2903
 [/us/usc/t12/s2903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2903
-[/us/pl/95/128/s809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs809
-[/us/pl/106/102/s712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs712
+[/us/pl/95/128/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2FtVIII
+[/us/pl/106/102/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtVII
 [/us/stat/113/1469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1469
 
 

@@ -117,7 +117,7 @@
 
             For purposes of taking enforcement action under paragraph (1), the financial institution shall be subject to, and the Board of Governors shall have authority under 1 the provisions of subsections (b) through (n) of [section 1818 of this title][/us/usc/t12/s1818] in the same manner and to the same extent as if the financial institution was an insured depository institution and the Board of Governors was the appropriate Federal banking agency for such insured depository institution.
 
-([Pub. L. 111–203, title VIII, § 808][/us/pl/111/203/s808], July 21, 2010, [124 Stat. 1816][/us/stat/124/1816].)
+([Pub. L. 111–203, title VIII][/us/pl/111/203/tVIII], § 808, July 21, 2010, [124 Stat. 1816][/us/stat/124/1816].)
 
 ----------
 
@@ -136,7 +136,7 @@
 [/us/usc/t12/s5464/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5464%2Fa
 [/us/usc/t12/s5464/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5464%2Fa
 [/us/usc/t12/s1818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1818
-[/us/pl/111/203/s808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs808
+[/us/pl/111/203/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVIII
 [/us/stat/124/1816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1816
 
 

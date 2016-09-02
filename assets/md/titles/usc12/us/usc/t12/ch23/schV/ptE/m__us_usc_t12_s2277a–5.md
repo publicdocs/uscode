@@ -59,7 +59,7 @@
 
         The Board of Directors shall prescribe all rules and regulations necessary for the enforcement of this section. The Board of Directors may limit the retroactive effect, if any, of any of its rules or regulations.
 
-([Pub. L. 92–181, title V, § 5][/us/pl/92/181/s5].56, as added [Pub. L. 100–233, title III, § 302][/us/pl/100/233/s302], Jan. 6, 1988, [101 Stat. 1612][/us/stat/101/1612]; amended [Pub. L. 100–399, title III, § 302(f)][/us/pl/100/399/s302/f], Aug. 17, 1988, [102 Stat. 994][/us/stat/102/994]; [Pub. L. 101–624, title XVIII, § 1835][/us/pl/101/624/s1835], Nov. 28, 1990, [104 Stat. 3833][/us/stat/104/3833]; [Pub. L. 104–105, title II, § 215(a)(2)(B)][/us/pl/104/105/s215/a/2/B], Feb. 10, 1996, [110 Stat. 176][/us/stat/110/176]; [Pub. L. 107–171, title V, § 5403(a)(2)(B)][/us/pl/107/171/s5403/a/2/B], May 13, 2002, [116 Stat. 351][/us/stat/116/351]; [Pub. L. 110–234, title V, § 5405][/us/pl/110/234/s5405], May 22, 2008, [122 Stat. 1157][/us/stat/122/1157]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title V, § 5405, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1919.)
+([Pub. L. 92–181, title V][/us/pl/92/181/tV], § 5.56, as added [Pub. L. 100–233, title III][/us/pl/100/233/tIII], § 302, Jan. 6, 1988, [101 Stat. 1612][/us/stat/101/1612]; amended [Pub. L. 100–399, title III][/us/pl/100/399/tIII], § 302(f), Aug. 17, 1988, [102 Stat. 994][/us/stat/102/994]; [Pub. L. 101–624, title XVIII][/us/pl/101/624/tXVIII], § 1835, Nov. 28, 1990, [104 Stat. 3833][/us/stat/104/3833]; [Pub. L. 104–105, title II][/us/pl/104/105/tII], § 215(a)(2)(B), Feb. 10, 1996, [110 Stat. 176][/us/stat/110/176]; [Pub. L. 107–171, title V][/us/pl/107/171/tV], § 5403(a)(2)(B), May 13, 2002, [116 Stat. 351][/us/stat/116/351]; [Pub. L. 110–234, title V][/us/pl/110/234/tV], § 5405, May 22, 2008, [122 Stat. 1157][/us/stat/122/1157]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title V, § 5405, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1919.)
 
  __Codification__ 
 
@@ -67,15 +67,15 @@
 
  __Amendments__ 
 
-    2008—Subsec. (a). [Pub. L. 110–246, § 5405(a)][/us/pl/110/246/s5405/a], added subsec. (a) and struck out former subsec. (a) which related to the required annual filing of a certified statement from each insured System bank that became insured before the beginning of the year.
+    2008—Subsec. (a). [Pub. L. 110–246][/us/pl/110/246], § 5405(a), added subsec. (a) and struck out former subsec. (a) which related to the required annual filing of a certified statement from each insured System bank that became insured before the beginning of the year.
 
-    Subsec. (c). [Pub. L. 110–246, § 5405(b)][/us/pl/110/246/s5405/b], added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “Each System bank shall pay to the Corporation the amount of the initial premium it is required to certify under subsection (a) of this section as soon as practicable after January 1, 1990, based on the application of [section 2277a–4 of this title][/us/usc/t12/s2277a–4] to the accruing loan volume of the bank for calendar year 1989.”
+    Subsec. (c). [Pub. L. 110–246][/us/pl/110/246], § 5405(b), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “Each System bank shall pay to the Corporation the amount of the initial premium it is required to certify under subsection (a) of this section as soon as practicable after January 1, 1990, based on the application of [section 2277a–4 of this title][/us/usc/t12/s2277a–4] to the accruing loan volume of the bank for calendar year 1989.”
 
-    Subsecs. (d), (e). [Pub. L. 110–246, § 5405(c)][/us/pl/110/246/s5405/c], redesignated subsec. (e) as (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “The premium payments required from insured System banks under subsection (a) of this section shall be made not less frequently than annually in such manner and at such time or times as the Board of Directors shall prescribe, except that the amount of the premium shall be established not later than 60 days after filing the certified statement setting forth the amount of the premium.”
+    Subsecs. (d), (e). [Pub. L. 110–246][/us/pl/110/246], § 5405(c), redesignated subsec. (e) as (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “The premium payments required from insured System banks under subsection (a) of this section shall be made not less frequently than annually in such manner and at such time or times as the Board of Directors shall prescribe, except that the amount of the premium shall be established not later than 60 days after filing the certified statement setting forth the amount of the premium.”
 
-    2002—Subsec. (a)(1). [Pub. L. 107–171, § 5403(a)(2)(B)(i)][/us/pl/107/171/s5403/a/2/B/i], inserted “and Government Sponsored Enterprise-guaranteed loans (as defined in [section 2277a–4(a)(4) of this title][/us/usc/t12/s2277a–4/a/4])” after “government-guaranteed loans”.
+    2002—Subsec. (a)(1). [Pub. L. 107–171][/us/pl/107/171], § 5403(a)(2)(B)(i), inserted “and Government Sponsored Enterprise-guaranteed loans (as defined in [section 2277a–4(a)(4) of this title][/us/usc/t12/s2277a–4/a/4])” after “government-guaranteed loans”.
 
-    Subsec. (a)(4) to (6). [Pub. L. 107–171, § 5403(a)(2)(B)(ii)][/us/pl/107/171/s5403/a/2/B/ii], (iii), added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
+    Subsec. (a)(4) to (6). [Pub. L. 107–171][/us/pl/107/171], § 5403(a)(2)(B)(ii), (iii), added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
 
     1996—Subsec. (a)(2), (3). [Pub. L. 104–105][/us/pl/104/105] substituted “2277a–4(a)(3) of this title” for “2277a–4(a)(2) of this title”.
 
@@ -104,32 +104,32 @@
 
 [/us/usc/t12/s2277a–4/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2277a%E2%80%934%2Fa%2F4
 [/us/usc/t12/s2277a–4/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2277a%E2%80%934%2Fa%2F4
-[/us/pl/92/181/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs5
-[/us/pl/100/233/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs302
+[/us/pl/92/181/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtV
+[/us/pl/100/233/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtIII
 [/us/stat/101/1612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1612
-[/us/pl/100/399/s302/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs302%2Ff
+[/us/pl/100/399/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtIII
 [/us/stat/102/994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F994
-[/us/pl/101/624/s1835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1835
+[/us/pl/101/624/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXVIII
 [/us/stat/104/3833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3833
-[/us/pl/104/105/s215/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2Fs215%2Fa%2F2%2FB
+[/us/pl/104/105/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2FtII
 [/us/stat/110/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F176
-[/us/pl/107/171/s5403/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs5403%2Fa%2F2%2FB
+[/us/pl/107/171/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtV
 [/us/stat/116/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F351
-[/us/pl/110/234/s5405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs5405
+[/us/pl/110/234/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtV
 [/us/stat/122/1157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1157
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s5405/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs5405%2Fa
-[/us/pl/110/246/s5405/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs5405%2Fb
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/usc/t12/s2277a–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2277a%E2%80%934
-[/us/pl/110/246/s5405/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs5405%2Fc
-[/us/pl/107/171/s5403/a/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs5403%2Fa%2F2%2FB%2Fi
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/usc/t12/s2277a–4/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2277a%E2%80%934%2Fa%2F4
-[/us/pl/107/171/s5403/a/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs5403%2Fa%2F2%2FB%2Fii
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/pl/104/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399

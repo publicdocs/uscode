@@ -29,7 +29,7 @@
 
         (3) is insured or held pursuant to [section 1715z–22 of this title][/us/usc/t12/s1715z–22], but is not reinsured under [section 1715z–22 of this title][/us/usc/t12/s1715z–22].
 
-([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title II, § 254, as added [Pub. L. 100–242, title IV, § 416(b)][/us/pl/100/242/s416/b], Feb. 5, 1988, [101 Stat. 1908][/us/stat/101/1908]; amended [Pub. L. 105–65, title V, § 552][/us/pl/105/65/s552], Oct. 27, 1997, [111 Stat. 1412][/us/stat/111/1412].)
+([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title II, § 254, as added [Pub. L. 100–242, title IV][/us/pl/100/242/tIV], § 416(b), Feb. 5, 1988, [101 Stat. 1908][/us/stat/101/1908]; amended [Pub. L. 105–65, title V][/us/pl/105/65/tV], § 552, Oct. 27, 1997, [111 Stat. 1412][/us/stat/111/1412].)
 
  __Amendments__ 
 
@@ -46,9 +46,9 @@
 [/us/usc/t12/s1715z–22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715z%E2%80%9322
 [/us/usc/t12/s1715z–22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715z%E2%80%9322
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
-[/us/pl/100/242/s416/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs416%2Fb
+[/us/pl/100/242/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtIV
 [/us/stat/101/1908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1908
-[/us/pl/105/65/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65%2Fs552
+[/us/pl/105/65/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65%2FtV
 [/us/stat/111/1412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1412
 [/us/pl/105/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65
 [/us/usc/t12/s1701q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701q

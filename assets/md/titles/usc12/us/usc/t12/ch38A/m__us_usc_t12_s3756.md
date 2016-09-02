@@ -31,7 +31,7 @@
 
         (2) in any other manner which, in the substitute commissioner’s sole discretion, is conducive to achieving timely notice of such substitution.
 
-([Pub. L. 103–327, title II][/us/pl/103/327], Sept. 28, 1994, [108 Stat. 2316][/us/stat/108/2316].)
+([Pub. L. 103–327, title II][/us/pl/103/327/tII], Sept. 28, 1994, [108 Stat. 2316][/us/stat/108/2316].)
 
  __Codification__ 
 
@@ -48,7 +48,7 @@
 [/us/usc/t12/s3760/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3760%2Fc
 [/us/usc/t12/s3754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3754
 [/us/usc/t12/s3758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3758
-[/us/pl/103/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F327
+[/us/pl/103/327/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F327%2FtII
 [/us/stat/108/2316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2316
 [/us/pl/103/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F327
 

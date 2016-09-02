@@ -13,9 +13,9 @@
 
 [Previous](./../../../..//us/usc/t12/ch16/m__us_usc_t12_s1833c.md) | [Next](./../../../..//us/usc/t12/ch16/m__us_usc_t12_s1833e.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1833d)
 
-## § 1833d. Repealed. [Pub. L. 102–242, title I, § 121(b)][/us/pl/102/242/s121/b], Dec. 19, 1991, [105 Stat. 2251][/us/stat/105/2251]
+## § 1833d. Repealed. [Pub. L. 102–242, title I][/us/pl/102/242/tI], § 121(b), Dec. 19, 1991, [105 Stat. 2251][/us/stat/105/2251]
 
-    Section, [Pub. L. 101–73, title XII, § 1215][/us/pl/101/73/s1215], Aug. 9, 1989, [103 Stat. 529][/us/stat/103/529], related to establishment of uniform capital and accounting standards for federally-insured depository institutions. See [section 1831n of this title][/us/usc/t12/s1831n].
+    Section, [Pub. L. 101–73, title XII][/us/pl/101/73/tXII], § 1215, Aug. 9, 1989, [103 Stat. 529][/us/stat/103/529], related to establishment of uniform capital and accounting standards for federally-insured depository institutions. See [section 1831n of this title][/us/usc/t12/s1831n].
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/pl/102/242/s121/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs121%2Fb
+[/us/pl/102/242/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtI
 [/us/stat/105/2251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2251
-[/us/pl/101/73/s1215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs1215
+[/us/pl/101/73/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtXII
 [/us/stat/103/529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F529
 [/us/usc/t12/s1831n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1831n
 

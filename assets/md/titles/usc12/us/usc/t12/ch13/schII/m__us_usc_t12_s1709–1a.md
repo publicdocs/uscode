@@ -25,7 +25,7 @@
 
     (b) The provisions of this section shall apply to such loans, mortgages, or other interim financing made or executed in any State until the effective date (after June 30, 1976) of a provision of law of that State limiting the amount of interest which may be charged, taken, received, or reserved on such loans, mortgages, or financing.
 
-([Pub. L. 94–324, § 8][/us/pl/94/324/s8], June 30, 1976, [90 Stat. 722][/us/stat/90/722].)
+([Pub. L. 94–324][/us/pl/94/324], § 8, June 30, 1976, [90 Stat. 722][/us/stat/90/722].)
 
  __References in Text__ 
 
@@ -47,7 +47,7 @@
 ----------
 
 [/us/usc/t12/s1702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1702
-[/us/pl/94/324/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F324%2Fs8
+[/us/pl/94/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F324
 [/us/stat/90/722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F722
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
 [/us/stat/48/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1246

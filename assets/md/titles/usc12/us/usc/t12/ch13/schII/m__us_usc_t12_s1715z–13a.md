@@ -299,7 +299,7 @@
 
         (9) The term “trust land” means land title to which is held by the United States for the benefit of an Indian or Indian tribe or title to which is held by an Indian tribe subject to a restriction against alienation imposed by the United States.
 
-([Pub. L. 102–550, title I, § 184][/us/pl/102/550/s184], Oct. 28, 1992, [106 Stat. 3739][/us/stat/106/3739]; [Pub. L. 104–330, title VII, § 701(a)][/us/pl/104/330/s701/a]–(j), Oct. 26, 1996, [110 Stat. 4048–4050][/us/stat/110/4048-4050]; [Pub. L. 105–276, title V, § 595(e)(11)][/us/pl/105/276/s595/e/11]–(13), Oct. 21, 1998, [112 Stat. 2658][/us/stat/112/2658]; [Pub. L. 106–377, § 1(a)(1)][/us/pl/106/377/s1/a/1] \[title II, § 227\], Oct. 27, 2000, [114 Stat. 1441][/us/stat/114/1441], 1441A–30; [Pub. L. 106–568, title X, § 1002][/us/pl/106/568/s1002], Dec. 27, 2000, [114 Stat. 2925][/us/stat/114/2925]; [Pub. L. 106–569, title V, § 502][/us/pl/106/569/s502], Dec. 27, 2000, [114 Stat. 2961][/us/stat/114/2961]; [Pub. L. 107–292, § 2(d)][/us/pl/107/292/s2/d], Nov. 13, 2002, [116 Stat. 2053][/us/stat/116/2053]; [Pub. L. 110–37, § 2][/us/pl/110/37/s2], June 18, 2007, [121 Stat. 229][/us/stat/121/229]; [Pub. L. 113–6, div. F, title VIII, § 1806][/us/pl/113/6/s1806], Mar. 26, 2013, [127 Stat. 433][/us/stat/127/433]; [Pub. L. 113–235, div. K, title II, § 241][/us/pl/113/235/s241], Dec. 16, 2014, [128 Stat. 2759][/us/stat/128/2759].)
+([Pub. L. 102–550, title I][/us/pl/102/550/tI], § 184, Oct. 28, 1992, [106 Stat. 3739][/us/stat/106/3739]; [Pub. L. 104–330, title VII][/us/pl/104/330/tVII], § 701(a)–(j), Oct. 26, 1996, [110 Stat. 4048–4050][/us/stat/110/4048-4050]; [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 595(e)(11)–(13), Oct. 21, 1998, [112 Stat. 2658][/us/stat/112/2658]; [Pub. L. 106–377][/us/pl/106/377], § 1(a)(1) \[title II, § 227\], Oct. 27, 2000, [114 Stat. 1441][/us/stat/114/1441], 1441A–30; [Pub. L. 106–568, title X][/us/pl/106/568/tX], § 1002, Dec. 27, 2000, [114 Stat. 2925][/us/stat/114/2925]; [Pub. L. 106–569, title V][/us/pl/106/569/tV], § 502, Dec. 27, 2000, [114 Stat. 2961][/us/stat/114/2961]; [Pub. L. 107–292][/us/pl/107/292], § 2(d), Nov. 13, 2002, [116 Stat. 2053][/us/stat/116/2053]; [Pub. L. 110–37][/us/pl/110/37], § 2, June 18, 2007, [121 Stat. 229][/us/stat/121/229]; [Pub. L. 113–6, div. F, title VIII][/us/pl/113/6/dF/tVIII], § 1806, Mar. 26, 2013, [127 Stat. 433][/us/stat/127/433]; [Pub. L. 113–235, div. K, title II][/us/pl/113/235/dK/tII], § 241, Dec. 16, 2014, [128 Stat. 2759][/us/stat/128/2759].)
 
  __References in Text__ 
 
@@ -329,51 +329,51 @@
 
     2002—Subsec. (i)(5)(C), (7). [Pub. L. 107–292][/us/pl/107/292] substituted “each of fiscal years 1997 through 2007” for “each fiscal year”.
 
-    2000—Subsec. (a). [Pub. L. 106–377, § 1(a)(1)][/us/pl/106/377/s1/a/1] \[title II, § 227(1)\], struck out “or as a result of a lack of access to private financial markets” after “legal status of Indian lands”.
+    2000—Subsec. (a). [Pub. L. 106–377][/us/pl/106/377], § 1(a)(1) \[title II, § 227(1)\], struck out “or as a result of a lack of access to private financial markets” after “legal status of Indian lands”.
 
-    Subsec. (b)(2). [Pub. L. 106–377, § 1(a)(1)][/us/pl/106/377/s1/a/1] \[title II, § 227(2)\], inserted “refinance,” after “acquire,”.
+    Subsec. (b)(2). [Pub. L. 106–377][/us/pl/106/377], § 1(a)(1) \[title II, § 227(2)\], inserted “refinance,” after “acquire,”.
 
-    Subsec. (i)(5)(C). [Pub. L. 106–568, § 1002(1)][/us/pl/106/568/s1002/1], and [Pub. L. 106–569, § 502(1)][/us/pl/106/569/s502/1], amended par. (5) identically, adding subpar. (C) and striking out heading and text of former subpar. (C). Text read as follows: “Subject to the limitations in subparagraphs (A) and (B), the Secretary may enter into commitments to guarantee loans under this section in each of fiscal years 1997, 1998, 1999, 2000, and 2001 with an aggregate outstanding principal amount not exceeding $400,000,000 for each such fiscal year.”
+    Subsec. (i)(5)(C). [Pub. L. 106–568][/us/pl/106/568], § 1002(1), and [Pub. L. 106–569][/us/pl/106/569], § 502(1), amended par. (5) identically, adding subpar. (C) and striking out heading and text of former subpar. (C). Text read as follows: “Subject to the limitations in subparagraphs (A) and (B), the Secretary may enter into commitments to guarantee loans under this section in each of fiscal years 1997, 1998, 1999, 2000, and 2001 with an aggregate outstanding principal amount not exceeding $400,000,000 for each such fiscal year.”
 
-    Subsec. (i)(7). [Pub. L. 106–568, § 1002(2)][/us/pl/106/568/s1002/2], and [Pub. L. 106–569, § 502(2)][/us/pl/106/569/s502/2], amended par. (7) identically, substituting “each fiscal year” for “each of fiscal years 1997, 1998, 1999, 2000, and 2001”.
+    Subsec. (i)(7). [Pub. L. 106–568][/us/pl/106/568], § 1002(2), and [Pub. L. 106–569][/us/pl/106/569], § 502(2), amended par. (7) identically, substituting “each fiscal year” for “each of fiscal years 1997, 1998, 1999, 2000, and 2001”.
 
-    1998—Subsec. (b)(2). [Pub. L. 105–276, § 595(e)(11)][/us/pl/105/276/s595/e/11], struck out before period at end “that is under the jurisdiction of an Indian tribe for which an Indian housing plan has been submitted and approved pursuant to sections 102 and 103 of the Native American Housing Assistance and Self-Determination Act of 1996 that provides for the use of loan guarantees under this section to provide affordable homeownership housing in such areas.”
+    1998—Subsec. (b)(2). [Pub. L. 105–276][/us/pl/105/276], § 595(e)(11), struck out before period at end “that is under the jurisdiction of an Indian tribe for which an Indian housing plan has been submitted and approved pursuant to sections 102 and 103 of the Native American Housing Assistance and Self-Determination Act of 1996 that provides for the use of loan guarantees under this section to provide affordable homeownership housing in such areas.”
 
-    Subsec. (i)(5)(C). [Pub. L. 105–276, § 595(e)(12)][/us/pl/105/276/s595/e/12], substituted “not” for “note”.
+    Subsec. (i)(5)(C). [Pub. L. 105–276][/us/pl/105/276], § 595(e)(12), substituted “not” for “note”.
 
-    Subsecs. (k), (l). [Pub. L. 105–276, § 595(e)(13)][/us/pl/105/276/s595/e/13], added subsec. (k) and redesignated former subsec. (k) as (l).
+    Subsecs. (k), (l). [Pub. L. 105–276][/us/pl/105/276], § 595(e)(13), added subsec. (k) and redesignated former subsec. (k) as (l).
 
-    1996—Subsec. (a). [Pub. L. 104–330, § 701(a)(1)][/us/pl/104/330/s701/a/1], (b), substituted “, Indian housing authorities, and Indian tribes,” for “and Indian housing authorities”, “lands or as a result of a lack of access to private financial markets” for “trust land”, and “, Indian housing authority, or Indian tribe” for “or Indian housing authority”.
+    1996—Subsec. (a). [Pub. L. 104–330][/us/pl/104/330], § 701(a)(1), (b), substituted “, Indian housing authorities, and Indian tribes,” for “and Indian housing authorities”, “lands or as a result of a lack of access to private financial markets” for “trust land”, and “, Indian housing authority, or Indian tribe” for “or Indian housing authority”.
 
-    Subsec. (b)(1). [Pub. L. 104–330, § 701(a)(2)][/us/pl/104/330/s701/a/2], substituted “, Indian housing authorities, or Indian tribes” for “or Indian housing authorities”.
+    Subsec. (b)(1). [Pub. L. 104–330][/us/pl/104/330], § 701(a)(2), substituted “, Indian housing authorities, or Indian tribes” for “or Indian housing authorities”.
 
-    Subsec. (b)(2). [Pub. L. 104–330, § 701(c)][/us/pl/104/330/s701/c], inserted before period at end “that is under the jurisdiction of an Indian tribe for which an Indian housing plan has been submitted and approved pursuant to sections 102 and 103 of the Native American Housing Assistance and Self-Determination Act of 1996 that provides for the use of loan guarantees under this section to provide affordable homeownership housing in such areas”.
+    Subsec. (b)(2). [Pub. L. 104–330][/us/pl/104/330], § 701(c), inserted before period at end “that is under the jurisdiction of an Indian tribe for which an Indian housing plan has been submitted and approved pursuant to sections 102 and 103 of the Native American Housing Assistance and Self-Determination Act of 1996 that provides for the use of loan guarantees under this section to provide affordable homeownership housing in such areas”.
 
-    Subsec. (b)(5)(C)(i). [Pub. L. 104–330, § 701(i)][/us/pl/104/330/s701/i], added cl. (i) and struck out former cl. (i) which read as follows: “an amount equal to the sum of (I) 97 percent of $25,000 of the appraised value of the property, as of the date the loan is accepted for guarantee, and (II) 95 percent of such value in excess of $25,000; and”.
+    Subsec. (b)(5)(C)(i). [Pub. L. 104–330][/us/pl/104/330], § 701(i), added cl. (i) and struck out former cl. (i) which read as follows: “an amount equal to the sum of (I) 97 percent of $25,000 of the appraised value of the property, as of the date the loan is accepted for guarantee, and (II) 95 percent of such value in excess of $25,000; and”.
 
-    Subsec. (h)(1)(A)(i). [Pub. L. 104–330, § 701(d)(1)(A)][/us/pl/104/330/s701/d/1/A], struck out “in a court of competent jurisdiction” after “foreclosure proceedings” in first sentence.
+    Subsec. (h)(1)(A)(i). [Pub. L. 104–330][/us/pl/104/330], § 701(d)(1)(A), struck out “in a court of competent jurisdiction” after “foreclosure proceedings” in first sentence.
 
-    Subsec. (h)(1)(A)(ii). [Pub. L. 104–330, § 701(d)(1)(B)][/us/pl/104/330/s701/d/1/B], added cl. (ii) and struck out heading and text of former cl. (ii). Text read as follows: “Without seeking a judicial foreclosure (or in any case in which a foreclosure proceeding initiated under clause (i) continues for a period in excess of 1 year), the holder of the guarantee may submit to the Secretary a claim for payment under the guarantee and the Secretary shall only pay to such holder for a loss on any single loan an amount equal to 90 percent of the pro rata portion of the amount guaranteed (as determined under subsection (e) of this section). The Secretary shall be subrogated to the rights of the holder of the guarantee and the holder shall assign the obligation and security to the Secretary.”
+    Subsec. (h)(1)(A)(ii). [Pub. L. 104–330][/us/pl/104/330], § 701(d)(1)(B), added cl. (ii) and struck out heading and text of former cl. (ii). Text read as follows: “Without seeking a judicial foreclosure (or in any case in which a foreclosure proceeding initiated under clause (i) continues for a period in excess of 1 year), the holder of the guarantee may submit to the Secretary a claim for payment under the guarantee and the Secretary shall only pay to such holder for a loss on any single loan an amount equal to 90 percent of the pro rata portion of the amount guaranteed (as determined under subsection (e) of this section). The Secretary shall be subrogated to the rights of the holder of the guarantee and the holder shall assign the obligation and security to the Secretary.”
 
-    Subsec. (h)(2), (3). [Pub. L. 104–330, § 701(d)(2)][/us/pl/104/330/s701/d/2], (3), (e), redesignated par. (3) as (2), in first sentence substituted “restricted Indian land, the mortgagee or” for “tribal allotted or trust land,”, in second sentence substituted “mortgagee or the Secretary” for “Secretary” in two places, and struck out heading and text of former par. (2). Text read as follows: “Notwithstanding paragraph (1), upon receiving notice of default on a loan guaranteed under this section from the holder of the guarantee, the Secretary may accept assignment of the loan if the Secretary determines that the assignment is in the best interests of the United States. Upon assignment the Secretary shall pay to the holder of the guarantee the pro rata portion of the amount guaranteed (as determined under subsection (e) of this section). The Secretary shall be subrogated to the rights of the holder of the guarantee and the holder shall assign the obligation and security to the Secretary.”
+    Subsec. (h)(2), (3). [Pub. L. 104–330][/us/pl/104/330], § 701(d)(2), (3), (e), redesignated par. (3) as (2), in first sentence substituted “restricted Indian land, the mortgagee or” for “tribal allotted or trust land,”, in second sentence substituted “mortgagee or the Secretary” for “Secretary” in two places, and struck out heading and text of former par. (2). Text read as follows: “Notwithstanding paragraph (1), upon receiving notice of default on a loan guaranteed under this section from the holder of the guarantee, the Secretary may accept assignment of the loan if the Secretary determines that the assignment is in the best interests of the United States. Upon assignment the Secretary shall pay to the holder of the guarantee the pro rata portion of the amount guaranteed (as determined under subsection (e) of this section). The Secretary shall be subrogated to the rights of the holder of the guarantee and the holder shall assign the obligation and security to the Secretary.”
 
-    Subsec. (i)(5)(A). [Pub. L. 104–330, § 701(j)(1)][/us/pl/104/330/s701/j/1], added subpar. (A) and struck out heading and text of former subpar. (A). Text read as follows: “The authority of the Secretary to enter into commitments to guarantee loans under this section shall be effective for any fiscal year only to the extent or in such amounts as are or have been provided in appropriations Acts for such fiscal year.”
+    Subsec. (i)(5)(A). [Pub. L. 104–330][/us/pl/104/330], § 701(j)(1), added subpar. (A) and struck out heading and text of former subpar. (A). Text read as follows: “The authority of the Secretary to enter into commitments to guarantee loans under this section shall be effective for any fiscal year only to the extent or in such amounts as are or have been provided in appropriations Acts for such fiscal year.”
 
-    Subsec. (i)(5)(B). [Pub. L. 104–330, § 701(j)(2)][/us/pl/104/330/s701/j/2], inserted at end “Any amounts appropriated pursuant to this subparagraph shall remain available until expended.”
+    Subsec. (i)(5)(B). [Pub. L. 104–330][/us/pl/104/330], § 701(j)(2), inserted at end “Any amounts appropriated pursuant to this subparagraph shall remain available until expended.”
 
-    Subsec. (i)(5)(C). [Pub. L. 104–330, § 701(f)][/us/pl/104/330/s701/f], substituted “1997, 1998, 1999, 2000, and 2001 with an aggregate outstanding principal amount note exceeding $400,000,000 for each such fiscal year” for “1993 and 1994 with an aggregate outstanding principal amount not exceeding such amount as may be provided in appropriation Acts for each such year”.
+    Subsec. (i)(5)(C). [Pub. L. 104–330][/us/pl/104/330], § 701(f), substituted “1997, 1998, 1999, 2000, and 2001 with an aggregate outstanding principal amount note exceeding $400,000,000 for each such fiscal year” for “1993 and 1994 with an aggregate outstanding principal amount not exceeding such amount as may be provided in appropriation Acts for each such year”.
 
-    Subsec. (i)(7). [Pub. L. 104–330, § 701(g)][/us/pl/104/330/s701/g], substituted “such sums as may be necessary for each of fiscal years 1997, 1998, 1999, 2000, and 2001” for “such sums as may be necessary for fiscal year 1993 and $50,000,000 for fiscal year 1994”.
+    Subsec. (i)(7). [Pub. L. 104–330][/us/pl/104/330], § 701(g), substituted “such sums as may be necessary for each of fiscal years 1997, 1998, 1999, 2000, and 2001” for “such sums as may be necessary for fiscal year 1993 and $50,000,000 for fiscal year 1994”.
 
-    Subsec. (k)(4). [Pub. L. 104–330, § 701(h)(1)][/us/pl/104/330/s701/h/1], inserted “or Indian tribe” after “authority”.
+    Subsec. (k)(4). [Pub. L. 104–330][/us/pl/104/330], § 701(h)(1), inserted “or Indian tribe” after “authority”.
 
-    Subsec. (k)(5). [Pub. L. 104–330, § 701(h)(2)][/us/pl/104/330/s701/h/2], inserted concluding provisions, added subpar. (A), and struck out former subpar. (A) which read as follows: “is authorized to engage in or assist in the development or operation of low-income housing for Indians; and”.
+    Subsec. (k)(5). [Pub. L. 104–330][/us/pl/104/330], § 701(h)(2), inserted concluding provisions, added subpar. (A), and struck out former subpar. (A) which read as follows: “is authorized to engage in or assist in the development or operation of low-income housing for Indians; and”.
 
-    Subsec. (k)(8). [Pub. L. 104–330, § 701(h)(3)][/us/pl/104/330/s701/h/3], added par. (8) and struck out former par. (8) which read as follows: “The term ‘tribe’ means any tribe, band, pueblo, group, community, or nation of Indians or Alaska Natives.”
+    Subsec. (k)(8). [Pub. L. 104–330][/us/pl/104/330], § 701(h)(3), added par. (8) and struck out former par. (8) which read as follows: “The term ‘tribe’ means any tribe, band, pueblo, group, community, or nation of Indians or Alaska Natives.”
 
  __Effective Date of 1998 Amendment__ 
 
-[Pub. L. 105–276, title V, § 595(f)][/us/pl/105/276/s595/f], Oct. 21, 1998, [112 Stat. 2659][/us/stat/112/2659], provided that: 
+[Pub. L. 105–276, title V][/us/pl/105/276/tV], § 595(f), Oct. 21, 1998, [112 Stat. 2659][/us/stat/112/2659], provided that: 
 
 > “The amendments made by this section \[enacting [section 4168 of Title 25][/us/usc/t25/s4168], Indians, amending this section, sections 4103, 4111 to 4113, 4131, 4135 to 4139 of Title 25, and sections 1437e and 12899h–1 of Title 42, The Public Health and Welfare, and repealing provisions set out as a note under [section 1437 of Title 42][/us/usc/t42/s1437]\] are made and shall apply beginning upon the date of the enactment of this Act \[Oct. 21, 1998\].”
 
@@ -396,25 +396,25 @@
 [/us/usc/t25/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4101
 [/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
-[/us/pl/102/550/s184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs184
+[/us/pl/102/550/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtI
 [/us/stat/106/3739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3739
-[/us/pl/104/330/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs701%2Fa
+[/us/pl/104/330/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2FtVII
 [/us/stat/110/4048-4050]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4048-4050
-[/us/pl/105/276/s595/e/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs595%2Fe%2F11
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2658
-[/us/pl/106/377/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377%2Fs1%2Fa%2F1
+[/us/pl/106/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377
 [/us/stat/114/1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1441
-[/us/pl/106/568/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs1002
+[/us/pl/106/568/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2FtX
 [/us/stat/114/2925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2925
-[/us/pl/106/569/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs502
+[/us/pl/106/569/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2FtV
 [/us/stat/114/2961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2961
-[/us/pl/107/292/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F292%2Fs2%2Fd
+[/us/pl/107/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F292
 [/us/stat/116/2053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2053
-[/us/pl/110/37/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F37%2Fs2
+[/us/pl/110/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F37
 [/us/stat/121/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F229
-[/us/pl/113/6/s1806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6%2Fs1806
+[/us/pl/113/6/dF/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6%2FdF%2FtVIII
 [/us/stat/127/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F433
-[/us/pl/113/235/s241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs241
+[/us/pl/113/235/dK/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdK%2FtII
 [/us/stat/128/2759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2759
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
 [/us/stat/48/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1246
@@ -438,30 +438,30 @@
 [/us/pl/113/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6
 [/us/pl/110/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F37
 [/us/pl/107/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F292
-[/us/pl/106/377/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377%2Fs1%2Fa%2F1
-[/us/pl/106/377/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377%2Fs1%2Fa%2F1
-[/us/pl/106/568/s1002/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs1002%2F1
-[/us/pl/106/569/s502/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs502%2F1
-[/us/pl/106/568/s1002/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs1002%2F2
-[/us/pl/106/569/s502/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs502%2F2
-[/us/pl/105/276/s595/e/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs595%2Fe%2F11
-[/us/pl/105/276/s595/e/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs595%2Fe%2F12
-[/us/pl/105/276/s595/e/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs595%2Fe%2F13
-[/us/pl/104/330/s701/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs701%2Fa%2F1
-[/us/pl/104/330/s701/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs701%2Fa%2F2
-[/us/pl/104/330/s701/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs701%2Fc
-[/us/pl/104/330/s701/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs701%2Fi
-[/us/pl/104/330/s701/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs701%2Fd%2F1%2FA
-[/us/pl/104/330/s701/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs701%2Fd%2F1%2FB
-[/us/pl/104/330/s701/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs701%2Fd%2F2
-[/us/pl/104/330/s701/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs701%2Fj%2F1
-[/us/pl/104/330/s701/j/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs701%2Fj%2F2
-[/us/pl/104/330/s701/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs701%2Ff
-[/us/pl/104/330/s701/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs701%2Fg
-[/us/pl/104/330/s701/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs701%2Fh%2F1
-[/us/pl/104/330/s701/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs701%2Fh%2F2
-[/us/pl/104/330/s701/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs701%2Fh%2F3
-[/us/pl/105/276/s595/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs595%2Ff
+[/us/pl/106/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377
+[/us/pl/106/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377
+[/us/pl/106/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/104/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330
+[/us/pl/104/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330
+[/us/pl/104/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330
+[/us/pl/104/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330
+[/us/pl/104/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330
+[/us/pl/104/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330
+[/us/pl/104/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330
+[/us/pl/104/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330
+[/us/pl/104/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330
+[/us/pl/104/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330
+[/us/pl/104/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330
+[/us/pl/104/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330
+[/us/pl/104/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330
+[/us/pl/104/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2659
 [/us/usc/t25/s4168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4168
 [/us/usc/t42/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437

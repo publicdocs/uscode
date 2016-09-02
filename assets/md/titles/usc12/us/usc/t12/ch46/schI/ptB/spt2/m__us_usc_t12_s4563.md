@@ -61,11 +61,11 @@
 
         The Director shall determine, for each year that the housing goal under this section is in effect pursuant to [section 4561(a) of this title][/us/usc/t12/s4561/a], whether each enterprise has complied with such goal and the additional requirements under subsection (a)(2).
 
-([Pub. L. 102–550, title XIII, § 1333][/us/pl/102/550/s1333], as added [Pub. L. 110–289, div. A, title I, § 1128(b)][/us/pl/110/289/s1128/b], July 30, 2008, [122 Stat. 2700][/us/stat/122/2700].)
+([Pub. L. 102–550, title XIII][/us/pl/102/550/tXIII], § 1333, as added [Pub. L. 110–289, div. A, title I][/us/pl/110/289/dA/tI], § 1128(b), July 30, 2008, [122 Stat. 2700][/us/stat/122/2700].)
 
  __Prior Provisions__ 
 
-    A prior section 4563, [Pub. L. 102–550, title XIII, § 1333][/us/pl/102/550/s1333], Oct. 28, 1992, [106 Stat. 3958][/us/stat/106/3958], related to special affordable housing goal, prior to repeal by [Pub. L. 110–289, div. A, title I, § 1128(a)][/us/pl/110/289/s1128/a], July 30, 2008, [122 Stat. 2696][/us/stat/122/2696].
+    A prior section 4563, [Pub. L. 102–550, title XIII][/us/pl/102/550/tXIII], § 1333, Oct. 28, 1992, [106 Stat. 3958][/us/stat/106/3958], related to special affordable housing goal, prior to repeal by [Pub. L. 110–289, div. A, title I][/us/pl/110/289/dA/tI], § 1128(a), July 30, 2008, [122 Stat. 2696][/us/stat/122/2696].
 
 ----------
 
@@ -77,12 +77,12 @@
 [/us/usc/t12/s4566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4566
 [/us/usc/t12/s4566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4566
 [/us/usc/t12/s4561/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4561%2Fa
-[/us/pl/102/550/s1333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1333
-[/us/pl/110/289/s1128/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1128%2Fb
+[/us/pl/102/550/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIII
+[/us/pl/110/289/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtI
 [/us/stat/122/2700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2700
-[/us/pl/102/550/s1333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1333
+[/us/pl/102/550/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIII
 [/us/stat/106/3958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3958
-[/us/pl/110/289/s1128/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1128%2Fa
+[/us/pl/110/289/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtI
 [/us/stat/122/2696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2696
 
 

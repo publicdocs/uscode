@@ -97,7 +97,7 @@
 
             Not later than 1 year after the date of appointment of the Corporation as receiver under this subchapter, the Inspector General of the Federal primary financial regulatory agency or the Board of Governors shall provide the report required by paragraph (1) to such agency or the Board of Governors, and along with such agency or the Board of Governors, as applicable, shall appear before the appropriate committees of Congress, if requested, to present the report required by paragraph (1). Not later than 90 days after the date of receipt of the report required by paragraph (1), such agency or the Board of Governors, as applicable, shall provide a written report to Congress describing any actions taken in response to the recommendations in the report, and if no such actions were taken, describing the reasons why no actions were taken.
 
-([Pub. L. 111–203, title II, § 211][/us/pl/111/203/s211], July 21, 2010, [124 Stat. 1514][/us/stat/124/1514].)
+([Pub. L. 111–203, title II][/us/pl/111/203/tII], § 211, July 21, 2010, [124 Stat. 1514][/us/stat/124/1514].)
 
  __References in Text__ 
 
@@ -125,7 +125,7 @@
 [/us/usc/t12/s5390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5390
 [/us/usc/t12/s5390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5390
 [/us/usc/t12/s5365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5365
-[/us/pl/111/203/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs211
+[/us/pl/111/203/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtII
 [/us/stat/124/1514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1514
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1442

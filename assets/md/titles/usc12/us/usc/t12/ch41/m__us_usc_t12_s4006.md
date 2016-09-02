@@ -57,7 +57,7 @@
 
         The dollar amounts under this chapter shall be adjusted every 5 years after December 31, 2011, by the annual percentage increase in the Consumer Price Index for Urban Wage Earners and Clerical Workers, as published by the Bureau of Labor Statistics, rounded to the nearest multiple of $25.
 
-([Pub. L. 100–86, title VI, § 607][/us/pl/100/86/s607], Aug. 10, 1987, [101 Stat. 646][/us/stat/101/646]; [Pub. L. 111–203, title X, § 1086(f)][/us/pl/111/203/s1086/f], July 21, 2010, [124 Stat. 2086][/us/stat/124/2086].)
+([Pub. L. 100–86, title VI][/us/pl/100/86/tVI], § 607, Aug. 10, 1987, [101 Stat. 646][/us/stat/101/646]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1086(f), July 21, 2010, [124 Stat. 2086][/us/stat/124/2086].)
 
  __References in Text__ 
 
@@ -79,9 +79,9 @@
 ----------
 
 [/us/usc/t12/s4002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4002
-[/us/pl/100/86/s607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2Fs607
+[/us/pl/100/86/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2FtVI
 [/us/stat/101/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F646
-[/us/pl/111/203/s1086/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1086%2Ff
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2086
 [/us/pl/100/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86
 [/us/stat/101/635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F635

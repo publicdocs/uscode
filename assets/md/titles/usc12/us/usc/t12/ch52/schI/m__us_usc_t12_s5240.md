@@ -17,7 +17,7 @@
 
     With the exception of [section 5236 of this title][/us/usc/t12/s5236], nothing in this chapter may be construed to limit the authority of the Secretary or the Board under any other provision of law.
 
-([Pub. L. 110–343, div. A, title I, § 135][/us/pl/110/343/s135], Oct. 3, 2008, [122 Stat. 3799][/us/stat/122/3799].)
+([Pub. L. 110–343, div. A, title I][/us/pl/110/343/dA/tI], § 135, Oct. 3, 2008, [122 Stat. 3799][/us/stat/122/3799].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t12/s5236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5236
-[/us/pl/110/343/s135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs135
+[/us/pl/110/343/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdA%2FtI
 [/us/stat/122/3799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3799
 [/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
 [/us/stat/122/3765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3765

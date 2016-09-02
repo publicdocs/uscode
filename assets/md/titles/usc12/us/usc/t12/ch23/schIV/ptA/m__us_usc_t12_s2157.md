@@ -17,7 +17,7 @@
 
     The bonds, debentures, and other similar obligations issued under the authority of this chapter shall be lawful investments for all fiduciary and trust funds and may be accepted as security for all public deposits.
 
-([Pub. L. 92–181, title IV, § 4][/us/pl/92/181/s4].6, Dec. 10, 1971, [85 Stat. 612][/us/stat/85/612].)
+([Pub. L. 92–181, title IV][/us/pl/92/181/tIV], § 4.6, Dec. 10, 1971, [85 Stat. 612][/us/stat/85/612].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/92/181/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs4
+[/us/pl/92/181/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtIV
 [/us/stat/85/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F612
 
 

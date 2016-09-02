@@ -131,7 +131,7 @@
 
         The term “payment” means a payment of United States dollars, another currency, or a composite currency, and a noncash delivery, including a payment or delivery to liquidate an unmatured obligation.
 
-([Pub. L. 102–242, title IV, § 402][/us/pl/102/242/s402], Dec. 19, 1991, [105 Stat. 2372][/us/stat/105/2372]; [Pub. L. 102–550, title XVI, § 1606(a)][/us/pl/102/550/s1606/a], Oct. 28, 1992, [106 Stat. 4087][/us/stat/106/4087]; [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title I, §§ 112(a)(2), 123(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–391, 2763A–411; [Pub. L. 109–8, title IX, § 906(a)][/us/pl/109/8/s906/a], Apr. 20, 2005, [119 Stat. 167][/us/stat/119/167].)
+([Pub. L. 102–242, title IV][/us/pl/102/242/tIV], § 402, Dec. 19, 1991, [105 Stat. 2372][/us/stat/105/2372]; [Pub. L. 102–550, title XVI][/us/pl/102/550/tXVI], § 1606(a), Oct. 28, 1992, [106 Stat. 4087][/us/stat/106/4087]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title I, §§ 112(a)(2), 123(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–391, 2763A–411; [Pub. L. 109–8, title IX][/us/pl/109/8/tIX], § 906(a), Apr. 20, 2005, [119 Stat. 167][/us/stat/119/167].)
 
  __References in Text__ 
 
@@ -139,35 +139,35 @@
 
     The Securities Exchange Act of 1934, referred to in par. (2)(A)(ii), is [act June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], [48 Stat. 881][/us/stat/48/881], which is classified principally to chapter 2B (§ 78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 78a of Title 15][/us/usc/t15/s78a] and Tables.
 
-    [Section 4421 of this title][/us/usc/t12/s4421], referred to in par. (2)(B), was repealed by [Pub. L. 111–203, title VII, § 740][/us/pl/111/203/s740], July 21, 2010, [124 Stat. 1729][/us/stat/124/1729].
+    [Section 4421 of this title][/us/usc/t12/s4421], referred to in par. (2)(B), was repealed by [Pub. L. 111–203, title VII][/us/pl/111/203/tVII], § 740, July 21, 2010, [124 Stat. 1729][/us/stat/124/1729].
 
-    Section 25(a) of the Federal Reserve Act, referred to in par. (6), which is classified to subchapter II (§ 611 et seq.) of chapter 6 of this title, was renumbered section 25A of that act by [Pub. L. 102–242, title I, § 142(e)(2)][/us/pl/102/242/s142/e/2], Dec. 19, 1991, [105 Stat. 2281][/us/stat/105/2281]. Section 25 of the Federal Reserve Act is classified to subchapter I (§ 601 et seq.) of chapter 6 of this title.
+    Section 25(a) of the Federal Reserve Act, referred to in par. (6), which is classified to subchapter II (§ 611 et seq.) of chapter 6 of this title, was renumbered section 25A of that act by [Pub. L. 102–242, title I][/us/pl/102/242/tI], § 142(e)(2), Dec. 19, 1991, [105 Stat. 2281][/us/stat/105/2281]. Section 25 of the Federal Reserve Act is classified to subchapter I (§ 601 et seq.) of chapter 6 of this title.
 
  __Amendments__ 
 
-    2005—Par. (2)(A)(ii). [Pub. L. 109–8, § 906(a)(1)(A)][/us/pl/109/8/s906/a/1/A], inserted before semicolon “, or is exempt from such registration by order of the Securities and Exchange Commission”.
+    2005—Par. (2)(A)(ii). [Pub. L. 109–8][/us/pl/109/8], § 906(a)(1)(A), inserted before semicolon “, or is exempt from such registration by order of the Securities and Exchange Commission”.
 
-    Par. (2)(B). [Pub. L. 109–8, § 906(a)(1)(B)][/us/pl/109/8/s906/a/1/B], inserted before period at end “, that has been granted an exemption under [section 6(c)(1) of title 7][/us/usc/t7/s6/c/1], or that is a multilateral clearing organization (as defined in [section 4421 of this title][/us/usc/t12/s4421])”.
+    Par. (2)(B). [Pub. L. 109–8][/us/pl/109/8], § 906(a)(1)(B), inserted before period at end “, that has been granted an exemption under [section 6(c)(1) of title 7][/us/usc/t7/s6/c/1], or that is a multilateral clearing organization (as defined in [section 4421 of this title][/us/usc/t12/s4421])”.
 
-    Par. (6)(B). [Pub. L. 109–8, § 906(a)(2)(B)][/us/pl/109/8/s906/a/2/B], added subpar. (B). Former subpar. (B) redesignated (C).
+    Par. (6)(B). [Pub. L. 109–8][/us/pl/109/8], § 906(a)(2)(B), added subpar. (B). Former subpar. (B) redesignated (C).
 
-    Par. (6)(C). [Pub. L. 109–8, § 906(a)(2)(A)][/us/pl/109/8/s906/a/2/A], (C), redesignated subpar. (B) as (C) and amended it generally. Prior to amendment, subpar. (C) read as follows: “a branch or agency as defined in section 1(b) of the International Banking Act of 1978;”. Former subpar. (C) redesignated (D).
+    Par. (6)(C). [Pub. L. 109–8][/us/pl/109/8], § 906(a)(2)(A), (C), redesignated subpar. (B) as (C) and amended it generally. Prior to amendment, subpar. (C) read as follows: “a branch or agency as defined in section 1(b) of the International Banking Act of 1978;”. Former subpar. (C) redesignated (D).
 
-    Par. (6)(D), (E). [Pub. L. 109–8, § 906(a)(2)(A)][/us/pl/109/8/s906/a/2/A], redesignated subpars. (C) and (D) as (D) and (E), respectively.
+    Par. (6)(D), (E). [Pub. L. 109–8][/us/pl/109/8], § 906(a)(2)(A), redesignated subpars. (C) and (D) as (D) and (E), respectively.
 
-    Par. (11). [Pub. L. 109–8, § 906(a)(3)][/us/pl/109/8/s906/a/3], inserted before period at end “and any other clearing organization with which such clearing organization has a netting contract”.
+    Par. (11). [Pub. L. 109–8][/us/pl/109/8], § 906(a)(3), inserted before period at end “and any other clearing organization with which such clearing organization has a netting contract”.
 
-    Par. (14)(A)(i). [Pub. L. 109–8, § 906(a)(4)][/us/pl/109/8/s906/a/4], amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “means a contract or agreement between 2 or more financial institutions or members, that—
+    Par. (14)(A)(i). [Pub. L. 109–8][/us/pl/109/8], § 906(a)(4), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “means a contract or agreement between 2 or more financial institutions or members, that—
 
     “(I) is governed by the laws of the United States, any State, or any political subdivision of any State, and
 
     “(II) provides for netting present or future payment obligations or payment entitlements (including liquidation or close-out values relating to the obligations or entitlements) among the parties to the agreement; and”.
 
-    Par. (15). [Pub. L. 109–8, § 906(a)(5)][/us/pl/109/8/s906/a/5], added par. (15).
+    Par. (15). [Pub. L. 109–8][/us/pl/109/8], § 906(a)(5), added par. (15).
 
-    2000—[Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title I, § 112(a)(2)\], substituted “this subchapter” for “this chapter” in introductory provisions.
+    2000—[Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title I, § 112(a)(2)\], substituted “this subchapter” for “this chapter” in introductory provisions.
 
-    Par. (2)(B). [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title I, § 123(b)\], added subpar. (B) and struck out former subpar. (B) which read as follows: “that performs clearing functions for a contract market designated pursuant to the Commodity Exchange Act.”
+    Par. (2)(B). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title I, § 123(b)\], added subpar. (B) and struck out former subpar. (B) which read as follows: “that performs clearing functions for a contract market designated pursuant to the Commodity Exchange Act.”
 
     1992—Par. (14)(B). [Pub. L. 102–550][/us/pl/102/550] substituted “Federal law” for “Federal commodities law”.
 
@@ -194,13 +194,13 @@
 [/us/usc/t12/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3101
 [/us/usc/t12/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs611
 [/us/usc/t12/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs601
-[/us/pl/102/242/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs402
+[/us/pl/102/242/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtIV
 [/us/stat/105/2372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2372
-[/us/pl/102/550/s1606/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1606%2Fa
+[/us/pl/102/550/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXVI
 [/us/stat/106/4087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4087
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/109/8/s906/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs906%2Fa
+[/us/pl/109/8/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtIX
 [/us/stat/119/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F167
 [/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
 [/us/stat/105/2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2371
@@ -208,22 +208,22 @@
 [/us/stat/48/881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F881
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
 [/us/usc/t12/s4421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4421
-[/us/pl/111/203/s740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs740
+[/us/pl/111/203/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVII
 [/us/stat/124/1729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1729
-[/us/pl/102/242/s142/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs142%2Fe%2F2
+[/us/pl/102/242/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtI
 [/us/stat/105/2281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2281
-[/us/pl/109/8/s906/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs906%2Fa%2F1%2FA
-[/us/pl/109/8/s906/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs906%2Fa%2F1%2FB
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/usc/t7/s6/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6%2Fc%2F1
 [/us/usc/t12/s4421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4421
-[/us/pl/109/8/s906/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs906%2Fa%2F2%2FB
-[/us/pl/109/8/s906/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs906%2Fa%2F2%2FA
-[/us/pl/109/8/s906/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs906%2Fa%2F2%2FA
-[/us/pl/109/8/s906/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs906%2Fa%2F3
-[/us/pl/109/8/s906/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs906%2Fa%2F4
-[/us/pl/109/8/s906/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs906%2Fa%2F5
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/109/8/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1501

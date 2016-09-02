@@ -25,7 +25,7 @@
 
     (4) to streamline and rationalize the supervision of depository institutions and the holding companies of depository institutions.
 
-([Pub. L. 111–203, title III, § 301][/us/pl/111/203/s301], July 21, 2010, [124 Stat. 1520][/us/stat/124/1520].)
+([Pub. L. 111–203, title III][/us/pl/111/203/tIII], § 301, July 21, 2010, [124 Stat. 1520][/us/stat/124/1520].)
 
  __References in Text__ 
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/111/203/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs301
+[/us/pl/111/203/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIII
 [/us/stat/124/1520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1520
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1520

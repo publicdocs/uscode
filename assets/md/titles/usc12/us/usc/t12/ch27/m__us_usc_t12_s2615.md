@@ -17,7 +17,7 @@
 
     Nothing in this chapter shall affect the validity or enforceability of any sale or contract for the sale of real property or any loan, loan agreement, mortgage, or lien made or arising in connection with a federally related mortgage loan.
 
-([Pub. L. 93–533, § 17][/us/pl/93/533/s17], Dec. 22, 1974, [88 Stat. 1731][/us/stat/88/1731].)
+([Pub. L. 93–533][/us/pl/93/533], § 17, Dec. 22, 1974, [88 Stat. 1731][/us/stat/88/1731].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/93/533/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F533%2Fs17
+[/us/pl/93/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F533
 [/us/stat/88/1731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1731
 
 

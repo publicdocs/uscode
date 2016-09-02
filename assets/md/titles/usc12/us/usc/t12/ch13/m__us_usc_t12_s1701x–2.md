@@ -83,7 +83,7 @@
 
         There are authorized to be appropriated to the Secretary $35,000,000 for each of fiscal years 2011 through 2012 for grants under this section.
 
-([Pub. L. 111–203, title XIV, § 1498][/us/pl/111/203/s1498], July 21, 2010, [124 Stat. 2211][/us/stat/124/2211].)
+([Pub. L. 111–203, title XIV][/us/pl/111/203/tXIV], § 1498, July 21, 2010, [124 Stat. 2211][/us/stat/124/2211].)
 
  __References in Text__ 
 
@@ -108,7 +108,7 @@
 ----------
 ----------
 
-[/us/pl/111/203/s1498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1498
+[/us/pl/111/203/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtXIV
 [/us/stat/124/2211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2211
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1376

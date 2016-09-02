@@ -27,13 +27,13 @@
 
     (e) No bank or banks shall issue notes, bonds, debentures, or other obligations individually or in concert with one or more banks of the System other than through the Federal Farm Credit Banks Funding Corporation under any provision of this chapter except under subsection (a) of this section: Provided, That any bank or banks may issue investment bonds or like obligations other than through the Federal Farm Credit Banks Funding Corporation if the interest rate is not in excess of the interest allowable on savings deposits of commercial banks of comparable amounts and maturities under Federal Reserve regulation on its member banks.
 
-([Pub. L. 92–181, title IV, § 4][/us/pl/92/181/s4].2, Dec. 10, 1971, [85 Stat. 610][/us/stat/85/610]; [Pub. L. 99–205, title II, § 205(f)(1)][/us/pl/99/205/s205/f/1], Dec. 23, 1985, [99 Stat. 1705][/us/stat/99/1705]; [Pub. L. 100–233, title IV, § 418(b)][/us/pl/100/233/s418/b], formerly § 415(b), Jan. 6, 1988, [101 Stat. 1653][/us/stat/101/1653], renumbered § 418(b), [Pub. L. 100–399, title IV, § 409(a)][/us/pl/100/399/s409/a], Aug. 17, 1988, [102 Stat. 1003][/us/stat/102/1003]; [Pub. L. 100–399, title II, § 203(e)][/us/pl/100/399/s203/e], Aug. 17, 1988, [102 Stat. 993][/us/stat/102/993].)
+([Pub. L. 92–181, title IV][/us/pl/92/181/tIV], § 4.2, Dec. 10, 1971, [85 Stat. 610][/us/stat/85/610]; [Pub. L. 99–205, title II][/us/pl/99/205/tII], § 205(f)(1), Dec. 23, 1985, [99 Stat. 1705][/us/stat/99/1705]; [Pub. L. 100–233, title IV][/us/pl/100/233/tIV], § 418(b), formerly § 415(b), Jan. 6, 1988, [101 Stat. 1653][/us/stat/101/1653], renumbered § 418(b), [Pub. L. 100–399, title IV][/us/pl/100/399/tIV], § 409(a), Aug. 17, 1988, [102 Stat. 1003][/us/stat/102/1003]; [Pub. L. 100–399, title II][/us/pl/100/399/tII], § 203(e), Aug. 17, 1988, [102 Stat. 993][/us/stat/102/993].)
 
  __Amendments__ 
 
     1988—Subsec. (d). [Pub. L. 100–233][/us/pl/100/233] substituted “the boards of directors of each bank” for “the boards of directors of each of the 12 districts and the Central Bank for Cooperatives”.
 
-    Subsec. (e). [Pub. L. 100–399, § 203(e)][/us/pl/100/399/s203/e], substituted “System other than through the” for “System other than through their”, and substituted “Federal Farm Credit Banks Funding Corporation” for “fiscal agent” in two places.
+    Subsec. (e). [Pub. L. 100–399][/us/pl/100/399], § 203(e), substituted “System other than through the” for “System other than through their”, and substituted “Federal Farm Credit Banks Funding Corporation” for “fiscal agent” in two places.
 
     1985—[Pub. L. 99–205][/us/pl/99/205] substituted “regulation by” for “supervision of” in provision preceding subsec. (a).
 
@@ -57,18 +57,18 @@
 ----------
 
 [/us/usc/t12/s2154/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2154%2Fc
-[/us/pl/92/181/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs4
+[/us/pl/92/181/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtIV
 [/us/stat/85/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F610
-[/us/pl/99/205/s205/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2Fs205%2Ff%2F1
+[/us/pl/99/205/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2FtII
 [/us/stat/99/1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1705
-[/us/pl/100/233/s418/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs418%2Fb
+[/us/pl/100/233/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtIV
 [/us/stat/101/1653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1653
-[/us/pl/100/399/s409/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs409%2Fa
+[/us/pl/100/399/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtIV
 [/us/stat/102/1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1003
-[/us/pl/100/399/s203/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs203%2Fe
+[/us/pl/100/399/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtII
 [/us/stat/102/993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F993
 [/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
-[/us/pl/100/399/s203/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs203%2Fe
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/99/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205
 [/us/pl/99/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205
 [/us/pl/99/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205

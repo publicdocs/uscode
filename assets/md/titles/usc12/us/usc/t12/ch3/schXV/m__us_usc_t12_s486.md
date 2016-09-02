@@ -17,7 +17,7 @@
 
     Whenever member banks are required to obtain reports from affiliates, or whenever affiliates of member banks are required to submit to examination, the Board of Governors of the Federal Reserve System or the Comptroller of the Currency, as the case may be, may waive such requirements with respect to any such report or examination of any affiliate if in the judgment of the said Board or Comptroller, respectively, such report or examination is not necessary to disclose fully the relations between such affiliate and such bank and the effect thereof upon the affairs of such bank.
 
-([Dec. 23, 1913, ch. 6, § 21][/us/act/1913-12-23/ch6/s21] (par.), as added [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title III, § 325, [49 Stat. 715][/us/stat/49/715].)
+([Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 21 (par.), as added [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title III, § 325, [49 Stat. 715][/us/stat/49/715].)
 
  __Codification__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1913-12-23/ch6/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs21
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
 [/us/act/1935-08-23/ch614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch614
 [/us/stat/49/715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F715
 [/us/usc/t12/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1

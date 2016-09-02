@@ -17,7 +17,7 @@
 
     The [Act of May 26, 1942, ch. 319][/us/act/1942-05-26/ch319], [56 Stat. 301][/us/stat/56/301], may be cited as the “National Housing Act Amendments of 1942”.
 
-([May 26, 1942, ch. 319, § 15][/us/act/1942-05-26/ch319/s15], [56 Stat. 305][/us/stat/56/305].)
+([May 26, 1942, ch. 319][/us/act/1942-05-26/ch319], § 15, [56 Stat. 305][/us/stat/56/305].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 
 [/us/act/1942-05-26/ch319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-05-26%2Fch319
 [/us/stat/56/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F301
-[/us/act/1942-05-26/ch319/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-05-26%2Fch319%2Fs15
+[/us/act/1942-05-26/ch319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-05-26%2Fch319
 [/us/stat/56/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F305
 [/us/usc/t12/s1743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1743
 [/us/usc/t12/s1736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1736

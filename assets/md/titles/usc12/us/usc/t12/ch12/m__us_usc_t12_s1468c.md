@@ -17,7 +17,7 @@
 
     If any provision of this chapter, or the application thereof to any person or circumstances, is held invalid, the remainder of the chapter, and the application of such provision to other persons or circumstances, shall not be affected thereby.
 
-([June 13, 1933, ch. 64, § 14][/us/act/1933-06-13/ch64/s14], as added [Pub. L. 101–73, title III, § 301][/us/pl/101/73/s301], Aug. 9, 1989, [103 Stat. 343][/us/stat/103/343].)
+([June 13, 1933, ch. 64][/us/act/1933-06-13/ch64], § 14, as added [Pub. L. 101–73, title III][/us/pl/101/73/tIII], § 301, Aug. 9, 1989, [103 Stat. 343][/us/stat/103/343].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/act/1933-06-13/ch64/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-13%2Fch64%2Fs14
-[/us/pl/101/73/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs301
+[/us/act/1933-06-13/ch64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-13%2Fch64
+[/us/pl/101/73/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtIII
 [/us/stat/103/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F343
 
 

@@ -17,7 +17,7 @@
 
     The [Act of February 3, 1938, ch. 13][/us/act/1938-02-03/ch13], [52 Stat. 8][/us/stat/52/8], may be cited as the “National Housing Act Amendments of 1938.”
 
-([Feb. 3, 1938, ch. 13, § 1][/us/act/1938-02-03/ch13/s1], [52 Stat. 8][/us/stat/52/8].)
+([Feb. 3, 1938, ch. 13][/us/act/1938-02-03/ch13], § 1, [52 Stat. 8][/us/stat/52/8].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 
 [/us/act/1938-02-03/ch13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-03%2Fch13
 [/us/stat/52/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F8
-[/us/act/1938-02-03/ch13/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-03%2Fch13%2Fs1
+[/us/act/1938-02-03/ch13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-03%2Fch13
 [/us/stat/52/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F8
 
 

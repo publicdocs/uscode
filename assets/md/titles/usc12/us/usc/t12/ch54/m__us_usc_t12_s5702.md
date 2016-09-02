@@ -141,7 +141,7 @@
 
                 (ii) in the case of the last ⅓, an amount equal to 34 percent of a participating State’s allocated amount.
 
-([Pub. L. 111–240, title III, § 3003][/us/pl/111/240/s3003], Sept. 27, 2010, [124 Stat. 2570][/us/stat/124/2570].)
+([Pub. L. 111–240, title III][/us/pl/111/240/tIII], § 3003, Sept. 27, 2010, [124 Stat. 2570][/us/stat/124/2570].)
 
 ----------
 
@@ -152,7 +152,7 @@
 
 [/us/usc/t12/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5703
 [/us/usc/t12/s5703/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5703%2Fd
-[/us/pl/111/240/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs3003
+[/us/pl/111/240/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2FtIII
 [/us/stat/124/2570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2570
 
 

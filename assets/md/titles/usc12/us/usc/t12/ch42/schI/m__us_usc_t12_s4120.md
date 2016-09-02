@@ -17,7 +17,7 @@
 
     Where a provision of this subchapter requires that information or material be given to tenants of the housing, the requirement may be met by (1) posting a copy of the information or material in readily accessible locations within each affected building, or posting notices in each such location describing the information or material and specifying a location, as convenient to the tenants as is reasonably practical, where a copy may be examined, and (2) supplying a copy of the information or material to a representative of the tenants.
 
-([Pub. L. 100–242, title II, § 230][/us/pl/100/242/s230], as added [Pub. L. 101–625, title VI, § 601(a)][/us/pl/101/625/s601/a], Nov. 28, 1990, [104 Stat. 4273][/us/stat/104/4273].)
+([Pub. L. 100–242, title II][/us/pl/100/242/tII], § 230, as added [Pub. L. 101–625, title VI][/us/pl/101/625/tVI], § 601(a), Nov. 28, 1990, [104 Stat. 4273][/us/stat/104/4273].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/100/242/s230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs230
-[/us/pl/101/625/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs601%2Fa
+[/us/pl/100/242/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtII
+[/us/pl/101/625/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtVI
 [/us/stat/104/4273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4273
 
 

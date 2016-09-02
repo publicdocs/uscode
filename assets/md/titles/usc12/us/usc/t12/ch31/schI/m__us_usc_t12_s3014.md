@@ -69,7 +69,7 @@
 
         After payment of all operating expenses of the Bank, including interest on its obligations, and after setting aside appropriate funds for reserves for losses, for interest payments on class A notes and dividends on class C stock and for any redemption of class A notes in accordance with subsection (c), the Bank shall annually set aside the remaining earnings of the Bank for patronage refunds in the form of class B or C stock or allocated surplus in accordance with the bylaws of the Bank. After ten years from the date of issue of any such stock, or at such earlier time as all the Government-held stock is retired, patronage refunds may be made in cash, or partly in stock and partly in cash.
 
-([Pub. L. 95–351, title I, § 104][/us/pl/95/351/s104], Aug. 20, 1978, [92 Stat. 503][/us/stat/92/503]; [Pub. L. 97–35, title III][/us/pl/97/35], §§ 394(c)(1), 395(b)(2), 396(c), Aug. 13, 1981, [95 Stat. 436][/us/stat/95/436], 439; [Pub. L. 101–206, § 2][/us/pl/101/206/s2], Dec. 7, 1989, [103 Stat. 1832][/us/stat/103/1832].)
+([Pub. L. 95–351, title I][/us/pl/95/351/tI], § 104, Aug. 20, 1978, [92 Stat. 503][/us/stat/92/503]; [Pub. L. 97–35, title III][/us/pl/97/35/tIII], §§ 394(c)(1), 395(b)(2), 396(c), Aug. 13, 1981, [95 Stat. 436][/us/stat/95/436], 439; [Pub. L. 101–206][/us/pl/101/206], § 2, Dec. 7, 1989, [103 Stat. 1832][/us/stat/103/1832].)
 
  __Amendments__ 
 
@@ -77,29 +77,29 @@
 
     1981—Subsec. (a). [Pub. L. 97–35][/us/pl/97/35], §§ 394(c)(1), 395(b)(2), inserted “by other public or private investors,” after “public bodies,” and substituted provisions authorizing appropriations for fiscal year 1982, for provisions authorizing appropriations beginning with the fiscal year ending Sept. 30, 1979, and authorizing use of amounts authorized but not appropriated.
 
-    Subsec. (b). [Pub. L. 97–35, § 396(c)(1)][/us/pl/97/35/s396/c/1], substituted “class B” for “class A, class B,”, and substituted provisions relating to class A notes, for provisions relating to class A preferred stock.
+    Subsec. (b). [Pub. L. 97–35][/us/pl/97/35], § 396(c)(1), substituted “class B” for “class A, class B,”, and substituted provisions relating to class A notes, for provisions relating to class A preferred stock.
 
-    Subsec. (c). [Pub. L. 97–35, § 396(c)(2)][/us/pl/97/35/s396/c/2], substituted provisions relating to interest payments, redemption, etc., of class A notes, for provisions relating to issuance, dividends, etc., of class A stock.
+    Subsec. (c). [Pub. L. 97–35][/us/pl/97/35], § 396(c)(2), substituted provisions relating to interest payments, redemption, etc., of class A notes, for provisions relating to issuance, dividends, etc., of class A stock.
 
-    Subsec. (e). [Pub. L. 97–35, § 396(c)(3)][/us/pl/97/35/s396/c/3], substituted provisions relating to class A notes, for provisions relating to class A stock.
+    Subsec. (e). [Pub. L. 97–35][/us/pl/97/35], § 396(c)(3), substituted provisions relating to class A notes, for provisions relating to class A stock.
 
-    Subsec. (f). [Pub. L. 97–35, § 396(c)(4)][/us/pl/97/35/s396/c/4], substituted provisions relating to class A notes, for provisions relating to class A stock.
+    Subsec. (f). [Pub. L. 97–35][/us/pl/97/35], § 396(c)(4), substituted provisions relating to class A notes, for provisions relating to class A stock.
 
-    Subsec. (g)(2)(B). [Pub. L. 97–35, § 396(c)(5)][/us/pl/97/35/s396/c/5], substituted “3013(d)(2)(A)” for “3013(c)”.
+    Subsec. (g)(2)(B). [Pub. L. 97–35][/us/pl/97/35], § 396(c)(5), substituted “3013(d)(2)(A)” for “3013(c)”.
 
-    Subsec. (h). [Pub. L. 97–35, § 396(c)(6)][/us/pl/97/35/s396/c/6], struck out provision respecting treatment of the Bank as a governmental unit within [section 170(b)(1)(A)(v) of title 26][/us/usc/t26/s170/b/1/A/v].
+    Subsec. (h). [Pub. L. 97–35][/us/pl/97/35], § 396(c)(6), struck out provision respecting treatment of the Bank as a governmental unit within [section 170(b)(1)(A)(v) of title 26][/us/usc/t26/s170/b/1/A/v].
 
-    Subsec. (i). [Pub. L. 97–35, § 396(c)(7)][/us/pl/97/35/s396/c/7], substituted provisions relating to class A notes, for provisions relating to class A stock.
+    Subsec. (i). [Pub. L. 97–35][/us/pl/97/35], § 396(c)(7), substituted provisions relating to class A notes, for provisions relating to class A stock.
 
  __Effective Date of 1981 Amendment__ 
 
-[Pub. L. 97–35, title III, § 394(c)(2)][/us/pl/97/35/s394/c/2], Aug. 13, 1981, [95 Stat. 436][/us/stat/95/436], provided that: 
+[Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 394(c)(2), Aug. 13, 1981, [95 Stat. 436][/us/stat/95/436], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall take effect on the day after the Final Government Equity Redemption Date \[Dec. 31, 1981\].”
 
  For definition of “Final Government Equity Redemption Date”, see [section 396(a) of Pub. L. 97–35][/us/pl/97/35/s396/a], set out as a note under [section 3012 of this title][/us/usc/t12/s3012].
 
-[Pub. L. 97–35, title III, § 395(b)(3)][/us/pl/97/35/s395/b/3], Aug. 13, 1981, [95 Stat. 439][/us/stat/95/439], provided that: 
+[Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 395(b)(3), Aug. 13, 1981, [95 Stat. 439][/us/stat/95/439], provided that: 
 
 > “The amendments made by paragraphs (1) \[amending [section 3042 of this title][/us/usc/t12/s3042]\] and (2) \[amending this section\] shall take effect on October 1, 1981.”
 
@@ -115,27 +115,27 @@
 [/us/usc/t12/s3015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3015
 [/us/usc/t12/s3015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3015
 [/us/usc/t12/s3013/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3013%2Fd%2F2%2FA
-[/us/pl/95/351/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F351%2Fs104
+[/us/pl/95/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F351%2FtI
 [/us/stat/92/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F503
-[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F436
-[/us/pl/101/206/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F206%2Fs2
+[/us/pl/101/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F206
 [/us/stat/103/1832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1832
 [/us/pl/101/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F206
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
-[/us/pl/97/35/s396/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs396%2Fc%2F1
-[/us/pl/97/35/s396/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs396%2Fc%2F2
-[/us/pl/97/35/s396/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs396%2Fc%2F3
-[/us/pl/97/35/s396/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs396%2Fc%2F4
-[/us/pl/97/35/s396/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs396%2Fc%2F5
-[/us/pl/97/35/s396/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs396%2Fc%2F6
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/usc/t26/s170/b/1/A/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs170%2Fb%2F1%2FA%2Fv
-[/us/pl/97/35/s396/c/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs396%2Fc%2F7
-[/us/pl/97/35/s394/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs394%2Fc%2F2
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F436
 [/us/pl/97/35/s396/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs396%2Fa
 [/us/usc/t12/s3012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3012
-[/us/pl/97/35/s395/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs395%2Fb%2F3
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F439
 [/us/usc/t12/s3042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3042
 [/us/pl/97/35/s396/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs396%2Fc

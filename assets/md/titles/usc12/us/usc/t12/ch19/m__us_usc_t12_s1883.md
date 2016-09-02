@@ -23,7 +23,7 @@
 
     to determine the feasibility and desirability of premium rate differentials based on the installation, maintenance, and operation of security devices and procedures. The Federal supervisory agencies shall report to the Congress the results of their consultations pursuant to this section not later than two years after July 7, 1968.
 
-([Pub. L. 90–389, § 4][/us/pl/90/389/s4], July 7, 1968, [82 Stat. 295][/us/stat/82/295].)
+([Pub. L. 90–389][/us/pl/90/389], § 4, July 7, 1968, [82 Stat. 295][/us/stat/82/295].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t12/s1881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1881
-[/us/pl/90/389/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F389%2Fs4
+[/us/pl/90/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F389
 [/us/stat/82/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F295
 
 

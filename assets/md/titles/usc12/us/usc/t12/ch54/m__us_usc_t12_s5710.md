@@ -33,7 +33,7 @@
 
         None of the funds made available under this chapter may be used to pay the salary of any individual engaged in activities related to the Program who has been officially disciplined for violations of subpart G of the Standards of Ethical Conduct for Employees of the Executive Branch for viewing, downloading, or exchanging pornography, including child pornography, on a Federal Government computer or while performing official Federal Government duties.
 
-([Pub. L. 111–240, title III, § 3011][/us/pl/111/240/s3011], Sept. 27, 2010, [124 Stat. 2581][/us/stat/124/2581]; [Pub. L. 113–188, title IX, § 901(d)][/us/pl/113/188/s901/d], Nov. 26, 2014, [128 Stat. 2020][/us/stat/128/2020].)
+([Pub. L. 111–240, title III][/us/pl/111/240/tIII], § 3011, Sept. 27, 2010, [124 Stat. 2581][/us/stat/124/2581]; [Pub. L. 113–188, title IX][/us/pl/113/188/tIX], § 901(d), Nov. 26, 2014, [128 Stat. 2020][/us/stat/128/2020].)
 
  __Amendments__ 
 
@@ -47,9 +47,9 @@
 ----------
 
 [/us/usc/t42/s16911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16911
-[/us/pl/111/240/s3011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs3011
+[/us/pl/111/240/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2FtIII
 [/us/stat/124/2581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2581
-[/us/pl/113/188/s901/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs901%2Fd
+[/us/pl/113/188/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2FtIX
 [/us/stat/128/2020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2020
 [/us/pl/113/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188
 

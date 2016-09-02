@@ -153,49 +153,49 @@
 
         Notwithstanding any other provision of law, all civil money penalties collected under this section shall be deposited in the appropriate insurance fund or funds established under this chapter, as determined by the Secretary.
 
-([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title V, § 536, as added [Pub. L. 101–235, title I, § 107(a)][/us/pl/101/235/s107/a], Dec. 15, 1989, [103 Stat. 2000][/us/stat/103/2000]; amended [Pub. L. 104–208, div. A, title II, § 2704(d)(13)(B)][/us/pl/104/208/s2704/d/13/B], Sept. 30, 1996, [110 Stat. 3009–490][/us/stat/110/3009-490]; [Pub. L. 105–65, title V, § 553][/us/pl/105/65/s553], Oct. 27, 1997, [111 Stat. 1413][/us/stat/111/1413]; [Pub. L. 105–276, title VI, § 601(g)][/us/pl/105/276/s601/g], (h), Oct. 21, 1998, [112 Stat. 2674][/us/stat/112/2674]; [Pub. L. 108–447, div. I, title II, § 219(a)][/us/pl/108/447/s219/a], Dec. 8, 2004, [118 Stat. 3319][/us/stat/118/3319]; [Pub. L. 109–171, title II, § 2102(b)][/us/pl/109/171/s2102/b], Feb. 8, 2006, [120 Stat. 9][/us/stat/120/9]; [Pub. L. 109–173, § 9(f)(2)][/us/pl/109/173/s9/f/2], Feb. 15, 2006, [119 Stat. 3618][/us/stat/119/3618]; [Pub. L. 111–22, div. A, title II, § 203(f)][/us/pl/111/22/s203/f], May 20, 2009, [123 Stat. 1647][/us/stat/123/1647].)
+([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title V, § 536, as added [Pub. L. 101–235, title I][/us/pl/101/235/tI], § 107(a), Dec. 15, 1989, [103 Stat. 2000][/us/stat/103/2000]; amended [Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], § 2704(d)(13)(B), Sept. 30, 1996, [110 Stat. 3009–490][/us/stat/110/3009-490]; [Pub. L. 105–65, title V][/us/pl/105/65/tV], § 553, Oct. 27, 1997, [111 Stat. 1413][/us/stat/111/1413]; [Pub. L. 105–276, title VI][/us/pl/105/276/tVI], § 601(g), (h), Oct. 21, 1998, [112 Stat. 2674][/us/stat/112/2674]; [Pub. L. 108–447, div. I, title II][/us/pl/108/447/dI/tII], § 219(a), Dec. 8, 2004, [118 Stat. 3319][/us/stat/118/3319]; [Pub. L. 109–171, title II][/us/pl/109/171/tII], § 2102(b), Feb. 8, 2006, [120 Stat. 9][/us/stat/120/9]; [Pub. L. 109–173][/us/pl/109/173], § 9(f)(2), Feb. 15, 2006, [119 Stat. 3618][/us/stat/119/3618]; [Pub. L. 111–22, div. A, title II][/us/pl/111/22/dA/tII], § 203(f), May 20, 2009, [123 Stat. 1647][/us/stat/123/1647].)
 
  __Amendments__ 
 
-    2009—Subsec. (b)(1). [Pub. L. 111–22, § 203(f)(1)(A)(i)][/us/pl/111/22/s203/f/1/A/i], inserted “or any of its owners, officers, or directors” after “mortgagee or lender” in introductory provisions.
+    2009—Subsec. (b)(1). [Pub. L. 111–22][/us/pl/111/22], § 203(f)(1)(A)(i), inserted “or any of its owners, officers, or directors” after “mortgagee or lender” in introductory provisions.
 
-    Subsec. (b)(1)(H). [Pub. L. 111–22, § 203(f)(1)(A)(ii)][/us/pl/111/22/s203/f/1/A/ii], substituted “subchapter I or II of this chapter, or any implementing regulation, handbook, or mortgagee letter that is issued under this chapter.” for “subchapter I, II, or IX–A (as such subchapter existed immediately before December 15, 1989) of this chapter or any implementing regulation or handbook that is issued under this chapter.”
+    Subsec. (b)(1)(H). [Pub. L. 111–22][/us/pl/111/22], § 203(f)(1)(A)(ii), substituted “subchapter I or II of this chapter, or any implementing regulation, handbook, or mortgagee letter that is issued under this chapter.” for “subchapter I, II, or IX–A (as such subchapter existed immediately before December 15, 1989) of this chapter or any implementing regulation or handbook that is issued under this chapter.”
 
-    Subsec. (b)(1)(K), (L). [Pub. L. 111–22, § 203(f)(1)(A)(iii)][/us/pl/111/22/s203/f/1/A/iii], added subpars. (K) and (L).
+    Subsec. (b)(1)(K), (L). [Pub. L. 111–22][/us/pl/111/22], § 203(f)(1)(A)(iii), added subpars. (K) and (L).
 
-    Subsec. (b)(2)(D). [Pub. L. 111–22, § 203(f)(1)(B)][/us/pl/111/22/s203/f/1/B], added subpar. (D).
+    Subsec. (b)(2)(D). [Pub. L. 111–22][/us/pl/111/22], § 203(f)(1)(B), added subpar. (D).
 
-    Subsec. (b)(3). [Pub. L. 111–22, § 203(f)(1)(C)][/us/pl/111/22/s203/f/1/C], amended par. (3) generally. Prior to amendment, text read as follows: “Before taking action to impose a civil money penalty for a violation under paragraph (1)(D) or (F), or paragraph (2)(A), (B), or (C), the Secretary shall inform the Attorney General of the United States.”
+    Subsec. (b)(3). [Pub. L. 111–22][/us/pl/111/22], § 203(f)(1)(C), amended par. (3) generally. Prior to amendment, text read as follows: “Before taking action to impose a civil money penalty for a violation under paragraph (1)(D) or (F), or paragraph (2)(A), (B), or (C), the Secretary shall inform the Attorney General of the United States.”
 
-    Subsec. (g). [Pub. L. 111–22, § 203(f)(2)][/us/pl/111/22/s203/f/2], substituted “For purposes of this section, a person acts knowingly when a person has actual knowledge of acts or should have known of the acts.” for “The term ‘knowingly’ means having actual knowledge of or acting with deliberate ignorance of or reckless disregard for the prohibitions under this section.”
+    Subsec. (g). [Pub. L. 111–22][/us/pl/111/22], § 203(f)(2), substituted “For purposes of this section, a person acts knowingly when a person has actual knowledge of acts or should have known of the acts.” for “The term ‘knowingly’ means having actual knowledge of or acting with deliberate ignorance of or reckless disregard for the prohibitions under this section.”
 
     2006—Subsec. (b)(1)(B)(ii). [Pub. L. 109–173][/us/pl/109/173] substituted “Deposit Insurance Fund” for “Bank Insurance Fund for banks and through the Savings Association Insurance Fund for savings associations”.
 
-    [Pub. L. 109–171][/us/pl/109/171] repealed [Pub. L. 104–208, § 2704(d)(13)(B)][/us/pl/104/208/s2704/d/13/B]. See 1996 Amendment note below.
+    [Pub. L. 109–171][/us/pl/109/171] repealed [Pub. L. 104–208][/us/pl/104/208], § 2704(d)(13)(B). See 1996 Amendment note below.
 
     2004—Subsec. (b)(1)(J). [Pub. L. 108–447][/us/pl/108/447] added subpar. (J).
 
-    1998—Subsec. (a)(2). [Pub. L. 105–276, § 601(g)][/us/pl/105/276/s601/g], inserted second paragraph.
+    1998—Subsec. (a)(2). [Pub. L. 105–276][/us/pl/105/276], § 601(g), inserted second paragraph.
 
-    Subsec. (b)(1)(I). [Pub. L. 105–276, § 601(h)][/us/pl/105/276/s601/h], which directed the addition of subpar. (I) after subpar. “(h)”, was executed by adding subpar. (I) after subpar. (H), to reflect the probable intent of Congress.
+    Subsec. (b)(1)(I). [Pub. L. 105–276][/us/pl/105/276], § 601(h), which directed the addition of subpar. (I) after subpar. “(h)”, was executed by adding subpar. (I) after subpar. (H), to reflect the probable intent of Congress.
 
-    1997—[Pub. L. 105–65, § 553(a)][/us/pl/105/65/s553/a], amended section catchline generally, substituting “mortgagees, lenders, and other participants in FHA programs” for “mortgagees and lenders”.
+    1997—[Pub. L. 105–65][/us/pl/105/65], § 553(a), amended section catchline generally, substituting “mortgagees, lenders, and other participants in FHA programs” for “mortgagees and lenders”.
 
-    Subsec. (a)(1). [Pub. L. 105–65, § 553(b)(1)][/us/pl/105/65/s553/b/1], substituted “If a mortgagee approved under the chapter, a lender holding a contract of insurance under subchapter I, or a principal, officer, or employee of such mortgagee or lender, or other person or entity participating in either an insured mortgage or subchapter I loan transaction under this chapter or providing assistance to the borrower in connection with any such loan, including sellers of the real estate involved, borrowers, closing agents, title companies, real estate agents, mortgage brokers, appraisers, loan correspondents and dealers, knowingly and materially violates any applicable provision of subsection (b), the Secretary may impose a civil money penalty on the mortgagee or lender, or such other person or entity, in accordance with this section. The penalty under this paragraph shall be in addition to any other available civil remedy or any available criminal penalty, and may be imposed whether or not the Secretary imposes other administrative sanctions.” for “Whenever a mortgagee approved under this chapter, or a lender holding a contract of insurance under subchapter I of this chapter, knowingly and materially violates any of the provisions of subsection (b), the Secretary may impose a civil money penalty on the mortgagee or lender in accordance with the provisions of this section.”
+    Subsec. (a)(1). [Pub. L. 105–65][/us/pl/105/65], § 553(b)(1), substituted “If a mortgagee approved under the chapter, a lender holding a contract of insurance under subchapter I, or a principal, officer, or employee of such mortgagee or lender, or other person or entity participating in either an insured mortgage or subchapter I loan transaction under this chapter or providing assistance to the borrower in connection with any such loan, including sellers of the real estate involved, borrowers, closing agents, title companies, real estate agents, mortgage brokers, appraisers, loan correspondents and dealers, knowingly and materially violates any applicable provision of subsection (b), the Secretary may impose a civil money penalty on the mortgagee or lender, or such other person or entity, in accordance with this section. The penalty under this paragraph shall be in addition to any other available civil remedy or any available criminal penalty, and may be imposed whether or not the Secretary imposes other administrative sanctions.” for “Whenever a mortgagee approved under this chapter, or a lender holding a contract of insurance under subchapter I of this chapter, knowingly and materially violates any of the provisions of subsection (b), the Secretary may impose a civil money penalty on the mortgagee or lender in accordance with the provisions of this section.”
 
-    Subsec. (a)(2). [Pub. L. 105–65, § 553(b)(2)][/us/pl/105/65/s553/b/2], inserted “or such other person or entity” after “lender” in first sentence and substituted “the provisions of subsection (b)(1)” for “provision of subsection (b)(1)” in second sentence.
+    Subsec. (a)(2). [Pub. L. 105–65][/us/pl/105/65], § 553(b)(2), inserted “or such other person or entity” after “lender” in first sentence and substituted “the provisions of subsection (b)(1)” for “provision of subsection (b)(1)” in second sentence.
 
-    Subsec. (b)(2). [Pub. L. 105–65, § 553(c)(1)][/us/pl/105/65/s553/c/1], (2), added par. (2) and redesignated former par. (2) as (3).
+    Subsec. (b)(2). [Pub. L. 105–65][/us/pl/105/65], § 553(c)(1), (2), added par. (2) and redesignated former par. (2) as (3).
 
-    Subsec. (b)(3). [Pub. L. 105–65, § 553(c)(1)][/us/pl/105/65/s553/c/1], (3), redesignated par. (2) as (3) and substituted “or (F), or paragraph (2)(A), (B), or (C)” for “or paragraph (1)(F)”.
+    Subsec. (b)(3). [Pub. L. 105–65][/us/pl/105/65], § 553(c)(1), (3), redesignated par. (2) as (3) and substituted “or (F), or paragraph (2)(A), (B), or (C)” for “or paragraph (1)(F)”.
 
-    Subsec. (c)(1)(B). [Pub. L. 105–65, § 553(d)(1)][/us/pl/105/65/s553/d/1], inserted “or such other person or entity” after “lender”.
+    Subsec. (c)(1)(B). [Pub. L. 105–65][/us/pl/105/65], § 553(d)(1), inserted “or such other person or entity” after “lender”.
 
-    Subsec. (d)(1). [Pub. L. 105–65, § 553(d)(2)][/us/pl/105/65/s553/d/2], inserted “or such other person or entity” after “lender” and substituted “parts 24 and 25” for “part 25”.
+    Subsec. (d)(1). [Pub. L. 105–65][/us/pl/105/65], § 553(d)(2), inserted “or such other person or entity” after “lender” and substituted “parts 24 and 25” for “part 25”.
 
-    Subsec. (e). [Pub. L. 105–65, § 553(d)(3)][/us/pl/105/65/s553/d/3], inserted “or such other person or entity” after “lender” in two places.
+    Subsec. (e). [Pub. L. 105–65][/us/pl/105/65], § 553(d)(3), inserted “or such other person or entity” after “lender” in two places.
 
-    1996—Subsec. (b)(1)(B)(ii). [Pub. L. 104–208, § 2704(d)(13)(B)][/us/pl/104/208/s2704/d/13/B], which directed the amendment of section 526(b)(1)(B)(ii) of the National Housing Act by substituting “Deposit Insurance Fund” for “Bank Insurance Fund for banks and through the Savings Association Insurance Fund for savings associations” and which substitution was probably intended by Congress to be made in subsec. (b)(1)(B)(ii) of this section, section 536 of the National Housing Act, was repealed by [Pub. L. 109–171][/us/pl/109/171]. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
+    1996—Subsec. (b)(1)(B)(ii). [Pub. L. 104–208][/us/pl/104/208], § 2704(d)(13)(B), which directed the amendment of section 526(b)(1)(B)(ii) of the National Housing Act by substituting “Deposit Insurance Fund” for “Bank Insurance Fund for banks and through the Savings Association Insurance Fund for savings associations” and which substitution was probably intended by Congress to be made in subsec. (b)(1)(B)(ii) of this section, section 536 of the National Housing Act, was repealed by [Pub. L. 109–171][/us/pl/109/171]. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
  __Effective Date of 2006 Amendment__ 
 
@@ -209,7 +209,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 101–235, title I, § 107(b)][/us/pl/101/235/s107/b], Dec. 15, 1989, [103 Stat. 2003][/us/stat/103/2003], provided that: 
+[Pub. L. 101–235, title I][/us/pl/101/235/tI], § 107(b), Dec. 15, 1989, [103 Stat. 2003][/us/stat/103/2003], provided that: 
 
 > “The amendment made by subsection (a) \[enacting this section\] shall apply only with respect to—
 
@@ -219,7 +219,7 @@
 
  __Regulations__ 
 
-[Pub. L. 105–65, title V, § 541][/us/pl/105/65/s541], Oct. 27, 1997, [111 Stat. 1412][/us/stat/111/1412], provided that:
+[Pub. L. 105–65, title V][/us/pl/105/65/tV], § 541, Oct. 27, 1997, [111 Stat. 1412][/us/stat/111/1412], provided that:
 
 >     “(a)  __Issuance of Necessary Regulations__  __.—__ 
 
@@ -241,43 +241,43 @@
 [/us/usc/t12/s1708/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1708%2Fc
 [/us/usc/t5/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs706
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
-[/us/pl/101/235/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235%2Fs107%2Fa
+[/us/pl/101/235/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235%2FtI
 [/us/stat/103/2000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2000
-[/us/pl/104/208/s2704/d/13/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2704%2Fd%2F13%2FB
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-490
-[/us/pl/105/65/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65%2Fs553
+[/us/pl/105/65/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65%2FtV
 [/us/stat/111/1413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1413
-[/us/pl/105/276/s601/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs601%2Fg
+[/us/pl/105/276/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtVI
 [/us/stat/112/2674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2674
-[/us/pl/108/447/s219/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs219%2Fa
+[/us/pl/108/447/dI/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdI%2FtII
 [/us/stat/118/3319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3319
-[/us/pl/109/171/s2102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs2102%2Fb
+[/us/pl/109/171/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2FtII
 [/us/stat/120/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F9
-[/us/pl/109/173/s9/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173%2Fs9%2Ff%2F2
+[/us/pl/109/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173
 [/us/stat/119/3618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3618
-[/us/pl/111/22/s203/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs203%2Ff
+[/us/pl/111/22/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2FdA%2FtII
 [/us/stat/123/1647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1647
-[/us/pl/111/22/s203/f/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs203%2Ff%2F1%2FA%2Fi
-[/us/pl/111/22/s203/f/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs203%2Ff%2F1%2FA%2Fii
-[/us/pl/111/22/s203/f/1/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs203%2Ff%2F1%2FA%2Fiii
-[/us/pl/111/22/s203/f/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs203%2Ff%2F1%2FB
-[/us/pl/111/22/s203/f/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs203%2Ff%2F1%2FC
-[/us/pl/111/22/s203/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs203%2Ff%2F2
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
 [/us/pl/109/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173
 [/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
-[/us/pl/104/208/s2704/d/13/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2704%2Fd%2F13%2FB
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
-[/us/pl/105/276/s601/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs601%2Fg
-[/us/pl/105/276/s601/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs601%2Fh
-[/us/pl/105/65/s553/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65%2Fs553%2Fa
-[/us/pl/105/65/s553/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65%2Fs553%2Fb%2F1
-[/us/pl/105/65/s553/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65%2Fs553%2Fb%2F2
-[/us/pl/105/65/s553/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65%2Fs553%2Fc%2F1
-[/us/pl/105/65/s553/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65%2Fs553%2Fc%2F1
-[/us/pl/105/65/s553/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65%2Fs553%2Fd%2F1
-[/us/pl/105/65/s553/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65%2Fs553%2Fd%2F2
-[/us/pl/105/65/s553/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65%2Fs553%2Fd%2F3
-[/us/pl/104/208/s2704/d/13/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2704%2Fd%2F13%2FB
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65
+[/us/pl/105/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65
+[/us/pl/105/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65
+[/us/pl/105/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65
+[/us/pl/105/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65
+[/us/pl/105/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65
+[/us/pl/105/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65
+[/us/pl/105/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
 [/us/pl/109/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173
 [/us/pl/109/173/s9/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173%2Fs9%2Fj
@@ -288,9 +288,9 @@
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/104/208/s2704/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2704%2Fc
 [/us/usc/t12/s1821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1821
-[/us/pl/101/235/s107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235%2Fs107%2Fb
+[/us/pl/101/235/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235%2FtI
 [/us/stat/103/2003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2003
-[/us/pl/105/65/s541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65%2Fs541
+[/us/pl/105/65/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65%2FtV
 [/us/stat/111/1412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1412
 [/us/usc/t42/s3535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3535
 [/us/pl/105/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65

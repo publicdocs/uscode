@@ -23,7 +23,7 @@
 
         A performance-based approval of the equipment or unit and the maintenance, monitoring, and replacement plan for such equipment or unit shall be certified by field offices of the Department of Housing and Urban Development based upon general standards recognized by the Department as modified for local or regional conditions. As a part of such approved plan, a separate monthly escrow account may be required to be established through the lender to cover the cost of the approved yearly maintenance and monitoring schedule and projected replacement of the equipment or unit.
 
-([Pub. L. 100–242, title IV, § 424][/us/pl/100/242/s424], Feb. 5, 1988, [101 Stat. 1915][/us/stat/101/1915].)
+([Pub. L. 100–242, title IV][/us/pl/100/242/tIV], § 424, Feb. 5, 1988, [101 Stat. 1915][/us/stat/101/1915].)
 
  __Codification__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/100/242/s424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs424
+[/us/pl/100/242/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtIV
 [/us/stat/101/1915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1915
 
 

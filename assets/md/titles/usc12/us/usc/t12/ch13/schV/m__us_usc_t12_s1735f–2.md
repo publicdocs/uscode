@@ -17,7 +17,7 @@
 
     In determining whether properties should be approved by the Secretary prior to rehabilitation and covered by mortgages insured under subchapter II of this chapter, the Secretary shall apply uniform property standards as between properties located outside urban renewal areas and those located within urban renewal areas.
 
-([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title V, § 524, as added [Pub. L. 91–609, title I, § 116][/us/pl/91/609/s116], Dec. 31, 1970, [84 Stat. 1774][/us/stat/84/1774].)
+([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title V, § 524, as added [Pub. L. 91–609, title I][/us/pl/91/609/tI], § 116, Dec. 31, 1970, [84 Stat. 1774][/us/stat/84/1774].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
-[/us/pl/91/609/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F609%2Fs116
+[/us/pl/91/609/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F609%2FtI
 [/us/stat/84/1774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1774
 
 

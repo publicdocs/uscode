@@ -37,11 +37,11 @@
 
         (2) an analysis of any problems and benefits related to encouraging the use of solar energy systems in the programs and activities referred to in subsection (b).
 
-([Pub. L. 95–557, title II, § 209][/us/pl/95/557/s209], Oct. 31, 1978, [92 Stat. 2095][/us/stat/92/2095]; [Pub. L. 98–479, title II, § 204(n)(3)][/us/pl/98/479/s204/n/3], Oct. 17, 1984, [98 Stat. 2234][/us/stat/98/2234].)
+([Pub. L. 95–557, title II][/us/pl/95/557/tII], § 209, Oct. 31, 1978, [92 Stat. 2095][/us/stat/92/2095]; [Pub. L. 98–479, title II][/us/pl/98/479/tII], § 204(n)(3), Oct. 17, 1984, [98 Stat. 2234][/us/stat/98/2234].)
 
  __References in Text__ 
 
-    [Section 1452b of title 42][/us/usc/t42/s1452b], referred to in subsec. (b)(1), was repealed by [Pub. L. 101–625, title II, § 289(b)(1)][/us/pl/101/625/s289/b/1], Nov. 28, 1990, [104 Stat. 4128][/us/stat/104/4128].
+    [Section 1452b of title 42][/us/usc/t42/s1452b], referred to in subsec. (b)(1), was repealed by [Pub. L. 101–625, title II][/us/pl/101/625/tII], § 289(b)(1), Nov. 28, 1990, [104 Stat. 4128][/us/stat/104/4128].
 
     This Act, referred to in subsec. (b)(2), is [Pub. L. 95–557][/us/pl/95/557], Oct. 31, 1978, [92 Stat. 2080][/us/stat/92/2080], known as the Housing and Community Development Amendments of 1978. For complete classification of this Act to the Code, see Short Title of 1978 Amendments note set out under [section 5301 of Title 42][/us/usc/t42/s5301], The Public Health and Welfare, and Tables.
 
@@ -62,12 +62,12 @@
 
 [/us/usc/t12/s1701q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701q
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
-[/us/pl/95/557/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2Fs209
+[/us/pl/95/557/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2FtII
 [/us/stat/92/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2095
-[/us/pl/98/479/s204/n/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2Fs204%2Fn%2F3
+[/us/pl/98/479/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2FtII
 [/us/stat/98/2234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2234
 [/us/usc/t42/s1452b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1452b
-[/us/pl/101/625/s289/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs289%2Fb%2F1
+[/us/pl/101/625/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtII
 [/us/stat/104/4128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4128
 [/us/pl/95/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557
 [/us/stat/92/2080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2080

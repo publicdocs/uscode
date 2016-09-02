@@ -71,27 +71,27 @@
 
                 Where the qualified purchaser is a priority purchaser, the Secretary may provide assistance for an approved plan of action (in the form of a grant) for each unit in the housing in an amount, as determined by the Secretary, that does not exceed the present value of the total of the projected published fair market rentals for existing housing (established by the Secretary under [section 1437f(c) of title 42][/us/usc/t42/s1437f/c]) for the next 10 years (or such longer period if additional assistance is necessary to cover the costs referred to in paragraph (2)).
 
-([Pub. L. 100–242, title II, § 220][/us/pl/100/242/s220], as added [Pub. L. 101–625, title VI, § 601(a)][/us/pl/101/625/s601/a], Nov. 28, 1990, [104 Stat. 4257][/us/stat/104/4257]; amended [Pub. L. 102–550, title III, § 307][/us/pl/102/550/s307], Oct. 28, 1992, [106 Stat. 3764][/us/stat/106/3764].)
+([Pub. L. 100–242, title II][/us/pl/100/242/tII], § 220, as added [Pub. L. 101–625, title VI][/us/pl/101/625/tVI], § 601(a), Nov. 28, 1990, [104 Stat. 4257][/us/stat/104/4257]; amended [Pub. L. 102–550, title III][/us/pl/102/550/tIII], § 307, Oct. 28, 1992, [106 Stat. 3764][/us/stat/106/3764].)
 
  __References in Text__ 
 
-    This title, referred to in subsec. (d)(2)(E), means title II of [Pub. L. 100–242][/us/pl/100/242], as amended by [Pub. L. 101–625, title VI, § 601(a)][/us/pl/101/625/s601/a], Nov. 28, 1990, [104 Stat. 4249][/us/stat/104/4249], known as the Low-Income Housing Preservation and Resident Homeownership Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 4101 of this title][/us/usc/t12/s4101] and Tables.
+    This title, referred to in subsec. (d)(2)(E), means title II of [Pub. L. 100–242][/us/pl/100/242], as amended by [Pub. L. 101–625, title VI][/us/pl/101/625/tVI], § 601(a), Nov. 28, 1990, [104 Stat. 4249][/us/stat/104/4249], known as the Low-Income Housing Preservation and Resident Homeownership Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 4101 of this title][/us/usc/t12/s4101] and Tables.
 
-    [Section 1715z–6(f) of this title][/us/usc/t12/s1715z–6/f], referred to in subsec. (d)(3)(A), was repealed by [Pub. L. 104–204, title II][/us/pl/104/204], Sept. 26, 1996, [110 Stat. 2885][/us/stat/110/2885].
+    [Section 1715z–6(f) of this title][/us/usc/t12/s1715z–6/f], referred to in subsec. (d)(3)(A), was repealed by [Pub. L. 104–204, title II][/us/pl/104/204/tII], Sept. 26, 1996, [110 Stat. 2885][/us/stat/110/2885].
 
  __Amendments__ 
 
-    1992—Subsec. (d)(2). [Pub. L. 102–550, § 307(a)][/us/pl/102/550/s307/a], inserted “(including all priority purchasers other than resident councils acquiring under the homeownership program authorized by [section 4116 of this title][/us/usc/t12/s4116])” after “purchasers”.
+    1992—Subsec. (d)(2). [Pub. L. 102–550][/us/pl/102/550], § 307(a), inserted “(including all priority purchasers other than resident councils acquiring under the homeownership program authorized by [section 4116 of this title][/us/usc/t12/s4116])” after “purchasers”.
 
-    Subsec. (d)(2)(D). [Pub. L. 102–550, § 307(b)][/us/pl/102/550/s307/b], inserted before semicolon at end “, and in the case of a priority purchaser, meet project oversight costs”.
+    Subsec. (d)(2)(D). [Pub. L. 102–550][/us/pl/102/550], § 307(b), inserted before semicolon at end “, and in the case of a priority purchaser, meet project oversight costs”.
 
-    Subsec. (d)(2)(E), (F). [Pub. L. 102–550, § 307(c)][/us/pl/102/550/s307/c], (d), amended subpars. (E) and (F) generally. Prior to amendment, subpars. (E) and (F) read as follows:
+    Subsec. (d)(2)(E), (F). [Pub. L. 102–550][/us/pl/102/550], § 307(c), (d), amended subpars. (E) and (F) generally. Prior to amendment, subpars. (E) and (F) read as follows:
 
     “(E) receive an adequate return (as determined by the Secretary) on any actual cash investment made to acquire the project;
 
     “(F) in the case of a priority purchaser, receive an adequate reimbursement for transaction expenses relating to acquisition of the housing, subject to approval by the Secretary; and”.
 
-    Subsec. (d)(3)(A). [Pub. L. 102–550, § 307(e)][/us/pl/102/550/s307/e], struck out “any residual receipts for the housing transfered \[sic\] to the selling owner shall be deducted from the sale price of the housing under subsection (b) or (c) of this section and” after “except that”.
+    Subsec. (d)(3)(A). [Pub. L. 102–550][/us/pl/102/550], § 307(e), struck out “any residual receipts for the housing transfered \[sic\] to the selling owner shall be deducted from the sale price of the housing under subsection (b) or (c) of this section and” after “except that”.
 
 ----------
 
@@ -113,22 +113,22 @@
 [/us/usc/t12/s4109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4109%2Fb
 [/us/usc/t12/s4109/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4109%2Fb%2F7
 [/us/usc/t42/s1437f/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f%2Fc
-[/us/pl/100/242/s220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs220
-[/us/pl/101/625/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs601%2Fa
+[/us/pl/100/242/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtII
+[/us/pl/101/625/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtVI
 [/us/stat/104/4257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4257
-[/us/pl/102/550/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs307
+[/us/pl/102/550/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtIII
 [/us/stat/106/3764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3764
 [/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
-[/us/pl/101/625/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs601%2Fa
+[/us/pl/101/625/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtVI
 [/us/stat/104/4249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4249
 [/us/usc/t12/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4101
 [/us/usc/t12/s1715z–6/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715z%E2%80%936%2Ff
-[/us/pl/104/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204
+[/us/pl/104/204/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2FtII
 [/us/stat/110/2885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2885
-[/us/pl/102/550/s307/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs307%2Fa
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/usc/t12/s4116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4116
-[/us/pl/102/550/s307/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs307%2Fb
-[/us/pl/102/550/s307/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs307%2Fc
-[/us/pl/102/550/s307/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs307%2Fe
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 
 

@@ -33,7 +33,7 @@
 
             (B) the Committee on Financial Services and the Committee on Appropriations of the House of Representatives.
 
-([Pub. L. 112–122, § 17][/us/pl/112/122/s17], May 30, 2012, [126 Stat. 359][/us/stat/126/359]; [Pub. L. 114–94, div. E, title LI, § 51003][/us/pl/114/94/s51003], Dec. 4, 2015, [129 Stat. 1763][/us/stat/129/1763].)
+([Pub. L. 112–122][/us/pl/112/122], § 17, May 30, 2012, [126 Stat. 359][/us/stat/126/359]; [Pub. L. 114–94, div. E, title LI][/us/pl/114/94/dE/tLI], § 51003, Dec. 4, 2015, [129 Stat. 1763][/us/stat/129/1763].)
 
  __Codification__ 
 
@@ -50,9 +50,9 @@
 ----------
 ----------
 
-[/us/pl/112/122/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F122%2Fs17
+[/us/pl/112/122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F122
 [/us/stat/126/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F359
-[/us/pl/114/94/s51003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs51003
+[/us/pl/114/94/dE/tLI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdE%2FtLI
 [/us/stat/129/1763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1763
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 

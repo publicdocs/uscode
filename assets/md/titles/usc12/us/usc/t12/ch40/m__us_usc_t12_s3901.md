@@ -23,23 +23,23 @@
 
     (b) The Federal banking agencies shall consult with the banking supervisory authorities of other countries to reach understandings aimed at achieving the adoption of effective and consistent supervisory policies and practices with respect to international lending.
 
-([Pub. L. 98–181, title I][/us/pl/98/181] \[title IX, § 902\], Nov. 30, 1983, [97 Stat. 1278][/us/stat/97/1278].)
+([Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title IX, § 902\], Nov. 30, 1983, [97 Stat. 1278][/us/stat/97/1278].)
 
  __Short Title of 1989 Amendment__ 
 
-[Pub. L. 101–240, title IV, § 401][/us/pl/101/240/s401], Dec. 19, 1989, [103 Stat. 2501][/us/stat/103/2501], provided that: 
+[Pub. L. 101–240, title IV][/us/pl/101/240/tIV], § 401, Dec. 19, 1989, [103 Stat. 2501][/us/stat/103/2501], provided that: 
 
 > “This title \[enacting [section 3904a of this title][/us/usc/t12/s3904a] and enacting provisions set out as notes under [section 3904a of this title][/us/usc/t12/s3904a] and [section 2291 of Title 22][/us/usc/t22/s2291], Foreign Relations and Intercourse\] may be cited as the ‘Foreign Debt Reserving Act of 1989’.”
 
  __Short Title__ 
 
-[Pub. L. 98–181, title I][/us/pl/98/181] \[title IX, § 901\], Nov. 30, 1983, [97 Stat. 1278][/us/stat/97/1278], provided that: 
+[Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title IX, § 901\], Nov. 30, 1983, [97 Stat. 1278][/us/stat/97/1278], provided that: 
 
 > “This title \[enacting this chapter\] may be cited as the ‘International Lending Supervision Act of 1983’.”
 
  __Encouragement of Debt-for-Development Swaps Through Local Currency Repayment__ 
 
-[Pub. L. 101–240, title V, § 531][/us/pl/101/240/s531], Dec. 19, 1989, [103 Stat. 2513][/us/stat/103/2513], provided that:
+[Pub. L. 101–240, title V][/us/pl/101/240/tV], § 531, Dec. 19, 1989, [103 Stat. 2513][/us/stat/103/2513], provided that:
 
 >     “(a)  __Statement of Policy__  __.—__ 
 
@@ -84,16 +84,16 @@
 ----------
 ----------
 
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1278
-[/us/pl/101/240/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2Fs401
+[/us/pl/101/240/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2FtIV
 [/us/stat/103/2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2501
 [/us/usc/t12/s3904a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3904a
 [/us/usc/t12/s3904a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3904a
 [/us/usc/t22/s2291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2291
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1278
-[/us/pl/101/240/s531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2Fs531
+[/us/pl/101/240/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2FtV
 [/us/stat/103/2513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2513
 [/us/usc/t12/s3902/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3902%2F1
 [/us/usc/t22/s262p–4c/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262p%E2%80%934c%2Fb%2F2

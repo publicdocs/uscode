@@ -149,7 +149,7 @@
 
         (2) limits the powers, functions, or responsibilities of the Farm Credit Administration.
 
-([Pub. L. 92–181, title V, § 5][/us/pl/92/181/s5].61B, as added [Pub. L. 104–105, title II, § 218][/us/pl/104/105/s218], Feb. 10, 1996, [110 Stat. 181][/us/stat/110/181].)
+([Pub. L. 92–181, title V][/us/pl/92/181/tV], § 5.61B, as added [Pub. L. 104–105, title II][/us/pl/104/105/tII], § 218, Feb. 10, 1996, [110 Stat. 181][/us/stat/110/181].)
 
 ----------
 
@@ -159,8 +159,8 @@
 ----------
 
 [/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401
-[/us/pl/92/181/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs5
-[/us/pl/104/105/s218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2Fs218
+[/us/pl/92/181/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtV
+[/us/pl/104/105/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2FtII
 [/us/stat/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F181
 
 

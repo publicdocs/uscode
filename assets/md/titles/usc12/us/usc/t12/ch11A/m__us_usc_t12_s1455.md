@@ -151,11 +151,11 @@
 
             The Director shall have the power to approve, disapprove, or modify the executive compensation of the Corporation, as defined under Regulation S-K, 17 C.F.R. 229.
 
-([Pub. L. 91–351, title III, § 306][/us/pl/91/351/s306], July 24, 1970, [84 Stat. 455][/us/stat/84/455]; [Pub. L. 96–153, title III, § 316(a)][/us/pl/96/153/s316/a], Dec. 21, 1979, [93 Stat. 1118][/us/stat/93/1118]; [Pub. L. 97–289, § 6][/us/pl/97/289/s6], Oct. 6, 1982, [96 Stat. 1232][/us/stat/96/1232]; [Pub. L. 98–35, § 5][/us/pl/98/35/s5], May 26, 1983, [97 Stat. 198][/us/stat/97/198]; [Pub. L. 98–440, title II][/us/pl/98/440], §§ 210, 211, Oct. 3, 1984, [98 Stat. 1697][/us/stat/98/1697]; [Pub. L. 100–242, title IV, § 441(b)][/us/pl/100/242/s441/b], Feb. 5, 1988, [101 Stat. 1921][/us/stat/101/1921]; [Pub. L. 101–73, title VII, § 731(g)][/us/pl/101/73/s731/g]–(i), Aug. 9, 1989, [103 Stat. 434][/us/stat/103/434]; [Pub. L. 102–550, title XIII, § 1382(n)][/us/pl/102/550/s1382/n], Oct. 28, 1992, [106 Stat. 4005][/us/stat/106/4005]; [Pub. L. 110–289, div. A, title I][/us/pl/110/289], §§ 1117(b), 1161(c)(2), July 30, 2008, [122 Stat. 2684][/us/stat/122/2684], 2780; [Pub. L. 111–203, title XIII, § 1304(b)][/us/pl/111/203/s1304/b], July 21, 2010, [124 Stat. 2134][/us/stat/124/2134].)
+([Pub. L. 91–351, title III][/us/pl/91/351/tIII], § 306, July 24, 1970, [84 Stat. 455][/us/stat/84/455]; [Pub. L. 96–153, title III][/us/pl/96/153/tIII], § 316(a), Dec. 21, 1979, [93 Stat. 1118][/us/stat/93/1118]; [Pub. L. 97–289][/us/pl/97/289], § 6, Oct. 6, 1982, [96 Stat. 1232][/us/stat/96/1232]; [Pub. L. 98–35][/us/pl/98/35], § 5, May 26, 1983, [97 Stat. 198][/us/stat/97/198]; [Pub. L. 98–440, title II][/us/pl/98/440/tII], §§ 210, 211, Oct. 3, 1984, [98 Stat. 1697][/us/stat/98/1697]; [Pub. L. 100–242, title IV][/us/pl/100/242/tIV], § 441(b), Feb. 5, 1988, [101 Stat. 1921][/us/stat/101/1921]; [Pub. L. 101–73, title VII][/us/pl/101/73/tVII], § 731(g)–(i), Aug. 9, 1989, [103 Stat. 434][/us/stat/103/434]; [Pub. L. 102–550, title XIII][/us/pl/102/550/tXIII], § 1382(n), Oct. 28, 1992, [106 Stat. 4005][/us/stat/106/4005]; [Pub. L. 110–289, div. A, title I][/us/pl/110/289/dA/tI], §§ 1117(b), 1161(c)(2), July 30, 2008, [122 Stat. 2684][/us/stat/122/2684], 2780; [Pub. L. 111–203, title XIII][/us/pl/111/203/tXIII], § 1304(b), July 21, 2010, [124 Stat. 2134][/us/stat/124/2134].)
 
  __References in Text__ 
 
-    [Section 1452(c) of this title][/us/usc/t12/s1452/c], referred to in subsec. (i), was redesignated [section 1452(d) of this title][/us/usc/t12/s1452/d] by [Pub. L. 101–73, title VII, § 731(c)(1)][/us/pl/101/73/s731/c/1], Aug. 9, 1989, [103 Stat. 431][/us/stat/103/431].
+    [Section 1452(c) of this title][/us/usc/t12/s1452/c], referred to in subsec. (i), was redesignated [section 1452(d) of this title][/us/usc/t12/s1452/d] by [Pub. L. 101–73, title VII][/us/pl/101/73/tVII], § 731(c)(1), Aug. 9, 1989, [103 Stat. 431][/us/stat/103/431].
 
     This chapter, referred to in subsec. (l)(1)(A), was in the original “this Act” and has been translated as reading “this title”, meaning title III of [Pub. L. 91–351][/us/pl/91/351], to reflect the probable intent of Congress.
 
@@ -163,31 +163,31 @@
 
     2010—Subsec. (l)(2)(C), (D). [Pub. L. 111–203][/us/pl/111/203] added subpar. (C) and redesignated former subpar. (C) as (D).
 
-    2008—Subsec. (c)(2). [Pub. L. 110–289, § 1161(c)(2)(A)][/us/pl/110/289/s1161/c/2/A], inserted “the” after “Secretary of”.
+    2008—Subsec. (c)(2). [Pub. L. 110–289][/us/pl/110/289], § 1161(c)(2)(A), inserted “the” after “Secretary of”.
 
-    Subsec. (i). [Pub. L. 110–289, § 1161(c)(2)(B)(ii)][/us/pl/110/289/s1161/c/2/B/ii], made technical amendment to reference in original act which appears in text as reference to [section 4516 of this title][/us/usc/t12/s4516].
+    Subsec. (i). [Pub. L. 110–289][/us/pl/110/289], § 1161(c)(2)(B)(ii), made technical amendment to reference in original act which appears in text as reference to [section 4516 of this title][/us/usc/t12/s4516].
 
-    [Pub. L. 110–289, § 1161(c)(2)(B)(i)][/us/pl/110/289/s1161/c/2/B/i], made technical amendment to reference in original act which appears in text as reference to [section 1455(c) of this title][/us/usc/t12/s1455/c]. Amendment was given effect, notwithstanding error in directory language which directed substitution of “section 306(c)” for “section 1316(c)” in the original.
+    [Pub. L. 110–289][/us/pl/110/289], § 1161(c)(2)(B)(i), made technical amendment to reference in original act which appears in text as reference to [section 1455(c) of this title][/us/usc/t12/s1455/c]. Amendment was given effect, notwithstanding error in directory language which directed substitution of “section 306(c)” for “section 1316(c)” in the original.
 
-    Subsec. (j)(2). [Pub. L. 110–289, § 1161(c)(2)(C)][/us/pl/110/289/s1161/c/2/C], substituted “or substantially” for “of substantially”.
+    Subsec. (j)(2). [Pub. L. 110–289][/us/pl/110/289], § 1161(c)(2)(C), substituted “or substantially” for “of substantially”.
 
-    Subsec. (l). [Pub. L. 110–289, § 1117(b)][/us/pl/110/289/s1117/b], added subsec. (l).
+    Subsec. (l). [Pub. L. 110–289][/us/pl/110/289], § 1117(b), added subsec. (l).
 
-    1992—Subsec. (h). [Pub. L. 102–550, § 1382(n)(1)][/us/pl/102/550/s1382/n/1], designated existing provisions as par. (1) and added par. (2).
+    1992—Subsec. (h). [Pub. L. 102–550][/us/pl/102/550], § 1382(n)(1), designated existing provisions as par. (1) and added par. (2).
 
-    Subsec. (i). [Pub. L. 102–550, § 1382(n)(2)][/us/pl/102/550/s1382/n/2], substituted “sections 1452(c) and 1455(c) of this title and assessments pursuant to [section 4516 of this title][/us/usc/t12/s4516]” for “section 1452(c) or 1455(c) of this title”.
+    Subsec. (i). [Pub. L. 102–550][/us/pl/102/550], § 1382(n)(2), substituted “sections 1452(c) and 1455(c) of this title and assessments pursuant to [section 4516 of this title][/us/usc/t12/s4516]” for “section 1452(c) or 1455(c) of this title”.
 
-    1989—Subsec. (c). [Pub. L. 101–73, § 731(g)][/us/pl/101/73/s731/g], amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Federal home loan banks shall, to such extent as the Board of Directors may prescribe, guarantee the faithful and timely performance by the Corporation of any obligation or undertaking of the Corporation on or with respect to any security (which term as used in this sentence shall not include the capital stock referred to in [section 1453 of this title][/us/usc/t12/s1453]).”
+    1989—Subsec. (c). [Pub. L. 101–73][/us/pl/101/73], § 731(g), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Federal home loan banks shall, to such extent as the Board of Directors may prescribe, guarantee the faithful and timely performance by the Corporation of any obligation or undertaking of the Corporation on or with respect to any security (which term as used in this sentence shall not include the capital stock referred to in [section 1453 of this title][/us/usc/t12/s1453]).”
 
-    Subsec. (f). [Pub. L. 101–73, § 731(h)][/us/pl/101/73/s731/h], amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “The Corporation may have preferred stock on such terms and conditions as the Board of Directors shall prescribe. Any preferred stock shall not affect the status of the capital stock issued under [section 1453 of this title][/us/usc/t12/s1453] as nonvoting common stock, and shall not be entitled to vote with respect to the election of any member of the Board of Directors. Such preferred stock, or any class thereof, may have such terms as would be required for listing of preferred stock on the New York Stock Exchange, except that this sentence does not apply to any preferred stock, or class thereof, the initial sale of which is made directly or indirectly by the Corporation exclusively to any Federal Home Loan Bank or Banks.”
+    Subsec. (f). [Pub. L. 101–73][/us/pl/101/73], § 731(h), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “The Corporation may have preferred stock on such terms and conditions as the Board of Directors shall prescribe. Any preferred stock shall not affect the status of the capital stock issued under [section 1453 of this title][/us/usc/t12/s1453] as nonvoting common stock, and shall not be entitled to vote with respect to the election of any member of the Board of Directors. Such preferred stock, or any class thereof, may have such terms as would be required for listing of preferred stock on the New York Stock Exchange, except that this sentence does not apply to any preferred stock, or class thereof, the initial sale of which is made directly or indirectly by the Corporation exclusively to any Federal Home Loan Bank or Banks.”
 
-    Subsecs. (j), (k). [Pub. L. 101–73, § 731(i)][/us/pl/101/73/s731/i], added subsecs. (j) and (k).
+    Subsecs. (j), (k). [Pub. L. 101–73][/us/pl/101/73], § 731(i), added subsecs. (j) and (k).
 
     1988—Subsec. (i). [Pub. L. 100–242][/us/pl/100/242] added subsec. (i).
 
-    1984—Subsec. (f). [Pub. L. 98–440, § 211][/us/pl/98/440/s211], inserted provisions that preferred stock shall not be entitled to vote with respect to the election of any member of the Board of Directors and that such preferred stock, or any class thereof, may have such terms as would be required for listing of preferred stock on the New York Stock Exchange, except for any preferred stock, or class thereof, the initial sale of which is made directly or indirectly by the Corporation exclusively to any Federal Home Loan Bank or Banks.
+    1984—Subsec. (f). [Pub. L. 98–440][/us/pl/98/440], § 211, inserted provisions that preferred stock shall not be entitled to vote with respect to the election of any member of the Board of Directors and that such preferred stock, or any class thereof, may have such terms as would be required for listing of preferred stock on the New York Stock Exchange, except for any preferred stock, or class thereof, the initial sale of which is made directly or indirectly by the Corporation exclusively to any Federal Home Loan Bank or Banks.
 
-    Subsec. (h). [Pub. L. 98–440, § 210][/us/pl/98/440/s210], added subsec. (h).
+    Subsec. (h). [Pub. L. 98–440][/us/pl/98/440], § 210, added subsec. (h).
 
     1983—Subsec. (g). [Pub. L. 98–35][/us/pl/98/35] added subsec. (g).
 
@@ -201,7 +201,7 @@
 
  __Repayment of Fees__ 
 
-[Pub. L. 111–203, title XIII, § 1304(d)][/us/pl/111/203/s1304/d], July 21, 2010, [124 Stat. 2134][/us/stat/124/2134], provided that: 
+[Pub. L. 111–203, title XIII][/us/pl/111/203/tXIII], § 1304(d), July 21, 2010, [124 Stat. 2134][/us/stat/124/2134], provided that: 
 
 > “Any periodic commitment fee or any other fee or assessment paid by the Federal National Mortgage Association or Federal Home Loan Mortgage Corporation to the Secretary of the Treasury as a result of any preferred stock purchase agreement, mortgage-backed security purchase program, or any other program or activity authorized or carried out pursuant to the authorities granted to the Secretary of the Treasury under section 1117 of the Housing and Economic Recovery Act of 2008 ([Public Law 110–289][/us/pl/110/289]; [122 Stat. 2683][/us/stat/122/2683]) \[amending this section and sections 1431 and 1719 of this title\], including any fee agreed to by contract between the Secretary and the Association or Corporation, shall be deposited in the General Fund of the Treasury where such amounts shall be—
 
@@ -223,57 +223,57 @@
 [/us/usc/t12/s1454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1454
 [/us/usc/t12/s4516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4516
 [/us/usc/t12/s1452/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1452%2Fa
-[/us/pl/91/351/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F351%2Fs306
+[/us/pl/91/351/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F351%2FtIII
 [/us/stat/84/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F455
-[/us/pl/96/153/s316/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153%2Fs316%2Fa
+[/us/pl/96/153/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153%2FtIII
 [/us/stat/93/1118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1118
-[/us/pl/97/289/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F289%2Fs6
+[/us/pl/97/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F289
 [/us/stat/96/1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1232
-[/us/pl/98/35/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F35%2Fs5
+[/us/pl/98/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F35
 [/us/stat/97/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F198
-[/us/pl/98/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F440
+[/us/pl/98/440/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F440%2FtII
 [/us/stat/98/1697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1697
-[/us/pl/100/242/s441/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs441%2Fb
+[/us/pl/100/242/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtIV
 [/us/stat/101/1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1921
-[/us/pl/101/73/s731/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs731%2Fg
+[/us/pl/101/73/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtVII
 [/us/stat/103/434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F434
-[/us/pl/102/550/s1382/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1382%2Fn
+[/us/pl/102/550/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIII
 [/us/stat/106/4005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4005
-[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtI
 [/us/stat/122/2684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2684
-[/us/pl/111/203/s1304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1304%2Fb
+[/us/pl/111/203/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtXIII
 [/us/stat/124/2134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2134
 [/us/usc/t12/s1452/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1452%2Fc
 [/us/usc/t12/s1452/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1452%2Fd
-[/us/pl/101/73/s731/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs731%2Fc%2F1
+[/us/pl/101/73/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtVII
 [/us/stat/103/431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F431
 [/us/pl/91/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F351
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
-[/us/pl/110/289/s1161/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1161%2Fc%2F2%2FA
-[/us/pl/110/289/s1161/c/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1161%2Fc%2F2%2FB%2Fii
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
 [/us/usc/t12/s4516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4516
-[/us/pl/110/289/s1161/c/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1161%2Fc%2F2%2FB%2Fi
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
 [/us/usc/t12/s1455/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1455%2Fc
-[/us/pl/110/289/s1161/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1161%2Fc%2F2%2FC
-[/us/pl/110/289/s1117/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1117%2Fb
-[/us/pl/102/550/s1382/n/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1382%2Fn%2F1
-[/us/pl/102/550/s1382/n/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1382%2Fn%2F2
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/usc/t12/s4516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4516
-[/us/pl/101/73/s731/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs731%2Fg
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
 [/us/usc/t12/s1453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1453
-[/us/pl/101/73/s731/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs731%2Fh
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
 [/us/usc/t12/s1453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1453
-[/us/pl/101/73/s731/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs731%2Fi
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
 [/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
-[/us/pl/98/440/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F440%2Fs211
-[/us/pl/98/440/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F440%2Fs210
+[/us/pl/98/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F440
+[/us/pl/98/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F440
 [/us/pl/98/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F35
 [/us/pl/97/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F289
 [/us/pl/96/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs4
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301
-[/us/pl/111/203/s1304/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1304%2Fd
+[/us/pl/111/203/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtXIII
 [/us/stat/124/2134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2134
 [/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
 [/us/stat/122/2683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2683

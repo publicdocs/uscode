@@ -17,7 +17,7 @@
 
     The [act of August 23, 1935, ch. 614][/us/act/1935-08-23/ch614], [49 Stat. 684][/us/stat/49/684], may be cited as the “Banking Act of 1935.”
 
-([Aug. 23, 1935, ch. 614, § 1][/us/act/1935-08-23/ch614/s1], [49 Stat. 684][/us/stat/49/684].)
+([Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], § 1, [49 Stat. 684][/us/stat/49/684].)
 
  __References in Text__ 
 
@@ -25,7 +25,7 @@
 
  __Separability__ 
 
-[Act Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title III, § 346, [49 Stat. 723][/us/stat/49/723], provided: 
+[Act Aug. 23, 1935, ch. 614, title III][/us/act/1935-08-23/ch614/tIII], § 346, [49 Stat. 723][/us/stat/49/723], provided: 
 
 > “If any provision of this Act, or the application thereof to any person or circumstances, is held invalid, the remainder of the Act, and the application of such provision to other persons and circumstances, shall not be affected thereby.”
 
@@ -38,11 +38,11 @@
 
 [/us/act/1935-08-23/ch614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch614
 [/us/stat/49/684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F684
-[/us/act/1935-08-23/ch614/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch614%2Fs1
+[/us/act/1935-08-23/ch614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch614
 [/us/stat/49/684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F684
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101
 [/us/usc/t15/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs19
-[/us/act/1935-08-23/ch614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch614
+[/us/act/1935-08-23/ch614/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch614%2FtIII
 [/us/stat/49/723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F723
 
 

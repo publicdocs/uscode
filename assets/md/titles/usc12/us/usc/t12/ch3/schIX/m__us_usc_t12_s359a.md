@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act Dec. 23, 1913, ch. 6, § 14(h)][/us/act/1913-12-23/ch6/s14/h], as added June 8, 1979, [Pub. L. 96–18, § 2][/us/pl/96/18/s2], [93 Stat. 35][/us/stat/93/35], which authorized the Secretary of the Treasury to borrow and sell in open market, and required the repurchase and return of obligations to Federal Reserve Banks, was effective only during the two-year period that began June 8, 1979, as provided by [section 3(a) of Pub. L. 96–18][/us/pl/96/18/s3/a].
+    Section, [act Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 14(h), as added June 8, 1979, [Pub. L. 96–18][/us/pl/96/18], § 2, [93 Stat. 35][/us/stat/93/35], which authorized the Secretary of the Treasury to borrow and sell in open market, and required the repurchase and return of obligations to Federal Reserve Banks, was effective only during the two-year period that began June 8, 1979, as provided by [section 3(a) of Pub. L. 96–18][/us/pl/96/18/s3/a].
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/act/1913-12-23/ch6/s14/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs14%2Fh
-[/us/pl/96/18/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F18%2Fs2
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
+[/us/pl/96/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F18
 [/us/stat/93/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F35
 [/us/pl/96/18/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F18%2Fs3%2Fa
 

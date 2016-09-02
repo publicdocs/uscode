@@ -61,7 +61,7 @@
 
         No depository institution or deposit broker shall make any advertisement, announcement, or solicitation relating to a deposit account that is inaccurate or misleading or that misrepresents its deposit contracts.
 
-([Pub. L. 102–242, title II, § 263][/us/pl/102/242/s263], Dec. 19, 1991, [105 Stat. 2334][/us/stat/105/2334]; [Pub. L. 102–550, title IX, § 957(a)][/us/pl/102/550/s957/a], Oct. 28, 1992, [106 Stat. 3896][/us/stat/106/3896]; [Pub. L. 104–208, div. A, title II, § 2604(b)][/us/pl/104/208/s2604/b], Sept. 30, 1996, [110 Stat. 3009–471][/us/stat/110/3009-471]; [Pub. L. 111–203, title X, § 1100B(1)][/us/pl/111/203/s1100B/1], July 21, 2010, [124 Stat. 2109][/us/stat/124/2109].)
+([Pub. L. 102–242, title II][/us/pl/102/242/tII], § 263, Dec. 19, 1991, [105 Stat. 2334][/us/stat/105/2334]; [Pub. L. 102–550, title IX][/us/pl/102/550/tIX], § 957(a), Oct. 28, 1992, [106 Stat. 3896][/us/stat/106/3896]; [Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], § 2604(b), Sept. 30, 1996, [110 Stat. 3009–471][/us/stat/110/3009-471]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1100B(1), July 21, 2010, [124 Stat. 2109][/us/stat/124/2109].)
 
  __Amendments__ 
 
@@ -69,9 +69,9 @@
 
     1996—Subsec. (c). [Pub. L. 104–208][/us/pl/104/208] redesignated par. (1) as entire subsec. (c) and subpars. (A) and (B) of former par. (1) as pars. (1) and (2), respectively, and struck out former par. (1) heading and heading and text of former par. (2). Text of former par. (2) read as follows: “For purposes of paragraph (1), a sign shall only be considered to be displayed on the premises of a depository institution if the sign is designed to be viewed only from the interior of the premises of the depository institution.”
 
-    1992—Subsec. (a). [Pub. L. 102–550, § 957(a)(1)][/us/pl/102/550/s957/a/1], substituted “subsections (b) and (c)” for “subsection (b)”.
+    1992—Subsec. (a). [Pub. L. 102–550][/us/pl/102/550], § 957(a)(1), substituted “subsections (b) and (c)” for “subsection (b)”.
 
-    Subsecs. (c) to (e). [Pub. L. 102–550, § 957(a)(2)][/us/pl/102/550/s957/a/2], (3), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
+    Subsecs. (c) to (e). [Pub. L. 102–550][/us/pl/102/550], § 957(a)(2), (3), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 
  __Effective Date of 2010 Amendment__ 
 
@@ -84,18 +84,18 @@
 ----------
 ----------
 
-[/us/pl/102/242/s263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs263
+[/us/pl/102/242/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtII
 [/us/stat/105/2334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2334
-[/us/pl/102/550/s957/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs957%2Fa
+[/us/pl/102/550/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtIX
 [/us/stat/106/3896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3896
-[/us/pl/104/208/s2604/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2604%2Fb
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-471
-[/us/pl/111/203/s1100B/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100B%2F1
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2109
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
-[/us/pl/102/550/s957/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs957%2Fa%2F1
-[/us/pl/102/550/s957/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs957%2Fa%2F2
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s1100H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100H
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a

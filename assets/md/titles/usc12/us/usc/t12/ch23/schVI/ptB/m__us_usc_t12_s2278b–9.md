@@ -67,29 +67,29 @@
 
         Notwithstanding any other provision of law, the United States district court for the District of Columbia shall have exclusive jurisdiction over any action brought under or arising out of this section. No suit or proceeding shall be maintained for the recovery of any amount of stock alleged to have been erroneously or illegally purchased, and no suit or proceeding shall be maintained to enjoin or otherwise prevent or impede the giving of notice or the purchase of stock required under this section, unless the amount of stock required to be purchased under this section has been purchased and paid for in full.
 
-([Pub. L. 92–181, title VI, § 6][/us/pl/92/181/s6].29, as added [Pub. L. 100–233, title II, § 201][/us/pl/100/233/s201], Jan. 6, 1988, [101 Stat. 1603][/us/stat/101/1603]; amended [Pub. L. 100–460, title VI, § 646][/us/pl/100/460/s646], Oct. 1, 1988, [102 Stat. 2266][/us/stat/102/2266].)
+([Pub. L. 92–181, title VI][/us/pl/92/181/tVI], § 6.29, as added [Pub. L. 100–233, title II][/us/pl/100/233/tII], § 201, Jan. 6, 1988, [101 Stat. 1603][/us/stat/101/1603]; amended [Pub. L. 100–460, title VI][/us/pl/100/460/tVI], § 646, Oct. 1, 1988, [102 Stat. 2266][/us/stat/102/2266].)
 
  __Amendments__ 
 
-    1988—Subsec. (a)(1). [Pub. L. 100–460, § 646(1)][/us/pl/100/460/s646/1], substituted “paragraphs (2) and (3)” for “paragraph (2)” in introductory provisions.
+    1988—Subsec. (a)(1). [Pub. L. 100–460][/us/pl/100/460], § 646(1), substituted “paragraphs (2) and (3)” for “paragraph (2)” in introductory provisions.
 
-    Subsec. (a)(3). [Pub. L. 100–460, § 646(2)][/us/pl/100/460/s646/2], added par. (3).
+    Subsec. (a)(3). [Pub. L. 100–460][/us/pl/100/460], § 646(2), added par. (3).
 
-    Subsec. (c). [Pub. L. 100–460, § 646(3)][/us/pl/100/460/s646/3], (4), designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
+    Subsec. (c). [Pub. L. 100–460][/us/pl/100/460], § 646(3), (4), designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
 
  __Effective Date of 1988 Amendments__ 
 
-[Pub. L. 101–220, § 7(a)][/us/pl/101/220/s7/a], Dec. 12, 1989, [103 Stat. 1881][/us/stat/103/1881], and [Pub. L. 101–239, title I, § 1006(a)][/us/pl/101/239/s1006/a], Dec. 19, 1989, [103 Stat. 2109][/us/stat/103/2109], provided that: 
+[Pub. L. 101–220][/us/pl/101/220], § 7(a), Dec. 12, 1989, [103 Stat. 1881][/us/stat/103/1881], and [Pub. L. 101–239, title I][/us/pl/101/239/tI], § 1006(a), Dec. 19, 1989, [103 Stat. 2109][/us/stat/103/2109], provided that: 
 
 > “Notwithstanding any other provision of law, the amendments to section 6.29 of the Farm Credit Act of 1971 ([12 U.S.C. 2278b–9][/us/usc/t12/s2278b–9]) made by section 646 of the Rural Development, Agriculture, and Related Agencies Appropriations Act, 1989 ([Public Law 100–460][/us/pl/100/460]; [102 Stat. 2266][/us/stat/102/2266]) shall be effective on October 1, 1992.”
 
-    [Pub. L. 100–460, title VI, § 646][/us/pl/100/460/s646], Oct. 1, 1988, [102 Stat. 2266][/us/stat/102/2266], provided that the amendment made by that section is effective Oct. 1, 1989.
+    [Pub. L. 100–460, title VI][/us/pl/100/460/tVI], § 646, Oct. 1, 1988, [102 Stat. 2266][/us/stat/102/2266], provided that the amendment made by that section is effective Oct. 1, 1989.
 
  __Payments to Farm Credit System Institutions for Purchases of Financial Assistance Corporation Stock__ 
 
-    [Pub. L. 101–239, title I, § 1006(b)][/us/pl/101/239/s1006/b], Dec. 19, 1989, [103 Stat. 2109][/us/stat/103/2109], directed Financial Assistance Corporation to pay, out of Financial Assistance Corporation Trust Fund established under [section 2278b–5(b) of this title][/us/usc/t12/s2278b–5/b], to each of institutions of Farm Credit System that purchased stock in Financial Assistance Corporation under [section 2278b–9 of this title][/us/usc/t12/s2278b–9], four annual payments, required the annual payments to be made available as soon as practicable after October 1 of each of calendar years 1989 through 1992, established method of calculating payments, and provided that payments be made available to such institutions in an amount equal to total amount of annual payments to be made available times the ratio of the amount of stock each institution purchased divided by $177,000,000.
+    [Pub. L. 101–239, title I][/us/pl/101/239/tI], § 1006(b), Dec. 19, 1989, [103 Stat. 2109][/us/stat/103/2109], directed Financial Assistance Corporation to pay, out of Financial Assistance Corporation Trust Fund established under [section 2278b–5(b) of this title][/us/usc/t12/s2278b–5/b], to each of institutions of Farm Credit System that purchased stock in Financial Assistance Corporation under [section 2278b–9 of this title][/us/usc/t12/s2278b–9], four annual payments, required the annual payments to be made available as soon as practicable after October 1 of each of calendar years 1989 through 1992, established method of calculating payments, and provided that payments be made available to such institutions in an amount equal to total amount of annual payments to be made available times the ratio of the amount of stock each institution purchased divided by $177,000,000.
 
-    Similar provisions were contained in [Pub. L. 101–220, § 7(b)][/us/pl/101/220/s7/b], Dec. 12, 1989, [103 Stat. 1881][/us/stat/103/1881].
+    Similar provisions were contained in [Pub. L. 101–220][/us/pl/101/220], § 7(b), Dec. 12, 1989, [103 Stat. 1881][/us/stat/103/1881].
 
 ----------
 
@@ -105,28 +105,28 @@
 [/us/usc/t12/s2278a–9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2278a%E2%80%939
 [/us/usc/t12/s2278b–6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2278b%E2%80%936%2Fa
 [/us/usc/t12/s2278b–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2278b%E2%80%936
-[/us/pl/92/181/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs6
-[/us/pl/100/233/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs201
+[/us/pl/92/181/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtVI
+[/us/pl/100/233/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtII
 [/us/stat/101/1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1603
-[/us/pl/100/460/s646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F460%2Fs646
+[/us/pl/100/460/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F460%2FtVI
 [/us/stat/102/2266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2266
-[/us/pl/100/460/s646/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F460%2Fs646%2F1
-[/us/pl/100/460/s646/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F460%2Fs646%2F2
-[/us/pl/100/460/s646/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F460%2Fs646%2F3
-[/us/pl/101/220/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F220%2Fs7%2Fa
+[/us/pl/100/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F460
+[/us/pl/100/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F460
+[/us/pl/100/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F460
+[/us/pl/101/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F220
 [/us/stat/103/1881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1881
-[/us/pl/101/239/s1006/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs1006%2Fa
+[/us/pl/101/239/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtI
 [/us/stat/103/2109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2109
 [/us/usc/t12/s2278b–9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2278b%E2%80%939
 [/us/pl/100/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F460
 [/us/stat/102/2266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2266
-[/us/pl/100/460/s646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F460%2Fs646
+[/us/pl/100/460/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F460%2FtVI
 [/us/stat/102/2266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2266
-[/us/pl/101/239/s1006/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs1006%2Fb
+[/us/pl/101/239/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtI
 [/us/stat/103/2109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2109
 [/us/usc/t12/s2278b–5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2278b%E2%80%935%2Fb
 [/us/usc/t12/s2278b–9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2278b%E2%80%939
-[/us/pl/101/220/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F220%2Fs7%2Fb
+[/us/pl/101/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F220
 [/us/stat/103/1881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1881
 
 

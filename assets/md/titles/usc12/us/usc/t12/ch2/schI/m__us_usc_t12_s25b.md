@@ -125,7 +125,7 @@
 
         The ability of the Comptroller of the Currency to bring an enforcement action under title 62 of the Revised Statutes or [section 45 of title 15][/us/usc/t15/s45] does not preclude any private party from enforcing rights granted under Federal or State law in the courts.
 
-(R.S. § 5136C, as added and amended [Pub. L. 111–203, title X][/us/pl/111/203], §§ 1044(a), 1045, 1047(a), July 21, 2010, [124 Stat. 2014][/us/stat/124/2014], 2017, 2018.)
+(R.S. § 5136C, as added and amended [Pub. L. 111–203, title X][/us/pl/111/203/tX], §§ 1044(a), 1045, 1047(a), July 21, 2010, [124 Stat. 2014][/us/stat/124/2014], 2017, 2018.)
 
  __References in Text__ 
 
@@ -137,9 +137,9 @@
 
  __Amendments__ 
 
-    2010—Subsec. (h). [Pub. L. 111–203, § 1045][/us/pl/111/203/s1045], added subsec. (h).
+    2010—Subsec. (h). [Pub. L. 111–203][/us/pl/111/203], § 1045, added subsec. (h).
 
-    Subsecs. (i), (j). [Pub. L. 111–203, § 1047(a)][/us/pl/111/203/s1047/a], added subsecs. (i) and (j).
+    Subsecs. (i), (j). [Pub. L. 111–203][/us/pl/111/203], § 1047(a), added subsecs. (i) and (j).
 
  __Effective Date__ 
 
@@ -162,13 +162,13 @@
 [/us/usc/t12/s1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813
 [/us/usc/t12/s371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs371
 [/us/usc/t15/s45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs45
-[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2014
 [/us/pl/95/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F369
 [/us/stat/92/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F607
 [/us/usc/t12/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3101
-[/us/pl/111/203/s1045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1045
-[/us/pl/111/203/s1047/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1047%2Fa
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s1048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1048
 [/us/usc/t12/s5551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5551

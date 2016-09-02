@@ -65,7 +65,7 @@
 
             The Secretary shall make payments from amounts deposited in the Fund to fulfill obligations of the guarantees provided to financial institutions under subsection (a).
 
-([Pub. L. 110–343, div. A, title I, § 102][/us/pl/110/343/s102], Oct. 3, 2008, [122 Stat. 3768][/us/stat/122/3768].)
+([Pub. L. 110–343, div. A, title I][/us/pl/110/343/dA/tI], § 102, Oct. 3, 2008, [122 Stat. 3768][/us/stat/122/3768].)
 
  __References in Text__ 
 
@@ -80,7 +80,7 @@
 
 [/us/usc/t12/s5211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5211
 [/us/usc/t12/s5225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5225
-[/us/pl/110/343/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs102
+[/us/pl/110/343/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdA%2FtI
 [/us/stat/122/3768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3768
 [/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
 [/us/stat/122/3765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3765

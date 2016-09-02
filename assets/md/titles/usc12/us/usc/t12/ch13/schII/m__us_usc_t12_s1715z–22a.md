@@ -45,11 +45,11 @@
 
         (D) the Federal Housing Finance Board.
 
-([Pub. L. 102–550, title V, § 544][/us/pl/102/550/s544], Oct. 28, 1992, [106 Stat. 3801][/us/stat/106/3801]; [Pub. L. 103–233, title III, § 307(c)][/us/pl/103/233/s307/c], Apr. 11, 1994, [108 Stat. 378][/us/stat/108/378].)
+([Pub. L. 102–550, title V][/us/pl/102/550/tV], § 544, Oct. 28, 1992, [106 Stat. 3801][/us/stat/106/3801]; [Pub. L. 103–233, title III][/us/pl/103/233/tIII], § 307(c), Apr. 11, 1994, [108 Stat. 378][/us/stat/108/378].)
 
  __References in Text__ 
 
-    This subtitle, referred to in text, means subtitle C (§§ 541–544) of [Pub. L. 102–550, title V][/us/pl/102/550], Oct. 28, 1992, [106 Stat. 3794][/us/stat/106/3794], as amended, known as the Multifamily Housing Finance Improvement Act, which enacted this section and [section 1715z–22 of this title][/us/usc/t12/s1715z–22] and provisions set out as a note under [section 1701 of this title][/us/usc/t12/s1701]. For complete classification of this Act to the Code, see Short Title of 1992 Amendment note set out under [section 1701 of this title][/us/usc/t12/s1701] and Tables.
+    This subtitle, referred to in text, means subtitle C (§§ 541–544) of [Pub. L. 102–550, title V][/us/pl/102/550/tV], Oct. 28, 1992, [106 Stat. 3794][/us/stat/106/3794], as amended, known as the Multifamily Housing Finance Improvement Act, which enacted this section and [section 1715z–22 of this title][/us/usc/t12/s1715z–22] and provisions set out as a note under [section 1701 of this title][/us/usc/t12/s1701]. For complete classification of this Act to the Code, see Short Title of 1992 Amendment note set out under [section 1701 of this title][/us/usc/t12/s1701] and Tables.
 
  __Codification__ 
 
@@ -59,9 +59,9 @@
 
  __Amendments__ 
 
-    1994—Par. (1). [Pub. L. 103–233, § 307(c)(1)][/us/pl/103/233/s307/c/1], added par. (1) and struck out heading and text of former par. (1). Text read as follows: “The term ‘multifamily housing’ means a property consisting of more than 4 dwelling units.”
+    1994—Par. (1). [Pub. L. 103–233][/us/pl/103/233], § 307(c)(1), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “The term ‘multifamily housing’ means a property consisting of more than 4 dwelling units.”
 
-    Par. (5). [Pub. L. 103–233, § 307(c)(2)][/us/pl/103/233/s307/c/2], added par. (5).
+    Par. (5). [Pub. L. 103–233][/us/pl/103/233], § 307(c)(2), added par. (5).
 
 ----------
 
@@ -70,17 +70,17 @@
 ----------
 ----------
 
-[/us/pl/102/550/s544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs544
+[/us/pl/102/550/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtV
 [/us/stat/106/3801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3801
-[/us/pl/103/233/s307/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2Fs307%2Fc
+[/us/pl/103/233/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2FtIII
 [/us/stat/108/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F378
-[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtV
 [/us/stat/106/3794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3794
 [/us/usc/t12/s1715z–22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715z%E2%80%9322
 [/us/usc/t12/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701
 [/us/usc/t12/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701
 [/us/usc/t12/s1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1707
-[/us/pl/103/233/s307/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2Fs307%2Fc%2F1
-[/us/pl/103/233/s307/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2Fs307%2Fc%2F2
+[/us/pl/103/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233
+[/us/pl/103/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233
 
 

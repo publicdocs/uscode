@@ -17,7 +17,7 @@
 
     All federally related transactions not requiring the services of a State certified appraiser shall be performed by either a State certified or licensed appraiser.
 
-([Pub. L. 101–73, title XI, § 1114][/us/pl/101/73/s1114], Aug. 9, 1989, [103 Stat. 514][/us/stat/103/514].)
+([Pub. L. 101–73, title XI][/us/pl/101/73/tXI], § 1114, Aug. 9, 1989, [103 Stat. 514][/us/stat/103/514].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/101/73/s1114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs1114
+[/us/pl/101/73/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtXI
 [/us/stat/103/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F514
 
 

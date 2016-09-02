@@ -39,15 +39,15 @@
 
         The Financial Assistance Corporation shall purchase shares of stock issued by certified System institutions under subsection (a) to the extent that the issuance of such stock is approved by the Assistance Board.
 
-([Pub. L. 92–181, title VI, § 6][/us/pl/92/181/s6].27, as added [Pub. L. 100–233, title II, § 201][/us/pl/100/233/s201], Jan. 6, 1988, [101 Stat. 1602][/us/stat/101/1602]; amended [Pub. L. 100–399, title II, § 201(y)][/us/pl/100/399/s201/y]–(aa), Aug. 17, 1988, [102 Stat. 992][/us/stat/102/992].)
+([Pub. L. 92–181, title VI][/us/pl/92/181/tVI], § 6.27, as added [Pub. L. 100–233, title II][/us/pl/100/233/tII], § 201, Jan. 6, 1988, [101 Stat. 1602][/us/stat/101/1602]; amended [Pub. L. 100–399, title II][/us/pl/100/399/tII], § 201(y)–(aa), Aug. 17, 1988, [102 Stat. 992][/us/stat/102/992].)
 
  __Amendments__ 
 
-    1988—Subsec. (a)(1). [Pub. L. 100–399, § 201(y)][/us/pl/100/399/s201/y], struck out “(a) or (b)” after “section 2278a–4”.
+    1988—Subsec. (a)(1). [Pub. L. 100–399][/us/pl/100/399], § 201(y), struck out “(a) or (b)” after “section 2278a–4”.
 
-    Subsec. (a)(2)(B). [Pub. L. 100–399, § 201(z)][/us/pl/100/399/s201/z], substituted “Farm Credit System Insurance Corporation” for “Reserve Account Board” and “Insurance Corporation purchases” for “Board purchases”.
+    Subsec. (a)(2)(B). [Pub. L. 100–399][/us/pl/100/399], § 201(z), substituted “Farm Credit System Insurance Corporation” for “Reserve Account Board” and “Insurance Corporation purchases” for “Board purchases”.
 
-    Subsec. (b). [Pub. L. 100–399, § 201(aa)][/us/pl/100/399/s201/aa], substituted “subsection (a)” for “subsections (a) and (b)”.
+    Subsec. (b). [Pub. L. 100–399][/us/pl/100/399], § 201(aa), substituted “subsection (a)” for “subsections (a) and (b)”.
 
  __Effective Date of 1988 Amendment__ 
 
@@ -64,14 +64,14 @@
 [/us/usc/t12/s2278b–6/d/3/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2278b%E2%80%936%2Fd%2F3%2FB%2Fiii
 [/us/usc/t12/s2278b–6/d/3/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2278b%E2%80%936%2Fd%2F3%2FB%2Fiii
 [/us/usc/t12/s2278b–6/d/4/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2278b%E2%80%936%2Fd%2F4%2FB%2Fii
-[/us/pl/92/181/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs6
-[/us/pl/100/233/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs201
+[/us/pl/92/181/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtVI
+[/us/pl/100/233/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtII
 [/us/stat/101/1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1602
-[/us/pl/100/399/s201/y]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs201%2Fy
+[/us/pl/100/399/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtII
 [/us/stat/102/992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F992
-[/us/pl/100/399/s201/y]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs201%2Fy
-[/us/pl/100/399/s201/z]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs201%2Fz
-[/us/pl/100/399/s201/aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs201%2Faa
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
 [/us/pl/100/399/s1001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs1001%2Fa

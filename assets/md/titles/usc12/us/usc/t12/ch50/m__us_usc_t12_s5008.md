@@ -17,7 +17,7 @@
 
     A delay by a bank beyond the time limits prescribed or permitted by this chapter shall be excused if the delay is caused by interruption of communication or computer facilities, suspension of payments by another bank, war, emergency conditions, failure of equipment, or other circumstances beyond the control of a bank and if the bank uses such diligence as the circumstances require.
 
-([Pub. L. 108–100, § 9][/us/pl/108/100/s9], Oct. 28, 2003, [117 Stat. 1188][/us/stat/117/1188].)
+([Pub. L. 108–100][/us/pl/108/100], § 9, Oct. 28, 2003, [117 Stat. 1188][/us/stat/117/1188].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/108/100/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F100%2Fs9
+[/us/pl/108/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F100
 [/us/stat/117/1188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1188
 [/us/pl/108/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F100
 [/us/stat/117/1177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1177

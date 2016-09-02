@@ -23,7 +23,7 @@
 
         Nothing in subsection (a) shall be construed to restrict or limit any authority of the Securities and Exchange Commission under securities laws as in effect on October 3, 2008.
 
-([Pub. L. 110–343, div. A, title I, § 132][/us/pl/110/343/s132], Oct. 3, 2008, [122 Stat. 3798][/us/stat/122/3798].)
+([Pub. L. 110–343, div. A, title I][/us/pl/110/343/dA/tI], § 132, Oct. 3, 2008, [122 Stat. 3798][/us/stat/122/3798].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t15/s78c/a/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c%2Fa%2F47
-[/us/pl/110/343/s132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs132
+[/us/pl/110/343/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdA%2FtI
 [/us/stat/122/3798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3798
 
 

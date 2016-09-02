@@ -55,7 +55,7 @@
 
             The provisions of [section 716(e) of title 31][/us/usc/t31/s716/e] shall apply to information obtained by the Comptroller General under this section.
 
-([Pub. L. 101–73, title XII, § 1213][/us/pl/101/73/s1213], Aug. 9, 1989, [103 Stat. 528][/us/stat/103/528].)
+([Pub. L. 101–73, title XII][/us/pl/101/73/tXII], § 1213, Aug. 9, 1989, [103 Stat. 528][/us/stat/103/528].)
 
  __References in Text__ 
 
@@ -76,7 +76,7 @@
 [/us/usc/t12/s1723a/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1723a%2Fj
 [/us/usc/t31/s716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs716
 [/us/usc/t31/s716/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs716%2Fe
-[/us/pl/101/73/s1213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs1213
+[/us/pl/101/73/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtXII
 [/us/stat/103/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F528
 [/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
 [/us/stat/103/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F183

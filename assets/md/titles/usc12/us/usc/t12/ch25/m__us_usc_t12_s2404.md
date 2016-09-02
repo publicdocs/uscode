@@ -37,7 +37,7 @@
 
         (4) All process of any court to which application may be made under this section may be served in the judicial district wherein the person required to be served resides or may be found.
 
-([Pub. L. 93–495, title II, § 204][/us/pl/93/495/s204], Oct. 28, 1974, [88 Stat. 1509][/us/stat/88/1509].)
+([Pub. L. 93–495, title II][/us/pl/93/495/tII], § 204, Oct. 28, 1974, [88 Stat. 1509][/us/stat/88/1509].)
 
  __References in Text__ 
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/93/495/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2Fs204
+[/us/pl/93/495/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2FtII
 [/us/stat/88/1509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1509
 [/us/pl/93/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495
 

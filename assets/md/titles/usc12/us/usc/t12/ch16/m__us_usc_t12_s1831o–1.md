@@ -49,7 +49,7 @@
 
         In this section, the term “source of financial strength” means the ability of a company that directly or indirectly owns or controls an insured depository institution to provide financial assistance to such insured depository institution in the event of the financial distress of the insured depository institution.
 
-([Sept. 21, 1950, ch. 967, § 2][/us/act/1950-09-21/ch967/s2]\[38A\], as added [Pub. L. 111–203, title VI, § 616(d)][/us/pl/111/203/s616/d], July 21, 2010, [124 Stat. 1616][/us/stat/124/1616]; amended [Pub. L. 114–113, div. O, title VII, § 706(a)][/us/pl/114/113/s706/a], Dec. 18, 2015, [129 Stat. 3029][/us/stat/129/3029].)
+([Sept. 21, 1950, ch. 967][/us/act/1950-09-21/ch967], § 2\[38A\], as added [Pub. L. 111–203, title VI][/us/pl/111/203/tVI], § 616(d), July 21, 2010, [124 Stat. 1616][/us/stat/124/1616]; amended [Pub. L. 114–113, div. O, title VII][/us/pl/114/113/dO/tVII], § 706(a), Dec. 18, 2015, [129 Stat. 3029][/us/stat/129/3029].)
 
  __Amendments__ 
 
@@ -69,10 +69,10 @@
 [/us/usc/t12/s1844/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1844%2Fg
 [/us/usc/t12/s1844/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1844%2Fg
 [/us/usc/t12/s5411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5411
-[/us/act/1950-09-21/ch967/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967%2Fs2
-[/us/pl/111/203/s616/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs616%2Fd
+[/us/act/1950-09-21/ch967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967
+[/us/pl/111/203/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVI
 [/us/stat/124/1616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1616
-[/us/pl/114/113/s706/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs706%2Fa
+[/us/pl/114/113/dO/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdO%2FtVII
 [/us/stat/129/3029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3029
 [/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/111/203/s616/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs616%2Fe

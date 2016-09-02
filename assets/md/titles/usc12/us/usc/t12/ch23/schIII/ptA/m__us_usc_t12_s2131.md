@@ -31,15 +31,15 @@
 
         In any case where the debt of a borrower is in default, or in any case of liquidation or dissolution of a present or former borrower from a bank for cooperatives, the bank may, but shall not be required to, retire and cancel all or a part of the stock, allocated surplus or contingency reserves, or any other equity in the bank owned by or allocated to such borrower, at the fair market value thereof not exceeding par, and, to the extent required in such cases, corresponding shares and allocations and other equity interests held by a district bank in another district bank on account of such indebtedness, shall be retired or equitably adjusted. In no event shall the bank’s equities be retired or canceled if the retirement or cancellation would adversely affect the bank’s capital structure, as determined by the Farm Credit Administration.
 
-([Pub. L. 92–181, title III, § 3][/us/pl/92/181/s3].10, Dec. 10, 1971, [85 Stat. 606][/us/stat/85/606]; [Pub. L. 96–592, title III, § 307][/us/pl/96/592/s307], Dec. 24, 1980, [94 Stat. 3445][/us/stat/94/3445]; [Pub. L. 99–509, title I, § 1033(c)][/us/pl/99/509/s1033/c], Oct. 21, 1986, [100 Stat. 1877][/us/stat/100/1877].)
+([Pub. L. 92–181, title III][/us/pl/92/181/tIII], § 3.10, Dec. 10, 1971, [85 Stat. 606][/us/stat/85/606]; [Pub. L. 96–592, title III][/us/pl/96/592/tIII], § 307, Dec. 24, 1980, [94 Stat. 3445][/us/stat/94/3445]; [Pub. L. 99–509, title I][/us/pl/99/509/tI], § 1033(c), Oct. 21, 1986, [100 Stat. 1877][/us/stat/100/1877].)
 
  __Amendments__ 
 
     1986—Subsec. (a). [Pub. L. 99–509][/us/pl/99/509] struck out “, with the approval of the Farm Credit Administration as provided in [section 2205 of this title][/us/usc/t12/s2205]” after “from time to time”.
 
-    1980—Subsec. (a). [Pub. L. 96–592, § 307(1)][/us/pl/96/592/s307/1], inserted reference to [section 2205 of this title][/us/usc/t12/s2205].
+    1980—Subsec. (a). [Pub. L. 96–592][/us/pl/96/592], § 307(1), inserted reference to [section 2205 of this title][/us/usc/t12/s2205].
 
-    Subsec. (d). [Pub. L. 96–592, § 307(2)][/us/pl/96/592/s307/2], substituted “market” for “book” and inserted provisions respecting retirement or cancellation of equities as affected by the capital structure.
+    Subsec. (d). [Pub. L. 96–592][/us/pl/96/592], § 307(2), substituted “market” for “book” and inserted provisions respecting retirement or cancellation of equities as affected by the capital structure.
 
 ----------
 
@@ -48,16 +48,16 @@
 ----------
 ----------
 
-[/us/pl/92/181/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs3
+[/us/pl/92/181/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtIII
 [/us/stat/85/606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F606
-[/us/pl/96/592/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592%2Fs307
+[/us/pl/96/592/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592%2FtIII
 [/us/stat/94/3445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3445
-[/us/pl/99/509/s1033/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs1033%2Fc
+[/us/pl/99/509/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtI
 [/us/stat/100/1877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1877
 [/us/pl/99/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509
 [/us/usc/t12/s2205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2205
-[/us/pl/96/592/s307/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592%2Fs307%2F1
+[/us/pl/96/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592
 [/us/usc/t12/s2205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2205
-[/us/pl/96/592/s307/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592%2Fs307%2F2
+[/us/pl/96/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592
 
 

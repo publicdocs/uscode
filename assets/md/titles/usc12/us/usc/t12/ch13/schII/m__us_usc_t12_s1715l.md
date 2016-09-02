@@ -39,7 +39,7 @@
 
          if executed by a mortgagor which is a public body or agency (and, except with respect to a project assisted or to be assisted pursuant to section 8 of the United States Housing Act of 1937 \[[42 U.S.C. 1437f][/us/usc/t42/s1437f]\], which certifies that it is not receiving financial assistance from the United States exclusively pursuant to such Act \[[42 U.S.C. 1437][/us/usc/t42/s1437] et seq.\]) a cooperative (including an investor-sponsor who meets such requirements as the Secretary may impose to assure that the consumer interest is protected), or a limited dividend corporation (as defined by the Secretary), or a private nonprofit corporation or association, or other mortgagor approved by the Secretary, and regulated or supervised under Federal or State laws or by political subdivisions of States, or agencies thereof, or by the Secretary under a regulatory agreement or otherwise, as to rents, charges, and methods of operation, in such form and in such manner as in the opinion of the Secretary will effectuate the purposes of this section—
 
-            (i) Repealed. [Pub. L. 93–383, title III, § 304(e)(1)][/us/pl/93/383/s304/e/1], Aug. 22, 1974, [88 Stat. 678][/us/stat/88/678].
+            (i) Repealed. [Pub. L. 93–383, title III][/us/pl/93/383/tIII], § 304(e)(1), Aug. 22, 1974, [88 Stat. 678][/us/stat/88/678].
 
             (ii)
 
@@ -51,7 +51,7 @@
 
          if executed by a mortgagor and which is approved by the Secretary—
 
-            (i) Repealed. [Pub. L. 93–383, title III, § 304(e)(2)][/us/pl/93/383/s304/e/2], Aug. 22, 1974, [88 Stat. 678][/us/stat/88/678].
+            (i) Repealed. [Pub. L. 93–383, title III][/us/pl/93/383/tIII], § 304(e)(2), Aug. 22, 1974, [88 Stat. 678][/us/stat/88/678].
 
             (ii)
 
@@ -259,29 +259,29 @@
 
         (2) For purposes of this subsection, the term “eligible multifamily housing” means any housing financed by a loan or mortgage that is (A) insured or held by the Secretary under subsection (d)(3) and assisted under [section 1701s of this title][/us/usc/t12/s1701s] or section 8 of the United States Housing Act of 1937 \[[42 U.S.C. 1437f][/us/usc/t42/s1437f]\]; or (B) insured or held by the Secretary and bears interest at a rate determined under the proviso of subsection (d)(5).
 
-([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title II, § 221, as added [Aug. 2, 1954, ch. 649][/us/act/1954-08-02/ch649], title I, § 123, [68 Stat. 599][/us/stat/68/599]; amended [Aug. 11, 1955, ch. 783][/us/act/1955-08-11/ch783], title I, § 102(c), (j), [69 Stat. 635][/us/stat/69/635]; [Aug. 7, 1956, ch. 1029][/us/act/1956-08-07/ch1029], title I, § 108, title III, § 307(c), [70 Stat. 1094][/us/stat/70/1094], 1102; [Pub. L. 85–104, title I, § 112][/us/pl/85/104/s112], July 12, 1957, [71 Stat. 297][/us/stat/71/297]; [Pub. L. 86–372, title I][/us/pl/86/372], §§ 110(a)(1), (2), (b)–(e), 116(b), Sept. 23, 1959, [73 Stat. 658–661][/us/stat/73/658-661], 664; [Pub. L. 87–70, title I, § 101(a)][/us/pl/87/70/s101/a], June 30, 1961, [75 Stat. 149][/us/stat/75/149]; [Pub. L. 88–54][/us/pl/88/54], June 29, 1963, [77 Stat. 73][/us/stat/77/73]; [Pub. L. 88–560, title I][/us/pl/88/560], §§ 105(c)(2), 107(d), 114, title II, §§ 202, 203(b), Sept. 2, 1964, [78 Stat. 772][/us/stat/78/772], 775, 778, 783, 784; [Pub. L. 89–117, title I, § 102(a)][/us/pl/89/117/s102/a], (b), title II, § 207(d), title XI, § 1108(i), Aug. 10, 1965, [79 Stat. 454][/us/stat/79/454], 467, 505; [Pub. L. 89–754, title III][/us/pl/89/754], §§ 307–310(c), Nov. 3, 1966, [80 Stat. 1268–1270][/us/stat/80/1268-1270]; [Pub. L. 89–769, § 4][/us/pl/89/769/s4], Nov. 6, 1966, [80 Stat. 1317][/us/stat/80/1317]; [Pub. L. 90–19, § 1(a)(3)][/us/pl/90/19/s1/a/3], (4), May 25, 1967, [81 Stat. 17][/us/stat/81/17]; [Pub. L. 90–448, title I][/us/pl/90/448], §§ 101(b), (c), 105, title III, §§ 305, 306, 311(b), 316, Aug. 1, 1968, [82 Stat. 483][/us/stat/82/483], 488, 508, 510, 512; [Pub. L. 91–78, § 2(c)][/us/pl/91/78/s2/c], Sept. 30, 1969, [83 Stat. 125][/us/stat/83/125]; [Pub. L. 91–152, title I][/us/pl/91/152], §§ 101(c), 113(e), Dec. 24, 1969, [83 Stat. 379][/us/stat/83/379], 384; [Pub. L. 91–432, § 1(c)][/us/pl/91/432/s1/c], Oct. 2, 1970, [84 Stat. 887][/us/stat/84/887]; [Pub. L. 91–473, § 1(c)][/us/pl/91/473/s1/c], Oct. 21, 1970, [84 Stat. 1064][/us/stat/84/1064]; [Pub. L. 91–525, § 1(c)][/us/pl/91/525/s1/c], Dec. 1, 1970, [84 Stat. 1384][/us/stat/84/1384]; [Pub. L. 91–606, title III, § 301(d)][/us/pl/91/606/s301/d], Dec. 31, 1970, [84 Stat. 1758][/us/stat/84/1758]; [Pub. L. 91–609, title I][/us/pl/91/609], §§ 101(c), 114(a), 114\[115\](a), Dec. 31, 1970, [84 Stat. 1770][/us/stat/84/1770], 1773; [Pub. L. 92–503, § 1(c)][/us/pl/92/503/s1/c], Oct. 18, 1972, [86 Stat. 906][/us/stat/86/906]; [Pub. L. 93–85, § 1(c)][/us/pl/93/85/s1/c], Aug. 10, 1973, [87 Stat. 220][/us/stat/87/220]; [Pub. L. 93–117, § 1(c)][/us/pl/93/117/s1/c], Oct. 2, 1973, [87 Stat. 421][/us/stat/87/421]; [Pub. L. 93–288, title VII, § 702(d)][/us/pl/93/288/s702/d], formerly title VI, § 602(d), May 22, 1974, [88 Stat. 163][/us/stat/88/163], renumbered title VII, § 702(d), [Pub. L. 103–337, div. C, title XXXIV, § 3411(a)(1)][/us/pl/103/337/s3411/a/1], (2), Oct. 5, 1994, [108 Stat. 3100][/us/stat/108/3100]; [Pub. L. 93–383, title III][/us/pl/93/383], §§ 302(c), 303(d), (e), 304(e), 316(c), 319(a), Aug. 22, 1974, [88 Stat. 676–678][/us/stat/88/676-678], 685, 686; [Pub. L. 94–173][/us/pl/94/173], §§ 3, 4(a), Dec. 23, 1975, [89 Stat. 1027][/us/stat/89/1027]; [Pub. L. 94–375][/us/pl/94/375], §§ 3(d), 8(a), (b)(4), (5), Aug. 3, 1976, [90 Stat. 1069][/us/stat/90/1069], 1071, 1072; [Pub. L. 95–24, title I, § 106][/us/pl/95/24/s106], Apr. 30, 1977, [91 Stat. 56][/us/stat/91/56]; [Pub. L. 95–60, § 1(c)][/us/pl/95/60/s1/c], June 30, 1977, [91 Stat. 257][/us/stat/91/257]; [Pub. L. 95–80, § 1(c)][/us/pl/95/80/s1/c], July 31, 1977, [91 Stat. 339][/us/stat/91/339]; [Pub. L. 95–128, title III][/us/pl/95/128], §§ 301(c), 303(c), Oct. 12, 1977, [91 Stat. 1131][/us/stat/91/1131], 1132; [Pub. L. 95–406, § 1(c)][/us/pl/95/406/s1/c], Sept. 30, 1978, [92 Stat. 879][/us/stat/92/879]; [Pub. L. 95–557, title III][/us/pl/95/557], §§ 301(c), 325, Oct. 31, 1978, [92 Stat. 2096][/us/stat/92/2096], 2104; [Pub. L. 96–71, § 1(c)][/us/pl/96/71/s1/c], Sept. 28, 1979, [93 Stat. 501][/us/stat/93/501]; [Pub. L. 96–105, § 1(c)][/us/pl/96/105/s1/c], Nov. 8, 1979, [93 Stat. 794][/us/stat/93/794]; [Pub. L. 96–153, title III][/us/pl/96/153], §§ 301(c), 314, Dec. 21, 1979, [93 Stat. 1111][/us/stat/93/1111], 1117; [Pub. L. 96–372, § 1(c)][/us/pl/96/372/s1/c], Oct. 3, 1980, [94 Stat. 1363][/us/stat/94/1363]; [Pub. L. 96–399, title III][/us/pl/96/399], §§ 301(c), 310(d), 333(c), (d), Oct. 8, 1980, [94 Stat. 1638][/us/stat/94/1638], 1642, 1653; [Pub. L. 97–35, title III][/us/pl/97/35], §§ 331(c), 339B(a), Aug. 13, 1981, [95 Stat. 412][/us/stat/95/412], 417; [Pub. L. 97–253, title II, § 201(d)][/us/pl/97/253/s201/d], Sept. 8, 1982, [96 Stat. 789][/us/stat/96/789]; [Pub. L. 97–289, § 1(c)][/us/pl/97/289/s1/c], Oct. 6, 1982, [96 Stat. 1230][/us/stat/96/1230]; [Pub. L. 97–377, title I, § 101(g)][/us/pl/97/377/s101/g], Dec. 21, 1982, [96 Stat. 1908][/us/stat/96/1908]; [Pub. L. 98–35, § 1(c)][/us/pl/98/35/s1/c], May 26, 1983, [97 Stat. 197][/us/stat/97/197]; [Pub. L. 98–109, § 1(c)][/us/pl/98/109/s1/c], Oct. 1, 1983, [97 Stat. 745][/us/stat/97/745]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title IV, §§ 401(c), 404(b)(8), 408, 409, 423(b)(3), 432(b), (c), 446(d)\], Nov. 30, 1983, [97 Stat. 1207][/us/stat/97/1207], 1209, 1211, 1217, 1220, 1228; [Pub. L. 98–479, title II, § 204(a)(6)][/us/pl/98/479/s204/a/6], Oct. 17, 1984, [98 Stat. 2232][/us/stat/98/2232]; [Pub. L. 99–120, § 1(c)][/us/pl/99/120/s1/c], Oct. 8, 1985, [99 Stat. 502][/us/stat/99/502]; [Pub. L. 99–156, § 1(c)][/us/pl/99/156/s1/c], Nov. 15, 1985, [99 Stat. 815][/us/stat/99/815]; [Pub. L. 99–219, § 1(c)][/us/pl/99/219/s1/c], Dec. 26, 1985, [99 Stat. 1730][/us/stat/99/1730]; [Pub. L. 99–267, § 1(c)][/us/pl/99/267/s1/c], Mar. 27, 1986, [100 Stat. 73][/us/stat/100/73]; [Pub. L. 99–272, title III, § 3007(c)][/us/pl/99/272/s3007/c], Apr. 7, 1986, [100 Stat. 104][/us/stat/100/104]; [Pub. L. 99–289, § 1(b)][/us/pl/99/289/s1/b], May 2, 1986, [100 Stat. 412][/us/stat/100/412]; [Pub. L. 99–345, § 1][/us/pl/99/345/s1], June 24, 1986, [100 Stat. 673][/us/stat/100/673]; [Pub. L. 99–430][/us/pl/99/430], Sept. 30, 1986, [100 Stat. 986][/us/stat/100/986]; [Pub. L. 100–122, § 1][/us/pl/100/122/s1], Sept. 30, 1987, [101 Stat. 793][/us/stat/101/793]; [Pub. L. 100–154][/us/pl/100/154], Nov. 5, 1987, [101 Stat. 890][/us/stat/101/890]; [Pub. L. 100–170][/us/pl/100/170], Nov. 17, 1987, [101 Stat. 914][/us/stat/101/914]; [Pub. L. 100–179][/us/pl/100/179], Dec. 3, 1987, [101 Stat. 1018][/us/stat/101/1018]; [Pub. L. 100–200][/us/pl/100/200], Dec. 21, 1987, [101 Stat. 1327][/us/stat/101/1327]; [Pub. L. 100–242, title IV][/us/pl/100/242], §§ 401(a)(2), 406(b)(10)–(13), 426(d), (e), (h), Feb. 5, 1988, [101 Stat. 1898][/us/stat/101/1898], 1901, 1916; [Pub. L. 100–707, title I, § 109(e)(3)][/us/pl/100/707/s109/e/3], Nov. 23, 1988, [102 Stat. 4708][/us/stat/102/4708]; [Pub. L. 101–508, title II, § 2201][/us/pl/101/508/s2201], Nov. 5, 1990, [104 Stat. 1388–21][/us/stat/104/1388-21]; [Pub. L. 101–625, title VI][/us/pl/101/625], §§ 611(b)(2), 612(b), Nov. 28, 1990, [104 Stat. 4278][/us/stat/104/4278], 4279; [Pub. L. 102–550, title V][/us/pl/102/550], §§ 509(d), (e), 516(d), title X, § 1012(l), Oct. 28, 1992, [106 Stat. 3783][/us/stat/106/3783], 3791, 3907; [Pub. L. 104–134, title I, § 101(e)][/us/pl/104/134/s101/e] \[title II, § 219\], Apr. 26, 1996, [110 Stat. 1321–257][/us/stat/110/1321-257], 1321–290; renumbered title I, [Pub. L. 104–140, § 1(a)][/us/pl/104/140/s1/a], May 2, 1996, [110 Stat. 1327][/us/stat/110/1327]; [Pub. L. 105–276, title II, § 222][/us/pl/105/276/s222], Oct. 21, 1998, [112 Stat. 2489][/us/stat/112/2489]; [Pub. L. 106–377, § 1(a)(1)][/us/pl/106/377/s1/a/1] \[title II, § 209(b)\], Oct. 27, 2000, [114 Stat. 1441][/us/stat/114/1441], 1441A–25; [Pub. L. 107–73, title II, § 213(d)][/us/pl/107/73/s213/d], (e), Nov. 26, 2001, [115 Stat. 676][/us/stat/115/676], 677; [Pub. L. 107–326, § 5(b)(4)][/us/pl/107/326/s5/b/4], (5), Dec. 4, 2002, [116 Stat. 2795][/us/stat/116/2795]; [Pub. L. 108–186, title III, § 302(b)][/us/pl/108/186/s302/b], Dec. 16, 2003, [117 Stat. 2692][/us/stat/117/2692]; [Pub. L. 110–161, div. K, title II, § 221(1)][/us/pl/110/161/s221/1], Dec. 26, 2007, [121 Stat. 2436][/us/stat/121/2436].)
+([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title II, § 221, as added [Aug. 2, 1954, ch. 649][/us/act/1954-08-02/ch649], title I, § 123, [68 Stat. 599][/us/stat/68/599]; amended [Aug. 11, 1955, ch. 783][/us/act/1955-08-11/ch783], title I, § 102(c), (j), [69 Stat. 635][/us/stat/69/635]; [Aug. 7, 1956, ch. 1029][/us/act/1956-08-07/ch1029], title I, § 108, title III, § 307(c), [70 Stat. 1094][/us/stat/70/1094], 1102; [Pub. L. 85–104, title I][/us/pl/85/104/tI], § 112, July 12, 1957, [71 Stat. 297][/us/stat/71/297]; [Pub. L. 86–372, title I][/us/pl/86/372/tI], §§ 110(a)(1), (2), (b)–(e), 116(b), Sept. 23, 1959, [73 Stat. 658–661][/us/stat/73/658-661], 664; [Pub. L. 87–70, title I][/us/pl/87/70/tI], § 101(a), June 30, 1961, [75 Stat. 149][/us/stat/75/149]; [Pub. L. 88–54][/us/pl/88/54], June 29, 1963, [77 Stat. 73][/us/stat/77/73]; [Pub. L. 88–560, title I][/us/pl/88/560/tI], §§ 105(c)(2), 107(d), 114, title II, §§ 202, 203(b), Sept. 2, 1964, [78 Stat. 772][/us/stat/78/772], 775, 778, 783, 784; [Pub. L. 89–117, title I][/us/pl/89/117/tI], § 102(a), (b), title II, § 207(d), title XI, § 1108(i), Aug. 10, 1965, [79 Stat. 454][/us/stat/79/454], 467, 505; [Pub. L. 89–754, title III][/us/pl/89/754/tIII], §§ 307–310(c), Nov. 3, 1966, [80 Stat. 1268–1270][/us/stat/80/1268-1270]; [Pub. L. 89–769][/us/pl/89/769], § 4, Nov. 6, 1966, [80 Stat. 1317][/us/stat/80/1317]; [Pub. L. 90–19][/us/pl/90/19], § 1(a)(3), (4), May 25, 1967, [81 Stat. 17][/us/stat/81/17]; [Pub. L. 90–448, title I][/us/pl/90/448/tI], §§ 101(b), (c), 105, title III, §§ 305, 306, 311(b), 316, Aug. 1, 1968, [82 Stat. 483][/us/stat/82/483], 488, 508, 510, 512; [Pub. L. 91–78][/us/pl/91/78], § 2(c), Sept. 30, 1969, [83 Stat. 125][/us/stat/83/125]; [Pub. L. 91–152, title I][/us/pl/91/152/tI], §§ 101(c), 113(e), Dec. 24, 1969, [83 Stat. 379][/us/stat/83/379], 384; [Pub. L. 91–432][/us/pl/91/432], § 1(c), Oct. 2, 1970, [84 Stat. 887][/us/stat/84/887]; [Pub. L. 91–473][/us/pl/91/473], § 1(c), Oct. 21, 1970, [84 Stat. 1064][/us/stat/84/1064]; [Pub. L. 91–525][/us/pl/91/525], § 1(c), Dec. 1, 1970, [84 Stat. 1384][/us/stat/84/1384]; [Pub. L. 91–606, title III][/us/pl/91/606/tIII], § 301(d), Dec. 31, 1970, [84 Stat. 1758][/us/stat/84/1758]; [Pub. L. 91–609, title I][/us/pl/91/609/tI], §§ 101(c), 114(a), 114\[115\](a), Dec. 31, 1970, [84 Stat. 1770][/us/stat/84/1770], 1773; [Pub. L. 92–503][/us/pl/92/503], § 1(c), Oct. 18, 1972, [86 Stat. 906][/us/stat/86/906]; [Pub. L. 93–85][/us/pl/93/85], § 1(c), Aug. 10, 1973, [87 Stat. 220][/us/stat/87/220]; [Pub. L. 93–117][/us/pl/93/117], § 1(c), Oct. 2, 1973, [87 Stat. 421][/us/stat/87/421]; [Pub. L. 93–288, title VII][/us/pl/93/288/tVII], § 702(d), formerly title VI, § 602(d), May 22, 1974, [88 Stat. 163][/us/stat/88/163], renumbered title VII, § 702(d), [Pub. L. 103–337, div. C, title XXXIV][/us/pl/103/337/dC/tXXXIV], § 3411(a)(1), (2), Oct. 5, 1994, [108 Stat. 3100][/us/stat/108/3100]; [Pub. L. 93–383, title III][/us/pl/93/383/tIII], §§ 302(c), 303(d), (e), 304(e), 316(c), 319(a), Aug. 22, 1974, [88 Stat. 676–678][/us/stat/88/676-678], 685, 686; [Pub. L. 94–173][/us/pl/94/173], §§ 3, 4(a), Dec. 23, 1975, [89 Stat. 1027][/us/stat/89/1027]; [Pub. L. 94–375][/us/pl/94/375], §§ 3(d), 8(a), (b)(4), (5), Aug. 3, 1976, [90 Stat. 1069][/us/stat/90/1069], 1071, 1072; [Pub. L. 95–24, title I][/us/pl/95/24/tI], § 106, Apr. 30, 1977, [91 Stat. 56][/us/stat/91/56]; [Pub. L. 95–60][/us/pl/95/60], § 1(c), June 30, 1977, [91 Stat. 257][/us/stat/91/257]; [Pub. L. 95–80][/us/pl/95/80], § 1(c), July 31, 1977, [91 Stat. 339][/us/stat/91/339]; [Pub. L. 95–128, title III][/us/pl/95/128/tIII], §§ 301(c), 303(c), Oct. 12, 1977, [91 Stat. 1131][/us/stat/91/1131], 1132; [Pub. L. 95–406][/us/pl/95/406], § 1(c), Sept. 30, 1978, [92 Stat. 879][/us/stat/92/879]; [Pub. L. 95–557, title III][/us/pl/95/557/tIII], §§ 301(c), 325, Oct. 31, 1978, [92 Stat. 2096][/us/stat/92/2096], 2104; [Pub. L. 96–71][/us/pl/96/71], § 1(c), Sept. 28, 1979, [93 Stat. 501][/us/stat/93/501]; [Pub. L. 96–105][/us/pl/96/105], § 1(c), Nov. 8, 1979, [93 Stat. 794][/us/stat/93/794]; [Pub. L. 96–153, title III][/us/pl/96/153/tIII], §§ 301(c), 314, Dec. 21, 1979, [93 Stat. 1111][/us/stat/93/1111], 1117; [Pub. L. 96–372][/us/pl/96/372], § 1(c), Oct. 3, 1980, [94 Stat. 1363][/us/stat/94/1363]; [Pub. L. 96–399, title III][/us/pl/96/399/tIII], §§ 301(c), 310(d), 333(c), (d), Oct. 8, 1980, [94 Stat. 1638][/us/stat/94/1638], 1642, 1653; [Pub. L. 97–35, title III][/us/pl/97/35/tIII], §§ 331(c), 339B(a), Aug. 13, 1981, [95 Stat. 412][/us/stat/95/412], 417; [Pub. L. 97–253, title II][/us/pl/97/253/tII], § 201(d), Sept. 8, 1982, [96 Stat. 789][/us/stat/96/789]; [Pub. L. 97–289][/us/pl/97/289], § 1(c), Oct. 6, 1982, [96 Stat. 1230][/us/stat/96/1230]; [Pub. L. 97–377, title I][/us/pl/97/377/tI], § 101(g), Dec. 21, 1982, [96 Stat. 1908][/us/stat/96/1908]; [Pub. L. 98–35][/us/pl/98/35], § 1(c), May 26, 1983, [97 Stat. 197][/us/stat/97/197]; [Pub. L. 98–109][/us/pl/98/109], § 1(c), Oct. 1, 1983, [97 Stat. 745][/us/stat/97/745]; [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title IV, §§ 401(c), 404(b)(8), 408, 409, 423(b)(3), 432(b), (c), 446(d)\], Nov. 30, 1983, [97 Stat. 1207][/us/stat/97/1207], 1209, 1211, 1217, 1220, 1228; [Pub. L. 98–479, title II][/us/pl/98/479/tII], § 204(a)(6), Oct. 17, 1984, [98 Stat. 2232][/us/stat/98/2232]; [Pub. L. 99–120][/us/pl/99/120], § 1(c), Oct. 8, 1985, [99 Stat. 502][/us/stat/99/502]; [Pub. L. 99–156][/us/pl/99/156], § 1(c), Nov. 15, 1985, [99 Stat. 815][/us/stat/99/815]; [Pub. L. 99–219][/us/pl/99/219], § 1(c), Dec. 26, 1985, [99 Stat. 1730][/us/stat/99/1730]; [Pub. L. 99–267][/us/pl/99/267], § 1(c), Mar. 27, 1986, [100 Stat. 73][/us/stat/100/73]; [Pub. L. 99–272, title III][/us/pl/99/272/tIII], § 3007(c), Apr. 7, 1986, [100 Stat. 104][/us/stat/100/104]; [Pub. L. 99–289][/us/pl/99/289], § 1(b), May 2, 1986, [100 Stat. 412][/us/stat/100/412]; [Pub. L. 99–345][/us/pl/99/345], § 1, June 24, 1986, [100 Stat. 673][/us/stat/100/673]; [Pub. L. 99–430][/us/pl/99/430], Sept. 30, 1986, [100 Stat. 986][/us/stat/100/986]; [Pub. L. 100–122][/us/pl/100/122], § 1, Sept. 30, 1987, [101 Stat. 793][/us/stat/101/793]; [Pub. L. 100–154][/us/pl/100/154], Nov. 5, 1987, [101 Stat. 890][/us/stat/101/890]; [Pub. L. 100–170][/us/pl/100/170], Nov. 17, 1987, [101 Stat. 914][/us/stat/101/914]; [Pub. L. 100–179][/us/pl/100/179], Dec. 3, 1987, [101 Stat. 1018][/us/stat/101/1018]; [Pub. L. 100–200][/us/pl/100/200], Dec. 21, 1987, [101 Stat. 1327][/us/stat/101/1327]; [Pub. L. 100–242, title IV][/us/pl/100/242/tIV], §§ 401(a)(2), 406(b)(10)–(13), 426(d), (e), (h), Feb. 5, 1988, [101 Stat. 1898][/us/stat/101/1898], 1901, 1916; [Pub. L. 100–707, title I][/us/pl/100/707/tI], § 109(e)(3), Nov. 23, 1988, [102 Stat. 4708][/us/stat/102/4708]; [Pub. L. 101–508, title II][/us/pl/101/508/tII], § 2201, Nov. 5, 1990, [104 Stat. 1388–21][/us/stat/104/1388-21]; [Pub. L. 101–625, title VI][/us/pl/101/625/tVI], §§ 611(b)(2), 612(b), Nov. 28, 1990, [104 Stat. 4278][/us/stat/104/4278], 4279; [Pub. L. 102–550, title V][/us/pl/102/550/tV], §§ 509(d), (e), 516(d), title X, § 1012(l), Oct. 28, 1992, [106 Stat. 3783][/us/stat/106/3783], 3791, 3907; [Pub. L. 104–134, title I][/us/pl/104/134/tI], § 101(e) \[title II, § 219\], Apr. 26, 1996, [110 Stat. 1321–257][/us/stat/110/1321-257], 1321–290; renumbered title I, [Pub. L. 104–140][/us/pl/104/140], § 1(a), May 2, 1996, [110 Stat. 1327][/us/stat/110/1327]; [Pub. L. 105–276, title II][/us/pl/105/276/tII], § 222, Oct. 21, 1998, [112 Stat. 2489][/us/stat/112/2489]; [Pub. L. 106–377][/us/pl/106/377], § 1(a)(1) \[title II, § 209(b)\], Oct. 27, 2000, [114 Stat. 1441][/us/stat/114/1441], 1441A–25; [Pub. L. 107–73, title II][/us/pl/107/73/tII], § 213(d), (e), Nov. 26, 2001, [115 Stat. 676][/us/stat/115/676], 677; [Pub. L. 107–326][/us/pl/107/326], § 5(b)(4), (5), Dec. 4, 2002, [116 Stat. 2795][/us/stat/116/2795]; [Pub. L. 108–186, title III][/us/pl/108/186/tIII], § 302(b), Dec. 16, 2003, [117 Stat. 2692][/us/stat/117/2692]; [Pub. L. 110–161, div. K, title II][/us/pl/110/161/dK/tII], § 221(1), Dec. 26, 2007, [121 Stat. 2436][/us/stat/121/2436].)
 
  __References in Text__ 
 
     The General Insurance Fund, referred to in text, was established by [section 1735c of this title][/us/usc/t12/s1735c].
 
-    [Section 1720 of this title][/us/usc/t12/s1720], referred to in subsec. (d)(3)(ii)(II), (4)(ii)(II) was repealed by [Pub. L. 98–181, title I][/us/pl/98/181] \[title IV, § 483(a)\], Nov. 30, 1983, [97 Stat. 1240][/us/stat/97/1240].
+    [Section 1720 of this title][/us/usc/t12/s1720], referred to in subsec. (d)(3)(ii)(II), (4)(ii)(II) was repealed by [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title IV, § 483(a)\], Nov. 30, 1983, [97 Stat. 1240][/us/stat/97/1240].
 
-    The United States Housing Act of 1937, and “such act”, referred to in subsecs. (d)(3), (h)(5)(F), (6)(D), is [act Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], as revised generally by [Pub. L. 93–383, title II, § 201(a)][/us/pl/93/383/s201/a], Aug. 22, 1974, [88 Stat. 653][/us/stat/88/653], which is classified generally to chapter 8 (§ 1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1437 of Title 42][/us/usc/t42/s1437] and Tables.
+    The United States Housing Act of 1937, and “such act”, referred to in subsecs. (d)(3), (h)(5)(F), (6)(D), is [act Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], as revised generally by [Pub. L. 93–383, title II][/us/pl/93/383/tII], § 201(a), Aug. 22, 1974, [88 Stat. 653][/us/stat/88/653], which is classified generally to chapter 8 (§ 1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1437 of Title 42][/us/usc/t42/s1437] and Tables.
 
     Section 110 of the Housing Act of 1949 \[[42 U.S.C. 1460][/us/usc/t42/s1460]\], referred to in subsec. (d)(3)(iii), was omitted from the Code pursuant to [section 5316 of Title 42][/us/usc/t42/s5316], which terminated authority to make grants or loans under title I of that Act \[[42 U.S.C. 1450][/us/usc/t42/s1450] et seq.\] after Jan. 1, 1975.
 
     This chapter, referred to in subsec. (f), was in the original “this Act”, meaning [act June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], [48 Stat. 1246][/us/stat/48/1246], which is classified principally to this chapter (§ 1701 et seq.). For complete classification of this Act to the Code, see Tables.
 
-    [Section 1701q of this title][/us/usc/t12/s1701q], referred to in subsec. (f), was amended generally by [Pub. L. 101–625, title VIII, § 801(a)][/us/pl/101/625/s801/a], Nov. 28, 1990, [104 Stat. 4297][/us/stat/104/4297], and, as so amended, no longer contains provisions related to handicapped persons.
+    [Section 1701q of this title][/us/usc/t12/s1701q], referred to in subsec. (f), was amended generally by [Pub. L. 101–625, title VIII][/us/pl/101/625/tVIII], § 801(a), Nov. 28, 1990, [104 Stat. 4297][/us/stat/104/4297], and, as so amended, no longer contains provisions related to handicapped persons.
 
     The Disaster Relief and Emergency Assistance Act, referred to in subsec. (f), is [Pub. L. 93–288][/us/pl/93/288], May 22, 1974, [88 Stat. 143][/us/stat/88/143], as amended, known as the Robert T. Stafford Disaster Relief and Emergency Assistance Act, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of Title 42][/us/usc/t42/s5121] and Tables.
 
     Section 201 of the Housing and Community Development Amendments of 1978, referred to in subsec. (f), is [section 201 of Pub. L. 95–557][/us/pl/95/557/s201], title II, Oct. 31, 1978, [92 Stat. 2084][/us/stat/92/2084], as amended, which enacted [section 1715z–1a of this title][/us/usc/t12/s1715z–1a] and amended [section 1715z–1 of this title][/us/usc/t12/s1715z–1].
 
-    Subsection (h) of [section 1710 of this title][/us/usc/t12/s1710], referred to in subsec. (g)(1), was redesignated subsec. (i) by [Pub. L. 105–276, title VI, § 602(1)][/us/pl/105/276/s602/1], Oct. 21, 1998, [112 Stat. 2674][/us/stat/112/2674].
+    Subsection (h) of [section 1710 of this title][/us/usc/t12/s1710], referred to in subsec. (g)(1), was redesignated subsec. (i) by [Pub. L. 105–276, title VI][/us/pl/105/276/tVI], § 602(1), Oct. 21, 1998, [112 Stat. 2674][/us/stat/112/2674].
 
-    Subsection (k) of [section 1710 of this title][/us/usc/t12/s1710], referred to in subsec. (g)(1), was repealed by [Pub. L. 105–276, title VI, § 601(c)][/us/pl/105/276/s601/c], Oct. 21, 1998, [112 Stat. 2673][/us/stat/112/2673].
+    Subsection (k) of [section 1710 of this title][/us/usc/t12/s1710], referred to in subsec. (g)(1), was repealed by [Pub. L. 105–276, title VI][/us/pl/105/276/tVI], § 601(c), Oct. 21, 1998, [112 Stat. 2673][/us/stat/112/2673].
 
     The Emergency Low Income Housing Preservation Act of 1987, referred to in subsec. (g)(4)(C), is title II of [Pub. L. 100–242][/us/pl/100/242], Feb. 5, 1988, [101 Stat. 1877][/us/stat/101/1877], which, as amended by [Pub. L. 101–625][/us/pl/101/625], is known as the Low-Income Housing Preservation and Resident Homeownership Act of 1990. Subtitles A and B of title II, which were formerly set out as a note under this section and which amended [section 1715z–6 of this title][/us/usc/t12/s1715z–6], were amended generally by [Pub. L. 101–625][/us/pl/101/625] and are classified to subchapter I (§ 4101 et seq.) of chapter 42 of this title. Subtitles C and D of title II amended [section 1715z–15 of this title][/us/usc/t12/s1715z–15] and sections 1437f, 1472, 1485, and 1487 of Title 42, The Public Health and Welfare. Another subtitle C of title II of [Pub. L. 100–242][/us/pl/100/242], as added by [Pub. L. 102–550][/us/pl/102/550], is classified generally to subchapter II (§ 4141 et seq.) of chapter 42 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4101 of this title][/us/usc/t12/s4101] and Tables.
 
@@ -297,57 +297,57 @@
 
     2003—Subsec. (d)(3)(ii)(II), (4)(ii)(II). [Pub. L. 108–186][/us/pl/108/186] substituted “140 percent in” for “110 percent in” and inserted “, or 170 percent in high cost areas,” after “and by not to exceed 140 percent”.
 
-    2002—Subsec. (d)(3)(ii). [Pub. L. 107–326, § 5(b)(4)][/us/pl/107/326/s5/b/4], inserted “(I)” after “(ii)” and substituted “; (II) the Secretary may, by regulation, increase any of the dollar amount limitations in subclause (I) (as such limitations may have been adjusted in accordance with [section 1712a of this title][/us/usc/t12/s1712a])” for “; and except that the Secretary may, by regulation, increase any of the foregoing dollar amount limitations contained in this clause”.
+    2002—Subsec. (d)(3)(ii). [Pub. L. 107–326][/us/pl/107/326], § 5(b)(4), inserted “(I)” after “(ii)” and substituted “; (II) the Secretary may, by regulation, increase any of the dollar amount limitations in subclause (I) (as such limitations may have been adjusted in accordance with [section 1712a of this title][/us/usc/t12/s1712a])” for “; and except that the Secretary may, by regulation, increase any of the foregoing dollar amount limitations contained in this clause”.
 
-    Subsec. (d)(4)(ii). [Pub. L. 107–326, § 5(b)(5)][/us/pl/107/326/s5/b/5], inserted “(I)” after “(ii)” and substituted “; (II) the Secretary may, by regulation, increase any of the dollar limitations in subclause (I) (as such limitations may have been adjusted in accordance with [section 1712a of this title][/us/usc/t12/s1712a])” for “; and except that the Secretary may, by regulation, increase any of the foregoing dollar amount limitations contained in this clause”.
+    Subsec. (d)(4)(ii). [Pub. L. 107–326][/us/pl/107/326], § 5(b)(5), inserted “(I)” after “(ii)” and substituted “; (II) the Secretary may, by regulation, increase any of the dollar limitations in subclause (I) (as such limitations may have been adjusted in accordance with [section 1712a of this title][/us/usc/t12/s1712a])” for “; and except that the Secretary may, by regulation, increase any of the foregoing dollar amount limitations contained in this clause”.
 
-    2001—Subsec. (d)(3)(ii). [Pub. L. 107–73, § 213(d)][/us/pl/107/73/s213/d], substituted “$42,048”, “$48,481”, “58,469”, “$74,840”, and “$83,375” for “$33,638”, “$38,785”, “$46,775”, “$59,872”, and “$66,700”, respectively, and “$44,250”, “$50,724”, “$61,680”, “$79,793”, and “$87,588” for “$35,400”, “$40,579”, “$49,344”, “$63,834”, and “$70,070”, respectively.
+    2001—Subsec. (d)(3)(ii). [Pub. L. 107–73][/us/pl/107/73], § 213(d), substituted “$42,048”, “$48,481”, “58,469”, “$74,840”, and “$83,375” for “$33,638”, “$38,785”, “$46,775”, “$59,872”, and “$66,700”, respectively, and “$44,250”, “$50,724”, “$61,680”, “$79,793”, and “$87,588” for “$35,400”, “$40,579”, “$49,344”, “$63,834”, and “$70,070”, respectively.
 
-    Subsec. (d)(4)(ii). [Pub. L. 107–73, § 213(e)][/us/pl/107/73/s213/e], substituted “$37,843”, “$42,954”, “$51,920”, “$65,169”, and “$73,846” for “$30,274”, “$34,363”, “$41,536”, “$52,135”, and “$59,077”, respectively, and “$40,876”, “$46,859”, “$56,979”, “$73,710”, and “$80,913” for “$32,701”, “$37,487”, “$45,583”, “$58,968”, and “$64,730”, respectively.
+    Subsec. (d)(4)(ii). [Pub. L. 107–73][/us/pl/107/73], § 213(e), substituted “$37,843”, “$42,954”, “$51,920”, “$65,169”, and “$73,846” for “$30,274”, “$34,363”, “$41,536”, “$52,135”, and “$59,077”, respectively, and “$40,876”, “$46,859”, “$56,979”, “$73,710”, and “$80,913” for “$32,701”, “$37,487”, “$45,583”, “$58,968”, and “$64,730”, respectively.
 
     2000—Subsec. (g)(4)(C)(viii). [Pub. L. 106–377][/us/pl/106/377] inserted “, except that this subparagraph shall continue to apply if the Secretary receives a mortgagee’s written notice of intent to assign its mortgage to the Secretary on or before such date” after “December 31, 2002”.
 
-    1998—Subsec. (g)(4)(C)(viii). [Pub. L. 105–276, § 222(1)][/us/pl/105/276/s222/1], substituted “December 31, 2002” for “September 30, 1996” in first sentence.
+    1998—Subsec. (g)(4)(C)(viii). [Pub. L. 105–276][/us/pl/105/276], § 222(1), substituted “December 31, 2002” for “September 30, 1996” in first sentence.
 
-    Subsec. (g)(4)(C)(ix). [Pub. L. 105–276, § 222(2)][/us/pl/105/276/s222/2], added cl. (ix).
+    Subsec. (g)(4)(C)(ix). [Pub. L. 105–276][/us/pl/105/276], § 222(2), added cl. (ix).
 
     1996—Subsec. (g)(4)(C)(viii). [Pub. L. 104–134][/us/pl/104/134] substituted “1996” for “1995” in first sentence.
 
-    1992—Subsec. (d)(3)(ii). [Pub. L. 102–550, § 509(d)][/us/pl/102/550/s509/d], substituted “$33,638”, “$38,785”, “$46,775”, “$59,872”, “$66,700”, “$35,400”, “$40,579”, “$49,344”, “$63,834”, and “$70,070” for “$28,032”, “$32,321”, “$38,979”, “$49,893”, “$55,583”, “$29,500”, “$33,816”, “$41,120”, “$53,195”, and “$58,392”, respectively.
+    1992—Subsec. (d)(3)(ii). [Pub. L. 102–550][/us/pl/102/550], § 509(d), substituted “$33,638”, “$38,785”, “$46,775”, “$59,872”, “$66,700”, “$35,400”, “$40,579”, “$49,344”, “$63,834”, and “$70,070” for “$28,032”, “$32,321”, “$38,979”, “$49,893”, “$55,583”, “$29,500”, “$33,816”, “$41,120”, “$53,195”, and “$58,392”, respectively.
 
-    Subsec. (d)(4)(ii). [Pub. L. 102–550, § 509(e)][/us/pl/102/550/s509/e], substituted “$30,274”, “$34,363”, “$41,536”, “$52,135”, “$59,077”, “$32,701”, “$37,487”, “$45,583”, “$58,968”, and “$64,730” for “$25,228”, “$28,636”, “$34,613”, “$43,446”, “$49,231”, “$27,251”, “$31,239”, “$37,986”, “$49,140”, and “$53,942”, respectively.
+    Subsec. (d)(4)(ii). [Pub. L. 102–550][/us/pl/102/550], § 509(e), substituted “$30,274”, “$34,363”, “$41,536”, “$52,135”, “$59,077”, “$32,701”, “$37,487”, “$45,583”, “$58,968”, and “$64,730” for “$25,228”, “$28,636”, “$34,613”, “$43,446”, “$49,231”, “$27,251”, “$31,239”, “$37,986”, “$49,140”, and “$53,942”, respectively.
 
-    Subsec. (d)(4)(iv). [Pub. L. 102–550, § 1012][/us/pl/102/550/s1012](l), inserted “(including the cost of evaluating and reducing lead-based paint hazards, as such terms are defined in [section 4851b of title 42][/us/usc/t42/s4851b])” after “cost of repair and rehabilitation”.
+    Subsec. (d)(4)(iv). [Pub. L. 102–550][/us/pl/102/550], § 1012(l), inserted “(including the cost of evaluating and reducing lead-based paint hazards, as such terms are defined in [section 4851b of title 42][/us/usc/t42/s4851b])” after “cost of repair and rehabilitation”.
 
-    Subsec. (g)(4)(A). [Pub. L. 102–550, § 516(d)][/us/pl/102/550/s516/d], which directed substitution of “issue to the mortgagee debentures having a par value” for “, subject to the cash adjustment provided herein, issue to the mortgagee debentures having total face value”, was executed to text which read “having a total face value” instead of “having total face value”, to reflect the probable intent of Congress.
+    Subsec. (g)(4)(A). [Pub. L. 102–550][/us/pl/102/550], § 516(d), which directed substitution of “issue to the mortgagee debentures having a par value” for “, subject to the cash adjustment provided herein, issue to the mortgagee debentures having total face value”, was executed to text which read “having a total face value” instead of “having total face value”, to reflect the probable intent of Congress.
 
-    1990—Subsec. (f). [Pub. L. 101–625, § 611(b)(2)][/us/pl/101/625/s611/b/2], added fourth undesignated paragraph relating to authority of Secretary in establishing rental charges for project covered by mortgage bearing below market interest rate prescribed in proviso to subsec. (d)(3) of this section to include an amount that would permit return of advances to owner.
+    1990—Subsec. (f). [Pub. L. 101–625][/us/pl/101/625], § 611(b)(2), added fourth undesignated paragraph relating to authority of Secretary in establishing rental charges for project covered by mortgage bearing below market interest rate prescribed in proviso to subsec. (d)(3) of this section to include an amount that would permit return of advances to owner.
 
     Subsec. (g)(4)(C). [Pub. L. 101–508][/us/pl/101/508] added subpar. (C).
 
-    Subsec. (l). [Pub. L. 101–625, § 612(b)][/us/pl/101/625/s612/b], added subsec. (l).
+    Subsec. (l). [Pub. L. 101–625][/us/pl/101/625], § 612(b), added subsec. (l).
 
-    1988—Subsec. (d)(2). [Pub. L. 100–242, § 406(b)(10)(A)][/us/pl/100/242/s406/b/10/A], substituted “residence, except that the Secretary” for “residence: Provided, That a mortgage secured by property upon which there is located a dwelling designed principally for a two-, three-, or four-family residence shall not be insured under this section except in the case of a dwelling for occupancy by the mortgagor: Provided further, That the Secretary”.
+    1988—Subsec. (d)(2). [Pub. L. 100–242][/us/pl/100/242], § 406(b)(10)(A), substituted “residence, except that the Secretary” for “residence: Provided, That a mortgage secured by property upon which there is located a dwelling designed principally for a two-, three-, or four-family residence shall not be insured under this section except in the case of a dwelling for occupancy by the mortgagor: Provided further, That the Secretary”.
 
-    [Pub. L. 100–242, § 406(b)(10)(B)][/us/pl/100/242/s406/b/10/B], which directed that par. (2) be amended by striking out “Provided, That (i)” and all that follows through “(1) in” and inserting “Provided, That (i)(1) in”, was executed by substituting “Provided, That (i)(1) in the case of a displaced family” for “Provided further, That (i) if the mortgagor is the owner and an occupant of the property at the time of insurance, (1) in the case of a displaced family”, to reflect the probable intent of Congress and the fact that the provision being struck out began with “Provided further” rather than “Provided”.
+    [Pub. L. 100–242][/us/pl/100/242], § 406(b)(10)(B), which directed that par. (2) be amended by striking out “Provided, That (i)” and all that follows through “(1) in” and inserting “Provided, That (i)(1) in”, was executed by substituting “Provided, That (i)(1) in the case of a displaced family” for “Provided further, That (i) if the mortgagor is the owner and an occupant of the property at the time of insurance, (1) in the case of a displaced family”, to reflect the probable intent of Congress and the fact that the provision being struck out began with “Provided further” rather than “Provided”.
 
-    [Pub. L. 100–242, § 406(b)(10)(C)][/us/pl/100/242/s406/b/10/C], struck out “Provided further, That nothing contained herein shall preclude the Secretary from issuing a commitment to insure, and insuring a mortgage pursuant thereto, where the mortgagor is not the owner and an occupant of the property, if the property is to be built or acquired and repaired or rehabilitated for sale, and the insured mortgage financing is required to facilitate the construction, or the repair or rehabilitation, of the dwelling and to provide financing pending the subsequent sale thereof to a qualified owner who is also an occupant thereof, but in such instances the mortgage shall not exceed 85 per centum of the appraised value:”.
+    [Pub. L. 100–242][/us/pl/100/242], § 406(b)(10)(C), struck out “Provided further, That nothing contained herein shall preclude the Secretary from issuing a commitment to insure, and insuring a mortgage pursuant thereto, where the mortgagor is not the owner and an occupant of the property, if the property is to be built or acquired and repaired or rehabilitated for sale, and the insured mortgage financing is required to facilitate the construction, or the repair or rehabilitation, of the dwelling and to provide financing pending the subsequent sale thereof to a qualified owner who is also an occupant thereof, but in such instances the mortgage shall not exceed 85 per centum of the appraised value:”.
 
-    [Pub. L. 100–242, § 406(b)(10)(D)][/us/pl/100/242/s406/b/10/D], which directed that par. (2) be amended in last proviso by substituting “That the mortgagor shall” for “That, if the mortgagor is the owner and an occupant of the property such mortgagor shall”, was executed by substituting “That the mortgagor shall” for “That, if the mortgagor is the owner and an occupant of the property, such mortgagor shall”, to reflect the probable intent of Congress and the fact that a comma appears before “such” in provisions being struck out.
+    [Pub. L. 100–242][/us/pl/100/242], § 406(b)(10)(D), which directed that par. (2) be amended in last proviso by substituting “That the mortgagor shall” for “That, if the mortgagor is the owner and an occupant of the property such mortgagor shall”, was executed by substituting “That the mortgagor shall” for “That, if the mortgagor is the owner and an occupant of the property, such mortgagor shall”, to reflect the probable intent of Congress and the fact that a comma appears before “such” in provisions being struck out.
 
-    Subsec. (d)(3)(ii). [Pub. L. 100–242, § 426(d)][/us/pl/100/242/s426/d], substituted “$28,032”, “$38,979”, “$49,893”, “$55,583”, “$29,500”, “$33,816”, “$41,120”, “$53,195”, and “$58,392” for “$21,563”, “$29,984”, “$38,379”, “$42,756, “$22,692”, “$26,012”, “$31,631”, “$40,919”, and “$44,917”, respectively.
+    Subsec. (d)(3)(ii). [Pub. L. 100–242][/us/pl/100/242], § 426(d), substituted “$28,032”, “$38,979”, “$49,893”, “$55,583”, “$29,500”, “$33,816”, “$41,120”, “$53,195”, and “$58,392” for “$21,563”, “$29,984”, “$38,379”, “$42,756, “$22,692”, “$26,012”, “$31,631”, “$40,919”, and “$44,917”, respectively.
 
-    [Pub. L. 100–242, § 426(d)][/us/pl/100/242/s426/d], which directed that cl. (ii) be amended by substituting “$32,321” for “$24,862”, was executed by substituting “$32,321” for “$24,662” to reflect the probable intent of Congress.
+    [Pub. L. 100–242][/us/pl/100/242], § 426(d), which directed that cl. (ii) be amended by substituting “$32,321” for “$24,862”, was executed by substituting “$32,321” for “$24,662” to reflect the probable intent of Congress.
 
-    [Pub. L. 100–242, § 426(h)][/us/pl/100/242/s426/h], substituted “not to exceed 110 percent in any geographical area where the Secretary finds that cost levels so require and by not to exceed 140 percent where the Secretary determines it necessary on a project-by-project basis, but in no case may any such increase exceed 90 percent where the Secretary determines that a mortgage purchased or to be purchased by the Government National Mortgage Association in implementing its special assistance functions under [section 1720 of this title][/us/usc/t12/s1720] (as such section existed immediately before November 30, 1983) is involved” for “not to exceed 75 per centum in any geographical area where he finds that cost levels so require, except that, where the Secretary determines it necessary on a proj­ect by project basis, the foregoing dollar amount limitations contained in this paragraph may be exceeded by not to exceed 90 per centum (by not to exceed 140 per centum where the Secretary determines that a mortgage other than one purchased or to be purchased under [section 1720 of this title][/us/usc/t12/s1720] by the Government National Mortgage Association in implementing its special assistance functions is involved) in such an area”.
+    [Pub. L. 100–242][/us/pl/100/242], § 426(h), substituted “not to exceed 110 percent in any geographical area where the Secretary finds that cost levels so require and by not to exceed 140 percent where the Secretary determines it necessary on a project-by-project basis, but in no case may any such increase exceed 90 percent where the Secretary determines that a mortgage purchased or to be purchased by the Government National Mortgage Association in implementing its special assistance functions under [section 1720 of this title][/us/usc/t12/s1720] (as such section existed immediately before November 30, 1983) is involved” for “not to exceed 75 per centum in any geographical area where he finds that cost levels so require, except that, where the Secretary determines it necessary on a proj­ect by project basis, the foregoing dollar amount limitations contained in this paragraph may be exceeded by not to exceed 90 per centum (by not to exceed 140 per centum where the Secretary determines that a mortgage other than one purchased or to be purchased under [section 1720 of this title][/us/usc/t12/s1720] by the Government National Mortgage Association in implementing its special assistance functions is involved) in such an area”.
 
-    Subsec. (d)(4)(ii). [Pub. L. 100–242, § 426(e)][/us/pl/100/242/s426/e], (h), substituted “$25,228”, “$28,636”, “$34,613”, “$43,446”, “$49,231”, “$27,251”, “$31,239”, “$37,986”, “$49,140”, and “$53,942” for “$19,406”, “$22,028”, “$26,625”, “$33,420”, “$37,870”, “$20,962”, “$24,030”, “$29,220”, “$37,800”, and “$41,494”, respectively, and substituted “not to exceed 110 percent in any geographical area where the Secretary finds that cost levels so require and by not to exceed 140 percent where the Secretary determines it necessary on a project-by-project basis, but in no case may any such increase exceed 90 percent where the Secretary determines that a mortgage purchased or to be purchased by the Government National Mortgage Association in implementing its special assistance functions under [section 1720 of this title][/us/usc/t12/s1720] (as such section existed immediately before November 30, 1983) is involved” for “not to exceed 75 per centum in any geographical area where he finds that cost levels so require, except that, where the Secretary determines it necessary on a project by project basis, the foregoing dollar amount limitations contained in this paragraph may be exceeded by not to exceed 90 per centum (by not to exceed 140 per centum where the Secretary determines that a mortgage other than one purchased or to be purchased under [section 1720 of this title][/us/usc/t12/s1720] by the Government National Mortgage Association in implementing its special assistance functions is involved) in such an area”.
+    Subsec. (d)(4)(ii). [Pub. L. 100–242][/us/pl/100/242], § 426(e), (h), substituted “$25,228”, “$28,636”, “$34,613”, “$43,446”, “$49,231”, “$27,251”, “$31,239”, “$37,986”, “$49,140”, and “$53,942” for “$19,406”, “$22,028”, “$26,625”, “$33,420”, “$37,870”, “$20,962”, “$24,030”, “$29,220”, “$37,800”, and “$41,494”, respectively, and substituted “not to exceed 110 percent in any geographical area where the Secretary finds that cost levels so require and by not to exceed 140 percent where the Secretary determines it necessary on a project-by-project basis, but in no case may any such increase exceed 90 percent where the Secretary determines that a mortgage purchased or to be purchased by the Government National Mortgage Association in implementing its special assistance functions under [section 1720 of this title][/us/usc/t12/s1720] (as such section existed immediately before November 30, 1983) is involved” for “not to exceed 75 per centum in any geographical area where he finds that cost levels so require, except that, where the Secretary determines it necessary on a project by project basis, the foregoing dollar amount limitations contained in this paragraph may be exceeded by not to exceed 90 per centum (by not to exceed 140 per centum where the Secretary determines that a mortgage other than one purchased or to be purchased under [section 1720 of this title][/us/usc/t12/s1720] by the Government National Mortgage Association in implementing its special assistance functions is involved) in such an area”.
 
-    Subsec. (d)(6)(ii). [Pub. L. 100–242, § 406(b)(11)][/us/pl/100/242/s406/b/11], struck out “is an owner-occupant of the property and” after “where the mortgagor”.
+    Subsec. (d)(6)(ii). [Pub. L. 100–242][/us/pl/100/242], § 406(b)(11), struck out “is an owner-occupant of the property and” after “where the mortgagor”.
 
     Subsec. (f). [Pub. L. 100–707][/us/pl/100/707] substituted “and Emergency Assistance Act” for “Act of 1974”.
 
-    [Pub. L. 100–242, § 401(a)(2)][/us/pl/100/242/s401/a/2], struck out “No mortgage shall be insured under this section after March 15, 1988, except pursuant to a commitment to insure before that date, or except a mortgage covering property which the Secretary finds will assist in the provision of housing for displaced families.”
+    [Pub. L. 100–242][/us/pl/100/242], § 401(a)(2), struck out “No mortgage shall be insured under this section after March 15, 1988, except pursuant to a commitment to insure before that date, or except a mortgage covering property which the Secretary finds will assist in the provision of housing for displaced families.”
 
     [Pub. L. 100–200][/us/pl/100/200] substituted “March 15, 1988” for “December 16, 1987”.
 
@@ -359,9 +359,9 @@
 
     [Pub. L. 100–122][/us/pl/100/122] substituted “October 31, 1987” for “September 30, 1987”.
 
-    Subsec. (h)(6). [Pub. L. 100–242, § 406(b)(12)][/us/pl/100/242/s406/b/12], struck out “and occupied” after “or row construction that are owned” in introductory provisions.
+    Subsec. (h)(6). [Pub. L. 100–242][/us/pl/100/242], § 406(b)(12), struck out “and occupied” after “or row construction that are owned” in introductory provisions.
 
-    Subsec. (h)(8). [Pub. L. 100–242, § 406(b)(13)][/us/pl/100/242/s406/b/13], struck out “if one of the units is to be occupied by the owner” after “approved by the Secretary”.
+    Subsec. (h)(8). [Pub. L. 100–242][/us/pl/100/242], § 406(b)(13), struck out “if one of the units is to be occupied by the owner” after “approved by the Secretary”.
 
     1986—Subsec. (f). [Pub. L. 99–430][/us/pl/99/430] substituted “September 30, 1987” for “September 30, 1986”.
 
@@ -381,17 +381,17 @@
 
     1984—Subsec. (d)(3)(iii). [Pub. L. 98–479][/us/pl/98/479] substituted “rehabilitated” for “rehabilited” before “by a local public agency”.
 
-    1983—Subsec. (d)(2)(A). [Pub. L. 98–181, § 423(b)(3)][/us/pl/98/181/s423/b/3], struck out “: Provided further, That the foregoing maximum mortgage amounts may be increased by the amount of the mortgage insurance premium paid at the time the mortgage is insured” before “; and (B)”.
+    1983—Subsec. (d)(2)(A). [Pub. L. 98–181][/us/pl/98/181], § 423(b)(3), struck out “: Provided further, That the foregoing maximum mortgage amounts may be increased by the amount of the mortgage insurance premium paid at the time the mortgage is insured” before “; and (B)”.
 
-    Subsec. (d)(3)(iii). [Pub. L. 98–181, § 432(b)][/us/pl/98/181/s432/b], struck out proviso that in no case involving refinancing would the mortgage exceed the estimated cost of repair and rehabilitation and the amount, as determined by the Secretary, required to refinance existing indebtedness secured by the property or project, and substituted “Provided, That” for “Provided further, That”.
+    Subsec. (d)(3)(iii). [Pub. L. 98–181][/us/pl/98/181], § 432(b), struck out proviso that in no case involving refinancing would the mortgage exceed the estimated cost of repair and rehabilitation and the amount, as determined by the Secretary, required to refinance existing indebtedness secured by the property or project, and substituted “Provided, That” for “Provided further, That”.
 
-    Subsec. (d)(4)(iv). [Pub. L. 98–181, § 432(c)][/us/pl/98/181/s432/c], struck out proviso that in no case involving refinancing would the mortgage exceed the estimated cost of repair and rehabilitation and the amount, as determined by the Secretary, required to refinance existing indebtedness secured by the property or project, and substituted “Provided, That” for “Provided further, That”.
+    Subsec. (d)(4)(iv). [Pub. L. 98–181][/us/pl/98/181], § 432(c), struck out proviso that in no case involving refinancing would the mortgage exceed the estimated cost of repair and rehabilitation and the amount, as determined by the Secretary, required to refinance existing indebtedness secured by the property or project, and substituted “Provided, That” for “Provided further, That”.
 
-    Subsec. (d)(5). [Pub. L. 98–181, § 404(b)(8)][/us/pl/98/181/s404/b/8], substituted “at such rate as may be agreed upon by the mortgagor and the mortgagee” for “(exclusive of premium charges for insurance and service charge, if any) at not to exceed 5 per centum per annum on the amount of the principal obligation outstanding at any time, or not to exceed such per centum per annum not in excess of 6 per centum as the Secretary finds necessary to meet the mortgage market”.
+    Subsec. (d)(5). [Pub. L. 98–181][/us/pl/98/181], § 404(b)(8), substituted “at such rate as may be agreed upon by the mortgagor and the mortgagee” for “(exclusive of premium charges for insurance and service charge, if any) at not to exceed 5 per centum per annum on the amount of the principal obligation outstanding at any time, or not to exceed such per centum per annum not in excess of 6 per centum as the Secretary finds necessary to meet the mortgage market”.
 
-    Subsec. (d)(6). [Pub. L. 98–181, § 446(d)][/us/pl/98/181/s446/d], inserted “(unless otherwise approved by the Secretary)” after “periodic payments”.
+    Subsec. (d)(6). [Pub. L. 98–181][/us/pl/98/181], § 446(d), inserted “(unless otherwise approved by the Secretary)” after “periodic payments”.
 
-    Subsec. (f). [Pub. L. 98–181, § 401(c)][/us/pl/98/181/s401/c], substituted “September 30, 1985” for “November 30, 1983”.
+    Subsec. (f). [Pub. L. 98–181][/us/pl/98/181], § 401(c), substituted “September 30, 1985” for “November 30, 1983”.
 
     [Pub. L. 98–109][/us/pl/98/109] substituted “November 30, 1983” for “September 30, 1983”.
 
@@ -399,11 +399,11 @@
 
     Subsec. (g)(4)(A). [Pub. L. 98–181][/us/pl/98/181], §§ 408, 409, designated existing provision as subpar. (A) and inserted “pursuant to a commitment to insure entered into before November 30, 1983,” after “this section”.
 
-    Subsec. (g)(4)(B). [Pub. L. 98–181, § 408][/us/pl/98/181/s408], added subpar. (B).
+    Subsec. (g)(4)(B). [Pub. L. 98–181][/us/pl/98/181], § 408, added subpar. (B).
 
-    1982—Subsec. (d)(2)(A). [Pub. L. 97–253, § 201(d)(1)][/us/pl/97/253/s201/d/1], inserted provision that the foregoing maximum mortgage amounts may be increased by the amount of the mortgage insurance premium paid at the time the mortgage is insured.
+    1982—Subsec. (d)(2)(A). [Pub. L. 97–253][/us/pl/97/253], § 201(d)(1), inserted provision that the foregoing maximum mortgage amounts may be increased by the amount of the mortgage insurance premium paid at the time the mortgage is insured.
 
-    Subsec. (d)(2)(B)(i)(2). [Pub. L. 97–253, § 201(d)(2)][/us/pl/97/253/s201/d/2], (3), inserted “(excluding the mortgage insurance premium paid at the time the mortgage is insured)” after “of its acquisition cost” and struck out “mortgage insurance premium,” after “hazard insurance,”.
+    Subsec. (d)(2)(B)(i)(2). [Pub. L. 97–253][/us/pl/97/253], § 201(d)(2), (3), inserted “(excluding the mortgage insurance premium paid at the time the mortgage is insured)” after “of its acquisition cost” and struck out “mortgage insurance premium,” after “hazard insurance,”.
 
     Subsec. (d)(3)(ii). [Pub. L. 97–377][/us/pl/97/377] inserted “(by not to exceed 140 per centum where the Secretary determines that a mortgage other than one purchased or to be purchased under [section 1720 of this title][/us/usc/t12/s1720] by the Government National Mortgage Association in implementing its special assistance functions is involved)” after “90 per centum”.
 
@@ -411,23 +411,23 @@
 
     Subsec. (f). [Pub. L. 97–289][/us/pl/97/289] substituted “May 20, 1983” for “September 30, 1982”.
 
-    1981—Subsec. (f). [Pub. L. 97–35, § 331(c)][/us/pl/97/35/s331/c], substituted “1982” for “1981”.
+    1981—Subsec. (f). [Pub. L. 97–35][/us/pl/97/35], § 331(c), substituted “1982” for “1981”.
 
-    Subsec. (k). [Pub. L. 97–35, § 339B(a)][/us/pl/97/35/s339B/a], inserted “therein” after “installation” and struck out “therein” after “measure”.
+    Subsec. (k). [Pub. L. 97–35][/us/pl/97/35], § 339B(a), inserted “therein” after “installation” and struck out “therein” after “measure”.
 
-    1980—Subsec. (d)(6). [Pub. L. 96–399, § 333(c)][/us/pl/96/399/s333/c], struck out proviso relating to maturity of a mortgage insured under subsection (d)(2) of this section.
+    1980—Subsec. (d)(6). [Pub. L. 96–399][/us/pl/96/399], § 333(c), struck out proviso relating to maturity of a mortgage insured under subsection (d)(2) of this section.
 
-    Subsec. (f). [Pub. L. 96–399, § 301(c)][/us/pl/96/399/s301/c], substituted “September 30, 1981” for “October 15, 1980”.
+    Subsec. (f). [Pub. L. 96–399][/us/pl/96/399], § 301(c), substituted “September 30, 1981” for “October 15, 1980”.
 
     [Pub. L. 96–372][/us/pl/96/372] substituted “October 15, 1980” for “September 30, 1980”.
 
-    Subsec. (i)(2)(A)(iv). [Pub. L. 96–399, § 333(d)][/us/pl/96/399/s333/d], struck out applicability to determinations of lesser amount, if so determined, of three-quarters of the Secretary’s estimate of the remaining economic life of the building improvements.
+    Subsec. (i)(2)(A)(iv). [Pub. L. 96–399][/us/pl/96/399], § 333(d), struck out applicability to determinations of lesser amount, if so determined, of three-quarters of the Secretary’s estimate of the remaining economic life of the building improvements.
 
-    Subsec. (k). [Pub. L. 96–399, § 310(d)][/us/pl/96/399/s310/d], added subsec. (k).
+    Subsec. (k). [Pub. L. 96–399][/us/pl/96/399], § 310(d), added subsec. (k).
 
-    1979—Subsec. (d)(3)(ii). [Pub. L. 96–153, § 314][/us/pl/96/153/s314], substituted “75 per centum” for “50 per centum” and inserted exception that the dollar amount limitations may be exceeded not to exceed 90 per centum where the Secretary determines it to be necessary.
+    1979—Subsec. (d)(3)(ii). [Pub. L. 96–153][/us/pl/96/153], § 314, substituted “75 per centum” for “50 per centum” and inserted exception that the dollar amount limitations may be exceeded not to exceed 90 per centum where the Secretary determines it to be necessary.
 
-    Subsec. (d)(4)(ii). [Pub. L. 96–153, § 314][/us/pl/96/153/s314], substituted “75 per centum” for “50 per centum” and inserted exception that the dollar amount limitations may be exceeded by not to exceed 90 per centum where the Secretary determines it to be necessary.
+    Subsec. (d)(4)(ii). [Pub. L. 96–153][/us/pl/96/153], § 314, substituted “75 per centum” for “50 per centum” and inserted exception that the dollar amount limitations may be exceeded by not to exceed 90 per centum where the Secretary determines it to be necessary.
 
     Subsec. (f). [Pub. L. 96–153][/us/pl/96/153] substituted “September 30, 1980” for “November 30, 1979”.
 
@@ -435,49 +435,49 @@
 
     [Pub. L. 96–71][/us/pl/96/71] substituted “October 31, 1979” for “September 30, 1979”.
 
-    1978—Subsec. (d)(3)(ii). [Pub. L. 95–557, § 325(a)][/us/pl/95/557/s325/a], substituted “$21,563”, “$24,662”, “$29,984”, “$38,379”, and “$42,756” for “$16,860”, “$18,648”, “$22,356”, “$28,152” and “$31,884”, respectively, and “$22,692”, “$26,012”, “$31,631”, “$40,919”, and “$44,917” for “$19,680”, “$22,356”, “$26,496”, “$33,120”, and “$38,400”, respectively.
+    1978—Subsec. (d)(3)(ii). [Pub. L. 95–557][/us/pl/95/557], § 325(a), substituted “$21,563”, “$24,662”, “$29,984”, “$38,379”, and “$42,756” for “$16,860”, “$18,648”, “$22,356”, “$28,152” and “$31,884”, respectively, and “$22,692”, “$26,012”, “$31,631”, “$40,919”, and “$44,917” for “$19,680”, “$22,356”, “$26,496”, “$33,120”, and “$38,400”, respectively.
 
-    Subsec. (d)(4)(ii). [Pub. L. 95–557, § 325(b)][/us/pl/95/557/s325/b], substituted “$19,406”, “$22,028”, “$26,625”, “$33,420”, and “$37,870” for “$18,450”, “$20,625”, “$24,630”, “$29,640” and “$34,846”, respectively.
+    Subsec. (d)(4)(ii). [Pub. L. 95–557][/us/pl/95/557], § 325(b), substituted “$19,406”, “$22,028”, “$26,625”, “$33,420”, and “$37,870” for “$18,450”, “$20,625”, “$24,630”, “$29,640” and “$34,846”, respectively.
 
-    Subsec. (f). [Pub. L. 95–557, § 301(c)][/us/pl/95/557/s301/c], substituted “September 30, 1979” for “October 31, 1978”.
+    Subsec. (f). [Pub. L. 95–557][/us/pl/95/557], § 301(c), substituted “September 30, 1979” for “October 31, 1978”.
 
     [Pub. L. 95–406][/us/pl/95/406] substituted “October 31, 1978” for “September 30, 1978”.
 
-    1977—Subsec. (d)(2)(A). [Pub. L. 95–128, § 303(c)][/us/pl/95/128/s303/c], substituted “$31,000” for “$25,000”, “$36,000” for “$29,000” in two places, “$42,000” for “$33,000”, “$35,000” for “$28,000”, “$48,600” for “$38,880”, “$59,400” for “$47,520”, “$45,000” for “$36,000”, “$57,600” for “$46,080” and “$68,400” for “$54,720”.
+    1977—Subsec. (d)(2)(A). [Pub. L. 95–128][/us/pl/95/128], § 303(c), substituted “$31,000” for “$25,000”, “$36,000” for “$29,000” in two places, “$42,000” for “$33,000”, “$35,000” for “$28,000”, “$48,600” for “$38,880”, “$59,400” for “$47,520”, “$45,000” for “$36,000”, “$57,600” for “$46,080” and “$68,400” for “$54,720”.
 
     Subsec. (d)(4). [Pub. L. 95–24][/us/pl/95/24] struck out “other than a mortgagor referred to in subsection (d)(3) of this section,” after “if executed by a mortgagor”.
 
-    Subsec. (f). [Pub. L. 95–128, § 301(c)][/us/pl/95/128/s301/c], substituted “September 30, 1978” for “September 30, 1977”.
+    Subsec. (f). [Pub. L. 95–128][/us/pl/95/128], § 301(c), substituted “September 30, 1978” for “September 30, 1977”.
 
     [Pub. L. 95–80][/us/pl/95/80] substituted “September 30, 1977” for “July 31, 1977”.
 
     [Pub. L. 95–60][/us/pl/95/60] substituted “July 31, 1977” for “June 30, 1977”.
 
-    1976—Subsec. (d)(2)(A). [Pub. L. 94–375, § 3(d)][/us/pl/94/375/s3/d], substituted “$25,000” for “$21,600”, “$29,000” for “$25,200” in two places, and “$33,000” for “$28,800”.
+    1976—Subsec. (d)(2)(A). [Pub. L. 94–375][/us/pl/94/375], § 3(d), substituted “$25,000” for “$21,600”, “$29,000” for “$25,200” in two places, and “$33,000” for “$28,800”.
 
-    Subsec. (d)(3)(ii). [Pub. L. 94–375, § 8(b)(4)][/us/pl/94/375/s8/b/4], substituted “50 per centum in any geographical area” for “75 per centum in any geographical area”, “$16,860” for “$11,240”, “$18,648” for “$15,540”, “$22,356” for “$18,630”, “$28,152” for “$23,460”, “$31,884” for “$26,570”, “$19,680” for “$13,120”, “$22,356” for “$18,630”, “$26,496” for “$22,080”, “$33,120” for “$27,600”, and “$38,400” for “$32,000”.
+    Subsec. (d)(3)(ii). [Pub. L. 94–375][/us/pl/94/375], § 8(b)(4), substituted “50 per centum in any geographical area” for “75 per centum in any geographical area”, “$16,860” for “$11,240”, “$18,648” for “$15,540”, “$22,356” for “$18,630”, “$28,152” for “$23,460”, “$31,884” for “$26,570”, “$19,680” for “$13,120”, “$22,356” for “$18,630”, “$26,496” for “$22,080”, “$33,120” for “$27,600”, and “$38,400” for “$32,000”.
 
-    Subsec. (d)(4)(ii). [Pub. L. 94–375, § 8(b)(5)][/us/pl/94/375/s8/b/5], substituted “50 per centum in any geographical area” for “75 per centum in any geographical area”, “$18,450” for “$12,300”, “$20,625” for “$17,188”, “$24,630” for “$20,525”, “$29,640” for “$24,700”, “$34,846” for “$29,038”, “$20,962” for “$13,975”, “$24,030” for “$20,025”, “$29,220” for “$24,350”, “$37,800” for “$31,500”, and “$41,494” for “$34,578”.
+    Subsec. (d)(4)(ii). [Pub. L. 94–375][/us/pl/94/375], § 8(b)(5), substituted “50 per centum in any geographical area” for “75 per centum in any geographical area”, “$18,450” for “$12,300”, “$20,625” for “$17,188”, “$24,630” for “$20,525”, “$29,640” for “$24,700”, “$34,846” for “$29,038”, “$20,962” for “$13,975”, “$24,030” for “$20,025”, “$29,220” for “$24,350”, “$37,800” for “$31,500”, and “$41,494” for “$34,578”.
 
-    1975—Subsec. (d)(3)(ii). [Pub. L. 94–173, § 3][/us/pl/94/173/s3], raised from 45 per centum to 75 per centum the amount by which any dollar limitation may, by regulation, be increased.
+    1975—Subsec. (d)(3)(ii). [Pub. L. 94–173][/us/pl/94/173], § 3, raised from 45 per centum to 75 per centum the amount by which any dollar limitation may, by regulation, be increased.
 
-    Subsec. (d)(4)(ii). [Pub. L. 94–173, § 3][/us/pl/94/173/s3], raised from 45 per centum to 75 per centum the amount by which any dollar limitation may, by regulation, be increased.
+    Subsec. (d)(4)(ii). [Pub. L. 94–173][/us/pl/94/173], § 3, raised from 45 per centum to 75 per centum the amount by which any dollar limitation may, by regulation, be increased.
 
-    Subsec. (f). [Pub. L. 94–173, § 4(a)][/us/pl/94/173/s4/a], struck out a provision limiting to 10 per centum the number of dwelling units available to low and moderate income persons under the age of 62 in a project financed with a mortgage issued under subsection (d)(3) of this section.
+    Subsec. (f). [Pub. L. 94–173][/us/pl/94/173], § 4(a), struck out a provision limiting to 10 per centum the number of dwelling units available to low and moderate income persons under the age of 62 in a project financed with a mortgage issued under subsection (d)(3) of this section.
 
-    1974—Subsec. (d)(2)(A). [Pub. L. 93–383, § 302(c)][/us/pl/93/383/s302/c], substituted “$21,600” for “$18,000”, “$25,200” for “$21,000” wherever appearing, “$28,000” for “$24,000”, “$28,800” for “$24,000”, “$36,000” for “$30,000”, “$38,880” for “$32,400”, “$46,080” for “$38,400”, “$47,520” for “$39,600”, and “$54,720” for “$45,600”.
+    1974—Subsec. (d)(2)(A). [Pub. L. 93–383][/us/pl/93/383], § 302(c), substituted “$21,600” for “$18,000”, “$25,200” for “$21,000” wherever appearing, “$28,000” for “$24,000”, “$28,800” for “$24,000”, “$36,000” for “$30,000”, “$38,880” for “$32,400”, “$46,080” for “$38,400”, “$47,520” for “$39,600”, and “$54,720” for “$45,600”.
 
-    Subsec. (d)(3). [Pub. L. 93–383, § 319(a)][/us/pl/93/383/s319/a], inserted exception for certification of projects assisted or to be assisted pursuant to section 8 of the United States Housing Act of 1937.
+    Subsec. (d)(3). [Pub. L. 93–383][/us/pl/93/383], § 319(a), inserted exception for certification of projects assisted or to be assisted pursuant to section 8 of the United States Housing Act of 1937.
 
-    Subsec. (d)(3)(i). [Pub. L. 93–383, § 304(e)(1)][/us/pl/93/383/s304/e/1], struck out cl. (i) which set forth mortgage ceiling of $12,500,000.
+    Subsec. (d)(3)(i). [Pub. L. 93–383][/us/pl/93/383], § 304(e)(1), struck out cl. (i) which set forth mortgage ceiling of $12,500,000.
 
-    Subsec. (d)(3)(ii). [Pub. L. 93–383, § 303(d)][/us/pl/93/383/s303/d], substituted “$11,240” for “$9,200”, “$13,120” for “$10,925”, “$15,540” for “$12,937.50”, “$16,200” for “$13,500”, “$18,630” for “$15,525”, “$22,080” for “$18,400”, “$23,460” for “$19,550” “$26,570” for “$22,137.50”, “$27,600” for “$23,000”, and “$32,000” for “$26,162.50”.
+    Subsec. (d)(3)(ii). [Pub. L. 93–383][/us/pl/93/383], § 303(d), substituted “$11,240” for “$9,200”, “$13,120” for “$10,925”, “$15,540” for “$12,937.50”, “$16,200” for “$13,500”, “$18,630” for “$15,525”, “$22,080” for “$18,400”, “$23,460” for “$19,550” “$26,570” for “$22,137.50”, “$27,600” for “$23,000”, and “$32,000” for “$26,162.50”.
 
-    Subsec. (d)(4)(i). [Pub. L. 93–383, § 304(e)(2)][/us/pl/93/383/s304/e/2], struck out cl. (i) which set forth mortgage ceiling of $12,500,000.
+    Subsec. (d)(4)(i). [Pub. L. 93–383][/us/pl/93/383], § 304(e)(2), struck out cl. (i) which set forth mortgage ceiling of $12,500,000.
 
-    Subsec. (d)(4)(ii). [Pub. L. 93–383, § 303(e)][/us/pl/93/383/s303/e], substituted “$12,300” for “$9,200”, “$13,975” for “$10,525”, “$17,188” for “$12,937.50”, “$20,025” for “$15,525”, “$20,525” for “$15,525”, “$24,350” for “$18,400”, “$24,700” for “$19,550”, “$29,038” for “$22,137.50”, “$31,500” for “$23,000”, and “$34,578” for “$26,162.50”.
+    Subsec. (d)(4)(ii). [Pub. L. 93–383][/us/pl/93/383], § 303(e), substituted “$12,300” for “$9,200”, “$13,975” for “$10,525”, “$17,188” for “$12,937.50”, “$20,025” for “$15,525”, “$20,525” for “$15,525”, “$24,350” for “$18,400”, “$24,700” for “$19,550”, “$29,038” for “$22,137.50”, “$31,500” for “$23,000”, and “$34,578” for “$26,162.50”.
 
-    Subsec. (f). [Pub. L. 93–383, § 316(c)][/us/pl/93/383/s316/c], substituted “June 30, 1977” for “October 1, 1974”.
+    Subsec. (f). [Pub. L. 93–383][/us/pl/93/383], § 316(c), substituted “June 30, 1977” for “October 1, 1974”.
 
     [Pub. L. 93–288][/us/pl/93/288] substituted “the Disaster Relief Act of 1974” for “the Disaster Relief Act of 1970”.
 
@@ -497,129 +497,129 @@
 
     [Pub. L. 91–432][/us/pl/91/432] substituted “November 1, 1970” for “October 1, 1970”.
 
-    1969—Subsec. (d)(2). [Pub. L. 91–152, § 113(e)(1)][/us/pl/91/152/s113/e/1], (2), substituted “$18,000” for “$15,000”, “$21,000” for “$17,500”, wherever appearing, “$24,000” for “$20,000” wherever appearing, “$30,000” for “$25,000”, “$32,400” for “$27,000”, “$38,400” for “$32,000”, “$39,600” for “$33,000”, and “$45,600” for “$38,000”.
+    1969—Subsec. (d)(2). [Pub. L. 91–152][/us/pl/91/152], § 113(e)(1), (2), substituted “$18,000” for “$15,000”, “$21,000” for “$17,500”, wherever appearing, “$24,000” for “$20,000” wherever appearing, “$30,000” for “$25,000”, “$32,400” for “$27,000”, “$38,400” for “$32,000”, “$39,600” for “$33,000”, and “$45,600” for “$38,000”.
 
-    Subsec. (d)(3)(ii). [Pub. L. 91–152, § 113(e)(3)][/us/pl/91/152/s113/e/3], (4), substituted “$9,200” for “$8,000”, “$10,925” for “$9,500”, “$12,937.50” for “$11,250”, “$15,525” for “$13,500” wherever appearing, “$18,400” for “$16,000”, “$19,550” for “$17,000”, “$22,137.50” for “$19,250”, “$23,000” for “$20,000”, and “$26,162.50” for “$22,750”.
+    Subsec. (d)(3)(ii). [Pub. L. 91–152][/us/pl/91/152], § 113(e)(3), (4), substituted “$9,200” for “$8,000”, “$10,925” for “$9,500”, “$12,937.50” for “$11,250”, “$15,525” for “$13,500” wherever appearing, “$18,400” for “$16,000”, “$19,550” for “$17,000”, “$22,137.50” for “$19,250”, “$23,000” for “$20,000”, and “$26,162.50” for “$22,750”.
 
-    Subsec. (d)(4)(ii). [Pub. L. 91–152, § 113(e)(5)][/us/pl/91/152/s113/e/5], (6), substituted “$9,200” for “$8,000”, “$10,925” for “$9,500”, “$12,937.50” for “$11,250”, “$15,525” for “$13,500” wherever appearing, “$18,400” for “$16,000”, “$19,550” for “$17,000”, “$22,137.50” for “$19,250”, “$23,000” for “$20,000”, and “$26,162.50” for “$22,750”.
+    Subsec. (d)(4)(ii). [Pub. L. 91–152][/us/pl/91/152], § 113(e)(5), (6), substituted “$9,200” for “$8,000”, “$10,925” for “$9,500”, “$12,937.50” for “$11,250”, “$15,525” for “$13,500” wherever appearing, “$18,400” for “$16,000”, “$19,550” for “$17,000”, “$22,137.50” for “$19,250”, “$23,000” for “$20,000”, and “$26,162.50” for “$22,750”.
 
-    Subsec. (f). [Pub. L. 91–152, § 101(c)][/us/pl/91/152/s101/c], substituted “October 1, 1970” for “January 1, 1970”.
+    Subsec. (f). [Pub. L. 91–152][/us/pl/91/152], § 101(c), substituted “October 1, 1970” for “January 1, 1970”.
 
     [Pub. L. 91–78][/us/pl/91/78] substituted “January 1, 1970” for “October 1, 1969”.
 
-    Subsec. (h)(6)(A). [Pub. L. 91–152, § 113(e)(7)][/us/pl/91/152/s113/e/7], substituted “$18,000” for “$15,000”.
+    Subsec. (h)(6)(A). [Pub. L. 91–152][/us/pl/91/152], § 113(e)(7), substituted “$18,000” for “$15,000”.
 
     1968—Subsec. (d)(2)(A). [Pub. L. 90–448][/us/pl/90/448], §§ 101(b)(1), 305, increased maximum amount of mortgages for single-family residences from $12,500 to $15,000 (or $17,500 if mortgagor’s family includes five or more persons), and in geographical areas where costs levels so require from $15,000 to $17,500 (or $20,000 if the mortgagor’s family includes five or more persons), and § 305(d)(2)(A) substituted “the mortgagor” for “a displaced family” in first proviso.
 
-    Subsec. (d)(2)(B). [Pub. L. 90–448, § 101(b)(2)][/us/pl/90/448/s101/b/2], inserted “, in cash or its equivalent” in cl. (2), and inserted proviso directing that a mortgagor who is the owner and an occupant of the property be given the opportunity to contribute the value of his labor as equity in such dwelling.
+    Subsec. (d)(2)(B). [Pub. L. 90–448][/us/pl/90/448], § 101(b)(2), inserted “, in cash or its equivalent” in cl. (2), and inserted proviso directing that a mortgagor who is the owner and an occupant of the property be given the opportunity to contribute the value of his labor as equity in such dwelling.
 
-    Subsec. (d)(3)(iii). [Pub. L. 90–448, § 311(b)][/us/pl/90/448/s311/b], inserted proviso to permit the mortgage to involve the financing of the purchase of property which has been rehabilitated by a local public agency with Federal assistance pursuant to [section 1460(c)(8) of title 42][/us/usc/t42/s1460/c/8].
+    Subsec. (d)(3)(iii). [Pub. L. 90–448][/us/pl/90/448], § 311(b), inserted proviso to permit the mortgage to involve the financing of the purchase of property which has been rehabilitated by a local public agency with Federal assistance pursuant to [section 1460(c)(8) of title 42][/us/usc/t42/s1460/c/8].
 
     Subsec. (f). [Pub. L. 90–448][/us/pl/90/448], §§ 105(d), 306, authorized the Secretary to insure mortgages meeting the requirements of subsec. (i) or (j) of this section, struck out “if the mortgagor waives the right to receive dividends on its equity investment in the portion thereof devoted to community and shopping facilities” from first proviso, and inserted proviso making provisions of section 1715k(d)(3)(B)(iv) applicable, in the case of a mortgage which bears interest at the below-market interest rate prescribed in subsec. (d)(5) of this section, only if the mortgagor waives the right to receive dividends on its equity investment in the portion thereof devoted to commercial facilities.
 
-    Subsec. (g)(1). [Pub. L. 90–448, § 105(b)][/us/pl/90/448/s105/b], included mortgages meeting requirements of par. (2) of subsec. (i) of this section.
+    Subsec. (g)(1). [Pub. L. 90–448][/us/pl/90/448], § 105(b), included mortgages meeting requirements of par. (2) of subsec. (i) of this section.
 
-    Subsec. (g)(2). [Pub. L. 90–448, § 105(c)][/us/pl/90/448/s105/c], included mortgages meeting requirements of par. (2) of subsec. (j) of this section.
+    Subsec. (g)(2). [Pub. L. 90–448][/us/pl/90/448], § 105(c), included mortgages meeting requirements of par. (2) of subsec. (j) of this section.
 
-    Subsec. (h)(2)(A). [Pub. L. 90–448, § 316(a)][/us/pl/90/448/s316/a], reduced number of one-family dwellings from five or more to four or more, and permitted the mortgage to cover four or more one-family units in a structure or structures for which a plan of family unit ownership approved by the Secretary is established.
+    Subsec. (h)(2)(A). [Pub. L. 90–448][/us/pl/90/448], § 316(a), reduced number of one-family dwellings from five or more to four or more, and permitted the mortgage to cover four or more one-family units in a structure or structures for which a plan of family unit ownership approved by the Secretary is established.
 
-    Subsec. (h)(4). [Pub. L. 90–448, § 101(c)(2)][/us/pl/90/448/s101/c/2], increased aggregate principal balance of mortgages insured from $20,000,000 to $50,000,000.
+    Subsec. (h)(4). [Pub. L. 90–448][/us/pl/90/448], § 101(c)(2), increased aggregate principal balance of mortgages insured from $20,000,000 to $50,000,000.
 
-    Subsec. (h)(5)(B)(ii). [Pub. L. 90–448, § 101(c)(1)][/us/pl/90/448/s101/c/1], permitted mortgage to bear interest at such lower rate, not less than 1 per centum, as the Secretary may prescribe if in his judgment purchaser’s income is sufficiently low to justify the lower rate, and inserted proviso requiring rate of interest to be increased if purchaser’s income subsequently rises.
+    Subsec. (h)(5)(B)(ii). [Pub. L. 90–448][/us/pl/90/448], § 101(c)(1), permitted mortgage to bear interest at such lower rate, not less than 1 per centum, as the Secretary may prescribe if in his judgment purchaser’s income is sufficiently low to justify the lower rate, and inserted proviso requiring rate of interest to be increased if purchaser’s income subsequently rises.
 
-    Subsec. (h)(6). [Pub. L. 90–448, § 101(c)(3)][/us/pl/90/448/s101/c/3], added par. (6).
+    Subsec. (h)(6). [Pub. L. 90–448][/us/pl/90/448], § 101(c)(3), added par. (6).
 
-    Subsec. (h)(7), (8). [Pub. L. 90–448, § 316(b)][/us/pl/90/448/s316/b], added pars. (7) and (8).
+    Subsec. (h)(7), (8). [Pub. L. 90–448][/us/pl/90/448], § 316(b), added pars. (7) and (8).
 
-    Subsecs. (i), (j). [Pub. L. 90–448, § 105(a)][/us/pl/90/448/s105/a], added subsecs. (i) and (j).
+    Subsecs. (i), (j). [Pub. L. 90–448][/us/pl/90/448], § 105(a), added subsecs. (i) and (j).
 
-    1967—[Pub. L. 90–19, § 1(a)(3)][/us/pl/90/19/s1/a/3], substituted “Secretary” for “Commissioner” wherever appearing in subsecs. (b), (d)(1) to (3), (d)(3)(ii), (iii), (d)(4), (d)(4)(ii) to (iv), (d)(5), (6), (e)(1), (2), (f), and (g)(3), (4).
+    1967—[Pub. L. 90–19][/us/pl/90/19], § 1(a)(3), substituted “Secretary” for “Commissioner” wherever appearing in subsecs. (b), (d)(1) to (3), (d)(3)(ii), (iii), (d)(4), (d)(4)(ii) to (iv), (d)(5), (6), (e)(1), (2), (f), and (g)(3), (4).
 
-    Subsec. (d). [Pub. L. 90–19, § 1(a)(4)][/us/pl/90/19/s1/a/4], substituted “Secretary’s” for “Commissioner’s” wherever appearing in pars. (2), (3)(iii), (4)(iv), and (6).
+    Subsec. (d). [Pub. L. 90–19][/us/pl/90/19], § 1(a)(4), substituted “Secretary’s” for “Commissioner’s” wherever appearing in pars. (2), (3)(iii), (4)(iv), and (6).
 
-    1966—Subsec. (a). [Pub. L. 89–769, § 4(a)][/us/pl/89/769/s4/a], substituted “displaced families” for “families displaced from urban renewal areas or as a result of governmental action”.
+    1966—Subsec. (a). [Pub. L. 89–769][/us/pl/89/769], § 4(a), substituted “displaced families” for “families displaced from urban renewal areas or as a result of governmental action”.
 
-    Subsec. (d)(2), (6). [Pub. L. 89–769, § 4(a)][/us/pl/89/769/s4/a], substituted “displaced family” for “family displaced from an urban renewal area or as a result of governmental action” wherever appearing.
+    Subsec. (d)(2), (6). [Pub. L. 89–769][/us/pl/89/769], § 4(a), substituted “displaced family” for “family displaced from an urban renewal area or as a result of governmental action” wherever appearing.
 
-    Subsec. (d)(2)(A). [Pub. L. 89–754, § 307][/us/pl/89/754/s307], increased maximum amount of mortgages for single-family and two-family residences from $11,000 and $18,000 to $12,500 and $20,000, respectively.
+    Subsec. (d)(2)(A). [Pub. L. 89–754][/us/pl/89/754], § 307, increased maximum amount of mortgages for single-family and two-family residences from $11,000 and $18,000 to $12,500 and $20,000, respectively.
 
-    Subsec. (d)(3)(iii). [Pub. L. 89–769, § 4(a)][/us/pl/89/769/s4/a], substituted “displaced families” for “families displaced by urban renewal or other governmental action”.
+    Subsec. (d)(3)(iii). [Pub. L. 89–769][/us/pl/89/769], § 4(a), substituted “displaced families” for “families displaced by urban renewal or other governmental action”.
 
-    Subsec. (f). [Pub. L. 89–769, § 4(a)][/us/pl/89/769/s4/a], (b), substituted “displaced families” for “families displaced from urban renewal areas or as a result of governmental action”, and inserted definition of “displaced family” and “displaced families”.
+    Subsec. (f). [Pub. L. 89–769][/us/pl/89/769], § 4(a), (b), substituted “displaced families” for “families displaced from urban renewal areas or as a result of governmental action”, and inserted definition of “displaced family” and “displaced families”.
 
     [Pub. L. 89–754][/us/pl/89/754], §§ 308, 309, 310(c), inserted in first sentence provision for nondwelling facilities in projects in urban renewal areas, inserted provision respecting single occupants in housing under subsec. (d)(3) of this section, and inserted in fourth sentence “or which meet the requirements of subsection (h)”, respectively.
 
-    Subsec. (g)(1). [Pub. L. 89–754, § 310(b)(1)][/us/pl/89/754/s310/b/1], inserted “or paragraph (5) of subsection (h) of this section”.
+    Subsec. (g)(1). [Pub. L. 89–754][/us/pl/89/754], § 310(b)(1), inserted “or paragraph (5) of subsection (h) of this section”.
 
-    Subsec. (g)(2). [Pub. L. 89–754, § 310(b)(2)][/us/pl/89/754/s310/b/2], inserted “or paragraph (1) of subsection (h) of this section”.
+    Subsec. (g)(2). [Pub. L. 89–754][/us/pl/89/754], § 310(b)(2), inserted “or paragraph (1) of subsection (h) of this section”.
 
-    Subsec. (h). [Pub. L. 89–754, § 310(a)][/us/pl/89/754/s310/a], added subsec. (h). A prior subsec. (h) was repealed by [Pub. L. 89–117, title XI, § 1108(i)(4)][/us/pl/89/117/s1108/i/4], Aug. 10, 1965, [79 Stat. 505][/us/stat/79/505].
+    Subsec. (h). [Pub. L. 89–754][/us/pl/89/754], § 310(a), added subsec. (h). A prior subsec. (h) was repealed by [Pub. L. 89–117, title XI][/us/pl/89/117/tXI], § 1108(i)(4), Aug. 10, 1965, [79 Stat. 505][/us/stat/79/505].
 
-    1965—Subsec. (d)(3)(ii). [Pub. L. 89–117, § 207(d)][/us/pl/89/117/s207/d], substituted “$17,000 per family unit with three bedrooms, and $19,250 per family unit with four or more bedrooms” for “and $17,000 per family unit with three or more bedrooms” and “$20,000 per family unit with three bedrooms, and $22,750 per family unit with four or more bedrooms” for “and $20,000 per family unit with three or more bedrooms”.
+    1965—Subsec. (d)(3)(ii). [Pub. L. 89–117][/us/pl/89/117], § 207(d), substituted “$17,000 per family unit with three bedrooms, and $19,250 per family unit with four or more bedrooms” for “and $17,000 per family unit with three or more bedrooms” and “$20,000 per family unit with three bedrooms, and $22,750 per family unit with four or more bedrooms” for “and $20,000 per family unit with three or more bedrooms”.
 
     Subsec. (d)(4). [Pub. L. 89–117][/us/pl/89/117], §§ 207(d), 1108(i)(1), substituted “$17,000 per family unit with three bedrooms, and $19,250 per family unit with four or more bedrooms” for “and $17,000 per family unit with three or more bedrooms” and “$20,000 per family unit with three bedrooms, and $22,750 per family unit with four or more bedrooms” for “and $20,000 per family unit with three or more bedrooms” in subpar. (ii) and substituted “General Insurance Fund” for “section 221 Housing Insurance Fund” wherever appearing.
 
-    Subsec. (d)(5). [Pub. L. 89–117, § 102(b)][/us/pl/89/117/s102/b], substituted “not less than the lower of (A) 3 per centum per annum, or (B) the annual rate of interest determined” for “not less than the annual rate of interest determined” in proviso.
+    Subsec. (d)(5). [Pub. L. 89–117][/us/pl/89/117], § 102(b), substituted “not less than the lower of (A) 3 per centum per annum, or (B) the annual rate of interest determined” for “not less than the annual rate of interest determined” in proviso.
 
     Subsec. (f). [Pub. L. 89–117][/us/pl/89/117], §§ 102(a), 1108(i)(1), substituted “this section after October 1, 1969” for “subsection (d)(2) or (d)(4) after September 30, 1965, or under subsection (d)(3) after September 30, 1965” and substituted “General Insurance Fund” for “section 221 Housing Insurance Fund”.
 
-    Subsec. (g)(1). [Pub. L. 89–117, § 1108(i)(1)][/us/pl/89/117/s1108/i/1], substituted “General Insurance Fund” for “section 221 Housing Insurance Fund”.
+    Subsec. (g)(1). [Pub. L. 89–117][/us/pl/89/117], § 1108(i)(1), substituted “General Insurance Fund” for “section 221 Housing Insurance Fund”.
 
-    Subsec. (g)(2). [Pub. L. 89–117, § 1108(i)(2)][/us/pl/89/117/s1108/i/2], struck out provision that all references in section 1713 to the Housing Insurance Fund or the Housing Fund shall be construed to refer to the section 221 Housing Insurance Fund.
+    Subsec. (g)(2). [Pub. L. 89–117][/us/pl/89/117], § 1108(i)(2), struck out provision that all references in section 1713 to the Housing Insurance Fund or the Housing Fund shall be construed to refer to the section 221 Housing Insurance Fund.
 
-    Subsec. (g)(3). [Pub. L. 89–117, § 1108(i)(1)][/us/pl/89/117/s1108/i/1], (3), substituted “General Insurance Fund” for “section 221 Housing Insurance Fund” and struck out provision that all references in [section 1713 of this title][/us/usc/t12/s1713] to the Housing Insurance Fund, the Housing Fund, or the Fund shall be construed to refer to the section 221 Housing Insurance Fund.
+    Subsec. (g)(3). [Pub. L. 89–117][/us/pl/89/117], § 1108(i)(1), (3), substituted “General Insurance Fund” for “section 221 Housing Insurance Fund” and struck out provision that all references in [section 1713 of this title][/us/usc/t12/s1713] to the Housing Insurance Fund, the Housing Fund, or the Fund shall be construed to refer to the section 221 Housing Insurance Fund.
 
-    Subsec. (h). [Pub. L. 89–117, § 1108(i)(4)][/us/pl/89/117/s1108/i/4], repealed subsec. (h) which created the section 221 Housing Insurance Fund, provided for the transfer of funds thereto, authorized the purchase and cancellation of debentures and the credit and payment of charges and fees.
+    Subsec. (h). [Pub. L. 89–117][/us/pl/89/117], § 1108(i)(4), repealed subsec. (h) which created the section 221 Housing Insurance Fund, provided for the transfer of funds thereto, authorized the purchase and cancellation of debentures and the credit and payment of charges and fees.
 
-    1964—Subsec. (d)(3). [Pub. L. 88–560, § 114(a)][/us/pl/88/560/s114/a], inserted “, or other mortgagor approved by the Commissioner, and” after “or association”.
+    1964—Subsec. (d)(3). [Pub. L. 88–560][/us/pl/88/560], § 114(a), inserted “, or other mortgagor approved by the Commissioner, and” after “or association”.
 
-    Subsec. (d)(3)(ii), (4)(ii). [Pub. L. 88–560, § 107(d)(1)][/us/pl/88/560/s107/d/1], (2), changed limits on mortgages for property or project attributable to dwelling use from “$2,250 per room (or $8,500 per family unit if the number of rooms in such property or project is less than four per family unit)” to “$8,000 per family unit without a bedroom, $11,250 per family unit with one bedroom, $13,500 per family unit with two bedrooms, and $17,000 per family unit with three or more bedrooms”, changed such mortgage limits on project consisting of elevator-type structures from a sum “of $2,250 per room to not to exceed $2,750 per room, and the dollar amount limitation of $8,500 per family unit to not to exceed $9,000 per family unit” to dollar amount limitations “per family unit to not to exceed $9,500 per family unit without a bedroom, $13,500 per family unit with one bedroom, $16,000 per family unit with two bedrooms, and $20,000 per family unit with three or more bedrooms”, and substituted provision authorizing an increase “by not to exceed 45 per centum” of any of such limits because of cost levels for former provision authorizing such an increase “by not to exceed $1,000 per room without regard to the number of rooms being less than four, or four or more”.
+    Subsec. (d)(3)(ii), (4)(ii). [Pub. L. 88–560][/us/pl/88/560], § 107(d)(1), (2), changed limits on mortgages for property or project attributable to dwelling use from “$2,250 per room (or $8,500 per family unit if the number of rooms in such property or project is less than four per family unit)” to “$8,000 per family unit without a bedroom, $11,250 per family unit with one bedroom, $13,500 per family unit with two bedrooms, and $17,000 per family unit with three or more bedrooms”, changed such mortgage limits on project consisting of elevator-type structures from a sum “of $2,250 per room to not to exceed $2,750 per room, and the dollar amount limitation of $8,500 per family unit to not to exceed $9,000 per family unit” to dollar amount limitations “per family unit to not to exceed $9,500 per family unit without a bedroom, $13,500 per family unit with one bedroom, $16,000 per family unit with two bedrooms, and $20,000 per family unit with three or more bedrooms”, and substituted provision authorizing an increase “by not to exceed 45 per centum” of any of such limits because of cost levels for former provision authorizing such an increase “by not to exceed $1,000 per room without regard to the number of rooms being less than four, or four or more”.
 
-    Subsec. (d)(3)(iii). [Pub. L. 88–560, § 114(c)][/us/pl/88/560/s114/c], inserted “Provided further, That in the case of any mortgagor other than a nonprofit corporation or association, cooperative (including an investor-sponsor), or public body, or a mortgagor meeting the special requirements of subsection (e)(1), the amount of the mortgage shall not exceed 90 per centum of the amount otherwise authorized under this section”.
+    Subsec. (d)(3)(iii). [Pub. L. 88–560][/us/pl/88/560], § 114(c), inserted “Provided further, That in the case of any mortgagor other than a nonprofit corporation or association, cooperative (including an investor-sponsor), or public body, or a mortgagor meeting the special requirements of subsection (e)(1), the amount of the mortgage shall not exceed 90 per centum of the amount otherwise authorized under this section”.
 
-    Subsec. (e). [Pub. L. 88–560, § 114(b)][/us/pl/88/560/s114/b], added par. (1) and designated existing provisions as par. (2).
+    Subsec. (e). [Pub. L. 88–560][/us/pl/88/560], § 114(b), added par. (1) and designated existing provisions as par. (2).
 
     Subsec. (f). [Pub. L. 88–560][/us/pl/88/560], §§ 114(d), 202, 203(b), extended the mortgage insurance authority under subsec. (d)(2) and (4) of this section from July 1, 1965 to Sept. 30, 1965, inserted definition of “family”, and substituted in such definition “person who is sixty-two years of age or over, or who is a handicapped person within the meaning of [section 1701q of this title][/us/usc/t12/s1701q],” for “person who is sixty-two years of age or over”.
 
-    Subsec. (g)(3). [Pub. L. 88–560, § 105(c)(2)][/us/pl/88/560/s105/c/2], substituted a period for “; or” and inserted “If the insurance is paid in cash, there shall be added to such payment an amount equivalent to the interest which the debentures would have earned, computed to a date to be established pursuant to regulations issued by the Commissioner.”
+    Subsec. (g)(3). [Pub. L. 88–560][/us/pl/88/560], § 105(c)(2), substituted a period for “; or” and inserted “If the insurance is paid in cash, there shall be added to such payment an amount equivalent to the interest which the debentures would have earned, computed to a date to be established pursuant to regulations issued by the Commissioner.”
 
     1963—Subsec. (f). [Pub. L. 88–54][/us/pl/88/54] extended mortgage insurance authority under subsec. (d)(2) and (4) of this section from July 1, 1963, to July 1, 1965.
 
-    1961—[Pub. L. 87–70, § 101(a)(1)][/us/pl/87/70/s101/a/1], added section catchline.
+    1961—[Pub. L. 87–70][/us/pl/87/70], § 101(a)(1), added section catchline.
 
-    Subsec. (a). [Pub. L. 87–70, § 101(a)(2)][/us/pl/87/70/s101/a/2], redefined the purpose of this section as one to assist private industry in providing housing for low and moderate income families and families displaced from urban renewal areas or as a result of governmental action, and eliminated provisions which required localities, communities or environs of communities to request the mortgage insurance, which limited the number of dwelling units to not more than the aggregate number which the Housing Administrator certified to the Commissioner, and which authorized assistance for relocation of families to be displaced as the result of governmental action in a community to those cases in which a certification by the Housing Administrator pursuant to [section 1451(c) of title 42][/us/usc/t42/s1451/c] has been made, or there is being carried out a project covered by a Federal aid contract executed, or prior approval granted, under subchapter II of chapter 8A of title 42, or there is being carried out an urban renewal project assisted under [section 1462 of title 42][/us/usc/t42/s1462].
+    Subsec. (a). [Pub. L. 87–70][/us/pl/87/70], § 101(a)(2), redefined the purpose of this section as one to assist private industry in providing housing for low and moderate income families and families displaced from urban renewal areas or as a result of governmental action, and eliminated provisions which required localities, communities or environs of communities to request the mortgage insurance, which limited the number of dwelling units to not more than the aggregate number which the Housing Administrator certified to the Commissioner, and which authorized assistance for relocation of families to be displaced as the result of governmental action in a community to those cases in which a certification by the Housing Administrator pursuant to [section 1451(c) of title 42][/us/usc/t42/s1451/c] has been made, or there is being carried out a project covered by a Federal aid contract executed, or prior approval granted, under subchapter II of chapter 8A of title 42, or there is being carried out an urban renewal project assisted under [section 1462 of title 42][/us/usc/t42/s1462].
 
-    Subsec. (b). [Pub. L. 87–70, § 101(a)(3)][/us/pl/87/70/s101/a/3], empowered the Commissioner to insure advances during construction on mortgages covering property of the character described in pars. (3) and (4) of subsec. (d) of this section.
+    Subsec. (b). [Pub. L. 87–70][/us/pl/87/70], § 101(a)(3), empowered the Commissioner to insure advances during construction on mortgages covering property of the character described in pars. (3) and (4) of subsec. (d) of this section.
 
-    Subsec. (d)(2). [Pub. L. 87–70, § 101(a)(4)][/us/pl/87/70/s101/a/4], (5), increased the maximum amount of mortgages for single-family residences from $9,000 to $11,000, three-family residences from $25,000 to $27,000 and for four-family residences from $32,000 to $33,000, increased the maximum amount of mortgages that the Commissioner may authorize in cases where he finds the cost levels so require from $12,000 to $15,000 for single-family residences, $20,000 to $25,000 for two-family residences, $27,500 to $32,000 for three-family residences and $35,000 to $38,000 for four-family residences, required families other than those displaced from an urban renewal area or as a result of Government action to pay on account of the property at least 3 per centum of the Commissioner’s estimate of its acquisition cost, prohibited insurance of mortgages for dwellings designed principally for two-, three-, or four-family residences except in the case of dwellings for occupancy by a family displaced from an urban renewal area or as a result of governmental action, and eliminated provisions which required the Commissioner to prescribe procedures relating to priorities in occupancy of the remaining units of two-, three-, and four-family dwellings after occupancy of one unit by the owner.
+    Subsec. (d)(2). [Pub. L. 87–70][/us/pl/87/70], § 101(a)(4), (5), increased the maximum amount of mortgages for single-family residences from $9,000 to $11,000, three-family residences from $25,000 to $27,000 and for four-family residences from $32,000 to $33,000, increased the maximum amount of mortgages that the Commissioner may authorize in cases where he finds the cost levels so require from $12,000 to $15,000 for single-family residences, $20,000 to $25,000 for two-family residences, $27,500 to $32,000 for three-family residences and $35,000 to $38,000 for four-family residences, required families other than those displaced from an urban renewal area or as a result of Government action to pay on account of the property at least 3 per centum of the Commissioner’s estimate of its acquisition cost, prohibited insurance of mortgages for dwellings designed principally for two-, three-, or four-family residences except in the case of dwellings for occupancy by a family displaced from an urban renewal area or as a result of governmental action, and eliminated provisions which required the Commissioner to prescribe procedures relating to priorities in occupancy of the remaining units of two-, three-, and four-family dwellings after occupancy of one unit by the owner.
 
-    Subsec. (d)(3). [Pub. L. 87–70, § 101(a)(6)][/us/pl/87/70/s101/a/6], included public bodies and agencies which certify that they are not receiving financial assistance exclusively pursuant to the United States Housing Act of 1937 cooperatives, and limited dividend corporations, increased the maximum amount of mortgages from not more than $9,000 per family unit for such part of such property or project as may be attributable to dwelling use to not more than $2,250 per room (or $8,500 per family unit if the number of rooms is less than four per family unit) for such part of such property or project as may be attributable to dwelling use (excluding exterior land improvements), empowered the Commissioner to increase the maximum from $2,250 to $2,750 per room and from $8,500 to $9,000 per family unit to compensate for higher costs incident to the construction of elevator-type structures, and in geographical areas which the cost levels so require from $2,250 to $3,250 per room, increased the maximum amount of the mortgage in the case of repair and rehabilitation from not more than the Commissioner’s estimate of the value of the property when the proposed repair and rehabilitation is completed to not more than the sum of the estimated cost of repair and rehabilitation and the Commissioner’s estimate of the value of the property before repair and rehabilitation, limited, in cases involving refinancing, the amount of the mortgage to not more than the estimated cost of repair and rehabilitation and the amount (as determined by the Commissioner) required to refinance existing indebtedness secured by the property or project, and eliminated provisions which required the property or project to be for use as rental accommodations for ten or more families eligible for occupancy.
+    Subsec. (d)(3). [Pub. L. 87–70][/us/pl/87/70], § 101(a)(6), included public bodies and agencies which certify that they are not receiving financial assistance exclusively pursuant to the United States Housing Act of 1937 cooperatives, and limited dividend corporations, increased the maximum amount of mortgages from not more than $9,000 per family unit for such part of such property or project as may be attributable to dwelling use to not more than $2,250 per room (or $8,500 per family unit if the number of rooms is less than four per family unit) for such part of such property or project as may be attributable to dwelling use (excluding exterior land improvements), empowered the Commissioner to increase the maximum from $2,250 to $2,750 per room and from $8,500 to $9,000 per family unit to compensate for higher costs incident to the construction of elevator-type structures, and in geographical areas which the cost levels so require from $2,250 to $3,250 per room, increased the maximum amount of the mortgage in the case of repair and rehabilitation from not more than the Commissioner’s estimate of the value of the property when the proposed repair and rehabilitation is completed to not more than the sum of the estimated cost of repair and rehabilitation and the Commissioner’s estimate of the value of the property before repair and rehabilitation, limited, in cases involving refinancing, the amount of the mortgage to not more than the estimated cost of repair and rehabilitation and the amount (as determined by the Commissioner) required to refinance existing indebtedness secured by the property or project, and eliminated provisions which required the property or project to be for use as rental accommodations for ten or more families eligible for occupancy.
 
-    Subsec. (d)(4). [Pub. L. 87–70, § 101(a)(7)][/us/pl/87/70/s101/a/7]–(10), substituted “other than a mortgagor referred to in subsection (d)(3) of this section” for “which is not a nonprofit organization” in opening provisions, increased the maximum amount of mortgages from not more than $9,000 per family unit for such part of such property or project as may be attributable to dwelling use to not more than $2,250 per room (or $8,500 per family unit if the number of rooms is less than four per family unit) for such part of such property or project as may be attributable to dwelling use (excluding exterior land improvements), empowered the Commissioner to increase the maximum from $2,250 to $2,750 per room and from $8,500 to $9,000 per family unit to compensate for higher costs incident to the construction of elevator-type structures, and in geographical areas which the cost levels so require from $2,250 to $3,250 per room, increased the maximum amount of the mortgage in the case of repair and rehabilitation from not more than 90 per centum of the Commissioner’s estimate of the value of the property or project when the proposed repair and rehabilitation is completed to not more than 90 per centum of the sum of the estimated cost of repair and rehabilitation and the Commissioner’s estimate of the value of the property before repair and rehabilitation, limited, in cases involving refinancing, the amount of the mortgage to not more than the estimated cost of repair and rehabilitation and the amount (as determined by the Commissioner) required to refinance existing indebtedness secured by the property of project, and eliminated provisions which required the property or project to be for use as rental accommodations for ten or more families eligible for occupancy.
+    Subsec. (d)(4). [Pub. L. 87–70][/us/pl/87/70], § 101(a)(7)–(10), substituted “other than a mortgagor referred to in subsection (d)(3) of this section” for “which is not a nonprofit organization” in opening provisions, increased the maximum amount of mortgages from not more than $9,000 per family unit for such part of such property or project as may be attributable to dwelling use to not more than $2,250 per room (or $8,500 per family unit if the number of rooms is less than four per family unit) for such part of such property or project as may be attributable to dwelling use (excluding exterior land improvements), empowered the Commissioner to increase the maximum from $2,250 to $2,750 per room and from $8,500 to $9,000 per family unit to compensate for higher costs incident to the construction of elevator-type structures, and in geographical areas which the cost levels so require from $2,250 to $3,250 per room, increased the maximum amount of the mortgage in the case of repair and rehabilitation from not more than 90 per centum of the Commissioner’s estimate of the value of the property or project when the proposed repair and rehabilitation is completed to not more than 90 per centum of the sum of the estimated cost of repair and rehabilitation and the Commissioner’s estimate of the value of the property before repair and rehabilitation, limited, in cases involving refinancing, the amount of the mortgage to not more than the estimated cost of repair and rehabilitation and the amount (as determined by the Commissioner) required to refinance existing indebtedness secured by the property of project, and eliminated provisions which required the property or project to be for use as rental accommodations for ten or more families eligible for occupancy.
 
-    Subsec. (d)(5). [Pub. L. 87–70, § 101(a)(10)][/us/pl/87/70/s101/a/10], (11), struck out provisions which required the mortgage to provide for complete amortization by periodic payments within such terms as the Commissioner may prescribe, but not to exceed 40 years from the date of insurance of the mortgage or three-quarters of the Commissioner’s estimate of the remaining economic life of the building improvements, whichever is the lesser, and inserted proviso requiring the mortgage to bear interest at not less than the annual rate of interest determined by estimating the average market yield to maturity on all outstanding marketable obligations of the United States, and by adjusting such yield to the nearest one-eighth of 1 per centum.
+    Subsec. (d)(5). [Pub. L. 87–70][/us/pl/87/70], § 101(a)(10), (11), struck out provisions which required the mortgage to provide for complete amortization by periodic payments within such terms as the Commissioner may prescribe, but not to exceed 40 years from the date of insurance of the mortgage or three-quarters of the Commissioner’s estimate of the remaining economic life of the building improvements, whichever is the lesser, and inserted proviso requiring the mortgage to bear interest at not less than the annual rate of interest determined by estimating the average market yield to maturity on all outstanding marketable obligations of the United States, and by adjusting such yield to the nearest one-eighth of 1 per centum.
 
-    Subsec. (d)(6). [Pub. L. 87–70, § 101(a)(10)][/us/pl/87/70/s101/a/10], added par. (6).
+    Subsec. (d)(6). [Pub. L. 87–70][/us/pl/87/70], § 101(a)(10), added par. (6).
 
-    Subsec. (f). [Pub. L. 87–70, § 101(a)(12)][/us/pl/87/70/s101/a/12], required a property or project covered by a mortgage insured under subsec. (d)(3) or (d)(4) of this section to include five or more family units, empowered the Commissioner to adopt such procedures and requirements to assure that the dwelling accommodations provided under this section are available to families displaced from urban renewal areas or as a result of governmental action, authorized the Commissioner to insure a mortgage which meets subsec. (d)(3) of this section with no premium charge, with a reduced premium charge, or with a premium charge for such period or periods during the time the insurance is in effect as he may determine, and prohibited insurance of mortgages under subsec. (d)(2) or (d)(4) of this section after July 1, 1963, or under subsec. (d)(3) of this section after July 1, 1965, except pursuant to a commitment to insure before that date or except a mortgage covering property which will assist in the provision of housing for families displaced from urban renewal areas or as a result of governmental action.
+    Subsec. (f). [Pub. L. 87–70][/us/pl/87/70], § 101(a)(12), required a property or project covered by a mortgage insured under subsec. (d)(3) or (d)(4) of this section to include five or more family units, empowered the Commissioner to adopt such procedures and requirements to assure that the dwelling accommodations provided under this section are available to families displaced from urban renewal areas or as a result of governmental action, authorized the Commissioner to insure a mortgage which meets subsec. (d)(3) of this section with no premium charge, with a reduced premium charge, or with a premium charge for such period or periods during the time the insurance is in effect as he may determine, and prohibited insurance of mortgages under subsec. (d)(2) or (d)(4) of this section after July 1, 1963, or under subsec. (d)(3) of this section after July 1, 1965, except pursuant to a commitment to insure before that date or except a mortgage covering property which will assist in the provision of housing for families displaced from urban renewal areas or as a result of governmental action.
 
-    Subsec. (g)(3), (4). [Pub. L. 87–70, § 101(a)(13)][/us/pl/87/70/s101/a/13], (14), added par. (3), redesignated former par. (3) as (4), and substituted “this paragraph” for “this paragraph (3)”.
+    Subsec. (g)(3), (4). [Pub. L. 87–70][/us/pl/87/70], § 101(a)(13), (14), added par. (3), redesignated former par. (3) as (4), and substituted “this paragraph” for “this paragraph (3)”.
 
-    Subsec. (h). [Pub. L. 87–70, § 101(a)(15)][/us/pl/87/70/s101/a/15], inserted “cash payments,” after “cash adjustments,” in last sentence.
+    Subsec. (h). [Pub. L. 87–70][/us/pl/87/70], § 101(a)(15), inserted “cash payments,” after “cash adjustments,” in last sentence.
 
-    1959—Subsec. (a). [Pub. L. 86–372, § 110(a)(1)][/us/pl/86/372/s110/a/1], (2), inserted provisions in first par. to authorize assistance in relocating families residing in the environs of a community described in cl. (2) which are to be displaced as the result of governmental action, inserted provisions in second par. making mortgage insurance available in environs of communities and substituted “in or near any such community” for “in any such community” in second proviso of second par.
+    1959—Subsec. (a). [Pub. L. 86–372][/us/pl/86/372], § 110(a)(1), (2), inserted provisions in first par. to authorize assistance in relocating families residing in the environs of a community described in cl. (2) which are to be displaced as the result of governmental action, inserted provisions in second par. making mortgage insurance available in environs of communities and substituted “in or near any such community” for “in any such community” in second proviso of second par.
 
-    Subsec. (d)(2). [Pub. L. 86–372, § 110(b)][/us/pl/86/372/s110/b], required a mortgage to be secured by property upon which there is located a dwelling conforming to applicable standards prescribed by the Commissioner under subsec. (f) of this section, and meeting the requirements of all State laws, or local ordinances or regulations, relating to the public health or safety, zoning, or otherwise, which may be applicable thereto, increased the maximum amount of the mortgage on a single-family residence in a high cost area from $10,000 to $12,000, authorized insurance of mortgages for two-, three-, and four-family residences and required the Commissioner to prescribe such procedures as are necessary to secure to families, referred to in subsec. (a) of this section, priorities in occupancy of the remaining units of two-, three-, and four-family dwellings after occupancy of one unit by the owner.
+    Subsec. (d)(2). [Pub. L. 86–372][/us/pl/86/372], § 110(b), required a mortgage to be secured by property upon which there is located a dwelling conforming to applicable standards prescribed by the Commissioner under subsec. (f) of this section, and meeting the requirements of all State laws, or local ordinances or regulations, relating to the public health or safety, zoning, or otherwise, which may be applicable thereto, increased the maximum amount of the mortgage on a single-family residence in a high cost area from $10,000 to $12,000, authorized insurance of mortgages for two-, three-, and four-family residences and required the Commissioner to prescribe such procedures as are necessary to secure to families, referred to in subsec. (a) of this section, priorities in occupancy of the remaining units of two-, three-, and four-family dwellings after occupancy of one unit by the owner.
 
-    Subsec. (d)(3). [Pub. L. 86–372, § 110(c)(1)][/us/pl/86/372/s110/c/1], (2), substituted “$12,000” for “$10,000”, and “not in excess of (1) in the case of new construction, the amount which the Commissioner estimates will be the replacement cost of the property or project when the proposed improvements are completed (the replacement cost may include the land, the proposed physical improvements utilities within the boundaries of the land, architect’s fees, taxes, interest during construction, and other miscellaneous charges incident to construction and approved by the Commissioner), or (2) in the case of repair and rehabilitation, the Commissioner’s estimate of the value of the property when the proposed repair and rehabilitation is completed: Provided, That such property or project, when constructed, or repaired and rehabilitated, shall be for use as rental accommodations for ten or more families eligible for occupancy as provided in this section; or” for “not in excess of the Commissioner’s estimate of the value of the property or project when constructed, or repaired and rehabilitated, for use as rental accommodations for ten or more families eligible for occupancy as provided in this section; and”.
+    Subsec. (d)(3). [Pub. L. 86–372][/us/pl/86/372], § 110(c)(1), (2), substituted “$12,000” for “$10,000”, and “not in excess of (1) in the case of new construction, the amount which the Commissioner estimates will be the replacement cost of the property or project when the proposed improvements are completed (the replacement cost may include the land, the proposed physical improvements utilities within the boundaries of the land, architect’s fees, taxes, interest during construction, and other miscellaneous charges incident to construction and approved by the Commissioner), or (2) in the case of repair and rehabilitation, the Commissioner’s estimate of the value of the property when the proposed repair and rehabilitation is completed: Provided, That such property or project, when constructed, or repaired and rehabilitated, shall be for use as rental accommodations for ten or more families eligible for occupancy as provided in this section; or” for “not in excess of the Commissioner’s estimate of the value of the property or project when constructed, or repaired and rehabilitated, for use as rental accommodations for ten or more families eligible for occupancy as provided in this section; and”.
 
-    Subsec. (d)(4), (5). [Pub. L. 86–372, § 110(c)(3)][/us/pl/86/372/s110/c/3], added par. (4) and redesignated former par. (4) as (5).
+    Subsec. (d)(4), (5). [Pub. L. 86–372][/us/pl/86/372], § 110(c)(3), added par. (4) and redesignated former par. (4) as (5).
 
-    Subsec. (f). [Pub. L. 86–372, § 110(d)][/us/pl/86/372/s110/d], authorized the property or project to include such commercial and community facilities as the Commissioner deems adequate to serve the occupants.
+    Subsec. (f). [Pub. L. 86–372][/us/pl/86/372], § 110(d), authorized the property or project to include such commercial and community facilities as the Commissioner deems adequate to serve the occupants.
 
-    Subsec. (g)(1). [Pub. L. 86–372, § 116(b)][/us/pl/86/372/s116/b], inserted reference to subsec. (k) of [section 1710 of this title][/us/usc/t12/s1710].
+    Subsec. (g)(1). [Pub. L. 86–372][/us/pl/86/372], § 116(b), inserted reference to subsec. (k) of [section 1710 of this title][/us/usc/t12/s1710].
 
-    Subsec. (g)(2). [Pub. L. 86–372, § 110(e)][/us/pl/86/372/s110/e], substituted “paragraph (3) or (4)” for “paragraph (3)”.
+    Subsec. (g)(2). [Pub. L. 86–372][/us/pl/86/372], § 110(e), substituted “paragraph (3) or (4)” for “paragraph (3)”.
 
     1957—Subsec. (g)(1). [Pub. L. 85–104][/us/pl/85/104] substituted “(h), and (j) of [section 1710 of this title][/us/usc/t12/s1710]” for “and (h) of [section 1710 of this title][/us/usc/t12/s1710]”.
 
@@ -661,7 +661,7 @@
 
  __Effective Date of Temporary Extension of Emergency Low Income Housing Preservation Act of 1987 and Correction of Any Repeal__ 
 
-[Pub. L. 101–494, § 1][/us/pl/101/494/s1], Oct. 31, 1990, [104 Stat. 1185][/us/stat/104/1185], provided that:
+[Pub. L. 101–494][/us/pl/101/494], § 1, Oct. 31, 1990, [104 Stat. 1185][/us/stat/104/1185], provided that:
 
 >     “(a)  __Effective Date of Extender__  __.—__ 
 
@@ -681,7 +681,7 @@
 
  __Preservation of Low-Income Housing__ 
 
-The Emergency Low Income Housing Preservation Act of 1987, consisting of title II of [Pub. L. 100–242][/us/pl/100/242], Feb. 5, 1988, [101 Stat. 1877][/us/stat/101/1877], amended the National Housing Act, the United States Housing Act of 1937, and the Housing Act of 1949, and enacted provisions formerly set out as a note under this section. The provisions set out as a note under this section consisted of subtitles A and B \[§§ 201–203, 221–230, and 231–235\] of title II of [Pub. L. 100–242][/us/pl/100/242], as amended by [Pub. L. 100–628, title X][/us/pl/100/628], §§ 1021–1027, Nov. 7, 1988, [102 Stat. 3270][/us/stat/102/3270], 3271; [Pub. L. 101–235, title II][/us/pl/101/235], §§ 201, 202(a)–(c), 203(b), Dec. 15, 1989, [103 Stat. 2037][/us/stat/103/2037], 2038; [Pub. L. 101–402, § 1][/us/pl/101/402/s1], Oct. 1, 1990, [104 Stat. 866][/us/stat/104/866]; [Pub. L. 101–494][/us/pl/101/494], §§ 1(c), 2(a), Oct. 31, 1990, [104 Stat. 1185][/us/stat/104/1185], which set up a temporary program for the prepayment of mortgages on low income housing insured under the National Housing Act that terminated on the date of enactment of the Cranston-Gonzalez National Affordable Housing Act (Nov. 28, 1990). The Cranston-Gonzalez National Affordable Housing Act \[[Pub. L. 101–625][/us/pl/101/625]\] amended subtitles A and B of title II of [Pub. L. 100–242][/us/pl/100/242] generally, changing the name of title II of [Pub. L. 100–242][/us/pl/100/242] to the “Low-Income Housing Preservation and Resident Homeownership Act of 1990”. As amended, subtitles A and B of title II are classified generally to subchapter I (§ 4101 et seq.) of chapter 42 of this title. Prior to the general revision by [Pub. L. 101–625][/us/pl/101/625], subtitles A and B of title II read as follows:
+The Emergency Low Income Housing Preservation Act of 1987, consisting of title II of [Pub. L. 100–242][/us/pl/100/242], Feb. 5, 1988, [101 Stat. 1877][/us/stat/101/1877], amended the National Housing Act, the United States Housing Act of 1937, and the Housing Act of 1949, and enacted provisions formerly set out as a note under this section. The provisions set out as a note under this section consisted of subtitles A and B \[§§ 201–203, 221–230, and 231–235\] of title II of [Pub. L. 100–242][/us/pl/100/242], as amended by [Pub. L. 100–628, title X][/us/pl/100/628/tX], §§ 1021–1027, Nov. 7, 1988, [102 Stat. 3270][/us/stat/102/3270], 3271; [Pub. L. 101–235, title II][/us/pl/101/235/tII], §§ 201, 202(a)–(c), 203(b), Dec. 15, 1989, [103 Stat. 2037][/us/stat/103/2037], 2038; [Pub. L. 101–402][/us/pl/101/402], § 1, Oct. 1, 1990, [104 Stat. 866][/us/stat/104/866]; [Pub. L. 101–494][/us/pl/101/494], §§ 1(c), 2(a), Oct. 31, 1990, [104 Stat. 1185][/us/stat/104/1185], which set up a temporary program for the prepayment of mortgages on low income housing insured under the National Housing Act that terminated on the date of enactment of the Cranston-Gonzalez National Affordable Housing Act (Nov. 28, 1990). The Cranston-Gonzalez National Affordable Housing Act \[[Pub. L. 101–625][/us/pl/101/625]\] amended subtitles A and B of title II of [Pub. L. 100–242][/us/pl/100/242] generally, changing the name of title II of [Pub. L. 100–242][/us/pl/100/242] to the “Low-Income Housing Preservation and Resident Homeownership Act of 1990”. As amended, subtitles A and B of title II are classified generally to subchapter I (§ 4101 et seq.) of chapter 42 of this title. Prior to the general revision by [Pub. L. 101–625][/us/pl/101/625], subtitles A and B of title II read as follows:
 
 > “subtitle a— __general provisions__ 
 
@@ -1027,13 +1027,13 @@ The Emergency Low Income Housing Preservation Act of 1987, consisting of title I
 
 >     “The requirements of this subtitle shall apply to any project that is eligible low income housing on or after November 1, 1987.”
 
-\[[Pub. L. 101–494, § 2(b)][/us/pl/101/494/s2/b], Oct. 31, 1990, [104 Stat. 1185][/us/stat/104/1185], provided that: 
+\[[Pub. L. 101–494][/us/pl/101/494], § 2(b), Oct. 31, 1990, [104 Stat. 1185][/us/stat/104/1185], provided that: 
 
 > “If the Cranston-Gonzalez National Affordable Housing Act \[[Pub. L. 101–625][/us/pl/101/625], which was approved Nov. 28, 1990\] is enacted on or after October 31, 1990, this section \[amending [section 203(a) of Pub. L. 100–242][/us/pl/100/242/s203/a] set out above\] shall be deemed to have taken effect on October 30, 1990.”
 
  __Nehemiah Housing Opportunity Grants__ 
 
-    [Pub. L. 100–242, title VI][/us/pl/100/242] (§§ 601–613), Feb. 5, 1988, [101 Stat. 1951][/us/stat/101/1951], as amended by [Pub. L. 102–139, title II][/us/pl/102/139], Oct. 28, 1991, [105 Stat. 759][/us/stat/105/759]; [Pub. L. 102–550, title I, § 183][/us/pl/102/550/s183], Oct. 28, 1992, [106 Stat. 3738][/us/stat/106/3738], established the Nehemiah Housing Opportunity Fund to provide assistance in the form of grants to nonprofit organizations for the construction, rehabilitation, and financing of housing for families not otherwise able to afford homeownership. [Pub. L. 101–625, title II, § 289(a)(3)][/us/pl/101/625/s289/a/3], (b), Nov. 28, 1990, [104 Stat. 4128][/us/stat/104/4128], which is classified to section 12839(a)(3), (b) of Title 42, The Public Health and Welfare, provided that, except with respect to projects and programs for which binding commitments have been entered into prior to Oct. 1, 1991, no new grants or loans be made after Oct. 1, 1991, under title VI of [Pub. L. 100–242][/us/pl/100/242], and effective Oct. 1, 1991, title VI of [Pub. L. 100–242][/us/pl/100/242] is repealed.
+    [Pub. L. 100–242, title VI][/us/pl/100/242/tVI] (§§ 601–613), Feb. 5, 1988, [101 Stat. 1951][/us/stat/101/1951], as amended by [Pub. L. 102–139, title II][/us/pl/102/139/tII], Oct. 28, 1991, [105 Stat. 759][/us/stat/105/759]; [Pub. L. 102–550, title I][/us/pl/102/550/tI], § 183, Oct. 28, 1992, [106 Stat. 3738][/us/stat/106/3738], established the Nehemiah Housing Opportunity Fund to provide assistance in the form of grants to nonprofit organizations for the construction, rehabilitation, and financing of housing for families not otherwise able to afford homeownership. [Pub. L. 101–625, title II][/us/pl/101/625/tII], § 289(a)(3), (b), Nov. 28, 1990, [104 Stat. 4128][/us/stat/104/4128], which is classified to section 12839(a)(3), (b) of Title 42, The Public Health and Welfare, provided that, except with respect to projects and programs for which binding commitments have been entered into prior to Oct. 1, 1991, no new grants or loans be made after Oct. 1, 1991, under title VI of [Pub. L. 100–242][/us/pl/100/242], and effective Oct. 1, 1991, title VI of [Pub. L. 100–242][/us/pl/100/242] is repealed.
 
  __Limitation on Number of Dwelling Units With Mortgages Not Providing for Complete Amortization__ 
 
@@ -1045,7 +1045,7 @@ The Emergency Low Income Housing Preservation Act of 1987, consisting of title I
 
  __Taxation of Interest Paid on Obligations Secured by Insured Mortgage and Issued by Public Agency__ 
 
-[Pub. L. 93–383, title III, § 319(b)][/us/pl/93/383/s319/b], Aug. 22, 1974, [88 Stat. 686][/us/stat/88/686], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
+[Pub. L. 93–383, title III][/us/pl/93/383/tIII], § 319(b), Aug. 22, 1974, [88 Stat. 686][/us/stat/88/686], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
 
 > “With respect to any obligation secured by a mortgage which is insured under section 221(d)(3) of the National Housing Acts \[subsec. (d)(3) of this section\] and issued by a public agency as mortgagor in connection with the financing of a project assisted under section 8 of the United States Housing Act of 1937 \[[section 1437f of title 42][/us/usc/t42/s1437f]\], the interest paid on such obligation shall be included in gross income for purposes of chapter 1 of the Internal Revenue Code of 1986 \[chapter 1 of title 26\].”
 
@@ -1059,11 +1059,11 @@ The Emergency Low Income Housing Preservation Act of 1987, consisting of title I
 [/us/usc/t12/s1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1707
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/usc/t42/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437
-[/us/pl/93/383/s304/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs304%2Fe%2F1
+[/us/pl/93/383/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtIII
 [/us/stat/88/678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F678
 [/us/usc/t12/s1712a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1712a
 [/us/usc/t42/s1460/c/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1460%2Fc%2F8
-[/us/pl/93/383/s304/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs304%2Fe%2F2
+[/us/pl/93/383/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtIII
 [/us/stat/88/678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F678
 [/us/usc/t12/s1712a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1712a
 [/us/usc/t42/s4851b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4851b
@@ -1100,111 +1100,111 @@ The Emergency Low Income Housing Preservation Act of 1987, consisting of title I
 [/us/stat/69/635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F635
 [/us/act/1956-08-07/ch1029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-07%2Fch1029
 [/us/stat/70/1094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1094
-[/us/pl/85/104/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F104%2Fs112
+[/us/pl/85/104/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F104%2FtI
 [/us/stat/71/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F297
-[/us/pl/86/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F372
+[/us/pl/86/372/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F372%2FtI
 [/us/stat/73/658-661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F658-661
-[/us/pl/87/70/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F70%2Fs101%2Fa
+[/us/pl/87/70/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F70%2FtI
 [/us/stat/75/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F149
 [/us/pl/88/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F54
 [/us/stat/77/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F73
-[/us/pl/88/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F560
+[/us/pl/88/560/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F560%2FtI
 [/us/stat/78/772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F772
-[/us/pl/89/117/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117%2Fs102%2Fa
+[/us/pl/89/117/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117%2FtI
 [/us/stat/79/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F454
-[/us/pl/89/754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F754
+[/us/pl/89/754/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F754%2FtIII
 [/us/stat/80/1268-1270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1268-1270
-[/us/pl/89/769/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F769%2Fs4
+[/us/pl/89/769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F769
 [/us/stat/80/1317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1317
-[/us/pl/90/19/s1/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19%2Fs1%2Fa%2F3
+[/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
 [/us/stat/81/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F17
-[/us/pl/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448
+[/us/pl/90/448/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2FtI
 [/us/stat/82/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F483
-[/us/pl/91/78/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F78%2Fs2%2Fc
+[/us/pl/91/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F78
 [/us/stat/83/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F125
-[/us/pl/91/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F152
+[/us/pl/91/152/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F152%2FtI
 [/us/stat/83/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F379
-[/us/pl/91/432/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F432%2Fs1%2Fc
+[/us/pl/91/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F432
 [/us/stat/84/887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F887
-[/us/pl/91/473/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F473%2Fs1%2Fc
+[/us/pl/91/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F473
 [/us/stat/84/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1064
-[/us/pl/91/525/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F525%2Fs1%2Fc
+[/us/pl/91/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F525
 [/us/stat/84/1384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1384
-[/us/pl/91/606/s301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F606%2Fs301%2Fd
+[/us/pl/91/606/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F606%2FtIII
 [/us/stat/84/1758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1758
-[/us/pl/91/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F609
+[/us/pl/91/609/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F609%2FtI
 [/us/stat/84/1770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1770
-[/us/pl/92/503/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F503%2Fs1%2Fc
+[/us/pl/92/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F503
 [/us/stat/86/906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F906
-[/us/pl/93/85/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F85%2Fs1%2Fc
+[/us/pl/93/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F85
 [/us/stat/87/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F220
-[/us/pl/93/117/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F117%2Fs1%2Fc
+[/us/pl/93/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F117
 [/us/stat/87/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F421
-[/us/pl/93/288/s702/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs702%2Fd
+[/us/pl/93/288/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2FtVII
 [/us/stat/88/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F163
-[/us/pl/103/337/s3411/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs3411%2Fa%2F1
+[/us/pl/103/337/dC/tXXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdC%2FtXXXIV
 [/us/stat/108/3100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3100
-[/us/pl/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383
+[/us/pl/93/383/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtIII
 [/us/stat/88/676-678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F676-678
 [/us/pl/94/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F173
 [/us/stat/89/1027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1027
 [/us/pl/94/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F375
 [/us/stat/90/1069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1069
-[/us/pl/95/24/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F24%2Fs106
+[/us/pl/95/24/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F24%2FtI
 [/us/stat/91/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F56
-[/us/pl/95/60/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F60%2Fs1%2Fc
+[/us/pl/95/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F60
 [/us/stat/91/257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F257
-[/us/pl/95/80/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F80%2Fs1%2Fc
+[/us/pl/95/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F80
 [/us/stat/91/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F339
-[/us/pl/95/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128
+[/us/pl/95/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2FtIII
 [/us/stat/91/1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1131
-[/us/pl/95/406/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F406%2Fs1%2Fc
+[/us/pl/95/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F406
 [/us/stat/92/879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F879
-[/us/pl/95/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557
+[/us/pl/95/557/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2FtIII
 [/us/stat/92/2096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2096
-[/us/pl/96/71/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F71%2Fs1%2Fc
+[/us/pl/96/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F71
 [/us/stat/93/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F501
-[/us/pl/96/105/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F105%2Fs1%2Fc
+[/us/pl/96/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F105
 [/us/stat/93/794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F794
-[/us/pl/96/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153
+[/us/pl/96/153/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153%2FtIII
 [/us/stat/93/1111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1111
-[/us/pl/96/372/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F372%2Fs1%2Fc
+[/us/pl/96/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F372
 [/us/stat/94/1363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1363
-[/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
+[/us/pl/96/399/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2FtIII
 [/us/stat/94/1638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1638
-[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F412
-[/us/pl/97/253/s201/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253%2Fs201%2Fd
+[/us/pl/97/253/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253%2FtII
 [/us/stat/96/789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F789
-[/us/pl/97/289/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F289%2Fs1%2Fc
+[/us/pl/97/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F289
 [/us/stat/96/1230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1230
-[/us/pl/97/377/s101/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F377%2Fs101%2Fg
+[/us/pl/97/377/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F377%2FtI
 [/us/stat/96/1908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1908
-[/us/pl/98/35/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F35%2Fs1%2Fc
+[/us/pl/98/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F35
 [/us/stat/97/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F197
-[/us/pl/98/109/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F109%2Fs1%2Fc
+[/us/pl/98/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F109
 [/us/stat/97/745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F745
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1207
-[/us/pl/98/479/s204/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2Fs204%2Fa%2F6
+[/us/pl/98/479/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2FtII
 [/us/stat/98/2232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2232
-[/us/pl/99/120/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F120%2Fs1%2Fc
+[/us/pl/99/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F120
 [/us/stat/99/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F502
-[/us/pl/99/156/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F156%2Fs1%2Fc
+[/us/pl/99/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F156
 [/us/stat/99/815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F815
-[/us/pl/99/219/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F219%2Fs1%2Fc
+[/us/pl/99/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F219
 [/us/stat/99/1730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1730
-[/us/pl/99/267/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F267%2Fs1%2Fc
+[/us/pl/99/267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F267
 [/us/stat/100/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F73
-[/us/pl/99/272/s3007/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs3007%2Fc
+[/us/pl/99/272/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtIII
 [/us/stat/100/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F104
-[/us/pl/99/289/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F289%2Fs1%2Fb
+[/us/pl/99/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F289
 [/us/stat/100/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F412
-[/us/pl/99/345/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F345%2Fs1
+[/us/pl/99/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F345
 [/us/stat/100/673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F673
 [/us/pl/99/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F430
 [/us/stat/100/986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F986
-[/us/pl/100/122/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F122%2Fs1
+[/us/pl/100/122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F122
 [/us/stat/101/793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F793
 [/us/pl/100/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F154
 [/us/stat/101/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F890
@@ -1214,38 +1214,38 @@ The Emergency Low Income Housing Preservation Act of 1987, consisting of title I
 [/us/stat/101/1018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1018
 [/us/pl/100/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F200
 [/us/stat/101/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1327
-[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtIV
 [/us/stat/101/1898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1898
-[/us/pl/100/707/s109/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs109%2Fe%2F3
+[/us/pl/100/707/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2FtI
 [/us/stat/102/4708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4708
-[/us/pl/101/508/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs2201
+[/us/pl/101/508/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtII
 [/us/stat/104/1388-21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-21
-[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtVI
 [/us/stat/104/4278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4278
-[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtV
 [/us/stat/106/3783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3783
-[/us/pl/104/134/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101%2Fe
+[/us/pl/104/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtI
 [/us/stat/110/1321-257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-257
-[/us/pl/104/140/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140%2Fs1%2Fa
+[/us/pl/104/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140
 [/us/stat/110/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1327
-[/us/pl/105/276/s222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs222
+[/us/pl/105/276/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtII
 [/us/stat/112/2489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2489
-[/us/pl/106/377/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377%2Fs1%2Fa%2F1
+[/us/pl/106/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377
 [/us/stat/114/1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1441
-[/us/pl/107/73/s213/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F73%2Fs213%2Fd
+[/us/pl/107/73/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F73%2FtII
 [/us/stat/115/676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F676
-[/us/pl/107/326/s5/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F326%2Fs5%2Fb%2F4
+[/us/pl/107/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F326
 [/us/stat/116/2795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2795
-[/us/pl/108/186/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F186%2Fs302%2Fb
+[/us/pl/108/186/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F186%2FtIII
 [/us/stat/117/2692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2692
-[/us/pl/110/161/s221/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs221%2F1
+[/us/pl/110/161/dK/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdK%2FtII
 [/us/stat/121/2436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2436
 [/us/usc/t12/s1735c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1735c
 [/us/usc/t12/s1720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1720
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1240
 [/us/act/1937-09-01/ch896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch896
-[/us/pl/93/383/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs201%2Fa
+[/us/pl/93/383/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtII
 [/us/stat/88/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F653
 [/us/usc/t42/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437
 [/us/usc/t42/s1460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1460
@@ -1254,7 +1254,7 @@ The Emergency Low Income Housing Preservation Act of 1987, consisting of title I
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
 [/us/stat/48/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1246
 [/us/usc/t12/s1701q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701q
-[/us/pl/101/625/s801/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs801%2Fa
+[/us/pl/101/625/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtVIII
 [/us/stat/104/4297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4297
 [/us/pl/93/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288
 [/us/stat/88/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F143
@@ -1264,10 +1264,10 @@ The Emergency Low Income Housing Preservation Act of 1987, consisting of title I
 [/us/usc/t12/s1715z–1a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715z%E2%80%931a
 [/us/usc/t12/s1715z–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715z%E2%80%931
 [/us/usc/t12/s1710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1710
-[/us/pl/105/276/s602/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs602%2F1
+[/us/pl/105/276/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtVI
 [/us/stat/112/2674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2674
 [/us/usc/t12/s1710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1710
-[/us/pl/105/276/s601/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs601%2Fc
+[/us/pl/105/276/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtVI
 [/us/stat/112/2673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2673
 [/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
 [/us/stat/101/1877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1877
@@ -1283,46 +1283,46 @@ The Emergency Low Income Housing Preservation Act of 1987, consisting of title I
 [/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
 [/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
 [/us/pl/108/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F186
-[/us/pl/107/326/s5/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F326%2Fs5%2Fb%2F4
+[/us/pl/107/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F326
 [/us/usc/t12/s1712a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1712a
-[/us/pl/107/326/s5/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F326%2Fs5%2Fb%2F5
+[/us/pl/107/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F326
 [/us/usc/t12/s1712a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1712a
-[/us/pl/107/73/s213/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F73%2Fs213%2Fd
-[/us/pl/107/73/s213/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F73%2Fs213%2Fe
+[/us/pl/107/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F73
+[/us/pl/107/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F73
 [/us/pl/106/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377
-[/us/pl/105/276/s222/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs222%2F1
-[/us/pl/105/276/s222/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs222%2F2
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
 [/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
-[/us/pl/102/550/s509/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs509%2Fd
-[/us/pl/102/550/s509/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs509%2Fe
-[/us/pl/102/550/s1012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1012
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/usc/t42/s4851b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4851b
-[/us/pl/102/550/s516/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs516%2Fd
-[/us/pl/101/625/s611/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs611%2Fb%2F2
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
-[/us/pl/101/625/s612/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs612%2Fb
-[/us/pl/100/242/s406/b/10/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs406%2Fb%2F10%2FA
-[/us/pl/100/242/s406/b/10/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs406%2Fb%2F10%2FB
-[/us/pl/100/242/s406/b/10/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs406%2Fb%2F10%2FC
-[/us/pl/100/242/s406/b/10/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs406%2Fb%2F10%2FD
-[/us/pl/100/242/s426/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs426%2Fd
-[/us/pl/100/242/s426/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs426%2Fd
-[/us/pl/100/242/s426/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs426%2Fh
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
 [/us/usc/t12/s1720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1720
 [/us/usc/t12/s1720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1720
-[/us/pl/100/242/s426/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs426%2Fe
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
 [/us/usc/t12/s1720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1720
 [/us/usc/t12/s1720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1720
-[/us/pl/100/242/s406/b/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs406%2Fb%2F11
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
 [/us/pl/100/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707
-[/us/pl/100/242/s401/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs401%2Fa%2F2
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
 [/us/pl/100/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F200
 [/us/pl/100/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F179
 [/us/pl/100/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F170
 [/us/pl/100/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F154
 [/us/pl/100/122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F122
-[/us/pl/100/242/s406/b/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs406%2Fb%2F12
-[/us/pl/100/242/s406/b/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs406%2Fb%2F13
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
 [/us/pl/99/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F430
 [/us/pl/99/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F345
 [/us/pl/99/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F289
@@ -1333,57 +1333,57 @@ The Emergency Low Income Housing Preservation Act of 1987, consisting of title I
 [/us/pl/99/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F156
 [/us/pl/99/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F120
 [/us/pl/98/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479
-[/us/pl/98/181/s423/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs423%2Fb%2F3
-[/us/pl/98/181/s432/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs432%2Fb
-[/us/pl/98/181/s432/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs432%2Fc
-[/us/pl/98/181/s404/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs404%2Fb%2F8
-[/us/pl/98/181/s446/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs446%2Fd
-[/us/pl/98/181/s401/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs401%2Fc
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
 [/us/pl/98/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F109
 [/us/pl/98/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F35
 [/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
-[/us/pl/98/181/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs408
-[/us/pl/97/253/s201/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253%2Fs201%2Fd%2F1
-[/us/pl/97/253/s201/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253%2Fs201%2Fd%2F2
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/97/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253
+[/us/pl/97/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253
 [/us/pl/97/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F377
 [/us/usc/t12/s1720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1720
 [/us/pl/97/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F377
 [/us/usc/t12/s1720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1720
 [/us/pl/97/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F289
-[/us/pl/97/35/s331/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs331%2Fc
-[/us/pl/97/35/s339B/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs339B%2Fa
-[/us/pl/96/399/s333/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs333%2Fc
-[/us/pl/96/399/s301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs301%2Fc
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
+[/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
 [/us/pl/96/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F372
-[/us/pl/96/399/s333/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs333%2Fd
-[/us/pl/96/399/s310/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs310%2Fd
-[/us/pl/96/153/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153%2Fs314
-[/us/pl/96/153/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153%2Fs314
+[/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
+[/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
+[/us/pl/96/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153
+[/us/pl/96/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153
 [/us/pl/96/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153
 [/us/pl/96/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F105
 [/us/pl/96/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F71
-[/us/pl/95/557/s325/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2Fs325%2Fa
-[/us/pl/95/557/s325/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2Fs325%2Fb
-[/us/pl/95/557/s301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2Fs301%2Fc
+[/us/pl/95/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557
+[/us/pl/95/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557
+[/us/pl/95/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557
 [/us/pl/95/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F406
-[/us/pl/95/128/s303/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs303%2Fc
+[/us/pl/95/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128
 [/us/pl/95/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F24
-[/us/pl/95/128/s301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs301%2Fc
+[/us/pl/95/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128
 [/us/pl/95/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F80
 [/us/pl/95/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F60
-[/us/pl/94/375/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F375%2Fs3%2Fd
-[/us/pl/94/375/s8/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F375%2Fs8%2Fb%2F4
-[/us/pl/94/375/s8/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F375%2Fs8%2Fb%2F5
-[/us/pl/94/173/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F173%2Fs3
-[/us/pl/94/173/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F173%2Fs3
-[/us/pl/94/173/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F173%2Fs4%2Fa
-[/us/pl/93/383/s302/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs302%2Fc
-[/us/pl/93/383/s319/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs319%2Fa
-[/us/pl/93/383/s304/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs304%2Fe%2F1
-[/us/pl/93/383/s303/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs303%2Fd
-[/us/pl/93/383/s304/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs304%2Fe%2F2
-[/us/pl/93/383/s303/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs303%2Fe
-[/us/pl/93/383/s316/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs316%2Fc
+[/us/pl/94/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F375
+[/us/pl/94/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F375
+[/us/pl/94/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F375
+[/us/pl/94/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F173
+[/us/pl/94/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F173
+[/us/pl/94/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F173
+[/us/pl/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383
+[/us/pl/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383
+[/us/pl/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383
+[/us/pl/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383
+[/us/pl/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383
+[/us/pl/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383
+[/us/pl/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383
 [/us/pl/93/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288
 [/us/pl/93/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F117
 [/us/pl/93/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F85
@@ -1393,76 +1393,76 @@ The Emergency Low Income Housing Preservation Act of 1987, consisting of title I
 [/us/pl/91/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F525
 [/us/pl/91/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F473
 [/us/pl/91/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F432
-[/us/pl/91/152/s113/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F152%2Fs113%2Fe%2F1
-[/us/pl/91/152/s113/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F152%2Fs113%2Fe%2F3
-[/us/pl/91/152/s113/e/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F152%2Fs113%2Fe%2F5
-[/us/pl/91/152/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F152%2Fs101%2Fc
+[/us/pl/91/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F152
+[/us/pl/91/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F152
+[/us/pl/91/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F152
+[/us/pl/91/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F152
 [/us/pl/91/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F78
-[/us/pl/91/152/s113/e/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F152%2Fs113%2Fe%2F7
+[/us/pl/91/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F152
 [/us/pl/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448
-[/us/pl/90/448/s101/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs101%2Fb%2F2
-[/us/pl/90/448/s311/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs311%2Fb
+[/us/pl/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448
+[/us/pl/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448
 [/us/usc/t42/s1460/c/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1460%2Fc%2F8
 [/us/pl/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448
-[/us/pl/90/448/s105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs105%2Fb
-[/us/pl/90/448/s105/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs105%2Fc
-[/us/pl/90/448/s316/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs316%2Fa
-[/us/pl/90/448/s101/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs101%2Fc%2F2
-[/us/pl/90/448/s101/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs101%2Fc%2F1
-[/us/pl/90/448/s101/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs101%2Fc%2F3
-[/us/pl/90/448/s316/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs316%2Fb
-[/us/pl/90/448/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs105%2Fa
-[/us/pl/90/19/s1/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19%2Fs1%2Fa%2F3
-[/us/pl/90/19/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19%2Fs1%2Fa%2F4
-[/us/pl/89/769/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F769%2Fs4%2Fa
-[/us/pl/89/769/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F769%2Fs4%2Fa
-[/us/pl/89/754/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F754%2Fs307
-[/us/pl/89/769/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F769%2Fs4%2Fa
-[/us/pl/89/769/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F769%2Fs4%2Fa
+[/us/pl/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448
+[/us/pl/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448
+[/us/pl/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448
+[/us/pl/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448
+[/us/pl/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448
+[/us/pl/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448
+[/us/pl/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448
+[/us/pl/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448
+[/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
+[/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
+[/us/pl/89/769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F769
+[/us/pl/89/769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F769
 [/us/pl/89/754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F754
-[/us/pl/89/754/s310/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F754%2Fs310%2Fb%2F1
-[/us/pl/89/754/s310/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F754%2Fs310%2Fb%2F2
-[/us/pl/89/754/s310/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F754%2Fs310%2Fa
-[/us/pl/89/117/s1108/i/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117%2Fs1108%2Fi%2F4
+[/us/pl/89/769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F769
+[/us/pl/89/769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F769
+[/us/pl/89/754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F754
+[/us/pl/89/754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F754
+[/us/pl/89/754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F754
+[/us/pl/89/754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F754
+[/us/pl/89/117/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117%2FtXI
 [/us/stat/79/505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F505
-[/us/pl/89/117/s207/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117%2Fs207%2Fd
 [/us/pl/89/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117
-[/us/pl/89/117/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117%2Fs102%2Fb
 [/us/pl/89/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117
-[/us/pl/89/117/s1108/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117%2Fs1108%2Fi%2F1
-[/us/pl/89/117/s1108/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117%2Fs1108%2Fi%2F2
-[/us/pl/89/117/s1108/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117%2Fs1108%2Fi%2F1
+[/us/pl/89/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117
+[/us/pl/89/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117
+[/us/pl/89/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117
+[/us/pl/89/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117
+[/us/pl/89/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117
 [/us/usc/t12/s1713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1713
-[/us/pl/89/117/s1108/i/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117%2Fs1108%2Fi%2F4
-[/us/pl/88/560/s114/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F560%2Fs114%2Fa
-[/us/pl/88/560/s107/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F560%2Fs107%2Fd%2F1
-[/us/pl/88/560/s114/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F560%2Fs114%2Fc
-[/us/pl/88/560/s114/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F560%2Fs114%2Fb
+[/us/pl/89/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117
+[/us/pl/88/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F560
+[/us/pl/88/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F560
+[/us/pl/88/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F560
+[/us/pl/88/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F560
 [/us/pl/88/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F560
 [/us/usc/t12/s1701q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701q
-[/us/pl/88/560/s105/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F560%2Fs105%2Fc%2F2
+[/us/pl/88/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F560
 [/us/pl/88/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F54
-[/us/pl/87/70/s101/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F70%2Fs101%2Fa%2F1
-[/us/pl/87/70/s101/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F70%2Fs101%2Fa%2F2
+[/us/pl/87/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F70
+[/us/pl/87/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F70
 [/us/usc/t42/s1451/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1451%2Fc
 [/us/usc/t42/s1462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1462
-[/us/pl/87/70/s101/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F70%2Fs101%2Fa%2F3
-[/us/pl/87/70/s101/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F70%2Fs101%2Fa%2F4
-[/us/pl/87/70/s101/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F70%2Fs101%2Fa%2F6
-[/us/pl/87/70/s101/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F70%2Fs101%2Fa%2F7
-[/us/pl/87/70/s101/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F70%2Fs101%2Fa%2F10
-[/us/pl/87/70/s101/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F70%2Fs101%2Fa%2F10
-[/us/pl/87/70/s101/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F70%2Fs101%2Fa%2F12
-[/us/pl/87/70/s101/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F70%2Fs101%2Fa%2F13
-[/us/pl/87/70/s101/a/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F70%2Fs101%2Fa%2F15
-[/us/pl/86/372/s110/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F372%2Fs110%2Fa%2F1
-[/us/pl/86/372/s110/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F372%2Fs110%2Fb
-[/us/pl/86/372/s110/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F372%2Fs110%2Fc%2F1
-[/us/pl/86/372/s110/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F372%2Fs110%2Fc%2F3
-[/us/pl/86/372/s110/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F372%2Fs110%2Fd
-[/us/pl/86/372/s116/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F372%2Fs116%2Fb
+[/us/pl/87/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F70
+[/us/pl/87/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F70
+[/us/pl/87/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F70
+[/us/pl/87/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F70
+[/us/pl/87/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F70
+[/us/pl/87/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F70
+[/us/pl/87/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F70
+[/us/pl/87/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F70
+[/us/pl/87/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F70
+[/us/pl/86/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F372
+[/us/pl/86/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F372
+[/us/pl/86/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F372
+[/us/pl/86/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F372
+[/us/pl/86/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F372
+[/us/pl/86/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F372
 [/us/usc/t12/s1710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1710
-[/us/pl/86/372/s110/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F372%2Fs110%2Fe
+[/us/pl/86/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F372
 [/us/pl/85/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F104
 [/us/usc/t12/s1710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1710
 [/us/usc/t12/s1710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1710
@@ -1487,7 +1487,7 @@ The Emergency Low Income Housing Preservation Act of 1987, consisting of title I
 [/us/usc/t12/s1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1709
 [/us/pl/101/625/s328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs328
 [/us/usc/t12/s1713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1713
-[/us/pl/101/494/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F494%2Fs1
+[/us/pl/101/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F494
 [/us/stat/104/1185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1185
 [/us/pl/101/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F402
 [/us/usc/t12/s1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1709
@@ -1500,11 +1500,11 @@ The Emergency Low Income Housing Preservation Act of 1987, consisting of title I
 [/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
 [/us/stat/101/1877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1877
 [/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
-[/us/pl/100/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628
+[/us/pl/100/628/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2FtX
 [/us/stat/102/3270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3270
-[/us/pl/101/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235
+[/us/pl/101/235/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235%2FtII
 [/us/stat/103/2037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2037
-[/us/pl/101/402/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F402%2Fs1
+[/us/pl/101/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F402
 [/us/stat/104/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F866
 [/us/pl/101/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F494
 [/us/stat/104/1185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1185
@@ -1530,17 +1530,17 @@ The Emergency Low Income Housing Preservation Act of 1987, consisting of title I
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/usc/t12/s1715z–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715z%E2%80%931
 [/us/usc/t42/s1437a/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437a%2Fb%2F2
-[/us/pl/101/494/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F494%2Fs2%2Fb
+[/us/pl/101/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F494
 [/us/stat/104/1185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1185
 [/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
 [/us/pl/100/242/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs203%2Fa
-[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtVI
 [/us/stat/101/1951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1951
-[/us/pl/102/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F139
+[/us/pl/102/139/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F139%2FtII
 [/us/stat/105/759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F759
-[/us/pl/102/550/s183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs183
+[/us/pl/102/550/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtI
 [/us/stat/106/3738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3738
-[/us/pl/101/625/s289/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs289%2Fa%2F3
+[/us/pl/101/625/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtII
 [/us/stat/104/4128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4128
 [/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
 [/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
@@ -1550,9 +1550,9 @@ The Emergency Low Income Housing Preservation Act of 1987, consisting of title I
 [/us/pl/88/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F560
 [/us/pl/88/560/s107/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F560%2Fs107%2Fg
 [/us/usc/t12/s1713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1713
-[/us/pl/93/383/s319/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs319%2Fb
+[/us/pl/93/383/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtIII
 [/us/stat/88/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F686
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 

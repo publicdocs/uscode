@@ -165,7 +165,7 @@
 
         The Institute shall submit an annual report for the preceding fiscal year to the President for transmittal to the Congress within sixty days of its receipt. The report shall include a comprehensive and detailed report of the Institute’s operations, activities, financial condition, and accomplishments under this section and may include such recommendations as the Institute deems appropriate.
 
-([Pub. L. 93–383, title VIII, § 809][/us/pl/93/383/s809], Aug. 22, 1974, [88 Stat. 729][/us/stat/88/729]; [Pub. L. 94–375, § 24][/us/pl/94/375/s24], Aug. 3, 1976, [90 Stat. 1078][/us/stat/90/1078]; [Pub. L. 95–557, title III, § 319][/us/pl/95/557/s319], Oct. 31, 1978, [92 Stat. 2101][/us/stat/92/2101]; [Pub. L. 97–35, title III, § 339E][/us/pl/97/35/s339E], Aug. 13, 1981, [95 Stat. 417][/us/stat/95/417]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title IV, § 462\], Nov. 30, 1983, [97 Stat. 1232][/us/stat/97/1232]; [Pub. L. 100–242, title V, § 570(f)][/us/pl/100/242/s570/f], Feb. 5, 1988, [101 Stat. 1950][/us/stat/101/1950]; [Pub. L. 101–625, title IX, § 952(a)][/us/pl/101/625/s952/a], Nov. 28, 1990, [104 Stat. 4418][/us/stat/104/4418]; [Pub. L. 102–550, title IX, § 904(a)][/us/pl/102/550/s904/a], Oct. 28, 1992, [106 Stat. 3868][/us/stat/106/3868].)
+([Pub. L. 93–383, title VIII][/us/pl/93/383/tVIII], § 809, Aug. 22, 1974, [88 Stat. 729][/us/stat/88/729]; [Pub. L. 94–375][/us/pl/94/375], § 24, Aug. 3, 1976, [90 Stat. 1078][/us/stat/90/1078]; [Pub. L. 95–557, title III][/us/pl/95/557/tIII], § 319, Oct. 31, 1978, [92 Stat. 2101][/us/stat/92/2101]; [Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 339E, Aug. 13, 1981, [95 Stat. 417][/us/stat/95/417]; [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title IV, § 462\], Nov. 30, 1983, [97 Stat. 1232][/us/stat/97/1232]; [Pub. L. 100–242, title V][/us/pl/100/242/tV], § 570(f), Feb. 5, 1988, [101 Stat. 1950][/us/stat/101/1950]; [Pub. L. 101–625, title IX][/us/pl/101/625/tIX], § 952(a), Nov. 28, 1990, [104 Stat. 4418][/us/stat/104/4418]; [Pub. L. 102–550, title IX][/us/pl/102/550/tIX], § 904(a), Oct. 28, 1992, [106 Stat. 3868][/us/stat/106/3868].)
 
  __References in Text__ 
 
@@ -181,15 +181,15 @@
 
     1990—Subsec. (h). [Pub. L. 101–625][/us/pl/101/625] amended second sentence generally. Prior to amendment, second sentence read as follows: “In addition to the amounts authorized to be appropriated under the first sentence of this section, there is authorized to be appropriated to the Institute to carry out the provisions of this section not to exceed $250,000 for fiscal year 1984.”
 
-    1988—Subsec. (g)(4). [Pub. L. 100–242, § 570(f)(1)][/us/pl/100/242/s570/f/1], substituted “of its” for “and its”.
+    1988—Subsec. (g)(4). [Pub. L. 100–242][/us/pl/100/242], § 570(f)(1), substituted “of its” for “and its”.
 
-    Subsec. (h). [Pub. L. 100–242, § 570(f)(2)][/us/pl/100/242/s570/f/2], substituted “preceding” for “preceeding”.
+    Subsec. (h). [Pub. L. 100–242][/us/pl/100/242], § 570(f)(2), substituted “preceding” for “preceeding”.
 
     1983—Subsec. (h). [Pub. L. 98–181][/us/pl/98/181] inserted provisions relating to the appropriation of not to exceed $250,000 for fiscal 1984, such amount to be made available for expenditure only to the extent of an equal amount received from persons or entities other than the Federal Government.
 
-    1981—Subsec. (c)(4). [Pub. L. 97–35, § 339E(b)][/us/pl/97/35/s339E/b], inserted provisions respecting Presidential appointment powers to the Board.
+    1981—Subsec. (c)(4). [Pub. L. 97–35][/us/pl/97/35], § 339E(b), inserted provisions respecting Presidential appointment powers to the Board.
 
-    Subsec. (h). [Pub. L. 97–35, § 339E(a)][/us/pl/97/35/s339E/a], inserted provisions which extended authorization from 1982 to 1984, and enumerated amount for fiscal years 1982, 1983, and 1984.
+    Subsec. (h). [Pub. L. 97–35][/us/pl/97/35], § 339E(a), inserted provisions which extended authorization from 1982 to 1984, and enumerated amount for fiscal years 1982, 1983, and 1984.
 
     1978—Subsec. (h). [Pub. L. 95–557][/us/pl/95/557] inserted “, and any amounts not appropriated in fiscal years 1977 and 1978 may be appropriated in any fiscal year through 1982” after “1978”.
 
@@ -201,7 +201,7 @@
 
  __National Institute of Building Sciences Trust Fund; Authorization of Appropriations__ 
 
-[Pub. L. 98–396, title I][/us/pl/98/396], Aug. 22, 1984, [98 Stat. 1384][/us/stat/98/1384], provided that: 
+[Pub. L. 98–396, title I][/us/pl/98/396/tI], Aug. 22, 1984, [98 Stat. 1384][/us/stat/98/1384], provided that: 
 
 > “There is appropriated out of funds not otherwise appropriated, the sum of $5,000,000 to a ‘National Institute of Building Sciences Trust Fund’ which is hereby established in the Treasury of the United States: Provided, That the Secretary shall invest such funds in U.S. Treasury special issue securities at a fixed rate of ten per centum per annum, that such interest shall be credited to the Trust Fund on a quarterly basis, and that the Secretary shall make quarterly disbursements from such interest to the National Institute of Building Sciences: Provided further, That the total amount of such payment during any fiscal year may not exceed $500,000 or the amount equivalent to non-Federal funds received by the Institute during the preceding fiscal year, whichever is less: Provided further, That any amount of interest not used for any such annual payment shall be paid into the general fund of the Treasury: Provided further, That the appropriation of $5,000,000 made in this paragraph shall revert to the Treasury, on October 1, 1989, and the National Institute of Building Sciences Trust Fund shall terminate following the final quarterly disbursement of interest provided for in this paragraph.”
 
@@ -213,37 +213,37 @@
 ----------
 
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
-[/us/pl/93/383/s809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs809
+[/us/pl/93/383/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtVIII
 [/us/stat/88/729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F729
-[/us/pl/94/375/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F375%2Fs24
+[/us/pl/94/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F375
 [/us/stat/90/1078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1078
-[/us/pl/95/557/s319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2Fs319
+[/us/pl/95/557/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2FtIII
 [/us/stat/92/2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2101
-[/us/pl/97/35/s339E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs339E
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F417
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1232
-[/us/pl/100/242/s570/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs570%2Ff
+[/us/pl/100/242/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtV
 [/us/stat/101/1950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1950
-[/us/pl/101/625/s952/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs952%2Fa
+[/us/pl/101/625/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtIX
 [/us/stat/104/4418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4418
-[/us/pl/102/550/s904/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs904%2Fa
+[/us/pl/102/550/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtIX
 [/us/stat/106/3868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3868
 [/us/pl/87/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F569
 [/us/stat/76/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F265
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
-[/us/pl/100/242/s570/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs570%2Ff%2F1
-[/us/pl/100/242/s570/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs570%2Ff%2F2
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
 [/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
-[/us/pl/97/35/s339E/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs339E%2Fb
-[/us/pl/97/35/s339E/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs339E%2Fa
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/95/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557
 [/us/pl/94/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F375
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/97/35/s371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs371
 [/us/usc/t12/s3701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3701
-[/us/pl/98/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F396
+[/us/pl/98/396/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F396%2FtI
 [/us/stat/98/1384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1384
 
 

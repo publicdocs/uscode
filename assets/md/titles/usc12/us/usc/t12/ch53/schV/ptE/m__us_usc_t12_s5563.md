@@ -107,7 +107,7 @@
 
         The Bureau shall prescribe rules establishing such procedures as may be necessary to carry out this section.
 
-([Pub. L. 111–203, title X, § 1053][/us/pl/111/203/s1053], July 21, 2010, [124 Stat. 2025][/us/stat/124/2025].)
+([Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1053, July 21, 2010, [124 Stat. 2025][/us/stat/124/2025].)
 
  __References in Text__ 
 
@@ -126,7 +126,7 @@
 
 [/us/usc/t28/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2112
 [/us/usc/t28/s1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1254
-[/us/pl/111/203/s1053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1053
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2025
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1955

@@ -97,7 +97,7 @@
 
         (2) the term to maturity or the date of maturity of such obligation is stated in the obligation.
 
-([Sept. 21, 1950, ch. 967, § 2][/us/act/1950-09-21/ch967/s2]\[15\], [64 Stat. 890][/us/stat/64/890]; [Pub. L. 101–73, title II, § 219][/us/pl/101/73/s219], Aug. 9, 1989, [103 Stat. 261][/us/stat/103/261]; [Pub. L. 102–242, title I, § 102(a)][/us/pl/102/242/s102/a], (c), Dec. 19, 1991, [105 Stat. 2236][/us/stat/105/2236], 2237; [Pub. L. 103–325, title VI, § 602(a)(43)][/us/pl/103/325/s602/a/43], Sept. 23, 1994, [108 Stat. 2290][/us/stat/108/2290]; [Pub. L. 104–208, div. A, title II, § 2704(d)(14)(R)][/us/pl/104/208/s2704/d/14/R], Sept. 30, 1996, [110 Stat. 3009–493][/us/stat/110/3009-493]; [Pub. L. 109–171, title II, § 2102(b)][/us/pl/109/171/s2102/b], Feb. 8, 2006, [120 Stat. 9][/us/stat/120/9]; [Pub. L. 109–173, § 8(a)(25)][/us/pl/109/173/s8/a/25], Feb. 15, 2006, [119 Stat. 3614][/us/stat/119/3614]; [Pub. L. 109–351, title VII, § 720(a)][/us/pl/109/351/s720/a], Oct. 13, 2006, [120 Stat. 1998][/us/stat/120/1998].)
+([Sept. 21, 1950, ch. 967][/us/act/1950-09-21/ch967], § 2\[15\], [64 Stat. 890][/us/stat/64/890]; [Pub. L. 101–73, title II][/us/pl/101/73/tII], § 219, Aug. 9, 1989, [103 Stat. 261][/us/stat/103/261]; [Pub. L. 102–242, title I][/us/pl/102/242/tI], § 102(a), (c), Dec. 19, 1991, [105 Stat. 2236][/us/stat/105/2236], 2237; [Pub. L. 103–325, title VI][/us/pl/103/325/tVI], § 602(a)(43), Sept. 23, 1994, [108 Stat. 2290][/us/stat/108/2290]; [Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], § 2704(d)(14)(R), Sept. 30, 1996, [110 Stat. 3009–493][/us/stat/110/3009-493]; [Pub. L. 109–171, title II][/us/pl/109/171/tII], § 2102(b), Feb. 8, 2006, [120 Stat. 9][/us/stat/120/9]; [Pub. L. 109–173][/us/pl/109/173], § 8(a)(25), Feb. 15, 2006, [119 Stat. 3614][/us/stat/119/3614]; [Pub. L. 109–351, title VII][/us/pl/109/351/tVII], § 720(a), Oct. 13, 2006, [120 Stat. 1998][/us/stat/120/1998].)
 
  __References in Text__ 
 
@@ -113,15 +113,15 @@
 
     Subsec. (c)(5). [Pub. L. 109–173][/us/pl/109/173] substituted “the Deposit Insurance Fund” for “the Bank Insurance Fund or Savings Association Insurance Fund, respectively” in introductory provisions and in subpar. (A) and “the Deposit Insurance Fund” for “the Bank Insurance Fund or the Savings Association Insurance Fund, respectively” in subpar. (B).
 
-    [Pub. L. 109–171][/us/pl/109/171] repealed [Pub. L. 104–208, § 2704(d)(14)(R)][/us/pl/104/208/s2704/d/14/R]. See 1996 Amendment note below.
+    [Pub. L. 109–171][/us/pl/109/171] repealed [Pub. L. 104–208][/us/pl/104/208], § 2704(d)(14)(R). See 1996 Amendment note below.
 
-    1996—Subsec. (c)(5). [Pub. L. 104–208, § 2704(D)(14)(R)][/us/pl/104/208/s2704/D/14/R], which directed substitution of “the Deposit Insurance Fund” for “the Bank Insurance Fund or Savings Association Insurance Fund, respectively” in introductory provisions and in subpar. (A) and “the Deposit Insurance Fund” for “the Bank Insurance Fund or the Savings Association Insurance Fund, respectively” in subpar. (B), was repealed by [Pub. L. 109–171][/us/pl/109/171]. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
+    1996—Subsec. (c)(5). [Pub. L. 104–208][/us/pl/104/208], § 2704(D)(14)(R), which directed substitution of “the Deposit Insurance Fund” for “the Bank Insurance Fund or Savings Association Insurance Fund, respectively” in introductory provisions and in subpar. (A) and “the Deposit Insurance Fund” for “the Bank Insurance Fund or the Savings Association Insurance Fund, respectively” in subpar. (B), was repealed by [Pub. L. 109–171][/us/pl/109/171]. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
     1994—Subsec. (c)(1). [Pub. L. 103–325][/us/pl/103/325] substituted “obligations, guarantees, and liabilities” for “obligations liabilities” in heading.
 
-    1991—Subsec. (c)(5), (6). [Pub. L. 102–242, § 102(a)][/us/pl/102/242/s102/a], added pars. (5) and (6) and struck out former par. (5) which provided for a 10-percent-minimum net worth requirement for Bank Insurance Fund or Savings Association Insurance Fund and former par. (6) which provided exception for up to $5,000,000,000 in additional liabilities beyond limitations of par. (5).
+    1991—Subsec. (c)(5), (6). [Pub. L. 102–242][/us/pl/102/242], § 102(a), added pars. (5) and (6) and struck out former par. (5) which provided for a 10-percent-minimum net worth requirement for Bank Insurance Fund or Savings Association Insurance Fund and former par. (6) which provided exception for up to $5,000,000,000 in additional liabilities beyond limitations of par. (5).
 
-    Subsec. (c)(7). [Pub. L. 102–242, § 102(c)][/us/pl/102/242/s102/c], struck out par. (7) which provided for calculation of net worth and asset valuation of Bank Insurance Fund and the Savings Association Insurance Fund for purposes of par. (5).
+    Subsec. (c)(7). [Pub. L. 102–242][/us/pl/102/242], § 102(c), struck out par. (7) which provided for calculation of net worth and asset valuation of Bank Insurance Fund and the Savings Association Insurance Fund for purposes of par. (5).
 
     1989—Subsec. (a). [Pub. L. 101–73][/us/pl/101/73] designated existing provision as subsec. (a), inserted heading, and added subsecs. (b) to (d).
 
@@ -137,7 +137,7 @@
 
  __GAO Reports__ 
 
-    [Pub. L. 102–242, title I, § 102(b)][/us/pl/102/242/s102/b], Dec. 19, 1991, [105 Stat. 2237][/us/stat/105/2237], as amended by [Pub. L. 103–325, title III, § 327][/us/pl/103/325/s327], Sept. 23, 1994, [108 Stat. 2230][/us/stat/108/2230]; [Pub. L. 104–66, title II, § 2061][/us/pl/104/66/s2061], Dec. 21, 1995, [109 Stat. 729][/us/stat/109/729], directed Comptroller General to submit report to congressional committees, not later than 90 days after end of any calendar quarter in which Federal Deposit Insurance Corporation had any outstanding obligations pursuant to [section 1824 of this title][/us/usc/t12/s1824], on Corporation’s compliance at the end of that quarter with subsec. (c) of this section, prior to repeal by [Pub. L. 104–316, title I, § 106(c)][/us/pl/104/316/s106/c], Oct. 19, 1996, [110 Stat. 3831][/us/stat/110/3831].
+    [Pub. L. 102–242, title I][/us/pl/102/242/tI], § 102(b), Dec. 19, 1991, [105 Stat. 2237][/us/stat/105/2237], as amended by [Pub. L. 103–325, title III][/us/pl/103/325/tIII], § 327, Sept. 23, 1994, [108 Stat. 2230][/us/stat/108/2230]; [Pub. L. 104–66, title II][/us/pl/104/66/tII], § 2061, Dec. 21, 1995, [109 Stat. 729][/us/stat/109/729], directed Comptroller General to submit report to congressional committees, not later than 90 days after end of any calendar quarter in which Federal Deposit Insurance Corporation had any outstanding obligations pursuant to [section 1824 of this title][/us/usc/t12/s1824], on Corporation’s compliance at the end of that quarter with subsec. (c) of this section, prior to repeal by [Pub. L. 104–316, title I][/us/pl/104/316/tI], § 106(c), Oct. 19, 1996, [110 Stat. 3831][/us/stat/110/3831].
 
 ----------
 
@@ -148,33 +148,33 @@
 
 [/us/usc/t12/s1824/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1824%2Fa
 [/us/usc/t12/s1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1824
-[/us/act/1950-09-21/ch967/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967%2Fs2
+[/us/act/1950-09-21/ch967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967
 [/us/stat/64/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F890
-[/us/pl/101/73/s219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs219
+[/us/pl/101/73/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtII
 [/us/stat/103/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F261
-[/us/pl/102/242/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs102%2Fa
+[/us/pl/102/242/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtI
 [/us/stat/105/2236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2236
-[/us/pl/103/325/s602/a/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs602%2Fa%2F43
+[/us/pl/103/325/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtVI
 [/us/stat/108/2290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2290
-[/us/pl/104/208/s2704/d/14/R]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2704%2Fd%2F14%2FR
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-493
-[/us/pl/109/171/s2102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs2102%2Fb
+[/us/pl/109/171/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2FtII
 [/us/stat/120/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F9
-[/us/pl/109/173/s8/a/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173%2Fs8%2Fa%2F25
+[/us/pl/109/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173
 [/us/stat/119/3614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3614
-[/us/pl/109/351/s720/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs720%2Fa
+[/us/pl/109/351/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2FtVII
 [/us/stat/120/1998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1998
 [/us/usc/t12/s264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs264
 [/us/usc/t12/s1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1811
 [/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
 [/us/pl/109/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173
 [/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
-[/us/pl/104/208/s2704/d/14/R]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2704%2Fd%2F14%2FR
-[/us/pl/104/208/s2704/D/14/R]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2704%2FD%2F14%2FR
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
 [/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
-[/us/pl/102/242/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs102%2Fa
-[/us/pl/102/242/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs102%2Fc
+[/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
+[/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
 [/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
 [/us/pl/109/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173
 [/us/pl/109/173/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173%2Fs8%2Fb
@@ -185,14 +185,14 @@
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/104/208/s2704/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2704%2Fc
 [/us/usc/t12/s1821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1821
-[/us/pl/102/242/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs102%2Fb
+[/us/pl/102/242/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtI
 [/us/stat/105/2237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2237
-[/us/pl/103/325/s327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs327
+[/us/pl/103/325/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtIII
 [/us/stat/108/2230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2230
-[/us/pl/104/66/s2061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs2061
+[/us/pl/104/66/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtII
 [/us/stat/109/729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F729
 [/us/usc/t12/s1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1824
-[/us/pl/104/316/s106/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs106%2Fc
+[/us/pl/104/316/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2FtI
 [/us/stat/110/3831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3831
 
 

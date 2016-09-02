@@ -17,7 +17,7 @@
 
     Nonvoting investment stock and participation certificates may be called for retirement at par. With the approval of the issuing bank, the holder may elect not to have the called stock or participation certificates retired in response to a call, reserving the right to have such stock or participation certificates included in the next call for retirement. Voting stock may also be retired at par, on call or on such revolving basis as the board may determine with due regard for its total capital needs: Provided, however, That all equities in the district banks issued or allocated with respect to 1971 and prior years shall be retired on a revolving basis according to the year of issue with the oldest outstanding equities being first retired. Equities issued for subsequent years shall not be called or retired until equities described in the preceding sentence of this proviso have been retired.
 
-([Pub. L. 92–181, title III, § 3][/us/pl/92/181/s3].5, Dec. 10, 1971, [85 Stat. 604][/us/stat/85/604]; [Pub. L. 96–592, title III, § 303][/us/pl/96/592/s303], Dec. 24, 1980, [94 Stat. 3444][/us/stat/94/3444]; [Pub. L. 99–205, title II, § 205(e)(6)][/us/pl/99/205/s205/e/6], Dec. 23, 1985, [99 Stat. 1705][/us/stat/99/1705]; [Pub. L. 100–233, title VIII, § 802(p)][/us/pl/100/233/s802/p], Jan. 6, 1988, [101 Stat. 1712][/us/stat/101/1712].)
+([Pub. L. 92–181, title III][/us/pl/92/181/tIII], § 3.5, Dec. 10, 1971, [85 Stat. 604][/us/stat/85/604]; [Pub. L. 96–592, title III][/us/pl/96/592/tIII], § 303, Dec. 24, 1980, [94 Stat. 3444][/us/stat/94/3444]; [Pub. L. 99–205, title II][/us/pl/99/205/tII], § 205(e)(6), Dec. 23, 1985, [99 Stat. 1705][/us/stat/99/1705]; [Pub. L. 100–233, title VIII][/us/pl/100/233/tVIII], § 802(p), Jan. 6, 1988, [101 Stat. 1712][/us/stat/101/1712].)
 
  __Amendments__ 
 
@@ -38,13 +38,13 @@
 ----------
 ----------
 
-[/us/pl/92/181/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs3
+[/us/pl/92/181/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtIII
 [/us/stat/85/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F604
-[/us/pl/96/592/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592%2Fs303
+[/us/pl/96/592/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592%2FtIII
 [/us/stat/94/3444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3444
-[/us/pl/99/205/s205/e/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2Fs205%2Fe%2F6
+[/us/pl/99/205/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2FtII
 [/us/stat/99/1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1705
-[/us/pl/100/233/s802/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs802%2Fp
+[/us/pl/100/233/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtVIII
 [/us/stat/101/1712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1712
 [/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
 [/us/pl/99/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205

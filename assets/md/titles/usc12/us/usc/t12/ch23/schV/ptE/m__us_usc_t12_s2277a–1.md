@@ -17,7 +17,7 @@
 
     There is hereby established the Farm Credit System Insurance Corporation which shall insure, in accordance with this part, the timely payment of principal and interest on notes, bonds, debentures, and other obligations issued under subsection (c) or (d) of [section 2153 of this title][/us/usc/t12/s2153] on behalf of one or more System banks all of which are entitled to the benefits of insurance under this part.
 
-([Pub. L. 92–181, title V, § 5][/us/pl/92/181/s5].52, as added [Pub. L. 100–233, title III, § 302][/us/pl/100/233/s302], Jan. 6, 1988, [101 Stat. 1611][/us/stat/101/1611].)
+([Pub. L. 92–181, title V][/us/pl/92/181/tV], § 5.52, as added [Pub. L. 100–233, title III][/us/pl/100/233/tIII], § 302, Jan. 6, 1988, [101 Stat. 1611][/us/stat/101/1611].)
 
 ----------
 
@@ -27,8 +27,8 @@
 ----------
 
 [/us/usc/t12/s2153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2153
-[/us/pl/92/181/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs5
-[/us/pl/100/233/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs302
+[/us/pl/92/181/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtV
+[/us/pl/100/233/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtIII
 [/us/stat/101/1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1611
 
 

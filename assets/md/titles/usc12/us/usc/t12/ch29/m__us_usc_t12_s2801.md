@@ -27,11 +27,11 @@
 
         Nothing in this chapter is intended to, nor shall it be construed to, encourage unsound lending practices or the allocation of credit.
 
-([Pub. L. 94–200, title III, § 302][/us/pl/94/200/s302], Dec. 31, 1975, [89 Stat. 1125][/us/stat/89/1125].)
+([Pub. L. 94–200, title III][/us/pl/94/200/tIII], § 302, Dec. 31, 1975, [89 Stat. 1125][/us/stat/89/1125].)
 
  __Short Title__ 
 
-[Pub. L. 94–200, title III, § 301][/us/pl/94/200/s301], Dec. 31, 1975, [89 Stat. 1125][/us/stat/89/1125], provided that: 
+[Pub. L. 94–200, title III][/us/pl/94/200/tIII], § 301, Dec. 31, 1975, [89 Stat. 1125][/us/stat/89/1125], provided that: 
 
 > “This title \[this chapter\] may be cited as the ‘Home Mortgage Disclosure Act of 1975’.”
 
@@ -42,9 +42,9 @@
 ----------
 ----------
 
-[/us/pl/94/200/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F200%2Fs302
+[/us/pl/94/200/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F200%2FtIII
 [/us/stat/89/1125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1125
-[/us/pl/94/200/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F200%2Fs301
+[/us/pl/94/200/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F200%2FtIII
 [/us/stat/89/1125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1125
 
 

@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act June 4, 1956, ch. 355][/us/act/1956-06-04/ch355], title IV, [70 Stat. 240][/us/stat/70/240], which related to availability of funds for administrative expenses, was from the Department of Agriculture and Farm Credit Administration Appropriation Act, 1957, and was not repeated in subsequent appropriation acts.
+    Section, [act June 4, 1956, ch. 355, title IV][/us/act/1956-06-04/ch355/tIV], [70 Stat. 240][/us/stat/70/240], which related to availability of funds for administrative expenses, was from the Department of Agriculture and Farm Credit Administration Appropriation Act, 1957, and was not repeated in subsequent appropriation acts.
 
  __Similar Provisions__ 
 
@@ -44,7 +44,7 @@ Similar provisions were contained in the following prior appropriation acts:
 ----------
 ----------
 
-[/us/act/1956-06-04/ch355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-04%2Fch355
+[/us/act/1956-06-04/ch355/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-04%2Fch355%2FtIV
 [/us/stat/70/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F240
 [/us/act/1955-05-23/ch43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-05-23%2Fch43
 [/us/stat/69/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F62

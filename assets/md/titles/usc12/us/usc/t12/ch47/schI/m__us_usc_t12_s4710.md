@@ -21,7 +21,7 @@
 
     (2) make such information available to promote the purposes of this subchapter.
 
-([Pub. L. 103–325, title I, § 111][/us/pl/103/325/s111], Sept. 23, 1994, [108 Stat. 2177][/us/stat/108/2177].)
+([Pub. L. 103–325, title I][/us/pl/103/325/tI], § 111, Sept. 23, 1994, [108 Stat. 2177][/us/stat/108/2177].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/103/325/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs111
+[/us/pl/103/325/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtI
 [/us/stat/108/2177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2177
 
 

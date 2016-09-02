@@ -43,11 +43,11 @@
 
         Nothing in this section shall be construed to define a branch or agency of a foreign bank or a commercial lending company controlled by a foreign bank or foreign company that controls a foreign bank as a “bank” for the purposes of any provisions of the Bank Holding Company Act of 1956 \[[12 U.S.C. 1841][/us/usc/t12/s1841] et seq.\], or [section 1850 of this title][/us/usc/t12/s1850], except that any such branch, agency or commercial lending company subsidiary shall be deemed a “bank” or “banking subsidiary”, as the case may be, for the purposes of applying the prohibitions of chapter 22 of this title and the exemptions provided in sections 4(c)(1), 4(c)(2), 4(c)(3), and 4(c)(4) of the Bank Holding Company Act of 1956 ([12 U.S.C. 1843(c)(1)][/us/usc/t12/s1843/c/1], (2), (3), and (4)) to any foreign bank or other company to which subsection (a) applies.
 
-([Pub. L. 95–369, § 8(a)][/us/pl/95/369/s8/a]–(d), Sept. 17, 1978, [92 Stat. 622][/us/stat/92/622], 623; [Pub. L. 97–320, title VII][/us/pl/97/320], §§ 704, 705, Oct. 15, 1982, [96 Stat. 1539][/us/stat/96/1539]; [Pub. L. 100–86, title II, § 204][/us/pl/100/86/s204], Aug. 10, 1987, [101 Stat. 584][/us/stat/101/584]; [Pub. L. 102–242, title II, § 207][/us/pl/102/242/s207], Dec. 19, 1991, [105 Stat. 2295][/us/stat/105/2295]; [Pub. L. 106–102, title I, § 141][/us/pl/106/102/s141], Nov. 12, 1999, [113 Stat. 1383][/us/stat/113/1383].)
+([Pub. L. 95–369][/us/pl/95/369], § 8(a)–(d), Sept. 17, 1978, [92 Stat. 622][/us/stat/92/622], 623; [Pub. L. 97–320, title VII][/us/pl/97/320/tVII], §§ 704, 705, Oct. 15, 1982, [96 Stat. 1539][/us/stat/96/1539]; [Pub. L. 100–86, title II][/us/pl/100/86/tII], § 204, Aug. 10, 1987, [101 Stat. 584][/us/stat/101/584]; [Pub. L. 102–242, title II][/us/pl/102/242/tII], § 207, Dec. 19, 1991, [105 Stat. 2295][/us/stat/105/2295]; [Pub. L. 106–102, title I][/us/pl/106/102/tI], § 141, Nov. 12, 1999, [113 Stat. 1383][/us/stat/113/1383].)
 
  __References in Text__ 
 
-    The Bank Holding Company Act of 1956, referred to in subsecs. (a), (c), and (d), is [act May 9, 1956, ch. 240][/us/act/1956-05-09/ch240], [70 Stat. 133][/us/stat/70/133], which is classified principally to chapter 17 (§ 1841 et seq.) of this title. Section 4(l)(1)(C) of the Act was redesignated section 4(l)(1)(D) by [Pub. L. 111–203, title VI, § 606(a)(2)][/us/pl/111/203/s606/a/2], July 21, 2010, [124 Stat. 1607][/us/stat/124/1607], and is classified to section 1843(l)(1)(D) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1841 of this title][/us/usc/t12/s1841] and Tables.
+    The Bank Holding Company Act of 1956, referred to in subsecs. (a), (c), and (d), is [act May 9, 1956, ch. 240][/us/act/1956-05-09/ch240], [70 Stat. 133][/us/stat/70/133], which is classified principally to chapter 17 (§ 1841 et seq.) of this title. Section 4(l)(1)(C) of the Act was redesignated section 4(l)(1)(D) by [Pub. L. 111–203, title VI][/us/pl/111/203/tVI], § 606(a)(2), July 21, 2010, [124 Stat. 1607][/us/stat/124/1607], and is classified to section 1843(l)(1)(D) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1841 of this title][/us/usc/t12/s1841] and Tables.
 
     For definition of “this chapter”, referred to in subsec. (c), see References in Text note set out under [section 3101 of this title][/us/usc/t12/s3101].
 
@@ -59,11 +59,11 @@
 
     1987—Subsec. (c). [Pub. L. 100–86][/us/pl/100/86] designated existing provisions as par. (1) and added par. (2).
 
-    1982—Subsec. (c). [Pub. L. 97–320, § 704][/us/pl/97/320/s704], inserted “or on the date of the establishment of a branch in a State an application for which was filed on or before July 26, 1978” after “September 17, 1978,”.
+    1982—Subsec. (c). [Pub. L. 97–320][/us/pl/97/320], § 704, inserted “or on the date of the establishment of a branch in a State an application for which was filed on or before July 26, 1978” after “September 17, 1978,”.
 
-    [Pub. L. 97–320, § 705(a)][/us/pl/97/320/s705/a], substituted provision that the term “domestically-controlled affiliate covered in 1978” shall mean an affiliate organized under the laws of the United States or any State thereof if no foreign bank or group of foreign banks acting in concert owns or controls, directly or indirectly, 45 per centum or more of its voting shares, and no more than 20 per centum of the number of directors as established from time to time to constitute the whole board of directors and 20 per centum of the executive officers of such affiliate are persons affiliated with any such foreign bank, for provision that it meant any affiliate the majority of whose voting shares was owned by a company or group of companies organized under the laws of the United States or any State thereof, if it had been under continuous domestic majority-controlling ownership since July 26, 1978, and if a foreign bank or group of foreign banks did not own or control, directly or indirectly, 25 per centum or more of its voting shares, and defined “persons affiliated with any such foreign bank”.
+    [Pub. L. 97–320][/us/pl/97/320], § 705(a), substituted provision that the term “domestically-controlled affiliate covered in 1978” shall mean an affiliate organized under the laws of the United States or any State thereof if no foreign bank or group of foreign banks acting in concert owns or controls, directly or indirectly, 45 per centum or more of its voting shares, and no more than 20 per centum of the number of directors as established from time to time to constitute the whole board of directors and 20 per centum of the executive officers of such affiliate are persons affiliated with any such foreign bank, for provision that it meant any affiliate the majority of whose voting shares was owned by a company or group of companies organized under the laws of the United States or any State thereof, if it had been under continuous domestic majority-controlling ownership since July 26, 1978, and if a foreign bank or group of foreign banks did not own or control, directly or indirectly, 25 per centum or more of its voting shares, and defined “persons affiliated with any such foreign bank”.
 
-    [Pub. L. 97–320, § 705(b)][/us/pl/97/320/s705/b], substituted “since July 26, 1978, has engaged” for “engages” before “in the business of underwriting”, and inserted “, notwithstanding that such affiliate acquired after July 26, 1978, an interest in, or any or all of the assets of, a going concern, or commences to engage in any new activity or activities” after “and other securities in the United States”.
+    [Pub. L. 97–320][/us/pl/97/320], § 705(b), substituted “since July 26, 1978, has engaged” for “engages” before “in the business of underwriting”, and inserted “, notwithstanding that such affiliate acquired after July 26, 1978, an interest in, or any or all of the assets of, a going concern, or commences to engage in any new activity or activities” after “and other securities in the United States”.
 
  __Effective Date of 1999 Amendment__ 
 
@@ -87,28 +87,28 @@
 [/us/usc/t12/s1841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1841
 [/us/usc/t12/s1850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1850
 [/us/usc/t12/s1843/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1843%2Fc%2F1
-[/us/pl/95/369/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F369%2Fs8%2Fa
+[/us/pl/95/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F369
 [/us/stat/92/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F622
-[/us/pl/97/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320
+[/us/pl/97/320/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2FtVII
 [/us/stat/96/1539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1539
-[/us/pl/100/86/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2Fs204
+[/us/pl/100/86/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2FtII
 [/us/stat/101/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F584
-[/us/pl/102/242/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs207
+[/us/pl/102/242/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtII
 [/us/stat/105/2295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2295
-[/us/pl/106/102/s141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs141
+[/us/pl/106/102/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtI
 [/us/stat/113/1383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1383
 [/us/act/1956-05-09/ch240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-05-09%2Fch240
 [/us/stat/70/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F133
-[/us/pl/111/203/s606/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs606%2Fa%2F2
+[/us/pl/111/203/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVI
 [/us/stat/124/1607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1607
 [/us/usc/t12/s1841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1841
 [/us/usc/t12/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3101
 [/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102
 [/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
 [/us/pl/100/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86
-[/us/pl/97/320/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs704
-[/us/pl/97/320/s705/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs705%2Fa
-[/us/pl/97/320/s705/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs705%2Fb
+[/us/pl/97/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320
+[/us/pl/97/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320
+[/us/pl/97/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320
 [/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102
 [/us/pl/106/102/s161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs161
 [/us/usc/t12/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs24

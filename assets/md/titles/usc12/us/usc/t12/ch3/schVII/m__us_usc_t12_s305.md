@@ -17,7 +17,7 @@
 
     Class C directors shall be appointed by the Board of Governors of the Federal Reserve System. They shall have been for at least two years residents of the district for which they are appointed, one of whom shall be designated by said board as chairman of the board of directors of the Federal reserve bank and as “Federal reserve agent.” He shall be a person of tested banking experience and in addition to his duties as chairman of the board of directors of the Federal reserve bank he shall be required to maintain, under regulations to be established by the Board of Governors of the Federal Reserve System, a local office of said board on the premises of the Federal reserve bank. He shall make regular reports to the Board of Governors of the Federal Reserve System and shall act as its official representative for the performance of the functions conferred upon it by this chapter. He shall receive an annual compensation to be fixed by the Board of Governors of the Federal Reserve System and paid monthly by the Federal reserve bank to which he is designated. One of the directors of class C shall be appointed by the Board of Governors of the Federal Reserve System as deputy chairman to exercise the powers of the chairman of the board when necessary. In case of the absence of the chairman and deputy chairman, the third class C director shall preside at meetings of the board.
 
-([Dec. 23, 1913, ch. 6, § 4][/us/act/1913-12-23/ch6/s4] (par.), [38 Stat. 256][/us/stat/38/256]; [June 21, 1917, ch. 32, § 2][/us/act/1917-06-21/ch32/s2], [40 Stat. 232][/us/stat/40/232]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 203(a), [49 Stat. 704][/us/stat/49/704].)
+([Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 4 (par.), [38 Stat. 256][/us/stat/38/256]; [June 21, 1917, ch. 32][/us/act/1917-06-21/ch32], § 2, [40 Stat. 232][/us/stat/40/232]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 203(a), [49 Stat. 704][/us/stat/49/704].)
 
  __References in Text__ 
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/act/1913-12-23/ch6/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs4
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
 [/us/stat/38/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F256
-[/us/act/1917-06-21/ch32/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-21%2Fch32%2Fs2
+[/us/act/1917-06-21/ch32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-21%2Fch32
 [/us/stat/40/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F232
 [/us/act/1935-08-23/ch614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch614
 [/us/stat/49/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F704

@@ -17,7 +17,7 @@
 
     Beginning with data for calendar year 1980, the Secretary shall make publicly available data in the Secretary’s possession for each mortgagee which is not otherwise subject to the requirements of this chapter and which is not exempt pursuant to [section 2805(b) of this title][/us/usc/t12/s2805/b] (and for each mortgagee making mortgage loans exempted under [section 2803(g) of this title][/us/usc/t12/s2803/g]), with respect to mortgage loans approved (or for which completed applications are received) by the Secretary for insurance under title I or II of the National Housing Act \[[12 U.S.C. 1702][/us/usc/t12/s1702] et seq., 1707 et seq.\]. Such data to be disclosed shall consist of data comparable to the data which would be disclosed if such mortgagee were subject to the requirements of [section 2803 of this title][/us/usc/t12/s2803]. Disclosure statements containing data for each such mortgagee for a primary metropolitan statistical area, metropolitan statistical area, or consolidated metropolitan statistical area that is not comprised of designated primary metropolitan statistical areas shall, at a minimum, be publicly available at the central depository of data established pursuant to [section 2803(f) of this title][/us/usc/t12/s2803/f] for such primary metropolitan statistical area, metropolitan statistical area, or consolidated metropolitan statistical area that is not comprised of designated primary metropolitan statistical areas. The Secretary shall also compile and make publicly available aggregate data for such mortgagees by census tract, and tables indicating aggregate lending patterns, in a manner comparable to the information required to be made publicly available in accordance with [section 2809 of this title][/us/usc/t12/s2809].
 
-([Pub. L. 94–200, title III, § 311][/us/pl/94/200/s311], as added [Pub. L. 96–399, title III, § 340(c)][/us/pl/96/399/s340/c], Oct. 8, 1980, [94 Stat. 1658][/us/stat/94/1658]; amended [Pub. L. 98–181, title I][/us/pl/98/181] \[title VII, § 701(a)\], Nov. 30, 1983, [97 Stat. 1266][/us/stat/97/1266]; [Pub. L. 100–242, title V, § 565(a)(3)][/us/pl/100/242/s565/a/3], Feb. 5, 1988, [101 Stat. 1945][/us/stat/101/1945]; [Pub. L. 101–73, title XII, § 1211(c)(2)(D)][/us/pl/101/73/s1211/c/2/D], Aug. 9, 1989, [103 Stat. 525][/us/stat/103/525].)
+([Pub. L. 94–200, title III][/us/pl/94/200/tIII], § 311, as added [Pub. L. 96–399, title III][/us/pl/96/399/tIII], § 340(c), Oct. 8, 1980, [94 Stat. 1658][/us/stat/94/1658]; amended [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title VII, § 701(a)\], Nov. 30, 1983, [97 Stat. 1266][/us/stat/97/1266]; [Pub. L. 100–242, title V][/us/pl/100/242/tV], § 565(a)(3), Feb. 5, 1988, [101 Stat. 1945][/us/stat/101/1945]; [Pub. L. 101–73, title XII][/us/pl/101/73/tXII], § 1211(c)(2)(D), Aug. 9, 1989, [103 Stat. 525][/us/stat/103/525].)
 
  __References in Text__ 
 
@@ -52,14 +52,14 @@
 [/us/usc/t12/s2803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2803
 [/us/usc/t12/s2803/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2803%2Ff
 [/us/usc/t12/s2809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2809
-[/us/pl/94/200/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F200%2Fs311
-[/us/pl/96/399/s340/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs340%2Fc
+[/us/pl/94/200/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F200%2FtIII
+[/us/pl/96/399/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2FtIII
 [/us/stat/94/1658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1658
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1266
-[/us/pl/100/242/s565/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs565%2Fa%2F3
+[/us/pl/100/242/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtV
 [/us/stat/101/1945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1945
-[/us/pl/101/73/s1211/c/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs1211%2Fc%2F2%2FD
+[/us/pl/101/73/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtXII
 [/us/stat/103/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F525
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
 [/us/stat/48/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1246

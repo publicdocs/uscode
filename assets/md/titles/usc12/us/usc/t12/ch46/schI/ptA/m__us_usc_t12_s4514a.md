@@ -49,7 +49,7 @@
 
         Nothing in this section may be construed to require or authorize the Director to publicly disclose information that is confidential or proprietary.
 
-([Pub. L. 110–289, div. A, title VI, § 1601][/us/pl/110/289/s1601], July 30, 2008, [122 Stat. 2824][/us/stat/122/2824].)
+([Pub. L. 110–289, div. A, title VI][/us/pl/110/289/dA/tVI], § 1601, July 30, 2008, [122 Stat. 2824][/us/stat/122/2824].)
 
  __Codification__ 
 
@@ -66,7 +66,7 @@
 ----------
 ----------
 
-[/us/pl/110/289/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1601
+[/us/pl/110/289/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtVI
 [/us/stat/122/2824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2824
 [/us/pl/110/289/s1002/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1002%2Fb
 [/us/usc/t12/s4511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4511

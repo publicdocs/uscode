@@ -17,7 +17,7 @@
 
     The National Bank Act \[[12 U.S.C. 21][/us/usc/t12/s21] et seq.\], and all other Acts of Congress relating to national banks, shall, insofar as not locally inapplicable after August 1, 1956, apply to Guam.
 
-([Aug. 1, 1956, ch. 852, § 2][/us/act/1956-08-01/ch852/s2], [70 Stat. 908][/us/stat/70/908].)
+([Aug. 1, 1956, ch. 852][/us/act/1956-08-01/ch852], § 2, [70 Stat. 908][/us/stat/70/908].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t12/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs21
-[/us/act/1956-08-01/ch852/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch852%2Fs2
+[/us/act/1956-08-01/ch852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch852
 [/us/stat/70/908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F908
 [/us/act/1864-06-03/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-06-03%2Fch106
 [/us/stat/13/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F13%2F99

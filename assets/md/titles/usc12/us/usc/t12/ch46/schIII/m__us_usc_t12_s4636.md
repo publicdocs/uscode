@@ -125,7 +125,7 @@
 
         A penalty under this section may be imposed only for conduct or violations under subsection (a) occurring after October 28, 1992.
 
-([Pub. L. 102–550, title XIII, § 1376][/us/pl/102/550/s1376], Oct. 28, 1992, [106 Stat. 3991][/us/stat/106/3991]; [Pub. L. 110–289, div. A, title I, § 1155][/us/pl/110/289/s1155], July 30, 2008, [122 Stat. 2775][/us/stat/122/2775].)
+([Pub. L. 102–550, title XIII][/us/pl/102/550/tXIII], § 1376, Oct. 28, 1992, [106 Stat. 3991][/us/stat/106/3991]; [Pub. L. 110–289, div. A, title I][/us/pl/110/289/dA/tI], § 1155, July 30, 2008, [122 Stat. 2775][/us/stat/122/2775].)
 
  __References in Text__ 
 
@@ -133,23 +133,23 @@
 
  __Amendments__ 
 
-    2008—Subsec. (a). [Pub. L. 110–289, § 1155(1)][/us/pl/110/289/s1155/1], added subsec. (a) and struck out former subsec. (a) which related to violations or conduct for which the Director could impose a civil money penalty in accordance with this section.
+    2008—Subsec. (a). [Pub. L. 110–289][/us/pl/110/289], § 1155(1), added subsec. (a) and struck out former subsec. (a) which related to violations or conduct for which the Director could impose a civil money penalty in accordance with this section.
 
-    Subsec. (b). [Pub. L. 110–289, § 1155(2)][/us/pl/110/289/s1155/2], added subsec. (b) and struck out former subsec. (b) which related to the amount of penalty the Director could impose for violations or conduct described in former subsection (a).
+    Subsec. (b). [Pub. L. 110–289][/us/pl/110/289], § 1155(2), added subsec. (b) and struck out former subsec. (b) which related to the amount of penalty the Director could impose for violations or conduct described in former subsection (a).
 
-    Subsec. (c)(1)(A). [Pub. L. 110–289, § 1155(3)(A)][/us/pl/110/289/s1155/3/A], (B), substituted “regulated entity” for “enterprise” and inserted “or entity-affiliated party” before “in writing”.
+    Subsec. (c)(1)(A). [Pub. L. 110–289][/us/pl/110/289], § 1155(3)(A), (B), substituted “regulated entity” for “enterprise” and inserted “or entity-affiliated party” before “in writing”.
 
-    Subsec. (c)(1)(B). [Pub. L. 110–289, § 1155(3)(A)][/us/pl/110/289/s1155/3/A], (C), substituted “regulated entity” for “enterprise” and inserted “or entity-affiliated party” before “has been given”.
+    Subsec. (c)(1)(B). [Pub. L. 110–289][/us/pl/110/289], § 1155(3)(A), (C), substituted “regulated entity” for “enterprise” and inserted “or entity-affiliated party” before “has been given”.
 
-    Subsec. (c)(2). [Pub. L. 110–289, § 1155(3)(A)][/us/pl/110/289/s1155/3/A], substituted “regulated entity” for “enterprise”.
+    Subsec. (c)(2). [Pub. L. 110–289][/us/pl/110/289], § 1155(3)(A), substituted “regulated entity” for “enterprise”.
 
-    Subsec. (d). [Pub. L. 110–289, § 1155(4)(G)][/us/pl/110/289/s1155/4/G], struck out “and [section 4634 of this title][/us/usc/t12/s4634]” after “subsection (c)(1)”.
+    Subsec. (d). [Pub. L. 110–289][/us/pl/110/289], § 1155(4)(G), struck out “and [section 4634 of this title][/us/usc/t12/s4634]” after “subsection (c)(1)”.
 
-    [Pub. L. 110–289, § 1155(4)(F)][/us/pl/110/289/s1155/4/F], which directed the striking out of “, or may, under the direction and control of the Attorney General of the United States, bring such an action”, was executed by striking out “, or may, under the direction and control of the Attorney General, bring such an action” after “may be available”, to reflect the probable intent of Congress.
+    [Pub. L. 110–289][/us/pl/110/289], § 1155(4)(F), which directed the striking out of “, or may, under the direction and control of the Attorney General of the United States, bring such an action”, was executed by striking out “, or may, under the direction and control of the Attorney General, bring such an action” after “may be available”, to reflect the probable intent of Congress.
 
-    [Pub. L. 110–289, § 1155(4)(A)][/us/pl/110/289/s1155/4/A]–(E), substituted “director, or entity-affiliated party” for “or director” in two places, “a regulated entity” for “an enterprise”, and “the regulated entity” for “the enterprise”, inserted “, or the United States district court within the jurisdiction of which the headquarters of the regulated entity is located,” after “District of Columbia”, and struck out “request the Attorney General of the United States to” after “Director may”.
+    [Pub. L. 110–289][/us/pl/110/289], § 1155(4)(A)–(E), substituted “director, or entity-affiliated party” for “or director” in two places, “a regulated entity” for “an enterprise”, and “the regulated entity” for “the enterprise”, inserted “, or the United States district court within the jurisdiction of which the headquarters of the regulated entity is located,” after “District of Columbia”, and struck out “request the Attorney General of the United States to” after “Director may”.
 
-    Subsec. (g). [Pub. L. 110–289, § 1155(5)][/us/pl/110/289/s1155/5], substituted “A regulated entity” for “An enterprise”.
+    Subsec. (g). [Pub. L. 110–289][/us/pl/110/289], § 1155(5), substituted “A regulated entity” for “An enterprise”.
 
 ----------
 
@@ -161,22 +161,22 @@
 [/us/usc/t12/s4585/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4585%2Fa
 [/us/usc/t12/s4633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4633
 [/us/usc/t12/s4634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4634
-[/us/pl/102/550/s1376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1376
+[/us/pl/102/550/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIII
 [/us/stat/106/3991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3991
-[/us/pl/110/289/s1155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1155
+[/us/pl/110/289/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtI
 [/us/stat/122/2775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2775
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/stat/106/3941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3941
 [/us/usc/t12/s4501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4501
-[/us/pl/110/289/s1155/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1155%2F1
-[/us/pl/110/289/s1155/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1155%2F2
-[/us/pl/110/289/s1155/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1155%2F3%2FA
-[/us/pl/110/289/s1155/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1155%2F3%2FA
-[/us/pl/110/289/s1155/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1155%2F3%2FA
-[/us/pl/110/289/s1155/4/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1155%2F4%2FG
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
 [/us/usc/t12/s4634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4634
-[/us/pl/110/289/s1155/4/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1155%2F4%2FF
-[/us/pl/110/289/s1155/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1155%2F4%2FA
-[/us/pl/110/289/s1155/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1155%2F5
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
 
 

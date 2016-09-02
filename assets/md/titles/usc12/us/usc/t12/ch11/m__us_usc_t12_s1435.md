@@ -17,7 +17,7 @@
 
     Obligations of the Federal Home Loan Banks issued with the approval of the Board or the Director under this chapter shall be lawful investments, and may be accepted as security, for all fiduciary, trust, and public funds the investment or deposit of which shall be under the authority or control of the United States or any officer or officers thereof. The Federal reserve banks are authorized to act as depositaries, custodians, and/or fiscal agents for Federal Home Loan Banks in the general performance of their powers under this chapter. All obligations of Federal Home Loan Banks shall plainly state that such obligations are not obligations of the United States and are not guaranteed by the United States.
 
-([July 22, 1932, ch. 522, § 15][/us/act/1932-07-22/ch522/s15], [47 Stat. 736][/us/stat/47/736]; [Pub. L. 101–73, title VII, § 701(b)(1)][/us/pl/101/73/s701/b/1], (3)(A), Aug. 9, 1989, [103 Stat. 412][/us/stat/103/412]; [Pub. L. 110–289, div. A, title II, § 1204(7)][/us/pl/110/289/s1204/7], July 30, 2008, [122 Stat. 2786][/us/stat/122/2786].)
+([July 22, 1932, ch. 522][/us/act/1932-07-22/ch522], § 15, [47 Stat. 736][/us/stat/47/736]; [Pub. L. 101–73, title VII][/us/pl/101/73/tVII], § 701(b)(1), (3)(A), Aug. 9, 1989, [103 Stat. 412][/us/stat/103/412]; [Pub. L. 110–289, div. A, title II][/us/pl/110/289/dA/tII], § 1204(7), July 30, 2008, [122 Stat. 2786][/us/stat/122/2786].)
 
  __Amendments__ 
 
@@ -32,11 +32,11 @@
 ----------
 ----------
 
-[/us/act/1932-07-22/ch522/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-07-22%2Fch522%2Fs15
+[/us/act/1932-07-22/ch522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-07-22%2Fch522
 [/us/stat/47/736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F736
-[/us/pl/101/73/s701/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs701%2Fb%2F1
+[/us/pl/101/73/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtVII
 [/us/stat/103/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F412
-[/us/pl/110/289/s1204/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1204%2F7
+[/us/pl/110/289/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtII
 [/us/stat/122/2786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2786
 [/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
 [/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73

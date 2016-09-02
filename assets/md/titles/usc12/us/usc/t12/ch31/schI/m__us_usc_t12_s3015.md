@@ -47,7 +47,7 @@
 
         Notwithstanding any other provision of this section, a credit union serving predominantly low-income members (as defined by the Administrator of the National Credit Union Administration) may receive technical assistance under subchapter II.
 
-([Pub. L. 95–351, title I, § 105][/us/pl/95/351/s105], Aug. 20, 1978, [92 Stat. 506][/us/stat/92/506]; [Pub. L. 97–35, title III, § 394(e)(1)][/us/pl/97/35/s394/e/1], (f), Aug. 13, 1981, [95 Stat. 436][/us/stat/95/436], 437.)
+([Pub. L. 95–351, title I][/us/pl/95/351/tI], § 105, Aug. 20, 1978, [92 Stat. 506][/us/stat/92/506]; [Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 394(e)(1), (f), Aug. 13, 1981, [95 Stat. 436][/us/stat/95/436], 437.)
 
  __References in Text__ 
 
@@ -55,13 +55,13 @@
 
  __Amendments__ 
 
-    1981—Subsec. (a). [Pub. L. 97–35, § 394(e)(1)][/us/pl/97/35/s394/e/1], substituted “primarily owned” for “entirely owned”.
+    1981—Subsec. (a). [Pub. L. 97–35][/us/pl/97/35], § 394(e)(1), substituted “primarily owned” for “entirely owned”.
 
-    Subsec. (a)(5). [Pub. L. 97–35, § 394(f)][/us/pl/97/35/s394/f], inserted provisions relating to exception for housing cooperatives in existence on Mar. 21, 1980.
+    Subsec. (a)(5). [Pub. L. 97–35][/us/pl/97/35], § 394(f), inserted provisions relating to exception for housing cooperatives in existence on Mar. 21, 1980.
 
  __Effective Date of 1981 Amendment__ 
 
-[Pub. L. 97–35, title III, § 394(e)(2)][/us/pl/97/35/s394/e/2], Aug. 13, 1981, [95 Stat. 437][/us/stat/95/437], provided that: 
+[Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 394(e)(2), Aug. 13, 1981, [95 Stat. 437][/us/stat/95/437], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall take effect on the day after the Final Government Equity Redemption Date \[Dec. 31, 1981\].”
 
@@ -78,15 +78,15 @@
 ----------
 ----------
 
-[/us/pl/95/351/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F351%2Fs105
+[/us/pl/95/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F351%2FtI
 [/us/stat/92/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F506
-[/us/pl/97/35/s394/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs394%2Fe%2F1
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F436
 [/us/pl/95/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F351
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
-[/us/pl/97/35/s394/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs394%2Fe%2F1
-[/us/pl/97/35/s394/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs394%2Ff
-[/us/pl/97/35/s394/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs394%2Fe%2F2
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F437
 [/us/pl/97/35/s396/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs396%2Fa
 [/us/usc/t12/s3012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3012

@@ -45,7 +45,7 @@
 
         (2) eliminate requirements that are not warranted for reasons of safety and soundness or other public purposes.
 
-([Pub. L. 103–325, title III, § 307][/us/pl/103/325/s307], Sept. 23, 1994, [108 Stat. 2217][/us/stat/108/2217].)
+([Pub. L. 103–325, title III][/us/pl/103/325/tIII], § 307, Sept. 23, 1994, [108 Stat. 2217][/us/stat/108/2217].)
 
  __Codification__ 
 
@@ -58,7 +58,7 @@
 ----------
 ----------
 
-[/us/pl/103/325/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs307
+[/us/pl/103/325/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtIII
 [/us/stat/108/2217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2217
 [/us/usc/t12/s4805a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4805a
 

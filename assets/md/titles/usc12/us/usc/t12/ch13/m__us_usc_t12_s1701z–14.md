@@ -17,7 +17,7 @@
 
     The Secretary of Housing and Urban Development is authorized to develop and implement a demonstration program utilizing lower cost building technology for projects located on inner-city vacant land.
 
-([Pub. L. 97–35, title III, § 339C][/us/pl/97/35/s339C], Aug. 13, 1981, [95 Stat. 417][/us/stat/95/417].)
+([Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 339C, Aug. 13, 1981, [95 Stat. 417][/us/stat/95/417].)
 
  __Codification__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/97/35/s339C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs339C
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F417
 [/us/pl/97/35/s371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs371
 [/us/usc/t12/s3701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3701

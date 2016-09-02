@@ -41,17 +41,17 @@
 
         For purposes of this section, the term “acquire” means to acquire, directly or indirectly, ownership or control through a merger or consolidation or an acquisition of assets or assumption of liabilities, provided that following such merger, consolidation, or acquisition, an acquiring insured depository institution may not own the shares of the acquired insured depository institution.
 
-(R.S. § 5156A, as added [Pub. L. 102–242, title V, § 502(b)][/us/pl/102/242/s502/b], Dec. 19, 1991, [105 Stat. 2393][/us/stat/105/2393]; amended [Pub. L. 104–208, div. A, title II, § 2201(b)(1)][/us/pl/104/208/s2201/b/1], Sept. 30, 1996, [110 Stat. 3009–403][/us/stat/110/3009-403].)
+(R.S. § 5156A, as added [Pub. L. 102–242, title V][/us/pl/102/242/tV], § 502(b), Dec. 19, 1991, [105 Stat. 2393][/us/stat/105/2393]; amended [Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], § 2201(b)(1), Sept. 30, 1996, [110 Stat. 3009–403][/us/stat/110/3009-403].)
 
  __References in Text__ 
 
-    [Section 1815(d)(3) of this title][/us/usc/t12/s1815/d/3], referred to in subsec. (a), which related to optional conversions by insured depository institutions subject to special rules on deposit insurance payments, was struck out and former section 1815(d)(1)(C) redesignated section 1815(d)(3) by [Pub. L. 109–173, § 8(a)(4)][/us/pl/109/173/s8/a/4], (5)(D), Feb. 15, 2006, [119 Stat. 3610][/us/stat/119/3610], 3611.
+    [Section 1815(d)(3) of this title][/us/usc/t12/s1815/d/3], referred to in subsec. (a), which related to optional conversions by insured depository institutions subject to special rules on deposit insurance payments, was struck out and former section 1815(d)(1)(C) redesignated section 1815(d)(3) by [Pub. L. 109–173][/us/pl/109/173], § 8(a)(4), (5)(D), Feb. 15, 2006, [119 Stat. 3610][/us/stat/119/3610], 3611.
 
     This Act, referred to in subsec. (c), probably means the National Bank Act, [act June 3, 1864, ch. 106][/us/act/1864-06-03/ch106], [13 Stat. 99][/us/stat/13/99], as amended, which is classified principally to chapter 2 (§ 21 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under [section 38 of this title][/us/usc/t12/s38].
 
  __Codification__ 
 
-    Section was not enacted as part of [act Nov. 7, 1918, ch. 209][/us/act/1918-11-07/ch209], as added Sept. 8, 1959, [Pub. L. 86–230, § 20][/us/pl/86/230/s20], [73 Stat. 460][/us/stat/73/460], which comprises this subchapter.
+    Section was not enacted as part of [act Nov. 7, 1918, ch. 209][/us/act/1918-11-07/ch209], as added Sept. 8, 1959, [Pub. L. 86–230][/us/pl/86/230], § 20, [73 Stat. 460][/us/stat/73/460], which comprises this subchapter.
 
  __Amendments__ 
 
@@ -64,18 +64,18 @@
 ----------
 ----------
 
-[/us/pl/102/242/s502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs502%2Fb
+[/us/pl/102/242/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtV
 [/us/stat/105/2393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2393
-[/us/pl/104/208/s2201/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2201%2Fb%2F1
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-403
 [/us/usc/t12/s1815/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1815%2Fd%2F3
-[/us/pl/109/173/s8/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173%2Fs8%2Fa%2F4
+[/us/pl/109/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173
 [/us/stat/119/3610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3610
 [/us/act/1864-06-03/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-06-03%2Fch106
 [/us/stat/13/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F13%2F99
 [/us/usc/t12/s38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs38
 [/us/act/1918-11-07/ch209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-11-07%2Fch209
-[/us/pl/86/230/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F230%2Fs20
+[/us/pl/86/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F230
 [/us/stat/73/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F460
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/usc/t12/s1815/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1815%2Fd%2F3

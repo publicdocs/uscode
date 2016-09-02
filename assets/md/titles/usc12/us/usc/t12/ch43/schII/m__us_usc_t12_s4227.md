@@ -33,7 +33,7 @@
 
         If the Attorney General decides to grant a contract, the declarant, after consultation with the Attorney General, shall have the right to select counsel to prosecute an action, and the declarant and the declarant’s counsel shall act in accordance with subchapter III.
 
-([Pub. L. 101–647, title XXV, § 2582][/us/pl/101/647/s2582], Nov. 29, 1990, [104 Stat. 4903][/us/stat/104/4903].)
+([Pub. L. 101–647, title XXV][/us/pl/101/647/tXXV], § 2582, Nov. 29, 1990, [104 Stat. 4903][/us/stat/104/4903].)
 
 ----------
 
@@ -44,7 +44,7 @@
 
 [/us/usc/t12/s4226/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4226%2Fd%2F1%2FB
 [/us/usc/t12/s4226/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4226%2Fd%2F1%2FB
-[/us/pl/101/647/s2582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2582
+[/us/pl/101/647/tXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXV
 [/us/stat/104/4903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4903
 
 

@@ -17,7 +17,7 @@
 
     Any delegations by the Farm Credit Administration and redelegations thereof made in accordance with section 5.19 of the Farm Credit Act of 1971 as in effect prior to the effective date of the Farm Credit Amendments Act of 1985 may continue in full force and effect, at the discretion of the Farm Credit Administration, for the period ending twelve months after December 23, 1985.
 
-([Pub. L. 92–181, title V, § 5][/us/pl/92/181/s5].18, as added [Pub. L. 99–205, title II, § 202(b)][/us/pl/99/205/s202/b], Dec. 23, 1985, [99 Stat. 1693][/us/stat/99/1693].)
+([Pub. L. 92–181, title V][/us/pl/92/181/tV], § 5.18, as added [Pub. L. 99–205, title II][/us/pl/99/205/tII], § 202(b), Dec. 23, 1985, [99 Stat. 1693][/us/stat/99/1693].)
 
  __References in Text__ 
 
@@ -25,7 +25,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 2253, [Pub. L. 92–181, title V, § 5][/us/pl/92/181/s5].19, Dec. 10, 1971, [85 Stat. 622][/us/stat/85/622], related to delegation of duties and powers to financial institutions, prior to repeal, effective thirty days after Dec. 23, 1985, by [Pub. L. 99–205, title II, § 202(a)][/us/pl/99/205/s202/a], Dec. 23, 1985, [99 Stat. 1693][/us/stat/99/1693].
+    A prior section 2253, [Pub. L. 92–181, title V][/us/pl/92/181/tV], § 5.19, Dec. 10, 1971, [85 Stat. 622][/us/stat/85/622], related to delegation of duties and powers to financial institutions, prior to repeal, effective thirty days after Dec. 23, 1985, by [Pub. L. 99–205, title II][/us/pl/99/205/tII], § 202(a), Dec. 23, 1985, [99 Stat. 1693][/us/stat/99/1693].
 
      A prior section 5.18 of [Pub. L. 92–181][/us/pl/92/181] was renumbered section 5.17 and is classified to [section 2252 of this title][/us/usc/t12/s2252].
 
@@ -40,14 +40,14 @@
 ----------
 ----------
 
-[/us/pl/92/181/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs5
-[/us/pl/99/205/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2Fs202%2Fb
+[/us/pl/92/181/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtV
+[/us/pl/99/205/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2FtII
 [/us/stat/99/1693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1693
 [/us/pl/92/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181
 [/us/pl/99/205/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2Fs202%2Fa
-[/us/pl/92/181/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs5
+[/us/pl/92/181/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtV
 [/us/stat/85/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F622
-[/us/pl/99/205/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2Fs202%2Fa
+[/us/pl/99/205/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2FtII
 [/us/stat/99/1693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1693
 [/us/pl/92/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181
 [/us/usc/t12/s2252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2252

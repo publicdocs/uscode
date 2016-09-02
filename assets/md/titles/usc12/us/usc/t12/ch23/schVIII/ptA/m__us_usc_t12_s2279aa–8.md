@@ -61,7 +61,7 @@
 
         The standards established under subsection (a) shall not discriminate against small originators or small agricultural mortgage loans that are at least $50,000. The Board shall promote and encourage the inclusion of qualified loans for small farms and family farmers in the agricultural mortgage secondary market.
 
-([Pub. L. 92–181, title VIII, § 8][/us/pl/92/181/s8].8, as added [Pub. L. 100–233, title VII, § 702][/us/pl/100/233/s702], Jan. 6, 1988, [101 Stat. 1700][/us/stat/101/1700]; amended [Pub. L. 100–399, title VI, § 601(i)][/us/pl/100/399/s601/i], Aug. 17, 1988, [102 Stat. 1005][/us/stat/102/1005]; [Pub. L. 104–105, title I, § 110][/us/pl/104/105/s110], Feb. 10, 1996, [110 Stat. 165][/us/stat/110/165]; [Pub. L. 110–234, title V, § 5406(c)][/us/pl/110/234/s5406/c], May 22, 2008, [122 Stat. 1158][/us/stat/122/1158]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title V, § 5406(c), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1920.)
+([Pub. L. 92–181, title VIII][/us/pl/92/181/tVIII], § 8.8, as added [Pub. L. 100–233, title VII][/us/pl/100/233/tVII], § 702, Jan. 6, 1988, [101 Stat. 1700][/us/stat/101/1700]; amended [Pub. L. 100–399, title VI][/us/pl/100/399/tVI], § 601(i), Aug. 17, 1988, [102 Stat. 1005][/us/stat/102/1005]; [Pub. L. 104–105, title I][/us/pl/104/105/tI], § 110, Feb. 10, 1996, [110 Stat. 165][/us/stat/110/165]; [Pub. L. 110–234, title V][/us/pl/110/234/tV], § 5406(c), May 22, 2008, [122 Stat. 1158][/us/stat/122/1158]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title V, § 5406(c), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1920.)
 
  __Codification__ 
 
@@ -69,15 +69,15 @@
 
  __Amendments__ 
 
-    2008—Subsec. (a). [Pub. L. 110–246, § 5406(c)(1)][/us/pl/110/246/s5406/c/1], added pars. (1) and (2), designated last sentence as par. (3) and inserted heading, and struck out former first sentence which read as follows: “Not later than 120 days after the appointment and election of the permanent Board, the Corporation, in consultation with originators, shall establish uniform underwriting, security appraisal, and repayment standards for qualified loans.”
+    2008—Subsec. (a). [Pub. L. 110–246][/us/pl/110/246], § 5406(c)(1), added pars. (1) and (2), designated last sentence as par. (3) and inserted heading, and struck out former first sentence which read as follows: “Not later than 120 days after the appointment and election of the permanent Board, the Corporation, in consultation with originators, shall establish uniform underwriting, security appraisal, and repayment standards for qualified loans.”
 
-    Subsec. (b). [Pub. L. 110–246, § 5406(c)(2)(A)][/us/pl/110/246/s5406/c/2/A], inserted “with respect to loans secured by agricultural real estate” after “subsection (a)” in introductory provisions.
+    Subsec. (b). [Pub. L. 110–246][/us/pl/110/246], § 5406(c)(2)(A), inserted “with respect to loans secured by agricultural real estate” after “subsection (a)” in introductory provisions.
 
-    Subsec. (b)(5). [Pub. L. 110–246, § 5406(c)(2)(B)][/us/pl/110/246/s5406/c/2/B], substituted “ensure that the farmer or rancher” for “ensure that the borrower” and “farm or ranch” for “site”.
+    Subsec. (b)(5). [Pub. L. 110–246][/us/pl/110/246], § 5406(c)(2)(B), substituted “ensure that the farmer or rancher” for “ensure that the borrower” and “farm or ranch” for “site”.
 
-    Subsec. (c)(1). [Pub. L. 110–246, § 5406(c)(3)][/us/pl/110/246/s5406/c/3], inserted “secured by agricultural real estate” after “A loan”.
+    Subsec. (c)(1). [Pub. L. 110–246][/us/pl/110/246], § 5406(c)(3), inserted “secured by agricultural real estate” after “A loan”.
 
-    Subsecs. (d), (e). [Pub. L. 110–246, § 5406(c)(4)][/us/pl/110/246/s5406/c/4], (5), redesignated subsec. (e) as (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “No standard prescribed under subsection (a) shall take effect before the later of—
+    Subsecs. (d), (e). [Pub. L. 110–246][/us/pl/110/246], § 5406(c)(4), (5), redesignated subsec. (e) as (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “No standard prescribed under subsection (a) shall take effect before the later of—
 
     “(1) the end of a period consisting of 30 legislative days and beginning on the date such standards are submitted to the Congress; or
 
@@ -103,26 +103,26 @@
 ----------
 
 [/us/usc/t12/s2279aa–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2279aa%E2%80%9311
-[/us/pl/92/181/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs8
-[/us/pl/100/233/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs702
+[/us/pl/92/181/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtVIII
+[/us/pl/100/233/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtVII
 [/us/stat/101/1700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1700
-[/us/pl/100/399/s601/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs601%2Fi
+[/us/pl/100/399/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtVI
 [/us/stat/102/1005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1005
-[/us/pl/104/105/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2Fs110
+[/us/pl/104/105/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2FtI
 [/us/stat/110/165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F165
-[/us/pl/110/234/s5406/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs5406%2Fc
+[/us/pl/110/234/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtV
 [/us/stat/122/1158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1158
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s5406/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs5406%2Fc%2F1
-[/us/pl/110/246/s5406/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs5406%2Fc%2F2%2FA
-[/us/pl/110/246/s5406/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs5406%2Fc%2F2%2FB
-[/us/pl/110/246/s5406/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs5406%2Fc%2F3
-[/us/pl/110/246/s5406/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs5406%2Fc%2F4
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/104/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105
 [/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

@@ -17,7 +17,7 @@
 
     The moneys held in the general fund of the Treasury, except the 5 per centum fund for the redemption of outstanding national-bank notes may, upon the direction of the Secretary of the Treasury, be deposited in Federal reserve banks, which banks, when required by the Secretary of the Treasury, shall act as fiscal agents of the United States; and the revenues of the Government or any part thereof may be deposited in such banks, and disbursements may be made by checks drawn against such deposits.
 
-([Dec. 23, 1913, ch. 6, § 15][/us/act/1913-12-23/ch6/s15] (par.), [38 Stat. 265][/us/stat/38/265]; [Pub. L. 90–269, § 2][/us/pl/90/269/s2], Mar. 18, 1968, [82 Stat. 50][/us/stat/82/50].)
+([Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 15 (par.), [38 Stat. 265][/us/stat/38/265]; [Pub. L. 90–269][/us/pl/90/269], § 2, Mar. 18, 1968, [82 Stat. 50][/us/stat/82/50].)
 
  __Codification__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/act/1913-12-23/ch6/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs15
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
 [/us/stat/38/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F265
-[/us/pl/90/269/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F269%2Fs2
+[/us/pl/90/269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F269
 [/us/stat/82/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F50
 [/us/act/1923-03-04/ch252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1923-03-04%2Fch252
 [/us/stat/42/1480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F1480

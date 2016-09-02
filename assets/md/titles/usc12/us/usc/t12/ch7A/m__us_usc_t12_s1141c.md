@@ -23,7 +23,7 @@
 
     (3) to keep advised from any available sources and make reports as to crop prices, experiences, prospects, supply, and demand, at home and abroad.
 
-([June 15, 1929, ch. 24, § 5][/us/act/1929-06-15/ch24/s5], [46 Stat. 13][/us/stat/46/13]; Ex. Ord. No. 6084, Mar. 27, 1933; [June 16, 1933, ch. 98][/us/act/1933-06-16/ch98], title V, § 50(a), [48 Stat. 265][/us/stat/48/265].)
+([June 15, 1929, ch. 24][/us/act/1929-06-15/ch24], § 5, [46 Stat. 13][/us/stat/46/13]; Ex. Ord. No. 6084, Mar. 27, 1933; [June 16, 1933, ch. 98][/us/act/1933-06-16/ch98], title V, § 50(a), [48 Stat. 265][/us/stat/48/265].)
 
  __Codification__ 
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/act/1929-06-15/ch24/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-06-15%2Fch24%2Fs5
+[/us/act/1929-06-15/ch24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-06-15%2Fch24
 [/us/stat/46/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F13
 [/us/act/1933-06-16/ch98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-16%2Fch98
 [/us/stat/48/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F265

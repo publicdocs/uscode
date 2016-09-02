@@ -67,7 +67,7 @@
 
             (B) in the case of any penalty determined under subparagraph (A), the $100,000 limitation under paragraph (1) shall not apply.
 
-([Pub. L. 93–533, § 10][/us/pl/93/533/s10], Dec. 22, 1974, [88 Stat. 1728][/us/stat/88/1728]; [Pub. L. 94–205, § 8][/us/pl/94/205/s8], Jan. 2, 1976, [89 Stat. 1158][/us/stat/89/1158]; [Pub. L. 101–625, title IX, § 942(a)][/us/pl/101/625/s942/a], Nov. 28, 1990, [104 Stat. 4411][/us/stat/104/4411]; [Pub. L. 104–208, div. A, title II, § 2103(g)(2)][/us/pl/104/208/s2103/g/2], Sept. 30, 1996, [110 Stat. 3009–401][/us/stat/110/3009-401]; [Pub. L. 111–203, title X, § 1098(8)][/us/pl/111/203/s1098/8], July 21, 2010, [124 Stat. 2104][/us/stat/124/2104].)
+([Pub. L. 93–533][/us/pl/93/533], § 10, Dec. 22, 1974, [88 Stat. 1728][/us/stat/88/1728]; [Pub. L. 94–205][/us/pl/94/205], § 8, Jan. 2, 1976, [89 Stat. 1158][/us/stat/89/1158]; [Pub. L. 101–625, title IX][/us/pl/101/625/tIX], § 942(a), Nov. 28, 1990, [104 Stat. 4411][/us/stat/104/4411]; [Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], § 2103(g)(2), Sept. 30, 1996, [110 Stat. 3009–401][/us/stat/110/3009-401]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1098(8), July 21, 2010, [124 Stat. 2104][/us/stat/124/2104].)
 
  __Amendments__ 
 
@@ -97,15 +97,15 @@
 [/us/usc/t12/s2605/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2605%2Fi
 [/us/usc/t12/s2603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2603
 [/us/usc/t12/s2603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2603
-[/us/pl/93/533/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F533%2Fs10
+[/us/pl/93/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F533
 [/us/stat/88/1728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1728
-[/us/pl/94/205/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F205%2Fs8
+[/us/pl/94/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F205
 [/us/stat/89/1158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1158
-[/us/pl/101/625/s942/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs942%2Fa
+[/us/pl/101/625/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtIX
 [/us/stat/104/4411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4411
-[/us/pl/104/208/s2103/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2103%2Fg%2F2
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-401
-[/us/pl/111/203/s1098/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1098%2F8
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2104
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/usc/t12/s2609/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2609%2Fc

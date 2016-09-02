@@ -325,7 +325,7 @@
 
         Notwithstanding any provision of the Federal Advisory Committee Act (5 U.S.C. App.), such Act shall apply to each advisory committee of the Bureau and each subcommittee of such an advisory committee.
 
-([Pub. L. 111–203, title X, § 1013][/us/pl/111/203/s1013], July 21, 2010, [124 Stat. 1966][/us/stat/124/1966]; [Pub. L. 114–113, div. O, title VII, § 704][/us/pl/114/113/s704], Dec. 18, 2015, [129 Stat. 3025][/us/stat/129/3025].)
+([Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1013, July 21, 2010, [124 Stat. 1966][/us/stat/124/1966]; [Pub. L. 114–113, div. O, title VII][/us/pl/114/113/dO/tVII], § 704, Dec. 18, 2015, [129 Stat. 3025][/us/stat/129/3025].)
 
  __References in Text__ 
 
@@ -333,7 +333,7 @@
 
     Section 2302(b)(11), referred to in subsec. (a)(1)(C)(ii), probably means [section 2302(b)(11) of Title 5][/us/usc/t5/s2302/b/11], Government Organization and Employees.
 
-    The Equal Credit Opportunity Act, referred to in subsec. (c)(2)(A), is title VII of [Pub. L. 90–321][/us/pl/90/321], as added by [Pub. L. 93–495, title V, § 503][/us/pl/93/495/s503], Oct. 28, 1974, [88 Stat. 1521][/us/stat/88/1521], which is classified generally to subchapter IV (§ 1691 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 15][/us/usc/t15/s1601] and Tables.
+    The Equal Credit Opportunity Act, referred to in subsec. (c)(2)(A), is title VII of [Pub. L. 90–321][/us/pl/90/321], as added by [Pub. L. 93–495, title V][/us/pl/93/495/tV], § 503, Oct. 28, 1974, [88 Stat. 1521][/us/stat/88/1521], which is classified generally to subchapter IV (§ 1691 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 15][/us/usc/t15/s1601] and Tables.
 
     The Home Mortgage Disclosure Act, referred to in subsec. (c)(2)(A), probably means the Home Mortgage Disclosure Act of 1975, which is title III of [Pub. L. 94–200][/us/pl/94/200], Dec. 31, 1975, [89 Stat. 1125][/us/stat/89/1125], and is classified principally to chapter 29 (§ 2801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2801 of this title][/us/usc/t12/s2801] and Tables.
 
@@ -360,13 +360,13 @@
 [/us/usc/t26/s414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs414
 [/us/usc/t15/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1691
 [/us/usc/t12/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2801
-[/us/pl/111/203/s1013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1013
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/1966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1966
-[/us/pl/114/113/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs704
+[/us/pl/114/113/dO/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdO%2FtVII
 [/us/stat/129/3025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3025
 [/us/usc/t5/s2302/b/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2302%2Fb%2F11
 [/us/pl/90/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321
-[/us/pl/93/495/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2Fs503
+[/us/pl/93/495/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2FtV
 [/us/stat/88/1521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1521
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601
 [/us/pl/94/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F200

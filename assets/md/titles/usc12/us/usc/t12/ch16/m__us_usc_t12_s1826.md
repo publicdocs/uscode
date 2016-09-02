@@ -17,7 +17,7 @@
 
     In order that the Corporation may be supplied with such forms of notes, debentures, bonds, or other such obligations as it may need for issuance under this chapter, the Secretary of the Treasury is authorized to prepare such forms as shall be suitable and approved by the Corporation, to be held in the Treasury subject to delivery, upon order of the Corporation. The engraved plates, dies, bed pieces, and other material executed in connection therewith shall remain in the custody of the Secretary of the Treasury. The Corporation shall reimburse the Secretary of the Treasury for any expenses incurred in the preparation, custody, and delivery of such notes, debentures, bonds, or other such obligations.
 
-([Sept. 21, 1950, ch. 967, § 2][/us/act/1950-09-21/ch967/s2]\[16\], [64 Stat. 890][/us/stat/64/890].)
+([Sept. 21, 1950, ch. 967][/us/act/1950-09-21/ch967], § 2\[16\], [64 Stat. 890][/us/stat/64/890].)
 
  __Prior Provisions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1950-09-21/ch967/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967%2Fs2
+[/us/act/1950-09-21/ch967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967
 [/us/stat/64/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F890
 [/us/usc/t12/s264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs264
 [/us/usc/t12/s1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1811

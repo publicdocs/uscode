@@ -193,7 +193,7 @@
 
             For purposes of this subsection, the term “transition period” means the period beginning on September 23, 1994, and ending on the date on which the Administrator is appointed.
 
-([Pub. L. 103–325, title I, § 104][/us/pl/103/325/s104], Sept. 23, 1994, [108 Stat. 2166][/us/stat/108/2166]; [Pub. L. 112–166, § 2(w)][/us/pl/112/166/s2/w], Aug. 10, 2012, [126 Stat. 1289][/us/stat/126/1289].)
+([Pub. L. 103–325, title I][/us/pl/103/325/tI], § 104, Sept. 23, 1994, [108 Stat. 2166][/us/stat/108/2166]; [Pub. L. 112–166][/us/pl/112/166], § 2(w), Aug. 10, 2012, [126 Stat. 1289][/us/stat/126/1289].)
 
  __References in Text__ 
 
@@ -213,13 +213,13 @@
 
  __Administration of Fund by Secretary of the Treasury__ 
 
-[Pub. L. 104–134, title I, § 101(e)][/us/pl/104/134/s101/e] \[title III\], Apr. 26, 1996, [110 Stat. 1321–257][/us/stat/110/1321-257], 1321–294; renumbered title I, [Pub. L. 104–140, § 1(a)][/us/pl/104/140/s1/a], May 2, 1996, [110 Stat. 1327][/us/stat/110/1327], provided in part: 
+[Pub. L. 104–134, title I][/us/pl/104/134/tI], § 101(e) \[title III\], Apr. 26, 1996, [110 Stat. 1321–257][/us/stat/110/1321-257], 1321–294; renumbered title I, [Pub. L. 104–140][/us/pl/104/140], § 1(a), May 2, 1996, [110 Stat. 1327][/us/stat/110/1327], provided in part: 
 
 > “That notwithstanding any other provision of law, for purposes of administering the Community Development Financial Institutions Fund, the Secretary of the Treasury shall have all powers and rights of the Administrator of the CDBFI Act \[[12 U.S.C. 4701][/us/usc/t12/s4701] et seq.\] and the Fund shall be within the Department of the Treasury.”
 
     Similar provisions were contained in the following prior appropriations act:
 
-    [Pub. L. 104–19, title I][/us/pl/104/19], July 27, 1995, [109 Stat. 237][/us/stat/109/237].
+    [Pub. L. 104–19, title I][/us/pl/104/19/tI], July 27, 1995, [109 Stat. 237][/us/stat/109/237].
 
 ----------
 
@@ -231,9 +231,9 @@
 [/us/usc/t31/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs902
 [/us/usc/t31/s9107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9107%2Fb
 [/us/usc/t12/s4707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4707
-[/us/pl/103/325/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs104
+[/us/pl/103/325/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtI
 [/us/stat/108/2166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2166
-[/us/pl/112/166/s2/w]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166%2Fs2%2Fw
+[/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
 [/us/stat/126/1289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1289
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
@@ -245,12 +245,12 @@
 [/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
 [/us/pl/112/166/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166%2Fs6%2Fa
 [/us/usc/t6/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs113
-[/us/pl/104/134/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101%2Fe
+[/us/pl/104/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtI
 [/us/stat/110/1321-257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-257
-[/us/pl/104/140/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140%2Fs1%2Fa
+[/us/pl/104/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140
 [/us/stat/110/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1327
 [/us/usc/t12/s4701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4701
-[/us/pl/104/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F19
+[/us/pl/104/19/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F19%2FtI
 [/us/stat/109/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F237
 
 

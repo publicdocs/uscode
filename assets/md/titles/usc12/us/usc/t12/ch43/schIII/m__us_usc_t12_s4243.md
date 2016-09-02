@@ -17,7 +17,7 @@
 
     Notwithstanding sections 516, 518(b), 519, and 547(2) of title 28, private counsel retained under [section 4241 of this title][/us/usc/t12/s4241] may represent the United States in litigation in connection with legal services furnished pursuant to the contract entered into with that counsel, subject to the requirements specified in [section 4244 of this title][/us/usc/t12/s4244].
 
-([Pub. L. 101–647, title XXV, § 2590][/us/pl/101/647/s2590], Nov. 29, 1990, [104 Stat. 4906][/us/stat/104/4906].)
+([Pub. L. 101–647, title XXV][/us/pl/101/647/tXXV], § 2590, Nov. 29, 1990, [104 Stat. 4906][/us/stat/104/4906].)
 
 ----------
 
@@ -28,7 +28,7 @@
 
 [/us/usc/t12/s4241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4241
 [/us/usc/t12/s4244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4244
-[/us/pl/101/647/s2590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2590
+[/us/pl/101/647/tXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXV
 [/us/stat/104/4906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4906
 
 

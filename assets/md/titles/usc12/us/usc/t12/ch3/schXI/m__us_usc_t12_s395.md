@@ -17,7 +17,7 @@
 
     The Federal Reserve banks are authorized to act as depositaries, custodians, and fiscal agents for the Commodity Credit Corporation.
 
-([July 16, 1943, ch. 241, § 3][/us/act/1943-07-16/ch241/s3], [57 Stat. 566][/us/stat/57/566].)
+([July 16, 1943, ch. 241][/us/act/1943-07-16/ch241], § 3, [57 Stat. 566][/us/stat/57/566].)
 
  __Transfer of Functions__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1943-07-16/ch241/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-07-16%2Fch241%2Fs3
+[/us/act/1943-07-16/ch241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-07-16%2Fch241
 [/us/stat/57/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F57%2F566
 [/us/stat/60/1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1100
 [/us/stat/67/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F633

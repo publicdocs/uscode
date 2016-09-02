@@ -59,7 +59,7 @@
 
         (2) The Board shall disapprove the application of any credit union for insurance of its member accounts if it finds that its reserves are inadequate, that its financial condition and policies are unsafe or unsound, that its management is unfit, that insurance of its member accounts would otherwise involve undue risk to the fund, or that its powers and purposes are inconsistent with the promotion of thrift among its members and the creation of a source of credit for provident or productive purposes.
 
-        (3) Repealed. [Pub. L. 95–22, title III, § 301][/us/pl/95/22/s301], Apr. 19, 1977, [91 Stat. 49][/us/stat/91/49].
+        (3) Repealed. [Pub. L. 95–22, title III][/us/pl/95/22/tIII], § 301, Apr. 19, 1977, [91 Stat. 49][/us/stat/91/49].
 
     (d) __Certificate of insurance__ 
 
@@ -83,7 +83,7 @@
 
             No provision of this subsection shall be construed as prohibiting any employee of a Government-sponsored enterprise from becoming a member of a credit union whose field of membership is the employees of such enterprise.
 
-([June 26, 1934, ch. 750][/us/act/1934-06-26/ch750], title II, § 201, as added [Pub. L. 91–468, § 1(3)][/us/pl/91/468/s1/3], Oct. 19, 1970, [84 Stat. 994][/us/stat/84/994]; amended [Pub. L. 92–221][/us/pl/92/221], §§ 1, 2, Dec. 23, 1971, [85 Stat. 796][/us/stat/85/796], 797; [Pub. L. 95–22, title III, § 301][/us/pl/95/22/s301], Apr. 19, 1977, [91 Stat. 49][/us/stat/91/49]; [Pub. L. 95–630, title V][/us/pl/95/630], §§ 502(b), 504, Nov. 10, 1978, [92 Stat. 3681][/us/stat/92/3681], 3682; [Pub. L. 98–369, div. B, title VIII, § 2801][/us/pl/98/369/s2801], July 18, 1984, [98 Stat. 1203][/us/stat/98/1203]; [Pub. L. 104–208, div. A, title II, § 2615(a)][/us/pl/104/208/s2615/a], Sept. 30, 1996, [110 Stat. 3009–478][/us/stat/110/3009-478]; [Pub. L. 109–351, title VII, § 726(11)][/us/pl/109/351/s726/11], Oct. 13, 2006, [120 Stat. 2002][/us/stat/120/2002].)
+([June 26, 1934, ch. 750][/us/act/1934-06-26/ch750], title II, § 201, as added [Pub. L. 91–468][/us/pl/91/468], § 1(3), Oct. 19, 1970, [84 Stat. 994][/us/stat/84/994]; amended [Pub. L. 92–221][/us/pl/92/221], §§ 1, 2, Dec. 23, 1971, [85 Stat. 796][/us/stat/85/796], 797; [Pub. L. 95–22, title III][/us/pl/95/22/tIII], § 301, Apr. 19, 1977, [91 Stat. 49][/us/stat/91/49]; [Pub. L. 95–630, title V][/us/pl/95/630/tV], §§ 502(b), 504, Nov. 10, 1978, [92 Stat. 3681][/us/stat/92/3681], 3682; [Pub. L. 98–369, div. B, title VIII][/us/pl/98/369/dB/tVIII], § 2801, July 18, 1984, [98 Stat. 1203][/us/stat/98/1203]; [Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], § 2615(a), Sept. 30, 1996, [110 Stat. 3009–478][/us/stat/110/3009-478]; [Pub. L. 109–351, title VII][/us/pl/109/351/tVII], § 726(11), Oct. 13, 2006, [120 Stat. 2002][/us/stat/120/2002].)
 
  __References in Text__ 
 
@@ -103,21 +103,21 @@
 
     Subsec. (b). [Pub. L. 95–630][/us/pl/95/630], §§ 502(b), 504(b), substituted “Board” for “Administrator” wherever appearing and inserted in par. (7) “except for accounts authorized by State law for State credit unions” after “by the Board”.
 
-    Subsec. (c). [Pub. L. 95–630, § 502(b)][/us/pl/95/630/s502/b], substituted “Board” for “Administrator” wherever appearing, and in par. (2) substituted “it” for “he” before “finds”.
+    Subsec. (c). [Pub. L. 95–630][/us/pl/95/630], § 502(b), substituted “Board” for “Administrator” wherever appearing, and in par. (2) substituted “it” for “he” before “finds”.
 
     Subsecs. (d), (e). [Pub. L. 95–630][/us/pl/95/630], §§ 502(b), 504(c), struck out subsec. (d), redesignated subsec. (e) as (d) and substituted “Board” for “Administrator”.
 
     1977—Subsec. (c)(3) [Pub. L. 95–22][/us/pl/95/22] struck out par. (3) which provided for approval by Administrator of applications of State credit unions for insurance of its member accounts where credit union meets requirements of this chapter and where in the event of liquidation of the credit union, the claims with respect to demand deposit accounts shall be subordinate to the claims with respect to member accounts.
 
-    1971—Subsec. (c)(2). [Pub. L. 92–221, § 1(a)][/us/pl/92/221/s1/a], substituted “disapproved” for “reject”.
+    1971—Subsec. (c)(2). [Pub. L. 92–221][/us/pl/92/221], § 1(a), substituted “disapproved” for “reject”.
 
-    Subsec. (c)(3). [Pub. L. 92–221, § 2][/us/pl/92/221/s2], added par. (3).
+    Subsec. (c)(3). [Pub. L. 92–221][/us/pl/92/221], § 2, added par. (3).
 
-    Subsec. (d). [Pub. L. 92–221, § 1(b)][/us/pl/92/221/s1/b], substituted provisions allowing, in certain cases, a two–year period to meet the requirements for insurance following the disapproval of an application for insurance by a Federal credit union, for provisions mandating the suspension or revocation of the charter of a Federal credit union unless the credit union met the requirements for insurance and became an insured credit union within one year of the rejection of its application for insurance.
+    Subsec. (d). [Pub. L. 92–221][/us/pl/92/221], § 1(b), substituted provisions allowing, in certain cases, a two–year period to meet the requirements for insurance following the disapproval of an application for insurance by a Federal credit union, for provisions mandating the suspension or revocation of the charter of a Federal credit union unless the credit union met the requirements for insurance and became an insured credit union within one year of the rejection of its application for insurance.
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–208, div. A, title II, § 2615(c)][/us/pl/104/208/s2615/c], Sept. 30, 1996, [110 Stat. 3009–479][/us/stat/110/3009-479], provided that: 
+[Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], § 2615(c), Sept. 30, 1996, [110 Stat. 3009–479][/us/stat/110/3009-479], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 1828 of this title][/us/usc/t12/s1828]\] shall apply on and after January 1, 1996.”
 
@@ -132,22 +132,22 @@
 ----------
 ----------
 
-[/us/pl/95/22/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F22%2Fs301
+[/us/pl/95/22/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F22%2FtIII
 [/us/stat/91/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F49
 [/us/act/1934-06-26/ch750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-26%2Fch750
-[/us/pl/91/468/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F468%2Fs1%2F3
+[/us/pl/91/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F468
 [/us/stat/84/994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F994
 [/us/pl/92/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F221
 [/us/stat/85/796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F796
-[/us/pl/95/22/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F22%2Fs301
+[/us/pl/95/22/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F22%2FtIII
 [/us/stat/91/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F49
-[/us/pl/95/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630
+[/us/pl/95/630/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtV
 [/us/stat/92/3681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3681
-[/us/pl/98/369/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2801
+[/us/pl/98/369/dB/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdB%2FtVIII
 [/us/stat/98/1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1203
-[/us/pl/104/208/s2615/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2615%2Fa
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-478
-[/us/pl/109/351/s726/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs726%2F11
+[/us/pl/109/351/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2FtVII
 [/us/stat/120/2002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2002
 [/us/usc/t22/s3602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3602%2Fb
 [/us/pl/101/73/s1404/e/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs1404%2Fe%2F1%2FA
@@ -158,13 +158,13 @@
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/95/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630
 [/us/pl/95/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630
-[/us/pl/95/630/s502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs502%2Fb
+[/us/pl/95/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630
 [/us/pl/95/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630
 [/us/pl/95/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F22
-[/us/pl/92/221/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F221%2Fs1%2Fa
-[/us/pl/92/221/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F221%2Fs2
-[/us/pl/92/221/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F221%2Fs1%2Fb
-[/us/pl/104/208/s2615/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2615%2Fc
+[/us/pl/92/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F221
+[/us/pl/92/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F221
+[/us/pl/92/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F221
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-479
 [/us/usc/t12/s1828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1828
 [/us/pl/95/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630

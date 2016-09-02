@@ -55,11 +55,11 @@
 
                 The Bank shall continue to make remaining amounts of its authority available for the fiscal year involved, in accordance with its practices and the requirements of this subchapter, unless otherwise directed pursuant to law.
 
-([July 31, 1945, ch. 341, § 6][/us/act/1945-07-31/ch341/s6], formerly § 7, [59 Stat. 529][/us/stat/59/529]; [Oct. 3, 1951, ch. 445, § 1(b)][/us/act/1951-10-03/ch445/s1/b], [65 Stat. 367][/us/stat/65/367]; [May 21, 1953, ch. 64, § 2][/us/act/1953-05-21/ch64/s2], [67 Stat. 28][/us/stat/67/28]; [Aug. 9, 1954, ch. 660, § 3(b)][/us/act/1954-08-09/ch660/s3/b], [68 Stat. 678][/us/stat/68/678]; [Pub. L. 85–424, § 1(2)][/us/pl/85/424/s1/2], May 22, 1958, [72 Stat. 133][/us/stat/72/133]; [Pub. L. 88–101, § 1(b)][/us/pl/88/101/s1/b], Aug. 20, 1963, [77 Stat. 128][/us/stat/77/128]; [Pub. L. 90–267, § 1(a)][/us/pl/90/267/s1/a], (e), Mar. 13, 1968, [82 Stat. 47][/us/stat/82/47], 49; [Pub. L. 92–126, § 1(b)(3)][/us/pl/92/126/s1/b/3], Aug. 17, 1971, [85 Stat. 345][/us/stat/85/345]; [Pub. L. 93–646, § 8][/us/pl/93/646/s8], Jan. 4, 1975, [88 Stat. 2336][/us/stat/88/2336]; [Pub. L. 95–630, title XIX][/us/pl/95/630], §§ 1905, 1914, Nov. 10, 1978, [92 Stat. 3725][/us/stat/92/3725], 3727; [Pub. L. 97–35, title III, § 381(a)][/us/pl/97/35/s381/a], Aug. 13, 1981, [95 Stat. 431][/us/stat/95/431]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title VI, §§ 615, 620(d)\], Nov. 30, 1983, [97 Stat. 1256][/us/stat/97/1256], 1261; [Pub. L. 99–472][/us/pl/99/472], §§ 13, 17, Oct. 15, 1986, [100 Stat. 1204][/us/stat/100/1204], 1205; [Pub. L. 102–145, § 121(1)][/us/pl/102/145/s121/1], Oct. 28, 1991, as added [Pub. L. 102–266, § 102][/us/pl/102/266/s102], Apr. 1, 1992, [106 Stat. 95][/us/stat/106/95]; renumbered § 6 and amended [Pub. L. 102–429, title I][/us/pl/102/429], §§ 109(b), 121(c)(2), Oct. 21, 1992, [106 Stat. 2193][/us/stat/106/2193], 2199; [Pub. L. 106–569, title XI, § 1104(a)(3)][/us/pl/106/569/s1104/a/3], Dec. 27, 2000, [114 Stat. 3031][/us/stat/114/3031]; [Pub. L. 107–189, § 5][/us/pl/107/189/s5], June 14, 2002, [116 Stat. 699][/us/stat/116/699]; [Pub. L. 109–438, § 9][/us/pl/109/438/s9], Dec. 20, 2006, [120 Stat. 3275][/us/stat/120/3275]; [Pub. L. 112–122, § 3][/us/pl/112/122/s3], May 30, 2012, [126 Stat. 350][/us/stat/126/350]; [Pub. L. 114–94, div. E, title LI][/us/pl/114/94], §§ 51001, 51002(a), Dec. 4, 2015, [129 Stat. 1763][/us/stat/129/1763].)
+([July 31, 1945, ch. 341][/us/act/1945-07-31/ch341], § 6, formerly § 7, [59 Stat. 529][/us/stat/59/529]; [Oct. 3, 1951, ch. 445][/us/act/1951-10-03/ch445], § 1(b), [65 Stat. 367][/us/stat/65/367]; [May 21, 1953, ch. 64][/us/act/1953-05-21/ch64], § 2, [67 Stat. 28][/us/stat/67/28]; [Aug. 9, 1954, ch. 660][/us/act/1954-08-09/ch660], § 3(b), [68 Stat. 678][/us/stat/68/678]; [Pub. L. 85–424][/us/pl/85/424], § 1(2), May 22, 1958, [72 Stat. 133][/us/stat/72/133]; [Pub. L. 88–101][/us/pl/88/101], § 1(b), Aug. 20, 1963, [77 Stat. 128][/us/stat/77/128]; [Pub. L. 90–267][/us/pl/90/267], § 1(a), (e), Mar. 13, 1968, [82 Stat. 47][/us/stat/82/47], 49; [Pub. L. 92–126][/us/pl/92/126], § 1(b)(3), Aug. 17, 1971, [85 Stat. 345][/us/stat/85/345]; [Pub. L. 93–646][/us/pl/93/646], § 8, Jan. 4, 1975, [88 Stat. 2336][/us/stat/88/2336]; [Pub. L. 95–630, title XIX][/us/pl/95/630/tXIX], §§ 1905, 1914, Nov. 10, 1978, [92 Stat. 3725][/us/stat/92/3725], 3727; [Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 381(a), Aug. 13, 1981, [95 Stat. 431][/us/stat/95/431]; [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title VI, §§ 615, 620(d)\], Nov. 30, 1983, [97 Stat. 1256][/us/stat/97/1256], 1261; [Pub. L. 99–472][/us/pl/99/472], §§ 13, 17, Oct. 15, 1986, [100 Stat. 1204][/us/stat/100/1204], 1205; [Pub. L. 102–145][/us/pl/102/145], § 121(1), Oct. 28, 1991, as added [Pub. L. 102–266][/us/pl/102/266], § 102, Apr. 1, 1992, [106 Stat. 95][/us/stat/106/95]; renumbered § 6 and amended [Pub. L. 102–429, title I][/us/pl/102/429/tI], §§ 109(b), 121(c)(2), Oct. 21, 1992, [106 Stat. 2193][/us/stat/106/2193], 2199; [Pub. L. 106–569, title XI][/us/pl/106/569/tXI], § 1104(a)(3), Dec. 27, 2000, [114 Stat. 3031][/us/stat/114/3031]; [Pub. L. 107–189][/us/pl/107/189], § 5, June 14, 2002, [116 Stat. 699][/us/stat/116/699]; [Pub. L. 109–438][/us/pl/109/438], § 9, Dec. 20, 2006, [120 Stat. 3275][/us/stat/120/3275]; [Pub. L. 112–122][/us/pl/112/122], § 3, May 30, 2012, [126 Stat. 350][/us/stat/126/350]; [Pub. L. 114–94, div. E, title LI][/us/pl/114/94/dE/tLI], §§ 51001, 51002(a), Dec. 4, 2015, [129 Stat. 1763][/us/stat/129/1763].)
 
  __Amendment of Section__ 
 
-    [Pub. L. 114–94, div. E, title LI, § 51002][/us/pl/114/94/s51002], Dec. 4, 2015, [129 Stat. 1763][/us/stat/129/1763], provided that, effective on the date that is one year after Dec. 4, 2015, this section is amended:
+    [Pub. L. 114–94, div. E, title LI][/us/pl/114/94/dE/tLI], § 51002, Dec. 4, 2015, [129 Stat. 1763][/us/stat/129/1763], provided that, effective on the date that is one year after Dec. 4, 2015, this section is amended:
 
     (1) by redesignating subsection (b) as subsection (c); and
 
@@ -77,9 +77,9 @@
 
  __Amendments__ 
 
-    2015—Subsec. (a)(2) to (4). [Pub. L. 114–94, § 51001][/us/pl/114/94/s51001], added pars. (2) and (3), redesignated former par. (3) as (4), and struck out former par. (2) which defined the term “applicable amount”.
+    2015—Subsec. (a)(2) to (4). [Pub. L. 114–94][/us/pl/114/94], § 51001, added pars. (2) and (3), redesignated former par. (3) as (4), and struck out former par. (2) which defined the term “applicable amount”.
 
-    Subsecs. (b), (c). [Pub. L. 114–94, § 51002(a)][/us/pl/114/94/s51002/a], added subsec. (b) and redesignated former subsec. (b) as (c).
+    Subsecs. (b), (c). [Pub. L. 114–94][/us/pl/114/94], § 51002(a), added subsec. (b) and redesignated former subsec. (b) as (c).
 
     2012—Subsec. (a)(2)(F). [Pub. L. 112–122][/us/pl/112/122] added subpar. (F).
 
@@ -89,25 +89,25 @@
 
     2000—Subsec. (b)(2), (3). [Pub. L. 106–569][/us/pl/106/569] redesignated par. (3) as (2) and struck out heading and text of former par. (2). Text read as follows: “Not later than April 15 of each year, the President of the United States shall transmit to the Congress a report on such determination.”
 
-    1992—[Pub. L. 102–429, § 109(b)][/us/pl/102/429/s109/b], inserted section catchline, redesignated former subsec. (a)(1) as subsec. (a), inserted subsec. heading, substituted “$75,000,000,000” for “$40,000,000,000”, redesignated former subsec. (a)(2) as subsec. (b), redesignated former subpar. (A)(i) as par. (1), former subcls. (I) to (III) as subpars. (A) to (C), respectively, former subpar. (A)(ii) as par. (2), former subpar. (B) as par. (3), and former cls. (i) and (ii) as subpars. (A) and (B), respectively, inserted headings for subsec. (b), pars. (1) to (3), and subpars. (A) and (B) of par. (3), and struck out former subsec. (a)(3) which read as follows: “Authorization of Appropriation.—There are authorized to be appropriated $145,259,000 for fiscal year 1987 to cover the subsidy cost of new direct loans obligated by the Bank in that fiscal year. Any amounts appropriated under this paragraph shall be permanent additions to the capital and reserves of the Bank.”
+    1992—[Pub. L. 102–429][/us/pl/102/429], § 109(b), inserted section catchline, redesignated former subsec. (a)(1) as subsec. (a), inserted subsec. heading, substituted “$75,000,000,000” for “$40,000,000,000”, redesignated former subsec. (a)(2) as subsec. (b), redesignated former subpar. (A)(i) as par. (1), former subcls. (I) to (III) as subpars. (A) to (C), respectively, former subpar. (A)(ii) as par. (2), former subpar. (B) as par. (3), and former cls. (i) and (ii) as subpars. (A) and (B), respectively, inserted headings for subsec. (b), pars. (1) to (3), and subpars. (A) and (B) of par. (3), and struck out former subsec. (a)(3) which read as follows: “Authorization of Appropriation.—There are authorized to be appropriated $145,259,000 for fiscal year 1987 to cover the subsidy cost of new direct loans obligated by the Bank in that fiscal year. Any amounts appropriated under this paragraph shall be permanent additions to the capital and reserves of the Bank.”
 
-    1991—Subsec. (b). [Pub. L. 102–145, § 121(1)][/us/pl/102/145/s121/1], as added by [Pub. L. 102–266][/us/pl/102/266], struck out subsec. (b) which read as follows: “After January 4, 1975, the Bank shall not approve any loans or financial guarantees, or combination thereof, in connection with exports to the Union of Soviet Socialist Republics in an aggregate amount in excess of $300,000,000. No such loan or financial guarantee, or combination thereof, shall be for the purchase, lease, or procurement of any product or service for production (including processing and distribution) of fossil fuel energy resources. Not more than $40,000,000 of such aggregate amount shall be for the purchase, lease, or procurement of any product or service which involves research or exploration of fossil fuel energy resources. The President may establish a limitation in excess of $300,000,000 if the President determines that such higher limitation is in the national interest and if the President reports such determination to the Congress together with the reasons therefor, including the amount of such proposed increase which would be available for the export of products and services for research, exploration, and production (including processing and distribution) of fossil fuel energy resources in the Union of Soviet Socialist Republics, and if, after the receipt of such report together with the reasons, the Congress adopts a concurrent resolution approving such determination.”
+    1991—Subsec. (b). [Pub. L. 102–145][/us/pl/102/145], § 121(1), as added by [Pub. L. 102–266][/us/pl/102/266], struck out subsec. (b) which read as follows: “After January 4, 1975, the Bank shall not approve any loans or financial guarantees, or combination thereof, in connection with exports to the Union of Soviet Socialist Republics in an aggregate amount in excess of $300,000,000. No such loan or financial guarantee, or combination thereof, shall be for the purchase, lease, or procurement of any product or service for production (including processing and distribution) of fossil fuel energy resources. Not more than $40,000,000 of such aggregate amount shall be for the purchase, lease, or procurement of any product or service which involves research or exploration of fossil fuel energy resources. The President may establish a limitation in excess of $300,000,000 if the President determines that such higher limitation is in the national interest and if the President reports such determination to the Congress together with the reasons therefor, including the amount of such proposed increase which would be available for the export of products and services for research, exploration, and production (including processing and distribution) of fossil fuel energy resources in the Union of Soviet Socialist Republics, and if, after the receipt of such report together with the reasons, the Congress adopts a concurrent resolution approving such determination.”
 
-    1986—Subsec. (a)(1). [Pub. L. 99–472, § 17][/us/pl/99/472/s17], substituted “All spending and credit authority” for “All spending authority”.
+    1986—Subsec. (a)(1). [Pub. L. 99–472][/us/pl/99/472], § 17, substituted “All spending and credit authority” for “All spending authority”.
 
-    Subsec. (a)(3). [Pub. L. 99–472, § 13][/us/pl/99/472/s13], added par. (3).
+    Subsec. (a)(3). [Pub. L. 99–472][/us/pl/99/472], § 13, added par. (3).
 
-    1983—Subsec. (a)(2). [Pub. L. 98–181, § 615][/us/pl/98/181/s615], amended par. (2) generally, substituting provisions requiring a Presidential determination, not later than March 31 of each fiscal year, as to whether the authority available to the Bank for such fiscal year will be sufficient to meet the Bank’s needs, requiring the President to transmit to Congress a report on such determination no later than April 15 of each year, and establishing procedures if the direct loan or guarantee authority available exceeds the amount necessary, for provision limiting gross obligations for the principal amount of direct loans authorized by the Bank during fiscal years 1982 and 1983 to $10,478,000,000, and designating specified amounts thereof for each fiscal year.
+    1983—Subsec. (a)(2). [Pub. L. 98–181][/us/pl/98/181], § 615, amended par. (2) generally, substituting provisions requiring a Presidential determination, not later than March 31 of each fiscal year, as to whether the authority available to the Bank for such fiscal year will be sufficient to meet the Bank’s needs, requiring the President to transmit to Congress a report on such determination no later than April 15 of each year, and establishing procedures if the direct loan or guarantee authority available exceeds the amount necessary, for provision limiting gross obligations for the principal amount of direct loans authorized by the Bank during fiscal years 1982 and 1983 to $10,478,000,000, and designating specified amounts thereof for each fiscal year.
 
-    Subsec. (b). [Pub. L. 98–181, § 620(d)][/us/pl/98/181/s620/d], substituted “the President” for “he” before “determines that such higher limitation” and “reports such determination”.
+    Subsec. (b). [Pub. L. 98–181][/us/pl/98/181], § 620(d), substituted “the President” for “he” before “determines that such higher limitation” and “reports such determination”.
 
     1981—Subsec. (a). [Pub. L. 97–35][/us/pl/97/35] designated existing provisions as par. (1) and added par. (2).
 
     1978—Subsec. (a). [Pub. L. 95–630][/us/pl/95/630] substituted “$40,000,000,000” for “$25,000,000,000” and inserted provision that all spending authority provided under this chapter be effective for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts.
 
-    1975—Subsec. (a). [Pub. L. 93–646, § 8(1)][/us/pl/93/646/s8/1], (2), designated existing provisions as subsec. (a) and substituted “$25,000,000,000” for “$20,000,000,000”.
+    1975—Subsec. (a). [Pub. L. 93–646][/us/pl/93/646], § 8(1), (2), designated existing provisions as subsec. (a) and substituted “$25,000,000,000” for “$20,000,000,000”.
 
-    Subsec. (b). [Pub. L. 93–646, § 8(3)][/us/pl/93/646/s8/3], added subsec. (b).
+    Subsec. (b). [Pub. L. 93–646][/us/pl/93/646], § 8(3), added subsec. (b).
 
     1971—[Pub. L. 92–126][/us/pl/92/126] substituted “$20,000,000,000” for “$13,500,000,000”.
 
@@ -125,7 +125,7 @@
 
  __Effective Date of 2015 Amendment__ 
 
-[Pub. L. 114–94, div. E, title LI, § 51002(b)][/us/pl/114/94/s51002/b], Dec. 4, 2015, [129 Stat. 1763][/us/stat/129/1763], provided that: 
+[Pub. L. 114–94, div. E, title LI][/us/pl/114/94/dE/tLI], § 51002(b), Dec. 4, 2015, [129 Stat. 1763][/us/stat/129/1763], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect on the date that is one year after the date of the enactment of this Act \[Dec. 4, 2015\].”
 
@@ -146,73 +146,73 @@
 
 [/us/usc/t12/s635g/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635g%2Fg%2F1
 [/us/usc/t12/s635g/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635g%2Fg%2F1
-[/us/act/1945-07-31/ch341/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch341%2Fs6
+[/us/act/1945-07-31/ch341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch341
 [/us/stat/59/529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F529
-[/us/act/1951-10-03/ch445/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-03%2Fch445%2Fs1%2Fb
+[/us/act/1951-10-03/ch445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-03%2Fch445
 [/us/stat/65/367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F367
-[/us/act/1953-05-21/ch64/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-05-21%2Fch64%2Fs2
+[/us/act/1953-05-21/ch64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-05-21%2Fch64
 [/us/stat/67/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F28
-[/us/act/1954-08-09/ch660/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-09%2Fch660%2Fs3%2Fb
+[/us/act/1954-08-09/ch660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-09%2Fch660
 [/us/stat/68/678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F678
-[/us/pl/85/424/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F424%2Fs1%2F2
+[/us/pl/85/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F424
 [/us/stat/72/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F133
-[/us/pl/88/101/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F101%2Fs1%2Fb
+[/us/pl/88/101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F101
 [/us/stat/77/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F128
-[/us/pl/90/267/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F267%2Fs1%2Fa
+[/us/pl/90/267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F267
 [/us/stat/82/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F47
-[/us/pl/92/126/s1/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F126%2Fs1%2Fb%2F3
+[/us/pl/92/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F126
 [/us/stat/85/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F345
-[/us/pl/93/646/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F646%2Fs8
+[/us/pl/93/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F646
 [/us/stat/88/2336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2336
-[/us/pl/95/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630
+[/us/pl/95/630/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtXIX
 [/us/stat/92/3725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3725
-[/us/pl/97/35/s381/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs381%2Fa
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F431
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1256
 [/us/pl/99/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F472
 [/us/stat/100/1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1204
-[/us/pl/102/145/s121/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F145%2Fs121%2F1
-[/us/pl/102/266/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F266%2Fs102
+[/us/pl/102/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F145
+[/us/pl/102/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F266
 [/us/stat/106/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F95
-[/us/pl/102/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429
+[/us/pl/102/429/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429%2FtI
 [/us/stat/106/2193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2193
-[/us/pl/106/569/s1104/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs1104%2Fa%2F3
+[/us/pl/106/569/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2FtXI
 [/us/stat/114/3031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F3031
-[/us/pl/107/189/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F189%2Fs5
+[/us/pl/107/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F189
 [/us/stat/116/699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F699
-[/us/pl/109/438/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F438%2Fs9
+[/us/pl/109/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F438
 [/us/stat/120/3275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3275
-[/us/pl/112/122/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F122%2Fs3
+[/us/pl/112/122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F122
 [/us/stat/126/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F350
-[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/dE/tLI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdE%2FtLI
 [/us/stat/129/1763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1763
-[/us/pl/114/94/s51002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs51002
+[/us/pl/114/94/dE/tLI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdE%2FtLI
 [/us/stat/129/1763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1763
 [/us/act/1945-07-31/ch341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch341
 [/us/usc/t12/s635d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635d
-[/us/pl/114/94/s51001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs51001
-[/us/pl/114/94/s51002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs51002%2Fa
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/112/122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F122
 [/us/pl/109/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F438
 [/us/pl/107/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F189
 [/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
-[/us/pl/102/429/s109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429%2Fs109%2Fb
-[/us/pl/102/145/s121/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F145%2Fs121%2F1
+[/us/pl/102/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429
+[/us/pl/102/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F145
 [/us/pl/102/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F266
-[/us/pl/99/472/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F472%2Fs17
-[/us/pl/99/472/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F472%2Fs13
-[/us/pl/98/181/s615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs615
-[/us/pl/98/181/s620/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs620%2Fd
+[/us/pl/99/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F472
+[/us/pl/99/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F472
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/95/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630
-[/us/pl/93/646/s8/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F646%2Fs8%2F1
-[/us/pl/93/646/s8/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F646%2Fs8%2F3
+[/us/pl/93/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F646
+[/us/pl/93/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F646
 [/us/pl/92/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F126
 [/us/pl/90/267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F267
 [/us/pl/88/101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F101
 [/us/pl/85/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F424
-[/us/pl/114/94/s51002/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs51002%2Fb
+[/us/pl/114/94/dE/tLI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdE%2FtLI
 [/us/stat/129/1763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1763
 [/us/pl/95/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630
 [/us/pl/95/630/s1917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs1917

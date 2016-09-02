@@ -29,7 +29,7 @@
 
         The Financial Assistance Corporation shall establish an account called the Financial Assistance Corporation Trust Fund (hereinafter referred to in this chapter as the “Trust Fund”) that shall consist of securities of the United States Treasury purchased by the Financial Assistance Corporation with the funds received from the purchase of stock by System institutions from the Financial Assistance Corporation under [section 2278b–9 of this title][/us/usc/t12/s2278b–9].
 
-([Pub. L. 92–181, title VI, § 6][/us/pl/92/181/s6].25, as added [Pub. L. 100–233, title II, § 201][/us/pl/100/233/s201], Jan. 6, 1988, [101 Stat. 1597][/us/stat/101/1597].)
+([Pub. L. 92–181, title VI][/us/pl/92/181/tVI], § 6.25, as added [Pub. L. 100–233, title II][/us/pl/100/233/tII], § 201, Jan. 6, 1988, [101 Stat. 1597][/us/stat/101/1597].)
 
 ----------
 
@@ -41,8 +41,8 @@
 [/us/usc/t12/s2278b–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2278b%E2%80%936
 [/us/usc/t12/s2278b–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2278b%E2%80%938
 [/us/usc/t12/s2278b–9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2278b%E2%80%939
-[/us/pl/92/181/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs6
-[/us/pl/100/233/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs201
+[/us/pl/92/181/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtVI
+[/us/pl/100/233/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtII
 [/us/stat/101/1597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1597
 
 

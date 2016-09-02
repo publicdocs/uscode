@@ -17,7 +17,7 @@
 
     The persons described in [section 611 of this title][/us/usc/t12/s611] shall enter into articles of association which shall specify in general terms the objects for which the association is formed and may contain any other provisions not inconsistent with law which the association may see fit to adopt for the regulation of its business and the conduct of its affairs.
 
-([Dec. 23, 1913, ch. 6, § 25A][/us/act/1913-12-23/ch6/s25A] (par.), formerly § 25(a), as added [Dec. 24, 1919, ch. 18][/us/act/1919-12-24/ch18], [41 Stat. 378][/us/stat/41/378]; renumbered § 25A, [Pub. L. 102–242, title I, § 142(e)(2)][/us/pl/102/242/s142/e/2], Dec. 19, 1991, [105 Stat. 2281][/us/stat/105/2281].)
+([Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 25A (par.), formerly § 25(a), as added [Dec. 24, 1919, ch. 18][/us/act/1919-12-24/ch18], [41 Stat. 378][/us/stat/41/378]; renumbered § 25A, [Pub. L. 102–242, title I][/us/pl/102/242/tI], § 142(e)(2), Dec. 19, 1991, [105 Stat. 2281][/us/stat/105/2281].)
 
  __References in Text__ 
 
@@ -35,10 +35,10 @@
 ----------
 
 [/us/usc/t12/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs611
-[/us/act/1913-12-23/ch6/s25A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs25A
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
 [/us/act/1919-12-24/ch18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-12-24%2Fch18
 [/us/stat/41/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F378
-[/us/pl/102/242/s142/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs142%2Fe%2F2
+[/us/pl/102/242/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtI
 [/us/stat/105/2281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2281
 [/us/usc/t12/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs611
 [/us/usc/t12/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs611

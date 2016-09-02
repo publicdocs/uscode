@@ -37,7 +37,7 @@
 
         The Director shall not be deemed to have waived any privilege applicable to any information concerning a Federal Home Loan Bank by transferring, or permitting the transfer of, that information to any other Federal Home Loan Bank for the purposes set out in subsection (a).
 
-([July 22, 1932, ch. 522, § 20A][/us/act/1932-07-22/ch522/s20A], as added [Pub. L. 110–289, div. A, title II, § 1207][/us/pl/110/289/s1207], July 30, 2008, [122 Stat. 2787][/us/stat/122/2787].)
+([July 22, 1932, ch. 522][/us/act/1932-07-22/ch522], § 20A, as added [Pub. L. 110–289, div. A, title II][/us/pl/110/289/dA/tII], § 1207, July 30, 2008, [122 Stat. 2787][/us/stat/122/2787].)
 
  __References in Text__ 
 
@@ -52,8 +52,8 @@
 
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
-[/us/act/1932-07-22/ch522/s20A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-07-22%2Fch522%2Fs20A
-[/us/pl/110/289/s1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1207
+[/us/act/1932-07-22/ch522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-07-22%2Fch522
+[/us/pl/110/289/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtII
 [/us/stat/122/2787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2787
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
 [/us/stat/48/881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F881

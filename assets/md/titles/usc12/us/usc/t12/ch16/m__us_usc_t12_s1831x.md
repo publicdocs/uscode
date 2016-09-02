@@ -201,7 +201,7 @@
 
         The Federal banking agencies shall ensure that the regulations prescribed pursuant to subsection (a) shall not have the effect of discriminating, either intentionally or unintentionally, against any person engaged in insurance sales or solicitations that is not affiliated with a depository institution.
 
-([Sept. 21, 1950, ch. 967, § 2][/us/act/1950-09-21/ch967/s2]\[47\], as added [Pub. L. 106–102, title III, § 305][/us/pl/106/102/s305], Nov. 12, 1999, [113 Stat. 1410][/us/stat/113/1410].)
+([Sept. 21, 1950, ch. 967][/us/act/1950-09-21/ch967], § 2\[47\], as added [Pub. L. 106–102, title III][/us/pl/106/102/tIII], § 305, Nov. 12, 1999, [113 Stat. 1410][/us/stat/113/1410].)
 
 ----------
 
@@ -211,8 +211,8 @@
 ----------
 
 [/us/usc/t12/s1972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1972
-[/us/act/1950-09-21/ch967/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967%2Fs2
-[/us/pl/106/102/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs305
+[/us/act/1950-09-21/ch967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967
+[/us/pl/106/102/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtIII
 [/us/stat/113/1410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1410
 
 

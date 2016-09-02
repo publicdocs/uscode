@@ -17,7 +17,7 @@
 
     Nothing in any provision of law shall be construed to authorize the Federal Financing Bank to acquire any obligation the payment of interest or principal of which has at any time been guaranteed in whole or in part under title I of the New York City Loan Guarantee Act of 1978.
 
-([Pub. L. 95–339, title II, § 201(b)][/us/pl/95/339/s201/b], Aug. 8, 1978, [92 Stat. 467][/us/stat/92/467].)
+([Pub. L. 95–339, title II][/us/pl/95/339/tII], § 201(b), Aug. 8, 1978, [92 Stat. 467][/us/stat/92/467].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/95/339/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F339%2Fs201%2Fb
+[/us/pl/95/339/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F339%2FtII
 [/us/stat/92/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F467
 [/us/pl/95/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F339
 [/us/stat/92/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F460

@@ -127,7 +127,7 @@
 
         Notwithstanding any other provision of law, all civil money penalties collected under this section shall be deposited in the fund established under [section 1715z–1a(j) of this title][/us/usc/t12/s1715z–1a/j].
 
-([Pub. L. 86–372, title II, § 202a][/us/pl/86/372/s202a], as added [Pub. L. 101–235, title I, § 109(a)][/us/pl/101/235/s109/a], Dec. 15, 1989, [103 Stat. 2007][/us/stat/103/2007].)
+([Pub. L. 86–372, title II][/us/pl/86/372/tII], § 202a, as added [Pub. L. 101–235, title I][/us/pl/101/235/tI], § 109(a), Dec. 15, 1989, [103 Stat. 2007][/us/stat/103/2007].)
 
  __Codification__ 
 
@@ -135,7 +135,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 101–235, title I, § 109(b)][/us/pl/101/235/s109/b], Dec. 15, 1989, [103 Stat. 2011][/us/stat/103/2011], provided that: 
+[Pub. L. 101–235, title I][/us/pl/101/235/tI], § 109(b), Dec. 15, 1989, [103 Stat. 2011][/us/stat/103/2011], provided that: 
 
 > “The amendment made by subsection (a) \[enacting this section\] shall apply only with respect to violations referred to in the amendment that occur on or after the effective date of this section \[Dec. 15, 1989\].”
 
@@ -151,10 +151,10 @@
 [/us/usc/t12/s1701q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701q
 [/us/usc/t5/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs706
 [/us/usc/t12/s1715z–1a/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715z%E2%80%931a%2Fj
-[/us/pl/86/372/s202a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F372%2Fs202a
-[/us/pl/101/235/s109/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235%2Fs109%2Fa
+[/us/pl/86/372/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F372%2FtII
+[/us/pl/101/235/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235%2FtI
 [/us/stat/103/2007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2007
-[/us/pl/101/235/s109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235%2Fs109%2Fb
+[/us/pl/101/235/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235%2FtI
 [/us/stat/103/2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2011
 
 

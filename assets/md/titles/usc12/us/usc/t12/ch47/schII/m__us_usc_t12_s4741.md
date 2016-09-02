@@ -49,17 +49,17 @@
 
         (5) to spur innovation.
 
-([Pub. L. 103–325, title II, § 251][/us/pl/103/325/s251], Sept. 23, 1994, [108 Stat. 2203][/us/stat/108/2203].)
+([Pub. L. 103–325, title II][/us/pl/103/325/tII], § 251, Sept. 23, 1994, [108 Stat. 2203][/us/stat/108/2203].)
 
  __Effective Date__ 
 
-[Pub. L. 103–325, title II, § 261][/us/pl/103/325/s261], Sept. 23, 1994, [108 Stat. 2214][/us/stat/108/2214], provided that: 
+[Pub. L. 103–325, title II][/us/pl/103/325/tII], § 261, Sept. 23, 1994, [108 Stat. 2214][/us/stat/108/2214], provided that: 
 
 > “This subtitle \[subtitle B (§§ 251–261) of title II of [Pub. L. 103–325][/us/pl/103/325], enacting this subchapter\] shall become effective on January 6, 1996.”
 
  __Small Business Lending Fund__ 
 
-[Pub. L. 111–240, title IV][/us/pl/111/240], subtitle A, Sept. 27, 2010, [124 Stat. 2582][/us/stat/124/2582], as amended by [Pub. L. 113–188, title IX, § 901(e)][/us/pl/113/188/s901/e], Nov. 26, 2014, [128 Stat. 2020][/us/stat/128/2020], provided that:
+[Pub. L. 111–240, title IV][/us/pl/111/240/tIV], subtitle A, Sept. 27, 2010, [124 Stat. 2582][/us/stat/124/2582], as amended by [Pub. L. 113–188, title IX][/us/pl/113/188/tIX], § 901(e), Nov. 26, 2014, [128 Stat. 2020][/us/stat/128/2020], provided that:
 
 > “SEC. 4101. __PURPOSE.__ 
 
@@ -628,14 +628,14 @@
 ----------
 ----------
 
-[/us/pl/103/325/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs251
+[/us/pl/103/325/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtII
 [/us/stat/108/2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2203
-[/us/pl/103/325/s261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs261
+[/us/pl/103/325/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtII
 [/us/stat/108/2214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2214
 [/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
-[/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
+[/us/pl/111/240/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2FtIV
 [/us/stat/124/2582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2582
-[/us/pl/113/188/s901/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs901%2Fe
+[/us/pl/113/188/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2FtIX
 [/us/stat/128/2020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2020
 [/us/usc/t12/s1813/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813%2Fq
 [/us/usc/t12/s1841/2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1841%2F2%2Fa%2F1

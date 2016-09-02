@@ -93,7 +93,7 @@
 
         (2) any other differences that the Director considers appropriate.
 
-([Pub. L. 102–550, title XIII, § 1313][/us/pl/102/550/s1313], Oct. 28, 1992, [106 Stat. 3945][/us/stat/106/3945]; [Pub. L. 105–276, title II, § 202(b)][/us/pl/105/276/s202/b], Oct. 21, 1998, [112 Stat. 2483][/us/stat/112/2483]; [Pub. L. 105–277, div. A, § 122][/us/pl/105/277/s122], Oct. 21, 1998, [112 Stat. 2681–546][/us/stat/112/2681-546]; [Pub. L. 110–289, div. A, title I][/us/pl/110/289], §§ 1102(a), 1118, title II, § 1201, July 30, 2008, [122 Stat. 2663][/us/stat/122/2663], 2688, 2782.)
+([Pub. L. 102–550, title XIII][/us/pl/102/550/tXIII], § 1313, Oct. 28, 1992, [106 Stat. 3945][/us/stat/106/3945]; [Pub. L. 105–276, title II][/us/pl/105/276/tII], § 202(b), Oct. 21, 1998, [112 Stat. 2483][/us/stat/112/2483]; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 122, Oct. 21, 1998, [112 Stat. 2681–546][/us/stat/112/2681-546]; [Pub. L. 110–289, div. A, title I][/us/pl/110/289/dA/tI], §§ 1102(a), 1118, title II, § 1201, July 30, 2008, [122 Stat. 2663][/us/stat/122/2663], 2688, 2782.)
 
  __References in Text__ 
 
@@ -105,17 +105,17 @@
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–289, § 1102(a)][/us/pl/110/289/s1102/a], amended section generally. Prior to amendment, section consisted of subsecs. (a) to (e) relating to duty and authority of the Director of Office of Federal Housing Enterprise Oversight.
+    2008—[Pub. L. 110–289][/us/pl/110/289], § 1102(a), amended section generally. Prior to amendment, section consisted of subsecs. (a) to (e) relating to duty and authority of the Director of Office of Federal Housing Enterprise Oversight.
 
-    Subsec. (a)(3). [Pub. L. 110–289, § 1118][/us/pl/110/289/s1118], added par. (3).
+    Subsec. (a)(3). [Pub. L. 110–289][/us/pl/110/289], § 1118, added par. (3).
 
-    Subsec. (f). [Pub. L. 110–289, § 1201][/us/pl/110/289/s1201], added subsec. (f).
+    Subsec. (f). [Pub. L. 110–289][/us/pl/110/289], § 1201, added subsec. (f).
 
     1998—Subsec. (b)(9) to (12). [Pub. L. 105–276][/us/pl/105/276], which directed the amendment of subsec. (b) by redesignating pars. (9) to (11) as (10) to (12), respectively, and adding a new par. (9) which read “default loss protection levels under [section 1454(a)(2)(D) of this title][/us/usc/t12/s1454/a/2/D];” was repealed by [Pub. L. 105–277][/us/pl/105/277], effective upon enactment of [Pub. L. 105–276][/us/pl/105/276].
 
  __Effective Date of 1998 Amendment__ 
 
-    [Pub. L. 105–277, div. A, § 122][/us/pl/105/277/s122], Oct. 21, 1998, [112 Stat. 2681–546][/us/stat/112/2681-546], provided that the amendment made by section 122 is effective upon enactment of [Pub. L. 105–276][/us/pl/105/276] (Oct. 21, 1998).
+    [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 122, Oct. 21, 1998, [112 Stat. 2681–546][/us/stat/112/2681-546], provided that the amendment made by section 122 is effective upon enactment of [Pub. L. 105–276][/us/pl/105/276] (Oct. 21, 1998).
 
 ----------
 
@@ -125,13 +125,13 @@
 ----------
 
 [/us/usc/t12/s4502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4502
-[/us/pl/102/550/s1313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1313
+[/us/pl/102/550/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIII
 [/us/stat/106/3945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3945
-[/us/pl/105/276/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs202%2Fb
+[/us/pl/105/276/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtII
 [/us/stat/112/2483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2483
-[/us/pl/105/277/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs122
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-546
-[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtI
 [/us/stat/122/2663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2663
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/stat/106/3941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3941
@@ -139,14 +139,14 @@
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/stat/106/3672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3672
 [/us/usc/t42/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5301
-[/us/pl/110/289/s1102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1102%2Fa
-[/us/pl/110/289/s1118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1118
-[/us/pl/110/289/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1201
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
 [/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
 [/us/usc/t12/s1454/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1454%2Fa%2F2%2FD
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
-[/us/pl/105/277/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs122
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-546
 [/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
 

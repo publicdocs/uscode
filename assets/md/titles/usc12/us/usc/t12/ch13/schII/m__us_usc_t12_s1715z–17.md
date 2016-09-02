@@ -51,11 +51,11 @@
 
         The aggregate number of mortgages and loans insured under this section and section 1715z–10(c)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title in any fiscal year may not exceed 10 percent of the aggregate number of mortgages and loans insured by the Secretary under this subchapter during the preceding fiscal year.
 
-([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title II, § 252, as added [Pub. L. 98–181, title I][/us/pl/98/181] \[title IV, § 444\], Nov. 30, 1983, [97 Stat. 1225][/us/stat/97/1225]; amended [Pub. L. 100–242, title IV, § 415(b)(2)][/us/pl/100/242/s415/b/2], Feb. 5, 1988, [101 Stat. 1907][/us/stat/101/1907].)
+([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title II, § 252, as added [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title IV, § 444\], Nov. 30, 1983, [97 Stat. 1225][/us/stat/97/1225]; amended [Pub. L. 100–242, title IV][/us/pl/100/242/tIV], § 415(b)(2), Feb. 5, 1988, [101 Stat. 1907][/us/stat/101/1907].)
 
  __References in Text__ 
 
-    [Section 1715z–10(c) of this title][/us/usc/t12/s1715z–10/c], referred to in subsec. (g), was repealed by [Pub. L. 110–289, div. B, title I, § 2120(a)(7)][/us/pl/110/289/s2120/a/7], July 30, 2008, [122 Stat. 2835][/us/stat/122/2835].
+    [Section 1715z–10(c) of this title][/us/usc/t12/s1715z–10/c], referred to in subsec. (g), was repealed by [Pub. L. 110–289, div. B, title I][/us/pl/110/289/dB/tI], § 2120(a)(7), July 30, 2008, [122 Stat. 2835][/us/stat/122/2835].
 
  __Amendments__ 
 
@@ -71,12 +71,12 @@
 [/us/usc/t12/s1710/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1710%2Fa
 [/us/usc/t12/s1710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1710
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1225
-[/us/pl/100/242/s415/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs415%2Fb%2F2
+[/us/pl/100/242/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtIV
 [/us/stat/101/1907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1907
 [/us/usc/t12/s1715z–10/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715z%E2%80%9310%2Fc
-[/us/pl/110/289/s2120/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs2120%2Fa%2F7
+[/us/pl/110/289/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdB%2FtI
 [/us/stat/122/2835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2835
 [/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
 [/us/usc/t12/s1715z–16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715z%E2%80%9316

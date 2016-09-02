@@ -219,7 +219,7 @@
 
             The Director is authorized to prescribe such rules as may be necessary to carry out this subsection.
 
-([Pub. L. 102–550, title XIII, § 1377][/us/pl/102/550/s1377], as added [Pub. L. 110–289, div. A, title I, § 1153(a)(2)][/us/pl/110/289/s1153/a/2], July 30, 2008, [122 Stat. 2770][/us/stat/122/2770].)
+([Pub. L. 102–550, title XIII][/us/pl/102/550/tXIII], § 1377, as added [Pub. L. 110–289, div. A, title I][/us/pl/110/289/dA/tI], § 1153(a)(2), July 30, 2008, [122 Stat. 2770][/us/stat/122/2770].)
 
  __Prior Provisions__ 
 
@@ -232,8 +232,8 @@
 ----------
 ----------
 
-[/us/pl/102/550/s1377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1377
-[/us/pl/110/289/s1153/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1153%2Fa%2F2
+[/us/pl/102/550/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIII
+[/us/pl/110/289/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtI
 [/us/stat/122/2770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2770
 [/us/pl/102/550/s1377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1377
 [/us/usc/t12/s4637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4637

@@ -17,7 +17,7 @@
 
     Where the Secretary determines that the making of appropriate reports by uninsured banks or uninsured institutions of any type with respect to their ownership, control, and managements and any changes therein has a high degree of usefulness in criminal, tax, or regulatory investigations or proceedings, he may by regulation require such banks or institutions to make such reports as he determines in respect of such ownership, control, and managements and changes therein.
 
-([Pub. L. 91–508, title I, § 122][/us/pl/91/508/s122], Oct. 26, 1970, [84 Stat. 1116][/us/stat/84/1116].)
+([Pub. L. 91–508, title I][/us/pl/91/508/tI], § 122, Oct. 26, 1970, [84 Stat. 1116][/us/stat/84/1116].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/508/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508%2Fs122
+[/us/pl/91/508/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508%2FtI
 [/us/stat/84/1116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1116
 
 

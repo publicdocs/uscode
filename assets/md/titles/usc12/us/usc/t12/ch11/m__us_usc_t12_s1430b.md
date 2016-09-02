@@ -27,7 +27,7 @@
 
         (2) such advance meets the requirements of [section 1430(a) of this title][/us/usc/t12/s1430/a], and any real estate collateral for such loan comprises single family or multifamily residential mortgages.
 
-([July 22, 1932, ch. 522, § 10b][/us/act/1932-07-22/ch522/s10b], as added [May 25, 1935, ch. 150, § 7][/us/act/1935-05-25/ch150/s7], [49 Stat. 295][/us/stat/49/295]; amended [Pub. L. 101–73, title VII, § 701(b)(1)][/us/pl/101/73/s701/b/1], (3)(A), Aug. 9, 1989, [103 Stat. 412][/us/stat/103/412]; [Pub. L. 102–550, title XIII, § 1392(b)][/us/pl/102/550/s1392/b], Oct. 28, 1992, [106 Stat. 4009][/us/stat/106/4009]; [Pub. L. 110–289, div. A, title II, § 1204(8)][/us/pl/110/289/s1204/8], July 30, 2008, [122 Stat. 2786][/us/stat/122/2786].)
+([July 22, 1932, ch. 522][/us/act/1932-07-22/ch522], § 10b, as added [May 25, 1935, ch. 150][/us/act/1935-05-25/ch150], § 7, [49 Stat. 295][/us/stat/49/295]; amended [Pub. L. 101–73, title VII][/us/pl/101/73/tVII], § 701(b)(1), (3)(A), Aug. 9, 1989, [103 Stat. 412][/us/stat/103/412]; [Pub. L. 102–550, title XIII][/us/pl/102/550/tXIII], § 1392(b), Oct. 28, 1992, [106 Stat. 4009][/us/stat/106/4009]; [Pub. L. 110–289, div. A, title II][/us/pl/110/289/dA/tII], § 1204(8), July 30, 2008, [122 Stat. 2786][/us/stat/122/2786].)
 
  __References in Text__ 
 
@@ -51,14 +51,14 @@
 [/us/usc/t12/s1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1707
 [/us/usc/t12/s1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1707
 [/us/usc/t12/s1430/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1430%2Fa
-[/us/act/1932-07-22/ch522/s10b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-07-22%2Fch522%2Fs10b
-[/us/act/1935-05-25/ch150/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-05-25%2Fch150%2Fs7
+[/us/act/1932-07-22/ch522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-07-22%2Fch522
+[/us/act/1935-05-25/ch150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-05-25%2Fch150
 [/us/stat/49/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F295
-[/us/pl/101/73/s701/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs701%2Fb%2F1
+[/us/pl/101/73/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtVII
 [/us/stat/103/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F412
-[/us/pl/102/550/s1392/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1392%2Fb
+[/us/pl/102/550/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIII
 [/us/stat/106/4009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4009
-[/us/pl/110/289/s1204/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1204%2F8
+[/us/pl/110/289/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtII
 [/us/stat/122/2786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2786
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
 [/us/stat/48/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1246

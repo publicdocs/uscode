@@ -67,7 +67,7 @@
 
             (E) meet any other affordability requirements as may be established by the Administrator.
 
-([Pub. L. 103–325, title I, § 122][/us/pl/103/325/s122], as added [Pub. L. 111–203, title XII, § 1206][/us/pl/111/203/s1206], July 21, 2010, [124 Stat. 2131][/us/stat/124/2131].)
+([Pub. L. 103–325, title I][/us/pl/103/325/tI], § 122, as added [Pub. L. 111–203, title XII][/us/pl/111/203/tXII], § 1206, July 21, 2010, [124 Stat. 2131][/us/stat/124/2131].)
 
  __Effective Date__ 
 
@@ -82,8 +82,8 @@
 
 [/us/usc/t12/s4702/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4702%2F16
 [/us/usc/t15/s1681a/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681a%2Fp
-[/us/pl/103/325/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs122
-[/us/pl/111/203/s1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1206
+[/us/pl/103/325/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtI
+[/us/pl/111/203/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtXII
 [/us/stat/124/2131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2131
 [/us/pl/111/203/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs4
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301

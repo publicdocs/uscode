@@ -63,7 +63,7 @@
 
         (6) to report to all State appraiser certifying and licensing agencies when a license or certification is surrendered, revoked, or suspended.
 
-([Pub. L. 101–73, title XI, § 1109][/us/pl/101/73/s1109], Aug. 9, 1989, [103 Stat. 513][/us/stat/103/513]; [Pub. L. 111–203, title XIV, § 1473(g)][/us/pl/111/203/s1473/g], (h)(1), (i), July 21, 2010, [124 Stat. 2194][/us/stat/124/2194], 2195.)
+([Pub. L. 101–73, title XI][/us/pl/101/73/tXI], § 1109, Aug. 9, 1989, [103 Stat. 513][/us/stat/103/513]; [Pub. L. 111–203, title XIV][/us/pl/111/203/tXIV], § 1473(g), (h)(1), (i), July 21, 2010, [124 Stat. 2194][/us/stat/124/2194], 2195.)
 
  __References in Text__ 
 
@@ -71,19 +71,19 @@
 
  __Codification__ 
 
-    [Pub. L. 111–203, § 1473(i)][/us/pl/111/203/s1473/i], which amended this section, also enacted provisions set out as a note below.
+    [Pub. L. 111–203][/us/pl/111/203], § 1473(i), which amended this section, also enacted provisions set out as a note below.
 
  __Amendments__ 
 
-    2010—Subsec. (a). [Pub. L. 111–203, § 1473(h)(1)(B)][/us/pl/111/203/s1473/h/1/B], amended concluding provisions generally. Prior to amendment, concluding provisions read as follows: “Subject to the approval of the Council, the Appraisal Subcommittee may adjust the dollar amount of registry fees, up to a maximum of $50 per annum, as necessary to carry out its functions under this chapter.”
+    2010—Subsec. (a). [Pub. L. 111–203][/us/pl/111/203], § 1473(h)(1)(B), amended concluding provisions generally. Prior to amendment, concluding provisions read as follows: “Subject to the approval of the Council, the Appraisal Subcommittee may adjust the dollar amount of registry fees, up to a maximum of $50 per annum, as necessary to carry out its functions under this chapter.”
 
-    Subsec. (a)(2), (3). [Pub. L. 111–203, § 1473(g)(1)][/us/pl/111/203/s1473/g/1], (3), added pars. (2) and (3). Former par. (2) redesignated (4).
+    Subsec. (a)(2), (3). [Pub. L. 111–203][/us/pl/111/203], § 1473(g)(1), (3), added pars. (2) and (3). Former par. (2) redesignated (4).
 
-    Subsec. (a)(4). [Pub. L. 111–203, § 1473(h)(1)(A)][/us/pl/111/203/s1473/h/1/A], amended par. (4) generally. Prior to amendment, par. (4) read as follows: “collect from such individuals who perform or seek to perform appraisals in federally related transactions, an annual registry fee of not more than $25, such fees to be transmitted by the State agencies to the Council on an annual basis.”
+    Subsec. (a)(4). [Pub. L. 111–203][/us/pl/111/203], § 1473(h)(1)(A), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “collect from such individuals who perform or seek to perform appraisals in federally related transactions, an annual registry fee of not more than $25, such fees to be transmitted by the State agencies to the Council on an annual basis.”
 
-    [Pub. L. 111–203, § 1473(g)(2)][/us/pl/111/203/s1473/g/2], redesignated par. (2) as (4).
+    [Pub. L. 111–203][/us/pl/111/203], § 1473(g)(2), redesignated par. (2) as (4).
 
-    Subsec. (b)(5), (6). [Pub. L. 111–203, § 1473(i)][/us/pl/111/203/s1473/i], added pars. (5) and (6).
+    Subsec. (b)(5), (6). [Pub. L. 111–203][/us/pl/111/203], § 1473(i), added pars. (5) and (6).
 
  __Effective Date of 2010 Amendment__ 
 
@@ -91,7 +91,7 @@
 
  __Grants and Reports__ 
 
-[Pub. L. 111–203, title XIV, § 1473(i)][/us/pl/111/203/s1473/i], July 21, 2010, [124 Stat. 2195][/us/stat/124/2195], provided that:
+[Pub. L. 111–203, title XIV][/us/pl/111/203/tXIV], § 1473(i), July 21, 2010, [124 Stat. 2195][/us/stat/124/2195], provided that:
 
     \[Introductory provisions and pars. (1) to (3) amended this section\].
 
@@ -99,7 +99,7 @@
 
  __Incremental Revenues__ 
 
-[Pub. L. 111–203, title XIV, § 1473(h)(2)][/us/pl/111/203/s1473/h/2], July 21, 2010, [124 Stat. 2195][/us/stat/124/2195], provided that: 
+[Pub. L. 111–203, title XIV][/us/pl/111/203/tXIV], § 1473(h)(2), July 21, 2010, [124 Stat. 2195][/us/stat/124/2195], provided that: 
 
 > “Incremental revenues collected pursuant to the increases required by this subsection \[amending this section\] shall be placed in a separate account at the United States Treasury, entitled the ‘Appraisal Subcommittee Account’.”
 
@@ -110,23 +110,23 @@
 ----------
 ----------
 
-[/us/pl/101/73/s1109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs1109
+[/us/pl/101/73/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtXI
 [/us/stat/103/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F513
-[/us/pl/111/203/s1473/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1473%2Fg
+[/us/pl/111/203/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtXIV
 [/us/stat/124/2194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2194
 [/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
-[/us/pl/111/203/s1473/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1473%2Fi
-[/us/pl/111/203/s1473/h/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1473%2Fh%2F1%2FB
-[/us/pl/111/203/s1473/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1473%2Fg%2F1
-[/us/pl/111/203/s1473/h/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1473%2Fh%2F1%2FA
-[/us/pl/111/203/s1473/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1473%2Fg%2F2
-[/us/pl/111/203/s1473/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1473%2Fi
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s1400/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1400%2Fc
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601
-[/us/pl/111/203/s1473/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1473%2Fi
+[/us/pl/111/203/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtXIV
 [/us/stat/124/2195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2195
-[/us/pl/111/203/s1473/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1473%2Fh%2F2
+[/us/pl/111/203/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtXIV
 [/us/stat/124/2195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2195
 
 

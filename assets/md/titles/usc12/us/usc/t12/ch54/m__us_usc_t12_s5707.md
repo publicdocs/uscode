@@ -39,7 +39,7 @@
 
         If, after 13 months, any portion of the amount of Federal funds allocated to a participating State is deemed by the Secretary to be no longer allocated to the State after actions taken by the Secretary under subsection (a)(1), the Secretary shall reallocate that portion among the participating States, excluding the State whose allocated funds were deemed to be no longer allocated, as provided in [section 5702(b) of this title][/us/usc/t12/s5702/b].
 
-([Pub. L. 111–240, title III, § 3008][/us/pl/111/240/s3008], Sept. 27, 2010, [124 Stat. 2580][/us/stat/124/2580].)
+([Pub. L. 111–240, title III][/us/pl/111/240/tIII], § 3008, Sept. 27, 2010, [124 Stat. 2580][/us/stat/124/2580].)
 
 ----------
 
@@ -50,7 +50,7 @@
 
 [/us/usc/t12/s5706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5706
 [/us/usc/t12/s5702/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5702%2Fb
-[/us/pl/111/240/s3008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs3008
+[/us/pl/111/240/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2FtIII
 [/us/stat/124/2580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2580
 
 

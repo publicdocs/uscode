@@ -29,13 +29,13 @@
 
     (6) the mortgaged property is the principal residence of the mortgagor.
 
-([Pub. L. 94–50, title I, § 103][/us/pl/94/50/s103], July 2, 1975, [89 Stat. 249][/us/stat/89/249]; [Pub. L. 111–203, title XIV, § 1496(b)(1)][/us/pl/111/203/s1496/b/1], July 21, 2010, [124 Stat. 2207][/us/stat/124/2207].)
+([Pub. L. 94–50, title I][/us/pl/94/50/tI], § 103, July 2, 1975, [89 Stat. 249][/us/stat/89/249]; [Pub. L. 111–203, title XIV][/us/pl/111/203/tXIV], § 1496(b)(1), July 21, 2010, [124 Stat. 2207][/us/stat/124/2207].)
 
  __Amendments__ 
 
-    2010—Par. (2). [Pub. L. 111–203, § 1496(b)(1)(A)][/us/pl/111/203/s1496/b/1/A], substituted “have certified” for “have indicated in writing to the Secretary of Housing and Urban Development (hereinafter referred to as the ‘Secretary’) and to any agency or department of the Federal Government responsible for the regulation of the holder” and struck out “(such as the volume of delinquent loans in its portfolio)” after “circumstances” and “, except that such statement by the holder of the mortgage may be waived by the Secretary if in his judgment such waiver would further the purposes of this chapter” after “by this chapter”.
+    2010—Par. (2). [Pub. L. 111–203][/us/pl/111/203], § 1496(b)(1)(A), substituted “have certified” for “have indicated in writing to the Secretary of Housing and Urban Development (hereinafter referred to as the ‘Secretary’) and to any agency or department of the Federal Government responsible for the regulation of the holder” and struck out “(such as the volume of delinquent loans in its portfolio)” after “circumstances” and “, except that such statement by the holder of the mortgage may be waived by the Secretary if in his judgment such waiver would further the purposes of this chapter” after “by this chapter”.
 
-    Par. (4). [Pub. L. 111–203, § 1496(b)(1)(B)][/us/pl/111/203/s1496/b/1/B], inserted “or medical conditions” after “adverse economic conditions”.
+    Par. (4). [Pub. L. 111–203][/us/pl/111/203], § 1496(b)(1)(B), inserted “or medical conditions” after “adverse economic conditions”.
 
  __Effective Date of 2010 Amendment__ 
 
@@ -48,12 +48,12 @@
 ----------
 ----------
 
-[/us/pl/94/50/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F50%2Fs103
+[/us/pl/94/50/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F50%2FtI
 [/us/stat/89/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F249
-[/us/pl/111/203/s1496/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1496%2Fb%2F1
+[/us/pl/111/203/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtXIV
 [/us/stat/124/2207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2207
-[/us/pl/111/203/s1496/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1496%2Fb%2F1%2FA
-[/us/pl/111/203/s1496/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1496%2Fb%2F1%2FB
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s1400/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1400%2Fc
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601

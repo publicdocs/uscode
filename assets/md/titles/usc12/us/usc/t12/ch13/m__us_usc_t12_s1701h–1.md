@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t12/ch13/m__us_usc_t12_s1701h.md) | [Next](./../../../..//us/usc/t12/ch13/m__us_usc_t12_s1701j.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701h%E2%80%931)
+[Previous](./../../../..//us/usc/t12/ch13/m__us_usc_t12_s1701h.md) | [Next](./../../../..//us/usc/t12/ch13/m__us_usc_t12_s1701i _us_usc_t12_s1701i–1.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701h%E2%80%931)
 
 ## § 1701h–1. Housing for elderly persons advisory committee
 
     The Secretary of Housing and Urban Development shall establish, in accordance with the provisions of [section 1701h of this title][/us/usc/t12/s1701h], an advisory committee on matters relating to housing for elderly persons.
 
-([Aug. 7, 1956, ch. 1029][/us/act/1956-08-07/ch1029], title I, § 104(d), [70 Stat. 1093][/us/stat/70/1093]; [Pub. L. 90–19, § 13(a)][/us/pl/90/19/s13/a], May 25, 1967, [81 Stat. 24][/us/stat/81/24].)
+([Aug. 7, 1956, ch. 1029][/us/act/1956-08-07/ch1029], title I, § 104(d), [70 Stat. 1093][/us/stat/70/1093]; [Pub. L. 90–19][/us/pl/90/19], § 13(a), May 25, 1967, [81 Stat. 24][/us/stat/81/24].)
 
  __Codification__ 
 
@@ -31,15 +31,9 @@
 
     Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See [section 14 of Pub. L. 92–463][/us/pl/92/463/s14], Oct. 6, 1972, [86 Stat. 776][/us/stat/86/776], set out in the Appendix to Title 5, Government Organization and Employees.
 
-§§ 1701i, 1701i–1. __Omitted__ 
-
-    Section 1701i, [act July 15, 1949, ch. 338][/us/act/1949-07-15/ch338], title VI, § 603, [63 Stat. 440][/us/stat/63/440]; 1953 Reorg. Plan No. 1, § 5, eff. Apr. 11, 1953, 18 F.R. 2053, [67 Stat. 631][/us/stat/67/631], included the Secretary of Labor and the Secretary of Health, Education, and Welfare or their designees in the membership of the National Housing Council of the Housing and Home Finance Agency.
-
-    Section 1701i–1, [act Sept. 1, 1951, ch. 378][/us/act/1951-09-01/ch378], title VI, § 615, [65 Stat. 317][/us/stat/65/317], included the Secretary of Defense or his designee and excluded the Chairman of Board of Directors of Reconstruction Finance Corporation or his designee from National Housing Council membership.
-
 ----------
 
-[Previous](./../../../..//us/usc/t12/ch13/m__us_usc_t12_s1701h.md) | [Next](./../../../..//us/usc/t12/ch13/m__us_usc_t12_s1701j.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701h%E2%80%931)
+[Previous](./../../../..//us/usc/t12/ch13/m__us_usc_t12_s1701h.md) | [Next](./../../../..//us/usc/t12/ch13/m__us_usc_t12_s1701i _us_usc_t12_s1701i–1.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701h%E2%80%931)
 
 ----------
 ----------
@@ -47,15 +41,10 @@
 [/us/usc/t12/s1701h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701h
 [/us/act/1956-08-07/ch1029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-07%2Fch1029
 [/us/stat/70/1093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1093
-[/us/pl/90/19/s13/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19%2Fs13%2Fa
+[/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
 [/us/stat/81/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F24
 [/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
 [/us/pl/92/463/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs14
 [/us/stat/86/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F776
-[/us/act/1949-07-15/ch338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-07-15%2Fch338
-[/us/stat/63/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F440
-[/us/stat/67/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F631
-[/us/act/1951-09-01/ch378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-09-01%2Fch378
-[/us/stat/65/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F317
 
 

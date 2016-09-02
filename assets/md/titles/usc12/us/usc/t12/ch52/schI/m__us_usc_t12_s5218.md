@@ -33,7 +33,7 @@
 
         Regulations or guidelines required by this section shall be issued as soon as practicable after October 3, 2008.
 
-([Pub. L. 110–343, div. A, title I, § 108][/us/pl/110/343/s108], Oct. 3, 2008, [122 Stat. 3774][/us/stat/122/3774].)
+([Pub. L. 110–343, div. A, title I][/us/pl/110/343/dA/tI], § 108, Oct. 3, 2008, [122 Stat. 3774][/us/stat/122/3774].)
 
  __References in Text__ 
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/110/343/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs108
+[/us/pl/110/343/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdA%2FtI
 [/us/stat/122/3774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3774
 [/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
 [/us/stat/122/3765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3765

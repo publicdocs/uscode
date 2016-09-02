@@ -27,7 +27,7 @@
 
     (5) encourage ownership of its equity securities by cooperatives and others as provided in [section 3014 of this title][/us/usc/t12/s3014], so that the date when all of the Bank’s class A stock owned by the United States has been fully redeemed (the “Final Government Equity Redemption Date”) occurs as early as practicable.
 
-([Pub. L. 95–351, title I, § 101][/us/pl/95/351/s101], Aug. 20, 1978, [92 Stat. 499][/us/stat/92/499]; [Pub. L. 97–35, title III, § 396(b)][/us/pl/97/35/s396/b], Aug. 13, 1981, [95 Stat. 439][/us/stat/95/439].)
+([Pub. L. 95–351, title I][/us/pl/95/351/tI], § 101, Aug. 20, 1978, [92 Stat. 499][/us/stat/92/499]; [Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 396(b), Aug. 13, 1981, [95 Stat. 439][/us/stat/95/439].)
 
  __References in Text__ 
 
@@ -39,7 +39,7 @@
 
  __Effective Date of 1981 Amendment__ 
 
-[Pub. L. 97–35, title III, § 396(i)][/us/pl/97/35/s396/i], Aug. 13, 1981, [95 Stat. 441][/us/stat/95/441], provided that: 
+[Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 396(i), Aug. 13, 1981, [95 Stat. 441][/us/stat/95/441], provided that: 
 
 > “The amendments made by subsections (b) through (h) \[amending this section, sections 3014, 3017, 3018, 3024, and 3043 of this title, [section 5315 of Title 5][/us/usc/t5/s5315], Government Organization and Employees, and sections 856, 867, and 868 of former Title 31, Money and Finance\] shall take effect on the day after the Final Government Equity Redemption Date \[Dec. 31, 1981\].”
 
@@ -57,9 +57,9 @@
 ----------
 
 [/us/usc/t12/s3014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3014
-[/us/pl/95/351/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F351%2Fs101
+[/us/pl/95/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F351%2FtI
 [/us/stat/92/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F499
-[/us/pl/97/35/s396/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs396%2Fb
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F439
 [/us/pl/95/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F351
 [/us/stat/92/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F499
@@ -67,7 +67,7 @@
 [/us/usc/t12/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3001
 [/us/usc/t12/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3001
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
-[/us/pl/97/35/s396/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs396%2Fi
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F441
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
 [/us/pl/97/35/s396/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs396%2Fa

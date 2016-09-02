@@ -17,7 +17,7 @@
 
     Any appropriate Federal banking agency shall notify the Securities and Exchange Commission of any concerns of the agency regarding significant financial or operational risks to any registered broker or dealer, or any registered municipal securities dealer, government securities broker, or government securities dealer for which the Commission is the appropriate regulatory agency (as defined in [section 78c of title 15][/us/usc/t15/s78c]), resulting from the activities of any insured depository institution, any depository institution holding company, or any affiliate of any such institution or company if such broker, dealer, municipal securities dealer, government securities broker, or government securities dealer is an affiliate of any such institution, company, or affiliate.
 
-([Sept. 21, 1950, ch. 967, § 2][/us/act/1950-09-21/ch967/s2]\[35\], as added [Pub. L. 101–432, § 7][/us/pl/101/432/s7], Oct. 16, 1990, [104 Stat. 975][/us/stat/104/975].)
+([Sept. 21, 1950, ch. 967][/us/act/1950-09-21/ch967], § 2\[35\], as added [Pub. L. 101–432][/us/pl/101/432], § 7, Oct. 16, 1990, [104 Stat. 975][/us/stat/104/975].)
 
 ----------
 
@@ -27,8 +27,8 @@
 ----------
 
 [/us/usc/t15/s78c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c
-[/us/act/1950-09-21/ch967/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967%2Fs2
-[/us/pl/101/432/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F432%2Fs7
+[/us/act/1950-09-21/ch967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967
+[/us/pl/101/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F432
 [/us/stat/104/975]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F975
 
 

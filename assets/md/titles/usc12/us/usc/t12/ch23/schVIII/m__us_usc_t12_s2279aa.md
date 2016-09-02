@@ -107,7 +107,7 @@
 
         The term “State” has the meaning given such term in [section 2277a of this title][/us/usc/t12/s2277a].
 
-([Pub. L. 92–181, title VIII, § 8][/us/pl/92/181/s8].0, as added [Pub. L. 100–233, title VII, § 702][/us/pl/100/233/s702], Jan. 6, 1988, [101 Stat. 1686][/us/stat/101/1686]; amended [Pub. L. 100–399, title VI, § 601(a)][/us/pl/100/399/s601/a], Aug. 17, 1988, [102 Stat. 1005][/us/stat/102/1005]; [Pub. L. 101–624, title XVIII, § 1839][/us/pl/101/624/s1839], Nov. 28, 1990, [104 Stat. 3834][/us/stat/104/3834]; [Pub. L. 104–105, title I][/us/pl/104/105], §§ 101, 102, 108(c)(1), 109(b)(1), Feb. 10, 1996, [110 Stat. 163–165][/us/stat/110/163-165]; [Pub. L. 110–234, title V, § 5406(a)][/us/pl/110/234/s5406/a], May 22, 2008, [122 Stat. 1158][/us/stat/122/1158]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title V, § 5406(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1920.)
+([Pub. L. 92–181, title VIII][/us/pl/92/181/tVIII], § 8.0, as added [Pub. L. 100–233, title VII][/us/pl/100/233/tVII], § 702, Jan. 6, 1988, [101 Stat. 1686][/us/stat/101/1686]; amended [Pub. L. 100–399, title VI][/us/pl/100/399/tVI], § 601(a), Aug. 17, 1988, [102 Stat. 1005][/us/stat/102/1005]; [Pub. L. 101–624, title XVIII][/us/pl/101/624/tXVIII], § 1839, Nov. 28, 1990, [104 Stat. 3834][/us/stat/104/3834]; [Pub. L. 104–105, title I][/us/pl/104/105/tI], §§ 101, 102, 108(c)(1), 109(b)(1), Feb. 10, 1996, [110 Stat. 163–165][/us/stat/110/163-165]; [Pub. L. 110–234, title V][/us/pl/110/234/tV], § 5406(a), May 22, 2008, [122 Stat. 1158][/us/stat/122/1158]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title V, § 5406(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1920.)
 
  __References in Text__ 
 
@@ -121,19 +121,19 @@
 
  __Amendments__ 
 
-    2008—Par. (9)(C). [Pub. L. 110–246, § 5406(a)][/us/pl/110/246/s5406/a], added subpar. (C).
+    2008—Par. (9)(C). [Pub. L. 110–246][/us/pl/110/246], § 5406(a), added subpar. (C).
 
-    1996—Par. (1)(B)(ii). [Pub. L. 104–105, § 101][/us/pl/104/105/s101], substituted “, excluding the land to which the dwelling is affixed, with a value” for “with a purchase price”.
+    1996—Par. (1)(B)(ii). [Pub. L. 104–105][/us/pl/104/105], § 101, substituted “, excluding the land to which the dwelling is affixed, with a value” for “with a purchase price”.
 
-    Par. (3)(A). [Pub. L. 104–105, § 102(1)][/us/pl/104/105/s102/1], substituted “an agricultural mortgage marketing” for “a secondary marketing agricultural loan”.
+    Par. (3)(A). [Pub. L. 104–105][/us/pl/104/105], § 102(1), substituted “an agricultural mortgage marketing” for “a secondary marketing agricultural loan”.
 
-    Par. (3)(B). [Pub. L. 104–105, § 102(2)][/us/pl/104/105/s102/2], struck out “, but only with respect to qualified loans described in paragraph (9)(B)” after “thereof”.
+    Par. (3)(B). [Pub. L. 104–105][/us/pl/104/105], § 102(2), struck out “, but only with respect to qualified loans described in paragraph (9)(B)” after “thereof”.
 
     Par. (9)(B)(i). [Pub. L. 104–105][/us/pl/104/105], §§ 108(c)(1), 109(b)(1), substituted “(d)” for “(f)” and “2279aa–8” for “2279aa–7, 2279aa–8,”.
 
-    1990—Par. (3). [Pub. L. 101–624, § 1839(a)][/us/pl/101/624/s1839/a], amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The term ‘certified facility’ means a secondary marketing agricultural loan facility that is certified under [section 2279aa–5 of this title][/us/usc/t12/s2279aa–5].”
+    1990—Par. (3). [Pub. L. 101–624][/us/pl/101/624], § 1839(a), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The term ‘certified facility’ means a secondary marketing agricultural loan facility that is certified under [section 2279aa–5 of this title][/us/usc/t12/s2279aa–5].”
 
-    Par. (9). [Pub. L. 101–624, § 1839(b)][/us/pl/101/624/s1839/b], amended par. (9) generally. Prior to amendment, par. (9) read as follows: “The term ‘qualified loan’ means an obligation that—
+    Par. (9). [Pub. L. 101–624][/us/pl/101/624], § 1839(b), amended par. (9) generally. Prior to amendment, par. (9) read as follows: “The term ‘qualified loan’ means an obligation that—
 
     “(A) is secured by a fee-simple or leasehold mortgage with status as a first lien on agricultural real estate located in the United States that is not subject to any legal or equitable claims deriving from a preceding fee-simple or leasehold mortgage;
 
@@ -157,7 +157,7 @@
 
  __Statement of Purpose__ 
 
-[Pub. L. 100–233, title VII, § 701][/us/pl/100/233/s701], Jan. 6, 1988, [101 Stat. 1686][/us/stat/101/1686], provided that: 
+[Pub. L. 100–233, title VII][/us/pl/100/233/tVII], § 701, Jan. 6, 1988, [101 Stat. 1686][/us/stat/101/1686], provided that: 
 
 > “It is the purpose of this subtitle \[subtitle A (§§ 701–705) of title VII of [Pub. L. 100–233][/us/pl/100/233], enacting this subchapter, amending sections 2012, 2033, 2072, and 2093 of this title and [section 9105 of Title 31][/us/usc/t31/s9105], Money and Finance, and enacting provisions set out as a note below\]—
 
@@ -179,7 +179,7 @@
 
  __GAO Studies__ 
 
-    [Pub. L. 100–233, title VII, § 704][/us/pl/100/233/s704], Jan. 6, 1988, [101 Stat. 1706][/us/stat/101/1706], as amended by [Pub. L. 100–399, title VI, § 603][/us/pl/100/399/s603], Aug. 17, 1988, [102 Stat. 1006][/us/stat/102/1006], directed Comptroller General of United States to conduct studies of (1) implementation of amendments made by subtitle A (§§ 701–705) of title VII of [Pub. L. 100–233][/us/pl/100/233] (which enacted this subchapter and amended sections 2012, 2033, 2072, and 2093 of this title and [section 9105 of Title 31][/us/usc/t31/s9105], Money and Finance) by Federal Agricultural Mortgage Corporation and effect of operations of Corporation on producers, Farm Credit System, and other lenders, and capital markets, (2) feasibility and appropriateness of promoting establishment of a secondary market for securities representing interests in, or obligations backed by, pools of agricultural real estate loans for which a guarantee had not been provided by Federal Agricultural Mortgage Corporation, and (3) feasibility of expanding authority granted under amendments made by such subtitle A to authorize sale of securities based on or backed by a trust or pool consisting of loans made to farm-related and rural small businesses, and required, not later than Jan. 6, 1990, Comptroller General to transmit to Congress a report on the studies, including therein such recommendations for administrative action and legislation as might be appropriate.
+    [Pub. L. 100–233, title VII][/us/pl/100/233/tVII], § 704, Jan. 6, 1988, [101 Stat. 1706][/us/stat/101/1706], as amended by [Pub. L. 100–399, title VI][/us/pl/100/399/tVI], § 603, Aug. 17, 1988, [102 Stat. 1006][/us/stat/102/1006], directed Comptroller General of United States to conduct studies of (1) implementation of amendments made by subtitle A (§§ 701–705) of title VII of [Pub. L. 100–233][/us/pl/100/233] (which enacted this subchapter and amended sections 2012, 2033, 2072, and 2093 of this title and [section 9105 of Title 31][/us/usc/t31/s9105], Money and Finance) by Federal Agricultural Mortgage Corporation and effect of operations of Corporation on producers, Farm Credit System, and other lenders, and capital markets, (2) feasibility and appropriateness of promoting establishment of a secondary market for securities representing interests in, or obligations backed by, pools of agricultural real estate loans for which a guarantee had not been provided by Federal Agricultural Mortgage Corporation, and (3) feasibility of expanding authority granted under amendments made by such subtitle A to authorize sale of securities based on or backed by a trust or pool consisting of loans made to farm-related and rural small businesses, and required, not later than Jan. 6, 1990, Comptroller General to transmit to Congress a report on the studies, including therein such recommendations for administrative action and legislation as might be appropriate.
 
 ----------
 
@@ -198,18 +198,18 @@
 [/us/usc/t12/s2279aa–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2279aa%E2%80%936
 [/us/usc/t7/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs901
 [/us/usc/t12/s2277a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2277a
-[/us/pl/92/181/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs8
-[/us/pl/100/233/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs702
+[/us/pl/92/181/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtVIII
+[/us/pl/100/233/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtVII
 [/us/stat/101/1686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1686
-[/us/pl/100/399/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs601%2Fa
+[/us/pl/100/399/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtVI
 [/us/stat/102/1005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1005
-[/us/pl/101/624/s1839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1839
+[/us/pl/101/624/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXVIII
 [/us/stat/104/3834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3834
-[/us/pl/104/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105
+[/us/pl/104/105/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2FtI
 [/us/stat/110/163-165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F163-165
-[/us/pl/110/234/s5406/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs5406%2Fa
+[/us/pl/110/234/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtV
 [/us/stat/122/1158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1158
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/87/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128
 [/us/stat/75/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F307
@@ -221,14 +221,14 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s5406/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs5406%2Fa
-[/us/pl/104/105/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2Fs101
-[/us/pl/104/105/s102/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2Fs102%2F1
-[/us/pl/104/105/s102/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2Fs102%2F2
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/104/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105
-[/us/pl/101/624/s1839/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1839%2Fa
+[/us/pl/104/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105
+[/us/pl/104/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105
+[/us/pl/104/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/usc/t12/s2279aa–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2279aa%E2%80%935
-[/us/pl/101/624/s1839/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1839%2Fb
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
@@ -239,13 +239,13 @@
 [/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
 [/us/pl/100/399/s1001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs1001%2Fa
 [/us/usc/t12/s2002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2002
-[/us/pl/100/233/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs701
+[/us/pl/100/233/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtVII
 [/us/stat/101/1686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1686
 [/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
 [/us/usc/t31/s9105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9105
-[/us/pl/100/233/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs704
+[/us/pl/100/233/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtVII
 [/us/stat/101/1706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1706
-[/us/pl/100/399/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs603
+[/us/pl/100/399/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtVI
 [/us/stat/102/1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1006
 [/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
 [/us/usc/t31/s9105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9105

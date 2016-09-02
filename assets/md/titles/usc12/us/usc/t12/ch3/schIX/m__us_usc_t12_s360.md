@@ -17,7 +17,7 @@
 
     Every Federal reserve bank shall receive on deposit at par from depository institutions or from Federal reserve banks checks and other items, including negotiable orders of withdrawal and share drafts and drafts drawn upon any of its depositors, and when remitted by a Federal reserve bank, checks and other items, including negotiable orders of withdrawal and share drafts and drafts drawn by any depositor in any other Federal reserve bank or depository institution upon funds to the credit of said depositor in said reserve bank or depository institution. Nothing herein contained shall be construed as prohibiting a depository institution from charging its actual expense incurred in collecting and remitting funds, or for exchange sold to its patrons. The Board of Governors of the Federal Reserve System shall, by rule, fix the charges to be collected by the depository institutions from its patrons whose checks and other items, including negotiable orders of withdrawal and share drafts are cleared through the Federal reserve bank and the charge which may be imposed for the service of clearing or collection rendered by the Federal reserve bank.
 
-([Dec. 23, 1913, ch. 6, § 16][/us/act/1913-12-23/ch6/s16] (par.), [38 Stat. 265][/us/stat/38/265]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 203(a), [49 Stat. 704][/us/stat/49/704]; [Pub. L. 96–221, title I, § 105(c)][/us/pl/96/221/s105/c], Mar. 31, 1980, [94 Stat. 140][/us/stat/94/140].)
+([Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 16 (par.), [38 Stat. 265][/us/stat/38/265]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 203(a), [49 Stat. 704][/us/stat/49/704]; [Pub. L. 96–221, title I][/us/pl/96/221/tI], § 105(c), Mar. 31, 1980, [94 Stat. 140][/us/stat/94/140].)
 
  __Codification__ 
 
@@ -42,11 +42,11 @@
 ----------
 ----------
 
-[/us/act/1913-12-23/ch6/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs16
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
 [/us/stat/38/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F265
 [/us/act/1935-08-23/ch614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch614
 [/us/stat/49/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F704
-[/us/pl/96/221/s105/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs105%2Fc
+[/us/pl/96/221/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2FtI
 [/us/stat/94/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F140
 [/us/usc/t12/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs411
 [/us/pl/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221

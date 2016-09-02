@@ -17,7 +17,7 @@
 
     As soon as practicable following November 30, 1983, the Secretary of Housing and Urban Development, with the cooperation of the Federal Housing Finance Agency, the Federal Deposit Insurance Corporation, the Board of Governors of the Federal Reserve System, and the Comptroller of the Currency, shall develop a method of accurately reporting to the Congress on a periodic basis with respect to residential mortgage delinquencies and foreclosures. Each such report shall include information with respect to the number of residential mortgage foreclosures, and the number of sixty- and ninety-day residential mortgage delinquencies, in the Nation and in each State.
 
-([Pub. L. 98–181, title I][/us/pl/98/181] \[title IV, § 469\], Nov. 30, 1983, [97 Stat. 1237][/us/stat/97/1237]; [Pub. L. 111–203, title III, § 372][/us/pl/111/203/s372], July 21, 2010, [124 Stat. 1566][/us/stat/124/1566].)
+([Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title IV, § 469\], Nov. 30, 1983, [97 Stat. 1237][/us/stat/97/1237]; [Pub. L. 111–203, title III][/us/pl/111/203/tIII], § 372, July 21, 2010, [124 Stat. 1566][/us/stat/124/1566].)
 
  __Codification__ 
 
@@ -42,9 +42,9 @@
 ----------
 ----------
 
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1237
-[/us/pl/111/203/s372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs372
+[/us/pl/111/203/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIII
 [/us/stat/124/1566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1566
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203

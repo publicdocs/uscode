@@ -59,7 +59,7 @@
 
         All depository institutions, as defined in [section 461(b)(1) of this title][/us/usc/t12/s461/b/1], may receive for deposit and as deposits any evidences of transaction accounts, as defined by [section 461(b)(1) of this title][/us/usc/t12/s461/b/1] from other depository institutions, as defined in [section 461(b)(1) of this title][/us/usc/t12/s461/b/1] or from any office of any Federal Reserve bank without regard to any Federal or State law restricting the number or the physical location or locations of such depository institutions.
 
-([Dec. 23, 1913, ch. 6, § 11A][/us/act/1913-12-23/ch6/s11A], as added [Pub. L. 96–221, title I, § 107][/us/pl/96/221/s107], Mar. 31, 1980, [94 Stat. 140][/us/stat/94/140]; amended [Pub. L. 100–86, title VI, § 612(a)][/us/pl/100/86/s612/a], Aug. 10, 1987, [101 Stat. 652][/us/stat/101/652].)
+([Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 11A, as added [Pub. L. 96–221, title I][/us/pl/96/221/tI], § 107, Mar. 31, 1980, [94 Stat. 140][/us/stat/94/140]; amended [Pub. L. 100–86, title VI][/us/pl/100/86/tVI], § 612(a), Aug. 10, 1987, [101 Stat. 652][/us/stat/101/652].)
 
  __Amendments__ 
 
@@ -67,7 +67,7 @@
 
  __Effective Date of 1987 Amendment__ 
 
-[Pub. L. 100–86, title VI, § 612(b)][/us/pl/100/86/s612/b], Aug. 10, 1987, [101 Stat. 652][/us/stat/101/652], provided that: 
+[Pub. L. 100–86, title VI][/us/pl/100/86/tVI], § 612(b), Aug. 10, 1987, [101 Stat. 652][/us/stat/101/652], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of enactment of this title \[Aug. 10, 1987\].”
 
@@ -85,13 +85,13 @@
 [/us/usc/t12/s461/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs461%2Fb%2F1
 [/us/usc/t12/s461/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs461%2Fb%2F1
 [/us/usc/t12/s461/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs461%2Fb%2F1
-[/us/act/1913-12-23/ch6/s11A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs11A
-[/us/pl/96/221/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs107
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
+[/us/pl/96/221/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2FtI
 [/us/stat/94/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F140
-[/us/pl/100/86/s612/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2Fs612%2Fa
+[/us/pl/100/86/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2FtVI
 [/us/stat/101/652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F652
 [/us/pl/100/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86
-[/us/pl/100/86/s612/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2Fs612%2Fb
+[/us/pl/100/86/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2FtVI
 [/us/stat/101/652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F652
 [/us/pl/96/221/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs108
 [/us/usc/t12/s248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs248

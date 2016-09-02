@@ -39,15 +39,15 @@
 
         Witnesses subpoenaed under this section shall be paid the same fees and mileage that are paid witnesses in the district courts of the United States. Any court having jurisdiction of any proceeding instituted under this section by an enterprise may allow to any such party such reasonable expenses and attorneys fees as the court deems just and proper. Such expenses and fees shall be paid by the enterprise or from its assets.
 
-([Pub. L. 102–550, title XIII, § 1348][/us/pl/102/550/s1348], Oct. 28, 1992, [106 Stat. 3968][/us/stat/106/3968]; [Pub. L. 110–289, div. A, title I, § 1130(e)(2)][/us/pl/110/289/s1130/e/2], (3)(E), July 30, 2008, [122 Stat. 2711][/us/stat/122/2711].)
+([Pub. L. 102–550, title XIII][/us/pl/102/550/tXIII], § 1348, Oct. 28, 1992, [106 Stat. 3968][/us/stat/106/3968]; [Pub. L. 110–289, div. A, title I][/us/pl/110/289/dA/tI], § 1130(e)(2), (3)(E), July 30, 2008, [122 Stat. 2711][/us/stat/122/2711].)
 
  __Amendments__ 
 
-    2008—Subsec. (a). [Pub. L. 110–289, § 1130(e)(3)(E)][/us/pl/110/289/s1130/e/3/E], substituted “Director” for “Secretary” in introductory provisions and in par. (4).
+    2008—Subsec. (a). [Pub. L. 110–289][/us/pl/110/289], § 1130(e)(3)(E), substituted “Director” for “Secretary” in introductory provisions and in par. (4).
 
-    Subsec. (c). [Pub. L. 110–289, § 1130(e)(3)(E)][/us/pl/110/289/s1130/e/3/E], substituted “Director” for “Secretary”.
+    Subsec. (c). [Pub. L. 110–289][/us/pl/110/289], § 1130(e)(3)(E), substituted “Director” for “Secretary”.
 
-    [Pub. L. 110–289, § 1130(e)(2)][/us/pl/110/289/s1130/e/2], inserted “may bring an action or” before “may request”.
+    [Pub. L. 110–289][/us/pl/110/289], § 1130(e)(2), inserted “may bring an action or” before “may request”.
 
 ----------
 
@@ -56,12 +56,12 @@
 ----------
 ----------
 
-[/us/pl/102/550/s1348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1348
+[/us/pl/102/550/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIII
 [/us/stat/106/3968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3968
-[/us/pl/110/289/s1130/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1130%2Fe%2F2
+[/us/pl/110/289/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtI
 [/us/stat/122/2711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2711
-[/us/pl/110/289/s1130/e/3/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1130%2Fe%2F3%2FE
-[/us/pl/110/289/s1130/e/3/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1130%2Fe%2F3%2FE
-[/us/pl/110/289/s1130/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1130%2Fe%2F2
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
 
 

@@ -19,7 +19,7 @@
 
     (b) The Federal agency guaranteeing obligations purchased by the Bank may contract to make periodic payments to the Bank which shall be sufficient to offset the costs to the Bank of purchasing obligations of local public bodies or agencies upon terms and conditions as prescribed in this section rather than as prescribed by [section 2285 of this title][/us/usc/t12/s2285]. Such contracts may be made in advance of appropriations therefor, and appropriations for making payments under such contracts are hereby authorized.
 
-([Pub. L. 93–224, § 16][/us/pl/93/224/s16], Dec. 29, 1973, [87 Stat. 941][/us/stat/87/941].)
+([Pub. L. 93–224][/us/pl/93/224], § 16, Dec. 29, 1973, [87 Stat. 941][/us/stat/87/941].)
 
 ----------
 
@@ -29,7 +29,7 @@
 ----------
 
 [/us/usc/t12/s2285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2285
-[/us/pl/93/224/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F224%2Fs16
+[/us/pl/93/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F224
 [/us/stat/87/941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F941
 
 

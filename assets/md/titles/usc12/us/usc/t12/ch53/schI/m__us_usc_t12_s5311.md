@@ -81,7 +81,7 @@
 
         For purposes of the application of parts A and C (other than [section 5323(b) of this title][/us/usc/t12/s5323/b]) with respect to a foreign nonbank financial company, references in this subchapter to “company” or “subsidiary” include only the United States activities and subsidiaries of such foreign company, except as otherwise provided.
 
-([Pub. L. 111–203, title I, § 102][/us/pl/111/203/s102], July 21, 2010, [124 Stat. 1391][/us/stat/124/1391].)
+([Pub. L. 111–203, title I][/us/pl/111/203/tI], § 102, July 21, 2010, [124 Stat. 1391][/us/stat/124/1391].)
 
  __References in Text__ 
 
@@ -116,7 +116,7 @@
 [/us/usc/t12/s5342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5342
 [/us/usc/t12/s1843/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1843%2Fk
 [/us/usc/t12/s5323/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5323%2Fb
-[/us/pl/111/203/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs102
+[/us/pl/111/203/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtI
 [/us/stat/124/1391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1391
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1391

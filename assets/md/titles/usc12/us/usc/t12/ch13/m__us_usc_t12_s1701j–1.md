@@ -23,7 +23,7 @@
 
         The Secretary of Housing and Urban Development is further directed to permit copies of the plans and specifications (including written approvals of any amendments thereof, or changes or variations therein, as provided herein) for dwellings in connection with which warranties are required by subsection (a) of this section to be made available in their appropriate local offices for inspection or for copying by any purchaser, homeowner, or warrantor during such hours or periods of time as the said Secretary may determine to be reasonable.
 
-([Aug. 2, 1954, ch. 649][/us/act/1954-08-02/ch649], title VIII, § 801, [68 Stat. 642][/us/stat/68/642]; [Pub. L. 85–857, § 13(s)(2)][/us/pl/85/857/s13/s/2], Sept. 2, 1958, [72 Stat. 1266][/us/stat/72/1266]; [Pub. L. 90–19, § 10(e)][/us/pl/90/19/s10/e], May 25, 1967, [81 Stat. 22][/us/stat/81/22].)
+([Aug. 2, 1954, ch. 649][/us/act/1954-08-02/ch649], title VIII, § 801, [68 Stat. 642][/us/stat/68/642]; [Pub. L. 85–857][/us/pl/85/857], § 13(s)(2), Sept. 2, 1958, [72 Stat. 1266][/us/stat/72/1266]; [Pub. L. 90–19][/us/pl/90/19], § 10(e), May 25, 1967, [81 Stat. 22][/us/stat/81/22].)
 
  __Codification__ 
 
@@ -43,7 +43,7 @@
 
  __Study Regarding Home Warranty Plans__ 
 
-    [Pub. L. 102–550, title V, § 514][/us/pl/102/550/s514], Oct. 28, 1992, [106 Stat. 3789][/us/stat/106/3789], directed Secretary of Housing and Urban Development to conduct a study of home and builder’s warranties and protection plans regarding construction of, and materials used in, 1- to 4-family dwellings subject to mortgages insured under title II of the National Housing Act ([12 U.S.C. 1707][/us/usc/t12/s1707] et seq.), and submit a report to Congress regarding findings of the study and any recommendations of the Secretary resulting from the study, not later than the expiration of the 12-month period beginning on Oct. 28, 1992.
+    [Pub. L. 102–550, title V][/us/pl/102/550/tV], § 514, Oct. 28, 1992, [106 Stat. 3789][/us/stat/106/3789], directed Secretary of Housing and Urban Development to conduct a study of home and builder’s warranties and protection plans regarding construction of, and materials used in, 1- to 4-family dwellings subject to mortgages insured under title II of the National Housing Act ([12 U.S.C. 1707][/us/usc/t12/s1707] et seq.), and submit a report to Congress regarding findings of the study and any recommendations of the Secretary resulting from the study, not later than the expiration of the 12-month period beginning on Oct. 28, 1992.
 
 ----------
 
@@ -54,16 +54,16 @@
 
 [/us/act/1954-08-02/ch649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-02%2Fch649
 [/us/stat/68/642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F642
-[/us/pl/85/857/s13/s/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857%2Fs13%2Fs%2F2
+[/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1266
-[/us/pl/90/19/s10/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19%2Fs10%2Fe
+[/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
 [/us/stat/81/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F22
 [/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/pl/85/857/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857%2Fs2
-[/us/pl/102/550/s514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs514
+[/us/pl/102/550/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtV
 [/us/stat/106/3789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3789
 [/us/usc/t12/s1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1707
 

@@ -31,15 +31,15 @@
 
         The ability of the Comptroller of the Currency to bring an enforcement action under this chapter or [section 45 of title 15][/us/usc/t15/s45] does not preclude any private party from enforcing rights granted under Federal or State law in the courts.
 
-([June 13, 1933, ch. 64, § 6][/us/act/1933-06-13/ch64/s6], as added and amended [Pub. L. 111–203, title X][/us/pl/111/203], §§ 1046(a), 1047(b), July 21, 2010, [124 Stat. 2017][/us/stat/124/2017], 2018.)
+([June 13, 1933, ch. 64][/us/act/1933-06-13/ch64], § 6, as added and amended [Pub. L. 111–203, title X][/us/pl/111/203/tX], §§ 1046(a), 1047(b), July 21, 2010, [124 Stat. 2017][/us/stat/124/2017], 2018.)
 
  __Prior Provisions__ 
 
-    A prior section 1465, acts [June 13, 1933, ch. 64, § 6][/us/act/1933-06-13/ch64/s6], [48 Stat. 134][/us/stat/48/134]; [Apr. 27, 1934, ch. 168, § 11][/us/act/1934-04-27/ch168/s11], [48 Stat. 647][/us/stat/48/647]; [May 28, 1935, ch. 150, § 19][/us/act/1935-05-28/ch150/s19], [49 Stat. 297][/us/stat/49/297]; [Pub. L. 101–73, title III, § 301][/us/pl/101/73/s301], Aug. 9, 1989, [103 Stat. 313][/us/stat/103/313], which related to liquid asset requirements, was repealed by [Pub. L. 106–569, title XII, § 1201(a)][/us/pl/106/569/s1201/a], Dec. 27, 2000, [114 Stat. 3032][/us/stat/114/3032].
+    A prior section 1465, acts [June 13, 1933, ch. 64][/us/act/1933-06-13/ch64], § 6, [48 Stat. 134][/us/stat/48/134]; [Apr. 27, 1934, ch. 168][/us/act/1934-04-27/ch168], § 11, [48 Stat. 647][/us/stat/48/647]; [May 28, 1935, ch. 150][/us/act/1935-05-28/ch150], § 19, [49 Stat. 297][/us/stat/49/297]; [Pub. L. 101–73, title III][/us/pl/101/73/tIII], § 301, Aug. 9, 1989, [103 Stat. 313][/us/stat/103/313], which related to liquid asset requirements, was repealed by [Pub. L. 106–569, title XII][/us/pl/106/569/tXII], § 1201(a), Dec. 27, 2000, [114 Stat. 3032][/us/stat/114/3032].
 
  __Amendments__ 
 
-    2010—Subsecs. (c), (d). [Pub. L. 111–203, § 1047(b)][/us/pl/111/203/s1047/b], added subsecs. (c) and (d).
+    2010—Subsecs. (c), (d). [Pub. L. 111–203][/us/pl/111/203], § 1047(b), added subsecs. (c) and (d).
 
  __Effective Date__ 
 
@@ -53,20 +53,20 @@
 ----------
 
 [/us/usc/t15/s45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs45
-[/us/act/1933-06-13/ch64/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-13%2Fch64%2Fs6
-[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/act/1933-06-13/ch64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-13%2Fch64
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2017
-[/us/act/1933-06-13/ch64/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-13%2Fch64%2Fs6
+[/us/act/1933-06-13/ch64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-13%2Fch64
 [/us/stat/48/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F134
-[/us/act/1934-04-27/ch168/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-04-27%2Fch168%2Fs11
+[/us/act/1934-04-27/ch168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-04-27%2Fch168
 [/us/stat/48/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F647
-[/us/act/1935-05-28/ch150/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-05-28%2Fch150%2Fs19
+[/us/act/1935-05-28/ch150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-05-28%2Fch150
 [/us/stat/49/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F297
-[/us/pl/101/73/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs301
+[/us/pl/101/73/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtIII
 [/us/stat/103/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F313
-[/us/pl/106/569/s1201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs1201%2Fa
+[/us/pl/106/569/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2FtXII
 [/us/stat/114/3032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F3032
-[/us/pl/111/203/s1047/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1047%2Fb
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s1048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1048
 [/us/usc/t12/s5551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5551

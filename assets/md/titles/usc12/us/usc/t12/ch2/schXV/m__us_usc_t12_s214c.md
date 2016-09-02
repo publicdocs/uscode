@@ -17,7 +17,7 @@
 
     No conversion of a national banking association into a State bank or its merger or consolidation with a State bank shall take place under this subchapter and [section 321 of this title][/us/usc/t12/s321] in contravention of the law of the State in which the national banking association is located; and no such conversion, merger, or consolidation shall take place under said sections unless under the law of the State in which such national banking association is located State banks may without approval by any State authority convert into and merge or consolidate with national banking associations under limitations or conditions no more restrictive than those contained in [section 214a of this title][/us/usc/t12/s214a] with respect to the conversion of a national bank into, or merger or consolidation of a national bank with, a State bank under State charter.
 
-([Aug. 17, 1950, ch. 729, § 4][/us/act/1950-08-17/ch729/s4], [64 Stat. 456][/us/stat/64/456]; [July 12, 1952, ch. 696][/us/act/1952-07-12/ch696], [66 Stat. 590][/us/stat/66/590]; [Sept. 3, 1954, ch. 1263, § 25][/us/act/1954-09-03/ch1263/s25], [68 Stat. 1235][/us/stat/68/1235].)
+([Aug. 17, 1950, ch. 729][/us/act/1950-08-17/ch729], § 4, [64 Stat. 456][/us/stat/64/456]; [July 12, 1952, ch. 696][/us/act/1952-07-12/ch696], [66 Stat. 590][/us/stat/66/590]; [Sept. 3, 1954, ch. 1263][/us/act/1954-09-03/ch1263], § 25, [68 Stat. 1235][/us/stat/68/1235].)
 
  __Amendments__ 
 
@@ -34,11 +34,11 @@
 
 [/us/usc/t12/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs321
 [/us/usc/t12/s214a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs214a
-[/us/act/1950-08-17/ch729/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-17%2Fch729%2Fs4
+[/us/act/1950-08-17/ch729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-17%2Fch729
 [/us/stat/64/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F456
 [/us/act/1952-07-12/ch696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-12%2Fch696
 [/us/stat/66/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F590
-[/us/act/1954-09-03/ch1263/s25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-03%2Fch1263%2Fs25
+[/us/act/1954-09-03/ch1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-03%2Fch1263
 [/us/stat/68/1235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1235
 [/us/usc/t12/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs321
 [/us/usc/t12/s214a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs214a

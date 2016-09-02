@@ -19,7 +19,7 @@
 
     (b) With respect to any project offered for insurance under this subchapter, the Secretary is authorized to charge and collect reasonable fees for examination, and for inspection during the construction of the project: Provided, That such fees shall not aggregate more than one-half of 1 per centum of the estimated investment.
 
-([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title VII, § 703, as added [Aug. 10, 1948, ch. 832][/us/act/1948-08-10/ch832], title IV, § 401, [62 Stat. 1277][/us/stat/62/1277]; amended [Apr. 20, 1950, ch. 94][/us/act/1950-04-20/ch94], title I, § 122, [64 Stat. 59][/us/stat/64/59]; [Pub. L. 90–19, § 1(a)(3)][/us/pl/90/19/s1/a/3], May 25, 1967, [81 Stat. 17][/us/stat/81/17].)
+([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title VII, § 703, as added [Aug. 10, 1948, ch. 832][/us/act/1948-08-10/ch832], title IV, § 401, [62 Stat. 1277][/us/stat/62/1277]; amended [Apr. 20, 1950, ch. 94][/us/act/1950-04-20/ch94], title I, § 122, [64 Stat. 59][/us/stat/64/59]; [Pub. L. 90–19][/us/pl/90/19], § 1(a)(3), May 25, 1967, [81 Stat. 17][/us/stat/81/17].)
 
  __Amendments__ 
 
@@ -39,7 +39,7 @@
 [/us/stat/62/1277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1277
 [/us/act/1950-04-20/ch94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-04-20%2Fch94
 [/us/stat/64/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F59
-[/us/pl/90/19/s1/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19%2Fs1%2Fa%2F3
+[/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
 [/us/stat/81/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F17
 [/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
 

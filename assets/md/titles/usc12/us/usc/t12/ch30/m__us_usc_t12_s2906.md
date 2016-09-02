@@ -109,7 +109,7 @@
 
             The term “State” has the same meaning as in [section 1813 of this title][/us/usc/t12/s1813].
 
-([Pub. L. 95–128, title VIII, § 807][/us/pl/95/128/s807], as added [Pub. L. 101–73, title XII, § 1212(b)][/us/pl/101/73/s1212/b], Aug. 9, 1989, [103 Stat. 527][/us/stat/103/527]; amended [Pub. L. 102–242, title II, § 222][/us/pl/102/242/s222], Dec. 19, 1991, [105 Stat. 2306][/us/stat/105/2306]; [Pub. L. 103–328, title I, § 110][/us/pl/103/328/s110], Sept. 29, 1994, [108 Stat. 2364][/us/stat/108/2364].)
+([Pub. L. 95–128, title VIII][/us/pl/95/128/tVIII], § 807, as added [Pub. L. 101–73, title XII][/us/pl/101/73/tXII], § 1212(b), Aug. 9, 1989, [103 Stat. 527][/us/stat/103/527]; amended [Pub. L. 102–242, title II][/us/pl/102/242/tII], § 222, Dec. 19, 1991, [105 Stat. 2306][/us/stat/105/2306]; [Pub. L. 103–328, title I][/us/pl/103/328/tI], § 110, Sept. 29, 1994, [108 Stat. 2364][/us/stat/108/2364].)
 
  __References in Text__ 
 
@@ -117,17 +117,17 @@
 
  __Amendments__ 
 
-    1994—Subsec. (b)(1). [Pub. L. 103–328, § 110(b)][/us/pl/103/328/s110/b], redesignated existing provisions as subpar. (A) and former subpars. (A) to (C) as cls. (i) to (iii), respectively, of subpar. (A), inserted subpar. (A) heading, and added subpar. (B).
+    1994—Subsec. (b)(1). [Pub. L. 103–328][/us/pl/103/328], § 110(b), redesignated existing provisions as subpar. (A) and former subpars. (A) to (C) as cls. (i) to (iii), respectively, of subpar. (A), inserted subpar. (A) heading, and added subpar. (B).
 
-    Subsecs. (d), (e). [Pub. L. 103–328, § 110(a)][/us/pl/103/328/s110/a], added subsecs. (d) and (e).
+    Subsecs. (d), (e). [Pub. L. 103–328][/us/pl/103/328], § 110(a), added subsecs. (d) and (e).
 
-    1991—Subsec. (a)(1). [Pub. L. 102–242, § 222(b)(1)][/us/pl/102/242/s222/b/1], substituted “financial supervisory” for “depository institutions regulatory”.
+    1991—Subsec. (a)(1). [Pub. L. 102–242][/us/pl/102/242], § 222(b)(1), substituted “financial supervisory” for “depository institutions regulatory”.
 
-    Subsec. (b)(1)(A). [Pub. L. 102–242, § 222(b)(2)][/us/pl/102/242/s222/b/2], substituted “financial supervisory” for “depository institutions regulatory” in two places.
+    Subsec. (b)(1)(A). [Pub. L. 102–242][/us/pl/102/242], § 222(b)(2), substituted “financial supervisory” for “depository institutions regulatory” in two places.
 
-    Subsec. (b)(1)(B). [Pub. L. 102–242, § 222(a)][/us/pl/102/242/s222/a], inserted “and data” after “facts”.
+    Subsec. (b)(1)(B). [Pub. L. 102–242][/us/pl/102/242], § 222(a), inserted “and data” after “facts”.
 
-    Subsec. (c). [Pub. L. 102–242, § 222(b)(3)][/us/pl/102/242/s222/b/3], substituted “financial supervisory” for “depository institutions regulatory” wherever appearing.
+    Subsec. (c). [Pub. L. 102–242][/us/pl/102/242], § 222(b)(3), substituted “financial supervisory” for “depository institutions regulatory” wherever appearing.
 
 ----------
 
@@ -138,19 +138,19 @@
 
 [/us/usc/t12/s2903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2903
 [/us/usc/t12/s1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813
-[/us/pl/95/128/s807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs807
-[/us/pl/101/73/s1212/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs1212%2Fb
+[/us/pl/95/128/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2FtVIII
+[/us/pl/101/73/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtXII
 [/us/stat/103/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F527
-[/us/pl/102/242/s222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs222
+[/us/pl/102/242/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtII
 [/us/stat/105/2306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2306
-[/us/pl/103/328/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328%2Fs110
+[/us/pl/103/328/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328%2FtI
 [/us/stat/108/2364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2364
 [/us/pl/95/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128
-[/us/pl/103/328/s110/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328%2Fs110%2Fb
-[/us/pl/103/328/s110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328%2Fs110%2Fa
-[/us/pl/102/242/s222/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs222%2Fb%2F1
-[/us/pl/102/242/s222/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs222%2Fb%2F2
-[/us/pl/102/242/s222/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs222%2Fa
-[/us/pl/102/242/s222/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs222%2Fb%2F3
+[/us/pl/103/328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328
+[/us/pl/103/328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328
+[/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
+[/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
+[/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
+[/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
 
 

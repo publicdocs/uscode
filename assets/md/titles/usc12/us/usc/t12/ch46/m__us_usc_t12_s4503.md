@@ -17,7 +17,7 @@
 
     This chapter may not be construed as obligating the Federal Government, either directly or indirectly, to provide any funds to the Federal Home Loan Mortgage Corporation, the Federal National Mortgage Association, or the Federal Home Loan Banks, or to honor, reimburse, or otherwise guarantee any obligation or liability of the Federal Home Loan Mortgage Corporation, the Federal National Mortgage Association, or the Federal Home Loan Banks. This chapter may not be construed as implying that any such enterprise or Bank, or any obligations or securities of such an enterprise or Bank, are backed by the full faith and credit of the United States.
 
-([Pub. L. 102–550, title XIII, § 1304][/us/pl/102/550/s1304], Oct. 28, 1992, [106 Stat. 3944][/us/stat/106/3944].)
+([Pub. L. 102–550, title XIII][/us/pl/102/550/tXIII], § 1304, Oct. 28, 1992, [106 Stat. 3944][/us/stat/106/3944].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/102/550/s1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1304
+[/us/pl/102/550/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIII
 [/us/stat/106/3944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3944
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/stat/106/3941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3941

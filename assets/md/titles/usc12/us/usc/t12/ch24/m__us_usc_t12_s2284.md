@@ -19,7 +19,7 @@
 
     (b) The Board of Directors shall meet at the call of its Chairman. The Board shall determine the general policies which shall govern the operations of the Bank. The Chairman of the Board shall select and effect the appointment of qualified persons to fill such offices as may be provided for in the bylaws, and such persons shall be the executive officers of the Bank and shall discharge such executive functions, powers, and duties as may be provided for in the bylaws or by the Board of Directors. The members of the Board and their designees shall not receive compensation for their services on the Board.
 
-([Pub. L. 93–224, § 5][/us/pl/93/224/s5], Dec. 29, 1973, [87 Stat. 937][/us/stat/87/937].)
+([Pub. L. 93–224][/us/pl/93/224], § 5, Dec. 29, 1973, [87 Stat. 937][/us/stat/87/937].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/93/224/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F224%2Fs5
+[/us/pl/93/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F224
 [/us/stat/87/937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F937
 
 

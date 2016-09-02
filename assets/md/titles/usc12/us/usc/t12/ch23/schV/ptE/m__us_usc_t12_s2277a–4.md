@@ -187,7 +187,7 @@
 
                 For purposes of subparagraph (A)(ii), in any Farm Credit district in which the funding bank has reimbursed 1 or more affiliated associations of the bank for the previously unreimbursed portion of the Financial Assistance Corporation stock held by the associations, the funding bank shall be deemed to be the holder of the shares of Financial Assistance Corporation stock for which the funding bank has provided the reimbursement.
 
-([Pub. L. 92–181, title V, § 5][/us/pl/92/181/s5].55, as added [Pub. L. 100–233, title III, § 302][/us/pl/100/233/s302], Jan. 6, 1988, [101 Stat. 1612][/us/stat/101/1612]; amended [Pub. L. 100–399, title III, § 302(c)][/us/pl/100/399/s302/c]–(e), Aug. 17, 1988, [102 Stat. 994][/us/stat/102/994]; [Pub. L. 101–220, § 6(a)][/us/pl/101/220/s6/a], Dec. 12, 1989, [103 Stat. 1879][/us/stat/103/1879]; [Pub. L. 104–105, title II, § 215(a)(1)][/us/pl/104/105/s215/a/1], (2)(A), (b), (c), Feb. 10, 1996, [110 Stat. 175][/us/stat/110/175], 176, 179; [Pub. L. 107–171, title V, § 5403(a)(1)][/us/pl/107/171/s5403/a/1], May 13, 2002, [116 Stat. 350][/us/stat/116/350]; [Pub. L. 110–234, title V, § 5404][/us/pl/110/234/s5404], May 22, 2008, [122 Stat. 1154][/us/stat/122/1154]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title V, § 5404, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1916.)
+([Pub. L. 92–181, title V][/us/pl/92/181/tV], § 5.55, as added [Pub. L. 100–233, title III][/us/pl/100/233/tIII], § 302, Jan. 6, 1988, [101 Stat. 1612][/us/stat/101/1612]; amended [Pub. L. 100–399, title III][/us/pl/100/399/tIII], § 302(c)–(e), Aug. 17, 1988, [102 Stat. 994][/us/stat/102/994]; [Pub. L. 101–220][/us/pl/101/220], § 6(a), Dec. 12, 1989, [103 Stat. 1879][/us/stat/103/1879]; [Pub. L. 104–105, title II][/us/pl/104/105/tII], § 215(a)(1), (2)(A), (b), (c), Feb. 10, 1996, [110 Stat. 175][/us/stat/110/175], 176, 179; [Pub. L. 107–171, title V][/us/pl/107/171/tV], § 5403(a)(1), May 13, 2002, [116 Stat. 350][/us/stat/116/350]; [Pub. L. 110–234, title V][/us/pl/110/234/tV], § 5404, May 22, 2008, [122 Stat. 1154][/us/stat/122/1154]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title V, § 5404, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1916.)
 
  __Codification__ 
 
@@ -195,79 +195,79 @@
 
  __Amendments__ 
 
-    2008—Subsec. (a)(1). [Pub. L. 110–246, § 5404(a)(1)(A)][/us/pl/110/246/s5404/a/1/A], in introductory provisions, substituted “paragraph (3)” for “paragraph (2)” and struck out “annual” before “premium”.
+    2008—Subsec. (a)(1). [Pub. L. 110–246][/us/pl/110/246], § 5404(a)(1)(A), in introductory provisions, substituted “paragraph (3)” for “paragraph (2)” and struck out “annual” before “premium”.
 
-    Subsec. (a)(1)(A) to (D). [Pub. L. 110–246, § 5404(a)(1)(B)][/us/pl/110/246/s5404/a/1/B], added subpars. (A) and (B) and struck out former subpars. (A) to (D) which described how to calculate the annual premium due from an insured System bank.
+    Subsec. (a)(1)(A) to (D). [Pub. L. 110–246][/us/pl/110/246], § 5404(a)(1)(B), added subpars. (A) and (B) and struck out former subpars. (A) to (D) which described how to calculate the annual premium due from an insured System bank.
 
-    Subsec. (a)(2) to (4). [Pub. L. 110–246, § 5404(a)(2)][/us/pl/110/246/s5404/a/2]–(6), added par. (2), redesignated former pars. (2) and (3) as (3) and (4), respectively, in par. (3), struck out “annual” before “premium”, in par. (4), inserted “or investments” after “loans” in heading and, in introductory provisions, substituted “In this section, the term ‘government-guaranteed’, when applied to a loan or an investment, means a loan, credit, or investment, or portion of a loan, credit, or investment, that is guaranteed—” for “As used in this section and [section 2020(b) of this title][/us/usc/t12/s2020/b], the term ‘government-guaranteed loans’ means loans or credits, or portions of loans or credits, that are guaranteed—”, and struck out former par. (4). Prior to amendment, text read as follows: “In this section and sections 2020(b) and 2277a–5(a) of this title, the term ‘Government Sponsored Enterprise-guaranteed loan’ means a loan or credit, or portion of a loan or credit, that is guaranteed by an entity that is chartered by Congress to serve a public purpose and the debt obligations of which are not explicitly guaranteed by the United States, including the Federal National Mortgage Association, the Federal Home Loan Mortgage Corporation, the Federal Home Loan Bank System, and the Federal Agricultural Mortgage Corporation, but not including any other institution of the Farm Credit System.”
+    Subsec. (a)(2) to (4). [Pub. L. 110–246][/us/pl/110/246], § 5404(a)(2)–(6), added par. (2), redesignated former pars. (2) and (3) as (3) and (4), respectively, in par. (3), struck out “annual” before “premium”, in par. (4), inserted “or investments” after “loans” in heading and, in introductory provisions, substituted “In this section, the term ‘government-guaranteed’, when applied to a loan or an investment, means a loan, credit, or investment, or portion of a loan, credit, or investment, that is guaranteed—” for “As used in this section and [section 2020(b) of this title][/us/usc/t12/s2020/b], the term ‘government-guaranteed loans’ means loans or credits, or portions of loans or credits, that are guaranteed—”, and struck out former par. (4). Prior to amendment, text read as follows: “In this section and sections 2020(b) and 2277a–5(a) of this title, the term ‘Government Sponsored Enterprise-guaranteed loan’ means a loan or credit, or portion of a loan or credit, that is guaranteed by an entity that is chartered by Congress to serve a public purpose and the debt obligations of which are not explicitly guaranteed by the United States, including the Federal National Mortgage Association, the Federal Home Loan Mortgage Corporation, the Federal Home Loan Bank System, and the Federal Agricultural Mortgage Corporation, but not including any other institution of the Farm Credit System.”
 
-    Subsec. (b). [Pub. L. 110–246, § 5404(b)][/us/pl/110/246/s5404/b], struck out “annual” before “premium”.
+    Subsec. (b). [Pub. L. 110–246][/us/pl/110/246], § 5404(b), struck out “annual” before “premium”.
 
-    Subsec. (c). [Pub. L. 110–246, § 5404(c)][/us/pl/110/246/s5404/c], designated existing provisions as par. (1), inserted heading, substituted “(as adjusted under paragraph (2))” for “(adjusted downward to exclude an amount equal to the sum of (1) 90 percent of the guaranteed portions of principal outstanding on Federal Government-guaranteed loans in accrual status made by such banks and (2) 80 percent of the guaranteed portions of principal outstanding on State government-guaranteed loans in accrual status made by such banks, as determined by the Corporation)”, and added par. (2).
+    Subsec. (c). [Pub. L. 110–246][/us/pl/110/246], § 5404(c), designated existing provisions as par. (1), inserted heading, substituted “(as adjusted under paragraph (2))” for “(adjusted downward to exclude an amount equal to the sum of (1) 90 percent of the guaranteed portions of principal outstanding on Federal Government-guaranteed loans in accrual status made by such banks and (2) 80 percent of the guaranteed portions of principal outstanding on State government-guaranteed loans in accrual status made by such banks, as determined by the Corporation)”, and added par. (2).
 
-    Subsec. (d). [Pub. L. 110–246, § 5404(d)(1)][/us/pl/110/246/s5404/d/1], (2), in heading, substituted “loan and investment amounts” for “principal outstanding” and, in introductory provisions, substituted “For the purpose of subsections (a) and (c), the principal outstanding on all loans made by an insured System bank, and the amount outstanding on all investments made by an insured System bank, shall be determined based on—” for “For the purpose of subsections (a), (c), and (e) of this section, the principal outstanding on all loans made by an insured System bank shall be determined based on all loans made—”.
+    Subsec. (d). [Pub. L. 110–246][/us/pl/110/246], § 5404(d)(1), (2), in heading, substituted “loan and investment amounts” for “principal outstanding” and, in introductory provisions, substituted “For the purpose of subsections (a) and (c), the principal outstanding on all loans made by an insured System bank, and the amount outstanding on all investments made by an insured System bank, shall be determined based on—” for “For the purpose of subsections (a), (c), and (e) of this section, the principal outstanding on all loans made by an insured System bank shall be determined based on all loans made—”.
 
-    Subsec. (d)(1) to (3). [Pub. L. 110–246, § 5404(d)(3)][/us/pl/110/246/s5404/d/3], (4), in pars. (1) to (3), inserted “all loans or investments made” after par. designation and, in pars. (1) and (2), inserted “or investments” after “such loans”.
+    Subsec. (d)(1) to (3). [Pub. L. 110–246][/us/pl/110/246], § 5404(d)(3), (4), in pars. (1) to (3), inserted “all loans or investments made” after par. designation and, in pars. (1) and (2), inserted “or investments” after “such loans”.
 
-    Subsec. (e)(3). [Pub. L. 110–246, § 5404(e)(1)][/us/pl/110/246/s5404/e/1], substituted “the secure base amount” for “the average secure base amount for the calendar year (as calculated on an average daily balance basis)”.
+    Subsec. (e)(3). [Pub. L. 110–246][/us/pl/110/246], § 5404(e)(1), substituted “the secure base amount” for “the average secure base amount for the calendar year (as calculated on an average daily balance basis)”.
 
-    Subsec. (e)(4)(B). [Pub. L. 110–246, § 5404(e)(2)][/us/pl/110/246/s5404/e/2], added subpar. (B) and struck out former subpar. (B) which read as follows: “there shall be credited to the Allocated Insurance Reserves Account of each insured System bank an amount that bears the same ratio to the total amount (less any amount credited under subparagraph (A)) as the average principal outstanding for the 3-year period ending on the end of the calendar year on loans made by the bank that are in accrual status bears to the average principal outstanding for the 3-year period ending on the end of the calendar year on loans made by all insured System banks that are in accrual status (excluding, in each case, the guaranteed portions of loans described in subparagraph (C) or (D) of subsection (a)(1) of this section).”
+    Subsec. (e)(4)(B). [Pub. L. 110–246][/us/pl/110/246], § 5404(e)(2), added subpar. (B) and struck out former subpar. (B) which read as follows: “there shall be credited to the Allocated Insurance Reserves Account of each insured System bank an amount that bears the same ratio to the total amount (less any amount credited under subparagraph (A)) as the average principal outstanding for the 3-year period ending on the end of the calendar year on loans made by the bank that are in accrual status bears to the average principal outstanding for the 3-year period ending on the end of the calendar year on loans made by all insured System banks that are in accrual status (excluding, in each case, the guaranteed portions of loans described in subparagraph (C) or (D) of subsection (a)(1) of this section).”
 
-    Subsec. (e)(6)(A). [Pub. L. 110–246, § 5404(e)(3)(A)(i)][/us/pl/110/246/s5404/e/3/A/i], struck out “beginning more than 8 years after the date on which the aggregate of the amounts in the Farm Credit Insurance Fund exceeds the secure base amount, but not earlier than January 1, 2005” after “calendar year” in introductory provisions.
+    Subsec. (e)(6)(A). [Pub. L. 110–246][/us/pl/110/246], § 5404(e)(3)(A)(i), struck out “beginning more than 8 years after the date on which the aggregate of the amounts in the Farm Credit Insurance Fund exceeds the secure base amount, but not earlier than January 1, 2005” after “calendar year” in introductory provisions.
 
-    Subsec. (e)(6)(A)(i). [Pub. L. 110–246, § 5404(e)(3)(A)(ii)][/us/pl/110/246/s5404/e/3/A/ii], added cl. (i) and struck out former cl. (i) which read as follows: “subject to subparagraphs (D) and (F), pay to each insured System bank, in a manner determined by the Corporation, an amount equal to the lesser of—
+    Subsec. (e)(6)(A)(i). [Pub. L. 110–246][/us/pl/110/246], § 5404(e)(3)(A)(ii), added cl. (i) and struck out former cl. (i) which read as follows: “subject to subparagraphs (D) and (F), pay to each insured System bank, in a manner determined by the Corporation, an amount equal to the lesser of—
 
     “(I) 20 percent of the balance in the insured System bank’s Allocated Insurance Reserves Account as of the preceding December 31; or
 
     “(II) 20 percent of the balance in the bank’s Allocated Insurance Reserves Account on the date of the payment; and”.
 
-    Subsec. (e)(6)(A)(ii). [Pub. L. 110–246, § 5404(e)(3)(A)(iii)][/us/pl/110/246/s5404/e/3/A/iii], substituted “subparagraphs (C) and (E)” for “subparagraphs (C), (E), and (F)” and “at the time of the termination of the Financial Assistance Corporation, of the balance in the Allocated Insurance Reserves Account established under paragraph (1)(B).” for “, of the lesser of—
+    Subsec. (e)(6)(A)(ii). [Pub. L. 110–246][/us/pl/110/246], § 5404(e)(3)(A)(iii), substituted “subparagraphs (C) and (E)” for “subparagraphs (C), (E), and (F)” and “at the time of the termination of the Financial Assistance Corporation, of the balance in the Allocated Insurance Reserves Account established under paragraph (1)(B).” for “, of the lesser of—
 
     “(I) 20 percent of the balance in the Allocated Insurance Reserves Account established under paragraph (1)(B) as of the preceding December 31; or
 
     “(II) 20 percent of the balance in the Allocated Insurance Reserves Account established under paragraph (1)(B) on the date of the payment.”
 
-    Subsec. (e)(6)(C)(i). [Pub. L. 110–246, § 5404(e)(3)(B)(i)][/us/pl/110/246/s5404/e/3/B/i], struck out “(in addition to the amounts described in subparagraph (F)(ii))” after “an amount equal to $56,000,000”.
+    Subsec. (e)(6)(C)(i). [Pub. L. 110–246][/us/pl/110/246], § 5404(e)(3)(B)(i), struck out “(in addition to the amounts described in subparagraph (F)(ii))” after “an amount equal to $56,000,000”.
 
-    Subsec. (e)(6)(C)(ii). [Pub. L. 110–246, § 5404(e)(3)(B)(ii)][/us/pl/110/246/s5404/e/3/B/ii], added cl. (ii) and struck out former cl. (ii) which related to wind down and termination of the Allocated Insurance Reserves Account established under subsec. (e)(1) of this section.
+    Subsec. (e)(6)(C)(ii). [Pub. L. 110–246][/us/pl/110/246], § 5404(e)(3)(B)(ii), added cl. (ii) and struck out former cl. (ii) which related to wind down and termination of the Allocated Insurance Reserves Account established under subsec. (e)(1) of this section.
 
-    Subsec. (e)(6)(F). [Pub. L. 110–246, § 5404(e)(3)(C)][/us/pl/110/246/s5404/e/3/C], struck out subpar. (F) which related to determination of amount of initial payment made to each payee under subsec. (e)(6)(A) of this section.
+    Subsec. (e)(6)(F). [Pub. L. 110–246][/us/pl/110/246], § 5404(e)(3)(C), struck out subpar. (F) which related to determination of amount of initial payment made to each payee under subsec. (e)(6)(A) of this section.
 
-    2002—Subsec. (a)(1)(A). [Pub. L. 107–171, § 5403(a)(1)(A)(i)(I)][/us/pl/107/171/s5403/a/1/A/i/I], substituted “loans provided for in subparagraphs (C) and (D)” for “government-guaranteed loans provided for in subparagraph (C)”.
+    2002—Subsec. (a)(1)(A). [Pub. L. 107–171][/us/pl/107/171], § 5403(a)(1)(A)(i)(I), substituted “loans provided for in subparagraphs (C) and (D)” for “government-guaranteed loans provided for in subparagraph (C)”.
 
-    Subsec. (a)(1)(D). [Pub. L. 107–171, § 5403(a)(1)(A)(i)(II)][/us/pl/107/171/s5403/a/1/A/i/II]–(IV), added subpar. (D).
+    Subsec. (a)(1)(D). [Pub. L. 107–171][/us/pl/107/171], § 5403(a)(1)(A)(i)(II)–(IV), added subpar. (D).
 
-    Subsec. (a)(4). [Pub. L. 107–171, § 5403(a)(1)(A)(ii)][/us/pl/107/171/s5403/a/1/A/ii], added par. (4).
+    Subsec. (a)(4). [Pub. L. 107–171][/us/pl/107/171], § 5403(a)(1)(A)(ii), added par. (4).
 
-    Subsec. (e)(4)(B). [Pub. L. 107–171, § 5403(a)(1)(B)][/us/pl/107/171/s5403/a/1/B], substituted “loans described in subparagraph (C) or (D) of subsection (a)(1) of this section” for “government-guaranteed loans described in subsection (a)(1)(C) of this section”.
+    Subsec. (e)(4)(B). [Pub. L. 107–171][/us/pl/107/171], § 5403(a)(1)(B), substituted “loans described in subparagraph (C) or (D) of subsection (a)(1) of this section” for “government-guaranteed loans described in subsection (a)(1)(C) of this section”.
 
-    1996—Subsec. (a). [Pub. L. 104–105, § 215(a)(1)(A)][/us/pl/104/105/s215/a/1/A], substituted “If at the end of any calendar year the aggregate of amounts in the Farm Credit Insurance Fund does not exceed the secure base amount, subject to paragraph (2), the annual premium due from any insured System bank for the calendar year” for “Until the aggregate of amounts in the Farm Credit Insurance Fund exceeds the secure base amount, the annual premium due from any insured System bank for any calendar year”.
+    1996—Subsec. (a). [Pub. L. 104–105][/us/pl/104/105], § 215(a)(1)(A), substituted “If at the end of any calendar year the aggregate of amounts in the Farm Credit Insurance Fund does not exceed the secure base amount, subject to paragraph (2), the annual premium due from any insured System bank for the calendar year” for “Until the aggregate of amounts in the Farm Credit Insurance Fund exceeds the secure base amount, the annual premium due from any insured System bank for any calendar year”.
 
-    Subsec. (a)(2), (3). [Pub. L. 104–105, § 215(a)(1)(B)][/us/pl/104/105/s215/a/1/B], (C), added par. (2) and redesignated former par. (2) as (3).
+    Subsec. (a)(2), (3). [Pub. L. 104–105][/us/pl/104/105], § 215(a)(1)(B), (C), added par. (2) and redesignated former par. (2) as (3).
 
-    Subsec. (b). [Pub. L. 104–105, § 215(a)(2)(A)][/us/pl/104/105/s215/a/2/A], substituted “Farm Credit Insurance Fund” for “Insurance Fund” in two places, and “subsection (a)(1)” for “subsection (a)”, and struck out “for the following calendar year” after “each insured System bank”.
+    Subsec. (b). [Pub. L. 104–105][/us/pl/104/105], § 215(a)(2)(A), substituted “Farm Credit Insurance Fund” for “Insurance Fund” in two places, and “subsection (a)(1)” for “subsection (a)”, and struck out “for the following calendar year” after “each insured System bank”.
 
-    Subsec. (d). [Pub. L. 104–105, § 215(c)][/us/pl/104/105/s215/c], in introductory provisions, substituted “subsections (a), (c), and (e) of this section” for “subsections (a) and (c) of this section” and “an insured System bank” for “a Farm Credit Bank”, and in pars. (1) through (3), substituted “insured System bank” for “Farm Credit Bank”.
+    Subsec. (d). [Pub. L. 104–105][/us/pl/104/105], § 215(c), in introductory provisions, substituted “subsections (a), (c), and (e) of this section” for “subsections (a) and (c) of this section” and “an insured System bank” for “a Farm Credit Bank”, and in pars. (1) through (3), substituted “insured System bank” for “Farm Credit Bank”.
 
-    Subsec. (e). [Pub. L. 104–105, § 215(b)][/us/pl/104/105/s215/b], added subsec. (e).
+    Subsec. (e). [Pub. L. 104–105][/us/pl/104/105], § 215(b), added subsec. (e).
 
-    1989—Subsec. (a). [Pub. L. 101–220, § 6(a)(1)][/us/pl/101/220/s6/a/1], added subsec. (a) and struck out former subsec. (a) which read as follows: “Until the aggregate of amounts in the Farm Credit Insurance Fund exceeds the secure base amount, the annual premium due from any insured System bank for any calendar year shall be equal to the sum of—
+    1989—Subsec. (a). [Pub. L. 101–220][/us/pl/101/220], § 6(a)(1), added subsec. (a) and struck out former subsec. (a) which read as follows: “Until the aggregate of amounts in the Farm Credit Insurance Fund exceeds the secure base amount, the annual premium due from any insured System bank for any calendar year shall be equal to the sum of—
 
     “(1) the annual average principal outstanding for such year on loans made by the bank that are in accrual status, multiplied by 0.0015; and
 
     “(2) the annual average principal outstanding for such year on loans made by the bank that are in nonaccrual status, multiplied by 0.0025.”
 
-    Subsec. (b). [Pub. L. 101–220, § 6(a)(2)][/us/pl/101/220/s6/a/2], inserted “, as determined under subsection (a),” after “calendar year”.
+    Subsec. (b). [Pub. L. 101–220][/us/pl/101/220], § 6(a)(2), inserted “, as determined under subsection (a),” after “calendar year”.
 
-    Subsec. (c). [Pub. L. 101–220, § 6(a)(3)][/us/pl/101/220/s6/a/3], inserted “(adjusted downward to exclude an amount equal to the sum of (1) 90 percent of the guaranteed portions of principal outstanding on Federal Government-guaranteed loans in accrual status made by such banks and (2) 80 percent of the guaranteed portions of principal outstanding on State government-guaranteed loans in accrual status made by such banks, as determined by the Corporation)” after “such time”.
+    Subsec. (c). [Pub. L. 101–220][/us/pl/101/220], § 6(a)(3), inserted “(adjusted downward to exclude an amount equal to the sum of (1) 90 percent of the guaranteed portions of principal outstanding on Federal Government-guaranteed loans in accrual status made by such banks and (2) 80 percent of the guaranteed portions of principal outstanding on State government-guaranteed loans in accrual status made by such banks, as determined by the Corporation)” after “such time”.
 
-    Subsec. (d). [Pub. L. 101–220, § 6(a)(4)][/us/pl/101/220/s6/a/4], in introductory provisions, substituted “subsections (a) and (c) of this section” for “subsection (a) of this section” and struck out “intermediate term” after “outstanding on all”, inserted par. (1), and struck out former par. (1) which read as follows: “by the production credit associations in the district in which such bank is located;”.
+    Subsec. (d). [Pub. L. 101–220][/us/pl/101/220], § 6(a)(4), in introductory provisions, substituted “subsections (a) and (c) of this section” for “subsection (a) of this section” and struck out “intermediate term” after “outstanding on all”, inserted par. (1), and struck out former par. (1) which read as follows: “by the production credit associations in the district in which such bank is located;”.
 
-    1988—Subsec. (d). [Pub. L. 100–399, § 302(c)][/us/pl/100/399/s302/c], substituted in introductory provisions “intermediate term loans made by a Farm Credit Bank” for “loans made by a Federal intermediate credit bank”.
+    1988—Subsec. (d). [Pub. L. 100–399][/us/pl/100/399], § 302(c), substituted in introductory provisions “intermediate term loans made by a Farm Credit Bank” for “loans made by a Federal intermediate credit bank”.
 
-    Subsec. (d)(2). [Pub. L. 100–399, § 302(d)][/us/pl/100/399/s302/d], (e), substituted “[section 2015(b)(1)(B) of this title][/us/usc/t12/s2015/b/1/B]” for “[section 2074(a)(2) of this title][/us/usc/t12/s2074/a/2]” and “Farm Credit Bank” for “Federal intermediate credit bank”.
+    Subsec. (d)(2). [Pub. L. 100–399][/us/pl/100/399], § 302(d), (e), substituted “[section 2015(b)(1)(B) of this title][/us/usc/t12/s2015/b/1/B]” for “[section 2074(a)(2) of this title][/us/usc/t12/s2074/a/2]” and “Farm Credit Bank” for “Federal intermediate credit bank”.
 
-    Subsec. (d)(3). [Pub. L. 100–399, § 302(e)][/us/pl/100/399/s302/e], substituted “Farm Credit Bank” for “Federal intermediate credit bank”.
+    Subsec. (d)(3). [Pub. L. 100–399][/us/pl/100/399], § 302(e), substituted “Farm Credit Bank” for “Federal intermediate credit bank”.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -287,7 +287,7 @@
 
  __GAO Reports on Risk-Based Insurance Premiums, Access to Association Capital, Supplemental Premiums, and Consolidation__ 
 
-[Pub. L. 102–552, title II, § 204][/us/pl/102/552/s204], Oct. 28, 1992, [106 Stat. 4106][/us/stat/106/4106], as amended by [Pub. L. 104–316, title I, § 106(e)][/us/pl/104/316/s106/e], Oct. 19, 1996, [110 Stat. 3831][/us/stat/110/3831], provided that:
+[Pub. L. 102–552, title II][/us/pl/102/552/tII], § 204, Oct. 28, 1992, [106 Stat. 4106][/us/stat/106/4106], as amended by [Pub. L. 104–316, title I][/us/pl/104/316/tI], § 106(e), Oct. 19, 1996, [110 Stat. 3831][/us/stat/110/3831], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -360,59 +360,59 @@
 
 [/us/usc/t12/s2279b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2279b
 [/us/usc/t12/s2015/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2015%2Fb%2F1%2FB
-[/us/pl/92/181/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs5
-[/us/pl/100/233/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs302
+[/us/pl/92/181/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtV
+[/us/pl/100/233/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtIII
 [/us/stat/101/1612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1612
-[/us/pl/100/399/s302/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs302%2Fc
+[/us/pl/100/399/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtIII
 [/us/stat/102/994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F994
-[/us/pl/101/220/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F220%2Fs6%2Fa
+[/us/pl/101/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F220
 [/us/stat/103/1879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1879
-[/us/pl/104/105/s215/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2Fs215%2Fa%2F1
+[/us/pl/104/105/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2FtII
 [/us/stat/110/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F175
-[/us/pl/107/171/s5403/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs5403%2Fa%2F1
+[/us/pl/107/171/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtV
 [/us/stat/116/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F350
-[/us/pl/110/234/s5404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs5404
+[/us/pl/110/234/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtV
 [/us/stat/122/1154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1154
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s5404/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs5404%2Fa%2F1%2FA
-[/us/pl/110/246/s5404/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs5404%2Fa%2F1%2FB
-[/us/pl/110/246/s5404/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs5404%2Fa%2F2
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/usc/t12/s2020/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2020%2Fb
-[/us/pl/110/246/s5404/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs5404%2Fb
-[/us/pl/110/246/s5404/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs5404%2Fc
-[/us/pl/110/246/s5404/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs5404%2Fd%2F1
-[/us/pl/110/246/s5404/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs5404%2Fd%2F3
-[/us/pl/110/246/s5404/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs5404%2Fe%2F1
-[/us/pl/110/246/s5404/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs5404%2Fe%2F2
-[/us/pl/110/246/s5404/e/3/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs5404%2Fe%2F3%2FA%2Fi
-[/us/pl/110/246/s5404/e/3/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs5404%2Fe%2F3%2FA%2Fii
-[/us/pl/110/246/s5404/e/3/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs5404%2Fe%2F3%2FA%2Fiii
-[/us/pl/110/246/s5404/e/3/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs5404%2Fe%2F3%2FB%2Fi
-[/us/pl/110/246/s5404/e/3/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs5404%2Fe%2F3%2FB%2Fii
-[/us/pl/110/246/s5404/e/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs5404%2Fe%2F3%2FC
-[/us/pl/107/171/s5403/a/1/A/i/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs5403%2Fa%2F1%2FA%2Fi%2FI
-[/us/pl/107/171/s5403/a/1/A/i/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs5403%2Fa%2F1%2FA%2Fi%2FII
-[/us/pl/107/171/s5403/a/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs5403%2Fa%2F1%2FA%2Fii
-[/us/pl/107/171/s5403/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs5403%2Fa%2F1%2FB
-[/us/pl/104/105/s215/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2Fs215%2Fa%2F1%2FA
-[/us/pl/104/105/s215/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2Fs215%2Fa%2F1%2FB
-[/us/pl/104/105/s215/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2Fs215%2Fa%2F2%2FA
-[/us/pl/104/105/s215/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2Fs215%2Fc
-[/us/pl/104/105/s215/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2Fs215%2Fb
-[/us/pl/101/220/s6/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F220%2Fs6%2Fa%2F1
-[/us/pl/101/220/s6/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F220%2Fs6%2Fa%2F2
-[/us/pl/101/220/s6/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F220%2Fs6%2Fa%2F3
-[/us/pl/101/220/s6/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F220%2Fs6%2Fa%2F4
-[/us/pl/100/399/s302/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs302%2Fc
-[/us/pl/100/399/s302/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs302%2Fd
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/104/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105
+[/us/pl/104/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105
+[/us/pl/104/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105
+[/us/pl/104/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105
+[/us/pl/104/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105
+[/us/pl/101/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F220
+[/us/pl/101/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F220
+[/us/pl/101/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F220
+[/us/pl/101/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F220
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/usc/t12/s2015/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2015%2Fb%2F1%2FB
 [/us/usc/t12/s2074/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2074%2Fa%2F2
-[/us/pl/100/399/s302/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs302%2Fe
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
@@ -429,9 +429,9 @@
 [/us/pl/100/233/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs401
 [/us/pl/100/399/s1001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs1001%2Fb
 [/us/usc/t12/s2002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2002
-[/us/pl/102/552/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2Fs204
+[/us/pl/102/552/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2FtII
 [/us/stat/106/4106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4106
-[/us/pl/104/316/s106/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs106%2Fe
+[/us/pl/104/316/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2FtI
 [/us/stat/110/3831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3831
 
 

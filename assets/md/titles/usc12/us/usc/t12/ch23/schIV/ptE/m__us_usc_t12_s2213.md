@@ -17,7 +17,7 @@
 
     The corporations organized under this part shall be institutions of the Farm Credit System and shall be subject to the same regulation and examination by the Farm Credit Administration as are the organizing bank or banks under this chapter.
 
-([Pub. L. 92–181, title IV, § 4][/us/pl/92/181/s4].27, as added [Pub. L. 96–592, title IV, § 404][/us/pl/96/592/s404], Dec. 24, 1980, [94 Stat. 3447][/us/stat/94/3447]; amended [Pub. L. 99–205, title II, § 205(f)(10)][/us/pl/99/205/s205/f/10], Dec. 23, 1985, [99 Stat. 1706][/us/stat/99/1706]; [Pub. L. 100–233, title VIII, § 802(t)][/us/pl/100/233/s802/t], Jan. 6, 1988, [101 Stat. 1712][/us/stat/101/1712].)
+([Pub. L. 92–181, title IV][/us/pl/92/181/tIV], § 4.27, as added [Pub. L. 96–592, title IV][/us/pl/96/592/tIV], § 404, Dec. 24, 1980, [94 Stat. 3447][/us/stat/94/3447]; amended [Pub. L. 99–205, title II][/us/pl/99/205/tII], § 205(f)(10), Dec. 23, 1985, [99 Stat. 1706][/us/stat/99/1706]; [Pub. L. 100–233, title VIII][/us/pl/100/233/tVIII], § 802(t), Jan. 6, 1988, [101 Stat. 1712][/us/stat/101/1712].)
 
  __Amendments__ 
 
@@ -36,12 +36,12 @@
 ----------
 ----------
 
-[/us/pl/92/181/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs4
-[/us/pl/96/592/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592%2Fs404
+[/us/pl/92/181/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtIV
+[/us/pl/96/592/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592%2FtIV
 [/us/stat/94/3447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3447
-[/us/pl/99/205/s205/f/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2Fs205%2Ff%2F10
+[/us/pl/99/205/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2FtII
 [/us/stat/99/1706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1706
-[/us/pl/100/233/s802/t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs802%2Ft
+[/us/pl/100/233/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtVIII
 [/us/stat/101/1712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1712
 [/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
 [/us/pl/99/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205

@@ -19,13 +19,13 @@
 
     (b) The Farm Credit Bank for each district shall annually obtain from associations under its supervision reports of activities under programs developed pursuant to subsection (a) and progress toward program objectives. On the basis of such reports, the bank shall provide to the Farm Credit Administration an annual report summarizing the operations and achievements in its district under such programs.
 
-([Pub. L. 92–181, title IV, § 4][/us/pl/92/181/s4].19, as added [Pub. L. 96–592, title IV, § 403][/us/pl/96/592/s403], Dec. 24, 1980, [94 Stat. 3446][/us/stat/94/3446]; amended [Pub. L. 100–399, title IX, § 901(i)][/us/pl/100/399/s901/i], (j), Aug. 17, 1988, [102 Stat. 1007][/us/stat/102/1007].)
+([Pub. L. 92–181, title IV][/us/pl/92/181/tIV], § 4.19, as added [Pub. L. 96–592, title IV][/us/pl/96/592/tIV], § 403, Dec. 24, 1980, [94 Stat. 3446][/us/stat/94/3446]; amended [Pub. L. 100–399, title IX][/us/pl/100/399/tIX], § 901(i), (j), Aug. 17, 1988, [102 Stat. 1007][/us/stat/102/1007].)
 
  __Amendments__ 
 
-    1988—Subsec. (a). [Pub. L. 100–399, § 901(i)][/us/pl/100/399/s901/i], inserted “Farm Credit Bank” after “district”.
+    1988—Subsec. (a). [Pub. L. 100–399][/us/pl/100/399], § 901(i), inserted “Farm Credit Bank” after “district”.
 
-    Subsec. (b). [Pub. L. 100–399, § 901(j)][/us/pl/100/399/s901/j], substituted “The Farm Credit Bank for each district” for “The Federal land bank and the Federal intermediate credit bank for each district”, “under its supervision” for “under their supervision”, “subsection (a)” for “subsection (a) of this section”, “the bank shall” for “the banks shall”, “an annual report” for “a joint annual report”, and “achievements in its district” for “achievements in their district”.
+    Subsec. (b). [Pub. L. 100–399][/us/pl/100/399], § 901(j), substituted “The Farm Credit Bank for each district” for “The Federal land bank and the Federal intermediate credit bank for each district”, “under its supervision” for “under their supervision”, “subsection (a)” for “subsection (a) of this section”, “the bank shall” for “the banks shall”, “an annual report” for “a joint annual report”, and “achievements in its district” for “achievements in their district”.
 
  __Effective Date of 1988 Amendment__ 
 
@@ -38,13 +38,13 @@
 ----------
 ----------
 
-[/us/pl/92/181/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs4
-[/us/pl/96/592/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592%2Fs403
+[/us/pl/92/181/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtIV
+[/us/pl/96/592/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592%2FtIV
 [/us/stat/94/3446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3446
-[/us/pl/100/399/s901/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs901%2Fi
+[/us/pl/100/399/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtIX
 [/us/stat/102/1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1007
-[/us/pl/100/399/s901/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs901%2Fi
-[/us/pl/100/399/s901/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs901%2Fj
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/100/233/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs401
 [/us/pl/100/399/s1001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs1001%2Fb

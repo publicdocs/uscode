@@ -35,13 +35,13 @@
 
         (3) the borrower’s right to review under [section 2202 of this title][/us/usc/t12/s2202].
 
-([Pub. L. 92–181, title IV, § 4][/us/pl/92/181/s4].13B, formerly § 4.13, Dec. 10, 1971, [85 Stat. 613][/us/stat/85/613], renumbered § 4.13B and amended [Pub. L. 99–205, title III][/us/pl/99/205], §§ 301(a), 302, Dec. 23, 1985, [99 Stat. 1707][/us/stat/99/1707], 1708; [Pub. L. 100–233, title I, § 105][/us/pl/100/233/s105], Jan. 6, 1988, [101 Stat. 1579][/us/stat/101/1579].)
+([Pub. L. 92–181, title IV][/us/pl/92/181/tIV], § 4.13B, formerly § 4.13, Dec. 10, 1971, [85 Stat. 613][/us/stat/85/613], renumbered § 4.13B and amended [Pub. L. 99–205, title III][/us/pl/99/205/tIII], §§ 301(a), 302, Dec. 23, 1985, [99 Stat. 1707][/us/stat/99/1707], 1708; [Pub. L. 100–233, title I][/us/pl/100/233/tI], § 105, Jan. 6, 1988, [101 Stat. 1579][/us/stat/101/1579].)
 
  __Amendments__ 
 
     1988—[Pub. L. 100–233][/us/pl/100/233] amended section generally. Prior to amendment, section read as follows: “Every applicant for a loan from an institution of the System shall be entitled to prompt written notice of action on his application, and, if the loan applied for is reduced or denied, the reason for such action, and of the applicant’s right to review under [section 2202 of this title][/us/usc/t12/s2202].”
 
-    1985—[Pub. L. 99–205, § 302][/us/pl/99/205/s302], provided for a “written” notice and for the applicant’s right to review under [section 2202 of this title][/us/usc/t12/s2202].
+    1985—[Pub. L. 99–205][/us/pl/99/205], § 302, provided for a “written” notice and for the applicant’s right to review under [section 2202 of this title][/us/usc/t12/s2202].
 
  __Effective Date of 1985 Amendment__ 
 
@@ -57,15 +57,15 @@
 [/us/usc/t12/s2202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2202
 [/us/usc/t12/s2202a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2202a
 [/us/usc/t12/s2202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2202
-[/us/pl/92/181/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs4
+[/us/pl/92/181/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtIV
 [/us/stat/85/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F613
-[/us/pl/99/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205
+[/us/pl/99/205/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2FtIII
 [/us/stat/99/1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1707
-[/us/pl/100/233/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs105
+[/us/pl/100/233/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtI
 [/us/stat/101/1579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1579
 [/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
 [/us/usc/t12/s2202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2202
-[/us/pl/99/205/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2Fs302
+[/us/pl/99/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205
 [/us/usc/t12/s2202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2202
 [/us/pl/99/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205
 [/us/pl/99/205/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2Fs401

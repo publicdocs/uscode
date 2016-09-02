@@ -127,7 +127,7 @@
 
         Nothing in this chapter shall apply to the examination by or disclosure to the Bureau of Consumer Financial Protection of financial records or information in the exercise of its authority with respect to a financial institution.
 
-([Pub. L. 95–630, title XI, § 1113][/us/pl/95/630/s1113], Nov. 10, 1978, [92 Stat. 3706][/us/stat/92/3706]; [Pub. L. 98–21, title I, § 121(c)(3)(C)][/us/pl/98/21/s121/c/3/C], Apr. 20, 1983, [97 Stat. 83][/us/stat/97/83]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 99–570, title I, § 1353(b)][/us/pl/99/570/s1353/b], Oct. 27, 1986, [100 Stat. 3207–22][/us/stat/100/3207-22]; [Pub. L. 100–690, title VI, § 6186(c)][/us/pl/100/690/s6186/c], Nov. 18, 1988, [102 Stat. 4358][/us/stat/102/4358]; [Pub. L. 101–73, title IX, § 942][/us/pl/101/73/s942], Aug. 9, 1989, [103 Stat. 497][/us/stat/103/497]; [Pub. L. 101–647, title I, § 104][/us/pl/101/647/s104], Nov. 29, 1990, [104 Stat. 4791][/us/stat/104/4791]; [Pub. L. 102–242, title IV, § 411(2)][/us/pl/102/242/s411/2]–(4), Dec. 19, 1991, [105 Stat. 2375][/us/stat/105/2375]; [Pub. L. 102–568, title VI, § 603(a)][/us/pl/102/568/s603/a], Oct. 29, 1992, [106 Stat. 4342][/us/stat/106/4342]; [Pub. L. 105–264, § 2(c)(1)][/us/pl/105/264/s2/c/1], Oct. 19, 1998, [112 Stat. 2351][/us/stat/112/2351]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 110–234, title XIV, § 14205][/us/pl/110/234/s14205], May 22, 2008, [122 Stat. 1459][/us/stat/122/1459]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XIV, § 14205, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2221; [Pub. L. 110–289, div. A, title II, § 1216(a)][/us/pl/110/289/s1216/a], July 30, 2008, [122 Stat. 2792][/us/stat/122/2792]; [Pub. L. 111–203, title X, § 1099(3)][/us/pl/111/203/s1099/3], July 21, 2010, [124 Stat. 2105][/us/stat/124/2105].)
+([Pub. L. 95–630, title XI][/us/pl/95/630/tXI], § 1113, Nov. 10, 1978, [92 Stat. 3706][/us/stat/92/3706]; [Pub. L. 98–21, title I][/us/pl/98/21/tI], § 121(c)(3)(C), Apr. 20, 1983, [97 Stat. 83][/us/stat/97/83]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 99–570, title I][/us/pl/99/570/tI], § 1353(b), Oct. 27, 1986, [100 Stat. 3207–22][/us/stat/100/3207-22]; [Pub. L. 100–690, title VI][/us/pl/100/690/tVI], § 6186(c), Nov. 18, 1988, [102 Stat. 4358][/us/stat/102/4358]; [Pub. L. 101–73, title IX][/us/pl/101/73/tIX], § 942, Aug. 9, 1989, [103 Stat. 497][/us/stat/103/497]; [Pub. L. 101–647, title I][/us/pl/101/647/tI], § 104, Nov. 29, 1990, [104 Stat. 4791][/us/stat/104/4791]; [Pub. L. 102–242, title IV][/us/pl/102/242/tIV], § 411(2)–(4), Dec. 19, 1991, [105 Stat. 2375][/us/stat/105/2375]; [Pub. L. 102–568, title VI][/us/pl/102/568/tVI], § 603(a), Oct. 29, 1992, [106 Stat. 4342][/us/stat/106/4342]; [Pub. L. 105–264][/us/pl/105/264], § 2(c)(1), Oct. 19, 1998, [112 Stat. 2351][/us/stat/112/2351]; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 110–234, title XIV][/us/pl/110/234/tXIV], § 14205, May 22, 2008, [122 Stat. 1459][/us/stat/122/1459]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XIV, § 14205, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2221; [Pub. L. 110–289, div. A, title II][/us/pl/110/289/dA/tII], § 1216(a), July 30, 2008, [122 Stat. 2792][/us/stat/122/2792]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1099(3), July 21, 2010, [124 Stat. 2105][/us/stat/124/2105].)
 
  __References in Text__ 
 
@@ -141,7 +141,7 @@
 
     The Social Security Act, referred to in subsec. (k)(1), is [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], [49 Stat. 620][/us/stat/49/620]. Title II of such Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42][/us/usc/t42/s1305] and Tables.
 
-    The Railroad Retirement Act of 1974, referred to in subsec. (k)(1), is [act Aug. 29, 1935, ch. 812][/us/act/1935-08-29/ch812], as amended, generally by [Pub. L. 93–445, title I, § 101][/us/pl/93/445/s101], Oct. 16, 1974, [88 Stat. 1305][/us/stat/88/1305], which is classified generally to subchapter IV (§ 231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding [section 231 of Title 45][/us/usc/t45/s231], [section 231t of Title 45][/us/usc/t45/s231t], and Tables.
+    The Railroad Retirement Act of 1974, referred to in subsec. (k)(1), is [act Aug. 29, 1935, ch. 812][/us/act/1935-08-29/ch812], as amended, generally by [Pub. L. 93–445, title I][/us/pl/93/445/tI], § 101, Oct. 16, 1974, [88 Stat. 1305][/us/stat/88/1305], which is classified generally to subchapter IV (§ 231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding [section 231 of Title 45][/us/usc/t45/s231], [section 231t of Title 45][/us/usc/t45/s231t], and Tables.
 
  __Codification__ 
 
@@ -151,7 +151,7 @@
 
     2010—Subsec. (r). [Pub. L. 111–203][/us/pl/111/203] added subsec. (r).
 
-    2008—Subsec. (k). [Pub. L. 110–246, § 14205][/us/pl/110/246/s14205], inserted heading, added pars. (2) and (3), and struck out former par. (2) which read as follows: “Notwithstanding any other provision of law, any request authorized by paragraph (1) (and the information contained therein) may be used by the financial institution or its agents solely for the purpose of providing the customer’s name and address to the Department of the Treasury, the Social Security Administration, or the Railroad Retirement Board and shall be barred from redisclosure by the financial institution or its agents.”
+    2008—Subsec. (k). [Pub. L. 110–246][/us/pl/110/246], § 14205, inserted heading, added pars. (2) and (3), and struck out former par. (2) which read as follows: “Notwithstanding any other provision of law, any request authorized by paragraph (1) (and the information contained therein) may be used by the financial institution or its agents solely for the purpose of providing the customer’s name and address to the Department of the Treasury, the Social Security Administration, or the Railroad Retirement Board and shall be barred from redisclosure by the financial institution or its agents.”
 
     Subsec. (o). [Pub. L. 110–289][/us/pl/110/289] substituted “Federal Housing Finance Agency” for “Federal Housing Finance Board” and “Federal Housing Finance Agency’s” for “Federal Housing Finance Board’s”.
 
@@ -161,15 +161,15 @@
 
     1992—Subsec. (p). [Pub. L. 102–568][/us/pl/102/568] added subsec. (p).
 
-    1991—Subsec. (h)(1)(A), (4). [Pub. L. 102–242, § 411(2)][/us/pl/102/242/s411/2], (3), substituted “a financial institution (whether or not such proceeding, investigation, examination, or inspection is also directed at a customer)” for “the financial institution in possession of such records”.
+    1991—Subsec. (h)(1)(A), (4). [Pub. L. 102–242][/us/pl/102/242], § 411(2), (3), substituted “a financial institution (whether or not such proceeding, investigation, examination, or inspection is also directed at a customer)” for “the financial institution in possession of such records”.
 
-    Subsec. (l). [Pub. L. 102–242, § 411(4)][/us/pl/102/242/s411/4], inserted at end “No supervisory agency which transfers any such record under this subsection shall be deemed to have waived any privilege applicable to that record under law.”
+    Subsec. (l). [Pub. L. 102–242][/us/pl/102/242], § 411(4), inserted at end “No supervisory agency which transfers any such record under this subsection shall be deemed to have waived any privilege applicable to that record under law.”
 
     1990—Subsec. (l)(2). [Pub. L. 101–647][/us/pl/101/647] inserted before period at end “or of section 1956 or 1957 of title 18”.
 
-    1989—Subsec. (b). [Pub. L. 101–73, § 942(1)][/us/pl/101/73/s942/1], amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Nothing in this chapter prohibits examination by or disclosure to any supervisory agency of financial records or information in the exercise of its supervisory, regulatory, or monetary functions with respect to a financial institution.”
+    1989—Subsec. (b). [Pub. L. 101–73][/us/pl/101/73], § 942(1), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Nothing in this chapter prohibits examination by or disclosure to any supervisory agency of financial records or information in the exercise of its supervisory, regulatory, or monetary functions with respect to a financial institution.”
 
-    Subsecs. (m) to (o). [Pub. L. 101–73, § 942(2)][/us/pl/101/73/s942/2], added subsecs. (m) to (o).
+    Subsecs. (m) to (o). [Pub. L. 101–73][/us/pl/101/73], § 942(2), added subsecs. (m) to (o).
 
     1988—Subsec. (l). [Pub. L. 100–690][/us/pl/100/690] added subsec. (l).
 
@@ -218,35 +218,35 @@
 [/us/usc/t45/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs231
 [/us/usc/t12/s1841/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1841%2Fa%2F2
 [/us/usc/t12/s1730a/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1730a%2Fa%2F2
-[/us/pl/95/630/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs1113
+[/us/pl/95/630/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtXI
 [/us/stat/92/3706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3706
-[/us/pl/98/21/s121/c/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs121%2Fc%2F3%2FC
+[/us/pl/98/21/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2FtI
 [/us/stat/97/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F83
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/99/570/s1353/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1353%2Fb
+[/us/pl/99/570/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtI
 [/us/stat/100/3207-22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-22
-[/us/pl/100/690/s6186/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6186%2Fc
+[/us/pl/100/690/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVI
 [/us/stat/102/4358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4358
-[/us/pl/101/73/s942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs942
+[/us/pl/101/73/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtIX
 [/us/stat/103/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F497
-[/us/pl/101/647/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs104
+[/us/pl/101/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtI
 [/us/stat/104/4791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4791
-[/us/pl/102/242/s411/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs411%2F2
+[/us/pl/102/242/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtIV
 [/us/stat/105/2375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2375
-[/us/pl/102/568/s603/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F568%2Fs603%2Fa
+[/us/pl/102/568/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F568%2FtVI
 [/us/stat/106/4342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4342
-[/us/pl/105/264/s2/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264%2Fs2%2Fc%2F1
+[/us/pl/105/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264
 [/us/stat/112/2351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2351
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
-[/us/pl/110/234/s14205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs14205
+[/us/pl/110/234/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXIV
 [/us/stat/122/1459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1459
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/110/289/s1216/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1216%2Fa
+[/us/pl/110/289/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtII
 [/us/stat/122/2792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2792
-[/us/pl/111/203/s1099/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1099%2F3
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2105
 [/us/pl/95/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F223
 [/us/stat/91/1626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1626
@@ -257,7 +257,7 @@
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
 [/us/act/1935-08-29/ch812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-29%2Fch812
-[/us/pl/93/445/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F445%2Fs101
+[/us/pl/93/445/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F445%2FtI
 [/us/stat/88/1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1305
 [/us/usc/t45/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs231
 [/us/usc/t45/s231t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs231t
@@ -266,16 +266,16 @@
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
-[/us/pl/110/246/s14205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs14205
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/pl/105/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264
 [/us/pl/102/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F568
-[/us/pl/102/242/s411/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs411%2F2
-[/us/pl/102/242/s411/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs411%2F4
+[/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
+[/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
 [/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
-[/us/pl/101/73/s942/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs942%2F1
-[/us/pl/101/73/s942/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs942%2F2
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570

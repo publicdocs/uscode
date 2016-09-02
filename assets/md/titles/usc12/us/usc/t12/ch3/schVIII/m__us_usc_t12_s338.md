@@ -17,7 +17,7 @@
 
     In connection with examinations of State member banks, examiners selected or approved by the Board of Governors of the Federal Reserve System shall make such examinations of the affairs of all affiliates of such banks as shall be necessary to disclose fully the relations between such banks and their affiliates and the effect of such relations upon the affairs of such banks. The expense of examination of affiliates of any State member bank may, in the discretion of the Board of Governors of the Federal Reserve System, be assessed against such bank and, when so assessed, shall be paid by such bank. In the event of the refusal to give any information requested in the course of the examination of any such affiliate, or in the event of the refusal to permit such examination, or in the event of the refusal to pay any expenses so assessed, the Board of Governors of the Federal Reserve System may, in its discretion, require any or all State member banks affiliated with such affiliate to surrender their stock in the Federal Reserve bank and to forfeit all rights and privileges of membership in the Federal Reserve System, as provided in this subchapter.
 
-([Dec. 23, 1913, ch. 6, § 9][/us/act/1913-12-23/ch6/s9] (par.), as added [June 16, 1933, ch. 89, § 5(c)][/us/act/1933-06-16/ch89/s5/c], [48 Stat. 166][/us/stat/48/166]; amended [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 203(a), [49 Stat. 704][/us/stat/49/704].)
+([Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 9 (par.), as added [June 16, 1933, ch. 89][/us/act/1933-06-16/ch89], § 5(c), [48 Stat. 166][/us/stat/48/166]; amended [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 203(a), [49 Stat. 704][/us/stat/49/704].)
 
  __References in Text__ 
 
@@ -38,8 +38,8 @@
 ----------
 ----------
 
-[/us/act/1913-12-23/ch6/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs9
-[/us/act/1933-06-16/ch89/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-16%2Fch89%2Fs5%2Fc
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
+[/us/act/1933-06-16/ch89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-16%2Fch89
 [/us/stat/48/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F166
 [/us/act/1935-08-23/ch614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch614
 [/us/stat/49/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F704

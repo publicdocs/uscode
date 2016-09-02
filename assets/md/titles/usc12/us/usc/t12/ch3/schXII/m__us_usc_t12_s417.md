@@ -17,7 +17,7 @@
 
     All Federal Reserve notes and all gold certificates, Special Drawing Right certificates, and lawful money issued to or deposited with any Federal Reserve agent under the provisions of the Federal Reserve Act shall hereafter be held for such agent, under such rules and regulations as the Board of Governors of the Federal Reserve System may prescribe, in the joint custody of himself and the Federal Reserve bank to which he is accredited. Such agent and such Federal Reserve bank shall be jointly liable for the safe-keeping of such Federal Reserve notes, gold certificates, Special Drawing Right certificates, and lawful money. Nothing herein contained, however, shall be construed to prohibit a Federal Reserve agent from depositing gold certificates and Special Drawing Right certificates with the Board of Governors of the Federal Reserve System, to be held by such Board subject to his order, or with the Treasurer of the United States for the purposes authorized by law.
 
-([June 21, 1917, ch. 32, § 7][/us/act/1917-06-21/ch32/s7] (par.), [40 Stat. 238][/us/stat/40/238]; [Jan. 30, 1934, ch. 6, § 2(b)(6)][/us/act/1934-01-30/ch6/s2/b/6], [48 Stat. 339][/us/stat/48/339]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 203(a), [49 Stat. 704][/us/stat/49/704]; [Pub. L. 90–349, § 5(c)][/us/pl/90/349/s5/c], June 19, 1968, [82 Stat. 189][/us/stat/82/189].)
+([June 21, 1917, ch. 32][/us/act/1917-06-21/ch32], § 7 (par.), [40 Stat. 238][/us/stat/40/238]; [Jan. 30, 1934, ch. 6][/us/act/1934-01-30/ch6], § 2(b)(6), [48 Stat. 339][/us/stat/48/339]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 203(a), [49 Stat. 704][/us/stat/49/704]; [Pub. L. 90–349][/us/pl/90/349], § 5(c), June 19, 1968, [82 Stat. 189][/us/stat/82/189].)
 
  __References in Text__ 
 
@@ -50,13 +50,13 @@
 ----------
 ----------
 
-[/us/act/1917-06-21/ch32/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-21%2Fch32%2Fs7
+[/us/act/1917-06-21/ch32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-21%2Fch32
 [/us/stat/40/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F238
-[/us/act/1934-01-30/ch6/s2/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-01-30%2Fch6%2Fs2%2Fb%2F6
+[/us/act/1934-01-30/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-01-30%2Fch6
 [/us/stat/48/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F339
 [/us/act/1935-08-23/ch614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch614
 [/us/stat/49/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F704
-[/us/pl/90/349/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F349%2Fs5%2Fc
+[/us/pl/90/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F349
 [/us/stat/82/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F189
 [/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
 [/us/stat/38/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F251

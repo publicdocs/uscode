@@ -45,7 +45,7 @@
 
         For purposes of this section, the term “automated valuation model” means any computerized model used by mortgage originators and secondary market issuers to determine the collateral worth of a mortgage secured by a consumer’s principal dwelling.
 
-([Pub. L. 101–73, title XI, § 1125][/us/pl/101/73/s1125], as added [Pub. L. 111–203, title XIV, § 1473(q)][/us/pl/111/203/s1473/q], July 21, 2010, [124 Stat. 2198][/us/stat/124/2198].)
+([Pub. L. 101–73, title XI][/us/pl/101/73/tXI], § 1125, as added [Pub. L. 111–203, title XIV][/us/pl/111/203/tXIV], § 1473(q), July 21, 2010, [124 Stat. 2198][/us/stat/124/2198].)
 
  __Effective Date__ 
 
@@ -58,8 +58,8 @@
 ----------
 ----------
 
-[/us/pl/101/73/s1125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs1125
-[/us/pl/111/203/s1473/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1473%2Fq
+[/us/pl/101/73/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtXI
+[/us/pl/111/203/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtXIV
 [/us/stat/124/2198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2198
 [/us/pl/111/203/s1400/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1400%2Fc
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601

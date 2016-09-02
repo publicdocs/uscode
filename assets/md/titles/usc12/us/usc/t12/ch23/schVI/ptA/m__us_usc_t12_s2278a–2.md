@@ -59,7 +59,7 @@
 
         A chief executive officer of the Assistance Board shall be selected by the Board of Directors of the Assistance Board and shall serve at the pleasure of the Board.
 
-([Pub. L. 92–181, title VI, § 6][/us/pl/92/181/s6].2, as added [Pub. L. 100–233, title II, § 201][/us/pl/100/233/s201], Jan. 6, 1988, [101 Stat. 1586][/us/stat/101/1586]; amended [Pub. L. 102–237, title V, § 502][/us/pl/102/237/s502](l), Dec. 13, 1991, [105 Stat. 1869][/us/stat/105/1869].)
+([Pub. L. 92–181, title VI][/us/pl/92/181/tVI], § 6.2, as added [Pub. L. 100–233, title II][/us/pl/100/233/tII], § 201, Jan. 6, 1988, [101 Stat. 1586][/us/stat/101/1586]; amended [Pub. L. 102–237, title V][/us/pl/102/237/tV], § 502(l), Dec. 13, 1991, [105 Stat. 1869][/us/stat/105/1869].)
 
  __Amendments__ 
 
@@ -77,10 +77,10 @@
 ----------
 
 [/us/usc/t5/s5314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5314
-[/us/pl/92/181/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs6
-[/us/pl/100/233/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs201
+[/us/pl/92/181/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtVI
+[/us/pl/100/233/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtII
 [/us/stat/101/1586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1586
-[/us/pl/102/237/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs502
+[/us/pl/102/237/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtV
 [/us/stat/105/1869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1869
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237

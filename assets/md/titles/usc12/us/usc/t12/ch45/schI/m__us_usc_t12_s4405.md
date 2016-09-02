@@ -17,7 +17,7 @@
 
     No stay, injunction, avoidance, moratorium, or similar proceeding or order, whether issued or granted by a court, administrative agency, or otherwise, shall limit or delay application of otherwise enforceable netting contracts in accordance with sections 4403 and 4404 of this title.
 
-([Pub. L. 102–242, title IV, § 405][/us/pl/102/242/s405], Dec. 19, 1991, [105 Stat. 2375][/us/stat/105/2375].)
+([Pub. L. 102–242, title IV][/us/pl/102/242/tIV], § 405, Dec. 19, 1991, [105 Stat. 2375][/us/stat/105/2375].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/102/242/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs405
+[/us/pl/102/242/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtIV
 [/us/stat/105/2375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2375
 
 

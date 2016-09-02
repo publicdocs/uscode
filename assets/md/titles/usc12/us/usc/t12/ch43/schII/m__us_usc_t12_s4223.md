@@ -35,7 +35,7 @@
 
         A declarant who discloses, except as provided by this subchapter, the existence or filing of a declaration or the contents thereof to anyone other than a duly authorized Federal or State investigator or the declarant’s attorney shall immediately lose all rights under this subchapter.
 
-([Pub. L. 101–647, title XXV, § 2578][/us/pl/101/647/s2578], Nov. 29, 1990, [104 Stat. 4900][/us/stat/104/4900].)
+([Pub. L. 101–647, title XXV][/us/pl/101/647/tXXV], § 2578, Nov. 29, 1990, [104 Stat. 4900][/us/stat/104/4900].)
 
 ----------
 
@@ -47,7 +47,7 @@
 [/us/usc/t12/s4221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4221
 [/us/usc/t12/s4226/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4226%2Fb
 [/us/usc/t12/s4226/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4226%2Fc
-[/us/pl/101/647/s2578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2578
+[/us/pl/101/647/tXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXV
 [/us/stat/104/4900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4900
 
 

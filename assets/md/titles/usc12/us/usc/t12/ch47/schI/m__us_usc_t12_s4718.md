@@ -69,11 +69,11 @@
 
         Amounts authorized to be appropriated under this section shall be subject to discretionary spending caps, as provided in section 665  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of title 2, and therefore shall reduce by an equal amount funds made available for other discretionary spending programs.
 
-([Pub. L. 103–325, title I, § 121][/us/pl/103/325/s121], Sept. 23, 1994, [108 Stat. 2189][/us/stat/108/2189].)
+([Pub. L. 103–325, title I][/us/pl/103/325/tI], § 121, Sept. 23, 1994, [108 Stat. 2189][/us/stat/108/2189].)
 
  __References in Text__ 
 
-    [Section 665 of title 2][/us/usc/t2/s665], referred to in subsec. (c), was repealed by [Pub. L. 105–33, title X, § 10118(a)][/us/pl/105/33/s10118/a], Aug. 5, 1997, [111 Stat. 695][/us/stat/111/695].
+    [Section 665 of title 2][/us/usc/t2/s665], referred to in subsec. (c), was repealed by [Pub. L. 105–33, title X][/us/pl/105/33/tX], § 10118(a), Aug. 5, 1997, [111 Stat. 695][/us/stat/111/695].
 
 ----------
 
@@ -87,10 +87,10 @@
 [/us/usc/t12/s4712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4712
 [/us/usc/t12/s4713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4713
 [/us/usc/t12/s4713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4713
-[/us/pl/103/325/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs121
+[/us/pl/103/325/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtI
 [/us/stat/108/2189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2189
 [/us/usc/t2/s665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs665
-[/us/pl/105/33/s10118/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10118%2Fa
+[/us/pl/105/33/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtX
 [/us/stat/111/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F695
 
 

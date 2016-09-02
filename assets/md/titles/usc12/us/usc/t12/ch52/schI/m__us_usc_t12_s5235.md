@@ -45,7 +45,7 @@
 
         Any reports required under this section shall also be submitted to the Congressional Oversight Panel established under [section 5233 of this title][/us/usc/t12/s5233].
 
-([Pub. L. 110–343, div. A, title I, § 129][/us/pl/110/343/s129], Oct. 3, 2008, [122 Stat. 3796][/us/stat/122/3796].)
+([Pub. L. 110–343, div. A, title I][/us/pl/110/343/dA/tI], § 129, Oct. 3, 2008, [122 Stat. 3796][/us/stat/122/3796].)
 
  __References in Text__ 
 
@@ -60,7 +60,7 @@
 
 [/us/usc/t12/s343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs343
 [/us/usc/t12/s5233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5233
-[/us/pl/110/343/s129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs129
+[/us/pl/110/343/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdA%2FtI
 [/us/stat/122/3796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3796
 [/us/usc/t12/s343/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs343%2F3
 

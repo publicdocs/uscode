@@ -17,7 +17,7 @@
 
     All debts, liabilities, rights, provisions, and powers of the association under its old name shall devolve upon and inure to the association under its new name.
 
-([May 1, 1886, ch. 73, § 3][/us/act/1886-05-01/ch73/s3], [24 Stat. 19][/us/stat/24/19].)
+([May 1, 1886, ch. 73][/us/act/1886-05-01/ch73], § 3, [24 Stat. 19][/us/stat/24/19].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1886-05-01/ch73/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1886-05-01%2Fch73%2Fs3
+[/us/act/1886-05-01/ch73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1886-05-01%2Fch73
 [/us/stat/24/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F24%2F19
 
 

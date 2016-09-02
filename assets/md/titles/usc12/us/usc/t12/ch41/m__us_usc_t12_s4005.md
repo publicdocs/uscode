@@ -31,7 +31,7 @@
 
         No provision of this chapter shall be construed as requiring the payment of interest or dividends on funds deposited by a check which is returned unpaid.
 
-([Pub. L. 100–86, title VI, § 606][/us/pl/100/86/s606], Aug. 10, 1987, [101 Stat. 646][/us/stat/101/646].)
+([Pub. L. 100–86, title VI][/us/pl/100/86/tVI], § 606, Aug. 10, 1987, [101 Stat. 646][/us/stat/101/646].)
 
  __Effective Date__ 
 
@@ -46,7 +46,7 @@
 
 [/us/usc/t12/s461/b/1/A/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs461%2Fb%2F1%2FA%2Fiv
 [/us/usc/t12/s4004/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4004%2Fe
-[/us/pl/100/86/s606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2Fs606
+[/us/pl/100/86/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2FtVI
 [/us/stat/101/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F646
 [/us/pl/100/86/s613/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2Fs613%2Fb
 [/us/usc/t12/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4001

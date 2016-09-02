@@ -157,25 +157,25 @@
 
             If the facts upon which the determination of the applicability of an exception contained in subsection (b) or (c) to any deposit only become known to the receiving depository institution after the time notice is required under paragraph (2) with respect to such deposit, the depository institution shall mail such notice to the depositor as soon as practicable, but not later than the first business day following the day such facts become known to the depository institution.
 
-([Pub. L. 100–86, title VI, § 604][/us/pl/100/86/s604], Aug. 10, 1987, [101 Stat. 642][/us/stat/101/642]; [Pub. L. 102–242, title II][/us/pl/102/242], §§ 225, 227(b)(2), Dec. 19, 1991, [105 Stat. 2307][/us/stat/105/2307], 2308; [Pub. L. 111–203, title X, § 1086(b)][/us/pl/111/203/s1086/b], July 21, 2010, [124 Stat. 2085][/us/stat/124/2085].)
+([Pub. L. 100–86, title VI][/us/pl/100/86/tVI], § 604, Aug. 10, 1987, [101 Stat. 642][/us/stat/101/642]; [Pub. L. 102–242, title II][/us/pl/102/242/tII], §§ 225, 227(b)(2), Dec. 19, 1991, [105 Stat. 2307][/us/stat/105/2307], 2308; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1086(b), July 21, 2010, [124 Stat. 2085][/us/stat/124/2085].)
 
  __Amendments__ 
 
-    2010—Subsecs. (a) to (e). [Pub. L. 111–203, § 1086(b)(1)][/us/pl/111/203/s1086/b/1], inserted “, jointly with the Director of the Bureau of Consumer Financial Protection,” after “Board” wherever appearing.
+    2010—Subsecs. (a) to (e). [Pub. L. 111–203][/us/pl/111/203], § 1086(b)(1), inserted “, jointly with the Director of the Bureau of Consumer Financial Protection,” after “Board” wherever appearing.
 
-    Subsec. (f)(1)(B), (2)(C). [Pub. L. 111–203, § 1086(b)(2)][/us/pl/111/203/s1086/b/2], substituted “Board, jointly with the Director of the Bureau of Consumer Financial Protection.” for “Board.”
+    Subsec. (f)(1)(B), (2)(C). [Pub. L. 111–203][/us/pl/111/203], § 1086(b)(2), substituted “Board, jointly with the Director of the Bureau of Consumer Financial Protection.” for “Board.”
 
-    1991—Subsec. (a)(2). [Pub. L. 102–242, § 227(b)(2)][/us/pl/102/242/s227/b/2], struck out “and (2)” after “paragraphs (1)”.
+    1991—Subsec. (a)(2). [Pub. L. 102–242][/us/pl/102/242], § 227(b)(2), struck out “and (2)” after “paragraphs (1)”.
 
-    Subsec. (b). [Pub. L. 102–242, § 225(1)][/us/pl/102/242/s225/1], inserted “(a)(2),” after “subsection”.
+    Subsec. (b). [Pub. L. 102–242][/us/pl/102/242], § 225(1), inserted “(a)(2),” after “subsection”.
 
-    Subsec. (c)(1). [Pub. L. 102–242, § 225(2)][/us/pl/102/242/s225/2], substituted “(a)(2)” for “(a)(2)(F)”.
+    Subsec. (c)(1). [Pub. L. 102–242][/us/pl/102/242], § 225(2), substituted “(a)(2)” for “(a)(2)(F)”.
 
-    Subsec. (d). [Pub. L. 102–242, § 225(3)][/us/pl/102/242/s225/3], inserted “(a)(2),” after “subsections”.
+    Subsec. (d). [Pub. L. 102–242][/us/pl/102/242], § 225(3), inserted “(a)(2),” after “subsections”.
 
-    Subsec. (f)(1)(A)(i). [Pub. L. 102–242, § 225(4)][/us/pl/102/242/s225/4], substituted “time period within which” for “day”.
+    Subsec. (f)(1)(A)(i). [Pub. L. 102–242][/us/pl/102/242], § 225(4), substituted “time period within which” for “day”.
 
-    Subsec. (f)(2)(D), (E). [Pub. L. 102–242, § 225(5)][/us/pl/102/242/s225/5], added subpars. (D) and (E).
+    Subsec. (f)(2)(D), (E). [Pub. L. 102–242][/us/pl/102/242], § 225(5), added subpars. (D) and (E).
 
  __Change of Name__ 
 
@@ -203,20 +203,20 @@
 [/us/usc/t12/s4002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4002
 [/us/usc/t12/s4009/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4009%2Fa
 [/us/usc/t12/s4002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4002
-[/us/pl/100/86/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2Fs604
+[/us/pl/100/86/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2FtVI
 [/us/stat/101/642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F642
-[/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
+[/us/pl/102/242/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtII
 [/us/stat/105/2307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2307
-[/us/pl/111/203/s1086/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1086%2Fb
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2085
-[/us/pl/111/203/s1086/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1086%2Fb%2F1
-[/us/pl/111/203/s1086/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1086%2Fb%2F2
-[/us/pl/102/242/s227/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs227%2Fb%2F2
-[/us/pl/102/242/s225/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs225%2F1
-[/us/pl/102/242/s225/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs225%2F2
-[/us/pl/102/242/s225/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs225%2F3
-[/us/pl/102/242/s225/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs225%2F4
-[/us/pl/102/242/s225/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs225%2F5
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
+[/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
+[/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
+[/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
+[/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
+[/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203

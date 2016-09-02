@@ -31,7 +31,7 @@
 
         (2) is a renewal, extension, refinancing, or other modification of an alternative mortgage transaction entered into before the preemption period and such renewal, extension, or other modification is made during such period with the written consent of any person obligated to repay such credit.
 
-([Pub. L. 97–320, title VIII, § 805][/us/pl/97/320/s805], Oct. 15, 1982, [96 Stat. 1547][/us/stat/96/1547]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title IV, § 472\], Nov. 30, 1983, [97 Stat. 1237][/us/stat/97/1237].)
+([Pub. L. 97–320, title VIII][/us/pl/97/320/tVIII], § 805, Oct. 15, 1982, [96 Stat. 1547][/us/stat/96/1547]; [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title IV, § 472\], Nov. 30, 1983, [97 Stat. 1237][/us/stat/97/1237].)
 
  __Amendments__ 
 
@@ -51,9 +51,9 @@
 [/us/usc/t12/s3803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3803
 [/us/usc/t12/s3803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3803
 [/us/usc/t12/s3803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3803
-[/us/pl/97/320/s805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs805
+[/us/pl/97/320/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2FtVIII
 [/us/stat/96/1547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1547
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1237
 [/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
 [/us/pl/97/320/s807/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs807%2Fa

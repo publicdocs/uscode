@@ -125,7 +125,7 @@
 
                 (iii) is not expected to be placed in conservatorship or receivership.
 
-([Dec. 23, 1913, ch. 6, § 10B][/us/act/1913-12-23/ch6/s10B], formerly § 10(b), as added [Feb. 27, 1932, ch. 58, § 2][/us/act/1932-02-27/ch58/s2], [47 Stat. 56][/us/stat/47/56]; amended [Feb. 3, 1933, ch. 34][/us/act/1933-02-03/ch34], [47 Stat. 794][/us/stat/47/794]; [Mar. 9, 1933, ch. 1][/us/act/1933-03-09/ch1], title IV, § 402, [48 Stat. 7][/us/stat/48/7]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 204, [49 Stat. 705][/us/stat/49/705]; [Pub. L. 93–449, § 5][/us/pl/93/449/s5], Oct. 18, 1974, [88 Stat. 1368][/us/stat/88/1368]; [Pub. L. 96–221, title I, § 106][/us/pl/96/221/s106], Mar. 31, 1980, [94 Stat. 140][/us/stat/94/140]; renumbered § 10B and amended [Pub. L. 102–242, title I, § 142(a)(2)][/us/pl/102/242/s142/a/2], (b), Dec. 19, 1991, [105 Stat. 2279][/us/stat/105/2279]; [Pub. L. 104–208, div. A, title II, § 2704(d)(9)][/us/pl/104/208/s2704/d/9], Sept. 30, 1996, [110 Stat. 3009–489][/us/stat/110/3009-489]; [Pub. L. 109–171, title II, § 2102(b)][/us/pl/109/171/s2102/b], Feb. 8, 2006, [120 Stat. 9][/us/stat/120/9]; [Pub. L. 109–173, § 9(c)][/us/pl/109/173/s9/c], Feb. 15, 2006, [119 Stat. 3616][/us/stat/119/3616].)
+([Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 10B, formerly § 10(b), as added [Feb. 27, 1932, ch. 58][/us/act/1932-02-27/ch58], § 2, [47 Stat. 56][/us/stat/47/56]; amended [Feb. 3, 1933, ch. 34][/us/act/1933-02-03/ch34], [47 Stat. 794][/us/stat/47/794]; [Mar. 9, 1933, ch. 1][/us/act/1933-03-09/ch1], title IV, § 402, [48 Stat. 7][/us/stat/48/7]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 204, [49 Stat. 705][/us/stat/49/705]; [Pub. L. 93–449][/us/pl/93/449], § 5, Oct. 18, 1974, [88 Stat. 1368][/us/stat/88/1368]; [Pub. L. 96–221, title I][/us/pl/96/221/tI], § 106, Mar. 31, 1980, [94 Stat. 140][/us/stat/94/140]; renumbered § 10B and amended [Pub. L. 102–242, title I][/us/pl/102/242/tI], § 142(a)(2), (b), Dec. 19, 1991, [105 Stat. 2279][/us/stat/105/2279]; [Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], § 2704(d)(9), Sept. 30, 1996, [110 Stat. 3009–489][/us/stat/110/3009-489]; [Pub. L. 109–171, title II][/us/pl/109/171/tII], § 2102(b), Feb. 8, 2006, [120 Stat. 9][/us/stat/120/9]; [Pub. L. 109–173][/us/pl/109/173], § 9(c), Feb. 15, 2006, [119 Stat. 3616][/us/stat/119/3616].)
 
  __References in Text__ 
 
@@ -135,11 +135,11 @@
 
     2006—Subsec. (b)(3)(A)(ii). [Pub. L. 109–173][/us/pl/109/173] substituted “the Deposit Insurance Fund of” for “any deposit insurance fund in”.
 
-    [Pub. L. 109–171][/us/pl/109/171] repealed [Pub. L. 104–208, § 2704(d)(9)][/us/pl/104/208/s2704/d/9]. See 1996 Amendment note below.
+    [Pub. L. 109–171][/us/pl/109/171] repealed [Pub. L. 104–208][/us/pl/104/208], § 2704(d)(9). See 1996 Amendment note below.
 
     1996—Subsec. (b)(3)(A)(ii). Pub. L. 104—208, § 2704(d)(9), which directed the amendment of cl. (ii) by substituting “the Deposit Insurance Fund of” for “any deposit insurance fund in”, was repealed by [Pub. L. 109–171][/us/pl/109/171]. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
-    1991—[Pub. L. 102–242, § 142(b)][/us/pl/102/242/s142/b], designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+    1991—[Pub. L. 102–242][/us/pl/102/242], § 142(b), designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
     1980—[Pub. L. 96–221][/us/pl/96/221] struck out second sentence of first par. relating to interest on notes under this section.
 
@@ -163,7 +163,7 @@
 
  __Effective Date of 1991 Amendment__ 
 
-[Pub. L. 102–242, title I, § 142(d)][/us/pl/102/242/s142/d], Dec. 19, 1991, [105 Stat. 2281][/us/stat/105/2281], provided that: 
+[Pub. L. 102–242, title I][/us/pl/102/242/tI], § 142(d), Dec. 19, 1991, [105 Stat. 2281][/us/stat/105/2281], provided that: 
 
 > “The amendment made by subsection (b) \[amending this section\] shall take effect at the end of the 2-year period beginning on the date of enactment of this Act \[Dec. 19, 1991\].”
 
@@ -184,8 +184,8 @@
 
 [/us/usc/t12/s1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813
 [/us/usc/t12/s1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813
-[/us/act/1913-12-23/ch6/s10B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs10B
-[/us/act/1932-02-27/ch58/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-02-27%2Fch58%2Fs2
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
+[/us/act/1932-02-27/ch58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-02-27%2Fch58
 [/us/stat/47/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F56
 [/us/act/1933-02-03/ch34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-02-03%2Fch34
 [/us/stat/47/794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F794
@@ -193,26 +193,26 @@
 [/us/stat/48/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F7
 [/us/act/1935-08-23/ch614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch614
 [/us/stat/49/705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F705
-[/us/pl/93/449/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F449%2Fs5
+[/us/pl/93/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F449
 [/us/stat/88/1368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1368
-[/us/pl/96/221/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs106
+[/us/pl/96/221/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2FtI
 [/us/stat/94/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F140
-[/us/pl/102/242/s142/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs142%2Fa%2F2
+[/us/pl/102/242/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtI
 [/us/stat/105/2279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2279
-[/us/pl/104/208/s2704/d/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2704%2Fd%2F9
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-489
-[/us/pl/109/171/s2102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs2102%2Fb
+[/us/pl/109/171/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2FtII
 [/us/stat/120/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F9
-[/us/pl/109/173/s9/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173%2Fs9%2Fc
+[/us/pl/109/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173
 [/us/stat/119/3616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3616
 [/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
 [/us/stat/38/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F251
 [/us/usc/t12/s226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs226
 [/us/pl/109/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173
 [/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
-[/us/pl/104/208/s2704/d/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2704%2Fd%2F9
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
-[/us/pl/102/242/s142/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs142%2Fb
+[/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
 [/us/pl/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221
 [/us/pl/93/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F449
 [/us/pl/109/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173
@@ -224,7 +224,7 @@
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/104/208/s2704/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2704%2Fc
 [/us/usc/t12/s1821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1821
-[/us/pl/102/242/s142/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs142%2Fd
+[/us/pl/102/242/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtI
 [/us/stat/105/2281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2281
 [/us/pl/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221
 [/us/pl/96/221/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs108

@@ -45,7 +45,7 @@
 
         Nothing in this chapter shall enlarge or restrict any rights of a financial institution to challenge requests for records made by a Government authority under existing law. Nothing in this chapter shall entitle a customer to assert the rights of a financial institution.
 
-([Pub. L. 95–630, title XI, § 1110][/us/pl/95/630/s1110], Nov. 10, 1978, [92 Stat. 3703][/us/stat/92/3703].)
+([Pub. L. 95–630, title XI][/us/pl/95/630/tXI], § 1110, Nov. 10, 1978, [92 Stat. 3703][/us/stat/92/3703].)
 
  __References in Text__ 
 
@@ -58,7 +58,7 @@
 ----------
 ----------
 
-[/us/pl/95/630/s1110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs1110
+[/us/pl/95/630/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtXI
 [/us/stat/92/3703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3703
 
 

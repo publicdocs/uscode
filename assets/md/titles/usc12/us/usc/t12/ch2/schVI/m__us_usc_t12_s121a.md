@@ -17,13 +17,13 @@
 
     Whenever any Federal Reserve bank notes or Federal Reserve notes are presented to the Treasurer of the United States for redemption and such notes cannot be identified as to the bank of issue or the bank through which issued, the Treasurer of the United States may redeem such notes under such rules and regulations as the Secretary of the Treasury may prescribe.
 
-([June 13, 1933, ch. 62, § 1][/us/act/1933-06-13/ch62/s1], [48 Stat. 127][/us/stat/48/127]; [Pub. L. 89–427, § 4(a)][/us/pl/89/427/s4/a], May 20, 1966, [80 Stat. 161][/us/stat/80/161]; [Pub. L. 103–325, title VI, § 602(g)(8)(A)][/us/pl/103/325/s602/g/8/A], Sept. 23, 1994, [108 Stat. 2294][/us/stat/108/2294].)
+([June 13, 1933, ch. 62][/us/act/1933-06-13/ch62], § 1, [48 Stat. 127][/us/stat/48/127]; [Pub. L. 89–427][/us/pl/89/427], § 4(a), May 20, 1966, [80 Stat. 161][/us/stat/80/161]; [Pub. L. 103–325, title VI][/us/pl/103/325/tVI], § 602(g)(8)(A), Sept. 23, 1994, [108 Stat. 2294][/us/stat/108/2294].)
 
  __Amendments__ 
 
-    1994—[Pub. L. 103–325, § 602(g)(8)(A)(ii)][/us/pl/103/325/s602/g/8/A/ii], which directed the amendment of this section by striking out “, and the notes, other than Federal Reserves notes, so redeemed shall be forwarded to the Comptroller of the Currency for cancellation and destruction” after “Treasury may prescribe”, was executed by striking out text which contained the word “Reserves” rather than “Reserve”, to reflect the probable intent of Congress.
+    1994—[Pub. L. 103–325][/us/pl/103/325], § 602(g)(8)(A)(ii), which directed the amendment of this section by striking out “, and the notes, other than Federal Reserves notes, so redeemed shall be forwarded to the Comptroller of the Currency for cancellation and destruction” after “Treasury may prescribe”, was executed by striking out text which contained the word “Reserves” rather than “Reserve”, to reflect the probable intent of Congress.
 
-    [Pub. L. 103–325, § 602(g)(8)(A)(i)][/us/pl/103/325/s602/g/8/A/i], substituted “Whenever any Federal Reserve bank notes,” for “Whenever any national-bank notes, Federal Reserve bank notes,”.
+    [Pub. L. 103–325][/us/pl/103/325], § 602(g)(8)(A)(i), substituted “Whenever any Federal Reserve bank notes,” for “Whenever any national-bank notes, Federal Reserve bank notes,”.
 
     1966—[Pub. L. 89–427][/us/pl/89/427] excepted Federal Reserve notes from the category of notes which, upon redemption by the Treasurer of the United States, must be forwarded to the Comptroller of the Currency for cancellation and destruction.
 
@@ -38,14 +38,14 @@
 ----------
 ----------
 
-[/us/act/1933-06-13/ch62/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-13%2Fch62%2Fs1
+[/us/act/1933-06-13/ch62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-13%2Fch62
 [/us/stat/48/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F127
-[/us/pl/89/427/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F427%2Fs4%2Fa
+[/us/pl/89/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F427
 [/us/stat/80/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F161
-[/us/pl/103/325/s602/g/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs602%2Fg%2F8%2FA
+[/us/pl/103/325/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtVI
 [/us/stat/108/2294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2294
-[/us/pl/103/325/s602/g/8/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs602%2Fg%2F8%2FA%2Fii
-[/us/pl/103/325/s602/g/8/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs602%2Fg%2F8%2FA%2Fi
+[/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
+[/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
 [/us/pl/89/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F427
 [/us/usc/t12/s55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs55
 

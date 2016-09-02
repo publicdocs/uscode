@@ -21,7 +21,7 @@
 
  __Change of Name__ 
 
-    [Act Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 203(a), [49 Stat. 704][/us/stat/49/704], changed the name of the Federal Reserve Board to Board of Governors of the Federal Reserve System.
+    [Act Aug. 23, 1935, ch. 614, title II][/us/act/1935-08-23/ch614/tII], § 203(a), [49 Stat. 704][/us/stat/49/704], changed the name of the Federal Reserve Board to Board of Governors of the Federal Reserve System.
 
  __Exception as to Transfer of Functions__ 
 
@@ -38,7 +38,7 @@
 [/us/stat/48/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F5
 [/us/act/1935-08-23/ch614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch614
 [/us/stat/49/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F704
-[/us/act/1935-08-23/ch614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch614
+[/us/act/1935-08-23/ch614/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch614%2FtII
 [/us/stat/49/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F704
 [/us/usc/t12/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1
 

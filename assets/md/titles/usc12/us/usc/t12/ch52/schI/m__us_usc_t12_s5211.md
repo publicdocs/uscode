@@ -67,7 +67,7 @@
 
         In making purchases under the authority of this chapter, the Secretary shall take such steps as may be necessary to prevent unjust enrichment of financial institutions participating in a program established under this section, including by preventing the sale of a troubled asset to the Secretary at a higher price than what the seller paid to purchase the asset. This subsection does not apply to troubled assets acquired in a merger or acquisition, or a purchase of assets from a financial institution in conservatorship or receivership, or that has initiated bankruptcy proceedings under title 11.
 
-([Pub. L. 110–343, div. A, title I, § 101][/us/pl/110/343/s101], Oct. 3, 2008, [122 Stat. 3767][/us/stat/122/3767].)
+([Pub. L. 110–343, div. A, title I][/us/pl/110/343/dA/tI], § 101, Oct. 3, 2008, [122 Stat. 3767][/us/stat/122/3767].)
 
  __References in Text__ 
 
@@ -75,7 +75,7 @@
 
  __Codification__ 
 
-    Section is comprised of [section 101 of div. A of Pub. L. 110–343][/us/pl/110/343/s101]. Subsec. (a)(3)(B) of [section 101 of div. A of Pub. L. 110–343][/us/pl/110/343/s101] amended [section 5315 of Title 5][/us/usc/t5/s5315], Government Organization and Employees, and [section 301 of Title 31][/us/usc/t31/s301], Money and Finance.
+    Section is comprised of [section 101 of div. A of Pub. L. 110–343][/us/pl/110/343/dA/s101]. Subsec. (a)(3)(B) of [section 101 of div. A of Pub. L. 110–343][/us/pl/110/343/dA/s101] amended [section 5315 of Title 5][/us/usc/t5/s5315], Government Organization and Employees, and [section 301 of Title 31][/us/usc/t31/s301], Money and Finance.
 
 ----------
 
@@ -85,13 +85,13 @@
 ----------
 
 [/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109
-[/us/pl/110/343/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs101
+[/us/pl/110/343/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdA%2FtI
 [/us/stat/122/3767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3767
 [/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
 [/us/stat/122/3765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3765
 [/us/usc/t12/s5201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5201
-[/us/pl/110/343/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs101
-[/us/pl/110/343/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs101
+[/us/pl/110/343/dA/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdA%2Fs101
+[/us/pl/110/343/dA/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdA%2Fs101
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
 [/us/usc/t31/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs301
 

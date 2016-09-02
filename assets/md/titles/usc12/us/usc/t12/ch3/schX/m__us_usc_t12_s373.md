@@ -17,7 +17,7 @@
 
     Any member bank may accept drafts or bills of exchange drawn upon it having not more than three months’ sight to run, exclusive of days of grace, drawn under regulations to be prescribed by the Board of Governors of the Federal Reserve System by banks or bankers in foreign countries or dependencies or insular possessions of the United States for the purpose of furnishing dollar exchange as required by the usages of trade in the respective countries, dependencies, or insular possessions. Such drafts or bills may be acquired by Federal reserve banks in such amounts and subject to such regulations, restrictions, and limitations as may be prescribed by the Board of Governors of the Federal Reserve System: Provided, however, That no member bank shall accept such drafts or bills of exchange referred to  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by “in”. </sup></sup>  this paragraph for any one bank to an amount exceeding in the aggregate ten per centum of the paid-up and unimpaired capital and surplus of the accepting bank unless the draft or bill of exchange is accompanied by documents conveying or securing title or by some other adequate security: Provided further, That no member bank shall accept such drafts or bills in an amount exceeding at any time the aggregate of one-half of its paid-up and unimpaired capital and surplus.
 
-([Dec. 23, 1913, ch. 6, § 13][/us/act/1913-12-23/ch6/s13] (par.), as added [Sept. 7, 1916, ch. 461][/us/act/1916-09-07/ch461], [39 Stat. 754][/us/stat/39/754]; amended [Aug. 23, 1935, ch. 614, § 203(a)][/us/act/1935-08-23/ch614/s203/a], [49 Stat. 704][/us/stat/49/704].)
+([Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 13 (par.), as added [Sept. 7, 1916, ch. 461][/us/act/1916-09-07/ch461], [39 Stat. 754][/us/stat/39/754]; amended [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], § 203(a), [49 Stat. 704][/us/stat/49/704].)
 
  __Codification__ 
 
@@ -34,10 +34,10 @@
 ----------
 ----------
 
-[/us/act/1913-12-23/ch6/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs13
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
 [/us/act/1916-09-07/ch461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-09-07%2Fch461
 [/us/stat/39/754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F754
-[/us/act/1935-08-23/ch614/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch614%2Fs203%2Fa
+[/us/act/1935-08-23/ch614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch614
 [/us/stat/49/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F704
 [/us/stat/39/754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F754
 [/us/stat/42/1478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F1478

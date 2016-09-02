@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of law, for this fiscal year and every fiscal year thereafter, funds appropriated for housing for the elderly, as authorized by [section 1701q of this title][/us/usc/t12/s1701q], as amended, and for supportive housing for persons with disabilities, as authorized by [section 8013 of title 42][/us/usc/t42/s8013], shall be available for the cost of maintaining and disposing of such properties that are acquired or otherwise become the responsibility of the Department.
 
-([Pub. L. 109–115, div. A, title III, § 313][/us/pl/109/115/s313], Nov. 30, 2005, [119 Stat. 2463][/us/stat/119/2463].)
+([Pub. L. 109–115, div. A, title III][/us/pl/109/115/dA/tIII], § 313, Nov. 30, 2005, [119 Stat. 2463][/us/stat/119/2463].)
 
  __Codification__ 
 
@@ -27,9 +27,9 @@
 
 Provisions similar to this section were contained in the following prior appropriations acts:
 
-    [Pub. L. 108–447, div. I, title II, § 213][/us/pl/108/447/s213], Dec. 8, 2004, [118 Stat. 3318][/us/stat/118/3318].
+    [Pub. L. 108–447, div. I, title II][/us/pl/108/447/dI/tII], § 213, Dec. 8, 2004, [118 Stat. 3318][/us/stat/118/3318].
 
-    [Pub. L. 108–199, div. G, title II, § 221][/us/pl/108/199/s221], Jan. 23, 2004, [118 Stat. 398][/us/stat/118/398].
+    [Pub. L. 108–199, div. G, title II][/us/pl/108/199/dG/tII], § 221, Jan. 23, 2004, [118 Stat. 398][/us/stat/118/398].
 
 ----------
 
@@ -40,11 +40,11 @@ Provisions similar to this section were contained in the following prior appropr
 
 [/us/usc/t12/s1701q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701q
 [/us/usc/t42/s8013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8013
-[/us/pl/109/115/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F115%2Fs313
+[/us/pl/109/115/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F115%2FdA%2FtIII
 [/us/stat/119/2463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2463
-[/us/pl/108/447/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs213
+[/us/pl/108/447/dI/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdI%2FtII
 [/us/stat/118/3318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3318
-[/us/pl/108/199/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs221
+[/us/pl/108/199/dG/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdG%2FtII
 [/us/stat/118/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F398
 
 

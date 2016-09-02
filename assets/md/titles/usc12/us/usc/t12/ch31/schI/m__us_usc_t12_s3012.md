@@ -55,15 +55,15 @@
 
     In determining whether a public offering is taking place for the purpose of the Securities Act of 1933 \[[15 U.S.C. 77a][/us/usc/t15/s77a] et seq.\], there shall be excluded from consideration all class B and class C stock purchases which took place prior to August 13, 1981.
 
-([Pub. L. 95–351, title I, § 102][/us/pl/95/351/s102], Aug. 20, 1978, [92 Stat. 500][/us/stat/92/500]; [Pub. L. 97–35, title III, § 394(d)(1)][/us/pl/97/35/s394/d/1], Aug. 13, 1981, [95 Stat. 436][/us/stat/95/436].)
+([Pub. L. 95–351, title I][/us/pl/95/351/tI], § 102, Aug. 20, 1978, [92 Stat. 500][/us/stat/92/500]; [Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 394(d)(1), Aug. 13, 1981, [95 Stat. 436][/us/stat/95/436].)
 
  __References in Text__ 
 
-    The Securities Act of 1933, referred to in text, is [act May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title I, [48 Stat. 74][/us/stat/48/74], as amended, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 77a of Title 15][/us/usc/t15/s77a] and Tables.
+    The Securities Act of 1933, referred to in text, is [act May 27, 1933, ch. 38, title I][/us/act/1933-05-27/ch38/tI], [48 Stat. 74][/us/stat/48/74], as amended, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 77a of Title 15][/us/usc/t15/s77a] and Tables.
 
  __Codification__ 
 
-    In pars. (5) and (10), “section 3324(a) and (b) of title 31” substituted for “section 3648 of the Revised Statutes \[[31 U.S.C. 529][/us/usc/t31/s529]\]” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    In pars. (5) and (10), “section 3324(a) and (b) of title 31” substituted for “section 3648 of the Revised Statutes \[[31 U.S.C. 529][/us/usc/t31/s529]\]” on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
  __Amendments__ 
 
@@ -71,7 +71,7 @@
 
  __Effective Date of 1981 Amendment__ 
 
-[Pub. L. 97–35, title III, § 394(d)(2)][/us/pl/97/35/s394/d/2], Aug. 13, 1981, [95 Stat. 436][/us/stat/95/436], provided that: 
+[Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 394(d)(2), Aug. 13, 1981, [95 Stat. 436][/us/stat/95/436], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall take effect on the day after the Final Government Equity Redemption Date \[Dec. 31, 1981\].”
 
@@ -79,7 +79,7 @@
 
 “Final Government Equity Redemption Date” Defined
 
-[Pub. L. 97–35, title III, § 396(a)][/us/pl/97/35/s396/a], Aug. 13, 1981, [95 Stat. 439][/us/stat/95/439], provided that: 
+[Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 396(a), Aug. 13, 1981, [95 Stat. 439][/us/stat/95/439], provided that: 
 
 > “For purposes of this subtitle \[see Short Title of 1981 Amendment note set out under [section 3001 of this title][/us/usc/t12/s3001]\], the term ‘Final Government Equity Redemption Date’ shall have the same meaning given such term in section 101(5) of the National Consumer Cooperative Bank Act ([12 U.S.C. 3011(5)][/us/usc/t12/s3011/5]).”
 
@@ -93,21 +93,21 @@
 [/us/usc/t12/s3017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3017
 [/us/usc/t12/s3017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3017
 [/us/usc/t15/s77a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77a
-[/us/pl/95/351/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F351%2Fs102
+[/us/pl/95/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F351%2FtI
 [/us/stat/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F500
-[/us/pl/97/35/s394/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs394%2Fd%2F1
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F436
-[/us/act/1933-05-27/ch38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-27%2Fch38
+[/us/act/1933-05-27/ch38/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-27%2Fch38%2FtI
 [/us/stat/48/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F74
 [/us/usc/t15/s77a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77a
 [/us/usc/t31/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs529
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
-[/us/pl/97/35/s394/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs394%2Fd%2F2
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F436
 [/us/pl/97/35/s396/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs396%2Fa
-[/us/pl/97/35/s396/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs396%2Fa
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F439
 [/us/usc/t12/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3001
 [/us/usc/t12/s3011/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3011%2F5

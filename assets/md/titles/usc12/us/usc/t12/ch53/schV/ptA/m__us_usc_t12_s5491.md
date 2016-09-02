@@ -67,11 +67,11 @@
 
         The principal office of the Bureau shall be in the District of Columbia. The Director may establish regional offices of the Bureau, including in cities in which the Federal reserve banks, or branches of such banks, are located, in order to carry out the responsibilities assigned to the Bureau under the Federal consumer financial laws.
 
-([Pub. L. 111–203, title X, § 1011][/us/pl/111/203/s1011], July 21, 2010, [124 Stat. 1964][/us/stat/124/1964].)
+([Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1011, July 21, 2010, [124 Stat. 1964][/us/stat/124/1964].)
 
  __Effective Date__ 
 
-[Pub. L. 111–203, title X, § 1018][/us/pl/111/203/s1018], July 21, 2010, [124 Stat. 1979][/us/stat/124/1979], provided that: 
+[Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1018, July 21, 2010, [124 Stat. 1979][/us/stat/124/1979], provided that: 
 
 > “This subtitle \[subtitle A (§§ 1011–1018), enacting this part and amending [section 9702 of Title 20][/us/usc/t20/s9702], Education\] shall become effective on the date of enactment of this Act \[July 21, 2010\].”
 
@@ -84,9 +84,9 @@
 
 [/us/usc/t5/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs105
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
-[/us/pl/111/203/s1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1011
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/1964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1964
-[/us/pl/111/203/s1018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1018
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/1979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1979
 [/us/usc/t20/s9702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9702
 

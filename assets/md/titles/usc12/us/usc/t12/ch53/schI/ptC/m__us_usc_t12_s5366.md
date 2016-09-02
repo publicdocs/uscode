@@ -37,7 +37,7 @@
 
             (B) requirements at later stages of financial decline, including a capital restoration plan and capital-raising requirements, limits on transactions with affiliates, management changes, and asset sales.
 
-([Pub. L. 111–203, title I, § 166][/us/pl/111/203/s166], July 21, 2010, [124 Stat. 1432][/us/stat/124/1432].)
+([Pub. L. 111–203, title I][/us/pl/111/203/tI], § 166, July 21, 2010, [124 Stat. 1432][/us/stat/124/1432].)
 
 ----------
 
@@ -48,7 +48,7 @@
 
 [/us/usc/t12/s5365/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5365%2Fa
 [/us/usc/t12/s5365/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5365%2Fa
-[/us/pl/111/203/s166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs166
+[/us/pl/111/203/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtI
 [/us/stat/124/1432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1432
 
 

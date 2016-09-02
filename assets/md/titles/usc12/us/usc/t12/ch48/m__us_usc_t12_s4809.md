@@ -27,7 +27,7 @@
 
         For purposes of this section, the term “Federal banking agency” has the meaning given that term in [section 1813 of this title][/us/usc/t12/s1813].
 
-([Pub. L. 106–102, title VII, § 722][/us/pl/106/102/s722], Nov. 12, 1999, [113 Stat. 1471][/us/stat/113/1471].)
+([Pub. L. 106–102, title VII][/us/pl/106/102/tVII], § 722, Nov. 12, 1999, [113 Stat. 1471][/us/stat/113/1471].)
 
  __Codification__ 
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t12/s1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813
-[/us/pl/106/102/s722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs722
+[/us/pl/106/102/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtVII
 [/us/stat/113/1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1471
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 

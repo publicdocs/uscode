@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch2/schIV/m__us_usc_t12_s94a.md) | [Next](./../../../../..//us/usc/t12/ch2/schV/m__us_usc_t12_ch2_schV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs95)
+[Previous](./../../../../..//us/usc/t12/ch2/schIV/m__us_usc_t12_s94a.md) | [Next](./../../../../..//us/usc/t12/ch2/schIV/m__us_usc_t12_s95a _us_usc_t12_s95b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs95)
 
 ## § 95. Emergency limitations and restrictions on business of members of Federal Reserve System; designation of legal holiday for national banking associations; exceptions; “State” defined
 
@@ -23,7 +23,7 @@
 
         (2) For the purpose of this subsection, the term “State” means any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Northern Mariana Islands, Guam, the Virgin Islands, American Samoa, the Trust Territory of the Pacific Islands, or any other territory or possession of the United States.
 
-([Mar. 9, 1933, ch. 1][/us/act/1933-03-09/ch1], title I, § 4, [48 Stat. 2][/us/stat/48/2]; [Pub. L. 96–221, title VII, § 705][/us/pl/96/221/s705], Mar. 31, 1980, [94 Stat. 187][/us/stat/94/187]; [Pub. L. 97–320, title IV, § 407][/us/pl/97/320/s407], Oct. 15, 1982, [96 Stat. 1513][/us/stat/96/1513]; [Pub. L. 97–457, § 21][/us/pl/97/457/s21], Jan. 12, 1983, [96 Stat. 2509][/us/stat/96/2509].)
+([Mar. 9, 1933, ch. 1][/us/act/1933-03-09/ch1], title I, § 4, [48 Stat. 2][/us/stat/48/2]; [Pub. L. 96–221, title VII][/us/pl/96/221/tVII], § 705, Mar. 31, 1980, [94 Stat. 187][/us/stat/94/187]; [Pub. L. 97–320, title IV][/us/pl/97/320/tIV], § 407, Oct. 15, 1982, [96 Stat. 1513][/us/stat/96/1513]; [Pub. L. 97–457][/us/pl/97/457], § 21, Jan. 12, 1983, [96 Stat. 2509][/us/stat/96/2509].)
 
  __Amendments__ 
 
@@ -51,28 +51,20 @@
 
     This proclamation shall become effective as of March 15, 1947.
 
-§§ 95a, 95b. __Omitted__ 
-
- __Codification__ 
-
-    Section 95a, [act Oct. 6, 1917, ch. 106, § 5(b)][/us/act/1917-10-06/ch106/s5/b], [40 Stat. 415][/us/stat/40/415]; [Sept. 24, 1918, ch. 176, § 5][/us/act/1918-09-24/ch176/s5], [40 Stat. 966][/us/stat/40/966]; [Mar. 9, 1933, ch. 1][/us/act/1933-03-09/ch1], title I, § 2, [48 Stat. 1][/us/stat/48/1]; [May 7, 1940, ch. 185, § 1][/us/act/1940-05-07/ch185/s1], [54 Stat. 179][/us/stat/54/179]; [Dec. 18, 1941, ch. 593][/us/act/1941-12-18/ch593], title III, § 301, [55 Stat. 839][/us/stat/55/839]; Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7517, [69 Stat. 1352][/us/stat/69/1352]; [Pub. L. 95–223, title I][/us/pl/95/223], §§ 101(a), 102, 103(b), Dec. 28, 1977, [91 Stat. 1625][/us/stat/91/1625], 1626; [Pub. L. 100–418, title II, § 2502(a)(1)][/us/pl/100/418/s2502/a/1], Aug. 23, 1988, [102 Stat. 1371][/us/stat/102/1371]; [Pub. L. 103–236, title V, § 525(b)(1)][/us/pl/103/236/s525/b/1], Apr. 30, 1994, [108 Stat. 474][/us/stat/108/474], which related to regulation of transactions in foreign exchange of gold and silver, property transfers, vested interests, enforcement and penalties, was omitted because § 5(b) of act Oct. 6, 1917, is also classified to [section 4305(b) of Title 50][/us/usc/t50/s4305/b], War and National Defense.
-
-    Section 95b, [act Mar. 9, 1933, ch. 1][/us/act/1933-03-09/ch1], title I, § 1, [48 Stat. 1][/us/stat/48/1], which related to ratification of acts of President and Secretary of the Treasury, was omitted because § 1 of act Mar. 9, 1933, is also set out as a note under [section 4305 of Title 50][/us/usc/t50/s4305], War and National Defense.
-
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch2/schIV/m__us_usc_t12_s94a.md) | [Next](./../../../../..//us/usc/t12/ch2/schV/m__us_usc_t12_ch2_schV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs95)
+[Previous](./../../../../..//us/usc/t12/ch2/schIV/m__us_usc_t12_s94a.md) | [Next](./../../../../..//us/usc/t12/ch2/schIV/m__us_usc_t12_s95a _us_usc_t12_s95b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs95)
 
 ----------
 ----------
 
 [/us/act/1933-03-09/ch1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-03-09%2Fch1
 [/us/stat/48/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F2
-[/us/pl/96/221/s705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs705
+[/us/pl/96/221/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2FtVII
 [/us/stat/94/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F187
-[/us/pl/97/320/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs407
+[/us/pl/97/320/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2FtIV
 [/us/stat/96/1513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1513
-[/us/pl/97/457/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F457%2Fs21
+[/us/pl/97/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F457
 [/us/stat/96/2509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2509
 [/us/pl/97/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F457
 [/us/pl/97/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320
@@ -84,26 +76,5 @@
 [/us/act/1933-03-09/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-03-09%2Fs4
 [/us/stat/48/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F2
 [/us/usc/t12/s95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs95
-[/us/act/1917-10-06/ch106/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106%2Fs5%2Fb
-[/us/stat/40/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F415
-[/us/act/1918-09-24/ch176/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-09-24%2Fch176%2Fs5
-[/us/stat/40/966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F966
-[/us/act/1933-03-09/ch1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-03-09%2Fch1
-[/us/stat/48/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1
-[/us/act/1940-05-07/ch185/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-05-07%2Fch185%2Fs1
-[/us/stat/54/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F179
-[/us/act/1941-12-18/ch593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-12-18%2Fch593
-[/us/stat/55/839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F839
-[/us/stat/69/1352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F1352
-[/us/pl/95/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F223
-[/us/stat/91/1625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1625
-[/us/pl/100/418/s2502/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2502%2Fa%2F1
-[/us/stat/102/1371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1371
-[/us/pl/103/236/s525/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs525%2Fb%2F1
-[/us/stat/108/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F474
-[/us/usc/t50/s4305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4305%2Fb
-[/us/act/1933-03-09/ch1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-03-09%2Fch1
-[/us/stat/48/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1
-[/us/usc/t50/s4305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4305
 
 

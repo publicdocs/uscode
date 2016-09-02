@@ -59,7 +59,7 @@
 
         For the purposes of this section, the term “antitrust laws” means the Act of July 2, 1890 (the Sherman Antitrust Act), the Act of October 15, 1914 (the Clayton Act), and any other Acts in pari materia.
 
-([May 9, 1956, ch. 240, § 11][/us/act/1956-05-09/ch240/s11], [70 Stat. 146][/us/stat/70/146]; [Pub. L. 89–485, § 11][/us/pl/89/485/s11], July 1, 1966, [80 Stat. 240][/us/stat/80/240]; [Pub. L. 91–607, title I, § 104][/us/pl/91/607/s104], Dec. 31, 1970, [84 Stat. 1766][/us/stat/84/1766]; [Pub. L. 95–188, title III, § 303][/us/pl/95/188/s303], Nov. 16, 1977, [91 Stat. 1390][/us/stat/91/1390]; [Pub. L. 100–86, title V, § 502(h)(3)][/us/pl/100/86/s502/h/3], Aug. 10, 1987, [101 Stat. 628][/us/stat/101/628]; [Pub. L. 103–325, title III, § 321(a)][/us/pl/103/325/s321/a], Sept. 23, 1994, [108 Stat. 2226][/us/stat/108/2226]; [Pub. L. 106–102, title I, § 131][/us/pl/106/102/s131], Nov. 12, 1999, [113 Stat. 1382][/us/stat/113/1382].)
+([May 9, 1956, ch. 240][/us/act/1956-05-09/ch240], § 11, [70 Stat. 146][/us/stat/70/146]; [Pub. L. 89–485][/us/pl/89/485], § 11, July 1, 1966, [80 Stat. 240][/us/stat/80/240]; [Pub. L. 91–607, title I][/us/pl/91/607/tI], § 104, Dec. 31, 1970, [84 Stat. 1766][/us/stat/84/1766]; [Pub. L. 95–188, title III][/us/pl/95/188/tIII], § 303, Nov. 16, 1977, [91 Stat. 1390][/us/stat/91/1390]; [Pub. L. 100–86, title V][/us/pl/100/86/tV], § 502(h)(3), Aug. 10, 1987, [101 Stat. 628][/us/stat/101/628]; [Pub. L. 103–325, title III][/us/pl/103/325/tIII], § 321(a), Sept. 23, 1994, [108 Stat. 2226][/us/stat/108/2226]; [Pub. L. 106–102, title I][/us/pl/106/102/tI], § 131, Nov. 12, 1999, [113 Stat. 1382][/us/stat/113/1382].)
 
  __References in Text__ 
 
@@ -77,9 +77,9 @@
 
     1977—Subsec. (b). [Pub. L. 95–188][/us/pl/95/188] authorized a proposed acquisition, merger, or consolidation transaction to be consummated immediately upon approval by the Board where the Board has found that it must act immediately in order to prevent the probable failure of a bank or bank holding company involved in any such transaction; prohibited a transaction from being consummated before the fifth calendar day after the date of approval by the Board where the Board has advised the Comptroller of the Currency or the State supervisory authority, as the case may be, of the existence of an emergency requiring expeditious action and has required the submission of views and recommendations within ten days; continued for all other cases the thirty day waiting period after date of approval by the Board for consummation of the transaction; and substituted provision for commencement of stay actions prior to the earliest time at which the transaction approval under [section 1842 of this title][/us/usc/t12/s1842] might be consummated for prior provision for commencement of such stay actions within the thirty-day waiting period.
 
-    1970—Subsec. (b). [Pub. L. 91–607, § 104(a)][/us/pl/91/607/s104/a], substituted “[section 1842 of this title][/us/usc/t12/s1842]” for “this chapter” where appearing first two times, and inserted “approved under [section 1842 of this title][/us/usc/t12/s1842]” in second sentence before “shall be commended” and in last sentence before “in compliance with this chapter”.
+    1970—Subsec. (b). [Pub. L. 91–607][/us/pl/91/607], § 104(a), substituted “[section 1842 of this title][/us/usc/t12/s1842]” for “this chapter” where appearing first two times, and inserted “approved under [section 1842 of this title][/us/usc/t12/s1842]” in second sentence before “shall be commended” and in last sentence before “in compliance with this chapter”.
 
-    Subsec. (c). [Pub. L. 91–607, § 104(b)][/us/pl/91/607/s104/b], substituted “under [section 1842 of this title][/us/usc/t12/s1842]” for “pursuant to this chapter”.
+    Subsec. (c). [Pub. L. 91–607][/us/pl/91/607], § 104(b), substituted “under [section 1842 of this title][/us/usc/t12/s1842]” for “pursuant to this chapter”.
 
     1966—[Pub. L. 89–485][/us/pl/89/485] designated existing provisions as subsec. (a), inserted “except as specifically provided in this section”, and added subsecs. (b) to (f).
 
@@ -110,19 +110,19 @@
 [/us/usc/t15/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2
 [/us/usc/t12/s1842/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1842%2Fa
 [/us/usc/t12/s1842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1842
-[/us/act/1956-05-09/ch240/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-05-09%2Fch240%2Fs11
+[/us/act/1956-05-09/ch240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-05-09%2Fch240
 [/us/stat/70/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F146
-[/us/pl/89/485/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F485%2Fs11
+[/us/pl/89/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F485
 [/us/stat/80/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F240
-[/us/pl/91/607/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F607%2Fs104
+[/us/pl/91/607/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F607%2FtI
 [/us/stat/84/1766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1766
-[/us/pl/95/188/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F188%2Fs303
+[/us/pl/95/188/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F188%2FtIII
 [/us/stat/91/1390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1390
-[/us/pl/100/86/s502/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2Fs502%2Fh%2F3
+[/us/pl/100/86/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2FtV
 [/us/stat/101/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F628
-[/us/pl/103/325/s321/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs321%2Fa
+[/us/pl/103/325/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtIII
 [/us/stat/108/2226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2226
-[/us/pl/106/102/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs131
+[/us/pl/106/102/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtI
 [/us/stat/113/1382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1382
 [/us/usc/t15/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1
 [/us/act/1914-10-15/ch323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-10-15%2Fch323
@@ -134,10 +134,10 @@
 [/us/pl/100/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86
 [/us/pl/95/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F188
 [/us/usc/t12/s1842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1842
-[/us/pl/91/607/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F607%2Fs104%2Fa
+[/us/pl/91/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F607
 [/us/usc/t12/s1842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1842
 [/us/usc/t12/s1842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1842
-[/us/pl/91/607/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F607%2Fs104%2Fb
+[/us/pl/91/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F607
 [/us/usc/t12/s1842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1842
 [/us/pl/89/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F485
 [/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102

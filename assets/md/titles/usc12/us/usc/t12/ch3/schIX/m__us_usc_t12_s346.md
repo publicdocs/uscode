@@ -17,7 +17,7 @@
 
     Any Federal reserve bank may discount acceptances of the kinds hereinafter described, which have a maturity at the time of discount of not more than ninety days’ sight, exclusive of days of grace, and which are indorsed by at least one member bank: Provided, That such acceptances if drawn for an agricultural purpose and secured at the time of acceptance by warehouse receipts or other such documents conveying or securing title covering readily marketable staples may be discounted with a maturity at the time of discount of not more than six months’ sight exclusive of days of grace.
 
-([Dec. 23, 1913, ch. 6, § 13][/us/act/1913-12-23/ch6/s13] (par.), [38 Stat. 264][/us/stat/38/264]; [Mar. 3, 1915, ch. 93][/us/act/1915-03-03/ch93], [38 Stat. 958][/us/stat/38/958]; [Sept. 7, 1916, ch. 461][/us/act/1916-09-07/ch461], [39 Stat. 752][/us/stat/39/752]; [Mar. 4, 1923, ch. 252][/us/act/1923-03-04/ch252], title IV, § 403, [42 Stat. 1479][/us/stat/42/1479].)
+([Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 13 (par.), [38 Stat. 264][/us/stat/38/264]; [Mar. 3, 1915, ch. 93][/us/act/1915-03-03/ch93], [38 Stat. 958][/us/stat/38/958]; [Sept. 7, 1916, ch. 461][/us/act/1916-09-07/ch461], [39 Stat. 752][/us/stat/39/752]; [Mar. 4, 1923, ch. 252][/us/act/1923-03-04/ch252], title IV, § 403, [42 Stat. 1479][/us/stat/42/1479].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1913-12-23/ch6/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs13
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
 [/us/stat/38/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F264
 [/us/act/1915-03-03/ch93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1915-03-03%2Fch93
 [/us/stat/38/958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F958

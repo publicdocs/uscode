@@ -61,7 +61,7 @@
 
                 Such investments shall be made in public debt securities with maturities suitable to the needs of the Expense Account, as determined by the Farm Credit Administration, and bearing interest at rates determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities.
 
-([Pub. L. 92–181, title V, § 5][/us/pl/92/181/s5].15, formerly § 5.16, Dec. 10, 1971, [85 Stat. 620][/us/stat/85/620]; renumbered § 5.15 and amended [Pub. L. 99–205, title II][/us/pl/99/205], §§ 201(5), 205(g)(6), Dec. 23, 1985, [99 Stat. 1690][/us/stat/99/1690], 1707; [Pub. L. 100–233, title IV, § 432(a)][/us/pl/100/233/s432/a], Jan. 6, 1988, [101 Stat. 1660][/us/stat/101/1660]; [Pub. L. 100–399, title IV, § 416(a)][/us/pl/100/399/s416/a], (b), Aug. 17, 1988, [102 Stat. 1004][/us/stat/102/1004]; [Pub. L. 102–552, title V, § 510][/us/pl/102/552/s510], Oct. 28, 1992, [106 Stat. 4132][/us/stat/106/4132].)
+([Pub. L. 92–181, title V][/us/pl/92/181/tV], § 5.15, formerly § 5.16, Dec. 10, 1971, [85 Stat. 620][/us/stat/85/620]; renumbered § 5.15 and amended [Pub. L. 99–205, title II][/us/pl/99/205/tII], §§ 201(5), 205(g)(6), Dec. 23, 1985, [99 Stat. 1690][/us/stat/99/1690], 1707; [Pub. L. 100–233, title IV][/us/pl/100/233/tIV], § 432(a), Jan. 6, 1988, [101 Stat. 1660][/us/stat/101/1660]; [Pub. L. 100–399, title IV][/us/pl/100/399/tIV], § 416(a), (b), Aug. 17, 1988, [102 Stat. 1004][/us/stat/102/1004]; [Pub. L. 102–552, title V][/us/pl/102/552/tV], § 510, Oct. 28, 1992, [106 Stat. 4132][/us/stat/106/4132].)
 
  __References in Text__ 
 
@@ -81,11 +81,11 @@
 
     “(b) The amounts collected pursuant to subsection (a) of this section shall be covered into the Treasury, and credited to a special fund and, without regard to other law, shall be available to the Farm Credit Administration for expenditure during each fiscal year for salaries and expenses of the Farm Credit Administration. As soon as practicable after the end of each such fiscal year, the Farm Credit Administration shall determine, on a fair and reasonable basis, the cost of operation of the Farm Credit Administration and the part thereof which fairly and equitably should be allocated to each bank and association as its share of the cost during the fiscal year of the Farm Credit Administration. If the amount so allocated is greater than the amount collected from the bank or other institutions, the difference shall be collected from such bank or other institutions, and, if less, shall be refunded from the special fund to the bank or other institutions entitled thereto or credited in the special fund to such bank or other institutions for use for the same purposes in future fiscal years.”
 
-    Subsec. (a)(2)(A). [Pub. L. 100–399, § 416(a)][/us/pl/100/399/s416/a], substituted “the assessment described in paragraph (1)(B)” for “such assessment”.
+    Subsec. (a)(2)(A). [Pub. L. 100–399][/us/pl/100/399], § 416(a), substituted “the assessment described in paragraph (1)(B)” for “such assessment”.
 
-    Subsec. (a)(2)(C). [Pub. L. 100–399, § 416(b)][/us/pl/100/399/s416/b], substituted “described” for “specified”.
+    Subsec. (a)(2)(C). [Pub. L. 100–399][/us/pl/100/399], § 416(b), substituted “described” for “specified”.
 
-    1985—Subsec. (b). [Pub. L. 99–205, § 205(g)(6)][/us/pl/99/205/s205/g/6], substituted “the Farm Credit Administration” for “said Administration” twice in first sentence, and for “the Administration” and “such Administration” in second sentence.
+    1985—Subsec. (b). [Pub. L. 99–205][/us/pl/99/205], § 205(g)(6), substituted “the Farm Credit Administration” for “said Administration” twice in first sentence, and for “the Administration” and “such Administration” in second sentence.
 
  __Effective Date of 1988 Amendment__ 
 
@@ -103,15 +103,15 @@
 ----------
 
 [/us/usc/t2/s900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs900
-[/us/pl/92/181/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs5
+[/us/pl/92/181/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtV
 [/us/stat/85/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F620
-[/us/pl/99/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205
+[/us/pl/99/205/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2FtII
 [/us/stat/99/1690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1690
-[/us/pl/100/233/s432/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs432%2Fa
+[/us/pl/100/233/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtIV
 [/us/stat/101/1660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1660
-[/us/pl/100/399/s416/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs416%2Fa
+[/us/pl/100/399/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtIV
 [/us/stat/102/1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1004
-[/us/pl/102/552/s510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2Fs510
+[/us/pl/102/552/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2FtV
 [/us/stat/106/4132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4132
 [/us/pl/99/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177
 [/us/stat/99/1038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1038
@@ -125,9 +125,9 @@
 [/us/usc/t12/s2249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2249
 [/us/pl/102/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552
 [/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
-[/us/pl/100/399/s416/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs416%2Fa
-[/us/pl/100/399/s416/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs416%2Fb
-[/us/pl/99/205/s205/g/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2Fs205%2Fg%2F6
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
+[/us/pl/99/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205
 [/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
 [/us/pl/100/399/s1001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs1001%2Fa

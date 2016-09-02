@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../..//us/usc/t12/ch23/schIV/ptD/m__us_usc_t12_s2203.md) | [Next](./../../../../../..//us/usc/t12/ch23/schIV/ptD/m__us_usc_t12_s2205.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2204)
 
-## § 2204. Repealed. [Pub. L. 102–552, title V, § 508][/us/pl/102/552/s508], Oct. 28, 1992, [106 Stat. 4132][/us/stat/106/4132]
+## § 2204. Repealed. [Pub. L. 102–552, title V][/us/pl/102/552/tV], § 508, Oct. 28, 1992, [106 Stat. 4132][/us/stat/106/4132]
 
-    Section, [Pub. L. 92–181, title IV, § 4][/us/pl/92/181/s4].16, Dec. 10, 1971, [85 Stat. 613][/us/stat/85/613], prohibited tax-exempt guarantees.
+    Section, [Pub. L. 92–181, title IV][/us/pl/92/181/tIV], § 4.16, Dec. 10, 1971, [85 Stat. 613][/us/stat/85/613], prohibited tax-exempt guarantees.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/pl/102/552/s508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2Fs508
+[/us/pl/102/552/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2FtV
 [/us/stat/106/4132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4132
-[/us/pl/92/181/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs4
+[/us/pl/92/181/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtIV
 [/us/stat/85/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F613
 
 

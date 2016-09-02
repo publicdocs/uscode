@@ -17,7 +17,7 @@
 
     In order to furnish suitable notes for circulation as Federal reserve notes, the Secretary of the Treasury shall cause plates and dies to be engraved in the best manner to guard against counterfeits and fraudulent alterations, and shall have printed therefrom and numbered such quantities of such notes of the denominations of $1, $2, $5, $10, $20, $50, $100, $500, $1,000, $5,000, $10,000 as may be required to supply the Federal Reserve banks. Such notes shall be in form and tenor as directed by the Secretary of the Treasury under the provisions of this chapter and shall bear the distinctive numbers of the several Federal reserve banks through which they are issued.
 
-([Dec. 23, 1913, ch. 6, § 16][/us/act/1913-12-23/ch6/s16] (par.), [38 Stat. 267][/us/stat/38/267]; [Sept. 26, 1918, ch. 177, § 3][/us/act/1918-09-26/ch177/s3], [40 Stat. 969][/us/stat/40/969]; [Pub. L. 88–36, title I, § 3][/us/pl/88/36/s3], June 4, 1963, [77 Stat. 54][/us/stat/77/54]; [Pub. L. 103–325, title VI, § 602(g)(3)][/us/pl/103/325/s602/g/3], Sept. 23, 1994, [108 Stat. 2293][/us/stat/108/2293].)
+([Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 16 (par.), [38 Stat. 267][/us/stat/38/267]; [Sept. 26, 1918, ch. 177][/us/act/1918-09-26/ch177], § 3, [40 Stat. 969][/us/stat/40/969]; [Pub. L. 88–36, title I][/us/pl/88/36/tI], § 3, June 4, 1963, [77 Stat. 54][/us/stat/77/54]; [Pub. L. 103–325, title VI][/us/pl/103/325/tVI], § 602(g)(3), Sept. 23, 1994, [108 Stat. 2293][/us/stat/108/2293].)
 
  __References in Text__ 
 
@@ -42,13 +42,13 @@
 ----------
 ----------
 
-[/us/act/1913-12-23/ch6/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs16
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
 [/us/stat/38/267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F267
-[/us/act/1918-09-26/ch177/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-09-26%2Fch177%2Fs3
+[/us/act/1918-09-26/ch177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-09-26%2Fch177
 [/us/stat/40/969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F969
-[/us/pl/88/36/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F36%2Fs3
+[/us/pl/88/36/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F36%2FtI
 [/us/stat/77/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F54
-[/us/pl/103/325/s602/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs602%2Fg%2F3
+[/us/pl/103/325/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtVI
 [/us/stat/108/2293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2293
 [/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
 [/us/stat/38/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F251

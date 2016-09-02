@@ -33,7 +33,7 @@
 
         (4) The term “State” means any State, the District of Columbia, Guam, the Commonwealth of Puerto Rico, and the Virgin Islands.
 
-([Pub. L. 93–100, § 5(d)][/us/pl/93/100/s5/d], (e), Aug. 16, 1973, [87 Stat. 344][/us/stat/87/344]; [Pub. L. 111–203, title III, § 375][/us/pl/111/203/s375], July 21, 2010, [124 Stat. 1566][/us/stat/124/1566].)
+([Pub. L. 93–100][/us/pl/93/100], § 5(d), (e), Aug. 16, 1973, [87 Stat. 344][/us/stat/87/344]; [Pub. L. 111–203, title III][/us/pl/111/203/tIII], § 375, July 21, 2010, [124 Stat. 1566][/us/stat/124/1566].)
 
  __References in Text__ 
 
@@ -41,9 +41,9 @@
 
     This section and any Act amended by this section, referred to in subsec. (b), are this section and sections 24 par. Seventh, 1464(c), and 1469 of this title.
 
-    Section 401(a) of the National Housing Act, referred to in subsec. (b)(1), which was classified to [section 1724 of this title][/us/usc/t12/s1724], was repealed by [Pub. L. 101–73, title IV, § 407][/us/pl/101/73/s407], Aug. 9, 1989, [103 Stat. 363][/us/stat/103/363].
+    Section 401(a) of the National Housing Act, referred to in subsec. (b)(1), which was classified to [section 1724 of this title][/us/usc/t12/s1724], was repealed by [Pub. L. 101–73, title IV][/us/pl/101/73/tIV], § 407, Aug. 9, 1989, [103 Stat. 363][/us/stat/103/363].
 
-    The Federal Deposit Insurance Act, referred to in subsec. (b)(2), is [act Sept. 21, 1950, ch. 967, § 2][/us/act/1950-09-21/ch967/s2], [64 Stat. 873][/us/stat/64/873], which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1811 of this title][/us/usc/t12/s1811] and Tables.
+    The Federal Deposit Insurance Act, referred to in subsec. (b)(2), is [act Sept. 21, 1950, ch. 967][/us/act/1950-09-21/ch967], § 2, [64 Stat. 873][/us/stat/64/873], which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1811 of this title][/us/usc/t12/s1811] and Tables.
 
  __Codification__ 
 
@@ -53,9 +53,9 @@
 
  __Amendments__ 
 
-    2010—Subsec. (a)(1). [Pub. L. 111–203, § 375(1)][/us/pl/111/203/s375/1], substituted “appropriate Federal banking agency, with respect to the institutions subject to the jurisdiction of each such agency,” for “Federal Savings and Loan Insurance Corporation with respect to insured institutions, the Board of Governors of the Federal Reserve System with respect to State member insured banks, and the Federal Deposit Insurance Corporation with respect to State nonmember insured banks”.
+    2010—Subsec. (a)(1). [Pub. L. 111–203][/us/pl/111/203], § 375(1), substituted “appropriate Federal banking agency, with respect to the institutions subject to the jurisdiction of each such agency,” for “Federal Savings and Loan Insurance Corporation with respect to insured institutions, the Board of Governors of the Federal Reserve System with respect to State member insured banks, and the Federal Deposit Insurance Corporation with respect to State nonmember insured banks”.
 
-    Subsec. (a)(2). [Pub. L. 111–203, § 375(2)][/us/pl/111/203/s375/2], substituted “banking” for “supervisory”.
+    Subsec. (a)(2). [Pub. L. 111–203][/us/pl/111/203], § 375(2), substituted “banking” for “supervisory”.
 
  __Effective Date of 2010 Amendment__ 
 
@@ -74,21 +74,21 @@
 
 [/us/usc/t12/s1724/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1724%2Fa
 [/us/usc/t12/s1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1811
-[/us/pl/93/100/s5/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F100%2Fs5%2Fd
+[/us/pl/93/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F100
 [/us/stat/87/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F344
-[/us/pl/111/203/s375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs375
+[/us/pl/111/203/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIII
 [/us/stat/124/1566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1566
 [/us/pl/93/100/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F100%2Fs5
 [/us/usc/t12/s1469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1469
 [/us/usc/t12/s1724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1724
-[/us/pl/101/73/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs407
+[/us/pl/101/73/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtIV
 [/us/stat/103/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F363
-[/us/act/1950-09-21/ch967/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967%2Fs2
+[/us/act/1950-09-21/ch967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967
 [/us/stat/64/873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F873
 [/us/usc/t12/s1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1811
 [/us/pl/93/100/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F100%2Fs5
-[/us/pl/111/203/s375/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs375%2F1
-[/us/pl/111/203/s375/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs375%2F2
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs351
 [/us/usc/t2/s906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs906

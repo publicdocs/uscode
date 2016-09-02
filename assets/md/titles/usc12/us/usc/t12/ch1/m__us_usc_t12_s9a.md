@@ -13,9 +13,9 @@
 
 [Previous](./../../../..//us/usc/t12/ch1/m__us_usc_t12_s9.md) | [Next](./../../../..//us/usc/t12/ch1/m__us_usc_t12_s10.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs9a)
 
-## § 9a. Repealed. [Pub. L. 89–554, § 8(a)][/us/pl/89/554/s8/a], Sept. 6, 1966, [80 Stat. 645][/us/stat/80/645]
+## § 9a. Repealed. [Pub. L. 89–554][/us/pl/89/554], § 8(a), Sept. 6, 1966, [80 Stat. 645][/us/stat/80/645]
 
-    Section, [act Mar. 4, 1923, ch. 252][/us/act/1923-03-04/ch252], title II, § 209(b), [42 Stat. 1467][/us/stat/42/1467], authorized Comptroller to fix in advance pay of deputy comptrollers, examiners, clerks, and certain other employees.
+    Section, [act Mar. 4, 1923, ch. 252, title II][/us/act/1923-03-04/ch252/tII], § 209(b), [42 Stat. 1467][/us/stat/42/1467], authorized Comptroller to fix in advance pay of deputy comptrollers, examiners, clerks, and certain other employees.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/pl/89/554/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs8%2Fa
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F645
-[/us/act/1923-03-04/ch252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1923-03-04%2Fch252
+[/us/act/1923-03-04/ch252/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1923-03-04%2Fch252%2FtII
 [/us/stat/42/1467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F1467
 
 

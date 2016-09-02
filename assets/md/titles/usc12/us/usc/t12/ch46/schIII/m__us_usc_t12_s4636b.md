@@ -17,7 +17,7 @@
 
     Whoever, being subject to an order in effect under [section 4636a of this title][/us/usc/t12/s4636a], without the prior written approval of the Director, knowingly participates, directly or indirectly, in any manner (including by engaging in an activity specifically prohibited in such an order) in the conduct of the affairs of any regulated entity shall, notwithstanding [section 3571 of title 18][/us/usc/t18/s3571], be fined not more than $1,000,000, imprisoned for not more than 5 years, or both.
 
-([Pub. L. 102–550, title XIII, § 1378][/us/pl/102/550/s1378], as added [Pub. L. 110–289, div. A, title I, § 1156(a)][/us/pl/110/289/s1156/a], July 30, 2008, [122 Stat. 2777][/us/stat/122/2777].)
+([Pub. L. 102–550, title XIII][/us/pl/102/550/tXIII], § 1378, as added [Pub. L. 110–289, div. A, title I][/us/pl/110/289/dA/tI], § 1156(a), July 30, 2008, [122 Stat. 2777][/us/stat/122/2777].)
 
  __Prior Provisions__ 
 
@@ -32,8 +32,8 @@
 
 [/us/usc/t12/s4636a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4636a
 [/us/usc/t18/s3571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3571
-[/us/pl/102/550/s1378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1378
-[/us/pl/110/289/s1156/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1156%2Fa
+[/us/pl/102/550/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIII
+[/us/pl/110/289/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtI
 [/us/stat/122/2777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2777
 [/us/pl/102/550/s1378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1378
 [/us/usc/t12/s4638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4638

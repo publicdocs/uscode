@@ -17,7 +17,7 @@
 
     The Office may make the technical assistance services under this subchapter available for such fees as it may establish, except that such services as the Office may determine may be made available without charge to eligible cooperatives depending on the nature of the services or on ability to pay. Any fees collected shall be accounted for separately and be available for expenses of the Office.
 
-([Pub. L. 95–351, title II, § 210][/us/pl/95/351/s210], Aug. 20, 1978, [92 Stat. 513][/us/stat/92/513].)
+([Pub. L. 95–351, title II][/us/pl/95/351/tII], § 210, Aug. 20, 1978, [92 Stat. 513][/us/stat/92/513].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/351/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F351%2Fs210
+[/us/pl/95/351/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F351%2FtII
 [/us/stat/92/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F513
 
 

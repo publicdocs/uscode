@@ -23,7 +23,7 @@
 
         There is authorized to be appropriated to the Secretary of the Treasury such sums on an annual basis as may be necessary to carry out this part.
 
-([Pub. L. 92–181, title VI, § 6][/us/pl/92/181/s6].28, as added [Pub. L. 100–233, title II, § 201][/us/pl/100/233/s201], Jan. 6, 1988, [101 Stat. 1603][/us/stat/101/1603]; amended [Pub. L. 100–399, title II, § 201(bb)][/us/pl/100/399/s201/bb], Aug. 17, 1988, [102 Stat. 992][/us/stat/102/992]; [Pub. L. 102–552, title III, § 304(b)][/us/pl/102/552/s304/b], Oct. 28, 1992, [106 Stat. 4114][/us/stat/106/4114].)
+([Pub. L. 92–181, title VI][/us/pl/92/181/tVI], § 6.28, as added [Pub. L. 100–233, title II][/us/pl/100/233/tII], § 201, Jan. 6, 1988, [101 Stat. 1603][/us/stat/101/1603]; amended [Pub. L. 100–399, title II][/us/pl/100/399/tII], § 201(bb), Aug. 17, 1988, [102 Stat. 992][/us/stat/102/992]; [Pub. L. 102–552, title III][/us/pl/102/552/tIII], § 304(b), Oct. 28, 1992, [106 Stat. 4114][/us/stat/106/4114].)
 
  __Amendments__ 
 
@@ -54,12 +54,12 @@
 
 [/us/usc/t12/s2278b–6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2278b%E2%80%936%2Fc
 [/us/usc/t12/s2278b–6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2278b%E2%80%936%2Fc
-[/us/pl/92/181/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs6
-[/us/pl/100/233/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs201
+[/us/pl/92/181/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtVI
+[/us/pl/100/233/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtII
 [/us/stat/101/1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1603
-[/us/pl/100/399/s201/bb]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs201%2Fbb
+[/us/pl/100/399/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtII
 [/us/stat/102/992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F992
-[/us/pl/102/552/s304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2Fs304%2Fb
+[/us/pl/102/552/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2FtIII
 [/us/stat/106/4114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4114
 [/us/pl/102/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552
 [/us/usc/t12/s2278b–6/c/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2278b%E2%80%936%2Fc%2F2%2FD

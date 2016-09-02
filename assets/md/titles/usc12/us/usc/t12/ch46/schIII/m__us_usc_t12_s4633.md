@@ -43,15 +43,15 @@
 
             Judicial review of any such order shall be exclusively as provided in [section 4634 of this title][/us/usc/t12/s4634]. Unless such a petition for review is timely filed as provided in [section 4634 of this title][/us/usc/t12/s4634], and thereafter until the record in the proceeding has been filed as so provided, the Director may at any time, modify, terminate, or set aside any such order, upon such notice and in such manner as the Director considers proper. Upon such filing of the record, the Director may modify, terminate, or set aside any such order with permission of the court.
 
-([Pub. L. 102–550, title XIII, § 1373][/us/pl/102/550/s1373], Oct. 28, 1992, [106 Stat. 3989][/us/stat/106/3989]; [Pub. L. 110–289, div. A, title I, § 1153(b)(1)(B)][/us/pl/110/289/s1153/b/1/B], July 30, 2008, [122 Stat. 2774][/us/stat/122/2774].)
+([Pub. L. 102–550, title XIII][/us/pl/102/550/tXIII], § 1373, Oct. 28, 1992, [106 Stat. 3989][/us/stat/106/3989]; [Pub. L. 110–289, div. A, title I][/us/pl/110/289/dA/tI], § 1153(b)(1)(B), July 30, 2008, [122 Stat. 2774][/us/stat/122/2774].)
 
  __Amendments__ 
 
-    2008—Subsec. (a)(1). [Pub. L. 110–289, § 1153(b)(1)(B)(i)][/us/pl/110/289/s1153/b/1/B/i], substituted “section 4631, 4636(c), or 4636a of this title” for “section 4631 or 4636(c) of this title”.
+    2008—Subsec. (a)(1). [Pub. L. 110–289][/us/pl/110/289], § 1153(b)(1)(B)(i), substituted “section 4631, 4636(c), or 4636a of this title” for “section 4631 or 4636(c) of this title”.
 
-    Subsec. (a)(2). [Pub. L. 110–289, § 1153(b)(1)(B)(ii)][/us/pl/110/289/s1153/b/1/B/ii], inserted “or 4636a” after “section 4631”.
+    Subsec. (a)(2). [Pub. L. 110–289][/us/pl/110/289], § 1153(b)(1)(B)(ii), inserted “or 4636a” after “section 4631”.
 
-    Subsec. (a)(4). [Pub. L. 110–289, § 1153(b)(1)(B)(iii)][/us/pl/110/289/s1153/b/1/B/iii], which directed amendment of par. (4) by inserting “or removal or prohibition” after “cease and desist”, was executed by making the insertion after “cease-and-desist” to reflect the probable intent of Congress.
+    Subsec. (a)(4). [Pub. L. 110–289][/us/pl/110/289], § 1153(b)(1)(B)(iii), which directed amendment of par. (4) by inserting “or removal or prohibition” after “cease and desist”, was executed by making the insertion after “cease-and-desist” to reflect the probable intent of Congress.
 
 ----------
 
@@ -63,12 +63,12 @@
 [/us/usc/t12/s4636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4636
 [/us/usc/t12/s4634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4634
 [/us/usc/t12/s4634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4634
-[/us/pl/102/550/s1373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1373
+[/us/pl/102/550/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIII
 [/us/stat/106/3989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3989
-[/us/pl/110/289/s1153/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1153%2Fb%2F1%2FB
+[/us/pl/110/289/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtI
 [/us/stat/122/2774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2774
-[/us/pl/110/289/s1153/b/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1153%2Fb%2F1%2FB%2Fi
-[/us/pl/110/289/s1153/b/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1153%2Fb%2F1%2FB%2Fii
-[/us/pl/110/289/s1153/b/1/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1153%2Fb%2F1%2FB%2Fiii
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
 
 

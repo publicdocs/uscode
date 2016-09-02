@@ -37,7 +37,7 @@
 
         Federal agencies subject to this section shall submit financing plans to the Secretary of the Treasury at such times and in such forms as he shall prescribe.
 
-([Pub. L. 93–224, § 7][/us/pl/93/224/s7], Dec. 29, 1973, [87 Stat. 938][/us/stat/87/938].)
+([Pub. L. 93–224][/us/pl/93/224], § 7, Dec. 29, 1973, [87 Stat. 938][/us/stat/87/938].)
 
  __Effective Date__ 
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/93/224/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F224%2Fs7
+[/us/pl/93/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F224
 [/us/stat/87/938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F938
 [/us/pl/93/224/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F224%2Fs20
 [/us/usc/t12/s2281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2281

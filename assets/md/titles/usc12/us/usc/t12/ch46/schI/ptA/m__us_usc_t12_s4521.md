@@ -71,7 +71,7 @@
 
         (5) the number of litigation requests pending at the beginning of the calendar year, the number of requests made during the calendar year, the number of requests for which action was completed during the calendar year, and the number of requests pending at the end of the calendar year.
 
-([Pub. L. 102–550, title XIII, § 1319B][/us/pl/102/550/s1319B], Oct. 28, 1992, [106 Stat. 3950][/us/stat/106/3950]; [Pub. L. 103–325, title V, § 529(c)][/us/pl/103/325/s529/c], Sept. 23, 1994, [108 Stat. 2267][/us/stat/108/2267]; [Pub. L. 110–289, div. A, title I][/us/pl/110/289], §§ 1103(b), 1161(a)(6), July 30, 2008, [122 Stat. 2665][/us/stat/122/2665], 2779.)
+([Pub. L. 102–550, title XIII][/us/pl/102/550/tXIII], § 1319B, Oct. 28, 1992, [106 Stat. 3950][/us/stat/106/3950]; [Pub. L. 103–325, title V][/us/pl/103/325/tV], § 529(c), Sept. 23, 1994, [108 Stat. 2267][/us/stat/108/2267]; [Pub. L. 110–289, div. A, title I][/us/pl/110/289/dA/tI], §§ 1103(b), 1161(a)(6), July 30, 2008, [122 Stat. 2665][/us/stat/122/2665], 2779.)
 
  __References in Text__ 
 
@@ -79,13 +79,13 @@
 
  __Amendments__ 
 
-    2008—Subsec. (a). [Pub. L. 110–289, § 1161(a)(6)][/us/pl/110/289/s1161/a/6], substituted “Committee on Financial Services” for “Committee on Banking, Finance and Urban Affairs” in introductory provisions.
+    2008—Subsec. (a). [Pub. L. 110–289][/us/pl/110/289], § 1161(a)(6), substituted “Committee on Financial Services” for “Committee on Banking, Finance and Urban Affairs” in introductory provisions.
 
-    Subsec. (a)(2) to (4). [Pub. L. 110–289, § 1103(b)(1)][/us/pl/110/289/s1103/b/1]–(4), substituted “regulated entity” for “enterprise” and “regulated entities” for “enterprises” wherever appearing and substituted a semicolon for “; and” at end of par. (3) and “1994; and” for “1994.” at end of par. (4).
+    Subsec. (a)(2) to (4). [Pub. L. 110–289][/us/pl/110/289], § 1103(b)(1)–(4), substituted “regulated entity” for “enterprise” and “regulated entities” for “enterprises” wherever appearing and substituted a semicolon for “; and” at end of par. (3) and “1994; and” for “1994.” at end of par. (4).
 
-    Subsec. (a)(5) to (7). [Pub. L. 110–289, § 1103(b)(5)][/us/pl/110/289/s1103/b/5], added pars. (5) to (7).
+    Subsec. (a)(5) to (7). [Pub. L. 110–289][/us/pl/110/289], § 1103(b)(5), added pars. (5) to (7).
 
-    Subsec. (b). [Pub. L. 110–289, § 1161(a)(6)][/us/pl/110/289/s1161/a/6], substituted “Committee on Financial Services” for “Committee on Banking, Finance and Urban Affairs” in introductory provisions.
+    Subsec. (b). [Pub. L. 110–289][/us/pl/110/289], § 1161(a)(6), substituted “Committee on Financial Services” for “Committee on Banking, Finance and Urban Affairs” in introductory provisions.
 
     1994—Subsec. (a)(4). [Pub. L. 103–325][/us/pl/103/325] added par. (4).
 
@@ -99,19 +99,19 @@
 [/us/usc/t12/s4517/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4517%2Fa
 [/us/usc/t42/s4012a/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4012a%2Fb%2F3
 [/us/usc/t42/s4012a/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4012a%2Fb%2F3
-[/us/pl/102/550/s1319B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1319B
+[/us/pl/102/550/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIII
 [/us/stat/106/3950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3950
-[/us/pl/103/325/s529/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs529%2Fc
+[/us/pl/103/325/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtV
 [/us/stat/108/2267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2267
-[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtI
 [/us/stat/122/2665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2665
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/stat/106/3941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3941
 [/us/usc/t12/s4501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4501
-[/us/pl/110/289/s1161/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1161%2Fa%2F6
-[/us/pl/110/289/s1103/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1103%2Fb%2F1
-[/us/pl/110/289/s1103/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1103%2Fb%2F5
-[/us/pl/110/289/s1161/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1161%2Fa%2F6
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
 [/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
 
 

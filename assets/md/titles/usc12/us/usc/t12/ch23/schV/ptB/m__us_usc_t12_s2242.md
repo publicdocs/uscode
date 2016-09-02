@@ -41,7 +41,7 @@
 
         (3) have a strong financial, legal, or regulatory background.
 
-([Pub. L. 92–181, title V, § 5][/us/pl/92/181/s5].8, Dec. 10, 1971, [85 Stat. 617][/us/stat/85/617]; [Pub. L. 96–592, title V, § 503][/us/pl/96/592/s503], Dec. 24, 1980, [94 Stat. 3449][/us/stat/94/3449]; [Pub. L. 99–205, title II, § 201(1)][/us/pl/99/205/s201/1], Dec. 23, 1985, [99 Stat. 1688][/us/stat/99/1688]; [Pub. L. 100–233, title IV, § 431(a)][/us/pl/100/233/s431/a], Jan. 6, 1988, [101 Stat. 1658][/us/stat/101/1658]; [Pub. L. 102–552, title I, § 102][/us/pl/102/552/s102], Oct. 28, 1992, [106 Stat. 4103][/us/stat/106/4103].)
+([Pub. L. 92–181, title V][/us/pl/92/181/tV], § 5.8, Dec. 10, 1971, [85 Stat. 617][/us/stat/85/617]; [Pub. L. 96–592, title V][/us/pl/96/592/tV], § 503, Dec. 24, 1980, [94 Stat. 3449][/us/stat/94/3449]; [Pub. L. 99–205, title II][/us/pl/99/205/tII], § 201(1), Dec. 23, 1985, [99 Stat. 1688][/us/stat/99/1688]; [Pub. L. 100–233, title IV][/us/pl/100/233/tIV], § 431(a), Jan. 6, 1988, [101 Stat. 1658][/us/stat/101/1658]; [Pub. L. 102–552, title I][/us/pl/102/552/tI], § 102, Oct. 28, 1992, [106 Stat. 4103][/us/stat/106/4103].)
 
  __Amendments__ 
 
@@ -71,15 +71,15 @@
 [/us/usc/t5/s5314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5314
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
 [/us/usc/t12/s2245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2245
-[/us/pl/92/181/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs5
+[/us/pl/92/181/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtV
 [/us/stat/85/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F617
-[/us/pl/96/592/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592%2Fs503
+[/us/pl/96/592/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592%2FtV
 [/us/stat/94/3449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3449
-[/us/pl/99/205/s201/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2Fs201%2F1
+[/us/pl/99/205/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2FtII
 [/us/stat/99/1688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1688
-[/us/pl/100/233/s431/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs431%2Fa
+[/us/pl/100/233/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtIV
 [/us/stat/101/1658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1658
-[/us/pl/102/552/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2Fs102
+[/us/pl/102/552/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2FtI
 [/us/stat/106/4103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4103
 [/us/pl/102/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552
 [/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233

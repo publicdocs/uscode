@@ -13,7 +13,7 @@
 
 [Previous](./../../../../..//us/usc/t12/ch2/schX/m__us_usc_t12_s161.md) | [Next](./../../../../..//us/usc/t12/ch2/schX/m__us_usc_t12_s163.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs162)
 
-## § 162. Repealed. [Pub. L. 86–671, § 6][/us/pl/86/671/s6], July 14, 1960, [74 Stat. 552][/us/stat/74/552].
+## § 162. Repealed. [Pub. L. 86–671][/us/pl/86/671], § 6, July 14, 1960, [74 Stat. 552][/us/stat/74/552].
 
     Section, [act Feb. 26, 1881, ch. 82][/us/act/1881-02-26/ch82], [21 Stat. 352][/us/stat/21/352], prescribed the manner of verification of reports of condition of national banks. See [section 1817 of this title][/us/usc/t12/s1817].
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/86/671/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F671%2Fs6
+[/us/pl/86/671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F671
 [/us/stat/74/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F552
 [/us/act/1881-02-26/ch82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1881-02-26%2Fch82
 [/us/stat/21/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F21%2F352

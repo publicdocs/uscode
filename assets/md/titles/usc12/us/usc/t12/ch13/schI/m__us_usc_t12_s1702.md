@@ -17,7 +17,7 @@
 
     The powers conferred by this chapter shall be exercised by the Secretary of Housing and Urban Development (hereinafter referred to as the “Secretary”). In order to carry out the provisions of this subchapter and subchapters II, III, V, VI, VII, VIII, IX–B, and X, the Secretary may establish such agencies, accept and utilize such voluntary and uncompensated services, utilize such Federal officers and employees, and, with the consent of the State, such State and local officers and employees, and appoint such other officers and employees as he may find necessary, and may prescribe their authorities, duties, responsibilities, and tenure and fix their compensation. The Secretary may delegate any of the functions and powers conferred upon him under this subchapter and subchapters II, III, V, VI, VII, VIII, IX–B, and X to such officers, agents, and employees as he may designate or appoint, and may make such expenditures (including expenditures for personal services and rent at the seat of government and elsewhere, for law books and books of reference, and for paper, printing, and binding) as are necessary to carry out the provisions of this subchapter and subchapters II, III, V, VI, VII, VIII, IX–B, and X, without regard to any other provisions of law governing the expenditure of public funds. All such compensation, expenses, and allowances shall be paid out of funds made available by this chapter: Provided, That notwithstanding any other provisions of law except provisions of law hereafter enacted expressly in limitation hereof, all expenses of the Department of Housing and Urban Development in connection with the examination and insurance of loans or investments under any subchapter of this chapter all properly capitalized expenditures, and other necessary expenses not attributable to general overhead in accordance with generally accepted accounting principles shall be considered nonadministrative and payable from funds made available by this chapter, except that, unless made pursuant to specific authorization by the Congress therefor, expenditures made in any fiscal year pursuant to this proviso, other than the payment of insurance claims and other than expenditures (including services on a contract or fee basis, but not including other personal services) in connection with the acquisition, protection, completion, operation, maintenance, improvement, or disposition of real or personal property of the Department acquired under authority of this chapter, shall not exceed 35 per centum of the income received by the Department of Housing and Urban Development from premiums and fees during the preceding fiscal year. Except with respect to subchapter III, for the purposes of this section, the term “nonadministrative” shall not include contract expenses that are not capitalized or routinely deducted from the proceeds of sales, and such expenses shall not be payable from funds made available by this chapter. The Secretary shall, in carrying out the provisions of this subchapter and subchapters II, III, V, VI, VII, VIII, IX–B, and X, be authorized, in his official capacity, to sue and be sued in any court of competent jurisdiction, State or Federal.
 
-([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title I, § 1, [48 Stat. 1246][/us/stat/48/1246]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title III, § 344(a), [49 Stat. 722][/us/stat/49/722]; [Mar. 28, 1941, ch. 31, § 2][/us/act/1941-03-28/ch31/s2], [55 Stat. 61][/us/stat/55/61]; [June 28, 1941, ch. 261, § 6][/us/act/1941-06-28/ch261/s6], [55 Stat. 365][/us/stat/55/365]; [Aug. 10, 1948, ch. 832][/us/act/1948-08-10/ch832], title IV, § 402, [62 Stat. 1283][/us/stat/62/1283]; [Aug. 8, 1949, ch. 403, § 2][/us/act/1949-08-08/ch403/s2], [63 Stat. 576][/us/stat/63/576]; [Oct. 25, 1949, ch. 729, § 2][/us/act/1949-10-25/ch729/s2], [63 Stat. 905][/us/stat/63/905]; [Apr. 20, 1950, ch. 94][/us/act/1950-04-20/ch94], title I, § 122, [64 Stat. 59][/us/stat/64/59]; [Sept. 1, 1951, ch. 378][/us/act/1951-09-01/ch378], title II, § 202, [65 Stat. 303][/us/stat/65/303]; [Pub. L. 89–117, title XI, § 1108(bb)][/us/pl/89/117/s1108/bb], Aug. 10, 1965, [79 Stat. 507][/us/stat/79/507]; [Pub. L. 89–754, title X, § 1020(g)][/us/pl/89/754/s1020/g], Nov. 3, 1966, [80 Stat. 1296][/us/stat/80/1296]; [Pub. L. 90–19, § 1(a)(1)][/us/pl/90/19/s1/a/1], (3), (c), May 25, 1967, [81 Stat. 17][/us/stat/81/17], 18; [Pub. L. 98–479, title II, § 202(a)(1)][/us/pl/98/479/s202/a/1], Oct. 17, 1984, [98 Stat. 2228][/us/stat/98/2228]; [Pub. L. 100–242, title IV, § 429(a)][/us/pl/100/242/s429/a], Feb. 5, 1988, [101 Stat. 1918][/us/stat/101/1918]; [Pub. L. 101–235, title I, § 133(d)(1)][/us/pl/101/235/s133/d/1], Dec. 15, 1989, [103 Stat. 2027][/us/stat/103/2027]; [Pub. L. 106–74, title II, § 212][/us/pl/106/74/s212], Oct. 20, 1999, [113 Stat. 1073][/us/stat/113/1073].)
+([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title I, § 1, [48 Stat. 1246][/us/stat/48/1246]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title III, § 344(a), [49 Stat. 722][/us/stat/49/722]; [Mar. 28, 1941, ch. 31][/us/act/1941-03-28/ch31], § 2, [55 Stat. 61][/us/stat/55/61]; [June 28, 1941, ch. 261][/us/act/1941-06-28/ch261], § 6, [55 Stat. 365][/us/stat/55/365]; [Aug. 10, 1948, ch. 832][/us/act/1948-08-10/ch832], title IV, § 402, [62 Stat. 1283][/us/stat/62/1283]; [Aug. 8, 1949, ch. 403][/us/act/1949-08-08/ch403], § 2, [63 Stat. 576][/us/stat/63/576]; [Oct. 25, 1949, ch. 729][/us/act/1949-10-25/ch729], § 2, [63 Stat. 905][/us/stat/63/905]; [Apr. 20, 1950, ch. 94][/us/act/1950-04-20/ch94], title I, § 122, [64 Stat. 59][/us/stat/64/59]; [Sept. 1, 1951, ch. 378][/us/act/1951-09-01/ch378], title II, § 202, [65 Stat. 303][/us/stat/65/303]; [Pub. L. 89–117, title XI][/us/pl/89/117/tXI], § 1108(bb), Aug. 10, 1965, [79 Stat. 507][/us/stat/79/507]; [Pub. L. 89–754, title X][/us/pl/89/754/tX], § 1020(g), Nov. 3, 1966, [80 Stat. 1296][/us/stat/80/1296]; [Pub. L. 90–19][/us/pl/90/19], § 1(a)(1), (3), (c), May 25, 1967, [81 Stat. 17][/us/stat/81/17], 18; [Pub. L. 98–479, title II][/us/pl/98/479/tII], § 202(a)(1), Oct. 17, 1984, [98 Stat. 2228][/us/stat/98/2228]; [Pub. L. 100–242, title IV][/us/pl/100/242/tIV], § 429(a), Feb. 5, 1988, [101 Stat. 1918][/us/stat/101/1918]; [Pub. L. 101–235, title I][/us/pl/101/235/tI], § 133(d)(1), Dec. 15, 1989, [103 Stat. 2027][/us/stat/103/2027]; [Pub. L. 106–74, title II][/us/pl/106/74/tII], § 212, Oct. 20, 1999, [113 Stat. 1073][/us/stat/113/1073].)
 
  __References in Text__ 
 
@@ -61,7 +61,7 @@
 
  __Repeals__ 
 
-    [Act Aug. 10, 1948, ch. 832][/us/act/1948-08-10/ch832], title V, § 501(a), [62 Stat. 1283][/us/stat/62/1283], formerly cited as a credit to this section, was repealed by [Pub. L. 89–554, § 8(a)][/us/pl/89/554/s8/a], Sept. 6, 1966, [80 Stat. 655][/us/stat/80/655].
+    [Act Aug. 10, 1948, ch. 832, title V][/us/act/1948-08-10/ch832/tV], § 501(a), [62 Stat. 1283][/us/stat/62/1283], formerly cited as a credit to this section, was repealed by [Pub. L. 89–554][/us/pl/89/554], § 8(a), Sept. 6, 1966, [80 Stat. 655][/us/stat/80/655].
 
  __Transfer of Functions__ 
 
@@ -96,33 +96,33 @@
 [/us/stat/48/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1246
 [/us/act/1935-08-23/ch614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch614
 [/us/stat/49/722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F722
-[/us/act/1941-03-28/ch31/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-03-28%2Fch31%2Fs2
+[/us/act/1941-03-28/ch31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-03-28%2Fch31
 [/us/stat/55/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F61
-[/us/act/1941-06-28/ch261/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-06-28%2Fch261%2Fs6
+[/us/act/1941-06-28/ch261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-06-28%2Fch261
 [/us/stat/55/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F365
 [/us/act/1948-08-10/ch832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-08-10%2Fch832
 [/us/stat/62/1283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1283
-[/us/act/1949-08-08/ch403/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-08%2Fch403%2Fs2
+[/us/act/1949-08-08/ch403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-08%2Fch403
 [/us/stat/63/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F576
-[/us/act/1949-10-25/ch729/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-25%2Fch729%2Fs2
+[/us/act/1949-10-25/ch729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-25%2Fch729
 [/us/stat/63/905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F905
 [/us/act/1950-04-20/ch94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-04-20%2Fch94
 [/us/stat/64/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F59
 [/us/act/1951-09-01/ch378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-09-01%2Fch378
 [/us/stat/65/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F303
-[/us/pl/89/117/s1108/bb]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117%2Fs1108%2Fbb
+[/us/pl/89/117/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117%2FtXI
 [/us/stat/79/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F507
-[/us/pl/89/754/s1020/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F754%2Fs1020%2Fg
+[/us/pl/89/754/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F754%2FtX
 [/us/stat/80/1296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1296
-[/us/pl/90/19/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19%2Fs1%2Fa%2F1
+[/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
 [/us/stat/81/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F17
-[/us/pl/98/479/s202/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2Fs202%2Fa%2F1
+[/us/pl/98/479/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2FtII
 [/us/stat/98/2228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2228
-[/us/pl/100/242/s429/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs429%2Fa
+[/us/pl/100/242/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtIV
 [/us/stat/101/1918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1918
-[/us/pl/101/235/s133/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235%2Fs133%2Fd%2F1
+[/us/pl/101/235/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235%2FtI
 [/us/stat/103/2027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2027
-[/us/pl/106/74/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F74%2Fs212
+[/us/pl/106/74/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F74%2FtII
 [/us/stat/113/1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1073
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
 [/us/stat/48/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1246
@@ -133,9 +133,9 @@
 [/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
 [/us/pl/89/754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F754
 [/us/pl/89/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117
-[/us/act/1948-08-10/ch832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-08-10%2Fch832
+[/us/act/1948-08-10/ch832/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-08-10%2Fch832%2FtV
 [/us/stat/62/1283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1283
-[/us/pl/89/554/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs8%2Fa
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F655
 [/us/stat/61/954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F954
 [/us/act/1946-08-14/ch964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-14%2Fch964

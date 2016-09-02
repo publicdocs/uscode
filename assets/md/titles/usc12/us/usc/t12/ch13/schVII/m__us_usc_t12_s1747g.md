@@ -47,7 +47,7 @@
 
         Notwithstanding any other provisions of law relating to the acquisition, handling, or disposal of real and other property by the United States, the Secretary shall have power, for the protection of the General Insurance Fund, to pay out of said Fund all expenses or charges in connection with, and to deal with, complete, reconstruct, rent, renovate, modernize, insure, make contracts for the management of, or establish suitable agencies for the management of, or sell for cash or credit or lease in his discretion, in whole or in part, any project acquired pursuant to this subchapter; and, notwithstanding any other provisions of law, the Secretary shall also have power to pursue to final collection by way of compromise or otherwise all claims acquired by, or assigned or transferred to, him in connection with the acquisition or disposal of any project pursuant to this subchapter: Provided, That [section 6101 of title 41][/us/usc/t41/s6101] shall not be construed to apply to any contract for hazard insurance, or to any purchase or contract for services or supplies on account of any project acquired pursuant to this subchapter if the amount of such purchase or contract does not exceed $1,000.
 
-([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title VII, § 708, as added [Aug. 10, 1948, ch. 832][/us/act/1948-08-10/ch832], title IV, § 401, [62 Stat. 1278][/us/stat/62/1278]; amended [Apr. 20, 1950, ch. 94][/us/act/1950-04-20/ch94], title I, § 122, [64 Stat. 59][/us/stat/64/59]; [Pub. L. 89–117, title XI, § 1108(t)][/us/pl/89/117/s1108/t], Aug. 10, 1965, [79 Stat. 506][/us/stat/79/506]; [Pub. L. 90–19, § 1(a)(3)][/us/pl/90/19/s1/a/3], May 25, 1967, [81 Stat. 17][/us/stat/81/17].)
+([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title VII, § 708, as added [Aug. 10, 1948, ch. 832][/us/act/1948-08-10/ch832], title IV, § 401, [62 Stat. 1278][/us/stat/62/1278]; amended [Apr. 20, 1950, ch. 94][/us/act/1950-04-20/ch94], title I, § 122, [64 Stat. 59][/us/stat/64/59]; [Pub. L. 89–117, title XI][/us/pl/89/117/tXI], § 1108(t), Aug. 10, 1965, [79 Stat. 506][/us/stat/79/506]; [Pub. L. 90–19][/us/pl/90/19], § 1(a)(3), May 25, 1967, [81 Stat. 17][/us/stat/81/17].)
 
  __References in Text__ 
 
@@ -55,7 +55,7 @@
 
  __Codification__ 
 
-    In subsec. (h), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 3709 of the Revised Statutes” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (h), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 3709 of the Revised Statutes” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Amendments__ 
 
@@ -79,13 +79,13 @@
 [/us/stat/62/1278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1278
 [/us/act/1950-04-20/ch94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-04-20%2Fch94
 [/us/stat/64/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F59
-[/us/pl/89/117/s1108/t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117%2Fs1108%2Ft
+[/us/pl/89/117/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117%2FtXI
 [/us/stat/79/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F506
-[/us/pl/90/19/s1/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19%2Fs1%2Fa%2F3
+[/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
 [/us/stat/81/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F17
 [/us/usc/t12/s1735c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1735c
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
 [/us/pl/89/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117

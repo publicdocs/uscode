@@ -23,7 +23,7 @@
 
     (3) allege under oath or affirmation specific facts that establish a prima facie case showing that the asset is legally subject to attachment, garnishment, sequestration, or other proceeding in satisfaction of the judgment referred to in [section 4221 of this title][/us/usc/t12/s4221].
 
-([Pub. L. 101–647, title XXV, § 2577][/us/pl/101/647/s2577], Nov. 29, 1990, [104 Stat. 4900][/us/stat/104/4900].)
+([Pub. L. 101–647, title XXV][/us/pl/101/647/tXXV], § 2577, Nov. 29, 1990, [104 Stat. 4900][/us/stat/104/4900].)
 
 ----------
 
@@ -34,7 +34,7 @@
 
 [/us/usc/t12/s4221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4221
 [/us/usc/t12/s4221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4221
-[/us/pl/101/647/s2577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2577
+[/us/pl/101/647/tXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXV
 [/us/stat/104/4900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4900
 
 

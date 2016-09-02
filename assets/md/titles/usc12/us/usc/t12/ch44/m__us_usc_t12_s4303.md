@@ -61,7 +61,7 @@
 
         Schedules required under subsection (a) shall be written in clear and plain language and be presented in a format designed to allow consumers to readily understand the terms of the accounts offered.
 
-([Pub. L. 102–242, title II, § 264][/us/pl/102/242/s264], Dec. 19, 1991, [105 Stat. 2335][/us/stat/105/2335]; [Pub. L. 111–203, title X, § 1100B(1)][/us/pl/111/203/s1100B/1], July 21, 2010, [124 Stat. 2109][/us/stat/124/2109].)
+([Pub. L. 102–242, title II][/us/pl/102/242/tII], § 264, Dec. 19, 1991, [105 Stat. 2335][/us/stat/105/2335]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1100B(1), July 21, 2010, [124 Stat. 2109][/us/stat/124/2109].)
 
  __Amendments__ 
 
@@ -78,9 +78,9 @@
 ----------
 ----------
 
-[/us/pl/102/242/s264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs264
+[/us/pl/102/242/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtII
 [/us/stat/105/2335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2335
-[/us/pl/111/203/s1100B/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100B%2F1
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2109
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203

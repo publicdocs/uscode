@@ -61,7 +61,7 @@
 
         In determining whether a loan is to be restructured, the National Special Asset Council, each special asset group, and each qualified lender certified under [section 2278a–4 of this title][/us/usc/t12/s2278a–4] shall take into consideration the factors specified in [section 2202a(d)(1) of this title][/us/usc/t12/s2202a/d/1].
 
-([Pub. L. 92–181, title IV, § 4][/us/pl/92/181/s4].14C, as added [Pub. L. 100–233, title I, § 102(a)][/us/pl/100/233/s102/a], Jan. 6, 1988, [101 Stat. 1578][/us/stat/101/1578]; amended [Pub. L. 100–399, title I, § 102(h)][/us/pl/100/399/s102/h], Aug. 17, 1988, [102 Stat. 990][/us/stat/102/990].)
+([Pub. L. 92–181, title IV][/us/pl/92/181/tIV], § 4.14C, as added [Pub. L. 100–233, title I][/us/pl/100/233/tI], § 102(a), Jan. 6, 1988, [101 Stat. 1578][/us/stat/101/1578]; amended [Pub. L. 100–399, title I][/us/pl/100/399/tI], § 102(h), Aug. 17, 1988, [102 Stat. 990][/us/stat/102/990].)
 
  __Amendments__ 
 
@@ -83,10 +83,10 @@
 [/us/usc/t12/s2278b–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2278b%E2%80%937
 [/us/usc/t12/s2278a–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2278a%E2%80%934
 [/us/usc/t12/s2202a/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2202a%2Fd%2F1
-[/us/pl/92/181/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs4
-[/us/pl/100/233/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs102%2Fa
+[/us/pl/92/181/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtIV
+[/us/pl/100/233/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtI
 [/us/stat/101/1578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1578
-[/us/pl/100/399/s102/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs102%2Fh
+[/us/pl/100/399/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtI
 [/us/stat/102/990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F990
 [/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399

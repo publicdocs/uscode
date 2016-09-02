@@ -37,17 +37,17 @@
 
         Except as provided in this section, no court shall have jurisdiction to affect, by injunction or otherwise, the issuance or effectiveness of any classification or action of the Director under this subchapter (other than appointment of a conservator under section 4616 or 4617 of this title or action under section 4619 1 of this title) or to review, modify, suspend, terminate, or set aside such classification or action.
 
-([Pub. L. 102–550, title XIII, § 1369D][/us/pl/102/550/s1369D], Oct. 28, 1992, [106 Stat. 3985][/us/stat/106/3985]; [Pub. L. 110–289, div. A, title I, § 1145(b)(3)][/us/pl/110/289/s1145/b/3], July 30, 2008, [122 Stat. 2767][/us/stat/122/2767].)
+([Pub. L. 102–550, title XIII][/us/pl/102/550/tXIII], § 1369D, Oct. 28, 1992, [106 Stat. 3985][/us/stat/106/3985]; [Pub. L. 110–289, div. A, title I][/us/pl/110/289/dA/tI], § 1145(b)(3), July 30, 2008, [122 Stat. 2767][/us/stat/122/2767].)
 
  __References in Text__ 
 
-    [Section 4619 of this title][/us/usc/t12/s4619], referred to in subsecs. (a)(1) and (d), was repealed by [Pub. L. 110–289, div. A, title I, § 1145(b)(4)][/us/pl/110/289/s1145/b/4], July 30, 2008, [122 Stat. 2767][/us/stat/122/2767].
+    [Section 4619 of this title][/us/usc/t12/s4619], referred to in subsecs. (a)(1) and (d), was repealed by [Pub. L. 110–289, div. A, title I][/us/pl/110/289/dA/tI], § 1145(b)(4), July 30, 2008, [122 Stat. 2767][/us/stat/122/2767].
 
  __Amendments__ 
 
-    2008—Subsec. (a)(1). [Pub. L. 110–289, § 1145(b)(3)(B)][/us/pl/110/289/s1145/b/3/B], substituted “A regulated entity” for “An enterprise”.
+    2008—Subsec. (a)(1). [Pub. L. 110–289][/us/pl/110/289], § 1145(b)(3)(B), substituted “A regulated entity” for “An enterprise”.
 
-    Subsec. (c). [Pub. L. 110–289, § 1145(b)(3)(A)][/us/pl/110/289/s1145/b/3/A], substituted “a regulated entity” for “an enterprise” in two places.
+    Subsec. (c). [Pub. L. 110–289][/us/pl/110/289], § 1145(b)(3)(A), substituted “a regulated entity” for “an enterprise” in two places.
 
 ----------
 
@@ -57,14 +57,14 @@
 ----------
 
 [/us/usc/t12/s4614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4614
-[/us/pl/102/550/s1369D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1369D
+[/us/pl/102/550/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIII
 [/us/stat/106/3985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3985
-[/us/pl/110/289/s1145/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1145%2Fb%2F3
+[/us/pl/110/289/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtI
 [/us/stat/122/2767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2767
 [/us/usc/t12/s4619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4619
-[/us/pl/110/289/s1145/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1145%2Fb%2F4
+[/us/pl/110/289/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtI
 [/us/stat/122/2767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2767
-[/us/pl/110/289/s1145/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1145%2Fb%2F3%2FB
-[/us/pl/110/289/s1145/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1145%2Fb%2F3%2FA
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
 
 

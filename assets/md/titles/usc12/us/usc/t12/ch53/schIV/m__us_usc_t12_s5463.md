@@ -93,7 +93,7 @@
 
         The Council may extend the time periods established in subsections (c) and (d) as the Council determines to be necessary or appropriate.
 
-([Pub. L. 111–203, title VIII, § 804][/us/pl/111/203/s804], July 21, 2010, [124 Stat. 1807][/us/stat/124/1807].)
+([Pub. L. 111–203, title VIII][/us/pl/111/203/tVIII], § 804, July 21, 2010, [124 Stat. 1807][/us/stat/124/1807].)
 
 ----------
 
@@ -102,7 +102,7 @@
 ----------
 ----------
 
-[/us/pl/111/203/s804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs804
+[/us/pl/111/203/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVIII
 [/us/stat/124/1807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1807
 
 

@@ -17,7 +17,7 @@
 
     Appraisal standards and requirements for using State certified and licensed appraisers in federally related transactions pursuant to this chapter shall be prescribed in accordance with procedures set forth in [section 553 of title 5][/us/usc/t5/s553], including the publication of notice and receipt of written comments or the holding of public hearings with respect to any standards or requirements proposed to be established.
 
-([Pub. L. 101–73, title XI, § 1107][/us/pl/101/73/s1107], Aug. 9, 1989, [103 Stat. 513][/us/stat/103/513].)
+([Pub. L. 101–73, title XI][/us/pl/101/73/tXI], § 1107, Aug. 9, 1989, [103 Stat. 513][/us/stat/103/513].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/pl/101/73/s1107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs1107
+[/us/pl/101/73/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtXI
 [/us/stat/103/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F513
 
 

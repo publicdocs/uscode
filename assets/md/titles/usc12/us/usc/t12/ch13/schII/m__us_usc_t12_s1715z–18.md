@@ -39,13 +39,13 @@
 
         The number of dwelling units included in properties covered by mortgages insured pursuant to this section in any fiscal year may not exceed 5,000.
 
-([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title II, § 253, as added [Pub. L. 98–181, title I][/us/pl/98/181] \[title IV, § 445\], Nov. 30, 1983, [97 Stat. 1226][/us/stat/97/1226]; amended [Pub. L. 100–242, title IV, § 429(j)][/us/pl/100/242/s429/j], Feb. 5, 1988, [101 Stat. 1919][/us/stat/101/1919].)
+([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title II, § 253, as added [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title IV, § 445\], Nov. 30, 1983, [97 Stat. 1226][/us/stat/97/1226]; amended [Pub. L. 100–242, title IV][/us/pl/100/242/tIV], § 429(j), Feb. 5, 1988, [101 Stat. 1919][/us/stat/101/1919].)
 
  __Amendments__ 
 
-    1988—Subsec. (b). [Pub. L. 100–242, § 429(j)(1)][/us/pl/100/242/s429/j/1], substituted “For purposes of this section, the term ‘net appreciated value’ means the amount by which the sales price of the property (less the mortgagor’s selling costs) exceeds the actual project cost after completion, as approved by the Secretary” for “For purposes of this section, the term ‘net appreciated value’ means the amount by which the sales price of the property (less the mortgagor’s selling costs) exceeds the value (or replacement cost, as appropriate) of the property at the time the commitment to insure is issued (with adjustments for capital improvements stipulated in the loan contract)”.
+    1988—Subsec. (b). [Pub. L. 100–242][/us/pl/100/242], § 429(j)(1), substituted “For purposes of this section, the term ‘net appreciated value’ means the amount by which the sales price of the property (less the mortgagor’s selling costs) exceeds the actual project cost after completion, as approved by the Secretary” for “For purposes of this section, the term ‘net appreciated value’ means the amount by which the sales price of the property (less the mortgagor’s selling costs) exceeds the value (or replacement cost, as appropriate) of the property at the time the commitment to insure is issued (with adjustments for capital improvements stipulated in the loan contract)”.
 
-    Subsec. (c). [Pub. L. 100–242, § 429(j)(2)][/us/pl/100/242/s429/j/2], (3), substituted “in accordance with [section 1713 of this title][/us/usc/t12/s1713]” for “in accordance with [section 1710 of this title][/us/usc/t12/s1710]” and “The term ‘original principal face amount of the mortgage’ as used in [section 1713 of this title][/us/usc/t12/s1713] shall not include the mortgagee’s share of net appreciated value” for “The term ‘original principal obligation of the mortgage’ as used in [section 1710(a) of this title][/us/usc/t12/s1710/a] shall not include the mortgagee’s share of net appreciated value”.
+    Subsec. (c). [Pub. L. 100–242][/us/pl/100/242], § 429(j)(2), (3), substituted “in accordance with [section 1713 of this title][/us/usc/t12/s1713]” for “in accordance with [section 1710 of this title][/us/usc/t12/s1710]” and “The term ‘original principal face amount of the mortgage’ as used in [section 1713 of this title][/us/usc/t12/s1713] shall not include the mortgagee’s share of net appreciated value” for “The term ‘original principal obligation of the mortgage’ as used in [section 1710(a) of this title][/us/usc/t12/s1710/a] shall not include the mortgagee’s share of net appreciated value”.
 
 ----------
 
@@ -57,12 +57,12 @@
 [/us/usc/t12/s1713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1713
 [/us/usc/t12/s1713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1713
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1226
-[/us/pl/100/242/s429/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs429%2Fj
+[/us/pl/100/242/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtIV
 [/us/stat/101/1919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1919
-[/us/pl/100/242/s429/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs429%2Fj%2F1
-[/us/pl/100/242/s429/j/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs429%2Fj%2F2
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
 [/us/usc/t12/s1713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1713
 [/us/usc/t12/s1710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1710
 [/us/usc/t12/s1713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1713

@@ -151,7 +151,7 @@
 
             (B) with full recognition of the constitutional right of either House to change the rules (so far as relating to the procedure of that House) at any time, in the same manner, and to the same extent as in the case of any other rule of that House.
 
-([Pub. L. 110–343, div. A, title I, § 115][/us/pl/110/343/s115], Oct. 3, 2008, [122 Stat. 3780][/us/stat/122/3780]; [Pub. L. 111–22, div. A, title II, § 202(b)][/us/pl/111/22/s202/b], title IV, § 402(f), May 20, 2009, [123 Stat. 1643][/us/stat/123/1643], 1658; [Pub. L. 111–203, title XIII, § 1302][/us/pl/111/203/s1302], July 21, 2010, [124 Stat. 2133][/us/stat/124/2133].)
+([Pub. L. 110–343, div. A, title I][/us/pl/110/343/dA/tI], § 115, Oct. 3, 2008, [122 Stat. 3780][/us/stat/122/3780]; [Pub. L. 111–22, div. A, title II][/us/pl/111/22/dA/tII], § 202(b), title IV, § 402(f), May 20, 2009, [123 Stat. 1643][/us/stat/123/1643], 1658; [Pub. L. 111–203, title XIII][/us/pl/111/203/tXIII], § 1302, July 21, 2010, [124 Stat. 2133][/us/stat/124/2133].)
 
  __References in Text__ 
 
@@ -161,15 +161,15 @@
 
  __Amendments__ 
 
-    2010—Subsec. (a)(3). [Pub. L. 111–203, § 1302(1)(B)][/us/pl/111/203/s1302/1/B], struck out “outstanding at any one time” before the period at the end.
+    2010—Subsec. (a)(3). [Pub. L. 111–203][/us/pl/111/203], § 1302(1)(B), struck out “outstanding at any one time” before the period at the end.
 
-    [Pub. L. 111–203, § 1302(1)(A)][/us/pl/111/203/s1302/1/A], which directed substitution of “$475,000,000,000” for “, $700,000,000,000, as such amount is reduced by $1,259,000,000, as such amount is reduced by $1,244,000,000”, was executed by making the substitution for “$700,000,000,000, as such amount is reduced by $1,259,000,000,, as such amount is reduced by $1,244,000,000,”, to reflect the probable intent of Congress.
+    [Pub. L. 111–203][/us/pl/111/203], § 1302(1)(A), which directed substitution of “$475,000,000,000” for “, $700,000,000,000, as such amount is reduced by $1,259,000,000, as such amount is reduced by $1,244,000,000”, was executed by making the substitution for “$700,000,000,000, as such amount is reduced by $1,259,000,000,, as such amount is reduced by $1,244,000,000,”, to reflect the probable intent of Congress.
 
-    Subsec. (a)(4), (5). [Pub. L. 111–203, § 1302(2)][/us/pl/111/203/s1302/2], added pars. (4) and (5).
+    Subsec. (a)(4), (5). [Pub. L. 111–203][/us/pl/111/203], § 1302(2), added pars. (4) and (5).
 
-    2009—Subsec. (a)(3). [Pub. L. 111–22, § 402(f)][/us/pl/111/22/s402/f], inserted “, as such amount is reduced by $1,259,000,000,” after “$700,000,000,000”.
+    2009—Subsec. (a)(3). [Pub. L. 111–22][/us/pl/111/22], § 402(f), inserted “, as such amount is reduced by $1,259,000,000,” after “$700,000,000,000”.
 
-    [Pub. L. 111–22, § 202(b)][/us/pl/111/22/s202/b], inserted of “, as such amount is reduced by $1,244,000,000,” after “$700,000,000,000”.
+    [Pub. L. 111–22][/us/pl/111/22], § 202(b), inserted of “, as such amount is reduced by $1,244,000,000,” after “$700,000,000,000”.
 
  __Effective Date of 2010 Amendment__ 
 
@@ -182,11 +182,11 @@
 ----------
 ----------
 
-[/us/pl/110/343/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs115
+[/us/pl/110/343/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdA%2FtI
 [/us/stat/122/3780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3780
-[/us/pl/111/22/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs202%2Fb
+[/us/pl/111/22/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2FdA%2FtII
 [/us/stat/123/1643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1643
-[/us/pl/111/203/s1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1302
+[/us/pl/111/203/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtXIII
 [/us/stat/124/2133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2133
 [/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
 [/us/stat/122/3765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3765
@@ -194,11 +194,11 @@
 [/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
 [/us/stat/122/3765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3765
 [/us/usc/t12/s5201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5201
-[/us/pl/111/203/s1302/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1302%2F1%2FB
-[/us/pl/111/203/s1302/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1302%2F1%2FA
-[/us/pl/111/203/s1302/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1302%2F2
-[/us/pl/111/22/s402/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs402%2Ff
-[/us/pl/111/22/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs202%2Fb
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs4
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301

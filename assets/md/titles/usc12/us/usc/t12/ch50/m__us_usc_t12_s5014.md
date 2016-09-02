@@ -17,7 +17,7 @@
 
     The Board may prescribe such regulations as the Board determines to be necessary to implement, prevent circumvention or evasion of, or facilitate compliance with the provisions of this chapter.
 
-([Pub. L. 108–100, § 15][/us/pl/108/100/s15], Oct. 28, 2003, [117 Stat. 1190][/us/stat/117/1190].)
+([Pub. L. 108–100][/us/pl/108/100], § 15, Oct. 28, 2003, [117 Stat. 1190][/us/stat/117/1190].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/108/100/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F100%2Fs15
+[/us/pl/108/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F100
 [/us/stat/117/1190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1190
 [/us/pl/108/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F100
 [/us/stat/117/1177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1177

@@ -23,7 +23,7 @@
 
     shall be considered agencies responsible for the regulation or supervision of financial institutions.
 
-([Pub. L. 102–550, title XIII, § 1319F][/us/pl/102/550/s1319F], Oct. 28, 1992, [106 Stat. 3952][/us/stat/106/3952]; [Pub. L. 110–289, div. A, title I, § 1161(a)(5)][/us/pl/110/289/s1161/a/5], July 30, 2008, [122 Stat. 2779][/us/stat/122/2779].)
+([Pub. L. 102–550, title XIII][/us/pl/102/550/tXIII], § 1319F, Oct. 28, 1992, [106 Stat. 3952][/us/stat/106/3952]; [Pub. L. 110–289, div. A, title I][/us/pl/110/289/dA/tI], § 1161(a)(5), July 30, 2008, [122 Stat. 2779][/us/stat/122/2779].)
 
  __Amendments__ 
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/102/550/s1319F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1319F
+[/us/pl/102/550/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIII
 [/us/stat/106/3952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3952
-[/us/pl/110/289/s1161/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1161%2Fa%2F5
+[/us/pl/110/289/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtI
 [/us/stat/122/2779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2779
 [/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550

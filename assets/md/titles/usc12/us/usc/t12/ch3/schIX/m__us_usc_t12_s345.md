@@ -17,7 +17,7 @@
 
     The aggregate of notes, drafts, and bills upon which any person, copartnership, association, or corporation is liable as maker, acceptor, indorser, drawer, or guarantor, rediscounted for any member bank, shall at no time exceed the amount for which such person, copartnership, association, or corporation may lawfully become liable to a national banking association under the terms of [section 84 of this title][/us/usc/t12/s84]: Provided, however, That nothing in this section shall be construed to change the character or class of paper now eligible for rediscount by Federal reserve banks.
 
-([Dec. 23, 1913, ch. 6, § 13][/us/act/1913-12-23/ch6/s13] (par.), [38 Stat. 264][/us/stat/38/264]; [Mar. 3, 1915, ch. 93][/us/act/1915-03-03/ch93], [38 Stat. 958][/us/stat/38/958]; [Sept. 7, 1916, ch. 461][/us/act/1916-09-07/ch461], [39 Stat. 752][/us/stat/39/752]; [Apr. 12, 1930, ch. 140][/us/act/1930-04-12/ch140], [46 Stat. 162][/us/stat/46/162].)
+([Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 13 (par.), [38 Stat. 264][/us/stat/38/264]; [Mar. 3, 1915, ch. 93][/us/act/1915-03-03/ch93], [38 Stat. 958][/us/stat/38/958]; [Sept. 7, 1916, ch. 461][/us/act/1916-09-07/ch461], [39 Stat. 752][/us/stat/39/752]; [Apr. 12, 1930, ch. 140][/us/act/1930-04-12/ch140], [46 Stat. 162][/us/stat/46/162].)
 
  __Codification__ 
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t12/s84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs84
-[/us/act/1913-12-23/ch6/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs13
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
 [/us/stat/38/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F264
 [/us/act/1915-03-03/ch93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1915-03-03%2Fch93
 [/us/stat/38/958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F958

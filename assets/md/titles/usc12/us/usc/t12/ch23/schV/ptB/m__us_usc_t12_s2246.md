@@ -17,7 +17,7 @@
 
     The Chairman of the Board, subject to the approval of the Board, may establish one or more advisory committees in accordance with the Federal Advisory Committee Act and may appoint to such committee or committees individuals who are members of the Federal Farm Credit Board when such Board is terminated by the Farm Credit Amendments Act of 1985.
 
-([Pub. L. 92–181, title V, § 5][/us/pl/92/181/s5].12, Dec. 10, 1971, [85 Stat. 620][/us/stat/85/620]; [Pub. L. 99–205, title II, § 201(1)][/us/pl/99/205/s201/1], Dec. 23, 1985, [99 Stat. 1690][/us/stat/99/1690]; [Pub. L. 100–233, title IV, § 431(d)][/us/pl/100/233/s431/d], Jan. 6, 1988, [101 Stat. 1660][/us/stat/101/1660].)
+([Pub. L. 92–181, title V][/us/pl/92/181/tV], § 5.12, Dec. 10, 1971, [85 Stat. 620][/us/stat/85/620]; [Pub. L. 99–205, title II][/us/pl/99/205/tII], § 201(1), Dec. 23, 1985, [99 Stat. 1690][/us/stat/99/1690]; [Pub. L. 100–233, title IV][/us/pl/100/233/tIV], § 431(d), Jan. 6, 1988, [101 Stat. 1660][/us/stat/101/1660].)
 
  __References in Text__ 
 
@@ -46,11 +46,11 @@
 ----------
 ----------
 
-[/us/pl/92/181/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs5
+[/us/pl/92/181/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtV
 [/us/stat/85/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F620
-[/us/pl/99/205/s201/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2Fs201%2F1
+[/us/pl/99/205/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2FtII
 [/us/stat/99/1690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1690
-[/us/pl/100/233/s431/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs431%2Fd
+[/us/pl/100/233/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtIV
 [/us/stat/101/1660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1660
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770

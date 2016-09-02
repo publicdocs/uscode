@@ -857,7 +857,7 @@
 
             The Board of Governors of the Federal Reserve System may issue such rules as may be necessary to define terms and to carry out the purposes this subsection. Before proposing or adopting a rule under this paragraph, the Board of Governors of the Federal Reserve System shall consult with the Comptroller of the Currency and the Corporation as to the terms of the rule.
 
-([Sept. 21, 1950, ch. 967, § 2][/us/act/1950-09-21/ch967/s2]\[18\], [64 Stat. 891][/us/stat/64/891]; [Pub. L. 86–463][/us/pl/86/463], May 13, 1960, [74 Stat. 129][/us/stat/74/129]; [Pub. L. 87–827, § 2][/us/pl/87/827/s2], Oct. 15, 1962, [76 Stat. 953][/us/stat/76/953]; [Pub. L. 89–79, § 2][/us/pl/89/79/s2], July 21, 1965, [79 Stat. 244][/us/stat/79/244]; [Pub. L. 89–356, § 1][/us/pl/89/356/s1], Feb. 21, 1966, [80 Stat. 7][/us/stat/80/7]; [Pub. L. 89–485, § 12(c)][/us/pl/89/485/s12/c], July 1, 1966, [80 Stat. 242][/us/stat/80/242]; [Pub. L. 89–597, § 3][/us/pl/89/597/s3], Sept. 21, 1966, [80 Stat. 824][/us/stat/80/824]; [Pub. L. 90–505, § 2(b)][/us/pl/90/505/s2/b], Sept. 21, 1968, [82 Stat. 856][/us/stat/82/856]; [Pub. L. 91–151, title I][/us/pl/91/151], §§ 2(a), 4(b), (c), Dec. 23, 1969, [83 Stat. 372][/us/stat/83/372], 374, 375; [Pub. L. 93–100, § 3][/us/pl/93/100/s3], Aug. 16, 1973, [87 Stat. 342][/us/stat/87/342]; [Pub. L. 93–495, title I, § 106][/us/pl/93/495/s106], Oct. 28, 1974, [88 Stat. 1505][/us/stat/88/1505]; [Pub. L. 93–501, title I, § 102(a)][/us/pl/93/501/s102/a], title III, § 302, Oct. 29, 1974, [88 Stat. 1558][/us/stat/88/1558], 1560; [Pub. L. 95–369, § 6(c)(25)][/us/pl/95/369/s6/c/25]–(28), Sept. 17, 1978, [92 Stat. 620][/us/stat/92/620]; [Pub. L. 95–630, title I, § 108][/us/pl/95/630/s108], title III, §§ 301(b), (c), 306, Nov. 10, 1978, [92 Stat. 3664][/us/stat/92/3664], 3675, 3677; [Pub. L. 96–104, title II, § 202][/us/pl/96/104/s202], Nov. 5, 1979, [93 Stat. 792][/us/stat/93/792]; [Pub. L. 96–161, title I, § 101(b)][/us/pl/96/161/s101/b], title II, § 209, Dec. 28, 1979, [93 Stat. 1233][/us/stat/93/1233], 1239; [Pub. L. 96–221, title II, § 207(b)(2)][/us/pl/96/221/s207/b/2], (3), title III, §§ 302(b), 307, title V, § 529, Mar. 31, 1980, [94 Stat. 144][/us/stat/94/144], 146, 147, 168; [Pub. L. 97–320, title I, § 113(n)][/us/pl/97/320/s113/n], (o), title IV, §§ 410(d), 423, 424(b), (d)(10), (e), Oct. 15, 1982, [96 Stat. 1474][/us/stat/96/1474], 1520, 1522, 1523; [Pub. L. 100–86, title I][/us/pl/100/86], §§ 102(b), 103, title V, § 504(b), Aug. 10, 1987, [101 Stat. 566][/us/stat/101/566], 632; [Pub. L. 101–73, title II][/us/pl/101/73], §§ 201, 221, title IX, §§ 905(d), 907(c), Aug. 9, 1989, [103 Stat. 187][/us/stat/103/187], 266, 460, 466; [Pub. L. 101–647, title XXV, § 2523(a)][/us/pl/101/647/s2523/a], Nov. 29, 1990, [104 Stat. 4868][/us/stat/104/4868]; [Pub. L. 102–242, title III][/us/pl/102/242], §§ 304(a), 305(a), 306(k), Dec. 19, 1991, [105 Stat. 2354][/us/stat/105/2354], 2359; [Pub. L. 102–550, title XVI, § 1605(a)(9)][/us/pl/102/550/s1605/a/9], Oct. 28, 1992, [106 Stat. 4086][/us/stat/106/4086]; [Pub. L. 103–325, title III][/us/pl/103/325], §§ 321(b), 324, 326(b)(1), title VI, § 602(a)(44)–(50), Sept. 23, 1994, [108 Stat. 2226][/us/stat/108/2226], 2227, 2229, 2290; [Pub. L. 103–328, title I][/us/pl/103/328], §§ 101(d), 102(b)(3)(A), 103(b), Sept. 29, 1994, [108 Stat. 2342][/us/stat/108/2342], 2350, 2353; [Pub. L. 104–208, div. A, title II][/us/pl/104/208], §§ 2615(b), 2704(d)(14)(U), (V), Sept. 30, 1996, [110 Stat. 3009–479][/us/stat/110/3009-479], 3009–494; [Pub. L. 105–277, div. H, § 2][/us/pl/105/277/s2], Oct. 21, 1998, [112 Stat. 2681–854][/us/stat/112/2681-854]; [Pub. L. 106–102, title II, § 204][/us/pl/106/102/s204], title VII, § 730, Nov. 12, 1999, [113 Stat. 1391][/us/stat/113/1391], 1476; [Pub. L. 106–569, title XII, § 1207(b)][/us/pl/106/569/s1207/b], Dec. 27, 2000, [114 Stat. 3034][/us/stat/114/3034]; [Pub. L. 107–56, title III][/us/pl/107/56], §§ 327(b)(1), 355, Oct. 26, 2001, [115 Stat. 319][/us/stat/115/319], 324; [Pub. L. 108–386, § 8(a)(5)][/us/pl/108/386/s8/a/5], Oct. 30, 2004, [118 Stat. 2231][/us/stat/118/2231]; [Pub. L. 108–458, title VI, § 6203(j)][/us/pl/108/458/s6203/j], Dec. 17, 2004, [118 Stat. 3747][/us/stat/118/3747]; [Pub. L. 109–171, title II][/us/pl/109/171], §§ 2102(b), 2104(c), Feb. 8, 2006, [120 Stat. 9][/us/stat/120/9], 13; [Pub. L. 109–173][/us/pl/109/173], §§ 2(c)(2), 8(a)(28)–(30), Feb. 15, 2006, [119 Stat. 3602][/us/stat/119/3602], 3615; [Pub. L. 109–351, title VI][/us/pl/109/351], §§ 606, 607(a), title VII, §§ 702(b), 704, Oct. 13, 2006, [120 Stat. 1981][/us/stat/120/1981], 1982, 1985, 1986; [Pub. L. 110–315, title IV, § 438(b)][/us/pl/110/315/s438/b], Aug. 14, 2008, [122 Stat. 3258][/us/stat/122/3258]; [Pub. L. 110–343, div. A, title I, § 126(a)][/us/pl/110/343/s126/a], (d), Oct. 3, 2008, [122 Stat. 3793][/us/stat/122/3793], 3796; [Pub. L. 111–203, title III, § 363(7)][/us/pl/111/203/s363/7], title VI, §§ 604(f), 611(a), 613(b), 615(a), 623(a), 627(a)(3), July 21, 2010, [124 Stat. 1553][/us/stat/124/1553], 1602, 1612, 1614, 1634, 1640; [Pub. L. 112–215, § 1(2)][/us/pl/112/215/s1/2], Dec. 20, 2012, [126 Stat. 1589][/us/stat/126/1589].)
+([Sept. 21, 1950, ch. 967][/us/act/1950-09-21/ch967], § 2\[18\], [64 Stat. 891][/us/stat/64/891]; [Pub. L. 86–463][/us/pl/86/463], May 13, 1960, [74 Stat. 129][/us/stat/74/129]; [Pub. L. 87–827][/us/pl/87/827], § 2, Oct. 15, 1962, [76 Stat. 953][/us/stat/76/953]; [Pub. L. 89–79][/us/pl/89/79], § 2, July 21, 1965, [79 Stat. 244][/us/stat/79/244]; [Pub. L. 89–356][/us/pl/89/356], § 1, Feb. 21, 1966, [80 Stat. 7][/us/stat/80/7]; [Pub. L. 89–485][/us/pl/89/485], § 12(c), July 1, 1966, [80 Stat. 242][/us/stat/80/242]; [Pub. L. 89–597][/us/pl/89/597], § 3, Sept. 21, 1966, [80 Stat. 824][/us/stat/80/824]; [Pub. L. 90–505][/us/pl/90/505], § 2(b), Sept. 21, 1968, [82 Stat. 856][/us/stat/82/856]; [Pub. L. 91–151, title I][/us/pl/91/151/tI], §§ 2(a), 4(b), (c), Dec. 23, 1969, [83 Stat. 372][/us/stat/83/372], 374, 375; [Pub. L. 93–100][/us/pl/93/100], § 3, Aug. 16, 1973, [87 Stat. 342][/us/stat/87/342]; [Pub. L. 93–495, title I][/us/pl/93/495/tI], § 106, Oct. 28, 1974, [88 Stat. 1505][/us/stat/88/1505]; [Pub. L. 93–501, title I][/us/pl/93/501/tI], § 102(a), title III, § 302, Oct. 29, 1974, [88 Stat. 1558][/us/stat/88/1558], 1560; [Pub. L. 95–369][/us/pl/95/369], § 6(c)(25)–(28), Sept. 17, 1978, [92 Stat. 620][/us/stat/92/620]; [Pub. L. 95–630, title I][/us/pl/95/630/tI], § 108, title III, §§ 301(b), (c), 306, Nov. 10, 1978, [92 Stat. 3664][/us/stat/92/3664], 3675, 3677; [Pub. L. 96–104, title II][/us/pl/96/104/tII], § 202, Nov. 5, 1979, [93 Stat. 792][/us/stat/93/792]; [Pub. L. 96–161, title I][/us/pl/96/161/tI], § 101(b), title II, § 209, Dec. 28, 1979, [93 Stat. 1233][/us/stat/93/1233], 1239; [Pub. L. 96–221, title II][/us/pl/96/221/tII], § 207(b)(2), (3), title III, §§ 302(b), 307, title V, § 529, Mar. 31, 1980, [94 Stat. 144][/us/stat/94/144], 146, 147, 168; [Pub. L. 97–320, title I][/us/pl/97/320/tI], § 113(n), (o), title IV, §§ 410(d), 423, 424(b), (d)(10), (e), Oct. 15, 1982, [96 Stat. 1474][/us/stat/96/1474], 1520, 1522, 1523; [Pub. L. 100–86, title I][/us/pl/100/86/tI], §§ 102(b), 103, title V, § 504(b), Aug. 10, 1987, [101 Stat. 566][/us/stat/101/566], 632; [Pub. L. 101–73, title II][/us/pl/101/73/tII], §§ 201, 221, title IX, §§ 905(d), 907(c), Aug. 9, 1989, [103 Stat. 187][/us/stat/103/187], 266, 460, 466; [Pub. L. 101–647, title XXV][/us/pl/101/647/tXXV], § 2523(a), Nov. 29, 1990, [104 Stat. 4868][/us/stat/104/4868]; [Pub. L. 102–242, title III][/us/pl/102/242/tIII], §§ 304(a), 305(a), 306(k), Dec. 19, 1991, [105 Stat. 2354][/us/stat/105/2354], 2359; [Pub. L. 102–550, title XVI][/us/pl/102/550/tXVI], § 1605(a)(9), Oct. 28, 1992, [106 Stat. 4086][/us/stat/106/4086]; [Pub. L. 103–325, title III][/us/pl/103/325/tIII], §§ 321(b), 324, 326(b)(1), title VI, § 602(a)(44)–(50), Sept. 23, 1994, [108 Stat. 2226][/us/stat/108/2226], 2227, 2229, 2290; [Pub. L. 103–328, title I][/us/pl/103/328/tI], §§ 101(d), 102(b)(3)(A), 103(b), Sept. 29, 1994, [108 Stat. 2342][/us/stat/108/2342], 2350, 2353; [Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], §§ 2615(b), 2704(d)(14)(U), (V), Sept. 30, 1996, [110 Stat. 3009–479][/us/stat/110/3009-479], 3009–494; [Pub. L. 105–277, div. H][/us/pl/105/277/dH], § 2, Oct. 21, 1998, [112 Stat. 2681–854][/us/stat/112/2681-854]; [Pub. L. 106–102, title II][/us/pl/106/102/tII], § 204, title VII, § 730, Nov. 12, 1999, [113 Stat. 1391][/us/stat/113/1391], 1476; [Pub. L. 106–569, title XII][/us/pl/106/569/tXII], § 1207(b), Dec. 27, 2000, [114 Stat. 3034][/us/stat/114/3034]; [Pub. L. 107–56, title III][/us/pl/107/56/tIII], §§ 327(b)(1), 355, Oct. 26, 2001, [115 Stat. 319][/us/stat/115/319], 324; [Pub. L. 108–386][/us/pl/108/386], § 8(a)(5), Oct. 30, 2004, [118 Stat. 2231][/us/stat/118/2231]; [Pub. L. 108–458, title VI][/us/pl/108/458/tVI], § 6203(j), Dec. 17, 2004, [118 Stat. 3747][/us/stat/118/3747]; [Pub. L. 109–171, title II][/us/pl/109/171/tII], §§ 2102(b), 2104(c), Feb. 8, 2006, [120 Stat. 9][/us/stat/120/9], 13; [Pub. L. 109–173][/us/pl/109/173], §§ 2(c)(2), 8(a)(28)–(30), Feb. 15, 2006, [119 Stat. 3602][/us/stat/119/3602], 3615; [Pub. L. 109–351, title VI][/us/pl/109/351/tVI], §§ 606, 607(a), title VII, §§ 702(b), 704, Oct. 13, 2006, [120 Stat. 1981][/us/stat/120/1981], 1982, 1985, 1986; [Pub. L. 110–315, title IV][/us/pl/110/315/tIV], § 438(b), Aug. 14, 2008, [122 Stat. 3258][/us/stat/122/3258]; [Pub. L. 110–343, div. A, title I][/us/pl/110/343/dA/tI], § 126(a), (d), Oct. 3, 2008, [122 Stat. 3793][/us/stat/122/3793], 3796; [Pub. L. 111–203, title III][/us/pl/111/203/tIII], § 363(7), title VI, §§ 604(f), 611(a), 613(b), 615(a), 623(a), 627(a)(3), July 21, 2010, [124 Stat. 1553][/us/stat/124/1553], 1602, 1612, 1614, 1634, 1640; [Pub. L. 112–215][/us/pl/112/215], § 1(2), Dec. 20, 2012, [126 Stat. 1589][/us/stat/126/1589].)
 
  __References in Text__ 
 
@@ -881,7 +881,7 @@
 
     [Section 202 of Pub. L. 96–104][/us/pl/96/104/s202], cited as a credit to this section, was repealed by [section 212 of Pub. L. 96–161][/us/pl/96/161/s212], effective at the close of Dec. 27, 1979. The amendment of this section by that repealed provision, described in the 1979 Amendment note set out under this section, shall continue in effect for limited purposes pursuant to [section 212 of Pub. L. 96–161][/us/pl/96/161/s212]. See Savings Provisions note, describing the provisions of [section 212 of Pub. L. 96–161][/us/pl/96/161/s212], set out under [section 85 of this title][/us/usc/t12/s85].
 
-    [Section 302 of Pub. L. 93–501][/us/pl/93/501/s302], cited as a credit to this section, was repealed by [Pub. L. 96–104, § 1][/us/pl/96/104/s1], Nov. 5, 1979, [93 Stat. 789][/us/stat/93/789]. The amendment of this section by that repealed provision, described in the 1974 Amendment note set out under this section, shall continue in effect for limited purposes pursuant to [section 1 of Pub. L. 96–104][/us/pl/96/104/s1]. See Savings Provisions note, describing the provisions of [section 1 of Pub. L. 96–104][/us/pl/96/104/s1], set out under [section 85 of this title][/us/usc/t12/s85].
+    [Section 302 of Pub. L. 93–501][/us/pl/93/501/s302], cited as a credit to this section, was repealed by [Pub. L. 96–104][/us/pl/96/104], § 1, Nov. 5, 1979, [93 Stat. 789][/us/stat/93/789]. The amendment of this section by that repealed provision, described in the 1974 Amendment note set out under this section, shall continue in effect for limited purposes pursuant to [section 1 of Pub. L. 96–104][/us/pl/96/104/s1]. See Savings Provisions note, describing the provisions of [section 1 of Pub. L. 96–104][/us/pl/96/104/s1], set out under [section 85 of this title][/us/usc/t12/s85].
 
  __Prior Provisions__ 
 
@@ -891,203 +891,203 @@
 
     2012—Subsec. (x)(1). [Pub. L. 112–215][/us/pl/112/215] inserted “the Bureau of Consumer Financial Protection,” before “any Federal banking agency” and substituted “such Bureau, agency” for “such agency” in two places.
 
-    Subsec. (x)(2)(B). [Pub. L. 112–215, § 1(2)(A)][/us/pl/112/215/s1/2/A], inserted “the Bureau of Consumer Financial Protection,” before “any Federal banking agency”.
+    Subsec. (x)(2)(B). [Pub. L. 112–215][/us/pl/112/215], § 1(2)(A), inserted “the Bureau of Consumer Financial Protection,” before “any Federal banking agency”.
 
-    2010—Subsec. (c)(2)(A). [Pub. L. 111–203, § 363(7)(A)(i)][/us/pl/111/203/s363/7/A/i], inserted “or a Federal savings association” before the semicolon.
+    2010—Subsec. (c)(2)(A). [Pub. L. 111–203][/us/pl/111/203], § 363(7)(A)(i), inserted “or a Federal savings association” before the semicolon.
 
-    Subsec. (c)(2)(B). [Pub. L. 111–203, § 363(7)(A)(ii)][/us/pl/111/203/s363/7/A/ii], inserted “and” at end.
+    Subsec. (c)(2)(B). [Pub. L. 111–203][/us/pl/111/203], § 363(7)(A)(ii), inserted “and” at end.
 
-    Subsec. (c)(2)(C). [Pub. L. 111–203, § 363(7)(A)(iii)][/us/pl/111/203/s363/7/A/iii], substituted “or a State savings association.” for “(except a savings bank supervised by the Director of the Office of Thrift Supervision); and”.
+    Subsec. (c)(2)(C). [Pub. L. 111–203][/us/pl/111/203], § 363(7)(A)(iii), substituted “or a State savings association.” for “(except a savings bank supervised by the Director of the Office of Thrift Supervision); and”.
 
-    Subsec. (c)(2)(D). [Pub. L. 111–203, § 363(7)(A)(iv)][/us/pl/111/203/s363/7/A/iv], struck out subpar. (D) which read as follows: “the Director of the Office of Thrift Supervision if the acquiring, assuming, or resulting institution is to be a savings association.”
+    Subsec. (c)(2)(D). [Pub. L. 111–203][/us/pl/111/203], § 363(7)(A)(iv), struck out subpar. (D) which read as follows: “the Director of the Office of Thrift Supervision if the acquiring, assuming, or resulting institution is to be a savings association.”
 
-    Subsec. (c)(5). [Pub. L. 111–203, § 604(f)][/us/pl/111/203/s604/f], substituted “the convenience and needs of the community to be served, and the risk to the stability of the United States banking or financial system” for “and the convenience and needs of the community to be served” in concluding provisions.
+    Subsec. (c)(5). [Pub. L. 111–203][/us/pl/111/203], § 604(f), substituted “the convenience and needs of the community to be served, and the risk to the stability of the United States banking or financial system” for “and the convenience and needs of the community to be served” in concluding provisions.
 
-    Subsec. (g). [Pub. L. 111–203, § 627(a)(3)][/us/pl/111/203/s627/a/3], amended subsec. (g) generally to read “\[Repealed\]”. Prior to amendment, subsec. (g) related to interest or dividend on demand deposits, definitions, and regulation of interest rates.
+    Subsec. (g). [Pub. L. 111–203][/us/pl/111/203], § 627(a)(3), amended subsec. (g) generally to read “\[Repealed\]”. Prior to amendment, subsec. (g) related to interest or dividend on demand deposits, definitions, and regulation of interest rates.
 
-    Subsec. (g)(1). [Pub. L. 111–203, § 363(7)(B)][/us/pl/111/203/s363/7/B], substituted “the Comptroller of the Currency” for “the Director of the Office of Thrift Supervision”.
+    Subsec. (g)(1). [Pub. L. 111–203][/us/pl/111/203], § 363(7)(B), substituted “the Comptroller of the Currency” for “the Director of the Office of Thrift Supervision”.
 
-    Subsec. (i)(2)(C). [Pub. L. 111–203, § 363(7)(C)][/us/pl/111/203/s363/7/C], substituted “Corporation” for “Director of the Office of Thrift Supervision”.
+    Subsec. (i)(2)(C). [Pub. L. 111–203][/us/pl/111/203], § 363(7)(C), substituted “Corporation” for “Director of the Office of Thrift Supervision”.
 
-    Subsec. (m)(1)(A). [Pub. L. 111–203, § 363(7)(D)(i)(I)][/us/pl/111/203/s363/7/D/i/I], substituted “or the Comptroller of the Currency, as appropriate,” for “and the Director of the Office of Thrift Supervision”.
+    Subsec. (m)(1)(A). [Pub. L. 111–203][/us/pl/111/203], § 363(7)(D)(i)(I), substituted “or the Comptroller of the Currency, as appropriate,” for “and the Director of the Office of Thrift Supervision”.
 
-    Subsec. (m)(1)(B). [Pub. L. 111–203, § 363(7)(D)(i)(II)][/us/pl/111/203/s363/7/D/i/II], substituted “of the Comptroller of the Currency and orders of the Corporation and the Comptroller of the Currency” for “and orders of the Director of the Office of Thrift Supervision”.
+    Subsec. (m)(1)(B). [Pub. L. 111–203][/us/pl/111/203], § 363(7)(D)(i)(II), substituted “of the Comptroller of the Currency and orders of the Corporation and the Comptroller of the Currency” for “and orders of the Director of the Office of Thrift Supervision”.
 
-    Subsec. (m)(2)(A). [Pub. L. 111–203, § 363(7)(D)(ii)(I)][/us/pl/111/203/s363/7/D/ii/I], substituted “Comptroller of the Currency, as appropriate,” for “Director of the Office of Thrift Supervision”.
+    Subsec. (m)(2)(A). [Pub. L. 111–203][/us/pl/111/203], § 363(7)(D)(ii)(I), substituted “Comptroller of the Currency, as appropriate,” for “Director of the Office of Thrift Supervision”.
 
-    Subsec. (m)(2)(B). [Pub. L. 111–203, § 363(7)(D)(ii)(II)][/us/pl/111/203/s363/7/D/ii/II], in introductory provisions, substituted “Corporation or the Comptroller of the Currency, as appropriate,” for “Director of the Office of Thrift Supervision” and, in concluding provisions, substituted “the Office of the Comptroller of the Currency, as appropriate,” for “the Director of the Office of Thrift Supervision” and “The Corporation or the Comptroller of the Currency, as appropriate, may take any other corrective measures with respect to the subsidiary, including the authority to require the subsidiary to terminate the activities or operations posing such risks, as the Corporation or the Comptroller of the Currency, respectively, may deem appropriate.” for “The Director of the Office of Thrift Supervision may take any other corrective measures with respect to the subsidiary, including the authority to require the subsidiary to terminate the activities or operations posing such risks, as the Director may deem appropriate.”
+    Subsec. (m)(2)(B). [Pub. L. 111–203][/us/pl/111/203], § 363(7)(D)(ii)(II), in introductory provisions, substituted “Corporation or the Comptroller of the Currency, as appropriate,” for “Director of the Office of Thrift Supervision” and, in concluding provisions, substituted “the Office of the Comptroller of the Currency, as appropriate,” for “the Director of the Office of Thrift Supervision” and “The Corporation or the Comptroller of the Currency, as appropriate, may take any other corrective measures with respect to the subsidiary, including the authority to require the subsidiary to terminate the activities or operations posing such risks, as the Corporation or the Comptroller of the Currency, respectively, may deem appropriate.” for “The Director of the Office of Thrift Supervision may take any other corrective measures with respect to the subsidiary, including the authority to require the subsidiary to terminate the activities or operations posing such risks, as the Director may deem appropriate.”
 
-    Subsec. (m)(3)(A). [Pub. L. 111–203, § 363(7)(D)(iii)(I)][/us/pl/111/203/s363/7/D/iii/I], inserted “, in the case of a Federal savings association,” before “consult with” and substituted “Comptroller of the Currency” for “Director of the Office of Thrift Supervision”.
+    Subsec. (m)(3)(A). [Pub. L. 111–203][/us/pl/111/203], § 363(7)(D)(iii)(I), inserted “, in the case of a Federal savings association,” before “consult with” and substituted “Comptroller of the Currency” for “Director of the Office of Thrift Supervision”.
 
-    Subsec. (m)(3)(B). [Pub. L. 111–203, § 363(7)(D)(iii)(II)][/us/pl/111/203/s363/7/D/iii/II], in heading, substituted “Comptroller of the Currency” for “Director” and, in text, substituted “Comptroller of the Currency” for “Office of Thrift Supervision”, inserted a comma after “soundness”, and inserted “as to Federal savings associations” after “compliance”.
+    Subsec. (m)(3)(B). [Pub. L. 111–203][/us/pl/111/203], § 363(7)(D)(iii)(II), in heading, substituted “Comptroller of the Currency” for “Director” and, in text, substituted “Comptroller of the Currency” for “Office of Thrift Supervision”, inserted a comma after “soundness”, and inserted “as to Federal savings associations” after “compliance”.
 
-    Subsec. (c)(13). [Pub. L. 111–203, § 623(a)][/us/pl/111/203/s623/a], added par. (13).
+    Subsec. (c)(13). [Pub. L. 111–203][/us/pl/111/203], § 623(a), added par. (13).
 
-    Subsec. (d)(4)(A)(i). [Pub. L. 111–203, § 613(b)][/us/pl/111/203/s613/b], amended cl. (i) generally. Prior to amendment, text read as follows: “there is in effect in the host State a law that—
+    Subsec. (d)(4)(A)(i). [Pub. L. 111–203][/us/pl/111/203], § 613(b), amended cl. (i) generally. Prior to amendment, text read as follows: “there is in effect in the host State a law that—
 
     “(I) applies equally to all banks; and
 
     “(II) expressly permits all out-of-State banks to establish de novo branches in such State; and”.
 
-    Subsec. (y). [Pub. L. 111–203, § 611(a)][/us/pl/111/203/s611/a], which directed amendment of section by adding subsec. (y) at the end, was executed by adding subsec. (y) after subsec. (x), as the probable intent of Congress, even though [Pub. L. 111–203, § 615(a)][/us/pl/111/203/s615/a], which added subsec. (z) at the end, was effective earlier. See Amendment note and Effective Date of 2010 Amendment note below.
+    Subsec. (y). [Pub. L. 111–203][/us/pl/111/203], § 611(a), which directed amendment of section by adding subsec. (y) at the end, was executed by adding subsec. (y) after subsec. (x), as the probable intent of Congress, even though [Pub. L. 111–203][/us/pl/111/203], § 615(a), which added subsec. (z) at the end, was effective earlier. See Amendment note and Effective Date of 2010 Amendment note below.
 
-    Subsec. (z). [Pub. L. 111–203, § 615(a)][/us/pl/111/203/s615/a], added subsec. (z).
+    Subsec. (z). [Pub. L. 111–203][/us/pl/111/203], § 615(a), added subsec. (z).
 
-    2008—Subsec. (a). [Pub. L. 110–343, § 126(d)(2)][/us/pl/110/343/s126/d/2], substituted “Representations of deposit insurance” for “Insurance logo” in heading.
+    2008—Subsec. (a). [Pub. L. 110–343][/us/pl/110/343], § 126(d)(2), substituted “Representations of deposit insurance” for “Insurance logo” in heading.
 
-    Subsec. (a)(3). [Pub. L. 110–343, § 126(d)(1)][/us/pl/110/343/s126/d/1], substituted “violate paragraph (1)” for “violate this subsection” and “under paragraph (2)” for “under this subsection”.
+    Subsec. (a)(3). [Pub. L. 110–343][/us/pl/110/343], § 126(d)(1), substituted “violate paragraph (1)” for “violate this subsection” and “under paragraph (2)” for “under this subsection”.
 
-    Subsec. (a)(4). [Pub. L. 110–343, § 126(a)][/us/pl/110/343/s126/a], added par. (4).
+    Subsec. (a)(4). [Pub. L. 110–343][/us/pl/110/343], § 126(a), added par. (4).
 
     Subsec. (s)(4)(C)(ii)(I). [Pub. L. 110–315][/us/pl/110/315] inserted “, as such section existed on the day before the date of the repeal of such section” after “[section 1087–2(d) of title 20][/us/usc/t20/s1087–2/d]”.
 
-    2006—Subsec. (a). [Pub. L. 109–173, § 2(c)(2)][/us/pl/109/173/s2/c/2], amended subsec. (a) generally. Prior to amendment, subsec. (a) related to the insurance logo and signs to be displayed at insured savings associations and insured banks.
+    2006—Subsec. (a). [Pub. L. 109–173][/us/pl/109/173], § 2(c)(2), amended subsec. (a) generally. Prior to amendment, subsec. (a) related to the insurance logo and signs to be displayed at insured savings associations and insured banks.
 
-    Subsec. (c)(4). [Pub. L. 109–351, § 606(a)][/us/pl/109/351/s606/a], inserted heading and amended text generally. Prior to amendment, text read as follows: “In the interests of uniform standards, before acting on any application for approval of a merger transaction, the responsible agency, unless it finds that it must act immediately in order to prevent the probable failure of one of the banks or savings associations involved, shall request reports on the competitive factors involved from the Attorney General and the other Federal banking agencies referred to in this subsection. The reports shall be furnished within thirty calendar days of the date on which they are requested, or within ten calendar days of such date if the requesting agency advises the Attorney General and the other Federal banking agencies that an emergency exists requiring expeditious action. Notwithstanding the preceding sentence, a banking agency shall not be required to file a report requested by the responsible agency under this paragraph if such banking agency advises the responsible agency by the applicable date under the preceding sentence that the report is not necessary because none of the effects described in paragraph (5) are likely to occur as a result of the transaction.”
+    Subsec. (c)(4). [Pub. L. 109–351][/us/pl/109/351], § 606(a), inserted heading and amended text generally. Prior to amendment, text read as follows: “In the interests of uniform standards, before acting on any application for approval of a merger transaction, the responsible agency, unless it finds that it must act immediately in order to prevent the probable failure of one of the banks or savings associations involved, shall request reports on the competitive factors involved from the Attorney General and the other Federal banking agencies referred to in this subsection. The reports shall be furnished within thirty calendar days of the date on which they are requested, or within ten calendar days of such date if the requesting agency advises the Attorney General and the other Federal banking agencies that an emergency exists requiring expeditious action. Notwithstanding the preceding sentence, a banking agency shall not be required to file a report requested by the responsible agency under this paragraph if such banking agency advises the responsible agency by the applicable date under the preceding sentence that the report is not necessary because none of the effects described in paragraph (5) are likely to occur as a result of the transaction.”
 
-    Subsec. (c)(6). [Pub. L. 109–351, § 606(b)(2)][/us/pl/109/351/s606/b/2], substituted, in penultimate sentence, “If the agency has advised the Attorney General under paragraph (4)(B)(ii) of the existence of an emergency requiring expeditious action and has requested a report on the competitive factors within 10 days, the transaction may not be consummated before the fifth calendar day after the date of approval by the agency.” for “If the agency has advised the Attorney General and the other Federal banking agencies of the existence of an emergency requiring expeditious actions and has requested reports on the competitive factors within ten days, the transaction may not be consummated before the fifth calendar day after the date of approval by the agency.”
+    Subsec. (c)(6). [Pub. L. 109–351][/us/pl/109/351], § 606(b)(2), substituted, in penultimate sentence, “If the agency has advised the Attorney General under paragraph (4)(B)(ii) of the existence of an emergency requiring expeditious action and has requested a report on the competitive factors within 10 days, the transaction may not be consummated before the fifth calendar day after the date of approval by the agency.” for “If the agency has advised the Attorney General and the other Federal banking agencies of the existence of an emergency requiring expeditious actions and has requested reports on the competitive factors within ten days, the transaction may not be consummated before the fifth calendar day after the date of approval by the agency.”
 
-    [Pub. L. 109–351, § 606(b)(1)][/us/pl/109/351/s606/b/1], substituted, in second sentence, “insured depository institutions involved, or if the proposed merger transaction is solely between an insured depository institution and 1 or more of its affiliates, and the report on the competitive factors has” for “banks or savings associations involved and reports on the competitive factors have”.
+    [Pub. L. 109–351][/us/pl/109/351], § 606(b)(1), substituted, in second sentence, “insured depository institutions involved, or if the proposed merger transaction is solely between an insured depository institution and 1 or more of its affiliates, and the report on the competitive factors has” for “banks or savings associations involved and reports on the competitive factors have”.
 
-    Subsec. (h). [Pub. L. 109–171, § 2104(c)][/us/pl/109/171/s2104/c], amended subsec. (h) generally. Prior to amendment, text read as follows: “Any insured depository institution which willfully fails or refuses to file any certified statement or pay any assessment required under this chapter shall be subject to a penalty of not more than $100 for each day that such violations continue, which penalty the Corporation may recover for its use: Provided, That this subsection shall not be applicable under the circumstances stated in the proviso of subsection (b) of this section.”
+    Subsec. (h). [Pub. L. 109–171][/us/pl/109/171], § 2104(c), amended subsec. (h) generally. Prior to amendment, text read as follows: “Any insured depository institution which willfully fails or refuses to file any certified statement or pay any assessment required under this chapter shall be subject to a penalty of not more than $100 for each day that such violations continue, which penalty the Corporation may recover for its use: Provided, That this subsection shall not be applicable under the circumstances stated in the proviso of subsection (b) of this section.”
 
-    Subsec. (k)(2)(A). [Pub. L. 109–351, § 704(1)][/us/pl/109/351/s704/1], substituted “or covered company” for “or depository institution holding company”.
+    Subsec. (k)(2)(A). [Pub. L. 109–351][/us/pl/109/351], § 704(1), substituted “or covered company” for “or depository institution holding company”.
 
-    Subsec. (k)(2)(B). [Pub. L. 109–351, § 704(2)][/us/pl/109/351/s704/2], added subpar. (B) and struck out former subpar. (B) which read as follows: “Whether there is a reasonable basis to believe that the institution-affiliated party is substantially responsible for the insolvency of the depository institution or depository institution holding company, the appointment of a conservator or receiver for the depository institution, or the depository institution’s troubled condition (as defined in the regulations prescribed pursuant to [section 1831i(f) of this title][/us/usc/t12/s1831i/f]).”
+    Subsec. (k)(2)(B). [Pub. L. 109–351][/us/pl/109/351], § 704(2), added subpar. (B) and struck out former subpar. (B) which read as follows: “Whether there is a reasonable basis to believe that the institution-affiliated party is substantially responsible for the insolvency of the depository institution or depository institution holding company, the appointment of a conservator or receiver for the depository institution, or the depository institution’s troubled condition (as defined in the regulations prescribed pursuant to [section 1831i(f) of this title][/us/usc/t12/s1831i/f]).”
 
-    Subsec. (k)(2)(F). [Pub. L. 109–351, § 704(3)][/us/pl/109/351/s704/3], substituted “covered company,” for “depository institution holding company” in introductory provisions.
+    Subsec. (k)(2)(F). [Pub. L. 109–351][/us/pl/109/351], § 704(3), substituted “covered company,” for “depository institution holding company” in introductory provisions.
 
-    Subsec. (k)(3). [Pub. L. 109–351, § 704(4)][/us/pl/109/351/s704/4], substituted “covered company” for “depository institution holding company” in introductory provisions.
+    Subsec. (k)(3). [Pub. L. 109–351][/us/pl/109/351], § 704(4), substituted “covered company” for “depository institution holding company” in introductory provisions.
 
-    Subsec. (k)(3)(A). [Pub. L. 109–351, § 704(5)][/us/pl/109/351/s704/5], substituted “covered company” for “holding company”.
+    Subsec. (k)(3)(A). [Pub. L. 109–351][/us/pl/109/351], § 704(5), substituted “covered company” for “holding company”.
 
-    Subsec. (k)(4)(A). [Pub. L. 109–351, § 704(6)][/us/pl/109/351/s704/6], substituted “covered company for the benefit” for “depository institution holding company for the benefit” and “or covered company that—” for “or holding company that—” in introductory provisions, “covered company;” for “holding company;” in cl. (i), and “covered company,” for “depository institution holding company,” and “such covered company” for “such holding company” in cl. (ii)(I).
+    Subsec. (k)(4)(A). [Pub. L. 109–351][/us/pl/109/351], § 704(6), substituted “covered company for the benefit” for “depository institution holding company for the benefit” and “or covered company that—” for “or holding company that—” in introductory provisions, “covered company;” for “holding company;” in cl. (i), and “covered company,” for “depository institution holding company,” and “such covered company” for “such holding company” in cl. (ii)(I).
 
-    Subsec. (k)(5)(A). [Pub. L. 109–351, § 704(7)][/us/pl/109/351/s704/7], substituted “covered company” for “depository institution holding company” in introductory provisions.
+    Subsec. (k)(5)(A). [Pub. L. 109–351][/us/pl/109/351], § 704(7), substituted “covered company” for “depository institution holding company” in introductory provisions.
 
-    Subsec. (k)(5)(D). [Pub. L. 109–351, § 704(8)][/us/pl/109/351/s704/8], added subpar. (D).
+    Subsec. (k)(5)(D). [Pub. L. 109–351][/us/pl/109/351], § 704(8), added subpar. (D).
 
-    Subsec. (k)(6). [Pub. L. 109–351, § 704(9)][/us/pl/109/351/s704/9], substituted “covered company,” for “depository institution holding company” and “or covered company which is described” for “or holding company which is described”.
+    Subsec. (k)(6). [Pub. L. 109–351][/us/pl/109/351], § 704(9), substituted “covered company,” for “depository institution holding company” and “or covered company which is described” for “or holding company which is described”.
 
-    Subsec. (m)(3). [Pub. L. 109–173, § 8(a)(28)][/us/pl/109/173/s8/a/28], in subpar. (A) substituted “Deposit Insurance Fund” for “Savings Association Insurance Fund” and “savings association” for “Savings Association Insurance Fund member” and in subpar. (C) substituted “Deposit Insurance Fund” for “Savings Association Insurance Fund or the Bank Insurance Fund”.
+    Subsec. (m)(3). [Pub. L. 109–173][/us/pl/109/173], § 8(a)(28), in subpar. (A) substituted “Deposit Insurance Fund” for “Savings Association Insurance Fund” and “savings association” for “Savings Association Insurance Fund member” and in subpar. (C) substituted “Deposit Insurance Fund” for “Savings Association Insurance Fund or the Bank Insurance Fund”.
 
-    [Pub. L. 109–171, § 2102(b)][/us/pl/109/171/s2102/b], repealed [Pub. L. 104–208, § 2704(d)(14)(U)][/us/pl/104/208/s2704/d/14/U]. See 1996 Amendment note below.
+    [Pub. L. 109–171][/us/pl/109/171], § 2102(b), repealed [Pub. L. 104–208][/us/pl/104/208], § 2704(d)(14)(U). See 1996 Amendment note below.
 
-    Subsec. (o)(2). [Pub. L. 109–173, § 8(a)(29)][/us/pl/109/173/s8/a/29], substituted “Deposit Insurance Fund” for “deposit insurance funds” in subpar. (A)(i) and for “deposit insurance fund” in subpar. (B)(ii).
+    Subsec. (o)(2). [Pub. L. 109–173][/us/pl/109/173], § 8(a)(29), substituted “Deposit Insurance Fund” for “deposit insurance funds” in subpar. (A)(i) and for “deposit insurance fund” in subpar. (B)(ii).
 
-    Subsec. (p). [Pub. L. 109–173, § 8(a)(30)][/us/pl/109/173/s8/a/30], substituted “Deposit Insurance Fund” for “deposit insurance funds”.
+    Subsec. (p). [Pub. L. 109–173][/us/pl/109/173], § 8(a)(30), substituted “Deposit Insurance Fund” for “deposit insurance funds”.
 
-    [Pub. L. 109–171, § 2102(b)][/us/pl/109/171/s2102/b], repealed [Pub. L. 104–208, § 2704(d)(14)(V)][/us/pl/104/208/s2704/d/14/V]. See 1996 Amendment note below.
+    [Pub. L. 109–171][/us/pl/109/171], § 2102(b), repealed [Pub. L. 104–208][/us/pl/104/208], § 2704(d)(14)(V). See 1996 Amendment note below.
 
-    Subsec. (u)(1). [Pub. L. 109–351, § 702(b)][/us/pl/109/351/s702/b], inserted “and” at end of subpar. (A), redesignated subpar. (C) as (B), and struck out former subpar, (B) which read as follows: “the insured depository institution is undercapitalized (as defined in section 1831o of this title); and”.
+    Subsec. (u)(1). [Pub. L. 109–351][/us/pl/109/351], § 702(b), inserted “and” at end of subpar. (A), redesignated subpar. (C) as (B), and struck out former subpar, (B) which read as follows: “the insured depository institution is undercapitalized (as defined in section 1831o of this title); and”.
 
-    Subsec. (x). [Pub. L. 109–351, § 607(a)][/us/pl/109/351/s607/a], added subsec. (x).
+    Subsec. (x). [Pub. L. 109–351][/us/pl/109/351], § 607(a), added subsec. (x).
 
-    2004—Subsec. (c)(2)(A). [Pub. L. 108–386, § 8(a)(5)(A)][/us/pl/108/386/s8/a/5/A], struck out “or a District bank” after “national bank”.
+    2004—Subsec. (c)(2)(A). [Pub. L. 108–386][/us/pl/108/386], § 8(a)(5)(A), struck out “or a District bank” after “national bank”.
 
-    Subsec. (c)(2)(B). [Pub. L. 108–386, § 8(a)(5)(B)][/us/pl/108/386/s8/a/5/B], struck out “(except a District bank)” after “State member bank”.
+    Subsec. (c)(2)(B). [Pub. L. 108–386][/us/pl/108/386], § 8(a)(5)(B), struck out “(except a District bank)” after “State member bank”.
 
-    Subsec. (c)(2)(C). [Pub. L. 108–386, § 8(a)(5)(C)][/us/pl/108/386/s8/a/5/C], struck out “a District Bank or” before “a savings bank”.
+    Subsec. (c)(2)(C). [Pub. L. 108–386][/us/pl/108/386], § 8(a)(5)(C), struck out “a District Bank or” before “a savings bank”.
 
-    Subsec. (d)(1). [Pub. L. 108–386, § 8(a)(5)(D)][/us/pl/108/386/s8/a/5/D], struck out “(except a District bank)” after “nonmember insured bank” in two places.
+    Subsec. (d)(1). [Pub. L. 108–386][/us/pl/108/386], § 8(a)(5)(D), struck out “(except a District bank)” after “nonmember insured bank” in two places.
 
-    Subsec. (f). [Pub. L. 108–386, § 8(a)(5)(E)][/us/pl/108/386/s8/a/5/E], struck out “or a District bank” after “national bank”.
+    Subsec. (f). [Pub. L. 108–386][/us/pl/108/386], § 8(a)(5)(E), struck out “or a District bank” after “national bank”.
 
-    Subsec. (i)(1). [Pub. L. 108–386, § 8(a)(5)(F)][/us/pl/108/386/s8/a/5/F], struck out “(except a District bank)” after “State nonmember bank”.
+    Subsec. (i)(1). [Pub. L. 108–386][/us/pl/108/386], § 8(a)(5)(F), struck out “(except a District bank)” after “State nonmember bank”.
 
-    Subsec. (i)(2)(A) to (D). [Pub. L. 108–386, § 8(a)(5)(G)][/us/pl/108/386/s8/a/5/G]–(I), redesignated subpars. (B) to (D) as (A) to (C), respectively, struck out “(except a District bank)” before semicolon in subpars. (A) and (B), and struck out former subpar. (A), which read as follows: “the Comptroller of the Currency if the resulting bank is to be a District bank;”.
+    Subsec. (i)(2)(A) to (D). [Pub. L. 108–386][/us/pl/108/386], § 8(a)(5)(G)–(I), redesignated subpars. (B) to (D) as (A) to (C), respectively, struck out “(except a District bank)” before semicolon in subpars. (A) and (B), and struck out former subpar. (A), which read as follows: “the Comptroller of the Currency if the resulting bank is to be a District bank;”.
 
     Subsec. (w)(3). [Pub. L. 108–458][/us/pl/108/458] inserted comma after “agent of such institution”.
 
-    2001—Subsec. (c)(11), (12). [Pub. L. 107–56, § 327(b)(1)][/us/pl/107/56/s327/b/1], added par. (11) and redesignated former par. (11) as (12).
+    2001—Subsec. (c)(11), (12). [Pub. L. 107–56][/us/pl/107/56], § 327(b)(1), added par. (11) and redesignated former par. (11) as (12).
 
-    Subsec. (w). [Pub. L. 107–56, § 355][/us/pl/107/56/s355], added subsec. (w).
+    Subsec. (w). [Pub. L. 107–56][/us/pl/107/56], § 355, added subsec. (w).
 
-    2000—Subsecs. (t), (u). [Pub. L. 106–569, § 1207(b)(1)][/us/pl/106/569/s1207/b/1], redesignated subsec. (t), relating to limitation on claims, as (u).
+    2000—Subsecs. (t), (u). [Pub. L. 106–569][/us/pl/106/569], § 1207(b)(1), redesignated subsec. (t), relating to limitation on claims, as (u).
 
-    Subsec. (v). [Pub. L. 106–569, § 1207(b)(2)][/us/pl/106/569/s1207/b/2], added subsec. (v).
+    Subsec. (v). [Pub. L. 106–569][/us/pl/106/569], § 1207(b)(2), added subsec. (v).
 
-    1999—Subsec. (t). [Pub. L. 106–102, § 730][/us/pl/106/102/s730], added subsec. (t) relating to limitation on claims.
+    1999—Subsec. (t). [Pub. L. 106–102][/us/pl/106/102], § 730, added subsec. (t) relating to limitation on claims.
 
-    [Pub. L. 106–102, § 204][/us/pl/106/102/s204], which directed amendment of section by adding at end subsec. (t) relating to recordkeeping requirements, was executed by making the addition after subsec. (s) to reflect the probable intent of Congress.
+    [Pub. L. 106–102][/us/pl/106/102], § 204, which directed amendment of section by adding at end subsec. (t) relating to recordkeeping requirements, was executed by making the addition after subsec. (s) to reflect the probable intent of Congress.
 
     1998—Subsec. (s)(4), (5). [Pub. L. 105–277][/us/pl/105/277] redesignated par. (4) as (5) and added par. (4).
 
-    1996—Subsec. (m)(3). [Pub. L. 104–208, § 2704(d)(14)(U)][/us/pl/104/208/s2704/d/14/U], which directed substitution of “Deposit Insurance Fund” for “Savings Association Insurance Fund” wherever appearing and striking of “or the Bank Insurance Fund” in subpar. (C), was repealed by [Pub. L. 109–171][/us/pl/109/171]. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
+    1996—Subsec. (m)(3). [Pub. L. 104–208][/us/pl/104/208], § 2704(d)(14)(U), which directed substitution of “Deposit Insurance Fund” for “Savings Association Insurance Fund” wherever appearing and striking of “or the Bank Insurance Fund” in subpar. (C), was repealed by [Pub. L. 109–171][/us/pl/109/171]. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
-    Subsec. (p). [Pub. L. 104–208, § 2704(d)(14)(V)][/us/pl/104/208/s2704/d/14/V], which directed substitution of “Deposit Insurance Fund” for “deposit insurance funds”, was repealed by [Pub. L. 109–171][/us/pl/109/171]. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
+    Subsec. (p). [Pub. L. 104–208][/us/pl/104/208], § 2704(d)(14)(V), which directed substitution of “Deposit Insurance Fund” for “deposit insurance funds”, was repealed by [Pub. L. 109–171][/us/pl/109/171]. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
-    Subsec. (s). [Pub. L. 104–208, § 2615(b)][/us/pl/104/208/s2615/b], added subsec. (s).
+    Subsec. (s). [Pub. L. 104–208][/us/pl/104/208], § 2615(b), added subsec. (s).
 
-    1994—Subsec. (b). [Pub. L. 103–325, § 602(a)(44)][/us/pl/103/325/s602/a/44], substituted “if the insured depository institution deposits” for “, if such bank shall deposit”.
+    1994—Subsec. (b). [Pub. L. 103–325][/us/pl/103/325], § 602(a)(44), substituted “if the insured depository institution deposits” for “, if such bank shall deposit”.
 
-    Subsec. (c)(1)(B). [Pub. L. 103–325, § 602(a)(45)][/us/pl/103/325/s602/a/45], inserted “or” at end.
+    Subsec. (c)(1)(B). [Pub. L. 103–325][/us/pl/103/325], § 602(a)(45), inserted “or” at end.
 
     Subsec. (c)(4). [Pub. L. 103–325][/us/pl/103/325], §§ 324, 602(a)(46), substituted “other Federal banking agencies” for “other two banking agencies” in two places and inserted at end “Notwithstanding the preceding sentence, a banking agency shall not be required to file a report requested by the responsible agency under this paragraph if such banking agency advises the responsible agency by the applicable date under the preceding sentence that the report is not necessary because none of the effects described in paragraph (5) are likely to occur as a result of the transaction.”
 
     Subsec. (c)(6). [Pub. L. 103–325][/us/pl/103/325], §§ 321(b), 602(a)(47), substituted “other Federal banking agencies” for “other two banking agencies” and inserted before period at end “or, if the agency has not received any adverse comment from the Attorney General of the United States relating to competitive factors, such shorter period of time as may be prescribed by the agency with the concurrence of the Attorney General, but in no event less than 15 calendar days after the date of approval”.
 
-    Subsec. (c)(9). [Pub. L. 103–325, § 602(a)(48)][/us/pl/103/325/s602/a/48], substituted “with—” for “with the following information:”.
+    Subsec. (c)(9). [Pub. L. 103–325][/us/pl/103/325], § 602(a)(48), substituted “with—” for “with the following information:”.
 
-    Subsec. (d)(3). [Pub. L. 103–328, § 102(b)(3)(A)][/us/pl/103/328/s102/b/3/A], added par. (3).
+    Subsec. (d)(3). [Pub. L. 103–328][/us/pl/103/328], § 102(b)(3)(A), added par. (3).
 
-    Subsec. (d)(4). [Pub. L. 103–328, § 103(b)][/us/pl/103/328/s103/b], added par. (4).
+    Subsec. (d)(4). [Pub. L. 103–328][/us/pl/103/328], § 103(b), added par. (4).
 
-    Subsec. (f). [Pub. L. 103–325, § 602(a)(49)][/us/pl/103/325/s602/a/49], substituted “such insured depository institution” for “such bank” and “the insured depository institution” for “the bank”.
+    Subsec. (f). [Pub. L. 103–325][/us/pl/103/325], § 602(a)(49), substituted “such insured depository institution” for “such bank” and “the insured depository institution” for “the bank”.
 
-    Subsec. (k)(4)(A)(ii)(II). [Pub. L. 103–325, § 602(a)(50)][/us/pl/103/325/s602/a/50], struck out “or” at end.
+    Subsec. (k)(4)(A)(ii)(II). [Pub. L. 103–325][/us/pl/103/325], § 602(a)(50), struck out “or” at end.
 
-    Subsec. (q). [Pub. L. 103–325, § 326(b)(1)][/us/pl/103/325/s326/b/1], added subsec. (q).
+    Subsec. (q). [Pub. L. 103–325][/us/pl/103/325], § 326(b)(1), added subsec. (q).
 
-    Subsec. (r). [Pub. L. 103–328, § 101(d)][/us/pl/103/328/s101/d], added subsec. (r).
+    Subsec. (r). [Pub. L. 103–328][/us/pl/103/328], § 101(d), added subsec. (r).
 
     1992—Subsec. (p). [Pub. L. 102–550][/us/pl/102/550] redesignated subsec. (o), relating to periodic review of capital standards, as (p).
 
-    1991—Subsec. (j). [Pub. L. 102–242, § 306(k)][/us/pl/102/242/s306/k], amended subsec. (j) generally, revising and restating as pars. (1) to (3) provisions of former pars. (1) to (6).
+    1991—Subsec. (j). [Pub. L. 102–242][/us/pl/102/242], § 306(k), amended subsec. (j) generally, revising and restating as pars. (1) to (3) provisions of former pars. (1) to (6).
 
-    Subsec. (o). [Pub. L. 102–242, § 305(a)][/us/pl/102/242/s305/a], added subsec. (o) relating to periodic review of capital standards.
+    Subsec. (o). [Pub. L. 102–242][/us/pl/102/242], § 305(a), added subsec. (o) relating to periodic review of capital standards.
 
-    [Pub. L. 102–242, § 304(a)][/us/pl/102/242/s304/a], added subsec. (o) relating to real estate lending.
+    [Pub. L. 102–242][/us/pl/102/242], § 304(a), added subsec. (o) relating to real estate lending.
 
     1990—Subsec. (k). [Pub. L. 101–647][/us/pl/101/647] added subsec. (k).
 
-    1989—Subsec. (a). [Pub. L. 101–73, § 221(1)][/us/pl/101/73/s221/1], substituted heading and pars. (1) to (3) for first two sentences which read as follows: “Every insured bank shall display at each place of business maintained by it a sign or signs, and shall include a statement to the effect that its deposits are insured by the Corporation in all of its advertisements: Provided, That the Board of Directors may exempt from this requirement advertisements which do not relate to deposits or when it is impractical to include such statement therein. The Board of Directors shall prescribe by regulation the forms of such signs and the manner of display and the substance of such statements and the manner of use.”
+    1989—Subsec. (a). [Pub. L. 101–73][/us/pl/101/73], § 221(1), substituted heading and pars. (1) to (3) for first two sentences which read as follows: “Every insured bank shall display at each place of business maintained by it a sign or signs, and shall include a statement to the effect that its deposits are insured by the Corporation in all of its advertisements: Provided, That the Board of Directors may exempt from this requirement advertisements which do not relate to deposits or when it is impractical to include such statement therein. The Board of Directors shall prescribe by regulation the forms of such signs and the manner of display and the substance of such statements and the manner of use.”
 
-    [Pub. L. 101–73, § 201(a)][/us/pl/101/73/s201/a], substituted “insured depository institution” for “insured bank”.
+    [Pub. L. 101–73][/us/pl/101/73], § 201(a), substituted “insured depository institution” for “insured bank”.
 
-    Subsecs. (b), (c)(1), (2). [Pub. L. 101–73, § 201(a)][/us/pl/101/73/s201/a], substituted “insured depository institution” for “insured bank” wherever appearing.
+    Subsecs. (b), (c)(1), (2). [Pub. L. 101–73][/us/pl/101/73], § 201(a), substituted “insured depository institution” for “insured bank” wherever appearing.
 
-    Subsec. (c)(2)(C), (D). [Pub. L. 101–73, § 221(2)(A)][/us/pl/101/73/s221/2/A], added subpars. (C) and (D) and struck out former subpar. (C) which read as follows: “the Corporation if the acquiring, assuming or resulting bank is to be a nonmember insured bank (except a District bank).”
+    Subsec. (c)(2)(C), (D). [Pub. L. 101–73][/us/pl/101/73], § 221(2)(A), added subpars. (C) and (D) and struck out former subpar. (C) which read as follows: “the Corporation if the acquiring, assuming or resulting bank is to be a nonmember insured bank (except a District bank).”
 
-    Subsec. (c)(3). [Pub. L. 101–73, § 221(2)(C)][/us/pl/101/73/s221/2/C], (D), substituted “banks or savings associations” for “banks” wherever appearing and “default” for “failure”.
+    Subsec. (c)(3). [Pub. L. 101–73][/us/pl/101/73], § 221(2)(C), (D), substituted “banks or savings associations” for “banks” wherever appearing and “default” for “failure”.
 
-    Subsec. (c)(4), (6). [Pub. L. 101–73, § 221(2)(C)][/us/pl/101/73/s221/2/C], substituted “banks or savings associations” for “banks”.
+    Subsec. (c)(4), (6). [Pub. L. 101–73][/us/pl/101/73], § 221(2)(C), substituted “banks or savings associations” for “banks”.
 
-    Subsec. (c)(7)(C), (9)(A). [Pub. L. 101–73, § 221(2)(C)][/us/pl/101/73/s221/2/C], substituted “bank or savings association” for “bank”.
+    Subsec. (c)(7)(C), (9)(A). [Pub. L. 101–73][/us/pl/101/73], § 221(2)(C), substituted “bank or savings association” for “bank”.
 
-    Subsec. (c)(10). [Pub. L. 101–73, § 201(a)][/us/pl/101/73/s201/a], substituted “insured depository institution” for “insured bank”.
+    Subsec. (c)(10). [Pub. L. 101–73][/us/pl/101/73], § 201(a), substituted “insured depository institution” for “insured bank”.
 
-    Subsec. (c)(12). [Pub. L. 101–73, § 221(2)(B)][/us/pl/101/73/s221/2/B], struck out par. (12) which read as follows: “The provisions of this subsection shall not apply to any transaction where the acquiring, assuming, or resulting institution is an insured Federal savings bank or an institution insured by the Federal Savings and Loan Insurance Corporation, except that any insured bank involved in the transaction shall notify the Corporation in writing at least 30 days prior to consummation of the transaction and, if any approval by the Federal Home Loan Bank Board or the Federal Savings and Loan Insurance Corporation is required in connection therewith, such approving authority shall provide the Corporation with notification of the application for approval, shall consult with the Corporation before disposing of the application, and shall provide notification to the Corporation of the determination with respect to said application.”
+    Subsec. (c)(12). [Pub. L. 101–73][/us/pl/101/73], § 221(2)(B), struck out par. (12) which read as follows: “The provisions of this subsection shall not apply to any transaction where the acquiring, assuming, or resulting institution is an insured Federal savings bank or an institution insured by the Federal Savings and Loan Insurance Corporation, except that any insured bank involved in the transaction shall notify the Corporation in writing at least 30 days prior to consummation of the transaction and, if any approval by the Federal Home Loan Bank Board or the Federal Savings and Loan Insurance Corporation is required in connection therewith, such approving authority shall provide the Corporation with notification of the application for approval, shall consult with the Corporation before disposing of the application, and shall provide notification to the Corporation of the determination with respect to said application.”
 
-    Subsecs. (e), (f). [Pub. L. 101–73, § 201(a)][/us/pl/101/73/s201/a], substituted “insured depository institution” for “insured bank” wherever appearing.
+    Subsecs. (e), (f). [Pub. L. 101–73][/us/pl/101/73], § 201(a), substituted “insured depository institution” for “insured bank” wherever appearing.
 
-    Subsec. (g)(1). [Pub. L. 101–73, § 201(b)][/us/pl/101/73/s201/b], substituted “Director of the Office of Thrift Supervision” for “Federal Home Loan Bank Board”.
+    Subsec. (g)(1). [Pub. L. 101–73][/us/pl/101/73], § 201(b), substituted “Director of the Office of Thrift Supervision” for “Federal Home Loan Bank Board”.
 
-    Subsec. (h). [Pub. L. 101–73, § 201(a)][/us/pl/101/73/s201/a], substituted “insured depository institution” for “insured bank”.
+    Subsec. (h). [Pub. L. 101–73][/us/pl/101/73], § 201(a), substituted “insured depository institution” for “insured bank”.
 
-    Subsec. (i)(2). [Pub. L. 101–73, § 221(3)(A)][/us/pl/101/73/s221/3/A], (B), substituted “insured Federal depository institution” and “insured State depository institution” for “insured bank” and “insured State bank”, respectively.
+    Subsec. (i)(2). [Pub. L. 101–73][/us/pl/101/73], § 221(3)(A), (B), substituted “insured Federal depository institution” and “insured State depository institution” for “insured bank” and “insured State bank”, respectively.
 
-    Subsec. (i)(2)(D). [Pub. L. 101–73, § 221(3)(C)][/us/pl/101/73/s221/3/C], (D), added subpar. (D).
+    Subsec. (i)(2)(D). [Pub. L. 101–73][/us/pl/101/73], § 221(3)(C), (D), added subpar. (D).
 
-    Subsec. (i)(3). [Pub. L. 101–73, § 201(a)][/us/pl/101/73/s201/a], substituted “insured depository institution” for “insured bank”.
+    Subsec. (i)(3). [Pub. L. 101–73][/us/pl/101/73], § 201(a), substituted “insured depository institution” for “insured bank”.
 
-    Subsec. (i)(4)(D). [Pub. L. 101–73, § 221(3)(E)][/us/pl/101/73/s221/3/E], which directed the amendment of subsec. (i)(2) by inserting “and fitness” after “character” in par. (4)(D), was executed to par. (4)(D) as the probable intent of Congress.
+    Subsec. (i)(4)(D). [Pub. L. 101–73][/us/pl/101/73], § 221(3)(E), which directed the amendment of subsec. (i)(2) by inserting “and fitness” after “character” in par. (4)(D), was executed to par. (4)(D) as the probable intent of Congress.
 
-    Subsec. (i)(5). [Pub. L. 101–73, § 221(3)(F)][/us/pl/101/73/s221/3/F], which directed the amendment of subsec. (i)(2) by striking out par. (5), was executed to par. (5) as the probable intent of Congress. Prior to amendment, par. (5) read as follows: “Nothing in this subsection shall apply to a conversion of an insured bank to an insured institution pursuant to [section 1726(e) of this title][/us/usc/t12/s1726/e].”
+    Subsec. (i)(5). [Pub. L. 101–73][/us/pl/101/73], § 221(3)(F), which directed the amendment of subsec. (i)(2) by striking out par. (5), was executed to par. (5) as the probable intent of Congress. Prior to amendment, par. (5) read as follows: “Nothing in this subsection shall apply to a conversion of an insured bank to an insured institution pursuant to [section 1726(e) of this title][/us/usc/t12/s1726/e].”
 
-    Subsec. (j)(3)(D). [Pub. L. 101–73, § 201(a)][/us/pl/101/73/s201/a], substituted “insured depository institution” for “insured bank”.
+    Subsec. (j)(3)(D). [Pub. L. 101–73][/us/pl/101/73], § 201(a), substituted “insured depository institution” for “insured bank”.
 
-    Subsec. (j)(4), (5). [Pub. L. 101–73, § 907(c)][/us/pl/101/73/s907/c], amended pars. (4) and (5) generally. Prior to amendment, pars. (4) and (5) read as follows:
+    Subsec. (j)(4), (5). [Pub. L. 101–73][/us/pl/101/73], § 907(c), amended pars. (4) and (5) generally. Prior to amendment, pars. (4) and (5) read as follows:
 
     “(4)(A) Any nonmember insured bank which violates or any officer, director, employee, agent, or other person participating in the conduct of the affairs of such nonmember insured bank who violates any provision of section 371c, 371c–1, or 375b of this title, or any lawful regulation issued pursuant thereto, or any provision of [section 377 of this title][/us/usc/t12/s377], shall forfeit and pay a civil penalty of not more than $1,000 per day for each day during which such violation continues: Provided, That the Corporation may, in its discretion, compromise, modify, or remit any civil money penalty which is subject to imposition or has been imposed under authority of this subsection. The penalty may be assessed and collected by the Corporation by written notice. As used in this section, the term ‘violates’ includes without any limitation any action (alone or with another or others) for or toward causing, bringing about, participating in, counseling, or aiding or abetting a violation.
 
@@ -1105,67 +1105,67 @@
 
     “(5) The provisions of this subsection shall not apply to an insured Federal savings bank.”
 
-    Subsec. (j)(6). [Pub. L. 101–73, § 905(d)][/us/pl/101/73/s905/d], added par. (6).
+    Subsec. (j)(6). [Pub. L. 101–73][/us/pl/101/73], § 905(d), added par. (6).
 
-    Subsecs. (m), (n). [Pub. L. 101–73, § 221(4)][/us/pl/101/73/s221/4], added subsecs. (m) and (n).
+    Subsecs. (m), (n). [Pub. L. 101–73][/us/pl/101/73], § 221(4), added subsecs. (m) and (n).
 
-    1987—Subsec. (c)(12). [Pub. L. 100–86, § 504(b)(1)][/us/pl/100/86/s504/b/1], amended par. (12) generally. Prior to amendment, par. (12) read as follows: “The provisions of this subsection shall not apply to any merger transaction involving an insured Federal savings bank unless the resulting institution will be an insured bank other than an insured Federal savings bank.”
+    1987—Subsec. (c)(12). [Pub. L. 100–86][/us/pl/100/86], § 504(b)(1), amended par. (12) generally. Prior to amendment, par. (12) read as follows: “The provisions of this subsection shall not apply to any merger transaction involving an insured Federal savings bank unless the resulting institution will be an insured bank other than an insured Federal savings bank.”
 
-    Subsec. (i)(5). [Pub. L. 100–86, § 504(b)(2)][/us/pl/100/86/s504/b/2], added par. (5).
+    Subsec. (i)(5). [Pub. L. 100–86][/us/pl/100/86], § 504(b)(2), added par. (5).
 
-    Subsec. (j)(1). [Pub. L. 100–86, § 102(b)(1)][/us/pl/100/86/s102/b/1], inserted reference to [section 371c–1 of this title][/us/usc/t12/s371c–1] in two places.
+    Subsec. (j)(1). [Pub. L. 100–86][/us/pl/100/86], § 102(b)(1), inserted reference to [section 371c–1 of this title][/us/usc/t12/s371c–1] in two places.
 
-    Subsec. (j)(3). [Pub. L. 100–86, § 103(a)][/us/pl/100/86/s103/a], added par. (3) and redesignated former par. (3) as (4).
+    Subsec. (j)(3). [Pub. L. 100–86][/us/pl/100/86], § 103(a), added par. (3) and redesignated former par. (3) as (4).
 
     Subsec. (j)(4). [Pub. L. 100–86][/us/pl/100/86], §§ 102(b)(2), 103, redesignated former par. (3) as (4) and in subpar. (A) inserted “, 371c–1,” and “or any provision of [section 377 of this title][/us/usc/t12/s377],”.
 
-    Subsec. (j)(5). [Pub. L. 100–86, § 103(a)][/us/pl/100/86/s103/a], redesignated former par. (4) as (5).
+    Subsec. (j)(5). [Pub. L. 100–86][/us/pl/100/86], § 103(a), redesignated former par. (4) as (5).
 
-    1982—Subsec. (c)(12). [Pub. L. 97–320, § 113(n)][/us/pl/97/320/s113/n], added par. (12).
+    1982—Subsec. (c)(12). [Pub. L. 97–320][/us/pl/97/320], § 113(n), added par. (12).
 
-    Subsec. (j)(1). [Pub. L. 97–320, § 410(d)][/us/pl/97/320/s410/d], struck out “within the meaning of [section 221a of this title][/us/usc/t12/s221a] and” after “of a nonmember insured bank,”.
+    Subsec. (j)(1). [Pub. L. 97–320][/us/pl/97/320], § 410(d), struck out “within the meaning of [section 221a of this title][/us/usc/t12/s221a] and” after “of a nonmember insured bank,”.
 
-    Subsec. (j)(2). [Pub. L. 97–320, § 423][/us/pl/97/320/s423], inserted provisions relating to the applicability of this subsection to any foreign bank as defined in [section 3101(7) of this title][/us/usc/t12/s3101/7] and its branch in the United States.
+    Subsec. (j)(2). [Pub. L. 97–320][/us/pl/97/320], § 423, inserted provisions relating to the applicability of this subsection to any foreign bank as defined in [section 3101(7) of this title][/us/usc/t12/s3101/7] and its branch in the United States.
 
-    Subsec. (j)(3)(A). [Pub. L. 97–320, § 424(b)][/us/pl/97/320/s424/b], (d)(10), inserted proviso giving the Corporation discretionary authority to compromise, etc., any civil money penalty imposed under this subsection, and substituted “may be assessed” for “shall be assessed”.
+    Subsec. (j)(3)(A). [Pub. L. 97–320][/us/pl/97/320], § 424(b), (d)(10), inserted proviso giving the Corporation discretionary authority to compromise, etc., any civil money penalty imposed under this subsection, and substituted “may be assessed” for “shall be assessed”.
 
     Subsec. (j)(3)(D). [Pub. L. 97–424][/us/pl/97/424](e), substituted “twenty days from the service” for “ten days from the date”.
 
-    Subsec. (j)(4). [Pub. L. 97–320, § 113][/us/pl/97/320/s113](o), added par. (4).
+    Subsec. (j)(4). [Pub. L. 97–320][/us/pl/97/320], § 113(o), added par. (4).
 
     1980—Subsec. (g). [Pub. L. 96–221][/us/pl/96/221], §§ 302(b), 307, inserted provisions identical to provisions inserted by [section 101(b) of Pub. L. 96–161][/us/pl/96/161/s101/b], designating existing provisions as par. (1) and adding par. (2), and repealing the amendment made by [Pub. L. 96–161][/us/pl/96/161]. See Repeals and Effective Date of 1980 Amendment notes below.
 
-    [Pub. L. 96–221, § 207(b)(2)][/us/pl/96/221/s207/b/2], (3), provided for the future amendment of subsec. (g)(1) by striking out “payment and” and “, including limitations on the rates of interest or dividends that may be paid” in second sentence, and by striking out third, fifth, and eighth sentences which read as follows: “The Board of Directors may prescribe different rate limitations for different classes of deposits, for deposits of different amounts or with different maturities or subject to different conditions regarding withdrawal or repayment, according to the nature or location of insured nonmember banks or their depositors, or according to such other reasonable bases as the Board of Directors may deem desirable in the public interest. Such regulations shall prohibit any insured nonmember bank from paying any time deposit before its maturity except upon such conditions and in accordance with such rules and regulations as may be prescribed by the Board of Directors, and from waiving any requirement of notice before payment of any savings deposit except as to all savings deposits having the same requirement. For each violation of any provision of this subsection or any lawful provision of such regulations relating to the payment of interest or dividends on deposits or to withdrawal of deposits, the offending bank shall be subject to a penalty of not more than $100, which the Corporation may recover for its use.” See Effective Date of 1980 Amendment note below.
+    [Pub. L. 96–221][/us/pl/96/221], § 207(b)(2), (3), provided for the future amendment of subsec. (g)(1) by striking out “payment and” and “, including limitations on the rates of interest or dividends that may be paid” in second sentence, and by striking out third, fifth, and eighth sentences which read as follows: “The Board of Directors may prescribe different rate limitations for different classes of deposits, for deposits of different amounts or with different maturities or subject to different conditions regarding withdrawal or repayment, according to the nature or location of insured nonmember banks or their depositors, or according to such other reasonable bases as the Board of Directors may deem desirable in the public interest. Such regulations shall prohibit any insured nonmember bank from paying any time deposit before its maturity except upon such conditions and in accordance with such rules and regulations as may be prescribed by the Board of Directors, and from waiving any requirement of notice before payment of any savings deposit except as to all savings deposits having the same requirement. For each violation of any provision of this subsection or any lawful provision of such regulations relating to the payment of interest or dividends on deposits or to withdrawal of deposits, the offending bank shall be subject to a penalty of not more than $100, which the Corporation may recover for its use.” See Effective Date of 1980 Amendment note below.
 
-    Subsec. (k). [Pub. L. 96–221, § 529][/us/pl/96/221/s529], repealed [Pub. L. 96–104][/us/pl/96/104] and title II of [Pub. L. 96–161][/us/pl/96/161], resulting in the striking out of subsec. (k) which had provided that no insured nonmember bank or affiliate, or any successor, assignee, endorser, guarantor, or surety thereof, could plead or claim, directly or otherwise, with respect to any deposit or obligation of such bank or affiliate, any defense, right, or benefit under any provision of a State or territory of the United States, or the District of Columbia, regulating or limiting the rate of interest which could be charged or received, etc. and any such provision was preempted, and no civil or criminal penalty which would otherwise be applicable under such provision would apply to such bank or affiliate or any other person.
+    Subsec. (k). [Pub. L. 96–221][/us/pl/96/221], § 529, repealed [Pub. L. 96–104][/us/pl/96/104] and title II of [Pub. L. 96–161][/us/pl/96/161], resulting in the striking out of subsec. (k) which had provided that no insured nonmember bank or affiliate, or any successor, assignee, endorser, guarantor, or surety thereof, could plead or claim, directly or otherwise, with respect to any deposit or obligation of such bank or affiliate, any defense, right, or benefit under any provision of a State or territory of the United States, or the District of Columbia, regulating or limiting the rate of interest which could be charged or received, etc. and any such provision was preempted, and no civil or criminal penalty which would otherwise be applicable under such provision would apply to such bank or affiliate or any other person.
 
-    1979—Subsec. (g). [Pub. L. 96–161, § 101(b)][/us/pl/96/161/s101/b], designated existing provisions as par. (1) and added par. (2).
+    1979—Subsec. (g). [Pub. L. 96–161][/us/pl/96/161], § 101(b), designated existing provisions as par. (1) and added par. (2).
 
-    Subsec. (k). [Pub. L. 96–161, § 209][/us/pl/96/161/s209], added subsec. (k). A prior subsec. (k), added by [Pub. L. 96–104][/us/pl/96/104] and identical to the subsec. (k) added by [Pub. L. 96–161][/us/pl/96/161], was repealed by [section 212 of Pub. L. 96–161][/us/pl/96/161/s212]. See Codification note above.
+    Subsec. (k). [Pub. L. 96–161][/us/pl/96/161], § 209, added subsec. (k). A prior subsec. (k), added by [Pub. L. 96–104][/us/pl/96/104] and identical to the subsec. (k) added by [Pub. L. 96–161][/us/pl/96/161], was repealed by [section 212 of Pub. L. 96–161][/us/pl/96/161/s212]. See Codification note above.
 
     [Pub. L. 96–104][/us/pl/96/104] added subsec. (k). A prior subsec. (k), which also related to the inapplicability of State usury ceilings to certain obligations issued by insured nonmember banks and affiliates, was repealed by [section 1 of Pub. L. 96–104][/us/pl/96/104/s1].
 
-    1978—Subsec. (c)(1)(B). [Pub. L. 95–630, § 306][/us/pl/95/630/s306], inserted “(including liabilities which would be ‘deposits’ except for the proviso in section 1813(l)(5) of this title)” after “pay any deposits”.
+    1978—Subsec. (c)(1)(B). [Pub. L. 95–630][/us/pl/95/630], § 306, inserted “(including liabilities which would be ‘deposits’ except for the proviso in section 1813(l)(5) of this title)” after “pay any deposits”.
 
-    Subsec. (c)(11). [Pub. L. 95–369, § 6(c)(25)][/us/pl/95/369/s6/c/25], added par. (11).
+    Subsec. (c)(11). [Pub. L. 95–369][/us/pl/95/369], § 6(c)(25), added par. (11).
 
-    Subsec. (d). [Pub. L. 95–630, § 301(b)][/us/pl/95/630/s301/b], designated existing provisions as par. (1) and, inserted “domestic” after “operate any new” and “such” after “main office or any”, and added par. (2).
+    Subsec. (d). [Pub. L. 95–630][/us/pl/95/630], § 301(b), designated existing provisions as par. (1) and, inserted “domestic” after “operate any new” and “such” after “main office or any”, and added par. (2).
 
-    [Pub. L. 95–369, § 6(c)(26)][/us/pl/95/369/s6/c/26], inserted provision prohibiting a foreign bank from moving any insured branch from one location to another without the consent of the Corporation.
+    [Pub. L. 95–369][/us/pl/95/369], § 6(c)(26), inserted provision prohibiting a foreign bank from moving any insured branch from one location to another without the consent of the Corporation.
 
-    Subsec. (g). [Pub. L. 95–369, § 6(c)(27)][/us/pl/95/369/s6/c/27], inserted “and in insured branches of foreign banks” after “in insured nonmember banks”.
+    Subsec. (g). [Pub. L. 95–369][/us/pl/95/369], § 6(c)(27), inserted “and in insured branches of foreign banks” after “in insured nonmember banks”.
 
-    Subsec. (j). [Pub. L. 95–630, § 108][/us/pl/95/630/s108], designated existing provisions as par. (1) and added pars. (2) and (3).
+    Subsec. (j). [Pub. L. 95–630][/us/pl/95/630], § 108, designated existing provisions as par. (1) and added pars. (2) and (3).
 
-    [Pub. L. 95–369, § 6(c)(28)][/us/pl/95/369/s6/c/28], inserted at end “The provisions of this subsection shall not apply to any foreign bank having an insured branch with respect to dealings between such bank and any affiliate thereof.”
+    [Pub. L. 95–369][/us/pl/95/369], § 6(c)(28), inserted at end “The provisions of this subsection shall not apply to any foreign bank having an insured branch with respect to dealings between such bank and any affiliate thereof.”
 
-    Subsec. (l). [Pub. L. 95–630, § 301(c)][/us/pl/95/630/s301/c], added subsec. (l).
+    Subsec. (l). [Pub. L. 95–630][/us/pl/95/630], § 301(c), added subsec. (l).
 
     1974—Subsec. (c)(10). [Pub. L. 93–495][/us/pl/93/495] added par. (10).
 
-    Subsec. (g). [Pub. L. 93–501, § 102(a)][/us/pl/93/501/s102/a], struck out requirement that obligations other than deposits undertaken by insured non-member banks be for the purpose of obtaining funds to be used in the banking business in provisions relating to applicability of this subsection and of regulations under the subsection to such obligations.
+    Subsec. (g). [Pub. L. 93–501][/us/pl/93/501], § 102(a), struck out requirement that obligations other than deposits undertaken by insured non-member banks be for the purpose of obtaining funds to be used in the banking business in provisions relating to applicability of this subsection and of regulations under the subsection to such obligations.
 
-    Subsec. (k). [Pub. L. 93–501, § 302][/us/pl/93/501/s302], added subsec. (k).
+    Subsec. (k). [Pub. L. 93–501][/us/pl/93/501], § 302, added subsec. (k).
 
     1973—Subsec. (g). [Pub. L. 93–100][/us/pl/93/100] extended rulemaking authority of Board of Directors to payment and advertisement of dividends on deposits and in the provisions relating to the applicability of the subsection to noninsured banks in the States, eliminated clause designation and struck out provisions of former cl. (2).
 
@@ -1173,11 +1173,11 @@
 
     1968—Subsec. (g). [Pub. L. 90–505][/us/pl/90/505] gave the Board power to prescribe rules governing the payment and advertisement of interest on deposits.
 
-    1966—Subsec. (c). [Pub. L. 89–356, § 1(a)][/us/pl/89/356/s1/a], laid down more definite guidelines for dealing with the antitrust aspects of bank mergers by prohibiting monopoly bank mergers in all cases, forbidding anticompetitive mergers except in cases where a clear showing is made that a given merger is so beneficial that its allowance is in the public interest, and requiring the uniform application of the law by both judicial and administrative bodies, inserted provisions to delay the effectiveness of agency approval of merger transactions except in emergency situations, imposed a special statute of limitations for antitrust actions arising out of agency-approved merger transactions thereby precluding antitrust actions when the agency has acted immediately to prevent probable failure of a bank, provided for the automatic staying of the effectiveness of agency action by the commencement of an antitrust action unless the court orders otherwise, called for de novo court review, permitted federal bank agencies which approved a subsequently challenged merger to appear in the suit by its own counsel, allowed state banking agencies to present their views, and inserted a definition of “antitrust laws” which would include the Sherman Act, the Clayton Act, and any other Acts in pari materia.
+    1966—Subsec. (c). [Pub. L. 89–356][/us/pl/89/356], § 1(a), laid down more definite guidelines for dealing with the antitrust aspects of bank mergers by prohibiting monopoly bank mergers in all cases, forbidding anticompetitive mergers except in cases where a clear showing is made that a given merger is so beneficial that its allowance is in the public interest, and requiring the uniform application of the law by both judicial and administrative bodies, inserted provisions to delay the effectiveness of agency approval of merger transactions except in emergency situations, imposed a special statute of limitations for antitrust actions arising out of agency-approved merger transactions thereby precluding antitrust actions when the agency has acted immediately to prevent probable failure of a bank, provided for the automatic staying of the effectiveness of agency action by the commencement of an antitrust action unless the court orders otherwise, called for de novo court review, permitted federal bank agencies which approved a subsequently challenged merger to appear in the suit by its own counsel, allowed state banking agencies to present their views, and inserted a definition of “antitrust laws” which would include the Sherman Act, the Clayton Act, and any other Acts in pari materia.
 
     Subsec. (g). [Pub. L. 89–597][/us/pl/89/597] made the authority of the FDIC Board to prescribe maximum permissible rates of interest that may be paid by member banks on time and savings deposits discretionary rather than mandatory, included such payments by insured mutual savings banks, required prior consultations with the Board of Governors of the FRS and the FHLB Board, authorized different rate limitations for different classes of deposits, for deposits of different amounts, or according to such other reasonable bases as the Board may deem desirable in the public interest, and eliminate provision for rate limitation according to the varying discount rates of member banks in the several Federal Reserve districts.
 
-    Subsec. (i). [Pub. L. 89–356, § 1(b)][/us/pl/89/356/s1/b], added subsec. (i).
+    Subsec. (i). [Pub. L. 89–356][/us/pl/89/356], § 1(b), added subsec. (i).
 
     Subsec. (j). [Pub. L. 89–485][/us/pl/89/485] added subsec. (j).
 
@@ -1193,7 +1193,7 @@
 
     Amendment by [section 604(f) of Pub. L. 111–203][/us/pl/111/203/s604/f] effective on the transfer date, see [section 604(j) of Pub. L. 111–203][/us/pl/111/203/s604/j], set out as a note under [section 1462 of this title][/us/usc/t12/s1462].
 
-[Pub. L. 111–203, title VI, § 611(b)][/us/pl/111/203/s611/b], July 21, 2010, [124 Stat. 1612][/us/stat/124/1612], provided that: 
+[Pub. L. 111–203, title VI][/us/pl/111/203/tVI], § 611(b), July 21, 2010, [124 Stat. 1612][/us/stat/124/1612], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall take effect 18 months after the transfer date.”
 
@@ -1217,7 +1217,7 @@
 
  __Effective Date of 2004 Amendments__ 
 
-[Pub. L. 108–458, title VI, § 6205][/us/pl/108/458/s6205], Dec. 17, 2004, [118 Stat. 3747][/us/stat/118/3747], provided that: 
+[Pub. L. 108–458, title VI][/us/pl/108/458/tVI], § 6205, Dec. 17, 2004, [118 Stat. 3747][/us/stat/118/3747], provided that: 
 
 > “The amendments made by this subchapter \[probably means subtitle C (§§ 6201–6205) of title VI of [Pub. L. 108–458][/us/pl/108/458], see Short Title of 2004 Amendment note set out under [section 5301 of Title 31][/us/usc/t31/s5301], Money and Finance\] to [Public Law 107–56][/us/pl/107/56], the United States Code, the Federal Deposit Insurance Act, and any other provision of law shall take effect as if such amendments had been included in [Public Law 107–56][/us/pl/107/56], as of the date of enactment of such Public Law \[Oct. 26, 2001\], and no amendment made by such Public Law that is inconsistent with an amendment made by this subchapter shall be deemed to have taken effect.”
 
@@ -1225,13 +1225,13 @@
 
  __Effective Date of 2001 Amendment__ 
 
-[Pub. L. 107–56, title III, § 327(b)(2)][/us/pl/107/56/s327/b/2], Oct. 26, 2001, [115 Stat. 319][/us/stat/115/319], as amended by [Pub. L. 108–458, title VI, § 6202(i)][/us/pl/108/458/s6202/i], Dec. 17, 2004, [118 Stat. 3746][/us/stat/118/3746], provided that: 
+[Pub. L. 107–56, title III][/us/pl/107/56/tIII], § 327(b)(2), Oct. 26, 2001, [115 Stat. 319][/us/stat/115/319], as amended by [Pub. L. 108–458, title VI][/us/pl/108/458/tVI], § 6202(i), Dec. 17, 2004, [118 Stat. 3746][/us/stat/118/3746], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall apply with respect to any application submitted to the responsible agency under section 18(c) of the Federal Deposit Insurance Act \[[12 U.S.C. 1828(c)][/us/usc/t12/s1828/c]\] after December 31, \[sic\].”
 
  __Effective Date of 1999 Amendment__ 
 
-[Pub. L. 106–102, title II, § 209][/us/pl/106/102/s209], Nov. 12, 1999, [113 Stat. 1395][/us/stat/113/1395], provided that: 
+[Pub. L. 106–102, title II][/us/pl/106/102/tII], § 209, Nov. 12, 1999, [113 Stat. 1395][/us/stat/113/1395], provided that: 
 
 > “This subtitle \[subtitle A (§§ 201–210) of title II of [Pub. L. 106–102][/us/pl/106/102], amending this section and sections 78c, 78o, and 78o–3 of Title 15, Commerce and Trade, and enacting provisions set out as notes under [section 1811 of this title][/us/usc/t12/s1811] and [section 78c of Title 15][/us/usc/t15/s78c]\] shall take effect at the end of the 18-month period beginning on the date of the enactment of this Act \[Nov. 12, 1999\].”
 
@@ -1243,7 +1243,7 @@
 
  __Effective Date of 1994 Amendment__ 
 
-[Pub. L. 103–328, title I, § 101(e)][/us/pl/103/328/s101/e], Sept. 29, 1994, [108 Stat. 2343][/us/stat/108/2343], provided that: 
+[Pub. L. 103–328, title I][/us/pl/103/328/tI], § 101(e), Sept. 29, 1994, [108 Stat. 2343][/us/stat/108/2343], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 1841, 1842, and 1846 of this title\] shall take effect at the end of the 1-year period beginning on the date of the enactment of this Act \[Sept. 29, 1994\].”
 
@@ -1261,11 +1261,11 @@
 
  __Effective Date of 1980 Amendment__ 
 
-    [Pub. L. 96–221, title II, § 207(b)][/us/pl/96/221/s207/b], Mar. 31, 1980, [94 Stat. 144][/us/stat/94/144], provided in part that the amendment by that section is effective 6 years after Mar. 31, 1980.
+    [Pub. L. 96–221, title II][/us/pl/96/221/tII], § 207(b), Mar. 31, 1980, [94 Stat. 144][/us/stat/94/144], provided in part that the amendment by that section is effective 6 years after Mar. 31, 1980.
 
     Amendment by [section 302(b) of Pub. L. 96–221][/us/pl/96/221/s302/b] effective at the close of Mar. 31, 1980, see [section 306 of Pub. L. 96–221][/us/pl/96/221/s306], set out as a note under [section 1464 of this title][/us/usc/t12/s1464].
 
-    [Pub. L. 96–221, title V, § 529][/us/pl/96/221/s529], Mar. 31, 1980, [94 Stat. 168][/us/stat/94/168], provided that the amendment made by that section is effective at the close of Mar. 31, 1980.
+    [Pub. L. 96–221, title V][/us/pl/96/221/tV], § 529, Mar. 31, 1980, [94 Stat. 168][/us/stat/94/168], provided that the amendment made by that section is effective at the close of Mar. 31, 1980.
 
  __Effective and Termination Dates of 1979 Amendments__ 
 
@@ -1283,7 +1283,7 @@
 
  __Effective Date of 1974 Amendment__ 
 
-[Pub. L. 93–501, title I, § 102(b)][/us/pl/93/501/s102/b], Oct. 29, 1974, [88 Stat. 1558][/us/stat/88/1558], provided that: 
+[Pub. L. 93–501, title I][/us/pl/93/501/tI], § 102(b), Oct. 29, 1974, [88 Stat. 1558][/us/stat/88/1558], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall not apply to any bank holding company which has filed prior to the date of enactment of this Act \[Oct. 29, 1974\] an irrevocable declaration with the Board of Governors of the Federal Reserve System to divest itself of all of its banks under section 4 of the Bank Holding Company Act \[[section 1843 of this title][/us/usc/t12/s1843]\], or to any debt obligation which is an exempted security under section 3(a)(3) of the Securities Act of 1933 \[[section 77c(a)(3) of Title 15][/us/usc/t15/s77c/a/3], Commerce and Trade\].”
 
@@ -1307,7 +1307,7 @@
 
  __Savings Provision__ 
 
-    [Pub. L. 96–221, title V, § 529][/us/pl/96/221/s529], Mar. 31, 1980, [94 Stat. 168][/us/stat/94/168], provided in part that, notwithstanding the repeal of [Pub. L. 96–104][/us/pl/96/104] and title II of [Pub. L. 96–161][/us/pl/96/161], the provisions of subsec. (k) of this section \[which had been added to this section by those repealed laws\] shall continue to apply to any loan made, any deposit made, or any obligation issued to any State during any period when those provisions were in effect in such State.
+    [Pub. L. 96–221, title V][/us/pl/96/221/tV], § 529, Mar. 31, 1980, [94 Stat. 168][/us/stat/94/168], provided in part that, notwithstanding the repeal of [Pub. L. 96–104][/us/pl/96/104] and title II of [Pub. L. 96–161][/us/pl/96/161], the provisions of subsec. (k) of this section \[which had been added to this section by those repealed laws\] shall continue to apply to any loan made, any deposit made, or any obligation issued to any State during any period when those provisions were in effect in such State.
 
  __Termination of Reporting Requirements__ 
 
@@ -1315,7 +1315,7 @@
 
  __Banking Agency Publication Requirements__ 
 
-[Pub. L. 105–18, title V, § 50004][/us/pl/105/18/s50004], June 12, 1997, [111 Stat. 212][/us/stat/111/212], provided that:
+[Pub. L. 105–18, title V][/us/pl/105/18/tV], § 50004, June 12, 1997, [111 Stat. 212][/us/stat/111/212], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -1369,13 +1369,13 @@
 
 Similar provisions were contained in the following prior acts:
 
-    [Pub. L. 103–76, § 4][/us/pl/103/76/s4], Aug. 12, 1993, [107 Stat. 753][/us/stat/107/753].
+    [Pub. L. 103–76][/us/pl/103/76], § 4, Aug. 12, 1993, [107 Stat. 753][/us/stat/107/753].
 
-    [Pub. L. 102–485, § 5][/us/pl/102/485/s5], Oct. 23, 1992, [106 Stat. 2773][/us/stat/106/2773].
+    [Pub. L. 102–485][/us/pl/102/485], § 5, Oct. 23, 1992, [106 Stat. 2773][/us/stat/106/2773].
 
  __Review of Risk-Based Capital Standards__ 
 
-[Pub. L. 102–242, title III, § 305(b)][/us/pl/102/242/s305/b], Dec. 19, 1991, [105 Stat. 2355][/us/stat/105/2355], as amended by [Pub. L. 103–325, title III, § 335][/us/pl/103/325/s335], Sept. 23, 1994, [108 Stat. 2233][/us/stat/108/2233], provided that:
+[Pub. L. 102–242, title III][/us/pl/102/242/tIII], § 305(b), Dec. 19, 1991, [105 Stat. 2355][/us/stat/105/2355], as amended by [Pub. L. 103–325, title III][/us/pl/103/325/tIII], § 335, Sept. 23, 1994, [108 Stat. 2233][/us/stat/108/2233], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -1413,7 +1413,7 @@ Similar provisions were contained in the following prior acts:
 
  __Purchased Mortgage Servicing Rights__ 
 
-[Pub. L. 102–242, title IV, § 475][/us/pl/102/242/s475], Dec. 19, 1991, [105 Stat. 2386][/us/stat/105/2386], as amended by [Pub. L. 102–550, title XVI, § 1606(i)(2)][/us/pl/102/550/s1606/i/2], Oct. 28, 1992, [106 Stat. 4089][/us/stat/106/4089]; [Pub. L. 106–569, title XII, § 1208][/us/pl/106/569/s1208], Dec. 27, 2000, [114 Stat. 3035][/us/stat/114/3035], provided that:
+[Pub. L. 102–242, title IV][/us/pl/102/242/tIV], § 475, Dec. 19, 1991, [105 Stat. 2386][/us/stat/105/2386], as amended by [Pub. L. 102–550, title XVI][/us/pl/102/550/tXVI], § 1606(i)(2), Oct. 28, 1992, [106 Stat. 4089][/us/stat/106/4089]; [Pub. L. 106–569, title XII][/us/pl/106/569/tXII], § 1208, Dec. 27, 2000, [114 Stat. 3035][/us/stat/114/3035], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -1437,7 +1437,7 @@ Similar provisions were contained in the following prior acts:
 
  __Elimination of Interest Rate Differentials__ 
 
-[Pub. L. 97–320, title III, § 326(b)][/us/pl/97/320/s326/b]–(d), Oct. 15, 1982, [96 Stat. 1500][/us/stat/96/1500], provided that:
+[Pub. L. 97–320, title III][/us/pl/97/320/tIII], § 326(b)–(d), Oct. 15, 1982, [96 Stat. 1500][/us/stat/96/1500], provided that:
 
 >     “(b)
 
@@ -1453,7 +1453,7 @@ Similar provisions were contained in the following prior acts:
 
  __States Having Constitutional Provisions Regarding Maximum Interest Rates__ 
 
-    [Pub. L. 96–161, title II, § 213][/us/pl/96/161/s213], Dec. 28, 1979, [93 Stat. 1240][/us/stat/93/1240], provided that the provisions of title II of [Pub. L. 96–161][/us/pl/96/161], which enacted subsec. (k) of this section and repealed provisions which had formerly amended this section, to continue to apply until July 1, 1981, in the case of any State having a constitutional provision regarding maximum interest rates.
+    [Pub. L. 96–161, title II][/us/pl/96/161/tII], § 213, Dec. 28, 1979, [93 Stat. 1240][/us/stat/93/1240], provided that the provisions of title II of [Pub. L. 96–161][/us/pl/96/161], which enacted subsec. (k) of this section and repealed provisions which had formerly amended this section, to continue to apply until July 1, 1981, in the case of any State having a constitutional provision regarding maximum interest rates.
 
  __Interest Rates; Controls__ 
 
@@ -1461,13 +1461,13 @@ Similar provisions were contained in the following prior acts:
 
  __Reinstatement of Withdrawn or Abandoned Applications Made Before__  __February 21, 1966__  __, for Approval of Mergers__ 
 
-[Pub. L. 89–356, § 3][/us/pl/89/356/s3], Feb. 21, 1966, [80 Stat. 10][/us/stat/80/10], provided that: 
+[Pub. L. 89–356][/us/pl/89/356], § 3, Feb. 21, 1966, [80 Stat. 10][/us/stat/80/10], provided that: 
 
 > “Any application for approval of a merger transaction (as the term ‘merger transaction’ is used in section 18(c) of the Federal Deposit Insurance Act) \[subsec. (c) of this section\] which was made before the date of enactment of this Act \[Feb. 21, 1966\], but was withdrawn or abandoned as a result of any objections made or any suit brought by the Attorney General, may be reinstituted and shall be acted upon in accordance with the provisions of this Act without prejudice by such withdrawal, abandonment, objections, or judicial proceedings.”
 
  __Special Antitrust Treatment of Merger Transactions Consummated Before__  __February 21, 1966__  __, and of Litigation Pending On or After__  __February 21, 1966__  __, With Respect to Merger Transactions Consummated After__  __June 16, 1963__ 
 
-[Pub. L. 89–356, § 2][/us/pl/89/356/s2], Feb. 21, 1966, [80 Stat. 10][/us/stat/80/10], provided that:
+[Pub. L. 89–356][/us/pl/89/356], § 2, Feb. 21, 1966, [80 Stat. 10][/us/stat/80/10], provided that:
 
 >     “(a) Any merger, consolidation, acquisition of assets, or assumption of liabilities involving an insured bank which was consummated prior to June 17, 1963, the bank resulting from which has not been dissolved or divided and has not effected a sale or distribution of assets and has not taken any other similar action pursuant to a final judgment under the antitrust laws prior to the enactment of this Act \[Feb. 21, 1966\], shall be conclusively presumed to have not been in violation of any antitrust laws other than [section 2 of the Act of July 2, 1890][/us/act/1890-07-02/s2] (section 2 of the Sherman Antitrust Act, [15 U.S.C. 2][/us/usc/t15/s2]).
 
@@ -1519,83 +1519,83 @@ Similar provisions were contained in the following prior acts:
 [/us/usc/t12/s1831v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1831v
 [/us/usc/t12/s84/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs84%2Fb%2F3
 [/us/usc/t12/s375b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs375b
-[/us/act/1950-09-21/ch967/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967%2Fs2
+[/us/act/1950-09-21/ch967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967
 [/us/stat/64/891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F891
 [/us/pl/86/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F463
 [/us/stat/74/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F129
-[/us/pl/87/827/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F827%2Fs2
+[/us/pl/87/827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F827
 [/us/stat/76/953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F953
-[/us/pl/89/79/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F79%2Fs2
+[/us/pl/89/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F79
 [/us/stat/79/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F244
-[/us/pl/89/356/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F356%2Fs1
+[/us/pl/89/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F356
 [/us/stat/80/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F7
-[/us/pl/89/485/s12/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F485%2Fs12%2Fc
+[/us/pl/89/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F485
 [/us/stat/80/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F242
-[/us/pl/89/597/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F597%2Fs3
+[/us/pl/89/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F597
 [/us/stat/80/824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F824
-[/us/pl/90/505/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F505%2Fs2%2Fb
+[/us/pl/90/505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F505
 [/us/stat/82/856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F856
-[/us/pl/91/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F151
+[/us/pl/91/151/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F151%2FtI
 [/us/stat/83/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F372
-[/us/pl/93/100/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F100%2Fs3
+[/us/pl/93/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F100
 [/us/stat/87/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F342
-[/us/pl/93/495/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2Fs106
+[/us/pl/93/495/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2FtI
 [/us/stat/88/1505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1505
-[/us/pl/93/501/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F501%2Fs102%2Fa
+[/us/pl/93/501/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F501%2FtI
 [/us/stat/88/1558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1558
-[/us/pl/95/369/s6/c/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F369%2Fs6%2Fc%2F25
+[/us/pl/95/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F369
 [/us/stat/92/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F620
-[/us/pl/95/630/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs108
+[/us/pl/95/630/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtI
 [/us/stat/92/3664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3664
-[/us/pl/96/104/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F104%2Fs202
+[/us/pl/96/104/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F104%2FtII
 [/us/stat/93/792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F792
-[/us/pl/96/161/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F161%2Fs101%2Fb
+[/us/pl/96/161/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F161%2FtI
 [/us/stat/93/1233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1233
-[/us/pl/96/221/s207/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs207%2Fb%2F2
+[/us/pl/96/221/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2FtII
 [/us/stat/94/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F144
-[/us/pl/97/320/s113/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs113%2Fn
+[/us/pl/97/320/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2FtI
 [/us/stat/96/1474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1474
-[/us/pl/100/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86
+[/us/pl/100/86/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2FtI
 [/us/stat/101/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F566
-[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
+[/us/pl/101/73/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtII
 [/us/stat/103/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F187
-[/us/pl/101/647/s2523/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2523%2Fa
+[/us/pl/101/647/tXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXV
 [/us/stat/104/4868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4868
-[/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
+[/us/pl/102/242/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtIII
 [/us/stat/105/2354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2354
-[/us/pl/102/550/s1605/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1605%2Fa%2F9
+[/us/pl/102/550/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXVI
 [/us/stat/106/4086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4086
-[/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
+[/us/pl/103/325/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtIII
 [/us/stat/108/2226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2226
-[/us/pl/103/328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328
+[/us/pl/103/328/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328%2FtI
 [/us/stat/108/2342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2342
-[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-479
-[/us/pl/105/277/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs2
+[/us/pl/105/277/dH]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdH
 [/us/stat/112/2681-854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-854
-[/us/pl/106/102/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs204
+[/us/pl/106/102/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtII
 [/us/stat/113/1391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1391
-[/us/pl/106/569/s1207/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs1207%2Fb
+[/us/pl/106/569/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2FtXII
 [/us/stat/114/3034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F3034
-[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtIII
 [/us/stat/115/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F319
-[/us/pl/108/386/s8/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F386%2Fs8%2Fa%2F5
+[/us/pl/108/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F386
 [/us/stat/118/2231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2231
-[/us/pl/108/458/s6203/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6203%2Fj
+[/us/pl/108/458/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVI
 [/us/stat/118/3747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3747
-[/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
+[/us/pl/109/171/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2FtII
 [/us/stat/120/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F9
 [/us/pl/109/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173
 [/us/stat/119/3602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3602
-[/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
+[/us/pl/109/351/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2FtVI
 [/us/stat/120/1981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1981
-[/us/pl/110/315/s438/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs438%2Fb
+[/us/pl/110/315/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIV
 [/us/stat/122/3258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3258
-[/us/pl/110/343/s126/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs126%2Fa
+[/us/pl/110/343/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdA%2FtI
 [/us/stat/122/3793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3793
-[/us/pl/111/203/s363/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs363%2F7
+[/us/pl/111/203/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIII
 [/us/stat/124/1553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1553
-[/us/pl/112/215/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F215%2Fs1%2F2
+[/us/pl/112/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F215
 [/us/stat/126/1589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1589
 [/us/usc/t15/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1
 [/us/act/1914-10-15/ch323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-10-15%2Fch323
@@ -1616,7 +1616,7 @@ Similar provisions were contained in the following prior acts:
 [/us/pl/96/161/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F161%2Fs212
 [/us/usc/t12/s85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs85
 [/us/pl/93/501/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F501%2Fs302
-[/us/pl/96/104/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F104%2Fs1
+[/us/pl/96/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F104
 [/us/stat/93/789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F789
 [/us/pl/96/104/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F104%2Fs1
 [/us/pl/96/104/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F104%2Fs1
@@ -1624,164 +1624,164 @@ Similar provisions were contained in the following prior acts:
 [/us/usc/t12/s264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs264
 [/us/usc/t12/s1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1811
 [/us/pl/112/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F215
-[/us/pl/112/215/s1/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F215%2Fs1%2F2%2FA
-[/us/pl/111/203/s363/7/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs363%2F7%2FA%2Fi
-[/us/pl/111/203/s363/7/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs363%2F7%2FA%2Fii
-[/us/pl/111/203/s363/7/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs363%2F7%2FA%2Fiii
-[/us/pl/111/203/s363/7/A/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs363%2F7%2FA%2Fiv
-[/us/pl/111/203/s604/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs604%2Ff
-[/us/pl/111/203/s627/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs627%2Fa%2F3
-[/us/pl/111/203/s363/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs363%2F7%2FB
-[/us/pl/111/203/s363/7/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs363%2F7%2FC
-[/us/pl/111/203/s363/7/D/i/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs363%2F7%2FD%2Fi%2FI
-[/us/pl/111/203/s363/7/D/i/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs363%2F7%2FD%2Fi%2FII
-[/us/pl/111/203/s363/7/D/ii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs363%2F7%2FD%2Fii%2FI
-[/us/pl/111/203/s363/7/D/ii/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs363%2F7%2FD%2Fii%2FII
-[/us/pl/111/203/s363/7/D/iii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs363%2F7%2FD%2Fiii%2FI
-[/us/pl/111/203/s363/7/D/iii/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs363%2F7%2FD%2Fiii%2FII
-[/us/pl/111/203/s623/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs623%2Fa
-[/us/pl/111/203/s613/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs613%2Fb
-[/us/pl/111/203/s611/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs611%2Fa
-[/us/pl/111/203/s615/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs615%2Fa
-[/us/pl/111/203/s615/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs615%2Fa
-[/us/pl/110/343/s126/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs126%2Fd%2F2
-[/us/pl/110/343/s126/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs126%2Fd%2F1
-[/us/pl/110/343/s126/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs126%2Fa
+[/us/pl/112/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F215
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
 [/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/usc/t20/s1087–2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087%E2%80%932%2Fd
-[/us/pl/109/173/s2/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173%2Fs2%2Fc%2F2
-[/us/pl/109/351/s606/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs606%2Fa
-[/us/pl/109/351/s606/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs606%2Fb%2F2
-[/us/pl/109/351/s606/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs606%2Fb%2F1
-[/us/pl/109/171/s2104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs2104%2Fc
-[/us/pl/109/351/s704/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs704%2F1
-[/us/pl/109/351/s704/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs704%2F2
+[/us/pl/109/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173
+[/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
+[/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
+[/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
+[/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
+[/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
+[/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
 [/us/usc/t12/s1831i/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1831i%2Ff
-[/us/pl/109/351/s704/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs704%2F3
-[/us/pl/109/351/s704/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs704%2F4
-[/us/pl/109/351/s704/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs704%2F5
-[/us/pl/109/351/s704/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs704%2F6
-[/us/pl/109/351/s704/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs704%2F7
-[/us/pl/109/351/s704/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs704%2F8
-[/us/pl/109/351/s704/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs704%2F9
-[/us/pl/109/173/s8/a/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173%2Fs8%2Fa%2F28
-[/us/pl/109/171/s2102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs2102%2Fb
-[/us/pl/104/208/s2704/d/14/U]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2704%2Fd%2F14%2FU
-[/us/pl/109/173/s8/a/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173%2Fs8%2Fa%2F29
-[/us/pl/109/173/s8/a/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173%2Fs8%2Fa%2F30
-[/us/pl/109/171/s2102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs2102%2Fb
-[/us/pl/104/208/s2704/d/14/V]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2704%2Fd%2F14%2FV
-[/us/pl/109/351/s702/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs702%2Fb
-[/us/pl/109/351/s607/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs607%2Fa
-[/us/pl/108/386/s8/a/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F386%2Fs8%2Fa%2F5%2FA
-[/us/pl/108/386/s8/a/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F386%2Fs8%2Fa%2F5%2FB
-[/us/pl/108/386/s8/a/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F386%2Fs8%2Fa%2F5%2FC
-[/us/pl/108/386/s8/a/5/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F386%2Fs8%2Fa%2F5%2FD
-[/us/pl/108/386/s8/a/5/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F386%2Fs8%2Fa%2F5%2FE
-[/us/pl/108/386/s8/a/5/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F386%2Fs8%2Fa%2F5%2FF
-[/us/pl/108/386/s8/a/5/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F386%2Fs8%2Fa%2F5%2FG
+[/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
+[/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
+[/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
+[/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
+[/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
+[/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
+[/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
+[/us/pl/109/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173
+[/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/109/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173
+[/us/pl/109/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173
+[/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
+[/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
+[/us/pl/108/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F386
+[/us/pl/108/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F386
+[/us/pl/108/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F386
+[/us/pl/108/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F386
+[/us/pl/108/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F386
+[/us/pl/108/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F386
+[/us/pl/108/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F386
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
-[/us/pl/107/56/s327/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs327%2Fb%2F1
-[/us/pl/107/56/s355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs355
-[/us/pl/106/569/s1207/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs1207%2Fb%2F1
-[/us/pl/106/569/s1207/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs1207%2Fb%2F2
-[/us/pl/106/102/s730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs730
-[/us/pl/106/102/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs204
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102
+[/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
-[/us/pl/104/208/s2704/d/14/U]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2704%2Fd%2F14%2FU
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
-[/us/pl/104/208/s2704/d/14/V]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2704%2Fd%2F14%2FV
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
-[/us/pl/104/208/s2615/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2615%2Fb
-[/us/pl/103/325/s602/a/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs602%2Fa%2F44
-[/us/pl/103/325/s602/a/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs602%2Fa%2F45
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
 [/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
-[/us/pl/103/325/s602/a/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs602%2Fa%2F48
-[/us/pl/103/328/s102/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328%2Fs102%2Fb%2F3%2FA
-[/us/pl/103/328/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328%2Fs103%2Fb
-[/us/pl/103/325/s602/a/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs602%2Fa%2F49
-[/us/pl/103/325/s602/a/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs602%2Fa%2F50
-[/us/pl/103/325/s326/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs326%2Fb%2F1
-[/us/pl/103/328/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328%2Fs101%2Fd
+[/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
+[/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
+[/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
+[/us/pl/103/328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328
+[/us/pl/103/328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328
+[/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
+[/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
+[/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
+[/us/pl/103/328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
-[/us/pl/102/242/s306/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs306%2Fk
-[/us/pl/102/242/s305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs305%2Fa
-[/us/pl/102/242/s304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs304%2Fa
+[/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
+[/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
+[/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
 [/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
-[/us/pl/101/73/s221/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs221%2F1
-[/us/pl/101/73/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs201%2Fa
-[/us/pl/101/73/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs201%2Fa
-[/us/pl/101/73/s221/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs221%2F2%2FA
-[/us/pl/101/73/s221/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs221%2F2%2FC
-[/us/pl/101/73/s221/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs221%2F2%2FC
-[/us/pl/101/73/s221/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs221%2F2%2FC
-[/us/pl/101/73/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs201%2Fa
-[/us/pl/101/73/s221/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs221%2F2%2FB
-[/us/pl/101/73/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs201%2Fa
-[/us/pl/101/73/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs201%2Fb
-[/us/pl/101/73/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs201%2Fa
-[/us/pl/101/73/s221/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs221%2F3%2FA
-[/us/pl/101/73/s221/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs221%2F3%2FC
-[/us/pl/101/73/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs201%2Fa
-[/us/pl/101/73/s221/3/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs221%2F3%2FE
-[/us/pl/101/73/s221/3/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs221%2F3%2FF
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
 [/us/usc/t12/s1726/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1726%2Fe
-[/us/pl/101/73/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs201%2Fa
-[/us/pl/101/73/s907/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs907%2Fc
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
 [/us/usc/t12/s377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs377
 [/us/usc/t5/s554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs554
 [/us/usc/t28/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2112
 [/us/usc/t5/s706/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs706%2F2%2FE
-[/us/pl/101/73/s905/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs905%2Fd
-[/us/pl/101/73/s221/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs221%2F4
-[/us/pl/100/86/s504/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2Fs504%2Fb%2F1
-[/us/pl/100/86/s504/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2Fs504%2Fb%2F2
-[/us/pl/100/86/s102/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2Fs102%2Fb%2F1
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
+[/us/pl/100/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86
+[/us/pl/100/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86
+[/us/pl/100/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86
 [/us/usc/t12/s371c–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs371c%E2%80%931
-[/us/pl/100/86/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2Fs103%2Fa
+[/us/pl/100/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86
 [/us/pl/100/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86
 [/us/usc/t12/s377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs377
-[/us/pl/100/86/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2Fs103%2Fa
-[/us/pl/97/320/s113/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs113%2Fn
-[/us/pl/97/320/s410/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs410%2Fd
+[/us/pl/100/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86
+[/us/pl/97/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320
+[/us/pl/97/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320
 [/us/usc/t12/s221a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs221a
-[/us/pl/97/320/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs423
+[/us/pl/97/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320
 [/us/usc/t12/s3101/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3101%2F7
-[/us/pl/97/320/s424/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs424%2Fb
+[/us/pl/97/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320
 [/us/pl/97/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424
-[/us/pl/97/320/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs113
+[/us/pl/97/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320
 [/us/pl/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221
 [/us/pl/96/161/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F161%2Fs101%2Fb
 [/us/pl/96/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F161
-[/us/pl/96/221/s207/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs207%2Fb%2F2
-[/us/pl/96/221/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs529
+[/us/pl/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221
+[/us/pl/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221
 [/us/pl/96/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F104
 [/us/pl/96/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F161
-[/us/pl/96/161/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F161%2Fs101%2Fb
-[/us/pl/96/161/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F161%2Fs209
+[/us/pl/96/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F161
+[/us/pl/96/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F161
 [/us/pl/96/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F104
 [/us/pl/96/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F161
 [/us/pl/96/161/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F161%2Fs212
 [/us/pl/96/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F104
 [/us/pl/96/104/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F104%2Fs1
-[/us/pl/95/630/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs306
-[/us/pl/95/369/s6/c/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F369%2Fs6%2Fc%2F25
-[/us/pl/95/630/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs301%2Fb
-[/us/pl/95/369/s6/c/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F369%2Fs6%2Fc%2F26
-[/us/pl/95/369/s6/c/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F369%2Fs6%2Fc%2F27
-[/us/pl/95/630/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs108
-[/us/pl/95/369/s6/c/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F369%2Fs6%2Fc%2F28
-[/us/pl/95/630/s301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs301%2Fc
+[/us/pl/95/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630
+[/us/pl/95/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F369
+[/us/pl/95/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630
+[/us/pl/95/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F369
+[/us/pl/95/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F369
+[/us/pl/95/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630
+[/us/pl/95/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F369
+[/us/pl/95/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630
 [/us/pl/93/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495
-[/us/pl/93/501/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F501%2Fs102%2Fa
-[/us/pl/93/501/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F501%2Fs302
+[/us/pl/93/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F501
+[/us/pl/93/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F501
 [/us/pl/93/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F100
 [/us/pl/91/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F151
 [/us/pl/90/505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F505
-[/us/pl/89/356/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F356%2Fs1%2Fa
+[/us/pl/89/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F356
 [/us/pl/89/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F597
-[/us/pl/89/356/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F356%2Fs1%2Fb
+[/us/pl/89/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F356
 [/us/pl/89/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F485
 [/us/pl/89/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F79
 [/us/pl/87/827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F827
@@ -1792,7 +1792,7 @@ Similar provisions were contained in the following prior acts:
 [/us/pl/111/203/s604/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs604%2Ff
 [/us/pl/111/203/s604/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs604%2Fj
 [/us/usc/t12/s1462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1462
-[/us/pl/111/203/s611/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs611%2Fb
+[/us/pl/111/203/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVI
 [/us/stat/124/1612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1612
 [/us/pl/111/203/s611/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs611%2Fb
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301
@@ -1816,7 +1816,7 @@ Similar provisions were contained in the following prior acts:
 [/us/usc/t12/s1821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1821
 [/us/pl/109/171/s2104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs2104%2Fc
 [/us/usc/t12/s1817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1817
-[/us/pl/108/458/s6205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6205
+[/us/pl/108/458/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVI
 [/us/stat/118/3747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3747
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t31/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5301
@@ -1825,12 +1825,12 @@ Similar provisions were contained in the following prior acts:
 [/us/pl/108/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F386
 [/us/pl/108/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F386
 [/us/usc/t12/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs321
-[/us/pl/107/56/s327/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs327%2Fb%2F2
+[/us/pl/107/56/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtIII
 [/us/stat/115/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F319
-[/us/pl/108/458/s6202/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6202%2Fi
+[/us/pl/108/458/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVI
 [/us/stat/118/3746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3746
 [/us/usc/t12/s1828/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1828%2Fc
-[/us/pl/106/102/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs209
+[/us/pl/106/102/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtII
 [/us/stat/113/1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1395
 [/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102
 [/us/usc/t12/s1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1811
@@ -1841,7 +1841,7 @@ Similar provisions were contained in the following prior acts:
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/104/208/s2704/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2704%2Fc
 [/us/usc/t12/s1821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1821
-[/us/pl/103/328/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328%2Fs101%2Fe
+[/us/pl/103/328/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328%2FtI
 [/us/stat/108/2343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2343
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
@@ -1854,12 +1854,12 @@ Similar provisions were contained in the following prior acts:
 [/us/pl/101/73/s907/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs907%2Fc
 [/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
 [/us/usc/t12/s93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs93
-[/us/pl/96/221/s207/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs207%2Fb
+[/us/pl/96/221/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2FtII
 [/us/stat/94/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F144
 [/us/pl/96/221/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs302%2Fb
 [/us/pl/96/221/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs306
 [/us/usc/t12/s1464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1464
-[/us/pl/96/221/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs529
+[/us/pl/96/221/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2FtV
 [/us/stat/94/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F168
 [/us/pl/96/161/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F161%2Fs101%2Fb
 [/us/pl/96/161/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F161%2Fs104
@@ -1877,7 +1877,7 @@ Similar provisions were contained in the following prior acts:
 [/us/pl/95/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630
 [/us/pl/95/630/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs2101
 [/us/usc/t12/s375b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs375b
-[/us/pl/93/501/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F501%2Fs102%2Fb
+[/us/pl/93/501/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F501%2FtI
 [/us/stat/88/1558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1558
 [/us/usc/t12/s1843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1843
 [/us/usc/t15/s77c/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77c%2Fa%2F3
@@ -1899,47 +1899,47 @@ Similar provisions were contained in the following prior acts:
 [/us/pl/96/161/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F161%2Fs101
 [/us/pl/96/221/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs307
 [/us/pl/96/221/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs302
-[/us/pl/96/221/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs529
+[/us/pl/96/221/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2FtV
 [/us/stat/94/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F168
 [/us/pl/96/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F104
 [/us/pl/96/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F161
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
-[/us/pl/105/18/s50004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F18%2Fs50004
+[/us/pl/105/18/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F18%2FtV
 [/us/stat/111/212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F212
 [/us/usc/t42/s5170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5170
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/pl/103/76/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F76%2Fs4
+[/us/pl/103/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F76
 [/us/stat/107/753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F753
-[/us/pl/102/485/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F485%2Fs5
+[/us/pl/102/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F485
 [/us/stat/106/2773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2773
-[/us/pl/102/242/s305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs305%2Fb
+[/us/pl/102/242/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtIII
 [/us/stat/105/2355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2355
-[/us/pl/103/325/s335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs335
+[/us/pl/103/325/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtIII
 [/us/stat/108/2233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2233
 [/us/usc/t12/s1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813
-[/us/pl/102/242/s475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs475
+[/us/pl/102/242/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtIV
 [/us/stat/105/2386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2386
-[/us/pl/102/550/s1606/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1606%2Fi%2F2
+[/us/pl/102/550/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXVI
 [/us/stat/106/4089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4089
-[/us/pl/106/569/s1208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs1208
+[/us/pl/106/569/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2FtXII
 [/us/stat/114/3035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F3035
 [/us/usc/t12/s1464/t/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1464%2Ft%2F4
 [/us/usc/t12/s1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813
-[/us/pl/97/320/s326/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs326%2Fb
+[/us/pl/97/320/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2FtIII
 [/us/stat/96/1500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1500
 [/us/usc/t12/s1813/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813%2Fj
 [/us/usc/t12/s1813/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813%2Ff
 [/us/usc/t12/s3503/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3503%2Fc
 [/us/usc/t12/s1813/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813%2Ff
-[/us/pl/96/161/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F161%2Fs213
+[/us/pl/96/161/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F161%2FtII
 [/us/stat/93/1240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1240
 [/us/pl/96/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F161
 [/us/pl/89/597/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F597%2Fs1
 [/us/usc/t12/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs461
-[/us/pl/89/356/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F356%2Fs3
+[/us/pl/89/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F356
 [/us/stat/80/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F10
-[/us/pl/89/356/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F356%2Fs2
+[/us/pl/89/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F356
 [/us/stat/80/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F10
 [/us/act/1890-07-02/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-07-02%2Fs2
 [/us/usc/t15/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2

@@ -47,7 +47,7 @@
 
         The provisions of paragraphs (3), (5), (6), (7), (8), and (10) of [section 1715k(h) of this title][/us/usc/t12/s1715k/h] shall be applicable to loans insured under this section and, as applied to loans insured under this section, references in those paragraphs to “home improvement loans” and “this subsection” shall be construed to refer to loans under this section.
 
-([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title II, § 240, as added [Pub. L. 90–448, title III, § 304(a)][/us/pl/90/448/s304/a], Aug. 1, 1968, [82 Stat. 507][/us/stat/82/507]; amended [Pub. L. 95–557, title III, § 314][/us/pl/95/557/s314], Oct. 31, 1978, [92 Stat. 2099][/us/stat/92/2099]; [Pub. L. 96–399, title III, § 333(f)][/us/pl/96/399/s333/f], Oct. 8, 1980, [94 Stat. 1653][/us/stat/94/1653]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title IV, § 404(b)(13)\], Nov. 30, 1983, [97 Stat. 1210][/us/stat/97/1210]; [Pub. L. 98–479, title II, § 204(a)(10)][/us/pl/98/479/s204/a/10], Oct. 17, 1984, [98 Stat. 2232][/us/stat/98/2232].)
+([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title II, § 240, as added [Pub. L. 90–448, title III][/us/pl/90/448/tIII], § 304(a), Aug. 1, 1968, [82 Stat. 507][/us/stat/82/507]; amended [Pub. L. 95–557, title III][/us/pl/95/557/tIII], § 314, Oct. 31, 1978, [92 Stat. 2099][/us/stat/92/2099]; [Pub. L. 96–399, title III][/us/pl/96/399/tIII], § 333(f), Oct. 8, 1980, [94 Stat. 1653][/us/stat/94/1653]; [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title IV, § 404(b)(13)\], Nov. 30, 1983, [97 Stat. 1210][/us/stat/97/1210]; [Pub. L. 98–479, title II][/us/pl/98/479/tII], § 204(a)(10), Oct. 17, 1984, [98 Stat. 2232][/us/stat/98/2232].)
 
  __Amendments__ 
 
@@ -71,15 +71,15 @@
 [/us/usc/t12/s1709/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1709%2Fb
 [/us/usc/t12/s1715k/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715k%2Fh
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
-[/us/pl/90/448/s304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs304%2Fa
+[/us/pl/90/448/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2FtIII
 [/us/stat/82/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F507
-[/us/pl/95/557/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2Fs314
+[/us/pl/95/557/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2FtIII
 [/us/stat/92/2099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2099
-[/us/pl/96/399/s333/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs333%2Ff
+[/us/pl/96/399/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2FtIII
 [/us/stat/94/1653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1653
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1210
-[/us/pl/98/479/s204/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2Fs204%2Fa%2F10
+[/us/pl/98/479/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2FtII
 [/us/stat/98/2232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2232
 [/us/pl/98/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479
 [/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181

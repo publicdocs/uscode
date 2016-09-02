@@ -17,7 +17,7 @@
 
     On and after the transfer date, any reference in Federal law to the Director of the Office of Thrift Supervision or the Office of Thrift Supervision, in connection with any function of the Director of the Office of Thrift Supervision or the Office of Thrift Supervision transferred under [section 5412(b) of this title][/us/usc/t12/s5412/b] or any other provision of this subtitle, shall be deemed to be a reference to the Comptroller of the Currency, the Office of the Comptroller of the Currency, the Chairperson of the Corporation, the Corporation, the Chairman of the Board of Governors, or the Board of Governors, as appropriate and consistent with the amendments made in subtitle E.
 
-([Pub. L. 111–203, title III, § 317][/us/pl/111/203/s317], July 21, 2010, [124 Stat. 1526][/us/stat/124/1526].)
+([Pub. L. 111–203, title III][/us/pl/111/203/tIII], § 317, July 21, 2010, [124 Stat. 1526][/us/stat/124/1526].)
 
  __References in Text__ 
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t12/s5412/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5412%2Fb
-[/us/pl/111/203/s317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs317
+[/us/pl/111/203/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIII
 [/us/stat/124/1526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1526
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1520

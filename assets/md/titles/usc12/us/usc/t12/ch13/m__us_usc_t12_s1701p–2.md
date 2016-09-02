@@ -53,7 +53,7 @@
 
         (3) collect and make available information under this section, in accordance with paragraphs (5) and (6) of [section 5512(c) of this title][/us/usc/t12/s5512/c] and the rules prescribed under such paragraphs, in order to protect privacy and confidentiality.
 
-([Pub. L. 111–203, title XIV, § 1447][/us/pl/111/203/s1447], July 21, 2010, [124 Stat. 2172][/us/stat/124/2172].)
+([Pub. L. 111–203, title XIV][/us/pl/111/203/tXIV], § 1447, July 21, 2010, [124 Stat. 2172][/us/stat/124/2172].)
 
  __Codification__ 
 
@@ -75,7 +75,7 @@
 ----------
 
 [/us/usc/t12/s5512/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5512%2Fc
-[/us/pl/111/203/s1447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1447
+[/us/pl/111/203/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtXIV
 [/us/stat/124/2172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2172
 [/us/pl/111/203/s1400/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1400%2Fc
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601

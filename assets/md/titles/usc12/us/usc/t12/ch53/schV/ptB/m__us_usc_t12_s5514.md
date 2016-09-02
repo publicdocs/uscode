@@ -159,7 +159,7 @@
 
         No provision of this title 1 may be construed as modifying, limiting, or otherwise affecting the authority of the Farm Credit Administration.
 
-([Pub. L. 111–203, title X, § 1024][/us/pl/111/203/s1024], July 21, 2010, [124 Stat. 1987][/us/stat/124/1987]; [Pub. L. 113–173, § 2][/us/pl/113/173/s2], Sept. 26, 2014, [128 Stat. 1899][/us/stat/128/1899].)
+([Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1024, July 21, 2010, [124 Stat. 1987][/us/stat/124/1987]; [Pub. L. 113–173][/us/pl/113/173], § 2, Sept. 26, 2014, [128 Stat. 1899][/us/stat/128/1899].)
 
  __References in Text__ 
 
@@ -187,9 +187,9 @@
 [/us/usc/t12/s5581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5581
 [/us/usc/t12/s5581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5581
 [/us/usc/t12/s1867/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1867%2Fc
-[/us/pl/111/203/s1024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1024
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/1987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1987
-[/us/pl/113/173/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F173%2Fs2
+[/us/pl/113/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F173
 [/us/stat/128/1899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1899
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1955

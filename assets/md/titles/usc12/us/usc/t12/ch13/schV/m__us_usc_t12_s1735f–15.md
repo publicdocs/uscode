@@ -173,37 +173,37 @@
 
         (3) over which the ownership entity exerts effective control.
 
-([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title V, § 537, as added [Pub. L. 101–235, title I, § 108(a)][/us/pl/101/235/s108/a], Dec. 15, 1989, [103 Stat. 2003][/us/stat/103/2003]; amended [Pub. L. 105–65, title V, § 561(a)][/us/pl/105/65/s561/a], Oct. 27, 1997, [111 Stat. 1414][/us/stat/111/1414]; [Pub. L. 108–447, div. I, title II, § 219(b)][/us/pl/108/447/s219/b], (c), Dec. 8, 2004, [118 Stat. 3319][/us/stat/118/3319].)
+([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title V, § 537, as added [Pub. L. 101–235, title I][/us/pl/101/235/tI], § 108(a), Dec. 15, 1989, [103 Stat. 2003][/us/stat/103/2003]; amended [Pub. L. 105–65, title V][/us/pl/105/65/tV], § 561(a), Oct. 27, 1997, [111 Stat. 1414][/us/stat/111/1414]; [Pub. L. 108–447, div. I, title II][/us/pl/108/447/dI/tII], § 219(b), (c), Dec. 8, 2004, [118 Stat. 3319][/us/stat/118/3319].)
 
  __Amendments__ 
 
-    2004—Subsec. (c)(1)(B)(ii). [Pub. L. 108–447, § 219(b)][/us/pl/108/447/s219/b], inserted “other revenues, or contract rights,” after “rents,”.
+    2004—Subsec. (c)(1)(B)(ii). [Pub. L. 108–447][/us/pl/108/447], § 219(b), inserted “other revenues, or contract rights,” after “rents,”.
 
-    Subsec. (c)(1)(B)(x). [Pub. L. 108–447, § 219(c)][/us/pl/108/447/s219/c], amended cl. (x) generally. Prior to amendment, cl. (x) read as follows: “Failure to furnish the Secretary, by the expiration of the 60-day period beginning on the 1st day after the completion of each fiscal year, with a complete annual financial report based upon an examination of the books and records of the mortgagor prepared and certified to by an independent public accountant or a certified public accountant and certified to by an officer of the mortgagor, unless the Secretary has approved an extension of the 60-day period in writing. The Secretary shall approve an extension where the mortgagor demonstrates that failure to comply with this subparagraph is due to events beyond the control of the mortgagor.”
+    Subsec. (c)(1)(B)(x). [Pub. L. 108–447][/us/pl/108/447], § 219(c), amended cl. (x) generally. Prior to amendment, cl. (x) read as follows: “Failure to furnish the Secretary, by the expiration of the 60-day period beginning on the 1st day after the completion of each fiscal year, with a complete annual financial report based upon an examination of the books and records of the mortgagor prepared and certified to by an independent public accountant or a certified public accountant and certified to by an officer of the mortgagor, unless the Secretary has approved an extension of the 60-day period in writing. The Secretary shall approve an extension where the mortgagor demonstrates that failure to comply with this subparagraph is due to events beyond the control of the mortgagor.”
 
-    1997—Subsec. (b)(1). [Pub. L. 105–65, § 561(a)(1)][/us/pl/105/65/s561/a/1], substituted “on that mortgagor, on a general partner of a partnership mortgagor, or on any officer or director of a corporate mortgagor” for “on that mortgagor”.
+    1997—Subsec. (b)(1). [Pub. L. 105–65][/us/pl/105/65], § 561(a)(1), substituted “on that mortgagor, on a general partner of a partnership mortgagor, or on any officer or director of a corporate mortgagor” for “on that mortgagor”.
 
-    Subsec. (c). [Pub. L. 105–65, § 561(a)(2)(A)][/us/pl/105/65/s561/a/2/A], substituted “Other violations” for “Violations of regulatory agreement for which penalty may be imposed” in heading.
+    Subsec. (c). [Pub. L. 105–65][/us/pl/105/65], § 561(a)(2)(A), substituted “Other violations” for “Violations of regulatory agreement for which penalty may be imposed” in heading.
 
-    Subsec. (c)(1). [Pub. L. 105–65, § 561(a)(2)(B)(i)][/us/pl/105/65/s561/a/2/B/i], (iv), substituted “violation of this subsection” for “violation of such agreement” before period at end of closing provisions and struck out heading and introductory provisions. Introductory provisions read as follows: “The Secretary may also impose a civil money penalty under this section on any mortgagor of property that includes 5 or more living units and that has a mortgage insured, co-insured, or held pursuant to this chapter for any knowing and material violation of the regulatory agreement executed by the mortgagor, as follows:”.
+    Subsec. (c)(1). [Pub. L. 105–65][/us/pl/105/65], § 561(a)(2)(B)(i), (iv), substituted “violation of this subsection” for “violation of such agreement” before period at end of closing provisions and struck out heading and introductory provisions. Introductory provisions read as follows: “The Secretary may also impose a civil money penalty under this section on any mortgagor of property that includes 5 or more living units and that has a mortgage insured, co-insured, or held pursuant to this chapter for any knowing and material violation of the regulatory agreement executed by the mortgagor, as follows:”.
 
-    Subsec. (c)(1)(A). [Pub. L. 105–65, § 561(a)(2)(B)(i)][/us/pl/105/65/s561/a/2/B/i], (ii), added subpar. (A) and redesignated former subpar. (A) as cl. (i) of subpar. (B).
+    Subsec. (c)(1)(A). [Pub. L. 105–65][/us/pl/105/65], § 561(a)(2)(B)(i), (ii), added subpar. (A) and redesignated former subpar. (A) as cl. (i) of subpar. (B).
 
-    Subsec. (c)(1)(B) to (L). [Pub. L. 105–65, § 561(a)(2)(B)(i)][/us/pl/105/65/s561/a/2/B/i]–(iii), inserted heading and introductory provisions of subpar. (B), redesignated former subpars. (A) to (L) as cls. (i) to (xii) of subpar. (B), respectively, and added cls. (xiii) to (xv).
+    Subsec. (c)(1)(B) to (L). [Pub. L. 105–65][/us/pl/105/65], § 561(a)(2)(B)(i)–(iii), inserted heading and introductory provisions of subpar. (B), redesignated former subpars. (A) to (L) as cls. (i) to (xii) of subpar. (B), respectively, and added cls. (xiii) to (xv).
 
-    Subsec. (d)(1)(B). [Pub. L. 105–65, § 561(a)(3)(A)][/us/pl/105/65/s561/a/3/A], inserted “, general partner of a partnership mortgagor, officer or director of a corporate mortgagor, or identity of interest agent employed to manage the property” after “mortgagor”.
+    Subsec. (d)(1)(B). [Pub. L. 105–65][/us/pl/105/65], § 561(a)(3)(A), inserted “, general partner of a partnership mortgagor, officer or director of a corporate mortgagor, or identity of interest agent employed to manage the property” after “mortgagor”.
 
-    Subsec. (d)(5). [Pub. L. 105–65, § 561(a)(3)(B)][/us/pl/105/65/s561/a/3/B], added par. (5).
+    Subsec. (d)(5). [Pub. L. 105–65][/us/pl/105/65], § 561(a)(3)(B), added par. (5).
 
-    Subsec. (e)(1). [Pub. L. 105–65, § 561(a)(4)][/us/pl/105/65/s561/a/4], substituted “an entity or person” for “a mortgagor”.
+    Subsec. (e)(1). [Pub. L. 105–65][/us/pl/105/65], § 561(a)(4), substituted “an entity or person” for “a mortgagor”.
 
-    Subsec. (f). [Pub. L. 105–65, § 561(a)(5)][/us/pl/105/65/s561/a/5], (6), substituted “Civil money penalties against multifamily mortgagors, general partners of partnership mortgagors, officers and directors of corporate mortgagors, and certain managing agents” for “Action to collect penalty” in heading and inserted “, general partner of a partnership mortgagor, officer or director of a corporate mortgagor, or identity of interest agent employed to manage the property” after “mortgagor” in two places in text.
+    Subsec. (f). [Pub. L. 105–65][/us/pl/105/65], § 561(a)(5), (6), substituted “Civil money penalties against multifamily mortgagors, general partners of partnership mortgagors, officers and directors of corporate mortgagors, and certain managing agents” for “Action to collect penalty” in heading and inserted “, general partner of a partnership mortgagor, officer or director of a corporate mortgagor, or identity of interest agent employed to manage the property” after “mortgagor” in two places in text.
 
-    Subsec. (k). [Pub. L. 105–65, § 561(a)(7)][/us/pl/105/65/s561/a/7], added subsec. (k).
+    Subsec. (k). [Pub. L. 105–65][/us/pl/105/65], § 561(a)(7), added subsec. (k).
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–65, title V, § 561(c)][/us/pl/105/65/s561/c], Oct. 27, 1997, [111 Stat. 1416][/us/stat/111/1416], provided that: 
+[Pub. L. 105–65, title V][/us/pl/105/65/tV], § 561(c), Oct. 27, 1997, [111 Stat. 1416][/us/stat/111/1416], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall apply only with respect to—
 
@@ -213,13 +213,13 @@
 
  __Effective Date__ 
 
-[Pub. L. 101–235, title I, § 108(b)][/us/pl/101/235/s108/b], Dec. 15, 1989, [103 Stat. 2007][/us/stat/103/2007], provided that: 
+[Pub. L. 101–235, title I][/us/pl/101/235/tI], § 108(b), Dec. 15, 1989, [103 Stat. 2007][/us/stat/103/2007], provided that: 
 
 > “The amendment made by subsection (a) \[enacting this section\] shall apply only with respect to violations referred to in the amendment that occur on or after the effective date of this section \[Dec. 15, 1989\].”
 
  __Implementation__ 
 
-[Pub. L. 105–65, title V, § 561(b)][/us/pl/105/65/s561/b], Oct. 27, 1997, [111 Stat. 1416][/us/stat/111/1416], provided that:
+[Pub. L. 105–65, title V][/us/pl/105/65/tV], § 561(b), Oct. 27, 1997, [111 Stat. 1416][/us/stat/111/1416], provided that:
 
 >     “(1)  __Public comment__  __.—__ 
 
@@ -239,29 +239,29 @@
 [/us/usc/t5/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs706
 [/us/usc/t12/s1715z–1a/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715z%E2%80%931a%2Fj
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
-[/us/pl/101/235/s108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235%2Fs108%2Fa
+[/us/pl/101/235/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235%2FtI
 [/us/stat/103/2003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2003
-[/us/pl/105/65/s561/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65%2Fs561%2Fa
+[/us/pl/105/65/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65%2FtV
 [/us/stat/111/1414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1414
-[/us/pl/108/447/s219/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs219%2Fb
+[/us/pl/108/447/dI/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdI%2FtII
 [/us/stat/118/3319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3319
-[/us/pl/108/447/s219/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs219%2Fb
-[/us/pl/108/447/s219/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs219%2Fc
-[/us/pl/105/65/s561/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65%2Fs561%2Fa%2F1
-[/us/pl/105/65/s561/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65%2Fs561%2Fa%2F2%2FA
-[/us/pl/105/65/s561/a/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65%2Fs561%2Fa%2F2%2FB%2Fi
-[/us/pl/105/65/s561/a/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65%2Fs561%2Fa%2F2%2FB%2Fi
-[/us/pl/105/65/s561/a/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65%2Fs561%2Fa%2F2%2FB%2Fi
-[/us/pl/105/65/s561/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65%2Fs561%2Fa%2F3%2FA
-[/us/pl/105/65/s561/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65%2Fs561%2Fa%2F3%2FB
-[/us/pl/105/65/s561/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65%2Fs561%2Fa%2F4
-[/us/pl/105/65/s561/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65%2Fs561%2Fa%2F5
-[/us/pl/105/65/s561/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65%2Fs561%2Fa%2F7
-[/us/pl/105/65/s561/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65%2Fs561%2Fc
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/105/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65
+[/us/pl/105/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65
+[/us/pl/105/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65
+[/us/pl/105/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65
+[/us/pl/105/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65
+[/us/pl/105/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65
+[/us/pl/105/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65
+[/us/pl/105/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65
+[/us/pl/105/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65
+[/us/pl/105/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65
+[/us/pl/105/65/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65%2FtV
 [/us/stat/111/1416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1416
-[/us/pl/101/235/s108/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235%2Fs108%2Fb
+[/us/pl/101/235/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235%2FtI
 [/us/stat/103/2007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2007
-[/us/pl/105/65/s561/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65%2Fs561%2Fb
+[/us/pl/105/65/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65%2FtV
 [/us/stat/111/1416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1416
 
 

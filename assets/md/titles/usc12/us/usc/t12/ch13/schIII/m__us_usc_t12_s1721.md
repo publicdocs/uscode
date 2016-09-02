@@ -65,29 +65,29 @@
 
                 (iv) No State or local law, and no Federal law (except Federal law enacted expressly in limitation of this clause after August 10, 1993) shall preclude or limit the exercise by the Association of its power to contract with persons or entities, and its rights to enforce such contracts, for the purpose of ensuring the efficient commencement and continued operation of the multiclass securities program.
 
-([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title III, § 306, [48 Stat. 1255][/us/stat/48/1255]; [July 1, 1948, ch. 784, § 1][/us/act/1948-07-01/ch784/s1], [62 Stat. 1209][/us/stat/62/1209]; [Apr. 20, 1950, ch. 94][/us/act/1950-04-20/ch94], title I, § 122, [64 Stat. 59][/us/stat/64/59]; [Aug. 2, 1954, ch. 649][/us/act/1954-08-02/ch649], title II, § 201, [68 Stat. 618][/us/stat/68/618]; [Aug. 7, 1956, ch. 1029][/us/act/1956-08-07/ch1029], title II, § 209, [70 Stat. 1097][/us/stat/70/1097]; [Pub. L. 86–372, title III][/us/pl/86/372], §§ 305(a), 306(a), Sept. 23, 1959, [73 Stat. 670][/us/stat/73/670]; [Pub. L. 87–70, title VI, § 601(c)][/us/pl/87/70/s601/c], June 30, 1961, [75 Stat. 176][/us/stat/75/176]; [Pub. L. 88–560, title VII, § 701(b)(2)][/us/pl/88/560/s701/b/2], Sept. 2, 1964, [78 Stat. 800][/us/stat/78/800]; [Pub. L. 89–117, title VIII, § 802(b)][/us/pl/89/117/s802/b], Aug. 10, 1965, [79 Stat. 494][/us/stat/79/494]; [Pub. L. 90–19, § 1(k)][/us/pl/90/19/s1/k], May 25, 1967, [81 Stat. 18][/us/stat/81/18]; [Pub. L. 90–448, title VIII, § 804(b)][/us/pl/90/448/s804/b], Aug. 1, 1968, [82 Stat. 542][/us/stat/82/542]; [Pub. L. 93–222, § 7(c)][/us/pl/93/222/s7/c], Dec. 29, 1973, [87 Stat. 936][/us/stat/87/936]; [Pub. L. 96–399, title III, § 335][/us/pl/96/399/s335], Oct. 8, 1980, [94 Stat. 1654][/us/stat/94/1654]; [Pub. L. 97–35, title III, § 333(a)(3)][/us/pl/97/35/s333/a/3], Aug. 13, 1981, [95 Stat. 413][/us/stat/95/413]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title IV, § 481\], Nov. 30, 1983, [97 Stat. 1239][/us/stat/97/1239]; [Pub. L. 98–479, title II, § 203(a)(2)][/us/pl/98/479/s203/a/2], Oct. 17, 1984, [98 Stat. 2229][/us/stat/98/2229]; [Pub. L. 100–14][/us/pl/100/14], Mar. 24, 1987, [101 Stat. 128][/us/stat/101/128]; [Pub. L. 100–242, title IV, § 446][/us/pl/100/242/s446], Feb. 5, 1988, [101 Stat. 1922][/us/stat/101/1922]; [Pub. L. 101–625, title III, § 339][/us/pl/101/625/s339], Nov. 28, 1990, [104 Stat. 4147][/us/stat/104/4147]; [Pub. L. 102–550, title V][/us/pl/102/550], §§ 531, 532, Oct. 28, 1992, [106 Stat. 3793][/us/stat/106/3793]; [Pub. L. 103–66, title III, § 3004][/us/pl/103/66/s3004], Aug. 10, 1993, [107 Stat. 339][/us/stat/107/339]; [Pub. L. 103–120, § 10][/us/pl/103/120/s10], Oct. 27, 1993, [107 Stat. 1151][/us/stat/107/1151]; [Pub. L. 104–120, § 7][/us/pl/104/120/s7], Mar. 28, 1996, [110 Stat. 836][/us/stat/110/836]; [Pub. L. 104–330, title VII, § 701(k)][/us/pl/104/330/s701/k], Oct. 26, 1996, [110 Stat. 4050][/us/stat/110/4050]; [Pub. L. 105–244, title IX, § 972(a)][/us/pl/105/244/s972/a], Oct. 7, 1998, [112 Stat. 1837][/us/stat/112/1837]; [Pub. L. 107–326, § 4][/us/pl/107/326/s4], Dec. 4, 2002, [116 Stat. 2793][/us/stat/116/2793]; [Pub. L. 108–199, div. A, title VII, § 774][/us/pl/108/199/s774], Jan. 23, 2004, [118 Stat. 40][/us/stat/118/40].)
+([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title III, § 306, [48 Stat. 1255][/us/stat/48/1255]; [July 1, 1948, ch. 784][/us/act/1948-07-01/ch784], § 1, [62 Stat. 1209][/us/stat/62/1209]; [Apr. 20, 1950, ch. 94][/us/act/1950-04-20/ch94], title I, § 122, [64 Stat. 59][/us/stat/64/59]; [Aug. 2, 1954, ch. 649][/us/act/1954-08-02/ch649], title II, § 201, [68 Stat. 618][/us/stat/68/618]; [Aug. 7, 1956, ch. 1029][/us/act/1956-08-07/ch1029], title II, § 209, [70 Stat. 1097][/us/stat/70/1097]; [Pub. L. 86–372, title III][/us/pl/86/372/tIII], §§ 305(a), 306(a), Sept. 23, 1959, [73 Stat. 670][/us/stat/73/670]; [Pub. L. 87–70, title VI][/us/pl/87/70/tVI], § 601(c), June 30, 1961, [75 Stat. 176][/us/stat/75/176]; [Pub. L. 88–560, title VII][/us/pl/88/560/tVII], § 701(b)(2), Sept. 2, 1964, [78 Stat. 800][/us/stat/78/800]; [Pub. L. 89–117, title VIII][/us/pl/89/117/tVIII], § 802(b), Aug. 10, 1965, [79 Stat. 494][/us/stat/79/494]; [Pub. L. 90–19][/us/pl/90/19], § 1(k), May 25, 1967, [81 Stat. 18][/us/stat/81/18]; [Pub. L. 90–448, title VIII][/us/pl/90/448/tVIII], § 804(b), Aug. 1, 1968, [82 Stat. 542][/us/stat/82/542]; [Pub. L. 93–222][/us/pl/93/222], § 7(c), Dec. 29, 1973, [87 Stat. 936][/us/stat/87/936]; [Pub. L. 96–399, title III][/us/pl/96/399/tIII], § 335, Oct. 8, 1980, [94 Stat. 1654][/us/stat/94/1654]; [Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 333(a)(3), Aug. 13, 1981, [95 Stat. 413][/us/stat/95/413]; [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title IV, § 481\], Nov. 30, 1983, [97 Stat. 1239][/us/stat/97/1239]; [Pub. L. 98–479, title II][/us/pl/98/479/tII], § 203(a)(2), Oct. 17, 1984, [98 Stat. 2229][/us/stat/98/2229]; [Pub. L. 100–14][/us/pl/100/14], Mar. 24, 1987, [101 Stat. 128][/us/stat/101/128]; [Pub. L. 100–242, title IV][/us/pl/100/242/tIV], § 446, Feb. 5, 1988, [101 Stat. 1922][/us/stat/101/1922]; [Pub. L. 101–625, title III][/us/pl/101/625/tIII], § 339, Nov. 28, 1990, [104 Stat. 4147][/us/stat/104/4147]; [Pub. L. 102–550, title V][/us/pl/102/550/tV], §§ 531, 532, Oct. 28, 1992, [106 Stat. 3793][/us/stat/106/3793]; [Pub. L. 103–66, title III][/us/pl/103/66/tIII], § 3004, Aug. 10, 1993, [107 Stat. 339][/us/stat/107/339]; [Pub. L. 103–120][/us/pl/103/120], § 10, Oct. 27, 1993, [107 Stat. 1151][/us/stat/107/1151]; [Pub. L. 104–120][/us/pl/104/120], § 7, Mar. 28, 1996, [110 Stat. 836][/us/stat/110/836]; [Pub. L. 104–330, title VII][/us/pl/104/330/tVII], § 701(k), Oct. 26, 1996, [110 Stat. 4050][/us/stat/110/4050]; [Pub. L. 105–244, title IX][/us/pl/105/244/tIX], § 972(a), Oct. 7, 1998, [112 Stat. 1837][/us/stat/112/1837]; [Pub. L. 107–326][/us/pl/107/326], § 4, Dec. 4, 2002, [116 Stat. 2793][/us/stat/116/2793]; [Pub. L. 108–199, div. A, title VII][/us/pl/108/199/dA/tVII], § 774, Jan. 23, 2004, [118 Stat. 40][/us/stat/118/40].)
 
  __References in Text__ 
 
-    Paragraph (c) of [section 1716 of this title][/us/usc/t12/s1716], referred to in subsec. (a), was redesignated par. (4) of section 1716 by [Pub. L. 101–73, title VII, § 731(m)(1)(B)][/us/pl/101/73/s731/m/1/B], Aug. 9, 1989, [103 Stat. 435][/us/stat/103/435]. Par. (4) of section 1716 was redesignated par. (5) by [Pub. L. 102–550, title XIII, § 1381(a)(3)][/us/pl/102/550/s1381/a/3], Oct. 28, 1992, [106 Stat. 3994][/us/stat/106/3994].
+    Paragraph (c) of [section 1716 of this title][/us/usc/t12/s1716], referred to in subsec. (a), was redesignated par. (4) of section 1716 by [Pub. L. 101–73, title VII][/us/pl/101/73/tVII], § 731(m)(1)(B), Aug. 9, 1989, [103 Stat. 435][/us/stat/103/435]. Par. (4) of section 1716 was redesignated par. (5) by [Pub. L. 102–550, title XIII][/us/pl/102/550/tXIII], § 1381(a)(3), Oct. 28, 1992, [106 Stat. 3994][/us/stat/106/3994].
 
-    [Section 1718(d) of this title][/us/usc/t12/s1718/d], referred to in subsecs. (a) and (c), authorizing the issuance of preferred stock to the Secretary of the Treasury, was repealed by [Pub. L. 93–383, title VIII, § 806(i)][/us/pl/93/383/s806/i], Aug. 22, 1974, [88 Stat. 728][/us/stat/88/728].
+    [Section 1718(d) of this title][/us/usc/t12/s1718/d], referred to in subsecs. (a) and (c), authorizing the issuance of preferred stock to the Secretary of the Treasury, was repealed by [Pub. L. 93–383, title VIII][/us/pl/93/383/tVIII], § 806(i), Aug. 22, 1974, [88 Stat. 728][/us/stat/88/728].
 
-    [Section 1720 of this title][/us/usc/t12/s1720], referred to in subsec. (f), was repealed by [Pub. L. 98–181, title I][/us/pl/98/181] \[title IV, § 483(a)\], Nov. 30, 1983, [97 Stat. 1240][/us/stat/97/1240].
+    [Section 1720 of this title][/us/usc/t12/s1720], referred to in subsec. (f), was repealed by [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title IV, § 483(a)\], Nov. 30, 1983, [97 Stat. 1240][/us/stat/97/1240].
 
     The Housing Act of 1949, referred to in subsec. (g)(1), (3)(A), is [act July 15, 1949, ch. 338][/us/act/1949-07-15/ch338], [63 Stat. 413][/us/stat/63/413], as amended. Title V of the Housing Act of 1949 is classified generally to subchapter III (§ 1471 et seq.) of chapter 8A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1441 of Title 42][/us/usc/t42/s1441] and Tables.
 
     The Servicemen’s Readjustment Act of 1944, referred to in subsec. (g)(1), (3)(A), is [act June 22, 1944, ch. 268][/us/act/1944-06-22/ch268], [58 Stat. 284][/us/stat/58/284], as amended, which was classified generally to chapter 11C (§§ 693 to 697g) of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and which was repealed by [section 14(87) of Pub. L. 85–857][/us/pl/85/857/s14/87], Sept. 2, 1958, [72 Stat. 1273][/us/stat/72/1273], the first section of which enacted Title 38, Veterans’ Benefits. For distribution of sections 693 to 697g of former Title 38 to Title 38, Veterans’ Benefits, see Table preceding [section 101 of Title 38][/us/usc/t38/s101].
 
-    The Public Health Service Act, referred to in subsec. (g)(1), is [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], [58 Stat. 682][/us/stat/58/682], as amended. Title XIII of the Public Health Service Act, is title XIII of [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], as added by act Dec. 29, 1973, [Pub. L. 93–222, § 2][/us/pl/93/222/s2], [87 Stat. 914][/us/stat/87/914], which is classified generally to subchapter XI (§ 300e et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42][/us/usc/t42/s201] and Tables.
+    The Public Health Service Act, referred to in subsec. (g)(1), is [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], [58 Stat. 682][/us/stat/58/682], as amended. Title XIII of the Public Health Service Act, is title XIII of [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], as added by act Dec. 29, 1973, [Pub. L. 93–222][/us/pl/93/222], § 2, [87 Stat. 914][/us/stat/87/914], which is classified generally to subchapter XI (§ 300e et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42][/us/usc/t42/s201] and Tables.
 
  __Amendments__ 
 
     2004—Subsec. (g)(1). [Pub. L. 108–199][/us/pl/108/199], in first sentence, struck out “or title V of the Housing Act of 1949” after “mortgages which are insured under this chapter” and inserted “, title V of the Housing Act of 1949,” after “1944”.
 
-    2002—Subsec. (g)(3)(A). [Pub. L. 107–326][/us/pl/107/326] repealed [Pub. L. 105–244, § 972(a)][/us/pl/105/244/s972/a]. See 1998 Amendment note below.
+    2002—Subsec. (g)(3)(A). [Pub. L. 107–326][/us/pl/107/326] repealed [Pub. L. 105–244][/us/pl/105/244], § 972(a). See 1998 Amendment note below.
 
-    1998—Subsec. (g)(3)(A). [Pub. L. 105–244, § 972(a)][/us/pl/105/244/s972/a], which directed amendment of subpar. (A), effective Oct. 1, 2004, by substituting “The Association shall assess and collect a fee in an amount equal to nine basis points” for “No fee or charge in excess of 6 basis points may be assessed or collected by the United States (including any executive department, agency, or independent establishment of the United States)”, was repealed by [Pub. L. 107–326][/us/pl/107/326]. See 2002 Amendment note above and Effective Date of 1998 Amendment note below.
+    1998—Subsec. (g)(3)(A). [Pub. L. 105–244][/us/pl/105/244], § 972(a), which directed amendment of subpar. (A), effective Oct. 1, 2004, by substituting “The Association shall assess and collect a fee in an amount equal to nine basis points” for “No fee or charge in excess of 6 basis points may be assessed or collected by the United States (including any executive department, agency, or independent establishment of the United States)”, was repealed by [Pub. L. 107–326][/us/pl/107/326]. See 2002 Amendment note above and Effective Date of 1998 Amendment note below.
 
     1996—Subsec. (g)(1). [Pub. L. 104–330][/us/pl/104/330] inserted before period at end of first sentence “; or guaranteed under [section 1715z–13a of this title][/us/usc/t12/s1715z–13a]”.
 
@@ -97,9 +97,9 @@
 
     Subsec. (g)(3)(E). [Pub. L. 103–66][/us/pl/103/66] added subpar. (E).
 
-    1992—Subsec. (g)(1). [Pub. L. 102–550, § 532][/us/pl/102/550/s532], inserted after third sentence “In any case in which (I) Federal law requires the reduction of the interest rate on any mortgage backing a security guaranteed under this subsection, (II) the mortgagor under the mortgage is a person in the military service, and (III) the issuer of such security fails to receive from the mortgagor the full amount of interest payment due, the Association may make payments of interest on the security in amounts not exceeding the difference between the amount payable under the interest rate on the mortgage and the amount of interest actually paid by the mortgagor.”
+    1992—Subsec. (g)(1). [Pub. L. 102–550][/us/pl/102/550], § 532, inserted after third sentence “In any case in which (I) Federal law requires the reduction of the interest rate on any mortgage backing a security guaranteed under this subsection, (II) the mortgagor under the mortgage is a person in the military service, and (III) the issuer of such security fails to receive from the mortgagor the full amount of interest payment due, the Association may make payments of interest on the security in amounts not exceeding the difference between the amount payable under the interest rate on the mortgage and the amount of interest actually paid by the mortgagor.”
 
-    Subsec. (g)(2). [Pub. L. 102–550, § 531][/us/pl/102/550/s531], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Notwithstanding any other provision of law and subject only to the absence of qualified requests for guarantees, to the authority provided in this subsection, and to the extent of or in such amounts as any funding limitation approved in appropriation Acts, the Association shall enter into commitments to issue guarantees under this subsection in an aggregate amount of $84,982,000,000 during fiscal year 1991 and $88,296,000,000 during fiscal year 1992.”
+    Subsec. (g)(2). [Pub. L. 102–550][/us/pl/102/550], § 531, amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Notwithstanding any other provision of law and subject only to the absence of qualified requests for guarantees, to the authority provided in this subsection, and to the extent of or in such amounts as any funding limitation approved in appropriation Acts, the Association shall enter into commitments to issue guarantees under this subsection in an aggregate amount of $84,982,000,000 during fiscal year 1991 and $88,296,000,000 during fiscal year 1992.”
 
     1990—Subsec. (g)(2). [Pub. L. 101–625][/us/pl/101/625] amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Notwithstanding any other provision of law and subject only to the absence of qualified requests for guarantees, to the authority provided in this subsection, and to any funding limitation approved in appropriation Acts, the Association shall enter into commitments to issue guarantees under this subsection in an aggregate amount of $150,000,000,000 for fiscal year 1988, and $156,000,000,000 for fiscal year 1989.”
 
@@ -127,9 +127,9 @@
 
     1961—Subsec. (f). [Pub. L. 87–70][/us/pl/87/70] added subsec. (f).
 
-    1959—Subsec. (b). [Pub. L. 86–372, § 305(a)][/us/pl/86/372/s305/a], substituted “and obligations of the United States or guaranteed thereby, or obligations which are lawful investments for fiduciary, trust, or public funds” for “and bonds or other obligations of, or bonds or other obligations guaranteed as to principal and interest by, the United States”.
+    1959—Subsec. (b). [Pub. L. 86–372][/us/pl/86/372], § 305(a), substituted “and obligations of the United States or guaranteed thereby, or obligations which are lawful investments for fiduciary, trust, or public funds” for “and bonds or other obligations of, or bonds or other obligations guaranteed as to principal and interest by, the United States”.
 
-    Subsec. (e). [Pub. L. 86–372, § 306(a)][/us/pl/86/372/s306/a], added subsec. (e).
+    Subsec. (e). [Pub. L. 86–372][/us/pl/86/372], § 306(a), added subsec. (e).
 
     1956—Subsec. (c). Act Aug. 7, 1956, § 209(a), struck out “and subsection (e) of this section” after “set forth in this subsection” in last sentence.
 
@@ -143,7 +143,7 @@
 
  __Effective Date of 1998 Amendment__ 
 
-    [Pub. L. 105–244, title IX, § 972(b)][/us/pl/105/244/s972/b], Oct. 7, 1998, [112 Stat. 1837][/us/stat/112/1837], which provided that the amendment made by section 972 was effective Oct. 1, 2004, was repealed by [Pub. L. 107–326, § 4][/us/pl/107/326/s4], Dec. 4, 2002, [116 Stat. 2793][/us/stat/116/2793].
+    [Pub. L. 105–244, title IX][/us/pl/105/244/tIX], § 972(b), Oct. 7, 1998, [112 Stat. 1837][/us/stat/112/1837], which provided that the amendment made by section 972 was effective Oct. 1, 2004, was repealed by [Pub. L. 107–326][/us/pl/107/326], § 4, Dec. 4, 2002, [116 Stat. 2793][/us/stat/116/2793].
 
  __Effective Date of 1996 Amendment__ 
 
@@ -175,7 +175,7 @@ Fiscal year 1988—[Pub. L. 100–200][/us/pl/100/200], Dec. 21, 1987, [101 Stat
 
 > “That each provision of law amended by [Public Law 100–122][/us/pl/100/122] \[set out below\], including those provisions amended by section 2 of such Public Law, is amended by striking out ‘October 31, 1987’ wherever it appears and inserting in lieu thereof ‘November 15, 1987’.”
 
-[Pub. L. 100–122, § 1][/us/pl/100/122/s1], Sept. 30, 1987, [101 Stat. 793][/us/stat/101/793], provided that: 
+[Pub. L. 100–122][/us/pl/100/122], § 1, Sept. 30, 1987, [101 Stat. 793][/us/stat/101/793], provided that: 
 
 > “Each provision of law amended by [Public Law 99–430][/us/pl/99/430] \[set out below\] is amended by striking out ‘September 30, 1987’ wherever it appears and inserting in lieu thereof ‘October 31, 1987’.”
 
@@ -183,7 +183,7 @@ Fiscal year 1987—[Pub. L. 99–430][/us/pl/99/430], Sept. 30, 1986, [100 Stat.
 
 > “That each provision of law amended by [Public Law 99–345][/us/pl/99/345] \[set out below\] is amended by striking out ‘September 30, 1986’ wherever it appears and inserting in lieu thereof ‘September 30, 1987’.”
 
-Fiscal year 1986—[Pub. L. 99–349, title I][/us/pl/99/349], July 2, 1986, [100 Stat. 728][/us/stat/100/728], provided that: 
+Fiscal year 1986—[Pub. L. 99–349, title I][/us/pl/99/349/tI], July 2, 1986, [100 Stat. 728][/us/stat/100/728], provided that: 
 
 > “The applicable limitation on additional commitments to insure mortgages and loans to carry out the purposes of the National Housing Act \[[12 U.S.C. 1701][/us/usc/t12/s1701] et seq.\] during fiscal year 1986 is increased by an additional $57,580,000,000 of mortgage and loan principal.”
 
@@ -217,7 +217,7 @@ Fiscal year 1986—[Pub. L. 99–349, title I][/us/pl/99/349], July 2, 1986, [10
 
  __Special Assistance Functions Fund; Transfer of Funds__ 
 
-    [Pub. L. 98–371, title I][/us/pl/98/371], July 18, 1984, [98 Stat. 1218][/us/stat/98/1218], directed Secretary to transfer all assets acquired and liabilities incurred pursuant to [section 1720 of this title][/us/usc/t12/s1720] to management and liquidating functions fund established pursuant to this section, and that on Oct. 1, 1984, each outstanding obligation issued by Secretary of Housing and Urban Development to Secretary of the Treasury pursuant to [section 1720(d) of this title][/us/usc/t12/s1720/d], together with any promise to repay principal and unpaid interest which had accrued on each obligation, and any other term or condition specified by each such obligation, was canceled.
+    [Pub. L. 98–371, title I][/us/pl/98/371/tI], July 18, 1984, [98 Stat. 1218][/us/stat/98/1218], directed Secretary to transfer all assets acquired and liabilities incurred pursuant to [section 1720 of this title][/us/usc/t12/s1720] to management and liquidating functions fund established pursuant to this section, and that on Oct. 1, 1984, each outstanding obligation issued by Secretary of Housing and Urban Development to Secretary of the Treasury pursuant to [section 1720(d) of this title][/us/usc/t12/s1720/d], together with any promise to repay principal and unpaid interest which had accrued on each obligation, and any other term or condition specified by each such obligation, was canceled.
 
  __Emergency Mortgage Purchase Assistance; Transfer of Funds__ 
 
@@ -225,7 +225,7 @@ Fiscal year 1986—[Pub. L. 99–349, title I][/us/pl/99/349], July 2, 1986, [10
 
  __Administrative Expenses in Connection With the Sale of Certain Mortgages to the Federal National Mortgage Association__ 
 
-[Pub. L. 86–372, title III, § 306(b)][/us/pl/86/372/s306/b], Sept. 23, 1959, [73 Stat. 670][/us/stat/73/670], as amended by [Pub. L. 90–19, § 16(b)][/us/pl/90/19/s16/b], May 25, 1967, [81 Stat. 25][/us/stat/81/25]; [Pub. L. 90–448, title VIII, § 807(a)][/us/pl/90/448/s807/a], Aug. 1, 1968, [82 Stat. 544][/us/stat/82/544], provided that: 
+[Pub. L. 86–372, title III][/us/pl/86/372/tIII], § 306(b), Sept. 23, 1959, [73 Stat. 670][/us/stat/73/670], as amended by [Pub. L. 90–19][/us/pl/90/19], § 16(b), May 25, 1967, [81 Stat. 25][/us/stat/81/25]; [Pub. L. 90–448, title VIII][/us/pl/90/448/tVIII], § 807(a), Aug. 1, 1968, [82 Stat. 544][/us/stat/82/544], provided that: 
 
 > “In connection with the sale of any mortgages to the Government National Mortgage Association pursuant to section 306(e) of the Federal National Mortgage Association Charter Act \[subsection (e) of this section\], the Secretary of Housing and Urban Development is authorized, and any other official, unit, or agency selling such mortgages thereunder is directed, to transfer to the Association from time to time, from authorizations, limitations, and funds available for administrative expenses of such official, unit, or agency in connection with the same mortgages, such amounts thereof as said Secretary determines to be required for administrative expenses of the Association in connection with the purchase, servicing, and sale of such mortgages: Provided, That no such transfer shall be made after a budget estimate of the Association with respect to the same mortgages has been submitted to and finally acted upon by the Congress.”
 
@@ -245,7 +245,7 @@ Fiscal year 1986—[Pub. L. 99–349, title I][/us/pl/99/349], July 2, 1986, [10
 [/us/usc/t42/s1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1471
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
 [/us/stat/48/1255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1255
-[/us/act/1948-07-01/ch784/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-07-01%2Fch784%2Fs1
+[/us/act/1948-07-01/ch784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-07-01%2Fch784
 [/us/stat/62/1209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1209
 [/us/act/1950-04-20/ch94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-04-20%2Fch94
 [/us/stat/64/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F59
@@ -253,60 +253,60 @@ Fiscal year 1986—[Pub. L. 99–349, title I][/us/pl/99/349], July 2, 1986, [10
 [/us/stat/68/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F618
 [/us/act/1956-08-07/ch1029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-07%2Fch1029
 [/us/stat/70/1097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1097
-[/us/pl/86/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F372
+[/us/pl/86/372/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F372%2FtIII
 [/us/stat/73/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F670
-[/us/pl/87/70/s601/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F70%2Fs601%2Fc
+[/us/pl/87/70/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F70%2FtVI
 [/us/stat/75/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F176
-[/us/pl/88/560/s701/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F560%2Fs701%2Fb%2F2
+[/us/pl/88/560/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F560%2FtVII
 [/us/stat/78/800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F800
-[/us/pl/89/117/s802/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117%2Fs802%2Fb
+[/us/pl/89/117/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117%2FtVIII
 [/us/stat/79/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F494
-[/us/pl/90/19/s1/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19%2Fs1%2Fk
+[/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
 [/us/stat/81/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F18
-[/us/pl/90/448/s804/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs804%2Fb
+[/us/pl/90/448/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2FtVIII
 [/us/stat/82/542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F542
-[/us/pl/93/222/s7/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F222%2Fs7%2Fc
+[/us/pl/93/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F222
 [/us/stat/87/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F936
-[/us/pl/96/399/s335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs335
+[/us/pl/96/399/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2FtIII
 [/us/stat/94/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1654
-[/us/pl/97/35/s333/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs333%2Fa%2F3
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F413
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1239
-[/us/pl/98/479/s203/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2Fs203%2Fa%2F2
+[/us/pl/98/479/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2FtII
 [/us/stat/98/2229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2229
 [/us/pl/100/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F14
 [/us/stat/101/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F128
-[/us/pl/100/242/s446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs446
+[/us/pl/100/242/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtIV
 [/us/stat/101/1922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1922
-[/us/pl/101/625/s339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs339
+[/us/pl/101/625/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtIII
 [/us/stat/104/4147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4147
-[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtV
 [/us/stat/106/3793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3793
-[/us/pl/103/66/s3004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs3004
+[/us/pl/103/66/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtIII
 [/us/stat/107/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F339
-[/us/pl/103/120/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F120%2Fs10
+[/us/pl/103/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F120
 [/us/stat/107/1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1151
-[/us/pl/104/120/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F120%2Fs7
+[/us/pl/104/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F120
 [/us/stat/110/836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F836
-[/us/pl/104/330/s701/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs701%2Fk
+[/us/pl/104/330/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2FtVII
 [/us/stat/110/4050]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4050
-[/us/pl/105/244/s972/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs972%2Fa
+[/us/pl/105/244/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIX
 [/us/stat/112/1837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1837
-[/us/pl/107/326/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F326%2Fs4
+[/us/pl/107/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F326
 [/us/stat/116/2793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2793
-[/us/pl/108/199/s774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs774
+[/us/pl/108/199/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdA%2FtVII
 [/us/stat/118/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F40
 [/us/usc/t12/s1716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1716
-[/us/pl/101/73/s731/m/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs731%2Fm%2F1%2FB
+[/us/pl/101/73/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtVII
 [/us/stat/103/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F435
-[/us/pl/102/550/s1381/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1381%2Fa%2F3
+[/us/pl/102/550/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIII
 [/us/stat/106/3994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3994
 [/us/usc/t12/s1718/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1718%2Fd
-[/us/pl/93/383/s806/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs806%2Fi
+[/us/pl/93/383/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtVIII
 [/us/stat/88/728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F728
 [/us/usc/t12/s1720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1720
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1240
 [/us/act/1949-07-15/ch338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-07-15%2Fch338
 [/us/stat/63/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F413
@@ -319,13 +319,13 @@ Fiscal year 1986—[Pub. L. 99–349, title I][/us/pl/99/349], July 2, 1986, [10
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/stat/58/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F682
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/93/222/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F222%2Fs2
+[/us/pl/93/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F222
 [/us/stat/87/914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F914
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
 [/us/pl/108/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199
 [/us/pl/107/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F326
-[/us/pl/105/244/s972/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs972%2Fa
-[/us/pl/105/244/s972/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs972%2Fa
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/107/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F326
 [/us/pl/104/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330
 [/us/usc/t12/s1715z–13a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715z%E2%80%9313a
@@ -333,8 +333,8 @@ Fiscal year 1986—[Pub. L. 99–349, title I][/us/pl/99/349], July 2, 1986, [10
 [/us/usc/t2/s661a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs661a
 [/us/pl/103/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F120
 [/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
-[/us/pl/102/550/s532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs532
-[/us/pl/102/550/s531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs531
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
 [/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
 [/us/pl/100/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F14
@@ -348,12 +348,12 @@ Fiscal year 1986—[Pub. L. 99–349, title I][/us/pl/99/349], July 2, 1986, [10
 [/us/pl/89/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117
 [/us/pl/88/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F560
 [/us/pl/87/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F70
-[/us/pl/86/372/s305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F372%2Fs305%2Fa
-[/us/pl/86/372/s306/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F372%2Fs306%2Fa
+[/us/pl/86/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F372
+[/us/pl/86/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F372
 [/us/usc/t12/s1720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1720
-[/us/pl/105/244/s972/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs972%2Fb
+[/us/pl/105/244/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIX
 [/us/stat/112/1837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1837
-[/us/pl/107/326/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F326%2Fs4
+[/us/pl/107/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F326
 [/us/stat/116/2793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2793
 [/us/pl/104/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F120
 [/us/pl/104/120/s13/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F120%2Fs13%2Fa
@@ -376,13 +376,13 @@ Fiscal year 1986—[Pub. L. 99–349, title I][/us/pl/99/349], July 2, 1986, [10
 [/us/pl/100/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F154
 [/us/stat/101/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F890
 [/us/pl/100/122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F122
-[/us/pl/100/122/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F122%2Fs1
+[/us/pl/100/122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F122
 [/us/stat/101/793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F793
 [/us/pl/99/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F430
 [/us/pl/99/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F430
 [/us/stat/100/986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F986
 [/us/pl/99/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F345
-[/us/pl/99/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F349
+[/us/pl/99/349/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F349%2FtI
 [/us/stat/100/728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F728
 [/us/usc/t12/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701
 [/us/usc/t12/s1721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1721
@@ -398,18 +398,18 @@ Fiscal year 1986—[Pub. L. 99–349, title I][/us/pl/99/349], July 2, 1986, [10
 [/us/usc/t12/s1721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1721
 [/us/usc/t12/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701
 [/us/usc/t12/s1721/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1721%2Fg
-[/us/pl/98/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F371
+[/us/pl/98/371/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F371%2FtI
 [/us/stat/98/1218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1218
 [/us/usc/t12/s1720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1720
 [/us/usc/t12/s1720/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1720%2Fd
 [/us/usc/t12/s1723e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1723e
 [/us/pl/98/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F371
 [/us/usc/t12/s1723e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1723e
-[/us/pl/86/372/s306/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F372%2Fs306%2Fb
+[/us/pl/86/372/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F372%2FtIII
 [/us/stat/73/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F670
-[/us/pl/90/19/s16/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19%2Fs16%2Fb
+[/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
 [/us/stat/81/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F25
-[/us/pl/90/448/s807/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs807%2Fa
+[/us/pl/90/448/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2FtVIII
 [/us/stat/82/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F544
 
 

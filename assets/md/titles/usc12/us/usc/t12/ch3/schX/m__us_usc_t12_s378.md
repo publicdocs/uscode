@@ -25,7 +25,7 @@
 
     (b) Whoever shall willfully violate any of the provisions of this section shall upon conviction be fined not more than $5,000 or imprisoned not more than five years, or both, and any officer, director, employee, or agent of any person, firm, corporation, association, business trust, or other similar organization who knowingly participates in any such violation shall be punished by a like fine or imprisonment or both.
 
-([June 16, 1933, ch. 89, § 21][/us/act/1933-06-16/ch89/s21], [48 Stat. 189][/us/stat/48/189]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title III, § 303, [49 Stat. 707][/us/stat/49/707]; [Pub. L. 86–230, § 23][/us/pl/86/230/s23], Sept. 8, 1959, [73 Stat. 466][/us/stat/73/466]; [Pub. L. 90–448, title VIII, § 804(d)][/us/pl/90/448/s804/d], Aug. 1, 1968, [82 Stat. 543][/us/stat/82/543]; [Pub. L. 95–369, § 12][/us/pl/95/369/s12], Sept. 17, 1978, [92 Stat. 624][/us/stat/92/624].)
+([June 16, 1933, ch. 89][/us/act/1933-06-16/ch89], § 21, [48 Stat. 189][/us/stat/48/189]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title III, § 303, [49 Stat. 707][/us/stat/49/707]; [Pub. L. 86–230][/us/pl/86/230], § 23, Sept. 8, 1959, [73 Stat. 466][/us/stat/73/466]; [Pub. L. 90–448, title VIII][/us/pl/90/448/tVIII], § 804(d), Aug. 1, 1968, [82 Stat. 543][/us/stat/82/543]; [Pub. L. 95–369][/us/pl/95/369], § 12, Sept. 17, 1978, [92 Stat. 624][/us/stat/92/624].)
 
  __Amendments__ 
 
@@ -49,15 +49,15 @@
 ----------
 
 [/us/usc/t12/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs24
-[/us/act/1933-06-16/ch89/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-16%2Fch89%2Fs21
+[/us/act/1933-06-16/ch89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-16%2Fch89
 [/us/stat/48/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F189
 [/us/act/1935-08-23/ch614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch614
 [/us/stat/49/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F707
-[/us/pl/86/230/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F230%2Fs23
+[/us/pl/86/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F230
 [/us/stat/73/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F466
-[/us/pl/90/448/s804/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs804%2Fd
+[/us/pl/90/448/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2FtVIII
 [/us/stat/82/543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F543
-[/us/pl/95/369/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F369%2Fs12
+[/us/pl/95/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F369
 [/us/stat/92/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F624
 [/us/pl/95/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F369
 [/us/pl/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448

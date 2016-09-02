@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t12/ch27/m__us_usc_t12_s2610.md) | [Next](./../../../..//us/usc/t12/ch27/m__us_usc_t12_s2615.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2614)
+[Previous](./../../../..//us/usc/t12/ch27/m__us_usc_t12_s2611...2613.md) | [Next](./../../../..//us/usc/t12/ch27/m__us_usc_t12_s2615.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2614)
 
 ## § 2614. Jurisdiction of courts; limitations
 
     Any action pursuant to the provisions of section 2605, 2607, or 2608 of this title may be brought in the United States district court or in any other court of competent jurisdiction, for the district in which the property involved is located, or where the violation is alleged to have occurred, within 3 years in the case of a violation of [section 2605 of this title][/us/usc/t12/s2605] and 1 year in the case of a violation of section 2607 or 2608 of this title from the date of the occurrence of the violation, except that actions brought by the Bureau, the Secretary, the Attorney General of any State, or the insurance commissioner of any State may be brought within 3 years from the date of the occurrence of the violation.
 
-([Pub. L. 93–533, § 16][/us/pl/93/533/s16], Dec. 22, 1974, [88 Stat. 1731][/us/stat/88/1731]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title IV, § 461(d)\], Nov. 30, 1983, [97 Stat. 1232][/us/stat/97/1232]; [Pub. L. 104–208, div. A, title II, § 2103(e)][/us/pl/104/208/s2103/e], Sept. 30, 1996, [110 Stat. 3009–400][/us/stat/110/3009-400]; [Pub. L. 111–203, title X, § 1098(9)][/us/pl/111/203/s1098/9], July 21, 2010, [124 Stat. 2104][/us/stat/124/2104].)
+([Pub. L. 93–533][/us/pl/93/533], § 16, Dec. 22, 1974, [88 Stat. 1731][/us/stat/88/1731]; [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title IV, § 461(d)\], Nov. 30, 1983, [97 Stat. 1232][/us/stat/97/1232]; [Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], § 2103(e), Sept. 30, 1996, [110 Stat. 3009–400][/us/stat/110/3009-400]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1098(9), July 21, 2010, [124 Stat. 2104][/us/stat/124/2104].)
 
  __Amendments__ 
 
@@ -37,19 +37,19 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t12/ch27/m__us_usc_t12_s2610.md) | [Next](./../../../..//us/usc/t12/ch27/m__us_usc_t12_s2615.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2614)
+[Previous](./../../../..//us/usc/t12/ch27/m__us_usc_t12_s2611...2613.md) | [Next](./../../../..//us/usc/t12/ch27/m__us_usc_t12_s2615.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2614)
 
 ----------
 ----------
 
 [/us/usc/t12/s2605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2605
-[/us/pl/93/533/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F533%2Fs16
+[/us/pl/93/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F533
 [/us/stat/88/1731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1731
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1232
-[/us/pl/104/208/s2103/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2103%2Fe
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-400
-[/us/pl/111/203/s1098/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1098%2F9
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2104
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208

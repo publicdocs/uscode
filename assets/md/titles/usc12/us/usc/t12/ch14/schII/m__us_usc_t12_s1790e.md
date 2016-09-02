@@ -83,13 +83,13 @@
 
         Within 90 days following the seventh anniversary of the initial Stabilization Fund advance, or earlier at the Board’s discretion, the Board shall distribute any funds, property, or other assets remaining in the Stabilization Fund to the Insurance Fund and shall close the Stabilization Fund. If the Board extends the final repayment date as permitted under subsection (c)(3), the mandatory date for closing the Stabilization Fund shall be extended by the same number of days.
 
-([June 26, 1934, ch. 750][/us/act/1934-06-26/ch750], title II, § 217, as added [Pub. L. 111–22, div. A, title II, § 204(f)(1)][/us/pl/111/22/s204/f/1], May 20, 2009, [123 Stat. 1651][/us/stat/123/1651]; amended [Pub. L. 111–382, § 1][/us/pl/111/382/s1], Jan. 4, 2011, [124 Stat. 4134][/us/stat/124/4134].)
+([June 26, 1934, ch. 750][/us/act/1934-06-26/ch750], title II, § 217, as added [Pub. L. 111–22, div. A, title II][/us/pl/111/22/dA/tII], § 204(f)(1), May 20, 2009, [123 Stat. 1651][/us/stat/123/1651]; amended [Pub. L. 111–382][/us/pl/111/382], § 1, Jan. 4, 2011, [124 Stat. 4134][/us/stat/124/4134].)
 
  __Amendments__ 
 
-    2011—Subsec. (c)(3). [Pub. L. 111–382, § 1(a)][/us/pl/111/382/s1/a], inserted “and any additional advances” before period at end.
+    2011—Subsec. (c)(3). [Pub. L. 111–382][/us/pl/111/382], § 1(a), inserted “and any additional advances” before period at end.
 
-    Subsec. (d). [Pub. L. 111–382, § 1(b)][/us/pl/111/382/s1/b], added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows:
+    Subsec. (d). [Pub. L. 111–382][/us/pl/111/382], § 1(b), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows:
 
     “At least 90 days prior to each repayment described in subsection (c)(3), the Board shall set the amount of the upcoming repayment and determine if the Stabilization Fund will have sufficient funds to make the repayment. If the Stabilization Fund might not have sufficient funds to make the repayment, the Board shall assess each federally insured credit union a special premium due and payable within 60 days in an aggregate amount calculated to ensure the Stabilization Fund is able to make the repayment. The premium charge for each credit union shall be stated as a percentage of its insured shares as represented on the credit union’s previous call report. The percentage shall be identical for each credit union. Any credit union that fails to make timely payment of the special premium is subject to the procedures and penalties described under subsections (d), (e), and (f) of [section 1782 of this title][/us/usc/t12/s1782].”
 
@@ -106,12 +106,12 @@
 [/us/usc/t12/s1782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1782
 [/us/usc/t12/s1782/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1782%2Fc%2F3
 [/us/act/1934-06-26/ch750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-26%2Fch750
-[/us/pl/111/22/s204/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs204%2Ff%2F1
+[/us/pl/111/22/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2FdA%2FtII
 [/us/stat/123/1651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1651
-[/us/pl/111/382/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F382%2Fs1
+[/us/pl/111/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F382
 [/us/stat/124/4134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4134
-[/us/pl/111/382/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F382%2Fs1%2Fa
-[/us/pl/111/382/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F382%2Fs1%2Fb
+[/us/pl/111/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F382
+[/us/pl/111/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F382
 [/us/usc/t12/s1782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1782
 
 

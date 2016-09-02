@@ -23,7 +23,7 @@
 
         The Board of Governors shall not delegate the authority to make any voting decision that the Board of Governors is authorized or required to make under subchapter I of this chapter in contravention of [section 248(k) of this title][/us/usc/t12/s248/k].
 
-([Pub. L. 111–203, title XI, § 1108(d)][/us/pl/111/203/s1108/d], July 21, 2010, [124 Stat. 2127][/us/stat/124/2127].)
+([Pub. L. 111–203, title XI][/us/pl/111/203/tXI], § 1108(d), July 21, 2010, [124 Stat. 2127][/us/stat/124/2127].)
 
  __References in Text__ 
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t12/s248/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs248%2Fk
-[/us/pl/111/203/s1108/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1108%2Fd
+[/us/pl/111/203/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtXI
 [/us/stat/124/2127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2127
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1391

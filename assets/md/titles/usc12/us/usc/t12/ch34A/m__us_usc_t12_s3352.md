@@ -51,7 +51,7 @@
 
         For purposes of this section, the term “disaster area” means an area in which the President, pursuant to [section 5170 of title 42][/us/usc/t42/s5170], has determined that a major disaster exists.
 
-([Pub. L. 101–73, title XI, § 1123][/us/pl/101/73/s1123], as added [Pub. L. 102–485, § 2][/us/pl/102/485/s2], Oct. 23, 1992, [106 Stat. 2771][/us/stat/106/2771].)
+([Pub. L. 101–73, title XI][/us/pl/101/73/tXI], § 1123, as added [Pub. L. 102–485][/us/pl/102/485], § 2, Oct. 23, 1992, [106 Stat. 2771][/us/stat/106/2771].)
 
 ----------
 
@@ -62,8 +62,8 @@
 
 [/us/usc/t42/s5170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5170
 [/us/usc/t42/s5170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5170
-[/us/pl/101/73/s1123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs1123
-[/us/pl/102/485/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F485%2Fs2
+[/us/pl/101/73/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtXI
+[/us/pl/102/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F485
 [/us/stat/106/2771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2771
 
 

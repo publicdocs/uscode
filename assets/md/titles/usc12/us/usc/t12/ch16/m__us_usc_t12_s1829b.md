@@ -109,11 +109,11 @@
 
             Any penalty imposed under paragraph (1) shall be assessed, mitigated, and collected in the manner provided in subsections (b) and (c) of [section 5321 of title 31][/us/usc/t31/s5321].
 
-([Sept. 21, 1950, ch. 967, § 2][/us/act/1950-09-21/ch967/s2]\[21\], as added [Pub. L. 91–508, title I, § 101][/us/pl/91/508/s101], Oct. 26, 1970, [84 Stat. 1114][/us/stat/84/1114]; amended [Pub. L. 95–369, § 6(c)(29)][/us/pl/95/369/s6/c/29], Sept. 17, 1978, [92 Stat. 620][/us/stat/92/620]; [Pub. L. 100–690, title VI, § 6185(d)(1)][/us/pl/100/690/s6185/d/1], Nov. 18, 1988, [102 Stat. 4356][/us/stat/102/4356]; [Pub. L. 101–73, title II, § 201(a)][/us/pl/101/73/s201/a], Aug. 9, 1989, [103 Stat. 187][/us/stat/103/187]; [Pub. L. 102–550, title XV][/us/pl/102/550], §§ 1515(a), (b), 1535(b), Oct. 28, 1992, [106 Stat. 4058][/us/stat/106/4058], 4059, 4066; [Pub. L. 103–325, title VI, § 602(a)(52)][/us/pl/103/325/s602/a/52]–(54), Sept. 23, 1994, [108 Stat. 2290][/us/stat/108/2290]; [Pub. L. 107–56, title III, § 358(d)][/us/pl/107/56/s358/d], Oct. 26, 2001, [115 Stat. 326][/us/stat/115/326]; [Pub. L. 108–458, title VI, § 6203(k)][/us/pl/108/458/s6203/k], Dec. 17, 2004, [118 Stat. 3747][/us/stat/118/3747].)
+([Sept. 21, 1950, ch. 967][/us/act/1950-09-21/ch967], § 2\[21\], as added [Pub. L. 91–508, title I][/us/pl/91/508/tI], § 101, Oct. 26, 1970, [84 Stat. 1114][/us/stat/84/1114]; amended [Pub. L. 95–369][/us/pl/95/369], § 6(c)(29), Sept. 17, 1978, [92 Stat. 620][/us/stat/92/620]; [Pub. L. 100–690, title VI][/us/pl/100/690/tVI], § 6185(d)(1), Nov. 18, 1988, [102 Stat. 4356][/us/stat/102/4356]; [Pub. L. 101–73, title II][/us/pl/101/73/tII], § 201(a), Aug. 9, 1989, [103 Stat. 187][/us/stat/103/187]; [Pub. L. 102–550, title XV][/us/pl/102/550/tXV], §§ 1515(a), (b), 1535(b), Oct. 28, 1992, [106 Stat. 4058][/us/stat/106/4058], 4059, 4066; [Pub. L. 103–325, title VI][/us/pl/103/325/tVI], § 602(a)(52)–(54), Sept. 23, 1994, [108 Stat. 2290][/us/stat/108/2290]; [Pub. L. 107–56, title III][/us/pl/107/56/tIII], § 358(d), Oct. 26, 2001, [115 Stat. 326][/us/stat/115/326]; [Pub. L. 108–458, title VI][/us/pl/108/458/tVI], § 6203(k), Dec. 17, 2004, [118 Stat. 3747][/us/stat/118/3747].)
 
  __Codification__ 
 
-    In subsec. (e), “subchapter II of chapter 53 of title 31” was substituted for “the Currency and Foreign Transactions Reporting Act \[[31 U.S.C. 1051][/us/usc/t31/s1051] et seq.\]” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    In subsec. (e), “subchapter II of chapter 53 of title 31” was substituted for “the Currency and Foreign Transactions Reporting Act \[[31 U.S.C. 1051][/us/usc/t31/s1051] et seq.\]” on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
  __Amendments__ 
 
@@ -127,15 +127,15 @@
 
     1994—Subsecs. (c), (d)(2), (e). [Pub. L. 103–325][/us/pl/103/325] substituted “the insured depository institution” for “the bank”.
 
-    1992—Subsec. (b). [Pub. L. 102–550, § 1515(a)][/us/pl/102/550/s1515/a], inserted heading, designated existing provisions as par. (1) and inserted heading, and added pars. (2) and (3).
+    1992—Subsec. (b). [Pub. L. 102–550][/us/pl/102/550], § 1515(a), inserted heading, designated existing provisions as par. (1) and inserted heading, and added pars. (2) and (3).
 
-    Subsec. (c). [Pub. L. 102–550, § 1515(b)(1)][/us/pl/102/550/s1515/b/1], substituted “Subject to the requirements of any regulations prescribed jointly by the Secretary and the Board under paragraph (2) or (3) of subsection (b), each insured” for “Each insured”.
+    Subsec. (c). [Pub. L. 102–550][/us/pl/102/550], § 1515(b)(1), substituted “Subject to the requirements of any regulations prescribed jointly by the Secretary and the Board under paragraph (2) or (3) of subsection (b), each insured” for “Each insured”.
 
-    Subsec. (e). [Pub. L. 102–550, § 1515(b)(2)][/us/pl/102/550/s1515/b/2], substituted “Subject to the requirements of any regulations prescribed jointly by the Secretary and the Board under paragraph (2) or (3) of subsection (b), whenever any” for “Whenever any”.
+    Subsec. (e). [Pub. L. 102–550][/us/pl/102/550], § 1515(b)(2), substituted “Subject to the requirements of any regulations prescribed jointly by the Secretary and the Board under paragraph (2) or (3) of subsection (b), whenever any” for “Whenever any”.
 
-    Subsec. (f). [Pub. L. 102–550, § 1515(b)(3)][/us/pl/102/550/s1515/b/3], substituted “Subject to the requirements of any regulations prescribed jointly by the Secretary and the Board under paragraph (2) or (3) of subsection (b) and in addition to” for “In addition to”.
+    Subsec. (f). [Pub. L. 102–550][/us/pl/102/550], § 1515(b)(3), substituted “Subject to the requirements of any regulations prescribed jointly by the Secretary and the Board under paragraph (2) or (3) of subsection (b) and in addition to” for “In addition to”.
 
-    Subsec. (j)(1). [Pub. L. 102–550, § 1535(b)][/us/pl/102/550/s1535/b], inserted “, or any person who willfully causes such a violation,” after “gross negligence violates”.
+    Subsec. (j)(1). [Pub. L. 102–550][/us/pl/102/550], § 1535(b), inserted “, or any person who willfully causes such a violation,” after “gross negligence violates”.
 
     1989—[Pub. L. 101–73][/us/pl/101/73] substituted references to insured depository institutions for references to insured banks wherever appearing in this section.
 
@@ -149,7 +149,7 @@
 
  __Effective Date of 2001 Amendment__ 
 
-[Pub. L. 107–56, title III, § 358(h)][/us/pl/107/56/s358/h], Oct. 26, 2001, [115 Stat. 328][/us/stat/115/328], provided that: 
+[Pub. L. 107–56, title III][/us/pl/107/56/tIII], § 358(h), Oct. 26, 2001, [115 Stat. 328][/us/stat/115/328], provided that: 
 
 > “The amendments made by this section \[enacting [section 1681v of Title 15][/us/usc/t15/s1681v], Commerce and Trade, amending this section and sections 1953, 3412, 3414, and 3420 of this title, [section 1681u of Title 15][/us/usc/t15/s1681u], and sections 5311, 5318, and 5319 of Title 31, Money and Finance\] shall apply with respect to reports filed or records maintained on, before, or after the date of enactment of this Act \[Oct. 26, 2001\].”
 
@@ -159,7 +159,7 @@
 
  __Regulations__ 
 
-[Pub. L. 102–550, title XV, § 1515(c)][/us/pl/102/550/s1515/c], Oct. 28, 1992, [106 Stat. 4059][/us/stat/106/4059], provided that: 
+[Pub. L. 102–550, title XV][/us/pl/102/550/tXV], § 1515(c), Oct. 28, 1992, [106 Stat. 4059][/us/stat/106/4059], provided that: 
 
 > “The initial final regulations prescribed pursuant to section 21(b)(3) of the Federal Deposit Insurance Act \[[12 U.S.C. 1829b(b)(3)][/us/usc/t12/s1829b/b/3]\] (as added by subsection (a)(2) of this section) shall take effect before January 1, 1994.”
 
@@ -183,34 +183,34 @@
 ----------
 
 [/us/usc/t31/s5321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5321
-[/us/act/1950-09-21/ch967/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967%2Fs2
-[/us/pl/91/508/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508%2Fs101
+[/us/act/1950-09-21/ch967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967
+[/us/pl/91/508/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508%2FtI
 [/us/stat/84/1114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1114
-[/us/pl/95/369/s6/c/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F369%2Fs6%2Fc%2F29
+[/us/pl/95/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F369
 [/us/stat/92/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F620
-[/us/pl/100/690/s6185/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6185%2Fd%2F1
+[/us/pl/100/690/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVI
 [/us/stat/102/4356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4356
-[/us/pl/101/73/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs201%2Fa
+[/us/pl/101/73/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtII
 [/us/stat/103/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F187
-[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXV
 [/us/stat/106/4058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4058
-[/us/pl/103/325/s602/a/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs602%2Fa%2F52
+[/us/pl/103/325/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtVI
 [/us/stat/108/2290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2290
-[/us/pl/107/56/s358/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs358%2Fd
+[/us/pl/107/56/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtIII
 [/us/stat/115/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F326
-[/us/pl/108/458/s6203/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6203%2Fk
+[/us/pl/108/458/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVI
 [/us/stat/118/3747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3747
 [/us/usc/t31/s1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1051
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
 [/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
-[/us/pl/102/550/s1515/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1515%2Fa
-[/us/pl/102/550/s1515/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1515%2Fb%2F1
-[/us/pl/102/550/s1515/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1515%2Fb%2F2
-[/us/pl/102/550/s1515/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1515%2Fb%2F3
-[/us/pl/102/550/s1535/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1535%2Fb
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/pl/95/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F369
@@ -219,13 +219,13 @@
 [/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
 [/us/pl/108/458/s6205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6205
 [/us/usc/t12/s1828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1828
-[/us/pl/107/56/s358/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs358%2Fh
+[/us/pl/107/56/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtIII
 [/us/stat/115/328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F328
 [/us/usc/t15/s1681v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681v
 [/us/usc/t15/s1681u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681u
 [/us/pl/91/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508
 [/us/usc/t12/s1951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1951
-[/us/pl/102/550/s1515/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1515%2Fc
+[/us/pl/102/550/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXV
 [/us/stat/106/4059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4059
 [/us/usc/t12/s1829b/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1829b%2Fb%2F3
 [/us/usc/t12/s1957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1957

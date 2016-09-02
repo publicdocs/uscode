@@ -61,37 +61,37 @@
 
         No mortgagee or mortgagor shall have and no certificate of claim shall be construed to give to any mortgagee or mortgagor, any right or interest in any property conveyed to the Secretary or in any claim assigned to him; nor shall the Secretary owe any duty to any mortgagee or mortgagor with respect to the handling or disposal of any such property or the collection of any such claim.
 
-([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title VI, § 604, as added [Mar. 28, 1941, ch. 31, § 1][/us/act/1941-03-28/ch31/s1], [55 Stat. 58][/us/stat/55/58]; amended [May 26, 1942, ch. 319][/us/act/1942-05-26/ch319], §§ 5–8, 14(b), [56 Stat. 302][/us/stat/56/302], 305; [Oct. 14, 1943, ch. 258, § 2][/us/act/1943-10-14/ch258/s2], [57 Stat. 570][/us/stat/57/570]; [May 22, 1946, ch. 268, § 10(e)][/us/act/1946-05-22/ch268/s10/e], [60 Stat. 213][/us/stat/60/213]; [Mar. 31, 1948, ch. 165, § 1(d)][/us/act/1948-03-31/ch165/s1/d], [62 Stat. 101][/us/stat/62/101]; [Apr. 20, 1950, ch. 94][/us/act/1950-04-20/ch94], title I, § 122, [64 Stat. 59][/us/stat/64/59]; [Aug. 11, 1955, ch. 783][/us/act/1955-08-11/ch783], title I, § 104, [69 Stat. 637][/us/stat/69/637]; [Pub. L. 88–560, title I, § 105(d)][/us/pl/88/560/s105/d], (f), Sept. 2, 1964, [78 Stat. 772][/us/stat/78/772], 774; [Pub. L. 89–117, title XI, § 1108(p)][/us/pl/89/117/s1108/p], Aug. 10, 1965, [79 Stat. 506][/us/stat/79/506]; [Pub. L. 90–19, § 1(a)(3)][/us/pl/90/19/s1/a/3], (4), (d), May 25, 1967, [81 Stat. 17][/us/stat/81/17], 18.)
+([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title VI, § 604, as added [Mar. 28, 1941, ch. 31][/us/act/1941-03-28/ch31], § 1, [55 Stat. 58][/us/stat/55/58]; amended [May 26, 1942, ch. 319][/us/act/1942-05-26/ch319], §§ 5–8, 14(b), [56 Stat. 302][/us/stat/56/302], 305; [Oct. 14, 1943, ch. 258][/us/act/1943-10-14/ch258], § 2, [57 Stat. 570][/us/stat/57/570]; [May 22, 1946, ch. 268][/us/act/1946-05-22/ch268], § 10(e), [60 Stat. 213][/us/stat/60/213]; [Mar. 31, 1948, ch. 165][/us/act/1948-03-31/ch165], § 1(d), [62 Stat. 101][/us/stat/62/101]; [Apr. 20, 1950, ch. 94][/us/act/1950-04-20/ch94], title I, § 122, [64 Stat. 59][/us/stat/64/59]; [Aug. 11, 1955, ch. 783][/us/act/1955-08-11/ch783], title I, § 104, [69 Stat. 637][/us/stat/69/637]; [Pub. L. 88–560, title I][/us/pl/88/560/tI], § 105(d), (f), Sept. 2, 1964, [78 Stat. 772][/us/stat/78/772], 774; [Pub. L. 89–117, title XI][/us/pl/89/117/tXI], § 1108(p), Aug. 10, 1965, [79 Stat. 506][/us/stat/79/506]; [Pub. L. 90–19][/us/pl/90/19], § 1(a)(3), (4), (d), May 25, 1967, [81 Stat. 17][/us/stat/81/17], 18.)
 
  __References in Text__ 
 
     The General Insurance Fund, referred to in text, was established by [section 1735c of this title][/us/usc/t12/s1735c].
 
-    Sections 302 and 306 of the Soldiers’ and Sailors’ Civil Relief Act of 1940, referred to in subsec. (a)(2), are sections 302 and 306, respectively, of [act Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], [54 Stat. 1178][/us/stat/54/1178]. That Act was amended generally and renamed the “Servicemembers Civil Relief Act” by [Pub. L. 108–189, § 1][/us/pl/108/189/s1], Dec. 19, 2003, [117 Stat. 2835][/us/stat/117/2835]. As so amended, provisions of the Servicemembers Civil Relief Act that are similar to those contained in former sections 302 and 306 of act Oct. 17, 1940, are now contained in sections 3953 and 3959 of Title 50, War and National Defense.
+    Sections 302 and 306 of the Soldiers’ and Sailors’ Civil Relief Act of 1940, referred to in subsec. (a)(2), are sections 302 and 306, respectively, of [act Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], [54 Stat. 1178][/us/stat/54/1178]. That Act was amended generally and renamed the “Servicemembers Civil Relief Act” by [Pub. L. 108–189][/us/pl/108/189], § 1, Dec. 19, 2003, [117 Stat. 2835][/us/stat/117/2835]. As so amended, provisions of the Servicemembers Civil Relief Act that are similar to those contained in former sections 302 and 306 of act Oct. 17, 1940, are now contained in sections 3953 and 3959 of Title 50, War and National Defense.
 
     The Housing Amendments of 1955, referred to in subsec. (f)(2), is [act Aug. 11, 1955, ch. 783][/us/act/1955-08-11/ch783], [69 Stat. 635][/us/stat/69/635], as amended. For complete classification of this Act to the Code, see Short Title of 1955 Amendments note set out under [section 1701 of this title][/us/usc/t12/s1701] and Tables.
 
  __Codification__ 
 
-    In subsec. (g), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 3709 of the Revised Statutes” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (g), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 3709 of the Revised Statutes” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Amendments__ 
 
-    1967—[Pub. L. 90–19, § 1(a)(3)][/us/pl/90/19/s1/a/3], substituted “Secretary” for “Commissioner” wherever appearing in subsecs. (a), (a)(2), (b) to (e), (f)(1), (f)(1)(i), (ii), (f)(2), (3), (g), and (h).
+    1967—[Pub. L. 90–19][/us/pl/90/19], § 1(a)(3), substituted “Secretary” for “Commissioner” wherever appearing in subsecs. (a), (a)(2), (b) to (e), (f)(1), (f)(1)(i), (ii), (f)(2), (3), (g), and (h).
 
-    [Pub. L. 90–19, § 1(a)(4)][/us/pl/90/19/s1/a/4], substituted “Secretary’s” for “Commissioner’s” wherever appearing in subsecs. (b) and (f)(3) of this section.
+    [Pub. L. 90–19][/us/pl/90/19], § 1(a)(4), substituted “Secretary’s” for “Commissioner’s” wherever appearing in subsecs. (b) and (f)(3) of this section.
 
-    Subsec. (g). [Pub. L. 90–19, § 1(d)][/us/pl/90/19/s1/d], substituted “an officer” for “the Commissioner or by any Assistant Commissioner”.
+    Subsec. (g). [Pub. L. 90–19][/us/pl/90/19], § 1(d), substituted “an officer” for “the Commissioner or by any Assistant Commissioner”.
 
     1965—Subsecs. (c), (d), (f)(1)(i). [Pub. L. 89–117][/us/pl/89/117] substituted “General Insurance Fund” for “War Housing Insurance Fund”.
 
-    1964—Subsec. (a). [Pub. L. 88–560, § 105(d)(1)][/us/pl/88/560/s105/d/1], (f), inserted “Provided further, That with respect to any debentures issued on or after September 2, 1964, the Commissioner may, with the consent of the mortgagee (in lieu of issuing a certificate of claim as provided in subsection (e)), include in debentures, in addition to amounts otherwise allowed for such costs, an amount not to exceed one-third of the total foreclosure, acquisition, and conveyance costs actually paid by the mortgagee and approved by the Commissioner, but in no event may the total allowance for such costs exceed the amount actually paid by the mortgagee:” and struck out of third sentence “paid after either of such dates” after “mortgage insurance premiums”, respectively.
+    1964—Subsec. (a). [Pub. L. 88–560][/us/pl/88/560], § 105(d)(1), (f), inserted “Provided further, That with respect to any debentures issued on or after September 2, 1964, the Commissioner may, with the consent of the mortgagee (in lieu of issuing a certificate of claim as provided in subsection (e)), include in debentures, in addition to amounts otherwise allowed for such costs, an amount not to exceed one-third of the total foreclosure, acquisition, and conveyance costs actually paid by the mortgagee and approved by the Commissioner, but in no event may the total allowance for such costs exceed the amount actually paid by the mortgagee:” and struck out of third sentence “paid after either of such dates” after “mortgage insurance premiums”, respectively.
 
-    Subsec. (c). [Pub. L. 88–560, § 105(d)(2)][/us/pl/88/560/s105/d/2], increased limitation on difference between value of mortgage and aggregate face value of debentures issued from $50 to $350.
+    Subsec. (c). [Pub. L. 88–560][/us/pl/88/560], § 105(d)(2), increased limitation on difference between value of mortgage and aggregate face value of debentures issued from $50 to $350.
 
-    Subsec. (d). [Pub. L. 88–560, § 105(d)(3)][/us/pl/88/560/s105/d/3], substituted in second sentence “default, except that debentures issued pursuant to claims for insurance filed on or after September 2, 1964, shall be dated as of the date of default or as of such later date as the Commissioner, in his discretion, may establish by regulation. The debentures” for “default, and”.
+    Subsec. (d). [Pub. L. 88–560][/us/pl/88/560], § 105(d)(3), substituted in second sentence “default, except that debentures issued pursuant to claims for insurance filed on or after September 2, 1964, shall be dated as of the date of default or as of such later date as the Commissioner, in his discretion, may establish by regulation. The debentures” for “default, and”.
 
-    Subsec. (f). [Pub. L. 88–560, § 105(d)(4)][/us/pl/88/560/s105/d/4]–(8), designated introductory par. as par. (1) and substituted “If, after deducting (in such manner and amount as the Commissioner shall determine to be equitable and in accordance with sound accounting practice) the expenses incurred by the Commissioner, the net amount realized from any property conveyed to the Commissioner under this section and the claims assigned therewith exceed the face value” for “If the net amount realized from any property conveyed to the Commissioner under this section and the claims assigned therewith, after deducting all expenses incurred by the Commissioner in handling, dealing with, and disposing of such property and in collecting such claims, exceeds the face value”; redesignated former par. (1) as (i) and substituted “property: Provided, That on and after September 2, 1964, any excess remaining after payment to the holder of the full amount of the certificate of claim shall be retained by the Commissioner and credited to the War Housing Insurance Fund; and” for “property; and”; redesignated former par. (2) as (ii); designated concluding par. as par. (2) and inserted proviso; and added par. (3), respectively.
+    Subsec. (f). [Pub. L. 88–560][/us/pl/88/560], § 105(d)(4)–(8), designated introductory par. as par. (1) and substituted “If, after deducting (in such manner and amount as the Commissioner shall determine to be equitable and in accordance with sound accounting practice) the expenses incurred by the Commissioner, the net amount realized from any property conveyed to the Commissioner under this section and the claims assigned therewith exceed the face value” for “If the net amount realized from any property conveyed to the Commissioner under this section and the claims assigned therewith, after deducting all expenses incurred by the Commissioner in handling, dealing with, and disposing of such property and in collecting such claims, exceeds the face value”; redesignated former par. (1) as (i) and substituted “property: Provided, That on and after September 2, 1964, any excess remaining after payment to the holder of the full amount of the certificate of claim shall be retained by the Commissioner and credited to the War Housing Insurance Fund; and” for “property; and”; redesignated former par. (2) as (ii); designated concluding par. as par. (2) and inserted proviso; and added par. (3), respectively.
 
     1955—Subsec. (f). Act Aug. 11, 1955, authorized the Commissioner to effect the settlement of certificates of claim and refunds at any time after the sale or transfer of title to the property.
 
@@ -125,45 +125,45 @@
 [/us/usc/t12/s1738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1738
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
-[/us/act/1941-03-28/ch31/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-03-28%2Fch31%2Fs1
+[/us/act/1941-03-28/ch31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-03-28%2Fch31
 [/us/stat/55/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F58
 [/us/act/1942-05-26/ch319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-05-26%2Fch319
 [/us/stat/56/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F302
-[/us/act/1943-10-14/ch258/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-10-14%2Fch258%2Fs2
+[/us/act/1943-10-14/ch258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-10-14%2Fch258
 [/us/stat/57/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F57%2F570
-[/us/act/1946-05-22/ch268/s10/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-05-22%2Fch268%2Fs10%2Fe
+[/us/act/1946-05-22/ch268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-05-22%2Fch268
 [/us/stat/60/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F213
-[/us/act/1948-03-31/ch165/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-03-31%2Fch165%2Fs1%2Fd
+[/us/act/1948-03-31/ch165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-03-31%2Fch165
 [/us/stat/62/101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F101
 [/us/act/1950-04-20/ch94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-04-20%2Fch94
 [/us/stat/64/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F59
 [/us/act/1955-08-11/ch783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-11%2Fch783
 [/us/stat/69/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F637
-[/us/pl/88/560/s105/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F560%2Fs105%2Fd
+[/us/pl/88/560/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F560%2FtI
 [/us/stat/78/772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F772
-[/us/pl/89/117/s1108/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117%2Fs1108%2Fp
+[/us/pl/89/117/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117%2FtXI
 [/us/stat/79/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F506
-[/us/pl/90/19/s1/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19%2Fs1%2Fa%2F3
+[/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
 [/us/stat/81/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F17
 [/us/usc/t12/s1735c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1735c
 [/us/act/1940-10-17/ch888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-17%2Fch888
 [/us/stat/54/1178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1178
-[/us/pl/108/189/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189%2Fs1
+[/us/pl/108/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189
 [/us/stat/117/2835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2835
 [/us/act/1955-08-11/ch783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-11%2Fch783
 [/us/stat/69/635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F635
 [/us/usc/t12/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
-[/us/pl/90/19/s1/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19%2Fs1%2Fa%2F3
-[/us/pl/90/19/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19%2Fs1%2Fa%2F4
-[/us/pl/90/19/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19%2Fs1%2Fd
+[/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
+[/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
+[/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
 [/us/pl/89/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117
-[/us/pl/88/560/s105/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F560%2Fs105%2Fd%2F1
-[/us/pl/88/560/s105/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F560%2Fs105%2Fd%2F2
-[/us/pl/88/560/s105/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F560%2Fs105%2Fd%2F3
-[/us/pl/88/560/s105/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F560%2Fs105%2Fd%2F4
+[/us/pl/88/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F560
+[/us/pl/88/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F560
+[/us/pl/88/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F560
+[/us/pl/88/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F560
 [/us/usc/t12/s1738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1738
 [/us/usc/t12/s1738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1738
 

@@ -17,7 +17,7 @@
 
     Nothing in this chapter shall be construed as authorizing an increase in the amounts of obligations issued, sold, or guaranteed by any Federal agency which issues, sells, or guarantees obligations purchased by the Bank.
 
-([Pub. L. 93–224, § 18][/us/pl/93/224/s18], Dec. 29, 1973, [87 Stat. 942][/us/stat/87/942].)
+([Pub. L. 93–224][/us/pl/93/224], § 18, Dec. 29, 1973, [87 Stat. 942][/us/stat/87/942].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/93/224/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F224%2Fs18
+[/us/pl/93/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F224
 [/us/stat/87/942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F942
 
 

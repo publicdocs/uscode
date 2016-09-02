@@ -17,7 +17,7 @@
 
     The purpose of this chapter is to provide that Federal financial and public policy interests in real estate related transactions will be protected by requiring that real estate appraisals utilized in connection with federally related transactions are performed in writing, in accordance with uniform standards, by individuals whose competency has been demonstrated and whose professional conduct will be subject to effective supervision.
 
-([Pub. L. 101–73, title XI, § 1101][/us/pl/101/73/s1101], Aug. 9, 1989, [103 Stat. 511][/us/stat/103/511].)
+([Pub. L. 101–73, title XI][/us/pl/101/73/tXI], § 1101, Aug. 9, 1989, [103 Stat. 511][/us/stat/103/511].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/101/73/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs1101
+[/us/pl/101/73/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtXI
 [/us/stat/103/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F511
 
 

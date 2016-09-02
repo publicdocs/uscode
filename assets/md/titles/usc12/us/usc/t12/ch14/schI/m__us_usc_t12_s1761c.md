@@ -23,7 +23,7 @@
 
         If the bylaws provide for a credit committee, all applications not approved by the loan officer shall be reviewed by the credit committee, and the approval of a majority of the members who are present at the meeting when such review is undertaken shall be required to reverse the loan officer’s decision provided a majority of the full committee is present. If there is not a credit committee, a member shall have the right upon written request of review by the board of directors of a loan application which has been denied. No individual shall have authority to disburse funds of the Federal credit union with respect to any loan or line of credit for which the application has been approved by him in his capacity as a loan officer.
 
-([June 26, 1934, ch. 750][/us/act/1934-06-26/ch750], title I, § 114, formerly § 15, as added [Pub. L. 86–354, § 1][/us/pl/86/354/s1], Sept. 22, 1959, [73 Stat. 633][/us/stat/73/633]; amended [Pub. L. 88–353, § 4][/us/pl/88/353/s4], July 2, 1964, [78 Stat. 269][/us/stat/78/269]; [Pub. L. 90–188, § 1][/us/pl/90/188/s1], Dec. 13, 1967, [81 Stat. 567][/us/stat/81/567]; [Pub. L. 90–375, § 1(5)][/us/pl/90/375/s1/5], July 5, 1968, [82 Stat. 284][/us/stat/82/284]; [Pub. L. 91–206, § 2(1)][/us/pl/91/206/s2/1], Mar. 10, 1970, [84 Stat. 49][/us/stat/84/49]; renumbered title I, § 114, [Pub. L. 91–468, § 1(2)][/us/pl/91/468/s1/2], Oct. 19, 1970, [84 Stat. 994][/us/stat/84/994]; amended [Pub. L. 95–22, title III, § 304][/us/pl/95/22/s304], Apr. 19, 1977, [91 Stat. 51][/us/stat/91/51]; [Pub. L. 95–630, title V, § 502(b)][/us/pl/95/630/s502/b], Nov. 10, 1978, [92 Stat. 3681][/us/stat/92/3681]; [Pub. L. 97–320, title V, § 523][/us/pl/97/320/s523], Oct. 15, 1982, [96 Stat. 1533][/us/stat/96/1533].)
+([June 26, 1934, ch. 750][/us/act/1934-06-26/ch750], title I, § 114, formerly § 15, as added [Pub. L. 86–354][/us/pl/86/354], § 1, Sept. 22, 1959, [73 Stat. 633][/us/stat/73/633]; amended [Pub. L. 88–353][/us/pl/88/353], § 4, July 2, 1964, [78 Stat. 269][/us/stat/78/269]; [Pub. L. 90–188][/us/pl/90/188], § 1, Dec. 13, 1967, [81 Stat. 567][/us/stat/81/567]; [Pub. L. 90–375][/us/pl/90/375], § 1(5), July 5, 1968, [82 Stat. 284][/us/stat/82/284]; [Pub. L. 91–206][/us/pl/91/206], § 2(1), Mar. 10, 1970, [84 Stat. 49][/us/stat/84/49]; renumbered title I, § 114, [Pub. L. 91–468][/us/pl/91/468], § 1(2), Oct. 19, 1970, [84 Stat. 994][/us/stat/84/994]; amended [Pub. L. 95–22, title III][/us/pl/95/22/tIII], § 304, Apr. 19, 1977, [91 Stat. 51][/us/stat/91/51]; [Pub. L. 95–630, title V][/us/pl/95/630/tV], § 502(b), Nov. 10, 1978, [92 Stat. 3681][/us/stat/92/3681]; [Pub. L. 97–320, title V][/us/pl/97/320/tV], § 523, Oct. 15, 1982, [96 Stat. 1533][/us/stat/96/1533].)
 
  __Prior Provisions__ 
 
@@ -58,23 +58,23 @@
 
 [/us/usc/t12/s1757/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1757%2F5
 [/us/act/1934-06-26/ch750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-26%2Fch750
-[/us/pl/86/354/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F354%2Fs1
+[/us/pl/86/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F354
 [/us/stat/73/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F633
-[/us/pl/88/353/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F353%2Fs4
+[/us/pl/88/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F353
 [/us/stat/78/269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F269
-[/us/pl/90/188/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F188%2Fs1
+[/us/pl/90/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F188
 [/us/stat/81/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F567
-[/us/pl/90/375/s1/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F375%2Fs1%2F5
+[/us/pl/90/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F375
 [/us/stat/82/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F284
-[/us/pl/91/206/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F206%2Fs2%2F1
+[/us/pl/91/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F206
 [/us/stat/84/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F49
-[/us/pl/91/468/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F468%2Fs1%2F2
+[/us/pl/91/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F468
 [/us/stat/84/994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F994
-[/us/pl/95/22/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F22%2Fs304
+[/us/pl/95/22/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F22%2FtIII
 [/us/stat/91/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F51
-[/us/pl/95/630/s502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs502%2Fb
+[/us/pl/95/630/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtV
 [/us/stat/92/3681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3681
-[/us/pl/97/320/s523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs523
+[/us/pl/97/320/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2FtV
 [/us/stat/96/1533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1533
 [/us/act/1934-06-26/ch750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-26%2Fch750
 [/us/stat/48/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1219

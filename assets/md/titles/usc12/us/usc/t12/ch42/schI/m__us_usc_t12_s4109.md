@@ -47,13 +47,13 @@
 
         With respect to any housing with a mortgage insured or otherwise assisted pursuant to [section 1715z–1 of this title][/us/usc/t12/s1715z–1], the provisions of subsections (f) and (g) of [section 1715z–1 of this title][/us/usc/t12/s1715z–1] notwithstanding, the fair market rental charge for each unit in such housing may be increased in accordance with this subsection, but the owner shall pay to the Secretary all rental charges collected in excess of the basic rental charges, in an amount not greater than the fair market rental charges as such charges would have been established under [section 1715z–1(f) of this title][/us/usc/t12/s1715z–1/f] absent the requirements of this paragraph.
 
-([Pub. L. 100–242, title II, § 219][/us/pl/100/242/s219], as added [Pub. L. 101–625, title VI, § 601(a)][/us/pl/101/625/s601/a], Nov. 28, 1990, [104 Stat. 4256][/us/stat/104/4256]; amended [Pub. L. 102–550, title III, § 306][/us/pl/102/550/s306], Oct. 28, 1992, [106 Stat. 3764][/us/stat/106/3764].)
+([Pub. L. 100–242, title II][/us/pl/100/242/tII], § 219, as added [Pub. L. 101–625, title VI][/us/pl/101/625/tVI], § 601(a), Nov. 28, 1990, [104 Stat. 4256][/us/stat/104/4256]; amended [Pub. L. 102–550, title III][/us/pl/102/550/tIII], § 306, Oct. 28, 1992, [106 Stat. 3764][/us/stat/106/3764].)
 
  __References in Text__ 
 
     Section 201 of the Housing and Community Development Amendments of 1978, referred to in subsec. (b)(4), is [section 201 of Pub. L. 95–557][/us/pl/95/557/s201], title II, Oct. 31, 1978, [92 Stat. 2084][/us/stat/92/2084], which enacted [section 1715z–1a of this title][/us/usc/t12/s1715z–1a] and amended [section 1715z–1 of this title][/us/usc/t12/s1715z–1].
 
-    [Section 1715z–6(f) of this title][/us/usc/t12/s1715z–6/f], referred to in subsec. (b)(7), was repealed by [Pub. L. 104–204, title II][/us/pl/104/204], Sept. 26, 1996, [110 Stat. 2885][/us/stat/110/2885].
+    [Section 1715z–6(f) of this title][/us/usc/t12/s1715z–6/f], referred to in subsec. (b)(7), was repealed by [Pub. L. 104–204, title II][/us/pl/104/204/tII], Sept. 26, 1996, [110 Stat. 2885][/us/stat/110/2885].
 
  __Amendments__ 
 
@@ -61,7 +61,7 @@
 
  __Study of Projects Assisted Under Flexible Subsidy Program__ 
 
-[Pub. L. 102–550, title III, § 318][/us/pl/102/550/s318], Oct. 28, 1992, [106 Stat. 3772][/us/stat/106/3772], provided that:
+[Pub. L. 102–550, title III][/us/pl/102/550/tIII], § 318, Oct. 28, 1992, [106 Stat. 3772][/us/stat/106/3772], provided that:
 
 >     “(a)  __Study__  __.—__ 
 
@@ -91,23 +91,23 @@
 [/us/usc/t12/s1715z–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715z%E2%80%931
 [/us/usc/t12/s1715z–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715z%E2%80%931
 [/us/usc/t12/s1715z–1/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715z%E2%80%931%2Ff
-[/us/pl/100/242/s219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs219
-[/us/pl/101/625/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs601%2Fa
+[/us/pl/100/242/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtII
+[/us/pl/101/625/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtVI
 [/us/stat/104/4256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4256
-[/us/pl/102/550/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs306
+[/us/pl/102/550/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtIII
 [/us/stat/106/3764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3764
 [/us/pl/95/557/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2Fs201
 [/us/stat/92/2084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2084
 [/us/usc/t12/s1715z–1a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715z%E2%80%931a
 [/us/usc/t12/s1715z–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715z%E2%80%931
 [/us/usc/t12/s1715z–6/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715z%E2%80%936%2Ff
-[/us/pl/104/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204
+[/us/pl/104/204/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2FtII
 [/us/stat/110/2885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2885
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/usc/t12/s4104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4104%2Fa
 [/us/usc/t12/s4112/a/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4112%2Fa%2F2%2FE
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
-[/us/pl/102/550/s318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs318
+[/us/pl/102/550/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtIII
 [/us/stat/106/3772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3772
 [/us/usc/t12/s1715z–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715z%E2%80%931
 [/us/usc/t12/s1715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715

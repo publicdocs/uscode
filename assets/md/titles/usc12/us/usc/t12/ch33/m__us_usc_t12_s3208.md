@@ -19,11 +19,11 @@
 
     (b) All of the functions and powers of the Attorney General or the Assistant Attorney General in charge of the Antitrust Division of the Department of Justice are available to the Attorney General or to such Assistant Attorney General to investigate possible violations under section 3206(6) 1 of this title in the same manner as if such possible violations were possible violations of the Clayton Act \[[15 U.S.C. 12][/us/usc/t15/s12] et seq.\].
 
-([Pub. L. 95–630, title II, § 210][/us/pl/95/630/s210], as added [Pub. L. 97–320, title IV, § 426][/us/pl/97/320/s426], Oct. 15, 1982, [96 Stat. 1524][/us/stat/96/1524]; amended [Pub. L. 111–203, title III, § 360(3)][/us/pl/111/203/s360/3], July 21, 2010, [124 Stat. 1549][/us/stat/124/1549].)
+([Pub. L. 95–630, title II][/us/pl/95/630/tII], § 210, as added [Pub. L. 97–320, title IV][/us/pl/97/320/tIV], § 426, Oct. 15, 1982, [96 Stat. 1524][/us/stat/96/1524]; amended [Pub. L. 111–203, title III][/us/pl/111/203/tIII], § 360(3), July 21, 2010, [124 Stat. 1549][/us/stat/124/1549].)
 
  __References in Text__ 
 
-    [Section 3206(6) of this title][/us/usc/t12/s3206/6], referred to in text, was redesignated section 3206(5) by [Pub. L. 111–203, title III, § 360(1)(E)][/us/pl/111/203/s360/1/E], July 21, 2010, [124 Stat. 1549][/us/stat/124/1549].
+    [Section 3206(6) of this title][/us/usc/t12/s3206/6], referred to in text, was redesignated section 3206(5) by [Pub. L. 111–203, title III][/us/pl/111/203/tIII], § 360(1)(E), July 21, 2010, [124 Stat. 1549][/us/stat/124/1549].
 
     The Clayton Act, referred to in text, is [act Oct. 15, 1914, ch. 323][/us/act/1914-10-15/ch323], [38 Stat. 730][/us/stat/38/730], which is classified generally to sections 12, 13, 14 to 19, 21, and 22 to 27 of Title 15, Commerce and Trade, and sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under [section 12 of Title 15][/us/usc/t15/s12] and Tables.
 
@@ -44,13 +44,13 @@
 
 [/us/usc/t15/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs12
 [/us/usc/t15/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs12
-[/us/pl/95/630/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs210
-[/us/pl/97/320/s426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs426
+[/us/pl/95/630/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtII
+[/us/pl/97/320/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2FtIV
 [/us/stat/96/1524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1524
-[/us/pl/111/203/s360/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs360%2F3
+[/us/pl/111/203/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIII
 [/us/stat/124/1549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1549
 [/us/usc/t12/s3206/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3206%2F6
-[/us/pl/111/203/s360/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs360%2F1%2FE
+[/us/pl/111/203/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIII
 [/us/stat/124/1549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1549
 [/us/act/1914-10-15/ch323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-10-15%2Fch323
 [/us/stat/38/730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F730

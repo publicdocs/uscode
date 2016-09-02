@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch2/schIX/m__us_usc_t12_ch2_schIX.md) | [Next](./../../../../..//us/usc/t12/ch2/schX/m__us_usc_t12_s161.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fch2%2FschX)
+[Previous](./../../../../..//us/usc/t12/ch2/schIX/m__us_usc_t12_s151...153.md) | [Next](./../../../../..//us/usc/t12/ch2/schX/m__us_usc_t12_s161.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fch2%2FschX)
 
 ### SUBCHAPTER X—BANK EXAMINATIONS; REPORTS
 
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch2/schIX/m__us_usc_t12_ch2_schIX.md) | [Next](./../../../../..//us/usc/t12/ch2/schX/m__us_usc_t12_s161.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fch2%2FschX)
+[Previous](./../../../../..//us/usc/t12/ch2/schIX/m__us_usc_t12_s151...153.md) | [Next](./../../../../..//us/usc/t12/ch2/schX/m__us_usc_t12_s161.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fch2%2FschX)
 
 ----------
 ----------

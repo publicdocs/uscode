@@ -45,7 +45,7 @@
 
         At least 30 days before making a request under this subsection, an owner shall notify the Secretary of the owner’s intention to submit the request. The Secretary shall have a period of 90 days following receipt of such notice to take action to extend the rental assistance contract and to continue the binding commitments under [section 4112(a)(2) of this title][/us/usc/t12/s4112/a/2].
 
-([Pub. L. 100–242, title II, § 224][/us/pl/100/242/s224], as added [Pub. L. 101–625, title VI, § 601(a)][/us/pl/101/625/s601/a], Nov. 28, 1990, [104 Stat. 4265][/us/stat/104/4265].)
+([Pub. L. 100–242, title II][/us/pl/100/242/tII], § 224, as added [Pub. L. 101–625, title VI][/us/pl/101/625/tVI], § 601(a), Nov. 28, 1990, [104 Stat. 4265][/us/stat/104/4265].)
 
 ----------
 
@@ -60,8 +60,8 @@
 [/us/usc/t12/s4112/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4112%2Fa%2F2
 [/us/usc/t12/s4113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4113
 [/us/usc/t12/s4112/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4112%2Fa%2F2
-[/us/pl/100/242/s224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs224
-[/us/pl/101/625/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs601%2Fa
+[/us/pl/100/242/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtII
+[/us/pl/101/625/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtVI
 [/us/stat/104/4265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4265
 
 

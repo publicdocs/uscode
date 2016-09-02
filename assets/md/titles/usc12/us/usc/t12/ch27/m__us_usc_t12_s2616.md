@@ -17,7 +17,7 @@
 
     This chapter does not annul, alter, or affect, or exempt any person subject to the provisions of this chapter from complying with, the laws of any State with respect to settlement practices, except to the extent that those laws are inconsistent with any provision of this chapter, and then only to the extent of the inconsistency. The Bureau is authorized to determine whether such inconsistencies exist. The Bureau may not determine that any State law is inconsistent with any provision of this chapter if the Bureau determines that such law gives greater protection to the consumer. In making these determinations the Bureau shall consult with the appropriate Federal agencies.
 
-([Pub. L. 93–533, § 18][/us/pl/93/533/s18], Dec. 22, 1974, [88 Stat. 1731][/us/stat/88/1731]; [Pub. L. 94–205, § 9][/us/pl/94/205/s9], Jan. 2, 1976, [89 Stat. 1159][/us/stat/89/1159]; [Pub. L. 111–203, title X, § 1098(10)][/us/pl/111/203/s1098/10], July 21, 2010, [124 Stat. 2104][/us/stat/124/2104].)
+([Pub. L. 93–533][/us/pl/93/533], § 18, Dec. 22, 1974, [88 Stat. 1731][/us/stat/88/1731]; [Pub. L. 94–205][/us/pl/94/205], § 9, Jan. 2, 1976, [89 Stat. 1159][/us/stat/89/1159]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1098(10), July 21, 2010, [124 Stat. 2104][/us/stat/124/2104].)
 
  __Amendments__ 
 
@@ -40,11 +40,11 @@
 ----------
 ----------
 
-[/us/pl/93/533/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F533%2Fs18
+[/us/pl/93/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F533
 [/us/stat/88/1731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1731
-[/us/pl/94/205/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F205%2Fs9
+[/us/pl/94/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F205
 [/us/stat/89/1159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1159
-[/us/pl/111/203/s1098/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1098%2F10
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2104
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/94/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F205

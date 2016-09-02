@@ -23,7 +23,7 @@
 
         Any State housing finance authority or nonprofit entity which purchases mortgage-related assets pursuant to subsection (a) shall invest any net income attributable to the ownership of those assets in financing, refinancing, or rehabilitating low- and moderate-income housing within the jurisdiction of the State housing finance authority or within the geographical area served by the nonprofit entity.
 
-([Pub. L. 101–73, title XIII, § 1302][/us/pl/101/73/s1302], Aug. 9, 1989, [103 Stat. 548][/us/stat/103/548].)
+([Pub. L. 101–73, title XIII][/us/pl/101/73/tXIII], § 1302, Aug. 9, 1989, [103 Stat. 548][/us/stat/103/548].)
 
  __Codification__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/101/73/s1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs1302
+[/us/pl/101/73/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtXIII
 [/us/stat/103/548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F548
 [/us/usc/t12/s1441a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1441a%E2%80%931
 

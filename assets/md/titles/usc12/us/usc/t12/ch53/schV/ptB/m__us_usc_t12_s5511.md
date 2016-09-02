@@ -49,11 +49,11 @@
 
         (6) performing such support activities as may be necessary or useful to facilitate the other functions of the Bureau.
 
-([Pub. L. 111–203, title X, § 1021][/us/pl/111/203/s1021], July 21, 2010, [124 Stat. 1979][/us/stat/124/1979].)
+([Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1021, July 21, 2010, [124 Stat. 1979][/us/stat/124/1979].)
 
  __Effective Date__ 
 
-[Pub. L. 111–203, title X, § 1029A][/us/pl/111/203/s1029A], July 21, 2010, [124 Stat. 2005][/us/stat/124/2005], provided that: 
+[Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1029A, July 21, 2010, [124 Stat. 2005][/us/stat/124/2005], provided that: 
 
 > “This subtitle \[subtitle B (§§ 1021–1029A), enacting this part\] shall become effective on the designated transfer date, except that sections 1022, 1024, and 1025(e) \[[12 U.S.C. 5512][/us/usc/t12/s5512], 5514, and 5515(e)\] shall become effective on the date of enactment of this Act \[July 21, 2010\].”
 
@@ -66,9 +66,9 @@
 ----------
 ----------
 
-[/us/pl/111/203/s1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1021
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/1979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1979
-[/us/pl/111/203/s1029A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1029A
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2005
 [/us/usc/t12/s5512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5512
 [/us/usc/t12/s5481/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5481%2F9

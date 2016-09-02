@@ -27,7 +27,7 @@
 
     (c) After completion of the project the investor must establish in a manner satisfactory to the Secretary that the project is free and clear of liens and that there are no other outstanding unpaid obligations contracted in connection with the construction of the project, except taxes and such other liens and obligations as may be approved or prescribed by the Secretary. Debentures issued by the investor which are payable out of net income from the project and from the benefits of the insurance contract shall not be construed as “unpaid obligations” as such term is used in this subsection.
 
-([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title VII, § 702, as added [Aug. 10, 1948, ch. 832][/us/act/1948-08-10/ch832], title IV, § 401, [62 Stat. 1276][/us/stat/62/1276]; amended [Apr. 20, 1950, ch. 94][/us/act/1950-04-20/ch94], title I, § 122, [64 Stat. 59][/us/stat/64/59]; [Sept. 1, 1951, ch. 378][/us/act/1951-09-01/ch378], title VI, § 609(a), [65 Stat. 316][/us/stat/65/316]; [Pub. L. 90–19, § 1(a)(3)][/us/pl/90/19/s1/a/3], May 25, 1967, [81 Stat. 17][/us/stat/81/17].)
+([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title VII, § 702, as added [Aug. 10, 1948, ch. 832][/us/act/1948-08-10/ch832], title IV, § 401, [62 Stat. 1276][/us/stat/62/1276]; amended [Apr. 20, 1950, ch. 94][/us/act/1950-04-20/ch94], title I, § 122, [64 Stat. 59][/us/stat/64/59]; [Sept. 1, 1951, ch. 378][/us/act/1951-09-01/ch378], title VI, § 609(a), [65 Stat. 316][/us/stat/65/316]; [Pub. L. 90–19][/us/pl/90/19], § 1(a)(3), May 25, 1967, [81 Stat. 17][/us/stat/81/17].)
 
  __Amendments__ 
 
@@ -51,7 +51,7 @@
 [/us/stat/64/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F59
 [/us/act/1951-09-01/ch378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-09-01%2Fch378
 [/us/stat/65/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F316
-[/us/pl/90/19/s1/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19%2Fs1%2Fa%2F3
+[/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
 [/us/stat/81/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F17
 [/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
 

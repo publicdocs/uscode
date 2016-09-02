@@ -43,7 +43,7 @@
 
         The appropriate Federal banking agencies shall promulgate regulations or orders necessary to implement this section within one hundred and twenty days after November 30, 1983.
 
-([Pub. L. 98–181, title I][/us/pl/98/181] \[title IX, § 905\], Nov. 30, 1983, [97 Stat. 1279][/us/stat/97/1279].)
+([Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title IX, § 905\], Nov. 30, 1983, [97 Stat. 1279][/us/stat/97/1279].)
 
 ----------
 
@@ -53,7 +53,7 @@
 ----------
 
 [/us/usc/t12/s3907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3907
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1279
 
 

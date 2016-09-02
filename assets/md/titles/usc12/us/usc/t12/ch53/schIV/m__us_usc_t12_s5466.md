@@ -95,7 +95,7 @@
 
             For purposes of taking enforcement action under paragraph (1), a designated financial market utility shall be subject to, and the Board of Governors shall have authority under  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be followed by a comma. </sup></sup>  the provisions of subsections (b) through (n) of [section 1818 of this title][/us/usc/t12/s1818] in the same manner and to the same extent as if the designated financial market utility was an insured depository institution and the Board of Governors was the appropriate Federal banking agency for such insured depository institution.
 
-([Pub. L. 111–203, title VIII, § 807][/us/pl/111/203/s807], July 21, 2010, [124 Stat. 1814][/us/stat/124/1814].)
+([Pub. L. 111–203, title VIII][/us/pl/111/203/tVIII], § 807, July 21, 2010, [124 Stat. 1814][/us/stat/124/1814].)
 
 ----------
 
@@ -107,7 +107,7 @@
 [/us/usc/t12/s1818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1818
 [/us/usc/t12/s5465/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5465%2Fe
 [/us/usc/t12/s1818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1818
-[/us/pl/111/203/s807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs807
+[/us/pl/111/203/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVIII
 [/us/stat/124/1814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1814
 
 

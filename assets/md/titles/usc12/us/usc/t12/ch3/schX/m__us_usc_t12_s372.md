@@ -53,7 +53,7 @@
 
         Any limitation or restriction in this section based on paid-up and unimpaired capital stock and surplus of an institution shall be deemed to refer, with respect to a United States branch or agency of a foreign bank, to the dollar equivalent of the paid-up capital stock and surplus of the foreign bank, as determined by the Board, and if the foreign bank has more than one United States branch or agency, the business transacted by all such branches and agencies shall be aggregated in determining compliance with the limitation or restriction.
 
-([Dec. 23, 1913, ch. 6, § 13][/us/act/1913-12-23/ch6/s13] (par.), [38 Stat. 264][/us/stat/38/264]; [Mar. 3, 1915, ch. 93][/us/act/1915-03-03/ch93], [38 Stat. 958][/us/stat/38/958]; [Sept. 7, 1916, ch. 461][/us/act/1916-09-07/ch461], [39 Stat. 752][/us/stat/39/752]; [June 21, 1917, ch. 32, § 5][/us/act/1917-06-21/ch32/s5], [40 Stat. 235][/us/stat/40/235]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 203(a), [49 Stat. 704][/us/stat/49/704]; [Pub. L. 97–290, title II, § 207][/us/pl/97/290/s207], Oct. 8, 1982, [96 Stat. 1239][/us/stat/96/1239].)
+([Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 13 (par.), [38 Stat. 264][/us/stat/38/264]; [Mar. 3, 1915, ch. 93][/us/act/1915-03-03/ch93], [38 Stat. 958][/us/stat/38/958]; [Sept. 7, 1916, ch. 461][/us/act/1916-09-07/ch461], [39 Stat. 752][/us/stat/39/752]; [June 21, 1917, ch. 32][/us/act/1917-06-21/ch32], § 5, [40 Stat. 235][/us/stat/40/235]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 203(a), [49 Stat. 704][/us/stat/49/704]; [Pub. L. 97–290, title II][/us/pl/97/290/tII], § 207, Oct. 8, 1982, [96 Stat. 1239][/us/stat/96/1239].)
 
  __References in Text__ 
 
@@ -91,17 +91,17 @@
 ----------
 
 [/us/usc/t12/s3105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3105
-[/us/act/1913-12-23/ch6/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs13
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
 [/us/stat/38/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F264
 [/us/act/1915-03-03/ch93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1915-03-03%2Fch93
 [/us/stat/38/958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F958
 [/us/act/1916-09-07/ch461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-09-07%2Fch461
 [/us/stat/39/752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F752
-[/us/act/1917-06-21/ch32/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-21%2Fch32%2Fs5
+[/us/act/1917-06-21/ch32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-21%2Fch32
 [/us/stat/40/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F235
 [/us/act/1935-08-23/ch614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch614
 [/us/stat/49/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F704
-[/us/pl/97/290/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F290%2Fs207
+[/us/pl/97/290/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F290%2FtII
 [/us/stat/96/1239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1239
 [/us/usc/t12/s3105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3105
 [/us/pl/95/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F369

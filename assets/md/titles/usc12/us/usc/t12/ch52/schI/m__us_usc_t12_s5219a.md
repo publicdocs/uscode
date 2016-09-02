@@ -41,7 +41,7 @@
 
         (2) all non-proprietary variables used in such net present value analysis.
 
-([Pub. L. 111–203, title XIV, § 1482][/us/pl/111/203/s1482], July 21, 2010, [124 Stat. 2203][/us/stat/124/2203].)
+([Pub. L. 111–203, title XIV][/us/pl/111/203/tXIV], § 1482, July 21, 2010, [124 Stat. 2203][/us/stat/124/2203].)
 
  __References in Text__ 
 
@@ -64,7 +64,7 @@
 
 [/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
 [/us/usc/t12/s5201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5201
-[/us/pl/111/203/s1482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1482
+[/us/pl/111/203/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtXIV
 [/us/stat/124/2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2203
 [/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
 [/us/stat/122/3765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3765

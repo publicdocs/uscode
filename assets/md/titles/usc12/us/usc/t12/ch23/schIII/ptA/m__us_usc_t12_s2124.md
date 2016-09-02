@@ -39,7 +39,7 @@
 
         Participation certificates may be issued to parties to whom voting stock may not be issued.
 
-([Pub. L. 92–181, title III, § 3][/us/pl/92/181/s3].3, Dec. 10, 1971, [85 Stat. 603][/us/stat/85/603]; [Pub. L. 96–592, title III, § 302][/us/pl/96/592/s302], Dec. 24, 1980, [94 Stat. 3443][/us/stat/94/3443]; [Pub. L. 99–205, title II, § 205(e)(3)][/us/pl/99/205/s205/e/3], (4), Dec. 23, 1985, [99 Stat. 1705][/us/stat/99/1705]; [Pub. L. 100–233, title VIII][/us/pl/100/233], §§ 802(o), 805(k), Jan. 6, 1988, [101 Stat. 1712][/us/stat/101/1712], 1715; [Pub. L. 110–234, title V][/us/pl/110/234], §§ 5402, 5403(a), May 22, 2008, [122 Stat. 1154][/us/stat/122/1154]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title V, §§ 5402, 5403(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1915.)
+([Pub. L. 92–181, title III][/us/pl/92/181/tIII], § 3.3, Dec. 10, 1971, [85 Stat. 603][/us/stat/85/603]; [Pub. L. 96–592, title III][/us/pl/96/592/tIII], § 302, Dec. 24, 1980, [94 Stat. 3443][/us/stat/94/3443]; [Pub. L. 99–205, title II][/us/pl/99/205/tII], § 205(e)(3), (4), Dec. 23, 1985, [99 Stat. 1705][/us/stat/99/1705]; [Pub. L. 100–233, title VIII][/us/pl/100/233/tVIII], §§ 802(o), 805(k), Jan. 6, 1988, [101 Stat. 1712][/us/stat/101/1712], 1715; [Pub. L. 110–234, title V][/us/pl/110/234/tV], §§ 5402, 5403(a), May 22, 2008, [122 Stat. 1154][/us/stat/122/1154]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title V, §§ 5402, 5403(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1915.)
 
  __Codification__ 
 
@@ -47,21 +47,21 @@
 
  __Amendments__ 
 
-    2008—Subsec. (b). [Pub. L. 110–246, § 5402][/us/pl/110/246/s5402], which directed substitution of “par” for “per”, could not be executed because “per” did not appear.
+    2008—Subsec. (b). [Pub. L. 110–246][/us/pl/110/246], § 5402, which directed substitution of “par” for “per”, could not be executed because “per” did not appear.
 
-    Subsec. (c)(ii), (iii). [Pub. L. 110–246, § 5403(a)][/us/pl/110/246/s5403/a], added cl. (ii) and redesignated former cl. (ii) as (iii).
+    Subsec. (c)(ii), (iii). [Pub. L. 110–246][/us/pl/110/246], § 5403(a), added cl. (ii) and redesignated former cl. (ii) as (iii).
 
-    1988—Subsec. (a). [Pub. L. 100–233, § 802][/us/pl/100/233/s802](o)(1), struck out “, with the approval of Farm Credit Administration,” after “board determines”.
+    1988—Subsec. (a). [Pub. L. 100–233][/us/pl/100/233], § 802(o)(1), struck out “, with the approval of Farm Credit Administration,” after “board determines”.
 
-    Subsec. (b). [Pub. L. 100–233, § 802][/us/pl/100/233/s802](o)(2), struck out “with the approval of the Farm Credit Administration” after “board may determine”.
+    Subsec. (b). [Pub. L. 100–233][/us/pl/100/233], § 802(o)(2), struck out “with the approval of the Farm Credit Administration” after “board may determine”.
 
-    Subsec. (d). [Pub. L. 100–233, § 805(k)][/us/pl/100/233/s805/k], substituted “by” for “by by” after “regulations issued”.
+    Subsec. (d). [Pub. L. 100–233][/us/pl/100/233], § 805(k), substituted “by” for “by by” after “regulations issued”.
 
-    Subsec. (e). [Pub. L. 100–233, § 802][/us/pl/100/233/s802](o)(3), struck out “and approved by the Farm Credit Administration” after “Board”.
+    Subsec. (e). [Pub. L. 100–233][/us/pl/100/233], § 802(o)(3), struck out “and approved by the Farm Credit Administration” after “Board”.
 
-    1985—Subsec. (d). [Pub. L. 99–205, § 205(e)(3)][/us/pl/99/205/s205/e/3], inserted “under regulations issued by” after “authorized”.
+    1985—Subsec. (d). [Pub. L. 99–205][/us/pl/99/205], § 205(e)(3), inserted “under regulations issued by” after “authorized”.
 
-    Subsec. (e). [Pub. L. 99–205, § 205(e)(4)][/us/pl/99/205/s205/e/4], struck out “, except for stock held by the Governor,” before “may be exchanged”.
+    Subsec. (e). [Pub. L. 99–205][/us/pl/99/205], § 205(e)(4), struck out “, except for stock held by the Governor,” before “may be exchanged”.
 
     1980—Subsec. (f). [Pub. L. 96–592][/us/pl/96/592] added subsec. (f).
 
@@ -80,30 +80,30 @@
 ----------
 ----------
 
-[/us/pl/92/181/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs3
+[/us/pl/92/181/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtIII
 [/us/stat/85/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F603
-[/us/pl/96/592/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592%2Fs302
+[/us/pl/96/592/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592%2FtIII
 [/us/stat/94/3443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3443
-[/us/pl/99/205/s205/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2Fs205%2Fe%2F3
+[/us/pl/99/205/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2FtII
 [/us/stat/99/1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1705
-[/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
+[/us/pl/100/233/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtVIII
 [/us/stat/101/1712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1712
-[/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
+[/us/pl/110/234/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtV
 [/us/stat/122/1154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1154
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s5402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs5402
-[/us/pl/110/246/s5403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs5403%2Fa
-[/us/pl/100/233/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs802
-[/us/pl/100/233/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs802
-[/us/pl/100/233/s805/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs805%2Fk
-[/us/pl/100/233/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs802
-[/us/pl/99/205/s205/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2Fs205%2Fe%2F3
-[/us/pl/99/205/s205/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2Fs205%2Fe%2F4
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
+[/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
+[/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
+[/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
+[/us/pl/99/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205
+[/us/pl/99/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205
 [/us/pl/96/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

@@ -29,7 +29,7 @@
 
         Nothing in this section shall limit the authority of the Director to require other reports or undertakings, or take other action, in furtherance of the responsibilities of the Director under this Act.
 
-([Pub. L. 102–550, title XIII, § 1361][/us/pl/102/550/s1361], Oct. 28, 1992, [106 Stat. 3972][/us/stat/106/3972]; [Pub. L. 110–289, div. A, title I, § 1110(a)][/us/pl/110/289/s1110/a], July 30, 2008, [122 Stat. 2675][/us/stat/122/2675].)
+([Pub. L. 102–550, title XIII][/us/pl/102/550/tXIII], § 1361, Oct. 28, 1992, [106 Stat. 3972][/us/stat/106/3972]; [Pub. L. 110–289, div. A, title I][/us/pl/110/289/dA/tI], § 1110(a), July 30, 2008, [122 Stat. 2675][/us/stat/122/2675].)
 
  __References in Text__ 
 
@@ -47,9 +47,9 @@
 ----------
 
 [/us/usc/t12/s1426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1426
-[/us/pl/102/550/s1361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1361
+[/us/pl/102/550/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIII
 [/us/stat/106/3972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3972
-[/us/pl/110/289/s1110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1110%2Fa
+[/us/pl/110/289/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtI
 [/us/stat/122/2675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2675
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/stat/106/3672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3672

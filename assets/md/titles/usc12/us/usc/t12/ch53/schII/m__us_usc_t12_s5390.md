@@ -1967,7 +1967,7 @@
 
             The Corporation shall promulgate regulations to implement the requirements of this subsection, including defining the term “compensation” to mean any financial remuneration, including salary, bonuses, incentives, benefits, severance, deferred compensation, or golden parachute benefits, and any profits realized from the sale of the securities of the covered financial company.
 
-([Pub. L. 111–203, title II, § 210][/us/pl/111/203/s210], July 21, 2010, [124 Stat. 1460][/us/stat/124/1460].)
+([Pub. L. 111–203, title II][/us/pl/111/203/tII], § 210, July 21, 2010, [124 Stat. 1460][/us/stat/124/1460].)
 
  __References in Text__ 
 
@@ -1981,7 +1981,7 @@
 
     The Gramm-Leach-Bliley Act, referred to in subsec. (c)(15), is [Pub. L. 106–102][/us/pl/106/102], Nov. 12, 1999, [113 Stat. 1338][/us/stat/113/1338]. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under [section 1811 of this title][/us/usc/t12/s1811] and Tables.
 
-    The Legal Certainty for Bank Products Act of 2000, referred to in subsec. (c)(15), is title IV of H.R. 5660, as enacted by [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–457, which is classified to sections 27 to 27f of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title of 2000 Amendment note set out under [section 1 of Title 7][/us/usc/t7/s1] and Tables.
+    The Legal Certainty for Bank Products Act of 2000, referred to in subsec. (c)(15), is title IV of H.R. 5660, as enacted by [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5), Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–457, which is classified to sections 27 to 27f of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title of 2000 Amendment note set out under [section 1 of Title 7][/us/usc/t7/s1] and Tables.
 
     The Commodity Exchange Act, referred to in subsec. (c)(15), is [act Sept. 21, 1922, ch. 369][/us/act/1922-09-21/ch369], [42 Stat. 998][/us/stat/42/998], which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 1 of Title 7][/us/usc/t7/s1] and Tables.
 
@@ -2038,7 +2038,7 @@
 [/us/usc/t15/s78ddd]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78ddd
 [/us/usc/t12/s1782/c/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1782%2Fc%2F1%2FA%2Fi
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/111/203/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs210
+[/us/pl/111/203/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtII
 [/us/stat/124/1460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1460
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1442
@@ -2051,7 +2051,7 @@
 [/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102
 [/us/stat/113/1338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1338
 [/us/usc/t12/s1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1811
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/usc/t7/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1
 [/us/act/1922-09-21/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369

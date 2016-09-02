@@ -35,13 +35,13 @@
 
         (C) apply to national banks or State-chartered banks doing business in the State in which the entity to be established is to do business.
 
-([Pub. L. 95–369, § 9(b)][/us/pl/95/369/s9/b], as added [Pub. L. 95–630, title III, § 311][/us/pl/95/630/s311], Nov. 10, 1978, [92 Stat. 3678][/us/stat/92/3678]; amended [Pub. L. 103–328, title I, § 107(c)][/us/pl/103/328/s107/c], Sept. 29, 1994, [108 Stat. 2360][/us/stat/108/2360].)
+([Pub. L. 95–369][/us/pl/95/369], § 9(b), as added [Pub. L. 95–630, title III][/us/pl/95/630/tIII], § 311, Nov. 10, 1978, [92 Stat. 3678][/us/stat/92/3678]; amended [Pub. L. 103–328, title I][/us/pl/103/328/tI], § 107(c), Sept. 29, 1994, [108 Stat. 2360][/us/stat/108/2360].)
 
  __Amendments__ 
 
-    1994—Par. (1). [Pub. L. 103–328, § 107(c)(1)][/us/pl/103/328/s107/c/1], added subpar. (A) and redesignated former subpars. (A) and (B) as (B) and (C), respectively.
+    1994—Par. (1). [Pub. L. 103–328][/us/pl/103/328], § 107(c)(1), added subpar. (A) and redesignated former subpars. (A) and (B) as (B) and (C), respectively.
 
-    Par. (2). [Pub. L. 103–328, § 107(c)(2)][/us/pl/103/328/s107/c/2], added subpar. (A) and redesignated former subpars. (A) and (B) as (B) and (C), respectively.
+    Par. (2). [Pub. L. 103–328][/us/pl/103/328], § 107(c)(2), added subpar. (A) and redesignated former subpars. (A) and (B) as (B) and (C), respectively.
 
  __Effective Date__ 
 
@@ -54,13 +54,13 @@
 ----------
 ----------
 
-[/us/pl/95/369/s9/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F369%2Fs9%2Fb
-[/us/pl/95/630/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs311
+[/us/pl/95/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F369
+[/us/pl/95/630/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtIII
 [/us/stat/92/3678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3678
-[/us/pl/103/328/s107/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328%2Fs107%2Fc
+[/us/pl/103/328/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328%2FtI
 [/us/stat/108/2360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2360
-[/us/pl/103/328/s107/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328%2Fs107%2Fc%2F1
-[/us/pl/103/328/s107/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328%2Fs107%2Fc%2F2
+[/us/pl/103/328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328
+[/us/pl/103/328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328
 [/us/pl/95/630/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs2101
 [/us/usc/t12/s375b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs375b
 

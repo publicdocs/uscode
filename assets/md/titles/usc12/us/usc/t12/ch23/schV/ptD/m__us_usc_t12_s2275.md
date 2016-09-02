@@ -19,7 +19,7 @@
 
     (b) For the purpose of conducting program evaluations required in subsection (a) of this section, the Comptroller General or his duly authorized representatives shall have access to and the right to examine all books, documents, papers, records, or other recorded information within the possession or control of the Federal land banks and Federal land bank associations, Federal intermediate credit banks and production credit associations and banks for cooperatives.
 
-([Pub. L. 92–181, title V, § 5][/us/pl/92/181/s5].44, formerly § 5.30, as added [Pub. L. 96–592, title V, § 509][/us/pl/96/592/s509], Dec. 24, 1980, [94 Stat. 3450][/us/stat/94/3450]; renumbered § 5.44, [Pub. L. 99–205, title II, § 205(a)(2)][/us/pl/99/205/s205/a/2], Dec. 23, 1985, [99 Stat. 1703][/us/stat/99/1703]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
+([Pub. L. 92–181, title V][/us/pl/92/181/tV], § 5.44, formerly § 5.30, as added [Pub. L. 96–592, title V][/us/pl/96/592/tV], § 509, Dec. 24, 1980, [94 Stat. 3450][/us/stat/94/3450]; renumbered § 5.44, [Pub. L. 99–205, title II][/us/pl/99/205/tII], § 205(a)(2), Dec. 23, 1985, [99 Stat. 1703][/us/stat/99/1703]; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
 
  __References in Text__ 
 
@@ -42,12 +42,12 @@
 ----------
 ----------
 
-[/us/pl/92/181/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs5
-[/us/pl/96/592/s509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592%2Fs509
+[/us/pl/92/181/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtV
+[/us/pl/96/592/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592%2FtV
 [/us/stat/94/3450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3450
-[/us/pl/99/205/s205/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2Fs205%2Fa%2F2
+[/us/pl/99/205/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2FtII
 [/us/stat/99/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1703
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
 [/us/pl/96/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592
 [/us/stat/94/3437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3437

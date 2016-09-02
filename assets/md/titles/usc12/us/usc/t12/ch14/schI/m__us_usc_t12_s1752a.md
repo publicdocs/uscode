@@ -51,7 +51,7 @@
 
         The financial transactions of the Administration shall be subject to audit by the Government Accountability Office in accordance with the principles and procedures applicable to commercial corporate transactions and under such rules and regulations as may be prescribed by the Comptroller General of the United States. The audit shall be conducted at the place or places where the accounts of the Administration are kept.
 
-([June 26, 1934, ch. 750][/us/act/1934-06-26/ch750], title I, § 102, formerly § 3, as added [Pub. L. 86–354, § 1][/us/pl/86/354/s1], Sept. 22, 1959, [73 Stat. 628][/us/stat/73/628]; amended [Pub. L. 91–206, § 3][/us/pl/91/206/s3], Mar. 10, 1970, [84 Stat. 49][/us/stat/84/49]; renumbered title I, § 102, [Pub. L. 91–468, § 1(2)][/us/pl/91/468/s1/2], Oct. 19, 1970, [84 Stat. 994][/us/stat/84/994]; amended [Pub. L. 95–630, title V, § 501][/us/pl/95/630/s501], Nov. 10, 1978, [92 Stat. 3680][/us/stat/92/3680]; [Pub. L. 97–320, title V, § 502][/us/pl/97/320/s502], Oct. 15, 1982, [96 Stat. 1528][/us/stat/96/1528]; [Pub. L. 105–219, title II, § 204][/us/pl/105/219/s204], Aug. 7, 1998, [112 Stat. 922][/us/stat/112/922]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
+([June 26, 1934, ch. 750][/us/act/1934-06-26/ch750], title I, § 102, formerly § 3, as added [Pub. L. 86–354][/us/pl/86/354], § 1, Sept. 22, 1959, [73 Stat. 628][/us/stat/73/628]; amended [Pub. L. 91–206][/us/pl/91/206], § 3, Mar. 10, 1970, [84 Stat. 49][/us/stat/84/49]; renumbered title I, § 102, [Pub. L. 91–468][/us/pl/91/468], § 1(2), Oct. 19, 1970, [84 Stat. 994][/us/stat/84/994]; amended [Pub. L. 95–630, title V][/us/pl/95/630/tV], § 501, Nov. 10, 1978, [92 Stat. 3680][/us/stat/92/3680]; [Pub. L. 97–320, title V][/us/pl/97/320/tV], § 502, Oct. 15, 1982, [96 Stat. 1528][/us/stat/96/1528]; [Pub. L. 105–219, title II][/us/pl/105/219/tII], § 204, Aug. 7, 1998, [112 Stat. 922][/us/stat/112/922]; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
 
  __Prior Provisions__ 
 
@@ -83,7 +83,7 @@
 
  __Transfer of Functions__ 
 
-[Pub. L. 91–206, § 6][/us/pl/91/206/s6], Mar. 10, 1970, [84 Stat. 51][/us/stat/84/51], provided that:
+[Pub. L. 91–206][/us/pl/91/206], § 6, Mar. 10, 1970, [84 Stat. 51][/us/stat/84/51], provided that:
 
 >     “(a) All functions, property, records, and personnel of the Bureau of Federal Credit Unions are transferred to the National Credit Union Administration created by this Act \[which generally amended this chapter\].
 
@@ -91,7 +91,7 @@
 
  __Study and Report on Differing Regulatory Treatment__ 
 
-[Pub. L. 105–219, title IV, § 401][/us/pl/105/219/s401], Aug. 7, 1998, [112 Stat. 934][/us/stat/112/934], provided that:
+[Pub. L. 105–219, title IV][/us/pl/105/219/tIV], § 401, Aug. 7, 1998, [112 Stat. 934][/us/stat/112/934], provided that:
 
 >     “(a)  __Study__  __.—__ 
 
@@ -107,7 +107,7 @@
 
  __Study of Corporate Credit Unions__ 
 
-[Pub. L. 104–208, div. A, title II, § 2606][/us/pl/104/208/s2606], Sept. 30, 1996, [110 Stat. 3009–473][/us/stat/110/3009-473], provided that:
+[Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], § 2606, Sept. 30, 1996, [110 Stat. 3009–473][/us/stat/110/3009-473], provided that:
 
 >     “(a)  __Definitions__  __.—__ 
 
@@ -173,11 +173,11 @@
 
  __Study of Credit Union System by GAO__ 
 
-    [Pub. L. 101–73, title XII, § 1201][/us/pl/101/73/s1201], Aug. 9, 1989, [103 Stat. 519][/us/stat/103/519], directed Comptroller General of the United States to conduct a comprehensive study of Nation’s credit union system and before the close of the 18-month period beginning on Aug. 9, 1989, to submit to Committee on Banking, Finance and Urban Affairs of House of Representatives and Committee on Banking, Housing, and Urban Affairs of Senate a final report containing a detailed statement of findings and conclusions, including recommendations for such administrative and legislative action as Comptroller General deemed advisable.
+    [Pub. L. 101–73, title XII][/us/pl/101/73/tXII], § 1201, Aug. 9, 1989, [103 Stat. 519][/us/stat/103/519], directed Comptroller General of the United States to conduct a comprehensive study of Nation’s credit union system and before the close of the 18-month period beginning on Aug. 9, 1989, to submit to Committee on Banking, Finance and Urban Affairs of House of Representatives and Committee on Banking, Housing, and Urban Affairs of Senate a final report containing a detailed statement of findings and conclusions, including recommendations for such administrative and legislative action as Comptroller General deemed advisable.
 
  __Federally Chartered Central Credit Unions; Report to Congress__ 
 
-    [Pub. L. 86–354, § 3][/us/pl/86/354/s3], Sept. 22, 1959, [73 Stat. 639][/us/stat/73/639], directed Director of Bureau of Federal Credit Unions to make a study of desirability of providing for federally chartered central credit unions and to submit to Secretary of Health, Education, and Welfare, for transmission to Congress on or before Apr. 15, 1960, a report of results thereof and such recommendations for legislation thereon as Director deemed appropriate.
+    [Pub. L. 86–354][/us/pl/86/354], § 3, Sept. 22, 1959, [73 Stat. 639][/us/stat/73/639], directed Director of Bureau of Federal Credit Unions to make a study of desirability of providing for federally chartered central credit unions and to submit to Secretary of Health, Education, and Welfare, for transmission to Congress on or before Apr. 15, 1960, a report of results thereof and such recommendations for legislation thereon as Director deemed appropriate.
 
 ----------
 
@@ -187,19 +187,19 @@
 ----------
 
 [/us/act/1934-06-26/ch750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-26%2Fch750
-[/us/pl/86/354/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F354%2Fs1
+[/us/pl/86/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F354
 [/us/stat/73/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F628
-[/us/pl/91/206/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F206%2Fs3
+[/us/pl/91/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F206
 [/us/stat/84/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F49
-[/us/pl/91/468/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F468%2Fs1%2F2
+[/us/pl/91/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F468
 [/us/stat/84/994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F994
-[/us/pl/95/630/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs501
+[/us/pl/95/630/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtV
 [/us/stat/92/3680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3680
-[/us/pl/97/320/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs502
+[/us/pl/97/320/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2FtV
 [/us/stat/96/1528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1528
-[/us/pl/105/219/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F219%2Fs204
+[/us/pl/105/219/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F219%2FtII
 [/us/stat/112/922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F922
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
 [/us/act/1948-06-29/ch711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-29%2Fch711
 [/us/stat/62/1091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1091
@@ -213,17 +213,17 @@
 [/us/pl/95/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630
 [/us/pl/95/630/s509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs509
 [/us/usc/t12/s1752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1752
-[/us/pl/91/206/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F206%2Fs6
+[/us/pl/91/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F206
 [/us/stat/84/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F51
-[/us/pl/105/219/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F219%2Fs401
+[/us/pl/105/219/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F219%2FtIV
 [/us/stat/112/934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F934
-[/us/pl/104/208/s2606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2606
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-473
 [/us/usc/t12/s1783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1783
 [/us/usc/t12/s1782/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1782%2Fc
-[/us/pl/101/73/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs1201
+[/us/pl/101/73/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtXII
 [/us/stat/103/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F519
-[/us/pl/86/354/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F354%2Fs3
+[/us/pl/86/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F354
 [/us/stat/73/639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F639
 
 

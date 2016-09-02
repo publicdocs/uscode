@@ -357,19 +357,19 @@
 
     For purposes of sections 1843 and 1844 of this title, the term “insurance company” includes any person engaged in the business of insurance to the extent of such activities.
 
-([May 9, 1956, ch. 240, § 2][/us/act/1956-05-09/ch240/s2], [70 Stat. 133][/us/stat/70/133]; [Pub. L. 89–485][/us/pl/89/485], §§ 1–6, July 1, 1966, [80 Stat. 236][/us/stat/80/236], 237; [Pub. L. 91–607, title I, § 101][/us/pl/91/607/s101], Dec. 31, 1970, [84 Stat. 1760][/us/stat/84/1760]; [Pub. L. 95–188, title III, § 301(b)][/us/pl/95/188/s301/b], Nov. 16, 1977, [91 Stat. 1389][/us/stat/91/1389]; [Pub. L. 95–369, § 8(e)][/us/pl/95/369/s8/e], Sept. 17, 1978, [92 Stat. 623][/us/stat/92/623]; [Pub. L. 97–320, title I, § 118(b)][/us/pl/97/320/s118/b], title III, § 333, title IV, § 404(d)(1), Oct. 15, 1982, [96 Stat. 1479][/us/stat/96/1479], 1504, 1512; [Pub. L. 100–86, title I, § 101(a)][/us/pl/100/86/s101/a], (e), title II, § 205(a), Aug. 10, 1987, [101 Stat. 554][/us/stat/101/554], 562, 584; [Pub. L. 101–73, title VI, § 602(a)][/us/pl/101/73/s602/a], Aug. 9, 1989, [103 Stat. 409][/us/stat/103/409]; [Pub. L. 103–328, title I, § 101(c)][/us/pl/103/328/s101/c], Sept. 29, 1994, [108 Stat. 2341][/us/stat/108/2341]; [Pub. L. 104–208, div. A, title II][/us/pl/104/208], §§ 2207, 2208(b), 2304(b), 2610, 2704(d)(17), Sept. 30, 1996, [110 Stat. 3009–406][/us/stat/110/3009-406], 3009–408, 3009–425, 3009–475, 3009–495; [Pub. L. 106–102, title I][/us/pl/106/102], §§ 103(c)(1), 107(c), 119, title VII, § 724, Nov. 12, 1999, [113 Stat. 1351][/us/stat/113/1351], 1359, 1373, 1471; [Pub. L. 108–386, § 8(c)(1)][/us/pl/108/386/s8/c/1], Oct. 30, 2004, [118 Stat. 2231][/us/stat/118/2231]; [Pub. L. 109–171, title II, § 2102(b)][/us/pl/109/171/s2102/b], Feb. 8, 2006, [120 Stat. 9][/us/stat/120/9]; [Pub. L. 109–173, § 9(h)(1)][/us/pl/109/173/s9/h/1], Feb. 15, 2006, [119 Stat. 3618][/us/stat/119/3618]; [Pub. L. 109–351, title VII][/us/pl/109/351], §§ 706, 727(a), Oct. 13, 2006, [120 Stat. 1987][/us/stat/120/1987], 2003; [Pub. L. 111–203, title III, § 354(1)][/us/pl/111/203/s354/1], title VI, §§ 623(b)(2), 628, July 21, 2010, [124 Stat. 1546][/us/stat/124/1546], 1635, 1640.)
+([May 9, 1956, ch. 240][/us/act/1956-05-09/ch240], § 2, [70 Stat. 133][/us/stat/70/133]; [Pub. L. 89–485][/us/pl/89/485], §§ 1–6, July 1, 1966, [80 Stat. 236][/us/stat/80/236], 237; [Pub. L. 91–607, title I][/us/pl/91/607/tI], § 101, Dec. 31, 1970, [84 Stat. 1760][/us/stat/84/1760]; [Pub. L. 95–188, title III][/us/pl/95/188/tIII], § 301(b), Nov. 16, 1977, [91 Stat. 1389][/us/stat/91/1389]; [Pub. L. 95–369][/us/pl/95/369], § 8(e), Sept. 17, 1978, [92 Stat. 623][/us/stat/92/623]; [Pub. L. 97–320, title I][/us/pl/97/320/tI], § 118(b), title III, § 333, title IV, § 404(d)(1), Oct. 15, 1982, [96 Stat. 1479][/us/stat/96/1479], 1504, 1512; [Pub. L. 100–86, title I][/us/pl/100/86/tI], § 101(a), (e), title II, § 205(a), Aug. 10, 1987, [101 Stat. 554][/us/stat/101/554], 562, 584; [Pub. L. 101–73, title VI][/us/pl/101/73/tVI], § 602(a), Aug. 9, 1989, [103 Stat. 409][/us/stat/103/409]; [Pub. L. 103–328, title I][/us/pl/103/328/tI], § 101(c), Sept. 29, 1994, [108 Stat. 2341][/us/stat/108/2341]; [Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], §§ 2207, 2208(b), 2304(b), 2610, 2704(d)(17), Sept. 30, 1996, [110 Stat. 3009–406][/us/stat/110/3009-406], 3009–408, 3009–425, 3009–475, 3009–495; [Pub. L. 106–102, title I][/us/pl/106/102/tI], §§ 103(c)(1), 107(c), 119, title VII, § 724, Nov. 12, 1999, [113 Stat. 1351][/us/stat/113/1351], 1359, 1373, 1471; [Pub. L. 108–386][/us/pl/108/386], § 8(c)(1), Oct. 30, 2004, [118 Stat. 2231][/us/stat/118/2231]; [Pub. L. 109–171, title II][/us/pl/109/171/tII], § 2102(b), Feb. 8, 2006, [120 Stat. 9][/us/stat/120/9]; [Pub. L. 109–173][/us/pl/109/173], § 9(h)(1), Feb. 15, 2006, [119 Stat. 3618][/us/stat/119/3618]; [Pub. L. 109–351, title VII][/us/pl/109/351/tVII], §§ 706, 727(a), Oct. 13, 2006, [120 Stat. 1987][/us/stat/120/1987], 2003; [Pub. L. 111–203, title III][/us/pl/111/203/tIII], § 354(1), title VI, §§ 623(b)(2), 628, July 21, 2010, [124 Stat. 1546][/us/stat/124/1546], 1635, 1640.)
 
  __References in Text__ 
 
     This chapter, referred to in subsecs. (a)(1), (4), (c), and (g) to (p), was in the original “this Act”, meaning [act May 9, 1956, ch. 240][/us/act/1956-05-09/ch240], [70 Stat. 133][/us/stat/70/133], known as the Bank Holding Company Act of 1956, which enacted this chapter and sections 1101 to 1103 of Title 26, Internal Revenue Code, and enacted provisions set out as notes under this section. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
-    The Federal Deposit Insurance Act, referred to in subsecs. (a)(5)(F) and (c)(2)(H)(i), is [act Sept. 21, 1950, ch. 967, § 2][/us/act/1950-09-21/ch967/s2], [64 Stat. 873][/us/stat/64/873], which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1811 of this title][/us/usc/t12/s1811] and Tables.
+    The Federal Deposit Insurance Act, referred to in subsecs. (a)(5)(F) and (c)(2)(H)(i), is [act Sept. 21, 1950, ch. 967][/us/act/1950-09-21/ch967], § 2, [64 Stat. 873][/us/stat/64/873], which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1811 of this title][/us/usc/t12/s1811] and Tables.
 
     Enactment of the Bank Holding Company Act Amendments of 1970, referred to in subsec. (b), means enactment of [Pub. L. 91–607][/us/pl/91/607], on Dec. 31, 1970. For classification of [Pub. L. 91–607][/us/pl/91/607], see Short Title of 1970 Amendment note below.
 
-    Section 25 of the Federal Reserve Act, referred to in subsec. (c)(2)(G), is classified to subchapter I (§ 601 et seq.) of chapter 6 of this title. Section 25(a) of the Federal Reserve Act, which is classified to subchapter II (§ 611 et seq.) of chapter 6 of this title, was renumbered section 25A of that act by [Pub. L. 102–242, title I, § 142(e)(2)][/us/pl/102/242/s142/e/2], Dec. 19, 1991, [105 Stat. 2281][/us/stat/105/2281].
+    Section 25 of the Federal Reserve Act, referred to in subsec. (c)(2)(G), is classified to subchapter I (§ 601 et seq.) of chapter 6 of this title. Section 25(a) of the Federal Reserve Act, which is classified to subchapter II (§ 611 et seq.) of chapter 6 of this title, was renumbered section 25A of that act by [Pub. L. 102–242, title I][/us/pl/102/242/tI], § 142(e)(2), Dec. 19, 1991, [105 Stat. 2281][/us/stat/105/2281].
 
-    Sections 1727 and 1730a of this title, referred to in subsec. (i)(4), were repealed by [Pub. L. 101–73, title IV, § 407][/us/pl/101/73/s407], Aug. 9, 1989, [103 Stat. 363][/us/stat/103/363].
+    Sections 1727 and 1730a of this title, referred to in subsec. (i)(4), were repealed by [Pub. L. 101–73, title IV][/us/pl/101/73/tIV], § 407, Aug. 9, 1989, [103 Stat. 363][/us/stat/103/363].
 
     A section 2(h)(2) company, referred to in subsec. (h)(3) to (5), is defined in subsec. (h)(2) of this section.
 
@@ -377,95 +377,95 @@
 
  __Amendments__ 
 
-    2010—Subsec. (c)(2)(F)(v). [Pub. L. 111–203, § 628][/us/pl/111/203/s628], inserted “, other than credit card loans that are made to businesses that meet the criteria for a small business concern to be eligible for business loans under regulations established by the Small Business Administration under part 121 of title 13, Code of Federal Regulations” before the period.
+    2010—Subsec. (c)(2)(F)(v). [Pub. L. 111–203][/us/pl/111/203], § 628, inserted “, other than credit card loans that are made to businesses that meet the criteria for a small business concern to be eligible for business loans under regulations established by the Small Business Administration under part 121 of title 13, Code of Federal Regulations” before the period.
 
-    Subsec. (j)(3). [Pub. L. 111–203, § 354(1)][/us/pl/111/203/s354/1], substituted “appropriate Federal banking agency” for “Director of the Office of Thrift Supervision”.
+    Subsec. (j)(3). [Pub. L. 111–203][/us/pl/111/203], § 354(1), substituted “appropriate Federal banking agency” for “Director of the Office of Thrift Supervision”.
 
-    Subsec. (o)(4)(D), (E). [Pub. L. 111–203, § 623(b)(2)][/us/pl/111/203/s623/b/2], added subpars. (D) and (E).
+    Subsec. (o)(4)(D), (E). [Pub. L. 111–203][/us/pl/111/203], § 623(b)(2), added subpars. (D) and (E).
 
-    2006—Subsec. (c)(2)(I), (J). [Pub. L. 109–351, § 727(a)(1)][/us/pl/109/351/s727/a/1], struck out subpars. (I) and (J), which related to the Investors Fiduciary Trust Company, located in Kansas City, Missouri, and certain savings banks as defined by [section 1831(g) of this title][/us/usc/t12/s1831/g], respectively.
+    2006—Subsec. (c)(2)(I), (J). [Pub. L. 109–351][/us/pl/109/351], § 727(a)(1), struck out subpars. (I) and (J), which related to the Investors Fiduciary Trust Company, located in Kansas City, Missouri, and certain savings banks as defined by [section 1831(g) of this title][/us/usc/t12/s1831/g], respectively.
 
-    Subsec. (g)(2). [Pub. L. 109–351, § 706][/us/pl/109/351/s706], inserted before period at end “, unless the Board determines that such treatment is not appropriate in light of the facts and circumstances of the case and the purposes of this chapter”.
+    Subsec. (g)(2). [Pub. L. 109–351][/us/pl/109/351], § 706, inserted before period at end “, unless the Board determines that such treatment is not appropriate in light of the facts and circumstances of the case and the purposes of this chapter”.
 
     Subsec. (j)(2). [Pub. L. 109–173][/us/pl/109/173] substituted “Deposit Insurance Fund” for “Savings Association Insurance Fund”.
 
-    [Pub. L. 109–171][/us/pl/109/171] repealed [Pub. L. 104–208, § 2704(d)(17)][/us/pl/104/208/s2704/d/17]. See 1996 Amendment note below.
+    [Pub. L. 109–171][/us/pl/109/171] repealed [Pub. L. 104–208][/us/pl/104/208], § 2704(d)(17). See 1996 Amendment note below.
 
-    Subsec. (m). [Pub. L. 109–351, § 727(a)(2)][/us/pl/109/351/s727/a/2], substituted “(m) \[Repealed\]” for subsec. (m), which defined “qualified savings bank”.
+    Subsec. (m). [Pub. L. 109–351][/us/pl/109/351], § 727(a)(2), substituted “(m) \[Repealed\]” for subsec. (m), which defined “qualified savings bank”.
 
     2004—Subsec. (c)(3). [Pub. L. 108–386][/us/pl/108/386] struck out heading and text of par. (3). Text read as follows: “The term ‘District bank’ means any bank operating under the Code of Law for the District of Columbia”.
 
-    1999—Subsec. (a)(5)(E)(i). [Pub. L. 106–102, § 724][/us/pl/106/102/s724], inserted “1 or more” before “thrift institutions”.
+    1999—Subsec. (a)(5)(E)(i). [Pub. L. 106–102][/us/pl/106/102], § 724, inserted “1 or more” before “thrift institutions”.
 
-    Subsec. (c)(2)(H). [Pub. L. 106–102, § 107(c)][/us/pl/106/102/s107/c], inserted “, or that is otherwise permissible for a bank controlled by a company described in [section 1843(f)(1) of this title][/us/usc/t12/s1843/f/1]” before period at end of concluding provisions.
+    Subsec. (c)(2)(H). [Pub. L. 106–102][/us/pl/106/102], § 107(c), inserted “, or that is otherwise permissible for a bank controlled by a company described in [section 1843(f)(1) of this title][/us/usc/t12/s1843/f/1]” before period at end of concluding provisions.
 
-    Subsec. (n). [Pub. L. 106–102, § 103(c)(1)(A)][/us/pl/106/102/s103/c/1/A], inserted “ ‘depository institution’,” after “the terms”.
+    Subsec. (n). [Pub. L. 106–102][/us/pl/106/102], § 103(c)(1)(A), inserted “ ‘depository institution’,” after “the terms”.
 
-    Subsec. (o)(1)(A). [Pub. L. 106–102, § 119][/us/pl/106/102/s119], substituted “section 38” for “section 38(b)”.
+    Subsec. (o)(1)(A). [Pub. L. 106–102][/us/pl/106/102], § 119, substituted “section 38” for “section 38(b)”.
 
-    Subsecs. (p), (q). [Pub. L. 106–102, § 103(c)(1)(B)][/us/pl/106/102/s103/c/1/B], added subsecs. (p) and (q).
+    Subsecs. (p), (q). [Pub. L. 106–102][/us/pl/106/102], § 103(c)(1)(B), added subsecs. (p) and (q).
 
-    1996—Subsec. (b). [Pub. L. 104–208, § 2610(1)][/us/pl/104/208/s2610/1], inserted “, and shall not include a qualified family partnership” after “by any State”.
+    1996—Subsec. (b). [Pub. L. 104–208][/us/pl/104/208], § 2610(1), inserted “, and shall not include a qualified family partnership” after “by any State”.
 
-    Subsec. (c)(2)(F). [Pub. L. 104–208, § 2304(b)][/us/pl/104/208/s2304/b], inserted “, including an institution that accepts collateral for extensions of credit by holding deposits under $100,000, and by other means” after “An institution” in introductory provisions.
+    Subsec. (c)(2)(F). [Pub. L. 104–208][/us/pl/104/208], § 2304(b), inserted “, including an institution that accepts collateral for extensions of credit by holding deposits under $100,000, and by other means” after “An institution” in introductory provisions.
 
-    Subsec. (g)(3). [Pub. L. 104–208, § 2207][/us/pl/104/208/s2207], struck out par. (3) which read as follows: “shares transferred after January 1, 1966, by any bank holding company (or by any company which, but for such transfer, would be a bank holding company) directly or indirectly to any transferee that is indebted to the transferor, or has one or more officers, directors, trustees, or beneficiaries in common with or subject to control by the transferor, shall be deemed to be indirectly owned or controlled by the transferor unless the Board, after opportunity for hearing, determines that the transferor is not in fact capable of controlling the transferee.”
+    Subsec. (g)(3). [Pub. L. 104–208][/us/pl/104/208], § 2207, struck out par. (3) which read as follows: “shares transferred after January 1, 1966, by any bank holding company (or by any company which, but for such transfer, would be a bank holding company) directly or indirectly to any transferee that is indebted to the transferor, or has one or more officers, directors, trustees, or beneficiaries in common with or subject to control by the transferor, shall be deemed to be indirectly owned or controlled by the transferor unless the Board, after opportunity for hearing, determines that the transferor is not in fact capable of controlling the transferee.”
 
-    Subsec. (j)(2). [Pub. L. 104–208, § 2704(d)(17)][/us/pl/104/208/s2704/d/17], which directed substitution of “Deposit Insurance Fund” for “Savings Association Insurance Fund”, was repealed by [Pub. L. 109–171][/us/pl/109/171]. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
+    Subsec. (j)(2). [Pub. L. 104–208][/us/pl/104/208], § 2704(d)(17), which directed substitution of “Deposit Insurance Fund” for “Savings Association Insurance Fund”, was repealed by [Pub. L. 109–171][/us/pl/109/171]. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
-    Subsec. (o)(1). [Pub. L. 104–208, § 2208(b)(1)][/us/pl/104/208/s2208/b/1], added heading and text of par. (1) and struck out heading and text of former par. (1). Text read as follows: “The term ‘adequately capitalized’ means a level of capitalization which meets or exceeds all applicable Federal regulatory capital standards.”
+    Subsec. (o)(1). [Pub. L. 104–208][/us/pl/104/208], § 2208(b)(1), added heading and text of par. (1) and struck out heading and text of former par. (1). Text read as follows: “The term ‘adequately capitalized’ means a level of capitalization which meets or exceeds all applicable Federal regulatory capital standards.”
 
-    Subsec. (o)(8), (9). [Pub. L. 104–208, § 2208(b)(2)][/us/pl/104/208/s2208/b/2], added pars. (8) and (9).
+    Subsec. (o)(8), (9). [Pub. L. 104–208][/us/pl/104/208], § 2208(b)(2), added pars. (8) and (9).
 
-    Subsec. (o)(10). [Pub. L. 104–208, § 2610(2)][/us/pl/104/208/s2610/2], added par. (10).
+    Subsec. (o)(10). [Pub. L. 104–208][/us/pl/104/208], § 2610(2), added par. (10).
 
     1994—Subsecs. (n), (o). [Pub. L. 103–328][/us/pl/103/328] added subsecs. (n) and (o).
 
     1989—Subsec. (j). [Pub. L. 101–73][/us/pl/101/73] amended subsec. (j) generally, substituting provisions defining “saving association” or “insured institution” for provisions defining “insured institution”.
 
-    1987—Subsec. (a)(5)(E). [Pub. L. 100–86, § 101(e)][/us/pl/100/86/s101/e], amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “No company is a bank holding company by virtue of its ownership or control of any State chartered bank or trust company which is wholly owned by thrift institutions and which restricts itself to the acceptance of deposits from thrift institutions, deposits arising out of the corporate business of its owners, and deposits of public moneys.”
+    1987—Subsec. (a)(5)(E). [Pub. L. 100–86][/us/pl/100/86], § 101(e), amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “No company is a bank holding company by virtue of its ownership or control of any State chartered bank or trust company which is wholly owned by thrift institutions and which restricts itself to the acceptance of deposits from thrift institutions, deposits arising out of the corporate business of its owners, and deposits of public moneys.”
 
-    Subsec. (c). [Pub. L. 100–86, § 101(a)(1)][/us/pl/100/86/s101/a/1], amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “ ‘Bank’ means any institution organized under the laws of the United States, any State of the United States, the District of Columbia, any territory of the United States, Puerto Rico, Guam, American Samoa, or the Virgin Islands, except an institution the accounts of which are insured by the Federal Savings and Loan Insurance Corporation or an institution chartered by the Federal Home Loan Bank Board, which (1) accepts deposits that the depositor has a legal right to withdraw on demand, and (2) engages in the business of making commercial loans. Such term does not include any organization operating under section 25 or section 25 (a) of the Federal Reserve Act, or any organization which does not do business within the United States except as an incident to its activities outside the United States. ‘District bank’ means any bank organized or operating under the Code of Law for the District of Columbia. The term ‘bank’ also includes a State chartered bank or a national banking association which is owned exclusively (except to the extent directors’ qualifying shares are required by law) by other depository institutions or by a bank holding company which is owned exclusively by other depository institutions and is organized to engage exclusively in providing services for other depository institutions and their officers, directors, and employees.”
+    Subsec. (c). [Pub. L. 100–86][/us/pl/100/86], § 101(a)(1), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “ ‘Bank’ means any institution organized under the laws of the United States, any State of the United States, the District of Columbia, any territory of the United States, Puerto Rico, Guam, American Samoa, or the Virgin Islands, except an institution the accounts of which are insured by the Federal Savings and Loan Insurance Corporation or an institution chartered by the Federal Home Loan Bank Board, which (1) accepts deposits that the depositor has a legal right to withdraw on demand, and (2) engages in the business of making commercial loans. Such term does not include any organization operating under section 25 or section 25 (a) of the Federal Reserve Act, or any organization which does not do business within the United States except as an incident to its activities outside the United States. ‘District bank’ means any bank organized or operating under the Code of Law for the District of Columbia. The term ‘bank’ also includes a State chartered bank or a national banking association which is owned exclusively (except to the extent directors’ qualifying shares are required by law) by other depository institutions or by a bank holding company which is owned exclusively by other depository institutions and is organized to engage exclusively in providing services for other depository institutions and their officers, directors, and employees.”
 
-    Subsec. (h)(2). [Pub. L. 100–86, § 205(a)][/us/pl/100/86/s205/a], added par. (2) and struck out former par. (2) which read as follows: “The prohibitions of [section 1843 of this title][/us/usc/t12/s1843] shall not apply to shares of any company organized under the laws of a foreign country (or to shares held by such company in any company engaged in the same general line of business as the investor company or in a business related to the business of the investor company) that is principally engaged in business outside the United States if such shares are held or acquired by a bank holding company organized under the laws of a foreign country that is principally engaged in the banking business outside the United States, except that (1) such exempt foreign company (A) may engage in or hold shares of a company engaged in the business of underwriting, selling or distributing securities in the United States only to the extent that a bank holding company may do so under this chapter and under regulations or orders issued by the Board under this chapter, and (B) may engage in the United States in any banking or financial operations or types of activities permitted under [section 1843(c)(8) of this title][/us/usc/t12/s1843/c/8] or in any order or regulation issued by the Board under such section only with the Board’s prior approval under that section, and (2) no domestic office or subsidiary of a bank holding company or subsidiary thereof holding shares of such company may extend credit to a domestic office or subsidiary of such exempt company on terms more favorable than those afforded similar borrowers in the United States.”
+    Subsec. (h)(2). [Pub. L. 100–86][/us/pl/100/86], § 205(a), added par. (2) and struck out former par. (2) which read as follows: “The prohibitions of [section 1843 of this title][/us/usc/t12/s1843] shall not apply to shares of any company organized under the laws of a foreign country (or to shares held by such company in any company engaged in the same general line of business as the investor company or in a business related to the business of the investor company) that is principally engaged in business outside the United States if such shares are held or acquired by a bank holding company organized under the laws of a foreign country that is principally engaged in the banking business outside the United States, except that (1) such exempt foreign company (A) may engage in or hold shares of a company engaged in the business of underwriting, selling or distributing securities in the United States only to the extent that a bank holding company may do so under this chapter and under regulations or orders issued by the Board under this chapter, and (B) may engage in the United States in any banking or financial operations or types of activities permitted under [section 1843(c)(8) of this title][/us/usc/t12/s1843/c/8] or in any order or regulation issued by the Board under such section only with the Board’s prior approval under that section, and (2) no domestic office or subsidiary of a bank holding company or subsidiary thereof holding shares of such company may extend credit to a domestic office or subsidiary of such exempt company on terms more favorable than those afforded similar borrowers in the United States.”
 
-    Subsec. (h)(3) to (5). [Pub. L. 100–86, § 205(a)][/us/pl/100/86/s205/a], added pars. (3) to (5).
+    Subsec. (h)(3) to (5). [Pub. L. 100–86][/us/pl/100/86], § 205(a), added pars. (3) to (5).
 
-    Subsec. (i). [Pub. L. 100–86, § 101(a)(2)][/us/pl/100/86/s101/a/2], amended subsec. (i) generally. Prior to amendment, subsec. (i) read as follows: “The term ‘thrift institution’ means (1) a domestic building and loan or savings and loan association, (2) a cooperative bank without capital stock organized and operated for mutual purposes and without profit, (3) a mutual savings bank not having capital stock represented by shares or (4) a Federal savings bank.”
+    Subsec. (i). [Pub. L. 100–86][/us/pl/100/86], § 101(a)(2), amended subsec. (i) generally. Prior to amendment, subsec. (i) read as follows: “The term ‘thrift institution’ means (1) a domestic building and loan or savings and loan association, (2) a cooperative bank without capital stock organized and operated for mutual purposes and without profit, (3) a mutual savings bank not having capital stock represented by shares or (4) a Federal savings bank.”
 
-    Subsecs. (j) to (m). [Pub. L. 100–86, § 101(a)(3)][/us/pl/100/86/s101/a/3], added subsecs. (j) to (m).
+    Subsecs. (j) to (m). [Pub. L. 100–86][/us/pl/100/86], § 101(a)(3), added subsecs. (j) to (m).
 
-    1982—Subsec. (c). [Pub. L. 97–320, § 404(d)(1)][/us/pl/97/320/s404/d/1], inserted references to State chartered banks and national banking associations as being included in definition of “bank”.
+    1982—Subsec. (c). [Pub. L. 97–320][/us/pl/97/320], § 404(d)(1), inserted references to State chartered banks and national banking associations as being included in definition of “bank”.
 
-    [Pub. L. 97–320, § 333][/us/pl/97/320/s333], excepted from term “bank” an institution the accounts of which are insured by the Federal Savings and Loan Insurance Corporation or an institution chartered by the Federal Home Loan Bank Board.
+    [Pub. L. 97–320][/us/pl/97/320], § 333, excepted from term “bank” an institution the accounts of which are insured by the Federal Savings and Loan Insurance Corporation or an institution chartered by the Federal Home Loan Bank Board.
 
-    Subsec. (i)(4). [Pub. L. 97–320, § 118(b)][/us/pl/97/320/s118/b], added cl. (4).
+    Subsec. (i)(4). [Pub. L. 97–320][/us/pl/97/320], § 118(b), added cl. (4).
 
     1978—Subsec. (h). [Pub. L. 95–369][/us/pl/95/369] designated existing provisions as par. (1), substituted “Except as provided by paragraph (2), the application” for “The application”; struck out a proviso holding the prohibitions of section 1843 not applicable to shares of any company organized under the laws of a foreign country not doing business within the United States, if such shares are held or acquired by a bank holding company principally engaged in banking business outside the United States; and added par. (2).
 
     1977—Subsec. (a)(5)(D). [Pub. L. 95–188][/us/pl/95/188] authorized the Board to extend the time for disposition of acquired shares for not more than one year at a time and three years in the aggregate.
 
-    1970—Subsec. (a). [Pub. L. 91–607, § 101(a)][/us/pl/91/607/s101/a], in revising the provisions, added par. (1) definition of bank holding company; incorporated provisions of former cl. (1) in provisions designated as par. (2)(A), inserting text respecting company acting through one or more other persons, substituting “power to vote” for “holds with power to vote” and provision for voting of any class of voting securities of the bank or company for prior provision for voting of voting shares of each of two or more banks; incorporated former provisions of former cl. (2) in provisions designated as par. (2)(B), providing for election of trustees and substituting bank or company for directors of each of two or more banks designated cl. (A) as par. (5)(A), inserting provision that acquisition of shares shall not be deemed acquisition of shares in a fiduciary capacity if the banks or company has sole discretionary authority to exercise voting rights with respect thereto, and making such limitation applicable to bank or company acquiring the shares prior to Dec. 31, 1970, where there is right of divestiture of voting rights and there is a failure to exercise that right within reasonable time not exceeding one year after Dec. 31, 1970; incorporated former cls. (B) and (C) in provisions designated as pars. (5)(B) and (C); added par. (5)(D) to (F); and designated concluding part of first sentence as par. (6), substituting “from the date on which” for “from the date as of which”.
+    1970—Subsec. (a). [Pub. L. 91–607][/us/pl/91/607], § 101(a), in revising the provisions, added par. (1) definition of bank holding company; incorporated provisions of former cl. (1) in provisions designated as par. (2)(A), inserting text respecting company acting through one or more other persons, substituting “power to vote” for “holds with power to vote” and provision for voting of any class of voting securities of the bank or company for prior provision for voting of voting shares of each of two or more banks; incorporated former provisions of former cl. (2) in provisions designated as par. (2)(B), providing for election of trustees and substituting bank or company for directors of each of two or more banks designated cl. (A) as par. (5)(A), inserting provision that acquisition of shares shall not be deemed acquisition of shares in a fiduciary capacity if the banks or company has sole discretionary authority to exercise voting rights with respect thereto, and making such limitation applicable to bank or company acquiring the shares prior to Dec. 31, 1970, where there is right of divestiture of voting rights and there is a failure to exercise that right within reasonable time not exceeding one year after Dec. 31, 1970; incorporated former cls. (B) and (C) in provisions designated as pars. (5)(B) and (C); added par. (5)(D) to (F); and designated concluding part of first sentence as par. (6), substituting “from the date on which” for “from the date as of which”.
 
-    Subsec. (b). [Pub. L. 91–607, § 101(b)][/us/pl/91/607/s101/b], redefined term “company” to include “partnership”, which has been expressly excluded, and inserted definition of “company covered in 1970”.
+    Subsec. (b). [Pub. L. 91–607][/us/pl/91/607], § 101(b), redefined term “company” to include “partnership”, which has been expressly excluded, and inserted definition of “company covered in 1970”.
 
-    Subsec. (c). [Pub. L. 91–607, § 101(c)][/us/pl/91/607/s101/c], redefined term “bank” to mean any institution organized under Federal, State, District of Columbia, etc., laws, designated existing provisions as cl. (1), added cl. (2), and excepted from exclusion from such term an organization which does business within the United States as an incident to its activities outside the United States.
+    Subsec. (c). [Pub. L. 91–607][/us/pl/91/607], § 101(c), redefined term “bank” to mean any institution organized under Federal, State, District of Columbia, etc., laws, designated existing provisions as cl. (1), added cl. (2), and excepted from exclusion from such term an organization which does business within the United States as an incident to its activities outside the United States.
 
-    Subsec. (d)(3). [Pub. L. 91–607, § 101(d)][/us/pl/91/607/s101/d], added cl. (3).
+    Subsec. (d)(3). [Pub. L. 91–607][/us/pl/91/607], § 101(d), added cl. (3).
 
-    Subsec. (i). [Pub. L. 91–607, § 101(e)][/us/pl/91/607/s101/e], added subsec. (i).
+    Subsec. (i). [Pub. L. 91–607][/us/pl/91/607], § 101(e), added subsec. (i).
 
-    1966—Subsec. (a). [Pub. L. 89–485, § 1][/us/pl/89/485/s1], struck out provision placing within the classification of bank holding company any company for the benefit of whose shareholders or members 25 per centum or more of the voting shares of each of two or more banks or a bank holding company is held by trustees, struck out provision exempting from classification as bank holding companies any companies that are registered under the Investment Company Act of 1940, and were so registered prior to May 15, 1955 (or which is affiliated with any such company in such manner as to constitute an affiliated company within the meaning of that Act), unless that company (or affiliated company), as the case may be, directly owns 25 per centum or more of the voting shares of each of two or more banks, struck out provision exempting from classification as bank holding companies any companies having 80 per centum or more of their total assets composed of holdings in the field of agriculture, substituted voting shares for shares in the description of the securities the ownership or control of which, in a fiduciary capacity, would be exempted from causing the formation of a bank holding company, added “company” to “bank” as the business entities eligible for the fiduciary ownership exemption, and inserted reference in the fiduciary ownership exemption to pars. (2) and (3) of subsec. (g) of this section.
+    1966—Subsec. (a). [Pub. L. 89–485][/us/pl/89/485], § 1, struck out provision placing within the classification of bank holding company any company for the benefit of whose shareholders or members 25 per centum or more of the voting shares of each of two or more banks or a bank holding company is held by trustees, struck out provision exempting from classification as bank holding companies any companies that are registered under the Investment Company Act of 1940, and were so registered prior to May 15, 1955 (or which is affiliated with any such company in such manner as to constitute an affiliated company within the meaning of that Act), unless that company (or affiliated company), as the case may be, directly owns 25 per centum or more of the voting shares of each of two or more banks, struck out provision exempting from classification as bank holding companies any companies having 80 per centum or more of their total assets composed of holdings in the field of agriculture, substituted voting shares for shares in the description of the securities the ownership or control of which, in a fiduciary capacity, would be exempted from causing the formation of a bank holding company, added “company” to “bank” as the business entities eligible for the fiduciary ownership exemption, and inserted reference in the fiduciary ownership exemption to pars. (2) and (3) of subsec. (g) of this section.
 
-    Subsec. (b). [Pub. L. 89–485, § 2][/us/pl/89/485/s2], exempted from definition of “company” any trust which by its terms must terminate within twenty-five years or not later than twenty-one years and ten months after the death of individuals living on the effective date of the trust, and struck out the exemption formerly granted to nonprofit religious, charitable, and educational organizations.
+    Subsec. (b). [Pub. L. 89–485][/us/pl/89/485], § 2, exempted from definition of “company” any trust which by its terms must terminate within twenty-five years or not later than twenty-one years and ten months after the death of individuals living on the effective date of the trust, and struck out the exemption formerly granted to nonprofit religious, charitable, and educational organizations.
 
-    Subsec. (c). [Pub. L. 89–485, § 3][/us/pl/89/485/s3], substituted “any institution that accepts deposits that the depositor has a legal right to withdraw on demand” for “any national banking institution or any state bank, savings bank, or trust company” in the definition of “bank” and extended the exemption for foreign banking corporations to include “agreement” foreign banking corporations under section 25 of the Federal Reserve Act.
+    Subsec. (c). [Pub. L. 89–485][/us/pl/89/485], § 3, substituted “any institution that accepts deposits that the depositor has a legal right to withdraw on demand” for “any national banking institution or any state bank, savings bank, or trust company” in the definition of “bank” and extended the exemption for foreign banking corporations to include “agreement” foreign banking corporations under section 25 of the Federal Reserve Act.
 
-    Subsec. (d). [Pub. L. 89–485, § 4][/us/pl/89/485/s4], inserted provision relating to indirect ownership or control and the holding of power to vote to direct ownership or control as the methods by which the holding of 25 per centum or more of voting shares in a company will qualify that company as a subsidiary, and struck out provisions under which any company 25 per centum or more of whose voting shares are held by trustees for the benefit of the shareholders or members of a bank holding company qualifies as a subsidiary.
+    Subsec. (d). [Pub. L. 89–485][/us/pl/89/485], § 4, inserted provision relating to indirect ownership or control and the holding of power to vote to direct ownership or control as the methods by which the holding of 25 per centum or more of voting shares in a company will qualify that company as a subsidiary, and struck out provisions under which any company 25 per centum or more of whose voting shares are held by trustees for the benefit of the shareholders or members of a bank holding company qualifies as a subsidiary.
 
     Subsec. (g). [Pub. L. 89–485][/us/pl/89/485], §§ 5, 6, substituted provisions setting out treatment to be accorded shares owned or controlled by subsidiaries of bank holding companies, shares held or controlled by trustees for the benefit of companies, shareholders or members of companies, and employees of companies, and shares transferred after January 1, 1966, by bank holding companies to transferees that are indebted to the transferor or have one or more officers, directors, trustees, or beneficiaries in common with the transferor for provisions defining “agriculture”.
 
-    Subsec. (h). [Pub. L. 89–485, § 6][/us/pl/89/485/s6], added subsec. (h).
+    Subsec. (h). [Pub. L. 89–485][/us/pl/89/485], § 6, added subsec. (h).
 
  __Effective Date of 2010 Amendment__ 
 
@@ -497,31 +497,31 @@
 
  __Short Title of 1988 Amendment__ 
 
-[Pub. L. 100–418, title III, § 3401][/us/pl/100/418/s3401], Aug. 23, 1988, [102 Stat. 1384][/us/stat/102/1384], provided that: 
+[Pub. L. 100–418, title III][/us/pl/100/418/tIII], § 3401, Aug. 23, 1988, [102 Stat. 1384][/us/stat/102/1384], provided that: 
 
 > “This subtitle \[subtitle E (§§ 3401, 3402) of title III of [Pub. L. 100–418][/us/pl/100/418], amending [section 1843 of this title][/us/usc/t12/s1843]\] may be cited as the ‘Export Trading Company Act Amendments of 1988’.”
 
  __Short Title of 1982 Amendment__ 
 
-[Pub. L. 97–290, title II, § 201][/us/pl/97/290/s201], Oct. 8, 1982, [96 Stat. 1235][/us/stat/96/1235], provided that: 
+[Pub. L. 97–290, title II][/us/pl/97/290/tII], § 201, Oct. 8, 1982, [96 Stat. 1235][/us/stat/96/1235], provided that: 
 
 > “This title \[enacting [section 635a–4 of this title][/us/usc/t12/s635a–4], amending sections 372 and 1843 of this title, and enacting provisions set out as notes under [section 1843 of this title][/us/usc/t12/s1843]\] may be cited as the ‘Bank Export Services Act’.”
 
  __Short Title of 1970 Amendment__ 
 
-[Pub. L. 91–607, § 1][/us/pl/91/607/s1], Dec. 31, 1970, [84 Stat. 1760][/us/stat/84/1760], provided: 
+[Pub. L. 91–607][/us/pl/91/607], § 1, Dec. 31, 1970, [84 Stat. 1760][/us/stat/84/1760], provided: 
 
 > “That this Act \[enacting chapter 22 (§ 1971 et seq.) and [section 1850 of this title][/us/usc/t12/s1850] and sections 324b and 324c of former Title 31, Money and Finance, amending sections 1841 to 1843 and 1849 of this title and sections 324, 391 of former Title 31, repealing sections 316 and 458 of former Title 31, enacting provisions set out as notes under sections 317e and 391 of former Title 31, and amending provisions set out as a note under section 405a–1 of former Title 31\] may be cited as the ‘Bank Holding Company Act Amendments of 1970’.”
 
  __Short Title__ 
 
-[Act May 9, 1956, ch. 240, § 1][/us/act/1956-05-09/ch240/s1], [70 Stat. 133][/us/stat/70/133], provided: 
+[Act May 9, 1956, ch. 240][/us/act/1956-05-09/ch240], § 1, [70 Stat. 133][/us/stat/70/133], provided: 
 
 > “That this Act \[enacting this chapter and sections 1101 to 1103 of Title 26, Internal Revenue Code\] may be cited as the ‘Bank Holding Company Act of 1956’.”
 
  __Separability__ 
 
-[Act May 9, 1956, ch. 240, § 12][/us/act/1956-05-09/ch240/s12], [70 Stat. 146][/us/stat/70/146], provided that: 
+[Act May 9, 1956, ch. 240][/us/act/1956-05-09/ch240], § 12, [70 Stat. 146][/us/stat/70/146], provided that: 
 
 > “If any provision of this Act \[enacting this chapter and sections 1101 to 1103 of Title 26, Internal Revenue Code\], or the application of such provision to any person or circumstance, shall be held invalid, the remainder of the Act, and the application of such provision to persons or circumstances other than those to which it is held invalid, shall not be affected thereby.”
 
@@ -531,7 +531,7 @@
 
  __Transitional Rule for 1987 Amendment__ 
 
-[Pub. L. 100–86, title I, § 101(h)][/us/pl/100/86/s101/h], Aug. 10, 1987, [101 Stat. 563][/us/stat/101/563], provided that:
+[Pub. L. 100–86, title I][/us/pl/100/86/tI], § 101(h), Aug. 10, 1987, [101 Stat. 563][/us/stat/101/563], provided that:
 
 >     “(1)  __Delay in application of amendment to certain institutions__  __.—__ 
 
@@ -565,7 +565,7 @@
 
  __Moratorium on Certain Nonbanking Activities__ 
 
-    [Pub. L. 100–86, title II][/us/pl/100/86], §§ 201–203, Aug. 10, 1987, [101 Stat. 581–584][/us/stat/101/581-584], provided for the period of Mar. 6, 1987, to Mar. 1, 1988, a moratorium on certain nonbanking activities, including expansion of activities of foreign banks and authority of Federal banking agencies to authorize or allow certain security, insurance, or real estate activities.
+    [Pub. L. 100–86, title II][/us/pl/100/86/tII], §§ 201–203, Aug. 10, 1987, [101 Stat. 581–584][/us/stat/101/581-584], provided for the period of Mar. 6, 1987, to Mar. 1, 1988, a moratorium on certain nonbanking activities, including expansion of activities of foreign banks and authority of Federal banking agencies to authorize or allow certain security, insurance, or real estate activities.
 
 ----------
 
@@ -594,101 +594,101 @@
 [/us/usc/t12/s1843/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1843%2Fc
 [/us/usc/t12/s1817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1817
 [/us/usc/t12/s1818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1818
-[/us/act/1956-05-09/ch240/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-05-09%2Fch240%2Fs2
+[/us/act/1956-05-09/ch240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-05-09%2Fch240
 [/us/stat/70/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F133
 [/us/pl/89/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F485
 [/us/stat/80/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F236
-[/us/pl/91/607/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F607%2Fs101
+[/us/pl/91/607/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F607%2FtI
 [/us/stat/84/1760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1760
-[/us/pl/95/188/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F188%2Fs301%2Fb
+[/us/pl/95/188/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F188%2FtIII
 [/us/stat/91/1389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1389
-[/us/pl/95/369/s8/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F369%2Fs8%2Fe
+[/us/pl/95/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F369
 [/us/stat/92/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F623
-[/us/pl/97/320/s118/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs118%2Fb
+[/us/pl/97/320/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2FtI
 [/us/stat/96/1479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1479
-[/us/pl/100/86/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2Fs101%2Fa
+[/us/pl/100/86/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2FtI
 [/us/stat/101/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F554
-[/us/pl/101/73/s602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs602%2Fa
+[/us/pl/101/73/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtVI
 [/us/stat/103/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F409
-[/us/pl/103/328/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328%2Fs101%2Fc
+[/us/pl/103/328/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328%2FtI
 [/us/stat/108/2341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2341
-[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-406
-[/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102
+[/us/pl/106/102/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtI
 [/us/stat/113/1351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1351
-[/us/pl/108/386/s8/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F386%2Fs8%2Fc%2F1
+[/us/pl/108/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F386
 [/us/stat/118/2231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2231
-[/us/pl/109/171/s2102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs2102%2Fb
+[/us/pl/109/171/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2FtII
 [/us/stat/120/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F9
-[/us/pl/109/173/s9/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173%2Fs9%2Fh%2F1
+[/us/pl/109/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173
 [/us/stat/119/3618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3618
-[/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
+[/us/pl/109/351/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2FtVII
 [/us/stat/120/1987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1987
-[/us/pl/111/203/s354/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs354%2F1
+[/us/pl/111/203/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIII
 [/us/stat/124/1546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1546
 [/us/act/1956-05-09/ch240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-05-09%2Fch240
 [/us/stat/70/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F133
-[/us/act/1950-09-21/ch967/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967%2Fs2
+[/us/act/1950-09-21/ch967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967
 [/us/stat/64/873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F873
 [/us/usc/t12/s1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1811
 [/us/pl/91/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F607
 [/us/pl/91/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F607
-[/us/pl/102/242/s142/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs142%2Fe%2F2
+[/us/pl/102/242/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtI
 [/us/stat/105/2281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2281
-[/us/pl/101/73/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs407
+[/us/pl/101/73/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtIV
 [/us/stat/103/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F363
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301
-[/us/pl/111/203/s628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs628
-[/us/pl/111/203/s354/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs354%2F1
-[/us/pl/111/203/s623/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs623%2Fb%2F2
-[/us/pl/109/351/s727/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs727%2Fa%2F1
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
 [/us/usc/t12/s1831/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1831%2Fg
-[/us/pl/109/351/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs706
+[/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
 [/us/pl/109/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173
 [/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
-[/us/pl/104/208/s2704/d/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2704%2Fd%2F17
-[/us/pl/109/351/s727/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs727%2Fa%2F2
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
 [/us/pl/108/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F386
-[/us/pl/106/102/s724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs724
-[/us/pl/106/102/s107/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs107%2Fc
+[/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102
+[/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102
 [/us/usc/t12/s1843/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1843%2Ff%2F1
-[/us/pl/106/102/s103/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs103%2Fc%2F1%2FA
-[/us/pl/106/102/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs119
-[/us/pl/106/102/s103/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs103%2Fc%2F1%2FB
-[/us/pl/104/208/s2610/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2610%2F1
-[/us/pl/104/208/s2304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2304%2Fb
-[/us/pl/104/208/s2207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2207
-[/us/pl/104/208/s2704/d/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2704%2Fd%2F17
+[/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102
+[/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102
+[/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
-[/us/pl/104/208/s2208/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2208%2Fb%2F1
-[/us/pl/104/208/s2208/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2208%2Fb%2F2
-[/us/pl/104/208/s2610/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2610%2F2
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/103/328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328
 [/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
-[/us/pl/100/86/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2Fs101%2Fe
-[/us/pl/100/86/s101/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2Fs101%2Fa%2F1
-[/us/pl/100/86/s205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2Fs205%2Fa
+[/us/pl/100/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86
+[/us/pl/100/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86
+[/us/pl/100/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86
 [/us/usc/t12/s1843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1843
 [/us/usc/t12/s1843/c/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1843%2Fc%2F8
-[/us/pl/100/86/s205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2Fs205%2Fa
-[/us/pl/100/86/s101/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2Fs101%2Fa%2F2
-[/us/pl/100/86/s101/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2Fs101%2Fa%2F3
-[/us/pl/97/320/s404/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs404%2Fd%2F1
-[/us/pl/97/320/s333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs333
-[/us/pl/97/320/s118/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs118%2Fb
+[/us/pl/100/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86
+[/us/pl/100/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86
+[/us/pl/100/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86
+[/us/pl/97/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320
+[/us/pl/97/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320
+[/us/pl/97/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320
 [/us/pl/95/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F369
 [/us/pl/95/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F188
-[/us/pl/91/607/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F607%2Fs101%2Fa
-[/us/pl/91/607/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F607%2Fs101%2Fb
-[/us/pl/91/607/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F607%2Fs101%2Fc
-[/us/pl/91/607/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F607%2Fs101%2Fd
-[/us/pl/91/607/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F607%2Fs101%2Fe
-[/us/pl/89/485/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F485%2Fs1
-[/us/pl/89/485/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F485%2Fs2
-[/us/pl/89/485/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F485%2Fs3
-[/us/pl/89/485/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F485%2Fs4
+[/us/pl/91/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F607
+[/us/pl/91/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F607
+[/us/pl/91/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F607
+[/us/pl/91/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F607
+[/us/pl/91/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F607
 [/us/pl/89/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F485
-[/us/pl/89/485/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F485%2Fs6
+[/us/pl/89/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F485
+[/us/pl/89/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F485
+[/us/pl/89/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F485
+[/us/pl/89/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F485
+[/us/pl/89/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F485
 [/us/pl/111/203/s354/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs354%2F1
 [/us/pl/111/203/s351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs351
 [/us/usc/t2/s906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs906
@@ -713,28 +713,28 @@
 [/us/pl/103/328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328
 [/us/pl/103/328/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328%2Fs101%2Fe
 [/us/usc/t12/s1828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1828
-[/us/pl/100/418/s3401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs3401
+[/us/pl/100/418/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtIII
 [/us/stat/102/1384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1384
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/usc/t12/s1843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1843
-[/us/pl/97/290/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F290%2Fs201
+[/us/pl/97/290/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F290%2FtII
 [/us/stat/96/1235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1235
 [/us/usc/t12/s635a–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635a%E2%80%934
 [/us/usc/t12/s1843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1843
-[/us/pl/91/607/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F607%2Fs1
+[/us/pl/91/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F607
 [/us/stat/84/1760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1760
 [/us/usc/t12/s1850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1850
-[/us/act/1956-05-09/ch240/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-05-09%2Fch240%2Fs1
+[/us/act/1956-05-09/ch240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-05-09%2Fch240
 [/us/stat/70/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F133
-[/us/act/1956-05-09/ch240/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-05-09%2Fch240%2Fs12
+[/us/act/1956-05-09/ch240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-05-09%2Fch240
 [/us/stat/70/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F146
 [/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
 [/us/usc/t12/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1437
-[/us/pl/100/86/s101/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2Fs101%2Fh
+[/us/pl/100/86/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2FtI
 [/us/stat/101/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F563
 [/us/usc/t12/s1841/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1841%2Fc
 [/us/usc/t12/s1841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1841
-[/us/pl/100/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86
+[/us/pl/100/86/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2FtII
 [/us/stat/101/581-584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F581-584
 
 

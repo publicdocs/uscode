@@ -17,7 +17,7 @@
 
     Upon receipt of a request for financial rec­ords made by a Government authority under section 3405 or 3407 of this title, the financial institution shall, unless otherwise provided by law, proceed to assemble the records requested and must be prepared to deliver the records to the Government authority upon receipt of the certificate required under [section 3403(b) of this title][/us/usc/t12/s3403/b].
 
-([Pub. L. 95–630, title XI, § 1111][/us/pl/95/630/s1111], Nov. 10, 1978, [92 Stat. 3705][/us/stat/92/3705].)
+([Pub. L. 95–630, title XI][/us/pl/95/630/tXI], § 1111, Nov. 10, 1978, [92 Stat. 3705][/us/stat/92/3705].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t12/s3403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3403%2Fb
-[/us/pl/95/630/s1111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs1111
+[/us/pl/95/630/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtXI
 [/us/stat/92/3705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3705
 
 

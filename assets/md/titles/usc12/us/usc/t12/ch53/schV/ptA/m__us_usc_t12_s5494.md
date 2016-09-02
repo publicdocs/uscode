@@ -35,7 +35,7 @@
 
         (2) be allowed travel expenses, including transportation and subsistence, while away from their homes or regular places of business.
 
-([Pub. L. 111–203, title X, § 1014][/us/pl/111/203/s1014], July 21, 2010, [124 Stat. 1974][/us/stat/124/1974].)
+([Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1014, July 21, 2010, [124 Stat. 1974][/us/stat/124/1974].)
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/111/203/s1014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1014
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/1974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1974
 
 

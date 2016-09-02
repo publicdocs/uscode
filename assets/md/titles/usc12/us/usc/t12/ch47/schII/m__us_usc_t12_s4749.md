@@ -17,7 +17,7 @@
 
     The Fund shall promulgate appropriate regulations to implement this subchapter.
 
-([Pub. L. 103–325, title II, § 259][/us/pl/103/325/s259], Sept. 23, 1994, [108 Stat. 2214][/us/stat/108/2214].)
+([Pub. L. 103–325, title II][/us/pl/103/325/tII], § 259, Sept. 23, 1994, [108 Stat. 2214][/us/stat/108/2214].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/103/325/s259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs259
+[/us/pl/103/325/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtII
 [/us/stat/108/2214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2214
 
 

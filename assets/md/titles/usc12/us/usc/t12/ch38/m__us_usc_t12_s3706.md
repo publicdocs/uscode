@@ -45,7 +45,7 @@
 
             (B) In any case where the Secretary is the purchaser of a multifamily project, the Secretary shall manage and dispose of such project in accordance with the provisions of section 203 of the Housing and Community Development Amendments of 1978 \[[12 U.S.C. 1701z–11][/us/usc/t12/s1701z–11]\].
 
-([Pub. L. 97–35, title III, § 367][/us/pl/97/35/s367], Aug. 13, 1981, [95 Stat. 424][/us/stat/95/424]; [Pub. L. 102–550, title V, § 517(d)][/us/pl/102/550/s517/d], Oct. 28, 1992, [106 Stat. 3792][/us/stat/106/3792].)
+([Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 367, Aug. 13, 1981, [95 Stat. 424][/us/stat/95/424]; [Pub. L. 102–550, title V][/us/pl/102/550/tV], § 517(d), Oct. 28, 1992, [106 Stat. 3792][/us/stat/106/3792].)
 
  __Amendments__ 
 
@@ -59,9 +59,9 @@
 ----------
 
 [/us/usc/t12/s1701z–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701z%E2%80%9311
-[/us/pl/97/35/s367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs367
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F424
-[/us/pl/102/550/s517/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs517%2Fd
+[/us/pl/102/550/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtV
 [/us/stat/106/3792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3792
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 

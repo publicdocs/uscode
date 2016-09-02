@@ -37,7 +37,7 @@
 
             (B) financial education and counseling relating to conducting transactions in and managing accounts.
 
-([Pub. L. 111–203, title XII, § 1204][/us/pl/111/203/s1204], July 21, 2010, [124 Stat. 2130][/us/stat/124/2130].)
+([Pub. L. 111–203, title XII][/us/pl/111/203/tXII], § 1204, July 21, 2010, [124 Stat. 2130][/us/stat/124/2130].)
 
  __References in Text__ 
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/111/203/s1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1204
+[/us/pl/111/203/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtXII
 [/us/stat/124/2130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2130
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/2129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2129

@@ -91,11 +91,11 @@
 
         (C) has a democratically elected governing board, elected by the residents of the housing.
 
-([Pub. L. 100–242, title II, § 229][/us/pl/100/242/s229], as added [Pub. L. 101–625, title VI, § 601(a)][/us/pl/101/625/s601/a], Nov. 28, 1990, [104 Stat. 4271][/us/stat/104/4271]; amended [Pub. L. 102–550, title III][/us/pl/102/550], §§ 310, 317(a)(5), Oct. 28, 1992, [106 Stat. 3765][/us/stat/106/3765], 3772; [Pub. L. 103–327, title II][/us/pl/103/327], Sept. 28, 1994, [108 Stat. 2316][/us/stat/108/2316].)
+([Pub. L. 100–242, title II][/us/pl/100/242/tII], § 229, as added [Pub. L. 101–625, title VI][/us/pl/101/625/tVI], § 601(a), Nov. 28, 1990, [104 Stat. 4271][/us/stat/104/4271]; amended [Pub. L. 102–550, title III][/us/pl/102/550/tIII], §§ 310, 317(a)(5), Oct. 28, 1992, [106 Stat. 3765][/us/stat/106/3765], 3772; [Pub. L. 103–327, title II][/us/pl/103/327/tII], Sept. 28, 1994, [108 Stat. 2316][/us/stat/108/2316].)
 
  __References in Text__ 
 
-    [Section 1715z–6(f) of this title][/us/usc/t12/s1715z–6/f], referred to in par. (8)(B), was repealed by [Pub. L. 104–204, title II][/us/pl/104/204], Sept. 26, 1996, [110 Stat. 2885][/us/stat/110/2885].
+    [Section 1715z–6(f) of this title][/us/usc/t12/s1715z–6/f], referred to in par. (8)(B), was repealed by [Pub. L. 104–204, title II][/us/pl/104/204/tII], Sept. 26, 1996, [110 Stat. 2885][/us/stat/110/2885].
 
  __Codification__ 
 
@@ -109,9 +109,9 @@
 
     “(B) The term ‘very low-income tenants’ means families or persons with incomes that are less than or equal to 50 percent of the median income for the area (as determined by the Secretary with adjustments for family size).” See Effective and Termination Dates of 1994 Amendment note below.
 
-    1992—Par. (1)(A)(i). [Pub. L. 102–550, § 310][/us/pl/102/550/s310], substituted “receiving loan management assistance under [section 1437f of title 42][/us/usc/t42/s1437f] due to a conversion from [section 1701s of this title][/us/usc/t12/s1701s]” for “assisted under [section 1701s of this title][/us/usc/t12/s1701s] or [section 1437f of title 42][/us/usc/t42/s1437f]”.
+    1992—Par. (1)(A)(i). [Pub. L. 102–550][/us/pl/102/550], § 310, substituted “receiving loan management assistance under [section 1437f of title 42][/us/usc/t42/s1437f] due to a conversion from [section 1701s of this title][/us/usc/t12/s1701s]” for “assisted under [section 1701s of this title][/us/usc/t12/s1701s] or [section 1437f of title 42][/us/usc/t42/s1437f]”.
 
-    Par. (11)(A). [Pub. L. 102–550, § 317(a)(5)][/us/pl/102/550/s317/a/5], substituted “residents” for “resident”.
+    Par. (11)(A). [Pub. L. 102–550][/us/pl/102/550], § 317(a)(5), substituted “residents” for “resident”.
 
  __Effective and Termination Dates of 1994 Amendment__ 
 
@@ -134,25 +134,25 @@
 [/us/usc/t12/s4103/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4103%2Fb%2F1
 [/us/usc/t12/s4103/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4103%2Fb%2F2
 [/us/usc/t12/s4103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4103%2Fb
-[/us/pl/100/242/s229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs229
-[/us/pl/101/625/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs601%2Fa
+[/us/pl/100/242/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtII
+[/us/pl/101/625/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtVI
 [/us/stat/104/4271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4271
-[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtIII
 [/us/stat/106/3765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3765
-[/us/pl/103/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F327
+[/us/pl/103/327/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F327%2FtII
 [/us/stat/108/2316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2316
 [/us/usc/t12/s1715z–6/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715z%E2%80%936%2Ff
-[/us/pl/104/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204
+[/us/pl/104/204/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2FtII
 [/us/stat/110/2885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2885
 [/us/pl/103/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F327
 [/us/pl/103/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F327
 [/us/pl/103/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F327
-[/us/pl/102/550/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs310
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/usc/t12/s1701s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701s
 [/us/usc/t12/s1701s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701s
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
-[/us/pl/102/550/s317/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs317%2Fa%2F5
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/pl/103/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F327
 [/us/pl/103/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F327
 [/us/usc/t12/s4112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4112

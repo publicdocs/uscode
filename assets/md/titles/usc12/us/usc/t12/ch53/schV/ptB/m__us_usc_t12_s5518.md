@@ -31,7 +31,7 @@
 
         Notwithstanding any other provision of law, any regulation prescribed by the Bureau under subsection (b) shall apply, consistent with the terms of the regulation, to any agreement between a consumer and a covered person entered into after the end of the 180-day period beginning on the effective date of the regulation, as established by the Bureau.
 
-([Pub. L. 111–203, title X, § 1028][/us/pl/111/203/s1028], July 21, 2010, [124 Stat. 2003][/us/stat/124/2003].)
+([Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1028, July 21, 2010, [124 Stat. 2003][/us/stat/124/2003].)
 
  __Effective Date__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/111/203/s1028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1028
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2003
 [/us/pl/111/203/s1029A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1029A
 [/us/usc/t12/s5511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5511

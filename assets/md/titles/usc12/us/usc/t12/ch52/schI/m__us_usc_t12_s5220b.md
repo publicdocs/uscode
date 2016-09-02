@@ -61,7 +61,7 @@
 
             The Secretary shall report to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate regarding the implementation of this provision. The report shall also describe the steps taken to implement this subsection.
 
-([Pub. L. 111–203, title XIV, § 1481][/us/pl/111/203/s1481], July 21, 2010, [124 Stat. 2202][/us/stat/124/2202].)
+([Pub. L. 111–203, title XIV][/us/pl/111/203/tXIV], § 1481, July 21, 2010, [124 Stat. 2202][/us/stat/124/2202].)
 
  __References in Text__ 
 
@@ -87,7 +87,7 @@
 ----------
 
 [/us/usc/t12/s5201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5201
-[/us/pl/111/203/s1481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1481
+[/us/pl/111/203/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtXIV
 [/us/stat/124/2202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2202
 [/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
 [/us/stat/122/3765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3765

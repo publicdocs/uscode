@@ -25,7 +25,7 @@
 
         A shareholder of a national banking association who votes against the conversion, merger, or consolidation, or who has given notice in writing to the bank at or prior to such meeting that he dissents from the plan, shall be entitled to receive in cash the value of the shares held by him, if and when the conversion, merger, or consolidation is consummated, upon written request made to the resulting State bank at any time before thirty days after the date of consummation of such conversion, merger, or consolidation, accompanied by the surrender of his stock certificates. The value of such shares shall be determined as of the date on which the shareholders’ meeting was held authorizing the conversion, merger, or consolidation, by a committee of three persons, one to be selected by majority vote of the dissenting shareholders entitled to receive the value of their shares, one by the directors of the resulting State bank, and the third by the two so chosen. The valuation agreed upon by any two of three appraisers thus chosen shall govern; but, if the value so fixed shall not be satisfactory to any dissenting shareholder who has requested payment as provided herein, such shareholder may within five days after being notified of the appraised value of his shares appeal to the Comptroller of the Currency, who shall cause a reappraisal to be made, which shall be final and binding as to the value of the shares of the appellant. If, within ninety days from the date of consummation of the conversion, merger, or consolidation, for any reason one or more of the appraisers is not selected as herein provided, or the appraisers fail to determine the value of such shares, the Comptroller shall upon written request of any interested party, cause an appraisal to be made, which shall be final and binding on all parties. The expenses of the Comptroller in making the reappraisal, or the appraisal as the case may be, shall be paid by the resulting State bank. The plan of conversion, merger, or consolidation shall provide the manner of disposing of the shares of the resulting State bank not taken by the dissenting shareholders of the national banking association.
 
-([Aug. 17, 1950, ch. 729, § 2][/us/act/1950-08-17/ch729/s2], [64 Stat. 455][/us/stat/64/455]; [Pub. L. 86–507, § 1(10)][/us/pl/86/507/s1/10], June 11, 1960, [74 Stat. 200][/us/stat/74/200]; [Pub. L. 96–221, title VII, § 706][/us/pl/96/221/s706], Mar. 31, 1980, [94 Stat. 188][/us/stat/94/188].)
+([Aug. 17, 1950, ch. 729][/us/act/1950-08-17/ch729], § 2, [64 Stat. 455][/us/stat/64/455]; [Pub. L. 86–507][/us/pl/86/507], § 1(10), June 11, 1960, [74 Stat. 200][/us/stat/74/200]; [Pub. L. 96–221, title VII][/us/pl/96/221/tVII], § 706, Mar. 31, 1980, [94 Stat. 188][/us/stat/94/188].)
 
  __Amendments__ 
 
@@ -40,11 +40,11 @@
 ----------
 ----------
 
-[/us/act/1950-08-17/ch729/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-17%2Fch729%2Fs2
+[/us/act/1950-08-17/ch729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-17%2Fch729
 [/us/stat/64/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F455
-[/us/pl/86/507/s1/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F507%2Fs1%2F10
+[/us/pl/86/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F507
 [/us/stat/74/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F200
-[/us/pl/96/221/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs706
+[/us/pl/96/221/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2FtVII
 [/us/stat/94/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F188
 [/us/pl/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221
 [/us/pl/86/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F507

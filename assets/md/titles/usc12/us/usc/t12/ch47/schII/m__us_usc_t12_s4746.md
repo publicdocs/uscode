@@ -45,7 +45,7 @@
 
         The reports and data filed pursuant to subsections (a) and (b) shall be in such form as the Fund may require.
 
-([Pub. L. 103–325, title II, § 256][/us/pl/103/325/s256], Sept. 23, 1994, [108 Stat. 2212][/us/stat/108/2212].)
+([Pub. L. 103–325, title II][/us/pl/103/325/tII], § 256, Sept. 23, 1994, [108 Stat. 2212][/us/stat/108/2212].)
 
 ----------
 
@@ -58,7 +58,7 @@
 [/us/usc/t12/s4747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4747
 [/us/usc/t12/s4743/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4743%2Fb%2F3
 [/us/usc/t12/s4749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4749
-[/us/pl/103/325/s256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs256
+[/us/pl/103/325/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtII
 [/us/stat/108/2212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2212
 
 

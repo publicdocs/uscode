@@ -73,13 +73,13 @@
 
         (2) The term “trust or otherwise restricted land” means (A) that area of land, as defined by the Secretary of the Interior, over which an Indian tribe is recognized by the United States as having governmental jurisdiction; (B) land held in trust for the benefit of any Indian tribe or individual or held by any Indian tribe or individual subject to a restriction by the United States against alienation; or (C) land acquired by Alaska natives under the Alaska Native Claims Settlement Act \[[43 U.S.C. 1601][/us/usc/t43/s1601] et seq.\] or any other land acquired by Alaska natives pursuant to statute by virtue of their unique status as Alaska natives.
 
-([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title II, § 248, as added [Pub. L. 98–181, title I][/us/pl/98/181] \[title IV, § 422\], Nov. 30, 1983, [97 Stat. 1214][/us/stat/97/1214]; amended [Pub. L. 99–272, title XIV, § 14001(b)(7)][/us/pl/99/272/s14001/b/7], Apr. 7, 1986, [100 Stat. 329][/us/stat/100/329]; [Pub. L. 100–242, title IV][/us/pl/100/242], §§ 413(c), 429(i), Feb. 5, 1988, [101 Stat. 1906][/us/stat/101/1906], 1919; [Pub. L. 110–289, div. B, title I, § 2119(b)][/us/pl/110/289/s2119/b], July 30, 2008, [122 Stat. 2835][/us/stat/122/2835].)
+([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title II, § 248, as added [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title IV, § 422\], Nov. 30, 1983, [97 Stat. 1214][/us/stat/97/1214]; amended [Pub. L. 99–272, title XIV][/us/pl/99/272/tXIV], § 14001(b)(7), Apr. 7, 1986, [100 Stat. 329][/us/stat/100/329]; [Pub. L. 100–242, title IV][/us/pl/100/242/tIV], §§ 413(c), 429(i), Feb. 5, 1988, [101 Stat. 1906][/us/stat/101/1906], 1919; [Pub. L. 110–289, div. B, title I][/us/pl/110/289/dB/tI], § 2119(b), July 30, 2008, [122 Stat. 2835][/us/stat/122/2835].)
 
  __References in Text__ 
 
     The Housing and Community Development Act of 1974, referred to in subsec. (b)(3)(A), is [Pub. L. 93–383][/us/pl/93/383], Aug. 22, 1974, [88 Stat. 633][/us/stat/88/633], as amended. Title I of the Housing and Community Development Act of 1974 is classified principally to chapter 69 (§ 5301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of Title 42][/us/usc/t42/s5301] and Tables.
 
-    Chapter 67 of title 31, referred to in subsec. (i)(1), was repealed by [Pub. L. 99–272, title XIV, § 14001(a)(1)][/us/pl/99/272/s14001/a/1], Apr. 7, 1986, [100 Stat. 327][/us/stat/100/327]. A new chapter 67 of Title 31, Money and Finance, was added by [Pub. L. 103–322, title III, § 31001(a)][/us/pl/103/322/s31001/a], Sept. 13, 1994, [108 Stat. 1859][/us/stat/108/1859].
+    Chapter 67 of title 31, referred to in subsec. (i)(1), was repealed by [Pub. L. 99–272, title XIV][/us/pl/99/272/tXIV], § 14001(a)(1), Apr. 7, 1986, [100 Stat. 327][/us/stat/100/327]. A new chapter 67 of Title 31, Money and Finance, was added by [Pub. L. 103–322, title III][/us/pl/103/322/tIII], § 31001(a), Sept. 13, 1994, [108 Stat. 1859][/us/stat/108/1859].
 
     The Alaska Native Claims Settlement Act, referred to in subsec. (i)(2), is [Pub. L. 92–203][/us/pl/92/203], Dec. 18, 1971, [85 Stat. 688][/us/stat/85/688], as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43][/us/usc/t43/s1601] and Tables.
 
@@ -87,17 +87,17 @@
 
     2008—Subsec. (f). [Pub. L. 110–289][/us/pl/110/289] substituted “Mutual Mortgage Insurance Fund” for “General Insurance Fund established in [section 1735c of this title][/us/usc/t12/s1735c]” and struck out “(1) all references in [section 1710 of this title][/us/usc/t12/s1710] to the Mutual Mortgage Insurance Fund or the Fund shall be construed to refer to the General Insurance Fund; and (2)” after “except that”.
 
-    1988—Subsec. (a)(1). [Pub. L. 100–242, § 429(i)(1)][/us/pl/100/242/s429/i/1], substituted “land” for “lands”.
+    1988—Subsec. (a)(1). [Pub. L. 100–242][/us/pl/100/242], § 429(i)(1), substituted “land” for “lands”.
 
-    Subsec. (a)(2). [Pub. L. 100–242, § 429(i)(2)][/us/pl/100/242/s429/i/2], substituted “on trust or otherwise restricted land” for “on trust lands or otherwise restricted land”.
+    Subsec. (a)(2). [Pub. L. 100–242][/us/pl/100/242], § 429(i)(2), substituted “on trust or otherwise restricted land” for “on trust lands or otherwise restricted land”.
 
-    Subsec. (d). [Pub. L. 100–242, § 429(i)(3)][/us/pl/100/242/s429/i/3], substituted “trust or otherwise restricted land” for “tribal or trust land”.
+    Subsec. (d). [Pub. L. 100–242][/us/pl/100/242], § 429(i)(3), substituted “trust or otherwise restricted land” for “tribal or trust land”.
 
-    Subsec. (f). [Pub. L. 100–242, § 413(c)(3)][/us/pl/100/242/s413/c/3], added subsec. (f). Former subsec. (f) redesignated (g).
+    Subsec. (f). [Pub. L. 100–242][/us/pl/100/242], § 413(c)(3), added subsec. (f). Former subsec. (f) redesignated (g).
 
-    Subsec. (g). [Pub. L. 100–242, § 413(c)(1)][/us/pl/100/242/s413/c/1], (2), redesignated former subsec. (f) as (g) and substituted “General Insurance Fund” for “insurance fund” in pars. (3) and (5). Former subsec. (g) redesignated (h).
+    Subsec. (g). [Pub. L. 100–242][/us/pl/100/242], § 413(c)(1), (2), redesignated former subsec. (f) as (g) and substituted “General Insurance Fund” for “insurance fund” in pars. (3) and (5). Former subsec. (g) redesignated (h).
 
-    Subsecs. (h), (i). [Pub. L. 100–242, § 413(c)(2)][/us/pl/100/242/s413/c/2], redesignated former subsecs. (g) and (h) as (h) and (i), respectively.
+    Subsecs. (h), (i). [Pub. L. 100–242][/us/pl/100/242], § 413(c)(2), redesignated former subsecs. (g) and (h) as (h) and (i), respectively.
 
     1986—Subsec. (h)(1). [Pub. L. 99–272][/us/pl/99/272] substituted “was an eligible recipient under chapter 67 of title 31, prior to the repeal of such chapter” for “is an eligible recipient under chapter 67 of title 31”.
 
@@ -120,20 +120,20 @@
 [/us/usc/t12/s1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1709
 [/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1214
-[/us/pl/99/272/s14001/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs14001%2Fb%2F7
+[/us/pl/99/272/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXIV
 [/us/stat/100/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F329
-[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtIV
 [/us/stat/101/1906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1906
-[/us/pl/110/289/s2119/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs2119%2Fb
+[/us/pl/110/289/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdB%2FtI
 [/us/stat/122/2835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2835
 [/us/pl/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383
 [/us/stat/88/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F633
 [/us/usc/t42/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5301
-[/us/pl/99/272/s14001/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs14001%2Fa%2F1
+[/us/pl/99/272/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXIV
 [/us/stat/100/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F327
-[/us/pl/103/322/s31001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs31001%2Fa
+[/us/pl/103/322/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIII
 [/us/stat/108/1859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1859
 [/us/pl/92/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F203
 [/us/stat/85/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F688
@@ -141,12 +141,12 @@
 [/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
 [/us/usc/t12/s1735c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1735c
 [/us/usc/t12/s1710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1710
-[/us/pl/100/242/s429/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs429%2Fi%2F1
-[/us/pl/100/242/s429/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs429%2Fi%2F2
-[/us/pl/100/242/s429/i/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs429%2Fi%2F3
-[/us/pl/100/242/s413/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs413%2Fc%2F3
-[/us/pl/100/242/s413/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs413%2Fc%2F1
-[/us/pl/100/242/s413/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs413%2Fc%2F2
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
 [/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
 [/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
 [/us/pl/99/272/s14001/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs14001%2Fe

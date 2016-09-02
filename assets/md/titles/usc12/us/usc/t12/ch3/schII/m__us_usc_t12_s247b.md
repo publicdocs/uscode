@@ -17,7 +17,7 @@
 
     The Vice Chairman for Supervision shall appear before the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives and at semi-annual hearings regarding the efforts, activities, objectives, and plans of the Board with respect to the conduct of supervision and regulation of depository institution holding companies and other financial firms supervised by the Board.
 
-([Dec. 23, 1913, ch. 6, § 10(12)][/us/act/1913-12-23/ch6/s10/12], as added [Pub. L. 111–203, title XI, § 1108(b)][/us/pl/111/203/s1108/b], July 21, 2010, [124 Stat. 2126][/us/stat/124/2126].)
+([Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 10(12), as added [Pub. L. 111–203, title XI][/us/pl/111/203/tXI], § 1108(b), July 21, 2010, [124 Stat. 2126][/us/stat/124/2126].)
 
  __Codification__ 
 
@@ -34,8 +34,8 @@
 ----------
 ----------
 
-[/us/act/1913-12-23/ch6/s10/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs10%2F12
-[/us/pl/111/203/s1108/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1108%2Fb
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
+[/us/pl/111/203/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtXI
 [/us/stat/124/2126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2126
 [/us/usc/t12/s241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs241
 [/us/pl/111/203/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs4

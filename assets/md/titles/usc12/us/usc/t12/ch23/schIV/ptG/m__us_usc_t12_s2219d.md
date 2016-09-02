@@ -17,7 +17,7 @@
 
     At the time a System institution or an agricultural mortgage loan originator (as defined in [section 2279aa(7) of this title][/us/usc/t12/s2279aa/7]) approves a loan made to a borrower that, in the opinion of the institution or originator, would be ineligible for a loan made, insured, or guaranteed under the Consolidated Farm and Rural Development Act ([7 U.S.C. 1921][/us/usc/t7/s1921] et seq.) by reason of subtitle B or C of title XII of the Food Security Act of 1985 ([16 U.S.C. 3811][/us/usc/t16/s3811] et seq.), the institution or originator, as the case may be, shall encourage the borrower to contact the Department of Agriculture Soil Conservation Service to obtain information about soil conservation methods and practices.
 
-([Pub. L. 92–181, title IV, § 4][/us/pl/92/181/s4].39, formerly § 4.38, as added [Pub. L. 100–233, title IV, § 428][/us/pl/100/233/s428], Jan. 6, 1988, [101 Stat. 1658][/us/stat/101/1658]; renumbered § 4.39, [Pub. L. 100–399, title IV, § 413][/us/pl/100/399/s413], Aug. 17, 1988, [102 Stat. 1004][/us/stat/102/1004].)
+([Pub. L. 92–181, title IV][/us/pl/92/181/tIV], § 4.39, formerly § 4.38, as added [Pub. L. 100–233, title IV][/us/pl/100/233/tIV], § 428, Jan. 6, 1988, [101 Stat. 1658][/us/stat/101/1658]; renumbered § 4.39, [Pub. L. 100–399, title IV][/us/pl/100/399/tIV], § 413, Aug. 17, 1988, [102 Stat. 1004][/us/stat/102/1004].)
 
  __References in Text__ 
 
@@ -35,10 +35,10 @@
 [/us/usc/t12/s2279aa/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2279aa%2F7
 [/us/usc/t7/s1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1921
 [/us/usc/t16/s3811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3811
-[/us/pl/92/181/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs4
-[/us/pl/100/233/s428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs428
+[/us/pl/92/181/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtIV
+[/us/pl/100/233/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtIV
 [/us/stat/101/1658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1658
-[/us/pl/100/399/s413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs413
+[/us/pl/100/399/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtIV
 [/us/stat/102/1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1004
 [/us/pl/87/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128
 [/us/stat/75/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F307

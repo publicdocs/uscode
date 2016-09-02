@@ -17,7 +17,7 @@
 
     Any person may sue for and have injunctive relief, in any court of the United States having jurisdiction over the parties, against threatened loss or damage by reason of a violation of [section 1972 of this title][/us/usc/t12/s1972], under the same conditions and principles as injunctive relief against threatened conduct that will cause loss or damage is granted by courts of equity and under the rules governing such proceedings. Upon the execution of proper bond against damages for an injunction improvidently granted and a showing that the danger of irreparable loss or damage is immediate, a preliminary injunction may issue.
 
-([Pub. L. 91–607, title I, § 106(f)][/us/pl/91/607/s106/f], Dec. 31, 1970, [84 Stat. 1767][/us/stat/84/1767].)
+([Pub. L. 91–607, title I][/us/pl/91/607/tI], § 106(f), Dec. 31, 1970, [84 Stat. 1767][/us/stat/84/1767].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t12/s1972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1972
-[/us/pl/91/607/s106/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F607%2Fs106%2Ff
+[/us/pl/91/607/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F607%2FtI
 [/us/stat/84/1767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1767
 
 

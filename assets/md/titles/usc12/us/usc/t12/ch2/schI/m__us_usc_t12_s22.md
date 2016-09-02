@@ -27,7 +27,7 @@
 
     Fifth. The fact that the certificate is made to enable such persons to avail themselves of the advantages of title 62 of the Revised Statutes.
 
-(R.S. § 5134; [Pub. L. 86–230, § 25][/us/pl/86/230/s25], Sept. 8, 1959, [73 Stat. 466][/us/stat/73/466]; [Pub. L. 97–320, title IV, § 405(b)][/us/pl/97/320/s405/b], Oct. 15, 1982, [96 Stat. 1512][/us/stat/96/1512].)
+(R.S. § 5134; [Pub. L. 86–230][/us/pl/86/230], § 25, Sept. 8, 1959, [73 Stat. 466][/us/stat/73/466]; [Pub. L. 97–320, title IV][/us/pl/97/320/tIV], § 405(b), Oct. 15, 1982, [96 Stat. 1512][/us/stat/96/1512].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 
  __Codification__ 
 
-    R.S. § 5134 derived from [act June 3, 1864, ch. 106, § 6][/us/act/1864-06-03/ch106/s6], [13 Stat. 101][/us/stat/13/101], which was the National Bank Act. See [section 38 of this title][/us/usc/t12/s38].
+    R.S. § 5134 derived from [act June 3, 1864, ch. 106][/us/act/1864-06-03/ch106], § 6, [13 Stat. 101][/us/stat/13/101], which was the National Bank Act. See [section 38 of this title][/us/usc/t12/s38].
 
  __Amendments__ 
 
@@ -50,11 +50,11 @@
 ----------
 ----------
 
-[/us/pl/86/230/s25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F230%2Fs25
+[/us/pl/86/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F230
 [/us/stat/73/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F466
-[/us/pl/97/320/s405/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs405%2Fb
+[/us/pl/97/320/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2FtIV
 [/us/stat/96/1512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1512
-[/us/act/1864-06-03/ch106/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-06-03%2Fch106%2Fs6
+[/us/act/1864-06-03/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-06-03%2Fch106
 [/us/stat/13/101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F13%2F101
 [/us/usc/t12/s38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs38
 [/us/pl/97/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320

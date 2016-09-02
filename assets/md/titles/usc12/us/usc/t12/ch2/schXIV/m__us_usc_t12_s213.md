@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act Jan. 30, 1934, ch. 6, § 13][/us/act/1934-01-30/ch6/s13], [48 Stat. 343][/us/stat/48/343], relating to ratification of acts of the President and Secretary of the Treasury, was transferred to section 824 of former Title 31, and subsequently repealed by [Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 1068][/us/stat/96/1068], the first section of which enacted Title 31, Money and Finance.
+    Section, [act Jan. 30, 1934, ch. 6][/us/act/1934-01-30/ch6], § 13, [48 Stat. 343][/us/stat/48/343], relating to ratification of acts of the President and Secretary of the Treasury, was transferred to section 824 of former Title 31, and subsequently repealed by [Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 1068][/us/stat/96/1068], the first section of which enacted Title 31, Money and Finance.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1934-01-30/ch6/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-01-30%2Fch6%2Fs13
+[/us/act/1934-01-30/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-01-30%2Fch6
 [/us/stat/48/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F343
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1068

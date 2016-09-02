@@ -17,7 +17,7 @@
 
     The right to alter, amend, or repeal this chapter is expressly reserved.
 
-([July 22, 1932, ch. 522, § 30][/us/act/1932-07-22/ch522/s30], [47 Stat. 741][/us/stat/47/741].)
+([July 22, 1932, ch. 522][/us/act/1932-07-22/ch522], § 30, [47 Stat. 741][/us/stat/47/741].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1932-07-22/ch522/s30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-07-22%2Fch522%2Fs30
+[/us/act/1932-07-22/ch522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-07-22%2Fch522
 [/us/stat/47/741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F741
 
 

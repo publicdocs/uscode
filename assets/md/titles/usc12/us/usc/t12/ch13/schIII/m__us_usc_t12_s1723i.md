@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch13/schIII/m__us_usc_t12_s1723f.md) | [Next](./../../../../..//us/usc/t12/ch13/schIV/m__us_usc_t12_ch13_schIV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1723i)
+[Previous](./../../../../..//us/usc/t12/ch13/schIII/m__us_usc_t12_s1723g _us_usc_t12_s1723h.md) | [Next](./../../../../..//us/usc/t12/ch13/schIV/m__us_usc_t12_ch13_schIV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1723i)
 
 ## § 1723i. Civil money penalties against issuers
 
@@ -119,15 +119,15 @@
 
         The Secretary shall deposit all civil money penalties collected under this section into moneys of the Association pursuant to [section 1722 of this title][/us/usc/t12/s1722].
 
-([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title III, § 317, as added [Pub. L. 101–235, title I, § 110(a)][/us/pl/101/235/s110/a], Dec. 15, 1989, [103 Stat. 2011][/us/stat/103/2011]; amended [Pub. L. 104–208, div. A, title II, § 2704(d)(13)(A)][/us/pl/104/208/s2704/d/13/A], Sept. 30, 1996, [110 Stat. 3009–490][/us/stat/110/3009-490]; [Pub. L. 109–171, title II, § 2102(b)][/us/pl/109/171/s2102/b], Feb. 8, 2006, [120 Stat. 9][/us/stat/120/9]; [Pub. L. 109–173, § 9(f)(1)][/us/pl/109/173/s9/f/1], Feb. 15, 2006, [119 Stat. 3618][/us/stat/119/3618].)
+([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title III, § 317, as added [Pub. L. 101–235, title I][/us/pl/101/235/tI], § 110(a), Dec. 15, 1989, [103 Stat. 2011][/us/stat/103/2011]; amended [Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], § 2704(d)(13)(A), Sept. 30, 1996, [110 Stat. 3009–490][/us/stat/110/3009-490]; [Pub. L. 109–171, title II][/us/pl/109/171/tII], § 2102(b), Feb. 8, 2006, [120 Stat. 9][/us/stat/120/9]; [Pub. L. 109–173][/us/pl/109/173], § 9(f)(1), Feb. 15, 2006, [119 Stat. 3618][/us/stat/119/3618].)
 
  __Amendments__ 
 
     2006—Subsec. (b)(1)(B). [Pub. L. 109–173][/us/pl/109/173] substituted “Deposit Insurance Fund” for “Bank Insurance Fund for banks or through the Savings Association Insurance Fund for savings associations”.
 
-    [Pub. L. 109–171][/us/pl/109/171] repealed [Pub. L. 104–208, § 2704(d)(13)(A)][/us/pl/104/208/s2704/d/13/A]. See 1996 Amendment note below.
+    [Pub. L. 109–171][/us/pl/109/171] repealed [Pub. L. 104–208][/us/pl/104/208], § 2704(d)(13)(A). See 1996 Amendment note below.
 
-    1996—Subsec. (b)(1)(B). [Pub. L. 104–208, § 2704(d)(13)(A)][/us/pl/104/208/s2704/d/13/A], which directed substitution of “Deposit Insurance Fund” for “Bank Insurance Fund for banks or through the Savings Association Insurance Fund for savings associations”, was repealed by [Pub. L. 109–171][/us/pl/109/171]. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
+    1996—Subsec. (b)(1)(B). [Pub. L. 104–208][/us/pl/104/208], § 2704(d)(13)(A), which directed substitution of “Deposit Insurance Fund” for “Bank Insurance Fund for banks or through the Savings Association Insurance Fund for savings associations”, was repealed by [Pub. L. 109–171][/us/pl/109/171]. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
  __Effective Date of 2006 Amendment__ 
 
@@ -141,7 +141,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 101–235, title I, § 110(b)][/us/pl/101/235/s110/b], Dec. 15, 1989, [103 Stat. 2014][/us/stat/103/2014], provided that: 
+[Pub. L. 101–235, title I][/us/pl/101/235/tI], § 110(b), Dec. 15, 1989, [103 Stat. 2014][/us/stat/103/2014], provided that: 
 
 > “The amendment made by subsection (a) \[enacting this section\] shall apply only with respect to—
 
@@ -151,7 +151,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch13/schIII/m__us_usc_t12_s1723f.md) | [Next](./../../../../..//us/usc/t12/ch13/schIV/m__us_usc_t12_ch13_schIV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1723i)
+[Previous](./../../../../..//us/usc/t12/ch13/schIII/m__us_usc_t12_s1723g _us_usc_t12_s1723h.md) | [Next](./../../../../..//us/usc/t12/ch13/schIV/m__us_usc_t12_ch13_schIV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1723i)
 
 ----------
 ----------
@@ -163,18 +163,18 @@
 [/us/usc/t5/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs706
 [/us/usc/t12/s1722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1722
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
-[/us/pl/101/235/s110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235%2Fs110%2Fa
+[/us/pl/101/235/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235%2FtI
 [/us/stat/103/2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2011
-[/us/pl/104/208/s2704/d/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2704%2Fd%2F13%2FA
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-490
-[/us/pl/109/171/s2102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs2102%2Fb
+[/us/pl/109/171/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2FtII
 [/us/stat/120/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F9
-[/us/pl/109/173/s9/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173%2Fs9%2Ff%2F1
+[/us/pl/109/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173
 [/us/stat/119/3618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3618
 [/us/pl/109/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173
 [/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
-[/us/pl/104/208/s2704/d/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2704%2Fd%2F13%2FA
-[/us/pl/104/208/s2704/d/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2704%2Fd%2F13%2FA
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
 [/us/pl/109/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173
 [/us/pl/109/173/s9/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173%2Fs9%2Fj
@@ -185,7 +185,7 @@
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/104/208/s2704/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2704%2Fc
 [/us/usc/t12/s1821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1821
-[/us/pl/101/235/s110/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235%2Fs110%2Fb
+[/us/pl/101/235/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235%2FtI
 [/us/stat/103/2014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2014
 
 

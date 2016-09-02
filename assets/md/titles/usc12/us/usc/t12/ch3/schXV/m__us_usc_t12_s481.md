@@ -19,7 +19,7 @@
 
     The examiner making the examination of any affiliate of a national bank shall have power to make a thorough examination of all the affairs of the affiliate, and in doing so he shall have power to administer oaths and to examine any of the officers, directors, employees, and agents thereof under oath and to make a report of his findings to the Comptroller of the Currency. If any affiliate of a national bank refuses to pay any assessments, fees, or other charges imposed by the Comptroller of the Currency pursuant to this subchapter or fails to make such payment not later than 60 days after the date on which they are imposed, the Comptroller of the Currency may impose such assessments, fees, or charges against the affiliated national bank, and such assessments, fees, or charges shall be paid by such national bank. If the affiliation is with 2 or more national banks, such assessments, fees, or charges may be imposed on, and collected from, any or all of such national banks in such proportions as the Comptroller of the Currency may prescribe. The examiners and assistant examiners making the examinations of national banking associations and affiliates thereof herein provided for and the chief examiners, reviewing examiners and other persons whose services may be required in connection with such examinations or the reports thereof, shall be employed by the Comptroller of the Currency with the approval of the Secretary of the Treasury; the employment and compensation of examiners, chief examiners, reviewing examiners, assistant examiners, and of the other employees of the office of the Comptroller of the Currency whose compensation is and shall be paid from assessments on banks or affiliates thereof or from other fees or charges imposed pursuant to this subchapter shall be set and adjusted subject to chapter 71 of title 5 and without regard to the provisions of other laws applicable to officers or employees of the United States. The funds derived from such assessments, fees, or charges may be deposited by the Comptroller of the Currency in accordance with the provisions of [section 192 of this title][/us/usc/t12/s192] and shall not be construed to be Government funds or appropriated monies; and the Comptroller of the Currency is authorized and empowered to prescribe regulations governing the computation and assessment of the expenses of examinations herein provided for and the collection of such assessments from the banks and/or affiliates examined or of other fees or charges imposed pursuant to this subchapter. Such funds shall not be subject to apportionment for the purpose of chapter 15 of title 31 or under any other authority. If any affiliate of a national bank shall refuse to permit an examiner to make an examination of the affiliate or shall refuse to give any information required in the course of any such examination, the national bank with which it is affiliated shall be subject to a penalty of not more than $5,000 for each day that any such refusal shall continue. Such penalty may be assessed by the Comptroller of the Currency and collected in the same manner as expenses of examinations. The Comptroller of the Currency, upon the request of the Board of Governors of the Federal Reserve System, is authorized to assign examiners appointed under this subchapter to examine foreign operations of State banks which are members of the Federal Reserve System.
 
-(R.S. § 5240 (pars.); [Feb. 19, 1875, ch. 89][/us/act/1875-02-19/ch89], [18 Stat. 329][/us/stat/18/329]; [Dec. 23, 1913, ch. 6, § 21][/us/act/1913-12-23/ch6/s21], [38 Stat. 271][/us/stat/38/271]; [June 16, 1933, ch. 89, § 28][/us/act/1933-06-16/ch89/s28], [48 Stat. 192][/us/stat/48/192]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 203(a), title III, § 343, [49 Stat. 704][/us/stat/49/704], 722; [June 30, 1948, ch. 762, § 1][/us/act/1948-06-30/ch762/s1], [62 Stat. 1163][/us/stat/62/1163]; [Apr. 30, 1956, ch. 228, § 1][/us/act/1956-04-30/ch228/s1], [70 Stat. 124][/us/stat/70/124]; [Pub. L. 96–221, title VII, § 709][/us/pl/96/221/s709], Mar. 31, 1980, [94 Stat. 188][/us/stat/94/188]; [Pub. L. 100–86, title V, § 505(b)][/us/pl/100/86/s505/b], Aug. 10, 1987, [101 Stat. 633][/us/stat/101/633]; [Pub. L. 101–73, title IX, § 907(f)][/us/pl/101/73/s907/f], Aug. 9, 1989, [103 Stat. 470][/us/stat/103/470]; [Pub. L. 102–242, title I, § 114(b)][/us/pl/102/242/s114/b], Dec. 19, 1991, [105 Stat. 2248][/us/stat/105/2248]; [Pub. L. 111–203, title III, § 318(a)(1)][/us/pl/111/203/s318/a/1], July 21, 2010, [124 Stat. 1526][/us/stat/124/1526].)
+(R.S. § 5240 (pars.); [Feb. 19, 1875, ch. 89][/us/act/1875-02-19/ch89], [18 Stat. 329][/us/stat/18/329]; [Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 21, [38 Stat. 271][/us/stat/38/271]; [June 16, 1933, ch. 89][/us/act/1933-06-16/ch89], § 28, [48 Stat. 192][/us/stat/48/192]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 203(a), title III, § 343, [49 Stat. 704][/us/stat/49/704], 722; [June 30, 1948, ch. 762][/us/act/1948-06-30/ch762], § 1, [62 Stat. 1163][/us/stat/62/1163]; [Apr. 30, 1956, ch. 228][/us/act/1956-04-30/ch228], § 1, [70 Stat. 124][/us/stat/70/124]; [Pub. L. 96–221, title VII][/us/pl/96/221/tVII], § 709, Mar. 31, 1980, [94 Stat. 188][/us/stat/94/188]; [Pub. L. 100–86, title V][/us/pl/100/86/tV], § 505(b), Aug. 10, 1987, [101 Stat. 633][/us/stat/101/633]; [Pub. L. 101–73, title IX][/us/pl/101/73/tIX], § 907(f), Aug. 9, 1989, [103 Stat. 470][/us/stat/103/470]; [Pub. L. 102–242, title I][/us/pl/102/242/tI], § 114(b), Dec. 19, 1991, [105 Stat. 2248][/us/stat/105/2248]; [Pub. L. 111–203, title III][/us/pl/111/203/tIII], § 318(a)(1), July 21, 2010, [124 Stat. 1526][/us/stat/124/1526].)
 
  __References in Text__ 
 
@@ -29,7 +29,7 @@
 
  __Codification__ 
 
-    R.S. § 5240 derived from [act June 3, 1864, ch. 106, § 54][/us/act/1864-06-03/ch106/s54], [13 Stat. 116][/us/stat/13/116], which was part of the National Bank Act. See [section 38 of this title][/us/usc/t12/s38].
+    R.S. § 5240 derived from [act June 3, 1864, ch. 106][/us/act/1864-06-03/ch106], § 54, [13 Stat. 116][/us/stat/13/116], which was part of the National Bank Act. See [section 38 of this title][/us/usc/t12/s38].
 
     R.S. § 5240, as amended by acts Dec. 23, 1913, July 2, 1932, June 16, 1933, [Pub. L. 101–73][/us/pl/101/73], and [Pub. L. 102–242][/us/pl/102/242], is comprised of 7 undesignated paragraphs. Pars. 1 and 2 are classified to [section 481 of this title][/us/usc/t12/s481], pars. 3 and 4 are classified to [section 482 of this title][/us/usc/t12/s482], and pars. 5 to 7 are classified to sections 483 to 485, respectively, of this title.
 
@@ -83,30 +83,30 @@
 [/us/usc/t12/s192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs192
 [/us/act/1875-02-19/ch89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1875-02-19%2Fch89
 [/us/stat/18/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F18%2F329
-[/us/act/1913-12-23/ch6/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs21
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
 [/us/stat/38/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F271
-[/us/act/1933-06-16/ch89/s28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-16%2Fch89%2Fs28
+[/us/act/1933-06-16/ch89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-16%2Fch89
 [/us/stat/48/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F192
 [/us/act/1935-08-23/ch614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch614
 [/us/stat/49/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F704
-[/us/act/1948-06-30/ch762/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch762%2Fs1
+[/us/act/1948-06-30/ch762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch762
 [/us/stat/62/1163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1163
-[/us/act/1956-04-30/ch228/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-04-30%2Fch228%2Fs1
+[/us/act/1956-04-30/ch228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-04-30%2Fch228
 [/us/stat/70/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F124
-[/us/pl/96/221/s709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs709
+[/us/pl/96/221/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2FtVII
 [/us/stat/94/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F188
-[/us/pl/100/86/s505/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2Fs505%2Fb
+[/us/pl/100/86/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2FtV
 [/us/stat/101/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F633
-[/us/pl/101/73/s907/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs907%2Ff
+[/us/pl/101/73/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtIX
 [/us/stat/103/470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F470
-[/us/pl/102/242/s114/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs114%2Fb
+[/us/pl/102/242/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtI
 [/us/stat/105/2248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2248
-[/us/pl/111/203/s318/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs318%2Fa%2F1
+[/us/pl/111/203/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIII
 [/us/stat/124/1526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1526
 [/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
 [/us/stat/38/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F251
 [/us/usc/t12/s222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs222
-[/us/act/1864-06-03/ch106/s54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-06-03%2Fch106%2Fs54
+[/us/act/1864-06-03/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-06-03%2Fch106
 [/us/stat/13/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F13%2F116
 [/us/usc/t12/s38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs38
 [/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73

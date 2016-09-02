@@ -39,7 +39,7 @@
 
             Any person who is subject to a regulation described in paragraph (1) may comply with the regulation before the effective date of the regulation.
 
-([Pub. L. 103–325, title III, § 302][/us/pl/103/325/s302], Sept. 23, 1994, [108 Stat. 2214][/us/stat/108/2214].)
+([Pub. L. 103–325, title III][/us/pl/103/325/tIII], § 302, Sept. 23, 1994, [108 Stat. 2214][/us/stat/108/2214].)
 
 ----------
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/103/325/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs302
+[/us/pl/103/325/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtIII
 [/us/stat/108/2214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2214
 
 

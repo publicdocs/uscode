@@ -23,7 +23,7 @@
 
     Class C shall consist of three members who shall be designated by the Board of Governors of the Federal Reserve System. They shall be elected to represent the public, without discrimination on the basis of race, creed, color, sex, or national origin, and with due but not exclusive consideration to the interests of agriculture, commerce, industry, services, labor, and consumers.
 
-([Dec. 23, 1913, ch. 6, § 4][/us/act/1913-12-23/ch6/s4] (pars.), [38 Stat. 255][/us/stat/38/255]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 203(a), [49 Stat. 704][/us/stat/49/704]; [Pub. L. 95–188, title II, § 202][/us/pl/95/188/s202], Nov. 16, 1977, [91 Stat. 1387][/us/stat/91/1387].)
+([Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 4 (pars.), [38 Stat. 255][/us/stat/38/255]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 203(a), [49 Stat. 704][/us/stat/49/704]; [Pub. L. 95–188, title II][/us/pl/95/188/tII], § 202, Nov. 16, 1977, [91 Stat. 1387][/us/stat/91/1387].)
 
  __Codification__ 
 
@@ -35,11 +35,11 @@
 
  __Amendments__ 
 
-    1977—Second par. [Pub. L. 95–188, § 202(a)][/us/pl/95/188/s202/a], required Class A members to be chosen without discrimination on the basis of race, creed, color, sex or national origin.
+    1977—Second par. [Pub. L. 95–188][/us/pl/95/188], § 202(a), required Class A members to be chosen without discrimination on the basis of race, creed, color, sex or national origin.
 
-    Third par. [Pub. L. 95–188, § 202(b)][/us/pl/95/188/s202/b], substituted requirement that Class B members represent the public and be elected without discrimination on the basis of race, creed, color, sex, or national origin, and with due but not exclusive consideration to the interests of agriculture, commerce, industry, services, labor, and consumers for prior requirement that such Class B members, at the time of their election, be actively engaged in their district in commerce, agriculture or some other industrial pursuit.
+    Third par. [Pub. L. 95–188][/us/pl/95/188], § 202(b), substituted requirement that Class B members represent the public and be elected without discrimination on the basis of race, creed, color, sex, or national origin, and with due but not exclusive consideration to the interests of agriculture, commerce, industry, services, labor, and consumers for prior requirement that such Class B members, at the time of their election, be actively engaged in their district in commerce, agriculture or some other industrial pursuit.
 
-    Fourth par. [Pub. L. 95–188, § 202(c)][/us/pl/95/188/s202/c], required Class C members to be elected to represent the public, without discrimination on the basis of race, creed, color, sex, or national origin, and with due but not exclusive consideration to the interests of agriculture, commerce, industry, services, labor, and consumers.
+    Fourth par. [Pub. L. 95–188][/us/pl/95/188], § 202(c), required Class C members to be elected to represent the public, without discrimination on the basis of race, creed, color, sex, or national origin, and with due but not exclusive consideration to the interests of agriculture, commerce, industry, services, labor, and consumers.
 
  __Change of Name__ 
 
@@ -52,17 +52,17 @@
 ----------
 ----------
 
-[/us/act/1913-12-23/ch6/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs4
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
 [/us/stat/38/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F255
 [/us/act/1935-08-23/ch614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch614
 [/us/stat/49/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F704
-[/us/pl/95/188/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F188%2Fs202
+[/us/pl/95/188/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F188%2FtII
 [/us/stat/91/1387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1387
 [/us/usc/t12/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs301
 [/us/pl/95/188/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F188%2Fs202
 [/us/usc/t12/s225a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs225a
-[/us/pl/95/188/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F188%2Fs202%2Fa
-[/us/pl/95/188/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F188%2Fs202%2Fb
-[/us/pl/95/188/s202/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F188%2Fs202%2Fc
+[/us/pl/95/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F188
+[/us/pl/95/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F188
+[/us/pl/95/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F188
 
 

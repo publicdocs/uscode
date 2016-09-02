@@ -17,7 +17,7 @@
 
  __Amendments__ 
 
-    1988—[Pub. L. 100–233, title IV, § 415(1)][/us/pl/100/233/s415/1], Jan. 6, 1988, [101 Stat. 1642][/us/stat/101/1642], inserted part A heading.
+    1988—[Pub. L. 100–233, title IV][/us/pl/100/233/tIV], § 415(1), Jan. 6, 1988, [101 Stat. 1642][/us/stat/101/1642], inserted part A heading.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/100/233/s415/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs415%2F1
+[/us/pl/100/233/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtIV
 [/us/stat/101/1642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1642
 
 

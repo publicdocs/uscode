@@ -17,7 +17,7 @@
 
     For the purpose of the authorities granted in this chapter, and for the costs of administering those authorities, the Secretary may use the proceeds of the sale of any securities issued under chapter 31 of title 31, and the purposes for which securities may be issued under chapter 31 of title 31 are extended to include actions authorized by this chapter, including the payment of administrative expenses. Any funds expended or obligated by the Secretary for actions authorized by this chapter, including the payment of administrative expenses, shall be deemed appropriated at the time of such expenditure or obligation.
 
-([Pub. L. 110–343, div. A, title I, § 118][/us/pl/110/343/s118], Oct. 3, 2008, [122 Stat. 3786][/us/stat/122/3786].)
+([Pub. L. 110–343, div. A, title I][/us/pl/110/343/dA/tI], § 118, Oct. 3, 2008, [122 Stat. 3786][/us/stat/122/3786].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/110/343/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs118
+[/us/pl/110/343/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdA%2FtI
 [/us/stat/122/3786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3786
 [/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
 [/us/stat/122/3765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3765

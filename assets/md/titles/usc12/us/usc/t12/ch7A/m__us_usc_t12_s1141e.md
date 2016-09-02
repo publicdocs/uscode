@@ -35,7 +35,7 @@
 
     (d) Loans for the construction or purchase of physical facilities, together with interest on the loans, shall be repaid upon an amortization plan over a period not in excess of twenty years.
 
-([June 15, 1929, ch. 24, § 7][/us/act/1929-06-15/ch24/s7], [46 Stat. 14][/us/stat/46/14]; Ex. Ord. No. 6084, Mar. 27, 1933; [June 16, 1933, ch. 98][/us/act/1933-06-16/ch98], title V, §§ 50–53, [48 Stat. 265][/us/stat/48/265]; [June 3, 1935, ch. 164][/us/act/1935-06-03/ch164], §§ 9, 10, [49 Stat. 316][/us/stat/49/316].)
+([June 15, 1929, ch. 24][/us/act/1929-06-15/ch24], § 7, [46 Stat. 14][/us/stat/46/14]; Ex. Ord. No. 6084, Mar. 27, 1933; [June 16, 1933, ch. 98][/us/act/1933-06-16/ch98], title V, §§ 50–53, [48 Stat. 265][/us/stat/48/265]; [June 3, 1935, ch. 164][/us/act/1935-06-03/ch164], §§ 9, 10, [49 Stat. 316][/us/stat/49/316].)
 
  __Codification__ 
 
@@ -67,7 +67,7 @@
 ----------
 
 [/us/usc/t12/s1141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1141
-[/us/act/1929-06-15/ch24/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-06-15%2Fch24%2Fs7
+[/us/act/1929-06-15/ch24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-06-15%2Fch24
 [/us/stat/46/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F14
 [/us/act/1933-06-16/ch98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-16%2Fch98
 [/us/stat/48/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F265

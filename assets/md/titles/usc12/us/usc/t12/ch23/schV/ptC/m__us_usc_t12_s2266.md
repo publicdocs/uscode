@@ -27,7 +27,7 @@
 
         The commencement of proceedings for judicial review under subsection (b) shall not, unless specifically ordered by the court, operate as a stay of any order issued by the Farm Credit Administration.
 
-([Pub. L. 92–181, title V, § 5][/us/pl/92/181/s5].30, as added [Pub. L. 99–205, title II, § 204][/us/pl/99/205/s204], Dec. 23, 1985, [99 Stat. 1699][/us/stat/99/1699]; amended [Pub. L. 100–233, title VIII, § 805(cc)][/us/pl/100/233/s805/cc], Jan. 6, 1988, [101 Stat. 1717][/us/stat/101/1717].)
+([Pub. L. 92–181, title V][/us/pl/92/181/tV], § 5.30, as added [Pub. L. 99–205, title II][/us/pl/99/205/tII], § 204, Dec. 23, 1985, [99 Stat. 1699][/us/stat/99/1699]; amended [Pub. L. 100–233, title VIII][/us/pl/100/233/tVIII], § 805(cc), Jan. 6, 1988, [101 Stat. 1717][/us/stat/101/1717].)
 
  __Prior Provisions__ 
 
@@ -52,10 +52,10 @@
 [/us/usc/t12/s2265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2265
 [/us/usc/t28/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2112
 [/us/usc/t28/s1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1254
-[/us/pl/92/181/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs5
-[/us/pl/99/205/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2Fs204
+[/us/pl/92/181/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtV
+[/us/pl/99/205/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2FtII
 [/us/stat/99/1699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1699
-[/us/pl/100/233/s805/cc]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs805%2Fcc
+[/us/pl/100/233/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtVIII
 [/us/stat/101/1717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1717
 [/us/pl/92/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181
 [/us/usc/t12/s2275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2275

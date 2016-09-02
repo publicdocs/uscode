@@ -43,7 +43,7 @@
 
         Data submitted under this section by an enterprise in connection with a provision referred to in subsection (a) shall be made publicly available in accordance with this section not later than September 30 of the year following the year to which the data relates.
 
-([Pub. L. 102–550, title XIII, § 1323][/us/pl/102/550/s1323], Oct. 28, 1992, [106 Stat. 3954][/us/stat/106/3954]; [Pub. L. 110–289, div. A, title I][/us/pl/110/289], §§ 1122(a)(1), 1126, July 30, 2008, [122 Stat. 2689][/us/stat/122/2689], 2695.)
+([Pub. L. 102–550, title XIII][/us/pl/102/550/tXIII], § 1323, Oct. 28, 1992, [106 Stat. 3954][/us/stat/106/3954]; [Pub. L. 110–289, div. A, title I][/us/pl/110/289/dA/tI], §§ 1122(a)(1), 1126, July 30, 2008, [122 Stat. 2689][/us/stat/122/2689], 2695.)
 
  __References in Text__ 
 
@@ -51,13 +51,13 @@
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–289, § 1122(a)(1)][/us/pl/110/289/s1122/a/1], substituted “Director” for “Secretary” wherever appearing in subsecs. (a) to (c).
+    2008—[Pub. L. 110–289][/us/pl/110/289], § 1122(a)(1), substituted “Director” for “Secretary” wherever appearing in subsecs. (a) to (c).
 
-    Subsec. (a). [Pub. L. 110–289, § 1126(1)][/us/pl/110/289/s1126/1], substituted “Availability” for “In general” in subsec. heading, inserted par. (1) designation and heading, and added par. (2). The amendment was executed to reflect the probable intent of Congress, notwithstanding an error in the directory language which did not take into consideration the prior amendment by [Pub. L. 110–289, § 1122(a)(1)][/us/pl/110/289/s1122/a/1]. See above.
+    Subsec. (a). [Pub. L. 110–289][/us/pl/110/289], § 1126(1), substituted “Availability” for “In general” in subsec. heading, inserted par. (1) designation and heading, and added par. (2). The amendment was executed to reflect the probable intent of Congress, notwithstanding an error in the directory language which did not take into consideration the prior amendment by [Pub. L. 110–289][/us/pl/110/289], § 1122(a)(1). See above.
 
-    Subsec. (b)(2). [Pub. L. 110–289, § 1126(2)][/us/pl/110/289/s1126/2], inserted “or with subsection (a)(2)” before period at end.
+    Subsec. (b)(2). [Pub. L. 110–289][/us/pl/110/289], § 1126(2), inserted “or with subsection (a)(2)” before period at end.
 
-    Subsec. (d). [Pub. L. 110–289, § 1126(3)][/us/pl/110/289/s1126/3], added subsec. (d).
+    Subsec. (d). [Pub. L. 110–289][/us/pl/110/289], § 1126(3), added subsec. (d).
 
 ----------
 
@@ -72,17 +72,17 @@
 [/us/usc/t12/s4546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4546
 [/us/usc/t12/s1723a/m/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1723a%2Fm%2F1%2FA
 [/us/usc/t12/s1456/e/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1456%2Fe%2F1%2FA
-[/us/pl/102/550/s1323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1323
+[/us/pl/102/550/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIII
 [/us/stat/106/3954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3954
-[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtI
 [/us/stat/122/2689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2689
 [/us/pl/94/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F200
 [/us/stat/89/1125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1125
 [/us/usc/t12/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2801
-[/us/pl/110/289/s1122/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1122%2Fa%2F1
-[/us/pl/110/289/s1126/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1126%2F1
-[/us/pl/110/289/s1122/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1122%2Fa%2F1
-[/us/pl/110/289/s1126/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1126%2F2
-[/us/pl/110/289/s1126/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1126%2F3
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
 
 

@@ -141,41 +141,41 @@
 
         (2) issue any securities the form of which has not been approved by the appropriate Federal banking agency.
 
-([June 13, 1933, ch. 64, § 4][/us/act/1933-06-13/ch64/s4], as added [Pub. L. 101–73, title III, § 301][/us/pl/101/73/s301], Aug. 9, 1989, [103 Stat. 280][/us/stat/103/280]; amended [Pub. L. 111–203, title III, § 369(4)][/us/pl/111/203/s369/4], July 21, 2010, [124 Stat. 1558][/us/stat/124/1558]; [Pub. L. 113–251, § 3(d)][/us/pl/113/251/s3/d], Dec. 18, 2014, [128 Stat. 2889][/us/stat/128/2889].)
+([June 13, 1933, ch. 64][/us/act/1933-06-13/ch64], § 4, as added [Pub. L. 101–73, title III][/us/pl/101/73/tIII], § 301, Aug. 9, 1989, [103 Stat. 280][/us/stat/103/280]; amended [Pub. L. 111–203, title III][/us/pl/111/203/tIII], § 369(4), July 21, 2010, [124 Stat. 1558][/us/stat/124/1558]; [Pub. L. 113–251][/us/pl/113/251], § 3(d), Dec. 18, 2014, [128 Stat. 2889][/us/stat/128/2889].)
 
  __Prior Provisions__ 
 
-    A prior section 1463, acts [June 13, 1933, ch. 64, § 4][/us/act/1933-06-13/ch64/s4], [48 Stat. 129][/us/stat/48/129]; [Apr. 27, 1934, ch. 168][/us/act/1934-04-27/ch168], §§ 1(a), 2–4, 13, [48 Stat. 643–645][/us/stat/48/643-645], 647; [June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title V, §§ 506, 508(b), [48 Stat. 1263][/us/stat/48/1263], 1264; [May 28, 1935, ch. 150][/us/act/1935-05-28/ch150], §§ 10–17(a), [49 Stat. 296][/us/stat/49/296], 297; [Aug. 11, 1939, ch. 684][/us/act/1939-08-11/ch684], [53 Stat. 1403][/us/stat/53/1403]; [Oct. 24, 1942, ch. 621][/us/act/1942-10-24/ch621], [56 Stat. 986][/us/stat/56/986]; [June 30, 1947, ch. 166][/us/act/1947-06-30/ch166], title II, § 206(f), [61 Stat. 206][/us/stat/61/206], related to creation of Home Owners’ Loan Corporation, for appointment and compensation of its board of directors, for appointment and compensation of its employees, and for other powers, prior to repeal by [Pub. L. 89–554, § 8(a)][/us/pl/89/554/s8/a], Sept. 6, 1966, [80 Stat. 648][/us/stat/80/648].
+    A prior section 1463, acts [June 13, 1933, ch. 64][/us/act/1933-06-13/ch64], § 4, [48 Stat. 129][/us/stat/48/129]; [Apr. 27, 1934, ch. 168][/us/act/1934-04-27/ch168], §§ 1(a), 2–4, 13, [48 Stat. 643–645][/us/stat/48/643-645], 647; [June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title V, §§ 506, 508(b), [48 Stat. 1263][/us/stat/48/1263], 1264; [May 28, 1935, ch. 150][/us/act/1935-05-28/ch150], §§ 10–17(a), [49 Stat. 296][/us/stat/49/296], 297; [Aug. 11, 1939, ch. 684][/us/act/1939-08-11/ch684], [53 Stat. 1403][/us/stat/53/1403]; [Oct. 24, 1942, ch. 621][/us/act/1942-10-24/ch621], [56 Stat. 986][/us/stat/56/986]; [June 30, 1947, ch. 166][/us/act/1947-06-30/ch166], title II, § 206(f), [61 Stat. 206][/us/stat/61/206], related to creation of Home Owners’ Loan Corporation, for appointment and compensation of its board of directors, for appointment and compensation of its employees, and for other powers, prior to repeal by [Pub. L. 89–554][/us/pl/89/554], § 8(a), Sept. 6, 1966, [80 Stat. 648][/us/stat/80/648].
 
-    A prior section 1463a, [act Apr. 27, 1934, ch. 168, § 1(b)][/us/act/1934-04-27/ch168/s1/b], [48 Stat. 644][/us/stat/48/644], provided that amendments made to subsec. (c) of former [section 1463 of this title][/us/usc/t12/s1463], except with respect to refunding, by act Apr. 27, 1934, should not apply to any bonds prior to Apr. 27, 1934, issued under subsec. (c), or to any bonds thereafter issued in compliance with commitments of the Corporation outstanding on Apr. 27, 1934.
+    A prior section 1463a, [act Apr. 27, 1934, ch. 168][/us/act/1934-04-27/ch168], § 1(b), [48 Stat. 644][/us/stat/48/644], provided that amendments made to subsec. (c) of former [section 1463 of this title][/us/usc/t12/s1463], except with respect to refunding, by act Apr. 27, 1934, should not apply to any bonds prior to Apr. 27, 1934, issued under subsec. (c), or to any bonds thereafter issued in compliance with commitments of the Corporation outstanding on Apr. 27, 1934.
 
-    A prior section 1463b, [act Apr. 27, 1934, ch. 168, § 9][/us/act/1934-04-27/ch168/s9], [48 Stat. 646][/us/stat/48/646], related to purchase of obligations of, and loans to, Federal Home Loan Banks, prior to repeal by [act May 28, 1935, ch. 150, § 17(b)][/us/act/1935-05-28/ch150/s17/b], [49 Stat. 297][/us/stat/49/297].
+    A prior section 1463b, [act Apr. 27, 1934, ch. 168][/us/act/1934-04-27/ch168], § 9, [48 Stat. 646][/us/stat/48/646], related to purchase of obligations of, and loans to, Federal Home Loan Banks, prior to repeal by [act May 28, 1935, ch. 150][/us/act/1935-05-28/ch150], § 17(b), [49 Stat. 297][/us/stat/49/297].
 
  __Amendments__ 
 
-    2014—Subsec. (e)(3)(B). [Pub. L. 113–251, § 3(d)(1)][/us/pl/113/251/s3/d/1], inserted “, other than a savings promotion raffle,” after “arrangement” in introductory provisions.
+    2014—Subsec. (e)(3)(B). [Pub. L. 113–251][/us/pl/113/251], § 3(d)(1), inserted “, other than a savings promotion raffle,” after “arrangement” in introductory provisions.
 
-    Subsec. (e)(3)(D). [Pub. L. 113–251, § 3(d)(2)][/us/pl/113/251/s3/d/2], added subpar. (D).
+    Subsec. (e)(3)(D). [Pub. L. 113–251][/us/pl/113/251], § 3(d)(2), added subpar. (D).
 
-    2010—Subsec. (a). [Pub. L. 111–203, § 369(4)(A)(i)][/us/pl/111/203/s369/4/A/i], struck out “Federal” before “savings” in heading.
+    2010—Subsec. (a). [Pub. L. 111–203][/us/pl/111/203], § 369(4)(A)(i), struck out “Federal” before “savings” in heading.
 
-    Subsec. (a)(1), (2). [Pub. L. 111–203, § 369(4)(A)(ii)][/us/pl/111/203/s369/4/A/ii], added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
+    Subsec. (a)(1), (2). [Pub. L. 111–203][/us/pl/111/203], § 369(4)(A)(ii), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
 
     “(1) In general.—The Director shall provide for the examination, safe and sound operation, and regulation of savings associations.
 
     “(2) Regulations.—The Director may issue such regulations as the Director determines to be appropriate to carry out the responsibilities of the Director or the Office.”
 
-    Subsec. (a)(3). [Pub. L. 111–203, § 369(4)(A)(iii)][/us/pl/111/203/s369/4/A/iii], substituted “Comptroller and the Corporation” for “Director” in two places.
+    Subsec. (a)(3). [Pub. L. 111–203][/us/pl/111/203], § 369(4)(A)(iii), substituted “Comptroller and the Corporation” for “Director” in two places.
 
-    Subsec. (b). [Pub. L. 111–203, § 369(4)(B)(ii)][/us/pl/111/203/s369/4/B/ii], substituted “Comptroller” for “Director” wherever appearing.
+    Subsec. (b). [Pub. L. 111–203][/us/pl/111/203], § 369(4)(B)(ii), substituted “Comptroller” for “Director” wherever appearing.
 
-    Subsec. (b)(2). [Pub. L. 111–203, § 369(4)(B)(i)][/us/pl/111/203/s369/4/B/i], inserted “and” at end of subpar. (A), substituted a period for “; and” at end of subpar. (B), and struck out subpar. (C) which read as follows: “prior to January 1, 1994, require full compliance by savings associations with accounting standards in effect at any time before such date not later than provided under the schedule in section 563.23–3 of title 12, Code of Federal Regulations (as in effect on May 1, 1989).”
+    Subsec. (b)(2). [Pub. L. 111–203][/us/pl/111/203], § 369(4)(B)(i), inserted “and” at end of subpar. (A), substituted a period for “; and” at end of subpar. (B), and struck out subpar. (C) which read as follows: “prior to January 1, 1994, require full compliance by savings associations with accounting standards in effect at any time before such date not later than provided under the schedule in section 563.23–3 of title 12, Code of Federal Regulations (as in effect on May 1, 1989).”
 
-    Subsec. (c). [Pub. L. 111–203, § 369(4)(C)][/us/pl/111/203/s369/4/C], substituted “The regulations of the Comptroller and the policies of the Comptroller and the Corporation” for “All regulations and policies of the Director” and struck out “of the Currency” before “for national”.
+    Subsec. (c). [Pub. L. 111–203][/us/pl/111/203], § 369(4)(C), substituted “The regulations of the Comptroller and the policies of the Comptroller and the Corporation” for “All regulations and policies of the Director” and struck out “of the Currency” before “for national”.
 
-    Subsec. (e)(5). [Pub. L. 111–203, § 369(4)(D)][/us/pl/111/203/s369/4/D], substituted “Comptroller” for “Director”.
+    Subsec. (e)(5). [Pub. L. 111–203][/us/pl/111/203], § 369(4)(D), substituted “Comptroller” for “Director”.
 
-    Subsecs. (f), (h). [Pub. L. 111–203, § 369(4)(E)][/us/pl/111/203/s369/4/E], (F), substituted “appropriate Federal banking agency” for “Director” in two places.
+    Subsecs. (f), (h). [Pub. L. 111–203][/us/pl/111/203], § 369(4)(E), (F), substituted “appropriate Federal banking agency” for “Director” in two places.
 
  __Effective Date of 2010 Amendment__ 
 
@@ -183,7 +183,7 @@
 
  __Preserving Minority Ownership of Minority Financial Institutions__ 
 
-[Pub. L. 101–73, title III, § 308][/us/pl/101/73/s308], Aug. 9, 1989, [103 Stat. 353][/us/stat/103/353], as amended by [Pub. L. 111–203, title III, § 367(4)][/us/pl/111/203/s367/4], July 21, 2010, [124 Stat. 1556][/us/stat/124/1556], provided that:
+[Pub. L. 101–73, title III][/us/pl/101/73/tIII], § 308, Aug. 9, 1989, [103 Stat. 353][/us/stat/103/353], as amended by [Pub. L. 111–203, title III][/us/pl/111/203/tIII], § 367(4), July 21, 2010, [124 Stat. 1556][/us/stat/124/1556], provided that:
 
 >     “(a)  __Consultation on Methods__  __.—__ 
 
@@ -239,7 +239,7 @@
 
  __Abolition of Home Owners’ Loan Corporation__ 
 
-    [Act June 30, 1953, ch. 170, § 21][/us/act/1953-06-30/ch170/s21], [67 Stat. 126][/us/stat/67/126], provided for dissolution and abolition of Home Owners’ Loan Corporation established by former [section 1463 of this title][/us/usc/t12/s1463].
+    [Act June 30, 1953, ch. 170][/us/act/1953-06-30/ch170], § 21, [67 Stat. 126][/us/stat/67/126], provided for dissolution and abolition of Home Owners’ Loan Corporation established by former [section 1463 of this title][/us/usc/t12/s1463].
 
 ----------
 
@@ -250,14 +250,14 @@
 
 [/us/usc/t12/s1464/t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1464%2Ft
 [/us/usc/t12/s5481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5481
-[/us/act/1933-06-13/ch64/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-13%2Fch64%2Fs4
-[/us/pl/101/73/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs301
+[/us/act/1933-06-13/ch64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-13%2Fch64
+[/us/pl/101/73/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtIII
 [/us/stat/103/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F280
-[/us/pl/111/203/s369/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs369%2F4
+[/us/pl/111/203/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIII
 [/us/stat/124/1558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1558
-[/us/pl/113/251/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F251%2Fs3%2Fd
+[/us/pl/113/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F251
 [/us/stat/128/2889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2889
-[/us/act/1933-06-13/ch64/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-13%2Fch64%2Fs4
+[/us/act/1933-06-13/ch64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-13%2Fch64
 [/us/stat/48/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F129
 [/us/act/1934-04-27/ch168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-04-27%2Fch168
 [/us/stat/48/643-645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F643-645
@@ -271,33 +271,33 @@
 [/us/stat/56/986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F986
 [/us/act/1947-06-30/ch166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-30%2Fch166
 [/us/stat/61/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F206
-[/us/pl/89/554/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs8%2Fa
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F648
-[/us/act/1934-04-27/ch168/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-04-27%2Fch168%2Fs1%2Fb
+[/us/act/1934-04-27/ch168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-04-27%2Fch168
 [/us/stat/48/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F644
 [/us/usc/t12/s1463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1463
-[/us/act/1934-04-27/ch168/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-04-27%2Fch168%2Fs9
+[/us/act/1934-04-27/ch168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-04-27%2Fch168
 [/us/stat/48/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F646
-[/us/act/1935-05-28/ch150/s17/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-05-28%2Fch150%2Fs17%2Fb
+[/us/act/1935-05-28/ch150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-05-28%2Fch150
 [/us/stat/49/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F297
-[/us/pl/113/251/s3/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F251%2Fs3%2Fd%2F1
-[/us/pl/113/251/s3/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F251%2Fs3%2Fd%2F2
-[/us/pl/111/203/s369/4/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs369%2F4%2FA%2Fi
-[/us/pl/111/203/s369/4/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs369%2F4%2FA%2Fii
-[/us/pl/111/203/s369/4/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs369%2F4%2FA%2Fiii
-[/us/pl/111/203/s369/4/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs369%2F4%2FB%2Fii
-[/us/pl/111/203/s369/4/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs369%2F4%2FB%2Fi
-[/us/pl/111/203/s369/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs369%2F4%2FC
-[/us/pl/111/203/s369/4/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs369%2F4%2FD
-[/us/pl/111/203/s369/4/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs369%2F4%2FE
+[/us/pl/113/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F251
+[/us/pl/113/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F251
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs351
 [/us/usc/t2/s906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs906
-[/us/pl/101/73/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs308
+[/us/pl/101/73/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtIII
 [/us/stat/103/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F353
-[/us/pl/111/203/s367/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs367%2F4
+[/us/pl/111/203/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIII
 [/us/stat/124/1556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1556
-[/us/act/1953-06-30/ch170/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-30%2Fch170%2Fs21
+[/us/act/1953-06-30/ch170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-30%2Fch170
 [/us/stat/67/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F126
 [/us/usc/t12/s1463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1463
 

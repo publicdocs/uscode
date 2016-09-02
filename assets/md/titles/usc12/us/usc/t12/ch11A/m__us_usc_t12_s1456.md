@@ -141,7 +141,7 @@
 
         (2) The Affordable Housing Advisory Council shall consist of 15 individuals, who shall include representatives of community-based and other nonprofit and for-profit organizations and State and local government agencies actively engaged in the promotion, development, or financing of housing for low- and moderate-income families.
 
-([Pub. L. 91–351, title III, § 307][/us/pl/91/351/s307], July 24, 1970, [84 Stat. 456][/us/stat/84/456]; [Pub. L. 101–73, title VII, § 731(j)(1)][/us/pl/101/73/s731/j/1], Aug. 9, 1989, [103 Stat. 435][/us/stat/103/435]; [Pub. L. 102–550, title XIII, § 1382][/us/pl/102/550/s1382](o)–(t), Oct. 28, 1992, [106 Stat. 4005–4008][/us/stat/106/4005-4008]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 110–289, div. A, title I, § 1161(c)(1)][/us/pl/110/289/s1161/c/1], (3), July 30, 2008, [122 Stat. 2780][/us/stat/122/2780].)
+([Pub. L. 91–351, title III][/us/pl/91/351/tIII], § 307, July 24, 1970, [84 Stat. 456][/us/stat/84/456]; [Pub. L. 101–73, title VII][/us/pl/101/73/tVII], § 731(j)(1), Aug. 9, 1989, [103 Stat. 435][/us/stat/103/435]; [Pub. L. 102–550, title XIII][/us/pl/102/550/tXIII], § 1382(o)–(t), Oct. 28, 1992, [106 Stat. 4005–4008][/us/stat/106/4005-4008]; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 110–289, div. A, title I][/us/pl/110/289/dA/tI], § 1161(c)(1), (3), July 30, 2008, [122 Stat. 2780][/us/stat/122/2780].)
 
  __References in Text__ 
 
@@ -149,21 +149,21 @@
 
  __Amendments__ 
 
-    2008—Subsec. (c)(1). [Pub. L. 110–289, § 1161(c)(1)][/us/pl/110/289/s1161/c/1], substituted “Director of the Federal Housing Finance Agency” for “Director of the Office of Federal Housing Enterprise Oversight of the Department of Housing and Urban Development”.
+    2008—Subsec. (c)(1). [Pub. L. 110–289][/us/pl/110/289], § 1161(c)(1), substituted “Director of the Federal Housing Finance Agency” for “Director of the Office of Federal Housing Enterprise Oversight of the Department of Housing and Urban Development”.
 
-    Subsec. (e)(1), (2). [Pub. L. 110–289, § 1161(c)(3)(A)][/us/pl/110/289/s1161/c/3/A], substituted “to the Director of the Federal Housing Finance Agency, in a form determined by the Director” for “to the Secretary, in a form determined by the Secretary” in introductory provisions.
+    Subsec. (e)(1), (2). [Pub. L. 110–289][/us/pl/110/289], § 1161(c)(3)(A), substituted “to the Director of the Federal Housing Finance Agency, in a form determined by the Director” for “to the Secretary, in a form determined by the Secretary” in introductory provisions.
 
-    Subsec. (f)(1). [Pub. L. 110–289, § 1161(c)(3)(B)(i)][/us/pl/110/289/s1161/c/3/B/i], substituted “and the Director of the Federal Housing Finance Agency” for “and the Secretary”.
+    Subsec. (f)(1). [Pub. L. 110–289][/us/pl/110/289], § 1161(c)(3)(B)(i), substituted “and the Director of the Federal Housing Finance Agency” for “and the Secretary”.
 
-    Subsec. (f)(2)(E), (L). [Pub. L. 110–289, § 1161(c)(3)(B)(ii)][/us/pl/110/289/s1161/c/3/B/ii], substituted “the Director of the Federal Housing Finance Agency” for “the Secretary”.
+    Subsec. (f)(2)(E), (L). [Pub. L. 110–289][/us/pl/110/289], § 1161(c)(3)(B)(ii), substituted “the Director of the Federal Housing Finance Agency” for “the Secretary”.
 
-    Subsec. (f)(3)(B). [Pub. L. 110–289, § 1161(c)(3)(B)(iii)][/us/pl/110/289/s1161/c/3/B/iii], substituted “Director of the Federal Housing Finance Agency” for “Secretary”.
+    Subsec. (f)(3)(B). [Pub. L. 110–289][/us/pl/110/289], § 1161(c)(3)(B)(iii), substituted “Director of the Federal Housing Finance Agency” for “Secretary”.
 
     2004—Subsec. (b). [Pub. L. 108–271][/us/pl/108/271] substituted “Government Accountability Office” for “General Accounting Office” wherever appearing.
 
-    1992—Subsec. (b). [Pub. L. 102–550, § 1382][/us/pl/102/550/s1382](o), designated existing provisions as par. (1), substituted “The programs, activities, receipts, expenditures, and financial transactions of the Corporation shall be subject to audit by the Comptroller General of the United States under such rules and regulations as may be prescribed by the Comptroller General.” for “The financial transactions of the Corporation shall be subject to audit by the General Accounting Office in accordance with the principles and procedures applicable to commercial corporate transactions under such rules and regulations as may be prescribed by the Comptroller General of the United States.”, and added par. (2).
+    1992—Subsec. (b). [Pub. L. 102–550][/us/pl/102/550], § 1382(o), designated existing provisions as par. (1), substituted “The programs, activities, receipts, expenditures, and financial transactions of the Corporation shall be subject to audit by the Comptroller General of the United States under such rules and regulations as may be prescribed by the Comptroller General.” for “The financial transactions of the Corporation shall be subject to audit by the General Accounting Office in accordance with the principles and procedures applicable to commercial corporate transactions under such rules and regulations as may be prescribed by the Comptroller General of the United States.”, and added par. (2).
 
-    Subsecs. (c) to (g). [Pub. L. 102–550, § 1382(p)][/us/pl/102/550/s1382/p]–(t), added subsecs. (c) to (g).
+    Subsecs. (c) to (g). [Pub. L. 102–550][/us/pl/102/550], § 1382(p)–(t), added subsecs. (c) to (g).
 
     1989—Subsec. (a). [Pub. L. 101–73][/us/pl/101/73] substituted “The Corporation is authorized to conduct its business without regard to any qualification or similar statute in any State.” for “The Corporation shall be entitled to all immunities and priorities, including without limitation on the generality of the foregoing all immunities and priorities under any such law or action, to which it would be entitled if it were the United States or if it were an unincorporated agency of the United States.”
 
@@ -173,7 +173,7 @@
 
  __Effective Date of 1989 Amendment__ 
 
-[Pub. L. 101–73, title VII, § 731(j)(2)][/us/pl/101/73/s731/j/2], Aug. 9, 1989, [103 Stat. 435][/us/stat/103/435], provided that: 
+[Pub. L. 101–73, title VII][/us/pl/101/73/tVII], § 731(j)(2), Aug. 9, 1989, [103 Stat. 435][/us/stat/103/435], provided that: 
 
 > “The amendment made by this subsection \[amending this section\] shall not apply to any assertion of priority by the Federal Home Loan Mortgage Corporation with respect to any cause of action or claim filed before the date of the enactment of this Act \[Aug. 9, 1989\].”
 
@@ -192,31 +192,31 @@
 [/us/usc/t12/s4561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4561
 [/us/usc/t42/s12705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12705
 [/us/usc/t12/s4546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4546
-[/us/pl/91/351/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F351%2Fs307
+[/us/pl/91/351/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F351%2FtIII
 [/us/stat/84/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F456
-[/us/pl/101/73/s731/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs731%2Fj%2F1
+[/us/pl/101/73/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtVII
 [/us/stat/103/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F435
-[/us/pl/102/550/s1382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1382
+[/us/pl/102/550/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIII
 [/us/stat/106/4005-4008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4005-4008
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
-[/us/pl/110/289/s1161/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1161%2Fc%2F1
+[/us/pl/110/289/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtI
 [/us/stat/122/2780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2780
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/stat/106/3941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3941
 [/us/usc/t12/s4501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4501
-[/us/pl/110/289/s1161/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1161%2Fc%2F1
-[/us/pl/110/289/s1161/c/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1161%2Fc%2F3%2FA
-[/us/pl/110/289/s1161/c/3/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1161%2Fc%2F3%2FB%2Fi
-[/us/pl/110/289/s1161/c/3/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1161%2Fc%2F3%2FB%2Fii
-[/us/pl/110/289/s1161/c/3/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1161%2Fc%2F3%2FB%2Fiii
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
-[/us/pl/102/550/s1382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1382
-[/us/pl/102/550/s1382/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1382%2Fp
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21
-[/us/pl/101/73/s731/j/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs731%2Fj%2F2
+[/us/pl/101/73/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtVII
 [/us/stat/103/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F435
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770

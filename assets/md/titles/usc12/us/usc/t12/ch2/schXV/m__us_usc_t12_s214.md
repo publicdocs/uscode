@@ -19,7 +19,7 @@
 
     (b) For purposes of merger or consolidation under this subchapter and [section 321 of this title][/us/usc/t12/s321] the term “national banking association” means one or more national banking associations, and the term “State bank” means one or more State banks.
 
-([Aug. 17, 1950, ch. 729, § 1][/us/act/1950-08-17/ch729/s1], [64 Stat. 455][/us/stat/64/455]; [Sept. 3, 1954, ch. 1263, § 24][/us/act/1954-09-03/ch1263/s24], [68 Stat. 1234][/us/stat/68/1234]; [Pub. L. 109–351, title VII, § 725(f)][/us/pl/109/351/s725/f], Oct. 13, 2006, [120 Stat. 2002][/us/stat/120/2002]; [Pub. L. 109–356, title I, § 123(f)][/us/pl/109/356/s123/f], Oct. 16, 2006, [120 Stat. 2029][/us/stat/120/2029].)
+([Aug. 17, 1950, ch. 729][/us/act/1950-08-17/ch729], § 1, [64 Stat. 455][/us/stat/64/455]; [Sept. 3, 1954, ch. 1263][/us/act/1954-09-03/ch1263], § 24, [68 Stat. 1234][/us/stat/68/1234]; [Pub. L. 109–351, title VII][/us/pl/109/351/tVII], § 725(f), Oct. 13, 2006, [120 Stat. 2002][/us/stat/120/2002]; [Pub. L. 109–356, title I][/us/pl/109/356/tI], § 123(f), Oct. 16, 2006, [120 Stat. 2029][/us/stat/120/2029].)
 
  __Amendments__ 
 
@@ -29,7 +29,7 @@
 
  __Separability__ 
 
-[Act Aug. 17, 1950, ch. 729, § 9][/us/act/1950-08-17/ch729/s9], [64 Stat. 458][/us/stat/64/458], provided that: 
+[Act Aug. 17, 1950, ch. 729][/us/act/1950-08-17/ch729], § 9, [64 Stat. 458][/us/stat/64/458], provided that: 
 
 > “If any provision of this Act \[enacting this subchapter and amending of sections 264 and 321 of this title\], or the application thereof to any person or circumstance, is held invalid, the remainder of the Act and the application of such provision to other persons or circumstances shall not be affected thereby.”
 
@@ -42,17 +42,17 @@
 
 [/us/usc/t12/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs321
 [/us/usc/t12/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs321
-[/us/act/1950-08-17/ch729/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-17%2Fch729%2Fs1
+[/us/act/1950-08-17/ch729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-17%2Fch729
 [/us/stat/64/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F455
-[/us/act/1954-09-03/ch1263/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-03%2Fch1263%2Fs24
+[/us/act/1954-09-03/ch1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-03%2Fch1263
 [/us/stat/68/1234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1234
-[/us/pl/109/351/s725/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs725%2Ff
+[/us/pl/109/351/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2FtVII
 [/us/stat/120/2002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2002
-[/us/pl/109/356/s123/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F356%2Fs123%2Ff
+[/us/pl/109/356/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F356%2FtI
 [/us/stat/120/2029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2029
 [/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
 [/us/usc/t12/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs321
-[/us/act/1950-08-17/ch729/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-17%2Fch729%2Fs9
+[/us/act/1950-08-17/ch729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-17%2Fch729
 [/us/stat/64/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F458
 
 

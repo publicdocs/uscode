@@ -693,7 +693,7 @@
 
             The prohibitions under paragraph (1) apply only to applications for financing by the Bank for projects concerning the exploration, development, production, or export of energy sources and the generation or transmission of electrical power, or combined heat and power, regardless of the energy source involved.
 
-([July 31, 1945, ch. 341, § 2][/us/act/1945-07-31/ch341/s2], [59 Stat. 526][/us/stat/59/526]; [Dec. 28, 1945, ch. 602][/us/act/1945-12-28/ch602], [59 Stat. 666][/us/stat/59/666]; [June 9, 1947, ch. 101, § 1][/us/act/1947-06-09/ch101/s1], [61 Stat. 130][/us/stat/61/130]; [May 21, 1953, ch. 64, § 1][/us/act/1953-05-21/ch64/s1], [67 Stat. 28][/us/stat/67/28]; [Pub. L. 87–311][/us/pl/87/311], Sept. 26, 1961, [75 Stat. 673][/us/stat/75/673]; [Pub. L. 88–101, § 1(a)][/us/pl/88/101/s1/a], Aug. 20, 1963, [77 Stat. 128][/us/stat/77/128]; [Pub. L. 90–267, § 1(a)][/us/pl/90/267/s1/a]–(c), Mar. 13, 1968, [82 Stat. 47–49][/us/stat/82/47-49]; [Pub. L. 92–126, § 1(b)(1)][/us/pl/92/126/s1/b/1], (2), (5), (6), Aug. 17, 1971, [85 Stat. 345][/us/stat/85/345], 346; [Pub. L. 93–646][/us/pl/93/646], §§ 2–6, 13, Jan. 4, 1975, [88 Stat. 2333–2335][/us/stat/88/2333-2335], 2337; [Pub. L. 95–143][/us/pl/95/143], §§ 1–3, Oct. 26, 1977, [91 Stat. 1210][/us/stat/91/1210]; [Pub. L. 95–630, title XIX][/us/pl/95/630], §§ 1902–1904, 1907(a), 1909, 1910, 1915, 1916, Nov. 10, 1978, [92 Stat. 3724–3727][/us/stat/92/3724-3727]; [Pub. L. 96–470, title II, § 210][/us/pl/96/470/s210], Oct. 19, 1980, [94 Stat. 2245][/us/stat/94/2245]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title VI, §§ 612, 616(a), 617, 618(a), (c), 619(b)–(d), 620(a), 622\], Nov. 30, 1983, [97 Stat. 1255][/us/stat/97/1255], 1257, 1258, 1260, 1261; [Pub. L. 99–440, title II, § 204][/us/pl/99/440/s204], Oct. 2, 1986, [100 Stat. 1096][/us/stat/100/1096]; [Pub. L. 99–472][/us/pl/99/472], §§ 2–11, 20(a), Oct. 15, 1986, [100 Stat. 1200–1203][/us/stat/100/1200-1203], 1209; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 100–418, title III, § 3304][/us/pl/100/418/s3304], Aug. 23, 1988, [102 Stat. 1384][/us/stat/102/1384]; [Pub. L. 100–690, title IV, § 4703][/us/pl/100/690/s4703], Nov. 18, 1988, [102 Stat. 4293][/us/stat/102/4293]; [Pub. L. 101–240, title I][/us/pl/101/240], §§ 101(a), (c), (d), 102, Dec. 19, 1989, [103 Stat. 2493–2495][/us/stat/103/2493-2495]; [Pub. L. 101–513, title V, § 562][/us/pl/101/513/s562] (part), Nov. 5, 1990, [104 Stat. 2031][/us/stat/104/2031]; [Pub. L. 101–623, § 16][/us/pl/101/623/s16], Nov. 21, 1990, [104 Stat. 3357][/us/stat/104/3357]; [Pub. L. 102–145, § 121(2)][/us/pl/102/145/s121/2], (3), Oct. 28, 1991, as added [Pub. L. 102–266, § 102][/us/pl/102/266/s102], Apr. 1, 1992, [106 Stat. 95][/us/stat/106/95]; [Pub. L. 102–429, title I][/us/pl/102/429], §§ 104, 105, 107, 109(a), 110–112(d), 114, 116, 121(a), Oct. 21, 1992, [106 Stat. 2189][/us/stat/106/2189], 2190, 2193–2196, 2198; [Pub. L. 102–583][/us/pl/102/583], §§ 6(c), 12(a), (c)(1)(A), Nov. 2, 1992, [106 Stat. 4932][/us/stat/106/4932], 4935; [Pub. L. 103–149, § 4(b)(5)][/us/pl/103/149/s4/b/5], Nov. 23, 1993, [107 Stat. 1505][/us/stat/107/1505]; [Pub. L. 103–236, title VIII, § 825][/us/pl/103/236/s825], Apr. 30, 1994, [108 Stat. 514][/us/stat/108/514]; [Pub. L. 103–428, § 1(a)][/us/pl/103/428/s1/a], (b), Oct. 31, 1994, [108 Stat. 4375][/us/stat/108/4375]; [Pub. L. 103–447, title I, § 102(a)][/us/pl/103/447/s102/a], Nov. 2, 1994, [108 Stat. 4693][/us/stat/108/4693]; [Pub. L. 104–201, div. A, title XIII, § 1303(a)][/us/pl/104/201/s1303/a], Sept. 23, 1996, [110 Stat. 2702][/us/stat/110/2702]; [Pub. L. 105–121][/us/pl/105/121], §§ 5, 7(a), 9–12, Nov. 26, 1997, [111 Stat. 2529][/us/stat/111/2529], 2530; [Pub. L. 106–569, title XI][/us/pl/106/569], §§ 1103(d)(1), 1104(a)(1), (2), Dec. 27, 2000, [114 Stat. 3031][/us/stat/114/3031]; [Pub. L. 107–189][/us/pl/107/189], §§ 2, 6(a), (b), 7–8(b), 11, 13, 15–19, 21, 24(a)(1)–(2)(D), (b)(1)–(3), June 14, 2002, [116 Stat. 698][/us/stat/116/698], 700, 704–709; [Pub. L. 109–438][/us/pl/109/438], §§ 3(a), (b)(2), (c), 5, 6(b)(2), 7, 8, 11, 12, 13(b), (c), 14(b), Dec. 20, 2006, [120 Stat. 3268][/us/stat/120/3268], 3269, 3272, 3273, 3276, 3277, 3279, 3280; [Pub. L. 112–122][/us/pl/112/122], §§ 7, 8, 12(b), 22, 23, May 30, 2012, [126 Stat. 354][/us/stat/126/354], 357, 363; [Pub. L. 114–94, div. E, title LII, § 52001(a)][/us/pl/114/94/s52001/a],title LIII, § 53001, title LIV, §§ 54001(c), 54002(a), (b), title LV, § 55001, Dec. 4, 2015, [129 Stat. 1767–1769][/us/stat/129/1767-1769].)
+([July 31, 1945, ch. 341][/us/act/1945-07-31/ch341], § 2, [59 Stat. 526][/us/stat/59/526]; [Dec. 28, 1945, ch. 602][/us/act/1945-12-28/ch602], [59 Stat. 666][/us/stat/59/666]; [June 9, 1947, ch. 101][/us/act/1947-06-09/ch101], § 1, [61 Stat. 130][/us/stat/61/130]; [May 21, 1953, ch. 64][/us/act/1953-05-21/ch64], § 1, [67 Stat. 28][/us/stat/67/28]; [Pub. L. 87–311][/us/pl/87/311], Sept. 26, 1961, [75 Stat. 673][/us/stat/75/673]; [Pub. L. 88–101][/us/pl/88/101], § 1(a), Aug. 20, 1963, [77 Stat. 128][/us/stat/77/128]; [Pub. L. 90–267][/us/pl/90/267], § 1(a)–(c), Mar. 13, 1968, [82 Stat. 47–49][/us/stat/82/47-49]; [Pub. L. 92–126][/us/pl/92/126], § 1(b)(1), (2), (5), (6), Aug. 17, 1971, [85 Stat. 345][/us/stat/85/345], 346; [Pub. L. 93–646][/us/pl/93/646], §§ 2–6, 13, Jan. 4, 1975, [88 Stat. 2333–2335][/us/stat/88/2333-2335], 2337; [Pub. L. 95–143][/us/pl/95/143], §§ 1–3, Oct. 26, 1977, [91 Stat. 1210][/us/stat/91/1210]; [Pub. L. 95–630, title XIX][/us/pl/95/630/tXIX], §§ 1902–1904, 1907(a), 1909, 1910, 1915, 1916, Nov. 10, 1978, [92 Stat. 3724–3727][/us/stat/92/3724-3727]; [Pub. L. 96–470, title II][/us/pl/96/470/tII], § 210, Oct. 19, 1980, [94 Stat. 2245][/us/stat/94/2245]; [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title VI, §§ 612, 616(a), 617, 618(a), (c), 619(b)–(d), 620(a), 622\], Nov. 30, 1983, [97 Stat. 1255][/us/stat/97/1255], 1257, 1258, 1260, 1261; [Pub. L. 99–440, title II][/us/pl/99/440/tII], § 204, Oct. 2, 1986, [100 Stat. 1096][/us/stat/100/1096]; [Pub. L. 99–472][/us/pl/99/472], §§ 2–11, 20(a), Oct. 15, 1986, [100 Stat. 1200–1203][/us/stat/100/1200-1203], 1209; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 100–418, title III][/us/pl/100/418/tIII], § 3304, Aug. 23, 1988, [102 Stat. 1384][/us/stat/102/1384]; [Pub. L. 100–690, title IV][/us/pl/100/690/tIV], § 4703, Nov. 18, 1988, [102 Stat. 4293][/us/stat/102/4293]; [Pub. L. 101–240, title I][/us/pl/101/240/tI], §§ 101(a), (c), (d), 102, Dec. 19, 1989, [103 Stat. 2493–2495][/us/stat/103/2493-2495]; [Pub. L. 101–513, title V][/us/pl/101/513/tV], § 562 (part), Nov. 5, 1990, [104 Stat. 2031][/us/stat/104/2031]; [Pub. L. 101–623][/us/pl/101/623], § 16, Nov. 21, 1990, [104 Stat. 3357][/us/stat/104/3357]; [Pub. L. 102–145][/us/pl/102/145], § 121(2), (3), Oct. 28, 1991, as added [Pub. L. 102–266][/us/pl/102/266], § 102, Apr. 1, 1992, [106 Stat. 95][/us/stat/106/95]; [Pub. L. 102–429, title I][/us/pl/102/429/tI], §§ 104, 105, 107, 109(a), 110–112(d), 114, 116, 121(a), Oct. 21, 1992, [106 Stat. 2189][/us/stat/106/2189], 2190, 2193–2196, 2198; [Pub. L. 102–583][/us/pl/102/583], §§ 6(c), 12(a), (c)(1)(A), Nov. 2, 1992, [106 Stat. 4932][/us/stat/106/4932], 4935; [Pub. L. 103–149][/us/pl/103/149], § 4(b)(5), Nov. 23, 1993, [107 Stat. 1505][/us/stat/107/1505]; [Pub. L. 103–236, title VIII][/us/pl/103/236/tVIII], § 825, Apr. 30, 1994, [108 Stat. 514][/us/stat/108/514]; [Pub. L. 103–428][/us/pl/103/428], § 1(a), (b), Oct. 31, 1994, [108 Stat. 4375][/us/stat/108/4375]; [Pub. L. 103–447, title I][/us/pl/103/447/tI], § 102(a), Nov. 2, 1994, [108 Stat. 4693][/us/stat/108/4693]; [Pub. L. 104–201, div. A, title XIII][/us/pl/104/201/dA/tXIII], § 1303(a), Sept. 23, 1996, [110 Stat. 2702][/us/stat/110/2702]; [Pub. L. 105–121][/us/pl/105/121], §§ 5, 7(a), 9–12, Nov. 26, 1997, [111 Stat. 2529][/us/stat/111/2529], 2530; [Pub. L. 106–569, title XI][/us/pl/106/569/tXI], §§ 1103(d)(1), 1104(a)(1), (2), Dec. 27, 2000, [114 Stat. 3031][/us/stat/114/3031]; [Pub. L. 107–189][/us/pl/107/189], §§ 2, 6(a), (b), 7–8(b), 11, 13, 15–19, 21, 24(a)(1)–(2)(D), (b)(1)–(3), June 14, 2002, [116 Stat. 698][/us/stat/116/698], 700, 704–709; [Pub. L. 109–438][/us/pl/109/438], §§ 3(a), (b)(2), (c), 5, 6(b)(2), 7, 8, 11, 12, 13(b), (c), 14(b), Dec. 20, 2006, [120 Stat. 3268][/us/stat/120/3268], 3269, 3272, 3273, 3276, 3277, 3279, 3280; [Pub. L. 112–122][/us/pl/112/122], §§ 7, 8, 12(b), 22, 23, May 30, 2012, [126 Stat. 354][/us/stat/126/354], 357, 363; [Pub. L. 114–94, div. E, title LII][/us/pl/114/94/dE/tLII], § 52001(a), title LIII, § 53001, title LIV, §§ 54001(c), 54002(a), (b), title LV, § 55001, Dec. 4, 2015, [129 Stat. 1767–1769][/us/stat/129/1767-1769].)
 
  __Amendment of Section__ 
 
@@ -701,7 +701,7 @@
 
  __References in Text__ 
 
-    The Federal Credit Reform Act of 1990, referred to in subsec. (b)(1)(B), is title V of [Pub. L. 93–344][/us/pl/93/344], as added by [Pub. L. 101–508, title XIII, § 13201(a)][/us/pl/101/508/s13201/a], Nov. 5, 1990, [104 Stat. 1388–609][/us/stat/104/1388-609], which is classified generally to subchapter III (§ 661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under [section 621 of Title 2][/us/usc/t2/s621] and Tables.
+    The Federal Credit Reform Act of 1990, referred to in subsec. (b)(1)(B), is title V of [Pub. L. 93–344][/us/pl/93/344], as added by [Pub. L. 101–508, title XIII][/us/pl/101/508/tXIII], § 13201(a), Nov. 5, 1990, [104 Stat. 1388–609][/us/stat/104/1388-609], which is classified generally to subchapter III (§ 661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under [section 621 of Title 2][/us/usc/t2/s621] and Tables.
 
     The Foreign Corrupt Practices Act of 1977, referred to in subsec. (b)(1)(B), (L), is title I of [Pub. L. 95–213][/us/pl/95/213], Dec. 19, 1977, [91 Stat. 1494][/us/stat/91/1494], as amended, which enacted sections 78dd–1 to 78dd–3 of Title 15, Commerce and Trade, and amended sections 78m and 78ff of Title 15. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under [section 78a of Title 15][/us/usc/t15/s78a] and Tables.
 
@@ -711,7 +711,7 @@
 
     The Export Administration Act of 1979, referred to in subsec. (b)(1)(B), (L), is [Pub. L. 96–72][/us/pl/96/72], Sept. 29, 1979, [93 Stat. 503][/us/stat/93/503], which is classified principally to chapter 56 (§ 4601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
-    [Section 2151q of title 22][/us/usc/t22/s2151q], referred to in subsec. (b)(1)(C), was repealed by [Pub. L. 96–533, title III, § 304(g)][/us/pl/96/533/s304/g], Dec. 16, 1980, [94 Stat. 3147][/us/stat/94/3147]. See section 2151d(a)(2), (b)(2), (c) of Title 22, Foreign Relations and Intercourse.
+    [Section 2151q of title 22][/us/usc/t22/s2151q], referred to in subsec. (b)(1)(C), was repealed by [Pub. L. 96–533, title III][/us/pl/96/533/tIII], § 304(g), Dec. 16, 1980, [94 Stat. 3147][/us/stat/94/3147]. See section 2151d(a)(2), (b)(2), (c) of Title 22, Foreign Relations and Intercourse.
 
     The African Growth and Opportunity Act, referred to in subsec. (b)(9)(C), is title I of [Pub. L. 106–200][/us/pl/106/200], May 18, 2000, [114 Stat. 252][/us/stat/114/252], as amended, which is classified principally to chapter 23 (§ 3701 et seq.) of Title 19, Customs Duties. For complete classification of this Act to the Code, see Short Title note set out under [section 3701 of Title 19][/us/usc/t19/s3701] and Tables.
 
@@ -727,107 +727,107 @@
 
  __Amendments__ 
 
-    2015—Subsec. (a)(2)(A)(iii). [Pub. L. 114–94, § 54002(a)][/us/pl/114/94/s54002/a], added cl. (iii).
+    2015—Subsec. (a)(2)(A)(iii). [Pub. L. 114–94][/us/pl/114/94], § 54002(a), added cl. (iii).
 
-    Subsec. (b)(1)(E)(v). [Pub. L. 114–94, § 52001(a)][/us/pl/114/94/s52001/a], substituted “25 percent” for “20 percent”.
+    Subsec. (b)(1)(E)(v). [Pub. L. 114–94][/us/pl/114/94], § 52001(a), substituted “25 percent” for “20 percent”.
 
-    Subsec. (b)(1)(M). [Pub. L. 114–94, § 53001][/us/pl/114/94/s53001], added subpar. (M).
+    Subsec. (b)(1)(M). [Pub. L. 114–94][/us/pl/114/94], § 53001, added subpar. (M).
 
-    Subsec. (b)(9)(B)(iii). [Pub. L. 114–94, § 54001(c)][/us/pl/114/94/s54001/c], substituted “the date on which the authority of the Bank expires under [section 635f of this title][/us/usc/t12/s635f]” for “September 30, 2014”.
+    Subsec. (b)(9)(B)(iii). [Pub. L. 114–94][/us/pl/114/94], § 54001(c), substituted “the date on which the authority of the Bank expires under [section 635f of this title][/us/usc/t12/s635f]” for “September 30, 2014”.
 
-    Subsec. (d)(2). [Pub. L. 114–94, § 54002(b)][/us/pl/114/94/s54002/b], substituted “$25,000,000” for “$10,000,000”.
+    Subsec. (d)(2). [Pub. L. 114–94][/us/pl/114/94], § 54002(b), substituted “$25,000,000” for “$10,000,000”.
 
-    Subsec. (k). [Pub. L. 114–94, § 55001][/us/pl/114/94/s55001], added subsec. (k).
+    Subsec. (k). [Pub. L. 114–94][/us/pl/114/94], § 55001, added subsec. (k).
 
-    2012—Subsec. (b)(2)(B)(ii). [Pub. L. 112–122, § 22][/us/pl/112/122/s22], redesignated subcls. (II), (III), (V), (VI), (VIII), and (IX) as (I) to (VI), respectively, and struck out subcls. (I), (IV), and (VII) which deemed Cambodian People’s Republic, Lao People’s Democratic Republic, and Socialist Federal Republic of Yugoslavia as Marxist-Leninist countries for purposes of par. (2).
+    2012—Subsec. (b)(2)(B)(ii). [Pub. L. 112–122][/us/pl/112/122], § 22, redesignated subcls. (II), (III), (V), (VI), (VIII), and (IX) as (I) to (VI), respectively, and struck out subcls. (I), (IV), and (VII) which deemed Cambodian People’s Republic, Lao People’s Democratic Republic, and Socialist Federal Republic of Yugoslavia as Marxist-Leninist countries for purposes of par. (2).
 
-    Subsec. (b)(9)(B)(iii). [Pub. L. 112–122, § 23][/us/pl/112/122/s23], substituted “2014” for “2011”.
+    Subsec. (b)(9)(B)(iii). [Pub. L. 112–122][/us/pl/112/122], § 23, substituted “2014” for “2011”.
 
-    Subsec. (e)(7)(E) to (G). [Pub. L. 112–122, § 12(b)][/us/pl/112/122/s12/b], added subpar. (E) and redesignated former subpars. (E) and (F) as (F) and (G), respectively.
+    Subsec. (e)(7)(E) to (G). [Pub. L. 112–122][/us/pl/112/122], § 12(b), added subpar. (E) and redesignated former subpars. (E) and (F) as (F) and (G), respectively.
 
-    Subsec. (i). [Pub. L. 112–122, § 7][/us/pl/112/122/s7], added subsec. (i).
+    Subsec. (i). [Pub. L. 112–122][/us/pl/112/122], § 7, added subsec. (i).
 
-    Subsec. (j). [Pub. L. 112–122, § 8][/us/pl/112/122/s8], added subsec. (j).
+    Subsec. (j). [Pub. L. 112–122][/us/pl/112/122], § 8, added subsec. (j).
 
-    2006—Subsec. (b)(1)(A). [Pub. L. 109–438, § 13(b)][/us/pl/109/438/s13/b], (c), inserted “, including countries the governments of which are not members of the Arrangement (as defined in [section 635i–3(h)(3) of this title][/us/usc/t12/s635i–3/h/3])” after “United States exporters” in second sentence and struck out fourth to twelfth sentences which related to compliance reporting requirements.
+    2006—Subsec. (b)(1)(A). [Pub. L. 109–438][/us/pl/109/438], § 13(b), (c), inserted “, including countries the governments of which are not members of the Arrangement (as defined in [section 635i–3(h)(3) of this title][/us/usc/t12/s635i–3/h/3])” after “United States exporters” in second sentence and struck out fourth to twelfth sentences which related to compliance reporting requirements.
 
-    Subsec. (b)(1)(E)(v). [Pub. L. 109–438, § 14(b)][/us/pl/109/438/s14/b], inserted at end “From the amount made available under the preceding sentence, it shall be a goal of the Bank to increase the amount made available to finance exports directly by small business concerns referred to in [section 635a(i)(1) of this title][/us/usc/t12/s635a/i/1].”
+    Subsec. (b)(1)(E)(v). [Pub. L. 109–438][/us/pl/109/438], § 14(b), inserted at end “From the amount made available under the preceding sentence, it shall be a goal of the Bank to increase the amount made available to finance exports directly by small business concerns referred to in [section 635a(i)(1) of this title][/us/usc/t12/s635a/i/1].”
 
-    Subsec. (b)(1)(E)(vii)(III). [Pub. L. 109–438, § 6(b)(2)][/us/pl/109/438/s6/b/2], inserted “or other financing institutions or entities” after “consortia”.
+    Subsec. (b)(1)(E)(vii)(III). [Pub. L. 109–438][/us/pl/109/438], § 6(b)(2), inserted “or other financing institutions or entities” after “consortia”.
 
-    Subsec. (b)(9)(B)(iii). [Pub. L. 109–438, § 3(a)][/us/pl/109/438/s3/a], substituted “2011” for “2006”.
+    Subsec. (b)(9)(B)(iii). [Pub. L. 109–438][/us/pl/109/438], § 3(a), substituted “2011” for “2006”.
 
-    Subsec. (b)(9)(C), (D). [Pub. L. 109–438, § 3(b)(2)][/us/pl/109/438/s3/b/2], (c), added subpars. (C) and (D).
+    Subsec. (b)(9)(C), (D). [Pub. L. 109–438][/us/pl/109/438], § 3(b)(2), (c), added subpars. (C) and (D).
 
-    Subsec. (b)(13). [Pub. L. 109–438, § 11][/us/pl/109/438/s11], added par. (13).
+    Subsec. (b)(13). [Pub. L. 109–438][/us/pl/109/438], § 11, added par. (13).
 
-    Subsec. (e)(1). [Pub. L. 109–438, § 7(1)][/us/pl/109/438/s7/1], inserted concluding provisions.
+    Subsec. (e)(1). [Pub. L. 109–438][/us/pl/109/438], § 7(1), inserted concluding provisions.
 
-    Subsec. (e)(2)(C). [Pub. L. 109–438, § 8(b)][/us/pl/109/438/s8/b], inserted “of not less than 14 days (which, on request of any affected party, shall be extended to a period of not more than 30 days)” after “comment period”.
+    Subsec. (e)(2)(C). [Pub. L. 109–438][/us/pl/109/438], § 8(b), inserted “of not less than 14 days (which, on request of any affected party, shall be extended to a period of not more than 30 days)” after “comment period”.
 
-    Subsec. (e)(2)(E). [Pub. L. 109–438, § 7(2)][/us/pl/109/438/s7/2], added subpar. (E).
+    Subsec. (e)(2)(E). [Pub. L. 109–438][/us/pl/109/438], § 7(2), added subpar. (E).
 
     Subsec. (e)(5) to (7). [Pub. L. 109–438][/us/pl/109/438], §§ 5, 7(3), 8(a), added pars. (5) to (7).
 
-    Subsecs. (g), (h). [Pub. L. 109–438, § 12][/us/pl/109/438/s12], added subsecs. (g) and (h).
+    Subsecs. (g), (h). [Pub. L. 109–438][/us/pl/109/438], § 12, added subsecs. (g) and (h).
 
-    2002—Subsec. (a)(1). [Pub. L. 107–189, § 2][/us/pl/107/189/s2], substituted “The objects and purposes of the Bank shall be to aid in financing and to facilitate exports of goods and services, imports, and the exchange of commodities and services between the United States or any of its territories or insular possessions and any foreign country or the agencies or nationals of any such country, and in so doing to contribute to the employment of United States workers. The Bank’s objective in authorizing loans, guarantees, insurance, and credits shall be to contribute to maintaining or increasing employment of United States workers.” for “The objects and purposes of the bank shall be to aid in financing and to facilitate exports and imports and the exchange of commodities and services between the United States or any of its Territories or insular possessions and any foreign country or the agencies or nationals thereof.”
+    2002—Subsec. (a)(1). [Pub. L. 107–189][/us/pl/107/189], § 2, substituted “The objects and purposes of the Bank shall be to aid in financing and to facilitate exports of goods and services, imports, and the exchange of commodities and services between the United States or any of its territories or insular possessions and any foreign country or the agencies or nationals of any such country, and in so doing to contribute to the employment of United States workers. The Bank’s objective in authorizing loans, guarantees, insurance, and credits shall be to contribute to maintaining or increasing employment of United States workers.” for “The objects and purposes of the bank shall be to aid in financing and to facilitate exports and imports and the exchange of commodities and services between the United States or any of its Territories or insular possessions and any foreign country or the agencies or nationals thereof.”
 
     Subsec. (b)(1)(A). [Pub. L. 107–189][/us/pl/107/189], §§ 11, 13(b), substituted “not later than June 30 of each year” for “on an annual basis” in fourth sentence, inserted “(including through use of market windows)” after “which foreign exporters compete with the United States exporters” in fifth sentence, inserted “With respect to the preceding sentence, the Bank shall use all available information to estimate the annual amount of export financing available from each government and government-related agency.” after fifth sentence, and inserted at end “The Bank shall include in the annual report a description of all Bank transactions which shall be classified according to their principal purpose, such as to correct a market failure or to provide matching support. The Bank shall include in the annual report a description of the efforts undertaken under subparagraph (K).”
 
     Subsec. (b)(1)(B). [Pub. L. 107–189][/us/pl/107/189], §§ 15, 17, 21, 24(a)(1), substituted “Committee on Financial Services of the House of Representatives” for “Committee on Banking and Financial Services of the House of Representatives” and inserted “(including, when relevant, a foreign nation’s lack of cooperation in efforts to eradicate terrorism)” after “international terrorism”, “the enforcement of the Foreign Corrupt Practices Act of 1977, the Arms Export Control Act, the International Emergency Economic Powers Act, or the Export Administration Act of 1979,” after “nuclear proliferation,” and “(such as are provided in the Universal Declaration of Human Rights adopted by the United Nations General Assembly on December 10, 1948)” after “human rights”.
 
-    Subsec. (b)(1)(E)(iii)(II). [Pub. L. 107–189, § 7(b)][/us/pl/107/189/s7/b], inserted “, with particular emphasis on conducting outreach and increasing loans to socially and economically disadvantaged small business concerns (as defined in [section 637(a)(4) of title 15][/us/usc/t15/s637/a/4]), small business concerns (as defined in [section 632(a) of title 15][/us/usc/t15/s632/a]) owned by women, and small business concerns (as defined in [section 632(a) of title 15][/us/usc/t15/s632/a]) employing fewer than 100 employees,” after “Bank”.
+    Subsec. (b)(1)(E)(iii)(II). [Pub. L. 107–189][/us/pl/107/189], § 7(b), inserted “, with particular emphasis on conducting outreach and increasing loans to socially and economically disadvantaged small business concerns (as defined in [section 637(a)(4) of title 15][/us/usc/t15/s637/a/4]), small business concerns (as defined in [section 632(a) of title 15][/us/usc/t15/s632/a]) owned by women, and small business concerns (as defined in [section 632(a) of title 15][/us/usc/t15/s632/a]) employing fewer than 100 employees,” after “Bank”.
 
-    Subsec. (b)(1)(E)(v). [Pub. L. 107–189, § 7(a)][/us/pl/107/189/s7/a], substituted “20 percent” for “10 percent”.
+    Subsec. (b)(1)(E)(v). [Pub. L. 107–189][/us/pl/107/189], § 7(a), substituted “20 percent” for “10 percent”.
 
-    Subsec. (b)(1)(E)(x). [Pub. L. 107–189, § 8(a)][/us/pl/107/189/s8/a], added cl. (x).
+    Subsec. (b)(1)(E)(x). [Pub. L. 107–189][/us/pl/107/189], § 8(a), added cl. (x).
 
-    Subsec. (b)(1)(H)(ii), (iii). [Pub. L. 107–189, § 24(b)(1)][/us/pl/107/189/s24/b/1], made technical amendment to reference in original act which appears in text as reference to [section 5402 of title 22][/us/usc/t22/s5402].
+    Subsec. (b)(1)(H)(ii), (iii). [Pub. L. 107–189][/us/pl/107/189], § 24(b)(1), made technical amendment to reference in original act which appears in text as reference to [section 5402 of title 22][/us/usc/t22/s5402].
 
-    Subsec. (b)(1)(J). [Pub. L. 107–189, § 8(b)][/us/pl/107/189/s8/b], added subpar. (J).
+    Subsec. (b)(1)(J). [Pub. L. 107–189][/us/pl/107/189], § 8(b), added subpar. (J).
 
-    Subsec. (b)(1)(K). [Pub. L. 107–189, § 13(a)][/us/pl/107/189/s13/a], added subpar. (K).
+    Subsec. (b)(1)(K). [Pub. L. 107–189][/us/pl/107/189], § 13(a), added subpar. (K).
 
-    Subsec. (b)(1)(L). [Pub. L. 107–189, § 19][/us/pl/107/189/s19], added subpar. (L).
+    Subsec. (b)(1)(L). [Pub. L. 107–189][/us/pl/107/189], § 19, added subpar. (L).
 
-    Subsec. (b)(6)(D)(i)(III). [Pub. L. 107–189, § 24(a)(2)(A)][/us/pl/107/189/s24/a/2/A], substituted “Committee on Financial Services of the House of Representatives” for “Committee on Banking, Finance and Urban Affairs of the House of Representatives”.
+    Subsec. (b)(6)(D)(i)(III). [Pub. L. 107–189][/us/pl/107/189], § 24(a)(2)(A), substituted “Committee on Financial Services of the House of Representatives” for “Committee on Banking, Finance and Urban Affairs of the House of Representatives”.
 
-    Subsec. (b)(6)(E). [Pub. L. 107–189, § 24(b)(3)][/us/pl/107/189/s24/b/3], substituted “internationally” for “international”.
+    Subsec. (b)(6)(E). [Pub. L. 107–189][/us/pl/107/189], § 24(b)(3), substituted “internationally” for “international”.
 
-    Subsec. (b)(6)(H). [Pub. L. 107–189, § 24(a)(2)(B)][/us/pl/107/189/s24/a/2/B], substituted “Committee on Financial Services of the House of Representatives” for “Committee on Banking, Finance and Urban Affairs of the House of Representatives”.
+    Subsec. (b)(6)(H). [Pub. L. 107–189][/us/pl/107/189], § 24(a)(2)(B), substituted “Committee on Financial Services of the House of Representatives” for “Committee on Banking, Finance and Urban Affairs of the House of Representatives”.
 
-    Subsec. (b)(6)(I)(i)(II), (iii). [Pub. L. 107–189, § 24(a)(2)(C)][/us/pl/107/189/s24/a/2/C], (D), substituted “Committees on Financial Services” for “Committees on Banking, Finance and Urban Affairs”.
+    Subsec. (b)(6)(I)(i)(II), (iii). [Pub. L. 107–189][/us/pl/107/189], § 24(a)(2)(C), (D), substituted “Committees on Financial Services” for “Committees on Banking, Finance and Urban Affairs”.
 
-    Subsec. (b)(9)(A). [Pub. L. 107–189, § 6(b)][/us/pl/107/189/s6/b], inserted “, in consultation with the Secretary of Commerce and the Trade Promotion Coordinating Committee,” after “shall”.
+    Subsec. (b)(9)(A). [Pub. L. 107–189][/us/pl/107/189], § 6(b), inserted “, in consultation with the Secretary of Commerce and the Trade Promotion Coordinating Committee,” after “shall”.
 
-    Subsec. (b)(9)(B)(iii). [Pub. L. 107–189, § 6(a)][/us/pl/107/189/s6/a], amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “The advisory committee shall terminate 4 years after November 26, 1997.”
+    Subsec. (b)(9)(B)(iii). [Pub. L. 107–189][/us/pl/107/189], § 6(a), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “The advisory committee shall terminate 4 years after November 26, 1997.”
 
-    Subsec. (b)(12). [Pub. L. 107–189, § 24(b)(2)][/us/pl/107/189/s24/b/2], realigned margins.
+    Subsec. (b)(12). [Pub. L. 107–189][/us/pl/107/189], § 24(b)(2), realigned margins.
 
-    Subsec. (e)(2) to (4). [Pub. L. 107–189, § 18][/us/pl/107/189/s18], substituted “Paragraphs (1) and (2)” for “Paragraph (1)” in par. (2), added a new par. (2), and redesignated former pars. (2) and (3) as (3) and (4), respectively.
+    Subsec. (e)(2) to (4). [Pub. L. 107–189][/us/pl/107/189], § 18, substituted “Paragraphs (1) and (2)” for “Paragraph (1)” in par. (2), added a new par. (2), and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
-    Subsec. (f). [Pub. L. 107–189, § 16][/us/pl/107/189/s16], added subsec. (f).
+    Subsec. (f). [Pub. L. 107–189][/us/pl/107/189], § 16, added subsec. (f).
 
-    2000—Subsec. (b)(1)(A). [Pub. L. 106–569, § 1103(d)(1)][/us/pl/106/569/s1103/d/1], substituted “The Bank shall, on an annual basis, report” for “The Bank shall, on a annual basis, report” and inserted at end “The annual report required under this subparagraph shall include the report required under [section 635i–3(g) of this title][/us/usc/t12/s635i–3/g].”
+    2000—Subsec. (b)(1)(A). [Pub. L. 106–569][/us/pl/106/569], § 1103(d)(1), substituted “The Bank shall, on an annual basis, report” for “The Bank shall, on a annual basis, report” and inserted at end “The annual report required under this subparagraph shall include the report required under [section 635i–3(g) of this title][/us/usc/t12/s635i–3/g].”
 
-    Subsec. (b)(1)(D). [Pub. L. 106–569, § 1104(a)(1)][/us/pl/106/569/s1104/a/1], struck out “(i)” after “(D)” and struck out cl. (ii) which read as follows: “The Bank shall include in its annual report a summary of its programs regarding the export of services.”
+    Subsec. (b)(1)(D). [Pub. L. 106–569][/us/pl/106/569], § 1104(a)(1), struck out “(i)” after “(D)” and struck out cl. (ii) which read as follows: “The Bank shall include in its annual report a summary of its programs regarding the export of services.”
 
-    Subsec. (b)(8). [Pub. L. 106–569, § 1104(a)(2)][/us/pl/106/569/s1104/a/2], struck out at end “The Bank shall include in the report to Congress under [section 635g(a) of this title][/us/usc/t12/s635g/a] a description of the measures undertaken by it pursuant to this subsection.”
+    Subsec. (b)(8). [Pub. L. 106–569][/us/pl/106/569], § 1104(a)(2), struck out at end “The Bank shall include in the report to Congress under [section 635g(a) of this title][/us/usc/t12/s635g/a] a description of the measures undertaken by it pursuant to this subsection.”
 
-    1997—Subsec. (b)(1)(A). [Pub. L. 105–121, § 10][/us/pl/105/121/s10], in first sentence, substituted “real income, a commitment to reinvestment and job creation, and the increased development of the productive resources of the United States” for “real income and to the increased development of the productive resources of the United States”.
+    1997—Subsec. (b)(1)(A). [Pub. L. 105–121][/us/pl/105/121], § 10, in first sentence, substituted “real income, a commitment to reinvestment and job creation, and the increased development of the productive resources of the United States” for “real income and to the increased development of the productive resources of the United States”.
 
-    Subsec. (b)(1)(B). [Pub. L. 105–121, § 11][/us/pl/105/121/s11], inserted “(including child labor)” after “human rights” in penultimate sentence.
+    Subsec. (b)(1)(B). [Pub. L. 105–121][/us/pl/105/121], § 11, inserted “(including child labor)” after “human rights” in penultimate sentence.
 
-    [Pub. L. 105–121, § 5(2)][/us/pl/105/121/s5/2], inserted at end “Each such determination shall be delivered in writing to the President of the Bank, shall state that the determination is made pursuant to this section, and shall specify the applications or categories of applications for credit which should be denied by the Bank in furtherance of the national interest.”
+    [Pub. L. 105–121][/us/pl/105/121], § 5(2), inserted at end “Each such determination shall be delivered in writing to the President of the Bank, shall state that the determination is made pursuant to this section, and shall specify the applications or categories of applications for credit which should be denied by the Bank in furtherance of the national interest.”
 
-    [Pub. L. 105–121, § 5(1)][/us/pl/105/121/s5/1], in penultimate sentence, inserted “, after consultation with the Committee on Banking and Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate,” after “President”.
+    [Pub. L. 105–121][/us/pl/105/121], § 5(1), in penultimate sentence, inserted “, after consultation with the Committee on Banking and Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate,” after “President”.
 
-    Subsec. (b)(1)(I). [Pub. L. 105–121, § 9][/us/pl/105/121/s9], added subpar. (I).
+    Subsec. (b)(1)(I). [Pub. L. 105–121][/us/pl/105/121], § 9, added subpar. (I).
 
-    Subsec. (b)(9). [Pub. L. 105–121, § 7(a)][/us/pl/105/121/s7/a], added par. (9).
+    Subsec. (b)(9). [Pub. L. 105–121][/us/pl/105/121], § 7(a), added par. (9).
 
-    Subsec. (b)(12). [Pub. L. 105–121, § 12][/us/pl/105/121/s12], added par. (12).
+    Subsec. (b)(12). [Pub. L. 105–121][/us/pl/105/121], § 12, added par. (12).
 
     1996—Subsec. (b)(4). [Pub. L. 104–201][/us/pl/104/201] amended par. (4) generally, restating provisions of former single par. as subpars. (A) to (F) with addition of provisions relating to persons knowingly aiding or abetting non-nuclear-weapon states to acquire nuclear explosive devices or unsafeguarded special nuclear material and requiring Secretary of State to initiate consultations with governments having jurisdiction over such persons.
 
@@ -835,19 +835,19 @@
 
     Subsec. (b)(6)(C)(ii). [Pub. L. 103–447][/us/pl/103/447] substituted “defined in [section 2291(e) of title 22][/us/usc/t22/s2291/e]” for “determined under section 2291j(h) or 2291(e), as appropriate, of title 22”.
 
-    Subsec. (b)(6)(H). [Pub. L. 103–428, § 1(b)][/us/pl/103/428/s1/b], (c), temporarily inserted “or described in subparagraph (I)(i)” before period at end of first sentence. See Effective and Termination Dates of 1994 Amendments note below.
+    Subsec. (b)(6)(H). [Pub. L. 103–428][/us/pl/103/428], § 1(b), (c), temporarily inserted “or described in subparagraph (I)(i)” before period at end of first sentence. See Effective and Termination Dates of 1994 Amendments note below.
 
-    Subsec. (b)(6)(I). [Pub. L. 103–428, § 1(a)][/us/pl/103/428/s1/a], (c), temporarily added subpar. (I). See Effective and Termination Dates of 1994 Amendments note below.
+    Subsec. (b)(6)(I). [Pub. L. 103–428][/us/pl/103/428], § 1(a), (c), temporarily added subpar. (I). See Effective and Termination Dates of 1994 Amendments note below.
 
     1993—Subsec. (b)(9). [Pub. L. 103–149][/us/pl/103/149] struck out par. (9) which prohibited the Bank from taking certain actions with respect to business affecting Republic of South Africa.
 
-    1992—Subsec. (a)(3). [Pub. L. 102–429, § 121(a)(1)][/us/pl/102/429/s121/a/1], struck out “(A) In general.—” before “To enhance the medium-term”, redesignated cls. (i) to (iv) as subpars. (A) to (D), respectively, and struck out former subpar. (B) which read as follows: “Report required.—Not later than April 15, 1988, the Bank shall transmit a report to the Congress analyzing the measures adopted to enhance medium-term financing.”
+    1992—Subsec. (a)(3). [Pub. L. 102–429][/us/pl/102/429], § 121(a)(1), struck out “(A) In general.—” before “To enhance the medium-term”, redesignated cls. (i) to (iv) as subpars. (A) to (D), respectively, and struck out former subpar. (B) which read as follows: “Report required.—Not later than April 15, 1988, the Bank shall transmit a report to the Congress analyzing the measures adopted to enhance medium-term financing.”
 
-    Subsec. (b)(1)(A). [Pub. L. 102–429, § 121(a)(2)][/us/pl/102/429/s121/a/2], added sentence at end and struck out former last sentence which read as follows: “The Bank shall also include in the annual report a description of each loan by the Bank involving the export of any product or service related to the production, refining or transportation of any type of energy or the development of any energy resource with a statement assessing the impact, if any, on the availability of such products, services, or energy supplies thus developed for use within the United States.”
+    Subsec. (b)(1)(A). [Pub. L. 102–429][/us/pl/102/429], § 121(a)(2), added sentence at end and struck out former last sentence which read as follows: “The Bank shall also include in the annual report a description of each loan by the Bank involving the export of any product or service related to the production, refining or transportation of any type of energy or the development of any energy resource with a statement assessing the impact, if any, on the availability of such products, services, or energy supplies thus developed for use within the United States.”
 
-    Subsec. (b)(1)(B). [Pub. L. 102–429, § 104][/us/pl/102/429/s104], inserted after first semicolon in fifth sentence “that the Bank, in determining whether to provide support for a transaction under the loan, guarantee, or insurance program, or any combination thereof, shall consider the need to involve private capital in support of United States exports as well as the cost of the transaction as calculated in accordance with the requirements of the Federal Credit Reform Act of 1990;”.
+    Subsec. (b)(1)(B). [Pub. L. 102–429][/us/pl/102/429], § 104, inserted after first semicolon in fifth sentence “that the Bank, in determining whether to provide support for a transaction under the loan, guarantee, or insurance program, or any combination thereof, shall consider the need to involve private capital in support of United States exports as well as the cost of the transaction as calculated in accordance with the requirements of the Federal Credit Reform Act of 1990;”.
 
-    Subsec. (b)(1)(E)(v). [Pub. L. 102–429, § 121(a)(3)][/us/pl/102/429/s121/a/3], substituted “not less than 10 percent of such authority for each fiscal year.” for “not less than—
+    Subsec. (b)(1)(E)(v). [Pub. L. 102–429][/us/pl/102/429], § 121(a)(3), substituted “not less than 10 percent of such authority for each fiscal year.” for “not less than—
 
     “(I) 6 per centum of such authority for fiscal year 1984;
 
@@ -855,11 +855,11 @@
 
     “(III) 10 per centum of such authority for fiscal year 1986 and thereafter.”
 
-    [Pub. L. 102–429, § 116][/us/pl/102/429/s116], inserted “directly” after “to finance exports”.
+    [Pub. L. 102–429][/us/pl/102/429], § 116, inserted “directly” after “to finance exports”.
 
-    Subsec. (b)(1)(H). [Pub. L. 102–429, § 114][/us/pl/102/429/s114], added subpar. (H).
+    Subsec. (b)(1)(H). [Pub. L. 102–429][/us/pl/102/429], § 114, added subpar. (H).
 
-    Subsec. (b)(2)(B). [Pub. L. 102–429, § 110][/us/pl/102/429/s110], amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows:
+    Subsec. (b)(2)(B). [Pub. L. 102–429][/us/pl/102/429], § 110, amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows:
 
     “(i) In general.—For the purposes of this paragraph, the term ‘Marxist-Leninist country’ means any country which—
 
@@ -929,37 +929,37 @@
 
     “Union of Soviet Socialist Republics (including its captive constituent republics).”
 
-    Subsec. (b)(6)(A). [Pub. L. 102–583, § 12(c)(1)(A)][/us/pl/102/583/s12/c/1/A], which directed the substitution of “, except as otherwise provided in subparagraph (B).” for “designated” and all that follows through the end of the subparagraph could not be executed because the words did not appear subsequent to the amendment by [Pub. L. 102–429, § 112(d)(1)][/us/pl/102/429/s112/d/1]. See below.
+    Subsec. (b)(6)(A). [Pub. L. 102–583][/us/pl/102/583], § 12(c)(1)(A), which directed the substitution of “, except as otherwise provided in subparagraph (B).” for “designated” and all that follows through the end of the subparagraph could not be executed because the words did not appear subsequent to the amendment by [Pub. L. 102–429][/us/pl/102/429], § 112(d)(1). See below.
 
-    [Pub. L. 102–429, § 112(d)(1)][/us/pl/102/429/s112/d/1], struck out before period at end “designated under [section 4916 of title 26][/us/usc/t26/s4916] as an economically less developed country for purposes of the tax imposed by [section 4911 of title 26][/us/usc/t26/s4911]. The prohibitions set forth in this subparagraph shall not apply with respect to any transaction the consummation of which the President determines would be in the national interest and reports such determination (within thirty days after making the same) to the Senate and House of Representatives. In making any such determination the President shall take into account, among other considerations, the national interest in avoiding arms races among countries not directly menaced by the Soviet Union or by Communist China; in avoiding arming military dictators who are denying social progress to their own peoples; and in avoiding expenditures by developing countries of scarce foreign exchange needed for peaceful economic progress”.
+    [Pub. L. 102–429][/us/pl/102/429], § 112(d)(1), struck out before period at end “designated under [section 4916 of title 26][/us/usc/t26/s4916] as an economically less developed country for purposes of the tax imposed by [section 4911 of title 26][/us/usc/t26/s4911]. The prohibitions set forth in this subparagraph shall not apply with respect to any transaction the consummation of which the President determines would be in the national interest and reports such determination (within thirty days after making the same) to the Senate and House of Representatives. In making any such determination the President shall take into account, among other considerations, the national interest in avoiding arms races among countries not directly menaced by the Soviet Union or by Communist China; in avoiding arming military dictators who are denying social progress to their own peoples; and in avoiding expenditures by developing countries of scarce foreign exchange needed for peaceful economic progress”.
 
-    Subsec. (b)(6)(B). [Pub. L. 102–429, § 112(d)(2)(A)][/us/pl/102/429/s112/d/2/A], struck out “, and section 32 of the Arms Export Control Act,” after “Subparagraph (A)”.
+    Subsec. (b)(6)(B). [Pub. L. 102–429][/us/pl/102/429], § 112(d)(2)(A), struck out “, and section 32 of the Arms Export Control Act,” after “Subparagraph (A)”.
 
-    Subsec. (b)(6)(B)(iii). [Pub. L. 102–583, § 6(c)(1)][/us/pl/102/583/s6/c/1], substituted “[section 2291j(e) of title 22][/us/usc/t22/s2291j/e]” for “[section 2291(h)(5) of title 22][/us/usc/t22/s2291/h/5]”.
+    Subsec. (b)(6)(B)(iii). [Pub. L. 102–583][/us/pl/102/583], § 6(c)(1), substituted “[section 2291j(e) of title 22][/us/usc/t22/s2291j/e]” for “[section 2291(h)(5) of title 22][/us/usc/t22/s2291/h/5]”.
 
-    Subsec. (b)(6)(B)(iv), (v). [Pub. L. 102–429, § 112(a)(1)][/us/pl/102/429/s112/a/1], (2), (d)(2)(B), inserted “and” at end of cl. (iv) and substituted “articles or services.” for “articles and services; and” at end of cl. (v).
+    Subsec. (b)(6)(B)(iv), (v). [Pub. L. 102–429][/us/pl/102/429], § 112(a)(1), (2), (d)(2)(B), inserted “and” at end of cl. (iv) and substituted “articles or services.” for “articles and services; and” at end of cl. (v).
 
-    Subsec. (b)(6)(B)(vi). [Pub. L. 102–583, § 12(a)][/us/pl/102/583/s12/a], which directed the substitution of “1997” for “1992” in cl. (vi), could not be executed because cl. (vi) was struck out by [Pub. L. 102–429, § 112(a)(3)][/us/pl/102/429/s112/a/3]. See below.
+    Subsec. (b)(6)(B)(vi). [Pub. L. 102–583][/us/pl/102/583], § 12(a), which directed the substitution of “1997” for “1992” in cl. (vi), could not be executed because cl. (vi) was struck out by [Pub. L. 102–429][/us/pl/102/429], § 112(a)(3). See below.
 
-    [Pub. L. 102–429, § 112(a)(3)][/us/pl/102/429/s112/a/3], struck out cl. (vi) which read as follows: “the sale is made on or before September 30, 1992.”
+    [Pub. L. 102–429][/us/pl/102/429], § 112(a)(3), struck out cl. (vi) which read as follows: “the sale is made on or before September 30, 1992.”
 
-    Subsec. (b)(6)(C)(ii). [Pub. L. 102–583, § 6(c)(2)][/us/pl/102/583/s6/c/2], substituted “determined under section 2291j(h) or 2291(e), as appropriate, of title 22” for “defined in [section 2291(i) of title 22][/us/usc/t22/s2291/i]”.
+    Subsec. (b)(6)(C)(ii). [Pub. L. 102–583][/us/pl/102/583], § 6(c)(2), substituted “determined under section 2291j(h) or 2291(e), as appropriate, of title 22” for “defined in [section 2291(i) of title 22][/us/usc/t22/s2291/i]”.
 
-    Subsec. (b)(6)(D)(i). [Pub. L. 102–429, § 112(b)][/us/pl/102/429/s112/b], (d)(3), struck out “and” at end of subcl. (I), added subcl. (II), redesignated former subcl. (II) as (III), and substituted “determinations have” for “determination has” in subcl. (III).
+    Subsec. (b)(6)(D)(i). [Pub. L. 102–429][/us/pl/102/429], § 112(b), (d)(3), struck out “and” at end of subcl. (I), added subcl. (II), redesignated former subcl. (II) as (III), and substituted “determinations have” for “determination has” in subcl. (III).
 
-    Subsec. (b)(6)(D)(ii). [Pub. L. 102–429, § 112(d)(4)][/us/pl/102/429/s112/d/4], substituted “clause” for “sentence” before period at end.
+    Subsec. (b)(6)(D)(ii). [Pub. L. 102–429][/us/pl/102/429], § 112(d)(4), substituted “clause” for “sentence” before period at end.
 
-    Subsec. (b)(6)(G). [Pub. L. 102–429, § 112(d)(5)][/us/pl/102/429/s112/d/5], substituted “or services” for “and services”.
+    Subsec. (b)(6)(G). [Pub. L. 102–429][/us/pl/102/429], § 112(d)(5), substituted “or services” for “and services”.
 
-    Subsec. (b)(6)(H). [Pub. L. 102–429, § 112(c)][/us/pl/102/429/s112/c], added subpar. (H).
+    Subsec. (b)(6)(H). [Pub. L. 102–429][/us/pl/102/429], § 112(c), added subpar. (H).
 
-    Subsec. (b)(11), (12). [Pub. L. 102–429, § 111][/us/pl/102/429/s111], redesignated par. (12) as (11), substituted “The President” for “Notwithstanding any determination by the President under paragraph (2) or (11), the”, and struck out former par. (11) which read as follows: “Prohibition Relating to Angola.—Notwithstanding any determination by the President under paragraph (2), the Bank may not guarantee, insure, or extend credit (or participate in the extension of credit) in connection with any export of goods or services, except food or agricultural commodities, to the People’s Republic of Angola until the President certifies to the Congress that no combatant forces or military advisors of the Republic of Cuba or of any other Marxist-Leninist country (as such term is defined in paragraph (2)(B)) remain in Angola.”
+    Subsec. (b)(11), (12). [Pub. L. 102–429][/us/pl/102/429], § 111, redesignated par. (12) as (11), substituted “The President” for “Notwithstanding any determination by the President under paragraph (2) or (11), the”, and struck out former par. (11) which read as follows: “Prohibition Relating to Angola.—Notwithstanding any determination by the President under paragraph (2), the Bank may not guarantee, insure, or extend credit (or participate in the extension of credit) in connection with any export of goods or services, except food or agricultural commodities, to the People’s Republic of Angola until the President certifies to the Congress that no combatant forces or military advisors of the Republic of Cuba or of any other Marxist-Leninist country (as such term is defined in paragraph (2)(B)) remain in Angola.”
 
-    Subsec. (c)(1). [Pub. L. 102–429, § 109(a)][/us/pl/102/429/s109/a], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Bank is authorized and empowered to charge against the limitations imposed by [section 635e of this title][/us/usc/t12/s635e], not less than 25 per centum of the related contractual liability which the Bank incurs for guarantees, insurance, coinsurance, and reinsurance against political and credit risks of loss. The aggregate amount of guarantees, insurance, coinsurance, and reinsurance which may be charged on this fractional basis pursuant to this section shall not exceed $25,000,000,000 outstanding at any one time. Fees and premiums shall be charged in connection with such contracts commensurate, in the judgment of the Bank, with risks covered.”
+    Subsec. (c)(1). [Pub. L. 102–429][/us/pl/102/429], § 109(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Bank is authorized and empowered to charge against the limitations imposed by [section 635e of this title][/us/usc/t12/s635e], not less than 25 per centum of the related contractual liability which the Bank incurs for guarantees, insurance, coinsurance, and reinsurance against political and credit risks of loss. The aggregate amount of guarantees, insurance, coinsurance, and reinsurance which may be charged on this fractional basis pursuant to this section shall not exceed $25,000,000,000 outstanding at any one time. Fees and premiums shall be charged in connection with such contracts commensurate, in the judgment of the Bank, with risks covered.”
 
-    Subsec. (c)(3). [Pub. L. 102–429, § 105][/us/pl/102/429/s105], designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
+    Subsec. (c)(3). [Pub. L. 102–429][/us/pl/102/429], § 105, designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
 
-    Subsec. (d)(2) to (5). [Pub. L. 102–429, § 107][/us/pl/102/429/s107], added pars. (2) to (5) and struck out former pars. (2) and (3) which read as follows:
+    Subsec. (d)(2) to (5). [Pub. L. 102–429][/us/pl/102/429], § 107, added pars. (2) to (5) and struck out former pars. (2) and (3) which read as follows:
 
     “(2) In furtherance of such effort, the Chairman of the Bank shall review Bank policies and programs in regard to this issue, and in coordination with the United States Trade Representative and the appropriate agencies of the Department of State, the Department of the Treasury, and the Department of Commerce, undertake actions designed to promote equal and nondiscriminatory opportunities to bid for insurance in connection with all aspects of international trade activities.
 
@@ -971,47 +971,47 @@
 
     “(C) recommendations for such legislative or administrative actions as the Bank considers necessary.”
 
-    Subsec. (f). [Pub. L. 102–429, § 121(a)(4)][/us/pl/102/429/s121/a/4], struck out subsec. (f) which related to interest subsidy payments.
+    Subsec. (f). [Pub. L. 102–429][/us/pl/102/429], § 121(a)(4), struck out subsec. (f) which related to interest subsidy payments.
 
-    1991—Subsec. (b)(3). [Pub. L. 102–145, § 121(2)][/us/pl/102/145/s121/2], (3), as added by [Pub. L. 102–266][/us/pl/102/266], amended par. (3) in introductory provisions by redesignating cl. (iii) as (ii) and striking out “(ii) in an amount which equals or exceeds $25,000,000 for the export of goods or services involving research, exploration, or production of fossil fuel energy resources in the Union of Soviet Socialist Republics,”.
+    1991—Subsec. (b)(3). [Pub. L. 102–145][/us/pl/102/145], § 121(2), (3), as added by [Pub. L. 102–266][/us/pl/102/266], amended par. (3) in introductory provisions by redesignating cl. (iii) as (ii) and striking out “(ii) in an amount which equals or exceeds $25,000,000 for the export of goods or services involving research, exploration, or production of fossil fuel energy resources in the Union of Soviet Socialist Republics,”.
 
     1990—Subsec. (b)(6)(B)(vi). [Pub. L. 101–513][/us/pl/101/513] and [Pub. L. 101–623][/us/pl/101/623] amended cl. (vi) identically, substituting “1992” for “1990”.
 
-    1989—Subsec. (a)(1). [Pub. L. 101–240, § 101(c)][/us/pl/101/240/s101/c], substituted “Subject to regulations which the Bank shall issue pursuant to [section 553 of title 5][/us/usc/t5/s553], the Bank may” for “The Bank may” in sixth sentence and inserted before period “, and may accept reimbursement for travel and subsistence expenses incurred by a director, officer, or employee of the Bank, in accordance with subchapter I of chapter 57 of title 5” and inserted before period in seventh sentence “and shall be offset against the expenses of the Bank for such activities”.
+    1989—Subsec. (a)(1). [Pub. L. 101–240][/us/pl/101/240], § 101(c), substituted “Subject to regulations which the Bank shall issue pursuant to [section 553 of title 5][/us/usc/t5/s553], the Bank may” for “The Bank may” in sixth sentence and inserted before period “, and may accept reimbursement for travel and subsistence expenses incurred by a director, officer, or employee of the Bank, in accordance with subchapter I of chapter 57 of title 5” and inserted before period in seventh sentence “and shall be offset against the expenses of the Bank for such activities”.
 
-    Subsec. (b)(6)(G). [Pub. L. 101–240, § 101(d)][/us/pl/101/240/s101/d], substituted “subparagraphs (B), (C), (D), and (F)” for “this paragraph”.
+    Subsec. (b)(6)(G). [Pub. L. 101–240][/us/pl/101/240], § 101(d), substituted “subparagraphs (B), (C), (D), and (F)” for “this paragraph”.
 
-    Subsec. (b)(12). [Pub. L. 101–240, § 102][/us/pl/101/240/s102], added par. (12).
+    Subsec. (b)(12). [Pub. L. 101–240][/us/pl/101/240], § 102, added par. (12).
 
-    Subsec. (f)(2). [Pub. L. 101–240, § 101(a)(1)][/us/pl/101/240/s101/a/1], redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “Authority to make payments subject to minimum amount of direct loan authority.—The authority to enter into commitments to make interest subsidy payments under paragraph (1) shall be effective for any fiscal year only if the aggregate principal amount of direct loans the Bank may obligate in such fiscal year is equal to or greater than $700,000,000.”
+    Subsec. (f)(2). [Pub. L. 101–240][/us/pl/101/240], § 101(a)(1), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “Authority to make payments subject to minimum amount of direct loan authority.—The authority to enter into commitments to make interest subsidy payments under paragraph (1) shall be effective for any fiscal year only if the aggregate principal amount of direct loans the Bank may obligate in such fiscal year is equal to or greater than $700,000,000.”
 
-    Subsec. (f)(3). [Pub. L. 101–240, § 101(a)(1)][/us/pl/101/240/s101/a/1], (2), redesignated par. (4) as (3) and amended it generally. Prior to amendment, such par. read as follows:
+    Subsec. (f)(3). [Pub. L. 101–240][/us/pl/101/240], § 101(a)(1), (2), redesignated par. (4) as (3) and amended it generally. Prior to amendment, such par. read as follows:
 
     “(A) In general.—Subject to subparagraph (B), there are authorized to be appropriated to the Bank, for any fiscal year beginning after fiscal year 1986, such sums as may be necessary to carry out the purposes of this subsection.
 
     “(B) Budget scoring.—No amount is authorized to be appropriated for commitments to make interest subsidy payments on loans for which the Bank extends a loan guarantee commitment if any amount of such loan guarantee commitment is scored as budget authority in any estimate of budget authority prepared pursuant to any provision of the Congressional Budget and Impoundment Control Act of 1974.” Former par. (3) redesignated (2).
 
-    Subsec. (f)(4), (5). [Pub. L. 101–240, § 101(a)(1)][/us/pl/101/240/s101/a/1], (3), redesignated par. (5) as (4) and substituted “1991” for “1988”. Former par. (4) redesignated (3).
+    Subsec. (f)(4), (5). [Pub. L. 101–240][/us/pl/101/240], § 101(a)(1), (3), redesignated par. (5) as (4) and substituted “1991” for “1988”. Former par. (4) redesignated (3).
 
     1988—Subsec. (b)(6). [Pub. L. 100–690][/us/pl/100/690] designated existing provision as subpar. (A), substituted “subparagraph” for “paragraph”, and added subpars. (B) to (G).
 
-    Subsec. (e)(1)(A)(i). [Pub. L. 100–418, § 3304(a)][/us/pl/100/418/s3304/a], substituted “commodity will first be sold” for “productive capacity is expected to become operative”.
+    Subsec. (e)(1)(A)(i). [Pub. L. 100–418][/us/pl/100/418], § 3304(a), substituted “commodity will first be sold” for “productive capacity is expected to become operative”.
 
-    Subsec. (e)(2). [Pub. L. 100–418, § 3304(b)][/us/pl/100/418/s3304/b], substituted “short- and long-term injury” for “injury” and “producers and employment” for “producers”.
+    Subsec. (e)(2). [Pub. L. 100–418][/us/pl/100/418], § 3304(b), substituted “short- and long-term injury” for “injury” and “producers and employment” for “producers”.
 
-    Subsec. (e)(3). [Pub. L. 100–418, § 3304(c)][/us/pl/100/418/s3304/c], added par. (3).
+    Subsec. (e)(3). [Pub. L. 100–418][/us/pl/100/418], § 3304(c), added par. (3).
 
-    1986—Subsec. (a)(1). [Pub. L. 99–472, § 2][/us/pl/99/472/s2], inserted provisions which related to imposition and collection of reasonable fees by Bank to cover costs of conferences and seminars sponsored, and publications provided, by Bank, and credit of amounts thus received to fund which initially paid for such activities.
+    1986—Subsec. (a)(1). [Pub. L. 99–472][/us/pl/99/472], § 2, inserted provisions which related to imposition and collection of reasonable fees by Bank to cover costs of conferences and seminars sponsored, and publications provided, by Bank, and credit of amounts thus received to fund which initially paid for such activities.
 
-    Subsec. (a)(3). [Pub. L. 99–472, § 4][/us/pl/99/472/s4], added par. (3).
+    Subsec. (a)(3). [Pub. L. 99–472][/us/pl/99/472], § 4, added par. (3).
 
     Subsec. (b)(1)(B). [Pub. L. 99–472][/us/pl/99/472], §§ 3, 5, substituted “need not be identical in all respects to those” for “need not be equivalent to those” and inserted provisions which prohibited Bank from imposing credit application fee unless Bank’s fee is competitive with average fee charged by Bank’s primary foreign competitors, and option of paying fee at outset of, or over life of, loan is given to borrower or exporter, and present value of fee determined under either option is same amount.
 
-    Subsec. (b)(1)(E)(ix). [Pub. L. 99–472, § 6][/us/pl/99/472/s6], added cl. (ix).
+    Subsec. (b)(1)(E)(ix). [Pub. L. 99–472][/us/pl/99/472], § 6, added cl. (ix).
 
-    Subsec. (b)(1)(G). [Pub. L. 99–472, § 7][/us/pl/99/472/s7], added subpar. (G).
+    Subsec. (b)(1)(G). [Pub. L. 99–472][/us/pl/99/472], § 7, added subpar. (G).
 
-    Subsec. (b)(2). [Pub. L. 99–472, § 8][/us/pl/99/472/s8], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Bank in the exercise of its functions shall not guarantee, insure, or extend credit, or participate in any extension of credit—
+    Subsec. (b)(2). [Pub. L. 99–472][/us/pl/99/472], § 8, amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Bank in the exercise of its functions shall not guarantee, insure, or extend credit, or participate in any extension of credit—
 
     “(A) in connection with the purchase or lease of any product by a Communist country (as defined in [section 2370(f) of title 22][/us/usc/t22/s2370/f]), or agency, or national thereof, or
 
@@ -1023,85 +1023,85 @@
 
     Subsec. (b)(9). [Pub. L. 99–440][/us/pl/99/440] designated existing provisions of par. (9) as subpar. (A), substituted “Except as provided in subparagraph (B), in no event” for “In no event”, and added subpar. (B).
 
-    Subsec. (b)(11). [Pub. L. 99–472, § 9][/us/pl/99/472/s9], added par. (11).
+    Subsec. (b)(11). [Pub. L. 99–472][/us/pl/99/472], § 9, added par. (11).
 
-    Subsec. (c)(3). [Pub. L. 99–472, § 10][/us/pl/99/472/s10], added par. (3).
+    Subsec. (c)(3). [Pub. L. 99–472][/us/pl/99/472], § 10, added par. (3).
 
     Subsecs. (e), (f). [Pub. L. 99–472][/us/pl/99/472], §§ 11, 20(a), added subsecs. (e) and (f).
 
-    1983—Subsec. (a)(1). [Pub. L. 98–181, § 616(a)(1)][/us/pl/98/181/s616/a/1], substituted “the exchange of commodities and services” for “the exchange of commodities”.
+    1983—Subsec. (a)(1). [Pub. L. 98–181][/us/pl/98/181], § 616(a)(1), substituted “the exchange of commodities and services” for “the exchange of commodities”.
 
-    Subsec. (a)(2). [Pub. L. 98–181, § 622][/us/pl/98/181/s622], added par. (2).
+    Subsec. (a)(2). [Pub. L. 98–181][/us/pl/98/181], § 622, added par. (2).
 
     Subsec. (b)(1)(A). [Pub. L. 98–181][/us/pl/98/181], §§ 612(a), 616(a)(2), in second sentence inserted “in all its programs” after “To meet this objective”, inserted “fully” after “other conditions which are”, and substituted “exports of goods and services” for “exports”.
 
     Subsec. (b)(1)(B). [Pub. L. 98–181][/us/pl/98/181], §§ 612(b), (c), 618(a)(1), substituted provisions that loans under this section shall bear interest at rates consistent with the Bank’s mandate to support exports at rates and on terms and conditions which are fully competitive with exports of other countries, and consistent with international agreements, and that such rates, terms and conditions need not be equivalent to those offered by foreign countries, but should be established so as to neutralize the effect of such foreign credit on international sales competition, and that the Board shall consider its average cost of money in determination of interest rates, where such consideration does not impair the Bank’s function of expanding exports through fully competitive financing for provisions that loans made by the Bank had to be at interest at rates determined by the Board of Directors of the Bank, taking into consideration the average cost of money to the Bank as well as the Bank’s mandate to support United States exports at rates and on terms and conditions which were competitive with exports of other countries; inserted “export trading companies,” after “independent export firms,”; and struck out provision which required the Bank to give due recognition to the policy stated in [section 631(a) of Title 15][/us/usc/t15/s631/a] that the government should aid, counsel, assist, and protect the interests of small business in order to preserve free competitive enterprise, and that in furtherance of this policy the Board of Directors had to designate an officer of the Bank to handle small business concerns, including advising small businessmen and maintaining liaison with the Small Business Administration and other departments and agencies in matters affecting small business concerns.
 
-    Subsec. (b)(1)(D). [Pub. L. 98–181, § 616(a)(3)][/us/pl/98/181/s616/a/3], added subpar. (D).
+    Subsec. (b)(1)(D). [Pub. L. 98–181][/us/pl/98/181], § 616(a)(3), added subpar. (D).
 
-    Subsec. (b)(1)(E). [Pub. L. 98–181, § 618(a)(2)][/us/pl/98/181/s618/a/2], added subpar. (E).
+    Subsec. (b)(1)(E). [Pub. L. 98–181][/us/pl/98/181], § 618(a)(2), added subpar. (E).
 
-    Subsec. (b)(1)(F). [Pub. L. 98–181, § 618(c)][/us/pl/98/181/s618/c], added subpar. (F).
+    Subsec. (b)(1)(F). [Pub. L. 98–181][/us/pl/98/181], § 618(c), added subpar. (F).
 
-    Subsec. (b)(3). [Pub. L. 98–181, § 619(b)][/us/pl/98/181/s619/b], substituted “no loan or financial guarantee or general guarantee or insurance facility” for “no loan or financial guarantee” in provisions preceding subpar. (A).
+    Subsec. (b)(3). [Pub. L. 98–181][/us/pl/98/181], § 619(b), substituted “no loan or financial guarantee or general guarantee or insurance facility” for “no loan or financial guarantee” in provisions preceding subpar. (A).
 
-    Subsec. (b)(3)(A). [Pub. L. 98–181, § 619(c)][/us/pl/98/181/s619/c], inserted language limiting existing provisions to loans or financial guarantees, designated existing provisions as cls. (i), (ii), and (iii), and added cl. (iv).
+    Subsec. (b)(3)(A). [Pub. L. 98–181][/us/pl/98/181], § 619(c), inserted language limiting existing provisions to loans or financial guarantees, designated existing provisions as cls. (i), (ii), and (iii), and added cl. (iv).
 
-    Subsec. (b)(4). [Pub. L. 98–181, § 620(a)][/us/pl/98/181/s620/a], substituted “the Secretary” for “he” before “determines that any country” in first sentence, and before “has determined to have so acted” in second sentence.
+    Subsec. (b)(4). [Pub. L. 98–181][/us/pl/98/181], § 620(a), substituted “the Secretary” for “he” before “determines that any country” in first sentence, and before “has determined to have so acted” in second sentence.
 
-    Subsec. (b)(7) to (10). [Pub. L. 98–181, § 619(d)][/us/pl/98/181/s619/d], redesignated second par. (7) and par. (8), as added by [Pub. L. 95–630][/us/pl/95/630], as pars. (8) and (9), respectively, and added par. (10).
+    Subsec. (b)(7) to (10). [Pub. L. 98–181][/us/pl/98/181], § 619(d), redesignated second par. (7) and par. (8), as added by [Pub. L. 95–630][/us/pl/95/630], as pars. (8) and (9), respectively, and added par. (10).
 
-    Subsec. (d). [Pub. L. 98–181, § 617][/us/pl/98/181/s617], added subsec. (d).
+    Subsec. (d). [Pub. L. 98–181][/us/pl/98/181], § 617, added subsec. (d).
 
     1980—Subsec. (b)(1)(A). [Pub. L. 96–470][/us/pl/96/470] substituted “annual” for “semiannual” in three places.
 
-    1978—Subsec. (b)(1)(A). [Pub. L. 95–630, § 1910][/us/pl/95/630/s1910], substituted “manufactured goods, agricultural products, and other goods and services” for “goods and related services”.
+    1978—Subsec. (b)(1)(A). [Pub. L. 95–630][/us/pl/95/630], § 1910, substituted “manufactured goods, agricultural products, and other goods and services” for “goods and related services”.
 
     Subsec. (b)(1)(B). [Pub. L. 95–630][/us/pl/95/630], §§ 1904, 1916, inserted “that the Bank should give emphasis to assisting new and small business entrants in the agricultural export market, and shall, in cooperation with other relevant Government agencies, including the Commodity Credit Corporation, develop a program of education to increase awareness of export opportunities among small agribusinesses and cooperatives;” after “in matters affecting small business concerns;” and substituted “and shall give particular emphasis to the objective of strengthening the competitive position of the United States exporters and thereby of expanding total United States exports. Only in cases where the President determines that such action would be in the national interest where such action would clearly and importantly advance United States policy in such areas as international terrorism, nuclear proliferation, environmental protection and human rights, should the Export-Import Bank deny applications for credit for nonfinancial or noncommercial considerations” for “and shall also take into account, in consultation with the Secretary of State, the observance of and respect for human rights in the country to receive the exports supported by a loan or financial guarantee and the effect such exports may have on human rights in such country”.
 
-    Subsec. (b)(1)(C). [Pub. L. 95–630, § 1907(a)][/us/pl/95/630/s1907/a], added subpar. (C).
+    Subsec. (b)(1)(C). [Pub. L. 95–630][/us/pl/95/630], § 1907(a), added subpar. (C).
 
-    Subsec. (b)(3). [Pub. L. 95–630, § 1902][/us/pl/95/630/s1902], substituted “Except as provided by the fourth sentence of this paragraph, no loan” for “No loan” and “$100,000,000” for “$60,000,000” and inserted provisions following subpar. (B).
+    Subsec. (b)(3). [Pub. L. 95–630][/us/pl/95/630], § 1902, substituted “Except as provided by the fourth sentence of this paragraph, no loan” for “No loan” and “$100,000,000” for “$60,000,000” and inserted provisions following subpar. (B).
 
     Subsec. (b)(7) to (9). [Pub. L. 95–630][/us/pl/95/630], §§ 1909, 1915, added a second par. (7) and par. (8), which were editorially designated pars. (8) and (9). See 1983 Amendment note above.
 
-    Subsec. (c)(1). [Pub. L. 95–630, § 1903][/us/pl/95/630/s1903], substituted “$25,000,000,000” for “$20,000,000,000”.
+    Subsec. (c)(1). [Pub. L. 95–630][/us/pl/95/630], § 1903, substituted “$25,000,000,000” for “$20,000,000,000”.
 
-    1977—Subsec. (b)(1)(A). [Pub. L. 95–143, § 1][/us/pl/95/143/s1], inserted “and shall, in cooperation with other appropriate United States Government agencies, seek to reach international agreements to reduce government subsidized export financing” after “government-supported export financing”.
+    1977—Subsec. (b)(1)(A). [Pub. L. 95–143][/us/pl/95/143], § 1, inserted “and shall, in cooperation with other appropriate United States Government agencies, seek to reach international agreements to reduce government subsidized export financing” after “government-supported export financing”.
 
-    Subsec. (b)(1)(B). [Pub. L. 95–143, § 2][/us/pl/95/143/s2], inserted “, and shall also take into account, in consultation with the Secretary of State, the observance of and respect for human rights in the country to receive the exports supported by a loan or financial guarantee and the effect such exports may have on human rights in such country” after “employment in the United States”.
+    Subsec. (b)(1)(B). [Pub. L. 95–143][/us/pl/95/143], § 2, inserted “, and shall also take into account, in consultation with the Secretary of State, the observance of and respect for human rights in the country to receive the exports supported by a loan or financial guarantee and the effect such exports may have on human rights in such country” after “employment in the United States”.
 
-    Subsec. (b)(3). [Pub. L. 95–143, § 3(a)][/us/pl/95/143/s3/a], inserted “(i)” after “No loan or financial guarantee or combination thereof” and “, or (iii) for the export of technology, fuel, equipment, materials, or goods or services to be used in the construction, alteration, operation, or maintenance of nuclear power, enrichment, reprocessing, research, or heavy water production facilities,” after “Union of Soviet Socialist Republics” and substituted “, (ii) in an amount” for “shall be finally approved by the Board of Directors of the Bank, and no loan or financial guarantee or combination thereof”.
+    Subsec. (b)(3). [Pub. L. 95–143][/us/pl/95/143], § 3(a), inserted “(i)” after “No loan or financial guarantee or combination thereof” and “, or (iii) for the export of technology, fuel, equipment, materials, or goods or services to be used in the construction, alteration, operation, or maintenance of nuclear power, enrichment, reprocessing, research, or heavy water production facilities,” after “Union of Soviet Socialist Republics” and substituted “, (ii) in an amount” for “shall be finally approved by the Board of Directors of the Bank, and no loan or financial guarantee or combination thereof”.
 
-    Subsec. (b)(4) to (7). [Pub. L. 95–143, § 3(b)][/us/pl/95/143/s3/b], (c), added par. (4), redesignated former par. (4) as (5) and, as so redesignated, added cl. (C), and redesignated former pars. (5) and (6) as (6) and (7), respectively.
+    Subsec. (b)(4) to (7). [Pub. L. 95–143][/us/pl/95/143], § 3(b), (c), added par. (4), redesignated former par. (4) as (5) and, as so redesignated, added cl. (C), and redesignated former pars. (5) and (6) as (6) and (7), respectively.
 
-    1975—Subsec. (a)(1). [Pub. L. 93–646, § 2][/us/pl/93/646/s2], inserted provisions authorizing the Bank to guarantee, insure, coinsure, and reinsure against political and credit risks of loss, to represent itself or to contract for representation in all legal and arbitral proceedings outside the United States, and to publish any documents, reports, etc., without regard to [section 501 of title 44][/us/usc/t44/s501], whenever compliance with such section would not be practicable.
+    1975—Subsec. (a)(1). [Pub. L. 93–646][/us/pl/93/646], § 2, inserted provisions authorizing the Bank to guarantee, insure, coinsure, and reinsure against political and credit risks of loss, to represent itself or to contract for representation in all legal and arbitral proceedings outside the United States, and to publish any documents, reports, etc., without regard to [section 501 of title 44][/us/usc/t44/s501], whenever compliance with such section would not be practicable.
 
-    Subsec. (a)(2). [Pub. L. 93–646, § 13][/us/pl/93/646/s13], eff. at the close of Sept. 30, 1976, repealed par. (2), which related to inclusion of receipts and disbursements of the bank in the federal budget and exemption of such receipts and disbursements from budget limitations, to the transmittal to Congress of a budget for program activities and for administrative expenses of the bank, and to the annual report of the net lending of the bank.
+    Subsec. (a)(2). [Pub. L. 93–646][/us/pl/93/646], § 13, eff. at the close of Sept. 30, 1976, repealed par. (2), which related to inclusion of receipts and disbursements of the bank in the federal budget and exemption of such receipts and disbursements from budget limitations, to the transmittal to Congress of a budget for program activities and for administrative expenses of the bank, and to the annual report of the net lending of the bank.
 
-    Subsec. (b)(1). [Pub. L. 93–646, § 3][/us/pl/93/646/s3], designated existing provisions as subpars. (A) and (B), and as so designated, substituted provisions requiring a comparison of the rates and terms of the Bank with other countries for provisions requiring a report to include ways in which the Bank’s terms are equal to or superior to those of other countries, and inserted provisions requiring the appointment of a Bank officer to be responsible for all matters affecting small business, and to act as liaison with the Small Business Administration and other agencies in matters affecting small business concerns, in order to carry out the policy of the Small Business Act.
+    Subsec. (b)(1). [Pub. L. 93–646][/us/pl/93/646], § 3, designated existing provisions as subpars. (A) and (B), and as so designated, substituted provisions requiring a comparison of the rates and terms of the Bank with other countries for provisions requiring a report to include ways in which the Bank’s terms are equal to or superior to those of other countries, and inserted provisions requiring the appointment of a Bank officer to be responsible for all matters affecting small business, and to act as liaison with the Small Business Administration and other agencies in matters affecting small business concerns, in order to carry out the policy of the Small Business Act.
 
-    Subsec. (b)(2). [Pub. L. 93–646, § 4][/us/pl/93/646/s4], inserted provision requiring a separate Presidential determination of national interest with respect to each transaction over $50,000,000, and substituted provision requiring a report to Congress either within 30 days of the President’s finding or on the day the Bank takes final action on the proposed credit, whichever is earlier, for provision requiring a report of his finding to Congress within thirty days after making such finding.
+    Subsec. (b)(2). [Pub. L. 93–646][/us/pl/93/646], § 4, inserted provision requiring a separate Presidential determination of national interest with respect to each transaction over $50,000,000, and substituted provision requiring a report to Congress either within 30 days of the President’s finding or on the day the Bank takes final action on the proposed credit, whichever is earlier, for provision requiring a report of his finding to Congress within thirty days after making such finding.
 
-    Subsec. (b)(3) to (6). [Pub. L. 93–646, § 5][/us/pl/93/646/s5], added par. (3) and redesignated former pars. (3), (4), and (5) as (4), (5) and (6), respectively.
+    Subsec. (b)(3) to (6). [Pub. L. 93–646][/us/pl/93/646], § 5, added par. (3) and redesignated former pars. (3), (4), and (5) as (4), (5) and (6), respectively.
 
-    Subsec. (c)(1). [Pub. L. 93–646, § 6][/us/pl/93/646/s6], removed the $10 billion limit on the Bank’s insurance authority, and increased the Bank’s authority to charge such guarantees and insurance on a fractional charge basis from $10 billion to $20 billion.
+    Subsec. (c)(1). [Pub. L. 93–646][/us/pl/93/646], § 6, removed the $10 billion limit on the Bank’s insurance authority, and increased the Bank’s authority to charge such guarantees and insurance on a fractional charge basis from $10 billion to $20 billion.
 
-    1971—Subsec. (a). [Pub. L. 92–126, § 1(b)(1)][/us/pl/92/126/s1/b/1], designated existing provisions as par. (1) and added par. (2).
+    1971—Subsec. (a). [Pub. L. 92–126][/us/pl/92/126], § 1(b)(1), designated existing provisions as par. (1) and added par. (2).
 
-    Subsec. (b)(1). [Pub. L. 92–126, § 1(b)(6)][/us/pl/92/126/s1/b/6], inserted provisions declaring the policy of the United States to be to foster expansion of goods and related services, contributing to the proposition and maintenance of high levels of employment and real income and to the increased development of the productive resources of the United States and laid down directives to achieve this objective.
+    Subsec. (b)(1). [Pub. L. 92–126][/us/pl/92/126], § 1(b)(6), inserted provisions declaring the policy of the United States to be to foster expansion of goods and related services, contributing to the proposition and maintenance of high levels of employment and real income and to the increased development of the productive resources of the United States and laid down directives to achieve this objective.
 
-    Subsec. (b)(3). [Pub. L. 92–126, § 1(b)(5)][/us/pl/92/126/s1/b/5], substituted provisions prohibiting the Bank from extending assistance in export sales to any nation which engages in armed conflict with the United States or to any other nation when the export is to be used principally by or in any nation which engages in armed conflict with the United States and further prohibiting such assistance to any export sales which the President determines would be contrary to the national interest for provisions placing limitations on the Bank’s activity in connection with any nation which supplies goods or assistance to a country with whom the United States is engaged in armed conflict.
+    Subsec. (b)(3). [Pub. L. 92–126][/us/pl/92/126], § 1(b)(5), substituted provisions prohibiting the Bank from extending assistance in export sales to any nation which engages in armed conflict with the United States or to any other nation when the export is to be used principally by or in any nation which engages in armed conflict with the United States and further prohibiting such assistance to any export sales which the President determines would be contrary to the national interest for provisions placing limitations on the Bank’s activity in connection with any nation which supplies goods or assistance to a country with whom the United States is engaged in armed conflict.
 
-    Subsec. (c)(1). [Pub. L. 92–126, § 1(b)(2)][/us/pl/92/126/s1/b/2], increased the amount of insurance outstanding at any one time from “$3,500,000,000” to “$10,000,000,000”.
+    Subsec. (c)(1). [Pub. L. 92–126][/us/pl/92/126], § 1(b)(2), increased the amount of insurance outstanding at any one time from “$3,500,000,000” to “$10,000,000,000”.
 
-    1968—Subsec. (a). [Pub. L. 90–267, § 1(a)][/us/pl/90/267/s1/a], changed name of “Export-Import Bank of Washington” to “Export-Import Bank of the United States”.
+    1968—Subsec. (a). [Pub. L. 90–267][/us/pl/90/267], § 1(a), changed name of “Export-Import Bank of Washington” to “Export-Import Bank of the United States”.
 
-    Subsec. (b)(1). [Pub. L. 90–267, § 1(b)][/us/pl/90/267/s1/b], designated existing provisions as par. (1) and required the Board of Directors when authorizing loans to take into account the possible adverse effects upon the economy of the United States.
+    Subsec. (b)(1). [Pub. L. 90–267][/us/pl/90/267], § 1(b), designated existing provisions as par. (1) and required the Board of Directors when authorizing loans to take into account the possible adverse effects upon the economy of the United States.
 
-    Subsec. (b)(2) to (5). [Pub. L. 90–267, § 1(c)][/us/pl/90/267/s1/c], added pars. (2) to (5).
+    Subsec. (b)(2) to (5). [Pub. L. 90–267][/us/pl/90/267], § 1(c), added pars. (2) to (5).
 
-    Subsec. (c)(1). [Pub. L. 90–267, § 1(a)][/us/pl/90/267/s1/a], (c), increased amount of insurance outstanding at any one time from $2,000,000,000 to $3,500,000,000 and changed name of “Export-Import Bank of Washington” to “Export-Import Bank of the United States”.
+    Subsec. (c)(1). [Pub. L. 90–267][/us/pl/90/267], § 1(a), (c), increased amount of insurance outstanding at any one time from $2,000,000,000 to $3,500,000,000 and changed name of “Export-Import Bank of Washington” to “Export-Import Bank of the United States”.
 
     1963—Subsec. (c)(1). [Pub. L. 88–101][/us/pl/88/101] substituted “$2,000,000,000” for “$1,000,000,000”.
 
@@ -1115,31 +1115,31 @@
 
  __Effective Date of 2015 Amendment__ 
 
-[Pub. L. 114–94, div. E, title LII, § 52001(b)][/us/pl/114/94/s52001/b], Dec. 4, 2015, [129 Stat. 1767][/us/stat/129/1767], provided that: 
+[Pub. L. 114–94, div. E, title LII][/us/pl/114/94/dE/tLII], § 52001(b), Dec. 4, 2015, [129 Stat. 1767][/us/stat/129/1767], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply with respect to fiscal year 2016 and each fiscal year thereafter.”
 
-[Pub. L. 114–94, div. E, title LIV, § 54001(d)][/us/pl/114/94/s54001/d], Dec. 4, 2015, [129 Stat. 1768][/us/stat/129/1768], provided that: 
+[Pub. L. 114–94, div. E, title LIV][/us/pl/114/94/dE/tLIV], § 54001(d), Dec. 4, 2015, [129 Stat. 1768][/us/stat/129/1768], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 635f of this title][/us/usc/t12/s635f] and provisions set out as a note under this section\] shall take effect on the earlier of the date of the enactment of this Act \[Dec. 4, 2015\] or June 30, 2015.”
 
-[Pub. L. 114–94, div. E, title LIV, § 54002(e)][/us/pl/114/94/s54002/e], Dec. 4, 2015, [129 Stat. 1769][/us/stat/129/1769], provided that: 
+[Pub. L. 114–94, div. E, title LIV][/us/pl/114/94/dE/tLIV], § 54002(e), Dec. 4, 2015, [129 Stat. 1769][/us/stat/129/1769], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 635a and 635i–5 of this title\] shall apply with respect to fiscal year 2016 and each fiscal year thereafter.”
 
  __Effective Date of 2012 Amendment__ 
 
-[Pub. L. 112–122, § 25][/us/pl/112/122/s25], May 30, 2012, [126 Stat. 364][/us/stat/126/364], provided that: 
+[Pub. L. 112–122][/us/pl/112/122], § 25, May 30, 2012, [126 Stat. 364][/us/stat/126/364], provided that: 
 
 > “Except as provided in section 9(b) \[enacting provisions set out as a note under [section 635a of this title][/us/usc/t12/s635a]\], this Act \[see Short Title of 2012 Amendment note set out below\] and the amendments made by this Act shall take effect on the earlier of June 1, 2012, or the date of the enactment of this Act \[May 30, 2012\].”
 
  __Effective and Termination Dates of 1994 Amendments__ 
 
-[Pub. L. 103–428, § 1(c)][/us/pl/103/428/s1/c], Oct. 31, 1994, [108 Stat. 4376][/us/stat/108/4376], as amended by [Pub. L. 105–121, § 4][/us/pl/105/121/s4], Nov. 26, 1997, [111 Stat. 2529][/us/stat/111/2529]; [Pub. L. 109–438, § 4][/us/pl/109/438/s4], Dec. 20, 2006, [120 Stat. 3269][/us/stat/120/3269]; [Pub. L. 112–122, § 24][/us/pl/112/122/s24], May 30, 2012, [126 Stat. 364][/us/stat/126/364]; [Pub. L. 112–136, § 1][/us/pl/112/136/s1], June 21, 2012, [126 Stat. 385][/us/stat/126/385]; [Pub. L. 114–94, div. E, title LIV, § 54001(b)][/us/pl/114/94/s54001/b], Dec. 4, 2015, [129 Stat. 1768][/us/stat/129/1768], provided that: 
+[Pub. L. 103–428][/us/pl/103/428], § 1(c), Oct. 31, 1994, [108 Stat. 4376][/us/stat/108/4376], as amended by [Pub. L. 105–121][/us/pl/105/121], § 4, Nov. 26, 1997, [111 Stat. 2529][/us/stat/111/2529]; [Pub. L. 109–438][/us/pl/109/438], § 4, Dec. 20, 2006, [120 Stat. 3269][/us/stat/120/3269]; [Pub. L. 112–122][/us/pl/112/122], § 24, May 30, 2012, [126 Stat. 364][/us/stat/126/364]; [Pub. L. 112–136][/us/pl/112/136], § 1, June 21, 2012, [126 Stat. 385][/us/stat/126/385]; [Pub. L. 114–94, div. E, title LIV][/us/pl/114/94/dE/tLIV], § 54001(b), Dec. 4, 2015, [129 Stat. 1768][/us/stat/129/1768], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall remain in effect during the period beginning on the date of enactment of this Act \[Oct. 31, 1994\] and ending on the date on which the authority of the Export-Import Bank of the United States expires under section 7 of the Export-Import Bank Act of 1945 ([12 U.S.C. 635f][/us/usc/t12/s635f]).”
 
-\[[Pub. L. 113–235, div. J, title VI][/us/pl/113/235], Dec. 16, 2014, [128 Stat. 2598][/us/stat/128/2598], provided in part: 
+\[[Pub. L. 113–235, div. J, title VI][/us/pl/113/235/dJ/tVI], Dec. 16, 2014, [128 Stat. 2598][/us/stat/128/2598], provided in part: 
 
 > “That notwithstanding [section 1(c) of Public Law 103–428][/us/pl/103/428/s1/c] \[set out above\], as amended, sections 1(a) and (b) of [Public Law 103–428][/us/pl/103/428] \[amending this section\] shall remain in effect through October 1, 2015.”
 
@@ -1147,25 +1147,25 @@
 
 \[Prior similar extensions of section 1(a) and (b) of [Pub. L. 103–428][/us/pl/103/428] were contained in the following acts:
 
-    \[[Pub. L. 113–76, div. K, title VI][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 489][/us/stat/128/489].
+    \[[Pub. L. 113–76, div. K, title VI][/us/pl/113/76/dK/tVI], Jan. 17, 2014, [128 Stat. 489][/us/stat/128/489].
 
-    \[[Pub. L. 112–74, div. I, title VI][/us/pl/112/74], Dec. 23, 2011, [125 Stat. 1191][/us/stat/125/1191].
+    \[[Pub. L. 112–74, div. I, title VI][/us/pl/112/74/dI/tVI], Dec. 23, 2011, [125 Stat. 1191][/us/stat/125/1191].
 
-    \[[Pub. L. 111–117, div. F, title VI][/us/pl/111/117], Dec. 16, 2009, [123 Stat. 3341][/us/stat/123/3341].
+    \[[Pub. L. 111–117, div. F, title VI][/us/pl/111/117/dF/tVI], Dec. 16, 2009, [123 Stat. 3341][/us/stat/123/3341].
 
-    \[[Pub. L. 111–8, div. H, title VI][/us/pl/111/8], Mar. 11, 2009, [123 Stat. 858][/us/stat/123/858].
+    \[[Pub. L. 111–8, div. H, title VI][/us/pl/111/8/dH/tVI], Mar. 11, 2009, [123 Stat. 858][/us/stat/123/858].
 
-    \[[Pub. L. 110–161, div. J, title II][/us/pl/110/161], Dec. 26, 2007, [121 Stat. 2289][/us/stat/121/2289].
+    \[[Pub. L. 110–161, div. J, title II][/us/pl/110/161/dJ/tII], Dec. 26, 2007, [121 Stat. 2289][/us/stat/121/2289].
 
-    \[[Pub. L. 109–102, title I][/us/pl/109/102], Nov. 14, 2005, [119 Stat. 2172][/us/stat/119/2172].
+    \[[Pub. L. 109–102, title I][/us/pl/109/102/tI], Nov. 14, 2005, [119 Stat. 2172][/us/stat/119/2172].
 
-    \[[Pub. L. 108–447, div. D, title I][/us/pl/108/447], Dec. 8, 2004, [118 Stat. 2968][/us/stat/118/2968].
+    \[[Pub. L. 108–447, div. D, title I][/us/pl/108/447/dD/tI], Dec. 8, 2004, [118 Stat. 2968][/us/stat/118/2968].
 
-    \[[Pub. L. 108–199, div. D, title I][/us/pl/108/199], Jan. 23, 2004, [118 Stat. 143][/us/stat/118/143].
+    \[[Pub. L. 108–199, div. D, title I][/us/pl/108/199/dD/tI], Jan. 23, 2004, [118 Stat. 143][/us/stat/118/143].
 
-    \[[Pub. L. 108–7, div. E, title I][/us/pl/108/7], Feb. 20, 2003, [117 Stat. 159][/us/stat/117/159].
+    \[[Pub. L. 108–7, div. E, title I][/us/pl/108/7/dE/tI], Feb. 20, 2003, [117 Stat. 159][/us/stat/117/159].
 
-    \[[Pub. L. 107–229, § 129][/us/pl/107/229/s129], as added by [Pub. L. 107–240, § 5][/us/pl/107/240/s5], Oct. 11, 2002, [116 Stat. 1494][/us/stat/116/1494].\]
+    \[[Pub. L. 107–229][/us/pl/107/229], § 129, as added by [Pub. L. 107–240][/us/pl/107/240], § 5, Oct. 11, 2002, [116 Stat. 1494][/us/stat/116/1494].\]
 
     \[For provisions continuing functions of Export-Import Bank of the United States through June 14, 2002, notwithstanding [section 1(c) of Pub. L. 103–428][/us/pl/103/428/s1/c], set out above, see Continuation of Bank Functions note set out under [section 635f of this title][/us/usc/t12/s635f].\]
 
@@ -1173,61 +1173,61 @@
 
  __Effective Date of 1978 Amendment__ 
 
-[Pub. L. 95–630, title XIX, § 1917][/us/pl/95/630/s1917], Nov. 10, 1978, [92 Stat. 3727][/us/stat/92/3727], provided that: 
+[Pub. L. 95–630, title XIX][/us/pl/95/630/tXIX], § 1917, Nov. 10, 1978, [92 Stat. 3727][/us/stat/92/3727], provided that: 
 
 > “This title \[enacting sections 635a–1 to 635a–3 of this title and [section 2153e–1 of Title 42][/us/usc/t42/s2153e–1], The Public Health and Welfare, and amending this section and sections 635e to 635g of this title\] shall take effect upon enactment \[Nov. 10, 1978\].”
 
  __Short Title of 2015 Amendment__ 
 
-[Pub. L. 114–94, div. E, § 50001][/us/pl/114/94/s50001], Dec. 4, 2015, [129 Stat. 1763][/us/stat/129/1763], provided that: 
+[Pub. L. 114–94, div. E][/us/pl/114/94/dE], § 50001, Dec. 4, 2015, [129 Stat. 1763][/us/stat/129/1763], provided that: 
 
 > “This division \[enacting [section 635a–7 of this title][/us/usc/t12/s635a–7], amending this section and sections 635a, 635a–5, 635a–6, 635e to 635g, and 635i–5 of this title, enacting provisions set out as notes under this section and sections 635a, 635a–5, 635e, and 635g of this title, and amending provisions set out as a note under this section\] may be cited as the ‘Export-Import Bank Reform and Reauthorization Act of 2015’.”
 
  __Short Title of 2012 Amendment__ 
 
-[Pub. L. 112–122, § 1(a)][/us/pl/112/122/s1/a], May 30, 2012, [126 Stat. 350][/us/stat/126/350], provided that: 
+[Pub. L. 112–122][/us/pl/112/122], § 1(a), May 30, 2012, [126 Stat. 350][/us/stat/126/350], provided that: 
 
 > “This Act \[enacting sections 635a–5 and 635a–6 of this title, amending this section and sections 635a and 635e to 635g of this title, enacting provisions set out as notes under this section and sections 635a and 635a–2 of this title, and amending provisions set out as a note under this section\] may be cited as the ‘Export-Import Bank Reauthorization Act of 2012’.”
 
  __Short Title of 2006 Amendment__ 
 
-[Pub. L. 109–438, § 1(a)][/us/pl/109/438/s1/a], Dec. 20, 2006, [120 Stat. 3268][/us/stat/120/3268], provided that: 
+[Pub. L. 109–438][/us/pl/109/438], § 1(a), Dec. 20, 2006, [120 Stat. 3268][/us/stat/120/3268], provided that: 
 
 > “This Act \[enacting [section 635g–1 of this title][/us/usc/t12/s635g–1], amending this section and sections 635a, 635e, 635f, 635g, 635i–3, and 635i–5 of this title, enacting provisions set out as notes under this section, and amending provisions set out as a note under this section\] may be cited as the ‘Export-Import Bank Reauthorization Act of 2006’.”
 
  __Short Title of 2002 Amendment__ 
 
-[Pub. L. 107–189, § 1(a)][/us/pl/107/189/s1/a], June 14, 2002, [116 Stat. 698][/us/stat/116/698], provided that: 
+[Pub. L. 107–189][/us/pl/107/189], § 1(a), June 14, 2002, [116 Stat. 698][/us/stat/116/698], provided that: 
 
 > “This Act \[enacting [section 635i–9 of this title][/us/usc/t12/s635i–9], amending this section, sections 635a, 635e to 635g, 635i–3, 635i–6, and 635i–8 of this title, [section 5315 of Title 5][/us/usc/t5/s5315], Government Organization and Employees, sections 9 and 11 of the Inspector General Act of 1978, [Pub. L. 95–452][/us/pl/95/452], set out in the Appendix to Title 5, and [section 1105 of Title 31][/us/usc/t31/s1105], Money and Finance, enacting provisions set out as notes under this section, sections 635a, 635g, and 635i–9 of this title, and [section 5315 of Title 5][/us/usc/t5/s5315], and amending provisions set out as a note under this section\] may be cited as the ‘Export-Import Bank Reauthorization Act of 2002’.”
 
  __Short Title of 1997 Amendment__ 
 
-[Pub. L. 105–121, § 1(a)][/us/pl/105/121/s1/a], Nov. 26, 1997, [111 Stat. 2528][/us/stat/111/2528], provided that: 
+[Pub. L. 105–121][/us/pl/105/121], § 1(a), Nov. 26, 1997, [111 Stat. 2528][/us/stat/111/2528], provided that: 
 
 > “This Act \[amending this section and sections 635a, 635f, and 635i–3 of this title, enacting provisions set out as notes under this section and [section 635f of this title][/us/usc/t12/s635f], and amending provisions set out as a note under this section\] may be cited as the ‘Export-Import Bank Reauthorization Act of 1997’.”
 
  __Short Title of 1992 Amendment__ 
 
-[Pub. L. 102–429, § 1(a)][/us/pl/102/429/s1/a], Oct. 21, 1992, [106 Stat. 2186][/us/stat/106/2186], provided that: 
+[Pub. L. 102–429][/us/pl/102/429], § 1(a), Oct. 21, 1992, [106 Stat. 2186][/us/stat/106/2186], provided that: 
 
 > “This Act \[enacting sections 635i–5 to 635i–7 of this title, [section 831 of Title 2][/us/usc/t2/s831], The Congress, and sections 4727 to 4729 of Title 15, Commerce and Trade, amending this section and sections 635a, 635b, 635e, 635f, and 635i–3 of this title, and sections 4052 and 4721 of Title 15, repealing sections 635c, 635i to 635i–2, and 635i–4 of this title, [section 713b of Title 15][/us/usc/t15/s713b], and [section 2772 of Title 22][/us/usc/t22/s2772], Foreign Relations and Intercourse, and enacting provisions set out as notes under this section, [section 635a of this title][/us/usc/t12/s635a], and [section 4728 of Title 15][/us/usc/t15/s4728]\] may be cited as the ‘Export Enhancement Act of 1992’.”
 
  __Short Title of 1988 Amendment__ 
 
-[Pub. L. 100–418, title III, § 3301][/us/pl/100/418/s3301], Aug. 23, 1988, [102 Stat. 1383][/us/stat/102/1383], provided that: 
+[Pub. L. 100–418, title III][/us/pl/100/418/tIII], § 3301, Aug. 23, 1988, [102 Stat. 1383][/us/stat/102/1383], provided that: 
 
 > “This subtitle \[subtitle D (§§ 3301–3304) of title III of [Pub. L. 100–418][/us/pl/100/418], amending this section and [section 635i–3 of this title][/us/usc/t12/s635i–3] and enacting provisions set out as a note under [section 635i–3 of this title][/us/usc/t12/s635i–3]\] may be cited as the ‘Export-Import Bank and Tied Aid Credit Amendments of 1988’.”
 
  __Short Title of 1986 Amendment__ 
 
-[Pub. L. 99–472, § 1][/us/pl/99/472/s1], Oct. 15, 1986, [100 Stat. 1200][/us/stat/100/1200], provided that: 
+[Pub. L. 99–472][/us/pl/99/472], § 1, Oct. 15, 1986, [100 Stat. 1200][/us/stat/100/1200], provided that: 
 
 > “This Act \[enacting [section 635i–3 of this title][/us/usc/t12/s635i–3] and [section 262h of Title 22][/us/usc/t22/s262h], Foreign Relations and Intercourse, amending this section and sections 635a, 635a–2, 635a–3, and 635e to 635g of this title, and enacting provisions set out as a note under [section 635g of this title][/us/usc/t12/s635g]\] may be cited as the ‘Export-Import Bank Act Amendments of 1986’.”
 
  __Short Title of 1983 Amendment__ 
 
-[Pub. L. 98–181, title I][/us/pl/98/181] \[title VI, § 601\], Nov. 30, 1983, [97 Stat. 1254][/us/stat/97/1254], provided that: 
+[Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title VI, § 601\], Nov. 30, 1983, [97 Stat. 1254][/us/stat/97/1254], provided that: 
 
 > “This title \[enacting sections 635i–1, 635i–2, and 635o–635t of this title and [section 1671g of Title 19][/us/usc/t19/s1671g], Customs Duties, amending this section, sections 635a, 635a–2, 635a–3, 635a–4, 635b, 635e, 635f, and 635g of this title, and sections 1671a and 1671b of Title 19, and enacting provisions set out as notes under sections 635a and 635o of this title\] may be cited as the ‘Export-Import Bank Act Amendments of 1983’.”
 
@@ -1235,31 +1235,31 @@
 
  __Short Title of 1981 Amendment__ 
 
-[Pub. L. 97–35, title III, § 380][/us/pl/97/35/s380], Aug. 13, 1981, [95 Stat. 431][/us/stat/95/431], provided that: 
+[Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 380, Aug. 13, 1981, [95 Stat. 431][/us/stat/95/431], provided that: 
 
 > “This subtitle \[subtitle B (§§ 380–385) of title III of [Pub. L. 97–35][/us/pl/97/35], amending sections 461 and 635e of this title, and section 369 of former Title 31, Money and Finance, enacting provisions set out as a note under section 369 of former Title 31, and amending provisions set out as notes under sections 1735f–7 and 1904 of this title\] may be cited as the ‘Banking and Related Programs Authorization Adjustment Act’.”
 
  __Short Title of 1978 Amendment__ 
 
-[Pub. L. 95–630, title XIX, § 1901][/us/pl/95/630/s1901], Nov. 10, 1978, [92 Stat. 3724][/us/stat/92/3724], provided: 
+[Pub. L. 95–630, title XIX][/us/pl/95/630/tXIX], § 1901, Nov. 10, 1978, [92 Stat. 3724][/us/stat/92/3724], provided: 
 
 > “That this title \[enacting sections 635a–1 to 635a–3 of this title and [section 2153e–1 of Title 42][/us/usc/t42/s2153e–1], The Public Health and Welfare, amending this section and sections 635e to 635g of this title, and enacting provisions set out as a note under this section\] may be cited as the ‘Export-Import Bank Act Amendments of 1978’.”
 
  __Short Title of 1975 Amendment__ 
 
-[Pub. L. 93–646, § 1][/us/pl/93/646/s1], Jan. 4, 1975, [88 Stat. 2333][/us/stat/88/2333], provided that: 
+[Pub. L. 93–646][/us/pl/93/646], § 1, Jan. 4, 1975, [88 Stat. 2333][/us/stat/88/2333], provided that: 
 
 > “This Act \[amending this section and sections 82 and 635d to 635g of this title and enacting provisions set out as notes under this section\] may be cited as the ‘Export-Import Bank Amendments of 1974’.”
 
  __Short Title of 1971 Amendment__ 
 
-[Pub. L. 92–126, § 1(a)][/us/pl/92/126/s1/a], Aug. 17, 1971, [85 Stat. 345][/us/stat/85/345], provided that: 
+[Pub. L. 92–126][/us/pl/92/126], § 1(a), Aug. 17, 1971, [85 Stat. 345][/us/stat/85/345], provided that: 
 
 > “This Act \[amending this section and sections 635e and 635f of this title and enacting provisions set out as notes under [section 95a of this title][/us/usc/t12/s95a]\] may be cited as the ‘Export Expansion Finance Act of 1971’.”
 
  __Short Title__ 
 
-[Act July 31, 1945, ch. 341, § 1][/us/act/1945-07-31/ch341/s1], [59 Stat. 526][/us/stat/59/526], provided: 
+[Act July 31, 1945, ch. 341][/us/act/1945-07-31/ch341], § 1, [59 Stat. 526][/us/stat/59/526], provided: 
 
 > “That this Act \[this subchapter\] may be cited as the ‘Export-Import Bank Act of 1945’.”
 
@@ -1277,7 +1277,7 @@
 
  __History of Bank__ 
 
-    The Export-Import Bank of Washington was organized as a District of Columbia banking corporation under Ex. Ord. No. 6581, Feb. 2, 1934. It was continued as an agency of the United States by [act Jan. 31, 1935, ch. 2, § 9][/us/act/1935-01-31/ch2/s9], [49 Stat. 4][/us/stat/49/4], formerly set out as [section 713b of Title 15][/us/usc/t15/s713b], Commerce and Trade, as amended by acts [Jan. 26, 1937, ch. 6, § 2(a)][/us/act/1937-01-26/ch6/s2/a], [50 Stat. 5][/us/stat/50/5]; [Mar. 4, 1939, ch. 5, § 1(b)(c)][/us/act/1939-03-04/ch5/s1/b/c], [53 Stat. 510][/us/stat/53/510]; [Mar. 2, 1940, ch. 34][/us/act/1940-03-02/ch34], [54 Stat. 38][/us/stat/54/38]; [Sept. 26, 1940, ch. 734, § 3][/us/act/1940-09-26/ch734/s3], [54 Stat. 962][/us/stat/54/962], and repealed by section 10 of act July 31, 1945. The Second Export-Import Bank of Washington, D.C., was established under Ex. Ord. No. 6638, Mar. 9, 1934. Its commitments were transferred to the Export-Import Bank of Washington and it was abolished by Ex. Ord. No. 7365, May 7, 1936, 1 F.R. 372. The “Export-Import Bank of Washington” was re­named the “Export-Import Bank of the United States”. See the 1968 Amendment note under this section.
+    The Export-Import Bank of Washington was organized as a District of Columbia banking corporation under Ex. Ord. No. 6581, Feb. 2, 1934. It was continued as an agency of the United States by [act Jan. 31, 1935, ch. 2][/us/act/1935-01-31/ch2], § 9, [49 Stat. 4][/us/stat/49/4], formerly set out as [section 713b of Title 15][/us/usc/t15/s713b], Commerce and Trade, as amended by acts [Jan. 26, 1937, ch. 6][/us/act/1937-01-26/ch6], § 2(a), [50 Stat. 5][/us/stat/50/5]; [Mar. 4, 1939, ch. 5][/us/act/1939-03-04/ch5], § 1(b)(c), [53 Stat. 510][/us/stat/53/510]; [Mar. 2, 1940, ch. 34][/us/act/1940-03-02/ch34], [54 Stat. 38][/us/stat/54/38]; [Sept. 26, 1940, ch. 734][/us/act/1940-09-26/ch734], § 3, [54 Stat. 962][/us/stat/54/962], and repealed by section 10 of act July 31, 1945. The Second Export-Import Bank of Washington, D.C., was established under Ex. Ord. No. 6638, Mar. 9, 1934. Its commitments were transferred to the Export-Import Bank of Washington and it was abolished by Ex. Ord. No. 7365, May 7, 1936, 1 F.R. 372. The “Export-Import Bank of Washington” was re­named the “Export-Import Bank of the United States”. See the 1968 Amendment note under this section.
 
  __Waiver of Sanctions__ 
 
@@ -1289,11 +1289,11 @@
 
  __Pilot Program for Reinsurance__ 
 
-[Pub. L. 114–94, div. E, title LI, § 51008][/us/pl/114/94/s51008], Dec. 4, 2015, [129 Stat. 1766][/us/stat/129/1766], provided that:
+[Pub. L. 114–94, div. E, title LI][/us/pl/114/94/dE/tLI], § 51008, Dec. 4, 2015, [129 Stat. 1766][/us/stat/129/1766], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
->     Notwithstanding any provision of the Export-Import Bank Act of 1945 ([12 U.S.C. 635][/us/usc/t12/s635] et seq.), the Export-Import Bank of the United States (in this section referred to as the “Bank”) may establish a pilot program under which the Bank may enter into contracts and other arrangements to share risks associated with the provision of guarantees, insurance, or credit, or the participation in the extension of credit, by the Bank under that Act.
+>     Notwithstanding any provision of the Export-Import Bank Act of 1945 ([12 U.S.C. 635][/us/usc/t12/s635] et seq.), the Export-Import Bank of the United States (in this section referred to as the ‘Bank’) may establish a pilot program under which the Bank may enter into contracts and other arrangements to share risks associated with the provision of guarantees, insurance, or credit, or the participation in the extension of credit, by the Bank under that Act.
 
 >     “(b) __Limitations on Amount of Risk-Sharing.—__ 
 
@@ -1319,13 +1319,13 @@
 
  __Publication of Guidelines for Economic Impact Analyses__ 
 
-[Pub. L. 112–122, § 12(a)][/us/pl/112/122/s12/a], May 30, 2012, [126 Stat. 357][/us/stat/126/357], provided that: 
+[Pub. L. 112–122][/us/pl/112/122], § 12(a), May 30, 2012, [126 Stat. 357][/us/stat/126/357], provided that: 
 
 > “Not later than 180 days after the date of the enactment of this Act \[May 30, 2012\], the Export-Import Bank of the United States shall develop and make publicly available methodological guidelines to be used by the Bank in conducting economic impact analyses or similar studies under section 2(e) of the Export-Import Bank Act of 1945 \[[12 U.S.C. 635(e)][/us/usc/t12/s635/e]\]. In developing the guidelines, the Bank shall take into consideration any relevant guidance from the Office of Management and Budget.”
 
  __Prohibitions on Financing for Certain Persons Involved in Sanctionable Activities With Respect to Iran__ 
 
-[Pub. L. 112–122, § 18][/us/pl/112/122/s18], May 30, 2012, [126 Stat. 360][/us/stat/126/360], provided that:
+[Pub. L. 112–122][/us/pl/112/122], § 18, May 30, 2012, [126 Stat. 360][/us/stat/126/360], provided that:
 
 >     “(a) __Prohibition on Financing for Persons That Engage in Certain Sanctionable Activities.—__ 
 
@@ -1399,25 +1399,25 @@
 
  __Master Guarantee Agreements With African Regional Financial Institutions__ 
 
-[Pub. L. 109–438, § 3(b)(1)][/us/pl/109/438/s3/b/1], Dec. 20, 2006, [120 Stat. 3268][/us/stat/120/3268], provided that: 
+[Pub. L. 109–438][/us/pl/109/438], § 3(b)(1), Dec. 20, 2006, [120 Stat. 3268][/us/stat/120/3268], provided that: 
 
 > “Within 1 year after the date of the enactment of this Act \[Dec. 20, 2006\], the Export-Import Bank of the United States shall seek to ensure that there is in effect a contract between each approved lender in Africa and the Bank, which sets forth the Bank’s guarantee undertakings and related obligations between the Bank and each lender.”
 
  __Enhance Delegated Loan Authority for Medium Term Transactions__ 
 
-[Pub. L. 109–438, § 6(b)(1)][/us/pl/109/438/s6/b/1], Dec. 20, 2006, [120 Stat. 3272][/us/stat/120/3272], provided that: 
+[Pub. L. 109–438][/us/pl/109/438], § 6(b)(1), Dec. 20, 2006, [120 Stat. 3272][/us/stat/120/3272], provided that: 
 
 > “The Export-Import Bank of the United States shall seek to expand the exercise of authority under section 2(b)(1)(E)(vii) of the Export-Import Bank Act of 1945 ([12 U.S.C. 635(b)(1)(E)(vii)][/us/usc/t12/s635/b/1/E/vii]) with respect to medium term transactions for small business concerns.”
 
  __Deadline for Enhancing Delegated Loan Authority for Medium Term Transactions__ 
 
-[Pub. L. 109–438, § 6(b)(3)][/us/pl/109/438/s6/b/3], Dec. 20, 2006, [120 Stat. 3272][/us/stat/120/3272], provided that: 
+[Pub. L. 109–438][/us/pl/109/438], § 6(b)(3), Dec. 20, 2006, [120 Stat. 3272][/us/stat/120/3272], provided that: 
 
 > “Not later than 180 days after the date of the enactment of this Act \[Dec. 20, 2006\], the Export-Import Bank of the United States shall make available lines of credit and guarantees to carry out section 2(b)(1)(E)(vii) of the Export-Import Bank Act of 1945 \[[12 U.S.C. 635(b)(1)(E)(vii)][/us/usc/t12/s635/b/1/E/vii]\] pursuant to policies and procedures established by the Board of Directors of the Export-Import Bank of the United States.”
 
  __GAO Study of Bank Performance Standards for Assistance to Small Businesses, Especially Those Owned by Socially and Economically Disadvantaged Individuals and Those Owned by Women__ 
 
-[Pub. L. 109–438, § 19][/us/pl/109/438/s19], Dec. 20, 2006, [120 Stat. 3282][/us/stat/120/3282], provided that:
+[Pub. L. 109–438][/us/pl/109/438], § 19, Dec. 20, 2006, [120 Stat. 3282][/us/stat/120/3282], provided that:
 
 >     “(a)  __Performance Standards__  __.—__ 
 
@@ -1433,19 +1433,19 @@
 
  __GAO Report on Comparative Reserve Practices of Export Credit Agencies and Private Banks__ 
 
-[Pub. L. 107–189, § 14][/us/pl/107/189/s14], June 14, 2002, [116 Stat. 705][/us/stat/116/705], provided that: 
+[Pub. L. 107–189][/us/pl/107/189], § 14, June 14, 2002, [116 Stat. 705][/us/stat/116/705], provided that: 
 
 > “Within 1 year after the date of the enactment of this Act \[June 14, 2002\], the Comptroller General of the United States shall submit to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report that examines the reserve ratios of the Export-Import Bank of the United States as compared with the reserve practices of private banks and foreign export credit agencies.”
 
  __Reports to Congress__ 
 
-[Pub. L. 105–121, § 7(b)][/us/pl/105/121/s7/b], Nov. 26, 1997, [111 Stat. 2529][/us/stat/111/2529], as amended by [Pub. L. 107–189, § 6(c)][/us/pl/107/189/s6/c], June 14, 2002, [116 Stat. 700][/us/stat/116/700], provided that: 
+[Pub. L. 105–121][/us/pl/105/121], § 7(b), Nov. 26, 1997, [111 Stat. 2529][/us/stat/111/2529], as amended by [Pub. L. 107–189][/us/pl/107/189], § 6(c), June 14, 2002, [116 Stat. 700][/us/stat/116/700], provided that: 
 
 > “Within 6 months after the date of enactment of this Act \[Nov. 26, 1997\], and annually for each of the 8 years thereafter, the Board of Directors of the Export-Import Bank of the United States shall submit to Congress a report on the steps that the Board has taken to implement section 2(b)(9)(B) of the Export-Import Bank Act of 1945 \[[12 U.S.C. 635(b)(9)(B)][/us/usc/t12/s635/b/9/B]\] and any recommendations of the advisory committee established pursuant to such section.”
 
  __Declaration of Policy__ 
 
-[Pub. L. 102–429, title I, § 101][/us/pl/102/429/s101], Oct. 21, 1992, [106 Stat. 2186][/us/stat/106/2186], provided that: 
+[Pub. L. 102–429, title I][/us/pl/102/429/tI], § 101, Oct. 21, 1992, [106 Stat. 2186][/us/stat/106/2186], provided that: 
 
 > “The Congress finds that—
 
@@ -1469,15 +1469,15 @@
 
  __Report on Financing of Services__ 
 
-    [Pub. L. 102–429, title I, § 119][/us/pl/102/429/s119], Oct. 21, 1992, [106 Stat. 2197][/us/stat/106/2197], directed Export-Import Bank of the United States, not later than 1 year after Oct. 21, 1992, to submit a report to Congress on ways of facilitating the export financing of high technology services.
+    [Pub. L. 102–429, title I][/us/pl/102/429/tI], § 119, Oct. 21, 1992, [106 Stat. 2197][/us/stat/106/2197], directed Export-Import Bank of the United States, not later than 1 year after Oct. 21, 1992, to submit a report to Congress on ways of facilitating the export financing of high technology services.
 
  __Report on Demand for Trade Finance for the Baltic States, the Independent States of the Former Soviet Union, and Central and Eastern Europe__ 
 
-    [Pub. L. 102–429, title I, § 120][/us/pl/102/429/s120], Oct. 21, 1992, [106 Stat. 2197][/us/stat/106/2197], directed Export-Import Bank, not later than 1 year after Oct. 21, 1992, to transmit to Congress a report analyzing present and future demand for loans, guarantees, and insurance for trade between the United States and the Baltic States, between the United States and the independent States of the former Soviet Union, and between the United States and Central and Eastern Europe, and to make recommendations regarding the adequacy of financing for trade between the United States and such countries.
+    [Pub. L. 102–429, title I][/us/pl/102/429/tI], § 120, Oct. 21, 1992, [106 Stat. 2197][/us/stat/106/2197], directed Export-Import Bank, not later than 1 year after Oct. 21, 1992, to transmit to Congress a report analyzing present and future demand for loans, guarantees, and insurance for trade between the United States and the Baltic States, between the United States and the independent States of the former Soviet Union, and between the United States and Central and Eastern Europe, and to make recommendations regarding the adequacy of financing for trade between the United States and such countries.
 
  __Export-Import Programs to People’s Republic of China Prohibited Unless Certain Conditions Met__ 
 
-[Pub. L. 101–240, title I, § 103][/us/pl/101/240/s103], Dec. 19, 1989, [103 Stat. 2496][/us/stat/103/2496], provided that:
+[Pub. L. 101–240, title I][/us/pl/101/240/tI], § 103, Dec. 19, 1989, [103 Stat. 2496][/us/stat/103/2496], provided that:
 
 >     “(a) Notwithstanding any other provision of law and subject to the provisions of subsections (b) and (c), the Export-Import Bank of the United States shall not finance any trade with, nor extend any loan, credit, credit guarantee, insurance or reinsurance to the People’s Republic of China.
 
@@ -1505,7 +1505,7 @@
 
  __Export-Import Bank Programs for Poland and Hungary__ 
 
-[Pub. L. 101–179, title III, § 303][/us/pl/101/179/s303], Nov. 28, 1989, [103 Stat. 1312][/us/stat/103/1312], provided that:
+[Pub. L. 101–179, title III][/us/pl/101/179/tIII], § 303, Nov. 28, 1989, [103 Stat. 1312][/us/stat/103/1312], provided that:
 
 >     “(a)  __Authority to Extend Credit to Poland and Hungary__  __.—__ 
 
@@ -1517,7 +1517,7 @@
 
  __Restrictions on Loans__ 
 
-    [Pub. L. 93–646, § 12][/us/pl/93/646/s12], Jan. 4, 1975, [88 Stat. 2337][/us/stat/88/2337], provided that, until Jan. 3, 1975, no loan, guarantee, insurance, or credit could be extended by the Export-Import Bank of the United States to the Union of Soviet Socialist Republics.
+    [Pub. L. 93–646][/us/pl/93/646], § 12, Jan. 4, 1975, [88 Stat. 2337][/us/stat/88/2337], provided that, until Jan. 3, 1975, no loan, guarantee, insurance, or credit could be extended by the Export-Import Bank of the United States to the Union of Soviet Socialist Republics.
 
  __Ex. Ord. No. 12166. Delegation of Function of President Relating to Application for Credit to Secretary of State__ 
 
@@ -1604,68 +1604,68 @@ By the authority vested in me as President of the United States of America by Se
 [/us/usc/t19/s1671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1671
 [/us/usc/t19/s2251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2251
 [/us/usc/t15/s632/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632%2Fa
-[/us/act/1945-07-31/ch341/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch341%2Fs2
+[/us/act/1945-07-31/ch341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch341
 [/us/stat/59/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F526
 [/us/act/1945-12-28/ch602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-12-28%2Fch602
 [/us/stat/59/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F666
-[/us/act/1947-06-09/ch101/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-09%2Fch101%2Fs1
+[/us/act/1947-06-09/ch101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-09%2Fch101
 [/us/stat/61/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F130
-[/us/act/1953-05-21/ch64/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-05-21%2Fch64%2Fs1
+[/us/act/1953-05-21/ch64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-05-21%2Fch64
 [/us/stat/67/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F28
 [/us/pl/87/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F311
 [/us/stat/75/673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F673
-[/us/pl/88/101/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F101%2Fs1%2Fa
+[/us/pl/88/101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F101
 [/us/stat/77/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F128
-[/us/pl/90/267/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F267%2Fs1%2Fa
+[/us/pl/90/267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F267
 [/us/stat/82/47-49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F47-49
-[/us/pl/92/126/s1/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F126%2Fs1%2Fb%2F1
+[/us/pl/92/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F126
 [/us/stat/85/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F345
 [/us/pl/93/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F646
 [/us/stat/88/2333-2335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2333-2335
 [/us/pl/95/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F143
 [/us/stat/91/1210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1210
-[/us/pl/95/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630
+[/us/pl/95/630/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtXIX
 [/us/stat/92/3724-3727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3724-3727
-[/us/pl/96/470/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470%2Fs210
+[/us/pl/96/470/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470%2FtII
 [/us/stat/94/2245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2245
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1255
-[/us/pl/99/440/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F440%2Fs204
+[/us/pl/99/440/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F440%2FtII
 [/us/stat/100/1096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1096
 [/us/pl/99/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F472
 [/us/stat/100/1200-1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1200-1203
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/100/418/s3304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs3304
+[/us/pl/100/418/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtIII
 [/us/stat/102/1384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1384
-[/us/pl/100/690/s4703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs4703
+[/us/pl/100/690/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtIV
 [/us/stat/102/4293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4293
-[/us/pl/101/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240
+[/us/pl/101/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2FtI
 [/us/stat/103/2493-2495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2493-2495
-[/us/pl/101/513/s562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2Fs562
+[/us/pl/101/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2FtV
 [/us/stat/104/2031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2031
-[/us/pl/101/623/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F623%2Fs16
+[/us/pl/101/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F623
 [/us/stat/104/3357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3357
-[/us/pl/102/145/s121/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F145%2Fs121%2F2
-[/us/pl/102/266/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F266%2Fs102
+[/us/pl/102/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F145
+[/us/pl/102/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F266
 [/us/stat/106/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F95
-[/us/pl/102/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429
+[/us/pl/102/429/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429%2FtI
 [/us/stat/106/2189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2189
 [/us/pl/102/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583
 [/us/stat/106/4932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4932
-[/us/pl/103/149/s4/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F149%2Fs4%2Fb%2F5
+[/us/pl/103/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F149
 [/us/stat/107/1505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1505
-[/us/pl/103/236/s825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs825
+[/us/pl/103/236/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtVIII
 [/us/stat/108/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F514
-[/us/pl/103/428/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F428%2Fs1%2Fa
+[/us/pl/103/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F428
 [/us/stat/108/4375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4375
-[/us/pl/103/447/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F447%2Fs102%2Fa
+[/us/pl/103/447/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F447%2FtI
 [/us/stat/108/4693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4693
-[/us/pl/104/201/s1303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1303%2Fa
+[/us/pl/104/201/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXIII
 [/us/stat/110/2702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2702
 [/us/pl/105/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F121
 [/us/stat/111/2529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2529
-[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/569/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2FtXI
 [/us/stat/114/3031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F3031
 [/us/pl/107/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F189
 [/us/stat/116/698]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F698
@@ -1673,11 +1673,11 @@ By the authority vested in me as President of the United States of America by Se
 [/us/stat/120/3268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3268
 [/us/pl/112/122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F122
 [/us/stat/126/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F354
-[/us/pl/114/94/s52001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs52001%2Fa
+[/us/pl/114/94/dE/tLII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdE%2FtLII
 [/us/stat/129/1767-1769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1767-1769
 [/us/pl/103/428/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F428%2Fs1%2Fc
 [/us/pl/93/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344
-[/us/pl/101/508/s13201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13201%2Fa
+[/us/pl/101/508/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXIII
 [/us/stat/104/1388-609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-609
 [/us/usc/t2/s621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs621
 [/us/pl/95/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F213
@@ -1692,7 +1692,7 @@ By the authority vested in me as President of the United States of America by Se
 [/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72
 [/us/stat/93/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F503
 [/us/usc/t22/s2151q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151q
-[/us/pl/96/533/s304/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2Fs304%2Fg
+[/us/pl/96/533/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2FtIII
 [/us/stat/94/3147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3147
 [/us/pl/106/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200
 [/us/stat/114/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F252
@@ -1706,66 +1706,66 @@ By the authority vested in me as President of the United States of America by Se
 [/us/pl/109/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F438
 [/us/pl/90/267/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F267%2Fs1%2Fc
 [/us/pl/90/267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F267
-[/us/pl/114/94/s54002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs54002%2Fa
-[/us/pl/114/94/s52001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs52001%2Fa
-[/us/pl/114/94/s53001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs53001
-[/us/pl/114/94/s54001/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs54001%2Fc
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/usc/t12/s635f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635f
-[/us/pl/114/94/s54002/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs54002%2Fb
-[/us/pl/114/94/s55001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs55001
-[/us/pl/112/122/s22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F122%2Fs22
-[/us/pl/112/122/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F122%2Fs23
-[/us/pl/112/122/s12/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F122%2Fs12%2Fb
-[/us/pl/112/122/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F122%2Fs7
-[/us/pl/112/122/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F122%2Fs8
-[/us/pl/109/438/s13/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F438%2Fs13%2Fb
-[/us/usc/t12/s635i–3/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635i%E2%80%933%2Fh%2F3
-[/us/pl/109/438/s14/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F438%2Fs14%2Fb
-[/us/usc/t12/s635a/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635a%2Fi%2F1
-[/us/pl/109/438/s6/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F438%2Fs6%2Fb%2F2
-[/us/pl/109/438/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F438%2Fs3%2Fa
-[/us/pl/109/438/s3/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F438%2Fs3%2Fb%2F2
-[/us/pl/109/438/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F438%2Fs11
-[/us/pl/109/438/s7/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F438%2Fs7%2F1
-[/us/pl/109/438/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F438%2Fs8%2Fb
-[/us/pl/109/438/s7/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F438%2Fs7%2F2
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/112/122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F122
+[/us/pl/112/122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F122
+[/us/pl/112/122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F122
+[/us/pl/112/122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F122
+[/us/pl/112/122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F122
 [/us/pl/109/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F438
-[/us/pl/109/438/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F438%2Fs12
-[/us/pl/107/189/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F189%2Fs2
+[/us/usc/t12/s635i–3/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635i%E2%80%933%2Fh%2F3
+[/us/pl/109/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F438
+[/us/usc/t12/s635a/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635a%2Fi%2F1
+[/us/pl/109/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F438
+[/us/pl/109/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F438
+[/us/pl/109/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F438
+[/us/pl/109/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F438
+[/us/pl/109/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F438
+[/us/pl/109/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F438
+[/us/pl/109/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F438
+[/us/pl/109/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F438
+[/us/pl/109/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F438
 [/us/pl/107/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F189
 [/us/pl/107/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F189
-[/us/pl/107/189/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F189%2Fs7%2Fb
+[/us/pl/107/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F189
+[/us/pl/107/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F189
 [/us/usc/t15/s637/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs637%2Fa%2F4
 [/us/usc/t15/s632/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632%2Fa
 [/us/usc/t15/s632/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632%2Fa
-[/us/pl/107/189/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F189%2Fs7%2Fa
-[/us/pl/107/189/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F189%2Fs8%2Fa
-[/us/pl/107/189/s24/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F189%2Fs24%2Fb%2F1
+[/us/pl/107/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F189
+[/us/pl/107/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F189
+[/us/pl/107/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F189
 [/us/usc/t22/s5402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5402
-[/us/pl/107/189/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F189%2Fs8%2Fb
-[/us/pl/107/189/s13/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F189%2Fs13%2Fa
-[/us/pl/107/189/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F189%2Fs19
-[/us/pl/107/189/s24/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F189%2Fs24%2Fa%2F2%2FA
-[/us/pl/107/189/s24/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F189%2Fs24%2Fb%2F3
-[/us/pl/107/189/s24/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F189%2Fs24%2Fa%2F2%2FB
-[/us/pl/107/189/s24/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F189%2Fs24%2Fa%2F2%2FC
-[/us/pl/107/189/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F189%2Fs6%2Fb
-[/us/pl/107/189/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F189%2Fs6%2Fa
-[/us/pl/107/189/s24/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F189%2Fs24%2Fb%2F2
-[/us/pl/107/189/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F189%2Fs18
-[/us/pl/107/189/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F189%2Fs16
-[/us/pl/106/569/s1103/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs1103%2Fd%2F1
+[/us/pl/107/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F189
+[/us/pl/107/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F189
+[/us/pl/107/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F189
+[/us/pl/107/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F189
+[/us/pl/107/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F189
+[/us/pl/107/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F189
+[/us/pl/107/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F189
+[/us/pl/107/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F189
+[/us/pl/107/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F189
+[/us/pl/107/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F189
+[/us/pl/107/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F189
+[/us/pl/107/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F189
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
 [/us/usc/t12/s635i–3/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635i%E2%80%933%2Fg
-[/us/pl/106/569/s1104/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs1104%2Fa%2F1
-[/us/pl/106/569/s1104/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs1104%2Fa%2F2
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
 [/us/usc/t12/s635g/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635g%2Fa
-[/us/pl/105/121/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F121%2Fs10
-[/us/pl/105/121/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F121%2Fs11
-[/us/pl/105/121/s5/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F121%2Fs5%2F2
-[/us/pl/105/121/s5/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F121%2Fs5%2F1
-[/us/pl/105/121/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F121%2Fs9
-[/us/pl/105/121/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F121%2Fs7%2Fa
-[/us/pl/105/121/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F121%2Fs12
+[/us/pl/105/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F121
+[/us/pl/105/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F121
+[/us/pl/105/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F121
+[/us/pl/105/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F121
+[/us/pl/105/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F121
+[/us/pl/105/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F121
+[/us/pl/105/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F121
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/usc/t22/s6305/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6305%2F4
@@ -1773,220 +1773,220 @@ By the authority vested in me as President of the United States of America by Se
 [/us/usc/t22/s6305/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6305%2F8
 [/us/pl/103/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F447
 [/us/usc/t22/s2291/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2291%2Fe
-[/us/pl/103/428/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F428%2Fs1%2Fb
-[/us/pl/103/428/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F428%2Fs1%2Fa
+[/us/pl/103/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F428
+[/us/pl/103/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F428
 [/us/pl/103/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F149
-[/us/pl/102/429/s121/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429%2Fs121%2Fa%2F1
-[/us/pl/102/429/s121/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429%2Fs121%2Fa%2F2
-[/us/pl/102/429/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429%2Fs104
-[/us/pl/102/429/s121/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429%2Fs121%2Fa%2F3
-[/us/pl/102/429/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429%2Fs116
-[/us/pl/102/429/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429%2Fs114
-[/us/pl/102/429/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429%2Fs110
-[/us/pl/102/583/s12/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583%2Fs12%2Fc%2F1%2FA
-[/us/pl/102/429/s112/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429%2Fs112%2Fd%2F1
-[/us/pl/102/429/s112/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429%2Fs112%2Fd%2F1
+[/us/pl/102/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429
+[/us/pl/102/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429
+[/us/pl/102/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429
+[/us/pl/102/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429
+[/us/pl/102/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429
+[/us/pl/102/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429
+[/us/pl/102/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429
+[/us/pl/102/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583
+[/us/pl/102/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429
+[/us/pl/102/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429
 [/us/usc/t26/s4916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4916
 [/us/usc/t26/s4911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4911
-[/us/pl/102/429/s112/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429%2Fs112%2Fd%2F2%2FA
-[/us/pl/102/583/s6/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583%2Fs6%2Fc%2F1
+[/us/pl/102/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429
+[/us/pl/102/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583
 [/us/usc/t22/s2291j/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2291j%2Fe
 [/us/usc/t22/s2291/h/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2291%2Fh%2F5
-[/us/pl/102/429/s112/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429%2Fs112%2Fa%2F1
-[/us/pl/102/583/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583%2Fs12%2Fa
-[/us/pl/102/429/s112/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429%2Fs112%2Fa%2F3
-[/us/pl/102/429/s112/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429%2Fs112%2Fa%2F3
-[/us/pl/102/583/s6/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583%2Fs6%2Fc%2F2
+[/us/pl/102/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429
+[/us/pl/102/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583
+[/us/pl/102/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429
+[/us/pl/102/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429
+[/us/pl/102/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583
 [/us/usc/t22/s2291/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2291%2Fi
-[/us/pl/102/429/s112/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429%2Fs112%2Fb
-[/us/pl/102/429/s112/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429%2Fs112%2Fd%2F4
-[/us/pl/102/429/s112/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429%2Fs112%2Fd%2F5
-[/us/pl/102/429/s112/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429%2Fs112%2Fc
-[/us/pl/102/429/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429%2Fs111
-[/us/pl/102/429/s109/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429%2Fs109%2Fa
+[/us/pl/102/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429
+[/us/pl/102/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429
+[/us/pl/102/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429
+[/us/pl/102/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429
+[/us/pl/102/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429
+[/us/pl/102/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429
 [/us/usc/t12/s635e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635e
-[/us/pl/102/429/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429%2Fs105
-[/us/pl/102/429/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429%2Fs107
-[/us/pl/102/429/s121/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429%2Fs121%2Fa%2F4
-[/us/pl/102/145/s121/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F145%2Fs121%2F2
+[/us/pl/102/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429
+[/us/pl/102/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429
+[/us/pl/102/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429
+[/us/pl/102/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F145
 [/us/pl/102/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F266
 [/us/pl/101/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513
 [/us/pl/101/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F623
-[/us/pl/101/240/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2Fs101%2Fc
+[/us/pl/101/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/pl/101/240/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2Fs101%2Fd
-[/us/pl/101/240/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2Fs102
-[/us/pl/101/240/s101/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2Fs101%2Fa%2F1
-[/us/pl/101/240/s101/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2Fs101%2Fa%2F1
-[/us/pl/101/240/s101/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2Fs101%2Fa%2F1
+[/us/pl/101/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240
+[/us/pl/101/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240
+[/us/pl/101/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240
+[/us/pl/101/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240
+[/us/pl/101/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
-[/us/pl/100/418/s3304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs3304%2Fa
-[/us/pl/100/418/s3304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs3304%2Fb
-[/us/pl/100/418/s3304/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs3304%2Fc
-[/us/pl/99/472/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F472%2Fs2
-[/us/pl/99/472/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F472%2Fs4
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/99/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F472
-[/us/pl/99/472/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F472%2Fs6
-[/us/pl/99/472/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F472%2Fs7
-[/us/pl/99/472/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F472%2Fs8
+[/us/pl/99/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F472
+[/us/pl/99/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F472
+[/us/pl/99/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F472
+[/us/pl/99/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F472
+[/us/pl/99/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F472
 [/us/usc/t22/s2370/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2370%2Ff
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F440
-[/us/pl/99/472/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F472%2Fs9
-[/us/pl/99/472/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F472%2Fs10
 [/us/pl/99/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F472
-[/us/pl/98/181/s616/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs616%2Fa%2F1
-[/us/pl/98/181/s622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs622
+[/us/pl/99/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F472
+[/us/pl/99/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F472
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
 [/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
 [/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
 [/us/usc/t15/s631/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631%2Fa
-[/us/pl/98/181/s616/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs616%2Fa%2F3
-[/us/pl/98/181/s618/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs618%2Fa%2F2
-[/us/pl/98/181/s618/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs618%2Fc
-[/us/pl/98/181/s619/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs619%2Fb
-[/us/pl/98/181/s619/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs619%2Fc
-[/us/pl/98/181/s620/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs620%2Fa
-[/us/pl/98/181/s619/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs619%2Fd
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
 [/us/pl/95/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630
-[/us/pl/98/181/s617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs617
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
 [/us/pl/96/470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470
-[/us/pl/95/630/s1910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs1910
 [/us/pl/95/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630
-[/us/pl/95/630/s1907/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs1907%2Fa
-[/us/pl/95/630/s1902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs1902
 [/us/pl/95/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630
-[/us/pl/95/630/s1903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs1903
-[/us/pl/95/143/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F143%2Fs1
-[/us/pl/95/143/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F143%2Fs2
-[/us/pl/95/143/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F143%2Fs3%2Fa
-[/us/pl/95/143/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F143%2Fs3%2Fb
-[/us/pl/93/646/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F646%2Fs2
+[/us/pl/95/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630
+[/us/pl/95/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630
+[/us/pl/95/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630
+[/us/pl/95/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630
+[/us/pl/95/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F143
+[/us/pl/95/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F143
+[/us/pl/95/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F143
+[/us/pl/95/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F143
+[/us/pl/93/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F646
 [/us/usc/t44/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs501
-[/us/pl/93/646/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F646%2Fs13
-[/us/pl/93/646/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F646%2Fs3
-[/us/pl/93/646/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F646%2Fs4
-[/us/pl/93/646/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F646%2Fs5
-[/us/pl/93/646/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F646%2Fs6
-[/us/pl/92/126/s1/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F126%2Fs1%2Fb%2F1
-[/us/pl/92/126/s1/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F126%2Fs1%2Fb%2F6
-[/us/pl/92/126/s1/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F126%2Fs1%2Fb%2F5
-[/us/pl/92/126/s1/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F126%2Fs1%2Fb%2F2
-[/us/pl/90/267/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F267%2Fs1%2Fa
-[/us/pl/90/267/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F267%2Fs1%2Fb
-[/us/pl/90/267/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F267%2Fs1%2Fc
-[/us/pl/90/267/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F267%2Fs1%2Fa
+[/us/pl/93/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F646
+[/us/pl/93/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F646
+[/us/pl/93/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F646
+[/us/pl/93/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F646
+[/us/pl/93/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F646
+[/us/pl/92/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F126
+[/us/pl/92/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F126
+[/us/pl/92/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F126
+[/us/pl/92/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F126
+[/us/pl/90/267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F267
+[/us/pl/90/267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F267
+[/us/pl/90/267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F267
+[/us/pl/90/267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F267
 [/us/pl/88/101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F101
 [/us/pl/87/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F311
 [/us/usc/t12/s635e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635e
-[/us/pl/114/94/s52001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs52001%2Fb
+[/us/pl/114/94/dE/tLII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdE%2FtLII
 [/us/stat/129/1767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1767
-[/us/pl/114/94/s54001/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs54001%2Fd
+[/us/pl/114/94/dE/tLIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdE%2FtLIV
 [/us/stat/129/1768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1768
 [/us/usc/t12/s635f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635f
-[/us/pl/114/94/s54002/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs54002%2Fe
+[/us/pl/114/94/dE/tLIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdE%2FtLIV
 [/us/stat/129/1769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1769
-[/us/pl/112/122/s25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F122%2Fs25
+[/us/pl/112/122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F122
 [/us/stat/126/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F364
 [/us/usc/t12/s635a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635a
-[/us/pl/103/428/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F428%2Fs1%2Fc
+[/us/pl/103/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F428
 [/us/stat/108/4376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4376
-[/us/pl/105/121/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F121%2Fs4
+[/us/pl/105/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F121
 [/us/stat/111/2529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2529
-[/us/pl/109/438/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F438%2Fs4
+[/us/pl/109/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F438
 [/us/stat/120/3269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3269
-[/us/pl/112/122/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F122%2Fs24
+[/us/pl/112/122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F122
 [/us/stat/126/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F364
-[/us/pl/112/136/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F136%2Fs1
+[/us/pl/112/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F136
 [/us/stat/126/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F385
-[/us/pl/114/94/s54001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs54001%2Fb
+[/us/pl/114/94/dE/tLIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdE%2FtLIV
 [/us/stat/129/1768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1768
 [/us/usc/t12/s635f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635f
-[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235/dJ/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdJ%2FtVI
 [/us/stat/128/2598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2598
 [/us/pl/103/428/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F428%2Fs1%2Fc
 [/us/pl/103/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F428
 [/us/pl/103/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F428
-[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
+[/us/pl/113/76/dK/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdK%2FtVI
 [/us/stat/128/489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F489
-[/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
+[/us/pl/112/74/dI/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdI%2FtVI
 [/us/stat/125/1191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1191
-[/us/pl/111/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117
+[/us/pl/111/117/dF/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2FdF%2FtVI
 [/us/stat/123/3341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3341
-[/us/pl/111/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8
+[/us/pl/111/8/dH/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2FdH%2FtVI
 [/us/stat/123/858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F858
-[/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
+[/us/pl/110/161/dJ/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdJ%2FtII
 [/us/stat/121/2289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2289
-[/us/pl/109/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F102
+[/us/pl/109/102/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F102%2FtI
 [/us/stat/119/2172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2172
-[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/447/dD/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdD%2FtI
 [/us/stat/118/2968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2968
-[/us/pl/108/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199
+[/us/pl/108/199/dD/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdD%2FtI
 [/us/stat/118/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F143
-[/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
+[/us/pl/108/7/dE/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdE%2FtI
 [/us/stat/117/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F159
-[/us/pl/107/229/s129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F229%2Fs129
-[/us/pl/107/240/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F240%2Fs5
+[/us/pl/107/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F229
+[/us/pl/107/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F240
 [/us/stat/116/1494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1494
 [/us/pl/103/428/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F428%2Fs1%2Fc
 [/us/usc/t12/s635f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635f
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/pl/103/236/s831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs831
 [/us/usc/t22/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6301
-[/us/pl/95/630/s1917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs1917
+[/us/pl/95/630/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtXIX
 [/us/stat/92/3727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3727
 [/us/usc/t42/s2153e–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2153e%E2%80%931
-[/us/pl/114/94/s50001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs50001
+[/us/pl/114/94/dE]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdE
 [/us/stat/129/1763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1763
 [/us/usc/t12/s635a–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635a%E2%80%937
-[/us/pl/112/122/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F122%2Fs1%2Fa
+[/us/pl/112/122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F122
 [/us/stat/126/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F350
-[/us/pl/109/438/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F438%2Fs1%2Fa
+[/us/pl/109/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F438
 [/us/stat/120/3268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3268
 [/us/usc/t12/s635g–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635g%E2%80%931
-[/us/pl/107/189/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F189%2Fs1%2Fa
+[/us/pl/107/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F189
 [/us/stat/116/698]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F698
 [/us/usc/t12/s635i–9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635i%E2%80%939
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
 [/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
-[/us/pl/105/121/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F121%2Fs1%2Fa
+[/us/pl/105/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F121
 [/us/stat/111/2528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2528
 [/us/usc/t12/s635f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635f
-[/us/pl/102/429/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429%2Fs1%2Fa
+[/us/pl/102/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429
 [/us/stat/106/2186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2186
 [/us/usc/t2/s831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs831
 [/us/usc/t15/s713b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs713b
 [/us/usc/t22/s2772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2772
 [/us/usc/t12/s635a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635a
 [/us/usc/t15/s4728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4728
-[/us/pl/100/418/s3301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs3301
+[/us/pl/100/418/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtIII
 [/us/stat/102/1383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1383
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/usc/t12/s635i–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635i%E2%80%933
 [/us/usc/t12/s635i–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635i%E2%80%933
-[/us/pl/99/472/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F472%2Fs1
+[/us/pl/99/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F472
 [/us/stat/100/1200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1200
 [/us/usc/t12/s635i–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635i%E2%80%933
 [/us/usc/t22/s262h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262h
 [/us/usc/t12/s635g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635g
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1254
 [/us/usc/t19/s1671g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1671g
 [/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
 [/us/usc/t19/s1671g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1671g
-[/us/pl/97/35/s380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs380
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F431
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
-[/us/pl/95/630/s1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs1901
+[/us/pl/95/630/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtXIX
 [/us/stat/92/3724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3724
 [/us/usc/t42/s2153e–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2153e%E2%80%931
-[/us/pl/93/646/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F646%2Fs1
+[/us/pl/93/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F646
 [/us/stat/88/2333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2333
-[/us/pl/92/126/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F126%2Fs1%2Fa
+[/us/pl/92/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F126
 [/us/stat/85/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F345
 [/us/usc/t12/s95a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs95a
-[/us/act/1945-07-31/ch341/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch341%2Fs1
+[/us/act/1945-07-31/ch341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch341
 [/us/stat/59/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F526
 [/us/usc/t22/s2651a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2651a
 [/us/pl/103/236/s161/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs161%2Fd
@@ -1999,25 +1999,25 @@ By the authority vested in me as President of the United States of America by Se
 [/us/stat/67/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F637
 [/us/usc/t12/s635a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635a
 [/us/usc/t12/s635a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635a
-[/us/act/1935-01-31/ch2/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-01-31%2Fch2%2Fs9
+[/us/act/1935-01-31/ch2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-01-31%2Fch2
 [/us/stat/49/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F4
 [/us/usc/t15/s713b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs713b
-[/us/act/1937-01-26/ch6/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-01-26%2Fch6%2Fs2%2Fa
+[/us/act/1937-01-26/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-01-26%2Fch6
 [/us/stat/50/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F5
-[/us/act/1939-03-04/ch5/s1/b/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-03-04%2Fch5%2Fs1%2Fb%2Fc
+[/us/act/1939-03-04/ch5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-03-04%2Fch5
 [/us/stat/53/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F510
 [/us/act/1940-03-02/ch34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-03-02%2Fch34
 [/us/stat/54/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F38
-[/us/act/1940-09-26/ch734/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-09-26%2Fch734%2Fs3
+[/us/act/1940-09-26/ch734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-09-26%2Fch734
 [/us/stat/54/962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F962
 [/us/usc/t22/s2799aa–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2799aa%E2%80%931
-[/us/pl/114/94/s51008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs51008
+[/us/pl/114/94/dE/tLI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdE%2FtLI
 [/us/stat/129/1766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1766
 [/us/usc/t12/s635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635
-[/us/pl/112/122/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F122%2Fs12%2Fa
+[/us/pl/112/122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F122
 [/us/stat/126/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F357
 [/us/usc/t12/s635/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635%2Fe
-[/us/pl/112/122/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F122%2Fs18
+[/us/pl/112/122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F122
 [/us/stat/126/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F360
 [/us/pl/104/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F172
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
@@ -2032,40 +2032,40 @@ By the authority vested in me as President of the United States of America by Se
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
 [/us/pl/104/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F172
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
-[/us/pl/109/438/s3/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F438%2Fs3%2Fb%2F1
+[/us/pl/109/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F438
 [/us/stat/120/3268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3268
-[/us/pl/109/438/s6/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F438%2Fs6%2Fb%2F1
+[/us/pl/109/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F438
 [/us/stat/120/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3272
 [/us/usc/t12/s635/b/1/E/vii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635%2Fb%2F1%2FE%2Fvii
-[/us/pl/109/438/s6/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F438%2Fs6%2Fb%2F3
+[/us/pl/109/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F438
 [/us/stat/120/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3272
 [/us/usc/t12/s635/b/1/E/vii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635%2Fb%2F1%2FE%2Fvii
-[/us/pl/109/438/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F438%2Fs19
+[/us/pl/109/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F438
 [/us/stat/120/3282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3282
 [/us/usc/t12/s635/b/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635%2Fb%2F1%2FE
 [/us/usc/t12/s635a/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635a%2Ff%2F1
 [/us/usc/t12/s635/b/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635%2Fb%2F1%2FE
 [/us/usc/t12/s635a/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635a%2Ff%2F1
-[/us/pl/107/189/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F189%2Fs14
+[/us/pl/107/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F189
 [/us/stat/116/705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F705
-[/us/pl/105/121/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F121%2Fs7%2Fb
+[/us/pl/105/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F121
 [/us/stat/111/2529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2529
-[/us/pl/107/189/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F189%2Fs6%2Fc
+[/us/pl/107/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F189
 [/us/stat/116/700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F700
 [/us/usc/t12/s635/b/9/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635%2Fb%2F9%2FB
-[/us/pl/102/429/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429%2Fs101
+[/us/pl/102/429/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429%2FtI
 [/us/stat/106/2186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2186
-[/us/pl/102/429/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429%2Fs119
+[/us/pl/102/429/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429%2FtI
 [/us/stat/106/2197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2197
-[/us/pl/102/429/s120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429%2Fs120
+[/us/pl/102/429/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429%2FtI
 [/us/stat/106/2197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2197
-[/us/pl/101/240/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2Fs103
+[/us/pl/101/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2FtI
 [/us/stat/103/2496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2496
-[/us/pl/101/179/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179%2Fs303
+[/us/pl/101/179/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179%2FtIII
 [/us/stat/103/1312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1312
 [/us/usc/t12/s635/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635%2Fb%2F2
 [/us/usc/t12/s635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635
-[/us/pl/93/646/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F646%2Fs12
+[/us/pl/93/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F646
 [/us/stat/88/2337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2337
 [/us/usc/t12/s635/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635%2Fb%2F1%2FB
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301

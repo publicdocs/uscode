@@ -45,7 +45,7 @@
 
         Not later than the end of the 180-day period beginning on July 21, 2010, and not later than every 5 years thereafter, the Chairperson shall issue a report to the Congress containing any findings and determinations made in carrying out the study required under subsection (a).
 
-([Pub. L. 111–203, title I, § 123][/us/pl/111/203/s123], July 21, 2010, [124 Stat. 1412][/us/stat/124/1412].)
+([Pub. L. 111–203, title I][/us/pl/111/203/tI], § 123, July 21, 2010, [124 Stat. 1412][/us/stat/124/1412].)
 
 ----------
 
@@ -54,7 +54,7 @@
 ----------
 ----------
 
-[/us/pl/111/203/s123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs123
+[/us/pl/111/203/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtI
 [/us/stat/124/1412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1412
 
 

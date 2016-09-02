@@ -19,7 +19,7 @@
 
     (b) The Export-Import Bank of the United States is authorized to provide guarantees, insurance, and extensions of credit at rates and terms and other conditions which are, in the opinion of the Board of Directors of the Bank, competitive with those provided by the government-supported export credit instrumentalities of other nations.
 
-([Pub. L. 95–630, title XIX, § 1908][/us/pl/95/630/s1908], Nov. 10, 1978, [92 Stat. 3725][/us/stat/92/3725].)
+([Pub. L. 95–630, title XIX][/us/pl/95/630/tXIX], § 1908, Nov. 10, 1978, [92 Stat. 3725][/us/stat/92/3725].)
 
  __Codification__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/95/630/s1908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs1908
+[/us/pl/95/630/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtXIX
 [/us/stat/92/3725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3725
 [/us/pl/95/630/s1917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs1917
 [/us/usc/t12/s635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635

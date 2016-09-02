@@ -139,7 +139,7 @@
 
         The Secretary shall establish schedules and deadlines for the processing and approval (or provision of notice of disapproval) of applications for mortgage insurance under this section. The Secretary shall submit a report to the Congress annually describing such schedules and deadlines and the extent of compliance by the Department with the schedules and deadlines during the year.
 
-([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title II, § 232, as added [Pub. L. 86–372, title I, § 115][/us/pl/86/372/s115], Sept. 23, 1959, [73 Stat. 663][/us/stat/73/663]; amended [Pub. L. 87–70, title VI, § 610][/us/pl/87/70/s610], June 30, 1961, [75 Stat. 180][/us/stat/75/180]; [Pub. L. 88–560, title I, § 117][/us/pl/88/560/s117], Sept. 2, 1964, [78 Stat. 779][/us/stat/78/779]; [Pub. L. 89–117, title XI, § 1108(m)][/us/pl/89/117/s1108/m], Aug. 10, 1965, [79 Stat. 505][/us/stat/79/505]; [Pub. L. 90–19, § 1(a)(3)][/us/pl/90/19/s1/a/3], May 25, 1967, [81 Stat. 17][/us/stat/81/17]; [Pub. L. 90–448, title III, § 314][/us/pl/90/448/s314], Aug. 1, 1968, [82 Stat. 511][/us/stat/82/511]; [Pub. L. 91–152, title I, § 111][/us/pl/91/152/s111], Dec. 24, 1969, [83 Stat. 382][/us/stat/83/382]; [Pub. L. 93–204][/us/pl/93/204], Dec. 28, 1973, [87 Stat. 883][/us/stat/87/883]; [Pub. L. 93–383, title III, § 304(g)][/us/pl/93/383/s304/g], Aug. 22, 1974, [88 Stat. 678][/us/stat/88/678]; [Pub. L. 95–128, title III, § 308(a)][/us/pl/95/128/s308/a], Oct. 12, 1977, [91 Stat. 1135][/us/stat/91/1135]; [Pub. L. 95–557, title III, § 312][/us/pl/95/557/s312], Oct. 31, 1978, [92 Stat. 2099][/us/stat/92/2099]; [Pub. L. 96–399, title III, § 310(f)][/us/pl/96/399/s310/f], Oct. 8, 1980, [94 Stat. 1643][/us/stat/94/1643]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title IV, §§ 404(b)(10), 437\], Nov. 30, 1983, [97 Stat. 1209][/us/stat/97/1209], 1222, 1223; [Pub. L. 98–479, title I, § 104(a)(1)][/us/pl/98/479/s104/a/1], Oct. 17, 1984, [98 Stat. 2224][/us/stat/98/2224]; [Pub. L. 100–242, title IV][/us/pl/100/242], §§ 410(a), (b), 429(e), Feb. 5, 1988, [101 Stat. 1904][/us/stat/101/1904], 1918; [Pub. L. 102–550, title V, § 511(a)][/us/pl/102/550/s511/a]–(e), Oct. 28, 1992, [106 Stat. 3784–3786][/us/stat/106/3784-3786]; [Pub. L. 105–65, title II, § 216][/us/pl/105/65/s216], Oct. 27, 1997, [111 Stat. 1367][/us/stat/111/1367]; [Pub. L. 105–276, title II, § 214(a)][/us/pl/105/276/s214/a], Oct. 21, 1998, [112 Stat. 2486][/us/stat/112/2486].)
+([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title II, § 232, as added [Pub. L. 86–372, title I][/us/pl/86/372/tI], § 115, Sept. 23, 1959, [73 Stat. 663][/us/stat/73/663]; amended [Pub. L. 87–70, title VI][/us/pl/87/70/tVI], § 610, June 30, 1961, [75 Stat. 180][/us/stat/75/180]; [Pub. L. 88–560, title I][/us/pl/88/560/tI], § 117, Sept. 2, 1964, [78 Stat. 779][/us/stat/78/779]; [Pub. L. 89–117, title XI][/us/pl/89/117/tXI], § 1108(m), Aug. 10, 1965, [79 Stat. 505][/us/stat/79/505]; [Pub. L. 90–19][/us/pl/90/19], § 1(a)(3), May 25, 1967, [81 Stat. 17][/us/stat/81/17]; [Pub. L. 90–448, title III][/us/pl/90/448/tIII], § 314, Aug. 1, 1968, [82 Stat. 511][/us/stat/82/511]; [Pub. L. 91–152, title I][/us/pl/91/152/tI], § 111, Dec. 24, 1969, [83 Stat. 382][/us/stat/83/382]; [Pub. L. 93–204][/us/pl/93/204], Dec. 28, 1973, [87 Stat. 883][/us/stat/87/883]; [Pub. L. 93–383, title III][/us/pl/93/383/tIII], § 304(g), Aug. 22, 1974, [88 Stat. 678][/us/stat/88/678]; [Pub. L. 95–128, title III][/us/pl/95/128/tIII], § 308(a), Oct. 12, 1977, [91 Stat. 1135][/us/stat/91/1135]; [Pub. L. 95–557, title III][/us/pl/95/557/tIII], § 312, Oct. 31, 1978, [92 Stat. 2099][/us/stat/92/2099]; [Pub. L. 96–399, title III][/us/pl/96/399/tIII], § 310(f), Oct. 8, 1980, [94 Stat. 1643][/us/stat/94/1643]; [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title IV, §§ 404(b)(10), 437\], Nov. 30, 1983, [97 Stat. 1209][/us/stat/97/1209], 1222, 1223; [Pub. L. 98–479, title I][/us/pl/98/479/tI], § 104(a)(1), Oct. 17, 1984, [98 Stat. 2224][/us/stat/98/2224]; [Pub. L. 100–242, title IV][/us/pl/100/242/tIV], §§ 410(a), (b), 429(e), Feb. 5, 1988, [101 Stat. 1904][/us/stat/101/1904], 1918; [Pub. L. 102–550, title V][/us/pl/102/550/tV], § 511(a)–(e), Oct. 28, 1992, [106 Stat. 3784–3786][/us/stat/106/3784-3786]; [Pub. L. 105–65, title II][/us/pl/105/65/tII], § 216, Oct. 27, 1997, [111 Stat. 1367][/us/stat/111/1367]; [Pub. L. 105–276, title II][/us/pl/105/276/tII], § 214(a), Oct. 21, 1998, [112 Stat. 2486][/us/stat/112/2486].)
 
  __References in Text__ 
 
@@ -147,7 +147,7 @@
 
     [Section 8211 of title 42][/us/usc/t42/s8211], referred to in subsec. (d)(2)(B), was omitted from the Code pursuant to [section 8229 of Title 42][/us/usc/t42/s8229], The Public Health and Welfare, which terminated authority under that section on June 30, 1989.
 
-    Section 1521 of the Public Health Service Act, referred to in subsec. (d)(4)(A), is section 1521 of act July 1, 1944, which was classified to [section 300m of Title 42][/us/usc/t42/s300m], The Public Health and Welfare, prior to repeal, effective Jan. 1, 1987, by [Pub. L. 99–660, title VII, § 701(a)][/us/pl/99/660/s701/a], Nov. 14, 1986, [100 Stat. 3799][/us/stat/100/3799].
+    Section 1521 of the Public Health Service Act, referred to in subsec. (d)(4)(A), is section 1521 of act July 1, 1944, which was classified to [section 300m of Title 42][/us/usc/t42/s300m], The Public Health and Welfare, prior to repeal, effective Jan. 1, 1987, by [Pub. L. 99–660, title VII][/us/pl/99/660/tVII], § 701(a), Nov. 14, 1986, [100 Stat. 3799][/us/stat/100/3799].
 
     The Social Security Act, referred to in subsec. (i)(1), is [act Aug. 13, 1935, ch. 531][/us/act/1935-08-13/ch531], [49 Stat. 620][/us/stat/49/620], as amended. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§ 1395 et seq.) and XIX (§ 1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42][/us/usc/t42/s1305] and Tables.
 
@@ -157,55 +157,55 @@
 
     1997—Subsec. (b)(4)(B). [Pub. L. 105–65][/us/pl/105/65], as amended by [Pub. L. 105–276][/us/pl/105/276], substituted “ten years to run beyond the maturity date of the mortgage” for “fifty years to run from the date the mortgage was executed”.
 
-    1992—Subsec. (a). [Pub. L. 102–550, § 511(a)(1)][/us/pl/102/550/s511/a/1], substituted “any” for “either” in introductory provisions.
+    1992—Subsec. (a). [Pub. L. 102–550][/us/pl/102/550], § 511(a)(1), substituted “any” for “either” in introductory provisions.
 
-    Subsec. (a)(3). [Pub. L. 102–550, § 511(a)(2)][/us/pl/102/550/s511/a/2], added par. (3).
+    Subsec. (a)(3). [Pub. L. 102–550][/us/pl/102/550], § 511(a)(2), added par. (3).
 
-    Subsec. (b)(6), (7). [Pub. L. 102–550, § 511(b)][/us/pl/102/550/s511/b], added pars. (6) and (7).
+    Subsec. (b)(6), (7). [Pub. L. 102–550][/us/pl/102/550], § 511(b), added pars. (6) and (7).
 
-    Subsec. (d). [Pub. L. 102–550, § 511(c)(1)][/us/pl/102/550/s511/c/1], in introductory provisions, inserted “, assisted living facility,” after “rehabilitated nursing home,”, substituted “any combination of nursing home, assisted living facility, and intermediate care facility” for “combined nursing home and intermediate care facility”, and inserted “, including a new addition to an existing nursing home, assisted living facility, or intermediate care facility and regardless of whether the existing home or facility is being rehabilitated,” after first reference to “intermediate care facility”.
+    Subsec. (d). [Pub. L. 102–550][/us/pl/102/550], § 511(c)(1), in introductory provisions, inserted “, assisted living facility,” after “rehabilitated nursing home,”, substituted “any combination of nursing home, assisted living facility, and intermediate care facility” for “combined nursing home and intermediate care facility”, and inserted “, including a new addition to an existing nursing home, assisted living facility, or intermediate care facility and regardless of whether the existing home or facility is being rehabilitated,” after first reference to “intermediate care facility”.
 
-    Subsec. (d)(2). [Pub. L. 102–550, § 511(c)(2)][/us/pl/102/550/s511/c/2], inserted “or 95 percent of the estimated value of the property or project in the case of a mortgagor that is a private nonprofit corporation or association (under the meaning given such term for purposes of section 1715l(d)(3) of this title),” before “including” in introductory provisions.
+    Subsec. (d)(2). [Pub. L. 102–550][/us/pl/102/550], § 511(c)(2), inserted “or 95 percent of the estimated value of the property or project in the case of a mortgagor that is a private nonprofit corporation or association (under the meaning given such term for purposes of section 1715l(d)(3) of this title),” before “including” in introductory provisions.
 
-    Subsec. (d)(3). [Pub. L. 102–550, § 511(c)(3)][/us/pl/102/550/s511/c/3], inserted concluding provisions.
+    Subsec. (d)(3). [Pub. L. 102–550][/us/pl/102/550], § 511(c)(3), inserted concluding provisions.
 
-    Subsec. (d)(4)(C). [Pub. L. 102–550, § 511(c)(4)][/us/pl/102/550/s511/c/4], added subpar. (C).
+    Subsec. (d)(4)(C). [Pub. L. 102–550][/us/pl/102/550], § 511(c)(4), added subpar. (C).
 
-    Subsec. (i)(1). [Pub. L. 102–550, § 511(d)][/us/pl/102/550/s511/d], inserted “, assisted living facilities,” after “nursing homes”.
+    Subsec. (i)(1). [Pub. L. 102–550][/us/pl/102/550], § 511(d), inserted “, assisted living facilities,” after “nursing homes”.
 
-    Subsec. (j). [Pub. L. 102–550, § 511(e)][/us/pl/102/550/s511/e], added subsec. (j).
+    Subsec. (j). [Pub. L. 102–550][/us/pl/102/550], § 511(e), added subsec. (j).
 
-    1988—Subsec. (b)(1). [Pub. L. 100–242, § 410(a)][/us/pl/100/242/s410/a], inserted “public facility,” before “proprietary”.
+    1988—Subsec. (b)(1). [Pub. L. 100–242][/us/pl/100/242], § 410(a), inserted “public facility,” before “proprietary”.
 
-    Subsec. (b)(3) to (5). [Pub. L. 100–242, § 429(e)(1)][/us/pl/100/242/s429/e/1], indented as par. (3) former run-in cl. (3) defining “nursing home” and “intermediate care facility”, inserted “the term”, and struck out “and” after semicolon at end, redesignated as par. (4) former par. (3) defining “mortgage”, and redesignated as par. (5) former par. (4).
+    Subsec. (b)(3) to (5). [Pub. L. 100–242][/us/pl/100/242], § 429(e)(1), indented as par. (3) former run-in cl. (3) defining “nursing home” and “intermediate care facility”, inserted “the term”, and struck out “and” after semicolon at end, redesignated as par. (4) former par. (3) defining “mortgage”, and redesignated as par. (5) former par. (4).
 
-    Subsec. (d)(4)(A). [Pub. L. 100–242, § 410(b)][/us/pl/100/242/s410/b], inserted “If no such State agency exists, or if the State agency exists but is not empowered to provide a certification that there is a need for the home or facility or combined home and facility as required in clause (i) of the first sentence, the Secretary shall not insure any mortgage under this section unless (i) the State in which the home or facility or combined home and facility is located has conducted or commissioned and paid for the preparation of an independent study of market need and feasibility that (I) is prepared in accordance with the principles established by the American Institute of Certified Public Accountants; (II) assesses, on a marketwide basis, the impact of the proposed home or facility or combined home and facility on, and its relationship to, other health care facilities and services, the percentage of excess beds, demographic projections, alternative health care delivery systems, and the reimbursement structure of the home, facility, or combined home and facility; (III) is addressed to and is acceptable to the Secretary in form and substance; and (IV) in the event the State does not prepare the study, is prepared by a financial consultant who is selected by the State or the applicant for mortgage insurance and is approved by the Secretary; and (ii) the State complies with the other provisions of this subparagraph that would otherwise be required to be met by a State agency designated in accordance with section 291d(a)(1) or [section 300m of title 42][/us/usc/t42/s300m]. The proposed mortgagor may reimburse the State for the cost of the independent feasibility study required in the preceding sentence. In the case of a small intermediate care facility for the mentally retarded or developmentally disabled, or a board and care home housing less than 10 individuals, the State program agency or agencies responsible for licensing, certifying, financing, or monitoring the facility or home may, in lieu of the requirements of clause (i) of the third sentence, provide the Secretary with written support identifying the need for the facility or home.”
+    Subsec. (d)(4)(A). [Pub. L. 100–242][/us/pl/100/242], § 410(b), inserted “If no such State agency exists, or if the State agency exists but is not empowered to provide a certification that there is a need for the home or facility or combined home and facility as required in clause (i) of the first sentence, the Secretary shall not insure any mortgage under this section unless (i) the State in which the home or facility or combined home and facility is located has conducted or commissioned and paid for the preparation of an independent study of market need and feasibility that (I) is prepared in accordance with the principles established by the American Institute of Certified Public Accountants; (II) assesses, on a marketwide basis, the impact of the proposed home or facility or combined home and facility on, and its relationship to, other health care facilities and services, the percentage of excess beds, demographic projections, alternative health care delivery systems, and the reimbursement structure of the home, facility, or combined home and facility; (III) is addressed to and is acceptable to the Secretary in form and substance; and (IV) in the event the State does not prepare the study, is prepared by a financial consultant who is selected by the State or the applicant for mortgage insurance and is approved by the Secretary; and (ii) the State complies with the other provisions of this subparagraph that would otherwise be required to be met by a State agency designated in accordance with section 291d(a)(1) or [section 300m of title 42][/us/usc/t42/s300m]. The proposed mortgagor may reimburse the State for the cost of the independent feasibility study required in the preceding sentence. In the case of a small intermediate care facility for the mentally retarded or developmentally disabled, or a board and care home housing less than 10 individuals, the State program agency or agencies responsible for licensing, certifying, financing, or monitoring the facility or home may, in lieu of the requirements of clause (i) of the third sentence, provide the Secretary with written support identifying the need for the facility or home.”
 
-    Subsec. (i)(2)(B). [Pub. L. 100–242, § 429(e)(2)][/us/pl/100/242/s429/e/2], amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “bear interest at not to exceed a rate determined by the Secretary to be necessary to meet the loan market”.
+    Subsec. (i)(2)(B). [Pub. L. 100–242][/us/pl/100/242], § 429(e)(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “bear interest at not to exceed a rate determined by the Secretary to be necessary to meet the loan market”.
 
     1984—[Pub. L. 98–479][/us/pl/98/479] inserted reference to board and care homes in section catchline.
 
-    1983—Subsec. (a)(2). [Pub. L. 98–181, § 437(a)][/us/pl/98/181/s437/a], inserted “and board and care homes” after “intermediate care facilities”.
+    1983—Subsec. (a)(2). [Pub. L. 98–181][/us/pl/98/181], § 437(a), inserted “and board and care homes” after “intermediate care facilities”.
 
-    Subsec. (b)(4). [Pub. L. 98–181, § 437(b)][/us/pl/98/181/s437/b], added par. (4).
+    Subsec. (b)(4). [Pub. L. 98–181][/us/pl/98/181], § 437(b), added par. (4).
 
-    Subsec. (d). [Pub. L. 98–181, § 437(c)(1)][/us/pl/98/181/s437/c/1], in provisions preceding par. (1) inserted “or a board and care home” after “and intermediate care facility,”.
+    Subsec. (d). [Pub. L. 98–181][/us/pl/98/181], § 437(c)(1), in provisions preceding par. (1) inserted “or a board and care home” after “and intermediate care facility,”.
 
-    Subsec. (d)(3)(B). [Pub. L. 98–181, § 404(b)(10)][/us/pl/98/181/s404/b/10], substituted provision that the interest rate be at such a rate as agreed upon by the mortgagor and the mortgagee for provision that the interest rate, exclusive of premium charges for insurance, not exceed 5 per centum per annum on the amount of the principal obligation outstanding at any time, or not exceed such per centum per annum not in excess of 6 per centum as the Secretary finds necessary to meet the mortgage market.
+    Subsec. (d)(3)(B). [Pub. L. 98–181][/us/pl/98/181], § 404(b)(10), substituted provision that the interest rate be at such a rate as agreed upon by the mortgagor and the mortgagee for provision that the interest rate, exclusive of premium charges for insurance, not exceed 5 per centum per annum on the amount of the principal obligation outstanding at any time, or not exceed such per centum per annum not in excess of 6 per centum as the Secretary finds necessary to meet the mortgage market.
 
-    Subsec. (d)(4). [Pub. L. 98–181, § 437(c)(2)][/us/pl/98/181/s437/c/2], designated existing provision as subpar. (A), substituted “With respect to nursing homes and intermediate care facilities and combined nursing home and intermediate care facilities, the” for “The” and “(i)” and “(ii)” for “(A)” and “(B)”, respectively, and added subpar. (B).
+    Subsec. (d)(4). [Pub. L. 98–181][/us/pl/98/181], § 437(c)(2), designated existing provision as subpar. (A), substituted “With respect to nursing homes and intermediate care facilities and combined nursing home and intermediate care facilities, the” for “The” and “(i)” and “(ii)” for “(A)” and “(B)”, respectively, and added subpar. (B).
 
-    Subsecs. (g), (h). [Pub. L. 98–181, § 437(d)][/us/pl/98/181/s437/d], (e), substituted “Health and Human Services” for “Health, Education, and Welfare”.
+    Subsecs. (g), (h). [Pub. L. 98–181][/us/pl/98/181], § 437(d), (e), substituted “Health and Human Services” for “Health, Education, and Welfare”.
 
-    Subsec. (i)(1). [Pub. L. 98–181, § 437(f)(1)][/us/pl/98/181/s437/f/1], inserted “or to board and care homes” after “intermediate care facilities”, “(or any subsequent edition specified by the Secretary of Health and Human Services)” after “Association”, and “or as mandated by a State under provisions of section 1616(e) of such Act” after “Social Security Act”, and substituted “Health and Human Services” for “Health, Education, and Welfare”.
+    Subsec. (i)(1). [Pub. L. 98–181][/us/pl/98/181], § 437(f)(1), inserted “or to board and care homes” after “intermediate care facilities”, “(or any subsequent edition specified by the Secretary of Health and Human Services)” after “Association”, and “or as mandated by a State under provisions of section 1616(e) of such Act” after “Social Security Act”, and substituted “Health and Human Services” for “Health, Education, and Welfare”.
 
-    Subsec. (i)(2)(F). [Pub. L. 98–181, § 437(f)(2)][/us/pl/98/181/s437/f/2], added subpar. (F).
+    Subsec. (i)(2)(F). [Pub. L. 98–181][/us/pl/98/181], § 437(f)(2), added subpar. (F).
 
     1980—Subsec. (d)(2). [Pub. L. 96–399][/us/pl/96/399] revised existing provisions into introductory paragraph and subpar. (A) and added subpar. (B).
 
-    1978—Subsec. (a). [Pub. L. 95–557, § 312(a)][/us/pl/95/557/s312/a], inserted “, including additional facilities for the nonresident care of elderly individuals and others who are able to live independently but who require care during the day” after pars. (1) and (2).
+    1978—Subsec. (a). [Pub. L. 95–557][/us/pl/95/557], § 312(a), inserted “, including additional facilities for the nonresident care of elderly individuals and others who are able to live independently but who require care during the day” after pars. (1) and (2).
 
-    Subsec. (b)(2). [Pub. L. 95–557, § 312(b)][/us/pl/95/557/s312/b], inserted “(3) a ‘nursing home’ or ‘intermediate care facility’ may include such additional facilities as may be authorized by the Secretary for the nonresident care of elderly individuals and others who are able to live independ­ently but who require care during the day”.
+    Subsec. (b)(2). [Pub. L. 95–557][/us/pl/95/557], § 312(b), inserted “(3) a ‘nursing home’ or ‘intermediate care facility’ may include such additional facilities as may be authorized by the Secretary for the nonresident care of elderly individuals and others who are able to live independ­ently but who require care during the day”.
 
     1977—Subsec. (d)(4). [Pub. L. 95–128][/us/pl/95/128] inserted reference to [section 300m of title 42][/us/usc/t42/s300m].
 
@@ -213,27 +213,27 @@
 
     1973—Subsec. (i). [Pub. L. 93–204][/us/pl/93/204] added subsec. (i).
 
-    1969—Subsec. (a). [Pub. L. 91–152, § 111(1)][/us/pl/91/152/s111/1], added to stated purpose of this section of developing nursing homes, the development of intermediate care facilities or the development of such facilities in combination with nursing home facilities.
+    1969—Subsec. (a). [Pub. L. 91–152][/us/pl/91/152], § 111(1), added to stated purpose of this section of developing nursing homes, the development of intermediate care facilities or the development of such facilities in combination with nursing home facilities.
 
-    Subsec. (b). [Pub. L. 91–152, § 111(2)][/us/pl/91/152/s111/2], (3), struck out “and” after “is located;” in par. (1), redesignated par. (2) as (3), and added par. (2).
+    Subsec. (b). [Pub. L. 91–152][/us/pl/91/152], § 111(2), (3), struck out “and” after “is located;” in par. (1), redesignated par. (2) as (3), and added par. (2).
 
-    Subsec. (d). [Pub. L. 91–152, § 111(4)][/us/pl/91/152/s111/4], inserted provision authorizing the Secretary to insure any mortgage which covers an intermediate care facility or combined nursing home and intermediate care facility.
+    Subsec. (d). [Pub. L. 91–152][/us/pl/91/152], § 111(4), inserted provision authorizing the Secretary to insure any mortgage which covers an intermediate care facility or combined nursing home and intermediate care facility.
 
-    Subsec. (d)(2). [Pub. L. 91–152, § 111(5)][/us/pl/91/152/s111/5], substituted “operation of the home or facility or combined home or facility” for “operation of the nursing home”.
+    Subsec. (d)(2). [Pub. L. 91–152][/us/pl/91/152], § 111(5), substituted “operation of the home or facility or combined home or facility” for “operation of the nursing home”.
 
-    Subsec. (d)(4). [Pub. L. 91–152, § 111(6)][/us/pl/91/152/s111/6], substituted “[section 291d(a)(1) of title 42][/us/usc/t42/s291d/a/1]” for “[section 291b(a)(1) of title 42][/us/usc/t42/s291b/a/1]”, and made provisions applicable to the insurance of mortgages covering intermediate care facilities or combined nursing home and intermediate care facilities.
+    Subsec. (d)(4). [Pub. L. 91–152][/us/pl/91/152], § 111(6), substituted “[section 291d(a)(1) of title 42][/us/usc/t42/s291d/a/1]” for “[section 291b(a)(1) of title 42][/us/usc/t42/s291b/a/1]”, and made provisions applicable to the insurance of mortgages covering intermediate care facilities or combined nursing home and intermediate care facilities.
 
-    Subsecs. (g), (h). [Pub. L. 91–152, § 111(7)][/us/pl/91/152/s111/7], added subsecs. (g) and (h).
+    Subsecs. (g), (h). [Pub. L. 91–152][/us/pl/91/152], § 111(7), added subsecs. (g) and (h).
 
-    1968—Subsec. (b)(2). [Pub. L. 90–448, § 314(1)][/us/pl/90/448/s314/1], redefined term “mortgage” to mean a first mortgage on real estate in fee simple, or on the interest of either the lessor or lessee thereof under a lease for not less than ninety-nine years which is renewable, or under a lease having a period of not less than fifty years to run from the date the mortgage was executed, and inserted definition of “first mortgage”.
+    1968—Subsec. (b)(2). [Pub. L. 90–448][/us/pl/90/448], § 314(1), redefined term “mortgage” to mean a first mortgage on real estate in fee simple, or on the interest of either the lessor or lessee thereof under a lease for not less than ninety-nine years which is renewable, or under a lease having a period of not less than fifty years to run from the date the mortgage was executed, and inserted definition of “first mortgage”.
 
-    Subsec. (d). [Pub. L. 90–448, § 314(2)][/us/pl/90/448/s314/2], (3), authorized the Secretary to insure a mortgage which includes equipment to be used in the operation of a nursing home, and permitted the value of the equipment to be included in the calculation of the 90 per centum of the estimated value.
+    Subsec. (d). [Pub. L. 90–448][/us/pl/90/448], § 314(2), (3), authorized the Secretary to insure a mortgage which includes equipment to be used in the operation of a nursing home, and permitted the value of the equipment to be included in the calculation of the 90 per centum of the estimated value.
 
     1967—[Pub. L. 90–19][/us/pl/90/19] substituted “Secretary” for “Commissioner” wherever appearing.
 
-    1965—Subsec. (d)(1). [Pub. L. 89–117, § 1108(m)(1)][/us/pl/89/117/s1108/m/1], substituted “General Insurance Fund” for “section 207 Housing Insurance Fund”.
+    1965—Subsec. (d)(1). [Pub. L. 89–117][/us/pl/89/117], § 1108(m)(1), substituted “General Insurance Fund” for “section 207 Housing Insurance Fund”.
 
-    Subsec. (f). [Pub. L. 89–117, § 1108(m)(2)][/us/pl/89/117/s1108/m/2], struck out references to subsecs. (f), (m) and (p) of [section 1713 of this title][/us/usc/t12/s1713].
+    Subsec. (f). [Pub. L. 89–117][/us/pl/89/117], § 1108(m)(2), struck out references to subsecs. (f), (m) and (p) of [section 1713 of this title][/us/usc/t12/s1713].
 
     1964—Subsec. (b)(1). [Pub. L. 88–560][/us/pl/88/560] inserted “or facility of a private nonprofit corporation or association” after “proprietary facility”.
 
@@ -241,13 +241,13 @@
 
  __Effective Date of 1998 Amendment__ 
 
-[Pub. L. 105–276, title II, § 214(b)][/us/pl/105/276/s214/b], Oct. 21, 1998, [112 Stat. 2486][/us/stat/112/2486], provided that: 
+[Pub. L. 105–276, title II][/us/pl/105/276/tII], § 214(b), Oct. 21, 1998, [112 Stat. 2486][/us/stat/112/2486], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall be construed to have taken effect on October 27, 1997.”
 
  __Regulations__ 
 
-[Pub. L. 100–242, title IV, § 410(c)][/us/pl/100/242/s410/c], Feb. 5, 1988, [101 Stat. 1904][/us/stat/101/1904], provided that: 
+[Pub. L. 100–242, title IV][/us/pl/100/242/tIV], § 410(c), Feb. 5, 1988, [101 Stat. 1904][/us/stat/101/1904], provided that: 
 
 > “The Secretary of Housing and Urban Development shall issue such regulations as may be necessary to carry out the amendments made by this section \[amending this section\] by not later than the expiration of the 90-day period following the date of the enactment of this Act \[Feb. 5, 1988\].”
 
@@ -282,47 +282,47 @@
 [/us/usc/t12/s1715k/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715k%2Fh
 [/us/usc/t12/s1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1703
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
-[/us/pl/86/372/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F372%2Fs115
+[/us/pl/86/372/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F372%2FtI
 [/us/stat/73/663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F663
-[/us/pl/87/70/s610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F70%2Fs610
+[/us/pl/87/70/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F70%2FtVI
 [/us/stat/75/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F180
-[/us/pl/88/560/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F560%2Fs117
+[/us/pl/88/560/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F560%2FtI
 [/us/stat/78/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F779
-[/us/pl/89/117/s1108/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117%2Fs1108%2Fm
+[/us/pl/89/117/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117%2FtXI
 [/us/stat/79/505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F505
-[/us/pl/90/19/s1/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19%2Fs1%2Fa%2F3
+[/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
 [/us/stat/81/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F17
-[/us/pl/90/448/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs314
+[/us/pl/90/448/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2FtIII
 [/us/stat/82/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F511
-[/us/pl/91/152/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F152%2Fs111
+[/us/pl/91/152/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F152%2FtI
 [/us/stat/83/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F382
 [/us/pl/93/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F204
 [/us/stat/87/883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F883
-[/us/pl/93/383/s304/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs304%2Fg
+[/us/pl/93/383/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtIII
 [/us/stat/88/678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F678
-[/us/pl/95/128/s308/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs308%2Fa
+[/us/pl/95/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2FtIII
 [/us/stat/91/1135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1135
-[/us/pl/95/557/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2Fs312
+[/us/pl/95/557/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2FtIII
 [/us/stat/92/2099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2099
-[/us/pl/96/399/s310/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs310%2Ff
+[/us/pl/96/399/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2FtIII
 [/us/stat/94/1643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1643
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1209
-[/us/pl/98/479/s104/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2Fs104%2Fa%2F1
+[/us/pl/98/479/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2FtI
 [/us/stat/98/2224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2224
-[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtIV
 [/us/stat/101/1904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1904
-[/us/pl/102/550/s511/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs511%2Fa
+[/us/pl/102/550/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtV
 [/us/stat/106/3784-3786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3784-3786
-[/us/pl/105/65/s216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65%2Fs216
+[/us/pl/105/65/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65%2FtII
 [/us/stat/111/1367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1367
-[/us/pl/105/276/s214/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs214%2Fa
+[/us/pl/105/276/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtII
 [/us/stat/112/2486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2486
 [/us/usc/t12/s1735c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1735c
 [/us/usc/t42/s8211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8211
 [/us/usc/t42/s8229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8229
 [/us/usc/t42/s300m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300m
-[/us/pl/99/660/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs701%2Fa
+[/us/pl/99/660/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2FtVII
 [/us/stat/100/3799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3799
 [/us/act/1935-08-13/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-13%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
@@ -331,55 +331,55 @@
 [/us/pl/105/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65
 [/us/pl/105/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65
 [/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
-[/us/pl/102/550/s511/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs511%2Fa%2F1
-[/us/pl/102/550/s511/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs511%2Fa%2F2
-[/us/pl/102/550/s511/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs511%2Fb
-[/us/pl/102/550/s511/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs511%2Fc%2F1
-[/us/pl/102/550/s511/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs511%2Fc%2F2
-[/us/pl/102/550/s511/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs511%2Fc%2F3
-[/us/pl/102/550/s511/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs511%2Fc%2F4
-[/us/pl/102/550/s511/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs511%2Fd
-[/us/pl/102/550/s511/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs511%2Fe
-[/us/pl/100/242/s410/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs410%2Fa
-[/us/pl/100/242/s429/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs429%2Fe%2F1
-[/us/pl/100/242/s410/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs410%2Fb
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
 [/us/usc/t42/s300m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300m
-[/us/pl/100/242/s429/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs429%2Fe%2F2
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
 [/us/pl/98/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479
-[/us/pl/98/181/s437/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs437%2Fa
-[/us/pl/98/181/s437/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs437%2Fb
-[/us/pl/98/181/s437/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs437%2Fc%2F1
-[/us/pl/98/181/s404/b/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs404%2Fb%2F10
-[/us/pl/98/181/s437/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs437%2Fc%2F2
-[/us/pl/98/181/s437/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs437%2Fd
-[/us/pl/98/181/s437/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs437%2Ff%2F1
-[/us/pl/98/181/s437/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs437%2Ff%2F2
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
 [/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
-[/us/pl/95/557/s312/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2Fs312%2Fa
-[/us/pl/95/557/s312/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2Fs312%2Fb
+[/us/pl/95/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557
+[/us/pl/95/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557
 [/us/pl/95/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128
 [/us/usc/t42/s300m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300m
 [/us/pl/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383
 [/us/pl/93/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F204
-[/us/pl/91/152/s111/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F152%2Fs111%2F1
-[/us/pl/91/152/s111/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F152%2Fs111%2F2
-[/us/pl/91/152/s111/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F152%2Fs111%2F4
-[/us/pl/91/152/s111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F152%2Fs111%2F5
-[/us/pl/91/152/s111/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F152%2Fs111%2F6
+[/us/pl/91/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F152
+[/us/pl/91/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F152
+[/us/pl/91/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F152
+[/us/pl/91/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F152
+[/us/pl/91/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F152
 [/us/usc/t42/s291d/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs291d%2Fa%2F1
 [/us/usc/t42/s291b/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs291b%2Fa%2F1
-[/us/pl/91/152/s111/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F152%2Fs111%2F7
-[/us/pl/90/448/s314/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs314%2F1
-[/us/pl/90/448/s314/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs314%2F2
+[/us/pl/91/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F152
+[/us/pl/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448
+[/us/pl/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448
 [/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
-[/us/pl/89/117/s1108/m/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117%2Fs1108%2Fm%2F1
-[/us/pl/89/117/s1108/m/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117%2Fs1108%2Fm%2F2
+[/us/pl/89/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117
+[/us/pl/89/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117
 [/us/usc/t12/s1713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1713
 [/us/pl/88/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F560
 [/us/pl/87/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F70
-[/us/pl/105/276/s214/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs214%2Fb
+[/us/pl/105/276/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtII
 [/us/stat/112/2486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2486
-[/us/pl/100/242/s410/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs410%2Fc
+[/us/pl/100/242/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtIV
 [/us/stat/101/1904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1904
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113

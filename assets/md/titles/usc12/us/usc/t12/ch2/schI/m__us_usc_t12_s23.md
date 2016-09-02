@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 5135 derived from [act June 3, 1864, ch. 106, § 6][/us/act/1864-06-03/ch106/s6], [13 Stat. 101][/us/stat/13/101], which was the National Bank Act. See [section 38 of this title][/us/usc/t12/s38].
+    R.S. § 5135 derived from [act June 3, 1864, ch. 106][/us/act/1864-06-03/ch106], § 6, [13 Stat. 101][/us/stat/13/101], which was the National Bank Act. See [section 38 of this title][/us/usc/t12/s38].
 
  __Exception as to Transfer of Functions__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1864-06-03/ch106/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-06-03%2Fch106%2Fs6
+[/us/act/1864-06-03/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-06-03%2Fch106
 [/us/stat/13/101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F13%2F101
 [/us/usc/t12/s38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs38
 [/us/usc/t12/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1

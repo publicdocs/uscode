@@ -35,15 +35,15 @@
 
         The provisions of sections 1456, 1465, and 1466  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of title 42, and section 1452b  <sup>\[1\]</sup>  of title 42, may apply to projects assisted under this Act as if such projects were being carried out in urban renewal areas as part of urban renewal projects within the meaning of section 1460  <sup>\[1\]</sup>  of title 42.
 
-([Pub. L. 91–609, title V, § 505][/us/pl/91/609/s505], Dec. 31, 1970, [84 Stat. 1787][/us/stat/84/1787]; [Pub. L. 99–386, title I, § 105(a)][/us/pl/99/386/s105/a], Aug. 22, 1986, [100 Stat. 822][/us/stat/100/822].)
+([Pub. L. 91–609, title V][/us/pl/91/609/tV], § 505, Dec. 31, 1970, [84 Stat. 1787][/us/stat/84/1787]; [Pub. L. 99–386, title I][/us/pl/99/386/tI], § 105(a), Aug. 22, 1986, [100 Stat. 822][/us/stat/100/822].)
 
  __References in Text__ 
 
     Sections 1456, 1460, and 1466 of title 42, referred to in subsec. (e), were omitted from the Code pursuant to [section 5316 of Title 42][/us/usc/t42/s5316], The Public Health and Welfare, which terminated authority to make grants or loans under those sections after Jan. 1, 1975.
 
-    [Section 1465 of title 42][/us/usc/t42/s1465], referred to in subsec. (e), was repealed by [Pub. L. 91–646, title II, § 220(a)(5)][/us/pl/91/646/s220/a/5], Jan. 2, 1971, [84 Stat. 1903][/us/stat/84/1903]. See section 4601 et seq. of Title 42.
+    [Section 1465 of title 42][/us/usc/t42/s1465], referred to in subsec. (e), was repealed by [Pub. L. 91–646, title II][/us/pl/91/646/tII], § 220(a)(5), Jan. 2, 1971, [84 Stat. 1903][/us/stat/84/1903]. See section 4601 et seq. of Title 42.
 
-    [Section 1452b of title 42][/us/usc/t42/s1452b], referred to in subsec. (e), was repealed by [Pub. L. 101–625, title II, § 289(b)(1)][/us/pl/101/625/s289/b/1], Nov. 28, 1990, [104 Stat. 4128][/us/stat/104/4128].
+    [Section 1452b of title 42][/us/usc/t42/s1452b], referred to in subsec. (e), was repealed by [Pub. L. 101–625, title II][/us/pl/101/625/tII], § 289(b)(1), Nov. 28, 1990, [104 Stat. 4128][/us/stat/104/4128].
 
  __Codification__ 
 
@@ -62,16 +62,16 @@
 
 [/us/usc/t12/s1701z–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701z%E2%80%931
 [/us/usc/t12/s1715z–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715z%E2%80%931
-[/us/pl/91/609/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F609%2Fs505
+[/us/pl/91/609/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F609%2FtV
 [/us/stat/84/1787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1787
-[/us/pl/99/386/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F386%2Fs105%2Fa
+[/us/pl/99/386/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F386%2FtI
 [/us/stat/100/822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F822
 [/us/usc/t42/s5316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5316
 [/us/usc/t42/s1465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1465
-[/us/pl/91/646/s220/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646%2Fs220%2Fa%2F5
+[/us/pl/91/646/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646%2FtII
 [/us/stat/84/1903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1903
 [/us/usc/t42/s1452b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1452b
-[/us/pl/101/625/s289/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs289%2Fb%2F1
+[/us/pl/101/625/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtII
 [/us/stat/104/4128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4128
 [/us/pl/99/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F386
 

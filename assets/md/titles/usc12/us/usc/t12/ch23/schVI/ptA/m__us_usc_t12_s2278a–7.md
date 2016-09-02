@@ -31,7 +31,7 @@
 
         The Assistance Board shall have access to all reports of examination and supervisory documents of the Farm Credit Administration, and relevant supporting material, for the purpose of carrying out the special powers of the Assistance Board under [section 2278a–6 of this title][/us/usc/t12/s2278a–6], under such terms and conditions, acceptable to the Farm Credit Administration Board, as are necessary and appropriate to protect the confidentiality of the documents and materials.
 
-([Pub. L. 92–181, title VI, § 6][/us/pl/92/181/s6].7, as added [Pub. L. 100–233, title II, § 201][/us/pl/100/233/s201], Jan. 6, 1988, [101 Stat. 1591][/us/stat/101/1591]; amended [Pub. L. 100–399, title II, § 201(j)][/us/pl/100/399/s201/j], Aug. 17, 1988, [102 Stat. 991][/us/stat/102/991].)
+([Pub. L. 92–181, title VI][/us/pl/92/181/tVI], § 6.7, as added [Pub. L. 100–233, title II][/us/pl/100/233/tII], § 201, Jan. 6, 1988, [101 Stat. 1591][/us/stat/101/1591]; amended [Pub. L. 100–399, title II][/us/pl/100/399/tII], § 201(j), Aug. 17, 1988, [102 Stat. 991][/us/stat/102/991].)
 
  __Amendments__ 
 
@@ -51,10 +51,10 @@
 [/us/usc/t12/s2278b–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2278b%E2%80%935
 [/us/usc/t12/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2151
 [/us/usc/t12/s2278a–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2278a%E2%80%936
-[/us/pl/92/181/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs6
-[/us/pl/100/233/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs201
+[/us/pl/92/181/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtVI
+[/us/pl/100/233/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtII
 [/us/stat/101/1591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1591
-[/us/pl/100/399/s201/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs201%2Fj
+[/us/pl/100/399/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtII
 [/us/stat/102/991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F991
 [/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399

@@ -17,9 +17,9 @@
 
  __Amendments__ 
 
-    1988—[Pub. L. 100–399, title VII, § 702(c)][/us/pl/100/399/s702/c], Aug. 17, 1988, [102 Stat. 1006][/us/stat/102/1006], redesignated part H as G.
+    1988—[Pub. L. 100–399, title VII][/us/pl/100/399/tVII], § 702(c), Aug. 17, 1988, [102 Stat. 1006][/us/stat/102/1006], redesignated part H as G.
 
-    [Pub. L. 100–233, title VIII, § 805(u)][/us/pl/100/233/s805/u], Jan. 6, 1988, [101 Stat. 1716][/us/stat/101/1716], redesignated part F as H.
+    [Pub. L. 100–233, title VIII][/us/pl/100/233/tVIII], § 805(u), Jan. 6, 1988, [101 Stat. 1716][/us/stat/101/1716], redesignated part F as H.
 
 ----------
 
@@ -28,9 +28,9 @@
 ----------
 ----------
 
-[/us/pl/100/399/s702/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs702%2Fc
+[/us/pl/100/399/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtVII
 [/us/stat/102/1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1006
-[/us/pl/100/233/s805/u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs805%2Fu
+[/us/pl/100/233/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtVIII
 [/us/stat/101/1716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1716
 
 

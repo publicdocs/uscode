@@ -411,7 +411,7 @@
 
         To the extent that the requirements of title VI of the Civil Rights Act of 1964 ([42 U.S.C. 2000d][/us/usc/t42/s2000d] et seq.) or of the Fair Housing Act \[[42 U.S.C. 3601][/us/usc/t42/s3601] et seq.\] apply to a guarantee provided under this subsection, nothing in the requirements concerning discrimination on the basis of race shall be construed to prevent the provision of the guarantee to an eligible entity on the basis that the entity serves Native Hawaiian families or is a Native Hawaiian family.
 
-([Pub. L. 102–550, title I, § 184A][/us/pl/102/550/s184A], as added [Pub. L. 106–568, title II, § 204][/us/pl/106/568/s204], Dec. 27, 2000, [114 Stat. 2895][/us/stat/114/2895], and [Pub. L. 106–569, title V, § 514][/us/pl/106/569/s514], Dec. 27, 2000, [114 Stat. 2989][/us/stat/114/2989].)
+([Pub. L. 102–550, title I][/us/pl/102/550/tI], § 184A, as added [Pub. L. 106–568, title II][/us/pl/106/568/tII], § 204, Dec. 27, 2000, [114 Stat. 2895][/us/stat/114/2895], and [Pub. L. 106–569, title V][/us/pl/106/569/tV], § 514, Dec. 27, 2000, [114 Stat. 2989][/us/stat/114/2989].)
 
  __References in Text__ 
 
@@ -429,7 +429,7 @@
 
     Section was enacted as part of the Housing and Community Development Act of 1992, and not as part of the National Housing Act which comprises this chapter.
 
-    [Pub. L. 106–568, § 204][/us/pl/106/568/s204], and [Pub. L. 106–569, § 514][/us/pl/106/569/s514], enacted substantially identical sections 184A to [Pub. L. 102–550][/us/pl/102/550]. This section is based on the text of [section 184A of Pub. L. 102–550][/us/pl/102/550/s184A], as added by [Pub. L. 106–569][/us/pl/106/569].
+    [Pub. L. 106–568][/us/pl/106/568], § 204, and [Pub. L. 106–569][/us/pl/106/569], § 514, enacted substantially identical sections 184A to [Pub. L. 102–550][/us/pl/102/550]. This section is based on the text of [section 184A of Pub. L. 102–550][/us/pl/102/550/s184A], as added by [Pub. L. 106–569][/us/pl/106/569].
 
 ----------
 
@@ -450,10 +450,10 @@
 [/us/usc/t12/s1735f–4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1735f%E2%80%934%2Fa
 [/us/usc/t42/s2000d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000d
 [/us/usc/t42/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3601
-[/us/pl/102/550/s184A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs184A
-[/us/pl/106/568/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs204
+[/us/pl/102/550/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtI
+[/us/pl/106/568/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2FtII
 [/us/stat/114/2895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2895
-[/us/pl/106/569/s514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs514
+[/us/pl/106/569/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2FtV
 [/us/stat/114/2989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2989
 [/us/act/1921-07-09/ch42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-07-09%2Fch42
 [/us/stat/42/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F108
@@ -470,8 +470,8 @@
 [/us/pl/90/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284
 [/us/stat/82/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F81
 [/us/usc/t42/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3601
-[/us/pl/106/568/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs204
-[/us/pl/106/569/s514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs514
+[/us/pl/106/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/pl/102/550/s184A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs184A
 [/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569

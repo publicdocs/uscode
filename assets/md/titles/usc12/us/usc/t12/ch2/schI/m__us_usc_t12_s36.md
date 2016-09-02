@@ -151,7 +151,7 @@
 
                 The term “host State” means, with respect to a bank, a State, other than the home State of the bank, in which the bank maintains, or seeks to establish and maintain, a branch.
 
-    (h) __Repealed.__  __[__  __Pub. L. 104–208, div. A, title II, § 2204__  __][/us/pl/104/208/s2204]__  __,__  __Sept. 30, 1996__  __,__  __[__  __110 Stat. 3009–405__  __][/us/stat/110/3009-405]__ 
+    (h) __Repealed.__  __[__  __Pub. L. 104–208, div. A, title II__  __][/us/pl/104/208/dA/tII]__  __, § 2204,__  __Sept. 30, 1996__  __,__  __[__  __110 Stat. 3009–405__  __][/us/stat/110/3009-405]__ 
 
     (i) __Prior approval of branch locations__ 
 
@@ -169,7 +169,7 @@
 
         The words “State bank,” “State banks,” “bank,” or “banks,” as used in this section, shall be held to include trust companies, savings banks, or other such corporations or institutions carrying on the banking business under the authority of State laws.
 
-(R.S. § 5155; [Feb. 25, 1927, ch. 191, § 7][/us/act/1927-02-25/ch191/s7], [44 Stat. 1228][/us/stat/44/1228]; [June 16, 1933, ch. 89, § 23][/us/act/1933-06-16/ch89/s23], [48 Stat. 189][/us/stat/48/189]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title III, § 305, [49 Stat. 708][/us/stat/49/708]; [July 15, 1952, ch. 753, § 2(b)][/us/act/1952-07-15/ch753/s2/b], [66 Stat. 633][/us/stat/66/633]; [Pub. L. 87–721][/us/pl/87/721], Sept. 28, 1962, [76 Stat. 667][/us/stat/76/667]; [Pub. L. 103–328, title I][/us/pl/103/328], §§ 102(b)(1), 103(a), Sept. 29, 1994, [108 Stat. 2349][/us/stat/108/2349], 2352; [Pub. L. 104–208, div. A, title II][/us/pl/104/208], §§ 2204, 2205(a), Sept. 30, 1996, [110 Stat. 3009–405][/us/stat/110/3009-405]; [Pub. L. 105–24, § 2(b)][/us/pl/105/24/s2/b], July 3, 1997, [111 Stat. 239][/us/stat/111/239]; [Pub. L. 111–203, title VI, § 613(a)][/us/pl/111/203/s613/a], July 21, 2010, [124 Stat. 1614][/us/stat/124/1614].)
+(R.S. § 5155; [Feb. 25, 1927, ch. 191][/us/act/1927-02-25/ch191], § 7, [44 Stat. 1228][/us/stat/44/1228]; [June 16, 1933, ch. 89][/us/act/1933-06-16/ch89], § 23, [48 Stat. 189][/us/stat/48/189]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title III, § 305, [49 Stat. 708][/us/stat/49/708]; [July 15, 1952, ch. 753][/us/act/1952-07-15/ch753], § 2(b), [66 Stat. 633][/us/stat/66/633]; [Pub. L. 87–721][/us/pl/87/721], Sept. 28, 1962, [76 Stat. 667][/us/stat/76/667]; [Pub. L. 103–328, title I][/us/pl/103/328/tI], §§ 102(b)(1), 103(a), Sept. 29, 1994, [108 Stat. 2349][/us/stat/108/2349], 2352; [Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], §§ 2204, 2205(a), Sept. 30, 1996, [110 Stat. 3009–405][/us/stat/110/3009-405]; [Pub. L. 105–24][/us/pl/105/24], § 2(b), July 3, 1997, [111 Stat. 239][/us/stat/111/239]; [Pub. L. 111–203, title VI][/us/pl/111/203/tVI], § 613(a), July 21, 2010, [124 Stat. 1614][/us/stat/124/1614].)
 
  __References in Text__ 
 
@@ -179,7 +179,7 @@
 
  __Codification__ 
 
-    R.S. § 5155 derived from [act Mar. 3, 1865, ch. 78, § 7][/us/act/1865-03-03/ch78/s7], [13 Stat. 484][/us/stat/13/484].
+    R.S. § 5155 derived from [act Mar. 3, 1865, ch. 78][/us/act/1865-03-03/ch78], § 7, [13 Stat. 484][/us/stat/13/484].
 
  __Amendments__ 
 
@@ -191,17 +191,17 @@
 
     1997—Subsec. (f)(1)(C). [Pub. L. 105–24][/us/pl/105/24] added subpar. (C).
 
-    1996—Subsec. (h). [Pub. L. 104–208, § 2204][/us/pl/104/208/s2204], struck out subsec. (h) which read as follows: “The aggregate capital of every national banking association and its branches shall at no time be less than the aggregate minimum capital required by law for the establishment of an equal number of national banking associations situated in the various places where such association and its branches are situated.”
+    1996—Subsec. (h). [Pub. L. 104–208][/us/pl/104/208], § 2204, struck out subsec. (h) which read as follows: “The aggregate capital of every national banking association and its branches shall at no time be less than the aggregate minimum capital required by law for the establishment of an equal number of national banking associations situated in the various places where such association and its branches are situated.”
 
-    Subsec. (j). [Pub. L. 104–208, § 2205(a)][/us/pl/104/208/s2205/a], inserted at end “The term ‘branch’, as used in this section, does not include an automated teller machine or a remote service unit.”
+    Subsec. (j). [Pub. L. 104–208][/us/pl/104/208], § 2205(a), inserted at end “The term ‘branch’, as used in this section, does not include an automated teller machine or a remote service unit.”
 
-    1994—Subsecs. (d) to (f). [Pub. L. 103–328, § 102(b)(1)(B)][/us/pl/103/328/s102/b/1/B], added subsecs. (d) to (f). Former subsecs. (d) to (f) redesignated (h) to (j), respectively.
+    1994—Subsecs. (d) to (f). [Pub. L. 103–328][/us/pl/103/328], § 102(b)(1)(B), added subsecs. (d) to (f). Former subsecs. (d) to (f) redesignated (h) to (j), respectively.
 
-    Subsec. (g). [Pub. L. 103–328, § 103(a)][/us/pl/103/328/s103/a], added subsec. (g).
+    Subsec. (g). [Pub. L. 103–328][/us/pl/103/328], § 103(a), added subsec. (g).
 
-    [Pub. L. 103–328, § 102(b)(1)(A)][/us/pl/103/328/s102/b/1/A], redesignated subsec. (g) as (k).
+    [Pub. L. 103–328][/us/pl/103/328], § 102(b)(1)(A), redesignated subsec. (g) as (k).
 
-    Subsecs. (h) to (l). [Pub. L. 103–328, § 102(b)(1)(A)][/us/pl/103/328/s102/b/1/A], redesignated subsecs. (d) to (h) as (h) to (l), respectively.
+    Subsecs. (h) to (l). [Pub. L. 103–328][/us/pl/103/328], § 102(b)(1)(A), redesignated subsecs. (d) to (h) as (h) to (l), respectively.
 
     1962—Subsec. (b). [Pub. L. 87–721][/us/pl/87/721] substituted provisions permitting a national bank resulting from the conversion of a State bank to retain and operate as a branch any office which was a branch of the State bank immediately prior to conversion if such office might be established as a new branch of the resulting national bank, and is approved by the Comptroller for continued operation as a branch of the resulting bank, or any office which was a branch of any bank on Feb. 25, 1927, or any office which is approved by the Comptroller for continued operation as a branch, and a national bank resulting from consolidation of a national bank under whose charter the consolidation is effected with another bank or banks to retain and operate any office which, immediately prior to consolidation, was in operation as a main office or branch office of any bank (other than the national bank) participating in the consolidation if it might be established as a new branch of the resulting bank, and if the Comptroller approves of its continued operation, or was in operation as a branch of any bank participating in the consolidation and which, on Feb. 25, 1927, was in operation as a branch of any bank, or was in operation as a branch of the national bank and which, on Feb. 25, 1927, was not in operation as a branch of any bank, if the Comptroller approves of its continued operation, for provisions which permitted State banks converted into or consolidated with national banking associations after Feb. 25, 1927, or two or more national banking associations which are consolidated, to retain and operate only those branches which may have been in lawful operation on Feb. 25, 1927, and inserted provisions prohibiting the Comptroller from granting approval under clauses (1)(C) and (2)(C) if a State bank resulting from the conversion or consolidation would be prohibited by law of the State from retaining and operating as a branch an identically situated office which was a branch of the national bank or State bank immediately prior to the conversion or consolidation.
 
@@ -227,7 +227,7 @@
 
  __Applicability of McFadden Act to Present Financial Environment; Report and Recommendations by President to Congress__ 
 
-    [Pub. L. 95–369, § 14][/us/pl/95/369/s14], Sept. 17, 1978, [92 Stat. 625][/us/stat/92/625], provided for a report to Congress by the President, not later than one year after Sept. 17, 1978, containing recommendations concerning the applicability of the McFadden Act \[[Feb. 25, 1927, ch. 191][/us/act/1927-02-25/ch191], [44 Stat. 1224][/us/stat/44/1224]\] to the then current financial, banking, and economic environment.
+    [Pub. L. 95–369][/us/pl/95/369], § 14, Sept. 17, 1978, [92 Stat. 625][/us/stat/92/625], provided for a report to Congress by the President, not later than one year after Sept. 17, 1978, containing recommendations concerning the applicability of the McFadden Act \[[Feb. 25, 1927, ch. 191][/us/act/1927-02-25/ch191], [44 Stat. 1224][/us/stat/44/1224]\] to the then current financial, banking, and economic environment.
 
 ----------
 
@@ -244,38 +244,38 @@
 [/us/usc/t12/s1831u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1831u
 [/us/usc/t12/s1831u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1831u
 [/us/usc/t12/s1831u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1831u
-[/us/pl/104/208/s2204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2204
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-405
 [/us/usc/t12/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs601
-[/us/act/1927-02-25/ch191/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-25%2Fch191%2Fs7
+[/us/act/1927-02-25/ch191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-25%2Fch191
 [/us/stat/44/1228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1228
-[/us/act/1933-06-16/ch89/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-16%2Fch89%2Fs23
+[/us/act/1933-06-16/ch89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-16%2Fch89
 [/us/stat/48/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F189
 [/us/act/1935-08-23/ch614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch614
 [/us/stat/49/708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F708
-[/us/act/1952-07-15/ch753/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-15%2Fch753%2Fs2%2Fb
+[/us/act/1952-07-15/ch753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-15%2Fch753
 [/us/stat/66/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F633
 [/us/pl/87/721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F721
 [/us/stat/76/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F667
-[/us/pl/103/328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328
+[/us/pl/103/328/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328%2FtI
 [/us/stat/108/2349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2349
-[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-405
-[/us/pl/105/24/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F24%2Fs2%2Fb
+[/us/pl/105/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F24
 [/us/stat/111/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F239
-[/us/pl/111/203/s613/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs613%2Fa
+[/us/pl/111/203/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVI
 [/us/stat/124/1614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1614
 [/us/usc/t12/s1831u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1831u
-[/us/act/1865-03-03/ch78/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1865-03-03%2Fch78%2Fs7
+[/us/act/1865-03-03/ch78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1865-03-03%2Fch78
 [/us/stat/13/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F13%2F484
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/105/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F24
-[/us/pl/104/208/s2204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2204
-[/us/pl/104/208/s2205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2205%2Fa
-[/us/pl/103/328/s102/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328%2Fs102%2Fb%2F1%2FB
-[/us/pl/103/328/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328%2Fs103%2Fa
-[/us/pl/103/328/s102/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328%2Fs102%2Fb%2F1%2FA
-[/us/pl/103/328/s102/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328%2Fs102%2Fb%2F1%2FA
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/103/328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328
+[/us/pl/103/328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328
+[/us/pl/103/328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328
+[/us/pl/103/328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328
 [/us/pl/87/721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F721
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs4
@@ -285,7 +285,7 @@
 [/us/pl/96/221/s525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs525
 [/us/pl/105/24/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F24%2Fs3
 [/us/usc/t12/s1831a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1831a
-[/us/pl/95/369/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F369%2Fs14
+[/us/pl/95/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F369
 [/us/stat/92/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F625
 [/us/act/1927-02-25/ch191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-25%2Fch191
 [/us/stat/44/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1224

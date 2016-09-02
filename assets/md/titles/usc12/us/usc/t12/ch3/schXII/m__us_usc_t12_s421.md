@@ -17,7 +17,7 @@
 
     The Secretary of the Treasury may examine the plates, dies, bed pieces, and other material used in the printing of Federal Reserve notes and issue regulations relating to such examinations.
 
-([Dec. 23, 1913, ch. 6, § 16][/us/act/1913-12-23/ch6/s16] (par.), [38 Stat. 267][/us/stat/38/267]; [Pub. L. 103–325, title VI, § 602(g)(6)][/us/pl/103/325/s602/g/6], Sept. 23, 1994, [108 Stat. 2293][/us/stat/108/2293].)
+([Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 16 (par.), [38 Stat. 267][/us/stat/38/267]; [Pub. L. 103–325, title VI][/us/pl/103/325/tVI], § 602(g)(6), Sept. 23, 1994, [108 Stat. 2293][/us/stat/108/2293].)
 
  __Codification__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/act/1913-12-23/ch6/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs16
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
 [/us/stat/38/267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F267
-[/us/pl/103/325/s602/g/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs602%2Fg%2F6
+[/us/pl/103/325/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtVI
 [/us/stat/108/2293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2293
 [/us/usc/t12/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs411
 [/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325

@@ -13,9 +13,9 @@
 
 [Previous](./../../../..//us/usc/t12/ch17/m__us_usc_t12_s1844.md) | [Next](./../../../..//us/usc/t12/ch17/m__us_usc_t12_s1846.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1845)
 
-## § 1845. Repealed. [Pub. L. 89–485, § 9][/us/pl/89/485/s9], July 1, 1966, [80 Stat. 240][/us/stat/80/240]
+## § 1845. Repealed. [Pub. L. 89–485][/us/pl/89/485], § 9, July 1, 1966, [80 Stat. 240][/us/stat/80/240]
 
-    Section, [act May 9, 1956, ch. 240, § 6][/us/act/1956-05-09/ch240/s6], [70 Stat. 137][/us/stat/70/137], prohibited any subsidiary bank from lending to or investing in its parent holding company or a fellow subsidiary bank. See [section 371c of this title][/us/usc/t12/s371c].
+    Section, [act May 9, 1956, ch. 240][/us/act/1956-05-09/ch240], § 6, [70 Stat. 137][/us/stat/70/137], prohibited any subsidiary bank from lending to or investing in its parent holding company or a fellow subsidiary bank. See [section 371c of this title][/us/usc/t12/s371c].
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/pl/89/485/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F485%2Fs9
+[/us/pl/89/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F485
 [/us/stat/80/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F240
-[/us/act/1956-05-09/ch240/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-05-09%2Fch240%2Fs6
+[/us/act/1956-05-09/ch240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-05-09%2Fch240
 [/us/stat/70/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F137
 [/us/usc/t12/s371c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs371c
 

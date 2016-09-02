@@ -19,7 +19,7 @@
 
     (b) Notwithstanding the provisions of subsection (a) of this section, the purchase of stock need not be required with respect to that part of any loan made by a bank for cooperatives which it sells to or makes in participation with financial institutions other than any of the banks for cooperatives. In such cases the distribution of earnings of the bank for cooperatives shall be on the basis of the interest in the loan retained by such bank.
 
-([Pub. L. 92–181][/us/pl/92/181] title III, § 3.9, Dec. 10, 1971, [85 Stat. 605][/us/stat/85/605]; [Pub. L. 96–592, title III, § 306][/us/pl/96/592/s306], Dec. 24, 1980, [94 Stat. 3445][/us/stat/94/3445]; [Pub. L. 100–233, title VIII, § 802(q)][/us/pl/100/233/s802/q], Jan. 6, 1988, [101 Stat. 1712][/us/stat/101/1712].)
+([Pub. L. 92–181][/us/pl/92/181] title III, § 3.9, Dec. 10, 1971, [85 Stat. 605][/us/stat/85/605]; [Pub. L. 96–592, title III][/us/pl/96/592/tIII], § 306, Dec. 24, 1980, [94 Stat. 3445][/us/stat/94/3445]; [Pub. L. 100–233, title VIII][/us/pl/100/233/tVIII], § 802(q), Jan. 6, 1988, [101 Stat. 1712][/us/stat/101/1712].)
 
  __Amendments__ 
 
@@ -36,9 +36,9 @@
 
 [/us/pl/92/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181
 [/us/stat/85/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F605
-[/us/pl/96/592/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592%2Fs306
+[/us/pl/96/592/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592%2FtIII
 [/us/stat/94/3445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3445
-[/us/pl/100/233/s802/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs802%2Fq
+[/us/pl/100/233/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtVIII
 [/us/stat/101/1712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1712
 [/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
 [/us/pl/96/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592

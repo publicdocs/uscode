@@ -71,7 +71,7 @@
 
         An order under this section shall become effective upon the expiration of the 30-day period beginning on the service of the order upon the regulated entity, finance facility,, <sup>\[2\]</sup>  <sup><sup> 2 So in original. </sup></sup>  executive officer, director, or entity-affiliated party concerned (except in the case of an order issued upon consent, which shall become effective at the time specified therein), and shall remain effective and enforceable as provided in the order, except to the extent that the order is stayed, modified, terminated, or set aside by action of the Director or otherwise, as provided in this subchapter.
 
-([Pub. L. 102–550, title XIII, § 1371][/us/pl/102/550/s1371], Oct. 28, 1992, [106 Stat. 3986][/us/stat/106/3986]; [Pub. L. 110–289, div. A, title I, § 1151][/us/pl/110/289/s1151], July 30, 2008, [122 Stat. 2767][/us/stat/122/2767].)
+([Pub. L. 102–550, title XIII][/us/pl/102/550/tXIII], § 1371, Oct. 28, 1992, [106 Stat. 3986][/us/stat/106/3986]; [Pub. L. 110–289, div. A, title I][/us/pl/110/289/dA/tI], § 1151, July 30, 2008, [122 Stat. 2767][/us/stat/122/2767].)
 
  __References in Text__ 
 
@@ -79,31 +79,31 @@
 
  __Amendments__ 
 
-    2008—Subsecs. (a), (b). [Pub. L. 110–289, § 1151(1)][/us/pl/110/289/s1151/1], added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which related to grounds for issuance against adequately capitalized enterprises and grounds for issuance against undercapitalized, significantly undercapitalized, and critically undercapitalized enterprises, respectively.
+    2008—Subsecs. (a), (b). [Pub. L. 110–289][/us/pl/110/289], § 1151(1), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which related to grounds for issuance against adequately capitalized enterprises and grounds for issuance against undercapitalized, significantly undercapitalized, and critically undercapitalized enterprises, respectively.
 
-    Subsec. (c)(1). [Pub. L. 110–289, § 1151(2)(A)][/us/pl/110/289/s1151/2/A], (3)(C), substituted “practice” for “conduct” in two places and inserted “, unless the party served with a notice of charges shall appear at the hearing personally or by a duly authorized representative, the party shall be deemed to have consented to the issuance of the cease and desist order” before period at end.
+    Subsec. (c)(1). [Pub. L. 110–289][/us/pl/110/289], § 1151(2)(A), (3)(C), substituted “practice” for “conduct” in two places and inserted “, unless the party served with a notice of charges shall appear at the hearing personally or by a duly authorized representative, the party shall be deemed to have consented to the issuance of the cease and desist order” before period at end.
 
-    Subsec. (c)(2). [Pub. L. 110–289, § 1151(2)(B)][/us/pl/110/289/s1151/2/B], (3)(A), (C), inserted “or entity-affiliated party” before “consents” and substituted “director, or entity-affiliated party” for “or director”, “the regulated entity” for “the enterprise” in two places, and “practice” for “conduct” wherever appearing.
+    Subsec. (c)(2). [Pub. L. 110–289][/us/pl/110/289], § 1151(2)(B), (3)(A), (C), inserted “or entity-affiliated party” before “consents” and substituted “director, or entity-affiliated party” for “or director”, “the regulated entity” for “the enterprise” in two places, and “practice” for “conduct” wherever appearing.
 
-    Subsec. (d). [Pub. L. 110–289, § 1151(3)(B)][/us/pl/110/289/s1151/3/B], (C), (4)(A), in introductory provisions, substituted “a regulated entity” for “an enterprise”, “director, or entity-affiliated party” for “or director”, and “practice” for “conduct”, and inserted “to require a regulated entity or entity-affiliated party” after “includes the authority”.
+    Subsec. (d). [Pub. L. 110–289][/us/pl/110/289], § 1151(3)(B), (C), (4)(A), in introductory provisions, substituted “a regulated entity” for “an enterprise”, “director, or entity-affiliated party” for “or director”, and “practice” for “conduct”, and inserted “to require a regulated entity or entity-affiliated party” after “includes the authority”.
 
-    Subsec. (d)(1). [Pub. L. 110–289, § 1151(4)(B)(i)][/us/pl/110/289/s1151/4/B/i], (ii), in introductory provisions, struck out “to require an executive officer or a director to” before “make restitution” and substituted “loss, if” for “loss to the enterprise to the extent that such person”.
+    Subsec. (d)(1). [Pub. L. 110–289][/us/pl/110/289], § 1151(4)(B)(i), (ii), in introductory provisions, struck out “to require an executive officer or a director to” before “make restitution” and substituted “loss, if” for “loss to the enterprise to the extent that such person”.
 
-    Subsec. (d)(1)(A). [Pub. L. 110–289, § 1151(3)(C)][/us/pl/110/289/s1151/3/C], (4)(B)(iii), inserted “such entity or party or finance facility” before “was unjustly” and substituted “practice” for “conduct”.
+    Subsec. (d)(1)(A). [Pub. L. 110–289][/us/pl/110/289], § 1151(3)(C), (4)(B)(iii), inserted “such entity or party or finance facility” before “was unjustly” and substituted “practice” for “conduct”.
 
-    Subsec. (d)(1)(B). [Pub. L. 110–289, § 1151(4)(B)(iv)][/us/pl/110/289/s1151/4/B/iv], added subpar. (B) and struck out former subpar. (B) which read as follows: “engaged in conduct or a violation that would subject such person to a civil penalty pursuant to [section 4636(b)(3) of this title][/us/usc/t12/s4636/b/3];”.
+    Subsec. (d)(1)(B). [Pub. L. 110–289][/us/pl/110/289], § 1151(4)(B)(iv), added subpar. (B) and struck out former subpar. (B) which read as follows: “engaged in conduct or a violation that would subject such person to a civil penalty pursuant to [section 4636(b)(3) of this title][/us/usc/t12/s4636/b/3];”.
 
-    Subsec. (d)(2). [Pub. L. 110–289, § 1151(3)(B)][/us/pl/110/289/s1151/3/B], substituted “a regulated entity” for “an enterprise”.
+    Subsec. (d)(2). [Pub. L. 110–289][/us/pl/110/289], § 1151(3)(B), substituted “a regulated entity” for “an enterprise”.
 
-    Subsec. (d)(3). [Pub. L. 110–289, § 1151(3)(A)][/us/pl/110/289/s1151/3/A], substituted “the regulated entity” for “the enterprise”.
+    Subsec. (d)(3). [Pub. L. 110–289][/us/pl/110/289], § 1151(3)(A), substituted “the regulated entity” for “the enterprise”.
 
-    Subsec. (d)(4). [Pub. L. 110–289, § 1151(3)(A)][/us/pl/110/289/s1151/3/A], (4)(C), substituted “the regulated entity” for “the enterprise” and inserted “loan or” before “asset”.
+    Subsec. (d)(4). [Pub. L. 110–289][/us/pl/110/289], § 1151(3)(A), (4)(C), substituted “the regulated entity” for “the enterprise” and inserted “loan or” before “asset”.
 
-    Subsec. (d)(5) to (7). [Pub. L. 110–289, § 1151(3)(A)][/us/pl/110/289/s1151/3/A], substituted “the regulated entity” for “the enterprise”.
+    Subsec. (d)(5) to (7). [Pub. L. 110–289][/us/pl/110/289], § 1151(3)(A), substituted “the regulated entity” for “the enterprise”.
 
-    Subsec. (e). [Pub. L. 110–289, § 1151(3)(A)][/us/pl/110/289/s1151/3/A], (5), substituted “the regulated entity” for “the enterprise” in two places and inserted “or entity-affiliated party” before “or any executive” and before period at end.
+    Subsec. (e). [Pub. L. 110–289][/us/pl/110/289], § 1151(3)(A), (5), substituted “the regulated entity” for “the enterprise” in two places and inserted “or entity-affiliated party” before “or any executive” and before period at end.
 
-    Subsec. (f). [Pub. L. 110–289, § 1151(6)][/us/pl/110/289/s1151/6], substituted “regulated entity, finance facility,” for “enterprise” and “director, or entity-affiliated party” for “or director”.
+    Subsec. (f). [Pub. L. 110–289][/us/pl/110/289], § 1151(6), substituted “regulated entity, finance facility,” for “enterprise” and “director, or entity-affiliated party” for “or director”.
 
 ----------
 
@@ -118,26 +118,26 @@
 [/us/usc/t12/s4633/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4633%2Fa%2F4
 [/us/usc/t12/s4632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4632
 [/us/usc/t12/s4632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4632
-[/us/pl/102/550/s1371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1371
+[/us/pl/102/550/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIII
 [/us/stat/106/3986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3986
-[/us/pl/110/289/s1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1151
+[/us/pl/110/289/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtI
 [/us/stat/122/2767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2767
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/stat/106/3941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3941
 [/us/usc/t12/s4501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4501
-[/us/pl/110/289/s1151/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1151%2F1
-[/us/pl/110/289/s1151/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1151%2F2%2FA
-[/us/pl/110/289/s1151/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1151%2F2%2FB
-[/us/pl/110/289/s1151/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1151%2F3%2FB
-[/us/pl/110/289/s1151/4/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1151%2F4%2FB%2Fi
-[/us/pl/110/289/s1151/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1151%2F3%2FC
-[/us/pl/110/289/s1151/4/B/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1151%2F4%2FB%2Fiv
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
 [/us/usc/t12/s4636/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4636%2Fb%2F3
-[/us/pl/110/289/s1151/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1151%2F3%2FB
-[/us/pl/110/289/s1151/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1151%2F3%2FA
-[/us/pl/110/289/s1151/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1151%2F3%2FA
-[/us/pl/110/289/s1151/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1151%2F3%2FA
-[/us/pl/110/289/s1151/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1151%2F3%2FA
-[/us/pl/110/289/s1151/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1151%2F6
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
 
 

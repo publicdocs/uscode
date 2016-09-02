@@ -17,7 +17,7 @@
 
     Whenever it appears to the Secretary that any person has engaged, is engaged, or is about to engage in any acts or practices constituting a violation of any regulation under this chapter, he may in his discretion bring an action, in the proper district court of the United States or the proper United States court of any territory or other place subject to the jurisdiction of the United States, to enjoin such acts or practices, and upon a proper showing a permanent or temporary injunction or restraining order shall be granted without bond. Upon application of the Secretary, any such court may also issue mandatory injunctions commanding any person to comply with any regulation of the Secretary under this chapter.
 
-([Pub. L. 91–508, title I, § 124][/us/pl/91/508/s124], Oct. 26, 1970, [84 Stat. 1117][/us/stat/84/1117].)
+([Pub. L. 91–508, title I][/us/pl/91/508/tI], § 124, Oct. 26, 1970, [84 Stat. 1117][/us/stat/84/1117].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/508/s124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508%2Fs124
+[/us/pl/91/508/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508%2FtI
 [/us/stat/84/1117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1117
 
 

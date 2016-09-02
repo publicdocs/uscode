@@ -21,7 +21,7 @@
 
     (2) the term “insured credit union” has the same meaning as in [section 1752 of this title][/us/usc/t12/s1752].
 
-([Pub. L. 103–325, title III, § 301][/us/pl/103/325/s301], Sept. 23, 1994, [108 Stat. 2214][/us/stat/108/2214].)
+([Pub. L. 103–325, title III][/us/pl/103/325/tIII], § 301, Sept. 23, 1994, [108 Stat. 2214][/us/stat/108/2214].)
 
  __References in Text__ 
 
@@ -29,7 +29,7 @@
 
  __Use of Subordinated Debt To Protect Financial System and Deposit Funds From “Too Big To Fail” Institutions__ 
 
-[Pub. L. 106–102, title I, § 108][/us/pl/106/102/s108], Nov. 12, 1999, [113 Stat. 1361][/us/stat/113/1361], provided that:
+[Pub. L. 106–102, title I][/us/pl/106/102/tI], § 108, Nov. 12, 1999, [113 Stat. 1361][/us/stat/113/1361], provided that:
 
 >     “(a)  __Study Required__  __.—__ 
 
@@ -71,7 +71,7 @@
 
  __Study and Report on Adapting Existing Legislative Requirements to Online Banking and Lending__ 
 
-[Pub. L. 106–102, title VII, § 729][/us/pl/106/102/s729], Nov. 12, 1999, [113 Stat. 1476][/us/stat/113/1476], provided that:
+[Pub. L. 106–102, title VII][/us/pl/106/102/tVII], § 729, Nov. 12, 1999, [113 Stat. 1476][/us/stat/113/1476], provided that:
 
 >     “(a)  __Study Required__  __.—__ 
 
@@ -87,7 +87,7 @@
 
  __Treasury Report on Reduced Taxation and Viability of Small Banks__ 
 
-[Pub. L. 105–219, title IV, § 403][/us/pl/105/219/s403], Aug. 7, 1998, [112 Stat. 935][/us/stat/112/935], provided that: 
+[Pub. L. 105–219, title IV][/us/pl/105/219/tIV], § 403, Aug. 7, 1998, [112 Stat. 935][/us/stat/112/935], provided that: 
 
 > “The Secretary \[of the Treasury\] shall, not later than 1 year after the date of enactment of this Act \[Aug. 7, 1998\], submit a report to the Congress containing—
 
@@ -103,7 +103,7 @@
 
  __Study and Report on Capital Standards and Their Impact on Economy__ 
 
-[Pub. L. 103–325, title III, § 328][/us/pl/103/325/s328], Sept. 23, 1994, [108 Stat. 2230][/us/stat/108/2230], provided that:
+[Pub. L. 103–325, title III][/us/pl/103/325/tIII], § 328, Sept. 23, 1994, [108 Stat. 2230][/us/stat/108/2230], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -127,7 +127,7 @@
 
  __Study on Impact of Payment of Interest on Reserves__ 
 
-[Pub. L. 103–325, title III, § 329][/us/pl/103/325/s329], Sept. 23, 1994, [108 Stat. 2230][/us/stat/108/2230], provided that:
+[Pub. L. 103–325, title III][/us/pl/103/325/tIII], § 329, Sept. 23, 1994, [108 Stat. 2230][/us/stat/108/2230], provided that:
 
 >     “(a)  __Federal Reserve Study__  __.—__ 
 
@@ -151,7 +151,7 @@
 
  __Study and Report on Consumer Credit System__ 
 
-[Pub. L. 103–325, title III, § 330][/us/pl/103/325/s330], Sept. 23, 1994, [108 Stat. 2231][/us/stat/108/2231], provided that:
+[Pub. L. 103–325, title III][/us/pl/103/325/tIII], § 330, Sept. 23, 1994, [108 Stat. 2231][/us/stat/108/2231], provided that:
 
 >     “(a)  __Study__  __.—__ 
 
@@ -179,7 +179,7 @@
 
  __Study on Check-Related Fraud__ 
 
-[Pub. L. 103–325, title III, § 333][/us/pl/103/325/s333], Sept. 23, 1994, [108 Stat. 2233][/us/stat/108/2233], provided that:
+[Pub. L. 103–325, title III][/us/pl/103/325/tIII], § 333, Sept. 23, 1994, [108 Stat. 2233][/us/stat/108/2233], provided that:
 
 >     “(a)  __Study__  __.—__ 
 
@@ -199,7 +199,7 @@
 
  __Feasibility Study of Data Bank__ 
 
-[Pub. L. 103–325, title III, § 341][/us/pl/103/325/s341], Sept. 23, 1994, [108 Stat. 2238][/us/stat/108/2238], provided that:
+[Pub. L. 103–325, title III][/us/pl/103/325/tIII], § 341, Sept. 23, 1994, [108 Stat. 2238][/us/stat/108/2238], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -219,13 +219,13 @@
 
  __Timely Completion of CRA Review__ 
 
-[Pub. L. 103–325, title III, § 342][/us/pl/103/325/s342], Sept. 23, 1994, [108 Stat. 2238][/us/stat/108/2238], provided that: 
+[Pub. L. 103–325, title III][/us/pl/103/325/tIII], § 342, Sept. 23, 1994, [108 Stat. 2238][/us/stat/108/2238], provided that: 
 
 > “The comprehensive regulatory review of the Community Reinvestment Act of 1977 \[[12 U.S.C. 2901][/us/usc/t12/s2901] et seq.\] that, as of the date of enactment of this Act \[Sept. 23, 1994\], is being conducted by the Federal banking agencies, shall be completed at the earliest practicable time.”
 
  __Waiver of Right of Rescission for Certain Refinancing Transactions__ 
 
-[Pub. L. 103–325, title III, § 344][/us/pl/103/325/s344], Sept. 23, 1994, [108 Stat. 2239][/us/stat/108/2239], provided that: 
+[Pub. L. 103–325, title III][/us/pl/103/325/tIII], § 344, Sept. 23, 1994, [108 Stat. 2239][/us/stat/108/2239], provided that: 
 
 > “Not later than 6 months after the date of enactment of this Act \[Sept. 23, 1994\], the Board of Governors of the Federal Reserve System, in consultation with the consumer advisory council to such Board, consumers, representatives of consumers, lenders, and other interested parties, shall submit recommendations to the Congress regarding whether a waiver or modification, at the option of a consumer, of the right of rescission under section 125 of the Truth in Lending Act \[[15 U.S.C. 1635][/us/usc/t15/s1635]\] with respect to transactions which constitute a refinancing or consolidation (with no new advances) of the principal balance then due, and any accrued and unpaid finance charges of an existing extension of credit by a different creditor secured by an interest in the same property, would benefit consumers.”
 
@@ -238,36 +238,36 @@
 
 [/us/usc/t12/s1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813
 [/us/usc/t12/s1752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1752
-[/us/pl/103/325/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs301
+[/us/pl/103/325/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtIII
 [/us/stat/108/2214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2214
 [/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
 [/us/stat/108/2214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2214
 [/us/usc/t31/s5329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5329
-[/us/pl/106/102/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs108
+[/us/pl/106/102/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtI
 [/us/stat/113/1361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1361
 [/us/usc/t12/s1841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1841
 [/us/usc/t12/s1813/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813%2Fc
-[/us/pl/106/102/s729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs729
+[/us/pl/106/102/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtVII
 [/us/stat/113/1476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1476
 [/us/usc/t12/s1813/z]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813%2Fz
-[/us/pl/105/219/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F219%2Fs403
+[/us/pl/105/219/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F219%2FtIV
 [/us/stat/112/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F935
-[/us/pl/103/325/s328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs328
+[/us/pl/103/325/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtIII
 [/us/stat/108/2230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2230
-[/us/pl/103/325/s329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs329
+[/us/pl/103/325/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtIII
 [/us/stat/108/2230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2230
-[/us/pl/103/325/s330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs330
+[/us/pl/103/325/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtIII
 [/us/stat/108/2231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2231
-[/us/pl/103/325/s333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs333
+[/us/pl/103/325/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtIII
 [/us/stat/108/2233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2233
 [/us/usc/t12/s4002/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4002%2Fb%2F1
 [/us/usc/t12/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4001
-[/us/pl/103/325/s341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs341
+[/us/pl/103/325/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtIII
 [/us/stat/108/2238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2238
-[/us/pl/103/325/s342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs342
+[/us/pl/103/325/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtIII
 [/us/stat/108/2238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2238
 [/us/usc/t12/s2901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2901
-[/us/pl/103/325/s344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs344
+[/us/pl/103/325/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtIII
 [/us/stat/108/2239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2239
 [/us/usc/t15/s1635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1635
 

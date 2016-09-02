@@ -59,11 +59,11 @@
 
         If an application for assistance under subsections  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “subsection”. </sup></sup>  (d) or (e) is denied, the applicant shall have the right to appeal the denial to the Secretary and receive a binding determination within 30 days of the appeal.
 
-([Pub. L. 100–242, title II, § 253][/us/pl/100/242/s253], as added [Pub. L. 102–550, title III, § 312][/us/pl/102/550/s312], Oct. 28, 1992, [106 Stat. 3766][/us/stat/106/3766].)
+([Pub. L. 100–242, title II][/us/pl/100/242/tII], § 253, as added [Pub. L. 102–550, title III][/us/pl/102/550/tIII], § 312, Oct. 28, 1992, [106 Stat. 3766][/us/stat/106/3766].)
 
  __References in Text__ 
 
-    Title II of the Emergency Low Income Housing Preservation Act of 1987, referred to in subsec. (d)(2), probably means title II of [Pub. L. 100–242][/us/pl/100/242], Feb. 5, 1988, [102 Stat. 1877][/us/stat/102/1877], prior to being amended generally by [Pub. L. 101–625, § 601(a)][/us/pl/101/625/s601/a], which was known as the Emergency Low Income Housing Preservation Act of 1987 and which was classified principally as a note under section 1715l of this title. Title II of [Pub. L. 100–242][/us/pl/100/242] was amended generally by [Pub. L. 101–625, title VI, § 601(a)][/us/pl/101/625/s601/a], Nov. 28, 1990, [104 Stat. 4249][/us/stat/104/4249], and is now known as the Low-Income Housing Preservation and Resident Homeownership Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 4101 of this title][/us/usc/t12/s4101] and Tables.
+    Title II of the Emergency Low Income Housing Preservation Act of 1987, referred to in subsec. (d)(2), probably means title II of [Pub. L. 100–242][/us/pl/100/242], Feb. 5, 1988, [102 Stat. 1877][/us/stat/102/1877], prior to being amended generally by [Pub. L. 101–625][/us/pl/101/625], § 601(a), which was known as the Emergency Low Income Housing Preservation Act of 1987 and which was classified principally as a note under section 1715l of this title. Title II of [Pub. L. 100–242][/us/pl/100/242] was amended generally by [Pub. L. 101–625, title VI][/us/pl/101/625/tVI], § 601(a), Nov. 28, 1990, [104 Stat. 4249][/us/stat/104/4249], and is now known as the Low-Income Housing Preservation and Resident Homeownership Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 4101 of this title][/us/usc/t12/s4101] and Tables.
 
     Section 604 of the Cranston-Gonzalez National Affordable Housing Act, referred to in subsec. (d)(2), is [section 604 of Pub. L. 101–625][/us/pl/101/625/s604], which is set out as a note under [section 4101 of this title][/us/usc/t12/s4101].
 
@@ -77,14 +77,14 @@
 [/us/usc/t12/s4110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4110
 [/us/usc/t12/s4145/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4145%2Fb
 [/us/usc/t12/s4145/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4145%2Fb
-[/us/pl/100/242/s253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs253
-[/us/pl/102/550/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs312
+[/us/pl/100/242/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtII
+[/us/pl/102/550/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtIII
 [/us/stat/106/3766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3766
 [/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
 [/us/stat/102/1877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1877
-[/us/pl/101/625/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs601%2Fa
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
 [/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
-[/us/pl/101/625/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs601%2Fa
+[/us/pl/101/625/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtVI
 [/us/stat/104/4249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4249
 [/us/usc/t12/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4101
 [/us/pl/101/625/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs604

@@ -45,7 +45,7 @@
 
         When a mortgage foreclosed pursuant to this chapter is conveyed to the Secretary, no tax shall be imposed or collected with respect to the foreclosure commissioner’s deed (including any tax customarily imposed upon the deed instrument or upon the conveyance or transfer of title to the property). Failure to collect or pay a tax of the type and under the circumstances stated in the preceding sentence shall not be grounds for refusing to record such a deed, for failing to recognize such recordation as imparting notice, or for denying the enforcement of such a deed and its provisions in any State or Federal court.
 
-([Pub. L. 103–327, title II][/us/pl/103/327], Sept. 28, 1994, [108 Stat. 2316][/us/stat/108/2316].)
+([Pub. L. 103–327, title II][/us/pl/103/327/tII], Sept. 28, 1994, [108 Stat. 2316][/us/stat/108/2316].)
 
  __Codification__ 
 
@@ -60,7 +60,7 @@
 
 [/us/usc/t12/s3765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3765
 [/us/usc/t42/s1452c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1452c
-[/us/pl/103/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F327
+[/us/pl/103/327/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F327%2FtII
 [/us/stat/108/2316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2316
 [/us/pl/103/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F327
 

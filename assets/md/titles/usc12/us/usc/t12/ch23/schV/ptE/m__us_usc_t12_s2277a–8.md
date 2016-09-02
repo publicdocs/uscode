@@ -69,17 +69,17 @@
 
         The examiners appointed by the Board of Directors shall cooperate to the maximum extent possible with examiners of the Farm Credit Administration to minimize duplication of effort and minimize costs.
 
-([Pub. L. 92–181, title V, § 5][/us/pl/92/181/s5].59, as added [Pub. L. 100–233, title III, § 302][/us/pl/100/233/s302], Jan. 6, 1988, [101 Stat. 1615][/us/stat/101/1615]; amended [Pub. L. 101–220, § 6(b)(3)][/us/pl/101/220/s6/b/3], Dec. 12, 1989, [103 Stat. 1880][/us/stat/103/1880]; [Pub. L. 102–552, title II, § 203][/us/pl/102/552/s203], title V, § 513(a), Oct. 28, 1992, [106 Stat. 4106][/us/stat/106/4106], 4133; [Pub. L. 104–105, title II, § 216][/us/pl/104/105/s216], Feb. 10, 1996, [110 Stat. 179][/us/stat/110/179].)
+([Pub. L. 92–181, title V][/us/pl/92/181/tV], § 5.59, as added [Pub. L. 100–233, title III][/us/pl/100/233/tIII], § 302, Jan. 6, 1988, [101 Stat. 1615][/us/stat/101/1615]; amended [Pub. L. 101–220][/us/pl/101/220], § 6(b)(3), Dec. 12, 1989, [103 Stat. 1880][/us/stat/103/1880]; [Pub. L. 102–552, title II][/us/pl/102/552/tII], § 203, title V, § 513(a), Oct. 28, 1992, [106 Stat. 4106][/us/stat/106/4106], 4133; [Pub. L. 104–105, title II][/us/pl/104/105/tII], § 216, Feb. 10, 1996, [110 Stat. 179][/us/stat/110/179].)
 
  __Amendments__ 
 
     1996—Subsec. (b)(1)(A). [Pub. L. 104–105][/us/pl/104/105] inserted at end “Notwithstanding any other provision of this chapter, on cancellation of the charter of a System institution, the Corporation shall have authority to examine the system institution in receivership. An examination shall be performed at such intervals as the Corporation shall determine.”
 
-    1992—[Pub. L. 102–552, § 513(a)(1)][/us/pl/102/552/s513/a/1], substituted “System institutions” for “insured System banks” in section catchline.
+    1992—[Pub. L. 102–552][/us/pl/102/552], § 513(a)(1), substituted “System institutions” for “insured System banks” in section catchline.
 
-    Subsec. (a)(5). [Pub. L. 102–552, § 203][/us/pl/102/552/s203], added par. (5).
+    Subsec. (a)(5). [Pub. L. 102–552][/us/pl/102/552], § 203, added par. (5).
 
-    Subsec. (b). [Pub. L. 102–552, § 513(a)(2)][/us/pl/102/552/s513/a/2], added subsec. (b) and struck out former subsec. (b) which read as follows: “(b) Examination of Insured System Banks.—
+    Subsec. (b). [Pub. L. 102–552][/us/pl/102/552], § 513(a)(2), added subsec. (b) and struck out former subsec. (b) which read as follows: “(b) Examination of Insured System Banks.—
 
     “(1) Appointment of examiners.—The Board of Directors may appoint examiners who may, on behalf of the Corporation, examine any insured System bank, any production credit association, any other association making direct loans under authority provided under [section 2279b of this title][/us/usc/t12/s2279b], and any System institution in receivership, if in the judgment of the Board of Directors an examination of the institution is necessary.
 
@@ -101,19 +101,19 @@
 ----------
 
 [/us/usc/t12/s2279b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2279b
-[/us/pl/92/181/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs5
-[/us/pl/100/233/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs302
+[/us/pl/92/181/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtV
+[/us/pl/100/233/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtIII
 [/us/stat/101/1615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1615
-[/us/pl/101/220/s6/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F220%2Fs6%2Fb%2F3
+[/us/pl/101/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F220
 [/us/stat/103/1880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1880
-[/us/pl/102/552/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2Fs203
+[/us/pl/102/552/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2FtII
 [/us/stat/106/4106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4106
-[/us/pl/104/105/s216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2Fs216
+[/us/pl/104/105/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2FtII
 [/us/stat/110/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F179
 [/us/pl/104/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105
-[/us/pl/102/552/s513/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2Fs513%2Fa%2F1
-[/us/pl/102/552/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2Fs203
-[/us/pl/102/552/s513/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2Fs513%2Fa%2F2
+[/us/pl/102/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552
+[/us/pl/102/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552
+[/us/pl/102/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552
 [/us/usc/t12/s2279b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2279b
 [/us/pl/101/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F220
 [/us/usc/t12/s2279b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2279b

@@ -21,7 +21,7 @@
 
     (2) consult with the Comptroller of the Currency, the Chairperson of the Corporation, or the Chairman of the Board of Governors, as appropriate, to coordinate and facilitate a prompt and orderly transition.
 
-([Pub. L. 111–203, title III, § 326][/us/pl/111/203/s326], July 21, 2010, [124 Stat. 1537][/us/stat/124/1537].)
+([Pub. L. 111–203, title III][/us/pl/111/203/tIII], § 326, July 21, 2010, [124 Stat. 1537][/us/stat/124/1537].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/111/203/s326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs326
+[/us/pl/111/203/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIII
 [/us/stat/124/1537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1537
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1520

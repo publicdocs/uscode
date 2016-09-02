@@ -31,15 +31,15 @@
 
     (g) The term “real estate” means land and all natural resources and structures permanently affixed to the land, including residential buildings and stationary manufactured housing. The Secretary may not require, for treatment of any land or other property as real estate for purposes of this subchapter, that such land or property be treated as real estate for purposes of State taxation.
 
-([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title II, § 201, [48 Stat. 1247][/us/stat/48/1247]; [Feb. 3, 1938, ch. 13, § 3][/us/act/1938-02-03/ch13/s3], [52 Stat. 9][/us/stat/52/9]; [Mar. 28, 1941, ch. 31, § 4(a)][/us/act/1941-03-28/ch31/s4/a], [55 Stat. 61][/us/stat/55/61]; [Apr. 20, 1950, ch. 94][/us/act/1950-04-20/ch94], title I, § 122, [64 Stat. 59][/us/stat/64/59]; [July 14, 1952, ch. 723, § 10(a)(2)][/us/act/1952-07-14/ch723/s10/a/2], [66 Stat. 603][/us/stat/66/603]; [Pub. L. 86–70, § 10(a)][/us/pl/86/70/s10/a], June 25, 1959, [73 Stat. 142][/us/stat/73/142]; [Pub. L. 86–624, § 6][/us/pl/86/624/s6], July 12, 1960, [74 Stat. 411][/us/stat/74/411]; [Pub. L. 90–19, § 1(a)(3)][/us/pl/90/19/s1/a/3], May 25, 1967, [81 Stat. 17][/us/stat/81/17]; [Pub. L. 91–152, title IV, § 403(c)(1)][/us/pl/91/152/s403/c/1], Dec. 24, 1969, [83 Stat. 395][/us/stat/83/395]; [Pub. L. 96–399, title III, § 306][/us/pl/96/399/s306], Oct. 8, 1980, [94 Stat. 1640][/us/stat/94/1640]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title IV, § 407(b)\], Nov. 30, 1983, [97 Stat. 1211][/us/stat/97/1211]; [Pub. L. 104–204, title IV, § 425(b)][/us/pl/104/204/s425/b], Sept. 26, 1996, [110 Stat. 2928][/us/stat/110/2928]; [Pub. L. 110–289, div. B, title I][/us/pl/110/289], §§ 2117(b), (c), 2120(c), July 30, 2008, [122 Stat. 2833][/us/stat/122/2833], 2835.)
+([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title II, § 201, [48 Stat. 1247][/us/stat/48/1247]; [Feb. 3, 1938, ch. 13][/us/act/1938-02-03/ch13], § 3, [52 Stat. 9][/us/stat/52/9]; [Mar. 28, 1941, ch. 31][/us/act/1941-03-28/ch31], § 4(a), [55 Stat. 61][/us/stat/55/61]; [Apr. 20, 1950, ch. 94][/us/act/1950-04-20/ch94], title I, § 122, [64 Stat. 59][/us/stat/64/59]; [July 14, 1952, ch. 723][/us/act/1952-07-14/ch723], § 10(a)(2), [66 Stat. 603][/us/stat/66/603]; [Pub. L. 86–70][/us/pl/86/70], § 10(a), June 25, 1959, [73 Stat. 142][/us/stat/73/142]; [Pub. L. 86–624][/us/pl/86/624], § 6, July 12, 1960, [74 Stat. 411][/us/stat/74/411]; [Pub. L. 90–19][/us/pl/90/19], § 1(a)(3), May 25, 1967, [81 Stat. 17][/us/stat/81/17]; [Pub. L. 91–152, title IV][/us/pl/91/152/tIV], § 403(c)(1), Dec. 24, 1969, [83 Stat. 395][/us/stat/83/395]; [Pub. L. 96–399, title III][/us/pl/96/399/tIII], § 306, Oct. 8, 1980, [94 Stat. 1640][/us/stat/94/1640]; [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title IV, § 407(b)\], Nov. 30, 1983, [97 Stat. 1211][/us/stat/97/1211]; [Pub. L. 104–204, title IV][/us/pl/104/204/tIV], § 425(b), Sept. 26, 1996, [110 Stat. 2928][/us/stat/110/2928]; [Pub. L. 110–289, div. B, title I][/us/pl/110/289/dB/tI], §§ 2117(b), (c), 2120(c), July 30, 2008, [122 Stat. 2833][/us/stat/122/2833], 2835.)
 
  __Amendments__ 
 
-    2008—Subsec. (a). [Pub. L. 110–289, § 2117(b)][/us/pl/110/289/s2117/b], inserted “(A)” before “a first mortgage”, substituted “(B) a first mortgage on a leasehold on real estate (i)” for “or on a leasehold (1)” and “, or (ii)” for “or (2)”, and inserted “, or (C) a first mortgage given to secure the unpaid purchase price of a fee interest in, or long-term leasehold interest in, real estate consisting of a one-family unit in a multifamily project, including a project in which the dwelling units are attached, or are manufactured housing units, semi-detached, or detached, and an undivided interest in the common areas and facilities which serve the project” before semicolon.
+    2008—Subsec. (a). [Pub. L. 110–289][/us/pl/110/289], § 2117(b), inserted “(A)” before “a first mortgage”, substituted “(B) a first mortgage on a leasehold on real estate (i)” for “or on a leasehold (1)” and “, or (ii)” for “or (2)”, and inserted “, or (C) a first mortgage given to secure the unpaid purchase price of a fee interest in, or long-term leasehold interest in, real estate consisting of a one-family unit in a multifamily project, including a project in which the dwelling units are attached, or are manufactured housing units, semi-detached, or detached, and an undivided interest in the common areas and facilities which serve the project” before semicolon.
 
-    Subsec. (d). [Pub. L. 110–289, § 2120(c)][/us/pl/110/289/s2120/c], substituted “the Commonwealth of the Northern Mariana Islands” for “the Trust Territory of the Pacific Islands”.
+    Subsec. (d). [Pub. L. 110–289][/us/pl/110/289], § 2120(c), substituted “the Commonwealth of the Northern Mariana Islands” for “the Trust Territory of the Pacific Islands”.
 
-    Subsec. (g). [Pub. L. 110–289, § 2117(c)][/us/pl/110/289/s2117/c], added subsec. (g).
+    Subsec. (g). [Pub. L. 110–289][/us/pl/110/289], § 2117(c), added subsec. (g).
 
     1996—Subsecs. (e), (f). [Pub. L. 104–204][/us/pl/104/204] added subsecs. (e) and (f).
 
@@ -69,13 +69,13 @@
 
  __Improvement of Financing for Multifamily Housing__ 
 
-    [Pub. L. 102–550, title V][/us/pl/102/550], subtitle C, Oct. 28, 1992, [106 Stat. 3794][/us/stat/106/3794], which related to improvement of financing for multifamily housing and was formerly set out as a note under this section, was transferred or omitted as follows:
+    [Pub. L. 102–550, title V][/us/pl/102/550/tV], subtitle C, Oct. 28, 1992, [106 Stat. 3794][/us/stat/106/3794], which related to improvement of financing for multifamily housing and was formerly set out as a note under this section, was transferred or omitted as follows:
 
     [Section 541 of Pub. L. 102–550][/us/pl/102/550/s541] was transferred and is set out as a note under [section 1701 of this title][/us/usc/t12/s1701];
 
     [Section 542 of Pub. L. 102–550][/us/pl/102/550/s542] was transferred to [section 1715z–22 of this title][/us/usc/t12/s1715z–22];
 
-    [Section 543 of Pub. L. 102–550][/us/pl/102/550/s543], as amended by [Pub. L. 111–203, title III, § 371][/us/pl/111/203/s371], July 21, 2010, [124 Stat. 1565][/us/stat/124/1565], was omitted from the Code;
+    [Section 543 of Pub. L. 102–550][/us/pl/102/550/s543], as amended by [Pub. L. 111–203, title III][/us/pl/111/203/tIII], § 371, July 21, 2010, [124 Stat. 1565][/us/stat/124/1565], was omitted from the Code;
 
     [Section 544 of Pub. L. 102–550][/us/pl/102/550/s544] was transferred to [section 1715z–22a of this title][/us/usc/t12/s1715z–22a].
 
@@ -89,33 +89,33 @@
 [/us/usc/t12/s1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1709
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
 [/us/stat/48/1247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1247
-[/us/act/1938-02-03/ch13/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-03%2Fch13%2Fs3
+[/us/act/1938-02-03/ch13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-03%2Fch13
 [/us/stat/52/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F9
-[/us/act/1941-03-28/ch31/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-03-28%2Fch31%2Fs4%2Fa
+[/us/act/1941-03-28/ch31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-03-28%2Fch31
 [/us/stat/55/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F61
 [/us/act/1950-04-20/ch94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-04-20%2Fch94
 [/us/stat/64/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F59
-[/us/act/1952-07-14/ch723/s10/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-14%2Fch723%2Fs10%2Fa%2F2
+[/us/act/1952-07-14/ch723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-14%2Fch723
 [/us/stat/66/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F603
-[/us/pl/86/70/s10/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70%2Fs10%2Fa
+[/us/pl/86/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70
 [/us/stat/73/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F142
-[/us/pl/86/624/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624%2Fs6
+[/us/pl/86/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624
 [/us/stat/74/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F411
-[/us/pl/90/19/s1/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19%2Fs1%2Fa%2F3
+[/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
 [/us/stat/81/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F17
-[/us/pl/91/152/s403/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F152%2Fs403%2Fc%2F1
+[/us/pl/91/152/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F152%2FtIV
 [/us/stat/83/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F395
-[/us/pl/96/399/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs306
+[/us/pl/96/399/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2FtIII
 [/us/stat/94/1640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1640
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1211
-[/us/pl/104/204/s425/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2Fs425%2Fb
+[/us/pl/104/204/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2FtIV
 [/us/stat/110/2928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2928
-[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdB%2FtI
 [/us/stat/122/2833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2833
-[/us/pl/110/289/s2117/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs2117%2Fb
-[/us/pl/110/289/s2120/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs2120%2Fc
-[/us/pl/110/289/s2117/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs2117%2Fc
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
 [/us/pl/104/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204
 [/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
 [/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
@@ -123,14 +123,14 @@
 [/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
 [/us/pl/86/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624
 [/us/pl/86/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70
-[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtV
 [/us/stat/106/3794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3794
 [/us/pl/102/550/s541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs541
 [/us/usc/t12/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701
 [/us/pl/102/550/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs542
 [/us/usc/t12/s1715z–22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715z%E2%80%9322
 [/us/pl/102/550/s543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs543
-[/us/pl/111/203/s371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs371
+[/us/pl/111/203/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIII
 [/us/stat/124/1565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1565
 [/us/pl/102/550/s544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs544
 [/us/usc/t12/s1715z–22a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715z%E2%80%9322a

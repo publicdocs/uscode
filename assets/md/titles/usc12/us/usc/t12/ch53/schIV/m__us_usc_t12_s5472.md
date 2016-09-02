@@ -25,7 +25,7 @@
 
     (4) improving regulators’ ability to monitor the potential effects of designated clearing entity risk management on the stability of the financial system of the United States.
 
-([Pub. L. 111–203, title VIII, § 813][/us/pl/111/203/s813], July 21, 2010, [124 Stat. 1821][/us/stat/124/1821].)
+([Pub. L. 111–203, title VIII][/us/pl/111/203/tVIII], § 813, July 21, 2010, [124 Stat. 1821][/us/stat/124/1821].)
 
 ----------
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/111/203/s813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs813
+[/us/pl/111/203/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVIII
 [/us/stat/124/1821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1821
 
 

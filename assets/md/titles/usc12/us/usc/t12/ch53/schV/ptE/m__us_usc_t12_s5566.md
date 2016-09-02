@@ -17,7 +17,7 @@
 
     If the Bureau obtains evidence that any person, domestic or foreign, has engaged in conduct that may constitute a violation of Federal criminal law, the Bureau shall transmit such evidence to the Attorney General of the United States, who may institute criminal proceedings under appropriate law. Nothing in this section affects any other authority of the Bureau to disclose information.
 
-([Pub. L. 111–203, title X, § 1056][/us/pl/111/203/s1056], July 21, 2010, [124 Stat. 2031][/us/stat/124/2031].)
+([Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1056, July 21, 2010, [124 Stat. 2031][/us/stat/124/2031].)
 
  __Effective Date__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/111/203/s1056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1056
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2031
 [/us/pl/111/203/s1058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1058
 [/us/usc/t12/s5561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5561

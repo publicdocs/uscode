@@ -17,7 +17,7 @@
 
     In carrying out the provisions of subchapter II of this chapter with respect to insuring mortgages secured by a one- to four-family dwelling unit, the Secretary may not deny such insurance for any such mortgage solely because the dwelling unit which secures such mortgage will be subject to a secondary mortgage or loan made or insured, or other secondary lien held, by any State or local governmental agency or instrumentality under terms and conditions approved by the Secretary.
 
-([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title V, § 528, as added [Pub. L. 95–557, title III, § 323][/us/pl/95/557/s323], Oct. 31, 1978, [92 Stat. 2102][/us/stat/92/2102].)
+([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title V, § 528, as added [Pub. L. 95–557, title III][/us/pl/95/557/tIII], § 323, Oct. 31, 1978, [92 Stat. 2102][/us/stat/92/2102].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
-[/us/pl/95/557/s323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2Fs323
+[/us/pl/95/557/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2FtIII
 [/us/stat/92/2102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2102
 
 

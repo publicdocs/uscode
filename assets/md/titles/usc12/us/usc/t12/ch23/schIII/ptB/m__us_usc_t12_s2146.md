@@ -17,7 +17,7 @@
 
     In accordance with [section 2154a of this title][/us/usc/t12/s2154a], each consolidated bank shall provide, through bylaws and subject to Farm Credit Administration regulations, for the capitalization of the bank and the manner in which bank stock shall be issued, held, transferred, and retired and bank earnings distributed.
 
-([Pub. L. 92–181, title III, § 3][/us/pl/92/181/s3].25, as added [Pub. L. 100–233, title IV, § 415(2)][/us/pl/100/233/s415/2], Jan. 6, 1988, [101 Stat. 1644][/us/stat/101/1644]; amended [Pub. L. 100–399, title IV, § 407(f)][/us/pl/100/399/s407/f], Aug. 17, 1988, [102 Stat. 1000][/us/stat/102/1000].)
+([Pub. L. 92–181, title III][/us/pl/92/181/tIII], § 3.25, as added [Pub. L. 100–233, title IV][/us/pl/100/233/tIV], § 415(2), Jan. 6, 1988, [101 Stat. 1644][/us/stat/101/1644]; amended [Pub. L. 100–399, title IV][/us/pl/100/399/tIV], § 407(f), Aug. 17, 1988, [102 Stat. 1000][/us/stat/102/1000].)
 
  __Amendments__ 
 
@@ -35,10 +35,10 @@
 ----------
 
 [/us/usc/t12/s2154a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2154a
-[/us/pl/92/181/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs3
-[/us/pl/100/233/s415/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs415%2F2
+[/us/pl/92/181/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtIII
+[/us/pl/100/233/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtIV
 [/us/stat/101/1644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1644
-[/us/pl/100/399/s407/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs407%2Ff
+[/us/pl/100/399/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtIV
 [/us/stat/102/1000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1000
 [/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/usc/t12/s2154a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2154a

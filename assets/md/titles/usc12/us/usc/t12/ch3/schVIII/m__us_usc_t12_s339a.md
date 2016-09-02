@@ -33,11 +33,11 @@
 
         The Board (in the case of an uninsured State member bank which operates, or operates as, such a multilateral clearing organization) may direct a conservator or receiver appointed for the bank to file a petition pursuant to title 11, in which case, title 11 shall apply to the bank in lieu of otherwise applicable Federal or State insolvency law.
 
-([Dec. 13, 1913, ch. 6, § 9B][/us/act/1913-12-13/ch6/s9B], as added [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title I, § 112(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–392.)
+([Dec. 13, 1913, ch. 6][/us/act/1913-12-13/ch6], § 9B, as added [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title I, § 112(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–392.)
 
  __References in Text__ 
 
-    [Section 4422 of this title][/us/usc/t12/s4422], referred to in subsec. (a)(1), was repealed by [Pub. L. 111–203, title VII, § 740][/us/pl/111/203/s740], July 21, 2010, [124 Stat. 1729][/us/stat/124/1729].
+    [Section 4422 of this title][/us/usc/t12/s4422], referred to in subsec. (a)(1), was repealed by [Pub. L. 111–203, title VII][/us/pl/111/203/tVII], § 740, July 21, 2010, [124 Stat. 1729][/us/stat/124/1729].
 
  __Codification__ 
 
@@ -50,11 +50,11 @@
 ----------
 ----------
 
-[/us/act/1913-12-13/ch6/s9B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-13%2Fch6%2Fs9B
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/act/1913-12-13/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-13%2Fch6
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/usc/t12/s4422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4422
-[/us/pl/111/203/s740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs740
+[/us/pl/111/203/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVII
 [/us/stat/124/1729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1729
 
 

@@ -17,7 +17,7 @@
 
     Each production credit association and each Federal land bank association shall elect a nominating committee by vote of the stockholders at the annual meeting to serve for the following year. Each nominating committee shall review lists of farmers from the association territory, determine their willingness to serve, and submit for election a slate of eligible candidates which shall include at least two nominees for each elective office to be filled. In doing so, the committee shall endeavor to assure representation to all sections of the association territory and as nearly as possible to all types of agriculture practiced within the area. Employees of the association shall not be eligible to be nominated, elected, or serve as a member of the board. Nominations shall also be accepted from the floor. Members of the board are not eligible to serve on the nominating committee. Regulations of the Farm Credit Administration governing the election of bank directors shall similarly assure a choice of two nominees for each elective office to be filled and that the bank board represent as nearly as possible all types of agriculture in the district.
 
-([Pub. L. 92–181, title IV, § 4][/us/pl/92/181/s4].15, Dec. 10, 1971, [85 Stat. 613][/us/stat/85/613]; [Pub. L. 100–399, title IX, § 901(g)][/us/pl/100/399/s901/g], Aug. 17, 1988, [102 Stat. 1007][/us/stat/102/1007].)
+([Pub. L. 92–181, title IV][/us/pl/92/181/tIV], § 4.15, Dec. 10, 1971, [85 Stat. 613][/us/stat/85/613]; [Pub. L. 100–399, title IX][/us/pl/100/399/tIX], § 901(g), Aug. 17, 1988, [102 Stat. 1007][/us/stat/102/1007].)
 
  __Amendments__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/92/181/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs4
+[/us/pl/92/181/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtIV
 [/us/stat/85/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F613
-[/us/pl/100/399/s901/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs901%2Fg
+[/us/pl/100/399/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtIX
 [/us/stat/102/1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1007
 [/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399

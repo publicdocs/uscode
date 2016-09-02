@@ -17,7 +17,7 @@
 
     The Secretary shall not consent to any request for an extension of the time for curing a default under any mortgage covering multifamily housing, as defined in the regulations of the Secretary, or for a modification of the terms of such mortgage, except in conformity with regulations prescribed by the Secretary in accordance with the provisions of this section. Such regulations shall require, as a condition to the granting of any such request, that, during the period of such extension or modification, any part of the rents or other funds derived by the mortgagor from the property covered by the mortgage which is not required to meet actual and necessary expenses arising in connection with the operation of such property, including amortization charges under the mortgage, be held in trust by the mortgagor and distributed only with the consent of the Secretary; except that the Secretary may provide for the granting of consent to any request for an extension of the time for curing a default under any mortgage covering multifamily housing, or for a modification of the term of such mortgage, without regard to the foregoing requirement, in any case or class of cases in which an exemption from such requirement does not (as determined by the Secretary) jeopardize the interests of the United States.
 
-([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title II, § 239, as added [Pub. L. 90–448, title III, § 302][/us/pl/90/448/s302], Aug. 1, 1968, [82 Stat. 506][/us/stat/82/506]; amended [Pub. L. 100–242, title IV, § 416(c)][/us/pl/100/242/s416/c], Feb. 5, 1988, [101 Stat. 1908][/us/stat/101/1908].)
+([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title II, § 239, as added [Pub. L. 90–448, title III][/us/pl/90/448/tIII], § 302, Aug. 1, 1968, [82 Stat. 506][/us/stat/82/506]; amended [Pub. L. 100–242, title IV][/us/pl/100/242/tIV], § 416(c), Feb. 5, 1988, [101 Stat. 1908][/us/stat/101/1908].)
 
  __Amendments__ 
 
@@ -31,9 +31,9 @@
 ----------
 
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
-[/us/pl/90/448/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs302
+[/us/pl/90/448/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2FtIII
 [/us/stat/82/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F506
-[/us/pl/100/242/s416/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs416%2Fc
+[/us/pl/100/242/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtIV
 [/us/stat/101/1908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1908
 [/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
 

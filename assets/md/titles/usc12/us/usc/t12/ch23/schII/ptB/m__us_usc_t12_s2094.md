@@ -17,11 +17,11 @@
 
     In accordance with [section 2154a of this title][/us/usc/t12/s2154a], the Federal land bank association shall provide, through its bylaws and subject to Farm Credit Administration regulations, for its capitalization and the manner in which its stock shall be issued, held, transferred, and retired and its earnings distributed.
 
-([Pub. L. 92–181, title II, § 2][/us/pl/92/181/s2].13, as added [Pub. L. 100–233, title IV, § 401][/us/pl/100/233/s401], Jan. 6, 1988, [101 Stat. 1636][/us/stat/101/1636].)
+([Pub. L. 92–181, title II][/us/pl/92/181/tII], § 2.13, as added [Pub. L. 100–233, title IV][/us/pl/100/233/tIV], § 401, Jan. 6, 1988, [101 Stat. 1636][/us/stat/101/1636].)
 
  __Prior Provisions__ 
 
-    A prior section 2094, [Pub. L. 92–181, title II, § 2][/us/pl/92/181/s2].13, Dec. 10, 1971, [85 Stat. 599][/us/stat/85/599]; [Pub. L. 96–592, title II, § 209][/us/pl/96/592/s209], Dec. 24, 1980, [94 Stat. 3442][/us/stat/94/3442]; [Pub. L. 99–205, title II, § 205(e)(12)][/us/pl/99/205/s205/e/12]–(14), title III, § 304(b), Dec. 23, 1985, [99 Stat. 1705][/us/stat/99/1705], 1708; [Pub. L. 100–233, title VIII, § 805(h)][/us/pl/100/233/s805/h], Jan. 6, 1988, [101 Stat. 1715][/us/stat/101/1715], related to stock and participation certificates, prior to the general amendment of this subchapter by [Pub. L. 100–233, § 401][/us/pl/100/233/s401].
+    A prior section 2094, [Pub. L. 92–181, title II][/us/pl/92/181/tII], § 2.13, Dec. 10, 1971, [85 Stat. 599][/us/stat/85/599]; [Pub. L. 96–592, title II][/us/pl/96/592/tII], § 209, Dec. 24, 1980, [94 Stat. 3442][/us/stat/94/3442]; [Pub. L. 99–205, title II][/us/pl/99/205/tII], § 205(e)(12)–(14), title III, § 304(b), Dec. 23, 1985, [99 Stat. 1705][/us/stat/99/1705], 1708; [Pub. L. 100–233, title VIII][/us/pl/100/233/tVIII], § 805(h), Jan. 6, 1988, [101 Stat. 1715][/us/stat/101/1715], related to stock and participation certificates, prior to the general amendment of this subchapter by [Pub. L. 100–233][/us/pl/100/233], § 401.
 
 ----------
 
@@ -31,17 +31,17 @@
 ----------
 
 [/us/usc/t12/s2154a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2154a
-[/us/pl/92/181/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs2
-[/us/pl/100/233/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs401
+[/us/pl/92/181/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtII
+[/us/pl/100/233/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtIV
 [/us/stat/101/1636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1636
-[/us/pl/92/181/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs2
+[/us/pl/92/181/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtII
 [/us/stat/85/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F599
-[/us/pl/96/592/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592%2Fs209
+[/us/pl/96/592/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592%2FtII
 [/us/stat/94/3442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3442
-[/us/pl/99/205/s205/e/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2Fs205%2Fe%2F12
+[/us/pl/99/205/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2FtII
 [/us/stat/99/1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1705
-[/us/pl/100/233/s805/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs805%2Fh
+[/us/pl/100/233/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtVIII
 [/us/stat/101/1715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1715
-[/us/pl/100/233/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs401
+[/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
 
 

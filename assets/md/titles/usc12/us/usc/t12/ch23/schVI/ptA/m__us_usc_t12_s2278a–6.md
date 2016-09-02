@@ -81,19 +81,19 @@
 
         During the 5-year period beginning on January 6, 1988, the Assistance Board, in coordination with the Financial Assistance Corporation, shall report annually to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate on the extent to which System institutions translate the savings in the cost of the operations of such institutions due to the Federal assistance provided to the System under this subchapter into lower interest rates charged to System borrowers or enhanced financial solvency of such institutions.
 
-([Pub. L. 92–181, title VI, § 6][/us/pl/92/181/s6].6, as added [Pub. L. 100–233, title II, § 201][/us/pl/100/233/s201], Jan. 6, 1988, [101 Stat. 1589][/us/stat/101/1589]; amended [Pub. L. 100–399, title II, § 201(f)][/us/pl/100/399/s201/f]–(i), Aug. 17, 1988, [102 Stat. 991][/us/stat/102/991]; [Pub. L. 101–624, title XVIII, § 1843(a)(2)][/us/pl/101/624/s1843/a/2], Nov. 28, 1990, [104 Stat. 3836][/us/stat/104/3836].)
+([Pub. L. 92–181, title VI][/us/pl/92/181/tVI], § 6.6, as added [Pub. L. 100–233, title II][/us/pl/100/233/tII], § 201, Jan. 6, 1988, [101 Stat. 1589][/us/stat/101/1589]; amended [Pub. L. 100–399, title II][/us/pl/100/399/tII], § 201(f)–(i), Aug. 17, 1988, [102 Stat. 991][/us/stat/102/991]; [Pub. L. 101–624, title XVIII][/us/pl/101/624/tXVIII], § 1843(a)(2), Nov. 28, 1990, [104 Stat. 3836][/us/stat/104/3836].)
 
  __Amendments__ 
 
     1990—Subsec. (a)(8)(B). [Pub. L. 101–624][/us/pl/101/624] struck out before semicolon at end “notwithstanding the authority of the Farm Credit Administration to approve such matters”.
 
-    1988—Subsec. (a)(8)(B). [Pub. L. 100–399, § 201(f)][/us/pl/100/399/s201/f], struck out “under sections 2226 and 2252(a)(15) of this title” after “such matters”.
+    1988—Subsec. (a)(8)(B). [Pub. L. 100–399][/us/pl/100/399], § 201(f), struck out “under sections 2226 and 2252(a)(15) of this title” after “such matters”.
 
-    Subsec. (a)(9). [Pub. L. 100–399, § 201(g)][/us/pl/100/399/s201/g], struck out “may” before “suspend”.
+    Subsec. (a)(9). [Pub. L. 100–399][/us/pl/100/399], § 201(g), struck out “may” before “suspend”.
 
-    Subsec. (b)(1). [Pub. L. 100–399, § 201(h)][/us/pl/100/399/s201/h], substituted “(a)(9)” for “(a)(8)”.
+    Subsec. (b)(1). [Pub. L. 100–399][/us/pl/100/399], § 201(h), substituted “(a)(9)” for “(a)(8)”.
 
-    Subsec. (b)(2). [Pub. L. 100–399, § 201(i)][/us/pl/100/399/s201/i], struck out “the appropriate provision of” after “stock under”.
+    Subsec. (b)(2). [Pub. L. 100–399][/us/pl/100/399], § 201(i), struck out “the appropriate provision of” after “stock under”.
 
  __Effective Date of 1988 Amendment__ 
 
@@ -111,18 +111,18 @@
 [/us/usc/t12/s2183/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2183%2Fb
 [/us/usc/t12/s2278a–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2278a%E2%80%934
 [/us/usc/t12/s2278b–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2278b%E2%80%937
-[/us/pl/92/181/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs6
-[/us/pl/100/233/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs201
+[/us/pl/92/181/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtVI
+[/us/pl/100/233/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtII
 [/us/stat/101/1589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1589
-[/us/pl/100/399/s201/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs201%2Ff
+[/us/pl/100/399/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtII
 [/us/stat/102/991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F991
-[/us/pl/101/624/s1843/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1843%2Fa%2F2
+[/us/pl/101/624/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXVIII
 [/us/stat/104/3836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3836
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
-[/us/pl/100/399/s201/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs201%2Ff
-[/us/pl/100/399/s201/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs201%2Fg
-[/us/pl/100/399/s201/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs201%2Fh
-[/us/pl/100/399/s201/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs201%2Fi
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
 [/us/pl/100/399/s1001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs1001%2Fa

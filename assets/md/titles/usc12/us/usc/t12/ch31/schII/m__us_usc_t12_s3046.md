@@ -17,7 +17,7 @@
 
     The Office may, at the request of any eligible cooperative, provide a financial analysis of the applicant’s capital structure and needs and its cost of operations, survey the market for the goods or services the cooperative makes or desires to make available to its members or patrons or the users of its facilities.
 
-([Pub. L. 95–351, title II, § 206][/us/pl/95/351/s206], Aug. 20, 1978, [92 Stat. 513][/us/stat/92/513].)
+([Pub. L. 95–351, title II][/us/pl/95/351/tII], § 206, Aug. 20, 1978, [92 Stat. 513][/us/stat/92/513].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/351/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F351%2Fs206
+[/us/pl/95/351/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F351%2FtII
 [/us/stat/92/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F513
 
 

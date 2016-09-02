@@ -1361,7 +1361,7 @@
 
         In no case may the receiver appointed pursuant to this section revoke, annul, or terminate the charter of an enterprise.
 
-([Pub. L. 102–550, title XIII, § 1367][/us/pl/102/550/s1367], Oct. 28, 1992, [106 Stat. 3980][/us/stat/106/3980]; [Pub. L. 110–289, div. A, title I, § 1145(a)][/us/pl/110/289/s1145/a], July 30, 2008, [122 Stat. 2734][/us/stat/122/2734].)
+([Pub. L. 102–550, title XIII][/us/pl/102/550/tXIII], § 1367, Oct. 28, 1992, [106 Stat. 3980][/us/stat/106/3980]; [Pub. L. 110–289, div. A, title I][/us/pl/110/289/dA/tI], § 1145(a), July 30, 2008, [122 Stat. 2734][/us/stat/122/2734].)
 
  __References in Text__ 
 
@@ -1369,11 +1369,11 @@
 
     Rule 65 of the Federal Rules of Civil Procedure, referred to in subsec. (b)(16), (17), is set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-    Sections 4402 through 4407 of this title, referred to in subsec. (b)(19)(A), was in the original “sections 402 through 407 of the Federal Deposit Insurance Corporation Improvement Act of 1991 ([12 U.S.C. 4402][/us/usc/t12/s4402] through 4407)”, and was translated as reading “sections 402 through 407A of the Federal Deposit Insurance Corporation Improvement Act of 1991”, meaning sections 402 to 407A of [Pub. L. 102–242][/us/pl/102/242], which are classified to sections 4402 to 4407 of this title, to reflect the probable intent of Congress and the renumbering of section 407 of the Act as section 407A by [Pub. L. 109–8, title IX, § 906(d)(1)][/us/pl/109/8/s906/d/1], Apr. 20, 2005, [119 Stat. 169][/us/stat/119/169].
+    Sections 4402 through 4407 of this title, referred to in subsec. (b)(19)(A), was in the original “sections 402 through 407 of the Federal Deposit Insurance Corporation Improvement Act of 1991 ([12 U.S.C. 4402][/us/usc/t12/s4402] through 4407)”, and was translated as reading “sections 402 through 407A of the Federal Deposit Insurance Corporation Improvement Act of 1991”, meaning sections 402 to 407A of [Pub. L. 102–242][/us/pl/102/242], which are classified to sections 4402 to 4407 of this title, to reflect the probable intent of Congress and the renumbering of section 407 of the Act as section 407A by [Pub. L. 109–8, title IX][/us/pl/109/8/tIX], § 906(d)(1), Apr. 20, 2005, [119 Stat. 169][/us/stat/119/169].
 
     The Gramm-Leach-Bliley Act, referred to in subsec. (d)(14), is [Pub. L. 106–102][/us/pl/106/102], Nov. 12, 1999, [113 Stat. 1338][/us/stat/113/1338]. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under [section 1811 of this title][/us/usc/t12/s1811] and Tables.
 
-    The Legal Certainty for Bank Products Act of 2000, referred to in subsec. (d)(14), is title IV of H.R. 5660, as enacted by [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–457, which is classified to sections 27 to 27f of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title of 2000 Amendment note set out under [section 1 of Title 7][/us/usc/t7/s1] and Tables.
+    The Legal Certainty for Bank Products Act of 2000, referred to in subsec. (d)(14), is title IV of H.R. 5660, as enacted by [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5), Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–457, which is classified to sections 27 to 27f of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title of 2000 Amendment note set out under [section 1 of Title 7][/us/usc/t7/s1] and Tables.
 
     The Commodity Exchange Act, referred to in subsec. (d)(14), is [act Sept. 21, 1922, ch. 369][/us/act/1922-09-21/ch369], [42 Stat. 998][/us/stat/42/998], which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 1 of Title 7][/us/usc/t7/s1] and Tables.
 
@@ -1409,21 +1409,21 @@
 [/us/usc/t7/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1
 [/us/usc/t12/s1716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1716
 [/us/usc/t12/s1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1451
-[/us/pl/102/550/s1367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1367
+[/us/pl/102/550/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIII
 [/us/stat/106/3980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3980
-[/us/pl/110/289/s1145/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1145%2Fa
+[/us/pl/110/289/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtI
 [/us/stat/122/2734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2734
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/stat/106/3941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3941
 [/us/usc/t12/s4501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4501
 [/us/usc/t12/s4402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4402
 [/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
-[/us/pl/109/8/s906/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs906%2Fd%2F1
+[/us/pl/109/8/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtIX
 [/us/stat/119/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F169
 [/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102
 [/us/stat/113/1338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1338
 [/us/usc/t12/s1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1811
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/usc/t7/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1
 [/us/act/1922-09-21/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369

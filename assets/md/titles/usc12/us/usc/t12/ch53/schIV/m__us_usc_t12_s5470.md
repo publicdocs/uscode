@@ -17,7 +17,7 @@
 
     Unless otherwise provided by its terms, this subchapter does not divest any appropriate financial regulator, any Supervisory Agency, or any other Federal or State agency, of any authority derived from any other applicable law, except that any standards prescribed by the Board of Governors under [section 5464 of this title][/us/usc/t12/s5464] shall supersede any less stringent requirements established under other authority to the extent of any conflict.
 
-([Pub. L. 111–203, title VIII, § 811][/us/pl/111/203/s811], July 21, 2010, [124 Stat. 1821][/us/stat/124/1821].)
+([Pub. L. 111–203, title VIII][/us/pl/111/203/tVIII], § 811, July 21, 2010, [124 Stat. 1821][/us/stat/124/1821].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t12/s5464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5464
-[/us/pl/111/203/s811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs811
+[/us/pl/111/203/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVIII
 [/us/stat/124/1821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1821
 
 

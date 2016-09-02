@@ -31,7 +31,7 @@
 
         Nothing contained herein shall prevent corporations organized under this subchapter from purchasing and holding stock in any corporation where such purchase shall be necessary to prevent a loss upon a debt previously contracted in good faith; and stock so purchased or acquired in corporations organized under this subchapter shall, within six months from such purchase, be sold or disposed of at public or private sale, unless the time to so dispose of same is extended by the Board of Governors of the Federal Reserve System.
 
-([Dec. 23, 1913, ch. 6, § 25A][/us/act/1913-12-23/ch6/s25A] (pars.), formerly § 25(a), as added [Dec. 24, 1919, ch. 18][/us/act/1919-12-24/ch18], [41 Stat. 378][/us/stat/41/378]; amended [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 203(a), [49 Stat. 704][/us/stat/49/704]; [Pub. L. 95–369, § 3(d)][/us/pl/95/369/s3/d], (e), Sept. 17, 1978, [92 Stat. 609][/us/stat/92/609]; renumbered § 25A, [Pub. L. 102–242, title I, § 142(e)(2)][/us/pl/102/242/s142/e/2], Dec. 19, 1991, [105 Stat. 2281][/us/stat/105/2281].)
+([Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 25A (pars.), formerly § 25(a), as added [Dec. 24, 1919, ch. 18][/us/act/1919-12-24/ch18], [41 Stat. 378][/us/stat/41/378]; amended [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 203(a), [49 Stat. 704][/us/stat/49/704]; [Pub. L. 95–369][/us/pl/95/369], § 3(d), (e), Sept. 17, 1978, [92 Stat. 609][/us/stat/92/609]; renumbered § 25A, [Pub. L. 102–242, title I][/us/pl/102/242/tI], § 142(e)(2), Dec. 19, 1991, [105 Stat. 2281][/us/stat/105/2281].)
 
  __References in Text__ 
 
@@ -49,9 +49,9 @@
 
  __Amendments__ 
 
-    1978—Subsec. (a). [Pub. L. 95–369, § 3(d)][/us/pl/95/369/s3/d], struck out “, but in no event having liabilities outstanding thereon at any one time exceeding ten times its capital stock and surplus” after “under such general conditions as to security and such limitations as the Board of Governors of the Federal Reserve System may prescribe”.
+    1978—Subsec. (a). [Pub. L. 95–369][/us/pl/95/369], § 3(d), struck out “, but in no event having liabilities outstanding thereon at any one time exceeding ten times its capital stock and surplus” after “under such general conditions as to security and such limitations as the Board of Governors of the Federal Reserve System may prescribe”.
 
-    [Pub. L. 95–369, § 3(e)][/us/pl/95/369/s3/e], which directed substituting “for member banks of the Federal Reserve System” for “, but in no event less than ten per centum of its deposits,” in the third sentence, was executed by making the substitution for “, but in no event less than 10 per centum of its deposits” to reflect the probable intent of Congress.
+    [Pub. L. 95–369][/us/pl/95/369], § 3(e), which directed substituting “for member banks of the Federal Reserve System” for “, but in no event less than ten per centum of its deposits,” in the third sentence, was executed by making the substitution for “, but in no event less than 10 per centum of its deposits” to reflect the probable intent of Congress.
 
  __Change of Name__ 
 
@@ -64,20 +64,20 @@
 ----------
 ----------
 
-[/us/act/1913-12-23/ch6/s25A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs25A
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
 [/us/act/1919-12-24/ch18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-12-24%2Fch18
 [/us/stat/41/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F378
 [/us/act/1935-08-23/ch614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch614
 [/us/stat/49/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F704
-[/us/pl/95/369/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F369%2Fs3%2Fd
+[/us/pl/95/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F369
 [/us/stat/92/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F609
-[/us/pl/102/242/s142/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs142%2Fe%2F2
+[/us/pl/102/242/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtI
 [/us/stat/105/2281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2281
 [/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
 [/us/stat/38/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F251
 [/us/usc/t12/s226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs226
 [/us/usc/t12/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs611
-[/us/pl/95/369/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F369%2Fs3%2Fd
-[/us/pl/95/369/s3/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F369%2Fs3%2Fe
+[/us/pl/95/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F369
+[/us/pl/95/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F369
 
 

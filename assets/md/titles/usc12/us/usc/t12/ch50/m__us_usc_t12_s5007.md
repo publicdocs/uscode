@@ -99,7 +99,7 @@
 
         If the indemnifying bank provides the claimant bank with the original check or a copy of the original check (including an image or a substitute check) under subsection (c)(1)(A), [section 5005(d) of this title][/us/usc/t12/s5005/d] shall govern any right of the indemnifying bank to any repayment of any funds the indemnifying bank has recredited to the claimant bank pursuant to subsection (c).
 
-([Pub. L. 108–100, § 8][/us/pl/108/100/s8], Oct. 28, 2003, [117 Stat. 1186][/us/stat/117/1186].)
+([Pub. L. 108–100][/us/pl/108/100], § 8, Oct. 28, 2003, [117 Stat. 1186][/us/stat/117/1186].)
 
 ----------
 
@@ -116,7 +116,7 @@
 [/us/usc/t12/s5006/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5006%2Fe
 [/us/usc/t12/s5006/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5006%2Fc
 [/us/usc/t12/s5005/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5005%2Fd
-[/us/pl/108/100/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F100%2Fs8
+[/us/pl/108/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F100
 [/us/stat/117/1186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1186
 
 

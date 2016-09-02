@@ -47,7 +47,7 @@
 
             (B) entitled to receive compensation at the same annual rate of basic pay that the Director of the Office of Thrift Supervision received on the day before the transfer date.
 
-([Pub. L. 111–203, title III, § 325][/us/pl/111/203/s325], July 21, 2010, [124 Stat. 1536][/us/stat/124/1536].)
+([Pub. L. 111–203, title III][/us/pl/111/203/tIII], § 325, July 21, 2010, [124 Stat. 1536][/us/stat/124/1536].)
 
  __References in Text__ 
 
@@ -61,7 +61,7 @@
 ----------
 
 [/us/usc/t12/s5433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5433
-[/us/pl/111/203/s325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs325
+[/us/pl/111/203/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIII
 [/us/stat/124/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1536
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1520

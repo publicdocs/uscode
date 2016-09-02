@@ -25,7 +25,7 @@
 
         (B) not less than 50 percent of the units in the project are occupied by lower income families (as defined in section 1437a(a)(2)  <sup>\[1\]</sup>  <sup><sup> 1 Probably should be a reference to section 1437a(b)(2). </sup></sup>  of title 42).
 
-([Pub. L. 100–242, title IV, § 425][/us/pl/100/242/s425], Feb. 5, 1988, [101 Stat. 1915][/us/stat/101/1915].)
+([Pub. L. 100–242, title IV][/us/pl/100/242/tIV], § 425, Feb. 5, 1988, [101 Stat. 1915][/us/stat/101/1915].)
 
  __References in Text__ 
 
@@ -45,7 +45,7 @@
 [/us/usc/t12/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/usc/t42/s1437f/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f%2Fb%2F1
-[/us/pl/100/242/s425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs425
+[/us/pl/100/242/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtIV
 [/us/stat/101/1915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1915
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
 [/us/stat/48/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1246

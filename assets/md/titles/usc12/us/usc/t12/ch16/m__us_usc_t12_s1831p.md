@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act Sept. 21, 1950, ch. 967, § 2][/us/act/1950-09-21/ch967/s2]\[39\], as added Dec. 19, 1991, [Pub. L. 102–242, title II, § 228][/us/pl/102/242/s228], [105 Stat. 2308][/us/stat/105/2308], which related to notice of branch closure, was renumbered section 2\[42\] of act Sept. 21, 1950, by [Pub. L. 102–550, title XI, § 1602(a)][/us/pl/102/550/s1602/a], Oct. 28, 1992, [106 Stat. 4079][/us/stat/106/4079], and transferred to [section 1831r–1 of this title][/us/usc/t12/s1831r–1].
+    Section, [act Sept. 21, 1950, ch. 967][/us/act/1950-09-21/ch967], § 2\[39\], as added Dec. 19, 1991, [Pub. L. 102–242, title II][/us/pl/102/242/tII], § 228, [105 Stat. 2308][/us/stat/105/2308], which related to notice of branch closure, was renumbered section 2\[42\] of act Sept. 21, 1950, by [Pub. L. 102–550, title XI][/us/pl/102/550/tXI], § 1602(a), Oct. 28, 1992, [106 Stat. 4079][/us/stat/106/4079], and transferred to [section 1831r–1 of this title][/us/usc/t12/s1831r–1].
 
 ----------
 
@@ -26,10 +26,10 @@
 ----------
 ----------
 
-[/us/act/1950-09-21/ch967/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967%2Fs2
-[/us/pl/102/242/s228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs228
+[/us/act/1950-09-21/ch967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967
+[/us/pl/102/242/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtII
 [/us/stat/105/2308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2308
-[/us/pl/102/550/s1602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1602%2Fa
+[/us/pl/102/550/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXI
 [/us/stat/106/4079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4079
 [/us/usc/t12/s1831r–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1831r%E2%80%931
 

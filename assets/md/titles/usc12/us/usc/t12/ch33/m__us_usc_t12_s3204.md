@@ -71,13 +71,13 @@
 
     (9) Any savings association (as defined in section 10(a)(1)(A) of the Home Owners’ Loan Act \[[12 U.S.C. 1467a(a)(1)(A)][/us/usc/t12/s1467a/a/1/A]\] or any savings and loan holding company (as defined in section 10(a)(1)(D) of such Act) which has issued stock in connection with a qualified stock issuance pursuant to section 10(q) of such Act, except that this paragraph shall apply only with respect to service as a single management official of such savings association or holding company, or any subsidiary of such savings association or holding company, by a single management official of the savings and loan holding company which purchased the stock issued in connection with such qualified stock issuance, and shall apply only when the Director of the Office of Thrift Supervision has determined that such service is consistent with the purposes of this chapter and the Home Owners’ Loan Act \[[12 U.S.C. 1461][/us/usc/t12/s1461] et seq.\].
 
-([Pub. L. 95–630, title II, § 205][/us/pl/95/630/s205], Nov. 10, 1978, [92 Stat. 3673][/us/stat/92/3673]; [Pub. L. 97–320, title IV, § 425(d)][/us/pl/97/320/s425/d], Oct. 15, 1982, [96 Stat. 1524][/us/stat/96/1524]; [Pub. L. 100–650][/us/pl/100/650], §§ 4, 5(a), Nov. 10, 1988, [102 Stat. 3819][/us/stat/102/3819]; [Pub. L. 101–73, title VI, § 604(a)][/us/pl/101/73/s604/a], Aug. 9, 1989, [103 Stat. 410][/us/stat/103/410].)
+([Pub. L. 95–630, title II][/us/pl/95/630/tII], § 205, Nov. 10, 1978, [92 Stat. 3673][/us/stat/92/3673]; [Pub. L. 97–320, title IV][/us/pl/97/320/tIV], § 425(d), Oct. 15, 1982, [96 Stat. 1524][/us/stat/96/1524]; [Pub. L. 100–650][/us/pl/100/650], §§ 4, 5(a), Nov. 10, 1988, [102 Stat. 3819][/us/stat/102/3819]; [Pub. L. 101–73, title VI][/us/pl/101/73/tVI], § 604(a), Aug. 9, 1989, [103 Stat. 410][/us/stat/103/410].)
 
  __References in Text__ 
 
-    Section 25 of the Federal Reserve Act, referred to in par. (2), is classified to subchapter I (§ 601 et seq.) of chapter 6 of this title. Section 25(a) of the Federal Reserve Act, which is classified to subchapter II (§ 611 et seq.) of chapter 6 of this title, was renumbered section 25A of that act by [Pub. L. 102–242, title I, § 142(e)(2)][/us/pl/102/242/s142/e/2], Dec. 19, 1991, [105 Stat. 2281][/us/stat/105/2281].
+    Section 25 of the Federal Reserve Act, referred to in par. (2), is classified to subchapter I (§ 601 et seq.) of chapter 6 of this title. Section 25(a) of the Federal Reserve Act, which is classified to subchapter II (§ 611 et seq.) of chapter 6 of this title, was renumbered section 25A of that act by [Pub. L. 102–242, title I][/us/pl/102/242/tI], § 142(e)(2), Dec. 19, 1991, [105 Stat. 2281][/us/stat/105/2281].
 
-    [Section 1730a of this title][/us/usc/t12/s1730a], referred to in par. (8)(A), was repealed by [Pub. L. 101–73, title IV, § 407][/us/pl/101/73/s407], Aug. 9, 1989, [103 Stat. 363][/us/stat/103/363].
+    [Section 1730a of this title][/us/usc/t12/s1730a], referred to in par. (8)(A), was repealed by [Pub. L. 101–73, title IV][/us/pl/101/73/tIV], § 407, Aug. 9, 1989, [103 Stat. 363][/us/stat/103/363].
 
     This chapter, referred to in par. (9), was in the original “this Act” and was translated as reading “this title”, meaning title II of [Pub. L. 95–630][/us/pl/95/630], known as the Depository Institution Management Interlocks Act, to reflect the probable intent of Congress.
 
@@ -87,9 +87,9 @@
 
     1989—Par. (9). [Pub. L. 101–73][/us/pl/101/73] added par. (9).
 
-    1988—Par. (7). [Pub. L. 100–650, § 4][/us/pl/100/650/s4], added par. (7).
+    1988—Par. (7). [Pub. L. 100–650][/us/pl/100/650], § 4, added par. (7).
 
-    Par. (8). [Pub. L. 100–650, § 5(a)][/us/pl/100/650/s5/a], added par. (8).
+    Par. (8). [Pub. L. 100–650][/us/pl/100/650], § 5(a), added par. (8).
 
     1982—Par. (2). [Pub. L. 97–320][/us/pl/97/320] substituted “25(a)” for “25A”.
 
@@ -103,26 +103,26 @@
 [/us/usc/t12/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs601
 [/us/usc/t12/s1467a/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1467a%2Fa%2F1%2FA
 [/us/usc/t12/s1461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1461
-[/us/pl/95/630/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs205
+[/us/pl/95/630/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtII
 [/us/stat/92/3673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3673
-[/us/pl/97/320/s425/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs425%2Fd
+[/us/pl/97/320/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2FtIV
 [/us/stat/96/1524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1524
 [/us/pl/100/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F650
 [/us/stat/102/3819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3819
-[/us/pl/101/73/s604/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs604%2Fa
+[/us/pl/101/73/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtVI
 [/us/stat/103/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F410
-[/us/pl/102/242/s142/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs142%2Fe%2F2
+[/us/pl/102/242/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtI
 [/us/stat/105/2281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2281
 [/us/usc/t12/s1730a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1730a
-[/us/pl/101/73/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs407
+[/us/pl/101/73/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtIV
 [/us/stat/103/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F363
 [/us/pl/95/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630
 [/us/act/1933-06-13/ch64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-13%2Fch64
 [/us/stat/48/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F128
 [/us/usc/t12/s1461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1461
 [/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
-[/us/pl/100/650/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F650%2Fs4
-[/us/pl/100/650/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F650%2Fs5%2Fa
+[/us/pl/100/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F650
+[/us/pl/100/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F650
 [/us/pl/97/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320
 
 

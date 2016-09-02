@@ -29,9 +29,9 @@
 
         No insurance shall be granted pursuant to this section with respect to dwellings or projects approved for insurance prior to the beginning of construction unless the inspection of such construction is conducted in accordance with at least the minimum standards and criteria used with respect to dwellings or projects approved for mortgage insurance pursuant to other provisions of this subchapter.
 
-    (c) __Repealed.__  __[__  __Pub. L. 100–242, title IV, § 414(a)__  __][/us/pl/100/242/s414/a]__  __,__  __Feb. 5, 1988__  __,__  __[__  __101 Stat. 1907__  __][/us/stat/101/1907]__ 
+    (c) __Repealed.__  __[__  __Pub. L. 100–242, title IV__  __][/us/pl/100/242/tIV]__  __, § 414(a),__  __Feb. 5, 1988__  __,__  __[__  __101 Stat. 1907__  __][/us/stat/101/1907]__ 
 
-    (d) __Repealed.__  __[__  __Pub. L. 100–242, title IV, § 401(a)(3)__  __][/us/pl/100/242/s401/a/3]__  __,__  __Feb. 5, 1988__  __,__  __[__  __101 Stat. 1898__  __][/us/stat/101/1898]__ 
+    (d) __Repealed.__  __[__  __Pub. L. 100–242, title IV__  __][/us/pl/100/242/tIV]__  __, § 401(a)(3),__  __Feb. 5, 1988__  __,__  __[__  __101 Stat. 1898__  __][/us/stat/101/1898]__ 
 
     (e) __Availability unaffecting insurance otherwise authorized; criteria for exercise of authority by Secretary__ 
 
@@ -71,29 +71,29 @@
 
         The Secretary shall, by January 15 and July 15 of each year (1) review the adequacy of capital and other requirements for mortgagees under this section, (2) assess the compliance by mortgagees with such requirements, and (3) make such adjustment to such requirements as the Secretary, after providing opportunity for hearing, determines to be appropriate to improve the long-term financial soundness of the Federal Housing Administration funds. Such requirements shall include the minimum capital or net worth of mortgagees; the ratio that mortgagees shall maintain between the mortgagee’s capital and the volume of mortgages co-insured by such mortgagee; and such other requirements as the Secretary determines to be appropriate to ensure the long-term financial soundness of the Federal Housing Administration funds. The Secretary shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives a report on the review and assessment under the previous sentence, and an explanation of the Secretary’s reasons for making any adjustment in requirements authorized under this section.
 
-([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title II, § 244, as added [Pub. L. 93–383, title III, § 307][/us/pl/93/383/s307], Aug. 22, 1974, [88 Stat. 679][/us/stat/88/679]; amended [Pub. L. 94–375, § 6][/us/pl/94/375/s6], Aug. 3, 1976, [90 Stat. 1070][/us/stat/90/1070]; [Pub. L. 95–60, § 1(d)][/us/pl/95/60/s1/d], June 30, 1977, [91 Stat. 257][/us/stat/91/257]; [Pub. L. 95–80, § 1(d)][/us/pl/95/80/s1/d], July 31, 1977, [91 Stat. 339][/us/stat/91/339]; [Pub. L. 95–128, title III, § 301(f)][/us/pl/95/128/s301/f], Oct. 12, 1977, [91 Stat. 1131][/us/stat/91/1131]; [Pub. L. 95–406, § 1(f)][/us/pl/95/406/s1/f], Sept. 30, 1978, [92 Stat. 879][/us/stat/92/879]; [Pub. L. 95–557, title III, § 301(f)][/us/pl/95/557/s301/f], Oct. 31, 1978, [92 Stat. 2096][/us/stat/92/2096]; [Pub. L. 96–71, § 1(f)][/us/pl/96/71/s1/f], Sept. 28, 1979, [93 Stat. 501][/us/stat/93/501]; [Pub. L. 96–105, § 1(f)][/us/pl/96/105/s1/f], Nov. 8, 1979, [93 Stat. 794][/us/stat/93/794]; [Pub. L. 96–153, title III, § 301(f)][/us/pl/96/153/s301/f], Dec. 21, 1979, [93 Stat. 1111][/us/stat/93/1111]; [Pub. L. 96–372, § 1(f)][/us/pl/96/372/s1/f], Oct. 3, 1980, [94 Stat. 1363][/us/stat/94/1363]; [Pub. L. 96–399, title III, § 301(f)][/us/pl/96/399/s301/f], Oct. 8, 1980, [94 Stat. 1638][/us/stat/94/1638]; [Pub. L. 96–470, title I, § 107(a)][/us/pl/96/470/s107/a], Oct. 19, 1980, [94 Stat. 2238][/us/stat/94/2238]; [Pub. L. 97–35, title III, § 331(f)][/us/pl/97/35/s331/f], Aug. 13, 1981, [95 Stat. 413][/us/stat/95/413]; [Pub. L. 97–289, § 1(f)][/us/pl/97/289/s1/f], Oct. 6, 1982, [96 Stat. 1230][/us/stat/96/1230]; [Pub. L. 98–35, § 1(f)][/us/pl/98/35/s1/f], May 26, 1983, [97 Stat. 197][/us/stat/97/197]; [Pub. L. 98–109, § 1(f)][/us/pl/98/109/s1/f], Oct. 1, 1983, [97 Stat. 745][/us/stat/97/745]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title III, § 303(a), title IV, §§ 401(e), 434\], Nov. 30, 1983, [97 Stat. 1206][/us/stat/97/1206], 1207, 1222; [Pub. L. 98–479, title I, § 104(a)(5)][/us/pl/98/479/s104/a/5], Oct. 17, 1984, [98 Stat. 2225][/us/stat/98/2225]; [Pub. L. 99–120, § 1(e)][/us/pl/99/120/s1/e], Oct. 8, 1985, [99 Stat. 502][/us/stat/99/502]; [Pub. L. 99–156, § 1(e)][/us/pl/99/156/s1/e], Nov. 15, 1985, [99 Stat. 815][/us/stat/99/815]; [Pub. L. 99–219, § 1(e)][/us/pl/99/219/s1/e], Dec. 26, 1985, [99 Stat. 1730][/us/stat/99/1730]; [Pub. L. 99–267, § 1(e)][/us/pl/99/267/s1/e], Mar. 27, 1986, [100 Stat. 73][/us/stat/100/73]; [Pub. L. 99–272, title III, § 3007(e)][/us/pl/99/272/s3007/e], Apr. 7, 1986, [100 Stat. 105][/us/stat/100/105]; [Pub. L. 99–289, § 1(b)][/us/pl/99/289/s1/b], May 2, 1986, [100 Stat. 412][/us/stat/100/412]; [Pub. L. 99–345, § 1][/us/pl/99/345/s1], June 24, 1986, [100 Stat. 673][/us/stat/100/673]; [Pub. L. 99–430][/us/pl/99/430], Sept. 30, 1986, [100 Stat. 986][/us/stat/100/986]; [Pub. L. 100–122, § 1][/us/pl/100/122/s1], Sept. 30, 1987, [101 Stat. 793][/us/stat/101/793]; [Pub. L. 100–154][/us/pl/100/154], Nov. 5, 1987, [101 Stat. 890][/us/stat/101/890]; [Pub. L. 100–170][/us/pl/100/170], Nov. 17, 1987, [101 Stat. 914][/us/stat/101/914]; [Pub. L. 100–179][/us/pl/100/179], Dec. 3, 1987, [101 Stat. 1018][/us/stat/101/1018]; [Pub. L. 100–200][/us/pl/100/200], Dec. 21, 1987, [101 Stat. 1327][/us/stat/101/1327]; [Pub. L. 100–242, title IV][/us/pl/100/242], §§ 401(a)(3), 414, 429(g), Feb. 5, 1988, [101 Stat. 1898][/us/stat/101/1898], 1907, 1919; [Pub. L. 101–235, title I, § 139(a)][/us/pl/101/235/s139/a], Dec. 15, 1989, [103 Stat. 2029][/us/stat/103/2029].)
+([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title II, § 244, as added [Pub. L. 93–383, title III][/us/pl/93/383/tIII], § 307, Aug. 22, 1974, [88 Stat. 679][/us/stat/88/679]; amended [Pub. L. 94–375][/us/pl/94/375], § 6, Aug. 3, 1976, [90 Stat. 1070][/us/stat/90/1070]; [Pub. L. 95–60][/us/pl/95/60], § 1(d), June 30, 1977, [91 Stat. 257][/us/stat/91/257]; [Pub. L. 95–80][/us/pl/95/80], § 1(d), July 31, 1977, [91 Stat. 339][/us/stat/91/339]; [Pub. L. 95–128, title III][/us/pl/95/128/tIII], § 301(f), Oct. 12, 1977, [91 Stat. 1131][/us/stat/91/1131]; [Pub. L. 95–406][/us/pl/95/406], § 1(f), Sept. 30, 1978, [92 Stat. 879][/us/stat/92/879]; [Pub. L. 95–557, title III][/us/pl/95/557/tIII], § 301(f), Oct. 31, 1978, [92 Stat. 2096][/us/stat/92/2096]; [Pub. L. 96–71][/us/pl/96/71], § 1(f), Sept. 28, 1979, [93 Stat. 501][/us/stat/93/501]; [Pub. L. 96–105][/us/pl/96/105], § 1(f), Nov. 8, 1979, [93 Stat. 794][/us/stat/93/794]; [Pub. L. 96–153, title III][/us/pl/96/153/tIII], § 301(f), Dec. 21, 1979, [93 Stat. 1111][/us/stat/93/1111]; [Pub. L. 96–372][/us/pl/96/372], § 1(f), Oct. 3, 1980, [94 Stat. 1363][/us/stat/94/1363]; [Pub. L. 96–399, title III][/us/pl/96/399/tIII], § 301(f), Oct. 8, 1980, [94 Stat. 1638][/us/stat/94/1638]; [Pub. L. 96–470, title I][/us/pl/96/470/tI], § 107(a), Oct. 19, 1980, [94 Stat. 2238][/us/stat/94/2238]; [Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 331(f), Aug. 13, 1981, [95 Stat. 413][/us/stat/95/413]; [Pub. L. 97–289][/us/pl/97/289], § 1(f), Oct. 6, 1982, [96 Stat. 1230][/us/stat/96/1230]; [Pub. L. 98–35][/us/pl/98/35], § 1(f), May 26, 1983, [97 Stat. 197][/us/stat/97/197]; [Pub. L. 98–109][/us/pl/98/109], § 1(f), Oct. 1, 1983, [97 Stat. 745][/us/stat/97/745]; [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title III, § 303(a), title IV, §§ 401(e), 434\], Nov. 30, 1983, [97 Stat. 1206][/us/stat/97/1206], 1207, 1222; [Pub. L. 98–479, title I][/us/pl/98/479/tI], § 104(a)(5), Oct. 17, 1984, [98 Stat. 2225][/us/stat/98/2225]; [Pub. L. 99–120][/us/pl/99/120], § 1(e), Oct. 8, 1985, [99 Stat. 502][/us/stat/99/502]; [Pub. L. 99–156][/us/pl/99/156], § 1(e), Nov. 15, 1985, [99 Stat. 815][/us/stat/99/815]; [Pub. L. 99–219][/us/pl/99/219], § 1(e), Dec. 26, 1985, [99 Stat. 1730][/us/stat/99/1730]; [Pub. L. 99–267][/us/pl/99/267], § 1(e), Mar. 27, 1986, [100 Stat. 73][/us/stat/100/73]; [Pub. L. 99–272, title III][/us/pl/99/272/tIII], § 3007(e), Apr. 7, 1986, [100 Stat. 105][/us/stat/100/105]; [Pub. L. 99–289][/us/pl/99/289], § 1(b), May 2, 1986, [100 Stat. 412][/us/stat/100/412]; [Pub. L. 99–345][/us/pl/99/345], § 1, June 24, 1986, [100 Stat. 673][/us/stat/100/673]; [Pub. L. 99–430][/us/pl/99/430], Sept. 30, 1986, [100 Stat. 986][/us/stat/100/986]; [Pub. L. 100–122][/us/pl/100/122], § 1, Sept. 30, 1987, [101 Stat. 793][/us/stat/101/793]; [Pub. L. 100–154][/us/pl/100/154], Nov. 5, 1987, [101 Stat. 890][/us/stat/101/890]; [Pub. L. 100–170][/us/pl/100/170], Nov. 17, 1987, [101 Stat. 914][/us/stat/101/914]; [Pub. L. 100–179][/us/pl/100/179], Dec. 3, 1987, [101 Stat. 1018][/us/stat/101/1018]; [Pub. L. 100–200][/us/pl/100/200], Dec. 21, 1987, [101 Stat. 1327][/us/stat/101/1327]; [Pub. L. 100–242, title IV][/us/pl/100/242/tIV], §§ 401(a)(3), 414, 429(g), Feb. 5, 1988, [101 Stat. 1898][/us/stat/101/1898], 1907, 1919; [Pub. L. 101–235, title I][/us/pl/101/235/tI], § 139(a), Dec. 15, 1989, [103 Stat. 2029][/us/stat/103/2029].)
 
  __References in Text__ 
 
     This chapter, referred to in subsecs. (a), (e), and (f)(5), was in the original “this Act”, meaning [act June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], [48 Stat. 1246][/us/stat/48/1246], as amended, which is classified principally to this chapter (§ 1701 et seq.). For complete classification of this Act to the Code, see Tables.
 
-    Section 1437o of title 42, referred to in subsec. (h), was repealed by [Pub. L. 101–625, title II, § 289(b)][/us/pl/101/625/s289/b], Nov. 28, 1990, [104 Stat. 4128][/us/stat/104/4128].
+    Section 1437o of title 42, referred to in subsec. (h), was repealed by [Pub. L. 101–625, title II][/us/pl/101/625/tII], § 289(b), Nov. 28, 1990, [104 Stat. 4128][/us/stat/104/4128].
 
  __Amendments__ 
 
     1989—Subsec. (i). [Pub. L. 101–235][/us/pl/101/235] added subsec. (i) relating to annual review of, and assessment of compliance with, requirements.
 
-    1988—Subsec. (c). [Pub. L. 100–242, § 414(a)][/us/pl/100/242/s414/a], struck out subsec. (c) which read as follows: “No insurance shall be granted pursuant to this section unless the Secretary has, after due consultation with the mortgage lending industry, determined that the demonstration program of co-insurance authorized by this section will not disrupt the mortgage market or reduce the availability of mortgage credit to borrowers who depend upon mortgage insurance provided under this chapter.”
+    1988—Subsec. (c). [Pub. L. 100–242][/us/pl/100/242], § 414(a), struck out subsec. (c) which read as follows: “No insurance shall be granted pursuant to this section unless the Secretary has, after due consultation with the mortgage lending industry, determined that the demonstration program of co-insurance authorized by this section will not disrupt the mortgage market or reduce the availability of mortgage credit to borrowers who depend upon mortgage insurance provided under this chapter.”
 
-    Subsec. (d). [Pub. L. 100–242, § 401(a)(3)][/us/pl/100/242/s401/a/3], struck out subsec. (d) which read as follows: “No mortgage, advance, or loan shall be insured pursuant to this section after March 15, 1988, except pursuant to a commitment to insure made before that date.”
+    Subsec. (d). [Pub. L. 100–242][/us/pl/100/242], § 401(a)(3), struck out subsec. (d) which read as follows: “No mortgage, advance, or loan shall be insured pursuant to this section after March 15, 1988, except pursuant to a commitment to insure made before that date.”
 
-    Subsec. (f). [Pub. L. 100–242, § 429(g)(1)][/us/pl/100/242/s429/g/1], which directed that subsec. (g) be amended by striking out par. (2) which read: “The second sentence of subsection (d) of this section shall not apply to mortgages made to public housing agencies, but for purposes of such second sentence such mortgages shall not be counted in the aggregate principal amount of all mortgages insured under this subchapter.”, and by redesignating former pars. (3) to (6) as (2) to (5), was executed to subsec. (f) to reflect the probable intent of Congress, because of the prior redesignation of subsec. (g) as (f) by [Pub. L. 96–470, § 107(a)][/us/pl/96/470/s107/a].
+    Subsec. (f). [Pub. L. 100–242][/us/pl/100/242], § 429(g)(1), which directed that subsec. (g) be amended by striking out par. (2) which read: “The second sentence of subsection (d) of this section shall not apply to mortgages made to public housing agencies, but for purposes of such second sentence such mortgages shall not be counted in the aggregate principal amount of all mortgages insured under this subchapter.”, and by redesignating former pars. (3) to (6) as (2) to (5), was executed to subsec. (f) to reflect the probable intent of Congress, because of the prior redesignation of subsec. (g) as (f) by [Pub. L. 96–470][/us/pl/96/470], § 107(a).
 
     Subsec. (h). [Pub. L. 100–242][/us/pl/100/242], §§ 414(b)(1), 429(g)(2), made identical amendments, substituting “co-insurance” for “coinsurance” in introductory provision and par. (4).
 
-    [Pub. L. 100–242, § 401(a)(3)][/us/pl/100/242/s401/a/3], struck out at end “No commitment for insurance pursuant to this subsection may be issued after March 15, 1988.”
+    [Pub. L. 100–242][/us/pl/100/242], § 401(a)(3), struck out at end “No commitment for insurance pursuant to this subsection may be issued after March 15, 1988.”
 
-    Subsec. (i). [Pub. L. 100–242, § 414(b)(2)][/us/pl/100/242/s414/b/2], added subsec. (i).
+    Subsec. (i). [Pub. L. 100–242][/us/pl/100/242], § 414(b)(2), added subsec. (i).
 
     1987—Subsecs. (d), (h). [Pub. L. 100–200][/us/pl/100/200] substituted “March 15, 1988” for “December 16, 1987”.
 
@@ -115,33 +115,33 @@
 
     [Pub. L. 99–267][/us/pl/99/267] substituted “April 30, 1986” for “March 17, 1986”.
 
-    1985—Subsec. (d). [Pub. L. 99–219, § 1(e)(1)][/us/pl/99/219/s1/e/1], substituted “March 17, 1986” for “December 15, 1985”.
+    1985—Subsec. (d). [Pub. L. 99–219][/us/pl/99/219], § 1(e)(1), substituted “March 17, 1986” for “December 15, 1985”.
 
-    [Pub. L. 99–156, § 1(e)(1)][/us/pl/99/156/s1/e/1], substituted “December 15, 1985” for “November 14, 1985”.
+    [Pub. L. 99–156][/us/pl/99/156], § 1(e)(1), substituted “December 15, 1985” for “November 14, 1985”.
 
-    [Pub. L. 99–120, § 1(e)(1)][/us/pl/99/120/s1/e/1], substituted “November 14, 1985” for “September 30, 1985”.
+    [Pub. L. 99–120][/us/pl/99/120], § 1(e)(1), substituted “November 14, 1985” for “September 30, 1985”.
 
-    Subsec. (h). [Pub. L. 99–219, § 1(e)(2)][/us/pl/99/219/s1/e/2], substituted “after March 17, 1986” for “on or after December 16, 1985”.
+    Subsec. (h). [Pub. L. 99–219][/us/pl/99/219], § 1(e)(2), substituted “after March 17, 1986” for “on or after December 16, 1985”.
 
-    [Pub. L. 99–156, § 1(e)(2)][/us/pl/99/156/s1/e/2], substituted “December 16, 1985” for “November 15, 1985”.
+    [Pub. L. 99–156][/us/pl/99/156], § 1(e)(2), substituted “December 16, 1985” for “November 15, 1985”.
 
-    [Pub. L. 99–120, § 1(e)(2)][/us/pl/99/120/s1/e/2], substituted “November 15, 1985” for “October 1, 1985”.
+    [Pub. L. 99–120][/us/pl/99/120], § 1(e)(2), substituted “November 15, 1985” for “October 1, 1985”.
 
     1984—Subsec. (d). [Pub. L. 98–479][/us/pl/98/479] amended subsec. (d) generally, thereby striking out last sentence which provided: “The aggregate principal amount of mortgages and loans insured pursuant to this section in any fiscal year beginning on or after July 1, 1974, and ending prior to October 1, 1985, shall not exceed 20 per centum of the aggregate principal amount of all mortgages and loans insured under this subchapter during such fiscal year.”
 
-    1983—Subsec. (d). [Pub. L. 98–181, § 401(e)(3)][/us/pl/98/181/s401/e/3], which directed that last two sentences of subsec. (d) be struck out was executed by striking out last sentence which provided that the overall percentage limitation specified in the preceding sentence also apply separately within each of the categories of mortgages and loans covering one- to four-family dwellings and mortgages and loans covering projects with five or more dwelling units, as the probable intent of Congress, in view of the amendment to the next to last sentence by [section 401(e)(2) of Pub. L. 98–181][/us/pl/98/181/s401/e/2].
+    1983—Subsec. (d). [Pub. L. 98–181][/us/pl/98/181], § 401(e)(3), which directed that last two sentences of subsec. (d) be struck out was executed by striking out last sentence which provided that the overall percentage limitation specified in the preceding sentence also apply separately within each of the categories of mortgages and loans covering one- to four-family dwellings and mortgages and loans covering projects with five or more dwelling units, as the probable intent of Congress, in view of the amendment to the next to last sentence by [section 401(e)(2) of Pub. L. 98–181][/us/pl/98/181/s401/e/2].
 
-    [Pub. L. 98–181, § 401(e)(1)][/us/pl/98/181/s401/e/1], (2), substituted “September 30, 1985” for “November 30, 1983” and “October 1, 1985” for “December 1, 1983”.
+    [Pub. L. 98–181][/us/pl/98/181], § 401(e)(1), (2), substituted “September 30, 1985” for “November 30, 1983” and “October 1, 1985” for “December 1, 1983”.
 
     [Pub. L. 98–109][/us/pl/98/109] substituted “November 30, 1983” for “September 30, 1983” and “December 1, 1983” for “October 1, 1983”.
 
     [Pub. L. 98–35][/us/pl/98/35] substituted “September 30, 1983” for “May 20, 1983” and “October 1, 1983” for “May 21, 1983”.
 
-    Subsec. (f)(1). [Pub. L. 98–181, § 434(1)][/us/pl/98/181/s434/1], struck out “the mortgagee is a public housing agency or an insured depository institution and” after “Where”. Notwithstanding the directory language that amendment be made to subsec. (g)(1), the amendment was executed to subsec. (f)(1) to reflect the probable intent of Congress and the intervening redesignation of subsec. (g) as (f) by [Pub. L. 96–470][/us/pl/96/470].
+    Subsec. (f)(1). [Pub. L. 98–181][/us/pl/98/181], § 434(1), struck out “the mortgagee is a public housing agency or an insured depository institution and” after “Where”. Notwithstanding the directory language that amendment be made to subsec. (g)(1), the amendment was executed to subsec. (f)(1) to reflect the probable intent of Congress and the intervening redesignation of subsec. (g) as (f) by [Pub. L. 96–470][/us/pl/96/470].
 
-    Subsec. (f)(5). [Pub. L. 98–181, § 434(2)][/us/pl/98/181/s434/2], substituted reference to [section 1437a(b)(6) of title 42][/us/usc/t42/s1437a/b/6] for reference to [section 1437a(6) of title 42][/us/usc/t42/s1437a/6] and struck out provision which defined the term “insured depository institution” as any savings bank, savings and loan association, commercial bank or other such depository institution whose deposits are insured by the Federal Deposit Insurance Corporation, by the Federal Savings and Loan Insurance Corporation, or by an agency or instrumentality of a State. Notwithstanding the directory language that amendment be made to subsec. (g)(5), the amendment was executed to subsec. (f)(5) to reflect the probable intent of Congress and the intervening redesignation of subsec. (g) as (f) by [Pub. L. 96–470][/us/pl/96/470].
+    Subsec. (f)(5). [Pub. L. 98–181][/us/pl/98/181], § 434(2), substituted reference to [section 1437a(b)(6) of title 42][/us/usc/t42/s1437a/b/6] for reference to [section 1437a(6) of title 42][/us/usc/t42/s1437a/6] and struck out provision which defined the term “insured depository institution” as any savings bank, savings and loan association, commercial bank or other such depository institution whose deposits are insured by the Federal Deposit Insurance Corporation, by the Federal Savings and Loan Insurance Corporation, or by an agency or instrumentality of a State. Notwithstanding the directory language that amendment be made to subsec. (g)(5), the amendment was executed to subsec. (f)(5) to reflect the probable intent of Congress and the intervening redesignation of subsec. (g) as (f) by [Pub. L. 96–470][/us/pl/96/470].
 
-    Subsec. (h). [Pub. L. 98–181, § 303(a)][/us/pl/98/181/s303/a], added subsec. (h).
+    Subsec. (h). [Pub. L. 98–181][/us/pl/98/181], § 303(a), added subsec. (h).
 
     1982—Subsec. (d). [Pub. L. 97–289][/us/pl/97/289] substituted “May 20, 1983” and “May 21, 1983” for “September 30, 1982” and “October 1, 1982”, respectively.
 
@@ -169,9 +169,9 @@
 
     [Pub. L. 95–60][/us/pl/95/60] substituted “July 31, 1977” for “June 30, 1977”.
 
-    1976—Subsec. (a). [Pub. L. 94–375, § 6(b)][/us/pl/94/375/s6/b], inserted, in text following par. (2), a provision excluding a mortgagee which enters into a contract under this section from regulation by state insurance laws.
+    1976—Subsec. (a). [Pub. L. 94–375][/us/pl/94/375], § 6(b), inserted, in text following par. (2), a provision excluding a mortgagee which enters into a contract under this section from regulation by state insurance laws.
 
-    Subsec. (g). [Pub. L. 94–375, § 6(a)][/us/pl/94/375/s6/a], added subsec. (g).
+    Subsec. (g). [Pub. L. 94–375][/us/pl/94/375], § 6(a), added subsec. (g).
 
  __Change of Name__ 
 
@@ -188,69 +188,69 @@
 ----------
 ----------
 
-[/us/pl/100/242/s414/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs414%2Fa
+[/us/pl/100/242/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtIV
 [/us/stat/101/1907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1907
-[/us/pl/100/242/s401/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs401%2Fa%2F3
+[/us/pl/100/242/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtIV
 [/us/stat/101/1898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1898
 [/us/usc/t12/s1715z–1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715z%E2%80%931%2Fb
 [/us/usc/t42/s1437a/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437a%2Fb%2F6
 [/us/usc/t12/s1715n/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715n%2Ff
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
-[/us/pl/93/383/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs307
+[/us/pl/93/383/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtIII
 [/us/stat/88/679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F679
-[/us/pl/94/375/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F375%2Fs6
+[/us/pl/94/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F375
 [/us/stat/90/1070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1070
-[/us/pl/95/60/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F60%2Fs1%2Fd
+[/us/pl/95/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F60
 [/us/stat/91/257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F257
-[/us/pl/95/80/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F80%2Fs1%2Fd
+[/us/pl/95/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F80
 [/us/stat/91/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F339
-[/us/pl/95/128/s301/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs301%2Ff
+[/us/pl/95/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2FtIII
 [/us/stat/91/1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1131
-[/us/pl/95/406/s1/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F406%2Fs1%2Ff
+[/us/pl/95/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F406
 [/us/stat/92/879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F879
-[/us/pl/95/557/s301/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2Fs301%2Ff
+[/us/pl/95/557/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2FtIII
 [/us/stat/92/2096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2096
-[/us/pl/96/71/s1/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F71%2Fs1%2Ff
+[/us/pl/96/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F71
 [/us/stat/93/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F501
-[/us/pl/96/105/s1/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F105%2Fs1%2Ff
+[/us/pl/96/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F105
 [/us/stat/93/794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F794
-[/us/pl/96/153/s301/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153%2Fs301%2Ff
+[/us/pl/96/153/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153%2FtIII
 [/us/stat/93/1111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1111
-[/us/pl/96/372/s1/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F372%2Fs1%2Ff
+[/us/pl/96/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F372
 [/us/stat/94/1363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1363
-[/us/pl/96/399/s301/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs301%2Ff
+[/us/pl/96/399/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2FtIII
 [/us/stat/94/1638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1638
-[/us/pl/96/470/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470%2Fs107%2Fa
+[/us/pl/96/470/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470%2FtI
 [/us/stat/94/2238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2238
-[/us/pl/97/35/s331/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs331%2Ff
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F413
-[/us/pl/97/289/s1/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F289%2Fs1%2Ff
+[/us/pl/97/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F289
 [/us/stat/96/1230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1230
-[/us/pl/98/35/s1/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F35%2Fs1%2Ff
+[/us/pl/98/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F35
 [/us/stat/97/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F197
-[/us/pl/98/109/s1/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F109%2Fs1%2Ff
+[/us/pl/98/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F109
 [/us/stat/97/745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F745
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1206
-[/us/pl/98/479/s104/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2Fs104%2Fa%2F5
+[/us/pl/98/479/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2FtI
 [/us/stat/98/2225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2225
-[/us/pl/99/120/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F120%2Fs1%2Fe
+[/us/pl/99/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F120
 [/us/stat/99/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F502
-[/us/pl/99/156/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F156%2Fs1%2Fe
+[/us/pl/99/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F156
 [/us/stat/99/815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F815
-[/us/pl/99/219/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F219%2Fs1%2Fe
+[/us/pl/99/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F219
 [/us/stat/99/1730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1730
-[/us/pl/99/267/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F267%2Fs1%2Fe
+[/us/pl/99/267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F267
 [/us/stat/100/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F73
-[/us/pl/99/272/s3007/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs3007%2Fe
+[/us/pl/99/272/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtIII
 [/us/stat/100/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F105
-[/us/pl/99/289/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F289%2Fs1%2Fb
+[/us/pl/99/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F289
 [/us/stat/100/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F412
-[/us/pl/99/345/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F345%2Fs1
+[/us/pl/99/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F345
 [/us/stat/100/673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F673
 [/us/pl/99/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F430
 [/us/stat/100/986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F986
-[/us/pl/100/122/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F122%2Fs1
+[/us/pl/100/122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F122
 [/us/stat/101/793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F793
 [/us/pl/100/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F154
 [/us/stat/101/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F890
@@ -260,22 +260,22 @@
 [/us/stat/101/1018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1018
 [/us/pl/100/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F200
 [/us/stat/101/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1327
-[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtIV
 [/us/stat/101/1898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1898
-[/us/pl/101/235/s139/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235%2Fs139%2Fa
+[/us/pl/101/235/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235%2FtI
 [/us/stat/103/2029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2029
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
 [/us/stat/48/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1246
-[/us/pl/101/625/s289/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs289%2Fb
+[/us/pl/101/625/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtII
 [/us/stat/104/4128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4128
 [/us/pl/101/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235
-[/us/pl/100/242/s414/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs414%2Fa
-[/us/pl/100/242/s401/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs401%2Fa%2F3
-[/us/pl/100/242/s429/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs429%2Fg%2F1
-[/us/pl/96/470/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470%2Fs107%2Fa
 [/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
-[/us/pl/100/242/s401/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs401%2Fa%2F3
-[/us/pl/100/242/s414/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs414%2Fb%2F2
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/96/470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
 [/us/pl/100/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F200
 [/us/pl/100/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F179
 [/us/pl/100/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F170
@@ -287,25 +287,25 @@
 [/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
 [/us/pl/99/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F219
 [/us/pl/99/267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F267
-[/us/pl/99/219/s1/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F219%2Fs1%2Fe%2F1
-[/us/pl/99/156/s1/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F156%2Fs1%2Fe%2F1
-[/us/pl/99/120/s1/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F120%2Fs1%2Fe%2F1
-[/us/pl/99/219/s1/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F219%2Fs1%2Fe%2F2
-[/us/pl/99/156/s1/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F156%2Fs1%2Fe%2F2
-[/us/pl/99/120/s1/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F120%2Fs1%2Fe%2F2
+[/us/pl/99/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F219
+[/us/pl/99/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F156
+[/us/pl/99/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F120
+[/us/pl/99/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F219
+[/us/pl/99/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F156
+[/us/pl/99/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F120
 [/us/pl/98/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479
-[/us/pl/98/181/s401/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs401%2Fe%2F3
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
 [/us/pl/98/181/s401/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs401%2Fe%2F2
-[/us/pl/98/181/s401/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs401%2Fe%2F1
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
 [/us/pl/98/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F109
 [/us/pl/98/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F35
-[/us/pl/98/181/s434/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs434%2F1
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
 [/us/pl/96/470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470
-[/us/pl/98/181/s434/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs434%2F2
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
 [/us/usc/t42/s1437a/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437a%2Fb%2F6
 [/us/usc/t42/s1437a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437a%2F6
 [/us/pl/96/470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470
-[/us/pl/98/181/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs303%2Fa
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
 [/us/pl/97/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F289
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
@@ -319,8 +319,8 @@
 [/us/pl/95/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128
 [/us/pl/95/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F80
 [/us/pl/95/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F60
-[/us/pl/94/375/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F375%2Fs6%2Fb
-[/us/pl/94/375/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F375%2Fs6%2Fa
+[/us/pl/94/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F375
+[/us/pl/94/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F375
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35

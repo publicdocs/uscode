@@ -105,11 +105,11 @@
 
             For purposes of this subsection, the term “identifiable form” means any representation of information that permits the identity of a borrower to which the information relates to be reasonably inferred by either direct or indirect means.
 
-([Pub. L. 102–550, title XIII, § 1324][/us/pl/102/550/s1324], as added [Pub. L. 110–289, div. A, title I, § 1125(b)][/us/pl/110/289/s1125/b], July 30, 2008, [122 Stat. 2693][/us/stat/122/2693].)
+([Pub. L. 102–550, title XIII][/us/pl/102/550/tXIII], § 1324, as added [Pub. L. 110–289, div. A, title I][/us/pl/110/289/dA/tI], § 1125(b), July 30, 2008, [122 Stat. 2693][/us/stat/122/2693].)
 
  __Prior Provisions__ 
 
-    A prior section 4544, [Pub. L. 102–550, title XIII, § 1324][/us/pl/102/550/s1324], Oct. 28, 1992, [106 Stat. 3954][/us/stat/106/3954], related to annual housing report, prior to repeal by [Pub. L. 110–289, div. A, title I, § 1125(a)][/us/pl/110/289/s1125/a], July 30, 2008, [122 Stat. 2693][/us/stat/122/2693].
+    A prior section 4544, [Pub. L. 102–550, title XIII][/us/pl/102/550/tXIII], § 1324, Oct. 28, 1992, [106 Stat. 3954][/us/stat/106/3954], related to annual housing report, prior to repeal by [Pub. L. 110–289, div. A, title I][/us/pl/110/289/dA/tI], § 1125(a), July 30, 2008, [122 Stat. 2693][/us/stat/122/2693].
 
 ----------
 
@@ -123,12 +123,12 @@
 [/us/usc/t12/s4565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4565
 [/us/usc/t12/s4567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4567
 [/us/usc/t12/s4561/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4561%2Fb%2F2
-[/us/pl/102/550/s1324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1324
-[/us/pl/110/289/s1125/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1125%2Fb
+[/us/pl/102/550/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIII
+[/us/pl/110/289/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtI
 [/us/stat/122/2693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2693
-[/us/pl/102/550/s1324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1324
+[/us/pl/102/550/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIII
 [/us/stat/106/3954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3954
-[/us/pl/110/289/s1125/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1125%2Fa
+[/us/pl/110/289/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtI
 [/us/stat/122/2693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2693
 
 

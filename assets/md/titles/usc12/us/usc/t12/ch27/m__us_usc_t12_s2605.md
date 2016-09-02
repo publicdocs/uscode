@@ -291,29 +291,29 @@
 
         All charges, apart from charges subject to State regulation as the business of insurance, related to force-placed insurance imposed on the borrower by or through the servicer shall be bona fide and reasonable.
 
-([Pub. L. 93–533, § 6][/us/pl/93/533/s6], as added [Pub. L. 101–625, title IX, § 941][/us/pl/101/625/s941], Nov. 28, 1990, [104 Stat. 4405][/us/stat/104/4405]; amended [Pub. L. 102–27, title III, § 312(a)][/us/pl/102/27/s312/a], Apr. 10, 1991, [105 Stat. 154][/us/stat/105/154]; [Pub. L. 103–325, title III, § 345][/us/pl/103/325/s345], Sept. 23, 1994, [108 Stat. 2239][/us/stat/108/2239]; [Pub. L. 104–208, div. A, title II, § 2103(a)][/us/pl/104/208/s2103/a], Sept. 30, 1996, [110 Stat. 3009–399][/us/stat/110/3009-399]; [Pub. L. 111–203, title X, § 1098(4)][/us/pl/111/203/s1098/4], title XIV, § 1463, July 21, 2010, [124 Stat. 2104][/us/stat/124/2104], 2182.)
+([Pub. L. 93–533][/us/pl/93/533], § 6, as added [Pub. L. 101–625, title IX][/us/pl/101/625/tIX], § 941, Nov. 28, 1990, [104 Stat. 4405][/us/stat/104/4405]; amended [Pub. L. 102–27, title III][/us/pl/102/27/tIII], § 312(a), Apr. 10, 1991, [105 Stat. 154][/us/stat/105/154]; [Pub. L. 103–325, title III][/us/pl/103/325/tIII], § 345, Sept. 23, 1994, [108 Stat. 2239][/us/stat/108/2239]; [Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], § 2103(a), Sept. 30, 1996, [110 Stat. 3009–399][/us/stat/110/3009-399]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1098(4), title XIV, § 1463, July 21, 2010, [124 Stat. 2104][/us/stat/124/2104], 2182.)
 
  __Prior Provisions__ 
 
-    A prior section 2605, [Pub. L. 93–533, § 6][/us/pl/93/533/s6], Dec. 22, 1974, [88 Stat. 1726][/us/stat/88/1726], related to advanced itemized disclosure of settlement costs by the lender and liability of the lender for failure to comply, prior to repeal by [Pub. L. 94–205, § 5][/us/pl/94/205/s5], Jan. 2, 1976, [89 Stat. 1158][/us/stat/89/1158].
+    A prior section 2605, [Pub. L. 93–533][/us/pl/93/533], § 6, Dec. 22, 1974, [88 Stat. 1726][/us/stat/88/1726], related to advanced itemized disclosure of settlement costs by the lender and liability of the lender for failure to comply, prior to repeal by [Pub. L. 94–205][/us/pl/94/205], § 5, Jan. 2, 1976, [89 Stat. 1158][/us/stat/89/1158].
 
  __Amendments__ 
 
-    2010—Subsec. (e)(1)(A). [Pub. L. 111–203, § 1463(c)(1)][/us/pl/111/203/s1463/c/1], substituted “5 days” for “20 days”.
+    2010—Subsec. (e)(1)(A). [Pub. L. 111–203][/us/pl/111/203], § 1463(c)(1), substituted “5 days” for “20 days”.
 
-    Subsec. (e)(2). [Pub. L. 111–203, § 1463(c)(2)][/us/pl/111/203/s1463/c/2], substituted “30 days” for “60 days” in introductory provisions.
+    Subsec. (e)(2). [Pub. L. 111–203][/us/pl/111/203], § 1463(c)(2), substituted “30 days” for “60 days” in introductory provisions.
 
-    Subsec. (e)(4). [Pub. L. 111–203, § 1463(c)(3)][/us/pl/111/203/s1463/c/3], added par. (4).
+    Subsec. (e)(4). [Pub. L. 111–203][/us/pl/111/203], § 1463(c)(3), added par. (4).
 
-    Subsec. (f)(1)(B), (2)(B). [Pub. L. 111–203, § 1463(b)(1)][/us/pl/111/203/s1463/b/1], substituted “$2,000” for “$1,000”.
+    Subsec. (f)(1)(B), (2)(B). [Pub. L. 111–203][/us/pl/111/203], § 1463(b)(1), substituted “$2,000” for “$1,000”.
 
-    Subsec. (f)(2)(B)(i). [Pub. L. 111–203, § 1463(b)(2)][/us/pl/111/203/s1463/b/2], substituted “$1,000,000” for “$500,000”.
+    Subsec. (f)(2)(B)(i). [Pub. L. 111–203][/us/pl/111/203], § 1463(b)(2), substituted “$1,000,000” for “$500,000”.
 
-    Subsec. (g). [Pub. L. 111–203, § 1463(d)][/us/pl/111/203/s1463/d], inserted at end “Any balance in any such account that is within the servicer’s control at the time the loan is paid off shall be promptly returned to the borrower within 20 business days or credited to a similar account for a new mortgage loan to the borrower with the same lender.”
+    Subsec. (g). [Pub. L. 111–203][/us/pl/111/203], § 1463(d), inserted at end “Any balance in any such account that is within the servicer’s control at the time the loan is paid off shall be promptly returned to the borrower within 20 business days or credited to a similar account for a new mortgage loan to the borrower with the same lender.”
 
-    Subsec. (j)(3). [Pub. L. 111–203, § 1098(4)][/us/pl/111/203/s1098/4], substituted “Bureau” for “Secretary” and struck out “, by regulations that shall take effect not later than April 20, 1991,” before “establish”.
+    Subsec. (j)(3). [Pub. L. 111–203][/us/pl/111/203], § 1098(4), substituted “Bureau” for “Secretary” and struck out “, by regulations that shall take effect not later than April 20, 1991,” before “establish”.
 
-    Subsecs. (k) to (m). [Pub. L. 111–203, § 1463(a)][/us/pl/111/203/s1463/a], added subsecs. (k) to (m).
+    Subsecs. (k) to (m). [Pub. L. 111–203][/us/pl/111/203], § 1463(a), added subsecs. (k) to (m).
 
     1996—Subsec. (a). [Pub. L. 104–208][/us/pl/104/208] amended heading and text of subsec. (a) generally. Prior to amendment, text consisted of pars. (1) to (3) relating to requirements for lenders of federally related mortgage loans to disclose to applicants whether servicing of such loan may be assigned, sold, or transferred, directed Secretary to develop model disclosure statement, and required signature of applicant on all such disclosure statements.
 
@@ -342,29 +342,29 @@
 [/us/usc/t12/s1823/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1823%2Fc
 [/us/usc/t12/s2609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2609
 [/us/usc/t42/s4012a/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4012a%2Fe
-[/us/pl/93/533/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F533%2Fs6
-[/us/pl/101/625/s941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs941
+[/us/pl/93/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F533
+[/us/pl/101/625/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtIX
 [/us/stat/104/4405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4405
-[/us/pl/102/27/s312/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F27%2Fs312%2Fa
+[/us/pl/102/27/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F27%2FtIII
 [/us/stat/105/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F154
-[/us/pl/103/325/s345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs345
+[/us/pl/103/325/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtIII
 [/us/stat/108/2239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2239
-[/us/pl/104/208/s2103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2103%2Fa
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-399
-[/us/pl/111/203/s1098/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1098%2F4
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2104
-[/us/pl/93/533/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F533%2Fs6
+[/us/pl/93/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F533
 [/us/stat/88/1726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1726
-[/us/pl/94/205/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F205%2Fs5
+[/us/pl/94/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F205
 [/us/stat/89/1158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1158
-[/us/pl/111/203/s1463/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1463%2Fc%2F1
-[/us/pl/111/203/s1463/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1463%2Fc%2F2
-[/us/pl/111/203/s1463/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1463%2Fc%2F3
-[/us/pl/111/203/s1463/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1463%2Fb%2F1
-[/us/pl/111/203/s1463/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1463%2Fb%2F2
-[/us/pl/111/203/s1463/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1463%2Fd
-[/us/pl/111/203/s1098/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1098%2F4
-[/us/pl/111/203/s1463/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1463%2Fa
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
 [/us/pl/102/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F27

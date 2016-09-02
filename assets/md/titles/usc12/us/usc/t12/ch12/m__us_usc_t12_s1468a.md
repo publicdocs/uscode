@@ -17,7 +17,7 @@
 
     No savings association shall carry on any sale, plan, or practices, or any advertising, in violation of regulations promulgated by a Federal banking agency.
 
-([June 13, 1933, ch. 64, § 12][/us/act/1933-06-13/ch64/s12], as added [Pub. L. 101–73, title III, § 301][/us/pl/101/73/s301], Aug. 9, 1989, [103 Stat. 343][/us/stat/103/343]; amended [Pub. L. 111–203, title III, § 369(10)][/us/pl/111/203/s369/10], July 21, 2010, [124 Stat. 1565][/us/stat/124/1565].)
+([June 13, 1933, ch. 64][/us/act/1933-06-13/ch64], § 12, as added [Pub. L. 101–73, title III][/us/pl/101/73/tIII], § 301, Aug. 9, 1989, [103 Stat. 343][/us/stat/103/343]; amended [Pub. L. 111–203, title III][/us/pl/111/203/tIII], § 369(10), July 21, 2010, [124 Stat. 1565][/us/stat/124/1565].)
 
  __Amendments__ 
 
@@ -34,10 +34,10 @@
 ----------
 ----------
 
-[/us/act/1933-06-13/ch64/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-13%2Fch64%2Fs12
-[/us/pl/101/73/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs301
+[/us/act/1933-06-13/ch64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-13%2Fch64
+[/us/pl/101/73/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtIII
 [/us/stat/103/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F343
-[/us/pl/111/203/s369/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs369%2F10
+[/us/pl/111/203/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIII
 [/us/stat/124/1565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1565
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203

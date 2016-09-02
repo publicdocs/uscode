@@ -27,7 +27,7 @@
 
         Amounts deposited into the account and interest earned on such amounts pursuant to this section shall be available to the Fund until expended.
 
-([Pub. L. 103–325, title I, § 112][/us/pl/103/325/s112], Sept. 23, 1994, [108 Stat. 2177][/us/stat/108/2177].)
+([Pub. L. 103–325, title I][/us/pl/103/325/tI], § 112, Sept. 23, 1994, [108 Stat. 2177][/us/stat/108/2177].)
 
 ----------
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t12/s4708/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4708%2Ff
-[/us/pl/103/325/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs112
+[/us/pl/103/325/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtI
 [/us/stat/108/2177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2177
 
 

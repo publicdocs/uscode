@@ -155,7 +155,7 @@
 
         There are authorized to be appropriated to carry out this section, $8,000,000 for each of fiscal years 2011 through 2015.
 
-([Pub. L. 111–203, title IX, § 989A][/us/pl/111/203/s989A], July 21, 2010, [124 Stat. 1941][/us/stat/124/1941].)
+([Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 989A, July 21, 2010, [124 Stat. 1941][/us/stat/124/1941].)
 
  __Codification__ 
 
@@ -173,7 +173,7 @@
 ----------
 
 [/us/usc/t15/s78c/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c%2Fa
-[/us/pl/111/203/s989A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs989A
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1941
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs4

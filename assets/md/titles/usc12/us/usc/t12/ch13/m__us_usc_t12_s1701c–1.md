@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act June 24, 1954, ch. 359][/us/act/1954-06-24/ch359], title I, § 101, [68 Stat. 283][/us/stat/68/283], provided for promotion of economy, efficiency and fidelity in operations of Housing and Home Finance Agency by its Administrator, on and after June 24, 1954, under Reorg. Plan No. 3 of 1947, eff. July 27, 1947, 12 F.R. 4981, [61 Stat. 954][/us/stat/61/954], set out in the Appendix to Title 5, Government Organization and Employees, through assignment and reassignment of functions, reorganizations, and reallocation and transfers of administrative expense funds and authority. Functions, powers, and duties of such agency, its head and other officers were transferred to and vested in the Secretary of Housing and Urban Development by [Pub. L. 89–174, § 5][/us/pl/89/174/s5], Sept. 9, 1965, [79 Stat. 669][/us/stat/79/669], classified to [section 3534 of Title 42][/us/usc/t42/s3534], The Public Health and Welfare.
+    Section, [act June 24, 1954, ch. 359, title I][/us/act/1954-06-24/ch359/tI], § 101, [68 Stat. 283][/us/stat/68/283], provided for promotion of economy, efficiency and fidelity in operations of Housing and Home Finance Agency by its Administrator, on and after June 24, 1954, under Reorg. Plan No. 3 of 1947, eff. July 27, 1947, 12 F.R. 4981, [61 Stat. 954][/us/stat/61/954], set out in the Appendix to Title 5, Government Organization and Employees, through assignment and reassignment of functions, reorganizations, and reallocation and transfers of administrative expense funds and authority. Functions, powers, and duties of such agency, its head and other officers were transferred to and vested in the Secretary of Housing and Urban Development by [Pub. L. 89–174][/us/pl/89/174], § 5, Sept. 9, 1965, [79 Stat. 669][/us/stat/79/669], classified to [section 3534 of Title 42][/us/usc/t42/s3534], The Public Health and Welfare.
 
 ----------
 
@@ -26,10 +26,10 @@
 ----------
 ----------
 
-[/us/act/1954-06-24/ch359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-06-24%2Fch359
+[/us/act/1954-06-24/ch359/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-06-24%2Fch359%2FtI
 [/us/stat/68/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F283
 [/us/stat/61/954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F954
-[/us/pl/89/174/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F174%2Fs5
+[/us/pl/89/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F174
 [/us/stat/79/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F669
 [/us/usc/t42/s3534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3534
 

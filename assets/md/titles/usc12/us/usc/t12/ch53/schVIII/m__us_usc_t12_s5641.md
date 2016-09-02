@@ -77,7 +77,7 @@
 
         The requirements of this section shall not apply to covered financial institutions with assets of less than $1,000,000,000.
 
-([Pub. L. 111–203, title IX, § 956][/us/pl/111/203/s956], July 21, 2010, [124 Stat. 1905][/us/stat/124/1905].)
+([Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 956, July 21, 2010, [124 Stat. 1905][/us/stat/124/1905].)
 
  __References in Text__ 
 
@@ -102,7 +102,7 @@
 [/us/usc/t12/s1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813
 [/us/usc/t12/s461/b/1/A/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs461%2Fb%2F1%2FA%2Fiv
 [/us/usc/t15/s80b–2/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80b%E2%80%932%2Fa%2F11
-[/us/pl/111/203/s956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs956
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1905
 [/us/usc/t12/s1831p–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1831p%E2%80%931
 [/us/usc/t12/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2

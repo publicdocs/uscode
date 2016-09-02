@@ -17,7 +17,7 @@
 
     The Secretary of Housing and Urban Development is authorized to establish such advisory committee or committees as he may deem necessary in carrying out any of his functions, powers, and duties under this or any other Act or authorization. Persons serving without compensation as members of any such committee may be paid transportation expenses and not to exceed $25 per diem in lieu of subsistence, as authorized by [section 5703 of title 5][/us/usc/t5/s5703].
 
-([July 15, 1949, ch. 338][/us/act/1949-07-15/ch338], title VI, § 601, [63 Stat. 439][/us/stat/63/439]; [Aug. 2, 1954, ch. 649][/us/act/1954-08-02/ch649], title VIII, § 807, [68 Stat. 645][/us/stat/68/645]; [Pub. L. 89–117, title XI, § 1106][/us/pl/89/117/s1106], Aug. 10, 1965, [79 Stat. 503][/us/stat/79/503]; [Pub. L. 90–19, § 6(h)][/us/pl/90/19/s6/h], May 25, 1967, [81 Stat. 22][/us/stat/81/22]; [Pub. L. 98–479, title II, § 202(c)][/us/pl/98/479/s202/c], Oct. 17, 1984, [98 Stat. 2228][/us/stat/98/2228].)
+([July 15, 1949, ch. 338][/us/act/1949-07-15/ch338], title VI, § 601, [63 Stat. 439][/us/stat/63/439]; [Aug. 2, 1954, ch. 649][/us/act/1954-08-02/ch649], title VIII, § 807, [68 Stat. 645][/us/stat/68/645]; [Pub. L. 89–117, title XI][/us/pl/89/117/tXI], § 1106, Aug. 10, 1965, [79 Stat. 503][/us/stat/79/503]; [Pub. L. 90–19][/us/pl/90/19], § 6(h), May 25, 1967, [81 Stat. 22][/us/stat/81/22]; [Pub. L. 98–479, title II][/us/pl/98/479/tII], § 202(c), Oct. 17, 1984, [98 Stat. 2228][/us/stat/98/2228].)
 
  __References in Text__ 
 
@@ -69,11 +69,11 @@
 [/us/stat/63/439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F439
 [/us/act/1954-08-02/ch649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-02%2Fch649
 [/us/stat/68/645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F645
-[/us/pl/89/117/s1106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117%2Fs1106
+[/us/pl/89/117/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117%2FtXI
 [/us/stat/79/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F503
-[/us/pl/90/19/s6/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19%2Fs6%2Fh
+[/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
 [/us/stat/81/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F22
-[/us/pl/98/479/s202/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2Fs202%2Fc
+[/us/pl/98/479/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2FtII
 [/us/stat/98/2228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2228
 [/us/act/1949-07-15/ch338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-07-15%2Fch338
 [/us/stat/63/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F413

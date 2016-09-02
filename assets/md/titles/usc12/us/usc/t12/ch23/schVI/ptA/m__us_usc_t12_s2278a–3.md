@@ -59,13 +59,13 @@
 
         Notwithstanding any other provision of law, any civil action, suit, or proceeding to which the Assistance Board is a party shall be deemed to arise under the laws of the United States, and the United States District Court for the District of Columbia shall have exclusive jurisdiction over such. The Assistance Board may, without bond or security, remove any such action, suit, or proceeding from a State court to the United States District Court for the District of Columbia.
 
-([Pub. L. 92–181, title VI, § 6][/us/pl/92/181/s6].3, as added [Pub. L. 100–233, title II, § 201][/us/pl/100/233/s201], Jan. 6, 1988, [101 Stat. 1587][/us/stat/101/1587]; amended [Pub. L. 100–399, title II, § 201(a)][/us/pl/100/399/s201/a], (b), Aug. 17, 1988, [102 Stat. 990][/us/stat/102/990].)
+([Pub. L. 92–181, title VI][/us/pl/92/181/tVI], § 6.3, as added [Pub. L. 100–233, title II][/us/pl/100/233/tII], § 201, Jan. 6, 1988, [101 Stat. 1587][/us/stat/101/1587]; amended [Pub. L. 100–399, title II][/us/pl/100/399/tII], § 201(a), (b), Aug. 17, 1988, [102 Stat. 990][/us/stat/102/990].)
 
  __Amendments__ 
 
-    1988—Subsec. (a)(12). [Pub. L. 100–399, § 201(a)][/us/pl/100/399/s201/a], substituted “(within the meaning of [section 1813 of this title][/us/usc/t12/s1813])” for “(as defined in [section 1813(b) of this title][/us/usc/t12/s1813/b])”.
+    1988—Subsec. (a)(12). [Pub. L. 100–399][/us/pl/100/399], § 201(a), substituted “(within the meaning of [section 1813 of this title][/us/usc/t12/s1813])” for “(as defined in [section 1813(b) of this title][/us/usc/t12/s1813/b])”.
 
-    Subsec. (b). [Pub. L. 100–399, § 201(b)][/us/pl/100/399/s201/b], substituted “exclusive” for “original”.
+    Subsec. (b). [Pub. L. 100–399][/us/pl/100/399], § 201(b), substituted “exclusive” for “original”.
 
  __Effective Date of 1988 Amendment__ 
 
@@ -73,19 +73,19 @@
 
  __Hiring, Promotion, Compensation, and Discharge of Employees__ 
 
-[Pub. L. 102–341, title VI][/us/pl/102/341], Aug. 14, 1992, [106 Stat. 906][/us/stat/106/906], provided: 
+[Pub. L. 102–341, title VI][/us/pl/102/341/tVI], Aug. 14, 1992, [106 Stat. 906][/us/stat/106/906], provided: 
 
 > “That officers and employees of the Farm Credit System Assistance Board shall be hired, promoted, compensated, and discharged in accordance with title 5, United States Code.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
-    [Pub. L. 102–142, title VI][/us/pl/102/142], Oct. 28, 1991, [105 Stat. 910][/us/stat/105/910].
+    [Pub. L. 102–142, title VI][/us/pl/102/142/tVI], Oct. 28, 1991, [105 Stat. 910][/us/stat/105/910].
 
-    [Pub. L. 101–506, title V][/us/pl/101/506], Nov. 5, 1990, [104 Stat. 1345][/us/stat/104/1345].
+    [Pub. L. 101–506, title V][/us/pl/101/506/tV], Nov. 5, 1990, [104 Stat. 1345][/us/stat/104/1345].
 
-    [Pub. L. 101–161, title V][/us/pl/101/161], Nov. 21, 1989, [103 Stat. 981][/us/stat/103/981].
+    [Pub. L. 101–161, title V][/us/pl/101/161/tV], Nov. 21, 1989, [103 Stat. 981][/us/stat/103/981].
 
-    [Pub. L. 100–460, title V][/us/pl/100/460], Oct. 1, 1988, [102 Stat. 2259][/us/stat/102/2259].
+    [Pub. L. 100–460, title V][/us/pl/100/460/tV], Oct. 1, 1988, [102 Stat. 2259][/us/stat/102/2259].
 
 ----------
 
@@ -96,28 +96,28 @@ Similar provisions were contained in the following prior appropriation acts:
 
 [/us/usc/t5/s5314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5314
 [/us/usc/t12/s1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813
-[/us/pl/92/181/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs6
-[/us/pl/100/233/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs201
+[/us/pl/92/181/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtVI
+[/us/pl/100/233/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtII
 [/us/stat/101/1587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1587
-[/us/pl/100/399/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs201%2Fa
+[/us/pl/100/399/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtII
 [/us/stat/102/990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F990
-[/us/pl/100/399/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs201%2Fa
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/usc/t12/s1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813
 [/us/usc/t12/s1813/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813%2Fb
-[/us/pl/100/399/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs201%2Fb
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
 [/us/pl/100/399/s1001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs1001%2Fa
 [/us/usc/t12/s2002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2002
-[/us/pl/102/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F341
+[/us/pl/102/341/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F341%2FtVI
 [/us/stat/106/906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F906
-[/us/pl/102/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F142
+[/us/pl/102/142/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F142%2FtVI
 [/us/stat/105/910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F910
-[/us/pl/101/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F506
+[/us/pl/101/506/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F506%2FtV
 [/us/stat/104/1345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1345
-[/us/pl/101/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F161
+[/us/pl/101/161/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F161%2FtV
 [/us/stat/103/981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F981
-[/us/pl/100/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F460
+[/us/pl/100/460/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F460%2FtV
 [/us/stat/102/2259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2259
 
 

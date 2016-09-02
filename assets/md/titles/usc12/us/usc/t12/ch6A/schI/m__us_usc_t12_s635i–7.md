@@ -27,11 +27,11 @@
 
     (2) consistent with the provisions of [section 4721(f)(2) of title 15][/us/usc/t15/s4721/f/2], undertake a program to provide training for personnel designated in such memoranda with respect to such financing programs.
 
-([July 31, 1945, ch. 341, § 13][/us/act/1945-07-31/ch341/s13], formerly § 19, as added and renumbered § 13, [Pub. L. 102–429, title I][/us/pl/102/429], §§ 115, 121(c)(7), Oct. 21, 1992, [106 Stat. 2196][/us/stat/106/2196], 2199.)
+([July 31, 1945, ch. 341][/us/act/1945-07-31/ch341], § 13, formerly § 19, as added and renumbered § 13, [Pub. L. 102–429, title I][/us/pl/102/429/tI], §§ 115, 121(c)(7), Oct. 21, 1992, [106 Stat. 2196][/us/stat/106/2196], 2199.)
 
  __Prior Provisions__ 
 
-    A prior section 13 of [act July 31, 1945, ch. 341][/us/act/1945-07-31/ch341], was classified to [section 635i–1 of this title][/us/usc/t12/s635i–1], prior to repeal by [Pub. L. 102–429, § 121(c)(1)][/us/pl/102/429/s121/c/1].
+    A prior section 13 of [act July 31, 1945, ch. 341][/us/act/1945-07-31/ch341], was classified to [section 635i–1 of this title][/us/usc/t12/s635i–1], prior to repeal by [Pub. L. 102–429][/us/pl/102/429], § 121(c)(1).
 
 ----------
 
@@ -41,11 +41,11 @@
 ----------
 
 [/us/usc/t15/s4721/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4721%2Ff%2F2
-[/us/act/1945-07-31/ch341/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch341%2Fs13
-[/us/pl/102/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429
+[/us/act/1945-07-31/ch341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch341
+[/us/pl/102/429/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429%2FtI
 [/us/stat/106/2196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2196
 [/us/act/1945-07-31/ch341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch341
 [/us/usc/t12/s635i–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635i%E2%80%931
-[/us/pl/102/429/s121/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429%2Fs121%2Fc%2F1
+[/us/pl/102/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429
 
 

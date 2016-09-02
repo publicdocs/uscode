@@ -17,7 +17,7 @@
 
     Each appropriate Federal financial supervisory agency shall include in its annual report to the Congress a section outlining the actions it has taken to carry out its responsibilities under this chapter.
 
-([Pub. L. 95–128, title VIII, § 805][/us/pl/95/128/s805], Oct. 12, 1977, [91 Stat. 1148][/us/stat/91/1148].)
+([Pub. L. 95–128, title VIII][/us/pl/95/128/tVIII], § 805, Oct. 12, 1977, [91 Stat. 1148][/us/stat/91/1148].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/128/s805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs805
+[/us/pl/95/128/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2FtVIII
 [/us/stat/91/1148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1148
 
 

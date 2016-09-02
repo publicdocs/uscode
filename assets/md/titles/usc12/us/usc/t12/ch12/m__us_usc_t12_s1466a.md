@@ -31,11 +31,11 @@
 
         Nothing in this section shall cause, or permit the Comptroller to cause, District of Columbia associations to be or become Federal savings associations, or require the Comptroller to impose on District of Columbia associations the same regulations as are imposed on Federal savings associations.
 
-([June 13, 1933, ch. 64, § 8][/us/act/1933-06-13/ch64/s8], as added [Pub. L. 91–609, title IX, § 913][/us/pl/91/609/s913], Dec. 31, 1970, [84 Stat. 1815][/us/stat/84/1815]; amended [Pub. L. 101–73, title III, § 301][/us/pl/101/73/s301], Aug. 9, 1989, [103 Stat. 315][/us/stat/103/315]; [Pub. L. 111–203, title III, § 369(6)][/us/pl/111/203/s369/6], July 21, 2010, [124 Stat. 1563][/us/stat/124/1563].)
+([June 13, 1933, ch. 64][/us/act/1933-06-13/ch64], § 8, as added [Pub. L. 91–609, title IX][/us/pl/91/609/tIX], § 913, Dec. 31, 1970, [84 Stat. 1815][/us/stat/84/1815]; amended [Pub. L. 101–73, title III][/us/pl/101/73/tIII], § 301, Aug. 9, 1989, [103 Stat. 315][/us/stat/103/315]; [Pub. L. 111–203, title III][/us/pl/111/203/tIII], § 369(6), July 21, 2010, [124 Stat. 1563][/us/stat/124/1563].)
 
  __Prior Provisions__ 
 
-    A prior section 8 of [act June 13, 1933, ch. 64][/us/act/1933-06-13/ch64], [48 Stat. 134][/us/stat/48/134], was classified to [section 1467 of this title][/us/usc/t12/s1467], prior to repeal by [act June 25, 1948, ch. 645, § 21][/us/act/1948-06-25/ch645/s21], [62 Stat. 862][/us/stat/62/862], eff. Sept. 1, 1948.
+    A prior section 8 of [act June 13, 1933, ch. 64][/us/act/1933-06-13/ch64], [48 Stat. 134][/us/stat/48/134], was classified to [section 1467 of this title][/us/usc/t12/s1467], prior to repeal by [act June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], § 21, [62 Stat. 862][/us/stat/62/862], eff. Sept. 1, 1948.
 
  __Amendments__ 
 
@@ -54,17 +54,17 @@
 ----------
 ----------
 
-[/us/act/1933-06-13/ch64/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-13%2Fch64%2Fs8
-[/us/pl/91/609/s913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F609%2Fs913
+[/us/act/1933-06-13/ch64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-13%2Fch64
+[/us/pl/91/609/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F609%2FtIX
 [/us/stat/84/1815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1815
-[/us/pl/101/73/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs301
+[/us/pl/101/73/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtIII
 [/us/stat/103/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F315
-[/us/pl/111/203/s369/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs369%2F6
+[/us/pl/111/203/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIII
 [/us/stat/124/1563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1563
 [/us/act/1933-06-13/ch64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-13%2Fch64
 [/us/stat/48/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F134
 [/us/usc/t12/s1467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1467
-[/us/act/1948-06-25/ch645/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645%2Fs21
+[/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F862
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73

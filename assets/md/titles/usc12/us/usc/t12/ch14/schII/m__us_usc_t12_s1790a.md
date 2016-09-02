@@ -53,7 +53,7 @@
 
         The Board shall prescribe by regulation a definition for the terms “troubled condition” and “senior executive officer” for purposes of subsection (a).
 
-([June 26, 1934, ch. 750][/us/act/1934-06-26/ch750], title II, § 212, as added [Pub. L. 101–73, title IX, § 914(b)][/us/pl/101/73/s914/b], Aug. 9, 1989, [103 Stat. 485][/us/stat/103/485].)
+([June 26, 1934, ch. 750][/us/act/1934-06-26/ch750], title II, § 212, as added [Pub. L. 101–73, title IX][/us/pl/101/73/tIX], § 914(b), Aug. 9, 1989, [103 Stat. 485][/us/stat/103/485].)
 
  __Codification__ 
 
@@ -68,7 +68,7 @@
 
 [/us/usc/t12/s1817/j/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1817%2Fj%2F6%2FA
 [/us/act/1934-06-26/ch750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-26%2Fch750
-[/us/pl/101/73/s914/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs914%2Fb
+[/us/pl/101/73/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtIX
 [/us/stat/103/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F485
 [/us/pl/101/73/s914/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs914%2Fb
 [/us/usc/t12/s1781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1781

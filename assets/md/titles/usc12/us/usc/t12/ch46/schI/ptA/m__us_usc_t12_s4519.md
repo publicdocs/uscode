@@ -17,7 +17,7 @@
 
     The Director may, on such terms and conditions as the Director deems appropriate, contract with any entity to conduct a review of the regulated entities.
 
-([Pub. L. 102–550, title XIII, § 1319][/us/pl/102/550/s1319], Oct. 28, 1992, [106 Stat. 3950][/us/stat/106/3950]; [Pub. L. 109–291, § 4(b)(4)][/us/pl/109/291/s4/b/4], Sept. 29, 2006, [120 Stat. 1337][/us/stat/120/1337]; [Pub. L. 110–289, div. A, title I, § 1105(d)][/us/pl/110/289/s1105/d], July 30, 2008, [122 Stat. 2668][/us/stat/122/2668]; [Pub. L. 111–203, title IX, § 939(b)][/us/pl/111/203/s939/b], July 21, 2010, [124 Stat. 1886][/us/stat/124/1886].)
+([Pub. L. 102–550, title XIII][/us/pl/102/550/tXIII], § 1319, Oct. 28, 1992, [106 Stat. 3950][/us/stat/106/3950]; [Pub. L. 109–291][/us/pl/109/291], § 4(b)(4), Sept. 29, 2006, [120 Stat. 1337][/us/stat/120/1337]; [Pub. L. 110–289, div. A, title I][/us/pl/110/289/dA/tI], § 1105(d), July 30, 2008, [122 Stat. 2668][/us/stat/122/2668]; [Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 939(b), July 21, 2010, [124 Stat. 1886][/us/stat/124/1886].)
 
  __Amendments__ 
 
@@ -38,13 +38,13 @@
 ----------
 ----------
 
-[/us/pl/102/550/s1319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1319
+[/us/pl/102/550/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIII
 [/us/stat/106/3950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3950
-[/us/pl/109/291/s4/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F291%2Fs4%2Fb%2F4
+[/us/pl/109/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F291
 [/us/stat/120/1337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1337
-[/us/pl/110/289/s1105/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1105%2Fd
+[/us/pl/110/289/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtI
 [/us/stat/122/2668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2668
-[/us/pl/111/203/s939/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs939%2Fb
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1886
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/usc/t15/s78c/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c%2Fa

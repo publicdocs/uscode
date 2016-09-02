@@ -51,7 +51,7 @@
 
         In selecting applicants for assistance, the Fund shall seek to fund a geographically diverse group of applicants, which shall include applicants from metropolitan, nonmetropolitan, and rural areas.
 
-([Pub. L. 103–325, title I, § 107][/us/pl/103/325/s107], Sept. 23, 1994, [108 Stat. 2172][/us/stat/108/2172].)
+([Pub. L. 103–325, title I][/us/pl/103/325/tI], § 107, Sept. 23, 1994, [108 Stat. 2172][/us/stat/108/2172].)
 
 ----------
 
@@ -62,7 +62,7 @@
 
 [/us/usc/t12/s4712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4712
 [/us/usc/t12/s4704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4704
-[/us/pl/103/325/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs107
+[/us/pl/103/325/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtI
 [/us/stat/108/2172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2172
 
 

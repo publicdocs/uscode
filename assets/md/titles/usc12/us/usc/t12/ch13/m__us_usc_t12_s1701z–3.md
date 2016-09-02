@@ -29,11 +29,11 @@
 
         The Secretary shall report to the Congress on his findings pursuant to this section not later than eighteen months after August 22, 1974.
 
-([Pub. L. 91–609, title V, § 504][/us/pl/91/609/s504], Dec. 31, 1970, [84 Stat. 1786][/us/stat/84/1786]; [Pub. L. 93–383, title VIII, § 804][/us/pl/93/383/s804], Aug. 22, 1974, [88 Stat. 725][/us/stat/88/725]; [Pub. L. 94–375, § 23(b)][/us/pl/94/375/s23/b], Aug. 3, 1976, [90 Stat. 1078][/us/stat/90/1078]; [Pub. L. 98–35, § 6(a)][/us/pl/98/35/s6/a], May 26, 1983, [97 Stat. 198][/us/stat/97/198].)
+([Pub. L. 91–609, title V][/us/pl/91/609/tV], § 504, Dec. 31, 1970, [84 Stat. 1786][/us/stat/84/1786]; [Pub. L. 93–383, title VIII][/us/pl/93/383/tVIII], § 804, Aug. 22, 1974, [88 Stat. 725][/us/stat/88/725]; [Pub. L. 94–375][/us/pl/94/375], § 23(b), Aug. 3, 1976, [90 Stat. 1078][/us/stat/90/1078]; [Pub. L. 98–35][/us/pl/98/35], § 6(a), May 26, 1983, [97 Stat. 198][/us/stat/97/198].)
 
  __References in Text__ 
 
-    The United States Housing Act of 1937, referred to in subsec. (b)(1), is [act Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], as revised generally by [Pub. L. 93–383, title II][/us/pl/93/383], Aug. 22, 1974, [88 Stat. 653][/us/stat/88/653], which is classified to chapter 8 (§ 1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1437 of Title 42][/us/usc/t42/s1437] and Tables.
+    The United States Housing Act of 1937, referred to in subsec. (b)(1), is [act Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], as revised generally by [Pub. L. 93–383, title II][/us/pl/93/383/tII], Aug. 22, 1974, [88 Stat. 653][/us/stat/88/653], which is classified to chapter 8 (§ 1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1437 of Title 42][/us/usc/t42/s1437] and Tables.
 
  __Codification__ 
 
@@ -61,7 +61,7 @@
 
  __Effective Date of 1983 Amendment__ 
 
-[Pub. L. 98–35, § 6(b)][/us/pl/98/35/s6/b], May 26, 1983, [97 Stat. 199][/us/stat/97/199], provided that: 
+[Pub. L. 98–35][/us/pl/98/35], § 6(b), May 26, 1983, [97 Stat. 199][/us/stat/97/199], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall become effective on October 1, 1983.”
 
@@ -74,16 +74,16 @@
 
 [/us/usc/t42/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437
 [/us/usc/t42/s1437c/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437c%2Fc
-[/us/pl/91/609/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F609%2Fs504
+[/us/pl/91/609/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F609%2FtV
 [/us/stat/84/1786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1786
-[/us/pl/93/383/s804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs804
+[/us/pl/93/383/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtVIII
 [/us/stat/88/725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F725
-[/us/pl/94/375/s23/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F375%2Fs23%2Fb
+[/us/pl/94/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F375
 [/us/stat/90/1078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1078
-[/us/pl/98/35/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F35%2Fs6%2Fa
+[/us/pl/98/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F35
 [/us/stat/97/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F198
 [/us/act/1937-09-01/ch896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch896
-[/us/pl/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383
+[/us/pl/93/383/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtII
 [/us/stat/88/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F653
 [/us/usc/t42/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437
 [/us/pl/98/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F35
@@ -96,7 +96,7 @@
 [/us/pl/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383
 [/us/pl/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383
 [/us/pl/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383
-[/us/pl/98/35/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F35%2Fs6%2Fb
+[/us/pl/98/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F35
 [/us/stat/97/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F199
 
 

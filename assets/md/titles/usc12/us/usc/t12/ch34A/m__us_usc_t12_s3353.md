@@ -53,7 +53,7 @@
 
             Subject to the approval of the Council, the Appraisal Subcommittee may extend by an additional 12 months the requirements for the registration and supervision of appraisal management companies if it makes a written finding that a State has made substantial progress in establishing a State appraisal management company registration and supervision system that appears to conform with the provisions of this chapter.
 
-([Pub. L. 101–73, title XI, § 1124][/us/pl/101/73/s1124], as added [Pub. L. 111–203, title XIV, § 1473(f)(2)][/us/pl/111/203/s1473/f/2], July 21, 2010, [124 Stat. 2192][/us/stat/124/2192].)
+([Pub. L. 101–73, title XI][/us/pl/101/73/tXI], § 1124, as added [Pub. L. 111–203, title XIV][/us/pl/111/203/tXIV], § 1473(f)(2), July 21, 2010, [124 Stat. 2192][/us/stat/124/2192].)
 
  __Effective Date__ 
 
@@ -67,8 +67,8 @@
 ----------
 
 [/us/usc/t15/s1639e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1639e
-[/us/pl/101/73/s1124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs1124
-[/us/pl/111/203/s1473/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1473%2Ff%2F2
+[/us/pl/101/73/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtXI
+[/us/pl/111/203/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtXIV
 [/us/stat/124/2192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2192
 [/us/pl/111/203/s1400/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1400%2Fc
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601

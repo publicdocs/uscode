@@ -17,7 +17,7 @@
 
     The banks for cooperatives established pursuant to sections 2 and 30 of the Farm Credit Act of 1933, as amended, shall continue as federally chartered instrumentalities of the United States. The Farm Credit Administration shall approve amendments consistent with this chapter to charters and organizational certificates of banks for cooperatives. Unless an existing bank for cooperatives is merged with another bank, there shall be a bank for cooperatives in each farm credit district and a Central Bank for Cooperatives. A bank for cooperatives may include in its title the name of the city in which it is located or other geographical designation. The Central Bank for Cooperatives may be located in such place as its board of directors may determine with the approval of the Farm Credit Administration. When authorized by the Farm Credit Administration each bank for cooperatives may establish such branches or other offices as may be appropriate for the effective operation of its business.
 
-([Pub. L. 92–181, title III, § 3][/us/pl/92/181/s3].0, Dec. 10, 1971, [85 Stat. 602][/us/stat/85/602]; [Pub. L. 100–233, title IV, § 414(b)][/us/pl/100/233/s414/b], title VIII, § 802(m), Jan. 6, 1988, [101 Stat. 1641][/us/stat/101/1641], 1711; [Pub. L. 100–399, title IV, § 406(b)][/us/pl/100/399/s406/b], title IX, § 901(c), Aug. 17, 1988, [102 Stat. 1000][/us/stat/102/1000], 1007.)
+([Pub. L. 92–181, title III][/us/pl/92/181/tIII], § 3.0, Dec. 10, 1971, [85 Stat. 602][/us/stat/85/602]; [Pub. L. 100–233, title IV][/us/pl/100/233/tIV], § 414(b), title VIII, § 802(m), Jan. 6, 1988, [101 Stat. 1641][/us/stat/101/1641], 1711; [Pub. L. 100–399, title IV][/us/pl/100/399/tIV], § 406(b), title IX, § 901(c), Aug. 17, 1988, [102 Stat. 1000][/us/stat/102/1000], 1007.)
 
  __References in Text__ 
 
@@ -25,11 +25,11 @@
 
  __Amendments__ 
 
-    1988—[Pub. L. 100–399, § 901(c)][/us/pl/100/399/s901/c], substituted “merged with another bank” for “merged with one or more other such banks under [section 2181 of this title][/us/usc/t12/s2181]”.
+    1988—[Pub. L. 100–399][/us/pl/100/399], § 901(c), substituted “merged with another bank” for “merged with one or more other such banks under [section 2181 of this title][/us/usc/t12/s2181]”.
 
-    [Pub. L. 100–233, § 802(m)][/us/pl/100/233/s802/m], substituted “The Farm Credit Administration shall approve amendments consistent with this chapter to charters and organizational certificates of banks for cooperatives” for “Their charters or organization certificates may be modified from time to time by the Farm Credit Administration, not inconsistent with the provisions of this subchapter, as may be necessary or expedient to implement this chapter”.
+    [Pub. L. 100–233][/us/pl/100/233], § 802(m), substituted “The Farm Credit Administration shall approve amendments consistent with this chapter to charters and organizational certificates of banks for cooperatives” for “Their charters or organization certificates may be modified from time to time by the Farm Credit Administration, not inconsistent with the provisions of this subchapter, as may be necessary or expedient to implement this chapter”.
 
-    [Pub. L. 100–233, § 414(b)][/us/pl/100/233/s414/b], which designated existing provisions as subsec. (a), and added subsec. (b) reading “Each bank for cooperatives shall elect from its voting stockholders a board of directors of such number, for such term, in such manner, and with such qualifications as may be required in its bylaws, except that, at least one member shall be elected by the other directors, which member shall not be a director, officer, employee, or stockholder of a System institution.”, was repealed by [section 406(b) of Pub. L. 100–399][/us/pl/100/399/s406/b]. See Construction of 1988 Amendment note below.
+    [Pub. L. 100–233][/us/pl/100/233], § 414(b), which designated existing provisions as subsec. (a), and added subsec. (b) reading “Each bank for cooperatives shall elect from its voting stockholders a board of directors of such number, for such term, in such manner, and with such qualifications as may be required in its bylaws, except that, at least one member shall be elected by the other directors, which member shall not be a director, officer, employee, or stockholder of a System institution.”, was repealed by [section 406(b) of Pub. L. 100–399][/us/pl/100/399/s406/b]. See Construction of 1988 Amendment note below.
 
  __Effective Date of 1988 Amendment__ 
 
@@ -37,11 +37,11 @@
 
  __Construction of 1988 Amendment__ 
 
-    [Pub. L. 100–399, title IV, § 406(b)][/us/pl/100/399/s406/b], Aug. 17, 1988, [102 Stat. 1000][/us/stat/102/1000], provided that [section 414(b) of Pub. L. 100–233][/us/pl/100/233/s414/b], cited as a credit to this section, is repealed and that the Agricultural Credit Act of 1987 ([Pub. L. 100–233][/us/pl/100/233]) and this chapter shall be applied and administered as if such section had not been enacted.
+    [Pub. L. 100–399, title IV][/us/pl/100/399/tIV], § 406(b), Aug. 17, 1988, [102 Stat. 1000][/us/stat/102/1000], provided that [section 414(b) of Pub. L. 100–233][/us/pl/100/233/s414/b], cited as a credit to this section, is repealed and that the Agricultural Credit Act of 1987 ([Pub. L. 100–233][/us/pl/100/233]) and this chapter shall be applied and administered as if such section had not been enacted.
 
  __Voluntary Merger of Banks for Cooperatives__ 
 
-[Pub. L. 100–233, title IV, § 413][/us/pl/100/233/s413], Jan. 6, 1988, [101 Stat. 1639][/us/stat/101/1639], as amended by [Pub. L. 100–399, title IV, § 405][/us/pl/100/399/s405], Aug. 17, 1988, [102 Stat. 1000][/us/stat/102/1000], provided that:
+[Pub. L. 100–233, title IV][/us/pl/100/233/tIV], § 413, Jan. 6, 1988, [101 Stat. 1639][/us/stat/101/1639], as amended by [Pub. L. 100–399, title IV][/us/pl/100/399/tIV], § 405, Aug. 17, 1988, [102 Stat. 1000][/us/stat/102/1000], provided that:
 
 >     “(a) __Submission of Proposal.—__ 
 
@@ -151,7 +151,7 @@
 
  __Bank for Cooperatives Initial Board of Directors__ 
 
-[Pub. L. 100–233, title IV, § 414(a)][/us/pl/100/233/s414/a], Jan. 6, 1988, [101 Stat. 1641][/us/stat/101/1641], as amended by [Pub. L. 100–399, title IV, § 406(a)][/us/pl/100/399/s406/a], Aug. 17, 1988, [102 Stat. 1000][/us/stat/102/1000], provided that: 
+[Pub. L. 100–233, title IV][/us/pl/100/233/tIV], § 414(a), Jan. 6, 1988, [101 Stat. 1641][/us/stat/101/1641], as amended by [Pub. L. 100–399, title IV][/us/pl/100/399/tIV], § 406(a), Aug. 17, 1988, [102 Stat. 1000][/us/stat/102/1000], provided that: 
 
 > “Notwithstanding section 3.2 \[probably means section 3.2 of [Pub. L. 92–181][/us/pl/92/181], [12 U.S.C. 2123][/us/usc/t12/s2123]\], the initial board of each district bank for cooperatives shall be composed of the members of the district board (which is dissolved upon the creation of the district Farm Credit Bank) elected by the stockholders of the bank for cooperatives and one member elected by the other two members, which member shall not be a director, officer, employee, or stockholder of a System institution. The initial board shall operate for such term as is agreed to by the members of the board, except that such period shall not exceed two years. Thereafter, the board shall be elected and serve in accordance with section 3.0 of the Farm Credit Act of 1971 \[[12 U.S.C. 2121][/us/usc/t12/s2121]\].”
 
@@ -162,37 +162,37 @@
 ----------
 ----------
 
-[/us/pl/92/181/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs3
+[/us/pl/92/181/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtIII
 [/us/stat/85/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F602
-[/us/pl/100/233/s414/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs414%2Fb
+[/us/pl/100/233/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtIV
 [/us/stat/101/1641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1641
-[/us/pl/100/399/s406/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs406%2Fb
+[/us/pl/100/399/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtIV
 [/us/stat/102/1000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1000
 [/us/pl/92/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181
-[/us/pl/100/399/s901/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs901%2Fc
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/usc/t12/s2181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2181
-[/us/pl/100/233/s802/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs802%2Fm
-[/us/pl/100/233/s414/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs414%2Fb
+[/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
+[/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
 [/us/pl/100/399/s406/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs406%2Fb
 [/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
 [/us/pl/100/399/s1001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs1001%2Fa
 [/us/usc/t12/s2002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2002
-[/us/pl/100/399/s406/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs406%2Fb
+[/us/pl/100/399/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtIV
 [/us/stat/102/1000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1000
 [/us/pl/100/233/s414/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs414%2Fb
 [/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
-[/us/pl/100/233/s413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs413
+[/us/pl/100/233/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtIV
 [/us/stat/101/1639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1639
-[/us/pl/100/399/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs405
+[/us/pl/100/399/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtIV
 [/us/stat/102/1000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1000
 [/us/usc/t12/s2124/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2124%2Fd
 [/us/usc/t12/s2221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2221
 [/us/usc/t12/s2128/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2128%2Fb
 [/us/usc/t12/s2128/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2128%2Fb
-[/us/pl/100/233/s414/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs414%2Fa
+[/us/pl/100/233/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtIV
 [/us/stat/101/1641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1641
-[/us/pl/100/399/s406/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs406%2Fa
+[/us/pl/100/399/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtIV
 [/us/stat/102/1000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1000
 [/us/pl/92/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181
 [/us/usc/t12/s2123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2123

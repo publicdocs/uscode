@@ -93,7 +93,7 @@
 
             The maximum amount of penalty for each act or omission described in paragraph (1) shall be $25,000.
 
-([Pub. L. 110–289, div. A, title V, § 1514][/us/pl/110/289/s1514], July 30, 2008, [122 Stat. 2821][/us/stat/122/2821]; [Pub. L. 111–203, title X, § 1100(3)][/us/pl/111/203/s1100/3], (9), July 21, 2010, [124 Stat. 2106][/us/stat/124/2106], 2107.)
+([Pub. L. 110–289, div. A, title V][/us/pl/110/289/dA/tV], § 1514, July 30, 2008, [122 Stat. 2821][/us/stat/122/2821]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1100(3), (9), July 21, 2010, [124 Stat. 2106][/us/stat/124/2106], 2107.)
 
  __Amendments__ 
 
@@ -117,9 +117,9 @@
 [/us/usc/t12/s5107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5107
 [/us/usc/t12/s5107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5107
 [/us/usc/t12/s5107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5107
-[/us/pl/110/289/s1514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1514
+[/us/pl/110/289/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtV
 [/us/stat/122/2821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2821
-[/us/pl/111/203/s1100/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100%2F3
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2106
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203

@@ -29,7 +29,7 @@
 
     (6) not take an equity interest in or become a shareholder of any covered financial company or any covered subsidiary.
 
-([Pub. L. 111–203, title II, § 206][/us/pl/111/203/s206], July 21, 2010, [124 Stat. 1459][/us/stat/124/1459].)
+([Pub. L. 111–203, title II][/us/pl/111/203/tII], § 206, July 21, 2010, [124 Stat. 1459][/us/stat/124/1459].)
 
  __References in Text__ 
 
@@ -43,7 +43,7 @@
 ----------
 
 [/us/usc/t12/s5390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5390
-[/us/pl/111/203/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs206
+[/us/pl/111/203/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtII
 [/us/stat/124/1459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1459
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1442

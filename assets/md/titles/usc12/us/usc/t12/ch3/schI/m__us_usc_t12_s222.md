@@ -17,13 +17,13 @@
 
     The continental United States, excluding Alaska, shall be divided into not less than eight nor more than twelve districts. Such districts may be readjusted and new districts may from time to time be created by the Board of Governors of the Federal Reserve System, not to exceed twelve in all: Provided, That the districts shall be apportioned with due regard to the convenience and customary course of business and shall not necessarily be coterminous with any State or States. Such districts shall be known as Federal reserve districts and may be designated by number. When the State of Alaska or Hawaii is hereafter admitted to the Union the Federal Reserve  <sup>\[1\]</sup>  <sup><sup> 1 Capitalized as in original. </sup></sup>  districts shall be readjusted by the Board of Governors of the Federal Reserve System in such manner as to include such State. Every national bank in any State shall, upon commencing business or within ninety days after admission into the Union of the State in which it is located, become a member bank of the Federal Reserve System by subscribing and paying for stock in the Federal Reserve bank of its district in accordance with the provisions of this chapter and shall thereupon be an insured bank under the Federal Deposit Insurance Act \[[12 U.S.C. 1811][/us/usc/t12/s1811] et seq.\], and failure to do so shall subject such bank to the penalty provided by [section 501a of this title][/us/usc/t12/s501a].
 
-([Dec. 23, 1913, ch. 6, § 2][/us/act/1913-12-23/ch6/s2] (part), [38 Stat. 251][/us/stat/38/251]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 203(a), [49 Stat. 704][/us/stat/49/704]; [Pub. L. 85–508, § 19][/us/pl/85/508/s19], July 7, 1958, [72 Stat. 350][/us/stat/72/350]; [Pub. L. 86–3, § 17][/us/pl/86/3/s17], Mar. 18, 1959, [73 Stat. 12][/us/stat/73/12].)
+([Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 2 (part), [38 Stat. 251][/us/stat/38/251]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 203(a), [49 Stat. 704][/us/stat/49/704]; [Pub. L. 85–508][/us/pl/85/508], § 19, July 7, 1958, [72 Stat. 350][/us/stat/72/350]; [Pub. L. 86–3][/us/pl/86/3], § 17, Mar. 18, 1959, [73 Stat. 12][/us/stat/73/12].)
 
  __References in Text__ 
 
     This chapter, referred to in text, was in the original “this Act”, meaning [act Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], [38 Stat. 251][/us/stat/38/251], known as the Federal Reserve Act. For complete classification of this Act to the Code, see References in Text note set out under [section 226 of this title][/us/usc/t12/s226] and Tables.
 
-    The Federal Deposit Insurance Act, referred to in text, is [act Sept. 21, 1950, ch. 967, § 2][/us/act/1950-09-21/ch967/s2], [64 Stat. 873][/us/stat/64/873], which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1811 of this title][/us/usc/t12/s1811] and Tables.
+    The Federal Deposit Insurance Act, referred to in text, is [act Sept. 21, 1950, ch. 967][/us/act/1950-09-21/ch967], § 2, [64 Stat. 873][/us/stat/64/873], which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1811 of this title][/us/usc/t12/s1811] and Tables.
 
  __Codification__ 
 
@@ -72,18 +72,18 @@
 
 [/us/usc/t12/s1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1811
 [/us/usc/t12/s501a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs501a
-[/us/act/1913-12-23/ch6/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs2
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
 [/us/stat/38/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F251
 [/us/act/1935-08-23/ch614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch614
 [/us/stat/49/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F704
-[/us/pl/85/508/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508%2Fs19
+[/us/pl/85/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508
 [/us/stat/72/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F350
-[/us/pl/86/3/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F3%2Fs17
+[/us/pl/86/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F3
 [/us/stat/73/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F12
 [/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
 [/us/stat/38/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F251
 [/us/usc/t12/s226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs226
-[/us/act/1950-09-21/ch967/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967%2Fs2
+[/us/act/1950-09-21/ch967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967
 [/us/stat/64/873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F873
 [/us/usc/t12/s1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1811
 [/us/usc/t12/s223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs223

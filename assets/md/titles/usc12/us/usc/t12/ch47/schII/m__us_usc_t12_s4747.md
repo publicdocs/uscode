@@ -51,7 +51,7 @@
 
         (2) by applying subsection (e) to the balance of the loan.
 
-([Pub. L. 103–325, title II, § 257][/us/pl/103/325/s257], Sept. 23, 1994, [108 Stat. 2212][/us/stat/108/2212].)
+([Pub. L. 103–325, title II][/us/pl/103/325/tII], § 257, Sept. 23, 1994, [108 Stat. 2212][/us/stat/108/2212].)
 
 ----------
 
@@ -63,7 +63,7 @@
 [/us/usc/t12/s4746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4746
 [/us/usc/t12/s4746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4746
 [/us/usc/t12/s4746/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4746%2Fa
-[/us/pl/103/325/s257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs257
+[/us/pl/103/325/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtII
 [/us/stat/108/2212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2212
 
 

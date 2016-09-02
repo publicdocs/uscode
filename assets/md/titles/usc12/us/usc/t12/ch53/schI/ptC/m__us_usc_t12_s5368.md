@@ -17,7 +17,7 @@
 
     The Board of Governors shall have authority to issue regulations to implement parts A and C and the amendments made thereunder. Except as otherwise specified in part A or C, not later than 18 months after the effective date of this Act, the Board of Governors shall issue final regulations to implement parts A and C, and the amendments made thereunder.
 
-([Pub. L. 111–203, title I, § 168][/us/pl/111/203/s168], July 21, 2010, [124 Stat. 1434][/us/stat/124/1434].)
+([Pub. L. 111–203, title I][/us/pl/111/203/tI], § 168, July 21, 2010, [124 Stat. 1434][/us/stat/124/1434].)
 
  __References in Text__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/111/203/s168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs168
+[/us/pl/111/203/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtI
 [/us/stat/124/1434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1434
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1420

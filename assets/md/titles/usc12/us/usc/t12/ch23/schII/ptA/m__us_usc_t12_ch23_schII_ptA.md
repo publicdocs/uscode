@@ -17,7 +17,7 @@
 
  __Amendments__ 
 
-    1988—[Pub. L. 100–233, title IV, § 401][/us/pl/100/233/s401], Jan. 6, 1988, [101 Stat. 1629][/us/stat/101/1629], substituted “Farm Credit Associations” for “Federal Intermediate Credit Banks and Production Credit Associations” as subchapter heading, and substituted “Production Credit Associations” for “Federal Intermediate Credit Banks” as heading for part A.
+    1988—[Pub. L. 100–233, title IV][/us/pl/100/233/tIV], § 401, Jan. 6, 1988, [101 Stat. 1629][/us/stat/101/1629], substituted “Farm Credit Associations” for “Federal Intermediate Credit Banks and Production Credit Associations” as subchapter heading, and substituted “Production Credit Associations” for “Federal Intermediate Credit Banks” as heading for part A.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/100/233/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs401
+[/us/pl/100/233/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtIV
 [/us/stat/101/1629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1629
 
 

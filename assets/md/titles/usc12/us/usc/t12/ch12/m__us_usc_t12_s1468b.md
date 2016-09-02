@@ -21,7 +21,7 @@
 
     (2) have, in the exercise of functions under this chapter, the same powers and privileges as are vested in such examiners by law.
 
-([June 13, 1933, ch. 64, § 13][/us/act/1933-06-13/ch64/s13], as added [Pub. L. 101–73, title III, § 301][/us/pl/101/73/s301], Aug. 9, 1989, [103 Stat. 343][/us/stat/103/343]; amended [Pub. L. 111–203, title III, § 369(11)][/us/pl/111/203/s369/11], July 21, 2010, [124 Stat. 1565][/us/stat/124/1565].)
+([June 13, 1933, ch. 64][/us/act/1933-06-13/ch64], § 13, as added [Pub. L. 101–73, title III][/us/pl/101/73/tIII], § 301, Aug. 9, 1989, [103 Stat. 343][/us/stat/103/343]; amended [Pub. L. 111–203, title III][/us/pl/111/203/tIII], § 369(11), July 21, 2010, [124 Stat. 1565][/us/stat/124/1565].)
 
  __References in Text__ 
 
@@ -45,10 +45,10 @@
 ----------
 
 [/us/usc/t12/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs221
-[/us/act/1933-06-13/ch64/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-13%2Fch64%2Fs13
-[/us/pl/101/73/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs301
+[/us/act/1933-06-13/ch64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-13%2Fch64
+[/us/pl/101/73/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtIII
 [/us/stat/103/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F343
-[/us/pl/111/203/s369/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs369%2F11
+[/us/pl/111/203/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIII
 [/us/stat/124/1565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1565
 [/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
 [/us/stat/38/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F251

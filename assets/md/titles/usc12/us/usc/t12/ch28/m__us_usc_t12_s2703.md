@@ -35,7 +35,7 @@
 
         The Secretary may provide for the deferral of the commencement of the repayment of a loan or advance insured under [section 2704 of this title][/us/usc/t12/s2704] or emergency mortgage relief payments made under [section 2705 of this title][/us/usc/t12/s2705] until one year following the date of the last disbursement of the proceeds of the loan or advance or payments or for such longer period as the Secretary determines would further the purpose of this chapter. Any eligible homeowner who receives a grant or an advance of credit under this chapter may repay the loan in full, without penalty, by lump sum or by installment payments at any time before the loan becomes due and payable. The Secretary shall by regulation require such security for the repayment of insured loans or advances of credit or emergency mortgage relief payments as he deems appropriate and may require that such repayment be secured by a lien on the mortgaged property.
 
-([Pub. L. 94–50, title I, § 104][/us/pl/94/50/s104], July 2, 1975, [89 Stat. 250][/us/stat/89/250]; [Pub. L. 111–203, title XIV, § 1496(b)(2)][/us/pl/111/203/s1496/b/2], July 21, 2010, [124 Stat. 2208][/us/stat/124/2208].)
+([Pub. L. 94–50, title I][/us/pl/94/50/tI], § 104, July 2, 1975, [89 Stat. 250][/us/stat/89/250]; [Pub. L. 111–203, title XIV][/us/pl/111/203/tXIV], § 1496(b)(2), July 21, 2010, [124 Stat. 2208][/us/stat/124/2208].)
 
  __References in Text__ 
 
@@ -43,11 +43,11 @@
 
  __Amendments__ 
 
-    2010—Subsec. (b). [Pub. L. 111–203, § 1496(b)(2)(A)][/us/pl/111/203/s1496/b/2/A], substituted “. The amount of assistance provided to a homeowner under this chapter shall be an amount that the Secretary determines is reasonably necessary to supplement such amount as the homeowner is capable of contributing toward such mortgage payment, except that the aggregate amount of such assistance provided for any homeowner shall not exceed $50,000.” for “, but such assistance shall not exceed the lesser of $250 per month or the amount determined to be reasonably necessary to supplement such amount as the homeowner is capable of contributing toward such mortgage payment.”
+    2010—Subsec. (b). [Pub. L. 111–203][/us/pl/111/203], § 1496(b)(2)(A), substituted “. The amount of assistance provided to a homeowner under this chapter shall be an amount that the Secretary determines is reasonably necessary to supplement such amount as the homeowner is capable of contributing toward such mortgage payment, except that the aggregate amount of such assistance provided for any homeowner shall not exceed $50,000.” for “, but such assistance shall not exceed the lesser of $250 per month or the amount determined to be reasonably necessary to supplement such amount as the homeowner is capable of contributing toward such mortgage payment.”
 
-    Subsec. (d). [Pub. L. 111–203, § 1496(b)(2)(B)][/us/pl/111/203/s1496/b/2/B], substituted “(1) the rate of interest on any loan or advance of credit insured under this chapter shall be fixed for the life of the loan or advance of credit and shall not exceed the rate of interest that is generally charged for mortgages on single-family housing insured by the Secretary of Housing and Urban Development under title II of the National Housing Act at the time such loan or advance of credit is made, and (2) no interest shall be charged on interest which is deferred on a loan or advance of credit made under this chapter. In establishing rates, terms and conditions for loans or advances of credit made under this chapter, the Secretary shall take into account a homeowner’s ability to repay such loan or advance of credit.” for “interest on a loan or advance of credit insured under [section 2704 of this title][/us/usc/t12/s2704] or emergency mortgage relief payments made under [section 2705 of this title][/us/usc/t12/s2705] shall not be charged at a rate which exceeds the maximum interest rate applicable with respect to mortgages insured pursuant to [section 1709(b) of this title][/us/usc/t12/s1709/b].”
+    Subsec. (d). [Pub. L. 111–203][/us/pl/111/203], § 1496(b)(2)(B), substituted “(1) the rate of interest on any loan or advance of credit insured under this chapter shall be fixed for the life of the loan or advance of credit and shall not exceed the rate of interest that is generally charged for mortgages on single-family housing insured by the Secretary of Housing and Urban Development under title II of the National Housing Act at the time such loan or advance of credit is made, and (2) no interest shall be charged on interest which is deferred on a loan or advance of credit made under this chapter. In establishing rates, terms and conditions for loans or advances of credit made under this chapter, the Secretary shall take into account a homeowner’s ability to repay such loan or advance of credit.” for “interest on a loan or advance of credit insured under [section 2704 of this title][/us/usc/t12/s2704] or emergency mortgage relief payments made under [section 2705 of this title][/us/usc/t12/s2705] shall not be charged at a rate which exceeds the maximum interest rate applicable with respect to mortgages insured pursuant to [section 1709(b) of this title][/us/usc/t12/s1709/b].”
 
-    Subsec. (e). [Pub. L. 111–203, § 1496(b)(2)(C)][/us/pl/111/203/s1496/b/2/C], inserted “Any eligible homeowner who receives a grant or an advance of credit under this chapter may repay the loan in full, without penalty, by lump sum or by installment payments at any time before the loan becomes due and payable.” after “purpose of this chapter.”
+    Subsec. (e). [Pub. L. 111–203][/us/pl/111/203], § 1496(b)(2)(C), inserted “Any eligible homeowner who receives a grant or an advance of credit under this chapter may repay the loan in full, without penalty, by lump sum or by installment payments at any time before the loan becomes due and payable.” after “purpose of this chapter.”
 
  __Effective Date of 2010 Amendment__ 
 
@@ -68,19 +68,19 @@
 [/us/usc/t12/s1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1707
 [/us/usc/t12/s2704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2704
 [/us/usc/t12/s2705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2705
-[/us/pl/94/50/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F50%2Fs104
+[/us/pl/94/50/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F50%2FtI
 [/us/stat/89/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F250
-[/us/pl/111/203/s1496/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1496%2Fb%2F2
+[/us/pl/111/203/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtXIV
 [/us/stat/124/2208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2208
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
 [/us/stat/48/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1246
 [/us/usc/t12/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701
-[/us/pl/111/203/s1496/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1496%2Fb%2F2%2FA
-[/us/pl/111/203/s1496/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1496%2Fb%2F2%2FB
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/usc/t12/s2704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2704
 [/us/usc/t12/s2705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2705
 [/us/usc/t12/s1709/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1709%2Fb
-[/us/pl/111/203/s1496/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1496%2Fb%2F2%2FC
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s1400/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1400%2Fc
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601

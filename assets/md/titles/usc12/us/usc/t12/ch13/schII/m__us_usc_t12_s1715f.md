@@ -17,7 +17,7 @@
 
     The Secretary is authorized to process applications and issue commitments with respect to insurance of mortgages under [section 1706c of this title][/us/usc/t12/s1706c] and subchapter II, VI, VIII, or X of this chapter, even though the permanent mortgage financing may not be insured under this chapter, and in the event the mortgage is not so insured the Secretary is authorized to charge an additional application fee determined by him to be reasonable. The Secretary is authorized to make such rules and regulations as may be necessary to carry out the provisions of this section.
 
-([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title II, § 215, as added [Apr. 20, 1950, ch. 94][/us/act/1950-04-20/ch94], title I, § 115, [64 Stat. 56][/us/stat/64/56]; amended [Sept. 1, 1951, ch. 378][/us/act/1951-09-01/ch378], title II, § 204, [65 Stat. 303][/us/stat/65/303]; [Pub. L. 90–19, § 1(a)(3)][/us/pl/90/19/s1/a/3], May 25, 1967, [81 Stat. 17][/us/stat/81/17].)
+([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title II, § 215, as added [Apr. 20, 1950, ch. 94][/us/act/1950-04-20/ch94], title I, § 115, [64 Stat. 56][/us/stat/64/56]; amended [Sept. 1, 1951, ch. 378][/us/act/1951-09-01/ch378], title II, § 204, [65 Stat. 303][/us/stat/65/303]; [Pub. L. 90–19][/us/pl/90/19], § 1(a)(3), May 25, 1967, [81 Stat. 17][/us/stat/81/17].)
 
  __References in Text__ 
 
@@ -42,7 +42,7 @@
 [/us/stat/64/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F56
 [/us/act/1951-09-01/ch378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-09-01%2Fch378
 [/us/stat/65/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F303
-[/us/pl/90/19/s1/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19%2Fs1%2Fa%2F3
+[/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
 [/us/stat/81/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F17
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
 [/us/stat/48/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1246

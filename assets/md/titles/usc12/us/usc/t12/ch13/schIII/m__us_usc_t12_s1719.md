@@ -113,11 +113,11 @@
 
             The Director shall have the power to approve, disapprove, or modify the executive compensation of the corporation, as defined under Regulation S-K, 17 C.F.R. 229.
 
-([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title III, § 304, [48 Stat. 1254][/us/stat/48/1254]; [July 1, 1948, ch. 784, § 1][/us/act/1948-07-01/ch784/s1], [62 Stat. 1206][/us/stat/62/1206]; [Aug. 2, 1954, ch. 649][/us/act/1954-08-02/ch649], title II, § 201, [68 Stat. 615][/us/stat/68/615]; [Aug. 7, 1956, ch. 1029][/us/act/1956-08-07/ch1029], title II, §§ 203, 204, [70 Stat. 1096][/us/stat/70/1096]; [Pub. L. 85–10, § 1(c)][/us/pl/85/10/s1/c], Mar. 27, 1957, [71 Stat. 7][/us/stat/71/7]; [Pub. L. 85–104, title II, § 203][/us/pl/85/104/s203], July 12, 1957, [71 Stat. 298][/us/stat/71/298]; [Pub. L. 86–372, title III][/us/pl/86/372], §§ 302, 305(a), Sept. 23, 1959, [73 Stat. 669][/us/stat/73/669], 670; [Pub. L. 87–70, title VI, § 603(d)][/us/pl/87/70/s603/d], (e), June 30, 1961, [75 Stat. 176][/us/stat/75/176], 177; [Pub. L. 88–560, title VII][/us/pl/88/560], §§ 701(b)(2), 703, 704, Sept. 2, 1964, [78 Stat. 800][/us/stat/78/800], 802; [Pub. L. 89–566, § 1][/us/pl/89/566/s1], Sept. 10, 1966, [80 Stat. 738][/us/stat/80/738]; [Pub. L. 89–754, title X, § 1007][/us/pl/89/754/s1007], Nov. 3, 1966, [80 Stat. 1285][/us/stat/80/1285]; [Pub. L. 90–448, title VIII][/us/pl/90/448], §§ 802(p)–(s), 804(a), 805, Aug. 1, 1968, [82 Stat. 538][/us/stat/82/538], 542, 543; [Pub. L. 91–351, title V, § 504][/us/pl/91/351/s504], July 24, 1970, [84 Stat. 461][/us/stat/84/461]; [Pub. L. 93–383, title VIII, § 806(j)][/us/pl/93/383/s806/j], Aug. 22, 1974, [88 Stat. 728][/us/stat/88/728]; [Pub. L. 97–320, title VII, § 707(b)][/us/pl/97/320/s707/b], Oct. 15, 1982, [96 Stat. 1540][/us/stat/96/1540]; [Pub. L. 98–479, title II, § 203(a)(1)][/us/pl/98/479/s203/a/1], Oct. 17, 1984, [98 Stat. 2229][/us/stat/98/2229]; [Pub. L. 100–242, title IV, § 441(a)][/us/pl/100/242/s441/a], Feb. 5, 1988, [101 Stat. 1921][/us/stat/101/1921]; [Pub. L. 101–73, title VII, § 731(m)(2)][/us/pl/101/73/s731/m/2], Aug. 9, 1989, [103 Stat. 436][/us/stat/103/436]; [Pub. L. 102–550, title XIII, § 1381(e)][/us/pl/102/550/s1381/e]–(g), (s)(2), Oct. 28, 1992, [106 Stat. 3996][/us/stat/106/3996], 4001; [Pub. L. 110–289, div. A, title I, § 1117(a)][/us/pl/110/289/s1117/a], July 30, 2008, [122 Stat. 2683][/us/stat/122/2683]; [Pub. L. 111–203, title XIII, § 1304(a)][/us/pl/111/203/s1304/a], July 21, 2010, [124 Stat. 2134][/us/stat/124/2134].)
+([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title III, § 304, [48 Stat. 1254][/us/stat/48/1254]; [July 1, 1948, ch. 784][/us/act/1948-07-01/ch784], § 1, [62 Stat. 1206][/us/stat/62/1206]; [Aug. 2, 1954, ch. 649][/us/act/1954-08-02/ch649], title II, § 201, [68 Stat. 615][/us/stat/68/615]; [Aug. 7, 1956, ch. 1029][/us/act/1956-08-07/ch1029], title II, §§ 203, 204, [70 Stat. 1096][/us/stat/70/1096]; [Pub. L. 85–10][/us/pl/85/10], § 1(c), Mar. 27, 1957, [71 Stat. 7][/us/stat/71/7]; [Pub. L. 85–104, title II][/us/pl/85/104/tII], § 203, July 12, 1957, [71 Stat. 298][/us/stat/71/298]; [Pub. L. 86–372, title III][/us/pl/86/372/tIII], §§ 302, 305(a), Sept. 23, 1959, [73 Stat. 669][/us/stat/73/669], 670; [Pub. L. 87–70, title VI][/us/pl/87/70/tVI], § 603(d), (e), June 30, 1961, [75 Stat. 176][/us/stat/75/176], 177; [Pub. L. 88–560, title VII][/us/pl/88/560/tVII], §§ 701(b)(2), 703, 704, Sept. 2, 1964, [78 Stat. 800][/us/stat/78/800], 802; [Pub. L. 89–566][/us/pl/89/566], § 1, Sept. 10, 1966, [80 Stat. 738][/us/stat/80/738]; [Pub. L. 89–754, title X][/us/pl/89/754/tX], § 1007, Nov. 3, 1966, [80 Stat. 1285][/us/stat/80/1285]; [Pub. L. 90–448, title VIII][/us/pl/90/448/tVIII], §§ 802(p)–(s), 804(a), 805, Aug. 1, 1968, [82 Stat. 538][/us/stat/82/538], 542, 543; [Pub. L. 91–351, title V][/us/pl/91/351/tV], § 504, July 24, 1970, [84 Stat. 461][/us/stat/84/461]; [Pub. L. 93–383, title VIII][/us/pl/93/383/tVIII], § 806(j), Aug. 22, 1974, [88 Stat. 728][/us/stat/88/728]; [Pub. L. 97–320, title VII][/us/pl/97/320/tVII], § 707(b), Oct. 15, 1982, [96 Stat. 1540][/us/stat/96/1540]; [Pub. L. 98–479, title II][/us/pl/98/479/tII], § 203(a)(1), Oct. 17, 1984, [98 Stat. 2229][/us/stat/98/2229]; [Pub. L. 100–242, title IV][/us/pl/100/242/tIV], § 441(a), Feb. 5, 1988, [101 Stat. 1921][/us/stat/101/1921]; [Pub. L. 101–73, title VII][/us/pl/101/73/tVII], § 731(m)(2), Aug. 9, 1989, [103 Stat. 436][/us/stat/103/436]; [Pub. L. 102–550, title XIII][/us/pl/102/550/tXIII], § 1381(e)–(g), (s)(2), Oct. 28, 1992, [106 Stat. 3996][/us/stat/106/3996], 4001; [Pub. L. 110–289, div. A, title I][/us/pl/110/289/dA/tI], § 1117(a), July 30, 2008, [122 Stat. 2683][/us/stat/122/2683]; [Pub. L. 111–203, title XIII][/us/pl/111/203/tXIII], § 1304(a), July 21, 2010, [124 Stat. 2134][/us/stat/124/2134].)
 
  __References in Text__ 
 
-    Paragraph (a) of [section 1716 of this title][/us/usc/t12/s1716], referred to in subsec. (a)(1), was repealed by [Pub. L. 101–73, title VII, § 731(m)(1)(A)][/us/pl/101/73/s731/m/1/A], Aug. 9, 1989, [103 Stat. 435][/us/stat/103/435]. See [section 1716(3) of this title][/us/usc/t12/s1716/3].
+    Paragraph (a) of [section 1716 of this title][/us/usc/t12/s1716], referred to in subsec. (a)(1), was repealed by [Pub. L. 101–73, title VII][/us/pl/101/73/tVII], § 731(m)(1)(A), Aug. 9, 1989, [103 Stat. 435][/us/stat/103/435]. See [section 1716(3) of this title][/us/usc/t12/s1716/3].
 
  __Amendments__ 
 
@@ -125,15 +125,15 @@
 
     2008—Subsec. (g). [Pub. L. 110–289][/us/pl/110/289] added subsec. (g).
 
-    1992—Subsec. (b). [Pub. L. 102–550, § 1381(e)(1)][/us/pl/102/550/s1381/e/1], substituted a period for “; but the aggregate amount of obligations of the corporation under this subsection outstanding at any one time shall not exceed fifteen times the sum of its capital, capital surplus, general surplus, reserves, and undistributed earnings unless a greater ratio shall be fixed at any time or from time to time by the Secretary of Housing and Urban Development. In no event shall any such obligations be issued if, at the time of such proposed issuance, and as a consequence thereof, the resulting aggregate amount of its outstanding obligations under this subsection would exceed the amount of the corporation’s ownership pursuant to this section, free from any liens or encumbrances, of cash, mortgages or other security holdings, and obligations of the United States or guaranteed thereby, or obligations, participations, or other instruments which are lawful investments for fiduciary, trust, or public funds.” after “in such obligations”.
+    1992—Subsec. (b). [Pub. L. 102–550][/us/pl/102/550], § 1381(e)(1), substituted a period for “; but the aggregate amount of obligations of the corporation under this subsection outstanding at any one time shall not exceed fifteen times the sum of its capital, capital surplus, general surplus, reserves, and undistributed earnings unless a greater ratio shall be fixed at any time or from time to time by the Secretary of Housing and Urban Development. In no event shall any such obligations be issued if, at the time of such proposed issuance, and as a consequence thereof, the resulting aggregate amount of its outstanding obligations under this subsection would exceed the amount of the corporation’s ownership pursuant to this section, free from any liens or encumbrances, of cash, mortgages or other security holdings, and obligations of the United States or guaranteed thereby, or obligations, participations, or other instruments which are lawful investments for fiduciary, trust, or public funds.” after “in such obligations”.
 
-    Subsec. (c). [Pub. L. 102–550, § 1381(s)(2)][/us/pl/102/550/s1381/s/2], substituted “the Secretary’s” for “his” in two places, “the Secretary” for “he” after “such price or prices as”, and “the Secretary” for “him” after “the obligations acquired by”.
+    Subsec. (c). [Pub. L. 102–550][/us/pl/102/550], § 1381(s)(2), substituted “the Secretary’s” for “his” in two places, “the Secretary” for “he” after “such price or prices as”, and “the Secretary” for “him” after “the obligations acquired by”.
 
-    Subsec. (d). [Pub. L. 102–550, § 1381(f)][/us/pl/102/550/s1381/f], inserted at end “The corporation shall insert appropriate language in all of the securities issued under this subsection clearly indicating that such securities, together with the interest thereon, are not guaranteed by the United States and do not constitute a debt or obligation of the United States or any agency or instrumentality thereof other than the corporation.”
+    Subsec. (d). [Pub. L. 102–550][/us/pl/102/550], § 1381(f), inserted at end “The corporation shall insert appropriate language in all of the securities issued under this subsection clearly indicating that such securities, together with the interest thereon, are not guaranteed by the United States and do not constitute a debt or obligation of the United States or any agency or instrumentality thereof other than the corporation.”
 
-    Subsec. (e). [Pub. L. 102–550, § 1381(e)(2)][/us/pl/102/550/s1381/e/2], struck out after third sentence “The outstanding total principal amount of such obligations, which are entirely subordinated to the obligations of the corporation issued or to be issued under subsection (b) of this section, shall be deemed to be capital of the corporation for the purpose of determining the aggregate amount of obligations issued under subsection (b) of this section which may be outstanding at any one time.”
+    Subsec. (e). [Pub. L. 102–550][/us/pl/102/550], § 1381(e)(2), struck out after third sentence “The outstanding total principal amount of such obligations, which are entirely subordinated to the obligations of the corporation issued or to be issued under subsection (b) of this section, shall be deemed to be capital of the corporation for the purpose of determining the aggregate amount of obligations issued under subsection (b) of this section which may be outstanding at any one time.”
 
-    Subsec. (f). [Pub. L. 102–550, § 1381(g)][/us/pl/102/550/s1381/g], inserted “of this title and assessments pursuant to [section 4516 of this title][/us/usc/t12/s4516]” in first sentence.
+    Subsec. (f). [Pub. L. 102–550][/us/pl/102/550], § 1381(g), inserted “of this title and assessments pursuant to [section 4516 of this title][/us/usc/t12/s4516]” in first sentence.
 
     1989—Subsec. (a)(2). [Pub. L. 101–73][/us/pl/101/73] inserted after third sentence “The corporation shall not be permitted to use its lending authority (A) to advance funds to a mortgage seller on an interim basis, using mortgage loans as collateral, pending the sale of the mortgages in the secondary market; or (B) to originate mortgage loans.” and struck out first two sentences which read as follows: “In the further interest of assuring sound operation, any loan made by the corporation in its secondary market operations under this section, and any extension or renewal thereof, shall not exceed 90 per centum of the unpaid principal balances of the mortgages securing the loan, and shall bear interest at a rate consistent with general loan policies established from time to time by the corporation’s board of directors. Any such loan shall mature in not more than twelve months and the term of any extension or renewal shall not exceed twelve months.”
 
@@ -147,35 +147,35 @@
 
     1970—Subsec. (a)(1). [Pub. L. 91–351][/us/pl/91/351] inserted provision that nothing in this subchapter shall prohibit the corporation from purchasing, and making commitments to purchase, any mortgage with respect to which the Secretary of Housing and Urban Development has entered into a contract with the corporation to make interest subsidy payments pursuant to [section 1715z–8 of this title][/us/usc/t12/s1715z–8].
 
-    1968—Subsec. (a)(1). [Pub. L. 90–448, § 802(p)][/us/pl/90/448/s802/p], (s), substituted “corporation” for “Association” in six places, and “corporation’s” for “Association’s” in two places, and struck out provisions which prohibited the Association from purchasing any mortgage insured or guaranteed prior to Aug. 2, 1954.
+    1968—Subsec. (a)(1). [Pub. L. 90–448][/us/pl/90/448], § 802(p), (s), substituted “corporation” for “Association” in six places, and “corporation’s” for “Association’s” in two places, and struck out provisions which prohibited the Association from purchasing any mortgage insured or guaranteed prior to Aug. 2, 1954.
 
-    Subsec. (a)(2). [Pub. L. 90–448, § 802(s)][/us/pl/90/448/s802/s], substituted “corporation” for “Association” in five places, and “corporation’s” for “Association’s”, in three places.
+    Subsec. (a)(2). [Pub. L. 90–448][/us/pl/90/448], § 802(s), substituted “corporation” for “Association” in five places, and “corporation’s” for “Association’s”, in three places.
 
-    Subsec. (b). [Pub. L. 90–448, § 802(q)][/us/pl/90/448/s802/q], (s), substituted “corporation” for “Association” in seven places, and “corporation’s” for “Association’s”, and inserted provisions permitting the Secretary to establish a greater ratio than fifteen times for the aggregate amount of obligations outstanding.
+    Subsec. (b). [Pub. L. 90–448][/us/pl/90/448], § 802(q), (s), substituted “corporation” for “Association” in seven places, and “corporation’s” for “Association’s”, and inserted provisions permitting the Secretary to establish a greater ratio than fifteen times for the aggregate amount of obligations outstanding.
 
-    Subsec. (c). [Pub. L. 90–448, § 802(r)][/us/pl/90/448/s802/r], struck out provisions which prohibited the Secretary of the Treasury from purchasing obligations under this subsection if all of the preferred stock of the Association held by him has been retired.
+    Subsec. (c). [Pub. L. 90–448][/us/pl/90/448], § 802(r), struck out provisions which prohibited the Secretary of the Treasury from purchasing obligations under this subsection if all of the preferred stock of the Association held by him has been retired.
 
-    Subsec. (d). [Pub. L. 90–448, § 804(a)][/us/pl/90/448/s804/a], added subsec. (d). A prior subsec. (d) was repealed by [Pub. L. 88–560][/us/pl/88/560].
+    Subsec. (d). [Pub. L. 90–448][/us/pl/90/448], § 804(a), added subsec. (d). A prior subsec. (d) was repealed by [Pub. L. 88–560][/us/pl/88/560].
 
-    Subsec. (e). [Pub. L. 90–448, § 805][/us/pl/90/448/s805], added subsec. (e).
+    Subsec. (e). [Pub. L. 90–448][/us/pl/90/448], § 805, added subsec. (e).
 
     1966—Subsec. (a)(1). [Pub. L. 89–754][/us/pl/89/754] struck out requirement that Association’s advance commitments to purchase mortgages in its secondary market operations be issued at prices which are sufficient to facilitate home financing, but which are sufficiently below the price then offered by the Association for immediate purchase to prevent excessive sales to the Association pursuant to such commitments.
 
     Subsec. (b). [Pub. L. 89–566][/us/pl/89/566] raised limit on maximum amount of obligations outstanding under the subsection from ten times the sum of capital, capital surplus, general surplus, reserves, and undistributed earnings to fifteen times that sum.
 
-    1964—Subsec. (a)(2). [Pub. L. 88–560, § 703][/us/pl/88/560/s703], substituted “90 per centum” for “80 per centum”.
+    1964—Subsec. (a)(2). [Pub. L. 88–560][/us/pl/88/560], § 703, substituted “90 per centum” for “80 per centum”.
 
-    Subsec. (b). [Pub. L. 88–560, § 701(b)(2)][/us/pl/88/560/s701/b/2], substituted “or obligations, participations, or other instruments which are lawful investments” for “or obligations which are lawful investments”.
+    Subsec. (b). [Pub. L. 88–560][/us/pl/88/560], § 701(b)(2), substituted “or obligations, participations, or other instruments which are lawful investments” for “or obligations which are lawful investments”.
 
-    Subsec. (d). [Pub. L. 88–560, § 704][/us/pl/88/560/s704], repealed provisions which prohibited the Association from purchasing participations in its operations under this section.
+    Subsec. (d). [Pub. L. 88–560][/us/pl/88/560], § 704, repealed provisions which prohibited the Association from purchasing participations in its operations under this section.
 
-    1961—Subsec. (a). [Pub. L. 87–70, § 603(d)][/us/pl/87/70/s603/d], designated existing provisions as par. (1) and added par. (2).
+    1961—Subsec. (a). [Pub. L. 87–70][/us/pl/87/70], § 603(d), designated existing provisions as par. (1) and added par. (2).
 
-    Subsec. (b). [Pub. L. 87–70, § 603(e)][/us/pl/87/70/s603/e], inserted “or other security holdings” after “mortgages”.
+    Subsec. (b). [Pub. L. 87–70][/us/pl/87/70], § 603(e), inserted “or other security holdings” after “mortgages”.
 
-    1959—Subsec. (a). [Pub. L. 86–372, § 302][/us/pl/86/372/s302], substituted “home financing” for “advance planning of home construction” after “sufficient to facilitate”.
+    1959—Subsec. (a). [Pub. L. 86–372][/us/pl/86/372], § 302, substituted “home financing” for “advance planning of home construction” after “sufficient to facilitate”.
 
-    Subsec. (b). [Pub. L. 86–372, § 305(a)][/us/pl/86/372/s305/a], substituted “and obligations of the United States or guaranteed thereby, or obligations which are lawful investments for fiduciary, trust, or public funds” for “and bonds or other obligations of, or bonds or other obligations guaranteed as to principal and interest by, the United States”.
+    Subsec. (b). [Pub. L. 86–372][/us/pl/86/372], § 305(a), substituted “and obligations of the United States or guaranteed thereby, or obligations which are lawful investments for fiduciary, trust, or public funds” for “and bonds or other obligations of, or bonds or other obligations guaranteed as to principal and interest by, the United States”.
 
     1957—Subsec. (c). [Pub. L. 85–104][/us/pl/85/104] substituted “$2,250,000,000” for “$1,350,000,000”.
 
@@ -210,57 +210,57 @@
 [/us/usc/t12/s4516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4516
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
 [/us/stat/48/1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1254
-[/us/act/1948-07-01/ch784/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-07-01%2Fch784%2Fs1
+[/us/act/1948-07-01/ch784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-07-01%2Fch784
 [/us/stat/62/1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1206
 [/us/act/1954-08-02/ch649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-02%2Fch649
 [/us/stat/68/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F615
 [/us/act/1956-08-07/ch1029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-07%2Fch1029
 [/us/stat/70/1096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1096
-[/us/pl/85/10/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F10%2Fs1%2Fc
+[/us/pl/85/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F10
 [/us/stat/71/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F7
-[/us/pl/85/104/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F104%2Fs203
+[/us/pl/85/104/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F104%2FtII
 [/us/stat/71/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F298
-[/us/pl/86/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F372
+[/us/pl/86/372/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F372%2FtIII
 [/us/stat/73/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F669
-[/us/pl/87/70/s603/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F70%2Fs603%2Fd
+[/us/pl/87/70/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F70%2FtVI
 [/us/stat/75/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F176
-[/us/pl/88/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F560
+[/us/pl/88/560/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F560%2FtVII
 [/us/stat/78/800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F800
-[/us/pl/89/566/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F566%2Fs1
+[/us/pl/89/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F566
 [/us/stat/80/738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F738
-[/us/pl/89/754/s1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F754%2Fs1007
+[/us/pl/89/754/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F754%2FtX
 [/us/stat/80/1285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1285
-[/us/pl/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448
+[/us/pl/90/448/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2FtVIII
 [/us/stat/82/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F538
-[/us/pl/91/351/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F351%2Fs504
+[/us/pl/91/351/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F351%2FtV
 [/us/stat/84/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F461
-[/us/pl/93/383/s806/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs806%2Fj
+[/us/pl/93/383/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtVIII
 [/us/stat/88/728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F728
-[/us/pl/97/320/s707/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs707%2Fb
+[/us/pl/97/320/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2FtVII
 [/us/stat/96/1540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1540
-[/us/pl/98/479/s203/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2Fs203%2Fa%2F1
+[/us/pl/98/479/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2FtII
 [/us/stat/98/2229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2229
-[/us/pl/100/242/s441/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs441%2Fa
+[/us/pl/100/242/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtIV
 [/us/stat/101/1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1921
-[/us/pl/101/73/s731/m/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs731%2Fm%2F2
+[/us/pl/101/73/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtVII
 [/us/stat/103/436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F436
-[/us/pl/102/550/s1381/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1381%2Fe
+[/us/pl/102/550/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIII
 [/us/stat/106/3996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3996
-[/us/pl/110/289/s1117/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1117%2Fa
+[/us/pl/110/289/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtI
 [/us/stat/122/2683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2683
-[/us/pl/111/203/s1304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1304%2Fa
+[/us/pl/111/203/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtXIII
 [/us/stat/124/2134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2134
 [/us/usc/t12/s1716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1716
-[/us/pl/101/73/s731/m/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs731%2Fm%2F1%2FA
+[/us/pl/101/73/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtVII
 [/us/stat/103/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F435
 [/us/usc/t12/s1716/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1716%2F3
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
-[/us/pl/102/550/s1381/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1381%2Fe%2F1
-[/us/pl/102/550/s1381/s/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1381%2Fs%2F2
-[/us/pl/102/550/s1381/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1381%2Ff
-[/us/pl/102/550/s1381/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1381%2Fe%2F2
-[/us/pl/102/550/s1381/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1381%2Fg
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/usc/t12/s4516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4516
 [/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
 [/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
@@ -270,22 +270,22 @@
 [/us/usc/t12/s1715z–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715z%E2%80%938
 [/us/pl/91/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F351
 [/us/usc/t12/s1715z–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715z%E2%80%938
-[/us/pl/90/448/s802/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs802%2Fp
-[/us/pl/90/448/s802/s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs802%2Fs
-[/us/pl/90/448/s802/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs802%2Fq
-[/us/pl/90/448/s802/r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs802%2Fr
-[/us/pl/90/448/s804/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs804%2Fa
+[/us/pl/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448
+[/us/pl/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448
+[/us/pl/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448
+[/us/pl/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448
+[/us/pl/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448
 [/us/pl/88/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F560
-[/us/pl/90/448/s805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs805
+[/us/pl/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448
 [/us/pl/89/754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F754
 [/us/pl/89/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F566
-[/us/pl/88/560/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F560%2Fs703
-[/us/pl/88/560/s701/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F560%2Fs701%2Fb%2F2
-[/us/pl/88/560/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F560%2Fs704
-[/us/pl/87/70/s603/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F70%2Fs603%2Fd
-[/us/pl/87/70/s603/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F70%2Fs603%2Fe
-[/us/pl/86/372/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F372%2Fs302
-[/us/pl/86/372/s305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F372%2Fs305%2Fa
+[/us/pl/88/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F560
+[/us/pl/88/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F560
+[/us/pl/88/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F560
+[/us/pl/87/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F70
+[/us/pl/87/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F70
+[/us/pl/86/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F372
+[/us/pl/86/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F372
 [/us/pl/85/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F104
 [/us/pl/85/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F10
 [/us/usc/t12/s1721/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1721%2Fc

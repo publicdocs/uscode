@@ -33,7 +33,7 @@
 
         To sell to or purchase from any other regional agricultural credit corporation or any corporation formed by consolidation or merger as provided in [section 1148c of this title][/us/usc/t12/s1148c], any part of or all the assets of any such corporation, upon such terms and conditions as may be approved by the Farm Credit Administration, including the assumption of the liabilities of any such corporation, in whole or in part.
 
-([Aug. 19, 1937, ch. 704, § 32][/us/act/1937-08-19/ch704/s32], [50 Stat. 716][/us/stat/50/716]; [June 30, 1947, ch. 166][/us/act/1947-06-30/ch166], title II, § 206(s), [61 Stat. 209][/us/stat/61/209].)
+([Aug. 19, 1937, ch. 704][/us/act/1937-08-19/ch704], § 32, [50 Stat. 716][/us/stat/50/716]; [June 30, 1947, ch. 166][/us/act/1947-06-30/ch166], title II, § 206(s), [61 Stat. 209][/us/stat/61/209].)
 
  __Amendments__ 
 
@@ -56,7 +56,7 @@
 
 [/us/usc/t12/s1148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1148
 [/us/usc/t12/s1148c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1148c
-[/us/act/1937-08-19/ch704/s32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-19%2Fch704%2Fs32
+[/us/act/1937-08-19/ch704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-19%2Fch704
 [/us/stat/50/716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F716
 [/us/act/1947-06-30/ch166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-30%2Fch166
 [/us/stat/61/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F209

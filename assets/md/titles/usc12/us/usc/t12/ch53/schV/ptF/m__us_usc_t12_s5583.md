@@ -135,7 +135,7 @@
 
             Any interim or final rule of a transferor agency which that agency, in performing consumer financial protection functions transferred by this title,1 has published before the designated transfer date, but which has not become effective before that date, shall become effective as a rule of the Bureau according to its terms.
 
-([Pub. L. 111–203, title X, § 1063][/us/pl/111/203/s1063], July 21, 2010, [124 Stat. 2040][/us/stat/124/2040].)
+([Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1063, July 21, 2010, [124 Stat. 2040][/us/stat/124/2040].)
 
  __References in Text__ 
 
@@ -168,7 +168,7 @@
 [/us/usc/t15/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1701
 [/us/usc/t12/s5515/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5515%2Fa
 [/us/usc/t12/s5515/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5515%2Fa
-[/us/pl/111/203/s1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1063
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2040
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1955

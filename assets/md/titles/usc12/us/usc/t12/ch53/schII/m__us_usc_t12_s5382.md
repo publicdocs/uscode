@@ -247,7 +247,7 @@
 
             Not later than 6 months after the date of receipt of the report from the Comptroller General under paragraph (3), the Council shall submit a report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives on actions taken in response to the report, including any recommendations made to the Federal primary financial regulatory agencies under [section 5330 of this title][/us/usc/t12/s5330].
 
-([Pub. L. 111–203, title II, § 202][/us/pl/111/203/s202], July 21, 2010, [124 Stat. 1444][/us/stat/124/1444].)
+([Pub. L. 111–203, title II][/us/pl/111/203/tII], § 202, July 21, 2010, [124 Stat. 1444][/us/stat/124/1444].)
 
  __References in Text__ 
 
@@ -271,7 +271,7 @@
 [/us/usc/t12/s5390/a/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5390%2Fa%2F1%2FA%2Fi
 [/us/usc/t12/s5381/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5381%2Fa%2F11
 [/us/usc/t12/s5330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5330
-[/us/pl/111/203/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs202
+[/us/pl/111/203/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtII
 [/us/stat/124/1444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1444
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1442

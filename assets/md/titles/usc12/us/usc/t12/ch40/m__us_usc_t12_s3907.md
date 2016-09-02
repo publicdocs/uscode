@@ -43,7 +43,7 @@
 
             (C) The Chairman of the Board of Governors of the Federal Reserve System and the Secretary of the Treasury shall encourage governments, central banks, and regulatory authorities of other major banking countries to work toward maintaining and, where appropriate, strengthening the capital bases of banking institutions involved in international lending.
 
-([Pub. L. 98–181, title I][/us/pl/98/181] \[title IX, § 908\], Nov. 30, 1983, [97 Stat. 1280][/us/stat/97/1280]; [Pub. L. 111–203, title VI, § 616(c)][/us/pl/111/203/s616/c], July 21, 2010, [124 Stat. 1615][/us/stat/124/1615].)
+([Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title IX, § 908\], Nov. 30, 1983, [97 Stat. 1280][/us/stat/97/1280]; [Pub. L. 111–203, title VI][/us/pl/111/203/tVI], § 616(c), July 21, 2010, [124 Stat. 1615][/us/stat/124/1615].)
 
  __Amendments__ 
 
@@ -63,9 +63,9 @@
 [/us/usc/t12/s1818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1818
 [/us/usc/t12/s1818/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1818%2Fi
 [/us/usc/t12/s1818/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1818%2Fb
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1280
-[/us/pl/111/203/s616/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs616%2Fc
+[/us/pl/111/203/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVI
 [/us/stat/124/1615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1615
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203

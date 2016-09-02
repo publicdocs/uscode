@@ -61,7 +61,7 @@
 
             If the Council denies an appeal under this subsection, the Council shall, not less frequently than annually, review and reevaluate the decision.
 
-([Pub. L. 111–203, title I, § 117][/us/pl/111/203/s117], July 21, 2010, [124 Stat. 1406][/us/stat/124/1406].)
+([Pub. L. 111–203, title I][/us/pl/111/203/tI], § 117, July 21, 2010, [124 Stat. 1406][/us/stat/124/1406].)
 
  __References in Text__ 
 
@@ -77,7 +77,7 @@
 [/us/usc/t12/s5201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5201
 [/us/usc/t12/s5323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5323
 [/us/usc/t12/s5311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5311
-[/us/pl/111/203/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs117
+[/us/pl/111/203/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtI
 [/us/stat/124/1406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1406
 [/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
 [/us/stat/122/3765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3765

@@ -53,7 +53,7 @@
 
             No provision of this section shall be construed as affecting the applicability of the 20th undesignated paragraph of section 9 of the Federal Reserve Act \[[12 U.S.C. 335][/us/usc/t12/s335]\].
 
-([Sept. 21, 1950, ch. 967, § 2][/us/act/1950-09-21/ch967/s2]\[46\], as added [Pub. L. 106–102, title I, § 121(d)(1)][/us/pl/106/102/s121/d/1], Nov. 12, 1999, [113 Stat. 1380][/us/stat/113/1380].)
+([Sept. 21, 1950, ch. 967][/us/act/1950-09-21/ch967], § 2\[46\], as added [Pub. L. 106–102, title I][/us/pl/106/102/tI], § 121(d)(1), Nov. 12, 1999, [113 Stat. 1380][/us/stat/113/1380].)
 
  __References in Text__ 
 
@@ -77,8 +77,8 @@
 [/us/usc/t12/s24a/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs24a%2Fg
 [/us/usc/t12/s1831a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1831a
 [/us/usc/t12/s335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs335
-[/us/act/1950-09-21/ch967/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967%2Fs2
-[/us/pl/106/102/s121/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs121%2Fd%2F1
+[/us/act/1950-09-21/ch967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967
+[/us/pl/106/102/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtI
 [/us/stat/113/1380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1380
 [/us/pl/106/102/s121/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs121%2Fb
 [/us/stat/113/1378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1378

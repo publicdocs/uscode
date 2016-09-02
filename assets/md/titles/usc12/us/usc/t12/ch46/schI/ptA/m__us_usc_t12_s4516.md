@@ -151,7 +151,7 @@
 
             For the purpose of conducting an audit under this subsection, the Comptroller General may, in the discretion of the Comptroller General, employ by contract, without regard to [section 6101 of title 41][/us/usc/t41/s6101], professional services of firms and organizations of certified public accountants for temporary periods or for special purposes. Upon the request of the Comptroller General, the Director of the Agency shall transfer to the Government Accountability Office from funds available, the amount requested by the Comptroller General to cover the full costs of any audit and report conducted by the Comptroller General. The Comptroller General shall credit funds transferred to the account established for salaries and expenses of the Government Accountability Office, and such amount shall be available upon receipt and without fiscal year limitation to cover the full costs of the audit and report.
 
-([Pub. L. 102–550, title XIII, § 1316][/us/pl/102/550/s1316], Oct. 28, 1992, [106 Stat. 3947][/us/stat/106/3947]; [Pub. L. 104–134, title I, § 101(e)][/us/pl/104/134/s101/e] \[title II, § 211\], Apr. 26, 1996, [110 Stat. 1321–257][/us/stat/110/1321-257], 1321–288; renumbered title I, [Pub. L. 104–140, § 1(a)][/us/pl/104/140/s1/a], May 2, 1996, [110 Stat. 1327][/us/stat/110/1327]; [Pub. L. 110–289, div. A, title I, § 1106][/us/pl/110/289/s1106], July 30, 2008, [122 Stat. 2669][/us/stat/122/2669].)
+([Pub. L. 102–550, title XIII][/us/pl/102/550/tXIII], § 1316, Oct. 28, 1992, [106 Stat. 3947][/us/stat/106/3947]; [Pub. L. 104–134, title I][/us/pl/104/134/tI], § 101(e) \[title II, § 211\], Apr. 26, 1996, [110 Stat. 1321–257][/us/stat/110/1321-257], 1321–288; renumbered title I, [Pub. L. 104–140][/us/pl/104/140], § 1(a), May 2, 1996, [110 Stat. 1327][/us/stat/110/1327]; [Pub. L. 110–289, div. A, title I][/us/pl/110/289/dA/tI], § 1106, July 30, 2008, [122 Stat. 2669][/us/stat/122/2669].)
 
  __References in Text__ 
 
@@ -161,29 +161,29 @@
 
     The effective date of the Federal Housing Finance Regulatory Reform Act of 2008, referred to in subsec. (f)(5), probably means the date of enactment of div. A of [Pub. L. 110–289][/us/pl/110/289], which was approved July 30, 2008.
 
-    [Section 1438(b) of this title][/us/usc/t12/s1438/b], referred to in subsec. (f)(5), was repealed by [Pub. L. 110–289, div. A, title II, § 1204(2)][/us/pl/110/289/s1204/2], July 30, 2008, [122 Stat. 2786][/us/stat/122/2786].
+    [Section 1438(b) of this title][/us/usc/t12/s1438/b], referred to in subsec. (f)(5), was repealed by [Pub. L. 110–289, div. A, title II][/us/pl/110/289/dA/tII], § 1204(2), July 30, 2008, [122 Stat. 2786][/us/stat/122/2786].
 
  __Codification__ 
 
-    In subsec. (h)(3), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 3709 of the Revised Statutes of the United States ([41 U.S.C. 5][/us/usc/t41/s5])” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (h)(3), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 3709 of the Revised Statutes of the United States ([41 U.S.C. 5][/us/usc/t41/s5])” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Amendments__ 
 
-    2008—Subsec. (a). [Pub. L. 110–289, § 1106(1)][/us/pl/110/289/s1106/1], added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Director may, to the extent provided in appropriation Acts, establish and collect from the enterprises annual assessments in an amount not exceeding the amount sufficient to provide for reasonable costs and expenses of the Office, including the expenses of any examinations under [section 4517 of this title][/us/usc/t12/s4517]. The initial annual assessment shall include any startup costs of the Office and any anticipated costs and expenses of the Office for the following fiscal year.”
+    2008—Subsec. (a). [Pub. L. 110–289][/us/pl/110/289], § 1106(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Director may, to the extent provided in appropriation Acts, establish and collect from the enterprises annual assessments in an amount not exceeding the amount sufficient to provide for reasonable costs and expenses of the Office, including the expenses of any examinations under [section 4517 of this title][/us/usc/t12/s4517]. The initial annual assessment shall include any startup costs of the Office and any anticipated costs and expenses of the Office for the following fiscal year.”
 
-    Subsec. (b)(2) to (4). [Pub. L. 110–289, § 1106(2)][/us/pl/110/289/s1106/2], realigned margins, added par. (2), and redesignated former pars. (2) and (3) as (3) and (4), respectively.
+    Subsec. (b)(2) to (4). [Pub. L. 110–289][/us/pl/110/289], § 1106(2), realigned margins, added par. (2), and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
-    Subsec. (c). [Pub. L. 110–289, § 1106(3)][/us/pl/110/289/s1106/3], added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “The semiannual payments made pursuant to subsection (b) of this section by any enterprise that is not classified (for purposes of subchapter II of this chapter) as adequately capitalized may be increased, as necessary, in the discretion of the Director to pay additional estimated costs of regulation of the enterprise.”
+    Subsec. (c). [Pub. L. 110–289][/us/pl/110/289], § 1106(3), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “The semiannual payments made pursuant to subsection (b) of this section by any enterprise that is not classified (for purposes of subchapter II of this chapter) as adequately capitalized may be increased, as necessary, in the discretion of the Director to pay additional estimated costs of regulation of the enterprise.”
 
-    Subsec. (d). [Pub. L. 110–289, § 1106(4)][/us/pl/110/289/s1106/4], substituted “Except with respect to amounts collected pursuant to subsection (a)(3), if” for “If”.
+    Subsec. (d). [Pub. L. 110–289][/us/pl/110/289], § 1106(4), substituted “Except with respect to amounts collected pursuant to subsection (a)(3), if” for “If”.
 
-    Subsecs. (e) to (h). [Pub. L. 110–289, § 1106(5)][/us/pl/110/289/s1106/5], added subsecs. (e) to (h) and struck out former subsecs. (e) to (g) which related, respectively, to initial special assessment, the Federal Housing Enterprises Oversight Fund, and budget and financial reports.
+    Subsecs. (e) to (h). [Pub. L. 110–289][/us/pl/110/289], § 1106(5), added subsecs. (e) to (h) and struck out former subsecs. (e) to (g) which related, respectively, to initial special assessment, the Federal Housing Enterprises Oversight Fund, and budget and financial reports.
 
     1996—Subsec. (b)(2). [Pub. L. 104–134][/us/pl/104/134] added par. (2) and struck out heading and text of former par. (2). Text read as follows: “The annual assessment shall be payable semiannually on September 1 and March 1 of the year for which the assessment is made.”
 
  __Non-Reduction of First Annual Assessment__ 
 
-    [Pub. L. 103–124, title II][/us/pl/103/124], Oct. 28, 1993, [107 Stat. 1290][/us/stat/107/1290], provided that notwithstanding the last sentence of subsec. (e) of this section, the amount of this first annual assessment was not to be reduced by any part of the amount of the initial special assessment under subsec. (e).
+    [Pub. L. 103–124, title II][/us/pl/103/124/tII], Oct. 28, 1993, [107 Stat. 1290][/us/stat/107/1290], provided that notwithstanding the last sentence of subsec. (e) of this section, the amount of this first annual assessment was not to be reduced by any part of the amount of the initial special assessment under subsec. (e).
 
 ----------
 
@@ -199,13 +199,13 @@
 [/us/usc/t31/s3512/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3512%2Fc
 [/us/usc/t31/s716/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs716%2Fc
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
-[/us/pl/102/550/s1316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1316
+[/us/pl/102/550/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIII
 [/us/stat/106/3947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3947
-[/us/pl/104/134/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101%2Fe
+[/us/pl/104/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtI
 [/us/stat/110/1321-257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-257
-[/us/pl/104/140/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140%2Fs1%2Fa
+[/us/pl/104/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140
 [/us/stat/110/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1327
-[/us/pl/110/289/s1106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1106
+[/us/pl/110/289/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtI
 [/us/stat/122/2669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2669
 [/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
 [/us/stat/122/2659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2659
@@ -218,20 +218,20 @@
 [/us/usc/t42/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5301
 [/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
 [/us/usc/t12/s1438/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1438%2Fb
-[/us/pl/110/289/s1204/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1204%2F2
+[/us/pl/110/289/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtII
 [/us/stat/122/2786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2786
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
 [/us/usc/t41/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs5
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
-[/us/pl/110/289/s1106/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1106%2F1
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
 [/us/usc/t12/s4517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4517
-[/us/pl/110/289/s1106/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1106%2F2
-[/us/pl/110/289/s1106/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1106%2F3
-[/us/pl/110/289/s1106/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1106%2F4
-[/us/pl/110/289/s1106/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1106%2F5
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
 [/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
-[/us/pl/103/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F124
+[/us/pl/103/124/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F124%2FtII
 [/us/stat/107/1290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1290
 
 

@@ -49,11 +49,11 @@
 
             The banks may own and lease, or lease with option to purchase, to persons eligible for credit under this subchapter or subchapter II, equipment or facilities needed in the operations of such persons.
 
-([Pub. L. 92–181, title I, § 1][/us/pl/92/181/s1].11, as added [Pub. L. 100–233, title IV, § 401][/us/pl/100/233/s401], Jan. 6, 1988, [101 Stat. 1627][/us/stat/101/1627]; amended [Pub. L. 100–399, title IV, § 401(j)][/us/pl/100/399/s401/j], Aug. 17, 1988, [102 Stat. 996][/us/stat/102/996]; [Pub. L. 101–624, title XVIII, § 1832(a)][/us/pl/101/624/s1832/a], Nov. 28, 1990, [104 Stat. 3832][/us/stat/104/3832]; [Pub. L. 102–237, title V, § 502(a)][/us/pl/102/237/s502/a], Dec. 13, 1991, [105 Stat. 1868][/us/stat/105/1868].)
+([Pub. L. 92–181, title I][/us/pl/92/181/tI], § 1.11, as added [Pub. L. 100–233, title IV][/us/pl/100/233/tIV], § 401, Jan. 6, 1988, [101 Stat. 1627][/us/stat/101/1627]; amended [Pub. L. 100–399, title IV][/us/pl/100/399/tIV], § 401(j), Aug. 17, 1988, [102 Stat. 996][/us/stat/102/996]; [Pub. L. 101–624, title XVIII][/us/pl/101/624/tXVIII], § 1832(a), Nov. 28, 1990, [104 Stat. 3832][/us/stat/104/3832]; [Pub. L. 102–237, title V][/us/pl/102/237/tV], § 502(a), Dec. 13, 1991, [105 Stat. 1868][/us/stat/105/1868].)
 
  __Prior Provisions__ 
 
-    A prior section 2019, [Pub. L. 92–181, title I, § 1][/us/pl/92/181/s1].11, Dec. 10, 1971, [85 Stat. 586][/us/stat/85/586]; [Pub. L. 96–592, title I, § 108][/us/pl/96/592/s108], Dec. 24, 1980, [94 Stat. 3438][/us/stat/94/3438], related to services related to borrower’s operations, prior to the general amendment of this subchapter by [Pub. L. 100–233, § 401][/us/pl/100/233/s401].
+    A prior section 2019, [Pub. L. 92–181, title I][/us/pl/92/181/tI], § 1.11, Dec. 10, 1971, [85 Stat. 586][/us/stat/85/586]; [Pub. L. 96–592, title I][/us/pl/96/592/tI], § 108, Dec. 24, 1980, [94 Stat. 3438][/us/stat/94/3438], related to services related to borrower’s operations, prior to the general amendment of this subchapter by [Pub. L. 100–233][/us/pl/100/233], § 401.
 
  __Amendments__ 
 
@@ -78,20 +78,20 @@
 ----------
 ----------
 
-[/us/pl/92/181/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs1
-[/us/pl/100/233/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs401
+[/us/pl/92/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtI
+[/us/pl/100/233/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtIV
 [/us/stat/101/1627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1627
-[/us/pl/100/399/s401/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs401%2Fj
+[/us/pl/100/399/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtIV
 [/us/stat/102/996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F996
-[/us/pl/101/624/s1832/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1832%2Fa
+[/us/pl/101/624/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXVIII
 [/us/stat/104/3832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3832
-[/us/pl/102/237/s502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs502%2Fa
+[/us/pl/102/237/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtV
 [/us/stat/105/1868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1868
-[/us/pl/92/181/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs1
+[/us/pl/92/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtI
 [/us/stat/85/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F586
-[/us/pl/96/592/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592%2Fs108
+[/us/pl/96/592/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592%2FtI
 [/us/stat/94/3438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3438
-[/us/pl/100/233/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs401
+[/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399

@@ -17,7 +17,7 @@
 
     As appropriate, rules issued under sections 3342 and 3343 of this title shall be proposed not later than 6 months and shall be effective upon adoption in final form not later than 12 months after August 9, 1989.
 
-([Pub. L. 101–73, title XI, § 1115][/us/pl/101/73/s1115], Aug. 9, 1989, [103 Stat. 515][/us/stat/103/515].)
+([Pub. L. 101–73, title XI][/us/pl/101/73/tXI], § 1115, Aug. 9, 1989, [103 Stat. 515][/us/stat/103/515].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/101/73/s1115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs1115
+[/us/pl/101/73/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtXI
 [/us/stat/103/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F515
 
 

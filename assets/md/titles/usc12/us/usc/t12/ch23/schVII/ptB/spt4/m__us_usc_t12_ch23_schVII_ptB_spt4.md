@@ -17,7 +17,7 @@
 
  __Amendments__ 
 
-    1988—[Pub. L. 100–399, title IV, § 408(m)][/us/pl/100/399/s408/m], Aug. 17, 1988, [102 Stat. 1002][/us/stat/102/1002], redesignated subpart 3 as 4.
+    1988—[Pub. L. 100–399, title IV][/us/pl/100/399/tIV], § 408(m), Aug. 17, 1988, [102 Stat. 1002][/us/stat/102/1002], redesignated subpart 3 as 4.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/100/399/s408/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs408%2Fm
+[/us/pl/100/399/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtIV
 [/us/stat/102/1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1002
 
 

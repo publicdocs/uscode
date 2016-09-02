@@ -85,7 +85,7 @@
 
             [Section 1818(h) of this title][/us/usc/t12/s1818/h] shall apply to any proceeding under this subsection.
 
-([Pub. L. 95–369, § 16][/us/pl/95/369/s16], as added [Pub. L. 102–242, title II, § 208][/us/pl/102/242/s208], Dec. 19, 1991, [105 Stat. 2295][/us/stat/105/2295].)
+([Pub. L. 95–369][/us/pl/95/369], § 16, as added [Pub. L. 102–242, title II][/us/pl/102/242/tII], § 208, Dec. 19, 1991, [105 Stat. 2295][/us/stat/105/2295].)
 
  __References in Text__ 
 
@@ -102,8 +102,8 @@
 [/us/usc/t12/s1818/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1818%2Fh
 [/us/usc/t12/s1813/u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813%2Fu
 [/us/usc/t12/s1818/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1818%2Fh
-[/us/pl/95/369/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F369%2Fs16
-[/us/pl/102/242/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs208
+[/us/pl/95/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F369
+[/us/pl/102/242/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtII
 [/us/stat/105/2295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2295
 [/us/usc/t12/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3101
 

@@ -17,7 +17,7 @@
 
     There is authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, such amount as may be necessary to enable the Secretary to carry out the provisions of this chapter, and the current and subsequent appropriations to enable the Secretary to administer the respective Acts of Congress or programs to which the aforesaid payments or loans or extensions of credit relate shall also be available for the administrative expenses of carrying out this chapter.
 
-([Dec. 20, 1944, ch. 623, § 3][/us/act/1944-12-20/ch623/s3], [58 Stat. 837][/us/stat/58/837].)
+([Dec. 20, 1944, ch. 623][/us/act/1944-12-20/ch623], § 3, [58 Stat. 837][/us/stat/58/837].)
 
  __Transfer of Functions__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1944-12-20/ch623/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-12-20%2Fch623%2Fs3
+[/us/act/1944-12-20/ch623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-12-20%2Fch623
 [/us/stat/58/837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F837
 [/us/stat/67/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F633
 [/us/stat/67/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F633

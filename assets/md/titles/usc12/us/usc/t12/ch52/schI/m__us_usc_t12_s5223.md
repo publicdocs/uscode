@@ -97,7 +97,7 @@
 
                 The Secretary shall establish an exception to the requirements of this subsection and appropriate alternative requirements for any participating financial institution that is legally prohibited from issuing securities and debt instruments, so as not to allow circumvention of the requirements of this section.
 
-([Pub. L. 110–343, div. A, title I, § 113][/us/pl/110/343/s113], Oct. 3, 2008, [122 Stat. 3777][/us/stat/122/3777].)
+([Pub. L. 110–343, div. A, title I][/us/pl/110/343/dA/tI], § 113, Oct. 3, 2008, [122 Stat. 3777][/us/stat/122/3777].)
 
  __References in Text__ 
 
@@ -110,7 +110,7 @@
 ----------
 ----------
 
-[/us/pl/110/343/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs113
+[/us/pl/110/343/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdA%2FtI
 [/us/stat/122/3777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3777
 [/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
 [/us/stat/122/3765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3765

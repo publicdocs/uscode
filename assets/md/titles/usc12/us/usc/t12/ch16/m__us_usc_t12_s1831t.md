@@ -185,7 +185,7 @@
 
                 If the Bureau or Federal Trade Commission has instituted an enforcement action for a violation of this section, no appropriate State supervisory agency may, during the pendency of such action, bring an action under this section against any defendant named in the complaint of the Bureau or Federal Trade Commission for any violation of this section that is alleged in that complaint.
 
-([Sept. 21, 1950, ch. 967, § 2][/us/act/1950-09-21/ch967/s2]\[43\], formerly § 2\[40\], as added [Pub. L. 102–242, title I, § 151(a)(1)][/us/pl/102/242/s151/a/1], Dec. 19, 1991, [105 Stat. 2282][/us/stat/105/2282]; renumbered § 2\[43\], [Pub. L. 102–550, title XVI][/us/pl/102/550] § 1602(b), Oct. 28, 1992, [106 Stat. 4078][/us/stat/106/4078]; amended [Pub. L. 103–325, title III, § 340(a)][/us/pl/103/325/s340/a], Sept. 23, 1994, [108 Stat. 2237][/us/stat/108/2237]; [Pub. L. 109–173, § 2(c)(3)][/us/pl/109/173/s2/c/3], Feb. 15, 2006, [119 Stat. 3602][/us/stat/119/3602]; [Pub. L. 109–351, title V, § 505][/us/pl/109/351/s505], Oct. 13, 2006, [120 Stat. 1975][/us/stat/120/1975]; [Pub. L. 111–203, title X, § 1090(2)][/us/pl/111/203/s1090/2], July 21, 2010, [124 Stat. 2094][/us/stat/124/2094]; [Pub. L. 114–94, div. G, title LXXXII, § 82001(b)][/us/pl/114/94/s82001/b], Dec. 4, 2015, [129 Stat. 1796][/us/stat/129/1796].)
+([Sept. 21, 1950, ch. 967][/us/act/1950-09-21/ch967], § 2\[43\], formerly § 2\[40\], as added [Pub. L. 102–242, title I][/us/pl/102/242/tI], § 151(a)(1), Dec. 19, 1991, [105 Stat. 2282][/us/stat/105/2282]; renumbered § 2\[43\], [Pub. L. 102–550, title XVI][/us/pl/102/550/tXVI] § 1602(b), Oct. 28, 1992, [106 Stat. 4078][/us/stat/106/4078]; amended [Pub. L. 103–325, title III][/us/pl/103/325/tIII], § 340(a), Sept. 23, 1994, [108 Stat. 2237][/us/stat/108/2237]; [Pub. L. 109–173][/us/pl/109/173], § 2(c)(3), Feb. 15, 2006, [119 Stat. 3602][/us/stat/119/3602]; [Pub. L. 109–351, title V][/us/pl/109/351/tV], § 505, Oct. 13, 2006, [120 Stat. 1975][/us/stat/120/1975]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1090(2), July 21, 2010, [124 Stat. 2094][/us/stat/124/2094]; [Pub. L. 114–94, div. G, title LXXXII][/us/pl/114/94/dG/tLXXXII], § 82001(b), Dec. 4, 2015, [129 Stat. 1796][/us/stat/129/1796].)
 
  __References in Text__ 
 
@@ -197,33 +197,33 @@
 
     2015—Subsec. (a)(2)(A)(iii). [Pub. L. 114–94][/us/pl/114/94] added cl. (iii).
 
-    2010—Subsecs. (c), (d), (e)(2)(B). [Pub. L. 111–203, § 1090(2)(A)][/us/pl/111/203/s1090/2/A]–(C)(i), substituted “Bureau” for “Federal Trade Commission”.
+    2010—Subsecs. (c), (d), (e)(2)(B). [Pub. L. 111–203][/us/pl/111/203], § 1090(2)(A)–(C)(i), substituted “Bureau” for “Federal Trade Commission”.
 
-    Subsec. (e)(5). [Pub. L. 111–203, § 1090(2)(C)(ii)][/us/pl/111/203/s1090/2/C/ii], added par. (5).
+    Subsec. (e)(5). [Pub. L. 111–203][/us/pl/111/203], § 1090(2)(C)(ii), added par. (5).
 
-    Subsec. (f)(1). [Pub. L. 111–203, § 1090(2)(D)(i)][/us/pl/111/203/s1090/2/D/i], added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “Compliance with the requirements of subsections (b), (c) and (e), and any regulation prescribed or order issued under any such subsection, shall be enforced under the Federal Trade Commission Act by the Federal Trade Commission.”
+    Subsec. (f)(1). [Pub. L. 111–203][/us/pl/111/203], § 1090(2)(D)(i), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “Compliance with the requirements of subsections (b), (c) and (e), and any regulation prescribed or order issued under any such subsection, shall be enforced under the Federal Trade Commission Act by the Federal Trade Commission.”
 
-    Subsec. (f)(2)(C). [Pub. L. 111–203, § 1090(2)(D)(ii)][/us/pl/111/203/s1090/2/D/ii], added subpar. (C) and struck out former subpar. (C). Prior to amendment, text read as follows: “If the Federal Trade Commission has instituted an enforcement action for a violation of this section, no appropriate State supervisor may, during the pendency of such action, bring an action under this section against any defendant named in the complaint of the Commission for any violation of this section that is alleged in that complaint.”
+    Subsec. (f)(2)(C). [Pub. L. 111–203][/us/pl/111/203], § 1090(2)(D)(ii), added subpar. (C) and struck out former subpar. (C). Prior to amendment, text read as follows: “If the Federal Trade Commission has instituted an enforcement action for a violation of this section, no appropriate State supervisor may, during the pendency of such action, bring an action under this section against any defendant named in the complaint of the Commission for any violation of this section that is alleged in that complaint.”
 
-    2006—Subsec. (a)(3). [Pub. L. 109–351, § 505(a)][/us/pl/109/351/s505/a], added par. (3).
+    2006—Subsec. (a)(3). [Pub. L. 109–351][/us/pl/109/351], § 505(a), added par. (3).
 
-    Subsec. (b)(1). [Pub. L. 109–351, § 505(b)][/us/pl/109/351/s505/b], substituted “or share certificate.” for “or similar instrument evidencing a deposit”.
+    Subsec. (b)(1). [Pub. L. 109–351][/us/pl/109/351], § 505(b), substituted “or share certificate.” for “or similar instrument evidencing a deposit”.
 
-    Subsec. (b)(2). [Pub. L. 109–351, § 505(c)][/us/pl/109/351/s505/c], amended heading and text generally. Prior to amendment, text read as follows: “Include conspicuously in all advertising and at each place where deposits are normally received a notice that the institution is not federally insured.”
+    Subsec. (b)(2). [Pub. L. 109–351][/us/pl/109/351], § 505(c), amended heading and text generally. Prior to amendment, text read as follows: “Include conspicuously in all advertising and at each place where deposits are normally received a notice that the institution is not federally insured.”
 
-    Subsec. (b)(3). [Pub. L. 109–351, § 505(d)][/us/pl/109/351/s505/d], amended par. (3) generally. Prior to amendment, par. (3) related to acknowledgement of disclosure and consisted of subpars. (A) to (C).
+    Subsec. (b)(3). [Pub. L. 109–351][/us/pl/109/351], § 505(d), amended par. (3) generally. Prior to amendment, par. (3) related to acknowledgement of disclosure and consisted of subpars. (A) to (C).
 
-    Subsec. (c). [Pub. L. 109–351, § 505(e)][/us/pl/109/351/s505/e], amended heading and text generally. Prior to amendment, text read as follows: “To ensure that current and prospective customers understand the risks involved in foregoing Federal deposit insurance, the Federal Trade Commission, by regulation or order, shall prescribe the manner and content of disclosure required under this section.”
+    Subsec. (c). [Pub. L. 109–351][/us/pl/109/351], § 505(e), amended heading and text generally. Prior to amendment, text read as follows: “To ensure that current and prospective customers understand the risks involved in foregoing Federal deposit insurance, the Federal Trade Commission, by regulation or order, shall prescribe the manner and content of disclosure required under this section.”
 
     Subsec. (d). [Pub. L. 109–173][/us/pl/109/173] substituted “an amount equal to the standard maximum deposit insurance amount” for “$100,000”.
 
-    Subsec. (e). [Pub. L. 109–351, § 505(f)][/us/pl/109/351/s505/f], redesignated subsec. (f) as (e) and struck out former subsec. (e) which related to eligibility for Federal deposit insurance.
+    Subsec. (e). [Pub. L. 109–351][/us/pl/109/351], § 505(f), redesignated subsec. (f) as (e) and struck out former subsec. (e) which related to eligibility for Federal deposit insurance.
 
-    Subsec. (f). [Pub. L. 109–351, § 505(g)][/us/pl/109/351/s505/g], amended heading and text generally. Prior to amendment, text read as follows: “Compliance with the requirements of this section, and any regulation prescribed or order issued under this section, shall be enforced under the Federal Trade Commission Act by the Federal Trade Commission.”
+    Subsec. (f). [Pub. L. 109–351][/us/pl/109/351], § 505(g), amended heading and text generally. Prior to amendment, text read as follows: “Compliance with the requirements of this section, and any regulation prescribed or order issued under this section, shall be enforced under the Federal Trade Commission Act by the Federal Trade Commission.”
 
-    [Pub. L. 109–351, § 505(f)(2)][/us/pl/109/351/s505/f/2], redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
+    [Pub. L. 109–351][/us/pl/109/351], § 505(f)(2), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
 
-    Subsec. (g). [Pub. L. 109–351, § 505(f)(2)][/us/pl/109/351/s505/f/2], redesignated subsec. (g) as (f).
+    Subsec. (g). [Pub. L. 109–351][/us/pl/109/351], § 505(f)(2), redesignated subsec. (g) as (f).
 
     1994—Subsec. (b)(3). [Pub. L. 103–325][/us/pl/103/325] amended heading and text of subsec. (b)(3) generally. Prior to amendment, text read as follows: “Receive deposits only for the account of persons who have signed a written acknowledgment that the institution is not federally insured, and that if the institution fails, the Federal Government does not guarantee that they will get back their money.”
 
@@ -237,13 +237,13 @@
 
  __Effective Date of 1994 Amendment__ 
 
-[Pub. L. 103–325, title III, § 340(b)][/us/pl/103/325/s340/b], Sept. 23, 1994, [108 Stat. 2238][/us/stat/108/2238], provided that: 
+[Pub. L. 103–325, title III][/us/pl/103/325/tIII], § 340(b), Sept. 23, 1994, [108 Stat. 2238][/us/stat/108/2238], provided that: 
 
 > “Section 43(b)(3) of the Federal Deposit Insurance Act \[[12 U.S.C. 1831t(b)(3)][/us/usc/t12/s1831t/b/3]\], as amended by subsection (a), shall take effect in accordance with section 151(a)(2)(D) of the Federal Deposit Insurance Corporation Improvement Act of 1991 \[see Effective Date note below\].”
 
  __Effective Date__ 
 
-[Pub. L. 102–242, title I, § 151(a)(2)][/us/pl/102/242/s151/a/2], Dec. 19, 1991, [105 Stat. 2284][/us/stat/105/2284], provided that: 
+[Pub. L. 102–242, title I][/us/pl/102/242/tI], § 151(a)(2), Dec. 19, 1991, [105 Stat. 2284][/us/stat/105/2284], provided that: 
 
 > “Section 40 of the Federal Deposit Insurance Act \[[12 U.S.C. 1831t][/us/usc/t12/s1831t]\] (as added by paragraph (1)) shall become effective on the date of enactment of this Act \[Dec. 19, 1991\], except that—
 
@@ -257,7 +257,7 @@
 
  __Viability of Private Deposit Insurers__ 
 
-[Pub. L. 102–242, title I, § 151(b)][/us/pl/102/242/s151/b], Dec. 19, 1991, [105 Stat. 2285][/us/stat/105/2285], as amended by [Pub. L. 102–550, title XVI, § 1603(f)(1)][/us/pl/102/550/s1603/f/1], Oct. 28, 1992, [106 Stat. 4081][/us/stat/106/4081], provided that:
+[Pub. L. 102–242, title I][/us/pl/102/242/tI], § 151(b), Dec. 19, 1991, [105 Stat. 2285][/us/stat/105/2285], as amended by [Pub. L. 102–550, title XVI][/us/pl/102/550/tXVI], § 1603(f)(1), Oct. 28, 1992, [106 Stat. 4081][/us/stat/106/4081], provided that:
 
 >     “(1)  __Deadline for initial independent audit__  __.—__ 
 
@@ -294,20 +294,20 @@
 [/us/usc/t12/s1752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1752
 [/us/usc/t12/s5511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5511
 [/us/usc/t15/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs41
-[/us/act/1950-09-21/ch967/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967%2Fs2
-[/us/pl/102/242/s151/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs151%2Fa%2F1
+[/us/act/1950-09-21/ch967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967
+[/us/pl/102/242/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtI
 [/us/stat/105/2282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2282
-[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXVI
 [/us/stat/106/4078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4078
-[/us/pl/103/325/s340/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs340%2Fa
+[/us/pl/103/325/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtIII
 [/us/stat/108/2237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2237
-[/us/pl/109/173/s2/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173%2Fs2%2Fc%2F3
+[/us/pl/109/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173
 [/us/stat/119/3602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3602
-[/us/pl/109/351/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs505
+[/us/pl/109/351/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2FtV
 [/us/stat/120/1975]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1975
-[/us/pl/111/203/s1090/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1090%2F2
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2094
-[/us/pl/114/94/s82001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs82001%2Fb
+[/us/pl/114/94/dG/tLXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdG%2FtLXXXII
 [/us/stat/129/1796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1796
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1955
@@ -316,20 +316,20 @@
 [/us/stat/38/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F717
 [/us/usc/t15/s58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs58
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
-[/us/pl/111/203/s1090/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1090%2F2%2FA
-[/us/pl/111/203/s1090/2/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1090%2F2%2FC%2Fii
-[/us/pl/111/203/s1090/2/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1090%2F2%2FD%2Fi
-[/us/pl/111/203/s1090/2/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1090%2F2%2FD%2Fii
-[/us/pl/109/351/s505/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs505%2Fa
-[/us/pl/109/351/s505/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs505%2Fb
-[/us/pl/109/351/s505/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs505%2Fc
-[/us/pl/109/351/s505/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs505%2Fd
-[/us/pl/109/351/s505/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs505%2Fe
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
+[/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
+[/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
+[/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
+[/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
 [/us/pl/109/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173
-[/us/pl/109/351/s505/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs505%2Ff
-[/us/pl/109/351/s505/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs505%2Fg
-[/us/pl/109/351/s505/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs505%2Ff%2F2
-[/us/pl/109/351/s505/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs505%2Ff%2F2
+[/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
+[/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
+[/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
+[/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
 [/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s1100H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100H
@@ -337,15 +337,15 @@
 [/us/pl/109/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173
 [/us/pl/109/173/s2/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173%2Fs2%2Fe
 [/us/usc/t12/s1785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1785
-[/us/pl/103/325/s340/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs340%2Fb
+[/us/pl/103/325/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtIII
 [/us/stat/108/2238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2238
 [/us/usc/t12/s1831t/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1831t%2Fb%2F3
-[/us/pl/102/242/s151/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs151%2Fa%2F2
+[/us/pl/102/242/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtI
 [/us/stat/105/2284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2284
 [/us/usc/t12/s1831t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1831t
-[/us/pl/102/242/s151/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs151%2Fb
+[/us/pl/102/242/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtI
 [/us/stat/105/2285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2285
-[/us/pl/102/550/s1603/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1603%2Ff%2F1
+[/us/pl/102/550/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXVI
 [/us/stat/106/4081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4081
 [/us/usc/t12/s1831t/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1831t%2Fa%2F1
 [/us/usc/t12/s1831t/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1831t%2Ff

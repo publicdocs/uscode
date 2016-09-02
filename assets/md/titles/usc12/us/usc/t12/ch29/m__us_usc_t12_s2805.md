@@ -23,13 +23,13 @@
 
         The Bureau may, by regulation, exempt from the requirements of this chapter any State-chartered depository institution within any State or subdivision thereof, if the agency determines that, under the law of such State or subdivision, that institution is subject to requirements that are substantially similar to those imposed under this chapter, and that such law contains adequate provisions for enforcement. Notwithstanding any other provision of this subsection, compliance with the requirements imposed under this subsection shall be enforced by the Office of the Comptroller of the Currency under [section 1818 of this title][/us/usc/t12/s1818], in the case of national banks and Federal savings associations, the deposits of which are insured by the Federal Deposit Insurance Corporation.
 
-([Pub. L. 94–200, title III, § 306][/us/pl/94/200/s306], Dec. 31, 1975, [89 Stat. 1127][/us/stat/89/1127]; [Pub. L. 100–628, title X, § 1087(b)][/us/pl/100/628/s1087/b], Nov. 7, 1988, [102 Stat. 3280][/us/stat/102/3280]; [Pub. L. 101–73, title VII, § 744(p)(2)][/us/pl/101/73/s744/p/2], Aug. 9, 1989, [103 Stat. 440][/us/stat/103/440]; [Pub. L. 111–203, title X, § 1094(1)][/us/pl/111/203/s1094/1], (5), July 21, 2010, [124 Stat. 2097][/us/stat/124/2097], 2100.)
+([Pub. L. 94–200, title III][/us/pl/94/200/tIII], § 306, Dec. 31, 1975, [89 Stat. 1127][/us/stat/89/1127]; [Pub. L. 100–628, title X][/us/pl/100/628/tX], § 1087(b), Nov. 7, 1988, [102 Stat. 3280][/us/stat/102/3280]; [Pub. L. 101–73, title VII][/us/pl/101/73/tVII], § 744(p)(2), Aug. 9, 1989, [103 Stat. 440][/us/stat/103/440]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1094(1), (5), July 21, 2010, [124 Stat. 2097][/us/stat/124/2097], 2100.)
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–203, § 1094(1)][/us/pl/111/203/s1094/1], substituted “Bureau” for “Board” wherever appearing.
+    2010—[Pub. L. 111–203][/us/pl/111/203], § 1094(1), substituted “Bureau” for “Board” wherever appearing.
 
-    Subsec. (b). [Pub. L. 111–203, § 1094(5)][/us/pl/111/203/s1094/5], added subsec. (b) and struck out former subsec. (b) which read as follows: “The Bureau may by regulation exempt from the requirements of this chapter any State chartered depository institution within any State or subdivision thereof if it determines that, under the law of such State or subdivision, that institution is subject to requirements substantially similar to those imposed under this chapter, and that such law contains adequate provisions for enforcement. Notwithstanding any other provision of this subsection, compliance with the requirements imposed under this subsection shall be enforced under—
+    Subsec. (b). [Pub. L. 111–203][/us/pl/111/203], § 1094(5), added subsec. (b) and struck out former subsec. (b) which read as follows: “The Bureau may by regulation exempt from the requirements of this chapter any State chartered depository institution within any State or subdivision thereof if it determines that, under the law of such State or subdivision, that institution is subject to requirements substantially similar to those imposed under this chapter, and that such law contains adequate provisions for enforcement. Notwithstanding any other provision of this subsection, compliance with the requirements imposed under this subsection shall be enforced under—
 
     “(1) [section 1818 of this title][/us/usc/t12/s1818] in the case of national banks, by the Comptroller of the Currency; and
 
@@ -51,16 +51,16 @@
 ----------
 
 [/us/usc/t12/s1818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1818
-[/us/pl/94/200/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F200%2Fs306
+[/us/pl/94/200/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F200%2FtIII
 [/us/stat/89/1127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1127
-[/us/pl/100/628/s1087/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs1087%2Fb
+[/us/pl/100/628/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2FtX
 [/us/stat/102/3280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3280
-[/us/pl/101/73/s744/p/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs744%2Fp%2F2
+[/us/pl/101/73/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtVII
 [/us/stat/103/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F440
-[/us/pl/111/203/s1094/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1094%2F1
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2097
-[/us/pl/111/203/s1094/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1094%2F1
-[/us/pl/111/203/s1094/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1094%2F5
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/usc/t12/s1818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1818
 [/us/usc/t12/s1818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1818
 [/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73

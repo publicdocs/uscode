@@ -27,7 +27,7 @@
 
         Except as provided in subsection (a), this chapter and regulations prescribed under this chapter shall supersede any provision of the law of any State, including the Uniform Commercial Code as in effect in such State, which is inconsistent with this chapter or such regulations.
 
-([Pub. L. 100–86, title VI, § 608][/us/pl/100/86/s608], Aug. 10, 1987, [101 Stat. 647][/us/stat/101/647].)
+([Pub. L. 100–86, title VI][/us/pl/100/86/tVI], § 608, Aug. 10, 1987, [101 Stat. 647][/us/stat/101/647].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/100/86/s608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2Fs608
+[/us/pl/100/86/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2FtVI
 [/us/stat/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F647
 
 

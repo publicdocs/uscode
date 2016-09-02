@@ -17,7 +17,7 @@
 
     Appraisal standards established under this chapter shall be proposed not later than 6 months and shall be adopted in final form and become effective not later than 12 months after August 9, 1989.
 
-([Pub. L. 101–73, title XI, § 1111][/us/pl/101/73/s1111], Aug. 9, 1989, [103 Stat. 514][/us/stat/103/514].)
+([Pub. L. 101–73, title XI][/us/pl/101/73/tXI], § 1111, Aug. 9, 1989, [103 Stat. 514][/us/stat/103/514].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/101/73/s1111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs1111
+[/us/pl/101/73/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtXI
 [/us/stat/103/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F514
 
 

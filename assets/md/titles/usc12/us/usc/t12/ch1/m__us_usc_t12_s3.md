@@ -17,11 +17,11 @@
 
     The Comptroller of the Currency shall, within fifteen days from the time of notice of his appointment, take and subscribe the oath of office.
 
-(R.S. § 326; [Pub. L. 86–251, § 1(d)][/us/pl/86/251/s1/d], Sept. 9, 1959, [73 Stat. 488][/us/stat/73/488]; [Pub. L. 92–310, title II, § 223(a)][/us/pl/92/310/s223/a], June 6, 1972, [86 Stat. 206][/us/stat/86/206].)
+(R.S. § 326; [Pub. L. 86–251][/us/pl/86/251], § 1(d), Sept. 9, 1959, [73 Stat. 488][/us/stat/73/488]; [Pub. L. 92–310, title II][/us/pl/92/310/tII], § 223(a), June 6, 1972, [86 Stat. 206][/us/stat/86/206].)
 
  __Codification__ 
 
-    R.S. § 326 derived from [act June 3, 1864, ch. 106, § 1][/us/act/1864-06-03/ch106/s1], [13 Stat. 99][/us/stat/13/99], which was the National Bank Act. See [section 38 of this title][/us/usc/t12/s38].
+    R.S. § 326 derived from [act June 3, 1864, ch. 106][/us/act/1864-06-03/ch106], § 1, [13 Stat. 99][/us/stat/13/99], which was the National Bank Act. See [section 38 of this title][/us/usc/t12/s38].
 
  __Amendments__ 
 
@@ -36,11 +36,11 @@
 ----------
 ----------
 
-[/us/pl/86/251/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F251%2Fs1%2Fd
+[/us/pl/86/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F251
 [/us/stat/73/488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F488
-[/us/pl/92/310/s223/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F310%2Fs223%2Fa
+[/us/pl/92/310/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F310%2FtII
 [/us/stat/86/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F206
-[/us/act/1864-06-03/ch106/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-06-03%2Fch106%2Fs1
+[/us/act/1864-06-03/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-06-03%2Fch106
 [/us/stat/13/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F13%2F99
 [/us/usc/t12/s38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs38
 [/us/pl/92/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F310

@@ -45,7 +45,7 @@
 
         The Commission shall not be required to obtain the clearance of any Federal agency prior to the transmittal of any interim or final report.
 
-([Pub. L. 93–495, title II, § 203][/us/pl/93/495/s203], Oct. 28, 1974, [88 Stat. 1508][/us/stat/88/1508]; [Pub. L. 94–200, title II, § 201][/us/pl/94/200/s201], Dec. 31, 1975, [89 Stat. 1124][/us/stat/89/1124].)
+([Pub. L. 93–495, title II][/us/pl/93/495/tII], § 203, Oct. 28, 1974, [88 Stat. 1508][/us/stat/88/1508]; [Pub. L. 94–200, title II][/us/pl/94/200/tII], § 201, Dec. 31, 1975, [89 Stat. 1124][/us/stat/89/1124].)
 
  __Amendments__ 
 
@@ -58,9 +58,9 @@
 ----------
 ----------
 
-[/us/pl/93/495/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2Fs203
+[/us/pl/93/495/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2FtII
 [/us/stat/88/1508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1508
-[/us/pl/94/200/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F200%2Fs201
+[/us/pl/94/200/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F200%2FtII
 [/us/stat/89/1124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1124
 [/us/pl/94/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F200
 

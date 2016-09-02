@@ -17,7 +17,7 @@
 
     The resignation, termination of employment or participation, or separation of an institution-affiliated party (within the meaning of [section 1813(u) of this title][/us/usc/t12/s1813/u]) with respect to a member bank (including a separation caused by the closing of such a bank) shall not affect the jurisdiction and authority of the Board to issue any notice and proceed under this section against any such party, if such notice is served before the end of the 6-year period beginning on the date such party ceased to be such a party with respect to such bank (whether such date occurs before, on, or after August 9, 1989).
 
-([Dec. 23, 1913, ch. 6, § 19(m)][/us/act/1913-12-23/ch6/s19/m], as added [Pub. L. 101–73, title IX, § 905(g)][/us/pl/101/73/s905/g], Aug. 9, 1989, [103 Stat. 461][/us/stat/103/461].)
+([Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 19(m), as added [Pub. L. 101–73, title IX][/us/pl/101/73/tIX], § 905(g), Aug. 9, 1989, [103 Stat. 461][/us/stat/103/461].)
 
  __References in Text__ 
 
@@ -31,8 +31,8 @@
 ----------
 
 [/us/usc/t12/s1813/u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813%2Fu
-[/us/act/1913-12-23/ch6/s19/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs19%2Fm
-[/us/pl/101/73/s905/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs905%2Fg
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
+[/us/pl/101/73/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtIX
 [/us/stat/103/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F461
 
 

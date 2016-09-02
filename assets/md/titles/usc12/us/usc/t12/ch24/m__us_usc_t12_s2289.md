@@ -39,7 +39,7 @@
 
     (11) to determine the character of and the necessity for its obligations and expenditures, and the manner in which they shall be incurred, allowed, and paid, subject to provisions of law specifically applicable to Government corporations.
 
-([Pub. L. 93–224, § 10][/us/pl/93/224/s10], Dec. 29, 1973, [87 Stat. 940][/us/stat/87/940].)
+([Pub. L. 93–224][/us/pl/93/224], § 10, Dec. 29, 1973, [87 Stat. 940][/us/stat/87/940].)
 
 ----------
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/93/224/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F224%2Fs10
+[/us/pl/93/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F224
 [/us/stat/87/940]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F940
 
 

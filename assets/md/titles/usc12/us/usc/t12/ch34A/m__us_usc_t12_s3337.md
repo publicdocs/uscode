@@ -27,11 +27,11 @@
 
         Not later than September 30, 1998, the Appraisal Subcommittee shall repay to the Secretary of the Treasury the unpaid portion of the $5,000,000 paid to the Appraisal Subcommittee pursuant to this section.
 
-([Pub. L. 101–73, title XI, § 1108][/us/pl/101/73/s1108], Aug. 9, 1989, [103 Stat. 513][/us/stat/103/513]; [Pub. L. 104–208, div. A, title II, § 2212][/us/pl/104/208/s2212], Sept. 30, 1996, [110 Stat. 3009–411][/us/stat/110/3009-411].)
+([Pub. L. 101–73, title XI][/us/pl/101/73/tXI], § 1108, Aug. 9, 1989, [103 Stat. 513][/us/stat/103/513]; [Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], § 2212, Sept. 30, 1996, [110 Stat. 3009–411][/us/stat/110/3009-411].)
 
  __References in Text__ 
 
-    [Section 3351(b) of this title][/us/usc/t12/s3351/b], referred to in text, was redesignated [section 3351(c) of this title][/us/usc/t12/s3351/c] by [Pub. L. 103–325, title III, § 315(1)][/us/pl/103/325/s315/1], Sept. 23, 1994, [108 Stat. 2222][/us/stat/108/2222].
+    [Section 3351(b) of this title][/us/usc/t12/s3351/b], referred to in text, was redesignated [section 3351(c) of this title][/us/usc/t12/s3351/c] by [Pub. L. 103–325, title III][/us/pl/103/325/tIII], § 315(1), Sept. 23, 1994, [108 Stat. 2222][/us/stat/108/2222].
 
  __Amendments__ 
 
@@ -45,13 +45,13 @@
 ----------
 
 [/us/usc/t12/s3338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3338
-[/us/pl/101/73/s1108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs1108
+[/us/pl/101/73/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtXI
 [/us/stat/103/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F513
-[/us/pl/104/208/s2212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2212
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-411
 [/us/usc/t12/s3351/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3351%2Fb
 [/us/usc/t12/s3351/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3351%2Fc
-[/us/pl/103/325/s315/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs315%2F1
+[/us/pl/103/325/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtIII
 [/us/stat/108/2222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2222
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 

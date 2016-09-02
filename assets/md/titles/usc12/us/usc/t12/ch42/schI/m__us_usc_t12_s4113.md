@@ -67,7 +67,7 @@
 
             (B) residing in eligible low-income housing on the date of the prepayment of the mortgage or voluntary termination of the insurance contract.
 
-([Pub. L. 100–242, title II, § 223][/us/pl/100/242/s223], as added [Pub. L. 101–625, title VI, § 601(a)][/us/pl/101/625/s601/a], Nov. 28, 1990, [104 Stat. 4264][/us/stat/104/4264]; amended [Pub. L. 105–276, title V, § 550(d)][/us/pl/105/276/s550/d], Oct. 21, 1998, [112 Stat. 2610][/us/stat/112/2610]; [Pub. L. 106–74, title V, § 538(c)][/us/pl/106/74/s538/c], Oct. 20, 1999, [113 Stat. 1123][/us/stat/113/1123].)
+([Pub. L. 100–242, title II][/us/pl/100/242/tII], § 223, as added [Pub. L. 101–625, title VI][/us/pl/101/625/tVI], § 601(a), Nov. 28, 1990, [104 Stat. 4264][/us/stat/104/4264]; amended [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 550(d), Oct. 21, 1998, [112 Stat. 2610][/us/stat/112/2610]; [Pub. L. 106–74, title V][/us/pl/106/74/tV], § 538(c), Oct. 20, 1999, [113 Stat. 1123][/us/stat/113/1123].)
 
  __Amendments__ 
 
@@ -92,12 +92,12 @@
 [/us/usc/t12/s4102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4102
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/usc/t42/s1437f/t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f%2Ft
-[/us/pl/100/242/s223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs223
-[/us/pl/101/625/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs601%2Fa
+[/us/pl/100/242/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtII
+[/us/pl/101/625/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtVI
 [/us/stat/104/4264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4264
-[/us/pl/105/276/s550/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs550%2Fd
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2610
-[/us/pl/106/74/s538/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F74%2Fs538%2Fc
+[/us/pl/106/74/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F74%2FtV
 [/us/stat/113/1123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1123
 [/us/pl/106/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F74
 [/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276

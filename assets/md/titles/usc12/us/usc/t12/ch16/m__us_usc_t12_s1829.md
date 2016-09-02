@@ -85,11 +85,11 @@
 
             The Board of Governors of the Federal Reserve System may provide exemptions, by regulation or order, from the application of paragraph (1) if the exemption is consistent with the purposes of this subsection.
 
-([Sept. 21, 1950, ch. 967, § 2][/us/act/1950-09-21/ch967/s2]\[19\], [64 Stat. 893][/us/stat/64/893]; [Pub. L. 101–73, title IX, § 910(a)][/us/pl/101/73/s910/a], Aug. 9, 1989, [103 Stat. 477][/us/stat/103/477]; [Pub. L. 101–647, title XXV, § 2502(a)][/us/pl/101/647/s2502/a], Nov. 29, 1990, [104 Stat. 4860][/us/stat/104/4860]; [Pub. L. 102–550, title XV, § 1505][/us/pl/102/550/s1505], Oct. 28, 1992, [106 Stat. 4055][/us/stat/106/4055]; [Pub. L. 103–322, title XXXII, § 320605][/us/pl/103/322/s320605], Sept. 13, 1994, [108 Stat. 2119][/us/stat/108/2119]; [Pub. L. 109–351, title VII, § 710(a)][/us/pl/109/351/s710/a], Oct. 13, 2006, [120 Stat. 1990][/us/stat/120/1990]; [Pub. L. 111–203, title III, § 363(8)][/us/pl/111/203/s363/8], July 21, 2010, [124 Stat. 1554][/us/stat/124/1554].)
+([Sept. 21, 1950, ch. 967][/us/act/1950-09-21/ch967], § 2\[19\], [64 Stat. 893][/us/stat/64/893]; [Pub. L. 101–73, title IX][/us/pl/101/73/tIX], § 910(a), Aug. 9, 1989, [103 Stat. 477][/us/stat/103/477]; [Pub. L. 101–647, title XXV][/us/pl/101/647/tXXV], § 2502(a), Nov. 29, 1990, [104 Stat. 4860][/us/stat/104/4860]; [Pub. L. 102–550, title XV][/us/pl/102/550/tXV], § 1505, Oct. 28, 1992, [106 Stat. 4055][/us/stat/106/4055]; [Pub. L. 103–322, title XXXII][/us/pl/103/322/tXXXII], § 320605, Sept. 13, 1994, [108 Stat. 2119][/us/stat/108/2119]; [Pub. L. 109–351, title VII][/us/pl/109/351/tVII], § 710(a), Oct. 13, 2006, [120 Stat. 1990][/us/stat/120/1990]; [Pub. L. 111–203, title III][/us/pl/111/203/tIII], § 363(8), July 21, 2010, [124 Stat. 1554][/us/stat/124/1554].)
 
  __References in Text__ 
 
-    [Section 1008 of title 18][/us/usc/t18/s1008], referred to in subsec. (a)(2)(A)(i)(I), was repealed by [Pub. L. 101–73, title IX, § 961(g)(1)][/us/pl/101/73/s961/g/1], Aug. 9, 1989, [103 Stat. 500][/us/stat/103/500].
+    [Section 1008 of title 18][/us/usc/t18/s1008], referred to in subsec. (a)(2)(A)(i)(I), was repealed by [Pub. L. 101–73, title IX][/us/pl/101/73/tIX], § 961(g)(1), Aug. 9, 1989, [103 Stat. 500][/us/stat/103/500].
 
     Sections 25 and 25A of the Federal Reserve Act, referred to in subsec. (d)(1), are classified to subchapters I (§ 601 et seq.) and II (§ 611 et seq.), respectively, of chapter 6 of this title.
 
@@ -128,22 +128,22 @@
 
 [/us/usc/t12/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs611
 [/us/usc/t12/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs601
-[/us/act/1950-09-21/ch967/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967%2Fs2
+[/us/act/1950-09-21/ch967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967
 [/us/stat/64/893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F893
-[/us/pl/101/73/s910/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs910%2Fa
+[/us/pl/101/73/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtIX
 [/us/stat/103/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F477
-[/us/pl/101/647/s2502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2502%2Fa
+[/us/pl/101/647/tXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXV
 [/us/stat/104/4860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4860
-[/us/pl/102/550/s1505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1505
+[/us/pl/102/550/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXV
 [/us/stat/106/4055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4055
-[/us/pl/103/322/s320605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs320605
+[/us/pl/103/322/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXII
 [/us/stat/108/2119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2119
-[/us/pl/109/351/s710/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs710%2Fa
+[/us/pl/109/351/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2FtVII
 [/us/stat/120/1990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1990
-[/us/pl/111/203/s363/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs363%2F8
+[/us/pl/111/203/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIII
 [/us/stat/124/1554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1554
 [/us/usc/t18/s1008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1008
-[/us/pl/101/73/s961/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs961%2Fg%2F1
+[/us/pl/101/73/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtIX
 [/us/stat/103/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F500
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351

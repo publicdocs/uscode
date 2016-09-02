@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act July 1, 1922, ch. 257, § 2][/us/act/1922-07-01/ch257/s2], [42 Stat. 767][/us/stat/42/767], repealed all acts extending the period of succession of national banking associations for 20 years, and made paragraph Second of section 24 applicable in that respect.
+    Section, [act July 1, 1922, ch. 257][/us/act/1922-07-01/ch257], § 2, [42 Stat. 767][/us/stat/42/767], repealed all acts extending the period of succession of national banking associations for 20 years, and made paragraph Second of section 24 applicable in that respect.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1922-07-01/ch257/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-07-01%2Fch257%2Fs2
+[/us/act/1922-07-01/ch257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-07-01%2Fch257
 [/us/stat/42/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F767
 
 

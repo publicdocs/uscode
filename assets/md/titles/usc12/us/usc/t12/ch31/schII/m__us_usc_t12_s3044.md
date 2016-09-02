@@ -17,7 +17,7 @@
 
     The Office shall make available information and services concerning the organization, financing, and management of cooperatives to best achieve the objectives of this chapter and to best provide the means through which various types of goods, services, and facilities can be made available to members and patrons. The Office may enter into agreements with other agencies of Federal, State, and local governments, colleges and universities, foundations, or other organizations for the development and dissemination of such information, and services described in this subchapter. The Office may make or accept grants or transfer of funds for such purposes.
 
-([Pub. L. 95–351, title II, § 204][/us/pl/95/351/s204], Aug. 20, 1978, [92 Stat. 512][/us/stat/92/512].)
+([Pub. L. 95–351, title II][/us/pl/95/351/tII], § 204, Aug. 20, 1978, [92 Stat. 512][/us/stat/92/512].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/351/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F351%2Fs204
+[/us/pl/95/351/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F351%2FtII
 [/us/stat/92/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F512
 
 

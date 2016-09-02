@@ -17,7 +17,7 @@
 
     Any credit union the accounts of which are insured under this subchapter shall be a depositary of public money and may be employed as fiscal agent of the United States. The Secretary of the Treasury is authorized to deposit public money in any such insured credit union, and shall prescribe such regulations as may be necessary to enable such credit unions to become depositaries of public money and fiscal agents of the United States. Each credit union shall perform all such reasonable duties as depositaries of public money and fiscal agent of the United States as may be required of it including services in connection with the collection of taxes and other obligations owed the United States.
 
-([June 26, 1934, ch. 750][/us/act/1934-06-26/ch750], title II, § 210, as added [Pub. L. 95–147, § 2(c)(1)][/us/pl/95/147/s2/c/1], Oct. 28, 1977, [91 Stat. 1227][/us/stat/91/1227].)
+([June 26, 1934, ch. 750][/us/act/1934-06-26/ch750], title II, § 210, as added [Pub. L. 95–147][/us/pl/95/147], § 2(c)(1), Oct. 28, 1977, [91 Stat. 1227][/us/stat/91/1227].)
 
  __Prior Provisions__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/act/1934-06-26/ch750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-26%2Fch750
-[/us/pl/95/147/s2/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F147%2Fs2%2Fc%2F1
+[/us/pl/95/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F147
 [/us/stat/91/1227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1227
 [/us/act/1934-06-26/ch750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-26%2Fch750
 [/us/usc/t12/s1790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1790

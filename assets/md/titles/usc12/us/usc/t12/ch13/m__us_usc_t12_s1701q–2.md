@@ -135,7 +135,7 @@
 
         There is authorized to be appropriated for providing grants under this section such sums as may be necessary for fiscal year 2000.
 
-([Pub. L. 86–372, title II, § 202b][/us/pl/86/372/s202b], as added and amended [Pub. L. 106–74, title V][/us/pl/106/74], §§ 522, 523(b), Oct. 20, 1999, [113 Stat. 1103][/us/stat/113/1103], 1105; [Pub. L. 111–372, title III, § 301][/us/pl/111/372/s301], Jan. 4, 2011, [124 Stat. 4082][/us/stat/124/4082].)
+([Pub. L. 86–372, title II][/us/pl/86/372/tII], § 202b, as added and amended [Pub. L. 106–74, title V][/us/pl/106/74/tV], §§ 522, 523(b), Oct. 20, 1999, [113 Stat. 1103][/us/stat/113/1103], 1105; [Pub. L. 111–372, title III][/us/pl/111/372/tIII], § 301, Jan. 4, 2011, [124 Stat. 4082][/us/stat/124/4082].)
 
  __References in Text__ 
 
@@ -147,25 +147,25 @@
 
  __Amendments__ 
 
-    2011—[Pub. L. 111–372, § 301(a)][/us/pl/111/372/s301/a], inserted “and other purposes” after “assisted living facilities” in section catchline.
+    2011—[Pub. L. 111–372][/us/pl/111/372], § 301(a), inserted “and other purposes” after “assisted living facilities” in section catchline.
 
-    Subsec. (a)(2). [Pub. L. 111–372, § 301(b)][/us/pl/111/372/s301/b], designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
+    Subsec. (a)(2). [Pub. L. 111–372][/us/pl/111/372], § 301(b), designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
 
-    Subsec. (c)(1). [Pub. L. 111–372, § 301(c)][/us/pl/111/372/s301/c], inserted “for either an assisted living facility or service-enriched housing” after “activities”.
+    Subsec. (c)(1). [Pub. L. 111–372][/us/pl/111/372], § 301(c), inserted “for either an assisted living facility or service-enriched housing” after “activities”.
 
-    Subsec. (d). [Pub. L. 111–372, § 301(d)][/us/pl/111/372/s301/d], amended subsec. (d) generally. Prior to amendment, text read as follows: “The Secretary may not make a grant under this section for conversion activities unless the application contains sufficient evidence, in the determination of the Secretary, of firm commitments for the funding of services to be provided in the assisted living facility, which may be provided by third parties.”
+    Subsec. (d). [Pub. L. 111–372][/us/pl/111/372], § 301(d), amended subsec. (d) generally. Prior to amendment, text read as follows: “The Secretary may not make a grant under this section for conversion activities unless the application contains sufficient evidence, in the determination of the Secretary, of firm commitments for the funding of services to be provided in the assisted living facility, which may be provided by third parties.”
 
-    Subsec. (e)(2). [Pub. L. 111–372, § 301(e)(1)][/us/pl/111/372/s301/e/1], inserted “or service-enriched housing” after “facilities” and “service-enriched housing” after “facility”.
+    Subsec. (e)(2). [Pub. L. 111–372][/us/pl/111/372], § 301(e)(1), inserted “or service-enriched housing” after “facilities” and “service-enriched housing” after “facility”.
 
-    Subsec. (e)(5). [Pub. L. 111–372, § 301(e)(2)][/us/pl/111/372/s301/e/2], inserted “or service-enriched housing” after “facility”.
+    Subsec. (e)(5). [Pub. L. 111–372][/us/pl/111/372], § 301(e)(2), inserted “or service-enriched housing” after “facility”.
 
-    Subsec. (e)(6). [Pub. L. 111–372, § 301(e)(3)][/us/pl/111/372/s301/e/3], inserted “or service-enriched housing” after “facility”.
+    Subsec. (e)(6). [Pub. L. 111–372][/us/pl/111/372], § 301(e)(3), inserted “or service-enriched housing” after “facility”.
 
-    Subsec. (f)(1). [Pub. L. 111–372, § 301(f)(1)][/us/pl/111/372/s301/f/1], inserted “or service-enriched housing” after “facilities” in two places.
+    Subsec. (f)(1). [Pub. L. 111–372][/us/pl/111/372], § 301(f)(1), inserted “or service-enriched housing” after “facilities” in two places.
 
-    Subsec. (f)(2). [Pub. L. 111–372, § 301(f)(2)][/us/pl/111/372/s301/f/2], inserted “or service-enriched housing” after “facility”.
+    Subsec. (f)(2). [Pub. L. 111–372][/us/pl/111/372], § 301(f)(2), inserted “or service-enriched housing” after “facility”.
 
-    Subsec. (g). [Pub. L. 111–372, § 301(g)][/us/pl/111/372/s301/g], amended subsec. (g) generally. Prior to amendment, subsec. (g) related to definitions for purposes of this section.
+    Subsec. (g). [Pub. L. 111–372][/us/pl/111/372], § 301(g), amended subsec. (g) generally. Prior to amendment, subsec. (g) related to definitions for purposes of this section.
 
     1999—Subsecs. (f) to (h). [Pub. L. 106–74][/us/pl/106/74] added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
 
@@ -181,23 +181,23 @@
 [/us/usc/t12/s1701q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701q
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/usc/t12/s1715w/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715w%2Fb
-[/us/pl/86/372/s202b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F372%2Fs202b
-[/us/pl/106/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F74
+[/us/pl/86/372/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F372%2FtII
+[/us/pl/106/74/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F74%2FtV
 [/us/stat/113/1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1103
-[/us/pl/111/372/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F372%2Fs301
+[/us/pl/111/372/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F372%2FtIII
 [/us/stat/124/4082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4082
 [/us/usc/t12/s1701/q/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701%2Fq%2Fk
 [/us/usc/t12/s1701q/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701q%2Fk
-[/us/pl/111/372/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F372%2Fs301%2Fa
-[/us/pl/111/372/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F372%2Fs301%2Fb
-[/us/pl/111/372/s301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F372%2Fs301%2Fc
-[/us/pl/111/372/s301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F372%2Fs301%2Fd
-[/us/pl/111/372/s301/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F372%2Fs301%2Fe%2F1
-[/us/pl/111/372/s301/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F372%2Fs301%2Fe%2F2
-[/us/pl/111/372/s301/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F372%2Fs301%2Fe%2F3
-[/us/pl/111/372/s301/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F372%2Fs301%2Ff%2F1
-[/us/pl/111/372/s301/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F372%2Fs301%2Ff%2F2
-[/us/pl/111/372/s301/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F372%2Fs301%2Fg
+[/us/pl/111/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F372
+[/us/pl/111/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F372
+[/us/pl/111/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F372
+[/us/pl/111/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F372
+[/us/pl/111/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F372
+[/us/pl/111/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F372
+[/us/pl/111/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F372
+[/us/pl/111/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F372
+[/us/pl/111/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F372
+[/us/pl/111/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F372
 [/us/pl/106/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F74
 
 

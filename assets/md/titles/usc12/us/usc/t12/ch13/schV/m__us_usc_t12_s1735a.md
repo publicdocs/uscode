@@ -19,7 +19,7 @@
 
     (b) The Secretary shall refund any adjusted premium charge collected subsequent to July 1, 1962, and prior to September 2, 1964, in connection with the payment in full, prior to maturity, of any mortgage insured under this chapter, if the mortgagor under such mortgage makes the certification prescribed by subsection (a).
 
-([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title V, § 517, as added [Pub. L. 88–560, title I, § 120][/us/pl/88/560/s120], Sept. 2, 1964, [78 Stat. 782][/us/stat/78/782]; amended [Pub. L. 90–19, § 1(a)(3)][/us/pl/90/19/s1/a/3], May 25, 1967, [81 Stat. 17][/us/stat/81/17].)
+([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title V, § 517, as added [Pub. L. 88–560, title I][/us/pl/88/560/tI], § 120, Sept. 2, 1964, [78 Stat. 782][/us/stat/78/782]; amended [Pub. L. 90–19][/us/pl/90/19], § 1(a)(3), May 25, 1967, [81 Stat. 17][/us/stat/81/17].)
 
  __Amendments__ 
 
@@ -33,9 +33,9 @@
 ----------
 
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
-[/us/pl/88/560/s120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F560%2Fs120
+[/us/pl/88/560/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F560%2FtI
 [/us/stat/78/782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F782
-[/us/pl/90/19/s1/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19%2Fs1%2Fa%2F3
+[/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
 [/us/stat/81/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F17
 [/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
 

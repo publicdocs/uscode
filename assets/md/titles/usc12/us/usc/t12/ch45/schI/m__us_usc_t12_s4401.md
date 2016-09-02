@@ -27,7 +27,7 @@
 
     (5) the effectiveness of such netting procedures can be assured only if they are recognized as valid and legally binding in the event of the closing of a financial institution participating in the netting procedures.
 
-([Pub. L. 102–242, title IV, § 401][/us/pl/102/242/s401], Dec. 19, 1991, [105 Stat. 2371][/us/stat/105/2371].)
+([Pub. L. 102–242, title IV][/us/pl/102/242/tIV], § 401, Dec. 19, 1991, [105 Stat. 2371][/us/stat/105/2371].)
 
  __Separability__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/102/242/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs401
+[/us/pl/102/242/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtIV
 [/us/stat/105/2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2371
 [/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
 [/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242

@@ -35,7 +35,7 @@
 
                 As part of the grants, agreements, and undertakings established under this section, the Secretary may implement reasonable measures or programs designed to expand access to financial literacy and education opportunities, including relevant counseling services, educational courses, or wealth building programs to be provided to individuals who obtain loans from eligible entities under this section.
 
-([Pub. L. 111–203, title XII, § 1205][/us/pl/111/203/s1205], July 21, 2010, [124 Stat. 2130][/us/stat/124/2130].)
+([Pub. L. 111–203, title XII][/us/pl/111/203/tXII], § 1205, July 21, 2010, [124 Stat. 2130][/us/stat/124/2130].)
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/111/203/s1205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1205
+[/us/pl/111/203/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtXII
 [/us/stat/124/2130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2130
 
 

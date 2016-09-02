@@ -35,7 +35,7 @@
 
         Within ten days after any director, officer, or other person has been suspended from office or prohibited from participation in the conduct of the affairs of a System institution under subsection (c) of this section, such director, officer, or other person may apply to the United States district court for the judicial district in which the home office of the institution is located, or the United States district court for the District of Columbia, for a stay of either such suspension or prohibition, or both, pending the completion of the administrative proceedings pursuant to the notice served upon such director, officer, or other person under subsection (a) or (b), and such court shall have jurisdiction to stay either such suspension or prohibition, or both.
 
-([Pub. L. 92–181, title V, § 5][/us/pl/92/181/s5].28, as added [Pub. L. 99–205, title II, § 204][/us/pl/99/205/s204], Dec. 23, 1985, [99 Stat. 1696][/us/stat/99/1696]; amended [Pub. L. 100–233, title VIII, § 805(aa)][/us/pl/100/233/s805/aa], Jan. 6, 1988, [101 Stat. 1717][/us/stat/101/1717]; [Pub. L. 100–399, title VII, § 702(d)][/us/pl/100/399/s702/d], Aug. 17, 1988, [102 Stat. 1006][/us/stat/102/1006].)
+([Pub. L. 92–181, title V][/us/pl/92/181/tV], § 5.28, as added [Pub. L. 99–205, title II][/us/pl/99/205/tII], § 204, Dec. 23, 1985, [99 Stat. 1696][/us/stat/99/1696]; amended [Pub. L. 100–233, title VIII][/us/pl/100/233/tVIII], § 805(aa), Jan. 6, 1988, [101 Stat. 1717][/us/stat/101/1717]; [Pub. L. 100–399, title VII][/us/pl/100/399/tVII], § 702(d), Aug. 17, 1988, [102 Stat. 1006][/us/stat/102/1006].)
 
  __Prior Provisions__ 
 
@@ -43,11 +43,11 @@
 
  __Amendments__ 
 
-    1988—Subsec. (a). [Pub. L. 100–233, § 805(aa)(1)][/us/pl/100/233/s805/aa/1], designated provisions preceding subsec. (b) as subsec. (a).
+    1988—Subsec. (a). [Pub. L. 100–233][/us/pl/100/233], § 805(aa)(1), designated provisions preceding subsec. (b) as subsec. (a).
 
     Subsec. (e). [Pub. L. 100–399][/us/pl/100/399] substituted “subsection (c)” for “subsection (d)”.
 
-    [Pub. L. 100–233, § 805(aa)(2)][/us/pl/100/233/s805/aa/2], substituted “subsection (d) of this section” for “subsection (d)(3) of this section”.
+    [Pub. L. 100–233][/us/pl/100/233], § 805(aa)(2), substituted “subsection (d) of this section” for “subsection (d)(3) of this section”.
 
  __Effective Date of 1988 Amendment__ 
 
@@ -64,18 +64,18 @@
 ----------
 ----------
 
-[/us/pl/92/181/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs5
-[/us/pl/99/205/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2Fs204
+[/us/pl/92/181/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtV
+[/us/pl/99/205/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2FtII
 [/us/stat/99/1696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1696
-[/us/pl/100/233/s805/aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs805%2Faa
+[/us/pl/100/233/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtVIII
 [/us/stat/101/1717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1717
-[/us/pl/100/399/s702/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs702%2Fd
+[/us/pl/100/399/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtVII
 [/us/stat/102/1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1006
 [/us/pl/92/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181
 [/us/usc/t12/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2001
-[/us/pl/100/233/s805/aa/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs805%2Faa%2F1
+[/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
 [/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
-[/us/pl/100/233/s805/aa/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs805%2Faa%2F2
+[/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
 [/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
 [/us/pl/100/399/s1001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs1001%2Fa

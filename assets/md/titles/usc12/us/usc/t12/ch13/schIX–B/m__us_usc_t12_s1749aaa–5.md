@@ -47,19 +47,19 @@
 
     (9) The term “mortgagor” means the original borrower under a mortgage and his or its successors and assigns.
 
-([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title XI, § 1106, as added [Pub. L. 89–754, title V, § 502(a)][/us/pl/89/754/s502/a], Nov. 3, 1966, [80 Stat. 1276][/us/stat/80/1276]; amended [Pub. L. 93–383, title III, § 312(a)(6)][/us/pl/93/383/s312/a/6], (b), Aug. 22, 1974, [88 Stat. 683][/us/stat/88/683], 684.)
+([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title XI, § 1106, as added [Pub. L. 89–754, title V][/us/pl/89/754/tV], § 502(a), Nov. 3, 1966, [80 Stat. 1276][/us/stat/80/1276]; amended [Pub. L. 93–383, title III][/us/pl/93/383/tIII], § 312(a)(6), (b), Aug. 22, 1974, [88 Stat. 683][/us/stat/88/683], 684.)
 
  __Amendments__ 
 
-    1974—Par. (1). [Pub. L. 93–383, § 312(b)(1)][/us/pl/93/383/s312/b/1], inserted references to practice of osteopathy and authorized inclusion of podiatric care or treatment under the professional supervision of persons licensed to practice podiatry in the State.
+    1974—Par. (1). [Pub. L. 93–383][/us/pl/93/383], § 312(b)(1), inserted references to practice of osteopathy and authorized inclusion of podiatric care or treatment under the professional supervision of persons licensed to practice podiatry in the State.
 
-    Par. (2). [Pub. L. 93–383, § 312(a)(6)][/us/pl/93/383/s312/a/6], added par. (2). Former par. (2) redesignated (3).
+    Par. (2). [Pub. L. 93–383][/us/pl/93/383], § 312(a)(6), added par. (2). Former par. (2) redesignated (3).
 
-    Par. (3). [Pub. L. 93–383, § 312(a)(6)][/us/pl/93/383/s312/a/6], (b)(2), redesignated former par. (2) as par. (3) and inserted references to persons licensed to practice osteopathy and persons licensed to practice podiatry. Former par. (3) redesignated (4).
+    Par. (3). [Pub. L. 93–383][/us/pl/93/383], § 312(a)(6), (b)(2), redesignated former par. (2) as par. (3) and inserted references to persons licensed to practice osteopathy and persons licensed to practice podiatry. Former par. (3) redesignated (4).
 
-    Par. (4). [Pub. L. 93–383, § 312(a)(6)][/us/pl/93/383/s312/a/6], (b)(3), (4), redesignated former par. (3) as par. (4) and in cls. (A) and (B) inserted references to osteopathic care and podiatric care wherever appearing. Former par. (4) redesignated (5).
+    Par. (4). [Pub. L. 93–383][/us/pl/93/383], § 312(a)(6), (b)(3), (4), redesignated former par. (3) as par. (4) and in cls. (A) and (B) inserted references to osteopathic care and podiatric care wherever appearing. Former par. (4) redesignated (5).
 
-    Pars. (5) to (9). [Pub. L. 93–383, § 312(a)(6)][/us/pl/93/383/s312/a/6], redesignated former pars. (4) to (8) as pars. (5) to (9), respectively.
+    Pars. (5) to (9). [Pub. L. 93–383][/us/pl/93/383], § 312(a)(6), redesignated former pars. (4) to (8) as pars. (5) to (9), respectively.
 
 ----------
 
@@ -69,14 +69,14 @@
 ----------
 
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
-[/us/pl/89/754/s502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F754%2Fs502%2Fa
+[/us/pl/89/754/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F754%2FtV
 [/us/stat/80/1276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1276
-[/us/pl/93/383/s312/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs312%2Fa%2F6
+[/us/pl/93/383/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtIII
 [/us/stat/88/683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F683
-[/us/pl/93/383/s312/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs312%2Fb%2F1
-[/us/pl/93/383/s312/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs312%2Fa%2F6
-[/us/pl/93/383/s312/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs312%2Fa%2F6
-[/us/pl/93/383/s312/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs312%2Fa%2F6
-[/us/pl/93/383/s312/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs312%2Fa%2F6
+[/us/pl/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383
+[/us/pl/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383
+[/us/pl/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383
+[/us/pl/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383
+[/us/pl/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383
 
 

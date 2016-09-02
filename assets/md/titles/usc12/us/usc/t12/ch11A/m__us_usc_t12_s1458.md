@@ -17,7 +17,7 @@
 
     Notwithstanding any other law, this chapter shall be applicable to the several States, the District of Columbia, the Commonwealth of Puerto Rico, and the territories and possessions of the United States.
 
-([Pub. L. 91–351, title III, § 309][/us/pl/91/351/s309], July 24, 1970, [84 Stat. 457][/us/stat/84/457].)
+([Pub. L. 91–351, title III][/us/pl/91/351/tIII], § 309, July 24, 1970, [84 Stat. 457][/us/stat/84/457].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/351/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F351%2Fs309
+[/us/pl/91/351/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F351%2FtIII
 [/us/stat/84/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F457
 
 

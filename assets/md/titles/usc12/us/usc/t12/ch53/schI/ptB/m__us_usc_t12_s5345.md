@@ -61,7 +61,7 @@
 
         Beginning 2 years after July 21, 2010, the Secretary shall establish, by regulation, and with the approval of the Council, an assessment schedule, including the assessment base and rates, applicable to bank holding companies with total consolidated assets of $50,000,000,000 or greater and nonbank financial companies supervised by the Board of Governors, that takes into account differences among such companies, based on the considerations for establishing the prudential standards under [section 5325 of this title][/us/usc/t12/s5325], to collect assessments equal to the total expenses of the Office.
 
-([Pub. L. 111–203, title I, § 155][/us/pl/111/203/s155], July 21, 2010, [124 Stat. 1418][/us/stat/124/1418].)
+([Pub. L. 111–203, title I][/us/pl/111/203/tI], § 155, July 21, 2010, [124 Stat. 1418][/us/stat/124/1418].)
 
 ----------
 
@@ -71,7 +71,7 @@
 ----------
 
 [/us/usc/t12/s5325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5325
-[/us/pl/111/203/s155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs155
+[/us/pl/111/203/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtI
 [/us/stat/124/1418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1418
 
 

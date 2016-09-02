@@ -71,7 +71,7 @@
 
         Any agency decision under this section is final and not reviewable by any court.
 
-([Sept. 21, 1950, ch. 967, § 2][/us/act/1950-09-21/ch967/s2]\[34\], as added [Pub. L. 101–73, title IX, § 933(a)][/us/pl/101/73/s933/a], Aug. 9, 1989, [103 Stat. 495][/us/stat/103/495]; amended [Pub. L. 101–647, title XXV, § 2586][/us/pl/101/647/s2586], Nov. 29, 1990, [104 Stat. 4903][/us/stat/104/4903]; [Pub. L. 103–325, title VI, § 602(a)(62)][/us/pl/103/325/s602/a/62], (63), Sept. 23, 1994, [108 Stat. 2291][/us/stat/108/2291].)
+([Sept. 21, 1950, ch. 967][/us/act/1950-09-21/ch967], § 2\[34\], as added [Pub. L. 101–73, title IX][/us/pl/101/73/tIX], § 933(a), Aug. 9, 1989, [103 Stat. 495][/us/stat/103/495]; amended [Pub. L. 101–647, title XXV][/us/pl/101/647/tXXV], § 2586, Nov. 29, 1990, [104 Stat. 4903][/us/stat/104/4903]; [Pub. L. 103–325, title VI][/us/pl/103/325/tVI], § 602(a)(62), (63), Sept. 23, 1994, [108 Stat. 2291][/us/stat/108/2291].)
 
  __References in Text__ 
 
@@ -87,13 +87,13 @@
 
  __Amendments__ 
 
-    1994—Subsec. (a)(1)(A)(iii). [Pub. L. 103–325, § 602(a)(62)][/us/pl/103/325/s602/a/62], substituted “section” for “sections” and “or” for “and”.
+    1994—Subsec. (a)(1)(A)(iii). [Pub. L. 103–325][/us/pl/103/325], § 602(a)(62), substituted “section” for “sections” and “or” for “and”.
 
-    Subsec. (a)(2). [Pub. L. 103–325, § 602(a)(63)][/us/pl/103/325/s602/a/63], inserted period at end.
+    Subsec. (a)(2). [Pub. L. 103–325][/us/pl/103/325], § 602(a)(63), inserted period at end.
 
-    1990—Subsec. (a)(1). [Pub. L. 101–647, § 2586(1)][/us/pl/101/647/s2586/1], struck out “, in an amount that exceeds $50,000,” after “recovery” in introductory provisions.
+    1990—Subsec. (a)(1). [Pub. L. 101–647][/us/pl/101/647], § 2586(1), struck out “, in an amount that exceeds $50,000,” after “recovery” in introductory provisions.
 
-    Subsec. (a)(2). [Pub. L. 101–647, § 2586(2)][/us/pl/101/647/s2586/2], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “a forfeiture under section 981 or 982 of title 18 that—
+    Subsec. (a)(2). [Pub. L. 101–647][/us/pl/101/647], § 2586(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “a forfeiture under section 981 or 982 of title 18 that—
 
     “(A) arises in connection with a depository institution insured by the Federal Deposit Insurance Corporation; and
 
@@ -112,12 +112,12 @@
 [/us/usc/t12/s1461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1461
 [/us/usc/t18/s3663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3663
 [/us/usc/t12/s1833a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1833a
-[/us/act/1950-09-21/ch967/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967%2Fs2
-[/us/pl/101/73/s933/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs933%2Fa
+[/us/act/1950-09-21/ch967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967
+[/us/pl/101/73/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtIX
 [/us/stat/103/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F495
-[/us/pl/101/647/s2586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2586
+[/us/pl/101/647/tXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXV
 [/us/stat/104/4903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4903
-[/us/pl/103/325/s602/a/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs602%2Fa%2F62
+[/us/pl/103/325/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtVI
 [/us/stat/108/2291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2291
 [/us/act/1934-06-26/ch750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-26%2Fch750
 [/us/stat/48/1216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1216
@@ -134,9 +134,9 @@
 [/us/act/1933-06-13/ch64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-13%2Fch64
 [/us/stat/48/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F128
 [/us/usc/t12/s1461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1461
-[/us/pl/103/325/s602/a/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs602%2Fa%2F62
-[/us/pl/103/325/s602/a/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs602%2Fa%2F63
-[/us/pl/101/647/s2586/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2586%2F1
-[/us/pl/101/647/s2586/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2586%2F2
+[/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
+[/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
 
 

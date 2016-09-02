@@ -23,7 +23,7 @@
 
         No loan shall be made upon the capital stock of any corporation until the Governor of the Farm Credit Administration shall find that the financial structure of such corporation is sound and unimpaired and by him approved, nor shall any loan be made upon the capital stock of such corporation until the management of such company shall be made known to and approved by the Governor, and the Governor shall have the right at any time to declare the indebtedness to the Government that may be created hereunder due whenever in his judgment the financial structure of the corporation shall become so impaired or the management become so unsatisfactory as to jeopardize the interests of the Government.
 
-([Mar. 3, 1932, ch. 70, § 2][/us/act/1932-03-03/ch70/s2], [47 Stat. 60][/us/stat/47/60]; Ex. Ord. No. 6084, Mar. 27, 1933.)
+([Mar. 3, 1932, ch. 70][/us/act/1932-03-03/ch70], § 2, [47 Stat. 60][/us/stat/47/60]; Ex. Ord. No. 6084, Mar. 27, 1933.)
 
  __Transfer of Functions__ 
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/act/1932-03-03/ch70/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-03-03%2Fch70%2Fs2
+[/us/act/1932-03-03/ch70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-03-03%2Fch70
 [/us/stat/47/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F60
 [/us/usc/t12/s2241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2241
 

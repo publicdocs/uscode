@@ -175,7 +175,7 @@
 
         (2) the date of expiration of the last insurance contract issued under [section 5212 of this title][/us/usc/t12/s5212].
 
-([Pub. L. 110–343, div. A, title I, § 121][/us/pl/110/343/s121], Oct. 3, 2008, [122 Stat. 3788][/us/stat/122/3788]; [Pub. L. 111–15][/us/pl/111/15], §§ 2–6, Apr. 24, 2009, [123 Stat. 1603–1605][/us/stat/123/1603-1605].)
+([Pub. L. 110–343, div. A, title I][/us/pl/110/343/dA/tI], § 121, Oct. 3, 2008, [122 Stat. 3788][/us/stat/122/3788]; [Pub. L. 111–15][/us/pl/111/15], §§ 2–6, Apr. 24, 2009, [123 Stat. 1603–1605][/us/stat/123/1603-1605].)
 
  __References in Text__ 
 
@@ -185,31 +185,31 @@
 
  __Amendments__ 
 
-    2009—Subsec. (c)(4). [Pub. L. 111–15, § 2(1)][/us/pl/111/15/s2/1], added par. (4).
+    2009—Subsec. (c)(4). [Pub. L. 111–15][/us/pl/111/15], § 2(1), added par. (4).
 
-    Subsec. (d)(2). [Pub. L. 111–15, § 2(2)(A)][/us/pl/111/15/s2/2/A], substituted “subsection (c)(1) and (4)” for “subsection (c)(1)”.
+    Subsec. (d)(2). [Pub. L. 111–15][/us/pl/111/15], § 2(2)(A), substituted “subsection (c)(1) and (4)” for “subsection (c)(1)”.
 
-    Subsec. (d)(3). [Pub. L. 111–15, § 2(2)(B)][/us/pl/111/15/s2/2/B], added par. (3).
+    Subsec. (d)(3). [Pub. L. 111–15][/us/pl/111/15], § 2(2)(B), added par. (3).
 
-    Subsec. (e)(1). [Pub. L. 111–15, § 3(1)][/us/pl/111/15/s3/1], designated existing provisions as subpar. (A) and added subpar. (B).
+    Subsec. (e)(1). [Pub. L. 111–15][/us/pl/111/15], § 3(1), designated existing provisions as subpar. (A) and added subpar. (B).
 
-    Subsec. (e)(5). [Pub. L. 111–15, § 3(2)][/us/pl/111/15/s3/2], added par. (5).
+    Subsec. (e)(5). [Pub. L. 111–15][/us/pl/111/15], § 3(2), added par. (5).
 
-    Subsecs. (f) to (h). [Pub. L. 111–15, § 4(2)][/us/pl/111/15/s4/2], added subsecs. (f) to (h). Former subsecs. (f) to (h) redesignated (i) to (k), respectively.
+    Subsecs. (f) to (h). [Pub. L. 111–15][/us/pl/111/15], § 4(2), added subsecs. (f) to (h). Former subsecs. (f) to (h) redesignated (i) to (k), respectively.
 
-    Subsec. (i). [Pub. L. 111–15, § 4(1)][/us/pl/111/15/s4/1], redesignated subsec. (f) as (i).
+    Subsec. (i). [Pub. L. 111–15][/us/pl/111/15], § 4(1), redesignated subsec. (f) as (i).
 
-    Subsec. (i)(1). [Pub. L. 111–15, § 5(1)][/us/pl/111/15/s5/1], substituted “Not later than 60 days after the confirmation of the Special Inspector General, and not later than 30 days following the end of each fiscal quarter, the Special Inspector General shall submit to the appropriate committees of Congress a report summarizing the activities of the Special Inspector General during that fiscal quarter.” for “Not later than 60 days after the confirmation of the Special Inspector General, and every calendar quarter thereafter, the Special Inspector General shall submit to the appropriate committees of Congress a report summarizing the activities of the Special Inspector General during the 120-day period ending on the date of such report.”
+    Subsec. (i)(1). [Pub. L. 111–15][/us/pl/111/15], § 5(1), substituted “Not later than 60 days after the confirmation of the Special Inspector General, and not later than 30 days following the end of each fiscal quarter, the Special Inspector General shall submit to the appropriate committees of Congress a report summarizing the activities of the Special Inspector General during that fiscal quarter.” for “Not later than 60 days after the confirmation of the Special Inspector General, and every calendar quarter thereafter, the Special Inspector General shall submit to the appropriate committees of Congress a report summarizing the activities of the Special Inspector General during the 120-day period ending on the date of such report.”
 
-    Subsec. (i)(2) to (4). [Pub. L. 111–15, § 5(2)][/us/pl/111/15/s5/2], (3), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
+    Subsec. (i)(2) to (4). [Pub. L. 111–15][/us/pl/111/15], § 5(2), (3), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
-    Subsec. (i)(5). [Pub. L. 111–15, § 5(4)][/us/pl/111/15/s5/4], added par. (5).
+    Subsec. (i)(5). [Pub. L. 111–15][/us/pl/111/15], § 5(4), added par. (5).
 
-    Subsec. (j). [Pub. L. 111–15, § 4(1)][/us/pl/111/15/s4/1], redesignated subsec. (g) as (j).
+    Subsec. (j). [Pub. L. 111–15][/us/pl/111/15], § 4(1), redesignated subsec. (g) as (j).
 
-    Subsec. (j)(1). [Pub. L. 111–15, § 6][/us/pl/111/15/s6], inserted “, not later than 7 days after April 24, 2009” before period at end.
+    Subsec. (j)(1). [Pub. L. 111–15][/us/pl/111/15], § 6, inserted “, not later than 7 days after April 24, 2009” before period at end.
 
-    Subsec. (k). [Pub. L. 111–15, § 4(1)][/us/pl/111/15/s4/1], redesignated subsec. (h) as (k).
+    Subsec. (k). [Pub. L. 111–15][/us/pl/111/15], § 4(1), redesignated subsec. (h) as (k).
 
 ----------
 
@@ -230,24 +230,24 @@
 [/us/usc/t12/s5228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5228
 [/us/usc/t12/s5211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5211
 [/us/usc/t12/s5212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5212
-[/us/pl/110/343/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs121
+[/us/pl/110/343/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdA%2FtI
 [/us/stat/122/3788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3788
 [/us/pl/111/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F15
 [/us/stat/123/1603-1605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1603-1605
 [/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
 [/us/stat/92/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1101
-[/us/pl/111/15/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F15%2Fs2%2F1
-[/us/pl/111/15/s2/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F15%2Fs2%2F2%2FA
-[/us/pl/111/15/s2/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F15%2Fs2%2F2%2FB
-[/us/pl/111/15/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F15%2Fs3%2F1
-[/us/pl/111/15/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F15%2Fs3%2F2
-[/us/pl/111/15/s4/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F15%2Fs4%2F2
-[/us/pl/111/15/s4/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F15%2Fs4%2F1
-[/us/pl/111/15/s5/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F15%2Fs5%2F1
-[/us/pl/111/15/s5/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F15%2Fs5%2F2
-[/us/pl/111/15/s5/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F15%2Fs5%2F4
-[/us/pl/111/15/s4/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F15%2Fs4%2F1
-[/us/pl/111/15/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F15%2Fs6
-[/us/pl/111/15/s4/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F15%2Fs4%2F1
+[/us/pl/111/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F15
+[/us/pl/111/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F15
+[/us/pl/111/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F15
+[/us/pl/111/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F15
+[/us/pl/111/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F15
+[/us/pl/111/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F15
+[/us/pl/111/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F15
+[/us/pl/111/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F15
+[/us/pl/111/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F15
+[/us/pl/111/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F15
+[/us/pl/111/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F15
+[/us/pl/111/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F15
+[/us/pl/111/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F15
 
 

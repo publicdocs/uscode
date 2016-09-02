@@ -119,27 +119,27 @@
 
                     If, at the special stockholders’ meeting, a majority of the stockholders of the current association who would be served by the new association approve, by voting in person or by proxy, the establishment of the separate association, the Farm Credit Administration shall, within 30 days of such vote, issue a charter to the new association and amend the charter of the current association to reflect the territory to be served by the new association.
 
-([Pub. L. 92–181, title VII, § 7][/us/pl/92/181/s7].9, as added [Pub. L. 100–233, title IV, § 416][/us/pl/100/233/s416], Jan. 6, 1988, [101 Stat. 1648][/us/stat/101/1648]; amended [Pub. L. 100–399, title IV, § 408(n)][/us/pl/100/399/s408/n], (o), Aug. 17, 1988, [102 Stat. 1002][/us/stat/102/1002].)
+([Pub. L. 92–181, title VII][/us/pl/92/181/tVII], § 7.9, as added [Pub. L. 100–233, title IV][/us/pl/100/233/tIV], § 416, Jan. 6, 1988, [101 Stat. 1648][/us/stat/101/1648]; amended [Pub. L. 100–399, title IV][/us/pl/100/399/tIV], § 408(n), (o), Aug. 17, 1988, [102 Stat. 1002][/us/stat/102/1002].)
 
  __Amendments__ 
 
-    1988—Subsec. (a)(1). [Pub. L. 100–399, § 408(n)(1)][/us/pl/100/399/s408/n/1], substituted “this chapter” for “[section 2252(a)(2) of this title][/us/usc/t12/s2252/a/2]”.
+    1988—Subsec. (a)(1). [Pub. L. 100–399][/us/pl/100/399], § 408(n)(1), substituted “this chapter” for “[section 2252(a)(2) of this title][/us/usc/t12/s2252/a/2]”.
 
-    Subsec. (a)(4). [Pub. L. 100–399, § 408(n)(5)][/us/pl/100/399/s408/n/5], redesignated par. (5) as (4).
+    Subsec. (a)(4). [Pub. L. 100–399][/us/pl/100/399], § 408(n)(5), redesignated par. (5) as (4).
 
-    [Pub. L. 100–399, § 408(n)(2)][/us/pl/100/399/s408/n/2], inserted reference to [section 2279f–1 of this title][/us/usc/t12/s2279f–1].
+    [Pub. L. 100–399][/us/pl/100/399], § 408(n)(2), inserted reference to [section 2279f–1 of this title][/us/usc/t12/s2279f–1].
 
-    Subsec. (a)(5). [Pub. L. 100–399, § 408(n)(5)][/us/pl/100/399/s408/n/5], redesignated par. (6) as (5). Former par. (5) redesignated (4).
+    Subsec. (a)(5). [Pub. L. 100–399][/us/pl/100/399], § 408(n)(5), redesignated par. (6) as (5). Former par. (5) redesignated (4).
 
-    [Pub. L. 100–399, § 408(n)(3)][/us/pl/100/399/s408/n/3], substituted “or” for “and”.
+    [Pub. L. 100–399][/us/pl/100/399], § 408(n)(3), substituted “or” for “and”.
 
-    Subsec. (a)(6). [Pub. L. 100–399, § 408(n)(5)][/us/pl/100/399/s408/n/5], redesignated par. (7) as (6). Former par. (6) redesignated (5).
+    Subsec. (a)(6). [Pub. L. 100–399][/us/pl/100/399], § 408(n)(5), redesignated par. (7) as (6). Former par. (6) redesignated (5).
 
-    [Pub. L. 100–399, § 408(n)(4)][/us/pl/100/399/s408/n/4], substituted “section 2279f” for “section 2279f–1”.
+    [Pub. L. 100–399][/us/pl/100/399], § 408(n)(4), substituted “section 2279f” for “section 2279f–1”.
 
-    Subsec. (a)(7). [Pub. L. 100–399, § 408(n)(5)][/us/pl/100/399/s408/n/5], redesignated par. (7) as (6).
+    Subsec. (a)(7). [Pub. L. 100–399][/us/pl/100/399], § 408(n)(5), redesignated par. (7) as (6).
 
-    Subsec. (b)(2). [Pub. L. 100–399, § 408][/us/pl/100/399/s408](o), struck out comma before “shall not take effect” and substituted “such banks or” for “such”.
+    Subsec. (b)(2). [Pub. L. 100–399][/us/pl/100/399], § 408(o), struck out comma before “shall not take effect” and substituted “such banks or” for “such”.
 
  __Effective Date of 1988 Amendment__ 
 
@@ -156,22 +156,22 @@
 [/us/usc/t12/s2279b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2279b
 [/us/usc/t12/s2279d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2279d
 [/us/usc/t12/s2279f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2279f
-[/us/pl/92/181/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs7
-[/us/pl/100/233/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs416
+[/us/pl/92/181/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtVII
+[/us/pl/100/233/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtIV
 [/us/stat/101/1648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1648
-[/us/pl/100/399/s408/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs408%2Fn
+[/us/pl/100/399/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtIV
 [/us/stat/102/1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1002
-[/us/pl/100/399/s408/n/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs408%2Fn%2F1
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/usc/t12/s2252/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2252%2Fa%2F2
-[/us/pl/100/399/s408/n/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs408%2Fn%2F5
-[/us/pl/100/399/s408/n/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs408%2Fn%2F2
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/usc/t12/s2279f–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2279f%E2%80%931
-[/us/pl/100/399/s408/n/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs408%2Fn%2F5
-[/us/pl/100/399/s408/n/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs408%2Fn%2F3
-[/us/pl/100/399/s408/n/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs408%2Fn%2F5
-[/us/pl/100/399/s408/n/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs408%2Fn%2F4
-[/us/pl/100/399/s408/n/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs408%2Fn%2F5
-[/us/pl/100/399/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs408
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
 [/us/pl/100/399/s1001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs1001%2Fa

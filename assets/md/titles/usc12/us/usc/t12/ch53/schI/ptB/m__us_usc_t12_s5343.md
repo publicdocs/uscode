@@ -91,7 +91,7 @@
 
             In the case of contumacy or failure to obey a subpoena, the subpoena shall be enforceable by order of any appropriate district court of the United States. Any failure to obey the order of the court may be punished by the court as a contempt of court.
 
-([Pub. L. 111–203, title I, § 153][/us/pl/111/203/s153], July 21, 2010, [124 Stat. 1415][/us/stat/124/1415].)
+([Pub. L. 111–203, title I][/us/pl/111/203/tI], § 153, July 21, 2010, [124 Stat. 1415][/us/stat/124/1415].)
 
  __References in Text__ 
 
@@ -106,7 +106,7 @@
 
 [/us/usc/t12/s5344/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5344%2Fb%2F1
 [/us/usc/t12/s5344/b/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5344%2Fb%2F1%2FB%2Fii
-[/us/pl/111/203/s153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs153
+[/us/pl/111/203/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtI
 [/us/stat/124/1415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1415
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1376

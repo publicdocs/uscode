@@ -83,7 +83,7 @@
 
             (B) takes title to, holds an ownership in, or takes physical custody of motor vehicles.
 
-([Pub. L. 111–203, title X, § 1029][/us/pl/111/203/s1029], July 21, 2010, [124 Stat. 2004][/us/stat/124/2004].)
+([Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1029, July 21, 2010, [124 Stat. 2004][/us/stat/124/2004].)
 
  __References in Text__ 
 
@@ -104,7 +104,7 @@
 
 [/us/usc/t15/s57a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs57a
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/pl/111/203/s1029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1029
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2004
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1955

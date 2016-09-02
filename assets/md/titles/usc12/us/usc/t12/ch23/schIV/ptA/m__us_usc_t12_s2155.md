@@ -45,25 +45,25 @@
 
         Beginning 5 years after January 6, 1988, the Farm Credit Administration shall not call on any System institution to satisfy the liability of the institution on any joint, consolidated, or System-wide obligation participated in by the institution or with respect to which the institution is primarily, or jointly and severally, liable, before the Farm Credit Insurance Fund is exhausted, even if the Fund is only able to make a partial payment because of insufficient amounts in the Fund.
 
-([Pub. L. 92–181, title IV, § 4][/us/pl/92/181/s4].4, Dec. 10, 1971, [85 Stat. 611][/us/stat/85/611]; [Pub. L. 99–205, title I, § 101(4)][/us/pl/99/205/s101/4], title II, § 205(f)(2), Dec. 23, 1985, [99 Stat. 1679][/us/stat/99/1679], 1706; [Pub. L. 100–233, title II, § 207(c)][/us/pl/100/233/s207/c], title III, § 303, Jan. 6, 1988, [101 Stat. 1608][/us/stat/101/1608], 1620; [Pub. L. 100–399, title III, § 303][/us/pl/100/399/s303], Aug. 17, 1988, [102 Stat. 995][/us/stat/102/995].)
+([Pub. L. 92–181, title IV][/us/pl/92/181/tIV], § 4.4, Dec. 10, 1971, [85 Stat. 611][/us/stat/85/611]; [Pub. L. 99–205, title I][/us/pl/99/205/tI], § 101(4), title II, § 205(f)(2), Dec. 23, 1985, [99 Stat. 1679][/us/stat/99/1679], 1706; [Pub. L. 100–233, title II][/us/pl/100/233/tII], § 207(c), title III, § 303, Jan. 6, 1988, [101 Stat. 1608][/us/stat/101/1608], 1620; [Pub. L. 100–399, title III][/us/pl/100/399/tIII], § 303, Aug. 17, 1988, [102 Stat. 995][/us/stat/102/995].)
 
  __Amendments__ 
 
-    1988—Subsec. (a). [Pub. L. 100–233, § 303(a)][/us/pl/100/233/s303/a], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Each bank of the System shall be fully liable on notes, bonds, debentures, or other obligations issued by it individually, and shall be liable for the interest payments on long-term notes, bonds, debentures, or other obligations issued by other banks operating under the same subchapter of this chapter. Each bank shall also be primarily liable for the portion of any issue of consolidated or System-wide obligations made on its behalf and be jointly and severally liable for the payment of any additional sums as called upon by the Farm Credit Administration in order to make payments of interest or principal which any bank primarily liable therefor shall be unable to make. Such calls shall be made first upon the other banks operating under the same subchapter of this chapter as the defaulting bank, and second upon banks operating under other subchapters of this chapter, taking into consideration the capital, surplus, bonds, debentures, or other obligations which each may have outstanding at the time of such assessment.”
+    1988—Subsec. (a). [Pub. L. 100–233][/us/pl/100/233], § 303(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Each bank of the System shall be fully liable on notes, bonds, debentures, or other obligations issued by it individually, and shall be liable for the interest payments on long-term notes, bonds, debentures, or other obligations issued by other banks operating under the same subchapter of this chapter. Each bank shall also be primarily liable for the portion of any issue of consolidated or System-wide obligations made on its behalf and be jointly and severally liable for the payment of any additional sums as called upon by the Farm Credit Administration in order to make payments of interest or principal which any bank primarily liable therefor shall be unable to make. Such calls shall be made first upon the other banks operating under the same subchapter of this chapter as the defaulting bank, and second upon banks operating under other subchapters of this chapter, taking into consideration the capital, surplus, bonds, debentures, or other obligations which each may have outstanding at the time of such assessment.”
 
-    Subsec. (c). [Pub. L. 100–233, § 207(c)][/us/pl/100/233/s207/c], redesignated subsec. (d) as (c), and struck out former subsec. (c) which provided that for purposes of this part, the term “bank” included the Capital Corporation.
+    Subsec. (c). [Pub. L. 100–233][/us/pl/100/233], § 207(c), redesignated subsec. (d) as (c), and struck out former subsec. (c) which provided that for purposes of this part, the term “bank” included the Capital Corporation.
 
     Subsec. (d). [Pub. L. 100–399][/us/pl/100/399] redesignated subsec. (e) as (d).
 
-    [Pub. L. 100–233, § 207(c)][/us/pl/100/233/s207/c], redesignated subsec. (d) as (c).
+    [Pub. L. 100–233][/us/pl/100/233], § 207(c), redesignated subsec. (d) as (c).
 
     Subsec. (e). [Pub. L. 100–399][/us/pl/100/399] redesignated subsec. (e) as (d).
 
-    [Pub. L. 100–233, § 303(b)][/us/pl/100/233/s303/b], added subsec. (e).
+    [Pub. L. 100–233][/us/pl/100/233], § 303(b), added subsec. (e).
 
-    1985—Subsec. (b). [Pub. L. 99–205, § 205(f)(2)][/us/pl/99/205/s205/f/2], substituted “execution of” for “Governor to execute” in first sentence and struck out “by the Governor” after “shall be executed” in second sentence.
+    1985—Subsec. (b). [Pub. L. 99–205][/us/pl/99/205], § 205(f)(2), substituted “execution of” for “Governor to execute” in first sentence and struck out “by the Governor” after “shall be executed” in second sentence.
 
-    Subsecs. (c), (d). [Pub. L. 99–205, § 101(4)][/us/pl/99/205/s101/4], added subsec. (c) and redesignated former subsec. (c) as (d).
+    Subsecs. (c), (d). [Pub. L. 99–205][/us/pl/99/205], § 101(4), added subsec. (c) and redesignated former subsec. (c) as (d).
 
  __Effective Date of 1988 Amendment__ 
 
@@ -81,22 +81,22 @@
 ----------
 
 [/us/usc/t12/s2154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2154
-[/us/pl/92/181/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs4
+[/us/pl/92/181/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtIV
 [/us/stat/85/611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F611
-[/us/pl/99/205/s101/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2Fs101%2F4
+[/us/pl/99/205/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2FtI
 [/us/stat/99/1679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1679
-[/us/pl/100/233/s207/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs207%2Fc
+[/us/pl/100/233/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtII
 [/us/stat/101/1608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1608
-[/us/pl/100/399/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs303
+[/us/pl/100/399/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtIII
 [/us/stat/102/995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F995
-[/us/pl/100/233/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs303%2Fa
-[/us/pl/100/233/s207/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs207%2Fc
+[/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
+[/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
 [/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
-[/us/pl/100/233/s207/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs207%2Fc
+[/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
 [/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
-[/us/pl/100/233/s303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs303%2Fb
-[/us/pl/99/205/s205/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2Fs205%2Ff%2F2
-[/us/pl/99/205/s101/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2Fs101%2F4
+[/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
+[/us/pl/99/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205
+[/us/pl/99/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205
 [/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
 [/us/pl/100/399/s1001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs1001%2Fa

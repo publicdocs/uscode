@@ -35,7 +35,7 @@
 
         A declarant who discloses, except as provided by this chapter, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  the existence or filing of a declaration or the contents thereof to anyone other than a duly authorized Federal or State investigator or the declarant’s attorney shall immediately lose all rights under this subchapter.
 
-([Pub. L. 101–647, title XXV, § 2563][/us/pl/101/647/s2563], Nov. 29, 1990, [104 Stat. 4894][/us/stat/104/4894].)
+([Pub. L. 101–647, title XXV][/us/pl/101/647/tXXV], § 2563, Nov. 29, 1990, [104 Stat. 4894][/us/stat/104/4894].)
 
  __References in Text__ 
 
@@ -51,7 +51,7 @@
 [/us/usc/t12/s4201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4201
 [/us/usc/t12/s4206/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4206%2Fb
 [/us/usc/t12/s4206/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4206%2Fc
-[/us/pl/101/647/s2563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2563
+[/us/pl/101/647/tXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXV
 [/us/stat/104/4894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4894
 [/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
 [/us/usc/t12/s4201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4201

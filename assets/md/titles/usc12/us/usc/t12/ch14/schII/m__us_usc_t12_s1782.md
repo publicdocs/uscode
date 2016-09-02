@@ -305,23 +305,23 @@
 
             The term “normal operating level”, when applied to the Fund, means an equity ratio specified by the Board, which shall be not less than 1.2 percent and not more than 1.5 percent.
 
-([June 26, 1934, ch. 750][/us/act/1934-06-26/ch750], title II, § 202, as added [Pub. L. 91–468, § 1(3)][/us/pl/91/468/s1/3], Oct. 19, 1970, [84 Stat. 995][/us/stat/84/995]; amended [Pub. L. 93–383, title VII, § 727][/us/pl/93/383/s727], Aug. 22, 1974, [88 Stat. 720][/us/stat/88/720]; [Pub. L. 95–630, title V][/us/pl/95/630], §§ 502(b), 505, Nov. 10, 1978, [92 Stat. 3681][/us/stat/92/3681], 3682; [Pub. L. 97–320, title V][/us/pl/97/320], §§ 528, 529, Oct. 15, 1982, [96 Stat. 1535][/us/stat/96/1535]; [Pub. L. 97–457, § 29][/us/pl/97/457/s29], Jan. 12, 1983, [96 Stat. 2510][/us/stat/96/2510]; [Pub. L. 98–369, div. B, title VIII][/us/pl/98/369], §§ 2802–2810, July 18, 1984, [98 Stat. 1204][/us/stat/98/1204], 1205; [Pub. L. 101–73, title IX][/us/pl/101/73], §§ 911(f), 919, 931(b), Aug. 9, 1989, [103 Stat. 482][/us/stat/103/482], 488, 493; [Pub. L. 102–242, title III, § 313(b)][/us/pl/102/242/s313/b], Dec. 19, 1991, [105 Stat. 2369][/us/stat/105/2369]; [Pub. L. 102–550, title XVI, § 1605(b)(3)][/us/pl/102/550/s1605/b/3], Oct. 28, 1992, [106 Stat. 4087][/us/stat/106/4087]; [Pub. L. 105–219, title II, § 201][/us/pl/105/219/s201], title III, § 302(a), Aug. 7, 1998, [112 Stat. 918][/us/stat/112/918], 931; [Pub. L. 109–351, title VII][/us/pl/109/351], §§ 707(b), 726(12), Oct. 13, 2006, [120 Stat. 1987][/us/stat/120/1987], 2002; [Pub. L. 111–22, div. A, title II, § 204(e)][/us/pl/111/22/s204/e], (f)(2), May 20, 2009, [123 Stat. 1651][/us/stat/123/1651], 1653; [Pub. L. 111–382, § 2][/us/pl/111/382/s2], Jan. 4, 2011, [124 Stat. 4135][/us/stat/124/4135].)
+([June 26, 1934, ch. 750][/us/act/1934-06-26/ch750], title II, § 202, as added [Pub. L. 91–468][/us/pl/91/468], § 1(3), Oct. 19, 1970, [84 Stat. 995][/us/stat/84/995]; amended [Pub. L. 93–383, title VII][/us/pl/93/383/tVII], § 727, Aug. 22, 1974, [88 Stat. 720][/us/stat/88/720]; [Pub. L. 95–630, title V][/us/pl/95/630/tV], §§ 502(b), 505, Nov. 10, 1978, [92 Stat. 3681][/us/stat/92/3681], 3682; [Pub. L. 97–320, title V][/us/pl/97/320/tV], §§ 528, 529, Oct. 15, 1982, [96 Stat. 1535][/us/stat/96/1535]; [Pub. L. 97–457][/us/pl/97/457], § 29, Jan. 12, 1983, [96 Stat. 2510][/us/stat/96/2510]; [Pub. L. 98–369, div. B, title VIII][/us/pl/98/369/dB/tVIII], §§ 2802–2810, July 18, 1984, [98 Stat. 1204][/us/stat/98/1204], 1205; [Pub. L. 101–73, title IX][/us/pl/101/73/tIX], §§ 911(f), 919, 931(b), Aug. 9, 1989, [103 Stat. 482][/us/stat/103/482], 488, 493; [Pub. L. 102–242, title III][/us/pl/102/242/tIII], § 313(b), Dec. 19, 1991, [105 Stat. 2369][/us/stat/105/2369]; [Pub. L. 102–550, title XVI][/us/pl/102/550/tXVI], § 1605(b)(3), Oct. 28, 1992, [106 Stat. 4087][/us/stat/106/4087]; [Pub. L. 105–219, title II][/us/pl/105/219/tII], § 201, title III, § 302(a), Aug. 7, 1998, [112 Stat. 918][/us/stat/112/918], 931; [Pub. L. 109–351, title VII][/us/pl/109/351/tVII], §§ 707(b), 726(12), Oct. 13, 2006, [120 Stat. 1987][/us/stat/120/1987], 2002; [Pub. L. 111–22, div. A, title II][/us/pl/111/22/dA/tII], § 204(e), (f)(2), May 20, 2009, [123 Stat. 1651][/us/stat/123/1651], 1653; [Pub. L. 111–382][/us/pl/111/382], § 2, Jan. 4, 2011, [124 Stat. 4135][/us/stat/124/4135].)
 
  __Amendments__ 
 
     2011—Subsec. (h)(2). [Pub. L. 111–382][/us/pl/111/382] substituted “which shall be calculated using the financial statements of the Fund alone, without any consolidation or combination with the financial statements of any other fund or entity,” for “when applied to the Fund,” in introductory provisions.
 
-    2009—Subsec. (c)(2)(D). [Pub. L. 111–22, § 204(e)][/us/pl/111/22/s204/e], added subpar. (D).
+    2009—Subsec. (c)(2)(D). [Pub. L. 111–22][/us/pl/111/22], § 204(e), added subpar. (D).
 
-    Subsec. (c)(3)(A). [Pub. L. 111–22, § 204(f)(2)][/us/pl/111/22/s204/f/2], inserted “, subject to the requirements of [section 1790e(e) of this title][/us/usc/t12/s1790e/e],” after “The Board shall” in introductory provisions.
+    Subsec. (c)(3)(A). [Pub. L. 111–22][/us/pl/111/22], § 204(f)(2), inserted “, subject to the requirements of [section 1790e(e) of this title][/us/usc/t12/s1790e/e],” after “The Board shall” in introductory provisions.
 
-    2006—Subsec. (a)(8). [Pub. L. 109–351, § 707(b)][/us/pl/109/351/s707/b], added par. (8).
+    2006—Subsec. (a)(8). [Pub. L. 109–351][/us/pl/109/351], § 707(b), added par. (8).
 
-    Subsec. (h)(3). [Pub. L. 109–351, § 726(12)][/us/pl/109/351/s726/12], substituted “[section 1787(k)(1) of this title][/us/usc/t12/s1787/k/1]” for “[section 1787(c)(1) of this title][/us/usc/t12/s1787/c/1]”.
+    Subsec. (h)(3). [Pub. L. 109–351][/us/pl/109/351], § 726(12), substituted “[section 1787(k)(1) of this title][/us/usc/t12/s1787/k/1]” for “[section 1787(c)(1) of this title][/us/usc/t12/s1787/c/1]”.
 
-    1998—Subsec. (a)(6). [Pub. L. 105–219, § 201][/us/pl/105/219/s201], substituted “subparagraph (A) or (D)” for “subparagraph (A)” in subpar. (B) and added subpars. (C) and (D).
+    1998—Subsec. (a)(6). [Pub. L. 105–219][/us/pl/105/219], § 201, substituted “subparagraph (A) or (D)” for “subparagraph (A)” in subpar. (B) and added subpars. (C) and (D).
 
-    Subsec. (b). [Pub. L. 105–219, § 302(a)(1)][/us/pl/105/219/s302/a/1], added subsec. (b) and struck out former subsec. (b) which read as follows:
+    Subsec. (b). [Pub. L. 105–219][/us/pl/105/219], § 302(a)(1), added subsec. (b) and struck out former subsec. (b) which read as follows:
 
     “(b)(1) For each insurance year, each insured credit union which became insured prior to the beginning of that year shall file with the Board, at such time as the Board prescribes, a certified statement showing the total amount of insured shares in the credit union at the close of the preceding insurance year and both the amount of its deposit or adjustment thereof and the amount of the premium charge for insurance due to the fund for that year, both as computed under subsection (c) of this section.
 
@@ -329,17 +329,17 @@
 
     “(3) Each such statement shall be certified by the president of the credit union, or by any officer of the credit union designated by its board of directors, that to the best of his knowledge and belief that statement is true, correct, and complete and in accordance with this subchapter and regulations issued thereunder.”
 
-    Subsec. (c)(1)(A)(iii). [Pub. L. 105–219, § 302(a)(2)][/us/pl/105/219/s302/a/2], added cl. (iii) and struck out former cl. (iii) which read as follows: “The amount of each insured credit union’s deposit shall be adjusted annually, in accordance with procedures determined by the Board, to reflect changes in the credit union’s insured shares.”
+    Subsec. (c)(1)(A)(iii). [Pub. L. 105–219][/us/pl/105/219], § 302(a)(2), added cl. (iii) and struck out former cl. (iii) which read as follows: “The amount of each insured credit union’s deposit shall be adjusted annually, in accordance with procedures determined by the Board, to reflect changes in the credit union’s insured shares.”
 
-    Subsec. (c)(2), (3). [Pub. L. 105–219, § 302(a)(3)][/us/pl/105/219/s302/a/3], added pars. (2) and (3) and struck out former pars. (2) and (3) which read as follows:
+    Subsec. (c)(2), (3). [Pub. L. 105–219][/us/pl/105/219], § 302(a)(3), added pars. (2) and (3) and struck out former pars. (2) and (3) which read as follows:
 
     “(2) Each insured credit union, at such time as the Board prescribes, shall pay to the fund a premium charge for insurance equal to one–twelfth of 1 per centum of the total amount of the insured shares in such credit union at the close of the preceding insurance year.
 
     “(3) When, at the end of a given insurance year, any loans to the fund from the Federal Government and the interest thereon have been repaid and the equity of the fund exceeds the normal operating level, the Board shall effect for that insurance year a pro rata distribution to insured credit unions of an amount sufficient to reduce the equity in the fund to its normal operating level.”
 
-    Subsec. (c)(4). [Pub. L. 105–219, § 302(a)(4)][/us/pl/105/219/s302/a/4], added par. (4).
+    Subsec. (c)(4). [Pub. L. 105–219][/us/pl/105/219], § 302(a)(4), added par. (4).
 
-    Subsec. (h). [Pub. L. 105–219, § 302(a)(5)][/us/pl/105/219/s302/a/5], added subsec. (h) and struck out former subsec. (h) which read as follows: “For the purposes of this section—
+    Subsec. (h). [Pub. L. 105–219][/us/pl/105/219], § 302(a)(5), added subsec. (h) and struck out former subsec. (h) which read as follows: “For the purposes of this section—
 
     “(1) the term ‘insurance year’ means the period beginning on January 1 and ending on the following December 31, both dates inclusive, unless otherwise prescribed by the Board;
 
@@ -351,61 +351,61 @@
 
     1991—Subsec. (d)(2). [Pub. L. 102–242][/us/pl/102/242] amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Any insured credit union which willfully fails or refuses to file any certified statement or to pay its deposit or any premium charge for insurance required under this subchapter shall be subject to a penalty of not more than $100 for each day that such violation continues, which penalty the Board may recover for its use. The provisions of this paragraph shall not be applicable in any case in which the refusal to pay its deposit or the premium charge for insurance is due to a dispute between the insured credit union and the Board over the amount of its deposit or the premium charge due to the fund if the credit union deposits security satisfactory to the Board for payment of its deposit or the premium charge upon final determination of the issue.”
 
-    1989—Subsec. (a)(3). [Pub. L. 101–73, § 911(f)][/us/pl/101/73/s911/f], inserted provisions relating to penalties and agency hearings and struck out at end: “Every insured credit union which willfully fails to make or publish any such report within ten days shall be subject to a penalty of not more than $100 for each day of such failure, recoverable by the Board for its use.”
+    1989—Subsec. (a)(3). [Pub. L. 101–73][/us/pl/101/73], § 911(f), inserted provisions relating to penalties and agency hearings and struck out at end: “Every insured credit union which willfully fails to make or publish any such report within ten days shall be subject to a penalty of not more than $100 for each day of such failure, recoverable by the Board for its use.”
 
-    Subsec. (a)(6). [Pub. L. 101–73, § 919][/us/pl/101/73/s919], added par. (6).
+    Subsec. (a)(6). [Pub. L. 101–73][/us/pl/101/73], § 919, added par. (6).
 
-    Subsec. (a)(7). [Pub. L. 101–73, § 931(b)][/us/pl/101/73/s931/b], added par. (7).
+    Subsec. (a)(7). [Pub. L. 101–73][/us/pl/101/73], § 931(b), added par. (7).
 
-    1984—Subsec. (b). [Pub. L. 98–369, § 2802][/us/pl/98/369/s2802], in amending subsec. (b) generally, revised existing provisions into numbered pars. (1) to (3) and in par. (1) substituted “For each insurance year, each insured credit union which became insured prior to the beginning of that year shall file with the Board, at such time as the Board prescribes, a certified statement showing the total amount of insured shares in the credit union at the close of the preceding insurance year and both the amount of its deposit or adjustment thereof and the amount of the premium charge for insurance due to the fund for that year, both as computed under subsection (c) of this section.” for “On or before January 31 of each insurance year, each insured credit union which became insured prior to the beginning of that year shall file with the Board a certified statement showing the total amount of the member accounts in the credit union at the close of the preceding insurance year and the amount of the premium charge for insurance due to the fund for that year, as computed under subsection (c) of this section.”
+    1984—Subsec. (b). [Pub. L. 98–369][/us/pl/98/369], § 2802, in amending subsec. (b) generally, revised existing provisions into numbered pars. (1) to (3) and in par. (1) substituted “For each insurance year, each insured credit union which became insured prior to the beginning of that year shall file with the Board, at such time as the Board prescribes, a certified statement showing the total amount of insured shares in the credit union at the close of the preceding insurance year and both the amount of its deposit or adjustment thereof and the amount of the premium charge for insurance due to the fund for that year, both as computed under subsection (c) of this section.” for “On or before January 31 of each insurance year, each insured credit union which became insured prior to the beginning of that year shall file with the Board a certified statement showing the total amount of the member accounts in the credit union at the close of the preceding insurance year and the amount of the premium charge for insurance due to the fund for that year, as computed under subsection (c) of this section.”
 
-    Subsec. (c)(1). [Pub. L. 98–369, § 2803(6)][/us/pl/98/369/s2803/6], added par. (1). Former par. (1) redesignated (2).
+    Subsec. (c)(1). [Pub. L. 98–369][/us/pl/98/369], § 2803(6), added par. (1). Former par. (1) redesignated (2).
 
-    Subsec. (c)(2). [Pub. L. 98–369, § 2803(3)][/us/pl/98/369/s2803/3]–(5), substituted “Each insured credit union, at such time as the Board prescribes” for “Except as provided in paragraph (2) of this subsection, each insured credit union, on or before January 31 of each insurance year” and “insured shares” for “member accounts”.
+    Subsec. (c)(2). [Pub. L. 98–369][/us/pl/98/369], § 2803(3)–(5), substituted “Each insured credit union, at such time as the Board prescribes” for “Except as provided in paragraph (2) of this subsection, each insured credit union, on or before January 31 of each insurance year” and “insured shares” for “member accounts”.
 
-    [Pub. L. 98–369, § 2803(1)][/us/pl/98/369/s2803/1], (2), redesignated par. (1) as (2). Former par. (2), which related to payment of a premium charge for insurance by each credit union in existence prior to Oct. 19, 1970, and insured under this subchapter after January 1 of any insurance, was struck out.
+    [Pub. L. 98–369][/us/pl/98/369], § 2803(1), (2), redesignated par. (1) as (2). Former par. (2), which related to payment of a premium charge for insurance by each credit union in existence prior to Oct. 19, 1970, and insured under this subchapter after January 1 of any insurance, was struck out.
 
-    Subsec. (c)(3). [Pub. L. 98–369, § 2804][/us/pl/98/369/s2804], amended par. (3) generally. Prior to amendment, par. (3) read as follows: “When any loans to the fund from the Federal Government and the interest thereon have been repaid and the amount in the fund equals or exceeds the normal operating level, the Board may reduce the premium charge for insurance, but not below the amount necessary, in its judgment, to maintain the fund at the normal operating level. Any such reduction shall be effective only so long as the amount in the fund equals or exceeds the normal operating level and no loan to the fund from the Federal Government is outstanding.”
+    Subsec. (c)(3). [Pub. L. 98–369][/us/pl/98/369], § 2804, amended par. (3) generally. Prior to amendment, par. (3) read as follows: “When any loans to the fund from the Federal Government and the interest thereon have been repaid and the amount in the fund equals or exceeds the normal operating level, the Board may reduce the premium charge for insurance, but not below the amount necessary, in its judgment, to maintain the fund at the normal operating level. Any such reduction shall be effective only so long as the amount in the fund equals or exceeds the normal operating level and no loan to the fund from the Federal Government is outstanding.”
 
-    Subsec. (c)(4). [Pub. L. 98–369, § 2805][/us/pl/98/369/s2805], struck out par. (4) which provided that “If in any year expenditures from the fund exceed the income of the fund, the Board may require each insured credit union to pay to the fund for such year, in addition to the regular premium charge for insurance payable under paragraph (1), (2), or (3) of this subsection, a special premium charge which shall not exceed an amount equal to the amount of the regular premium charge”.
+    Subsec. (c)(4). [Pub. L. 98–369][/us/pl/98/369], § 2805, struck out par. (4) which provided that “If in any year expenditures from the fund exceed the income of the fund, the Board may require each insured credit union to pay to the fund for such year, in addition to the regular premium charge for insurance payable under paragraph (1), (2), or (3) of this subsection, a special premium charge which shall not exceed an amount equal to the amount of the regular premium charge”.
 
-    Subsec. (d)(1), (2). [Pub. L. 98–369, § 2806(a)(1)][/us/pl/98/369/s2806/a/1], inserted “its deposit or” wherever appearing.
+    Subsec. (d)(1), (2). [Pub. L. 98–369][/us/pl/98/369], § 2806(a)(1), inserted “its deposit or” wherever appearing.
 
-    Subsec. (d)(3). [Pub. L. 98–369, § 2806(a)][/us/pl/98/369/s2806/a], inserted “its deposit or” wherever appearing and substituted “insured shares” for “member accounts”.
+    Subsec. (d)(3). [Pub. L. 98–369][/us/pl/98/369], § 2806(a), inserted “its deposit or” wherever appearing and substituted “insured shares” for “member accounts”.
 
-    Subsec. (e). [Pub. L. 98–369, § 2806(a)(1)][/us/pl/98/369/s2806/a/1], (b)(1), (2), inserted “its deposit or” and “deposit or” wherever appearing.
+    Subsec. (e). [Pub. L. 98–369][/us/pl/98/369], § 2806(a)(1), (b)(1), (2), inserted “its deposit or” and “deposit or” wherever appearing.
 
-    Subsec. (f). [Pub. L. 98–369, § 2806(a)(1)][/us/pl/98/369/s2806/a/1], (b)(3), inserted “its deposit or” and “deposit or”.
+    Subsec. (f). [Pub. L. 98–369][/us/pl/98/369], § 2806(a)(1), (b)(3), inserted “its deposit or” and “deposit or”.
 
-    Subsec. (g). [Pub. L. 98–369, § 2807][/us/pl/98/369/s2807], inserted “and deposit” and “deposit or adjustment thereof or any” in two places.
+    Subsec. (g). [Pub. L. 98–369][/us/pl/98/369], § 2807, inserted “and deposit” and “deposit or adjustment thereof or any” in two places.
 
-    Subsec. (h)(1). [Pub. L. 98–369, § 2808][/us/pl/98/369/s2808], inserted “, unless otherwise prescribed by the Board”.
+    Subsec. (h)(1). [Pub. L. 98–369][/us/pl/98/369], § 2808, inserted “, unless otherwise prescribed by the Board”.
 
-    Subsec. (h)(2). [Pub. L. 98–369, § 2809][/us/pl/98/369/s2809], in amending par. (2) generally, substituted “fund, means an amount equal to 1.3 per centum of the aggregate amount of the insured shares in all insured credit unions, or such lower level as the Board may determine” for “Fund, means an amount equal to 1 per centum of the aggregate amount of the member accounts in all insured credit unions”.
+    Subsec. (h)(2). [Pub. L. 98–369][/us/pl/98/369], § 2809, in amending par. (2) generally, substituted “fund, means an amount equal to 1.3 per centum of the aggregate amount of the insured shares in all insured credit unions, or such lower level as the Board may determine” for “Fund, means an amount equal to 1 per centum of the aggregate amount of the member accounts in all insured credit unions”.
 
-    Subsec. (h)(3). [Pub. L. 98–369, § 2810][/us/pl/98/369/s2810], amended par. (3) generally. Prior to amendment, par. (3) read as follows: “the term ‘members accounts’ when applied to the premium charge for insurance of accounts shall not include amounts received from other credit unions, the accounts of which are federally insured or insured or guaranteed by a fund established under State law or regulation for this purpose, in excess of the insured account limit set forth in [section 1787(c)(1) of this title][/us/usc/t12/s1787/c/1];”.
+    Subsec. (h)(3). [Pub. L. 98–369][/us/pl/98/369], § 2810, amended par. (3) generally. Prior to amendment, par. (3) read as follows: “the term ‘members accounts’ when applied to the premium charge for insurance of accounts shall not include amounts received from other credit unions, the accounts of which are federally insured or insured or guaranteed by a fund established under State law or regulation for this purpose, in excess of the insured account limit set forth in [section 1787(c)(1) of this title][/us/usc/t12/s1787/c/1];”.
 
     1983—Subsec. (c)(1). [Pub. L. 97–457][/us/pl/97/457] substituted “paragraph (2)” for “paragraphs (2) and (3)” after “except as provided in”.
 
-    1982—Subsec. (c)(3). [Pub. L. 97–320, § 529][/us/pl/97/320/s529], redesignated par. (4) as (3). Former (3), which set forth rules for computing the insurance premiums due from credit unions chartered after Oct. 19, 1970, that became insured in the insurance year of their charter, was struck out.
+    1982—Subsec. (c)(3). [Pub. L. 97–320][/us/pl/97/320], § 529, redesignated par. (4) as (3). Former (3), which set forth rules for computing the insurance premiums due from credit unions chartered after Oct. 19, 1970, that became insured in the insurance year of their charter, was struck out.
 
-    Subsec. (c)(4), (5). [Pub. L. 97–320, § 529][/us/pl/97/320/s529], redesignated par. (5) as (4). Former par. (4) redesignated (3).
+    Subsec. (c)(4), (5). [Pub. L. 97–320][/us/pl/97/320], § 529, redesignated par. (5) as (4). Former par. (4) redesignated (3).
 
-    Subsec. (c)(6). [Pub. L. 97–320, § 529][/us/pl/97/320/s529], struck out par. (6) which set forth rules for payment of insurance rebates to insured credit unions closed for liquidation because of insolvency or otherwise.
+    Subsec. (c)(6). [Pub. L. 97–320][/us/pl/97/320], § 529, struck out par. (6) which set forth rules for payment of insurance rebates to insured credit unions closed for liquidation because of insolvency or otherwise.
 
-    Subsec. (h)(3). [Pub. L. 97–320, § 528][/us/pl/97/320/s528], substituted “ ‘members accounts’ ” for “ ‘member account’ ”, struck out “federally insured” after “received from other”, and inserted “, the accounts of which are federally insured or insured or guaranteed by a fund established under State law or regulation for this purpose,” after “credit unions”.
+    Subsec. (h)(3). [Pub. L. 97–320][/us/pl/97/320], § 528, substituted “ ‘members accounts’ ” for “ ‘member account’ ”, struck out “federally insured” after “received from other”, and inserted “, the accounts of which are federally insured or insured or guaranteed by a fund established under State law or regulation for this purpose,” after “credit unions”.
 
     1978—Subsec. (a). [Pub. L. 95–630][/us/pl/95/630], §§ 502(b), 505(a), substituted “Board” for “Administrator” wherever appearing; “it” for “him” and “such officer’s knowledge” for “his knowledge” in par. (1); “reports as it” for “reports as he” in par. (2); and “it may direct” for “he may direct” and “for its use” for “for his use” in par. (3).
 
-    Subsecs. (b) to (g). [Pub. L. 95–630, § 502(b)][/us/pl/95/630/s502/b], substituted “Board” for “Administrator” wherever appearing, and “its” for “his” where appropriate.
+    Subsecs. (b) to (g). [Pub. L. 95–630][/us/pl/95/630], § 502(b), substituted “Board” for “Administrator” wherever appearing, and “its” for “his” where appropriate.
 
-    Subsec. (h)(3). [Pub. L. 95–630, § 505(b)][/us/pl/95/630/s505/b], substituted “The term ‘member account’ when” for “the term ‘members accounts’ when”, struck out “of federally insured credit unions” after “of accounts”, and inserted “received from other federally insured credit unions” after “not include amounts”.
+    Subsec. (h)(3). [Pub. L. 95–630][/us/pl/95/630], § 505(b), substituted “The term ‘member account’ when” for “the term ‘members accounts’ when”, struck out “of federally insured credit unions” after “of accounts”, and inserted “received from other federally insured credit unions” after “not include amounts”.
 
     1974—Subsec. (h)(3). [Pub. L. 93–383][/us/pl/93/383] added par. (3).
 
  __Effective Date of 1998 Amendment__ 
 
-[Pub. L. 105–219, title III, § 302(b)][/us/pl/105/219/s302/b], Aug. 7, 1998, [112 Stat. 934][/us/stat/112/934], provided that: 
+[Pub. L. 105–219, title III][/us/pl/105/219/tIII], § 302(b), Aug. 7, 1998, [112 Stat. 934][/us/stat/112/934], provided that: 
 
 > “This section \[amending this section\] and the amendments made by this section shall become effective on January 1 of the first calendar year beginning more than 180 days after the date of enactment of this Act \[Aug. 7, 1998\].”
 
@@ -440,77 +440,77 @@
 [/us/usc/t12/s1783/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1783%2Fc
 [/us/usc/t12/s1787/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1787%2Fk%2F1
 [/us/act/1934-06-26/ch750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-26%2Fch750
-[/us/pl/91/468/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F468%2Fs1%2F3
+[/us/pl/91/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F468
 [/us/stat/84/995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F995
-[/us/pl/93/383/s727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs727
+[/us/pl/93/383/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtVII
 [/us/stat/88/720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F720
-[/us/pl/95/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630
+[/us/pl/95/630/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtV
 [/us/stat/92/3681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3681
-[/us/pl/97/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320
+[/us/pl/97/320/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2FtV
 [/us/stat/96/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1535
-[/us/pl/97/457/s29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F457%2Fs29
+[/us/pl/97/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F457
 [/us/stat/96/2510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2510
-[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369/dB/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdB%2FtVIII
 [/us/stat/98/1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1204
-[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
+[/us/pl/101/73/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtIX
 [/us/stat/103/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F482
-[/us/pl/102/242/s313/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs313%2Fb
+[/us/pl/102/242/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtIII
 [/us/stat/105/2369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2369
-[/us/pl/102/550/s1605/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1605%2Fb%2F3
+[/us/pl/102/550/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXVI
 [/us/stat/106/4087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4087
-[/us/pl/105/219/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F219%2Fs201
+[/us/pl/105/219/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F219%2FtII
 [/us/stat/112/918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F918
-[/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
+[/us/pl/109/351/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2FtVII
 [/us/stat/120/1987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1987
-[/us/pl/111/22/s204/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs204%2Fe
+[/us/pl/111/22/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2FdA%2FtII
 [/us/stat/123/1651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1651
-[/us/pl/111/382/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F382%2Fs2
+[/us/pl/111/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F382
 [/us/stat/124/4135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4135
 [/us/pl/111/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F382
-[/us/pl/111/22/s204/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs204%2Fe
-[/us/pl/111/22/s204/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs204%2Ff%2F2
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
 [/us/usc/t12/s1790e/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1790e%2Fe
-[/us/pl/109/351/s707/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs707%2Fb
-[/us/pl/109/351/s726/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs726%2F12
+[/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
+[/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
 [/us/usc/t12/s1787/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1787%2Fk%2F1
 [/us/usc/t12/s1787/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1787%2Fc%2F1
-[/us/pl/105/219/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F219%2Fs201
-[/us/pl/105/219/s302/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F219%2Fs302%2Fa%2F1
-[/us/pl/105/219/s302/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F219%2Fs302%2Fa%2F2
-[/us/pl/105/219/s302/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F219%2Fs302%2Fa%2F3
-[/us/pl/105/219/s302/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F219%2Fs302%2Fa%2F4
-[/us/pl/105/219/s302/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F219%2Fs302%2Fa%2F5
+[/us/pl/105/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F219
+[/us/pl/105/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F219
+[/us/pl/105/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F219
+[/us/pl/105/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F219
+[/us/pl/105/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F219
+[/us/pl/105/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F219
 [/us/usc/t12/s1787/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1787%2Fc%2F1
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
-[/us/pl/101/73/s911/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs911%2Ff
-[/us/pl/101/73/s919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs919
-[/us/pl/101/73/s931/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs931%2Fb
-[/us/pl/98/369/s2802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2802
-[/us/pl/98/369/s2803/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2803%2F6
-[/us/pl/98/369/s2803/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2803%2F3
-[/us/pl/98/369/s2803/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2803%2F1
-[/us/pl/98/369/s2804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2804
-[/us/pl/98/369/s2805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2805
-[/us/pl/98/369/s2806/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2806%2Fa%2F1
-[/us/pl/98/369/s2806/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2806%2Fa
-[/us/pl/98/369/s2806/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2806%2Fa%2F1
-[/us/pl/98/369/s2806/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2806%2Fa%2F1
-[/us/pl/98/369/s2807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2807
-[/us/pl/98/369/s2808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2808
-[/us/pl/98/369/s2809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2809
-[/us/pl/98/369/s2810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2810
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/usc/t12/s1787/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1787%2Fc%2F1
 [/us/pl/97/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F457
-[/us/pl/97/320/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs529
-[/us/pl/97/320/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs529
-[/us/pl/97/320/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs529
-[/us/pl/97/320/s528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs528
+[/us/pl/97/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320
+[/us/pl/97/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320
+[/us/pl/97/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320
+[/us/pl/97/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320
 [/us/pl/95/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630
-[/us/pl/95/630/s502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs502%2Fb
-[/us/pl/95/630/s505/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs505%2Fb
+[/us/pl/95/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630
+[/us/pl/95/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630
 [/us/pl/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383
-[/us/pl/105/219/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F219%2Fs302%2Fb
+[/us/pl/105/219/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F219%2FtIII
 [/us/stat/112/934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F934
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242

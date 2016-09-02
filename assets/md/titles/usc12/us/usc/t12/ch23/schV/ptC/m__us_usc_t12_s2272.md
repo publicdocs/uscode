@@ -17,7 +17,7 @@
 
     Any service required or authorized to be made by the Farm Credit Administration under this section may be made by registered mail, or in such other manner reasonably calculated to give actual notice as the Farm Credit Administration may by regulation or otherwise provide. Any such service by mail is complete upon mailing. Copies of any notice or order served by the Farm Credit Administration on any association or any director or officer thereof or other person participating in the conduct of its affairs, under the provisions of this part, shall also be sent to the supervisory bank.
 
-([Pub. L. 92–181, title V, § 5][/us/pl/92/181/s5].36, as added [Pub. L. 99–205, title II, § 204][/us/pl/99/205/s204], Dec. 23, 1985, [99 Stat. 1702][/us/stat/99/1702].)
+([Pub. L. 92–181, title V][/us/pl/92/181/tV], § 5.36, as added [Pub. L. 99–205, title II][/us/pl/99/205/tII], § 204, Dec. 23, 1985, [99 Stat. 1702][/us/stat/99/1702].)
 
  __Effective Date__ 
 
@@ -30,8 +30,8 @@
 ----------
 ----------
 
-[/us/pl/92/181/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs5
-[/us/pl/99/205/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2Fs204
+[/us/pl/92/181/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtV
+[/us/pl/99/205/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2FtII
 [/us/stat/99/1702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1702
 [/us/pl/99/205/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2Fs401
 [/us/usc/t12/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2001

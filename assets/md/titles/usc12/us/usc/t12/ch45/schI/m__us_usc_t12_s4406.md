@@ -17,7 +17,7 @@
 
     This chapter shall have no effect by implication or otherwise on the validity or legal enforceability of a netting arrangement of any payment system which is not subject to this chapter.
 
-([Pub. L. 102–242, title IV, § 406][/us/pl/102/242/s406], Dec. 19, 1991, [105 Stat. 2375][/us/stat/105/2375].)
+([Pub. L. 102–242, title IV][/us/pl/102/242/tIV], § 406, Dec. 19, 1991, [105 Stat. 2375][/us/stat/105/2375].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/102/242/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs406
+[/us/pl/102/242/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtIV
 [/us/stat/105/2375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2375
 
 

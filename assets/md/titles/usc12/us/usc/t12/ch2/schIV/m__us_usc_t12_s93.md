@@ -153,7 +153,7 @@
 
         The Comptroller of the Currency may act in the Comptroller’s own name and through the Comptroller’s own attorneys in enforcing any provision of title 62 of the Revised Statutes, regulations thereunder, or any other law or regulation, or in any action, suit, or proceeding to which the Comptroller of the Currency is a party.
 
-(R.S. § 5239; [Mar. 3, 1911, ch. 231, § 291][/us/act/1911-03-03/ch231/s291], [36 Stat. 1167][/us/stat/36/1167]; [Pub. L. 95–630, title I, § 103][/us/pl/95/630/s103], Nov. 10, 1978, [92 Stat. 3643][/us/stat/92/3643]; [Pub. L. 97–320, title IV, § 424(d)(3)][/us/pl/97/320/s424/d/3], (f), (g), Oct. 15, 1982, [96 Stat. 1523][/us/stat/96/1523]; [Pub. L. 97–457, § 24][/us/pl/97/457/s24], Jan. 12, 1983, [96 Stat. 2510][/us/stat/96/2510]; [Pub. L. 101–73, title IX][/us/pl/101/73], §§ 905(e), 907(e), Aug. 9, 1989, [103 Stat. 460][/us/stat/103/460], 469; [Pub. L. 102–550, title XV, § 1502(a)][/us/pl/102/550/s1502/a], Oct. 28, 1992, [106 Stat. 4045][/us/stat/106/4045]; [Pub. L. 103–322, title XXXIII, § 330017(b)(2)][/us/pl/103/322/s330017/b/2], Sept. 13, 1994, [108 Stat. 2149][/us/stat/108/2149]; [Pub. L. 103–325, title III, § 331(b)(3)][/us/pl/103/325/s331/b/3], title IV, §§ 411(c)(2)(C), 413(b)(2), Sept. 23, 1994, [108 Stat. 2232][/us/stat/108/2232], 2253, 2254.)
+(R.S. § 5239; [Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 291, [36 Stat. 1167][/us/stat/36/1167]; [Pub. L. 95–630, title I][/us/pl/95/630/tI], § 103, Nov. 10, 1978, [92 Stat. 3643][/us/stat/92/3643]; [Pub. L. 97–320, title IV][/us/pl/97/320/tIV], § 424(d)(3), (f), (g), Oct. 15, 1982, [96 Stat. 1523][/us/stat/96/1523]; [Pub. L. 97–457][/us/pl/97/457], § 24, Jan. 12, 1983, [96 Stat. 2510][/us/stat/96/2510]; [Pub. L. 101–73, title IX][/us/pl/101/73/tIX], §§ 905(e), 907(e), Aug. 9, 1989, [103 Stat. 460][/us/stat/103/460], 469; [Pub. L. 102–550, title XV][/us/pl/102/550/tXV], § 1502(a), Oct. 28, 1992, [106 Stat. 4045][/us/stat/106/4045]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330017(b)(2), Sept. 13, 1994, [108 Stat. 2149][/us/stat/108/2149]; [Pub. L. 103–325, title III][/us/pl/103/325/tIII], § 331(b)(3), title IV, §§ 411(c)(2)(C), 413(b)(2), Sept. 23, 1994, [108 Stat. 2232][/us/stat/108/2232], 2253, 2254.)
 
  __References in Text__ 
 
@@ -161,25 +161,25 @@
 
  __Codification__ 
 
-    R.S. § 5239 derived from [act June 3, 1864, ch. 106, § 53][/us/act/1864-06-03/ch106/s53], [13 Stat. 116][/us/stat/13/116], which was the National Bank Act. See [section 38 of this title][/us/usc/t12/s38].
+    R.S. § 5239 derived from [act June 3, 1864, ch. 106][/us/act/1864-06-03/ch106], § 53, [13 Stat. 116][/us/stat/13/116], which was the National Bank Act. See [section 38 of this title][/us/usc/t12/s38].
 
     Act Mar. 3, 1911, conferred the powers and duties of the former circuit courts upon the district courts.
 
  __Amendments__ 
 
-    1994—Subsec. (c). [Pub. L. 103–322, § 330017(b)(2)][/us/pl/103/322/s330017/b/2], and [Pub. L. 103–325, § 413(b)(2)][/us/pl/103/325/s413/b/2], amended section identically, redesignating subsec. (c), relating to forfeiture of franchise for money laundering, as (d).
+    1994—Subsec. (c). [Pub. L. 103–322][/us/pl/103/322], § 330017(b)(2), and [Pub. L. 103–325][/us/pl/103/325], § 413(b)(2), amended section identically, redesignating subsec. (c), relating to forfeiture of franchise for money laundering, as (d).
 
-    Subsec. (d). [Pub. L. 103–322, § 330017(b)(2)][/us/pl/103/322/s330017/b/2], and [Pub. L. 103–325, § 413(b)(2)][/us/pl/103/325/s413/b/2], amended section identically, redesignating subsec. (c), relating to forfeiture of franchise for money laundering, as (d).
+    Subsec. (d). [Pub. L. 103–322][/us/pl/103/322], § 330017(b)(2), and [Pub. L. 103–325][/us/pl/103/325], § 413(b)(2), amended section identically, redesignating subsec. (c), relating to forfeiture of franchise for money laundering, as (d).
 
-    [Pub. L. 103–325, § 331(b)(3)][/us/pl/103/325/s331/b/3], added subsec. (d) relating to authority.
+    [Pub. L. 103–325][/us/pl/103/325], § 331(b)(3), added subsec. (d) relating to authority.
 
-    Subsec. (d)(1)(B). [Pub. L. 103–325, § 411(c)(2)(C)][/us/pl/103/325/s411/c/2/C], substituted “section 5322 or 5324 of title 31” for “[section 5322 of title 31][/us/usc/t31/s5322]”.
+    Subsec. (d)(1)(B). [Pub. L. 103–325][/us/pl/103/325], § 411(c)(2)(C), substituted “section 5322 or 5324 of title 31” for “[section 5322 of title 31][/us/usc/t31/s5322]”.
 
     1992—Subsec. (c). [Pub. L. 102–550][/us/pl/102/550] added subsec. (c) relating to forfeiture of franchise for money laundering.
 
-    1989—Subsec. (b). [Pub. L. 101–73, § 907(e)][/us/pl/101/73/s907/e], amended subsec. (b) generally, revising and restating as pars. (1) to (8) and (12) provisions of former pars. (1) to (8).
+    1989—Subsec. (b). [Pub. L. 101–73][/us/pl/101/73], § 907(e), amended subsec. (b) generally, revising and restating as pars. (1) to (8) and (12) provisions of former pars. (1) to (8).
 
-    Subsec. (c). [Pub. L. 101–73, § 905(e)][/us/pl/101/73/s905/e], added subsec. (c) relating to notice after separation from service.
+    Subsec. (c). [Pub. L. 101–73][/us/pl/101/73], § 905(e), added subsec. (c) relating to notice after separation from service.
 
     1982—Subsec. (b)(1). [Pub. L. 97–320][/us/pl/97/320], as amended by [Pub. L. 97–457][/us/pl/97/457], inserted “or any of the provisions of [section 92a of this title][/us/usc/t12/s92a]”, and substituted “may be assessed” for “shall be assessed” and “title” for “chapter”.
 
@@ -187,7 +187,7 @@
 
  __Effective Date of 1989 Amendment__ 
 
-[Pub. L. 101–73, title IX, § 907][/us/pl/101/73/s907](l), Aug. 9, 1989, [103 Stat. 476][/us/stat/103/476], provided that: 
+[Pub. L. 101–73, title IX][/us/pl/101/73/tIX], § 907(l), Aug. 9, 1989, [103 Stat. 476][/us/stat/103/476], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 481, 504, 505, 1467a, 1786, 1817, 1818, 1828, 1847, and 1972 of this title\] shall apply with respect to conduct engaged in by any person after the date of the enactment of this Act \[Aug. 9, 1989\], except that the increased maximum civil penalties of $5,000 and $25,000 per violation or per day may apply to such conduct engaged in before such date if such conduct—
 
@@ -197,7 +197,7 @@
 
  __Effective Date of 1978 Amendment__ 
 
-[Pub. L. 95–630, title I, § 109][/us/pl/95/630/s109], Nov. 10, 1978, [92 Stat. 3665][/us/stat/92/3665], provided that: 
+[Pub. L. 95–630, title I][/us/pl/95/630/tI], § 109, Nov. 10, 1978, [92 Stat. 3665][/us/stat/92/3665], provided that: 
 
 > “Any amendment made by this title which provides for the imposition of civil penalties \[enacting sections 504 and 505 of this title and amending this section and sections 1464, 1730, 1730a, 1786, 1818, 1828, and 1847 of this title\] shall apply only to violations occurring or continuing after the date of its enactment \[Nov. 10, 1978\].”
 
@@ -221,43 +221,43 @@
 [/us/usc/t12/s1813/u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813%2Fu
 [/us/usc/t12/s1818/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1818%2Fh
 [/us/usc/t12/s1831i/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1831i%2Ff
-[/us/act/1911-03-03/ch231/s291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs291
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1167
-[/us/pl/95/630/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs103
+[/us/pl/95/630/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtI
 [/us/stat/92/3643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3643
-[/us/pl/97/320/s424/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs424%2Fd%2F3
+[/us/pl/97/320/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2FtIV
 [/us/stat/96/1523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1523
-[/us/pl/97/457/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F457%2Fs24
+[/us/pl/97/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F457
 [/us/stat/96/2510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2510
-[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
+[/us/pl/101/73/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtIX
 [/us/stat/103/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F460
-[/us/pl/102/550/s1502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1502%2Fa
+[/us/pl/102/550/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXV
 [/us/stat/106/4045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4045
-[/us/pl/103/322/s330017/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330017%2Fb%2F2
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2149
-[/us/pl/103/325/s331/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs331%2Fb%2F3
+[/us/pl/103/325/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtIII
 [/us/stat/108/2232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2232
-[/us/act/1864-06-03/ch106/s53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-06-03%2Fch106%2Fs53
+[/us/act/1864-06-03/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-06-03%2Fch106
 [/us/stat/13/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F13%2F116
 [/us/usc/t12/s38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs38
-[/us/pl/103/322/s330017/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330017%2Fb%2F2
-[/us/pl/103/325/s413/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs413%2Fb%2F2
-[/us/pl/103/322/s330017/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330017%2Fb%2F2
-[/us/pl/103/325/s413/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs413%2Fb%2F2
-[/us/pl/103/325/s331/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs331%2Fb%2F3
-[/us/pl/103/325/s411/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs411%2Fc%2F2%2FC
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
+[/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
+[/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
 [/us/usc/t31/s5322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5322
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
-[/us/pl/101/73/s907/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs907%2Fe
-[/us/pl/101/73/s905/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs905%2Fe
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
 [/us/pl/97/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320
 [/us/pl/97/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F457
 [/us/usc/t12/s92a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs92a
 [/us/pl/95/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630
-[/us/pl/101/73/s907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs907
+[/us/pl/101/73/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtIX
 [/us/stat/103/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F476
 [/us/usc/t12/s1813/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813%2Fq
-[/us/pl/95/630/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs109
+[/us/pl/95/630/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtI
 [/us/stat/92/3665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3665
 [/us/usc/t12/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1
 

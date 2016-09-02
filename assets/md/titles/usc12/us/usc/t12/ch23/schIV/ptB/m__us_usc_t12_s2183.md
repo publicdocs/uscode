@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t12/ch23/schIV/ptB/m__us_usc_t12_ch23_schIV_ptB.md) | [Next](./../../../../../..//us/usc/t12/ch23/schIV/ptB/m__us_usc_t12_s2184.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2183)
+[Previous](./../../../../../..//us/usc/t12/ch23/schIV/ptB/m__us_usc_t12_s2181 _us_usc_t12_s2182.md) | [Next](./../../../../../..//us/usc/t12/ch23/schIV/ptB/m__us_usc_t12_s2184.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2183)
 
 ## § 2183. Dissolution; voluntary or involuntary liquidation; mergers; receiverships or conservators
 
@@ -27,27 +27,27 @@
 
         In the case of an involuntary liquidation of an association, regulations of the Farm Credit Administration, among other things, shall direct the supervising bank to institute such measures as it deems appropriate to minimize the adverse effect of the liquidation on those borrowers whose loans are purchased by or otherwise transferred to another System institution.
 
-([Pub. L. 92–181, title IV, § 4][/us/pl/92/181/s4].12, Dec. 10, 1971, [85 Stat. 612][/us/stat/85/612]; [Pub. L. 99–205, title I, § 102][/us/pl/99/205/s102], title II, § 205(f)(5), title III, § 305, Dec. 23, 1985, [99 Stat. 1679][/us/stat/99/1679], 1706, 1708; [Pub. L. 100–233, title III, § 306][/us/pl/100/233/s306], title IV, § 418(a)(4), formerly § 415(a)(4), § 431(g), title VIII, § 805(r), Jan. 6, 1988, [101 Stat. 1622][/us/stat/101/1622], 1653, 1660, 1716, renumbered § 418(a)(4), [Pub. L. 100–399, title IV, § 409(a)][/us/pl/100/399/s409/a], Aug. 17, 1988, [102 Stat. 1003][/us/stat/102/1003]; [Pub. L. 100–399, title IX, § 901(f)][/us/pl/100/399/s901/f], Aug. 17, 1988, [102 Stat. 1007][/us/stat/102/1007].)
+([Pub. L. 92–181, title IV][/us/pl/92/181/tIV], § 4.12, Dec. 10, 1971, [85 Stat. 612][/us/stat/85/612]; [Pub. L. 99–205, title I][/us/pl/99/205/tI], § 102, title II, § 205(f)(5), title III, § 305, Dec. 23, 1985, [99 Stat. 1679][/us/stat/99/1679], 1706, 1708; [Pub. L. 100–233, title III][/us/pl/100/233/tIII], § 306, title IV, § 418(a)(4), formerly § 415(a)(4), § 431(g), title VIII, § 805(r), Jan. 6, 1988, [101 Stat. 1622][/us/stat/101/1622], 1653, 1660, 1716, renumbered § 418(a)(4), [Pub. L. 100–399, title IV][/us/pl/100/399/tIV], § 409(a), Aug. 17, 1988, [102 Stat. 1003][/us/stat/102/1003]; [Pub. L. 100–399, title IX][/us/pl/100/399/tIX], § 901(f), Aug. 17, 1988, [102 Stat. 1007][/us/stat/102/1007].)
 
  __Amendments__ 
 
-    1988—Subsec. (a). [Pub. L. 100–399, § 901(f)][/us/pl/100/399/s901/f], substituted “board of the supervising bank” for “district board”.
+    1988—Subsec. (a). [Pub. L. 100–399][/us/pl/100/399], § 901(f), substituted “board of the supervising bank” for “district board”.
 
-    [Pub. L. 100–233, § 415(a)(4)][/us/pl/100/233/s415/a/4], struck out third sentence which provided that Associations may voluntarily merge with other like associations upon the vote of a majority of each of their stockholders present and voting or voting by written proxy at duly authorized meetings, and with the approval of the supervising bank and the Farm Credit Administration, and substituted “Board may require an association to merge with another association” for “may require such merger” in fourth sentence.
+    [Pub. L. 100–233][/us/pl/100/233], § 415(a)(4), struck out third sentence which provided that Associations may voluntarily merge with other like associations upon the vote of a majority of each of their stockholders present and voting or voting by written proxy at duly authorized meetings, and with the approval of the supervising bank and the Farm Credit Administration, and substituted “Board may require an association to merge with another association” for “may require such merger” in fourth sentence.
 
-    Subsec. (b). [Pub. L. 100–233, § 431(g)][/us/pl/100/233/s431/g], substituted “Farm Credit Administration Board” for “Farm Credit Administration” wherever appearing other than in cl. (5).
+    Subsec. (b). [Pub. L. 100–233][/us/pl/100/233], § 431(g), substituted “Farm Credit Administration Board” for “Farm Credit Administration” wherever appearing other than in cl. (5).
 
-    [Pub. L. 100–233, § 306][/us/pl/100/233/s306], added cl. (6) and inserted “, and such receiver or conservator, after the 5-year period beginning on January 6, 1988, shall be the Farm Credit System Insurance Corporation” before the period at end of second sentence.
+    [Pub. L. 100–233][/us/pl/100/233], § 306, added cl. (6) and inserted “, and such receiver or conservator, after the 5-year period beginning on January 6, 1988, shall be the Farm Credit System Insurance Corporation” before the period at end of second sentence.
 
-    [Pub. L. 100–233, § 805(r)][/us/pl/100/233/s805/r], substituted “court shall” for “court, shall”.
+    [Pub. L. 100–233][/us/pl/100/233], § 805(r), substituted “court shall” for “court, shall”.
 
-    1985—Subsec. (a). [Pub. L. 99–205, § 205(f)(5)][/us/pl/99/205/s205/f/5], substituted “Farm Credit Administration” for “Federal Farm Credit Board” in last sentence.
+    1985—Subsec. (a). [Pub. L. 99–205][/us/pl/99/205], § 205(f)(5), substituted “Farm Credit Administration” for “Federal Farm Credit Board” in last sentence.
 
-    [Pub. L. 99–205, § 305(a)][/us/pl/99/205/s305/a], inserted after first sentence a sentence requiring the regulations, in the case of a voluntary liquidation of an association, to direct the supervising bank to institute appropriate measures to minimize the adverse effect of the liquidation on borrowers whose loans are purchased by or otherwise transferred to another System institution.
+    [Pub. L. 99–205][/us/pl/99/205], § 305(a), inserted after first sentence a sentence requiring the regulations, in the case of a voluntary liquidation of an association, to direct the supervising bank to institute appropriate measures to minimize the adverse effect of the liquidation on borrowers whose loans are purchased by or otherwise transferred to another System institution.
 
-    Subsec. (b). [Pub. L. 99–205, § 102][/us/pl/99/205/s102], in revising subsec. (b), substituted expanded provisions respecting appointment of conservator or receiver for former provision, which read as follows: “Upon default of any obligation by any institution of the System, such institution may be declared insolvent and placed in the hands of a conservator or a receiver appointed by the Governor and the proceedings thereon shall be in accordance with regulations of the Farm Credit Administration regarding such insolvencies.”
+    Subsec. (b). [Pub. L. 99–205][/us/pl/99/205], § 102, in revising subsec. (b), substituted expanded provisions respecting appointment of conservator or receiver for former provision, which read as follows: “Upon default of any obligation by any institution of the System, such institution may be declared insolvent and placed in the hands of a conservator or a receiver appointed by the Governor and the proceedings thereon shall be in accordance with regulations of the Farm Credit Administration regarding such insolvencies.”
 
-    Subsec. (c). [Pub. L. 99–205, § 305(b)][/us/pl/99/205/s305/b], added subsec. (c).
+    Subsec. (c). [Pub. L. 99–205][/us/pl/99/205], § 305(b), added subsec. (c).
 
  __Effective Date of 1988 Amendment__ 
 
@@ -59,31 +59,31 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t12/ch23/schIV/ptB/m__us_usc_t12_ch23_schIV_ptB.md) | [Next](./../../../../../..//us/usc/t12/ch23/schIV/ptB/m__us_usc_t12_s2184.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2183)
+[Previous](./../../../../../..//us/usc/t12/ch23/schIV/ptB/m__us_usc_t12_s2181 _us_usc_t12_s2182.md) | [Next](./../../../../../..//us/usc/t12/ch23/schIV/ptB/m__us_usc_t12_s2184.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2183)
 
 ----------
 ----------
 
 [/us/usc/t12/s2277a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2277a%2F3
-[/us/pl/92/181/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs4
+[/us/pl/92/181/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtIV
 [/us/stat/85/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F612
-[/us/pl/99/205/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2Fs102
+[/us/pl/99/205/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2FtI
 [/us/stat/99/1679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1679
-[/us/pl/100/233/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs306
+[/us/pl/100/233/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtIII
 [/us/stat/101/1622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1622
-[/us/pl/100/399/s409/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs409%2Fa
+[/us/pl/100/399/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtIV
 [/us/stat/102/1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1003
-[/us/pl/100/399/s901/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs901%2Ff
+[/us/pl/100/399/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtIX
 [/us/stat/102/1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1007
-[/us/pl/100/399/s901/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs901%2Ff
-[/us/pl/100/233/s415/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs415%2Fa%2F4
-[/us/pl/100/233/s431/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs431%2Fg
-[/us/pl/100/233/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs306
-[/us/pl/100/233/s805/r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs805%2Fr
-[/us/pl/99/205/s205/f/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2Fs205%2Ff%2F5
-[/us/pl/99/205/s305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2Fs305%2Fa
-[/us/pl/99/205/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2Fs102
-[/us/pl/99/205/s305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2Fs305%2Fb
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
+[/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
+[/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
+[/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
+[/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
+[/us/pl/99/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205
+[/us/pl/99/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205
+[/us/pl/99/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205
+[/us/pl/99/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205
 [/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
 [/us/pl/100/399/s1001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs1001%2Fa

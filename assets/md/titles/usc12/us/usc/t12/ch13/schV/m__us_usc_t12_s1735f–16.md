@@ -17,7 +17,7 @@
 
     With respect to fiscal year 1989 and for every fiscal year thereafter, the Secretary shall make available to the public a financial statement of the insurance funds established under this chapter that will present their financial condition on a cash and accrual basis, consistent with generally accepted accounting principles. Each financial statement shall be audited by an independent accounting firm selected by the Secretary and the results of such audit shall be made available to the public.
 
-([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title V, § 538, as added [Pub. L. 101–235, title I, § 131][/us/pl/101/235/s131], Dec. 15, 1989, [103 Stat. 2026][/us/stat/103/2026].)
+([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title V, § 538, as added [Pub. L. 101–235, title I][/us/pl/101/235/tI], § 131, Dec. 15, 1989, [103 Stat. 2026][/us/stat/103/2026].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
-[/us/pl/101/235/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235%2Fs131
+[/us/pl/101/235/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235%2FtI
 [/us/stat/103/2026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2026
 
 

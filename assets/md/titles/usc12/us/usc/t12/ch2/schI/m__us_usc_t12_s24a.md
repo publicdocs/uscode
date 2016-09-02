@@ -253,7 +253,7 @@
 
             (B) in the case of any depository institution that has not been examined, the existence and use of managerial resources that the appropriate Federal banking agency determines are satisfactory.
 
-(R.S. § 5136A, as added [Pub. L. 106–102, title I, § 121(a)(2)][/us/pl/106/102/s121/a/2], Nov. 12, 1999, [113 Stat. 1373][/us/stat/113/1373]; amended [Pub. L. 111–203, title IX, § 939(d)][/us/pl/111/203/s939/d], July 21, 2010, [124 Stat. 1886][/us/stat/124/1886].)
+(R.S. § 5136A, as added [Pub. L. 106–102, title I][/us/pl/106/102/tI], § 121(a)(2), Nov. 12, 1999, [113 Stat. 1373][/us/stat/113/1373]; amended [Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 939(d), July 21, 2010, [124 Stat. 1886][/us/stat/124/1886].)
 
  __References in Text__ 
 
@@ -269,23 +269,23 @@
 
  __Amendments__ 
 
-    2010—Subsec. (a)(2)(E). [Pub. L. 111–203, § 939(d)(1)][/us/pl/111/203/s939/d/1], substituted “standards of credit-worthiness established by the Comptroller of the Currency” for “any applicable rating”.
+    2010—Subsec. (a)(2)(E). [Pub. L. 111–203][/us/pl/111/203], § 939(d)(1), substituted “standards of credit-worthiness established by the Comptroller of the Currency” for “any applicable rating”.
 
-    Subsec. (a)(3). [Pub. L. 111–203, § 939(d)(2)][/us/pl/111/203/s939/d/2], substituted “Requirement” for “Rating or comparable requirement” in heading.
+    Subsec. (a)(3). [Pub. L. 111–203][/us/pl/111/203], § 939(d)(2), substituted “Requirement” for “Rating or comparable requirement” in heading.
 
-    Subsec. (a)(3)(A). [Pub. L. 111–203, § 939(d)(3)][/us/pl/111/203/s939/d/3], amended subpar. (A) generally. Prior to amendment, text read as follows: “A national bank meets the requirements of this paragraph if—
+    Subsec. (a)(3)(A). [Pub. L. 111–203][/us/pl/111/203], § 939(d)(3), amended subpar. (A) generally. Prior to amendment, text read as follows: “A national bank meets the requirements of this paragraph if—
 
     “(i) the bank is 1 of the 50 largest insured banks and has not fewer than 1 issue of outstanding eligible debt that is currently rated within the 3 highest investment grade rating categories by a nationally recognized statistical rating organization; or
 
     “(ii) the bank is 1 of the second 50 largest insured banks and meets the criteria set forth in clause (i) or such other criteria as the Secretary of the Treasury and the Board of Governors of the Federal Reserve System may jointly establish by regulation and determine to be comparable to and consistent with the purposes of the rating required in clause (i).”
 
-    Subsec. (f). [Pub. L. 111–203, § 939(d)(4)][/us/pl/111/203/s939/d/4], substituted “meet standards of credit-worthiness” for “maintain public rating or” in heading.
+    Subsec. (f). [Pub. L. 111–203][/us/pl/111/203], § 939(d)(4), substituted “meet standards of credit-worthiness” for “maintain public rating or” in heading.
 
-    Subsec. (f)(1). [Pub. L. 111–203, § 939(d)(5)][/us/pl/111/203/s939/d/5], substituted “standards of credit-worthiness established by the Comptroller of the Currency” for “any applicable rating”.
+    Subsec. (f)(1). [Pub. L. 111–203][/us/pl/111/203], § 939(d)(5), substituted “standards of credit-worthiness established by the Comptroller of the Currency” for “any applicable rating”.
 
  __Effective Date of 2010 Amendment__ 
 
-[Pub. L. 111–203, title IX, § 939(g)][/us/pl/111/203/s939/g], July 21, 2010, [124 Stat. 1887][/us/stat/124/1887], provided that: 
+[Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 939(g), July 21, 2010, [124 Stat. 1887][/us/stat/124/1887], provided that: 
 
 > “The amendments made by this section \[amending this section, sections 1817, 1831e, and 4519 of this title, sections 78c and 80a–6 of Title 15, Commerce and Trade, and [section 286hh of Title 22][/us/usc/t22/s286hh], Foreign Relations and Intercourse\] shall take effect 2 years after the date of enactment of this Act \[July 21, 2010\].”
 
@@ -310,9 +310,9 @@
 [/us/usc/t12/s1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813
 [/us/usc/t12/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs601
 [/us/usc/t12/s1861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1861
-[/us/pl/106/102/s121/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs121%2Fa%2F2
+[/us/pl/106/102/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtI
 [/us/stat/113/1373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1373
-[/us/pl/111/203/s939/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs939%2Fd
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1886
 [/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102
 [/us/stat/113/1338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1338
@@ -323,12 +323,12 @@
 [/us/usc/t12/s1861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1861
 [/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102
 [/us/usc/t12/s25a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs25a
-[/us/pl/111/203/s939/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs939%2Fd%2F1
-[/us/pl/111/203/s939/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs939%2Fd%2F2
-[/us/pl/111/203/s939/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs939%2Fd%2F3
-[/us/pl/111/203/s939/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs939%2Fd%2F4
-[/us/pl/111/203/s939/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs939%2Fd%2F5
-[/us/pl/111/203/s939/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs939%2Fg
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1887
 [/us/usc/t22/s286hh]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs286hh
 [/us/pl/106/102/s161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs161

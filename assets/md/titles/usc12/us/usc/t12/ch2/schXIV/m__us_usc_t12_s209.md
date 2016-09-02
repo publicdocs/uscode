@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch2/schXIV/m__us_usc_t12_s206.md) | [Next](./../../../../..//us/usc/t12/ch2/schXIV/m__us_usc_t12_s210.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs209)
+[Previous](./../../../../..//us/usc/t12/ch2/schXIV/m__us_usc_t12_s207 _us_usc_t12_s208.md) | [Next](./../../../../..//us/usc/t12/ch2/schXIV/m__us_usc_t12_s210.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs209)
 
 ## § 209. Liability protection
 
@@ -27,7 +27,7 @@
 
         The Comptroller  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “Comptroller of the Currency”. </sup></sup>  shall have authority to indemnify the conservator on such terms as the Comptroller deems proper.
 
-([Mar. 9, 1933, ch. 1][/us/act/1933-03-09/ch1], title II, § 209, [48 Stat. 5][/us/stat/48/5]; [Sept. 3, 1954, ch. 1263, § 23][/us/act/1954-09-03/ch1263/s23], [68 Stat. 1234][/us/stat/68/1234]; [Pub. L. 101–73, title VIII, § 806][/us/pl/101/73/s806], Aug. 9, 1989, [103 Stat. 445][/us/stat/103/445].)
+([Mar. 9, 1933, ch. 1][/us/act/1933-03-09/ch1], title II, § 209, [48 Stat. 5][/us/stat/48/5]; [Sept. 3, 1954, ch. 1263][/us/act/1954-09-03/ch1263], § 23, [68 Stat. 1234][/us/stat/68/1234]; [Pub. L. 101–73, title VIII][/us/pl/101/73/tVIII], § 806, Aug. 9, 1989, [103 Stat. 445][/us/stat/103/445].)
 
  __Amendments__ 
 
@@ -41,16 +41,16 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch2/schXIV/m__us_usc_t12_s206.md) | [Next](./../../../../..//us/usc/t12/ch2/schXIV/m__us_usc_t12_s210.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs209)
+[Previous](./../../../../..//us/usc/t12/ch2/schXIV/m__us_usc_t12_s207 _us_usc_t12_s208.md) | [Next](./../../../../..//us/usc/t12/ch2/schXIV/m__us_usc_t12_s210.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs209)
 
 ----------
 ----------
 
 [/us/act/1933-03-09/ch1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-03-09%2Fch1
 [/us/stat/48/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F5
-[/us/act/1954-09-03/ch1263/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-03%2Fch1263%2Fs23
+[/us/act/1954-09-03/ch1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-03%2Fch1263
 [/us/stat/68/1234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1234
-[/us/pl/101/73/s806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs806
+[/us/pl/101/73/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtVIII
 [/us/stat/103/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F445
 [/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
 [/us/usc/t12/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1

@@ -49,13 +49,13 @@
 
     (10) “Secretary” means the Secretary of Housing and Urban Development.
 
-([Pub. L. 97–35, title III, § 363][/us/pl/97/35/s363], Aug. 13, 1981, [95 Stat. 422][/us/stat/95/422]; [Pub. L. 102–550, title V, § 517(b)][/us/pl/102/550/s517/b], Oct. 28, 1992, [106 Stat. 3792][/us/stat/106/3792].)
+([Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 363, Aug. 13, 1981, [95 Stat. 422][/us/stat/95/422]; [Pub. L. 102–550, title V][/us/pl/102/550/tV], § 517(b), Oct. 28, 1992, [106 Stat. 3792][/us/stat/106/3792].)
 
  __References in Text__ 
 
-    The National Housing Act, referred to in par. (2)(A), is [act June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], [48 Stat. 1246][/us/stat/48/1246], as amended. Title II of the Act is classified principally to subchapter II (§ 1707 et seq.) of chapter 13 of this title. Title X of the Act, which was classified principally to subchapter IX–A (§ 1749aa et seq.) of chapter 13 of this title, was repealed by [Pub. L. 101–235, title I, § 133(a)][/us/pl/101/235/s133/a], Dec. 15, 1989, [103 Stat. 2027][/us/stat/103/2027]. For complete classification of this Act to the Code, see [section 1701 of this title][/us/usc/t12/s1701] and Tables.
+    The National Housing Act, referred to in par. (2)(A), is [act June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], [48 Stat. 1246][/us/stat/48/1246], as amended. Title II of the Act is classified principally to subchapter II (§ 1707 et seq.) of chapter 13 of this title. Title X of the Act, which was classified principally to subchapter IX–A (§ 1749aa et seq.) of chapter 13 of this title, was repealed by [Pub. L. 101–235, title I][/us/pl/101/235/tI], § 133(a), Dec. 15, 1989, [103 Stat. 2027][/us/stat/103/2027]. For complete classification of this Act to the Code, see [section 1701 of this title][/us/usc/t12/s1701] and Tables.
 
-    Section 312 of the Housing Act of 1964, referred to in par. (2)(B), is [section 312 of Pub. L. 88–560][/us/pl/88/560/s312], which was classified to [section 1452b of Title 42][/us/usc/t42/s1452b], The Public Health and Welfare, and was repealed by [Pub. L. 101–625, title II, § 289(b)(1)][/us/pl/101/625/s289/b/1], Nov. 28, 1990, [104 Stat. 4128][/us/stat/104/4128].
+    Section 312 of the Housing Act of 1964, referred to in par. (2)(B), is [section 312 of Pub. L. 88–560][/us/pl/88/560/s312], which was classified to [section 1452b of Title 42][/us/usc/t42/s1452b], The Public Health and Welfare, and was repealed by [Pub. L. 101–625, title II][/us/pl/101/625/tII], § 289(b)(1), Nov. 28, 1990, [104 Stat. 4128][/us/stat/104/4128].
 
     Section 801 of the Cranston-Gonzalez National Affordable Housing Act, referred to in par. (2)(C), (D), is [section 801 of Pub. L. 101–625][/us/pl/101/625/s801].
 
@@ -80,18 +80,18 @@
 [/us/usc/t12/s1701q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701q
 [/us/usc/t42/s8013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8013
 [/us/usc/t1/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft1%2Fs2
-[/us/pl/97/35/s363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs363
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F422
-[/us/pl/102/550/s517/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs517%2Fb
+[/us/pl/102/550/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtV
 [/us/stat/106/3792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3792
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
 [/us/stat/48/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1246
-[/us/pl/101/235/s133/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235%2Fs133%2Fa
+[/us/pl/101/235/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235%2FtI
 [/us/stat/103/2027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2027
 [/us/usc/t12/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701
 [/us/pl/88/560/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F560%2Fs312
 [/us/usc/t42/s1452b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1452b
-[/us/pl/101/625/s289/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs289%2Fb%2F1
+[/us/pl/101/625/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtII
 [/us/stat/104/4128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4128
 [/us/pl/101/625/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs801
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550

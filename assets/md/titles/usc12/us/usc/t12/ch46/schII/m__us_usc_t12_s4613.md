@@ -35,7 +35,7 @@
 
             In establishing the critical capital level under paragraph (1) for the Federal Home Loan Banks, the Director shall take due consideration of the critical capital level established under subsection (a) for the enterprises, with such modifications as the Director determines to be appropriate to reflect the difference in operations between the banks and the enterprises.
 
-([Pub. L. 102–550, title XIII, § 1363][/us/pl/102/550/s1363], Oct. 28, 1992, [106 Stat. 3976][/us/stat/106/3976]; [Pub. L. 110–289, div. A, title I, § 1141(a)][/us/pl/110/289/s1141/a], July 30, 2008, [122 Stat. 2730][/us/stat/122/2730].)
+([Pub. L. 102–550, title XIII][/us/pl/102/550/tXIII], § 1363, Oct. 28, 1992, [106 Stat. 3976][/us/stat/106/3976]; [Pub. L. 110–289, div. A, title I][/us/pl/110/289/dA/tI], § 1141(a), July 30, 2008, [122 Stat. 2730][/us/stat/122/2730].)
 
  __Amendments__ 
 
@@ -43,7 +43,7 @@
 
  __Regulations__ 
 
-[Pub. L. 110–289, div. A, title I, § 1141(b)][/us/pl/110/289/s1141/b], July 30, 2008, [122 Stat. 2730][/us/stat/122/2730], provided that: 
+[Pub. L. 110–289, div. A, title I][/us/pl/110/289/dA/tI], § 1141(b), July 30, 2008, [122 Stat. 2730][/us/stat/122/2730], provided that: 
 
 > “Not later than the expiration of the 180-day period beginning on the date of enactment of this Act \[July 30, 2008\], the Director of the Federal Housing Finance Agency shall issue regulations pursuant to section 1363(b) of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 \[[12 U.S.C. 4613(b)][/us/usc/t12/s4613/b]\] (as added by this section) establishing the critical capital level under such section.”
 
@@ -54,12 +54,12 @@
 ----------
 ----------
 
-[/us/pl/102/550/s1363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1363
+[/us/pl/102/550/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIII
 [/us/stat/106/3976]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3976
-[/us/pl/110/289/s1141/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1141%2Fa
+[/us/pl/110/289/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtI
 [/us/stat/122/2730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2730
 [/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
-[/us/pl/110/289/s1141/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1141%2Fb
+[/us/pl/110/289/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtI
 [/us/stat/122/2730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2730
 [/us/usc/t12/s4613/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4613%2Fb
 

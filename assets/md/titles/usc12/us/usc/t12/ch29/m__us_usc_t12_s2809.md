@@ -27,11 +27,11 @@
 
         The data and tables required pursuant to subsection (a) shall be made available to the public by no later than December 31 of the year following the calendar year on which the data is based.
 
-([Pub. L. 94–200, title III, § 310][/us/pl/94/200/s310], as added [Pub. L. 96–399, title III, § 340(c)][/us/pl/96/399/s340/c], Oct. 8, 1980, [94 Stat. 1658][/us/stat/94/1658]; amended [Pub. L. 98–181, title I][/us/pl/98/181] \[title VII, § 701(a)\], Nov. 30, 1983, [97 Stat. 1266][/us/stat/97/1266]; [Pub. L. 111–203, title X, § 1094(1)][/us/pl/111/203/s1094/1], July 21, 2010, [124 Stat. 2097][/us/stat/124/2097].)
+([Pub. L. 94–200, title III][/us/pl/94/200/tIII], § 310, as added [Pub. L. 96–399, title III][/us/pl/96/399/tIII], § 340(c), Oct. 8, 1980, [94 Stat. 1658][/us/stat/94/1658]; amended [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title VII, § 701(a)\], Nov. 30, 1983, [97 Stat. 1266][/us/stat/97/1266]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1094(1), July 21, 2010, [124 Stat. 2097][/us/stat/124/2097].)
 
  __Prior Provisions__ 
 
-    A prior section 2809, [Pub. L. 94–200, title III, § 310][/us/pl/94/200/s310], Dec. 31, 1975, [89 Stat. 1128][/us/stat/89/1128], provided for termination of authority granted by this chapter, prior to repeal by [section 340(b) of Pub. L. 96–399][/us/pl/96/399/s340/b]. See [section 2811 of this title][/us/usc/t12/s2811].
+    A prior section 2809, [Pub. L. 94–200, title III][/us/pl/94/200/tIII], § 310, Dec. 31, 1975, [89 Stat. 1128][/us/stat/89/1128], provided for termination of authority granted by this chapter, prior to repeal by [section 340(b) of Pub. L. 96–399][/us/pl/96/399/s340/b]. See [section 2811 of this title][/us/usc/t12/s2811].
 
  __Amendments__ 
 
@@ -52,14 +52,14 @@
 
 [/us/usc/t12/s2803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2803
 [/us/usc/t12/s2805/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2805%2Fb
-[/us/pl/94/200/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F200%2Fs310
-[/us/pl/96/399/s340/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs340%2Fc
+[/us/pl/94/200/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F200%2FtIII
+[/us/pl/96/399/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2FtIII
 [/us/stat/94/1658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1658
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1266
-[/us/pl/111/203/s1094/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1094%2F1
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2097
-[/us/pl/94/200/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F200%2Fs310
+[/us/pl/94/200/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F200%2FtIII
 [/us/stat/89/1128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1128
 [/us/pl/96/399/s340/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs340%2Fb
 [/us/usc/t12/s2811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2811

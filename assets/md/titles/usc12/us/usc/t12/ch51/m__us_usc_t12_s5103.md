@@ -39,7 +39,7 @@
 
             An independent contractor may not engage in residential mortgage loan origination activities as a loan processor or underwriter unless such independent contractor is a State-licensed loan originator.
 
-([Pub. L. 110–289, div. A, title V, § 1504][/us/pl/110/289/s1504], July 30, 2008, [122 Stat. 2814][/us/stat/122/2814].)
+([Pub. L. 110–289, div. A, title V][/us/pl/110/289/dA/tV], § 1504, July 30, 2008, [122 Stat. 2814][/us/stat/122/2814].)
 
 ----------
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/110/289/s1504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1504
+[/us/pl/110/289/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtV
 [/us/stat/122/2814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2814
 
 

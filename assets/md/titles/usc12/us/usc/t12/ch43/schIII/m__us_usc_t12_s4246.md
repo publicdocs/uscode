@@ -17,7 +17,7 @@
 
     When the United States, through private counsel retained under this subchapter, prevails in any civil action, the court, in its discretion, may allow the United States reasonable attorney’s fees and other expenses of litigation as part of the costs.
 
-([Pub. L. 101–647, title XXV, § 2593][/us/pl/101/647/s2593], Nov. 29, 1990, [104 Stat. 4906][/us/stat/104/4906].)
+([Pub. L. 101–647, title XXV][/us/pl/101/647/tXXV], § 2593, Nov. 29, 1990, [104 Stat. 4906][/us/stat/104/4906].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/101/647/s2593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2593
+[/us/pl/101/647/tXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXV
 [/us/stat/104/4906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4906
 
 

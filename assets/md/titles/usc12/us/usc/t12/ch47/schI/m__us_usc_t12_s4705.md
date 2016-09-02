@@ -55,7 +55,7 @@
 
         All other requirements and limitations imposed by this subchapter on a community development financial institution assisted under this subchapter shall apply (in the manner that the Fund determines to be appropriate) to assistance provided to carry out community partnerships. The Fund may establish additional guidelines and restrictions on the use of Federal funds to carry out community partnerships.
 
-([Pub. L. 103–325, title I, § 106][/us/pl/103/325/s106], Sept. 23, 1994, [108 Stat. 2171][/us/stat/108/2171].)
+([Pub. L. 103–325, title I][/us/pl/103/325/tI], § 106, Sept. 23, 1994, [108 Stat. 2171][/us/stat/108/2171].)
 
 ----------
 
@@ -68,7 +68,7 @@
 [/us/usc/t12/s4704/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4704%2Fb
 [/us/usc/t12/s4704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4704
 [/us/usc/t12/s4706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4706
-[/us/pl/103/325/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs106
+[/us/pl/103/325/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtI
 [/us/stat/108/2171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2171
 
 

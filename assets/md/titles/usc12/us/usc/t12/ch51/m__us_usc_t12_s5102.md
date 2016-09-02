@@ -171,27 +171,27 @@
 
             To the greatest extent possible and to accomplish the purpose of this chapter, States shall use unique identifiers in lieu of social security numbers.
 
-([Pub. L. 110–289, div. A, title V, § 1503][/us/pl/110/289/s1503], July 30, 2008, [122 Stat. 2811][/us/stat/122/2811]; [Pub. L. 111–203, title X, § 1100(2)][/us/pl/111/203/s1100/2]–(4), July 21, 2010, [124 Stat. 2106][/us/stat/124/2106].)
+([Pub. L. 110–289, div. A, title V][/us/pl/110/289/dA/tV], § 1503, July 30, 2008, [122 Stat. 2811][/us/stat/122/2811]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1100(2)–(4), July 21, 2010, [124 Stat. 2106][/us/stat/124/2106].)
 
  __References in Text__ 
 
-    [Section 1602(v) of title 15][/us/usc/t15/s1602/v], referred to in par. (9), was redesignated [section 1602(w) of title 15][/us/usc/t15/s1602/w] by [Pub. L. 111–203, title X, § 1100A(1)(A)][/us/pl/111/203/s1100A/1/A], July 21, 2010, [124 Stat. 2107][/us/stat/124/2107].
+    [Section 1602(v) of title 15][/us/usc/t15/s1602/v], referred to in par. (9), was redesignated [section 1602(w) of title 15][/us/usc/t15/s1602/w] by [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1100A(1)(A), July 21, 2010, [124 Stat. 2107][/us/stat/124/2107].
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–203, § 1100(4)(A)][/us/pl/111/203/s1100/4/A], redesignated pars. (2) to (12) as (3) to (13), respectively.
+    2010—[Pub. L. 111–203][/us/pl/111/203], § 1100(4)(A), redesignated pars. (2) to (12) as (3) to (13), respectively.
 
-    Par. (1). [Pub. L. 111–203, § 1100(4)(B)][/us/pl/111/203/s1100/4/B], added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “The term ‘Federal banking agencies’ means the Board of Governors of the Federal Reserve System, the Comptroller of the Currency, the Director of the Office of Thrift Supervision, the National Credit Union Administration, and the Federal Deposit Insurance Corporation.”
+    Par. (1). [Pub. L. 111–203][/us/pl/111/203], § 1100(4)(B), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “The term ‘Federal banking agencies’ means the Board of Governors of the Federal Reserve System, the Comptroller of the Currency, the Director of the Office of Thrift Supervision, the National Credit Union Administration, and the Federal Deposit Insurance Corporation.”
 
-    Par. (2). [Pub. L. 111–203, § 1100(4)(B)][/us/pl/111/203/s1100/4/B], added par. (2). Former par. (2) redesignated (3).
+    Par. (2). [Pub. L. 111–203][/us/pl/111/203], § 1100(4)(B), added par. (2). Former par. (2) redesignated (3).
 
-    Par. (5). [Pub. L. 111–203, § 1100(3)][/us/pl/111/203/s1100/3], substituted “Director” for “Secretary”.
+    Par. (5). [Pub. L. 111–203][/us/pl/111/203], § 1100(3), substituted “Director” for “Secretary”.
 
-    Par. (10). [Pub. L. 111–203, § 1100(4)(C)][/us/pl/111/203/s1100/4/C], added par. (10) and struck out former par. (10). Prior to amendment, text read as follows: “The term ‘Secretary’ means the Secretary of Housing and Urban Development.”
+    Par. (10). [Pub. L. 111–203][/us/pl/111/203], § 1100(4)(C), added par. (10) and struck out former par. (10). Prior to amendment, text read as follows: “The term ‘Secretary’ means the Secretary of Housing and Urban Development.”
 
-    Par. (11)(C). [Pub. L. 111–203, § 1100(3)][/us/pl/111/203/s1100/3], substituted “Director” for “Secretary”.
+    Par. (11)(C). [Pub. L. 111–203][/us/pl/111/203], § 1100(3), substituted “Director” for “Secretary”.
 
-    Par. (12)(A)(ii). [Pub. L. 111–203, § 1100(2)][/us/pl/111/203/s1100/2], substituted “Bureau” for “Federal banking agencies”.
+    Par. (12)(A)(ii). [Pub. L. 111–203][/us/pl/111/203], § 1100(2), substituted “Bureau” for “Federal banking agencies”.
 
  __Effective Date of 2010 Amendment__ 
 
@@ -211,21 +211,21 @@
 [/us/usc/t12/s1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813
 [/us/usc/t12/s5108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5108
 [/us/usc/t12/s5107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5107
-[/us/pl/110/289/s1503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1503
+[/us/pl/110/289/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtV
 [/us/stat/122/2811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2811
-[/us/pl/111/203/s1100/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100%2F2
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2106
 [/us/usc/t15/s1602/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1602%2Fv
 [/us/usc/t15/s1602/w]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1602%2Fw
-[/us/pl/111/203/s1100A/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F1%2FA
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2107
-[/us/pl/111/203/s1100/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100%2F4%2FA
-[/us/pl/111/203/s1100/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100%2F4%2FB
-[/us/pl/111/203/s1100/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100%2F4%2FB
-[/us/pl/111/203/s1100/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100%2F3
-[/us/pl/111/203/s1100/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100%2F4%2FC
-[/us/pl/111/203/s1100/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100%2F3
-[/us/pl/111/203/s1100/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100%2F2
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s1100H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100H
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a

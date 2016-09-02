@@ -35,7 +35,7 @@
 
         The Secretary shall allow funds to be administered by a State that has an existing program that is determined by the Secretary to provide substantially similar assistance to homeowners. After such determination is made such State shall not be required to modify such program to comply with the provisions of this chapter.
 
-([Pub. L. 94–50, title I, § 108][/us/pl/94/50/s108], July 2, 1975, [89 Stat. 252][/us/stat/89/252]; [Pub. L. 111–203, title XIV, § 1496(b)(5)][/us/pl/111/203/s1496/b/5], July 21, 2010, [124 Stat. 2208][/us/stat/124/2208].)
+([Pub. L. 94–50, title I][/us/pl/94/50/tI], § 108, July 2, 1975, [89 Stat. 252][/us/stat/89/252]; [Pub. L. 111–203, title XIV][/us/pl/111/203/tXIV], § 1496(b)(5), July 21, 2010, [124 Stat. 2208][/us/stat/124/2208].)
 
  __Amendments__ 
 
@@ -52,9 +52,9 @@
 ----------
 ----------
 
-[/us/pl/94/50/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F50%2Fs108
+[/us/pl/94/50/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F50%2FtI
 [/us/stat/89/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F252
-[/us/pl/111/203/s1496/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1496%2Fb%2F5
+[/us/pl/111/203/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtXIV
 [/us/stat/124/2208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2208
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203

@@ -63,7 +63,7 @@
 
         The Secretary shall grant preference to applications for insurance under this subchapter to mortgages covering housing of lower rents.
 
-([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title IX, § 908, as added [Sept. 1, 1951, ch. 378][/us/act/1951-09-01/ch378], title II, § 201, [65 Stat. 301][/us/stat/65/301]; amended [June 30, 1953, ch. 170, § 10(c)][/us/act/1953-06-30/ch170/s10/c], [67 Stat. 124][/us/stat/67/124]; [Aug. 2, 1954, ch. 649][/us/act/1954-08-02/ch649], title I, § 130, [68 Stat. 609][/us/stat/68/609]; [Pub. L. 89–117, title XI, § 1108(z)][/us/pl/89/117/s1108/z], Aug. 10, 1965, [79 Stat. 507][/us/stat/79/507]; [Pub. L. 90–19, § 1(a)(2)][/us/pl/90/19/s1/a/2], (3), May 25, 1967, [81 Stat. 17][/us/stat/81/17].)
+([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title IX, § 908, as added [Sept. 1, 1951, ch. 378][/us/act/1951-09-01/ch378], title II, § 201, [65 Stat. 301][/us/stat/65/301]; amended [June 30, 1953, ch. 170][/us/act/1953-06-30/ch170], § 10(c), [67 Stat. 124][/us/stat/67/124]; [Aug. 2, 1954, ch. 649][/us/act/1954-08-02/ch649], title I, § 130, [68 Stat. 609][/us/stat/68/609]; [Pub. L. 89–117, title XI][/us/pl/89/117/tXI], § 1108(z), Aug. 10, 1965, [79 Stat. 507][/us/stat/79/507]; [Pub. L. 90–19][/us/pl/90/19], § 1(a)(2), (3), May 25, 1967, [81 Stat. 17][/us/stat/81/17].)
 
  __References in Text__ 
 
@@ -71,15 +71,15 @@
 
  __Amendments__ 
 
-    1967—[Pub. L. 90–19, § 1(a)(3)][/us/pl/90/19/s1/a/3], substituted “Secretary” for “Commissioner” wherever appearing in subsecs. (a), (b)(1), (2)(B), (C), last par. following (C), (d), (f), and (h).
+    1967—[Pub. L. 90–19][/us/pl/90/19], § 1(a)(3), substituted “Secretary” for “Commissioner” wherever appearing in subsecs. (a), (b)(1), (2)(B), (C), last par. following (C), (d), (f), and (h).
 
-    Subsec. (g). [Pub. L. 90–19, § 1(a)(2)][/us/pl/90/19/s1/a/2], substituted “Secretary of Housing and Urban Development” for “Federal Housing Commissioner”.
+    Subsec. (g). [Pub. L. 90–19][/us/pl/90/19], § 1(a)(2), substituted “Secretary of Housing and Urban Development” for “Federal Housing Commissioner”.
 
-    1965—Subsec. (b)(1). [Pub. L. 89–117, § 1108(z)(1)][/us/pl/89/117/s1108/z/1], substituted “General Insurance Fund” for “National Defense Housing Insurance Fund”.
+    1965—Subsec. (b)(1). [Pub. L. 89–117][/us/pl/89/117], § 1108(z)(1), substituted “General Insurance Fund” for “National Defense Housing Insurance Fund”.
 
-    Subsec. (d). [Pub. L. 89–117, § 1108(z)(2)][/us/pl/89/117/s1108/z/2], struck out provision that reference in [section 1713(h) of this title][/us/usc/t12/s1713/h] to “the Housing Insurance Fund” shall be deemed for the purposes of this section to be a reference to the National Defense Housing Insurance Fund.
+    Subsec. (d). [Pub. L. 89–117][/us/pl/89/117], § 1108(z)(2), struck out provision that reference in [section 1713(h) of this title][/us/usc/t12/s1713/h] to “the Housing Insurance Fund” shall be deemed for the purposes of this section to be a reference to the National Defense Housing Insurance Fund.
 
-    Subsec. (f). [Pub. L. 89–117, § 1108(z)(3)][/us/pl/89/117/s1108/z/3], struck out provision that references in subsections (k) and (l) of [section 1713 of this title][/us/usc/t12/s1713] “Housing Fund” shall be construed to refer to the “National Defense Housing Insurance Fund”.
+    Subsec. (f). [Pub. L. 89–117][/us/pl/89/117], § 1108(z)(3), struck out provision that references in subsections (k) and (l) of [section 1713 of this title][/us/usc/t12/s1713] “Housing Fund” shall be construed to refer to the “National Defense Housing Insurance Fund”.
 
     1954—Subsec. (b)(3). Act Aug. 2, 1954, substituted requirement that mortgagor shall enter into the agreement required by [section 1715r of this title][/us/usc/t12/s1715r] for former provisions relating to certification of builders’ costs, such certifications now being prescribed in said section 1715r.
 
@@ -102,21 +102,21 @@
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
 [/us/act/1951-09-01/ch378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-09-01%2Fch378
 [/us/stat/65/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F301
-[/us/act/1953-06-30/ch170/s10/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-30%2Fch170%2Fs10%2Fc
+[/us/act/1953-06-30/ch170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-30%2Fch170
 [/us/stat/67/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F124
 [/us/act/1954-08-02/ch649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-02%2Fch649
 [/us/stat/68/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F609
-[/us/pl/89/117/s1108/z]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117%2Fs1108%2Fz
+[/us/pl/89/117/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117%2FtXI
 [/us/stat/79/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F507
-[/us/pl/90/19/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19%2Fs1%2Fa%2F2
+[/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
 [/us/stat/81/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F17
 [/us/usc/t12/s1735c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1735c
-[/us/pl/90/19/s1/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19%2Fs1%2Fa%2F3
-[/us/pl/90/19/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19%2Fs1%2Fa%2F2
-[/us/pl/89/117/s1108/z/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117%2Fs1108%2Fz%2F1
-[/us/pl/89/117/s1108/z/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117%2Fs1108%2Fz%2F2
+[/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
+[/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
+[/us/pl/89/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117
+[/us/pl/89/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117
 [/us/usc/t12/s1713/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1713%2Fh
-[/us/pl/89/117/s1108/z/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117%2Fs1108%2Fz%2F3
+[/us/pl/89/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117
 [/us/usc/t12/s1713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1713
 [/us/usc/t12/s1715r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715r
 

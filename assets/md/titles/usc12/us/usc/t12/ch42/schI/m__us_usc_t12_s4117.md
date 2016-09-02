@@ -41,11 +41,11 @@
 
         The Secretary may enter into any agreements necessary to implement an approved State preservation plan, which may include incentives that are authorized under other provisions of this subchapter.
 
-([Pub. L. 100–242, title II, § 227][/us/pl/100/242/s227], as added [Pub. L. 101–625, title VI, § 601(a)][/us/pl/101/625/s601/a], Nov. 28, 1990, [104 Stat. 4270][/us/stat/104/4270].)
+([Pub. L. 100–242, title II][/us/pl/100/242/tII], § 227, as added [Pub. L. 101–625, title VI][/us/pl/101/625/tVI], § 601(a), Nov. 28, 1990, [104 Stat. 4270][/us/stat/104/4270].)
 
  __Regulations__ 
 
-[Pub. L. 102–550, title III, § 315][/us/pl/102/550/s315], Oct. 28, 1992, [106 Stat. 3770][/us/stat/106/3770], provided that: 
+[Pub. L. 102–550, title III][/us/pl/102/550/tIII], § 315, Oct. 28, 1992, [106 Stat. 3770][/us/stat/106/3770], provided that: 
 
 > “The Secretary of Housing and Urban Development shall issue interim regulations implementing section 227 of the Housing and Community Development Act of 1987 (as amended by section 601(a) of the Cranston-Gonzalez National Affordable Housing Act) \[[12 U.S.C. 4117][/us/usc/t12/s4117]\] not later than the expiration of the 30-day period beginning on the date of the enactment of this Act \[Oct. 28, 1992\], which shall take effect upon issuance. The Secretary shall issue final regulations implementing such section 227 after notice and opportunity for public comment regarding the interim regulations, pursuant to the provisions of [section 553 of title 5][/us/usc/t5/s553], United States Code (notwithstanding subsections (a)(2), (b)(B), and (d)(3) of such section). The duration of the period for public comment shall not be less than 60 days, and the final regulations shall be issued not later than the expiration of the 60-day period beginning upon the conclusion of the comment period and shall take effect upon issuance.”
 
@@ -58,10 +58,10 @@
 
 [/us/usc/t12/s4103/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4103%2Fc
 [/us/usc/t42/s12705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12705
-[/us/pl/100/242/s227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs227
-[/us/pl/101/625/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs601%2Fa
+[/us/pl/100/242/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtII
+[/us/pl/101/625/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtVI
 [/us/stat/104/4270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4270
-[/us/pl/102/550/s315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs315
+[/us/pl/102/550/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtIII
 [/us/stat/106/3770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3770
 [/us/usc/t12/s4117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4117
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553

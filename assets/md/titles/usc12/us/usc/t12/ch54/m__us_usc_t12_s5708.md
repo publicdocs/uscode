@@ -41,7 +41,7 @@
 
         During the 1-year period beginning on September 27, 2010, the Secretary may enter into contracts without regard to any other provision of law regarding public contracts, for purposes of carrying out this chapter.
 
-([Pub. L. 111–240, title III, § 3009][/us/pl/111/240/s3009], Sept. 27, 2010, [124 Stat. 2580][/us/stat/124/2580].)
+([Pub. L. 111–240, title III][/us/pl/111/240/tIII], § 3009, Sept. 27, 2010, [124 Stat. 2580][/us/stat/124/2580].)
 
 ----------
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/111/240/s3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs3009
+[/us/pl/111/240/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2FtIII
 [/us/stat/124/2580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2580
 
 

@@ -75,7 +75,7 @@
 
                 Each primary financial regulatory agency that has imposed standards under this section shall promulgate regulations to establish a procedure under which entities under its jurisdiction may appeal a determination by such agency under this paragraph that standards imposed under this section should remain in effect.
 
-([Pub. L. 111–203, title I, § 120][/us/pl/111/203/s120], July 21, 2010, [124 Stat. 1408][/us/stat/124/1408].)
+([Pub. L. 111–203, title I][/us/pl/111/203/tI], § 120, July 21, 2010, [124 Stat. 1408][/us/stat/124/1408].)
 
 ----------
 
@@ -85,7 +85,7 @@
 ----------
 
 [/us/usc/t12/s5325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5325
-[/us/pl/111/203/s120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs120
+[/us/pl/111/203/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtI
 [/us/stat/124/1408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1408
 
 

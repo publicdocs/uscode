@@ -17,7 +17,7 @@
 
     Vouchers approved by the Governor of the Farm Credit Administration for expenditures from the revolving fund pursuant to any loan or advance or from insurance moneys pursuant to any insurance agreement, shall be final and conclusive upon all officers of the Government; except that all financial transactions of the administration shall, subject to the above limitations, be examined by the Government Accountability Office at such times and in such manner as the Comptroller General of the United States may by regulation prescribe.
 
-([June 15, 1929, ch. 24, § 14][/us/act/1929-06-15/ch24/s14], [46 Stat. 18][/us/stat/46/18]; Ex. Ord. No. 6084, Mar. 27, 1933; [Aug. 30, 1954, ch. 1076, § 1(30)][/us/act/1954-08-30/ch1076/s1/30], [68 Stat. 968][/us/stat/68/968]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
+([June 15, 1929, ch. 24][/us/act/1929-06-15/ch24], § 14, [46 Stat. 18][/us/stat/46/18]; Ex. Ord. No. 6084, Mar. 27, 1933; [Aug. 30, 1954, ch. 1076][/us/act/1954-08-30/ch1076], § 1(30), [68 Stat. 968][/us/stat/68/968]; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
 
  __Codification__ 
 
@@ -43,7 +43,7 @@
 
  __Insurance Agreements__ 
 
-    Insurance agreements, referred to in the text, were authorized to be made by section 11 of act June 15, 1929, which section was repealed by [act June 16, 1933, ch. 98][/us/act/1933-06-16/ch98], title V, § 50(a), [48 Stat. 265][/us/stat/48/265]. Section 11 authorized the former Federal Farm Board, upon application of cooperative associations, to enter into agreements subject to specified conditions, for the insurance of the associations against loss through price decline in the agricultural commodity handled by the associations and produced by the members thereof.
+    Insurance agreements, referred to in the text, were authorized to be made by section 11 of act June 15, 1929, which section was repealed by [act June 16, 1933, ch. 98, title V][/us/act/1933-06-16/ch98/tV], § 50(a), [48 Stat. 265][/us/stat/48/265]. Section 11 authorized the former Federal Farm Board, upon application of cooperative associations, to enter into agreements subject to specified conditions, for the insurance of the associations against loss through price decline in the agricultural commodity handled by the associations and produced by the members thereof.
 
 ----------
 
@@ -52,17 +52,17 @@
 ----------
 ----------
 
-[/us/act/1929-06-15/ch24/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-06-15%2Fch24%2Fs14
+[/us/act/1929-06-15/ch24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-06-15%2Fch24
 [/us/stat/46/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F18
-[/us/act/1954-08-30/ch1076/s1/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1076%2Fs1%2F30
+[/us/act/1954-08-30/ch1076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1076
 [/us/stat/68/968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F968
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
 [/us/usc/t7/s534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs534
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/usc/t12/s2241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2241
 [/us/stat/67/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F633
-[/us/act/1933-06-16/ch98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-16%2Fch98
+[/us/act/1933-06-16/ch98/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-16%2Fch98%2FtV
 [/us/stat/48/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F265
 
 

@@ -17,7 +17,7 @@
 
     The Farm Credit Administration and the Government Accountability Office are hereby authorized and directed to examine and audit the Bank. Reports regarding such examinations and audits shall be promptly forwarded to both Houses of the Congress. The Bank shall reimburse the Farm Credit Administration for the costs of any examination or audit conducted by the Farm Credit Administration.
 
-([Pub. L. 95–351, title I, § 115][/us/pl/95/351/s115], Aug. 20, 1978, [92 Stat. 511][/us/stat/92/511]; [Pub. L. 97–35, title III, § 394(a)(1)][/us/pl/97/35/s394/a/1], Aug. 13, 1981, [95 Stat. 436][/us/stat/95/436]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
+([Pub. L. 95–351, title I][/us/pl/95/351/tI], § 115, Aug. 20, 1978, [92 Stat. 511][/us/stat/92/511]; [Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 394(a)(1), Aug. 13, 1981, [95 Stat. 436][/us/stat/95/436]; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
 
  __Amendments__ 
 
@@ -27,7 +27,7 @@
 
  __Effective Date of 1981 Amendment__ 
 
-[Pub. L. 97–35, title III, § 394(a)(2)][/us/pl/97/35/s394/a/2], Aug. 13, 1981, [95 Stat. 436][/us/stat/95/436], provided that: 
+[Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 394(a)(2), Aug. 13, 1981, [95 Stat. 436][/us/stat/95/436], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall take effect on the day after the Final Government Equity Redemption Date \[Dec. 31, 1981\].”
 
@@ -40,15 +40,15 @@
 ----------
 ----------
 
-[/us/pl/95/351/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F351%2Fs115
+[/us/pl/95/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F351%2FtI
 [/us/stat/92/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F511
-[/us/pl/97/35/s394/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs394%2Fa%2F1
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F436
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
-[/us/pl/97/35/s394/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs394%2Fa%2F2
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F436
 [/us/pl/97/35/s396/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs396%2Fa
 [/us/usc/t12/s3012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3012

@@ -17,7 +17,7 @@
 
     For each fiscal year in which a program or project is carried out under this subchapter, the Secretary shall submit a report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives containing a description of the activities funded, amounts distributed, and measurable results, as appropriate and available.
 
-([Pub. L. 111–203, title XII, § 1210][/us/pl/111/203/s1210], July 21, 2010, [124 Stat. 2133][/us/stat/124/2133].)
+([Pub. L. 111–203, title XII][/us/pl/111/203/tXII], § 1210, July 21, 2010, [124 Stat. 2133][/us/stat/124/2133].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/111/203/s1210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1210
+[/us/pl/111/203/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtXII
 [/us/stat/124/2133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2133
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/2129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2129

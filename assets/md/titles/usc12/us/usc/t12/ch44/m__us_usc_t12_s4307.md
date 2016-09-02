@@ -25,7 +25,7 @@
 
     (4) The number of days in the reporting period.
 
-([Pub. L. 102–242, title II, § 268][/us/pl/102/242/s268], Dec. 19, 1991, [105 Stat. 2338][/us/stat/105/2338].)
+([Pub. L. 102–242, title II][/us/pl/102/242/tII], § 268, Dec. 19, 1991, [105 Stat. 2338][/us/stat/105/2338].)
 
 ----------
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/102/242/s268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs268
+[/us/pl/102/242/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtII
 [/us/stat/105/2338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2338
 
 

@@ -45,7 +45,7 @@
 
             This subsection shall only apply if a loan being placed in nonaccrual status results in an adverse action being taken against the borrower.
 
-([Pub. L. 92–181, title IV, § 4][/us/pl/92/181/s4].14D, as added [Pub. L. 100–233, title I, § 107][/us/pl/100/233/s107], Jan. 6, 1988, [101 Stat. 1581][/us/stat/101/1581].)
+([Pub. L. 92–181, title IV][/us/pl/92/181/tIV], § 4.14D, as added [Pub. L. 100–233, title I][/us/pl/100/233/tI], § 107, Jan. 6, 1988, [101 Stat. 1581][/us/stat/101/1581].)
 
 ----------
 
@@ -55,8 +55,8 @@
 ----------
 
 [/us/usc/t12/s2202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2202
-[/us/pl/92/181/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs4
-[/us/pl/100/233/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs107
+[/us/pl/92/181/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtIV
+[/us/pl/100/233/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtI
 [/us/stat/101/1581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1581
 
 

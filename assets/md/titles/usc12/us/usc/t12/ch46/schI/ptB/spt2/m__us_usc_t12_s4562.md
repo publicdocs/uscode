@@ -125,7 +125,7 @@
 
         The Director shall determine whether an enterprise shall receive full, partial, or no credit for a transaction toward achievement of any of the housing goals established pursuant to section 4562 and 4563 of this title. In making any such determination, the Director shall consider whether a transaction or activity of an enterprise is substantially equivalent to a mortgage purchase and either (1) creates a new market, or (2) adds liquidity to an existing market. No credit toward the achievement of the housing goals and subgoals established under this section may be given to the purchase of mortgages, including any transaction or activity of an enterprise determined to be substantially equivalent to a mortgage purchase, that is determined to be unacceptable or contrary to good lending practices, inconsistent with safety and soundness, or unauthorized for purchase by the enterprises, pursuant to regulations issued by the Director.
 
-([Pub. L. 102–550, title XIII, § 1332][/us/pl/102/550/s1332], as added [Pub. L. 110–289, div. A, title I, § 1128(b)][/us/pl/110/289/s1128/b], July 30, 2008, [122 Stat. 2697][/us/stat/122/2697].)
+([Pub. L. 102–550, title XIII][/us/pl/102/550/tXIII], § 1332, as added [Pub. L. 110–289, div. A, title I][/us/pl/110/289/dA/tI], § 1128(b), July 30, 2008, [122 Stat. 2697][/us/stat/122/2697].)
 
  __References in Text__ 
 
@@ -133,11 +133,11 @@
 
  __Prior Provisions__ 
 
-    A prior section 4562, [Pub. L. 102–550, title XIII, § 1332][/us/pl/102/550/s1332], Oct. 28, 1992, [106 Stat. 3956][/us/stat/106/3956], related to low- and moderate-income housing goal, prior to repeal by [Pub. L. 110–289, div. A, title I, § 1128(a)][/us/pl/110/289/s1128/a], July 30, 2008, [122 Stat. 2696][/us/stat/122/2696].
+    A prior section 4562, [Pub. L. 102–550, title XIII][/us/pl/102/550/tXIII], § 1332, Oct. 28, 1992, [106 Stat. 3956][/us/stat/106/3956], related to low- and moderate-income housing goal, prior to repeal by [Pub. L. 110–289, div. A, title I][/us/pl/110/289/dA/tI], § 1128(a), July 30, 2008, [122 Stat. 2696][/us/stat/122/2696].
 
  __Effective Date__ 
 
-    [Pub. L. 102–550, title XIII, § 1338][/us/pl/102/550/s1338], Oct. 28, 1992, [106 Stat. 3964][/us/stat/106/3964], which provided the effective date for housing goals established under former sections 4562(d), 4563(d), and 4564(d) of this title, was repealed by [Pub. L. 110–289, div. A, title I, § 1122(a)(2)][/us/pl/110/289/s1122/a/2], July 30, 2008, [122 Stat. 2689][/us/stat/122/2689].
+    [Pub. L. 102–550, title XIII][/us/pl/102/550/tXIII], § 1338, Oct. 28, 1992, [106 Stat. 3964][/us/stat/106/3964], which provided the effective date for housing goals established under former sections 4562(d), 4563(d), and 4564(d) of this title, was repealed by [Pub. L. 110–289, div. A, title I][/us/pl/110/289/dA/tI], § 1122(a)(2), July 30, 2008, [122 Stat. 2689][/us/stat/122/2689].
 
 ----------
 
@@ -150,19 +150,19 @@
 [/us/usc/t12/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2801
 [/us/usc/t12/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2801
 [/us/usc/t12/s4566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4566
-[/us/pl/102/550/s1332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1332
-[/us/pl/110/289/s1128/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1128%2Fb
+[/us/pl/102/550/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIII
+[/us/pl/110/289/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtI
 [/us/stat/122/2697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2697
 [/us/pl/94/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F200
 [/us/stat/89/1125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1125
 [/us/usc/t12/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2801
-[/us/pl/102/550/s1332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1332
+[/us/pl/102/550/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIII
 [/us/stat/106/3956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3956
-[/us/pl/110/289/s1128/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1128%2Fa
+[/us/pl/110/289/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtI
 [/us/stat/122/2696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2696
-[/us/pl/102/550/s1338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1338
+[/us/pl/102/550/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIII
 [/us/stat/106/3964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3964
-[/us/pl/110/289/s1122/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1122%2Fa%2F2
+[/us/pl/110/289/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtI
 [/us/stat/122/2689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2689
 
 

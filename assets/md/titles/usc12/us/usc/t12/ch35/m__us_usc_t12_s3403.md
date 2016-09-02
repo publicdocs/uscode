@@ -33,7 +33,7 @@
 
         (2) Nothing in this chapter shall preclude a financial institution, as an incident to processing an application for assistance to a customer in the form of a Government loan, loan guaranty, or loan insurance agreement, or as an incident to processing a default on, or administering, a Government guaranteed or insured loan, from initiating contact with an appropriate Government authority for the purpose of providing any financial record necessary to permit such authority to carry out its responsibilities under a loan, loan guaranty, or loan insurance agreement.
 
-([Pub. L. 95–630, title XI, § 1103][/us/pl/95/630/s1103], Nov. 10, 1978, [92 Stat. 3698][/us/stat/92/3698]; [Pub. L. 99–570, title I, § 1353(a)][/us/pl/99/570/s1353/a], Oct. 27, 1986, [100 Stat. 3207–21][/us/stat/100/3207-21]; [Pub. L. 100–690, title VI, § 6186(a)][/us/pl/100/690/s6186/a], Nov. 18, 1988, [102 Stat. 4357][/us/stat/102/4357].)
+([Pub. L. 95–630, title XI][/us/pl/95/630/tXI], § 1103, Nov. 10, 1978, [92 Stat. 3698][/us/stat/92/3698]; [Pub. L. 99–570, title I][/us/pl/99/570/tI], § 1353(a), Oct. 27, 1986, [100 Stat. 3207–21][/us/stat/100/3207-21]; [Pub. L. 100–690, title VI][/us/pl/100/690/tVI], § 6186(a), Nov. 18, 1988, [102 Stat. 4357][/us/stat/102/4357].)
 
  __Amendments__ 
 
@@ -48,11 +48,11 @@
 ----------
 ----------
 
-[/us/pl/95/630/s1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs1103
+[/us/pl/95/630/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtXI
 [/us/stat/92/3698]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3698
-[/us/pl/99/570/s1353/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1353%2Fa
+[/us/pl/99/570/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtI
 [/us/stat/100/3207-21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-21
-[/us/pl/100/690/s6186/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6186%2Fa
+[/us/pl/100/690/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVI
 [/us/stat/102/4357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4357
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570

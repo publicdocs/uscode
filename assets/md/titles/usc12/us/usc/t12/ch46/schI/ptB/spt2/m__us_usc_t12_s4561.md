@@ -57,11 +57,11 @@
 
             In carrying out this subsection, the Director shall ensure that no property-related or financial information that would enable a borrower to be identified shall be made public.
 
-([Pub. L. 102–550, title XIII, § 1331][/us/pl/102/550/s1331], as added [Pub. L. 110–289, div. A, title I, § 1128(b)][/us/pl/110/289/s1128/b], July 30, 2008, [122 Stat. 2696][/us/stat/122/2696].)
+([Pub. L. 102–550, title XIII][/us/pl/102/550/tXIII], § 1331, as added [Pub. L. 110–289, div. A, title I][/us/pl/110/289/dA/tI], § 1128(b), July 30, 2008, [122 Stat. 2696][/us/stat/122/2696].)
 
  __Prior Provisions__ 
 
-    A prior section 4561, [Pub. L. 102–550, title XIII, § 1331][/us/pl/102/550/s1331], Oct. 28, 1992, [106 Stat. 3956][/us/stat/106/3956], related to establishment of housing goals, prior to repeal by [Pub. L. 110–289, div. A, title I, § 1128(a)][/us/pl/110/289/s1128/a], July 30, 2008, [122 Stat. 2696][/us/stat/122/2696].
+    A prior section 4561, [Pub. L. 102–550, title XIII][/us/pl/102/550/tXIII], § 1331, Oct. 28, 1992, [106 Stat. 3956][/us/stat/106/3956], related to establishment of housing goals, prior to repeal by [Pub. L. 110–289, div. A, title I][/us/pl/110/289/dA/tI], § 1128(a), July 30, 2008, [122 Stat. 2696][/us/stat/122/2696].
 
 ----------
 
@@ -72,12 +72,12 @@
 
 [/us/usc/t12/s4562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4562
 [/us/usc/t12/s4563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4563
-[/us/pl/102/550/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1331
-[/us/pl/110/289/s1128/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1128%2Fb
+[/us/pl/102/550/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIII
+[/us/pl/110/289/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtI
 [/us/stat/122/2696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2696
-[/us/pl/102/550/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1331
+[/us/pl/102/550/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIII
 [/us/stat/106/3956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3956
-[/us/pl/110/289/s1128/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1128%2Fa
+[/us/pl/110/289/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtI
 [/us/stat/122/2696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2696
 
 

@@ -17,7 +17,7 @@
 
     All banks or trust companies incorporated by special law or organized under the general laws of any State, which are members of the Federal reserve system, when designated for that purpose by the Secretary of the Treasury, shall be depositaries of public money, under such regulations as may be prescribed by the Secretary; and they may also be employed as financial agents of the Government; and they shall perform all such reasonable duties, as depositaries of public money and financial agents of the Government, as may be required of them. The Secretary of the Treasury shall require of the banks and trust companies thus designated satisfactory security, by the deposit of United States bonds or otherwise, for the safe keeping and prompt payment of the public money deposited with them and for the faithful performance of their duties as financial agents of the Government.
 
-([Dec. 23, 1913, ch. 6, § 9][/us/act/1913-12-23/ch6/s9] (par.), as added [May 7, 1928, ch. 507][/us/act/1928-05-07/ch507], [45 Stat. 492][/us/stat/45/492].)
+([Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 9 (par.), as added [May 7, 1928, ch. 507][/us/act/1928-05-07/ch507], [45 Stat. 492][/us/stat/45/492].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1913-12-23/ch6/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs9
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
 [/us/act/1928-05-07/ch507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-05-07%2Fch507
 [/us/stat/45/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F492
 [/us/stat/45/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F492

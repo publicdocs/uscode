@@ -17,7 +17,7 @@
 
  __Amendments__ 
 
-    1955—[Act Aug. 11, 1955, ch. 783][/us/act/1955-08-11/ch783], title IV, § 401, [69 Stat. 646][/us/stat/69/646], substituted “ARMED SERVICES” for “MILITARY” and inserted “MORTGAGE” in subchapter heading.
+    1955—[Act Aug. 11, 1955, ch. 783, title IV][/us/act/1955-08-11/ch783/tIV], § 401, [69 Stat. 646][/us/stat/69/646], substituted “ARMED SERVICES” for “MILITARY” and inserted “MORTGAGE” in subchapter heading.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1955-08-11/ch783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-11%2Fch783
+[/us/act/1955-08-11/ch783/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-11%2Fch783%2FtIV
 [/us/stat/69/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F646
 
 

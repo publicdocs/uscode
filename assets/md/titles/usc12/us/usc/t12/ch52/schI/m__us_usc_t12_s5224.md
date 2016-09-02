@@ -23,7 +23,7 @@
 
         For each type of financial institutions  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “institution”. </sup></sup>  that sells troubled assets to the Secretary under this chapter, the Secretary shall determine whether the public disclosure required for such financial institutions with respect to off-balance sheet transactions, derivatives instruments, contingent liabilities, and similar sources of potential exposure is adequate to provide to the public sufficient information as to the true financial position of the institutions. If such disclosure is not adequate for that purpose, the Secretary shall make recommendations for additional disclosure requirements to the relevant regulators.
 
-([Pub. L. 110–343, div. A, title I, § 114][/us/pl/110/343/s114], Oct. 3, 2008, [122 Stat. 3780][/us/stat/122/3780].)
+([Pub. L. 110–343, div. A, title I][/us/pl/110/343/dA/tI], § 114, Oct. 3, 2008, [122 Stat. 3780][/us/stat/122/3780].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/110/343/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs114
+[/us/pl/110/343/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdA%2FtI
 [/us/stat/122/3780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3780
 [/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
 [/us/stat/122/3765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3765

@@ -17,7 +17,7 @@
 
     Dividends may be payable only on nonvoting investment stock, if declared by the board of directors of the bank, subject to the general direction of the Farm Credit Administration.
 
-([Pub. L. 92–181, title III, § 3][/us/pl/92/181/s3].4, Dec. 10, 1971, [85 Stat. 604][/us/stat/85/604]; [Pub. L. 99–205, title II, § 205(e)(5)][/us/pl/99/205/s205/e/5], title VI, § 606, Dec. 23, 1985, [99 Stat. 1705][/us/stat/99/1705], 1711; [Pub. L. 100–233, title VIII, § 805][/us/pl/100/233/s805](l), Jan. 6, 1988, [101 Stat. 1715][/us/stat/101/1715].)
+([Pub. L. 92–181, title III][/us/pl/92/181/tIII], § 3.4, Dec. 10, 1971, [85 Stat. 604][/us/stat/85/604]; [Pub. L. 99–205, title II][/us/pl/99/205/tII], § 205(e)(5), title VI, § 606, Dec. 23, 1985, [99 Stat. 1705][/us/stat/99/1705], 1711; [Pub. L. 100–233, title VIII][/us/pl/100/233/tVIII], § 805(l), Jan. 6, 1988, [101 Stat. 1715][/us/stat/101/1715].)
 
  __Amendments__ 
 
@@ -36,11 +36,11 @@
 ----------
 ----------
 
-[/us/pl/92/181/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs3
+[/us/pl/92/181/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtIII
 [/us/stat/85/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F604
-[/us/pl/99/205/s205/e/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2Fs205%2Fe%2F5
+[/us/pl/99/205/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2FtII
 [/us/stat/99/1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1705
-[/us/pl/100/233/s805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs805
+[/us/pl/100/233/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtVIII
 [/us/stat/101/1715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1715
 [/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
 [/us/pl/99/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205

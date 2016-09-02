@@ -17,7 +17,7 @@
 
     State member banks shall be subject to the same limitations and conditions with respect to the purchasing, selling, underwriting, and holding of investment securities and stock as are applicable in the case of national banks under paragraph “Seventh” of [section 24 of this title][/us/usc/t12/s24]. This section shall not apply to any interest held by a State member bank in accordance with [section 24a of this title][/us/usc/t12/s24a] and subject to the same conditions and limitations provided in such section.
 
-([Dec. 23, 1913, ch. 6, § 9][/us/act/1913-12-23/ch6/s9] (par.), as added [June 16, 1933, ch. 89, § 5(c)][/us/act/1933-06-16/ch89/s5/c], [48 Stat. 165][/us/stat/48/165]; amended [Pub. L. 106–102, title I, § 121(d)(2)][/us/pl/106/102/s121/d/2], Nov. 12, 1999, [113 Stat. 1381][/us/stat/113/1381].)
+([Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 9 (par.), as added [June 16, 1933, ch. 89][/us/act/1933-06-16/ch89], § 5(c), [48 Stat. 165][/us/stat/48/165]; amended [Pub. L. 106–102, title I][/us/pl/106/102/tI], § 121(d)(2), Nov. 12, 1999, [113 Stat. 1381][/us/stat/113/1381].)
 
  __Codification__ 
 
@@ -40,10 +40,10 @@
 
 [/us/usc/t12/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs24
 [/us/usc/t12/s24a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs24a
-[/us/act/1913-12-23/ch6/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs9
-[/us/act/1933-06-16/ch89/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-16%2Fch89%2Fs5%2Fc
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
+[/us/act/1933-06-16/ch89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-16%2Fch89
 [/us/stat/48/165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F165
-[/us/pl/106/102/s121/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs121%2Fd%2F2
+[/us/pl/106/102/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtI
 [/us/stat/113/1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1381
 [/us/stat/48/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F16
 [/us/stat/49/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F704

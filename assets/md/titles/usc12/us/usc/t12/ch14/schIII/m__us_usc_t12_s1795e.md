@@ -25,7 +25,7 @@
 
     (b) The Secretary of the Treasury is authorized to lend to the Facility up to $500,000,000, in the event the Board certifies to the Secretary that the Facility does not have sufficient funds to meet liquidity needs of credit unions. Any such loan shall bear an interest rate not greater than one-eighth of 1 per centum above the current average market yield on outstanding obligations of the United States with remaining time to maturity comparable to the maturity of such loan. The authority of the Secretary to lend under this subsection shall be limited to such extent or in such amounts as are provided in advance in appropriation Acts.
 
-([June 26, 1934, ch. 750][/us/act/1934-06-26/ch750], title III, formerly subch. III, § 306, as added and amended [Pub. L. 95–630, title V, § 502(b)][/us/pl/95/630/s502/b], title XVIII, § 1802, Nov. 10, 1978, [92 Stat. 3681][/us/stat/92/3681], 3721; [Pub. L. 96–221, title III, § 309(a)(4)][/us/pl/96/221/s309/a/4], (b)(1), Mar. 31, 1980, [94 Stat. 149][/us/stat/94/149].)
+([June 26, 1934, ch. 750][/us/act/1934-06-26/ch750], title III, formerly subch. III, § 306, as added and amended [Pub. L. 95–630, title V][/us/pl/95/630/tV], § 502(b), title XVIII, § 1802, Nov. 10, 1978, [92 Stat. 3681][/us/stat/92/3681], 3721; [Pub. L. 96–221, title III][/us/pl/96/221/tIII], § 309(a)(4), (b)(1), Mar. 31, 1980, [94 Stat. 149][/us/stat/94/149].)
 
  __Codification__ 
 
@@ -33,9 +33,9 @@
 
  __Amendments__ 
 
-    1980—Subsecs. (a), (b). [Pub. L. 96–221, § 309(a)(4)][/us/pl/96/221/s309/a/4], substituted “Board” for “Administrator” wherever appearing, such change having been previously made by [Pub. L. 95–630][/us/pl/95/630].
+    1980—Subsecs. (a), (b). [Pub. L. 96–221][/us/pl/96/221], § 309(a)(4), substituted “Board” for “Administrator” wherever appearing, such change having been previously made by [Pub. L. 95–630][/us/pl/95/630].
 
-    1978—[Pub. L. 95–630, § 502(b)][/us/pl/95/630/s502/b], substituted “Board” for “Administrator” wherever appearing.
+    1978—[Pub. L. 95–630][/us/pl/95/630], § 502(b), substituted “Board” for “Administrator” wherever appearing.
 
  __Effective Date of 1978 Amendment__ 
 
@@ -49,15 +49,15 @@
 ----------
 
 [/us/act/1934-06-26/ch750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-26%2Fch750
-[/us/pl/95/630/s502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs502%2Fb
+[/us/pl/95/630/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtV
 [/us/stat/92/3681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3681
-[/us/pl/96/221/s309/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs309%2Fa%2F4
+[/us/pl/96/221/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2FtIII
 [/us/stat/94/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F149
 [/us/pl/96/221/s309/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs309%2Fb%2F1
 [/us/act/1934-06-26/ch750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-26%2Fch750
-[/us/pl/96/221/s309/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs309%2Fa%2F4
+[/us/pl/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221
 [/us/pl/95/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630
-[/us/pl/95/630/s502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs502%2Fb
+[/us/pl/95/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630
 [/us/pl/95/630/s509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs509
 [/us/usc/t12/s1752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1752
 

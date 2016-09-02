@@ -17,7 +17,7 @@
 
     Notwithstanding any other evidences of the intention of Congress, it is hereby declared to be the controlling intent of Congress that if any provision of this chapter, or the application thereof to any person or circumstances, is held invalid, the remainder of this chapter, or the application of such provision to persons or circumstances other than those as to which it is held invalid, shall not be affected thereby.
 
-([Pub. L. 91–351, title III, § 310][/us/pl/91/351/s310], July 24, 1970, [84 Stat. 457][/us/stat/84/457]; [Pub. L. 101–73, title VII, § 731][/us/pl/101/73/s731](l), Aug. 9, 1989, [103 Stat. 435][/us/stat/103/435].)
+([Pub. L. 91–351, title III][/us/pl/91/351/tIII], § 310, July 24, 1970, [84 Stat. 457][/us/stat/84/457]; [Pub. L. 101–73, title VII][/us/pl/101/73/tVII], § 731(l), Aug. 9, 1989, [103 Stat. 435][/us/stat/103/435].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/91/351/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F351%2Fs310
+[/us/pl/91/351/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F351%2FtIII
 [/us/stat/84/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F457
-[/us/pl/101/73/s731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs731
+[/us/pl/101/73/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtVII
 [/us/stat/103/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F435
 [/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
 

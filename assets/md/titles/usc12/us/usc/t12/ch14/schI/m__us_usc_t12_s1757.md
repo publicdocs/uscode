@@ -115,43 +115,43 @@
 
     (17) to exercise such incidental powers as shall be necessary or requisite to enable it to carry on effectively the business for which it is incorporated.
 
-([June 26, 1934, ch. 750][/us/act/1934-06-26/ch750], title I, § 107, formerly § 7, [48 Stat. 1218][/us/stat/48/1218]; [Dec. 6, 1937, ch. 3, § 2][/us/act/1937-12-06/ch3/s2], [51 Stat. 4][/us/stat/51/4]; [July 31, 1946, ch. 711, § 1][/us/act/1946-07-31/ch711/s1], [60 Stat. 744][/us/stat/60/744]; 1947 Reorg. Plan No. 1, § 401, eff. July 1, 1947, 12 F.R. 4534, [61 Stat. 952][/us/stat/61/952]; [June 29, 1948, ch. 711][/us/act/1948-06-29/ch711], §§ 1, 2, [62 Stat. 1091][/us/stat/62/1091]; [Oct. 25, 1949, ch. 713, § 1][/us/act/1949-10-25/ch713/s1], [63 Stat. 890][/us/stat/63/890]; [May 13, 1952, ch. 264][/us/act/1952-05-13/ch264], [66 Stat. 70][/us/stat/66/70]; renumbered § 8 and amended [Pub. L. 86–354, § 1][/us/pl/86/354/s1], Sept. 22, 1959, [73 Stat. 630][/us/stat/73/630]; [Pub. L. 88–353, § 1][/us/pl/88/353/s1], July 2, 1964, [78 Stat. 269][/us/stat/78/269]; [Pub. L. 89–429, § 7][/us/pl/89/429/s7], May 24, 1966, [80 Stat. 167][/us/stat/80/167]; [Pub. L. 90–44][/us/pl/90/44], §§ 2, 3, July 3, 1967, [81 Stat. 110][/us/stat/81/110], 111; [Pub. L. 90–375, § 1(1)][/us/pl/90/375/s1/1]–(3), July 5, 1968, [82 Stat. 284][/us/stat/82/284]; [Pub. L. 90–448, title VIII, § 807(n)][/us/pl/90/448/s807/n], Aug. 1, 1968, [82 Stat. 545][/us/stat/82/545]; [Pub. L. 91–206, § 2(1)][/us/pl/91/206/s2/1], Mar. 10, 1970, [84 Stat. 49][/us/stat/84/49]; renumbered title I, § 107, and amended [Pub. L. 91–468][/us/pl/91/468], §§ 1(2), 10, Oct. 19, 1970, [84 Stat. 994][/us/stat/84/994], 1017; [Pub. L. 92–318, title I, § 133(c)(4)][/us/pl/92/318/s133/c/4], June 23, 1972, [86 Stat. 270][/us/stat/86/270]; [Pub. L. 93–383, title VII, § 721][/us/pl/93/383/s721], title VIII, § 805(c)(5), Aug. 22, 1974, [88 Stat. 719][/us/stat/88/719], 727; [Pub. L. 93–495, title I, § 101(d)][/us/pl/93/495/s101/d], Oct. 28, 1974, [88 Stat. 1502][/us/stat/88/1502]; [Pub. L. 93–569, § 6][/us/pl/93/569/s6], Dec. 31, 1974, [88 Stat. 1866][/us/stat/88/1866]; [Pub. L. 95–22, title III][/us/pl/95/22], §§ 302, 303, Apr. 19, 1977, [91 Stat. 49][/us/stat/91/49], 51; [Pub. L. 95–630, title V, § 502(b)][/us/pl/95/630/s502/b], title XVIII, § 1803, Nov. 10, 1978, [92 Stat. 3681][/us/stat/92/3681], 3723; [Pub. L. 96–153, title III, § 323(d)][/us/pl/96/153/s323/d], Dec. 21, 1979, [93 Stat. 1120][/us/stat/93/1120]; [Pub. L. 96–161, title I, § 103(b)][/us/pl/96/161/s103/b], Dec. 28, 1979, [93 Stat. 1234][/us/stat/93/1234]; [Pub. L. 96–221, title III][/us/pl/96/221], §§ 305(b), 307, 309(a)(1), 310, Mar. 31, 1980, [94 Stat. 146–149][/us/stat/94/146-149]; [Pub. L. 97–320, title V][/us/pl/97/320], §§ 506–514, 516–518, Oct. 15, 1982, [96 Stat. 1528–1530][/us/stat/96/1528-1530]; [Pub. L. 97–457][/us/pl/97/457], §§ 25, 26, Jan. 12, 1983, [96 Stat. 2510][/us/stat/96/2510]; [Pub. L. 98–440, title I, § 105(b)][/us/pl/98/440/s105/b], Oct. 3, 1984, [98 Stat. 1691][/us/stat/98/1691]; [Pub. L. 98–479, title II, § 206][/us/pl/98/479/s206], Oct. 17, 1984, [98 Stat. 2234][/us/stat/98/2234]; [Pub. L. 100–86, title VII][/us/pl/100/86], §§ 702, 703, Aug. 10, 1987, [101 Stat. 652][/us/stat/101/652]; [Pub. L. 101–179, title II, § 206(b)][/us/pl/101/179/s206/b], Nov. 28, 1989, [103 Stat. 1311][/us/stat/103/1311]; [Pub. L. 103–325, title II, § 206(b)][/us/pl/103/325/s206/b], Sept. 23, 1994, [108 Stat. 2199][/us/stat/108/2199]; [Pub. L. 104–208, div. A, title II, § 2306][/us/pl/104/208/s2306], Sept. 30, 1996, [110 Stat. 3009–426][/us/stat/110/3009-426]; [Pub. L. 109–351, title V][/us/pl/109/351], §§ 502, 503, title VII, § 726(3)–(8), Oct. 13, 2006, [120 Stat. 1975][/us/stat/120/1975], 2002; [Pub. L. 111–203, title III, § 362(1)][/us/pl/111/203/s362/1], title X, § 1073(d), July 21, 2010, [124 Stat. 1549][/us/stat/124/1549], 2066.)
+([June 26, 1934, ch. 750][/us/act/1934-06-26/ch750], title I, § 107, formerly § 7, [48 Stat. 1218][/us/stat/48/1218]; [Dec. 6, 1937, ch. 3][/us/act/1937-12-06/ch3], § 2, [51 Stat. 4][/us/stat/51/4]; [July 31, 1946, ch. 711][/us/act/1946-07-31/ch711], § 1, [60 Stat. 744][/us/stat/60/744]; 1947 Reorg. Plan No. 1, § 401, eff. July 1, 1947, 12 F.R. 4534, [61 Stat. 952][/us/stat/61/952]; [June 29, 1948, ch. 711][/us/act/1948-06-29/ch711], §§ 1, 2, [62 Stat. 1091][/us/stat/62/1091]; [Oct. 25, 1949, ch. 713][/us/act/1949-10-25/ch713], § 1, [63 Stat. 890][/us/stat/63/890]; [May 13, 1952, ch. 264][/us/act/1952-05-13/ch264], [66 Stat. 70][/us/stat/66/70]; renumbered § 8 and amended [Pub. L. 86–354][/us/pl/86/354], § 1, Sept. 22, 1959, [73 Stat. 630][/us/stat/73/630]; [Pub. L. 88–353][/us/pl/88/353], § 1, July 2, 1964, [78 Stat. 269][/us/stat/78/269]; [Pub. L. 89–429][/us/pl/89/429], § 7, May 24, 1966, [80 Stat. 167][/us/stat/80/167]; [Pub. L. 90–44][/us/pl/90/44], §§ 2, 3, July 3, 1967, [81 Stat. 110][/us/stat/81/110], 111; [Pub. L. 90–375][/us/pl/90/375], § 1(1)–(3), July 5, 1968, [82 Stat. 284][/us/stat/82/284]; [Pub. L. 90–448, title VIII][/us/pl/90/448/tVIII], § 807(n), Aug. 1, 1968, [82 Stat. 545][/us/stat/82/545]; [Pub. L. 91–206][/us/pl/91/206], § 2(1), Mar. 10, 1970, [84 Stat. 49][/us/stat/84/49]; renumbered title I, § 107, and amended [Pub. L. 91–468][/us/pl/91/468], §§ 1(2), 10, Oct. 19, 1970, [84 Stat. 994][/us/stat/84/994], 1017; [Pub. L. 92–318, title I][/us/pl/92/318/tI], § 133(c)(4), June 23, 1972, [86 Stat. 270][/us/stat/86/270]; [Pub. L. 93–383, title VII][/us/pl/93/383/tVII], § 721, title VIII, § 805(c)(5), Aug. 22, 1974, [88 Stat. 719][/us/stat/88/719], 727; [Pub. L. 93–495, title I][/us/pl/93/495/tI], § 101(d), Oct. 28, 1974, [88 Stat. 1502][/us/stat/88/1502]; [Pub. L. 93–569][/us/pl/93/569], § 6, Dec. 31, 1974, [88 Stat. 1866][/us/stat/88/1866]; [Pub. L. 95–22, title III][/us/pl/95/22/tIII], §§ 302, 303, Apr. 19, 1977, [91 Stat. 49][/us/stat/91/49], 51; [Pub. L. 95–630, title V][/us/pl/95/630/tV], § 502(b), title XVIII, § 1803, Nov. 10, 1978, [92 Stat. 3681][/us/stat/92/3681], 3723; [Pub. L. 96–153, title III][/us/pl/96/153/tIII], § 323(d), Dec. 21, 1979, [93 Stat. 1120][/us/stat/93/1120]; [Pub. L. 96–161, title I][/us/pl/96/161/tI], § 103(b), Dec. 28, 1979, [93 Stat. 1234][/us/stat/93/1234]; [Pub. L. 96–221, title III][/us/pl/96/221/tIII], §§ 305(b), 307, 309(a)(1), 310, Mar. 31, 1980, [94 Stat. 146–149][/us/stat/94/146-149]; [Pub. L. 97–320, title V][/us/pl/97/320/tV], §§ 506–514, 516–518, Oct. 15, 1982, [96 Stat. 1528–1530][/us/stat/96/1528-1530]; [Pub. L. 97–457][/us/pl/97/457], §§ 25, 26, Jan. 12, 1983, [96 Stat. 2510][/us/stat/96/2510]; [Pub. L. 98–440, title I][/us/pl/98/440/tI], § 105(b), Oct. 3, 1984, [98 Stat. 1691][/us/stat/98/1691]; [Pub. L. 98–479, title II][/us/pl/98/479/tII], § 206, Oct. 17, 1984, [98 Stat. 2234][/us/stat/98/2234]; [Pub. L. 100–86, title VII][/us/pl/100/86/tVII], §§ 702, 703, Aug. 10, 1987, [101 Stat. 652][/us/stat/101/652]; [Pub. L. 101–179, title II][/us/pl/101/179/tII], § 206(b), Nov. 28, 1989, [103 Stat. 1311][/us/stat/103/1311]; [Pub. L. 103–325, title II][/us/pl/103/325/tII], § 206(b), Sept. 23, 1994, [108 Stat. 2199][/us/stat/108/2199]; [Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], § 2306, Sept. 30, 1996, [110 Stat. 3009–426][/us/stat/110/3009-426]; [Pub. L. 109–351, title V][/us/pl/109/351/tV], §§ 502, 503, title VII, § 726(3)–(8), Oct. 13, 2006, [120 Stat. 1975][/us/stat/120/1975], 2002; [Pub. L. 111–203, title III][/us/pl/111/203/tIII], § 362(1), title X, § 1073(d), July 21, 2010, [124 Stat. 1549][/us/stat/124/1549], 2066.)
 
  __References in Text__ 
 
-    [Section 77d(5) of title 15][/us/usc/t15/s77d/5], referred to in par. (15)(A), was redesignated [section 77d(a)(5) of Title 15][/us/usc/t15/s77d/a/5], Commerce and Trade, by [Pub. L. 112–106, title II, § 201(b)(1)][/us/pl/112/106/s201/b/1], (c)(1), Apr. 5, 2012, [126 Stat. 314][/us/stat/126/314].
+    [Section 77d(5) of title 15][/us/usc/t15/s77d/5], referred to in par. (15)(A), was redesignated [section 77d(a)(5) of Title 15][/us/usc/t15/s77d/a/5], Commerce and Trade, by [Pub. L. 112–106, title II][/us/pl/112/106/tII], § 201(b)(1), (c)(1), Apr. 5, 2012, [126 Stat. 314][/us/stat/126/314].
 
  __Codification__ 
 
-    In par. (7), “[section 9101(3) of title 31][/us/usc/t31/s9101/3]” substituted for “section 101 of the Government Corporation Control Act \[[31 U.S.C. 846][/us/usc/t31/s846]\]” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    In par. (7), “[section 9101(3) of title 31][/us/usc/t31/s9101/3]” substituted for “section 101 of the Government Corporation Control Act \[[31 U.S.C. 846][/us/usc/t31/s846]\]” on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
  __Amendments__ 
 
-    2010—Par. (8). [Pub. L. 111–203, § 362(1)][/us/pl/111/203/s362/1], struck out “or the Federal Savings and Loan Insurance Corporation” after “Federal Deposit Insurance Corporation”.
+    2010—Par. (8). [Pub. L. 111–203][/us/pl/111/203], § 362(1), struck out “or the Federal Savings and Loan Insurance Corporation” after “Federal Deposit Insurance Corporation”.
 
-    Par. (12). [Pub. L. 111–203, § 1073(d)][/us/pl/111/203/s1073/d], amended par. (12) generally. Prior to amendment, par. (12) read as follows: “in accordance with regulations prescribed by the Board—
+    Par. (12). [Pub. L. 111–203][/us/pl/111/203], § 1073(d), amended par. (12) generally. Prior to amendment, par. (12) read as follows: “in accordance with regulations prescribed by the Board—
 
     “(A) to sell, to persons in the field of membership, negotiable checks (including travelers checks), money orders, and other similar money transfer instruments (including international and domestic electronic fund transfers); and
 
     “(B) to cash checks and money orders and receive international and domestic electronic fund transfers for persons in the field of membership for a fee;”.
 
-    2006—Par. (5). [Pub. L. 109–351, § 502][/us/pl/109/351/s502], substituted “to make loans, the maturities of which shall not exceed 15 years,” for “to make loans, the maturities of which shall not exceed twelve years” in introductory provisions.
+    2006—Par. (5). [Pub. L. 109–351][/us/pl/109/351], § 502, substituted “to make loans, the maturities of which shall not exceed 15 years,” for “to make loans, the maturities of which shall not exceed twelve years” in introductory provisions.
 
-    Par. (5)(E). [Pub. L. 109–351, § 726(3)][/us/pl/109/351/s726/3], substituted semicolon for period at end.
+    Par. (5)(E). [Pub. L. 109–351][/us/pl/109/351], § 726(3), substituted semicolon for period at end.
 
-    Par. (6). [Pub. L. 109–351, § 726(4)][/us/pl/109/351/s726/4], substituted semicolon for period at end.
+    Par. (6). [Pub. L. 109–351][/us/pl/109/351], § 726(4), substituted semicolon for period at end.
 
-    Par. (7). [Pub. L. 109–351, § 726(4)][/us/pl/109/351/s726/4], substituted semicolon for period at end.
+    Par. (7). [Pub. L. 109–351][/us/pl/109/351], § 726(4), substituted semicolon for period at end.
 
-    Par. (7)(D). [Pub. L. 109–351, § 726(5)][/us/pl/109/351/s726/5], struck out “the Federal Savings and Loan Insurance Corporation or” before “the Federal Deposit Insurance Corporation”.
+    Par. (7)(D). [Pub. L. 109–351][/us/pl/109/351], § 726(5), struck out “the Federal Savings and Loan Insurance Corporation or” before “the Federal Deposit Insurance Corporation”.
 
-    Par. (7)(E). [Pub. L. 109–351, § 726(6)][/us/pl/109/351/s726/6], substituted “the Federal Housing Finance Board,” for “the Federal Home Loan Bank Board,”.
+    Par. (7)(E). [Pub. L. 109–351][/us/pl/109/351], § 726(6), substituted “the Federal Housing Finance Board,” for “the Federal Home Loan Bank Board,”.
 
-    Par. (9). [Pub. L. 109–351, § 726(7)][/us/pl/109/351/s726/7], made technical amendment to reference in original act which appears in text as reference to subchapter III.
+    Par. (9). [Pub. L. 109–351][/us/pl/109/351], § 726(7), made technical amendment to reference in original act which appears in text as reference to subchapter III.
 
-    Par. (12). [Pub. L. 109–351, § 503][/us/pl/109/351/s503], amended par. (12) generally. Prior to amendment, par. (12) read as follows: “in accordance with rules and regulations prescribed by the Board, to sell to members negotiable checks (including travelers checks), money orders, and other similar money transfer instruments, and to cash checks and money orders for members, for a fee;”.
+    Par. (12). [Pub. L. 109–351][/us/pl/109/351], § 503, amended par. (12) generally. Prior to amendment, par. (12) read as follows: “in accordance with rules and regulations prescribed by the Board, to sell to members negotiable checks (including travelers checks), money orders, and other similar money transfer instruments, and to cash checks and money orders for members, for a fee;”.
 
-    Par. (13). [Pub. L. 109–351, § 726(8)][/us/pl/109/351/s726/8], struck out “and” after semicolon at end.
+    Par. (13). [Pub. L. 109–351][/us/pl/109/351], § 726(8), struck out “and” after semicolon at end.
 
     1996—Par. (5)(A)(iv), (v). [Pub. L. 104–208][/us/pl/104/208] substituted “$20,000” for “$10,000”.
 
@@ -159,41 +159,41 @@
 
     1989—Pars. (16), (17). [Pub. L. 101–179][/us/pl/101/179] added par. (16) and redesignated former par. (16) as (17).
 
-    1987—Par. (5)(A)(ii). [Pub. L. 100–86, § 702][/us/pl/100/86/s702], substituted “15 years or any longer term which the Board may allow” for “fifteen years unless such loan is insured or guaranteed as provided in subparagraph (iii)”.
+    1987—Par. (5)(A)(ii). [Pub. L. 100–86][/us/pl/100/86], § 702, substituted “15 years or any longer term which the Board may allow” for “fifteen years unless such loan is insured or guaranteed as provided in subparagraph (iii)”.
 
-    Par. (6). [Pub. L. 100–86, § 703][/us/pl/100/86/s703], inserted “, representing equity,” after “payments”.
+    Par. (6). [Pub. L. 100–86][/us/pl/100/86], § 703, inserted “, representing equity,” after “payments”.
 
     1984—Par. (5)(A)(ii). [Pub. L. 98–479][/us/pl/98/479] inserted “a loan for the repair, alteration, or improvement of a residential dwelling which is the residence of a credit union member,”.
 
-    Pars. (15), (16). [Pub. L. 98–440, § 105(b)][/us/pl/98/440/s105/b], added par. (15) and redesignated former par. (15) as (16).
+    Pars. (15), (16). [Pub. L. 98–440][/us/pl/98/440], § 105(b), added par. (15) and redesignated former par. (15) as (16).
 
-    1983—Par. (5)(A)(i). [Pub. L. 97–457, § 25][/us/pl/97/457/s25], substituted “Administration” for “Association” after “National Credit Union”.
+    1983—Par. (5)(A)(i). [Pub. L. 97–457][/us/pl/97/457], § 25, substituted “Administration” for “Association” after “National Credit Union”.
 
-    Par. (7)(K). [Pub. L. 97–457, § 26][/us/pl/97/457/s26], redesignated cl. (L) as (K) and substituted a period for “; and” at end.
+    Par. (7)(K). [Pub. L. 97–457][/us/pl/97/457], § 26, redesignated cl. (L) as (K) and substituted a period for “; and” at end.
 
     1982—Par. (5)(A)(i). [Pub. L. 97–320][/us/pl/97/320], §§ 507–509, substituted “on” for “which is made to finance the acquisition of” after “real estate loan” and “that is or will be” for “for” after “cooperative unit,”, struck out “the sales price of which is not more than 150 per centum of the median sales price of residential real property situated in the geographical area (as determined by the board of directors) in which the property is located,” after “credit union member”, and inserted “or such other limits as shall be set by the National Credit Union Association Board” after “not exceeding thirty years”.
 
-    Par. (5)(A)(ii). [Pub. L. 97–320, § 510][/us/pl/97/320/s510], substituted “or a second mortgage loan secured by a residential dwelling” for “or for the repair, alteration, or improvement of a residential dwelling”.
+    Par. (5)(A)(ii). [Pub. L. 97–320][/us/pl/97/320], § 510, substituted “or a second mortgage loan secured by a residential dwelling” for “or for the repair, alteration, or improvement of a residential dwelling”.
 
-    Par. (5)(A)(iii). [Pub. L. 97–320, § 511][/us/pl/97/320/s511], inserted “, or with advance commitment to purchase the loan by,” and substituted “insurance, guarantee, or commitment” for “insurance or guarantee”.
+    Par. (5)(A)(iii). [Pub. L. 97–320][/us/pl/97/320], § 511, inserted “, or with advance commitment to purchase the loan by,” and substituted “insurance, guarantee, or commitment” for “insurance or guarantee”.
 
-    Par. (5)(A)(iv), (v). [Pub. L. 97–320, § 512][/us/pl/97/320/s512], substituted “$10,000” for “$5,000”.
+    Par. (5)(A)(iv), (v). [Pub. L. 97–320][/us/pl/97/320], § 512, substituted “$10,000” for “$5,000”.
 
-    Par. (5)(A)(viii). [Pub. L. 97–320, § 513][/us/pl/97/320/s513], inserted condition relating to partial prepayments of first or second mortgage loans.
+    Par. (5)(A)(viii). [Pub. L. 97–320][/us/pl/97/320], § 513, inserted condition relating to partial prepayments of first or second mortgage loans.
 
-    Par. (5)(A)(x). [Pub. L. 97–320, § 506][/us/pl/97/320/s506], added cl. (x).
+    Par. (5)(A)(x). [Pub. L. 97–320][/us/pl/97/320], § 506, added cl. (x).
 
-    Par. (7)(E). [Pub. L. 97–320, § 516][/us/pl/97/320/s516], inserted provisions relating to instruments issued or guaranteed by any other agency of the United States, and that a Federal Credit Union may issue and sell securities which are guaranteed pursuant to [section 1721(g) of this title][/us/usc/t12/s1721/g].
+    Par. (7)(E). [Pub. L. 97–320][/us/pl/97/320], § 516, inserted provisions relating to instruments issued or guaranteed by any other agency of the United States, and that a Federal Credit Union may issue and sell securities which are guaranteed pursuant to [section 1721(g) of this title][/us/usc/t12/s1721/g].
 
-    Par. (7)(L). [Pub. L. 97–320, § 514][/us/pl/97/320/s514], added cl. (L).
+    Par. (7)(L). [Pub. L. 97–320][/us/pl/97/320], § 514, added cl. (L).
 
-    Par. (8). [Pub. L. 97–320, § 517][/us/pl/97/320/s517], inserted “or in banks or institutions the accounts of which are insured by the Federal Deposit Insurance Corporation or the Federal Savings and Loan Insurance Corporation,” after “in which the Federal Credit Union does business,”.
+    Par. (8). [Pub. L. 97–320][/us/pl/97/320], § 517, inserted “or in banks or institutions the accounts of which are insured by the Federal Deposit Insurance Corporation or the Federal Savings and Loan Insurance Corporation,” after “in which the Federal Credit Union does business,”.
 
-    Par. (12). [Pub. L. 97–320, § 518][/us/pl/97/320/s518], substituted “, money orders, and other similar money transfer instruments” for “and money orders”, and struck out “which does not exceed the direct and indirect costs incident to providing such service” after “for a fee”.
+    Par. (12). [Pub. L. 97–320][/us/pl/97/320], § 518, substituted “, money orders, and other similar money transfer instruments” for “and money orders”, and struck out “which does not exceed the direct and indirect costs incident to providing such service” after “for a fee”.
 
-    1980—Par. (5)(A)(i). [Pub. L. 96–221, § 309(a)(1)][/us/pl/96/221/s309/a/1], inserted provisions relating to an individual cooperative unit.
+    1980—Par. (5)(A)(i). [Pub. L. 96–221][/us/pl/96/221], § 309(a)(1), inserted provisions relating to an individual cooperative unit.
 
-    Par. (5)(A)(vi). [Pub. L. 96–221, § 310][/us/pl/96/221/s310], substituted provisions setting forth maximum interest rate of 15 per centum per annum, subject to specified exceptions, for provisions setting forth a maximum interest rate of 1 per centum per month.
+    Par. (5)(A)(vi). [Pub. L. 96–221][/us/pl/96/221], § 310, substituted provisions setting forth maximum interest rate of 15 per centum per annum, subject to specified exceptions, for provisions setting forth a maximum interest rate of 1 per centum per month.
 
     Par. (6). [Pub. L. 96–221][/us/pl/96/221], §§ 305(b), 307, revised existing provisions respecting credit unions serving predominately low-income members including provisions added by [Pub. L. 96–161][/us/pl/96/161], and repealed the amendment made by [Pub. L. 96–161][/us/pl/96/161]. See Repeals and Effective Date of 1980 Amendment notes below.
 
@@ -201,59 +201,59 @@
 
     [Pub. L. 96–153][/us/pl/96/153] substituted “Federal, Indian tribal, State” for “Federal, State”.
 
-    1978—Par. (5). [Pub. L. 95–630, § 502(b)][/us/pl/95/630/s502/b], substituted “Board” for “Administrator” wherever appearing.
+    1978—Par. (5). [Pub. L. 95–630][/us/pl/95/630], § 502(b), substituted “Board” for “Administrator” wherever appearing.
 
     Par. (6). [Pub. L. 95–630][/us/pl/95/630], §§ 502(b), 1803(a), inserted “from the Central Liquidity Facility,” after “in the manner so prescribed,” and substituted “Board” for “Administrator” in two places.
 
     Par. (7). [Pub. L. 95–630][/us/pl/95/630], §§ 502(b), 1803(b), substituted “Board” for “Administrator” wherever appearing and added cl. (J).
 
-    Par. (8). [Pub. L. 95–630, § 502(b)][/us/pl/95/630/s502/b], substituted “Board” for “Administrator”.
+    Par. (8). [Pub. L. 95–630][/us/pl/95/630], § 502(b), substituted “Board” for “Administrator”.
 
     Par. (9). [Pub. L. 95–630][/us/pl/95/630], §§ 502(b), 1803(c), substituted “Board” for “Administrator” and inserted “, except as authorized by the Board in carrying out the provisions of subchapter III,” after “amount not exceeding”.
 
-    Pars. (12) to (14). [Pub. L. 95–630, § 502(b)][/us/pl/95/630/s502/b], substituted “Board” for “Administrator” wherever appearing.
+    Pars. (12) to (14). [Pub. L. 95–630][/us/pl/95/630], § 502(b), substituted “Board” for “Administrator” wherever appearing.
 
-    1977—Par. (5). [Pub. L. 95–22, § 302(a)][/us/pl/95/22/s302/a], among other changes, inserted provisions permitting Federal credit unions to establish lines of credit for their members, to raise the maximum loan maturity for most loans to twelve years, and to make loans secured by a first lien and made for the purchase of a one-to-four-family dwelling for the principal residence of a credit union member.
+    1977—Par. (5). [Pub. L. 95–22][/us/pl/95/22], § 302(a), among other changes, inserted provisions permitting Federal credit unions to establish lines of credit for their members, to raise the maximum loan maturity for most loans to twelve years, and to make loans secured by a first lien and made for the purchase of a one-to-four-family dwelling for the principal residence of a credit union member.
 
     Par. (6). [Pub. L. 95–22][/us/pl/95/22], §§ 302(b), 303(a), redesignated par. (7) as (6) and substituted reference to payments on shares which may be issued at varying dividend rates and payments on share certificates which may be issued at varying dividend rates and maturities, subject to such terms, rates, and conditions as may be established by the board of directors, within limitations prescribed by the Administrator for reference to payments on shares, share certificates, or share deposits. Former par. (6), relating to the power of Federal credit unions to make loans to its own directors and to its own supervisory credit committee, was struck out.
 
-    Par. (7). [Pub. L. 95–22, § 303(b)][/us/pl/95/22/s303/b], redesignated par. (8) as (7) and added subpar. (I). Former par. (7) redesignated (6).
+    Par. (7). [Pub. L. 95–22][/us/pl/95/22], § 303(b), redesignated par. (8) as (7) and added subpar. (I). Former par. (7) redesignated (6).
 
-    Pars. (8) to (12). [Pub. L. 95–22, § 303(c)][/us/pl/95/22/s303/c], redesignated pars. (9) to (13) as (8) to (12), respectively. Former par. (8) redesignated (7).
+    Pars. (8) to (12). [Pub. L. 95–22][/us/pl/95/22], § 303(c), redesignated pars. (9) to (13) as (8) to (12), respectively. Former par. (8) redesignated (7).
 
-    Par. (13). [Pub. L. 95–22, § 303(c)][/us/pl/95/22/s303/c], (d), redesignated par. (14) as (13) and inserted reference to purchase, sell, pledge, or discount or otherwise receive or dispose of, in whole or in part, any eligible obligations (as defined by the Administrator) of its members. Former par. (13) redesignated (12).
+    Par. (13). [Pub. L. 95–22][/us/pl/95/22], § 303(c), (d), redesignated par. (14) as (13) and inserted reference to purchase, sell, pledge, or discount or otherwise receive or dispose of, in whole or in part, any eligible obligations (as defined by the Administrator) of its members. Former par. (13) redesignated (12).
 
-    Par. (14). [Pub. L. 95–22, § 303(e)][/us/pl/95/22/s303/e], added par. (14).
+    Par. (14). [Pub. L. 95–22][/us/pl/95/22], § 303(e), added par. (14).
 
     1974—Par. (5). [Pub. L. 93–569][/us/pl/93/569] inserted “except that loans made in accordance with [section 1703(b) of this title][/us/usc/t12/s1703/b] and [section 1819 of title 38][/us/usc/t38/s1819], may be for the maturities specified therein,” after “ten years”.
 
-    Par. (6). [Pub. L. 93–383, § 721(a)][/us/pl/93/383/s721/a], substituted provisions relating to approval of loans by the board of directors for provisions requiring annual reports to the Administrator with respect to loans and setting forth conditions for the making of loans.
+    Par. (6). [Pub. L. 93–383][/us/pl/93/383], § 721(a), substituted provisions relating to approval of loans by the board of directors for provisions requiring annual reports to the Administrator with respect to loans and setting forth conditions for the making of loans.
 
     Par. (7). [Pub. L. 93–495][/us/pl/93/495] inserted provisions relating to receipt of payments of shares, etc., from officers, employees, or agents of nonmember units of Federal, State, or local governments and political subdivisions enumerated in [section 1787 of this title][/us/usc/t12/s1787].
 
-    Par. (8)(E). [Pub. L. 93–383, § 805(c)(5)][/us/pl/93/383/s805/c/5], inserted reference to mortgages, obligations, or other securities sold by the Federal Home Loan Mortgage Corporation pursuant to section 1454 or 1455 of this title.
+    Par. (8)(E). [Pub. L. 93–383][/us/pl/93/383], § 805(c)(5), inserted reference to mortgages, obligations, or other securities sold by the Federal Home Loan Mortgage Corporation pursuant to section 1454 or 1455 of this title.
 
-    Par. (9). [Pub. L. 93–383, § 721(b)][/us/pl/93/383/s721/b], inserted provisions relating to Federal credit unions or credit unions authorized by the Department of Defense.
+    Par. (9). [Pub. L. 93–383][/us/pl/93/383], § 721(b), inserted provisions relating to Federal credit unions or credit unions authorized by the Department of Defense.
 
     1972—Par. (8)(E). [Pub. L. 92–318][/us/pl/92/318] authorized investments in obligations or other instruments or securities of the Student Loan Marketing Association.
 
     1970—Pars. (5), (6), (8), (10), (13), (14), [Pub. L. 91–206][/us/pl/91/206] substituted “Administrator” for “Director” wherever appearing.
 
-    Par. (7). [Pub. L. 91–468, § 10(1)][/us/pl/91/468/s10/1], permitted a Federal credit union to not only receive from members but also from other federally insured credit unions, payments on shares as well as share certificates or share deposits and, in the case of credit unions serving predominantly low-income members, to receive payments on shares, share certificates or share deposits from nonmembers.
+    Par. (7). [Pub. L. 91–468][/us/pl/91/468], § 10(1), permitted a Federal credit union to not only receive from members but also from other federally insured credit unions, payments on shares as well as share certificates or share deposits and, in the case of credit unions serving predominantly low-income members, to receive payments on shares, share certificates or share deposits from nonmembers.
 
-    Par. (8). [Pub. L. 91–468, § 10(2)][/us/pl/91/468/s10/2], authorized a Federal credit union to invest in shares, share certificates or share deposits of federally insured credit unions.
+    Par. (8). [Pub. L. 91–468][/us/pl/91/468], § 10(2), authorized a Federal credit union to invest in shares, share certificates or share deposits of federally insured credit unions.
 
-    1968—Par. (5). [Pub. L. 90–375, § 1(1)][/us/pl/90/375/s1/1], substituted provisions authorizing Federal credit unions to make unsecured loans with maturities not exceeding five years, and secured loans with maturities not exceeding ten years for provisions authorizing federal credit unions to make loans with maturities not exceeding five years.
+    1968—Par. (5). [Pub. L. 90–375][/us/pl/90/375], § 1(1), substituted provisions authorizing Federal credit unions to make unsecured loans with maturities not exceeding five years, and secured loans with maturities not exceeding ten years for provisions authorizing federal credit unions to make loans with maturities not exceeding five years.
 
     Par. (8). [Pub. L. 90–448][/us/pl/90/448] authorized investments in obligations, participations, or other instruments of or issued by, or guaranteed as to principal and interest by, the Government National Mortgage Association.
 
-    [Pub. L. 90–375, § 1(2)][/us/pl/90/375/s1/2], added cl. (G).
+    [Pub. L. 90–375][/us/pl/90/375], § 1(2), added cl. (G).
 
-    Pars. (14), (15). [Pub. L. 90–375, § 1(3)][/us/pl/90/375/s1/3], added par. (14) and redesignated former par. (14) as (15).
+    Pars. (14), (15). [Pub. L. 90–375][/us/pl/90/375], § 1(3), added par. (14) and redesignated former par. (14) as (15).
 
-    1967—Par. (5). [Pub. L. 90–44, § 2(1)][/us/pl/90/44/s2/1], substituted “may be made except as authorized under paragraph (6) of this section” for “shall exceed the amount of his holdings in the Federal Credit Union as represented by shares thereof plus the total unencumbered and unpledged shareholdings in the Federal Credit Union of any member pledged as security for the obligation of such director or committee member”.
+    1967—Par. (5). [Pub. L. 90–44][/us/pl/90/44], § 2(1), substituted “may be made except as authorized under paragraph (6) of this section” for “shall exceed the amount of his holdings in the Federal Credit Union as represented by shares thereof plus the total unencumbered and unpledged shareholdings in the Federal Credit Union of any member pledged as security for the obligation of such director or committee member”.
 
-    Pars. (6), (7). [Pub. L. 90–44, § 2(3)][/us/pl/90/44/s2/3], added par. (6) and redesignated former pars. (6) and (7) as (7) and (8), respectively.
+    Pars. (6), (7). [Pub. L. 90–44][/us/pl/90/44], § 2(3), added par. (6) and redesignated former pars. (6) and (7) as (7) and (8), respectively.
 
     Pars. (8) to (14). [Pub. L. 90–44][/us/pl/90/44], §§ 2(2), (3), redesignated former par. (7) as (8), authorized in cl. (D) investment of funds in shares or accounts of mutual savings banks, the accounts of which are insured by the Federal Deposit Insurance Corporation, and redesignated former pars. (8) to (13) as (9) to (14), respectively.
 
@@ -285,7 +285,7 @@
 
     Amendment by [Pub. L. 96–161][/us/pl/96/161] effective Dec. 31, 1979, with that amendment to remain in effect until the close of Mar. 31, 1980, see [section 104 of Pub. L. 96–161][/us/pl/96/161/s104], formerly set out as a note under [section 371a of this title][/us/usc/t12/s371a].
 
-[Pub. L. 96–153, title III, § 323(e)][/us/pl/96/153/s323/e], Dec. 21, 1979, [93 Stat. 1120][/us/stat/93/1120], provided that: 
+[Pub. L. 96–153, title III][/us/pl/96/153/tIII], § 323(e), Dec. 21, 1979, [93 Stat. 1120][/us/stat/93/1120], provided that: 
 
 > “The amendments made by subsections (a) through (d) \[amending this section and sections 1728, 1787, and 1821 of this title\] are not applicable to any claim arising out of the closing of a bank, savings and loan association, or credit union prior to the date of enactment of this Act \[Dec. 21, 1979\], but shall be applicable to any such claim arising on or after such date.”
 
@@ -325,147 +325,147 @@
 [/us/usc/t15/s78c/a/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c%2Fa%2F53
 [/us/act/1934-06-26/ch750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-26%2Fch750
 [/us/stat/48/1218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1218
-[/us/act/1937-12-06/ch3/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-12-06%2Fch3%2Fs2
+[/us/act/1937-12-06/ch3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-12-06%2Fch3
 [/us/stat/51/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F51%2F4
-[/us/act/1946-07-31/ch711/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-31%2Fch711%2Fs1
+[/us/act/1946-07-31/ch711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-31%2Fch711
 [/us/stat/60/744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F744
 [/us/stat/61/952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F952
 [/us/act/1948-06-29/ch711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-29%2Fch711
 [/us/stat/62/1091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1091
-[/us/act/1949-10-25/ch713/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-25%2Fch713%2Fs1
+[/us/act/1949-10-25/ch713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-25%2Fch713
 [/us/stat/63/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F890
 [/us/act/1952-05-13/ch264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-05-13%2Fch264
 [/us/stat/66/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F70
-[/us/pl/86/354/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F354%2Fs1
+[/us/pl/86/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F354
 [/us/stat/73/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F630
-[/us/pl/88/353/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F353%2Fs1
+[/us/pl/88/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F353
 [/us/stat/78/269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F269
-[/us/pl/89/429/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F429%2Fs7
+[/us/pl/89/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F429
 [/us/stat/80/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F167
 [/us/pl/90/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F44
 [/us/stat/81/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F110
-[/us/pl/90/375/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F375%2Fs1%2F1
+[/us/pl/90/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F375
 [/us/stat/82/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F284
-[/us/pl/90/448/s807/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs807%2Fn
+[/us/pl/90/448/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2FtVIII
 [/us/stat/82/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F545
-[/us/pl/91/206/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F206%2Fs2%2F1
+[/us/pl/91/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F206
 [/us/stat/84/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F49
 [/us/pl/91/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F468
 [/us/stat/84/994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F994
-[/us/pl/92/318/s133/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2Fs133%2Fc%2F4
+[/us/pl/92/318/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2FtI
 [/us/stat/86/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F270
-[/us/pl/93/383/s721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs721
+[/us/pl/93/383/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtVII
 [/us/stat/88/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F719
-[/us/pl/93/495/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2Fs101%2Fd
+[/us/pl/93/495/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2FtI
 [/us/stat/88/1502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1502
-[/us/pl/93/569/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F569%2Fs6
+[/us/pl/93/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F569
 [/us/stat/88/1866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1866
-[/us/pl/95/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F22
+[/us/pl/95/22/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F22%2FtIII
 [/us/stat/91/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F49
-[/us/pl/95/630/s502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs502%2Fb
+[/us/pl/95/630/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtV
 [/us/stat/92/3681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3681
-[/us/pl/96/153/s323/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153%2Fs323%2Fd
+[/us/pl/96/153/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153%2FtIII
 [/us/stat/93/1120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1120
-[/us/pl/96/161/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F161%2Fs103%2Fb
+[/us/pl/96/161/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F161%2FtI
 [/us/stat/93/1234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1234
-[/us/pl/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221
+[/us/pl/96/221/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2FtIII
 [/us/stat/94/146-149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F146-149
-[/us/pl/97/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320
+[/us/pl/97/320/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2FtV
 [/us/stat/96/1528-1530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1528-1530
 [/us/pl/97/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F457
 [/us/stat/96/2510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2510
-[/us/pl/98/440/s105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F440%2Fs105%2Fb
+[/us/pl/98/440/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F440%2FtI
 [/us/stat/98/1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1691
-[/us/pl/98/479/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2Fs206
+[/us/pl/98/479/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2FtII
 [/us/stat/98/2234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2234
-[/us/pl/100/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86
+[/us/pl/100/86/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2FtVII
 [/us/stat/101/652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F652
-[/us/pl/101/179/s206/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179%2Fs206%2Fb
+[/us/pl/101/179/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179%2FtII
 [/us/stat/103/1311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1311
-[/us/pl/103/325/s206/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs206%2Fb
+[/us/pl/103/325/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtII
 [/us/stat/108/2199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2199
-[/us/pl/104/208/s2306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2306
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-426
-[/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
+[/us/pl/109/351/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2FtV
 [/us/stat/120/1975]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1975
-[/us/pl/111/203/s362/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs362%2F1
+[/us/pl/111/203/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIII
 [/us/stat/124/1549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1549
 [/us/usc/t15/s77d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77d%2F5
 [/us/usc/t15/s77d/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77d%2Fa%2F5
-[/us/pl/112/106/s201/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F106%2Fs201%2Fb%2F1
+[/us/pl/112/106/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F106%2FtII
 [/us/stat/126/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F314
 [/us/usc/t31/s9101/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9101%2F3
 [/us/usc/t31/s846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs846
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
-[/us/pl/111/203/s362/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs362%2F1
-[/us/pl/111/203/s1073/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1073%2Fd
-[/us/pl/109/351/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs502
-[/us/pl/109/351/s726/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs726%2F3
-[/us/pl/109/351/s726/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs726%2F4
-[/us/pl/109/351/s726/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs726%2F4
-[/us/pl/109/351/s726/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs726%2F5
-[/us/pl/109/351/s726/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs726%2F6
-[/us/pl/109/351/s726/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs726%2F7
-[/us/pl/109/351/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs503
-[/us/pl/109/351/s726/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs726%2F8
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
+[/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
+[/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
+[/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
+[/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
+[/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
+[/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
+[/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
+[/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
 [/us/pl/101/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179
-[/us/pl/100/86/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2Fs702
-[/us/pl/100/86/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2Fs703
+[/us/pl/100/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86
+[/us/pl/100/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86
 [/us/pl/98/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479
-[/us/pl/98/440/s105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F440%2Fs105%2Fb
-[/us/pl/97/457/s25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F457%2Fs25
-[/us/pl/97/457/s26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F457%2Fs26
+[/us/pl/98/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F440
+[/us/pl/97/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F457
+[/us/pl/97/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F457
 [/us/pl/97/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320
-[/us/pl/97/320/s510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs510
-[/us/pl/97/320/s511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs511
-[/us/pl/97/320/s512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs512
-[/us/pl/97/320/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs513
-[/us/pl/97/320/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs506
-[/us/pl/97/320/s516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs516
+[/us/pl/97/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320
+[/us/pl/97/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320
+[/us/pl/97/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320
+[/us/pl/97/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320
+[/us/pl/97/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320
+[/us/pl/97/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320
 [/us/usc/t12/s1721/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1721%2Fg
-[/us/pl/97/320/s514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs514
-[/us/pl/97/320/s517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs517
-[/us/pl/97/320/s518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs518
-[/us/pl/96/221/s309/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs309%2Fa%2F1
-[/us/pl/96/221/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs310
+[/us/pl/97/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320
+[/us/pl/97/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320
+[/us/pl/97/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320
+[/us/pl/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221
+[/us/pl/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221
 [/us/pl/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221
 [/us/pl/96/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F161
 [/us/pl/96/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F161
 [/us/pl/96/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F161
 [/us/pl/96/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153
-[/us/pl/95/630/s502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs502%2Fb
 [/us/pl/95/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630
 [/us/pl/95/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630
-[/us/pl/95/630/s502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs502%2Fb
 [/us/pl/95/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630
-[/us/pl/95/630/s502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs502%2Fb
-[/us/pl/95/22/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F22%2Fs302%2Fa
+[/us/pl/95/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630
+[/us/pl/95/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630
+[/us/pl/95/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630
 [/us/pl/95/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F22
-[/us/pl/95/22/s303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F22%2Fs303%2Fb
-[/us/pl/95/22/s303/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F22%2Fs303%2Fc
-[/us/pl/95/22/s303/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F22%2Fs303%2Fc
-[/us/pl/95/22/s303/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F22%2Fs303%2Fe
+[/us/pl/95/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F22
+[/us/pl/95/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F22
+[/us/pl/95/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F22
+[/us/pl/95/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F22
+[/us/pl/95/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F22
 [/us/pl/93/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F569
 [/us/usc/t12/s1703/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1703%2Fb
 [/us/usc/t38/s1819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1819
-[/us/pl/93/383/s721/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs721%2Fa
+[/us/pl/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383
 [/us/pl/93/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495
 [/us/usc/t12/s1787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1787
-[/us/pl/93/383/s805/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs805%2Fc%2F5
-[/us/pl/93/383/s721/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs721%2Fb
+[/us/pl/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383
+[/us/pl/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383
 [/us/pl/92/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318
 [/us/pl/91/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F206
-[/us/pl/91/468/s10/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F468%2Fs10%2F1
-[/us/pl/91/468/s10/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F468%2Fs10%2F2
-[/us/pl/90/375/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F375%2Fs1%2F1
+[/us/pl/91/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F468
+[/us/pl/91/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F468
+[/us/pl/90/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F375
 [/us/pl/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448
-[/us/pl/90/375/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F375%2Fs1%2F2
-[/us/pl/90/375/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F375%2Fs1%2F3
-[/us/pl/90/44/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F44%2Fs2%2F1
-[/us/pl/90/44/s2/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F44%2Fs2%2F3
+[/us/pl/90/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F375
+[/us/pl/90/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F375
+[/us/pl/90/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F44
+[/us/pl/90/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F44
 [/us/pl/90/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F44
 [/us/pl/89/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F429
 [/us/pl/88/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F353
@@ -482,7 +482,7 @@
 [/us/pl/96/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F161
 [/us/pl/96/161/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F161%2Fs104
 [/us/usc/t12/s371a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs371a
-[/us/pl/96/153/s323/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153%2Fs323%2Fe
+[/us/pl/96/153/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153%2FtIII
 [/us/stat/93/1120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1120
 [/us/pl/95/630/s502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs502%2Fb
 [/us/pl/95/630/s509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs509

@@ -17,7 +17,7 @@
 
     In addition to appropriations specifically authorized in this chapter, there are authorized to be appropriated $2,000,000 for the fiscal year ending September 30, 1979, and for each of the two succeeding fiscal years, ending September 30, 1980, and September 30, 1981, such sums as may be necessary: Provided, That none of these appropriated sums shall be used to retire any indebtedness of the Bank incurred pursuant to [section 3017 of this title][/us/usc/t12/s3017]. Any sums so appropriated shall remain available until expended.
 
-([Pub. L. 95–351, title I, § 112][/us/pl/95/351/s112], Aug. 20, 1978, [92 Stat. 510][/us/stat/92/510].)
+([Pub. L. 95–351, title I][/us/pl/95/351/tI], § 112, Aug. 20, 1978, [92 Stat. 510][/us/stat/92/510].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t12/s3017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3017
-[/us/pl/95/351/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F351%2Fs112
+[/us/pl/95/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F351%2FtI
 [/us/stat/92/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F510
 
 

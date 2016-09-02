@@ -17,7 +17,7 @@
 
     Only for purposes of [section 3017(a) of this title][/us/usc/t12/s3017/a], class A notes shall be deemed to be paid-in capital of the Bank.
 
-([Pub. L. 97–35, title III, § 391(b)(1)][/us/pl/97/35/s391/b/1], Aug. 13, 1981, [95 Stat. 434][/us/stat/95/434].)
+([Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 391(b)(1), Aug. 13, 1981, [95 Stat. 434][/us/stat/95/434].)
 
  __Codification__ 
 
@@ -25,7 +25,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 97–35, title III, § 391(b)(2)][/us/pl/97/35/s391/b/2], Aug. 13, 1981, [95 Stat. 434][/us/stat/95/434], provided that: 
+[Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 391(b)(2), Aug. 13, 1981, [95 Stat. 434][/us/stat/95/434], provided that: 
 
 > “This subsection \[enacting this section\] shall take effect on the day after the Final Government Equity Redemption Date \[Dec. 31, 1981\].”
 
@@ -39,9 +39,9 @@
 ----------
 
 [/us/usc/t12/s3017/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3017%2Fa
-[/us/pl/97/35/s391/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs391%2Fb%2F1
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F434
-[/us/pl/97/35/s391/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs391%2Fb%2F2
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F434
 [/us/pl/97/35/s396/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs396%2Fa
 [/us/usc/t12/s3012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3012

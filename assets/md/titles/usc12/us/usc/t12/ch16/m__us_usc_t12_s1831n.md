@@ -83,21 +83,21 @@
 
             Each report under this subsection shall be published in the Federal Register.
 
-([Sept. 21, 1950, ch. 967, § 2][/us/act/1950-09-21/ch967/s2]\[37\], as added [Pub. L. 102–242, title I, § 121(a)][/us/pl/102/242/s121/a], Dec. 19, 1991, [105 Stat. 2250][/us/stat/105/2250]; amended [Pub. L. 106–569, title XII][/us/pl/106/569], §§ 1221, 1223, Dec. 27, 2000, [114 Stat. 3036][/us/stat/114/3036]; [Pub. L. 109–173, § 8(a)(35)][/us/pl/109/173/s8/a/35], Feb. 15, 2006, [119 Stat. 3615][/us/stat/119/3615].)
+([Sept. 21, 1950, ch. 967][/us/act/1950-09-21/ch967], § 2\[37\], as added [Pub. L. 102–242, title I][/us/pl/102/242/tI], § 121(a), Dec. 19, 1991, [105 Stat. 2250][/us/stat/105/2250]; amended [Pub. L. 106–569, title XII][/us/pl/106/569/tXII], §§ 1221, 1223, Dec. 27, 2000, [114 Stat. 3036][/us/stat/114/3036]; [Pub. L. 109–173][/us/pl/109/173], § 8(a)(35), Feb. 15, 2006, [119 Stat. 3615][/us/stat/119/3615].)
 
  __References in Text__ 
 
-    Section 1833d, referred to in subsec. (b)(2), was repealed by [Pub. L. 102–242, title I, § 121(b)][/us/pl/102/242/s121/b], Dec. 19, 1991, [105 Stat. 2251][/us/stat/105/2251].
+    Section 1833d, referred to in subsec. (b)(2), was repealed by [Pub. L. 102–242, title I][/us/pl/102/242/tI], § 121(b), Dec. 19, 1991, [105 Stat. 2251][/us/stat/105/2251].
 
  __Amendments__ 
 
     2006—Subsec. (a)(1)(C). [Pub. L. 109–173][/us/pl/109/173] substituted “Deposit Insurance Fund” for “insurance funds”.
 
-    2000—Subsec. (a)(3)(D). [Pub. L. 106–569, § 1221][/us/pl/106/569/s1221], struck out heading and text of subpar. (D). Text read as follows: “Develop jointly with the other appropriate Federal banking agencies a method for insured depository institutions to provide supplemental disclosure of the estimated fair market value of assets and liabilities, to the extent feasible and practicable, in any balance sheet, financial statement, report of condition, or other report of any insured depository institution required to be filed with a Federal banking agency.”
+    2000—Subsec. (a)(3)(D). [Pub. L. 106–569][/us/pl/106/569], § 1221, struck out heading and text of subpar. (D). Text read as follows: “Develop jointly with the other appropriate Federal banking agencies a method for insured depository institutions to provide supplemental disclosure of the estimated fair market value of assets and liabilities, to the extent feasible and practicable, in any balance sheet, financial statement, report of condition, or other report of any insured depository institution required to be filed with a Federal banking agency.”
 
-    Subsec. (c)(1). [Pub. L. 106–569, § 1223][/us/pl/106/569/s1223], substituted “The Federal banking agencies shall jointly submit an annual report” for “Each appropriate Federal banking agency shall annually submit a report” and inserted “any” before “such agency”.
+    Subsec. (c)(1). [Pub. L. 106–569][/us/pl/106/569], § 1223, substituted “The Federal banking agencies shall jointly submit an annual report” for “Each appropriate Federal banking agency shall annually submit a report” and inserted “any” before “such agency”.
 
-    Subsec. (c)(2). [Pub. L. 106–569, § 1223(2)][/us/pl/106/569/s1223/2], inserted “any” before “such agency”.
+    Subsec. (c)(2). [Pub. L. 106–569][/us/pl/106/569], § 1223(2), inserted “any” before “such agency”.
 
  __Change of Name__ 
 
@@ -109,7 +109,7 @@
 
  __Risk-Weighting of Housing Loans for Purposes of Capital Requirements__ 
 
-[Pub. L. 102–233, title VI, § 618][/us/pl/102/233/s618], Dec. 12, 1991, [105 Stat. 1789][/us/stat/105/1789], provided that:
+[Pub. L. 102–233, title VI][/us/pl/102/233/tVI], § 618, Dec. 12, 1991, [105 Stat. 1789][/us/stat/105/1789], provided that:
 
 >     “(a) __Single Family Housing Loans.—__ 
 
@@ -187,7 +187,7 @@
 
 >     For purposes of this section, the term ‘Federal banking agency’ means the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, the Comptroller of the Currency, and the Director of the Office of Thrift Supervision.”
 
-\[[Pub. L. 102–233, title VI, § 619][/us/pl/102/233/s619], Dec. 12, 1991, [105 Stat. 1791][/us/stat/105/1791], provided that: 
+\[[Pub. L. 102–233, title VI][/us/pl/102/233/tVI], § 619, Dec. 12, 1991, [105 Stat. 1791][/us/stat/105/1791], provided that: 
 
 > “The amendments made by this title \[amending [section 1441a of this title][/us/usc/t12/s1441a] and enacting provisions set out as notes under this section and [section 1441a of this title][/us/usc/t12/s1441a]\] shall not apply to any eligible residential property or eligible condominium property of the Resolution Trust Corporation, that is subject to an agreement for sale entered into by the Corporation before the date of the enactment of this Act \[Dec. 12, 1991\].”
 
@@ -200,27 +200,27 @@
 ----------
 ----------
 
-[/us/act/1950-09-21/ch967/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967%2Fs2
-[/us/pl/102/242/s121/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs121%2Fa
+[/us/act/1950-09-21/ch967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967
+[/us/pl/102/242/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtI
 [/us/stat/105/2250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2250
-[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/569/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2FtXII
 [/us/stat/114/3036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F3036
-[/us/pl/109/173/s8/a/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173%2Fs8%2Fa%2F35
+[/us/pl/109/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173
 [/us/stat/119/3615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3615
-[/us/pl/102/242/s121/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs121%2Fb
+[/us/pl/102/242/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtI
 [/us/stat/105/2251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2251
 [/us/pl/109/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173
-[/us/pl/106/569/s1221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs1221
-[/us/pl/106/569/s1223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs1223
-[/us/pl/106/569/s1223/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs1223%2F2
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21
 [/us/pl/109/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173
 [/us/pl/109/173/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173%2Fs8%2Fb
 [/us/usc/t12/s1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813
-[/us/pl/102/233/s618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F233%2Fs618
+[/us/pl/102/233/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F233%2FtVI
 [/us/stat/105/1789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1789
-[/us/pl/102/233/s619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F233%2Fs619
+[/us/pl/102/233/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F233%2FtVI
 [/us/stat/105/1791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1791
 [/us/usc/t12/s1441a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1441a
 [/us/usc/t12/s1441a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1441a

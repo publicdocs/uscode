@@ -23,7 +23,7 @@
 
         Simultaneously with the termination of the Financial Assistance Corporation as provided in subsection (a), any funds in the accounts established under [section 2278b–5 of this title][/us/usc/t12/s2278b–5] shall be transferred to the Insurance Fund established under [section 2277a–9 of this title][/us/usc/t12/s2277a–9].
 
-([Pub. L. 92–181, title VI, § 6][/us/pl/92/181/s6].31, as added [Pub. L. 100–233, title II, § 201][/us/pl/100/233/s201], Jan. 6, 1988, [101 Stat. 1605][/us/stat/101/1605]; amended [Pub. L. 102–552, title III, § 307(b)][/us/pl/102/552/s307/b], Oct. 28, 1992, [106 Stat. 4116][/us/stat/106/4116].)
+([Pub. L. 92–181, title VI][/us/pl/92/181/tVI], § 6.31, as added [Pub. L. 100–233, title II][/us/pl/100/233/tII], § 201, Jan. 6, 1988, [101 Stat. 1605][/us/stat/101/1605]; amended [Pub. L. 102–552, title III][/us/pl/102/552/tIII], § 307(b), Oct. 28, 1992, [106 Stat. 4116][/us/stat/106/4116].)
 
  __Amendments__ 
 
@@ -41,10 +41,10 @@
 [/us/usc/t12/s2278b–6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2278b%E2%80%936%2Fa
 [/us/usc/t12/s2278b–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2278b%E2%80%935
 [/us/usc/t12/s2277a–9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2277a%E2%80%939
-[/us/pl/92/181/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs6
-[/us/pl/100/233/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs201
+[/us/pl/92/181/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtVI
+[/us/pl/100/233/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtII
 [/us/stat/101/1605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1605
-[/us/pl/102/552/s307/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2Fs307%2Fb
+[/us/pl/102/552/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2FtIII
 [/us/stat/106/4116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4116
 [/us/pl/102/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552
 [/us/usc/t12/s2278a–9/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2278a%E2%80%939%2Fe

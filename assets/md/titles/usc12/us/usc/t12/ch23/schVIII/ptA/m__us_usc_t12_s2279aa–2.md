@@ -173,7 +173,7 @@
 
         The Board may appoint, employ, fix the pay of, and provide other allowances and benefits for such officers and employees of the Corporation as the Board determines to be appropriate.
 
-([Pub. L. 92–181, title VIII, § 8][/us/pl/92/181/s8].2, as added [Pub. L. 100–233, title VII, § 702][/us/pl/100/233/s702], Jan. 6, 1988, [101 Stat. 1688][/us/stat/101/1688]; amended [Pub. L. 100–399, title VI, § 601(b)][/us/pl/100/399/s601/b], Aug. 17, 1988, [102 Stat. 1005][/us/stat/102/1005].)
+([Pub. L. 92–181, title VIII][/us/pl/92/181/tVIII], § 8.2, as added [Pub. L. 100–233, title VII][/us/pl/100/233/tVII], § 702, Jan. 6, 1988, [101 Stat. 1688][/us/stat/101/1688]; amended [Pub. L. 100–399, title VI][/us/pl/100/399/tVI], § 601(b), Aug. 17, 1988, [102 Stat. 1005][/us/stat/102/1005].)
 
  __Amendments__ 
 
@@ -191,10 +191,10 @@
 ----------
 
 [/us/usc/t12/s2279aa–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2279aa%E2%80%934
-[/us/pl/92/181/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs8
-[/us/pl/100/233/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs702
+[/us/pl/92/181/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtVIII
+[/us/pl/100/233/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtVII
 [/us/stat/101/1688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1688
-[/us/pl/100/399/s601/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs601%2Fb
+[/us/pl/100/399/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtVI
 [/us/stat/102/1005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1005
 [/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399

@@ -47,11 +47,11 @@
 
             (B) a company described in any clause of [section 1844(c)(5)(B) of this title][/us/usc/t12/s1844/c/5/B].
 
-([Sept. 21, 1950, ch. 967, § 2][/us/act/1950-09-21/ch967/s2]\[45\], as added [Pub. L. 106–102, title I, § 112(b)][/us/pl/106/102/s112/b], Nov. 12, 1999, [113 Stat. 1367][/us/stat/113/1367].)
+([Sept. 21, 1950, ch. 967][/us/act/1950-09-21/ch967], § 2\[45\], as added [Pub. L. 106–102, title I][/us/pl/106/102/tI], § 112(b), Nov. 12, 1999, [113 Stat. 1367][/us/stat/113/1367].)
 
  __References in Text__ 
 
-    [Section 1848a of this title][/us/usc/t12/s1848a], referred to in subsec. (a)(3), was repealed by [Pub. L. 111–203, title VI, § 604(c)(2)][/us/pl/111/203/s604/c/2], July 21, 2010, [124 Stat. 1601][/us/stat/124/1601].
+    [Section 1848a of this title][/us/usc/t12/s1848a], referred to in subsec. (a)(3), was repealed by [Pub. L. 111–203, title VI][/us/pl/111/203/tVI], § 604(c)(2), July 21, 2010, [124 Stat. 1601][/us/stat/124/1601].
 
  __Effective Date__ 
 
@@ -69,11 +69,11 @@
 [/us/usc/t12/s1820/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1820%2Fb%2F4
 [/us/usc/t12/s1844/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1844%2Fc%2F5
 [/us/usc/t12/s1844/c/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1844%2Fc%2F5%2FB
-[/us/act/1950-09-21/ch967/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967%2Fs2
-[/us/pl/106/102/s112/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs112%2Fb
+[/us/act/1950-09-21/ch967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967
+[/us/pl/106/102/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtI
 [/us/stat/113/1367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1367
 [/us/usc/t12/s1848a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1848a
-[/us/pl/111/203/s604/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs604%2Fc%2F2
+[/us/pl/111/203/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVI
 [/us/stat/124/1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1601
 [/us/pl/106/102/s161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs161
 [/us/usc/t12/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs24

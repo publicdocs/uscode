@@ -33,7 +33,7 @@
 
     (4) No attachment or execution shall be issued against the Corporation or any of the property of the Corporation before final judgment in any Federal, State, or other court.
 
-([Pub. L. 92–181, title VIII, § 8][/us/pl/92/181/s8].14, as added [Pub. L. 100–233, title VII, § 702][/us/pl/100/233/s702], Jan. 6, 1988, [101 Stat. 1705][/us/stat/101/1705].)
+([Pub. L. 92–181, title VIII][/us/pl/92/181/tVIII], § 8.14, as added [Pub. L. 100–233, title VII][/us/pl/100/233/tVII], § 702, Jan. 6, 1988, [101 Stat. 1705][/us/stat/101/1705].)
 
 ----------
 
@@ -43,8 +43,8 @@
 ----------
 
 [/us/usc/t28/s1349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1349
-[/us/pl/92/181/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs8
-[/us/pl/100/233/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs702
+[/us/pl/92/181/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtVIII
+[/us/pl/100/233/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtVII
 [/us/stat/101/1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1705
 
 

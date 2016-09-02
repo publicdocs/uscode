@@ -381,7 +381,7 @@
 
             (K) Such other activities or transactions as the Board of Governors may, by rule, define.
 
-([Pub. L. 111–203, title I, § 165][/us/pl/111/203/s165], July 21, 2010, [124 Stat. 1423][/us/stat/124/1423].)
+([Pub. L. 111–203, title I][/us/pl/111/203/tI], § 165, July 21, 2010, [124 Stat. 1423][/us/stat/124/1423].)
 
  __References in Text__ 
 
@@ -408,7 +408,7 @@
 [/us/usc/t12/s1841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1841
 [/us/usc/t12/s5323/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5323%2Fe%2F3
 [/us/usc/t12/s5323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5323
-[/us/pl/111/203/s165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs165
+[/us/pl/111/203/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtI
 [/us/stat/124/1423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1423
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1442

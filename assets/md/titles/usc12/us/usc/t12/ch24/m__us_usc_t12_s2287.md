@@ -17,7 +17,7 @@
 
     The Secretary of the Treasury is authorized to advance the funds necessary to provide initial capital to the Bank. Each such advance shall be upon such terms and conditions as to yield a return at a rate not less than a rate determined by the Secretary of the Treasury, taking into consideration the current average yield on outstanding marketable obligations of the United States of comparable maturity. Interest payments on such advances may be deferred, at the discretion of the Secretary, but any such deferred payments shall themselves bear interest at the rate specified in this section. There is authorized to be appropriated not to exceed $100,000,000, which shall be available for the purposes of this section without fiscal year limitation.
 
-([Pub. L. 93–224, § 8][/us/pl/93/224/s8], Dec. 29, 1973, [87 Stat. 939][/us/stat/87/939].)
+([Pub. L. 93–224][/us/pl/93/224], § 8, Dec. 29, 1973, [87 Stat. 939][/us/stat/87/939].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/93/224/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F224%2Fs8
+[/us/pl/93/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F224
 [/us/stat/87/939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F939
 
 

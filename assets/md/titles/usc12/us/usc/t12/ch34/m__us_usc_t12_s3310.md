@@ -17,7 +17,7 @@
 
     There shall be within the Council a subcommittee to be known as the “Appraisal Subcommittee”, which shall consist of the designees of the heads of the Federal financial institutions regulatory agencies, the Bureau of Consumer Financial Protection, and the Federal Housing Finance Agency. Each such designee shall be a person who has demonstrated knowledge and competence concerning the appraisal profession. At all times at least one member of the Appraisal Subcommittee shall have demonstrated knowledge and competence through licensure, certification, or professional designation within the appraisal profession.
 
-([Pub. L. 95–630, title X, § 1011][/us/pl/95/630/s1011], as added [Pub. L. 101–73, title XI, § 1102][/us/pl/101/73/s1102], Aug. 9, 1989, [103 Stat. 511][/us/stat/103/511]; amended [Pub. L. 111–203, title XIV, § 1473(s)][/us/pl/111/203/s1473/s], July 21, 2010, [124 Stat. 2199][/us/stat/124/2199].)
+([Pub. L. 95–630, title X][/us/pl/95/630/tX], § 1011, as added [Pub. L. 101–73, title XI][/us/pl/101/73/tXI], § 1102, Aug. 9, 1989, [103 Stat. 511][/us/stat/103/511]; amended [Pub. L. 111–203, title XIV][/us/pl/111/203/tXIV], § 1473(s), July 21, 2010, [124 Stat. 2199][/us/stat/124/2199].)
 
  __Amendments__ 
 
@@ -34,10 +34,10 @@
 ----------
 ----------
 
-[/us/pl/95/630/s1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs1011
-[/us/pl/101/73/s1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs1102
+[/us/pl/95/630/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtX
+[/us/pl/101/73/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtXI
 [/us/stat/103/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F511
-[/us/pl/111/203/s1473/s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1473%2Fs
+[/us/pl/111/203/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtXIV
 [/us/stat/124/2199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2199
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203

@@ -81,7 +81,7 @@
 
             In prescribing minimum Program requirements for approved State other credit support programs, the Secretary shall take into consideration, to the extent the Secretary determines applicable and appropriate, the minimum Program requirements for approved State capital access programs in [section 5704(e) of this title][/us/usc/t12/s5704/e].
 
-([Pub. L. 111–240, title III, § 3006][/us/pl/111/240/s3006], Sept. 27, 2010, [124 Stat. 2577][/us/stat/124/2577].)
+([Pub. L. 111–240, title III][/us/pl/111/240/tIII], § 3006, Sept. 27, 2010, [124 Stat. 2577][/us/stat/124/2577].)
 
 ----------
 
@@ -92,7 +92,7 @@
 
 [/us/usc/t12/s5704/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5704%2Fb
 [/us/usc/t12/s5704/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5704%2Fe
-[/us/pl/111/240/s3006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs3006
+[/us/pl/111/240/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2FtIII
 [/us/stat/124/2577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2577
 
 

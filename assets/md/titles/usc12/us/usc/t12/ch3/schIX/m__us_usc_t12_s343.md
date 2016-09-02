@@ -83,7 +83,7 @@
 
         (E) If an entity to which a Federal reserve bank has provided a loan under this paragraph becomes a covered financial company, as defined in section 201 of the Dodd-Frank Wall Street Reform and Consumer Protection Act \[[12 U.S.C. 5381][/us/usc/t12/s5381]\], at any time while such loan is outstanding, and the Federal reserve bank incurs a realized net loss on the loan, then the Federal reserve bank shall have a claim equal to the amount of the net realized loss against the covered entity, with the same priority as an obligation to the Secretary of the Treasury under section 210(b) of the Dodd-Frank Wall Street Reform and Consumer Protection Act \[[12 U.S.C. 5390(b)][/us/usc/t12/s5390/b]\].
 
-([Dec. 23, 1913, ch. 6, § 13][/us/act/1913-12-23/ch6/s13] (pars.), [38 Stat. 263][/us/stat/38/263]; [Sept. 7, 1916, ch. 461][/us/act/1916-09-07/ch461], [39 Stat. 752][/us/stat/39/752]; [Mar. 4, 1923, ch. 252][/us/act/1923-03-04/ch252], title IV, § 402, [42 Stat. 1478][/us/stat/42/1478]; [July 21, 1932, ch. 520, § 210][/us/act/1932-07-21/ch520/s210], [47 Stat. 715][/us/stat/47/715]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 203(a), title III, § 322, [49 Stat. 704][/us/stat/49/704], 714; [Pub. L. 102–242, title IV, § 473][/us/pl/102/242/s473], Dec. 19, 1991, [105 Stat. 2386][/us/stat/105/2386]; [Pub. L. 111–203, title XI, § 1101(a)][/us/pl/111/203/s1101/a], July 21, 2010, [124 Stat. 2113][/us/stat/124/2113].)
+([Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 13 (pars.), [38 Stat. 263][/us/stat/38/263]; [Sept. 7, 1916, ch. 461][/us/act/1916-09-07/ch461], [39 Stat. 752][/us/stat/39/752]; [Mar. 4, 1923, ch. 252][/us/act/1923-03-04/ch252], title IV, § 402, [42 Stat. 1478][/us/stat/42/1478]; [July 21, 1932, ch. 520][/us/act/1932-07-21/ch520], § 210, [47 Stat. 715][/us/stat/47/715]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 203(a), title III, § 322, [49 Stat. 704][/us/stat/49/704], 714; [Pub. L. 102–242, title IV][/us/pl/102/242/tIV], § 473, Dec. 19, 1991, [105 Stat. 2386][/us/stat/105/2386]; [Pub. L. 111–203, title XI][/us/pl/111/203/tXI], § 1101(a), July 21, 2010, [124 Stat. 2113][/us/stat/124/2113].)
 
  __References in Text__ 
 
@@ -93,15 +93,15 @@
 
  __Codification__ 
 
-    Section is comprised of the second par. and par. (3) of section 13 of act Dec. 23, 1913. Act Mar. 4, 1923, split the second par. of section 13, as amended in 1916 ([39 Stat. 752][/us/stat/39/752]), into two pars., the first of which constitutes the first par. of this section and the second of which constitutes [section 344 of this title][/us/usc/t12/s344]. Act July 21, 1932, added the second par. of this section which was designated to follow the second par. of section 13. [Pub. L. 111–203, § 1101(a)(1)][/us/pl/111/203/s1101/a/1], designated the second par. as par. (3). For classification to this title of other pars. of section 13, see Codification note set out under [section 342 of this title][/us/usc/t12/s342].
+    Section is comprised of the second par. and par. (3) of section 13 of act Dec. 23, 1913. Act Mar. 4, 1923, split the second par. of section 13, as amended in 1916 ([39 Stat. 752][/us/stat/39/752]), into two pars., the first of which constitutes the first par. of this section and the second of which constitutes [section 344 of this title][/us/usc/t12/s344]. Act July 21, 1932, added the second par. of this section which was designated to follow the second par. of section 13. [Pub. L. 111–203][/us/pl/111/203], § 1101(a)(1), designated the second par. as par. (3). For classification to this title of other pars. of section 13, see Codification note set out under [section 342 of this title][/us/usc/t12/s342].
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–203, § 1101(a)(1)][/us/pl/111/203/s1101/a/1]–(4), designated second par. as par. (3)(A), substituted “any participant in any program or facility with broad-based eligibility” for “any individual, partnership, or corporation”, “bill of exchange,” for “bill of exchange for an individual or a partnership or corporation”, and “such participant in any program or facility with broad-based eligibility” for “such individual, partnership, or corporation”.
+    2010—[Pub. L. 111–203][/us/pl/111/203], § 1101(a)(1)–(4), designated second par. as par. (3)(A), substituted “any participant in any program or facility with broad-based eligibility” for “any individual, partnership, or corporation”, “bill of exchange,” for “bill of exchange for an individual or a partnership or corporation”, and “such participant in any program or facility with broad-based eligibility” for “such individual, partnership, or corporation”.
 
-    Par. (3)(A). [Pub. L. 111–203, § 1101(a)(5)][/us/pl/111/203/s1101/a/5], which directed substitution of “for any participant in any program or facility with broad-based eligibility” for “for individuals, partnerships, corporations”, was executed by making the substitution for “for individuals, partnerships, or corporations”, to reflect the probable intent of Congress.
+    Par. (3)(A). [Pub. L. 111–203][/us/pl/111/203], § 1101(a)(5), which directed substitution of “for any participant in any program or facility with broad-based eligibility” for “for individuals, partnerships, corporations”, was executed by making the substitution for “for individuals, partnerships, or corporations”, to reflect the probable intent of Congress.
 
-    Par. (3)(B) to (E). [Pub. L. 111–203, § 1101(a)(6)][/us/pl/111/203/s1101/a/6], added subpars. (B) to (E).
+    Par. (3)(B) to (E). [Pub. L. 111–203][/us/pl/111/203], § 1101(a)(6), added subpars. (B) to (E).
 
     1991—[Pub. L. 102–242][/us/pl/102/242] struck out “of the kinds and maturities made eligible for discount for member banks under other provisions of this chapter” after first reference to “bills of exchange” in second par.
 
@@ -119,7 +119,7 @@
 
  __References to Third Undesignated Paragraph Deemed To Be References to Paragraph (3)__ 
 
-[Pub. L. 111–203, title XI, § 1101(c)][/us/pl/111/203/s1101/c], July 21, 2010, [124 Stat. 2115][/us/stat/124/2115], provided that: 
+[Pub. L. 111–203, title XI][/us/pl/111/203/tXI], § 1101(c), July 21, 2010, [124 Stat. 2115][/us/stat/124/2115], provided that: 
 
 > “On and after the date of enactment of this Act \[July 21, 2010\], any reference in any provision of Federal law to the third undesignated paragraph of section 13 of the Federal Reserve Act ([12 U.S.C. 343][/us/usc/t12/s343]) shall be deemed to be a reference to section 13(3) of the Federal Reserve Act \[[12 U.S.C. 343(3)][/us/usc/t12/s343/3]\], as so designated by this section.”
 
@@ -134,19 +134,19 @@
 [/us/usc/t12/s5381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5381
 [/us/usc/t12/s5381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5381
 [/us/usc/t12/s5390/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5390%2Fb
-[/us/act/1913-12-23/ch6/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs13
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
 [/us/stat/38/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F263
 [/us/act/1916-09-07/ch461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-09-07%2Fch461
 [/us/stat/39/752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F752
 [/us/act/1923-03-04/ch252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1923-03-04%2Fch252
 [/us/stat/42/1478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F1478
-[/us/act/1932-07-21/ch520/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-07-21%2Fch520%2Fs210
+[/us/act/1932-07-21/ch520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-07-21%2Fch520
 [/us/stat/47/715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F715
 [/us/act/1935-08-23/ch614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch614
 [/us/stat/49/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F704
-[/us/pl/102/242/s473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs473
+[/us/pl/102/242/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtIV
 [/us/stat/105/2386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2386
-[/us/pl/111/203/s1101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1101%2Fa
+[/us/pl/111/203/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtXI
 [/us/stat/124/2113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2113
 [/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
 [/us/stat/38/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F251
@@ -156,16 +156,16 @@
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301
 [/us/stat/39/752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F752
 [/us/usc/t12/s344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs344
-[/us/pl/111/203/s1101/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1101%2Fa%2F1
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/usc/t12/s342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs342
-[/us/pl/111/203/s1101/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1101%2Fa%2F1
-[/us/pl/111/203/s1101/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1101%2Fa%2F5
-[/us/pl/111/203/s1101/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1101%2Fa%2F6
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs4
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301
-[/us/pl/111/203/s1101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1101%2Fc
+[/us/pl/111/203/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtXI
 [/us/stat/124/2115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2115
 [/us/usc/t12/s343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs343
 [/us/usc/t12/s343/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs343%2F3

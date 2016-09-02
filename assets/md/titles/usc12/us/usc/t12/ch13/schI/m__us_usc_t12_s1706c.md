@@ -57,17 +57,17 @@
 
         Subsections (c), (d), (e), (f), (g), (h), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  (j), and (k)  <sup>\[1\]</sup>  of [section 1710 of this title][/us/usc/t12/s1710] shall be applicable to mortgages insured under this section except that all references therein to the Mutual Mortgage Insurance Funds or the Fund shall be construed to refer to the General Insurance Fund, and all references therein to [section 1709 of this title][/us/usc/t12/s1709] shall be construed to refer to this section: Provided, That debentures issued in connection with mortgages insured under this section shall have the same tax exemption as debentures issued in connection with mortgages insured under [section 1709 of this title][/us/usc/t12/s1709].
 
-([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title I, § 8, as added [Apr. 20, 1950, ch. 94][/us/act/1950-04-20/ch94], title I, § 102, [64 Stat. 48][/us/stat/64/48]; amended [Aug. 3, 1951, ch. 293, § 1][/us/act/1951-08-03/ch293/s1], [65 Stat. 173][/us/stat/65/173]; [June 30, 1953, ch. 170, § 2][/us/act/1953-06-30/ch170/s2], [67 Stat. 121][/us/stat/67/121]; [Aug. 2, 1954, ch. 649][/us/act/1954-08-02/ch649], title I, § 103, [68 Stat. 591][/us/stat/68/591]; [Pub. L. 86–372, title I, § 116(a)][/us/pl/86/372/s116/a], Sept. 23, 1959, [73 Stat. 664][/us/stat/73/664]; [Pub. L. 89–117, title XI, § 1108(b)][/us/pl/89/117/s1108/b], Aug. 10, 1965, [79 Stat. 504][/us/stat/79/504]; [Pub. L. 90–19, § 1(a)(3)][/us/pl/90/19/s1/a/3], (4), May 25, 1967, [81 Stat. 17][/us/stat/81/17]; [Pub. L. 91–606, title III, § 301(b)][/us/pl/91/606/s301/b], Dec. 31, 1970, [84 Stat. 1758][/us/stat/84/1758]; [Pub. L. 93–288, title VII, § 702(b)][/us/pl/93/288/s702/b], formerly title VI, § 602(b), May 22, 1974, [88 Stat. 163][/us/stat/88/163], renumbered title VII, § 702(b), [Pub. L. 103–337, div. C, title XXXIV, § 3411(a)(1)][/us/pl/103/337/s3411/a/1], (2), Oct. 5, 1994, [108 Stat. 3100][/us/stat/108/3100]; [Pub. L. 100–707, title I, § 109(e)(1)][/us/pl/100/707/s109/e/1], Nov. 23, 1988, [102 Stat. 4708][/us/stat/102/4708].)
+([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title I, § 8, as added [Apr. 20, 1950, ch. 94][/us/act/1950-04-20/ch94], title I, § 102, [64 Stat. 48][/us/stat/64/48]; amended [Aug. 3, 1951, ch. 293][/us/act/1951-08-03/ch293], § 1, [65 Stat. 173][/us/stat/65/173]; [June 30, 1953, ch. 170][/us/act/1953-06-30/ch170], § 2, [67 Stat. 121][/us/stat/67/121]; [Aug. 2, 1954, ch. 649][/us/act/1954-08-02/ch649], title I, § 103, [68 Stat. 591][/us/stat/68/591]; [Pub. L. 86–372, title I][/us/pl/86/372/tI], § 116(a), Sept. 23, 1959, [73 Stat. 664][/us/stat/73/664]; [Pub. L. 89–117, title XI][/us/pl/89/117/tXI], § 1108(b), Aug. 10, 1965, [79 Stat. 504][/us/stat/79/504]; [Pub. L. 90–19][/us/pl/90/19], § 1(a)(3), (4), May 25, 1967, [81 Stat. 17][/us/stat/81/17]; [Pub. L. 91–606, title III][/us/pl/91/606/tIII], § 301(b), Dec. 31, 1970, [84 Stat. 1758][/us/stat/84/1758]; [Pub. L. 93–288, title VII][/us/pl/93/288/tVII], § 702(b), formerly title VI, § 602(b), May 22, 1974, [88 Stat. 163][/us/stat/88/163], renumbered title VII, § 702(b), [Pub. L. 103–337, div. C, title XXXIV][/us/pl/103/337/dC/tXXXIV], § 3411(a)(1), (2), Oct. 5, 1994, [108 Stat. 3100][/us/stat/108/3100]; [Pub. L. 100–707, title I][/us/pl/100/707/tI], § 109(e)(1), Nov. 23, 1988, [102 Stat. 4708][/us/stat/102/4708].)
 
  __References in Text__ 
 
     This chapter, referred to in subsec. (a), was in the original “this Act”, meaning [act June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], [48 Stat. 1246][/us/stat/48/1246], which is classified principally to this chapter (§ 1701 et seq.). For complete classification of this Act to the Code, see Tables.
 
-    Section 203(b)(2)(D) of this Act, referred to in subsec. (f), which was formerly classified to [section 1709(b)(2)(D) of this title][/us/usc/t12/s1709/b/2/D], was repealed by [act Aug. 2, 1954, ch. 649][/us/act/1954-08-02/ch649], title I, § 104, [68 Stat. 591][/us/stat/68/591].
+    Section 203(b)(2)(D) of this Act, referred to in subsec. (f), which was formerly classified to [section 1709(b)(2)(D) of this title][/us/usc/t12/s1709/b/2/D], was repealed by [act Aug. 2, 1954, ch. 649, title I][/us/act/1954-08-02/ch649/tI], § 104, [68 Stat. 591][/us/stat/68/591].
 
-    Subsection (h) of [section 1710 of this title][/us/usc/t12/s1710], referred to in subsec. (g), was redesignated subsec. (i) by [Pub. L. 105–276, title VI, § 602(1)][/us/pl/105/276/s602/1], Oct. 21, 1998, [112 Stat. 2674][/us/stat/112/2674].
+    Subsection (h) of [section 1710 of this title][/us/usc/t12/s1710], referred to in subsec. (g), was redesignated subsec. (i) by [Pub. L. 105–276, title VI][/us/pl/105/276/tVI], § 602(1), Oct. 21, 1998, [112 Stat. 2674][/us/stat/112/2674].
 
-    Subsection (k) of [section 1710 of this title][/us/usc/t12/s1710], referred to in subsec. (g), was repealed by [Pub. L. 105–276, title VI, § 601(c)][/us/pl/105/276/s601/c], Oct. 21, 1998, [112 Stat. 2673][/us/stat/112/2673].
+    Subsection (k) of [section 1710 of this title][/us/usc/t12/s1710], referred to in subsec. (g), was repealed by [Pub. L. 105–276, title VI][/us/pl/105/276/tVI], § 601(c), Oct. 21, 1998, [112 Stat. 2673][/us/stat/112/2673].
 
     The General Insurance Fund, referred to in subsec. (g), was established by [section 1735c of this title][/us/usc/t12/s1735c].
 
@@ -79,15 +79,15 @@
 
     1970—Subsec. (b)(2). [Pub. L. 91–606][/us/pl/91/606] substituted reference to section “4402(1)” for “1855a(a)” of title 42.
 
-    1967—[Pub. L. 90–19, § 1(a)(3)][/us/pl/90/19/s1/a/3], substituted “Secretary” for “Commissioner” wherever appearing in subsecs. (a), (b)(1) to (4), (6), (7), and (c) to (f).
+    1967—[Pub. L. 90–19][/us/pl/90/19], § 1(a)(3), substituted “Secretary” for “Commissioner” wherever appearing in subsecs. (a), (b)(1) to (4), (6), (7), and (c) to (f).
 
-    Subsec. (b)(2). [Pub. L. 90–19, § 1(a)(4)][/us/pl/90/19/s1/a/4], substituted “Secretary’s” for “Commissioner’s”.
+    Subsec. (b)(2). [Pub. L. 90–19][/us/pl/90/19], § 1(a)(4), substituted “Secretary’s” for “Commissioner’s”.
 
-    1965—Subsec. (g). [Pub. L. 89–117, § 1108(b)(1)][/us/pl/89/117/s1108/b/1], substituted “General Insurance Fund” for “Title I Housing Insurance Fund”.
+    1965—Subsec. (g). [Pub. L. 89–117][/us/pl/89/117], § 1108(b)(1), substituted “General Insurance Fund” for “Title I Housing Insurance Fund”.
 
-    Subsec. (h). [Pub. L. 89–117, § 1108(b)(2)][/us/pl/89/117/s1108/b/2], repealed subsec. (h) which created the Title I Housing Insurance Fund.
+    Subsec. (h). [Pub. L. 89–117][/us/pl/89/117], § 1108(b)(2), repealed subsec. (h) which created the Title I Housing Insurance Fund.
 
-    Subsec. (i). [Pub. L. 89–117, § 1108(b)(2)][/us/pl/89/117/s1108/b/2], repealed subsec. (i) which dealt with the disposition of surplus funds of the Title I Housing Insurance Fund, purchase of debentures, and credits and charges to fund.
+    Subsec. (i). [Pub. L. 89–117][/us/pl/89/117], § 1108(b)(2), repealed subsec. (i) which dealt with the disposition of surplus funds of the Title I Housing Insurance Fund, purchase of debentures, and credits and charges to fund.
 
     1959—Subsec. (g). [Pub. L. 86–372][/us/pl/86/372] inserted reference to subsecs. (j) and (k) of [section 1710 of this title][/us/usc/t12/s1710].
 
@@ -107,7 +107,7 @@
 
  __Repayment to Treasury on Capital Account of Title I Insurance Fund__ 
 
-    [Act Mar. 10, 1953, ch. 5, § 2][/us/act/1953-03-10/ch5/s2], [67 Stat. 5][/us/stat/67/5], directed the Federal Housing Commissioner to pay out of the capital account of the Title I Insurance Fund to the Secretary of the Treasury, prior to June 30, 1954, the sum of $8,333,313.65 either in one lump sum or in installments, except that the first payment was to be made on July 1, 1953.
+    [Act Mar. 10, 1953, ch. 5][/us/act/1953-03-10/ch5], § 2, [67 Stat. 5][/us/stat/67/5], directed the Federal Housing Commissioner to pay out of the capital account of the Title I Insurance Fund to the Secretary of the Treasury, prior to June 30, 1954, the sum of $8,333,313.65 either in one lump sum or in installments, except that the first payment was to be made on July 1, 1953.
 
 ----------
 
@@ -124,47 +124,47 @@
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
 [/us/act/1950-04-20/ch94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-04-20%2Fch94
 [/us/stat/64/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F48
-[/us/act/1951-08-03/ch293/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-08-03%2Fch293%2Fs1
+[/us/act/1951-08-03/ch293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-08-03%2Fch293
 [/us/stat/65/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F173
-[/us/act/1953-06-30/ch170/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-30%2Fch170%2Fs2
+[/us/act/1953-06-30/ch170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-30%2Fch170
 [/us/stat/67/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F121
 [/us/act/1954-08-02/ch649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-02%2Fch649
 [/us/stat/68/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F591
-[/us/pl/86/372/s116/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F372%2Fs116%2Fa
+[/us/pl/86/372/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F372%2FtI
 [/us/stat/73/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F664
-[/us/pl/89/117/s1108/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117%2Fs1108%2Fb
+[/us/pl/89/117/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117%2FtXI
 [/us/stat/79/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F504
-[/us/pl/90/19/s1/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19%2Fs1%2Fa%2F3
+[/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
 [/us/stat/81/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F17
-[/us/pl/91/606/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F606%2Fs301%2Fb
+[/us/pl/91/606/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F606%2FtIII
 [/us/stat/84/1758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1758
-[/us/pl/93/288/s702/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs702%2Fb
+[/us/pl/93/288/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2FtVII
 [/us/stat/88/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F163
-[/us/pl/103/337/s3411/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs3411%2Fa%2F1
+[/us/pl/103/337/dC/tXXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdC%2FtXXXIV
 [/us/stat/108/3100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3100
-[/us/pl/100/707/s109/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs109%2Fe%2F1
+[/us/pl/100/707/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2FtI
 [/us/stat/102/4708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4708
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
 [/us/stat/48/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1246
 [/us/usc/t12/s1709/b/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1709%2Fb%2F2%2FD
-[/us/act/1954-08-02/ch649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-02%2Fch649
+[/us/act/1954-08-02/ch649/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-02%2Fch649%2FtI
 [/us/stat/68/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F591
 [/us/usc/t12/s1710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1710
-[/us/pl/105/276/s602/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs602%2F1
+[/us/pl/105/276/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtVI
 [/us/stat/112/2674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2674
 [/us/usc/t12/s1710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1710
-[/us/pl/105/276/s601/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs601%2Fc
+[/us/pl/105/276/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtVI
 [/us/stat/112/2673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2673
 [/us/usc/t12/s1735c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1735c
 [/us/pl/100/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707
 [/us/pl/93/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288
 [/us/usc/t42/s4402/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4402%2F1
 [/us/pl/91/606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F606
-[/us/pl/90/19/s1/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19%2Fs1%2Fa%2F3
-[/us/pl/90/19/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19%2Fs1%2Fa%2F4
-[/us/pl/89/117/s1108/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117%2Fs1108%2Fb%2F1
-[/us/pl/89/117/s1108/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117%2Fs1108%2Fb%2F2
-[/us/pl/89/117/s1108/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117%2Fs1108%2Fb%2F2
+[/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
+[/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
+[/us/pl/89/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117
+[/us/pl/89/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117
+[/us/pl/89/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117
 [/us/pl/86/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F372
 [/us/usc/t12/s1710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1710
 [/us/pl/93/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288
@@ -173,7 +173,7 @@
 [/us/pl/91/606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F606
 [/us/pl/91/606/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F606%2Fs304
 [/us/usc/t26/s165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs165
-[/us/act/1953-03-10/ch5/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-03-10%2Fch5%2Fs2
+[/us/act/1953-03-10/ch5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-03-10%2Fch5
 [/us/stat/67/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F5
 
 

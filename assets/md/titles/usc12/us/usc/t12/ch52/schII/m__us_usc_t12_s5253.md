@@ -17,7 +17,7 @@
 
     All provisions of this chapter are designated as an emergency requirement and necessary to meet emergency needs pursuant to section 204(a) of S. Con. Res  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a period. </sup></sup>  21 (110th Congress), the concurrent resolution on the budget for fiscal year 2008 and rescissions of any amounts provided in this chapter shall not be counted for purposes of budget enforcement.
 
-([Pub. L. 110–343, div. A, title II, § 204][/us/pl/110/343/s204], Oct. 3, 2008, [122 Stat. 3801][/us/stat/122/3801].)
+([Pub. L. 110–343, div. A, title II][/us/pl/110/343/dA/tII], § 204, Oct. 3, 2008, [122 Stat. 3801][/us/stat/122/3801].)
 
  __References in Text__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/110/343/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs204
+[/us/pl/110/343/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdA%2FtII
 [/us/stat/122/3801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3801
 [/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
 [/us/stat/122/3765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3765

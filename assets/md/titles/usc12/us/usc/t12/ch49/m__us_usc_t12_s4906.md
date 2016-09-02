@@ -17,7 +17,7 @@
 
     No fee or other cost may be imposed on any mortgagor with respect to the provision of any notice or information to the mortgagor pursuant to this chapter.
 
-([Pub. L. 105–216, § 7][/us/pl/105/216/s7], July 29, 1998, [112 Stat. 905][/us/stat/112/905].)
+([Pub. L. 105–216][/us/pl/105/216], § 7, July 29, 1998, [112 Stat. 905][/us/stat/112/905].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/105/216/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F216%2Fs7
+[/us/pl/105/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F216
 [/us/stat/112/905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F905
 
 

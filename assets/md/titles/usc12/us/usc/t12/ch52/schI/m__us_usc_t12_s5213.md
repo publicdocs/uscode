@@ -35,7 +35,7 @@
 
     (9) the utility of purchasing other real estate owned and instruments backed by mortgages on multifamily properties.
 
-([Pub. L. 110–343, div. A, title I, § 103][/us/pl/110/343/s103], Oct. 3, 2008, [122 Stat. 3770][/us/stat/122/3770].)
+([Pub. L. 110–343, div. A, title I][/us/pl/110/343/dA/tI], § 103, Oct. 3, 2008, [122 Stat. 3770][/us/stat/122/3770].)
 
  __References in Text__ 
 
@@ -49,7 +49,7 @@
 ----------
 
 [/us/usc/t26/s402/c/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs402%2Fc%2F8%2FB
-[/us/pl/110/343/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs103
+[/us/pl/110/343/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdA%2FtI
 [/us/stat/122/3770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3770
 [/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
 [/us/stat/122/3765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3765

@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of this chapter, a farm credit district board, bank board, or bank officer or employee shall not remove any director or officer of any production credit association or Federal land bank association.
 
-([Pub. L. 92–181, title V, § 5][/us/pl/92/181/s5].38, as added [Pub. L. 100–233, title IV, § 432(c)][/us/pl/100/233/s432/c], Jan. 6, 1988, [101 Stat. 1661][/us/stat/101/1661].)
+([Pub. L. 92–181, title V][/us/pl/92/181/tV], § 5.38, as added [Pub. L. 100–233, title IV][/us/pl/100/233/tIV], § 432(c), Jan. 6, 1988, [101 Stat. 1661][/us/stat/101/1661].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/92/181/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs5
-[/us/pl/100/233/s432/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs432%2Fc
+[/us/pl/92/181/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtV
+[/us/pl/100/233/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtIV
 [/us/stat/101/1661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1661
 
 

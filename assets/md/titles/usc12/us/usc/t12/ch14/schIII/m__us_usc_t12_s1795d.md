@@ -43,7 +43,7 @@
 
         A credit union or credit union group that becomes a member of the Facility later than six months after the date the Board opens books for capital stock subscriptions, may not borrow or receive advances from the Facility without approval by the Board for a period of six months after becoming a member.
 
-([June 26, 1934, ch. 750][/us/act/1934-06-26/ch750], title III, formerly subch. III, § 305, as added and amended [Pub. L. 95–630, title V, § 502(b)][/us/pl/95/630/s502/b], title XVIII, § 1802, Nov. 10, 1978, [92 Stat. 3681][/us/stat/92/3681], 3721; [Pub. L. 96–221, title III, § 309(a)(2)][/us/pl/96/221/s309/a/2], (4), (b)(1), Mar. 31, 1980, [94 Stat. 148][/us/stat/94/148], 149.)
+([June 26, 1934, ch. 750][/us/act/1934-06-26/ch750], title III, formerly subch. III, § 305, as added and amended [Pub. L. 95–630, title V][/us/pl/95/630/tV], § 502(b), title XVIII, § 1802, Nov. 10, 1978, [92 Stat. 3681][/us/stat/92/3681], 3721; [Pub. L. 96–221, title III][/us/pl/96/221/tIII], § 309(a)(2), (4), (b)(1), Mar. 31, 1980, [94 Stat. 148][/us/stat/94/148], 149.)
 
  __Codification__ 
 
@@ -51,13 +51,13 @@
 
  __Amendments__ 
 
-    1980—Subsec. (a). [Pub. L. 96–221, § 309(a)(4)][/us/pl/96/221/s309/a/4], substituted “Board” for “Administrator”, such change having been previously made by [Pub. L. 95–630][/us/pl/95/630].
+    1980—Subsec. (a). [Pub. L. 96–221][/us/pl/96/221], § 309(a)(4), substituted “Board” for “Administrator”, such change having been previously made by [Pub. L. 95–630][/us/pl/95/630].
 
-    Subsec. (b). [Pub. L. 96–221, § 309(a)(2)][/us/pl/96/221/s309/a/2], (4), substituted “Board” for “Administrator” wherever appearing, such change having been previously made by [Pub. L. 95–630][/us/pl/95/630], and in par. (3) inserted specific requirement that rates on required capital stock be without preference.
+    Subsec. (b). [Pub. L. 96–221][/us/pl/96/221], § 309(a)(2), (4), substituted “Board” for “Administrator” wherever appearing, such change having been previously made by [Pub. L. 95–630][/us/pl/95/630], and in par. (3) inserted specific requirement that rates on required capital stock be without preference.
 
-    Subsecs. (c) to (e). [Pub. L. 96–221, § 309(a)(4)][/us/pl/96/221/s309/a/4], substituted “Board” for “Administrator” wherever appearing, such change having been previously made by [Pub. L. 95–630][/us/pl/95/630].
+    Subsecs. (c) to (e). [Pub. L. 96–221][/us/pl/96/221], § 309(a)(4), substituted “Board” for “Administrator” wherever appearing, such change having been previously made by [Pub. L. 95–630][/us/pl/95/630].
 
-    1978—[Pub. L. 95–630, § 502(b)][/us/pl/95/630/s502/b], substituted “Board” for “Administrator” wherever appearing.
+    1978—[Pub. L. 95–630][/us/pl/95/630], § 502(b), substituted “Board” for “Administrator” wherever appearing.
 
  __Effective Date of 1978 Amendment__ 
 
@@ -72,19 +72,19 @@
 
 [/us/usc/t12/s1795c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1795c
 [/us/act/1934-06-26/ch750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-26%2Fch750
-[/us/pl/95/630/s502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs502%2Fb
+[/us/pl/95/630/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtV
 [/us/stat/92/3681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3681
-[/us/pl/96/221/s309/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs309%2Fa%2F2
+[/us/pl/96/221/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2FtIII
 [/us/stat/94/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F148
 [/us/pl/96/221/s309/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs309%2Fb%2F1
 [/us/act/1934-06-26/ch750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-26%2Fch750
-[/us/pl/96/221/s309/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs309%2Fa%2F4
+[/us/pl/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221
 [/us/pl/95/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630
-[/us/pl/96/221/s309/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs309%2Fa%2F2
+[/us/pl/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221
 [/us/pl/95/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630
-[/us/pl/96/221/s309/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs309%2Fa%2F4
+[/us/pl/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221
 [/us/pl/95/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630
-[/us/pl/95/630/s502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs502%2Fb
+[/us/pl/95/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630
 [/us/pl/95/630/s509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs509
 [/us/usc/t12/s1752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1752
 

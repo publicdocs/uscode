@@ -27,11 +27,11 @@
 
         When the loan is not made through a Federal land bank association, the applicant shall purchase stock in the bank in accordance with the capitalization requirements provided for in the bylaws of the bank.
 
-([Pub. L. 92–181, title I, § 1][/us/pl/92/181/s1].13, as added [Pub. L. 100–233, title IV, § 401][/us/pl/100/233/s401], Jan. 6, 1988, [101 Stat. 1628][/us/stat/101/1628].)
+([Pub. L. 92–181, title I][/us/pl/92/181/tI], § 1.13, as added [Pub. L. 100–233, title IV][/us/pl/100/233/tIV], § 401, Jan. 6, 1988, [101 Stat. 1628][/us/stat/101/1628].)
 
  __Prior Provisions__ 
 
-    A prior section 1.13 of [Pub. L. 92–181][/us/pl/92/181] was classified to [section 2031 of this title][/us/usc/t12/s2031] prior to the general amendment of this subchapter by [Pub. L. 100–233, § 401][/us/pl/100/233/s401].
+    A prior section 1.13 of [Pub. L. 92–181][/us/pl/92/181] was classified to [section 2031 of this title][/us/usc/t12/s2031] prior to the general amendment of this subchapter by [Pub. L. 100–233][/us/pl/100/233], § 401.
 
 ----------
 
@@ -41,11 +41,11 @@
 ----------
 
 [/us/usc/t12/s2015/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2015%2Fa
-[/us/pl/92/181/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs1
-[/us/pl/100/233/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs401
+[/us/pl/92/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtI
+[/us/pl/100/233/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtIV
 [/us/stat/101/1628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1628
 [/us/pl/92/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181
 [/us/usc/t12/s2031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2031
-[/us/pl/100/233/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs401
+[/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
 
 

@@ -17,7 +17,7 @@
 
     The Secretary shall coordinate, as appropriate, with foreign financial authorities and central banks to work toward the establishment of similar programs by such authorities and central banks. To the extent that such foreign financial authorities or banks hold troubled assets as a result of extending financing to financial institutions that have failed or defaulted on such financing, such troubled assets qualify for purchase under [section 5211 of this title][/us/usc/t12/s5211].
 
-([Pub. L. 110–343, div. A, title I, § 112][/us/pl/110/343/s112], Oct. 3, 2008, [122 Stat. 3777][/us/stat/122/3777].)
+([Pub. L. 110–343, div. A, title I][/us/pl/110/343/dA/tI], § 112, Oct. 3, 2008, [122 Stat. 3777][/us/stat/122/3777].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t12/s5211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5211
-[/us/pl/110/343/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs112
+[/us/pl/110/343/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdA%2FtI
 [/us/stat/122/3777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3777
 
 

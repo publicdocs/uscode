@@ -17,11 +17,11 @@
 
     The Farm Credit Administration shall have a seal, as adopted by the Board, which shall be judicially noted.
 
-([Pub. L. 92–181, title V, § 5][/us/pl/92/181/s5].13, formerly § 5.14, Dec. 10, 1971, [85 Stat. 620][/us/stat/85/620]; renumbered § 5.13 and amended [Pub. L. 99–205, title II, § 201(3)][/us/pl/99/205/s201/3], Dec. 23, 1985, [99 Stat. 1690][/us/stat/99/1690].)
+([Pub. L. 92–181, title V][/us/pl/92/181/tV], § 5.13, formerly § 5.14, Dec. 10, 1971, [85 Stat. 620][/us/stat/85/620]; renumbered § 5.13 and amended [Pub. L. 99–205, title II][/us/pl/99/205/tII], § 201(3), Dec. 23, 1985, [99 Stat. 1690][/us/stat/99/1690].)
 
  __Prior Provisions__ 
 
-    A prior section 5.13 of [Pub. L. 92–181][/us/pl/92/181] was classified to [section 2247 of this title][/us/usc/t12/s2247] prior to repeal by [Pub. L. 99–205, title II, § 201(2)][/us/pl/99/205/s201/2], Dec. 23, 1985, [99 Stat. 1690][/us/stat/99/1690].
+    A prior section 5.13 of [Pub. L. 92–181][/us/pl/92/181] was classified to [section 2247 of this title][/us/usc/t12/s2247] prior to repeal by [Pub. L. 99–205, title II][/us/pl/99/205/tII], § 201(2), Dec. 23, 1985, [99 Stat. 1690][/us/stat/99/1690].
 
  __Amendments__ 
 
@@ -38,13 +38,13 @@
 ----------
 ----------
 
-[/us/pl/92/181/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs5
+[/us/pl/92/181/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtV
 [/us/stat/85/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F620
-[/us/pl/99/205/s201/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2Fs201%2F3
+[/us/pl/99/205/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2FtII
 [/us/stat/99/1690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1690
 [/us/pl/92/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181
 [/us/usc/t12/s2247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2247
-[/us/pl/99/205/s201/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2Fs201%2F2
+[/us/pl/99/205/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2FtII
 [/us/stat/99/1690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1690
 [/us/pl/99/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205
 [/us/pl/99/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205

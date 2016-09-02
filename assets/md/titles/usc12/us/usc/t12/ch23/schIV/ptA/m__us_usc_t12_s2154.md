@@ -31,15 +31,15 @@
 
         Each bank shall have on hand at the time of issuance of any note, bond, debenture, or other similar obligation and at all times thereafter maintain, free from any lien or other pledge, notes and other obligations representing loans made under this chapter or real or personal property acquired in connection with loans made under this chapter, obligations of the United States or any agency thereof direct or fully guaranteed, other bank assets (including marketable securities) approved by the Farm Credit Administration, or cash, in an aggregate value equal to the total amount of notes, bonds, debentures, or other similar obligations outstanding for which the bank is primarily liable.
 
-([Pub. L. 92–181, title IV, § 4][/us/pl/92/181/s4].3, Dec. 10, 1971, [85 Stat. 611][/us/stat/85/611]; [Pub. L. 99–205, title I, § 101(3)][/us/pl/99/205/s101/3], Dec. 23, 1985, [99 Stat. 1678][/us/stat/99/1678]; [Pub. L. 100–233, title III, § 304][/us/pl/100/233/s304], title VIII, §§ 804(a)(3), 805(q), Jan. 6, 1988, [101 Stat. 1621][/us/stat/101/1621], 1715, 1716; [Pub. L. 100–399, title VII, § 702(b)][/us/pl/100/399/s702/b], Aug. 17, 1988, [102 Stat. 1006][/us/stat/102/1006].)
+([Pub. L. 92–181, title IV][/us/pl/92/181/tIV], § 4.3, Dec. 10, 1971, [85 Stat. 611][/us/stat/85/611]; [Pub. L. 99–205, title I][/us/pl/99/205/tI], § 101(3), Dec. 23, 1985, [99 Stat. 1678][/us/stat/99/1678]; [Pub. L. 100–233, title III][/us/pl/100/233/tIII], § 304, title VIII, §§ 804(a)(3), 805(q), Jan. 6, 1988, [101 Stat. 1621][/us/stat/101/1621], 1715, 1716; [Pub. L. 100–399, title VII][/us/pl/100/399/tVII], § 702(b), Aug. 17, 1988, [102 Stat. 1006][/us/stat/102/1006].)
 
  __Amendments__ 
 
-    1988—Subsec. (b)(2). [Pub. L. 100–233, § 804(a)(3)][/us/pl/100/233/s804/a/3], struck out subpar. (A) designation and struck out subpar. (B) which read as follows: “Any directive issued under this paragraph, including plans submitted pursuant thereto, shall be enforceable under the provisions of [section 2267 of this title][/us/usc/t12/s2267] to the same extent as an effective and outstanding order issued under [section 2261 of this title][/us/usc/t12/s2261] that has become final.”
+    1988—Subsec. (b)(2). [Pub. L. 100–233][/us/pl/100/233], § 804(a)(3), struck out subpar. (A) designation and struck out subpar. (B) which read as follows: “Any directive issued under this paragraph, including plans submitted pursuant thereto, shall be enforceable under the provisions of [section 2267 of this title][/us/usc/t12/s2267] to the same extent as an effective and outstanding order issued under [section 2261 of this title][/us/usc/t12/s2261] that has become final.”
 
-    Subsec. (c). [Pub. L. 100–233, § 805(q)][/us/pl/100/233/s805/q], which directed the amendment of subsec. (c) by substituting “direct or fully guaranteed” for “direct of fully guaranteed” was repealed by [Pub. L. 100–399, § 702(b)][/us/pl/100/399/s702/b]. See Construction of 1988 Amendment note below.
+    Subsec. (c). [Pub. L. 100–233][/us/pl/100/233], § 805(q), which directed the amendment of subsec. (c) by substituting “direct or fully guaranteed” for “direct of fully guaranteed” was repealed by [Pub. L. 100–399][/us/pl/100/399], § 702(b). See Construction of 1988 Amendment note below.
 
-    [Pub. L. 100–233, § 304][/us/pl/100/233/s304], amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Each bank shall have on hand at the time of issuance of any long-term notes, bonds, debentures, or other similar obligations and at all times thereafter maintain, free from any lien or other pledge, notes and other obligations representing loans made under the authority of this chapter, obligations of the United States or any agency thereof direct or fully guaranteed, other readily marketable securities approved by the Farm Credit Administration, or cash, in an aggregate value equal to the total amount of long-term notes, bonds, debentures, or other similar obligations outstanding for which the bank is primarily liable.”
+    [Pub. L. 100–233][/us/pl/100/233], § 304, amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Each bank shall have on hand at the time of issuance of any long-term notes, bonds, debentures, or other similar obligations and at all times thereafter maintain, free from any lien or other pledge, notes and other obligations representing loans made under the authority of this chapter, obligations of the United States or any agency thereof direct or fully guaranteed, other readily marketable securities approved by the Farm Credit Administration, or cash, in an aggregate value equal to the total amount of long-term notes, bonds, debentures, or other similar obligations outstanding for which the bank is primarily liable.”
 
     1985—[Pub. L. 99–205][/us/pl/99/205] substituted “Capital adequacy of banks and associations” for “Aggregate of obligations; collateral” in section catchline.
 
@@ -53,11 +53,11 @@
 
  __Construction of 1988 Amendment__ 
 
-    [Pub. L. 100–399, title VII, § 702(b)][/us/pl/100/399/s702/b], Aug. 17, 1988, [102 Stat. 1006][/us/stat/102/1006], provided that [section 805(q) of Pub. L. 100–233][/us/pl/100/233/s805/q], cited as a credit to this section, is repealed and that subsec. (c) of this section shall be applied and administered as if such section had not been enacted.
+    [Pub. L. 100–399, title VII][/us/pl/100/399/tVII], § 702(b), Aug. 17, 1988, [102 Stat. 1006][/us/stat/102/1006], provided that [section 805(q) of Pub. L. 100–233][/us/pl/100/233/s805/q], cited as a credit to this section, is repealed and that subsec. (c) of this section shall be applied and administered as if such section had not been enacted.
 
  __Minimum Capital Adequacy Standards__ 
 
-[Pub. L. 100–233, title III, § 301(a)][/us/pl/100/233/s301/a], Jan. 6, 1988, [101 Stat. 1608][/us/stat/101/1608], as amended by [Pub. L. 100–399, title III, § 301(a)][/us/pl/100/399/s301/a], Aug. 17, 1988, [102 Stat. 993][/us/stat/102/993], provided that:
+[Pub. L. 100–233, title III][/us/pl/100/233/tIII], § 301(a), Jan. 6, 1988, [101 Stat. 1608][/us/stat/101/1608], as amended by [Pub. L. 100–399, title III][/us/pl/100/399/tIII], § 301(a), Aug. 17, 1988, [102 Stat. 993][/us/stat/102/993], provided that:
 
 >     “(1) __In general.—__ 
 
@@ -96,32 +96,32 @@
 ----------
 ----------
 
-[/us/pl/92/181/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs4
+[/us/pl/92/181/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtIV
 [/us/stat/85/611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F611
-[/us/pl/99/205/s101/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2Fs101%2F3
+[/us/pl/99/205/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2FtI
 [/us/stat/99/1678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1678
-[/us/pl/100/233/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs304
+[/us/pl/100/233/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtIII
 [/us/stat/101/1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1621
-[/us/pl/100/399/s702/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs702%2Fb
+[/us/pl/100/399/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtVII
 [/us/stat/102/1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1006
-[/us/pl/100/233/s804/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs804%2Fa%2F3
+[/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
 [/us/usc/t12/s2267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2267
 [/us/usc/t12/s2261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2261
-[/us/pl/100/233/s805/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs805%2Fq
-[/us/pl/100/399/s702/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs702%2Fb
-[/us/pl/100/233/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs304
+[/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
+[/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
 [/us/pl/99/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205
 [/us/pl/99/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205
 [/us/pl/99/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205
 [/us/pl/99/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205
 [/us/pl/99/205/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2Fs401
 [/us/usc/t12/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2001
-[/us/pl/100/399/s702/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs702%2Fb
+[/us/pl/100/399/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtVII
 [/us/stat/102/1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1006
 [/us/pl/100/233/s805/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs805%2Fq
-[/us/pl/100/233/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs301%2Fa
+[/us/pl/100/233/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtIII
 [/us/stat/101/1608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1608
-[/us/pl/100/399/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs301%2Fa
+[/us/pl/100/399/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtIII
 [/us/stat/102/993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F993
 [/us/usc/t12/s2154/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2154%2Fc
 [/us/usc/t12/s2154/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2154%2Fa

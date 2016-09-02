@@ -13,9 +13,9 @@
 
 [Previous](./../../../..//us/usc/t12/ch35/m__us_usc_t12_s3420.md) | [Next](./../../../..//us/usc/t12/ch35/m__us_usc_t12_s3422.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3421)
 
-## § 3421. Repealed. [Pub. L. 104–66, title III, § 3001(d)][/us/pl/104/66/s3001/d], Dec. 21, 1995, [109 Stat. 734][/us/stat/109/734]
+## § 3421. Repealed. [Pub. L. 104–66, title III][/us/pl/104/66/tIII], § 3001(d), Dec. 21, 1995, [109 Stat. 734][/us/stat/109/734]
 
-    Section, [Pub. L. 95–630, title XI, § 1121][/us/pl/95/630/s1121], Nov. 10, 1978, [92 Stat. 3710][/us/stat/92/3710], related to reporting requirements.
+    Section, [Pub. L. 95–630, title XI][/us/pl/95/630/tXI], § 1121, Nov. 10, 1978, [92 Stat. 3710][/us/stat/92/3710], related to reporting requirements.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/pl/104/66/s3001/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3001%2Fd
+[/us/pl/104/66/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtIII
 [/us/stat/109/734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F734
-[/us/pl/95/630/s1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs1121
+[/us/pl/95/630/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtXI
 [/us/stat/92/3710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3710
 
 

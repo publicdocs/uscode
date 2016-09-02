@@ -17,7 +17,7 @@
 
     Notwithstanding any other law, no court shall have jurisdiction over any claim based on any action taken by the Attorney General or any refusal to take action under this subchapter, except for failure to provide notification under [section 4206 of this title][/us/usc/t12/s4206].
 
-([Pub. L. 101–647, title XXV, § 2568][/us/pl/101/647/s2568], Nov. 29, 1990, [104 Stat. 4898][/us/stat/104/4898].)
+([Pub. L. 101–647, title XXV][/us/pl/101/647/tXXV], § 2568, Nov. 29, 1990, [104 Stat. 4898][/us/stat/104/4898].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t12/s4206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4206
-[/us/pl/101/647/s2568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2568
+[/us/pl/101/647/tXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXV
 [/us/stat/104/4898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4898
 
 

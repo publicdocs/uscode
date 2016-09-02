@@ -43,7 +43,7 @@
 
         The term “net income” means income after deduction of all associated expenses calculated in accordance with generally accepted accounting principles.
 
-([Pub. L. 101–73, title XIII, § 1301][/us/pl/101/73/s1301], Aug. 9, 1989, [103 Stat. 547][/us/stat/103/547].)
+([Pub. L. 101–73, title XIII][/us/pl/101/73/tXIII], § 1301, Aug. 9, 1989, [103 Stat. 547][/us/stat/103/547].)
 
  __References in Text__ 
 
@@ -63,7 +63,7 @@
 [/us/usc/t12/s1441a–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1441a%E2%80%932
 [/us/usc/t26/s501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc
 [/us/usc/t42/s3931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3931
-[/us/pl/101/73/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs1301
+[/us/pl/101/73/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtXIII
 [/us/stat/103/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F547
 [/us/pl/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448
 [/us/stat/82/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F476

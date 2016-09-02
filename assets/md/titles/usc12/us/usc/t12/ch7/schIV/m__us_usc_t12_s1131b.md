@@ -15,7 +15,7 @@
 
 ## § 1131b. Repealed. [July 26, 1956, ch. 741][/us/act/1956-07-26/ch741], title I, § 105(c), [70 Stat. 665][/us/stat/70/665]
 
-    Section, [act June 16, 1933, ch. 98][/us/act/1933-06-16/ch98], title I, § 4, [48 Stat. 257][/us/stat/48/257], provided for capital stock of Production Credit Corporations, value of shares, amount and subscription for initial stock, and payments for stock subscribed on behalf of the United States.
+    Section, [act June 16, 1933, ch. 98, title I][/us/act/1933-06-16/ch98/tI], § 4, [48 Stat. 257][/us/stat/48/257], provided for capital stock of Production Credit Corporations, value of shares, amount and subscription for initial stock, and payments for stock subscribed on behalf of the United States.
 
 ----------
 
@@ -26,7 +26,7 @@
 
 [/us/act/1956-07-26/ch741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-26%2Fch741
 [/us/stat/70/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F665
-[/us/act/1933-06-16/ch98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-16%2Fch98
+[/us/act/1933-06-16/ch98/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-16%2Fch98%2FtI
 [/us/stat/48/257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F257
 
 

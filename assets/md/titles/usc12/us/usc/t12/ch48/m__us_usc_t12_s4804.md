@@ -21,7 +21,7 @@
 
     (2) to harmonize, to the extent practicable, any inconsistent publication and public notice requirements.
 
-([Pub. L. 103–325, title III, § 304][/us/pl/103/325/s304], Sept. 23, 1994, [108 Stat. 2215][/us/stat/108/2215].)
+([Pub. L. 103–325, title III][/us/pl/103/325/tIII], § 304, Sept. 23, 1994, [108 Stat. 2215][/us/stat/108/2215].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/103/325/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs304
+[/us/pl/103/325/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtIII
 [/us/stat/108/2215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2215
 
 

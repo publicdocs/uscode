@@ -37,7 +37,7 @@
 
         (2) No private right of action or claim for relief may be predicated upon this section.
 
-([Pub. L. 98–181, title I][/us/pl/98/181] \[title IX, § 909\], Nov. 30, 1983, [97 Stat. 1281][/us/stat/97/1281].)
+([Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title IX, § 909\], Nov. 30, 1983, [97 Stat. 1281][/us/stat/97/1281].)
 
 ----------
 
@@ -49,7 +49,7 @@
 [/us/usc/t12/s1818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1818
 [/us/usc/t12/s3909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3909
 [/us/usc/t12/s3909/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3909%2Fd
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1281
 
 

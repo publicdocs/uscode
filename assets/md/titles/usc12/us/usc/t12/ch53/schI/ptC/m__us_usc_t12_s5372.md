@@ -17,7 +17,7 @@
 
     Nothing in this Act shall be construed to limit or curtail the Corporation’s current authority to examine or bring enforcement actions with respect to any insured depository institution or institution-affiliated party.
 
-([Pub. L. 111–203, title I, § 172(c)][/us/pl/111/203/s172/c], July 21, 2010, [124 Stat. 1439][/us/stat/124/1439].)
+([Pub. L. 111–203, title I][/us/pl/111/203/tI], § 172(c), July 21, 2010, [124 Stat. 1439][/us/stat/124/1439].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/111/203/s172/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs172%2Fc
+[/us/pl/111/203/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtI
 [/us/stat/124/1439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1439
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1376

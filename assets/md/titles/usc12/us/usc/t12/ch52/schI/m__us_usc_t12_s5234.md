@@ -17,7 +17,7 @@
 
     Any Federal financial regulatory agency shall cooperate with the Federal Bureau of Investigation and other law enforcement agencies investigating fraud, misrepresentation, and malfeasance with respect to development, advertising, and sale of financial products.
 
-([Pub. L. 110–343, div. A, title I, § 127][/us/pl/110/343/s127], Oct. 3, 2008, [122 Stat. 3796][/us/stat/122/3796].)
+([Pub. L. 110–343, div. A, title I][/us/pl/110/343/dA/tI], § 127, Oct. 3, 2008, [122 Stat. 3796][/us/stat/122/3796].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/110/343/s127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs127
+[/us/pl/110/343/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdA%2FtI
 [/us/stat/122/3796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3796
 
 

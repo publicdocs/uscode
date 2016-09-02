@@ -17,7 +17,7 @@
 
     Every Federal reserve bank shall have power to establish from time to time, subject to review and determination of the Board of Governors of the Federal Reserve System, rates of discount to be charged by the Federal reserve bank for each class of paper, which shall be fixed with a view of accommodating commerce and business, but each such bank shall establish such rates every fourteen days, or oftener if deemed necessary by the Board.
 
-([Dec. 23, 1913, ch. 6, § 14(d)][/us/act/1913-12-23/ch6/s14/d], [38 Stat. 264][/us/stat/38/264]; [Apr. 13, 1920, ch. 128][/us/act/1920-04-13/ch128], [41 Stat. 550][/us/stat/41/550]; [Mar. 4, 1923, ch. 252][/us/act/1923-03-04/ch252], title IV, § 407, [42 Stat. 1480][/us/stat/42/1480]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, §§ 203(a), 206(b), [49 Stat. 704][/us/stat/49/704], 706.)
+([Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 14(d), [38 Stat. 264][/us/stat/38/264]; [Apr. 13, 1920, ch. 128][/us/act/1920-04-13/ch128], [41 Stat. 550][/us/stat/41/550]; [Mar. 4, 1923, ch. 252][/us/act/1923-03-04/ch252], title IV, § 407, [42 Stat. 1480][/us/stat/42/1480]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, §§ 203(a), 206(b), [49 Stat. 704][/us/stat/49/704], 706.)
 
  __Codification__ 
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/act/1913-12-23/ch6/s14/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs14%2Fd
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
 [/us/stat/38/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F264
 [/us/act/1920-04-13/ch128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-04-13%2Fch128
 [/us/stat/41/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F550

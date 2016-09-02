@@ -75,7 +75,7 @@
 
         Paragraph (3) may not be construed to limit any rent increases resulting from increased operating costs for a project.
 
-([Pub. L. 100–242, title II, § 214][/us/pl/100/242/s214], as added [Pub. L. 101–625, title VI, § 601(a)][/us/pl/101/625/s601/a], Nov. 28, 1990, [104 Stat. 4251][/us/stat/104/4251]; amended [Pub. L. 114–94, div. G, title LXXVII, § 77002][/us/pl/114/94/s77002], Dec. 4, 2015, [129 Stat. 1790][/us/stat/129/1790].)
+([Pub. L. 100–242, title II][/us/pl/100/242/tII], § 214, as added [Pub. L. 101–625, title VI][/us/pl/101/625/tVI], § 601(a), Nov. 28, 1990, [104 Stat. 4251][/us/stat/104/4251]; amended [Pub. L. 114–94, div. G, title LXXVII][/us/pl/114/94/dG/tLXXVII], § 77002, Dec. 4, 2015, [129 Stat. 1790][/us/stat/129/1790].)
 
  __Amendments__ 
 
@@ -83,7 +83,7 @@
 
  __Implementation__ 
 
-[Pub. L. 114–94, div. G, title LXXVII, § 77003][/us/pl/114/94/s77003], Dec. 4, 2015, [129 Stat. 1791][/us/stat/129/1791], provided that: 
+[Pub. L. 114–94, div. G, title LXXVII][/us/pl/114/94/dG/tLXXVII], § 77003, Dec. 4, 2015, [129 Stat. 1791][/us/stat/129/1791], provided that: 
 
 > “The Secretary of Housing and Urban Development shall issue any guidance that the Secretary considers necessary to carry out the provisions added by the amendments made by this title \[amending this section and [section 4112 of this title][/us/usc/t12/s4112]\] not later than the expiration of the 120-day period beginning on the date of the enactment of this Act \[Dec. 4, 2015\].”
 
@@ -99,13 +99,13 @@
 [/us/usc/t12/s4103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4103
 [/us/usc/t12/s4105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4105
 [/us/usc/t12/s4109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4109
-[/us/pl/100/242/s214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs214
-[/us/pl/101/625/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs601%2Fa
+[/us/pl/100/242/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtII
+[/us/pl/101/625/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtVI
 [/us/stat/104/4251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4251
-[/us/pl/114/94/s77002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs77002
+[/us/pl/114/94/dG/tLXXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdG%2FtLXXVII
 [/us/stat/129/1790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1790
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
-[/us/pl/114/94/s77003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs77003
+[/us/pl/114/94/dG/tLXXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdG%2FtLXXVII
 [/us/stat/129/1791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1791
 [/us/usc/t12/s4112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4112
 

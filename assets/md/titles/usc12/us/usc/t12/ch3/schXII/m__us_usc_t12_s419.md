@@ -17,7 +17,7 @@
 
     When such notes have been prepared, the notes shall be delivered to the Board of Governors of the Federal Reserve System subject to the order of the Secretary of the Treasury for the delivery of such notes in accordance with this chapter.
 
-([Dec. 23, 1913, ch. 6, § 16][/us/act/1913-12-23/ch6/s16] (par.), [38 Stat. 267][/us/stat/38/267]; [May 29, 1920, ch. 214, § 1][/us/act/1920-05-29/ch214/s1], [41 Stat. 654][/us/stat/41/654]; [Pub. L. 103–325, title VI, § 602(g)(4)][/us/pl/103/325/s602/g/4], Sept. 23, 1994, [108 Stat. 2293][/us/stat/108/2293].)
+([Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 16 (par.), [38 Stat. 267][/us/stat/38/267]; [May 29, 1920, ch. 214][/us/act/1920-05-29/ch214], § 1, [41 Stat. 654][/us/stat/41/654]; [Pub. L. 103–325, title VI][/us/pl/103/325/tVI], § 602(g)(4), Sept. 23, 1994, [108 Stat. 2293][/us/stat/108/2293].)
 
  __References in Text__ 
 
@@ -40,11 +40,11 @@
 ----------
 ----------
 
-[/us/act/1913-12-23/ch6/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs16
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
 [/us/stat/38/267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F267
-[/us/act/1920-05-29/ch214/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-05-29%2Fch214%2Fs1
+[/us/act/1920-05-29/ch214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-05-29%2Fch214
 [/us/stat/41/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F654
-[/us/pl/103/325/s602/g/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs602%2Fg%2F4
+[/us/pl/103/325/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtVI
 [/us/stat/108/2293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2293
 [/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
 [/us/stat/38/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F251

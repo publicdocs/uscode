@@ -23,7 +23,7 @@
 
         Not later than 6 months after July 30, 2008, the Director shall make recommendations to Congress on legislative reforms to the Real Estate Settlement Procedures Act of 1974 \[[12 U.S.C. 2601][/us/usc/t12/s2601] et seq.\], that the Director deems appropriate to promote more transparent disclosures, allowing consumers to better shop and compare mortgage loan terms and settlement costs.
 
-([Pub. L. 110–289, div. A, title V, § 1516][/us/pl/110/289/s1516], July 30, 2008, [122 Stat. 2824][/us/stat/122/2824]; [Pub. L. 111–203, title X, § 1100(3)][/us/pl/111/203/s1100/3], July 21, 2010, [124 Stat. 2106][/us/stat/124/2106].)
+([Pub. L. 110–289, div. A, title V][/us/pl/110/289/dA/tV], § 1516, July 30, 2008, [122 Stat. 2824][/us/stat/122/2824]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1100(3), July 21, 2010, [124 Stat. 2106][/us/stat/124/2106].)
 
  __References in Text__ 
 
@@ -45,9 +45,9 @@
 ----------
 
 [/us/usc/t12/s2601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2601
-[/us/pl/110/289/s1516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1516
+[/us/pl/110/289/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtV
 [/us/stat/122/2824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2824
-[/us/pl/111/203/s1100/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100%2F3
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2106
 [/us/pl/93/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F533
 [/us/stat/88/1724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1724

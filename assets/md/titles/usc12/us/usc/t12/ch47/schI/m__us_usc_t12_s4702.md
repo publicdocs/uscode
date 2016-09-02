@@ -155,7 +155,7 @@
 
         The term “training program” means the training program operated by the Fund under [section 4708 of this title][/us/usc/t12/s4708].
 
-([Pub. L. 103–325, title I, § 103][/us/pl/103/325/s103], Sept. 23, 1994, [108 Stat. 2163][/us/stat/108/2163].)
+([Pub. L. 103–325, title I][/us/pl/103/325/tI], § 103, Sept. 23, 1994, [108 Stat. 2163][/us/stat/108/2163].)
 
  __References in Text__ 
 
@@ -186,7 +186,7 @@
 [/us/usc/t12/s1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813
 [/us/usc/t12/s1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813
 [/us/usc/t12/s4708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4708
-[/us/pl/103/325/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs103
+[/us/pl/103/325/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtI
 [/us/stat/108/2163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2163
 [/us/pl/85/699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699
 [/us/stat/72/689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F689

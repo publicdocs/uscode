@@ -17,15 +17,15 @@
 
     Each production credit association and its obligations are instrumentalities of the United States and as such any and all notes, debentures, and other obligations issued by such associations shall be exempt, both as to principal and interest, from all taxation (except surtaxes, estate, inheritance, and gift taxes) now or hereafter imposed by the United States or any State, territorial, or local taxing authority, except that interest on such obligations shall be subject to Federal income taxation in the hands of the holder.
 
-([Pub. L. 92–181, title II, § 2][/us/pl/92/181/s2].7, formerly § 2.6, as added [Pub. L. 100–233, title IV, § 401][/us/pl/100/233/s401], Jan. 6, 1988, [101 Stat. 1633][/us/stat/101/1633]; amended [Pub. L. 100–399, title IV, § 401(r)][/us/pl/100/399/s401/r], Aug. 17, 1988, [102 Stat. 998][/us/stat/102/998]; renumbered § 2.7, [Pub. L. 101–624, title XVIII, § 1833(1)][/us/pl/101/624/s1833/1], Nov. 28, 1990, [104 Stat. 3832][/us/stat/104/3832].)
+([Pub. L. 92–181, title II][/us/pl/92/181/tII], § 2.7, formerly § 2.6, as added [Pub. L. 100–233, title IV][/us/pl/100/233/tIV], § 401, Jan. 6, 1988, [101 Stat. 1633][/us/stat/101/1633]; amended [Pub. L. 100–399, title IV][/us/pl/100/399/tIV], § 401(r), Aug. 17, 1988, [102 Stat. 998][/us/stat/102/998]; renumbered § 2.7, [Pub. L. 101–624, title XVIII][/us/pl/101/624/tXVIII], § 1833(1), Nov. 28, 1990, [104 Stat. 3832][/us/stat/104/3832].)
 
  __Prior Provisions__ 
 
-    A prior section 2077, [Pub. L. 92–181, title II, § 2][/us/pl/92/181/s2].6, Dec. 10, 1971, [85 Stat. 595][/us/stat/85/595]; [Pub. L. 96–592, title II, § 206][/us/pl/96/592/s206], Dec. 24, 1980, [94 Stat. 3442][/us/stat/94/3442]; [Pub. L. 99–205, title II, § 205(e)(7)][/us/pl/99/205/s205/e/7], (8), Dec. 23, 1985, [99 Stat. 1704][/us/stat/99/1704]; [Pub. L. 100–233, title VIII][/us/pl/100/233], §§ 802(k), 805(f), Jan. 6, 1988, [101 Stat. 1711][/us/stat/101/1711], 1715, related to net earnings, prior to the general amendment of this subchapter by [Pub. L. 100–233, § 401][/us/pl/100/233/s401].
+    A prior section 2077, [Pub. L. 92–181, title II][/us/pl/92/181/tII], § 2.6, Dec. 10, 1971, [85 Stat. 595][/us/stat/85/595]; [Pub. L. 96–592, title II][/us/pl/96/592/tII], § 206, Dec. 24, 1980, [94 Stat. 3442][/us/stat/94/3442]; [Pub. L. 99–205, title II][/us/pl/99/205/tII], § 205(e)(7), (8), Dec. 23, 1985, [99 Stat. 1704][/us/stat/99/1704]; [Pub. L. 100–233, title VIII][/us/pl/100/233/tVIII], §§ 802(k), 805(f), Jan. 6, 1988, [101 Stat. 1711][/us/stat/101/1711], 1715, related to net earnings, prior to the general amendment of this subchapter by [Pub. L. 100–233][/us/pl/100/233], § 401.
 
-    A prior section 2078, [Pub. L. 92–181, title II, § 2][/us/pl/92/181/s2].7, Dec. 10, 1971, [85 Stat. 597][/us/stat/85/597]; [Pub. L. 99–205, title II, § 205(e)(9)][/us/pl/99/205/s205/e/9], Dec. 23, 1985, [99 Stat. 1704][/us/stat/99/1704], related to distribution of assets on liquidation, prior to the general amendment of this subchapter by [Pub. L. 100–233, § 401][/us/pl/100/233/s401].
+    A prior section 2078, [Pub. L. 92–181, title II][/us/pl/92/181/tII], § 2.7, Dec. 10, 1971, [85 Stat. 597][/us/stat/85/597]; [Pub. L. 99–205, title II][/us/pl/99/205/tII], § 205(e)(9), Dec. 23, 1985, [99 Stat. 1704][/us/stat/99/1704], related to distribution of assets on liquidation, prior to the general amendment of this subchapter by [Pub. L. 100–233][/us/pl/100/233], § 401.
 
-    A prior section 2079, [Pub. L. 92–181, title II, § 2][/us/pl/92/181/s2].8, Dec. 10, 1971, [85 Stat. 597][/us/stat/85/597]; [Pub. L. 100–399, title IX, § 901(a)][/us/pl/100/399/s901/a], Aug. 17, 1988, [102 Stat. 1007][/us/stat/102/1007], related to taxation, prior to the general amendment of this subchapter by [Pub. L. 100–233, § 401][/us/pl/100/233/s401].
+    A prior section 2079, [Pub. L. 92–181, title II][/us/pl/92/181/tII], § 2.8, Dec. 10, 1971, [85 Stat. 597][/us/stat/85/597]; [Pub. L. 100–399, title IX][/us/pl/100/399/tIX], § 901(a), Aug. 17, 1988, [102 Stat. 1007][/us/stat/102/1007], related to taxation, prior to the general amendment of this subchapter by [Pub. L. 100–233][/us/pl/100/233], § 401.
 
  __Amendments__ 
 
@@ -42,32 +42,32 @@
 ----------
 ----------
 
-[/us/pl/92/181/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs2
-[/us/pl/100/233/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs401
+[/us/pl/92/181/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtII
+[/us/pl/100/233/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtIV
 [/us/stat/101/1633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1633
-[/us/pl/100/399/s401/r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs401%2Fr
+[/us/pl/100/399/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtIV
 [/us/stat/102/998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F998
-[/us/pl/101/624/s1833/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1833%2F1
+[/us/pl/101/624/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXVIII
 [/us/stat/104/3832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3832
-[/us/pl/92/181/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs2
+[/us/pl/92/181/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtII
 [/us/stat/85/595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F595
-[/us/pl/96/592/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592%2Fs206
+[/us/pl/96/592/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592%2FtII
 [/us/stat/94/3442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3442
-[/us/pl/99/205/s205/e/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2Fs205%2Fe%2F7
+[/us/pl/99/205/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2FtII
+[/us/stat/99/1704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1704
+[/us/pl/100/233/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtVIII
+[/us/stat/101/1711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1711
+[/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
+[/us/pl/92/181/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtII
+[/us/stat/85/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F597
+[/us/pl/99/205/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2FtII
 [/us/stat/99/1704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1704
 [/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
-[/us/stat/101/1711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1711
-[/us/pl/100/233/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs401
-[/us/pl/92/181/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs2
+[/us/pl/92/181/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtII
 [/us/stat/85/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F597
-[/us/pl/99/205/s205/e/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2Fs205%2Fe%2F9
-[/us/stat/99/1704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1704
-[/us/pl/100/233/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs401
-[/us/pl/92/181/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs2
-[/us/stat/85/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F597
-[/us/pl/100/399/s901/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs901%2Fa
+[/us/pl/100/399/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtIX
 [/us/stat/102/1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1007
-[/us/pl/100/233/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs401
+[/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
 [/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/100/233/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs401

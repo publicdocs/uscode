@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t12/ch43/schI/m__us_usc_t12_s4208.md) | [Next](./../../../../..//us/usc/t12/ch43/schI/m__us_usc_t12_s4210.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4209)
 
-## § 4209. Repealed. [Pub. L. 107–273, div. A, title III, § 301(c)(3)][/us/pl/107/273/s301/c/3], Nov. 2, 2002, [116 Stat. 1781][/us/stat/116/1781]
+## § 4209. Repealed. [Pub. L. 107–273, div. A, title III][/us/pl/107/273/dA/tIII], § 301(c)(3), Nov. 2, 2002, [116 Stat. 1781][/us/stat/116/1781]
 
-    Section, [Pub. L. 101–647, title XXV, § 2569][/us/pl/101/647/s2569], Nov. 29, 1990, [104 Stat. 4898][/us/stat/104/4898], related to Financial Institution Information Award Fund.
+    Section, [Pub. L. 101–647, title XXV][/us/pl/101/647/tXXV], § 2569, Nov. 29, 1990, [104 Stat. 4898][/us/stat/104/4898], related to Financial Institution Information Award Fund.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/pl/107/273/s301/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs301%2Fc%2F3
+[/us/pl/107/273/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdA%2FtIII
 [/us/stat/116/1781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1781
-[/us/pl/101/647/s2569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2569
+[/us/pl/101/647/tXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXV
 [/us/stat/104/4898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4898
 
 

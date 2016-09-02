@@ -43,7 +43,7 @@
 
         (3) advertises any of the services described in paragraph (1) or solicits clients in printed publications, direct mail, television or radio advertisements, telephone calls, facsimile transmissions, or other electronic communications directed to the general public for purposes of providing any such services.
 
-([Pub. L. 111–203, title X, § 1079][/us/pl/111/203/s1079], July 21, 2010, [124 Stat. 2077][/us/stat/124/2077].)
+([Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1079, July 21, 2010, [124 Stat. 2077][/us/stat/124/2077].)
 
 ----------
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/111/203/s1079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1079
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2077
 
 

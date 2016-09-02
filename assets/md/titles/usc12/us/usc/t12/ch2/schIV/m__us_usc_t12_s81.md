@@ -17,11 +17,11 @@
 
     The general business of each national banking association shall be transacted in the place specified in its organization certificate and in the branch or branches, if any, established or maintained by it in accordance with the provisions of [section 36 of this title][/us/usc/t12/s36].
 
-(R.S. § 5190; [Feb. 25, 1927, ch. 191, § 8][/us/act/1927-02-25/ch191/s8], [44 Stat. 1229][/us/stat/44/1229].)
+(R.S. § 5190; [Feb. 25, 1927, ch. 191][/us/act/1927-02-25/ch191], § 8, [44 Stat. 1229][/us/stat/44/1229].)
 
  __Codification__ 
 
-    R.S. § 5190 derived from [act June 3, 1864, ch. 106, § 8][/us/act/1864-06-03/ch106/s8], [13 Stat. 101][/us/stat/13/101], which was the National Bank Act. See [section 38 of this title][/us/usc/t12/s38].
+    R.S. § 5190 derived from [act June 3, 1864, ch. 106][/us/act/1864-06-03/ch106], § 8, [13 Stat. 101][/us/stat/13/101], which was the National Bank Act. See [section 38 of this title][/us/usc/t12/s38].
 
  __Amendments__ 
 
@@ -35,9 +35,9 @@
 ----------
 
 [/us/usc/t12/s36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs36
-[/us/act/1927-02-25/ch191/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-25%2Fch191%2Fs8
+[/us/act/1927-02-25/ch191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-25%2Fch191
 [/us/stat/44/1229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1229
-[/us/act/1864-06-03/ch106/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-06-03%2Fch106%2Fs8
+[/us/act/1864-06-03/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-06-03%2Fch106
 [/us/stat/13/101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F13%2F101
 [/us/usc/t12/s38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs38
 [/us/usc/t12/s36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs36

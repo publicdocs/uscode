@@ -79,13 +79,13 @@
 
             In the event of any liquidation, dissolution, or winding up of the business of the Corporation, the holders of the preferred shares of stock shall be paid in full at the par value thereof, plus all accrued dividends, before the holders of the common shares receive any payment.
 
-([Pub. L. 92–181, title VIII, § 8][/us/pl/92/181/s8].4, as added [Pub. L. 100–233, title VII, § 702][/us/pl/100/233/s702], Jan. 6, 1988, [101 Stat. 1692][/us/stat/101/1692]; amended [Pub. L. 100–399, title VI, § 601(d)][/us/pl/100/399/s601/d], (e), Aug. 17, 1988, [102 Stat. 1005][/us/stat/102/1005].)
+([Pub. L. 92–181, title VIII][/us/pl/92/181/tVIII], § 8.4, as added [Pub. L. 100–233, title VII][/us/pl/100/233/tVII], § 702, Jan. 6, 1988, [101 Stat. 1692][/us/stat/101/1692]; amended [Pub. L. 100–399, title VI][/us/pl/100/399/tVI], § 601(d), (e), Aug. 17, 1988, [102 Stat. 1005][/us/stat/102/1005].)
 
  __Amendments__ 
 
-    1988—Subsec. (a)(1). [Pub. L. 100–399, § 601(d)][/us/pl/100/399/s601/d], in penultimate sentence, inserted “and” after “institutions” and inserted “, including national banking associations (which shall be allowed to purchase and hold such stock)” before period at end.
+    1988—Subsec. (a)(1). [Pub. L. 100–399][/us/pl/100/399], § 601(d), in penultimate sentence, inserted “and” after “institutions” and inserted “, including national banking associations (which shall be allowed to purchase and hold such stock)” before period at end.
 
-    Subsec. (e)(1). [Pub. L. 100–399, § 601(e)][/us/pl/100/399/s601/e], substituted “books of the Corporation” for “books of the Association”.
+    Subsec. (e)(1). [Pub. L. 100–399][/us/pl/100/399], § 601(e), substituted “books of the Corporation” for “books of the Association”.
 
  __Effective Date of 1988 Amendment__ 
 
@@ -103,13 +103,13 @@
 [/us/usc/t12/s2279aa–2/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2279aa%E2%80%932%2Fb%2F2%2FB
 [/us/usc/t12/s2279aa–10/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2279aa%E2%80%9310%2Fc%2F1
 [/us/usc/t12/s2279aa–13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2279aa%E2%80%9313
-[/us/pl/92/181/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs8
-[/us/pl/100/233/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs702
+[/us/pl/92/181/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtVIII
+[/us/pl/100/233/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtVII
 [/us/stat/101/1692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1692
-[/us/pl/100/399/s601/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs601%2Fd
+[/us/pl/100/399/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtVI
 [/us/stat/102/1005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1005
-[/us/pl/100/399/s601/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs601%2Fd
-[/us/pl/100/399/s601/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs601%2Fe
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
 [/us/pl/100/399/s1001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs1001%2Fa

@@ -77,7 +77,7 @@
 
             Any interim or final regulation of the Office of Thrift Supervision, which the Office of Thrift Supervision, in performing functions transferred by this title,1 has published before the transfer date but which has not become effective before that date, shall become effective as a regulation of the Office of the Comptroller of the Currency or the Board of Governors, as appropriate, according to the terms of the interim or final regulation, unless modified, terminated, set aside, or superseded in accordance with applicable law by the Office of the Comptroller of the Currency or the Board of Governors, as appropriate, by any court of competent jurisdiction, or by operation of law.
 
-([Pub. L. 111–203, title III, § 316][/us/pl/111/203/s316], July 21, 2010, [124 Stat. 1524][/us/stat/124/1524].)
+([Pub. L. 111–203, title III][/us/pl/111/203/tIII], § 316, July 21, 2010, [124 Stat. 1524][/us/stat/124/1524].)
 
  __References in Text__ 
 
@@ -90,7 +90,7 @@
 ----------
 ----------
 
-[/us/pl/111/203/s316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs316
+[/us/pl/111/203/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIII
 [/us/stat/124/1524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1524
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1520

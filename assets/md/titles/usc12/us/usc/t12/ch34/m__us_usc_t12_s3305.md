@@ -45,7 +45,7 @@
 
         The Council shall consult with and assist the Federal entities for lending regulation, as such term is defined in [section 4121(a) of title 42][/us/usc/t42/s4121/a], in developing and coordinating uniform standards and requirements for use by regulated lending institutions under the national flood insurance program.
 
-([Pub. L. 95–630, title X, § 1006][/us/pl/95/630/s1006], Nov. 10, 1978, [92 Stat. 3695][/us/stat/92/3695]; [Pub. L. 97–320, title IV, § 431][/us/pl/97/320/s431], Oct. 15, 1982, [96 Stat. 1527][/us/stat/96/1527]; [Pub. L. 101–73, title VII, § 744(a)(3)][/us/pl/101/73/s744/a/3], Aug. 9, 1989, [103 Stat. 438][/us/stat/103/438]; [Pub. L. 103–325, title V, § 530][/us/pl/103/325/s530], Sept. 23, 1994, [108 Stat. 2267][/us/stat/108/2267].)
+([Pub. L. 95–630, title X][/us/pl/95/630/tX], § 1006, Nov. 10, 1978, [92 Stat. 3695][/us/stat/92/3695]; [Pub. L. 97–320, title IV][/us/pl/97/320/tIV], § 431, Oct. 15, 1982, [96 Stat. 1527][/us/stat/96/1527]; [Pub. L. 101–73, title VII][/us/pl/101/73/tVII], § 744(a)(3), Aug. 9, 1989, [103 Stat. 438][/us/stat/103/438]; [Pub. L. 103–325, title V][/us/pl/103/325/tV], § 530, Sept. 23, 1994, [108 Stat. 2267][/us/stat/108/2267].)
 
  __Amendments__ 
 
@@ -57,13 +57,13 @@
 
  __Report on Consistent Use of Financial Terminology__ 
 
-[Pub. L. 103–325, title II, § 210][/us/pl/103/325/s210], Sept. 23, 1994, [108 Stat. 2203][/us/stat/108/2203], provided that: 
+[Pub. L. 103–325, title II][/us/pl/103/325/tII], § 210, Sept. 23, 1994, [108 Stat. 2203][/us/stat/108/2203], provided that: 
 
 > “Not later than 2 years after the date of enactment of this Act \[Sept. 23, 1994\], the Financial Institutions Examination Council shall report to the Congress on its recommendations for the use of consistent financial terminology by depository institutions for small business loans or leases of personal property which are sold for the creation of small business related securities (as defined in section 3(a)(53)(A) of the Securities Exchange Act of 1934 \[[15 U.S.C. 78c(a)(53)(A)][/us/usc/t15/s78c/a/53/A]\]).”
 
  __Examination Improvement Program__ 
 
-[Pub. L. 102–242, title I, § 111(d)][/us/pl/102/242/s111/d], Dec. 19, 1991, [105 Stat. 2241][/us/stat/105/2241], provided that:
+[Pub. L. 102–242, title I][/us/pl/102/242/tI], § 111(d), Dec. 19, 1991, [105 Stat. 2241][/us/stat/105/2241], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -79,7 +79,7 @@
 
  __Study on Regulatory Burden__ 
 
-[Pub. L. 102–242, title II, § 221][/us/pl/102/242/s221], Dec. 19, 1991, [105 Stat. 2305][/us/stat/105/2305], provided that:
+[Pub. L. 102–242, title II][/us/pl/102/242/tII], § 221, Dec. 19, 1991, [105 Stat. 2305][/us/stat/105/2305], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -113,11 +113,11 @@
 
  __Study and Report Assessing Feasibility and Usefulness of Depository Institutions Making Small Business Loans To Compile and Disclose Loan Information__ 
 
-    [Pub. L. 96–399, title III, § 340(d)][/us/pl/96/399/s340/d], Oct. 8, 1980, [94 Stat. 1659][/us/stat/94/1659], directed Federal Financial Institutions Examination Council, in consultation with Administrator of Small Business Administration, to conduct a study to assess feasibility and usefulness of requiring depository institutions which make small business loans to compile and publicly disclose information regarding such loans, and directed Council to submit a report on results of such study, together with recommendations, to Senate Committee on Banking, Housing, and Urban Affairs and House Committee on Banking, Finance and Urban Affairs not later than Mar. 1, 1981.
+    [Pub. L. 96–399, title III][/us/pl/96/399/tIII], § 340(d), Oct. 8, 1980, [94 Stat. 1659][/us/stat/94/1659], directed Federal Financial Institutions Examination Council, in consultation with Administrator of Small Business Administration, to conduct a study to assess feasibility and usefulness of requiring depository institutions which make small business loans to compile and publicly disclose information regarding such loans, and directed Council to submit a report on results of such study, together with recommendations, to Senate Committee on Banking, Housing, and Urban Affairs and House Committee on Banking, Finance and Urban Affairs not later than Mar. 1, 1981.
 
  __Evaluation and Report on Feasibility and Desirability of Establishing a Unified System for Enforcing Fair Lending Laws and Regulations__ 
 
-    [Pub. L. 96–399, title III, § 340(e)][/us/pl/96/399/s340/e], Oct. 8, 1980, [94 Stat. 1659][/us/stat/94/1659], directed Federal Financial Institutions Examination Council to transmit a report to Congress not later than Sept. 30, 1982, on feasibility and desirability of establishing a unified system for enforcing fair lending laws and regulations, implementing Community Reinvestment Act of 1977 \[[12 U.S.C. 2901][/us/usc/t12/s2901] et seq.\], and satisfying public disclosure purposes of Home Mortgage Disclosure Act of 1975 \[[12 U.S.C. 2801][/us/usc/t12/s2801] et seq.\], such report to evaluate status and effectiveness of data collection and analysis systems of such agencies involving fair lending and community reinvestment, and to outline possible specific timetables for implementing such a unified system.
+    [Pub. L. 96–399, title III][/us/pl/96/399/tIII], § 340(e), Oct. 8, 1980, [94 Stat. 1659][/us/stat/94/1659], directed Federal Financial Institutions Examination Council to transmit a report to Congress not later than Sept. 30, 1982, on feasibility and desirability of establishing a unified system for enforcing fair lending laws and regulations, implementing Community Reinvestment Act of 1977 \[[12 U.S.C. 2901][/us/usc/t12/s2901] et seq.\], and satisfying public disclosure purposes of Home Mortgage Disclosure Act of 1975 \[[12 U.S.C. 2801][/us/usc/t12/s2801] et seq.\], such report to evaluate status and effectiveness of data collection and analysis systems of such agencies involving fair lending and community reinvestment, and to outline possible specific timetables for implementing such a unified system.
 
 ----------
 
@@ -127,28 +127,28 @@
 ----------
 
 [/us/usc/t42/s4121/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4121%2Fa
-[/us/pl/95/630/s1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs1006
+[/us/pl/95/630/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtX
 [/us/stat/92/3695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3695
-[/us/pl/97/320/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs431
+[/us/pl/97/320/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2FtIV
 [/us/stat/96/1527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1527
-[/us/pl/101/73/s744/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs744%2Fa%2F3
+[/us/pl/101/73/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtVII
 [/us/stat/103/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F438
-[/us/pl/103/325/s530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs530
+[/us/pl/103/325/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtV
 [/us/stat/108/2267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2267
 [/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
 [/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
 [/us/pl/97/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320
-[/us/pl/103/325/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs210
+[/us/pl/103/325/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtII
 [/us/stat/108/2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2203
 [/us/usc/t15/s78c/a/53/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c%2Fa%2F53%2FA
-[/us/pl/102/242/s111/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs111%2Fd
+[/us/pl/102/242/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtI
 [/us/stat/105/2241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2241
-[/us/pl/102/242/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs221
+[/us/pl/102/242/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtII
 [/us/stat/105/2305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2305
 [/us/usc/t12/s1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813
-[/us/pl/96/399/s340/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs340%2Fd
+[/us/pl/96/399/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2FtIII
 [/us/stat/94/1659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1659
-[/us/pl/96/399/s340/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs340%2Fe
+[/us/pl/96/399/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2FtIII
 [/us/stat/94/1659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1659
 [/us/usc/t12/s2901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2901
 [/us/usc/t12/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2801

@@ -51,7 +51,7 @@
 
     (17) the term “State bank supervisor” has the meaning given to such term in [section 1813 of this title][/us/usc/t12/s1813].
 
-([Pub. L. 95–369, § 1(b)][/us/pl/95/369/s1/b], Sept. 17, 1978, [92 Stat. 607][/us/stat/92/607]; [Pub. L. 102–242, title II, § 202(e)][/us/pl/102/242/s202/e], Dec. 19, 1991, [105 Stat. 2290][/us/stat/105/2290]; [Pub. L. 106–102, title I, § 142(a)][/us/pl/106/102/s142/a], Nov. 12, 1999, [113 Stat. 1384][/us/stat/113/1384].)
+([Pub. L. 95–369][/us/pl/95/369], § 1(b), Sept. 17, 1978, [92 Stat. 607][/us/stat/92/607]; [Pub. L. 102–242, title II][/us/pl/102/242/tII], § 202(e), Dec. 19, 1991, [105 Stat. 2290][/us/stat/105/2290]; [Pub. L. 106–102, title I][/us/pl/106/102/tI], § 142(a), Nov. 12, 1999, [113 Stat. 1384][/us/stat/113/1384].)
 
  __References in Text__ 
 
@@ -63,9 +63,9 @@
 
     1999—Par. (15). [Pub. L. 106–102][/us/pl/106/102] substituted “or State agency;” for “State agency, or subsidiary of a foreign bank;”.
 
-    1991—Par. (13). [Pub. L. 102–242, § 202(e)(1)][/us/pl/102/242/s202/e/1], inserted reference to affiliate after first reference to “the terms”.
+    1991—Par. (13). [Pub. L. 102–242][/us/pl/102/242], § 202(e)(1), inserted reference to affiliate after first reference to “the terms”.
 
-    Pars. (15) to (17). [Pub. L. 102–242, § 202(e)(2)][/us/pl/102/242/s202/e/2], added pars. (15) to (17).
+    Pars. (15) to (17). [Pub. L. 102–242][/us/pl/102/242], § 202(e)(2), added pars. (15) to (17).
 
  __Effective Date of 1999 Amendment__ 
 
@@ -73,19 +73,19 @@
 
  __Short Title of 1991 Amendment__ 
 
-[Pub. L. 102–242, title II, § 201][/us/pl/102/242/s201], Dec. 19, 1991, [105 Stat. 2286][/us/stat/105/2286], provided that: 
+[Pub. L. 102–242, title II][/us/pl/102/242/tII], § 201, Dec. 19, 1991, [105 Stat. 2286][/us/stat/105/2286], provided that: 
 
 > “This subtitle \[subtitle A (§§ 201–215) of title II of [Pub. L. 102–242][/us/pl/102/242], enacting sections 3109 to 3111 of this title, amending this section and sections 1467a, 1817, 1820, 1842, 2803, 2804, 3102, 3104 to 3108, and 4009 of this title and sections 44, 57a, 1607, 1681s, 1691c, 1692l, and 1693o of Title 15, Commerce and Trade, and enacting provisions set out as a note under [section 3102 of this title][/us/usc/t12/s3102]\] may be cited as the ‘Foreign Bank Supervision Enhancement Act of 1991’.”
 
  __Short Title__ 
 
-[Pub. L. 95–369, § 1(a)][/us/pl/95/369/s1/a], Sept. 17, 1978, [92 Stat. 607][/us/stat/92/607], provided that: 
+[Pub. L. 95–369][/us/pl/95/369], § 1(a), Sept. 17, 1978, [92 Stat. 607][/us/stat/92/607], provided that: 
 
 > “This Act \[enacting this chapter and sections 347d and 611a of this title, amending sections 72, 378, 614, 615, 618, 619, 1813, 1815, 1817, 1818, 1820 to 1823, 1828, 1829b, 1831b and 1841 of this title, and enacting provisions set out as notes under sections 36, 247, 601, and 611a of this title\] may be cited as the ‘International Banking Act of 1978’.”
 
  __Foreign Control of United States Financial Institutions__ 
 
- [Pub. L. 96–221, title IX][/us/pl/96/221], §§ 901, 902, Mar. 31, 1980, [94 Stat. 192][/us/stat/94/192], 193, provided that:
+ [Pub. L. 96–221, title IX][/us/pl/96/221/tIX], §§ 901, 902, Mar. 31, 1980, [94 Stat. 192][/us/stat/94/192], 193, provided that:
 
 > “Sec. 901.
 
@@ -126,11 +126,11 @@
 [/us/usc/t12/s1841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1841
 [/us/usc/t12/s1841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1841
 [/us/usc/t12/s1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813
-[/us/pl/95/369/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F369%2Fs1%2Fb
+[/us/pl/95/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F369
 [/us/stat/92/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F607
-[/us/pl/102/242/s202/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs202%2Fe
+[/us/pl/102/242/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtII
 [/us/stat/105/2290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2290
-[/us/pl/106/102/s142/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs142%2Fa
+[/us/pl/106/102/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtI
 [/us/stat/113/1384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1384
 [/us/pl/95/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F369
 [/us/stat/92/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F607
@@ -138,18 +138,18 @@
 [/us/stat/70/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F133
 [/us/usc/t12/s1841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1841
 [/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102
-[/us/pl/102/242/s202/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs202%2Fe%2F1
-[/us/pl/102/242/s202/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs202%2Fe%2F2
+[/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
+[/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
 [/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102
 [/us/pl/106/102/s161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs161
 [/us/usc/t12/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs24
-[/us/pl/102/242/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs201
+[/us/pl/102/242/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtII
 [/us/stat/105/2286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2286
 [/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
 [/us/usc/t12/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3102
-[/us/pl/95/369/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F369%2Fs1%2Fa
+[/us/pl/95/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F369
 [/us/stat/92/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F607
-[/us/pl/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221
+[/us/pl/96/221/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2FtIX
 [/us/stat/94/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F192
 
 

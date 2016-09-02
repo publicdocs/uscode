@@ -49,7 +49,7 @@
 
         Notwithstanding the previous provisions of this section, the reporting and comment requirements under this section shall terminate with the annual period on the last day of which all troubled assets acquired by the Secretary under [section 5211 of this title][/us/usc/t12/s5211] have been sold or transferred out of the ownership or control of the Federal Government.
 
-([Pub. L. 110–343, div. A, title II, § 202][/us/pl/110/343/s202], Oct. 3, 2008, [122 Stat. 3800][/us/stat/122/3800]; [Pub. L. 112–204, § 1(b)(1)][/us/pl/112/204/s1/b/1], Dec. 4, 2012, [126 Stat. 1485][/us/stat/126/1485].)
+([Pub. L. 110–343, div. A, title II][/us/pl/110/343/dA/tII], § 202, Oct. 3, 2008, [122 Stat. 3800][/us/stat/122/3800]; [Pub. L. 112–204][/us/pl/112/204], § 1(b)(1), Dec. 4, 2012, [126 Stat. 1485][/us/stat/126/1485].)
 
  __References in Text__ 
 
@@ -57,13 +57,13 @@
 
  __Amendments__ 
 
-    2012—Subsec. (a). [Pub. L. 112–204, § 1(b)(1)(A)][/us/pl/112/204/s1/b/1/A], substituted “annually” for “semiannually”.
+    2012—Subsec. (a). [Pub. L. 112–204][/us/pl/112/204], § 1(b)(1)(A), substituted “annually” for “semiannually”.
 
-    Subsec. (e). [Pub. L. 112–204, § 1(b)(1)(B)][/us/pl/112/204/s1/b/1/B], added subsec. (e).
+    Subsec. (e). [Pub. L. 112–204][/us/pl/112/204], § 1(b)(1)(B), added subsec. (e).
 
  __Effective Date of 2012 Amendment__ 
 
-[Pub. L. 112–204, § 1(b)(2)][/us/pl/112/204/s1/b/2], Dec. 4, 2012, [126 Stat. 1486][/us/stat/126/1486], provided that: 
+[Pub. L. 112–204][/us/pl/112/204], § 1(b)(2), Dec. 4, 2012, [126 Stat. 1486][/us/stat/126/1486], provided that: 
 
 > “The amendments made by this subsection \[amending this section\] shall take effect the first day after the date of enactment of this Act \[Dec. 4, 2012\].”
 
@@ -78,16 +78,16 @@
 [/us/usc/t2/s661a/5/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs661a%2F5%2FF
 [/us/usc/t12/s5232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5232
 [/us/usc/t12/s5211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5211
-[/us/pl/110/343/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs202
+[/us/pl/110/343/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdA%2FtII
 [/us/stat/122/3800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3800
-[/us/pl/112/204/s1/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F204%2Fs1%2Fb%2F1
+[/us/pl/112/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F204
 [/us/stat/126/1485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1485
 [/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
 [/us/stat/122/3765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3765
 [/us/usc/t12/s5201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5201
-[/us/pl/112/204/s1/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F204%2Fs1%2Fb%2F1%2FA
-[/us/pl/112/204/s1/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F204%2Fs1%2Fb%2F1%2FB
-[/us/pl/112/204/s1/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F204%2Fs1%2Fb%2F2
+[/us/pl/112/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F204
+[/us/pl/112/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F204
+[/us/pl/112/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F204
 [/us/stat/126/1486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1486
 
 

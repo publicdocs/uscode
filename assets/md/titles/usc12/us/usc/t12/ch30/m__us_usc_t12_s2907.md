@@ -45,7 +45,7 @@
 
             The term “minority” has the meaning given to such term by section 1204(c)(3) of the Financial Institutions Reform, Recovery and Enforcement Act of 1989.
 
-([Pub. L. 95–128, title VIII, § 808][/us/pl/95/128/s808], as added [Pub. L. 102–233, title IV, § 402(b)][/us/pl/102/233/s402/b], Dec. 12, 1991, [105 Stat. 1775][/us/stat/105/1775]; amended [Pub. L. 102–550, title IX, § 909(2)][/us/pl/102/550/s909/2], Oct. 28, 1992, [106 Stat. 3874][/us/stat/106/3874].)
+([Pub. L. 95–128, title VIII][/us/pl/95/128/tVIII], § 808, as added [Pub. L. 102–233, title IV][/us/pl/102/233/tIV], § 402(b), Dec. 12, 1991, [105 Stat. 1775][/us/stat/105/1775]; amended [Pub. L. 102–550, title IX][/us/pl/102/550/tIX], § 909(2), Oct. 28, 1992, [106 Stat. 3874][/us/stat/106/3874].)
 
  __References in Text__ 
 
@@ -64,10 +64,10 @@
 
 [/us/usc/t12/s1813/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813%2Fc
 [/us/usc/t12/s1813/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813%2Fc
-[/us/pl/95/128/s808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs808
-[/us/pl/102/233/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F233%2Fs402%2Fb
+[/us/pl/95/128/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2FtVIII
+[/us/pl/102/233/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F233%2FtIV
 [/us/stat/105/1775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1775
-[/us/pl/102/550/s909/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs909%2F2
+[/us/pl/102/550/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtIX
 [/us/stat/106/3874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3874
 [/us/pl/101/73/s1204/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs1204%2Fc%2F3
 [/us/usc/t12/s1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1811

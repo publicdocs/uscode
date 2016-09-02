@@ -35,7 +35,7 @@
 
     (3) ten days have expired from the date of service or fourteen days from the date of mailing of the notice to the customer and within such time period the customer has not filed a sworn statement and motion to quash in an appropriate court, or the customer challenge provisions of [section 3410 of this title][/us/usc/t12/s3410] have been complied with.
 
-([Pub. L. 95–630, title XI, § 1107][/us/pl/95/630/s1107], Nov. 10, 1978, [92 Stat. 3700][/us/stat/92/3700].)
+([Pub. L. 95–630, title XI][/us/pl/95/630/tXI], § 1107, Nov. 10, 1978, [92 Stat. 3700][/us/stat/92/3700].)
 
  __References in Text__ 
 
@@ -51,7 +51,7 @@
 [/us/usc/t12/s3402/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3402%2F4
 [/us/usc/t12/s3401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3401
 [/us/usc/t12/s3410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3410
-[/us/pl/95/630/s1107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs1107
+[/us/pl/95/630/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtXI
 [/us/stat/92/3700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3700
 [/us/pl/95/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630
 [/us/stat/92/3697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3697

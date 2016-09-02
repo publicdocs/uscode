@@ -19,7 +19,7 @@
 
     (b) Nothing in this subchapter shall be construed to exempt any real property which has been or is hereafter acquired and held by the Secretary under section 1748h–1 or 1748h–2 of this title from taxation by any State or political subdivision thereof, to the same extent, according to its value, as other real property is taxed.
 
-([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title VIII, § 811, as added [Pub. L. 87–756][/us/pl/87/756], Oct. 5, 1962, [76 Stat. 751][/us/stat/76/751]; amended [Pub. L. 90–19, § 1(a)(3)][/us/pl/90/19/s1/a/3], May 25, 1967, [81 Stat. 17][/us/stat/81/17].)
+([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title VIII, § 811, as added [Pub. L. 87–756][/us/pl/87/756], Oct. 5, 1962, [76 Stat. 751][/us/stat/76/751]; amended [Pub. L. 90–19][/us/pl/90/19], § 1(a)(3), May 25, 1967, [81 Stat. 17][/us/stat/81/17].)
 
  __Amendments__ 
 
@@ -36,7 +36,7 @@
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
 [/us/pl/87/756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F756
 [/us/stat/76/751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F751
-[/us/pl/90/19/s1/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19%2Fs1%2Fa%2F3
+[/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
 [/us/stat/81/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F17
 [/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
 

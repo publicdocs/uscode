@@ -107,27 +107,27 @@
 
         (2) in the market area in which such deposits would otherwise be accepted.
 
-([Sept. 21, 1950, ch. 967, § 2][/us/act/1950-09-21/ch967/s2]\[29\], as added [Pub. L. 101–73, title II, § 224(a)][/us/pl/101/73/s224/a], Aug. 9, 1989, [103 Stat. 273][/us/stat/103/273]; amended [Pub. L. 102–242, title III, § 301(a)][/us/pl/102/242/s301/a], (c), Dec. 19, 1991, [105 Stat. 2343][/us/stat/105/2343], 2345; [Pub. L. 102–550, title XVI, § 1605(a)(1)][/us/pl/102/550/s1605/a/1], Oct. 28, 1992, [106 Stat. 4084][/us/stat/106/4084]; [Pub. L. 103–325, title III, § 337][/us/pl/103/325/s337], Sept. 23, 1994, [108 Stat. 2235][/us/stat/108/2235].)
+([Sept. 21, 1950, ch. 967][/us/act/1950-09-21/ch967], § 2\[29\], as added [Pub. L. 101–73, title II][/us/pl/101/73/tII], § 224(a), Aug. 9, 1989, [103 Stat. 273][/us/stat/103/273]; amended [Pub. L. 102–242, title III][/us/pl/102/242/tIII], § 301(a), (c), Dec. 19, 1991, [105 Stat. 2343][/us/stat/105/2343], 2345; [Pub. L. 102–550, title XVI][/us/pl/102/550/tXVI], § 1605(a)(1), Oct. 28, 1992, [106 Stat. 4084][/us/stat/106/4084]; [Pub. L. 103–325, title III][/us/pl/103/325/tIII], § 337, Sept. 23, 1994, [108 Stat. 2235][/us/stat/108/2235].)
 
  __Amendments__ 
 
     1994—Subsec. (g)(3). [Pub. L. 103–325][/us/pl/103/325] inserted “that is not well capitalized (as defined in section 1831o of this title)” after “includes any insured depository institution”, substituted “of such institution” for “of any insured depository institution”, and struck out “(with respect to such deposits)” after “offering rates of interest” and “having the same type of charter” after “other insured depository institutions”.
 
-    1992—Subsec. (a). [Pub. L. 102–550, § 1605(a)(1)(A)][/us/pl/102/550/s1605/a/1/A], substituted “An insured” for “A insured”.
+    1992—Subsec. (a). [Pub. L. 102–550][/us/pl/102/550], § 1605(a)(1)(A), substituted “An insured” for “A insured”.
 
-    Subsec. (c). [Pub. L. 102–550, § 1605(a)(1)(B)][/us/pl/102/550/s1605/a/1/B], substituted “capitalized (but not well capitalized)” for “capitalized”.
+    Subsec. (c). [Pub. L. 102–550][/us/pl/102/550], § 1605(a)(1)(B), substituted “capitalized (but not well capitalized)” for “capitalized”.
 
-    1991—Subsec. (a). [Pub. L. 102–242, § 301(a)(1)][/us/pl/102/242/s301/a/1], substituted “insured depository institution that is not well capitalized” for “troubled institution”.
+    1991—Subsec. (a). [Pub. L. 102–242][/us/pl/102/242], § 301(a)(1), substituted “insured depository institution that is not well capitalized” for “troubled institution”.
 
-    Subsec. (c). [Pub. L. 102–242, § 301(a)(2)][/us/pl/102/242/s301/a/2], substituted “insured depository institution which is adequately capitalized” for “insured depositary institution”.
+    Subsec. (c). [Pub. L. 102–242][/us/pl/102/242], § 301(a)(2), substituted “insured depository institution which is adequately capitalized” for “insured depositary institution”.
 
-    Subsec. (d). [Pub. L. 102–242, § 301(a)(3)][/us/pl/102/242/s301/a/3], added pars. (2) and (3) and closing provisions, struck out “and” at end of par. (1), and struck out former par. (2) which read as follows: “either—
+    Subsec. (d). [Pub. L. 102–242][/us/pl/102/242], § 301(a)(3), added pars. (2) and (3) and closing provisions, struck out “and” at end of par. (1), and struck out former par. (2) which read as follows: “either—
 
     “(A) is necessary to enable the institution to meet the demands of its depositors or pay its obligations in the ordinary course of business; or
 
     “(B) is consistent with the conservator’s fiduciary duty to minimize the losses of the institution.”
 
-    Subsecs. (e) to (h). [Pub. L. 102–242, § 301(a)(4)][/us/pl/102/242/s301/a/4]–(6), (c), added subsec. (e), redesignated former subsec. (e) as (f) and struck out “troubled” before “institution as the”, redesignated former subsecs. (f) and (g) as (g) and (h), respectively, added subsec. (h), and struck out former subsec. (h), as previously redesignated, which defined “troubled institution”.
+    Subsecs. (e) to (h). [Pub. L. 102–242][/us/pl/102/242], § 301(a)(4)–(6), (c), added subsec. (e), redesignated former subsec. (e) as (f) and struck out “troubled” before “institution as the”, redesignated former subsecs. (f) and (g) as (g) and (h), respectively, added subsec. (h), and struck out former subsec. (h), as previously redesignated, which defined “troubled institution”.
 
  __Effective Date of 1992 Amendment__ 
 
@@ -135,13 +135,13 @@
 
  __Effective Date__ 
 
-[Pub. L. 101–73, title II, § 224(b)][/us/pl/101/73/s224/b], Aug. 9, 1989, [103 Stat. 275][/us/stat/103/275], provided that: 
+[Pub. L. 101–73, title II][/us/pl/101/73/tII], § 224(b), Aug. 9, 1989, [103 Stat. 275][/us/stat/103/275], provided that: 
 
 > “The amendment made by subsection (a) \[enacting this section\] shall apply to deposits accepted after the end of the 120-day period beginning on the date of the enactment of this Act \[Aug. 9, 1989\].”
 
  __Regulations__ 
 
-[Pub. L. 102–242, title III, § 301(d)][/us/pl/102/242/s301/d], Dec. 19, 1991, [105 Stat. 2345][/us/stat/105/2345], provided that: 
+[Pub. L. 102–242, title III][/us/pl/102/242/tIII], § 301(d), Dec. 19, 1991, [105 Stat. 2345][/us/stat/105/2345], provided that: 
 
 > “The Corporation shall promulgate final regulations to carry out the amendments made under subsections (a), (b), and (c) \[enacting [section 1831f–1 of this title][/us/usc/t12/s1831f–1] and amending this section\] not later than 150 days after the date of enactment of this Act \[Dec. 19, 1991\], and those regulations shall become effective not later than 180 days after that date of enactment, except that such regulations shall not apply to any specific time deposit made before that date of enactment until the stated maturity of the time deposit.”
 
@@ -152,29 +152,29 @@
 ----------
 ----------
 
-[/us/act/1950-09-21/ch967/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967%2Fs2
-[/us/pl/101/73/s224/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs224%2Fa
+[/us/act/1950-09-21/ch967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967
+[/us/pl/101/73/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtII
 [/us/stat/103/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F273
-[/us/pl/102/242/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs301%2Fa
+[/us/pl/102/242/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtIII
 [/us/stat/105/2343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2343
-[/us/pl/102/550/s1605/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1605%2Fa%2F1
+[/us/pl/102/550/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXVI
 [/us/stat/106/4084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4084
-[/us/pl/103/325/s337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs337
+[/us/pl/103/325/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtIII
 [/us/stat/108/2235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2235
 [/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
-[/us/pl/102/550/s1605/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1605%2Fa%2F1%2FA
-[/us/pl/102/550/s1605/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1605%2Fa%2F1%2FB
-[/us/pl/102/242/s301/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs301%2Fa%2F1
-[/us/pl/102/242/s301/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs301%2Fa%2F2
-[/us/pl/102/242/s301/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs301%2Fa%2F3
-[/us/pl/102/242/s301/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs301%2Fa%2F4
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
+[/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
+[/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
+[/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
 [/us/pl/102/550/s1609/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1609%2Fa
 [/us/usc/t12/s191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs191
-[/us/pl/101/73/s224/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs224%2Fb
+[/us/pl/101/73/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtII
 [/us/stat/103/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F275
-[/us/pl/102/242/s301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs301%2Fd
+[/us/pl/102/242/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtIII
 [/us/stat/105/2345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2345
 [/us/usc/t12/s1831f–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1831f%E2%80%931
 

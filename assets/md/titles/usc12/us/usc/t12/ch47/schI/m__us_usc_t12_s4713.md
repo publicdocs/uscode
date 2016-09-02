@@ -109,13 +109,13 @@
 
             For the purpose of this subchapter, section 233(a)(2)(A) of the Bank Enterprise Act of 1991 shall be applied by inserting “of the increase” after “the amount”.
 
-([Pub. L. 103–325, title I, § 114][/us/pl/103/325/s114], Sept. 23, 1994, [108 Stat. 2179][/us/stat/108/2179].)
+([Pub. L. 103–325, title I][/us/pl/103/325/tI], § 114, Sept. 23, 1994, [108 Stat. 2179][/us/stat/108/2179].)
 
  __References in Text__ 
 
     The Bank Enterprise Act of 1991, referred to in subsecs. (a)(2), (5) and (b)(6), is subtitle C (§§ 231–234) of title II of [Pub. L. 102–242][/us/pl/102/242], Dec. 19, 1991, [105 Stat. 2308–2315][/us/stat/105/2308-2315], which enacted sections 1834 to 1834b of this title, amended [section 1817 of this title][/us/usc/t12/s1817], and enacted provisions set out as a note under [section 1811 of this title][/us/usc/t12/s1811]. For complete classification of this Act to the Code, see Short Title of 1991 Amendment note set out under [section 1811 of this title][/us/usc/t12/s1811] and Tables.
 
-    The Federal Deposit Insurance Act, referred to in subsec. (a)(5), is [act Sept. 21, 1950, ch. 967, § 2][/us/act/1950-09-21/ch967/s2], [64 Stat. 873][/us/stat/64/873], as amended, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1811 of this title][/us/usc/t12/s1811] and Tables.
+    The Federal Deposit Insurance Act, referred to in subsec. (a)(5), is [act Sept. 21, 1950, ch. 967][/us/act/1950-09-21/ch967], § 2, [64 Stat. 873][/us/stat/64/873], as amended, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1811 of this title][/us/usc/t12/s1811] and Tables.
 
  __Codification__ 
 
@@ -142,14 +142,14 @@
 [/us/usc/t12/s1834a/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1834a%2Fa%2F5
 [/us/usc/t12/s1834b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1834b
 [/us/usc/t12/s1834a/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1834a%2Fb%2F2
-[/us/pl/103/325/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs114
+[/us/pl/103/325/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtI
 [/us/stat/108/2179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2179
 [/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
 [/us/stat/105/2308-2315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2308-2315
 [/us/usc/t12/s1817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1817
 [/us/usc/t12/s1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1811
 [/us/usc/t12/s1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1811
-[/us/act/1950-09-21/ch967/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967%2Fs2
+[/us/act/1950-09-21/ch967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967
 [/us/stat/64/873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F873
 [/us/usc/t12/s1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1811
 [/us/pl/103/325/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs114

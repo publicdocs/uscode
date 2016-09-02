@@ -255,7 +255,7 @@
 
             The terms “host State”, “home State”, and “out-of-State bank” have the same meanings as in section 1831u(f)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title.
 
-([Sept. 21, 1950, ch. 967, § 2][/us/act/1950-09-21/ch967/s2]\[24\], as added [Pub. L. 102–242, title III, § 303(a)][/us/pl/102/242/s303/a], Dec. 19, 1991, [105 Stat. 2349][/us/stat/105/2349]; amended [Pub. L. 102–550, title XVI, § 1605(a)(8)][/us/pl/102/550/s1605/a/8], Oct. 28, 1992, [106 Stat. 4086][/us/stat/106/4086]; [Pub. L. 103–328, title I, § 102(b)(3)(B)][/us/pl/103/328/s102/b/3/B], Sept. 29, 1994, [108 Stat. 2351][/us/stat/108/2351]; [Pub. L. 104–208, div. A, title II][/us/pl/104/208], §§ 2217, 2704(d)(14)(W), Sept. 30, 1996, [110 Stat. 3009–414][/us/stat/110/3009-414], 3009–494; [Pub. L. 105–24, § 2(a)][/us/pl/105/24/s2/a], July 3, 1997, [111 Stat. 238][/us/stat/111/238]; [Pub. L. 109–171, title II, § 2102(b)][/us/pl/109/171/s2102/b], Feb. 8, 2006, [120 Stat. 9][/us/stat/120/9]; [Pub. L. 109–173, § 8(a)(31)][/us/pl/109/173/s8/a/31], Feb. 15, 2006, [119 Stat. 3615][/us/stat/119/3615].)
+([Sept. 21, 1950, ch. 967][/us/act/1950-09-21/ch967], § 2\[24\], as added [Pub. L. 102–242, title III][/us/pl/102/242/tIII], § 303(a), Dec. 19, 1991, [105 Stat. 2349][/us/stat/105/2349]; amended [Pub. L. 102–550, title XVI][/us/pl/102/550/tXVI], § 1605(a)(8), Oct. 28, 1992, [106 Stat. 4086][/us/stat/106/4086]; [Pub. L. 103–328, title I][/us/pl/103/328/tI], § 102(b)(3)(B), Sept. 29, 1994, [108 Stat. 2351][/us/stat/108/2351]; [Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], §§ 2217, 2704(d)(14)(W), Sept. 30, 1996, [110 Stat. 3009–414][/us/stat/110/3009-414], 3009–494; [Pub. L. 105–24][/us/pl/105/24], § 2(a), July 3, 1997, [111 Stat. 238][/us/stat/111/238]; [Pub. L. 109–171, title II][/us/pl/109/171/tII], § 2102(b), Feb. 8, 2006, [120 Stat. 9][/us/stat/120/9]; [Pub. L. 109–173][/us/pl/109/173], § 8(a)(31), Feb. 15, 2006, [119 Stat. 3615][/us/stat/119/3615].)
 
  __References in Text__ 
 
@@ -265,31 +265,31 @@
 
  __Prior Provisions__ 
 
-    A prior section 1831a, [act Sept. 21, 1950, ch. 967, § 2][/us/act/1950-09-21/ch967/s2]\[24\], as added Dec. 28, 1979, [Pub. L. 96–161, title II, § 202][/us/pl/96/161/s202], [93 Stat. 1235][/us/stat/93/1235], provided that if the applicable rate prescribed in subsec. (a) exceeded the rate a State bank would be permitted to charge in absence of that subsection, that State bank could for a business or agricultural loan of $25,000 or more, notwithstanding State law, take or charge on any evidence of debt, interest of not more than 5 per centum in excess of the discount rate in effect at the Federal Reserve Bank in the district where the bank was located, that the taking or charging of interest at a greater rate than that prescribed by subsec. (a), if knowingly done, would be deemed a forfeit of the entire interest on that particular evidence of debt, and that if such greater rate of interest had already been paid, the payor could recover twice the amount of such payment in a civil action commenced within two years of such payment, prior to repeal by [Pub. L. 96–221, title V, § 529][/us/pl/96/221/s529], Mar. 31, 1980, [94 Stat. 168][/us/stat/94/168], effective at close of Mar. 31, 1980.
+    A prior section 1831a, [act Sept. 21, 1950, ch. 967][/us/act/1950-09-21/ch967], § 2\[24\], as added Dec. 28, 1979, [Pub. L. 96–161, title II][/us/pl/96/161/tII], § 202, [93 Stat. 1235][/us/stat/93/1235], provided that if the applicable rate prescribed in subsec. (a) exceeded the rate a State bank would be permitted to charge in absence of that subsection, that State bank could for a business or agricultural loan of $25,000 or more, notwithstanding State law, take or charge on any evidence of debt, interest of not more than 5 per centum in excess of the discount rate in effect at the Federal Reserve Bank in the district where the bank was located, that the taking or charging of interest at a greater rate than that prescribed by subsec. (a), if knowingly done, would be deemed a forfeit of the entire interest on that particular evidence of debt, and that if such greater rate of interest had already been paid, the payor could recover twice the amount of such payment in a civil action commenced within two years of such payment, prior to repeal by [Pub. L. 96–221, title V][/us/pl/96/221/tV], § 529, Mar. 31, 1980, [94 Stat. 168][/us/stat/94/168], effective at close of Mar. 31, 1980.
 
-    Another prior section 1831a, [act Sept. 21, 1950, ch. 967, § 2][/us/act/1950-09-21/ch967/s2]\[24\], as added Nov. 5, 1979, [Pub. L. 96–104, title I, § 102][/us/pl/96/104/s102], [93 Stat. 789][/us/stat/93/789], identical to this section as added by [Pub. L. 96–161][/us/pl/96/161], was repealed by [section 212 of Pub. L. 96–161][/us/pl/96/161/s212], effective at the close of Dec. 27, 1979, except that its provisions would continue to apply to any loan made in any State on or after Nov. 5, 1979, but prior to such repeal.
+    Another prior section 1831a, [act Sept. 21, 1950, ch. 967][/us/act/1950-09-21/ch967], § 2\[24\], as added Nov. 5, 1979, [Pub. L. 96–104, title I][/us/pl/96/104/tI], § 102, [93 Stat. 789][/us/stat/93/789], identical to this section as added by [Pub. L. 96–161][/us/pl/96/161], was repealed by [section 212 of Pub. L. 96–161][/us/pl/96/161/s212], effective at the close of Dec. 27, 1979, except that its provisions would continue to apply to any loan made in any State on or after Nov. 5, 1979, but prior to such repeal.
 
-    Another prior section 1831a, [act Sept. 21, 1950, ch. 967, § 2][/us/act/1950-09-21/ch967/s2]\[24\], as added Oct. 29, 1974, [Pub. L. 93–501, title II, § 202][/us/pl/93/501/s202], [88 Stat. 1558][/us/stat/88/1558], identical to this section as added by [Pub. L. 96–104][/us/pl/96/104], was repealed by [section 1 of Pub. L. 96–104][/us/pl/96/104/s1] except that its provisions shall continue to apply to any loan made in any State during the period specified in [section 206 of Pub. L. 93–501][/us/pl/93/501/s206].
+    Another prior section 1831a, [act Sept. 21, 1950, ch. 967][/us/act/1950-09-21/ch967], § 2\[24\], as added Oct. 29, 1974, [Pub. L. 93–501, title II][/us/pl/93/501/tII], § 202, [88 Stat. 1558][/us/stat/88/1558], identical to this section as added by [Pub. L. 96–104][/us/pl/96/104], was repealed by [section 1 of Pub. L. 96–104][/us/pl/96/104/s1] except that its provisions shall continue to apply to any loan made in any State during the period specified in [section 206 of Pub. L. 93–501][/us/pl/93/501/s206].
 
  __Amendments__ 
 
-    2006—Subsecs. (a)(1)(A), (d)(1)(A). [Pub. L. 109–173, § 8(a)(31)(A)][/us/pl/109/173/s8/a/31/A], substituted “Deposit Insurance Fund” for “appropriate deposit insurance fund”.
+    2006—Subsecs. (a)(1)(A), (d)(1)(A). [Pub. L. 109–173][/us/pl/109/173], § 8(a)(31)(A), substituted “Deposit Insurance Fund” for “appropriate deposit insurance fund”.
 
-    [Pub. L. 109–171][/us/pl/109/171] repealed [Pub. L. 104–208, § 2704(d)(14)(W)][/us/pl/104/208/s2704/d/14/W]. See 1996 Amendment note below.
+    [Pub. L. 109–171][/us/pl/109/171] repealed [Pub. L. 104–208][/us/pl/104/208], § 2704(d)(14)(W). See 1996 Amendment note below.
 
-    Subsec. (e)(2)(A). [Pub. L. 109–173, § 8(a)(31)(B)][/us/pl/109/173/s8/a/31/B], substituted “risk to the Deposit Insurance Fund.” for “risk to the insurance fund of which such banks are members.”
+    Subsec. (e)(2)(A). [Pub. L. 109–173][/us/pl/109/173], § 8(a)(31)(B), substituted “risk to the Deposit Insurance Fund.” for “risk to the insurance fund of which such banks are members.”
 
-    Subsecs. (e)(2)(B)(ii), (f)(6)(B). [Pub. L. 109–173, § 8(a)(31)(C)][/us/pl/109/173/s8/a/31/C], substituted “the Deposit Insurance Fund” for “the insurance fund of which such bank is a member”.
+    Subsecs. (e)(2)(B)(ii), (f)(6)(B). [Pub. L. 109–173][/us/pl/109/173], § 8(a)(31)(C), substituted “the Deposit Insurance Fund” for “the insurance fund of which such bank is a member”.
 
     1997—Subsec. (j). [Pub. L. 105–24][/us/pl/105/24] amended subsec. (j) generally, substituting pars. (1) to (4) for former pars. (1) to (3) relating to general provisions, activities of branches, and definitions, respectively.
 
-    1996—Subsec. (a). [Pub. L. 104–208, § 2217(1)][/us/pl/104/208/s2217/1], substituted “Permissible activities” for “In general” in heading, designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) and (2) as subpars. (A) and (B) of par. (1), respectively, and realigned margins, and added par. (2).
+    1996—Subsec. (a). [Pub. L. 104–208][/us/pl/104/208], § 2217(1), substituted “Permissible activities” for “In general” in heading, designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) and (2) as subpars. (A) and (B) of par. (1), respectively, and realigned margins, and added par. (2).
 
-    Subsec. (a)(1)(A). [Pub. L. 104–208, § 2704(d)(14)(W)][/us/pl/104/208/s2704/d/14/W], which directed substitution of “Deposit Insurance Fund” for “appropriate deposit insurance fund”, was repealed by [Pub. L. 109–171][/us/pl/109/171]. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
+    Subsec. (a)(1)(A). [Pub. L. 104–208][/us/pl/104/208], § 2704(d)(14)(W), which directed substitution of “Deposit Insurance Fund” for “appropriate deposit insurance fund”, was repealed by [Pub. L. 109–171][/us/pl/109/171]. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
-    Subsec. (d)(1)(A). [Pub. L. 104–208, § 2704(d)(14)(W)][/us/pl/104/208/s2704/d/14/W], which directed substitution of “Deposit Insurance Fund” for “appropriate deposit insurance fund”, was repealed by [Pub. L. 109–171][/us/pl/109/171]. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
+    Subsec. (d)(1)(A). [Pub. L. 104–208][/us/pl/104/208], § 2704(d)(14)(W), which directed substitution of “Deposit Insurance Fund” for “appropriate deposit insurance fund”, was repealed by [Pub. L. 109–171][/us/pl/109/171]. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
-    Subsec. (d)(3). [Pub. L. 104–208, § 2217(2)][/us/pl/104/208/s2217/2], added par. (3).
+    Subsec. (d)(3). [Pub. L. 104–208][/us/pl/104/208], § 2217(2), added par. (3).
 
     1994—Subsec. (j). [Pub. L. 103–328][/us/pl/103/328] added subsec. (j).
 
@@ -311,7 +311,7 @@
 
  __Right of State To Opt Out__ 
 
-[Pub. L. 105–24, § 3][/us/pl/105/24/s3], July 3, 1997, [111 Stat. 239][/us/stat/111/239], provided that: 
+[Pub. L. 105–24][/us/pl/105/24], § 3, July 3, 1997, [111 Stat. 239][/us/stat/111/239], provided that: 
 
 > “Nothing in this Act \[amending this section and [section 36 of this title][/us/usc/t12/s36] and enacting provisions set out as a note under [section 1811 of this title][/us/usc/t12/s1811]\] alters the right of States under [section 525 of Public Law 96–221][/us/pl/96/221/s525] \[[12 U.S.C. 1785][/us/usc/t12/s1785] note\].”
 
@@ -324,53 +324,53 @@
 
 [/us/usc/t15/s80a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%931
 [/us/usc/t12/s1831u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1831u
-[/us/act/1950-09-21/ch967/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967%2Fs2
-[/us/pl/102/242/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs303%2Fa
+[/us/act/1950-09-21/ch967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967
+[/us/pl/102/242/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtIII
 [/us/stat/105/2349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2349
-[/us/pl/102/550/s1605/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1605%2Fa%2F8
+[/us/pl/102/550/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXVI
 [/us/stat/106/4086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4086
-[/us/pl/103/328/s102/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328%2Fs102%2Fb%2F3%2FB
+[/us/pl/103/328/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328%2FtI
 [/us/stat/108/2351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2351
-[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-414
-[/us/pl/105/24/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F24%2Fs2%2Fa
+[/us/pl/105/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F24
 [/us/stat/111/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F238
-[/us/pl/109/171/s2102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs2102%2Fb
+[/us/pl/109/171/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2FtII
 [/us/stat/120/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F9
-[/us/pl/109/173/s8/a/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173%2Fs8%2Fa%2F31
+[/us/pl/109/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173
 [/us/stat/119/3615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3615
 [/us/act/1940-08-22/ch686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-08-22%2Fch686
 [/us/stat/54/789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F789
 [/us/usc/t15/s80a–51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%9351
 [/us/usc/t12/s1831u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1831u
-[/us/act/1950-09-21/ch967/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967%2Fs2
-[/us/pl/96/161/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F161%2Fs202
+[/us/act/1950-09-21/ch967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967
+[/us/pl/96/161/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F161%2FtII
 [/us/stat/93/1235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1235
-[/us/pl/96/221/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs529
+[/us/pl/96/221/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2FtV
 [/us/stat/94/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F168
-[/us/act/1950-09-21/ch967/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967%2Fs2
-[/us/pl/96/104/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F104%2Fs102
+[/us/act/1950-09-21/ch967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967
+[/us/pl/96/104/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F104%2FtI
 [/us/stat/93/789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F789
 [/us/pl/96/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F161
 [/us/pl/96/161/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F161%2Fs212
-[/us/act/1950-09-21/ch967/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967%2Fs2
-[/us/pl/93/501/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F501%2Fs202
+[/us/act/1950-09-21/ch967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967
+[/us/pl/93/501/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F501%2FtII
 [/us/stat/88/1558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1558
 [/us/pl/96/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F104
 [/us/pl/96/104/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F104%2Fs1
 [/us/pl/93/501/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F501%2Fs206
-[/us/pl/109/173/s8/a/31/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173%2Fs8%2Fa%2F31%2FA
+[/us/pl/109/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173
 [/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
-[/us/pl/104/208/s2704/d/14/W]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2704%2Fd%2F14%2FW
-[/us/pl/109/173/s8/a/31/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173%2Fs8%2Fa%2F31%2FB
-[/us/pl/109/173/s8/a/31/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173%2Fs8%2Fa%2F31%2FC
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/109/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173
+[/us/pl/109/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173
 [/us/pl/105/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F24
-[/us/pl/104/208/s2217/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2217%2F1
-[/us/pl/104/208/s2704/d/14/W]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2704%2Fd%2F14%2FW
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
-[/us/pl/104/208/s2704/d/14/W]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2704%2Fd%2F14%2FW
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
-[/us/pl/104/208/s2217/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2217%2F2
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/103/328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/usc/t12/s1828/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1828%2Fk
@@ -387,7 +387,7 @@
 [/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
 [/us/pl/102/550/s1609/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1609%2Fa
 [/us/usc/t12/s191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs191
-[/us/pl/105/24/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F24%2Fs3
+[/us/pl/105/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F24
 [/us/stat/111/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F239
 [/us/usc/t12/s36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs36
 [/us/usc/t12/s1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1811

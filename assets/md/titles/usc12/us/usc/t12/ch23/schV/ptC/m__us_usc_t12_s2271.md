@@ -33,7 +33,7 @@
 
         (C) after December 31, 1992, mean any significant noncompliance by a System institution (as determined by the Farm Credit Administration, in consultation with the Farm Credit System Insurance Corporation) with any term or condition imposed on the institution by the Farm Credit System Assistance Board under [section 2278a–6 of this title][/us/usc/t12/s2278a–6] or by the Farm Credit System Insurance Corporation under [section 2277a–10 of this title][/us/usc/t12/s2277a–10].
 
-([Pub. L. 92–181, title V, § 5][/us/pl/92/181/s5].35, as added [Pub. L. 99–205, title II, § 204][/us/pl/99/205/s204], Dec. 23, 1985, [99 Stat. 1701][/us/stat/99/1701]; amended [Pub. L. 100–233, title II][/us/pl/100/233], §§ 203, 207(d), Jan. 6, 1988, [101 Stat. 1605][/us/stat/101/1605], 1608; [Pub. L. 102–237, title V, § 502(i)][/us/pl/102/237/s502/i], Dec. 13, 1991, [105 Stat. 1869][/us/stat/105/1869]; [Pub. L. 102–552, title II, § 202(b)][/us/pl/102/552/s202/b], Oct. 28, 1992, [106 Stat. 4106][/us/stat/106/4106].)
+([Pub. L. 92–181, title V][/us/pl/92/181/tV], § 5.35, as added [Pub. L. 99–205, title II][/us/pl/99/205/tII], § 204, Dec. 23, 1985, [99 Stat. 1701][/us/stat/99/1701]; amended [Pub. L. 100–233, title II][/us/pl/100/233/tII], §§ 203, 207(d), Jan. 6, 1988, [101 Stat. 1605][/us/stat/101/1605], 1608; [Pub. L. 102–237, title V][/us/pl/102/237/tV], § 502(i), Dec. 13, 1991, [105 Stat. 1869][/us/stat/105/1869]; [Pub. L. 102–552, title II][/us/pl/102/552/tII], § 202(b), Oct. 28, 1992, [106 Stat. 4106][/us/stat/106/4106].)
 
  __Codification__ 
 
@@ -45,9 +45,9 @@
 
     1991—Par. (3). [Pub. L. 102–237][/us/pl/102/237] substituted “part E” for “part D”.
 
-    1988—Par. (3). [Pub. L. 100–233, § 207(d)][/us/pl/100/233/s207/d], substituted “Financial Assistance Corporation” for “Capital Corporation”.
+    1988—Par. (3). [Pub. L. 100–233][/us/pl/100/233], § 207(d), substituted “Financial Assistance Corporation” for “Capital Corporation”.
 
-    Par. (4). [Pub. L. 100–233, § 203][/us/pl/100/233/s203], amended par. (4) generally. Prior to amendment, par. (4) read as follows: “the term ‘unsafe or unsound practice’ shall have the meaning given to it by the Farm Credit Administration by regulations, rule, or order.”
+    Par. (4). [Pub. L. 100–233][/us/pl/100/233], § 203, amended par. (4) generally. Prior to amendment, par. (4) read as follows: “the term ‘unsafe or unsound practice’ shall have the meaning given to it by the Farm Credit Administration by regulations, rule, or order.”
 
  __Effective Date of 1991 Amendment__ 
 
@@ -71,20 +71,20 @@
 [/us/usc/t12/s2278a–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2278a%E2%80%936
 [/us/usc/t12/s2278a–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2278a%E2%80%936
 [/us/usc/t12/s2277a–10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2277a%E2%80%9310
-[/us/pl/92/181/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs5
-[/us/pl/99/205/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2Fs204
+[/us/pl/92/181/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtV
+[/us/pl/99/205/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2FtII
 [/us/stat/99/1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1701
-[/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
+[/us/pl/100/233/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtII
 [/us/stat/101/1605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1605
-[/us/pl/102/237/s502/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs502%2Fi
+[/us/pl/102/237/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtV
 [/us/stat/105/1869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1869
-[/us/pl/102/552/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2Fs202%2Fb
+[/us/pl/102/552/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2FtII
 [/us/stat/106/4106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4106
 [/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
 [/us/pl/102/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
-[/us/pl/100/233/s207/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs207%2Fd
-[/us/pl/100/233/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs203
+[/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
+[/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/pl/102/237/s1101/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1101%2Fb%2F4

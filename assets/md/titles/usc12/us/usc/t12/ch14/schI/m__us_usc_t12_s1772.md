@@ -17,7 +17,7 @@
 
     The provisions of this chapter shall apply to the several States, the District of Columbia, the several Territories, including the trust territories, and possessions of the United States, the Panama Canal Zone, and the Commonwealth of Puerto Rico.
 
-([June 26, 1934, ch. 750][/us/act/1934-06-26/ch750], title I, § 126, formerly § 22, as added [July 31, 1946, ch. 711, § 7][/us/act/1946-07-31/ch711/s7], [60 Stat. 745][/us/stat/60/745]; amended [May 8, 1952, ch. 245][/us/act/1952-05-08/ch245], [66 Stat. 66][/us/stat/66/66], renumbered § 27 and amended [Pub. L. 86–354, § 1][/us/pl/86/354/s1], Sept. 22, 1959, [73 Stat. 638][/us/stat/73/638]; renumbered title I, § 126, [Pub. L. 91–468, § 1(2)][/us/pl/91/468/s1/2], Oct. 19, 1970, [84 Stat. 994][/us/stat/84/994]; amended [Pub. L. 93–383, title VII, § 726][/us/pl/93/383/s726], Aug. 22, 1974, [88 Stat. 720][/us/stat/88/720].)
+([June 26, 1934, ch. 750][/us/act/1934-06-26/ch750], title I, § 126, formerly § 22, as added [July 31, 1946, ch. 711][/us/act/1946-07-31/ch711], § 7, [60 Stat. 745][/us/stat/60/745]; amended [May 8, 1952, ch. 245][/us/act/1952-05-08/ch245], [66 Stat. 66][/us/stat/66/66], renumbered § 27 and amended [Pub. L. 86–354][/us/pl/86/354], § 1, Sept. 22, 1959, [73 Stat. 638][/us/stat/73/638]; renumbered title I, § 126, [Pub. L. 91–468][/us/pl/91/468], § 1(2), Oct. 19, 1970, [84 Stat. 994][/us/stat/84/994]; amended [Pub. L. 93–383, title VII][/us/pl/93/383/tVII], § 726, Aug. 22, 1974, [88 Stat. 720][/us/stat/88/720].)
 
  __References in Text__ 
 
@@ -39,15 +39,15 @@
 ----------
 
 [/us/act/1934-06-26/ch750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-26%2Fch750
-[/us/act/1946-07-31/ch711/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-31%2Fch711%2Fs7
+[/us/act/1946-07-31/ch711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-31%2Fch711
 [/us/stat/60/745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F745
 [/us/act/1952-05-08/ch245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-05-08%2Fch245
 [/us/stat/66/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F66
-[/us/pl/86/354/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F354%2Fs1
+[/us/pl/86/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F354
 [/us/stat/73/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F638
-[/us/pl/91/468/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F468%2Fs1%2F2
+[/us/pl/91/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F468
 [/us/stat/84/994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F994
-[/us/pl/93/383/s726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs726
+[/us/pl/93/383/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtVII
 [/us/stat/88/720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F720
 [/us/usc/t22/s3602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3602%2Fb
 [/us/pl/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383

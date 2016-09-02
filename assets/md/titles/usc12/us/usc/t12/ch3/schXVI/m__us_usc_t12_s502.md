@@ -17,7 +17,7 @@
 
     The shareholders of every Federal reserve bank shall be held individually responsible, equally and ratably, and not one for another, for all contracts, debts, and engagements of such bank to the extent of the amount of their subscriptions to such stock at the par value thereof in addition to the amount subscribed, whether such subscriptions have been paid up in whole or in part under the provisions of this chapter.
 
-([Dec. 23, 1913, ch. 6, § 2][/us/act/1913-12-23/ch6/s2] (par.), [38 Stat. 252][/us/stat/38/252].)
+([Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 2 (par.), [38 Stat. 252][/us/stat/38/252].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1913-12-23/ch6/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs2
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
 [/us/stat/38/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F252
 [/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
 [/us/stat/38/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F251

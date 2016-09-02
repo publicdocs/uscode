@@ -101,13 +101,13 @@
 
             The succession to assets, assumption of liabilities, conversion of obligations, instruments, and stock, and effectuation of any other transaction by the Corporation to carry out this subsection shall not be treated as a taxable event under the laws of any State or political subdivision thereof.
 
-([Pub. L. 92–181, title IV, § 4][/us/pl/92/181/s4].9, Dec. 10, 1971, [85 Stat. 612][/us/stat/85/612]; [Pub. L. 100–233, title II, § 204(a)][/us/pl/100/233/s204/a], Jan. 6, 1988, [101 Stat. 1605][/us/stat/101/1605]; [Pub. L. 100–399, title II, § 203(a)][/us/pl/100/399/s203/a]–(d), Aug. 17, 1988, [102 Stat. 992][/us/stat/102/992], 993; [Pub. L. 102–552, title V, § 507][/us/pl/102/552/s507], Oct. 28, 1992, [106 Stat. 4131][/us/stat/106/4131].)
+([Pub. L. 92–181, title IV][/us/pl/92/181/tIV], § 4.9, Dec. 10, 1971, [85 Stat. 612][/us/stat/85/612]; [Pub. L. 100–233, title II][/us/pl/100/233/tII], § 204(a), Jan. 6, 1988, [101 Stat. 1605][/us/stat/101/1605]; [Pub. L. 100–399, title II][/us/pl/100/399/tII], § 203(a)–(d), Aug. 17, 1988, [102 Stat. 992][/us/stat/102/992], 993; [Pub. L. 102–552, title V][/us/pl/102/552/tV], § 507, Oct. 28, 1992, [106 Stat. 4131][/us/stat/106/4131].)
 
  __References in Text__ 
 
     January 6, 1988, referred to in subsecs. (e) and (f)(3), was in the original “the enactment of this section”, “the date of the enactment of this section”, and “such date of enactment”, which were translated as meaning the date of enactment of [Pub. L. 100–233][/us/pl/100/233], which amended this section generally, to reflect the probable intent of Congress.
 
-    [Section 2156 of this title][/us/usc/t12/s2156], referred to in subsec. (e)(1), was repealed by [Pub. L. 100–233, title II, § 204(b)][/us/pl/100/233/s204/b], Jan. 6, 1988, [101 Stat. 1607][/us/stat/101/1607].
+    [Section 2156 of this title][/us/usc/t12/s2156], referred to in subsec. (e)(1), was repealed by [Pub. L. 100–233, title II][/us/pl/100/233/tII], § 204(b), Jan. 6, 1988, [101 Stat. 1607][/us/stat/101/1607].
 
     For text of [section 2160 of this title][/us/usc/t12/s2160] in effect before January 6, 1988, referred to in subsec. (e)(1), see 1988 Amendment note below.
 
@@ -123,13 +123,13 @@
 
     1988—[Pub. L. 100–233][/us/pl/100/233] amended section generally. Prior to amendment, section read as follows: “A fiscal agency shall be established by the banks for such of their functions relating to the issuance, marketing, and handling of their obligations, and interbank or intersystem flow of funds as may from time to time be required.”
 
-    Subsec. (b)(3). [Pub. L. 100–399, § 203(b)][/us/pl/100/399/s203/b], inserted “predecessor Federal Farm Credit Banks” before “Funding Corporation”.
+    Subsec. (b)(3). [Pub. L. 100–399][/us/pl/100/399], § 203(b), inserted “predecessor Federal Farm Credit Banks” before “Funding Corporation”.
 
-    Subsec. (d)(2)(B), (C). [Pub. L. 100–399, § 203(c)][/us/pl/100/399/s203/c], substituted “directors of the Corporation” for “directors of the Federal Farm Credit Banks Funding Corporation”.
+    Subsec. (d)(2)(B), (C). [Pub. L. 100–399][/us/pl/100/399], § 203(c), substituted “directors of the Corporation” for “directors of the Federal Farm Credit Banks Funding Corporation”.
 
-    Subsec. (e). [Pub. L. 100–399, § 203(d)][/us/pl/100/399/s203/d], amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Until a quorum of the board of directors of the Corporation is elected or appointed, the finance committee established under [section 2156 of this title][/us/usc/t12/s2156] in effect before January 6, 1988, and the fiscal agency established under [section 2160 of this title][/us/usc/t12/s2160] in effect before January 6, 1988, shall continue to operate as if this section had not been enacted.”
+    Subsec. (e). [Pub. L. 100–399][/us/pl/100/399], § 203(d), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Until a quorum of the board of directors of the Corporation is elected or appointed, the finance committee established under [section 2156 of this title][/us/usc/t12/s2156] in effect before January 6, 1988, and the fiscal agency established under [section 2160 of this title][/us/usc/t12/s2160] in effect before January 6, 1988, shall continue to operate as if this section had not been enacted.”
 
-    Subsec. (f). [Pub. L. 100–399, § 203(a)][/us/pl/100/399/s203/a], added subsec. (f).
+    Subsec. (f). [Pub. L. 100–399][/us/pl/100/399], § 203(a), added subsec. (f).
 
  __Effective Date of 1988 Amendment__ 
 
@@ -143,27 +143,27 @@
 ----------
 
 [/us/usc/t12/s2211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2211
-[/us/pl/92/181/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs4
+[/us/pl/92/181/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtIV
 [/us/stat/85/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F612
-[/us/pl/100/233/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs204%2Fa
+[/us/pl/100/233/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtII
 [/us/stat/101/1605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1605
-[/us/pl/100/399/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs203%2Fa
+[/us/pl/100/399/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtII
 [/us/stat/102/992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F992
-[/us/pl/102/552/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2Fs507
+[/us/pl/102/552/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2FtV
 [/us/stat/106/4131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4131
 [/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
 [/us/usc/t12/s2156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2156
-[/us/pl/100/233/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs204%2Fb
+[/us/pl/100/233/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtII
 [/us/stat/101/1607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1607
 [/us/usc/t12/s2160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2160
 [/us/pl/102/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552
 [/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
-[/us/pl/100/399/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs203%2Fb
-[/us/pl/100/399/s203/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs203%2Fc
-[/us/pl/100/399/s203/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs203%2Fd
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/usc/t12/s2156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2156
 [/us/usc/t12/s2160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2160
-[/us/pl/100/399/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs203%2Fa
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
 [/us/pl/100/399/s1001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs1001%2Fa

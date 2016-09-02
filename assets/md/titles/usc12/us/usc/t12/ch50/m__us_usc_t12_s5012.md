@@ -17,7 +17,7 @@
 
     This chapter shall supersede any provision of Federal or State law, including the Uniform Commercial Code, that is inconsistent with this chapter, but only to the extent of the inconsistency.
 
-([Pub. L. 108–100, § 13][/us/pl/108/100/s13], Oct. 28, 2003, [117 Stat. 1190][/us/stat/117/1190].)
+([Pub. L. 108–100][/us/pl/108/100], § 13, Oct. 28, 2003, [117 Stat. 1190][/us/stat/117/1190].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/108/100/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F100%2Fs13
+[/us/pl/108/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F100
 [/us/stat/117/1190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1190
 [/us/pl/108/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F100
 [/us/stat/117/1177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1177

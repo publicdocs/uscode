@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t12/ch2/schVI/m__us_usc_t12_s121a.md) | [Next](./../../../../..//us/usc/t12/ch2/schVI/m__us_usc_t12_s122a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs122)
 
-## § 122. Repealed. [Pub. L. 97–258, § 5(b)][/us/pl/97/258/s5/b], Sept. 13, 1982, [96 Stat. 1068][/us/stat/96/1068]
+## § 122. Repealed. [Pub. L. 97–258][/us/pl/97/258], § 5(b), Sept. 13, 1982, [96 Stat. 1068][/us/stat/96/1068]
 
-    Section, [act July 14, 1890, ch. 708, § 6][/us/act/1890-07-14/ch708/s6], [26 Stat. 289][/us/stat/26/289], related to deposits received by the Treasurer from national banks made to redeem circulating notes of such banks and disposition of those deposits.
+    Section, [act July 14, 1890, ch. 708][/us/act/1890-07-14/ch708], § 6, [26 Stat. 289][/us/stat/26/289], related to deposits received by the Treasurer from national banks made to redeem circulating notes of such banks and disposition of those deposits.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/pl/97/258/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs5%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1068
-[/us/act/1890-07-14/ch708/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-07-14%2Fch708%2Fs6
+[/us/act/1890-07-14/ch708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-07-14%2Fch708
 [/us/stat/26/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F289
 
 

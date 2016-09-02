@@ -145,17 +145,17 @@
 
             No provision of this subsection shall be construed as prohibiting any regulated entity from purchasing any commercial insurance policy or fidelity bond, except that, subject to any requirement described in paragraph (5)(A)(iii), such insurance policy or bond shall not cover any legal or liability expense of the regulated entity which is described in paragraph (5)(A).
 
-([Pub. L. 102–550, title XIII, § 1318][/us/pl/102/550/s1318], Oct. 28, 1992, [106 Stat. 3949][/us/stat/106/3949]; [Pub. L. 110–289, div. A, title I][/us/pl/110/289], §§ 1113(a), 1114, July 30, 2008, [122 Stat. 2678][/us/stat/122/2678], 2679.)
+([Pub. L. 102–550, title XIII][/us/pl/102/550/tXIII], § 1318, Oct. 28, 1992, [106 Stat. 3949][/us/stat/106/3949]; [Pub. L. 110–289, div. A, title I][/us/pl/110/289/dA/tI], §§ 1113(a), 1114, July 30, 2008, [122 Stat. 2678][/us/stat/122/2678], 2679.)
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–289, § 1113(a)(1)][/us/pl/110/289/s1113/a/1], substituted “and withholding of executive” for “of excessive” in section catchline.
+    2008—[Pub. L. 110–289][/us/pl/110/289], § 1113(a)(1), substituted “and withholding of executive” for “of excessive” in section catchline.
 
-    Subsec. (a). [Pub. L. 110–289, § 1113(a)(2)][/us/pl/110/289/s1113/a/2], substituted “regulated entity” for “enterprise” and “regulated entities” for “enterprises”.
+    Subsec. (a). [Pub. L. 110–289][/us/pl/110/289], § 1113(a)(2), substituted “regulated entity” for “enterprise” and “regulated entities” for “enterprises”.
 
-    Subsecs. (b) to (d). [Pub. L. 110–289, § 1113(a)(3)][/us/pl/110/289/s1113/a/3], (4), added subsecs. (b) and (c) and redesignated former subsec. (b) as (d).
+    Subsecs. (b) to (d). [Pub. L. 110–289][/us/pl/110/289], § 1113(a)(3), (4), added subsecs. (b) and (c) and redesignated former subsec. (b) as (d).
 
-    Subsec. (e). [Pub. L. 110–289, § 1114][/us/pl/110/289/s1114], added subsec. (e).
+    Subsec. (e). [Pub. L. 110–289][/us/pl/110/289], § 1114, added subsec. (e).
 
  __Equity in Government Compensation__ 
 
@@ -209,14 +209,14 @@
 [/us/usc/t12/s1723a/d/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1723a%2Fd%2F3%2FB
 [/us/usc/t12/s1452/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1452%2Fh%2F2
 [/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401
-[/us/pl/102/550/s1318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1318
+[/us/pl/102/550/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIII
 [/us/stat/106/3949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3949
-[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtI
 [/us/stat/122/2678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2678
-[/us/pl/110/289/s1113/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1113%2Fa%2F1
-[/us/pl/110/289/s1113/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1113%2Fa%2F2
-[/us/pl/110/289/s1113/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1113%2Fa%2F3
-[/us/pl/110/289/s1114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1114
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
 [/us/pl/114/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F93
 [/us/stat/129/1310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1310
 [/us/usc/t12/s4518a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4518a

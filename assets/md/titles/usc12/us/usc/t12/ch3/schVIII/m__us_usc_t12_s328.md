@@ -17,7 +17,7 @@
 
     Any State bank or trust company desiring to withdraw from membership in a Federal Reserve bank may do so, after six months’ written notice shall have been filed with the Board of Governors of the Federal Reserve System, upon the surrender and cancellation of all of its holdings of capital stock in the Federal reserve bank: Provided, That the Board of Governors of the Federal Reserve System, in its discretion and subject to such conditions as it may prescribe, may waive such six months’ notice in individual cases and may permit any such State bank or trust company to withdraw from membership in a Federal reserve bank prior to the expiration of six months from the date of the written notice of its intention to withdraw: Provided, however, That no Federal reserve bank shall, except under express authority of the Board of Governors of the Federal Reserve System, cancel within the same calendar year more than 25 per centum of its capital stock for the purpose of effecting voluntary withdrawals during that year. All such applications shall be dealt with in the order in which they are filed with the board. Whenever a member bank shall surrender its stock holdings in a Federal reserve bank, or shall be ordered to do so by the Board of Governors of the Federal Reserve System, under authority of law, all of its rights and privileges as a member bank shall thereupon cease and determine, and after due provision has been made for any indebtedness due or to become due to the Federal reserve bank it shall be entitled to a refund of its cash-paid subscription with interest at the rate of one-half of 1 per centum per month from date of last dividend, if earned, the amount refunded in no event to exceed the book value of the stock at that time, and shall likewise be entitled to repayment of deposits and of any other balance due from the Federal reserve bank.
 
-([Dec. 23, 1913, ch. 6, § 9][/us/act/1913-12-23/ch6/s9] (par.), as added [June 21, 1917, ch. 32, § 3][/us/act/1917-06-21/ch32/s3], [40 Stat. 233][/us/stat/40/233]; amended [Apr. 17, 1930, ch. 175][/us/act/1930-04-17/ch175], [46 Stat. 170][/us/stat/46/170]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 203(a), [49 Stat. 704][/us/stat/49/704].)
+([Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 9 (par.), as added [June 21, 1917, ch. 32][/us/act/1917-06-21/ch32], § 3, [40 Stat. 233][/us/stat/40/233]; amended [Apr. 17, 1930, ch. 175][/us/act/1930-04-17/ch175], [46 Stat. 170][/us/stat/46/170]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 203(a), [49 Stat. 704][/us/stat/49/704].)
 
  __Codification__ 
 
@@ -38,8 +38,8 @@
 ----------
 ----------
 
-[/us/act/1913-12-23/ch6/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs9
-[/us/act/1917-06-21/ch32/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-21%2Fch32%2Fs3
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
+[/us/act/1917-06-21/ch32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-21%2Fch32
 [/us/stat/40/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F233
 [/us/act/1930-04-17/ch175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-04-17%2Fch175
 [/us/stat/46/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F170

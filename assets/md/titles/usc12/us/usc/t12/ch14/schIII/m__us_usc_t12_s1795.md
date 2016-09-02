@@ -17,7 +17,7 @@
 
     The Congress finds that the establishment of a National Credit Union Central Liquidity Facility is needed to improve general financial stability by meeting the liquidity needs of credit unions and thereby encourage savings, support consumer and mortgage lending, and provide basic financial resources to all segments of the economy.
 
-([June 26, 1934, ch. 750][/us/act/1934-06-26/ch750], title III, formerly subch. III, § 301, as added [Pub. L. 95–630, title XVIII, § 1802][/us/pl/95/630/s1802], Nov. 10, 1978, [92 Stat. 3719][/us/stat/92/3719]; amended [Pub. L. 96–221, title III, § 309(b)(1)][/us/pl/96/221/s309/b/1], Mar. 31, 1980, [94 Stat. 149][/us/stat/94/149].)
+([June 26, 1934, ch. 750][/us/act/1934-06-26/ch750], title III, formerly subch. III, § 301, as added [Pub. L. 95–630, title XVIII][/us/pl/95/630/tXVIII], § 1802, Nov. 10, 1978, [92 Stat. 3719][/us/stat/92/3719]; amended [Pub. L. 96–221, title III][/us/pl/96/221/tIII], § 309(b)(1), Mar. 31, 1980, [94 Stat. 149][/us/stat/94/149].)
 
  __Codification__ 
 
@@ -25,7 +25,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 95–630, title XVIII, § 1806][/us/pl/95/630/s1806], Nov. 10, 1978, [92 Stat. 3724][/us/stat/92/3724], provided that: 
+[Pub. L. 95–630, title XVIII][/us/pl/95/630/tXVIII], § 1806, Nov. 10, 1978, [92 Stat. 3724][/us/stat/92/3724], provided that: 
 
 > “This title \[enacting this subchapter and amending [section 1757 of this title][/us/usc/t12/s1757], [section 709 of Title 18][/us/usc/t18/s709], Crimes and Criminal Procedure, and section 856 of former Title 31, Money and Finance\] shall take effect on October 1, 1979.”
 
@@ -41,13 +41,13 @@
 ----------
 
 [/us/act/1934-06-26/ch750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-26%2Fch750
-[/us/pl/95/630/s1802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs1802
+[/us/pl/95/630/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtXVIII
 [/us/stat/92/3719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3719
-[/us/pl/96/221/s309/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs309%2Fb%2F1
+[/us/pl/96/221/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2FtIII
 [/us/stat/94/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F149
 [/us/pl/96/221/s309/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs309%2Fb%2F1
 [/us/act/1934-06-26/ch750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-26%2Fch750
-[/us/pl/95/630/s1806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs1806
+[/us/pl/95/630/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtXVIII
 [/us/stat/92/3724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3724
 [/us/usc/t12/s1757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1757
 [/us/usc/t18/s709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs709

@@ -17,7 +17,7 @@
 
     The Bank shall hold an annual meeting of its stockholders which shall be open to the public. At least 30 days’ advance notice of the time and place of the annual meeting shall be given to all stockholders. Borrowers from the Bank shall also give notice of the meeting to their members, who shall be entitled to attend. At such meeting the Bank shall give a full report of its activities during the year and its financial condition and may present proposals for future action and other matters of general concern to borrowers and organizations eligible to borrow from the Bank. Members and representatives of borrowers may present motions or resolutions relating to matters within the scope of this chapter and may participate in the discussion thereof and other matters on the agenda.
 
-([Pub. L. 95–351, title I, § 106][/us/pl/95/351/s106], Aug. 20, 1978, [92 Stat. 507][/us/stat/92/507].)
+([Pub. L. 95–351, title I][/us/pl/95/351/tI], § 106, Aug. 20, 1978, [92 Stat. 507][/us/stat/92/507].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/351/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F351%2Fs106
+[/us/pl/95/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F351%2FtI
 [/us/stat/92/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F507
 
 

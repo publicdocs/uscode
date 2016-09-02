@@ -27,17 +27,17 @@
 
         Obligations issued under this section shall not be guaranteed by the United States and shall not constitute a debt or obligation of the United States or any agency or instrumentality thereof other than the Bank.
 
-([Pub. L. 95–351, title I, § 107][/us/pl/95/351/s107], Aug. 20, 1978, [92 Stat. 507][/us/stat/92/507]; [Pub. L. 97–35, title III][/us/pl/97/35], §§ 394(g)(1), 396(d), Aug. 13, 1981, [95 Stat. 437][/us/stat/95/437], 440.)
+([Pub. L. 95–351, title I][/us/pl/95/351/tI], § 107, Aug. 20, 1978, [92 Stat. 507][/us/stat/92/507]; [Pub. L. 97–35, title III][/us/pl/97/35/tIII], §§ 394(g)(1), 396(d), Aug. 13, 1981, [95 Stat. 437][/us/stat/95/437], 440.)
 
  __Amendments__ 
 
-    1981—Subsec. (a). [Pub. L. 97–35, § 394(g)(1)][/us/pl/97/35/s394/g/1], struck out requirement respecting consultation with the Secretary of the Treasury.
+    1981—Subsec. (a). [Pub. L. 97–35][/us/pl/97/35], § 394(g)(1), struck out requirement respecting consultation with the Secretary of the Treasury.
 
-    Subsecs. (b) to (d). [Pub. L. 97–35, § 396(d)][/us/pl/97/35/s396/d], redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out former subsec. (b) relating to discretionary authority for issuance to and purchase by Secretary of Treasury.
+    Subsecs. (b) to (d). [Pub. L. 97–35][/us/pl/97/35], § 396(d), redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out former subsec. (b) relating to discretionary authority for issuance to and purchase by Secretary of Treasury.
 
  __Effective Date of 1981 Amendment__ 
 
-[Pub. L. 97–35, title III, § 394(g)(2)][/us/pl/97/35/s394/g/2], Aug. 13, 1981, [95 Stat. 437][/us/stat/95/437], provided that: 
+[Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 394(g)(2), Aug. 13, 1981, [95 Stat. 437][/us/stat/95/437], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall take effect on the day after the Final Government Equity Redemption Date \[Dec. 31, 1981\].”
 
@@ -52,13 +52,13 @@
 ----------
 ----------
 
-[/us/pl/95/351/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F351%2Fs107
+[/us/pl/95/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F351%2FtI
 [/us/stat/92/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F507
-[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F437
-[/us/pl/97/35/s394/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs394%2Fg%2F1
-[/us/pl/97/35/s396/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs396%2Fd
-[/us/pl/97/35/s394/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs394%2Fg%2F2
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F437
 [/us/pl/97/35/s396/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs396%2Fa
 [/us/usc/t12/s3012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3012

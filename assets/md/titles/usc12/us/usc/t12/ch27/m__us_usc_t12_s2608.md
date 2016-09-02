@@ -19,7 +19,7 @@
 
     (b) Any seller who violates the provisions of subsection (a) shall be liable to the buyer in an amount equal to three times all charges made for such title insurance.
 
-([Pub. L. 93–533, § 9][/us/pl/93/533/s9], Dec. 22, 1974, [88 Stat. 1728][/us/stat/88/1728].)
+([Pub. L. 93–533][/us/pl/93/533], § 9, Dec. 22, 1974, [88 Stat. 1728][/us/stat/88/1728].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/93/533/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F533%2Fs9
+[/us/pl/93/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F533
 [/us/stat/88/1728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1728
 
 

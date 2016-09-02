@@ -71,19 +71,19 @@
 
             If the Farm Credit Administration Board approves the extension of credit and technical assistance under paragraph (1), the association shall approve or deny the application for credit within 90 days after receipt of the application from the borrower.
 
-([Pub. L. 92–181, title II, § 2][/us/pl/92/181/s2].4, as added [Pub. L. 100–233, title IV, § 401][/us/pl/100/233/s401], Jan. 6, 1988, [101 Stat. 1632][/us/stat/101/1632]; amended [Pub. L. 100–399, title IV, § 401(p)][/us/pl/100/399/s401/p], (q), Aug. 17, 1988, [102 Stat. 997][/us/stat/102/997]; [Pub. L. 101–624, title XVIII, § 1832(b)][/us/pl/101/624/s1832/b], Nov. 28, 1990, [104 Stat. 3832][/us/stat/104/3832].)
+([Pub. L. 92–181, title II][/us/pl/92/181/tII], § 2.4, as added [Pub. L. 100–233, title IV][/us/pl/100/233/tIV], § 401, Jan. 6, 1988, [101 Stat. 1632][/us/stat/101/1632]; amended [Pub. L. 100–399, title IV][/us/pl/100/399/tIV], § 401(p), (q), Aug. 17, 1988, [102 Stat. 997][/us/stat/102/997]; [Pub. L. 101–624, title XVIII][/us/pl/101/624/tXVIII], § 1832(b), Nov. 28, 1990, [104 Stat. 3832][/us/stat/104/3832].)
 
  __Prior Provisions__ 
 
-    A prior section 2075, [Pub. L. 92–181, title II, § 2][/us/pl/92/181/s2].4, Dec. 10, 1971, [85 Stat. 594][/us/stat/85/594]; [Pub. L. 95–443][/us/pl/95/443], Oct. 10, 1978, [92 Stat. 1066][/us/stat/92/1066]; [Pub. L. 96–592, title II, § 204][/us/pl/96/592/s204], Dec. 24, 1980, [94 Stat. 3441][/us/stat/94/3441]; [Pub. L. 99–509, title I, § 1033(b)][/us/pl/99/509/s1033/b], Oct. 21, 1986, [100 Stat. 1877][/us/stat/100/1877], related to terms, prior to the general amendment of this subchapter by [Pub. L. 100–233, § 401][/us/pl/100/233/s401].
+    A prior section 2075, [Pub. L. 92–181, title II][/us/pl/92/181/tII], § 2.4, Dec. 10, 1971, [85 Stat. 594][/us/stat/85/594]; [Pub. L. 95–443][/us/pl/95/443], Oct. 10, 1978, [92 Stat. 1066][/us/stat/92/1066]; [Pub. L. 96–592, title II][/us/pl/96/592/tII], § 204, Dec. 24, 1980, [94 Stat. 3441][/us/stat/94/3441]; [Pub. L. 99–509, title I][/us/pl/99/509/tI], § 1033(b), Oct. 21, 1986, [100 Stat. 1877][/us/stat/100/1877], related to terms, prior to the general amendment of this subchapter by [Pub. L. 100–233][/us/pl/100/233], § 401.
 
  __Amendments__ 
 
     1990—Subsec. (a)(1). [Pub. L. 101–624][/us/pl/101/624] substituted “some portion of the total processing or marketing for which financing is extended, except that the aggregate of the financing provided by any association for basic processing and marketing directly related to the operations of farmers, ranchers, and producers or harvesters of aquatic products, if the operations of the applicant supply less than 20 percent of the total processing or marketing for which financing is extended, shall not exceed 15 percent of the total of all outstanding loans of all associations in the district at the end of its preceding fiscal year” for “at least 20 percent, or such larger percent as is required by the supervising bank under regulations of the Farm Credit Administration, of the total processing or marketing for which financing is extended”.
 
-    1988—Subsec. (b)(1). [Pub. L. 100–399, § 401(p)][/us/pl/100/399/s401/p], substituted “this part” for “this subchapter” and substituted “or planned” for “planned”.
+    1988—Subsec. (b)(1). [Pub. L. 100–399][/us/pl/100/399], § 401(p), substituted “this part” for “this subchapter” and substituted “or planned” for “planned”.
 
-    Subsec. (d). [Pub. L. 100–399, § 401(q)][/us/pl/100/399/s401/q], added subsec. (d).
+    Subsec. (d). [Pub. L. 100–399][/us/pl/100/399], § 401(q), added subsec. (d).
 
  __Effective Date of 1988 Amendment__ 
 
@@ -97,25 +97,25 @@
 ----------
 
 [/us/usc/t12/s2205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2205
-[/us/pl/92/181/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs2
-[/us/pl/100/233/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs401
+[/us/pl/92/181/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtII
+[/us/pl/100/233/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtIV
 [/us/stat/101/1632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1632
-[/us/pl/100/399/s401/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs401%2Fp
+[/us/pl/100/399/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtIV
 [/us/stat/102/997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F997
-[/us/pl/101/624/s1832/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1832%2Fb
+[/us/pl/101/624/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXVIII
 [/us/stat/104/3832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3832
-[/us/pl/92/181/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs2
+[/us/pl/92/181/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtII
 [/us/stat/85/594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F594
 [/us/pl/95/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F443
 [/us/stat/92/1066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1066
-[/us/pl/96/592/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592%2Fs204
+[/us/pl/96/592/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592%2FtII
 [/us/stat/94/3441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3441
-[/us/pl/99/509/s1033/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs1033%2Fb
+[/us/pl/99/509/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtI
 [/us/stat/100/1877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1877
-[/us/pl/100/233/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs401
+[/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
-[/us/pl/100/399/s401/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs401%2Fp
-[/us/pl/100/399/s401/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs401%2Fq
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/100/233/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs401
 [/us/pl/100/399/s1001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs1001%2Fb

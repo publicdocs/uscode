@@ -51,17 +51,17 @@
 
         Stock of the receiving association may be issued as provided by the terms of the merger agreement, free from any preemptive rights of the shareholders of the respective merging banks.
 
-([Nov. 7, 1918, ch. 209, § 3][/us/act/1918-11-07/ch209/s3], formerly § 2, as added [Pub. L. 86–230, § 20][/us/pl/86/230/s20], Sept. 8, 1959, [73 Stat. 463][/us/stat/73/463]; renumbered § 3, [Pub. L. 103–328, title I, § 102(b)(4)(A)][/us/pl/103/328/s102/b/4/A], Sept. 29, 1994, [108 Stat. 2351][/us/stat/108/2351]; amended [Pub. L. 112–231, § 2(b)(2)(B)][/us/pl/112/231/s2/b/2/B], Dec. 28, 2012, [126 Stat. 1619][/us/stat/126/1619].)
+([Nov. 7, 1918, ch. 209][/us/act/1918-11-07/ch209], § 3, formerly § 2, as added [Pub. L. 86–230][/us/pl/86/230], § 20, Sept. 8, 1959, [73 Stat. 463][/us/stat/73/463]; renumbered § 3, [Pub. L. 103–328, title I][/us/pl/103/328/tI], § 102(b)(4)(A), Sept. 29, 1994, [108 Stat. 2351][/us/stat/108/2351]; amended [Pub. L. 112–231][/us/pl/112/231], § 2(b)(2)(B), Dec. 28, 2012, [126 Stat. 1619][/us/stat/126/1619].)
 
  __Codification__ 
 
-    Provisions similar to those comprising this section were contained in section 4 of [act Nov. 7, 1918, ch. 209][/us/act/1918-11-07/ch209], as added [July 14, 1952, ch. 722, § 1][/us/act/1952-07-14/ch722/s1], [66 Stat. 599][/us/stat/66/599] (formerly classified to [section 34b of this title][/us/usc/t12/s34b]), prior to the complete amendment and renumbering of act Nov. 7, 1918, by [Pub. L. 86–230][/us/pl/86/230].
+    Provisions similar to those comprising this section were contained in section 4 of [act Nov. 7, 1918, ch. 209][/us/act/1918-11-07/ch209], as added [July 14, 1952, ch. 722][/us/act/1952-07-14/ch722], § 1, [66 Stat. 599][/us/stat/66/599] (formerly classified to [section 34b of this title][/us/usc/t12/s34b]), prior to the complete amendment and renumbering of act Nov. 7, 1918, by [Pub. L. 86–230][/us/pl/86/230].
 
  __Amendments__ 
 
-    2012—Subsec. (e). [Pub. L. 112–231, § 2(b)(2)(B)(i)][/us/pl/112/231/s2/b/2/B/i], substituted “and receiver” for “receiver, and committee of estates of lunatics”.
+    2012—Subsec. (e). [Pub. L. 112–231][/us/pl/112/231], § 2(b)(2)(B)(i), substituted “and receiver” for “receiver, and committee of estates of lunatics”.
 
-    Subsec. (f). [Pub. L. 112–231, § 2(b)(2)(B)(ii)][/us/pl/112/231/s2/b/2/B/ii], substituted “or receiver” for “receiver, or committee of estates of lunatics”.
+    Subsec. (f). [Pub. L. 112–231][/us/pl/112/231], § 2(b)(2)(B)(ii), substituted “or receiver” for “receiver, or committee of estates of lunatics”.
 
 ----------
 
@@ -70,19 +70,19 @@
 ----------
 ----------
 
-[/us/act/1918-11-07/ch209/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-11-07%2Fch209%2Fs3
-[/us/pl/86/230/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F230%2Fs20
+[/us/act/1918-11-07/ch209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-11-07%2Fch209
+[/us/pl/86/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F230
 [/us/stat/73/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F463
-[/us/pl/103/328/s102/b/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328%2Fs102%2Fb%2F4%2FA
+[/us/pl/103/328/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328%2FtI
 [/us/stat/108/2351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2351
-[/us/pl/112/231/s2/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F231%2Fs2%2Fb%2F2%2FB
+[/us/pl/112/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F231
 [/us/stat/126/1619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1619
 [/us/act/1918-11-07/ch209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-11-07%2Fch209
-[/us/act/1952-07-14/ch722/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-14%2Fch722%2Fs1
+[/us/act/1952-07-14/ch722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-14%2Fch722
 [/us/stat/66/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F599
 [/us/usc/t12/s34b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs34b
 [/us/pl/86/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F230
-[/us/pl/112/231/s2/b/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F231%2Fs2%2Fb%2F2%2FB%2Fi
-[/us/pl/112/231/s2/b/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F231%2Fs2%2Fb%2F2%2FB%2Fii
+[/us/pl/112/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F231
+[/us/pl/112/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F231
 
 

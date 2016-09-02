@@ -47,7 +47,7 @@
 
         The Office of the Comptroller of the Currency, the Corporation, and the Board of Governors shall jointly give the Office of Thrift Supervision reasonable prior notice of any request that the Office of the Comptroller of the Currency, the Corporation, and the Board of Governors jointly intend to make under subsection (b).
 
-([Pub. L. 111–203, title III, § 321][/us/pl/111/203/s321], July 21, 2010, [124 Stat. 1528][/us/stat/124/1528].)
+([Pub. L. 111–203, title III][/us/pl/111/203/tIII], § 321, July 21, 2010, [124 Stat. 1528][/us/stat/124/1528].)
 
  __References in Text__ 
 
@@ -60,7 +60,7 @@
 ----------
 ----------
 
-[/us/pl/111/203/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs321
+[/us/pl/111/203/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIII
 [/us/stat/124/1528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1528
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1520

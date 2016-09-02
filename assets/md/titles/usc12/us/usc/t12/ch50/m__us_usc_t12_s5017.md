@@ -29,7 +29,7 @@
 
         Before the end of the 5-year period referred to in subsection (a), the Comptroller General shall submit a report to the Congress containing the findings and conclusions of the Comptroller General in connection with the evaluation conducted pursuant to subsection (a), together with such recommendations for legislative and administrative action as the Comptroller General may determine to be appropriate.
 
-([Pub. L. 108–100, § 18][/us/pl/108/100/s18], Oct. 28, 2003, [117 Stat. 1191][/us/stat/117/1191].)
+([Pub. L. 108–100][/us/pl/108/100], § 18, Oct. 28, 2003, [117 Stat. 1191][/us/stat/117/1191].)
 
  __References in Text__ 
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/108/100/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F100%2Fs18
+[/us/pl/108/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F100
 [/us/stat/117/1191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1191
 [/us/pl/108/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F100
 [/us/stat/117/1177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1177

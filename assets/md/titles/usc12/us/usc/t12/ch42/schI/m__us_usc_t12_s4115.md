@@ -37,7 +37,7 @@
 
         If the Secretary does not approve a plan of action within the period under subsection (b), the Secretary shall provide incentives and assistance under this subchapter in the amount that the owner would have received if the Secretary had complied with such time limitations. The preceding sentence shall not apply if the plan of action was not approved because of deficiencies. An owner may bring an action in the appropriate Federal district court to enforce this subsection.
 
-([Pub. L. 100–242, title II, § 225][/us/pl/100/242/s225], as added [Pub. L. 101–625, title VI, § 601(a)][/us/pl/101/625/s601/a], Nov. 28, 1990, [104 Stat. 4266][/us/stat/104/4266].)
+([Pub. L. 100–242, title II][/us/pl/100/242/tII], § 225, as added [Pub. L. 101–625, title VI][/us/pl/101/625/tVI], § 601(a), Nov. 28, 1990, [104 Stat. 4266][/us/stat/104/4266].)
 
 ----------
 
@@ -46,8 +46,8 @@
 ----------
 ----------
 
-[/us/pl/100/242/s225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs225
-[/us/pl/101/625/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs601%2Fa
+[/us/pl/100/242/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtII
+[/us/pl/101/625/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtVI
 [/us/stat/104/4266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4266
 
 

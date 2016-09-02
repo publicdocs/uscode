@@ -49,7 +49,7 @@
 
         Possession of a lease of Hawaiian home lands issued under section 207(a) of the Hawaiian Homes Commission Act of 1920 ([42 Stat. 110][/us/stat/42/110]), shall be sufficient to certify eligibility to receive a mortgage under this section.
 
-([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title II, § 247, as added [Pub. L. 98–181, title I][/us/pl/98/181] \[title IV, § 421\], Nov. 30, 1983, [97 Stat. 1213][/us/stat/97/1213]; amended [Pub. L. 100–202, § 101(f)][/us/pl/100/202/s101/f] \[title I, § 101\], Dec. 22, 1987, [101 Stat. 1329–187][/us/stat/101/1329-187], 1329–191; [Pub. L. 100–242, title IV][/us/pl/100/242], §§ 413(a), (b), 429(h), Feb. 5, 1988, [101 Stat. 1906][/us/stat/101/1906], 1919; [Pub. L. 100–628, title X, § 1065][/us/pl/100/628/s1065], Nov. 7, 1988, [102 Stat. 3275][/us/stat/102/3275]; [Pub. L. 107–73, title II, § 215][/us/pl/107/73/s215], Nov. 26, 2001, [115 Stat. 677][/us/stat/115/677]; [Pub. L. 110–289, div. B, title I, § 2119(a)][/us/pl/110/289/s2119/a], July 30, 2008, [122 Stat. 2835][/us/stat/122/2835].)
+([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title II, § 247, as added [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title IV, § 421\], Nov. 30, 1983, [97 Stat. 1213][/us/stat/97/1213]; amended [Pub. L. 100–202][/us/pl/100/202], § 101(f) \[title I, § 101\], Dec. 22, 1987, [101 Stat. 1329–187][/us/stat/101/1329-187], 1329–191; [Pub. L. 100–242, title IV][/us/pl/100/242/tIV], §§ 413(a), (b), 429(h), Feb. 5, 1988, [101 Stat. 1906][/us/stat/101/1906], 1919; [Pub. L. 100–628, title X][/us/pl/100/628/tX], § 1065, Nov. 7, 1988, [102 Stat. 3275][/us/stat/102/3275]; [Pub. L. 107–73, title II][/us/pl/107/73/tII], § 215, Nov. 26, 2001, [115 Stat. 677][/us/stat/115/677]; [Pub. L. 110–289, div. B, title I][/us/pl/110/289/dB/tI], § 2119(a), July 30, 2008, [122 Stat. 2835][/us/stat/122/2835].)
 
  __References in Text__ 
 
@@ -61,19 +61,19 @@
 
     2008—Subsec. (c). [Pub. L. 110–289][/us/pl/110/289] substituted “Mutual Mortgage Insurance Fund” for “General Insurance Fund established in [section 1735c of this title][/us/usc/t12/s1735c]” and struck out “(1) all references in [section 1710 of this title][/us/usc/t12/s1710] to the Mutual Mortgage Insurance Fund or the Fund shall be construed to refer to the General Insurance Fund; and (2)” after “except that”.
 
-    2001—Subsec. (d)(1), (2). [Pub. L. 107–73, § 215(1)][/us/pl/107/73/s215/1], added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
+    2001—Subsec. (d)(1), (2). [Pub. L. 107–73][/us/pl/107/73], § 215(1), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
 
     “(1) The term ‘native Hawaiian’ means any descendant of not less than one-half part of the blood of the races inhabiting the Hawaiian Islands before January 1, 1778 (or, in the case of an individual who succeeds a spouse or parent in an interest in a lease of Hawaiian home lands, such lower percentage as may be established for such succession under section 209 of the Hawaiian Homes Commission Act, 1920, or under the corresponding provision of the Constitution of the State of Hawaii adopted under section 4 of the Act entitled ‘An Act to provide for the admission of the State of Hawaii into the Union’, approved March 18, 1959 ([73 Stat. 5][/us/stat/73/5])).
 
     “(2) The term ‘Hawaiian home lands’ means all lands given the status of Hawaiian home lands under section 204 of the Hawaiian Homes Commission Act, 1920, or under the corresponding provision of the Constitution of the State of Hawaii adopted under section 4 of the Act entitled ‘An Act to provide for the admission of the State of Hawaii into the Union’, approved March 18, 1959 ([73 Stat. 5][/us/stat/73/5]).”
 
-    Subsec. (e). [Pub. L. 107–73, § 215(2)][/us/pl/107/73/s215/2], added subsec. (e).
+    Subsec. (e). [Pub. L. 107–73][/us/pl/107/73], § 215(2), added subsec. (e).
 
-    1988—Subsec. (a)(2). [Pub. L. 100–242, § 429(h)][/us/pl/100/242/s429/h], substituted “mortgagor” for “Mortgagor”.
+    1988—Subsec. (a)(2). [Pub. L. 100–242][/us/pl/100/242], § 429(h), substituted “mortgagor” for “Mortgagor”.
 
-    Subsecs. (c), (d). [Pub. L. 100–628][/us/pl/100/628] clarified amendment by [Pub. L. 100–242, § 413(a)][/us/pl/100/242/s413/a], (b).
+    Subsecs. (c), (d). [Pub. L. 100–628][/us/pl/100/628] clarified amendment by [Pub. L. 100–242][/us/pl/100/242], § 413(a), (b).
 
-    [Pub. L. 100–242, § 413(a)][/us/pl/100/242/s413/a], (b), made amendment identical to [Pub. L. 100–202][/us/pl/100/202]. See 1987 Amendment note below.
+    [Pub. L. 100–242][/us/pl/100/242], § 413(a), (b), made amendment identical to [Pub. L. 100–202][/us/pl/100/202]. See 1987 Amendment note below.
 
     1987—Subsec. (c). [Pub. L. 100–202][/us/pl/100/202] added subsec. (c). Former subsec. (c) redesignated (d).
 
@@ -96,17 +96,17 @@
 [/us/stat/73/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F5
 [/us/stat/42/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F110
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1213
-[/us/pl/100/202/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Ff
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-187
-[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtIV
 [/us/stat/101/1906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1906
-[/us/pl/100/628/s1065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs1065
+[/us/pl/100/628/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2FtX
 [/us/stat/102/3275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3275
-[/us/pl/107/73/s215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F73%2Fs215
+[/us/pl/107/73/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F73%2FtII
 [/us/stat/115/677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F677
-[/us/pl/110/289/s2119/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs2119%2Fa
+[/us/pl/110/289/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdB%2FtI
 [/us/stat/122/2835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2835
 [/us/act/1921-07-09/ch42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-07-09%2Fch42
 [/us/stat/42/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F108
@@ -117,14 +117,14 @@
 [/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
 [/us/usc/t12/s1735c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1735c
 [/us/usc/t12/s1710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1710
-[/us/pl/107/73/s215/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F73%2Fs215%2F1
+[/us/pl/107/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F73
 [/us/stat/73/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F5
 [/us/stat/73/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F5
-[/us/pl/107/73/s215/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F73%2Fs215%2F2
-[/us/pl/100/242/s429/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs429%2Fh
+[/us/pl/107/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F73
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
 [/us/pl/100/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628
-[/us/pl/100/242/s413/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs413%2Fa
-[/us/pl/100/242/s413/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs413%2Fa
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
 [/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202

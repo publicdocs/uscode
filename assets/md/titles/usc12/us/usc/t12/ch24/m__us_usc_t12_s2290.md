@@ -27,7 +27,7 @@
 
         Nothing herein shall affect the budget status of the Federal agencies selling obligations to the Bank under [section 2285(a) of this title][/us/usc/t12/s2285/a], or the method of budget accounting for their transactions. The receipts and disbursements of the Bank in the discharge of its functions shall not be included in the totals of the budget of the United States Government and shall be exempt from any general limitation imposed by statute on expenditures and net lending (budget outlays) of the United States.
 
-([Pub. L. 93–224, § 11][/us/pl/93/224/s11], Dec. 29, 1973, [87 Stat. 940][/us/stat/87/940].)
+([Pub. L. 93–224][/us/pl/93/224], § 11, Dec. 29, 1973, [87 Stat. 940][/us/stat/87/940].)
 
 ----------
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t12/s2285/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2285%2Fa
-[/us/pl/93/224/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F224%2Fs11
+[/us/pl/93/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F224
 [/us/stat/87/940]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F940
 
 

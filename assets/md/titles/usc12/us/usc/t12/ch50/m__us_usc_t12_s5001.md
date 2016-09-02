@@ -41,7 +41,7 @@
 
         (3) To improve the overall efficiency of the Nation’s payments system.
 
-([Pub. L. 108–100, § 2][/us/pl/108/100/s2], Oct. 28, 2003, [117 Stat. 1177][/us/stat/117/1177].)
+([Pub. L. 108–100][/us/pl/108/100], § 2, Oct. 28, 2003, [117 Stat. 1177][/us/stat/117/1177].)
 
  __References in Text__ 
 
@@ -51,13 +51,13 @@
 
  __Effective Date__ 
 
-[Pub. L. 108–100, § 20][/us/pl/108/100/s20], Oct. 28, 2003, [117 Stat. 1194][/us/stat/117/1194], provided that: 
+[Pub. L. 108–100][/us/pl/108/100], § 20, Oct. 28, 2003, [117 Stat. 1194][/us/stat/117/1194], provided that: 
 
 > “This Act \[enacting this chapter, amending [section 412 of this title][/us/usc/t12/s412], and enacting provisions set out as notes under this section\] shall take effect at the end of the 12-month period beginning on the date of the enactment of this Act \[Oct. 28, 2003\], except as otherwise specifically provided in this Act.”
 
  __Short Title__ 
 
-[Pub. L. 108–100, § 1(a)][/us/pl/108/100/s1/a], Oct. 28, 2003, [117 Stat. 1177][/us/stat/117/1177], provided that: 
+[Pub. L. 108–100][/us/pl/108/100], § 1(a), Oct. 28, 2003, [117 Stat. 1177][/us/stat/117/1177], provided that: 
 
 > “This Act \[enacting this chapter, amending [section 412 of this title][/us/usc/t12/s412], and enacting provisions set out as notes under this section\] may be cited as the ‘Check Clearing for the 21st Century Act’ or the ‘Check 21 Act’.”
 
@@ -69,17 +69,17 @@
 ----------
 
 [/us/usc/t12/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4001
-[/us/pl/108/100/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F100%2Fs2
+[/us/pl/108/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F100
 [/us/stat/117/1177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1177
 [/us/pl/100/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86
 [/us/stat/101/635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F635
 [/us/usc/t12/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4001
 [/us/pl/108/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F100
 [/us/stat/117/1177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1177
-[/us/pl/108/100/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F100%2Fs20
+[/us/pl/108/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F100
 [/us/stat/117/1194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1194
 [/us/usc/t12/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs412
-[/us/pl/108/100/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F100%2Fs1%2Fa
+[/us/pl/108/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F100
 [/us/stat/117/1177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1177
 [/us/usc/t12/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs412
 

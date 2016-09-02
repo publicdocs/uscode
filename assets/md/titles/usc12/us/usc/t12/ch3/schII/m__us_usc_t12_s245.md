@@ -17,7 +17,7 @@
 
     The President shall have power to fill all vacancies that may happen on the Board of Governors of the Federal Reserve System during the recess of the Senate by granting commissions which shall expire with the next session of the Senate.
 
-([Dec. 23, 1913, ch. 6, § 10][/us/act/1913-12-23/ch6/s10] (par.), [38 Stat. 260][/us/stat/38/260]; [June 3, 1922, ch. 205][/us/act/1922-06-03/ch205], [42 Stat. 620][/us/stat/42/620]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 203(a), 49, Stat. 704.)
+([Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 10 (par.), [38 Stat. 260][/us/stat/38/260]; [June 3, 1922, ch. 205][/us/act/1922-06-03/ch205], [42 Stat. 620][/us/stat/42/620]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 203(a), 49, Stat. 704.)
 
  __Codification__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1913-12-23/ch6/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs10
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
 [/us/stat/38/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F260
 [/us/act/1922-06-03/ch205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-06-03%2Fch205
 [/us/stat/42/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F620

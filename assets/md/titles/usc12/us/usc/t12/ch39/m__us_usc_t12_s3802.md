@@ -33,7 +33,7 @@
 
         A person is not a “housing creditor” with respect to a specific alternative mortgage transaction if, except for this chapter, in order to enter into that transaction, the person would be required to comply with licensing requirements imposed under State law, unless such person is licensed under applicable State law and such person remains, or becomes, subject to the applicable regulatory requirements and enforcement mechanisms provided by State law.
 
-([Pub. L. 97–320, title VIII, § 803][/us/pl/97/320/s803], Oct. 15, 1982, [96 Stat. 1545][/us/stat/96/1545]; [Pub. L. 111–203, title X, § 1083(a)(1)][/us/pl/111/203/s1083/a/1], July 21, 2010, [124 Stat. 2080][/us/stat/124/2080].)
+([Pub. L. 97–320, title VIII][/us/pl/97/320/tVIII], § 803, Oct. 15, 1982, [96 Stat. 1545][/us/stat/96/1545]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1083(a)(1), July 21, 2010, [124 Stat. 2080][/us/stat/124/2080].)
 
  __References in Text__ 
 
@@ -55,7 +55,7 @@
 
  __Effective Date of 2010 Amendment__ 
 
-[Pub. L. 111–203, title X, § 1083(b)][/us/pl/111/203/s1083/b], July 21, 2010, [124 Stat. 2081][/us/stat/124/2081], provided that: 
+[Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1083(b), July 21, 2010, [124 Stat. 2081][/us/stat/124/2081], provided that: 
 
 > “This section \[amending this section and [section 3803 of this title][/us/usc/t12/s3803] and enacting provisions set out as a note under this section\] and the amendments made by this section shall become effective on the designated transfer date.”
 
@@ -67,7 +67,7 @@
 
  __Construction of 2010 Amendment__ 
 
-[Pub. L. 111–203, title X, § 1083(c)][/us/pl/111/203/s1083/c], July 21, 2010, [124 Stat. 2081][/us/stat/124/2081], provided that: 
+[Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1083(c), July 21, 2010, [124 Stat. 2081][/us/stat/124/2081], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section and [section 3803 of this title][/us/usc/t12/s3803]\] shall not affect any transaction covered by the Alternative Mortgage Transaction Parity Act of l982 ([12 U.S.C. 3801][/us/usc/t12/s3801] et seq.) and entered into on or before the designated transfer date.”
 
@@ -82,9 +82,9 @@
 
 [/us/usc/t42/s5402/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5402%2F6
 [/us/usc/t12/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701
-[/us/pl/97/320/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs803
+[/us/pl/97/320/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2FtVIII
 [/us/stat/96/1545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1545
-[/us/pl/111/203/s1083/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1083%2Fa%2F1
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2080
 [/us/pl/96/221/s501/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs501%2Fa%2F2
 [/us/stat/94/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F161
@@ -95,13 +95,13 @@
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/usc/t42/s5402/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5402%2F6
 [/us/usc/t42/s5402/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5402%2F6
-[/us/pl/111/203/s1083/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1083%2Fb
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2081
 [/us/usc/t12/s3803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3803
 [/us/usc/t12/s5481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5481
 [/us/pl/97/320/s807/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs807%2Fa
 [/us/usc/t12/s3801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3801
-[/us/pl/111/203/s1083/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1083%2Fc
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2081
 [/us/usc/t12/s3803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3803
 [/us/usc/t12/s3801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3801

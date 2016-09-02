@@ -83,7 +83,7 @@
 
         There is authorized to be appropriated, for purposes of this section, not to exceed $200,000,000. Any amount appropriated pursuant to this subsection shall remain available until expended.
 
-([Pub. L. 91–609, title V, § 509][/us/pl/91/609/s509], as added [Pub. L. 94–385, title IV, § 441][/us/pl/94/385/s441], Aug. 14, 1976, [90 Stat. 1162][/us/stat/90/1162]; amended [Pub. L. 95–91, title VII, § 709(d)][/us/pl/95/91/s709/d], Aug. 4, 1977, [91 Stat. 608][/us/stat/91/608].)
+([Pub. L. 91–609, title V][/us/pl/91/609/tV], § 509, as added [Pub. L. 94–385, title IV][/us/pl/94/385/tIV], § 441, Aug. 14, 1976, [90 Stat. 1162][/us/stat/90/1162]; amended [Pub. L. 95–91, title VII][/us/pl/95/91/tVII], § 709(d), Aug. 4, 1977, [91 Stat. 608][/us/stat/91/608].)
 
  __References in Text__ 
 
@@ -114,10 +114,10 @@
 [/us/usc/t42/s6321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6321
 [/us/usc/t42/s6325/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6325%2Fe%2F1
 [/us/usc/t42/s6326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6326
-[/us/pl/91/609/s509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F609%2Fs509
-[/us/pl/94/385/s441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2Fs441
+[/us/pl/91/609/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F609%2FtV
+[/us/pl/94/385/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2FtIV
 [/us/stat/90/1162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1162
-[/us/pl/95/91/s709/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs709%2Fd
+[/us/pl/95/91/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtVII
 [/us/stat/91/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F608
 [/us/pl/94/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163
 [/us/stat/89/871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F871

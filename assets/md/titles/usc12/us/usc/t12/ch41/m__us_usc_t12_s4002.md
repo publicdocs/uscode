@@ -185,27 +185,27 @@
 
         (2) any notice of nonpayment of any such check be given to such depository institution within the times set forth in subsection (a), (b), (c), or (e) or in the regulations issued under any such subsection.
 
-([Pub. L. 100–86, title VI, § 603][/us/pl/100/86/s603], Aug. 10, 1987, [101 Stat. 637][/us/stat/101/637]; [Pub. L. 101–625, title X, § 1001][/us/pl/101/625/s1001], Nov. 28, 1990, [104 Stat. 4424][/us/stat/104/4424]; [Pub. L. 102–242, title II, § 227(a)][/us/pl/102/242/s227/a], (b)(1), Dec. 19, 1991, [105 Stat. 2307][/us/stat/105/2307]; [Pub. L. 111–203, title X, § 1086(a)][/us/pl/111/203/s1086/a], (e), July 21, 2010, [124 Stat. 2085][/us/stat/124/2085], 2086.)
+([Pub. L. 100–86, title VI][/us/pl/100/86/tVI], § 603, Aug. 10, 1987, [101 Stat. 637][/us/stat/101/637]; [Pub. L. 101–625, title X][/us/pl/101/625/tX], § 1001, Nov. 28, 1990, [104 Stat. 4424][/us/stat/104/4424]; [Pub. L. 102–242, title II][/us/pl/102/242/tII], § 227(a), (b)(1), Dec. 19, 1991, [105 Stat. 2307][/us/stat/105/2307]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1086(a), (e), July 21, 2010, [124 Stat. 2085][/us/stat/124/2085], 2086.)
 
  __Amendments__ 
 
-    2010—Subsec. (a)(2)(D). [Pub. L. 111–203, § 1086(e)(1)][/us/pl/111/203/s1086/e/1], substituted “$200” for “$100”.
+    2010—Subsec. (a)(2)(D). [Pub. L. 111–203][/us/pl/111/203], § 1086(e)(1), substituted “$200” for “$100”.
 
-    Subsecs. (b)(3)(C), (c)(1)(B)(iii). [Pub. L. 111–203, § 1086(e)(2)][/us/pl/111/203/s1086/e/2], (3), substituted “$200” for “$100” in heading.
+    Subsecs. (b)(3)(C), (c)(1)(B)(iii). [Pub. L. 111–203][/us/pl/111/203], § 1086(e)(2), (3), substituted “$200” for “$100” in heading.
 
-    Subsec. (d)(1). [Pub. L. 111–203, § 1086(a)][/us/pl/111/203/s1086/a], inserted “, jointly with the Director of the Bureau of Consumer Financial Protection,” after “Board”.
+    Subsec. (d)(1). [Pub. L. 111–203][/us/pl/111/203], § 1086(a), inserted “, jointly with the Director of the Bureau of Consumer Financial Protection,” after “Board”.
 
-    1991—Subsec. (e)(1). [Pub. L. 102–242, § 227(b)(1)(A)][/us/pl/102/242/s227/b/1/A], struck out “—temporary schedule” after “ATM” in heading.
+    1991—Subsec. (e)(1). [Pub. L. 102–242][/us/pl/102/242], § 227(b)(1)(A), struck out “—temporary schedule” after “ATM” in heading.
 
-    Subsec. (e)(1)(C). [Pub. L. 102–242, § 227(a)][/us/pl/102/242/s227/a], struck out subpar. (C) which read as follows: “This paragraph shall apply with respect to funds deposited at a nonproprietary automated teller machine after August 31, 1988, and prior to the expiration of the 2-year period beginning on November 28, 1990.”
+    Subsec. (e)(1)(C). [Pub. L. 102–242][/us/pl/102/242], § 227(a), struck out subpar. (C) which read as follows: “This paragraph shall apply with respect to funds deposited at a nonproprietary automated teller machine after August 31, 1988, and prior to the expiration of the 2-year period beginning on November 28, 1990.”
 
-    Subsec. (e)(2) to (4). [Pub. L. 102–242, § 227(a)][/us/pl/102/242/s227/a], (b)(1)(B), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which related to permanent schedule for funds deposited at nonproprietary automated teller machines.
+    Subsec. (e)(2) to (4). [Pub. L. 102–242][/us/pl/102/242], § 227(a), (b)(1)(B), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which related to permanent schedule for funds deposited at nonproprietary automated teller machines.
 
-    1990—Subsec. (e)(1)(A). [Pub. L. 101–625, § 1001(1)][/us/pl/101/625/s1001/1], substituted “4” for “6”.
+    1990—Subsec. (e)(1)(A). [Pub. L. 101–625][/us/pl/101/625], § 1001(1), substituted “4” for “6”.
 
-    Subsec. (e)(1)(C). [Pub. L. 101–625, § 1001(2)][/us/pl/101/625/s1001/2], substituted “prior to the expiration of the 2-year period beginning on November 28, 1990” for “before September 1, 1990”.
+    Subsec. (e)(1)(C). [Pub. L. 101–625][/us/pl/101/625], § 1001(2), substituted “prior to the expiration of the 2-year period beginning on November 28, 1990” for “before September 1, 1990”.
 
-    Subsec. (e)(2)(D). [Pub. L. 101–625, § 1001(3)][/us/pl/101/625/s1001/3], substituted “the expiration of the 2-year period beginning on November 28, 1990” for “September 1, 1990”.
+    Subsec. (e)(2)(D). [Pub. L. 101–625][/us/pl/101/625], § 1001(3), substituted “the expiration of the 2-year period beginning on November 28, 1990” for “September 1, 1990”.
 
  __Effective Date of 2010 Amendment__ 
 
@@ -227,23 +227,23 @@
 [/us/usc/t12/s4003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4003
 [/us/usc/t12/s4003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4003
 [/us/usc/t12/s4003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4003
-[/us/pl/100/86/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2Fs603
+[/us/pl/100/86/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2FtVI
 [/us/stat/101/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F637
-[/us/pl/101/625/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs1001
+[/us/pl/101/625/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtX
 [/us/stat/104/4424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4424
-[/us/pl/102/242/s227/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs227%2Fa
+[/us/pl/102/242/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtII
 [/us/stat/105/2307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2307
-[/us/pl/111/203/s1086/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1086%2Fa
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2085
-[/us/pl/111/203/s1086/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1086%2Fe%2F1
-[/us/pl/111/203/s1086/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1086%2Fe%2F2
-[/us/pl/111/203/s1086/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1086%2Fa
-[/us/pl/102/242/s227/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs227%2Fb%2F1%2FA
-[/us/pl/102/242/s227/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs227%2Fa
-[/us/pl/102/242/s227/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs227%2Fa
-[/us/pl/101/625/s1001/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs1001%2F1
-[/us/pl/101/625/s1001/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs1001%2F2
-[/us/pl/101/625/s1001/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs1001%2F3
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
+[/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
+[/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s1100H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100H
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a

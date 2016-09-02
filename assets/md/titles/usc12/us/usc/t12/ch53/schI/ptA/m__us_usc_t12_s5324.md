@@ -17,7 +17,7 @@
 
     Not later than 180 days after the date of a final Council determination under [section 5323 of this title][/us/usc/t12/s5323] that a nonbank financial company is to be supervised by the Board of Governors, such company shall register with the Board of Governors, on forms prescribed by the Board of Governors, which shall include such information as the Board of Governors, in consultation with the Council, may deem necessary or appropriate to carry out this subchapter.
 
-([Pub. L. 111–203, title I, § 114][/us/pl/111/203/s114], July 21, 2010, [124 Stat. 1403][/us/stat/124/1403].)
+([Pub. L. 111–203, title I][/us/pl/111/203/tI], § 114, July 21, 2010, [124 Stat. 1403][/us/stat/124/1403].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t12/s5323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5323
-[/us/pl/111/203/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs114
+[/us/pl/111/203/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtI
 [/us/stat/124/1403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1403
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1391

@@ -31,13 +31,13 @@
 
         The provisions of subsections (b) and (c) of [section 2279c–1 of this title][/us/usc/t12/s2279c–1] shall apply to associations merged under this section.
 
-([Pub. L. 92–181, title VII, § 7][/us/pl/92/181/s7].13, as added [Pub. L. 100–233, title IV, § 416][/us/pl/100/233/s416], Jan. 6, 1988, [101 Stat. 1653][/us/stat/101/1653]; amended [Pub. L. 100–399, title IV, § 408(s)][/us/pl/100/399/s408/s], (t), Aug. 17, 1988, [102 Stat. 1003][/us/stat/102/1003].)
+([Pub. L. 92–181, title VII][/us/pl/92/181/tVII], § 7.13, as added [Pub. L. 100–233, title IV][/us/pl/100/233/tIV], § 416, Jan. 6, 1988, [101 Stat. 1653][/us/stat/101/1653]; amended [Pub. L. 100–399, title IV][/us/pl/100/399/tIV], § 408(s), (t), Aug. 17, 1988, [102 Stat. 1003][/us/stat/102/1003].)
 
  __Amendments__ 
 
-    1988—Subsec. (a)(4). [Pub. L. 100–399, § 408(s)][/us/pl/100/399/s408/s], substituted “the Farm Credit Banks involved” for “the Farm Credit Bank”.
+    1988—Subsec. (a)(4). [Pub. L. 100–399][/us/pl/100/399], § 408(s), substituted “the Farm Credit Banks involved” for “the Farm Credit Bank”.
 
-    Subsec. (b). [Pub. L. 100–399, § 408(t)][/us/pl/100/399/s408/t], substituted “subsections (b) and (c)” for “subsections (b), (c), and (d)”.
+    Subsec. (b). [Pub. L. 100–399][/us/pl/100/399], § 408(t), substituted “subsections (b) and (c)” for “subsections (b), (c), and (d)”.
 
  __Effective Date of 1988 Amendment__ 
 
@@ -51,13 +51,13 @@
 ----------
 
 [/us/usc/t12/s2279c–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2279c%E2%80%931
-[/us/pl/92/181/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs7
-[/us/pl/100/233/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs416
+[/us/pl/92/181/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtVII
+[/us/pl/100/233/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtIV
 [/us/stat/101/1653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1653
-[/us/pl/100/399/s408/s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs408%2Fs
+[/us/pl/100/399/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtIV
 [/us/stat/102/1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1003
-[/us/pl/100/399/s408/s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs408%2Fs
-[/us/pl/100/399/s408/t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs408%2Ft
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
 [/us/pl/100/399/s1001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs1001%2Fa

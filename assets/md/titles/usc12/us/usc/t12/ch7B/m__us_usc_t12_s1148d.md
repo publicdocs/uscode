@@ -17,7 +17,7 @@
 
     Nothing contained in sections 1148b and 1148c of this title shall be construed as limiting the rights, powers, and authority granted prior to August 19, 1937, to the regional agricultural credit corporations, the Farm Credit Administration, or the Governor thereof by any Acts of Congress or Executive orders.
 
-([Aug. 19, 1937, ch. 704, § 34][/us/act/1937-08-19/ch704/s34], [50 Stat. 717][/us/stat/50/717].)
+([Aug. 19, 1937, ch. 704][/us/act/1937-08-19/ch704], § 34, [50 Stat. 717][/us/stat/50/717].)
 
  __Transfer of Functions__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1937-08-19/ch704/s34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-19%2Fch704%2Fs34
+[/us/act/1937-08-19/ch704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-19%2Fch704
 [/us/stat/50/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F717
 [/us/stat/67/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F633
 

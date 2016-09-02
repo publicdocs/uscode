@@ -17,7 +17,7 @@
 
     Until the Final Government Equity Redemption Date, space for the principal office and any branch offices of the Bank shall be provided by the General Services Administration. There­after, the Bank may lease, construct, or own quarters and provide for the space requirements of its principal and other offices.
 
-([Pub. L. 95–351, title I, § 110][/us/pl/95/351/s110], Aug. 20, 1978, [92 Stat. 510][/us/stat/92/510].)
+([Pub. L. 95–351, title I][/us/pl/95/351/tI], § 110, Aug. 20, 1978, [92 Stat. 510][/us/stat/92/510].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/351/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F351%2Fs110
+[/us/pl/95/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F351%2FtI
 [/us/stat/92/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F510
 
 

@@ -47,33 +47,33 @@
 
         Notwithstanding the other provisions of this section or any other provision of law, other than the provisions of Federal and State branching law regulating the geographic location of banks or savings associations to the extent that those laws are applicable to an activity authorized by this subsection, a bank service company may perform at any geographic location any service, other than deposit taking, that the Board has determined, by regulation, to be permissible for a bank holding company under [section 1843(c)(8) of this title][/us/usc/t12/s1843/c/8] as of the day before November 12, 1999.
 
-([Pub. L. 87–856, § 4][/us/pl/87/856/s4], Oct. 23, 1962, [76 Stat. 1132][/us/stat/76/1132]; [Pub. L. 97–320, title VII, § 709][/us/pl/97/320/s709], Oct. 15, 1982, [96 Stat. 1542][/us/stat/96/1542]; [Pub. L. 97–457, § 32(b)(2)][/us/pl/97/457/s32/b/2], Jan. 12, 1983, [96 Stat. 2511][/us/stat/96/2511]; [Pub. L. 104–208, div. A, title II, § 2613(e)][/us/pl/104/208/s2613/e], Sept. 30, 1996, [110 Stat. 3009–477][/us/stat/110/3009-477]; [Pub. L. 106–102, title I, § 102(b)(2)][/us/pl/106/102/s102/b/2], Nov. 12, 1999, [113 Stat. 1342][/us/stat/113/1342]; [Pub. L. 109–351, title VI, § 602(b)(3)][/us/pl/109/351/s602/b/3], Oct. 13, 2006, [120 Stat. 1979][/us/stat/120/1979].)
+([Pub. L. 87–856][/us/pl/87/856], § 4, Oct. 23, 1962, [76 Stat. 1132][/us/stat/76/1132]; [Pub. L. 97–320, title VII][/us/pl/97/320/tVII], § 709, Oct. 15, 1982, [96 Stat. 1542][/us/stat/96/1542]; [Pub. L. 97–457][/us/pl/97/457], § 32(b)(2), Jan. 12, 1983, [96 Stat. 2511][/us/stat/96/2511]; [Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], § 2613(e), Sept. 30, 1996, [110 Stat. 3009–477][/us/stat/110/3009-477]; [Pub. L. 106–102, title I][/us/pl/106/102/tI], § 102(b)(2), Nov. 12, 1999, [113 Stat. 1342][/us/stat/113/1342]; [Pub. L. 109–351, title VI][/us/pl/109/351/tVI], § 602(b)(3), Oct. 13, 2006, [120 Stat. 1979][/us/stat/120/1979].)
 
  __Amendments__ 
 
-    2006—Subsec. (b). [Pub. L. 109–351, § 602(b)(3)(A)][/us/pl/109/351/s602/b/3/A], inserted “as permissible under subsection (c), (d), or (e) or” after “Except” in introductory provisions.
+    2006—Subsec. (b). [Pub. L. 109–351][/us/pl/109/351], § 602(b)(3)(A), inserted “as permissible under subsection (c), (d), or (e) or” after “Except” in introductory provisions.
 
-    Subsec. (c). [Pub. L. 109–351, § 602(b)(3)(B)][/us/pl/109/351/s602/b/3/B], inserted “or State savings association” after “State bank” wherever appearing.
+    Subsec. (c). [Pub. L. 109–351][/us/pl/109/351], § 602(b)(3)(B), inserted “or State savings association” after “State bank” wherever appearing.
 
-    Subsec. (d). [Pub. L. 109–351, § 602(b)(3)(C)][/us/pl/109/351/s602/b/3/C], inserted “or Federal savings association” after “national bank” wherever appearing.
+    Subsec. (d). [Pub. L. 109–351][/us/pl/109/351], § 602(b)(3)(C), inserted “or Federal savings association” after “national bank” wherever appearing.
 
-    Subsec. (e). [Pub. L. 109–351, § 602(b)(3)(D)][/us/pl/109/351/s602/b/3/D], inserted heading and amended text generally. Prior to amendment, text read as follows: “A bank service company that has both national bank and State bank shareholders or members shall perform only those services that may lawfully be performed by both any shareholder or member of the company which is a national bank under the law of the United States and any shareholder or member of the company which is a State bank under the law of the State in which any such State bank operate and shall perform such services only at locations in the State at which both its State bank and national bank shareholders or members could be authorized to perform such services.”
+    Subsec. (e). [Pub. L. 109–351][/us/pl/109/351], § 602(b)(3)(D), inserted heading and amended text generally. Prior to amendment, text read as follows: “A bank service company that has both national bank and State bank shareholders or members shall perform only those services that may lawfully be performed by both any shareholder or member of the company which is a national bank under the law of the United States and any shareholder or member of the company which is a State bank under the law of the State in which any such State bank operate and shall perform such services only at locations in the State at which both its State bank and national bank shareholders or members could be authorized to perform such services.”
 
-    Subsec. (f). [Pub. L. 109–351, § 602(b)(3)(E)][/us/pl/109/351/s602/b/3/E], inserted “or savings associations” after “location of banks”.
+    Subsec. (f). [Pub. L. 109–351][/us/pl/109/351], § 602(b)(3)(E), inserted “or savings associations” after “location of banks”.
 
     1999—Subsec. (f). [Pub. L. 106–102][/us/pl/106/102] inserted before period at end “as of the day before November 12, 1999”.
 
-    1996—[Pub. L. 104–208, § 2613(e)(5)][/us/pl/104/208/s2613/e/5], substituted “company” for “corporation” in section catchline.
+    1996—[Pub. L. 104–208][/us/pl/104/208], § 2613(e)(5), substituted “company” for “corporation” in section catchline.
 
-    Subsec. (a). [Pub. L. 104–208, § 2613(e)(1)][/us/pl/104/208/s2613/e/1], substituted “company” for “corporation” in two places.
+    Subsec. (a). [Pub. L. 104–208][/us/pl/104/208], § 2613(e)(1), substituted “company” for “corporation” in two places.
 
-    Subsec. (b). [Pub. L. 104–208, § 2613(e)(1)][/us/pl/104/208/s2613/e/1], (2), inserted “or members” after “shareholders” wherever appearing in text and substituted “company” for “corporation” in two places.
+    Subsec. (b). [Pub. L. 104–208][/us/pl/104/208], § 2613(e)(1), (2), inserted “or members” after “shareholders” wherever appearing in text and substituted “company” for “corporation” in two places.
 
-    Subsecs. (c), (d). [Pub. L. 104–208, § 2613(e)(1)][/us/pl/104/208/s2613/e/1], (3), inserted “or member” after “shareholder” wherever appearing and substituted “company” for “corporation”.
+    Subsecs. (c), (d). [Pub. L. 104–208][/us/pl/104/208], § 2613(e)(1), (3), inserted “or member” after “shareholder” wherever appearing and substituted “company” for “corporation”.
 
-    Subsec. (e). [Pub. L. 104–208, § 2613(e)(1)][/us/pl/104/208/s2613/e/1], (4), substituted “company” for “corporation”, “any shareholder or member of the company which is a national bank” for “its national bank shareholder or shareholders”, “any shareholder or member of the company which is a State bank” for “its State bank shareholder or shareholders”, and “any such State bank” for “such State bank or banks”, and inserted “or members” after “national bank and State bank shareholders” and after “State bank and national bank shareholders”.
+    Subsec. (e). [Pub. L. 104–208][/us/pl/104/208], § 2613(e)(1), (4), substituted “company” for “corporation”, “any shareholder or member of the company which is a national bank” for “its national bank shareholder or shareholders”, “any shareholder or member of the company which is a State bank” for “its State bank shareholder or shareholders”, and “any such State bank” for “such State bank or banks”, and inserted “or members” after “national bank and State bank shareholders” and after “State bank and national bank shareholders”.
 
-    Subsec. (f). [Pub. L. 104–208, § 2613(e)(1)][/us/pl/104/208/s2613/e/1], substituted “company” for “corporation”.
+    Subsec. (f). [Pub. L. 104–208][/us/pl/104/208], § 2613(e)(1), substituted “company” for “corporation”.
 
     1983—Subsecs. (d), (e). [Pub. L. 97–457][/us/pl/97/457] substituted “under the law of the United States” for “under this chapter”.
 
@@ -92,30 +92,30 @@
 
 [/us/usc/t12/s1865/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1865%2Fb
 [/us/usc/t12/s1843/c/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1843%2Fc%2F8
-[/us/pl/87/856/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F856%2Fs4
+[/us/pl/87/856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F856
 [/us/stat/76/1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1132
-[/us/pl/97/320/s709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs709
+[/us/pl/97/320/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2FtVII
 [/us/stat/96/1542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1542
-[/us/pl/97/457/s32/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F457%2Fs32%2Fb%2F2
+[/us/pl/97/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F457
 [/us/stat/96/2511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2511
-[/us/pl/104/208/s2613/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2613%2Fe
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-477
-[/us/pl/106/102/s102/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs102%2Fb%2F2
+[/us/pl/106/102/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtI
 [/us/stat/113/1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1342
-[/us/pl/109/351/s602/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs602%2Fb%2F3
+[/us/pl/109/351/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2FtVI
 [/us/stat/120/1979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1979
-[/us/pl/109/351/s602/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs602%2Fb%2F3%2FA
-[/us/pl/109/351/s602/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs602%2Fb%2F3%2FB
-[/us/pl/109/351/s602/b/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs602%2Fb%2F3%2FC
-[/us/pl/109/351/s602/b/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs602%2Fb%2F3%2FD
-[/us/pl/109/351/s602/b/3/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs602%2Fb%2F3%2FE
+[/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
+[/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
+[/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
+[/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
+[/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
 [/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102
-[/us/pl/104/208/s2613/e/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2613%2Fe%2F5
-[/us/pl/104/208/s2613/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2613%2Fe%2F1
-[/us/pl/104/208/s2613/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2613%2Fe%2F1
-[/us/pl/104/208/s2613/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2613%2Fe%2F1
-[/us/pl/104/208/s2613/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2613%2Fe%2F1
-[/us/pl/104/208/s2613/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2613%2Fe%2F1
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/97/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F457
 [/us/pl/97/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320
 [/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102

@@ -17,7 +17,7 @@
 
     A bank or savings association which violates a rule promulgated pursuant to this chapter shall be subject to a civil penalty which shall not exceed $100 for each day of the violation.
 
-([Pub. L. 90–389, § 5][/us/pl/90/389/s5], July 7, 1968, [82 Stat. 295][/us/stat/82/295]; [Pub. L. 111–203, title III, § 356(3)][/us/pl/111/203/s356/3], July 21, 2010, [124 Stat. 1547][/us/stat/124/1547].)
+([Pub. L. 90–389][/us/pl/90/389], § 5, July 7, 1968, [82 Stat. 295][/us/stat/82/295]; [Pub. L. 111–203, title III][/us/pl/111/203/tIII], § 356(3), July 21, 2010, [124 Stat. 1547][/us/stat/124/1547].)
 
  __Amendments__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/90/389/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F389%2Fs5
+[/us/pl/90/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F389
 [/us/stat/82/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F295
-[/us/pl/111/203/s356/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs356%2F3
+[/us/pl/111/203/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIII
 [/us/stat/124/1547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1547
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203

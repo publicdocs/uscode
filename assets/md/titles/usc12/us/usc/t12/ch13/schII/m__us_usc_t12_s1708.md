@@ -331,17 +331,17 @@
 
         (2) to maintain copies of all such advertisements and promotional materials, in such form and for such period as the Secretary requires.
 
-([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title II, § 202, [48 Stat. 1248][/us/stat/48/1248]; [Feb. 3, 1938, ch. 13, § 3][/us/act/1938-02-03/ch13/s3], [52 Stat. 10][/us/stat/52/10]; [June 3, 1939, ch. 175, § 5][/us/act/1939-06-03/ch175/s5], [53 Stat. 805][/us/stat/53/805]; [Apr. 20, 1950, ch. 94][/us/act/1950-04-20/ch94], title I, § 122, [64 Stat. 59][/us/stat/64/59]; [Pub. L. 90–19, § 1(a)(3)][/us/pl/90/19/s1/a/3], May 25, 1967, [81 Stat. 17][/us/stat/81/17]; [Pub. L. 101–235, title I, § 142][/us/pl/101/235/s142], Dec. 15, 1989, [103 Stat. 2030][/us/stat/103/2030]; [Pub. L. 101–625, title III, § 322][/us/pl/101/625/s322], Nov. 28, 1990, [104 Stat. 4134][/us/stat/104/4134]; [Pub. L. 102–550, title V][/us/pl/102/550], §§ 502, 518, 519, Oct. 28, 1992, [106 Stat. 3778][/us/stat/106/3778], 3792; [Pub. L. 105–65, title V, § 551][/us/pl/105/65/s551], Oct. 27, 1997, [111 Stat. 1412][/us/stat/111/1412]; [Pub. L. 106–377, § 1(a)(1)][/us/pl/106/377/s1/a/1] \[title II, § 209(c)\], Oct. 27, 2000, [114 Stat. 1441][/us/stat/114/1441], 1441A–25; [Pub. L. 110–289, div. A, title IV, § 1404][/us/pl/110/289/s1404], div. B, title I, §§ 2116(1), (3), 2118(a), July 30, 2008, [122 Stat. 2810][/us/stat/122/2810], 2832, 2833; [Pub. L. 111–22, div. A, title II, § 203(a)][/us/pl/111/22/s203/a], (b), May 20, 2009, [123 Stat. 1643][/us/stat/123/1643]; [Pub. L. 111–203, title III, § 373][/us/pl/111/203/s373], July 21, 2010, [124 Stat. 1566][/us/stat/124/1566].)
+([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title II, § 202, [48 Stat. 1248][/us/stat/48/1248]; [Feb. 3, 1938, ch. 13][/us/act/1938-02-03/ch13], § 3, [52 Stat. 10][/us/stat/52/10]; [June 3, 1939, ch. 175][/us/act/1939-06-03/ch175], § 5, [53 Stat. 805][/us/stat/53/805]; [Apr. 20, 1950, ch. 94][/us/act/1950-04-20/ch94], title I, § 122, [64 Stat. 59][/us/stat/64/59]; [Pub. L. 90–19][/us/pl/90/19], § 1(a)(3), May 25, 1967, [81 Stat. 17][/us/stat/81/17]; [Pub. L. 101–235, title I][/us/pl/101/235/tI], § 142, Dec. 15, 1989, [103 Stat. 2030][/us/stat/103/2030]; [Pub. L. 101–625, title III][/us/pl/101/625/tIII], § 322, Nov. 28, 1990, [104 Stat. 4134][/us/stat/104/4134]; [Pub. L. 102–550, title V][/us/pl/102/550/tV], §§ 502, 518, 519, Oct. 28, 1992, [106 Stat. 3778][/us/stat/106/3778], 3792; [Pub. L. 105–65, title V][/us/pl/105/65/tV], § 551, Oct. 27, 1997, [111 Stat. 1412][/us/stat/111/1412]; [Pub. L. 106–377][/us/pl/106/377], § 1(a)(1) \[title II, § 209(c)\], Oct. 27, 2000, [114 Stat. 1441][/us/stat/114/1441], 1441A–25; [Pub. L. 110–289, div. A, title IV][/us/pl/110/289/dA/tIV], § 1404, div. B, title I, §§ 2116(1), (3), 2118(a), July 30, 2008, [122 Stat. 2810][/us/stat/122/2810], 2832, 2833; [Pub. L. 111–22, div. A, title II][/us/pl/111/22/dA/tII], § 203(a), (b), May 20, 2009, [123 Stat. 1643][/us/stat/123/1643]; [Pub. L. 111–203, title III][/us/pl/111/203/tIII], § 373, July 21, 2010, [124 Stat. 1566][/us/stat/124/1566].)
 
  __References in Text__ 
 
-    The Federal Credit Reform Act of 1990, referred to in subsec. (a)(1), is title V of [Pub. L. 93–344][/us/pl/93/344], as added by [Pub. L. 101–508, title XIII, § 13201(a)][/us/pl/101/508/s13201/a], Nov. 5, 1990, [104 Stat. 1388–609][/us/stat/104/1388-609], which is classified generally to subchapter III (§ 661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under [section 621 of Title 2][/us/usc/t2/s621] and Tables.
+    The Federal Credit Reform Act of 1990, referred to in subsec. (a)(1), is title V of [Pub. L. 93–344][/us/pl/93/344], as added by [Pub. L. 101–508, title XIII][/us/pl/101/508/tXIII], § 13201(a), Nov. 5, 1990, [104 Stat. 1388–609][/us/stat/104/1388-609], which is classified generally to subchapter III (§ 661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under [section 621 of Title 2][/us/usc/t2/s621] and Tables.
 
     The Federal Advisory Committee Act, referred to in subsec. (b), is [Pub. L. 92–463][/us/pl/92/463], Oct. 6, 1972, [86 Stat. 770][/us/stat/86/770], which is set out in the Appendix to Title 5, Government Organization and Employees.
 
-    [Section 3537b(c) of title 42][/us/usc/t42/s3537b/c], referred to in subsec. (b)(5), was in the original “section 112(c) of the Department of Housing and Urban Development Reform Act of 1989”, meaning [section 112 of Pub. L. 101–235][/us/pl/101/235/s112], which does not contain a subsec. (c), but enacted section 13 of the Department of Housing and Urban Development Act, which was classified to [section 3537b of title 42][/us/usc/t42/s3537b] prior to repeal by [Pub. L. 104–65, § 11(b)(1)][/us/pl/104/65/s11/b/1], Dec. 19, 1995, [109 Stat. 701][/us/stat/109/701], and which contained a subsec. (c) relating to registration with the Secretary.
+    [Section 3537b(c) of title 42][/us/usc/t42/s3537b/c], referred to in subsec. (b)(5), was in the original “section 112(c) of the Department of Housing and Urban Development Reform Act of 1989”, meaning [section 112 of Pub. L. 101–235][/us/pl/101/235/s112], which does not contain a subsec. (c), but enacted section 13 of the Department of Housing and Urban Development Act, which was classified to [section 3537b of title 42][/us/usc/t42/s3537b] prior to repeal by [Pub. L. 104–65][/us/pl/104/65], § 11(b)(1), Dec. 19, 1995, [109 Stat. 701][/us/stat/109/701], and which contained a subsec. (c) relating to registration with the Secretary.
 
-    The Equal Credit Opportunity Act, referred to in subsec. (c)(1), (3)(B), is title VII of [Pub. L. 90–321][/us/pl/90/321], as added by [Pub. L. 93–495, title V, § 503][/us/pl/93/495/s503], Oct. 28, 1974, [88 Stat. 1521][/us/stat/88/1521], which is classified generally to subchapter IV (§ 1691 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 15][/us/usc/t15/s1601] and Tables.
+    The Equal Credit Opportunity Act, referred to in subsec. (c)(1), (3)(B), is title VII of [Pub. L. 90–321][/us/pl/90/321], as added by [Pub. L. 93–495, title V][/us/pl/93/495/tV], § 503, Oct. 28, 1974, [88 Stat. 1521][/us/stat/88/1521], which is classified generally to subchapter IV (§ 1691 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 15][/us/usc/t15/s1601] and Tables.
 
     The Fair Housing Act, referred to in subsec. (c)(1), (3)(B), is title VIII of [Pub. L. 90–284][/us/pl/90/284], Apr. 11, 1968, [82 Stat. 81][/us/stat/82/81], which is classified principally to subchapter I (§ 3601 et seq.) of chapter 45 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 3601 of Title 42][/us/usc/t42/s3601] and Tables.
 
@@ -355,55 +355,55 @@
 
  __Codification__ 
 
-    [Section 1709(s) of this title][/us/usc/t12/s1709/s], which was transferred and redesignated as subsec. (e) of this section by [Pub. L. 110–289, div. B, title I, § 2116(3)][/us/pl/110/289/s2116/3], July 30, 2008, [122 Stat. 2832][/us/stat/122/2832], was based on [act June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title II, § 203(s), as added [Pub. L. 101–235, title I, § 135][/us/pl/101/235/s135], Dec. 15, 1989, [103 Stat. 2028][/us/stat/103/2028]; amended [Pub. L. 108–386, § 8(b)][/us/pl/108/386/s8/b], Oct. 30, 2004, [118 Stat. 2231][/us/stat/118/2231]; [Pub. L. 110–289, div. B, title I, § 2116(2)][/us/pl/110/289/s2116/2], July 30, 2008, [122 Stat. 2832][/us/stat/122/2832].
+    [Section 1709(s) of this title][/us/usc/t12/s1709/s], which was transferred and redesignated as subsec. (e) of this section by [Pub. L. 110–289, div. B, title I][/us/pl/110/289/dB/tI], § 2116(3), July 30, 2008, [122 Stat. 2832][/us/stat/122/2832], was based on [act June 27, 1934, ch. 847, title II][/us/act/1934-06-27/ch847/tII], § 203(s), as added [Pub. L. 101–235, title I][/us/pl/101/235/tI], § 135, Dec. 15, 1989, [103 Stat. 2028][/us/stat/103/2028]; amended [Pub. L. 108–386][/us/pl/108/386], § 8(b), Oct. 30, 2004, [118 Stat. 2231][/us/stat/118/2231]; [Pub. L. 110–289, div. B, title I][/us/pl/110/289/dB/tI], § 2116(2), July 30, 2008, [122 Stat. 2832][/us/stat/122/2832].
 
  __Amendments__ 
 
-    2010—Subsec. (f)(5). [Pub. L. 111–203, § 373(1)][/us/pl/111/203/s373/1], added par. (5) and struck out former par. (5) which read as follows: “if the mortgagee is a national bank, or a subsidiary or affiliate of such a bank, the Comptroller of the Currency;”.
+    2010—Subsec. (f)(5). [Pub. L. 111–203][/us/pl/111/203], § 373(1), added par. (5) and struck out former par. (5) which read as follows: “if the mortgagee is a national bank, or a subsidiary or affiliate of such a bank, the Comptroller of the Currency;”.
 
-    Subsec. (f)(6). [Pub. L. 111–203, § 373(2)][/us/pl/111/203/s373/2], inserted “and” at end.
+    Subsec. (f)(6). [Pub. L. 111–203][/us/pl/111/203], § 373(2), inserted “and” at end.
 
-    Subsec. (f)(7). [Pub. L. 111–203, § 373(3)][/us/pl/111/203/s373/3], inserted “or State savings association” after “State bank” and substituted period for “; and” at end.
+    Subsec. (f)(7). [Pub. L. 111–203][/us/pl/111/203], § 373(3), inserted “or State savings association” after “State bank” and substituted period for “; and” at end.
 
-    Subsec. (f)(8). [Pub. L. 111–203, § 373(4)][/us/pl/111/203/s373/4], struck out par. (8) which read as follows: “if the mortgagee is a Federal or State savings association or a subsidiary or affiliate of a savings association, the Director of the Office of Thrift Supervision.”
+    Subsec. (f)(8). [Pub. L. 111–203][/us/pl/111/203], § 373(4), struck out par. (8) which read as follows: “if the mortgagee is a Federal or State savings association or a subsidiary or affiliate of a savings association, the Director of the Office of Thrift Supervision.”
 
-    2009—Subsec. (c)(2)(E). [Pub. L. 111–22, § 203(a)(1)(A)][/us/pl/111/22/s203/a/1/A], inserted “and” after semicolon at end.
+    2009—Subsec. (c)(2)(E). [Pub. L. 111–22][/us/pl/111/22], § 203(a)(1)(A), inserted “and” after semicolon at end.
 
-    Subsec. (c)(2)(F). [Pub. L. 111–22, § 203(a)(1)(B)][/us/pl/111/22/s203/a/1/B], substituted “or their designees.” for “; and”.
+    Subsec. (c)(2)(F). [Pub. L. 111–22][/us/pl/111/22], § 203(a)(1)(B), substituted “or their designees.” for “; and”.
 
-    Subsec. (c)(2)(G). [Pub. L. 111–22, § 203(a)(1)(C)][/us/pl/111/22/s203/a/1/C], struck out subpar. (G), which read as follows: “the Director of the Enforcement Center; or their designees.”
+    Subsec. (c)(2)(G). [Pub. L. 111–22][/us/pl/111/22], § 203(a)(1)(C), struck out subpar. (G), which read as follows: “the Director of the Enforcement Center; or their designees.”
 
-    Subsec. (c)(9). [Pub. L. 111–22, § 203(a)(2)][/us/pl/111/22/s203/a/2], added par. (9).
+    Subsec. (c)(9). [Pub. L. 111–22][/us/pl/111/22], § 203(a)(2), added par. (9).
 
-    Subsecs. (d) to (g). [Pub. L. 111–22, § 203(b)(1)][/us/pl/111/22/s203/b/1], (2), added subsec. (d) and redesignated former subsecs. (d) to (f) as (e) to (g), respectively.
+    Subsecs. (d) to (g). [Pub. L. 111–22][/us/pl/111/22], § 203(b)(1), (2), added subsec. (d) and redesignated former subsecs. (d) to (f) as (e) to (g), respectively.
 
-    Subsec. (h). [Pub. L. 111–22, § 203(b)(3)][/us/pl/111/22/s203/b/3], added subsec. (h).
+    Subsec. (h). [Pub. L. 111–22][/us/pl/111/22], § 203(b)(3), added subsec. (h).
 
-    2008—Subsec. (a). [Pub. L. 110–289, § 2118(a)][/us/pl/110/289/s2118/a], amended subsec. (a) generally. Prior to amendment, text read as follows: “There is created a Mutual Mortgage Insurance Fund (hereinafter referred to as the ‘Fund’), which shall be used by the Secretary as a revolving fund for carrying out the provisions of this subchapter with respect to mortgages insured under [section 1709 of this title][/us/usc/t12/s1709] as hereinafter provided, and there shall be allocated immediately to such Fund the sum of $10,000,000 out of funds made available to the Secretary for the purposes of this subchapter.”
+    2008—Subsec. (a). [Pub. L. 110–289][/us/pl/110/289], § 2118(a), amended subsec. (a) generally. Prior to amendment, text read as follows: “There is created a Mutual Mortgage Insurance Fund (hereinafter referred to as the ‘Fund’), which shall be used by the Secretary as a revolving fund for carrying out the provisions of this subchapter with respect to mortgages insured under [section 1709 of this title][/us/usc/t12/s1709] as hereinafter provided, and there shall be allocated immediately to such Fund the sum of $10,000,000 out of funds made available to the Secretary for the purposes of this subchapter.”
 
-    Subsec. (e). [Pub. L. 110–289, § 2116(3)][/us/pl/110/289/s2116/3], transferred subsec. (s) of [section 1709 of this title][/us/usc/t12/s1709] and redesignated it as subsec. (e) of this section. See Codification note above. Former subsec. (e) redesignated (f).
+    Subsec. (e). [Pub. L. 110–289][/us/pl/110/289], § 2116(3), transferred subsec. (s) of [section 1709 of this title][/us/usc/t12/s1709] and redesignated it as subsec. (e) of this section. See Codification note above. Former subsec. (e) redesignated (f).
 
-    Subsec. (e)(3)(B). [Pub. L. 110–289, § 2116(1)(A)][/us/pl/110/289/s2116/1/A], made technical amendment to reference in original act which appears in text as reference to “this subsection”.
+    Subsec. (e)(3)(B). [Pub. L. 110–289][/us/pl/110/289], § 2116(1)(A), made technical amendment to reference in original act which appears in text as reference to “this subsection”.
 
-    Subsec. (e)(5). [Pub. L. 110–289, § 1404][/us/pl/110/289/s1404], added par. (5).
+    Subsec. (e)(5). [Pub. L. 110–289][/us/pl/110/289], § 1404, added par. (5).
 
-    Subsec. (f). [Pub. L. 110–289, § 2116(1)(B)][/us/pl/110/289/s2116/1/B], redesignated subsec. (e) as (f).
+    Subsec. (f). [Pub. L. 110–289][/us/pl/110/289], § 2116(1)(B), redesignated subsec. (e) as (f).
 
-    2000—Subsec. (c)(2)(E). [Pub. L. 106–377, § 1(a)(1)][/us/pl/106/377/s1/a/1] \[title II, § 209(c)(1)\], struck out “and” at end.
+    2000—Subsec. (c)(2)(E). [Pub. L. 106–377][/us/pl/106/377], § 1(a)(1) \[title II, § 209(c)(1)\], struck out “and” at end.
 
-    Subsec. (c)(2)(F). [Pub. L. 106–377, § 1(a)(1)][/us/pl/106/377/s1/a/1] \[title II, § 209(c)(2)\], which directed substitution of “and” for “or their designees.”, was executed by inserting “and” after semicolon to reflect the probable intent of Congress, because the phrase “or their designees.” appeared at end of par. (2) and did not appear in subpar. (F).
+    Subsec. (c)(2)(F). [Pub. L. 106–377][/us/pl/106/377], § 1(a)(1) \[title II, § 209(c)(2)\], which directed substitution of “and” for “or their designees.”, was executed by inserting “and” after semicolon to reflect the probable intent of Congress, because the phrase “or their designees.” appeared at end of par. (2) and did not appear in subpar. (F).
 
-    Subsec. (c)(2)(G). [Pub. L. 106–377, § 1(a)(1)][/us/pl/106/377/s1/a/1] \[title II, § 209(c)(3)\], added subpar. (G).
+    Subsec. (c)(2)(G). [Pub. L. 106–377][/us/pl/106/377], § 1(a)(1) \[title II, § 209(c)(3)\], added subpar. (G).
 
     1997—Subsec. (c)(3)(C). [Pub. L. 105–65][/us/pl/105/65] inserted after first sentence “Notwithstanding paragraph (4)(A), a suspension shall be effective upon issuance by the Board if the Board determines that there exists adequate evidence that immediate action is required to protect the financial interests of the Department or the public.”
 
-    1992—Subsec. (b)(11). [Pub. L. 102–550, § 502][/us/pl/102/550/s502], added par. (11).
+    1992—Subsec. (b)(11). [Pub. L. 102–550][/us/pl/102/550], § 502, added par. (11).
 
-    Subsec. (c)(3)(C). [Pub. L. 102–550, § 518][/us/pl/102/550/s518], inserted “temporarily” after “order”, “(i)” after “Administration if”, “(ii)” after “violations and”, and “, and for not longer than 1 year. The Board may extend the suspension for an additional 6 months if it determines the extension is in the public interest. If the Board and the mortgagee agree, these time limits may be extended” after “6 months”.
+    Subsec. (c)(3)(C). [Pub. L. 102–550][/us/pl/102/550], § 518, inserted “temporarily” after “order”, “(i)” after “Administration if”, “(ii)” after “violations and”, and “, and for not longer than 1 year. The Board may extend the suspension for an additional 6 months if it determines the extension is in the public interest. If the Board and the mortgagee agree, these time limits may be extended” after “6 months”.
 
-    Subsec. (c)(6)(D). [Pub. L. 102–550, § 519(1)][/us/pl/102/550/s519/1], struck out subpar. (D) which read as follows: “For purposes of this paragraph, the term ‘mortgagee’ means a mortgagee, a branch office or subsidiary of a mortgagee, or a director, officer, employee, agent, or other person participating in the conduct of the affairs of such mortgagee.”
+    Subsec. (c)(6)(D). [Pub. L. 102–550][/us/pl/102/550], § 519(1), struck out subpar. (D) which read as follows: “For purposes of this paragraph, the term ‘mortgagee’ means a mortgagee, a branch office or subsidiary of a mortgagee, or a director, officer, employee, agent, or other person participating in the conduct of the affairs of such mortgagee.”
 
-    Subsec. (c)(7), (8). [Pub. L. 102–550, § 519(2)][/us/pl/102/550/s519/2], added par. (7) and redesignated former par. (7) as (8).
+    Subsec. (c)(7), (8). [Pub. L. 102–550][/us/pl/102/550], § 519(2), added par. (7) and redesignated former par. (7) as (8).
 
     1990—Subsec. (e)(3), (4). [Pub. L. 101–625][/us/pl/101/625] added pars. (3) and (4).
 
@@ -427,7 +427,7 @@
 
  __Expanded Review of FHA Mortgagee Applicants and Newly Approved Mortgagees__ 
 
-[Pub. L. 111–22, div. A, title II, § 203(g)][/us/pl/111/22/s203/g], May 20, 2009, [123 Stat. 1648][/us/stat/123/1648], provided that: 
+[Pub. L. 111–22, div. A, title II][/us/pl/111/22/dA/tII], § 203(g), May 20, 2009, [123 Stat. 1648][/us/stat/123/1648], provided that: 
 
 > “Not later than the expiration of the 3-month period beginning upon the date of the enactment of this Act \[May 20, 2009\], the Secretary of Housing and Urban Development shall—
 
@@ -457,32 +457,32 @@
 [/us/usc/t12/s5101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5101
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
 [/us/stat/48/1248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1248
-[/us/act/1938-02-03/ch13/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-03%2Fch13%2Fs3
+[/us/act/1938-02-03/ch13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-03%2Fch13
 [/us/stat/52/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F10
-[/us/act/1939-06-03/ch175/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-06-03%2Fch175%2Fs5
+[/us/act/1939-06-03/ch175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-06-03%2Fch175
 [/us/stat/53/805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F805
 [/us/act/1950-04-20/ch94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-04-20%2Fch94
 [/us/stat/64/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F59
-[/us/pl/90/19/s1/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19%2Fs1%2Fa%2F3
+[/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
 [/us/stat/81/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F17
-[/us/pl/101/235/s142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235%2Fs142
+[/us/pl/101/235/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235%2FtI
 [/us/stat/103/2030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2030
-[/us/pl/101/625/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs322
+[/us/pl/101/625/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtIII
 [/us/stat/104/4134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4134
-[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtV
 [/us/stat/106/3778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3778
-[/us/pl/105/65/s551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65%2Fs551
+[/us/pl/105/65/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65%2FtV
 [/us/stat/111/1412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1412
-[/us/pl/106/377/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377%2Fs1%2Fa%2F1
+[/us/pl/106/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377
 [/us/stat/114/1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1441
-[/us/pl/110/289/s1404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1404
+[/us/pl/110/289/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtIV
 [/us/stat/122/2810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2810
-[/us/pl/111/22/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs203%2Fa
+[/us/pl/111/22/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2FdA%2FtII
 [/us/stat/123/1643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1643
-[/us/pl/111/203/s373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs373
+[/us/pl/111/203/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIII
 [/us/stat/124/1566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1566
 [/us/pl/93/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344
-[/us/pl/101/508/s13201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13201%2Fa
+[/us/pl/101/508/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXIII
 [/us/stat/104/1388-609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-609
 [/us/usc/t2/s621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs621
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
@@ -490,10 +490,10 @@
 [/us/usc/t42/s3537b/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3537b%2Fc
 [/us/pl/101/235/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235%2Fs112
 [/us/usc/t42/s3537b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3537b
-[/us/pl/104/65/s11/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65%2Fs11%2Fb%2F1
+[/us/pl/104/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65
 [/us/stat/109/701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F701
 [/us/pl/90/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321
-[/us/pl/93/495/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2Fs503
+[/us/pl/93/495/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2FtV
 [/us/stat/88/1521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1521
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601
 [/us/pl/90/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284
@@ -507,40 +507,40 @@
 [/us/stat/122/2810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2810
 [/us/usc/t12/s5101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5101
 [/us/usc/t12/s1709/s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1709%2Fs
-[/us/pl/110/289/s2116/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs2116%2F3
+[/us/pl/110/289/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdB%2FtI
 [/us/stat/122/2832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2832
-[/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
-[/us/pl/101/235/s135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235%2Fs135
+[/us/act/1934-06-27/ch847/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847%2FtII
+[/us/pl/101/235/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235%2FtI
 [/us/stat/103/2028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2028
-[/us/pl/108/386/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F386%2Fs8%2Fb
+[/us/pl/108/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F386
 [/us/stat/118/2231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2231
-[/us/pl/110/289/s2116/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs2116%2F2
+[/us/pl/110/289/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdB%2FtI
 [/us/stat/122/2832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2832
-[/us/pl/111/203/s373/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs373%2F1
-[/us/pl/111/203/s373/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs373%2F2
-[/us/pl/111/203/s373/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs373%2F3
-[/us/pl/111/203/s373/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs373%2F4
-[/us/pl/111/22/s203/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs203%2Fa%2F1%2FA
-[/us/pl/111/22/s203/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs203%2Fa%2F1%2FB
-[/us/pl/111/22/s203/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs203%2Fa%2F1%2FC
-[/us/pl/111/22/s203/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs203%2Fa%2F2
-[/us/pl/111/22/s203/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs203%2Fb%2F1
-[/us/pl/111/22/s203/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs203%2Fb%2F3
-[/us/pl/110/289/s2118/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs2118%2Fa
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
 [/us/usc/t12/s1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1709
-[/us/pl/110/289/s2116/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs2116%2F3
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
 [/us/usc/t12/s1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1709
-[/us/pl/110/289/s2116/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs2116%2F1%2FA
-[/us/pl/110/289/s1404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1404
-[/us/pl/110/289/s2116/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs2116%2F1%2FB
-[/us/pl/106/377/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377%2Fs1%2Fa%2F1
-[/us/pl/106/377/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377%2Fs1%2Fa%2F1
-[/us/pl/106/377/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377%2Fs1%2Fa%2F1
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/106/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377
+[/us/pl/106/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377
+[/us/pl/106/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377
 [/us/pl/105/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65
-[/us/pl/102/550/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs502
-[/us/pl/102/550/s518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs518
-[/us/pl/102/550/s519/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs519%2F1
-[/us/pl/102/550/s519/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs519%2F2
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
 [/us/pl/101/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235
 [/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
@@ -550,7 +550,7 @@
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs351
 [/us/usc/t2/s906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs906
-[/us/pl/111/22/s203/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs203%2Fg
+[/us/pl/111/22/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2FdA%2FtII
 [/us/stat/123/1648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1648
 
 

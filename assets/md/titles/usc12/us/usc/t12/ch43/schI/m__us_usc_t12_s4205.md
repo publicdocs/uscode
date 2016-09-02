@@ -67,13 +67,13 @@
 
             (B) In distributing any such award between 2 or more declarants, the Attorney General may, in the Attorney General’s discretion, consider any appropriate factor.
 
-    (e) __Repealed.__  __[__  __Pub. L. 107–273, div. A, title III, § 301(c)(3)__  __][/us/pl/107/273/s301/c/3]__  __,__  __Nov. 2, 2002__  __,__  __[__  __116 Stat. 1781__  __][/us/stat/116/1781]__ 
+    (e) __Repealed.__  __[__  __Pub. L. 107–273, div. A, title III__  __][/us/pl/107/273/dA/tIII]__  __, § 301(c)(3),__  __Nov. 2, 2002__  __,__  __[__  __116 Stat. 1781__  __][/us/stat/116/1781]__ 
 
     (f) __Appropriate Federal banking agency exception__ 
 
         For purposes of this section, funds or assets acquired by the United States shall not include any funds or assets acquired by any appropriate Federal banking agency acting in any capacity or the Resolution Trust Corporation acting in any capacity, except for any civil money penalties recovered by a Federal banking agency through a final judgment, order or settlement.
 
-([Pub. L. 101–647, title XXV, § 2565][/us/pl/101/647/s2565], Nov. 29, 1990, [104 Stat. 4896][/us/stat/104/4896]; [Pub. L. 107–273, div. A, title III, § 301(c)(3)][/us/pl/107/273/s301/c/3], Nov. 2, 2002, [116 Stat. 1781][/us/stat/116/1781].)
+([Pub. L. 101–647, title XXV][/us/pl/101/647/tXXV], § 2565, Nov. 29, 1990, [104 Stat. 4896][/us/stat/104/4896]; [Pub. L. 107–273, div. A, title III][/us/pl/107/273/dA/tIII], § 301(c)(3), Nov. 2, 2002, [116 Stat. 1781][/us/stat/116/1781].)
 
  __Amendments__ 
 
@@ -95,11 +95,11 @@
 [/us/usc/t12/s4201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4201
 [/us/usc/t12/s4201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4201
 [/us/usc/t12/s4201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4201
-[/us/pl/107/273/s301/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs301%2Fc%2F3
+[/us/pl/107/273/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdA%2FtIII
 [/us/stat/116/1781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1781
-[/us/pl/101/647/s2565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2565
+[/us/pl/101/647/tXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXV
 [/us/stat/104/4896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4896
-[/us/pl/107/273/s301/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs301%2Fc%2F3
+[/us/pl/107/273/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdA%2FtIII
 [/us/stat/116/1781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1781
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/usc/t12/s4209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4209

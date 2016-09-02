@@ -47,13 +47,13 @@
 
         The remedies provided in subsections (b) and (c) shall not be construed as limiting any other remedies against any insured System bank, but shall be in addition thereto.
 
-([Pub. L. 92–181, title V, § 5][/us/pl/92/181/s5].57, as added [Pub. L. 100–233, title III, § 302][/us/pl/100/233/s302], Jan. 6, 1988, [101 Stat. 1613][/us/stat/101/1613]; amended [Pub. L. 100–399, title III, § 302(g)][/us/pl/100/399/s302/g], (h), Aug. 17, 1988, [102 Stat. 994][/us/stat/102/994].)
+([Pub. L. 92–181, title V][/us/pl/92/181/tV], § 5.57, as added [Pub. L. 100–233, title III][/us/pl/100/233/tIII], § 302, Jan. 6, 1988, [101 Stat. 1613][/us/stat/101/1613]; amended [Pub. L. 100–399, title III][/us/pl/100/399/tIII], § 302(g), (h), Aug. 17, 1988, [102 Stat. 994][/us/stat/102/994].)
 
  __Amendments__ 
 
-    1988—Subsec. (b)(1). [Pub. L. 100–399, § 302(g)][/us/pl/100/399/s302/g], struck out “made any report of condition required under [section 2277a–4 of this title][/us/usc/t12/s2277a–4] or” after “bank has” and “make any such report or” after “bank to”.
+    1988—Subsec. (b)(1). [Pub. L. 100–399][/us/pl/100/399], § 302(g), struck out “made any report of condition required under [section 2277a–4 of this title][/us/usc/t12/s2277a–4] or” after “bank has” and “make any such report or” after “bank to”.
 
-    Subsec. (b)(2). [Pub. L. 100–399, § 302(h)][/us/pl/100/399/s302/h], substituted “bank has filed” for “bank has made or filed”.
+    Subsec. (b)(2). [Pub. L. 100–399][/us/pl/100/399], § 302(h), substituted “bank has filed” for “bank has made or filed”.
 
  __Effective Date of 1988 Amendment__ 
 
@@ -68,14 +68,14 @@
 
 [/us/usc/t12/s2277a–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2277a%E2%80%935
 [/us/usc/t12/s2277a–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2277a%E2%80%935
-[/us/pl/92/181/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs5
-[/us/pl/100/233/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs302
+[/us/pl/92/181/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtV
+[/us/pl/100/233/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtIII
 [/us/stat/101/1613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1613
-[/us/pl/100/399/s302/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs302%2Fg
+[/us/pl/100/399/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtIII
 [/us/stat/102/994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F994
-[/us/pl/100/399/s302/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs302%2Fg
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/usc/t12/s2277a–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2277a%E2%80%934
-[/us/pl/100/399/s302/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs302%2Fh
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
 [/us/pl/100/399/s1001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs1001%2Fa

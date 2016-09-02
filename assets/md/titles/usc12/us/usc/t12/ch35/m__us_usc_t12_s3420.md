@@ -41,7 +41,7 @@
 
         (2) [Section 1818 of this title][/us/usc/t12/s1818] and [section 1786(k)(2) of this title][/us/usc/t12/s1786/k/2] shall apply to any violation of this subsection.
 
-([Pub. L. 95–630, title XI, § 1120][/us/pl/95/630/s1120], Nov. 10, 1978, [92 Stat. 3709][/us/stat/92/3709]; [Pub. L. 100–690, title VI, § 6186(e)][/us/pl/100/690/s6186/e], Nov. 18, 1988, [102 Stat. 4358][/us/stat/102/4358]; [Pub. L. 101–73, title IX, § 943][/us/pl/101/73/s943], Aug. 9, 1989, [103 Stat. 497][/us/stat/103/497]; [Pub. L. 102–550, title XV, § 1532][/us/pl/102/550/s1532], Oct. 28, 1992, [106 Stat. 4066][/us/stat/106/4066]; [Pub. L. 107–56, title III, § 358(f)(3)][/us/pl/107/56/s358/f/3], Oct. 26, 2001, [115 Stat. 327][/us/stat/115/327].)
+([Pub. L. 95–630, title XI][/us/pl/95/630/tXI], § 1120, Nov. 10, 1978, [92 Stat. 3709][/us/stat/92/3709]; [Pub. L. 100–690, title VI][/us/pl/100/690/tVI], § 6186(e), Nov. 18, 1988, [102 Stat. 4358][/us/stat/102/4358]; [Pub. L. 101–73, title IX][/us/pl/101/73/tIX], § 943, Aug. 9, 1989, [103 Stat. 497][/us/stat/103/497]; [Pub. L. 102–550, title XV][/us/pl/102/550/tXV], § 1532, Oct. 28, 1992, [106 Stat. 4066][/us/stat/106/4066]; [Pub. L. 107–56, title III][/us/pl/107/56/tIII], § 358(f)(3), Oct. 26, 2001, [115 Stat. 327][/us/stat/115/327].)
 
  __References in Text__ 
 
@@ -78,15 +78,15 @@
 [/us/usc/t26/s6050I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6050I
 [/us/usc/t12/s1818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1818
 [/us/usc/t12/s1786/k/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1786%2Fk%2F2
-[/us/pl/95/630/s1120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs1120
+[/us/pl/95/630/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtXI
 [/us/stat/92/3709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3709
-[/us/pl/100/690/s6186/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6186%2Fe
+[/us/pl/100/690/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVI
 [/us/stat/102/4358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4358
-[/us/pl/101/73/s943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs943
+[/us/pl/101/73/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtIX
 [/us/stat/103/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F497
-[/us/pl/102/550/s1532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1532
+[/us/pl/102/550/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXV
 [/us/stat/106/4066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4066
-[/us/pl/107/56/s358/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs358%2Ff%2F3
+[/us/pl/107/56/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtIII
 [/us/stat/115/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F327
 [/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
 [/us/stat/84/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1242

@@ -23,7 +23,7 @@
 
     (3) the term “claimant” means any person or entity, including a State under applicable statutory law, asserting a demonstrable legal interest in title to, or custody or possession of, unclaimed property.
 
-([Pub. L. 96–221, title VII, § 732][/us/pl/96/221/s732], as added [Pub. L. 97–320, title IV, § 408][/us/pl/97/320/s408], Oct. 15, 1982, [96 Stat. 1513][/us/stat/96/1513]; amended [Pub. L. 109–351, title VII, § 725(c)(2)][/us/pl/109/351/s725/c/2], Oct. 13, 2006, [120 Stat. 2001][/us/stat/120/2001]; [Pub. L. 109–356, title I, § 123(c)(2)][/us/pl/109/356/s123/c/2], Oct. 16, 2006, [120 Stat. 2029][/us/stat/120/2029].)
+([Pub. L. 96–221, title VII][/us/pl/96/221/tVII], § 732, as added [Pub. L. 97–320, title IV][/us/pl/97/320/tIV], § 408, Oct. 15, 1982, [96 Stat. 1513][/us/stat/96/1513]; amended [Pub. L. 109–351, title VII][/us/pl/109/351/tVII], § 725(c)(2), Oct. 13, 2006, [120 Stat. 2001][/us/stat/120/2001]; [Pub. L. 109–356, title I][/us/pl/109/356/tI], § 123(c)(2), Oct. 16, 2006, [120 Stat. 2029][/us/stat/120/2029].)
 
  __Amendments__ 
 
@@ -36,12 +36,12 @@
 ----------
 ----------
 
-[/us/pl/96/221/s732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs732
-[/us/pl/97/320/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs408
+[/us/pl/96/221/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2FtVII
+[/us/pl/97/320/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2FtIV
 [/us/stat/96/1513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1513
-[/us/pl/109/351/s725/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs725%2Fc%2F2
+[/us/pl/109/351/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2FtVII
 [/us/stat/120/2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2001
-[/us/pl/109/356/s123/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F356%2Fs123%2Fc%2F2
+[/us/pl/109/356/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F356%2FtI
 [/us/stat/120/2029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2029
 [/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
 

@@ -47,7 +47,7 @@
 
         (4) purchase qualified loans and issue securities representing interests in, or obligations backed by, the qualified loans, guaranteed for the timely repayment of principal and interest.
 
-([Pub. L. 92–181, title VIII, § 8][/us/pl/92/181/s8].1, as added [Pub. L. 100–233, title VII, § 702][/us/pl/100/233/s702], Jan. 6, 1988, [101 Stat. 1687][/us/stat/101/1687]; amended [Pub. L. 104–105, title I, § 103][/us/pl/104/105/s103], Feb. 10, 1996, [110 Stat. 163][/us/stat/110/163].)
+([Pub. L. 92–181, title VIII][/us/pl/92/181/tVIII], § 8.1, as added [Pub. L. 100–233, title VII][/us/pl/100/233/tVII], § 702, Jan. 6, 1988, [101 Stat. 1687][/us/stat/101/1687]; amended [Pub. L. 104–105, title I][/us/pl/104/105/tI], § 103, Feb. 10, 1996, [110 Stat. 163][/us/stat/110/163].)
 
  __Amendments__ 
 
@@ -60,10 +60,10 @@
 ----------
 ----------
 
-[/us/pl/92/181/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs8
-[/us/pl/100/233/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs702
+[/us/pl/92/181/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtVIII
+[/us/pl/100/233/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtVII
 [/us/stat/101/1687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1687
-[/us/pl/104/105/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2Fs103
+[/us/pl/104/105/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2FtI
 [/us/stat/110/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F163
 [/us/pl/104/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105
 

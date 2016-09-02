@@ -91,7 +91,7 @@
 
         Federal Home Loan Bank Board regulations restricting the use of a balloon payment shall not apply to a loan, mortgage, advance, or credit sale to which this section applies.
 
-([Pub. L. 97–320, title III, § 341][/us/pl/97/320/s341], Oct. 15, 1982, [96 Stat. 1505][/us/stat/96/1505]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title IV, § 473\], Nov. 30, 1983, [97 Stat. 1237][/us/stat/97/1237].)
+([Pub. L. 97–320, title III][/us/pl/97/320/tIII], § 341, Oct. 15, 1982, [96 Stat. 1505][/us/stat/96/1505]; [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title IV, § 473\], Nov. 30, 1983, [97 Stat. 1237][/us/stat/97/1237].)
 
  __Codification__ 
 
@@ -117,9 +117,9 @@
 ----------
 
 [/us/usc/t42/s5402/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5402%2F6
-[/us/pl/97/320/s341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs341
+[/us/pl/97/320/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2FtIII
 [/us/stat/96/1505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1505
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1237
 [/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681

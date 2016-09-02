@@ -29,7 +29,7 @@
 
         (4) in significant reform and modernization of local recordkeeping of land title information.
 
-([Pub. L. 93–533, § 2][/us/pl/93/533/s2], Dec. 22, 1974, [88 Stat. 1724][/us/stat/88/1724].)
+([Pub. L. 93–533][/us/pl/93/533], § 2, Dec. 22, 1974, [88 Stat. 1724][/us/stat/88/1724].)
 
  __References in Text__ 
 
@@ -41,25 +41,25 @@
 
  __Effective Date__ 
 
-[Pub. L. 93–533, § 20][/us/pl/93/533/s20], formerly § 19, Dec. 22, 1974, [88 Stat. 1731][/us/stat/88/1731], renumbered § 20, [Pub. L. 94–205, § 10][/us/pl/94/205/s10], Jan. 2, 1976, [89 Stat. 1159][/us/stat/89/1159], provided that: 
+[Pub. L. 93–533][/us/pl/93/533], § 20, formerly § 19, Dec. 22, 1974, [88 Stat. 1731][/us/stat/88/1731], renumbered § 20, [Pub. L. 94–205][/us/pl/94/205], § 10, Jan. 2, 1976, [89 Stat. 1159][/us/stat/89/1159], provided that: 
 
 > “The provisions of this Act, and the amendments made thereby \[see Short Title note below\], shall become effective one hundred and eighty days after the date of the enactment of this Act \[Dec. 22, 1974\].”
 
  __Short Title of 1976 Amendment__ 
 
-[Pub. L. 94–205, § 1][/us/pl/94/205/s1], Jan. 2, 1976, [89 Stat. 1157][/us/stat/89/1157], provided: 
+[Pub. L. 94–205][/us/pl/94/205], § 1, Jan. 2, 1976, [89 Stat. 1157][/us/stat/89/1157], provided: 
 
 > “That this Act \[enacting [section 2617 of this title][/us/usc/t12/s2617], amending sections 2602, 2603, 2604, 2607, 2609 and 2616 of this title and [section 1631 of Title 15][/us/usc/t15/s1631], Commerce and Trade, repealing sections 2605 and 2606 of this title, enacting provisions set out as a note under [section 2602 of this title][/us/usc/t12/s2602] and amending provisions set out as a note under this section\] may be cited as the ‘Real Estate Settlement Procedures Act Amendments of 1975’.”
 
  __Short Title__ 
 
-[Pub. L. 93–533, § 1][/us/pl/93/533/s1], Dec. 22, 1974, [88 Stat. 1724][/us/stat/88/1724], provided that: 
+[Pub. L. 93–533][/us/pl/93/533], § 1, Dec. 22, 1974, [88 Stat. 1724][/us/stat/88/1724], provided that: 
 
 > “This Act \[enacting this chapter and sections 1730f and 1831b of this title and provisions set out as notes under this section and [section 1730f of this title][/us/usc/t12/s1730f]\] may be cited as the ‘Real Estate Settlement Procedures Act of 1974’.”
 
  __Simplification and Unification of Disclosures Required Under RESPA and TILA for Mortgage Transactions__ 
 
-[Pub. L. 104–208, div. A, title II, § 2101][/us/pl/104/208/s2101], Sept. 30, 1996, [110 Stat. 3009–398][/us/stat/110/3009-398], provided that:
+[Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], § 2101, Sept. 30, 1996, [110 Stat. 3009–398][/us/stat/110/3009-398], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -84,25 +84,25 @@
 ----------
 ----------
 
-[/us/pl/93/533/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F533%2Fs2
+[/us/pl/93/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F533
 [/us/stat/88/1724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1724
 [/us/pl/93/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F533
 [/us/stat/88/1724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1724
 [/us/pl/100/527/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F527%2Fs10
 [/us/usc/t38/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs301
-[/us/pl/93/533/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F533%2Fs20
+[/us/pl/93/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F533
 [/us/stat/88/1731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1731
-[/us/pl/94/205/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F205%2Fs10
+[/us/pl/94/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F205
 [/us/stat/89/1159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1159
-[/us/pl/94/205/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F205%2Fs1
+[/us/pl/94/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F205
 [/us/stat/89/1157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1157
 [/us/usc/t12/s2617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2617
 [/us/usc/t15/s1631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1631
 [/us/usc/t12/s2602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2602
-[/us/pl/93/533/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F533%2Fs1
+[/us/pl/93/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F533
 [/us/stat/88/1724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1724
 [/us/usc/t12/s1730f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1730f
-[/us/pl/104/208/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2101
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-398
 [/us/usc/t12/s2601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2601
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601

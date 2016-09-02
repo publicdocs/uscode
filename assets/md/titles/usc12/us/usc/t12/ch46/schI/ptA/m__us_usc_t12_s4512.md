@@ -89,7 +89,7 @@
 
         (3) have served as an executive officer or director of any regulated entity or entity-affiliated party at any time during the 3-year period preceding the date of appointment or designation of such individual as Director or Deputy Director, as applicable.
 
-([Pub. L. 102–550, title XIII, § 1312][/us/pl/102/550/s1312], as added [Pub. L. 110–289, div. A, title I, § 1101][/us/pl/110/289/s1101], July 30, 2008, [122 Stat. 2662][/us/stat/122/2662].)
+([Pub. L. 102–550, title XIII][/us/pl/102/550/tXIII], § 1312, as added [Pub. L. 110–289, div. A, title I][/us/pl/110/289/dA/tI], § 1101, July 30, 2008, [122 Stat. 2662][/us/stat/122/2662].)
 
  __References in Text__ 
 
@@ -97,7 +97,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 4512, [Pub. L. 102–550, title XIII, § 1312][/us/pl/102/550/s1312], Oct. 28, 1992, [106 Stat. 3945][/us/stat/106/3945], related to the Director and Deputy Director of the Office of Federal Housing Enterprise Oversight, prior to repeal by [Pub. L. 110–289, div. A, title I, § 1101][/us/pl/110/289/s1101], July 30, 2008, [122 Stat. 2661][/us/stat/122/2661].
+    A prior section 4512, [Pub. L. 102–550, title XIII][/us/pl/102/550/tXIII], § 1312, Oct. 28, 1992, [106 Stat. 3945][/us/stat/106/3945], related to the Director and Deputy Director of the Office of Federal Housing Enterprise Oversight, prior to repeal by [Pub. L. 110–289, div. A, title I][/us/pl/110/289/dA/tI], § 1101, July 30, 2008, [122 Stat. 2661][/us/stat/122/2661].
 
 ----------
 
@@ -107,13 +107,13 @@
 ----------
 
 [/us/usc/t12/s4513/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4513%2Fd
-[/us/pl/102/550/s1312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1312
-[/us/pl/110/289/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1101
+[/us/pl/102/550/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIII
+[/us/pl/110/289/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtI
 [/us/stat/122/2662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2662
 [/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
-[/us/pl/102/550/s1312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1312
+[/us/pl/102/550/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIII
 [/us/stat/106/3945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3945
-[/us/pl/110/289/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1101
+[/us/pl/110/289/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtI
 [/us/stat/122/2661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2661
 
 

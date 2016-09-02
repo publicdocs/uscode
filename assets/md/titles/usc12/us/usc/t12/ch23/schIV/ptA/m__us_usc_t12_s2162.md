@@ -77,19 +77,19 @@
 
             (C) in the case of participation certificates and allocated equities subject to retirement under a revolving cycle but that a System institution elects to retire out of order for application against a loan in default or otherwise as provided in this chapter, par or face value discounted, at a rate determined by the institution, to reflect the present value of the equity or interest as of the date of such retirement.
 
-([Pub. L. 92–181, title IV, § 4][/us/pl/92/181/s4].9A, as added [Pub. L. 100–233, title I, § 101][/us/pl/100/233/s101], Jan. 6, 1988, [101 Stat. 1572][/us/stat/101/1572]; amended [Pub. L. 100–399, title I, § 101(b)][/us/pl/100/399/s101/b]–(d), Aug. 17, 1988, [102 Stat. 989][/us/stat/102/989].)
+([Pub. L. 92–181, title IV][/us/pl/92/181/tIV], § 4.9A, as added [Pub. L. 100–233, title I][/us/pl/100/233/tI], § 101, Jan. 6, 1988, [101 Stat. 1572][/us/stat/101/1572]; amended [Pub. L. 100–399, title I][/us/pl/100/399/tI], § 101(b)–(d), Aug. 17, 1988, [102 Stat. 989][/us/stat/102/989].)
 
  __Prior Provisions__ 
 
-    A prior section 4.9A of [Pub. L. 92–181][/us/pl/92/181], which authorized a central reserve for Farm Credit System, was classified to [section 2161 of this title][/us/usc/t12/s2161] and was repealed by [Pub. L. 100–399, § 101(a)][/us/pl/100/399/s101/a].
+    A prior section 4.9A of [Pub. L. 92–181][/us/pl/92/181], which authorized a central reserve for Farm Credit System, was classified to [section 2161 of this title][/us/usc/t12/s2161] and was repealed by [Pub. L. 100–399][/us/pl/100/399], § 101(a).
 
  __Amendments__ 
 
-    1988—Subsec. (a). [Pub. L. 100–399, § 101(b)][/us/pl/100/399/s101/b], struck out provision that an institution whose capital stock is impaired coordinate retirement of stock under this section with the activities of the Assistance Board and the Financial Assistance Corporation.
+    1988—Subsec. (a). [Pub. L. 100–399][/us/pl/100/399], § 101(b), struck out provision that an institution whose capital stock is impaired coordinate retirement of stock under this section with the activities of the Assistance Board and the Financial Assistance Corporation.
 
-    Subsec. (c). [Pub. L. 100–399, § 101(c)][/us/pl/100/399/s101/c], inserted “stock” in subsec. heading and amended text generally. Prior to amendment, text read as follows: “If an institution is unable to retire eligible borrower stock at par value due to the freezing of such stock during a liquidation of the institution, the receiver of the institution shall retire such stock at par value as would have been retired in the ordinary course of business of the institution and the Financial Assistance Corporation, on request of the Assistance Board, shall provide the receiver with sufficient funds to enable the receiver to carry out this subsection.”
+    Subsec. (c). [Pub. L. 100–399][/us/pl/100/399], § 101(c), inserted “stock” in subsec. heading and amended text generally. Prior to amendment, text read as follows: “If an institution is unable to retire eligible borrower stock at par value due to the freezing of such stock during a liquidation of the institution, the receiver of the institution shall retire such stock at par value as would have been retired in the ordinary course of business of the institution and the Financial Assistance Corporation, on request of the Assistance Board, shall provide the receiver with sufficient funds to enable the receiver to carry out this subsection.”
 
-    Subsec. (d)(2)(B). [Pub. L. 100–399, § 101(d)][/us/pl/100/399/s101/d], in introductory provision substituted “issued or allocated” for “required to be purchased, and is purchased, as a condition of obtaining a loan made” and in cl. (i) substituted “[section 2154a of this title][/us/usc/t12/s2154a]” for “section 4.9B”.
+    Subsec. (d)(2)(B). [Pub. L. 100–399][/us/pl/100/399], § 101(d), in introductory provision substituted “issued or allocated” for “required to be purchased, and is purchased, as a condition of obtaining a loan made” and in cl. (i) substituted “[section 2154a of this title][/us/usc/t12/s2154a]” for “section 4.9B”.
 
  __Effective Date of 1988 Amendment__ 
 
@@ -104,17 +104,17 @@
 
 [/us/usc/t12/s2202b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2202b
 [/us/usc/t12/s2154a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2154a
-[/us/pl/92/181/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs4
-[/us/pl/100/233/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs101
+[/us/pl/92/181/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtIV
+[/us/pl/100/233/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtI
 [/us/stat/101/1572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1572
-[/us/pl/100/399/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs101%2Fb
+[/us/pl/100/399/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtI
 [/us/stat/102/989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F989
 [/us/pl/92/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181
 [/us/usc/t12/s2161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2161
-[/us/pl/100/399/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs101%2Fa
-[/us/pl/100/399/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs101%2Fb
-[/us/pl/100/399/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs101%2Fc
-[/us/pl/100/399/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs101%2Fd
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/usc/t12/s2154a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2154a
 [/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233

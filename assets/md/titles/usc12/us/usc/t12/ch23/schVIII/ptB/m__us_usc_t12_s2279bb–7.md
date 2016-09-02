@@ -35,7 +35,7 @@
 
         If the Corporation fails to carry out subsection (a) by the date required under paragraph (1) or (2) of subsection (a), the Corporation may not purchase a new qualified loan or issue or guarantee a new loan-backed security until the core capital of the Corporation is increased to an amount equal to or greater than $25,000,000.
 
-([Pub. L. 92–181, title VIII, § 8][/us/pl/92/181/s8].38, as added [Pub. L. 104–105, title I, § 117][/us/pl/104/105/s117], Feb. 10, 1996, [110 Stat. 168][/us/stat/110/168].)
+([Pub. L. 92–181, title VIII][/us/pl/92/181/tVIII], § 8.38, as added [Pub. L. 104–105, title I][/us/pl/104/105/tI], § 117, Feb. 10, 1996, [110 Stat. 168][/us/stat/110/168].)
 
 ----------
 
@@ -46,8 +46,8 @@
 
 [/us/usc/t12/s2279aa–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2279aa%E2%80%934
 [/us/usc/t12/s2279aa–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2279aa%E2%80%933
-[/us/pl/92/181/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs8
-[/us/pl/104/105/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2Fs117
+[/us/pl/92/181/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtVIII
+[/us/pl/104/105/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2FtI
 [/us/stat/110/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F168
 
 

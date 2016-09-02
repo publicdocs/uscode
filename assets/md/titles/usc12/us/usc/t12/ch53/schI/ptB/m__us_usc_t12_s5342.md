@@ -77,7 +77,7 @@
 
         The Office, in consultation with the Chairperson, may establish and maintain an academic and professional fellowship program, under which qualified academics and professionals shall be invited to spend not longer than 2 years at the Office, to perform research and to provide advanced training for Office personnel.
 
-([Pub. L. 111–203, title I, § 152][/us/pl/111/203/s152], July 21, 2010, [124 Stat. 1413][/us/stat/124/1413].)
+([Pub. L. 111–203, title I][/us/pl/111/203/tI], § 152, July 21, 2010, [124 Stat. 1413][/us/stat/124/1413].)
 
  __References in Text__ 
 
@@ -95,7 +95,7 @@
 ----------
 
 [/us/usc/t5/s3109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109%2Fb
-[/us/pl/111/203/s152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs152
+[/us/pl/111/203/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtI
 [/us/stat/124/1413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1413
 [/us/usc/t5/s5314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5314
 [/us/pl/111/203/s152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs152

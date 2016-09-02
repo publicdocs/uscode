@@ -39,7 +39,7 @@
 
         The Secretary of the Treasury shall report to Congress every 6 months on amounts received and transferred to the general fund under subsection (d).
 
-([Pub. L. 110–343, div. A, title I, § 106][/us/pl/110/343/s106], Oct. 3, 2008, [122 Stat. 3773][/us/stat/122/3773]; [Pub. L. 111–203, title XIII, § 1303][/us/pl/111/203/s1303], July 21, 2010, [124 Stat. 2133][/us/stat/124/2133].)
+([Pub. L. 110–343, div. A, title I][/us/pl/110/343/dA/tI], § 106, Oct. 3, 2008, [122 Stat. 3773][/us/stat/122/3773]; [Pub. L. 111–203, title XIII][/us/pl/111/203/tXIII], § 1303, July 21, 2010, [124 Stat. 2133][/us/stat/124/2133].)
 
  __References in Text__ 
 
@@ -64,9 +64,9 @@
 [/us/usc/t12/s5230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5230
 [/us/usc/t12/s5230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5230
 [/us/usc/t12/s5230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5230
-[/us/pl/110/343/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs106
+[/us/pl/110/343/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdA%2FtI
 [/us/stat/122/3773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3773
-[/us/pl/111/203/s1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1303
+[/us/pl/111/203/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtXIII
 [/us/stat/124/2133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2133
 [/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
 [/us/stat/122/3765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3765

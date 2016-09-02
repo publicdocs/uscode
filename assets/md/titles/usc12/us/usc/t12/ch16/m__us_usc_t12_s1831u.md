@@ -329,7 +329,7 @@
 
             The term “resulting bank” means a bank that has resulted from an interstate merger transaction under this section.
 
-([Sept. 21, 1950, ch. 967, § 2][/us/act/1950-09-21/ch967/s2]\[44\], as added [Pub. L. 103–328, title I, § 102(a)][/us/pl/103/328/s102/a], Sept. 29, 1994, [108 Stat. 2343][/us/stat/108/2343]; amended [Pub. L. 106–102, title VII, § 731][/us/pl/106/102/s731], Nov. 12, 1999, [113 Stat. 1477][/us/stat/113/1477]; [Pub. L. 111–32, title V, § 504(a)][/us/pl/111/32/s504/a], June 24, 2009, [123 Stat. 1880][/us/stat/123/1880]; [Pub. L. 111–83, title V, § 563(a)][/us/pl/111/83/s563/a], (b), Oct. 28, 2009, [123 Stat. 2183][/us/stat/123/2183]; [Pub. L. 111–203, title VI, § 607(b)][/us/pl/111/203/s607/b], July 21, 2010, [124 Stat. 1608][/us/stat/124/1608].)
+([Sept. 21, 1950, ch. 967][/us/act/1950-09-21/ch967], § 2\[44\], as added [Pub. L. 103–328, title I][/us/pl/103/328/tI], § 102(a), Sept. 29, 1994, [108 Stat. 2343][/us/stat/108/2343]; amended [Pub. L. 106–102, title VII][/us/pl/106/102/tVII], § 731, Nov. 12, 1999, [113 Stat. 1477][/us/stat/113/1477]; [Pub. L. 111–32, title V][/us/pl/111/32/tV], § 504(a), June 24, 2009, [123 Stat. 1880][/us/stat/123/1880]; [Pub. L. 111–83, title V][/us/pl/111/83/tV], § 563(a), (b), Oct. 28, 2009, [123 Stat. 2183][/us/stat/123/2183]; [Pub. L. 111–203, title VI][/us/pl/111/203/tVI], § 607(b), July 21, 2010, [124 Stat. 1608][/us/stat/124/1608].)
 
  __References in Text__ 
 
@@ -339,29 +339,29 @@
 
     2010—Subsec. (b)(4)(B). [Pub. L. 111–203][/us/pl/111/203] substituted “will be well capitalized and well managed” for “will continue to be adequately capitalized and adequately managed”.
 
-    2009—Subsec. (f)(1). [Pub. L. 111–83, § 563(a)(1)][/us/pl/111/83/s563/a/1], inserted “(or in the case of a governmental entity located in such State, paid)” after “received, or reserved” in introductory provisions.
+    2009—Subsec. (f)(1). [Pub. L. 111–83][/us/pl/111/83], § 563(a)(1), inserted “(or in the case of a governmental entity located in such State, paid)” after “received, or reserved” in introductory provisions.
 
     [Pub. L. 111–32][/us/pl/111/32] substituted “evidence of debt by—” for “evidence of debt by”, inserted subpar. (A) designation, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, realigned margins, and added subpar. (B).
 
-    Subsec. (f)(1)(B). [Pub. L. 111–83, § 563(a)(2)(A)][/us/pl/111/83/s563/a/2/A], substituted “governmental entity located in such State or any person that is not a depository institution described in subparagraph (A) doing business in such State” for “nondepository institution operating in such State” in introductory provisions.
+    Subsec. (f)(1)(B). [Pub. L. 111–83][/us/pl/111/83], § 563(a)(2)(A), substituted “governmental entity located in such State or any person that is not a depository institution described in subparagraph (A) doing business in such State” for “nondepository institution operating in such State” in introductory provisions.
 
-    Subsec. (f)(1)(B)(i)(III)(aa). [Pub. L. 111–83, § 563(a)(2)(C)(i)(I)][/us/pl/111/83/s563/a/2/C/i/I], inserted “and” at end.
+    Subsec. (f)(1)(B)(i)(III)(aa). [Pub. L. 111–83][/us/pl/111/83], § 563(a)(2)(C)(i)(I), inserted “and” at end.
 
-    Subsec. (f)(1)(B)(i)(III)(bb). [Pub. L. 111–83, § 563(a)(2)(C)(i)(II)][/us/pl/111/83/s563/a/2/C/i/II], struck out “, to facilitate the uniform accessibility of provisions of the American Recovery and Reinvestment Act of 2009” after “section 42 of such title”.
+    Subsec. (f)(1)(B)(i)(III)(bb). [Pub. L. 111–83][/us/pl/111/83], § 563(a)(2)(C)(i)(II), struck out “, to facilitate the uniform accessibility of provisions of the American Recovery and Reinvestment Act of 2009” after “section 42 of such title”.
 
-    Subsec. (f)(1)(B)(i)(III)(cc). [Pub. L. 111–83, § 563(a)(2)(C)(i)(III)][/us/pl/111/83/s563/a/2/C/i/III], struck out item (cc), which read as follows: “the issuance of bonds and obligations issued under that Act, to facilitate economic development, higher education, and improvements to infrastructure, and the issuance of bonds and obligations issued under any provision of law to further the same; and”.
+    Subsec. (f)(1)(B)(i)(III)(cc). [Pub. L. 111–83][/us/pl/111/83], § 563(a)(2)(C)(i)(III), struck out item (cc), which read as follows: “the issuance of bonds and obligations issued under that Act, to facilitate economic development, higher education, and improvements to infrastructure, and the issuance of bonds and obligations issued under any provision of law to further the same; and”.
 
-    Subsec. (f)(1)(B)(i)(IV). [Pub. L. 111–83, § 563(a)(2)(C)(ii)][/us/pl/111/83/s563/a/2/C/ii], added subcl. (IV).
+    Subsec. (f)(1)(B)(i)(IV). [Pub. L. 111–83][/us/pl/111/83], § 563(a)(2)(C)(ii), added subcl. (IV).
 
-    Subsec. (f)(1)(B)(ii), (iii). [Pub. L. 111–83, § 563(a)(2)(B)][/us/pl/111/83/s563/a/2/B], (D), added cl. (ii) and redesignated former cl. (ii) as (iii).
+    Subsec. (f)(1)(B)(ii), (iii). [Pub. L. 111–83][/us/pl/111/83], § 563(a)(2)(B), (D), added cl. (ii) and redesignated former cl. (ii) as (iii).
 
-    Subsec. (f)(2). [Pub. L. 111–83, § 563(b)][/us/pl/111/83/s563/b], designated existing provisions as subpar. (A), inserted heading, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), realigned margins, and added subpar. (B).
+    Subsec. (f)(2). [Pub. L. 111–83][/us/pl/111/83], § 563(b), designated existing provisions as subpar. (A), inserted heading, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), realigned margins, and added subpar. (B).
 
     1999—Subsecs. (f), (g). [Pub. L. 106–102][/us/pl/106/102] added subsec. (f) and redesignated former subsec. (f) as (g).
 
  __Effective Date of 2010 Amendment__ 
 
-[Pub. L. 111–203, title VI, § 607(c)][/us/pl/111/203/s607/c], July 21, 2010, [124 Stat. 1608][/us/stat/124/1608], provided that: 
+[Pub. L. 111–203, title VI][/us/pl/111/203/tVI], § 607(c), July 21, 2010, [124 Stat. 1608][/us/stat/124/1608], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 1842 of this title][/us/usc/t12/s1842]\] shall take effect on the transfer date.”
 
@@ -369,11 +369,11 @@
 
  __Effective Date of 2009 Amendment__ 
 
-[Pub. L. 111–83, title V, § 563(c)][/us/pl/111/83/s563/c], Oct. 28, 2009, [123 Stat. 2184][/us/stat/123/2184], provided that: 
+[Pub. L. 111–83, title V][/us/pl/111/83/tV], § 563(c), Oct. 28, 2009, [123 Stat. 2184][/us/stat/123/2184], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply with respect to contracts consummated during the period beginning on the date of enactment of this Act \[Oct. 28, 2009\] and ending on December 31, 2010.”
 
-[Pub. L. 111–32, title V, § 504(b)][/us/pl/111/32/s504/b], June 24, 2009, [123 Stat. 1880][/us/stat/123/1880], provided that: 
+[Pub. L. 111–32, title V][/us/pl/111/32/tV], § 504(b), June 24, 2009, [123 Stat. 1880][/us/stat/123/1880], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall apply with respect to contracts consummated during the period beginning on the date of enactment of this Act \[June 24, 2009\] and ending on December 31, 2010.”
 
@@ -396,39 +396,39 @@
 [/us/usc/t15/s45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs45
 [/us/usc/t12/s1828/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1828%2Fc%2F3
 [/us/usc/t12/s1828/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1828%2Fc%2F2
-[/us/act/1950-09-21/ch967/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967%2Fs2
-[/us/pl/103/328/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328%2Fs102%2Fa
+[/us/act/1950-09-21/ch967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967
+[/us/pl/103/328/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328%2FtI
 [/us/stat/108/2343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2343
-[/us/pl/106/102/s731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs731
+[/us/pl/106/102/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtVII
 [/us/stat/113/1477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1477
-[/us/pl/111/32/s504/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F32%2Fs504%2Fa
+[/us/pl/111/32/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F32%2FtV
 [/us/stat/123/1880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1880
-[/us/pl/111/83/s563/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F83%2Fs563%2Fa
+[/us/pl/111/83/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F83%2FtV
 [/us/stat/123/2183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2183
-[/us/pl/111/203/s607/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs607%2Fb
+[/us/pl/111/203/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVI
 [/us/stat/124/1608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1608
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/stat/123/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F115
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
-[/us/pl/111/83/s563/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F83%2Fs563%2Fa%2F1
+[/us/pl/111/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F83
 [/us/pl/111/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F32
-[/us/pl/111/83/s563/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F83%2Fs563%2Fa%2F2%2FA
-[/us/pl/111/83/s563/a/2/C/i/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F83%2Fs563%2Fa%2F2%2FC%2Fi%2FI
-[/us/pl/111/83/s563/a/2/C/i/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F83%2Fs563%2Fa%2F2%2FC%2Fi%2FII
-[/us/pl/111/83/s563/a/2/C/i/III]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F83%2Fs563%2Fa%2F2%2FC%2Fi%2FIII
-[/us/pl/111/83/s563/a/2/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F83%2Fs563%2Fa%2F2%2FC%2Fii
-[/us/pl/111/83/s563/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F83%2Fs563%2Fa%2F2%2FB
-[/us/pl/111/83/s563/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F83%2Fs563%2Fb
+[/us/pl/111/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F83
+[/us/pl/111/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F83
+[/us/pl/111/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F83
+[/us/pl/111/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F83
+[/us/pl/111/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F83
+[/us/pl/111/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F83
+[/us/pl/111/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F83
 [/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102
-[/us/pl/111/203/s607/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs607%2Fc
+[/us/pl/111/203/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVI
 [/us/stat/124/1608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1608
 [/us/usc/t12/s1842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1842
 [/us/pl/111/203/s607/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs607%2Fc
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301
-[/us/pl/111/83/s563/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F83%2Fs563%2Fc
+[/us/pl/111/83/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F83%2FtV
 [/us/stat/123/2184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2184
-[/us/pl/111/32/s504/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F32%2Fs504%2Fb
+[/us/pl/111/32/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F32%2FtV
 [/us/stat/123/1880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1880
 
 

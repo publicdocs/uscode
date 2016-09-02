@@ -17,7 +17,7 @@
 
     Nothing in this chapter contained shall be construed as taking away any powers heretofore vested by law in the Secretary of the Treasury which relate to the supervision, management, and control of the Treasury Department and bureaus under such department, and wherever any power vested by this chapter in the Board of Governors of the Federal Reserve System or the Federal reserve agent appears to conflict with the powers of the Secretary of the Treasury, such powers shall be exercised subject to the supervision and control of the Secretary.
 
-([Dec. 23, 1913, ch. 6, § 10][/us/act/1913-12-23/ch6/s10] (par.), [38 Stat. 261][/us/stat/38/261]; [June 3, 1922, ch. 205][/us/act/1922-06-03/ch205], [42 Stat. 621][/us/stat/42/621]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 203(a), [49 Stat. 704][/us/stat/49/704].)
+([Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 10 (par.), [38 Stat. 261][/us/stat/38/261]; [June 3, 1922, ch. 205][/us/act/1922-06-03/ch205], [42 Stat. 621][/us/stat/42/621]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 203(a), [49 Stat. 704][/us/stat/49/704].)
 
  __References in Text__ 
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/act/1913-12-23/ch6/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs10
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
 [/us/stat/38/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F261
 [/us/act/1922-06-03/ch205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-06-03%2Fch205
 [/us/stat/42/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F621

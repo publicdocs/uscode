@@ -61,11 +61,11 @@
 
         The rules of the Bureau under this section shall provide, with respect to an extension of credit secured by residential real estate or a dwelling, if documented income of the borrower, including income from a small business, is a repayment source for an extension of credit secured by residential real estate or a dwelling, the creditor may consider the seasonality and irregularity of such income in the underwriting of and scheduling of payments for such credit.
 
-([Pub. L. 111–203, title X, § 1031][/us/pl/111/203/s1031], July 21, 2010, [124 Stat. 2005][/us/stat/124/2005].)
+([Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1031, July 21, 2010, [124 Stat. 2005][/us/stat/124/2005].)
 
  __Effective Date__ 
 
-[Pub. L. 111–203, title X, § 1037][/us/pl/111/203/s1037], July 21, 2010, [124 Stat. 2011][/us/stat/124/2011], provided that: 
+[Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1037, July 21, 2010, [124 Stat. 2011][/us/stat/124/2011], provided that: 
 
 > “This subtitle \[subtitle C (§§ 1031–1037), enacting this part\] shall take effect on the designated transfer date.”
 
@@ -78,9 +78,9 @@
 ----------
 ----------
 
-[/us/pl/111/203/s1031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1031
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2005
-[/us/pl/111/203/s1037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1037
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2011
 [/us/usc/t12/s5481/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5481%2F9
 [/us/usc/t12/s5582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5582

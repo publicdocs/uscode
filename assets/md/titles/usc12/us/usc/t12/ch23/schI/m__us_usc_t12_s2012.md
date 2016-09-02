@@ -17,11 +17,11 @@
 
     Each Farm Credit Bank shall elect a board of directors of such number, for such term, in such manner, and with such qualifications, as may be required in its bylaws, except that, at least one member shall be elected by the other directors, which member shall not be a director, officer, employee, or stockholder of a System institution.
 
-([Pub. L. 92–181, title I, § 1][/us/pl/92/181/s1].4, as added [Pub. L. 100–233, title IV, § 401][/us/pl/100/233/s401], Jan. 6, 1988, [101 Stat. 1622][/us/stat/101/1622]; amended [Pub. L. 100–399, title IV, § 401(c)][/us/pl/100/399/s401/c], Aug. 17, 1988, [102 Stat. 995][/us/stat/102/995].)
+([Pub. L. 92–181, title I][/us/pl/92/181/tI], § 1.4, as added [Pub. L. 100–233, title IV][/us/pl/100/233/tIV], § 401, Jan. 6, 1988, [101 Stat. 1622][/us/stat/101/1622]; amended [Pub. L. 100–399, title IV][/us/pl/100/399/tIV], § 401(c), Aug. 17, 1988, [102 Stat. 995][/us/stat/102/995].)
 
  __Prior Provisions__ 
 
-    A prior section 2012, [Pub. L. 92–181, title I, § 1][/us/pl/92/181/s1].4, Dec. 10, 1971, [85 Stat. 584][/us/stat/85/584]; [Pub. L. 96–592, title I, § 101][/us/pl/96/592/s101], Dec. 24, 1980, [94 Stat. 3437][/us/stat/94/3437]; [Pub. L. 99–205, title II, § 205(d)(1)][/us/pl/99/205/s205/d/1], Dec. 23, 1985, [99 Stat. 1703][/us/stat/99/1703]; [Pub. L. 100–233, title VII, § 705(a)][/us/pl/100/233/s705/a], title VIII, § 802(b), Jan. 6, 1988, [101 Stat. 1706][/us/stat/101/1706], 1710; [Pub. L. 100–399, title VI, § 604][/us/pl/100/399/s604], Aug. 17, 1988, [102 Stat. 1006][/us/stat/102/1006], related to corporate existence and general corporate powers, prior to the general amendment of this subchapter by [Pub. L. 100–233, § 401][/us/pl/100/233/s401].
+    A prior section 2012, [Pub. L. 92–181, title I][/us/pl/92/181/tI], § 1.4, Dec. 10, 1971, [85 Stat. 584][/us/stat/85/584]; [Pub. L. 96–592, title I][/us/pl/96/592/tI], § 101, Dec. 24, 1980, [94 Stat. 3437][/us/stat/94/3437]; [Pub. L. 99–205, title II][/us/pl/99/205/tII], § 205(d)(1), Dec. 23, 1985, [99 Stat. 1703][/us/stat/99/1703]; [Pub. L. 100–233, title VII][/us/pl/100/233/tVII], § 705(a), title VIII, § 802(b), Jan. 6, 1988, [101 Stat. 1706][/us/stat/101/1706], 1710; [Pub. L. 100–399, title VI][/us/pl/100/399/tVI], § 604, Aug. 17, 1988, [102 Stat. 1006][/us/stat/102/1006], related to corporate existence and general corporate powers, prior to the general amendment of this subchapter by [Pub. L. 100–233][/us/pl/100/233], § 401.
 
  __Amendments__ 
 
@@ -38,22 +38,22 @@
 ----------
 ----------
 
-[/us/pl/92/181/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs1
-[/us/pl/100/233/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs401
+[/us/pl/92/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtI
+[/us/pl/100/233/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtIV
 [/us/stat/101/1622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1622
-[/us/pl/100/399/s401/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs401%2Fc
+[/us/pl/100/399/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtIV
 [/us/stat/102/995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F995
-[/us/pl/92/181/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs1
+[/us/pl/92/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtI
 [/us/stat/85/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F584
-[/us/pl/96/592/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592%2Fs101
+[/us/pl/96/592/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592%2FtI
 [/us/stat/94/3437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3437
-[/us/pl/99/205/s205/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2Fs205%2Fd%2F1
+[/us/pl/99/205/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2FtII
 [/us/stat/99/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1703
-[/us/pl/100/233/s705/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs705%2Fa
+[/us/pl/100/233/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtVII
 [/us/stat/101/1706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1706
-[/us/pl/100/399/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs604
+[/us/pl/100/399/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtVI
 [/us/stat/102/1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1006
-[/us/pl/100/233/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs401
+[/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
 [/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/100/233/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs401

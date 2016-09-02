@@ -11,17 +11,17 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch7/schII–B/m__us_usc_t12_ch7_schII–B.md) | [Next](./../../../../..//us/usc/t12/ch7/schII–B/m__us_usc_t12_s1020o.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1020n%E2%80%931)
+[Previous](./../../../../..//us/usc/t12/ch7/schII–B/m__us_usc_t12_s1020i...1020n.md) | [Next](./../../../../..//us/usc/t12/ch7/schII–B/m__us_usc_t12_s1020o.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1020n%E2%80%931)
 
 ## § 1020n–1. Omitted
 
  __Codification__ 
 
-    Section, acts [June 30, 1939, ch. 253][/us/act/1939-06-30/ch253], title II, [53 Stat. 979][/us/stat/53/979]; [June 25, 1940, ch. 421][/us/act/1940-06-25/ch421], [54 Stat. 569][/us/stat/54/569]; [July 1, 1941, ch. 267][/us/act/1941-07-01/ch267], [55 Stat. 444][/us/stat/55/444]; [July 22, 1942, ch. 516][/us/act/1942-07-22/ch516], [56 Stat. 701][/us/stat/56/701], related to the personal liability of Federal employees approving loans fraudulently obtained under sections 1020i to 1020n and 1020o of this title, which were repealed by [act Aug. 14, 1946, ch. 964, § 2(a)(2)][/us/act/1946-08-14/ch964/s2/a/2], [60 Stat. 1062][/us/stat/60/1062].
+    Section, acts [June 30, 1939, ch. 253][/us/act/1939-06-30/ch253], title II, [53 Stat. 979][/us/stat/53/979]; [June 25, 1940, ch. 421][/us/act/1940-06-25/ch421], [54 Stat. 569][/us/stat/54/569]; [July 1, 1941, ch. 267][/us/act/1941-07-01/ch267], [55 Stat. 444][/us/stat/55/444]; [July 22, 1942, ch. 516][/us/act/1942-07-22/ch516], [56 Stat. 701][/us/stat/56/701], related to the personal liability of Federal employees approving loans fraudulently obtained under sections 1020i to 1020n and 1020o of this title, which were repealed by [act Aug. 14, 1946, ch. 964][/us/act/1946-08-14/ch964], § 2(a)(2), [60 Stat. 1062][/us/stat/60/1062].
 
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch7/schII–B/m__us_usc_t12_ch7_schII–B.md) | [Next](./../../../../..//us/usc/t12/ch7/schII–B/m__us_usc_t12_s1020o.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1020n%E2%80%931)
+[Previous](./../../../../..//us/usc/t12/ch7/schII–B/m__us_usc_t12_s1020i...1020n.md) | [Next](./../../../../..//us/usc/t12/ch7/schII–B/m__us_usc_t12_s1020o.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1020n%E2%80%931)
 
 ----------
 ----------
@@ -34,7 +34,7 @@
 [/us/stat/55/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F444
 [/us/act/1942-07-22/ch516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-07-22%2Fch516
 [/us/stat/56/701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F701
-[/us/act/1946-08-14/ch964/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-14%2Fch964%2Fs2%2Fa%2F2
+[/us/act/1946-08-14/ch964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-14%2Fch964
 [/us/stat/60/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1062
 
 

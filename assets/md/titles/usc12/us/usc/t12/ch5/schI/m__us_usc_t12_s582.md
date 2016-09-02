@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch5/schI/m__us_usc_t12_s581.md) | [Next](./../../../../..//us/usc/t12/ch5/schII/m__us_usc_t12_ch5_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs582)
+[Previous](./../../../../..//us/usc/t12/ch5/schI/m__us_usc_t12_s581.md) | [Next](./../../../../..//us/usc/t12/ch5/schI/m__us_usc_t12_s583...588d.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs582)
 
 ## § 582. Receipt of United States or bank notes as collateral
 
@@ -23,77 +23,14 @@
 
     R.S. § 5207 derived from [act Feb. 19, 1869, ch. 32][/us/act/1869-02-19/ch32], [15 Stat. 270][/us/stat/15/270].
 
-§§ 583 to 588d. __Repealed.__  __[__  __June 25, 1948, ch. 645, § 21__  __][/us/act/1948-06-25/ch645/s21]__  __,__  __[__  __62 Stat. 862__  __][/us/stat/62/862]__  __, eff.__  __Sept. 1, 1948__ 
-
-    Section 583, R.S. § 5243; [act Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title III, § 318, [49 Stat. 712][/us/stat/49/712], related to use of words “National”, “Federal”, or “United States”. See [section 709 of Title 18][/us/usc/t18/s709], Crimes and Criminal Procedure.
-
-    Section 584, [act May 24, 1926, ch. 377, § 1][/us/act/1926-05-24/ch377/s1], [44 Stat. 628][/us/stat/44/628], related to spurious advertisements or representations as to Federal farm loans and bonds. See [section 709 of Title 18][/us/usc/t18/s709], Crimes and Criminal Procedure.
-
-    Section 585, acts [May 24, 1926, ch. 377, § 2][/us/act/1926-05-24/ch377/s2], [44 Stat. 628][/us/stat/44/628]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title III, § 332, [49 Stat. 719][/us/stat/49/719], related to use of words “Federal”, “United States”, “Deposit Insurance”, “reserve”. See [section 709 of Title 18][/us/usc/t18/s709], Crimes and Criminal Procedure.
-
-    Section 586, [act May 24, 1926, ch. 377, § 3][/us/act/1926-05-24/ch377/s3], [44 Stat. 628][/us/stat/44/628], related to false advertisements or representations as to membership in Federal Reserve System. See [section 709 of Title 18][/us/usc/t18/s709], Crimes and Criminal Procedure.
-
-    Section 587, acts [May 24, 1926, ch. 377, § 4][/us/act/1926-05-24/ch377/s4], [44 Stat. 628][/us/stat/44/628]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title III, § 332, [49 Stat. 719][/us/stat/49/719], related to penalties for violations of former sections 584–586. See [section 709 of Title 18][/us/usc/t18/s709], Crimes and Criminal Procedure.
-
-    Section 588, [act May 24, 1926, ch. 377, § 5][/us/act/1926-05-24/ch377/s5], [44 Stat. 629][/us/stat/44/629], related to separability of former sections 584 to 587.
-
-    Section 588a, acts [May 18, 1934, ch. 304, § 1][/us/act/1934-05-18/ch304/s1], [48 Stat. 783][/us/stat/48/783]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title III, § 333, [49 Stat. 720][/us/stat/49/720], defined “bank”. See [section 2113 of Title 18][/us/usc/t18/s2113], Crimes and Criminal Procedure.
-
-    Section 588b, acts [May 18, 1934, ch. 304, § 2][/us/act/1934-05-18/ch304/s2], [48 Stat. 783][/us/stat/48/783]; [Aug. 24, 1937, ch. 747][/us/act/1937-08-24/ch747], [50 Stat. 749][/us/stat/50/749]; [June 29, 1940, ch. 455][/us/act/1940-06-29/ch455], [54 Stat. 695][/us/stat/54/695], related to robbery of bank. See [section 2113 of Title 18][/us/usc/t18/s2113], Crimes and Criminal Procedure.
-
-    Section 588c, [act May 18, 1934, ch. 304, § 3][/us/act/1934-05-18/ch304/s3], [48 Stat. 783][/us/stat/48/783], related to killing or kidnapping as incident to robbery of a bank. See [section 2113 of Title 18][/us/usc/t18/s2113], Crimes and Criminal Procedure.
-
-    Section 588d, [act May 18, 1934, ch. 304, § 4][/us/act/1934-05-18/ch304/s4], [48 Stat. 783][/us/stat/48/783], related to jurisdiction of bank crimes. See [section 3231 of Title 18][/us/usc/t18/s3231], Crimes and Criminal Procedure.
-
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch5/schI/m__us_usc_t12_s581.md) | [Next](./../../../../..//us/usc/t12/ch5/schII/m__us_usc_t12_ch5_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs582)
+[Previous](./../../../../..//us/usc/t12/ch5/schI/m__us_usc_t12_s581.md) | [Next](./../../../../..//us/usc/t12/ch5/schI/m__us_usc_t12_s583...588d.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs582)
 
 ----------
 ----------
 
 [/us/act/1869-02-19/ch32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1869-02-19%2Fch32
 [/us/stat/15/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F15%2F270
-[/us/act/1948-06-25/ch645/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645%2Fs21
-[/us/stat/62/862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F862
-[/us/act/1935-08-23/ch614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch614
-[/us/stat/49/712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F712
-[/us/usc/t18/s709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs709
-[/us/act/1926-05-24/ch377/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-24%2Fch377%2Fs1
-[/us/stat/44/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F628
-[/us/usc/t18/s709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs709
-[/us/act/1926-05-24/ch377/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-24%2Fch377%2Fs2
-[/us/stat/44/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F628
-[/us/act/1935-08-23/ch614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch614
-[/us/stat/49/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F719
-[/us/usc/t18/s709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs709
-[/us/act/1926-05-24/ch377/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-24%2Fch377%2Fs3
-[/us/stat/44/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F628
-[/us/usc/t18/s709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs709
-[/us/act/1926-05-24/ch377/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-24%2Fch377%2Fs4
-[/us/stat/44/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F628
-[/us/act/1935-08-23/ch614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch614
-[/us/stat/49/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F719
-[/us/usc/t18/s709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs709
-[/us/act/1926-05-24/ch377/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-24%2Fch377%2Fs5
-[/us/stat/44/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F629
-[/us/act/1934-05-18/ch304/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-05-18%2Fch304%2Fs1
-[/us/stat/48/783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F783
-[/us/act/1935-08-23/ch614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch614
-[/us/stat/49/720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F720
-[/us/usc/t18/s2113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2113
-[/us/act/1934-05-18/ch304/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-05-18%2Fch304%2Fs2
-[/us/stat/48/783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F783
-[/us/act/1937-08-24/ch747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-24%2Fch747
-[/us/stat/50/749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F749
-[/us/act/1940-06-29/ch455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-29%2Fch455
-[/us/stat/54/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F695
-[/us/usc/t18/s2113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2113
-[/us/act/1934-05-18/ch304/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-05-18%2Fch304%2Fs3
-[/us/stat/48/783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F783
-[/us/usc/t18/s2113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2113
-[/us/act/1934-05-18/ch304/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-05-18%2Fch304%2Fs4
-[/us/stat/48/783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F783
-[/us/usc/t18/s3231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3231
 
 

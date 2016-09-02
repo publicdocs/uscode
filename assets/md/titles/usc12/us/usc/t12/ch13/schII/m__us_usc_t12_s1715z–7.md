@@ -111,11 +111,11 @@
 
             (B) the General Insurance Fund established under [section 1735c of this title][/us/usc/t12/s1735c].
 
-([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title II, § 242, as added [Pub. L. 90–448, title XV, § 1501][/us/pl/90/448/s1501], Aug. 1, 1968, [82 Stat. 599][/us/stat/82/599]; amended [Pub. L. 91–609, title I][/us/pl/91/609], §§ 109, 110(a), Dec. 31, 1970, [84 Stat. 1772][/us/stat/84/1772]; [Pub. L. 93–383, title III, § 304(i)][/us/pl/93/383/s304/i], Aug. 22, 1974, [88 Stat. 678][/us/stat/88/678]; [Pub. L. 95–128, title III, § 308][/us/pl/95/128/s308], Oct. 12, 1977, [91 Stat. 1135][/us/stat/91/1135]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 96–153, title III, § 315][/us/pl/96/153/s315], Dec. 21, 1979, [93 Stat. 1117][/us/stat/93/1117]; [Pub. L. 96–399, title III, § 310(h)][/us/pl/96/399/s310/h], Oct. 8, 1980, [94 Stat. 1643][/us/stat/94/1643]; [Pub. L. 97–35, title III, § 339H][/us/pl/97/35/s339H], Aug. 13, 1981, [95 Stat. 418][/us/stat/95/418]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title IV, §§ 404(b)(15), 436\], Nov. 30, 1983, [97 Stat. 1210][/us/stat/97/1210], 1222; [Pub. L. 98–479, title II][/us/pl/98/479], §§ 201(a)(1), 204(a)(13), Oct. 17, 1984, [98 Stat. 2227][/us/stat/98/2227], 2232; [Pub. L. 100–242, title IV][/us/pl/100/242], §§ 411(a), 412(a)–(d), Feb. 5, 1988, [101 Stat. 1905][/us/stat/101/1905], 1906; [Pub. L. 108–91][/us/pl/108/91], §§ 2(a), 3(a), Oct. 3, 2003, [117 Stat. 1158][/us/stat/117/1158]; [Pub. L. 109–240, § 2][/us/pl/109/240/s2], July 10, 2006, [120 Stat. 515][/us/stat/120/515]; [Pub. L. 113–76, div. L, title II, § 233][/us/pl/113/76/s233], Jan. 17, 2014, [128 Stat. 634][/us/stat/128/634].)
+([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title II, § 242, as added [Pub. L. 90–448, title XV][/us/pl/90/448/tXV], § 1501, Aug. 1, 1968, [82 Stat. 599][/us/stat/82/599]; amended [Pub. L. 91–609, title I][/us/pl/91/609/tI], §§ 109, 110(a), Dec. 31, 1970, [84 Stat. 1772][/us/stat/84/1772]; [Pub. L. 93–383, title III][/us/pl/93/383/tIII], § 304(i), Aug. 22, 1974, [88 Stat. 678][/us/stat/88/678]; [Pub. L. 95–128, title III][/us/pl/95/128/tIII], § 308, Oct. 12, 1977, [91 Stat. 1135][/us/stat/91/1135]; [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 96–153, title III][/us/pl/96/153/tIII], § 315, Dec. 21, 1979, [93 Stat. 1117][/us/stat/93/1117]; [Pub. L. 96–399, title III][/us/pl/96/399/tIII], § 310(h), Oct. 8, 1980, [94 Stat. 1643][/us/stat/94/1643]; [Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 339H, Aug. 13, 1981, [95 Stat. 418][/us/stat/95/418]; [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title IV, §§ 404(b)(15), 436\], Nov. 30, 1983, [97 Stat. 1210][/us/stat/97/1210], 1222; [Pub. L. 98–479, title II][/us/pl/98/479/tII], §§ 201(a)(1), 204(a)(13), Oct. 17, 1984, [98 Stat. 2227][/us/stat/98/2227], 2232; [Pub. L. 100–242, title IV][/us/pl/100/242/tIV], §§ 411(a), 412(a)–(d), Feb. 5, 1988, [101 Stat. 1905][/us/stat/101/1905], 1906; [Pub. L. 108–91][/us/pl/108/91], §§ 2(a), 3(a), Oct. 3, 2003, [117 Stat. 1158][/us/stat/117/1158]; [Pub. L. 109–240][/us/pl/109/240], § 2, July 10, 2006, [120 Stat. 515][/us/stat/120/515]; [Pub. L. 113–76, div. L, title II][/us/pl/113/76/dL/tII], § 233, Jan. 17, 2014, [128 Stat. 634][/us/stat/128/634].)
 
  __References in Text__ 
 
-    The Public Health Service Act, referred to in subsec. (c), is [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], [58 Stat. 682][/us/stat/58/682], as amended. Title VII of the Act was added by [act July 30, 1956, ch. 779, § 2][/us/act/1956-07-30/ch779/s2], [70 Stat. 717][/us/stat/70/717], and is classified generally to subchapter V (§ 292 et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42][/us/usc/t42/s201] and Tables.
+    The Public Health Service Act, referred to in subsec. (c), is [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], [58 Stat. 682][/us/stat/58/682], as amended. Title VII of the Act was added by [act July 30, 1956, ch. 779][/us/act/1956-07-30/ch779], § 2, [70 Stat. 717][/us/stat/70/717], and is classified generally to subchapter V (§ 292 et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42][/us/usc/t42/s201] and Tables.
 
     [Section 8211 of title 42][/us/usc/t42/s8211], referred to in subsec. (d)(2)(B), was omitted from the Code pursuant to [section 8229 of Title 42][/us/usc/t42/s8229], The Public Health and Welfare, which terminated authority under that section on June 30, 1989.
 
@@ -127,31 +127,31 @@
 
     2006—Subsec. (i)(1). [Pub. L. 109–240][/us/pl/109/240] substituted “July 31, 2011” for “July 31, 2006”.
 
-    2003—Subsec. (b)(1)(B). [Pub. L. 108–91, § 3(a)(1)][/us/pl/108/91/s3/a/1], inserted “, unless the facility is a critical access hospital (as that term is defined in section 1861(mm)(1) of the Social Security Act ([42 U.S.C. 1395x(mm)(1)][/us/usc/t42/s1395x/mm/1]))” after “tuberculosis”.
+    2003—Subsec. (b)(1)(B). [Pub. L. 108–91][/us/pl/108/91], § 3(a)(1), inserted “, unless the facility is a critical access hospital (as that term is defined in section 1861(mm)(1) of the Social Security Act ([42 U.S.C. 1395x(mm)(1)][/us/usc/t42/s1395x/mm/1]))” after “tuberculosis”.
 
-    Subsec. (d)(4). [Pub. L. 108–91, § 2(a)][/us/pl/108/91/s2/a], amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The Secretary shall not insure any mortgage under this section unless he has received, from the State agency designated in accordance with section 604(a)(1) or section 1521 of the Public Health Service Act for the State in which is located the hospital covered by the mortgage, a certification that (A) there is a need for such hospital, and (B) there are in force in such State or the political subdivision of the State in which the proposed hospital would be located reasonable minimum standards of licensure and methods of operation for hospitals. No such mortgage shall be insured under this section unless the Secretary has received such assurance as he may deem satisfactory from the State agency that such standards will be applied and enforced with respect to any hospital located in the State for which mortgage insurance is provided under this section. If no such State agency exists, or if the State agency exists but is not empowered to provide a certification that there is a need for the hospital as set forth in clause (A) of the first sentence, the Secretary shall not insure any mortgage under this section unless (A) the State in which the hospital is located has conducted or commissioned and paid for the preparation of an independent study of market need and feasibility that (i) is prepared in accordance with the principles established by the American Institute of Certified Public Accountants; (ii) assesses, on a marketwide basis, the impact of the proposed hospital on, and its relationship to, other health care facilities and services, the percentage of excess beds, demographic projections, alternative health care delivery systems, and the reimbursement structure of the hospital; (iii) is addressed to and is acceptable to the Secretary in form and substance; and (iv) in the event the State does not prepare the study, is prepared by a financial consultant selected by the State and approved by the Secretary; and (B) the State complies with the other provisions of this paragraph that would otherwise be required to be met by a State agency designated in accordance with section 604(a)(1) or section 1521 of the Public Health Service Act. The proposed mortgagor may reimburse the State for the cost of the independent feasibility study required in the preceding sentence.”
+    Subsec. (d)(4). [Pub. L. 108–91][/us/pl/108/91], § 2(a), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The Secretary shall not insure any mortgage under this section unless he has received, from the State agency designated in accordance with section 604(a)(1) or section 1521 of the Public Health Service Act for the State in which is located the hospital covered by the mortgage, a certification that (A) there is a need for such hospital, and (B) there are in force in such State or the political subdivision of the State in which the proposed hospital would be located reasonable minimum standards of licensure and methods of operation for hospitals. No such mortgage shall be insured under this section unless the Secretary has received such assurance as he may deem satisfactory from the State agency that such standards will be applied and enforced with respect to any hospital located in the State for which mortgage insurance is provided under this section. If no such State agency exists, or if the State agency exists but is not empowered to provide a certification that there is a need for the hospital as set forth in clause (A) of the first sentence, the Secretary shall not insure any mortgage under this section unless (A) the State in which the hospital is located has conducted or commissioned and paid for the preparation of an independent study of market need and feasibility that (i) is prepared in accordance with the principles established by the American Institute of Certified Public Accountants; (ii) assesses, on a marketwide basis, the impact of the proposed hospital on, and its relationship to, other health care facilities and services, the percentage of excess beds, demographic projections, alternative health care delivery systems, and the reimbursement structure of the hospital; (iii) is addressed to and is acceptable to the Secretary in form and substance; and (iv) in the event the State does not prepare the study, is prepared by a financial consultant selected by the State and approved by the Secretary; and (B) the State complies with the other provisions of this paragraph that would otherwise be required to be met by a State agency designated in accordance with section 604(a)(1) or section 1521 of the Public Health Service Act. The proposed mortgagor may reimburse the State for the cost of the independent feasibility study required in the preceding sentence.”
 
-    Subsec. (i). [Pub. L. 108–91, § 3(a)(2)][/us/pl/108/91/s3/a/2], added subsec. (i).
+    Subsec. (i). [Pub. L. 108–91][/us/pl/108/91], § 3(a)(2), added subsec. (i).
 
-    1988—Subsec. (a). [Pub. L. 100–242, § 412(a)][/us/pl/100/242/s412/a], inserted at end “Such assistance shall be provided regardless of the amount of public financial or other support a hospital may receive, and the Secretary shall neither require additional security or collateral to guarantee such support, nor impose more stringent eligibility or other requirements on publicly owned or supported hospitals.”
+    1988—Subsec. (a). [Pub. L. 100–242][/us/pl/100/242], § 412(a), inserted at end “Such assistance shall be provided regardless of the amount of public financial or other support a hospital may receive, and the Secretary shall neither require additional security or collateral to guarantee such support, nor impose more stringent eligibility or other requirements on publicly owned or supported hospitals.”
 
-    Subsec. (d)(2). [Pub. L. 100–242, § 412(b)][/us/pl/100/242/s412/b], substituted “The mortgage shall involve a principal obligation in the amount requested by the mortgagor if such amount does not exceed 90 percent of the estimated replacement cost of the property or project including” for “The mortgage shall involve a principal obligation in an amount not to exceed 90 per centum of the estimated replacement cost of the property or project including”.
+    Subsec. (d)(2). [Pub. L. 100–242][/us/pl/100/242], § 412(b), substituted “The mortgage shall involve a principal obligation in the amount requested by the mortgagor if such amount does not exceed 90 percent of the estimated replacement cost of the property or project including” for “The mortgage shall involve a principal obligation in an amount not to exceed 90 per centum of the estimated replacement cost of the property or project including”.
 
-    Subsec. (d)(4). [Pub. L. 100–242, § 411(a)][/us/pl/100/242/s411/a], inserted provisions at end relating to authority of Secretary to insure a mortgage under this section covering new or rehabilitated hospitals, including equipment, in cases where no State agency exists, or where such agency does exist but is not empowered to provide a certification for the need of such hospital as required under this section.
+    Subsec. (d)(4). [Pub. L. 100–242][/us/pl/100/242], § 411(a), inserted provisions at end relating to authority of Secretary to insure a mortgage under this section covering new or rehabilitated hospitals, including equipment, in cases where no State agency exists, or where such agency does exist but is not empowered to provide a certification for the need of such hospital as required under this section.
 
-    Subsec. (d)(6). [Pub. L. 100–242, § 412(c)][/us/pl/100/242/s412/c], added par. (6).
+    Subsec. (d)(6). [Pub. L. 100–242][/us/pl/100/242], § 412(c), added par. (6).
 
-    Subsec. (f). [Pub. L. 100–242, § 412(d)][/us/pl/100/242/s412/d], inserted at end “The Secretary shall begin immediately to process applications of public facilities for mortgage insurance under this section in accordance with regulations, guidelines, and procedures applicable to facilities of private nonprofit corporations and associations.”
+    Subsec. (f). [Pub. L. 100–242][/us/pl/100/242], § 412(d), inserted at end “The Secretary shall begin immediately to process applications of public facilities for mortgage insurance under this section in accordance with regulations, guidelines, and procedures applicable to facilities of private nonprofit corporations and associations.”
 
-    1984—Subsec. (c). [Pub. L. 98–479, § 201(a)(1)][/us/pl/98/479/s201/a/1], substituted “Health and Human Services” for “Health, Education, and Welfare”.
+    1984—Subsec. (c). [Pub. L. 98–479][/us/pl/98/479], § 201(a)(1), substituted “Health and Human Services” for “Health, Education, and Welfare”.
 
-    Subsec. (d)(3)(A). [Pub. L. 98–479, § 204(a)(13)][/us/pl/98/479/s204/a/13], substituted a semicolon for the comma at end.
+    Subsec. (d)(3)(A). [Pub. L. 98–479][/us/pl/98/479], § 204(a)(13), substituted a semicolon for the comma at end.
 
-    1983—Subsec. (b)(1)(C). [Pub. L. 98–181, § 436(1)][/us/pl/98/181/s436/1], inserted “public facility,” after “which is a”.
+    1983—Subsec. (b)(1)(C). [Pub. L. 98–181][/us/pl/98/181], § 436(1), inserted “public facility,” after “which is a”.
 
-    Subsec. (d)(3)(B). [Pub. L. 98–181, § 404(b)(15)][/us/pl/98/181/s404/b/15], substituted provision that the interest rate be such a rate as agreed upon by the mortgagor and the mortgagee for provision that the interest rate, exclusive of premium charges for insurance and service charges, not exceed such per centum per annum, not in excess of 6 per centum, on the amount of the principal obligation outstanding at any time, as the Secretary finds necessary to meet the mortgage market.
+    Subsec. (d)(3)(B). [Pub. L. 98–181][/us/pl/98/181], § 404(b)(15), substituted provision that the interest rate be such a rate as agreed upon by the mortgagor and the mortgagee for provision that the interest rate, exclusive of premium charges for insurance and service charges, not exceed such per centum per annum, not in excess of 6 per centum, on the amount of the principal obligation outstanding at any time, as the Secretary finds necessary to meet the mortgage market.
 
-    Subsec. (f). [Pub. L. 98–181, § 436(2)][/us/pl/98/181/s436/2], inserted “, and in the case of public hospitals, to encourage programs that are undertaken to provide essential health care services to all residents of a community regardless of ability to pay” after “defined population”.
+    Subsec. (f). [Pub. L. 98–181][/us/pl/98/181], § 436(2), inserted “, and in the case of public hospitals, to encourage programs that are undertaken to provide essential health care services to all residents of a community regardless of ability to pay” after “defined population”.
 
     1981—Subsec. (d)(5). [Pub. L. 97–35][/us/pl/97/35] inserted provisions respecting limitation on authority of the Secretary to approve mortgage increases on eligible mortgages.
 
@@ -159,19 +159,19 @@
 
     1979—Subsec. (d)(5). [Pub. L. 96–153][/us/pl/96/153] added par. (5).
 
-    1977—Subsec. (c). [Pub. L. 95–128, § 308(b)][/us/pl/95/128/s308/b], prohibited charging any mortgage insurance premium with respect to the amount of principal and interest guaranteed by the Department of Health, Education, and Welfare under title VII of the Public Health Service Act.
+    1977—Subsec. (c). [Pub. L. 95–128][/us/pl/95/128], § 308(b), prohibited charging any mortgage insurance premium with respect to the amount of principal and interest guaranteed by the Department of Health, Education, and Welfare under title VII of the Public Health Service Act.
 
-    Subsec. (d)(4). [Pub. L. 95–128, § 308(a)][/us/pl/95/128/s308/a], inserted reference to section 1521.
+    Subsec. (d)(4). [Pub. L. 95–128][/us/pl/95/128], § 308(a), inserted reference to section 1521.
 
     1974—Subsec. (d)(2). [Pub. L. 93–383][/us/pl/93/383] struck out “not to exceed $50,000,000, and” after “an amount”.
 
-    1970—Subsec. (b)(1)(C). [Pub. L. 91–609, § 110(a)][/us/pl/91/609/s110/a], substituted as definition of “hospital” a facility “which is a proprietary facility, or facility of a private nonprofit corporation or association, licensed or regulated by the State (or, if there is no State law providing for such licensing or regulation by the State, by the municipality or other political subdivision in which the facility is located)” for “prior definition as a facility which is owned and operated by one or more nonprofit corporations or associations no part of the net earnings of which inures, or may lawfully inure, to the benefit of any private shareholder or individual”.
+    1970—Subsec. (b)(1)(C). [Pub. L. 91–609][/us/pl/91/609], § 110(a), substituted as definition of “hospital” a facility “which is a proprietary facility, or facility of a private nonprofit corporation or association, licensed or regulated by the State (or, if there is no State law providing for such licensing or regulation by the State, by the municipality or other political subdivision in which the facility is located)” for “prior definition as a facility which is owned and operated by one or more nonprofit corporations or associations no part of the net earnings of which inures, or may lawfully inure, to the benefit of any private shareholder or individual”.
 
-    Subsec. (d)(2). [Pub. L. 91–609, § 109][/us/pl/91/609/s109], increased limitation on amount of mortgage from $25,000,000 to $50,000,000.
+    Subsec. (d)(2). [Pub. L. 91–609][/us/pl/91/609], § 109, increased limitation on amount of mortgage from $25,000,000 to $50,000,000.
 
  __Effective Date of 2003 Amendment__ 
 
-[Pub. L. 108–91, § 2(b)][/us/pl/108/91/s2/b], Oct. 3, 2003, [117 Stat. 1158][/us/stat/117/1158], provided that:
+[Pub. L. 108–91][/us/pl/108/91], § 2(b), Oct. 3, 2003, [117 Stat. 1158][/us/stat/117/1158], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -191,7 +191,7 @@
 
  __Regulations__ 
 
-    [Pub. L. 100–242, title IV, § 411(b)][/us/pl/100/242/s411/b], Feb. 5, 1988, [101 Stat. 1905][/us/stat/101/1905], directed Secretary of Housing and Urban Development to issue regulations to carry out amendment of this section by not later than expiration of 90-day period following Feb. 5, 1988.
+    [Pub. L. 100–242, title IV][/us/pl/100/242/tIV], § 411(b), Feb. 5, 1988, [101 Stat. 1905][/us/stat/101/1905], directed Secretary of Housing and Urban Development to issue regulations to carry out amendment of this section by not later than expiration of 90-day period following Feb. 5, 1988.
 
     Secretary of Housing and Urban Development directed to issue regulations implementing amendments to this section by [section 436 of Pub. L. 98–181][/us/pl/98/181/s436], not later than Oct. 31, 1984, see [section 104(f) of Pub. L. 98–479][/us/pl/98/479/s104/f], set out as a note under [section 1715b of this title][/us/usc/t12/s1715b].
 
@@ -216,37 +216,37 @@
 [/us/usc/t12/s1713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1713
 [/us/usc/t12/s1735c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1735c
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
-[/us/pl/90/448/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs1501
+[/us/pl/90/448/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2FtXV
 [/us/stat/82/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F599
-[/us/pl/91/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F609
+[/us/pl/91/609/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F609%2FtI
 [/us/stat/84/1772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1772
-[/us/pl/93/383/s304/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs304%2Fi
+[/us/pl/93/383/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtIII
 [/us/stat/88/678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F678
-[/us/pl/95/128/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs308
+[/us/pl/95/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2FtIII
 [/us/stat/91/1135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1135
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
-[/us/pl/96/153/s315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153%2Fs315
+[/us/pl/96/153/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153%2FtIII
 [/us/stat/93/1117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1117
-[/us/pl/96/399/s310/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs310%2Fh
+[/us/pl/96/399/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2FtIII
 [/us/stat/94/1643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1643
-[/us/pl/97/35/s339H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs339H
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F418
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1210
-[/us/pl/98/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479
+[/us/pl/98/479/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2FtII
 [/us/stat/98/2227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2227
-[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtIV
 [/us/stat/101/1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1905
 [/us/pl/108/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F91
 [/us/stat/117/1158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1158
-[/us/pl/109/240/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F240%2Fs2
+[/us/pl/109/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F240
 [/us/stat/120/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F515
-[/us/pl/113/76/s233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs233
+[/us/pl/113/76/dL/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdL%2FtII
 [/us/stat/128/634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F634
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/stat/58/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F682
-[/us/act/1956-07-30/ch779/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-30%2Fch779%2Fs2
+[/us/act/1956-07-30/ch779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-30%2Fch779
 [/us/stat/70/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F717
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
 [/us/usc/t42/s8211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8211
@@ -256,36 +256,36 @@
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
 [/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
 [/us/pl/109/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F240
-[/us/pl/108/91/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F91%2Fs3%2Fa%2F1
+[/us/pl/108/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F91
 [/us/usc/t42/s1395x/mm/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fmm%2F1
-[/us/pl/108/91/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F91%2Fs2%2Fa
-[/us/pl/108/91/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F91%2Fs3%2Fa%2F2
-[/us/pl/100/242/s412/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs412%2Fa
-[/us/pl/100/242/s412/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs412%2Fb
-[/us/pl/100/242/s411/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs411%2Fa
-[/us/pl/100/242/s412/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs412%2Fc
-[/us/pl/100/242/s412/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs412%2Fd
-[/us/pl/98/479/s201/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2Fs201%2Fa%2F1
-[/us/pl/98/479/s204/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2Fs204%2Fa%2F13
-[/us/pl/98/181/s436/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs436%2F1
-[/us/pl/98/181/s404/b/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs404%2Fb%2F15
-[/us/pl/98/181/s436/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs436%2F2
+[/us/pl/108/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F91
+[/us/pl/108/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F91
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/98/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479
+[/us/pl/98/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
 [/us/pl/96/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153
-[/us/pl/95/128/s308/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs308%2Fb
-[/us/pl/95/128/s308/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs308%2Fa
+[/us/pl/95/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128
+[/us/pl/95/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128
 [/us/pl/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383
-[/us/pl/91/609/s110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F609%2Fs110%2Fa
-[/us/pl/91/609/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F609%2Fs109
-[/us/pl/108/91/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F91%2Fs2%2Fb
+[/us/pl/91/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F609
+[/us/pl/91/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F609
+[/us/pl/108/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F91
 [/us/stat/117/1158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1158
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/97/35/s371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs371
 [/us/usc/t12/s3701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3701
 [/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
 [/us/usc/t20/s3508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3508%2Fb
-[/us/pl/100/242/s411/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs411%2Fb
+[/us/pl/100/242/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtIV
 [/us/stat/101/1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1905
 [/us/pl/98/181/s436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs436
 [/us/pl/98/479/s104/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2Fs104%2Ff

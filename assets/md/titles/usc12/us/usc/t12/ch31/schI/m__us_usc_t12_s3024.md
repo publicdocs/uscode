@@ -21,7 +21,7 @@
 
     (2) each senior executive officer and appointed member of the Board to file with the appointing officer, before entering that office a statement of his financial interest and position, if any, in such organizations, which shall be available for inspection upon request.
 
-([Pub. L. 95–351, title I, § 114][/us/pl/95/351/s114], Aug. 20, 1978, [92 Stat. 510][/us/stat/92/510]; [Pub. L. 97–35, title III, § 396(f)][/us/pl/97/35/s396/f], Aug. 13, 1981, [95 Stat. 440][/us/stat/95/440].)
+([Pub. L. 95–351, title I][/us/pl/95/351/tI], § 114, Aug. 20, 1978, [92 Stat. 510][/us/stat/92/510]; [Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 396(f), Aug. 13, 1981, [95 Stat. 440][/us/stat/95/440].)
 
  __References in Text__ 
 
@@ -42,9 +42,9 @@
 ----------
 ----------
 
-[/us/pl/95/351/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F351%2Fs114
+[/us/pl/95/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F351%2FtI
 [/us/stat/92/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F510
-[/us/pl/97/35/s396/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs396%2Ff
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F440
 [/us/usc/t18/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs201
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35

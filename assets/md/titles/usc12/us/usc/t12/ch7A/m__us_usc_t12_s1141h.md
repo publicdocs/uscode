@@ -25,7 +25,7 @@
 
     (e) The President is authorized, by Executive order, to transfer to or retransfer from the jurisdiction and control of the administration the whole or any part of (1) any office, bureau, service, division, commission, or board in the Executive branch of the Government engaged in scientific or extension work, or the furnishing of services, with respect to the marketing of agricultural commodities, (2) its functions pertaining to such work or services, and (3) the rec­ords, property, including office equipment, personnel, and unexpended balances of appropriation, pertaining to such work or services.
 
-([June 15, 1929, ch. 24, § 13][/us/act/1929-06-15/ch24/s13], [46 Stat. 17][/us/stat/46/17]; Ex. Ord. No. 6084, Mar. 27, 1933.)
+([June 15, 1929, ch. 24][/us/act/1929-06-15/ch24], § 13, [46 Stat. 17][/us/stat/46/17]; Ex. Ord. No. 6084, Mar. 27, 1933.)
 
  __Codification__ 
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/act/1929-06-15/ch24/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-06-15%2Fch24%2Fs13
+[/us/act/1929-06-15/ch24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-06-15%2Fch24
 [/us/stat/46/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F17
 [/us/usc/t7/s533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs533
 [/us/usc/t12/s2241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2241

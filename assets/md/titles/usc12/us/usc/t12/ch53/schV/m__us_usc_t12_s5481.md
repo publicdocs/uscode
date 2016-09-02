@@ -385,7 +385,7 @@
 
         The term “transmitting or exchanging funds” means receiving currency, monetary value, or payment instruments from a consumer for the purpose of exchanging or transmitting the same by any means, including transmission by wire, facsimile, electronic transfer, courier, the Internet, or through bill payment services or through other businesses that facilitate third-party transfers within the United States or to or from the United States.
 
-([Pub. L. 111–203, title X, § 1002][/us/pl/111/203/s1002], July 21, 2010, [124 Stat. 1955][/us/stat/124/1955].)
+([Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1002, July 21, 2010, [124 Stat. 1955][/us/stat/124/1955].)
 
  __References in Text__ 
 
@@ -399,13 +399,13 @@
 
     The Consumer Leasing Act of 1976, referred to in par. (12)(B), is [Pub. L. 94–240][/us/pl/94/240], Mar. 23, 1976, [90 Stat. 257][/us/stat/90/257]. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under [section 1601 of Title 15][/us/usc/t15/s1601], Commerce and Trade, and Tables.
 
-    The Electronic Fund Transfer Act, referred to in par. (12)(C), is title IX of [Pub. L. 90–321][/us/pl/90/321], as added by [Pub. L. 95–630, title XX, § 2001][/us/pl/95/630/s2001], Nov. 10, 1978, [92 Stat. 3728][/us/stat/92/3728], which is classified generally to subchapter VI (§ 1693 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 15][/us/usc/t15/s1601] and Tables.
+    The Electronic Fund Transfer Act, referred to in par. (12)(C), is title IX of [Pub. L. 90–321][/us/pl/90/321], as added by [Pub. L. 95–630, title XX][/us/pl/95/630/tXX], § 2001, Nov. 10, 1978, [92 Stat. 3728][/us/stat/92/3728], which is classified generally to subchapter VI (§ 1693 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 15][/us/usc/t15/s1601] and Tables.
 
-    The Equal Credit Opportunity Act, referred to in par. (12)(D), is title VII of [Pub. L. 90–321][/us/pl/90/321], as added by [Pub. L. 93–495, title V, § 503][/us/pl/93/495/s503], Oct. 28, 1974, [88 Stat. 1521][/us/stat/88/1521], which is classified generally to subchapter IV (§ 1691 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 15][/us/usc/t15/s1601] and Tables.
+    The Equal Credit Opportunity Act, referred to in par. (12)(D), is title VII of [Pub. L. 90–321][/us/pl/90/321], as added by [Pub. L. 93–495, title V][/us/pl/93/495/tV], § 503, Oct. 28, 1974, [88 Stat. 1521][/us/stat/88/1521], which is classified generally to subchapter IV (§ 1691 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 15][/us/usc/t15/s1601] and Tables.
 
     The Fair Credit Billing Act, referred to in par. (12)(E), is title III of [Pub. L. 93–495][/us/pl/93/495], Oct. 28, 1974, [88 Stat. 1511][/us/stat/88/1511], which enacted sections 1666 to 1666i and 1666j of Title 15, Commerce and Trade, amended sections 1601, 1602, 1610, 1631, 1632, and 1637 of Title 15, and enacted provisions set out as a note under [section 1666 of Title 15][/us/usc/t15/s1666]. For complete classification of this Act to the Code, see Short Title of 1974 Amendment note set out under [section 1601 of Title 15][/us/usc/t15/s1601] and Tables.
 
-    The Fair Credit Reporting Act, referred to in par. (12)(F), is title VI of [Pub. L. 90–321][/us/pl/90/321], as added by [Pub. L. 91–508, title VI, § 601][/us/pl/91/508/s601], Oct. 26, 1970, [84 Stat. 1127][/us/stat/84/1127], which is classified generally to subchapter III (§ 1681 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 15][/us/usc/t15/s1601] and Tables.
+    The Fair Credit Reporting Act, referred to in par. (12)(F), is title VI of [Pub. L. 90–321][/us/pl/90/321], as added by [Pub. L. 91–508, title VI][/us/pl/91/508/tVI], § 601, Oct. 26, 1970, [84 Stat. 1127][/us/stat/84/1127], which is classified generally to subchapter III (§ 1681 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 15][/us/usc/t15/s1601] and Tables.
 
     The Homeowners Protection Act of 1998, referred to in par. (12)(G), is [Pub. L. 105–216][/us/pl/105/216], July 29, 1998, [112 Stat. 897][/us/stat/112/897], which is classified principally to chapter 49 (§ 4901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4901 of this title][/us/usc/t12/s4901] and Tables.
 
@@ -423,7 +423,7 @@
 
     The Truth in Savings Act, referred to in par. (12)(P), is subtitle F (§§ 261–274) of title II of [Pub. L. 102–242][/us/pl/102/242], Dec. 19, 1991, [105 Stat. 2334][/us/stat/105/2334], which is classified generally to chapter 44 (§ 4301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4301 of this title][/us/usc/t12/s4301] and Tables.
 
-    Section 626 of the Omnibus Appropriations Act, 2009, referred to in par. (12)(Q), is [section 626 of div. D of Pub. L. 111–8][/us/pl/111/8/s626]. Subsecs. (a) and (b) of section 626 are classified to [section 5538 of this title][/us/usc/t12/s5538], and subsec. (c) of section 626 amended [section 1639 of Title 15][/us/usc/t15/s1639], Commerce and Trade.
+    Section 626 of the Omnibus Appropriations Act, 2009, referred to in par. (12)(Q), is [section 626 of div. D of Pub. L. 111–8][/us/pl/111/8/dD/s626]. Subsecs. (a) and (b) of section 626 are classified to [section 5538 of this title][/us/usc/t12/s5538], and subsec. (c) of section 626 amended [section 1639 of Title 15][/us/usc/t15/s1639], Commerce and Trade.
 
     The Interstate Land Sales Full Disclosure Act, referred to in par. (12)(R), is title XIV of [Pub. L. 90–448][/us/pl/90/448], Aug. 1, 1968, [82 Stat. 590][/us/stat/82/590], which is classified generally to chapter 42 (§ 1701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 15][/us/usc/t15/s1701] and Tables.
 
@@ -445,7 +445,7 @@
 
  __Designation as Enumerated Consumer Law Under the Purview of the Bureau of Consumer Financial Protection__ 
 
-[Pub. L. 111–203, title XIV, § 1400(b)][/us/pl/111/203/s1400/b], July 21, 2010, [124 Stat. 2136][/us/stat/124/2136], provided that: 
+[Pub. L. 111–203, title XIV][/us/pl/111/203/tXIV], § 1400(b), July 21, 2010, [124 Stat. 2136][/us/stat/124/2136], provided that: 
 
 > “Subtitles A, B, C, and E \[subtitles A (§§ 1401–1406), B (§§ 1411–1422), C (§§ 1431–1433), and E (§§ 1461–1465) of title XIV of [Pub. L. 111–203][/us/pl/111/203], enacting sections 1638a, 1639b to 1639d, 1639f, and 1639g of Title 15, Commerce and Trade, amending [section 2605 of this title][/us/usc/t12/s2605], sections 1602, 1607, 1638, 1639 to 1639d, and 1640 of Title 15, and enacting provisions set out as notes under sections 1601 and 1639b to 1639d of Title 15\] and sections 1471 \[enacting [section 1639h of Title 15][/us/usc/t15/s1639h]\], 1472 \[enacting [section 1639e of Title 15][/us/usc/t15/s1639e] and amending [section 1604 of Title 15][/us/usc/t15/s1604]\], 1475 \[amending [section 2603 of this title][/us/usc/t12/s2603]\], and 1476 \[not classified to the Code\], and the amendments made by such subtitles and sections, shall be enumerated consumer laws, as defined in section 1002 \[[12 U.S.C. 5481][/us/usc/t12/s5481]\], and come under the purview of the Bureau of Consumer Financial Protection for purposes of title X \[see Short Title note set out under [section 5301 of this title][/us/usc/t12/s5301]\], including the transfer of functions and personnel under subtitle F of title X \[§§ 1061–1067, enacting part F of this subchapter\] and the savings provisions of such subtitle.”
 
@@ -495,7 +495,7 @@
 [/us/usc/t12/s1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813
 [/us/usc/t12/s1841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1841
 [/us/usc/t25/s479a–1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs479a%E2%80%931%2Fa
-[/us/pl/111/203/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1002
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/1955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1955
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1955
@@ -511,11 +511,11 @@
 [/us/stat/90/257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F257
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601
 [/us/pl/90/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321
-[/us/pl/95/630/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs2001
+[/us/pl/95/630/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtXX
 [/us/stat/92/3728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3728
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601
 [/us/pl/90/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321
-[/us/pl/93/495/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2Fs503
+[/us/pl/93/495/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2FtV
 [/us/stat/88/1521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1521
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601
 [/us/pl/93/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495
@@ -523,7 +523,7 @@
 [/us/usc/t15/s1666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1666
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601
 [/us/pl/90/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321
-[/us/pl/91/508/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508%2Fs601
+[/us/pl/91/508/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508%2FtVI
 [/us/stat/84/1127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1127
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601
 [/us/pl/105/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F216
@@ -551,7 +551,7 @@
 [/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
 [/us/stat/105/2334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2334
 [/us/usc/t12/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4301
-[/us/pl/111/8/s626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs626
+[/us/pl/111/8/dD/s626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2FdD%2Fs626
 [/us/usc/t12/s5538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5538
 [/us/usc/t15/s1639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1639
 [/us/pl/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448
@@ -576,7 +576,7 @@
 [/us/usc/t15/s80a–51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%9351
 [/us/pl/111/203/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs4
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301
-[/us/pl/111/203/s1400/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1400%2Fb
+[/us/pl/111/203/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtXIV
 [/us/stat/124/2136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2136
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/usc/t12/s2605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2605

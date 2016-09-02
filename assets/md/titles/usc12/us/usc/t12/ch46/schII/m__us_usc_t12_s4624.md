@@ -27,7 +27,7 @@
 
         The Director shall monitor the portfolio of each enterprise. Pursuant to subsection (a) and notwithstanding the capital classifications of the enterprises, the Director may, by order, require an enterprise, under such terms and conditions as the Director determines to be appropriate, to dispose of or acquire any asset, if the Director determines that such action is consistent with the purposes of this Act or any of the authorizing statutes.
 
-([Pub. L. 102–550, title XIII, § 1369E][/us/pl/102/550/s1369E], as added [Pub. L. 110–289, div. A, title I, § 1109(a)(2)][/us/pl/110/289/s1109/a/2], July 30, 2008, [122 Stat. 2675][/us/stat/122/2675].)
+([Pub. L. 102–550, title XIII][/us/pl/102/550/tXIII], § 1369E, as added [Pub. L. 110–289, div. A, title I][/us/pl/110/289/dA/tI], § 1109(a)(2), July 30, 2008, [122 Stat. 2675][/us/stat/122/2675].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 
  __Regulations__ 
 
-[Pub. L. 110–289, div. A, title I, § 1109(b)][/us/pl/110/289/s1109/b], July 30, 2008, [122 Stat. 2675][/us/stat/122/2675], provided that: 
+[Pub. L. 110–289, div. A, title I][/us/pl/110/289/dA/tI], § 1109(b), July 30, 2008, [122 Stat. 2675][/us/stat/122/2675], provided that: 
 
 > “Not later than the expiration of the 180-day period beginning on the effective date of this Act \[probably means date of enactment of [Pub. L. 110–289][/us/pl/110/289], approved July 30, 2008\], the Director \[of the Federal Housing Finance Agency\] shall issue regulations pursuant to section 1369E(a) of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 \[[12 U.S.C. 4624(a)][/us/usc/t12/s4624/a]\] (as added by subsection (a) of this section) establishing the portfolio holdings standards under such section.”
 
@@ -47,13 +47,13 @@
 ----------
 
 [/us/usc/t12/s4513b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4513b
-[/us/pl/102/550/s1369E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1369E
-[/us/pl/110/289/s1109/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1109%2Fa%2F2
+[/us/pl/102/550/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIII
+[/us/pl/110/289/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtI
 [/us/stat/122/2675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2675
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/stat/106/3672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3672
 [/us/usc/t42/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5301
-[/us/pl/110/289/s1109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1109%2Fb
+[/us/pl/110/289/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtI
 [/us/stat/122/2675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2675
 [/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
 [/us/usc/t12/s4624/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4624%2Fa

@@ -39,13 +39,13 @@
 
         (2) Such violations shall be deemed to be a violation of a final order under [section 1818(i)(2) of this title][/us/usc/t12/s1818/i/2] and the penalty shall be assessed and collected by the appropriate Federal banking agency under the procedures established by, and subject to the rights afforded to parties in, such section.
 
-([Pub. L. 98–181, title I][/us/pl/98/181] \[title IX, § 910\], Nov. 30, 1983, [97 Stat. 1282][/us/stat/97/1282]; [Pub. L. 109–351, title VII, § 713(b)][/us/pl/109/351/s713/b], Oct. 13, 2006, [120 Stat. 1995][/us/stat/120/1995].)
+([Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title IX, § 910\], Nov. 30, 1983, [97 Stat. 1282][/us/stat/97/1282]; [Pub. L. 109–351, title VII][/us/pl/109/351/tVII], § 713(b), Oct. 13, 2006, [120 Stat. 1995][/us/stat/120/1995].)
 
  __Amendments__ 
 
-    2006—Subsec. (a)(2). [Pub. L. 109–351, § 713(b)(1)][/us/pl/109/351/s713/b/1], substituted “insured depository institution” for “insured bank”.
+    2006—Subsec. (a)(2). [Pub. L. 109–351][/us/pl/109/351], § 713(b)(1), substituted “insured depository institution” for “insured bank”.
 
-    Subsec. (a)(3). [Pub. L. 109–351, § 713(b)(2)][/us/pl/109/351/s713/b/2], substituted “an ‘insured depository institution’, as such term is defined in section 1813(c)(2)” for “an ‘insured bank’, as such term is used in section 1813(h)”.
+    Subsec. (a)(3). [Pub. L. 109–351][/us/pl/109/351], § 713(b)(2), substituted “an ‘insured depository institution’, as such term is defined in section 1813(c)(2)” for “an ‘insured bank’, as such term is used in section 1813(h)”.
 
 ----------
 
@@ -58,11 +58,11 @@
 [/us/usc/t12/s1813/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813%2Fc%2F2
 [/us/usc/t12/s1818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1818
 [/us/usc/t12/s1818/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1818%2Fi%2F2
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1282
-[/us/pl/109/351/s713/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs713%2Fb
+[/us/pl/109/351/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2FtVII
 [/us/stat/120/1995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1995
-[/us/pl/109/351/s713/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs713%2Fb%2F1
-[/us/pl/109/351/s713/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs713%2Fb%2F2
+[/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
+[/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
 
 

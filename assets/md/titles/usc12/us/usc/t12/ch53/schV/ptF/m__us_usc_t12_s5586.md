@@ -23,7 +23,7 @@
 
         The Department of the Treasury may provide administrative services necessary to support the Bureau before the designated transfer date.
 
-([Pub. L. 111–203, title X, § 1066][/us/pl/111/203/s1066], July 21, 2010, [124 Stat. 2055][/us/stat/124/2055].)
+([Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1066, July 21, 2010, [124 Stat. 2055][/us/stat/124/2055].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t12/s5491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5491
-[/us/pl/111/203/s1066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1066
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2055
 
 

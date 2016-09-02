@@ -33,11 +33,11 @@
 
         The provisions of this subchapter, and regulations prescribed and agreements entered into under this subchapter, shall be enforced under section 8 of the Federal Deposit Insurance Act \[[12 U.S.C. 1818][/us/usc/t12/s1818]\] by the appropriate Federal banking agency, in the case of an insured community development financial institution. A violation of this subchapter, or any regulation prescribed under or any agreement entered into under this subchapter, shall be treated as a violation of the Federal Deposit Insurance Act \[[12 U.S.C. 1811][/us/usc/t12/s1811] et seq.\].
 
-([Pub. L. 103–325, title I, § 119][/us/pl/103/325/s119], Sept. 23, 1994, [108 Stat. 2188][/us/stat/108/2188].)
+([Pub. L. 103–325, title I][/us/pl/103/325/tI], § 119, Sept. 23, 1994, [108 Stat. 2188][/us/stat/108/2188].)
 
  __References in Text__ 
 
-    The Federal Deposit Insurance Act, referred to in subsec. (b), is [act Sept. 21, 1950, ch. 967, § 2][/us/act/1950-09-21/ch967/s2], [64 Stat. 873][/us/stat/64/873], as amended, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1811 of this title][/us/usc/t12/s1811] and Tables.
+    The Federal Deposit Insurance Act, referred to in subsec. (b), is [act Sept. 21, 1950, ch. 967][/us/act/1950-09-21/ch967], § 2, [64 Stat. 873][/us/stat/64/873], as amended, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1811 of this title][/us/usc/t12/s1811] and Tables.
 
  __Codification__ 
 
@@ -52,9 +52,9 @@
 
 [/us/usc/t12/s1818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1818
 [/us/usc/t12/s1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1811
-[/us/pl/103/325/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs119
+[/us/pl/103/325/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtI
 [/us/stat/108/2188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2188
-[/us/act/1950-09-21/ch967/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967%2Fs2
+[/us/act/1950-09-21/ch967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967
 [/us/stat/64/873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F873
 [/us/usc/t12/s1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1811
 [/us/pl/103/325/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs119

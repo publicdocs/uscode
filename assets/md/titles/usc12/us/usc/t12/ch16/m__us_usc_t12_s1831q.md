@@ -561,15 +561,15 @@
 
                 The term “ineligible residential property” includes ineligible single family properties, ineligible multifamily housing properties, and ineligible condominium properties.
 
-([Sept. 21, 1950, ch. 967, § 2][/us/act/1950-09-21/ch967/s2]\[40\], as added [Pub. L. 102–242, title II, § 241(a)][/us/pl/102/242/s241/a], Dec. 19, 1991, [105 Stat. 2317][/us/stat/105/2317]; amended [Pub. L. 102–389, title II][/us/pl/102/389], Oct. 6, 1992, [106 Stat. 1592][/us/stat/106/1592], 1593; [Pub. L. 102–550, title V, § 503(c)(4)][/us/pl/102/550/s503/c/4], Oct. 28, 1992, [106 Stat. 3780][/us/stat/106/3780]; [Pub. L. 103–204][/us/pl/103/204], §§ 13, 14(a)(2), (d)(2), (e)(2), (f)(2), Dec. 17, 1993, [107 Stat. 2391][/us/stat/107/2391], 2393, 2396, 2398; [Pub. L. 103–325, title VI, § 602(a)(65)][/us/pl/103/325/s602/a/65], (66), Sept. 23, 1994, [108 Stat. 2291][/us/stat/108/2291]; [Pub. L. 106–400, § 2][/us/pl/106/400/s2], Oct. 30, 2000, [114 Stat. 1675][/us/stat/114/1675].)
+([Sept. 21, 1950, ch. 967][/us/act/1950-09-21/ch967], § 2\[40\], as added [Pub. L. 102–242, title II][/us/pl/102/242/tII], § 241(a), Dec. 19, 1991, [105 Stat. 2317][/us/stat/105/2317]; amended [Pub. L. 102–389, title II][/us/pl/102/389/tII], Oct. 6, 1992, [106 Stat. 1592][/us/stat/106/1592], 1593; [Pub. L. 102–550, title V][/us/pl/102/550/tV], § 503(c)(4), Oct. 28, 1992, [106 Stat. 3780][/us/stat/106/3780]; [Pub. L. 103–204][/us/pl/103/204], §§ 13, 14(a)(2), (d)(2), (e)(2), (f)(2), Dec. 17, 1993, [107 Stat. 2391][/us/stat/107/2391], 2393, 2396, 2398; [Pub. L. 103–325, title VI][/us/pl/103/325/tVI], § 602(a)(65), (66), Sept. 23, 1994, [108 Stat. 2291][/us/stat/108/2291]; [Pub. L. 106–400][/us/pl/106/400], § 2, Oct. 30, 2000, [114 Stat. 1675][/us/stat/114/1675].)
 
  __References in Text__ 
 
-    [Section 1441a of this title][/us/usc/t12/s1441a], referred to in subsecs. (b)(2)(D)(ii), (g)(1)(B), and (n)(1), (4), was repealed by [Pub. L. 111–203, title III, § 364(b)][/us/pl/111/203/s364/b], July 21, 2010, [124 Stat. 1555][/us/stat/124/1555].
+    [Section 1441a of this title][/us/usc/t12/s1441a], referred to in subsecs. (b)(2)(D)(ii), (g)(1)(B), and (n)(1), (4), was repealed by [Pub. L. 111–203, title III][/us/pl/111/203/tIII], § 364(b), July 21, 2010, [124 Stat. 1555][/us/stat/124/1555].
 
     Section 1204(c)(3) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989, referred to in subsec. (g)(1)(B), is [section 1204(c)(3) of Pub. L. 101–73][/us/pl/101/73/s1204/c/3], which is set out as a note under [section 1811 of this title][/us/usc/t12/s1811].
 
-    The United States Housing Act of 1937, referred to in subsec. (g)(2), is [act Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], as revised generally by [Pub. L. 93–383, title II][/us/pl/93/383], Aug. 22, 1974, [88 Stat. 653][/us/stat/88/653], which is classified generally to chapter 8 (§ 1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1437 of Title 42][/us/usc/t42/s1437] and Tables.
+    The United States Housing Act of 1937, referred to in subsec. (g)(2), is [act Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], as revised generally by [Pub. L. 93–383, title II][/us/pl/93/383/tII], Aug. 22, 1974, [88 Stat. 653][/us/stat/88/653], which is classified generally to chapter 8 (§ 1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1437 of Title 42][/us/usc/t42/s1437] and Tables.
 
     The McKinney-Vento Homeless Assistance Act, referred to in subsec. (g)(2), is [Pub. L. 100–77][/us/pl/100/77], July 22, 1987, [101 Stat. 482][/us/stat/101/482]. Title IV of the Act is classified generally to subchapter IV (§ 11360 et seq.) of chapter 119 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 11301 of Title 42][/us/usc/t42/s11301] and Tables.
 
@@ -591,19 +591,19 @@
 
     2000—Subsec. (g)(2). [Pub. L. 106–400][/us/pl/106/400] substituted “McKinney-Vento Homeless Assistance Act” for “Stewart B. McKinney Homeless Assistance Act”.
 
-    1994—Subsec. (c)(4)(A). [Pub. L. 103–325, § 602(a)(65)][/us/pl/103/325/s602/a/65], substituted “subparagraphs (B) and (C) of subsection (p)(12) of this section” for “subsections (p)(12)(B) and (C) of this section”.
+    1994—Subsec. (c)(4)(A). [Pub. L. 103–325][/us/pl/103/325], § 602(a)(65), substituted “subparagraphs (B) and (C) of subsection (p)(12) of this section” for “subsections (p)(12)(B) and (C) of this section”.
 
-    Subsec. (d)(8)(A). [Pub. L. 103–325, § 602(a)(66)][/us/pl/103/325/s602/a/66], substituted “meeting the” for “meeting”.
+    Subsec. (d)(8)(A). [Pub. L. 103–325][/us/pl/103/325], § 602(a)(66), substituted “meeting the” for “meeting”.
 
-    1993—Subsec. (g)(1)(B). [Pub. L. 103–204, § 14(d)(2)][/us/pl/103/204/s14/d/2], inserted at end “The Corporation shall periodically provide, to a wide range of minority- and women-owned businesses engaged in providing affordable housing and to nonprofit organizations, more than 50 percent of the control of which is held by 1 or more minority individuals, that are engaged in providing affordable housing, information that is sufficient to inform such businesses and organizations of the availability and terms of financing under this subparagraph; such information may be provided directly, by notices published in periodicals and other publications that regularly provide information to such businesses or organizations, and through persons and organizations that regularly provide information or services to such businesses or organizations. For purposes of this subparagraph, the terms ‘women-owned business’ and ‘minority-owned business’ have the meanings given such terms in [section 1441a(r) of this title][/us/usc/t12/s1441a/r], and the term ‘minority’ has the meaning given such term in section 1204(c)(3) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989.”
+    1993—Subsec. (g)(1)(B). [Pub. L. 103–204][/us/pl/103/204], § 14(d)(2), inserted at end “The Corporation shall periodically provide, to a wide range of minority- and women-owned businesses engaged in providing affordable housing and to nonprofit organizations, more than 50 percent of the control of which is held by 1 or more minority individuals, that are engaged in providing affordable housing, information that is sufficient to inform such businesses and organizations of the availability and terms of financing under this subparagraph; such information may be provided directly, by notices published in periodicals and other publications that regularly provide information to such businesses or organizations, and through persons and organizations that regularly provide information or services to such businesses or organizations. For purposes of this subparagraph, the terms ‘women-owned business’ and ‘minority-owned business’ have the meanings given such terms in [section 1441a(r) of this title][/us/usc/t12/s1441a/r], and the term ‘minority’ has the meaning given such term in section 1204(c)(3) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989.”
 
-    Subsec. (m)(4). [Pub. L. 103–204, § 14(f)(2)][/us/pl/103/204/s14/f/2], amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The Corporation shall not be liable to any depositor, creditor, or shareholder of any insured depository institution for which the Corporation has been appointed receiver, or any claimant against such an institution, because the disposition of assets of the institution under this section affects the amount of return from the assets.”
+    Subsec. (m)(4). [Pub. L. 103–204][/us/pl/103/204], § 14(f)(2), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The Corporation shall not be liable to any depositor, creditor, or shareholder of any insured depository institution for which the Corporation has been appointed receiver, or any claimant against such an institution, because the disposition of assets of the institution under this section affects the amount of return from the assets.”
 
-    Subsec. (n). [Pub. L. 103–204, § 14(e)(2)][/us/pl/103/204/s14/e/2], amended subsec. (n) generally. Prior to amendment, subsec. (n) read as follows: “Affordable Housing Program Office.—The Corporation shall establish an Affordable Housing Program Office within the Corporation to carry out the provisions of this section and shall dedicate certain staff of the Corporation to the office.”
+    Subsec. (n). [Pub. L. 103–204][/us/pl/103/204], § 14(e)(2), amended subsec. (n) generally. Prior to amendment, subsec. (n) read as follows: “Affordable Housing Program Office.—The Corporation shall establish an Affordable Housing Program Office within the Corporation to carry out the provisions of this section and shall dedicate certain staff of the Corporation to the office.”
 
-    Subsec. (p)(4)(A), (5)(A), (7)(A). [Pub. L. 103–204, § 13][/us/pl/103/204/s13], inserted “in its corporate capacity, its capacity as conservator, or its capacity as receiver (including in its capacity as the sole owner of a subsidiary corporation of a depository institution under conservatorship or receivership, which subsidiary has as its principal business the ownership of real property)” before “; and”.
+    Subsec. (p)(4)(A), (5)(A), (7)(A). [Pub. L. 103–204][/us/pl/103/204], § 13, inserted “in its corporate capacity, its capacity as conservator, or its capacity as receiver (including in its capacity as the sole owner of a subsidiary corporation of a depository institution under conservatorship or receivership, which subsidiary has as its principal business the ownership of real property)” before “; and”.
 
-    Subsec. (q). [Pub. L. 103–204, § 14(a)(2)][/us/pl/103/204/s14/a/2], added subsec. (q).
+    Subsec. (q). [Pub. L. 103–204][/us/pl/103/204], § 14(a)(2), added subsec. (q).
 
     1992—Subsec. (p)(4)(B). [Pub. L. 102–550][/us/pl/102/550] amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “that has an appraised value that does not exceed the applicable dollar amount specified in the first sentence of section 203(b)(2) of the National Housing Act, as such dollar amount is increased on an area-by-area basis under such section for areas with high prevailing housing sales prices, except that for purposes of this paragraph no such increase may exceed 150 percent of the dollar amount specified in section 203(b)(2).”
 
@@ -617,7 +617,7 @@
 
  __Affordable Housing Advisory Board__ 
 
-[Pub. L. 103–204, § 14(b)][/us/pl/103/204/s14/b], Dec. 17, 1993, [107 Stat. 2393][/us/stat/107/2393], as amended by [Pub. L. 105–216, § 14(e)][/us/pl/105/216/s14/e], (f), July 29, 1998, [112 Stat. 910][/us/stat/112/910], provided that:
+[Pub. L. 103–204][/us/pl/103/204], § 14(b), Dec. 17, 1993, [107 Stat. 2393][/us/stat/107/2393], as amended by [Pub. L. 105–216][/us/pl/105/216], § 14(e), (f), July 29, 1998, [112 Stat. 910][/us/stat/112/910], provided that:
 
 >     “(1)  __Establishment__  __.—__ 
 
@@ -683,11 +683,11 @@
 
 >     The Advisory Board established under this subsection shall terminate on September 30, 1998.”
 
-    \[[Pub. L. 105–216, § 14(e)][/us/pl/105/216/s14/e], July 29, 1998, [112 Stat. 910][/us/stat/112/910], provided that the amendment made by section 14(e) to [section 14(b)(2) of Pub. L. 103–204][/us/pl/103/204/s14/b/2], set out above, is effective July 29, 1998.\]
+    \[[Pub. L. 105–216][/us/pl/105/216], § 14(e), July 29, 1998, [112 Stat. 910][/us/stat/112/910], provided that the amendment made by section 14(e) to [section 14(b)(2) of Pub. L. 103–204][/us/pl/103/204/s14/b/2], set out above, is effective July 29, 1998.\]
 
  __Coordination and Consultation Between Federal Deposit Insurance Corporation and Resolution Trust Corporation Under Affordable Housing Programs__ 
 
-[Pub. L. 102–242, title II, § 241(b)][/us/pl/102/242/s241/b], Dec. 19, 1991, [105 Stat. 2331][/us/stat/105/2331], as amended by [Pub. L. 102–550, title XVI, § 1604(c)(1)][/us/pl/102/550/s1604/c/1], Oct. 28, 1992, [106 Stat. 4083][/us/stat/106/4083], provided that: 
+[Pub. L. 102–242, title II][/us/pl/102/242/tII], § 241(b), Dec. 19, 1991, [105 Stat. 2331][/us/stat/105/2331], as amended by [Pub. L. 102–550, title XVI][/us/pl/102/550/tXVI], § 1604(c)(1), Oct. 28, 1992, [106 Stat. 4083][/us/stat/106/4083], provided that: 
 
 > “The Federal Deposit Insurance Corporation and the Resolution Trust Corporation shall consult and coordinate with each other in carrying out their respective responsibilities under the affordable housing programs under section 40 of the Federal Deposit Insurance Act \[[12 U.S.C. 1831q][/us/usc/t12/s1831q]\] and \[former\] section 21A(c) of the Federal Home Loan Bank Act \[[12 U.S.C. 1441a(c)][/us/usc/t12/s1441a/c]\]. Such corporations shall develop any procedures, and may enter into any agreements, necessary to provide for the coordinated, efficient, and effective operation of such programs.”
 
@@ -716,26 +716,26 @@
 [/us/usc/t12/s1709/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1709%2Fb%2F2%2FA
 [/us/usc/t12/s1715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715
 [/us/usc/t12/s1709/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1709%2Fb%2F2%2FA
-[/us/act/1950-09-21/ch967/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967%2Fs2
-[/us/pl/102/242/s241/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs241%2Fa
+[/us/act/1950-09-21/ch967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967
+[/us/pl/102/242/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtII
 [/us/stat/105/2317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2317
-[/us/pl/102/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F389
+[/us/pl/102/389/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F389%2FtII
 [/us/stat/106/1592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1592
-[/us/pl/102/550/s503/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs503%2Fc%2F4
+[/us/pl/102/550/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtV
 [/us/stat/106/3780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3780
 [/us/pl/103/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F204
 [/us/stat/107/2391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2391
-[/us/pl/103/325/s602/a/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs602%2Fa%2F65
+[/us/pl/103/325/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtVI
 [/us/stat/108/2291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2291
-[/us/pl/106/400/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F400%2Fs2
+[/us/pl/106/400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F400
 [/us/stat/114/1675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1675
 [/us/usc/t12/s1441a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1441a
-[/us/pl/111/203/s364/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs364%2Fb
+[/us/pl/111/203/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIII
 [/us/stat/124/1555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1555
 [/us/pl/101/73/s1204/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs1204%2Fc%2F3
 [/us/usc/t12/s1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1811
 [/us/act/1937-09-01/ch896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch896
-[/us/pl/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383
+[/us/pl/93/383/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtII
 [/us/stat/88/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F653
 [/us/usc/t42/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437
 [/us/pl/100/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77
@@ -757,32 +757,32 @@
 [/us/usc/t12/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701
 [/us/usc/t12/s1831t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1831t
 [/us/pl/106/400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F400
-[/us/pl/103/325/s602/a/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs602%2Fa%2F65
-[/us/pl/103/325/s602/a/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs602%2Fa%2F66
-[/us/pl/103/204/s14/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F204%2Fs14%2Fd%2F2
+[/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
+[/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
+[/us/pl/103/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F204
 [/us/usc/t12/s1441a/r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1441a%2Fr
-[/us/pl/103/204/s14/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F204%2Fs14%2Ff%2F2
-[/us/pl/103/204/s14/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F204%2Fs14%2Fe%2F2
-[/us/pl/103/204/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F204%2Fs13
-[/us/pl/103/204/s14/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F204%2Fs14%2Fa%2F2
+[/us/pl/103/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F204
+[/us/pl/103/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F204
+[/us/pl/103/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F204
+[/us/pl/103/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F204
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/pl/102/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F389
 [/us/pl/102/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F389
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/pl/102/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F389
-[/us/pl/103/204/s14/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F204%2Fs14%2Fb
+[/us/pl/103/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F204
 [/us/stat/107/2393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2393
-[/us/pl/105/216/s14/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F216%2Fs14%2Fe
+[/us/pl/105/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F216
 [/us/stat/112/910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F910
 [/us/usc/t12/s1441a/d/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1441a%2Fd%2F2%2FB%2Fii
 [/us/usc/t12/s1441a/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1441a%2Fc
 [/us/usc/t12/s1831q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1831q
-[/us/pl/105/216/s14/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F216%2Fs14%2Fe
+[/us/pl/105/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F216
 [/us/stat/112/910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F910
 [/us/pl/103/204/s14/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F204%2Fs14%2Fb%2F2
-[/us/pl/102/242/s241/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs241%2Fb
+[/us/pl/102/242/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtII
 [/us/stat/105/2331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2331
-[/us/pl/102/550/s1604/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1604%2Fc%2F1
+[/us/pl/102/550/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXVI
 [/us/stat/106/4083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4083
 [/us/usc/t12/s1831q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1831q
 [/us/usc/t12/s1441a/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1441a%2Fc

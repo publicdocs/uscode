@@ -91,7 +91,7 @@
 
         Notwithstanding paragraphs (1) and (2) of subsection (a), during the period beginning on December 13, 1991, and ending on the effective date of the risk based capital regulation issued by the Director under [section 2279bb–1 of this title][/us/usc/t12/s2279bb–1], the Corporation shall be classified as within level I if the Corporation equals or exceeds the minimum capital level established under [section 2279bb–2 of this title][/us/usc/t12/s2279bb–2].
 
-([Pub. L. 92–181, title VIII, § 8][/us/pl/92/181/s8].35, as added [Pub. L. 102–237, title V, § 503(b)(2)][/us/pl/102/237/s503/b/2], Dec. 13, 1991, [105 Stat. 1874][/us/stat/105/1874]; amended [Pub. L. 104–105, title I, § 116][/us/pl/104/105/s116], Feb. 10, 1996, [110 Stat. 168][/us/stat/110/168].)
+([Pub. L. 92–181, title VIII][/us/pl/92/181/tVIII], § 8.35, as added [Pub. L. 102–237, title V][/us/pl/102/237/tV], § 503(b)(2), Dec. 13, 1991, [105 Stat. 1874][/us/stat/105/1874]; amended [Pub. L. 104–105, title I][/us/pl/104/105/tI], § 116, Feb. 10, 1996, [110 Stat. 168][/us/stat/110/168].)
 
  __Amendments__ 
 
@@ -109,10 +109,10 @@
 [/us/usc/t12/s2279bb–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2279bb%E2%80%933
 [/us/usc/t12/s2279bb–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2279bb%E2%80%931
 [/us/usc/t12/s2279bb–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2279bb%E2%80%932
-[/us/pl/92/181/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs8
-[/us/pl/102/237/s503/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs503%2Fb%2F2
+[/us/pl/92/181/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtVIII
+[/us/pl/102/237/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtV
 [/us/stat/105/1874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1874
-[/us/pl/104/105/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2Fs116
+[/us/pl/104/105/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2FtI
 [/us/stat/110/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F168
 [/us/pl/104/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105
 [/us/usc/t12/s2279bb–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2279bb%E2%80%931

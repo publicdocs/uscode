@@ -43,7 +43,7 @@
 
         Except as provided in section 410(c) of the Agricultural Credit Act of 1987, no assistance shall be provided in connection with a merger until the stockholders and the institutions involved have approved the merger and the Farm Credit Administration has given final approval to the merger plan.
 
-([Pub. L. 92–181, title VI, § 6][/us/pl/92/181/s6].5, as added [Pub. L. 100–233, title II, § 201][/us/pl/100/233/s201], Jan. 6, 1988, [101 Stat. 1588][/us/stat/101/1588]; amended [Pub. L. 100–399, title II, § 201(d)][/us/pl/100/399/s201/d], (e), Aug. 17, 1988, [102 Stat. 991][/us/stat/102/991].)
+([Pub. L. 92–181, title VI][/us/pl/92/181/tVI], § 6.5, as added [Pub. L. 100–233, title II][/us/pl/100/233/tII], § 201, Jan. 6, 1988, [101 Stat. 1588][/us/stat/101/1588]; amended [Pub. L. 100–399, title II][/us/pl/100/399/tII], § 201(d), (e), Aug. 17, 1988, [102 Stat. 991][/us/stat/102/991].)
 
  __References in Text__ 
 
@@ -51,9 +51,9 @@
 
  __Amendments__ 
 
-    1988—Subsecs. (a)(1) to (3), (c). [Pub. L. 100–399, § 201(e)][/us/pl/100/399/s201/e], struck out “the appropriate provision of” after “under” wherever appearing.
+    1988—Subsecs. (a)(1) to (3), (c). [Pub. L. 100–399][/us/pl/100/399], § 201(e), struck out “the appropriate provision of” after “under” wherever appearing.
 
-    Subsec. (d). [Pub. L. 100–399, § 201(d)][/us/pl/100/399/s201/d], substituted “Except as provided in section 410(c) of the Agricultural Credit Act of 1987, no” for “No”.
+    Subsec. (d). [Pub. L. 100–399][/us/pl/100/399], § 201(d), substituted “Except as provided in section 410(c) of the Agricultural Credit Act of 1987, no” for “No”.
 
  __Effective Date of 1988 Amendment__ 
 
@@ -71,15 +71,15 @@
 [/us/usc/t12/s2278b–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2278b%E2%80%937
 [/us/usc/t12/s2278b–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2278b%E2%80%937
 [/us/usc/t12/s2278b–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2278b%E2%80%937
-[/us/pl/92/181/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs6
-[/us/pl/100/233/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs201
+[/us/pl/92/181/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtVI
+[/us/pl/100/233/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtII
 [/us/stat/101/1588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1588
-[/us/pl/100/399/s201/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs201%2Fd
+[/us/pl/100/399/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtII
 [/us/stat/102/991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F991
 [/us/pl/100/233/s410/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs410%2Fc
 [/us/usc/t12/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2011
-[/us/pl/100/399/s201/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs201%2Fe
-[/us/pl/100/399/s201/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs201%2Fd
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
 [/us/pl/100/399/s1001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs1001%2Fa

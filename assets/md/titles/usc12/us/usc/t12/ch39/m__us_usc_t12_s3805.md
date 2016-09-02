@@ -17,7 +17,7 @@
 
     Section 501(c)(1) of the Depository Institutions Deregulation and Monetary Control Act of 1980 shall not apply to transactions which are subject to this chapter.
 
-([Pub. L. 97–320, title VIII, § 806][/us/pl/97/320/s806], Oct. 15, 1982, [96 Stat. 1548][/us/stat/96/1548].)
+([Pub. L. 97–320, title VIII][/us/pl/97/320/tVIII], § 806, Oct. 15, 1982, [96 Stat. 1548][/us/stat/96/1548].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/97/320/s806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs806
+[/us/pl/97/320/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2FtVIII
 [/us/stat/96/1548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1548
 [/us/pl/96/221/s501/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs501%2Fc%2F1
 [/us/stat/94/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F161

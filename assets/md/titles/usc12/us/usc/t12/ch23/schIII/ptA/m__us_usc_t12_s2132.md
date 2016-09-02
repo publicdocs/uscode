@@ -39,7 +39,7 @@
 
         A bank for cooperatives may pay in cash such portion of its patronage refunds as will permit its taxable income to be determined without taking into account savings applied as allocated surplus, allocated contingency reserves, and patronage refunds under subsection (a) of this section.
 
-([Pub. L. 92–181, title III, § 3][/us/pl/92/181/s3].11, Dec. 10, 1971, [85 Stat. 606][/us/stat/85/606]; [Pub. L. 96–592, title III, § 308][/us/pl/96/592/s308], Dec. 24, 1980, [94 Stat. 3445][/us/stat/94/3445]; [Pub. L. 99–205, title II, § 205(e)(7)][/us/pl/99/205/s205/e/7], (8), Dec. 23, 1985, [99 Stat. 1705][/us/stat/99/1705]; [Pub. L. 100–233, title VIII][/us/pl/100/233], §§ 802(r), 805(n), Jan. 6, 1988, [101 Stat. 1712][/us/stat/101/1712], 1716.)
+([Pub. L. 92–181, title III][/us/pl/92/181/tIII], § 3.11, Dec. 10, 1971, [85 Stat. 606][/us/stat/85/606]; [Pub. L. 96–592, title III][/us/pl/96/592/tIII], § 308, Dec. 24, 1980, [94 Stat. 3445][/us/stat/94/3445]; [Pub. L. 99–205, title II][/us/pl/99/205/tII], § 205(e)(7), (8), Dec. 23, 1985, [99 Stat. 1705][/us/stat/99/1705]; [Pub. L. 100–233, title VIII][/us/pl/100/233/tVIII], §§ 802(r), 805(n), Jan. 6, 1988, [101 Stat. 1712][/us/stat/101/1712], 1716.)
 
  __Amendments__ 
 
@@ -49,19 +49,19 @@
 
     Subsec. (c). [Pub. L. 100–233][/us/pl/100/233], §§ 802(r)(3), 805(n)(3), (5), redesignated subsec. (d) as (c) and substituted “(a) of this section” for “(b) of this section whichever is applicable,” and “may be approved by the board of directors” for “the Farm Credit Administration may approve”. Former subsec. (c) redesignated (b).
 
-    Subsecs. (d), (e). [Pub. L. 100–233, § 805(n)(5)][/us/pl/100/233/s805/n/5], redesignated subsecs. (e) and (f) as (d) and (e), respectively. Former subsec. (d) redesignated (c).
+    Subsecs. (d), (e). [Pub. L. 100–233][/us/pl/100/233], § 805(n)(5), redesignated subsecs. (e) and (f) as (d) and (e), respectively. Former subsec. (d) redesignated (c).
 
-    Subsecs. (f), (g). [Pub. L. 100–233, § 805(n)(4)][/us/pl/100/233/s805/n/4], (5), redesignated subsec. (g) as (f), substituted “A bank for cooperatives” for “For any year that a bank for cooperatives is subject to Federal income tax, it”, and struck out “or (b)” after “subsection (a)”. Former subsec. (f) redesignated (e).
+    Subsecs. (f), (g). [Pub. L. 100–233][/us/pl/100/233], § 805(n)(4), (5), redesignated subsec. (g) as (f), substituted “A bank for cooperatives” for “For any year that a bank for cooperatives is subject to Federal income tax, it”, and struck out “or (b)” after “subsection (a)”. Former subsec. (f) redesignated (e).
 
-    1985—Subsec. (a). [Pub. L. 99–205, § 205(e)(7)][/us/pl/99/205/s205/e/7], struck out subsec. (a) which provided for application of savings when bank for cooperatives has outstanding stock held by the Governor.
+    1985—Subsec. (a). [Pub. L. 99–205][/us/pl/99/205], § 205(e)(7), struck out subsec. (a) which provided for application of savings when bank for cooperatives has outstanding stock held by the Governor.
 
-    Subsec. (b). [Pub. L. 99–205, § 205(e)(8)(A)][/us/pl/99/205/s205/e/8/A], substituted “At the end of each fiscal year, the net” for “Whenever at the end of any fiscal year a bank for cooperatives shall have no outstanding capital stock held by the Governor of the Farm Credit Administration, the net”.
+    Subsec. (b). [Pub. L. 99–205][/us/pl/99/205], § 205(e)(8)(A), substituted “At the end of each fiscal year, the net” for “Whenever at the end of any fiscal year a bank for cooperatives shall have no outstanding capital stock held by the Governor of the Farm Credit Administration, the net”.
 
-    Subsecs. (c), (d). [Pub. L. 99–205, § 205(e)(8)(B)][/us/pl/99/205/s205/e/8/B], substituted “subsection (b) of this section” for “subsection (a) or (b) of this section”.
+    Subsecs. (c), (d). [Pub. L. 99–205][/us/pl/99/205], § 205(e)(8)(B), substituted “subsection (b) of this section” for “subsection (a) or (b) of this section”.
 
-    1980—Subsec. (b). [Pub. L. 96–592, § 308(1)][/us/pl/96/592/s308/1], struck out provisions relating to 25 per centum requirement for net savings.
+    1980—Subsec. (b). [Pub. L. 96–592][/us/pl/96/592], § 308(1), struck out provisions relating to 25 per centum requirement for net savings.
 
-    Subsec. (c). [Pub. L. 96–592, § 308(2)][/us/pl/96/592/s308/2], inserted applicability to participation certificates and to borrowers to whom refunds are payable.
+    Subsec. (c). [Pub. L. 96–592][/us/pl/96/592], § 308(2), inserted applicability to participation certificates and to borrowers to whom refunds are payable.
 
  __Effective Date of 1985 Amendment__ 
 
@@ -74,25 +74,25 @@
 ----------
 ----------
 
-[/us/pl/92/181/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs3
+[/us/pl/92/181/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtIII
 [/us/stat/85/606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F606
-[/us/pl/96/592/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592%2Fs308
+[/us/pl/96/592/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592%2FtIII
 [/us/stat/94/3445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3445
-[/us/pl/99/205/s205/e/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2Fs205%2Fe%2F7
+[/us/pl/99/205/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2FtII
 [/us/stat/99/1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1705
-[/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
+[/us/pl/100/233/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtVIII
 [/us/stat/101/1712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1712
 [/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
 [/us/usc/t12/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2151
 [/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
 [/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
-[/us/pl/100/233/s805/n/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs805%2Fn%2F5
-[/us/pl/100/233/s805/n/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs805%2Fn%2F4
-[/us/pl/99/205/s205/e/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2Fs205%2Fe%2F7
-[/us/pl/99/205/s205/e/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2Fs205%2Fe%2F8%2FA
-[/us/pl/99/205/s205/e/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2Fs205%2Fe%2F8%2FB
-[/us/pl/96/592/s308/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592%2Fs308%2F1
-[/us/pl/96/592/s308/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592%2Fs308%2F2
+[/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
+[/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
+[/us/pl/99/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205
+[/us/pl/99/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205
+[/us/pl/99/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205
+[/us/pl/96/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592
+[/us/pl/96/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592
 [/us/pl/99/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205
 [/us/pl/99/205/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2Fs401
 [/us/usc/t12/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2001

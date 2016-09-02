@@ -33,11 +33,11 @@
 
             (D) is made in whole or in part by any “creditor”, as defined in section 1602(f)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of title 15, who makes or invests in residential real estate loans aggregating more than $1,000,000 per year.
 
-([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title V, § 527, as added [Pub. L. 93–383, title VIII, § 808(a)][/us/pl/93/383/s808/a], Aug. 22, 1974, [88 Stat. 728][/us/stat/88/728]; amended [Pub. L. 98–479, title II, § 204(a)(22)][/us/pl/98/479/s204/a/22], Oct. 17, 1984, [98 Stat. 2233][/us/stat/98/2233].)
+([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title V, § 527, as added [Pub. L. 93–383, title VIII][/us/pl/93/383/tVIII], § 808(a), Aug. 22, 1974, [88 Stat. 728][/us/stat/88/728]; amended [Pub. L. 98–479, title II][/us/pl/98/479/tII], § 204(a)(22), Oct. 17, 1984, [98 Stat. 2233][/us/stat/98/2233].)
 
  __References in Text__ 
 
-    [Section 1602(f) of title 15][/us/usc/t15/s1602/f], referred to in subsec. (b)(2)(D), was redesignated [section 1602(g) of title 15][/us/usc/t15/s1602/g] by [Pub. L. 111–203, title X, § 1100A(1)(A)][/us/pl/111/203/s1100A/1/A], July 21, 2010, [124 Stat. 2107][/us/stat/124/2107].
+    [Section 1602(f) of title 15][/us/usc/t15/s1602/f], referred to in subsec. (b)(2)(D), was redesignated [section 1602(g) of title 15][/us/usc/t15/s1602/g] by [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1100A(1)(A), July 21, 2010, [124 Stat. 2107][/us/stat/124/2107].
 
  __Amendments__ 
 
@@ -51,13 +51,13 @@
 ----------
 
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
-[/us/pl/93/383/s808/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs808%2Fa
+[/us/pl/93/383/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtVIII
 [/us/stat/88/728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F728
-[/us/pl/98/479/s204/a/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2Fs204%2Fa%2F22
+[/us/pl/98/479/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2FtII
 [/us/stat/98/2233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2233
 [/us/usc/t15/s1602/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1602%2Ff
 [/us/usc/t15/s1602/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1602%2Fg
-[/us/pl/111/203/s1100A/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F1%2FA
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2107
 [/us/pl/98/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479
 

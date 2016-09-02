@@ -11,17 +11,17 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t12/ch28/m__us_usc_t12_s2708.md) | [Next](./../../../..//us/usc/t12/ch28/m__us_usc_t12_s2712.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2711)
+[Previous](./../../../..//us/usc/t12/ch28/m__us_usc_t12_s2709 _us_usc_t12_s2710.md) | [Next](./../../../..//us/usc/t12/ch28/m__us_usc_t12_s2712.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2711)
 
 ## § 2711. Nonapplicability of other laws
 
     Notwithstanding any provision of law which limits the nature, amount, term, form, or rate of interest, or the nature, amount, or form of security of loans or advances of credit, loans, or advances of credit may be made in accordance with the provisions of this chapter without regard to such provision of law.
 
-([Pub. L. 94–50, title I, § 110][/us/pl/94/50/s110], formerly § 112, July 2, 1975, [89 Stat. 254][/us/stat/89/254]; renumbered § 110, [Pub. L. 111–203, title XIV, § 1496(b)(8)][/us/pl/111/203/s1496/b/8], July 21, 2010, [124 Stat. 2209][/us/stat/124/2209].)
+([Pub. L. 94–50, title I][/us/pl/94/50/tI], § 110, formerly § 112, July 2, 1975, [89 Stat. 254][/us/stat/89/254]; renumbered § 110, [Pub. L. 111–203, title XIV][/us/pl/111/203/tXIV], § 1496(b)(8), July 21, 2010, [124 Stat. 2209][/us/stat/124/2209].)
 
  __Prior Provisions__ 
 
-    A prior [section 110 of Pub. L. 94–50][/us/pl/94/50/s110], which related to waiver and relaxation by institutions and approved mortgagees of limitations with respect to mortgage delinquencies; notification to Federal supervisory agency prior to foreclosure proceedings, was classified to [section 2709 of this title][/us/usc/t12/s2709] prior to repeal by [Pub. L. 111–203, title XIV, § 1496(b)(7)][/us/pl/111/203/s1496/b/7], July 21, 2010, [124 Stat. 2209][/us/stat/124/2209].
+    A prior [section 110 of Pub. L. 94–50][/us/pl/94/50/s110], which related to waiver and relaxation by institutions and approved mortgagees of limitations with respect to mortgage delinquencies; notification to Federal supervisory agency prior to foreclosure proceedings, was classified to [section 2709 of this title][/us/usc/t12/s2709] prior to repeal by [Pub. L. 111–203, title XIV][/us/pl/111/203/tXIV], § 1496(b)(7), July 21, 2010, [124 Stat. 2209][/us/stat/124/2209].
 
  __Effective Date of 2010 Amendment__ 
 
@@ -29,18 +29,18 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t12/ch28/m__us_usc_t12_s2708.md) | [Next](./../../../..//us/usc/t12/ch28/m__us_usc_t12_s2712.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2711)
+[Previous](./../../../..//us/usc/t12/ch28/m__us_usc_t12_s2709 _us_usc_t12_s2710.md) | [Next](./../../../..//us/usc/t12/ch28/m__us_usc_t12_s2712.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2711)
 
 ----------
 ----------
 
-[/us/pl/94/50/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F50%2Fs110
+[/us/pl/94/50/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F50%2FtI
 [/us/stat/89/254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F254
-[/us/pl/111/203/s1496/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1496%2Fb%2F8
+[/us/pl/111/203/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtXIV
 [/us/stat/124/2209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2209
 [/us/pl/94/50/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F50%2Fs110
 [/us/usc/t12/s2709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2709
-[/us/pl/111/203/s1496/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1496%2Fb%2F7
+[/us/pl/111/203/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtXIV
 [/us/stat/124/2209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2209
 [/us/pl/94/50/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F50%2Fs112
 [/us/pl/94/50/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F50%2Fs110

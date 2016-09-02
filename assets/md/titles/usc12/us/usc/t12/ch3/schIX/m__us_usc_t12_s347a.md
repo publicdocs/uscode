@@ -21,11 +21,11 @@
 
     Member banks are authorized to obligate themselves in accordance with the provisions of this section.
 
-([Dec. 23, 1913, ch. 6, § 10A][/us/act/1913-12-23/ch6/s10A], formerly § 10(a), as added [Feb. 27, 1932, ch. 58, § 1][/us/act/1932-02-27/ch58/s1], [47 Stat. 56][/us/stat/47/56]; amended [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 203(a), [49 Stat. 704][/us/stat/49/704]; renumbered § 10A, [Pub. L. 102–242, title I, § 142(a)(1)][/us/pl/102/242/s142/a/1], Dec. 19, 1991, [105 Stat. 2279][/us/stat/105/2279].)
+([Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 10A, formerly § 10(a), as added [Feb. 27, 1932, ch. 58][/us/act/1932-02-27/ch58], § 1, [47 Stat. 56][/us/stat/47/56]; amended [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 203(a), [49 Stat. 704][/us/stat/49/704]; renumbered § 10A, [Pub. L. 102–242, title I][/us/pl/102/242/tI], § 142(a)(1), Dec. 19, 1991, [105 Stat. 2279][/us/stat/105/2279].)
 
  __References in Text__ 
 
-    [Section 347b of this title][/us/usc/t12/s347b], referred to in first par., was in the original a reference to section 10(b), meaning section 10(b) of the Federal Reserve Act. Section 10(b) of that Act was renumbered section 10B by [Pub. L. 102–242, title I, § 142(a)(2)][/us/pl/102/242/s142/a/2], Dec. 19, 1991, [105 Stat. 2279][/us/stat/105/2279], without a corresponding amendment to this section.
+    [Section 347b of this title][/us/usc/t12/s347b], referred to in first par., was in the original a reference to section 10(b), meaning section 10(b) of the Federal Reserve Act. Section 10(b) of that Act was renumbered section 10B by [Pub. L. 102–242, title I][/us/pl/102/242/tI], § 142(a)(2), Dec. 19, 1991, [105 Stat. 2279][/us/stat/105/2279], without a corresponding amendment to this section.
 
  __Change of Name__ 
 
@@ -39,15 +39,15 @@
 ----------
 
 [/us/usc/t12/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs412
-[/us/act/1913-12-23/ch6/s10A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs10A
-[/us/act/1932-02-27/ch58/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-02-27%2Fch58%2Fs1
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
+[/us/act/1932-02-27/ch58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-02-27%2Fch58
 [/us/stat/47/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F56
 [/us/act/1935-08-23/ch614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch614
 [/us/stat/49/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F704
-[/us/pl/102/242/s142/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs142%2Fa%2F1
+[/us/pl/102/242/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtI
 [/us/stat/105/2279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2279
 [/us/usc/t12/s347b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs347b
-[/us/pl/102/242/s142/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs142%2Fa%2F2
+[/us/pl/102/242/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtI
 [/us/stat/105/2279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2279
 
 

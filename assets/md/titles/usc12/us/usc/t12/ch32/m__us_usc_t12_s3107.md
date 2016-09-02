@@ -37,7 +37,7 @@
 
         This chapter does not authorize the establishment of a representative office in any State in contravention of State law.
 
-([Pub. L. 95–369, § 10][/us/pl/95/369/s10], Sept. 17, 1978, [92 Stat. 624][/us/stat/92/624]; [Pub. L. 102–242, title II, § 204][/us/pl/102/242/s204], Dec. 19, 1991, [105 Stat. 2292][/us/stat/105/2292]; [Pub. L. 102–550, title XVI, § 1604(a)(4)][/us/pl/102/550/s1604/a/4], Oct. 28, 1992, [106 Stat. 4082][/us/stat/106/4082]; [Pub. L. 106–102, title I, § 142(b)][/us/pl/106/102/s142/b], Nov. 12, 1999, [113 Stat. 1384][/us/stat/113/1384].)
+([Pub. L. 95–369][/us/pl/95/369], § 10, Sept. 17, 1978, [92 Stat. 624][/us/stat/92/624]; [Pub. L. 102–242, title II][/us/pl/102/242/tII], § 204, Dec. 19, 1991, [105 Stat. 2292][/us/stat/105/2292]; [Pub. L. 102–550, title XVI][/us/pl/102/550/tXVI], § 1604(a)(4), Oct. 28, 1992, [106 Stat. 4082][/us/stat/106/4082]; [Pub. L. 106–102, title I][/us/pl/106/102/tI], § 142(b), Nov. 12, 1999, [113 Stat. 1384][/us/stat/113/1384].)
 
  __References in Text__ 
 
@@ -67,7 +67,7 @@
 
  __Moratorium on Examination Fees Under This Chapter__ 
 
-[Pub. L. 103–328, title I, § 115(b)][/us/pl/103/328/s115/b], Sept. 29, 1994, [108 Stat. 2368][/us/stat/108/2368], provided that: 
+[Pub. L. 103–328, title I][/us/pl/103/328/tI], § 115(b), Sept. 29, 1994, [108 Stat. 2368][/us/stat/108/2368], provided that: 
 
 > “The provision of section 10(c) of the International Banking Act of 1978 \[[12 U.S.C. 3107(c)][/us/usc/t12/s3107/c]\] relating to the cost of examinations under such section shall not apply with respect to any examination under such section which begins before or during the 3-year period beginning on July 25, 1994.”
 
@@ -81,13 +81,13 @@
 [/us/usc/t12/s3105/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3105%2Fd%2F2
 [/us/usc/t12/s3105/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3105%2Fe
 [/us/usc/t12/s1841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1841
-[/us/pl/95/369/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F369%2Fs10
+[/us/pl/95/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F369
 [/us/stat/92/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F624
-[/us/pl/102/242/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs204
+[/us/pl/102/242/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtII
 [/us/stat/105/2292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2292
-[/us/pl/102/550/s1604/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1604%2Fa%2F4
+[/us/pl/102/550/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXVI
 [/us/stat/106/4082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4082
-[/us/pl/106/102/s142/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs142%2Fb
+[/us/pl/106/102/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtI
 [/us/stat/113/1384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1384
 [/us/usc/t12/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3101
 [/us/act/1956-05-09/ch240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-05-09%2Fch240
@@ -105,7 +105,7 @@
 [/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
 [/us/pl/102/550/s1609/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1609%2Fa
 [/us/usc/t12/s191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs191
-[/us/pl/103/328/s115/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328%2Fs115%2Fb
+[/us/pl/103/328/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328%2FtI
 [/us/stat/108/2368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2368
 [/us/usc/t12/s3107/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3107%2Fc
 

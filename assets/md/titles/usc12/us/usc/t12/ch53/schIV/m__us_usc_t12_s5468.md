@@ -79,7 +79,7 @@
 
         Information obtained by the Board of Governors, the Supervisory Agencies, or the Council under this section and any materials prepared by the Board of Governors, the Supervisory Agencies, or the Council regarding their assessment of the systemic importance of financial market utilities or any payment, clearing, or settlement activities engaged in by financial institutions, and in connection with their supervision of designated financial market utilities and designated activities, shall be confidential supervisory information exempt from disclosure under [section 552 of title 5][/us/usc/t5/s552]. For purposes of such section 552, this subsection shall be considered a statute described in subsection (b)(3) of such section 552.
 
-([Pub. L. 111–203, title VIII, § 809][/us/pl/111/203/s809], July 21, 2010, [124 Stat. 1818][/us/stat/124/1818].)
+([Pub. L. 111–203, title VIII][/us/pl/111/203/tVIII], § 809, July 21, 2010, [124 Stat. 1818][/us/stat/124/1818].)
 
 ----------
 
@@ -96,7 +96,7 @@
 [/us/usc/t12/s5464/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5464%2Fa%2F2
 [/us/usc/t7/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs12
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
-[/us/pl/111/203/s809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs809
+[/us/pl/111/203/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVIII
 [/us/stat/124/1818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1818
 
 

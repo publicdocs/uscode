@@ -19,7 +19,7 @@
 
     (b) A cease and desist order shall become effective at the expiration of thirty days after the service of such order upon the institution or other person concerned (except in the case of a cease and desist order issued upon consent, which shall become effective at the time specified therein), and shall remain effective and enforceable as provided therein except to such extent as it is stayed, modified, terminated, or set aside by action of the Farm Credit Administration or a reviewing court.
 
-([Pub. L. 92–181, title V, § 5][/us/pl/92/181/s5].25, as added [Pub. L. 99–205, title II, § 204][/us/pl/99/205/s204], Dec. 23, 1985, [99 Stat. 1694][/us/stat/99/1694].)
+([Pub. L. 92–181, title V][/us/pl/92/181/tV], § 5.25, as added [Pub. L. 99–205, title II][/us/pl/99/205/tII], § 204, Dec. 23, 1985, [99 Stat. 1694][/us/stat/99/1694].)
 
  __Prior Provisions__ 
 
@@ -36,8 +36,8 @@
 ----------
 ----------
 
-[/us/pl/92/181/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs5
-[/us/pl/99/205/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2Fs204
+[/us/pl/92/181/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtV
+[/us/pl/99/205/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2FtII
 [/us/stat/99/1694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1694
 [/us/pl/92/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181
 [/us/usc/t12/s2259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2259

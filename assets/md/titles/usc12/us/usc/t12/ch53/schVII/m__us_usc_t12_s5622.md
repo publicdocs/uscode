@@ -43,7 +43,7 @@
 
         The term “federally insured depository institution” means any insured depository institution (as that term is defined in [section 1813 of this title][/us/usc/t12/s1813]) and any insured credit union (as that term is defined in [section 1752 of this title][/us/usc/t12/s1752]).
 
-([Pub. L. 111–203, title XII, § 1203][/us/pl/111/203/s1203], July 21, 2010, [124 Stat. 2129][/us/stat/124/2129].)
+([Pub. L. 111–203, title XII][/us/pl/111/203/tXII], § 1203, July 21, 2010, [124 Stat. 2129][/us/stat/124/2129].)
 
  __References in Text__ 
 
@@ -60,7 +60,7 @@
 [/us/usc/t26/s501/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc%2F3
 [/us/usc/t12/s1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813
 [/us/usc/t12/s1752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1752
-[/us/pl/111/203/s1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1203
+[/us/pl/111/203/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtXII
 [/us/stat/124/2129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2129
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/2129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2129

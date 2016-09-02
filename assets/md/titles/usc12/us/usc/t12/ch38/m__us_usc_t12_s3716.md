@@ -17,7 +17,7 @@
 
     If any clause, sentence, paragraph or part of this chapter shall, for any reason, be adjudged by a court of competent jurisdiction to be invalid or invalid as applied to a class of cases, such judgment shall not affect, impair, or invalidate the remainder thereof and of this chapter, but shall be confined in its operation to the clause, sentence, paragraph, or part thereof directly involved in the controversy in which such judgment shall have been rendered.
 
-([Pub. L. 97–35, title III, § 369H][/us/pl/97/35/s369H], Aug. 13, 1981, [95 Stat. 431][/us/stat/95/431].)
+([Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 369H, Aug. 13, 1981, [95 Stat. 431][/us/stat/95/431].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/97/35/s369H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs369H
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F431
 
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t12/ch15/m__us_usc_t12_ch15.md) | [Next](./../../../..//us/usc/t12/ch16/m__us_usc_t12_s1811.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fch16)
+[Previous](./../../../..//us/usc/t12/ch15/m__us_usc_t12_s1801...1805.md) | [Next](./../../../..//us/usc/t12/ch16/m__us_usc_t12_s1811.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fch16)
 
 ## CHAPTER 16—FEDERAL DEPOSIT INSURANCE CORPORATION
 
@@ -337,7 +337,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1831" data-uslm-ref="/us/usc/t12/s1831">1831</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1831l" data-uslm-ref="/us/usc/t12/s1831l">1831l.</a>  </td>
 
     <td> Coordination of risk analysis between SEC and Federal banking agencies.  </td>
 
@@ -369,7 +369,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1831" data-uslm-ref="/us/usc/t12/s1831">1831</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1831o" data-uslm-ref="/us/usc/t12/s1831o">1831o.</a>  </td>
 
     <td> Prompt corrective action.  </td>
 
@@ -377,7 +377,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1831" data-uslm-ref="/us/usc/t12/s1831">1831</a>o–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1831o" data-uslm-ref="/us/usc/t12/s1831o">1831o</a>–1.  </td>
 
     <td> Source of strength.  </td>
 
@@ -595,7 +595,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t12/ch15/m__us_usc_t12_ch15.md) | [Next](./../../../..//us/usc/t12/ch16/m__us_usc_t12_s1811.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fch16)
+[Previous](./../../../..//us/usc/t12/ch15/m__us_usc_t12_s1801...1805.md) | [Next](./../../../..//us/usc/t12/ch16/m__us_usc_t12_s1811.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fch16)
 
 ----------
 ----------

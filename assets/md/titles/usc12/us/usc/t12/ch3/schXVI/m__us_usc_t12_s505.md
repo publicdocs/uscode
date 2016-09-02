@@ -95,7 +95,7 @@
 
         The Board shall prescribe regulations establishing such procedures as may be necessary to carry out this section.
 
-([Dec. 23, 1913, ch. 6, § 19][/us/act/1913-12-23/ch6/s19](l), formerly § 19(j), as added [Pub. L. 95–630, title I, § 102][/us/pl/95/630/s102], Nov. 10, 1978, [92 Stat. 3642][/us/stat/92/3642]; renumbered § 19(l), [Pub. L. 96–221, title I, § 105(f)][/us/pl/96/221/s105/f], Mar. 31, 1980, [94 Stat. 140][/us/stat/94/140]; amended [Pub. L. 97–320, title IV, § 424(a)][/us/pl/97/320/s424/a], (d)(2), (e), Oct. 15, 1982, [96 Stat. 1522][/us/stat/96/1522], 1523; [Pub. L. 101–73, title IX, § 907(h)][/us/pl/101/73/s907/h], Aug. 9, 1989, [103 Stat. 472][/us/stat/103/472].)
+([Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 19(l), formerly § 19(j), as added [Pub. L. 95–630, title I][/us/pl/95/630/tI], § 102, Nov. 10, 1978, [92 Stat. 3642][/us/stat/92/3642]; renumbered § 19(l), [Pub. L. 96–221, title I][/us/pl/96/221/tI], § 105(f), Mar. 31, 1980, [94 Stat. 140][/us/stat/94/140]; amended [Pub. L. 97–320, title IV][/us/pl/97/320/tIV], § 424(a), (d)(2), (e), Oct. 15, 1982, [96 Stat. 1522][/us/stat/96/1522], 1523; [Pub. L. 101–73, title IX][/us/pl/101/73/tIX], § 907(h), Aug. 9, 1989, [103 Stat. 472][/us/stat/103/472].)
 
  __References in Text__ 
 
@@ -105,9 +105,9 @@
 
     1989—[Pub. L. 101–73][/us/pl/101/73] amended section generally, revising and restating as pars. (1) to (9) provisions of former pars. (1) to (7) which related to civil penalty respecting depository, reserve, etc., requirements; amount; hearing; review; action by Attorney General; and regulations.
 
-    1982—Par. (1). [Pub. L. 97–320, § 424(a)][/us/pl/97/320/s424/a], (d)(2), inserted proviso giving Board discretionary authority to compromise, etc., any civil money penalty imposed under this section, and substituted “may be assessed” for “shall be assessed”.
+    1982—Par. (1). [Pub. L. 97–320][/us/pl/97/320], § 424(a), (d)(2), inserted proviso giving Board discretionary authority to compromise, etc., any civil money penalty imposed under this section, and substituted “may be assessed” for “shall be assessed”.
 
-    Par. (4). [Pub. L. 97–320, § 424(e)][/us/pl/97/320/s424/e], substituted “twenty days from the service” for “ten days from the date”.
+    Par. (4). [Pub. L. 97–320][/us/pl/97/320], § 424(e), substituted “twenty days from the service” for “ten days from the date”.
 
  __Effective Date of 1989 Amendment__ 
 
@@ -129,18 +129,18 @@
 [/us/usc/t12/s1813/u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813%2Fu
 [/us/usc/t12/s1818/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1818%2Fi%2F2
 [/us/usc/t12/s1818/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1818%2Fh
-[/us/act/1913-12-23/ch6/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs19
-[/us/pl/95/630/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs102
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
+[/us/pl/95/630/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtI
 [/us/stat/92/3642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3642
-[/us/pl/96/221/s105/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs105%2Ff
+[/us/pl/96/221/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2FtI
 [/us/stat/94/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F140
-[/us/pl/97/320/s424/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs424%2Fa
+[/us/pl/97/320/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2FtIV
 [/us/stat/96/1522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1522
-[/us/pl/101/73/s907/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs907%2Fh
+[/us/pl/101/73/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtIX
 [/us/stat/103/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F472
 [/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
-[/us/pl/97/320/s424/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs424%2Fa
-[/us/pl/97/320/s424/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs424%2Fe
+[/us/pl/97/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320
+[/us/pl/97/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320
 [/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
 [/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
 [/us/usc/t12/s93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs93

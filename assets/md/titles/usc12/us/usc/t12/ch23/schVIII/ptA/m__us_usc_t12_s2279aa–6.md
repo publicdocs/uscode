@@ -117,7 +117,7 @@
 
                 The Corporation may not issue obligations pursuant to paragraph (2) under this subsection while any obligation issued by the Corporation under [section 2279aa–13(a) of this title][/us/usc/t12/s2279aa–13/a] remains outstanding.
 
-([Pub. L. 92–181, title VIII, § 8][/us/pl/92/181/s8].6, as added [Pub. L. 100–233, title VII, § 702][/us/pl/100/233/s702], Jan. 6, 1988, [101 Stat. 1695][/us/stat/101/1695]; amended [Pub. L. 100–399, title VI, § 601(f)][/us/pl/100/399/s601/f]–(h), Aug. 17, 1988, [102 Stat. 1005][/us/stat/102/1005]; [Pub. L. 102–237, title V, § 503(d)][/us/pl/102/237/s503/d], Dec. 13, 1991, [105 Stat. 1877][/us/stat/105/1877]; [Pub. L. 104–105, title I][/us/pl/104/105], §§ 107, 108(a), (c)(2), 109(a), (b)(4), Feb. 10, 1996, [110 Stat. 164][/us/stat/110/164], 165; [Pub. L. 110–234, title V, § 5406(b)][/us/pl/110/234/s5406/b], May 22, 2008, [122 Stat. 1158][/us/stat/122/1158]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title V, § 5406(b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1920.)
+([Pub. L. 92–181, title VIII][/us/pl/92/181/tVIII], § 8.6, as added [Pub. L. 100–233, title VII][/us/pl/100/233/tVII], § 702, Jan. 6, 1988, [101 Stat. 1695][/us/stat/101/1695]; amended [Pub. L. 100–399, title VI][/us/pl/100/399/tVI], § 601(f)–(h), Aug. 17, 1988, [102 Stat. 1005][/us/stat/102/1005]; [Pub. L. 102–237, title V][/us/pl/102/237/tV], § 503(d), Dec. 13, 1991, [105 Stat. 1877][/us/stat/105/1877]; [Pub. L. 104–105, title I][/us/pl/104/105/tI], §§ 107, 108(a), (c)(2), 109(a), (b)(4), Feb. 10, 1996, [110 Stat. 164][/us/stat/110/164], 165; [Pub. L. 110–234, title V][/us/pl/110/234/tV], § 5406(b), May 22, 2008, [122 Stat. 1158][/us/stat/122/1158]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title V, § 5406(b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1920.)
 
  __Codification__ 
 
@@ -125,11 +125,11 @@
 
  __Amendments__ 
 
-    2008—Subsec. (a)(1)(A), (B)(i). [Pub. L. 110–246, § 5406(b)][/us/pl/110/246/s5406/b], inserted “applicable” before “standards”.
+    2008—Subsec. (a)(1)(A), (B)(i). [Pub. L. 110–246][/us/pl/110/246], § 5406(b), inserted “applicable” before “standards”.
 
-    1996—Subsec. (a)(1). [Pub. L. 104–105, § 107(1)][/us/pl/104/105/s107/1], designated part of existing text as subpar. (A) and added subpar. (B).
+    1996—Subsec. (a)(1). [Pub. L. 104–105][/us/pl/104/105], § 107(1), designated part of existing text as subpar. (A) and added subpar. (B).
 
-    Subsec. (a)(2). [Pub. L. 104–105, § 108(c)(2)][/us/pl/104/105/s108/c/2], struck out “subject to the provisions of subsection (b) of this section” after “paragraph (1),”.
+    Subsec. (a)(2). [Pub. L. 104–105][/us/pl/104/105], § 108(c)(2), struck out “subject to the provisions of subsection (b) of this section” after “paragraph (1),”.
 
     Subsec. (b). [Pub. L. 104–105][/us/pl/104/105], §§ 108(a), 109(a)(2), redesignated subsec. (d) as (b) and struck out heading and text of former subsec.(b). Text read as follows: “In the case of any pool referred to in subsection (a) of this section, the Corporation shall—
 
@@ -141,27 +141,27 @@
 
     “(4) ensure the timely receipt of principal and interest due to security or obligation holders only after full recourse has been taken against such reserves and retained subordinated participating interests.”
 
-    Subsec. (b)(4) to (6). [Pub. L. 104–105, § 109(b)(4)][/us/pl/104/105/s109/b/4], redesignated pars. (5) and (6) as (4) and (5), respectively, and struck out heading and text of former par. (4). Text read as follows: “The facility shall comply with the standards adopted by the Board under subsection (c) of this section in establishing and maintaining the pool.”
+    Subsec. (b)(4) to (6). [Pub. L. 104–105][/us/pl/104/105], § 109(b)(4), redesignated pars. (5) and (6) as (4) and (5), respectively, and struck out heading and text of former par. (4). Text read as follows: “The facility shall comply with the standards adopted by the Board under subsection (c) of this section in establishing and maintaining the pool.”
 
-    Subsec. (c). [Pub. L. 104–105, § 109(a)][/us/pl/104/105/s109/a], redesignated subsec. (e) as (c) and struck out heading and text of former subsec. (c) which related to standards requiring diversified pools, including establishment of minimum criteria for pools of qualified loans, provisions to encourage loans to small farms and family farmers, and requirements for congressional review of standards.
+    Subsec. (c). [Pub. L. 104–105][/us/pl/104/105], § 109(a), redesignated subsec. (e) as (c) and struck out heading and text of former subsec. (c) which related to standards requiring diversified pools, including establishment of minimum criteria for pools of qualified loans, provisions to encourage loans to small farms and family farmers, and requirements for congressional review of standards.
 
-    Subsec. (d). [Pub. L. 104–105, § 109(a)(2)][/us/pl/104/105/s109/a/2], redesignated subsec. (f) as (d). Former subsec. (d) redesignated (b).
+    Subsec. (d). [Pub. L. 104–105][/us/pl/104/105], § 109(a)(2), redesignated subsec. (f) as (d). Former subsec. (d) redesignated (b).
 
-    Subsec. (d)(4) to (7). [Pub. L. 104–105, § 107(2)][/us/pl/104/105/s107/2], redesignated pars. (5) to (7) as (4) to (6), respectively, and struck out heading and text of former par. (4). Text read as follows: “Each loan in the pool shall have been sold to the certified facility without recourse to the originator of such loan (other than recourse to any interest of such originator in a reserve established in connection with such loan or any subordinated participation interest of such originator in such loan).”
+    Subsec. (d)(4) to (7). [Pub. L. 104–105][/us/pl/104/105], § 107(2), redesignated pars. (5) to (7) as (4) to (6), respectively, and struck out heading and text of former par. (4). Text read as follows: “Each loan in the pool shall have been sold to the certified facility without recourse to the originator of such loan (other than recourse to any interest of such originator in a reserve established in connection with such loan or any subordinated participation interest of such originator in such loan).”
 
-    Subsecs. (e), (f). [Pub. L. 104–105, § 109(a)(2)][/us/pl/104/105/s109/a/2], redesignated subsecs. (f) and (g) as (d) and (e), respectively. Former subsec. (e) redesignated (c).
+    Subsecs. (e), (f). [Pub. L. 104–105][/us/pl/104/105], § 109(a)(2), redesignated subsecs. (f) and (g) as (d) and (e), respectively. Former subsec. (e) redesignated (c).
 
-    Subsec. (g). [Pub. L. 104–105, § 109(a)(2)][/us/pl/104/105/s109/a/2], redesignated subsec. (g) as (e).
+    Subsec. (g). [Pub. L. 104–105][/us/pl/104/105], § 109(a)(2), redesignated subsec. (g) as (e).
 
-    Subsec. (g)(2). [Pub. L. 104–105, § 107(3)][/us/pl/104/105/s107/3], substituted “2279aa(9) of this title” for “2279aa(9)(B) of this title”.
+    Subsec. (g)(2). [Pub. L. 104–105][/us/pl/104/105], § 107(3), substituted “2279aa(9) of this title” for “2279aa(9)(B) of this title”.
 
     1991—Subsec. (g). [Pub. L. 102–237][/us/pl/102/237] added subsec. (g).
 
-    1988—Subsec. (a)(1). [Pub. L. 100–399, § 601(f)][/us/pl/100/399/s601/f], substituted “represents interests solely in, or obligations fully backed by, any pool consisting solely of qualified loans which meet the standards established under [section 2279aa–8 of this title][/us/usc/t12/s2279aa–8] and which are” for “represents interests in, or obligations backed by, any pool of qualified loans”.
+    1988—Subsec. (a)(1). [Pub. L. 100–399][/us/pl/100/399], § 601(f), substituted “represents interests solely in, or obligations fully backed by, any pool consisting solely of qualified loans which meet the standards established under [section 2279aa–8 of this title][/us/usc/t12/s2279aa–8] and which are” for “represents interests in, or obligations backed by, any pool of qualified loans”.
 
-    Subsec. (e). [Pub. L. 100–399, § 601(g)][/us/pl/100/399/s601/g], redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “registration requirements (if any) with respect to such securities; and”.
+    Subsec. (e). [Pub. L. 100–399][/us/pl/100/399], § 601(g), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “registration requirements (if any) with respect to such securities; and”.
 
-    Subsec. (f)(1). [Pub. L. 100–399, § 601(h)][/us/pl/100/399/s601/h], substituted “date of the enactment” for “effective date”, both of which for purposes of codification were translated as “January 6, 1988,”.
+    Subsec. (f)(1). [Pub. L. 100–399][/us/pl/100/399], § 601(h), substituted “date of the enactment” for “effective date”, both of which for purposes of codification were translated as “January 6, 1988,”.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -183,39 +183,39 @@
 [/us/usc/t12/s2279aa–13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2279aa%E2%80%9313
 [/us/usc/t12/s2279aa/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2279aa%2F9
 [/us/usc/t12/s2279aa–13/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2279aa%E2%80%9313%2Fa
-[/us/pl/92/181/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs8
-[/us/pl/100/233/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs702
+[/us/pl/92/181/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtVIII
+[/us/pl/100/233/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtVII
 [/us/stat/101/1695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1695
-[/us/pl/100/399/s601/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs601%2Ff
+[/us/pl/100/399/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtVI
 [/us/stat/102/1005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1005
-[/us/pl/102/237/s503/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs503%2Fd
+[/us/pl/102/237/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtV
 [/us/stat/105/1877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1877
-[/us/pl/104/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105
+[/us/pl/104/105/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2FtI
 [/us/stat/110/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F164
-[/us/pl/110/234/s5406/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs5406%2Fb
+[/us/pl/110/234/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtV
 [/us/stat/122/1158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1158
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s5406/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs5406%2Fb
-[/us/pl/104/105/s107/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2Fs107%2F1
-[/us/pl/104/105/s108/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2Fs108%2Fc%2F2
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/104/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105
-[/us/pl/104/105/s109/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2Fs109%2Fb%2F4
-[/us/pl/104/105/s109/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2Fs109%2Fa
-[/us/pl/104/105/s109/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2Fs109%2Fa%2F2
-[/us/pl/104/105/s107/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2Fs107%2F2
-[/us/pl/104/105/s109/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2Fs109%2Fa%2F2
-[/us/pl/104/105/s109/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2Fs109%2Fa%2F2
-[/us/pl/104/105/s107/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2Fs107%2F3
+[/us/pl/104/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105
+[/us/pl/104/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105
+[/us/pl/104/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105
+[/us/pl/104/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105
+[/us/pl/104/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105
+[/us/pl/104/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105
+[/us/pl/104/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105
+[/us/pl/104/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105
+[/us/pl/104/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
-[/us/pl/100/399/s601/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs601%2Ff
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/usc/t12/s2279aa–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2279aa%E2%80%938
-[/us/pl/100/399/s601/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs601%2Fg
-[/us/pl/100/399/s601/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs601%2Fh
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

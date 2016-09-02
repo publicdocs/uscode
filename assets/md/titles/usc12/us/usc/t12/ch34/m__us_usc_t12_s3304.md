@@ -17,7 +17,7 @@
 
     One-fifth of the costs and expenses of the Council, including the salaries of its employees, shall be paid by each of the Federal financial institutions regulatory agencies. Annual assessments for such share shall be levied by the Council based upon its projected budget for the year, and additional assessments may be made during the year if necessary.
 
-([Pub. L. 95–630, title X, § 1005][/us/pl/95/630/s1005], Nov. 10, 1978, [92 Stat. 3695][/us/stat/92/3695].)
+([Pub. L. 95–630, title X][/us/pl/95/630/tX], § 1005, Nov. 10, 1978, [92 Stat. 3695][/us/stat/92/3695].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/630/s1005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs1005
+[/us/pl/95/630/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtX
 [/us/stat/92/3695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3695
 
 

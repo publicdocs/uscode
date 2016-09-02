@@ -123,37 +123,37 @@
 
         The cancellation or termination under this section of the private mortgage insurance of a mortgagor shall not affect the rights of any mortgagee, servicer, or mortgage insurer to enforce any obligation of such mortgagor for premium payments accrued prior to the date on which such cancellation or termination occurred.
 
-([Pub. L. 105–216, § 3][/us/pl/105/216/s3], July 29, 1998, [112 Stat. 899][/us/stat/112/899]; [Pub. L. 106–569, title IV][/us/pl/106/569], §§ 402(a)(2), (c)(1), 403(a), 404, 405(b), (c), Dec. 27, 2000, [114 Stat. 2956–2958][/us/stat/114/2956-2958].)
+([Pub. L. 105–216][/us/pl/105/216], § 3, July 29, 1998, [112 Stat. 899][/us/stat/112/899]; [Pub. L. 106–569, title IV][/us/pl/106/569/tIV], §§ 402(a)(2), (c)(1), 403(a), 404, 405(b), (c), Dec. 27, 2000, [114 Stat. 2956–2958][/us/stat/114/2956-2958].)
 
  __Amendments__ 
 
-    2000—Subsec. (a). [Pub. L. 106–569, § 404(1)(A)][/us/pl/106/569/s404/1/A], inserted “or any later date that the mortgagor fulfills all of the requirements under paragraphs (1) through (4)” after “cancellation date” in introductory provisions.
+    2000—Subsec. (a). [Pub. L. 106–569][/us/pl/106/569], § 404(1)(A), inserted “or any later date that the mortgagor fulfills all of the requirements under paragraphs (1) through (4)” after “cancellation date” in introductory provisions.
 
-    Subsec. (a)(3), (4). [Pub. L. 106–569, § 404(1)(B)][/us/pl/106/569/s404/1/B]–(D), added par. (3) and redesignated former par. (3) as (4).
+    Subsec. (a)(3), (4). [Pub. L. 106–569][/us/pl/106/569], § 404(1)(B)–(D), added par. (3) and redesignated former par. (3) as (4).
 
-    Subsec. (b)(2). [Pub. L. 106–569, § 405(b)][/us/pl/106/569/s405/b], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “on the date after the termination date on which the mortgagor becomes current on the payments required by the terms of the residential mortgage transaction.”
+    Subsec. (b)(2). [Pub. L. 106–569][/us/pl/106/569], § 405(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “on the date after the termination date on which the mortgagor becomes current on the payments required by the terms of the residential mortgage transaction.”
 
-    Subsec. (c). [Pub. L. 106–569, § 403(a)(1)][/us/pl/106/569/s403/a/1], inserted “on residential mortgage transactions” after “requirement be imposed”.
+    Subsec. (c). [Pub. L. 106–569][/us/pl/106/569], § 403(a)(1), inserted “on residential mortgage transactions” after “requirement be imposed”.
 
-    Subsec. (d). [Pub. L. 106–569, § 402(c)(1)(B)][/us/pl/106/569/s402/c/1/B], added subsec. (d). Former subsec. (d) redesignated (e).
+    Subsec. (d). [Pub. L. 106–569][/us/pl/106/569], § 402(c)(1)(B), added subsec. (d). Former subsec. (d) redesignated (e).
 
-    Subsec. (e). [Pub. L. 106–569, § 402(c)(1)(A)][/us/pl/106/569/s402/c/1/A], redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
+    Subsec. (e). [Pub. L. 106–569][/us/pl/106/569], § 402(c)(1)(A), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
-    Subsec. (e)(1)(B). [Pub. L. 106–569, § 404(2)][/us/pl/106/569/s404/2], substituted “subsection (a)(4)” for “subsection (a)(3)”.
+    Subsec. (e)(1)(B). [Pub. L. 106–569][/us/pl/106/569], § 404(2), substituted “subsection (a)(4)” for “subsection (a)(3)”.
 
-    Subsec. (f). [Pub. L. 106–569, § 402(c)(1)(A)][/us/pl/106/569/s402/c/1/A], redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
+    Subsec. (f). [Pub. L. 106–569][/us/pl/106/569], § 402(c)(1)(A), redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
 
-    Subsec. (f)(1)(B)(ii). [Pub. L. 106–569, § 402(a)(2)][/us/pl/106/569/s402/a/2], substituted “the amortization schedule then in effect” for “amortization schedules”.
+    Subsec. (f)(1)(B)(ii). [Pub. L. 106–569][/us/pl/106/569], § 402(a)(2), substituted “the amortization schedule then in effect” for “amortization schedules”.
 
-    Subsec. (g). [Pub. L. 106–569, § 402(c)(1)(A)][/us/pl/106/569/s402/c/1/A], redesignated subsec. (f) as (g).
+    Subsec. (g). [Pub. L. 106–569][/us/pl/106/569], § 402(c)(1)(A), redesignated subsec. (f) as (g).
 
-    Subsec. (g)(1). [Pub. L. 106–569, § 403(a)(2)(A)][/us/pl/106/569/s403/a/2/A], struck out “mortgage or” after “do not apply to any residential” in introductory provisions.
+    Subsec. (g)(1). [Pub. L. 106–569][/us/pl/106/569], § 403(a)(2)(A), struck out “mortgage or” after “do not apply to any residential” in introductory provisions.
 
-    Subsec. (g)(2). [Pub. L. 106–569, § 403(a)(2)(B)][/us/pl/106/569/s403/a/2/B], struck out “mortgage or” after “in connection with a residential”.
+    Subsec. (g)(2). [Pub. L. 106–569][/us/pl/106/569], § 403(a)(2)(B), struck out “mortgage or” after “in connection with a residential”.
 
-    Subsec. (g)(3). [Pub. L. 106–569, § 403(a)(2)(C)][/us/pl/106/569/s403/a/2/C], substituted “residential mortgage or residential” for “mortgage or”.
+    Subsec. (g)(3). [Pub. L. 106–569][/us/pl/106/569], § 403(a)(2)(C), substituted “residential mortgage or residential” for “mortgage or”.
 
-    Subsec. (h). [Pub. L. 106–569, § 405(c)][/us/pl/106/569/s405/c], added subsec. (h).
+    Subsec. (h). [Pub. L. 106–569][/us/pl/106/569], § 405(c), added subsec. (h).
 
 ----------
 
@@ -163,23 +163,23 @@
 ----------
 
 [/us/usc/t12/s1454/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1454%2Fa%2F2
-[/us/pl/105/216/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F216%2Fs3
+[/us/pl/105/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F216
 [/us/stat/112/899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F899
-[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/569/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2FtIV
 [/us/stat/114/2956-2958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2956-2958
-[/us/pl/106/569/s404/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs404%2F1%2FA
-[/us/pl/106/569/s404/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs404%2F1%2FB
-[/us/pl/106/569/s405/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs405%2Fb
-[/us/pl/106/569/s403/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs403%2Fa%2F1
-[/us/pl/106/569/s402/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs402%2Fc%2F1%2FB
-[/us/pl/106/569/s402/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs402%2Fc%2F1%2FA
-[/us/pl/106/569/s404/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs404%2F2
-[/us/pl/106/569/s402/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs402%2Fc%2F1%2FA
-[/us/pl/106/569/s402/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs402%2Fa%2F2
-[/us/pl/106/569/s402/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs402%2Fc%2F1%2FA
-[/us/pl/106/569/s403/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs403%2Fa%2F2%2FA
-[/us/pl/106/569/s403/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs403%2Fa%2F2%2FB
-[/us/pl/106/569/s403/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs403%2Fa%2F2%2FC
-[/us/pl/106/569/s405/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs405%2Fc
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
 
 

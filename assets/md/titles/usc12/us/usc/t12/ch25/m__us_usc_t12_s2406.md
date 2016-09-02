@@ -19,7 +19,7 @@
 
     (b) A member of the Commission who is not otherwise an officer or employee of the United States shall be compensated at a rate of $150 per day when engaged in the performance of his duties as a member of the Commission, and shall also be reimbursed for travel, subsistence, and other necessary expenses incurred in the performance of his duties as a member of the Commission.
 
-([Pub. L. 93–495, title II, § 206][/us/pl/93/495/s206], Oct. 28, 1974, [88 Stat. 1510][/us/stat/88/1510].)
+([Pub. L. 93–495, title II][/us/pl/93/495/tII], § 206, Oct. 28, 1974, [88 Stat. 1510][/us/stat/88/1510].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/93/495/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2Fs206
+[/us/pl/93/495/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2FtII
 [/us/stat/88/1510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1510
 
 

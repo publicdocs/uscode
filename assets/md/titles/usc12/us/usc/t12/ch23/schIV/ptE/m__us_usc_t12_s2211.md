@@ -17,7 +17,7 @@
 
     Any bank of the Farm Credit System, or two or more of such banks acting together, may organize a corporation or corporations for the purpose of performing functions and services for or on behalf of the organizing bank or banks that the bank or banks may perform pursuant to this chapter: Provided, That a corporation so organized shall have no authority either to extend credit or provide insurance services for borrowers from Farm Credit System institutions, nor shall it have any greater authority with respect to functions and services than the organizing bank or banks possess under this chapter. The organizing bank or banks shall apply for a Federal charter for the corporation by forwarding to the Farm Credit Administration a statement of the need for the corporation and proposed articles specifying in general terms the objectives for which the corporation is formed, the powers to be exercised by it in carrying out the functions and services, and the territory it is to serve. The Farm Credit Administration for good cause may deny the charter applied for. Upon the approval of articles by the Farm Credit Administration and the issuance of a charter, the corporation shall become as of such date a federally chartered body corporate and an instrumentality of the United States.
 
-([Pub. L. 92–181, title IV, § 4][/us/pl/92/181/s4].25, as added [Pub. L. 96–592, title IV, § 404][/us/pl/96/592/s404], Dec. 24, 1980, [94 Stat. 3447][/us/stat/94/3447]; amended [Pub. L. 99–205, title II, § 205(f)(8)][/us/pl/99/205/s205/f/8], Dec. 23, 1985, [99 Stat. 1706][/us/stat/99/1706].)
+([Pub. L. 92–181, title IV][/us/pl/92/181/tIV], § 4.25, as added [Pub. L. 96–592, title IV][/us/pl/96/592/tIV], § 404, Dec. 24, 1980, [94 Stat. 3447][/us/stat/94/3447]; amended [Pub. L. 99–205, title II][/us/pl/99/205/tII], § 205(f)(8), Dec. 23, 1985, [99 Stat. 1706][/us/stat/99/1706].)
 
  __Amendments__ 
 
@@ -34,10 +34,10 @@
 ----------
 ----------
 
-[/us/pl/92/181/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs4
-[/us/pl/96/592/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592%2Fs404
+[/us/pl/92/181/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtIV
+[/us/pl/96/592/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592%2FtIV
 [/us/stat/94/3447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3447
-[/us/pl/99/205/s205/f/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2Fs205%2Ff%2F8
+[/us/pl/99/205/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2FtII
 [/us/stat/99/1706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1706
 [/us/pl/99/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205
 [/us/pl/99/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205

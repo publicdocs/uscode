@@ -15,7 +15,7 @@
 
 ## § 1141f. Miscellaneous loan provisions
 
-    (a) Repealed. [Pub. L. 89–525, § 4(b)][/us/pl/89/525/s4/b], Aug. 2, 1966, [80 Stat. 334][/us/stat/80/334].
+    (a) Repealed. [Pub. L. 89–525][/us/pl/89/525], § 4(b), Aug. 2, 1966, [80 Stat. 334][/us/stat/80/334].
 
     (b) Payments of principal or interest upon any such loan or advance shall be covered into the revolving fund.
 
@@ -23,7 +23,7 @@
 
     (d) No loan or insurance agreement shall be made by the administration if in its judgment the agreement is likely to increase unduly the production of any agricultural commodity of which there is commonly produced a surplus in excess of the annual marketing requirements.
 
-([June 15, 1929, ch. 24, § 8][/us/act/1929-06-15/ch24/s8], [46 Stat. 14][/us/stat/46/14]; Ex. Ord. No. 6084, Mar. 27, 1933; [June 16, 1933, ch. 98][/us/act/1933-06-16/ch98], title V, § 54, [48 Stat. 266][/us/stat/48/266]; [June 3, 1935, ch. 164, § 11][/us/act/1935-06-03/ch164/s11], [49 Stat. 316][/us/stat/49/316]; [Aug. 19, 1937, ch. 704, § 5(a)][/us/act/1937-08-19/ch704/s5/a], [50 Stat. 704][/us/stat/50/704]; [Aug. 11, 1955, ch. 785][/us/act/1955-08-11/ch785], title I, § 109, [69 Stat. 662][/us/stat/69/662]; [Pub. L. 89–525, § 4(b)][/us/pl/89/525/s4/b], Aug. 2, 1966, [80 Stat. 334][/us/stat/80/334].)
+([June 15, 1929, ch. 24][/us/act/1929-06-15/ch24], § 8, [46 Stat. 14][/us/stat/46/14]; Ex. Ord. No. 6084, Mar. 27, 1933; [June 16, 1933, ch. 98][/us/act/1933-06-16/ch98], title V, § 54, [48 Stat. 266][/us/stat/48/266]; [June 3, 1935, ch. 164][/us/act/1935-06-03/ch164], § 11, [49 Stat. 316][/us/stat/49/316]; [Aug. 19, 1937, ch. 704][/us/act/1937-08-19/ch704], § 5(a), [50 Stat. 704][/us/stat/50/704]; [Aug. 11, 1955, ch. 785][/us/act/1955-08-11/ch785], title I, § 109, [69 Stat. 662][/us/stat/69/662]; [Pub. L. 89–525][/us/pl/89/525], § 4(b), Aug. 2, 1966, [80 Stat. 334][/us/stat/80/334].)
 
  __Codification__ 
 
@@ -64,19 +64,19 @@
 ----------
 ----------
 
-[/us/pl/89/525/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F525%2Fs4%2Fb
+[/us/pl/89/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F525
 [/us/stat/80/334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F334
-[/us/act/1929-06-15/ch24/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-06-15%2Fch24%2Fs8
+[/us/act/1929-06-15/ch24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-06-15%2Fch24
 [/us/stat/46/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F14
 [/us/act/1933-06-16/ch98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-16%2Fch98
 [/us/stat/48/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F266
-[/us/act/1935-06-03/ch164/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-06-03%2Fch164%2Fs11
+[/us/act/1935-06-03/ch164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-06-03%2Fch164
 [/us/stat/49/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F316
-[/us/act/1937-08-19/ch704/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-19%2Fch704%2Fs5%2Fa
+[/us/act/1937-08-19/ch704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-19%2Fch704
 [/us/stat/50/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F704
 [/us/act/1955-08-11/ch785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-11%2Fch785
 [/us/stat/69/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F662
-[/us/pl/89/525/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F525%2Fs4%2Fb
+[/us/pl/89/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F525
 [/us/stat/80/334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F334
 [/us/usc/t7/s528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs528
 [/us/pl/89/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F525

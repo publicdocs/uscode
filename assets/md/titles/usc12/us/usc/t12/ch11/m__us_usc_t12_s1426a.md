@@ -99,7 +99,7 @@
 
         (3) the term “securities laws” has the same meaning as in [section 78c(a)(47) of title 15][/us/usc/t15/s78c/a/47].
 
-([Pub. L. 110–289, div. A, title II, § 1208][/us/pl/110/289/s1208], July 30, 2008, [122 Stat. 2788][/us/stat/122/2788].)
+([Pub. L. 110–289, div. A, title II][/us/pl/110/289/dA/tII], § 1208, July 30, 2008, [122 Stat. 2788][/us/stat/122/2788].)
 
  __References in Text__ 
 
@@ -130,7 +130,7 @@
 [/us/usc/t15/s78c/a/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c%2Fa%2F44
 [/us/usc/t12/s1422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1422
 [/us/usc/t15/s78c/a/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c%2Fa%2F47
-[/us/pl/110/289/s1208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1208
+[/us/pl/110/289/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtII
 [/us/stat/122/2788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2788
 [/us/act/1933-05-27/ch38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-27%2Fch38
 [/us/act/1939-08-03/ch411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-03%2Fch411

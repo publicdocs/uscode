@@ -17,7 +17,7 @@
 
     Whenever any such request shall be allowed as hereinbefore provided, the said Comptroller of the Currency shall be, and is, empowered to draw upon and from such funds of any such trust as may be deposited with the Treasurer of the United States for the benefit of the bank in interest, to the amount as may be recommended and allowed and for the purpose for which such allowance was made: Provided, however, That all payments to be made for or on account of the purchase of any such property and under any such allowance shall be made by the Comptroller of the Currency direct, with the approval of the Secretary of the Treasury, for such purpose only and in such manner as he may determine and order.
 
-([Mar. 29, 1886, ch. 28, § 3][/us/act/1886-03-29/ch28/s3], [24 Stat. 8][/us/stat/24/8].)
+([Mar. 29, 1886, ch. 28][/us/act/1886-03-29/ch28], § 3, [24 Stat. 8][/us/stat/24/8].)
 
  __Transfer of Functions__ 
 
@@ -25,7 +25,7 @@
 
  __Application to District of Columbia__ 
 
-    Provisions of this section were made applicable to banks, etc., in the District of Columbia by [act Mar. 4, 1933, ch. 274, § 4][/us/act/1933-03-04/ch274/s4], [47 Stat. 1567][/us/stat/47/1567].
+    Provisions of this section were made applicable to banks, etc., in the District of Columbia by [act Mar. 4, 1933, ch. 274][/us/act/1933-03-04/ch274], § 4, [47 Stat. 1567][/us/stat/47/1567].
 
 ----------
 
@@ -34,10 +34,10 @@
 ----------
 ----------
 
-[/us/act/1886-03-29/ch28/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1886-03-29%2Fch28%2Fs3
+[/us/act/1886-03-29/ch28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1886-03-29%2Fch28
 [/us/stat/24/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F24%2F8
 [/us/usc/t12/s55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs55
-[/us/act/1933-03-04/ch274/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-03-04%2Fch274%2Fs4
+[/us/act/1933-03-04/ch274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-03-04%2Fch274
 [/us/stat/47/1567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F1567
 
 

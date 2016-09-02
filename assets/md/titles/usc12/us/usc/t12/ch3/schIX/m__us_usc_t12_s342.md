@@ -17,7 +17,7 @@
 
     Any Federal reserve bank may receive from any of its member banks, or other depository institutions, and from the United States, deposits of current funds in lawful money, national-bank notes, Federal reserve notes, or checks, and drafts, payable upon presentation or other items, and also, for collection, maturing notes and bills; or, solely for purposes of exchange or of collection may receive from other Federal reserve banks deposits of current funds in lawful money, national-bank notes, or checks upon other Federal reserve banks, and checks and drafts, payable upon presentation within its district or other items, and maturing notes and bills payable within its district; or, solely for the purposes of exchange or of collection, may receive from any nonmember bank or trust company or other depository institution deposits of current funds in lawful money, national-bank notes, Federal reserve notes, checks and drafts payable upon presentation or other items, or maturing notes and bills: Provided, Such nonmember bank or trust company or other depository institution maintains with the Federal Reserve bank of its district a balance in such amount as the Board determines taking into account items in transit, services provided by the Federal Reserve bank, and other factors as the Board may deem appropriate: Provided further, That nothing in this or any other section of this chapter shall be construed as prohibiting a member or nonmember bank or other depository institution from making reasonable charges, to be determined and regulated by the Board of Governors of the Federal Reserve System, but in no case to exceed 10 cents per $100 or fraction thereof, based on the total of checks and drafts presented at any one time, for collection or payment of checks and drafts and remission therefor by exchange or otherwise; but no such charges shall be made against the Federal reserve banks.
 
-([Dec. 23, 1913, ch. 6, § 13][/us/act/1913-12-23/ch6/s13] (par.), [38 Stat. 263][/us/stat/38/263]; [Sept. 7, 1916, ch. 461][/us/act/1916-09-07/ch461], [39 Stat. 752][/us/stat/39/752]; [June 21, 1917, ch. 32, § 4][/us/act/1917-06-21/ch32/s4], [40 Stat. 235][/us/stat/40/235]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 203(a), [49 Stat. 704][/us/stat/49/704]; [Pub. L. 96–221, title I, § 105(a)][/us/pl/96/221/s105/a], Mar. 31, 1980, [94 Stat. 139][/us/stat/94/139].)
+([Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 13 (par.), [38 Stat. 263][/us/stat/38/263]; [Sept. 7, 1916, ch. 461][/us/act/1916-09-07/ch461], [39 Stat. 752][/us/stat/39/752]; [June 21, 1917, ch. 32][/us/act/1917-06-21/ch32], § 4, [40 Stat. 235][/us/stat/40/235]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 203(a), [49 Stat. 704][/us/stat/49/704]; [Pub. L. 96–221, title I][/us/pl/96/221/tI], § 105(a), Mar. 31, 1980, [94 Stat. 139][/us/stat/94/139].)
 
  __References in Text__ 
 
@@ -48,15 +48,15 @@
 ----------
 ----------
 
-[/us/act/1913-12-23/ch6/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs13
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
 [/us/stat/38/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F263
 [/us/act/1916-09-07/ch461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-09-07%2Fch461
 [/us/stat/39/752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F752
-[/us/act/1917-06-21/ch32/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-21%2Fch32%2Fs4
+[/us/act/1917-06-21/ch32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-21%2Fch32
 [/us/stat/40/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F235
 [/us/act/1935-08-23/ch614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch614
 [/us/stat/49/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F704
-[/us/pl/96/221/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs105%2Fa
+[/us/pl/96/221/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2FtI
 [/us/stat/94/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F139
 [/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
 [/us/stat/38/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F251

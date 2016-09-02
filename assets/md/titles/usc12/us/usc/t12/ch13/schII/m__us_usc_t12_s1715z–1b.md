@@ -35,7 +35,7 @@
 
         The Secretary shall promulgate regulations to carry out the provisions of this section not later than 90 days after October 31, 1978.
 
-([Pub. L. 95–557, title II, § 202][/us/pl/95/557/s202], Oct. 31, 1978, [92 Stat. 2088][/us/stat/92/2088]; [Pub. L. 97–35, title III, § 329F][/us/pl/97/35/s329F], Aug. 13, 1981, [95 Stat. 410][/us/stat/95/410]; [Pub. L. 100–242, title I, § 183(a)][/us/pl/100/242/s183/a], (b), Feb. 5, 1988, [101 Stat. 1872][/us/stat/101/1872]; [Pub. L. 105–276, title V, § 599(a)][/us/pl/105/276/s599/a], Oct. 21, 1998, [112 Stat. 2660][/us/stat/112/2660].)
+([Pub. L. 95–557, title II][/us/pl/95/557/tII], § 202, Oct. 31, 1978, [92 Stat. 2088][/us/stat/92/2088]; [Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 329F, Aug. 13, 1981, [95 Stat. 410][/us/stat/95/410]; [Pub. L. 100–242, title I][/us/pl/100/242/tI], § 183(a), (b), Feb. 5, 1988, [101 Stat. 1872][/us/stat/101/1872]; [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 599(a), Oct. 21, 1998, [112 Stat. 2660][/us/stat/112/2660].)
 
  __References in Text__ 
 
@@ -53,15 +53,15 @@
 
     1998—Subsec. (a). [Pub. L. 105–276][/us/pl/105/276] inserted before period at end “, or a project which receives project-based assistance under [section 1437f of title 42][/us/usc/t42/s1437f] or enhanced vouchers under the Low-Income Housing Preservation and Resident Homeownership Act of 1990, the provisions of the Emergency Low Income Housing Preservation Act of 1987, or the Multifamily Assisted Housing Reform and Affordability Act of 1997”.
 
-    1988—Subsec. (a). [Pub. L. 100–242, § 183(a)][/us/pl/100/242/s183/a], inserted reference to [section 1701q of this title][/us/usc/t12/s1701q].
+    1988—Subsec. (a). [Pub. L. 100–242][/us/pl/100/242], § 183(a), inserted reference to [section 1701q of this title][/us/usc/t12/s1701q].
 
-    Subsec. (b)(1). [Pub. L. 100–242, § 183(b)][/us/pl/100/242/s183/b], substituted “or where the Secretary proposes to sell a mortgage secured by a multifamily housing project” for “and the Secretary deems it appropriate”.
+    Subsec. (b)(1). [Pub. L. 100–242][/us/pl/100/242], § 183(b), substituted “or where the Secretary proposes to sell a mortgage secured by a multifamily housing project” for “and the Secretary deems it appropriate”.
 
     1981—Subsec. (b)(1). [Pub. L. 97–35][/us/pl/97/35] substituted provisions relating to request by the owner for rent increases, etc., for provisions relating to action by the owner.
 
  __Effective Date of 1998 Amendment__ 
 
-[Pub. L. 105–276, title V, § 599(b)][/us/pl/105/276/s599/b], Oct. 21, 1998, [112 Stat. 2660][/us/stat/112/2660], provided that: 
+[Pub. L. 105–276, title V][/us/pl/105/276/tV], § 599(b), Oct. 21, 1998, [112 Stat. 2660][/us/stat/112/2660], provided that: 
 
 > “The amendment made by this section \[amending this section\] is made on, and shall apply beginning upon, the date of the enactment of this Act \[Oct. 21, 1998\].”
 
@@ -80,13 +80,13 @@
 [/us/usc/t12/s1701q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701q
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/usc/t12/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4101
-[/us/pl/95/557/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2Fs202
+[/us/pl/95/557/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2FtII
 [/us/stat/92/2088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2088
-[/us/pl/97/35/s329F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs329F
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F410
-[/us/pl/100/242/s183/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs183%2Fa
+[/us/pl/100/242/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtI
 [/us/stat/101/1872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1872
-[/us/pl/105/276/s599/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs599%2Fa
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2660
 [/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
 [/us/stat/101/1877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1877
@@ -105,11 +105,11 @@
 [/us/usc/t12/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701
 [/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
-[/us/pl/100/242/s183/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs183%2Fa
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
 [/us/usc/t12/s1701q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701q
-[/us/pl/100/242/s183/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs183%2Fb
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
-[/us/pl/105/276/s599/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs599%2Fb
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2660
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/97/35/s371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs371

@@ -169,13 +169,13 @@
 
             (iii) “savings and loan holding company” has the same meaning as in [section 1467a(a) of this title][/us/usc/t12/s1467a/a].
 
-([Pub. L. 111–203, § 2][/us/pl/111/203/s2], July 21, 2010, [124 Stat. 1386][/us/stat/124/1386].)
+([Pub. L. 111–203][/us/pl/111/203], § 2, July 21, 2010, [124 Stat. 1386][/us/stat/124/1386].)
 
  __References in Text__ 
 
     This Act, referred to in text, is [Pub. L. 111–203][/us/pl/111/203], July 21, 2010, [124 Stat. 1376][/us/stat/124/1376], known as the Dodd-Frank Wall Street Reform and Consumer Protection Act, which enacted this chapter and chapters 108 (§ 8201 et seq.) and 109 (§ 8301 et seq.) of Title 15, Commerce and Trade, and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
-    Title III, referred to in par. (2), is title III of [Pub. L. 111–203][/us/pl/111/203], July 21, 2010, [124 Stat. 1520][/us/stat/124/1520]. [Section 312(c)(1) of title III of Pub. L. 111–203][/us/pl/111/203/s312/c/1] amended [section 1813(q) of this title][/us/usc/t12/s1813/q].
+    Title III, referred to in par. (2), is title III of [Pub. L. 111–203][/us/pl/111/203], July 21, 2010, [124 Stat. 1520][/us/stat/124/1520]. [Section 312(c)(1) of title III of Pub. L. 111–203][/us/pl/111/203/tIII/s312/c/1] amended [section 1813(q) of this title][/us/usc/t12/s1813/q].
 
     Title X, referred to in par. (4), is title X of [Pub. L. 111–203][/us/pl/111/203], July 21, 2010, [124 Stat. 1955][/us/stat/124/1955], known as the Consumer Financial Protection Act of 2010, which enacted subchapter V (§ 5481 et seq.) of this chapter, and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of title X to the Code, see Short Title note below and Tables.
 
@@ -195,43 +195,43 @@
 
  __Effective Date__ 
 
-[Pub. L. 111–203, § 4][/us/pl/111/203/s4], July 21, 2010, [124 Stat. 1390][/us/stat/124/1390], provided that: 
+[Pub. L. 111–203][/us/pl/111/203], § 4, July 21, 2010, [124 Stat. 1390][/us/stat/124/1390], provided that: 
 
 > “Except as otherwise specifically provided in this Act \[see Short Title note below\] or the amendments made by this Act, this Act and such amendments shall take effect 1 day after the date of enactment of this Act \[July 21, 2010\].”
 
  __Short Title of 2014 Amendment__ 
 
-[Pub. L. 113–279, § 1][/us/pl/113/279/s1], Dec. 18, 2014, [128 Stat. 3017][/us/stat/128/3017], provided that: 
+[Pub. L. 113–279][/us/pl/113/279], § 1, Dec. 18, 2014, [128 Stat. 3017][/us/stat/128/3017], provided that: 
 
 > “This Act \[amending [section 5371 of this title][/us/usc/t12/s5371]\] may be cited as the ‘Insurance Capital Standards Clarification Act of 2014’.”
 
-[Pub. L. 113–173, § 1][/us/pl/113/173/s1], Sept. 26, 2014, [128 Stat. 1899][/us/stat/128/1899], provided that: 
+[Pub. L. 113–173][/us/pl/113/173], § 1, Sept. 26, 2014, [128 Stat. 1899][/us/stat/128/1899], provided that: 
 
 > “This Act \[amending [section 5514 of this title][/us/usc/t12/s5514]\] may be cited as the ‘Examination and Supervisory Privilege Parity Act of 2014’.”
 
  __Short Title__ 
 
-[Pub. L. 111–203, § 1(a)][/us/pl/111/203/s1/a], July 21, 2010, [124 Stat. 1376][/us/stat/124/1376], provided that: 
+[Pub. L. 111–203][/us/pl/111/203], § 1(a), July 21, 2010, [124 Stat. 1376][/us/stat/124/1376], provided that: 
 
 > “This Act \[see Tables for classification\] may be cited as the ‘Dodd-Frank Wall Street Reform and Consumer Protection Act’.”
 
-[Pub. L. 111–203, title I, § 101][/us/pl/111/203/s101], July 21, 2010, [124 Stat. 1391][/us/stat/124/1391], provided that: 
+[Pub. L. 111–203, title I][/us/pl/111/203/tI], § 101, July 21, 2010, [124 Stat. 1391][/us/stat/124/1391], provided that: 
 
 > “This title \[enacting subchapter I of this chapter and amending sections 1818, 1820, 1833b, and 3105 of this title, sections 3132 and 5314 of Title 5, Government Organization and Employees, and section 78o of Title 15, Commerce and Trade\] may be cited as the ‘Financial Stability Act of 2010’.”
 
-[Pub. L. 111–203, title III, § 300][/us/pl/111/203/s300], July 21, 2010, [124 Stat. 1520][/us/stat/124/1520], provided that: 
+[Pub. L. 111–203, title III][/us/pl/111/203/tIII], § 300, July 21, 2010, [124 Stat. 1520][/us/stat/124/1520], provided that: 
 
 > “This title \[enacting subchapter III of this chapter and sections 4b and 16 of this title, amending sections 1, 11, 248, 461, 481, 482, 1438, 1462 to 1464, 1466a to 1468b, 1470, 1701c, 1701p–1, 1708, 1757, 1785, 1786, 1787, 1812, 1813, 1817, 1818, 1820, 1821, 1823, 1828, 1829, 1831e, 1831j, 1833b, 1833e, 1834, 1841, 1843, 1844, 1861, 1867, 1881, 1882, 1884, 1972, 2709, 2902, 2905, 3206 to 3208, 3332, 4515, and 4517 of this title, [section 906 of Title 2][/us/usc/t2/s906], The Congress, sections 78c, 78l, 78o–5, and 78w of Title 15, Commerce and Trade, sections 212, 657, 981, 982, 1006, 1014, and 1032 of Title 18, Crimes and Criminal Procedure, sections 321 and 714 of Title 31, Money and Finance, sections 4003 and 8105 of Title 42, The Public Health and Welfare, and [section 3502 of Title 44][/us/usc/t44/s3502], Public Printing and Documents, repealing [section 1441a of this title][/us/usc/t12/s1441a], enacting provisions set out as notes under sections 1, 16, 1438, 1787, 1812, 1817, and 1821 of this title and [section 906 of Title 2][/us/usc/t2/s906], and amending provisions set out as notes under sections 1437, 1463, 1464, 1467a, 1707, 1812, and 1818 of this title and [section 509 of Title 28][/us/usc/t28/s509], Judiciary and Judicial Procedure\] may be cited as the ‘Enhancing Financial Institution Safety and Soundness Act of 2010’.”
 
-[Pub. L. 111–203, title VIII, § 801][/us/pl/111/203/s801], July 21, 2010, [124 Stat. 1802][/us/stat/124/1802], provided that: 
+[Pub. L. 111–203, title VIII][/us/pl/111/203/tVIII], § 801, July 21, 2010, [124 Stat. 1802][/us/stat/124/1802], provided that: 
 
 > “This title \[enacting subchapter IV of this chapter\] may be cited as the ‘Payment, Clearing, and Settlement Supervision Act of 2010’.”
 
-[Pub. L. 111–203, title X, § 1001][/us/pl/111/203/s1001], July 21, 2010, [124 Stat. 1955][/us/stat/124/1955], provided that: 
+[Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1001, July 21, 2010, [124 Stat. 1955][/us/stat/124/1955], provided that: 
 
 > “This title \[see Tables for classification\] may be cited as the ‘Consumer Financial Protection Act of 2010’.”
 
-[Pub. L. 111–203, title XII, § 1201][/us/pl/111/203/s1201], July 21, 2010, [124 Stat. 2129][/us/stat/124/2129], provided that: 
+[Pub. L. 111–203, title XII][/us/pl/111/203/tXII], § 1201, July 21, 2010, [124 Stat. 2129][/us/stat/124/2129], provided that: 
 
 > “This title \[enacting subchapter VII of this chapter and [section 4719 of this title][/us/usc/t12/s4719]\] may be cited as the ‘Improving Access to Mainstream Financial Institutions Act of 2010’.”
 
@@ -272,13 +272,13 @@
 [/us/usc/t12/s1841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1841
 [/us/usc/t12/s1841/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1841%2Fp
 [/us/usc/t12/s1467a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1467a%2Fa
-[/us/pl/111/203/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs2
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1386
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1376
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1520
-[/us/pl/111/203/s312/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs312%2Fc%2F1
+[/us/pl/111/203/tIII/s312/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIII%2Fs312%2Fc%2F1
 [/us/usc/t12/s1813/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813%2Fq
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1955
@@ -302,30 +302,30 @@
 [/us/act/1922-09-21/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369
 [/us/stat/42/998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F998
 [/us/usc/t7/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1
-[/us/pl/111/203/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs4
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1390
-[/us/pl/113/279/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F279%2Fs1
+[/us/pl/113/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F279
 [/us/stat/128/3017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3017
 [/us/usc/t12/s5371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5371
-[/us/pl/113/173/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F173%2Fs1
+[/us/pl/113/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F173
 [/us/stat/128/1899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1899
 [/us/usc/t12/s5514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5514
-[/us/pl/111/203/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1%2Fa
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1376
-[/us/pl/111/203/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs101
+[/us/pl/111/203/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtI
 [/us/stat/124/1391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1391
-[/us/pl/111/203/s300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs300
+[/us/pl/111/203/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIII
 [/us/stat/124/1520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1520
 [/us/usc/t2/s906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs906
 [/us/usc/t44/s3502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3502
 [/us/usc/t12/s1441a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1441a
 [/us/usc/t2/s906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs906
 [/us/usc/t28/s509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs509
-[/us/pl/111/203/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs801
+[/us/pl/111/203/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVIII
 [/us/stat/124/1802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1802
-[/us/pl/111/203/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1001
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/1955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1955
-[/us/pl/111/203/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1201
+[/us/pl/111/203/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtXII
 [/us/stat/124/2129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2129
 [/us/usc/t12/s4719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4719
 

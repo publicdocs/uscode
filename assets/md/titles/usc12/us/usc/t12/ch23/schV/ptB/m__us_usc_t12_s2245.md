@@ -55,7 +55,7 @@
 
         The operations of the Farm Credit Administration, and the salaries of members of the Board and employees of the Administration, shall be funded and paid for from the fund created under [section 2250 of this title][/us/usc/t12/s2250].
 
-([Pub. L. 92–181, title V, § 5][/us/pl/92/181/s5].11, Dec. 10, 1971, [85 Stat. 620][/us/stat/85/620]; [Pub. L. 99–205, title II, § 201(1)][/us/pl/99/205/s201/1], Dec. 23, 1985, [99 Stat. 1690][/us/stat/99/1690]; [Pub. L. 100–233, title IV, § 431(c)][/us/pl/100/233/s431/c], title VIII, § 805(x), Jan. 6, 1988, [101 Stat. 1659][/us/stat/101/1659], 1716; [Pub. L. 100–399, title IV, § 415(a)][/us/pl/100/399/s415/a], title VII, § 702(b), Aug. 17, 1988, [102 Stat. 1004][/us/stat/102/1004], 1006; [Pub. L. 101–73, title XII, § 1210][/us/pl/101/73/s1210], Aug. 9, 1989, [103 Stat. 523][/us/stat/103/523].)
+([Pub. L. 92–181, title V][/us/pl/92/181/tV], § 5.11, Dec. 10, 1971, [85 Stat. 620][/us/stat/85/620]; [Pub. L. 99–205, title II][/us/pl/99/205/tII], § 201(1), Dec. 23, 1985, [99 Stat. 1690][/us/stat/99/1690]; [Pub. L. 100–233, title IV][/us/pl/100/233/tIV], § 431(c), title VIII, § 805(x), Jan. 6, 1988, [101 Stat. 1659][/us/stat/101/1659], 1716; [Pub. L. 100–399, title IV][/us/pl/100/399/tIV], § 415(a), title VII, § 702(b), Aug. 17, 1988, [102 Stat. 1004][/us/stat/102/1004], 1006; [Pub. L. 101–73, title XII][/us/pl/101/73/tXII], § 1210, Aug. 9, 1989, [103 Stat. 523][/us/stat/103/523].)
 
  __References in Text__ 
 
@@ -71,11 +71,11 @@
 
     “(C) subject to [section 5373 of title 5][/us/usc/t5/s5373].”
 
-    1988—[Pub. L. 100–233, § 805(x)][/us/pl/100/233/s805/x], which directed the amendment of this section by striking out the last sentence, was repealed by [Pub. L. 100–399, § 702(b)][/us/pl/100/399/s702/b]. See Construction of 1988 Amendment note below.
+    1988—[Pub. L. 100–233][/us/pl/100/233], § 805(x), which directed the amendment of this section by striking out the last sentence, was repealed by [Pub. L. 100–399][/us/pl/100/399], § 702(b). See Construction of 1988 Amendment note below.
 
-    [Pub. L. 100–233, § 431(c)][/us/pl/100/233/s431/c], amended section generally, substituting subsecs. (a) to (d) for former text consisting of single undesignated paragraph.
+    [Pub. L. 100–233][/us/pl/100/233], § 431(c), amended section generally, substituting subsecs. (a) to (d) for former text consisting of single undesignated paragraph.
 
-    Subsec. (c)(2)(C). [Pub. L. 100–399, § 415(a)][/us/pl/100/399/s415/a], substituted “5373” for “5315”.
+    Subsec. (c)(2)(C). [Pub. L. 100–399][/us/pl/100/399], § 415(a), substituted “5373” for “5315”.
 
     1985—[Pub. L. 99–205][/us/pl/99/205] substituted provisions respecting organization of the Farm Credit Administration for provisions relating to compensation and expense allowance of the Governor of the Farm Credit Administration.
 
@@ -89,7 +89,7 @@
 
  __Construction of 1988 Amendment__ 
 
-    [Pub. L. 100–399, title VII, § 702(b)][/us/pl/100/399/s702/b], Aug. 17, 1988, [102 Stat. 1006][/us/stat/102/1006], provided that [section 805(x) of Pub. L. 100–233][/us/pl/100/233/s805/x], cited as a credit to this section, is repealed and that this section shall be applied and administered as if such section had not been enacted.
+    [Pub. L. 100–399, title VII][/us/pl/100/399/tVII], § 702(b), Aug. 17, 1988, [102 Stat. 1006][/us/stat/102/1006], provided that [section 805(x) of Pub. L. 100–233][/us/pl/100/233/s805/x], cited as a credit to this section, is repealed and that this section shall be applied and administered as if such section had not been enacted.
 
  __Interim Implementation of 1985 Amendment__ 
 
@@ -104,15 +104,15 @@
 
 [/us/usc/t12/s1813/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813%2Fq
 [/us/usc/t12/s2250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2250
-[/us/pl/92/181/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs5
+[/us/pl/92/181/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtV
 [/us/stat/85/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F620
-[/us/pl/99/205/s201/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2Fs201%2F1
+[/us/pl/99/205/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2FtII
 [/us/stat/99/1690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1690
-[/us/pl/100/233/s431/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs431%2Fc
+[/us/pl/100/233/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtIV
 [/us/stat/101/1659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1659
-[/us/pl/100/399/s415/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs415%2Fa
+[/us/pl/100/399/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtIV
 [/us/stat/102/1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1004
-[/us/pl/101/73/s1210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs1210
+[/us/pl/101/73/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtXII
 [/us/stat/103/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F523
 [/us/pl/95/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521
 [/us/stat/92/1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1824
@@ -120,10 +120,10 @@
 [/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
 [/us/usc/t2/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs701
 [/us/usc/t5/s5373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5373
-[/us/pl/100/233/s805/x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs805%2Fx
-[/us/pl/100/399/s702/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs702%2Fb
-[/us/pl/100/233/s431/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs431%2Fc
-[/us/pl/100/399/s415/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs415%2Fa
+[/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
+[/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/99/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205
 [/us/pl/100/399/s415/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs415%2Fa
 [/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
@@ -132,7 +132,7 @@
 [/us/pl/99/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205
 [/us/pl/99/205/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2Fs401
 [/us/usc/t12/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2001
-[/us/pl/100/399/s702/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs702%2Fb
+[/us/pl/100/399/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtVII
 [/us/stat/102/1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1006
 [/us/pl/100/233/s805/x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs805%2Fx
 [/us/pl/99/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205

@@ -95,7 +95,7 @@
 
             (B) the appropriate court has ordered such assessment and entered judgment in favor of the Bureau.
 
-([Pub. L. 111–203, title X, § 1055][/us/pl/111/203/s1055], July 21, 2010, [124 Stat. 2029][/us/stat/124/2029].)
+([Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1055, July 21, 2010, [124 Stat. 2029][/us/stat/124/2029].)
 
  __Effective Date__ 
 
@@ -108,7 +108,7 @@
 ----------
 ----------
 
-[/us/pl/111/203/s1055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1055
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2029
 [/us/pl/111/203/s1058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1058
 [/us/usc/t12/s5561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5561

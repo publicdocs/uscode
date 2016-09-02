@@ -17,7 +17,7 @@
 
     The Secretary shall, not less than biennially, survey national, regional, and local economic and housing market conditions in a manner that provides data comparable to the data collected in such survey conducted in 1981.
 
-([Pub. L. 91–609, title V, § 512][/us/pl/91/609/s512], as added [Pub. L. 98–181, title I][/us/pl/98/181] \[title IV, § 466(b)\], Nov. 30, 1983, [97 Stat. 1236][/us/stat/97/1236].)
+([Pub. L. 91–609, title V][/us/pl/91/609/tV], § 512, as added [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title IV, § 466(b)\], Nov. 30, 1983, [97 Stat. 1236][/us/stat/97/1236].)
 
  __Codification__ 
 
@@ -30,8 +30,8 @@
 ----------
 ----------
 
-[/us/pl/91/609/s512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F609%2Fs512
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/91/609/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F609%2FtV
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1236
 
 

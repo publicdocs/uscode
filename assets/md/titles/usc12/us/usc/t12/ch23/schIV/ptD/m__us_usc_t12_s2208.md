@@ -21,7 +21,7 @@
 
     (2) shall implement measures to safeguard the voting process for the protection of the right of stockholders (or subscribers) to a secret ballot.
 
-([Pub. L. 92–181, title IV, § 4][/us/pl/92/181/s4].20, as added [Pub. L. 96–592, title IV, § 403][/us/pl/96/592/s403], Dec. 24, 1980, [94 Stat. 3447][/us/stat/94/3447]; amended [Pub. L. 100–233, title IV, § 425][/us/pl/100/233/s425], Jan. 6, 1988, [101 Stat. 1657][/us/stat/101/1657].)
+([Pub. L. 92–181, title IV][/us/pl/92/181/tIV], § 4.20, as added [Pub. L. 96–592, title IV][/us/pl/96/592/tIV], § 403, Dec. 24, 1980, [94 Stat. 3447][/us/stat/94/3447]; amended [Pub. L. 100–233, title IV][/us/pl/100/233/tIV], § 425, Jan. 6, 1988, [101 Stat. 1657][/us/stat/101/1657].)
 
  __Amendments__ 
 
@@ -34,10 +34,10 @@
 ----------
 ----------
 
-[/us/pl/92/181/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs4
-[/us/pl/96/592/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592%2Fs403
+[/us/pl/92/181/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtIV
+[/us/pl/96/592/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592%2FtIV
 [/us/stat/94/3447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3447
-[/us/pl/100/233/s425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs425
+[/us/pl/100/233/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtIV
 [/us/stat/101/1657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1657
 [/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
 [/us/usc/t12/s2074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2074

@@ -25,7 +25,7 @@
 
  __Codification__ 
 
-    R.S. § 5147 derived from [act June 3, 1864, ch. 106, § 9][/us/act/1864-06-03/ch106/s9], [13 Stat. 102][/us/stat/13/102], which was the National Bank Act. See [section 38 of this title][/us/usc/t12/s38].
+    R.S. § 5147 derived from [act June 3, 1864, ch. 106][/us/act/1864-06-03/ch106], § 9, [13 Stat. 102][/us/stat/13/102], which was the National Bank Act. See [section 38 of this title][/us/usc/t12/s38].
 
  __Exception as to Transfer of Functions__ 
 
@@ -40,7 +40,7 @@
 
 [/us/act/1925-02-20/ch274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-02-20%2Fch274
 [/us/stat/43/955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F955
-[/us/act/1864-06-03/ch106/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-06-03%2Fch106%2Fs9
+[/us/act/1864-06-03/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-06-03%2Fch106
 [/us/stat/13/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F13%2F102
 [/us/usc/t12/s38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs38
 [/us/usc/t12/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1

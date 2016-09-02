@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act July 22, 1932, ch. 522, § 10a][/us/act/1932-07-22/ch522/s10a], as added [June 27, 1934, ch. 847, § 502][/us/act/1934-06-27/ch847/s502], [48 Stat. 1261][/us/stat/48/1261], provided for advances by Federal Home Loan Banks to finance home repairs, improvements, and alterations until July 1, 1936.
+    Section, [act July 22, 1932, ch. 522][/us/act/1932-07-22/ch522], § 10a, as added [June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], § 502, [48 Stat. 1261][/us/stat/48/1261], provided for advances by Federal Home Loan Banks to finance home repairs, improvements, and alterations until July 1, 1936.
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/act/1932-07-22/ch522/s10a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-07-22%2Fch522%2Fs10a
-[/us/act/1934-06-27/ch847/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847%2Fs502
+[/us/act/1932-07-22/ch522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-07-22%2Fch522
+[/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
 [/us/stat/48/1261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1261
 
 

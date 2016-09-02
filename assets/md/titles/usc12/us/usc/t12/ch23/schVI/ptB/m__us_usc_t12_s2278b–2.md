@@ -41,7 +41,7 @@
 
         A chief executive officer of the Financial Assistance Corporation shall be selected by the Board of Directors and shall serve at the pleasure of the Board.
 
-([Pub. L. 92–181, title VI, § 6][/us/pl/92/181/s6].22, as added [Pub. L. 100–233, title II, § 201][/us/pl/100/233/s201], Jan. 6, 1988, [101 Stat. 1595][/us/stat/101/1595]; amended [Pub. L. 100–399, title II, § 201][/us/pl/100/399/s201](o), Aug. 17, 1988, [102 Stat. 991][/us/stat/102/991].)
+([Pub. L. 92–181, title VI][/us/pl/92/181/tVI], § 6.22, as added [Pub. L. 100–233, title II][/us/pl/100/233/tII], § 201, Jan. 6, 1988, [101 Stat. 1595][/us/stat/101/1595]; amended [Pub. L. 100–399, title II][/us/pl/100/399/tII], § 201(o), Aug. 17, 1988, [102 Stat. 991][/us/stat/102/991].)
 
  __Amendments__ 
 
@@ -58,10 +58,10 @@
 ----------
 ----------
 
-[/us/pl/92/181/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs6
-[/us/pl/100/233/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs201
+[/us/pl/92/181/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtVI
+[/us/pl/100/233/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtII
 [/us/stat/101/1595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1595
-[/us/pl/100/399/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs201
+[/us/pl/100/399/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtII
 [/us/stat/102/991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F991
 [/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399

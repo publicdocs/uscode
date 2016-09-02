@@ -17,7 +17,7 @@
 
     For purposes of this part, the critical capital level for the Corporation shall be an amount of core capital equal to 50 percent of the total minimum capital amount determined under [section 2279bb–2 of this title][/us/usc/t12/s2279bb–2].
 
-([Pub. L. 92–181, title VIII, § 8][/us/pl/92/181/s8].34, as added [Pub. L. 102–237, title V, § 503(b)(2)][/us/pl/102/237/s503/b/2], Dec. 13, 1991, [105 Stat. 1874][/us/stat/105/1874]; amended [Pub. L. 104–105, title I, § 115][/us/pl/104/105/s115], Feb. 10, 1996, [110 Stat. 167][/us/stat/110/167].)
+([Pub. L. 92–181, title VIII][/us/pl/92/181/tVIII], § 8.34, as added [Pub. L. 102–237, title V][/us/pl/102/237/tV], § 503(b)(2), Dec. 13, 1991, [105 Stat. 1874][/us/stat/105/1874]; amended [Pub. L. 104–105, title I][/us/pl/104/105/tI], § 115, Feb. 10, 1996, [110 Stat. 167][/us/stat/110/167].)
 
  __Amendments__ 
 
@@ -41,10 +41,10 @@
 ----------
 
 [/us/usc/t12/s2279bb–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2279bb%E2%80%932
-[/us/pl/92/181/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs8
-[/us/pl/102/237/s503/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs503%2Fb%2F2
+[/us/pl/92/181/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtVIII
+[/us/pl/102/237/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtV
 [/us/stat/105/1874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1874
-[/us/pl/104/105/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2Fs115
+[/us/pl/104/105/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2FtI
 [/us/stat/110/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F167
 [/us/pl/104/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105
 [/us/usc/t12/s2279aa–6/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2279aa%E2%80%936%2Fg

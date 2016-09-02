@@ -53,7 +53,7 @@
 
         For any account for which the depository institution delivers an account statement on a quarterly or more frequent basis, the depository institution shall include on or with the first regularly scheduled mailing sent after the end of the 6-month period beginning on the date of publication of regulations issued by the Bureau in final form, a statement that the account holder has the right to request an account schedule containing the terms, charges, and interest rates of the account, and that the account holder may wish to request such an account schedule.
 
-([Pub. L. 102–242, title II, § 266][/us/pl/102/242/s266], Dec. 19, 1991, [105 Stat. 2337][/us/stat/105/2337]; [Pub. L. 102–550, title XVI, § 1604(e)(1)][/us/pl/102/550/s1604/e/1], Oct. 28, 1992, [106 Stat. 4084][/us/stat/106/4084]; [Pub. L. 104–208, div. A, title II, § 2604(d)][/us/pl/104/208/s2604/d], Sept. 30, 1996, [110 Stat. 3009–471][/us/stat/110/3009-471]; [Pub. L. 111–203, title X, § 1100B(1)][/us/pl/111/203/s1100B/1], July 21, 2010, [124 Stat. 2109][/us/stat/124/2109].)
+([Pub. L. 102–242, title II][/us/pl/102/242/tII], § 266, Dec. 19, 1991, [105 Stat. 2337][/us/stat/105/2337]; [Pub. L. 102–550, title XVI][/us/pl/102/550/tXVI], § 1604(e)(1), Oct. 28, 1992, [106 Stat. 4084][/us/stat/106/4084]; [Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], § 2604(d), Sept. 30, 1996, [110 Stat. 3009–471][/us/stat/110/3009-471]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1100B(1), July 21, 2010, [124 Stat. 2109][/us/stat/124/2109].)
 
  __Amendments__ 
 
@@ -81,13 +81,13 @@
 [/us/usc/t12/s4303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4303
 [/us/usc/t12/s4303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4303%2Fa
 [/us/usc/t12/s4303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4303%2Fa
-[/us/pl/102/242/s266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs266
+[/us/pl/102/242/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtII
 [/us/stat/105/2337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2337
-[/us/pl/102/550/s1604/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1604%2Fe%2F1
+[/us/pl/102/550/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXVI
 [/us/stat/106/4084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4084
-[/us/pl/104/208/s2604/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2604%2Fd
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-471
-[/us/pl/111/203/s1100B/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100B%2F1
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2109
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208

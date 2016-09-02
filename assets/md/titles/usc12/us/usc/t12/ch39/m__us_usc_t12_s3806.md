@@ -39,7 +39,7 @@
 
         This section shall take effect upon the expiration of 120 days after August 10, 1987.
 
-([Pub. L. 100–86, title XII, § 1204][/us/pl/100/86/s1204], Aug. 10, 1987, [101 Stat. 662][/us/stat/101/662]; [Pub. L. 102–550, title IX, § 952][/us/pl/102/550/s952], Oct. 28, 1992, [106 Stat. 3893][/us/stat/106/3893].)
+([Pub. L. 100–86, title XII][/us/pl/100/86/tXII], § 1204, Aug. 10, 1987, [101 Stat. 662][/us/stat/101/662]; [Pub. L. 102–550, title IX][/us/pl/102/550/tIX], § 952, Oct. 28, 1992, [106 Stat. 3893][/us/stat/106/3893].)
 
  __References in Text__ 
 
@@ -63,9 +63,9 @@
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601
 [/us/usc/t15/s1607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1607
 [/us/usc/t15/s1640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1640
-[/us/pl/100/86/s1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2Fs1204
+[/us/pl/100/86/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2FtXII
 [/us/stat/101/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F662
-[/us/pl/102/550/s952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs952
+[/us/pl/102/550/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtIX
 [/us/stat/106/3893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3893
 [/us/pl/90/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321
 [/us/stat/82/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F146

@@ -55,11 +55,11 @@
 
         (4) providing the Board of Governors an enhanced role in the supervision of risk management standards for systemically important payment, clearing, and settlement activities by financial institutions.
 
-([Pub. L. 111–203, title VIII, § 802][/us/pl/111/203/s802], July 21, 2010, [124 Stat. 1802][/us/stat/124/1802].)
+([Pub. L. 111–203, title VIII][/us/pl/111/203/tVIII], § 802, July 21, 2010, [124 Stat. 1802][/us/stat/124/1802].)
 
  __Effective Date__ 
 
-[Pub. L. 111–203, title VIII, § 814][/us/pl/111/203/s814], July 21, 2010, [124 Stat. 1822][/us/stat/124/1822], provided that: 
+[Pub. L. 111–203, title VIII][/us/pl/111/203/tVIII], § 814, July 21, 2010, [124 Stat. 1822][/us/stat/124/1822], provided that: 
 
 > “This title \[enacting this subchapter\] is effective as of the date of enactment of this Act \[July 21, 2010\].”
 
@@ -74,9 +74,9 @@
 ----------
 ----------
 
-[/us/pl/111/203/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs802
+[/us/pl/111/203/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVIII
 [/us/stat/124/1802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1802
-[/us/pl/111/203/s814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs814
+[/us/pl/111/203/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVIII
 [/us/stat/124/1822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1822
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301
 

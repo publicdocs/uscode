@@ -17,7 +17,7 @@
 
     Effective 90 days after the transfer date, the Office of Thrift Supervision and the position of Director of the Office of Thrift Supervision are abolished.
 
-([Pub. L. 111–203, title III, § 313][/us/pl/111/203/s313], July 21, 2010, [124 Stat. 1523][/us/stat/124/1523].)
+([Pub. L. 111–203, title III][/us/pl/111/203/tIII], § 313, July 21, 2010, [124 Stat. 1523][/us/stat/124/1523].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/111/203/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs313
+[/us/pl/111/203/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIII
 [/us/stat/124/1523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1523
 
 

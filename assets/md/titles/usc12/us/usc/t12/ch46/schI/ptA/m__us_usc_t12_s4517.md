@@ -61,7 +61,7 @@
 
         The Director shall establish, by regulation, an Office of the Ombudsman within the Agency, which shall be responsible for considering complaints and appeals, from any regulated entity and any person that has a business relationship with a regulated entity, regarding any matter relating to the regulation and supervision of such regulated entity by the Agency. The regulation issued by the Director under this subsection shall specify the authority and duties of the Office of the Ombudsman.
 
-([Pub. L. 102–550, title XIII, § 1317][/us/pl/102/550/s1317], Oct. 28, 1992, [106 Stat. 3949][/us/stat/106/3949]; [Pub. L. 110–289, div. A, title I][/us/pl/110/289], §§ 1105(a), (b), (e), 1153(b)(1)(A), July 30, 2008, [122 Stat. 2667][/us/stat/122/2667], 2668, 2774; [Pub. L. 111–203, title III, § 365(2)][/us/pl/111/203/s365/2], July 21, 2010, [124 Stat. 1555][/us/stat/124/1555].)
+([Pub. L. 102–550, title XIII][/us/pl/102/550/tXIII], § 1317, Oct. 28, 1992, [106 Stat. 3949][/us/stat/106/3949]; [Pub. L. 110–289, div. A, title I][/us/pl/110/289/dA/tI], §§ 1105(a), (b), (e), 1153(b)(1)(A), July 30, 2008, [122 Stat. 2667][/us/stat/122/2667], 2668, 2774; [Pub. L. 111–203, title III][/us/pl/111/203/tIII], § 365(2), July 21, 2010, [124 Stat. 1555][/us/stat/124/1555].)
 
  __References in Text__ 
 
@@ -71,21 +71,21 @@
 
     2010—Subsec. (c). [Pub. L. 111–203][/us/pl/111/203] substituted “or the Federal Deposit Insurance Corporation” for “the Federal Deposit Insurance Corporation, or the Director of the Office of Thrift Supervision”.
 
-    2008—Subsec. (a). [Pub. L. 110–289, § 1105(a)(1)][/us/pl/110/289/s1105/a/1], substituted “regulated entity” for “enterprise” in two places.
+    2008—Subsec. (a). [Pub. L. 110–289][/us/pl/110/289], § 1105(a)(1), substituted “regulated entity” for “enterprise” in two places.
 
-    Subsec. (b). [Pub. L. 110–289, § 1105(a)(2)][/us/pl/110/289/s1105/a/2], inserted “of a regulated entity” after “under this section” and substituted “or appropriate” for “to determine the condition of an enterprise for the purpose of ensuring its financial safety and soundness”.
+    Subsec. (b). [Pub. L. 110–289][/us/pl/110/289], § 1105(a)(2), inserted “of a regulated entity” after “under this section” and substituted “or appropriate” for “to determine the condition of an enterprise for the purpose of ensuring its financial safety and soundness”.
 
-    Subsec. (c). [Pub. L. 110–289, § 1105(a)(3)][/us/pl/110/289/s1105/a/3], inserted “to conduct examinations under this section” after “services of examiners”.
+    Subsec. (c). [Pub. L. 110–289][/us/pl/110/289], § 1105(a)(3), inserted “to conduct examinations under this section” after “services of examiners”.
 
-    Subsecs. (d) to (f). [Pub. L. 110–289, § 1105(a)(4)][/us/pl/110/289/s1105/a/4], (5), added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively. Former subsec. (f) redesignated (g).
+    Subsecs. (d) to (f). [Pub. L. 110–289][/us/pl/110/289], § 1105(a)(4), (5), added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively. Former subsec. (f) redesignated (g).
 
-    Subsec. (g). [Pub. L. 110–289, § 1153(b)(1)(A)][/us/pl/110/289/s1153/b/1/A], which directed technical amendment in subsec. (f) to reference in original act which appears in text as reference to [section 4641 of this title][/us/usc/t12/s4641], was executed by making the amendment in subsec. (g), to reflect the probable intent of Congress and the redesignation of subsec. (f) as (g) by [Pub. L. 110–289, § 1105(a)(4)][/us/pl/110/289/s1105/a/4]. See below.
+    Subsec. (g). [Pub. L. 110–289][/us/pl/110/289], § 1153(b)(1)(A), which directed technical amendment in subsec. (f) to reference in original act which appears in text as reference to [section 4641 of this title][/us/usc/t12/s4641], was executed by making the amendment in subsec. (g), to reflect the probable intent of Congress and the redesignation of subsec. (f) as (g) by [Pub. L. 110–289][/us/pl/110/289], § 1105(a)(4). See below.
 
-    [Pub. L. 110–289, § 1105(a)(4)][/us/pl/110/289/s1105/a/4], redesignated subsec. (f) as (g).
+    [Pub. L. 110–289][/us/pl/110/289], § 1105(a)(4), redesignated subsec. (f) as (g).
 
-    Subsec. (h). [Pub. L. 110–289, § 1105(b)][/us/pl/110/289/s1105/b], added subsec. (h).
+    Subsec. (h). [Pub. L. 110–289][/us/pl/110/289], § 1105(b), added subsec. (h).
 
-    Subsec. (i). [Pub. L. 110–289, § 1105(e)][/us/pl/110/289/s1105/e], added subsec. (i).
+    Subsec. (i). [Pub. L. 110–289][/us/pl/110/289], § 1105(e), added subsec. (i).
 
  __Effective Date of 2010 Amendment__ 
 
@@ -99,24 +99,24 @@
 ----------
 
 [/us/usc/t12/s4641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4641
-[/us/pl/102/550/s1317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1317
+[/us/pl/102/550/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIII
 [/us/stat/106/3949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3949
-[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtI
 [/us/stat/122/2667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2667
-[/us/pl/111/203/s365/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs365%2F2
+[/us/pl/111/203/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIII
 [/us/stat/124/1555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1555
 [/us/pl/95/452/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452%2Fs3%2Fa
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
-[/us/pl/110/289/s1105/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1105%2Fa%2F1
-[/us/pl/110/289/s1105/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1105%2Fa%2F2
-[/us/pl/110/289/s1105/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1105%2Fa%2F3
-[/us/pl/110/289/s1105/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1105%2Fa%2F4
-[/us/pl/110/289/s1153/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1153%2Fb%2F1%2FA
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
 [/us/usc/t12/s4641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4641
-[/us/pl/110/289/s1105/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1105%2Fa%2F4
-[/us/pl/110/289/s1105/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1105%2Fa%2F4
-[/us/pl/110/289/s1105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1105%2Fb
-[/us/pl/110/289/s1105/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1105%2Fe
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs351
 [/us/usc/t2/s906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs906

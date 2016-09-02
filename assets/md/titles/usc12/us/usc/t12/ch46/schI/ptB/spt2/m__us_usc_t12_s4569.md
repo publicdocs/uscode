@@ -207,7 +207,7 @@
 
                     (III) ability to obligate amounts and undertake activities so funded in a timely manner.
 
-([Pub. L. 102–550, title XIII, § 1339][/us/pl/102/550/s1339], as added [Pub. L. 110–289, div. A, title I, § 1131(b)][/us/pl/110/289/s1131/b], July 30, 2008, [122 Stat. 2723][/us/stat/122/2723].)
+([Pub. L. 102–550, title XIII][/us/pl/102/550/tXIII], § 1339, as added [Pub. L. 110–289, div. A, title I][/us/pl/110/289/dA/tI], § 1131(b), July 30, 2008, [122 Stat. 2723][/us/stat/122/2723].)
 
 ----------
 
@@ -220,8 +220,8 @@
 [/us/usc/t26/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501
 [/us/usc/t31/s1352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1352
 [/us/usc/t12/s4565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4565
-[/us/pl/102/550/s1339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1339
-[/us/pl/110/289/s1131/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1131%2Fb
+[/us/pl/102/550/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIII
+[/us/pl/110/289/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtI
 [/us/stat/122/2723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2723
 
 

@@ -31,7 +31,7 @@
 
     Notwithstanding the five-year holding limitation of this section or any other provision of title 62 of the Revised Statutes, any national banking association which on October 15, 1982, held, directly or indirectly, real estate, including any subsurface rights or interests therein, that since December 31, 1979, had not been valued on the books of such association for more than a nominal amount, may continue to hold such real estate, rights, or interests for such longer period of time as would be permitted a State chartered bank by the law of the State in which the association is located if the aggregate amount of earnings from such real estate, rights, or interests is separately disclosed in the annual financial statements of the association.
 
-(R.S. § 5137; [Feb. 25, 1927, ch. 191, § 3][/us/act/1927-02-25/ch191/s3], [44 Stat. 1227][/us/stat/44/1227]; [Pub. L. 96–221, title VII, § 701(a)][/us/pl/96/221/s701/a], Mar. 31, 1980, [94 Stat. 186][/us/stat/94/186]; [Pub. L. 97–25, title III, § 302][/us/pl/97/25/s302], July 27, 1981, [95 Stat. 145][/us/stat/95/145]; [Pub. L. 97–320, title IV, § 413][/us/pl/97/320/s413], Oct. 15, 1982, [96 Stat. 1521][/us/stat/96/1521].)
+(R.S. § 5137; [Feb. 25, 1927, ch. 191][/us/act/1927-02-25/ch191], § 3, [44 Stat. 1227][/us/stat/44/1227]; [Pub. L. 96–221, title VII][/us/pl/96/221/tVII], § 701(a), Mar. 31, 1980, [94 Stat. 186][/us/stat/94/186]; [Pub. L. 97–25, title III][/us/pl/97/25/tIII], § 302, July 27, 1981, [95 Stat. 145][/us/stat/95/145]; [Pub. L. 97–320, title IV][/us/pl/97/320/tIV], § 413, Oct. 15, 1982, [96 Stat. 1521][/us/stat/96/1521].)
 
  __References in Text__ 
 
@@ -39,7 +39,7 @@
 
  __Codification__ 
 
-    R.S. § 5137 derived from [act June 3, 1864, ch. 106, § 28][/us/act/1864-06-03/ch106/s28], [13 Stat. 107][/us/stat/13/107], which was the National Bank Act. See [section 38 of this title][/us/usc/t12/s38].
+    R.S. § 5137 derived from [act June 3, 1864, ch. 106][/us/act/1864-06-03/ch106], § 28, [13 Stat. 107][/us/stat/13/107], which was the National Bank Act. See [section 38 of this title][/us/usc/t12/s38].
 
  __Amendments__ 
 
@@ -58,15 +58,15 @@
 ----------
 ----------
 
-[/us/act/1927-02-25/ch191/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-25%2Fch191%2Fs3
+[/us/act/1927-02-25/ch191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-25%2Fch191
 [/us/stat/44/1227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1227
-[/us/pl/96/221/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs701%2Fa
+[/us/pl/96/221/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2FtVII
 [/us/stat/94/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F186
-[/us/pl/97/25/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F25%2Fs302
+[/us/pl/97/25/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F25%2FtIII
 [/us/stat/95/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F145
-[/us/pl/97/320/s413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs413
+[/us/pl/97/320/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2FtIV
 [/us/stat/96/1521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1521
-[/us/act/1864-06-03/ch106/s28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-06-03%2Fch106%2Fs28
+[/us/act/1864-06-03/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-06-03%2Fch106
 [/us/stat/13/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F13%2F107
 [/us/usc/t12/s38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs38
 [/us/pl/97/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320

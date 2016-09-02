@@ -47,31 +47,31 @@
 
         (4) where feasible, partnering with inner-city high schools, girls’ high schools, and high schools with majority minority populations to establish or enhance financial literacy programs and provide mentoring.
 
-([Pub. L. 102–550, title XIII, § 1319A][/us/pl/102/550/s1319A], Oct. 28, 1992, [106 Stat. 3950][/us/stat/106/3950]; [Pub. L. 110–289, div. A, title I][/us/pl/110/289], §§ 1116, 1161(a)(2), July 30, 2008, [122 Stat. 2681][/us/stat/122/2681], 2779.)
+([Pub. L. 102–550, title XIII][/us/pl/102/550/tXIII], § 1319A, Oct. 28, 1992, [106 Stat. 3950][/us/stat/106/3950]; [Pub. L. 110–289, div. A, title I][/us/pl/110/289/dA/tI], §§ 1116, 1161(a)(2), July 30, 2008, [122 Stat. 2681][/us/stat/122/2681], 2779.)
 
  __References in Text__ 
 
     Section 1204(c) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989, referred to in subsec. (b), is [section 1204(c) of Pub. L. 101–73][/us/pl/101/73/s1204/c], which is set out as a note under [section 1811 of this title][/us/usc/t12/s1811].
 
-    [Section 1441a(r)(4) of this title][/us/usc/t12/s1441a/r/4], referred to in subsec. (b), was repealed by [Pub. L. 111–203, title III, § 364(b)][/us/pl/111/203/s364/b], July 21, 2010, [124 Stat. 1555][/us/stat/124/1555].
+    [Section 1441a(r)(4) of this title][/us/usc/t12/s1441a/r/4], referred to in subsec. (b), was repealed by [Pub. L. 111–203, title III][/us/pl/111/203/tIII], § 364(b), July 21, 2010, [124 Stat. 1555][/us/stat/124/1555].
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–289, § 1116(1)][/us/pl/110/289/s1116/1], substituted “Minority and women inclusion; diversity requirements” for “Equal opportunity in solicitation of contracts” in section catchline.
+    2008—[Pub. L. 110–289][/us/pl/110/289], § 1116(1), substituted “Minority and women inclusion; diversity requirements” for “Equal opportunity in solicitation of contracts” in section catchline.
 
-    Subsec. (a). [Pub. L. 110–289, § 1161(a)(2)(A)][/us/pl/110/289/s1161/a/2/A], which directed amendment of this section by striking out subsec. (a) designation and “In general” in subsec. (a) heading, could not be executed because of the prior amendment by [Pub. L. 110–289, § 1116(2)][/us/pl/110/289/s1116/2], (4). See below.
+    Subsec. (a). [Pub. L. 110–289][/us/pl/110/289], § 1161(a)(2)(A), which directed amendment of this section by striking out subsec. (a) designation and “In general” in subsec. (a) heading, could not be executed because of the prior amendment by [Pub. L. 110–289][/us/pl/110/289], § 1116(2), (4). See below.
 
-    [Pub. L. 110–289, § 1116(2)][/us/pl/110/289/s1116/2], (4), added subsec. (a) and redesignated former subsec. (a) as (e).
+    [Pub. L. 110–289][/us/pl/110/289], § 1116(2), (4), added subsec. (a) and redesignated former subsec. (a) as (e).
 
-    Subsec. (b). [Pub. L. 110–289, § 1161(a)(2)(B)][/us/pl/110/289/s1161/a/2/B], which directed the striking out of subsec. (b), was not executed to reflect the probable intent of Congress. The amendment was probably intended to strike out subsec. (b) as it existed prior to being struck out by [Pub. L. 110–289, § 1116(3)][/us/pl/110/289/s1116/3]. See below.
+    Subsec. (b). [Pub. L. 110–289][/us/pl/110/289], § 1161(a)(2)(B), which directed the striking out of subsec. (b), was not executed to reflect the probable intent of Congress. The amendment was probably intended to strike out subsec. (b) as it existed prior to being struck out by [Pub. L. 110–289][/us/pl/110/289], § 1116(3). See below.
 
-    [Pub. L. 110–289, § 1116(3)][/us/pl/110/289/s1116/3], (4), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “Not later than the expiration of the 180-day period beginning on October 28, 1992, each enterprise shall submit to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report describing the actions taken by the enterprise pursuant to subsection (a) of this section.”
+    [Pub. L. 110–289][/us/pl/110/289], § 1116(3), (4), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “Not later than the expiration of the 180-day period beginning on October 28, 1992, each enterprise shall submit to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report describing the actions taken by the enterprise pursuant to subsection (a) of this section.”
 
-    Subsecs. (c), (d). [Pub. L. 110–289, § 1116(4)][/us/pl/110/289/s1116/4], added subsecs. (c) and (d).
+    Subsecs. (c), (d). [Pub. L. 110–289][/us/pl/110/289], § 1116(4), added subsecs. (c) and (d).
 
-    Subsec. (e). [Pub. L. 110–289, § 1116(2)][/us/pl/110/289/s1116/2], redesignated subsec. (a) as (e) and substituted “Outreach” for “In general” in heading and “Each regulated entity” for “Each enterprise” in text.
+    Subsec. (e). [Pub. L. 110–289][/us/pl/110/289], § 1116(2), redesignated subsec. (a) as (e) and substituted “Outreach” for “In general” in heading and “Each regulated entity” for “Each enterprise” in text.
 
-    Subsec. (f). [Pub. L. 110–289, § 1116(5)][/us/pl/110/289/s1116/5], added subsec. (f).
+    Subsec. (f). [Pub. L. 110–289][/us/pl/110/289], § 1116(5), added subsec. (f).
 
 ----------
 
@@ -84,24 +84,24 @@
 [/us/usc/t12/s1723a/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1723a%2Fk
 [/us/usc/t12/s1456/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1456%2Fc
 [/us/usc/t12/s1440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1440
-[/us/pl/102/550/s1319A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1319A
+[/us/pl/102/550/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIII
 [/us/stat/106/3950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3950
-[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtI
 [/us/stat/122/2681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2681
 [/us/pl/101/73/s1204/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs1204%2Fc
 [/us/usc/t12/s1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1811
 [/us/usc/t12/s1441a/r/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1441a%2Fr%2F4
-[/us/pl/111/203/s364/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs364%2Fb
+[/us/pl/111/203/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIII
 [/us/stat/124/1555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1555
-[/us/pl/110/289/s1116/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1116%2F1
-[/us/pl/110/289/s1161/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1161%2Fa%2F2%2FA
-[/us/pl/110/289/s1116/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1116%2F2
-[/us/pl/110/289/s1116/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1116%2F2
-[/us/pl/110/289/s1161/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1161%2Fa%2F2%2FB
-[/us/pl/110/289/s1116/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1116%2F3
-[/us/pl/110/289/s1116/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1116%2F3
-[/us/pl/110/289/s1116/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1116%2F4
-[/us/pl/110/289/s1116/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1116%2F2
-[/us/pl/110/289/s1116/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1116%2F5
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
 
 

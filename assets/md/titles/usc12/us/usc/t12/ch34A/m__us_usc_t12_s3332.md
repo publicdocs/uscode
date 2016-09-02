@@ -47,7 +47,7 @@
 
         The Appraisal Subcommittee shall monitor and review the practices, procedures, activities, and organizational structure of the Appraisal Foundation.
 
-([Pub. L. 101–73, title XI, § 1103][/us/pl/101/73/s1103], Aug. 9, 1989, [103 Stat. 512][/us/stat/103/512]; [Pub. L. 111–203, title III, § 367(6)][/us/pl/111/203/s367/6], title XIV, § 1473(b), (f)(1), July 21, 2010, [124 Stat. 1557][/us/stat/124/1557], 2190, 2191.)
+([Pub. L. 101–73, title XI][/us/pl/101/73/tXI], § 1103, Aug. 9, 1989, [103 Stat. 512][/us/stat/103/512]; [Pub. L. 111–203, title III][/us/pl/111/203/tIII], § 367(6), title XIV, § 1473(b), (f)(1), July 21, 2010, [124 Stat. 1557][/us/stat/124/1557], 2190, 2191.)
 
  __Codification__ 
 
@@ -55,13 +55,13 @@
 
  __Amendments__ 
 
-    2010—Subsec. (a)(1). [Pub. L. 111–203, § 1473(f)(1)(A)][/us/pl/111/203/s1473/f/1/A], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “monitor the requirements established by States for the certification and licensing of individuals who are qualified to perform appraisals in connection with federally related transactions, including a code of professional responsibility;”.
+    2010—Subsec. (a)(1). [Pub. L. 111–203][/us/pl/111/203], § 1473(f)(1)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “monitor the requirements established by States for the certification and licensing of individuals who are qualified to perform appraisals in connection with federally related transactions, including a code of professional responsibility;”.
 
-    Subsec. (a)(2). [Pub. L. 111–203, § 367(6)][/us/pl/111/203/s367/6], struck out “and the Resolution Trust Corporation” after “agencies” in introductory provisions.
+    Subsec. (a)(2). [Pub. L. 111–203][/us/pl/111/203], § 367(6), struck out “and the Resolution Trust Corporation” after “agencies” in introductory provisions.
 
-    Subsec. (a)(5). [Pub. L. 111–203, § 1473(b)][/us/pl/111/203/s1473/b], added par. (5).
+    Subsec. (a)(5). [Pub. L. 111–203][/us/pl/111/203], § 1473(b), added par. (5).
 
-    Subsec. (a)(6). [Pub. L. 111–203, § 1473(f)(1)(B)][/us/pl/111/203/s1473/f/1/B], added par. (6).
+    Subsec. (a)(6). [Pub. L. 111–203][/us/pl/111/203], § 1473(f)(1)(B), added par. (6).
 
  __Effective Date of 2010 Amendment__ 
 
@@ -76,16 +76,16 @@
 ----------
 ----------
 
-[/us/pl/101/73/s1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs1103
+[/us/pl/101/73/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtXI
 [/us/stat/103/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F512
-[/us/pl/111/203/s367/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs367%2F6
+[/us/pl/111/203/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIII
 [/us/stat/124/1557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1557
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
-[/us/pl/111/203/s1473/f/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1473%2Ff%2F1%2FA
-[/us/pl/111/203/s367/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs367%2F6
-[/us/pl/111/203/s1473/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1473%2Fb
-[/us/pl/111/203/s1473/f/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1473%2Ff%2F1%2FB
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s367/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs367%2F6
 [/us/pl/111/203/s351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs351
 [/us/usc/t2/s906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs906

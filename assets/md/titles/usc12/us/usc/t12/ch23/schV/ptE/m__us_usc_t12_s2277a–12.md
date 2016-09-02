@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of law, the Corporation, including its franchise, and its capital, reserves, surplus, and income, shall be exempt from all taxation imposed by the United States, or by any State, county, municipality, or local taxing authority, except that any real property of the Corporation shall be subject to State, county, municipal, and local taxation to the same extent according to its value as other real property is taxed.
 
-([Pub. L. 92–181, title V, § 5][/us/pl/92/181/s5].63, as added [Pub. L. 100–233, title III, § 302][/us/pl/100/233/s302], Jan. 6, 1988, [101 Stat. 1618][/us/stat/101/1618].)
+([Pub. L. 92–181, title V][/us/pl/92/181/tV], § 5.63, as added [Pub. L. 100–233, title III][/us/pl/100/233/tIII], § 302, Jan. 6, 1988, [101 Stat. 1618][/us/stat/101/1618].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/92/181/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs5
-[/us/pl/100/233/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs302
+[/us/pl/92/181/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtV
+[/us/pl/100/233/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtIII
 [/us/stat/101/1618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1618
 
 

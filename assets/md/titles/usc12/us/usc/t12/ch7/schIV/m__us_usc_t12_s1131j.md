@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, acts [June 18, 1934, ch. 574][/us/act/1934-06-18/ch574], [48 Stat. 983][/us/stat/48/983]; [June 3, 1935, ch. 164, § 17(c)][/us/act/1935-06-03/ch164/s17/c], [49 Stat. 318][/us/stat/49/318], transferred to [section 1131g–2 of this title][/us/usc/t12/s1131g–2].
+    Section, acts [June 18, 1934, ch. 574][/us/act/1934-06-18/ch574], [48 Stat. 983][/us/stat/48/983]; [June 3, 1935, ch. 164][/us/act/1935-06-03/ch164], § 17(c), [49 Stat. 318][/us/stat/49/318], transferred to [section 1131g–2 of this title][/us/usc/t12/s1131g–2].
 
 ----------
 
@@ -28,7 +28,7 @@
 
 [/us/act/1934-06-18/ch574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fch574
 [/us/stat/48/983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F983
-[/us/act/1935-06-03/ch164/s17/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-06-03%2Fch164%2Fs17%2Fc
+[/us/act/1935-06-03/ch164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-06-03%2Fch164
 [/us/stat/49/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F318
 [/us/usc/t12/s1131g–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1131g%E2%80%932
 

@@ -39,25 +39,25 @@
 
         The temporary increase in the standard maximum deposit insurance amount made under this section shall not be used to make any inflation adjustment under section 11(a)(1)(F) of the Federal Deposit Insurance Act ([12 U.S.C. 1821(a)(1)(F)][/us/usc/t12/s1821/a/1/F]) for purposes of that Act \[[12 U.S.C. 1811][/us/usc/t12/s1811] et seq.\] or the Federal Credit Union Act \[[12 U.S.C. 1751][/us/usc/t12/s1751] et seq.\].
 
-([Pub. L. 110–343, div. A, title I, § 136][/us/pl/110/343/s136], Oct. 3, 2008, [122 Stat. 3799][/us/stat/122/3799]; [Pub. L. 111–22, div. A, title II, § 204(a)][/us/pl/111/22/s204/a], May 20, 2009, [123 Stat. 1648][/us/stat/123/1648].)
+([Pub. L. 110–343, div. A, title I][/us/pl/110/343/dA/tI], § 136, Oct. 3, 2008, [122 Stat. 3799][/us/stat/122/3799]; [Pub. L. 111–22, div. A, title II][/us/pl/111/22/dA/tII], § 204(a), May 20, 2009, [123 Stat. 1648][/us/stat/123/1648].)
 
  __References in Text__ 
 
-    Section 207(k)(5) of the Federal Credit Union Act, referred to in subsec. (b)(1), was redesignated section 207(k)(6) of the Act by [Pub. L. 113–252, § 2(3)][/us/pl/113/252/s2/3], Dec. 18, 2014, [128 Stat. 2893][/us/stat/128/2893].
+    Section 207(k)(5) of the Federal Credit Union Act, referred to in subsec. (b)(1), was redesignated section 207(k)(6) of the Act by [Pub. L. 113–252][/us/pl/113/252], § 2(3), Dec. 18, 2014, [128 Stat. 2893][/us/stat/128/2893].
 
-    That Act, referred to in subsec. (c), means the Federal Deposit Insurance Act, [act Sept. 21, 1950, ch. 967, § 2][/us/act/1950-09-21/ch967/s2], [64 Stat. 873][/us/stat/64/873], which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1811 of this title][/us/usc/t12/s1811] and Tables.
+    That Act, referred to in subsec. (c), means the Federal Deposit Insurance Act, [act Sept. 21, 1950, ch. 967][/us/act/1950-09-21/ch967], § 2, [64 Stat. 873][/us/stat/64/873], which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1811 of this title][/us/usc/t12/s1811] and Tables.
 
     The Federal Credit Union Act, referred to in subsec. (c), is [act June 26, 1934, ch. 750][/us/act/1934-06-26/ch750], [48 Stat. 1216][/us/stat/48/1216], which is classified principally to chapter 14 (§ 1751 et seq.) of this title. For complete classification of this Act to the Code, see [section 1751 of this title][/us/usc/t12/s1751] and Tables.
 
  __Amendments__ 
 
-    2009—Subsec. (a)(1). [Pub. L. 111–22, § 204(a)(1)(A)][/us/pl/111/22/s204/a/1/A], substituted “December 31, 2013” for “December 31, 2009”.
+    2009—Subsec. (a)(1). [Pub. L. 111–22][/us/pl/111/22], § 204(a)(1)(A), substituted “December 31, 2013” for “December 31, 2009”.
 
-    Subsec. (a)(2), (3). [Pub. L. 111–22, § 204(a)(1)(B)][/us/pl/111/22/s204/a/1/B]–(D), redesignated par. (3) as (2), substituted “December 31, 2013” for “December 31, 2009”, and struck out former par. (2). Prior to amendment, text read as follows: “The temporary increase in the standard maximum deposit insurance amount made under paragraph (1) shall not be taken into account by the Board of Directors of the Corporation for purposes of setting assessments under section 7(b)(2) of the Federal Deposit Insurance Act ([12 U.S.C. 1817(b)(2)][/us/usc/t12/s1817/b/2]).”
+    Subsec. (a)(2), (3). [Pub. L. 111–22][/us/pl/111/22], § 204(a)(1)(B)–(D), redesignated par. (3) as (2), substituted “December 31, 2013” for “December 31, 2009”, and struck out former par. (2). Prior to amendment, text read as follows: “The temporary increase in the standard maximum deposit insurance amount made under paragraph (1) shall not be taken into account by the Board of Directors of the Corporation for purposes of setting assessments under section 7(b)(2) of the Federal Deposit Insurance Act ([12 U.S.C. 1817(b)(2)][/us/usc/t12/s1817/b/2]).”
 
-    Subsec. (b)(1). [Pub. L. 111–22, § 204(a)(2)(A)][/us/pl/111/22/s204/a/2/A], substituted “December 31, 2013” for “December 31, 2009”.
+    Subsec. (b)(1). [Pub. L. 111–22][/us/pl/111/22], § 204(a)(2)(A), substituted “December 31, 2013” for “December 31, 2009”.
 
-    Subsec. (b)(2), (3). [Pub. L. 111–22, § 204(a)(2)(B)][/us/pl/111/22/s204/a/2/B]–(D), redesignated par. (3) as (2), substituted “December 31, 2013” for “December 31, 2009”, and struck out former par. (2). Prior to amendment, text read as follows: “The temporary increase in the standard maximum share insurance amount made under paragraph (1) shall not be taken into account by the National Credit Union Administration Board for purposes of setting insurance premium charges and share insurance deposit adjustments under section 202(c)(2) of the Federal Credit Union Act ([12 U.S.C. 1782(c)(2)][/us/usc/t12/s1782/c/2]).”
+    Subsec. (b)(2), (3). [Pub. L. 111–22][/us/pl/111/22], § 204(a)(2)(B)–(D), redesignated par. (3) as (2), substituted “December 31, 2013” for “December 31, 2009”, and struck out former par. (2). Prior to amendment, text read as follows: “The temporary increase in the standard maximum share insurance amount made under paragraph (1) shall not be taken into account by the National Credit Union Administration Board for purposes of setting insurance premium charges and share insurance deposit adjustments under section 202(c)(2) of the Federal Credit Union Act ([12 U.S.C. 1782(c)(2)][/us/usc/t12/s1782/c/2]).”
 
 ----------
 
@@ -73,23 +73,23 @@
 [/us/usc/t12/s1821/a/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1821%2Fa%2F1%2FF
 [/us/usc/t12/s1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1811
 [/us/usc/t12/s1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1751
-[/us/pl/110/343/s136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs136
+[/us/pl/110/343/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdA%2FtI
 [/us/stat/122/3799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3799
-[/us/pl/111/22/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs204%2Fa
+[/us/pl/111/22/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2FdA%2FtII
 [/us/stat/123/1648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1648
-[/us/pl/113/252/s2/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F252%2Fs2%2F3
+[/us/pl/113/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F252
 [/us/stat/128/2893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2893
-[/us/act/1950-09-21/ch967/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967%2Fs2
+[/us/act/1950-09-21/ch967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967
 [/us/stat/64/873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F873
 [/us/usc/t12/s1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1811
 [/us/act/1934-06-26/ch750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-26%2Fch750
 [/us/stat/48/1216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1216
 [/us/usc/t12/s1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1751
-[/us/pl/111/22/s204/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs204%2Fa%2F1%2FA
-[/us/pl/111/22/s204/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs204%2Fa%2F1%2FB
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
 [/us/usc/t12/s1817/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1817%2Fb%2F2
-[/us/pl/111/22/s204/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs204%2Fa%2F2%2FA
-[/us/pl/111/22/s204/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs204%2Fa%2F2%2FB
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
 [/us/usc/t12/s1782/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1782%2Fc%2F2
 
 

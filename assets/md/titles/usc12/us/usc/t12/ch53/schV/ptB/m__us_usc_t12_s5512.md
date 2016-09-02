@@ -193,7 +193,7 @@
 
             Before publishing a report of its assessment, the Bureau shall invite public comment on recommendations for modifying, expanding, or eliminating the newly adopted significant rule or order.
 
-([Pub. L. 111–203, title X, § 1022][/us/pl/111/203/s1022], July 21, 2010, [124 Stat. 1980][/us/stat/124/1980].)
+([Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1022, July 21, 2010, [124 Stat. 1980][/us/stat/124/1980].)
 
  __References in Text__ 
 
@@ -207,7 +207,7 @@
 
  __Designation of Rural Area__ 
 
-[Pub. L. 114–94, div. G, title LXXXIX, § 89002][/us/pl/114/94/s89002], Dec. 4, 2015, [129 Stat. 1799][/us/stat/129/1799], provided that:
+[Pub. L. 114–94, div. G, title LXXXIX][/us/pl/114/94/dG/tLXXXIX], § 89002, Dec. 4, 2015, [129 Stat. 1799][/us/stat/129/1799], provided that:
 
 >     “(a)  __Application__  __.—__ 
 
@@ -277,7 +277,7 @@
 [/us/usc/t12/s5481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5481
 [/us/usc/t12/s3401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3401
 [/us/usc/t12/s3401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3401
-[/us/pl/111/203/s1022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1022
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/1980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1980
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1955
@@ -287,7 +287,7 @@
 [/us/usc/t12/s3401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3401
 [/us/pl/111/203/s1029A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1029A
 [/us/usc/t12/s5511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5511
-[/us/pl/114/94/s89002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs89002
+[/us/pl/114/94/dG/tLXXXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdG%2FtLXXXIX
 [/us/stat/129/1799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1799
 [/us/usc/t12/s5481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5481
 [/us/usc/t12/s1813/r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813%2Fr

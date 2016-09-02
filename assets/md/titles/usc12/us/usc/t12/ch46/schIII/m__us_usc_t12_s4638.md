@@ -17,7 +17,7 @@
 
     This chapter shall not create any private right of action on behalf of any person against a regulated entity, or any director or executive officer of a regulated entity, or impair any existing private right of action under other applicable law.
 
-([Pub. L. 102–550, title XIII, § 1379A][/us/pl/102/550/s1379A], formerly § 1378, Oct. 28, 1992, [106 Stat. 3993][/us/stat/106/3993]; renumbered § 1379A and amended [Pub. L. 110–289, div. A, title I][/us/pl/110/289], §§ 1153(a)(1), 1156(b)(2), July 30, 2008, [122 Stat. 2770][/us/stat/122/2770], 2777.)
+([Pub. L. 102–550, title XIII][/us/pl/102/550/tXIII], § 1379A, formerly § 1378, Oct. 28, 1992, [106 Stat. 3993][/us/stat/106/3993]; renumbered § 1379A and amended [Pub. L. 110–289, div. A, title I][/us/pl/110/289/dA/tI], §§ 1153(a)(1), 1156(b)(2), July 30, 2008, [122 Stat. 2770][/us/stat/122/2770], 2777.)
 
  __References in Text__ 
 
@@ -29,7 +29,7 @@
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–289, § 1156(b)(2)][/us/pl/110/289/s1156/b/2], which directed substitution of “a regulated entity” for “an enterprise”, was executed by making the substitution in two places to reflect the probable intent of Congress.
+    2008—[Pub. L. 110–289][/us/pl/110/289], § 1156(b)(2), which directed substitution of “a regulated entity” for “an enterprise”, was executed by making the substitution in two places to reflect the probable intent of Congress.
 
 ----------
 
@@ -38,15 +38,15 @@
 ----------
 ----------
 
-[/us/pl/102/550/s1379A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1379A
+[/us/pl/102/550/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIII
 [/us/stat/106/3993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3993
-[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtI
 [/us/stat/122/2770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2770
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/stat/106/3941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3941
 [/us/usc/t12/s4501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4501
 [/us/pl/102/550/s1379A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1379A
 [/us/usc/t12/s4640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4640
-[/us/pl/110/289/s1156/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1156%2Fb%2F2
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
 
 

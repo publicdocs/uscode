@@ -33,17 +33,17 @@
 
         For purposes of this section, the term “lower income families” has the meaning given such term in [section 1437a(b)(2) of title 42][/us/usc/t42/s1437a/b/2].
 
-([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title II, § 250, as added [Pub. L. 98–181, title I][/us/pl/98/181] \[title IV, § 433\], Nov. 30, 1983, [97 Stat. 1221][/us/stat/97/1221]; amended [Pub. L. 100–242, title II, § 261][/us/pl/100/242/s261], Feb. 5, 1988, [101 Stat. 1890][/us/stat/101/1890]; [Pub. L. 101–235, title II, § 202(d)(1)][/us/pl/101/235/s202/d/1], Dec. 15, 1989, [103 Stat. 2037][/us/stat/103/2037]; [Pub. L. 101–625, title VI, § 602(b)][/us/pl/101/625/s602/b], (c), Nov. 28, 1990, [104 Stat. 4277][/us/stat/104/4277].)
+([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title II, § 250, as added [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title IV, § 433\], Nov. 30, 1983, [97 Stat. 1221][/us/stat/97/1221]; amended [Pub. L. 100–242, title II][/us/pl/100/242/tII], § 261, Feb. 5, 1988, [101 Stat. 1890][/us/stat/101/1890]; [Pub. L. 101–235, title II][/us/pl/101/235/tII], § 202(d)(1), Dec. 15, 1989, [103 Stat. 2037][/us/stat/103/2037]; [Pub. L. 101–625, title VI][/us/pl/101/625/tVI], § 602(b), (c), Nov. 28, 1990, [104 Stat. 4277][/us/stat/104/4277].)
 
  __Amendments__ 
 
-    1990—Subsec. (b). [Pub. L. 101–625, § 602(b)][/us/pl/101/625/s602/b], amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “In the case of a project assisted under [section 1715z–1 of this title][/us/usc/t12/s1715z–1] or the proviso to section 1715l(d)(5) of this title, section 101 of the Housing and Urban Development Act of 1965, or [section 1701q of this title][/us/usc/t12/s1701q] where the owner has the right to prepay the mortgage covering the assisted project without the Secretary’s approval, the Secretary shall give a priority for additional assistance under [section 1437f of title 42][/us/usc/t42/s1437f] and section 201 of the Housing and Community Development Amendments of 1978 to tenants and applicants to become tenants of the project, if—
+    1990—Subsec. (b). [Pub. L. 101–625][/us/pl/101/625], § 602(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “In the case of a project assisted under [section 1715z–1 of this title][/us/usc/t12/s1715z–1] or the proviso to section 1715l(d)(5) of this title, section 101 of the Housing and Urban Development Act of 1965, or [section 1701q of this title][/us/usc/t12/s1701q] where the owner has the right to prepay the mortgage covering the assisted project without the Secretary’s approval, the Secretary shall give a priority for additional assistance under [section 1437f of title 42][/us/usc/t42/s1437f] and section 201 of the Housing and Community Development Amendments of 1978 to tenants and applicants to become tenants of the project, if—
 
     “(1) funds to provide such additional assistance are available; and
 
     “(2) the Secretary determines that making such additional assistance available to the project is necessary to prevent the owner from prepaying the mortgage.”
 
-    Subsecs. (c), (d). [Pub. L. 101–625, § 602(c)][/us/pl/101/625/s602/c], redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “Any owner of a multifamily rental housing project referred to in subsection (b) of this section who receives additional assistance under [section 1437f of title 42][/us/usc/t42/s1437f] under the priority established in subsection (b) of this section shall—
+    Subsecs. (c), (d). [Pub. L. 101–625][/us/pl/101/625], § 602(c), redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “Any owner of a multifamily rental housing project referred to in subsection (b) of this section who receives additional assistance under [section 1437f of title 42][/us/usc/t42/s1437f] under the priority established in subsection (b) of this section shall—
 
     “(1) fully utilize the assistance which is available;
 
@@ -66,19 +66,19 @@
 [/us/usc/t12/s4119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4119
 [/us/usc/t42/s1437a/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437a%2Fb%2F2
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1221
-[/us/pl/100/242/s261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs261
+[/us/pl/100/242/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtII
 [/us/stat/101/1890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1890
-[/us/pl/101/235/s202/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235%2Fs202%2Fd%2F1
+[/us/pl/101/235/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235%2FtII
 [/us/stat/103/2037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2037
-[/us/pl/101/625/s602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs602%2Fb
+[/us/pl/101/625/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtVI
 [/us/stat/104/4277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4277
-[/us/pl/101/625/s602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs602%2Fb
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
 [/us/usc/t12/s1715z–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715z%E2%80%931
 [/us/usc/t12/s1701q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701q
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
-[/us/pl/101/625/s602/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs602%2Fc
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/pl/101/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235
 [/us/usc/t12/s1715t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715t

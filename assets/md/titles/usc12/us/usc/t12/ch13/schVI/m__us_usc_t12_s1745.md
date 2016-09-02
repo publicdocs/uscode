@@ -33,7 +33,7 @@
 
     The Secretary is further authorized to insure or to make commitments to insure under [section 1743 of this title][/us/usc/t12/s1743] in accordance with the provisions of this section any mortgage executed in connection with the sale by a State or municipality, or an agency, instrumentality, or body politic of either, of any permanent housing (including any property acquired, held, or constructed in connection therewith or to serve the inhabitants thereof), constructed by or on behalf of such State, municipality, agency, instrumentality or body politic, for the occupancy of veterans of World War II, their families, and others: Provided, That the principal obligation of any such mortgage does not exceed either 85 per centum of the appraised value of the mortgage property as determined by the Secretary or $8,100 per family unit for such part of such property as may be attributable to dwelling use.
 
-([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title VI, § 610, as added [Aug. 5, 1947, ch. 495, § 2][/us/act/1947-08-05/ch495/s2], [61 Stat. 777][/us/stat/61/777]; amended [Aug. 10, 1948, ch. 832][/us/act/1948-08-10/ch832], title I, § 101(e), [62 Stat. 1270][/us/stat/62/1270]; [Apr. 20, 1950, ch. 94][/us/act/1950-04-20/ch94], title I, §§ 120, 122, [64 Stat. 58][/us/stat/64/58], 59; [July 14, 1952, ch. 723, § 14][/us/act/1952-07-14/ch723/s14], [66 Stat. 605][/us/stat/66/605]; [Pub. L. 90–19, § 1(a)(3)][/us/pl/90/19/s1/a/3], (o), May 25, 1967, [81 Stat. 17][/us/stat/81/17], 19.)
+([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title VI, § 610, as added [Aug. 5, 1947, ch. 495][/us/act/1947-08-05/ch495], § 2, [61 Stat. 777][/us/stat/61/777]; amended [Aug. 10, 1948, ch. 832][/us/act/1948-08-10/ch832], title I, § 101(e), [62 Stat. 1270][/us/stat/62/1270]; [Apr. 20, 1950, ch. 94][/us/act/1950-04-20/ch94], title I, §§ 120, 122, [64 Stat. 58][/us/stat/64/58], 59; [July 14, 1952, ch. 723][/us/act/1952-07-14/ch723], § 14, [66 Stat. 605][/us/stat/66/605]; [Pub. L. 90–19][/us/pl/90/19], § 1(a)(3), (o), May 25, 1967, [81 Stat. 17][/us/stat/81/17], 19.)
 
  __References in Text__ 
 
@@ -72,15 +72,15 @@ Public Laws 9, 73, or 353, Seventy-seventh Congress, as amended, referred to in 
 [/us/usc/t12/s1743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1743
 [/us/usc/t12/s1743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1743
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
-[/us/act/1947-08-05/ch495/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-08-05%2Fch495%2Fs2
+[/us/act/1947-08-05/ch495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-08-05%2Fch495
 [/us/stat/61/777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F777
 [/us/act/1948-08-10/ch832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-08-10%2Fch832
 [/us/stat/62/1270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1270
 [/us/act/1950-04-20/ch94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-04-20%2Fch94
 [/us/stat/64/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F58
-[/us/act/1952-07-14/ch723/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-14%2Fch723%2Fs14
+[/us/act/1952-07-14/ch723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-14%2Fch723
 [/us/stat/66/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F605
-[/us/pl/90/19/s1/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19%2Fs1%2Fa%2F3
+[/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
 [/us/stat/81/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F17
 [/us/act/1940-10-14/ch862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-14%2Fch862
 [/us/stat/54/1125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1125

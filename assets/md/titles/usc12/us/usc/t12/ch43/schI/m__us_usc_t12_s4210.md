@@ -17,7 +17,7 @@
 
     Notwithstanding any other law, an award under this chapter  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  may be paid to a declarant, or to an individual providing information, from the amounts recovered through civil actions based in whole or in part on the information provided in a valid declaration under this chapter. <sup>\[1\]</sup> 
 
-([Pub. L. 101–647, title XXV, § 2570][/us/pl/101/647/s2570], Nov. 29, 1990, [104 Stat. 4899][/us/stat/104/4899].)
+([Pub. L. 101–647, title XXV][/us/pl/101/647/tXXV], § 2570, Nov. 29, 1990, [104 Stat. 4899][/us/stat/104/4899].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/101/647/s2570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2570
+[/us/pl/101/647/tXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXV
 [/us/stat/104/4899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4899
 [/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
 [/us/usc/t12/s4201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4201

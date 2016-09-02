@@ -159,7 +159,7 @@
 
         Any member of the board of directors of a Bank elected or appointed in accordance with this section prior to July 30, 2008, may continue to serve as a member of that board of directors for the remainder of the existing term of service.
 
-([July 22, 1932, ch. 522, § 7][/us/act/1932-07-22/ch522/s7], [47 Stat. 730][/us/stat/47/730]; [May 28, 1935, ch. 150, § 3][/us/act/1935-05-28/ch150/s3], [49 Stat. 294][/us/stat/49/294]; [Aug. 11, 1955, ch. 783][/us/act/1955-08-11/ch783], title I, § 109(a)(2), [69 Stat. 640][/us/stat/69/640]; [Pub. L. 86–349][/us/pl/86/349], §§ 1, 2, Sept. 22, 1959, [73 Stat. 625][/us/stat/73/625]; [Pub. L. 87–211, § 1][/us/pl/87/211/s1], Sept. 8, 1961, [75 Stat. 486][/us/stat/75/486]; [Pub. L. 87–676][/us/pl/87/676], Sept. 19, 1962, [76 Stat. 559][/us/stat/76/559]; [Pub. L. 93–541, § 3][/us/pl/93/541/s3], Dec. 26, 1974, [88 Stat. 1739][/us/stat/88/1739]; [Pub. L. 101–73, title VII][/us/pl/101/73], §§ 707, 710(b)(4), Aug. 9, 1989, [103 Stat. 417][/us/stat/103/417], 418; [Pub. L. 106–102, title VI, § 606(a)][/us/pl/106/102/s606/a], (b), Nov. 12, 1999, [113 Stat. 1452][/us/stat/113/1452], 1453; [Pub. L. 110–289, div. A, title I, § 1113(b)(3)][/us/pl/110/289/s1113/b/3], title II, §§ 1202, 1204(8)–(10), July 30, 2008, [122 Stat. 2678][/us/stat/122/2678], 2783, 2786.)
+([July 22, 1932, ch. 522][/us/act/1932-07-22/ch522], § 7, [47 Stat. 730][/us/stat/47/730]; [May 28, 1935, ch. 150][/us/act/1935-05-28/ch150], § 3, [49 Stat. 294][/us/stat/49/294]; [Aug. 11, 1955, ch. 783][/us/act/1955-08-11/ch783], title I, § 109(a)(2), [69 Stat. 640][/us/stat/69/640]; [Pub. L. 86–349][/us/pl/86/349], §§ 1, 2, Sept. 22, 1959, [73 Stat. 625][/us/stat/73/625]; [Pub. L. 87–211][/us/pl/87/211], § 1, Sept. 8, 1961, [75 Stat. 486][/us/stat/75/486]; [Pub. L. 87–676][/us/pl/87/676], Sept. 19, 1962, [76 Stat. 559][/us/stat/76/559]; [Pub. L. 93–541][/us/pl/93/541], § 3, Dec. 26, 1974, [88 Stat. 1739][/us/stat/88/1739]; [Pub. L. 101–73, title VII][/us/pl/101/73/tVII], §§ 707, 710(b)(4), Aug. 9, 1989, [103 Stat. 417][/us/stat/103/417], 418; [Pub. L. 106–102, title VI][/us/pl/106/102/tVI], § 606(a), (b), Nov. 12, 1999, [113 Stat. 1452][/us/stat/113/1452], 1453; [Pub. L. 110–289, div. A, title I][/us/pl/110/289/dA/tI], § 1113(b)(3), title II, §§ 1202, 1204(8)–(10), July 30, 2008, [122 Stat. 2678][/us/stat/122/2678], 2783, 2786.)
 
  __References in Text__ 
 
@@ -167,63 +167,63 @@
 
  __Codification__ 
 
-    [Section 1202(2) of Pub. L. 110–289][/us/pl/110/289/s1202/2], which directed amendment of this section by substituting “member” for “elective” wherever appearing other than in subsecs. (d), (e), and (f), was executed by making the substitution in subsec. (h) but not in subsecs. (b) and (c) to reflect the probable intent of Congress and subsequent amendment by [Pub. L. 110–289, § 1202(3)(A)][/us/pl/110/289/s1202/3/A], (4)(A). See 2008 Amendment notes below.
+    [Section 1202(2) of Pub. L. 110–289][/us/pl/110/289/s1202/2], which directed amendment of this section by substituting “member” for “elective” wherever appearing other than in subsecs. (d), (e), and (f), was executed by making the substitution in subsec. (h) but not in subsecs. (b) and (c) to reflect the probable intent of Congress and subsequent amendment by [Pub. L. 110–289][/us/pl/110/289], § 1202(3)(A), (4)(A). See 2008 Amendment notes below.
 
  __Amendments__ 
 
-    2008—Subsec. (a). [Pub. L. 110–289, § 1202(1)][/us/pl/110/289/s1202/1], added subsec. (a) and struck out former subsec. (a) which related to number, appointment and election, qualifications, and conflicts of interest of Federal Home Loan Bank directors.
+    2008—Subsec. (a). [Pub. L. 110–289][/us/pl/110/289], § 1202(1), added subsec. (a) and struck out former subsec. (a) which related to number, appointment and election, qualifications, and conflicts of interest of Federal Home Loan Bank directors.
 
-    Subsec. (b). [Pub. L. 110–289, § 1202(3)][/us/pl/110/289/s1202/3], designated existing provisions as par. (1), inserted subsec. (b) and par. (1) headings, substituted “Each member directorship” for “Each elective directorship”, and added par. (2).
+    Subsec. (b). [Pub. L. 110–289][/us/pl/110/289], § 1202(3), designated existing provisions as par. (1), inserted subsec. (b) and par. (1) headings, substituted “Each member directorship” for “Each elective directorship”, and added par. (2).
 
-    [Pub. L. 110–289, § 1202(2)][/us/pl/110/289/s1202/2], which directed substitution of “member” for “elective” wherever appearing, was not executed in subsec. (b) because of subsequent amendment by [Pub. L. 110–289, § 1202(3)(A)][/us/pl/110/289/s1202/3/A]. See Amendment and Codification notes above.
+    [Pub. L. 110–289][/us/pl/110/289], § 1202(2), which directed substitution of “member” for “elective” wherever appearing, was not executed in subsec. (b) because of subsequent amendment by [Pub. L. 110–289][/us/pl/110/289], § 1202(3)(A). See Amendment and Codification notes above.
 
-    Subsec. (b)(1). [Pub. L. 110–289, § 1204(8)][/us/pl/110/289/s1204/8], substituted “the Director” for “the Board” in two places.
+    Subsec. (b)(1). [Pub. L. 110–289][/us/pl/110/289], § 1204(8), substituted “the Director” for “the Board” in two places.
 
-    Subsec. (c). [Pub. L. 110–289, § 1204(8)][/us/pl/110/289/s1204/8], (9), substituted “the Director” for “the Board” wherever appearing and “The Director” for “The Board”.
+    Subsec. (c). [Pub. L. 110–289][/us/pl/110/289], § 1204(8), (9), substituted “the Director” for “the Board” wherever appearing and “The Director” for “The Board”.
 
-    [Pub. L. 110–289, § 1202(4)(B)][/us/pl/110/289/s1202/4/B], in second sentence, inserted “(A) except as provided in clause (B) of this sentence,” before “if at any time” and “, and (B) clause (A) of this sentence shall not apply to the directorships of any Federal Home Loan Bank resulting from the merger of any 2 or more such Banks” before period at end.
+    [Pub. L. 110–289][/us/pl/110/289], § 1202(4)(B), in second sentence, inserted “(A) except as provided in clause (B) of this sentence,” before “if at any time” and “, and (B) clause (A) of this sentence shall not apply to the directorships of any Federal Home Loan Bank resulting from the merger of any 2 or more such Banks” before period at end.
 
-    [Pub. L. 110–289, § 1202(4)(A)][/us/pl/110/289/s1202/4/A], substituted “member” for “elective” wherever appearing before “directorship” or “directorships”, except second place appearing in second sentence and each place appearing in fifth sentence.
+    [Pub. L. 110–289][/us/pl/110/289], § 1202(4)(A), substituted “member” for “elective” wherever appearing before “directorship” or “directorships”, except second place appearing in second sentence and each place appearing in fifth sentence.
 
-    [Pub. L. 110–289, § 1202(2)][/us/pl/110/289/s1202/2], which directed substitution of “member” for “elective” wherever appearing, was not executed in subsec. (c) because of subsequent amendment by [Pub. L. 110–289, § 1202(4)(A)][/us/pl/110/289/s1202/4/A]. See Amendment and Codification notes above.
+    [Pub. L. 110–289][/us/pl/110/289], § 1202(2), which directed substitution of “member” for “elective” wherever appearing, was not executed in subsec. (c) because of subsequent amendment by [Pub. L. 110–289][/us/pl/110/289], § 1202(4)(A). See Amendment and Codification notes above.
 
-    Subsec. (d). [Pub. L. 110–289, § 1204(9)][/us/pl/110/289/s1204/9], (10), substituted “the Director” for “the Finance Board” and “The Director” for “The Board’.
+    Subsec. (d). [Pub. L. 110–289][/us/pl/110/289], § 1204(9), (10), substituted “the Director” for “the Finance Board” and “The Director” for “The Board’.
 
-    [Pub. L. 110–289, § 1202(5)][/us/pl/110/289/s1202/5], in first sentence, struck out “, whether elected or appointed,” after “each director” and substituted “4 years” for “3 years”, in second sentence, struck out “or appointed” after “first elected” and substituted “July 30, 2008” for “November 12, 1999” and “¼” for “⅓”, and in third sentence, substituted “a” for “an elective” after “full terms as” and after “for election to” and struck out “in any elective directorship or elective directorships” after “Federal home loan bank”.
+    [Pub. L. 110–289][/us/pl/110/289], § 1202(5), in first sentence, struck out “, whether elected or appointed,” after “each director” and substituted “4 years” for “3 years”, in second sentence, struck out “or appointed” after “first elected” and substituted “July 30, 2008” for “November 12, 1999” and “¼” for “⅓”, and in third sentence, substituted “a” for “an elective” after “full terms as” and after “for election to” and struck out “in any elective directorship or elective directorships” after “Federal home loan bank”.
 
-    Subsec. (e). [Pub. L. 110–289, § 1204(8)][/us/pl/110/289/s1204/8], (9), substituted “The Director” for “The Board” in two places and “the Director” for “the Board”.
+    Subsec. (e). [Pub. L. 110–289][/us/pl/110/289], § 1204(8), (9), substituted “The Director” for “The Board” in two places and “the Director” for “the Board”.
 
-    Subsec. (f)(1). [Pub. L. 110–289, § 1202(6)(B)][/us/pl/110/289/s1202/6/B], struck out “appointed or” before “elected” in two places.
+    Subsec. (f)(1). [Pub. L. 110–289][/us/pl/110/289], § 1202(6)(B), struck out “appointed or” before “elected” in two places.
 
-    Subsec. (f)(2), (3). [Pub. L. 110–289, § 1202(6)(A)][/us/pl/110/289/s1202/6/A], (C), redesignated par. (3) as (2), substituted “Election process” for “Elected bank directors” in heading, struck out “elective” after “in any” and after “If any” in text, and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: “In the event of a vacancy in any appointive Bank directorship, such vacancy shall be filled through appointment by the Board for the unexpired term. If any appointive Bank director shall cease to have the qualifications set forth in subsection (a) of this section, the office held by such person shall immediately become vacant, but such person may continue to act as a Bank director until his or her successor assumes the vacated office or the term of such office expires, whichever occurs first.”
+    Subsec. (f)(2), (3). [Pub. L. 110–289][/us/pl/110/289], § 1202(6)(A), (C), redesignated par. (3) as (2), substituted “Election process” for “Elected bank directors” in heading, struck out “elective” after “in any” and after “If any” in text, and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: “In the event of a vacancy in any appointive Bank directorship, such vacancy shall be filled through appointment by the Board for the unexpired term. If any appointive Bank director shall cease to have the qualifications set forth in subsection (a) of this section, the office held by such person shall immediately become vacant, but such person may continue to act as a Bank director until his or her successor assumes the vacated office or the term of such office expires, whichever occurs first.”
 
-    Subsec. (h). [Pub. L. 110–290, § 1204(8)][/us/pl/110/290/s1204/8], substituted “the Director” for “the Board” in two places.
+    Subsec. (h). [Pub. L. 110–290][/us/pl/110/290], § 1204(8), substituted “the Director” for “the Board” in two places.
 
-    [Pub. L. 110–289, § 1202(2)][/us/pl/110/289/s1202/2], substituted “member” for “elective”.
+    [Pub. L. 110–289][/us/pl/110/289], § 1202(2), substituted “member” for “elective”.
 
-    Subsec. (i). [Pub. L. 110–289, § 1202(7)][/us/pl/110/289/s1202/7], substituted “Each” for “Subject to paragraph (2), each” in par. (1), added par. (2), and struck out former par. (2) which related to limitations on compensation of members of the board of directors of a Federal home loan bank.
+    Subsec. (i). [Pub. L. 110–289][/us/pl/110/289], § 1202(7), substituted “Each” for “Subject to paragraph (2), each” in par. (1), added par. (2), and struck out former par. (2) which related to limitations on compensation of members of the board of directors of a Federal home loan bank.
 
-    Subsec. (l). [Pub. L. 110–289, § 1202(8)][/us/pl/110/289/s1202/8], added subsec. (l) relating to transition rule.
+    Subsec. (l). [Pub. L. 110–289][/us/pl/110/289], § 1202(8), added subsec. (l) relating to transition rule.
 
-    [Pub. L. 110–289, § 1113(b)][/us/pl/110/289/s1113/b], added subsec. (l) relating to withholding of compensation.
+    [Pub. L. 110–289][/us/pl/110/289], § 1113(b), added subsec. (l) relating to withholding of compensation.
 
-    1999—Subsec. (a). [Pub. L. 106–102, § 606(a)(1)][/us/pl/106/102/s606/a/1], substituted “, and each of whom shall be either a bona fide resident of the district in which such bank is located or an officer or director of a member of such bank located in that district” for “and bona fide residents of the district in which such bank is located”.
+    1999—Subsec. (a). [Pub. L. 106–102][/us/pl/106/102], § 606(a)(1), substituted “, and each of whom shall be either a bona fide resident of the district in which such bank is located or an officer or director of a member of such bank located in that district” for “and bona fide residents of the district in which such bank is located”.
 
-    Subsec. (d). [Pub. L. 106–102, § 606(a)(2)][/us/pl/106/102/s606/a/2], substituted “The term of each director, whether elected or appointed, shall be 3 years. The board of directors of each Federal home loan bank and the Finance Board shall adjust the terms of members first elected or appointed after November 12, 1999, to ensure that the terms of the members of the board of directors are staggered with approximately ⅓ of the terms expiring each year.” for “The term of each elective directorship shall be two years and the term of each appointive directorship shall be four years.”
+    Subsec. (d). [Pub. L. 106–102][/us/pl/106/102], § 606(a)(2), substituted “The term of each director, whether elected or appointed, shall be 3 years. The board of directors of each Federal home loan bank and the Finance Board shall adjust the terms of members first elected or appointed after November 12, 1999, to ensure that the terms of the members of the board of directors are staggered with approximately ⅓ of the terms expiring each year.” for “The term of each elective directorship shall be two years and the term of each appointive directorship shall be four years.”
 
-    Subsec. (g). [Pub. L. 106–102, § 606(a)(3)][/us/pl/106/102/s606/a/3], added subsec. (g) and struck out former subsec. (g) which read as follows: “The Board shall designate one of the directors of each bank to be chairman, and one to be vice chairman, of the board of directors of such bank.”
+    Subsec. (g). [Pub. L. 106–102][/us/pl/106/102], § 606(a)(3), added subsec. (g) and struck out former subsec. (g) which read as follows: “The Board shall designate one of the directors of each bank to be chairman, and one to be vice chairman, of the board of directors of such bank.”
 
-    Subsec. (i). [Pub. L. 106–102, § 606(b)][/us/pl/106/102/s606/b], inserted heading, designated existing provisions as par. (1), inserted heading, substituted “Subject to paragraph (2), each bank may pay its directors” for “Each bank may pay its directors”, and added par. (2).
+    Subsec. (i). [Pub. L. 106–102][/us/pl/106/102], § 606(b), inserted heading, designated existing provisions as par. (1), inserted heading, substituted “Subject to paragraph (2), each bank may pay its directors” for “Each bank may pay its directors”, and added par. (2).
 
-    1989—Subsec. (a). [Pub. L. 101–73, § 707(1)][/us/pl/101/73/s707/1], inserted provisions relating to requirements for at least 2 of the directors and provisions respecting conflicts of interests, and substituted provisions relating to appointment under [section 1422a of this title][/us/usc/t12/s1422a] for provisions relating to appointment under [section 1437(b) of this title][/us/usc/t12/s1437/b].
+    1989—Subsec. (a). [Pub. L. 101–73][/us/pl/101/73], § 707(1), inserted provisions relating to requirements for at least 2 of the directors and provisions respecting conflicts of interests, and substituted provisions relating to appointment under [section 1422a of this title][/us/usc/t12/s1422a] for provisions relating to appointment under [section 1437(b) of this title][/us/usc/t12/s1437/b].
 
-    Subsec. (b). [Pub. L. 101–73, § 707(2)][/us/pl/101/73/s707/2], inserted after first sentence “No person who is an officer or director of a member that fails to meet any applicable capital requirement is eligible to hold the office of Federal Home Loan Bank director.”
+    Subsec. (b). [Pub. L. 101–73][/us/pl/101/73], § 707(2), inserted after first sentence “No person who is an officer or director of a member that fails to meet any applicable capital requirement is eligible to hold the office of Federal Home Loan Bank director.”
 
-    Subsec. (f). [Pub. L. 101–73, § 707(3)][/us/pl/101/73/s707/3], amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “In the event of a vacancy in any appointive or elective directorship, such vacancy shall be filled through appointment by the Board for the unexpired term: Provided, That if any director shall cease to have the qualifications set forth in subsection (a) of this section, or if any elective director shall cease to have any qualification set forth in this section, the office held by such director shall immediately become vacant, but such director may continue to act as such director until his successor assumes the vacated office or the term of such office expires, whichever shall first occur.”
+    Subsec. (f). [Pub. L. 101–73][/us/pl/101/73], § 707(3), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “In the event of a vacancy in any appointive or elective directorship, such vacancy shall be filled through appointment by the Board for the unexpired term: Provided, That if any director shall cease to have the qualifications set forth in subsection (a) of this section, or if any elective director shall cease to have any qualification set forth in this section, the office held by such director shall immediately become vacant, but such director may continue to act as such director until his successor assumes the vacated office or the term of such office expires, whichever shall first occur.”
 
-    Subsec. (j). [Pub. L. 101–73, § 710(b)(4)][/us/pl/101/73/s710/b/4], struck out “or nonmember borrower” after “against any member”.
+    Subsec. (j). [Pub. L. 101–73][/us/pl/101/73], § 710(b)(4), struck out “or nonmember borrower” after “against any member”.
 
-    Subsec. (k). [Pub. L. 101–73, § 707(4)][/us/pl/101/73/s707/4], added subsec. (k).
+    Subsec. (k). [Pub. L. 101–73][/us/pl/101/73], § 707(4), added subsec. (k).
 
     1974—Subsec. (a). [Pub. L. 93–541][/us/pl/93/541] increased number of directors from twelve to fourteen, increased number of appointive directors from four to six, and in proviso relating to districts including five or more States, substituted provisions authorizing increase of appointive directors to a number not exceeding three-fourths the number of elective directors for provisions authorizing increase of appointive directors to a number not exceeding one-half the number of elective directors.
 
@@ -245,9 +245,9 @@
 
     Subsec. (h). [Pub. L. 87–211][/us/pl/87/211] authorized Board, prior to filing of the certificate mentioned in [section 1432 of this title][/us/usc/t12/s1432], to appoint directors and required Board to designate appointees as either appointive or elective directors, and struck out provisions which permitted directors appointed under this subsection to serve until expiration of the calendar year during which they took office.
 
-    1959—Subsec. (a). [Pub. L. 86–349, § 1][/us/pl/86/349/s1], authorized increase of up to 13 in number of elective directors of bank having district which includes five or more States.
+    1959—Subsec. (a). [Pub. L. 86–349][/us/pl/86/349], § 1, authorized increase of up to 13 in number of elective directors of bank having district which includes five or more States.
 
-    Subsec. (b). [Pub. L. 86–349, § 2][/us/pl/86/349/s2], authorized increase in number of appointive directors of up to one-half number of elective directors in district in which number of elective directors were increased pursuant to subsec. (a), and provided for expiration of term of initial incumbent of any office so established.
+    Subsec. (b). [Pub. L. 86–349][/us/pl/86/349], § 2, authorized increase in number of appointive directors of up to one-half number of elective directors in district in which number of elective directors were increased pursuant to subsec. (a), and provided for expiration of term of initial incumbent of any office so established.
 
     1955—Subsec. (a). Act Aug. 11, 1955, authorized an increase in number of elective directors of any Federal Home Loan Bank having a district which includes five or more States.
 
@@ -255,13 +255,13 @@
 
  __Effective Date of 1961 Amendment__ 
 
-[Pub. L. 87–211, § 2][/us/pl/87/211/s2], Sept. 8, 1961, [75 Stat. 488][/us/stat/75/488], provided that: 
+[Pub. L. 87–211][/us/pl/87/211], § 2, Sept. 8, 1961, [75 Stat. 488][/us/stat/75/488], provided that: 
 
 > “The amendment made by this Act \[amending this section\] shall take effect on the second day of the first calendar year which begins after the date of enactment of this Act \[Sept. 8, 1961\].”
 
  __Effective Date of 1935 Amendment__ 
 
-    [Act May 28, 1935, ch. 150, § 3][/us/act/1935-05-28/ch150/s3], [49 Stat. 294][/us/stat/49/294], provided that the amendment made by that section is effective Jan. 1, 1936.
+    [Act May 28, 1935, ch. 150][/us/act/1935-05-28/ch150], § 3, [49 Stat. 294][/us/stat/49/294], provided that the amendment made by that section is effective Jan. 1, 1936.
 
 ----------
 
@@ -273,60 +273,60 @@
 [/us/usc/t12/s1432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1432
 [/us/usc/t12/s4521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4521
 [/us/usc/t12/s4518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4518
-[/us/act/1932-07-22/ch522/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-07-22%2Fch522%2Fs7
+[/us/act/1932-07-22/ch522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-07-22%2Fch522
 [/us/stat/47/730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F730
-[/us/act/1935-05-28/ch150/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-05-28%2Fch150%2Fs3
+[/us/act/1935-05-28/ch150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-05-28%2Fch150
 [/us/stat/49/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F294
 [/us/act/1955-08-11/ch783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-11%2Fch783
 [/us/stat/69/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F640
 [/us/pl/86/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F349
 [/us/stat/73/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F625
-[/us/pl/87/211/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F211%2Fs1
+[/us/pl/87/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F211
 [/us/stat/75/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F486
 [/us/pl/87/676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F676
 [/us/stat/76/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F559
-[/us/pl/93/541/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F541%2Fs3
+[/us/pl/93/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F541
 [/us/stat/88/1739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1739
-[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
+[/us/pl/101/73/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtVII
 [/us/stat/103/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F417
-[/us/pl/106/102/s606/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs606%2Fa
+[/us/pl/106/102/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtVI
 [/us/stat/113/1452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1452
-[/us/pl/110/289/s1113/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1113%2Fb%2F3
+[/us/pl/110/289/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtI
 [/us/stat/122/2678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2678
 [/us/pl/87/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F211
 [/us/pl/110/289/s1202/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1202%2F2
-[/us/pl/110/289/s1202/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1202%2F3%2FA
-[/us/pl/110/289/s1202/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1202%2F1
-[/us/pl/110/289/s1202/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1202%2F3
-[/us/pl/110/289/s1202/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1202%2F2
-[/us/pl/110/289/s1202/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1202%2F3%2FA
-[/us/pl/110/289/s1204/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1204%2F8
-[/us/pl/110/289/s1204/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1204%2F8
-[/us/pl/110/289/s1202/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1202%2F4%2FB
-[/us/pl/110/289/s1202/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1202%2F4%2FA
-[/us/pl/110/289/s1202/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1202%2F2
-[/us/pl/110/289/s1202/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1202%2F4%2FA
-[/us/pl/110/289/s1204/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1204%2F9
-[/us/pl/110/289/s1202/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1202%2F5
-[/us/pl/110/289/s1204/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1204%2F8
-[/us/pl/110/289/s1202/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1202%2F6%2FB
-[/us/pl/110/289/s1202/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1202%2F6%2FA
-[/us/pl/110/290/s1204/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F290%2Fs1204%2F8
-[/us/pl/110/289/s1202/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1202%2F2
-[/us/pl/110/289/s1202/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1202%2F7
-[/us/pl/110/289/s1202/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1202%2F8
-[/us/pl/110/289/s1113/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1113%2Fb
-[/us/pl/106/102/s606/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs606%2Fa%2F1
-[/us/pl/106/102/s606/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs606%2Fa%2F2
-[/us/pl/106/102/s606/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs606%2Fa%2F3
-[/us/pl/106/102/s606/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs606%2Fb
-[/us/pl/101/73/s707/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs707%2F1
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F290
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102
+[/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102
+[/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102
+[/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
 [/us/usc/t12/s1422a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1422a
 [/us/usc/t12/s1437/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1437%2Fb
-[/us/pl/101/73/s707/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs707%2F2
-[/us/pl/101/73/s707/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs707%2F3
-[/us/pl/101/73/s710/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs710%2Fb%2F4
-[/us/pl/101/73/s707/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs707%2F4
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
 [/us/pl/93/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F541
 [/us/pl/87/676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F676
 [/us/pl/87/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F211
@@ -338,11 +338,11 @@
 [/us/pl/87/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F211
 [/us/pl/87/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F211
 [/us/usc/t12/s1432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1432
-[/us/pl/86/349/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F349%2Fs1
-[/us/pl/86/349/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F349%2Fs2
-[/us/pl/87/211/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F211%2Fs2
+[/us/pl/86/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F349
+[/us/pl/86/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F349
+[/us/pl/87/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F211
 [/us/stat/75/488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F488
-[/us/act/1935-05-28/ch150/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-05-28%2Fch150%2Fs3
+[/us/act/1935-05-28/ch150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-05-28%2Fch150
 [/us/stat/49/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F294
 
 

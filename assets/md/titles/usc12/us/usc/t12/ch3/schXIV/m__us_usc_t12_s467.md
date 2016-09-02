@@ -21,13 +21,13 @@
 
     Nothing in this section  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  shall be construed as amending section six of the Act of March fourteenth, nineteen hundred, as amended by the Acts of March fourth, nineteen hundred and seven, March second, nineteen hundred and eleven, and June twelfth, nineteen hundred and sixteen, nor shall the provisions of this section  <sup>\[1\]</sup>  be construed to apply to the deposits made or to the receipts or certificates issued under those Acts.
 
-([Dec. 23, 1913, ch. 6, § 16][/us/act/1913-12-23/ch6/s16] (pars.), as added [June 21, 1917, ch. 32, § 8][/us/act/1917-06-21/ch32/s8], [40 Stat. 238][/us/stat/40/238]; amended [May 29, 1920, ch. 214, § 1][/us/act/1920-05-29/ch214/s1], [41 Stat. 654][/us/stat/41/654]; [Jan. 30, 1934, ch. 6, § 2(b)(7)][/us/act/1934-01-30/ch6/s2/b/7], (8), [48 Stat. 339][/us/stat/48/339], 340; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 203(a), [49 Stat. 704][/us/stat/49/704]; [Pub. L. 89–3, § 2][/us/pl/89/3/s2], Mar. 3, 1965, [79 Stat. 5][/us/stat/79/5]; [Pub. L. 90–269, § 7][/us/pl/90/269/s7], Mar. 18, 1968, [82 Stat. 50][/us/stat/82/50]; [Pub. L. 90–349, § 5(d)][/us/pl/90/349/s5/d], June 19, 1968, [82 Stat. 189][/us/stat/82/189].)
+([Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 16 (pars.), as added [June 21, 1917, ch. 32][/us/act/1917-06-21/ch32], § 8, [40 Stat. 238][/us/stat/40/238]; amended [May 29, 1920, ch. 214][/us/act/1920-05-29/ch214], § 1, [41 Stat. 654][/us/stat/41/654]; [Jan. 30, 1934, ch. 6][/us/act/1934-01-30/ch6], § 2(b)(7), (8), [48 Stat. 339][/us/stat/48/339], 340; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 203(a), [49 Stat. 704][/us/stat/49/704]; [Pub. L. 89–3][/us/pl/89/3], § 2, Mar. 3, 1965, [79 Stat. 5][/us/stat/79/5]; [Pub. L. 90–269][/us/pl/90/269], § 7, Mar. 18, 1968, [82 Stat. 50][/us/stat/82/50]; [Pub. L. 90–349][/us/pl/90/349], § 5(d), June 19, 1968, [82 Stat. 189][/us/stat/82/189].)
 
  __References in Text__ 
 
     Words “this section”, referred to in last par., mean section 16 of act Dec. 23, 1913. For classification to this title of section 16, see Codification note set out under [section 411 of this title][/us/usc/t12/s411].
 
-    Section six of the Act of March fourteenth, nineteen hundred, as amended by the Acts of March fourth, nineteen hundred and seven, March second, nineteen hundred and eleven, and June twelfth, nineteen hundred and sixteen, referred to in text, which was classified to section 429 of former Title 31, was repealed by [Pub. L. 97–258, § 5(b)][/us/pl/97/258/s5/b], Sept. 13, 1982, [96 Stat. 1068][/us/stat/96/1068], the first section of which enacted Title 31, Money and Finance.
+    Section six of the Act of March fourteenth, nineteen hundred, as amended by the Acts of March fourth, nineteen hundred and seven, March second, nineteen hundred and eleven, and June twelfth, nineteen hundred and sixteen, referred to in text, which was classified to section 429 of former Title 31, was repealed by [Pub. L. 97–258][/us/pl/97/258], § 5(b), Sept. 13, 1982, [96 Stat. 1068][/us/stat/96/1068], the first section of which enacted Title 31, Money and Finance.
 
  __Codification__ 
 
@@ -60,23 +60,23 @@
 ----------
 ----------
 
-[/us/act/1913-12-23/ch6/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs16
-[/us/act/1917-06-21/ch32/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-21%2Fch32%2Fs8
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
+[/us/act/1917-06-21/ch32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-21%2Fch32
 [/us/stat/40/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F238
-[/us/act/1920-05-29/ch214/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-05-29%2Fch214%2Fs1
+[/us/act/1920-05-29/ch214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-05-29%2Fch214
 [/us/stat/41/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F654
-[/us/act/1934-01-30/ch6/s2/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-01-30%2Fch6%2Fs2%2Fb%2F7
+[/us/act/1934-01-30/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-01-30%2Fch6
 [/us/stat/48/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F339
 [/us/act/1935-08-23/ch614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch614
 [/us/stat/49/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F704
-[/us/pl/89/3/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F3%2Fs2
+[/us/pl/89/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F3
 [/us/stat/79/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F5
-[/us/pl/90/269/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F269%2Fs7
+[/us/pl/90/269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F269
 [/us/stat/82/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F50
-[/us/pl/90/349/s5/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F349%2Fs5%2Fd
+[/us/pl/90/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F349
 [/us/stat/82/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F189
 [/us/usc/t12/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs411
-[/us/pl/97/258/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs5%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1068
 [/us/pl/90/269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F269
 [/us/usc/t12/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs415

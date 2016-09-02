@@ -23,13 +23,13 @@
 
         Within 90 days of the effective date of any regulation prescribed by the Bureau under this chapter, the National Credit Union Administration Board shall prescribe a regulation substantially similar to the regulation prescribed by the Bureau taking into account the unique nature of credit unions and the limitations under which they may pay dividends on member accounts.
 
-([Pub. L. 102–242, title II, § 272][/us/pl/102/242/s272], Dec. 19, 1991, [105 Stat. 2342][/us/stat/105/2342]; [Pub. L. 102–550, title XVI, § 1604(e)(2)(P)][/us/pl/102/550/s1604/e/2/P], (Q), Oct. 28, 1992, [106 Stat. 4084][/us/stat/106/4084]; [Pub. L. 111–203, title X, § 1100B(1)][/us/pl/111/203/s1100B/1], (3), July 21, 2010, [124 Stat. 2109][/us/stat/124/2109], 2110.)
+([Pub. L. 102–242, title II][/us/pl/102/242/tII], § 272, Dec. 19, 1991, [105 Stat. 2342][/us/stat/105/2342]; [Pub. L. 102–550, title XVI][/us/pl/102/550/tXVI], § 1604(e)(2)(P), (Q), Oct. 28, 1992, [106 Stat. 4084][/us/stat/106/4084]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1100B(1), (3), July 21, 2010, [124 Stat. 2109][/us/stat/124/2109], 2110.)
 
  __Amendments__ 
 
-    2010—Subsec. (a). [Pub. L. 111–203, § 1100B(1)][/us/pl/111/203/s1100B/1], substituted “Bureau” for “Board”.
+    2010—Subsec. (a). [Pub. L. 111–203][/us/pl/111/203], § 1100B(1), substituted “Bureau” for “Board”.
 
-    Subsec. (b). [Pub. L. 111–203, § 1100B(3)][/us/pl/111/203/s1100B/3], substituted “regulation prescribed by the Bureau” for “regulation prescribed by the Board” in two places.
+    Subsec. (b). [Pub. L. 111–203][/us/pl/111/203], § 1100B(3), substituted “regulation prescribed by the Bureau” for “regulation prescribed by the Board” in two places.
 
     1992—[Pub. L. 102–550][/us/pl/102/550] made technical amendment to references to “this chapter” wherever appearing to reflect correction of corresponding provision of original act.
 
@@ -49,14 +49,14 @@
 ----------
 
 [/us/usc/t12/s461/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs461%2Fb%2F1%2FA
-[/us/pl/102/242/s272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs272
+[/us/pl/102/242/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtII
 [/us/stat/105/2342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2342
-[/us/pl/102/550/s1604/e/2/P]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1604%2Fe%2F2%2FP
+[/us/pl/102/550/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXVI
 [/us/stat/106/4084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4084
-[/us/pl/111/203/s1100B/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100B%2F1
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2109
-[/us/pl/111/203/s1100B/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100B%2F1
-[/us/pl/111/203/s1100B/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100B%2F3
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s1100H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100H

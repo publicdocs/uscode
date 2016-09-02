@@ -299,9 +299,9 @@ SUBCHAPTER II—TECHNICAL ASSISTANCE AND CAPACITY BUILDING  </td>
 
  __Codification__ 
 
-    Subtitles A and B of the Low-Income Housing Preservation and Resident Homeownership Act of 1990, [Pub. L. 100–242, title II][/us/pl/100/242], as revised generally by [Pub. L. 101–625, title VI, § 601(a)][/us/pl/101/625/s601/a], Nov. 28, 1990, [104 Stat. 4249][/us/stat/104/4249], comprise subchapter I of this chapter. Prior to the general revision by [Pub. L. 101–625][/us/pl/101/625] subtitles A and B (§§ 201–235) of the Emergency Low Income Housing Preservation Act of 1987, [Pub. L. 100–242, title II][/us/pl/100/242], Feb. 5, 1988, [101 Stat. 1877][/us/stat/101/1877], as amended by [Pub. L. 100–628, title X][/us/pl/100/628], §§ 1021–1027, Nov. 7, 1988, [102 Stat. 3270][/us/stat/102/3270], 3271; [Pub. L. 101–235, title II][/us/pl/101/235], §§ 201, 202(a)–(c), 203(b), Dec. 15, 1989, [103 Stat. 2037][/us/stat/103/2037], 2038; [Pub. L. 101–402, § 1][/us/pl/101/402/s1], Oct. 1, 1990, [104 Stat. 866][/us/stat/104/866]; [Pub. L. 101–494][/us/pl/101/494], §§ 1(c), 2(a), Oct. 31, 1990, [104 Stat. 1185][/us/stat/104/1185], were set out as a note under section 1715l of this title and amended [section 1715z–6 of this title][/us/usc/t12/s1715z–6].
+    Subtitles A and B of the Low-Income Housing Preservation and Resident Homeownership Act of 1990, [Pub. L. 100–242, title II][/us/pl/100/242/tII], as revised generally by [Pub. L. 101–625, title VI][/us/pl/101/625/tVI], § 601(a), Nov. 28, 1990, [104 Stat. 4249][/us/stat/104/4249], comprise subchapter I of this chapter. Prior to the general revision by [Pub. L. 101–625][/us/pl/101/625] subtitles A and B (§§ 201–235) of the Emergency Low Income Housing Preservation Act of 1987, [Pub. L. 100–242, title II][/us/pl/100/242/tII], Feb. 5, 1988, [101 Stat. 1877][/us/stat/101/1877], as amended by [Pub. L. 100–628, title X][/us/pl/100/628/tX], §§ 1021–1027, Nov. 7, 1988, [102 Stat. 3270][/us/stat/102/3270], 3271; [Pub. L. 101–235, title II][/us/pl/101/235/tII], §§ 201, 202(a)–(c), 203(b), Dec. 15, 1989, [103 Stat. 2037][/us/stat/103/2037], 2038; [Pub. L. 101–402][/us/pl/101/402], § 1, Oct. 1, 1990, [104 Stat. 866][/us/stat/104/866]; [Pub. L. 101–494][/us/pl/101/494], §§ 1(c), 2(a), Oct. 31, 1990, [104 Stat. 1185][/us/stat/104/1185], were set out as a note under section 1715l of this title and amended [section 1715z–6 of this title][/us/usc/t12/s1715z–6].
 
-    Subtitle C of the Low-Income Housing Preservation and Resident Homeownership Act of 1990, [Pub. L. 100–242, title II][/us/pl/100/242], as added by [Pub. L. 102–550, title III, § 312][/us/pl/102/550/s312], Oct. 28, 1992, [106 Stat. 3765][/us/stat/106/3765], comprises subchapter II of this chapter. Another subtitle C of title II of [Pub. L. 100–242][/us/pl/100/242] amended sections 1472, 1485, and 1487 of Title 42, The Public Health and Welfare.
+    Subtitle C of the Low-Income Housing Preservation and Resident Homeownership Act of 1990, [Pub. L. 100–242, title II][/us/pl/100/242/tII], as added by [Pub. L. 102–550, title III][/us/pl/102/550/tIII], § 312, Oct. 28, 1992, [106 Stat. 3765][/us/stat/106/3765], comprises subchapter II of this chapter. Another subtitle C of title II of [Pub. L. 100–242][/us/pl/100/242] amended sections 1472, 1485, and 1487 of Title 42, The Public Health and Welfare.
 
 ----------
 
@@ -310,23 +310,23 @@ SUBCHAPTER II—TECHNICAL ASSISTANCE AND CAPACITY BUILDING  </td>
 ----------
 ----------
 
-[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
-[/us/pl/101/625/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs601%2Fa
+[/us/pl/100/242/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtII
+[/us/pl/101/625/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtVI
 [/us/stat/104/4249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4249
 [/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
-[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtII
 [/us/stat/101/1877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1877
-[/us/pl/100/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628
+[/us/pl/100/628/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2FtX
 [/us/stat/102/3270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3270
-[/us/pl/101/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235
+[/us/pl/101/235/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235%2FtII
 [/us/stat/103/2037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2037
-[/us/pl/101/402/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F402%2Fs1
+[/us/pl/101/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F402
 [/us/stat/104/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F866
 [/us/pl/101/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F494
 [/us/stat/104/1185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1185
 [/us/usc/t12/s1715z–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715z%E2%80%936
-[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
-[/us/pl/102/550/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs312
+[/us/pl/100/242/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtII
+[/us/pl/102/550/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtIII
 [/us/stat/106/3765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3765
 [/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
 

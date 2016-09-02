@@ -51,7 +51,7 @@
 
         (4) Nothing in this subsection shall be construed to adversely affect the eligibility, as it existed on January 6, 1988, of cooperatives and other entities for any other credit assistance under Federal law.
 
-([Pub. L. 92–181, title III, § 3][/us/pl/92/181/s3].8, Dec. 10, 1971, [85 Stat. 605][/us/stat/85/605]; [Pub. L. 94–184, § 1(a)][/us/pl/94/184/s1/a], Dec. 31, 1975, [89 Stat. 1060][/us/stat/89/1060]; [Pub. L. 96–592, title III, § 305][/us/pl/96/592/s305], Dec. 24, 1980, [94 Stat. 3445][/us/stat/94/3445]; [Pub. L. 99–198, title XIII, § 1322][/us/pl/99/198/s1322], Dec. 23, 1985, [99 Stat. 1534][/us/stat/99/1534]; [Pub. L. 100–233, title IV, § 421][/us/pl/100/233/s421], title VIII, § 805(m), Jan. 6, 1988, [101 Stat. 1654][/us/stat/101/1654], 1715; [Pub. L. 100–399, title IV, § 410][/us/pl/100/399/s410], title IX, § 901(e), Aug. 17, 1988, [102 Stat. 1003][/us/stat/102/1003], 1007; [Pub. L. 101–624, title XXIII, § 2323(b)][/us/pl/101/624/s2323/b], Nov. 28, 1990, [104 Stat. 4013][/us/stat/104/4013]; [Pub. L. 102–237, title V, § 502(e)(2)][/us/pl/102/237/s502/e/2], (f), Dec. 13, 1991, [105 Stat. 1869][/us/stat/105/1869]; [Pub. L. 102–552, title V, § 506][/us/pl/102/552/s506], Oct. 28, 1992, [106 Stat. 4131][/us/stat/106/4131]; [Pub. L. 103–376, § 4][/us/pl/103/376/s4], Oct. 19, 1994, [108 Stat. 3498][/us/stat/108/3498]; [Pub. L. 104–105, title II][/us/pl/104/105], §§ 204, 205, Feb. 10, 1996, [110 Stat. 172][/us/stat/110/172].)
+([Pub. L. 92–181, title III][/us/pl/92/181/tIII], § 3.8, Dec. 10, 1971, [85 Stat. 605][/us/stat/85/605]; [Pub. L. 94–184][/us/pl/94/184], § 1(a), Dec. 31, 1975, [89 Stat. 1060][/us/stat/89/1060]; [Pub. L. 96–592, title III][/us/pl/96/592/tIII], § 305, Dec. 24, 1980, [94 Stat. 3445][/us/stat/94/3445]; [Pub. L. 99–198, title XIII][/us/pl/99/198/tXIII], § 1322, Dec. 23, 1985, [99 Stat. 1534][/us/stat/99/1534]; [Pub. L. 100–233, title IV][/us/pl/100/233/tIV], § 421, title VIII, § 805(m), Jan. 6, 1988, [101 Stat. 1654][/us/stat/101/1654], 1715; [Pub. L. 100–399, title IV][/us/pl/100/399/tIV], § 410, title IX, § 901(e), Aug. 17, 1988, [102 Stat. 1003][/us/stat/102/1003], 1007; [Pub. L. 101–624, title XXIII][/us/pl/101/624/tXXIII], § 2323(b), Nov. 28, 1990, [104 Stat. 4013][/us/stat/104/4013]; [Pub. L. 102–237, title V][/us/pl/102/237/tV], § 502(e)(2), (f), Dec. 13, 1991, [105 Stat. 1869][/us/stat/105/1869]; [Pub. L. 102–552, title V][/us/pl/102/552/tV], § 506, Oct. 28, 1992, [106 Stat. 4131][/us/stat/106/4131]; [Pub. L. 103–376][/us/pl/103/376], § 4, Oct. 19, 1994, [108 Stat. 3498][/us/stat/108/3498]; [Pub. L. 104–105, title II][/us/pl/104/105/tII], §§ 204, 205, Feb. 10, 1996, [110 Stat. 172][/us/stat/110/172].)
 
  __References in Text__ 
 
@@ -59,37 +59,37 @@
 
  __Amendments__ 
 
-    1996—Subsec. (a). [Pub. L. 104–105, § 204(a)][/us/pl/104/105/s204/a], inserted at end “Any such association that has received a loan from a bank for cooperatives shall, without regard to the requirements of paragraphs (1) through (4), continue to be eligible for so long as more than 50 percent (or such higher percentage as is established by the bank board) of the voting control of the association is held by farmers, producers or harvesters of aquatic products, or eligible cooperative associations.”
+    1996—Subsec. (a). [Pub. L. 104–105][/us/pl/104/105], § 204(a), inserted at end “Any such association that has received a loan from a bank for cooperatives shall, without regard to the requirements of paragraphs (1) through (4), continue to be eligible for so long as more than 50 percent (or such higher percentage as is established by the bank board) of the voting control of the association is held by farmers, producers or harvesters of aquatic products, or eligible cooperative associations.”
 
-    Subsec. (b)(1)(A). [Pub. L. 104–105, § 205][/us/pl/104/105/s205], substituted “are eligible under the Rural Electrification Act of 1936 ([7 U.S.C. 901][/us/usc/t7/s901] et seq.) for” for “have been certified by the Administrator of the Rural Electrification Administration to be eligible for such” and “loan guarantee from the Administration or the Bank (or a successor of the Administration or the Bank), and” for “loan guarantee, and”.
+    Subsec. (b)(1)(A). [Pub. L. 104–105][/us/pl/104/105], § 205, substituted “are eligible under the Rural Electrification Act of 1936 ([7 U.S.C. 901][/us/usc/t7/s901] et seq.) for” for “have been certified by the Administrator of the Rural Electrification Administration to be eligible for such” and “loan guarantee from the Administration or the Bank (or a successor of the Administration or the Bank), and” for “loan guarantee, and”.
 
-    Subsec. (b)(1)(D). [Pub. L. 104–105, § 204(b)][/us/pl/104/105/s204/b], substituted “and (4), or under the last sentence, of subsection (a)” for “and (4) of subsection (a)”.
+    Subsec. (b)(1)(D). [Pub. L. 104–105][/us/pl/104/105], § 204(b), substituted “and (4), or under the last sentence, of subsection (a)” for “and (4) of subsection (a)”.
 
     1994—Subsec. (b)(1)(B) to (E). [Pub. L. 103–376][/us/pl/103/376] redesignated subpars. (C) to (E) as (B) to (D), respectively, realigned margin of subpar. (D), and struck out former subpar. (B) which read as follows: “Any legal entity more than 50 percent of the voting control of which is held by one or more associations or other entities that are eligible to borrow from a bank for cooperatives under subsection (a) of this section or subparagraph (A) of this paragraph, except that any such legal entity, when considered together with one or more such associations or other entities that hold such control, meet the requirement of subsection (a)(3) of this section.”
 
     1992—Subsec. (b)(1)(E). [Pub. L. 102–552][/us/pl/102/552] added subpar. (E).
 
-    1991—Subsec. (a)(4). [Pub. L. 102–237, § 502(f)(1)][/us/pl/102/237/s502/f/1], substituted “a percentage” for “A percentage”.
+    1991—Subsec. (a)(4). [Pub. L. 102–237][/us/pl/102/237], § 502(f)(1), substituted “a percentage” for “A percentage”.
 
-    Subsec. (b)(1)(D). [Pub. L. 102–237, § 502(e)(2)][/us/pl/102/237/s502/e/2], (f)(2), substituted “subsection (b) or (f) of [section 2128 of this title][/us/usc/t12/s2128]” for “[section 2128(f) of this title][/us/usc/t12/s2128/f]” and realigned margin of subpar. (D).
+    Subsec. (b)(1)(D). [Pub. L. 102–237][/us/pl/102/237], § 502(e)(2), (f)(2), substituted “subsection (b) or (f) of [section 2128 of this title][/us/usc/t12/s2128]” for “[section 2128(f) of this title][/us/usc/t12/s2128/f]” and realigned margin of subpar. (D).
 
     1990—Subsec. (b)(1)(D). [Pub. L. 101–624][/us/pl/101/624] added subpar. (D).
 
-    1988—[Pub. L. 100–399, § 901(e)][/us/pl/100/399/s901/e], substituted “bank board” for “district board” in subsec. (a)(4).
+    1988—[Pub. L. 100–399][/us/pl/100/399], § 901(e), substituted “bank board” for “district board” in subsec. (a)(4).
 
-    [Pub. L. 100–399, § 410][/us/pl/100/399/s410], substituted “makes” for “make” in subsec. (b)(1)(C).
+    [Pub. L. 100–399][/us/pl/100/399], § 410, substituted “makes” for “make” in subsec. (b)(1)(C).
 
-    [Pub. L. 100–233, § 805(m)][/us/pl/100/233/s805/m], redesignated subsec. (1) as subsec. (a) and pars. (a) to (d) as pars. (1) to (4), respectively, in par. (4) redesignated cls. (1) to (3) as (A) to (C), respectively, and in cl. (C) substituted “paragraph (B)” for “paragraph (2)”.
+    [Pub. L. 100–233][/us/pl/100/233], § 805(m), redesignated subsec. (1) as subsec. (a) and pars. (a) to (d) as pars. (1) to (4), respectively, in par. (4) redesignated cls. (1) to (3) as (A) to (C), respectively, and in cl. (C) substituted “paragraph (B)” for “paragraph (2)”.
 
-    [Pub. L. 100–233, § 421][/us/pl/100/233/s421], added subsec. (b) and struck out former subsec. (2) which read as follows: “Notwithstanding any other provision of this subchapter, cooperatives and other entities that have received a loan, loan commitment, or loan guarantee from the Rural Electrification Administration, or a loan or loan commitment from the Rural Telephone Bank, or that have been certified by the Administrator of the Rural Electrification Administration to be eligible for such a loan, loan commitment, or loan guarantee, and subsidiaries of such cooperatives or other entities, shall also be eligible to borrow from a bank for cooperatives.”
+    [Pub. L. 100–233][/us/pl/100/233], § 421, added subsec. (b) and struck out former subsec. (2) which read as follows: “Notwithstanding any other provision of this subchapter, cooperatives and other entities that have received a loan, loan commitment, or loan guarantee from the Rural Electrification Administration, or a loan or loan commitment from the Rural Telephone Bank, or that have been certified by the Administrator of the Rural Electrification Administration to be eligible for such a loan, loan commitment, or loan guarantee, and subsidiaries of such cooperatives or other entities, shall also be eligible to borrow from a bank for cooperatives.”
 
-    1985—[Pub. L. 99–198, § 1322(1)][/us/pl/99/198/s1322/1], designated existing provisions as subsec. (1) and added subsec. (2).
+    1985—[Pub. L. 99–198][/us/pl/99/198], § 1322(1), designated existing provisions as subsec. (1) and added subsec. (2).
 
-    1980—[Pub. L. 96–592, § 305(1)][/us/pl/96/592/s305/1], inserted reference to aquatic business in introductory text.
+    1980—[Pub. L. 96–592][/us/pl/96/592], § 305(1), inserted reference to aquatic business in introductory text.
 
-    Subsec. (c). [Pub. L. 96–592, § 305(2)][/us/pl/96/592/s305/2], inserted reference to aquatic business services or services to eligible cooperatives.
+    Subsec. (c). [Pub. L. 96–592][/us/pl/96/592], § 305(2), inserted reference to aquatic business services or services to eligible cooperatives.
 
-    Subsec. (d). [Pub. L. 96–592, § 305(3)][/us/pl/96/592/s305/3], substituted “60” for “70”, and designated former parenthetical material as item (1), and added items (2) and (3) and limitation with respect to any type of association or cooperative.
+    Subsec. (d). [Pub. L. 96–592][/us/pl/96/592], § 305(3), substituted “60” for “70”, and designated former parenthetical material as item (1), and added items (2) and (3) and limitation with respect to any type of association or cooperative.
 
     1975—Subsec. (d). [Pub. L. 94–184][/us/pl/94/184] inserted provision relating to 70 per centum of voting control in the case of rural electric, telephone, and public utility cooperatives.
 
@@ -112,50 +112,50 @@
 [/us/usc/t12/s2128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2128
 [/us/usc/t12/s2130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2130
 [/us/usc/t12/s2128/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2128%2Fa
-[/us/pl/92/181/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs3
+[/us/pl/92/181/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtIII
 [/us/stat/85/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F605
-[/us/pl/94/184/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F184%2Fs1%2Fa
+[/us/pl/94/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F184
 [/us/stat/89/1060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1060
-[/us/pl/96/592/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592%2Fs305
+[/us/pl/96/592/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592%2FtIII
 [/us/stat/94/3445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3445
-[/us/pl/99/198/s1322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1322
+[/us/pl/99/198/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXIII
 [/us/stat/99/1534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1534
-[/us/pl/100/233/s421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs421
+[/us/pl/100/233/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtIV
 [/us/stat/101/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1654
-[/us/pl/100/399/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs410
+[/us/pl/100/399/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtIV
 [/us/stat/102/1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1003
-[/us/pl/101/624/s2323/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2323%2Fb
+[/us/pl/101/624/tXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXIII
 [/us/stat/104/4013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4013
-[/us/pl/102/237/s502/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs502%2Fe%2F2
+[/us/pl/102/237/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtV
 [/us/stat/105/1869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1869
-[/us/pl/102/552/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2Fs506
+[/us/pl/102/552/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2FtV
 [/us/stat/106/4131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4131
-[/us/pl/103/376/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F376%2Fs4
+[/us/pl/103/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F376
 [/us/stat/108/3498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3498
-[/us/pl/104/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105
+[/us/pl/104/105/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2FtII
 [/us/stat/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F172
 [/us/act/1936-05-20/ch432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-05-20%2Fch432
 [/us/stat/49/1363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1363
 [/us/usc/t7/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs901
-[/us/pl/104/105/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2Fs204%2Fa
-[/us/pl/104/105/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2Fs205
+[/us/pl/104/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105
+[/us/pl/104/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105
 [/us/usc/t7/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs901
-[/us/pl/104/105/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2Fs204%2Fb
+[/us/pl/104/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105
 [/us/pl/103/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F376
 [/us/pl/102/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552
-[/us/pl/102/237/s502/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs502%2Ff%2F1
-[/us/pl/102/237/s502/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs502%2Fe%2F2
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 [/us/usc/t12/s2128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2128
 [/us/usc/t12/s2128/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2128%2Ff
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
-[/us/pl/100/399/s901/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs901%2Fe
-[/us/pl/100/399/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs410
-[/us/pl/100/233/s805/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs805%2Fm
-[/us/pl/100/233/s421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs421
-[/us/pl/99/198/s1322/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1322%2F1
-[/us/pl/96/592/s305/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592%2Fs305%2F1
-[/us/pl/96/592/s305/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592%2Fs305%2F2
-[/us/pl/96/592/s305/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592%2Fs305%2F3
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
+[/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
+[/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
+[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
+[/us/pl/96/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592
+[/us/pl/96/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592
+[/us/pl/96/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592
 [/us/pl/94/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F184
 [/us/pl/102/237/s502/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs502%2Ff
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624

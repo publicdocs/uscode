@@ -19,7 +19,7 @@
 
     (2) Whenever any enforcement action is instituted by or on behalf of the United States with respect to any matter which is or could be the subject of a private right of action under this chapter, the running of the statute of limitations in respect of every private right of action arising under this chapter and based in whole or in part on such matter shall be suspended during the pendency of the enforcement action so instituted and for one year thereafter: Provided, That whenever the running of the statute of limitations in respect of a cause of action arising under this chapter is suspended under this paragraph, any action to enforce such cause of action shall be forever barred unless commenced either within the period of suspension or within the four-year period referred to in paragraph (1).
 
-([Pub. L. 91–607, title I, § 106(g)][/us/pl/91/607/s106/g], Dec. 31, 1970, [84 Stat. 1768][/us/stat/84/1768].)
+([Pub. L. 91–607, title I][/us/pl/91/607/tI], § 106(g), Dec. 31, 1970, [84 Stat. 1768][/us/stat/84/1768].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/91/607/s106/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F607%2Fs106%2Fg
+[/us/pl/91/607/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F607%2FtI
 [/us/stat/84/1768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1768
 
 

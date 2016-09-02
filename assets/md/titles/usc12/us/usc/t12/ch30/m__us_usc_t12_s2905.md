@@ -17,7 +17,7 @@
 
     Regulations to carry out the purposes of this chapter shall be published by each appropriate Federal financial supervisory agency, except that the Comptroller of the Currency shall prescribe regulations applicable to savings associations and the Board of Governors shall prescribe regulations applicable to insured State member banks, bank holding companies and savings and loan holding companies,, <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  and shall take effect no later than 390 days after October 12, 1977.
 
-([Pub. L. 95–128, title VIII, § 806][/us/pl/95/128/s806], Oct. 12, 1977, [91 Stat. 1148][/us/stat/91/1148]; [Pub. L. 111–203, title III, § 358(2)][/us/pl/111/203/s358/2], July 21, 2010, [124 Stat. 1548][/us/stat/124/1548].)
+([Pub. L. 95–128, title VIII][/us/pl/95/128/tVIII], § 806, Oct. 12, 1977, [91 Stat. 1148][/us/stat/91/1148]; [Pub. L. 111–203, title III][/us/pl/111/203/tIII], § 358(2), July 21, 2010, [124 Stat. 1548][/us/stat/124/1548].)
 
  __Amendments__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/95/128/s806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs806
+[/us/pl/95/128/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2FtVIII
 [/us/stat/91/1148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1148
-[/us/pl/111/203/s358/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs358%2F2
+[/us/pl/111/203/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIII
 [/us/stat/124/1548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1548
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203

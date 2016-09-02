@@ -117,7 +117,7 @@
 
         There is authorized to be appropriated to the Foundation not to exceed $10,000,000 to carry out the purposes of this section. Appropriations made hereunder shall remain available until expended.
 
-([Pub. L. 90–448, title I, § 107][/us/pl/90/448/s107], Aug. 1, 1968, [82 Stat. 491][/us/stat/82/491]; [Pub. L. 93–604, title VI, § 604][/us/pl/93/604/s604], Jan. 2, 1975, [88 Stat. 1963][/us/stat/88/1963]; [Pub. L. 104–66, title I, § 1072(b)][/us/pl/104/66/s1072/b], Dec. 21, 1995, [109 Stat. 721][/us/stat/109/721]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
+([Pub. L. 90–448, title I][/us/pl/90/448/tI], § 107, Aug. 1, 1968, [82 Stat. 491][/us/stat/82/491]; [Pub. L. 93–604, title VI][/us/pl/93/604/tVI], § 604, Jan. 2, 1975, [88 Stat. 1963][/us/stat/88/1963]; [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1072(b), Dec. 21, 1995, [109 Stat. 721][/us/stat/109/721]; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
 
  __References in Text__ 
 
@@ -133,9 +133,9 @@
 
     1995—Subsec. (g)(1). [Pub. L. 104–66][/us/pl/104/66] struck out at end “Such audit shall be made at least once in every three years.”
 
-    1975—Subsec. (g)(1). [Pub. L. 93–604, § 604(1)][/us/pl/93/604/s604/1], inserted provision that the audit under this subsection shall be made at least once in every three years.
+    1975—Subsec. (g)(1). [Pub. L. 93–604][/us/pl/93/604], § 604(1), inserted provision that the audit under this subsection shall be made at least once in every three years.
 
-    Subsec. (g)(2). [Pub. L. 93–604, § 604(2)][/us/pl/93/604/s604/2], substituted “six and one-half months following the close of the last year covered by such audit” for “January 15 following the close of the fiscal year for which the audit was made”.
+    Subsec. (g)(2). [Pub. L. 93–604][/us/pl/93/604], § 604(2), substituted “six and one-half months following the close of the last year covered by such audit” for “January 15 following the close of the fiscal year for which the audit was made”.
 
  __Termination of Reporting Requirements__ 
 
@@ -143,7 +143,7 @@
 
  __Office of Economic Opportunity__ 
 
-    [Pub. L. 93–644, § 9(a)][/us/pl/93/644/s9/a], Jan. 4, 1975, [88 Stat. 2310][/us/stat/88/2310] \[[42 U.S.C. 2941][/us/usc/t42/s2941]\], amended the Economic Opportunity Act of 1964 \[[42 U.S.C. 2701][/us/usc/t42/s2701] et seq.\] to create the Community Services Administration, an independent agency in the executive branch, as the successor authority to the Office of Economic Opportunity, and provided that references to the Office of Economic Opportunity or to its Director were deemed to refer to the Community Services Administration or its Director. The Community Services Administration was terminated when the Economic Opportunity Act of 1964, except for titles VIII and X, was repealed, effective Oct. 1, 1981, by [section 683(a) of Pub. L. 97–35][/us/pl/97/35/s683/a], title VI, Aug. 13, 1981, [95 Stat. 519][/us/stat/95/519], which is classified to [42 U.S.C. 9912(a)][/us/usc/t42/s9912/a]. An Office of Community Services, headed by a Director, was established in the Department of Health and Human Services by [section 676 of Pub. L. 97–35][/us/pl/97/35/s676], which is classified to [42 U.S.C. 9905][/us/usc/t42/s9905].
+    [Pub. L. 93–644][/us/pl/93/644], § 9(a), Jan. 4, 1975, [88 Stat. 2310][/us/stat/88/2310] \[[42 U.S.C. 2941][/us/usc/t42/s2941]\], amended the Economic Opportunity Act of 1964 \[[42 U.S.C. 2701][/us/usc/t42/s2701] et seq.\] to create the Community Services Administration, an independent agency in the executive branch, as the successor authority to the Office of Economic Opportunity, and provided that references to the Office of Economic Opportunity or to its Director were deemed to refer to the Community Services Administration or its Director. The Community Services Administration was terminated when the Economic Opportunity Act of 1964, except for titles VIII and X, was repealed, effective Oct. 1, 1981, by [section 683(a) of Pub. L. 97–35][/us/pl/97/35/s683/a], title VI, Aug. 13, 1981, [95 Stat. 519][/us/stat/95/519], which is classified to [42 U.S.C. 9912(a)][/us/usc/t42/s9912/a]. An Office of Community Services, headed by a Director, was established in the Department of Health and Human Services by [section 676 of Pub. L. 97–35][/us/pl/97/35/s676], which is classified to [42 U.S.C. 9905][/us/usc/t42/s9905].
 
 ----------
 
@@ -153,23 +153,23 @@
 ----------
 
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
-[/us/pl/90/448/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs107
+[/us/pl/90/448/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2FtI
 [/us/stat/82/491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F491
-[/us/pl/93/604/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F604%2Fs604
+[/us/pl/93/604/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F604%2FtVI
 [/us/stat/88/1963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1963
-[/us/pl/104/66/s1072/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1072%2Fb
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F721
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
 [/us/pl/87/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F569
 [/us/stat/76/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F265
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
-[/us/pl/93/604/s604/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F604%2Fs604%2F1
-[/us/pl/93/604/s604/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F604%2Fs604%2F2
+[/us/pl/93/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F604
+[/us/pl/93/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F604
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
-[/us/pl/93/644/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F644%2Fs9%2Fa
+[/us/pl/93/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F644
 [/us/stat/88/2310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2310
 [/us/usc/t42/s2941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2941
 [/us/usc/t42/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2701

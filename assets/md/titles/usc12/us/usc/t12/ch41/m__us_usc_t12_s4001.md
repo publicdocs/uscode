@@ -153,7 +153,7 @@
 
         The term “wire transfer” has such meaning as the Board shall prescribe by regulations.
 
-([Pub. L. 100–86, title VI, § 602][/us/pl/100/86/s602], Aug. 10, 1987, [101 Stat. 635][/us/stat/101/635].)
+([Pub. L. 100–86, title VI][/us/pl/100/86/tVI], § 602, Aug. 10, 1987, [101 Stat. 635][/us/stat/101/635].)
 
  __References in Text__ 
 
@@ -161,7 +161,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 100–86, title VI, § 613][/us/pl/100/86/s613], Aug. 10, 1987, [101 Stat. 652][/us/stat/101/652], provided that:
+[Pub. L. 100–86, title VI][/us/pl/100/86/tVI], § 613, Aug. 10, 1987, [101 Stat. 652][/us/stat/101/652], provided that:
 
 >     “(a)  __Date of Enactment__  __.—__ 
 
@@ -173,7 +173,7 @@
 
  __Short Title__ 
 
-[Pub. L. 100–86, title VI, § 601][/us/pl/100/86/s601], Aug. 10, 1987, [101 Stat. 635][/us/stat/101/635], provided that: 
+[Pub. L. 100–86, title VI][/us/pl/100/86/tVI], § 601, Aug. 10, 1987, [101 Stat. 635][/us/stat/101/635], provided that: 
 
 > “This title \[enacting this chapter, amending [section 248a of this title][/us/usc/t12/s248a], and enacting provisions set out as notes under this section and [section 248a of this title][/us/usc/t12/s248a]\] may be cited as the ‘Expedited Funds Availability Act’.”
 
@@ -189,16 +189,16 @@
 ----------
 
 [/us/usc/t12/s461/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs461%2Fb%2F1%2FA
-[/us/pl/100/86/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2Fs602
+[/us/pl/100/86/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2FtVI
 [/us/stat/101/635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F635
 [/us/pl/100/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86
 [/us/stat/101/635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F635
 [/us/usc/t12/s248a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs248a
-[/us/pl/100/86/s613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2Fs613
+[/us/pl/100/86/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2FtVI
 [/us/stat/101/652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F652
 [/us/usc/t12/s248a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs248a
 [/us/usc/t12/s248a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs248a
-[/us/pl/100/86/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2Fs601
+[/us/pl/100/86/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2FtVI
 [/us/stat/101/635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F635
 [/us/usc/t12/s248a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs248a
 [/us/usc/t12/s248a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs248a

@@ -101,7 +101,7 @@
 
             In determining whether an enterprise has complied with the duty referred to in paragraph (1), the Director may not consider any affordable housing fund grant amounts used under [section 4567 of this title][/us/usc/t12/s4567] for eligible activities under subsection (g) of such section.
 
-([Pub. L. 102–550, title XIII, § 1335][/us/pl/102/550/s1335], Oct. 28, 1992, [106 Stat. 3961][/us/stat/106/3961]; [Pub. L. 105–65, title V, § 517(c)][/us/pl/105/65/s517/c], Oct. 27, 1997, [111 Stat. 1403][/us/stat/111/1403]; [Pub. L. 110–289, div. A, title I][/us/pl/110/289], §§ 1128(c)(1), 1129(a), July 30, 2008, [122 Stat. 2701][/us/stat/122/2701], 2703.)
+([Pub. L. 102–550, title XIII][/us/pl/102/550/tXIII], § 1335, Oct. 28, 1992, [106 Stat. 3961][/us/stat/106/3961]; [Pub. L. 105–65, title V][/us/pl/105/65/tV], § 517(c), Oct. 27, 1997, [111 Stat. 1403][/us/stat/111/1403]; [Pub. L. 110–289, div. A, title I][/us/pl/110/289/dA/tI], §§ 1128(c)(1), 1129(a), July 30, 2008, [122 Stat. 2701][/us/stat/122/2701], 2703.)
 
  __References in Text__ 
 
@@ -111,25 +111,25 @@
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–289, § 1129(a)(1)][/us/pl/110/289/s1129/a/1], inserted “Duty to serve underserved markets and” before “other” in section catchline.
+    2008—[Pub. L. 110–289][/us/pl/110/289], § 1129(a)(1), inserted “Duty to serve underserved markets and” before “other” in section catchline.
 
-    Subsec. (a). [Pub. L. 110–289, § 1129(a)(4)][/us/pl/110/289/s1129/a/4], added subsec. (a). Former subsec. (a) redesignated (b).
+    Subsec. (a). [Pub. L. 110–289][/us/pl/110/289], § 1129(a)(4), added subsec. (a). Former subsec. (a) redesignated (b).
 
-    [Pub. L. 110–289, § 1129(a)(3)(A)][/us/pl/110/289/s1129/a/3/A]–(D), inserted “and to carry out the duty under subsection (a) of this section” before “, each enterprise shall” in introductory provisions and struck out par. (5) which read as follows: “assist in maintaining the affordability of assisted units in eligible multifamily housing projects with expiring contracts, as defined under the Multifamily Assisted Housing Reform and Affordability Act of 1997.”
+    [Pub. L. 110–289][/us/pl/110/289], § 1129(a)(3)(A)–(D), inserted “and to carry out the duty under subsection (a) of this section” before “, each enterprise shall” in introductory provisions and struck out par. (5) which read as follows: “assist in maintaining the affordability of assisted units in eligible multifamily housing projects with expiring contracts, as defined under the Multifamily Assisted Housing Reform and Affordability Act of 1997.”
 
-    [Pub. L. 110–289, § 1128(c)(1)][/us/pl/110/289/s1128/c/1], substituted “housing goals established under this subpart” for “low- and moderate-income housing goal under [section 4562 of this title][/us/usc/t12/s4562], the special affordable housing goal under [section 4563 of this title][/us/usc/t12/s4563], and the central cities, rural areas, and other underserved areas housing goal under [section 4564 of this title][/us/usc/t12/s4564]” in introductory provisions.
+    [Pub. L. 110–289][/us/pl/110/289], § 1128(c)(1), substituted “housing goals established under this subpart” for “low- and moderate-income housing goal under [section 4562 of this title][/us/usc/t12/s4562], the special affordable housing goal under [section 4563 of this title][/us/usc/t12/s4563], and the central cities, rural areas, and other underserved areas housing goal under [section 4564 of this title][/us/usc/t12/s4564]” in introductory provisions.
 
-    Subsec. (b). [Pub. L. 110–289, § 1129(a)(3)(E)][/us/pl/110/289/s1129/a/3/E], redesignated subsec. (a) as (b).
+    Subsec. (b). [Pub. L. 110–289][/us/pl/110/289], § 1129(a)(3)(E), redesignated subsec. (a) as (b).
 
-    [Pub. L. 110–289, § 1129(a)(2)][/us/pl/110/289/s1129/a/2], struck out subsec. (b). Text read as follows: “Actions taken under subsection (a)(5) of this section shall constitute part of the contribution of each entity in meeting its affordable housing goals under sections 4562, 4563, and 4564 of this title for any fiscal year, as determined by the Secretary.”
+    [Pub. L. 110–289][/us/pl/110/289], § 1129(a)(2), struck out subsec. (b). Text read as follows: “Actions taken under subsection (a)(5) of this section shall constitute part of the contribution of each entity in meeting its affordable housing goals under sections 4562, 4563, and 4564 of this title for any fiscal year, as determined by the Secretary.”
 
-    Subsecs. (c), (d). [Pub. L. 110–289, § 1129(a)(5)][/us/pl/110/289/s1129/a/5], added subsecs. (c) and (d).
+    Subsecs. (c), (d). [Pub. L. 110–289][/us/pl/110/289], § 1129(a)(5), added subsecs. (c) and (d).
 
-    1997—Subsec. (a). [Pub. L. 105–65, § 517(c)(3)][/us/pl/105/65/s517/c/3], designated existing provisions as subsec. (a) and inserted heading.
+    1997—Subsec. (a). [Pub. L. 105–65][/us/pl/105/65], § 517(c)(3), designated existing provisions as subsec. (a) and inserted heading.
 
-    Subsec. (a)(5). [Pub. L. 105–65, § 517(c)(1)][/us/pl/105/65/s517/c/1], (2), (4), added par. (5).
+    Subsec. (a)(5). [Pub. L. 105–65][/us/pl/105/65], § 517(c)(1), (2), (4), added par. (5).
 
-    Subsec. (b). [Pub. L. 105–65, § 517(c)(4)][/us/pl/105/65/s517/c/4], added subsec. (b).
+    Subsec. (b). [Pub. L. 105–65][/us/pl/105/65], § 517(c)(4), added subsec. (b).
 
 ----------
 
@@ -148,11 +148,11 @@
 [/us/usc/t12/s2901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2901
 [/us/usc/t12/s4521/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4521%2Fa
 [/us/usc/t12/s4567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4567
-[/us/pl/102/550/s1335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1335
+[/us/pl/102/550/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIII
 [/us/stat/106/3961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3961
-[/us/pl/105/65/s517/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65%2Fs517%2Fc
+[/us/pl/105/65/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65%2FtV
 [/us/stat/111/1403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1403
-[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtI
 [/us/stat/122/2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2701
 [/us/pl/100/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77
 [/us/stat/101/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F482
@@ -160,18 +160,18 @@
 [/us/pl/95/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128
 [/us/stat/91/1147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1147
 [/us/usc/t12/s2901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2901
-[/us/pl/110/289/s1129/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1129%2Fa%2F1
-[/us/pl/110/289/s1129/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1129%2Fa%2F4
-[/us/pl/110/289/s1129/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1129%2Fa%2F3%2FA
-[/us/pl/110/289/s1128/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1128%2Fc%2F1
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
 [/us/usc/t12/s4562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4562
 [/us/usc/t12/s4563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4563
 [/us/usc/t12/s4564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4564
-[/us/pl/110/289/s1129/a/3/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1129%2Fa%2F3%2FE
-[/us/pl/110/289/s1129/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1129%2Fa%2F2
-[/us/pl/110/289/s1129/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1129%2Fa%2F5
-[/us/pl/105/65/s517/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65%2Fs517%2Fc%2F3
-[/us/pl/105/65/s517/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65%2Fs517%2Fc%2F1
-[/us/pl/105/65/s517/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65%2Fs517%2Fc%2F4
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/105/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65
+[/us/pl/105/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65
+[/us/pl/105/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65
 
 

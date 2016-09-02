@@ -125,7 +125,7 @@
 
         The Commission and the Corporation, after consultation with SIPC, shall jointly issue rules to implement this section.
 
-([Pub. L. 111–203, title II, § 205][/us/pl/111/203/s205], July 21, 2010, [124 Stat. 1456][/us/stat/124/1456].)
+([Pub. L. 111–203, title II][/us/pl/111/203/tII], § 205, July 21, 2010, [124 Stat. 1456][/us/stat/124/1456].)
 
  __References in Text__ 
 
@@ -162,7 +162,7 @@
 [/us/usc/t15/s78aaa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78aaa
 [/us/usc/t15/s78fff–2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78fff%E2%80%932%2Fc
 [/us/usc/t12/s5390/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5390%2Fb
-[/us/pl/111/203/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs205
+[/us/pl/111/203/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtII
 [/us/stat/124/1456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1456
 [/us/pl/91/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F598
 [/us/stat/84/1636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1636

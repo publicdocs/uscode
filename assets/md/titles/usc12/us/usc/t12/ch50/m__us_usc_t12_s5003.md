@@ -39,7 +39,7 @@
 
         A substitute check that is the legal equivalent of the original check under subsection (b) shall be subject to any provision, including any provision relating to the protection of customers, of part 229 of title 12 of the Code of Federal Regulations, the Uniform Commercial Code, and any other applicable Federal or State law as if such substitute check were the original check, to the extent such provision of law is not inconsistent with this chapter.
 
-([Pub. L. 108–100, § 4][/us/pl/108/100/s4], Oct. 28, 2003, [117 Stat. 1180][/us/stat/117/1180].)
+([Pub. L. 108–100][/us/pl/108/100], § 4, Oct. 28, 2003, [117 Stat. 1180][/us/stat/117/1180].)
 
  __References in Text__ 
 
@@ -53,7 +53,7 @@
 ----------
 
 [/us/usc/t12/s5004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5004
-[/us/pl/108/100/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F100%2Fs4
+[/us/pl/108/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F100
 [/us/stat/117/1180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1180
 [/us/pl/108/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F100
 [/us/stat/117/1177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1177

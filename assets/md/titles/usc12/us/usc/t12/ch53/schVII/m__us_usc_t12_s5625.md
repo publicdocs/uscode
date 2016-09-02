@@ -17,7 +17,7 @@
 
     An eligible entity desiring to participate in a program or obtain a grant under this subchapter shall submit an application to the Secretary, in such form and containing such information as the Secretary may require.
 
-([Pub. L. 111–203, title XII, § 1207][/us/pl/111/203/s1207], July 21, 2010, [124 Stat. 2132][/us/stat/124/2132].)
+([Pub. L. 111–203, title XII][/us/pl/111/203/tXII], § 1207, July 21, 2010, [124 Stat. 2132][/us/stat/124/2132].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/111/203/s1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1207
+[/us/pl/111/203/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtXII
 [/us/stat/124/2132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2132
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/2129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2129

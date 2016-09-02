@@ -77,21 +77,21 @@
 
     (22) operate as an originator and become certified as a certified facility under subchapter VIII.
 
-([Pub. L. 92–181, title II, § 2][/us/pl/92/181/s2].12, as added [Pub. L. 100–233, title IV, § 401][/us/pl/100/233/s401], Jan. 6, 1988, [101 Stat. 1635][/us/stat/101/1635]; amended [Pub. L. 100–399, title IV, § 401(u)][/us/pl/100/399/s401/u], Aug. 17, 1988, [102 Stat. 998][/us/stat/102/998].)
+([Pub. L. 92–181, title II][/us/pl/92/181/tII], § 2.12, as added [Pub. L. 100–233, title IV][/us/pl/100/233/tIV], § 401, Jan. 6, 1988, [101 Stat. 1635][/us/stat/101/1635]; amended [Pub. L. 100–399, title IV][/us/pl/100/399/tIV], § 401(u), Aug. 17, 1988, [102 Stat. 998][/us/stat/102/998].)
 
  __Prior Provisions__ 
 
-    A prior section 2093, [Pub. L. 92–181, title II, § 2][/us/pl/92/181/s2].12, Dec. 10, 1971, [85 Stat. 598][/us/stat/85/598]; [Pub. L. 96–592, title II, § 208][/us/pl/96/592/s208], Dec. 24, 1980, [94 Stat. 3442][/us/stat/94/3442]; [Pub. L. 99–205, title II, § 205(e)(11)][/us/pl/99/205/s205/e/11], Dec. 23, 1985, [99 Stat. 1704][/us/stat/99/1704]; [Pub. L. 100–233, title VII, § 705(d)][/us/pl/100/233/s705/d], Jan. 6, 1988, [101 Stat. 1707][/us/stat/101/1707]; [Pub. L. 100–399, title VI, § 604][/us/pl/100/399/s604], Aug. 17, 1988, [102 Stat. 1006][/us/stat/102/1006], related to general corporate powers, prior to the general amendment of this subchapter by [Pub. L. 100–233, § 401][/us/pl/100/233/s401].
+    A prior section 2093, [Pub. L. 92–181, title II][/us/pl/92/181/tII], § 2.12, Dec. 10, 1971, [85 Stat. 598][/us/stat/85/598]; [Pub. L. 96–592, title II][/us/pl/96/592/tII], § 208, Dec. 24, 1980, [94 Stat. 3442][/us/stat/94/3442]; [Pub. L. 99–205, title II][/us/pl/99/205/tII], § 205(e)(11), Dec. 23, 1985, [99 Stat. 1704][/us/stat/99/1704]; [Pub. L. 100–233, title VII][/us/pl/100/233/tVII], § 705(d), Jan. 6, 1988, [101 Stat. 1707][/us/stat/101/1707]; [Pub. L. 100–399, title VI][/us/pl/100/399/tVI], § 604, Aug. 17, 1988, [102 Stat. 1006][/us/stat/102/1006], related to general corporate powers, prior to the general amendment of this subchapter by [Pub. L. 100–233][/us/pl/100/233], § 401.
 
  __Amendments__ 
 
-    1988—Par. (7). [Pub. L. 100–399, § 401(u)(1)][/us/pl/100/399/s401/u/1], substituted “provide by its board of directors for” for “elect by its board of directors” and “serve as” for “be elected or designated”.
+    1988—Par. (7). [Pub. L. 100–399][/us/pl/100/399], § 401(u)(1), substituted “provide by its board of directors for” for “elect by its board of directors” and “serve as” for “be elected or designated”.
 
-    Par. (8). [Pub. L. 100–399, § 401(u)(2)][/us/pl/100/399/s401/u/2], amended par. (8) generally. Prior to amendment, par. (8) read as follows: “prescribe by its board of directors, association bylaws, not inconsistent with law, providing for the classes of association stock and the manner in which such stock shall be issued, transferred, and retired; the officers and employees of the association elected or provided for, the property of the association that is acquired, held, and transferred, the general business of the association conducted, and the privileges granted to the association by law exercised and enjoyed;”.
+    Par. (8). [Pub. L. 100–399][/us/pl/100/399], § 401(u)(2), amended par. (8) generally. Prior to amendment, par. (8) read as follows: “prescribe by its board of directors, association bylaws, not inconsistent with law, providing for the classes of association stock and the manner in which such stock shall be issued, transferred, and retired; the officers and employees of the association elected or provided for, the property of the association that is acquired, held, and transferred, the general business of the association conducted, and the privileges granted to the association by law exercised and enjoyed;”.
 
-    Par. (12). [Pub. L. 100–399, § 401(u)(3)][/us/pl/100/399/s401/u/3], substituted “agreed to by” for “agreed to or delegated to”.
+    Par. (12). [Pub. L. 100–399][/us/pl/100/399], § 401(u)(3), substituted “agreed to by” for “agreed to or delegated to”.
 
-    Par. (22). [Pub. L. 100–399, § 401(u)(4)][/us/pl/100/399/s401/u/4]–(6), added par. (22).
+    Par. (22). [Pub. L. 100–399][/us/pl/100/399], § 401(u)(4)–(6), added par. (22).
 
  __Effective Date of 1988 Amendment__ 
 
@@ -104,26 +104,26 @@
 ----------
 ----------
 
-[/us/pl/92/181/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs2
-[/us/pl/100/233/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs401
+[/us/pl/92/181/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtII
+[/us/pl/100/233/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtIV
 [/us/stat/101/1635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1635
-[/us/pl/100/399/s401/u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs401%2Fu
+[/us/pl/100/399/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtIV
 [/us/stat/102/998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F998
-[/us/pl/92/181/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs2
+[/us/pl/92/181/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtII
 [/us/stat/85/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F598
-[/us/pl/96/592/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592%2Fs208
+[/us/pl/96/592/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592%2FtII
 [/us/stat/94/3442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3442
-[/us/pl/99/205/s205/e/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2Fs205%2Fe%2F11
+[/us/pl/99/205/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2FtII
 [/us/stat/99/1704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1704
-[/us/pl/100/233/s705/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs705%2Fd
+[/us/pl/100/233/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtVII
 [/us/stat/101/1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1707
-[/us/pl/100/399/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs604
+[/us/pl/100/399/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtVI
 [/us/stat/102/1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1006
-[/us/pl/100/233/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs401
-[/us/pl/100/399/s401/u/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs401%2Fu%2F1
-[/us/pl/100/399/s401/u/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs401%2Fu%2F2
-[/us/pl/100/399/s401/u/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs401%2Fu%2F3
-[/us/pl/100/399/s401/u/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs401%2Fu%2F4
+[/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/100/233/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs401
 [/us/pl/100/399/s1001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs1001%2Fb

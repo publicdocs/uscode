@@ -17,7 +17,7 @@
 
     The second sentence of [section 1715d of this title][/us/usc/t12/s1715d], as amended, relating to housing in the State of Alaska, shall not apply to mortgages insured under this subchapter on property in said State.
 
-([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title VIII, § 806, as added [Aug. 8, 1949, ch. 403, § 1][/us/act/1949-08-08/ch403/s1], [63 Stat. 576][/us/stat/63/576]; amended [Aug. 11, 1955, ch. 783][/us/act/1955-08-11/ch783], title IV, § 401, [69 Stat. 651][/us/stat/69/651]; [Pub. L. 86–70, § 10(d)][/us/pl/86/70/s10/d], June 25, 1959, [73 Stat. 143][/us/stat/73/143].)
+([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title VIII, § 806, as added [Aug. 8, 1949, ch. 403][/us/act/1949-08-08/ch403], § 1, [63 Stat. 576][/us/stat/63/576]; amended [Aug. 11, 1955, ch. 783][/us/act/1955-08-11/ch783], title IV, § 401, [69 Stat. 651][/us/stat/69/651]; [Pub. L. 86–70][/us/pl/86/70], § 10(d), June 25, 1959, [73 Stat. 143][/us/stat/73/143].)
 
  __References in Text__ 
 
@@ -38,11 +38,11 @@
 
 [/us/usc/t12/s1715d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715d
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
-[/us/act/1949-08-08/ch403/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-08%2Fch403%2Fs1
+[/us/act/1949-08-08/ch403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-08%2Fch403
 [/us/stat/63/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F576
 [/us/act/1955-08-11/ch783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-11%2Fch783
 [/us/stat/69/651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F651
-[/us/pl/86/70/s10/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70%2Fs10%2Fd
+[/us/pl/86/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70
 [/us/stat/73/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F143
 [/us/usc/t12/s1715d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715d
 [/us/usc/t12/s1715d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715d

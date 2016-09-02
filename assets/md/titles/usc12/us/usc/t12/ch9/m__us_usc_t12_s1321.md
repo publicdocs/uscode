@@ -11,22 +11,22 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t12/ch9/m__us_usc_t12_s1271.md) | [Next](./../../../..//us/usc/t12/ch9/m__us_usc_t12_s1322.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1321)
+[Previous](./../../../..//us/usc/t12/ch9/m__us_usc_t12_s1311...1318.md) | [Next](./../../../..//us/usc/t12/ch9/m__us_usc_t12_s1322.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1321)
 
 ## § 1321. Omitted
 
  __Codification__ 
 
-    Section, [act Mar. 4, 1923, ch. 252][/us/act/1923-03-04/ch252], title V, § 507, [42 Stat. 1482][/us/stat/42/1482], related to partial invalidity of chapter.
+    Section, [act Mar. 4, 1923, ch. 252, title V][/us/act/1923-03-04/ch252/tV], § 507, [42 Stat. 1482][/us/stat/42/1482], related to partial invalidity of chapter.
 
 ----------
 
-[Previous](./../../../..//us/usc/t12/ch9/m__us_usc_t12_s1271.md) | [Next](./../../../..//us/usc/t12/ch9/m__us_usc_t12_s1322.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1321)
+[Previous](./../../../..//us/usc/t12/ch9/m__us_usc_t12_s1311...1318.md) | [Next](./../../../..//us/usc/t12/ch9/m__us_usc_t12_s1322.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1321)
 
 ----------
 ----------
 
-[/us/act/1923-03-04/ch252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1923-03-04%2Fch252
+[/us/act/1923-03-04/ch252/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1923-03-04%2Fch252%2FtV
 [/us/stat/42/1482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F1482
 
 

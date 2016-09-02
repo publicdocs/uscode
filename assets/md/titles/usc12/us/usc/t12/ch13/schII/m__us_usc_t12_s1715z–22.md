@@ -249,7 +249,7 @@
 
                 The terms “unit of general local government” and “State” have the same meanings as in [section 5302(a) of title 42][/us/usc/t42/s5302/a].
 
-([Pub. L. 102–550, title V, § 542][/us/pl/102/550/s542], Oct. 28, 1992, [106 Stat. 3794][/us/stat/106/3794]; [Pub. L. 103–233, title III, § 307(a)][/us/pl/103/233/s307/a], (b), Apr. 11, 1994, [108 Stat. 373][/us/stat/108/373], 376; [Pub. L. 104–120, § 8][/us/pl/104/120/s8], Mar. 28, 1996, [110 Stat. 836][/us/stat/110/836]; [Pub. L. 104–134, title I, § 101(e)][/us/pl/104/134/s101/e] \[title II, § 205\], Apr. 26, 1996, [110 Stat. 1321–257][/us/stat/110/1321-257], 1321–284; renumbered title I, [Pub. L. 104–140, § 1(a)][/us/pl/104/140/s1/a], May 2, 1996, [110 Stat. 1327][/us/stat/110/1327]; [Pub. L. 105–18, title II, § 10003][/us/pl/105/18/s10003], June 12, 1997, [111 Stat. 201][/us/stat/111/201]; [Pub. L. 105–276, title II, § 211][/us/pl/105/276/s211], Oct. 21, 1998, [112 Stat. 2486][/us/stat/112/2486]; [Pub. L. 106–74, title II, § 226][/us/pl/106/74/s226], as added [Pub. L. 106–113, div. A, title I, § 175(d)][/us/pl/106/113/s175/d], Nov. 29, 1999, [113 Stat. 1534][/us/stat/113/1534]; [Pub. L. 106–377, § 1(a)(1)][/us/pl/106/377/s1/a/1] \[title II, § 235\], Oct. 27, 2000, [114 Stat. 1441][/us/stat/114/1441], 1441A–35.)
+([Pub. L. 102–550, title V][/us/pl/102/550/tV], § 542, Oct. 28, 1992, [106 Stat. 3794][/us/stat/106/3794]; [Pub. L. 103–233, title III][/us/pl/103/233/tIII], § 307(a), (b), Apr. 11, 1994, [108 Stat. 373][/us/stat/108/373], 376; [Pub. L. 104–120][/us/pl/104/120], § 8, Mar. 28, 1996, [110 Stat. 836][/us/stat/110/836]; [Pub. L. 104–134, title I][/us/pl/104/134/tI], § 101(e) \[title II, § 205\], Apr. 26, 1996, [110 Stat. 1321–257][/us/stat/110/1321-257], 1321–284; renumbered title I, [Pub. L. 104–140][/us/pl/104/140], § 1(a), May 2, 1996, [110 Stat. 1327][/us/stat/110/1327]; [Pub. L. 105–18, title II][/us/pl/105/18/tII], § 10003, June 12, 1997, [111 Stat. 201][/us/stat/111/201]; [Pub. L. 105–276, title II][/us/pl/105/276/tII], § 211, Oct. 21, 1998, [112 Stat. 2486][/us/stat/112/2486]; [Pub. L. 106–74, title II][/us/pl/106/74/tII], § 226, as added [Pub. L. 106–113, div. A, title I][/us/pl/106/113/dA/tI], § 175(d), Nov. 29, 1999, [113 Stat. 1534][/us/stat/113/1534]; [Pub. L. 106–377][/us/pl/106/377], § 1(a)(1) \[title II, § 235\], Oct. 27, 2000, [114 Stat. 1441][/us/stat/114/1441], 1441A–35.)
 
  __References in Text__ 
 
@@ -267,63 +267,63 @@
 
  __Amendments__ 
 
-    2000—[Pub. L. 106–377, § 1(a)(1)][/us/pl/106/377/s1/a/1] \[title II, § 235(6)\], substituted “programs” for “demonstrations” in section catchline.
+    2000—[Pub. L. 106–377][/us/pl/106/377], § 1(a)(1) \[title II, § 235(6)\], substituted “programs” for “demonstrations” in section catchline.
 
-    Subsec. (a). [Pub. L. 106–377, § 1(a)(1)][/us/pl/106/377/s1/a/1] \[title II, § 235(1)\], substituted “provide” for “demonstrate the effectiveness of providing” in first sentence and “the programs” for “demonstration programs” in second sentence.
+    Subsec. (a). [Pub. L. 106–377][/us/pl/106/377], § 1(a)(1) \[title II, § 235(1)\], substituted “provide” for “demonstrate the effectiveness of providing” in first sentence and “the programs” for “demonstration programs” in second sentence.
 
-    Subsec. (b). [Pub. L. 106–377, § 1(a)(1)][/us/pl/106/377/s1/a/1] \[title II, § 235(5)\], struck out “pilot” after “Risk-sharing” in heading.
+    Subsec. (b). [Pub. L. 106–377][/us/pl/106/377], § 1(a)(1) \[title II, § 235(5)\], struck out “pilot” after “Risk-sharing” in heading.
 
-    Subsec. (b)(1). [Pub. L. 106–377, § 1(a)(1)][/us/pl/106/377/s1/a/1] \[title II, § 235(2)(A)\], substituted “provide” for “determine the effectiveness of”.
+    Subsec. (b)(1). [Pub. L. 106–377][/us/pl/106/377], § 1(a)(1) \[title II, § 235(2)(A)\], substituted “provide” for “determine the effectiveness of”.
 
-    Subsec. (b)(2)(A). [Pub. L. 106–377, § 1(a)(1)][/us/pl/106/377/s1/a/1] \[title II, § 235(5)\], struck out “pilot” before “program”.
+    Subsec. (b)(2)(A). [Pub. L. 106–377][/us/pl/106/377], § 1(a)(1) \[title II, § 235(5)\], struck out “pilot” before “program”.
 
-    Subsec. (b)(5). [Pub. L. 106–377, § 1(a)(1)][/us/pl/106/377/s1/a/1] \[title II, § 235(2)(B)\], added par. (5) and struck out heading and text of former par. (5). Text read as follows: “Using any authority provided in appropriation Acts to insure loans under the National Housing Act, the Secretary may enter into commitments under this subsection for risk sharing with respect to mortgages on not more than 7,500 units during fiscal year 1996. The demonstration authorized under this subsection shall not be expanded until the reports required under subsection (d) are submitted to Congress, and not more than an additional 25,000 units in each of the fiscal years 1999 and 2000.”
+    Subsec. (b)(5). [Pub. L. 106–377][/us/pl/106/377], § 1(a)(1) \[title II, § 235(2)(B)\], added par. (5) and struck out heading and text of former par. (5). Text read as follows: “Using any authority provided in appropriation Acts to insure loans under the National Housing Act, the Secretary may enter into commitments under this subsection for risk sharing with respect to mortgages on not more than 7,500 units during fiscal year 1996. The demonstration authorized under this subsection shall not be expanded until the reports required under subsection (d) are submitted to Congress, and not more than an additional 25,000 units in each of the fiscal years 1999 and 2000.”
 
-    Subsec. (c). [Pub. L. 106–377, § 1(a)(1)][/us/pl/106/377/s1/a/1] \[title II, § 235(5)\], struck out “pilot” after “finance agency” in heading.
+    Subsec. (c). [Pub. L. 106–377][/us/pl/106/377], § 1(a)(1) \[title II, § 235(5)\], struck out “pilot” after “finance agency” in heading.
 
-    Subsec. (c)(1). [Pub. L. 106–377, § 1(a)(1)][/us/pl/106/377/s1/a/1] \[title II, § 235(3)(A), (5)\], struck out “pilot” before “program” and substituted “provide Federal credit enhancement” for “test the effectiveness of Federal credit enhancement”.
+    Subsec. (c)(1). [Pub. L. 106–377][/us/pl/106/377], § 1(a)(1) \[title II, § 235(3)(A), (5)\], struck out “pilot” before “program” and substituted “provide Federal credit enhancement” for “test the effectiveness of Federal credit enhancement”.
 
-    Subsec. (c)(2). [Pub. L. 106–377, § 1(a)(1)][/us/pl/106/377/s1/a/1] \[title II, § 235(5)\], struck out “pilot” after “Program requirements” in heading.
+    Subsec. (c)(2). [Pub. L. 106–377][/us/pl/106/377], § 1(a)(1) \[title II, § 235(5)\], struck out “pilot” after “Program requirements” in heading.
 
-    Subsec. (c)(2)(A). [Pub. L. 106–377, § 1(a)(1)][/us/pl/106/377/s1/a/1] \[title II, § 235(5)\], struck out “pilot” before “program”.
+    Subsec. (c)(2)(A). [Pub. L. 106–377][/us/pl/106/377], § 1(a)(1) \[title II, § 235(5)\], struck out “pilot” before “program”.
 
-    Subsec. (c)(4). [Pub. L. 106–377, § 1(a)(1)][/us/pl/106/377/s1/a/1] \[title II, § 235(3)(B)\], added par. (4) and struck out heading and text of former par. (4). Text read as follows: “Using any authority provided by appropriations Acts to insure mortgages under the National Housing Act, the Secretary may enter into commitments under this subsection with respect to mortgages on not more than 12,000 units during fiscal year 1996, not more than an additional 7,500 units during fiscal year 1997 and not more than an additional 25,000 units in each of fiscal years 1999 and 2000. The demonstration authorized under this subsection shall not be expanded until the reports required under subsection (d) of this section are submitted to the Congress.”
+    Subsec. (c)(4). [Pub. L. 106–377][/us/pl/106/377], § 1(a)(1) \[title II, § 235(3)(B)\], added par. (4) and struck out heading and text of former par. (4). Text read as follows: “Using any authority provided by appropriations Acts to insure mortgages under the National Housing Act, the Secretary may enter into commitments under this subsection with respect to mortgages on not more than 12,000 units during fiscal year 1996, not more than an additional 7,500 units during fiscal year 1997 and not more than an additional 25,000 units in each of fiscal years 1999 and 2000. The demonstration authorized under this subsection shall not be expanded until the reports required under subsection (d) of this section are submitted to the Congress.”
 
-    Subsec (d). [Pub. L. 106–377, § 1(a)(1)][/us/pl/106/377/s1/a/1] \[title II, § 235(4)\], struck out heading and text of subsec. (d) which related to independent studies and reports.
+    Subsec (d). [Pub. L. 106–377][/us/pl/106/377], § 1(a)(1) \[title II, § 235(4)\], struck out heading and text of subsec. (d) which related to independent studies and reports.
 
-    1999—Subsec. (b)(5). [Pub. L. 106–74, § 226(1)][/us/pl/106/74/s226/1], as added by 106–113, § 175(d), substituted “in each of the fiscal years 1999 and 2000” for “during fiscal year 1999”.
+    1999—Subsec. (b)(5). [Pub. L. 106–74][/us/pl/106/74], § 226(1), as added by 106–113, § 175(d), substituted “in each of the fiscal years 1999 and 2000” for “during fiscal year 1999”.
 
-    Subsec. (c)(4). [Pub. L. 106–74, § 226(2)][/us/pl/106/74/s226/2], as added by [Pub. L. 106–113, § 175(d)][/us/pl/106/113/s175/d], substituted “in each of fiscal years 1999 and 2000” for “during fiscal year 1999”.
+    Subsec. (c)(4). [Pub. L. 106–74][/us/pl/106/74], § 226(2), as added by [Pub. L. 106–113][/us/pl/106/113], § 175(d), substituted “in each of fiscal years 1999 and 2000” for “during fiscal year 1999”.
 
-    1998—Subsec. (b)(5). [Pub. L. 105–276, § 211(1)][/us/pl/105/276/s211/1], inserted before period at end “, and not more than an additional 25,000 units during fiscal year 1999”.
+    1998—Subsec. (b)(5). [Pub. L. 105–276][/us/pl/105/276], § 211(1), inserted before period at end “, and not more than an additional 25,000 units during fiscal year 1999”.
 
-    Subsec. (c)(4). [Pub. L. 105–276, § 211(2)][/us/pl/105/276/s211/2], substituted “1996,” for “1996 and” and inserted “and not more than an additional 25,000 units during fiscal year 1999” after “fiscal year 1997”.
+    Subsec. (c)(4). [Pub. L. 105–276][/us/pl/105/276], § 211(2), substituted “1996,” for “1996 and” and inserted “and not more than an additional 25,000 units during fiscal year 1999” after “fiscal year 1997”.
 
     1997—Subsec. (c)(4). [Pub. L. 105–18][/us/pl/105/18] substituted “on not more than 12,000 units during fiscal year 1996 and not more than an additional 7,500 units during fiscal year 1997” for “on not more than 12,000 units during fiscal year 1996”.
 
-    1996—Subsec. (b)(5). [Pub. L. 104–120, § 8(a)][/us/pl/104/120/s8/a], and [Pub. L. 104–134, § 101(e)][/us/pl/104/134/s101/e] \[title II, § 205(a)\], amended par. (5) identically, substituting “on not more than 7,500 units during fiscal year 1996” for “on not more than 15,000 units over fiscal years 1993 and 1994”.
+    1996—Subsec. (b)(5). [Pub. L. 104–120][/us/pl/104/120], § 8(a), and [Pub. L. 104–134][/us/pl/104/134], § 101(e) \[title II, § 205(a)\], amended par. (5) identically, substituting “on not more than 7,500 units during fiscal year 1996” for “on not more than 15,000 units over fiscal years 1993 and 1994”.
 
-    Subsec. (c)(4). [Pub. L. 104–120, § 8(b)][/us/pl/104/120/s8/b], and [Pub. L. 104–134, § 101(e)][/us/pl/104/134/s101/e] \[title II, § 205(b)\], amended par. (4) identically, substituting “on not more than 12,000 units during fiscal year 1996” for “on not to exceed 30,000 units over fiscal years 1993, 1994, and 1995”.
+    Subsec. (c)(4). [Pub. L. 104–120][/us/pl/104/120], § 8(b), and [Pub. L. 104–134][/us/pl/104/134], § 101(e) \[title II, § 205(b)\], amended par. (4) identically, substituting “on not more than 12,000 units during fiscal year 1996” for “on not to exceed 30,000 units over fiscal years 1993, 1994, and 1995”.
 
-    1994—Subsec. (b)(1), (2). [Pub. L. 103–233, § 307(a)(1)][/us/pl/103/233/s307/a/1], added pars. (1) and (2) and struck out headings and text of former pars. (1) and (2) relating to authority of Secretary for carrying out risk-sharing pilot program and authority of Secretary for reinsurance agreements, respectively.
+    1994—Subsec. (b)(1), (2). [Pub. L. 103–233][/us/pl/103/233], § 307(a)(1), added pars. (1) and (2) and struck out headings and text of former pars. (1) and (2) relating to authority of Secretary for carrying out risk-sharing pilot program and authority of Secretary for reinsurance agreements, respectively.
 
-    Subsec. (b)(4). [Pub. L. 103–233, § 307(a)(2)][/us/pl/103/233/s307/a/2], substituted “eligibility under this subsection of qualified participating entities” for “financial institutions and entities to be eligible to enter into reinsurance agreements”.
+    Subsec. (b)(4). [Pub. L. 103–233][/us/pl/103/233], § 307(a)(2), substituted “eligibility under this subsection of qualified participating entities” for “financial institutions and entities to be eligible to enter into reinsurance agreements”.
 
-    Subsec. (b)(8). [Pub. L. 103–233, § 307(a)(3)][/us/pl/103/233/s307/a/3], (4), added par. (8) and struck out heading and text of former par. (8). Text read as follows: “The Secretary shall take any administrative actions necessary to initiate the pilot program under this subsection not later than the expiration of the 8-month period beginning on October 28, 1992.”
+    Subsec. (b)(8). [Pub. L. 103–233][/us/pl/103/233], § 307(a)(3), (4), added par. (8) and struck out heading and text of former par. (8). Text read as follows: “The Secretary shall take any administrative actions necessary to initiate the pilot program under this subsection not later than the expiration of the 8-month period beginning on October 28, 1992.”
 
-    Subsec. (b)(9), (10). [Pub. L. 103–233, § 307(a)(4)][/us/pl/103/233/s307/a/4], added pars. (9) and (10).
+    Subsec. (b)(9), (10). [Pub. L. 103–233][/us/pl/103/233], § 307(a)(4), added pars. (9) and (10).
 
-    Subsec. (b)(11). [Pub. L. 103–233, § 307(a)(3)][/us/pl/103/233/s307/a/3], added par. (11).
+    Subsec. (b)(11). [Pub. L. 103–233][/us/pl/103/233], § 307(a)(3), added par. (11).
 
-    Subsec. (c)(1). [Pub. L. 103–233, § 307(b)(1)][/us/pl/103/233/s307/b/1], inserted “(including entities established by States that provide mortgage insurance)” after “qualified housing finance agencies”.
+    Subsec. (c)(1). [Pub. L. 103–233][/us/pl/103/233], § 307(b)(1), inserted “(including entities established by States that provide mortgage insurance)” after “qualified housing finance agencies”.
 
-    Subsec. (c)(2)(C). [Pub. L. 103–233, § 307(b)(2)(A)][/us/pl/103/233/s307/b/2/A], substituted “Such agreements shall specify that the qualified housing finance agency and the Secretary shall share any loss in accordance with the risk-sharing agreement.” for “Such agreements shall specify that the qualified housing finance agency and the Secretary shall share equally the full amount of any loss on the insured mortgage.”
+    Subsec. (c)(2)(C). [Pub. L. 103–233][/us/pl/103/233], § 307(b)(2)(A), substituted “Such agreements shall specify that the qualified housing finance agency and the Secretary shall share any loss in accordance with the risk-sharing agreement.” for “Such agreements shall specify that the qualified housing finance agency and the Secretary shall share equally the full amount of any loss on the insured mortgage.”
 
-    Subsec. (c)(2)(F). [Pub. L. 103–233, § 307(b)(2)(B)][/us/pl/103/233/s307/b/2/B], added subpar. (F).
+    Subsec. (c)(2)(F). [Pub. L. 103–233][/us/pl/103/233], § 307(b)(2)(B), added subpar. (F).
 
-    Subsec. (c)(7). [Pub. L. 103–233, § 307(b)(3)][/us/pl/103/233/s307/b/3], struck out “very low-income” before “families” and “(2)” after “section 42(g)”.
+    Subsec. (c)(7). [Pub. L. 103–233][/us/pl/103/233], § 307(b)(3), struck out “very low-income” before “families” and “(2)” after “section 42(g)”.
 
-    Subsec. (c)(9), (10). [Pub. L. 103–233, § 307(b)(4)][/us/pl/103/233/s307/b/4], added pars. (9) and (10).
+    Subsec. (c)(9), (10). [Pub. L. 103–233][/us/pl/103/233], § 307(b)(4), added pars. (9) and (10).
 
  __Effective Date of 1996 Amendment__ 
 
@@ -348,24 +348,24 @@
 [/us/usc/t42/s4801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4801
 [/us/usc/t42/s3545/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3545%2Fd
 [/us/usc/t42/s5302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5302%2Fa
-[/us/pl/102/550/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs542
+[/us/pl/102/550/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtV
 [/us/stat/106/3794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3794
-[/us/pl/103/233/s307/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2Fs307%2Fa
+[/us/pl/103/233/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2FtIII
 [/us/stat/108/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F373
-[/us/pl/104/120/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F120%2Fs8
+[/us/pl/104/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F120
 [/us/stat/110/836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F836
-[/us/pl/104/134/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101%2Fe
+[/us/pl/104/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtI
 [/us/stat/110/1321-257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-257
-[/us/pl/104/140/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140%2Fs1%2Fa
+[/us/pl/104/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140
 [/us/stat/110/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1327
-[/us/pl/105/18/s10003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F18%2Fs10003
+[/us/pl/105/18/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F18%2FtII
 [/us/stat/111/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F201
-[/us/pl/105/276/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs211
+[/us/pl/105/276/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtII
 [/us/stat/112/2486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2486
-[/us/pl/106/74/s226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F74%2Fs226
-[/us/pl/106/113/s175/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs175%2Fd
+[/us/pl/106/74/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F74%2FtII
+[/us/pl/106/113/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdA%2FtI
 [/us/stat/113/1534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1534
-[/us/pl/106/377/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377%2Fs1%2Fa%2F1
+[/us/pl/106/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377
 [/us/stat/114/1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1441
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
 [/us/stat/48/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1246
@@ -377,38 +377,38 @@
 [/us/stat/84/2078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2078
 [/us/usc/t42/s4801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4801
 [/us/usc/t12/s1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1707
-[/us/pl/106/377/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377%2Fs1%2Fa%2F1
-[/us/pl/106/377/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377%2Fs1%2Fa%2F1
-[/us/pl/106/377/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377%2Fs1%2Fa%2F1
-[/us/pl/106/377/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377%2Fs1%2Fa%2F1
-[/us/pl/106/377/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377%2Fs1%2Fa%2F1
-[/us/pl/106/377/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377%2Fs1%2Fa%2F1
-[/us/pl/106/377/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377%2Fs1%2Fa%2F1
-[/us/pl/106/377/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377%2Fs1%2Fa%2F1
-[/us/pl/106/377/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377%2Fs1%2Fa%2F1
-[/us/pl/106/377/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377%2Fs1%2Fa%2F1
-[/us/pl/106/377/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377%2Fs1%2Fa%2F1
-[/us/pl/106/377/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377%2Fs1%2Fa%2F1
-[/us/pl/106/74/s226/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F74%2Fs226%2F1
-[/us/pl/106/74/s226/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F74%2Fs226%2F2
-[/us/pl/106/113/s175/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs175%2Fd
-[/us/pl/105/276/s211/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs211%2F1
-[/us/pl/105/276/s211/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs211%2F2
+[/us/pl/106/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377
+[/us/pl/106/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377
+[/us/pl/106/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377
+[/us/pl/106/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377
+[/us/pl/106/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377
+[/us/pl/106/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377
+[/us/pl/106/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377
+[/us/pl/106/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377
+[/us/pl/106/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377
+[/us/pl/106/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377
+[/us/pl/106/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377
+[/us/pl/106/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377
+[/us/pl/106/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F74
+[/us/pl/106/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F74
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
 [/us/pl/105/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F18
-[/us/pl/104/120/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F120%2Fs8%2Fa
-[/us/pl/104/134/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101%2Fe
-[/us/pl/104/120/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F120%2Fs8%2Fb
-[/us/pl/104/134/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101%2Fe
-[/us/pl/103/233/s307/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2Fs307%2Fa%2F1
-[/us/pl/103/233/s307/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2Fs307%2Fa%2F2
-[/us/pl/103/233/s307/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2Fs307%2Fa%2F3
-[/us/pl/103/233/s307/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2Fs307%2Fa%2F4
-[/us/pl/103/233/s307/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2Fs307%2Fa%2F3
-[/us/pl/103/233/s307/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2Fs307%2Fb%2F1
-[/us/pl/103/233/s307/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2Fs307%2Fb%2F2%2FA
-[/us/pl/103/233/s307/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2Fs307%2Fb%2F2%2FB
-[/us/pl/103/233/s307/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2Fs307%2Fb%2F3
-[/us/pl/103/233/s307/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2Fs307%2Fb%2F4
+[/us/pl/104/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F120
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
+[/us/pl/104/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F120
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
+[/us/pl/103/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233
+[/us/pl/103/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233
+[/us/pl/103/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233
+[/us/pl/103/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233
+[/us/pl/103/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233
+[/us/pl/103/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233
+[/us/pl/103/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233
+[/us/pl/103/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233
+[/us/pl/103/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233
+[/us/pl/103/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233
 [/us/pl/104/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F120
 [/us/pl/104/120/s13/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F120%2Fs13%2Fa
 [/us/usc/t42/s1437d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437d

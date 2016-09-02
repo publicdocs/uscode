@@ -17,7 +17,7 @@
 
     The members of the board of directors (or body performing similar functions) of a covered financial company shall not be liable to the shareholders or creditors thereof for acquiescing in or consenting in good faith to the appointment of the Corporation as receiver for the covered financial company under [section 5383 of this title][/us/usc/t12/s5383].
 
-([Pub. L. 111–203, title II, § 207][/us/pl/111/203/s207], July 21, 2010, [124 Stat. 1459][/us/stat/124/1459].)
+([Pub. L. 111–203, title II][/us/pl/111/203/tII], § 207, July 21, 2010, [124 Stat. 1459][/us/stat/124/1459].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t12/s5383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5383
-[/us/pl/111/203/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs207
+[/us/pl/111/203/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtII
 [/us/stat/124/1459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1459
 
 

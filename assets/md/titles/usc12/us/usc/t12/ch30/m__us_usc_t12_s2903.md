@@ -65,11 +65,11 @@
 
         In assessing and taking into account, under subsection (a), the record of a financial institution, the appropriate Federal financial supervisory agency shall consider, as a factor, low-cost education loans provided by the financial institution to low-income borrowers.
 
-([Pub. L. 95–128, title VIII, § 804][/us/pl/95/128/s804], Oct. 12, 1977, [91 Stat. 1148][/us/stat/91/1148]; [Pub. L. 102–550, title IX, § 909(1)][/us/pl/102/550/s909/1], Oct. 28, 1992, [106 Stat. 3874][/us/stat/106/3874]; [Pub. L. 106–102, title I, § 103(b)][/us/pl/106/102/s103/b], Nov. 12, 1999, [113 Stat. 1350][/us/stat/113/1350]; [Pub. L. 110–315, title X, § 1031(a)][/us/pl/110/315/s1031/a], Aug. 14, 2008, [122 Stat. 3488][/us/stat/122/3488].)
+([Pub. L. 95–128, title VIII][/us/pl/95/128/tVIII], § 804, Oct. 12, 1977, [91 Stat. 1148][/us/stat/91/1148]; [Pub. L. 102–550, title IX][/us/pl/102/550/tIX], § 909(1), Oct. 28, 1992, [106 Stat. 3874][/us/stat/106/3874]; [Pub. L. 106–102, title I][/us/pl/106/102/tI], § 103(b), Nov. 12, 1999, [113 Stat. 1350][/us/stat/113/1350]; [Pub. L. 110–315, title X][/us/pl/110/315/tX], § 1031(a), Aug. 14, 2008, [122 Stat. 3488][/us/stat/122/3488].)
 
  __References in Text__ 
 
-    Section 1843(l)(1)(C) of this title, referred to in subsec. (c)(1)(A), (2), was redesignated section 1843(l)(1)(D) of this title by [Pub. L. 111–203, title VI, § 606(a)(2)][/us/pl/111/203/s606/a/2], July 21, 2010, [124 Stat. 1607][/us/stat/124/1607].
+    Section 1843(l)(1)(C) of this title, referred to in subsec. (c)(1)(A), (2), was redesignated section 1843(l)(1)(D) of this title by [Pub. L. 111–203, title VI][/us/pl/111/203/tVI], § 606(a)(2), July 21, 2010, [124 Stat. 1607][/us/stat/124/1607].
 
  __Amendments__ 
 
@@ -85,7 +85,7 @@
 
  __Regulations__ 
 
-[Pub. L. 110–315, title X, § 1031(b)][/us/pl/110/315/s1031/b], Aug. 14, 2008, [122 Stat. 3488][/us/stat/122/3488], provided that: 
+[Pub. L. 110–315, title X][/us/pl/110/315/tX], § 1031(b), Aug. 14, 2008, [122 Stat. 3488][/us/stat/122/3488], provided that: 
 
 > “Not later than 1 year after the date of enactment of this Act \[Aug. 14, 2008\], each appropriate Federal financial supervisory agency shall issue rules in final form to implement section 804(d) of the Community Reinvestment Act of 1977 \[[12 U.S.C. 2903(d)][/us/usc/t12/s2903/d]\], as added by this section.”
 
@@ -99,15 +99,15 @@
 [/us/usc/t12/s1843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1843
 [/us/usc/t12/s1841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1841
 [/us/usc/t12/s1813/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813%2Fc
-[/us/pl/95/128/s804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs804
+[/us/pl/95/128/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2FtVIII
 [/us/stat/91/1148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1148
-[/us/pl/102/550/s909/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs909%2F1
+[/us/pl/102/550/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtIX
 [/us/stat/106/3874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3874
-[/us/pl/106/102/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs103%2Fb
+[/us/pl/106/102/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtI
 [/us/stat/113/1350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1350
-[/us/pl/110/315/s1031/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs1031%2Fa
+[/us/pl/110/315/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtX
 [/us/stat/122/3488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3488
-[/us/pl/111/203/s606/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs606%2Fa%2F2
+[/us/pl/111/203/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVI
 [/us/stat/124/1607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1607
 [/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102
@@ -115,7 +115,7 @@
 [/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102
 [/us/pl/106/102/s161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs161
 [/us/usc/t12/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs24
-[/us/pl/110/315/s1031/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs1031%2Fb
+[/us/pl/110/315/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtX
 [/us/stat/122/3488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3488
 [/us/usc/t12/s2903/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2903%2Fd
 

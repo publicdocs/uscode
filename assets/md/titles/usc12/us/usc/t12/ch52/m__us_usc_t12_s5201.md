@@ -31,7 +31,7 @@
 
         (D) provides public accountability for the exercise of such authority.
 
-([Pub. L. 110–343, div. A, § 2][/us/pl/110/343/s2], Oct. 3, 2008, [122 Stat. 3766][/us/stat/122/3766].)
+([Pub. L. 110–343, div. A][/us/pl/110/343/dA], § 2, Oct. 3, 2008, [122 Stat. 3766][/us/stat/122/3766].)
 
  __References in Text__ 
 
@@ -39,25 +39,25 @@
 
  __Short Title of 2010 Amendment__ 
 
-[Pub. L. 111–203, title XIII, § 1301][/us/pl/111/203/s1301], July 21, 2010, [124 Stat. 2133][/us/stat/124/2133], provided that: 
+[Pub. L. 111–203, title XIII][/us/pl/111/203/tXIII], § 1301, July 21, 2010, [124 Stat. 2133][/us/stat/124/2133], provided that: 
 
 > “This title \[amending sections 1431, 1455, 1719, 5216, and 5225 of this title and enacting provisions set out as a note under [section 1455 of this title][/us/usc/t12/s1455]\] may be cited as the ‘Pay It Back Act’.”
 
  __Short Title of 2009 Amendment__ 
 
-[Pub. L. 111–22, div. A, § 1(a)][/us/pl/111/22/s1/a], May 20, 2009, [123 Stat. 1632][/us/stat/123/1632], provided that: 
+[Pub. L. 111–22, div. A][/us/pl/111/22/dA], § 1(a), May 20, 2009, [123 Stat. 1632][/us/stat/123/1632], provided that: 
 
 > “This division \[enacting sections 1715z–25, 1735f–10, 1790e, 5220a, and 5231a of this title, amending sections 1708, 1710, 1715u, 1715z–20, 1715z–23, 1715z–24, 1735f–14, 1782, 1783, 1817, 1823, 1824, 5221, 5225, 5226, 5233, and 5241 of this title, sections 1639a, 1640, and 1641 of Title 15, Commerce and Trade, [section 714 of Title 31][/us/usc/t31/s714], Money and Finance, [section 3703 of Title 38][/us/usc/t38/s3703], Veterans’ Benefits, and sections 1437f and 1472 of Title 42, The Public Health and Welfare, repealing [section 1735f–10 of this title][/us/usc/t12/s1735f–10], enacting provisions set out as notes under this section, sections 1708, 1715u, and 5220 of this title, [section 1639a of Title 15][/us/usc/t15/s1639a], [section 3703 of Title 38][/us/usc/t38/s3703], and sections 1437f, 1472, and 5301 of Title 42, amending provisions set out as a note under [section 5301 of Title 42][/us/usc/t42/s5301], and repealing provisions set out as notes under this section and [section 5220 of this title][/us/usc/t12/s5220]\] may be cited as the ‘Helping Families Save Their Homes Act of 2009’.”
 
-    [Pub. L. 111–22, div. A, title VII, § 701][/us/pl/111/22/s701], May 20, 2009, [123 Stat. 1660][/us/stat/123/1660], which provided that title VII of [Pub. L. 111–22][/us/pl/111/22], amending [section 1437f of Title 42][/us/usc/t42/s1437f], The Public Health and Welfare, enacting provisions set out as notes under [section 5220 of this title][/us/usc/t12/s5220] and [section 1437f of Title 42][/us/usc/t42/s1437f], and repealing provisions set out as notes under this section and [section 5220 of this title][/us/usc/t12/s5220], could be cited as the “Protecting Tenants at Foreclosure Act of 2009”, was repealed by [Pub. L. 111–22, div. A, title VII, § 704][/us/pl/111/22/s704], May 20, 2009, [123 Stat. 1662][/us/stat/123/1662], as amended by [Pub. L. 111–203, title XIV, § 1484(2)][/us/pl/111/203/s1484/2], July 21, 2010, [124 Stat. 2204][/us/stat/124/2204], set out as a Termination Date of 2009 Amendment note under [section 1437f of Title 42][/us/usc/t42/s1437f], effective Dec. 31, 2014.
+    [Pub. L. 111–22, div. A, title VII][/us/pl/111/22/dA/tVII], § 701, May 20, 2009, [123 Stat. 1660][/us/stat/123/1660], which provided that title VII of [Pub. L. 111–22][/us/pl/111/22], amending [section 1437f of Title 42][/us/usc/t42/s1437f], The Public Health and Welfare, enacting provisions set out as notes under [section 5220 of this title][/us/usc/t12/s5220] and [section 1437f of Title 42][/us/usc/t42/s1437f], and repealing provisions set out as notes under this section and [section 5220 of this title][/us/usc/t12/s5220], could be cited as the “Protecting Tenants at Foreclosure Act of 2009”, was repealed by [Pub. L. 111–22, div. A, title VII][/us/pl/111/22/dA/tVII], § 704, May 20, 2009, [123 Stat. 1662][/us/stat/123/1662], as amended by [Pub. L. 111–203, title XIV][/us/pl/111/203/tXIV], § 1484(2), July 21, 2010, [124 Stat. 2204][/us/stat/124/2204], set out as a Termination Date of 2009 Amendment note under [section 1437f of Title 42][/us/usc/t42/s1437f], effective Dec. 31, 2014.
 
-[Pub. L. 111–15, § 1][/us/pl/111/15/s1], Apr. 24, 2009, [123 Stat. 1603][/us/stat/123/1603], provided that: 
+[Pub. L. 111–15][/us/pl/111/15], § 1, Apr. 24, 2009, [123 Stat. 1603][/us/stat/123/1603], provided that: 
 
 > “This Act \[amending [section 5231 of this title][/us/usc/t12/s5231] and enacting provisions set out as a note under section 11 of the Inspector General Act of 1978, [Pub. L. 95–452][/us/pl/95/452], set out in the Appendix to Title 5, Government Organization and Employees\] may be cited as the ‘Special Inspector General for the Troubled Asset Relief Program Act of 2009’.”
 
  __Short Title__ 
 
-[Pub. L. 110–343, div. A, § 1(a)][/us/pl/110/343/s1/a], Oct. 3, 2008, [122 Stat. 3765][/us/stat/122/3765], provided that: 
+[Pub. L. 110–343, div. A][/us/pl/110/343/dA], § 1(a), Oct. 3, 2008, [122 Stat. 3765][/us/stat/122/3765], provided that: 
 
 > “This division \[enacting this chapter, amending sections 1715z–23, 1818, 1823, and 1828 of this title, [section 5315 of Title 5][/us/usc/t5/s5315], Government Organization and Employees, [section 1638 of Title 15][/us/usc/t15/s1638], Commerce and Trade, sections 108, 162, and 280G of Title 26, Internal Revenue Code, and sections 301, 1105, and 3101 of Title 31, Money and Finance, enacting provisions set out as notes under [section 1638 of Title 15][/us/usc/t15/s1638], sections 108, 162, and 280G of Title 26, and [section 1105 of Title 31][/us/usc/t31/s1105], and amending provisions set out as a note under [section 461 of this title][/us/usc/t12/s461]\] may be cited as the ‘Emergency Economic Stabilization Act of 2008’.”
 
@@ -112,14 +112,14 @@
 ----------
 ----------
 
-[/us/pl/110/343/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs2
+[/us/pl/110/343/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdA
 [/us/stat/122/3766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3766
 [/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
 [/us/stat/122/3765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3765
-[/us/pl/111/203/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1301
+[/us/pl/111/203/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtXIII
 [/us/stat/124/2133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2133
 [/us/usc/t12/s1455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1455
-[/us/pl/111/22/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1%2Fa
+[/us/pl/111/22/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2FdA
 [/us/stat/123/1632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1632
 [/us/usc/t31/s714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs714
 [/us/usc/t38/s3703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3703
@@ -128,23 +128,23 @@
 [/us/usc/t38/s3703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3703
 [/us/usc/t42/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5301
 [/us/usc/t12/s5220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5220
-[/us/pl/111/22/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs701
+[/us/pl/111/22/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2FdA%2FtVII
 [/us/stat/123/1660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1660
 [/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/usc/t12/s5220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5220
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/usc/t12/s5220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5220
-[/us/pl/111/22/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs704
+[/us/pl/111/22/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2FdA%2FtVII
 [/us/stat/123/1662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1662
-[/us/pl/111/203/s1484/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1484%2F2
+[/us/pl/111/203/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtXIV
 [/us/stat/124/2204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2204
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
-[/us/pl/111/15/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F15%2Fs1
+[/us/pl/111/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F15
 [/us/stat/123/1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1603
 [/us/usc/t12/s5231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5231
 [/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
-[/us/pl/110/343/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs1%2Fa
+[/us/pl/110/343/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdA
 [/us/stat/122/3765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3765
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
 [/us/usc/t15/s1638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1638

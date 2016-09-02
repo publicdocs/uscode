@@ -21,7 +21,7 @@
 
     The terms “bonds and notes of the United States”, “bonds and notes of the Government of the United States”, and “bonds or notes of the United States” used in this chapter shall be held to include certificates of indebtedness and Treasury bills issued under [section 3104 of title 31][/us/usc/t31/s3104].
 
-([Dec. 23, 1913, ch. 6, § 1][/us/act/1913-12-23/ch6/s1] (pars.), [38 Stat. 251][/us/stat/38/251]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 203(a), [49 Stat. 704][/us/stat/49/704]; [Pub. L. 86–70, § 8(a)][/us/pl/86/70/s8/a], June 25, 1959, [73 Stat. 142][/us/stat/73/142]; [Pub. L. 97–258, § 2(c)][/us/pl/97/258/s2/c], Sept. 13, 1982, [96 Stat. 1058][/us/stat/96/1058]; [Pub. L. 109–351, title VII, § 725(a)(1)][/us/pl/109/351/s725/a/1], Oct. 13, 2006, [120 Stat. 2001][/us/stat/120/2001]; [Pub. L. 109–356, title I, § 123(a)(1)][/us/pl/109/356/s123/a/1], Oct. 16, 2006, [120 Stat. 2028][/us/stat/120/2028].)
+([Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 1 (pars.), [38 Stat. 251][/us/stat/38/251]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 203(a), [49 Stat. 704][/us/stat/49/704]; [Pub. L. 86–70][/us/pl/86/70], § 8(a), June 25, 1959, [73 Stat. 142][/us/stat/73/142]; [Pub. L. 97–258][/us/pl/97/258], § 2(c), Sept. 13, 1982, [96 Stat. 1058][/us/stat/96/1058]; [Pub. L. 109–351, title VII][/us/pl/109/351/tVII], § 725(a)(1), Oct. 13, 2006, [120 Stat. 2001][/us/stat/120/2001]; [Pub. L. 109–356, title I][/us/pl/109/356/tI], § 123(a)(1), Oct. 16, 2006, [120 Stat. 2028][/us/stat/120/2028].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 
     2006—[Pub. L. 109–351][/us/pl/109/351] and 109–356 amended section identically, inserting “For purposes of this chapter, a State bank includes any bank which is operating under the Code of Law for the District of Columbia.” at end of first par.
 
-    1982—[Pub. L. 97–258][/us/pl/97/258] inserted provisions defining “bonds and notes of the United States”, “bonds and notes of the Government of the United States”, and “bonds or notes of the United States”. These provisions are based on acts [Sept. 24, 1917, ch. 56, § 5(c)][/us/act/1917-09-24/ch56/s5/c], [40 Stat. 290][/us/stat/40/290]; [Apr. 4, 1918, ch. 44, § 4][/us/act/1918-04-04/ch44/s4], [40 Stat. 504][/us/stat/40/504]; [Mar. 3, 1919, ch. 100, § 3][/us/act/1919-03-03/ch100/s3], [40 Stat. 1311][/us/stat/40/1311]; restated [June 17, 1929, ch. 26][/us/act/1929-06-17/ch26], [46 Stat. 20][/us/stat/46/20] (former [31 U.S.C. 754(c)][/us/usc/t31/s754/c]).
+    1982—[Pub. L. 97–258][/us/pl/97/258] inserted provisions defining “bonds and notes of the United States”, “bonds and notes of the Government of the United States”, and “bonds or notes of the United States”. These provisions are based on acts [Sept. 24, 1917, ch. 56][/us/act/1917-09-24/ch56], § 5(c), [40 Stat. 290][/us/stat/40/290]; [Apr. 4, 1918, ch. 44][/us/act/1918-04-04/ch44], § 4, [40 Stat. 504][/us/stat/40/504]; [Mar. 3, 1919, ch. 100][/us/act/1919-03-03/ch100], § 3, [40 Stat. 1311][/us/stat/40/1311]; restated [June 17, 1929, ch. 26][/us/act/1929-06-17/ch26], [46 Stat. 20][/us/stat/46/20] (former [31 U.S.C. 754(c)][/us/usc/t31/s754/c]).
 
     1959—[Pub. L. 86–70][/us/pl/86/70] inserted definition of “the continental United States”.
 
@@ -51,17 +51,17 @@
 ----------
 
 [/us/usc/t31/s3104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3104
-[/us/act/1913-12-23/ch6/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs1
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
 [/us/stat/38/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F251
 [/us/act/1935-08-23/ch614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch614
 [/us/stat/49/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F704
-[/us/pl/86/70/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70%2Fs8%2Fa
+[/us/pl/86/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70
 [/us/stat/73/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F142
-[/us/pl/97/258/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs2%2Fc
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1058
-[/us/pl/109/351/s725/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs725%2Fa%2F1
+[/us/pl/109/351/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2FtVII
 [/us/stat/120/2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2001
-[/us/pl/109/356/s123/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F356%2Fs123%2Fa%2F1
+[/us/pl/109/356/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F356%2FtI
 [/us/stat/120/2028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2028
 [/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
 [/us/stat/38/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F251
@@ -69,11 +69,11 @@
 [/us/usc/t12/s226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs226
 [/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
-[/us/act/1917-09-24/ch56/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-09-24%2Fch56%2Fs5%2Fc
+[/us/act/1917-09-24/ch56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-09-24%2Fch56
 [/us/stat/40/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F290
-[/us/act/1918-04-04/ch44/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-04-04%2Fch44%2Fs4
+[/us/act/1918-04-04/ch44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-04-04%2Fch44
 [/us/stat/40/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F504
-[/us/act/1919-03-03/ch100/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-03-03%2Fch100%2Fs3
+[/us/act/1919-03-03/ch100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-03-03%2Fch100
 [/us/stat/40/1311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F1311
 [/us/act/1929-06-17/ch26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-06-17%2Fch26
 [/us/stat/46/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F20

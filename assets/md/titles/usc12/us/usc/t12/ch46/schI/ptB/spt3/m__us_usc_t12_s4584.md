@@ -23,7 +23,7 @@
 
         Except as otherwise provided in this subpart, no court shall have jurisdiction to affect, by injunction or otherwise, the issuance or enforcement of any notice or order under section 4581 or 4585 of this title, or to review, modify, suspend, terminate, or set aside any such notice or order.
 
-([Pub. L. 102–550, title XIII, § 1344][/us/pl/102/550/s1344], Oct. 28, 1992, [106 Stat. 3966][/us/stat/106/3966]; [Pub. L. 110–289, div. A, title I, § 1130(e)(1)][/us/pl/110/289/s1130/e/1], July 30, 2008, [122 Stat. 2711][/us/stat/122/2711].)
+([Pub. L. 102–550, title XIII][/us/pl/102/550/tXIII], § 1344, Oct. 28, 1992, [106 Stat. 3966][/us/stat/106/3966]; [Pub. L. 110–289, div. A, title I][/us/pl/110/289/dA/tI], § 1130(e)(1), July 30, 2008, [122 Stat. 2711][/us/stat/122/2711].)
 
  __Amendments__ 
 
@@ -36,9 +36,9 @@
 ----------
 ----------
 
-[/us/pl/102/550/s1344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1344
+[/us/pl/102/550/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIII
 [/us/stat/106/3966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3966
-[/us/pl/110/289/s1130/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1130%2Fe%2F1
+[/us/pl/110/289/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtI
 [/us/stat/122/2711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2711
 [/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
 

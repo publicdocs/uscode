@@ -17,7 +17,7 @@
 
     It is the purpose of this chapter to establish a Financial Institutions Examination Council which shall prescribe uniform principles and standards for the Federal examination of financial institutions by the Office of the Comptroller of the Currency, the Federal Deposit Insurance Corporation, the Board of Governors of the Federal Reserve System, the Federal Home Loan Bank Board, and the National Credit Union Administration and make recommendations to promote uniformity in the supervision of these financial institutions. The Council’s actions shall be designed to promote consistency in such examination and to insure progressive and vigilant supervision.
 
-([Pub. L. 95–630, title X, § 1002][/us/pl/95/630/s1002], Nov. 10, 1978, [92 Stat. 3694][/us/stat/92/3694].)
+([Pub. L. 95–630, title X][/us/pl/95/630/tX], § 1002, Nov. 10, 1978, [92 Stat. 3694][/us/stat/92/3694].)
 
  __Effective Date__ 
 
@@ -25,7 +25,7 @@
 
  __Short Title__ 
 
-[Pub. L. 95–630, title X, § 1001][/us/pl/95/630/s1001], Nov. 10, 1978, [92 Stat. 3694][/us/stat/92/3694], provided that: 
+[Pub. L. 95–630, title X][/us/pl/95/630/tX], § 1001, Nov. 10, 1978, [92 Stat. 3694][/us/stat/92/3694], provided that: 
 
 > “This title \[enacting this chapter and amending section 67 of former Title 31, Money and Finance\] may be cited as the ‘Federal Financial Institutions Examination Council Act of 1978’.”
 
@@ -40,11 +40,11 @@
 ----------
 ----------
 
-[/us/pl/95/630/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs1002
+[/us/pl/95/630/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtX
 [/us/stat/92/3694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3694
 [/us/pl/95/630/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs2101
 [/us/usc/t12/s375b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs375b
-[/us/pl/95/630/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs1001
+[/us/pl/95/630/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtX
 [/us/stat/92/3694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3694
 [/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
 [/us/usc/t12/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1437

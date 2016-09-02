@@ -53,21 +53,21 @@
 
         Notwithstanding any provision of this section to the contrary, any bank or association that on December 24, 1980, is offering insurance coverages not authorized by this section may continue to sell such coverages for a period of not more than one year from such date and may continue to service such coverages until their expiration.
 
-([Pub. L. 92–181, title IV, § 4][/us/pl/92/181/s4].29, as added [Pub. L. 96–592, title IV, § 404][/us/pl/96/592/s404], Dec. 24, 1980, [94 Stat. 3448][/us/stat/94/3448]; amended [Pub. L. 100–233, title IV, § 422(a)][/us/pl/100/233/s422/a], Jan. 6, 1988, [101 Stat. 1655][/us/stat/101/1655]; [Pub. L. 100–399, title IV, § 411][/us/pl/100/399/s411], Aug. 17, 1988, [102 Stat. 1003][/us/stat/102/1003]; [Pub. L. 101–624, title XVIII, § 1834][/us/pl/101/624/s1834], Nov. 28, 1990, [104 Stat. 3833][/us/stat/104/3833].)
+([Pub. L. 92–181, title IV][/us/pl/92/181/tIV], § 4.29, as added [Pub. L. 96–592, title IV][/us/pl/96/592/tIV], § 404, Dec. 24, 1980, [94 Stat. 3448][/us/stat/94/3448]; amended [Pub. L. 100–233, title IV][/us/pl/100/233/tIV], § 422(a), Jan. 6, 1988, [101 Stat. 1655][/us/stat/101/1655]; [Pub. L. 100–399, title IV][/us/pl/100/399/tIV], § 411, Aug. 17, 1988, [102 Stat. 1003][/us/stat/102/1003]; [Pub. L. 101–624, title XVIII][/us/pl/101/624/tXVIII], § 1834, Nov. 28, 1990, [104 Stat. 3833][/us/stat/104/3833].)
 
  __Amendments__ 
 
-    1990—Subsec. (a)(2). [Pub. L. 101–624, § 1834(1)][/us/pl/101/624/s1834/1], inserted “, if more than two insurers for each type of insurance have proposed programs to a bank that will, in all likelihood, have long-term viability and meet the requirements of subsection (b)(2)(D)” before period at end of first sentence, and “, if at least two insurers have been approved in accordance with this paragraph” before period at end of third sentence.
+    1990—Subsec. (a)(2). [Pub. L. 101–624][/us/pl/101/624], § 1834(1), inserted “, if more than two insurers for each type of insurance have proposed programs to a bank that will, in all likelihood, have long-term viability and meet the requirements of subsection (b)(2)(D)” before period at end of first sentence, and “, if at least two insurers have been approved in accordance with this paragraph” before period at end of third sentence.
 
-    Subsec. (b)(2)(E). [Pub. L. 101–624, § 1834(2)][/us/pl/101/624/s1834/2], inserted before semicolon at end “, if at least two insurers have been approved in accordance with subsection (a)(2)”.
+    Subsec. (b)(2)(E). [Pub. L. 101–624][/us/pl/101/624], § 1834(2), inserted before semicolon at end “, if at least two insurers have been approved in accordance with subsection (a)(2)”.
 
-    1988—Subsec. (a). [Pub. L. 100–233, § 422(a)(1)][/us/pl/100/233/s422/a/1], designated existing provisions as par. (1), struck out “of this Act” to conform to style of original enactment, resulting in no change in text, inserted “or borrower from” before “any such bank”, inserted provision at end giving a member or borrower the option, without coercion from the bank or association of such member or borrower, to accept or reject such insurance, and added par. (2).
+    1988—Subsec. (a). [Pub. L. 100–233][/us/pl/100/233], § 422(a)(1), designated existing provisions as par. (1), struck out “of this Act” to conform to style of original enactment, resulting in no change in text, inserted “or borrower from” before “any such bank”, inserted provision at end giving a member or borrower the option, without coercion from the bank or association of such member or borrower, to accept or reject such insurance, and added par. (2).
 
-    Subsec. (a)(1). [Pub. L. 100–399, § 411(a)][/us/pl/100/399/s411/a], substituted “subchapters I and II of this chapter” for “sections 2019, 2033, 2076, and 2097 of this title”.
+    Subsec. (a)(1). [Pub. L. 100–399][/us/pl/100/399], § 411(a), substituted “subchapters I and II of this chapter” for “sections 2019, 2033, 2076, and 2097 of this title”.
 
-    Subsec. (a)(2). [Pub. L. 100–399, § 411(b)][/us/pl/100/399/s411/b], substituted “Farm Credit Banks” for “Federal intermediate credit banks”.
+    Subsec. (a)(2). [Pub. L. 100–399][/us/pl/100/399], § 411(b), substituted “Farm Credit Banks” for “Federal intermediate credit banks”.
 
-    Subsec. (b)(2). [Pub. L. 100–233, § 422(a)(2)][/us/pl/100/233/s422/a/2], redesignated cls. (i) to (iii) as subpars. (A) to (C), respectively, and added subpars. (D) and (E).
+    Subsec. (b)(2). [Pub. L. 100–233][/us/pl/100/233], § 422(a)(2), redesignated cls. (i) to (iii) as subpars. (A) to (C), respectively, and added subpars. (D) and (E).
 
  __Effective Date of 1988 Amendment__ 
 
@@ -75,7 +75,7 @@
 
  __Continuation of Program__ 
 
-[Pub. L. 100–233, title IV, § 422(b)][/us/pl/100/233/s422/b], Jan. 6, 1988, [101 Stat. 1656][/us/stat/101/1656], provided that: 
+[Pub. L. 100–233, title IV][/us/pl/100/233/tIV], § 422(b), Jan. 6, 1988, [101 Stat. 1656][/us/stat/101/1656], provided that: 
 
 > “Notwithstanding the amendments made to section 4.29 \[[12 U.S.C. 2218][/us/usc/t12/s2218]\] by subsection (a), any insurance program offered by any bank or association of the Farm Credit System on the date of the enactment of this Act \[Jan. 6, 1988\] that does not meet the requirements of section 4.29, as so amended, may be continued until July 1, 1988.”
 
@@ -86,26 +86,26 @@
 ----------
 ----------
 
-[/us/pl/92/181/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs4
-[/us/pl/96/592/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592%2Fs404
+[/us/pl/92/181/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtIV
+[/us/pl/96/592/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592%2FtIV
 [/us/stat/94/3448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3448
-[/us/pl/100/233/s422/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs422%2Fa
+[/us/pl/100/233/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtIV
 [/us/stat/101/1655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1655
-[/us/pl/100/399/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs411
+[/us/pl/100/399/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtIV
 [/us/stat/102/1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1003
-[/us/pl/101/624/s1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1834
+[/us/pl/101/624/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXVIII
 [/us/stat/104/3833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3833
-[/us/pl/101/624/s1834/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1834%2F1
-[/us/pl/101/624/s1834/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1834%2F2
-[/us/pl/100/233/s422/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs422%2Fa%2F1
-[/us/pl/100/399/s411/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs411%2Fa
-[/us/pl/100/399/s411/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs411%2Fb
-[/us/pl/100/233/s422/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs422%2Fa%2F2
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
+[/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
 [/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/100/233/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs401
 [/us/pl/100/399/s1001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs1001%2Fb
 [/us/usc/t12/s2002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2002
-[/us/pl/100/233/s422/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs422%2Fb
+[/us/pl/100/233/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtIV
 [/us/stat/101/1656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1656
 [/us/usc/t12/s2218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2218
 

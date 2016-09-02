@@ -47,7 +47,7 @@
 
         For purposes of this section, the terms “appropriate Federal banking agency”, “Federal banking agency”, and “insured depository institution” have the same meanings as in [section 1813 of this title][/us/usc/t12/s1813].
 
-([Pub. L. 103–325, title III, § 350][/us/pl/103/325/s350], Sept. 23, 1994, [108 Stat. 2242][/us/stat/108/2242].)
+([Pub. L. 103–325, title III][/us/pl/103/325/tIII], § 350, Sept. 23, 1994, [108 Stat. 2242][/us/stat/108/2242].)
 
 ----------
 
@@ -59,7 +59,7 @@
 [/us/usc/t12/s1835/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1835%2Fb
 [/us/usc/t12/s1835/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1835%2Fb
 [/us/usc/t12/s1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813
-[/us/pl/103/325/s350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs350
+[/us/pl/103/325/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtIII
 [/us/stat/108/2242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2242
 
 

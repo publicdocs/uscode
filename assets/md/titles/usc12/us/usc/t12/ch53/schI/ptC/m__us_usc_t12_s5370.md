@@ -41,7 +41,7 @@
 
         The Chairman of the Board of Governors and the Chairperson of the Council shall submit a joint report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives not later than 30 days after the date of the issuance in final form of regulations under subsection (a), or any subsequent revision to such regulations under subsection (d), as applicable. Such report shall include, at a minimum, the rationale for exemption and empirical evidence to support the criteria for exemption.
 
-([Pub. L. 111–203, title I, § 170][/us/pl/111/203/s170], July 21, 2010, [124 Stat. 1435][/us/stat/124/1435].)
+([Pub. L. 111–203, title I][/us/pl/111/203/tI], § 170, July 21, 2010, [124 Stat. 1435][/us/stat/124/1435].)
 
 ----------
 
@@ -51,7 +51,7 @@
 ----------
 
 [/us/usc/t12/s5323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5323
-[/us/pl/111/203/s170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs170
+[/us/pl/111/203/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtI
 [/us/stat/124/1435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1435
 
 

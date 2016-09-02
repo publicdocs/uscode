@@ -17,7 +17,7 @@
 
     Subject to the approval of the Board of Governors of the Federal Reserve System, the Federal reserve agent shall appoint one or more assistants. Such assistants, who shall be persons of tested banking experience, shall assist the Federal reserve agent in the performance of his duties and shall also have power to act in his name and stead during his absence or disability. The Board of Governors of the Federal Reserve System shall require such bonds of the assistant Federal reserve agents as it may deem necessary for the protection of the United States. Assistants to the Federal reserve agent shall receive an annual compensation, to be fixed and paid in the same manner as that of the Federal reserve agent.
 
-([Dec. 23, 1913, ch. 6, § 4][/us/act/1913-12-23/ch6/s4] (par.), as added [June 21, 1917, ch. 32, § 2][/us/act/1917-06-21/ch32/s2], [40 Stat. 232][/us/stat/40/232]; amended [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 203(a), [49 Stat. 704][/us/stat/49/704].)
+([Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 4 (par.), as added [June 21, 1917, ch. 32][/us/act/1917-06-21/ch32], § 2, [40 Stat. 232][/us/stat/40/232]; amended [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 203(a), [49 Stat. 704][/us/stat/49/704].)
 
  __Codification__ 
 
@@ -34,8 +34,8 @@
 ----------
 ----------
 
-[/us/act/1913-12-23/ch6/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs4
-[/us/act/1917-06-21/ch32/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-21%2Fch32%2Fs2
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
+[/us/act/1917-06-21/ch32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-21%2Fch32
 [/us/stat/40/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F232
 [/us/act/1935-08-23/ch614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch614
 [/us/stat/49/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F704

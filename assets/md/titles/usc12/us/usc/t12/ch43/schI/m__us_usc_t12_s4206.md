@@ -57,7 +57,7 @@
 
         All notices provided to a declarant under this section shall be kept confidential by the declarant in the same manner, and subject to the same penalties, as the declaration under [section 4203 of this title][/us/usc/t12/s4203].
 
-([Pub. L. 101–647, title XXV, § 2566][/us/pl/101/647/s2566], Nov. 29, 1990, [104 Stat. 4897][/us/stat/104/4897].)
+([Pub. L. 101–647, title XXV][/us/pl/101/647/tXXV], § 2566, Nov. 29, 1990, [104 Stat. 4897][/us/stat/104/4897].)
 
 ----------
 
@@ -70,7 +70,7 @@
 [/us/usc/t12/s4205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4205
 [/us/usc/t12/s4204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4204
 [/us/usc/t12/s4203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4203
-[/us/pl/101/647/s2566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2566
+[/us/pl/101/647/tXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXV
 [/us/stat/104/4897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4897
 
 

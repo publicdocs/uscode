@@ -23,11 +23,11 @@
 
         In setting rates and charges, it shall be the objective to provide the types of credit needed by eligible borrowers at the lowest reasonable costs on a sound business basis taking into consideration the cost of money to the bank, necessary reserve and expenses of the bank and associations, and providing services to members. The loan documents or discounting and financing agreements, may provide for the interest rate or rates to vary from time to time during the repayment period of the loan or agreement.
 
-([Pub. L. 92–181, title I, § 1][/us/pl/92/181/s1].8, as added [Pub. L. 100–233, title IV, § 401][/us/pl/100/233/s401], Jan. 6, 1988, [101 Stat. 1626][/us/stat/101/1626]; amended [Pub. L. 100–399, title IV, § 401(g)][/us/pl/100/399/s401/g], Aug. 17, 1988, [102 Stat. 996][/us/stat/102/996].)
+([Pub. L. 92–181, title I][/us/pl/92/181/tI], § 1.8, as added [Pub. L. 100–233, title IV][/us/pl/100/233/tIV], § 401, Jan. 6, 1988, [101 Stat. 1626][/us/stat/101/1626]; amended [Pub. L. 100–399, title IV][/us/pl/100/399/tIV], § 401(g), Aug. 17, 1988, [102 Stat. 996][/us/stat/102/996].)
 
  __Prior Provisions__ 
 
-    A prior section 2016, [Pub. L. 92–181, title I, § 1][/us/pl/92/181/s1].8, Dec. 10, 1971, [85 Stat. 586][/us/stat/85/586]; [Pub. L. 96–592, title I, § 105][/us/pl/96/592/s105], Dec. 24, 1980, [94 Stat. 3438][/us/stat/94/3438], related to eligibility, prior to the general amendment of this subchapter by [Pub. L. 100–233, § 401][/us/pl/100/233/s401].
+    A prior section 2016, [Pub. L. 92–181, title I][/us/pl/92/181/tI], § 1.8, Dec. 10, 1971, [85 Stat. 586][/us/stat/85/586]; [Pub. L. 96–592, title I][/us/pl/96/592/tI], § 105, Dec. 24, 1980, [94 Stat. 3438][/us/stat/94/3438], related to eligibility, prior to the general amendment of this subchapter by [Pub. L. 100–233][/us/pl/100/233], § 401.
 
  __Amendments__ 
 
@@ -44,16 +44,16 @@
 ----------
 ----------
 
-[/us/pl/92/181/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs1
-[/us/pl/100/233/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs401
+[/us/pl/92/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtI
+[/us/pl/100/233/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtIV
 [/us/stat/101/1626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1626
-[/us/pl/100/399/s401/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs401%2Fg
+[/us/pl/100/399/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtIV
 [/us/stat/102/996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F996
-[/us/pl/92/181/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs1
+[/us/pl/92/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtI
 [/us/stat/85/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F586
-[/us/pl/96/592/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592%2Fs105
+[/us/pl/96/592/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592%2FtI
 [/us/stat/94/3438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3438
-[/us/pl/100/233/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs401
+[/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
 [/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/100/233/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs401

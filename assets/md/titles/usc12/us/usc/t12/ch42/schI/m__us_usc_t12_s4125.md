@@ -27,7 +27,7 @@
 
         Assistance may be provided under this section only to State and local housing authorities that require any housing receiving such assistance to remain affordable for lower and moderate income tenants for the period during which assistance under this section is received.
 
-([Pub. L. 101–625, title VI, § 613(b)][/us/pl/101/625/s613/b], Nov. 28, 1990, [104 Stat. 4280][/us/stat/104/4280]; [Pub. L. 102–550, title III, § 317(b)][/us/pl/102/550/s317/b], Oct. 28, 1992, [106 Stat. 3772][/us/stat/106/3772].)
+([Pub. L. 101–625, title VI][/us/pl/101/625/tVI], § 613(b), Nov. 28, 1990, [104 Stat. 4280][/us/stat/104/4280]; [Pub. L. 102–550, title III][/us/pl/102/550/tIII], § 317(b), Oct. 28, 1992, [106 Stat. 3772][/us/stat/106/3772].)
 
  __References in Text__ 
 
@@ -55,9 +55,9 @@
 [/us/usc/t12/s4112/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4112%2Fd
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/usc/t12/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4101
-[/us/pl/101/625/s613/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs613%2Fb
+[/us/pl/101/625/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtVI
 [/us/stat/104/4280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4280
-[/us/pl/102/550/s317/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs317%2Fb
+[/us/pl/102/550/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtIII
 [/us/stat/106/3772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3772
 [/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
 [/us/stat/101/1815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1815

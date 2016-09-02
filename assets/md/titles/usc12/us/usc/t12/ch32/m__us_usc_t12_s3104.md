@@ -51,33 +51,33 @@
 
         For purposes of this section, the term “standard maximum deposit insurance amount” means the amount of the maximum amount of deposit insurance as determined under section 11(a)(1) of the Federal Deposit Insurance Act \[[12 U.S.C. 1821(a)(1)][/us/usc/t12/s1821/a/1]\].
 
-([Pub. L. 95–369, § 6][/us/pl/95/369/s6], Sept. 17, 1978, [92 Stat. 614][/us/stat/92/614]; [Pub. L. 96–64][/us/pl/96/64], Sept. 14, 1979, [93 Stat. 412][/us/stat/93/412]; [Pub. L. 102–242, title II, § 214(a)][/us/pl/102/242/s214/a], Dec. 19, 1991, [105 Stat. 2303][/us/stat/105/2303]; [Pub. L. 102–550, title XVI, § 1604(a)(10)][/us/pl/102/550/s1604/a/10], (11), Oct. 28, 1992, [106 Stat. 4082][/us/stat/106/4082], 4083; [Pub. L. 102–558, title III][/us/pl/102/558], §§ 302(a), 305, Oct. 28, 1992, [106 Stat. 4224][/us/stat/106/4224], 4226; [Pub. L. 103–328, title I, § 107(a)][/us/pl/103/328/s107/a], (d), Sept. 29, 1994, [108 Stat. 2358][/us/stat/108/2358], 2360; [Pub. L. 109–173, § 2(c)(4)][/us/pl/109/173/s2/c/4], Feb. 15, 2006, [119 Stat. 3602][/us/stat/119/3602].)
+([Pub. L. 95–369][/us/pl/95/369], § 6, Sept. 17, 1978, [92 Stat. 614][/us/stat/92/614]; [Pub. L. 96–64][/us/pl/96/64], Sept. 14, 1979, [93 Stat. 412][/us/stat/93/412]; [Pub. L. 102–242, title II][/us/pl/102/242/tII], § 214(a), Dec. 19, 1991, [105 Stat. 2303][/us/stat/105/2303]; [Pub. L. 102–550, title XVI][/us/pl/102/550/tXVI], § 1604(a)(10), (11), Oct. 28, 1992, [106 Stat. 4082][/us/stat/106/4082], 4083; [Pub. L. 102–558, title III][/us/pl/102/558/tIII], §§ 302(a), 305, Oct. 28, 1992, [106 Stat. 4224][/us/stat/106/4224], 4226; [Pub. L. 103–328, title I][/us/pl/103/328/tI], § 107(a), (d), Sept. 29, 1994, [108 Stat. 2358][/us/stat/108/2358], 2360; [Pub. L. 109–173][/us/pl/109/173], § 2(c)(4), Feb. 15, 2006, [119 Stat. 3602][/us/stat/119/3602].)
 
  __References in Text__ 
 
     For definition of “this chapter”, referred to in subsec. (d)(1), see References in Text note set out under [section 3101 of this title][/us/usc/t12/s3101].
 
-    The Federal Deposit Insurance Act, referred to in subsec. (d)(1), (3), is [act Sept. 21, 1950, ch. 967, § 2][/us/act/1950-09-21/ch967/s2], [64 Stat. 873][/us/stat/64/873], as amended, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1811 of this title][/us/usc/t12/s1811] and Tables.
+    The Federal Deposit Insurance Act, referred to in subsec. (d)(1), (3), is [act Sept. 21, 1950, ch. 967][/us/act/1950-09-21/ch967], § 2, [64 Stat. 873][/us/stat/64/873], as amended, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1811 of this title][/us/usc/t12/s1811] and Tables.
 
  __Amendments__ 
 
-    2006—Subsecs. (b), (c)(1), (d)(1), (2). [Pub. L. 109–173, § 2(c)(4)(A)][/us/pl/109/173/s2/c/4/A], substituted “an amount equal to the standard maximum deposit insurance amount” for “$100,000”.
+    2006—Subsecs. (b), (c)(1), (d)(1), (2). [Pub. L. 109–173][/us/pl/109/173], § 2(c)(4)(A), substituted “an amount equal to the standard maximum deposit insurance amount” for “$100,000”.
 
-    Subsec. (e). [Pub. L. 109–173, § 2(c)(4)(B)][/us/pl/109/173/s2/c/4/B], added subsec. (e).
+    Subsec. (e). [Pub. L. 109–173][/us/pl/109/173], § 2(c)(4)(B), added subsec. (e).
 
-    1994—Subsecs. (a) to (d). [Pub. L. 103–328, § 107(a)][/us/pl/103/328/s107/a], added subsec. (a) and redesignated former subsecs. (a) to (c) as (b) to (d), respectively.
+    1994—Subsecs. (a) to (d). [Pub. L. 103–328][/us/pl/103/328], § 107(a), added subsec. (a) and redesignated former subsecs. (a) to (c) as (b) to (d), respectively.
 
-    Subsec. (d)(3). [Pub. L. 103–328, § 107(d)][/us/pl/103/328/s107/d], added par. (3).
+    Subsec. (d)(3). [Pub. L. 103–328][/us/pl/103/328], § 107(d), added par. (3).
 
-    1992—Subsec. (c). [Pub. L. 102–550, § 1604(a)(10)][/us/pl/102/550/s1604/a/10], struck out the subsec. (c) which was in effect before the subsec. (c) added by [Pub. L. 102–242, § 214(a)(3)][/us/pl/102/242/s214/a/3], and which amended various other sections of this title.
+    1992—Subsec. (c). [Pub. L. 102–550][/us/pl/102/550], § 1604(a)(10), struck out the subsec. (c) which was in effect before the subsec. (c) added by [Pub. L. 102–242][/us/pl/102/242], § 214(a)(3), and which amended various other sections of this title.
 
-    Subsec. (c)(1). [Pub. L. 102–558, § 302(a)(1)][/us/pl/102/558/s302/a/1], inserted “domestic retail” before “deposit accounts” and “and requiring deposit insurance protection,” after “$100,000,” in introductory provisions. [Pub. L. 102–550, § 1604(a)(11)(A)][/us/pl/102/550/s1604/a/11/A], which made an identical amendment, was repealed, effective Oct. 28, 1992, by [Pub. L. 102–558, § 305][/us/pl/102/558/s305], set out as a Repeal of Duplicative Provisions note under [section 1815 of this title][/us/usc/t12/s1815].
+    Subsec. (c)(1). [Pub. L. 102–558][/us/pl/102/558], § 302(a)(1), inserted “domestic retail” before “deposit accounts” and “and requiring deposit insurance protection,” after “$100,000,” in introductory provisions. [Pub. L. 102–550][/us/pl/102/550], § 1604(a)(11)(A), which made an identical amendment, was repealed, effective Oct. 28, 1992, by [Pub. L. 102–558][/us/pl/102/558], § 305, set out as a Repeal of Duplicative Provisions note under [section 1815 of this title][/us/usc/t12/s1815].
 
-    Subsec. (c)(2). [Pub. L. 102–558, § 302(a)(2)][/us/pl/102/558/s302/a/2], substituted “Domestic retail deposit” for “Deposit” and inserted “that require deposit insurance protection” after “$100,000”. [Pub. L. 102–550, § 1604(a)(11)(B)][/us/pl/102/550/s1604/a/11/B], which made an identical amendment, was repealed, effective Oct. 28, 1992, by [Pub. L. 102–558, § 305][/us/pl/102/558/s305], set out as a Repeal of Duplicative Provisions note under [section 1815 of this title][/us/usc/t12/s1815].
+    Subsec. (c)(2). [Pub. L. 102–558][/us/pl/102/558], § 302(a)(2), substituted “Domestic retail deposit” for “Deposit” and inserted “that require deposit insurance protection” after “$100,000”. [Pub. L. 102–550][/us/pl/102/550], § 1604(a)(11)(B), which made an identical amendment, was repealed, effective Oct. 28, 1992, by [Pub. L. 102–558][/us/pl/102/558], § 305, set out as a Repeal of Duplicative Provisions note under [section 1815 of this title][/us/usc/t12/s1815].
 
-    1991—Subsec. (b). [Pub. L. 102–242, § 214(a)(1)][/us/pl/102/242/s214/a/1], (2), redesignated subsec. (b) as (b)(1) and designated last undesignated par. as par. (2).
+    1991—Subsec. (b). [Pub. L. 102–242][/us/pl/102/242], § 214(a)(1), (2), redesignated subsec. (b) as (b)(1) and designated last undesignated par. as par. (2).
 
-    Subsec. (c). [Pub. L. 102–242, § 214(a)(3)][/us/pl/102/242/s214/a/3], added subsec. (c).
+    Subsec. (c). [Pub. L. 102–242][/us/pl/102/242], § 214(a)(3), added subsec. (c).
 
     1979—Subsec. (b). [Pub. L. 96–64][/us/pl/96/64] inserted second par. which extended time for foreign banks to obtain required deposit insurance with respect to domestic existing branches.
 
@@ -87,7 +87,7 @@
 
  __Effective Date of 1992 Amendments__ 
 
-[Pub. L. 102–558, title III, § 302(b)][/us/pl/102/558/s302/b], Oct. 28, 1992, [106 Stat. 4224][/us/stat/106/4224], provided that: 
+[Pub. L. 102–558, title III][/us/pl/102/558/tIII], § 302(b), Oct. 28, 1992, [106 Stat. 4224][/us/stat/106/4224], provided that: 
 
 > “This section, and the amendments made by this section \[amending this section\], shall have the same effective date as the Federal Deposit Insurance Corporation Improvement Act of 1991 \[[Pub. L. 102–242][/us/pl/102/242]\].”
 
@@ -95,7 +95,7 @@
 
  __Regulations__ 
 
-[Pub. L. 103–328, title I, § 107(b)][/us/pl/103/328/s107/b], Sept. 29, 1994, [108 Stat. 2359][/us/stat/108/2359], provided that:
+[Pub. L. 103–328, title I][/us/pl/103/328/tI], § 107(b), Sept. 29, 1994, [108 Stat. 2359][/us/stat/108/2359], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -174,52 +174,52 @@
 [/us/usc/t12/s1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1811
 [/us/usc/t12/s1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1811
 [/us/usc/t12/s1821/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1821%2Fa%2F1
-[/us/pl/95/369/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F369%2Fs6
+[/us/pl/95/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F369
 [/us/stat/92/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F614
 [/us/pl/96/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F64
 [/us/stat/93/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F412
-[/us/pl/102/242/s214/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs214%2Fa
+[/us/pl/102/242/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtII
 [/us/stat/105/2303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2303
-[/us/pl/102/550/s1604/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1604%2Fa%2F10
+[/us/pl/102/550/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXVI
 [/us/stat/106/4082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4082
-[/us/pl/102/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558
+[/us/pl/102/558/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2FtIII
 [/us/stat/106/4224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4224
-[/us/pl/103/328/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328%2Fs107%2Fa
+[/us/pl/103/328/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328%2FtI
 [/us/stat/108/2358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2358
-[/us/pl/109/173/s2/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173%2Fs2%2Fc%2F4
+[/us/pl/109/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173
 [/us/stat/119/3602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3602
 [/us/usc/t12/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3101
-[/us/act/1950-09-21/ch967/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967%2Fs2
+[/us/act/1950-09-21/ch967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967
 [/us/stat/64/873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F873
 [/us/usc/t12/s1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1811
-[/us/pl/109/173/s2/c/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173%2Fs2%2Fc%2F4%2FA
-[/us/pl/109/173/s2/c/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173%2Fs2%2Fc%2F4%2FB
-[/us/pl/103/328/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328%2Fs107%2Fa
-[/us/pl/103/328/s107/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328%2Fs107%2Fd
-[/us/pl/102/550/s1604/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1604%2Fa%2F10
-[/us/pl/102/242/s214/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs214%2Fa%2F3
-[/us/pl/102/558/s302/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2Fs302%2Fa%2F1
-[/us/pl/102/550/s1604/a/11/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1604%2Fa%2F11%2FA
-[/us/pl/102/558/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2Fs305
+[/us/pl/109/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173
+[/us/pl/109/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173
+[/us/pl/103/328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328
+[/us/pl/103/328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
+[/us/pl/102/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558
 [/us/usc/t12/s1815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1815
-[/us/pl/102/558/s302/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2Fs302%2Fa%2F2
-[/us/pl/102/550/s1604/a/11/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1604%2Fa%2F11%2FB
-[/us/pl/102/558/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2Fs305
+[/us/pl/102/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558
 [/us/usc/t12/s1815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1815
-[/us/pl/102/242/s214/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs214%2Fa%2F1
-[/us/pl/102/242/s214/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs214%2Fa%2F3
+[/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
+[/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
 [/us/pl/96/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F64
 [/us/pl/109/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173
 [/us/pl/109/173/s2/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F173%2Fs2%2Fe
 [/us/usc/t12/s1785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1785
-[/us/pl/102/558/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2Fs302%2Fb
+[/us/pl/102/558/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2FtIII
 [/us/stat/106/4224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4224
 [/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
 [/us/pl/102/550/s1609/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1609%2Fa
 [/us/usc/t12/s191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs191
-[/us/pl/103/328/s107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328%2Fs107%2Fb
+[/us/pl/103/328/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328%2FtI
 [/us/stat/108/2359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2359
 [/us/usc/t12/s3104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3104
 [/us/usc/t12/s3104/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3104%2Fd

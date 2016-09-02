@@ -61,17 +61,17 @@
 
         Promptly after a review by the credit review committee, the committee shall notify the applicant or borrower, as the case may be, in writing of the decision of the committee and the reasons for the decision.
 
-([Pub. L. 92–181, title IV, § 4][/us/pl/92/181/s4].14, Dec. 10, 1971, [85 Stat. 613][/us/stat/85/613]; [Pub. L. 99–205, title III, § 303][/us/pl/99/205/s303], Dec. 23, 1985, [99 Stat. 1708][/us/stat/99/1708]; [Pub. L. 100–233, title I, § 106][/us/pl/100/233/s106], title VIII, § 805(s), Jan. 6, 1988, [101 Stat. 1580][/us/stat/101/1580], 1716; [Pub. L. 100–399, title I, § 103][/us/pl/100/399/s103], title VII, § 702(b), Aug. 17, 1988, [102 Stat. 990][/us/stat/102/990], 1006.)
+([Pub. L. 92–181, title IV][/us/pl/92/181/tIV], § 4.14, Dec. 10, 1971, [85 Stat. 613][/us/stat/85/613]; [Pub. L. 99–205, title III][/us/pl/99/205/tIII], § 303, Dec. 23, 1985, [99 Stat. 1708][/us/stat/99/1708]; [Pub. L. 100–233, title I][/us/pl/100/233/tI], § 106, title VIII, § 805(s), Jan. 6, 1988, [101 Stat. 1580][/us/stat/101/1580], 1716; [Pub. L. 100–399, title I][/us/pl/100/399/tI], § 103, title VII, § 702(b), Aug. 17, 1988, [102 Stat. 990][/us/stat/102/990], 1006.)
 
  __Amendments__ 
 
-    1988—[Pub. L. 100–233, § 805(s)][/us/pl/100/233/s805/s], which directed amendment of this section by substituting “committees” for “committee(s)”, “2201” for “2199”, and “review” for “reviews”, was repealed by [Pub. L. 100–399, § 702(b)][/us/pl/100/399/s702/b]. See Construction of 1988 Amendment note below.
+    1988—[Pub. L. 100–233][/us/pl/100/233], § 805(s), which directed amendment of this section by substituting “committees” for “committee(s)”, “2201” for “2199”, and “review” for “reviews”, was repealed by [Pub. L. 100–399][/us/pl/100/399], § 702(b). See Construction of 1988 Amendment note below.
 
-    [Pub. L. 100–233, § 106][/us/pl/100/233/s106], amended section generally. Prior to amendment, section read as follows: “The board of directors of each Farm Credit System institution shall establish one or more credit review committee(s), which shall include farmer board respresentation. \[sic\] Any loan applicant who has received written notice, under [section 2199 of this title][/us/usc/t12/s2199], of a decision to deny or reduce the loan applied for, if the applicant so requests in writing within thirty days after receiving such notice, may obtain a review of such decision in person before the credit review committee. When a loan applicant requests review of an adverse credit decision, a majority of persons serving on such reviews committee must be persons who were not involved in making the adverse decision. Promptly after any such review, the applicant shall be notified in writing of the credit review committee’s decision and the reasons therefor.”
+    [Pub. L. 100–233][/us/pl/100/233], § 106, amended section generally. Prior to amendment, section read as follows: “The board of directors of each Farm Credit System institution shall establish one or more credit review committee(s), which shall include farmer board respresentation. \[sic\] Any loan applicant who has received written notice, under [section 2199 of this title][/us/usc/t12/s2199], of a decision to deny or reduce the loan applied for, if the applicant so requests in writing within thirty days after receiving such notice, may obtain a review of such decision in person before the credit review committee. When a loan applicant requests review of an adverse credit decision, a majority of persons serving on such reviews committee must be persons who were not involved in making the adverse decision. Promptly after any such review, the applicant shall be notified in writing of the credit review committee’s decision and the reasons therefor.”
 
-    Subsec. (b)(1). [Pub. L. 100–399, § 103(a)][/us/pl/100/399/s103/a], substituted “before the” for “by a”.
+    Subsec. (b)(1). [Pub. L. 100–399][/us/pl/100/399], § 103(a), substituted “before the” for “by a”.
 
-    Subsec. (d)(1). [Pub. L. 100–399, § 103(b)][/us/pl/100/399/s103/b], inserted “or (2)”.
+    Subsec. (d)(1). [Pub. L. 100–399][/us/pl/100/399], § 103(b), inserted “or (2)”.
 
     1985—[Pub. L. 99–205][/us/pl/99/205], in amending section generally, substituted provisions respecting reconsideration of action on loan application for prior reconsideration provisions which read as follows: “Any applicant who has reason to believe that the action on his application by an association failed to take into account facts pertinent to his application, or has misinterpreted or failed to properly apply the applicable law or rules and regulations governing his application, may, if he so requests in writing within thirty days of the date of that notice, request an informal hearing on his application and the action of the association in reduction or denial thereof, or the reason for such action, in person before the loan committee or officer or employee thereof authorized to act on applications under section 2033(11) or 2093(18) of this title. Promptly after such a hearing, he shall be notified of the decision upon reconsideration and the reasons therefor.”
 
@@ -85,7 +85,7 @@
 
  __Construction of 1988 Amendment__ 
 
-    [Pub. L. 100–399, title VII, § 702(b)][/us/pl/100/399/s702/b], Aug. 17, 1988, [102 Stat. 1006][/us/stat/102/1006], provided that [section 805(s) of Pub. L. 100–233][/us/pl/100/233/s805/s], cited as a credit to this section, is repealed and that this section shall be applied and administered as if such section had not been enacted.
+    [Pub. L. 100–399, title VII][/us/pl/100/399/tVII], § 702(b), Aug. 17, 1988, [102 Stat. 1006][/us/stat/102/1006], provided that [section 805(s) of Pub. L. 100–233][/us/pl/100/233/s805/s], cited as a credit to this section, is repealed and that this section shall be applied and administered as if such section had not been enacted.
 
 ----------
 
@@ -96,20 +96,20 @@
 
 [/us/usc/t12/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2201
 [/us/usc/t12/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2201
-[/us/pl/92/181/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs4
+[/us/pl/92/181/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtIV
 [/us/stat/85/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F613
-[/us/pl/99/205/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2Fs303
+[/us/pl/99/205/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2FtIII
 [/us/stat/99/1708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1708
-[/us/pl/100/233/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs106
+[/us/pl/100/233/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtI
 [/us/stat/101/1580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1580
-[/us/pl/100/399/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs103
+[/us/pl/100/399/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtI
 [/us/stat/102/990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F990
-[/us/pl/100/233/s805/s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs805%2Fs
-[/us/pl/100/399/s702/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs702%2Fb
-[/us/pl/100/233/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs106
+[/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
+[/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
 [/us/usc/t12/s2199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2199
-[/us/pl/100/399/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs103%2Fa
-[/us/pl/100/399/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs103%2Fb
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/99/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205
 [/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
@@ -118,7 +118,7 @@
 [/us/pl/99/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205
 [/us/pl/99/205/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2Fs401
 [/us/usc/t12/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2001
-[/us/pl/100/399/s702/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs702%2Fb
+[/us/pl/100/399/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtVII
 [/us/stat/102/1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1006
 [/us/pl/100/233/s805/s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs805%2Fs
 

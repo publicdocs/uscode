@@ -519,17 +519,17 @@
 
         (14) a description of the activities carried out under subsection (i) during the preceding year.
 
-([Pub. L. 95–557, title II, § 203][/us/pl/95/557/s203], Oct. 31, 1978, [92 Stat. 2088][/us/stat/92/2088]; [Pub. L. 96–153, title II, § 208][/us/pl/96/153/s208], Dec. 21, 1979, [93 Stat. 1109][/us/stat/93/1109]; [Pub. L. 96–399, title II, § 213][/us/pl/96/399/s213], Oct. 8, 1980, [94 Stat. 1636][/us/stat/94/1636]; [Pub. L. 100–242, title I, § 181][/us/pl/100/242/s181], Feb. 5, 1988, [101 Stat. 1868][/us/stat/101/1868]; [Pub. L. 100–628, title X, § 1010][/us/pl/100/628/s1010], Nov. 7, 1988, [102 Stat. 3266][/us/stat/102/3266]; [Pub. L. 101–235, title II, § 204(a)][/us/pl/101/235/s204/a], Dec. 15, 1989, [103 Stat. 2039][/us/stat/103/2039]; [Pub. L. 101–625, title V, § 579][/us/pl/101/625/s579], Nov. 28, 1990, [104 Stat. 4245][/us/stat/104/4245]; [Pub. L. 103–120, § 6(c)(2)][/us/pl/103/120/s6/c/2], Oct. 27, 1993, [107 Stat. 1149][/us/stat/107/1149]; [Pub. L. 103–233, title I, § 101(b)][/us/pl/103/233/s101/b], Apr. 11, 1994, [108 Stat. 343][/us/stat/108/343]; [Pub. L. 105–276, title V, § 514(b)(2)(C)][/us/pl/105/276/s514/b/2/C], Oct. 21, 1998, [112 Stat. 2548][/us/stat/112/2548]; [Pub. L. 109–171, title II, § 2003(b)][/us/pl/109/171/s2003/b], Feb. 8, 2006, [120 Stat. 9][/us/stat/120/9].)
+([Pub. L. 95–557, title II][/us/pl/95/557/tII], § 203, Oct. 31, 1978, [92 Stat. 2088][/us/stat/92/2088]; [Pub. L. 96–153, title II][/us/pl/96/153/tII], § 208, Dec. 21, 1979, [93 Stat. 1109][/us/stat/93/1109]; [Pub. L. 96–399, title II][/us/pl/96/399/tII], § 213, Oct. 8, 1980, [94 Stat. 1636][/us/stat/94/1636]; [Pub. L. 100–242, title I][/us/pl/100/242/tI], § 181, Feb. 5, 1988, [101 Stat. 1868][/us/stat/101/1868]; [Pub. L. 100–628, title X][/us/pl/100/628/tX], § 1010, Nov. 7, 1988, [102 Stat. 3266][/us/stat/102/3266]; [Pub. L. 101–235, title II][/us/pl/101/235/tII], § 204(a), Dec. 15, 1989, [103 Stat. 2039][/us/stat/103/2039]; [Pub. L. 101–625, title V][/us/pl/101/625/tV], § 579, Nov. 28, 1990, [104 Stat. 4245][/us/stat/104/4245]; [Pub. L. 103–120][/us/pl/103/120], § 6(c)(2), Oct. 27, 1993, [107 Stat. 1149][/us/stat/107/1149]; [Pub. L. 103–233, title I][/us/pl/103/233/tI], § 101(b), Apr. 11, 1994, [108 Stat. 343][/us/stat/108/343]; [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 514(b)(2)(C), Oct. 21, 1998, [112 Stat. 2548][/us/stat/112/2548]; [Pub. L. 109–171, title II][/us/pl/109/171/tII], § 2003(b), Feb. 8, 2006, [120 Stat. 9][/us/stat/120/9].)
 
  __References in Text__ 
 
     The National Housing Act, referred to in subsecs. (a)(1), (b)(1), (e)(3)(A), and (f)(1), is [act June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], [48 Stat. 1246][/us/stat/48/1246], as amended, which is classified principally to this chapter (§ 1701 et seq.). For complete classification of this Act to the Code, see [section 1701 of this title][/us/usc/t12/s1701] and Tables.
 
-    Section 183(c) of the Housing and Community Development Act of 1987, referred to in subsec. (b)(2)(D), is [section 183(c) of Pub. L. 100–242][/us/pl/100/242/s183/c], which was set out as a note under [section 1437f of Title 42][/us/usc/t42/s1437f], The Public Health and Welfare, prior to repeal by [Pub. L. 105–276, title V, § 582(a)(2)][/us/pl/105/276/s582/a/2], Oct. 21, 1998, [112 Stat. 2643][/us/stat/112/2643].
+    Section 183(c) of the Housing and Community Development Act of 1987, referred to in subsec. (b)(2)(D), is [section 183(c) of Pub. L. 100–242][/us/pl/100/242/s183/c], which was set out as a note under [section 1437f of Title 42][/us/usc/t42/s1437f], The Public Health and Welfare, prior to repeal by [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 582(a)(2), Oct. 21, 1998, [112 Stat. 2643][/us/stat/112/2643].
 
     Section 101 of the Housing and Urban Development Act of 1965, referred to in subsecs. (b)(2)(D)(i) and (e)(1)(D)(i)(VI), (VII), is [section 101 of Pub. L. 89–117][/us/pl/89/117/s101], title I, Aug. 10, 1965, [79 Stat. 451][/us/stat/79/451], as amended, which enacted [section 1701s of this title][/us/usc/t12/s1701s] and amended sections 1451 and 1465 of Title 42.
 
-    Section 23 of the United States Housing Act of 1937, referred to in subsecs. (b)(2)(D)(iii) and (e)(1)(D)(i)(V), was classified to [section 1421b of Title 42][/us/usc/t42/s1421b] and was omitted from the Code following the general revision of the United States Housing Act of 1937 by [Pub. L. 93–383, title II, § 201(a)][/us/pl/93/383/s201/a], Aug. 22, 1974, [88 Stat. 653][/us/stat/88/653].
+    Section 23 of the United States Housing Act of 1937, referred to in subsecs. (b)(2)(D)(iii) and (e)(1)(D)(i)(V), was classified to [section 1421b of Title 42][/us/usc/t42/s1421b] and was omitted from the Code following the general revision of the United States Housing Act of 1937 by [Pub. L. 93–383, title II][/us/pl/93/383/tII], § 201(a), Aug. 22, 1974, [88 Stat. 653][/us/stat/88/653].
 
     The Emergency Low Income Housing Preservation Act of 1987, referred to in subsec. (c)(2)(E), is title II of [Pub. L. 100–242][/us/pl/100/242], Feb. 5, 1988, [101 Stat. 1877][/us/stat/101/1877], which, as amended by [Pub. L. 101–625][/us/pl/101/625], is known as the Low-Income Housing Preservation and Resident Homeownership Act of 1990, and is classified principally to subchapter I (§ 4101 et seq.) of chapter 42 of this title. Subtitle C of the Low-Income Housing Preservation and Resident Homeownership Act of 1990, probably means subtitle C of title II of [Pub. L. 100–242][/us/pl/100/242], as added by [Pub. L. 102–550][/us/pl/102/550], which is classified generally to subchapter II (§ 4141 et seq.) of chapter 42 of this title. Another subtitle C of title II of [Pub. L. 100–242][/us/pl/100/242] amended sections 1472, 1485, and 1487 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 4101 of this title][/us/usc/t12/s4101] and Tables.
 
@@ -539,7 +539,7 @@
 
     Section 6 of the HUD Demonstration Act of 1993, referred to in subsec. (h)(1)(B)(i), is [section 6 of Pub. L. 103–120][/us/pl/103/120/s6], which is set out as a note under [section 1437f of Title 42][/us/usc/t42/s1437f].
 
-    The United States Housing Act of 1937, as amended, referred to in subsec. (j)(2)(C), is [act Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], as revised generally by [Pub. L. 93–383, title II, § 201(a)][/us/pl/93/383/s201/a], Aug. 22, 1974, [88 Stat. 653][/us/stat/88/653], which is classified generally to chapter 8 (§ 1437 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 1437 of Title 42][/us/usc/t42/s1437] and Tables.
+    The United States Housing Act of 1937, as amended, referred to in subsec. (j)(2)(C), is [act Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], as revised generally by [Pub. L. 93–383, title II][/us/pl/93/383/tII], § 201(a), Aug. 22, 1974, [88 Stat. 653][/us/stat/88/653], which is classified generally to chapter 8 (§ 1437 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 1437 of Title 42][/us/usc/t42/s1437] and Tables.
 
  __Codification__ 
 
@@ -555,23 +555,23 @@
 
     1993—Subsec. (l). [Pub. L. 103–120][/us/pl/103/120] added subsec. (l).
 
-    1990—Subsec. (a)(1)(B). [Pub. L. 101–625, § 579(a)][/us/pl/101/625/s579/a], struck out “or vacant” after “moderate-income persons”.
+    1990—Subsec. (a)(1)(B). [Pub. L. 101–625][/us/pl/101/625], § 579(a), struck out “or vacant” after “moderate-income persons”.
 
-    Subsec. (d)(1). [Pub. L. 101–625, § 579(b)(1)][/us/pl/101/625/s579/b/1], struck out “or are vacant (which units shall be made available for such families as soon as possible)” before semicolon at end of cl. (B).
+    Subsec. (d)(1). [Pub. L. 101–625][/us/pl/101/625], § 579(b)(1), struck out “or are vacant (which units shall be made available for such families as soon as possible)” before semicolon at end of cl. (B).
 
-    Subsec. (d)(2), (3). [Pub. L. 101–625, § 579(b)(2)][/us/pl/101/625/s579/b/2], (3), added par. (2) and redesignated former par. (2) as (3).
+    Subsec. (d)(2), (3). [Pub. L. 101–625][/us/pl/101/625], § 579(b)(2), (3), added par. (2) and redesignated former par. (2) as (3).
 
     1989—Subsec. (k). [Pub. L. 101–235][/us/pl/101/235] amended subsec. (k) generally. Prior to amendment, subsec. (k) read as follows: “The Secretary shall annually submit to the Congress a report describing the activities carried out under subsection (e) of this section during the preceding year.”
 
-    1988—Subsec. (a). [Pub. L. 100–628, § 1010(a)][/us/pl/100/628/s1010/a], substituted “occupied by low- and moderate-income persons on the date of assignment or foreclosure (whichever is greater)” for “, on the date of assignment, occupied by low- and moderate-income persons” in par. (1)(C).
+    1988—Subsec. (a). [Pub. L. 100–628][/us/pl/100/628], § 1010(a), substituted “occupied by low- and moderate-income persons on the date of assignment or foreclosure (whichever is greater)” for “, on the date of assignment, occupied by low- and moderate-income persons” in par. (1)(C).
 
-    [Pub. L. 100–242, § 181(a)][/us/pl/100/242/s181/a], substituted introductory provisions and par. (1) for former introductory provisions and par. (1) which read as follows: “It is the policy of the United States that the Secretary of Housing and Urban Development (hereinafter referred to as the ‘Secretary’) shall manage and dispose of multifamily housing projects which are owned by the Secretary in a manner consistent with the National Housing Act and this section. The purpose of the property management and disposition program of the Department of Housing and Urban Development shall be to manage and dispose of projects in a manner which will protect the financial interests of the Federal Government and be less costly to the Federal Government than other reasonable alternatives by which the Secretary can further the goals of—
+    [Pub. L. 100–242][/us/pl/100/242], § 181(a), substituted introductory provisions and par. (1) for former introductory provisions and par. (1) which read as follows: “It is the policy of the United States that the Secretary of Housing and Urban Development (hereinafter referred to as the ‘Secretary’) shall manage and dispose of multifamily housing projects which are owned by the Secretary in a manner consistent with the National Housing Act and this section. The purpose of the property management and disposition program of the Department of Housing and Urban Development shall be to manage and dispose of projects in a manner which will protect the financial interests of the Federal Government and be less costly to the Federal Government than other reasonable alternatives by which the Secretary can further the goals of—
 
     “(1) preserving the housing units so that at least those units which are occupied by low- and moderate-income persons or which are vacant, at the time of acquisition, are available to and affordable by such persons;”.
 
-    Subsec. (b)(2). [Pub. L. 100–242, § 181(b)][/us/pl/100/242/s181/b], designated existing provisions as subpar. (A) and redesignated former cls. (A) to (D) as cls. (i) to (iv), substituted “subject to subsection (a) of this section that is owned by the Secretary (or for which the Secretary is mortgagee in possession)” for “, owned by the Secretary”, substituted “may determine; and” for “may determine.”, and added subpar. (B).
+    Subsec. (b)(2). [Pub. L. 100–242][/us/pl/100/242], § 181(b), designated existing provisions as subpar. (A) and redesignated former cls. (A) to (D) as cls. (i) to (iv), substituted “subject to subsection (a) of this section that is owned by the Secretary (or for which the Secretary is mortgagee in possession)” for “, owned by the Secretary”, substituted “may determine; and” for “may determine.”, and added subpar. (B).
 
-    Subsec. (c). [Pub. L. 100–242, § 181(c)][/us/pl/100/242/s181/c], amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Except where the Secretary has determined on a case-by-case basis that it would be clearly inappropriate, given the manner by which an individual project is to be managed or disposed of pursuant to subsection (a) of this section, the Secretary shall seek to—
+    Subsec. (c). [Pub. L. 100–242][/us/pl/100/242], § 181(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Except where the Secretary has determined on a case-by-case basis that it would be clearly inappropriate, given the manner by which an individual project is to be managed or disposed of pursuant to subsection (a) of this section, the Secretary shall seek to—
 
     “(1) maintain all occupied multifamily housing projects owned by the Secretary in a decent, safe, and sanitary condition;
 
@@ -579,57 +579,57 @@
 
     “(3) maintain the project for purposes of providing rental or cooperative housing for the longest feasible period.”
 
-    Subsec. (d). [Pub. L. 100–628, § 1010(b)][/us/pl/100/628/s1010/b], amended third sentence of par. (1) generally. Prior to amendment, third sentence read as follows: “Such contracts shall be sufficient to assist all units in subsidized or formerly subsidized projects, and all units in other projects that are occupied by lower income families eligible for assistance under such section 8 at the time of foreclosure or sale, as the case may be, and all units that are vacant at such time (which units shall be made available for such families as soon as possible).”
+    Subsec. (d). [Pub. L. 100–628][/us/pl/100/628], § 1010(b), amended third sentence of par. (1) generally. Prior to amendment, third sentence read as follows: “Such contracts shall be sufficient to assist all units in subsidized or formerly subsidized projects, and all units in other projects that are occupied by lower income families eligible for assistance under such section 8 at the time of foreclosure or sale, as the case may be, and all units that are vacant at such time (which units shall be made available for such families as soon as possible).”
 
-    [Pub. L. 100–242, § 181(d)][/us/pl/100/242/s181/d], added subsec. (d). Former subsec. (d) redesignated (f).
+    [Pub. L. 100–242][/us/pl/100/242], § 181(d), added subsec. (d). Former subsec. (d) redesignated (f).
 
-    Subsec. (e). [Pub. L. 100–628, § 1010(c)][/us/pl/100/628/s1010/c], amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Upon receipt of a bona fide offer to purchase a project subject to subsection (a) of this section, the Secretary shall notify the local government and the State housing finance agency (or other agency or agencies designated by the Governor) of the proposed terms and conditions of the offer, including the assistance that the Secretary plans to make available to the prospective purchaser. The local government and the designated State agency shall have 90 days to match the offer and purchase the project. In administering the right of first refusal provided in this subsection, the Secretary shall offer assistance to the local government or designated State agency on terms and conditions at least as favorable as made available to the prospective purchaser. Notwithstanding any other provision of law to the contrary, a local government (including a public housing agency) or designated State agency may purchase a subsidized project or formerly subsidized project in accordance with this subsection.”
+    Subsec. (e). [Pub. L. 100–628][/us/pl/100/628], § 1010(c), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Upon receipt of a bona fide offer to purchase a project subject to subsection (a) of this section, the Secretary shall notify the local government and the State housing finance agency (or other agency or agencies designated by the Governor) of the proposed terms and conditions of the offer, including the assistance that the Secretary plans to make available to the prospective purchaser. The local government and the designated State agency shall have 90 days to match the offer and purchase the project. In administering the right of first refusal provided in this subsection, the Secretary shall offer assistance to the local government or designated State agency on terms and conditions at least as favorable as made available to the prospective purchaser. Notwithstanding any other provision of law to the contrary, a local government (including a public housing agency) or designated State agency may purchase a subsidized project or formerly subsidized project in accordance with this subsection.”
 
-    [Pub. L. 100–242, § 181(d)(1)][/us/pl/100/242/s181/d/1], (e), added subsec. (e). Former subsec. (e) redesignated (g).
+    [Pub. L. 100–242][/us/pl/100/242], § 181(d)(1), (e), added subsec. (e). Former subsec. (e) redesignated (g).
 
-    Subsec. (f). [Pub. L. 100–242, § 181(d)(1)][/us/pl/100/242/s181/d/1], (e)(1), (g)(1), redesignated former subsec. (d) as (f). Former subsec. (f) redesignated (i).
+    Subsec. (f). [Pub. L. 100–242][/us/pl/100/242], § 181(d)(1), (e)(1), (g)(1), redesignated former subsec. (d) as (f). Former subsec. (f) redesignated (i).
 
-    Subsec. (f)(1). [Pub. L. 100–242, § 181(f)][/us/pl/100/242/s181/f], substituted “subject to subsection (a) of this section that is owned by the Secretary (or for which the Secretary is mortgagee in possession)” for “owned by the Secretary”, and inserted at end “In the case of a multifamily housing project subject to subsection (a) of this section that is not owned by the Secretary (and for which the Secretary is not mortgagee in possession), the Secretary shall require the owner of the project to carry out the requirements of this paragraph.”
+    Subsec. (f)(1). [Pub. L. 100–242][/us/pl/100/242], § 181(f), substituted “subject to subsection (a) of this section that is owned by the Secretary (or for which the Secretary is mortgagee in possession)” for “owned by the Secretary”, and inserted at end “In the case of a multifamily housing project subject to subsection (a) of this section that is not owned by the Secretary (and for which the Secretary is not mortgagee in possession), the Secretary shall require the owner of the project to carry out the requirements of this paragraph.”
 
-    Subsec. (g). [Pub. L. 100–242, § 181(d)(1)][/us/pl/100/242/s181/d/1], (e)(1), redesignated former subsec. (e) as (g). Former subsec. (g) redesignated (j).
+    Subsec. (g). [Pub. L. 100–242][/us/pl/100/242], § 181(d)(1), (e)(1), redesignated former subsec. (e) as (g). Former subsec. (g) redesignated (j).
 
-    Subsec. (h). [Pub. L. 100–242, § 181(d)(1)][/us/pl/100/242/s181/d/1], (e)(1), (g), added subsec. (h).
+    Subsec. (h). [Pub. L. 100–242][/us/pl/100/242], § 181(d)(1), (e)(1), (g), added subsec. (h).
 
-    Subsec. (i). [Pub. L. 100–628, § 1010(d)][/us/pl/100/628/s1010/d], (e), substituted “(excluding payments made for certificates under subsection (b)(1) or vouchers under subsection (o) of this section), if (except for purposes of paragraphs (1) and (2) of subsection (h) of this section), and section 183(c) of the Housing and Community Development Act of 1987) such housing assistance payments are made to more than 50 percent of the units in the project” for “(other than subsection (b)(1) of such section), without regard to whether such payments are made to all or a portion of the units in the project” in par. (2) (E) and added par. (4).
+    Subsec. (i). [Pub. L. 100–628][/us/pl/100/628], § 1010(d), (e), substituted “(excluding payments made for certificates under subsection (b)(1) or vouchers under subsection (o) of this section), if (except for purposes of paragraphs (1) and (2) of subsection (h) of this section), and section 183(c) of the Housing and Community Development Act of 1987) such housing assistance payments are made to more than 50 percent of the units in the project” for “(other than subsection (b)(1) of such section), without regard to whether such payments are made to all or a portion of the units in the project” in par. (2) (E) and added par. (4).
 
-    [Pub. L. 100–242, § 181(e)(1)][/us/pl/100/242/s181/e/1], (g)(1), (h), redesignated former subsec. (f) as (i), designated existing provisions as par. (1), and added pars. (2) and (3).
+    [Pub. L. 100–242][/us/pl/100/242], § 181(e)(1), (g)(1), (h), redesignated former subsec. (f) as (i), designated existing provisions as par. (1), and added pars. (2) and (3).
 
-    Subsec. (j). [Pub. L. 100–242, § 181(g)(1)][/us/pl/100/242/s181/g/1], redesignated former subsec. (g) as (j).
+    Subsec. (j). [Pub. L. 100–242][/us/pl/100/242], § 181(g)(1), redesignated former subsec. (g) as (j).
 
-    Subsec. (k). [Pub. L. 100–628, § 1010(f)][/us/pl/100/628/s1010/f], added subsec. (k).
+    Subsec. (k). [Pub. L. 100–628][/us/pl/100/628], § 1010(f), added subsec. (k).
 
-    1980—Subsec. (a). [Pub. L. 96–399, § 213(a)][/us/pl/96/399/s213/a], in par. (1) inserted provisions respecting occupation of units by low- and moderate-income persons or units vacant at the time of acquisition, and added par. (6).
+    1980—Subsec. (a). [Pub. L. 96–399][/us/pl/96/399], § 213(a), in par. (1) inserted provisions respecting occupation of units by low- and moderate-income persons or units vacant at the time of acquisition, and added par. (6).
 
-    Subsec. (b)(1). [Pub. L. 96–399, § 213(b)][/us/pl/96/399/s213/b], inserted provisions relating to the number of project units occupied by low- and moderate-income persons.
+    Subsec. (b)(1). [Pub. L. 96–399][/us/pl/96/399], § 213(b), inserted provisions relating to the number of project units occupied by low- and moderate-income persons.
 
-    Subsec. (c)(3). [Pub. L. 96–399, § 213(c)][/us/pl/96/399/s213/c], added par. (3).
+    Subsec. (c)(3). [Pub. L. 96–399][/us/pl/96/399], § 213(c), added par. (3).
 
-    Subsec. (d)(2)(B), (C). [Pub. L. 96–399, § 213(d)][/us/pl/96/399/s213/d], inserted exception for tenants of above-moderate income.
+    Subsec. (d)(2)(B), (C). [Pub. L. 96–399][/us/pl/96/399], § 213(d), inserted exception for tenants of above-moderate income.
 
-    Subsec. (f). [Pub. L. 96–399, § 213(e)][/us/pl/96/399/s213/e], substituted provisions respecting applicability to projects assisted or insured under this chapter, or subject to loans under [section 1701q of this title][/us/usc/t12/s1701q] or [section 1452b of title 42][/us/usc/t42/s1452b], or projects acquired by the Secretary pursuant to any other provision of law, for provisions respecting applicability to assistance under section 1715z-1 of this title, the proviso of section 1715l(d)(5) of this title, or section 101 of the Housing and Urban Development Act of 1965, and projects insured under this chapter.
+    Subsec. (f). [Pub. L. 96–399][/us/pl/96/399], § 213(e), substituted provisions respecting applicability to projects assisted or insured under this chapter, or subject to loans under [section 1701q of this title][/us/usc/t12/s1701q] or [section 1452b of title 42][/us/usc/t42/s1452b], or projects acquired by the Secretary pursuant to any other provision of law, for provisions respecting applicability to assistance under section 1715z-1 of this title, the proviso of section 1715l(d)(5) of this title, or section 101 of the Housing and Urban Development Act of 1965, and projects insured under this chapter.
 
     1979—Subsec. (d)(2). [Pub. L. 96–153][/us/pl/96/153] substituted “assure for any such tenant (who continues to meet applicable qualification standards) the right” for “seek to assure the maximum opportunity for any such tenant”.
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–171, title II, § 2003(c)][/us/pl/109/171/s2003/c], Feb. 8, 2006, [120 Stat. 9][/us/stat/120/9], provided that: 
+[Pub. L. 109–171, title II][/us/pl/109/171/tII], § 2003(c), Feb. 8, 2006, [120 Stat. 9][/us/stat/120/9], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 1715z–11a of this title][/us/usc/t12/s1715z–11a]\] shall not apply to any transaction that formally commences within one year prior to the enactment of this section \[Feb. 8, 2006\].”
 
  __Regulations__ 
 
-[Pub. L. 103–233, title I, § 101(f)][/us/pl/103/233/s101/f], Apr. 11, 1994, [108 Stat. 358][/us/stat/108/358], provided that: 
+[Pub. L. 103–233, title I][/us/pl/103/233/tI], § 101(f), Apr. 11, 1994, [108 Stat. 358][/us/stat/108/358], provided that: 
 
 > “The Secretary shall issue interim regulations necessary to implement the amendments made by subsections (b) through (d) \[amending this section and sections 1437d and 1437f of Title 42, The Public Health and Welfare\] not later than 90 days after the date of the enactment of this Act \[Apr. 11, 1994\]. Such interim regulations shall take effect upon issuance and invite public comment on the interim regulations. The Secretary shall issue final regulations to implement such amendments after opportunity for such public comment, but not later than 12 months after the date of issuance of such interim regulations.”
 
  __Appropriated Funds Requirement for Below-market Sales__ 
 
-[Pub. L. 109–171, title II][/us/pl/109/171], §§ 2001, 2002, Feb. 8, 2006, [120 Stat. 7][/us/stat/120/7], 8, provided that:
+[Pub. L. 109–171, title II][/us/pl/109/171/tII], §§ 2001, 2002, Feb. 8, 2006, [120 Stat. 7][/us/stat/120/7], 8, provided that:
 
 > “SEC. 2001. __DEFINITIONS.__ 
 
@@ -667,7 +667,7 @@
 
  __Multifamily Housing Disposition__ 
 
-[Pub. L. 103–233, title I, § 101(a)][/us/pl/103/233/s101/a], Apr. 11, 1994, [108 Stat. 343][/us/stat/108/343], provided that: 
+[Pub. L. 103–233, title I][/us/pl/103/233/tI], § 101(a), Apr. 11, 1994, [108 Stat. 343][/us/stat/108/343], provided that: 
 
 > “The Congress finds that—
 
@@ -683,7 +683,7 @@
 
 >     “(6) the current statutory framework governing the disposition of multifamily housing projects effectively impedes the Government’s ability to dispose of properties, protect tenants, and ensure that projects are maintained over time.”
 
-    [Pub. L. 100–242, title I, § 184][/us/pl/100/242/s184], Feb. 5, 1988, [101 Stat. 1872][/us/stat/101/1872], as amended by [Pub. L. 101–625, title V, § 580][/us/pl/101/625/s580], Nov. 28, 1990, [104 Stat. 4245][/us/stat/104/4245], provided for establishment of demonstration program for multifamily housing disposition partnerships, together with requirements relating to participation by State housing finance agencies in sale of such housing and cooperation between Secretary of Housing and Urban Development and such agencies, as well as termination of such program at end of Sept. 30, 1991, with certain exceptions, with report to Congress required to be submitted by Secretary not later than 6 months after Sept. 30, 1991, prior to repeal by [Pub. L. 103–233, title I, § 102][/us/pl/103/233/s102], Apr. 11, 1994, [108 Stat. 358][/us/stat/108/358].
+    [Pub. L. 100–242, title I][/us/pl/100/242/tI], § 184, Feb. 5, 1988, [101 Stat. 1872][/us/stat/101/1872], as amended by [Pub. L. 101–625, title V][/us/pl/101/625/tV], § 580, Nov. 28, 1990, [104 Stat. 4245][/us/stat/104/4245], provided for establishment of demonstration program for multifamily housing disposition partnerships, together with requirements relating to participation by State housing finance agencies in sale of such housing and cooperation between Secretary of Housing and Urban Development and such agencies, as well as termination of such program at end of Sept. 30, 1991, with certain exceptions, with report to Congress required to be submitted by Secretary not later than 6 months after Sept. 30, 1991, prior to repeal by [Pub. L. 103–233, title I][/us/pl/103/233/tI], § 102, Apr. 11, 1994, [108 Stat. 358][/us/stat/108/358].
 
 ----------
 
@@ -737,40 +737,40 @@
 [/us/usc/t42/s1437a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437a%2Fa
 [/us/usc/t42/s1437f/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f%2Fc
 [/us/usc/t42/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437
-[/us/pl/95/557/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2Fs203
+[/us/pl/95/557/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2FtII
 [/us/stat/92/2088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2088
-[/us/pl/96/153/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153%2Fs208
+[/us/pl/96/153/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153%2FtII
 [/us/stat/93/1109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1109
-[/us/pl/96/399/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs213
+[/us/pl/96/399/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2FtII
 [/us/stat/94/1636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1636
-[/us/pl/100/242/s181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs181
+[/us/pl/100/242/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtI
 [/us/stat/101/1868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1868
-[/us/pl/100/628/s1010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs1010
+[/us/pl/100/628/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2FtX
 [/us/stat/102/3266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3266
-[/us/pl/101/235/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235%2Fs204%2Fa
+[/us/pl/101/235/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235%2FtII
 [/us/stat/103/2039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2039
-[/us/pl/101/625/s579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs579
+[/us/pl/101/625/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtV
 [/us/stat/104/4245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4245
-[/us/pl/103/120/s6/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F120%2Fs6%2Fc%2F2
+[/us/pl/103/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F120
 [/us/stat/107/1149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1149
-[/us/pl/103/233/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2Fs101%2Fb
+[/us/pl/103/233/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2FtI
 [/us/stat/108/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F343
-[/us/pl/105/276/s514/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs514%2Fb%2F2%2FC
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2548
-[/us/pl/109/171/s2003/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs2003%2Fb
+[/us/pl/109/171/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2FtII
 [/us/stat/120/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F9
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
 [/us/stat/48/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1246
 [/us/usc/t12/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701
 [/us/pl/100/242/s183/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs183%2Fc
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
-[/us/pl/105/276/s582/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs582%2Fa%2F2
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2643
 [/us/pl/89/117/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117%2Fs101
 [/us/stat/79/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F451
 [/us/usc/t12/s1701s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701s
 [/us/usc/t42/s1421b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1421b
-[/us/pl/93/383/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs201%2Fa
+[/us/pl/93/383/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtII
 [/us/stat/88/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F653
 [/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
 [/us/stat/101/1877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1877
@@ -788,47 +788,47 @@
 [/us/pl/103/120/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F120%2Fs6
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/act/1937-09-01/ch896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch896
-[/us/pl/93/383/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs201%2Fa
+[/us/pl/93/383/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtII
 [/us/stat/88/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F653
 [/us/usc/t42/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437
 [/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
 [/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
 [/us/pl/103/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233
 [/us/pl/103/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F120
-[/us/pl/101/625/s579/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs579%2Fa
-[/us/pl/101/625/s579/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs579%2Fb%2F1
-[/us/pl/101/625/s579/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs579%2Fb%2F2
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
 [/us/pl/101/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235
-[/us/pl/100/628/s1010/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs1010%2Fa
-[/us/pl/100/242/s181/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs181%2Fa
-[/us/pl/100/242/s181/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs181%2Fb
-[/us/pl/100/242/s181/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs181%2Fc
-[/us/pl/100/628/s1010/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs1010%2Fb
-[/us/pl/100/242/s181/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs181%2Fd
-[/us/pl/100/628/s1010/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs1010%2Fc
-[/us/pl/100/242/s181/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs181%2Fd%2F1
-[/us/pl/100/242/s181/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs181%2Fd%2F1
-[/us/pl/100/242/s181/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs181%2Ff
-[/us/pl/100/242/s181/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs181%2Fd%2F1
-[/us/pl/100/242/s181/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs181%2Fd%2F1
-[/us/pl/100/628/s1010/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs1010%2Fd
-[/us/pl/100/242/s181/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs181%2Fe%2F1
-[/us/pl/100/242/s181/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs181%2Fg%2F1
-[/us/pl/100/628/s1010/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs1010%2Ff
-[/us/pl/96/399/s213/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs213%2Fa
-[/us/pl/96/399/s213/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs213%2Fb
-[/us/pl/96/399/s213/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs213%2Fc
-[/us/pl/96/399/s213/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs213%2Fd
-[/us/pl/96/399/s213/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs213%2Fe
+[/us/pl/100/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628
+[/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
+[/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
+[/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
+[/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
+[/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
 [/us/usc/t12/s1701q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701q
 [/us/usc/t42/s1452b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1452b
 [/us/pl/96/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153
-[/us/pl/109/171/s2003/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs2003%2Fc
+[/us/pl/109/171/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2FtII
 [/us/stat/120/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F9
 [/us/usc/t12/s1715z–11a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715z%E2%80%9311a
-[/us/pl/103/233/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2Fs101%2Ff
+[/us/pl/103/233/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2FtI
 [/us/stat/108/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F358
-[/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
+[/us/pl/109/171/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2FtII
 [/us/stat/120/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F7
 [/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
 [/us/usc/t12/s1715z–11a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715z%E2%80%9311a
@@ -840,13 +840,13 @@
 [/us/usc/t12/s1713/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1713%2Fk
 [/us/usc/t12/s1701z–11/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701z%E2%80%9311%2Fk
 [/us/usc/t12/s1715z–11a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715z%E2%80%9311a%2Fa
-[/us/pl/103/233/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2Fs101%2Fa
+[/us/pl/103/233/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2FtI
 [/us/stat/108/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F343
-[/us/pl/100/242/s184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs184
+[/us/pl/100/242/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtI
 [/us/stat/101/1872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1872
-[/us/pl/101/625/s580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs580
+[/us/pl/101/625/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtV
 [/us/stat/104/4245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4245
-[/us/pl/103/233/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2Fs102
+[/us/pl/103/233/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2FtI
 [/us/stat/108/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F358
 
 

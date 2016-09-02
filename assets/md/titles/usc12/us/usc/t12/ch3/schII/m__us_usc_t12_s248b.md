@@ -17,7 +17,7 @@
 
     The Board shall order an annual independent audit of the financial statements of each Federal reserve bank and the Board.
 
-([Dec. 23, 1913, ch. 6, § 11B][/us/act/1913-12-23/ch6/s11B], as added [Pub. L. 106–102, title VII, § 726][/us/pl/106/102/s726], Nov. 12, 1999, [113 Stat. 1475][/us/stat/113/1475].)
+([Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 11B, as added [Pub. L. 106–102, title VII][/us/pl/106/102/tVII], § 726, Nov. 12, 1999, [113 Stat. 1475][/us/stat/113/1475].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/act/1913-12-23/ch6/s11B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs11B
-[/us/pl/106/102/s726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs726
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
+[/us/pl/106/102/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtVII
 [/us/stat/113/1475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1475
 
 

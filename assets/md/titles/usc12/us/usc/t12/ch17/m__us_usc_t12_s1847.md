@@ -93,13 +93,13 @@
 
             Any company against which any penalty is assessed under this subsection shall be afforded an agency hearing if such company submits a request for such hearing within 20 days after the issuance of the notice of assessment. [Section 1818(h) of this title][/us/usc/t12/s1818/h] shall apply to any proceeding under this subsection.
 
-([May 9, 1956, ch. 240, § 8][/us/act/1956-05-09/ch240/s8], [70 Stat. 138][/us/stat/70/138]; [Pub. L. 95–630, title I, § 106(a)][/us/pl/95/630/s106/a], Nov. 10, 1978, [92 Stat. 3647][/us/stat/92/3647]; [Pub. L. 97–320, title IV, § 424(a)][/us/pl/97/320/s424/a], (d)(4), Oct. 15, 1982, [96 Stat. 1522][/us/stat/96/1522], 1523; [Pub. L. 101–73, title IX][/us/pl/101/73], §§ 905(i), 907(j), 911(e), Aug. 9, 1989, [103 Stat. 461][/us/stat/103/461], 475, 481.)
+([May 9, 1956, ch. 240][/us/act/1956-05-09/ch240], § 8, [70 Stat. 138][/us/stat/70/138]; [Pub. L. 95–630, title I][/us/pl/95/630/tI], § 106(a), Nov. 10, 1978, [92 Stat. 3647][/us/stat/92/3647]; [Pub. L. 97–320, title IV][/us/pl/97/320/tIV], § 424(a), (d)(4), Oct. 15, 1982, [96 Stat. 1522][/us/stat/96/1522], 1523; [Pub. L. 101–73, title IX][/us/pl/101/73/tIX], §§ 905(i), 907(j), 911(e), Aug. 9, 1989, [103 Stat. 461][/us/stat/103/461], 475, 481.)
 
  __Amendments__ 
 
-    1989—Subsec. (a). [Pub. L. 101–73, § 907(j)(1)][/us/pl/101/73/s907/j/1], substituted heading and pars. (1) and (2) for first two sentences which read as follows: “Any company which willfully violates any provision of this chapter, or any regulation or order issued by the Board pursuant thereto, shall upon conviction be fined not more than $1,000 for each day during which the violation continues. Any individual who willfully participates in a violation of any provision of this chapter shall upon conviction be fined not more than $10,000 or imprisoned not more than one year, or both.”
+    1989—Subsec. (a). [Pub. L. 101–73][/us/pl/101/73], § 907(j)(1), substituted heading and pars. (1) and (2) for first two sentences which read as follows: “Any company which willfully violates any provision of this chapter, or any regulation or order issued by the Board pursuant thereto, shall upon conviction be fined not more than $1,000 for each day during which the violation continues. Any individual who willfully participates in a violation of any provision of this chapter shall upon conviction be fined not more than $10,000 or imprisoned not more than one year, or both.”
 
-    Subsec. (b). [Pub. L. 101–73, § 907(j)(2)][/us/pl/101/73/s907/j/2], added headings and amended text generally. Prior to amendment, subsec. (b) read as follows:
+    Subsec. (b). [Pub. L. 101–73][/us/pl/101/73], § 907(j)(2), added headings and amended text generally. Prior to amendment, subsec. (b) read as follows:
 
     “(1) Any company which violates or any individual who participates in a violation of any provision of this chapter, or any regulation or order issued pursuant thereto, shall forfeit and pay a civil penalty of not more than $1,000 per day for each day during which such violation continues: Provided, That the Board may, in its discretion, compromise, modify, or remit any civil money penalty which is subject to imposition or has been imposed under authority of this subsection. The penalty may be assessed and collected by the Board by written notice. As used in the section, the term ‘violates’ includes without any limitation any action (alone or with another or others) for or toward causing, bringing about, participating in, counseling, or aiding or abetting a violation.
 
@@ -113,9 +113,9 @@
 
     “(6) All penalties collected under authority of this subsection shall be covered into the Treasury of the United States.”
 
-    Subsec. (c). [Pub. L. 101–73, § 905(i)][/us/pl/101/73/s905/i], added subsec. (c).
+    Subsec. (c). [Pub. L. 101–73][/us/pl/101/73], § 905(i), added subsec. (c).
 
-    Subsec. (d). [Pub. L. 101–73, § 911(e)][/us/pl/101/73/s911/e], added subsec. (d).
+    Subsec. (d). [Pub. L. 101–73][/us/pl/101/73], § 911(e), added subsec. (d).
 
     1982—Subsec. (b)(1). [Pub. L. 97–320][/us/pl/97/320] inserted proviso giving the Board discretionary authority to compromise, etc., any civil money penalty imposed under this subsection, and substituted “may be assessed” for “shall be assessed”.
 
@@ -143,20 +143,20 @@
 [/us/usc/t12/s1818/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1818%2Fh
 [/us/usc/t12/s1813/u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813%2Fu
 [/us/usc/t12/s1818/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1818%2Fh
-[/us/act/1956-05-09/ch240/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-05-09%2Fch240%2Fs8
+[/us/act/1956-05-09/ch240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-05-09%2Fch240
 [/us/stat/70/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F138
-[/us/pl/95/630/s106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs106%2Fa
+[/us/pl/95/630/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtI
 [/us/stat/92/3647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3647
-[/us/pl/97/320/s424/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs424%2Fa
+[/us/pl/97/320/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2FtIV
 [/us/stat/96/1522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1522
-[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
+[/us/pl/101/73/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtIX
 [/us/stat/103/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F461
-[/us/pl/101/73/s907/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs907%2Fj%2F1
-[/us/pl/101/73/s907/j/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs907%2Fj%2F2
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
 [/us/usc/t5/s554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs554
 [/us/usc/t12/s1848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1848
-[/us/pl/101/73/s905/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs905%2Fi
-[/us/pl/101/73/s911/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs911%2Fe
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
 [/us/pl/97/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320
 [/us/pl/95/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630
 [/us/pl/101/73/s907/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs907%2Fj

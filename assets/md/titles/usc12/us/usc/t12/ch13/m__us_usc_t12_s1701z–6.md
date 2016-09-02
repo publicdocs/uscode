@@ -35,7 +35,7 @@
 
         In addition to any other contract or loan authority which the Secretary may utilize under subsection (c), not more than $10,000,000 from amounts approved in appropriation Acts shall be available for research under this section.
 
-([Pub. L. 91–609, title V, § 507][/us/pl/91/609/s507], as added [Pub. L. 93–383, title VIII, § 815][/us/pl/93/383/s815], Aug. 22, 1974, [88 Stat. 738][/us/stat/88/738].)
+([Pub. L. 91–609, title V][/us/pl/91/609/tV], § 507, as added [Pub. L. 93–383, title VIII][/us/pl/93/383/tVIII], § 815, Aug. 22, 1974, [88 Stat. 738][/us/stat/88/738].)
 
  __Codification__ 
 
@@ -43,11 +43,11 @@
 
  __Indian Public Housing Early Childhood Development Demonstration Program__ 
 
-    [Pub. L. 101–625, title V, § 518][/us/pl/101/625/s518], Nov. 28, 1990, [104 Stat. 4201][/us/stat/104/4201], as amended by [Pub. L. 102–550, title I, § 124][/us/pl/102/550/s124], Oct. 28, 1992, [106 Stat. 3709][/us/stat/106/3709]; [Pub. L. 104–330, title V, § 501(d)(1)][/us/pl/104/330/s501/d/1], Oct. 26, 1996, [110 Stat. 4042][/us/stat/110/4042], authorized Secretary of Housing and Urban Development to carry out demonstration program in low-income housing developed or operated pursuant to a contract between the Secretary and an Indian housing authority in the same manner as the demonstration program under [section 222 of Pub. L. 98–181][/us/pl/98/181/s222] was carried out, and further provided for funding for demonstration program, limitations, and report to Congress, prior to repeal by [Pub. L. 105–276, title V, § 582(a)(7)][/us/pl/105/276/s582/a/7], Oct. 21, 1998, [112 Stat. 2643][/us/stat/112/2643].
+    [Pub. L. 101–625, title V][/us/pl/101/625/tV], § 518, Nov. 28, 1990, [104 Stat. 4201][/us/stat/104/4201], as amended by [Pub. L. 102–550, title I][/us/pl/102/550/tI], § 124, Oct. 28, 1992, [106 Stat. 3709][/us/stat/106/3709]; [Pub. L. 104–330, title V][/us/pl/104/330/tV], § 501(d)(1), Oct. 26, 1996, [110 Stat. 4042][/us/stat/110/4042], authorized Secretary of Housing and Urban Development to carry out demonstration program in low-income housing developed or operated pursuant to a contract between the Secretary and an Indian housing authority in the same manner as the demonstration program under [section 222 of Pub. L. 98–181][/us/pl/98/181/s222] was carried out, and further provided for funding for demonstration program, limitations, and report to Congress, prior to repeal by [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 582(a)(7), Oct. 21, 1998, [112 Stat. 2643][/us/stat/112/2643].
 
  __Demonstration Project for Assistance to Units of General Local Government To Encourage Upgrading of Lower Income Family Housing__ 
 
-[Pub. L. 98–181, title I][/us/pl/98/181] \[title II, § 225\], Nov. 30, 1983, [97 Stat. 1191][/us/stat/97/1191], provided that:
+[Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title II, § 225\], Nov. 30, 1983, [97 Stat. 1191][/us/stat/97/1191], provided that:
 
 >     “(a)
 
@@ -127,11 +127,11 @@
 
  __Public Housing Early Childhood Development Program__ 
 
-    [Pub. L. 98–181, title I][/us/pl/98/181] \[title II, § 222\], Nov. 30, 1983, [97 Stat. 1188][/us/stat/97/1188], as amended by [Pub. L. 100–242, title I, § 117][/us/pl/100/242/s117], Feb. 5, 1988, [101 Stat. 1826][/us/stat/101/1826]; [Pub. L. 100–628, title X, § 1002][/us/pl/100/628/s1002], Nov. 7, 1988, [102 Stat. 3263][/us/stat/102/3263]; [Pub. L. 101–625, title V, § 517][/us/pl/101/625/s517], Nov. 28, 1990, [104 Stat. 4200][/us/stat/104/4200]; [Pub. L. 102–550, title I, § 123][/us/pl/102/550/s123], Oct. 28, 1992, [106 Stat. 3709][/us/stat/106/3709], which authorized Secretary of Housing and Urban Development to carry out demonstration program of making grants to nonprofit organizations to assist in providing early childhood development services in or near lower income housing projects, and required report to Congress setting forth findings and conclusions not later than three years after Feb. 5, 1988, was repealed by [Pub. L. 105–276, title V, § 582(a)(6)][/us/pl/105/276/s582/a/6], Oct. 21, 1998, [112 Stat. 2643][/us/stat/112/2643].
+    [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title II, § 222\], Nov. 30, 1983, [97 Stat. 1188][/us/stat/97/1188], as amended by [Pub. L. 100–242, title I][/us/pl/100/242/tI], § 117, Feb. 5, 1988, [101 Stat. 1826][/us/stat/101/1826]; [Pub. L. 100–628, title X][/us/pl/100/628/tX], § 1002, Nov. 7, 1988, [102 Stat. 3263][/us/stat/102/3263]; [Pub. L. 101–625, title V][/us/pl/101/625/tV], § 517, Nov. 28, 1990, [104 Stat. 4200][/us/stat/104/4200]; [Pub. L. 102–550, title I][/us/pl/102/550/tI], § 123, Oct. 28, 1992, [106 Stat. 3709][/us/stat/106/3709], which authorized Secretary of Housing and Urban Development to carry out demonstration program of making grants to nonprofit organizations to assist in providing early childhood development services in or near lower income housing projects, and required report to Congress setting forth findings and conclusions not later than three years after Feb. 5, 1988, was repealed by [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 582(a)(6), Oct. 21, 1998, [112 Stat. 2643][/us/stat/112/2643].
 
  __Public Housing Security__ 
 
-[Pub. L. 96–399, title II, § 209][/us/pl/96/399/s209], Oct. 8, 1980, [94 Stat. 1635][/us/stat/94/1635], provided that:
+[Pub. L. 96–399, title II][/us/pl/96/399/tII], § 209, Oct. 8, 1980, [94 Stat. 1635][/us/stat/94/1635], provided that:
 
 >     “(a) This section may be cited as the ‘Public Housing Anti-Crime Amendments of 1980’.
 
@@ -155,7 +155,7 @@
 
 >     .”
 
-[Pub. L. 95–557, title II, § 207][/us/pl/95/557/s207], Oct. 31, 1978, [92 Stat. 2093][/us/stat/92/2093], as amended by [Pub. L. 96–399, title II, § 209(d)][/us/pl/96/399/s209/d], Oct. 8, 1980, [94 Stat. 1635][/us/stat/94/1635]; [Pub. L. 98–479, title II, § 201(i)][/us/pl/98/479/s201/i], Oct. 17, 1984, [98 Stat. 2228][/us/stat/98/2228]; [Pub. L. 103–82, title IV, § 405(c)][/us/pl/103/82/s405/c], Sept. 21, 1993, [107 Stat. 921][/us/stat/107/921], provided that:
+[Pub. L. 95–557, title II][/us/pl/95/557/tII], § 207, Oct. 31, 1978, [92 Stat. 2093][/us/stat/92/2093], as amended by [Pub. L. 96–399, title II][/us/pl/96/399/tII], § 209(d), Oct. 8, 1980, [94 Stat. 1635][/us/stat/94/1635]; [Pub. L. 98–479, title II][/us/pl/98/479/tII], § 201(i), Oct. 17, 1984, [98 Stat. 2228][/us/stat/98/2228]; [Pub. L. 103–82, title IV][/us/pl/103/82/tIV], § 405(c), Sept. 21, 1993, [107 Stat. 921][/us/stat/107/921], provided that:
 
 >     “(a) This section may be cited as the ‘Public Housing Security Demonstration Act of 1978’.
 
@@ -207,46 +207,46 @@
 ----------
 
 [/us/usc/t12/s1701z–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701z%E2%80%931
-[/us/pl/91/609/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F609%2Fs507
-[/us/pl/93/383/s815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs815
+[/us/pl/91/609/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F609%2FtV
+[/us/pl/93/383/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtVIII
 [/us/stat/88/738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F738
-[/us/pl/101/625/s518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs518
+[/us/pl/101/625/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtV
 [/us/stat/104/4201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4201
-[/us/pl/102/550/s124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs124
+[/us/pl/102/550/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtI
 [/us/stat/106/3709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3709
-[/us/pl/104/330/s501/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs501%2Fd%2F1
+[/us/pl/104/330/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2FtV
 [/us/stat/110/4042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4042
 [/us/pl/98/181/s222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs222
-[/us/pl/105/276/s582/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs582%2Fa%2F7
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2643
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1191
 [/us/usc/t42/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs601
 [/us/usc/t42/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs601
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/usc/t42/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs601
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1188
-[/us/pl/100/242/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs117
+[/us/pl/100/242/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtI
 [/us/stat/101/1826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1826
-[/us/pl/100/628/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs1002
+[/us/pl/100/628/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2FtX
 [/us/stat/102/3263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3263
-[/us/pl/101/625/s517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs517
+[/us/pl/101/625/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtV
 [/us/stat/104/4200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4200
-[/us/pl/102/550/s123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs123
+[/us/pl/102/550/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtI
 [/us/stat/106/3709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3709
-[/us/pl/105/276/s582/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs582%2Fa%2F6
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2643
-[/us/pl/96/399/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs209
+[/us/pl/96/399/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2FtII
 [/us/stat/94/1635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1635
 [/us/pl/95/557/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2Fs207
-[/us/pl/95/557/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2Fs207
+[/us/pl/95/557/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2FtII
 [/us/stat/92/2093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2093
-[/us/pl/96/399/s209/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs209%2Fd
+[/us/pl/96/399/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2FtII
 [/us/stat/94/1635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1635
-[/us/pl/98/479/s201/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2Fs201%2Fi
+[/us/pl/98/479/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2FtII
 [/us/stat/98/2228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2228
-[/us/pl/103/82/s405/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs405%2Fc
+[/us/pl/103/82/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtIV
 [/us/stat/107/921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F921
 [/us/usc/t42/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f

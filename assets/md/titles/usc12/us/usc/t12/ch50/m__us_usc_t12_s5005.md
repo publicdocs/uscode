@@ -71,7 +71,7 @@
 
             Each indemnified party shall have a duty to comply with all reasonable requests for assistance from an indemnifying bank in connection with any claim the indemnifying bank brings against a warrantor or other party related to a check that forms the basis for the indemnification.
 
-([Pub. L. 108–100, § 6][/us/pl/108/100/s6], Oct. 28, 2003, [117 Stat. 1181][/us/stat/117/1181].)
+([Pub. L. 108–100][/us/pl/108/100], § 6, Oct. 28, 2003, [117 Stat. 1181][/us/stat/117/1181].)
 
  __References in Text__ 
 
@@ -86,7 +86,7 @@
 
 [/us/usc/t12/s5004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5004
 [/us/usc/t12/s5004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5004
-[/us/pl/108/100/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F100%2Fs6
+[/us/pl/108/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F100
 [/us/stat/117/1181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1181
 [/us/pl/108/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F100
 [/us/stat/117/1177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1177

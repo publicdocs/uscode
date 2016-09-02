@@ -57,7 +57,7 @@
 
             There are authorized to be appropriated such sums as are necessary to carry out the education and outreach campaign described under paragraph (1).
 
-([Pub. L. 110–289, div. B, title IX, § 2902][/us/pl/110/289/s2902], July 30, 2008, [122 Stat. 2876][/us/stat/122/2876].)
+([Pub. L. 110–289, div. B, title IX][/us/pl/110/289/dB/tIX], § 2902, July 30, 2008, [122 Stat. 2876][/us/stat/122/2876].)
 
  __Codification__ 
 
@@ -71,7 +71,7 @@
 ----------
 
 [/us/usc/t42/s12704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12704
-[/us/pl/110/289/s2902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs2902
+[/us/pl/110/289/dB/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdB%2FtIX
 [/us/stat/122/2876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2876
 
 

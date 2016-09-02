@@ -69,7 +69,7 @@
 
         (6) making payments pursuant to subsections (b)(4), (d)(4), and (h)(5)(E) of [section 5390 of this title][/us/usc/t12/s5390].
 
-([Pub. L. 111–203, title II, § 204][/us/pl/111/203/s204], July 21, 2010, [124 Stat. 1454][/us/stat/124/1454]; [Pub. L. 114–113, div. O, title VII, § 706(b)(2)][/us/pl/114/113/s706/b/2], Dec. 18, 2015, [129 Stat. 3029][/us/stat/129/3029].)
+([Pub. L. 111–203, title II][/us/pl/111/203/tII], § 204, July 21, 2010, [124 Stat. 1454][/us/stat/124/1454]; [Pub. L. 114–113, div. O, title VII][/us/pl/114/113/dO/tVII], § 706(b)(2), Dec. 18, 2015, [129 Stat. 3029][/us/stat/129/3029].)
 
  __References in Text__ 
 
@@ -92,9 +92,9 @@
 [/us/usc/t12/s5390/n/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5390%2Fn%2F9
 [/us/usc/t12/s5390/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5390%2Fb%2F1
 [/us/usc/t12/s5390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5390
-[/us/pl/111/203/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs204
+[/us/pl/111/203/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtII
 [/us/stat/124/1454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1454
-[/us/pl/114/113/s706/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs706%2Fb%2F2
+[/us/pl/114/113/dO/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdO%2FtVII
 [/us/stat/129/3029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3029
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1442

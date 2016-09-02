@@ -17,7 +17,7 @@
 
     The Attorney General may promulgate any rules, regulations, or guidelines that, in the Attorney General’s judgment, are necessary and appropriate to the effective administration of this subchapter.
 
-([Pub. L. 101–647, title XXV, § 2585][/us/pl/101/647/s2585], Nov. 29, 1990, [104 Stat. 4903][/us/stat/104/4903].)
+([Pub. L. 101–647, title XXV][/us/pl/101/647/tXXV], § 2585, Nov. 29, 1990, [104 Stat. 4903][/us/stat/104/4903].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/101/647/s2585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2585
+[/us/pl/101/647/tXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXV
 [/us/stat/104/4903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4903
 
 

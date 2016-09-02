@@ -73,7 +73,7 @@
 
         No funds under this chapter may be used in conjunction with property taken by eminent domain, unless eminent domain is employed only for a public use, except that, for purposes of this section, public use shall not be construed to include economic development that primarily benefits any private entity.
 
-([Pub. L. 102–550, title XIII, § 1337][/us/pl/102/550/s1337], as added [Pub. L. 110–289, div. A, title I, § 1131(b)][/us/pl/110/289/s1131/b], July 30, 2008, [122 Stat. 2711][/us/stat/122/2711].)
+([Pub. L. 102–550, title XIII][/us/pl/102/550/tXIII], § 1337, as added [Pub. L. 110–289, div. A, title I][/us/pl/110/289/dA/tI], § 1131(b), July 30, 2008, [122 Stat. 2711][/us/stat/122/2711].)
 
  __References in Text__ 
 
@@ -81,7 +81,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 4567, [Pub. L. 102–550, title XIII, § 1337][/us/pl/102/550/s1337], Oct. 28, 1992, [106 Stat. 3964][/us/stat/106/3964], related to reports during transition, prior to repeal by [Pub. L. 110–289, div. A, title I, § 1131(a)][/us/pl/110/289/s1131/a], July 30, 2008, [122 Stat. 2711][/us/stat/122/2711].
+    A prior section 4567, [Pub. L. 102–550, title XIII][/us/pl/102/550/tXIII], § 1337, Oct. 28, 1992, [106 Stat. 3964][/us/stat/106/3964], related to reports during transition, prior to repeal by [Pub. L. 110–289, div. A, title I][/us/pl/110/289/dA/tI], § 1131(a), July 30, 2008, [122 Stat. 2711][/us/stat/122/2711].
 
 ----------
 
@@ -95,15 +95,15 @@
 [/us/usc/t12/s4568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4568
 [/us/usc/t12/s4569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4569
 [/us/usc/t12/s4622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4622
-[/us/pl/102/550/s1337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1337
-[/us/pl/110/289/s1131/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1131%2Fb
+[/us/pl/102/550/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIII
+[/us/pl/110/289/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtI
 [/us/stat/122/2711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2711
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/stat/106/3941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3941
 [/us/usc/t12/s4501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4501
-[/us/pl/102/550/s1337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1337
+[/us/pl/102/550/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIII
 [/us/stat/106/3964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3964
-[/us/pl/110/289/s1131/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1131%2Fa
+[/us/pl/110/289/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtI
 [/us/stat/122/2711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2711
 
 

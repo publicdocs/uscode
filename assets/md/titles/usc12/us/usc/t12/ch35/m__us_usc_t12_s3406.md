@@ -31,7 +31,7 @@
 
         “Records or information concerning your transactions held by the financial institution named in the attached search warrant were obtained by this (agency or department) on (date). Notification was delayed beyond the statutory ninety-day delay period pursuant to a determination by the court that such notice would seriously jeopardize an investigation concerning         . You may have rights under the Right to Financial Privacy Act of 1978 \[[12 U.S.C. 3401][/us/usc/t12/s3401] et seq.\].”.
 
-([Pub. L. 95–630, title XI, § 1106][/us/pl/95/630/s1106], Nov. 10, 1978, [92 Stat. 3700][/us/stat/92/3700].)
+([Pub. L. 95–630, title XI][/us/pl/95/630/tXI], § 1106, Nov. 10, 1978, [92 Stat. 3700][/us/stat/92/3700].)
 
  __References in Text__ 
 
@@ -50,7 +50,7 @@
 [/us/usc/t12/s3401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3401
 [/us/usc/t12/s3409/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3409%2Fa
 [/us/usc/t12/s3401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3401
-[/us/pl/95/630/s1106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs1106
+[/us/pl/95/630/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtXI
 [/us/stat/92/3700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3700
 [/us/pl/95/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630
 [/us/stat/92/3697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3697

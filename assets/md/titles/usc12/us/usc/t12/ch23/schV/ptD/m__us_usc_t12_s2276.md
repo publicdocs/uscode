@@ -17,7 +17,7 @@
 
     On and after December 19, 1985, the Comptroller General or his duly authorized representatives shall have access to and the right to examine all books, documents, papers, records, or other recorded information within the possession or control of the Federal land banks and Federal land bank associations, Federal intermediate credit banks and production credit associations and banks for cooperatives.
 
-([Pub. L. 99–190, § 107][/us/pl/99/190/s107], Dec. 19, 1985, [99 Stat. 1316][/us/stat/99/1316].)
+([Pub. L. 99–190][/us/pl/99/190], § 107, Dec. 19, 1985, [99 Stat. 1316][/us/stat/99/1316].)
 
  __Codification__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/99/190/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F190%2Fs107
+[/us/pl/99/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F190
 [/us/stat/99/1316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1316
 [/us/usc/t12/s2275/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2275%2Fa
 [/us/usc/t12/s2275/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2275%2Fb

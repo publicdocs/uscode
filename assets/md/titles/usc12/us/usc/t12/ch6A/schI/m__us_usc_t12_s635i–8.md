@@ -57,7 +57,7 @@
 
         The authority provided by subsection (a) may be exercised only in such amounts or to such extent as is provided in advance in appropriations Acts.
 
-([July 31, 1945, ch. 341, § 14][/us/act/1945-07-31/ch341/s14], formerly § 11, as added [Pub. L. 103–87, title V, § 570(b)][/us/pl/103/87/s570/b], Sept. 30, 1993, [107 Stat. 970][/us/stat/107/970]; renumbered § 14, [Pub. L. 103–428, § 2(b)][/us/pl/103/428/s2/b], Oct. 31, 1994, [108 Stat. 4376][/us/stat/108/4376]; [Pub. L. 107–189, § 24(b)(6)][/us/pl/107/189/s24/b/6], June 14, 2002, [116 Stat. 709][/us/stat/116/709].)
+([July 31, 1945, ch. 341][/us/act/1945-07-31/ch341], § 14, formerly § 11, as added [Pub. L. 103–87, title V][/us/pl/103/87/tV], § 570(b), Sept. 30, 1993, [107 Stat. 970][/us/stat/107/970]; renumbered § 14, [Pub. L. 103–428][/us/pl/103/428], § 2(b), Oct. 31, 1994, [108 Stat. 4376][/us/stat/108/4376]; [Pub. L. 107–189][/us/pl/107/189], § 24(b)(6), June 14, 2002, [116 Stat. 709][/us/stat/116/709].)
 
  __Amendments__ 
 
@@ -86,12 +86,12 @@ By the authority vested in me as President by the Constitution and the laws of t
 ----------
 ----------
 
-[/us/act/1945-07-31/ch341/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch341%2Fs14
-[/us/pl/103/87/s570/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F87%2Fs570%2Fb
+[/us/act/1945-07-31/ch341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch341
+[/us/pl/103/87/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F87%2FtV
 [/us/stat/107/970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F970
-[/us/pl/103/428/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F428%2Fs2%2Fb
+[/us/pl/103/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F428
 [/us/stat/108/4376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4376
-[/us/pl/107/189/s24/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F189%2Fs24%2Fb%2F6
+[/us/pl/107/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F189
 [/us/stat/116/709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F709
 [/us/pl/107/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F189
 [/us/pl/103/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F87

@@ -27,7 +27,7 @@
 
     (5) To sell or otherwise dispose of any interest in property leased or acquired under the foregoing if authorized by the Board.    The Board may require of the respective banks of the System, and they shall make to the Farm Credit Administration, such advances of funds for the purposes set out in this section as in the sole judgment of the Board may from time to time be advisable for the purposes of this section. Such advances shall be in addition to and kept in a separate fund from the assessments authorized in [section 2250 of this title][/us/usc/t12/s2250] and shall be apportioned by the Board among the banks in proportion to the total assets of the respective banks, and determined in such manner and at such times as the Board may prescribe. The powers of the banks of the System and purposes for which obligations may be issued by such banks are hereby enlarged to include the purpose of obtaining funds to permit the making of advances required by this section. The plans and decisions for such building and facilities and for the enlargement, remodeling, or reconstruction thereof shall be such as is approved in the sole discretion of the Board. In actions undertaken by the banks pursuant to the foregoing provisions of this section, the Farm Credit Administration may act as agent for the banks.
 
-([Pub. L. 92–181, title V, § 5][/us/pl/92/181/s5].16, formerly § 5.17, Dec. 10, 1971, [85 Stat. 621][/us/stat/85/621]; [Pub. L. 96–592, title V, § 506][/us/pl/96/592/s506], Dec. 24, 1980, [94 Stat. 3449][/us/stat/94/3449]; renumbered § 5.16 and amended [Pub. L. 99–205, title II, § 201(6)][/us/pl/99/205/s201/6], Dec. 23, 1985, [99 Stat. 1690][/us/stat/99/1690]; [Pub. L. 100–233, title VIII, § 805(y)][/us/pl/100/233/s805/y], Jan. 6, 1988, [101 Stat. 1717][/us/stat/101/1717]; [Pub. L. 100–399, title IX, § 901][/us/pl/100/399/s901](l), Aug. 17, 1988, [102 Stat. 1008][/us/stat/102/1008].)
+([Pub. L. 92–181, title V][/us/pl/92/181/tV], § 5.16, formerly § 5.17, Dec. 10, 1971, [85 Stat. 621][/us/stat/85/621]; [Pub. L. 96–592, title V][/us/pl/96/592/tV], § 506, Dec. 24, 1980, [94 Stat. 3449][/us/stat/94/3449]; renumbered § 5.16 and amended [Pub. L. 99–205, title II][/us/pl/99/205/tII], § 201(6), Dec. 23, 1985, [99 Stat. 1690][/us/stat/99/1690]; [Pub. L. 100–233, title VIII][/us/pl/100/233/tVIII], § 805(y), Jan. 6, 1988, [101 Stat. 1717][/us/stat/101/1717]; [Pub. L. 100–399, title IX][/us/pl/100/399/tIX], § 901(l), Aug. 17, 1988, [102 Stat. 1008][/us/stat/102/1008].)
 
  __Prior Provisions__ 
 
@@ -39,7 +39,7 @@
 
     [Pub. L. 100–233][/us/pl/100/233] transferred undesignated provisions following par. (4) consisting of four sentences relating to advances of funds for purposes set out in this section as in the sole judgment of the Board may from time to time be advisable for purposes of this section, to a position immediately before last sentence of this section which provides for agency status of Administration for the banks.
 
-    1985—[Pub. L. 99–205, § 201(6)(A)][/us/pl/99/205/s201/6/A]–(C), made technical amendments to the references to sections 2249 and 2250 of this title in first and third sentences to reflect the renumbering of the corresponding sections of the original act, and struck out “Federal Farm Credit” before “Board” in par. (2) of first sentence.
+    1985—[Pub. L. 99–205][/us/pl/99/205], § 201(6)(A)–(C), made technical amendments to the references to sections 2249 and 2250 of this title in first and third sentences to reflect the renumbering of the corresponding sections of the original act, and struck out “Federal Farm Credit” before “Board” in par. (2) of first sentence.
 
     1980—[Pub. L. 96–592][/us/pl/96/592] added par. (5) and provisions respecting agency status of Administration for the banks.
 
@@ -60,21 +60,21 @@
 
 [/us/usc/t12/s2249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2249
 [/us/usc/t12/s2250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2250
-[/us/pl/92/181/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs5
+[/us/pl/92/181/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtV
 [/us/stat/85/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F621
-[/us/pl/96/592/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592%2Fs506
+[/us/pl/96/592/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592%2FtV
 [/us/stat/94/3449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3449
-[/us/pl/99/205/s201/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2Fs201%2F6
+[/us/pl/99/205/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2FtII
 [/us/stat/99/1690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1690
-[/us/pl/100/233/s805/y]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs805%2Fy
+[/us/pl/100/233/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtVIII
 [/us/stat/101/1717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1717
-[/us/pl/100/399/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs901
+[/us/pl/100/399/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtIX
 [/us/stat/102/1008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1008
 [/us/pl/92/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181
 [/us/usc/t12/s2250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2250
 [/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
-[/us/pl/99/205/s201/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2Fs201%2F6%2FA
+[/us/pl/99/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205
 [/us/pl/96/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592
 [/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/100/233/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs401

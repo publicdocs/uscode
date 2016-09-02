@@ -17,7 +17,7 @@
 
     It is not the purpose of this chapter to discriminate in any manner against State nonmember banks or State savings associations and in favor of national or member banks or Federal savings associations, respectively. It is the purpose of this chapter to provide all banks and savings associations with the same opportunity to obtain and enjoy the benefits of this chapter.
 
-([Sept. 21, 1950, ch. 967, § 2][/us/act/1950-09-21/ch967/s2]\[22\], formerly § 2\[20\], [64 Stat. 893][/us/stat/64/893]; renumbered § 2\[21\], [Pub. L. 90–203, § 3][/us/pl/90/203/s3], Dec. 15, 1967, [81 Stat. 610][/us/stat/81/610]; renumbered § 2\[22\], [Pub. L. 91–508, title I, § 101][/us/pl/91/508/s101], Oct. 26, 1970, [84 Stat. 1114][/us/stat/84/1114]; amended [Pub. L. 101–73, title II, § 223][/us/pl/101/73/s223], Aug. 9, 1989, [103 Stat. 273][/us/stat/103/273].)
+([Sept. 21, 1950, ch. 967][/us/act/1950-09-21/ch967], § 2\[22\], formerly § 2\[20\], [64 Stat. 893][/us/stat/64/893]; renumbered § 2\[21\], [Pub. L. 90–203][/us/pl/90/203], § 3, Dec. 15, 1967, [81 Stat. 610][/us/stat/81/610]; renumbered § 2\[22\], [Pub. L. 91–508, title I][/us/pl/91/508/tI], § 101, Oct. 26, 1970, [84 Stat. 1114][/us/stat/84/1114]; amended [Pub. L. 101–73, title II][/us/pl/101/73/tII], § 223, Aug. 9, 1989, [103 Stat. 273][/us/stat/103/273].)
 
  __Prior Provisions__ 
 
@@ -34,13 +34,13 @@
 ----------
 ----------
 
-[/us/act/1950-09-21/ch967/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967%2Fs2
+[/us/act/1950-09-21/ch967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967
 [/us/stat/64/893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F893
-[/us/pl/90/203/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F203%2Fs3
+[/us/pl/90/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F203
 [/us/stat/81/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F610
-[/us/pl/91/508/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508%2Fs101
+[/us/pl/91/508/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508%2FtI
 [/us/stat/84/1114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1114
-[/us/pl/101/73/s223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs223
+[/us/pl/101/73/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtII
 [/us/stat/103/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F273
 [/us/usc/t12/s264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs264
 [/us/usc/t12/s1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1811

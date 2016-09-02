@@ -37,11 +37,11 @@
 
         For purposes of this section, funds or assets acquired by the United States shall not include any funds or assets acquired by any appropriate Federal banking agency acting in any capacity or the Resolution Trust Corporation acting in any capacity, except for any civil money penalties recovered by a Federal banking agency through a final judgement, order, or settlement.
 
-([Pub. L. 101–647, title XXV, § 2580][/us/pl/101/647/s2580], Nov. 29, 1990, [104 Stat. 4901][/us/stat/104/4901].)
+([Pub. L. 101–647, title XXV][/us/pl/101/647/tXXV], § 2580, Nov. 29, 1990, [104 Stat. 4901][/us/stat/104/4901].)
 
  __References in Text__ 
 
-    [Section 3509A of title 18][/us/usc/t18/s3509A], referred to in subsec. (d)(1), probably is a reference to former [section 3059A of title 18][/us/usc/t18/s3059A], which was repealed by [Pub. L. 107–273, div. A, title III, § 301(c)(2)][/us/pl/107/273/s301/c/2], Nov. 2, 2002, [116 Stat. 1781][/us/stat/116/1781].
+    [Section 3509A of title 18][/us/usc/t18/s3509A], referred to in subsec. (d)(1), probably is a reference to former [section 3059A of title 18][/us/usc/t18/s3059A], which was repealed by [Pub. L. 107–273, div. A, title III][/us/pl/107/273/dA/tIII], § 301(c)(2), Nov. 2, 2002, [116 Stat. 1781][/us/stat/116/1781].
 
 ----------
 
@@ -53,11 +53,11 @@
 [/us/usc/t12/s4221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4221
 [/us/usc/t12/s1831k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1831k
 [/us/usc/t12/s1831k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1831k
-[/us/pl/101/647/s2580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2580
+[/us/pl/101/647/tXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXV
 [/us/stat/104/4901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4901
 [/us/usc/t18/s3509A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3509A
 [/us/usc/t18/s3059A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3059A
-[/us/pl/107/273/s301/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs301%2Fc%2F2
+[/us/pl/107/273/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdA%2FtIII
 [/us/stat/116/1781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1781
 
 

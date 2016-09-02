@@ -61,7 +61,7 @@
 
                 In approving courses under this section, the Nationwide Mortgage Licensing System and Registry shall apply reasonable standards in the review and approval of courses.
 
-([Pub. L. 110–289, div. A, title V, § 1506][/us/pl/110/289/s1506], July 30, 2008, [122 Stat. 2816][/us/stat/122/2816].)
+([Pub. L. 110–289, div. A, title V][/us/pl/110/289/dA/tV], § 1506, July 30, 2008, [122 Stat. 2816][/us/stat/122/2816].)
 
 ----------
 
@@ -70,7 +70,7 @@
 ----------
 ----------
 
-[/us/pl/110/289/s1506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1506
+[/us/pl/110/289/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtV
 [/us/stat/122/2816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2816
 
 

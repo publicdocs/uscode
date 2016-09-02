@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch2/schII/m__us_usc_t12_s51c.md) | [Next](./../../../../..//us/usc/t12/ch2/schII/m__us_usc_t12_s53.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs52)
+[Previous](./../../../../..//us/usc/t12/ch2/schII/m__us_usc_t12_s51d...51f.md) | [Next](./../../../../..//us/usc/t12/ch2/schII/m__us_usc_t12_s53.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs52)
 
 ## § 52. Par value and incidents of stock; transfer of shares
 
@@ -21,11 +21,11 @@
 
     After August 23, 1935, no certificate evidencing the stock of any such association shall bear any statement purporting to represent the stock of any other corporation, except a member bank or a corporation engaged on June 16, 1934, in holding the bank premises of such association, nor shall the ownership, sale, or transfer of any certificate representing the stock of any such association be conditioned in any manner whatsoever upon the ownership, sale, or transfer of a certificate representing the stock of any other corporation, except a member bank or a corporation engaged on June 16, 1934 in holding the bank premises of such association: Provided, That this section shall not operate to prevent the ownership, sale, or transfer of stock of any other corporation being conditioned upon the ownership, sale, or transfer of a certificate representing stock of a national banking association.
 
-(R.S. § 5139; [Feb. 25, 1927, ch. 191, § 16][/us/act/1927-02-25/ch191/s16], [44 Stat. 1233][/us/stat/44/1233]; [June 16, 1933, ch. 89, § 18][/us/act/1933-06-16/ch89/s18], [48 Stat. 186][/us/stat/48/186]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title III, §§ 310(a), 335, [49 Stat. 710][/us/stat/49/710], 720.)
+(R.S. § 5139; [Feb. 25, 1927, ch. 191][/us/act/1927-02-25/ch191], § 16, [44 Stat. 1233][/us/stat/44/1233]; [June 16, 1933, ch. 89][/us/act/1933-06-16/ch89], § 18, [48 Stat. 186][/us/stat/48/186]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title III, §§ 310(a), 335, [49 Stat. 710][/us/stat/49/710], 720.)
 
  __Codification__ 
 
-    R.S. § 5139 derived from [act June 3, 1864, ch. 106, § 12][/us/act/1864-06-03/ch106/s12], [13 Stat. 102][/us/stat/13/102], which was the National Bank Act. See [section 38 of this title][/us/usc/t12/s38].
+    R.S. § 5139 derived from [act June 3, 1864, ch. 106][/us/act/1864-06-03/ch106], § 12, [13 Stat. 102][/us/stat/13/102], which was the National Bank Act. See [section 38 of this title][/us/usc/t12/s38].
 
  __Amendments__ 
 
@@ -39,18 +39,18 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch2/schII/m__us_usc_t12_s51c.md) | [Next](./../../../../..//us/usc/t12/ch2/schII/m__us_usc_t12_s53.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs52)
+[Previous](./../../../../..//us/usc/t12/ch2/schII/m__us_usc_t12_s51d...51f.md) | [Next](./../../../../..//us/usc/t12/ch2/schII/m__us_usc_t12_s53.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs52)
 
 ----------
 ----------
 
-[/us/act/1927-02-25/ch191/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-25%2Fch191%2Fs16
+[/us/act/1927-02-25/ch191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-25%2Fch191
 [/us/stat/44/1233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1233
-[/us/act/1933-06-16/ch89/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-16%2Fch89%2Fs18
+[/us/act/1933-06-16/ch89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-16%2Fch89
 [/us/stat/48/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F186
 [/us/act/1935-08-23/ch614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch614
 [/us/stat/49/710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F710
-[/us/act/1864-06-03/ch106/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-06-03%2Fch106%2Fs12
+[/us/act/1864-06-03/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-06-03%2Fch106
 [/us/stat/13/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F13%2F102
 [/us/usc/t12/s38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs38
 

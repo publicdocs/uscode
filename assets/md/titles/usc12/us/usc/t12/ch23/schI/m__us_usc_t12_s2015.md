@@ -81,7 +81,7 @@
 
             Nothing in this section shall require termination of discount relationships in existence on December 24, 1980.
 
-([Pub. L. 92–181, title I, § 1][/us/pl/92/181/s1].7, as added [Pub. L. 100–233, title IV, § 401][/us/pl/100/233/s401], Jan. 6, 1988, [101 Stat. 1625][/us/stat/101/1625]; amended [Pub. L. 100–399, title IV, § 401(e)][/us/pl/100/399/s401/e], (f), Aug. 17, 1988, [102 Stat. 995][/us/stat/102/995], 996.)
+([Pub. L. 92–181, title I][/us/pl/92/181/tI], § 1.7, as added [Pub. L. 100–233, title IV][/us/pl/100/233/tIV], § 401, Jan. 6, 1988, [101 Stat. 1625][/us/stat/101/1625]; amended [Pub. L. 100–399, title IV][/us/pl/100/399/tIV], § 401(e), (f), Aug. 17, 1988, [102 Stat. 995][/us/stat/102/995], 996.)
 
  __Codification__ 
 
@@ -89,17 +89,17 @@
 
  __Prior Provisions__ 
 
-    A prior section 2015, [Pub. L. 92–181, title I, § 1][/us/pl/92/181/s1].7, Dec. 10, 1971, [85 Stat. 585][/us/stat/85/585]; [Pub. L. 96–592, title I, § 104][/us/pl/96/592/s104], Dec. 24, 1980, [94 Stat. 3438][/us/stat/94/3438]; [Pub. L. 99–509, title I, § 1033(a)][/us/pl/99/509/s1033/a], Oct. 21, 1986, [100 Stat. 1877][/us/stat/100/1877], related to interest rates and other charges, prior to the general amendment of this subchapter by [Pub. L. 100–233, § 401][/us/pl/100/233/s401].
+    A prior section 2015, [Pub. L. 92–181, title I][/us/pl/92/181/tI], § 1.7, Dec. 10, 1971, [85 Stat. 585][/us/stat/85/585]; [Pub. L. 96–592, title I][/us/pl/96/592/tI], § 104, Dec. 24, 1980, [94 Stat. 3438][/us/stat/94/3438]; [Pub. L. 99–509, title I][/us/pl/99/509/tI], § 1033(a), Oct. 21, 1986, [100 Stat. 1877][/us/stat/100/1877], related to interest rates and other charges, prior to the general amendment of this subchapter by [Pub. L. 100–233][/us/pl/100/233], § 401.
 
  __Amendments__ 
 
-    1988—Subsec. (a). [Pub. L. 100–399, § 401(e)][/us/pl/100/399/s401/e], inserted in heading “and related assistance” and amended text generally. Prior to amendment, text read as follows: “The Farm Credit Banks are authorized to make or participate with other lenders in long-term real estate mortgage loans in rural areas, as defined by the Farm Credit Administration, or to producers or harvesters of aquatic products, and make continuing commitments to make such loans under specified circumstances, for a term of not less than 5 nor more than 40 years.”
+    1988—Subsec. (a). [Pub. L. 100–399][/us/pl/100/399], § 401(e), inserted in heading “and related assistance” and amended text generally. Prior to amendment, text read as follows: “The Farm Credit Banks are authorized to make or participate with other lenders in long-term real estate mortgage loans in rural areas, as defined by the Farm Credit Administration, or to producers or harvesters of aquatic products, and make continuing commitments to make such loans under specified circumstances, for a term of not less than 5 nor more than 40 years.”
 
-    Subsec. (b)(2). [Pub. L. 100–399, § 401(f)(1)][/us/pl/100/399/s401/f/1], struck out provision that banks may own and lease or lease with an option to purchase to persons eligible for assistance under this subchapter, equipment needed in the operations of such persons.
+    Subsec. (b)(2). [Pub. L. 100–399][/us/pl/100/399], § 401(f)(1), struck out provision that banks may own and lease or lease with an option to purchase to persons eligible for assistance under this subchapter, equipment needed in the operations of such persons.
 
-    Subsec. (b)(3). [Pub. L. 100–399, § 401(f)(2)][/us/pl/100/399/s401/f/2], substituted in heading “services” for “assistance” and in subpar. (B) “described in subparagraph (A)” for “herein contained”.
+    Subsec. (b)(3). [Pub. L. 100–399][/us/pl/100/399], § 401(f)(2), substituted in heading “services” for “assistance” and in subpar. (B) “described in subparagraph (A)” for “herein contained”.
 
-    Subsec. (b)(4)(A). [Pub. L. 100–399, § 401(f)(3)][/us/pl/100/399/s401/f/3], substituted “subsection” for “section”.
+    Subsec. (b)(4)(A). [Pub. L. 100–399][/us/pl/100/399], § 401(f)(3), substituted “subsection” for “section”.
 
  __Effective Date of 1988 Amendment__ 
 
@@ -114,22 +114,22 @@
 
 [/us/usc/t12/s2279b/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2279b%2Fa
 [/us/usc/t12/s2206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2206
-[/us/pl/92/181/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs1
-[/us/pl/100/233/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs401
+[/us/pl/92/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtI
+[/us/pl/100/233/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtIV
 [/us/stat/101/1625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1625
-[/us/pl/100/399/s401/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs401%2Fe
+[/us/pl/100/399/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtIV
 [/us/stat/102/995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F995
-[/us/pl/92/181/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs1
+[/us/pl/92/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtI
 [/us/stat/85/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F585
-[/us/pl/96/592/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592%2Fs104
+[/us/pl/96/592/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F592%2FtI
 [/us/stat/94/3438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3438
-[/us/pl/99/509/s1033/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs1033%2Fa
+[/us/pl/99/509/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtI
 [/us/stat/100/1877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1877
-[/us/pl/100/233/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs401
-[/us/pl/100/399/s401/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs401%2Fe
-[/us/pl/100/399/s401/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs401%2Ff%2F1
-[/us/pl/100/399/s401/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs401%2Ff%2F2
-[/us/pl/100/399/s401/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs401%2Ff%2F3
+[/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/100/233/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs401
 [/us/pl/100/399/s1001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs1001%2Fb

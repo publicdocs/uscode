@@ -17,7 +17,7 @@
 
     Nothing in this chapter shall be construed as impairing any authority or responsibility of the President or the Secretary of the Treasury under any other provision of law, nor shall anything in this chapter affect in any manner any provision of law concerning the right of any Federal agency to sell obligations to the Secretary of the Treasury or the authority or responsibility of the Secretary of the Treasury to purchase such obligations.
 
-([Pub. L. 93–224, § 17][/us/pl/93/224/s17], Dec. 29, 1973, [87 Stat. 942][/us/stat/87/942].)
+([Pub. L. 93–224][/us/pl/93/224], § 17, Dec. 29, 1973, [87 Stat. 942][/us/stat/87/942].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/93/224/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F224%2Fs17
+[/us/pl/93/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F224
 [/us/stat/87/942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F942
 
 

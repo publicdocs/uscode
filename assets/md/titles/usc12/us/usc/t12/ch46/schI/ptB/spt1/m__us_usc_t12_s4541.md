@@ -103,11 +103,11 @@
 
         (2) the authority of the Director to review all new and existing products or activities to determine that such products or activities are consistent with the statutory mission of an enterprise.
 
-([Pub. L. 102–550, title XIII, § 1321][/us/pl/102/550/s1321], as added [Pub. L. 110–289, div. A, title I, § 1123][/us/pl/110/289/s1123], July 30, 2008, [122 Stat. 2689][/us/stat/122/2689].)
+([Pub. L. 102–550, title XIII][/us/pl/102/550/tXIII], § 1321, as added [Pub. L. 110–289, div. A, title I][/us/pl/110/289/dA/tI], § 1123, July 30, 2008, [122 Stat. 2689][/us/stat/122/2689].)
 
  __Prior Provisions__ 
 
-    A prior section 4541, [Pub. L. 102–550, title XIII, § 1321][/us/pl/102/550/s1321], Oct. 28, 1992, [106 Stat. 3952][/us/stat/106/3952], related to the Secretary of Housing and Urban Development’s regulatory authority, prior to repeal by [Pub. L. 110–289, div. A, title I, § 1121(2)][/us/pl/110/289/s1121/2], July 30, 2008, [122 Stat. 2689][/us/stat/122/2689].
+    A prior section 4541, [Pub. L. 102–550, title XIII][/us/pl/102/550/tXIII], § 1321, Oct. 28, 1992, [106 Stat. 3952][/us/stat/106/3952], related to the Secretary of Housing and Urban Development’s regulatory authority, prior to repeal by [Pub. L. 110–289, div. A, title I][/us/pl/110/289/dA/tI], § 1121(2), July 30, 2008, [122 Stat. 2689][/us/stat/122/2689].
 
 ----------
 
@@ -118,12 +118,12 @@
 
 [/us/usc/t12/s1719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1719
 [/us/usc/t12/s1454/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1454%2Fa
-[/us/pl/102/550/s1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1321
-[/us/pl/110/289/s1123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1123
+[/us/pl/102/550/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIII
+[/us/pl/110/289/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtI
 [/us/stat/122/2689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2689
-[/us/pl/102/550/s1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1321
+[/us/pl/102/550/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIII
 [/us/stat/106/3952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3952
-[/us/pl/110/289/s1121/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1121%2F2
+[/us/pl/110/289/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtI
 [/us/stat/122/2689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2689
 
 

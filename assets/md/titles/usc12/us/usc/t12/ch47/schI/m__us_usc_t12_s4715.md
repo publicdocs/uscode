@@ -97,7 +97,7 @@
 
         The Fund and each appropriate Federal banking agency shall cooperate and respond to requests from each other and from other appropriate Federal banking agencies in a manner that ensures the safety and soundness of the insured community development financial institution or other institution that is examined by or subject to the reporting requirements of an appropriate Federal banking agency.
 
-([Pub. L. 103–325, title I, § 116][/us/pl/103/325/s116], Sept. 23, 1994, [108 Stat. 2185][/us/stat/108/2185].)
+([Pub. L. 103–325, title I][/us/pl/103/325/tI], § 116, Sept. 23, 1994, [108 Stat. 2185][/us/stat/108/2185].)
 
 ----------
 
@@ -107,7 +107,7 @@
 ----------
 
 [/us/usc/t12/s4707/f/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4707%2Ff%2F2%2FC
-[/us/pl/103/325/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs116
+[/us/pl/103/325/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtI
 [/us/stat/108/2185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2185
 
 

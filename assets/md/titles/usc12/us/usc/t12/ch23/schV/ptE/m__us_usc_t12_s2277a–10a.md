@@ -37,7 +37,7 @@
 
             If the proposed merger or restructuring involves an institution that fails to meet the minimum level for any capital requirement established by the Farm Credit Administration applicable to the institution, the Farm Credit Administration shall allow 30 days within which the Corporation may submit the views and recommendations of the Corporation, including any conditions for approval. In determining whether to approve or disapprove any proposed merger or restructuring, the Farm Credit Administration shall give due consideration to the views and recommendations of the Corporation.
 
-([Pub. L. 92–181, title V, § 5][/us/pl/92/181/s5].61A, as added [Pub. L. 104–105, title II, § 218][/us/pl/104/105/s218], Feb. 10, 1996, [110 Stat. 180][/us/stat/110/180].)
+([Pub. L. 92–181, title V][/us/pl/92/181/tV], § 5.61A, as added [Pub. L. 104–105, title II][/us/pl/104/105/tII], § 218, Feb. 10, 1996, [110 Stat. 180][/us/stat/110/180].)
 
 ----------
 
@@ -47,8 +47,8 @@
 ----------
 
 [/us/usc/t12/s2279b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2279b
-[/us/pl/92/181/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs5
-[/us/pl/104/105/s218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2Fs218
+[/us/pl/92/181/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtV
+[/us/pl/104/105/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2FtII
 [/us/stat/110/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F180
 
 

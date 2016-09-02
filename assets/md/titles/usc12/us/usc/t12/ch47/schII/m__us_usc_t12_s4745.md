@@ -211,7 +211,7 @@
 
             If the Fund determines that the inclusion in a participation agreement of the provisions authorized by this subsection is resulting in the enrollment of loans under the Program that are likely to have been made without assistance provided under this subchapter, the Fund may notify the participating State that henceforth, the Fund will only make reimbursements to the State under [section 4747 of this title][/us/usc/t12/s4747] with respect to a loan if the participation agreement between the participating State and each participating financial institution has been amended to conform with this section, without exercise of the special authority granted by this subsection.
 
-([Pub. L. 103–325, title II, § 255][/us/pl/103/325/s255], Sept. 23, 1994, [108 Stat. 2207][/us/stat/108/2207].)
+([Pub. L. 103–325, title II][/us/pl/103/325/tII], § 255, Sept. 23, 1994, [108 Stat. 2207][/us/stat/108/2207].)
 
 ----------
 
@@ -221,7 +221,7 @@
 ----------
 
 [/us/usc/t12/s4747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4747
-[/us/pl/103/325/s255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs255
+[/us/pl/103/325/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtII
 [/us/stat/108/2207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2207
 
 

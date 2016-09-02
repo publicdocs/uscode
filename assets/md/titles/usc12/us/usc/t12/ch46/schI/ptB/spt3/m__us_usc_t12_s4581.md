@@ -49,15 +49,15 @@
 
         An order under this section shall become effective upon the expiration of the 30-day period beginning on the date of service of the order upon the enterprise (except in the case of an order issued upon consent, which shall become effective at the time specified therein), and shall remain effective and enforceable as provided in the order, except to the extent that the order is stayed, modified, terminated, or set aside by action of the Director or otherwise, as provided in this subpart.
 
-([Pub. L. 102–550, title XIII, § 1341][/us/pl/102/550/s1341], as added [Pub. L. 110–289, div. A, title I, § 1130(c)(2)][/us/pl/110/289/s1130/c/2], July 30, 2008, [122 Stat. 2708][/us/stat/122/2708].)
+([Pub. L. 102–550, title XIII][/us/pl/102/550/tXIII], § 1341, as added [Pub. L. 110–289, div. A, title I][/us/pl/110/289/dA/tI], § 1130(c)(2), July 30, 2008, [122 Stat. 2708][/us/stat/122/2708].)
 
  __References in Text__ 
 
-    [Section 4547 of this title][/us/usc/t12/s4547], referred to in subsecs. (a)(1) and (b)(2)(A), was repealed by [Pub. L. 110–289, div. A, title I, § 1104(b)][/us/pl/110/289/s1104/b], July 30, 2008, [122 Stat. 2667][/us/stat/122/2667].
+    [Section 4547 of this title][/us/usc/t12/s4547], referred to in subsecs. (a)(1) and (b)(2)(A), was repealed by [Pub. L. 110–289, div. A, title I][/us/pl/110/289/dA/tI], § 1104(b), July 30, 2008, [122 Stat. 2667][/us/stat/122/2667].
 
  __Prior Provisions__ 
 
-    A prior section 4581, [Pub. L. 102–550, title XIII, § 1341][/us/pl/102/550/s1341], Oct. 28, 1992, [106 Stat. 3964][/us/stat/106/3964], related to cease-and-desist proceedings, prior to repeal by [Pub. L. 110–289, div. A, title I, § 1130(c)(1)][/us/pl/110/289/s1130/c/1], July 30, 2008, [122 Stat. 2708][/us/stat/122/2708].
+    A prior section 4581, [Pub. L. 102–550, title XIII][/us/pl/102/550/tXIII], § 1341, Oct. 28, 1992, [106 Stat. 3964][/us/stat/106/3964], related to cease-and-desist proceedings, prior to repeal by [Pub. L. 110–289, div. A, title I][/us/pl/110/289/dA/tI], § 1130(c)(1), July 30, 2008, [122 Stat. 2708][/us/stat/122/2708].
 
 ----------
 
@@ -75,15 +75,15 @@
 [/us/usc/t12/s4566/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4566%2Fc
 [/us/usc/t12/s1723a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1723a
 [/us/usc/t12/s1456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1456
-[/us/pl/102/550/s1341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1341
-[/us/pl/110/289/s1130/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1130%2Fc%2F2
+[/us/pl/102/550/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIII
+[/us/pl/110/289/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtI
 [/us/stat/122/2708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2708
 [/us/usc/t12/s4547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4547
-[/us/pl/110/289/s1104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1104%2Fb
+[/us/pl/110/289/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtI
 [/us/stat/122/2667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2667
-[/us/pl/102/550/s1341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1341
+[/us/pl/102/550/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIII
 [/us/stat/106/3964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3964
-[/us/pl/110/289/s1130/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1130%2Fc%2F1
+[/us/pl/110/289/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtI
 [/us/stat/122/2708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2708
 
 

@@ -119,7 +119,7 @@
 
             (C) key findings from the research and analysis of the financial system by the Office.
 
-([Pub. L. 111–203, title I, § 154][/us/pl/111/203/s154], July 21, 2010, [124 Stat. 1416][/us/stat/124/1416].)
+([Pub. L. 111–203, title I][/us/pl/111/203/tI], § 154, July 21, 2010, [124 Stat. 1416][/us/stat/124/1416].)
 
 ----------
 
@@ -129,7 +129,7 @@
 ----------
 
 [/us/usc/t12/s5343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5343
-[/us/pl/111/203/s154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs154
+[/us/pl/111/203/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtI
 [/us/stat/124/1416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1416
 
 

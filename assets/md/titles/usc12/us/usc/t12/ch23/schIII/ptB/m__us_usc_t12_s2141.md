@@ -27,7 +27,7 @@
 
         The consolidated bank shall be organized and operated on a cooperative basis.
 
-([Pub. L. 92–181, title III, § 3][/us/pl/92/181/s3].20, as added [Pub. L. 100–233, title IV, § 415(2)][/us/pl/100/233/s415/2], Jan. 6, 1988, [101 Stat. 1642][/us/stat/101/1642]; amended [Pub. L. 100–399, title IV, § 407(a)][/us/pl/100/399/s407/a], (b), Aug. 17, 1988, [102 Stat. 1000][/us/stat/102/1000].)
+([Pub. L. 92–181, title III][/us/pl/92/181/tIII], § 3.20, as added [Pub. L. 100–233, title IV][/us/pl/100/233/tIV], § 415(2), Jan. 6, 1988, [101 Stat. 1642][/us/stat/101/1642]; amended [Pub. L. 100–399, title IV][/us/pl/100/399/tIV], § 407(a), (b), Aug. 17, 1988, [102 Stat. 1000][/us/stat/102/1000].)
 
  __References in Text__ 
 
@@ -35,9 +35,9 @@
 
  __Amendments__ 
 
-    1988—Subsec. (a). [Pub. L. 100–399, § 407(a)][/us/pl/100/399/s407/a], struck out “in this section” after “referred to” and inserted “, established under section 413 of the Agricultural Credit Act of 1987,” before “shall”.
+    1988—Subsec. (a). [Pub. L. 100–399][/us/pl/100/399], § 407(a), struck out “in this section” after “referred to” and inserted “, established under section 413 of the Agricultural Credit Act of 1987,” before “shall”.
 
-    Subsec. (b). [Pub. L. 100–399, § 407(b)][/us/pl/100/399/s407/b], inserted “except” before “as otherwise”.
+    Subsec. (b). [Pub. L. 100–399][/us/pl/100/399], § 407(b), inserted “except” before “as otherwise”.
 
  __Effective Date of 1988 Amendment__ 
 
@@ -50,15 +50,15 @@
 ----------
 ----------
 
-[/us/pl/92/181/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs3
-[/us/pl/100/233/s415/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs415%2F2
+[/us/pl/92/181/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtIII
+[/us/pl/100/233/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtIV
 [/us/stat/101/1642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1642
-[/us/pl/100/399/s407/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs407%2Fa
+[/us/pl/100/399/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtIV
 [/us/stat/102/1000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1000
 [/us/pl/100/233/s413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs413
 [/us/usc/t12/s2121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2121
-[/us/pl/100/399/s407/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs407%2Fa
-[/us/pl/100/399/s407/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs407%2Fb
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
 [/us/pl/100/399/s1001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs1001%2Fa

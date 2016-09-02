@@ -17,7 +17,7 @@
 
     There are hereby authorized to be appropriated to the Secretary of the Treasury without fiscal year limitation $100,000,000 to cover the amount of any losses which are to be borne by the Secretary of the Treasury as provided in [section 635k of this title][/us/usc/t12/s635k].
 
-([Pub. L. 90–390, § 3][/us/pl/90/390/s3], July 7, 1968, [82 Stat. 297][/us/stat/82/297].)
+([Pub. L. 90–390][/us/pl/90/390], § 3, July 7, 1968, [82 Stat. 297][/us/stat/82/297].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t12/s635k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635k
-[/us/pl/90/390/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F390%2Fs3
+[/us/pl/90/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F390
 [/us/stat/82/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F297
 
 

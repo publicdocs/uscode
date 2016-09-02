@@ -17,7 +17,7 @@
 
     Whoever, with the intent to deceive, to gain financially, or to cause financial gain or loss to any person, knowingly violates any provision of this chapter or any regulation or order issued by the appropriate Federal banking agency under this chapter shall be imprisoned not more than 5 years or fined not more than $1,000,000 for each day during which a violation continues, or both.
 
-([Pub. L. 95–369, § 17][/us/pl/95/369/s17], as added [Pub. L. 102–242, title II, § 213][/us/pl/102/242/s213], Dec. 19, 1991, [105 Stat. 2303][/us/stat/105/2303].)
+([Pub. L. 95–369][/us/pl/95/369], § 17, as added [Pub. L. 102–242, title II][/us/pl/102/242/tII], § 213, Dec. 19, 1991, [105 Stat. 2303][/us/stat/105/2303].)
 
  __References in Text__ 
 
@@ -30,8 +30,8 @@
 ----------
 ----------
 
-[/us/pl/95/369/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F369%2Fs17
-[/us/pl/102/242/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs213
+[/us/pl/95/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F369
+[/us/pl/102/242/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtII
 [/us/stat/105/2303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2303
 [/us/usc/t12/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3101
 

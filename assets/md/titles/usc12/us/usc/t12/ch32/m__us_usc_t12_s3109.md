@@ -55,7 +55,7 @@
 
             For purposes of this subsection, the term “Federal banking agency” means the Board, the Comptroller of the Currency, the Federal Deposit Insurance Corporation, and the Director of the Office of Thrift Supervision.
 
-([Pub. L. 95–369, § 15][/us/pl/95/369/s15], as added [Pub. L. 102–242, title II, § 206][/us/pl/102/242/s206], Dec. 19, 1991, [105 Stat. 2294][/us/stat/105/2294]; amended [Pub. L. 109–351, title VII, § 709][/us/pl/109/351/s709], Oct. 13, 2006, [120 Stat. 1990][/us/stat/120/1990].)
+([Pub. L. 95–369][/us/pl/95/369], § 15, as added [Pub. L. 102–242, title II][/us/pl/102/242/tII], § 206, Dec. 19, 1991, [105 Stat. 2294][/us/stat/105/2294]; amended [Pub. L. 109–351, title VII][/us/pl/109/351/tVII], § 709, Oct. 13, 2006, [120 Stat. 1990][/us/stat/120/1990].)
 
  __Amendments__ 
 
@@ -69,10 +69,10 @@
 ----------
 
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
-[/us/pl/95/369/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F369%2Fs15
-[/us/pl/102/242/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs206
+[/us/pl/95/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F369
+[/us/pl/102/242/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtII
 [/us/stat/105/2294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2294
-[/us/pl/109/351/s709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs709
+[/us/pl/109/351/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2FtVII
 [/us/stat/120/1990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1990
 [/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
 

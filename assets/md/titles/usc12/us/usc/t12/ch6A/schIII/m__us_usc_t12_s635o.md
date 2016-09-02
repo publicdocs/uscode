@@ -25,15 +25,15 @@
 
     (4) to encourage foreign governments to enter into effective and comprehensive agreements with the United States to end the use of tied aid credits for exports, and to limit and govern the use of export credit subsidies generally.
 
-([Pub. L. 98–181, title I][/us/pl/98/181] \[title VI, § 642\], Nov. 30, 1983, [97 Stat. 1263][/us/stat/97/1263].)
+([Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title VI, § 642\], Nov. 30, 1983, [97 Stat. 1263][/us/stat/97/1263].)
 
  __References in Text__ 
 
-    This subchapter, referred to in text, was in the original “this part”, meaning part C (§§ 641–647, 650) of title VI of [Pub. L. 98–181, title I][/us/pl/98/181], Nov. 30, 1983, [97 Stat. 1263][/us/stat/97/1263], known as the Trade and Development Enhancement Act of 1983, which enacted this subchapter and [section 1671g of Title 19][/us/usc/t19/s1671g], Customs Duties, and amended sections 1671a and 1671b of Title 19. For complete classification of this Act to the Code, see Short Title note below and Tables.
+    This subchapter, referred to in text, was in the original “this part”, meaning part C (§§ 641–647, 650) of title VI of [Pub. L. 98–181, title I][/us/pl/98/181/tI], Nov. 30, 1983, [97 Stat. 1263][/us/stat/97/1263], known as the Trade and Development Enhancement Act of 1983, which enacted this subchapter and [section 1671g of Title 19][/us/usc/t19/s1671g], Customs Duties, and amended sections 1671a and 1671b of Title 19. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
  __Short Title__ 
 
-[Pub. L. 98–181, title I][/us/pl/98/181] \[title VI, § 641\], Nov. 30, 1983, [97 Stat. 1263][/us/stat/97/1263], provided that: 
+[Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title VI, § 641\], Nov. 30, 1983, [97 Stat. 1263][/us/stat/97/1263], provided that: 
 
 > “This part \[part C (§§ 641–647, 650) of title VI, enacting this subchapter and [section 1671g of Title 19][/us/usc/t19/s1671g], Customs Duties, and amending sections 1671a and 1671b of Title 19\] may be referred to as the ‘Trade and Development Enhancement Act of 1983’.”
 
@@ -44,12 +44,12 @@
 ----------
 ----------
 
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1263
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1263
 [/us/usc/t19/s1671g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1671g
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1263
 [/us/usc/t19/s1671g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1671g
 

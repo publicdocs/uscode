@@ -79,7 +79,7 @@
 
             (iii) be executed by a mortgagor who shall have paid in cash or its equivalent on account of the property (A) 3 per centum of the first $15,000 of the appraised value of the property, (B) 10 per centum of such value in excess of $15,000 but not in excess of $25,000, and (C) 20 per centum of such value in excess of $25,000.
 
-([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title II, § 243, as added [Pub. L. 91–351, title V, § 502][/us/pl/91/351/s502], July 24, 1970, [84 Stat. 458][/us/stat/84/458]; amended [Pub. L. 98–479, title II, § 204(a)(14)][/us/pl/98/479/s204/a/14], (15), Oct. 17, 1984, [98 Stat. 2232][/us/stat/98/2232].)
+([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title II, § 243, as added [Pub. L. 91–351, title V][/us/pl/91/351/tV], § 502, July 24, 1970, [84 Stat. 458][/us/stat/84/458]; amended [Pub. L. 98–479, title II][/us/pl/98/479/tII], § 204(a)(14), (15), Oct. 17, 1984, [98 Stat. 2232][/us/stat/98/2232].)
 
  __References in Text__ 
 
@@ -87,13 +87,13 @@
 
  __Amendments__ 
 
-    1984—Subsec. (d)(2). [Pub. L. 98–479, § 204(a)(14)][/us/pl/98/479/s204/a/14], redesignated subpars. (1), (2), and (3) as subpars. (A), (B), and (C), respectively.
+    1984—Subsec. (d)(2). [Pub. L. 98–479][/us/pl/98/479], § 204(a)(14), redesignated subpars. (1), (2), and (3) as subpars. (A), (B), and (C), respectively.
 
-    Subsec. (j)(3)(ii). [Pub. L. 98–479, § 204(a)(15)][/us/pl/98/479/s204/a/15], substituted “; and” for period at end.
+    Subsec. (j)(3)(ii). [Pub. L. 98–479][/us/pl/98/479], § 204(a)(15), substituted “; and” for period at end.
 
  __Congressional Findings and Declaration of Purpose__ 
 
-[Pub. L. 91–351, title V, § 501][/us/pl/91/351/s501], July 24, 1970, [84 Stat. 458][/us/stat/84/458], provided that: 
+[Pub. L. 91–351, title V][/us/pl/91/351/tV], § 501, July 24, 1970, [84 Stat. 458][/us/stat/84/458], provided that: 
 
 > “The Congress finds that—
 
@@ -116,14 +116,14 @@
 
 [/us/usc/t12/s1715e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715e
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
-[/us/pl/91/351/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F351%2Fs502
+[/us/pl/91/351/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F351%2FtV
 [/us/stat/84/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F458
-[/us/pl/98/479/s204/a/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2Fs204%2Fa%2F14
+[/us/pl/98/479/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2FtII
 [/us/stat/98/2232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2232
 [/us/pl/91/351/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F351%2Fs501
-[/us/pl/98/479/s204/a/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2Fs204%2Fa%2F14
-[/us/pl/98/479/s204/a/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2Fs204%2Fa%2F15
-[/us/pl/91/351/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F351%2Fs501
+[/us/pl/98/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479
+[/us/pl/98/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479
+[/us/pl/91/351/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F351%2FtV
 [/us/stat/84/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F458
 
 

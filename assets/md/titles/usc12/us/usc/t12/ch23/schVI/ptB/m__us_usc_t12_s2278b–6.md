@@ -267,13 +267,13 @@
 
             For purposes of this section and [section 2278a–9 of this title][/us/usc/t12/s2278a–9], the term “bank” shall not include a bank that had entered liquidation prior to October 28, 1992.
 
-([Pub. L. 92–181, title VI, § 6][/us/pl/92/181/s6].26, as added [Pub. L. 100–233, title II, § 201][/us/pl/100/233/s201], Jan. 6, 1988, [101 Stat. 1597][/us/stat/101/1597]; amended [Pub. L. 100–399, title II, § 201(p)][/us/pl/100/399/s201/p]–(x), Aug. 17, 1988, [102 Stat. 991][/us/stat/102/991], 992; [Pub. L. 102–552, title III][/us/pl/102/552], §§ 302–304(a), 305, 306, Oct. 28, 1992, [106 Stat. 4109–4111][/us/stat/106/4109-4111], 4114.)
+([Pub. L. 92–181, title VI][/us/pl/92/181/tVI], § 6.26, as added [Pub. L. 100–233, title II][/us/pl/100/233/tII], § 201, Jan. 6, 1988, [101 Stat. 1597][/us/stat/101/1597]; amended [Pub. L. 100–399, title II][/us/pl/100/399/tII], § 201(p)–(x), Aug. 17, 1988, [102 Stat. 991][/us/stat/102/991], 992; [Pub. L. 102–552, title III][/us/pl/102/552/tIII], §§ 302–304(a), 305, 306, Oct. 28, 1992, [106 Stat. 4109–4111][/us/stat/106/4109-4111], 4114.)
 
  __Amendments__ 
 
-    1992—Subsec. (c)(2)(B). [Pub. L. 102–552, § 305(1)(A)][/us/pl/102/552/s305/1/A], (B), substituted “banks” for “institutions” wherever appearing in heading and text.
+    1992—Subsec. (c)(2)(B). [Pub. L. 102–552][/us/pl/102/552], § 305(1)(A), (B), substituted “banks” for “institutions” wherever appearing in heading and text.
 
-    Subsec. (c)(2)(C), (D). [Pub. L. 102–552, § 305(1)(C)][/us/pl/102/552/s305/1/C], added subpar. (C) and struck out former subpars. (C) and (D) which read as follows:
+    Subsec. (c)(2)(C), (D). [Pub. L. 102–552][/us/pl/102/552], § 305(1)(C), added subpar. (C) and struck out former subpars. (C) and (D) which read as follows:
 
     “(C) Allocation.—During each year of the second 5-year period, each System institution shall pay to the Financial Assistance Corporation a proportion of the interest due from System institutions under this paragraph equal to—
 
@@ -283,63 +283,63 @@
 
     “(D) Special rule.—For purposes of determining the average loan volume of Farm Credit Banks, loan volume shall consist of loans made by such banks with the exception of loans made to associations.”
 
-    Subsec. (c)(3), (4). [Pub. L. 102–552, § 305(1)(B)][/us/pl/102/552/s305/1/B], substituted “banks” for “institutions”.
+    Subsec. (c)(3), (4). [Pub. L. 102–552][/us/pl/102/552], § 305(1)(B), substituted “banks” for “institutions”.
 
-    Subsec. (c)(5). [Pub. L. 102–552, § 304(a)][/us/pl/102/552/s304/a], amended par. (5) generally, substituting present provisions for provisions relating to repayments by System institutions generally, time of payments, and terms of payments.
+    Subsec. (c)(5). [Pub. L. 102–552][/us/pl/102/552], § 304(a), amended par. (5) generally, substituting present provisions for provisions relating to repayments by System institutions generally, time of payments, and terms of payments.
 
-    Subsec. (d)(1)(B). [Pub. L. 102–552, § 302][/us/pl/102/552/s302], amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “Except as provided in subparagraph (C), in order to enable the Financial Assistance Corporation to repay the obligation referred to in subparagraph (A), each institution that issued preferred stock under [section 2278b–7(a) of this title][/us/usc/t12/s2278b–7/a] with respect to such obligation (or the successor thereto) shall pay to the Financial Assistance Corporation, before the maturity date of such obligation, an amount equal to the par value of such stock outstanding for such institution.”
+    Subsec. (d)(1)(B). [Pub. L. 102–552][/us/pl/102/552], § 302, amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “Except as provided in subparagraph (C), in order to enable the Financial Assistance Corporation to repay the obligation referred to in subparagraph (A), each institution that issued preferred stock under [section 2278b–7(a) of this title][/us/usc/t12/s2278b–7/a] with respect to such obligation (or the successor thereto) shall pay to the Financial Assistance Corporation, before the maturity date of such obligation, an amount equal to the par value of such stock outstanding for such institution.”
 
-    Subsec. (d)(1)(C). [Pub. L. 102–552, § 303][/us/pl/102/552/s303], amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “In order to enable the Financial Assistance Corporation to repay the obligations issued to provide assistance under section 410(c) of the Agricultural Credit Act of 1987 and [section 2162(c) of this title][/us/usc/t12/s2162/c], or issued to provide funds to cover the expenses of the Assistance Board under [section 2278a–7(a) of this title][/us/usc/t12/s2278a–7/a], each System institution shall pay to the Financial Assistance Corporation a proportion of such obligation equal to—
+    Subsec. (d)(1)(C). [Pub. L. 102–552][/us/pl/102/552], § 303, amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “In order to enable the Financial Assistance Corporation to repay the obligations issued to provide assistance under section 410(c) of the Agricultural Credit Act of 1987 and [section 2162(c) of this title][/us/usc/t12/s2162/c], or issued to provide funds to cover the expenses of the Assistance Board under [section 2278a–7(a) of this title][/us/usc/t12/s2278a–7/a], each System institution shall pay to the Financial Assistance Corporation a proportion of such obligation equal to—
 
     “(i) the average performing loan volume of the institution for the preceding 15 years; divided by
 
     “(ii) the average performing loan volume of all of the System institutions for the same period.”
 
-    Subsec. (d)(1)(D), (E). [Pub. L. 102–552, § 305(2)][/us/pl/102/552/s305/2], redesignated subpar. (E) as (D) and struck out former subpar. (D) which read as follows: “(D) Special rule.—For purposes of determining the average loan volume of Farm Credit Banks, loan volume shall consist of loans made by such banks with the exception of loans made to associations.”
+    Subsec. (d)(1)(D), (E). [Pub. L. 102–552][/us/pl/102/552], § 305(2), redesignated subpar. (E) as (D) and struck out former subpar. (D) which read as follows: “(D) Special rule.—For purposes of determining the average loan volume of Farm Credit Banks, loan volume shall consist of loans made by such banks with the exception of loans made to associations.”
 
-    Subsec. (d)(3)(A). [Pub. L. 102–552, § 306(1)(A)][/us/pl/102/552/s306/1/A], inserted heading and struck out former heading “Interest”, in cl. (i), inserted “on the payment of principal or interest due under subparagraphs (B) and (C) of [section 2278a–9(e)(3) of this title][/us/usc/t12/s2278a–9/e/3], on the payment of principal due under paragraph (1)(C), or on the payment of an assessment due under subsection (c)(5)(B),”, struck out “of the interest” after “the amount” in two places, and substituted “bank” for “institution” wherever appearing, in cl. (ii), struck out “of interest” after “the full amount”, and substituted “defaulting bank” for “defaulting institution” and “any uncollected amount” for “such uncollected interest”, and in cl. (iii), substituted “allocated to other System banks in accordance with the allocation mechanism applicable under this chapter to the particular defaulted obligation.” for “added to the amount of interest due from remaining System institutions, under subsection (c), and each remaining System institution, subject to the special rule provided in subsection (c)(2)(D), shall pay to the Trust Fund a proportion of the uncollected interest equal to—
+    Subsec. (d)(3)(A). [Pub. L. 102–552][/us/pl/102/552], § 306(1)(A), inserted heading and struck out former heading “Interest”, in cl. (i), inserted “on the payment of principal or interest due under subparagraphs (B) and (C) of [section 2278a–9(e)(3) of this title][/us/usc/t12/s2278a–9/e/3], on the payment of principal due under paragraph (1)(C), or on the payment of an assessment due under subsection (c)(5)(B),”, struck out “of the interest” after “the amount” in two places, and substituted “bank” for “institution” wherever appearing, in cl. (ii), struck out “of interest” after “the full amount”, and substituted “defaulting bank” for “defaulting institution” and “any uncollected amount” for “such uncollected interest”, and in cl. (iii), substituted “allocated to other System banks in accordance with the allocation mechanism applicable under this chapter to the particular defaulted obligation.” for “added to the amount of interest due from remaining System institutions, under subsection (c), and each remaining System institution, subject to the special rule provided in subsection (c)(2)(D), shall pay to the Trust Fund a proportion of the uncollected interest equal to—
 
     “(I) the amount of the performing loan volume of the institution (based on the average loan volume for the preceding year); divided by
 
     “(II) the total performing loan volume of the System.”
 
-    Subsec. (d)(3)(B). [Pub. L. 102–552, § 306(1)(B)][/us/pl/102/552/s306/1/B], inserted heading and struck out former heading “Principal”.
+    Subsec. (d)(3)(B). [Pub. L. 102–552][/us/pl/102/552], § 306(1)(B), inserted heading and struck out former heading “Principal”.
 
-    Subsec. (d)(3)(C). [Pub. L. 102–552, § 306(1)(C)][/us/pl/102/552/s306/1/C], substituted “banks” for “institutions” wherever appearing in heading and text, “bank” for “institution”, and “any amounts” for “the amount of any interest”.
+    Subsec. (d)(3)(C). [Pub. L. 102–552][/us/pl/102/552], § 306(1)(C), substituted “banks” for “institutions” wherever appearing in heading and text, “bank” for “institution”, and “any amounts” for “the amount of any interest”.
 
-    Subsec. (d)(4)(A). [Pub. L. 102–552, § 306(2)(A)][/us/pl/102/552/s306/2/A], inserted “or [section 2278a–9(e)(3)(A) of this title][/us/usc/t12/s2278a–9/e/3/A]”.
+    Subsec. (d)(4)(A). [Pub. L. 102–552][/us/pl/102/552], § 306(2)(A), inserted “or [section 2278a–9(e)(3)(A) of this title][/us/usc/t12/s2278a–9/e/3/A]”.
 
-    Subsec. (d)(4)(B)(i). [Pub. L. 102–552, § 306(2)(B)(i)][/us/pl/102/552/s306/2/B/i], inserted heading and struck out former heading “Interest payments”, substituted “bank” for “institution” wherever appearing, and inserted “on the payment of principal or interest due under subparagraphs (B) and (C) of [section 2278a–9(e)(3) of this title][/us/usc/t12/s2278a–9/e/3], on the payment of principal due under paragraph (1)(C), or on the payment of an assessment due under subsection (c)(5)(B),”.
+    Subsec. (d)(4)(B)(i). [Pub. L. 102–552][/us/pl/102/552], § 306(2)(B)(i), inserted heading and struck out former heading “Interest payments”, substituted “bank” for “institution” wherever appearing, and inserted “on the payment of principal or interest due under subparagraphs (B) and (C) of [section 2278a–9(e)(3) of this title][/us/usc/t12/s2278a–9/e/3], on the payment of principal due under paragraph (1)(C), or on the payment of an assessment due under subsection (c)(5)(B),”.
 
-    Subsec. (d)(4)(B)(ii). [Pub. L. 102–552, § 306(2)(B)(ii)][/us/pl/102/552/s306/2/B/ii], inserted heading and struck out former heading “Principal payments”.
+    Subsec. (d)(4)(B)(ii). [Pub. L. 102–552][/us/pl/102/552], § 306(2)(B)(ii), inserted heading and struck out former heading “Principal payments”.
 
-    Subsec. (e). [Pub. L. 102–552, § 305(3)][/us/pl/102/552/s305/3], added subsec. (e).
+    Subsec. (e). [Pub. L. 102–552][/us/pl/102/552], § 305(3), added subsec. (e).
 
-    1988—Subsec. (c)(2)(D). [Pub. L. 100–399, § 201(q)][/us/pl/100/399/s201/q], substituted “Farm Credit Banks” for “Federal intermediate credit banks and Federal land banks”.
+    1988—Subsec. (c)(2)(D). [Pub. L. 100–399][/us/pl/100/399], § 201(q), substituted “Farm Credit Banks” for “Federal intermediate credit banks and Federal land banks”.
 
-    [Pub. L. 100–399, § 201(p)][/us/pl/100/399/s201/p], inserted “and Federal land banks” after “credit banks” and struck out “production credit” before “associations”.
+    [Pub. L. 100–399][/us/pl/100/399], § 201(p), inserted “and Federal land banks” after “credit banks” and struck out “production credit” before “associations”.
 
-    Subsec. (c)(5)(B). [Pub. L. 100–399, § 201(r)(1)][/us/pl/100/399/s201/r/1], substituted “payments under this paragraph” for “interest payments”.
+    Subsec. (c)(5)(B). [Pub. L. 100–399][/us/pl/100/399], § 201(r)(1), substituted “payments under this paragraph” for “interest payments”.
 
-    [Pub. L. 100–399, § 201(r)(2)][/us/pl/100/399/s201/r/2], substituted “referred to in subsection (d)(1)(E)” for “issued under subsection (d)(1)(C)”.
+    [Pub. L. 100–399][/us/pl/100/399], § 201(r)(2), substituted “referred to in subsection (d)(1)(E)” for “issued under subsection (d)(1)(C)”.
 
-    Subsec. (c)(5)(C)(i). [Pub. L. 100–399, § 201(r)(1)][/us/pl/100/399/s201/r/1], substituted “payments under this paragraph” for “interest payments”.
+    Subsec. (c)(5)(C)(i). [Pub. L. 100–399][/us/pl/100/399], § 201(r)(1), substituted “payments under this paragraph” for “interest payments”.
 
-    Subsec. (d). [Pub. L. 100–399, § 201(s)][/us/pl/100/399/s201/s], inserted “; defaults” after “principal” in heading.
+    Subsec. (d). [Pub. L. 100–399][/us/pl/100/399], § 201(s), inserted “; defaults” after “principal” in heading.
 
-    Subsec. (d)(1)(C). [Pub. L. 100–399, § 201(t)][/us/pl/100/399/s201/t], in introductory provisions substituted “issued to provide assistance under section 410(c) of the Agricultural Credit Act of 1987 and [section 2162(c) of this title][/us/usc/t12/s2162/c], or issued to provide funds to cover the expenses of the Assistance Board under [section 2278a–7(a) of this title][/us/usc/t12/s2278a–7/a],” for “referred to in section 410(c) of the Agricultural Credit Act of 1987,” and “such obligation” for “such principal”, in cl. (i) substituted “institution” for “bank”, and in cl. (ii) substituted “institutions” for “banks”.
+    Subsec. (d)(1)(C). [Pub. L. 100–399][/us/pl/100/399], § 201(t), in introductory provisions substituted “issued to provide assistance under section 410(c) of the Agricultural Credit Act of 1987 and [section 2162(c) of this title][/us/usc/t12/s2162/c], or issued to provide funds to cover the expenses of the Assistance Board under [section 2278a–7(a) of this title][/us/usc/t12/s2278a–7/a],” for “referred to in section 410(c) of the Agricultural Credit Act of 1987,” and “such obligation” for “such principal”, in cl. (i) substituted “institution” for “bank”, and in cl. (ii) substituted “institutions” for “banks”.
 
-    Subsec. (d)(1)(D). [Pub. L. 100–399, § 201(q)][/us/pl/100/399/s201/q], substituted “Farm Credit banks” for “Federal intermediate credit banks and Federal land banks”.
+    Subsec. (d)(1)(D). [Pub. L. 100–399][/us/pl/100/399], § 201(q), substituted “Farm Credit banks” for “Federal intermediate credit banks and Federal land banks”.
 
-    [Pub. L. 100–399, § 201(p)][/us/pl/100/399/s201/p], inserted “and Federal land banks” after “credit banks” and struck out “production credit” before “associations”.
+    [Pub. L. 100–399][/us/pl/100/399], § 201(p), inserted “and Federal land banks” after “credit banks” and struck out “production credit” before “associations”.
 
-    Subsec. (d)(1)(E). [Pub. L. 100–399, § 201(u)][/us/pl/100/399/s201/u], substituted “subparagraphs (B) and (C)” for “subparagraph (B)”.
+    Subsec. (d)(1)(E). [Pub. L. 100–399][/us/pl/100/399], § 201(u), substituted “subparagraphs (B) and (C)” for “subparagraph (B)”.
 
-    Subsec. (d)(3)(A)(i), (iii). [Pub. L. 100–399, § 201(v)][/us/pl/100/399/s201/v], substituted “subsection (c)” for “this subsection”.
+    Subsec. (d)(3)(A)(i), (iii). [Pub. L. 100–399][/us/pl/100/399], § 201(v), substituted “subsection (c)” for “this subsection”.
 
-    Subsec. (d)(3)(B)(iii). [Pub. L. 100–399, § 201(w)][/us/pl/100/399/s201/w], inserted “is prohibited from redeeming or” after “If such institution”.
+    Subsec. (d)(3)(B)(iii). [Pub. L. 100–399][/us/pl/100/399], § 201(w), inserted “is prohibited from redeeming or” after “If such institution”.
 
-    Subsec. (d)(4)(B)(iii). [Pub. L. 100–399, § 201(x)][/us/pl/100/399/s201/x], substituted “[section 2277a–9(c)(2)(B) of this title][/us/usc/t12/s2277a–9/c/2/B]” for “[section 2277a–9 of this title][/us/usc/t12/s2277a–9]”.
+    Subsec. (d)(4)(B)(iii). [Pub. L. 100–399][/us/pl/100/399], § 201(x), substituted “[section 2277a–9(c)(2)(B) of this title][/us/usc/t12/s2277a–9/c/2/B]” for “[section 2277a–9 of this title][/us/usc/t12/s2277a–9]”.
 
  __Effective Date of 1988 Amendment__ 
 
@@ -375,48 +375,48 @@
 [/us/usc/t12/s2277a–9/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2277a%E2%80%939%2Fc%2F2%2FB
 [/us/usc/t12/s2278a–9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2278a%E2%80%939
 [/us/usc/t12/s2278a–9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2278a%E2%80%939
-[/us/pl/92/181/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs6
-[/us/pl/100/233/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs201
+[/us/pl/92/181/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtVI
+[/us/pl/100/233/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtII
 [/us/stat/101/1597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1597
-[/us/pl/100/399/s201/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs201%2Fp
+[/us/pl/100/399/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtII
 [/us/stat/102/991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F991
-[/us/pl/102/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552
+[/us/pl/102/552/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2FtIII
 [/us/stat/106/4109-4111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4109-4111
-[/us/pl/102/552/s305/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2Fs305%2F1%2FA
-[/us/pl/102/552/s305/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2Fs305%2F1%2FC
-[/us/pl/102/552/s305/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2Fs305%2F1%2FB
-[/us/pl/102/552/s304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2Fs304%2Fa
-[/us/pl/102/552/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2Fs302
+[/us/pl/102/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552
+[/us/pl/102/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552
+[/us/pl/102/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552
+[/us/pl/102/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552
+[/us/pl/102/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552
 [/us/usc/t12/s2278b–7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2278b%E2%80%937%2Fa
-[/us/pl/102/552/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2Fs303
+[/us/pl/102/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552
 [/us/usc/t12/s2162/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2162%2Fc
 [/us/usc/t12/s2278a–7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2278a%E2%80%937%2Fa
-[/us/pl/102/552/s305/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2Fs305%2F2
-[/us/pl/102/552/s306/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2Fs306%2F1%2FA
+[/us/pl/102/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552
+[/us/pl/102/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552
 [/us/usc/t12/s2278a–9/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2278a%E2%80%939%2Fe%2F3
-[/us/pl/102/552/s306/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2Fs306%2F1%2FB
-[/us/pl/102/552/s306/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2Fs306%2F1%2FC
-[/us/pl/102/552/s306/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2Fs306%2F2%2FA
+[/us/pl/102/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552
+[/us/pl/102/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552
+[/us/pl/102/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552
 [/us/usc/t12/s2278a–9/e/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2278a%E2%80%939%2Fe%2F3%2FA
-[/us/pl/102/552/s306/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2Fs306%2F2%2FB%2Fi
+[/us/pl/102/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552
 [/us/usc/t12/s2278a–9/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2278a%E2%80%939%2Fe%2F3
-[/us/pl/102/552/s306/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2Fs306%2F2%2FB%2Fii
-[/us/pl/102/552/s305/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2Fs305%2F3
-[/us/pl/100/399/s201/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs201%2Fq
-[/us/pl/100/399/s201/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs201%2Fp
-[/us/pl/100/399/s201/r/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs201%2Fr%2F1
-[/us/pl/100/399/s201/r/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs201%2Fr%2F2
-[/us/pl/100/399/s201/r/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs201%2Fr%2F1
-[/us/pl/100/399/s201/s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs201%2Fs
-[/us/pl/100/399/s201/t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs201%2Ft
+[/us/pl/102/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552
+[/us/pl/102/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/usc/t12/s2162/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2162%2Fc
 [/us/usc/t12/s2278a–7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2278a%E2%80%937%2Fa
-[/us/pl/100/399/s201/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs201%2Fq
-[/us/pl/100/399/s201/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs201%2Fp
-[/us/pl/100/399/s201/u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs201%2Fu
-[/us/pl/100/399/s201/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs201%2Fv
-[/us/pl/100/399/s201/w]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs201%2Fw
-[/us/pl/100/399/s201/x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs201%2Fx
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/usc/t12/s2277a–9/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2277a%E2%80%939%2Fc%2F2%2FB
 [/us/usc/t12/s2277a–9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2277a%E2%80%939
 [/us/pl/100/399/s201/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs201%2Fq

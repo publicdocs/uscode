@@ -31,7 +31,7 @@
 
         The Fund may use funds reimbursed pursuant to this section to make reimbursements under [section 4747 of this title][/us/usc/t12/s4747].
 
-([Pub. L. 103–325, title II, § 258][/us/pl/103/325/s258], Sept. 23, 1994, [108 Stat. 2213][/us/stat/108/2213].)
+([Pub. L. 103–325, title II][/us/pl/103/325/tII], § 258, Sept. 23, 1994, [108 Stat. 2213][/us/stat/108/2213].)
 
 ----------
 
@@ -43,7 +43,7 @@
 [/us/usc/t12/s4745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4745
 [/us/usc/t12/s4743/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4743%2Fb
 [/us/usc/t12/s4747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4747
-[/us/pl/103/325/s258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs258
+[/us/pl/103/325/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtII
 [/us/stat/108/2213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2213
 
 

@@ -17,7 +17,7 @@
 
     Subject to [section 2143 of this title][/us/usc/t12/s2143], to the greatest extent practicable, the functions of the consolidated bank shall be consolidated in the central office of the bank.
 
-([Pub. L. 92–181, title III, § 3][/us/pl/92/181/s3].23, as added [Pub. L. 100–233, title IV, § 415(2)][/us/pl/100/233/s415/2], Jan. 6, 1988, [101 Stat. 1644][/us/stat/101/1644].)
+([Pub. L. 92–181, title III][/us/pl/92/181/tIII], § 3.23, as added [Pub. L. 100–233, title IV][/us/pl/100/233/tIV], § 415(2), Jan. 6, 1988, [101 Stat. 1644][/us/stat/101/1644].)
 
 ----------
 
@@ -27,8 +27,8 @@
 ----------
 
 [/us/usc/t12/s2143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2143
-[/us/pl/92/181/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs3
-[/us/pl/100/233/s415/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs415%2F2
+[/us/pl/92/181/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtIII
+[/us/pl/100/233/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtIV
 [/us/stat/101/1644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1644
 
 

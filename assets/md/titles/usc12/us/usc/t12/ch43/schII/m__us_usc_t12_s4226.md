@@ -51,7 +51,7 @@
 
         All notices provided to a declarant under this section shall be kept confidential by the declarant in the same manner, and subject to the same penalties, as the declaration under [section 4223 of this title][/us/usc/t12/s4223].
 
-([Pub. L. 101–647, title XXV, § 2581][/us/pl/101/647/s2581], Nov. 29, 1990, [104 Stat. 4902][/us/stat/104/4902].)
+([Pub. L. 101–647, title XXV][/us/pl/101/647/tXXV], § 2581, Nov. 29, 1990, [104 Stat. 4902][/us/stat/104/4902].)
 
  __References in Text__ 
 
@@ -67,7 +67,7 @@
 [/us/usc/t12/s4225/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4225%2Fc
 [/us/usc/t12/s4224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4224
 [/us/usc/t12/s4223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4223
-[/us/pl/101/647/s2581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2581
+[/us/pl/101/647/tXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXV
 [/us/stat/104/4902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4902
 [/us/usc/t12/s4221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4221
 [/us/pl/101/647/s2576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2576

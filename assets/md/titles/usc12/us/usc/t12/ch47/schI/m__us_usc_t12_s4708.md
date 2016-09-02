@@ -53,7 +53,7 @@
 
             The amount of any fee assessed under this subsection on any person may not exceed the amount which is reasonably based on the proportion of the training services provided under a training program operated in accordance with this section which relate to such person.
 
-([Pub. L. 103–325, title I, § 109][/us/pl/103/325/s109], Sept. 23, 1994, [108 Stat. 2176][/us/stat/108/2176].)
+([Pub. L. 103–325, title I][/us/pl/103/325/tI], § 109, Sept. 23, 1994, [108 Stat. 2176][/us/stat/108/2176].)
 
 ----------
 
@@ -62,7 +62,7 @@
 ----------
 ----------
 
-[/us/pl/103/325/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs109
+[/us/pl/103/325/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtI
 [/us/stat/108/2176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2176
 
 

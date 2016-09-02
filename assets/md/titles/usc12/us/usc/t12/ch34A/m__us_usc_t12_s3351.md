@@ -85,27 +85,27 @@
 
         If, 6 months after July 21, 2010, the Appraisal Subcommittee determines that no national hotline exists to receive complaints of non-compliance with appraisal independence standards and Uniform Standards of Professional Appraisal Practice, including complaints from appraisers, individuals, or other entities concerning the improper influencing or attempted improper influencing of appraisers or the appraisal process, the Appraisal Subcommittee shall establish and operate such a national hotline, which shall include a toll-free telephone number and an email address. If the Appraisal Subcommittee operates such a national hotline, the Appraisal Subcommittee shall refer complaints for further action to appropriate governmental bodies, including a State appraiser certifying and licensing agency, a financial institution regulator, or other appropriate legal authorities. For complaints referred to State appraiser certifying and licensing agencies or to Federal regulators, the Appraisal Subcommittee shall have the authority to follow up such complaint referrals in order to determine the status of the resolution of the complaint.
 
-([Pub. L. 101–73, title XI, § 1122][/us/pl/101/73/s1122], Aug. 9, 1989, [103 Stat. 518][/us/stat/103/518]; [Pub. L. 103–325, title III, § 315][/us/pl/103/325/s315], Sept. 23, 1994, [108 Stat. 2222][/us/stat/108/2222]; [Pub. L. 111–203, title XIV, § 1473][/us/pl/111/203/s1473](l)–(p), (t)(4), July 21, 2010, [124 Stat. 2196][/us/stat/124/2196], 2197, 2199.)
+([Pub. L. 101–73, title XI][/us/pl/101/73/tXI], § 1122, Aug. 9, 1989, [103 Stat. 518][/us/stat/103/518]; [Pub. L. 103–325, title III][/us/pl/103/325/tIII], § 315, Sept. 23, 1994, [108 Stat. 2222][/us/stat/108/2222]; [Pub. L. 111–203, title XIV][/us/pl/111/203/tXIV], § 1473(l)–(p), (t)(4), July 21, 2010, [124 Stat. 2196][/us/stat/124/2196], 2197, 2199.)
 
  __Amendments__ 
 
-    2010—Subsec. (a)(1)(A) to (C). [Pub. L. 111–203, § 1473(t)(4)(A)][/us/pl/111/203/s1473/t/4/A], realigned margins.
+    2010—Subsec. (a)(1)(A) to (C). [Pub. L. 111–203][/us/pl/111/203], § 1473(t)(4)(A), realigned margins.
 
-    Subsec. (b). [Pub. L. 111–203, § 1473][/us/pl/111/203/s1473](l), amended subsec. (b) generally. Prior to amendment, text read as follows: “The Appraisal Subcommittee shall encourage the States to develop reciprocity agreements that readily authorize appraisers who are licensed or certified in one State (and who are in good standing with their State appraiser certifying or licensing agency) to perform appraisals in other States.”
+    Subsec. (b). [Pub. L. 111–203][/us/pl/111/203], § 1473(l), amended subsec. (b) generally. Prior to amendment, text read as follows: “The Appraisal Subcommittee shall encourage the States to develop reciprocity agreements that readily authorize appraisers who are licensed or certified in one State (and who are in good standing with their State appraiser certifying or licensing agency) to perform appraisals in other States.”
 
-    Subsec. (c). [Pub. L. 111–203, § 1473(t)(4)(B)][/us/pl/111/203/s1473/t/4/B], substituted “Financial Institutions Examination Council” for “Federal Financial Institutions Examination Council” and “the Council’s functions” for “the council’s functions”.
+    Subsec. (c). [Pub. L. 111–203][/us/pl/111/203], § 1473(t)(4)(B), substituted “Financial Institutions Examination Council” for “Federal Financial Institutions Examination Council” and “the Council’s functions” for “the council’s functions”.
 
-    Subsec. (d). [Pub. L. 111–203, § 1473(m)][/us/pl/111/203/s1473/m], substituted “may include education achieved, experience, sample appraisals, and references from prior clients. Membership in a nationally recognized professional appraisal organization may be a criteria considered, though lack of membership therein shall not be the sole bar against consideration for an assignment under these criteria.” for “shall not exclude a certified or licensed appraiser for consideration for an assignment solely by virtue of membership or lack of membership in any particular appraisal organization.”
+    Subsec. (d). [Pub. L. 111–203][/us/pl/111/203], § 1473(m), substituted “may include education achieved, experience, sample appraisals, and references from prior clients. Membership in a nationally recognized professional appraisal organization may be a criteria considered, though lack of membership therein shall not be the sole bar against consideration for an assignment under these criteria.” for “shall not exclude a certified or licensed appraiser for consideration for an assignment solely by virtue of membership or lack of membership in any particular appraisal organization.”
 
-    Subsec. (g). [Pub. L. 111–203, § 1473(n)][/us/pl/111/203/s1473/n], added subsec. (g).
+    Subsec. (g). [Pub. L. 111–203][/us/pl/111/203], § 1473(n), added subsec. (g).
 
-    Subsec. (h). [Pub. L. 111–203, § 1473][/us/pl/111/203/s1473](o), added subsec. (h).
+    Subsec. (h). [Pub. L. 111–203][/us/pl/111/203], § 1473(o), added subsec. (h).
 
-    Subsec. (i). [Pub. L. 111–203, § 1473(p)][/us/pl/111/203/s1473/p], added subsec. (i).
+    Subsec. (i). [Pub. L. 111–203][/us/pl/111/203], § 1473(p), added subsec. (i).
 
-    1994—Subsec. (a). [Pub. L. 103–325, § 315(3)][/us/pl/103/325/s315/3], redesignated existing provisions as par. (1), inserted heading, redesignated former pars. (1) to (3) as subpars. (A) to (C) of par. (1), and added par. (2).
+    1994—Subsec. (a). [Pub. L. 103–325][/us/pl/103/325], § 315(3), redesignated existing provisions as par. (1), inserted heading, redesignated former pars. (1) to (3) as subpars. (A) to (C) of par. (1), and added par. (2).
 
-    Subsecs. (b) to (f). [Pub. L. 103–325, § 315(1)][/us/pl/103/325/s315/1], (2), added subsec. (b) and redesignated former subsecs. (b) to (e) as (c) to (f), respectively.
+    Subsecs. (b) to (f). [Pub. L. 103–325][/us/pl/103/325], § 315(1), (2), added subsec. (b) and redesignated former subsecs. (b) to (e) as (c) to (f), respectively.
 
  __Effective Date of 2010 Amendment__ 
 
@@ -118,21 +118,21 @@
 ----------
 ----------
 
-[/us/pl/101/73/s1122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs1122
+[/us/pl/101/73/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtXI
 [/us/stat/103/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F518
-[/us/pl/103/325/s315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs315
+[/us/pl/103/325/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtIII
 [/us/stat/108/2222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2222
-[/us/pl/111/203/s1473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1473
+[/us/pl/111/203/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtXIV
 [/us/stat/124/2196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2196
-[/us/pl/111/203/s1473/t/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1473%2Ft%2F4%2FA
-[/us/pl/111/203/s1473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1473
-[/us/pl/111/203/s1473/t/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1473%2Ft%2F4%2FB
-[/us/pl/111/203/s1473/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1473%2Fm
-[/us/pl/111/203/s1473/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1473%2Fn
-[/us/pl/111/203/s1473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1473
-[/us/pl/111/203/s1473/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1473%2Fp
-[/us/pl/103/325/s315/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs315%2F3
-[/us/pl/103/325/s315/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs315%2F1
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
+[/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s1400/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1400%2Fc
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601

@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of law, the Secretary is authorized to refuse the benefits of participation (either directly as an insured lender or as a borrower, or indirectly as a builder, contractor, or dealer, or salesman or sales agent for a builder, contractor or dealer) under subchapter I, II, VI, VII, VIII, IX–B, or X of this chapter to any person or firm (including but not limited to any individual, partnership, association, trust, or corporation) if the Secretary has determined that such person or firm (1) has knowingly or willfully violated any provision of this chapter or of title III of the Servicemen’s Readjustment Act of 1944, as amended, or of chapter 37 of title 38, or of any regulation issued by the Secretary under this chapter or by the Secretary of Veterans Affairs under said title III, or chapter 37, or (2) has, in connection with any construction, alteration, repair or improvement work financed with assistance under this chapter or under said title III, or chapter 37, or in connection with contracts or financing relating to such work, violated any Federal or State penal statute, or (3) has failed materially to properly carry out contractual obligations with respect to the completion of construction, alteration, repair, or improvement work financed with assistance under this chapter or under title III of the Servicemen’s Readjustment Act of 1944, as amended, or of chapter 37 of title 38. Before any such determination is made any person or firm with respect to whom such a determination is proposed shall be notified in writing by the Secretary and shall be entitled, upon making a written request to the Secretary, to a written notice specifying charges in reasonable detail and an opportunity to be heard and to be represented by counsel. Determinations made by the Secretary under this section shall be based on the preponderance of the evidence. For the purposes of compliance with this section the Secretary’s notice of a proposed determination under this section shall be considered to have been received by the interested person or firm if the notice is properly mailed to the last known address of such person or firm.
 
-([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title V, § 512, as added [Aug. 2, 1954, ch. 649][/us/act/1954-08-02/ch649], title I, § 132, [68 Stat. 610][/us/stat/68/610]; amended [Pub. L. 85–857, § 13(h)][/us/pl/85/857/s13/h], Sept. 2, 1958, [72 Stat. 1265][/us/stat/72/1265]; [Pub. L. 86–372, title I, § 119][/us/pl/86/372/s119], Sept. 23, 1959, [73 Stat. 665][/us/stat/73/665]; [Pub. L. 89–754, title X, § 1020(e)][/us/pl/89/754/s1020/e], Nov. 3, 1966, [80 Stat. 1296][/us/stat/80/1296]; [Pub. L. 90–19, § 1(a)(3)][/us/pl/90/19/s1/a/3], (4), May 25, 1967, [81 Stat. 17][/us/stat/81/17]; [Pub. L. 98–479, title II, § 204(a)(17)][/us/pl/98/479/s204/a/17], Oct. 17, 1984, [98 Stat. 2232][/us/stat/98/2232]; [Pub. L. 101–235, title I, § 133(d)(3)][/us/pl/101/235/s133/d/3], Dec. 15, 1989, [103 Stat. 2027][/us/stat/103/2027]; [Pub. L. 102–54, § 13(d)(2)(B)][/us/pl/102/54/s13/d/2/B], June 13, 1991, [105 Stat. 274][/us/stat/105/274].)
+([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title V, § 512, as added [Aug. 2, 1954, ch. 649][/us/act/1954-08-02/ch649], title I, § 132, [68 Stat. 610][/us/stat/68/610]; amended [Pub. L. 85–857][/us/pl/85/857], § 13(h), Sept. 2, 1958, [72 Stat. 1265][/us/stat/72/1265]; [Pub. L. 86–372, title I][/us/pl/86/372/tI], § 119, Sept. 23, 1959, [73 Stat. 665][/us/stat/73/665]; [Pub. L. 89–754, title X][/us/pl/89/754/tX], § 1020(e), Nov. 3, 1966, [80 Stat. 1296][/us/stat/80/1296]; [Pub. L. 90–19][/us/pl/90/19], § 1(a)(3), (4), May 25, 1967, [81 Stat. 17][/us/stat/81/17]; [Pub. L. 98–479, title II][/us/pl/98/479/tII], § 204(a)(17), Oct. 17, 1984, [98 Stat. 2232][/us/stat/98/2232]; [Pub. L. 101–235, title I][/us/pl/101/235/tI], § 133(d)(3), Dec. 15, 1989, [103 Stat. 2027][/us/stat/103/2027]; [Pub. L. 102–54][/us/pl/102/54], § 13(d)(2)(B), June 13, 1991, [105 Stat. 274][/us/stat/105/274].)
 
  __References in Text__ 
 
@@ -25,7 +25,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 512 of act of June 27, 1934, related to offenses and penalties, and was classified to [section 1731 of this title][/us/usc/t12/s1731], prior to repeal by [act June 25, 1948, ch. 645, § 21][/us/act/1948-06-25/ch645/s21], [62 Stat. 862][/us/stat/62/862], eff. Sept. 1, 1948. See note under section 1731.
+    A prior section 512 of act of June 27, 1934, related to offenses and penalties, and was classified to [section 1731 of this title][/us/usc/t12/s1731], prior to repeal by [act June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], § 21, [62 Stat. 862][/us/stat/62/862], eff. Sept. 1, 1948. See note under section 1731.
 
  __Amendments__ 
 
@@ -57,26 +57,26 @@
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
 [/us/act/1954-08-02/ch649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-02%2Fch649
 [/us/stat/68/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F610
-[/us/pl/85/857/s13/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857%2Fs13%2Fh
+[/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1265
-[/us/pl/86/372/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F372%2Fs119
+[/us/pl/86/372/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F372%2FtI
 [/us/stat/73/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F665
-[/us/pl/89/754/s1020/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F754%2Fs1020%2Fe
+[/us/pl/89/754/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F754%2FtX
 [/us/stat/80/1296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1296
-[/us/pl/90/19/s1/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19%2Fs1%2Fa%2F3
+[/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
 [/us/stat/81/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F17
-[/us/pl/98/479/s204/a/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2Fs204%2Fa%2F17
+[/us/pl/98/479/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2FtII
 [/us/stat/98/2232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2232
-[/us/pl/101/235/s133/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235%2Fs133%2Fd%2F3
+[/us/pl/101/235/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235%2FtI
 [/us/stat/103/2027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2027
-[/us/pl/102/54/s13/d/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54%2Fs13%2Fd%2F2%2FB
+[/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/stat/105/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F274
 [/us/act/1944-06-22/ch268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-06-22%2Fch268
 [/us/stat/58/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F284
 [/us/pl/85/857/s14/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857%2Fs14%2F87
 [/us/stat/72/1273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1273
 [/us/usc/t12/s1731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1731
-[/us/act/1948-06-25/ch645/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645%2Fs21
+[/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F862
 [/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/pl/101/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235

@@ -17,7 +17,7 @@
 
     The Secretary shall use not more than $25,000,000 of the amounts made available under [section 4124(a) of this title][/us/usc/t12/s4124/a] for fiscal year 1993, and not more than $25,000,000 of the amounts made available under [section 4124(a) of this title][/us/usc/t12/s4124/a] for fiscal year 1994, to carry out this subchapter. Of any amounts made available to carry out this subchapter in any appropriation Act, 90 percent shall be set aside for use in accordance with [section 4143 of this title][/us/usc/t12/s4143] and 10 percent shall be set aside for use in accordance with subsection  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “section”. </sup></sup>  4144 of this title.
 
-([Pub. L. 100–242, title II, § 257][/us/pl/100/242/s257], as added [Pub. L. 102–550, title III, § 312][/us/pl/102/550/s312], Oct. 28, 1992, [106 Stat. 3769][/us/stat/106/3769].)
+([Pub. L. 100–242, title II][/us/pl/100/242/tII], § 257, as added [Pub. L. 102–550, title III][/us/pl/102/550/tIII], § 312, Oct. 28, 1992, [106 Stat. 3769][/us/stat/106/3769].)
 
 ----------
 
@@ -29,8 +29,8 @@
 [/us/usc/t12/s4124/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4124%2Fa
 [/us/usc/t12/s4124/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4124%2Fa
 [/us/usc/t12/s4143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4143
-[/us/pl/100/242/s257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs257
-[/us/pl/102/550/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs312
+[/us/pl/100/242/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtII
+[/us/pl/102/550/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtIII
 [/us/stat/106/3769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3769
 
 

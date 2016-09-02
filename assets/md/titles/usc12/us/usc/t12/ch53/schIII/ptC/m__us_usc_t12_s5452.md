@@ -171,7 +171,7 @@
 
             The term “women-owned business” has the meaning given the term “women’s business” in [section 1441a(r)(4)(B) of this title][/us/usc/t12/s1441a/r/4/B], as in effect on the day before the transfer date.
 
-([Pub. L. 111–203, title III, § 342][/us/pl/111/203/s342], July 21, 2010, [124 Stat. 1541][/us/stat/124/1541].)
+([Pub. L. 111–203, title III][/us/pl/111/203/tIII], § 342, July 21, 2010, [124 Stat. 1541][/us/stat/124/1541].)
 
  __References in Text__ 
 
@@ -189,7 +189,7 @@
 [/us/usc/t12/s1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1811
 [/us/usc/t12/s1441a/r/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1441a%2Fr%2F4%2FA
 [/us/usc/t12/s1441a/r/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1441a%2Fr%2F4%2FB
-[/us/pl/111/203/s342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs342
+[/us/pl/111/203/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIII
 [/us/stat/124/1541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1541
 [/us/pl/101/73/s1204/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs1204%2Fc
 [/us/usc/t12/s1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1811

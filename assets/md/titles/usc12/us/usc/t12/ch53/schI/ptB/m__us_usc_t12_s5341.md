@@ -39,7 +39,7 @@
 
     (8) the term “financial instrument” means a financial contract in which the terms and conditions are publicly available, and the roles of one or more of the counterparties are assignable without the consent of any of the other counterparties (including common stock of a publicly traded company, government bonds, or exchange traded futures and options contracts).
 
-([Pub. L. 111–203, title I, § 151][/us/pl/111/203/s151], July 21, 2010, [124 Stat. 1412][/us/stat/124/1412].)
+([Pub. L. 111–203, title I][/us/pl/111/203/tI], § 151, July 21, 2010, [124 Stat. 1412][/us/stat/124/1412].)
 
  __References in Text__ 
 
@@ -54,7 +54,7 @@
 
 [/us/usc/t12/s5344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5344
 [/us/usc/t12/s5344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5344
-[/us/pl/111/203/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs151
+[/us/pl/111/203/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtI
 [/us/stat/124/1412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1412
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1442

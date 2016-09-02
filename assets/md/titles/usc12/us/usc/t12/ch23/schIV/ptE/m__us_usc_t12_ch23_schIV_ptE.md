@@ -17,7 +17,7 @@
 
  __Amendments__ 
 
-    1988—[Pub. L. 100–233, title VIII, § 805(t)(2)][/us/pl/100/233/s805/t/2], Jan. 6, 1988, [101 Stat. 1716][/us/stat/101/1716], redesignated part D as E.
+    1988—[Pub. L. 100–233, title VIII][/us/pl/100/233/tVIII], § 805(t)(2), Jan. 6, 1988, [101 Stat. 1716][/us/stat/101/1716], redesignated part D as E.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/100/233/s805/t/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs805%2Ft%2F2
+[/us/pl/100/233/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtVIII
 [/us/stat/101/1716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1716
 
 

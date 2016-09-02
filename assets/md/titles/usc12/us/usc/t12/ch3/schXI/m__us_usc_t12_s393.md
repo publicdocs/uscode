@@ -17,7 +17,7 @@
 
     The Federal Reserve banks are authorized to act as depositaries for and fiscal agents of any Federal land bank, Federal intermediate credit bank, bank for cooperatives, or other institutions of the Farm Credit System.
 
-([Dec. 23, 1913, ch. 6, § 15][/us/act/1913-12-23/ch6/s15] (par.), as added [Mar. 4, 1923, ch. 252][/us/act/1923-03-04/ch252], title IV, § 406, [42 Stat. 1480][/us/stat/42/1480]; amended [Pub. L. 92–181, title V, § 5][/us/pl/92/181/s5].41, formerly § 5.27(b), Dec. 10, 1971, [85 Stat. 625][/us/stat/85/625]; renumbered § 5.41(b), [Pub. L. 99–205, title II, § 205(a)(2)][/us/pl/99/205/s205/a/2], Dec. 23, 1985, [99 Stat. 1703][/us/stat/99/1703]; renumbered § 5.41, [Pub. L. 100–233, title VIII, § 805(ff)(2)][/us/pl/100/233/s805/ff/2], Jan. 6, 1988, [101 Stat. 1717][/us/stat/101/1717].)
+([Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 15 (par.), as added [Mar. 4, 1923, ch. 252][/us/act/1923-03-04/ch252], title IV, § 406, [42 Stat. 1480][/us/stat/42/1480]; amended [Pub. L. 92–181, title V][/us/pl/92/181/tV], § 5.41, formerly § 5.27(b), Dec. 10, 1971, [85 Stat. 625][/us/stat/85/625]; renumbered § 5.41(b), [Pub. L. 99–205, title II][/us/pl/99/205/tII], § 205(a)(2), Dec. 23, 1985, [99 Stat. 1703][/us/stat/99/1703]; renumbered § 5.41, [Pub. L. 100–233, title VIII][/us/pl/100/233/tVIII], § 805(ff)(2), Jan. 6, 1988, [101 Stat. 1717][/us/stat/101/1717].)
 
  __Codification__ 
 
@@ -34,14 +34,14 @@
 ----------
 ----------
 
-[/us/act/1913-12-23/ch6/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs15
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
 [/us/act/1923-03-04/ch252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1923-03-04%2Fch252
 [/us/stat/42/1480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F1480
-[/us/pl/92/181/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs5
+[/us/pl/92/181/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtV
 [/us/stat/85/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F625
-[/us/pl/99/205/s205/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2Fs205%2Fa%2F2
+[/us/pl/99/205/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F205%2FtII
 [/us/stat/99/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1703
-[/us/pl/100/233/s805/ff/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs805%2Fff%2F2
+[/us/pl/100/233/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtVIII
 [/us/stat/101/1717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1717
 [/us/pl/92/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181
 

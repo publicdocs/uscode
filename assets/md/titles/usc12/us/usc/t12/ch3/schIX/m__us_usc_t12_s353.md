@@ -17,7 +17,7 @@
 
     Any Federal reserve bank may, under rules and regulations prescribed by the Board of Governors of the Federal Reserve System, purchase and sell in the open market, at home or abroad, either from or to domestic or foreign banks, firms, corporations, or individuals, cable transfers and bankers’ acceptances and bills of exchange of the kinds and maturities by this chapter made eligible for rediscount, with or without the indorsement of a member bank.
 
-([Dec. 23, 1913, ch. 6, § 14][/us/act/1913-12-23/ch6/s14] (par.), [38 Stat. 264][/us/stat/38/264]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 203(a), [49 Stat. 704][/us/stat/49/704].)
+([Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 14 (par.), [38 Stat. 264][/us/stat/38/264]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 203(a), [49 Stat. 704][/us/stat/49/704].)
 
  __References in Text__ 
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/act/1913-12-23/ch6/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs14
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
 [/us/stat/38/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F264
 [/us/act/1935-08-23/ch614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch614
 [/us/stat/49/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F704

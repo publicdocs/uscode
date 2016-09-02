@@ -43,17 +43,17 @@
 
         For purposes of this section, the terms “Federal branch”, “Federal agency”, and “foreign bank” have the same meanings as in [section 3101 of this title][/us/usc/t12/s3101].
 
-([Pub. L. 102–242, title IV, § 407][/us/pl/102/242/s407], as added [Pub. L. 109–8, title IX, § 906(d)(2)][/us/pl/109/8/s906/d/2], Apr. 20, 2005, [119 Stat. 169][/us/stat/119/169].)
+([Pub. L. 102–242, title IV][/us/pl/102/242/tIV], § 407, as added [Pub. L. 109–8, title IX][/us/pl/109/8/tIX], § 906(d)(2), Apr. 20, 2005, [119 Stat. 169][/us/stat/119/169].)
 
  __References in Text__ 
 
     Section 25A of the Federal Reserve Act, referred to in subsecs. (a), (b), and (c)(1), popularly known as the Edge Act, is classified to subchapter II (§ 611 et seq.) of chapter 6 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 611 of this title][/us/usc/t12/s611] and Tables.
 
-    [Section 4422 of this title][/us/usc/t12/s4422], referred to in subsecs. (a) to (c)(1), was repealed by [Pub. L. 111–203, title VII, § 740][/us/pl/111/203/s740], July 21, 2010, [124 Stat. 1729][/us/stat/124/1729].
+    [Section 4422 of this title][/us/usc/t12/s4422], referred to in subsecs. (a) to (c)(1), was repealed by [Pub. L. 111–203, title VII][/us/pl/111/203/tVII], § 740, July 21, 2010, [124 Stat. 1729][/us/stat/124/1729].
 
     Section 11(e)(8)(D) of such Act, referred to in subsec. (a)(2), probably means section 11(e)(8)(D) of the Federal Deposit Insurance Act, which is classified to [section 1821(e)(8)(D) of this title][/us/usc/t12/s1821/e/8/D].
 
-    The Federal Deposit Insurance Act, referred to in subsec. (c)(2), is [act Sept. 21, 1950, ch. 967, § 2][/us/act/1950-09-21/ch967/s2], [64 Stat. 873][/us/stat/64/873], which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1811 of this title][/us/usc/t12/s1811] and Tables.
+    The Federal Deposit Insurance Act, referred to in subsec. (c)(2), is [act Sept. 21, 1950, ch. 967][/us/act/1950-09-21/ch967], § 2, [64 Stat. 873][/us/stat/64/873], which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1811 of this title][/us/usc/t12/s1811] and Tables.
 
  __Prior Provisions__ 
 
@@ -82,15 +82,15 @@
 [/us/usc/t12/s1821/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1821%2Fe
 [/us/usc/t12/s1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1811
 [/us/usc/t12/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3101
-[/us/pl/102/242/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs407
-[/us/pl/109/8/s906/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs906%2Fd%2F2
+[/us/pl/102/242/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtIV
+[/us/pl/109/8/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtIX
 [/us/stat/119/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F169
 [/us/usc/t12/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs611
 [/us/usc/t12/s4422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4422
-[/us/pl/111/203/s740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs740
+[/us/pl/111/203/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVII
 [/us/stat/124/1729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1729
 [/us/usc/t12/s1821/e/8/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1821%2Fe%2F8%2FD
-[/us/act/1950-09-21/ch967/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967%2Fs2
+[/us/act/1950-09-21/ch967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967
 [/us/stat/64/873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F873
 [/us/usc/t12/s1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1811
 [/us/pl/102/242/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs407

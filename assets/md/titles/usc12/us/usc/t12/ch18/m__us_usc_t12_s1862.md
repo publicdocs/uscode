@@ -17,7 +17,7 @@
 
     Notwithstanding any limitation or prohibition otherwise imposed by any provision of law exclusively relating to banks or savings associations, other than the limitation on the amount of investment by a Federal savings association contained in [section 1464(c)(4)(B) of this title][/us/usc/t12/s1464/c/4/B], an insured depository institution may invest not more than 10 per centum of paid-in and unimpaired capital and unimpaired surplus in a bank service company. No insured depository institution shall invest more than 5 per centum of its total assets in bank service companies.
 
-([Pub. L. 87–856, § 2][/us/pl/87/856/s2], Oct. 23, 1962, [76 Stat. 1132][/us/stat/76/1132]; [Pub. L. 97–320, title VII, § 709][/us/pl/97/320/s709], Oct. 15, 1982, [96 Stat. 1541][/us/stat/96/1541]; [Pub. L. 104–208, div. A, title II, § 2613(c)][/us/pl/104/208/s2613/c], Sept. 30, 1996, [110 Stat. 3009–477][/us/stat/110/3009-477]; [Pub. L. 109–351, title VI, § 602(a)][/us/pl/109/351/s602/a], (b)(2), Oct. 13, 2006, [120 Stat. 1978][/us/stat/120/1978], 1979.)
+([Pub. L. 87–856][/us/pl/87/856], § 2, Oct. 23, 1962, [76 Stat. 1132][/us/stat/76/1132]; [Pub. L. 97–320, title VII][/us/pl/97/320/tVII], § 709, Oct. 15, 1982, [96 Stat. 1541][/us/stat/96/1541]; [Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], § 2613(c), Sept. 30, 1996, [110 Stat. 3009–477][/us/stat/110/3009-477]; [Pub. L. 109–351, title VI][/us/pl/109/351/tVI], § 602(a), (b)(2), Oct. 13, 2006, [120 Stat. 1978][/us/stat/120/1978], 1979.)
 
  __Amendments__ 
 
@@ -39,13 +39,13 @@
 ----------
 
 [/us/usc/t12/s1464/c/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1464%2Fc%2F4%2FB
-[/us/pl/87/856/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F856%2Fs2
+[/us/pl/87/856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F856
 [/us/stat/76/1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1132
-[/us/pl/97/320/s709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs709
+[/us/pl/97/320/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2FtVII
 [/us/stat/96/1541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1541
-[/us/pl/104/208/s2613/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2613%2Fc
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-477
-[/us/pl/109/351/s602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs602%2Fa
+[/us/pl/109/351/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2FtVI
 [/us/stat/120/1978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1978
 [/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
 [/us/usc/t12/s1464/c/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1464%2Fc%2F4%2FB

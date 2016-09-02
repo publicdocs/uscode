@@ -53,15 +53,15 @@
 
         (2) knowingly or recklessly provides substantially false information to such an agency or the Attorney General.
 
-([June 26, 1934, ch. 750][/us/act/1934-06-26/ch750], title II, § 213, as added [Pub. L. 101–73, title IX, § 932(b)][/us/pl/101/73/s932/b], Aug. 9, 1989, [103 Stat. 494][/us/stat/103/494]; amended [Pub. L. 102–242, title II, § 251(b)(1)][/us/pl/102/242/s251/b/1], (2), Dec. 19, 1991, [105 Stat. 2332][/us/stat/105/2332], 2333; [Pub. L. 102–550, title XVI, § 1604(d)][/us/pl/102/550/s1604/d], Oct. 28, 1992, [106 Stat. 4084][/us/stat/106/4084].)
+([June 26, 1934, ch. 750][/us/act/1934-06-26/ch750], title II, § 213, as added [Pub. L. 101–73, title IX][/us/pl/101/73/tIX], § 932(b), Aug. 9, 1989, [103 Stat. 494][/us/stat/103/494]; amended [Pub. L. 102–242, title II][/us/pl/102/242/tII], § 251(b)(1), (2), Dec. 19, 1991, [105 Stat. 2332][/us/stat/105/2332], 2333; [Pub. L. 102–550, title XVI][/us/pl/102/550/tXVI], § 1604(d), Oct. 28, 1992, [106 Stat. 4084][/us/stat/106/4084].)
 
  __Amendments__ 
 
     1992—Subsec. (a)(2). [Pub. L. 102–550][/us/pl/102/550] substituted, in subpar. (A), “union or the” for “union the” and in subpar. (B), “committee member, or employee of any credit union” for “or employee of any depository institution or any such bank”.
 
-    1991—Subsec. (a). [Pub. L. 102–242, § 251(b)(1)][/us/pl/102/242/s251/b/1], substituted “In general” for “Prohibition against discrimination against whistleblowers” in heading and amended text generally. Prior to amendment, text read as follows: “No federally insured credit union may discharge or otherwise discriminate against any employee with respect to compensation, terms, conditions, or privileges of employment because the employee (or any person acting pursuant to the request of the employee) provided information to the Board or to the Attorney General regarding a possible violation of any law or regulation by the credit union or any of its officers, directors, or employees.”
+    1991—Subsec. (a). [Pub. L. 102–242][/us/pl/102/242], § 251(b)(1), substituted “In general” for “Prohibition against discrimination against whistleblowers” in heading and amended text generally. Prior to amendment, text read as follows: “No federally insured credit union may discharge or otherwise discriminate against any employee with respect to compensation, terms, conditions, or privileges of employment because the employee (or any person acting pursuant to the request of the employee) provided information to the Board or to the Attorney General regarding a possible violation of any law or regulation by the credit union or any of its officers, directors, or employees.”
 
-    Subsec. (c). [Pub. L. 102–242, § 251(b)(2)][/us/pl/102/242/s251/b/2], inserted “or the Administration” after “the credit union”.
+    Subsec. (c). [Pub. L. 102–242][/us/pl/102/242], § 251(b)(2), inserted “or the Administration” after “the credit union”.
 
  __Effective Date of 1992 Amendment__ 
 
@@ -69,7 +69,7 @@
 
  __Effective Date of 1991 Amendment__ 
 
-[Pub. L. 102–242, title II, § 251(b)(3)][/us/pl/102/242/s251/b/3], Dec. 19, 1991, [105 Stat. 2333][/us/stat/105/2333], provided that: 
+[Pub. L. 102–242, title II][/us/pl/102/242/tII], § 251(b)(3), Dec. 19, 1991, [105 Stat. 2333][/us/stat/105/2333], provided that: 
 
 > “Paragraph (2) of section 213(a) of the Federal Credit Union Act \[[12 U.S.C. 1790b(a)(2)][/us/usc/t12/s1790b/a/2]\] (as added under the amendment made by paragraph (1)) shall be treated as having taken effect on January 1, 1987, and for purposes of any cause of action arising under such paragraph (as so effective) before the date of the enactment of this Act \[Dec. 19, 1991\], the 2-year period referred to in section 213(b) of such Act shall be deemed to begin on such date of enactment.”
 
@@ -81,20 +81,20 @@
 ----------
 
 [/us/act/1934-06-26/ch750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-26%2Fch750
-[/us/pl/101/73/s932/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs932%2Fb
+[/us/pl/101/73/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtIX
 [/us/stat/103/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F494
-[/us/pl/102/242/s251/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs251%2Fb%2F1
+[/us/pl/102/242/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtII
 [/us/stat/105/2332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2332
-[/us/pl/102/550/s1604/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1604%2Fd
+[/us/pl/102/550/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXVI
 [/us/stat/106/4084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4084
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
-[/us/pl/102/242/s251/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs251%2Fb%2F1
-[/us/pl/102/242/s251/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs251%2Fb%2F2
+[/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
+[/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
 [/us/pl/102/550/s1609/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1609%2Fa
 [/us/usc/t12/s191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs191
-[/us/pl/102/242/s251/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs251%2Fb%2F3
+[/us/pl/102/242/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtII
 [/us/stat/105/2333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2333
 [/us/usc/t12/s1790b/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1790b%2Fa%2F2
 

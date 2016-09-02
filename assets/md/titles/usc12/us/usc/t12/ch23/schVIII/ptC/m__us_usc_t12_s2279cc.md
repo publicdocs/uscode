@@ -145,7 +145,7 @@
 
             The Office of Secondary Market Oversight established under [section 2279aa–11 of this title][/us/usc/t12/s2279aa–11] shall be abolished, and [section 2279aa–11(a) of this title][/us/usc/t12/s2279aa–11/a] and part B shall have no force or effect, on such date as the Farm Credit Administration Board determines is appropriate following the placement of the Corporation in receivership, but not later than the conclusion of the receivership and discharge of the receiver.
 
-([Pub. L. 92–181, title VIII, § 8][/us/pl/92/181/s8].41, as added [Pub. L. 104–105, title I, § 118][/us/pl/104/105/s118], Feb. 10, 1996, [110 Stat. 168][/us/stat/110/168].)
+([Pub. L. 92–181, title VIII][/us/pl/92/181/tVIII], § 8.41, as added [Pub. L. 104–105, title I][/us/pl/104/105/tI], § 118, Feb. 10, 1996, [110 Stat. 168][/us/stat/110/168].)
 
 ----------
 
@@ -162,8 +162,8 @@
 [/us/usc/t12/s2183/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2183%2Fb
 [/us/usc/t12/s2279aa–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2279aa%E2%80%9311
 [/us/usc/t12/s2279aa–11/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2279aa%E2%80%9311%2Fa
-[/us/pl/92/181/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs8
-[/us/pl/104/105/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2Fs118
+[/us/pl/92/181/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtVIII
+[/us/pl/104/105/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2FtI
 [/us/stat/110/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F168
 
 

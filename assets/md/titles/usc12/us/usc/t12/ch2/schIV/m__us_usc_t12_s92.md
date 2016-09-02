@@ -17,7 +17,7 @@
 
     In addition to the powers now vested by law in national banking associations organized under the laws of the United States any such association located and doing business in any place the population of which does not exceed five thousand inhabitants, as shown by the last preceding decennial census, may, under such rules and regulations as may be prescribed by the Comptroller of the Currency, act as the agent for any fire, life, or other insurance company authorized by the authorities of the State in which said bank is located to do business in said State, by soliciting and selling insurance and collecting premiums on policies issued by such company; and may receive for services so rendered such fees or commissions as may be agreed upon between the said association and the insurance company for which it may act as agent: Provided, however, That no such bank shall in any case assume or guarantee the payment of any premium on insurance policies issued through its agency by its principal: And provided further, That the bank shall not guarantee the truth of any statement made by an assured in filing his application for insurance.
 
-([Dec. 23, 1913, ch. 6, § 13][/us/act/1913-12-23/ch6/s13] (par.), as added [Sept. 7, 1916, ch. 461][/us/act/1916-09-07/ch461], [39 Stat. 753][/us/stat/39/753]; amended [Pub. L. 97–320, title IV, § 403(b)][/us/pl/97/320/s403/b], Oct. 15, 1982, [96 Stat. 1511][/us/stat/96/1511].)
+([Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 13 (par.), as added [Sept. 7, 1916, ch. 461][/us/act/1916-09-07/ch461], [39 Stat. 753][/us/stat/39/753]; amended [Pub. L. 97–320, title IV][/us/pl/97/320/tIV], § 403(b), Oct. 15, 1982, [96 Stat. 1511][/us/stat/96/1511].)
 
  __Codification__ 
 
@@ -35,7 +35,7 @@
 
  __Moratorium__ 
 
-    [Pub. L. 100–86, title II, § 201(a)][/us/pl/100/86/s201/a], (b)(5), Aug. 10, 1987, [101 Stat. 581][/us/stat/101/581], 583, provided that, during period beginning Mar. 6, 1987, and ending Mar. 1, 1988, national banks and Federal branches or agencies of foreign banks could not expand their insurance agency activities pursuant to this section into places where they were not conducting such activities as of Mar. 5, 1987.
+    [Pub. L. 100–86, title II][/us/pl/100/86/tII], § 201(a), (b)(5), Aug. 10, 1987, [101 Stat. 581][/us/stat/101/581], 583, provided that, during period beginning Mar. 6, 1987, and ending Mar. 1, 1988, national banks and Federal branches or agencies of foreign banks could not expand their insurance agency activities pursuant to this section into places where they were not conducting such activities as of Mar. 5, 1987.
 
 ----------
 
@@ -44,10 +44,10 @@
 ----------
 ----------
 
-[/us/act/1913-12-23/ch6/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs13
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
 [/us/act/1916-09-07/ch461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-09-07%2Fch461
 [/us/stat/39/753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F753
-[/us/pl/97/320/s403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs403%2Fb
+[/us/pl/97/320/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2FtIV
 [/us/stat/96/1511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1511
 [/us/stat/39/752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F752
 [/us/stat/42/1478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F1478
@@ -58,7 +58,7 @@
 [/us/pl/97/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320
 [/us/pl/97/320/s403/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs403%2Fc
 [/us/usc/t12/s371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs371
-[/us/pl/100/86/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2Fs201%2Fa
+[/us/pl/100/86/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2FtII
 [/us/stat/101/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F581
 
 

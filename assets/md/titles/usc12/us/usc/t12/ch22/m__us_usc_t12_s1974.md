@@ -17,7 +17,7 @@
 
     In any action brought by or on behalf of the United States under [section 1972 of this title][/us/usc/t12/s1972], subpenas for witnesses may run into any district, but no writ of subpena may issue for witnesses living out of the district in which the court is held at a greater distance than one hundred miles from the place of holding the same without the prior permission of the trial court upon proper application and cause shown.
 
-([Pub. L. 91–607, title I, § 106(d)][/us/pl/91/607/s106/d], Dec. 31, 1970, [84 Stat. 1767][/us/stat/84/1767].)
+([Pub. L. 91–607, title I][/us/pl/91/607/tI], § 106(d), Dec. 31, 1970, [84 Stat. 1767][/us/stat/84/1767].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t12/s1972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1972
-[/us/pl/91/607/s106/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F607%2Fs106%2Fd
+[/us/pl/91/607/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F607%2FtI
 [/us/stat/84/1767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1767
 
 

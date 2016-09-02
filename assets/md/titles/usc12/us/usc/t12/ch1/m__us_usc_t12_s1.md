@@ -29,15 +29,15 @@
 
             The Comptroller of the Currency shall have the same authority with respect to functions transferred to the Comptroller of the Currency under the Enhancing Financial Institution Safety and Soundness Act of 2010 as was vested in the Director of the Office of Thrift Supervision on the transfer date, as defined in section 311 of that Act \[[12 U.S.C. 5411][/us/usc/t12/s5411]\].
 
-(R.S. § 324; [Dec. 23, 1913, ch. 6, § 10][/us/act/1913-12-23/ch6/s10] (par.), [38 Stat. 261][/us/stat/38/261]; [June 3, 1922, ch. 205][/us/act/1922-06-03/ch205], [42 Stat. 621][/us/stat/42/621]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 203(a), [49 Stat. 704][/us/stat/49/704]; [Pub. L. 89–427, § 1][/us/pl/89/427/s1], May 20, 1966, [80 Stat. 161][/us/stat/80/161]; [Pub. L. 103–325, title III, § 331(b)(2)][/us/pl/103/325/s331/b/2], Sept. 23, 1994, [108 Stat. 2232][/us/stat/108/2232]; [Pub. L. 111–203, title III, § 314(a)][/us/pl/111/203/s314/a], July 21, 2010, [124 Stat. 1523][/us/stat/124/1523].)
+(R.S. § 324; [Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 10 (par.), [38 Stat. 261][/us/stat/38/261]; [June 3, 1922, ch. 205][/us/act/1922-06-03/ch205], [42 Stat. 621][/us/stat/42/621]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 203(a), [49 Stat. 704][/us/stat/49/704]; [Pub. L. 89–427][/us/pl/89/427], § 1, May 20, 1966, [80 Stat. 161][/us/stat/80/161]; [Pub. L. 103–325, title III][/us/pl/103/325/tIII], § 331(b)(2), Sept. 23, 1994, [108 Stat. 2232][/us/stat/108/2232]; [Pub. L. 111–203, title III][/us/pl/111/203/tIII], § 314(a), July 21, 2010, [124 Stat. 1523][/us/stat/124/1523].)
 
  __References in Text__ 
 
-    The Enhancing Financial Institution Safety and Soundness Act of 2010, referred to in subsec. (b)(2), is [Pub. L. 111–203, title III][/us/pl/111/203], July 21, 2010, [124 Stat. 1520][/us/stat/124/1520]. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title][/us/usc/t12/s5301] and Tables.
+    The Enhancing Financial Institution Safety and Soundness Act of 2010, referred to in subsec. (b)(2), is [Pub. L. 111–203, title III][/us/pl/111/203/tIII], July 21, 2010, [124 Stat. 1520][/us/stat/124/1520]. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title][/us/usc/t12/s5301] and Tables.
 
  __Codification__ 
 
-    R.S. § 324 derived from [act June 3, 1864, ch. 106, § 1][/us/act/1864-06-03/ch106/s1], [13 Stat. 99][/us/stat/13/99], which was the National Bank Act. See [section 38 of this title][/us/usc/t12/s38].
+    R.S. § 324 derived from [act June 3, 1864, ch. 106][/us/act/1864-06-03/ch106], § 1, [13 Stat. 99][/us/stat/13/99], which was the National Bank Act. See [section 38 of this title][/us/usc/t12/s38].
 
     Section is comprised of R.S. § 324, as amended by the eighth paragraph of act Dec. 23, 1913, § 10.
 
@@ -51,7 +51,7 @@
 
  __Effective Date of 2010 Amendment__ 
 
-[Pub. L. 111–203, title III, § 314(d)][/us/pl/111/203/s314/d], July 21, 2010, [124 Stat. 1524][/us/stat/124/1524], provided that: 
+[Pub. L. 111–203, title III][/us/pl/111/203/tIII], § 314(d), July 21, 2010, [124 Stat. 1524][/us/stat/124/1524], provided that: 
 
 > “This section \[enacting [section 4b of this title][/us/usc/t12/s4b] and amending this section and [section 11 of this title][/us/usc/t12/s11]\], and the amendments made by this section, shall take effect on the transfer date.”
 
@@ -69,22 +69,22 @@
 ----------
 
 [/us/usc/t12/s5411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5411
-[/us/act/1913-12-23/ch6/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs10
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
 [/us/stat/38/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F261
 [/us/act/1922-06-03/ch205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-06-03%2Fch205
 [/us/stat/42/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F621
 [/us/act/1935-08-23/ch614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch614
 [/us/stat/49/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F704
-[/us/pl/89/427/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F427%2Fs1
+[/us/pl/89/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F427
 [/us/stat/80/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F161
-[/us/pl/103/325/s331/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs331%2Fb%2F2
+[/us/pl/103/325/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtIII
 [/us/stat/108/2232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2232
-[/us/pl/111/203/s314/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs314%2Fa
+[/us/pl/111/203/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIII
 [/us/stat/124/1523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1523
-[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIII
 [/us/stat/124/1520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1520
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301
-[/us/act/1864-06-03/ch106/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-06-03%2Fch106%2Fs1
+[/us/act/1864-06-03/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-06-03%2Fch106
 [/us/stat/13/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F13%2F99
 [/us/usc/t12/s38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs38
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
@@ -92,7 +92,7 @@
 [/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
 [/us/usc/t12/s1462a/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1462a%2Fb%2F3
 [/us/pl/89/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F427
-[/us/pl/111/203/s314/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs314%2Fd
+[/us/pl/111/203/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIII
 [/us/stat/124/1524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1524
 [/us/usc/t12/s4b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4b
 [/us/usc/t12/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs11

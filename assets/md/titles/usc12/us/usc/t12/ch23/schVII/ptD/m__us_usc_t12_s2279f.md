@@ -59,13 +59,13 @@
 
             Notwithstanding paragraph (2), the bylaws of the merged bank may, with the approval of the Farm Credit Administration, provide for a different number of directors to be selected in a different manner, except that the bylaws shall provide for at least one outside director.
 
-([Pub. L. 92–181, title VII, § 7][/us/pl/92/181/s7].12, as added [Pub. L. 100–233, title IV, § 416][/us/pl/100/233/s416], Jan. 6, 1988, [101 Stat. 1652][/us/stat/101/1652]; amended [Pub. L. 100–399, title IV, § 408(q)][/us/pl/100/399/s408/q], (r), Aug. 17, 1988, [102 Stat. 1002][/us/stat/102/1002], 1003.)
+([Pub. L. 92–181, title VII][/us/pl/92/181/tVII], § 7.12, as added [Pub. L. 100–233, title IV][/us/pl/100/233/tIV], § 416, Jan. 6, 1988, [101 Stat. 1652][/us/stat/101/1652]; amended [Pub. L. 100–399, title IV][/us/pl/100/399/tIV], § 408(q), (r), Aug. 17, 1988, [102 Stat. 1002][/us/stat/102/1002], 1003.)
 
  __Amendments__ 
 
-    1988—Subsec. (b). [Pub. L. 100–399, § 408(q)][/us/pl/100/399/s408/q], substituted “Powers and capitalization” for “Procedures” in heading and, in amending text generally, substituted “Sections 2279a–2 and 2279a–3 of this title” for “The provisions of sections 2279a–2 through 2279a–4 of this title”.
+    1988—Subsec. (b). [Pub. L. 100–399][/us/pl/100/399], § 408(q), substituted “Powers and capitalization” for “Procedures” in heading and, in amending text generally, substituted “Sections 2279a–2 and 2279a–3 of this title” for “The provisions of sections 2279a–2 through 2279a–4 of this title”.
 
-    Subsec. (c)(2)(B). [Pub. L. 100–399, § 408(r)][/us/pl/100/399/s408/r], substituted “directors” for “members”.
+    Subsec. (c)(2)(B). [Pub. L. 100–399][/us/pl/100/399], § 408(r), substituted “directors” for “members”.
 
  __Effective Date of 1988 Amendment__ 
 
@@ -78,13 +78,13 @@
 ----------
 ----------
 
-[/us/pl/92/181/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs7
-[/us/pl/100/233/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs416
+[/us/pl/92/181/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtVII
+[/us/pl/100/233/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtIV
 [/us/stat/101/1652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1652
-[/us/pl/100/399/s408/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs408%2Fq
+[/us/pl/100/399/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtIV
 [/us/stat/102/1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1002
-[/us/pl/100/399/s408/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs408%2Fq
-[/us/pl/100/399/s408/r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs408%2Fr
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
+[/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/100/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399
 [/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
 [/us/pl/100/399/s1001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs1001%2Fa

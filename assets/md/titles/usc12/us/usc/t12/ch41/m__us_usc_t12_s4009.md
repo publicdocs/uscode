@@ -65,7 +65,7 @@
 
         The authority of the Board to prescribe regulations under this chapter does not impair the authority of any other agency designated in this section to make rules regarding its own procedures in enforcing compliance with requirements imposed under this chapter.
 
-([Pub. L. 100–86, title VI, § 610][/us/pl/100/86/s610], Aug. 10, 1987, [101 Stat. 649][/us/stat/101/649]; [Pub. L. 101–73, title VII, § 744(d)][/us/pl/101/73/s744/d], Aug. 9, 1989, [103 Stat. 438][/us/stat/103/438]; [Pub. L. 102–242, title II, § 212(h)][/us/pl/102/242/s212/h], Dec. 19, 1991, [105 Stat. 2303][/us/stat/105/2303].)
+([Pub. L. 100–86, title VI][/us/pl/100/86/tVI], § 610, Aug. 10, 1987, [101 Stat. 649][/us/stat/101/649]; [Pub. L. 101–73, title VII][/us/pl/101/73/tVII], § 744(d), Aug. 9, 1989, [103 Stat. 438][/us/stat/103/438]; [Pub. L. 102–242, title II][/us/pl/102/242/tII], § 212(h), Dec. 19, 1991, [105 Stat. 2303][/us/stat/105/2303].)
 
  __References in Text__ 
 
@@ -73,9 +73,9 @@
 
  __Amendments__ 
 
-    1991—Subsec. (a). [Pub. L. 102–242, § 212(h)(2)][/us/pl/102/242/s212/h/2], inserted at end “The terms used in paragraph (1) that are not defined in this chapter or otherwise defined in section 3(s) of the Federal Deposit Insurance Act ([12 U.S.C. 1813(s)][/us/usc/t12/s1813/s]) shall have the meaning given to them in section 1(b) of the International Banking Act of 1978 ([12 U.S.C. 3101][/us/usc/t12/s3101]).”
+    1991—Subsec. (a). [Pub. L. 102–242][/us/pl/102/242], § 212(h)(2), inserted at end “The terms used in paragraph (1) that are not defined in this chapter or otherwise defined in section 3(s) of the Federal Deposit Insurance Act ([12 U.S.C. 1813(s)][/us/usc/t12/s1813/s]) shall have the meaning given to them in section 1(b) of the International Banking Act of 1978 ([12 U.S.C. 3101][/us/usc/t12/s3101]).”
 
-    Subsec. (a)(1). [Pub. L. 102–242, § 212(h)(1)][/us/pl/102/242/s212/h/1], added par. (1) and struck out former par. (1) which read as follows: “section 8 of the Federal Deposit Insurance Act in the case of—
+    Subsec. (a)(1). [Pub. L. 102–242][/us/pl/102/242], § 212(h)(1), added par. (1) and struck out former par. (1) which read as follows: “section 8 of the Federal Deposit Insurance Act in the case of—
 
     “(A) national banks, by the Comptroller of the Currency;
 
@@ -101,19 +101,19 @@
 [/us/usc/t12/s1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1751
 [/us/usc/t12/s1813/s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813%2Fs
 [/us/usc/t12/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3101
-[/us/pl/100/86/s610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2Fs610
+[/us/pl/100/86/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2FtVI
 [/us/stat/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F649
-[/us/pl/101/73/s744/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs744%2Fd
+[/us/pl/101/73/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtVII
 [/us/stat/103/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F438
-[/us/pl/102/242/s212/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs212%2Fh
+[/us/pl/102/242/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtII
 [/us/stat/105/2303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2303
 [/us/act/1934-06-26/ch750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-26%2Fch750
 [/us/stat/48/1216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1216
 [/us/usc/t12/s1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1751
-[/us/pl/102/242/s212/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs212%2Fh%2F2
+[/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
 [/us/usc/t12/s1813/s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813%2Fs
 [/us/usc/t12/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3101
-[/us/pl/102/242/s212/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs212%2Fh%2F1
+[/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
 [/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
 [/us/pl/100/86/s613/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2Fs613%2Fb
 [/us/usc/t12/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4001

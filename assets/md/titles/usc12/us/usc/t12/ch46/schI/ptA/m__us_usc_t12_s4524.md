@@ -17,7 +17,7 @@
 
     The Comptroller General may audit the operations of the Agency, and any such audit shall be conducted in accordance with generally accepted Government auditing standards. All books, records, accounts, reports, files, and property belonging to, or used by, the Agency shall be made available to the Comptroller General.
 
-([Pub. L. 102–550, title XIII, § 1319E][/us/pl/102/550/s1319E], Oct. 28, 1992, [106 Stat. 3952][/us/stat/106/3952]; [Pub. L. 104–316, title I, § 106(h)][/us/pl/104/316/s106/h], Oct. 19, 1996, [110 Stat. 3831][/us/stat/110/3831]; [Pub. L. 110–289, div. A, title I, § 1161(a)(5)][/us/pl/110/289/s1161/a/5], July 30, 2008, [122 Stat. 2779][/us/stat/122/2779].)
+([Pub. L. 102–550, title XIII][/us/pl/102/550/tXIII], § 1319E, Oct. 28, 1992, [106 Stat. 3952][/us/stat/106/3952]; [Pub. L. 104–316, title I][/us/pl/104/316/tI], § 106(h), Oct. 19, 1996, [110 Stat. 3831][/us/stat/110/3831]; [Pub. L. 110–289, div. A, title I][/us/pl/110/289/dA/tI], § 1161(a)(5), July 30, 2008, [122 Stat. 2779][/us/stat/122/2779].)
 
  __Amendments__ 
 
@@ -32,11 +32,11 @@
 ----------
 ----------
 
-[/us/pl/102/550/s1319E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1319E
+[/us/pl/102/550/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIII
 [/us/stat/106/3952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3952
-[/us/pl/104/316/s106/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs106%2Fh
+[/us/pl/104/316/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2FtI
 [/us/stat/110/3831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3831
-[/us/pl/110/289/s1161/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1161%2Fa%2F5
+[/us/pl/110/289/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtI
 [/us/stat/122/2779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2779
 [/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
 [/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316

@@ -83,7 +83,7 @@
 
             (B) the aggregate amount of qualified loans purchased and held by the Corporation under [section 2279aa–3(c)(13) of this title][/us/usc/t12/s2279aa–3/c/13].
 
-([Pub. L. 92–181, title VIII, § 8][/us/pl/92/181/s8].33, as added [Pub. L. 102–237, title V, § 503(b)(2)][/us/pl/102/237/s503/b/2], Dec. 13, 1991, [105 Stat. 1873][/us/stat/105/1873]; amended [Pub. L. 104–105, title I, § 114][/us/pl/104/105/s114], Feb. 10, 1996, [110 Stat. 166][/us/stat/110/166].)
+([Pub. L. 92–181, title VIII][/us/pl/92/181/tVIII], § 8.33, as added [Pub. L. 102–237, title V][/us/pl/102/237/tV], § 503(b)(2), Dec. 13, 1991, [105 Stat. 1873][/us/stat/105/1873]; amended [Pub. L. 104–105, title I][/us/pl/104/105/tI], § 114, Feb. 10, 1996, [110 Stat. 166][/us/stat/110/166].)
 
  __Amendments__ 
 
@@ -98,10 +98,10 @@
 
 [/us/usc/t12/s2279aa–6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2279aa%E2%80%936%2Fe
 [/us/usc/t12/s2279aa–3/c/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2279aa%E2%80%933%2Fc%2F13
-[/us/pl/92/181/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2Fs8
-[/us/pl/102/237/s503/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs503%2Fb%2F2
+[/us/pl/92/181/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181%2FtVIII
+[/us/pl/102/237/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtV
 [/us/stat/105/1873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1873
-[/us/pl/104/105/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2Fs114
+[/us/pl/104/105/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105%2FtI
 [/us/stat/110/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F166
 [/us/pl/104/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F105
 

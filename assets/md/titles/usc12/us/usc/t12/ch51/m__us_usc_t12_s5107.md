@@ -57,13 +57,13 @@
 
             In issuing regulations under paragraph (1), the Bureau shall take into account the need to provide originators adequate incentives to originate affordable and sustainable mortgage loans, as well as the need to ensure a competitive origination market that maximizes consumer access to affordable and sustainable mortgage loans.
 
-([Pub. L. 110–289, div. A, title V, § 1508][/us/pl/110/289/s1508], July 30, 2008, [122 Stat. 2818][/us/stat/122/2818]; [Pub. L. 111–203, title X, § 1100(3)][/us/pl/111/203/s1100/3], (6), July 21, 2010, [124 Stat. 2106][/us/stat/124/2106].)
+([Pub. L. 110–289, div. A, title V][/us/pl/110/289/dA/tV], § 1508, July 30, 2008, [122 Stat. 2818][/us/stat/122/2818]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1100(3), (6), July 21, 2010, [124 Stat. 2106][/us/stat/124/2106].)
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–203, § 1100(3)][/us/pl/111/203/s1100/3], (6)(A), inserted section catchline, struck out former section catchline which read “Secretary of Housing and Urban Development backup authority to establish a loan originator licensing system”, and substituted “Director” for “Secretary” wherever appearing in text.
+    2010—[Pub. L. 111–203][/us/pl/111/203], § 1100(3), (6)(A), inserted section catchline, struck out former section catchline which read “Secretary of Housing and Urban Development backup authority to establish a loan originator licensing system”, and substituted “Director” for “Secretary” wherever appearing in text.
 
-    Subsec. (f). [Pub. L. 111–203, § 1100(6)(B)][/us/pl/111/203/s1100/6/B], added subsec. (f).
+    Subsec. (f). [Pub. L. 111–203][/us/pl/111/203], § 1100(6)(B), added subsec. (f).
 
  __Effective Date of 2010 Amendment__ 
 
@@ -76,12 +76,12 @@
 ----------
 ----------
 
-[/us/pl/110/289/s1508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1508
+[/us/pl/110/289/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtV
 [/us/stat/122/2818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2818
-[/us/pl/111/203/s1100/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100%2F3
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2106
-[/us/pl/111/203/s1100/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100%2F3
-[/us/pl/111/203/s1100/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100%2F6%2FB
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s1100H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100H
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a

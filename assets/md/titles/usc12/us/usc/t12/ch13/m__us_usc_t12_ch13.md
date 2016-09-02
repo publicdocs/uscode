@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1701" data-uslm-ref="/us/usc/t12/s1701">1701</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1701l" data-uslm-ref="/us/usc/t12/s1701l">1701l.</a>  </td>
 
     <td> Limitation on interest rates of insured mortgages; terms of sales.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1701" data-uslm-ref="/us/usc/t12/s1701">1701</a>l–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1701l" data-uslm-ref="/us/usc/t12/s1701l">1701l</a>–1.  </td>
 
     <td> Mortgage proceeds fraudulently misappropriated by mortgagor; recovery of deficiency after foreclosure.  </td>
 
@@ -201,7 +201,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1701" data-uslm-ref="/us/usc/t12/s1701">1701</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1701o" data-uslm-ref="/us/usc/t12/s1701o">1701o.</a>  </td>
 
     <td> Annual report of Secretary.  </td>
 
@@ -801,7 +801,7 @@ SUBCHAPTER II—MORTGAGE INSURANCE  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1715" data-uslm-ref="/us/usc/t12/s1715">1715</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1715l" data-uslm-ref="/us/usc/t12/s1715l">1715l.</a>  </td>
 
     <td> Housing for moderate income and displaced families.  </td>
 
@@ -825,7 +825,7 @@ SUBCHAPTER II—MORTGAGE INSURANCE  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1715" data-uslm-ref="/us/usc/t12/s1715">1715</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1715o" data-uslm-ref="/us/usc/t12/s1715o">1715o.</a>  </td>
 
     <td> Interest rate on debentures; method of establishment.  </td>
 
@@ -1857,7 +1857,7 @@ SUBCHAPTER VII—INSURANCE FOR INVESTMENTS IN RENTAL HOUSING FOR FAMILIES OF MOD
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1747" data-uslm-ref="/us/usc/t12/s1747">1747</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1747l" data-uslm-ref="/us/usc/t12/s1747l">1747l.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -2009,7 +2009,7 @@ SUBCHAPTER IX–A—MORTGAGE INSURANCE FOR LAND DEVELOPMENT AND NEW COMMUNITIES 
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1749aa" data-uslm-ref="/us/usc/t12/s1749aa">1749aa</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1749" data-uslm-ref="/us/usc/t12/s1749">1749</a>ll.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1749aa" data-uslm-ref="/us/usc/t12/s1749aa">1749aa</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs1749ll" data-uslm-ref="/us/usc/t12/s1749ll">1749ll</a>.  </td>
 
     <td> Repealed.  </td>
 

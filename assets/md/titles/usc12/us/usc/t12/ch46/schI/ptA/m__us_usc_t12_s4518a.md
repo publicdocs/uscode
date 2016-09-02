@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision in law, senior executives at the Federal National Mortgage Association and the Federal Home Loan Mortgage Corporation are prohibited from receiving bonuses during any period of conservatorship for those entities on or after April 4, 2012.
 
-([Pub. L. 112–105, § 16][/us/pl/112/105/s16], Apr. 4, 2012, [126 Stat. 303][/us/stat/126/303].)
+([Pub. L. 112–105][/us/pl/112/105], § 16, Apr. 4, 2012, [126 Stat. 303][/us/stat/126/303].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/112/105/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F105%2Fs16
+[/us/pl/112/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F105
 [/us/stat/126/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F303
 
 

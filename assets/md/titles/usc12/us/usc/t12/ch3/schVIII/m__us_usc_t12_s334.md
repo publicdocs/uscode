@@ -21,7 +21,7 @@
 
     Any such affiliated member bank which fails to obtain from any of its affiliates and furnish any report provided for by the two preceding paragraphs of this section shall be subject to a penalty of $100 for each day during which such failure continues, which, by direction of the Board of Governors of the Federal Reserve System, may be collected, by suit or otherwise, by the Federal reserve bank of the district in which such member bank is located.
 
-([Dec. 23, 1913, ch. 6, § 9][/us/act/1913-12-23/ch6/s9] (pars.), as added [June 16, 1933, ch. 89, § 5(c)][/us/act/1933-06-16/ch89/s5/c], [48 Stat. 165][/us/stat/48/165]; amended [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 203(a), [49 Stat. 704][/us/stat/49/704]; [Pub. L. 89–485, § 13(f)][/us/pl/89/485/s13/f], July 1, 1966, [80 Stat. 243][/us/stat/80/243].)
+([Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 9 (pars.), as added [June 16, 1933, ch. 89][/us/act/1933-06-16/ch89], § 5(c), [48 Stat. 165][/us/stat/48/165]; amended [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 203(a), [49 Stat. 704][/us/stat/49/704]; [Pub. L. 89–485][/us/pl/89/485], § 13(f), July 1, 1966, [80 Stat. 243][/us/stat/80/243].)
 
  __References in Text__ 
 
@@ -46,12 +46,12 @@
 ----------
 ----------
 
-[/us/act/1913-12-23/ch6/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs9
-[/us/act/1933-06-16/ch89/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-16%2Fch89%2Fs5%2Fc
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
+[/us/act/1933-06-16/ch89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-16%2Fch89
 [/us/stat/48/165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F165
 [/us/act/1935-08-23/ch614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch614
 [/us/stat/49/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F704
-[/us/pl/89/485/s13/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F485%2Fs13%2Ff
+[/us/pl/89/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F485
 [/us/stat/80/243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F243
 [/us/stat/48/165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F165
 [/us/stat/49/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F704

@@ -25,7 +25,7 @@
 
     Each such agency or instrumentality may require compliance with additional standards if it makes a determination in writing that such additional standards are required in order to properly carry out its statutory responsibilities.
 
-([Pub. L. 101–73, title XI, § 1110][/us/pl/101/73/s1110], Aug. 9, 1989, [103 Stat. 514][/us/stat/103/514]; [Pub. L. 111–203, title XIV, § 1473(e)(1)][/us/pl/111/203/s1473/e/1], July 21, 2010, [124 Stat. 2191][/us/stat/124/2191].)
+([Pub. L. 101–73, title XI][/us/pl/101/73/tXI], § 1110, Aug. 9, 1989, [103 Stat. 514][/us/stat/103/514]; [Pub. L. 111–203, title XIV][/us/pl/111/203/tXIV], § 1473(e)(1), July 21, 2010, [124 Stat. 2191][/us/stat/124/2191].)
 
  __Amendments__ 
 
@@ -42,9 +42,9 @@
 ----------
 ----------
 
-[/us/pl/101/73/s1110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs1110
+[/us/pl/101/73/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtXI
 [/us/stat/103/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F514
-[/us/pl/111/203/s1473/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1473%2Fe%2F1
+[/us/pl/111/203/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtXIV
 [/us/stat/124/2191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2191
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203

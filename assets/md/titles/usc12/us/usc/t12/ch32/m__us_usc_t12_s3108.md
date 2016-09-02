@@ -73,13 +73,13 @@
 
         In the case of any provision of the Federal Reserve Act \[[12 U.S.C. 221][/us/usc/t12/s221] et seq.\] to which a foreign bank or branch thereof is subject under this chapter, and which is made applicable to nonmember insured banks by the Federal Deposit Insurance Act \[[12 U.S.C. 1811][/us/usc/t12/s1811] et seq.\], whether by cross-reference to the Federal Reserve Act or by a provision in substantially the same terms in the Federal Deposit Insurance Act, the administration, interpretation, and enforcement of such provision, insofar as it relates to any foreign bank or branch thereof as to which the Board is an appropriate Federal banking agency, are vested in the Board, but where the making of any report to the Board or a Federal Reserve bank is required under any such provision, the Federal Deposit Insurance Corporation may require that a duplicate of any such report be sent directly to it. This subsection shall not be construed to impair any power of the Federal Deposit Insurance Corporation to make regular or special examinations or to require special reports.
 
-([Pub. L. 95–369, § 13][/us/pl/95/369/s13], Sept. 17, 1978, [92 Stat. 624][/us/stat/92/624]; [Pub. L. 102–242, title II, § 209][/us/pl/102/242/s209], Dec. 19, 1991, [105 Stat. 2297][/us/stat/105/2297].)
+([Pub. L. 95–369][/us/pl/95/369], § 13, Sept. 17, 1978, [92 Stat. 624][/us/stat/92/624]; [Pub. L. 102–242, title II][/us/pl/102/242/tII], § 209, Dec. 19, 1991, [105 Stat. 2297][/us/stat/105/2297].)
 
  __References in Text__ 
 
     For definition of “this chapter”, referred to in text, see References in Text note set out under [section 3101 of this title][/us/usc/t12/s3101].
 
-    The Federal Deposit Insurance Act, referred to in subsecs. (b)(1) and (c), is [act Sept. 21, 1950, ch. 967, § 2][/us/act/1950-09-21/ch967/s2], [64 Stat. 873][/us/stat/64/873], as amended, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1811 of this title][/us/usc/t12/s1811] and Tables.
+    The Federal Deposit Insurance Act, referred to in subsecs. (b)(1) and (c), is [act Sept. 21, 1950, ch. 967][/us/act/1950-09-21/ch967], § 2, [64 Stat. 873][/us/stat/64/873], as amended, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1811 of this title][/us/usc/t12/s1811] and Tables.
 
     The Federal Reserve Act, referred to in subsec. (c), is [act Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], [38 Stat. 251][/us/stat/38/251], as amended, which is classified principally to chapter 3 (§ 221 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under [section 226 of this title][/us/usc/t12/s226] and Tables.
 
@@ -99,12 +99,12 @@
 [/us/usc/t12/s1813/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813%2Fa%2F3
 [/us/usc/t12/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs221
 [/us/usc/t12/s1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1811
-[/us/pl/95/369/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F369%2Fs13
+[/us/pl/95/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F369
 [/us/stat/92/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F624
-[/us/pl/102/242/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs209
+[/us/pl/102/242/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtII
 [/us/stat/105/2297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2297
 [/us/usc/t12/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3101
-[/us/act/1950-09-21/ch967/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967%2Fs2
+[/us/act/1950-09-21/ch967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967
 [/us/stat/64/873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F873
 [/us/usc/t12/s1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1811
 [/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6

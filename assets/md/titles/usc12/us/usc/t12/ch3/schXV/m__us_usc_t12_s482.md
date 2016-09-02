@@ -19,7 +19,7 @@
 
     The Comptroller of the Currency may impose and collect assessments, fees, or other charges as necessary or appropriate to carry out the responsibilities of the office  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be capitalized. </sup></sup>  of the Comptroller. Such assessments, fees, and other charges shall be set to meet the Comptroller’s expenses in carrying out authorized activities.
 
-(R.S. § 5240 (pars.); [Feb. 19, 1875, ch. 89][/us/act/1875-02-19/ch89], [18 Stat. 329][/us/stat/18/329]; [Dec. 23, 1913, ch. 6, § 21][/us/act/1913-12-23/ch6/s21], [38 Stat. 272][/us/stat/38/272]; [July 2, 1932, ch. 392][/us/act/1932-07-02/ch392], [47 Stat. 568][/us/stat/47/568]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title III, § 343, [49 Stat. 722][/us/stat/49/722]; [Apr. 30, 1956, ch. 228][/us/act/1956-04-30/ch228], §§ 2, 3, [70 Stat. 124][/us/stat/70/124]; [Pub. L. 101–73, title XII, § 1202][/us/pl/101/73/s1202], Aug. 9, 1989, [103 Stat. 520][/us/stat/103/520]; [Pub. L. 102–242, title I, § 114(a)][/us/pl/102/242/s114/a], Dec. 19, 1991, [105 Stat. 2248][/us/stat/105/2248]; [Pub. L. 102–550, title XVI, § 1603(b)(5)][/us/pl/102/550/s1603/b/5], Oct. 28, 1992, [106 Stat. 4079][/us/stat/106/4079]; [Pub. L. 103–325, title III, § 331(b)(1)][/us/pl/103/325/s331/b/1], Sept. 23, 1994, [108 Stat. 2232][/us/stat/108/2232]; [Pub. L. 111–203, title III, § 318(a)(2)][/us/pl/111/203/s318/a/2], July 21, 2010, [124 Stat. 1526][/us/stat/124/1526].)
+(R.S. § 5240 (pars.); [Feb. 19, 1875, ch. 89][/us/act/1875-02-19/ch89], [18 Stat. 329][/us/stat/18/329]; [Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 21, [38 Stat. 272][/us/stat/38/272]; [July 2, 1932, ch. 392][/us/act/1932-07-02/ch392], [47 Stat. 568][/us/stat/47/568]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title III, § 343, [49 Stat. 722][/us/stat/49/722]; [Apr. 30, 1956, ch. 228][/us/act/1956-04-30/ch228], §§ 2, 3, [70 Stat. 124][/us/stat/70/124]; [Pub. L. 101–73, title XII][/us/pl/101/73/tXII], § 1202, Aug. 9, 1989, [103 Stat. 520][/us/stat/103/520]; [Pub. L. 102–242, title I][/us/pl/102/242/tI], § 114(a), Dec. 19, 1991, [105 Stat. 2248][/us/stat/105/2248]; [Pub. L. 102–550, title XVI][/us/pl/102/550/tXVI], § 1603(b)(5), Oct. 28, 1992, [106 Stat. 4079][/us/stat/106/4079]; [Pub. L. 103–325, title III][/us/pl/103/325/tIII], § 331(b)(1), Sept. 23, 1994, [108 Stat. 2232][/us/stat/108/2232]; [Pub. L. 111–203, title III][/us/pl/111/203/tIII], § 318(a)(2), July 21, 2010, [124 Stat. 1526][/us/stat/124/1526].)
 
  __References in Text__ 
 
@@ -27,7 +27,7 @@
 
  __Codification__ 
 
-    R.S. § 5240 derived from [act June 3, 1864, ch. 106, § 54][/us/act/1864-06-03/ch106/s54], [13 Stat. 116][/us/stat/13/116], which was part of the National Bank Act. See [section 38 of this title][/us/usc/t12/s38].
+    R.S. § 5240 derived from [act June 3, 1864, ch. 106][/us/act/1864-06-03/ch106], § 54, [13 Stat. 116][/us/stat/13/116], which was part of the National Bank Act. See [section 38 of this title][/us/usc/t12/s38].
 
     Section is comprised of third and fourth pars. of R.S. § 5240, as amended. The former fifth par. of R.S. § 5440, which comprised the third par. of this section, was repealed by [Pub. L. 102–242][/us/pl/102/242]. See Codification note set out under [section 481 of this title][/us/usc/t12/s481].
 
@@ -76,7 +76,7 @@
 [/us/usc/t31/s301/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs301%2Ff%2F1
 [/us/act/1875-02-19/ch89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1875-02-19%2Fch89
 [/us/stat/18/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F18%2F329
-[/us/act/1913-12-23/ch6/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs21
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
 [/us/stat/38/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F272
 [/us/act/1932-07-02/ch392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-07-02%2Fch392
 [/us/stat/47/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F568
@@ -84,18 +84,18 @@
 [/us/stat/49/722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F722
 [/us/act/1956-04-30/ch228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-04-30%2Fch228
 [/us/stat/70/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F124
-[/us/pl/101/73/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs1202
+[/us/pl/101/73/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtXII
 [/us/stat/103/520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F520
-[/us/pl/102/242/s114/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs114%2Fa
+[/us/pl/102/242/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtI
 [/us/stat/105/2248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2248
-[/us/pl/102/550/s1603/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1603%2Fb%2F5
+[/us/pl/102/550/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXVI
 [/us/stat/106/4079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4079
-[/us/pl/103/325/s331/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs331%2Fb%2F1
+[/us/pl/103/325/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtIII
 [/us/stat/108/2232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2232
-[/us/pl/111/203/s318/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs318%2Fa%2F2
+[/us/pl/111/203/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIII
 [/us/stat/124/1526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1526
 [/us/usc/t12/s481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs481
-[/us/act/1864-06-03/ch106/s54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-06-03%2Fch106%2Fs54
+[/us/act/1864-06-03/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-06-03%2Fch106
 [/us/stat/13/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F13%2F116
 [/us/usc/t12/s38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs38
 [/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242

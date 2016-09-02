@@ -79,15 +79,15 @@
 
         (D) to review and verify the work of appraisers.
 
-([Pub. L. 101–73, title XI, § 1121][/us/pl/101/73/s1121], Aug. 9, 1989, [103 Stat. 517][/us/stat/103/517]; [Pub. L. 111–203, title XIV, § 1473(f)(4)][/us/pl/111/203/s1473/f/4], (t)(2), (3), July 21, 2010, [124 Stat. 2193][/us/stat/124/2193], 2199.)
+([Pub. L. 101–73, title XI][/us/pl/101/73/tXI], § 1121, Aug. 9, 1989, [103 Stat. 517][/us/stat/103/517]; [Pub. L. 111–203, title XIV][/us/pl/111/203/tXIV], § 1473(f)(4), (t)(2), (3), July 21, 2010, [124 Stat. 2193][/us/stat/124/2193], 2199.)
 
  __Amendments__ 
 
-    2010—Par. (6). [Pub. L. 111–203, § 1473(t)(2)][/us/pl/111/203/s1473/t/2], substituted “Corporation,” for “Corporations,”.
+    2010—Par. (6). [Pub. L. 111–203][/us/pl/111/203], § 1473(t)(2), substituted “Corporation,” for “Corporations,”.
 
-    Par. (8). [Pub. L. 111–203, § 1473(t)(3)][/us/pl/111/203/s1473/t/3], substituted “Council” for “council”.
+    Par. (8). [Pub. L. 111–203][/us/pl/111/203], § 1473(t)(3), substituted “Council” for “council”.
 
-    Par. (11). [Pub. L. 111–203, § 1473(f)(4)][/us/pl/111/203/s1473/f/4], added par. (11).
+    Par. (11). [Pub. L. 111–203][/us/pl/111/203], § 1473(f)(4), added par. (11).
 
  __Effective Date of 2010 Amendment__ 
 
@@ -102,13 +102,13 @@
 
 [/us/usc/t12/s1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813
 [/us/usc/t12/s1752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1752
-[/us/pl/101/73/s1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs1121
+[/us/pl/101/73/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtXI
 [/us/stat/103/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F517
-[/us/pl/111/203/s1473/f/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1473%2Ff%2F4
+[/us/pl/111/203/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtXIV
 [/us/stat/124/2193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2193
-[/us/pl/111/203/s1473/t/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1473%2Ft%2F2
-[/us/pl/111/203/s1473/t/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1473%2Ft%2F3
-[/us/pl/111/203/s1473/f/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1473%2Ff%2F4
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s1400/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1400%2Fc
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601

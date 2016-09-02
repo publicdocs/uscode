@@ -77,7 +77,7 @@
 
         (2) The Comptroller of the Currency also shall have authority to determine when a loan putatively made to a person shall for purposes of this section be attributed to another person.
 
-(R.S. § 5200; [June 22, 1906, ch. 3516][/us/act/1906-06-22/ch3516], [34 Stat. 451][/us/stat/34/451]; [Sept. 24, 1918, ch. 176, § 6][/us/act/1918-09-24/ch176/s6], [40 Stat. 967][/us/stat/40/967]; [Oct. 22, 1919, ch. 79, § 1][/us/act/1919-10-22/ch79/s1], [41 Stat. 296][/us/stat/41/296]; [Feb. 25, 1927, ch. 191, § 10][/us/act/1927-02-25/ch191/s10], [44 Stat. 1229][/us/stat/44/1229]; [May 20, 1933, ch. 35, § 1][/us/act/1933-05-20/ch35/s1], [48 Stat. 73][/us/stat/48/73]; [June 16, 1933, ch. 89, § 26(a)][/us/act/1933-06-16/ch89/s26/a], [48 Stat. 191][/us/stat/48/191]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title III, § 321(b), [49 Stat. 713][/us/stat/49/713]; [June 11, 1942, ch. 404, § 8][/us/act/1942-06-11/ch404/s8], [56 Stat. 356][/us/stat/56/356]; [July 15, 1949, ch. 338][/us/act/1949-07-15/ch338], title VI, § 602(b), [63 Stat. 440][/us/stat/63/440]; [July 22, 1937, ch. 517, § 15(a)][/us/act/1937-07-22/ch517/s15/a], as added [Aug. 14, 1946, ch. 964, § 5][/us/act/1946-08-14/ch964/s5], [60 Stat. 1079][/us/stat/60/1079]; amended [Pub. L. 85–748, § 1(c)][/us/pl/85/748/s1/c], Aug. 25, 1958, [72 Stat. 841][/us/stat/72/841]; [Pub. L. 86–251, § 3][/us/pl/86/251/s3], Sept. 9, 1959, [73 Stat. 488][/us/stat/73/488]; [Pub. L. 87–723, § 4(c)(4)][/us/pl/87/723/s4/c/4], Sept. 28, 1962, [76 Stat. 672][/us/stat/76/672]; [Pub. L. 90–19, § 27(b)][/us/pl/90/19/s27/b], May 25, 1967, [81 Stat. 29][/us/stat/81/29]; [Pub. L. 92–318, title I, § 133(c)(2)][/us/pl/92/318/s133/c/2], June 23, 1972, [86 Stat. 270][/us/stat/86/270]; [Pub. L. 97–320, title IV, § 401(a)][/us/pl/97/320/s401/a], Oct. 15, 1982, [96 Stat. 1508][/us/stat/96/1508]; [Pub. L. 97–457, § 17(a)][/us/pl/97/457/s17/a], Jan. 12, 1983, [96 Stat. 2509][/us/stat/96/2509]; [Pub. L. 111–203, title VI, § 610(a)][/us/pl/111/203/s610/a], July 21, 2010, [124 Stat. 1611][/us/stat/124/1611].)
+(R.S. § 5200; [June 22, 1906, ch. 3516][/us/act/1906-06-22/ch3516], [34 Stat. 451][/us/stat/34/451]; [Sept. 24, 1918, ch. 176][/us/act/1918-09-24/ch176], § 6, [40 Stat. 967][/us/stat/40/967]; [Oct. 22, 1919, ch. 79][/us/act/1919-10-22/ch79], § 1, [41 Stat. 296][/us/stat/41/296]; [Feb. 25, 1927, ch. 191][/us/act/1927-02-25/ch191], § 10, [44 Stat. 1229][/us/stat/44/1229]; [May 20, 1933, ch. 35][/us/act/1933-05-20/ch35], § 1, [48 Stat. 73][/us/stat/48/73]; [June 16, 1933, ch. 89][/us/act/1933-06-16/ch89], § 26(a), [48 Stat. 191][/us/stat/48/191]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title III, § 321(b), [49 Stat. 713][/us/stat/49/713]; [June 11, 1942, ch. 404][/us/act/1942-06-11/ch404], § 8, [56 Stat. 356][/us/stat/56/356]; [July 15, 1949, ch. 338][/us/act/1949-07-15/ch338], title VI, § 602(b), [63 Stat. 440][/us/stat/63/440]; [July 22, 1937, ch. 517][/us/act/1937-07-22/ch517], § 15(a), as added [Aug. 14, 1946, ch. 964][/us/act/1946-08-14/ch964], § 5, [60 Stat. 1079][/us/stat/60/1079]; amended [Pub. L. 85–748][/us/pl/85/748], § 1(c), Aug. 25, 1958, [72 Stat. 841][/us/stat/72/841]; [Pub. L. 86–251][/us/pl/86/251], § 3, Sept. 9, 1959, [73 Stat. 488][/us/stat/73/488]; [Pub. L. 87–723][/us/pl/87/723], § 4(c)(4), Sept. 28, 1962, [76 Stat. 672][/us/stat/76/672]; [Pub. L. 90–19][/us/pl/90/19], § 27(b), May 25, 1967, [81 Stat. 29][/us/stat/81/29]; [Pub. L. 92–318, title I][/us/pl/92/318/tI], § 133(c)(2), June 23, 1972, [86 Stat. 270][/us/stat/86/270]; [Pub. L. 97–320, title IV][/us/pl/97/320/tIV], § 401(a), Oct. 15, 1982, [96 Stat. 1508][/us/stat/96/1508]; [Pub. L. 97–457][/us/pl/97/457], § 17(a), Jan. 12, 1983, [96 Stat. 2509][/us/stat/96/2509]; [Pub. L. 111–203, title VI][/us/pl/111/203/tVI], § 610(a), July 21, 2010, [124 Stat. 1611][/us/stat/124/1611].)
 
  __References in Text__ 
 
@@ -85,13 +85,13 @@
 
  __Codification__ 
 
-    R.S. § 5200 derived from [act June 3, 1864, ch. 106, § 29][/us/act/1864-06-03/ch106/s29], [13 Stat. 108][/us/stat/13/108], which was the National Bank Act. See [section 38 of this title][/us/usc/t12/s38].
+    R.S. § 5200 derived from [act June 3, 1864, ch. 106][/us/act/1864-06-03/ch106], § 29, [13 Stat. 108][/us/stat/13/108], which was the National Bank Act. See [section 38 of this title][/us/usc/t12/s38].
 
  __Amendments__ 
 
-    2010—Subsec. (b)(1). [Pub. L. 111–203, § 610(a)(1)][/us/pl/111/203/s610/a/1], substituted “shall include—” for “shall include all direct or indirect advances of funds to a person made on the basis of any obligation of that person to repay the funds or repayable from specific property pledged by or on behalf of the person and, to the extent specified by the Comptroller of the Currency, such term shall also include any liability of a national banking association to advance funds to or on behalf of a person pursuant to a contractual commitment; and” and added subpars. (A) to (C).
+    2010—Subsec. (b)(1). [Pub. L. 111–203][/us/pl/111/203], § 610(a)(1), substituted “shall include—” for “shall include all direct or indirect advances of funds to a person made on the basis of any obligation of that person to repay the funds or repayable from specific property pledged by or on behalf of the person and, to the extent specified by the Comptroller of the Currency, such term shall also include any liability of a national banking association to advance funds to or on behalf of a person pursuant to a contractual commitment; and” and added subpars. (A) to (C).
 
-    Subsec. (b)(3). [Pub. L. 111–203, § 610(a)(2)][/us/pl/111/203/s610/a/2], (3), added par. (3).
+    Subsec. (b)(3). [Pub. L. 111–203][/us/pl/111/203], § 610(a)(2), (3), added par. (3).
 
     1983—Subsec. (b)(1). [Pub. L. 97–457][/us/pl/97/457] inserted a comma before “to the extent specified by the Comptroller of the Currency”.
 
@@ -131,13 +131,13 @@
 
     1962—Par. (12). [Pub. L. 87–723][/us/pl/87/723] inserted “or title V of the Housing Act of 1949” before “shall be subject under this section”.
 
-    1959—Par. (6). [Pub. L. 86–251, § 3(a)][/us/pl/86/251/s3/a], substituted “secured by” for “secured upon” and inserted exception with respect to obligations secured by documents transferring or securing title covering refrigerated or frozen readily marketable staples.
+    1959—Par. (6). [Pub. L. 86–251][/us/pl/86/251], § 3(a), substituted “secured by” for “secured upon” and inserted exception with respect to obligations secured by documents transferring or securing title covering refrigerated or frozen readily marketable staples.
 
-    Par. (7). [Pub. L. 86–251, § 3(b)][/us/pl/86/251/s3/b], inserted exception with respect to obligations arising out of the discount by dealers in dairy cattle of paper given in payment for dairy cattle.
+    Par. (7). [Pub. L. 86–251][/us/pl/86/251], § 3(b), inserted exception with respect to obligations arising out of the discount by dealers in dairy cattle of paper given in payment for dairy cattle.
 
-    Par. (8). [Pub. L. 86–251, § 3(c)][/us/pl/86/251/s3/c], struck out “in the form of notes” after “corporation”.
+    Par. (8). [Pub. L. 86–251][/us/pl/86/251], § 3(c), struck out “in the form of notes” after “corporation”.
 
-    Par. (13). [Pub. L. 86–251, § 3(d)][/us/pl/86/251/s3/d], added par. (13).
+    Par. (13). [Pub. L. 86–251][/us/pl/86/251], § 3(d), added par. (13).
 
     1958—Par. (12). [Pub. L. 85–748][/us/pl/85/748] amended section 15(a) of act July 22, 1937, as added by act Aug. 14, 1946, by inserting sentence amending R.S. § 5200 by adding par. (12).
 
@@ -155,7 +155,7 @@
 
  __Effective Date of 2010 Amendment__ 
 
-[Pub. L. 111–203, title VI, § 610(c)][/us/pl/111/203/s610/c], July 21, 2010, [124 Stat. 1612][/us/stat/124/1612], provided that: 
+[Pub. L. 111–203, title VI][/us/pl/111/203/tVI], § 610(c), July 21, 2010, [124 Stat. 1612][/us/stat/124/1612], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 1464 of this title][/us/usc/t12/s1464]\] shall take effect 1 year after the transfer date.”
 
@@ -163,7 +163,7 @@
 
  __Effective Date of 1982 Amendment__ 
 
-[Pub. L. 97–320, title IV, § 401(b)][/us/pl/97/320/s401/b], Oct. 15, 1982, [96 Stat. 1510][/us/stat/96/1510], provided that: 
+[Pub. L. 97–320, title IV][/us/pl/97/320/tIV], § 401(b), Oct. 15, 1982, [96 Stat. 1510][/us/stat/96/1510], provided that: 
 
 > “This section \[amending this section\] shall take effect upon the expiration of one hundred and eighty days after the date of its enactment \[Oct. 15, 1982\].”
 
@@ -173,7 +173,7 @@
 
  __Savings Provision__ 
 
-[Act June 16, 1933, ch. 89, § 26(b)][/us/act/1933-06-16/ch89/s26/b], [48 Stat. 191][/us/stat/48/191], provided: 
+[Act June 16, 1933, ch. 89][/us/act/1933-06-16/ch89], § 26(b), [48 Stat. 191][/us/stat/48/191], provided: 
 
 > “The amendment made by this section \[amending this section\] shall not apply to such obligations of subsidiaries held by such association on the date this section takes effect.”
 
@@ -183,7 +183,7 @@
 
  __Application to District of Columbia__ 
 
-    Provisions of this section were made applicable to banks, etc., in the District of Columbia by [act Mar. 4, 1933, ch. 274, § 3][/us/act/1933-03-04/ch274/s3], [47 Stat. 1567][/us/stat/47/1567].
+    Provisions of this section were made applicable to banks, etc., in the District of Columbia by [act Mar. 4, 1933, ch. 274][/us/act/1933-03-04/ch274], § 3, [47 Stat. 1567][/us/stat/47/1567].
 
 ----------
 
@@ -195,48 +195,48 @@
 [/us/usc/t12/s372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs372
 [/us/act/1906-06-22/ch3516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-06-22%2Fch3516
 [/us/stat/34/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F451
-[/us/act/1918-09-24/ch176/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-09-24%2Fch176%2Fs6
+[/us/act/1918-09-24/ch176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-09-24%2Fch176
 [/us/stat/40/967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F967
-[/us/act/1919-10-22/ch79/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-10-22%2Fch79%2Fs1
+[/us/act/1919-10-22/ch79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-10-22%2Fch79
 [/us/stat/41/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F296
-[/us/act/1927-02-25/ch191/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-25%2Fch191%2Fs10
+[/us/act/1927-02-25/ch191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-25%2Fch191
 [/us/stat/44/1229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1229
-[/us/act/1933-05-20/ch35/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-20%2Fch35%2Fs1
+[/us/act/1933-05-20/ch35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-20%2Fch35
 [/us/stat/48/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F73
-[/us/act/1933-06-16/ch89/s26/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-16%2Fch89%2Fs26%2Fa
+[/us/act/1933-06-16/ch89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-16%2Fch89
 [/us/stat/48/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F191
 [/us/act/1935-08-23/ch614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch614
 [/us/stat/49/713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F713
-[/us/act/1942-06-11/ch404/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-06-11%2Fch404%2Fs8
+[/us/act/1942-06-11/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-06-11%2Fch404
 [/us/stat/56/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F356
 [/us/act/1949-07-15/ch338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-07-15%2Fch338
 [/us/stat/63/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F440
-[/us/act/1937-07-22/ch517/s15/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-07-22%2Fch517%2Fs15%2Fa
-[/us/act/1946-08-14/ch964/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-14%2Fch964%2Fs5
+[/us/act/1937-07-22/ch517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-07-22%2Fch517
+[/us/act/1946-08-14/ch964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-14%2Fch964
 [/us/stat/60/1079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1079
-[/us/pl/85/748/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F748%2Fs1%2Fc
+[/us/pl/85/748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F748
 [/us/stat/72/841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F841
-[/us/pl/86/251/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F251%2Fs3
+[/us/pl/86/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F251
 [/us/stat/73/488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F488
-[/us/pl/87/723/s4/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F723%2Fs4%2Fc%2F4
+[/us/pl/87/723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F723
 [/us/stat/76/672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F672
-[/us/pl/90/19/s27/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19%2Fs27%2Fb
+[/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
 [/us/stat/81/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F29
-[/us/pl/92/318/s133/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2Fs133%2Fc%2F2
+[/us/pl/92/318/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2FtI
 [/us/stat/86/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F270
-[/us/pl/97/320/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs401%2Fa
+[/us/pl/97/320/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2FtIV
 [/us/stat/96/1508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1508
-[/us/pl/97/457/s17/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F457%2Fs17%2Fa
+[/us/pl/97/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F457
 [/us/stat/96/2509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2509
-[/us/pl/111/203/s610/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs610%2Fa
+[/us/pl/111/203/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVI
 [/us/stat/124/1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1611
 [/us/usc/t12/s372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs372
 [/us/usc/t12/s372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs372
-[/us/act/1864-06-03/ch106/s29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-06-03%2Fch106%2Fs29
+[/us/act/1864-06-03/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-06-03%2Fch106
 [/us/stat/13/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F13%2F108
 [/us/usc/t12/s38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs38
-[/us/pl/111/203/s610/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs610%2Fa%2F1
-[/us/pl/111/203/s610/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs610%2Fa%2F2
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/97/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F457
 [/us/pl/97/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320
 [/us/usc/t12/s372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs372
@@ -247,25 +247,25 @@
 [/us/pl/92/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318
 [/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
 [/us/pl/87/723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F723
-[/us/pl/86/251/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F251%2Fs3%2Fa
-[/us/pl/86/251/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F251%2Fs3%2Fb
-[/us/pl/86/251/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F251%2Fs3%2Fc
-[/us/pl/86/251/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F251%2Fs3%2Fd
+[/us/pl/86/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F251
+[/us/pl/86/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F251
+[/us/pl/86/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F251
+[/us/pl/86/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F251
 [/us/pl/85/748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F748
-[/us/pl/111/203/s610/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs610%2Fc
+[/us/pl/111/203/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVI
 [/us/stat/124/1612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1612
 [/us/usc/t12/s1464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1464
 [/us/pl/111/203/s610/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs610%2Fc
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301
-[/us/pl/97/320/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs401%2Fb
+[/us/pl/97/320/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2FtIV
 [/us/stat/96/1510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1510
 [/us/pl/87/128/s341/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs341%2Fa
 [/us/stat/75/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F318
 [/us/usc/t7/s1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1921
-[/us/act/1933-06-16/ch89/s26/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-16%2Fch89%2Fs26%2Fb
+[/us/act/1933-06-16/ch89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-16%2Fch89
 [/us/stat/48/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F191
 [/us/usc/t12/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1
-[/us/act/1933-03-04/ch274/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-03-04%2Fch274%2Fs3
+[/us/act/1933-03-04/ch274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-03-04%2Fch274
 [/us/stat/47/1567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F1567
 
 

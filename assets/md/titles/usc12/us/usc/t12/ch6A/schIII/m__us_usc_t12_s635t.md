@@ -39,7 +39,7 @@
 
     (6) the term “Bank” means the Export-Import Bank of the United States.
 
-([Pub. L. 98–181, title I][/us/pl/98/181] \[title VI, § 647\], Nov. 30, 1983, [97 Stat. 1265][/us/stat/97/1265].)
+([Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title VI, § 647\], Nov. 30, 1983, [97 Stat. 1265][/us/stat/97/1265].)
 
 ----------
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1265
 
 

@@ -27,11 +27,11 @@
 
     (5) the cost of maintaining and retrieving addresses of purchasers of money orders and traveler’s checks is an additional burden on interstate commerce since it has been determined that most purchasers reside in the State of purchase of such instruments.
 
-([Pub. L. 93–495, title VI, § 601][/us/pl/93/495/s601], Oct. 28, 1974, [88 Stat. 1525][/us/stat/88/1525].)
+([Pub. L. 93–495, title VI][/us/pl/93/495/tVI], § 601, Oct. 28, 1974, [88 Stat. 1525][/us/stat/88/1525].)
 
  __Applicability to Sums Payable on Money Orders, Etc., Deemed Abandoned on or After__  __February 1, 1965__  __; Exception__ 
 
-[Pub. L. 93–495, title VI, § 604][/us/pl/93/495/s604], Oct. 28, 1974, [88 Stat. 1526][/us/stat/88/1526], provided that: 
+[Pub. L. 93–495, title VI][/us/pl/93/495/tVI], § 604, Oct. 28, 1974, [88 Stat. 1526][/us/stat/88/1526], provided that: 
 
 > “This title \[enacting this chapter\] shall be applicable to sums payable on money orders, traveler’s checks, and similar written instruments deemed abandoned on or after February 1, 1965, except to the extent that such sums have been paid over to a State prior to January 1, 1974.”
 
@@ -42,9 +42,9 @@
 ----------
 ----------
 
-[/us/pl/93/495/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2Fs601
+[/us/pl/93/495/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2FtVI
 [/us/stat/88/1525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1525
-[/us/pl/93/495/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2Fs604
+[/us/pl/93/495/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2FtVI
 [/us/stat/88/1526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1526
 
 

@@ -17,7 +17,7 @@
 
     It shall be unlawful for any officer, clerk, or agent of any bank admitted to membership under authority of this subchapter, to certify any check drawn upon such bank unless the person or company drawing the check has on deposit therewith at the time such check is certified an amount of money equal to the amount specified in such check. Any check so certified by duly authorized officers shall be a good and valid obligation against such bank, but the act of any such officer, clerk, or agent in violation of this subchapter, may subject such bank to a forfeiture of its membership in the Federal reserve system upon hearing by the Board of Governors of the Federal Reserve System.
 
-([Dec. 23, 1913, ch. 6, § 9][/us/act/1913-12-23/ch6/s9] (par.), as added [June 21, 1917, ch. 32, § 3][/us/act/1917-06-21/ch32/s3], [40 Stat. 234][/us/stat/40/234]; amended [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 203(a), [49 Stat. 704][/us/stat/49/704].)
+([Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 9 (par.), as added [June 21, 1917, ch. 32][/us/act/1917-06-21/ch32], § 3, [40 Stat. 234][/us/stat/40/234]; amended [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], title II, § 203(a), [49 Stat. 704][/us/stat/49/704].)
 
  __References in Text__ 
 
@@ -38,8 +38,8 @@
 ----------
 ----------
 
-[/us/act/1913-12-23/ch6/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs9
-[/us/act/1917-06-21/ch32/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-21%2Fch32%2Fs3
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
+[/us/act/1917-06-21/ch32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-21%2Fch32
 [/us/stat/40/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F234
 [/us/act/1935-08-23/ch614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch614
 [/us/stat/49/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F704

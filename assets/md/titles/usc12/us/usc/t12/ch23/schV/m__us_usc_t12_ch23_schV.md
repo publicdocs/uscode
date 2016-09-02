@@ -17,7 +17,7 @@
 
  __Amendments__ 
 
-    1988—[Pub. L. 100–399, title IX, § 901][/us/pl/100/399/s901](o), (p), Aug. 17, 1988, [102 Stat. 1008][/us/stat/102/1008], struck out “DISTRICT AND” before “FARM” in subchapter heading and struck out part A heading “District Organization”.
+    1988—[Pub. L. 100–399, title IX][/us/pl/100/399/tIX], § 901(o), (p), Aug. 17, 1988, [102 Stat. 1008][/us/stat/102/1008], struck out “DISTRICT AND” before “FARM” in subchapter heading and struck out part A heading “District Organization”.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/100/399/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs901
+[/us/pl/100/399/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtIX
 [/us/stat/102/1008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1008
 
 
