@@ -557,19 +557,13 @@
 
 >               <tr>
 
->                 <td colspan="2">    </td>
+>                 <td> 
 
->                 <td> ($ million)  </td>
+   </td>
 
->             
+>                 <td> 
 
-  </tr>
-
->               <tr>
-
->                 <td>   Louisiana  </td>
-
->                 <td>    572     </td>
+>             ($ million)  </td>
 
 >             
 
@@ -577,19 +571,13 @@
 
 >               <tr>
 
->                 <td>   Texas  </td>
+>                 <td> 
 
->                 <td>    382     </td>
+>             Louisiana  </td>
 
->             
+>                 <td> 
 
-  </tr>
-
->               <tr>
-
->                 <td>   California  </td>
-
->                 <td>    338     </td>
+>             572     </td>
 
 >             
 
@@ -597,19 +585,13 @@
 
 >               <tr>
 
->                 <td>   Alabama  </td>
+>                 <td> 
 
->                 <td>     66     </td>
+>             Texas  </td>
 
->             
+>                 <td> 
 
-  </tr>
-
->               <tr>
-
->                 <td>   Alaska  </td>
-
->                 <td>     51     </td>
+>             382     </td>
 
 >             
 
@@ -617,9 +599,13 @@
 
 >               <tr>
 
->                 <td>   Mississippi  </td>
+>                 <td> 
 
->                 <td>     14     </td>
+>             California  </td>
+
+>                 <td> 
+
+>             338     </td>
 
 >             
 
@@ -627,9 +613,55 @@
 
 >               <tr>
 
->                 <td>   Florida  </td>
+>                 <td> 
 
->                 <td>     0.03  </td>
+>             Alabama  </td>
+
+>                 <td> 
+
+>             66     </td>
+
+>             
+
+  </tr>
+
+>               <tr>
+
+>                 <td> 
+
+>             Alaska  </td>
+
+>                 <td> 
+
+>             51     </td>
+
+>             
+
+  </tr>
+
+>               <tr>
+
+>                 <td> 
+
+>             Mississippi  </td>
+
+>                 <td> 
+
+>             14     </td>
+
+>             
+
+  </tr>
+
+>               <tr>
+
+>                 <td> 
+
+>             Florida  </td>
+
+>                 <td> 
+
+>             0.03  </td>
 
 >             
 
@@ -645,19 +677,13 @@
 
 >               <tr>
 
->                 <td colspan="2">    </td>
+>                 <td> 
 
->                 <td> ($ million)  </td>
+   </td>
 
->             
+>                 <td> 
 
-  </tr>
-
->               <tr>
-
->                 <td>   Louisiana  </td>
-
->                 <td>     84    </td>
+>             ($ million)  </td>
 
 >             
 
@@ -665,19 +691,13 @@
 
 >               <tr>
 
->                 <td>   Texas  </td>
+>                 <td> 
 
->                 <td>    134    </td>
+>             Louisiana  </td>
 
->             
+>                 <td> 
 
-  </tr>
-
->               <tr>
-
->                 <td>   California  </td>
-
->                 <td>    289    </td>
+>             84    </td>
 
 >             
 
@@ -685,19 +705,13 @@
 
 >               <tr>
 
->                 <td>   Alabama  </td>
+>                 <td> 
 
->                 <td>     7    </td>
+>             Texas  </td>
 
->             
+>                 <td> 
 
-  </tr>
-
->               <tr>
-
->                 <td>   Alaska  </td>
-
->                 <td>    134    </td>
+>             134    </td>
 
 >             
 
@@ -705,9 +719,55 @@
 
 >               <tr>
 
->                 <td>   Mississippi  </td>
+>                 <td> 
 
->                 <td>     2.  </td>
+>             California  </td>
+
+>                 <td> 
+
+>             289    </td>
+
+>             
+
+  </tr>
+
+>               <tr>
+
+>                 <td> 
+
+>             Alabama  </td>
+
+>                 <td> 
+
+>             7    </td>
+
+>             
+
+  </tr>
+
+>               <tr>
+
+>                 <td> 
+
+>             Alaska  </td>
+
+>                 <td> 
+
+>             134    </td>
+
+>             
+
+  </tr>
+
+>               <tr>
+
+>                 <td> 
+
+>             Mississippi  </td>
+
+>                 <td> 
+
+>             2.  </td>
 
 >             
 

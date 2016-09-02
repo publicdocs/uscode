@@ -33,7 +33,7 @@
 
     This Act, referred to in subsec. (b), is [Pub. L. 95–372][/us/pl/95/372], Sept. 18, 1978, [92 Stat. 629][/us/stat/92/629], as amended. See note above.
 
-    The Outer Continental Shelf Lands Act, referred to in subsec. (b), is [act Aug. 7, 1953, ch. 345][/us/act/1953-08-07/ch345], [67 Stat. 462][/us/stat/67/462], as amended, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1331 of this title][/us/usc/t43/s1331] and Tables.
+    The Outer Continental Shelf Lands Act, referred to in subsec. (b), is [act Aug. 7, 1953, ch. 345][/us/act/1953-08-07/ch345], [67 Stat. 462][/us/stat/67/462], as amended, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of this title][/us/usc/t43/s1301] and Tables.
 
     The Department of Energy Organization Act, referred to in subsec. (b), is [Pub. L. 95–91][/us/pl/95/91], Aug. 4, 1977, [91 Stat. 565][/us/stat/91/565], as amended, which is classified principally to chapter 84 (§ 7101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 7101 of Title 42][/us/usc/t42/s7101] and Tables.
 
@@ -69,7 +69,7 @@
 [/us/stat/92/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F629
 [/us/act/1953-08-07/ch345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-07%2Fch345
 [/us/stat/67/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F462
-[/us/usc/t43/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1331
+[/us/usc/t43/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1301
 [/us/pl/95/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91
 [/us/stat/91/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F565
 [/us/usc/t42/s7101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7101
