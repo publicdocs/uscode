@@ -91,7 +91,7 @@
 
             (D) be issued with a description of the instance or instances when the design feature or operating practice being restricted or prohibited contributed to a result or event described in subparagraph (C).
 
-        (3) Beginning on October 1, 2015, the Secretary may propose regulations under this subsection without regard to paragraph (2)(C) and (D). Any such regulations shall take into consideration the evolving standards of safety in the commercial space flight industry.
+        (3) Beginning on April 1, 2016, the Secretary may propose regulations under this subsection without regard to paragraph (2)(C) and (D). Any such regulations shall take into consideration the evolving standards of safety in the commercial space flight industry.
 
         (4) Nothing in this subsection shall be construed to limit the authority of the Secretary to issue requirements or regulations to protect the public health and safety, safety of property, national security interests, and foreign policy interests of the United States.
 
@@ -99,7 +99,7 @@
 
     The Secretary shall establish procedures and timetables that expedite review of a license or permit application and reduce the regulatory burden for an applicant.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1333][/us/stat/108/1333], [§ 70105 of title 49][/us/usc/t49/s70105]; [Pub. L. 105–303, title I, § 102(a)(6)][/us/pl/105/303/s102/a/6], Oct. 28, 1998, [112 Stat. 2848][/us/stat/112/2848]; [Pub. L. 108–492, § 2(c)(6)][/us/pl/108/492/s2/c/6]–(15), Dec. 23, 2004, [118 Stat. 3976–3979][/us/stat/118/3976-3979]; renumbered § 70105 then [§ 50905 of title 51][/us/usc/t51/s50905] and amended [Pub. L. 111–314, § 4(d)(2)][/us/pl/111/314/s4/d/2], (3)(E), (5)(F), Dec. 18, 2010, [124 Stat. 3440][/us/stat/124/3440], 3441; [Pub. L. 112–95, title VIII, § 827][/us/pl/112/95/s827], Feb. 14, 2012, [126 Stat. 133][/us/stat/126/133].)
+([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1333][/us/stat/108/1333], [§ 70105 of title 49][/us/usc/t49/s70105]; [Pub. L. 105–303, title I, § 102(a)(6)][/us/pl/105/303/s102/a/6], Oct. 28, 1998, [112 Stat. 2848][/us/stat/112/2848]; [Pub. L. 108–492, § 2(c)(6)][/us/pl/108/492/s2/c/6]–(15), Dec. 23, 2004, [118 Stat. 3976–3979][/us/stat/118/3976-3979]; renumbered § 70105 then [§ 50905 of title 51][/us/usc/t51/s50905] and amended [Pub. L. 111–314, § 4(d)(2)][/us/pl/111/314/s4/d/2], (3)(E), (5)(F), Dec. 18, 2010, [124 Stat. 3440][/us/stat/124/3440], 3441; [Pub. L. 112–95, title VIII, § 827][/us/pl/112/95/s827], Feb. 14, 2012, [126 Stat. 133][/us/stat/126/133]; [Pub. L. 114–55, title I, § 102(e)][/us/pl/114/55/s102/e], Sept. 30, 2015, [129 Stat. 523][/us/stat/129/523].)
 
 <table>
 
@@ -257,6 +257,8 @@ Oct. 30, 1984, Pub. L. 98–575, §§ 7 (1st sentence), 8, 9(a), (b), 98 Stat.
 
  __Amendments__ 
 
+    2015—Subsec. (c)(3). [Pub. L. 114–55][/us/pl/114/55] substituted “April 1, 2016,” for “October 1, 2015,”.
+
     2012—Subsec. (c)(3). [Pub. L. 112–95][/us/pl/112/95] substituted “Beginning on October 1, 2015,” for “Beginning 8 years after the date of enactment of the Commercial Space Launch Amendments Act of 2004,”.
 
     2010—[Pub. L. 111–314, § 4(d)(2)][/us/pl/111/314/s4/d/2], (3)(E), successively renumbered [section 70105 of title 49][/us/usc/t49/s70105] and [section 70105 of this title][/us/usc/t51/s70105] as this section.
@@ -320,9 +322,12 @@ Oct. 30, 1984, Pub. L. 98–575, §§ 7 (1st sentence), 8, 9(a), (b), 98 Stat.
 [/us/stat/124/3440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3440
 [/us/pl/112/95/s827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs827
 [/us/stat/126/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F133
+[/us/pl/114/55/s102/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F55%2Fs102%2Fe
+[/us/stat/129/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F523
 [/us/pl/108/492/s2/c/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F492%2Fs2%2Fc%2F10
 [/us/stat/118/3977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3977
 [/us/pl/108/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F492
+[/us/pl/114/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F55
 [/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
 [/us/pl/111/314/s4/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314%2Fs4%2Fd%2F2
 [/us/usc/t49/s70105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs70105

@@ -223,7 +223,9 @@ Pub. L. 111–8, div. B, title III, (3d proviso in par. under heading “Cross A
 
 > “That each annual budget request shall include an annual estimate of gross receipts and collections and proposed use of all funds collected pursuant to [section 20145 of title 51][/us/usc/t51/s20145], United States Code.”
 
-Similar provisions were contained in the following prior appropriation acts:[Pub. L. 113–76, div. B, title III][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 72][/us/stat/128/72].
+Similar provisions were contained in the following prior appropriation acts:
+
+    [Pub. L. 113–76, div. B, title III][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 72][/us/stat/128/72].
 
     [Pub. L. 113–6, div. B, title III][/us/pl/113/6], Mar. 26, 2013, [127 Stat. 263][/us/stat/127/263].
 

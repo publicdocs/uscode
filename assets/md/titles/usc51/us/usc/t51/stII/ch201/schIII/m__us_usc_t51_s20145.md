@@ -139,7 +139,7 @@ Pub. L. 85–568, title III, § 315, as added Pub. L. 108–7, div. K, title I
 
 [Pub. L. 113–6, div. B, title III][/us/pl/113/6], Mar. 26, 2013, [127 Stat. 263][/us/stat/127/263], provided in part: 
 
-> “That hereafter, notwithstanding section 315 of the National Aeronautics and Space Act of 1958 (\[now\] [51 U.S.C. 20145][/us/usc/t51/s20145]), all proceeds from leases entered into under that section shall be deposited into this account \[funds appropriated under the headings ‘National Aeronautics and Space Administration’ and ‘construction and environmental compliance and restoration’ of title III of div. B of [Pub. L. 113–6][/us/pl/113/6]\]: Provided further, That such proceeds shall be available for a period of 5 years to the extent and in amounts as provided in annual appropriations Acts”.
+> “That hereafter, notwithstanding section 315 of the National Aeronautics and Space Act of 1958 (see [51 U.S.C. 20145][/us/usc/t51/s20145]), all proceeds from leases entered into under that section shall be deposited into this account \[funds appropriated under the headings ‘National Aeronautics and Space Administration’ and ‘construction and environmental compliance and restoration’ of title III of div. B of [Pub. L. 113–6][/us/pl/113/6]\]: Provided further, That such proceeds shall be available for a period of 5 years to the extent and in amounts as provided in annual appropriations Acts”.
 
 Similar provisions were contained in the following appropriation acts:
 
