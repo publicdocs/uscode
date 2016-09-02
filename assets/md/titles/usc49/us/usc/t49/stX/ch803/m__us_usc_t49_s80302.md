@@ -71,7 +71,7 @@
 
         (3) use an aircraft, vehicle, or vessel to facilitate the transportation, concealment, receipt, possession, purchase, sale, exchange, or giving away of contraband.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1353][/us/stat/108/1353]; [Pub. L. 104–153, § 13][/us/pl/104/153/s13], July 2, 1996, [110 Stat. 1389][/us/stat/110/1389].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1353][/us/stat/108/1353]; [Pub. L. 104–153][/us/pl/104/153], § 13, July 2, 1996, [110 Stat. 1389][/us/stat/110/1389].)
 
 <table>
 
@@ -292,9 +292,9 @@ Aug. 9, 1939, ch. 618, § 1(a), 53 Stat. 1291.  </td>
 [/us/usc/t18/s2319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2319
 [/us/usc/t18/s2319A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2319A
 [/us/usc/t18/s2320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2320
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1353
-[/us/pl/104/153/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F153%2Fs13
+[/us/pl/104/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F153
 [/us/stat/110/1389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1389
 [/us/usc/t26/s5801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs5801
 [/us/pl/104/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F153

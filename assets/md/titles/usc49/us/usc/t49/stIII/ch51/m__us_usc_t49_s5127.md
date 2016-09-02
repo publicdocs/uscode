@@ -31,7 +31,7 @@
 
     In reviewing a final action under this section, the court may consider an objection to a final action of the Secretary only if the objection was made in the course of a proceeding or review conducted by the Secretary or if there was a reasonable ground for not making the objection in the proceeding.
 
-(Added [Pub. L. 109–59, title VII, § 7123(b)][/us/pl/109/59/s7123/b], Aug. 10, 2005, [119 Stat. 1907][/us/stat/119/1907].)
+(Added [Pub. L. 109–59, title VII][/us/pl/109/59/tVII], § 7123(b), Aug. 10, 2005, [119 Stat. 1907][/us/stat/119/1907].)
 
  __Prior Provisions__ 
 
@@ -45,7 +45,7 @@
 ----------
 
 [/us/usc/t28/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2112
-[/us/pl/109/59/s7123/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7123%2Fb
+[/us/pl/109/59/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtVII
 [/us/stat/119/1907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1907
 [/us/usc/t49/s5128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5128
 

@@ -55,7 +55,7 @@
 
     The Administration shall prescribe regulations to ensure that any air carrier required, pursuant to the Air Traffic Management System Performance Improvement Act of 1996 or any amendments made by that Act, to collect a fee imposed on another party by the Administrator may collect from such other party an additional uniform amount that the Administrator determines reflects the necessary and reasonable expenses (net of interest accruing to the carrier after collection and before remittance) incurred in collecting and handling the fee.
 
-(Added [Pub. L. 104–264, title II, § 276(a)(2)][/us/pl/104/264/s276/a/2], Oct. 9, 1996, [110 Stat. 3247][/us/stat/110/3247].)
+(Added [Pub. L. 104–264, title II][/us/pl/104/264/tII], § 276(a)(2), Oct. 9, 1996, [110 Stat. 3247][/us/stat/110/3247].)
 
  __References in Text__ 
 
@@ -79,7 +79,7 @@
 ----------
 
 [/us/usc/t31/s3302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3302
-[/us/pl/104/264/s276/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs276%2Fa%2F2
+[/us/pl/104/264/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2FtII
 [/us/stat/110/3247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3247
 [/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
 [/us/stat/110/3227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3227

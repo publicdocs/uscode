@@ -39,7 +39,7 @@
 
         (8) promote the development of the public transportation workforce.
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 785][/us/stat/108/785]; [Pub. L. 109–59, title III][/us/pl/109/59], §§ 3002(b)(4), 3003, Aug. 10, 2005, [119 Stat. 1545][/us/stat/119/1545]; [Pub. L. 112–141, div. B, § 20003][/us/pl/112/141/s20003], July 6, 2012, [126 Stat. 622][/us/stat/126/622].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(d), July 5, 1994, [108 Stat. 785][/us/stat/108/785]; [Pub. L. 109–59, title III][/us/pl/109/59/tIII], §§ 3002(b)(4), 3003, Aug. 10, 2005, [119 Stat. 1545][/us/stat/119/1545]; [Pub. L. 112–141, div. B][/us/pl/112/141/dB], § 20003, July 6, 2012, [126 Stat. 622][/us/stat/126/622].)
 
 <table>
 
@@ -221,23 +221,23 @@ In subsection (b)(6), the words “were . . . in the early 1970’s” are s
 
     2012—[Pub. L. 112–141][/us/pl/112/141] amended section generally. Prior to amendment, section related to policies, findings, and purposes.
 
-    2005—Subsec. (a). [Pub. L. 109–59, § 3003(a)][/us/pl/109/59/s3003/a], amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “It is in the interest of the United States to encourage and promote the development of transportation systems that embrace various modes of transportation and efficiently maximize mobility of individuals and goods in and through urbanized areas and minimize transportation-related fuel consumption and air pollution.”
+    2005—Subsec. (a). [Pub. L. 109–59][/us/pl/109/59], § 3003(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “It is in the interest of the United States to encourage and promote the development of transportation systems that embrace various modes of transportation and efficiently maximize mobility of individuals and goods in and through urbanized areas and minimize transportation-related fuel consumption and air pollution.”
 
-    Subsec. (b)(1). [Pub. L. 109–59, § 3003(b)][/us/pl/109/59/s3003/b], substituted “two-thirds” for “70 percent” and “urbanized areas” for “urban areas”.
+    Subsec. (b)(1). [Pub. L. 109–59][/us/pl/109/59], § 3003(b), substituted “two-thirds” for “70 percent” and “urbanized areas” for “urban areas”.
 
-    Subsecs. (b)(4), (6) to (9), (d). [Pub. L. 109–59, § 3002(b)(4)][/us/pl/109/59/s3002/b/4], substituted “public transportation” for “mass transportation” wherever appearing.
+    Subsecs. (b)(4), (6) to (9), (d). [Pub. L. 109–59][/us/pl/109/59], § 3002(b)(4), substituted “public transportation” for “mass transportation” wherever appearing.
 
-    Subsec. (e). [Pub. L. 109–59, § 3003(c)][/us/pl/109/59/s3003/c], substituted “a” for “an urban” and struck out “under sections 5309 and 5310 of this title” before period at end.
+    Subsec. (e). [Pub. L. 109–59][/us/pl/109/59], § 3003(c), substituted “a” for “an urban” and struck out “under sections 5309 and 5310 of this title” before period at end.
 
-    [Pub. L. 109–59, § 3002(b)(4)][/us/pl/109/59/s3002/b/4], substituted “public transportation” for “mass transportation”.
+    [Pub. L. 109–59][/us/pl/109/59], § 3002(b)(4), substituted “public transportation” for “mass transportation”.
 
-    Subsec. (f)(1). [Pub. L. 109–59, § 3003(d)(1)][/us/pl/109/59/s3003/d/1], substituted “public transportation equipment” for “mass transportation equipment” and “both public transportation companies and private companies engaged in public transportation” for “public and private mass transportation companies”.
+    Subsec. (f)(1). [Pub. L. 109–59][/us/pl/109/59], § 3003(d)(1), substituted “public transportation equipment” for “mass transportation equipment” and “both public transportation companies and private companies engaged in public transportation” for “public and private mass transportation companies”.
 
-    Subsec. (f)(2). [Pub. L. 109–59, § 3003(d)(2)][/us/pl/109/59/s3003/d/2], substituted “public transportation systems” for “urban mass transportation systems” and “both public transportation companies and private companies engaged in public transportation” for “public and private mass transportation companies”.
+    Subsec. (f)(2). [Pub. L. 109–59][/us/pl/109/59], § 3003(d)(2), substituted “public transportation systems” for “urban mass transportation systems” and “both public transportation companies and private companies engaged in public transportation” for “public and private mass transportation companies”.
 
-    Subsec. (f)(3). [Pub. L. 109–59, § 3003(d)(3)][/us/pl/109/59/s3003/d/3], substituted “public transportation systems” for “urban mass transportation systems” and “public transportation companies or private companies engaged in public transportation” for “public or private mass transportation companies”.
+    Subsec. (f)(3). [Pub. L. 109–59][/us/pl/109/59], § 3003(d)(3), substituted “public transportation systems” for “urban mass transportation systems” and “public transportation companies or private companies engaged in public transportation” for “public or private mass transportation companies”.
 
-    Subsec. (f)(5). [Pub. L. 109–59, § 3003(d)(4)][/us/pl/109/59/s3003/d/4], substituted “public” for “urban mass”.
+    Subsec. (f)(5). [Pub. L. 109–59][/us/pl/109/59], § 3003(d)(4), substituted “public” for “urban mass”.
 
  __Effective Date of 2012 Amendment__ 
 
@@ -245,11 +245,11 @@ In subsection (b)(6), the words “were . . . in the early 1970’s” are s
 
  __Contracting Out Study__ 
 
-    [Pub. L. 105–178, title III, § 3032][/us/pl/105/178/s3032], June 9, 1998, [112 Stat. 385][/us/stat/112/385], as amended by [Pub. L. 105–206, title IX, § 9009(v)][/us/pl/105/206/s9009/v], July 22, 1998, [112 Stat. 861][/us/stat/112/861], provided that a study of the effect of contracting out mass transportation operation and administrative functions was to be arranged between the Secretary of Transportation and the Transportation Research Board of the National Academy of Sciences no later than 6 months after June 9, 1998, and made available funds for fiscal year 1999.
+    [Pub. L. 105–178, title III][/us/pl/105/178/tIII], § 3032, June 9, 1998, [112 Stat. 385][/us/stat/112/385], as amended by [Pub. L. 105–206, title IX][/us/pl/105/206/tIX], § 9009(v), July 22, 1998, [112 Stat. 861][/us/stat/112/861], provided that a study of the effect of contracting out mass transportation operation and administrative functions was to be arranged between the Secretary of Transportation and the Transportation Research Board of the National Academy of Sciences no later than 6 months after June 9, 1998, and made available funds for fiscal year 1999.
 
  __Commute-to-Work Benefits__ 
 
-[Pub. L. 102–240, title VIII, § 8004][/us/pl/102/240/s8004], Dec. 18, 1991, [105 Stat. 2206][/us/stat/105/2206], provided that:
+[Pub. L. 102–240, title VIII][/us/pl/102/240/tVIII], § 8004, Dec. 18, 1991, [105 Stat. 2206][/us/stat/105/2206], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -280,30 +280,30 @@ In subsection (b)(6), the words “were . . . in the early 1970’s” are s
 ----------
 ----------
 
-[/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F785
-[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIII
 [/us/stat/119/1545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1545
-[/us/pl/112/141/s20003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs20003
+[/us/pl/112/141/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdB
 [/us/stat/126/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F622
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
-[/us/pl/109/59/s3003/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3003%2Fa
-[/us/pl/109/59/s3003/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3003%2Fb
-[/us/pl/109/59/s3002/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3002%2Fb%2F4
-[/us/pl/109/59/s3003/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3003%2Fc
-[/us/pl/109/59/s3002/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3002%2Fb%2F4
-[/us/pl/109/59/s3003/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3003%2Fd%2F1
-[/us/pl/109/59/s3003/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3003%2Fd%2F2
-[/us/pl/109/59/s3003/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3003%2Fd%2F3
-[/us/pl/109/59/s3003/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3003%2Fd%2F4
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
-[/us/pl/105/178/s3032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs3032
+[/us/pl/105/178/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtIII
 [/us/stat/112/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F385
-[/us/pl/105/206/s9009/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs9009%2Fv
+[/us/pl/105/206/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIX
 [/us/stat/112/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F861
-[/us/pl/102/240/s8004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs8004
+[/us/pl/102/240/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2FtVIII
 [/us/stat/105/2206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2206
 
 

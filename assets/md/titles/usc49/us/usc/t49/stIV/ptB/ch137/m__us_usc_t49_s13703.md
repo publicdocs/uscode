@@ -137,7 +137,7 @@
 
     In this section, the term “single line rate” means a rate, charge, or allowance proposed by a single motor carrier that is applicable only over its line and for which the transportation can be provided by that carrier.
 
-(Added [Pub. L. 104–88, title I, § 103][/us/pl/104/88/s103], Dec. 29, 1995, [109 Stat. 869][/us/stat/109/869]; amended [Pub. L. 104–287, § 5(28)][/us/pl/104/287/s5/28], Oct. 11, 1996, [110 Stat. 3391][/us/stat/110/3391]; [Pub. L. 105–102, § 2(9)][/us/pl/105/102/s2/9], Nov. 20, 1997, [111 Stat. 2204][/us/stat/111/2204]; [Pub. L. 106–159, title II, § 227][/us/pl/106/159/s227], Dec. 9, 1999, [113 Stat. 1772][/us/stat/113/1772]; [Pub. L. 108–7, div. I, title III, § 354][/us/pl/108/7/s354], Feb. 20, 2003, [117 Stat. 421][/us/stat/117/421].)
+(Added [Pub. L. 104–88, title I][/us/pl/104/88/tI], § 103, Dec. 29, 1995, [109 Stat. 869][/us/stat/109/869]; amended [Pub. L. 104–287][/us/pl/104/287], § 5(28), Oct. 11, 1996, [110 Stat. 3391][/us/stat/110/3391]; [Pub. L. 105–102][/us/pl/105/102], § 2(9), Nov. 20, 1997, [111 Stat. 2204][/us/stat/111/2204]; [Pub. L. 106–159, title II][/us/pl/106/159/tII], § 227, Dec. 9, 1999, [113 Stat. 1772][/us/stat/113/1772]; [Pub. L. 108–7, div. I, title III][/us/pl/108/7/dI/tIII], § 354, Feb. 20, 2003, [117 Stat. 421][/us/stat/117/421].)
 
  __Historical and Revision Notes__ 
 
@@ -149,7 +149,7 @@
 
     The date of the enactment of this paragraph, referred to in subsecs. (c)(2) and (d)(2), is the date of enactment of [Pub. L. 106–159][/us/pl/106/159], which was approved Dec. 9, 1999.
 
-    Former section 10706(b), referred to in subsec. (d)(1), probably means [section 10706(b) of this title][/us/usc/t49/s10706/b] as in effect before that section was omitted and a new section 10706 enacted in the general amendment of this subtitle by [Pub. L. 104–88, title I, § 102(a)][/us/pl/104/88/s102/a], Dec. 29, 1995, [109 Stat. 804][/us/stat/109/804], 812.
+    Former section 10706(b), referred to in subsec. (d)(1), probably means [section 10706(b) of this title][/us/usc/t49/s10706/b] as in effect before that section was omitted and a new section 10706 enacted in the general amendment of this subtitle by [Pub. L. 104–88, title I][/us/pl/104/88/tI], § 102(a), Dec. 29, 1995, [109 Stat. 804][/us/stat/109/804], 812.
 
     Section 227 of the Motor Carrier Safety Improvement Act of 1999, referred to in subsec. (d)(2), is [section 227 of Pub. L. 106–159][/us/pl/106/159/s227], which amended this section. See 1999 Amendment notes below.
 
@@ -157,23 +157,23 @@
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [section 10706 of this title][/us/usc/t49/s10706] prior to the general amendment of this subtitle by [Pub. L. 104–88, § 102(a)][/us/pl/104/88/s102/a].
+    Provisions similar to those in this section were contained in [section 10706 of this title][/us/usc/t49/s10706] prior to the general amendment of this subtitle by [Pub. L. 104–88][/us/pl/104/88], § 102(a).
 
  __Amendments__ 
 
     2003—Subsecs. (d) to (h). [Pub. L. 108–7][/us/pl/108/7] redesignated subsecs. (e) to (h) as (d) to (g), respectively, and struck out heading and text of former subsec. (d). Text read as follows: “The Board shall not take any action that would permit the establishment of nationwide collective ratemaking authority.”
 
-    1999—Subsec. (c). [Pub. L. 106–159, § 227(a)][/us/pl/106/159/s227/a], designated introductory provisions as par. (1) and inserted heading, redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, of par. (1) and realigned their margins, and added par. (2).
+    1999—Subsec. (c). [Pub. L. 106–159][/us/pl/106/159], § 227(a), designated introductory provisions as par. (1) and inserted heading, redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, of par. (1) and realigned their margins, and added par. (2).
 
-    Subsec. (d). [Pub. L. 106–159, § 227(b)][/us/pl/106/159/s227/b], amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “Subject to subsection (c), approval of an agreement under subsection (a) shall expire 3 years after the date of approval unless renewed under this subsection. The approval may be renewed upon request of the parties to the agreement if such parties resubmit the agreement to the Board, the agreement is unchanged, and the Board approves such renewal. The Board shall approve the renewal unless it finds that the renewal is not in the public interest. Parties to the agreement may continue to undertake activities pursuant to the previously approved agreement while the renewal request is pending.”
+    Subsec. (d). [Pub. L. 106–159][/us/pl/106/159], § 227(b), amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “Subject to subsection (c), approval of an agreement under subsection (a) shall expire 3 years after the date of approval unless renewed under this subsection. The approval may be renewed upon request of the parties to the agreement if such parties resubmit the agreement to the Board, the agreement is unchanged, and the Board approves such renewal. The Board shall approve the renewal unless it finds that the renewal is not in the public interest. Parties to the agreement may continue to undertake activities pursuant to the previously approved agreement while the renewal request is pending.”
 
-    Subsec. (e). [Pub. L. 106–159, § 227(c)][/us/pl/106/159/s227/c], designated existing provisions as par. (1), inserted par. heading, and added par. (2).
+    Subsec. (e). [Pub. L. 106–159][/us/pl/106/159], § 227(c), designated existing provisions as par. (1), inserted par. heading, and added par. (2).
 
     1997—Subsec. (a)(2). [Pub. L. 105–102][/us/pl/105/102] substituted “paragraph (1)” for “subsection (a)”.
 
-    1996—Subsec. (e). [Pub. L. 104–287, § 5(28)(A)][/us/pl/104/287/s5/28/A], substituted “December 31, 1995,” for “the day before the effective date of this section” and “January 1, 1996” for “such effective date”.
+    1996—Subsec. (e). [Pub. L. 104–287][/us/pl/104/287], § 5(28)(A), substituted “December 31, 1995,” for “the day before the effective date of this section” and “January 1, 1996” for “such effective date”.
 
-    Subsec. (f)(2). [Pub. L. 104–287, § 5(28)(B)][/us/pl/104/287/s5/28/B], substituted “December 31, 1995” for “the day before the effective date of this section”.
+    Subsec. (f)(2). [Pub. L. 104–287][/us/pl/104/287], § 5(28)(B), substituted “December 31, 1995” for “the day before the effective date of this section”.
 
  __Abolition of Interstate Commerce Commission__ 
 
@@ -191,34 +191,34 @@
 ----------
 
 [/us/usc/t15/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs12
-[/us/pl/104/88/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs103
+[/us/pl/104/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtI
 [/us/stat/109/869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F869
-[/us/pl/104/287/s5/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F28
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3391
-[/us/pl/105/102/s2/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102%2Fs2%2F9
+[/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/stat/111/2204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2204
-[/us/pl/106/159/s227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2Fs227
+[/us/pl/106/159/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2FtII
 [/us/stat/113/1772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1772
-[/us/pl/108/7/s354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs354
+[/us/pl/108/7/dI/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdI%2FtIII
 [/us/stat/117/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F421
 [/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/pl/106/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159
 [/us/usc/t49/s10706/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs10706%2Fb
-[/us/pl/104/88/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs102%2Fa
+[/us/pl/104/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtI
 [/us/stat/109/804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F804
 [/us/pl/106/159/s227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2Fs227
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/stat/109/803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F803
 [/us/usc/t49/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs101
 [/us/usc/t49/s10706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs10706
-[/us/pl/104/88/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs102%2Fa
+[/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
-[/us/pl/106/159/s227/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2Fs227%2Fa
-[/us/pl/106/159/s227/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2Fs227%2Fb
-[/us/pl/106/159/s227/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2Fs227%2Fc
+[/us/pl/106/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159
+[/us/pl/106/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159
+[/us/pl/106/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159
 [/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
-[/us/pl/104/287/s5/28/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F28%2FA
-[/us/pl/104/287/s5/28/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F28%2FB
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/pl/104/88/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs101
 [/us/usc/t49/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1301
 [/us/pl/111/314/s4/d/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314%2Fs4%2Fd%2F8

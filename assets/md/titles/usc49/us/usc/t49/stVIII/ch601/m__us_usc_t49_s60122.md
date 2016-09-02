@@ -63,7 +63,7 @@
 
     Separate penalties for violating a regulation prescribed under this chapter and for violating an order under section 60112 or 60118(b) of this title may not be imposed under this chapter if both violations are based on the same act.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1325][/us/stat/108/1325]; [Pub. L. 107–355][/us/pl/107/355], §§ 6(b), 8(b)(1), (2), 21(3), Dec. 17, 2002, [116 Stat. 2992][/us/stat/116/2992], 2993, 3010; [Pub. L. 109–468, § 2(a)(2)][/us/pl/109/468/s2/a/2], Dec. 29, 2006, [120 Stat. 3487][/us/stat/120/3487]; [Pub. L. 112–90, § 2(a)][/us/pl/112/90/s2/a], Jan. 3, 2012, [125 Stat. 1905][/us/stat/125/1905].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1325][/us/stat/108/1325]; [Pub. L. 107–355][/us/pl/107/355], §§ 6(b), 8(b)(1), (2), 21(3), Dec. 17, 2002, [116 Stat. 2992][/us/stat/116/2992], 2993, 3010; [Pub. L. 109–468][/us/pl/109/468], § 2(a)(2), Dec. 29, 2006, [120 Stat. 3487][/us/stat/120/3487]; [Pub. L. 112–90][/us/pl/112/90], § 2(a), Jan. 3, 2012, [125 Stat. 1905][/us/stat/125/1905].)
 
 <table>
 
@@ -297,19 +297,19 @@ In subsection (c)(1), the words “The Secretary may request the Attorney Genera
 
  __Amendments__ 
 
-    2012—Subsec. (a)(1). [Pub. L. 112–90, § 2(a)(1)][/us/pl/112/90/s2/a/1], substituted “$200,000” for “$100,000” and “$2,000,000” for “$1,000,000”.
+    2012—Subsec. (a)(1). [Pub. L. 112–90][/us/pl/112/90], § 2(a)(1), substituted “$200,000” for “$100,000” and “$2,000,000” for “$1,000,000”.
 
-    Subsec. (b)(1)(B). [Pub. L. 112–90, § 2(a)(2)][/us/pl/112/90/s2/a/2], struck out “the ability to pay,” after “violations,”.
+    Subsec. (b)(1)(B). [Pub. L. 112–90][/us/pl/112/90], § 2(a)(2), struck out “the ability to pay,” after “violations,”.
 
     2006—Subsec. (a)(1). [Pub. L. 109–468][/us/pl/109/468] substituted “60114(b), 60114(d),” for “60114(b)”.
 
-    2002—Subsec. (a)(1). [Pub. L. 107–355, § 21(3)][/us/pl/107/355/s21/3], substituted “section 60114(b)” for “section 60114(c)”.
+    2002—Subsec. (a)(1). [Pub. L. 107–355][/us/pl/107/355], § 21(3), substituted “section 60114(b)” for “section 60114(c)”.
 
-    [Pub. L. 107–355, § 8(b)(1)][/us/pl/107/355/s8/b/1], substituted “$100,000” for “$25,000” and “$1,000,000” for “$500,000”.
+    [Pub. L. 107–355][/us/pl/107/355], § 8(b)(1), substituted “$100,000” for “$25,000” and “$1,000,000” for “$500,000”.
 
-    Subsec. (a)(3). [Pub. L. 107–355, § 6(b)][/us/pl/107/355/s6/b], added par. (3).
+    Subsec. (a)(3). [Pub. L. 107–355][/us/pl/107/355], § 6(b), added par. (3).
 
-    Subsec. (b). [Pub. L. 107–355, § 8(b)(2)][/us/pl/107/355/s8/b/2], substituted “under this section—” and pars. (1) and (2) for “under this section, the Secretary shall consider—
+    Subsec. (b). [Pub. L. 107–355][/us/pl/107/355], § 8(b)(2), substituted “under this section—” and pars. (1) and (2) for “under this section, the Secretary shall consider—
 
     “(1) the nature, circumstances, and gravity of the violation;
 
@@ -321,7 +321,7 @@ In subsection (c)(1), the words “The Secretary may request the Attorney Genera
 
  __Comptroller General Study__ 
 
-    [Pub. L. 107–355, § 8(d)][/us/pl/107/355/s8/d], Dec. 17, 2002, [116 Stat. 2994][/us/stat/116/2994], required the Comptroller General to study the actions, policies, and procedures of the Secretary of Transportation for assessing and collecting fines and penalties on operators of hazardous liquid and gas transmission pipelines, and to report, not later than 1 year after Dec. 17, 2002, the results of the study to certain committees of Congress.
+    [Pub. L. 107–355][/us/pl/107/355], § 8(d), Dec. 17, 2002, [116 Stat. 2994][/us/stat/116/2994], required the Comptroller General to study the actions, policies, and procedures of the Secretary of Transportation for assessing and collecting fines and penalties on operators of hazardous liquid and gas transmission pipelines, and to report, not later than 1 year after Dec. 17, 2002, the results of the study to certain committees of Congress.
 
 ----------
 
@@ -330,22 +330,22 @@ In subsection (c)(1), the words “The Secretary may request the Attorney Genera
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1325
 [/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355
 [/us/stat/116/2992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2992
-[/us/pl/109/468/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F468%2Fs2%2Fa%2F2
-[/us/stat/120/3487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3487
-[/us/pl/112/90/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90%2Fs2%2Fa
-[/us/stat/125/1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1905
-[/us/pl/112/90/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90%2Fs2%2Fa%2F1
-[/us/pl/112/90/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90%2Fs2%2Fa%2F2
 [/us/pl/109/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F468
-[/us/pl/107/355/s21/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355%2Fs21%2F3
-[/us/pl/107/355/s8/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355%2Fs8%2Fb%2F1
-[/us/pl/107/355/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355%2Fs6%2Fb
-[/us/pl/107/355/s8/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355%2Fs8%2Fb%2F2
-[/us/pl/107/355/s8/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355%2Fs8%2Fd
+[/us/stat/120/3487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3487
+[/us/pl/112/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90
+[/us/stat/125/1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1905
+[/us/pl/112/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90
+[/us/pl/112/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90
+[/us/pl/109/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F468
+[/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355
+[/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355
+[/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355
+[/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355
+[/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355
 [/us/stat/116/2994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2994
 
 

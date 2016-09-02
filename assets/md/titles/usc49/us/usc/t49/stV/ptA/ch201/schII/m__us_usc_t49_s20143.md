@@ -51,7 +51,7 @@
 
         (3) A locomotive equipped with temporary visibility measures prescribed under subsection (b) of this section when final regulations are prescribed under paragraph (1) of this subsection is deemed to be complying with the final regulations for 4 years after the final regulations are prescribed.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 880][/us/stat/108/880].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 880][/us/stat/108/880].)
 
 <table>
 
@@ -204,7 +204,7 @@ Oct. 16, 1970, Pub. L. 91–458, 84 Stat. 971, § 202(u); added Oct. 27, 1992,
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F880
 
 

@@ -33,7 +33,7 @@
 
         (3) When a civil penalty is collected in a civil action under this chapter before a decision of the Commission under this subsection is final, the payment shall be paid to the court in which the action was brought. The court shall deposit the payment in the general fund of the Treasury on the 90th day after the decision of the Commission becomes final. When the court is holding payment of a penalty reduced under subsection (a)(3) of this section, the Secretary shall direct the court to remit the appropriate amount of the penalty to the manufacturer.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1073][/us/stat/108/1073]; [Pub. L. 103–429, § 6(41)][/us/pl/103/429/s6/41], Oct. 31, 1994, [108 Stat. 4382][/us/stat/108/4382]; [Pub. L. 104–287, § 6(d)(1)(A)][/us/pl/104/287/s6/d/1/A], Oct. 11, 1996, [110 Stat. 3399][/us/stat/110/3399].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1073][/us/stat/108/1073]; [Pub. L. 103–429][/us/pl/103/429], § 6(41), Oct. 31, 1994, [108 Stat. 4382][/us/stat/108/4382]; [Pub. L. 104–287][/us/pl/104/287], § 6(d)(1)(A), Oct. 11, 1996, [110 Stat. 3399][/us/stat/110/3399].)
 
 <table>
 
@@ -115,15 +115,15 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, § 508(b)(3) (2d sentence), (4)
 
  __Amendments__ 
 
-    1996—Subsec. (b). [Pub. L. 104–287][/us/pl/104/287] made technical amendment to directory language of [Pub. L. 103–429, § 6(41)][/us/pl/103/429/s6/41]. See 1994 Amendment notes below.
+    1996—Subsec. (b). [Pub. L. 104–287][/us/pl/104/287] made technical amendment to directory language of [Pub. L. 103–429][/us/pl/103/429], § 6(41). See 1994 Amendment notes below.
 
-    1994—Subsec. (b). [Pub. L. 103–429, § 6(41)(A)][/us/pl/103/429/s6/41/A], as amended by [Pub. L. 104–287][/us/pl/104/287], substituted “Certification” for “Penalty Reduction” in heading.
+    1994—Subsec. (b). [Pub. L. 103–429][/us/pl/103/429], § 6(41)(A), as amended by [Pub. L. 104–287][/us/pl/104/287], substituted “Certification” for “Penalty Reduction” in heading.
 
-    Subsec. (b)(1). [Pub. L. 103–429, § 6(41)(B)][/us/pl/103/429/s6/41/B], as amended by [Pub. L. 104–287][/us/pl/104/287], substituted “a reduction in the penalty is necessary” for “the penalty should be reduced”.
+    Subsec. (b)(1). [Pub. L. 103–429][/us/pl/103/429], § 6(41)(B), as amended by [Pub. L. 104–287][/us/pl/104/287], substituted “a reduction in the penalty is necessary” for “the penalty should be reduced”.
 
  __Effective Date of 1996 Amendment__ 
 
-    [Pub. L. 104–287, § 6(d)][/us/pl/104/287/s6/d], Oct. 11, 1996, [110 Stat. 3398][/us/stat/110/3398], provided that the amendment made by section 6(d)(1)(A) is effective Oct. 31, 1994.
+    [Pub. L. 104–287][/us/pl/104/287], § 6(d), Oct. 11, 1996, [110 Stat. 3398][/us/stat/110/3398], provided that the amendment made by section 6(d)(1)(A) is effective Oct. 31, 1994.
 
  __Effective Date of 1994 Amendment__ 
 
@@ -138,23 +138,23 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, § 508(b)(3) (2d sentence), (4)
 
 [/us/usc/t49/s32912/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs32912%2Fb
 [/us/usc/t49/s32911/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs32911%2Fb
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1073
-[/us/pl/103/429/s6/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F41
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/stat/108/4382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4382
-[/us/pl/104/287/s6/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs6%2Fd%2F1%2FA
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3399
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/act/1994-07-05/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1994-07-05%2Fs1
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1073
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
-[/us/pl/103/429/s6/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F41
-[/us/pl/103/429/s6/41/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F41%2FA
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
-[/us/pl/103/429/s6/41/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F41%2FB
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
-[/us/pl/104/287/s6/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs6%2Fd
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3398
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/pl/103/429/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs9

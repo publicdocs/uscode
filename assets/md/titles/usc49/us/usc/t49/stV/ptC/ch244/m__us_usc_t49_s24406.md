@@ -27,7 +27,7 @@
 
     (5) For fiscal year 2013, $600,000,000.
 
-(Added [Pub. L. 110–432, div. B, title III, § 301(a)][/us/pl/110/432/s301/a], Oct. 16, 2008, [122 Stat. 4946][/us/stat/122/4946].)
+(Added [Pub. L. 110–432, div. B, title III][/us/pl/110/432/dB/tIII], § 301(a), Oct. 16, 2008, [122 Stat. 4946][/us/stat/122/4946].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/110/432/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs301%2Fa
+[/us/pl/110/432/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdB%2FtIII
 [/us/stat/122/4946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4946
 
 

@@ -43,7 +43,7 @@
 
     The Secretary shall submit each decision authorizing the provision of foreign air transportation to the President under [section 41307 of this title][/us/usc/t49/s41307].
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1119][/us/stat/108/1119].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1119][/us/stat/108/1119].)
 
 <table>
 
@@ -260,7 +260,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 401(d)(8) (1st sentence); ad
 
 [/us/usc/t49/s41108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs41108
 [/us/usc/t49/s41307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs41307
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1119
 
 

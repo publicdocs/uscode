@@ -111,7 +111,7 @@
 
     The authority of the Secretary to make grants during a fiscal year from amounts that were apportioned for a prior fiscal year and remain available for approved airport development project grants under subsection (b) of this section may be impaired only by a law enacted after September 3, 1982, that expressly limits that authority.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1271][/us/stat/108/1271]; [Pub. L. 103–305, title I, § 116(a)][/us/pl/103/305/s116/a], Aug. 23, 1994, [108 Stat. 1579][/us/stat/108/1579]; [Pub. L. 103–429, § 6(68)][/us/pl/103/429/s6/68], Oct. 31, 1994, [108 Stat. 4387][/us/stat/108/4387]; [Pub. L. 104–264, title I][/us/pl/104/264], §§ 123, 124(d), Oct. 9, 1996, [110 Stat. 3219][/us/stat/110/3219], 3220; [Pub. L. 104–287, § 5(82)][/us/pl/104/287/s5/82], Oct. 11, 1996, [110 Stat. 3397][/us/stat/110/3397]; [Pub. L. 105–102, § 3(c)(1)][/us/pl/105/102/s3/c/1], (2), Nov. 20, 1997, [111 Stat. 2215][/us/stat/111/2215]; [Pub. L. 106–6, § 7][/us/pl/106/6/s7], Mar. 31, 1999, [113 Stat. 10][/us/stat/113/10]; [Pub. L. 106–31, title VI, § 6002(d)][/us/pl/106/31/s6002/d], May 21, 1999, [113 Stat. 113][/us/stat/113/113]; [Pub. L. 106–181, title I][/us/pl/106/181], §§ 104(e)–(g), 129, title II, § 231(f), Apr. 5, 2000, [114 Stat. 70][/us/stat/114/70], 77, 114; [Pub. L. 108–176, title I][/us/pl/108/176], §§ 149(c), 150, 151, Dec. 12, 2003, [117 Stat. 2505][/us/stat/117/2505], 2506; [Pub. L. 112–95, title I, § 145][/us/pl/112/95/s145], Feb. 14, 2012, [126 Stat. 30][/us/stat/126/30].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1271][/us/stat/108/1271]; [Pub. L. 103–305, title I][/us/pl/103/305/tI], § 116(a), Aug. 23, 1994, [108 Stat. 1579][/us/stat/108/1579]; [Pub. L. 103–429][/us/pl/103/429], § 6(68), Oct. 31, 1994, [108 Stat. 4387][/us/stat/108/4387]; [Pub. L. 104–264, title I][/us/pl/104/264/tI], §§ 123, 124(d), Oct. 9, 1996, [110 Stat. 3219][/us/stat/110/3219], 3220; [Pub. L. 104–287][/us/pl/104/287], § 5(82), Oct. 11, 1996, [110 Stat. 3397][/us/stat/110/3397]; [Pub. L. 105–102][/us/pl/105/102], § 3(c)(1), (2), Nov. 20, 1997, [111 Stat. 2215][/us/stat/111/2215]; [Pub. L. 106–6][/us/pl/106/6], § 7, Mar. 31, 1999, [113 Stat. 10][/us/stat/113/10]; [Pub. L. 106–31, title VI][/us/pl/106/31/tVI], § 6002(d), May 21, 1999, [113 Stat. 113][/us/stat/113/113]; [Pub. L. 106–181, title I][/us/pl/106/181/tI], §§ 104(e)–(g), 129, title II, § 231(f), Apr. 5, 2000, [114 Stat. 70][/us/stat/114/70], 77, 114; [Pub. L. 108–176, title I][/us/pl/108/176/tI], §§ 149(c), 150, 151, Dec. 12, 2003, [117 Stat. 2505][/us/stat/117/2505], 2506; [Pub. L. 112–95, title I][/us/pl/112/95/tI], § 145, Feb. 14, 2012, [126 Stat. 30][/us/stat/126/30].)
 
 <table>
 
@@ -401,11 +401,11 @@ Sept. 3, 1982, Pub. L. 97–248, § 508(d), as amended May 26, 1994, Pub. L. 1
 
 </table>
 
- __[__  __Pub. L. 104–287, § 5(82)(A)__  __][/us/pl/104/287/s5/82/A]__ 
+ __[__  __Pub. L. 104–287__  __][/us/pl/104/287]__  __, § 5(82)(A)__ 
 
     This amends 49:47117(e)(1)(B) because of the redesignation of 49:47504(c)(1)(C) and (D) as 49:47504(c)(2)(C) and (D) by [section 6(71)(C) of the Act of October 31, 1994][/us/act/1994-10-31/s6/71/C] ([Public Law 103–429][/us/pl/103/429], [108 Stat. 4387][/us/stat/108/4387]).
 
- __[__  __Pub. L. 104–287, § 5(82)(B)__  __][/us/pl/104/287/s5/82/B]__ 
+ __[__  __Pub. L. 104–287__  __][/us/pl/104/287]__  __, § 5(82)(B)__ 
 
     This amends 49:47117(g)(1) because of the redesignation of 49:47105(e) as 49:47105(f) by section 107(a)(1) of the Federal Aviation Administration Authorization Act of 1994 ([Public Law 103–305][/us/pl/103/305], [108 Stat. 1572][/us/stat/108/1572]).
 
@@ -413,25 +413,25 @@ Sept. 3, 1982, Pub. L. 97–248, § 508(d), as amended May 26, 1994, Pub. L. 1
 
     The Clean Air Act, referred to in subsec. (e)(1)(A), is [act July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], [69 Stat. 322][/us/stat/69/322], which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of Title 42][/us/usc/t42/s7401] and Tables.
 
-    The Act of June 30, 1948, referred to in subsec. (e)(1)(A), is [act June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], as amended generally by [Pub. L. 92–500, § 2][/us/pl/92/500/s2], Oct. 18, 1972, [86 Stat. 816][/us/stat/86/816], known as the Federal Water Pollution Control Act, which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of Title 33][/us/usc/t33/s1251] and Tables.
+    The Act of June 30, 1948, referred to in subsec. (e)(1)(A), is [act June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], as amended generally by [Pub. L. 92–500][/us/pl/92/500], § 2, Oct. 18, 1972, [86 Stat. 816][/us/stat/86/816], known as the Federal Water Pollution Control Act, which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of Title 33][/us/usc/t33/s1251] and Tables.
 
  __Amendments__ 
 
     2012—Subsec. (e)(1)(A). [Pub. L. 112–95][/us/pl/112/95] substituted “At least 35 percent, but not more than $300,000,000,” for “At least 35 percent”, “et seq.), and for water quality mitigation projects to comply with the Act of June 30, 1948 ([33 U.S.C. 1251][/us/usc/t33/s1251] et seq.), approved in an environmental record of decision for an airport development project under this title.” for “et seq.).”, and “the requirements of the preceding sentence are” for “such 35 percent requirement is” and struck out “and” after “47141,”.
 
-    2003—Subsec. (b). [Pub. L. 108–176, § 150][/us/pl/108/176/s150], substituted “nonhub airport or any airport that is not a commercial service airport” for “primary airport that had less than .05 percent of the total boardings in the United States in the preceding calendar year”.
+    2003—Subsec. (b). [Pub. L. 108–176][/us/pl/108/176], § 150, substituted “nonhub airport or any airport that is not a commercial service airport” for “primary airport that had less than .05 percent of the total boardings in the United States in the preceding calendar year”.
 
-    Subsec. (c)(2). [Pub. L. 108–176, § 149(c)][/us/pl/108/176/s149/c], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “A sponsor of a primary airport may make an agreement with the Secretary of Transportation waiving any part of the amount apportioned for the airport under [section 47114(c)(1) of this title][/us/usc/t49/s47114/c/1] if the Secretary makes the waived amount available for a grant for another public-use airport in the same State or geographical area as the primary airport.”
+    Subsec. (c)(2). [Pub. L. 108–176][/us/pl/108/176], § 149(c), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “A sponsor of a primary airport may make an agreement with the Secretary of Transportation waiving any part of the amount apportioned for the airport under [section 47114(c)(1) of this title][/us/usc/t49/s47114/c/1] if the Secretary makes the waived amount available for a grant for another public-use airport in the same State or geographical area as the primary airport.”
 
-    Subsec. (e)(1)(A). [Pub. L. 108–176, § 151][/us/pl/108/176/s151], substituted “At least 35 percent” for “At least 34 percent”, “section 47505(a)(2),” for “[section 47505(a)(2) of this title][/us/usc/t49/s47505/a/2] and”, “, for noise mitigation projects approved in an environmental record of decision for an airport development project under this title, for compatible land use planning and projects carried out by State and local governments under section 47141, and for airport development described in section 47102(3)(F), 47102(3)(K), or 47102(3)(L) to comply with the Clean Air Act ([42 U.S.C. 7401][/us/usc/t42/s7401] et seq.).” for “of this title.”, and “35 percent requirement” for “34 percent requirement”.
+    Subsec. (e)(1)(A). [Pub. L. 108–176][/us/pl/108/176], § 151, substituted “At least 35 percent” for “At least 34 percent”, “section 47505(a)(2),” for “[section 47505(a)(2) of this title][/us/usc/t49/s47505/a/2] and”, “, for noise mitigation projects approved in an environmental record of decision for an airport development project under this title, for compatible land use planning and projects carried out by State and local governments under section 47141, and for airport development described in section 47102(3)(F), 47102(3)(K), or 47102(3)(L) to comply with the Clean Air Act ([42 U.S.C. 7401][/us/usc/t42/s7401] et seq.).” for “of this title.”, and “35 percent requirement” for “34 percent requirement”.
 
-    2000—Subsec. (e)(1)(A). [Pub. L. 106–181, § 104(e)][/us/pl/106/181/s104/e], substituted “34 percent” for “31 percent” in two places.
+    2000—Subsec. (e)(1)(A). [Pub. L. 106–181][/us/pl/106/181], § 104(e), substituted “34 percent” for “31 percent” in two places.
 
-    Subsec. (e)(1)(C). [Pub. L. 106–181, § 104(f)][/us/pl/106/181/s104/f], added subpar. (C).
+    Subsec. (e)(1)(C). [Pub. L. 106–181][/us/pl/106/181], § 104(f), added subpar. (C).
 
-    Subsec. (e)(3). [Pub. L. 106–181, § 231(f)][/us/pl/106/181/s231/f], added par. (3).
+    Subsec. (e)(3). [Pub. L. 106–181][/us/pl/106/181], § 231(f), added par. (3).
 
-    Subsec. (f). [Pub. L. 106–181, § 129][/us/pl/106/181/s129], amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows:
+    Subsec. (f). [Pub. L. 106–181][/us/pl/106/181], § 129, amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows:
 
     “(f) Discretionary Use of Apportionments.—(1) Subject to paragraph (2) of this subsection, if the Secretary finds, based on the notices the Secretary receives under [section 47105(f) of this title][/us/usc/t49/s47105/f] or otherwise, that an amount apportioned under [section 47114 of this title][/us/usc/t49/s47114] will not be used for grants during a fiscal year, the Secretary may use an equal amount for grants during that fiscal year for any of the purposes for which amounts are authorized for grants under [section 48103 of this title][/us/usc/t49/s48103].
 
@@ -441,39 +441,39 @@ Sept. 3, 1982, Pub. L. 97–248, § 508(d), as amended May 26, 1994, Pub. L. 1
 
     “(B) the amounts authorized for grants under [section 48103 of this title][/us/usc/t49/s48103] for later fiscal years are sufficient for grants of the apportioned amounts that were not used for grants under the apportionment during the fiscal year and that remain available under subsection (b) of this section.”
 
-    [Pub. L. 106–181, § 104(g)][/us/pl/106/181/s104/g], redesignated subsec. (g) as (f) and struck out heading and text of former subsec. (f). Text read as follows: “The Secretary may not make a grant for a commercial service airport in Alaska of more than 110 percent of the amount apportioned for the airport for a fiscal year under [section 47114(e) of this title][/us/usc/t49/s47114/e].”
+    [Pub. L. 106–181][/us/pl/106/181], § 104(g), redesignated subsec. (g) as (f) and struck out heading and text of former subsec. (f). Text read as follows: “The Secretary may not make a grant for a commercial service airport in Alaska of more than 110 percent of the amount apportioned for the airport for a fiscal year under [section 47114(e) of this title][/us/usc/t49/s47114/e].”
 
-    Subsecs. (g), (h). [Pub. L. 106–181, § 104(g)][/us/pl/106/181/s104/g], redesignated subsecs. (g) and (h) as (f) and (g), respectively.
+    Subsecs. (g), (h). [Pub. L. 106–181][/us/pl/106/181], § 104(g), redesignated subsecs. (g) and (h) as (f) and (g), respectively.
 
     1999—Subsec. (e)(1)(B). [Pub. L. 106–31][/us/pl/106/31] struck out “for each of fiscal years 1997 and 1998” after “4 percent”.
 
-    [Pub. L. 106–6][/us/pl/106/6] made amendment identical to that made by [Pub. L. 105–102, § 3(c)(2)][/us/pl/105/102/s3/c/2]. See 1997 Amendment note below.
+    [Pub. L. 106–6][/us/pl/106/6] made amendment identical to that made by [Pub. L. 105–102][/us/pl/105/102], § 3(c)(2). See 1997 Amendment note below.
 
-    1997—Subsec. (e)(1)(A). [Pub. L. 105–102, § 3(c)(1)(B)][/us/pl/105/102/s3/c/1/B], added [Pub. L. 104–264, § 123(d)][/us/pl/104/264/s123/d]. See 1996 Amendment note below.
+    1997—Subsec. (e)(1)(A). [Pub. L. 105–102][/us/pl/105/102], § 3(c)(1)(B), added [Pub. L. 104–264][/us/pl/104/264], § 123(d). See 1996 Amendment note below.
 
-    Subsec. (e)(1)(B). [Pub. L. 105–102, § 3(c)(2)][/us/pl/105/102/s3/c/2], repealed [Pub. L. 104–264, § 124(d)][/us/pl/104/264/s124/d]. See 1996 Amendment note below.
+    Subsec. (e)(1)(B). [Pub. L. 105–102][/us/pl/105/102], § 3(c)(2), repealed [Pub. L. 104–264][/us/pl/104/264], § 124(d). See 1996 Amendment note below.
 
-    [Pub. L. 105–102, § 3(c)(1)(A)][/us/pl/105/102/s3/c/1/A], amended [Pub. L. 104–264, § 123(b)(6)][/us/pl/104/264/s123/b/6]. See 1996 Amendment note below.
+    [Pub. L. 105–102][/us/pl/105/102], § 3(c)(1)(A), amended [Pub. L. 104–264][/us/pl/104/264], § 123(b)(6). See 1996 Amendment note below.
 
-    1996—Subsec. (b). [Pub. L. 104–264, § 123(a)][/us/pl/104/264/s123/a], inserted “or the 3 fiscal years immediately following that year in the case of a primary airport that had less than .05 percent of the total boardings in the United States in the preceding calendar year” before period at end of first sentence.
+    1996—Subsec. (b). [Pub. L. 104–264][/us/pl/104/264], § 123(a), inserted “or the 3 fiscal years immediately following that year in the case of a primary airport that had less than .05 percent of the total boardings in the United States in the preceding calendar year” before period at end of first sentence.
 
-    Subsec. (e)(1). [Pub. L. 104–264, § 123(b)(1)][/us/pl/104/264/s123/b/1], substituted “available to the discretionary fund under section 47115” for “made available under section 48103” in introductory provisions.
+    Subsec. (e)(1). [Pub. L. 104–264][/us/pl/104/264], § 123(b)(1), substituted “available to the discretionary fund under section 47115” for “made available under section 48103” in introductory provisions.
 
-    Subsec. (e)(1)(A). [Pub. L. 104–264, § 123(d)][/us/pl/104/264/s123/d], as added by [Pub. L. 105–102, § 3(c)(1)(B)][/us/pl/105/102/s3/c/1/B], substituted “47504(c)” for “47504(c)(1)”.
+    Subsec. (e)(1)(A). [Pub. L. 104–264][/us/pl/104/264], § 123(d), as added by [Pub. L. 105–102][/us/pl/105/102], § 3(c)(1)(B), substituted “47504(c)” for “47504(c)(1)”.
 
-    [Pub. L. 104–264, § 123(b)(4)][/us/pl/104/264/s123/b/4], (5), substituted “At least 31” for “at least 12.5” and inserted at end “The Secretary may count the amount of grants made for such planning and programs with funds apportioned under section 47114 in that fiscal year in determining whether or not such 31 percent requirement is being met in that fiscal year.”
+    [Pub. L. 104–264][/us/pl/104/264], § 123(b)(4), (5), substituted “At least 31” for “at least 12.5” and inserted at end “The Secretary may count the amount of grants made for such planning and programs with funds apportioned under section 47114 in that fiscal year in determining whether or not such 31 percent requirement is being met in that fiscal year.”
 
-    [Pub. L. 104–264, § 123(b)(2)][/us/pl/104/264/s123/b/2], (3), redesignated subpar. (B) as (A) and struck out former subpar. (A) which read as follows: “at least 5 percent for grants for reliever airports.”
+    [Pub. L. 104–264][/us/pl/104/264], § 123(b)(2), (3), redesignated subpar. (B) as (A) and struck out former subpar. (A) which read as follows: “at least 5 percent for grants for reliever airports.”
 
-    Subsec. (e)(1)(B). [Pub. L. 104–287, § 5(82)(A)][/us/pl/104/287/s5/82/A], which directed the amendment of subpar. (B) by substituting “47504(c)” for “47504(c)(1)”, could not be executed because “47504(c)(1)” did not appear in text of subpar. (B) subsequent to amendment by [Pub. L. 104–264][/us/pl/104/264]. See below.
+    Subsec. (e)(1)(B). [Pub. L. 104–287][/us/pl/104/287], § 5(82)(A), which directed the amendment of subpar. (B) by substituting “47504(c)” for “47504(c)(1)”, could not be executed because “47504(c)(1)” did not appear in text of subpar. (B) subsequent to amendment by [Pub. L. 104–264][/us/pl/104/264]. See below.
 
-    [Pub. L. 104–264, § 124(d)][/us/pl/104/264/s124/d], which directed the amendment of subpar. (B) by substituting “1996, 1997, and 1998” for “and 1996,”, was repealed by [Pub. L. 105–102, § 3(c)(2)][/us/pl/105/102/s3/c/2].
+    [Pub. L. 104–264][/us/pl/104/264], § 124(d), which directed the amendment of subpar. (B) by substituting “1996, 1997, and 1998” for “and 1996,”, was repealed by [Pub. L. 105–102][/us/pl/105/102], § 3(c)(2).
 
-    [Pub. L. 104–264, § 123(b)(6)][/us/pl/104/264/s123/b/6], as amended by [Pub. L. 105–102, § 3(c)(1)(A)][/us/pl/105/102/s3/c/1/A], substituted “at least 4 percent for each of fiscal years 1997 and 1998” for “at least 2.25 percent for the fiscal year ending September 30, 1993, and at least 2.5 percent for each of the fiscal years ending September 30, 1994, 1995, and 1996,”.
+    [Pub. L. 104–264][/us/pl/104/264], § 123(b)(6), as amended by [Pub. L. 105–102][/us/pl/105/102], § 3(c)(1)(A), substituted “at least 4 percent for each of fiscal years 1997 and 1998” for “at least 2.25 percent for the fiscal year ending September 30, 1993, and at least 2.5 percent for each of the fiscal years ending September 30, 1994, 1995, and 1996,”.
 
-    [Pub. L. 104–264, § 123(b)(3)][/us/pl/104/264/s123/b/3], (7), redesignated subpar. (E) as (B) and inserted before period at end “and to sponsors of noncommercial service airports for grants for operational and maintenance expenses at any such airport if the amount of such grants to the sponsor of the airport does not exceed $30,000 in that fiscal year, if the Secretary determines that the airport is adversely affected by the closure or realignment of a military base, and if the sponsor of the airport certifies that the airport would otherwise close if the airport does not receive the grant”. Former subpar. (B) redesignated (A).
+    [Pub. L. 104–264][/us/pl/104/264], § 123(b)(3), (7), redesignated subpar. (E) as (B) and inserted before period at end “and to sponsors of noncommercial service airports for grants for operational and maintenance expenses at any such airport if the amount of such grants to the sponsor of the airport does not exceed $30,000 in that fiscal year, if the Secretary determines that the airport is adversely affected by the closure or realignment of a military base, and if the sponsor of the airport certifies that the airport would otherwise close if the airport does not receive the grant”. Former subpar. (B) redesignated (A).
 
-    Subsec. (e)(1)(C), (D). [Pub. L. 104–264, § 123(b)(2)][/us/pl/104/264/s123/b/2], struck out subpars. (C) and (D) which read as follows:
+    Subsec. (e)(1)(C), (D). [Pub. L. 104–264][/us/pl/104/264], § 123(b)(2), struck out subpars. (C) and (D) which read as follows:
 
     “(C) at least 1.5 percent for grants for—
 
@@ -483,21 +483,21 @@ Sept. 3, 1982, Pub. L. 97–248, § 508(d), as amended May 26, 1994, Pub. L. 1
 
     “(D) at least .75 percent for integrated airport system planning grants to planning agencies designated by the Secretary and authorized by the laws of a State or political subdivision of a State to do planning for an area of the State or subdivision in which a grant under this chapter is to be used.”
 
-    Subsec. (e)(1)(E). [Pub. L. 104–264, § 123(b)(3)][/us/pl/104/264/s123/b/3], redesignated subpar. (E) as (B).
+    Subsec. (e)(1)(E). [Pub. L. 104–264][/us/pl/104/264], § 123(b)(3), redesignated subpar. (E) as (B).
 
-    Subsec. (e)(2), (3). [Pub. L. 104–264, § 123(c)][/us/pl/104/264/s123/c], redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “A grant from the amount apportioned under [section 47114(e) of this title][/us/usc/t49/s47114/e] may not be included as part of the 1.5 percent required to be used for grants under paragraph (1)(C) of this subsection.”
+    Subsec. (e)(2), (3). [Pub. L. 104–264][/us/pl/104/264], § 123(c), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “A grant from the amount apportioned under [section 47114(e) of this title][/us/usc/t49/s47114/e] may not be included as part of the 1.5 percent required to be used for grants under paragraph (1)(C) of this subsection.”
 
-    Subsec. (g)(1). [Pub. L. 104–287, § 5(82)(B)][/us/pl/104/287/s5/82/B], substituted “47105(f)” for “47105(e)”.
+    Subsec. (g)(1). [Pub. L. 104–287][/us/pl/104/287], § 5(82)(B), substituted “47105(f)” for “47105(e)”.
 
-    1994—Subsec. (e)(1)(A). [Pub. L. 103–429, § 6(68)(A)][/us/pl/103/429/s6/68/A], substituted “5 percent” for “10 percent”.
+    1994—Subsec. (e)(1)(A). [Pub. L. 103–429][/us/pl/103/429], § 6(68)(A), substituted “5 percent” for “10 percent”.
 
-    Subsec. (e)(1)(C). [Pub. L. 103–429, § 6(68)(B)][/us/pl/103/429/s6/68/B], substituted “1.5 percent” for “2.5 percent” in introductory provisions.
+    Subsec. (e)(1)(C). [Pub. L. 103–429][/us/pl/103/429], § 6(68)(B), substituted “1.5 percent” for “2.5 percent” in introductory provisions.
 
-    Subsec. (e)(1)(D). [Pub. L. 103–429, § 6(68)(C)][/us/pl/103/429/s6/68/C], substituted “.75 percent” for “.5 percent”.
+    Subsec. (e)(1)(D). [Pub. L. 103–429][/us/pl/103/429], § 6(68)(C), substituted “.75 percent” for “.5 percent”.
 
     Subsec. (e)(1)(E). [Pub. L. 103–305][/us/pl/103/305] substituted “, 1995, and 1996” for “, and 1995”.
 
-    Subsec. (e)(2). [Pub. L. 103–429, § 6(68)(D)][/us/pl/103/429/s6/68/D], substituted “1.5 percent” for “2.5 percent”.
+    Subsec. (e)(2). [Pub. L. 103–429][/us/pl/103/429], § 6(68)(D), substituted “1.5 percent” for “2.5 percent”.
 
  __Effective Date of 2003 Amendment__ 
 
@@ -509,13 +509,13 @@ Sept. 3, 1982, Pub. L. 97–248, § 508(d), as amended May 26, 1994, Pub. L. 1
 
  __Effective Date of 1997 Amendment__ 
 
-    [Pub. L. 105–102, § 3(c)][/us/pl/105/102/s3/c], Nov. 20, 1997, [111 Stat. 2215][/us/stat/111/2215], provided that the amendment made by section 3(c)(1)(B) is effective Oct. 9, 1996.
+    [Pub. L. 105–102][/us/pl/105/102], § 3(c), Nov. 20, 1997, [111 Stat. 2215][/us/stat/111/2215], provided that the amendment made by section 3(c)(1)(B) is effective Oct. 9, 1996.
 
     Amendment by [Pub. L. 105–102][/us/pl/105/102] effective as if included in the provisions of the Act to which the amendment relates, see [section 3(f) of Pub. L. 105–102][/us/pl/105/102/s3/f], set out as a note under [section 106 of this title][/us/usc/t49/s106].
 
  __Effective Date of 1996 Amendments__ 
 
-[Section 8(2) of Pub. L. 104–287][/us/pl/104/287/s8/2], as amended by [Pub. L. 105–102, § 3(d)(2)(B)][/us/pl/105/102/s3/d/2/B], Nov. 20, 1997, [111 Stat. 2215][/us/stat/111/2215], provided that: 
+[Section 8(2) of Pub. L. 104–287][/us/pl/104/287/s8/2], as amended by [Pub. L. 105–102][/us/pl/105/102], § 3(d)(2)(B), Nov. 20, 1997, [111 Stat. 2215][/us/stat/111/2215], provided that: 
 
 > “The amendments made by section 5(81)(B), (82)(A), and (83)(A) \[amending this section and sections 47115 and 47118 of this title\] shall take effect on September 30, 1998.”
 
@@ -542,107 +542,107 @@ Sept. 3, 1982, Pub. L. 97–248, § 508(d), as amended May 26, 1994, Pub. L. 1
 [/us/usc/t49/s47118/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs47118%2Fa
 [/us/usc/t49/s48103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs48103
 [/us/usc/t49/s48103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs48103
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1271
-[/us/pl/103/305/s116/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2Fs116%2Fa
+[/us/pl/103/305/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2FtI
 [/us/stat/108/1579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1579
-[/us/pl/103/429/s6/68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F68
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/stat/108/4387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4387
-[/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
+[/us/pl/104/264/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2FtI
 [/us/stat/110/3219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3219
-[/us/pl/104/287/s5/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F82
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3397
-[/us/pl/105/102/s3/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102%2Fs3%2Fc%2F1
+[/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/stat/111/2215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2215
-[/us/pl/106/6/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F6%2Fs7
+[/us/pl/106/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F6
 [/us/stat/113/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F10
-[/us/pl/106/31/s6002/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31%2Fs6002%2Fd
+[/us/pl/106/31/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31%2FtVI
 [/us/stat/113/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F113
-[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/106/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtI
 [/us/stat/114/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F70
-[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
+[/us/pl/108/176/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtI
 [/us/stat/117/2505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2505
-[/us/pl/112/95/s145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs145
+[/us/pl/112/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtI
 [/us/stat/126/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F30
-[/us/pl/104/287/s5/82/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F82%2FA
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/act/1994-10-31/s6/71/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1994-10-31%2Fs6%2F71%2FC
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/stat/108/4387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4387
-[/us/pl/104/287/s5/82/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F82%2FB
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/pl/103/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305
 [/us/stat/108/1572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1572
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
 [/us/stat/69/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F322
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/92/500/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs2
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F816
 [/us/usc/t33/s1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1251
 [/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
 [/us/usc/t33/s1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1251
-[/us/pl/108/176/s150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs150
-[/us/pl/108/176/s149/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs149%2Fc
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
 [/us/usc/t49/s47114/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs47114%2Fc%2F1
-[/us/pl/108/176/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs151
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
 [/us/usc/t49/s47505/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs47505%2Fa%2F2
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
-[/us/pl/106/181/s104/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs104%2Fe
-[/us/pl/106/181/s104/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs104%2Ff
-[/us/pl/106/181/s231/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs231%2Ff
-[/us/pl/106/181/s129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs129
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/usc/t49/s47105/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs47105%2Ff
 [/us/usc/t49/s47114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs47114
 [/us/usc/t49/s48103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs48103
 [/us/usc/t49/s48103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs48103
 [/us/usc/t49/s48103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs48103
-[/us/pl/106/181/s104/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs104%2Fg
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/usc/t49/s47114/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs47114%2Fe
-[/us/pl/106/181/s104/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs104%2Fg
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/pl/106/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31
 [/us/pl/106/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F6
-[/us/pl/105/102/s3/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102%2Fs3%2Fc%2F2
-[/us/pl/105/102/s3/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102%2Fs3%2Fc%2F1%2FB
-[/us/pl/104/264/s123/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs123%2Fd
-[/us/pl/105/102/s3/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102%2Fs3%2Fc%2F2
-[/us/pl/104/264/s124/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs124%2Fd
-[/us/pl/105/102/s3/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102%2Fs3%2Fc%2F1%2FA
-[/us/pl/104/264/s123/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs123%2Fb%2F6
-[/us/pl/104/264/s123/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs123%2Fa
-[/us/pl/104/264/s123/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs123%2Fb%2F1
-[/us/pl/104/264/s123/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs123%2Fd
-[/us/pl/105/102/s3/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102%2Fs3%2Fc%2F1%2FB
-[/us/pl/104/264/s123/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs123%2Fb%2F4
-[/us/pl/104/264/s123/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs123%2Fb%2F2
-[/us/pl/104/287/s5/82/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F82%2FA
+[/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
+[/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
-[/us/pl/104/264/s124/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs124%2Fd
-[/us/pl/105/102/s3/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102%2Fs3%2Fc%2F2
-[/us/pl/104/264/s123/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs123%2Fb%2F6
-[/us/pl/105/102/s3/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102%2Fs3%2Fc%2F1%2FA
-[/us/pl/104/264/s123/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs123%2Fb%2F3
-[/us/pl/104/264/s123/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs123%2Fb%2F2
-[/us/pl/104/264/s123/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs123%2Fb%2F3
-[/us/pl/104/264/s123/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs123%2Fc
+[/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
+[/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
+[/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
+[/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
+[/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
+[/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
+[/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
+[/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
+[/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
+[/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
+[/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
+[/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
+[/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
+[/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
+[/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
+[/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
+[/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
+[/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
+[/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
 [/us/usc/t49/s47114/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs47114%2Fe
-[/us/pl/104/287/s5/82/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F82%2FB
-[/us/pl/103/429/s6/68/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F68%2FA
-[/us/pl/103/429/s6/68/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F68%2FB
-[/us/pl/103/429/s6/68/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F68%2FC
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/pl/103/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305
-[/us/pl/103/429/s6/68/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F68%2FD
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
 [/us/pl/108/176/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106
 [/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/pl/106/181/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106
-[/us/pl/105/102/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102%2Fs3%2Fc
+[/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/stat/111/2215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2215
 [/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/pl/105/102/s3/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102%2Fs3%2Ff
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106
 [/us/pl/104/287/s8/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs8%2F2
-[/us/pl/105/102/s3/d/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102%2Fs3%2Fd%2F2%2FB
+[/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/stat/111/2215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2215
 [/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
 [/us/pl/104/264/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs3

@@ -51,7 +51,7 @@
 
     This section does not authorize the Secretary or the Comptroller General to withhold information from a committee of Congress authorized to have the information.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1274][/us/stat/108/1274]; [Pub. L. 104–316, title I, § 127(f)][/us/pl/104/316/s127/f], Oct. 19, 1996, [110 Stat. 3840][/us/stat/110/3840].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1274][/us/stat/108/1274]; [Pub. L. 104–316, title I][/us/pl/104/316/tI], § 127(f), Oct. 19, 1996, [110 Stat. 3840][/us/stat/110/3840].)
 
 <table>
 
@@ -190,9 +190,9 @@ Sept. 3, 1982, Pub. L. 97–248, § 518, 96 Stat. 693.  </td>
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1274
-[/us/pl/104/316/s127/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs127%2Ff
+[/us/pl/104/316/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2FtI
 [/us/stat/110/3840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3840
 [/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316
 

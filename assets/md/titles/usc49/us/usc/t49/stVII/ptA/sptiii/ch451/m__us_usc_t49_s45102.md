@@ -31,7 +31,7 @@
 
     In prescribing regulations under the programs required by this section, the Administrator shall require, as the Administrator considers appropriate, the suspension or revocation of any certificate issued to an individual referred to in this section, or the disqualification or dismissal of the individual, under this chapter when a test conducted and confirmed under this chapter indicates the individual has used alcohol or a controlled substance in violation of law or a Government regulation.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1221][/us/stat/108/1221]; [Pub. L. 104–59, title III, § 342(d)][/us/pl/104/59/s342/d], Nov. 28, 1995, [109 Stat. 609][/us/stat/109/609]; [Pub. L. 107–71, title I, § 139(1)][/us/pl/107/71/s139/1], Nov. 19, 2001, [115 Stat. 640][/us/stat/115/640].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1221][/us/stat/108/1221]; [Pub. L. 104–59, title III][/us/pl/104/59/tIII], § 342(d), Nov. 28, 1995, [109 Stat. 609][/us/stat/109/609]; [Pub. L. 107–71, title I][/us/pl/107/71/tI], § 139(1), Nov. 19, 2001, [115 Stat. 640][/us/stat/115/640].)
 
 <table>
 
@@ -113,13 +113,13 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 614(a); added Oct. 28, 1991,
 
     2001—Subsec. (a). [Pub. L. 107–71][/us/pl/107/71] substituted “personnel” for “contract personnel” wherever appearing.
 
-    1995—Subsec. (a)(1). [Pub. L. 104–59, § 342(d)(1)][/us/pl/104/59/s342/d/1], added par. (1) and struck out former par. (1) which read as follows: “In the interest of aviation safety, the Administrator of the Federal Aviation Administration shall prescribe regulations not later than October 28, 1992, that establish a program requiring air carriers and foreign air carriers to conduct preemployment, reasonable suspicion, random, and post-accident testing of airmen, crewmembers, airport security screening contract personnel, and other air carrier employees responsible for safety-sensitive functions (as decided by the Administrator) for the use of alcohol or a controlled substance in violation of law or a United States Government regulation.”
+    1995—Subsec. (a)(1). [Pub. L. 104–59][/us/pl/104/59], § 342(d)(1), added par. (1) and struck out former par. (1) which read as follows: “In the interest of aviation safety, the Administrator of the Federal Aviation Administration shall prescribe regulations not later than October 28, 1992, that establish a program requiring air carriers and foreign air carriers to conduct preemployment, reasonable suspicion, random, and post-accident testing of airmen, crewmembers, airport security screening contract personnel, and other air carrier employees responsible for safety-sensitive functions (as decided by the Administrator) for the use of alcohol or a controlled substance in violation of law or a United States Government regulation.”
 
-    Subsec. (b)(1). [Pub. L. 104–59, § 342(d)(2)][/us/pl/104/59/s342/d/2], added par. (1) and struck out former par. (1) which read as follows: “The Administrator shall establish a program of preemployment, reasonable suspicion, random, and post-accident testing for the use of alcohol or a controlled substance in violation of law or a Government regulation for employees of the Administration whose duties include responsibility for safety-sensitive functions.”
+    Subsec. (b)(1). [Pub. L. 104–59][/us/pl/104/59], § 342(d)(2), added par. (1) and struck out former par. (1) which read as follows: “The Administrator shall establish a program of preemployment, reasonable suspicion, random, and post-accident testing for the use of alcohol or a controlled substance in violation of law or a Government regulation for employees of the Administration whose duties include responsibility for safety-sensitive functions.”
 
  __Rulemaking on Random Testing for Prohibited Drugs__ 
 
-[Pub. L. 103–305, title V, § 501][/us/pl/103/305/s501], Aug. 23, 1994, [108 Stat. 1594][/us/stat/108/1594], provided that: 
+[Pub. L. 103–305, title V][/us/pl/103/305/tV], § 501, Aug. 23, 1994, [108 Stat. 1594][/us/stat/108/1594], provided that: 
 
 > “Not later than 180 days after the date of the enactment of this Act \[Aug. 23, 1994\], the Secretary shall complete a rulemaking proceeding and issue a final decision on whether there should be a reduction in the annualized rate now required by the Secretary of random testing for prohibited drugs for personnel engaged in aviation activities.”
 
@@ -130,16 +130,16 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 614(a); added Oct. 28, 1991,
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1221
-[/us/pl/104/59/s342/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2Fs342%2Fd
+[/us/pl/104/59/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2FtIII
 [/us/stat/109/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F609
-[/us/pl/107/71/s139/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs139%2F1
+[/us/pl/107/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2FtI
 [/us/stat/115/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F640
 [/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
-[/us/pl/104/59/s342/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2Fs342%2Fd%2F1
-[/us/pl/104/59/s342/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2Fs342%2Fd%2F2
-[/us/pl/103/305/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2Fs501
+[/us/pl/104/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59
+[/us/pl/104/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59
+[/us/pl/103/305/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2FtV
 [/us/stat/108/1594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1594
 
 

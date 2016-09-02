@@ -41,7 +41,7 @@
 
         (2) This subsection does not require reimbursement for costs incurred by the Secretary of the Treasury in providing customs services described in section 13031(e)(1) of the Consolidated Omnibus Budget Reconciliation Act of 1985 ([19 U.S.C. 58c(e)(1)][/us/usc/t19/s58c/e/1]).
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1357][/us/stat/108/1357].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1357][/us/stat/108/1357].)
 
 <table>
 
@@ -156,7 +156,7 @@ May 21, 1970, Pub. L. 91–258, 84 Stat. 219, § 53(e); added Oct. 22, 1986, P
 
 [/us/usc/t19/s1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1451
 [/us/usc/t19/s58c/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs58c%2Fe%2F1
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1357
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551

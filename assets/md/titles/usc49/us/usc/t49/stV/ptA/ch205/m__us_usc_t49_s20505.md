@@ -17,7 +17,7 @@
 
     In the way and to the extent required by the Secretary of Transportation, a railroad carrier shall report to the Secretary a failure of a signal system to function as intended. If the failure results in an accident or incident causing injury to an individual or property that is required to be reported under regulations prescribed by the Secretary, the carrier owning or maintaining the signal system shall report to the Secretary immediately in writing the fact of the accident or incident.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 884][/us/stat/108/884].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 884][/us/stat/108/884].)
 
 <table>
 
@@ -90,7 +90,7 @@ Oct. 15, 1966, Pub. L. 89–670, § 6(e)(6)(A), 80 Stat. 939.  </td>
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F884
 
 

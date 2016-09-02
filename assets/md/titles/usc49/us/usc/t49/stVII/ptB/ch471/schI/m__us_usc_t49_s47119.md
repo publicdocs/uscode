@@ -111,7 +111,7 @@
 
     The Secretary may distribute not more than $20,000,000 from the discretionary fund established under section 47115 for terminal development projects at a nonhub airport or a small hub airport that is eligible to receive discretionary funds under section 47108(e)(3).
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1274][/us/stat/108/1274]; [Pub. L. 103–305, title I, § 117][/us/pl/103/305/s117], Aug. 23, 1994, [108 Stat. 1579][/us/stat/108/1579]; [Pub. L. 103–429, § 6(69)][/us/pl/103/429/s6/69], Oct. 31, 1994, [108 Stat. 4387][/us/stat/108/4387]; [Pub. L. 106–181, title I, § 152(b)][/us/pl/106/181/s152/b], Apr. 5, 2000, [114 Stat. 87][/us/stat/114/87]; [Pub. L. 108–176, title I][/us/pl/108/176], §§ 149(d), 166, Dec. 12, 2003, [117 Stat. 2505][/us/stat/117/2505], 2514; [Pub. L. 112–95, title I, § 152(b)][/us/pl/112/95/s152/b], Feb. 14, 2012, [126 Stat. 33][/us/stat/126/33].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1274][/us/stat/108/1274]; [Pub. L. 103–305, title I][/us/pl/103/305/tI], § 117, Aug. 23, 1994, [108 Stat. 1579][/us/stat/108/1579]; [Pub. L. 103–429][/us/pl/103/429], § 6(69), Oct. 31, 1994, [108 Stat. 4387][/us/stat/108/4387]; [Pub. L. 106–181, title I][/us/pl/106/181/tI], § 152(b), Apr. 5, 2000, [114 Stat. 87][/us/stat/114/87]; [Pub. L. 108–176, title I][/us/pl/108/176/tI], §§ 149(d), 166, Dec. 12, 2003, [117 Stat. 2505][/us/stat/117/2505], 2514; [Pub. L. 112–95, title I][/us/pl/112/95/tI], § 152(b), Feb. 14, 2012, [126 Stat. 33][/us/stat/126/33].)
 
 <table>
 
@@ -253,35 +253,35 @@ Sept. 3, 1982, Pub. L. 97–248, § 513(b)(2), as amended May 26, 1994, Pub. L
 
  __References in Text__ 
 
-    Section 20(b) of the Airport and Airway Development Act of 1970, referred to in subsec. (c)(4), is [section 20(b) of Pub. L. 91–258][/us/pl/91/258/s20/b], which was classified to section 1720(b) of former Title 49, Transportation, prior to repeal by [Pub. L. 97–248, title V, § 523(a)][/us/pl/97/248/s523/a], Sept. 3, 1982, [96 Stat. 695][/us/stat/96/695].
+    Section 20(b) of the Airport and Airway Development Act of 1970, referred to in subsec. (c)(4), is [section 20(b) of Pub. L. 91–258][/us/pl/91/258/s20/b], which was classified to section 1720(b) of former Title 49, Transportation, prior to repeal by [Pub. L. 97–248, title V][/us/pl/97/248/tV], § 523(a), Sept. 3, 1982, [96 Stat. 695][/us/stat/96/695].
 
  __Amendments__ 
 
-    2012—Subsec. (a). [Pub. L. 112–95, § 152(b)(2)][/us/pl/112/95/s152/b/2], added subsec. (a). Former subsec. (a) redesignated (b).
+    2012—Subsec. (a). [Pub. L. 112–95][/us/pl/112/95], § 152(b)(2), added subsec. (a). Former subsec. (a) redesignated (b).
 
-    Subsec. (b). [Pub. L. 112–95, § 152(b)(1)][/us/pl/112/95/s152/b/1], redesignated subsec. (a) as (b). Former subsec. (b) redesignated (c).
+    Subsec. (b). [Pub. L. 112–95][/us/pl/112/95], § 152(b)(1), redesignated subsec. (a) as (b). Former subsec. (b) redesignated (c).
 
-    Subsec. (b)(3), (4)(A). [Pub. L. 112–95, § 152(b)(4)][/us/pl/112/95/s152/b/4], substituted “subsection (a)” for “section 47110(d)”.
+    Subsec. (b)(3), (4)(A). [Pub. L. 112–95][/us/pl/112/95], § 152(b)(4), substituted “subsection (a)” for “section 47110(d)”.
 
-    Subsec. (b)(4)(B). [Pub. L. 112–95, § 152(b)(3)][/us/pl/112/95/s152/b/3], substituted “Secretary” for “Secretary of Transportation”.
+    Subsec. (b)(4)(B). [Pub. L. 112–95][/us/pl/112/95], § 152(b)(3), substituted “Secretary” for “Secretary of Transportation”.
 
-    Subsec. (b)(5). [Pub. L. 112–95, § 152(b)(5)][/us/pl/112/95/s152/b/5], substituted “subsections (c)(1) and (c)(2)” for “subsection (b)(1) and (2)”.
+    Subsec. (b)(5). [Pub. L. 112–95][/us/pl/112/95], § 152(b)(5), substituted “subsections (c)(1) and (c)(2)” for “subsection (b)(1) and (2)”.
 
-    Subsec. (c). [Pub. L. 112–95, § 152(b)(1)][/us/pl/112/95/s152/b/1], redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
+    Subsec. (c). [Pub. L. 112–95][/us/pl/112/95], § 152(b)(1), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
 
-    Subsec. (c)(1), (2)(A). [Pub. L. 112–95, § 152(b)(6)][/us/pl/112/95/s152/b/6], substituted “subsection (a)” for “[section 47110(d) of this title][/us/usc/t49/s47110/d]”.
+    Subsec. (c)(1), (2)(A). [Pub. L. 112–95][/us/pl/112/95], § 152(b)(6), substituted “subsection (a)” for “[section 47110(d) of this title][/us/usc/t49/s47110/d]”.
 
-    Subsec. (c)(2)(B). [Pub. L. 112–95, § 152(b)(7)][/us/pl/112/95/s152/b/7], substituted “subsection (a)” for “section 47110(d)”.
+    Subsec. (c)(2)(B). [Pub. L. 112–95][/us/pl/112/95], § 152(b)(7), substituted “subsection (a)” for “section 47110(d)”.
 
-    Subsec. (c)(3), (4). [Pub. L. 112–95, § 152(b)(6)][/us/pl/112/95/s152/b/6], substituted “subsection (a)” for “[section 47110(d) of this title][/us/usc/t49/s47110/d]”.
+    Subsec. (c)(3), (4). [Pub. L. 112–95][/us/pl/112/95], § 152(b)(6), substituted “subsection (a)” for “[section 47110(d) of this title][/us/usc/t49/s47110/d]”.
 
-    Subsec. (c)(5). [Pub. L. 112–95, § 152(b)(7)][/us/pl/112/95/s152/b/7], substituted “subsection (a)” for “section 47110(d)”.
+    Subsec. (c)(5). [Pub. L. 112–95][/us/pl/112/95], § 152(b)(7), substituted “subsection (a)” for “section 47110(d)”.
 
-    Subsecs. (d), (e). [Pub. L. 112–95, § 152(b)(1)][/us/pl/112/95/s152/b/1], redesignated subsecs. (c) and (d) as (d) and (e), respectively.
+    Subsecs. (d), (e). [Pub. L. 112–95][/us/pl/112/95], § 152(b)(1), redesignated subsecs. (c) and (d) as (d) and (e), respectively.
 
-    Subsec. (f). [Pub. L. 112–95, § 152(b)(8)][/us/pl/112/95/s152/b/8], added subsec. (f).
+    Subsec. (f). [Pub. L. 112–95][/us/pl/112/95], § 152(b)(8), added subsec. (f).
 
-    2003—Subsec. (a). [Pub. L. 108–176, § 166][/us/pl/108/176/s166], amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “An amount apportioned under [section 47114 of this title][/us/usc/t49/s47114] and made available to the sponsor of an air carrier airport at which terminal development was carried out after June 30, 1970, and before July 12, 1976, or, in the case of a commercial service airport which annually had less than 0.05 percent of the total enplanements in the United States, between January 1, 1992, and October 31, 1992, is available to repay immediately money borrowed and used to pay the costs for terminal development at the airport, if those costs would be allowable project costs under [section 47110(d) of this title][/us/usc/t49/s47110/d] if they had been incurred after September 3, 1982. An amount is available for a grant under this subsection—
+    2003—Subsec. (a). [Pub. L. 108–176][/us/pl/108/176], § 166, amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “An amount apportioned under [section 47114 of this title][/us/usc/t49/s47114] and made available to the sponsor of an air carrier airport at which terminal development was carried out after June 30, 1970, and before July 12, 1976, or, in the case of a commercial service airport which annually had less than 0.05 percent of the total enplanements in the United States, between January 1, 1992, and October 31, 1992, is available to repay immediately money borrowed and used to pay the costs for terminal development at the airport, if those costs would be allowable project costs under [section 47110(d) of this title][/us/usc/t49/s47110/d] if they had been incurred after September 3, 1982. An amount is available for a grant under this subsection—
 
     “(1) only if—
 
@@ -293,19 +293,19 @@ Sept. 3, 1982, Pub. L. 97–248, § 513(b)(2), as amended May 26, 1994, Pub. L
 
     “(2) subject to the limitations in subsection (b)(1) and (2) of this section.”
 
-    Subsec. (b)(5). [Pub. L. 108–176, § 149(d)][/us/pl/108/176/s149/d], added par. (5).
+    Subsec. (b)(5). [Pub. L. 108–176][/us/pl/108/176], § 149(d), added par. (5).
 
     2000—Subsec. (d). [Pub. L. 106–181][/us/pl/106/181] added subsec. (d).
 
-    1994—Subsec. (a). [Pub. L. 103–305, § 117(1)][/us/pl/103/305/s117/1], inserted “or, in the case of a commercial service airport which annually had less than 0.05 percent of the total enplanements in the United States, between January 1, 1992, and October 31, 1992,” after “July 12, 1976,”.
+    1994—Subsec. (a). [Pub. L. 103–305][/us/pl/103/305], § 117(1), inserted “or, in the case of a commercial service airport which annually had less than 0.05 percent of the total enplanements in the United States, between January 1, 1992, and October 31, 1992,” after “July 12, 1976,”.
 
-    Subsec. (b)(2). [Pub. L. 103–429, § 6(69)(B)][/us/pl/103/429/s6/69/B], added par. (2) and struck out former par. (2) which read as follows: “to a sponsor of a nonprimary commercial service airport, not more than $200,000 of the amount that may be distributed for the fiscal year from the discretionary fund to pay project costs allowable under [section 47110(d) of this title][/us/usc/t49/s47110/d]; or”.
+    Subsec. (b)(2). [Pub. L. 103–429][/us/pl/103/429], § 6(69)(B), added par. (2) and struck out former par. (2) which read as follows: “to a sponsor of a nonprimary commercial service airport, not more than $200,000 of the amount that may be distributed for the fiscal year from the discretionary fund to pay project costs allowable under [section 47110(d) of this title][/us/usc/t49/s47110/d]; or”.
 
-    Subsec. (b)(3). [Pub. L. 103–429, § 6(69)(B)][/us/pl/103/429/s6/69/B], added par. (3). Former par. (3) redesignated (4).
+    Subsec. (b)(3). [Pub. L. 103–429][/us/pl/103/429], § 6(69)(B), added par. (3). Former par. (3) redesignated (4).
 
-    Subsec. (b)(4). [Pub. L. 103–429, § 6(69)(A)][/us/pl/103/429/s6/69/A], redesignated par. (3) as (4).
+    Subsec. (b)(4). [Pub. L. 103–429][/us/pl/103/429], § 6(69)(A), redesignated par. (3) as (4).
 
-    Subsec. (c). [Pub. L. 103–305, § 117(2)][/us/pl/103/305/s117/2], added subsec. (c).
+    Subsec. (c). [Pub. L. 103–305][/us/pl/103/305], § 117(2), added subsec. (c).
 
  __Effective Date of 2003 Amendment__ 
 
@@ -324,48 +324,48 @@ Sept. 3, 1982, Pub. L. 97–248, § 513(b)(2), as amended May 26, 1994, Pub. L
 
 [/us/usc/t49/s47114/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs47114%2Fc%2F1
 [/us/usc/t49/s47115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs47115
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1274
-[/us/pl/103/305/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2Fs117
+[/us/pl/103/305/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2FtI
 [/us/stat/108/1579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1579
-[/us/pl/103/429/s6/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F69
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/stat/108/4387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4387
-[/us/pl/106/181/s152/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs152%2Fb
+[/us/pl/106/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtI
 [/us/stat/114/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F87
-[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
+[/us/pl/108/176/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtI
 [/us/stat/117/2505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2505
-[/us/pl/112/95/s152/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs152%2Fb
+[/us/pl/112/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtI
 [/us/stat/126/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F33
 [/us/usc/t49/s47110/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs47110%2Fd
 [/us/pl/91/258/s20/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F258%2Fs20%2Fb
-[/us/pl/97/248/s523/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs523%2Fa
+[/us/pl/97/248/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtV
 [/us/stat/96/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F695
-[/us/pl/112/95/s152/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs152%2Fb%2F2
-[/us/pl/112/95/s152/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs152%2Fb%2F1
-[/us/pl/112/95/s152/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs152%2Fb%2F4
-[/us/pl/112/95/s152/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs152%2Fb%2F3
-[/us/pl/112/95/s152/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs152%2Fb%2F5
-[/us/pl/112/95/s152/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs152%2Fb%2F1
-[/us/pl/112/95/s152/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs152%2Fb%2F6
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
 [/us/usc/t49/s47110/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs47110%2Fd
-[/us/pl/112/95/s152/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs152%2Fb%2F7
-[/us/pl/112/95/s152/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs152%2Fb%2F6
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
 [/us/usc/t49/s47110/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs47110%2Fd
-[/us/pl/112/95/s152/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs152%2Fb%2F7
-[/us/pl/112/95/s152/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs152%2Fb%2F1
-[/us/pl/112/95/s152/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs152%2Fb%2F8
-[/us/pl/108/176/s166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs166
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
 [/us/usc/t49/s47114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs47114
 [/us/usc/t49/s47110/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs47110%2Fd
 [/us/usc/t49/s47110/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs47110%2Fd
-[/us/pl/108/176/s149/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs149%2Fd
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
 [/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
-[/us/pl/103/305/s117/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2Fs117%2F1
-[/us/pl/103/429/s6/69/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F69%2FB
+[/us/pl/103/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/usc/t49/s47110/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs47110%2Fd
-[/us/pl/103/429/s6/69/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F69%2FB
-[/us/pl/103/429/s6/69/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F69%2FA
-[/us/pl/103/305/s117/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2Fs117%2F2
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
+[/us/pl/103/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305
 [/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
 [/us/pl/108/176/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106

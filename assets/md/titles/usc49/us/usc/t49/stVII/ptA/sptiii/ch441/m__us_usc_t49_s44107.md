@@ -87,7 +87,7 @@
 
         A registration with the International Registry relating to an aircraft described in paragraph (1) (other than subparagraph (C)) is valid only if (A) the person seeking the registration first files documents eligible for recording under subsection (a) and relating to the registration with the United States Entry Point, and (B) the United States Entry Point authorizes the registration.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1164][/us/stat/108/1164]; [Pub. L. 108–297, § 3][/us/pl/108/297/s3], Aug. 9, 2004, [118 Stat. 1096][/us/stat/118/1096].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1164][/us/stat/108/1164]; [Pub. L. 108–297][/us/pl/108/297], § 3, Aug. 9, 2004, [118 Stat. 1096][/us/stat/118/1096].)
 
 <table>
 
@@ -329,11 +329,11 @@ Aug. 23, 1958, Pub. L. 85–726, § 503(f), 72 Stat. 773; July 8, 1959, Pub. L
 
  __Amendments__ 
 
-    2004—Subsec. (a)(2)(A). [Pub. L. 108–297, § 3(a)(1)][/us/pl/108/297/s3/a/1], substituted “550” for “750”.
+    2004—Subsec. (a)(2)(A). [Pub. L. 108–297][/us/pl/108/297], § 3(a)(1), substituted “550” for “750”.
 
-    Subsec. (a)(3). [Pub. L. 108–297, § 3(a)(2)][/us/pl/108/297/s3/a/2], substituted “paragraph (1) or (2)” for “clause (1) or (2) of this subsection”.
+    Subsec. (a)(3). [Pub. L. 108–297][/us/pl/108/297], § 3(a)(2), substituted “paragraph (1) or (2)” for “clause (1) or (2) of this subsection”.
 
-    Subsec. (e). [Pub. L. 108–297, § 3(b)][/us/pl/108/297/s3/b], added subsec. (e).
+    Subsec. (e). [Pub. L. 108–297][/us/pl/108/297], § 3(b), added subsec. (e).
 
  __Effective Date of 2004 Amendment__ 
 
@@ -348,13 +348,13 @@ Aug. 23, 1958, Pub. L. 85–726, § 503(f), 72 Stat. 773; July 8, 1959, Pub. L
 
 [/us/usc/t49/s44705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44705
 [/us/usc/t49/s44705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44705
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1164
-[/us/pl/108/297/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F297%2Fs3
+[/us/pl/108/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F297
 [/us/stat/118/1096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1096
-[/us/pl/108/297/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F297%2Fs3%2Fa%2F1
-[/us/pl/108/297/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F297%2Fs3%2Fa%2F2
-[/us/pl/108/297/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F297%2Fs3%2Fb
+[/us/pl/108/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F297
+[/us/pl/108/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F297
+[/us/pl/108/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F297
 [/us/pl/108/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F297
 [/us/pl/108/297/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F297%2Fs7
 [/us/usc/t49/s44101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44101

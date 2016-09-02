@@ -67,7 +67,7 @@
 
     (11) “United States” means the States of the United States and the District of Columbia.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1000][/us/stat/108/1000]; [Pub. L. 104–88, title I, § 104(f)][/us/pl/104/88/s104/f], Dec. 29, 1995, [109 Stat. 919][/us/stat/109/919]; [Pub. L. 105–178, title IV, § 4008(a)][/us/pl/105/178/s4008/a], June 9, 1998, [112 Stat. 404][/us/stat/112/404]; [Pub. L. 109–59, title IV, § 4116(c)][/us/pl/109/59/s4116/c], Aug. 10, 2005, [119 Stat. 1728][/us/stat/119/1728].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1000][/us/stat/108/1000]; [Pub. L. 104–88, title I][/us/pl/104/88/tI], § 104(f), Dec. 29, 1995, [109 Stat. 919][/us/stat/109/919]; [Pub. L. 105–178, title IV][/us/pl/105/178/tIV], § 4008(a), June 9, 1998, [112 Stat. 404][/us/stat/112/404]; [Pub. L. 109–59, title IV][/us/pl/109/59/tIV], § 4116(c), Aug. 10, 2005, [119 Stat. 1728][/us/stat/119/1728].)
 
 <table>
 
@@ -119,15 +119,15 @@ Oct. 30, 1984, Pub. L. 98–554, § 204, 98 Stat. 2833.  </td>
 
  __References in Text__ 
 
-    [Section 31140 of this title][/us/usc/t49/s31140], referred to in par. (8), was repealed by [Pub. L. 105–178, title IV, § 4008(d)][/us/pl/105/178/s4008/d], June 9, 1998, [112 Stat. 404][/us/stat/112/404].
+    [Section 31140 of this title][/us/usc/t49/s31140], referred to in par. (8), was repealed by [Pub. L. 105–178, title IV][/us/pl/105/178/tIV], § 4008(d), June 9, 1998, [112 Stat. 404][/us/stat/112/404].
 
  __Amendments__ 
 
     2005—Pars. (6) to (11). [Pub. L. 109–59][/us/pl/109/59] added par. (6) and redesignated former pars. (6) to (10) as (7) to (11), respectively.
 
-    1998—Par. (1)(A). [Pub. L. 105–178, § 4008(a)(1)][/us/pl/105/178/s4008/a/1], inserted “or gross vehicle weight” after “rating” and “, whichever is greater” after “pounds”.
+    1998—Par. (1)(A). [Pub. L. 105–178][/us/pl/105/178], § 4008(a)(1), inserted “or gross vehicle weight” after “rating” and “, whichever is greater” after “pounds”.
 
-    Par. (1)(B). [Pub. L. 105–178, § 4008(a)(2)][/us/pl/105/178/s4008/a/2], which directed substitution of “more than 8 passengers (including the driver) for compensation;” for “passengers” and all that follows through semicolon at end, was executed by making the substitution for “passengers for compensation, but excluding vehicles providing taxicab service and having a capacity of not more than 6 passengers and not operated on a regular route or between specified places;” to reflect the probable intent of Congress.
+    Par. (1)(B). [Pub. L. 105–178][/us/pl/105/178], § 4008(a)(2), which directed substitution of “more than 8 passengers (including the driver) for compensation;” for “passengers” and all that follows through semicolon at end, was executed by making the substitution for “passengers for compensation, but excluding vehicles providing taxicab service and having a capacity of not more than 6 passengers and not operated on a regular route or between specified places;” to reflect the probable intent of Congress.
 
     1995—Par. (1)(B) to (D). [Pub. L. 104–88][/us/pl/104/88] added subpars. (B) and (C), redesignated former subpar. (C) as (D), and struck out former subpar. (B) which read as follows: “is designed to transport more than 15 passengers including the driver; or”.
 
@@ -143,20 +143,20 @@ Oct. 30, 1984, Pub. L. 98–554, § 204, 98 Stat. 2833.  </td>
 ----------
 
 [/us/usc/t49/s5103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5103
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1000
-[/us/pl/104/88/s104/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs104%2Ff
+[/us/pl/104/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtI
 [/us/stat/109/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F919
-[/us/pl/105/178/s4008/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4008%2Fa
+[/us/pl/105/178/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtIV
 [/us/stat/112/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F404
-[/us/pl/109/59/s4116/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4116%2Fc
+[/us/pl/109/59/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIV
 [/us/stat/119/1728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1728
 [/us/usc/t49/s31140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31140
-[/us/pl/105/178/s4008/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4008%2Fd
+[/us/pl/105/178/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtIV
 [/us/stat/112/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F404
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
-[/us/pl/105/178/s4008/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4008%2Fa%2F1
-[/us/pl/105/178/s4008/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4008%2Fa%2F2
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/104/88/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs2

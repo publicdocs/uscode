@@ -123,7 +123,7 @@
 
  __Amendments__ 
 
-    2012—[Pub. L. 112–95, title I, § 150][/us/pl/112/95/s150], Feb. 14, 2012, [126 Stat. 32][/us/stat/126/32], struck out item 49108 “Limitations”.
+    2012—[Pub. L. 112–95, title I][/us/pl/112/95/tI], § 150, Feb. 14, 2012, [126 Stat. 32][/us/stat/126/32], struck out item 49108 “Limitations”.
 
 ----------
 
@@ -132,7 +132,7 @@
 ----------
 ----------
 
-[/us/pl/112/95/s150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs150
+[/us/pl/112/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtI
 [/us/stat/126/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F32
 
 

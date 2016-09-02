@@ -17,7 +17,7 @@
 
     Not later than 18 months after the date of enactment of the Rail Safety Improvement Act of 2008, the Secretary of Transportation, after consultation with the Federal Railroad Administration, the Federal Highway Administration, and States, shall develop and make available to States model legislation providing for improving safety by addressing sight obstructions, including vegetation growth, topographic features, structures, and standing railroad equipment, at highway-rail grade crossings that are equipped solely with passive warnings, as recommended by the Inspector General of the Department of Transportation in Report No. MH–2007–044.
 
-(Added [Pub. L. 110–432, div. A, title II, § 203(a)][/us/pl/110/432/s203/a], Oct. 16, 2008, [122 Stat. 4869][/us/stat/122/4869]; amended [Pub. L. 114–94, div. A, title XI, § 11316(f)][/us/pl/114/94/s11316/f], Dec. 4, 2015, [129 Stat. 1676][/us/stat/129/1676].)
+(Added [Pub. L. 110–432, div. A, title II][/us/pl/110/432/dA/tII], § 203(a), Oct. 16, 2008, [122 Stat. 4869][/us/stat/122/4869]; amended [Pub. L. 114–94, div. A, title XI][/us/pl/114/94/dA/tXI], § 11316(f), Dec. 4, 2015, [129 Stat. 1676][/us/stat/129/1676].)
 
  __References in Text__ 
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/pl/110/432/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs203%2Fa
+[/us/pl/110/432/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdA%2FtII
 [/us/stat/122/4869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4869
-[/us/pl/114/94/s11316/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11316%2Ff
+[/us/pl/114/94/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtXI
 [/us/stat/129/1676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1676
 [/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94

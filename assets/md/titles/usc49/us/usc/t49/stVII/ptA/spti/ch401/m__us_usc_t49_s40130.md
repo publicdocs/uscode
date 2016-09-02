@@ -41,7 +41,7 @@
 
     The Administrator shall designate, by order, employees of the Administration who may carry out the authority described in subsection (a).
 
-(Added [Pub. L. 112–95, title VIII, § 802(a)][/us/pl/112/95/s802/a], Feb. 14, 2012, [126 Stat. 118][/us/stat/126/118].)
+(Added [Pub. L. 112–95, title VIII][/us/pl/112/95/tVIII], § 802(a), Feb. 14, 2012, [126 Stat. 118][/us/stat/126/118].)
 
 ----------
 
@@ -51,7 +51,7 @@
 ----------
 
 [/us/usc/t42/s14616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14616
-[/us/pl/112/95/s802/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs802%2Fa
+[/us/pl/112/95/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtVIII
 [/us/stat/126/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F118
 
 

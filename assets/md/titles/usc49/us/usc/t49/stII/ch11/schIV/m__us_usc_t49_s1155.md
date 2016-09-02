@@ -31,7 +31,7 @@
 
     A person that knowingly and without authority removes, conceals, or withholds a part of a civil aircraft involved in an accident, or property on the aircraft at the time of the accident, shall be fined under title 18, imprisoned for not more than 10 years, or both.
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 758][/us/stat/108/758]; [Pub. L. 104–264, title VII, § 702(b)][/us/pl/104/264/s702/b], Oct. 9, 1996, [110 Stat. 3267][/us/stat/110/3267].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(d), July 5, 1994, [108 Stat. 758][/us/stat/108/758]; [Pub. L. 104–264, title VII][/us/pl/104/264/tVII], § 702(b), Oct. 9, 1996, [110 Stat. 3267][/us/stat/110/3267].)
 
 <table>
 
@@ -245,7 +245,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 902(p); added Oct. 15, 1962,
 
  __Prior Provisions__ 
 
-    Prior chapter 31 (§§ 3101–3104) of subtitle II redesignated and restated as chapter 315 (§§ 31501–31504) of subtitle VI of this title by [Pub. L. 103–272, § 1(c)][/us/pl/103/272/s1/c], (e).
+    Prior chapter 31 (§§ 3101–3104) of subtitle II redesignated and restated as chapter 315 (§§ 31501–31504) of subtitle VI of this title by [Pub. L. 103–272][/us/pl/103/272], § 1(c), (e).
 
  __Amendments__ 
 
@@ -262,11 +262,11 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 902(p); added Oct. 15, 1962,
 ----------
 ----------
 
-[/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F758
-[/us/pl/104/264/s702/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs702%2Fb
+[/us/pl/104/264/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2FtVII
 [/us/stat/110/3267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3267
-[/us/pl/103/272/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fc
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
 [/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
 [/us/pl/104/264/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs3

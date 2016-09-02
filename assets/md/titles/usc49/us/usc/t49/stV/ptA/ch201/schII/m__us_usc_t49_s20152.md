@@ -51,7 +51,7 @@
 
     The Secretary may waive the requirement that the telephone service be toll-free for Class II and Class III rail carriers if the Secretary determines that toll-free service would be cost prohibitive or unnecessary.
 
-(Added [Pub. L. 103–440, title III, § 301(a)][/us/pl/103/440/s301/a], Nov. 2, 1994, [108 Stat. 4626][/us/stat/108/4626]; amended [Pub. L. 104–287, § 5(50)][/us/pl/104/287/s5/50], Oct. 11, 1996, [110 Stat. 3393][/us/stat/110/3393]; [Pub. L. 110–432, div. A, title II, § 205(a)][/us/pl/110/432/s205/a], Oct. 16, 2008, [122 Stat. 4872][/us/stat/122/4872].)
+(Added [Pub. L. 103–440, title III][/us/pl/103/440/tIII], § 301(a), Nov. 2, 1994, [108 Stat. 4626][/us/stat/108/4626]; amended [Pub. L. 104–287][/us/pl/104/287], § 5(50), Oct. 11, 1996, [110 Stat. 3393][/us/stat/110/3393]; [Pub. L. 110–432, div. A, title II][/us/pl/110/432/dA/tII], § 205(a), Oct. 16, 2008, [122 Stat. 4872][/us/stat/122/4872].)
 
  __References in Text__ 
 
@@ -70,11 +70,11 @@
 ----------
 ----------
 
-[/us/pl/103/440/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F440%2Fs301%2Fa
+[/us/pl/103/440/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F440%2FtIII
 [/us/stat/108/4626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4626
-[/us/pl/104/287/s5/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F50
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3393
-[/us/pl/110/432/s205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs205%2Fa
+[/us/pl/110/432/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdA%2FtII
 [/us/stat/122/4872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4872
 [/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
 [/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432

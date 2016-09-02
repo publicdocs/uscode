@@ -39,7 +39,7 @@
 
         (3) a person participating with the carrier in a violation may be joined in the civil action without regard to the residence of the person.
 
-([Pub. L. 97–449, § 1(b)][/us/pl/97/449/s1/b], Jan. 12, 1983, [96 Stat. 2435][/us/stat/96/2435]; [Pub. L. 98–554, title II, § 213(a)][/us/pl/98/554/s213/a], Oct. 30, 1984, [98 Stat. 2841][/us/stat/98/2841]; [Pub. L. 103–272, § 5(m)(10)][/us/pl/103/272/s5/m/10], July 5, 1994, [108 Stat. 1376][/us/stat/108/1376].)
+([Pub. L. 97–449][/us/pl/97/449], § 1(b), Jan. 12, 1983, [96 Stat. 2435][/us/stat/96/2435]; [Pub. L. 98–554, title II][/us/pl/98/554/tII], § 213(a), Oct. 30, 1984, [98 Stat. 2841][/us/stat/98/2841]; [Pub. L. 103–272][/us/pl/103/272], § 5(m)(10), July 5, 1994, [108 Stat. 1376][/us/stat/108/1376].)
 
 <table>
 
@@ -319,7 +319,7 @@ Revised Section  </td>
 
  __DOT Implementation Plan__ 
 
-[Pub. L. 105–178, title IV, § 4026][/us/pl/105/178/s4026], June 9, 1998, [112 Stat. 416][/us/stat/112/416], provided that:
+[Pub. L. 105–178, title IV][/us/pl/105/178/tIV], § 4026, June 9, 1998, [112 Stat. 416][/us/stat/112/416], provided that:
 
 >     “(a)  __Assessment__  __.—__ 
 
@@ -353,17 +353,17 @@ Revised Section  </td>
 ----------
 
 [/us/usc/t49/s31502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31502
-[/us/pl/97/449/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449%2Fs1%2Fb
+[/us/pl/97/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449
 [/us/stat/96/2435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2435
-[/us/pl/98/554/s213/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F554%2Fs213%2Fa
+[/us/pl/98/554/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F554%2FtII
 [/us/stat/98/2841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2841
-[/us/pl/103/272/s5/m/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs5%2Fm%2F10
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1376
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/usc/t49/s31502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31502
 [/us/usc/t49/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs3102
 [/us/pl/98/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F554
-[/us/pl/105/178/s4026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4026
+[/us/pl/105/178/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtIV
 [/us/stat/112/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F416
 
 

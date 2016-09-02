@@ -27,7 +27,7 @@
 
     This section is effective only after Amtrak or a rail carrier seeking an indemnification contract under this section makes an operating agreement with a publicly financed commuter transportation authority established under Virginia law to provide access to its property for revenue transportation related to the operations of the authority.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 940][/us/stat/108/940], § 26102; renumbered § 28102, [Pub. L. 103–440, title I, § 103(a)(1)][/us/pl/103/440/s103/a/1], Nov. 2, 1994, [108 Stat. 4616][/us/stat/108/4616].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 940][/us/stat/108/940], § 26102; renumbered § 28102, [Pub. L. 103–440, title I][/us/pl/103/440/tI], § 103(a)(1), Nov. 2, 1994, [108 Stat. 4616][/us/stat/108/4616].)
 
 <table>
 
@@ -118,9 +118,9 @@ Oct. 30, 1970, Pub. L. 91–518, 84 Stat. 1327, § 810; added July 6, 1990, Pu
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/940]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F940
-[/us/pl/103/440/s103/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F440%2Fs103%2Fa%2F1
+[/us/pl/103/440/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F440%2FtI
 [/us/stat/108/4616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4616
 [/us/pl/103/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F440
 [/us/usc/t49/s26102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs26102

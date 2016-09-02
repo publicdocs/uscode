@@ -27,7 +27,7 @@
 
     The Secretary may issue standards prescribing the elements of an effective public education program. The Secretary may also develop material for use in the program.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1321][/us/stat/108/1321]; [Pub. L. 104–304, § 11][/us/pl/104/304/s11], Oct. 12, 1996, [110 Stat. 3802][/us/stat/110/3802]; [Pub. L. 107–355, § 5][/us/pl/107/355/s5], Dec. 17, 2002, [116 Stat. 2988][/us/stat/116/2988].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1321][/us/stat/108/1321]; [Pub. L. 104–304][/us/pl/104/304], § 11, Oct. 12, 1996, [110 Stat. 3802][/us/stat/110/3802]; [Pub. L. 107–355][/us/pl/107/355], § 5, Dec. 17, 2002, [116 Stat. 2988][/us/stat/116/2988].)
 
 <table>
 
@@ -92,11 +92,11 @@ Aug. 12, 1968, Pub. L. 90–481, 82 Stat. 720, § 18(a); added Oct. 11, 1976, 
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1321
-[/us/pl/104/304/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304%2Fs11
+[/us/pl/104/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304
 [/us/stat/110/3802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3802
-[/us/pl/107/355/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355%2Fs5
+[/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355
 [/us/stat/116/2988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2988
 [/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355
 [/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355

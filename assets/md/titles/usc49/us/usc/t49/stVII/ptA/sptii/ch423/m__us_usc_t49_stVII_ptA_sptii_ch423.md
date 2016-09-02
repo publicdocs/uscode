@@ -51,7 +51,7 @@
 
  __Establishment of Advisory Committee for Aviation Consumer Protection__ 
 
-[Pub. L. 112–95, title IV, § 411][/us/pl/112/95/s411], Feb. 14, 2012, [126 Stat. 88][/us/stat/126/88], as amended by [Pub. L. 114–55, title I, § 102(i)][/us/pl/114/55/s102/i], Sept. 30, 2015, [129 Stat. 523][/us/stat/129/523], provided that:
+[Pub. L. 112–95, title IV][/us/pl/112/95/tIV], § 411, Feb. 14, 2012, [126 Stat. 88][/us/stat/126/88], as amended by [Pub. L. 114–55, title I][/us/pl/114/55/tI], § 102(i), Sept. 30, 2015, [129 Stat. 523][/us/stat/129/523], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -103,7 +103,7 @@
 
  __Disclosure of Seat Dimensions To Facilitate the Use of Child Safety Seats on Aircraft__ 
 
-[Pub. L. 112–95, title IV, § 412][/us/pl/112/95/s412], Feb. 14, 2012, [126 Stat. 89][/us/stat/126/89], provided that: 
+[Pub. L. 112–95, title IV][/us/pl/112/95/tIV], § 412, Feb. 14, 2012, [126 Stat. 89][/us/stat/126/89], provided that: 
 
 > “Not later than 1 year after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator of the Federal Aviation Administration shall initiate a rulemaking to require each air carrier operating under part 121 of title 14, Code of Federal Regulations, to post on the Internet Web site of the air carrier the maximum dimensions of a child safety seat that can be used on each aircraft operated by the air carrier to enable passengers to determine which child safety seats can be used on those aircraft.”
 
@@ -114,11 +114,11 @@
 ----------
 ----------
 
-[/us/pl/112/95/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs411
+[/us/pl/112/95/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtIV
 [/us/stat/126/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F88
-[/us/pl/114/55/s102/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F55%2Fs102%2Fi
+[/us/pl/114/55/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F55%2FtI
 [/us/stat/129/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F523
-[/us/pl/112/95/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs412
+[/us/pl/112/95/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtIV
 [/us/stat/126/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F89
 
 

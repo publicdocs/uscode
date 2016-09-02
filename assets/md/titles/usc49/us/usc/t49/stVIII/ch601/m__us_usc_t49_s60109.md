@@ -209,7 +209,7 @@
 
         (2) to the best of such officer’s knowledge and belief, the report is true and complete.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1315][/us/stat/108/1315]; [Pub. L. 103–429, § 6(75)][/us/pl/103/429/s6/75], Oct. 31, 1994, [108 Stat. 4388][/us/stat/108/4388]; [Pub. L. 104–304][/us/pl/104/304], §§ 7, 20(i), Oct. 12, 1996, [110 Stat. 3800][/us/stat/110/3800], 3805; [Pub. L. 107–355, § 14(a)][/us/pl/107/355/s14/a], (b), Dec. 17, 2002, [116 Stat. 3002][/us/stat/116/3002], 3005; [Pub. L. 109–468][/us/pl/109/468], §§ 9, 14, 16, Dec. 29, 2006, [120 Stat. 3493][/us/stat/120/3493], 3496; [Pub. L. 112–90][/us/pl/112/90], §§ 5(e), 22, Jan. 3, 2012, [125 Stat. 1908][/us/stat/125/1908], 1917.)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1315][/us/stat/108/1315]; [Pub. L. 103–429][/us/pl/103/429], § 6(75), Oct. 31, 1994, [108 Stat. 4388][/us/stat/108/4388]; [Pub. L. 104–304][/us/pl/104/304], §§ 7, 20(i), Oct. 12, 1996, [110 Stat. 3800][/us/stat/110/3800], 3805; [Pub. L. 107–355][/us/pl/107/355], § 14(a), (b), Dec. 17, 2002, [116 Stat. 3002][/us/stat/116/3002], 3005; [Pub. L. 109–468][/us/pl/109/468], §§ 9, 14, 16, Dec. 29, 2006, [120 Stat. 3493][/us/stat/120/3493], 3496; [Pub. L. 112–90][/us/pl/112/90], §§ 5(e), 22, Jan. 3, 2012, [125 Stat. 1908][/us/stat/125/1908], 1917.)
 
 <table>
 
@@ -339,25 +339,25 @@ Nov. 30, 1979, Pub. L. 96–129, 93 Stat. 989, § 203(m); added Oct. 24, 1992,
 
  __Amendments__ 
 
-    2012—Subsec. (c)(3)(B). [Pub. L. 112–90, § 5(e)][/us/pl/112/90/s5/e], amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “Subject to paragraph (5), periodic reassessment of the facility, at a minimum of once every 7 years, using methods described in subparagraph (A).”
+    2012—Subsec. (c)(3)(B). [Pub. L. 112–90][/us/pl/112/90], § 5(e), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “Subject to paragraph (5), periodic reassessment of the facility, at a minimum of once every 7 years, using methods described in subparagraph (A).”
 
-    Subsec. (e)(3)(B), (C). [Pub. L. 112–90, § 22][/us/pl/112/90/s22], added subpar. (B) and redesignated former subpar. (B) as (C).
+    Subsec. (e)(3)(B), (C). [Pub. L. 112–90][/us/pl/112/90], § 22, added subpar. (B) and redesignated former subpar. (B) as (C).
 
-    2006—Subsec. (c)(9)(A)(iii). [Pub. L. 109–468, § 14][/us/pl/109/468/s14], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “If the Secretary determines that a risk analysis or integrity management program does not comply with the requirements of this subsection or regulations issued as described in paragraph (2), or is inadequate for the safe operation of a pipeline facility, the Secretary shall act under section 60108(a)(2) to require the operator to revise the risk analysis or integrity management program.”
+    2006—Subsec. (c)(9)(A)(iii). [Pub. L. 109–468][/us/pl/109/468], § 14, reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “If the Secretary determines that a risk analysis or integrity management program does not comply with the requirements of this subsection or regulations issued as described in paragraph (2), or is inadequate for the safe operation of a pipeline facility, the Secretary shall act under section 60108(a)(2) to require the operator to revise the risk analysis or integrity management program.”
 
-    Subsec. (e). [Pub. L. 109–468, § 9][/us/pl/109/468/s9], added subsec. (e).
+    Subsec. (e). [Pub. L. 109–468][/us/pl/109/468], § 9, added subsec. (e).
 
-    Subsec. (f). [Pub. L. 109–468, § 16][/us/pl/109/468/s16], added subsec. (f).
+    Subsec. (f). [Pub. L. 109–468][/us/pl/109/468], § 16, added subsec. (f).
 
-    2002—Subsec. (c). [Pub. L. 107–355, § 14(a)][/us/pl/107/355/s14/a], added subsec. (c).
+    2002—Subsec. (c). [Pub. L. 107–355][/us/pl/107/355], § 14(a), added subsec. (c).
 
-    Subsec. (d). [Pub. L. 107–355, § 14(b)][/us/pl/107/355/s14/b], added subsec. (d).
+    Subsec. (d). [Pub. L. 107–355][/us/pl/107/355], § 14(b), added subsec. (d).
 
-    1996—Subsec. (a). [Pub. L. 104–304, § 20(i)][/us/pl/104/304/s20/i], substituted “standards” for “regulations” in introductory provisions.
+    1996—Subsec. (a). [Pub. L. 104–304][/us/pl/104/304], § 20(i), substituted “standards” for “regulations” in introductory provisions.
 
-    Subsec. (a)(1)(B)(i). [Pub. L. 104–304, § 7(a)][/us/pl/104/304/s7/a], substituted “waters where a substantial likelihood of commercial navigation exists” for “a navigable waterway (as the Secretary defines by regulation)”.
+    Subsec. (a)(1)(B)(i). [Pub. L. 104–304][/us/pl/104/304], § 7(a), substituted “waters where a substantial likelihood of commercial navigation exists” for “a navigable waterway (as the Secretary defines by regulation)”.
 
-    Subsec. (b). [Pub. L. 104–304, § 7(b)][/us/pl/104/304/s7/b], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “When describing an area that is unusually sensitive to environmental damage if there is a hazardous liquid pipeline accident, the Secretary shall consider including—
+    Subsec. (b). [Pub. L. 104–304][/us/pl/104/304], § 7(b), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “When describing an area that is unusually sensitive to environmental damage if there is a hazardous liquid pipeline accident, the Secretary shall consider including—
 
     “(1) earthquake zones and areas subject to landslides and other substantial ground movements;
 
@@ -375,7 +375,7 @@ Nov. 30, 1979, Pub. L. 96–129, 93 Stat. 989, § 203(m); added Oct. 24, 1992,
 
  __Integrity Management__ 
 
-[Pub. L. 112–90, § 5][/us/pl/112/90/s5], Jan. 3, 2012, [125 Stat. 1907][/us/stat/125/1907], provided that:
+[Pub. L. 112–90][/us/pl/112/90], § 5, Jan. 3, 2012, [125 Stat. 1907][/us/stat/125/1907], provided that:
 
 >     “(a)  __Evaluation__  __.—__ 
 
@@ -473,7 +473,7 @@ Nov. 30, 1979, Pub. L. 96–129, 93 Stat. 989, § 203(m); added Oct. 24, 1992,
 
  __Seismicity__ 
 
-[Pub. L. 112–90, § 29][/us/pl/112/90/s29], Jan. 3, 2012, [125 Stat. 1921][/us/stat/125/1921], provided that: 
+[Pub. L. 112–90][/us/pl/112/90], § 29, Jan. 3, 2012, [125 Stat. 1921][/us/stat/125/1921], provided that: 
 
 > “In identifying and evaluating all potential threats to each pipeline segment pursuant to parts 192 and 195 of title 49, Code of Federal Regulations, an operator of a pipeline facility shall consider the seismicity of the area.”
 
@@ -481,7 +481,7 @@ Nov. 30, 1979, Pub. L. 96–129, 93 Stat. 989, § 203(m); added Oct. 24, 1992,
 
  __Study of Reassessment Intervals__ 
 
-    [Pub. L. 107–355, § 14(d)][/us/pl/107/355/s14/d], Dec. 17, 2002, [116 Stat. 3005][/us/stat/116/3005], required the Comptroller General to study the 7-year reassessment interval required by [section 60109(c)(3)(B) of title 49][/us/usc/t49/s60109/c/3/B] and to transmit to Congress a report on the study not later than 4 years after Dec. 17, 2002.
+    [Pub. L. 107–355][/us/pl/107/355], § 14(d), Dec. 17, 2002, [116 Stat. 3005][/us/stat/116/3005], required the Comptroller General to study the 7-year reassessment interval required by [section 60109(c)(3)(B) of title 49][/us/usc/t49/s60109/c/3/B] and to transmit to Congress a report on the study not later than 4 years after Dec. 17, 2002.
 
 ----------
 
@@ -493,13 +493,13 @@ Nov. 30, 1979, Pub. L. 96–129, 93 Stat. 989, § 203(m); added Oct. 24, 1992,
 [/us/usc/t49/s60102/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs60102%2Fe
 [/us/usc/t49/s60110/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs60110%2Fe
 [/us/usc/t15/s7001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7001
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1315
-[/us/pl/103/429/s6/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F75
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/stat/108/4388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4388
 [/us/pl/104/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304
 [/us/stat/110/3800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3800
-[/us/pl/107/355/s14/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355%2Fs14%2Fa
+[/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355
 [/us/stat/116/3002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3002
 [/us/pl/109/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F468
 [/us/stat/120/3493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3493
@@ -514,21 +514,21 @@ Nov. 30, 1979, Pub. L. 96–129, 93 Stat. 989, § 203(m); added Oct. 24, 1992,
 [/us/pl/106/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F229
 [/us/stat/114/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F464
 [/us/usc/t15/s7001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7001
-[/us/pl/112/90/s5/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90%2Fs5%2Fe
-[/us/pl/112/90/s22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90%2Fs22
-[/us/pl/109/468/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F468%2Fs14
-[/us/pl/109/468/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F468%2Fs9
-[/us/pl/109/468/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F468%2Fs16
-[/us/pl/107/355/s14/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355%2Fs14%2Fa
-[/us/pl/107/355/s14/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355%2Fs14%2Fb
-[/us/pl/104/304/s20/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304%2Fs20%2Fi
-[/us/pl/104/304/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304%2Fs7%2Fa
-[/us/pl/104/304/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304%2Fs7%2Fb
+[/us/pl/112/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90
+[/us/pl/112/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90
+[/us/pl/109/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F468
+[/us/pl/109/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F468
+[/us/pl/109/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F468
+[/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355
+[/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355
+[/us/pl/104/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304
+[/us/pl/104/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304
+[/us/pl/104/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/pl/103/429/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs9
 [/us/usc/t49/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs321
-[/us/pl/112/90/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90%2Fs5
+[/us/pl/112/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90
 [/us/stat/125/1907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1907
 [/us/usc/t49/s60109/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs60109%2Fc%2F2
 [/us/usc/t49/s60109/c/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs60109%2Fc%2F3%2FB
@@ -539,12 +539,12 @@ Nov. 30, 1979, Pub. L. 96–129, 93 Stat. 989, § 203(m); added Oct. 24, 1992,
 [/us/pl/112/90/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90%2Fs5
 [/us/pl/112/90/s1/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90%2Fs1%2Fc%2F2
 [/us/usc/t49/s60101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs60101
-[/us/pl/112/90/s29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90%2Fs29
+[/us/pl/112/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90
 [/us/stat/125/1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1921
 [/us/pl/112/90/s29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90%2Fs29
 [/us/pl/112/90/s1/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90%2Fs1%2Fc%2F1
 [/us/usc/t49/s60101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs60101
-[/us/pl/107/355/s14/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355%2Fs14%2Fd
+[/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355
 [/us/stat/116/3005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3005
 [/us/usc/t49/s60109/c/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs60109%2Fc%2F3%2FB
 

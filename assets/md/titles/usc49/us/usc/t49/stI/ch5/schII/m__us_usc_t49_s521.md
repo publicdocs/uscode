@@ -143,7 +143,7 @@
 
             In this paragraph, the term “impoundment” or “impounding” means the seizing and taking into custody of a commercial motor vehicle or the immobilizing of a commercial motor vehicle through the attachment of a locking device or other mechanical or electronic means.
 
-([Pub. L. 97–449, § 1(b)][/us/pl/97/449/s1/b], Jan. 12, 1983, [96 Stat. 2435][/us/stat/96/2435]; [Pub. L. 98–554, title II, § 213(b)][/us/pl/98/554/s213/b], Oct. 30, 1984, [98 Stat. 2842][/us/stat/98/2842]; [Pub. L. 99–570, title XII, § 12012][/us/pl/99/570/s12012], Oct. 27, 1986, [100 Stat. 3207–184][/us/stat/100/3207-184]; [Pub. L. 101–500, § 15(e)(2)][/us/pl/101/500/s15/e/2], Nov. 3, 1990, [104 Stat. 1220][/us/stat/104/1220]; [Pub. L. 102–548, § 2(b)][/us/pl/102/548/s2/b], Oct. 28, 1992, [106 Stat. 3648][/us/stat/106/3648]; [Pub. L. 103–272][/us/pl/103/272], §§ 4(j)(11)(D), 5(m)(11), July 5, 1994, [108 Stat. 1368][/us/stat/108/1368], 1376; [Pub. L. 104–287, § 5(4)][/us/pl/104/287/s5/4], Oct. 11, 1996, [110 Stat. 3389][/us/stat/110/3389]; [Pub. L. 105–178, title IV, § 4015(a)][/us/pl/105/178/s4015/a], (b), June 9, 1998, [112 Stat. 411][/us/stat/112/411]; [Pub. L. 106–159, title II][/us/pl/106/159], §§ 206(b), 208, Dec. 9, 1999, [113 Stat. 1763][/us/stat/113/1763], 1764; [Pub. L. 109–59, title IV][/us/pl/109/59], §§ 4102(a), 4103, Aug. 10, 2005, [119 Stat. 1715][/us/stat/119/1715], 1716; [Pub. L. 112–141, div. C, title II][/us/pl/112/141], §§ 32501(b), 32502–32504, 32506, July 6, 2012, [126 Stat. 803][/us/stat/126/803], 804.)
+([Pub. L. 97–449][/us/pl/97/449], § 1(b), Jan. 12, 1983, [96 Stat. 2435][/us/stat/96/2435]; [Pub. L. 98–554, title II][/us/pl/98/554/tII], § 213(b), Oct. 30, 1984, [98 Stat. 2842][/us/stat/98/2842]; [Pub. L. 99–570, title XII][/us/pl/99/570/tXII], § 12012, Oct. 27, 1986, [100 Stat. 3207–184][/us/stat/100/3207-184]; [Pub. L. 101–500][/us/pl/101/500], § 15(e)(2), Nov. 3, 1990, [104 Stat. 1220][/us/stat/104/1220]; [Pub. L. 102–548][/us/pl/102/548], § 2(b), Oct. 28, 1992, [106 Stat. 3648][/us/stat/106/3648]; [Pub. L. 103–272][/us/pl/103/272], §§ 4(j)(11)(D), 5(m)(11), July 5, 1994, [108 Stat. 1368][/us/stat/108/1368], 1376; [Pub. L. 104–287][/us/pl/104/287], § 5(4), Oct. 11, 1996, [110 Stat. 3389][/us/stat/110/3389]; [Pub. L. 105–178, title IV][/us/pl/105/178/tIV], § 4015(a), (b), June 9, 1998, [112 Stat. 411][/us/stat/112/411]; [Pub. L. 106–159, title II][/us/pl/106/159/tII], §§ 206(b), 208, Dec. 9, 1999, [113 Stat. 1763][/us/stat/113/1763], 1764; [Pub. L. 109–59, title IV][/us/pl/109/59/tIV], §§ 4102(a), 4103, Aug. 10, 2005, [119 Stat. 1715][/us/stat/119/1715], 1716; [Pub. L. 112–141, div. C, title II][/us/pl/112/141/dC/tII], §§ 32501(b), 32502–32504, 32506, July 6, 2012, [126 Stat. 803][/us/stat/126/803], 804.)
 
 <table>
 
@@ -253,7 +253,7 @@ Revised Section  </td>
 
  __References in Text__ 
 
-    Section 31310(g)(1)(A), referred to in subsec. (b)(1)(A), was redesignated section 31310(i)(1)(A), by [Pub. L. 106–159, title II, § 201(b)(1)][/us/pl/106/159/s201/b/1], Dec. 9, 1999, [113 Stat. 1759][/us/stat/113/1759].
+    Section 31310(g)(1)(A), referred to in subsec. (b)(1)(A), was redesignated section 31310(i)(1)(A), by [Pub. L. 106–159, title II][/us/pl/106/159/tII], § 201(b)(1), Dec. 9, 1999, [113 Stat. 1759][/us/stat/113/1759].
 
     The date of the enactment of this paragraph, referred to in subsec. (b)(8)(B), is the date of enactment of [Pub. L. 106–159][/us/pl/106/159], which was approved Dec. 9, 1999.
 
@@ -261,79 +261,79 @@ Revised Section  </td>
 
  __Amendments__ 
 
-    2012—Subsec. (b)(2)(D). [Pub. L. 112–141, § 32506][/us/pl/112/141/s32506], struck out “ability to pay,” after “prior offenses,”.
+    2012—Subsec. (b)(2)(D). [Pub. L. 112–141][/us/pl/112/141], § 32506, struck out “ability to pay,” after “prior offenses,”.
 
-    Subsec. (b)(2)(E). [Pub. L. 112–141, § 32501(b)][/us/pl/112/141/s32501/b], designated existing provisions as cl. (i) and added cl. (ii).
+    Subsec. (b)(2)(E). [Pub. L. 112–141][/us/pl/112/141], § 32501(b), designated existing provisions as cl. (i) and added cl. (ii).
 
-    Subsec. (b)(2)(E)(i). [Pub. L. 112–141, § 32502][/us/pl/112/141/s32502], inserted “In the case of a motor carrier, the Secretary may also place the violator’s motor carrier operations out of service.” after “$10,000.” and substituted “defense to a penalty” for “defense to such penalty”.
+    Subsec. (b)(2)(E)(i). [Pub. L. 112–141][/us/pl/112/141], § 32502, inserted “In the case of a motor carrier, the Secretary may also place the violator’s motor carrier operations out of service.” after “$10,000.” and substituted “defense to a penalty” for “defense to such penalty”.
 
-    Subsec. (b)(2)(F). [Pub. L. 112–141, § 32503][/us/pl/112/141/s32503], added subpar. (F).
+    Subsec. (b)(2)(F). [Pub. L. 112–141][/us/pl/112/141], § 32503, added subpar. (F).
 
-    Subsec. (b)(15). [Pub. L. 112–141, § 32504][/us/pl/112/141/s32504], added par. (15).
+    Subsec. (b)(15). [Pub. L. 112–141][/us/pl/112/141], § 32504, added par. (15).
 
-    2005—Subsec. (b). [Pub. L. 109–59, § 4103(1)][/us/pl/109/59/s4103/1], inserted headings for subsec. (b), par. (1), and subpar. (A).
+    2005—Subsec. (b). [Pub. L. 109–59][/us/pl/109/59], § 4103(1), inserted headings for subsec. (b), par. (1), and subpar. (A).
 
-    Subsec. (b)(2)(B). [Pub. L. 109–59, § 4102(a)(2)][/us/pl/109/59/s4102/a/2], substituted “$10,000” for “$5,000” in cls. (i) and (ii).
+    Subsec. (b)(2)(B). [Pub. L. 109–59][/us/pl/109/59], § 4102(a)(2), substituted “$10,000” for “$5,000” in cls. (i) and (ii).
 
-    Subsec. (b)(2)(B)(i). [Pub. L. 109–59, § 4102(a)(1)][/us/pl/109/59/s4102/a/1], substituted “$1,000” for “$500”.
+    Subsec. (b)(2)(B)(i). [Pub. L. 109–59][/us/pl/109/59], § 4102(a)(1), substituted “$1,000” for “$500”.
 
-    Subsec. (b)(2)(E). [Pub. L. 109–59, § 4103(2)][/us/pl/109/59/s4103/2], added subpar. (E).
+    Subsec. (b)(2)(E). [Pub. L. 109–59][/us/pl/109/59], § 4103(2), added subpar. (E).
 
-    1999—Subsec. (b)(5)(B). [Pub. L. 106–159, § 208][/us/pl/106/159/s208], substituted “substantially increases the likelihood of” for “is likely to result in”.
+    1999—Subsec. (b)(5)(B). [Pub. L. 106–159][/us/pl/106/159], § 208, substituted “substantially increases the likelihood of” for “is likely to result in”.
 
-    Subsec. (b)(8) to (14). [Pub. L. 106–159, § 206(b)][/us/pl/106/159/s206/b], added par. (8) and redesignated former pars. (8) to (13) as (9) to (14), respectively.
+    Subsec. (b)(8) to (14). [Pub. L. 106–159][/us/pl/106/159], § 206(b), added par. (8) and redesignated former pars. (8) to (13) as (9) to (14), respectively.
 
-    1998—Subsec. (b)(1)(A). [Pub. L. 105–178, § 4015(a)(1)][/us/pl/105/178/s4015/a/1], struck out “fix a reasonable time for abatement of the violation,” before “specify the proposed civil penalty”.
+    1998—Subsec. (b)(1)(A). [Pub. L. 105–178][/us/pl/105/178], § 4015(a)(1), struck out “fix a reasonable time for abatement of the violation,” before “specify the proposed civil penalty”.
 
-    Subsec. (b)(1)(B). [Pub. L. 105–178, § 4015(a)(2)][/us/pl/105/178/s4015/a/2], added subpar. (B) and struck out former subpar. (B) which read as follows: “The Secretary shall, not later than 60 days after November 3, 1990, establish operational procedures to require a highway safety specialist or other appropriate representative of the Secretary to initiate, at the time of a safety review, compliance review, or other inspection or audit activity, or within a reasonable time thereafter, an enforcement action whenever any of the offenses referred to in paragraph (2)(A) and (B) can be documented, except recordkeeping violations not specified by the Secretary as serious. The procedures shall—
+    Subsec. (b)(1)(B). [Pub. L. 105–178][/us/pl/105/178], § 4015(a)(2), added subpar. (B) and struck out former subpar. (B) which read as follows: “The Secretary shall, not later than 60 days after November 3, 1990, establish operational procedures to require a highway safety specialist or other appropriate representative of the Secretary to initiate, at the time of a safety review, compliance review, or other inspection or audit activity, or within a reasonable time thereafter, an enforcement action whenever any of the offenses referred to in paragraph (2)(A) and (B) can be documented, except recordkeeping violations not specified by the Secretary as serious. The procedures shall—
 
     “(i) specify those serious recordkeeping violations for which an enforcement action shall be initiated, including instances in which the falsification of records of duty status or drivers’ medical certificates is required or permitted, and such other recordkeeping violations as the Secretary determines to be serious; and
 
     “(ii) authorize, but not require, initiation of an enforcement action for recordkeeping violations not specified by the Secretary as serious.”
 
-    Subsec. (b)(2)(A). [Pub. L. 105–178, § 4015(b)(1)][/us/pl/105/178/s4015/b/1], added subpar. (A) and struck out heading and text of former subpar. (A). Text read as follows: “Except as otherwise provided in this subsection, any person who is determined by the Secretary, after notice and opportunity for a hearing, to have committed an act which is a violation of a recordkeeping requirement issued by the Secretary under subchapter III of chapter 311 (except sections 31138 and 31139) or [section 31502 of this title][/us/usc/t49/s31502] or which is a violation of chapter 59 of this title shall be liable to the United States for a civil penalty not to exceed $500 for each offense. Each day of a violation shall constitute a separate offense, except that the total of all civil penalties assessed against any violator for all offenses relating to any single violation shall not exceed $2,500. If the Secretary determines that a serious pattern of safety violations, other than recordkeeping requirements, exists or has occurred, the Secretary may assess a civil penalty not to exceed $1,000 for each offense; except that the maximum fine for each such pattern of safety violations shall not exceed $10,000. If the Secretary determines that a substantial health or safety violation exists or has occurred which could reasonably lead to, or has resulted in, serious personal injury or death, the Secretary may assess a civil penalty not to exceed $10,000 for each offense. Notwithstanding any other provision of this section (other than subparagraph (B)), except for recordkeeping violations, no civil penalty shall be assessed under this section against an employee for a violation unless the Secretary determines that such employee’s actions constituted gross negligence or reckless disregard for safety, in which case such employee shall be liable for a civil penalty not to exceed $1,000.”
+    Subsec. (b)(2)(A). [Pub. L. 105–178][/us/pl/105/178], § 4015(b)(1), added subpar. (A) and struck out heading and text of former subpar. (A). Text read as follows: “Except as otherwise provided in this subsection, any person who is determined by the Secretary, after notice and opportunity for a hearing, to have committed an act which is a violation of a recordkeeping requirement issued by the Secretary under subchapter III of chapter 311 (except sections 31138 and 31139) or [section 31502 of this title][/us/usc/t49/s31502] or which is a violation of chapter 59 of this title shall be liable to the United States for a civil penalty not to exceed $500 for each offense. Each day of a violation shall constitute a separate offense, except that the total of all civil penalties assessed against any violator for all offenses relating to any single violation shall not exceed $2,500. If the Secretary determines that a serious pattern of safety violations, other than recordkeeping requirements, exists or has occurred, the Secretary may assess a civil penalty not to exceed $1,000 for each offense; except that the maximum fine for each such pattern of safety violations shall not exceed $10,000. If the Secretary determines that a substantial health or safety violation exists or has occurred which could reasonably lead to, or has resulted in, serious personal injury or death, the Secretary may assess a civil penalty not to exceed $10,000 for each offense. Notwithstanding any other provision of this section (other than subparagraph (B)), except for recordkeeping violations, no civil penalty shall be assessed under this section against an employee for a violation unless the Secretary determines that such employee’s actions constituted gross negligence or reckless disregard for safety, in which case such employee shall be liable for a civil penalty not to exceed $1,000.”
 
-    Subsec. (b)(2)(B) to (D). [Pub. L. 105–178, § 4015(b)(2)][/us/pl/105/178/s4015/b/2], (3), added subpar. (B) and redesignated former subpars. (B) and (C) as (C) and (D), respectively.
+    Subsec. (b)(2)(B) to (D). [Pub. L. 105–178][/us/pl/105/178], § 4015(b)(2), (3), added subpar. (B) and redesignated former subpars. (B) and (C) as (C) and (D), respectively.
 
     1996—Subsec. (b)(1)(B). [Pub. L. 104–287][/us/pl/104/287] substituted “November 3, 1990” for “the date of enactment of this subparagraph” in introductory provisions.
 
-    1994—Subsec. (b)(1)(A). [Pub. L. 103–272, § 5(m)(11)(A)][/us/pl/103/272/s5/m/11/A], substituted “a provision of subchapter III of chapter 311 (except sections 31138 and 31139) or section 31302, 31303, 31304, 31305(b), 31310(g)(1)(A), or 31502 of this title” for “[section 3102 of this title][/us/usc/t49/s3102] or the Motor Carrier Safety Act of 1984 or section 12002, 12003, 12004, 12005(b), or 12008(d)(2) of the Commercial Motor Vehicle Safety Act of 1986” and “any of those provisions” for “such sections or Act”.
+    1994—Subsec. (b)(1)(A). [Pub. L. 103–272][/us/pl/103/272], § 5(m)(11)(A), substituted “a provision of subchapter III of chapter 311 (except sections 31138 and 31139) or section 31302, 31303, 31304, 31305(b), 31310(g)(1)(A), or 31502 of this title” for “[section 3102 of this title][/us/usc/t49/s3102] or the Motor Carrier Safety Act of 1984 or section 12002, 12003, 12004, 12005(b), or 12008(d)(2) of the Commercial Motor Vehicle Safety Act of 1986” and “any of those provisions” for “such sections or Act”.
 
-    Subsec. (b)(2)(A). [Pub. L. 103–272, § 5(m)(11)(B)][/us/pl/103/272/s5/m/11/B], substituted “under subchapter III of chapter 311 (except sections 31138 and 31139) or [section 31502 of this title][/us/usc/t49/s31502]” for “pursuant to [section 3102 of this title][/us/usc/t49/s3102] or the Motor Carrier Safety Act of 1984”.
+    Subsec. (b)(2)(A). [Pub. L. 103–272][/us/pl/103/272], § 5(m)(11)(B), substituted “under subchapter III of chapter 311 (except sections 31138 and 31139) or [section 31502 of this title][/us/usc/t49/s31502]” for “pursuant to [section 3102 of this title][/us/usc/t49/s3102] or the Motor Carrier Safety Act of 1984”.
 
-    [Pub. L. 103–272, § 4(j)(11)(D)][/us/pl/103/272/s4/j/11/D], substituted “chapter 59 of this title” for “[section 508 of this title][/us/usc/t49/s508]”.
+    [Pub. L. 103–272][/us/pl/103/272], § 4(j)(11)(D), substituted “chapter 59 of this title” for “[section 508 of this title][/us/usc/t49/s508]”.
 
-    Subsec. (b)(2)(B). [Pub. L. 103–272, § 5(m)(11)(C)][/us/pl/103/272/s5/m/11/C], substituted “section 31302, 31303, 31304, 31305(b), or 31310(g)(1)(A) of this title” for “section 12002, 12003, 12004, 12005(b), or 12008(d)(2) of the Commercial Motor Vehicle Safety Act of 1986”.
+    Subsec. (b)(2)(B). [Pub. L. 103–272][/us/pl/103/272], § 5(m)(11)(C), substituted “section 31302, 31303, 31304, 31305(b), or 31310(g)(1)(A) of this title” for “section 12002, 12003, 12004, 12005(b), or 12008(d)(2) of the Commercial Motor Vehicle Safety Act of 1986”.
 
-    Subsec. (b)(3). [Pub. L. 103–272, § 5(m)(11)(D)][/us/pl/103/272/s5/m/11/D], substituted “subchapter III of chapter 311 (except sections 31138 and 31139) or section 31302, 31303, 31304, 31305(b), or 31502 of this title” for “[section 3102 of this title][/us/usc/t49/s3102] or the Motor Carrier Safety Act of 1984 or section 12002, 12003, 12004, or 12005(b) of the Commercial Motor Vehicle Safety Act of 1986”.
+    Subsec. (b)(3). [Pub. L. 103–272][/us/pl/103/272], § 5(m)(11)(D), substituted “subchapter III of chapter 311 (except sections 31138 and 31139) or section 31302, 31303, 31304, 31305(b), or 31502 of this title” for “[section 3102 of this title][/us/usc/t49/s3102] or the Motor Carrier Safety Act of 1984 or section 12002, 12003, 12004, or 12005(b) of the Commercial Motor Vehicle Safety Act of 1986”.
 
-    Subsec. (b)(5)(A). [Pub. L. 103–272, § 5(m)(11)(E)][/us/pl/103/272/s5/m/11/E], substituted “a provision of subchapter III of chapter 311 (except sections 31138 and 31139) or section 31302, 31303, 31304, 31305(b), or 31502 of this title” for “[section 3102 of this title][/us/usc/t49/s3102] or the Motor Carrier Safety Act of 1984 or section 12002, 12003, 12004, or 12005(b) of the Commercial Motor Vehicle Safety Act of 1986” and “any of those provisions” for “such sections or Act”.
+    Subsec. (b)(5)(A). [Pub. L. 103–272][/us/pl/103/272], § 5(m)(11)(E), substituted “a provision of subchapter III of chapter 311 (except sections 31138 and 31139) or section 31302, 31303, 31304, 31305(b), or 31502 of this title” for “[section 3102 of this title][/us/usc/t49/s3102] or the Motor Carrier Safety Act of 1984 or section 12002, 12003, 12004, or 12005(b) of the Commercial Motor Vehicle Safety Act of 1986” and “any of those provisions” for “such sections or Act”.
 
-    Subsec. (b)(6)(A). [Pub. L. 103–272, § 5(m)(11)(F)][/us/pl/103/272/s5/m/11/F], substituted “subchapter III of chapter 311 (except sections 31138 and 31139) or [section 31502 of this title][/us/usc/t49/s31502]” for “[section 3102 of this title][/us/usc/t49/s3102], the Motor Carrier Safety Act of 1984”, “any of those provisions” for “such section or Act”, and “shall be subject” for “shall be liable”.
+    Subsec. (b)(6)(A). [Pub. L. 103–272][/us/pl/103/272], § 5(m)(11)(F), substituted “subchapter III of chapter 311 (except sections 31138 and 31139) or [section 31502 of this title][/us/usc/t49/s31502]” for “[section 3102 of this title][/us/usc/t49/s3102], the Motor Carrier Safety Act of 1984”, “any of those provisions” for “such section or Act”, and “shall be subject” for “shall be liable”.
 
-    Subsec. (b)(6)(B)(i). [Pub. L. 103–272, § 5(m)(11)(G)][/us/pl/103/272/s5/m/11/G], substituted “section 31302, 31303(b) or (c), 31304, 31305(b), or 31310(g)(1)(A) of this title” for “section 12002, 12003(b), 12003(c), 12004, 12005(b), or 12008(d)(2) of the Commercial Motor Vehicle Safety Act of 1986”.
+    Subsec. (b)(6)(B)(i). [Pub. L. 103–272][/us/pl/103/272], § 5(m)(11)(G), substituted “section 31302, 31303(b) or (c), 31304, 31305(b), or 31310(g)(1)(A) of this title” for “section 12002, 12003(b), 12003(c), 12004, 12005(b), or 12008(d)(2) of the Commercial Motor Vehicle Safety Act of 1986”.
 
-    Subsec. (b)(6)(B)(ii). [Pub. L. 103–272, § 5(m)(11)(H)][/us/pl/103/272/s5/m/11/H], substituted “[section 31301 of this title][/us/usc/t49/s31301]” for “section 12019 of such Act”, “[section 31303(a) of this title][/us/usc/t49/s31303/a]” for “section 12003(a) of such Act”, and “section 31303(a)” for “such section 12003(a)”.
+    Subsec. (b)(6)(B)(ii). [Pub. L. 103–272][/us/pl/103/272], § 5(m)(11)(H), substituted “[section 31301 of this title][/us/usc/t49/s31301]” for “section 12019 of such Act”, “[section 31303(a) of this title][/us/usc/t49/s31303/a]” for “section 12003(a) of such Act”, and “section 31303(a)” for “such section 12003(a)”.
 
-    Subsec. (b)(12). [Pub. L. 103–272, § 5(m)(11)(I)][/us/pl/103/272/s5/m/11/I], substituted “chapter 51 of this title” for “any provision of the Hazardous Materials Transportation Act (49 U.S.C. App. 1801–1812)” and “chapter 51” for “such Act”.
+    Subsec. (b)(12). [Pub. L. 103–272][/us/pl/103/272], § 5(m)(11)(I), substituted “chapter 51 of this title” for “any provision of the Hazardous Materials Transportation Act (49 U.S.C. App. 1801–1812)” and “chapter 51” for “such Act”.
 
-    Subsec. (b)(13). [Pub. L. 103–272, § 5(m)(11)(J)][/us/pl/103/272/s5/m/11/J], substituted “[section 31132 of this title][/us/usc/t49/s31132]” for “section 204 of the Motor Carrier Safety Act of 1984”.
+    Subsec. (b)(13). [Pub. L. 103–272][/us/pl/103/272], § 5(m)(11)(J), substituted “[section 31132 of this title][/us/usc/t49/s31132]” for “section 204 of the Motor Carrier Safety Act of 1984”.
 
     1992—Subsec. (b)(2)(A). [Pub. L. 102–548][/us/pl/102/548] inserted “or which is a violation of [section 508 of this title][/us/usc/t49/s508]” after “Act of 1984”.
 
     1990—Subsec. (b)(1). [Pub. L. 101–500][/us/pl/101/500] designated existing provisions as subpar. (A) and added subpar. (B).
 
-    1986—Subsec. (b)(1). [Pub. L. 99–570, § 12012(a)][/us/pl/99/570/s12012/a], inserted “or section 12002, 12003, 12004, 12005(b), or 12008(d)(2) of the Commercial Motor Vehicle Safety Act of 1986” after “the Motor Carrier Safety Act of 1984” and substituted “such sections” for “such section”.
+    1986—Subsec. (b)(1). [Pub. L. 99–570][/us/pl/99/570], § 12012(a), inserted “or section 12002, 12003, 12004, 12005(b), or 12008(d)(2) of the Commercial Motor Vehicle Safety Act of 1986” after “the Motor Carrier Safety Act of 1984” and substituted “such sections” for “such section”.
 
-    Subsec. (b)(2). [Pub. L. 99–570, § 12012(b)][/us/pl/99/570/s12012/b], (f)(1), inserted heading, designated existing provisions as subpars. (A) and (C) with corresponding headings, added subpar. (B), in subpar. (A) indented such subparagraph and aligned it with subpar. (B), and inserted exception relating to subpar. (B).
+    Subsec. (b)(2). [Pub. L. 99–570][/us/pl/99/570], § 12012(b), (f)(1), inserted heading, designated existing provisions as subpars. (A) and (C) with corresponding headings, added subpar. (B), in subpar. (A) indented such subparagraph and aligned it with subpar. (B), and inserted exception relating to subpar. (B).
 
-    Subsec. (b)(3). [Pub. L. 99–570, § 12012(c)][/us/pl/99/570/s12012/c], inserted “or section 12002, 12003, 12004, or 12005(b) of the Commercial Motor Vehicle Safety Act of 1986” after “the Motor Carrier Safety Act of 1984”.
+    Subsec. (b)(3). [Pub. L. 99–570][/us/pl/99/570], § 12012(c), inserted “or section 12002, 12003, 12004, or 12005(b) of the Commercial Motor Vehicle Safety Act of 1986” after “the Motor Carrier Safety Act of 1984”.
 
-    Subsec. (b)(5)(A). [Pub. L. 99–570, § 12012(d)][/us/pl/99/570/s12012/d], inserted “or section 12002, 12003, 12004, or 12005(b) of the Commercial Motor Vehicle Safety Act of 1986” after “the Motor Carrier Safety Act of 1984” and substituted “such sections” for “such section”.
+    Subsec. (b)(5)(A). [Pub. L. 99–570][/us/pl/99/570], § 12012(d), inserted “or section 12002, 12003, 12004, or 12005(b) of the Commercial Motor Vehicle Safety Act of 1986” after “the Motor Carrier Safety Act of 1984” and substituted “such sections” for “such section”.
 
-    Subsec. (b)(6). [Pub. L. 99–570, § 12012(e)][/us/pl/99/570/s12012/e], (f)(2), (g)(1), inserted heading, designated existing provisions as subpar. (A) with corresponding heading, added subpar. (B), in subpar. (A) indented such subparagraph and aligned it with subpar. (B), and substituted “to a fine” for “for a fine” in two places.
+    Subsec. (b)(6). [Pub. L. 99–570][/us/pl/99/570], § 12012(e), (f)(2), (g)(1), inserted heading, designated existing provisions as subpar. (A) with corresponding heading, added subpar. (B), in subpar. (A) indented such subparagraph and aligned it with subpar. (B), and substituted “to a fine” for “for a fine” in two places.
 
-    Subsec. (b)(13). [Pub. L. 99–570, § 12012(g)(2)][/us/pl/99/570/s12012/g/2], substituted “section 204” for “section 4”.
+    Subsec. (b)(13). [Pub. L. 99–570][/us/pl/99/570], § 12012(g)(2), substituted “section 204” for “section 4”.
 
     1984—Subsec. (b)(1). [Pub. L. 98–554][/us/pl/98/554] substituted provisions relating to notice to violators and opportunity for hearings for former provisions which set forth penalties for failure to make reports and keep records.
 
@@ -351,7 +351,7 @@ Revised Section  </td>
 
  __Minimum and Maximum Assessments__ 
 
-[Pub. L. 106–159, title II, § 222][/us/pl/106/159/s222], Dec. 9, 1999, [113 Stat. 1769][/us/stat/113/1769], provided that:
+[Pub. L. 106–159, title II][/us/pl/106/159/tII], § 222, Dec. 9, 1999, [113 Stat. 1769][/us/stat/113/1769], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -404,79 +404,79 @@ Revised Section  </td>
 [/us/usc/t49/s31303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31303%2Fa
 [/us/usc/t49/s31132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31132
 [/us/usc/t5/s554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs554
-[/us/pl/97/449/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449%2Fs1%2Fb
+[/us/pl/97/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449
 [/us/stat/96/2435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2435
-[/us/pl/98/554/s213/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F554%2Fs213%2Fb
+[/us/pl/98/554/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F554%2FtII
 [/us/stat/98/2842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2842
-[/us/pl/99/570/s12012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs12012
+[/us/pl/99/570/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtXII
 [/us/stat/100/3207-184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-184
-[/us/pl/101/500/s15/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F500%2Fs15%2Fe%2F2
+[/us/pl/101/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F500
 [/us/stat/104/1220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1220
-[/us/pl/102/548/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F548%2Fs2%2Fb
+[/us/pl/102/548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F548
 [/us/stat/106/3648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3648
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1368
-[/us/pl/104/287/s5/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F4
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3389
-[/us/pl/105/178/s4015/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4015%2Fa
+[/us/pl/105/178/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtIV
 [/us/stat/112/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F411
-[/us/pl/106/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159
+[/us/pl/106/159/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2FtII
 [/us/stat/113/1763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1763
-[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIV
 [/us/stat/119/1715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1715
-[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtII
 [/us/stat/126/803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F803
-[/us/pl/106/159/s201/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2Fs201%2Fb%2F1
+[/us/pl/106/159/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2FtII
 [/us/stat/113/1759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1759
 [/us/pl/106/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159
-[/us/pl/112/141/s32506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32506
-[/us/pl/112/141/s32501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32501%2Fb
-[/us/pl/112/141/s32502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32502
-[/us/pl/112/141/s32503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32503
-[/us/pl/112/141/s32504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32504
-[/us/pl/109/59/s4103/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4103%2F1
-[/us/pl/109/59/s4102/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4102%2Fa%2F2
-[/us/pl/109/59/s4102/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4102%2Fa%2F1
-[/us/pl/109/59/s4103/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4103%2F2
-[/us/pl/106/159/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2Fs208
-[/us/pl/106/159/s206/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2Fs206%2Fb
-[/us/pl/105/178/s4015/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4015%2Fa%2F1
-[/us/pl/105/178/s4015/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4015%2Fa%2F2
-[/us/pl/105/178/s4015/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4015%2Fb%2F1
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/106/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159
+[/us/pl/106/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
 [/us/usc/t49/s31502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31502
-[/us/pl/105/178/s4015/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4015%2Fb%2F2
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
-[/us/pl/103/272/s5/m/11/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs5%2Fm%2F11%2FA
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/usc/t49/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs3102
-[/us/pl/103/272/s5/m/11/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs5%2Fm%2F11%2FB
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/usc/t49/s31502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31502
 [/us/usc/t49/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs3102
-[/us/pl/103/272/s4/j/11/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs4%2Fj%2F11%2FD
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/usc/t49/s508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs508
-[/us/pl/103/272/s5/m/11/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs5%2Fm%2F11%2FC
-[/us/pl/103/272/s5/m/11/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs5%2Fm%2F11%2FD
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/usc/t49/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs3102
-[/us/pl/103/272/s5/m/11/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs5%2Fm%2F11%2FE
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/usc/t49/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs3102
-[/us/pl/103/272/s5/m/11/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs5%2Fm%2F11%2FF
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/usc/t49/s31502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31502
 [/us/usc/t49/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs3102
-[/us/pl/103/272/s5/m/11/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs5%2Fm%2F11%2FG
-[/us/pl/103/272/s5/m/11/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs5%2Fm%2F11%2FH
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/usc/t49/s31301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31301
 [/us/usc/t49/s31303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31303%2Fa
-[/us/pl/103/272/s5/m/11/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs5%2Fm%2F11%2FI
-[/us/pl/103/272/s5/m/11/J]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs5%2Fm%2F11%2FJ
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/usc/t49/s31132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31132
 [/us/pl/102/548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F548
 [/us/usc/t49/s508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs508
 [/us/pl/101/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F500
-[/us/pl/99/570/s12012/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs12012%2Fa
-[/us/pl/99/570/s12012/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs12012%2Fb
-[/us/pl/99/570/s12012/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs12012%2Fc
-[/us/pl/99/570/s12012/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs12012%2Fd
-[/us/pl/99/570/s12012/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs12012%2Fe
-[/us/pl/99/570/s12012/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs12012%2Fg%2F2
+[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
+[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
+[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
+[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
+[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
+[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
 [/us/pl/98/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F554
 [/us/pl/98/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F554
 [/us/pl/98/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F554
@@ -485,7 +485,7 @@ Revised Section  </td>
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
 [/us/pl/111/314/s4/d/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314%2Fs4%2Fd%2F8
 [/us/usc/t49/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs101
-[/us/pl/106/159/s222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2Fs222
+[/us/pl/106/159/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2FtII
 [/us/stat/113/1769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1769
 [/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
 [/us/pl/98/554/s213/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F554%2Fs213%2Fd

@@ -71,7 +71,7 @@
 
     Downgrading or disposing of a facility under this section does not relieve a rail carrier from complying with its other common carrier or legal obligations related to the facility.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 913][/us/stat/108/913]; [Pub. L. 105–134, title I, § 162][/us/pl/105/134/s162], Dec. 2, 1997, [111 Stat. 2578][/us/stat/111/2578].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 913][/us/stat/108/913]; [Pub. L. 105–134, title I][/us/pl/105/134/tI], § 162, Dec. 2, 1997, [111 Stat. 2578][/us/stat/111/2578].)
 
 <table>
 
@@ -226,9 +226,9 @@ Oct. 30, 1970, Pub. L. 91–518, 84 Stat. 1327, § 406; added Sept. 29, 1979, 
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F913
-[/us/pl/105/134/s162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2Fs162
+[/us/pl/105/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2FtI
 [/us/stat/111/2578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2578
 [/us/pl/105/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134
 

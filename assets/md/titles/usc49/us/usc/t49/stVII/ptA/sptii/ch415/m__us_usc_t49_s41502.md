@@ -31,7 +31,7 @@
 
     An air carrier and a carrier subject to subtitle IV of this title that are participating in through service and joint prices shall include in their tariffs, filed with the Secretary of Transportation, a statement showing the through service and joint prices.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1132][/us/stat/108/1132]; [Pub. L. 104–88, title III, § 308][/us/pl/104/88/s308](l), Dec. 29, 1995, [109 Stat. 948][/us/stat/109/948]; [Pub. L. 105–102, § 2(22)][/us/pl/105/102/s2/22], Nov. 20, 1997, [111 Stat. 2205][/us/stat/111/2205].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1132][/us/stat/108/1132]; [Pub. L. 104–88, title III][/us/pl/104/88/tIII], § 308(l), Dec. 29, 1995, [109 Stat. 948][/us/stat/109/948]; [Pub. L. 105–102][/us/pl/105/102], § 2(22), Nov. 20, 1997, [111 Stat. 2205][/us/stat/111/2205].)
 
 <table>
 
@@ -158,11 +158,11 @@ This amends the catchline for 49:41502 to make a technical and conforming amendm
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1132
-[/us/pl/104/88/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs308
+[/us/pl/104/88/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtIII
 [/us/stat/109/948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F948
-[/us/pl/105/102/s2/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102%2Fs2%2F22
+[/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/stat/111/2205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2205
 [/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88

@@ -47,7 +47,7 @@
 
     The Secretary may reject a tariff or tariff change that is not consistent with this section and regulations prescribed by the Secretary. A tariff or change that is rejected is void.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1133][/us/stat/108/1133].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1133][/us/stat/108/1133].)
 
 <table>
 
@@ -212,7 +212,7 @@ Aug. 23, 1958, Pub. L. 85–726, § 403(c)(1), (2), 72 Stat. 759; Nov. 9, 1977
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1133
 [/us/pl/96/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F192
 [/us/stat/94/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F35

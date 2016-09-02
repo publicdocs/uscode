@@ -73,11 +73,11 @@
 
     When cause exists, the Board may issue appropriate orders supplemental to an order made in a proceeding under this section.
 
-(Added [Pub. L. 104–88, title I, § 103][/us/pl/104/88/s103], Dec. 29, 1995, [109 Stat. 897][/us/stat/109/897].)
+(Added [Pub. L. 104–88, title I][/us/pl/104/88/tI], § 103, Dec. 29, 1995, [109 Stat. 897][/us/stat/109/897].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in sections 11341, 11343, 11344, 11345a, 11348, 11349, and 11351 of this title prior to the general amendment of this subtitle by [Pub. L. 104–88, § 102(a)][/us/pl/104/88/s102/a].
+    Provisions similar to those in this section were contained in sections 11341, 11343, 11344, 11345a, 11348, 11349, and 11351 of this title prior to the general amendment of this subtitle by [Pub. L. 104–88][/us/pl/104/88], § 102(a).
 
 ----------
 
@@ -86,8 +86,8 @@
 ----------
 ----------
 
-[/us/pl/104/88/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs103
+[/us/pl/104/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtI
 [/us/stat/109/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F897
-[/us/pl/104/88/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs102%2Fa
+[/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 
 

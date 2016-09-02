@@ -31,7 +31,7 @@
 
     The movement of a vehicle under this section is at the risk only of the railroad carrier doing the moving. This section does not relieve a carrier from liability in a proceeding to recover damages for death or injury of a railroad employee arising from the movement of a vehicle with equipment that is defective, insecure, or not maintained in compliance with this chapter.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 882][/us/stat/108/882].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 882][/us/stat/108/882].)
 
 <table>
 
@@ -123,7 +123,7 @@ Apr. 14, 1910, ch. 160, § 4 (2d sentence proviso), 36 Stat. 299; Jan. 14, 198
 ----------
 
 [/us/usc/t49/s21302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs21302
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F882
 [/us/usc/t49/s21302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs21302
 [/us/usc/t49/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs6

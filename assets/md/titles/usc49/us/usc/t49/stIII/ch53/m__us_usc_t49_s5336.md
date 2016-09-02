@@ -207,7 +207,7 @@
 
             (B) the number of eligible low-income individuals in all such urbanized areas.
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 840][/us/stat/108/840]; [Pub. L. 104–287, § 5(19)][/us/pl/104/287/s5/19], Oct. 11, 1996, [110 Stat. 3390][/us/stat/110/3390]; [Pub. L. 105–178, title III][/us/pl/105/178], §§ 3027(a), (b), 3029(b)(10), (11), June 9, 1998, [112 Stat. 366][/us/stat/112/366], 373; [Pub. L. 109–59, title III][/us/pl/109/59], §§ 3002(b)(4), 3034, Aug. 10, 2005, [119 Stat. 1545][/us/stat/119/1545], 1627; [Pub. L. 110–244, title II, § 201][/us/pl/110/244/s201](l), June 6, 2008, [122 Stat. 1611][/us/stat/122/1611]; [Pub. L. 112–141, div. B, § 20026][/us/pl/112/141/s20026], July 6, 2012, [126 Stat. 719][/us/stat/126/719]; [Pub. L. 113–159, title I, § 1202][/us/pl/113/159/s1202], Aug. 8, 2014, [128 Stat. 1845][/us/stat/128/1845]; [Pub. L. 114–21, title I, § 1202][/us/pl/114/21/s1202], May 29, 2015, [129 Stat. 223][/us/stat/129/223]; [Pub. L. 114–41, title I, § 1202][/us/pl/114/41/s1202], July 31, 2015, [129 Stat. 450][/us/stat/129/450]; [Pub. L. 114–73, title I, § 1202][/us/pl/114/73/s1202], Oct. 29, 2015, [129 Stat. 573][/us/stat/129/573]; [Pub. L. 114–87, title I, § 1202][/us/pl/114/87/s1202], Nov. 20, 2015, [129 Stat. 682][/us/stat/129/682]; [Pub. L. 114–94, div. A, title III, § 3014][/us/pl/114/94/s3014], Dec. 4, 2015, [129 Stat. 1478][/us/stat/129/1478].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(d), July 5, 1994, [108 Stat. 840][/us/stat/108/840]; [Pub. L. 104–287][/us/pl/104/287], § 5(19), Oct. 11, 1996, [110 Stat. 3390][/us/stat/110/3390]; [Pub. L. 105–178, title III][/us/pl/105/178/tIII], §§ 3027(a), (b), 3029(b)(10), (11), June 9, 1998, [112 Stat. 366][/us/stat/112/366], 373; [Pub. L. 109–59, title III][/us/pl/109/59/tIII], §§ 3002(b)(4), 3034, Aug. 10, 2005, [119 Stat. 1545][/us/stat/119/1545], 1627; [Pub. L. 110–244, title II][/us/pl/110/244/tII], § 201(l), June 6, 2008, [122 Stat. 1611][/us/stat/122/1611]; [Pub. L. 112–141, div. B][/us/pl/112/141/dB], § 20026, July 6, 2012, [126 Stat. 719][/us/stat/126/719]; [Pub. L. 113–159, title I][/us/pl/113/159/tI], § 1202, Aug. 8, 2014, [128 Stat. 1845][/us/stat/128/1845]; [Pub. L. 114–21, title I][/us/pl/114/21/tI], § 1202, May 29, 2015, [129 Stat. 223][/us/stat/129/223]; [Pub. L. 114–41, title I][/us/pl/114/41/tI], § 1202, July 31, 2015, [129 Stat. 450][/us/stat/129/450]; [Pub. L. 114–73, title I][/us/pl/114/73/tI], § 1202, Oct. 29, 2015, [129 Stat. 573][/us/stat/129/573]; [Pub. L. 114–87, title I][/us/pl/114/87/tI], § 1202, Nov. 20, 2015, [129 Stat. 682][/us/stat/129/682]; [Pub. L. 114–94, div. A, title III][/us/pl/114/94/dA/tIII], § 3014, Dec. 4, 2015, [129 Stat. 1478][/us/stat/129/1478].)
 
 <table>
 
@@ -597,11 +597,11 @@ In subsection (j), the references to sections 5302(a)(8) and 5318 are added for 
 
  __Amendments__ 
 
-    2015—Subsec. (a). [Pub. L. 114–94, § 3014(1)][/us/pl/114/94/s3014/1], substituted “subsection (h)(5)” for “subsection (h)(4)” in introductory provisions.
+    2015—Subsec. (a). [Pub. L. 114–94][/us/pl/114/94], § 3014(1), substituted “subsection (h)(5)” for “subsection (h)(4)” in introductory provisions.
 
-    Subsec. (b)(2)(E). [Pub. L. 114–94, § 3014(2)][/us/pl/114/94/s3014/2], substituted “27 percent” for “22.27 percent”.
+    Subsec. (b)(2)(E). [Pub. L. 114–94][/us/pl/114/94], § 3014(2), substituted “27 percent” for “22.27 percent”.
 
-    Subsec. (h)(1). [Pub. L. 114–94, § 3014(3)(A)][/us/pl/114/94/s3014/3/A], added par. (1) and struck out former par. (1), which read as follows: “$30,000,000 for each fiscal year ending before October 1, 2015, and $5,327,869 for the period beginning on October 1, 2015, and ending on December 4, 2015, shall be set aside to carry out section 5307(h);”.
+    Subsec. (h)(1). [Pub. L. 114–94][/us/pl/114/94], § 3014(3)(A), added par. (1) and struck out former par. (1), which read as follows: “$30,000,000 for each fiscal year ending before October 1, 2015, and $5,327,869 for the period beginning on October 1, 2015, and ending on December 4, 2015, shall be set aside to carry out section 5307(h);”.
 
     [Pub. L. 114–87][/us/pl/114/87] substituted “and $5,327,869 for the period beginning on October 1, 2015, and ending on December 4, 2015,” for “and $4,180,328 for the period beginning on October 1, 2015, and ending on November 20, 2015,”.
 
@@ -611,63 +611,63 @@ In subsection (j), the references to sections 5302(a)(8) and 5318 are added for 
 
     [Pub. L. 114–21][/us/pl/114/21] substituted “and $24,986,301 for the period beginning on October 1, 2014, and ending on July 31, 2015,” for “and $19,972,603 for the period beginning on October 1, 2014, and ending on May 31, 2015,”.
 
-    Subsec. (h)(3). [Pub. L. 114–94, § 3014(3)(B)][/us/pl/114/94/s3014/3/B], added par. (3) and struck out former par. (3), which read as follows: “of amounts not apportioned under paragraphs (1) and (2), 1.5 percent shall be apportioned to urbanized areas with populations of less than 200,000 in accordance with subsection (i);”.
+    Subsec. (h)(3). [Pub. L. 114–94][/us/pl/114/94], § 3014(3)(B), added par. (3) and struck out former par. (3), which read as follows: “of amounts not apportioned under paragraphs (1) and (2), 1.5 percent shall be apportioned to urbanized areas with populations of less than 200,000 in accordance with subsection (i);”.
 
     2014—Subsec. (h)(1). [Pub. L. 113–159][/us/pl/113/159] inserted “for each fiscal year ending before October 1, 2014, and $19,972,603 for the period beginning on October 1, 2014, and ending on May 31, 2015,” before “shall be set aside”.
 
     2012—[Pub. L. 112–141][/us/pl/112/141] amended section generally. Prior to amendment, section related to apportionment of appropriations for formula grants and consisted of subsecs. (a) to (k).
 
-    2008—Subsec. (a). [Pub. L. 110–244, § 201][/us/pl/110/244/s201](l)(1)(A), in introductory provisions, substituted “Of the amount apportioned under subsection (i)(2) to carry out section 5307—” for “Of the amount apportioned under subsection (i)(2)—”.
+    2008—Subsec. (a). [Pub. L. 110–244][/us/pl/110/244], § 201(l)(1)(A), in introductory provisions, substituted “Of the amount apportioned under subsection (i)(2) to carry out section 5307—” for “Of the amount apportioned under subsection (i)(2)—”.
 
-    Subsec. (a)(2). [Pub. L. 110–244, § 201][/us/pl/110/244/s201](l)(2), amended [Pub. L. 109–59, § 3034(d)(2)][/us/pl/109/59/s3034/d/2]. See 2005 Amendment note below.
+    Subsec. (a)(2). [Pub. L. 110–244][/us/pl/110/244], § 201(l)(2), amended [Pub. L. 109–59][/us/pl/109/59], § 3034(d)(2). See 2005 Amendment note below.
 
-    Subsec. (c). [Pub. L. 110–244, § 201][/us/pl/110/244/s201](l)(1)(C), redesignated subsec. (c) relating to study on incentives in formula programs as (k).
+    Subsec. (c). [Pub. L. 110–244][/us/pl/110/244], § 201(l)(1)(C), redesignated subsec. (c) relating to study on incentives in formula programs as (k).
 
-    Subsec. (d)(1). [Pub. L. 110–244, § 201][/us/pl/110/244/s201](l)(1)(B), substituted “subsections (a)(1)(C)(vi) and (b)(2)(B) of section 5338” for “subsections (a) and (h)(2) of section 5338”.
+    Subsec. (d)(1). [Pub. L. 110–244][/us/pl/110/244], § 201(l)(1)(B), substituted “subsections (a)(1)(C)(vi) and (b)(2)(B) of section 5338” for “subsections (a) and (h)(2) of section 5338”.
 
-    Subsec. (k). [Pub. L. 110–244, § 201][/us/pl/110/244/s201](l)(1)(C), redesignated subsec. (c) relating to study on incentives in formula programs as (k).
+    Subsec. (k). [Pub. L. 110–244][/us/pl/110/244], § 201(l)(1)(C), redesignated subsec. (c) relating to study on incentives in formula programs as (k).
 
-    2005—Subsec. (a). [Pub. L. 109–59, § 3034(d)(1)][/us/pl/109/59/s3034/d/1], which directed amendment of subsec. (a) by substituting “to carry out section 5307” for “of this title”, could not be executed because of prior amendment by [Pub. L. 109–59, § 3034(a)(4)][/us/pl/109/59/s3034/a/4]. See below.
+    2005—Subsec. (a). [Pub. L. 109–59][/us/pl/109/59], § 3034(d)(1), which directed amendment of subsec. (a) by substituting “to carry out section 5307” for “of this title”, could not be executed because of prior amendment by [Pub. L. 109–59][/us/pl/109/59], § 3034(a)(4). See below.
 
-    [Pub. L. 109–59, § 3034(a)(4)][/us/pl/109/59/s3034/a/4], substituted “Of the amount apportioned under subsection (i)(2)” for “Of the amount made available or appropriated under [section 5338(a) of this title][/us/usc/t49/s5338/a]” in introductory provisions.
+    [Pub. L. 109–59][/us/pl/109/59], § 3034(a)(4), substituted “Of the amount apportioned under subsection (i)(2)” for “Of the amount made available or appropriated under [section 5338(a) of this title][/us/usc/t49/s5338/a]” in introductory provisions.
 
-    Subsec. (a)(2). [Pub. L. 109–59, § 3034(d)(2)][/us/pl/109/59/s3034/d/2], as amended by [Pub. L. 110–244, § 201][/us/pl/110/244/s201](l)(2), inserted before period at end “, except that the amount apportioned to the Anchorage urbanized area under subsection (b) shall be available to the Alaska Railroad for any costs related to its passenger operations”.
+    Subsec. (a)(2). [Pub. L. 109–59][/us/pl/109/59], § 3034(d)(2), as amended by [Pub. L. 110–244][/us/pl/110/244], § 201(l)(2), inserted before period at end “, except that the amount apportioned to the Anchorage urbanized area under subsection (b) shall be available to the Alaska Railroad for any costs related to its passenger operations”.
 
-    Subsec. (b)(1). [Pub. L. 109–59, § 3034(d)(3)][/us/pl/109/59/s3034/d/3], inserted “and, beginning in fiscal year 2006, 60 percent of the directional route miles attributable to the Alaska Railroad passenger operations” before period at end.
+    Subsec. (b)(1). [Pub. L. 109–59][/us/pl/109/59], § 3034(d)(3), inserted “and, beginning in fiscal year 2006, 60 percent of the directional route miles attributable to the Alaska Railroad passenger operations” before period at end.
 
-    Subsec. (c). [Pub. L. 109–59, § 3034(c)][/us/pl/109/59/s3034/c], added at end of section subsec. (c) relating to study on incentives in formula programs.
+    Subsec. (c). [Pub. L. 109–59][/us/pl/109/59], § 3034(c), added at end of section subsec. (c) relating to study on incentives in formula programs.
 
-    Subsecs. (d) to (f). [Pub. L. 109–59, § 3034(a)(1)][/us/pl/109/59/s3034/a/1], (2), redesignated subsecs. (e) to (g) as (d) to (f), respectively, and struck out former subsec. (d) which read as follows: “\[Reserved.\]”.
+    Subsecs. (d) to (f). [Pub. L. 109–59][/us/pl/109/59], § 3034(a)(1), (2), redesignated subsecs. (e) to (g) as (d) to (f), respectively, and struck out former subsec. (d) which read as follows: “\[Reserved.\]”.
 
-    Subsec. (g). [Pub. L. 109–59, § 3034(a)(2)][/us/pl/109/59/s3034/a/2], redesignated subsec. (i) as (g). Former subsec. (g) redesignated (f).
+    Subsec. (g). [Pub. L. 109–59][/us/pl/109/59], § 3034(a)(2), redesignated subsec. (i) as (g). Former subsec. (g) redesignated (f).
 
-    Subsec. (g)(1). [Pub. L. 109–59, § 3002(b)(4)][/us/pl/109/59/s3002/b/4], substituted “public transportation” for “mass transportation”.
+    Subsec. (g)(1). [Pub. L. 109–59][/us/pl/109/59], § 3002(b)(4), substituted “public transportation” for “mass transportation”.
 
-    Subsec. (h). [Pub. L. 109–59, § 3034(d)(4)][/us/pl/109/59/s3034/d/4], substituted “a grant made with funds apportioned under” for “a grant made under” in two places.
+    Subsec. (h). [Pub. L. 109–59][/us/pl/109/59], § 3034(d)(4), substituted “a grant made with funds apportioned under” for “a grant made under” in two places.
 
-    [Pub. L. 109–59, § 3034(a)(1)][/us/pl/109/59/s3034/a/1], (2), redesignated subsec. (j) as (h) and struck out heading and text of former subsec. (h). Text read as follows: “If sufficient amounts are available, the Secretary of Transportation shall change apportionments under this section between the Mass Transit Account of the Highway Trust Fund and the general fund to ensure that each recipient receives from the general fund at least as much operating assistance made available each fiscal year under this section as the recipient is eligible to receive.”
+    [Pub. L. 109–59][/us/pl/109/59], § 3034(a)(1), (2), redesignated subsec. (j) as (h) and struck out heading and text of former subsec. (h). Text read as follows: “If sufficient amounts are available, the Secretary of Transportation shall change apportionments under this section between the Mass Transit Account of the Highway Trust Fund and the general fund to ensure that each recipient receives from the general fund at least as much operating assistance made available each fiscal year under this section as the recipient is eligible to receive.”
 
-    Subsec. (i). [Pub. L. 109–59, § 3034(a)(3)][/us/pl/109/59/s3034/a/3], added subsec. (i). Former subsec. (i) redesignated (g).
+    Subsec. (i). [Pub. L. 109–59][/us/pl/109/59], § 3034(a)(3), added subsec. (i). Former subsec. (i) redesignated (g).
 
-    Subsec. (j). [Pub. L. 109–59, § 3034(b)][/us/pl/109/59/s3034/b], added subsec. (j). Former subsec. (j) redesignated (h).
+    Subsec. (j). [Pub. L. 109–59][/us/pl/109/59], § 3034(b), added subsec. (j). Former subsec. (j) redesignated (h).
 
-    Subsec. (k). [Pub. L. 109–59, § 3034(a)(1)][/us/pl/109/59/s3034/a/1], struck out heading and text of subsec. (k). Text read as follows: “An area designated an urbanized area under the 1980 census and not designated an urbanized area under the 1990 census for the fiscal year ending September 30, 1993, is eligible to receive—
+    Subsec. (k). [Pub. L. 109–59][/us/pl/109/59], § 3034(a)(1), struck out heading and text of subsec. (k). Text read as follows: “An area designated an urbanized area under the 1980 census and not designated an urbanized area under the 1990 census for the fiscal year ending September 30, 1993, is eligible to receive—
 
     “(1) 50 percent of the amount the area would have received if the area had been an urbanized area as defined by [section 5302(a)(13) of this title][/us/usc/t49/s5302/a/13]; and
 
     “(2) an amount equal to 50 percent of the amount that the State in which the area is located would have received if the area had been an area other than an urbanized area.”
 
-    1998—[Pub. L. 105–178, § 3027(a)][/us/pl/105/178/s3027/a], substituted “formula grants” for “block grants” in section catchline.
+    1998—[Pub. L. 105–178][/us/pl/105/178], § 3027(a), substituted “formula grants” for “block grants” in section catchline.
 
-    Subsec. (a). [Pub. L. 105–178, § 3029(b)(10)][/us/pl/105/178/s3029/b/10], substituted “5338(a) of this title” for “5338(f) of this title” in introductory provisions.
+    Subsec. (a). [Pub. L. 105–178][/us/pl/105/178], § 3029(b)(10), substituted “5338(a) of this title” for “5338(f) of this title” in introductory provisions.
 
-    Subsec. (d). [Pub. L. 105–178, § 3027(b)][/us/pl/105/178/s3027/b], amended subsec. (d) generally, substituting “\[Reserved.\]” for former provisions relating to operating assistance.
+    Subsec. (d). [Pub. L. 105–178][/us/pl/105/178], § 3027(b), amended subsec. (d) generally, substituting “\[Reserved.\]” for former provisions relating to operating assistance.
 
-    Subsec. (e)(1). [Pub. L. 105–178, § 3029(b)(11)][/us/pl/105/178/s3029/b/11], substituted “subsections (a) and (h)(2) of section 5338” for “section 5338(f)”.
+    Subsec. (e)(1). [Pub. L. 105–178][/us/pl/105/178], § 3029(b)(11), substituted “subsections (a) and (h)(2) of section 5338” for “section 5338(f)”.
 
-    1996—Subsec. (b)(2)(A), (B). [Pub. L. 104–287, § 5(19)(A)][/us/pl/104/287/s5/19/A], inserted at end “An urbanized area with a population of at least 750,000 in which commuter rail transportation is provided shall receive at least .75 percent of the total amount apportioned under this subparagraph.”
+    1996—Subsec. (b)(2)(A), (B). [Pub. L. 104–287][/us/pl/104/287], § 5(19)(A), inserted at end “An urbanized area with a population of at least 750,000 in which commuter rail transportation is provided shall receive at least .75 percent of the total amount apportioned under this subparagraph.”
 
-    Subsec. (b)(2)(C) to (E). [Pub. L. 104–287, § 5(19)(B)][/us/pl/104/287/s5/19/B], (C), redesignated subpars. (D) and (E) as (C) and (D), respectively, and struck out former subpar. (C) which read as follows: “An urbanized area with a population of at least 750,000 in which commuter rail transportation is provided shall receive at least .75 percent of the total amount apportioned under this subsection.”
+    Subsec. (b)(2)(C) to (E). [Pub. L. 104–287][/us/pl/104/287], § 5(19)(B), (C), redesignated subpars. (D) and (E) as (C) and (D), respectively, and struck out former subpar. (C) which read as follows: “An urbanized area with a population of at least 750,000 in which commuter rail transportation is provided shall receive at least .75 percent of the total amount apportioned under this subsection.”
 
  __Effective Date of 2015 Amendment__ 
 
@@ -687,7 +687,7 @@ In subsection (j), the references to sections 5302(a)(8) and 5318 are added for 
 
  __Urbanized Area Formula Study__ 
 
-    [Pub. L. 105–178, title III, § 3033][/us/pl/105/178/s3033], June 9, 1998, [112 Stat. 386][/us/stat/112/386], required the Secretary of Transportation to conduct a study on the success of the formula used to apportion funds to urbanized areas and to submit a report no later than Dec. 31, 1999.
+    [Pub. L. 105–178, title III][/us/pl/105/178/tIII], § 3033, June 9, 1998, [112 Stat. 386][/us/stat/112/386], required the Secretary of Transportation to conduct a study on the success of the formula used to apportion funds to urbanized areas and to submit a report no later than Dec. 31, 1999.
 
 ----------
 
@@ -698,29 +698,29 @@ In subsection (j), the references to sections 5302(a)(8) and 5318 are added for 
 
 [/us/usc/t49/s5338/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5338%2Fa%2F2%2FC
 [/us/usc/t49/s5307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5307
-[/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F840
-[/us/pl/104/287/s5/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F19
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3390
-[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtIII
 [/us/stat/112/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F366
-[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIII
 [/us/stat/119/1545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1545
-[/us/pl/110/244/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs201
+[/us/pl/110/244/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2FtII
 [/us/stat/122/1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1611
-[/us/pl/112/141/s20026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs20026
+[/us/pl/112/141/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdB
 [/us/stat/126/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F719
-[/us/pl/113/159/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159%2Fs1202
+[/us/pl/113/159/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159%2FtI
 [/us/stat/128/1845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1845
-[/us/pl/114/21/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F21%2Fs1202
+[/us/pl/114/21/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F21%2FtI
 [/us/stat/129/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F223
-[/us/pl/114/41/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs1202
+[/us/pl/114/41/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2FtI
 [/us/stat/129/450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F450
-[/us/pl/114/73/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73%2Fs1202
+[/us/pl/114/73/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73%2FtI
 [/us/stat/129/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F573
-[/us/pl/114/87/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F87%2Fs1202
+[/us/pl/114/87/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F87%2FtI
 [/us/stat/129/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F682
-[/us/pl/114/94/s3014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3014
+[/us/pl/114/94/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtIII
 [/us/stat/129/1478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1478
 [/us/usc/t49/s5338/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5338%2Ff
 [/us/pl/100/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17
@@ -729,45 +729,45 @@ In subsection (j), the references to sections 5302(a)(8) and 5318 are added for 
 [/us/act/1994-07-05/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1994-07-05%2Fs1
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F840
-[/us/pl/114/94/s3014/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3014%2F1
-[/us/pl/114/94/s3014/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3014%2F2
-[/us/pl/114/94/s3014/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3014%2F3%2FA
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F87
 [/us/pl/114/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73
 [/us/pl/114/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41
 [/us/pl/114/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F21
-[/us/pl/114/94/s3014/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3014%2F3%2FB
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/113/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
-[/us/pl/110/244/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs201
-[/us/pl/110/244/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs201
-[/us/pl/109/59/s3034/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3034%2Fd%2F2
-[/us/pl/110/244/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs201
-[/us/pl/110/244/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs201
-[/us/pl/110/244/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs201
-[/us/pl/109/59/s3034/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3034%2Fd%2F1
-[/us/pl/109/59/s3034/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3034%2Fa%2F4
-[/us/pl/109/59/s3034/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3034%2Fa%2F4
+[/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
+[/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
+[/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
+[/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/usc/t49/s5338/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5338%2Fa
-[/us/pl/109/59/s3034/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3034%2Fd%2F2
-[/us/pl/110/244/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs201
-[/us/pl/109/59/s3034/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3034%2Fd%2F3
-[/us/pl/109/59/s3034/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3034%2Fc
-[/us/pl/109/59/s3034/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3034%2Fa%2F1
-[/us/pl/109/59/s3034/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3034%2Fa%2F2
-[/us/pl/109/59/s3002/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3002%2Fb%2F4
-[/us/pl/109/59/s3034/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3034%2Fd%2F4
-[/us/pl/109/59/s3034/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3034%2Fa%2F1
-[/us/pl/109/59/s3034/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3034%2Fa%2F3
-[/us/pl/109/59/s3034/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3034%2Fb
-[/us/pl/109/59/s3034/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3034%2Fa%2F1
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/usc/t49/s5302/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5302%2Fa%2F13
-[/us/pl/105/178/s3027/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs3027%2Fa
-[/us/pl/105/178/s3029/b/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs3029%2Fb%2F10
-[/us/pl/105/178/s3027/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs3027%2Fb
-[/us/pl/105/178/s3029/b/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs3029%2Fb%2F11
-[/us/pl/104/287/s5/19/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F19%2FA
-[/us/pl/104/287/s5/19/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F19%2FB
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
@@ -784,7 +784,7 @@ In subsection (j), the references to sections 5302(a)(8) and 5318 are added for 
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/pl/104/287/s8/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs8%2F1
 [/us/usc/t49/s5303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5303
-[/us/pl/105/178/s3033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs3033
+[/us/pl/105/178/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtIII
 [/us/stat/112/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F386
 
 

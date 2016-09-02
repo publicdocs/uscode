@@ -45,7 +45,7 @@
 
     The Administrator shall ensure that a transcript of the meeting is kept and made available to the public not later than 3 business days after the conclusion of the meeting.
 
-(Added [Pub. L. 108–176, title IV, § 422(a)][/us/pl/108/176/s422/a], Dec. 12, 2003, [117 Stat. 2552][/us/stat/117/2552].)
+(Added [Pub. L. 108–176, title IV][/us/pl/108/176/tIV], § 422(a), Dec. 12, 2003, [117 Stat. 2552][/us/stat/117/2552].)
 
  __Effective Date__ 
 
@@ -53,7 +53,7 @@
 
  __Schedule Reduction__ 
 
-[Pub. L. 112–95, title IV, § 413][/us/pl/112/95/s413], Feb. 14, 2012, [126 Stat. 89][/us/stat/126/89], provided that:
+[Pub. L. 112–95, title IV][/us/pl/112/95/tIV], § 413, Feb. 14, 2012, [126 Stat. 89][/us/stat/126/89], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -80,11 +80,11 @@
 ----------
 ----------
 
-[/us/pl/108/176/s422/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs422%2Fa
+[/us/pl/108/176/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtIV
 [/us/stat/117/2552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2552
 [/us/pl/108/176/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106
-[/us/pl/112/95/s413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs413
+[/us/pl/112/95/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtIV
 [/us/stat/126/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F89
 [/us/usc/t49/s41722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs41722
 

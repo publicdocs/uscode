@@ -37,7 +37,7 @@
 
         Nothing in this subsection shall create a cost to the Government.
 
-(Added [Pub. L. 108–334, title V, § 515(a)][/us/pl/108/334/s515/a], Oct. 18, 2004, [118 Stat. 1317][/us/stat/118/1317]; amended [Pub. L. 112–271, § 2(a)][/us/pl/112/271/s2/a], Jan. 14, 2013, [126 Stat. 2446][/us/stat/126/2446].)
+(Added [Pub. L. 108–334, title V][/us/pl/108/334/tV], § 515(a), Oct. 18, 2004, [118 Stat. 1317][/us/stat/118/1317]; amended [Pub. L. 112–271][/us/pl/112/271], § 2(a), Jan. 14, 2013, [126 Stat. 2446][/us/stat/126/2446].)
 
  __Amendments__ 
 
@@ -45,7 +45,7 @@
 
  __Annual Report__ 
 
-[Pub. L. 108–334, title V, § 515(b)][/us/pl/108/334/s515/b], Oct. 18, 2004, [118 Stat. 1318][/us/stat/118/1318], provided that: 
+[Pub. L. 108–334, title V][/us/pl/108/334/tV], § 515(b), Oct. 18, 2004, [118 Stat. 1318][/us/stat/118/1318], provided that: 
 
 > “Not later than 180 days after the date of enactment of this Act \[Oct. 18, 2004\] and annually thereafter, the Administrator of the Transportation Security Administration shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives; the Committee on Appropriations of the House of Representatives; the Committee on Commerce, Science and Transportation of the Senate; and the Committee on Appropriations of the Senate, a report that contains a detailed description of the amount of unclaimed money recovered in total and at each individual airport, and specifically how the unclaimed money is being used to provide civil aviation security.”
 
@@ -57,12 +57,12 @@
 ----------
 
 [/us/usc/t31/s3302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3302
-[/us/pl/108/334/s515/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F334%2Fs515%2Fa
+[/us/pl/108/334/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F334%2FtV
 [/us/stat/118/1317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1317
-[/us/pl/112/271/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F271%2Fs2%2Fa
+[/us/pl/112/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F271
 [/us/stat/126/2446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2446
 [/us/pl/112/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F271
-[/us/pl/108/334/s515/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F334%2Fs515%2Fb
+[/us/pl/108/334/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F334%2FtV
 [/us/stat/118/1318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1318
 
 

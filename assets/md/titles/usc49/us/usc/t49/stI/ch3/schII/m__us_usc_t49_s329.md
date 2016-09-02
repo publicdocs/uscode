@@ -55,11 +55,11 @@
 
         To assist in the publication of data under paragraph (1), the Secretary of Transportation may request the Secretary of Homeland Security to periodically report on the number of complaints about security screening received by the Secretary of Homeland Security.
 
-([Pub. L. 97–449, § 1(b)][/us/pl/97/449/s1/b], Jan. 12, 1983, [96 Stat. 2426][/us/stat/96/2426]; [Pub. L. 98–216, § 2(2)][/us/pl/98/216/s2/2], Feb. 14, 1984, [98 Stat. 5][/us/stat/98/5]; [Pub. L. 98–443, § 5(a)][/us/pl/98/443/s5/a], Oct. 4, 1984, [98 Stat. 1705][/us/stat/98/1705]; [Pub. L. 103–272, § 4(j)(7)][/us/pl/103/272/s4/j/7], July 5, 1994, [108 Stat. 1366][/us/stat/108/1366]; [Pub. L. 104–287, § 5(3)][/us/pl/104/287/s5/3], Oct. 11, 1996, [110 Stat. 3389][/us/stat/110/3389]; [Pub. L. 108–176, title IV, § 421][/us/pl/108/176/s421], title VIII, § 805(a), Dec. 12, 2003, [117 Stat. 2551][/us/stat/117/2551], 2587.)
+([Pub. L. 97–449][/us/pl/97/449], § 1(b), Jan. 12, 1983, [96 Stat. 2426][/us/stat/96/2426]; [Pub. L. 98–216][/us/pl/98/216], § 2(2), Feb. 14, 1984, [98 Stat. 5][/us/stat/98/5]; [Pub. L. 98–443][/us/pl/98/443], § 5(a), Oct. 4, 1984, [98 Stat. 1705][/us/stat/98/1705]; [Pub. L. 103–272][/us/pl/103/272], § 4(j)(7), July 5, 1994, [108 Stat. 1366][/us/stat/108/1366]; [Pub. L. 104–287][/us/pl/104/287], § 5(3), Oct. 11, 1996, [110 Stat. 3389][/us/stat/110/3389]; [Pub. L. 108–176, title IV][/us/pl/108/176/tIV], § 421, title VIII, § 805(a), Dec. 12, 2003, [117 Stat. 2551][/us/stat/117/2551], 2587.)
 
  __Amendment of Subsection (b)(1)__ 
 
-    [Pub. L. 108–176, title VIII, § 805][/us/pl/108/176/s805], Dec. 12, 2003, [117 Stat. 2588][/us/stat/117/2588], provided that, effective on the date of the issuance of a final rule to modernize the Origin and Destination Survey of Airline Passenger Traffic, pursuant to the Advance Notice of Proposed Rulemaking published July 15, 1998 (Regulation Identifier Number 2105–AC71), that reduces the reporting burden for air carriers through electronic filing of the survey data collected under subsection (b)(1) of this section, subsection (b)(1) of this section is amended by striking “except that in no case” and all that follows through the semicolon at the end and inserting the following: “except that, if the Secretary requires air carriers to provide flight-specific information, the Secretary—
+    [Pub. L. 108–176, title VIII][/us/pl/108/176/tVIII], § 805, Dec. 12, 2003, [117 Stat. 2588][/us/stat/117/2588], provided that, effective on the date of the issuance of a final rule to modernize the Origin and Destination Survey of Airline Passenger Traffic, pursuant to the Advance Notice of Proposed Rulemaking published July 15, 1998 (Regulation Identifier Number 2105–AC71), that reduces the reporting burden for air carriers through electronic filing of the survey data collected under subsection (b)(1) of this section, subsection (b)(1) of this section is amended by striking “except that in no case” and all that follows through the semicolon at the end and inserting the following: “except that, if the Secretary requires air carriers to provide flight-specific information, the Secretary—
 
     “(A) shall not disseminate fare information for a specific flight to the general public for a period of at least 9 months following the date of the flight; and
 
@@ -215,15 +215,15 @@ In subsection (a), the word “information” is substituted for “data, statis
 
  __Amendments__ 
 
-    2003—Subsec. (e). [Pub. L. 108–176, § 421][/us/pl/108/176/s421], added subsec. (e).
+    2003—Subsec. (e). [Pub. L. 108–176][/us/pl/108/176], § 421, added subsec. (e).
 
-    1996—Subsec. (b)(1). [Pub. L. 104–287, § 5(3)(A)][/us/pl/104/287/s5/3/A], substituted “(as that term is used in part A of subtitle VII of this title)” for “(as those terms are used in such Act)”.
+    1996—Subsec. (b)(1). [Pub. L. 104–287][/us/pl/104/287], § 5(3)(A), substituted “(as that term is used in part A of subtitle VII of this title)” for “(as those terms are used in such Act)”.
 
-    Subsec. (d). [Pub. L. 104–287, § 5(3)(B)][/us/pl/104/287/s5/3/B], substituted “that part” for “that Act”.
+    Subsec. (d). [Pub. L. 104–287][/us/pl/104/287], § 5(3)(B), substituted “that part” for “that Act”.
 
-    1994—Subsec. (b)(1). [Pub. L. 103–272, § 4(j)(7)(A)][/us/pl/103/272/s4/j/7/A], substituted “chapter 11 of this title” for “title VII of the Federal Aviation Act of 1958 ([49 U.S.C. 1441][/us/usc/t49/s1441] et seq.)”, “in interstate air transportation” for “in interstate and overseas air transportation” in two places, “for interstate air transportation” for “for interstate or overseas air transportation”, and “subchapter II of chapter 417 of this title” for “section 419 of the Federal Aviation Act of 1958”.
+    1994—Subsec. (b)(1). [Pub. L. 103–272][/us/pl/103/272], § 4(j)(7)(A), substituted “chapter 11 of this title” for “title VII of the Federal Aviation Act of 1958 ([49 U.S.C. 1441][/us/usc/t49/s1441] et seq.)”, “in interstate air transportation” for “in interstate and overseas air transportation” in two places, “for interstate air transportation” for “for interstate or overseas air transportation”, and “subchapter II of chapter 417 of this title” for “section 419 of the Federal Aviation Act of 1958”.
 
-    Subsec. (d). [Pub. L. 103–272, § 4(j)(7)(B)][/us/pl/103/272/s4/j/7/B], substituted “part A of subtitle VII of this title” for “the Federal Aviation Act of 1958 (49 App. U.S.C. 1301 et seq.)”.
+    Subsec. (d). [Pub. L. 103–272][/us/pl/103/272], § 4(j)(7)(B), substituted “part A of subtitle VII of this title” for “the Federal Aviation Act of 1958 (49 App. U.S.C. 1301 et seq.)”.
 
     1984—Subsec. (b)(1). [Pub. L. 98–443][/us/pl/98/443] struck out reference to information collected and disseminated by the Civil Aeronautics Board under section 1371 et seq. of this title, and added cls. (A) and (B).
 
@@ -235,13 +235,13 @@ In subsection (a), the word “information” is substituted for “data, statis
 
     Amendment by [section 421 of Pub. L. 108–176][/us/pl/108/176/s421] applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see [section 3 of Pub. L. 108–176][/us/pl/108/176/s3], set out as a note under [section 106 of this title][/us/usc/t49/s106].
 
-[Pub. L. 108–176, title VIII, § 805(b)][/us/pl/108/176/s805/b], Dec. 12, 2003, [117 Stat. 2588][/us/stat/117/2588], provided that: 
+[Pub. L. 108–176, title VIII][/us/pl/108/176/tVIII], § 805(b), Dec. 12, 2003, [117 Stat. 2588][/us/stat/117/2588], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the issuance of a final rule to modernize the Origin and Destination Survey of Airline Passenger Traffic, pursuant to the Advance Notice of Proposed Rulemaking published July 15, 1998 (Regulation Identifier Number 2105–AC71), that reduces the reporting burden for air carriers through electronic filing of the survey data collected under [section 329(b)(1) of title 49][/us/usc/t49/s329/b/1], United States Code.”
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–443, § 5(b)][/us/pl/98/443/s5/b], Oct. 4, 1984, [98 Stat. 1705][/us/stat/98/1705], provided that: 
+[Pub. L. 98–443][/us/pl/98/443], § 5(b), Oct. 4, 1984, [98 Stat. 1705][/us/stat/98/1705], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall take effect on January 1, 1985.”
 
@@ -252,19 +252,19 @@ In subsection (a), the word “information” is substituted for “data, statis
 ----------
 ----------
 
-[/us/pl/97/449/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449%2Fs1%2Fb
+[/us/pl/97/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449
 [/us/stat/96/2426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2426
-[/us/pl/98/216/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F216%2Fs2%2F2
+[/us/pl/98/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F216
 [/us/stat/98/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F5
-[/us/pl/98/443/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F443%2Fs5%2Fa
+[/us/pl/98/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F443
 [/us/stat/98/1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1705
-[/us/pl/103/272/s4/j/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs4%2Fj%2F7
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1366
-[/us/pl/104/287/s5/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F3
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3389
-[/us/pl/108/176/s421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs421
+[/us/pl/108/176/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtIV
 [/us/stat/117/2551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2551
-[/us/pl/108/176/s805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs805
+[/us/pl/108/176/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtVIII
 [/us/stat/117/2588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2588
 [/us/usc/t49/s1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1441
 [/us/usc/t49/s1371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1371
@@ -276,22 +276,22 @@ In subsection (a), the word “information” is substituted for “data, statis
 [/us/act/1994-07-05/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1994-07-05%2Fs1
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F745
-[/us/pl/108/176/s421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs421
-[/us/pl/104/287/s5/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F3%2FA
-[/us/pl/104/287/s5/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F3%2FB
-[/us/pl/103/272/s4/j/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs4%2Fj%2F7%2FA
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/usc/t49/s1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1441
-[/us/pl/103/272/s4/j/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs4%2Fj%2F7%2FB
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/pl/98/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F443
 [/us/pl/98/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F216
 [/us/pl/98/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F216
 [/us/pl/108/176/s421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs421
 [/us/pl/108/176/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106
-[/us/pl/108/176/s805/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs805%2Fb
+[/us/pl/108/176/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtVIII
 [/us/stat/117/2588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2588
 [/us/usc/t49/s329/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs329%2Fb%2F1
-[/us/pl/98/443/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F443%2Fs5%2Fb
+[/us/pl/98/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F443
 [/us/stat/98/1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1705
 
 

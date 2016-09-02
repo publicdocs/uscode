@@ -17,7 +17,7 @@
 
     Subject to review and approval by the Board, motor carriers subject to jurisdiction under subchapter I of chapter 135 (other than motor carriers providing transportation of household goods) and shippers may resolve, by mutual consent, overcharge and under-charge claims resulting from incorrect tariff provisions or billing errors arising from the inadvertent failure to properly and timely file and maintain agreed upon rates, rules, or classifications in compliance with section 13702 or, with respect to transportation provided before January 1, 1996, sections 10761 and 10762, as in effect on December 31, 1995. Resolution of such claims among the parties shall not subject any party to the penalties for departing from a tariff.
 
-(Added [Pub. L. 104–88, title I, § 103][/us/pl/104/88/s103], Dec. 29, 1995, [109 Stat. 912][/us/stat/109/912]; amended [Pub. L. 104–287, § 5(39)][/us/pl/104/287/s5/39], Oct. 11, 1996, [110 Stat. 3392][/us/stat/110/3392].)
+(Added [Pub. L. 104–88, title I][/us/pl/104/88/tI], § 103, Dec. 29, 1995, [109 Stat. 912][/us/stat/109/912]; amended [Pub. L. 104–287][/us/pl/104/287], § 5(39), Oct. 11, 1996, [110 Stat. 3392][/us/stat/110/3392].)
 
  __Historical and Revision Notes__ 
 
@@ -27,11 +27,11 @@
 
  __References in Text__ 
 
-    Sections 10761 and 10762, referred to in text, were omitted in the general amendment of this subtitle by [Pub. L. 104–88, title I, § 102(a)][/us/pl/104/88/s102/a], Dec. 29, 1995, [109 Stat. 804][/us/stat/109/804], effective Jan. 1, 1996.
+    Sections 10761 and 10762, referred to in text, were omitted in the general amendment of this subtitle by [Pub. L. 104–88, title I][/us/pl/104/88/tI], § 102(a), Dec. 29, 1995, [109 Stat. 804][/us/stat/109/804], effective Jan. 1, 1996.
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [section 11712 of this title][/us/usc/t49/s11712] prior to the general amendment of this subtitle by [Pub. L. 104–88, § 102(a)][/us/pl/104/88/s102/a].
+    Provisions similar to those in this section were contained in [section 11712 of this title][/us/usc/t49/s11712] prior to the general amendment of this subtitle by [Pub. L. 104–88][/us/pl/104/88], § 102(a).
 
  __Amendments__ 
 
@@ -44,15 +44,15 @@
 ----------
 ----------
 
-[/us/pl/104/88/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs103
+[/us/pl/104/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtI
 [/us/stat/109/912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F912
-[/us/pl/104/287/s5/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F39
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3392
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
-[/us/pl/104/88/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs102%2Fa
+[/us/pl/104/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtI
 [/us/stat/109/804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F804
 [/us/usc/t49/s11712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs11712
-[/us/pl/104/88/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs102%2Fa
+[/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 
 

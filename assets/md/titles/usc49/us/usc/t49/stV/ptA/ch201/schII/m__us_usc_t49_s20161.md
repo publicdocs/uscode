@@ -43,7 +43,7 @@
 
     If the Secretary approves by order new technology to provide warning to highway users at a highway-rail grade crossing and such technology is installed at a highway-rail grade crossing in accordance with the conditions of the approval, this determination preempts any State statute or regulation concerning the adequacy of the technology in providing warning at the crossing.
 
-(Added [Pub. L. 110–432, div. A, title II, § 210(a)][/us/pl/110/432/s210/a], Oct. 16, 2008, [122 Stat. 4876][/us/stat/122/4876].)
+(Added [Pub. L. 110–432, div. A, title II][/us/pl/110/432/dA/tII], § 210(a), Oct. 16, 2008, [122 Stat. 4876][/us/stat/122/4876].)
 
  __References in Text__ 
 
@@ -56,7 +56,7 @@
 ----------
 ----------
 
-[/us/pl/110/432/s210/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs210%2Fa
+[/us/pl/110/432/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdA%2FtII
 [/us/stat/122/4876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4876
 [/us/pl/93/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87
 [/us/stat/87/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F282

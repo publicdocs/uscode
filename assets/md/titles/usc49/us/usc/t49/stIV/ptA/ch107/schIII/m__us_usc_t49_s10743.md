@@ -43,13 +43,13 @@
 
         (2) A rail carrier may bring an action to enforce liability under subsection (b) of this section. That carrier must bring the action during the period provided in [section 11705(a) of this title][/us/usc/t49/s11705/a] or by the end of the 6th month after final judgment against it in an action against the shipper, consignor, or other party under that section.
 
-(Added [Pub. L. 104–88, title I, § 102(a)][/us/pl/104/88/s102/a], Dec. 29, 1995, [109 Stat. 819][/us/stat/109/819].)
+(Added [Pub. L. 104–88, title I][/us/pl/104/88/tI], § 102(a), Dec. 29, 1995, [109 Stat. 819][/us/stat/109/819].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [section 10744 of this title][/us/usc/t49/s10744] prior to the general amendment of this subtitle by [Pub. L. 104–88, § 102(a)][/us/pl/104/88/s102/a].
+    Provisions similar to those in this section were contained in [section 10744 of this title][/us/usc/t49/s10744] prior to the general amendment of this subtitle by [Pub. L. 104–88][/us/pl/104/88], § 102(a).
 
-    A prior section 10743, [Pub. L. 95–473][/us/pl/95/473], Oct. 17, 1978, [92 Stat. 1391][/us/stat/92/1391]; [Pub. L. 99–521, § 7(i)][/us/pl/99/521/s7/i], Oct. 22, 1986, [100 Stat. 2995][/us/stat/100/2995], related to payment of rates, prior to the general amendment of this subtitle by [Pub. L. 104–88, § 102(a)][/us/pl/104/88/s102/a]. See [section 13707 of this title][/us/usc/t49/s13707].
+    A prior section 10743, [Pub. L. 95–473][/us/pl/95/473], Oct. 17, 1978, [92 Stat. 1391][/us/stat/92/1391]; [Pub. L. 99–521][/us/pl/99/521], § 7(i), Oct. 22, 1986, [100 Stat. 2995][/us/stat/100/2995], related to payment of rates, prior to the general amendment of this subtitle by [Pub. L. 104–88][/us/pl/104/88], § 102(a). See [section 13707 of this title][/us/usc/t49/s13707].
 
 ----------
 
@@ -60,15 +60,15 @@
 
 [/us/usc/t49/s11705/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs11705%2Fa
 [/us/usc/t49/s11705/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs11705%2Fa
-[/us/pl/104/88/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs102%2Fa
+[/us/pl/104/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtI
 [/us/stat/109/819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F819
 [/us/usc/t49/s10744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs10744
-[/us/pl/104/88/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs102%2Fa
+[/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/95/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F473
 [/us/stat/92/1391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1391
-[/us/pl/99/521/s7/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F521%2Fs7%2Fi
+[/us/pl/99/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F521
 [/us/stat/100/2995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2995
-[/us/pl/104/88/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs102%2Fa
+[/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/usc/t49/s13707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs13707
 
 

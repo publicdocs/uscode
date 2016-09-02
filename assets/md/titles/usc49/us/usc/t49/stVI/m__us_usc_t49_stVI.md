@@ -185,7 +185,7 @@ PART C—INFORMATION, STANDARDS, AND REQUIREMENTS  </td>
 
  __Amendments__ 
 
-    1997—[Pub. L. 105–102, § 2(17)][/us/pl/105/102/s2/17], Nov. 20, 1997, [111 Stat. 2205][/us/stat/111/2205], substituted “National Motor Vehicle Title Information System” for “National Automobile Title Information System” in item for chapter 305.
+    1997—[Pub. L. 105–102][/us/pl/105/102], § 2(17), Nov. 20, 1997, [111 Stat. 2205][/us/stat/111/2205], substituted “National Motor Vehicle Title Information System” for “National Automobile Title Information System” in item for chapter 305.
 
 ----------
 
@@ -194,7 +194,7 @@ PART C—INFORMATION, STANDARDS, AND REQUIREMENTS  </td>
 ----------
 ----------
 
-[/us/pl/105/102/s2/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102%2Fs2%2F17
+[/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/stat/111/2205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2205
 
 

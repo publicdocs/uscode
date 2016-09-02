@@ -57,7 +57,7 @@
 
     A State receiving financial assistance under [section 31102 of this title][/us/usc/t49/s31102] in a fiscal year may enforce in that fiscal year a regulation on commercial motor vehicle safety adopted by the State as the regulation applies to commercial motor vehicles and operators leased to the Government.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1010][/us/stat/108/1010]; [Pub. L. 105–178, title IV, § 4008(f)][/us/pl/105/178/s4008/f], (g), June 9, 1998, [112 Stat. 405][/us/stat/112/405].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1010][/us/stat/108/1010]; [Pub. L. 105–178, title IV][/us/pl/105/178/tIV], § 4008(f), (g), June 9, 1998, [112 Stat. 405][/us/stat/112/405].)
 
 <table>
 
@@ -185,9 +185,9 @@ Oct. 30, 1984, Pub. L. 98–554, 98 Stat. 2829, § 210(g); added Nov. 16, 1990
 
  __Amendments__ 
 
-    1998—Subsec. (a). [Pub. L. 105–178, § 4008(f)][/us/pl/105/178/s4008/f], substituted “the regulations issued under section 31136” for “part 393 of title 49, Code of Federal Regulations”.
+    1998—Subsec. (a). [Pub. L. 105–178][/us/pl/105/178], § 4008(f), substituted “the regulations issued under section 31136” for “part 393 of title 49, Code of Federal Regulations”.
 
-    Subsec. (c)(1)(C). [Pub. L. 105–178, § 4008(g)][/us/pl/105/178/s4008/g], amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “prevent a State from enforcing a program for inspection of commercial motor vehicles that meets the requirements for membership in the Commercial Vehicle Safety Alliance, as those requirements were in effect on October 30, 1984; or”.
+    Subsec. (c)(1)(C). [Pub. L. 105–178][/us/pl/105/178], § 4008(g), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “prevent a State from enforcing a program for inspection of commercial motor vehicles that meets the requirements for membership in the Commercial Vehicle Safety Alliance, as those requirements were in effect on October 30, 1984; or”.
 
 ----------
 
@@ -199,12 +199,12 @@ Oct. 30, 1984, Pub. L. 98–554, 98 Stat. 2829, § 210(g); added Nov. 16, 1990
 [/us/usc/t49/s31136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31136
 [/us/usc/t49/s31102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31102
 [/us/usc/t49/s31102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31102
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1010
-[/us/pl/105/178/s4008/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4008%2Ff
+[/us/pl/105/178/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtIV
 [/us/stat/112/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F405
 [/us/usc/t49/s31102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31102
-[/us/pl/105/178/s4008/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4008%2Ff
-[/us/pl/105/178/s4008/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4008%2Fg
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
 
 

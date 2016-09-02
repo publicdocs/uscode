@@ -185,7 +185,7 @@
 
         (4) any recommendations the Secretary may have for improving such grant programs.
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 773][/us/stat/108/773]; [Pub. L. 103–311, title I][/us/pl/103/311], §§ 105, 119(a), (d)(2), (3), Aug. 26, 1994, [108 Stat. 1673][/us/stat/108/1673], 1679, 1680; [Pub. L. 103–429, § 7(c)][/us/pl/103/429/s7/c], Oct. 31, 1994, [108 Stat. 4389][/us/stat/108/4389]; [Pub. L. 104–287][/us/pl/104/287], §§ 5(8), 6(b), Oct. 11, 1996, [110 Stat. 3389][/us/stat/110/3389], 3398; [Pub. L. 109–59, title VII][/us/pl/109/59], §§ 7114(a)–(d)(2), (e), 7126, Aug. 10, 2005, [119 Stat. 1900][/us/stat/119/1900], 1909; [Pub. L. 109–295, title VI, § 612(c)][/us/pl/109/295/s612/c], Oct. 4, 2006, [120 Stat. 1410][/us/stat/120/1410]; [Pub. L. 112–141, div. C, title III, § 33004(b)][/us/pl/112/141/s33004/b], July 6, 2012, [126 Stat. 832][/us/stat/126/832]; [Pub. L. 114–94, div. A, title VII, § 7203(a)][/us/pl/114/94/s7203/a], (b)(2), Dec. 4, 2015, [129 Stat. 1589][/us/stat/129/1589], 1591.)
+([Pub. L. 103–272][/us/pl/103/272], § 1(d), July 5, 1994, [108 Stat. 773][/us/stat/108/773]; [Pub. L. 103–311, title I][/us/pl/103/311/tI], §§ 105, 119(a), (d)(2), (3), Aug. 26, 1994, [108 Stat. 1673][/us/stat/108/1673], 1679, 1680; [Pub. L. 103–429][/us/pl/103/429], § 7(c), Oct. 31, 1994, [108 Stat. 4389][/us/stat/108/4389]; [Pub. L. 104–287][/us/pl/104/287], §§ 5(8), 6(b), Oct. 11, 1996, [110 Stat. 3389][/us/stat/110/3389], 3398; [Pub. L. 109–59, title VII][/us/pl/109/59/tVII], §§ 7114(a)–(d)(2), (e), 7126, Aug. 10, 2005, [119 Stat. 1900][/us/stat/119/1900], 1909; [Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 612(c), Oct. 4, 2006, [120 Stat. 1410][/us/stat/120/1410]; [Pub. L. 112–141, div. C, title III][/us/pl/112/141/dC/tIII], § 33004(b), July 6, 2012, [126 Stat. 832][/us/stat/126/832]; [Pub. L. 114–94, div. A, title VII][/us/pl/114/94/dA/tVII], § 7203(a), (b)(2), Dec. 4, 2015, [129 Stat. 1589][/us/stat/129/1589], 1591.)
 
 <table>
 
@@ -409,7 +409,7 @@ Jan. 3, 1975, Pub. L. 93–633, 88 Stat. 2156, § 117A(a)–(f), (g)(7), (9), 
 
     In subsection (h), the words “including coordination of training programs” are omitted as surplus.
 
- __[__  __Pub. L. 104–287, § 5(8)__  __][/us/pl/104/287/s5/8]__ 
+ __[__  __Pub. L. 104–287__  __][/us/pl/104/287]__  __, § 5(8)__ 
 
     This amends 49:5116(j)(4)(A) to correct an erroneous cross-reference.
 
@@ -419,89 +419,89 @@ Jan. 3, 1975, Pub. L. 93–633, 88 Stat. 2156, § 117A(a)–(f), (g)(7), (9), 
 
  __Amendments__ 
 
-    2015—Subsec. (a). [Pub. L. 114–94, § 7203(a)(3)][/us/pl/114/94/s7203/a/3], added subsec. (a) and struck out former subsec. (a) which related to planning grants.
+    2015—Subsec. (a). [Pub. L. 114–94][/us/pl/114/94], § 7203(a)(3), added subsec. (a) and struck out former subsec. (a) which related to planning grants.
 
-    Subsecs. (b), (c). [Pub. L. 114–94, § 7203(a)(1)][/us/pl/114/94/s7203/a/1], (2), redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out former subsec. (b) which related to training grants.
+    Subsecs. (b), (c). [Pub. L. 114–94][/us/pl/114/94], § 7203(a)(1), (2), redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out former subsec. (b) which related to training grants.
 
-    Subsec. (d). [Pub. L. 114–94, § 7203(a)(1)][/us/pl/114/94/s7203/a/1], (b)(2)(A), redesignated subsec. (e) as (d) and substituted “subsection (a)(3)(A)” for “subsections (a)(2)(A) and (b)(2)(A)”. Former subsec. (d) redesignated (c).
+    Subsec. (d). [Pub. L. 114–94][/us/pl/114/94], § 7203(a)(1), (b)(2)(A), redesignated subsec. (e) as (d) and substituted “subsection (a)(3)(A)” for “subsections (a)(2)(A) and (b)(2)(A)”. Former subsec. (d) redesignated (c).
 
-    Subsec. (e) to (g). [Pub. L. 114–94, § 7203(a)(1)][/us/pl/114/94/s7203/a/1], redesignated subsecs. (f) to (h) as (e) to (g), respectively. Former subsec. (e) redesignated (d).
+    Subsec. (e) to (g). [Pub. L. 114–94][/us/pl/114/94], § 7203(a)(1), redesignated subsecs. (f) to (h) as (e) to (g), respectively. Former subsec. (e) redesignated (d).
 
-    Subsec. (h). [Pub. L. 114–94, § 7203(a)(1)][/us/pl/114/94/s7203/a/1], redesignated subsec. (i) as (h). Former subsec. (h) redesignated (g).
+    Subsec. (h). [Pub. L. 114–94][/us/pl/114/94], § 7203(a)(1), redesignated subsec. (i) as (h). Former subsec. (h) redesignated (g).
 
-    Subsec. (h)(1). [Pub. L. 114–94, § 7203(b)(2)(B)(i)][/us/pl/114/94/s7203/b/2/B/i], inserted “and section 5107(e)” after “section”.
+    Subsec. (h)(1). [Pub. L. 114–94][/us/pl/114/94], § 7203(b)(2)(B)(i), inserted “and section 5107(e)” after “section”.
 
-    Subsec. (h)(2). [Pub. L. 114–94, § 7203(b)(2)(B)(ii)][/us/pl/114/94/s7203/b/2/B/ii], substituted “subsection (e)” for “subsection (f)”.
+    Subsec. (h)(2). [Pub. L. 114–94][/us/pl/114/94], § 7203(b)(2)(B)(ii), substituted “subsection (e)” for “subsection (f)”.
 
-    Subsec. (h)(4). [Pub. L. 114–94, § 7203(b)(2)(B)(iii)][/us/pl/114/94/s7203/b/2/B/iii], substituted “5107(e) and 5108(g)(2)” for “5108(g)(2) and 5115”.
+    Subsec. (h)(4). [Pub. L. 114–94][/us/pl/114/94], § 7203(b)(2)(B)(iii), substituted “5107(e) and 5108(g)(2)” for “5108(g)(2) and 5115”.
 
-    Subsec. (i). [Pub. L. 114–94, § 7203(a)(1)][/us/pl/114/94/s7203/a/1], (b)(2)(C), redesignated subsec. (j) as (i) and substituted “subsection (a)” for “subsection (b)” in par. (1). Former subsec. (i) redesignated (h).
+    Subsec. (i). [Pub. L. 114–94][/us/pl/114/94], § 7203(a)(1), (b)(2)(C), redesignated subsec. (j) as (i) and substituted “subsection (a)” for “subsection (b)” in par. (1). Former subsec. (i) redesignated (h).
 
-    Subsec. (j). [Pub. L. 114–94, § 7203(b)(2)(D)][/us/pl/114/94/s7203/b/2/D], substituted, in introductory provisions, “planning and training grants under subsection (a) and grants under subsection (i) of this section and under subsections (e) and (i) of section 5107” for “planning grants allocated under subsection (a), training grants under subsection (b), and grants under subsection (j) of this section and under section 5107” and redesignated subpars. (A) to (D) as pars. (1) to (4), respectively.
+    Subsec. (j). [Pub. L. 114–94][/us/pl/114/94], § 7203(b)(2)(D), substituted, in introductory provisions, “planning and training grants under subsection (a) and grants under subsection (i) of this section and under subsections (e) and (i) of section 5107” for “planning grants allocated under subsection (a), training grants under subsection (b), and grants under subsection (j) of this section and under section 5107” and redesignated subpars. (A) to (D) as pars. (1) to (4), respectively.
 
-    [Pub. L. 114–94, § 7203(a)(1)][/us/pl/114/94/s7203/a/1], redesignated subsec. (k) as (j). Former subsec. (j) redesignated (i).
+    [Pub. L. 114–94][/us/pl/114/94], § 7203(a)(1), redesignated subsec. (k) as (j). Former subsec. (j) redesignated (i).
 
-    Subsec. (k). [Pub. L. 114–94, § 7203(a)(1)][/us/pl/114/94/s7203/a/1], redesignated subsec. (k) as (j).
+    Subsec. (k). [Pub. L. 114–94][/us/pl/114/94], § 7203(a)(1), redesignated subsec. (k) as (j).
 
-    2012—Subsec. (b)(1). [Pub. L. 112–141, § 33004(b)(1)][/us/pl/112/141/s33004/b/1], inserted at end “To the extent that a grant is used to train emergency responders, the State or Indian tribe shall provide written certification to the Secretary that the emergency responders who receive training under the grant will have the ability to protect nearby persons, property, and the environment from the effects of accidents or incidents involving the transportation of hazardous material in accordance with existing regulations or National Fire Protection Association standards for competence of responders to accidents and incidents involving hazardous materials.”
+    2012—Subsec. (b)(1). [Pub. L. 112–141][/us/pl/112/141], § 33004(b)(1), inserted at end “To the extent that a grant is used to train emergency responders, the State or Indian tribe shall provide written certification to the Secretary that the emergency responders who receive training under the grant will have the ability to protect nearby persons, property, and the environment from the effects of accidents or incidents involving the transportation of hazardous material in accordance with existing regulations or National Fire Protection Association standards for competence of responders to accidents and incidents involving hazardous materials.”
 
-    Subsec. (j)(1). [Pub. L. 112–141, § 33004(b)(2)(A)][/us/pl/112/141/s33004/b/2/A], substituted “funds and through a competitive process, make a grant or make grants to national nonprofit fire service organizations for” for “funds, make grants to national nonprofit employee organizations engaged solely in fighting fires for”.
+    Subsec. (j)(1). [Pub. L. 112–141][/us/pl/112/141], § 33004(b)(2)(A), substituted “funds and through a competitive process, make a grant or make grants to national nonprofit fire service organizations for” for “funds, make grants to national nonprofit employee organizations engaged solely in fighting fires for”.
 
-    Subsec. (j)(3)(A). [Pub. L. 112–141, § 33004(b)(2)(B)][/us/pl/112/141/s33004/b/2/B], substituted “provide training, including portable training, for” for “train”.
+    Subsec. (j)(3)(A). [Pub. L. 112–141][/us/pl/112/141], § 33004(b)(2)(B), substituted “provide training, including portable training, for” for “train”.
 
-    Subsec. (j)(4). [Pub. L. 112–141, § 33004(b)(2)(C)(ii)][/us/pl/112/141/s33004/b/2/C/ii], which directed insertion of “comply with Federal regulations and national consensus standards for hazardous materials response and” after “training course shall”, was executed by making the insertion after “training courses shall” in concluding provisions, to reflect the probable intent of Congress.
+    Subsec. (j)(4). [Pub. L. 112–141][/us/pl/112/141], § 33004(b)(2)(C)(ii), which directed insertion of “comply with Federal regulations and national consensus standards for hazardous materials response and” after “training course shall”, was executed by making the insertion after “training courses shall” in concluding provisions, to reflect the probable intent of Congress.
 
-    [Pub. L. 112–141, § 33004(b)(2)(C)(i)][/us/pl/112/141/s33004/b/2/C/i], substituted “provide training, including portable training, for” for “train” in introductory provisions.
+    [Pub. L. 112–141][/us/pl/112/141], § 33004(b)(2)(C)(i), substituted “provide training, including portable training, for” for “train” in introductory provisions.
 
-    Subsec. (j)(5) to (8). [Pub. L. 112–141, § 33004(b)(2)(D)][/us/pl/112/141/s33004/b/2/D], (E), added pars. (5) to (7) and redesignated former par. (5) as (8).
+    Subsec. (j)(5) to (8). [Pub. L. 112–141][/us/pl/112/141], § 33004(b)(2)(D), (E), added pars. (5) to (7) and redesignated former par. (5) as (8).
 
-    Subsec. (k). [Pub. L. 112–141, § 33004(b)(3)][/us/pl/112/141/s33004/b/3], substituted “an annual report” for “annually” and inserted “the report” after “make available” in first sentence, substituted “. The report submitted under this subsection shall include information” for “information” and “The report submitted under this subsection shall identify the ultimate recipients of such grants and include—” for “The report shall identify the ultimate recipients of training grants and include a detailed accounting of all grant expenditures by grant recipients, the number of persons trained under the grant programs, and an evaluation of the efficacy of training programs carried out.”, and added pars. (A) to (D).
+    Subsec. (k). [Pub. L. 112–141][/us/pl/112/141], § 33004(b)(3), substituted “an annual report” for “annually” and inserted “the report” after “make available” in first sentence, substituted “. The report submitted under this subsection shall include information” for “information” and “The report submitted under this subsection shall identify the ultimate recipients of such grants and include—” for “The report shall identify the ultimate recipients of training grants and include a detailed accounting of all grant expenditures by grant recipients, the number of persons trained under the grant programs, and an evaluation of the efficacy of training programs carried out.”, and added pars. (A) to (D).
 
-    2005—Subsec. (a)(1), (2). [Pub. L. 109–59, § 7126][/us/pl/109/59/s7126], substituted “Secretary” for “Secretary of Transportation” in introductory provisions.
+    2005—Subsec. (a)(1), (2). [Pub. L. 109–59][/us/pl/109/59], § 7126, substituted “Secretary” for “Secretary of Transportation” in introductory provisions.
 
-    Subsec. (a)(2)(A). [Pub. L. 109–59, § 7114(a)][/us/pl/109/59/s7114/a], substituted “5 fiscal years” for “2 fiscal years”.
+    Subsec. (a)(2)(A). [Pub. L. 109–59][/us/pl/109/59], § 7114(a), substituted “5 fiscal years” for “2 fiscal years”.
 
-    Subsec. (b)(1). [Pub. L. 109–59, § 7126][/us/pl/109/59/s7126], substituted “Secretary” for “Secretary of Transportation”.
+    Subsec. (b)(1). [Pub. L. 109–59][/us/pl/109/59], § 7126, substituted “Secretary” for “Secretary of Transportation”.
 
-    Subsec. (b)(2). [Pub. L. 109–59, § 7126][/us/pl/109/59/s7126], substituted “Secretary” for “Secretary of Transportation” in introductory provisions.
+    Subsec. (b)(2). [Pub. L. 109–59][/us/pl/109/59], § 7126, substituted “Secretary” for “Secretary of Transportation” in introductory provisions.
 
-    Subsec. (b)(2)(A). [Pub. L. 109–59, § 7114(a)][/us/pl/109/59/s7114/a], substituted “5 fiscal years” for “2 fiscal years”.
+    Subsec. (b)(2)(A). [Pub. L. 109–59][/us/pl/109/59], § 7114(a), substituted “5 fiscal years” for “2 fiscal years”.
 
-    Subsec. (b)(3)(C), (4). [Pub. L. 109–59, § 7126][/us/pl/109/59/s7126], substituted “Secretary” for “Secretary of Transportation” in introductory provisions of par. (3)(C) and “Secretary shall allocate” for “Secretary of Transportation shall allocate” in introductory provisions of par. (4).
+    Subsec. (b)(3)(C), (4). [Pub. L. 109–59][/us/pl/109/59], § 7126, substituted “Secretary” for “Secretary of Transportation” in introductory provisions of par. (3)(C) and “Secretary shall allocate” for “Secretary of Transportation shall allocate” in introductory provisions of par. (4).
 
-    Subsecs. (c), (d). [Pub. L. 109–59, § 7126][/us/pl/109/59/s7126], substituted “Secretary” for “Secretary of Transportation” in subsec. (c) and “Secretary.” for “Secretary of Transportation.” in subsec. (d).
+    Subsecs. (c), (d). [Pub. L. 109–59][/us/pl/109/59], § 7126, substituted “Secretary” for “Secretary of Transportation” in subsec. (c) and “Secretary.” for “Secretary of Transportation.” in subsec. (d).
 
-    Subsec. (f). [Pub. L. 109–59, § 7114(b)][/us/pl/109/59/s7114/b], substituted “National Response Team” for “national response team”.
+    Subsec. (f). [Pub. L. 109–59][/us/pl/109/59], § 7114(b), substituted “National Response Team” for “national response team”.
 
-    Subsec. (g). [Pub. L. 109–59, § 7126][/us/pl/109/59/s7126], substituted “Secretary” for “Secretary of Transportation” in introductory provisions.
+    Subsec. (g). [Pub. L. 109–59][/us/pl/109/59], § 7126, substituted “Secretary” for “Secretary of Transportation” in introductory provisions.
 
-    [Pub. L. 109–59, § 7114(c)][/us/pl/109/59/s7114/c], substituted “Federal financial assistance” for “Government grant programs” in introductory provisions.
+    [Pub. L. 109–59][/us/pl/109/59], § 7114(c), substituted “Federal financial assistance” for “Government grant programs” in introductory provisions.
 
-    Subsec. (i). [Pub. L. 109–59, § 7114(d)(1)][/us/pl/109/59/s7114/d/1], (2), in introductory provisions, inserted “(to be known as the ‘Hazardous Materials Emergency Preparedness Fund’)” after “an account in the Treasury” and struck out “collects under [section 5108(g)(2)(A) of this title][/us/usc/t49/s5108/g/2/A] and” before “transfers to the Secretary”, added par. (3), and redesignated former par. (3) as (4) and substituted “2 percent” for “10 percent”.
+    Subsec. (i). [Pub. L. 109–59][/us/pl/109/59], § 7114(d)(1), (2), in introductory provisions, inserted “(to be known as the ‘Hazardous Materials Emergency Preparedness Fund’)” after “an account in the Treasury” and struck out “collects under [section 5108(g)(2)(A) of this title][/us/usc/t49/s5108/g/2/A] and” before “transfers to the Secretary”, added par. (3), and redesignated former par. (3) as (4) and substituted “2 percent” for “10 percent”.
 
-    Subsec. (k). [Pub. L. 109–59, § 7114(e)][/us/pl/109/59/s7114/e], substituted “The Secretary shall submit annually to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate and make available to the public information on the allocation and uses of the planning grants allocated under subsection (a), training grants under subsection (b), and grants under subsection (j) of this section and under section 5107” for “Not later than September 30, 1997, the Secretary shall submit to Congress a report on the allocation and uses of training grants authorized under subsection (b) for fiscal year 1993 through fiscal year 1996 and grants authorized under subsection (j) and section 5107 for fiscal years 1995 and 1996” and “The report” for “Such report”.
+    Subsec. (k). [Pub. L. 109–59][/us/pl/109/59], § 7114(e), substituted “The Secretary shall submit annually to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate and make available to the public information on the allocation and uses of the planning grants allocated under subsection (a), training grants under subsection (b), and grants under subsection (j) of this section and under section 5107” for “Not later than September 30, 1997, the Secretary shall submit to Congress a report on the allocation and uses of training grants authorized under subsection (b) for fiscal year 1993 through fiscal year 1996 and grants authorized under subsection (j) and section 5107 for fiscal years 1995 and 1996” and “The report” for “Such report”.
 
-    1996—Subsec. (a)(2). [Pub. L. 104–287, § 6(b)][/us/pl/104/287/s6/b], made technical correction to directory language of [Pub. L. 103–311, § 105(b)(2)][/us/pl/103/311/s105/b/2]. See 1994 Amendment note below.
+    1996—Subsec. (a)(2). [Pub. L. 104–287][/us/pl/104/287], § 6(b), made technical correction to directory language of [Pub. L. 103–311][/us/pl/103/311], § 105(b)(2). See 1994 Amendment note below.
 
-    Subsec. (j)(4)(A). [Pub. L. 104–287, § 5(8)][/us/pl/104/287/s5/8], substituted “[section 5115 of this title][/us/usc/t49/s5115]” for “subsection (g)”.
+    Subsec. (j)(4)(A). [Pub. L. 104–287][/us/pl/104/287], § 5(8), substituted “[section 5115 of this title][/us/usc/t49/s5115]” for “subsection (g)”.
 
-    1994—Subsec. (a)(1). [Pub. L. 103–311, § 105(a)][/us/pl/103/311/s105/a], in introductory provisions inserted “and Indian tribes” after “States”, and in subpar. (A) substituted “on lands under the jurisdiction of a State or Indian tribe, and between lands under the jurisdiction of a State or Indian tribe and lands of another State or Indian tribe” for “in a State and between States”.
+    1994—Subsec. (a)(1). [Pub. L. 103–311][/us/pl/103/311], § 105(a), in introductory provisions inserted “and Indian tribes” after “States”, and in subpar. (A) substituted “on lands under the jurisdiction of a State or Indian tribe, and between lands under the jurisdiction of a State or Indian tribe and lands of another State or Indian tribe” for “in a State and between States”.
 
-    Subsec. (a)(2). [Pub. L. 103–311, § 105(b)(2)][/us/pl/103/311/s105/b/2], as amended by [Pub. L. 104–287, § 6(b)][/us/pl/104/287/s6/b], struck out “the State” after “only if” in introductory provisions.
+    Subsec. (a)(2). [Pub. L. 103–311][/us/pl/103/311], § 105(b)(2), as amended by [Pub. L. 104–287][/us/pl/104/287], § 6(b), struck out “the State” after “only if” in introductory provisions.
 
-    [Pub. L. 103–311, § 105(b)(1)][/us/pl/103/311/s105/b/1], inserted “or Indian tribe” after “grant to a State” in introductory provisions.
+    [Pub. L. 103–311][/us/pl/103/311], § 105(b)(1), inserted “or Indian tribe” after “grant to a State” in introductory provisions.
 
-    Subsec. (a)(2)(A). [Pub. L. 103–311, § 105(b)(1)][/us/pl/103/311/s105/b/1], (3), inserted “the State or Indian tribe” before “certifies” and “or Indian tribe” before “expends”.
+    Subsec. (a)(2)(A). [Pub. L. 103–311][/us/pl/103/311], § 105(b)(1), (3), inserted “the State or Indian tribe” before “certifies” and “or Indian tribe” before “expends”.
 
-    Subsec. (a)(2)(B). [Pub. L. 103–311, § 105(b)(4)][/us/pl/103/311/s105/b/4], inserted “the State” before “agrees”.
+    Subsec. (a)(2)(B). [Pub. L. 103–311][/us/pl/103/311], § 105(b)(4), inserted “the State” before “agrees”.
 
-    Subsec. (a)(3). [Pub. L. 103–311, § 105(c)][/us/pl/103/311/s105/c], added par. (3).
+    Subsec. (a)(3). [Pub. L. 103–311][/us/pl/103/311], § 105(c), added par. (3).
 
-    Subsec. (i)(1). [Pub. L. 103–311, § 119(d)(2)][/us/pl/103/311/s119/d/2], as amended by [Pub. L. 103–429][/us/pl/103/429], struck out “and [section 5107(e) of this title][/us/usc/t49/s5107/e]” after “under this section”.
+    Subsec. (i)(1). [Pub. L. 103–311][/us/pl/103/311], § 119(d)(2), as amended by [Pub. L. 103–429][/us/pl/103/429], struck out “and [section 5107(e) of this title][/us/usc/t49/s5107/e]” after “under this section”.
 
-    Subsec. (i)(3). [Pub. L. 103–311, § 119(d)(3)][/us/pl/103/311/s119/d/3], as amended by [Pub. L. 103–429][/us/pl/103/429], substituted “5108(g)(2)” for “5107(e), 5108(g)(2),”.
+    Subsec. (i)(3). [Pub. L. 103–311][/us/pl/103/311], § 119(d)(3), as amended by [Pub. L. 103–429][/us/pl/103/429], substituted “5108(g)(2)” for “5107(e), 5108(g)(2),”.
 
-    Subsecs. (j), (k). [Pub. L. 103–311, § 119(a)][/us/pl/103/311/s119/a], added subsecs. (j) and (k).
+    Subsecs. (j), (k). [Pub. L. 103–311][/us/pl/103/311], § 119(a), added subsecs. (j) and (k).
 
  __Change of Name__ 
 
@@ -517,15 +517,15 @@ Jan. 3, 1975, Pub. L. 93–633, 88 Stat. 2156, § 117A(a)–(f), (g)(7), (9), 
 
  __Effective Date of 1996 Amendment__ 
 
-    [Pub. L. 104–287, § 6(b)][/us/pl/104/287/s6/b], Oct. 11, 1996, [110 Stat. 3398][/us/stat/110/3398], provided that the amendment made by section 6(b) is effective Aug. 26, 1994.
+    [Pub. L. 104–287][/us/pl/104/287], § 6(b), Oct. 11, 1996, [110 Stat. 3398][/us/stat/110/3398], provided that the amendment made by section 6(b) is effective Aug. 26, 1994.
 
  __Effective Date of 1994 Amendment__ 
 
-    [Pub. L. 103–429, § 7(c)][/us/pl/103/429/s7/c], Oct. 31, 1994, [108 Stat. 4389][/us/stat/108/4389], provided that the amendment made by section 7(c) is effective Aug. 26, 1994.
+    [Pub. L. 103–429][/us/pl/103/429], § 7(c), Oct. 31, 1994, [108 Stat. 4389][/us/stat/108/4389], provided that the amendment made by section 7(c) is effective Aug. 26, 1994.
 
  __Savings Clause__ 
 
-[Pub. L. 114–94, div. A, title VII, § 7203(c)][/us/pl/114/94/s7203/c], Dec. 4, 2015, [129 Stat. 1591][/us/stat/129/1591], provided that: 
+[Pub. L. 114–94, div. A, title VII][/us/pl/114/94/dA/tVII], § 7203(c), Dec. 4, 2015, [129 Stat. 1591][/us/stat/129/1591], provided that: 
 
 > “Nothing in this section \[amending this section and [section 5108 of this title][/us/usc/t49/s5108]\] may be construed to prohibit the Secretary \[of Transportation\] from recovering and deobligating funds from grants that are not managed or expended in compliance with a grant agreement.”
 
@@ -541,75 +541,75 @@ Jan. 3, 1975, Pub. L. 93–633, 88 Stat. 2156, § 117A(a)–(f), (g)(7), (9), 
 [/us/usc/t42/s11001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11001
 [/us/usc/t49/s5108/g/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5108%2Fg%2F2%2FC
 [/us/usc/t49/s5115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5115
-[/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F773
-[/us/pl/103/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311
+[/us/pl/103/311/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311%2FtI
 [/us/stat/108/1673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1673
-[/us/pl/103/429/s7/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs7%2Fc
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/stat/108/4389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4389
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3389
-[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtVII
 [/us/stat/119/1900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1900
-[/us/pl/109/295/s612/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs612%2Fc
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1410
-[/us/pl/112/141/s33004/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs33004%2Fb
+[/us/pl/112/141/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtIII
 [/us/stat/126/832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F832
-[/us/pl/114/94/s7203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs7203%2Fa
+[/us/pl/114/94/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtVII
 [/us/stat/129/1589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1589
-[/us/pl/104/287/s5/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F8
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
 [/us/stat/100/1728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1728
 [/us/usc/t42/s11001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11001
-[/us/pl/114/94/s7203/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs7203%2Fa%2F3
-[/us/pl/114/94/s7203/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs7203%2Fa%2F1
-[/us/pl/114/94/s7203/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs7203%2Fa%2F1
-[/us/pl/114/94/s7203/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs7203%2Fa%2F1
-[/us/pl/114/94/s7203/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs7203%2Fa%2F1
-[/us/pl/114/94/s7203/b/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs7203%2Fb%2F2%2FB%2Fi
-[/us/pl/114/94/s7203/b/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs7203%2Fb%2F2%2FB%2Fii
-[/us/pl/114/94/s7203/b/2/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs7203%2Fb%2F2%2FB%2Fiii
-[/us/pl/114/94/s7203/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs7203%2Fa%2F1
-[/us/pl/114/94/s7203/b/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs7203%2Fb%2F2%2FD
-[/us/pl/114/94/s7203/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs7203%2Fa%2F1
-[/us/pl/114/94/s7203/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs7203%2Fa%2F1
-[/us/pl/112/141/s33004/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs33004%2Fb%2F1
-[/us/pl/112/141/s33004/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs33004%2Fb%2F2%2FA
-[/us/pl/112/141/s33004/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs33004%2Fb%2F2%2FB
-[/us/pl/112/141/s33004/b/2/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs33004%2Fb%2F2%2FC%2Fii
-[/us/pl/112/141/s33004/b/2/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs33004%2Fb%2F2%2FC%2Fi
-[/us/pl/112/141/s33004/b/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs33004%2Fb%2F2%2FD
-[/us/pl/112/141/s33004/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs33004%2Fb%2F3
-[/us/pl/109/59/s7126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7126
-[/us/pl/109/59/s7114/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7114%2Fa
-[/us/pl/109/59/s7126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7126
-[/us/pl/109/59/s7126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7126
-[/us/pl/109/59/s7114/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7114%2Fa
-[/us/pl/109/59/s7126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7126
-[/us/pl/109/59/s7126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7126
-[/us/pl/109/59/s7114/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7114%2Fb
-[/us/pl/109/59/s7126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7126
-[/us/pl/109/59/s7114/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7114%2Fc
-[/us/pl/109/59/s7114/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7114%2Fd%2F1
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/usc/t49/s5108/g/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5108%2Fg%2F2%2FA
-[/us/pl/109/59/s7114/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7114%2Fe
-[/us/pl/104/287/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs6%2Fb
-[/us/pl/103/311/s105/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311%2Fs105%2Fb%2F2
-[/us/pl/104/287/s5/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F8
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
+[/us/pl/103/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/usc/t49/s5115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5115
-[/us/pl/103/311/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311%2Fs105%2Fa
-[/us/pl/103/311/s105/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311%2Fs105%2Fb%2F2
-[/us/pl/104/287/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs6%2Fb
-[/us/pl/103/311/s105/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311%2Fs105%2Fb%2F1
-[/us/pl/103/311/s105/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311%2Fs105%2Fb%2F1
-[/us/pl/103/311/s105/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311%2Fs105%2Fb%2F4
-[/us/pl/103/311/s105/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311%2Fs105%2Fc
-[/us/pl/103/311/s119/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311%2Fs119%2Fd%2F2
+[/us/pl/103/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311
+[/us/pl/103/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
+[/us/pl/103/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311
+[/us/pl/103/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311
+[/us/pl/103/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311
+[/us/pl/103/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311
+[/us/pl/103/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/usc/t49/s5107/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5107%2Fe
-[/us/pl/103/311/s119/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311%2Fs119%2Fd%2F3
+[/us/pl/103/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
-[/us/pl/103/311/s119/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311%2Fs119%2Fa
+[/us/pl/103/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311
 [/us/pl/109/295/s612/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs612%2Fc
 [/us/usc/t6/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs313
 [/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295
@@ -621,11 +621,11 @@ Jan. 3, 1975, Pub. L. 93–633, 88 Stat. 2156, § 117A(a)–(f), (g)(7), (9), 
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
-[/us/pl/104/287/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs6%2Fb
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3398
-[/us/pl/103/429/s7/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs7%2Fc
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/stat/108/4389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4389
-[/us/pl/114/94/s7203/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs7203%2Fc
+[/us/pl/114/94/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtVII
 [/us/stat/129/1591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1591
 [/us/usc/t49/s5108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5108
 

@@ -27,7 +27,7 @@
 
     When the Administrator is of the opinion that an emergency exists related to safety in air commerce and requires immediate action, the Administrator, on the initiative of the Administrator or on complaint, may prescribe regulations and issue orders immediately to meet the emergency, with or without notice and without regard to this part and subchapter II of chapter 5 of title 5. The Administrator shall begin a proceeding immediately about an emergency under this subsection and give preference, when practicable, to the proceeding.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1228][/us/stat/108/1228]; [Pub. L. 107–71, title I, § 140(b)(1)][/us/pl/107/71/s140/b/1], (2), Nov. 19, 2001, [115 Stat. 641][/us/stat/115/641].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1228][/us/stat/108/1228]; [Pub. L. 107–71, title I][/us/pl/107/71/tI], § 140(b)(1), (2), Nov. 19, 2001, [115 Stat. 641][/us/stat/115/641].)
 
 <table>
 
@@ -183,9 +183,9 @@ Oct. 15, 1966, Pub. L. 89–670, § 6(c)(1), 80 Stat. 938; Jan. 12, 1983, Pub.
 
  __Amendments__ 
 
-    2001—Subsec. (a). [Pub. L. 107–71, § 140(b)(1)][/us/pl/107/71/s140/b/1], (2), inserted “the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or” after “(or” and substituted “, Under Secretary, or Administrator” for “or Administrator” wherever appearing.
+    2001—Subsec. (a). [Pub. L. 107–71][/us/pl/107/71], § 140(b)(1), (2), inserted “the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or” after “(or” and substituted “, Under Secretary, or Administrator” for “or Administrator” wherever appearing.
 
-    Subsec. (b). [Pub. L. 107–71, § 140(b)(2)][/us/pl/107/71/s140/b/2], substituted “, Under Secretary, or Administrator” for “or Administrator”.
+    Subsec. (b). [Pub. L. 107–71][/us/pl/107/71], § 140(b)(2), substituted “, Under Secretary, or Administrator” for “or Administrator”.
 
  __Transfer of Functions__ 
 
@@ -198,12 +198,12 @@ Oct. 15, 1966, Pub. L. 89–670, § 6(c)(1), 80 Stat. 938; Jan. 12, 1983, Pub.
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1228
-[/us/pl/107/71/s140/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs140%2Fb%2F1
+[/us/pl/107/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2FtI
 [/us/stat/115/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F641
-[/us/pl/107/71/s140/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs140%2Fb%2F1
-[/us/pl/107/71/s140/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs140%2Fb%2F2
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 
 

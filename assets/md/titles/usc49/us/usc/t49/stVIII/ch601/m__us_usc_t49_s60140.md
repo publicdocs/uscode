@@ -45,7 +45,7 @@
 
             If the Secretary develops legislative recommendations under subparagraph (A), the Secretary shall submit to the committees referred to in subsection (a)(2) a report containing the legislative recommendations.
 
-(Added [Pub. L. 112–90, § 28(a)][/us/pl/112/90/s28/a], Jan. 3, 2012, [125 Stat. 1920][/us/stat/125/1920].)
+(Added [Pub. L. 112–90][/us/pl/112/90], § 28(a), Jan. 3, 2012, [125 Stat. 1920][/us/stat/125/1920].)
 
  __References in Text__ 
 
@@ -58,7 +58,7 @@
 ----------
 ----------
 
-[/us/pl/112/90/s28/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90%2Fs28%2Fa
+[/us/pl/112/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90
 [/us/stat/125/1920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1920
 [/us/pl/112/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90
 

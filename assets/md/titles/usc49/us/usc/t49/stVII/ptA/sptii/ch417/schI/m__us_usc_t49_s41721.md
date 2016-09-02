@@ -35,7 +35,7 @@
 
     For purposes of this section, the air transport of an animal includes the entire period during which an animal is in the custody of an air carrier, from check-in of the animal prior to departure until the animal is returned to the owner or guardian of the animal at the final destination of the animal.
 
-(Added [Pub. L. 106–181, title VII, § 710(a)][/us/pl/106/181/s710/a], Apr. 5, 2000, [114 Stat. 159][/us/stat/114/159].)
+(Added [Pub. L. 106–181, title VII][/us/pl/106/181/tVII], § 710(a), Apr. 5, 2000, [114 Stat. 159][/us/stat/114/159].)
 
  __Effective Date__ 
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/106/181/s710/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs710%2Fa
+[/us/pl/106/181/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtVII
 [/us/stat/114/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F159
 [/us/pl/106/181/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106

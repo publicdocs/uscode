@@ -47,7 +47,7 @@
 
     Except as otherwise prohibited by law, a civil action under this section may be brought in the judicial district in which Amtrak or the rail carrier resides or is found.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 901][/us/stat/108/901].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 901][/us/stat/108/901].)
 
 <table>
 
@@ -142,7 +142,7 @@ Oct. 30, 1970, Pub. L. 91–518, 84 Stat. 1327, § 307(a) (last sentence); add
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F901
 
 

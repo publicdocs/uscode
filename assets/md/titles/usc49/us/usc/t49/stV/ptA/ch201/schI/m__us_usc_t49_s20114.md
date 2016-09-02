@@ -27,7 +27,7 @@
 
     Except as provided in [section 20104(c) of this title][/us/usc/t49/s20104/c], a proceeding to review a final action of the Secretary of Transportation under this part or, as applicable to railroad safety, chapter 51 or 57 of this title shall be brought in the appropriate court of appeals as provided in chapter 158 of title 28.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 870][/us/stat/108/870].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 870][/us/stat/108/870].)
 
 <table>
 
@@ -119,7 +119,7 @@ Oct. 16, 1970, Pub. L. 91–458, § 202(f), 84 Stat. 972; restated Sept. 3, 19
 ----------
 
 [/us/usc/t49/s20104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs20104%2Fc
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F870
 [/us/usc/t49/s441/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs441%2Fe
 

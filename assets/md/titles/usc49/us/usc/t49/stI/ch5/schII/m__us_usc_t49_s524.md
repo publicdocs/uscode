@@ -17,7 +17,7 @@
 
     A person, or an officer, employee, or agent of that person, that by any means tries to evade regulation of motor carriers under this chapter, chapter 51, subchapter III of chapter 311 (except sections 31138 and 31139) or section 31302, 31303, 31304, 31305(b), 31310(g)(1)(A), or 31502 of this title, or a regulation issued under any of those provisions, shall be fined at least $2,000 but not more than $5,000 for the first violation and at least $2,500 but not more than $7,500 for a subsequent violation.
 
-([Pub. L. 97–449, § 1(b)][/us/pl/97/449/s1/b], Jan. 12, 1983, [96 Stat. 2437][/us/stat/96/2437]; [Pub. L. 112–141, div. C, title II, § 32505(a)][/us/pl/112/141/s32505/a], July 6, 2012, [126 Stat. 804][/us/stat/126/804].)
+([Pub. L. 97–449][/us/pl/97/449], § 1(b), Jan. 12, 1983, [96 Stat. 2437][/us/stat/96/2437]; [Pub. L. 112–141, div. C, title II][/us/pl/112/141/dC/tII], § 32505(a), July 6, 2012, [126 Stat. 804][/us/stat/126/804].)
 
 <table>
 
@@ -122,9 +122,9 @@ Revised Section  </td>
 ----------
 ----------
 
-[/us/pl/97/449/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449%2Fs1%2Fb
+[/us/pl/97/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449
 [/us/stat/96/2437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2437
-[/us/pl/112/141/s32505/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32505%2Fa
+[/us/pl/112/141/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtII
 [/us/stat/126/804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F804
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141

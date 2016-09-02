@@ -23,7 +23,7 @@
 
     (3) other air agencies the Administrator decides are necessary in the public interest.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1190][/us/stat/108/1190].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1190][/us/stat/108/1190].)
 
 <table>
 
@@ -91,7 +91,7 @@ In this section, the word “Administrator” in section 607 (1st sentence) of t
 
  __Aircraft Repair and Maintenance Advisory Panel__ 
 
-[Pub. L. 106–181, title VII, § 734][/us/pl/106/181/s734], Apr. 5, 2000, [114 Stat. 170][/us/stat/114/170], provided that:
+[Pub. L. 106–181, title VII][/us/pl/106/181/tVII], § 734, Apr. 5, 2000, [114 Stat. 170][/us/stat/114/170], provided that:
 
 >     “(a)  __Establishment of Panel__  __.—__ 
 
@@ -178,11 +178,11 @@ In this section, the word “Administrator” in section 607 (1st sentence) of t
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1190
 [/us/pl/85/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F726
 [/us/stat/72/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F779
-[/us/pl/106/181/s734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs734
+[/us/pl/106/181/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtVII
 [/us/stat/114/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F170
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
 [/us/usc/t49/s40102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40102

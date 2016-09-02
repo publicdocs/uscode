@@ -27,7 +27,7 @@
 
     (5) “train employee” means an individual engaged in or connected with the movement of a train, including a hostler.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 888][/us/stat/108/888]; [Pub. L. 110–432, div. A, title I, § 108(a)][/us/pl/110/432/s108/a], Oct. 16, 2008, [122 Stat. 4860][/us/stat/122/4860].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 888][/us/stat/108/888]; [Pub. L. 110–432, div. A, title I][/us/pl/110/432/dA/tI], § 108(a), Oct. 16, 2008, [122 Stat. 4860][/us/stat/122/4860].)
 
 <table>
 
@@ -119,13 +119,13 @@ Mar. 4, 1907, ch. 2939, § 1(b)(2), 34 Stat. 1415; restated Dec. 26, 1969, Pub
 
  __Effective Date of 2008 Amendment__ 
 
-[Pub. L. 110–432, div. A, title I, § 108(g)][/us/pl/110/432/s108/g], Oct. 16, 2008, [122 Stat. 4866][/us/stat/122/4866], provided that: 
+[Pub. L. 110–432, div. A, title I][/us/pl/110/432/dA/tI], § 108(g), Oct. 16, 2008, [122 Stat. 4866][/us/stat/122/4866], provided that: 
 
 > “The amendments made by subsections (a), (b), and (c) \[amending this section and sections 21103 and 21104 of this title\] shall take effect 9 months after the date of enactment of this Act \[Oct. 16, 2008\].”
 
  __Record Keeping and Reporting__ 
 
-[Pub. L. 110–432, div. A, title I, § 108(f)][/us/pl/110/432/s108/f], Oct. 16, 2008, [122 Stat. 4866][/us/stat/122/4866], provided that:
+[Pub. L. 110–432, div. A, title I][/us/pl/110/432/dA/tI], § 108(f), Oct. 16, 2008, [122 Stat. 4866][/us/stat/122/4866], provided that:
 
 >     “(1)  __Regulations__  __.—__ 
 
@@ -148,14 +148,14 @@ Mar. 4, 1907, ch. 2939, § 1(b)(2), 34 Stat. 1415; restated Dec. 26, 1969, Pub
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F888
-[/us/pl/110/432/s108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs108%2Fa
+[/us/pl/110/432/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdA%2FtI
 [/us/stat/122/4860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4860
 [/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
-[/us/pl/110/432/s108/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs108%2Fg
+[/us/pl/110/432/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdA%2FtI
 [/us/stat/122/4866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4866
-[/us/pl/110/432/s108/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs108%2Ff
+[/us/pl/110/432/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdA%2FtI
 [/us/stat/122/4866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4866
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 

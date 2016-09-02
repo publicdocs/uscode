@@ -49,7 +49,7 @@
 
         (3) the term “rail carrier” includes a person providing excursion, scenic, or museum train service, and an owner or operator of a privately owned rail passenger car.
 
-(Added [Pub. L. 105–134, title I, § 161(a)][/us/pl/105/134/s161/a], Dec. 2, 1997, [111 Stat. 2577][/us/stat/111/2577].)
+(Added [Pub. L. 105–134, title I][/us/pl/105/134/tI], § 161(a), Dec. 2, 1997, [111 Stat. 2577][/us/stat/111/2577].)
 
  __References in Text__ 
 
@@ -57,7 +57,7 @@
 
  __Adjustment Based on Consumer Price Index__ 
 
-[Pub. L. 114–94, div. A, title XI, § 11415(b)][/us/pl/114/94/s11415/b], Dec. 4, 2015, [129 Stat. 1689][/us/stat/129/1689], provided that: 
+[Pub. L. 114–94, div. A, title XI][/us/pl/114/94/dA/tXI], § 11415(b), Dec. 4, 2015, [129 Stat. 1689][/us/stat/129/1689], provided that: 
 
 > “The liability cap under [section 28103(a)(2) of title 49][/us/usc/t49/s28103/a/2], United States Code, shall be adjusted on the date of enactment of this Act \[Dec. 4, 2015\] to reflect the change in the Consumer Price Index-All Urban Consumers between such date and December 2, 1997, and the Secretary \[of Transportation\] shall provide appropriate public notice of such adjustment. The adjustment of the liability cap shall be effective 30 days after such notice. Every fifth year after the date of enactment of this Act, the Secretary shall adjust such liability cap to reflect the change in the Consumer Price Index-All Urban Consumers since the last adjustment. The Secretary shall provide appropriate public notice of each such adjustment, and the adjustment shall become effective 30 days after such notice.”
 
@@ -69,12 +69,12 @@
 ----------
 
 [/us/usc/t45/s51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs51
-[/us/pl/105/134/s161/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2Fs161%2Fa
+[/us/pl/105/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2FtI
 [/us/stat/111/2577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2577
 [/us/act/1908-04-22/ch149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1908-04-22%2Fch149
 [/us/stat/35/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F65
 [/us/usc/t45/s51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs51
-[/us/pl/114/94/s11415/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11415%2Fb
+[/us/pl/114/94/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtXI
 [/us/stat/129/1689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1689
 [/us/usc/t49/s28103/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs28103%2Fa%2F2
 

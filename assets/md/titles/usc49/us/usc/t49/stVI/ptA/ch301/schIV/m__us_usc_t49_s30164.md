@@ -69,7 +69,7 @@
 
     In issuing regulations under this section, the Secretary shall seek to reduce duplicative requirements by coordinating with the Department of Homeland Security.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 968][/us/stat/108/968]; [Pub. L. 112–141, div. C, title I, § 31208(2)][/us/pl/112/141/s31208/2], July 6, 2012, [126 Stat. 761][/us/stat/126/761].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 968][/us/stat/108/968]; [Pub. L. 112–141, div. C, title I][/us/pl/112/141/dC/tI], § 31208(2), July 6, 2012, [126 Stat. 761][/us/stat/126/761].)
 
 <table>
 
@@ -141,9 +141,9 @@ Sept. 9, 1966, Pub. L. 89–563, § 110(e), 80 Stat. 724.  </td>
 
  __Amendments__ 
 
-    2012—[Pub. L. 112–141, § 31208(2)(A)][/us/pl/112/141/s31208/2/A], inserted “; conditions on importation of vehicles and equipment” after “process” in section catchline.
+    2012—[Pub. L. 112–141][/us/pl/112/141], § 31208(2)(A), inserted “; conditions on importation of vehicles and equipment” after “process” in section catchline.
 
-    Subsecs. (c) to (f). [Pub. L. 112–141, § 31208(2)(B)][/us/pl/112/141/s31208/2/B], added subsecs. (c) to (f).
+    Subsecs. (c) to (f). [Pub. L. 112–141][/us/pl/112/141], § 31208(2)(B), added subsecs. (c) to (f).
 
  __Effective Date of 2012 Amendment__ 
 
@@ -156,13 +156,13 @@ Sept. 9, 1966, Pub. L. 89–563, § 110(e), 80 Stat. 724.  </td>
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F968
-[/us/pl/112/141/s31208/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31208%2F2
+[/us/pl/112/141/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtI
 [/us/stat/126/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F761
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
-[/us/pl/112/141/s31208/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31208%2F2%2FA
-[/us/pl/112/141/s31208/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31208%2F2%2FB
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101

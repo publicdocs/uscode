@@ -121,11 +121,11 @@
 
         (2) notification of the defect or noncompliance is required under section 30118(b) but enforcement of the order is set aside in a civil action to which section 30121(d) applies.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 952][/us/stat/108/952]; [Pub. L. 105–178, title VII, § 7106(a)][/us/pl/105/178/s7106/a], June 9, 1998, [112 Stat. 467][/us/stat/112/467]; [Pub. L. 106–414][/us/pl/106/414], §§ 4, 6–8, Nov. 1, 2000, [114 Stat. 1803–1805][/us/stat/114/1803-1805]; [Pub. L. 112–141, div. C, title I, § 31311][/us/pl/112/141/s31311], July 6, 2012, [126 Stat. 771][/us/stat/126/771]; [Pub. L. 114–94, div. B, title XXIV][/us/pl/114/94], §§ 24107, 24108, 24109(c), 24402, Dec. 4, 2015, [129 Stat. 1705][/us/stat/129/1705], 1706, 1720.)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 952][/us/stat/108/952]; [Pub. L. 105–178, title VII][/us/pl/105/178/tVII], § 7106(a), June 9, 1998, [112 Stat. 467][/us/stat/112/467]; [Pub. L. 106–414][/us/pl/106/414], §§ 4, 6–8, Nov. 1, 2000, [114 Stat. 1803–1805][/us/stat/114/1803-1805]; [Pub. L. 112–141, div. C, title I][/us/pl/112/141/dC/tI], § 31311, July 6, 2012, [126 Stat. 771][/us/stat/126/771]; [Pub. L. 114–94, div. B, title XXIV][/us/pl/114/94/dB/tXXIV], §§ 24107, 24108, 24109(c), 24402, Dec. 4, 2015, [129 Stat. 1705][/us/stat/129/1705], 1706, 1720.)
 
  __Amendment of Subsection (i)__ 
 
-    [Pub. L. 114–94, div. B, title XXIV, § 24109(c)][/us/pl/114/94/s24109/c], (k), Dec. 4, 2015, [129 Stat. 1706][/us/stat/129/1706], 1709, provided that, effective on the date that is 180 days after Dec. 4, 2015, subsection (i) of this section is amended:
+    [Pub. L. 114–94, div. B, title XXIV][/us/pl/114/94/dB/tXXIV], § 24109(c), (k), Dec. 4, 2015, [129 Stat. 1706][/us/stat/129/1706], 1709, provided that, effective on the date that is 180 days after Dec. 4, 2015, subsection (i) of this section is amended:
 
     (1) in the subsection heading, by inserting “, or Rental” at the end;
 
@@ -493,45 +493,45 @@ Sept. 9, 1966, Pub. L. 89–563, 80 Stat. 718, § 154(d); added Dec. 18, 1991,
 
  __Amendments__ 
 
-    2015—Subsec. (b)(1). [Pub. L. 114–94, § 24108(1)][/us/pl/114/94/s24108/1], substituted “180 days” for “60 days” in introductory provisions.
+    2015—Subsec. (b)(1). [Pub. L. 114–94][/us/pl/114/94], § 24108(1), substituted “180 days” for “60 days” in introductory provisions.
 
-    Subsec. (b)(2). [Pub. L. 114–94, § 24108(2)][/us/pl/114/94/s24108/2], substituted “180-day” for “60-day” in two places.
+    Subsec. (b)(2). [Pub. L. 114–94][/us/pl/114/94], § 24108(2), substituted “180-day” for “60-day” in two places.
 
-    Subsec. (f). [Pub. L. 114–94, § 24107(1)][/us/pl/114/94/s24107/1], which directed amendment of subsec. (f) by inserting “(1) in general. A manufacturer”, without specifying the location of such insertion, and indenting appropriately, was executed by striking “A manufacturer” and inserting “(1) In general.—A manufacturer” after the subsec. heading, to reflect the probable intent of Congress.
+    Subsec. (f). [Pub. L. 114–94][/us/pl/114/94], § 24107(1), which directed amendment of subsec. (f) by inserting “(1) in general. A manufacturer”, without specifying the location of such insertion, and indenting appropriately, was executed by striking “A manufacturer” and inserting “(1) In general.—A manufacturer” after the subsec. heading, to reflect the probable intent of Congress.
 
-    Subsec. (f)(1). [Pub. L. 114–94, § 24107(2)][/us/pl/114/94/s24107/2], substituted “section if—” for “section.” and added subpars. (A) and (B).
+    Subsec. (f)(1). [Pub. L. 114–94][/us/pl/114/94], § 24107(2), substituted “section if—” for “section.” and added subpars. (A) and (B).
 
-    Subsec. (f)(2). [Pub. L. 114–94, § 24107(3)][/us/pl/114/94/s24107/3], added par. (2).
+    Subsec. (f)(2). [Pub. L. 114–94][/us/pl/114/94], § 24107(3), added par. (2).
 
-    Subsec. (g)(1). [Pub. L. 114–94, § 24402][/us/pl/114/94/s24402], substituted “15 calendar years” for “10 calendar years”.
+    Subsec. (g)(1). [Pub. L. 114–94][/us/pl/114/94], § 24402, substituted “15 calendar years” for “10 calendar years”.
 
-    Subsec. (i). [Pub. L. 114–94, § 24109(c)(1)][/us/pl/114/94/s24109/c/1], inserted “, or Rental” after “Equipment” in heading.
+    Subsec. (i). [Pub. L. 114–94][/us/pl/114/94], § 24109(c)(1), inserted “, or Rental” after “Equipment” in heading.
 
-    Subsec. (i)(1). [Pub. L. 114–94, § 24109(c)(2)(D)][/us/pl/114/94/s24109/c/2/D], which directed substitution of “the dealer or rental company may sell, lease, or rent” for “the dealer may sell or lease,”, was executed by making the substitution for “the dealer may sell or lease” to reflect the probable intent of Congress.
+    Subsec. (i)(1). [Pub. L. 114–94][/us/pl/114/94], § 24109(c)(2)(D), which directed substitution of “the dealer or rental company may sell, lease, or rent” for “the dealer may sell or lease,”, was executed by making the substitution for “the dealer may sell or lease” to reflect the probable intent of Congress.
 
-    [Pub. L. 114–94, § 24109(c)(2)(A)][/us/pl/114/94/s24109/c/2/A]–(C), inserted heading, inserted “or the manufacturer has provided to a rental company notification about a covered rental vehicle in the company’s possession at the time of notification” after “time of notification” in introductory provisions, and realigned margins of subpars. (A) and (B).
+    [Pub. L. 114–94][/us/pl/114/94], § 24109(c)(2)(A)–(C), inserted heading, inserted “or the manufacturer has provided to a rental company notification about a covered rental vehicle in the company’s possession at the time of notification” after “time of notification” in introductory provisions, and realigned margins of subpars. (A) and (B).
 
-    Subsec. (i)(1)(A). [Pub. L. 114–94, § 24109(c)(2)(E)][/us/pl/114/94/s24109/c/2/E], substituted “sale, lease, or rental agreement” for “sale or lease”.
+    Subsec. (i)(1)(A). [Pub. L. 114–94][/us/pl/114/94], § 24109(c)(2)(E), substituted “sale, lease, or rental agreement” for “sale or lease”.
 
-    Subsec. (i)(2). [Pub. L. 114–94, § 24109(c)(3)][/us/pl/114/94/s24109/c/3], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “This subsection does not prohibit a dealer from offering for sale or lease the vehicle or equipment.”
+    Subsec. (i)(2). [Pub. L. 114–94][/us/pl/114/94], § 24109(c)(3), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “This subsection does not prohibit a dealer from offering for sale or lease the vehicle or equipment.”
 
-    Subsec. (i)(3). [Pub. L. 114–94, § 24109(c)(4)][/us/pl/114/94/s24109/c/4], added par. (3).
+    Subsec. (i)(3). [Pub. L. 114–94][/us/pl/114/94], § 24109(c)(4), added par. (3).
 
-    2012—Subsec. (a)(1)(B). [Pub. L. 112–141, § 31311(1)][/us/pl/112/141/s31311/1], amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “if replacement equipment, by repairing the equipment or replacing the equipment with identical or reasonably equivalent equipment.”
+    2012—Subsec. (a)(1)(B). [Pub. L. 112–141][/us/pl/112/141], § 31311(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “if replacement equipment, by repairing the equipment or replacing the equipment with identical or reasonably equivalent equipment.”
 
-    Subsec. (i). [Pub. L. 112–141, § 31311(2)][/us/pl/112/141/s31311/2], inserted “of New Vehicles or Equipment” after “Lease” in heading.
+    Subsec. (i). [Pub. L. 112–141][/us/pl/112/141], § 31311(2), inserted “of New Vehicles or Equipment” after “Lease” in heading.
 
-    Subsec. (j). [Pub. L. 112–141, § 31311(3)][/us/pl/112/141/s31311/3], which directed substitution of “replacement” for “replaced” in heading, was executed by substituting “Replacement” for “Replaced”, to reflect the probable intent of Congress.
+    Subsec. (j). [Pub. L. 112–141][/us/pl/112/141], § 31311(3), which directed substitution of “replacement” for “replaced” in heading, was executed by substituting “Replacement” for “Replaced”, to reflect the probable intent of Congress.
 
-    2000—Subsec. (c)(3). [Pub. L. 106–414, § 6(a)][/us/pl/106/414/s6/a], added par. (3).
+    2000—Subsec. (c)(3). [Pub. L. 106–414][/us/pl/106/414], § 6(a), added par. (3).
 
-    Subsec. (d). [Pub. L. 106–414, § 7][/us/pl/106/414/s7], inserted at end “In the case of a remedy program involving the replacement of tires, the manufacturer shall include a plan addressing how to prevent, to the extent reasonably within the control of the manufacturer, replaced tires from being resold for installation on a motor vehicle, and how to limit, to the extent reasonably within the control of the manufacturer, the disposal of replaced tires in landfills, particularly through shredding, crumbling, recycling, recovery, and other alternative beneficial non-vehicular uses. The manufacturer shall include information about the implementation of such plan with each quarterly report to the Secretary regarding the progress of any notification or remedy campaigns.”
+    Subsec. (d). [Pub. L. 106–414][/us/pl/106/414], § 7, inserted at end “In the case of a remedy program involving the replacement of tires, the manufacturer shall include a plan addressing how to prevent, to the extent reasonably within the control of the manufacturer, replaced tires from being resold for installation on a motor vehicle, and how to limit, to the extent reasonably within the control of the manufacturer, the disposal of replaced tires in landfills, particularly through shredding, crumbling, recycling, recovery, and other alternative beneficial non-vehicular uses. The manufacturer shall include information about the implementation of such plan with each quarterly report to the Secretary regarding the progress of any notification or remedy campaigns.”
 
-    [Pub. L. 106–414, § 6(b)][/us/pl/106/414/s6/b], inserted at end “A manufacturer’s remedy program shall include a plan for reimbursing an owner or purchaser who incurred the cost of the remedy within a reasonable time in advance of the manufacturer’s notification under subsection (b) or (c) of section 30118. The Secretary may prescribe regulations establishing what constitutes a reasonable time for purposes of the preceding sentence and other reasonable conditions for the reimbursement plan.”
+    [Pub. L. 106–414][/us/pl/106/414], § 6(b), inserted at end “A manufacturer’s remedy program shall include a plan for reimbursing an owner or purchaser who incurred the cost of the remedy within a reasonable time in advance of the manufacturer’s notification under subsection (b) or (c) of section 30118. The Secretary may prescribe regulations establishing what constitutes a reasonable time for purposes of the preceding sentence and other reasonable conditions for the reimbursement plan.”
 
-    Subsec. (g)(1). [Pub. L. 106–414, § 4][/us/pl/106/414/s4], substituted “10 calendar years” for “8 calendar years” and “5 calendar years” for “3 calendar years”.
+    Subsec. (g)(1). [Pub. L. 106–414][/us/pl/106/414], § 4, substituted “10 calendar years” for “8 calendar years” and “5 calendar years” for “3 calendar years”.
 
-    Subsec. (j). [Pub. L. 106–414, § 8][/us/pl/106/414/s8], added subsec. (j).
+    Subsec. (j). [Pub. L. 106–414][/us/pl/106/414], § 8, added subsec. (j).
 
     1998—Subsec. (i)(1). [Pub. L. 105–178][/us/pl/105/178] inserted “(including retailers of motor vehicle equipment)” after “provided to a dealer” in introductory provisions.
 
@@ -559,40 +559,40 @@ Sept. 9, 1966, Pub. L. 89–563, 80 Stat. 718, § 154(d); added Dec. 18, 1991,
 [/us/usc/t49/s30118/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30118%2Fc
 [/us/usc/t49/s30118/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30118%2Fb
 [/us/usc/t49/s30121/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30121%2Fd
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F952
-[/us/pl/105/178/s7106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs7106%2Fa
+[/us/pl/105/178/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtVII
 [/us/stat/112/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F467
 [/us/pl/106/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F414
 [/us/stat/114/1803-1805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1803-1805
-[/us/pl/112/141/s31311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31311
+[/us/pl/112/141/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtI
 [/us/stat/126/771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F771
-[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/dB/tXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdB%2FtXXIV
 [/us/stat/129/1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1705
-[/us/pl/114/94/s24109/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24109%2Fc
+[/us/pl/114/94/dB/tXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdB%2FtXXIV
 [/us/stat/129/1706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1706
 [/us/usc/t49/s30501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30501
 [/us/usc/t49/s30504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30504
-[/us/pl/114/94/s24108/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24108%2F1
-[/us/pl/114/94/s24108/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24108%2F2
-[/us/pl/114/94/s24107/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24107%2F1
-[/us/pl/114/94/s24107/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24107%2F2
-[/us/pl/114/94/s24107/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24107%2F3
-[/us/pl/114/94/s24402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24402
-[/us/pl/114/94/s24109/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24109%2Fc%2F1
-[/us/pl/114/94/s24109/c/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24109%2Fc%2F2%2FD
-[/us/pl/114/94/s24109/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24109%2Fc%2F2%2FA
-[/us/pl/114/94/s24109/c/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24109%2Fc%2F2%2FE
-[/us/pl/114/94/s24109/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24109%2Fc%2F3
-[/us/pl/114/94/s24109/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24109%2Fc%2F4
-[/us/pl/112/141/s31311/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31311%2F1
-[/us/pl/112/141/s31311/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31311%2F2
-[/us/pl/112/141/s31311/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31311%2F3
-[/us/pl/106/414/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F414%2Fs6%2Fa
-[/us/pl/106/414/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F414%2Fs7
-[/us/pl/106/414/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F414%2Fs6%2Fb
-[/us/pl/106/414/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F414%2Fs4
-[/us/pl/106/414/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F414%2Fs8
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/106/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F414
+[/us/pl/106/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F414
+[/us/pl/106/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F414
+[/us/pl/106/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F414
+[/us/pl/106/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F414
 [/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
 [/us/pl/114/94/s24109/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24109%2Fc
 [/us/pl/114/94/s24109/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24109%2Fk

@@ -65,7 +65,7 @@
 
     In carrying out subsection (d)(2) and (3) of this section, the Secretary may use the services of the Association of American Railroads.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 881][/us/stat/108/881].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 881][/us/stat/108/881].)
 
 <table>
 
@@ -511,7 +511,7 @@ Mar. 2, 1903, ch. 976, 32 Stat. 943, § 2 (2d–5th sentences); added Apr. 11,
 ----------
 
 [/us/usc/t49/s20303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs20303
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F881
 [/us/usc/t49/s20303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs20303
 [/us/stat/27/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F27%2F531

@@ -67,9 +67,9 @@
 
  __Amendments__ 
 
-    2012—[Pub. L. 112–95, title I, § 122(b)][/us/pl/112/95/s122/b], Feb. 14, 2012, [126 Stat. 20][/us/stat/126/20], added item 45305.
+    2012—[Pub. L. 112–95, title I][/us/pl/112/95/tI], § 122(b), Feb. 14, 2012, [126 Stat. 20][/us/stat/126/20], added item 45305.
 
-    1996—[Pub. L. 104–264, title II][/us/pl/104/264], §§ 273(b), 276(b), Oct. 9, 1996, [110 Stat. 3240][/us/stat/110/3240], 3248, substituted “General provisions” for “Authority to impose fees” in item 45301, added items 45303 and 45304, and struck out former item 45303 “Maximum fees for private person services”.
+    1996—[Pub. L. 104–264, title II][/us/pl/104/264/tII], §§ 273(b), 276(b), Oct. 9, 1996, [110 Stat. 3240][/us/stat/110/3240], 3248, substituted “General provisions” for “Authority to impose fees” in item 45301, added items 45303 and 45304, and struck out former item 45303 “Maximum fees for private person services”.
 
 ----------
 
@@ -78,9 +78,9 @@
 ----------
 ----------
 
-[/us/pl/112/95/s122/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs122%2Fb
+[/us/pl/112/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtI
 [/us/stat/126/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F20
-[/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
+[/us/pl/104/264/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2FtII
 [/us/stat/110/3240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3240
 
 

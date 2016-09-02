@@ -41,13 +41,13 @@
 
     For purposes of this section, the term “failed to give up possession of household goods” means the knowing and willful failure, in violation of a contract, to deliver to, or unload at, the destination of a shipment of household goods that is subject to jurisdiction under subchapter I or III of chapter 135 of this title, for which charges have been estimated by the motor carrier providing transportation of such goods, and for which the shipper has tendered a payment described in clause (i), (ii), or (iii) of section 13707(b)(3)(A).
 
-(Added [Pub. L. 109–59, title IV, § 4210(a)][/us/pl/109/59/s4210/a], Aug. 10, 2005, [119 Stat. 1758][/us/stat/119/1758]; amended [Pub. L. 112–141, div. C, title II][/us/pl/112/141], §§ 32922(b), 32923(b), July 6, 2012, [126 Stat. 828][/us/stat/126/828].)
+(Added [Pub. L. 109–59, title IV][/us/pl/109/59/tIV], § 4210(a), Aug. 10, 2005, [119 Stat. 1758][/us/stat/119/1758]; amended [Pub. L. 112–141, div. C, title II][/us/pl/112/141/dC/tII], §§ 32922(b), 32923(b), July 6, 2012, [126 Stat. 828][/us/stat/126/828].)
 
  __Amendments__ 
 
-    2012—Subsec. (a)(1). [Pub. L. 112–141, § 32922(b)][/us/pl/112/141/s32922/b], inserted at end “The United States may assign all or a portion of the civil penalty to an aggrieved shipper. The Secretary of Transportation shall establish criteria upon which such assignments shall be made. The Secretary may order, after notice and an opportunity for a proceeding, that a person found holding a household goods shipment hostage return the goods to an aggrieved shipper.”
+    2012—Subsec. (a)(1). [Pub. L. 112–141][/us/pl/112/141], § 32922(b), inserted at end “The United States may assign all or a portion of the civil penalty to an aggrieved shipper. The Secretary of Transportation shall establish criteria upon which such assignments shall be made. The Secretary may order, after notice and an opportunity for a proceeding, that a person found holding a household goods shipment hostage return the goods to an aggrieved shipper.”
 
-    Subsec. (a)(4). [Pub. L. 112–141, § 32923(b)][/us/pl/112/141/s32923/b], added par. (4).
+    Subsec. (a)(4). [Pub. L. 112–141][/us/pl/112/141], § 32923(b), added par. (4).
 
  __Effective Date of 2012 Amendment__ 
 
@@ -60,12 +60,12 @@
 ----------
 ----------
 
-[/us/pl/109/59/s4210/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4210%2Fa
+[/us/pl/109/59/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIV
 [/us/stat/119/1758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1758
-[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtII
 [/us/stat/126/828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F828
-[/us/pl/112/141/s32922/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32922%2Fb
-[/us/pl/112/141/s32923/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32923%2Fb
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101

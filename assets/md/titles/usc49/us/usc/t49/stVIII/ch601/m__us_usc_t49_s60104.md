@@ -37,7 +37,7 @@
 
     This chapter does not authorize the Secretary of Transportation to prescribe the location or routing of a pipeline facility.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1308][/us/stat/108/1308]; [Pub. L. 107–355, § 3(a)][/us/pl/107/355/s3/a], Dec. 17, 2002, [116 Stat. 2986][/us/stat/116/2986].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1308][/us/stat/108/1308]; [Pub. L. 107–355][/us/pl/107/355], § 3(a), Dec. 17, 2002, [116 Stat. 2986][/us/stat/116/2986].)
 
 <table>
 
@@ -229,9 +229,9 @@ Aug. 12, 1968, Pub. L. 90–481, § 2(4) (33d–last words), 82 Stat. 720.  </
 [/us/usc/t49/s60105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs60105%2Fa
 [/us/usc/t15/s717b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs717b
 [/us/usc/t49/s60108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs60108
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1308
-[/us/pl/107/355/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355%2Fs3%2Fa
+[/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355
 [/us/stat/116/2986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2986
 [/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355
 

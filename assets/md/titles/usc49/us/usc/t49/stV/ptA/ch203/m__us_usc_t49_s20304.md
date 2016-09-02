@@ -17,7 +17,7 @@
 
     An employee of a railroad carrier injured by a vehicle or train used in violation of section 20302(a)(1)(A), (2), (4), or (5)(A) of this title does not assume the risk of injury resulting from the violation, even if the employee continues to be employed by the carrier after learning of the violation.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 883][/us/stat/108/883].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 883][/us/stat/108/883].)
 
 <table>
 
@@ -90,7 +90,7 @@ Mar. 2, 1903, ch. 976, § 1 (words before 23d comma), 32 Stat. 943; June 22, 1
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F883
 
 

@@ -115,7 +115,7 @@
 
     When a civil penalty has been collected under this chapter from a manufacturer that has earned credits under this section, the Secretary of the Treasury shall refund to the manufacturer the amount of the penalty to the extent the penalty is attributable to credits available under this section.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1061][/us/stat/108/1061]; [Pub. L. 110–140, title I, § 104(a)][/us/pl/110/140/s104/a], Dec. 19, 2007, [121 Stat. 1501][/us/stat/121/1501].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1061][/us/stat/108/1061]; [Pub. L. 110–140, title I][/us/pl/110/140/tI], § 104(a), Dec. 19, 2007, [121 Stat. 1501][/us/stat/121/1501].)
 
 <table>
 
@@ -259,13 +259,13 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, § 502(l); added Oct. 10, 1980,
 
  __Amendments__ 
 
-    2007—Subsec. (a). [Pub. L. 110–140, § 104(a)(1)][/us/pl/110/140/s104/a/1], substituted “subsections (a) through (d) of section 32902” for “section 32902(b)–(d) of this title” in introductory provisions.
+    2007—Subsec. (a). [Pub. L. 110–140][/us/pl/110/140], § 104(a)(1), substituted “subsections (a) through (d) of section 32902” for “section 32902(b)–(d) of this title” in introductory provisions.
 
-    Subsec. (a)(2). [Pub. L. 110–140, § 104(a)(2)][/us/pl/110/140/s104/a/2], substituted “paragraph (1)” for “clause (1) of this subsection,” and “5 consecutive” for “3 consecutive”.
+    Subsec. (a)(2). [Pub. L. 110–140][/us/pl/110/140], § 104(a)(2), substituted “paragraph (1)” for “clause (1) of this subsection,” and “5 consecutive” for “3 consecutive”.
 
-    Subsecs. (b)(2)(B), (c)(1). [Pub. L. 110–140, § 104(a)(1)][/us/pl/110/140/s104/a/1], substituted “subsections (a) through (d) of section 32902” for “section 32902(b)–(d) of this title”.
+    Subsecs. (b)(2)(B), (c)(1). [Pub. L. 110–140][/us/pl/110/140], § 104(a)(1), substituted “subsections (a) through (d) of section 32902” for “section 32902(b)–(d) of this title”.
 
-    Subsecs. (f) to (h). [Pub. L. 110–140, § 104(a)(3)][/us/pl/110/140/s104/a/3], (4), added subsecs. (f) and (g) and redesignated former subsec. (f) as (h).
+    Subsecs. (f) to (h). [Pub. L. 110–140][/us/pl/110/140], § 104(a)(3), (4), added subsecs. (f) and (g) and redesignated former subsec. (f) as (h).
 
  __Effective Date of 2007 Amendment__ 
 
@@ -279,14 +279,14 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, § 502(l); added Oct. 10, 1980,
 ----------
 
 [/us/usc/t49/s32902/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs32902%2Fa
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1061
-[/us/pl/110/140/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs104%2Fa
+[/us/pl/110/140/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtI
 [/us/stat/121/1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1501
-[/us/pl/110/140/s104/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs104%2Fa%2F1
-[/us/pl/110/140/s104/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs104%2Fa%2F2
-[/us/pl/110/140/s104/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs104%2Fa%2F1
-[/us/pl/110/140/s104/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs104%2Fa%2F3
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/110/140/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1601
 [/us/usc/t2/s1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1824

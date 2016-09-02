@@ -31,7 +31,7 @@
 
     The activities of each Officer shall be coordinated with the chief of the diplomatic mission of the United States to which the Officer is assigned. Activities of an Officer under this section shall be consistent with the duties and powers of the Secretary and the chief of mission to a foreign country under section 103 of the Omnibus Diplomatic Security and Antiterrorism Act of 1986 ([22 U.S.C. 4802][/us/usc/t22/s4802]) and section 207 of the Foreign Service Act of 1980 ([22 U.S.C. 3927][/us/usc/t22/s3927]).
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1217][/us/stat/108/1217]; [Pub. L. 107–71, title I, § 101(f)(4)][/us/pl/107/71/s101/f/4], (5), (7), (9), Nov. 19, 2001, [115 Stat. 603][/us/stat/115/603].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1217][/us/stat/108/1217]; [Pub. L. 107–71, title I][/us/pl/107/71/tI], § 101(f)(4), (5), (7), (9), Nov. 19, 2001, [115 Stat. 603][/us/stat/115/603].)
 
 <table>
 
@@ -115,11 +115,11 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 319(b); added Nov. 16, 1990,
 
  __Amendments__ 
 
-    2001—Subsec. (a). [Pub. L. 107–71, § 101(f)(7)][/us/pl/107/71/s101/f/7], (9), substituted “Under Secretary” for “Administrator” wherever appearing and “of Transportation for Security” for “of the Federal Aviation Administration”.
+    2001—Subsec. (a). [Pub. L. 107–71][/us/pl/107/71], § 101(f)(7), (9), substituted “Under Secretary” for “Administrator” wherever appearing and “of Transportation for Security” for “of the Federal Aviation Administration”.
 
-    Subsec. (b). [Pub. L. 107–71, § 101(f)(4)][/us/pl/107/71/s101/f/4], substituted “Under Secretary” for “Assistant Administrator for Civil Aviation Security” in introductory provisions.
+    Subsec. (b). [Pub. L. 107–71][/us/pl/107/71], § 101(f)(4), substituted “Under Secretary” for “Assistant Administrator for Civil Aviation Security” in introductory provisions.
 
-    Subsec. (b)(1). [Pub. L. 107–71, § 101(f)(5)][/us/pl/107/71/s101/f/5], substituted “Under Secretary” for “Assistant Administrator”.
+    Subsec. (b)(1). [Pub. L. 107–71][/us/pl/107/71], § 101(f)(5), substituted “Under Secretary” for “Assistant Administrator”.
 
  __Transfer of Functions__ 
 
@@ -135,13 +135,13 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 319(b); added Nov. 16, 1990,
 [/us/usc/t49/s44933/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44933%2Fb
 [/us/usc/t22/s4802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4802
 [/us/usc/t22/s3927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3927
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1217
-[/us/pl/107/71/s101/f/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs101%2Ff%2F4
+[/us/pl/107/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2FtI
 [/us/stat/115/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F603
-[/us/pl/107/71/s101/f/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs101%2Ff%2F7
-[/us/pl/107/71/s101/f/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs101%2Ff%2F4
-[/us/pl/107/71/s101/f/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs101%2Ff%2F5
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 
 

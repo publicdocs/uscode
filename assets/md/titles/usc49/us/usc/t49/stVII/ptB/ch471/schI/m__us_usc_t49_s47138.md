@@ -49,7 +49,7 @@
 
     The Secretary may not make a grant under the pilot program for the purchase of development rights at more than 10 airports.
 
-(Added [Pub. L. 108–176, title I, § 152(a)][/us/pl/108/176/s152/a], Dec. 12, 2003, [117 Stat. 2506][/us/stat/117/2506].)
+(Added [Pub. L. 108–176, title I][/us/pl/108/176/tI], § 152(a), Dec. 12, 2003, [117 Stat. 2506][/us/stat/117/2506].)
 
  __Effective Date__ 
 
@@ -62,7 +62,7 @@
 ----------
 ----------
 
-[/us/pl/108/176/s152/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs152%2Fa
+[/us/pl/108/176/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtI
 [/us/stat/117/2506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2506
 [/us/pl/108/176/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106

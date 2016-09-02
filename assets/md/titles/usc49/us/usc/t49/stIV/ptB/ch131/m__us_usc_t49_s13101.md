@@ -77,7 +77,7 @@
 
     This part shall be administered and enforced to carry out the policy of this section and to promote the public interest.
 
-(Added [Pub. L. 104–88, title I, § 103][/us/pl/104/88/s103], Dec. 29, 1995, [109 Stat. 853][/us/stat/109/853].)
+(Added [Pub. L. 104–88, title I][/us/pl/104/88/tI], § 103, Dec. 29, 1995, [109 Stat. 853][/us/stat/109/853].)
 
  __References in Text__ 
 
@@ -85,7 +85,7 @@
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [section 10101 of this title][/us/usc/t49/s10101] prior to the general amendment of this subtitle by [Pub. L. 104–88, § 102(a)][/us/pl/104/88/s102/a].
+    Provisions similar to those in this section were contained in [section 10101 of this title][/us/usc/t49/s10101] prior to the general amendment of this subtitle by [Pub. L. 104–88][/us/pl/104/88], § 102(a).
 
  __Effective Date__ 
 
@@ -98,13 +98,13 @@
 ----------
 ----------
 
-[/us/pl/104/88/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs103
+[/us/pl/104/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtI
 [/us/stat/109/853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F853
 [/us/pl/97/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F261
 [/us/stat/96/1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1102
 [/us/usc/t49/s10101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs10101
 [/us/usc/t49/s10101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs10101
-[/us/pl/104/88/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs102%2Fa
+[/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/104/88/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs2
 [/us/usc/t49/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1301

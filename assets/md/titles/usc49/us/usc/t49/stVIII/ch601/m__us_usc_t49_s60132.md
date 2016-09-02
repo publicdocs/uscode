@@ -51,7 +51,7 @@
 
     The Secretary may not disclose information collected pursuant to subsection (a) except to the extent permitted by [section 552 of title 5][/us/usc/t5/s552].
 
-(Added [Pub. L. 107–355, § 15(a)][/us/pl/107/355/s15/a], Dec. 17, 2002, [116 Stat. 3005][/us/stat/116/3005]; amended [Pub. L. 112–90][/us/pl/112/90], §§ 6(a), 11, Jan. 3, 2012, [125 Stat. 1909][/us/stat/125/1909], 1913.)
+(Added [Pub. L. 107–355][/us/pl/107/355], § 15(a), Dec. 17, 2002, [116 Stat. 3005][/us/stat/116/3005]; amended [Pub. L. 112–90][/us/pl/112/90], §§ 6(a), 11, Jan. 3, 2012, [125 Stat. 1909][/us/stat/125/1909], 1913.)
 
  __References in Text__ 
 
@@ -61,15 +61,15 @@
 
  __Amendments__ 
 
-    2012—Subsec. (a)(4). [Pub. L. 112–90, § 11(a)][/us/pl/112/90/s11/a], added par. (4).
+    2012—Subsec. (a)(4). [Pub. L. 112–90][/us/pl/112/90], § 11(a), added par. (4).
 
-    Subsecs. (d), (e). [Pub. L. 112–90, § 6(a)][/us/pl/112/90/s6/a], added subsecs. (d) and (e).
+    Subsecs. (d), (e). [Pub. L. 112–90][/us/pl/112/90], § 6(a), added subsecs. (d) and (e).
 
-    Subsec. (f). [Pub. L. 112–90, § 11(b)][/us/pl/112/90/s11/b], added subsec. (f).
+    Subsec. (f). [Pub. L. 112–90][/us/pl/112/90], § 11(b), added subsec. (f).
 
  __Information to Emergency Response Agencies__ 
 
-[Pub. L. 112–90, § 6(b)][/us/pl/112/90/s6/b], Jan. 3, 2012, [125 Stat. 1910][/us/stat/125/1910], provided that:
+[Pub. L. 112–90][/us/pl/112/90], § 6(b), Jan. 3, 2012, [125 Stat. 1910][/us/stat/125/1910], provided that:
 
 >     “(1)  __Guidance__  __.—__ 
 
@@ -89,16 +89,16 @@
 ----------
 
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
-[/us/pl/107/355/s15/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355%2Fs15%2Fa
+[/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355
 [/us/stat/116/3005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3005
 [/us/pl/112/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90
 [/us/stat/125/1909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1909
 [/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355
 [/us/pl/112/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90
-[/us/pl/112/90/s11/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90%2Fs11%2Fa
-[/us/pl/112/90/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90%2Fs6%2Fa
-[/us/pl/112/90/s11/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90%2Fs11%2Fb
-[/us/pl/112/90/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90%2Fs6%2Fb
+[/us/pl/112/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90
+[/us/pl/112/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90
+[/us/pl/112/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90
+[/us/pl/112/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90
 [/us/stat/125/1910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1910
 [/us/pl/112/90/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90%2Fs6%2Fb
 [/us/pl/112/90/s1/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90%2Fs1%2Fc%2F1

@@ -67,17 +67,17 @@
 
             (G) materials and equipment testing.
 
-(Added [Pub. L. 112–141, div. C, title III, § 33007(a)][/us/pl/112/141/s33007/a], July 6, 2012, [126 Stat. 835][/us/stat/126/835]; amended [Pub. L. 114–94, div. A, title VI, § 6014][/us/pl/114/94/s6014], Dec. 4, 2015, [129 Stat. 1570][/us/stat/129/1570].)
+(Added [Pub. L. 112–141, div. C, title III][/us/pl/112/141/dC/tIII], § 33007(a), July 6, 2012, [126 Stat. 835][/us/stat/126/835]; amended [Pub. L. 114–94, div. A, title VI][/us/pl/114/94/dA/tVI], § 6014, Dec. 4, 2015, [129 Stat. 1570][/us/stat/129/1570].)
 
  __Prior Provisions__ 
 
-    A prior section 5118, [Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 777][/us/stat/108/777]; [Pub. L. 108–426, § 2(c)(2)][/us/pl/108/426/s2/c/2], Nov. 30, 2004, [118 Stat. 2424][/us/stat/118/2424], related to employment of additional hazardous material safety inspectors, prior to repeal by [Pub. L. 109–59, title VII, § 7115(h)][/us/pl/109/59/s7115/h], Aug. 10, 2005, [119 Stat. 1901][/us/stat/119/1901].
+    A prior section 5118, [Pub. L. 103–272][/us/pl/103/272], § 1(d), July 5, 1994, [108 Stat. 777][/us/stat/108/777]; [Pub. L. 108–426][/us/pl/108/426], § 2(c)(2), Nov. 30, 2004, [118 Stat. 2424][/us/stat/118/2424], related to employment of additional hazardous material safety inspectors, prior to repeal by [Pub. L. 109–59, title VII][/us/pl/109/59/tVII], § 7115(h), Aug. 10, 2005, [119 Stat. 1901][/us/stat/119/1901].
 
  __Amendments__ 
 
-    2015—Subsec. (a)(2)(C). [Pub. L. 114–94, § 6014(1)][/us/pl/114/94/s6014/1], added subpar. (C).
+    2015—Subsec. (a)(2)(C). [Pub. L. 114–94][/us/pl/114/94], § 6014(1), added subpar. (C).
 
-    Subsec. (c). [Pub. L. 114–94, § 6014(2)][/us/pl/114/94/s6014/2], added subsec. (c).
+    Subsec. (c). [Pub. L. 114–94][/us/pl/114/94], § 6014(2), added subsec. (c).
 
  __Effective Date of 2015 Amendment__ 
 
@@ -94,18 +94,18 @@
 ----------
 ----------
 
-[/us/pl/112/141/s33007/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs33007%2Fa
+[/us/pl/112/141/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtIII
 [/us/stat/126/835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F835
-[/us/pl/114/94/s6014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs6014
+[/us/pl/114/94/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtVI
 [/us/stat/129/1570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1570
-[/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F777
-[/us/pl/108/426/s2/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F426%2Fs2%2Fc%2F2
+[/us/pl/108/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F426
 [/us/stat/118/2424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2424
-[/us/pl/109/59/s7115/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7115%2Fh
+[/us/pl/109/59/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtVII
 [/us/stat/119/1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1901
-[/us/pl/114/94/s6014/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs6014%2F1
-[/us/pl/114/94/s6014/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs6014%2F2
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313

@@ -33,7 +33,7 @@
 
         (2) another individual the Administrator of the Federal Aviation Administration or the Secretary of Homeland Security by regulation authorizes to carry arms in an official capacity.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1234][/us/stat/108/1234]; [Pub. L. 107–71, title I, § 140(d)(5)][/us/pl/107/71/s140/d/5], Nov. 19, 2001, [115 Stat. 642][/us/stat/115/642]; [Pub. L. 108–458, title IV, § 4027(c)][/us/pl/108/458/s4027/c], Dec. 17, 2004, [118 Stat. 3727][/us/stat/118/3727].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1234][/us/stat/108/1234]; [Pub. L. 107–71, title I][/us/pl/107/71/tI], § 140(d)(5), Nov. 19, 2001, [115 Stat. 642][/us/stat/115/642]; [Pub. L. 108–458, title IV][/us/pl/108/458/tIV], § 4027(c), Dec. 17, 2004, [118 Stat. 3727][/us/stat/118/3727].)
 
 <table>
 
@@ -137,9 +137,9 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 1601(b)(1)(E); added Oct. 4,
 
  __Amendments__ 
 
-    2004—Subsec. (b)(1). [Pub. L. 108–458, § 4027(c)(1)][/us/pl/108/458/s4027/c/1], substituted “Secretary of Homeland Security” for “Secretary of Transportation”.
+    2004—Subsec. (b)(1). [Pub. L. 108–458][/us/pl/108/458], § 4027(c)(1), substituted “Secretary of Homeland Security” for “Secretary of Transportation”.
 
-    Subsec. (c)(2). [Pub. L. 108–458, § 4027(c)(2)][/us/pl/108/458/s4027/c/2], substituted “Secretary of Homeland Security” for “Under Secretary of Transportation for Security”.
+    Subsec. (c)(2). [Pub. L. 108–458][/us/pl/108/458], § 4027(c)(2), substituted “Secretary of Homeland Security” for “Under Secretary of Transportation for Security”.
 
     2001—Subsec. (c)(2). [Pub. L. 107–71][/us/pl/107/71] inserted “or the Under Secretary of Transportation for Security” after “Federal Aviation Administration”.
 
@@ -150,14 +150,14 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 1601(b)(1)(E); added Oct. 4,
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1234
-[/us/pl/107/71/s140/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs140%2Fd%2F5
+[/us/pl/107/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2FtI
 [/us/stat/115/642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F642
-[/us/pl/108/458/s4027/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs4027%2Fc
+[/us/pl/108/458/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtIV
 [/us/stat/118/3727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3727
-[/us/pl/108/458/s4027/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs4027%2Fc%2F1
-[/us/pl/108/458/s4027/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs4027%2Fc%2F2
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
 
 

@@ -53,7 +53,7 @@
 
     A State may not receive more than 15 percent of the amounts provided in a fiscal year under this chapter. Not more than 20 percent of the amounts available under this chapter may be provided in a fiscal year for any one project.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 894][/us/stat/108/894]; [Pub. L. 104–88, title III, § 308(f)(1)][/us/pl/104/88/s308/f/1], (2), Dec. 29, 1995, [109 Stat. 947][/us/stat/109/947].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 894][/us/stat/108/894]; [Pub. L. 104–88, title III][/us/pl/104/88/tIII], § 308(f)(1), (2), Dec. 29, 1995, [109 Stat. 947][/us/stat/109/947].)
 
 <table>
 
@@ -182,9 +182,9 @@ Oct. 15, 1966, Pub. L. 89–670, 80 Stat. 931, § 5(b), (c), (n)–(p); added 
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F894
-[/us/pl/104/88/s308/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs308%2Ff%2F1
+[/us/pl/104/88/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtIII
 [/us/stat/109/947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F947
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88

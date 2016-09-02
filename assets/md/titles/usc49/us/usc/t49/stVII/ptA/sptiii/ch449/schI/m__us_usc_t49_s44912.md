@@ -109,7 +109,7 @@
 
         (4) Not later than 90 days after the date of the enactment of the Aviation and Transportation Security Act, and every two years thereafter, the Administrator shall review the composition of the advisory panel in order to ensure that the expertise of the individuals on the panel is suited to the current and anticipated duties of the panel.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1212][/us/stat/108/1212]; [Pub. L. 107–71, title I][/us/pl/107/71], §§ 101(f)(7), (9), 112, Nov. 19, 2001, [115 Stat. 603][/us/stat/115/603], 620.)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1212][/us/stat/108/1212]; [Pub. L. 107–71, title I][/us/pl/107/71/tI], §§ 101(f)(7), (9), 112, Nov. 19, 2001, [115 Stat. 603][/us/stat/115/603], 620.)
 
 <table>
 
@@ -201,39 +201,39 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 316(d)(3)–(8); added Nov. 
 
  __Amendments__ 
 
-    2001—Subsec. (a)(1). [Pub. L. 107–71, § 101(f)(7)][/us/pl/107/71/s101/f/7], (9), substituted “Under Secretary of Transportation for Security” for “Administrator of the Federal Aviation Administration”.
+    2001—Subsec. (a)(1). [Pub. L. 107–71][/us/pl/107/71], § 101(f)(7), (9), substituted “Under Secretary of Transportation for Security” for “Administrator of the Federal Aviation Administration”.
 
-    Subsec. (a)(2), (3). [Pub. L. 107–71, § 101(f)(7)][/us/pl/107/71/s101/f/7], substituted “Under Secretary” for “Administrator”.
+    Subsec. (a)(2), (3). [Pub. L. 107–71][/us/pl/107/71], § 101(f)(7), substituted “Under Secretary” for “Administrator”.
 
-    Subsec. (a)(4). [Pub. L. 107–71, § 112(b)(1)(B)][/us/pl/107/71/s112/b/1/B], added par. (4). Former par. (4) redesignated (5).
+    Subsec. (a)(4). [Pub. L. 107–71][/us/pl/107/71], § 112(b)(1)(B), added par. (4). Former par. (4) redesignated (5).
 
-    [Pub. L. 107–71, § 101(f)(7)][/us/pl/107/71/s101/f/7], substituted “Under Secretary” for “Administrator” in two places.
+    [Pub. L. 107–71][/us/pl/107/71], § 101(f)(7), substituted “Under Secretary” for “Administrator” in two places.
 
-    Subsec. (a)(5). [Pub. L. 107–71, § 112(b)(1)(A)][/us/pl/107/71/s112/b/1/A], redesignated par. (4) as (5).
+    Subsec. (a)(5). [Pub. L. 107–71][/us/pl/107/71], § 112(b)(1)(A), redesignated par. (4) as (5).
 
     Subsec. (b)(1). [Pub. L. 107–71][/us/pl/107/71], §§ 101(f)(7), 112(a)(1), in introductory provisions, substituted “Under Secretary” for “Administrator” and “periodically review” for “complete an intensive review of”.
 
-    Subsec. (b)(1)(A). [Pub. L. 107–71, § 112(b)(2)(B)][/us/pl/107/71/s112/b/2/B], added subpar. (A). Former subpar. (A) redesignated (B).
+    Subsec. (b)(1)(A). [Pub. L. 107–71][/us/pl/107/71], § 112(b)(2)(B), added subpar. (A). Former subpar. (A) redesignated (B).
 
-    Subsec. (b)(1)(B). [Pub. L. 107–71, § 112(b)(2)(A)][/us/pl/107/71/s112/b/2/A], redesignated subpar. (A) as (B). Former subpar. (B) redesignated (C).
+    Subsec. (b)(1)(B). [Pub. L. 107–71][/us/pl/107/71], § 112(b)(2)(A), redesignated subpar. (A) as (B). Former subpar. (B) redesignated (C).
 
-    [Pub. L. 107–71, § 112(a)(2)][/us/pl/107/71/s112/a/2], substituted “aircraft in air transportation;” for “commercial aircraft in service and expected to be in service in the 10-year period beginning on November 16, 1990;”.
+    [Pub. L. 107–71][/us/pl/107/71], § 112(a)(2), substituted “aircraft in air transportation;” for “commercial aircraft in service and expected to be in service in the 10-year period beginning on November 16, 1990;”.
 
-    Subsec. (b)(1)(C). [Pub. L. 107–71, § 112(b)(2)(A)][/us/pl/107/71/s112/b/2/A], redesignated subpar. (B) as (C). Former subpar. (C) redesignated (D).
+    Subsec. (b)(1)(C). [Pub. L. 107–71][/us/pl/107/71], § 112(b)(2)(A), redesignated subpar. (B) as (C). Former subpar. (C) redesignated (D).
 
-    Subsec. (b)(1)(D). [Pub. L. 107–71, § 112(b)(2)(A)][/us/pl/107/71/s112/b/2/A], redesignated subpar. (C) as (D). Former subpar. (D) redesignated (E).
+    Subsec. (b)(1)(D). [Pub. L. 107–71][/us/pl/107/71], § 112(b)(2)(A), redesignated subpar. (C) as (D). Former subpar. (D) redesignated (E).
 
-    [Pub. L. 107–71, § 112(a)(3)][/us/pl/107/71/s112/a/3], added subpar. (D). Former subpar. (D) redesignated (E).
+    [Pub. L. 107–71][/us/pl/107/71], § 112(a)(3), added subpar. (D). Former subpar. (D) redesignated (E).
 
-    Subsec. (b)(1)(E) to (G). [Pub. L. 107–71, § 112(b)(2)(A)][/us/pl/107/71/s112/b/2/A], redesignated subpars. (D) to (F) as (E) to (G), respectively. Former subpar. (G) redesignated (H).
+    Subsec. (b)(1)(E) to (G). [Pub. L. 107–71][/us/pl/107/71], § 112(b)(2)(A), redesignated subpars. (D) to (F) as (E) to (G), respectively. Former subpar. (G) redesignated (H).
 
-    [Pub. L. 107–71, § 112(a)(3)][/us/pl/107/71/s112/a/3], redesignated subpars. (D) to (F) as (E) to (G), respectively.
+    [Pub. L. 107–71][/us/pl/107/71], § 112(a)(3), redesignated subpars. (D) to (F) as (E) to (G), respectively.
 
-    Subsec. (b)(1)(H). [Pub. L. 107–71, § 112(b)(2)(A)][/us/pl/107/71/s112/b/2/A], redesignated subpar. (G) as (H).
+    Subsec. (b)(1)(H). [Pub. L. 107–71][/us/pl/107/71], § 112(b)(2)(A), redesignated subpar. (G) as (H).
 
-    Subsec. (b)(2). [Pub. L. 107–71, § 101(f)(7)][/us/pl/107/71/s101/f/7], substituted “Under Secretary” for “Administrator”.
+    Subsec. (b)(2). [Pub. L. 107–71][/us/pl/107/71], § 101(f)(7), substituted “Under Secretary” for “Administrator”.
 
-    Subsec. (c). [Pub. L. 107–71, § 112(b)(3)][/us/pl/107/71/s112/b/3], amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: “The Administrator shall establish a scientific advisory panel, as a subcommittee of the Research, Engineering and Development Advisory Committee, to review, comment on, advise on the progress of, and recommend modifications in, the program established under subsection (a) of this section, including the need for long-range research programs to detect and prevent catastrophic damage to commercial aircraft by the next generation of terrorist weapons. The panel shall consist of individuals with scientific and technical expertise in—
+    Subsec. (c). [Pub. L. 107–71][/us/pl/107/71], § 112(b)(3), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: “The Administrator shall establish a scientific advisory panel, as a subcommittee of the Research, Engineering and Development Advisory Committee, to review, comment on, advise on the progress of, and recommend modifications in, the program established under subsection (a) of this section, including the need for long-range research programs to detect and prevent catastrophic damage to commercial aircraft by the next generation of terrorist weapons. The panel shall consist of individuals with scientific and technical expertise in—
 
     “(1) the development and testing of effective explosive detection systems;
 
@@ -249,7 +249,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 316(d)(3)–(8); added Nov. 
 
  __Research and Development of Aviation Security Technology__ 
 
-[Pub. L. 107–71, title I, § 137][/us/pl/107/71/s137], Nov. 19, 2001, [115 Stat. 637][/us/stat/115/637], as amended by [Pub. L. 110–53, title XVI, § 1608][/us/pl/110/53/s1608], Aug. 3, 2007, [121 Stat. 484][/us/stat/121/484], provided that:
+[Pub. L. 107–71, title I][/us/pl/107/71/tI], § 137, Nov. 19, 2001, [115 Stat. 637][/us/stat/115/637], as amended by [Pub. L. 110–53, title XVI][/us/pl/110/53/tXVI], § 1608, Aug. 3, 2007, [121 Stat. 484][/us/stat/121/484], provided that:
 
 >     “(a)  __Funding__  __.—__ 
 
@@ -310,32 +310,32 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 316(d)(3)–(8); added Nov. 
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1212
-[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2FtI
 [/us/stat/115/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F603
 [/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
-[/us/pl/107/71/s101/f/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs101%2Ff%2F7
-[/us/pl/107/71/s101/f/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs101%2Ff%2F7
-[/us/pl/107/71/s112/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs112%2Fb%2F1%2FB
-[/us/pl/107/71/s101/f/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs101%2Ff%2F7
-[/us/pl/107/71/s112/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs112%2Fb%2F1%2FA
 [/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
-[/us/pl/107/71/s112/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs112%2Fb%2F2%2FB
-[/us/pl/107/71/s112/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs112%2Fb%2F2%2FA
-[/us/pl/107/71/s112/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs112%2Fa%2F2
-[/us/pl/107/71/s112/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs112%2Fb%2F2%2FA
-[/us/pl/107/71/s112/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs112%2Fb%2F2%2FA
-[/us/pl/107/71/s112/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs112%2Fa%2F3
-[/us/pl/107/71/s112/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs112%2Fb%2F2%2FA
-[/us/pl/107/71/s112/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs112%2Fa%2F3
-[/us/pl/107/71/s112/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs112%2Fb%2F2%2FA
-[/us/pl/107/71/s101/f/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs101%2Ff%2F7
-[/us/pl/107/71/s112/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs112%2Fb%2F3
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/107/71/s137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs137
+[/us/pl/107/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2FtI
 [/us/stat/115/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F637
-[/us/pl/110/53/s1608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1608
+[/us/pl/110/53/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXVI
 [/us/stat/121/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F484
 [/us/usc/t49/s44912/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44912%2Fa%2F1
 [/us/pl/107/71/s137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs137

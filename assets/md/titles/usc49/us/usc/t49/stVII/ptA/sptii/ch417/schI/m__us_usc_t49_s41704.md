@@ -17,7 +17,7 @@
 
     Under regulations or orders of the Secretary of Transportation, an air carrier shall transport as baggage the property of a passenger traveling in air transportation that may not be carried in an aircraft cabin because of a law or regulation of the United States. The carrier is liable to pay an amount not more than the amount declared to the carrier by that passenger for actual loss of, or damage to, the property caused by the carrier. The carrier may impose reasonable charges and conditions for its liability.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1141][/us/stat/108/1141].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1141][/us/stat/108/1141].)
 
 <table>
 
@@ -90,7 +90,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 1601(b)(1)(E); added Oct. 4,
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1141
 
 

@@ -31,7 +31,7 @@
 
     On request of the Attorney General, the Board may participate in a civil action to enforce section 1132, 1134(b) or (f)(1) (related to an aircraft accident), 1136(g)(2), or 1155(a) of this title.
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 756][/us/stat/108/756]; [Pub. L. 106–181, title IV, § 401(a)(2)][/us/pl/106/181/s401/a/2], Apr. 5, 2000, [114 Stat. 129][/us/stat/114/129].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(d), July 5, 1994, [108 Stat. 756][/us/stat/108/756]; [Pub. L. 106–181, title IV][/us/pl/106/181/tIV], § 401(a)(2), Apr. 5, 2000, [114 Stat. 129][/us/stat/114/129].)
 
 <table>
 
@@ -220,9 +220,9 @@ In subsection (a), the words “their duly authorized agents” are omitted as s
 ----------
 ----------
 
-[/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F756
-[/us/pl/106/181/s401/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs401%2Fa%2F2
+[/us/pl/106/181/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtIV
 [/us/stat/114/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F129
 [/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181

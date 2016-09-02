@@ -29,7 +29,7 @@
 
     Funds made available under this section shall remain available until expended.
 
-(Added [Pub. L. 103–440, title I, § 103(a)(2)][/us/pl/103/440/s103/a/2], Nov. 2, 1994, [108 Stat. 4618][/us/stat/108/4618]; amended [Pub. L. 105–178, title VII, § 7201(a)][/us/pl/105/178/s7201/a], June 9, 1998, [112 Stat. 469][/us/stat/112/469]; [Pub. L. 109–59, title IX, § 9001(b)][/us/pl/109/59/s9001/b], Aug. 10, 2005, [119 Stat. 1919][/us/stat/119/1919]; [Pub. L. 110–432, div. B, title V, § 501(b)][/us/pl/110/432/s501/b], Oct. 16, 2008, [122 Stat. 4960][/us/stat/122/4960].)
+(Added [Pub. L. 103–440, title I][/us/pl/103/440/tI], § 103(a)(2), Nov. 2, 1994, [108 Stat. 4618][/us/stat/108/4618]; amended [Pub. L. 105–178, title VII][/us/pl/105/178/tVII], § 7201(a), June 9, 1998, [112 Stat. 469][/us/stat/112/469]; [Pub. L. 109–59, title IX][/us/pl/109/59/tIX], § 9001(b), Aug. 10, 2005, [119 Stat. 1919][/us/stat/119/1919]; [Pub. L. 110–432, div. B, title V][/us/pl/110/432/dB/tV], § 501(b), Oct. 16, 2008, [122 Stat. 4960][/us/stat/122/4960].)
 
  __Amendments__ 
 
@@ -46,13 +46,13 @@
 ----------
 ----------
 
-[/us/pl/103/440/s103/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F440%2Fs103%2Fa%2F2
+[/us/pl/103/440/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F440%2FtI
 [/us/stat/108/4618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4618
-[/us/pl/105/178/s7201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs7201%2Fa
+[/us/pl/105/178/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtVII
 [/us/stat/112/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F469
-[/us/pl/109/59/s9001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs9001%2Fb
+[/us/pl/109/59/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIX
 [/us/stat/119/1919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1919
-[/us/pl/110/432/s501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs501%2Fb
+[/us/pl/110/432/dB/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdB%2FtV
 [/us/stat/122/4960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4960
 [/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59

@@ -45,7 +45,7 @@
 
         (2) establish a new deadline.
 
-(Added [Pub. L. 109–59, title X, § 10301(a)][/us/pl/109/59/s10301/a], Aug. 10, 2005, [119 Stat. 1939][/us/stat/119/1939].)
+(Added [Pub. L. 109–59, title X][/us/pl/109/59/tX], § 10301(a), Aug. 10, 2005, [119 Stat. 1939][/us/stat/119/1939].)
 
  __References in Text__ 
 
@@ -62,7 +62,7 @@
 ----------
 ----------
 
-[/us/pl/109/59/s10301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs10301%2Fa
+[/us/pl/109/59/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtX
 [/us/stat/119/1939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1939
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/109/59/s10301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs10301%2Fa

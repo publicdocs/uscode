@@ -47,7 +47,7 @@
 
     No funds may be accepted pursuant to subsection (a), or transferred pursuant to subsection (b), in any fiscal year in which the Federal Aviation Administration does not allocate at least the amount it expended in fiscal year 2002 (excluding amounts accepted pursuant to section 337 of the Department of Transportation and Related Agencies Appropriations Act, 2002 ([115 Stat. 862][/us/stat/115/862])) for the activities described in subsection (a).
 
-(Added [Pub. L. 108–176, title III, § 304(a)][/us/pl/108/176/s304/a], Dec. 12, 2003, [117 Stat. 2537][/us/stat/117/2537]; amended [Pub. L. 112–95, title V, § 503][/us/pl/112/95/s503], Feb. 14, 2012, [126 Stat. 103][/us/stat/126/103].)
+(Added [Pub. L. 108–176, title III][/us/pl/108/176/tIII], § 304(a), Dec. 12, 2003, [117 Stat. 2537][/us/stat/117/2537]; amended [Pub. L. 112–95, title V][/us/pl/112/95/tV], § 503, Feb. 14, 2012, [126 Stat. 103][/us/stat/126/103].)
 
  __References in Text__ 
 
@@ -66,9 +66,9 @@
 
 [/us/usc/t31/s3302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3302
 [/us/stat/115/862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F862
-[/us/pl/108/176/s304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs304%2Fa
+[/us/pl/108/176/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtIII
 [/us/stat/117/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2537
-[/us/pl/112/95/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs503
+[/us/pl/112/95/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtV
 [/us/stat/126/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F103
 [/us/pl/107/87/s337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F87%2Fs337
 [/us/stat/115/862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F862

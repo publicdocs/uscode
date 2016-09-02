@@ -69,23 +69,23 @@
 
     For fiscal years beginning after September 30, 2016, this section shall be funded under section 31104.
 
-(Added [Pub. L. 109–59, title IV, § 4124(a)][/us/pl/109/59/s4124/a], Aug. 10, 2005, [119 Stat. 1736][/us/stat/119/1736]; amended [Pub. L. 112–141, div. C, title II, § 32604(a)][/us/pl/112/141/s32604/a], (b)(1), July 6, 2012, [126 Stat. 808][/us/stat/126/808], 809; [Pub. L. 114–94, div. A, title V, § 5104(a)][/us/pl/114/94/s5104/a], Dec. 4, 2015, [129 Stat. 1527][/us/stat/129/1527].)
+(Added [Pub. L. 109–59, title IV][/us/pl/109/59/tIV], § 4124(a), Aug. 10, 2005, [119 Stat. 1736][/us/stat/119/1736]; amended [Pub. L. 112–141, div. C, title II][/us/pl/112/141/dC/tII], § 32604(a), (b)(1), July 6, 2012, [126 Stat. 808][/us/stat/126/808], 809; [Pub. L. 114–94, div. A, title V][/us/pl/114/94/dA/tV], § 5104(a), Dec. 4, 2015, [129 Stat. 1527][/us/stat/129/1527].)
 
  __References in Text__ 
 
-    Section 32303(b) of the Commercial Motor Vehicle Safety Enhancement Act of 2012, referred to in subsec. (a)(2)(B)(iv), is [section 32303(b) of title II of div. C of Pub. L. 112–141][/us/pl/112/141/s32303/b], which is set out as a note under [section 31304 of this title][/us/usc/t49/s31304].
+    Section 32303(b) of the Commercial Motor Vehicle Safety Enhancement Act of 2012, referred to in subsec. (a)(2)(B)(iv), is [section 32303(b) of title II of div. C of Pub. L. 112–141][/us/pl/112/141/dC/tII/s32303/b], which is set out as a note under [section 31304 of this title][/us/usc/t49/s31304].
 
  __Prior Provisions__ 
 
-    A prior section 31313, [Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1027][/us/stat/108/1027], related to grants for issuing commercial drivers’ licenses and complying with State participation requirements, prior to repeal by [Pub. L. 105–178, title IV, § 4011(f)][/us/pl/105/178/s4011/f], June 9, 1998, [112 Stat. 408][/us/stat/112/408].
+    A prior section 31313, [Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1027][/us/stat/108/1027], related to grants for issuing commercial drivers’ licenses and complying with State participation requirements, prior to repeal by [Pub. L. 105–178, title IV][/us/pl/105/178/tIV], § 4011(f), June 9, 1998, [112 Stat. 408][/us/stat/112/408].
 
  __Amendments__ 
 
     2015—[Pub. L. 114–94][/us/pl/114/94] amended section generally. Prior to amendment, section related to grants for commercial driver’s license program implementation.
 
-    2012—[Pub. L. 112–141, § 32604(b)(1)][/us/pl/112/141/s32604/b/1], substituted “implementation” for “improvements” in section catchline.
+    2012—[Pub. L. 112–141][/us/pl/112/141], § 32604(b)(1), substituted “implementation” for “improvements” in section catchline.
 
-    Subsec. (a). [Pub. L. 112–141, § 32604(a)][/us/pl/112/141/s32604/a], amended subsec. (a) generally. Prior to amendment, subsec. (a) related to grants for commercial driver’s license program improvements.
+    Subsec. (a). [Pub. L. 112–141][/us/pl/112/141], § 32604(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) related to grants for commercial driver’s license program improvements.
 
  __Effective Date of 2015 Amendment__ 
 
@@ -103,21 +103,21 @@
 ----------
 
 [/us/usc/t49/s31304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31304
-[/us/pl/109/59/s4124/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4124%2Fa
+[/us/pl/109/59/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIV
 [/us/stat/119/1736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1736
-[/us/pl/112/141/s32604/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32604%2Fa
+[/us/pl/112/141/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtII
 [/us/stat/126/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F808
-[/us/pl/114/94/s5104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5104%2Fa
+[/us/pl/114/94/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtV
 [/us/stat/129/1527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1527
-[/us/pl/112/141/s32303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32303%2Fb
+[/us/pl/112/141/dC/tII/s32303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtII%2Fs32303%2Fb
 [/us/usc/t49/s31304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31304
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1027
-[/us/pl/105/178/s4011/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4011%2Ff
+[/us/pl/105/178/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtIV
 [/us/stat/112/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F408
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
-[/us/pl/112/141/s32604/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32604%2Fb%2F1
-[/us/pl/112/141/s32604/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32604%2Fa
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313

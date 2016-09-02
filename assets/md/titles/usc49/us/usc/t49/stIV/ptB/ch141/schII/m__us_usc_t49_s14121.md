@@ -25,11 +25,11 @@
 
     The term “association” means an organization maintained by or in the interest of a group of carriers or brokers providing transportation or service subject to jurisdiction under chapter 135 that performs a service, or engages in activities, related to transportation under this part.
 
-(Added [Pub. L. 104–88, title I, § 103][/us/pl/104/88/s103], Dec. 29, 1995, [109 Stat. 892][/us/stat/109/892].)
+(Added [Pub. L. 104–88, title I][/us/pl/104/88/tI], § 103, Dec. 29, 1995, [109 Stat. 892][/us/stat/109/892].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [section 11141 of this title][/us/usc/t49/s11141] prior to the general amendment of this subtitle by [Pub. L. 104–88, § 102(a)][/us/pl/104/88/s102/a].
+    Provisions similar to those in this section were contained in [section 11141 of this title][/us/usc/t49/s11141] prior to the general amendment of this subtitle by [Pub. L. 104–88][/us/pl/104/88], § 102(a).
 
 ----------
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/pl/104/88/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs103
+[/us/pl/104/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtI
 [/us/stat/109/892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F892
 [/us/usc/t49/s11141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs11141
-[/us/pl/104/88/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs102%2Fa
+[/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 
 

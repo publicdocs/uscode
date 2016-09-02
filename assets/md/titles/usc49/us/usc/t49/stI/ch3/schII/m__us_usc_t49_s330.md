@@ -95,7 +95,7 @@
 
     [Section 6101 of title 41][/us/usc/t41/s6101] shall not apply to a contract, grant, or other agreement entered into under this section.
 
-([Pub. L. 97–449, § 1(b)][/us/pl/97/449/s1/b], Jan. 12, 1983, [96 Stat. 2427][/us/stat/96/2427]; [Pub. L. 114–94, div. A, title VI, § 6011(b)][/us/pl/114/94/s6011/b], Dec. 4, 2015, [129 Stat. 1568][/us/stat/129/1568].)
+([Pub. L. 97–449][/us/pl/97/449], § 1(b), Jan. 12, 1983, [96 Stat. 2427][/us/stat/96/2427]; [Pub. L. 114–94, div. A, title VI][/us/pl/114/94/dA/tVI], § 6011(b), Dec. 4, 2015, [129 Stat. 1568][/us/stat/129/1568].)
 
 <table>
 
@@ -197,11 +197,11 @@ Oct. 15, 1966, Pub. L. 89–670, § 9(q)(1)–(3), 80 Stat. 947.  </td>
 
  __Amendments__ 
 
-    2015—[Pub. L. 114–94, § 6011(b)(1)][/us/pl/114/94/s6011/b/1], substituted “activities” for “contracts” in section catchline.
+    2015—[Pub. L. 114–94][/us/pl/114/94], § 6011(b)(1), substituted “activities” for “contracts” in section catchline.
 
-    Subsecs. (a) to (c). [Pub. L. 114–94, § 6011(b)(2)][/us/pl/114/94/s6011/b/2]–(4), inserted headings.
+    Subsecs. (a) to (c). [Pub. L. 114–94][/us/pl/114/94], § 6011(b)(2)–(4), inserted headings.
 
-    Subsecs. (d) to (i). [Pub. L. 114–94, § 6011(b)(5)][/us/pl/114/94/s6011/b/5], added subsecs. (d) to (i).
+    Subsecs. (d) to (i). [Pub. L. 114–94][/us/pl/114/94], § 6011(b)(5), added subsecs. (d) to (i).
 
  __Effective Date of 2015 Amendment__ 
 
@@ -209,7 +209,7 @@ Oct. 15, 1966, Pub. L. 89–670, § 9(q)(1)–(3), 80 Stat. 947.  </td>
 
  __Conflicts of Interest__ 
 
-[Pub. L. 106–159, title I, § 101(g)][/us/pl/106/159/s101/g], Dec. 9, 1999, [113 Stat. 1752][/us/stat/113/1752], provided that:
+[Pub. L. 106–159, title I][/us/pl/106/159/tI], § 101(g), Dec. 9, 1999, [113 Stat. 1752][/us/stat/113/1752], provided that:
 
 >     “(1)  __Compliance with regulation__  __.—__ 
 
@@ -239,20 +239,20 @@ Oct. 15, 1966, Pub. L. 89–670, § 9(q)(1)–(3), 80 Stat. 947.  </td>
 [/us/usc/t15/s3710a/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3710a%2Fd
 [/us/usc/t15/s3701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3701
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
-[/us/pl/97/449/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449%2Fs1%2Fb
+[/us/pl/97/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449
 [/us/stat/96/2427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2427
-[/us/pl/114/94/s6011/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs6011%2Fb
+[/us/pl/114/94/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtVI
 [/us/stat/129/1568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1568
 [/us/pl/96/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F480
 [/us/stat/94/2311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2311
 [/us/usc/t15/s3701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3701
-[/us/pl/114/94/s6011/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs6011%2Fb%2F1
-[/us/pl/114/94/s6011/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs6011%2Fb%2F2
-[/us/pl/114/94/s6011/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs6011%2Fb%2F5
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
-[/us/pl/106/159/s101/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2Fs101%2Fg
+[/us/pl/106/159/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2FtI
 [/us/stat/113/1752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1752
 
 

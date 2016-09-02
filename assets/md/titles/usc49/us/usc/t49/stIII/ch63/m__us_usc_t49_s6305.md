@@ -69,7 +69,7 @@
 
     The Federal Advisory Committee Act (5 U.S.C. App.) shall apply to the advisory council established under this section, except that section 14 of that Act shall not apply.
 
-(Added [Pub. L. 112–141, div. E, title II, § 52011(a)][/us/pl/112/141/s52011/a], July 6, 2012, [126 Stat. 891][/us/stat/126/891].)
+(Added [Pub. L. 112–141, div. E, title II][/us/pl/112/141/dE/tII], § 52011(a), July 6, 2012, [126 Stat. 891][/us/stat/126/891].)
 
  __References in Text__ 
 
@@ -83,7 +83,7 @@
 
  __Advisory Council on Transportation Statistics__ 
 
-    [Pub. L. 102–240, title VI, § 6007][/us/pl/102/240/s6007], Dec. 18, 1991, [105 Stat. 2174][/us/stat/105/2174], required the Director to establish an Advisory Council on Transportation Statistics composed of not more than 6 members to provide advice on the quality of transportation statistics and analysis.
+    [Pub. L. 102–240, title VI][/us/pl/102/240/tVI], § 6007, Dec. 18, 1991, [105 Stat. 2174][/us/stat/105/2174], required the Director to establish an Advisory Council on Transportation Statistics composed of not more than 6 members to provide advice on the quality of transportation statistics and analysis.
 
 ----------
 
@@ -92,14 +92,14 @@
 ----------
 ----------
 
-[/us/pl/112/141/s52011/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs52011%2Fa
+[/us/pl/112/141/dE/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdE%2FtII
 [/us/stat/126/891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F891
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
-[/us/pl/102/240/s6007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs6007
+[/us/pl/102/240/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2FtVI
 [/us/stat/105/2174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2174
 
 

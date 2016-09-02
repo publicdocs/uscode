@@ -209,7 +209,7 @@
 
     Except as specifically provided in this section, the use of any amounts appropriated for grants under this section shall be subject to the grant conditions under section 24405.
 
-(Added [Pub. L. 114–94, div. A, title XI, § 11302(a)][/us/pl/114/94/s11302/a], Dec. 4, 2015, [129 Stat. 1648][/us/stat/129/1648].)
+(Added [Pub. L. 114–94, div. A, title XI][/us/pl/114/94/dA/tXI], § 11302(a), Dec. 4, 2015, [129 Stat. 1648][/us/stat/129/1648].)
 
  __References in Text__ 
 
@@ -226,7 +226,7 @@
 ----------
 ----------
 
-[/us/pl/114/94/s11302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11302%2Fa
+[/us/pl/114/94/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtXI
 [/us/stat/129/1648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1648
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003

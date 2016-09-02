@@ -131,7 +131,7 @@
 
     The Secretary shall have the authority to assess civil penalties pursuant to chapter 213 for a violation of this section, including the failure to submit, certify, or comply with a safety risk reduction program, risk mitigation plan, technology implementation plan, or fatigue management plan.
 
-(Added [Pub. L. 110–432, div. A, title I, § 103(a)][/us/pl/110/432/s103/a], Oct. 16, 2008, [122 Stat. 4853][/us/stat/122/4853]; amended [Pub. L. 114–94, div. A, title XI, § 11316(e)][/us/pl/114/94/s11316/e], Dec. 4, 2015, [129 Stat. 1676][/us/stat/129/1676].)
+(Added [Pub. L. 110–432, div. A, title I][/us/pl/110/432/dA/tI], § 103(a), Oct. 16, 2008, [122 Stat. 4853][/us/stat/122/4853]; amended [Pub. L. 114–94, div. A, title XI][/us/pl/114/94/dA/tXI], § 11316(e), Dec. 4, 2015, [129 Stat. 1676][/us/stat/129/1676].)
 
  __References in Text__ 
 
@@ -139,9 +139,9 @@
 
  __Amendments__ 
 
-    2015—Subsec. (c). [Pub. L. 114–94, § 11316(e)(1)][/us/pl/114/94/s11316/e/1], inserted comma after “In developing its railroad safety risk reduction program”.
+    2015—Subsec. (c). [Pub. L. 114–94][/us/pl/114/94], § 11316(e)(1), inserted comma after “In developing its railroad safety risk reduction program”.
 
-    Subsec. (g)(1). [Pub. L. 114–94, § 11316(e)(2)][/us/pl/114/94/s11316/e/2], inserted comma after “good faith” and substituted “nonprofit” for “non-profit”.
+    Subsec. (g)(1). [Pub. L. 114–94][/us/pl/114/94], § 11316(e)(2), inserted comma after “good faith” and substituted “nonprofit” for “non-profit”.
 
  __Effective Date of 2015 Amendment__ 
 
@@ -154,13 +154,13 @@
 ----------
 ----------
 
-[/us/pl/110/432/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs103%2Fa
+[/us/pl/110/432/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdA%2FtI
 [/us/stat/122/4853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4853
-[/us/pl/114/94/s11316/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11316%2Fe
+[/us/pl/114/94/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtXI
 [/us/stat/129/1676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1676
 [/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
-[/us/pl/114/94/s11316/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11316%2Fe%2F1
-[/us/pl/114/94/s11316/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11316%2Fe%2F2
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313

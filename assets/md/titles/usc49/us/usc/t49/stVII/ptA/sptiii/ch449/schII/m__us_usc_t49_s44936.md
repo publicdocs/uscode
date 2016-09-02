@@ -153,7 +153,7 @@
 
     This section does not require an investigation or record check when the investigation or record check is prohibited by a law of a foreign country.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1218][/us/stat/108/1218]; [Pub. L. 104–264, title III][/us/pl/104/264], §§ 304(a), 306, title V, § 502(a), Oct. 9, 1996, [110 Stat. 3251][/us/stat/110/3251], 3252, 3259; [Pub. L. 105–102, § 2(25)][/us/pl/105/102/s2/25], Nov. 20, 1997, [111 Stat. 2205][/us/stat/111/2205]; [Pub. L. 105–142, § 1][/us/pl/105/142/s1], Dec. 5, 1997, [111 Stat. 2650][/us/stat/111/2650]; [Pub. L. 106–181, title V, § 508][/us/pl/106/181/s508], Apr. 5, 2000, [114 Stat. 140][/us/stat/114/140]; [Pub. L. 106–528, § 2(c)][/us/pl/106/528/s2/c], (d), Nov. 22, 2000, [114 Stat. 2517][/us/stat/114/2517], 2518; [Pub. L. 107–71, title I][/us/pl/107/71], §§ 101(f)(7), (9), 111(b), 138(a), (b)(1), 140(a)(1), Nov. 19, 2001, [115 Stat. 603][/us/stat/115/603], 620, 639–641.)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1218][/us/stat/108/1218]; [Pub. L. 104–264, title III][/us/pl/104/264/tIII], §§ 304(a), 306, title V, § 502(a), Oct. 9, 1996, [110 Stat. 3251][/us/stat/110/3251], 3252, 3259; [Pub. L. 105–102][/us/pl/105/102], § 2(25), Nov. 20, 1997, [111 Stat. 2205][/us/stat/111/2205]; [Pub. L. 105–142][/us/pl/105/142], § 1, Dec. 5, 1997, [111 Stat. 2650][/us/stat/111/2650]; [Pub. L. 106–181, title V][/us/pl/106/181/tV], § 508, Apr. 5, 2000, [114 Stat. 140][/us/stat/114/140]; [Pub. L. 106–528][/us/pl/106/528], § 2(c), (d), Nov. 22, 2000, [114 Stat. 2517][/us/stat/114/2517], 2518; [Pub. L. 107–71, title I][/us/pl/107/71/tI], §§ 101(f)(7), (9), 111(b), 138(a), (b)(1), 140(a)(1), Nov. 19, 2001, [115 Stat. 603][/us/stat/115/603], 620, 639–641.)
 
 <table>
 
@@ -305,107 +305,107 @@ Oct. 28, 1991, Pub. L. 102–143, § 346, 105 Stat. 949.  </td>
 
  __Amendments__ 
 
-    2001—Subsec. (a)(1)(A). [Pub. L. 107–71, § 138(a)(1)][/us/pl/107/71/s138/a/1], inserted “and a review of available law enforcement data bases and records of other governmental and international agencies to the extent determined practicable by the Under Secretary of Transportation for Transportation Security,” after “record check” in introductory provisions.
+    2001—Subsec. (a)(1)(A). [Pub. L. 107–71][/us/pl/107/71], § 138(a)(1), inserted “and a review of available law enforcement data bases and records of other governmental and international agencies to the extent determined practicable by the Under Secretary of Transportation for Transportation Security,” after “record check” in introductory provisions.
 
-    [Pub. L. 107–71, § 111(b)(1)][/us/pl/107/71/s111/b/1], inserted “as a security screener under section 44935(e) or a position” after “a position” in introductory provisions.
+    [Pub. L. 107–71][/us/pl/107/71], § 111(b)(1), inserted “as a security screener under section 44935(e) or a position” after “a position” in introductory provisions.
 
-    [Pub. L. 107–71, § 101(f)(7)][/us/pl/107/71/s101/f/7], (9), in introductory provisions, substituted “Under Secretary” for “Administrator” and “of Transportation for Security” for “of the Federal Aviation Administration”.
+    [Pub. L. 107–71][/us/pl/107/71], § 101(f)(7), (9), in introductory provisions, substituted “Under Secretary” for “Administrator” and “of Transportation for Security” for “of the Federal Aviation Administration”.
 
-    Subsec. (a)(1)(A)(ii). [Pub. L. 107–71, § 101(f)(7)][/us/pl/107/71/s101/f/7], substituted “Under Secretary” for “Administrator”.
+    Subsec. (a)(1)(A)(ii). [Pub. L. 107–71][/us/pl/107/71], § 101(f)(7), substituted “Under Secretary” for “Administrator”.
 
-    Subsec. (a)(1)(B). [Pub. L. 107–71, § 138(a)(2)][/us/pl/107/71/s138/a/2], in introductory provisions, substituted “and a review of available law enforcement data bases and records of other governmental and international agencies to the extent determined practicable by the Under Secretary of Transportation for Transportation Security” for “in any case described in subparagraph (C)”.
+    Subsec. (a)(1)(B). [Pub. L. 107–71][/us/pl/107/71], § 138(a)(2), in introductory provisions, substituted “and a review of available law enforcement data bases and records of other governmental and international agencies to the extent determined practicable by the Under Secretary of Transportation for Transportation Security” for “in any case described in subparagraph (C)”.
 
-    [Pub. L. 107–71, § 101(f)(7)][/us/pl/107/71/s101/f/7], substituted “Under Secretary” for “Administrator” in introductory provisions.
+    [Pub. L. 107–71][/us/pl/107/71], § 101(f)(7), substituted “Under Secretary” for “Administrator” in introductory provisions.
 
-    Subsec. (a)(1)(B)(i). [Pub. L. 107–71, § 138(a)(3)][/us/pl/107/71/s138/a/3], substituted “are” for “will be”.
+    Subsec. (a)(1)(B)(i). [Pub. L. 107–71][/us/pl/107/71], § 138(a)(3), substituted “are” for “will be”.
 
-    Subsec. (a)(1)(B)(ii). [Pub. L. 107–71, § 138(a)(4)][/us/pl/107/71/s138/a/4], struck out “and” after semicolon.
+    Subsec. (a)(1)(B)(ii). [Pub. L. 107–71][/us/pl/107/71], § 138(a)(4), struck out “and” after semicolon.
 
-    Subsec. (a)(1)(B)(iii). [Pub. L. 107–71, § 138(a)(6)][/us/pl/107/71/s138/a/6], added cl. (iii). Former cl. (iii) redesignated (iv).
+    Subsec. (a)(1)(B)(iii). [Pub. L. 107–71][/us/pl/107/71], § 138(a)(6), added cl. (iii). Former cl. (iii) redesignated (iv).
 
-    [Pub. L. 107–71, § 101(f)(7)][/us/pl/107/71/s101/f/7], substituted “Under Secretary” for “Administrator”.
+    [Pub. L. 107–71][/us/pl/107/71], § 101(f)(7), substituted “Under Secretary” for “Administrator”.
 
-    Subsec. (a)(1)(B)(iv). [Pub. L. 107–71, § 138(a)(5)][/us/pl/107/71/s138/a/5], redesignated cl. (iii) as (iv).
+    Subsec. (a)(1)(B)(iv). [Pub. L. 107–71][/us/pl/107/71], § 138(a)(5), redesignated cl. (iii) as (iv).
 
-    Subsec. (a)(1)(C). [Pub. L. 107–71, § 138(a)(7)][/us/pl/107/71/s138/a/7], (8), added subpar. (C) and struck out former subpar (C) which related to criminal history record checks.
+    Subsec. (a)(1)(C). [Pub. L. 107–71][/us/pl/107/71], § 138(a)(7), (8), added subpar. (C) and struck out former subpar (C) which related to criminal history record checks.
 
-    Subsec. (a)(1)(D). [Pub. L. 107–71, § 138(a)(7)][/us/pl/107/71/s138/a/7], (9), (10), redesignated subpar. (F) as (D), substituted “107.31(m)(1) or (2)” for “107.31(m)” and “November 22, 2000. The Under Secretary shall work with the International Civil Aviation Organization and with appropriate authorities of foreign countries to ensure that individuals exempted under this subparagraph do not pose a threat to aviation or national security” for “the date of enactment of this subparagraph” and struck out former subpar. (D) which allowed a supervised employee to remain in position until completion of record check.
+    Subsec. (a)(1)(D). [Pub. L. 107–71][/us/pl/107/71], § 138(a)(7), (9), (10), redesignated subpar. (F) as (D), substituted “107.31(m)(1) or (2)” for “107.31(m)” and “November 22, 2000. The Under Secretary shall work with the International Civil Aviation Organization and with appropriate authorities of foreign countries to ensure that individuals exempted under this subparagraph do not pose a threat to aviation or national security” for “the date of enactment of this subparagraph” and struck out former subpar. (D) which allowed a supervised employee to remain in position until completion of record check.
 
-    Subsec. (a)(1)(E). [Pub. L. 107–71, § 138(a)(7)][/us/pl/107/71/s138/a/7], struck out subpar. (E) which related to criminal history record checks for screeners and others.
+    Subsec. (a)(1)(E). [Pub. L. 107–71][/us/pl/107/71], § 138(a)(7), struck out subpar. (E) which related to criminal history record checks for screeners and others.
 
-    Subsec. (a)(1)(E)(iv). [Pub. L. 107–71, § 111(b)(2)][/us/pl/107/71/s111/b/2], struck out cl. (iv) which related to effective dates for subpar. (E).
+    Subsec. (a)(1)(E)(iv). [Pub. L. 107–71][/us/pl/107/71], § 111(b)(2), struck out cl. (iv) which related to effective dates for subpar. (E).
 
-    Subsec. (a)(1)(F). [Pub. L. 107–71, § 138(a)(7)][/us/pl/107/71/s138/a/7], redesignated subpar. (F) as (D).
+    Subsec. (a)(1)(F). [Pub. L. 107–71][/us/pl/107/71], § 138(a)(7), redesignated subpar. (F) as (D).
 
     Subsec. (a)(2). [Pub. L. 107–71][/us/pl/107/71], §§ 107(f)(7), 138(a)(11), substituted “carrier, airport operator, or government” for “carrier, or airport operator” and “Under Secretary” for “Administrator”.
 
-    Subsec. (a)(3). [Pub. L. 107–71, § 101(f)(7)][/us/pl/107/71/s101/f/7], substituted “Under Secretary” for “Administrator”.
+    Subsec. (a)(3). [Pub. L. 107–71][/us/pl/107/71], § 101(f)(7), substituted “Under Secretary” for “Administrator”.
 
-    Subsec. (b)(1). [Pub. L. 107–71, § 138(a)(12)][/us/pl/107/71/s138/a/12], substituted “carrier, airport operator, or government” for “carrier, or airport operator” in introductory provisions.
+    Subsec. (b)(1). [Pub. L. 107–71][/us/pl/107/71], § 138(a)(12), substituted “carrier, airport operator, or government” for “carrier, or airport operator” in introductory provisions.
 
-    Subsec. (b)(1)(B)(xiv)(IX). [Pub. L. 107–71, § 101(f)(7)][/us/pl/107/71/s101/f/7], substituted “Under Secretary” for “Administrator”.
+    Subsec. (b)(1)(B)(xiv)(IX). [Pub. L. 107–71][/us/pl/107/71], § 101(f)(7), substituted “Under Secretary” for “Administrator”.
 
-    Subsec. (b)(2). [Pub. L. 107–71, § 101(f)(7)][/us/pl/107/71/s101/f/7], substituted “Under Secretary” for “Administrator”.
+    Subsec. (b)(2). [Pub. L. 107–71][/us/pl/107/71], § 101(f)(7), substituted “Under Secretary” for “Administrator”.
 
     Subsec. (b)(3). [Pub. L. 107–71][/us/pl/107/71], §§ 101(f)(7), 138(a)(13), substituted “carrier, airport operator, or government” for “carrier, or airport operator” and “Under Secretary” for “Administrator”.
 
-    Subsec. (c)(1). [Pub. L. 107–71, § 138(a)(14)][/us/pl/107/71/s138/a/14], inserted at end “All Federal agencies shall cooperate with the Under Secretary and the Under Secretary’s designee in the process of collecting and submitting fingerprints.”
+    Subsec. (c)(1). [Pub. L. 107–71][/us/pl/107/71], § 138(a)(14), inserted at end “All Federal agencies shall cooperate with the Under Secretary and the Under Secretary’s designee in the process of collecting and submitting fingerprints.”
 
-    [Pub. L. 107–71, § 101(f)(7)][/us/pl/107/71/s101/f/7], substituted “Under Secretary” for “Administrator” wherever appearing.
+    [Pub. L. 107–71][/us/pl/107/71], § 101(f)(7), substituted “Under Secretary” for “Administrator” wherever appearing.
 
-    Subsec. (c)(2). [Pub. L. 107–71, § 101(f)(7)][/us/pl/107/71/s101/f/7], substituted “Under Secretary” for “Administrator” in introductory provisions.
+    Subsec. (c)(2). [Pub. L. 107–71][/us/pl/107/71], § 101(f)(7), substituted “Under Secretary” for “Administrator” in introductory provisions.
 
-    Subsec. (d). [Pub. L. 107–71, § 101(f)(7)][/us/pl/107/71/s101/f/7], substituted “Under Secretary” for “Administrator” in two places.
+    Subsec. (d). [Pub. L. 107–71][/us/pl/107/71], § 101(f)(7), substituted “Under Secretary” for “Administrator” in two places.
 
     Subsecs. (f) to (h). [Pub. L. 107–71][/us/pl/107/71], §§ 138(b)(1), 140(a)(1), amended section identically, redesignating subsecs. (f) to (h) as (h) to (j), respectively, of [section 44703 of this title][/us/usc/t49/s44703].
 
-    2000—Subsec. (a)(1)(A). [Pub. L. 106–528, § 2(c)(1)][/us/pl/106/528/s2/c/1], in introductory provisions, struck out “, as the Administrator decides is necessary to ensure air transportation security,” after “shall be conducted”.
+    2000—Subsec. (a)(1)(A). [Pub. L. 106–528][/us/pl/106/528], § 2(c)(1), in introductory provisions, struck out “, as the Administrator decides is necessary to ensure air transportation security,” after “shall be conducted”.
 
-    Subsec. (a)(1)(C)(v). [Pub. L. 106–181, § 508(a)][/us/pl/106/181/s508/a], added cl. (v).
+    Subsec. (a)(1)(C)(v). [Pub. L. 106–181][/us/pl/106/181], § 508(a), added cl. (v).
 
-    Subsec. (a)(1)(D). [Pub. L. 106–528, § 2(c)(2)][/us/pl/106/528/s2/c/2], substituted “in the position for which the individual applied” for “as a screener”.
+    Subsec. (a)(1)(D). [Pub. L. 106–528][/us/pl/106/528], § 2(c)(2), substituted “in the position for which the individual applied” for “as a screener”.
 
-    Subsec. (a)(1)(E), (F). [Pub. L. 106–528, § 2(c)(3)][/us/pl/106/528/s2/c/3], added subpars. (E) and (F).
+    Subsec. (a)(1)(E), (F). [Pub. L. 106–528][/us/pl/106/528], § 2(c)(3), added subpars. (E) and (F).
 
-    Subsec. (b)(1)(B). [Pub. L. 106–528, § 2(d)(1)][/us/pl/106/528/s2/d/1], inserted “(or found not guilty by reason of insanity)” after “convicted” in introductory provisions.
+    Subsec. (b)(1)(B). [Pub. L. 106–528][/us/pl/106/528], § 2(d)(1), inserted “(or found not guilty by reason of insanity)” after “convicted” in introductory provisions.
 
-    Subsec. (b)(1)(B)(xi). [Pub. L. 106–528, § 2(d)(2)][/us/pl/106/528/s2/d/2], inserted “or felony unarmed” after “armed”.
+    Subsec. (b)(1)(B)(xi). [Pub. L. 106–528][/us/pl/106/528], § 2(d)(2), inserted “or felony unarmed” after “armed”.
 
-    Subsec. (b)(1)(B)(xiii) to (xv). [Pub. L. 106–528, § 2(d)(3)][/us/pl/106/528/s2/d/3]–(5), added cls. (xiii) and (xiv), redesignated former cl. (xiii) as (xv), and in cl. (xv) substituted “clauses (i) through (xiv)” for “clauses (i)–(xii) of this paragraph”.
+    Subsec. (b)(1)(B)(xiii) to (xv). [Pub. L. 106–528][/us/pl/106/528], § 2(d)(3)–(5), added cls. (xiii) and (xiv), redesignated former cl. (xiii) as (xv), and in cl. (xv) substituted “clauses (i) through (xiv)” for “clauses (i)–(xii) of this paragraph”.
 
-    Subsec. (f)(1)(B). [Pub. L. 106–181, § 508(b)(1)][/us/pl/106/181/s508/b/1], inserted “(except a branch of the United States Armed Forces, the National Guard, or a reserve component of the United States Armed Forces)” after “other person” in introductory provisions.
+    Subsec. (f)(1)(B). [Pub. L. 106–181][/us/pl/106/181], § 508(b)(1), inserted “(except a branch of the United States Armed Forces, the National Guard, or a reserve component of the United States Armed Forces)” after “other person” in introductory provisions.
 
-    Subsec. (f)(1)(B)(ii). [Pub. L. 106–181, § 508(b)(2)][/us/pl/106/181/s508/b/2], substituted “individual’s performance as a pilot” for “individual” in introductory provisions.
+    Subsec. (f)(1)(B)(ii). [Pub. L. 106–181][/us/pl/106/181], § 508(b)(2), substituted “individual’s performance as a pilot” for “individual” in introductory provisions.
 
-    Subsec. (f)(5). [Pub. L. 106–181, § 508(b)(3)][/us/pl/106/181/s508/b/3], inserted before period at end of first sentence “; except that, for purposes of paragraph (15), the Administrator may allow an individual designated by the Administrator to accept and maintain written consent on behalf of the Administrator for records requested under paragraph (1)(A)”.
+    Subsec. (f)(5). [Pub. L. 106–181][/us/pl/106/181], § 508(b)(3), inserted before period at end of first sentence “; except that, for purposes of paragraph (15), the Administrator may allow an individual designated by the Administrator to accept and maintain written consent on behalf of the Administrator for records requested under paragraph (1)(A)”.
 
-    Subsec. (f)(13). [Pub. L. 106–181, § 508(b)(4)(A)][/us/pl/106/181/s508/b/4/A], substituted “shall” for “may” in introductory provisions.
+    Subsec. (f)(13). [Pub. L. 106–181][/us/pl/106/181], § 508(b)(4)(A), substituted “shall” for “may” in introductory provisions.
 
-    Subsec. (f)(13)(A)(i). [Pub. L. 106–181, § 508(b)(4)(B)][/us/pl/106/181/s508/b/4/B], inserted “and disseminated under paragraph (15)” after “requested under paragraph (1)”.
+    Subsec. (f)(13)(A)(i). [Pub. L. 106–181][/us/pl/106/181], § 508(b)(4)(B), inserted “and disseminated under paragraph (15)” after “requested under paragraph (1)”.
 
-    Subsec. (f)(14)(B). [Pub. L. 106–181, § 508(b)(5)][/us/pl/106/181/s508/b/5], inserted “or from a foreign government or entity that employed the individual” after “exists”.
+    Subsec. (f)(14)(B). [Pub. L. 106–181][/us/pl/106/181], § 508(b)(5), inserted “or from a foreign government or entity that employed the individual” after “exists”.
 
-    Subsec. (f)(15). [Pub. L. 106–181, § 508(b)(6)][/us/pl/106/181/s508/b/6], added par. (15).
+    Subsec. (f)(15). [Pub. L. 106–181][/us/pl/106/181], § 508(b)(6), added par. (15).
 
-    1997—Subsec. (f)(1). [Pub. L. 105–142, § 1(1)][/us/pl/105/142/s1/1], substituted “Subject to paragraph (14), before allowing an individual to begin service” for “Before hiring an individual” in introductory provisions.
+    1997—Subsec. (f)(1). [Pub. L. 105–142][/us/pl/105/142], § 1(1), substituted “Subject to paragraph (14), before allowing an individual to begin service” for “Before hiring an individual” in introductory provisions.
 
-    Subsec. (f)(1)(B). [Pub. L. 105–142, § 1(2)][/us/pl/105/142/s1/2], inserted “as a pilot of a civil or public aircraft” before “at any time” in introductory provisions.
+    Subsec. (f)(1)(B). [Pub. L. 105–142][/us/pl/105/142], § 1(2), inserted “as a pilot of a civil or public aircraft” before “at any time” in introductory provisions.
 
     Subsec. (f)(1)(C). [Pub. L. 105–102][/us/pl/105/102] substituted “[section 30305(b)(8) of this title][/us/usc/t49/s30305/b/8]” for “section 30305(b)(7)”.
 
-    Subsec. (f)(4). [Pub. L. 105–142, § 1(3)][/us/pl/105/142/s1/3], inserted “and air carriers” after “Administrator” and substituted “paragraphs (1)(A) and (1)(B)” for “paragraph (1)(A)”.
+    Subsec. (f)(4). [Pub. L. 105–142][/us/pl/105/142], § 1(3), inserted “and air carriers” after “Administrator” and substituted “paragraphs (1)(A) and (1)(B)” for “paragraph (1)(A)”.
 
-    Subsec. (f)(5). [Pub. L. 105–142, § 1(4)][/us/pl/105/142/s1/4], substituted “this subsection” for “this paragraph”.
+    Subsec. (f)(5). [Pub. L. 105–142][/us/pl/105/142], § 1(4), substituted “this subsection” for “this paragraph”.
 
-    Subsec. (f)(10). [Pub. L. 105–142, § 1(5)][/us/pl/105/142/s1/5], inserted “who is or has been” before “employed” and “, but not later than 30 days after the date” after “reasonable time”.
+    Subsec. (f)(10). [Pub. L. 105–142][/us/pl/105/142], § 1(5), inserted “who is or has been” before “employed” and “, but not later than 30 days after the date” after “reasonable time”.
 
-    Subsec. (f)(14). [Pub. L. 105–142, § 1(6)][/us/pl/105/142/s1/6], added par. (14).
+    Subsec. (f)(14). [Pub. L. 105–142][/us/pl/105/142], § 1(6), added par. (14).
 
-    1996—Subsec. (a)(1). [Pub. L. 104–264, § 304(a)][/us/pl/104/264/s304/a], designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) of par. (1) as cls. (i) and (ii) of subpar. (A), respectively, and added subpars. (B) to (D).
+    1996—Subsec. (a)(1). [Pub. L. 104–264][/us/pl/104/264], § 304(a), designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) of par. (1) as cls. (i) and (ii) of subpar. (A), respectively, and added subpars. (B) to (D).
 
-    Subsec. (a)(3). [Pub. L. 104–264, § 306][/us/pl/104/264/s306], added par. (3).
+    Subsec. (a)(3). [Pub. L. 104–264][/us/pl/104/264], § 306, added par. (3).
 
-    Subsecs. (f) to (h). [Pub. L. 104–264, § 502(a)][/us/pl/104/264/s502/a], added subsecs. (f) to (h).
+    Subsecs. (f) to (h). [Pub. L. 104–264][/us/pl/104/264], § 502(a), added subsecs. (f) to (h).
 
  __Effective Date of 2000 Amendments__ 
 
@@ -415,7 +415,7 @@ Oct. 28, 1991, Pub. L. 102–143, § 346, 105 Stat. 949.  </td>
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–264, title III, § 304(b)][/us/pl/104/264/s304/b], Oct. 9, 1996, [110 Stat. 3252][/us/stat/110/3252], provided that: 
+[Pub. L. 104–264, title III][/us/pl/104/264/tIII], § 304(b), Oct. 9, 1996, [110 Stat. 3252][/us/stat/110/3252], provided that: 
 
 > “The amendment made by subsection (a)(3) \[amending this section\] shall apply to individuals hired to perform functions described in [section 44936(a)(1)(B) of title 49][/us/usc/t49/s44936/a/1/B], United States Code, after the date of the enactment of this Act \[Oct. 9, 1996\]; except that the Administrator of the Federal Aviation Administration may, as the Administrator determines to be appropriate, require such employment investigations or criminal history records checks for individuals performing those functions on the date of the enactment of this Act.”
 
@@ -429,7 +429,7 @@ Oct. 28, 1991, Pub. L. 102–143, § 346, 105 Stat. 949.  </td>
 
  __Criminal History Record Checks__ 
 
-[Pub. L. 106–528, § 2(a)][/us/pl/106/528/s2/a], (b), Nov. 22, 2000, [114 Stat. 2517][/us/stat/114/2517], provided that:
+[Pub. L. 106–528][/us/pl/106/528], § 2(a), (b), Nov. 22, 2000, [114 Stat. 2517][/us/stat/114/2517], provided that:
 
 >     “(a) __Expansion of FAA Electronic Pilot Program.—__ 
 
@@ -460,19 +460,19 @@ Oct. 28, 1991, Pub. L. 102–143, § 346, 105 Stat. 949.  </td>
 
 [/us/usc/t49/s44901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44901
 [/us/usc/t18/s32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs32
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1218
-[/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
+[/us/pl/104/264/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2FtIII
 [/us/stat/110/3251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3251
-[/us/pl/105/102/s2/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102%2Fs2%2F25
+[/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/stat/111/2205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2205
-[/us/pl/105/142/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F142%2Fs1
+[/us/pl/105/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F142
 [/us/stat/111/2650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2650
-[/us/pl/106/181/s508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs508
+[/us/pl/106/181/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtV
 [/us/stat/114/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F140
-[/us/pl/106/528/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F528%2Fs2%2Fc
+[/us/pl/106/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F528
 [/us/stat/114/2517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2517
-[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2FtI
 [/us/stat/115/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F603
 [/us/pl/102/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F143
 [/us/stat/105/949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F949
@@ -480,66 +480,66 @@ Oct. 28, 1991, Pub. L. 102–143, § 346, 105 Stat. 949.  </td>
 [/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
 [/us/stat/110/3908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3908
 [/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
-[/us/pl/107/71/s138/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs138%2Fa%2F1
-[/us/pl/107/71/s111/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs111%2Fb%2F1
-[/us/pl/107/71/s101/f/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs101%2Ff%2F7
-[/us/pl/107/71/s101/f/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs101%2Ff%2F7
-[/us/pl/107/71/s138/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs138%2Fa%2F2
-[/us/pl/107/71/s101/f/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs101%2Ff%2F7
-[/us/pl/107/71/s138/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs138%2Fa%2F3
-[/us/pl/107/71/s138/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs138%2Fa%2F4
-[/us/pl/107/71/s138/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs138%2Fa%2F6
-[/us/pl/107/71/s101/f/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs101%2Ff%2F7
-[/us/pl/107/71/s138/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs138%2Fa%2F5
-[/us/pl/107/71/s138/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs138%2Fa%2F7
-[/us/pl/107/71/s138/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs138%2Fa%2F7
-[/us/pl/107/71/s138/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs138%2Fa%2F7
-[/us/pl/107/71/s111/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs111%2Fb%2F2
-[/us/pl/107/71/s138/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs138%2Fa%2F7
 [/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
-[/us/pl/107/71/s101/f/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs101%2Ff%2F7
-[/us/pl/107/71/s138/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs138%2Fa%2F12
-[/us/pl/107/71/s101/f/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs101%2Ff%2F7
-[/us/pl/107/71/s101/f/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs101%2Ff%2F7
 [/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
-[/us/pl/107/71/s138/a/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs138%2Fa%2F14
-[/us/pl/107/71/s101/f/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs101%2Ff%2F7
-[/us/pl/107/71/s101/f/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs101%2Ff%2F7
-[/us/pl/107/71/s101/f/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs101%2Ff%2F7
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
 [/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
 [/us/usc/t49/s44703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44703
-[/us/pl/106/528/s2/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F528%2Fs2%2Fc%2F1
-[/us/pl/106/181/s508/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs508%2Fa
-[/us/pl/106/528/s2/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F528%2Fs2%2Fc%2F2
-[/us/pl/106/528/s2/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F528%2Fs2%2Fc%2F3
-[/us/pl/106/528/s2/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F528%2Fs2%2Fd%2F1
-[/us/pl/106/528/s2/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F528%2Fs2%2Fd%2F2
-[/us/pl/106/528/s2/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F528%2Fs2%2Fd%2F3
-[/us/pl/106/181/s508/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs508%2Fb%2F1
-[/us/pl/106/181/s508/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs508%2Fb%2F2
-[/us/pl/106/181/s508/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs508%2Fb%2F3
-[/us/pl/106/181/s508/b/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs508%2Fb%2F4%2FA
-[/us/pl/106/181/s508/b/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs508%2Fb%2F4%2FB
-[/us/pl/106/181/s508/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs508%2Fb%2F5
-[/us/pl/106/181/s508/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs508%2Fb%2F6
-[/us/pl/105/142/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F142%2Fs1%2F1
-[/us/pl/105/142/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F142%2Fs1%2F2
+[/us/pl/106/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F528
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/106/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F528
+[/us/pl/106/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F528
+[/us/pl/106/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F528
+[/us/pl/106/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F528
+[/us/pl/106/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F528
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/105/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F142
+[/us/pl/105/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F142
 [/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/usc/t49/s30305/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30305%2Fb%2F8
-[/us/pl/105/142/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F142%2Fs1%2F3
-[/us/pl/105/142/s1/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F142%2Fs1%2F4
-[/us/pl/105/142/s1/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F142%2Fs1%2F5
-[/us/pl/105/142/s1/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F142%2Fs1%2F6
-[/us/pl/104/264/s304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs304%2Fa
-[/us/pl/104/264/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs306
-[/us/pl/104/264/s502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs502%2Fa
+[/us/pl/105/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F142
+[/us/pl/105/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F142
+[/us/pl/105/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F142
+[/us/pl/105/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F142
+[/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
+[/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
+[/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
 [/us/pl/106/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F528
 [/us/pl/106/528/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F528%2Fs9
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106
 [/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/pl/106/181/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106
-[/us/pl/104/264/s304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs304%2Fb
+[/us/pl/104/264/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2FtIII
 [/us/stat/110/3252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3252
 [/us/usc/t49/s44936/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44936%2Fa%2F1%2FB
 [/us/pl/104/264/s502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs502%2Fa
@@ -549,7 +549,7 @@ Oct. 28, 1991, Pub. L. 102–143, § 346, 105 Stat. 949.  </td>
 [/us/pl/104/264/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/106/528/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F528%2Fs2%2Fa
+[/us/pl/106/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F528
 [/us/stat/114/2517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2517
 
 

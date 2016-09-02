@@ -17,7 +17,7 @@
 
     When the United States Postal Service decides that it may be necessary to have a person not a citizen of the United States transport mail by aircraft between two points outside the United States, the Postal Service may make an arrangement with the person, without advertising, to provide the transportation. Nothing in this section shall affect the authority of the Postal Service to make arrangements with noncitizens for the carriage of mail in foreign air transportation under subsections 5402(b) and (c) of title 39.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1155][/us/stat/108/1155]; [Pub. L. 110–405, § 2(b)(5)][/us/pl/110/405/s2/b/5], Oct. 13, 2008, [122 Stat. 4289][/us/stat/122/4289].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1155][/us/stat/108/1155]; [Pub. L. 110–405][/us/pl/110/405], § 2(b)(5), Oct. 13, 2008, [122 Stat. 4289][/us/stat/122/4289].)
 
 <table>
 
@@ -82,9 +82,9 @@ Aug. 23, 1958, Pub. L. 85–726, § 405(e)(2), 72 Stat. 761.  </td>
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1155
-[/us/pl/110/405/s2/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F405%2Fs2%2Fb%2F5
+[/us/pl/110/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F405
 [/us/stat/122/4289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4289
 [/us/pl/110/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F405
 [/us/pl/110/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F405

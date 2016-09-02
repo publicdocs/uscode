@@ -59,7 +59,7 @@
 
     Compliance with a standard under this chapter does not exempt a person from liability provided by law.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1045][/us/stat/108/1045]; [Pub. L. 105–277, div. A, § 101(g)][/us/pl/105/277/s101/g] \[title III, § 351(b)(2)\], Oct. 21, 1998, [112 Stat. 2681–439][/us/stat/112/2681-439], 2681–476.)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1045][/us/stat/108/1045]; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(g) \[title III, § 351(b)(2)\], Oct. 21, 1998, [112 Stat. 2681–439][/us/stat/112/2681-439], 2681–476.)
 
 <table>
 
@@ -170,9 +170,9 @@ Oct. 20, 1972, Pub. L. 92–513, § 106, 86 Stat. 952.  </td>
 [/us/usc/t49/s32504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs32504
 [/us/usc/t49/s32502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs32502
 [/us/usc/t49/s32502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs32502
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1045
-[/us/pl/105/277/s101/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fg
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-439
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/usc/t49/s32502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs32502

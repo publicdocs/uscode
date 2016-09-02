@@ -99,9 +99,9 @@
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–432, div. A, title I, § 108(d)(2)][/us/pl/110/432/s108/d/2], (e)(2)(A), Oct. 16, 2008, [122 Stat. 4864][/us/stat/122/4864], 4865, substituted item 21102 for former item 21102 “Nonapplication and exemption” and added item 21109.
+    2008—[Pub. L. 110–432, div. A, title I][/us/pl/110/432/dA/tI], § 108(d)(2), (e)(2)(A), Oct. 16, 2008, [122 Stat. 4864][/us/stat/122/4864], 4865, substituted item 21102 for former item 21102 “Nonapplication and exemption” and added item 21109.
 
-    1994—[Pub. L. 103–440, title II, § 203(b)][/us/pl/103/440/s203/b], Nov. 2, 1994, [108 Stat. 4620][/us/stat/108/4620], added item 21108.
+    1994—[Pub. L. 103–440, title II][/us/pl/103/440/tII], § 203(b), Nov. 2, 1994, [108 Stat. 4620][/us/stat/108/4620], added item 21108.
 
 ----------
 
@@ -110,9 +110,9 @@
 ----------
 ----------
 
-[/us/pl/110/432/s108/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs108%2Fd%2F2
+[/us/pl/110/432/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdA%2FtI
 [/us/stat/122/4864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4864
-[/us/pl/103/440/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F440%2Fs203%2Fb
+[/us/pl/103/440/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F440%2FtII
 [/us/stat/108/4620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4620
 
 

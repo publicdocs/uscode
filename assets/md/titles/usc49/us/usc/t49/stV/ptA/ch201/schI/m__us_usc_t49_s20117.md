@@ -53,7 +53,7 @@
 
     In addition to amounts otherwise authorized by law, there are authorized to be appropriated for railroad research and development $300,000 for fiscal year 1995, $500,000 for fiscal year 1996, and $750,000 for fiscal year 1997, to support Operation Lifesaver, Inc.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 872][/us/stat/108/872]; [Pub. L. 103–440, title II][/us/pl/103/440], §§ 202, 218, Nov. 2, 1994, [108 Stat. 4619][/us/stat/108/4619], 4625; [Pub. L. 110–432, div. A, § 3][/us/pl/110/432/s3], Oct. 16, 2008, [122 Stat. 4850][/us/stat/122/4850].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 872][/us/stat/108/872]; [Pub. L. 103–440, title II][/us/pl/103/440/tII], §§ 202, 218, Nov. 2, 1994, [108 Stat. 4619][/us/stat/108/4619], 4625; [Pub. L. 110–432, div. A][/us/pl/110/432/dA], § 3, Oct. 16, 2008, [122 Stat. 4850][/us/stat/122/4850].)
 
 <table>
 
@@ -175,9 +175,9 @@ Nov. 2, 1978, Pub. L. 95–574, § 3, 92 Stat. 2459.  </td>
 
     2008—Subsec. (a). [Pub. L. 110–432][/us/pl/110/432] amended subsec. (a) generally. Prior to amendment, subsec. (a) authorized appropriations for fiscal years 1993 through 1998.
 
-    1994—Subsec. (a)(1)(C) to (F). [Pub. L. 103–440, § 202][/us/pl/103/440/s202], added subpars. (C) to (F).
+    1994—Subsec. (a)(1)(C) to (F). [Pub. L. 103–440][/us/pl/103/440], § 202, added subpars. (C) to (F).
 
-    Subsec. (e). [Pub. L. 103–440, § 218][/us/pl/103/440/s218], added subsec. (e).
+    Subsec. (e). [Pub. L. 103–440][/us/pl/103/440], § 218, added subsec. (e).
 
 ----------
 
@@ -188,16 +188,16 @@ Nov. 2, 1978, Pub. L. 95–574, § 3, 92 Stat. 2459.  </td>
 
 [/us/usc/t49/s20134/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs20134%2Fc
 [/us/usc/t49/s20105/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs20105%2Fe
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F872
-[/us/pl/103/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F440
+[/us/pl/103/440/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F440%2FtII
 [/us/stat/108/4619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4619
-[/us/pl/110/432/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs3
+[/us/pl/110/432/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdA
 [/us/stat/122/4850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4850
 [/us/pl/110/432/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs403
 [/us/usc/t49/s20142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs20142
 [/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
-[/us/pl/103/440/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F440%2Fs202
-[/us/pl/103/440/s218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F440%2Fs218
+[/us/pl/103/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F440
+[/us/pl/103/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F440
 
 

@@ -99,9 +99,9 @@
 
  __Amendments__ 
 
-    2012—[Pub. L. 112–141, div. C, title II, § 32914(b)(2)][/us/pl/112/141/s32914/b/2], July 6, 2012, [126 Stat. 820][/us/stat/126/820], added item 13909.
+    2012—[Pub. L. 112–141, div. C, title II][/us/pl/112/141/dC/tII], § 32914(b)(2), July 6, 2012, [126 Stat. 820][/us/stat/126/820], added item 13909.
 
-    2005—[Pub. L. 109–59, title IV, § 4303(d)(2)][/us/pl/109/59/s4303/d/2], Aug. 10, 2005, [119 Stat. 1763][/us/stat/119/1763], inserted “motor private carriers,” after “motor carriers,” in item 13906.
+    2005—[Pub. L. 109–59, title IV][/us/pl/109/59/tIV], § 4303(d)(2), Aug. 10, 2005, [119 Stat. 1763][/us/stat/119/1763], inserted “motor private carriers,” after “motor carriers,” in item 13906.
 
 ----------
 
@@ -110,9 +110,9 @@
 ----------
 ----------
 
-[/us/pl/112/141/s32914/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32914%2Fb%2F2
+[/us/pl/112/141/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtII
 [/us/stat/126/820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F820
-[/us/pl/109/59/s4303/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4303%2Fd%2F2
+[/us/pl/109/59/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIV
 [/us/stat/119/1763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1763
 
 

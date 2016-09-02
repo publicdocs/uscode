@@ -55,7 +55,7 @@
 
     Whenever the Secretary makes a grant under this section, the Secretary shall notify the recipient of the grant, in writing, that the source of the grant is from the small airport fund.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1271][/us/stat/108/1271]; [Pub. L. 104–264, title I, § 146][/us/pl/104/264/s146], Oct. 9, 1996, [110 Stat. 3223][/us/stat/110/3223]; [Pub. L. 106–6, § 8(b)][/us/pl/106/6/s8/b], Mar. 31, 1999, [113 Stat. 11][/us/stat/113/11]; [Pub. L. 106–181, title I, § 128][/us/pl/106/181/s128], Apr. 5, 2000, [114 Stat. 76][/us/stat/114/76]; [Pub. L. 108–176, title VIII, § 801(b)][/us/pl/108/176/s801/b], Dec. 12, 2003, [117 Stat. 2587][/us/stat/117/2587].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1271][/us/stat/108/1271]; [Pub. L. 104–264, title I][/us/pl/104/264/tI], § 146, Oct. 9, 1996, [110 Stat. 3223][/us/stat/110/3223]; [Pub. L. 106–6][/us/pl/106/6], § 8(b), Mar. 31, 1999, [113 Stat. 11][/us/stat/113/11]; [Pub. L. 106–181, title I][/us/pl/106/181/tI], § 128, Apr. 5, 2000, [114 Stat. 76][/us/stat/114/76]; [Pub. L. 108–176, title VIII][/us/pl/108/176/tVIII], § 801(b), Dec. 12, 2003, [117 Stat. 2587][/us/stat/117/2587].)
 
 <table>
 
@@ -141,15 +141,15 @@ Sept. 3, 1982, Pub. L. 97–248, 96 Stat. 324, § 507(d); added Nov. 5, 1990, 
 
     2003—Subsec. (b)(1). [Pub. L. 108–176][/us/pl/108/176] struck out “(as defined in [section 41731 of this title][/us/usc/t49/s41731])” after “small hub airports”.
 
-    2000—Subsec. (d). [Pub. L. 106–181, § 128(c)][/us/pl/106/181/s128/c], designated existing provisions as par. (1), inserted heading, realigned margins, and added par. (2).
+    2000—Subsec. (d). [Pub. L. 106–181][/us/pl/106/181], § 128(c), designated existing provisions as par. (1), inserted heading, realigned margins, and added par. (2).
 
-    Subsec. (e). [Pub. L. 106–181, § 128(a)][/us/pl/106/181/s128/a], added subsec. (e).
+    Subsec. (e). [Pub. L. 106–181][/us/pl/106/181], § 128(a), added subsec. (e).
 
-    Subsec. (f). [Pub. L. 106–181, § 128(b)][/us/pl/106/181/s128/b], added subsec. (f).
+    Subsec. (f). [Pub. L. 106–181][/us/pl/106/181], § 128(b), added subsec. (f).
 
-    1999—Subsec. (a). [Pub. L. 106–6, § 8(b)(1)][/us/pl/106/6/s8/b/1], substituted “87.5” for “75”.
+    1999—Subsec. (a). [Pub. L. 106–6][/us/pl/106/6], § 8(b)(1), substituted “87.5” for “75”.
 
-    Subsec. (b). [Pub. L. 106–6, § 8(b)(2)][/us/pl/106/6/s8/b/2], added pars. (1) and (2) and redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (2).
+    Subsec. (b). [Pub. L. 106–6][/us/pl/106/6], § 8(b)(2), added pars. (1) and (2) and redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (2).
 
     1996—Subsec. (d). [Pub. L. 104–264][/us/pl/104/264] added subsec. (d).
 
@@ -175,23 +175,23 @@ Sept. 3, 1982, Pub. L. 97–248, 96 Stat. 324, § 507(d); added Nov. 5, 1990, 
 [/us/usc/t49/s47114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs47114
 [/us/usc/t49/s48103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs48103
 [/us/usc/t49/s47128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs47128
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1271
-[/us/pl/104/264/s146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs146
+[/us/pl/104/264/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2FtI
 [/us/stat/110/3223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3223
-[/us/pl/106/6/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F6%2Fs8%2Fb
+[/us/pl/106/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F6
 [/us/stat/113/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F11
-[/us/pl/106/181/s128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs128
+[/us/pl/106/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtI
 [/us/stat/114/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F76
-[/us/pl/108/176/s801/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs801%2Fb
+[/us/pl/108/176/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtVIII
 [/us/stat/117/2587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2587
 [/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
 [/us/usc/t49/s41731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs41731
-[/us/pl/106/181/s128/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs128%2Fc
-[/us/pl/106/181/s128/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs128%2Fa
-[/us/pl/106/181/s128/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs128%2Fb
-[/us/pl/106/6/s8/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F6%2Fs8%2Fb%2F1
-[/us/pl/106/6/s8/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F6%2Fs8%2Fb%2F2
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/106/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F6
+[/us/pl/106/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F6
 [/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
 [/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
 [/us/pl/108/176/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs3

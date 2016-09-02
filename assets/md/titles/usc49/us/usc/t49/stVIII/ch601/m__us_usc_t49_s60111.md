@@ -27,7 +27,7 @@
 
     After an opportunity for a hearing on the record, the Secretary may issue the order if the Secretary decides it is justified in the public interest.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1317][/us/stat/108/1317].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1317][/us/stat/108/1317].)
 
 <table>
 
@@ -116,7 +116,7 @@ Aug. 12, 1968, Pub. L. 90–481, 82 Stat. 720, § 7(b)(1)–(3), (c); added No
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1317
 [/us/usc/t5/s554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs554
 

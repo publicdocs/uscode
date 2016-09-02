@@ -69,7 +69,7 @@
 
     The Secretary shall conduct research necessary to carry out this chapter.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1042][/us/stat/108/1042]; [Pub. L. 105–277, div. A, § 101(g)][/us/pl/105/277/s101/g] \[title III, § 351(b)(1)\], Oct. 21, 1998, [112 Stat. 2681–439][/us/stat/112/2681-439], 2681–476.)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1042][/us/stat/108/1042]; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(g) \[title III, § 351(b)(1)\], Oct. 21, 1998, [112 Stat. 2681–439][/us/stat/112/2681-439], 2681–476.)
 
 <table>
 
@@ -243,9 +243,9 @@ Oct. 20, 1972, Pub. L. 92–513, § 2(6) (words after semicolon), 86 Stat. 948
 
  __Amendments__ 
 
-    1998—Subsec. (c). [Pub. L. 105–277, § 101(g)][/us/pl/105/277/s101/g] \[title III, § 351(b)(1)(A)\], substituted “all or any part of a standard” for “any part of a standard” in introductory provisions.
+    1998—Subsec. (c). [Pub. L. 105–277][/us/pl/105/277], § 101(g) \[title III, § 351(b)(1)(A)\], substituted “all or any part of a standard” for “any part of a standard” in introductory provisions.
 
-    Subsec. (c)(3). [Pub. L. 105–277, § 101(g)][/us/pl/105/277/s101/g] \[title III, § 351(b)(1)(B)–(D)\], added par. (3).
+    Subsec. (c)(3). [Pub. L. 105–277][/us/pl/105/277], § 101(g) \[title III, § 351(b)(1)(B)–(D)\], added par. (3).
 
 ----------
 
@@ -255,13 +255,13 @@ Oct. 20, 1972, Pub. L. 92–513, § 2(6) (words after semicolon), 86 Stat. 948
 ----------
 
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1042
-[/us/pl/105/277/s101/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fg
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-439
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/pl/105/277/s101/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fg
-[/us/pl/105/277/s101/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fg
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 
 

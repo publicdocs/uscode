@@ -35,7 +35,7 @@
 
     The Secretary of Transportation, Under Secretary, or Administrator shall refer a complaint against a member of the armed forces of the United States performing official duties to the Secretary of the department concerned for action. Not later than 90 days after receiving the complaint, the Secretary of that department shall inform the Secretary of Transportation, Under Secretary, or Administrator of the action taken on the complaint, including any corrective or disciplinary action taken.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1226][/us/stat/108/1226]; [Pub. L. 107–71, title I, § 140(b)(1)][/us/pl/107/71/s140/b/1]–(3), Nov. 19, 2001, [115 Stat. 641][/us/stat/115/641].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1226][/us/stat/108/1226]; [Pub. L. 107–71, title I][/us/pl/107/71/tI], § 140(b)(1)–(3), Nov. 19, 2001, [115 Stat. 641][/us/stat/115/641].)
 
 <table>
 
@@ -293,13 +293,13 @@ Aug. 23, 1958, Pub. L. 85–726, § 1002(c), 72 Stat. 789; Feb. 15, 1980, Pub.
 
  __Amendments__ 
 
-    2001—Subsec. (a)(1). [Pub. L. 107–71, § 140(b)(1)][/us/pl/107/71/s140/b/1], (2), inserted “the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or” after “(or” and substituted “, Under Secretary, or Administrator” for “or Administrator” in two places.
+    2001—Subsec. (a)(1). [Pub. L. 107–71][/us/pl/107/71], § 140(b)(1), (2), inserted “the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or” after “(or” and substituted “, Under Secretary, or Administrator” for “or Administrator” in two places.
 
-    Subsec. (a)(2). [Pub. L. 107–71, § 140(b)(2)][/us/pl/107/71/s140/b/2], (3), in introductory provisions, substituted “, Under Secretary, or Administrator, as” for “of Transportation or the Administrator, as” and substituted “, Under Secretary, or Administrator” for “or Administrator” in two places.
+    Subsec. (a)(2). [Pub. L. 107–71][/us/pl/107/71], § 140(b)(2), (3), in introductory provisions, substituted “, Under Secretary, or Administrator, as” for “of Transportation or the Administrator, as” and substituted “, Under Secretary, or Administrator” for “or Administrator” in two places.
 
-    Subsec. (a)(3), (4). [Pub. L. 107–71, § 140(b)(2)][/us/pl/107/71/s140/b/2], substituted “, Under Secretary, or Administrator” for “or Administrator” wherever appearing.
+    Subsec. (a)(3), (4). [Pub. L. 107–71][/us/pl/107/71], § 140(b)(2), substituted “, Under Secretary, or Administrator” for “or Administrator” wherever appearing.
 
-    Subsec. (b). [Pub. L. 107–71, § 140(b)(2)][/us/pl/107/71/s140/b/2], substituted “, Under Secretary, or Administrator” for “or Administrator” in two places.
+    Subsec. (b). [Pub. L. 107–71][/us/pl/107/71], § 140(b)(2), substituted “, Under Secretary, or Administrator” for “or Administrator” in two places.
 
  __Transfer of Functions__ 
 
@@ -313,14 +313,14 @@ Aug. 23, 1958, Pub. L. 85–726, § 1002(c), 72 Stat. 789; Feb. 15, 1980, Pub.
 ----------
 
 [/us/usc/t49/s40105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40105%2Fb
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1226
-[/us/pl/107/71/s140/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs140%2Fb%2F1
+[/us/pl/107/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2FtI
 [/us/stat/115/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F641
-[/us/pl/107/71/s140/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs140%2Fb%2F1
-[/us/pl/107/71/s140/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs140%2Fb%2F2
-[/us/pl/107/71/s140/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs140%2Fb%2F2
-[/us/pl/107/71/s140/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs140%2Fb%2F2
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 
 

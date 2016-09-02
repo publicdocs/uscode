@@ -131,11 +131,11 @@
 
  __Amendments__ 
 
-    1997—[Pub. L. 105–148, § 1(b)][/us/pl/105/148/s1/b], Dec. 16, 1997, [111 Stat. 2683][/us/stat/111/2683], added item 41313.
+    1997—[Pub. L. 105–148][/us/pl/105/148], § 1(b), Dec. 16, 1997, [111 Stat. 2683][/us/stat/111/2683], added item 41313.
 
-    1994—[Pub. L. 103–429, § 6(51)(B)][/us/pl/103/429/s6/51/B], Oct. 31, 1994, [108 Stat. 4385][/us/stat/108/4385], added item 41312.
+    1994—[Pub. L. 103–429][/us/pl/103/429], § 6(51)(B), Oct. 31, 1994, [108 Stat. 4385][/us/stat/108/4385], added item 41312.
 
-    [Pub. L. 103–305, title II, § 205(a)(2)][/us/pl/103/305/s205/a/2], Aug. 23, 1994, [108 Stat. 1583][/us/stat/108/1583], added item 41311.
+    [Pub. L. 103–305, title II][/us/pl/103/305/tII], § 205(a)(2), Aug. 23, 1994, [108 Stat. 1583][/us/stat/108/1583], added item 41311.
 
 ----------
 
@@ -144,11 +144,11 @@
 ----------
 ----------
 
-[/us/pl/105/148/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F148%2Fs1%2Fb
+[/us/pl/105/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F148
 [/us/stat/111/2683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2683
-[/us/pl/103/429/s6/51/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F51%2FB
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/stat/108/4385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4385
-[/us/pl/103/305/s205/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2Fs205%2Fa%2F2
+[/us/pl/103/305/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2FtII
 [/us/stat/108/1583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1583
 
 

@@ -43,7 +43,7 @@
 
  __Amendments__ 
 
-    1996—[Pub. L. 104–287, § 5(42)][/us/pl/104/287/s5/42], Oct. 11, 1996, [110 Stat. 3392][/us/stat/110/3392], struck out duplicative chapter heading.
+    1996—[Pub. L. 104–287][/us/pl/104/287], § 5(42), Oct. 11, 1996, [110 Stat. 3392][/us/stat/110/3392], struck out duplicative chapter heading.
 
 ----------
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/104/287/s5/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F42
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3392
 
 

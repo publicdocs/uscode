@@ -89,7 +89,7 @@
 
         (3) A carrier, agent of a carrier, broker, customs broker, freight forwarder, warehouser, or terminal operator is deemed not to be a person tendering a loaded container or trailer to a first carrier under this section, unless the carrier, agent, broker, customs broker, freight forwarder, warehouser, or terminal operator assumes legal responsibility for loading property into the container or trailer.
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 860][/us/stat/108/860]; [Pub. L. 104–291, title II, § 204][/us/pl/104/291/s204], Oct. 11, 1996, [110 Stat. 3453][/us/stat/110/3453].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(d), July 5, 1994, [108 Stat. 860][/us/stat/108/860]; [Pub. L. 104–291, title II][/us/pl/104/291/tII], § 204, Oct. 11, 1996, [110 Stat. 3453][/us/stat/110/3453].)
 
 <table>
 
@@ -197,23 +197,23 @@ Source (Statutes at Large)  </td>
 
  __Amendments__ 
 
-    1996—Subsec. (a). [Pub. L. 104–291, § 204(a)(4)][/us/pl/104/291/s204/a/4], (5), substituted “electronically or by telephone. This subsection applies to any person within the United States who tenders a container or trailer subject to this chapter for intermodal transportation if the first carrier is a motor carrier.” for “electronically.”
+    1996—Subsec. (a). [Pub. L. 104–291][/us/pl/104/291], § 204(a)(4), (5), substituted “electronically or by telephone. This subsection applies to any person within the United States who tenders a container or trailer subject to this chapter for intermodal transportation if the first carrier is a motor carrier.” for “electronically.”
 
-    [Pub. L. 104–291, § 204(a)(3)][/us/pl/104/291/s204/a/3], inserted “before the tendering of the container or trailer” after “contents of the container or trailer”.
+    [Pub. L. 104–291][/us/pl/104/291], § 204(a)(3), inserted “before the tendering of the container or trailer” after “contents of the container or trailer”.
 
-    [Pub. L. 104–291, § 204(a)(2)][/us/pl/104/291/s204/a/2], substituted “29,000 pounds is tendered for intermodal transportation is a motor carrier, the person tendering the container or trailer shall give the motor carrier a” for “10,000 pounds (including packing material and pallets), the person shall give the carrier a written”.
+    [Pub. L. 104–291][/us/pl/104/291], § 204(a)(2), substituted “29,000 pounds is tendered for intermodal transportation is a motor carrier, the person tendering the container or trailer shall give the motor carrier a” for “10,000 pounds (including packing material and pallets), the person shall give the carrier a written”.
 
-    [Pub. L. 104–291, § 204(a)(1)][/us/pl/104/291/s204/a/1], substituted “If the first carrier to which any” for “Before a person tenders to a first carrier for intermodal transportation a”.
+    [Pub. L. 104–291][/us/pl/104/291], § 204(a)(1), substituted “If the first carrier to which any” for “Before a person tenders to a first carrier for intermodal transportation a”.
 
-    Subsec. (b). [Pub. L. 104–291, § 204(b)][/us/pl/104/291/s204/b], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Not later than when a person tenders to a first carrier for intermodal transportation a container or trailer to which subsection (a) of this section applies or a loaded container or trailer having an actual gross cargo weight of more than 10,000 pounds (including packing material and pallets), the person shall certify to the carrier in writing the actual gross cargo weight and a reasonable description of the contents of the container or trailer.”
+    Subsec. (b). [Pub. L. 104–291][/us/pl/104/291], § 204(b), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Not later than when a person tenders to a first carrier for intermodal transportation a container or trailer to which subsection (a) of this section applies or a loaded container or trailer having an actual gross cargo weight of more than 10,000 pounds (including packing material and pallets), the person shall certify to the carrier in writing the actual gross cargo weight and a reasonable description of the contents of the container or trailer.”
 
-    Subsec. (c). [Pub. L. 104–291, § 204(c)(2)][/us/pl/104/291/s204/c/2], inserted at end “If a person inaccurately transfers the information on the certification, or fails to forward the certification to a subsequent carrier, then that person is liable to any person who incurs any bond, fine, penalty, cost (including storage), or interest for any such fine, penalty, cost (including storage), or interest incurred as a result of the inaccurate transfer of information or failure to forward the certification. A subsequent carrier who incurs a bond, fine, penalty, or cost (including storage), or interest as a result of the inaccurate transfer of the information, or the failure to forward the certification, shall have a lien against the contents of the container or trailer under section 5905 in the amount of the bond, fine, penalty, or cost (including storage), or interest and all court costs and legal fees incurred by the carrier as a result of such inaccurate transfer or failure.”
+    Subsec. (c). [Pub. L. 104–291][/us/pl/104/291], § 204(c)(2), inserted at end “If a person inaccurately transfers the information on the certification, or fails to forward the certification to a subsequent carrier, then that person is liable to any person who incurs any bond, fine, penalty, cost (including storage), or interest for any such fine, penalty, cost (including storage), or interest incurred as a result of the inaccurate transfer of information or failure to forward the certification. A subsequent carrier who incurs a bond, fine, penalty, or cost (including storage), or interest as a result of the inaccurate transfer of the information, or the failure to forward the certification, shall have a lien against the contents of the container or trailer under section 5905 in the amount of the bond, fine, penalty, or cost (including storage), or interest and all court costs and legal fees incurred by the carrier as a result of such inaccurate transfer or failure.”
 
-    [Pub. L. 104–291, § 204(c)(1)][/us/pl/104/291/s204/c/1], substituted “transportation before or when the loaded intermodal container or trailer is tendered to the subsequent carrier. If no certification is received by the subsequent carrier before or when the container or trailer is tendered to it, the subsequent carrier may presume that no certification is required.” for “transportation.”
+    [Pub. L. 104–291][/us/pl/104/291], § 204(c)(1), substituted “transportation before or when the loaded intermodal container or trailer is tendered to the subsequent carrier. If no certification is received by the subsequent carrier before or when the container or trailer is tendered to it, the subsequent carrier may presume that no certification is required.” for “transportation.”
 
-    Subsec. (d). [Pub. L. 104–291, § 204(d)][/us/pl/104/291/s204/d], added subsec. (d). Former subsec. (d) redesignated (e).
+    Subsec. (d). [Pub. L. 104–291][/us/pl/104/291], § 204(d), added subsec. (d). Former subsec. (d) redesignated (e).
 
-    Subsec. (e). [Pub. L. 104–291, § 204(d)][/us/pl/104/291/s204/d], (e), redesignated subsec. (d) as (e), added par. (1), redesignated former pars. (1) and (2) as (2) and (3), respectively, and adjusted margin of par. (2).
+    Subsec. (e). [Pub. L. 104–291][/us/pl/104/291], § 204(d), (e), redesignated subsec. (d) as (e), added par. (1), redesignated former pars. (1) and (2) as (2) and (3), respectively, and adjusted margin of par. (2).
 
 ----------
 
@@ -223,18 +223,18 @@ Source (Statutes at Large)  </td>
 ----------
 
 [/us/usc/t49/s5903/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5903%2Fc
-[/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F860
-[/us/pl/104/291/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F291%2Fs204
+[/us/pl/104/291/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F291%2FtII
 [/us/stat/110/3453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3453
-[/us/pl/104/291/s204/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F291%2Fs204%2Fa%2F4
-[/us/pl/104/291/s204/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F291%2Fs204%2Fa%2F3
-[/us/pl/104/291/s204/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F291%2Fs204%2Fa%2F2
-[/us/pl/104/291/s204/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F291%2Fs204%2Fa%2F1
-[/us/pl/104/291/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F291%2Fs204%2Fb
-[/us/pl/104/291/s204/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F291%2Fs204%2Fc%2F2
-[/us/pl/104/291/s204/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F291%2Fs204%2Fc%2F1
-[/us/pl/104/291/s204/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F291%2Fs204%2Fd
-[/us/pl/104/291/s204/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F291%2Fs204%2Fd
+[/us/pl/104/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F291
+[/us/pl/104/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F291
+[/us/pl/104/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F291
+[/us/pl/104/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F291
+[/us/pl/104/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F291
+[/us/pl/104/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F291
+[/us/pl/104/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F291
+[/us/pl/104/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F291
+[/us/pl/104/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F291
 
 

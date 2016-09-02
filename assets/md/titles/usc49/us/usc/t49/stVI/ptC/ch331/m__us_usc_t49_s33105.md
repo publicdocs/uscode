@@ -43,7 +43,7 @@
 
         (2) At the beginning of each calendar year, as necessary data become available from the Bureau of Labor Statistics, the Secretary of Labor shall certify to the Secretary of Transportation and publish in the Federal Register the percentage difference between the price index for the 12 months before the beginning of the calendar year and the price index for the base period. For model years beginning in that calendar year, the amounts specified in subsection (a) of this section shall be adjusted by the percentage difference.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1081][/us/stat/108/1081].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1081][/us/stat/108/1081].)
 
 <table>
 
@@ -102,7 +102,7 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, § 604; added Oct. 25, 1984, Pu
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1081
 
 

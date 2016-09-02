@@ -27,11 +27,11 @@
 
     A notice to a motor carrier, freight forwarder, or broker shall be served personally or by mail on the motor carrier, freight forwarder, or broker or on its designated agent. Service by mail on the designated agent shall be made at the address filed for the agent. When notice is given by mail, the date of mailing is considered to be the time when the notice is served. If a motor carrier, freight forwarder, or broker does not have a designated agent, service may be made by posting a copy of the notice at the headquarters of the Department of Transportation.
 
-(Added [Pub. L. 104–88, title I, § 103][/us/pl/104/88/s103], Dec. 29, 1995, [109 Stat. 858][/us/stat/109/858].)
+(Added [Pub. L. 104–88, title I][/us/pl/104/88/tI], § 103, Dec. 29, 1995, [109 Stat. 858][/us/stat/109/858].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [section 10329 of this title][/us/usc/t49/s10329] prior to the general amendment of this subtitle by [Pub. L. 104–88, § 102(a)][/us/pl/104/88/s102/a].
+    Provisions similar to those in this section were contained in [section 10329 of this title][/us/usc/t49/s10329] prior to the general amendment of this subtitle by [Pub. L. 104–88][/us/pl/104/88], § 102(a).
 
 ----------
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/104/88/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs103
+[/us/pl/104/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtI
 [/us/stat/109/858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F858
 [/us/usc/t49/s10329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs10329
-[/us/pl/104/88/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs102%2Fa
+[/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 
 

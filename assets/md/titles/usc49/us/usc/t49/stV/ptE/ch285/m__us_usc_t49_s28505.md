@@ -17,7 +17,7 @@
 
     Within 1 year after the date of enactment of this section, the Board shall issue such rules and regulations as may be necessary to carry out this chapter.
 
-(Added [Pub. L. 110–432, div. B, title IV, § 401(a)][/us/pl/110/432/s401/a], Oct. 16, 2008, [122 Stat. 4956][/us/stat/122/4956].)
+(Added [Pub. L. 110–432, div. B, title IV][/us/pl/110/432/dB/tIV], § 401(a), Oct. 16, 2008, [122 Stat. 4956][/us/stat/122/4956].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/110/432/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs401%2Fa
+[/us/pl/110/432/dB/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdB%2FtIV
 [/us/stat/122/4956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4956
 [/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
 

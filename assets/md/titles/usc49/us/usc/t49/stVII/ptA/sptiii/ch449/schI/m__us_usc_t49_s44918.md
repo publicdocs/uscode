@@ -113,7 +113,7 @@
 
     Actions by crew members under this section shall be subject to the provisions of section 44903(k).
 
-(Added [Pub. L. 107–71, title I, § 107(a)][/us/pl/107/71/s107/a], Nov. 19, 2001, [115 Stat. 610][/us/stat/115/610]; amended [Pub. L. 107–296, title XIV, § 1403(a)][/us/pl/107/296/s1403/a], Nov. 25, 2002, [116 Stat. 2305][/us/stat/116/2305]; [Pub. L. 108–176, title VI, § 603][/us/pl/108/176/s603], Dec. 12, 2003, [117 Stat. 2563][/us/stat/117/2563].)
+(Added [Pub. L. 107–71, title I][/us/pl/107/71/tI], § 107(a), Nov. 19, 2001, [115 Stat. 610][/us/stat/115/610]; amended [Pub. L. 107–296, title XIV][/us/pl/107/296/tXIV], § 1403(a), Nov. 25, 2002, [116 Stat. 2305][/us/stat/116/2305]; [Pub. L. 108–176, title VI][/us/pl/108/176/tVI], § 603, Dec. 12, 2003, [117 Stat. 2563][/us/stat/117/2563].)
 
  __References in Text__ 
 
@@ -140,11 +140,11 @@
 ----------
 ----------
 
-[/us/pl/107/71/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs107%2Fa
+[/us/pl/107/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2FtI
 [/us/stat/115/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F610
-[/us/pl/107/296/s1403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1403%2Fa
+[/us/pl/107/296/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXIV
 [/us/stat/116/2305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2305
-[/us/pl/108/176/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs603
+[/us/pl/108/176/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtVI
 [/us/stat/117/2563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2563
 [/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
 [/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176

@@ -35,7 +35,7 @@
 
     On request of the Attorney General, the Secretary, Under Secretary, or Administrator, as appropriate, may participate in a civil action under this part.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1229][/us/stat/108/1229]; [Pub. L. 107–71, title I, § 140(b)(1)][/us/pl/107/71/s140/b/1], (2), Nov. 19, 2001, [115 Stat. 641][/us/stat/115/641].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1229][/us/stat/108/1229]; [Pub. L. 107–71, title I][/us/pl/107/71/tI], § 140(b)(1), (2), Nov. 19, 2001, [115 Stat. 641][/us/stat/115/641].)
 
 <table>
 
@@ -183,9 +183,9 @@ Oct. 15, 1966, Pub. L. 89–670, § 6(c)(1), 80 Stat. 938; Jan. 12, 1983, Pub.
 
  __Amendments__ 
 
-    2001—Subsec. (b)(1). [Pub. L. 107–71, § 140(b)(1)][/us/pl/107/71/s140/b/1], in introductory provisions, inserted “the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or” after “(or”.
+    2001—Subsec. (b)(1). [Pub. L. 107–71][/us/pl/107/71], § 140(b)(1), in introductory provisions, inserted “the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or” after “(or”.
 
-    Subsec. (c). [Pub. L. 107–71, § 140(b)(2)][/us/pl/107/71/s140/b/2], substituted “, Under Secretary, or Administrator” for “or Administrator” in heading and text.
+    Subsec. (c). [Pub. L. 107–71][/us/pl/107/71], § 140(b)(2), substituted “, Under Secretary, or Administrator” for “or Administrator” in heading and text.
 
  __Transfer of Functions__ 
 
@@ -199,12 +199,12 @@ Oct. 15, 1966, Pub. L. 89–670, § 6(c)(1), 80 Stat. 938; Jan. 12, 1983, Pub.
 ----------
 
 [/us/usc/t49/s40106/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40106%2Fb
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1229
-[/us/pl/107/71/s140/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs140%2Fb%2F1
+[/us/pl/107/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2FtI
 [/us/stat/115/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F641
-[/us/pl/107/71/s140/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs140%2Fb%2F1
-[/us/pl/107/71/s140/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs140%2Fb%2F2
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 
 

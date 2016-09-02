@@ -115,7 +115,7 @@
 
  __Amendments__ 
 
-    1998—[Pub. L. 105–362, title XV, § 1501(e)(2)][/us/pl/105/362/s1501/e/2], Nov. 10, 1998, [112 Stat. 3295][/us/stat/112/3295], struck out item 32510 “Annual report”.
+    1998—[Pub. L. 105–362, title XV][/us/pl/105/362/tXV], § 1501(e)(2), Nov. 10, 1998, [112 Stat. 3295][/us/stat/112/3295], struck out item 32510 “Annual report”.
 
 ----------
 
@@ -124,7 +124,7 @@
 ----------
 ----------
 
-[/us/pl/105/362/s1501/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs1501%2Fe%2F2
+[/us/pl/105/362/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2FtXV
 [/us/stat/112/3295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3295
 
 

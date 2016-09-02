@@ -17,7 +17,7 @@
 
     Amtrak shall operate a national rail passenger transportation system which ties together existing and emergent regional rail passenger service and other intermodal passenger service.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 923][/us/stat/108/923]; [Pub. L. 105–134, title I, § 101(a)(1)][/us/pl/105/134/s101/a/1], Dec. 2, 1997, [111 Stat. 2572][/us/stat/111/2572].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 923][/us/stat/108/923]; [Pub. L. 105–134, title I][/us/pl/105/134/tI], § 101(a)(1), Dec. 2, 1997, [111 Stat. 2572][/us/stat/111/2572].)
 
 <table>
 
@@ -104,9 +104,9 @@ In subsection (a), before clause (1), the text of 45:561(b) (1st sentence words 
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F923
-[/us/pl/105/134/s101/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2Fs101%2Fa%2F1
+[/us/pl/105/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2FtI
 [/us/stat/111/2572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2572
 [/us/pl/105/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134
 [/us/usc/t49/s24306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24306

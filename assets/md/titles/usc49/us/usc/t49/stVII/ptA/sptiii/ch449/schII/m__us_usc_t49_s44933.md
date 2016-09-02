@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../../../..//us/usc/t49/stVII/ptA/sptiii/ch449/schII/m__us_usc_t49_stVII_ptA_sptiii_ch449_schII.md) | [Next](./../../../../../../../..//us/usc/t49/stVII/ptA/sptiii/ch449/schII/m__us_usc_t49_s44934.md) | [Root of Title](./../../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44933)
+[Previous](./../../../../../../../..//us/usc/t49/stVII/ptA/sptiii/ch449/schII/m__us_usc_t49_s44931 _us_usc_t49_s44932.md) | [Next](./../../../../../../../..//us/usc/t49/stVII/ptA/sptiii/ch449/schII/m__us_usc_t49_s44934.md) | [Root of Title](./../../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44933)
 
 ## § 44933. Federal Security Managers
 
@@ -27,7 +27,7 @@
 
         (2) carry out other duties prescribed by the Under Secretary.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1216][/us/stat/108/1216]; [Pub. L. 107–71, title I][/us/pl/107/71], §§ 101(f)(4), 103, Nov. 19, 2001, [115 Stat. 603][/us/stat/115/603], 605.)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1216][/us/stat/108/1216]; [Pub. L. 107–71, title I][/us/pl/107/71/tI], §§ 101(f)(4), 103, Nov. 19, 2001, [115 Stat. 603][/us/stat/115/603], 605.)
 
 <table>
 
@@ -111,9 +111,9 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 319(a); added Nov. 16, 1990,
 
  __Amendments__ 
 
-    2001—[Pub. L. 107–71, § 103][/us/pl/107/71/s103], amended section generally, substituting provisions relating to designation, establishment, and stationing procedures and duties and powers for provisions which contained a more detailed listing of responsibilities and a prohibition against a Civil Aviation Security Field Officer being assigned security duties and powers at an airport having a Manager.
+    2001—[Pub. L. 107–71][/us/pl/107/71], § 103, amended section generally, substituting provisions relating to designation, establishment, and stationing procedures and duties and powers for provisions which contained a more detailed listing of responsibilities and a prohibition against a Civil Aviation Security Field Officer being assigned security duties and powers at an airport having a Manager.
 
-    Subsec. (a). [Pub. L. 107–71, § 101(f)(4)][/us/pl/107/71/s101/f/4], substituted “Under Secretary” for “Assistant Administrator for Civil Aviation Security”.
+    Subsec. (a). [Pub. L. 107–71][/us/pl/107/71], § 101(f)(4), substituted “Under Secretary” for “Assistant Administrator for Civil Aviation Security”.
 
  __Transfer of Functions__ 
 
@@ -121,17 +121,17 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 319(a); added Nov. 16, 1990,
 
 ----------
 
-[Previous](./../../../../../../../..//us/usc/t49/stVII/ptA/sptiii/ch449/schII/m__us_usc_t49_stVII_ptA_sptiii_ch449_schII.md) | [Next](./../../../../../../../..//us/usc/t49/stVII/ptA/sptiii/ch449/schII/m__us_usc_t49_s44934.md) | [Root of Title](./../../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44933)
+[Previous](./../../../../../../../..//us/usc/t49/stVII/ptA/sptiii/ch449/schII/m__us_usc_t49_s44931 _us_usc_t49_s44932.md) | [Next](./../../../../../../../..//us/usc/t49/stVII/ptA/sptiii/ch449/schII/m__us_usc_t49_s44934.md) | [Root of Title](./../../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44933)
 
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1216
-[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2FtI
 [/us/stat/115/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F603
-[/us/pl/107/71/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs103
-[/us/pl/107/71/s101/f/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs101%2Ff%2F4
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 
 

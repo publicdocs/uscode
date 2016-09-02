@@ -23,7 +23,7 @@
 
     (3) “vessel” means a contrivance used, or capable of being used, for transportation in water, but does not include aircraft.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1353][/us/stat/108/1353].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1353][/us/stat/108/1353].)
 
 <table>
 
@@ -114,7 +114,7 @@ Aug. 9, 1939, ch. 618, § 7(a)–(c), 53 Stat. 1292.  </td>
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1353
 
 

@@ -131,7 +131,7 @@
 
  __Amendments__ 
 
-    1996—[Pub. L. 104–264, title VII, § 703(b)][/us/pl/104/264/s703/b], Oct. 9, 1996, [110 Stat. 3268][/us/stat/110/3268], added item 41113.
+    1996—[Pub. L. 104–264, title VII][/us/pl/104/264/tVII], § 703(b), Oct. 9, 1996, [110 Stat. 3268][/us/stat/110/3268], added item 41113.
 
 ----------
 
@@ -140,7 +140,7 @@
 ----------
 ----------
 
-[/us/pl/104/264/s703/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs703%2Fb
+[/us/pl/104/264/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2FtVII
 [/us/stat/110/3268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3268
 
 

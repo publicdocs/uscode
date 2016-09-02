@@ -21,7 +21,7 @@
 
     (2) aircraft used to provide the service or transportation, and operations related to the service or transportation, conform to the safety standards prescribed by the Administrator of the Federal Aviation Administration.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1152][/us/stat/108/1152].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1152][/us/stat/108/1152].)
 
 <table>
 
@@ -79,7 +79,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 419(e)(1); added Oct. 24, 19
 ----------
 
 [/us/usc/t49/s41736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs41736
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1152
 
 

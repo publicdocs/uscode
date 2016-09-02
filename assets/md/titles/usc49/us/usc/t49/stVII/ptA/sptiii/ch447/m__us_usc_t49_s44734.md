@@ -41,7 +41,7 @@
 
         The term “flight attendant” has the meaning given that term in section 44728(g).
 
-(Added [Pub. L. 112–95, title III, § 309(a)][/us/pl/112/95/s309/a], Feb. 14, 2012, [126 Stat. 64][/us/stat/126/64].)
+(Added [Pub. L. 112–95, title III][/us/pl/112/95/tIII], § 309(a), Feb. 14, 2012, [126 Stat. 64][/us/stat/126/64].)
 
 ----------
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/112/95/s309/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs309%2Fa
+[/us/pl/112/95/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtIII
 [/us/stat/126/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F64
 
 

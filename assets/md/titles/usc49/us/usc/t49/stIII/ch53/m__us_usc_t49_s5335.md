@@ -27,7 +27,7 @@
 
     The recipient of a grant under this chapter shall report to the Secretary, for inclusion in the National Transit Database, any information relating to a transit asset inventory or condition assessment conducted by the recipient.
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 838][/us/stat/108/838]; [Pub. L. 104–287, § 5(9)][/us/pl/104/287/s5/9], (18), Oct. 11, 1996, [110 Stat. 3389][/us/stat/110/3389], 3390; [Pub. L. 104–316, title I, § 127(b)][/us/pl/104/316/s127/b], Oct. 19, 1996, [110 Stat. 3840][/us/stat/110/3840]; [Pub. L. 105–178, title III, § 3026][/us/pl/105/178/s3026], June 9, 1998, [112 Stat. 365][/us/stat/112/365]; [Pub. L. 109–59, title III][/us/pl/109/59], §§ 3002(b)(4), 3033(a), Aug. 10, 2005, [119 Stat. 1545][/us/stat/119/1545], 1627; [Pub. L. 112–141, div. B][/us/pl/112/141], §§ 20025(a), 20030(j), July 6, 2012, [126 Stat. 718][/us/stat/126/718], 731.)
+([Pub. L. 103–272][/us/pl/103/272], § 1(d), July 5, 1994, [108 Stat. 838][/us/stat/108/838]; [Pub. L. 104–287][/us/pl/104/287], § 5(9), (18), Oct. 11, 1996, [110 Stat. 3389][/us/stat/110/3389], 3390; [Pub. L. 104–316, title I][/us/pl/104/316/tI], § 127(b), Oct. 19, 1996, [110 Stat. 3840][/us/stat/110/3840]; [Pub. L. 105–178, title III][/us/pl/105/178/tIII], § 3026, June 9, 1998, [112 Stat. 365][/us/stat/112/365]; [Pub. L. 109–59, title III][/us/pl/109/59/tIII], §§ 3002(b)(4), 3033(a), Aug. 10, 2005, [119 Stat. 1545][/us/stat/119/1545], 1627; [Pub. L. 112–141, div. B][/us/pl/112/141/dB], §§ 20025(a), 20030(j), July 6, 2012, [126 Stat. 718][/us/stat/126/718], 731.)
 
 <table>
 
@@ -181,7 +181,7 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 27; added Dec. 18, 1991, Pub.
 
     In subsection (d), before clause (1), the words “the transferability provisions of” are omitted as surplus.
 
- __[__  __Pub. L. 104–287, § 5(18)__  __][/us/pl/104/287/s5/18]__ 
+ __[__  __Pub. L. 104–287__  __][/us/pl/104/287]__  __, § 5(18)__ 
 
     This amends 49:5335(d)(2)(B) to amend an erroneous cross-reference.
 
@@ -189,29 +189,29 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 27; added Dec. 18, 1991, Pub.
 
     2012—Subsec. (a). [Pub. L. 112–141][/us/pl/112/141], §§ 20025(a)(1), 20030(j), struck out “of Transportation” after “the Secretary” and substituted “public transportation financial, operating, and asset condition information” for “public transportation financial and operating information”.
 
-    Subsec. (c). [Pub. L. 112–141, § 20025(a)(2)][/us/pl/112/141/s20025/a/2], added subsec. (c).
+    Subsec. (c). [Pub. L. 112–141][/us/pl/112/141], § 20025(a)(2), added subsec. (c).
 
-    2005—[Pub. L. 109–59, § 3033(a)][/us/pl/109/59/s3033/a], substituted “National transit database” for “Reports and audits” in section catchline, redesignated pars. (1) and (2) of subsec. (a) as subsecs. (a) and (b), respectively, inserted subsec. (b) heading, substituted “The Secretary may award a grant under section 5307 or 5311” for “The Secretary may make a grant under [section 5307 of this title][/us/usc/t49/s5307]” in subsec. (b), and struck out former subsec. (b) which related to submission of a report in January- 1993, on carrying out former [section 5307(b)(5) of this title][/us/usc/t49/s5307/b/5].
+    2005—[Pub. L. 109–59][/us/pl/109/59], § 3033(a), substituted “National transit database” for “Reports and audits” in section catchline, redesignated pars. (1) and (2) of subsec. (a) as subsecs. (a) and (b), respectively, inserted subsec. (b) heading, substituted “The Secretary may award a grant under section 5307 or 5311” for “The Secretary may make a grant under [section 5307 of this title][/us/usc/t49/s5307]” in subsec. (b), and struck out former subsec. (b) which related to submission of a report in January- 1993, on carrying out former [section 5307(b)(5) of this title][/us/usc/t49/s5307/b/5].
 
-    Subsec. (a)(1). [Pub. L. 109–59, § 3002(b)(4)][/us/pl/109/59/s3002/b/4], substituted “public transportation” for “mass transportation” wherever appearing.
+    Subsec. (a)(1). [Pub. L. 109–59][/us/pl/109/59], § 3002(b)(4), substituted “public transportation” for “mass transportation” wherever appearing.
 
-    1998—Subsec. (a). [Pub. L. 105–178, § 3026(a)(1)][/us/pl/105/178/s3026/a/1], substituted “National Transit Database” for “Reporting System and Uniform System of Accounts and Records” in heading.
+    1998—Subsec. (a). [Pub. L. 105–178][/us/pl/105/178], § 3026(a)(1), substituted “National Transit Database” for “Reporting System and Uniform System of Accounts and Records” in heading.
 
-    Subsec. (a)(1). [Pub. L. 105–178, § 3026(a)(2)][/us/pl/105/178/s3026/a/2], substituted “using uniform categories” for “by uniform categories,” and “and using a uniform system of accounts” for “and a uniform system of accounts and records”.
+    Subsec. (a)(1). [Pub. L. 105–178][/us/pl/105/178], § 3026(a)(2), substituted “using uniform categories” for “by uniform categories,” and “and using a uniform system of accounts” for “and a uniform system of accounts and records”.
 
-    Subsecs. (b) to (d). [Pub. L. 105–178, § 3026(b)][/us/pl/105/178/s3026/b], redesignated subsec. (d) as (b) and struck out former subsecs. (b) and (c) which related to quarterly reports and biennial needs report, respectively.
+    Subsecs. (b) to (d). [Pub. L. 105–178][/us/pl/105/178], § 3026(b), redesignated subsec. (d) as (b) and struck out former subsecs. (b) and (c) which related to quarterly reports and biennial needs report, respectively.
 
-    1996—Subsec. (b). [Pub. L. 104–287, § 5(9)][/us/pl/104/287/s5/9], substituted “Transportation and Infrastructure” for “Public Works and Transportation” in introductory provisions.
+    1996—Subsec. (b). [Pub. L. 104–287][/us/pl/104/287], § 5(9), substituted “Transportation and Infrastructure” for “Public Works and Transportation” in introductory provisions.
 
     Subsec. (c). [Pub. L. 104–316][/us/pl/104/316] struck out “and in January of every 2d year after 1993” after “In January 1993” in introductory provisions.
 
-    [Pub. L. 104–287, § 5(9)][/us/pl/104/287/s5/9], substituted “Transportation and Infrastructure” for “Public Works and Transportation” in introductory provisions.
+    [Pub. L. 104–287][/us/pl/104/287], § 5(9), substituted “Transportation and Infrastructure” for “Public Works and Transportation” in introductory provisions.
 
     Subsec. (d). [Pub. L. 104–316][/us/pl/104/316] struck out “and in January of every 2d year after 1993” after “In January 1993” in introductory provisions.
 
-    [Pub. L. 104–287, § 5(9)][/us/pl/104/287/s5/9], substituted “Transportation and Infrastructure” for “Public Works and Transportation” in introductory provisions.
+    [Pub. L. 104–287][/us/pl/104/287], § 5(9), substituted “Transportation and Infrastructure” for “Public Works and Transportation” in introductory provisions.
 
-    Subsec. (d)(2)(B). [Pub. L. 104–287, § 5(18)][/us/pl/104/287/s5/18], substituted “Americans with Disabilities Act” for “Americans With Disabilities Act”.
+    Subsec. (d)(2)(B). [Pub. L. 104–287][/us/pl/104/287], § 5(18), substituted “Americans with Disabilities Act” for “Americans With Disabilities Act”.
 
  __Effective Date of 2012 Amendment__ 
 
@@ -219,7 +219,7 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 27; added Dec. 18, 1991, Pub.
 
  __Data Accuracy and Reliability__ 
 
-[Pub. L. 112–141, div. B, § 20025(b)][/us/pl/112/141/s20025/b], July 6, 2012, [126 Stat. 718][/us/stat/126/718], provided that: 
+[Pub. L. 112–141, div. B][/us/pl/112/141/dB], § 20025(b), July 6, 2012, [126 Stat. 718][/us/stat/126/718], provided that: 
 
 > “The Secretary \[of Transportation\] shall—
 
@@ -234,38 +234,38 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 27; added Dec. 18, 1991, Pub.
 ----------
 ----------
 
-[/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F838
-[/us/pl/104/287/s5/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F9
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3389
-[/us/pl/104/316/s127/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs127%2Fb
+[/us/pl/104/316/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2FtI
 [/us/stat/110/3840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3840
-[/us/pl/105/178/s3026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs3026
+[/us/pl/105/178/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtIII
 [/us/stat/112/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F365
-[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIII
 [/us/stat/119/1545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1545
-[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdB
 [/us/stat/126/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F718
-[/us/pl/104/287/s5/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F18
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
-[/us/pl/112/141/s20025/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs20025%2Fa%2F2
-[/us/pl/109/59/s3033/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3033%2Fa
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/usc/t49/s5307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5307
 [/us/usc/t49/s5307/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5307%2Fb%2F5
-[/us/pl/109/59/s3002/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3002%2Fb%2F4
-[/us/pl/105/178/s3026/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs3026%2Fa%2F1
-[/us/pl/105/178/s3026/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs3026%2Fa%2F2
-[/us/pl/105/178/s3026/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs3026%2Fb
-[/us/pl/104/287/s5/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F9
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316
-[/us/pl/104/287/s5/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F9
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316
-[/us/pl/104/287/s5/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F9
-[/us/pl/104/287/s5/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F18
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
-[/us/pl/112/141/s20025/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs20025%2Fb
+[/us/pl/112/141/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdB
 [/us/stat/126/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F718
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101

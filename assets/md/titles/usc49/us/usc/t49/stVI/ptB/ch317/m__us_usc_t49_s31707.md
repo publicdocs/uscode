@@ -17,7 +17,7 @@
 
     Sections 31704 and 31705 of this title do not limit the amount of money a State may charge for registration of a commercial motor vehicle or the amount of any fuel use tax a State may impose.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1033][/us/stat/108/1033].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1033][/us/stat/108/1033].)
 
 <table>
 
@@ -72,7 +72,7 @@ Dec. 18, 1991, Pub. L. 102–240, § 4008(i), 105 Stat. 2155.  </td>
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1033
 
 

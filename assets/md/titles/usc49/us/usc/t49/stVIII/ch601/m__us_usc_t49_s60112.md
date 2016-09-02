@@ -67,7 +67,7 @@
 
     The Secretary may waive the requirements for notice and an opportunity for a hearing under this section and issue expeditiously an order under this section if the Secretary decides failure to issue the order expeditiously will result in likely serious harm to life, property, or the environment. An order under this subsection shall provide an opportunity for a hearing as soon as practicable after the order is issued.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1317][/us/stat/108/1317]; [Pub. L. 103–429, § 6(76)][/us/pl/103/429/s6/76], Oct. 31, 1994, [108 Stat. 4388][/us/stat/108/4388]; [Pub. L. 107–355][/us/pl/107/355], §§ 8(a), 10(b), Dec. 17, 2002, [116 Stat. 2993][/us/stat/116/2993], 2995.)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1317][/us/stat/108/1317]; [Pub. L. 103–429][/us/pl/103/429], § 6(76), Oct. 31, 1994, [108 Stat. 4388][/us/stat/108/4388]; [Pub. L. 107–355][/us/pl/107/355], §§ 8(a), 10(b), Dec. 17, 2002, [116 Stat. 2993][/us/stat/116/2993], 2995.)
 
 <table>
 
@@ -271,15 +271,15 @@ Nov. 30, 1979, Pub. L. 96–129, 93 Stat. 989, § 209(b)(6); added Oct. 24, 19
 
  __Amendments__ 
 
-    2002—Subsec. (a). [Pub. L. 107–355, § 8(a)(1)][/us/pl/107/355/s8/a/1], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “After notice and an opportunity for a hearing, the Secretary of Transportation may decide a pipeline facility is hazardous if the Secretary decides the facility is—
+    2002—Subsec. (a). [Pub. L. 107–355][/us/pl/107/355], § 8(a)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “After notice and an opportunity for a hearing, the Secretary of Transportation may decide a pipeline facility is hazardous if the Secretary decides the facility is—
 
     “(1) hazardous to life, property, or the environment; or
 
     “(2) constructed or operated, or a component of the facility is constructed or operated, with equipment, material, or a technique the Secretary decides is hazardous to life, property, or the environment.”
 
-    Subsec. (d). [Pub. L. 107–355, § 10(b)][/us/pl/107/355/s10/b], designated existing provisions as par. (1), inserted heading, realigned margins, and added pars. (2) and (3).
+    Subsec. (d). [Pub. L. 107–355][/us/pl/107/355], § 10(b), designated existing provisions as par. (1), inserted heading, realigned margins, and added pars. (2) and (3).
 
-    [Pub. L. 107–355, § 8(a)(2)][/us/pl/107/355/s8/a/2], substituted “is or would be hazardous” for “is hazardous”.
+    [Pub. L. 107–355][/us/pl/107/355], § 8(a)(2), substituted “is or would be hazardous” for “is hazardous”.
 
     1994—Subsec. (d). [Pub. L. 103–429][/us/pl/103/429] inserted before period at end “, including suspended or restricted use of the facility, physical inspection, testing, repair, replacement, or other appropriate action”.
 
@@ -294,9 +294,9 @@ Nov. 30, 1979, Pub. L. 96–129, 93 Stat. 989, § 209(b)(6); added Oct. 24, 19
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1317
-[/us/pl/103/429/s6/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F76
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/stat/108/4388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4388
 [/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355
 [/us/stat/116/2993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2993
@@ -304,9 +304,9 @@ Nov. 30, 1979, Pub. L. 96–129, 93 Stat. 989, § 209(b)(6); added Oct. 24, 19
 [/us/act/1994-07-05/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1994-07-05%2Fs1
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1317
-[/us/pl/107/355/s8/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355%2Fs8%2Fa%2F1
-[/us/pl/107/355/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355%2Fs10%2Fb
-[/us/pl/107/355/s8/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355%2Fs8%2Fa%2F2
+[/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355
+[/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355
+[/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/pl/103/429/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs9

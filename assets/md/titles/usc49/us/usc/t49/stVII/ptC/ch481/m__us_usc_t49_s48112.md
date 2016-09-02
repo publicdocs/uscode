@@ -23,7 +23,7 @@
 
     Any contract authority made available by this section shall be subject to an obligation limitation.
 
-(Added [Pub. L. 106–181, title I, § 107(a)][/us/pl/106/181/s107/a], Apr. 5, 2000, [114 Stat. 73][/us/stat/114/73].)
+(Added [Pub. L. 106–181, title I][/us/pl/106/181/tI], § 107(a), Apr. 5, 2000, [114 Stat. 73][/us/stat/114/73].)
 
  __Effective Date__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/106/181/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs107%2Fa
+[/us/pl/106/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtI
 [/us/stat/114/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F73
 [/us/pl/106/181/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106

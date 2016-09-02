@@ -89,7 +89,7 @@
 
     The Administrator may grant an exemption from a requirement of a regulation prescribed under subsection (a) or (b) of this section or any of sections 44702–44716 of this title if the Administrator finds the exemption is in the public interest.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1185][/us/stat/108/1185]; [Pub. L. 103–429, § 6(55)][/us/pl/103/429/s6/55], Oct. 31, 1994, [108 Stat. 4385][/us/stat/108/4385]; [Pub. L. 106–181, title VII, § 714][/us/pl/106/181/s714], Apr. 5, 2000, [114 Stat. 161][/us/stat/114/161].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1185][/us/stat/108/1185]; [Pub. L. 103–429][/us/pl/103/429], § 6(55), Oct. 31, 1994, [108 Stat. 4385][/us/stat/108/4385]; [Pub. L. 106–181, title VII][/us/pl/106/181/tVII], § 714, Apr. 5, 2000, [114 Stat. 161][/us/stat/114/161].)
 
 <table>
 
@@ -323,7 +323,7 @@ In this section, the word “Administrator” in sections 601(a)–(c) and 604 o
 
  __Notices to Airmen__ 
 
-[Pub. L. 112–153, § 3][/us/pl/112/153/s3], Aug. 3, 2012, [126 Stat. 1162][/us/stat/126/1162], provided that:
+[Pub. L. 112–153][/us/pl/112/153], § 3, Aug. 3, 2012, [126 Stat. 1162][/us/stat/126/1162], provided that:
 
 >     “(a) __In General.—__ 
 
@@ -365,7 +365,7 @@ In this section, the word “Administrator” in sections 601(a)–(c) and 604 o
 
  __Consistency of Regulatory Interpretation__ 
 
-[Pub. L. 112–95, title III, § 313][/us/pl/112/95/s313], Feb. 14, 2012, [126 Stat. 67][/us/stat/126/67], provided that:
+[Pub. L. 112–95, title III][/us/pl/112/95/tIII], § 313, Feb. 14, 2012, [126 Stat. 67][/us/stat/126/67], provided that:
 
 >     “(a)  __Establishment of Advisory Panel__  __.—__ 
 
@@ -391,7 +391,7 @@ In this section, the word “Administrator” in sections 601(a)–(c) and 604 o
 
  __Flight Standards Evaluation Program__ 
 
-[Pub. L. 112–95, title III, § 315][/us/pl/112/95/s315], Feb. 14, 2012, [126 Stat. 68][/us/stat/126/68], provided that:
+[Pub. L. 112–95, title III][/us/pl/112/95/tIII], § 315, Feb. 14, 2012, [126 Stat. 68][/us/stat/126/68], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -411,7 +411,7 @@ In this section, the word “Administrator” in sections 601(a)–(c) and 604 o
 
  __Review of Air Transportation Oversight System Database__ 
 
-[Pub. L. 112–95, title III, § 343][/us/pl/112/95/s343], Feb. 14, 2012, [126 Stat. 80][/us/stat/126/80], provided that:
+[Pub. L. 112–95, title III][/us/pl/112/95/tIII], § 343, Feb. 14, 2012, [126 Stat. 80][/us/stat/126/80], provided that:
 
 >     “(a)  __Reviews__  __.—__ 
 
@@ -441,7 +441,7 @@ In this section, the word “Administrator” in sections 601(a)–(c) and 604 o
 
  __Duty Periods and Flight Time Limitations Applicable to Flight Crewmembers__ 
 
-[Pub. L. 112–95, title III, § 345][/us/pl/112/95/s345], Feb. 14, 2012, [126 Stat. 81][/us/stat/126/81], provided that:
+[Pub. L. 112–95, title III][/us/pl/112/95/tIII], § 345, Feb. 14, 2012, [126 Stat. 81][/us/stat/126/81], provided that:
 
 >     “(a)  __Rulemaking on Applicability of Part __  __121__  __ Duty Periods and Flight Time Limitations to Part __  __91__  __ Operations__  __.—__ 
 
@@ -457,7 +457,7 @@ In this section, the word “Administrator” in sections 601(a)–(c) and 604 o
 
  __Safety Critical Staffing__ 
 
-[Pub. L. 112–95, title VI, § 606][/us/pl/112/95/s606], Feb. 14, 2012, [126 Stat. 113][/us/stat/126/113], provided that:
+[Pub. L. 112–95, title VI][/us/pl/112/95/tVI], § 606, Feb. 14, 2012, [126 Stat. 113][/us/stat/126/113], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -469,7 +469,7 @@ In this section, the word “Administrator” in sections 601(a)–(c) and 604 o
 
  __Air Transportation of Lithium Cells and Batteries__ 
 
-[Pub. L. 112–95, title VIII, § 828][/us/pl/112/95/s828], Feb. 14, 2012, [126 Stat. 133][/us/stat/126/133], provided that:
+[Pub. L. 112–95, title VIII][/us/pl/112/95/tVIII], § 828, Feb. 14, 2012, [126 Stat. 133][/us/stat/126/133], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -509,7 +509,7 @@ In this section, the word “Administrator” in sections 601(a)–(c) and 604 o
 
  __Airline Safety and Pilot Training Improvement__ 
 
-[Pub. L. 111–216, title II][/us/pl/111/216], Aug. 1, 2010, [124 Stat. 2350][/us/stat/124/2350], as amended by [Pub. L. 111–249, § 6][/us/pl/111/249/s6], Sept. 30, 2010, [124 Stat. 2628][/us/stat/124/2628], provided that:
+[Pub. L. 111–216, title II][/us/pl/111/216/tII], Aug. 1, 2010, [124 Stat. 2350][/us/stat/124/2350], as amended by [Pub. L. 111–249][/us/pl/111/249], § 6, Sept. 30, 2010, [124 Stat. 2628][/us/stat/124/2628], provided that:
 
 > “SEC. 201. __DEFINITIONS.__ 
 
@@ -1115,7 +1115,7 @@ In this section, the word “Administrator” in sections 601(a)–(c) and 604 o
 
  __FAA Inspector Training__ 
 
-[Pub. L. 108–176, title V, § 506][/us/pl/108/176/s506], Dec. 12, 2003, [117 Stat. 2560][/us/stat/117/2560], provided that:
+[Pub. L. 108–176, title V][/us/pl/108/176/tV], § 506, Dec. 12, 2003, [117 Stat. 2560][/us/stat/117/2560], provided that:
 
 >     “(a) __Study.—__ 
 
@@ -1169,7 +1169,7 @@ In this section, the word “Administrator” in sections 601(a)–(c) and 604 o
 
  __Air Transportation Oversight System__ 
 
-[Pub. L. 106–181, title V, § 513][/us/pl/106/181/s513], Apr. 5, 2000, [114 Stat. 144][/us/stat/114/144], provided that:
+[Pub. L. 106–181, title V][/us/pl/106/181/tV], § 513, Apr. 5, 2000, [114 Stat. 144][/us/stat/114/144], provided that:
 
 >     “(a)  __Report__  __.—__ 
 
@@ -1191,7 +1191,7 @@ In this section, the word “Administrator” in sections 601(a)–(c) and 604 o
 
  __Regulation of Alaska Guide Pilots__ 
 
-[Pub. L. 106–181, title VII, § 732][/us/pl/106/181/s732], Apr. 5, 2000, [114 Stat. 168][/us/stat/114/168], provided that:
+[Pub. L. 106–181, title VII][/us/pl/106/181/tVII], § 732, Apr. 5, 2000, [114 Stat. 168][/us/stat/114/168], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -1347,11 +1347,11 @@ In this section, the word “Administrator” in sections 601(a)–(c) and 604 o
 ----------
 
 [/us/usc/t49/s44705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44705
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1185
-[/us/pl/103/429/s6/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F55
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/stat/108/4385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4385
-[/us/pl/106/181/s714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs714
+[/us/pl/106/181/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtVII
 [/us/stat/114/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F161
 [/us/pl/85/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F726
 [/us/stat/72/775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F775
@@ -1365,34 +1365,34 @@ In this section, the word “Administrator” in sections 601(a)–(c) and 604 o
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/pl/103/429/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs9
 [/us/usc/t49/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs321
-[/us/pl/112/153/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F153%2Fs3
+[/us/pl/112/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F153
 [/us/stat/126/1162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1162
-[/us/pl/112/95/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs313
+[/us/pl/112/95/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtIII
 [/us/stat/126/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F67
-[/us/pl/112/95/s315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs315
+[/us/pl/112/95/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtIII
 [/us/stat/126/68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F68
-[/us/pl/112/95/s343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs343
+[/us/pl/112/95/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtIII
 [/us/stat/126/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F80
-[/us/pl/112/95/s345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs345
+[/us/pl/112/95/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtIII
 [/us/stat/126/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F81
-[/us/pl/112/95/s606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs606
+[/us/pl/112/95/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtVI
 [/us/stat/126/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F113
 [/us/usc/t5/s7111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7111
-[/us/pl/112/95/s828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs828
+[/us/pl/112/95/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtVIII
 [/us/stat/126/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F133
-[/us/pl/111/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F216
+[/us/pl/111/216/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F216%2FtII
 [/us/stat/124/2350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2350
-[/us/pl/111/249/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F249%2Fs6
+[/us/pl/111/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F249
 [/us/stat/124/2628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2628
 [/us/usc/t49/s40102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40102
 [/us/usc/t49/s1135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1135
 [/us/usc/t49/s44703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44703
 [/us/usc/t49/s41712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs41712
-[/us/pl/108/176/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs506
+[/us/pl/108/176/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtV
 [/us/stat/117/2560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2560
-[/us/pl/106/181/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs513
+[/us/pl/106/181/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtV
 [/us/stat/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F144
-[/us/pl/106/181/s732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs732
+[/us/pl/106/181/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtVII
 [/us/stat/114/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F168
 [/us/pl/105/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F170
 [/us/stat/112/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F47

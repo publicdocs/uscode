@@ -107,7 +107,7 @@
 
     This section is a condition to authority the Secretary of Transportation grants under this part to an air carrier or foreign air carrier.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1209][/us/stat/108/1209].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1209][/us/stat/108/1209].)
 
 <table>
 
@@ -327,7 +327,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 1115(c); added Aug. 5, 1974,
 [/us/usc/t49/s44938/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44938%2Fb
 [/us/usc/t49/s40105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40105%2Fb
 [/us/usc/t49/s44908/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44908%2Fa
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1209
 [/us/usc/t49/s44908/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44908%2Fa
 

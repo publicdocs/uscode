@@ -23,7 +23,7 @@
 
     In this section, the term “essential airport facility” means a large hub airport in the contiguous 48 States at which one air carrier has more than 60 percent of the total annual enplanements at that airport.
 
-(Added [Pub. L. 106–181, title II, § 204(a)][/us/pl/106/181/s204/a], Apr. 5, 2000, [114 Stat. 93][/us/stat/114/93]; amended [Pub. L. 108–176, title II, § 225(b)(4)][/us/pl/108/176/s225/b/4], Dec. 12, 2003, [117 Stat. 2529][/us/stat/117/2529].)
+(Added [Pub. L. 106–181, title II][/us/pl/106/181/tII], § 204(a), Apr. 5, 2000, [114 Stat. 93][/us/stat/114/93]; amended [Pub. L. 108–176, title II][/us/pl/108/176/tII], § 225(b)(4), Dec. 12, 2003, [117 Stat. 2529][/us/stat/117/2529].)
 
  __Amendments__ 
 
@@ -44,9 +44,9 @@
 ----------
 ----------
 
-[/us/pl/106/181/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs204%2Fa
+[/us/pl/106/181/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtII
 [/us/stat/114/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F93
-[/us/pl/108/176/s225/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs225%2Fb%2F4
+[/us/pl/108/176/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtII
 [/us/stat/117/2529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2529
 [/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
 [/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176

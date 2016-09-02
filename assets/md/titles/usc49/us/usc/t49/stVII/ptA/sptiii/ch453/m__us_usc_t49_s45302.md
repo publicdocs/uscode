@@ -49,7 +49,7 @@
 
         A fee may not be imposed for a service or activity under this section during any period in which a fee for the same service or activity is imposed under section 45305.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1225][/us/stat/108/1225]; [Pub. L. 103–429, § 6(59)][/us/pl/103/429/s6/59], Oct. 31, 1994, [108 Stat. 4385][/us/stat/108/4385]; [Pub. L. 112–95, title I, § 122(c)][/us/pl/112/95/s122/c], Feb. 14, 2012, [126 Stat. 20][/us/stat/126/20].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1225][/us/stat/108/1225]; [Pub. L. 103–429][/us/pl/103/429], § 6(59), Oct. 31, 1994, [108 Stat. 4385][/us/stat/108/4385]; [Pub. L. 112–95, title I][/us/pl/112/95/tI], § 122(c), Feb. 14, 2012, [126 Stat. 20][/us/stat/126/20].)
 
 <table>
 
@@ -145,7 +145,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 313(f); added Nov. 18, 1988,
 
  __References in Text__ 
 
-    [Section 44703(f)(2) of this title][/us/usc/t49/s44703/f/2], referred to in subsecs. (d) and (e)(1), was redesignated section 44703(g)(2) by [Pub. L. 106–181, title VII, § 715(1)][/us/pl/106/181/s715/1], Apr. 5, 2000, [114 Stat. 162][/us/stat/114/162].
+    [Section 44703(f)(2) of this title][/us/usc/t49/s44703/f/2], referred to in subsecs. (d) and (e)(1), was redesignated section 44703(g)(2) by [Pub. L. 106–181, title VII][/us/pl/106/181/tVII], § 715(1), Apr. 5, 2000, [114 Stat. 162][/us/stat/114/162].
 
  __Amendments__ 
 
@@ -159,7 +159,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 313(f); added Nov. 18, 1988,
 
  __Inspector General Audit__ 
 
-[Pub. L. 100–690, title VII, § 7207(c)(4)][/us/pl/100/690/s7207/c/4], Nov. 18, 1988, [102 Stat. 4428][/us/stat/102/4428], as amended by [Pub. L. 104–66, title II, § 2041][/us/pl/104/66/s2041], Dec. 21, 1995, [109 Stat. 728][/us/stat/109/728], provided that: 
+[Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7207(c)(4), Nov. 18, 1988, [102 Stat. 4428][/us/stat/102/4428], as amended by [Pub. L. 104–66, title II][/us/pl/104/66/tII], § 2041, Dec. 21, 1995, [109 Stat. 728][/us/stat/109/728], provided that: 
 
 > “During the 5-year period beginning after the date on which fees are first collected under section 313(f) of the Federal Aviation Act of 1958 \[see subsec. (b) of this section\], the Department of Transportation Inspector General shall conduct an annual audit of the collection and use of such fees for the purpose of ensuring that such fees do not exceed the costs for which they are collected and submit to Congress a report on the results of such audit.”
 
@@ -172,24 +172,24 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 313(f); added Nov. 18, 1988,
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1225
-[/us/pl/103/429/s6/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F59
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/stat/108/4385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4385
-[/us/pl/112/95/s122/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs122%2Fc
+[/us/pl/112/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtI
 [/us/stat/126/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F20
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/usc/t49/s44703/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44703%2Ff%2F2
-[/us/pl/106/181/s715/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs715%2F1
+[/us/pl/106/181/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtVII
 [/us/stat/114/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F162
 [/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/pl/103/429/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs9
 [/us/usc/t49/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs321
-[/us/pl/100/690/s7207/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7207%2Fc%2F4
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4428
-[/us/pl/104/66/s2041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs2041
+[/us/pl/104/66/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtII
 [/us/stat/109/728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F728
 [/us/pl/100/690/s7207/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7207%2Fc%2F4
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003

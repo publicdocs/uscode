@@ -49,7 +49,7 @@
 
         If an individual willfully gives a false answer to a question described in subsection (a)(1), the individual shall be fined not more than $10,000.
 
-(Added [Pub. L. 112–141, div. E, title II, § 52011(a)][/us/pl/112/141/s52011/a], July 6, 2012, [126 Stat. 895][/us/stat/126/895].)
+(Added [Pub. L. 112–141, div. E, title II][/us/pl/112/141/dE/tII], § 52011(a), July 6, 2012, [126 Stat. 895][/us/stat/126/895].)
 
  __Effective Date__ 
 
@@ -62,7 +62,7 @@
 ----------
 ----------
 
-[/us/pl/112/141/s52011/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs52011%2Fa
+[/us/pl/112/141/dE/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdE%2FtII
 [/us/stat/126/895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F895
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101

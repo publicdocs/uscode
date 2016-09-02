@@ -51,7 +51,7 @@
 
         (2) For good cause shown, the Secretary of Transportation may allow an individual additional time, but not more than 30 days after the day on which the motor vehicle is offered for import, to comply with paragraph (1)(A)(ii) of this subsection.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 962][/us/stat/108/962].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 962][/us/stat/108/962].)
 
 <table>
 
@@ -131,7 +131,7 @@ Sept. 9, 1966, Pub. L. 89–563, 80 Stat. 718, § 108(f); added Oct. 31, 1988,
 [/us/usc/t49/s30112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30112%2Fa
 [/us/usc/t49/s30141/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30141%2Fd
 [/us/usc/t49/s30141/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30141%2Fc
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F962
 
 

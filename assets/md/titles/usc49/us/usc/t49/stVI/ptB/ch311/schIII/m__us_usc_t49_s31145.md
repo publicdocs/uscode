@@ -17,7 +17,7 @@
 
     The Secretary of Transportation shall coordinate the activities of departments, agencies, and instrumentalities of the United States Government to ensure adequate protection of the safety and health of operators of commercial motor vehicles. The Secretary shall attempt to minimize paperwork burdens to ensure maximum coordination and to avoid overlap and the imposition of unreasonable burdens on persons subject to regulations under this subchapter.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1012][/us/stat/108/1012].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1012][/us/stat/108/1012].)
 
 <table>
 
@@ -72,7 +72,7 @@ Oct. 30, 1984, Pub. L. 98–554, § 220(b), 98 Stat. 2846.  </td>
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1012
 
 

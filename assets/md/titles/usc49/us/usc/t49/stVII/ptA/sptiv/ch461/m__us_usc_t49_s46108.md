@@ -17,7 +17,7 @@
 
     An interested person may bring a civil action in a district court of the United States against a person to enforce [section 41101(a)(1) of this title][/us/usc/t49/s41101/a/1]. The action may be brought in the judicial district in which the defendant does business or the violation occurred.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1229][/us/stat/108/1229].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1229][/us/stat/108/1229].)
 
 <table>
 
@@ -75,7 +75,7 @@ Aug. 23, 1958, Pub. L. 85–726, § 1007(a) (related to party in interest), 72
 ----------
 
 [/us/usc/t49/s41101/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs41101%2Fa%2F1
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1229
 
 

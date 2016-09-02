@@ -37,7 +37,7 @@
 
     The Secretary may investigate, test, and report on the use of and need for a signal system, without cost to the United States Government, when the system is submitted in completed shape for investigation and testing.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 884][/us/stat/108/884].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 884][/us/stat/108/884].)
 
 <table>
 
@@ -144,7 +144,7 @@ May 27, 1908, ch. 200, § 1 (1st complete par. on p. 325), 35 Stat. 325.  </td
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F884
 
 

@@ -35,7 +35,7 @@
 
     When an emergency exists, a dispatching service employee may be allowed to remain or go on duty for not more than 4 additional hours during a period of 24 consecutive hours for not more than 3 days during a period of 7 consecutive days.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 890][/us/stat/108/890].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 890][/us/stat/108/890].)
 
 <table>
 
@@ -160,7 +160,7 @@ Mar. 4, 1907, ch. 2939, § 3, 34 Stat. 1416; May 4, 1916, ch. 109, § 1, 39 
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F890
 [/us/usc/t49/s63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs63
 

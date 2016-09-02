@@ -49,7 +49,7 @@
 
     The means by which the Secretary of Transportation carries out subsection (b) may include inspections conducted by State employees using funds authorized to be appropriated under sections 31102 through 31104.
 
-(Added [Pub. L. 109–59, title VII, § 7203][/us/pl/109/59/s7203], Aug. 10, 2005, [119 Stat. 1913][/us/stat/119/1913].)
+(Added [Pub. L. 109–59, title VII][/us/pl/109/59/tVII], § 7203, Aug. 10, 2005, [119 Stat. 1913][/us/stat/119/1913].)
 
  __References in Text__ 
 
@@ -57,35 +57,35 @@
 
  __Prior Provisions__ 
 
-    Prior sections 5701 to 5714 were omitted in the general amendment of this chapter by [Pub. L. 109–59, § 7203][/us/pl/109/59/s7203].
+    Prior sections 5701 to 5714 were omitted in the general amendment of this chapter by [Pub. L. 109–59][/us/pl/109/59], § 7203.
 
-    Section 5701, [Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 854][/us/stat/108/854], related to findings.
+    Section 5701, [Pub. L. 103–272][/us/pl/103/272], § 1(d), July 5, 1994, [108 Stat. 854][/us/stat/108/854], related to findings.
 
-    Section 5702, [Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 854][/us/stat/108/854], defined terms.
+    Section 5702, [Pub. L. 103–272][/us/pl/103/272], § 1(d), July 5, 1994, [108 Stat. 854][/us/stat/108/854], defined terms.
 
-    Section 5703, [Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 855][/us/stat/108/855], directed Secretary to prescribe regulations.
+    Section 5703, [Pub. L. 103–272][/us/pl/103/272], § 1(d), July 5, 1994, [108 Stat. 855][/us/stat/108/855], directed Secretary to prescribe regulations.
 
-    Section 5704, [Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 856][/us/stat/108/856], related to prohibited use of tank trucks, rail tank cars, and cargo tanks.
+    Section 5704, [Pub. L. 103–272][/us/pl/103/272], § 1(d), July 5, 1994, [108 Stat. 856][/us/stat/108/856], related to prohibited use of tank trucks, rail tank cars, and cargo tanks.
 
-    Section 5705, [Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 857][/us/stat/108/857], related to prohibited motor and rail transportation of nonfood products.
+    Section 5705, [Pub. L. 103–272][/us/pl/103/272], § 1(d), July 5, 1994, [108 Stat. 857][/us/stat/108/857], related to prohibited motor and rail transportation of nonfood products.
 
-    Section 5706, [Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 857][/us/stat/108/857], related to dedication of vehicles to transport asbestos, extremely dangerous products, or refuse.
+    Section 5706, [Pub. L. 103–272][/us/pl/103/272], § 1(d), July 5, 1994, [108 Stat. 857][/us/stat/108/857], related to dedication of vehicles to transport asbestos, extremely dangerous products, or refuse.
 
-    Section 5707, [Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 857][/us/stat/108/857], related to waiver of provisions.
+    Section 5707, [Pub. L. 103–272][/us/pl/103/272], § 1(d), July 5, 1994, [108 Stat. 857][/us/stat/108/857], related to waiver of provisions.
 
-    Section 5708, [Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 858][/us/stat/108/858], related to food transportation inspections. See [section 5701 of this title][/us/usc/t49/s5701].
+    Section 5708, [Pub. L. 103–272][/us/pl/103/272], § 1(d), July 5, 1994, [108 Stat. 858][/us/stat/108/858], related to food transportation inspections. See [section 5701 of this title][/us/usc/t49/s5701].
 
-    Section 5709, [Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 858][/us/stat/108/858], related to consultation with Secretaries of Agriculture and Health and Human Services and Administrator of the Environmental Protection Agency.
+    Section 5709, [Pub. L. 103–272][/us/pl/103/272], § 1(d), July 5, 1994, [108 Stat. 858][/us/stat/108/858], related to consultation with Secretaries of Agriculture and Health and Human Services and Administrator of the Environmental Protection Agency.
 
-    Section 5710, [Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 858][/us/stat/108/858], related to duties and powers of Secretary.
+    Section 5710, [Pub. L. 103–272][/us/pl/103/272], § 1(d), July 5, 1994, [108 Stat. 858][/us/stat/108/858], related to duties and powers of Secretary.
 
-    Section 5711, [Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 858][/us/stat/108/858], related to enforcement and penalties.
+    Section 5711, [Pub. L. 103–272][/us/pl/103/272], § 1(d), July 5, 1994, [108 Stat. 858][/us/stat/108/858], related to enforcement and penalties.
 
-    Section 5712, [Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 859][/us/stat/108/859], related to relationship to other laws.
+    Section 5712, [Pub. L. 103–272][/us/pl/103/272], § 1(d), July 5, 1994, [108 Stat. 859][/us/stat/108/859], related to relationship to other laws.
 
-    Section 5713, [Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 859][/us/stat/108/859], related to application of sections 5711 and 5712.
+    Section 5713, [Pub. L. 103–272][/us/pl/103/272], § 1(d), July 5, 1994, [108 Stat. 859][/us/stat/108/859], related to application of sections 5711 and 5712.
 
-    Section 5714, [Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 859][/us/stat/108/859], related to coordination between departments, agencies, and instrumentalities.
+    Section 5714, [Pub. L. 103–272][/us/pl/103/272], § 1(d), July 5, 1994, [108 Stat. 859][/us/stat/108/859], related to coordination between departments, agencies, and instrumentalities.
 
  __Effective Date__ 
 
@@ -100,38 +100,38 @@
 
 [/us/usc/t21/s672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs672
 [/us/usc/t21/s467a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs467a
-[/us/pl/109/59/s7203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7203
+[/us/pl/109/59/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtVII
 [/us/stat/119/1913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1913
 [/us/usc/t21/s350e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs350e
-[/us/pl/109/59/s7203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7203
-[/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F854
-[/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F854
-[/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F855
-[/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F856
-[/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F857
-[/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F857
-[/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F857
-[/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F858
 [/us/usc/t49/s5701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5701
-[/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F858
-[/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F858
-[/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F858
-[/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F859
-[/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F859
-[/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F859
 [/us/pl/109/59/s7204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7204
 [/us/usc/t21/s331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs331

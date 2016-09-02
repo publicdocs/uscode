@@ -57,7 +57,7 @@
 
         (2) criteria for evaluating the accuracy of fuel economy representations made with respect to retrofit devices.
 
-([Pub. L. 103–429, § 6(43)(B)][/us/pl/103/429/s6/43/B], Oct. 31, 1994, [108 Stat. 4382][/us/stat/108/4382].)
+([Pub. L. 103–429][/us/pl/103/429], § 6(43)(B), Oct. 31, 1994, [108 Stat. 4382][/us/stat/108/4382].)
 
 <table>
 
@@ -124,7 +124,7 @@ Oct. 20, 1972, Pub. L. 92–513, § 511, as added Dec. 22, 1975, Pub. L. 94–
 ----------
 ----------
 
-[/us/pl/103/429/s6/43/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F43%2FB
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/stat/108/4382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4382
 [/us/act/1994-07-05/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1994-07-05%2Fs1
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272

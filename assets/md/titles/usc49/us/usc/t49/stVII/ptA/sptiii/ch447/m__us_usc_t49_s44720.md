@@ -37,7 +37,7 @@
 
         (7) promote and develop meteorological science and foster and support research projects in meteorology through the use of private and governmental research facilities and provide for publishing the results of the projects unless publication would not be in the public interest.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1201][/us/stat/108/1201].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1201][/us/stat/108/1201].)
 
 <table>
 
@@ -133,7 +133,7 @@ Oct. 15, 1966, Pub. L. 89–670, § 6(c)(1), 80 Stat. 938; Jan. 12, 1983, Pub.
 
  __Automated Surface Observation System Stations__ 
 
-[Pub. L. 106–181, title VII, § 728][/us/pl/106/181/s728], Apr. 5, 2000, [114 Stat. 168][/us/stat/114/168], provided that: 
+[Pub. L. 106–181, title VII][/us/pl/106/181/tVII], § 728, Apr. 5, 2000, [114 Stat. 168][/us/stat/114/168], provided that: 
 
 > “The Administrator \[of the Federal Aviation Administration\] shall not terminate human weather observers for Automated Surface Observation System stations until—
 
@@ -148,12 +148,12 @@ Oct. 15, 1966, Pub. L. 89–670, § 6(c)(1), 80 Stat. 938; Jan. 12, 1983, Pub.
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1201
 [/us/pl/85/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F726
 [/us/stat/72/783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F783
 [/us/stat/79/1318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1318
-[/us/pl/106/181/s728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs728
+[/us/pl/106/181/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtVII
 [/us/stat/114/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F168
 
 

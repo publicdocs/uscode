@@ -45,7 +45,7 @@
 
     In a civil action brought under this section, a subpena for a witness may be served in any judicial district.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 967][/us/stat/108/967].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 967][/us/stat/108/967].)
 
 <table>
 
@@ -190,7 +190,7 @@ Sept. 9, 1966, Pub. L. 89–563, § 110(b), (d) (related to § 110), 80 Stat
 [/us/usc/t49/s30118/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30118%2Fb
 [/us/usc/t49/s30121/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30121%2Fd
 [/us/usc/t49/s30165/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30165%2Fa
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F967
 
 

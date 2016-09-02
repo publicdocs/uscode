@@ -29,7 +29,7 @@
 
     (3) identify land uses normally compatible with various exposures of individuals to noise.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1284][/us/stat/108/1284].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1284][/us/stat/108/1284].)
 
 <table>
 
@@ -86,7 +86,7 @@ Feb. 18, 1980, Pub. L. 96–193, § 102, 94 Stat. 50.  </td>
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1284
 
 

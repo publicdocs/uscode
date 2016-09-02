@@ -35,7 +35,7 @@
 
         An individual shall be subject to a penalty imposed under section 46301(a)(5)(A)(i) or subsection (b) of this section without regard to whether signs are displayed at an airport as required by paragraph (1).
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1239][/us/stat/108/1239]; [Pub. L. 112–74, div. D, title V, § 564(b)][/us/pl/112/74/s564/b], (c), Dec. 23, 2011, [125 Stat. 981][/us/stat/125/981].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1239][/us/stat/108/1239]; [Pub. L. 112–74, div. D, title V][/us/pl/112/74/dD/tV], § 564(b), (c), Dec. 23, 2011, [125 Stat. 981][/us/stat/125/981].)
 
 <table>
 
@@ -91,9 +91,9 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 902(r); added Dec. 30, 1987,
 
  __Amendments__ 
 
-    2011—Subsec. (b)(2). [Pub. L. 112–74, § 564(b)][/us/pl/112/74/s564/b], inserted “with intent to evade security procedures or restrictions or” after “of this section”.
+    2011—Subsec. (b)(2). [Pub. L. 112–74][/us/pl/112/74], § 564(b), inserted “with intent to evade security procedures or restrictions or” after “of this section”.
 
-    Subsec. (c). [Pub. L. 112–74, § 564(c)][/us/pl/112/74/s564/c], added subsec. (c).
+    Subsec. (c). [Pub. L. 112–74][/us/pl/112/74], § 564(c), added subsec. (c).
 
 ----------
 
@@ -102,11 +102,11 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 902(r); added Dec. 30, 1987,
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1239
-[/us/pl/112/74/s564/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs564%2Fb
+[/us/pl/112/74/dD/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdD%2FtV
 [/us/stat/125/981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F981
-[/us/pl/112/74/s564/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs564%2Fb
-[/us/pl/112/74/s564/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs564%2Fc
+[/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
+[/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
 
 

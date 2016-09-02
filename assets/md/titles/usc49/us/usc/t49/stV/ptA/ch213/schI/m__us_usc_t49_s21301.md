@@ -39,7 +39,7 @@
 
     A civil penalty collected under this section or [section 20113(b) of this title][/us/usc/t49/s20113/b] shall be deposited in the Treasury as miscellaneous receipts.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 891][/us/stat/108/891]; [Pub. L. 104–287, § 5(53)][/us/pl/104/287/s5/53], Oct. 11, 1996, [110 Stat. 3393][/us/stat/110/3393]; [Pub. L. 110–432, div. A, title II, § 204(d)][/us/pl/110/432/s204/d], title III, § 302(a), Oct. 16, 2008, [122 Stat. 4871][/us/stat/122/4871], 4878.)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 891][/us/stat/108/891]; [Pub. L. 104–287][/us/pl/104/287], § 5(53), Oct. 11, 1996, [110 Stat. 3393][/us/stat/110/3393]; [Pub. L. 110–432, div. A, title II][/us/pl/110/432/dA/tII], § 204(d), title III, § 302(a), Oct. 16, 2008, [122 Stat. 4871][/us/stat/122/4871], 4878.)
 
 <table>
 
@@ -183,15 +183,15 @@ Oct. 16, 1970, Pub. L. 91–458, § 209(b) (related to rules, regulations, ord
 
  __Amendments__ 
 
-    2008—Subsec. (a)(1). [Pub. L. 110–432, § 204(d)(1)][/us/pl/110/432/s204/d/1], inserted “with section 20160 or” after “comply” and “[section 20160 of this title][/us/usc/t49/s20160] or” after “violating”.
+    2008—Subsec. (a)(1). [Pub. L. 110–432][/us/pl/110/432], § 204(d)(1), inserted “with section 20160 or” after “comply” and “[section 20160 of this title][/us/usc/t49/s20160] or” after “violating”.
 
-    Subsec. (a)(2). [Pub. L. 110–432, § 302(a)][/us/pl/110/432/s302/a], substituted “$25,000.” for “$10,000.” and “$100,000.” for “$20,000.”
+    Subsec. (a)(2). [Pub. L. 110–432][/us/pl/110/432], § 302(a), substituted “$25,000.” for “$10,000.” and “$100,000.” for “$20,000.”
 
-    [Pub. L. 110–432, § 204(d)(2)][/us/pl/110/432/s204/d/2], inserted “The Secretary shall impose a civil penalty for a violation of [section 20160 of this title][/us/usc/t49/s20160].” after first sentence.
+    [Pub. L. 110–432][/us/pl/110/432], § 204(d)(2), inserted “The Secretary shall impose a civil penalty for a violation of [section 20160 of this title][/us/usc/t49/s20160].” after first sentence.
 
-    1996—Subsec. (a)(1). [Pub. L. 104–287, § 5(53)(B)][/us/pl/104/287/s5/53/B], substituted “Secretary under chapter 201 is liable” for “Secretary of Transportation under chapter 201 of this title is liable”.
+    1996—Subsec. (a)(1). [Pub. L. 104–287][/us/pl/104/287], § 5(53)(B), substituted “Secretary under chapter 201 is liable” for “Secretary of Transportation under chapter 201 of this title is liable”.
 
-    [Pub. L. 104–287, § 5(53)(A)][/us/pl/104/287/s5/53/A], inserted “A person may not fail to comply with a regulation prescribed or order issued by the Secretary of Transportation under chapter 201 of this title.” before “Subject to”.
+    [Pub. L. 104–287][/us/pl/104/287], § 5(53)(A), inserted “A person may not fail to comply with a regulation prescribed or order issued by the Secretary of Transportation under chapter 201 of this title.” before “Subject to”.
 
  __Effective Date of 1996 Amendment__ 
 
@@ -208,23 +208,23 @@ Oct. 16, 1970, Pub. L. 91–458, § 209(b) (related to rules, regulations, ord
 [/us/usc/t49/s20160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs20160
 [/us/usc/t49/s20160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs20160
 [/us/usc/t49/s20113/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs20113%2Fb
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F891
-[/us/pl/104/287/s5/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F53
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3393
-[/us/pl/110/432/s204/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs204%2Fd
+[/us/pl/110/432/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdA%2FtII
 [/us/stat/122/4871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4871
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/act/1994-07-05/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1994-07-05%2Fs1
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F891
-[/us/pl/110/432/s204/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs204%2Fd%2F1
+[/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
 [/us/usc/t49/s20160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs20160
-[/us/pl/110/432/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs302%2Fa
-[/us/pl/110/432/s204/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs204%2Fd%2F2
+[/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
+[/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
 [/us/usc/t49/s20160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs20160
-[/us/pl/104/287/s5/53/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F53%2FB
-[/us/pl/104/287/s5/53/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F53%2FA
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/pl/104/287/s8/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs8%2F1
 [/us/usc/t49/s5303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5303

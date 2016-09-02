@@ -43,7 +43,7 @@
 
             Each year, consistent with the requirements of GPRA, the Under Secretary for Transportation Security shall prepare and submit to Congress an annual report including an evaluation of the extent goals and objectives were met. The report shall include the results achieved during the year relative to the goals established in the performance plan.
 
-(Added [Pub. L. 107–71, title I, § 130][/us/pl/107/71/s130], Nov. 19, 2001, [115 Stat. 633][/us/stat/115/633].)
+(Added [Pub. L. 107–71, title I][/us/pl/107/71/tI], § 130, Nov. 19, 2001, [115 Stat. 633][/us/stat/115/633].)
 
  __References in Text__ 
 
@@ -62,7 +62,7 @@
 ----------
 ----------
 
-[/us/pl/107/71/s130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs130
+[/us/pl/107/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2FtI
 [/us/stat/115/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F633
 [/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
 [/us/pl/103/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62

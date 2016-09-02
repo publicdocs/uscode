@@ -17,7 +17,7 @@
 
     The Secretary of Transportation shall inspect the construction, adaptability, design, and condition of mail cars used on railroads in the United States. The Secretary shall make a report on the inspection and submit a copy of the report to the United States Postal Service.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 883][/us/stat/108/883].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 883][/us/stat/108/883].)
 
 <table>
 
@@ -106,7 +106,7 @@ Oct. 15, 1966, Pub. L. 89–670, § 6(e)(1)(I), (J), 80 Stat. 939.  </td>
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F883
 [/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F773

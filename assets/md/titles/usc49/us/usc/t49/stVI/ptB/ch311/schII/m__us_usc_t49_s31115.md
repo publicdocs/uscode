@@ -17,7 +17,7 @@
 
     On the request of the Secretary of Transportation, the Attorney General shall bring a civil action for appropriate injunctive relief to ensure compliance with this subchapter or subchapter I of this chapter. The action may be brought in a district court of the United States in any State in which the relief is required. On a proper showing, the court shall issue a temporary restraining order or preliminary or permanent injunction. An injunction under this section may order a State or person to comply with this subchapter, subchapter I, or a regulation prescribed under this subchapter or subchapter I.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 999][/us/stat/108/999].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 999][/us/stat/108/999].)
 
 <table>
 
@@ -74,7 +74,7 @@ The words “to assure compliance with the terms of this chapter” and “In an
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F999
 
 

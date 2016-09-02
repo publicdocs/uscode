@@ -49,7 +49,7 @@
 
     Nothing in this section may be construed to prevent the use of a State tax on aviation fuel to support a State aviation program or the use of airport revenue on or off the airport for a noise mitigation purpose.
 
-(Added [Pub. L. 104–264, title VIII, § 804(a)][/us/pl/104/264/s804/a], Oct. 9, 1996, [110 Stat. 3271][/us/stat/110/3271]; amended [Pub. L. 112–95, title I, § 149(a)][/us/pl/112/95/s149/a], Feb. 14, 2012, [126 Stat. 32][/us/stat/126/32].)
+(Added [Pub. L. 104–264, title VIII][/us/pl/104/264/tVIII], § 804(a), Oct. 9, 1996, [110 Stat. 3271][/us/stat/110/3271]; amended [Pub. L. 112–95, title I][/us/pl/112/95/tI], § 149(a), Feb. 14, 2012, [126 Stat. 32][/us/stat/126/32].)
 
  __Amendments__ 
 
@@ -57,7 +57,7 @@
 
  __Effective Date of 2012 Amendment__ 
 
-[Pub. L. 112–95, title I, § 149(b)][/us/pl/112/95/s149/b], Feb. 14, 2012, [126 Stat. 32][/us/stat/126/32], provided that: 
+[Pub. L. 112–95, title I][/us/pl/112/95/tI], § 149(b), Feb. 14, 2012, [126 Stat. 32][/us/stat/126/32], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall apply to grants issued on or after October 1, 1996.”
 
@@ -67,7 +67,7 @@
 
  __Use of Mineral Revenue at Certain Airports__ 
 
-[Pub. L. 112–95, title VIII, § 813][/us/pl/112/95/s813], Feb. 14, 2012, [126 Stat. 124][/us/stat/126/124], provided that:
+[Pub. L. 112–95, title VIII][/us/pl/112/95/tVIII], § 813, Feb. 14, 2012, [126 Stat. 124][/us/stat/126/124], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -120,16 +120,16 @@
 ----------
 ----------
 
-[/us/pl/104/264/s804/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs804%2Fa
+[/us/pl/104/264/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2FtVIII
 [/us/stat/110/3271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3271
-[/us/pl/112/95/s149/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs149%2Fa
+[/us/pl/112/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtI
 [/us/stat/126/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F32
 [/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
-[/us/pl/112/95/s149/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs149%2Fb
+[/us/pl/112/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtI
 [/us/stat/126/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F32
 [/us/pl/104/264/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106
-[/us/pl/112/95/s813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs813
+[/us/pl/112/95/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtVIII
 [/us/stat/126/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F124
 [/us/usc/t49/s47102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs47102
 

@@ -53,7 +53,7 @@
 
     Until measures are implemented that enable the screening of all passengers for explosives, the Assistant Secretary shall provide, by such means as the Assistant Secretary considers appropriate, explosives detection screening for all passengers identified for additional screening and their personal property that will be carried aboard a passenger aircraft operated by an air carrier or foreign air carrier in air transportation or intrastate air transportation.
 
-(Added [Pub. L. 108–458, title IV, § 4013(a)][/us/pl/108/458/s4013/a], Dec. 17, 2004, [118 Stat. 3719][/us/stat/118/3719]; amended [Pub. L. 110–53, title XVI, § 1607(b)][/us/pl/110/53/s1607/b], Aug. 3, 2007, [121 Stat. 483][/us/stat/121/483].)
+(Added [Pub. L. 108–458, title IV][/us/pl/108/458/tIV], § 4013(a), Dec. 17, 2004, [118 Stat. 3719][/us/stat/118/3719]; amended [Pub. L. 110–53, title XVI][/us/pl/110/53/tXVI], § 1607(b), Aug. 3, 2007, [121 Stat. 483][/us/stat/121/483].)
 
  __References in Text__ 
 
@@ -67,19 +67,19 @@
 
  __Movement and Redeployment of Mobile Explosives Detection Systems__ 
 
-[Pub. L. 114–113, div. F, title II][/us/pl/114/113], Dec. 18, 2015, [129 Stat. 2499][/us/stat/129/2499], provided in part: 
+[Pub. L. 114–113, div. F, title II][/us/pl/114/113/dF/tII], Dec. 18, 2015, [129 Stat. 2499][/us/stat/129/2499], provided in part: 
 
 > “That notwithstanding any other provision of law, for the current fiscal year and each fiscal year hereafter, mobile explosives detection systems purchased and deployed using funds made available under this heading \[Transportation Security Administration, Aviation Security\] may be moved and redeployed to meet evolving passenger and baggage screening security priorities at airports”.
 
  __Issuance of Strategic Plan for Deployment and Use of Explosive Detection Equipment at Airport Screening Checkpoints__ 
 
-[Pub. L. 110–53, title XVI, § 1607(a)][/us/pl/110/53/s1607/a], Aug. 3, 2007, [121 Stat. 483][/us/stat/121/483], provided that: 
+[Pub. L. 110–53, title XVI][/us/pl/110/53/tXVI], § 1607(a), Aug. 3, 2007, [121 Stat. 483][/us/stat/121/483], provided that: 
 
 > “Not later than 30 days after the date of enactment of this Act \[Aug. 3, 2007\], the Secretary of Homeland Security, in consultation with the Administrator of the Transportation Security Administration, shall issue the strategic plan the Secretary was required by [section 44925(b) of title 49][/us/usc/t49/s44925/b], United States Code, to have issued within 90 days after the date of enactment of the Intelligence Reform and Terrorism Prevention Act of 2004 ([Public Law 108–458][/us/pl/108/458]) \[Dec. 17, 2004\].”
 
  __Advanced Airport Checkpoint Screening Devices__ 
 
-    [Pub. L. 108–458, title IV, § 4014][/us/pl/108/458/s4014], Dec. 17, 2004, [118 Stat. 3720][/us/stat/118/3720], directed the Assistant Secretary of Homeland Security (Transportation Security Administration), not later than Mar. 31, 2005, to develop and initiate a pilot program to deploy and test advanced airport checkpoint screening devices and technology as an integrated system at not less than 5 airports in the United States.
+    [Pub. L. 108–458, title IV][/us/pl/108/458/tIV], § 4014, Dec. 17, 2004, [118 Stat. 3720][/us/stat/118/3720], directed the Assistant Secretary of Homeland Security (Transportation Security Administration), not later than Mar. 31, 2005, to develop and initiate a pilot program to deploy and test advanced airport checkpoint screening devices and technology as an integrated system at not less than 5 airports in the United States.
 
 ----------
 
@@ -88,20 +88,20 @@
 ----------
 ----------
 
-[/us/pl/108/458/s4013/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs4013%2Fa
+[/us/pl/108/458/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtIV
 [/us/stat/118/3719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3719
-[/us/pl/110/53/s1607/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1607%2Fb
+[/us/pl/110/53/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXVI
 [/us/stat/121/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F483
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
 [/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
-[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113/dF/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdF%2FtII
 [/us/stat/129/2499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2499
-[/us/pl/110/53/s1607/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1607%2Fa
+[/us/pl/110/53/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXVI
 [/us/stat/121/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F483
 [/us/usc/t49/s44925/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44925%2Fb
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
-[/us/pl/108/458/s4014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs4014
+[/us/pl/108/458/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtIV
 [/us/stat/118/3720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3720
 
 

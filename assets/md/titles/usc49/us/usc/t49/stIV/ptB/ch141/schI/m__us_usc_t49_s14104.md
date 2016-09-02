@@ -85,11 +85,11 @@
 
     The Secretary shall issue regulations that provide motor carriers providing transportation of household goods subject to jurisdiction under subchapter I of chapter 135 with the maximum possible flexibility in weighing shipments, consistent with assurance to the shipper of accurate weighing practices. The Secretary shall not prohibit such carriers from backweighing shipments or from basing their charges on the reweigh weights if the shipper observes both the tare and gross weighings (or, prior to such weighings, waives in writing the opportunity to observe such weighings) and such weighings are performed on the same scale.
 
-(Added [Pub. L. 104–88, title I, § 103][/us/pl/104/88/s103], Dec. 29, 1995, [109 Stat. 891][/us/stat/109/891]; amended [Pub. L. 109–59, title IV, § 4205][/us/pl/109/59/s4205], Aug. 10, 2005, [119 Stat. 1753][/us/stat/119/1753].)
+(Added [Pub. L. 104–88, title I][/us/pl/104/88/tI], § 103, Dec. 29, 1995, [109 Stat. 891][/us/stat/109/891]; amended [Pub. L. 109–59, title IV][/us/pl/109/59/tIV], § 4205, Aug. 10, 2005, [119 Stat. 1753][/us/stat/119/1753].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [section 11110 of this title][/us/usc/t49/s11110] prior to the general amendment of this subtitle by [Pub. L. 104–88, § 102(a)][/us/pl/104/88/s102/a].
+    Provisions similar to those in this section were contained in [section 11110 of this title][/us/usc/t49/s11110] prior to the general amendment of this subtitle by [Pub. L. 104–88][/us/pl/104/88], § 102(a).
 
  __Amendments__ 
 
@@ -97,7 +97,7 @@
 
  __Study of Enforcement of Consumer Protection Rules in Household Goods Moving Industry__ 
 
-[Pub. L. 106–159, title II, § 209(c)][/us/pl/106/159/s209/c], Dec. 9, 1999, [113 Stat. 1764][/us/stat/113/1764], provided that: 
+[Pub. L. 106–159, title II][/us/pl/106/159/tII], § 209(c), Dec. 9, 1999, [113 Stat. 1764][/us/stat/113/1764], provided that: 
 
 > “The Comptroller General shall conduct a study of the effectiveness of the Department of Transportation’s enforcement of household goods consumer protection rules under title 49, United States Code. The study shall also include a review of other potential methods of enforcing such rules, including allowing States to enforce such rules.”
 
@@ -109,14 +109,14 @@
 ----------
 
 [/us/usc/t15/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs12
-[/us/pl/104/88/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs103
+[/us/pl/104/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtI
 [/us/stat/109/891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F891
-[/us/pl/109/59/s4205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4205
+[/us/pl/109/59/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIV
 [/us/stat/119/1753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1753
 [/us/usc/t49/s11110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs11110
-[/us/pl/104/88/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs102%2Fa
+[/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
-[/us/pl/106/159/s209/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2Fs209%2Fc
+[/us/pl/106/159/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2FtII
 [/us/stat/113/1764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1764
 
 

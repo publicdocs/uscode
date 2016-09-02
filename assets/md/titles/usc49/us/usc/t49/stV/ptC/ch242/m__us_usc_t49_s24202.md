@@ -23,7 +23,7 @@
 
     Not later than 180 days after the date on which the Secretary submits the proposed exemption under subsection (a) to the Council, the Council shall issue a final exemption of railroad rights-of-way from review under chapter 3061 of title 54 consistent with the exemption for interstate highways approved on March 10, 2005 (70 Fed. Reg. 11,928).
 
-(Added [Pub. L. 114–94, div. A, title XI, § 11504(a)][/us/pl/114/94/s11504/a], Dec. 4, 2015, [129 Stat. 1692][/us/stat/129/1692].)
+(Added [Pub. L. 114–94, div. A, title XI][/us/pl/114/94/dA/tXI], § 11504(a), Dec. 4, 2015, [129 Stat. 1692][/us/stat/129/1692].)
 
  __References in Text__ 
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t54/s306108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs306108
-[/us/pl/114/94/s11504/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11504%2Fa
+[/us/pl/114/94/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtXI
 [/us/stat/129/1692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1692
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003

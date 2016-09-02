@@ -47,7 +47,7 @@
 
     Except with respect to a request made by another department, agency, or instrumentality of the executive branch of the United States Government, such a department, agency, or instrumentality shall give priority consideration to a request made by a public agency (as defined in section 47102) for surplus property described in subsection (a) for use at a public airport.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1278][/us/stat/108/1278]; [Pub. L. 106–181, title I][/us/pl/106/181], §§ 125(c), 135(d)(1), 136, Apr. 5, 2000, [114 Stat. 75][/us/stat/114/75], 84, 85; [Pub. L. 112–95, title I, § 152(f)][/us/pl/112/95/s152/f], Feb. 14, 2012, [126 Stat. 34][/us/stat/126/34].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1278][/us/stat/108/1278]; [Pub. L. 106–181, title I][/us/pl/106/181/tI], §§ 125(c), 135(d)(1), 136, Apr. 5, 2000, [114 Stat. 75][/us/stat/114/75], 84, 85; [Pub. L. 112–95, title I][/us/pl/112/95/tI], § 152(f), Feb. 14, 2012, [126 Stat. 34][/us/stat/126/34].)
 
 <table>
 
@@ -167,17 +167,17 @@ In subsection (a), before clause (1), the words “Notwithstanding any other pro
 
     2012—Subsec. (e). [Pub. L. 112–95][/us/pl/112/95] struck out “(other than real property that is subject to [section 2687 of title 10][/us/usc/t10/s2687], section 201 of the Defense Authorization Amendments and Base Closure and Realignment Act ([10 U.S.C. 2687][/us/usc/t10/s2687] note), or section 2905 of the Defense Base Closure and Realignment Act of 1990 ([10 U.S.C. 2687][/us/usc/t10/s2687] note))” after “subsection (a)”.
 
-    2000—Subsec. (a). [Pub. L. 106–181, § 135(d)(1)(A)(i)][/us/pl/106/181/s135/d/1/A/i], substituted “convey to” for “give” in introductory provisions.
+    2000—Subsec. (a). [Pub. L. 106–181][/us/pl/106/181], § 135(d)(1)(A)(i), substituted “convey to” for “give” in introductory provisions.
 
-    Subsec. (a)(2). [Pub. L. 106–181, § 135(d)(1)(A)(ii)][/us/pl/106/181/s135/d/1/A/ii], substituted “conveyance” for “gift”.
+    Subsec. (a)(2). [Pub. L. 106–181][/us/pl/106/181], § 135(d)(1)(A)(ii), substituted “conveyance” for “gift”.
 
-    Subsec. (b). [Pub. L. 106–181, § 135(d)(1)(B)][/us/pl/106/181/s135/d/1/B], substituted “conveying” for “giving” and “conveyance” for “gift”.
+    Subsec. (b). [Pub. L. 106–181][/us/pl/106/181], § 135(d)(1)(B), substituted “conveying” for “giving” and “conveyance” for “gift”.
 
-    Subsec. (c). [Pub. L. 106–181, § 135(d)(1)(C)][/us/pl/106/181/s135/d/1/C], substituted “Conveyed” for “Given” in heading and “conveyed” for “given” in text.
+    Subsec. (c). [Pub. L. 106–181][/us/pl/106/181], § 135(d)(1)(C), substituted “Conveyed” for “Given” in heading and “conveyed” for “given” in text.
 
-    Subsec. (d). [Pub. L. 106–181, § 125(c)][/us/pl/106/181/s125/c], added subsec. (d).
+    Subsec. (d). [Pub. L. 106–181][/us/pl/106/181], § 125(c), added subsec. (d).
 
-    Subsec. (e). [Pub. L. 106–181, § 136][/us/pl/106/181/s136], added subsec. (e).
+    Subsec. (e). [Pub. L. 106–181][/us/pl/106/181], § 136, added subsec. (e).
 
  __Effective Date of 2000 Amendment__ 
 
@@ -195,11 +195,11 @@ In subsection (a), before clause (1), the words “Notwithstanding any other pro
 ----------
 
 [/us/usc/t49/s47102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs47102
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1278
-[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/106/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtI
 [/us/stat/114/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F75
-[/us/pl/112/95/s152/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs152%2Ff
+[/us/pl/112/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtI
 [/us/stat/126/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F34
 [/us/stat/63/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F399
 [/us/stat/58/765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F765
@@ -209,12 +209,12 @@ In subsection (a), before clause (1), the words “Notwithstanding any other pro
 [/us/usc/t10/s2687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2687
 [/us/usc/t10/s2687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2687
 [/us/usc/t10/s2687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2687
-[/us/pl/106/181/s135/d/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs135%2Fd%2F1%2FA%2Fi
-[/us/pl/106/181/s135/d/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs135%2Fd%2F1%2FA%2Fii
-[/us/pl/106/181/s135/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs135%2Fd%2F1%2FB
-[/us/pl/106/181/s135/d/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs135%2Fd%2F1%2FC
-[/us/pl/106/181/s125/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs125%2Fc
-[/us/pl/106/181/s136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs136
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/pl/106/181/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106

@@ -63,7 +63,7 @@
 
     Any person performing any activity under this section or sections 30503 or 30504 in good faith and with the reasonable belief that such activity was in accordance with this section or section 30503 or 30504, as the case may be, shall be immune from any civil action respecting such activity which is seeking money damages or equitable relief in any court of the United States or a State.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 980][/us/stat/108/980]; [Pub. L. 104–152][/us/pl/104/152], §§ 2(a), (c), 3, 4, July 2, 1996, [110 Stat. 1384][/us/stat/110/1384]; [Pub. L. 105–102, § 3(b)][/us/pl/105/102/s3/b], Nov. 20, 1997, [111 Stat. 2215][/us/stat/111/2215].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 980][/us/stat/108/980]; [Pub. L. 104–152][/us/pl/104/152], §§ 2(a), (c), 3, 4, July 2, 1996, [110 Stat. 1384][/us/stat/110/1384]; [Pub. L. 105–102][/us/pl/105/102], § 3(b), Nov. 20, 1997, [111 Stat. 2215][/us/stat/111/2215].)
 
 <table>
 
@@ -181,33 +181,33 @@ Oct. 25, 1992, Pub. L. 102–519, § 202, 106 Stat. 3390.  </td>
 
  __Amendments__ 
 
-    1997—[Pub. L. 105–102][/us/pl/105/102] amended directory language of [Pub. L. 104–152, § 2(c)][/us/pl/104/152/s2/c]. See 1996 Amendment notes below.
+    1997—[Pub. L. 105–102][/us/pl/105/102] amended directory language of [Pub. L. 104–152][/us/pl/104/152], § 2(c). See 1996 Amendment notes below.
 
-    1996—[Pub. L. 104–152, § 2(c)][/us/pl/104/152/s2/c], as amended by [Pub. L. 105–102][/us/pl/105/102], substituted “Motor Vehicle” for “Automobile” in section catchline.
+    1996—[Pub. L. 104–152][/us/pl/104/152], § 2(c), as amended by [Pub. L. 105–102][/us/pl/105/102], substituted “Motor Vehicle” for “Automobile” in section catchline.
 
-    Subsecs. (a), (b). [Pub. L. 104–152, § 3(a)][/us/pl/104/152/s3/a], which directed the amendment of this section by striking each reference to “Secretary of Transportation” or “Secretary” and inserting “Attorney General”, and [Pub. L. 104–152, § 3(b)][/us/pl/104/152/s3/b], which directed the striking of each reference to “Attorney General” and inserting “Secretary of Transportation”, were executed simultaneously, to reflect the probable intent of Congress. See below.
+    Subsecs. (a), (b). [Pub. L. 104–152][/us/pl/104/152], § 3(a), which directed the amendment of this section by striking each reference to “Secretary of Transportation” or “Secretary” and inserting “Attorney General”, and [Pub. L. 104–152][/us/pl/104/152], § 3(b), which directed the striking of each reference to “Attorney General” and inserting “Secretary of Transportation”, were executed simultaneously, to reflect the probable intent of Congress. See below.
 
-    Subsec. (a)(1). [Pub. L. 104–152, § 3][/us/pl/104/152/s3], substituted “Attorney General shall” for “Secretary of Transportation shall”, “Attorney General decides” for “Secretary decides”, “permit the Attorney General” for “permit the Secretary”, and “Attorney General, in consultation with the Secretary of Transportation” for “Secretary, in consultation with the Attorney General”.
+    Subsec. (a)(1). [Pub. L. 104–152][/us/pl/104/152], § 3, substituted “Attorney General shall” for “Secretary of Transportation shall”, “Attorney General decides” for “Secretary decides”, “permit the Attorney General” for “permit the Secretary”, and “Attorney General, in consultation with the Secretary of Transportation” for “Secretary, in consultation with the Attorney General”.
 
-    [Pub. L. 104–152, § 2(c)][/us/pl/104/152/s2/c], as amended by [Pub. L. 105–102][/us/pl/105/102], substituted “National Motor Vehicle Title Information System” for “National Automobile Title Information System” in two places.
+    [Pub. L. 104–152][/us/pl/104/152], § 2(c), as amended by [Pub. L. 105–102][/us/pl/105/102], substituted “National Motor Vehicle Title Information System” for “National Automobile Title Information System” in two places.
 
-    [Pub. L. 104–152, § 2(a)][/us/pl/104/152/s2/a], substituted “December 31, 1967” for “January 31, 1966”.
+    [Pub. L. 104–152][/us/pl/104/152], § 2(a), substituted “December 31, 1967” for “January 31, 1966”.
 
-    Subsec. (a)(2). [Pub. L. 104–152, § 3][/us/pl/104/152/s3], substituted “Secretary of Transportation” for “Attorney General” and “Attorney General” for “Secretary”.
+    Subsec. (a)(2). [Pub. L. 104–152][/us/pl/104/152], § 3, substituted “Secretary of Transportation” for “Attorney General” and “Attorney General” for “Secretary”.
 
-    Subsec. (b). [Pub. L. 104–152, § 3(a)][/us/pl/104/152/s3/a], substituted “Attorney General” for “Secretary”.
+    Subsec. (b). [Pub. L. 104–152][/us/pl/104/152], § 3(a), substituted “Attorney General” for “Secretary”.
 
-    Subsec. (f). [Pub. L. 104–152, § 4][/us/pl/104/152/s4], added subsec. (f).
+    Subsec. (f). [Pub. L. 104–152][/us/pl/104/152], § 4, added subsec. (f).
 
  __Effective Date of 1997 Amendment__ 
 
-    [Pub. L. 105–102, § 3(b)][/us/pl/105/102/s3/b], Nov. 20, 1997, [111 Stat. 2215][/us/stat/111/2215], provided that the amendment made by section 3(b) is effective July 2, 1996.
+    [Pub. L. 105–102][/us/pl/105/102], § 3(b), Nov. 20, 1997, [111 Stat. 2215][/us/stat/111/2215], provided that the amendment made by section 3(b) is effective July 2, 1996.
 
     Amendment by [Pub. L. 105–102][/us/pl/105/102] effective as if included in the provisions of the Act to which the amendment relates, see [section 3(f) of Pub. L. 105–102][/us/pl/105/102/s3/f], set out as a note under [section 106 of this title][/us/usc/t49/s106].
 
  __Effectiveness of System__ 
 
-[Pub. L. 104–152, § 6(c)][/us/pl/104/152/s6/c], July 2, 1996, [110 Stat. 1385][/us/stat/110/1385], provided that: 
+[Pub. L. 104–152][/us/pl/104/152], § 6(c), July 2, 1996, [110 Stat. 1385][/us/stat/110/1385], provided that: 
 
 > “The information system established under [section 30502 of title 49][/us/usc/t49/s30502], United States Code, shall be effective as provided in the rules promulgated by the Attorney General.”
 
@@ -220,31 +220,31 @@ Oct. 25, 1992, Pub. L. 102–519, § 202, 106 Stat. 3390.  </td>
 
 [/us/usc/t49/s32705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs32705
 [/us/usc/t49/s30504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30504
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F980
 [/us/pl/104/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F152
 [/us/stat/110/1384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1384
-[/us/pl/105/102/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102%2Fs3%2Fb
+[/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/stat/111/2215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2215
 [/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
-[/us/pl/104/152/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F152%2Fs2%2Fc
-[/us/pl/104/152/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F152%2Fs2%2Fc
+[/us/pl/104/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F152
+[/us/pl/104/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F152
 [/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
-[/us/pl/104/152/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F152%2Fs3%2Fa
-[/us/pl/104/152/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F152%2Fs3%2Fb
-[/us/pl/104/152/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F152%2Fs3
-[/us/pl/104/152/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F152%2Fs2%2Fc
+[/us/pl/104/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F152
+[/us/pl/104/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F152
+[/us/pl/104/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F152
+[/us/pl/104/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F152
 [/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
-[/us/pl/104/152/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F152%2Fs2%2Fa
-[/us/pl/104/152/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F152%2Fs3
-[/us/pl/104/152/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F152%2Fs3%2Fa
-[/us/pl/104/152/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F152%2Fs4
-[/us/pl/105/102/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102%2Fs3%2Fb
+[/us/pl/104/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F152
+[/us/pl/104/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F152
+[/us/pl/104/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F152
+[/us/pl/104/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F152
+[/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/stat/111/2215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2215
 [/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/pl/105/102/s3/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102%2Fs3%2Ff
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106
-[/us/pl/104/152/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F152%2Fs6%2Fc
+[/us/pl/104/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F152
 [/us/stat/110/1385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1385
 [/us/usc/t49/s30502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30502
 

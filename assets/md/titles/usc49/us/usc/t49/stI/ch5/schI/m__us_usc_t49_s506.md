@@ -21,7 +21,7 @@
 
     (c) The Secretary shall make a written report of each proceeding involving a rail carrier or motor carrier conducted and furnish a copy to each party to that proceeding. The report shall include the findings, conclusions, and the order of the Secretary. The Secretary may have the reports published for public use. A published report of the Secretary is competent evidence of its contents.
 
-([Pub. L. 97–449, § 1(b)][/us/pl/97/449/s1/b], Jan. 12, 1983, [96 Stat. 2434][/us/stat/96/2434].)
+([Pub. L. 97–449][/us/pl/97/449], § 1(b), Jan. 12, 1983, [96 Stat. 2434][/us/stat/96/2434].)
 
 <table>
 
@@ -252,7 +252,7 @@ Revised Section  </td>
 ----------
 ----------
 
-[/us/pl/97/449/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449%2Fs1%2Fb
+[/us/pl/97/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449
 [/us/stat/96/2434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2434
 
 

@@ -63,7 +63,7 @@
 
     The Administrator of the Federal Aviation Administration shall develop procedures to allow the Department of Defense and the Department of Homeland Security to review and comment on an aeronautical study conducted pursuant to subsection (b) prior to the completion of the study.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1200][/us/stat/108/1200]; [Pub. L. 104–264, title XII, § 1220(a)][/us/pl/104/264/s1220/a], Oct. 9, 1996, [110 Stat. 3286][/us/stat/110/3286]; [Pub. L. 106–181, title V, § 503(b)][/us/pl/106/181/s503/b], Apr. 5, 2000, [114 Stat. 133][/us/stat/114/133]; [Pub. L. 112–81, div. A, title III, § 332][/us/pl/112/81/s332], Dec. 31, 2011, [125 Stat. 1369][/us/stat/125/1369].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1200][/us/stat/108/1200]; [Pub. L. 104–264, title XII][/us/pl/104/264/tXII], § 1220(a), Oct. 9, 1996, [110 Stat. 3286][/us/stat/110/3286]; [Pub. L. 106–181, title V][/us/pl/106/181/tV], § 503(b), Apr. 5, 2000, [114 Stat. 133][/us/stat/114/133]; [Pub. L. 112–81, div. A, title III][/us/pl/112/81/dA/tIII], § 332, Dec. 31, 2011, [125 Stat. 1369][/us/stat/125/1369].)
 
 <table>
 
@@ -165,7 +165,7 @@ Aug. 23, 1958, Pub. L. 85–726, § 1101, 72 Stat. 797; restated Dec. 30, 1987
 
  __Study of Effects of New Construction of Obstructions on Military Installations and Operations__ 
 
-[Pub. L. 111–383, div. A, title III, § 358][/us/pl/111/383/s358], Jan. 7, 2011, [124 Stat. 4198][/us/stat/124/4198], as amended by [Pub. L. 112–81, div. A, title III, § 331][/us/pl/112/81/s331], Dec. 31, 2011, [125 Stat. 1369][/us/stat/125/1369]; [Pub. L. 112–239, div. A, title X, § 1076(b)(1)][/us/pl/112/239/s1076/b/1], Jan. 2, 2013, [126 Stat. 1949][/us/stat/126/1949]; [Pub. L. 114–92, div. A, title III, § 314][/us/pl/114/92/s314], Nov. 25, 2015, [129 Stat. 790][/us/stat/129/790], provided that:
+[Pub. L. 111–383, div. A, title III][/us/pl/111/383/dA/tIII], § 358, Jan. 7, 2011, [124 Stat. 4198][/us/stat/124/4198], as amended by [Pub. L. 112–81, div. A, title III][/us/pl/112/81/dA/tIII], § 331, Dec. 31, 2011, [125 Stat. 1369][/us/stat/125/1369]; [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1076(b)(1), Jan. 2, 2013, [126 Stat. 1949][/us/stat/126/1949]; [Pub. L. 114–92, div. A, title III][/us/pl/114/92/dA/tIII], § 314, Nov. 25, 2015, [129 Stat. 790][/us/stat/129/790], provided that:
 
 >     “(a)  __Objective__  __.—__ 
 
@@ -319,7 +319,7 @@ Aug. 23, 1958, Pub. L. 85–726, § 1101, 72 Stat. 797; restated Dec. 30, 1987
 
  __Landfills Interfering With Air Commerce__ 
 
-[Pub. L. 106–181, title V, § 503(a)][/us/pl/106/181/s503/a], Apr. 5, 2000, [114 Stat. 133][/us/stat/114/133], provided that: 
+[Pub. L. 106–181, title V][/us/pl/106/181/tV], § 503(a), Apr. 5, 2000, [114 Stat. 133][/us/stat/114/133], provided that: 
 
 > “Congress finds that—
 
@@ -342,13 +342,13 @@ Aug. 23, 1958, Pub. L. 85–726, § 1101, 72 Stat. 797; restated Dec. 30, 1987
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1200
-[/us/pl/104/264/s1220/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs1220%2Fa
+[/us/pl/104/264/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2FtXII
 [/us/stat/110/3286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3286
-[/us/pl/106/181/s503/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs503%2Fb
+[/us/pl/106/181/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtV
 [/us/stat/114/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F133
-[/us/pl/112/81/s332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs332
+[/us/pl/112/81/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtIII
 [/us/stat/125/1369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1369
 [/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
@@ -360,13 +360,13 @@ Aug. 23, 1958, Pub. L. 85–726, § 1101, 72 Stat. 797; restated Dec. 30, 1987
 [/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
 [/us/pl/104/264/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106
-[/us/pl/111/383/s358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs358
+[/us/pl/111/383/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtIII
 [/us/stat/124/4198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4198
-[/us/pl/112/81/s331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs331
+[/us/pl/112/81/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtIII
 [/us/stat/125/1369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1369
-[/us/pl/112/239/s1076/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fb%2F1
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1949
-[/us/pl/114/92/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs314
+[/us/pl/114/92/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtIII
 [/us/stat/129/790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F790
 [/us/usc/t49/s44718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44718
 [/us/usc/t49/s44718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44718
@@ -385,7 +385,7 @@ Aug. 23, 1958, Pub. L. 85–726, § 1101, 72 Stat. 797; restated Dec. 30, 1987
 [/us/usc/t49/s44718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44718
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/usc/t10/s2801/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2801%2Fc%2F4
-[/us/pl/106/181/s503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs503%2Fa
+[/us/pl/106/181/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtV
 [/us/stat/114/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F133
 
 

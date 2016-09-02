@@ -75,7 +75,7 @@
 
             (B) each person (not an individual) listed in an application for registration of an aircraft provide with the application the person’s taxpayer identifying number.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1166][/us/stat/108/1166].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1166][/us/stat/108/1166].)
 
 <table>
 
@@ -179,7 +179,7 @@ Nov. 18, 1988, Pub. L. 100–690, § 7207(a), (b), 102 Stat. 4427.  </td>
 
  __Drug Enforcement Status and Progress; Reports to Congress; Definitions__ 
 
-[Pub. L. 100–690, title VII, § 7207(d)][/us/pl/100/690/s7207/d], (e), Nov. 18, 1988, [102 Stat. 4428][/us/stat/102/4428], provided that:
+[Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7207(d), (e), Nov. 18, 1988, [102 Stat. 4428][/us/stat/102/4428], provided that:
 
 >     “(d)  __Report__  __.—__ 
 
@@ -207,7 +207,7 @@ Nov. 18, 1988, Pub. L. 100–690, § 7207(a), (b), 102 Stat. 4427.  </td>
 
  __Information Coordination__ 
 
-[Pub. L. 100–690, title VII, § 7210][/us/pl/100/690/s7210], Nov. 18, 1988, [102 Stat. 4432][/us/stat/102/4432], provided that: 
+[Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7210, Nov. 18, 1988, [102 Stat. 4432][/us/stat/102/4432], provided that: 
 
 > “Not later than 180 days after the date of the enactment of this subtitle \[Nov. 18, 1988\] and annually thereafter during the 3-year period beginning on such 180th day, the Administrator shall prepare and transmit to Congress a report on the following:
 
@@ -223,7 +223,7 @@ Nov. 18, 1988, Pub. L. 100–690, § 7207(a), (b), 102 Stat. 4427.  </td>
 
  __Applicability of Paperwork Reduction Act__ 
 
-[Pub. L. 100–690, title VII, § 7211(b)][/us/pl/100/690/s7211/b], Nov. 18, 1988, [102 Stat. 4433][/us/stat/102/4433], provided that: 
+[Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7211(b), Nov. 18, 1988, [102 Stat. 4433][/us/stat/102/4433], provided that: 
 
 > “No information collection requests necessary to carry out the objectives of this subtitle \[subtitle E (§§ 7201–7214) of title VI of [Pub. L. 100–690][/us/pl/100/690], see Tables for classification\] (including the amendments made by this subtitle) shall be subject to or affect, directly or indirectly, the annual information collection budget goals established for the Federal Aviation Administration and the Department of Transportation under chapter 35 of title 44, United States Code.”
 
@@ -235,22 +235,22 @@ Nov. 18, 1988, Pub. L. 100–690, § 7207(a), (b), 102 Stat. 4427.  </td>
 ----------
 
 [/us/usc/t21/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1166
 [/us/stat/87/1092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F1092
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/100/690/s7207/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7207%2Fd
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4428
 [/us/usc/t49/s45302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs45302%2Fb
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/usc/t49/s40102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40102
-[/us/pl/100/690/s7210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7210
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4432
 [/us/pl/98/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F499
 [/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/usc/t21/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802
-[/us/pl/100/690/s7211/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7211%2Fb
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4433
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 

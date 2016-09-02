@@ -31,7 +31,7 @@
 
     An agreement to carry passengers or property in air transportation or intrastate air transportation by an air carrier, intrastate air carrier, or foreign air carrier is deemed to include an agreement that the passenger or property will not be carried if consent to search the passenger or property for a purpose referred to in this section is not given.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1204][/us/stat/108/1204]; [Pub. L. 107–71, title I, § 101(f)(7)][/us/pl/107/71/s101/f/7], (9), Nov. 19, 2001, [115 Stat. 603][/us/stat/115/603].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1204][/us/stat/108/1204]; [Pub. L. 107–71, title I][/us/pl/107/71/tI], § 101(f)(7), (9), Nov. 19, 2001, [115 Stat. 603][/us/stat/115/603].)
 
 <table>
 
@@ -121,7 +121,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 1111; added Sept. 5, 1961, P
 
     2001—Subsec. (a). [Pub. L. 107–71][/us/pl/107/71] substituted “Under Secretary of Transportation for Security” for “Administrator of the Federal Aviation Administration” in introductory provisions.
 
-    Subsec. (b). [Pub. L. 107–71, § 101(f)(7)][/us/pl/107/71/s101/f/7], substituted “Under Secretary” for “Administrator”.
+    Subsec. (b). [Pub. L. 107–71][/us/pl/107/71], § 101(f)(7), substituted “Under Secretary” for “Administrator”.
 
  __Transfer of Functions__ 
 
@@ -135,12 +135,12 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 1111; added Sept. 5, 1961, P
 ----------
 
 [/us/usc/t49/s44901/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44901%2Fa
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1204
-[/us/pl/107/71/s101/f/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs101%2Ff%2F7
+[/us/pl/107/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2FtI
 [/us/stat/115/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F603
 [/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
-[/us/pl/107/71/s101/f/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs101%2Ff%2F7
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 
 

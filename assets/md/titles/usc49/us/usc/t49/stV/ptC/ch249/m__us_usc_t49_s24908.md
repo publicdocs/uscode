@@ -17,7 +17,7 @@
 
     A transfer of an interest in rail property under this chapter is exempt from a tax or levy related to the transfer that is imposed by the United States Government, a State, or a political subdivision of a State. On payment of the appropriate and generally applicable charge for the service performed, a transferee or transferor may record an instrument and, consistent with the final system plan, the release or removal of a pre-existing lien or encumbrance of record related to the interest transferred.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 937][/us/stat/108/937].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 937][/us/stat/108/937].)
 
 <table>
 
@@ -74,7 +74,7 @@ Jan. 2, 1974, Pub. L. 93–236, 87 Stat. 985, § 303(e) (words “title VII of
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F937
 
 

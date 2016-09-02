@@ -135,7 +135,7 @@
 
     Nothing in this section prohibits a State or political subdivision thereof from enforcing a law or regulation on tire fuel efficiency consumer information that was in effect on January 1, 2006. After a requirement promulgated under this section is in effect, a State or political subdivision thereof may adopt or enforce a law or regulation on tire fuel efficiency consumer information enacted or promulgated after January 1, 2006, if the requirements of that law or regulation are identical to the requirement promulgated under this section. Nothing in this section shall be construed to preempt a State or political subdivision thereof from regulating the fuel efficiency of tires (including establishing testing methods for determining compliance with such standards) not otherwise preempted under this chapter.
 
-(Added [Pub. L. 110–140, title I, § 111(a)][/us/pl/110/140/s111/a], Dec. 19, 2007, [121 Stat. 1506][/us/stat/121/1506]; amended [Pub. L. 114–94, div. B, title XXIV, § 24332][/us/pl/114/94/s24332], Dec. 4, 2015, [129 Stat. 1713][/us/stat/129/1713].)
+(Added [Pub. L. 110–140, title I][/us/pl/110/140/tI], § 111(a), Dec. 19, 2007, [121 Stat. 1506][/us/stat/121/1506]; amended [Pub. L. 114–94, div. B, title XXIV][/us/pl/114/94/dB/tXXIV], § 24332, Dec. 4, 2015, [129 Stat. 1713][/us/stat/129/1713].)
 
  __References in Text__ 
 
@@ -145,13 +145,13 @@
 
  __Amendments__ 
 
-    2015—[Pub. L. 114–94, § 24332(1)][/us/pl/114/94/s24332/1], which directed insertion of “AND STANDARDS” after “CONSUMER TIRE INFORMATION” in section catchline, was executed by inserting “and standards” after “Consumer tire information”, to reflect the probable intent of Congress.
+    2015—[Pub. L. 114–94][/us/pl/114/94], § 24332(1), which directed insertion of “AND STANDARDS” after “CONSUMER TIRE INFORMATION” in section catchline, was executed by inserting “and standards” after “Consumer tire information”, to reflect the probable intent of Congress.
 
-    Subsec. (a). [Pub. L. 114–94, § 24332(2)(A)][/us/pl/114/94/s24332/2/A], substituted “Consumer Tire Information” for “Rulemaking” in heading.
+    Subsec. (a). [Pub. L. 114–94][/us/pl/114/94], § 24332(2)(A), substituted “Consumer Tire Information” for “Rulemaking” in heading.
 
-    Subsec. (a)(1). [Pub. L. 114–94, § 24332(2)(B)][/us/pl/114/94/s24332/2/B], inserted “(referred to in this section as the ‘Secretary’)” after “Secretary of Transportation”.
+    Subsec. (a)(1). [Pub. L. 114–94][/us/pl/114/94], § 24332(2)(B), inserted “(referred to in this section as the ‘Secretary’)” after “Secretary of Transportation”.
 
-    Subsecs. (b) to (h). [Pub. L. 114–94, § 24332(3)][/us/pl/114/94/s24332/3], (4), added subsecs. (b) to (d) and redesignated former subsecs. (b) to (e) as (e) to (h), respectively.
+    Subsecs. (b) to (h). [Pub. L. 114–94][/us/pl/114/94], § 24332(3), (4), added subsecs. (b) to (d) and redesignated former subsecs. (b) to (e) as (e) to (h), respectively.
 
  __Effective Date__ 
 
@@ -164,16 +164,16 @@
 ----------
 ----------
 
-[/us/pl/110/140/s111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs111%2Fa
+[/us/pl/110/140/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtI
 [/us/stat/121/1506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1506
-[/us/pl/114/94/s24332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24332
+[/us/pl/114/94/dB/tXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdB%2FtXXIV
 [/us/stat/129/1713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1713
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
-[/us/pl/114/94/s24332/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24332%2F1
-[/us/pl/114/94/s24332/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24332%2F2%2FA
-[/us/pl/114/94/s24332/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24332%2F2%2FB
-[/us/pl/114/94/s24332/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24332%2F3
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/110/140/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1601
 [/us/usc/t2/s1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1824
 

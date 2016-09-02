@@ -49,7 +49,7 @@
 
         There is authorized to be appropriated such sums as may be necessary for each of fiscal years 2005 through 2009 to carry out activities under this subsection.
 
-([Pub. L. 97–449, § 1(b)][/us/pl/97/449/s1/b], Jan. 12, 1983, [96 Stat. 2428][/us/stat/96/2428]; [Pub. L. 109–59, title I, § 1951][/us/pl/109/59/s1951], Aug. 10, 2005, [119 Stat. 1514][/us/stat/119/1514].)
+([Pub. L. 97–449][/us/pl/97/449], § 1(b), Jan. 12, 1983, [96 Stat. 2428][/us/stat/96/2428]; [Pub. L. 109–59, title I][/us/pl/109/59/tI], § 1951, Aug. 10, 2005, [119 Stat. 1514][/us/stat/119/1514].)
 
 <table>
 
@@ -170,9 +170,9 @@ Oct. 15, 1966, Pub. L. 89–670, 80 Stat. 931, § 11; added Feb. 5, 1976, Pub.
 ----------
 ----------
 
-[/us/pl/97/449/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449%2Fs1%2Fb
+[/us/pl/97/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449
 [/us/stat/96/2428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2428
-[/us/pl/109/59/s1951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1951
+[/us/pl/109/59/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtI
 [/us/stat/119/1514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1514
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/usc/t45/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs701

@@ -23,7 +23,7 @@
 
     The Administrator shall establish and maintain a rehabilitation program that at least provides for the identification and opportunity for treatment of employees of the Administration whose duties include responsibility for safety-sensitive functions who need assistance in resolving problems with the use of alcohol or a controlled substance.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1223][/us/stat/108/1223]; [Pub. L. 103–429, § 6(58)][/us/pl/103/429/s6/58], Oct. 31, 1994, [108 Stat. 4385][/us/stat/108/4385].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1223][/us/stat/108/1223]; [Pub. L. 103–429][/us/pl/103/429], § 6(58), Oct. 31, 1994, [108 Stat. 4385][/us/stat/108/4385].)
 
 <table>
 
@@ -109,7 +109,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 614(c); added Oct. 28, 1991,
 
  __Human Intervention Motivation Study__ 
 
-[Pub. L. 112–95, title VIII, § 819][/us/pl/112/95/s819], Feb. 14, 2012, [126 Stat. 127][/us/stat/126/127], provided that: 
+[Pub. L. 112–95, title VIII][/us/pl/112/95/tVIII], § 819, Feb. 14, 2012, [126 Stat. 127][/us/stat/126/127], provided that: 
 
 > “Not later than 180 days after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator of the Federal Aviation Administration shall develop a Human Intervention Motivation Study program for cabin crew members employed by commercial air carriers in the United States.”
 
@@ -121,9 +121,9 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 614(c); added Oct. 28, 1991,
 ----------
 
 [/us/usc/t49/s45102/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs45102%2Fa%2F1
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1223
-[/us/pl/103/429/s6/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F58
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/stat/108/4385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4385
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/act/1994-07-05/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1994-07-05%2Fs1
@@ -133,7 +133,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 614(c); added Oct. 28, 1991,
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/pl/103/429/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs9
 [/us/usc/t49/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs321
-[/us/pl/112/95/s819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs819
+[/us/pl/112/95/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtVIII
 [/us/stat/126/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F127
 
 

@@ -63,7 +63,7 @@
 
         Not later than September 30, 2012, the Secretary shall transmit to the Congress a report on the program.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1181][/us/stat/108/1181]; [Pub. L. 104–287, § 5(74)][/us/pl/104/287/s5/74], Oct. 11, 1996, [110 Stat. 3396][/us/stat/110/3396]; [Pub. L. 108–176, title VII, § 712][/us/pl/108/176/s712], Dec. 12, 2003, [117 Stat. 2586][/us/stat/117/2586]; [Pub. L. 112–95, title IX, § 906][/us/pl/112/95/s906], Feb. 14, 2012, [126 Stat. 139][/us/stat/126/139].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1181][/us/stat/108/1181]; [Pub. L. 104–287][/us/pl/104/287], § 5(74), Oct. 11, 1996, [110 Stat. 3396][/us/stat/110/3396]; [Pub. L. 108–176, title VII][/us/pl/108/176/tVII], § 712, Dec. 12, 2003, [117 Stat. 2586][/us/stat/117/2586]; [Pub. L. 112–95, title IX][/us/pl/112/95/tIX], § 906, Feb. 14, 2012, [126 Stat. 139][/us/stat/126/139].)
 
 <table>
 
@@ -123,9 +123,9 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 312(g); added Nov. 5, 1990, 
 
  __Amendments__ 
 
-    2012—Subsec. (f)(1). [Pub. L. 112–95, § 906(1)][/us/pl/112/95/s906/1], substituted “maintain an” for “establish a 4-year pilot” in introductory provisions.
+    2012—Subsec. (f)(1). [Pub. L. 112–95][/us/pl/112/95], § 906(1), substituted “maintain an” for “establish a 4-year pilot” in introductory provisions.
 
-    Subsec. (f)(4). [Pub. L. 112–95, § 906(2)][/us/pl/112/95/s906/2], substituted “Not later than September 30, 2012,” for “Not later than 6 months after the expiration of the program under this subsection,” and “program” for “program, including recommendations as to the need for establishing a permanent airport cooperative research program”.
+    Subsec. (f)(4). [Pub. L. 112–95][/us/pl/112/95], § 906(2), substituted “Not later than September 30, 2012,” for “Not later than 6 months after the expiration of the program under this subsection,” and “program” for “program, including recommendations as to the need for establishing a permanent airport cooperative research program”.
 
     2003—Subsec. (f). [Pub. L. 108–176][/us/pl/108/176] added subsec. (f).
 
@@ -146,17 +146,17 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 312(g); added Nov. 5, 1990, 
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1181
-[/us/pl/104/287/s5/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F74
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3396
-[/us/pl/108/176/s712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs712
+[/us/pl/108/176/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtVII
 [/us/stat/117/2586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2586
-[/us/pl/112/95/s906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs906
+[/us/pl/112/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtIX
 [/us/stat/126/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F139
 [/us/pl/92/463/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs14
-[/us/pl/112/95/s906/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs906%2F1
-[/us/pl/112/95/s906/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs906%2F2
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
 [/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176

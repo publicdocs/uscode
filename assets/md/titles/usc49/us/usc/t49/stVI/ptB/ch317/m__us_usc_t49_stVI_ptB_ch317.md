@@ -83,7 +83,7 @@
 
  __Amendments__ 
 
-    1998—[Pub. L. 105–178, title IV, § 4013][/us/pl/105/178/s4013], June 9, 1998, [112 Stat. 409][/us/stat/112/409], struck out items 31702 “Working group”, 31703 “Grants”, and 31708 “Authorization of appropriations”.
+    1998—[Pub. L. 105–178, title IV][/us/pl/105/178/tIV], § 4013, June 9, 1998, [112 Stat. 409][/us/stat/112/409], struck out items 31702 “Working group”, 31703 “Grants”, and 31708 “Authorization of appropriations”.
 
 ----------
 
@@ -92,7 +92,7 @@
 ----------
 ----------
 
-[/us/pl/105/178/s4013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4013
+[/us/pl/105/178/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtIV
 [/us/stat/112/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F409
 
 

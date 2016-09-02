@@ -37,7 +37,7 @@
 
     (10) the Federal interest in these airports can be provided through a lease mechanism which provides for local control and operation.
 
-(Added [Pub. L. 105–102, § 2(26)][/us/pl/105/102/s2/26], Nov. 20, 1997, [111 Stat. 2206][/us/stat/111/2206].)
+(Added [Pub. L. 105–102][/us/pl/105/102], § 2(26), Nov. 20, 1997, [111 Stat. 2206][/us/stat/111/2206].)
 
 <table>
 
@@ -105,7 +105,7 @@ Oct. 30, 1986, Pub. L. 99–591, title VI, § 6002, 100 Stat. 3341–376.  </t
 
  __References in Text__ 
 
-    The Airline Deregulation Act of 1978, referred to in par. (4), is [Pub. L. 95–504][/us/pl/95/504], Oct. 24, 1978, [92 Stat. 1705][/us/stat/92/1705], as amended, which was classified principally to sections of former Title 49, Transportation. The Act was substantially repealed by [Pub. L. 103–272, § 7(b)][/us/pl/103/272/s7/b], July 5, 1994, [108 Stat. 1379][/us/stat/108/1379], the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation. For complete classification of this Act to the Code, see Tables. For disposition of sections of former Title 49, see Table at the beginning of Title 49.
+    The Airline Deregulation Act of 1978, referred to in par. (4), is [Pub. L. 95–504][/us/pl/95/504], Oct. 24, 1978, [92 Stat. 1705][/us/stat/92/1705], as amended, which was classified principally to sections of former Title 49, Transportation. The Act was substantially repealed by [Pub. L. 103–272][/us/pl/103/272], § 7(b), July 5, 1994, [108 Stat. 1379][/us/stat/108/1379], the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation. For complete classification of this Act to the Code, see Tables. For disposition of sections of former Title 49, see Table at the beginning of Title 49.
 
  __Prior Provisions__ 
 
@@ -120,11 +120,11 @@ Oct. 30, 1986, Pub. L. 99–591, title VI, § 6002, 100 Stat. 3341–376.  </t
 
 [/us/pl/95/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F504
 [/us/stat/92/1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1705
-[/us/pl/105/102/s2/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102%2Fs2%2F26
+[/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/stat/111/2206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2206
 [/us/pl/95/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F504
 [/us/stat/92/1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1705
-[/us/pl/103/272/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs7%2Fb
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1379
 [/us/usc/t49/s50101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs50101
 

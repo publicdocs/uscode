@@ -37,7 +37,7 @@
 
     The Attorney General shall bring a civil action in a district court of the United States to collect a civil penalty that is referred to the Attorney General for collection under subsection (a) of this section. The action may be brought in the judicial district in which the violation occurred or the defendant has its principal executive office. If the action is against an individual, the action also may be brought in the judicial district in which the individual resides.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 892][/us/stat/108/892]; [Pub. L. 110–432, div. A, title III, § 302(b)][/us/pl/110/432/s302/b], Oct. 16, 2008, [122 Stat. 4878][/us/stat/122/4878].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 892][/us/stat/108/892]; [Pub. L. 110–432, div. A, title III][/us/pl/110/432/dA/tIII], § 302(b), Oct. 16, 2008, [122 Stat. 4878][/us/stat/122/4878].)
 
 <table>
 
@@ -302,9 +302,9 @@ In subsection (a)(3), the words “[section 3711 of title 31][/us/usc/t31/s3711]
 
 [/us/usc/t49/s21304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs21304
 [/us/usc/t31/s3711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3711
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F892
-[/us/pl/110/432/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs302%2Fb
+[/us/pl/110/432/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdA%2FtIII
 [/us/stat/122/4878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4878
 [/us/usc/t45/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs431
 [/us/usc/t31/s3711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3711

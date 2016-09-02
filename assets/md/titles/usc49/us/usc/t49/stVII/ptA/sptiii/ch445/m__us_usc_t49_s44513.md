@@ -89,7 +89,7 @@
 
         (4) the level of cost-sharing for each research project.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1182][/us/stat/108/1182]; [Pub. L. 112–95, title IX, § 907][/us/pl/112/95/s907], Feb. 14, 2012, [126 Stat. 140][/us/stat/126/140].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1182][/us/stat/108/1182]; [Pub. L. 112–95, title IX][/us/pl/112/95/tIX], § 907, Feb. 14, 2012, [126 Stat. 140][/us/stat/126/140].)
 
 <table>
 
@@ -143,13 +143,13 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 312(i); added Nov. 5, 1990, 
 
  __Amendments__ 
 
-    2012—Subsec. (f). [Pub. L. 112–95, § 907(a)][/us/pl/112/95/s907/a], amended subsec. (f) generally. Prior to amendment, text read as follows: “The United States Government’s share of a grant under this section is 50 percent of the costs of establishing and operating the center and related research activities that the grant recipient carries out.”
+    2012—Subsec. (f). [Pub. L. 112–95][/us/pl/112/95], § 907(a), amended subsec. (f) generally. Prior to amendment, text read as follows: “The United States Government’s share of a grant under this section is 50 percent of the costs of establishing and operating the center and related research activities that the grant recipient carries out.”
 
-    Subsec. (h). [Pub. L. 112–95, § 907(b)][/us/pl/112/95/s907/b], added subsec. (h).
+    Subsec. (h). [Pub. L. 112–95][/us/pl/112/95], § 907(b), added subsec. (h).
 
  __Center of Excellence for Aviation Human Resource Research__ 
 
-[Pub. L. 112–95, title IX, § 908][/us/pl/112/95/s908], Feb. 14, 2012, [126 Stat. 140][/us/stat/126/140], provided that:
+[Pub. L. 112–95, title IX][/us/pl/112/95/tIX], § 908, Feb. 14, 2012, [126 Stat. 140][/us/stat/126/140], provided that:
 
 >     “(a)  __Establishment__  __.—__ 
 
@@ -182,13 +182,13 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 312(i); added Nov. 5, 1990, 
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1182
-[/us/pl/112/95/s907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs907
+[/us/pl/112/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtIX
 [/us/stat/126/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F140
-[/us/pl/112/95/s907/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs907%2Fa
-[/us/pl/112/95/s907/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs907%2Fb
-[/us/pl/112/95/s908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs908
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtIX
 [/us/stat/126/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F140
 [/us/usc/t49/s48102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs48102%2Fa
 

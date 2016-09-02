@@ -47,7 +47,7 @@
 
     A duty or power specified in subsection (f)(1) may be transferred to another part of the Department of Transportation or another government entity only if specifically provided by law.
 
-([Pub. L. 97–449, § 1(b)][/us/pl/97/449/s1/b], Jan. 12, 1983, [96 Stat. 2417][/us/stat/96/2417]; [Pub. L. 103–272, § 4(j)(4)][/us/pl/103/272/s4/j/4], July 5, 1994, [108 Stat. 1365][/us/stat/108/1365]; [Pub. L. 108–426, § 2(a)][/us/pl/108/426/s2/a], Nov. 30, 2004, [118 Stat. 2423][/us/stat/118/2423].)
+([Pub. L. 97–449][/us/pl/97/449], § 1(b), Jan. 12, 1983, [96 Stat. 2417][/us/stat/96/2417]; [Pub. L. 103–272][/us/pl/103/272], § 4(j)(4), July 5, 1994, [108 Stat. 1365][/us/stat/108/1365]; [Pub. L. 108–426][/us/pl/108/426], § 2(a), Nov. 30, 2004, [118 Stat. 2423][/us/stat/118/2423].)
 
 <table>
 
@@ -135,7 +135,7 @@ Oct. 15, 1966, Pub. L. 89–670, §§ 3(e)(3) (related to USCG), 6(b)(1), (2),
 
  __Savings Provisions__ 
 
-[Pub. L. 108–426, § 5][/us/pl/108/426/s5], Nov. 30, 2004, [118 Stat. 2426][/us/stat/118/2426], as amended by [Pub. L. 110–244, title III, § 302(h)][/us/pl/110/244/s302/h], June 6, 2008, [122 Stat. 1618][/us/stat/122/1618], provided that:
+[Pub. L. 108–426][/us/pl/108/426], § 5, Nov. 30, 2004, [118 Stat. 2426][/us/stat/118/2426], as amended by [Pub. L. 110–244, title III][/us/pl/110/244/tIII], § 302(h), June 6, 2008, [122 Stat. 1618][/us/stat/122/1618], provided that:
 
 >     “(a)  __Transfer of Assets and Personnel__  __.—__ 
 
@@ -187,19 +187,19 @@ Oct. 15, 1966, Pub. L. 89–670, §§ 3(e)(3) (related to USCG), 6(b)(1), (2),
 
  __Transfer of Duties and Powers of Research and Special Programs Administration__ 
 
-[Pub. L. 108–426, § 2(b)][/us/pl/108/426/s2/b], Nov. 30, 2004, [118 Stat. 2424][/us/stat/118/2424], provided that: 
+[Pub. L. 108–426][/us/pl/108/426], § 2(b), Nov. 30, 2004, [118 Stat. 2424][/us/stat/118/2424], provided that: 
 
 > “The authority of the Research and Special Programs Administration exercised under chapters 51, 57, 61, 601, and 603 of title 49, United States Code, is transferred to the Administrator of the Pipeline and Hazardous Materials Safety Administration.”
 
     For transfer of authority of the Research and Special Programs Administration, other than authority exercised under chapters 51, 57, 61, 601, and 603 of this title, to the Administrator of the Research and Innovative Technology Administration, see [section 4(b) of Pub. L. 108–426][/us/pl/108/426/s4/b], set out as a note under former [section 112 of this title][/us/usc/t49/s112].
 
-[Pub. L. 108–426, § 7][/us/pl/108/426/s7], Nov. 30, 2004, [118 Stat. 2428][/us/stat/118/2428], provided that: 
+[Pub. L. 108–426][/us/pl/108/426], § 7, Nov. 30, 2004, [118 Stat. 2428][/us/stat/118/2428], provided that: 
 
 > “The Secretary shall provide for the orderly transfer of duties and powers under this Act \[see Short Title of 2004 Amendment note set out under [section 101 of this title][/us/usc/t49/s101]\], including the amendments made by this Act, as soon as practicable but not later than 90 days after the date of enactment of this Act \[Nov. 30, 2004\].”
 
  __Reports__ 
 
-[Pub. L. 108–426, § 6][/us/pl/108/426/s6], Nov. 30, 2004, [118 Stat. 2428][/us/stat/118/2428], provided that:
+[Pub. L. 108–426][/us/pl/108/426], § 6, Nov. 30, 2004, [118 Stat. 2428][/us/stat/118/2428], provided that:
 
 >     “(a)  __Reports by the Inspector General__  __.—__ 
 
@@ -226,30 +226,30 @@ Oct. 15, 1966, Pub. L. 89–670, §§ 3(e)(3) (related to USCG), 6(b)(1), (2),
 ----------
 ----------
 
-[/us/pl/97/449/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449%2Fs1%2Fb
+[/us/pl/97/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449
 [/us/stat/96/2417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2417
-[/us/pl/103/272/s4/j/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs4%2Fj%2F4
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1365
-[/us/pl/108/426/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F426%2Fs2%2Fa
+[/us/pl/108/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F426
 [/us/stat/118/2423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2423
 [/us/pl/89/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670
 [/us/stat/80/931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F931
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/pl/108/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F426
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
-[/us/pl/108/426/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F426%2Fs5
+[/us/pl/108/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F426
 [/us/stat/118/2426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2426
-[/us/pl/110/244/s302/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs302%2Fh
+[/us/pl/110/244/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2FtIII
 [/us/stat/122/1618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1618
 [/us/usc/t49/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs101
-[/us/pl/108/426/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F426%2Fs2%2Fb
+[/us/pl/108/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F426
 [/us/stat/118/2424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2424
 [/us/pl/108/426/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F426%2Fs4%2Fb
 [/us/usc/t49/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs112
-[/us/pl/108/426/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F426%2Fs7
+[/us/pl/108/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F426
 [/us/stat/118/2428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2428
 [/us/usc/t49/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs101
-[/us/pl/108/426/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F426%2Fs6
+[/us/pl/108/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F426
 [/us/stat/118/2428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2428
 
 

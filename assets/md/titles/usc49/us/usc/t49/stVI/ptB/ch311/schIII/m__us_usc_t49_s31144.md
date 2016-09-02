@@ -177,11 +177,11 @@
 
             (B) annually assess the safety fitness of certain motor carriers of passengers that serve primarily urban areas with high passenger loads.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1012][/us/stat/108/1012]; [Pub. L. 104–88, title I, § 104(g)][/us/pl/104/88/s104/g], Dec. 29, 1995, [109 Stat. 920][/us/stat/109/920]; [Pub. L. 105–178, title IV, § 4009(a)][/us/pl/105/178/s4009/a], June 9, 1998, [112 Stat. 405][/us/stat/112/405]; [Pub. L. 106–159, title II, § 210(a)][/us/pl/106/159/s210/a], Dec. 9, 1999, [113 Stat. 1764][/us/stat/113/1764]; [Pub. L. 109–59, title IV][/us/pl/109/59], §§ 4107(b), 4114, title VII, § 7112(b), (c), Aug. 10, 2005, [119 Stat. 1720][/us/stat/119/1720], 1725, 1899; [Pub. L. 110–244, title III, § 301(b)][/us/pl/110/244/s301/b], (c), June 6, 2008, [122 Stat. 1616][/us/stat/122/1616]; [Pub. L. 111–147, title IV, § 422(e)][/us/pl/111/147/s422/e], Mar. 18, 2010, [124 Stat. 87][/us/stat/124/87]; [Pub. L. 111–322, title II, § 2202(e)][/us/pl/111/322/s2202/e], Dec. 22, 2010, [124 Stat. 3525][/us/stat/124/3525]; [Pub. L. 112–5, title II, § 202(e)][/us/pl/112/5/s202/e], Mar. 4, 2011, [125 Stat. 17][/us/stat/125/17]; [Pub. L. 112–30, title I, § 122(e)][/us/pl/112/30/s122/e], Sept. 16, 2011, [125 Stat. 349][/us/stat/125/349]; [Pub. L. 112–102, title II, § 202(e)][/us/pl/112/102/s202/e], Mar. 30, 2012, [126 Stat. 274][/us/stat/126/274]; [Pub. L. 112–140, title II, § 202(e)][/us/pl/112/140/s202/e], June 29, 2012, [126 Stat. 395][/us/stat/126/395]; [Pub. L. 112–141, div. C, title II][/us/pl/112/141], §§ 32102(a), 32202, 32603(e), 32707(a), 32921(b), div. G, title II, § 112002(d), July 6, 2012, [126 Stat. 778][/us/stat/126/778], 784, 808, 813, 828, 983; [Pub. L. 113–159, title I, § 1102(e)][/us/pl/113/159/s1102/e], Aug. 8, 2014, [128 Stat. 1844][/us/stat/128/1844]; [Pub. L. 114–21, title I, § 1102(e)][/us/pl/114/21/s1102/e], May 29, 2015, [129 Stat. 222][/us/stat/129/222]; [Pub. L. 114–41, title I, § 1102(e)][/us/pl/114/41/s1102/e], July 31, 2015, [129 Stat. 449][/us/stat/129/449]; [Pub. L. 114–73, title I, § 1102(e)][/us/pl/114/73/s1102/e], Oct. 29, 2015, [129 Stat. 572][/us/stat/129/572]; [Pub. L. 114–87, title I, § 1102(e)][/us/pl/114/87/s1102/e], Nov. 20, 2015, [129 Stat. 681][/us/stat/129/681]; [Pub. L. 114–94, div. A, title V][/us/pl/114/94], §§ 5101(e)(1), 5105(d), 5508(b)(4), Dec. 4, 2015, [129 Stat. 1525][/us/stat/129/1525], 1529, 1554.)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1012][/us/stat/108/1012]; [Pub. L. 104–88, title I][/us/pl/104/88/tI], § 104(g), Dec. 29, 1995, [109 Stat. 920][/us/stat/109/920]; [Pub. L. 105–178, title IV][/us/pl/105/178/tIV], § 4009(a), June 9, 1998, [112 Stat. 405][/us/stat/112/405]; [Pub. L. 106–159, title II][/us/pl/106/159/tII], § 210(a), Dec. 9, 1999, [113 Stat. 1764][/us/stat/113/1764]; [Pub. L. 109–59, title IV][/us/pl/109/59/tIV], §§ 4107(b), 4114, title VII, § 7112(b), (c), Aug. 10, 2005, [119 Stat. 1720][/us/stat/119/1720], 1725, 1899; [Pub. L. 110–244, title III][/us/pl/110/244/tIII], § 301(b), (c), June 6, 2008, [122 Stat. 1616][/us/stat/122/1616]; [Pub. L. 111–147, title IV][/us/pl/111/147/tIV], § 422(e), Mar. 18, 2010, [124 Stat. 87][/us/stat/124/87]; [Pub. L. 111–322, title II][/us/pl/111/322/tII], § 2202(e), Dec. 22, 2010, [124 Stat. 3525][/us/stat/124/3525]; [Pub. L. 112–5, title II][/us/pl/112/5/tII], § 202(e), Mar. 4, 2011, [125 Stat. 17][/us/stat/125/17]; [Pub. L. 112–30, title I][/us/pl/112/30/tI], § 122(e), Sept. 16, 2011, [125 Stat. 349][/us/stat/125/349]; [Pub. L. 112–102, title II][/us/pl/112/102/tII], § 202(e), Mar. 30, 2012, [126 Stat. 274][/us/stat/126/274]; [Pub. L. 112–140, title II][/us/pl/112/140/tII], § 202(e), June 29, 2012, [126 Stat. 395][/us/stat/126/395]; [Pub. L. 112–141, div. C, title II][/us/pl/112/141/dC/tII], §§ 32102(a), 32202, 32603(e), 32707(a), 32921(b), div. G, title II, § 112002(d), July 6, 2012, [126 Stat. 778][/us/stat/126/778], 784, 808, 813, 828, 983; [Pub. L. 113–159, title I][/us/pl/113/159/tI], § 1102(e), Aug. 8, 2014, [128 Stat. 1844][/us/stat/128/1844]; [Pub. L. 114–21, title I][/us/pl/114/21/tI], § 1102(e), May 29, 2015, [129 Stat. 222][/us/stat/129/222]; [Pub. L. 114–41, title I][/us/pl/114/41/tI], § 1102(e), July 31, 2015, [129 Stat. 449][/us/stat/129/449]; [Pub. L. 114–73, title I][/us/pl/114/73/tI], § 1102(e), Oct. 29, 2015, [129 Stat. 572][/us/stat/129/572]; [Pub. L. 114–87, title I][/us/pl/114/87/tI], § 1102(e), Nov. 20, 2015, [129 Stat. 681][/us/stat/129/681]; [Pub. L. 114–94, div. A, title V][/us/pl/114/94/dA/tV], §§ 5101(e)(1), 5105(d), 5508(b)(4), Dec. 4, 2015, [129 Stat. 1525][/us/stat/129/1525], 1529, 1554.)
 
  __Amendment of Subsection (g)__ 
 
-    [Pub. L. 114–94, div. A, title V, § 5101(e)(1)][/us/pl/114/94/s5101/e/1], (f), Dec. 4, 2015, [129 Stat. 1525][/us/stat/129/1525], 1526, provided that, effective Oct. 1, 2016, subsection (g) of this section is amended by striking paragraph (5). See 2015 Amendment note below.
+    [Pub. L. 114–94, div. A, title V][/us/pl/114/94/dA/tV], § 5101(e)(1), (f), Dec. 4, 2015, [129 Stat. 1525][/us/stat/129/1525], 1526, provided that, effective Oct. 1, 2016, subsection (g) of this section is amended by striking paragraph (5). See 2015 Amendment note below.
 
 <table>
 
@@ -267,9 +267,9 @@ Oct. 30, 1984, Pub. L. 98–554, § 215, 98 Stat. 2844.  </td>
 
  __Amendments__ 
 
-    2015—Subsec. (g)(5). [Pub. L. 114–94, § 5101(e)(1)][/us/pl/114/94/s5101/e/1], struck out par. (5) which provided for grants to States for new entrant audits.
+    2015—Subsec. (g)(5). [Pub. L. 114–94][/us/pl/114/94], § 5101(e)(1), struck out par. (5) which provided for grants to States for new entrant audits.
 
-    Subsec. (g)(5)(B). [Pub. L. 114–94, § 5105(d)][/us/pl/114/94/s5105/d], amended subpar. (B) generally. Prior to amendment, text read as follows: “The Secretary shall set aside from amounts made available by section 31104(a) up to $32,000,000 per fiscal year and up to $5,683,060 for the period beginning on October 1, 2015, and ending on December 4, 2015, for audits of new entrant motor carriers conducted pursuant to this paragraph.”
+    Subsec. (g)(5)(B). [Pub. L. 114–94][/us/pl/114/94], § 5105(d), amended subpar. (B) generally. Prior to amendment, text read as follows: “The Secretary shall set aside from amounts made available by section 31104(a) up to $32,000,000 per fiscal year and up to $5,683,060 for the period beginning on October 1, 2015, and ending on December 4, 2015, for audits of new entrant motor carriers conducted pursuant to this paragraph.”
 
     [Pub. L. 114–87][/us/pl/114/87] substituted “and up to $5,683,060 for the period beginning on October 1, 2015, and ending on December 4, 2015,” for “and up to $4,459,016 for the period beginning on October 1, 2015, and ending on November 20, 2015,”.
 
@@ -279,25 +279,25 @@ Oct. 30, 1984, Pub. L. 98–554, § 215, 98 Stat. 2844.  </td>
 
     [Pub. L. 114–21][/us/pl/114/21] substituted “and up to $26,652,055 for the period beginning on October 1, 2014, and ending on July 31, 2015,” for “and up to $21,304,110 for the period beginning on October 1, 2014, and ending on May 31, 2015,”.
 
-    Subsec. (g)(6). [Pub. L. 114–94, § 5508(b)(4)][/us/pl/114/94/s5508/b/4], amended [Pub. L. 112–141, § 32921(b)][/us/pl/112/141/s32921/b]. See 2012 Amendment note below.
+    Subsec. (g)(6). [Pub. L. 114–94][/us/pl/114/94], § 5508(b)(4), amended [Pub. L. 112–141][/us/pl/112/141], § 32921(b). See 2012 Amendment note below.
 
     2014—Subsec. (g)(5)(B). [Pub. L. 113–159][/us/pl/113/159] inserted “and up to $21,304,110 for the period beginning on October 1, 2014, and ending on May 31, 2015,” after “per fiscal year”.
 
-    2012—Subsec. (g)(1). [Pub. L. 112–141, § 32102(a)][/us/pl/112/141/s32102/a], amended par. (1) generally. Prior to amendment, text read as follows: “The Secretary shall require, by regulation, each owner and each operator granted new operating authority, after the date on which section 31148(b) is first implemented, to undergo a safety review within the first 18 months after the owner or operator, as the case may be, begins operations under such authority.”
+    2012—Subsec. (g)(1). [Pub. L. 112–141][/us/pl/112/141], § 32102(a), amended par. (1) generally. Prior to amendment, text read as follows: “The Secretary shall require, by regulation, each owner and each operator granted new operating authority, after the date on which section 31148(b) is first implemented, to undergo a safety review within the first 18 months after the owner or operator, as the case may be, begins operations under such authority.”
 
-    Subsec. (g)(5)(B). [Pub. L. 112–141, § 112002(d)][/us/pl/112/141/s112002/d], struck out “and up to $21,750,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,” after “year”.
+    Subsec. (g)(5)(B). [Pub. L. 112–141][/us/pl/112/141], § 112002(d), struck out “and up to $21,750,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,” after “year”.
 
-    [Pub. L. 112–141, § 32603(e)][/us/pl/112/141/s32603/e], amended subpar. (B) generally. Prior to amendment, text read as follows: “The Secretary shall set aside from amounts made available by section 31104(a) up to $29,000,000 per fiscal year for audits of new entrant motor carriers conducted pursuant to this paragraph.”
+    [Pub. L. 112–141][/us/pl/112/141], § 32603(e), amended subpar. (B) generally. Prior to amendment, text read as follows: “The Secretary shall set aside from amounts made available by section 31104(a) up to $29,000,000 per fiscal year for audits of new entrant motor carriers conducted pursuant to this paragraph.”
 
     [Pub. L. 112–140][/us/pl/112/140], §§ 1(c), 202(e), temporarily substituted “and up to $22,040,000 for the period beginning on October 1, 2011, and ending on July 6, 2012,” for “and up to $21,750,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,”. See Effective and Termination Dates of 2012 Amendment note below.
 
     [Pub. L. 112–102][/us/pl/112/102] substituted “and up to $21,750,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,” for “and up to $14,500,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,”.
 
-    Subsec. (g)(6). [Pub. L. 112–141, § 32921(b)][/us/pl/112/141/s32921/b], as amended by [Pub. L. 114–94, § 5508(b)(4)][/us/pl/114/94/s5508/b/4], added par. (6).
+    Subsec. (g)(6). [Pub. L. 112–141][/us/pl/112/141], § 32921(b), as amended by [Pub. L. 114–94][/us/pl/114/94], § 5508(b)(4), added par. (6).
 
-    Subsec. (h). [Pub. L. 112–141, § 32202][/us/pl/112/141/s32202], added subsec. (h).
+    Subsec. (h). [Pub. L. 112–141][/us/pl/112/141], § 32202, added subsec. (h).
 
-    Subsec. (i). [Pub. L. 112–141, § 32707(a)][/us/pl/112/141/s32707/a], added subsec. (i).
+    Subsec. (i). [Pub. L. 112–141][/us/pl/112/141], § 32707(a), added subsec. (i).
 
     2011—Subsec. (g)(5)(B). [Pub. L. 112–30][/us/pl/112/30] substituted “fiscal year and up to $14,500,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,” for “fiscal year”.
 
@@ -309,7 +309,7 @@ Oct. 30, 1984, Pub. L. 98–554, § 215, 98 Stat. 2844.  </td>
 
     2008—[Pub. L. 110–244][/us/pl/110/244] amended [Pub. L. 109–59][/us/pl/109/59], §§ 4107(b), 4114(c)(1), 7112. See 2005 Amendment notes below.
 
-    2005—Subsec. (a). [Pub. L. 109–59, § 4114(a)][/us/pl/109/59/s4114/a], reenacted heading without change and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary shall—
+    2005—Subsec. (a). [Pub. L. 109–59][/us/pl/109/59], § 4114(a), reenacted heading without change and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary shall—
 
     “(1) determine whether an owner or operator is fit to operate safely commercial motor vehicles;
 
@@ -319,39 +319,39 @@ Oct. 30, 1984, Pub. L. 98–554, § 215, 98 Stat. 2844.  </td>
 
     “(4) prescribe by regulation penalties for violations of this section consistent with section 521.”
 
-    Subsec. (c). [Pub. L. 109–59, § 7112(c)][/us/pl/109/59/s7112/c], which directed amendment of this section by redesignating the second subsec. (c), relating to safety reviews of new operators, as (f), was repealed by [Pub. L. 110–244, § 301(b)(2)][/us/pl/110/244/s301/b/2].
+    Subsec. (c). [Pub. L. 109–59][/us/pl/109/59], § 7112(c), which directed amendment of this section by redesignating the second subsec. (c), relating to safety reviews of new operators, as (f), was repealed by [Pub. L. 110–244][/us/pl/110/244], § 301(b)(2).
 
-    [Pub. L. 109–59, § 4107(b)(1)][/us/pl/109/59/s4107/b/1], as amended by [Pub. L. 110–244, § 301(b)(1)][/us/pl/110/244/s301/b/1], redesignated subsec. (c), relating to safety reviews of new operators, as (f).
+    [Pub. L. 109–59][/us/pl/109/59], § 4107(b)(1), as amended by [Pub. L. 110–244][/us/pl/110/244], § 301(b)(1), redesignated subsec. (c), relating to safety reviews of new operators, as (f).
 
-    Subsec. (c)(1). [Pub. L. 109–59, § 7112(b)(1)][/us/pl/109/59/s7112/b/1], substituted “section 521(b)(5)(A)” for “sections 521(b)(5)(A) and 5113”.
+    Subsec. (c)(1). [Pub. L. 109–59][/us/pl/109/59], § 7112(b)(1), substituted “section 521(b)(5)(A)” for “sections 521(b)(5)(A) and 5113”.
 
-    Subsec. (c)(3). [Pub. L. 109–59, § 7112(b)(2)][/us/pl/109/59/s7112/b/2], inserted at end “A violation of this paragraph by an owner or operator transporting hazardous material shall be considered a violation of chapter 51, and shall be subject to the penalties in sections 5123 and 5124.”
+    Subsec. (c)(3). [Pub. L. 109–59][/us/pl/109/59], § 7112(b)(2), inserted at end “A violation of this paragraph by an owner or operator transporting hazardous material shall be considered a violation of chapter 51, and shall be subject to the penalties in sections 5123 and 5124.”
 
-    Subsec. (c)(5). [Pub. L. 109–59, § 4114(b)][/us/pl/109/59/s4114/b], added par. (5).
+    Subsec. (c)(5). [Pub. L. 109–59][/us/pl/109/59], § 4114(b), added par. (5).
 
-    Subsec. (d). [Pub. L. 109–59, § 4114(c)(2)][/us/pl/109/59/s4114/c/2], added subsec. (d). Former subsec. (d) redesignated (e).
+    Subsec. (d). [Pub. L. 109–59][/us/pl/109/59], § 4114(c)(2), added subsec. (d). Former subsec. (d) redesignated (e).
 
-    [Pub. L. 109–59, § 4114(c)(1)][/us/pl/109/59/s4114/c/1], as amended by [Pub. L. 110–244, § 301(c)][/us/pl/110/244/s301/c], redesignated subsec. (d) as (e).
+    [Pub. L. 109–59][/us/pl/109/59], § 4114(c)(1), as amended by [Pub. L. 110–244][/us/pl/110/244], § 301(c), redesignated subsec. (d) as (e).
 
-    Subsec. (e). [Pub. L. 109–59, § 4114(c)(1)][/us/pl/109/59/s4114/c/1], as amended by [Pub. L. 110–244, § 301(c)][/us/pl/110/244/s301/c], redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
+    Subsec. (e). [Pub. L. 109–59][/us/pl/109/59], § 4114(c)(1), as amended by [Pub. L. 110–244][/us/pl/110/244], § 301(c), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
-    Subsec. (f). [Pub. L. 109–59, § 7112(c)][/us/pl/109/59/s7112/c], which directed amendment of this section by redesignating the second subsec. (c), relating to safety reviews of new operators, as (f), was repealed by [Pub. L. 110–244, § 301(b)(2)][/us/pl/110/244/s301/b/2].
+    Subsec. (f). [Pub. L. 109–59][/us/pl/109/59], § 7112(c), which directed amendment of this section by redesignating the second subsec. (c), relating to safety reviews of new operators, as (f), was repealed by [Pub. L. 110–244][/us/pl/110/244], § 301(b)(2).
 
-    [Pub. L. 109–59, § 4114(c)(1)][/us/pl/109/59/s4114/c/1], as amended by [Pub. L. 110–244, § 301(c)][/us/pl/110/244/s301/c], redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
+    [Pub. L. 109–59][/us/pl/109/59], § 4114(c)(1), as amended by [Pub. L. 110–244][/us/pl/110/244], § 301(c), redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
 
-    [Pub. L. 109–59, § 4107(b)(1)][/us/pl/109/59/s4107/b/1], as amended by [Pub. L. 110–244, § 301(b)(1)][/us/pl/110/244/s301/b/1], redesignated subsec. (c), relating to safety reviews of new operators, as (f).
+    [Pub. L. 109–59][/us/pl/109/59], § 4107(b)(1), as amended by [Pub. L. 110–244][/us/pl/110/244], § 301(b)(1), redesignated subsec. (c), relating to safety reviews of new operators, as (f).
 
-    Subsec. (f)(5). [Pub. L. 109–59, § 4107(b)(2)][/us/pl/109/59/s4107/b/2], as amended by [Pub. L. 110–244, § 301(b)(1)][/us/pl/110/244/s301/b/1], added par. (5).
+    Subsec. (f)(5). [Pub. L. 109–59][/us/pl/109/59], § 4107(b)(2), as amended by [Pub. L. 110–244][/us/pl/110/244], § 301(b)(1), added par. (5).
 
-    Subsec. (g). [Pub. L. 109–59, § 4114(c)(1)][/us/pl/109/59/s4114/c/1], as amended by [Pub. L. 110–244, § 301(c)][/us/pl/110/244/s301/c], redesignated subsec. (f) as (g).
+    Subsec. (g). [Pub. L. 109–59][/us/pl/109/59], § 4114(c)(1), as amended by [Pub. L. 110–244][/us/pl/110/244], § 301(c), redesignated subsec. (f) as (g).
 
     1999—Subsec. (c). [Pub. L. 106–159][/us/pl/106/159] added subsec. (c) relating to safety reviews of new operators.
 
     1998—[Pub. L. 105–178][/us/pl/105/178] reenacted section catchline without change and amended text generally, substituting, in subsec. (a), general provisions for provisions relating to procedure and, in subsec. (b), provisions relating to procedure for provisions relating to findings and action on registrations, and adding subsecs. (c) to (e).
 
-    1995—Subsec. (a)(1). [Pub. L. 104–88, § 104(g)(1)][/us/pl/104/88/s104/g/1]–(3), in first sentence substituted “The Secretary” for “In cooperation with the Interstate Commerce Commission, the Secretary” and “section 13902” for “sections 10922 and 10923” and in subpar. (C) struck out “and the Commission” after “Secretary”.
+    1995—Subsec. (a)(1). [Pub. L. 104–88][/us/pl/104/88], § 104(g)(1)–(3), in first sentence substituted “The Secretary” for “In cooperation with the Interstate Commerce Commission, the Secretary” and “section 13902” for “sections 10922 and 10923” and in subpar. (C) struck out “and the Commission” after “Secretary”.
 
-    Subsec. (b). [Pub. L. 104–88, § 104(g)(4)][/us/pl/104/88/s104/g/4], added subsec. (b) and struck out former subsec. (b) which read as follows: “Findings and Action on Applications.—The Commission shall—
+    Subsec. (b). [Pub. L. 104–88][/us/pl/104/88], § 104(g)(4), added subsec. (b) and struck out former subsec. (b) which read as follows: “Findings and Action on Applications.—The Commission shall—
 
     “(1) find an applicant for authority to operate as a motor carrier unfit if the applicant does not meet the safety fitness requirements established under subsection (a) of this section; and
 
@@ -363,13 +363,13 @@ Oct. 30, 1984, Pub. L. 98–554, § 215, 98 Stat. 2844.  </td>
 
     Amendment by [section 5101(e)(1) of Pub. L. 114–94][/us/pl/114/94/s5101/e/1] effective Oct. 1, 2016, see [section 5101(f) of Pub. L. 114–94][/us/pl/114/94/s5101/f], set out as a note under [section 31102 of this title][/us/usc/t49/s31102].
 
-    [Pub. L. 114–94, div. A, title V, § 5508(b)][/us/pl/114/94/s5508/b], Dec. 4, 2015, [129 Stat. 1554][/us/stat/129/1554], provided that the amendment made by section 5508(b)(4) is effective as of July 6, 2012, and as if included in [Pub. L. 112–141][/us/pl/112/141] as enacted.
+    [Pub. L. 114–94, div. A, title V][/us/pl/114/94/dA/tV], § 5508(b), Dec. 4, 2015, [129 Stat. 1554][/us/stat/129/1554], provided that the amendment made by section 5508(b)(4) is effective as of July 6, 2012, and as if included in [Pub. L. 112–141][/us/pl/112/141] as enacted.
 
  __Effective and Termination Dates of 2012 Amendment__ 
 
     Amendment by sections 32202, 32603(e), and 32707(a) effective Oct. 1, 2012, see [section 3(a) of Pub. L. 112–141][/us/pl/112/141/s3/a], set out as a note under [section 101 of Title 23][/us/usc/t23/s101], Highways.
 
-[Pub. L. 112–141, div. C, title II, § 32102(b)][/us/pl/112/141/s32102/b], July 6, 2012, [126 Stat. 778][/us/stat/126/778], provided that: 
+[Pub. L. 112–141, div. C, title II][/us/pl/112/141/dC/tII], § 32102(b), July 6, 2012, [126 Stat. 778][/us/stat/126/778], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall take effect 1 year after the date of enactment of this Act \[see section 3(a), (b) of [Pub. L. 112–141][/us/pl/112/141], set out as notes under [section 101 of Title 23][/us/usc/t23/s101], Highways\].”
 
@@ -393,7 +393,7 @@ Oct. 30, 1984, Pub. L. 98–554, § 215, 98 Stat. 2844.  </td>
 
  __High Risk Carrier Reviews__ 
 
-[Pub. L. 114–94, div. A, title V, § 5305(a)][/us/pl/114/94/s5305/a], (b), Dec. 4, 2015, [129 Stat. 1544][/us/stat/129/1544], provided that:
+[Pub. L. 114–94, div. A, title V][/us/pl/114/94/dA/tV], § 5305(a), (b), Dec. 4, 2015, [129 Stat. 1544][/us/stat/129/1544], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -403,11 +403,11 @@ Oct. 30, 1984, Pub. L. 98–554, § 215, 98 Stat. 2844.  </td>
 
 >     The Secretary shall post on a public Web site a report on the actions the Secretary has taken to comply with this section, including the number of high risk carriers identified and the high risk carriers reviewed.”
 
-    [Pub. L. 109–59, title IV, § 4138][/us/pl/109/59/s4138], Aug. 10, 2005, [119 Stat. 1745][/us/stat/119/1745], which required completion of high risk carrier compliance reviews, was repealed by [Pub. L. 114–94, div. A, title V, § 5305(c)][/us/pl/114/94/s5305/c], Dec. 4, 2015, [129 Stat. 1544][/us/stat/129/1544].
+    [Pub. L. 109–59, title IV][/us/pl/109/59/tIV], § 4138, Aug. 10, 2005, [119 Stat. 1745][/us/stat/119/1745], which required completion of high risk carrier compliance reviews, was repealed by [Pub. L. 114–94, div. A, title V][/us/pl/114/94/dA/tV], § 5305(c), Dec. 4, 2015, [129 Stat. 1544][/us/stat/129/1544].
 
  __Minimum Requirements__ 
 
-[Pub. L. 106–159, title II, § 210(b)][/us/pl/106/159/s210/b], Dec. 9, 1999, [113 Stat. 1765][/us/stat/113/1765], as amended by [Pub. L. 112–141, div. C, title II, § 32101(c)][/us/pl/112/141/s32101/c], July 6, 2012, [126 Stat. 777][/us/stat/126/777], provided that: 
+[Pub. L. 106–159, title II][/us/pl/106/159/tII], § 210(b), Dec. 9, 1999, [113 Stat. 1765][/us/stat/113/1765], as amended by [Pub. L. 112–141, div. C, title II][/us/pl/112/141/dC/tII], § 32101(c), July 6, 2012, [126 Stat. 777][/us/stat/126/777], provided that: 
 
 > “The Secretary shall initiate a rulemaking to establish minimum requirements for applicant motor carriers, including foreign motor carriers, seeking Federal interstate operating authority to ensure applicant carriers are knowledgeable about applicable Federal motor carrier safety standards. As part of that rulemaking, the Secretary shall establish a proficiency examination for applicant motor carriers as well as other requirements to ensure such applicants understand applicable safety regulations, commercial regulations, and provisions of subpart H of part 37 of title 49, Code of Federal Regulations, or successor regulations before being granted operating authority.”
 
@@ -418,110 +418,110 @@ Oct. 30, 1984, Pub. L. 98–554, § 215, 98 Stat. 2844.  </td>
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1012
-[/us/pl/104/88/s104/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs104%2Fg
+[/us/pl/104/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtI
 [/us/stat/109/920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F920
-[/us/pl/105/178/s4009/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4009%2Fa
+[/us/pl/105/178/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtIV
 [/us/stat/112/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F405
-[/us/pl/106/159/s210/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2Fs210%2Fa
+[/us/pl/106/159/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2FtII
 [/us/stat/113/1764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1764
-[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIV
 [/us/stat/119/1720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1720
-[/us/pl/110/244/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs301%2Fb
+[/us/pl/110/244/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2FtIII
 [/us/stat/122/1616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1616
-[/us/pl/111/147/s422/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2Fs422%2Fe
+[/us/pl/111/147/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2FtIV
 [/us/stat/124/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F87
-[/us/pl/111/322/s2202/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F322%2Fs2202%2Fe
+[/us/pl/111/322/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F322%2FtII
 [/us/stat/124/3525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3525
-[/us/pl/112/5/s202/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F5%2Fs202%2Fe
+[/us/pl/112/5/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F5%2FtII
 [/us/stat/125/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F17
-[/us/pl/112/30/s122/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F30%2Fs122%2Fe
+[/us/pl/112/30/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F30%2FtI
 [/us/stat/125/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F349
-[/us/pl/112/102/s202/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F102%2Fs202%2Fe
+[/us/pl/112/102/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F102%2FtII
 [/us/stat/126/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F274
-[/us/pl/112/140/s202/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F140%2Fs202%2Fe
+[/us/pl/112/140/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F140%2FtII
 [/us/stat/126/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F395
-[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtII
 [/us/stat/126/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F778
-[/us/pl/113/159/s1102/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159%2Fs1102%2Fe
+[/us/pl/113/159/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159%2FtI
 [/us/stat/128/1844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1844
-[/us/pl/114/21/s1102/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F21%2Fs1102%2Fe
+[/us/pl/114/21/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F21%2FtI
 [/us/stat/129/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F222
-[/us/pl/114/41/s1102/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs1102%2Fe
+[/us/pl/114/41/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2FtI
 [/us/stat/129/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F449
-[/us/pl/114/73/s1102/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73%2Fs1102%2Fe
+[/us/pl/114/73/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73%2FtI
 [/us/stat/129/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F572
-[/us/pl/114/87/s1102/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F87%2Fs1102%2Fe
+[/us/pl/114/87/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F87%2FtI
 [/us/stat/129/681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F681
-[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtV
 [/us/stat/129/1525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1525
-[/us/pl/114/94/s5101/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5101%2Fe%2F1
+[/us/pl/114/94/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtV
 [/us/stat/129/1525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1525
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
-[/us/pl/114/94/s5101/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5101%2Fe%2F1
-[/us/pl/114/94/s5105/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5105%2Fd
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F87
 [/us/pl/114/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73
 [/us/pl/114/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41
 [/us/pl/114/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F21
-[/us/pl/114/94/s5508/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5508%2Fb%2F4
-[/us/pl/112/141/s32921/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32921%2Fb
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/113/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159
-[/us/pl/112/141/s32102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32102%2Fa
-[/us/pl/112/141/s112002/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs112002%2Fd
-[/us/pl/112/141/s32603/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32603%2Fe
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F140
 [/us/pl/112/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F102
-[/us/pl/112/141/s32921/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32921%2Fb
-[/us/pl/114/94/s5508/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5508%2Fb%2F4
-[/us/pl/112/141/s32202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32202
-[/us/pl/112/141/s32707/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32707%2Fa
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F30
 [/us/pl/112/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F5
 [/us/pl/111/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F322
 [/us/pl/111/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147
 [/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
-[/us/pl/109/59/s4114/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4114%2Fa
-[/us/pl/109/59/s7112/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7112%2Fc
-[/us/pl/110/244/s301/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs301%2Fb%2F2
-[/us/pl/109/59/s4107/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4107%2Fb%2F1
-[/us/pl/110/244/s301/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs301%2Fb%2F1
-[/us/pl/109/59/s7112/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7112%2Fb%2F1
-[/us/pl/109/59/s7112/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7112%2Fb%2F2
-[/us/pl/109/59/s4114/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4114%2Fb
-[/us/pl/109/59/s4114/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4114%2Fc%2F2
-[/us/pl/109/59/s4114/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4114%2Fc%2F1
-[/us/pl/110/244/s301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs301%2Fc
-[/us/pl/109/59/s4114/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4114%2Fc%2F1
-[/us/pl/110/244/s301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs301%2Fc
-[/us/pl/109/59/s7112/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7112%2Fc
-[/us/pl/110/244/s301/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs301%2Fb%2F2
-[/us/pl/109/59/s4114/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4114%2Fc%2F1
-[/us/pl/110/244/s301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs301%2Fc
-[/us/pl/109/59/s4107/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4107%2Fb%2F1
-[/us/pl/110/244/s301/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs301%2Fb%2F1
-[/us/pl/109/59/s4107/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4107%2Fb%2F2
-[/us/pl/110/244/s301/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs301%2Fb%2F1
-[/us/pl/109/59/s4114/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4114%2Fc%2F1
-[/us/pl/110/244/s301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs301%2Fc
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
 [/us/pl/106/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159
 [/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
-[/us/pl/104/88/s104/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs104%2Fg%2F1
-[/us/pl/104/88/s104/g/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs104%2Fg%2F4
+[/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
+[/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/114/94/s5105/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5105%2Fd
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/114/94/s5101/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5101%2Fe%2F1
 [/us/pl/114/94/s5101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5101%2Ff
 [/us/usc/t49/s31102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31102
-[/us/pl/114/94/s5508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5508%2Fb
+[/us/pl/114/94/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtV
 [/us/stat/129/1554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1554
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
-[/us/pl/112/141/s32102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32102%2Fb
+[/us/pl/112/141/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtII
 [/us/stat/126/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F778
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
@@ -550,15 +550,15 @@ Oct. 30, 1984, Pub. L. 98–554, § 215, 98 Stat. 2844.  </td>
 [/us/usc/t49/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1301
 [/us/pl/111/314/s4/d/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314%2Fs4%2Fd%2F8
 [/us/usc/t49/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs101
-[/us/pl/114/94/s5305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5305%2Fa
+[/us/pl/114/94/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtV
 [/us/stat/129/1544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1544
-[/us/pl/109/59/s4138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4138
+[/us/pl/109/59/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIV
 [/us/stat/119/1745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1745
-[/us/pl/114/94/s5305/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5305%2Fc
+[/us/pl/114/94/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtV
 [/us/stat/129/1544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1544
-[/us/pl/106/159/s210/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2Fs210%2Fb
+[/us/pl/106/159/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2FtII
 [/us/stat/113/1765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1765
-[/us/pl/112/141/s32101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32101%2Fc
+[/us/pl/112/141/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtII
 [/us/stat/126/777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F777
 
 

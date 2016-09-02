@@ -39,11 +39,11 @@
 
     (f) The Board shall, by regulation, establish rules to implement this section. The regulations shall provide for immediate disclosure and dissemination of rates and service terms, including classifications, rules, and practices, and their effective dates. Final regulations shall be adopted by the Board not later than 180 days after January 1, 1996.
 
-(Added [Pub. L. 104–88, title I, § 102(a)][/us/pl/104/88/s102/a], Dec. 29, 1995, [109 Stat. 830][/us/stat/109/830]; amended [Pub. L. 104–287, § 5(25)][/us/pl/104/287/s5/25], Oct. 11, 1996, [110 Stat. 3390][/us/stat/110/3390].)
+(Added [Pub. L. 104–88, title I][/us/pl/104/88/tI], § 102(a), Dec. 29, 1995, [109 Stat. 830][/us/stat/109/830]; amended [Pub. L. 104–287][/us/pl/104/287], § 5(25), Oct. 11, 1996, [110 Stat. 3390][/us/stat/110/3390].)
 
  __Prior Provisions__ 
 
-    A prior section 11101, [Pub. L. 95–473][/us/pl/95/473], Oct. 17, 1978, [92 Stat. 1419][/us/stat/92/1419]; [Pub. L. 96–258, § 1(10)][/us/pl/96/258/s1/10], June 3, 1980, [94 Stat. 426][/us/stat/94/426]; [Pub. L. 96–448, title II, § 222][/us/pl/96/448/s222], Oct. 14, 1980, [94 Stat. 1929][/us/stat/94/1929]; [Pub. L. 99–521, § 9(a)][/us/pl/99/521/s9/a], Oct. 22, 1986, [100 Stat. 2997][/us/stat/100/2997]; [Pub. L. 103–180, § 8][/us/pl/103/180/s8], Dec. 3, 1993, [107 Stat. 2052][/us/stat/107/2052], related to duties of carriers to provide transportation and service, prior to the general amendment of this subtitle by [Pub. L. 104–88, § 102(a)][/us/pl/104/88/s102/a]. See sections 11101, 13710, 14101, and 15701 of this title.
+    A prior section 11101, [Pub. L. 95–473][/us/pl/95/473], Oct. 17, 1978, [92 Stat. 1419][/us/stat/92/1419]; [Pub. L. 96–258][/us/pl/96/258], § 1(10), June 3, 1980, [94 Stat. 426][/us/stat/94/426]; [Pub. L. 96–448, title II][/us/pl/96/448/tII], § 222, Oct. 14, 1980, [94 Stat. 1929][/us/stat/94/1929]; [Pub. L. 99–521][/us/pl/99/521], § 9(a), Oct. 22, 1986, [100 Stat. 2997][/us/stat/100/2997]; [Pub. L. 103–180][/us/pl/103/180], § 8, Dec. 3, 1993, [107 Stat. 2052][/us/stat/107/2052], related to duties of carriers to provide transportation and service, prior to the general amendment of this subtitle by [Pub. L. 104–88][/us/pl/104/88], § 102(a). See sections 11101, 13710, 14101, and 15701 of this title.
 
  __Amendments__ 
 
@@ -62,21 +62,21 @@
 
 [/us/usc/t49/s10709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs10709
 [/us/usc/t7/s75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs75
-[/us/pl/104/88/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs102%2Fa
+[/us/pl/104/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtI
 [/us/stat/109/830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F830
-[/us/pl/104/287/s5/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F25
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3390
 [/us/pl/95/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F473
 [/us/stat/92/1419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1419
-[/us/pl/96/258/s1/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F258%2Fs1%2F10
+[/us/pl/96/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F258
 [/us/stat/94/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F426
-[/us/pl/96/448/s222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F448%2Fs222
+[/us/pl/96/448/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F448%2FtII
 [/us/stat/94/1929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1929
-[/us/pl/99/521/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F521%2Fs9%2Fa
+[/us/pl/99/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F521
 [/us/stat/100/2997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2997
-[/us/pl/103/180/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F180%2Fs8
+[/us/pl/103/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F180
 [/us/stat/107/2052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2052
-[/us/pl/104/88/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs102%2Fa
+[/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/104/88/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs2

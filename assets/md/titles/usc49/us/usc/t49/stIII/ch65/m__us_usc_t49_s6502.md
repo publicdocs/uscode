@@ -59,7 +59,7 @@
 
         (4) any amendments to the strategic plan developed under section 6503.
 
-(Added [Pub. L. 114–94, div. A, title VI, § 6019(b)(1)][/us/pl/114/94/s6019/b/1], Dec. 4, 2015, [129 Stat. 1579][/us/stat/129/1579].)
+(Added [Pub. L. 114–94, div. A, title VI][/us/pl/114/94/dA/tVI], § 6019(b)(1), Dec. 4, 2015, [129 Stat. 1579][/us/stat/129/1579].)
 
  __Effective Date__ 
 
@@ -73,7 +73,7 @@
 ----------
 
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
-[/us/pl/114/94/s6019/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs6019%2Fb%2F1
+[/us/pl/114/94/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtVI
 [/us/stat/129/1579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1579
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313

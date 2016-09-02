@@ -33,7 +33,7 @@
 
         (2) If an individual member of a group taking an official action referred to in paragraph (1) does not participate in it, the written statement of the action shall indicate that the member did not participate. An individual participating in taking an official action is entitled to express the views of that individual as part of the written statement of the action. In addition to any publication of the written statement, it shall be made available to the public under [section 552(a) of title 5][/us/usc/t5/s552/a].
 
-(Added [Pub. L. 104–88, title II, § 201(a)][/us/pl/104/88/s201/a], Dec. 29, 1995, [109 Stat. 934][/us/stat/109/934], § 706; renumbered § 1306, [Pub. L. 114–110, § 3(a)(3)][/us/pl/114/110/s3/a/3], Dec. 18, 2015, [129 Stat. 2228][/us/stat/129/2228].)
+(Added [Pub. L. 104–88, title II][/us/pl/104/88/tII], § 201(a), Dec. 29, 1995, [109 Stat. 934][/us/stat/109/934], § 706; renumbered § 1306, [Pub. L. 114–110][/us/pl/114/110], § 3(a)(3), Dec. 18, 2015, [129 Stat. 2228][/us/stat/129/2228].)
 
  __Amendments__ 
 
@@ -47,9 +47,9 @@
 ----------
 
 [/us/usc/t5/s552/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fa
-[/us/pl/104/88/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs201%2Fa
+[/us/pl/104/88/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtII
 [/us/stat/109/934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F934
-[/us/pl/114/110/s3/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F110%2Fs3%2Fa%2F3
+[/us/pl/114/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F110
 [/us/stat/129/2228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2228
 [/us/pl/114/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F110
 [/us/usc/t49/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs706

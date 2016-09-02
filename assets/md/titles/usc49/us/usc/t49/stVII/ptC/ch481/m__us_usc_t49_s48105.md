@@ -23,7 +23,7 @@
 
     (3) for the fiscal year ending September 30, 1995, $39,000,000.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1296][/us/stat/108/1296].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1296][/us/stat/108/1296].)
 
 <table>
 
@@ -81,7 +81,7 @@ Sept. 3, 1982, Pub. L. 97–248, § 506(d), 96 Stat. 678; Dec. 30, 1987, Pub. 
 ----------
 
 [/us/usc/t49/s48104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs48104
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1296
 
 

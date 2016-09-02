@@ -99,7 +99,7 @@
 
         (2) in advancing to the Secretary of the Treasury amounts for costs incurred under this section and [section 30146 of this title][/us/usc/t49/s30146] to reimburse the Secretary of the Treasury for those costs.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 960][/us/stat/108/960]; [Pub. L. 103–429, § 6(23)][/us/pl/103/429/s6/23], Oct. 31, 1994, [108 Stat. 4380][/us/stat/108/4380].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 960][/us/stat/108/960]; [Pub. L. 103–429][/us/pl/103/429], § 6(23), Oct. 31, 1994, [108 Stat. 4380][/us/stat/108/4380].)
 
 <table>
 
@@ -248,9 +248,9 @@ Sept. 9, 1966, Pub. L. 89–563, 80 Stat. 718, § 108(c)(2), (3)(A)–(D); add
 [/us/usc/t49/s30115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30115
 [/us/usc/t49/s30146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30146
 [/us/usc/t49/s30146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30146
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F960
-[/us/pl/103/429/s6/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F23
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/stat/108/4380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4380
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429

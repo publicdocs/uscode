@@ -121,11 +121,11 @@
 
         Not later than 12 months after January 1, 1996, the Secretary shall submit to Congress a report on the results of the study, together with any recommendations of the Secretary (including legislative recommendations) for implementing modifications or reforms identified by the Secretary as being appropriate.
 
-(Added [Pub. L. 104–88, title I, § 103][/us/pl/104/88/s103], Dec. 29, 1995, [109 Stat. 907][/us/stat/109/907]; amended [Pub. L. 104–287, § 5(38)][/us/pl/104/287/s5/38], Oct. 11, 1996, [110 Stat. 3392][/us/stat/110/3392]; [Pub. L. 109–59, title IV, § 4207][/us/pl/109/59/s4207], Aug. 10, 2005, [119 Stat. 1757][/us/stat/119/1757].)
+(Added [Pub. L. 104–88, title I][/us/pl/104/88/tI], § 103, Dec. 29, 1995, [109 Stat. 907][/us/stat/109/907]; amended [Pub. L. 104–287][/us/pl/104/287], § 5(38), Oct. 11, 1996, [110 Stat. 3392][/us/stat/110/3392]; [Pub. L. 109–59, title IV][/us/pl/109/59/tIV], § 4207, Aug. 10, 2005, [119 Stat. 1757][/us/stat/119/1757].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in sections 10730 and 11707 of this title prior to the general amendment of this subtitle by [Pub. L. 104–88, § 102(a)][/us/pl/104/88/s102/a].
+    Provisions similar to those in this section were contained in sections 10730 and 11707 of this title prior to the general amendment of this subtitle by [Pub. L. 104–88][/us/pl/104/88], § 102(a).
 
  __Amendments__ 
 
@@ -135,7 +135,7 @@
 
  __Review of Liability of Carriers__ 
 
-[Pub. L. 109–59, title IV, § 4215][/us/pl/109/59/s4215], Aug. 10, 2005, [119 Stat. 1760][/us/stat/119/1760], provided that:
+[Pub. L. 109–59, title IV][/us/pl/109/59/tIV], § 4215, Aug. 10, 2005, [119 Stat. 1760][/us/stat/119/1760], provided that:
 
 >     “(a)  __Review__  __.—__ 
 
@@ -160,16 +160,16 @@
 ----------
 ----------
 
-[/us/pl/104/88/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs103
+[/us/pl/104/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtI
 [/us/stat/109/907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F907
-[/us/pl/104/287/s5/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F38
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3392
-[/us/pl/109/59/s4207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4207
+[/us/pl/109/59/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIV
 [/us/stat/119/1757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1757
-[/us/pl/104/88/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs102%2Fa
+[/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
-[/us/pl/109/59/s4215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4215
+[/us/pl/109/59/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIV
 [/us/stat/119/1760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1760
 [/us/pl/109/59/s4215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4215
 [/us/pl/109/59/s4202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4202%2Fa

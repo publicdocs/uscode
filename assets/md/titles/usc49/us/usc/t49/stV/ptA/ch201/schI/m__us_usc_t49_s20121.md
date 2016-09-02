@@ -17,7 +17,7 @@
 
     The Secretary of Transportation may receive and expend cash, or receive and utilize spare parts and similar items, from non-United States Government sources to repair damages to or replace United States Government-owned automated track inspection cars and equipment as a result of third-party liability for such damages, and any amounts collected under this section shall be credited directly to the Railroad Safety and Operations account of the Federal Railroad Administration and shall remain available until expended for the repair, operation, and maintenance of automated track inspection cars and equipment in connection with the automated track inspection program.
 
-(Added [Pub. L. 114–94, div. A, title XI, § 11413(a)][/us/pl/114/94/s11413/a], Dec. 4, 2015, [129 Stat. 1688][/us/stat/129/1688].)
+(Added [Pub. L. 114–94, div. A, title XI][/us/pl/114/94/dA/tXI], § 11413(a), Dec. 4, 2015, [129 Stat. 1688][/us/stat/129/1688].)
 
  __Effective Date__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/114/94/s11413/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11413%2Fa
+[/us/pl/114/94/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtXI
 [/us/stat/129/1688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1688
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313

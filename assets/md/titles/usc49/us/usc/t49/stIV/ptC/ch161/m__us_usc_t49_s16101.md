@@ -41,7 +41,7 @@
 
     Trial in a civil action under this section is in the judicial district in which the carrier has its principal operating office.
 
-(Added [Pub. L. 104–88, title I, § 106(a)][/us/pl/104/88/s106/a], Dec. 29, 1995, [109 Stat. 930][/us/stat/109/930]; amended [Pub. L. 105–102, § 2(16)][/us/pl/105/102/s2/16], Nov. 20, 1997, [111 Stat. 2205][/us/stat/111/2205].)
+(Added [Pub. L. 104–88, title I][/us/pl/104/88/tI], § 106(a), Dec. 29, 1995, [109 Stat. 930][/us/stat/109/930]; amended [Pub. L. 105–102][/us/pl/105/102], § 2(16), Nov. 20, 1997, [111 Stat. 2205][/us/stat/111/2205].)
 
  __Historical and Revision Notes__ 
 
@@ -51,7 +51,7 @@
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [section 11901 of this title][/us/usc/t49/s11901] prior to the general amendment of this subtitle by [Pub. L. 104–88, § 102(a)][/us/pl/104/88/s102/a].
+    Provisions similar to those in this section were contained in [section 11901 of this title][/us/usc/t49/s11901] prior to the general amendment of this subtitle by [Pub. L. 104–88][/us/pl/104/88], § 102(a).
 
  __Amendments__ 
 
@@ -68,13 +68,13 @@
 ----------
 ----------
 
-[/us/pl/104/88/s106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs106%2Fa
+[/us/pl/104/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtI
 [/us/stat/109/930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F930
-[/us/pl/105/102/s2/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102%2Fs2%2F16
+[/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/stat/111/2205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2205
 [/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/usc/t49/s11901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs11901
-[/us/pl/104/88/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs102%2Fa
+[/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/104/88/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs2

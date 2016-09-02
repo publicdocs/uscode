@@ -15,9 +15,9 @@
 
 # Title 49—TRANSPORTATION
 
-This title was enacted by [Pub. L. 95–473, § 1][/us/pl/95/473/s1], Oct. 17, 1978, [92 Stat. 1337][/us/stat/92/1337]; [Pub. L. 97–449, § 1][/us/pl/97/449/s1], Jan. 12, 1983, [96 Stat. 2413][/us/stat/96/2413]; [Pub. L. 103–272][/us/pl/103/272], July 5, 1994, [108 Stat. 745][/us/stat/108/745]
+This title was enacted by [Pub. L. 95–473][/us/pl/95/473], § 1, Oct. 17, 1978, [92 Stat. 1337][/us/stat/92/1337]; [Pub. L. 97–449][/us/pl/97/449], § 1, Jan. 12, 1983, [96 Stat. 2413][/us/stat/96/2413]; [Pub. L. 103–272][/us/pl/103/272], July 5, 1994, [108 Stat. 745][/us/stat/108/745]
 
-Current through 114-115not95
+Current through 114-115
 
 <table>
 
@@ -135,15 +135,15 @@ Current through 114-115not95
 
  __Amendments__ 
 
-    2015—[Pub. L. 114–94, div. A, title VIII, § 8001(b)][/us/pl/114/94/s8001/b], Dec. 4, 2015, [129 Stat. 1612][/us/stat/129/1612], substituted “Multimodal Freight Transportation …70101” for “\[TRANSFERRED\]” in item for subtitle IX.
+    2015—[Pub. L. 114–94, div. A, title VIII][/us/pl/114/94/dA/tVIII], § 8001(b), Dec. 4, 2015, [129 Stat. 1612][/us/stat/129/1612], substituted “Multimodal Freight Transportation …70101” for “\[TRANSFERRED\]” in item for subtitle IX.
 
-    2010—[Pub. L. 111–314, § 4(d)(1)(A)][/us/pl/111/314/s4/d/1/A], Dec. 18, 2010, [124 Stat. 3440][/us/stat/124/3440], substituted “\[TRANSFERRED\]” for “COMMERCIAL SPACE TRANSPORTATION …70101” in item for subtitle IX.
+    2010—[Pub. L. 111–314][/us/pl/111/314], § 4(d)(1)(A), Dec. 18, 2010, [124 Stat. 3440][/us/stat/124/3440], substituted “\[TRANSFERRED\]” for “COMMERCIAL SPACE TRANSPORTATION …70101” in item for subtitle IX.
 
-    1995—[Pub. L. 104–88, title I, § 102(b)][/us/pl/104/88/s102/b], Dec. 29, 1995, [109 Stat. 852][/us/stat/109/852], as amended by [Pub. L. 104–287, § 6(f)(1)][/us/pl/104/287/s6/f/1], Oct. 11, 1996, [110 Stat. 3399][/us/stat/110/3399], substituted “TRANSPORTATION” for “COMMERCE” in item for subtitle IV.
+    1995—[Pub. L. 104–88, title I][/us/pl/104/88/tI], § 102(b), Dec. 29, 1995, [109 Stat. 852][/us/stat/109/852], as amended by [Pub. L. 104–287][/us/pl/104/287], § 6(f)(1), Oct. 11, 1996, [110 Stat. 3399][/us/stat/110/3399], substituted “TRANSPORTATION” for “COMMERCE” in item for subtitle IV.
 
-    1994—[Pub. L. 103–272, § 1(b)][/us/pl/103/272/s1/b], July 5, 1994, [108 Stat. 745][/us/stat/108/745], amended subtitle analysis generally, substituting “OTHER GOVERNMENT AGENCIES …1101” for “TRANSPORTATION PROGRAMS …3101” in item for subtitle II, “GENERAL AND INTERMODAL PROGRAMS …5101” for “\[RESERVED—AIR TRANSPORTATION\]” in item for subtitle III, and “RAIL PROGRAMS …20101” for “\[RESERVED—MISCELLANEOUS\]” in item for subtitle V, and adding items for subtitles VI, VII, VIII, IX, and X.
+    1994—[Pub. L. 103–272][/us/pl/103/272], § 1(b), July 5, 1994, [108 Stat. 745][/us/stat/108/745], amended subtitle analysis generally, substituting “OTHER GOVERNMENT AGENCIES …1101” for “TRANSPORTATION PROGRAMS …3101” in item for subtitle II, “GENERAL AND INTERMODAL PROGRAMS …5101” for “\[RESERVED—AIR TRANSPORTATION\]” in item for subtitle III, and “RAIL PROGRAMS …20101” for “\[RESERVED—MISCELLANEOUS\]” in item for subtitle V, and adding items for subtitles VI, VII, VIII, IX, and X.
 
-    1983—[Pub. L. 97–449, § 1(b)][/us/pl/97/449/s1/b], Jan. 12, 1983, [96 Stat. 2413][/us/stat/96/2413], amended subtitle analysis generally, substituting “DEPARTMENT OF TRANSPORTATION …101” for “\[RESERVED—DEPARTMENT OF TRANSPORTATION\]” in item for subtitle I and “TRANSPORTATION PROGRAMS …3101” for “\[RESERVED—TRANSPORTATION PROGRAMS\]” in item for subtitle II.
+    1983—[Pub. L. 97–449][/us/pl/97/449], § 1(b), Jan. 12, 1983, [96 Stat. 2413][/us/stat/96/2413], amended subtitle analysis generally, substituting “DEPARTMENT OF TRANSPORTATION …101” for “\[RESERVED—DEPARTMENT OF TRANSPORTATION\]” in item for subtitle I and “TRANSPORTATION PROGRAMS …3101” for “\[RESERVED—TRANSPORTATION PROGRAMS\]” in item for subtitle II.
 
 <table>
 
@@ -22399,25 +22399,25 @@ Rep.  </td>
 
  __Enacting Clauses__ 
 
-[Pub. L. 103–272, § 1(a)][/us/pl/103/272/s1/a], July 5, 1994, [108 Stat. 745][/us/stat/108/745], provided that: 
+[Pub. L. 103–272][/us/pl/103/272], § 1(a), July 5, 1994, [108 Stat. 745][/us/stat/108/745], provided that: 
 
 > “Certain general and permanent laws of the United States, related to transportation, are revised, codified, and enacted by subsections (c)–(e) of this section without substantive change as subtitles II, III, and V–X of title 49, United States Code, ‘Transportation’. Those laws may be cited as ‘49 U.S.C. ————’.”
 
-[Pub. L. 97–449, § 1(a)][/us/pl/97/449/s1/a], Jan. 12, 1983, [96 Stat. 2413][/us/stat/96/2413], provided that: 
+[Pub. L. 97–449][/us/pl/97/449], § 1(a), Jan. 12, 1983, [96 Stat. 2413][/us/stat/96/2413], provided that: 
 
 > “Certain general and permanent laws of the United States, related to transportation, are revised, codified, and enacted by subsection (b) of this section without substantive change as subtitle I and chapter 31 of subtitle II of title 49, United States Code, ‘Transportation’. Those laws may be cited as ‘49 U.S.C. § ————’.”
 
-[Pub. L. 95–473, § 1][/us/pl/95/473/s1], Oct. 17, 1978, [92 Stat. 1337][/us/stat/92/1337], provided in part: 
+[Pub. L. 95–473][/us/pl/95/473], § 1, Oct. 17, 1978, [92 Stat. 1337][/us/stat/92/1337], provided in part: 
 
 > “That certain general and permanent laws of the United States, related to transportation, are revised, codified, and enacted as \[subtitle IV of\] title 49, United States Code, ‘Transportation’.”
 
  __Clarification of Congressional Intent__ 
 
-    [Pub. L. 100–561, title III, § 308][/us/pl/100/561/s308], Oct. 31, 1988, [102 Stat. 2817][/us/stat/102/2817], which provided that [Pub. L. 95–473][/us/pl/95/473] did not repeal and had no substantive effect on any rights, obligations, liabilities, or remedies of oil pipelines, including those arising under any provisions of the Interstate Commerce Act or the Pomerene Bills of Lading Act, before any Federal department or agency or official thereof or a court of competent jurisdiction, was repealed and reenacted as [section 60503 of this title][/us/usc/t49/s60503] by [Pub. L. 103–272][/us/pl/103/272], §§ 1(e), 7(b), July 5, 1994, [108 Stat. 1329][/us/stat/108/1329], 1379.
+    [Pub. L. 100–561, title III][/us/pl/100/561/tIII], § 308, Oct. 31, 1988, [102 Stat. 2817][/us/stat/102/2817], which provided that [Pub. L. 95–473][/us/pl/95/473] did not repeal and had no substantive effect on any rights, obligations, liabilities, or remedies of oil pipelines, including those arising under any provisions of the Interstate Commerce Act or the Pomerene Bills of Lading Act, before any Federal department or agency or official thereof or a court of competent jurisdiction, was repealed and reenacted as [section 60503 of this title][/us/usc/t49/s60503] by [Pub. L. 103–272][/us/pl/103/272], §§ 1(e), 7(b), July 5, 1994, [108 Stat. 1329][/us/stat/108/1329], 1379.
 
  __Legislative Purpose and Construction__ 
 
-[Pub. L. 105–102, § 4][/us/pl/105/102/s4], Nov. 20, 1997, [111 Stat. 2216][/us/stat/111/2216], provided that:
+[Pub. L. 105–102][/us/pl/105/102], § 4, Nov. 20, 1997, [111 Stat. 2216][/us/stat/111/2216], provided that:
 
 >     “(a)  __No Substantive Change__  __.—__ 
 
@@ -22443,7 +22443,7 @@ Rep.  </td>
 
 >     If a provision enacted by this Act is held invalid, all valid provisions that are severable from the invalid provision remain in effect. If a provision enacted by this Act is held invalid in any of its applications, the provision remains valid for all valid applications that are severable from any of the invalid applications.”
 
-[Pub. L. 104–287, § 9][/us/pl/104/287/s9], Oct. 11, 1996, [110 Stat. 3400][/us/stat/110/3400], provided that:
+[Pub. L. 104–287][/us/pl/104/287], § 9, Oct. 11, 1996, [110 Stat. 3400][/us/stat/110/3400], provided that:
 
 >     “(a)  __No Substantive Change__  __.—__ 
 
@@ -22469,7 +22469,7 @@ Rep.  </td>
 
 >     If a provision enacted by this Act is held invalid, all valid provisions that are severable from the invalid provision remain in effect. If a provision enacted by this Act is held invalid in any of its applications, the provision remains valid for all valid applications that are severable from any of the invalid applications.”
 
-[Pub. L. 103–429, § 10][/us/pl/103/429/s10], Oct. 31, 1994, [108 Stat. 4391][/us/stat/108/4391], provided that:
+[Pub. L. 103–429][/us/pl/103/429], § 10, Oct. 31, 1994, [108 Stat. 4391][/us/stat/108/4391], provided that:
 
 >     “(a)  __No Substantive Change__  __.—__ 
 
@@ -22495,7 +22495,7 @@ Rep.  </td>
 
 >     If a provision enacted by this Act is held invalid, all valid provisions that are severable from the invalid provision remain in effect. If a provision enacted by this Act is held invalid in any of its applications, the provision remains valid for all valid applications that are severable from any of the invalid applications.”
 
-[Pub. L. 103–272, § 6][/us/pl/103/272/s6], July 5, 1994, [108 Stat. 1378][/us/stat/108/1378], provided that:
+[Pub. L. 103–272][/us/pl/103/272], § 6, July 5, 1994, [108 Stat. 1378][/us/stat/108/1378], provided that:
 
 >     “(a) Sections 1–4 of this Act restate, without substantive change, laws enacted before July 1, 1993, that were replaced by those sections. Those sections may not be construed as making a substantive change in the laws replaced. Laws enacted after June 30, 1993, that are inconsistent with this Act supersede this Act to the extent of the inconsistency.
 
@@ -22509,7 +22509,7 @@ Rep.  </td>
 
 >     “(f) If a provision enacted by this Act is held invalid, all valid provisions that are severable from the invalid provision remain in effect. If a provision enacted by this Act is held invalid in any of its applications, the provision remains valid for all valid applications that are severable from any of the invalid applications.”
 
-[Pub. L. 98–216, § 5][/us/pl/98/216/s5], Feb. 14, 1984, [98 Stat. 7][/us/stat/98/7], provided that:
+[Pub. L. 98–216][/us/pl/98/216], § 5, Feb. 14, 1984, [98 Stat. 7][/us/stat/98/7], provided that:
 
 >     “(a) Sections 1–4 of this Act restate, without substantive change, laws enacted before April 1, 1983, that were replaced by those sections. Sections 1–4 may not be construed as making a substantive change in the laws replaced. Laws enacted after March 31, 1983, that are inconsistent with this Act supersede this Act to the extent of the inconsistency.
 
@@ -22523,7 +22523,7 @@ Rep.  </td>
 
 >     “(f) If a provision enacted by this Act is held invalid, all valid provisions that are severable from the invalid provision remain in effect. If a provision of this Act is held invalid in any of its applications, the provision remains valid for all valid applications that are severable from any of the invalid applications.”
 
-[Pub. L. 97–449, § 6][/us/pl/97/449/s6], Jan. 12, 1983, [96 Stat. 2443][/us/stat/96/2443], provided that:
+[Pub. L. 97–449][/us/pl/97/449], § 6, Jan. 12, 1983, [96 Stat. 2443][/us/stat/96/2443], provided that:
 
 >     “(a) Sections 1–5 of this Act restate, without substantive change, laws enacted before November 15, 1982, that were replaced by those sections. Those sections may not be construed as making a substantive change in the laws replaced. Laws enacted after November 14, 1982, that are inconsistent with this Act supersede this Act to the extent of the inconsistency.
 
@@ -22537,7 +22537,7 @@ Rep.  </td>
 
 >     “(f) If a provision enacted by this Act is held invalid, all valid provisions that are severable from the invalid provision remain in effect. If a provision of this Act is held invalid in any of its applications, the provision remains valid for all valid applications that are severable from any of the invalid applications.”
 
-[Pub. L. 96–258, § 2][/us/pl/96/258/s2], June 3, 1980, [94 Stat. 427][/us/stat/94/427], provided that:
+[Pub. L. 96–258][/us/pl/96/258], § 2, June 3, 1980, [94 Stat. 427][/us/stat/94/427], provided that:
 
 >     “(a) Section 1 of this Act \[enacting [section 11351 of this title][/us/usc/t49/s11351] and amending sections 10324, 10327, 10382, 10525, 10526, 10544, 10706, 10784, 10923, 11101, 11121, 11304, 11707, 11909, 11912, and 11914 of this title\] restates, without substantive change, laws enacted before April 24, 1979, that were replaced by that section. That section may not be construed as making a substantive change in the laws replaced. Laws enacted after April 23, 1979, that are inconsistent with this Act are considered as superseding it to the extent of the inconsistency.
 
@@ -22551,7 +22551,7 @@ Rep.  </td>
 
 >     “(f) If a provision enacted by this Act is held invalid, all valid provisions that are severable from the invalid provision remain in effect. If a provision of this Act is held invalid in any of its applications, the provision remains valid for all valid applications that are severable from any of the invalid applications.”
 
-[Pub. L. 95–473, § 3][/us/pl/95/473/s3], Oct. 17, 1978, [92 Stat. 1466][/us/stat/92/1466], provided that:
+[Pub. L. 95–473][/us/pl/95/473], § 3, Oct. 17, 1978, [92 Stat. 1466][/us/stat/92/1466], provided that:
 
 >     “(a) Sections 1 and 2 of this Act restate, without substantive change, laws enacted before May 16, 1978, that were replaced by those sections. Those sections may not be construed as making a substantive change in the laws replaced. Laws enacted after May 15, 1978, that are inconsistent with this Act are considered as superseding it to the extent of the inconsistency.
 
@@ -22567,59 +22567,59 @@ Rep.  </td>
 
  __Repeals and Savings Provisions__ 
 
-[Pub. L. 105–102, § 5(a)][/us/pl/105/102/s5/a], Nov. 20, 1997, [111 Stat. 2216][/us/stat/111/2216], provided that: 
+[Pub. L. 105–102][/us/pl/105/102], § 5(a), Nov. 20, 1997, [111 Stat. 2216][/us/stat/111/2216], provided that: 
 
 > “The repeal of a law by this Act may not be construed as a legislative inference that the provision was or was not in effect before its repeal.”
 
-    [Pub. L. 105–102, § 5(b)][/us/pl/105/102/s5/b], Nov. 20, 1997, [111 Stat. 2217][/us/stat/111/2217], as amended by [Pub. L. 105–225, § 7(c)(2)][/us/pl/105/225/s7/c/2], Aug. 12, 1998, [112 Stat. 1511][/us/stat/112/1511], repealed specified laws, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Nov. 20, 1997.
+    [Pub. L. 105–102][/us/pl/105/102], § 5(b), Nov. 20, 1997, [111 Stat. 2217][/us/stat/111/2217], as amended by [Pub. L. 105–225][/us/pl/105/225], § 7(c)(2), Aug. 12, 1998, [112 Stat. 1511][/us/stat/112/1511], repealed specified laws, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Nov. 20, 1997.
 
-[Pub. L. 104–287, § 10(a)][/us/pl/104/287/s10/a], Oct. 11, 1996, [110 Stat. 3401][/us/stat/110/3401], provided that: 
-
-> “The repeal of a law by this Act may not be construed as a legislative inference that the provision was or was not in effect before its repeal.”
-
-    [Pub. L. 104–287, § 10(b)][/us/pl/104/287/s10/b], Oct. 11, 1996, [110 Stat. 3401][/us/stat/110/3401], repealed specified laws, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Oct. 11, 1996.
-
-[Pub. L. 103–429, § 11(a)][/us/pl/103/429/s11/a], Oct. 31, 1994, [108 Stat. 4391][/us/stat/108/4391], provided that: 
+[Pub. L. 104–287][/us/pl/104/287], § 10(a), Oct. 11, 1996, [110 Stat. 3401][/us/stat/110/3401], provided that: 
 
 > “The repeal of a law by this Act may not be construed as a legislative inference that the provision was or was not in effect before its repeal.”
 
-    [Pub. L. 103–429, § 11(b)][/us/pl/103/429/s11/b], Oct. 31, 1994, [108 Stat. 4391][/us/stat/108/4391], repealed specified laws, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Oct. 31, 1994.
+    [Pub. L. 104–287][/us/pl/104/287], § 10(b), Oct. 11, 1996, [110 Stat. 3401][/us/stat/110/3401], repealed specified laws, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Oct. 11, 1996.
 
-[Pub. L. 103–272, § 7(a)][/us/pl/103/272/s7/a], July 5, 1994, [108 Stat. 1379][/us/stat/108/1379], provided that: 
+[Pub. L. 103–429][/us/pl/103/429], § 11(a), Oct. 31, 1994, [108 Stat. 4391][/us/stat/108/4391], provided that: 
+
+> “The repeal of a law by this Act may not be construed as a legislative inference that the provision was or was not in effect before its repeal.”
+
+    [Pub. L. 103–429][/us/pl/103/429], § 11(b), Oct. 31, 1994, [108 Stat. 4391][/us/stat/108/4391], repealed specified laws, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Oct. 31, 1994.
+
+[Pub. L. 103–272][/us/pl/103/272], § 7(a), July 5, 1994, [108 Stat. 1379][/us/stat/108/1379], provided that: 
 
 > “The repeal of a law by this Act may not be construed as a legislative implication that the provision was or was not in effect before its repeal.”
 
-    [Pub. L. 103–272, § 7(b)][/us/pl/103/272/s7/b], July 5, 1994, [108 Stat. 1379][/us/stat/108/1379], as amended by [Pub. L. 103–429, § 7(a)(5)][/us/pl/103/429/s7/a/5], Oct. 31, 1994, [108 Stat. 4389][/us/stat/108/4389], repealed specified laws, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before July 5, 1994.
+    [Pub. L. 103–272][/us/pl/103/272], § 7(b), July 5, 1994, [108 Stat. 1379][/us/stat/108/1379], as amended by [Pub. L. 103–429][/us/pl/103/429], § 7(a)(5), Oct. 31, 1994, [108 Stat. 4389][/us/stat/108/4389], repealed specified laws, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before July 5, 1994.
 
-[Pub. L. 98–216, § 6(a)][/us/pl/98/216/s6/a], Feb. 14, 1984, [98 Stat. 7][/us/stat/98/7], provided that: 
+[Pub. L. 98–216][/us/pl/98/216], § 6(a), Feb. 14, 1984, [98 Stat. 7][/us/stat/98/7], provided that: 
 
 > “The repeal of a law enacted \[the word “enacted” probably should not appear\] by this Act may not be construed as a legislative inference that the provision was or was not in effect before its repeal.”
 
-    [Pub. L. 98–216, § 6(b)][/us/pl/98/216/s6/b], Feb. 14, 1984, [98 Stat. 7][/us/stat/98/7], repealed specified laws, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Feb. 14, 1984.
+    [Pub. L. 98–216][/us/pl/98/216], § 6(b), Feb. 14, 1984, [98 Stat. 7][/us/stat/98/7], repealed specified laws, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Feb. 14, 1984.
 
-[Pub. L. 97–449, § 7(a)][/us/pl/97/449/s7/a], Jan. 12, 1983, [96 Stat. 2443][/us/stat/96/2443], provided that: 
-
-> “The repeal of a law by this Act may not be construed as a legislative inference that the provision was or was not in effect before its repeal.”
-
-    [Pub. L. 97–449, § 7(b)][/us/pl/97/449/s7/b], Jan. 12, 1983, [96 Stat. 2443][/us/stat/96/2443], repealed specified laws, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Jan. 12, 1983.
-
-[Pub. L. 96–258, § 3(a)][/us/pl/96/258/s3/a], June 3, 1980, [94 Stat. 427][/us/stat/94/427], provided that: 
+[Pub. L. 97–449][/us/pl/97/449], § 7(a), Jan. 12, 1983, [96 Stat. 2443][/us/stat/96/2443], provided that: 
 
 > “The repeal of a law by this Act may not be construed as a legislative inference that the provision was or was not in effect before its repeal.”
 
-    [Pub. L. 96–258, § 3(b)][/us/pl/96/258/s3/b], June 3, 1980, [94 Stat. 427][/us/stat/94/427], repealed certain sections and parts of sections of the Interstate Commerce Act and certain other provisions relating to applicability of such Act, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before June 3, 1980.
+    [Pub. L. 97–449][/us/pl/97/449], § 7(b), Jan. 12, 1983, [96 Stat. 2443][/us/stat/96/2443], repealed specified laws, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Jan. 12, 1983.
 
-[Pub. L. 95–473, § 4(a)][/us/pl/95/473/s4/a], Oct. 17, 1978, [92 Stat. 1466][/us/stat/92/1466], provided that: 
+[Pub. L. 96–258][/us/pl/96/258], § 3(a), June 3, 1980, [94 Stat. 427][/us/stat/94/427], provided that: 
 
 > “The repeal of a law by this Act may not be construed as a legislative inference that the provision was or was not in effect before its repeal.”
 
-    [Pub. L. 95–473, § 4(b)][/us/pl/95/473/s4/b], Oct. 17, 1978, [92 Stat. 1466][/us/stat/92/1466], repealed the sections and parts of sections of the Interstate Commerce Act and certain other provisions relating to the applicability of such Act, except as provided in [section 4(c) of Pub. L. 95–473][/us/pl/95/473/s4/c] and except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Oct. 17, 1978.
+    [Pub. L. 96–258][/us/pl/96/258], § 3(b), June 3, 1980, [94 Stat. 427][/us/stat/94/427], repealed certain sections and parts of sections of the Interstate Commerce Act and certain other provisions relating to applicability of such Act, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before June 3, 1980.
 
-    [Pub. L. 95–473, § 4(c)][/us/pl/95/473/s4/c], Oct. 17, 1978, [92 Stat. 1470][/us/stat/92/1470], which provided that the laws specified in the schedule in [section 4(b) of Pub. L. 95–473][/us/pl/95/473/s4/b], as they existed on Oct. 1, 1977, were not repealed to the extent those laws (A) vested functions in the Interstate Commerce Commission, or in the chairman or members of the Commission, related to transportation of oil by pipeline, and (B) vested functions and authority in the Commission, or an officer or component of the Commission, related to the establishment of rates or charges for transportation of oil by pipeline or valuation of any such pipeline, and those functions and authority were transferred by sections 7155 and 7172(b) of Title 42, The Public Health and Welfare, was repealed and reenacted in sections 60501 and 60502 of this title by [Pub. L. 103–272][/us/pl/103/272], §§ 1(e), 7(b), July 5, 1994, [108 Stat. 1329][/us/stat/108/1329], 1379.
+[Pub. L. 95–473][/us/pl/95/473], § 4(a), Oct. 17, 1978, [92 Stat. 1466][/us/stat/92/1466], provided that: 
+
+> “The repeal of a law by this Act may not be construed as a legislative inference that the provision was or was not in effect before its repeal.”
+
+    [Pub. L. 95–473][/us/pl/95/473], § 4(b), Oct. 17, 1978, [92 Stat. 1466][/us/stat/92/1466], repealed the sections and parts of sections of the Interstate Commerce Act and certain other provisions relating to the applicability of such Act, except as provided in [section 4(c) of Pub. L. 95–473][/us/pl/95/473/s4/c] and except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Oct. 17, 1978.
+
+    [Pub. L. 95–473][/us/pl/95/473], § 4(c), Oct. 17, 1978, [92 Stat. 1470][/us/stat/92/1470], which provided that the laws specified in the schedule in [section 4(b) of Pub. L. 95–473][/us/pl/95/473/s4/b], as they existed on Oct. 1, 1977, were not repealed to the extent those laws (A) vested functions in the Interstate Commerce Commission, or in the chairman or members of the Commission, related to transportation of oil by pipeline, and (B) vested functions and authority in the Commission, or an officer or component of the Commission, related to the establishment of rates or charges for transportation of oil by pipeline or valuation of any such pipeline, and those functions and authority were transferred by sections 7155 and 7172(b) of Title 42, The Public Health and Welfare, was repealed and reenacted in sections 60501 and 60502 of this title by [Pub. L. 103–272][/us/pl/103/272], §§ 1(e), 7(b), July 5, 1994, [108 Stat. 1329][/us/stat/108/1329], 1379.
 
  __Effective Date of Certain Repeals__ 
 
-[Pub. L. 95–473, § 4(d)][/us/pl/95/473/s4/d], Oct. 17, 1978, [92 Stat. 1470][/us/stat/92/1470], as amended by [Pub. L. 97–449, § 4(b)(3)][/us/pl/97/449/s4/b/3], Jan. 12, 1983, [96 Stat. 2441][/us/stat/96/2441], provided that: 
+[Pub. L. 95–473][/us/pl/95/473], § 4(d), Oct. 17, 1978, [92 Stat. 1470][/us/stat/92/1470], as amended by [Pub. L. 97–449][/us/pl/97/449], § 4(b)(3), Jan. 12, 1983, [96 Stat. 2441][/us/stat/96/2441], provided that: 
 
 > “The repeals, by subsection (b) of this section, of section 1(a)(25), (26) of the Act of July 3, 1952, chapter 570, the Act of June 30, 1953, chapter 165, and the Act of July 31, 1953, chapter 292, are effective on September 14, 1978.”
 
@@ -22630,98 +22630,98 @@ Rep.  </td>
 ----------
 ----------
 
-[/us/pl/95/473/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F473%2Fs1
+[/us/pl/95/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F473
 [/us/stat/92/1337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1337
-[/us/pl/97/449/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449%2Fs1
+[/us/pl/97/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449
 [/us/stat/96/2413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2413
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F745
-[/us/pl/114/94/s8001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs8001%2Fb
+[/us/pl/114/94/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtVIII
 [/us/stat/129/1612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1612
-[/us/pl/111/314/s4/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314%2Fs4%2Fd%2F1%2FA
+[/us/pl/111/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314
 [/us/stat/124/3440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3440
-[/us/pl/104/88/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs102%2Fb
+[/us/pl/104/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtI
 [/us/stat/109/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F852
-[/us/pl/104/287/s6/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs6%2Ff%2F1
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3399
-[/us/pl/103/272/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fb
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F745
-[/us/pl/97/449/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449%2Fs1%2Fb
+[/us/pl/97/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449
 [/us/stat/96/2413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2413
-[/us/pl/103/272/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fa
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F745
-[/us/pl/97/449/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449%2Fs1%2Fa
+[/us/pl/97/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449
 [/us/stat/96/2413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2413
-[/us/pl/95/473/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F473%2Fs1
+[/us/pl/95/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F473
 [/us/stat/92/1337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1337
-[/us/pl/100/561/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F561%2Fs308
+[/us/pl/100/561/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F561%2FtIII
 [/us/stat/102/2817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2817
 [/us/pl/95/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F473
 [/us/usc/t49/s60503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs60503
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1329
-[/us/pl/105/102/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102%2Fs4
+[/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/stat/111/2216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2216
-[/us/pl/104/287/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs9
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3400
-[/us/pl/103/429/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs10
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/stat/108/4391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4391
-[/us/pl/103/272/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs6
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1378
-[/us/pl/98/216/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F216%2Fs5
+[/us/pl/98/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F216
 [/us/stat/98/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F7
-[/us/pl/97/449/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449%2Fs6
+[/us/pl/97/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449
 [/us/stat/96/2443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2443
-[/us/pl/96/258/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F258%2Fs2
+[/us/pl/96/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F258
 [/us/stat/94/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F427
 [/us/usc/t49/s11351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs11351
-[/us/pl/95/473/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F473%2Fs3
+[/us/pl/95/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F473
 [/us/stat/92/1466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1466
-[/us/pl/105/102/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102%2Fs5%2Fa
+[/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/stat/111/2216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2216
-[/us/pl/105/102/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102%2Fs5%2Fb
+[/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/stat/111/2217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2217
-[/us/pl/105/225/s7/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225%2Fs7%2Fc%2F2
+[/us/pl/105/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225
 [/us/stat/112/1511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1511
-[/us/pl/104/287/s10/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs10%2Fa
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3401
-[/us/pl/104/287/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs10%2Fb
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3401
-[/us/pl/103/429/s11/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs11%2Fa
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/stat/108/4391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4391
-[/us/pl/103/429/s11/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs11%2Fb
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/stat/108/4391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4391
-[/us/pl/103/272/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs7%2Fa
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1379
-[/us/pl/103/272/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs7%2Fb
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1379
-[/us/pl/103/429/s7/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs7%2Fa%2F5
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/stat/108/4389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4389
-[/us/pl/98/216/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F216%2Fs6%2Fa
+[/us/pl/98/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F216
 [/us/stat/98/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F7
-[/us/pl/98/216/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F216%2Fs6%2Fb
+[/us/pl/98/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F216
 [/us/stat/98/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F7
-[/us/pl/97/449/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449%2Fs7%2Fa
+[/us/pl/97/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449
 [/us/stat/96/2443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2443
-[/us/pl/97/449/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449%2Fs7%2Fb
+[/us/pl/97/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449
 [/us/stat/96/2443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2443
-[/us/pl/96/258/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F258%2Fs3%2Fa
+[/us/pl/96/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F258
 [/us/stat/94/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F427
-[/us/pl/96/258/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F258%2Fs3%2Fb
+[/us/pl/96/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F258
 [/us/stat/94/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F427
-[/us/pl/95/473/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F473%2Fs4%2Fa
+[/us/pl/95/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F473
 [/us/stat/92/1466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1466
-[/us/pl/95/473/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F473%2Fs4%2Fb
+[/us/pl/95/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F473
 [/us/stat/92/1466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1466
 [/us/pl/95/473/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F473%2Fs4%2Fc
-[/us/pl/95/473/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F473%2Fs4%2Fc
+[/us/pl/95/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F473
 [/us/stat/92/1470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1470
 [/us/pl/95/473/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F473%2Fs4%2Fb
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1329
-[/us/pl/95/473/s4/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F473%2Fs4%2Fd
+[/us/pl/95/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F473
 [/us/stat/92/1470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1470
-[/us/pl/97/449/s4/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449%2Fs4%2Fb%2F3
+[/us/pl/97/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449
 [/us/stat/96/2441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2441
 
 

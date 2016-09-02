@@ -141,7 +141,7 @@
 
         (4) At least 90 days before submitting each report to Congress, the Secretary shall publish a proposed report for public review and an opportunity of at least 45 days for written comment. The Secretary shall consider those comments in preparing the report to be submitted and include a summary of the comments with the submitted report.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1089][/us/stat/108/1089].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1089][/us/stat/108/1089].)
 
 <table>
 
@@ -208,7 +208,7 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, § 617; added Oct. 25, 1984, Pu
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1089
 [/us/pl/98/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F547
 [/us/stat/98/2754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2754

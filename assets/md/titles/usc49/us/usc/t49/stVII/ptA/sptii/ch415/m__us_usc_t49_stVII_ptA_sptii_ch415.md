@@ -115,7 +115,7 @@
 
  __Amendments__ 
 
-    1997—[Pub. L. 105–102, § 2(21)][/us/pl/105/102/s2/21], Nov. 20, 1997, [111 Stat. 2205][/us/stat/111/2205], struck out “common” before “carriers” in item 41502.
+    1997—[Pub. L. 105–102][/us/pl/105/102], § 2(21), Nov. 20, 1997, [111 Stat. 2205][/us/stat/111/2205], struck out “common” before “carriers” in item 41502.
 
 ----------
 
@@ -124,7 +124,7 @@
 ----------
 ----------
 
-[/us/pl/105/102/s2/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102%2Fs2%2F21
+[/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/stat/111/2205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2205
 
 

@@ -43,7 +43,7 @@
 
     In any proceeding under this section, a railroad carrier is deemed to know the acts of its officers and agents.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 892][/us/stat/108/892]; [Pub. L. 103–440, title II, § 204][/us/pl/103/440/s204], Nov. 2, 1994, [108 Stat. 4620][/us/stat/108/4620]; [Pub. L. 104–287, § 5(54)][/us/pl/104/287/s5/54], Oct. 11, 1996, [110 Stat. 3393][/us/stat/110/3393]; [Pub. L. 110–432, div. A, title I, § 108(e)(2)(B)][/us/pl/110/432/s108/e/2/B], title III, § 302(c), Oct. 16, 2008, [122 Stat. 4866][/us/stat/122/4866], 4878.)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 892][/us/stat/108/892]; [Pub. L. 103–440, title II][/us/pl/103/440/tII], § 204, Nov. 2, 1994, [108 Stat. 4620][/us/stat/108/4620]; [Pub. L. 104–287][/us/pl/104/287], § 5(54), Oct. 11, 1996, [110 Stat. 3393][/us/stat/110/3393]; [Pub. L. 110–432, div. A, title I][/us/pl/110/432/dA/tI], § 108(e)(2)(B), title III, § 302(c), Oct. 16, 2008, [122 Stat. 4866][/us/stat/122/4866], 4878.)
 
 <table>
 
@@ -187,9 +187,9 @@ In subsection (a)(1), the words “(including but not limited to a railroad; any
 
  __Amendments__ 
 
-    2008—Subsec. (a)(1). [Pub. L. 110–432, § 108(e)(2)(B)][/us/pl/110/432/s108/e/2/B], inserted “including section 21103 (as such section was in effect on the day before the date of enactment of the Rail Safety Improvement Act of 2008),” after “chapter 211 of this title,”.
+    2008—Subsec. (a)(1). [Pub. L. 110–432][/us/pl/110/432], § 108(e)(2)(B), inserted “including section 21103 (as such section was in effect on the day before the date of enactment of the Rail Safety Improvement Act of 2008),” after “chapter 211 of this title,”.
 
-    Subsec. (a)(2). [Pub. L. 110–432, § 302(c)][/us/pl/110/432/s302/c], substituted “$25,000.” for “$10,000.” and “$100,000.” for “$20,000.”
+    Subsec. (a)(2). [Pub. L. 110–432][/us/pl/110/432], § 302(c), substituted “$25,000.” for “$10,000.” and “$100,000.” for “$20,000.”
 
     1996—Subsec. (a)(1). [Pub. L. 104–287][/us/pl/104/287] inserted a comma after “chapter 211 of this title”.
 
@@ -208,20 +208,20 @@ In subsection (a)(1), the words “(including but not limited to a railroad; any
 [/us/usc/t31/s3711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3711
 [/us/usc/t31/s3711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3711
 [/us/usc/t28/s2462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2462
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F892
-[/us/pl/103/440/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F440%2Fs204
+[/us/pl/103/440/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F440%2FtII
 [/us/stat/108/4620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4620
-[/us/pl/104/287/s5/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F54
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3393
-[/us/pl/110/432/s108/e/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs108%2Fe%2F2%2FB
+[/us/pl/110/432/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdA%2FtI
 [/us/stat/122/4866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4866
 [/us/usc/t49/s63a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs63a
 [/us/usc/t31/s3711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3711
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
-[/us/pl/110/432/s108/e/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs108%2Fe%2F2%2FB
-[/us/pl/110/432/s302/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs302%2Fc
+[/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
+[/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/pl/103/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F440
 [/us/usc/t49/s21108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs21108

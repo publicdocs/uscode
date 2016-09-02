@@ -23,7 +23,7 @@
 
     The authority of the Secretary of Transportation to provide insurance and reinsurance for a department, agency, or instrumentality of the United States Government under section 44305 is not effective after December 31, 2018.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1173][/us/stat/108/1173]; [Pub. L. 105–85, div. A, title X, § 1088(a)][/us/pl/105/85/s1088/a], Nov. 18, 1997, [111 Stat. 1921][/us/stat/111/1921]; [Pub. L. 105–137, § 5(a)][/us/pl/105/137/s5/a], Dec. 2, 1997, [111 Stat. 2641][/us/stat/111/2641]; [Pub. L. 105–277, div. C, title I, § 110(c)(2)][/us/pl/105/277/s110/c/2], Oct. 21, 1998, [112 Stat. 2681–588][/us/stat/112/2681-588]; [Pub. L. 106–6, § 6][/us/pl/106/6/s6], Mar. 31, 1999, [113 Stat. 10][/us/stat/113/10]; [Pub. L. 106–31, title VI, § 6002(f)][/us/pl/106/31/s6002/f], May 21, 1999, [113 Stat. 113][/us/stat/113/113]; [Pub. L. 106–181, title VII, § 711][/us/pl/106/181/s711], Apr. 5, 2000, [114 Stat. 160][/us/stat/114/160]; [Pub. L. 108–11, title IV, § 4001(c)][/us/pl/108/11/s4001/c], Apr. 16, 2003, [117 Stat. 606][/us/stat/117/606]; [Pub. L. 108–176, title I, § 106(d)][/us/pl/108/176/s106/d], Dec. 12, 2003, [117 Stat. 2499][/us/stat/117/2499]; [Pub. L. 110–181, div. A, title III, § 378][/us/pl/110/181/s378], Jan. 28, 2008, [122 Stat. 85][/us/stat/122/85]; [Pub. L. 113–46, div. A, § 154][/us/pl/113/46/s154], Oct. 17, 2013, [127 Stat. 565][/us/stat/127/565]; [Pub. L. 113–66, div. A, title X, § 1093][/us/pl/113/66/s1093], Dec. 26, 2013, [127 Stat. 878][/us/stat/127/878]; [Pub. L. 113–76, div. L, title I, § 119E(c)][/us/pl/113/76/s119E/c], Jan. 17, 2014, [128 Stat. 582][/us/stat/128/582]; [Pub. L. 113–164, § 148(c)][/us/pl/113/164/s148/c], Sept. 19, 2014, [128 Stat. 1874][/us/stat/128/1874]; [Pub. L. 113–235, div. L, § 102(c)][/us/pl/113/235/s102/c], Dec. 16, 2014, [128 Stat. 2767][/us/stat/128/2767].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1173][/us/stat/108/1173]; [Pub. L. 105–85, div. A, title X][/us/pl/105/85/dA/tX], § 1088(a), Nov. 18, 1997, [111 Stat. 1921][/us/stat/111/1921]; [Pub. L. 105–137][/us/pl/105/137], § 5(a), Dec. 2, 1997, [111 Stat. 2641][/us/stat/111/2641]; [Pub. L. 105–277, div. C, title I][/us/pl/105/277/dC/tI], § 110(c)(2), Oct. 21, 1998, [112 Stat. 2681–588][/us/stat/112/2681-588]; [Pub. L. 106–6][/us/pl/106/6], § 6, Mar. 31, 1999, [113 Stat. 10][/us/stat/113/10]; [Pub. L. 106–31, title VI][/us/pl/106/31/tVI], § 6002(f), May 21, 1999, [113 Stat. 113][/us/stat/113/113]; [Pub. L. 106–181, title VII][/us/pl/106/181/tVII], § 711, Apr. 5, 2000, [114 Stat. 160][/us/stat/114/160]; [Pub. L. 108–11, title IV][/us/pl/108/11/tIV], § 4001(c), Apr. 16, 2003, [117 Stat. 606][/us/stat/117/606]; [Pub. L. 108–176, title I][/us/pl/108/176/tI], § 106(d), Dec. 12, 2003, [117 Stat. 2499][/us/stat/117/2499]; [Pub. L. 110–181, div. A, title III][/us/pl/110/181/dA/tIII], § 378, Jan. 28, 2008, [122 Stat. 85][/us/stat/122/85]; [Pub. L. 113–46, div. A][/us/pl/113/46/dA], § 154, Oct. 17, 2013, [127 Stat. 565][/us/stat/127/565]; [Pub. L. 113–66, div. A, title X][/us/pl/113/66/dA/tX], § 1093, Dec. 26, 2013, [127 Stat. 878][/us/stat/127/878]; [Pub. L. 113–76, div. L, title I][/us/pl/113/76/dL/tI], § 119E(c), Jan. 17, 2014, [128 Stat. 582][/us/stat/128/582]; [Pub. L. 113–164][/us/pl/113/164], § 148(c), Sept. 19, 2014, [128 Stat. 1874][/us/stat/128/1874]; [Pub. L. 113–235, div. L][/us/pl/113/235/dL], § 102(c), Dec. 16, 2014, [128 Stat. 2767][/us/stat/128/2767].)
 
 <table>
 
@@ -113,17 +113,17 @@ Aug. 23, 1958, Pub. L. 85–726, § 1312, 72 Stat. 806; July 20, 1961, Pub. L.
 
  __Effective Date of 1997 Amendments__ 
 
-[Pub. L. 105–137, § 5(b)][/us/pl/105/137/s5/b], Dec. 2, 1997, [111 Stat. 2641][/us/stat/111/2641], provided that: 
+[Pub. L. 105–137][/us/pl/105/137], § 5(b), Dec. 2, 1997, [111 Stat. 2641][/us/stat/111/2641], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] takes effect on October 1, 1997.”
 
-[Pub. L. 105–85, div. A, title X, § 1088(b)][/us/pl/105/85/s1088/b], Nov. 18, 1997, [111 Stat. 1921][/us/stat/111/1921], provided that: 
+[Pub. L. 105–85, div. A, title X][/us/pl/105/85/dA/tX], § 1088(b), Nov. 18, 1997, [111 Stat. 1921][/us/stat/111/1921], provided that: 
 
 > “This section \[amending this section\] shall take effect as of September 30, 1997.”
 
  __Continuation of Aviation Insurance Laws__ 
 
-[Pub. L. 102–581, title IV, § 404][/us/pl/102/581/s404], Oct. 31, 1992, [106 Stat. 4898][/us/stat/106/4898], provided that: 
+[Pub. L. 102–581, title IV][/us/pl/102/581/tIV], § 404, Oct. 31, 1992, [106 Stat. 4898][/us/stat/106/4898], provided that: 
 
 > “Notwithstanding any other provision of law, the provisions of title XIII of the Federal Aviation Act of 1958 \[now this chapter\] and all insurance policies issued by the Secretary of Transportation under such title, as in effect on September 30, 1992, shall be treated as having continued in effect until the date of the enactment of this Act \[Oct. 31, 1992\].”
 
@@ -134,35 +134,35 @@ Aug. 23, 1958, Pub. L. 85–726, § 1312, 72 Stat. 806; July 20, 1961, Pub. L.
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1173
-[/us/pl/105/85/s1088/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1088%2Fa
+[/us/pl/105/85/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtX
 [/us/stat/111/1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1921
-[/us/pl/105/137/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F137%2Fs5%2Fa
+[/us/pl/105/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F137
 [/us/stat/111/2641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2641
-[/us/pl/105/277/s110/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs110%2Fc%2F2
+[/us/pl/105/277/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtI
 [/us/stat/112/2681-588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-588
-[/us/pl/106/6/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F6%2Fs6
+[/us/pl/106/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F6
 [/us/stat/113/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F10
-[/us/pl/106/31/s6002/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31%2Fs6002%2Ff
+[/us/pl/106/31/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31%2FtVI
 [/us/stat/113/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F113
-[/us/pl/106/181/s711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs711
+[/us/pl/106/181/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtVII
 [/us/stat/114/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F160
-[/us/pl/108/11/s4001/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F11%2Fs4001%2Fc
+[/us/pl/108/11/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F11%2FtIV
 [/us/stat/117/606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F606
-[/us/pl/108/176/s106/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs106%2Fd
+[/us/pl/108/176/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtI
 [/us/stat/117/2499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2499
-[/us/pl/110/181/s378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs378
+[/us/pl/110/181/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtIII
 [/us/stat/122/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F85
-[/us/pl/113/46/s154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F46%2Fs154
+[/us/pl/113/46/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F46%2FdA
 [/us/stat/127/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F565
-[/us/pl/113/66/s1093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1093
+[/us/pl/113/66/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtX
 [/us/stat/127/878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F878
-[/us/pl/113/76/s119E/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs119E%2Fc
+[/us/pl/113/76/dL/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdL%2FtI
 [/us/stat/128/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F582
-[/us/pl/113/164/s148/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F164%2Fs148%2Fc
+[/us/pl/113/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F164
 [/us/stat/128/1874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1874
-[/us/pl/113/235/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs102%2Fc
+[/us/pl/113/235/dL]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdL
 [/us/stat/128/2767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2767
 [/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/pl/113/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F164
@@ -184,11 +184,11 @@ Aug. 23, 1958, Pub. L. 85–726, § 1312, 72 Stat. 806; July 20, 1961, Pub. L.
 [/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/pl/106/181/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106
-[/us/pl/105/137/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F137%2Fs5%2Fb
+[/us/pl/105/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F137
 [/us/stat/111/2641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2641
-[/us/pl/105/85/s1088/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1088%2Fb
+[/us/pl/105/85/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtX
 [/us/stat/111/1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1921
-[/us/pl/102/581/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F581%2Fs404
+[/us/pl/102/581/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F581%2FtIV
 [/us/stat/106/4898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4898
 
 

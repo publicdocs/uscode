@@ -35,7 +35,7 @@
 
         (2) In this section, an owner or beneficial owner of the contents of a container or trailer or a person tendering a container or trailer to the first carrier is deemed not to be a person involved in the intermodal transportation of the container or trailer.
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 861][/us/stat/108/861]; [Pub. L. 104–291, title II, § 206][/us/pl/104/291/s206], Oct. 11, 1996, [110 Stat. 3457][/us/stat/110/3457].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(d), July 5, 1994, [108 Stat. 861][/us/stat/108/861]; [Pub. L. 104–291, title II][/us/pl/104/291/tII], § 206, Oct. 11, 1996, [110 Stat. 3457][/us/stat/110/3457].)
 
 <table>
 
@@ -105,13 +105,13 @@ Source (Statutes at Large)  </td>
 
  __Amendments__ 
 
-    1996—Subsec. (a). [Pub. L. 104–291, § 206(1)][/us/pl/104/291/s206/1], added subsec. (a) and struck out former subsec. (a) which read as follows:
+    1996—Subsec. (a). [Pub. L. 104–291][/us/pl/104/291], § 206(1), added subsec. (a) and struck out former subsec. (a) which read as follows:
 
     “(a) General.—If a person involved in the intermodal transportation of a loaded container or trailer for which a certification is required by [section 5902(b) of this title][/us/usc/t49/s5902/b] is required under State law to post a bond or pay any fine, penalty, cost, or interest resulting from providing erroneous information in the certification to the first carrier in violation of [section 5903(a) of this title][/us/usc/t49/s5903/a], the person has a lien against the contents equal to the amount of the bond, fine, penalty, cost, or interest incurred, until the person receives a payment of that amount from the owner or beneficial owner of the contents or from the person responsible for making the certification.”
 
-    Subsec. (b)(1). [Pub. L. 104–291, § 206(3)][/us/pl/104/291/s206/3], substituted “cost (including storage), or interest. The lien shall remain in effect until the lien holder has received payment for all costs and expenses described in subsection (a) of this section.” for “cost, or interest.”
+    Subsec. (b)(1). [Pub. L. 104–291][/us/pl/104/291], § 206(3), substituted “cost (including storage), or interest. The lien shall remain in effect until the lien holder has received payment for all costs and expenses described in subsection (a) of this section.” for “cost, or interest.”
 
-    [Pub. L. 104–291, § 206(2)][/us/pl/104/291/s206/2], inserted “, or the owner or beneficial owner of the contents,” after “first carrier”.
+    [Pub. L. 104–291][/us/pl/104/291], § 206(2), inserted “, or the owner or beneficial owner of the contents,” after “first carrier”.
 
 ----------
 
@@ -122,14 +122,14 @@ Source (Statutes at Large)  </td>
 
 [/us/usc/t49/s5902/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5902%2Fb
 [/us/usc/t49/s5903/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5903%2Fa
-[/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F861
-[/us/pl/104/291/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F291%2Fs206
+[/us/pl/104/291/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F291%2FtII
 [/us/stat/110/3457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3457
-[/us/pl/104/291/s206/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F291%2Fs206%2F1
+[/us/pl/104/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F291
 [/us/usc/t49/s5902/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5902%2Fb
 [/us/usc/t49/s5903/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5903%2Fa
-[/us/pl/104/291/s206/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F291%2Fs206%2F3
-[/us/pl/104/291/s206/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F291%2Fs206%2F2
+[/us/pl/104/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F291
+[/us/pl/104/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F291
 
 

@@ -21,7 +21,7 @@
 
     (2) impair the authority of the United States Postal Service to make such an arrangement.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1157][/us/stat/108/1157], § 41912; renumbered § 41908, [Pub. L. 110–405, § 2(b)(7)(B)][/us/pl/110/405/s2/b/7/B], Oct. 13, 2008, [122 Stat. 4289][/us/stat/122/4289].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1157][/us/stat/108/1157], § 41912; renumbered § 41908, [Pub. L. 110–405][/us/pl/110/405], § 2(b)(7)(B), Oct. 13, 2008, [122 Stat. 4289][/us/stat/122/4289].)
 
 <table>
 
@@ -73,7 +73,7 @@ Aug. 23, 1958, Pub. L. 85–726, § 405(e)(1), 72 Stat. 761.  </td>
 
  __Prior Provisions__ 
 
-    A prior section 41908, [Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1156][/us/stat/108/1156], related to prices for transporting mail of foreign countries, prior to repeal by [Pub. L. 110–405, § 2(b)(7)(A)][/us/pl/110/405/s2/b/7/A], (c), Oct. 13, 2008, [122 Stat. 4289][/us/stat/122/4289], 4290, effective Oct. 1, 2008.
+    A prior section 41908, [Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1156][/us/stat/108/1156], related to prices for transporting mail of foreign countries, prior to repeal by [Pub. L. 110–405][/us/pl/110/405], § 2(b)(7)(A), (c), Oct. 13, 2008, [122 Stat. 4289][/us/stat/122/4289], 4290, effective Oct. 1, 2008.
 
  __Amendments__ 
 
@@ -86,13 +86,13 @@ Aug. 23, 1958, Pub. L. 85–726, § 405(e)(1), 72 Stat. 761.  </td>
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1157
-[/us/pl/110/405/s2/b/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F405%2Fs2%2Fb%2F7%2FB
+[/us/pl/110/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F405
 [/us/stat/122/4289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4289
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1156
-[/us/pl/110/405/s2/b/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F405%2Fs2%2Fb%2F7%2FA
+[/us/pl/110/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F405
 [/us/stat/122/4289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4289
 [/us/pl/110/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F405
 [/us/usc/t49/s41912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs41912

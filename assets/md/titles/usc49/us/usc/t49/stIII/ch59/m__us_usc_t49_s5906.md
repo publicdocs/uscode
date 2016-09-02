@@ -17,7 +17,7 @@
 
     [Section 5905 of this title][/us/usc/t49/s5905] does not apply to a container or trailer the contents of which are perishable agricultural commodities (as defined in the Perishable Agricultural Commodities Act, 1930 ([7 U.S.C. 499a][/us/usc/t7/s499a] et seq.)).
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 861][/us/stat/108/861]; [Pub. L. 104–291, title II, § 207][/us/pl/104/291/s207], Oct. 11, 1996, [110 Stat. 3457][/us/stat/110/3457].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(d), July 5, 1994, [108 Stat. 861][/us/stat/108/861]; [Pub. L. 104–291, title II][/us/pl/104/291/tII], § 207, Oct. 11, 1996, [110 Stat. 3457][/us/stat/110/3457].)
 
 <table>
 
@@ -80,9 +80,9 @@ Source (Statutes at Large)  </td>
 
 [/us/usc/t49/s5905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5905
 [/us/usc/t7/s499a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs499a
-[/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F861
-[/us/pl/104/291/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F291%2Fs207
+[/us/pl/104/291/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F291%2FtII
 [/us/stat/110/3457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3457
 [/us/act/1930-06-10/ch436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-10%2Fch436
 [/us/stat/46/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F531

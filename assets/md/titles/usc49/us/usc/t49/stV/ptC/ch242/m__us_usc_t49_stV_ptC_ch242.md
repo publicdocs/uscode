@@ -43,7 +43,7 @@
 
  __Amendments__ 
 
-    2015—[Pub. L. 114–94, div. A, title XI][/us/pl/114/94], §§ 11503(a), 11504(b), Dec. 4, 2015, [129 Stat. 1691][/us/stat/129/1691], 1693, added chapter 242 and items 24201 and 24202.
+    2015—[Pub. L. 114–94, div. A, title XI][/us/pl/114/94/dA/tXI], §§ 11503(a), 11504(b), Dec. 4, 2015, [129 Stat. 1691][/us/stat/129/1691], 1693, added chapter 242 and items 24201 and 24202.
 
 ----------
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtXI
 [/us/stat/129/1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1691
 
 

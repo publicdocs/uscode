@@ -79,7 +79,7 @@
 
     An air carrier may end, suspend, or reduce air transportation to an eligible place below the level of enhanced essential air service established for that place by the Secretary under this section only after giving the Secretary, the affected community, and the State or local government or person paying compensation for that service at least 30 days’ notice before ending, suspending, or reducing the service. This subsection does not relieve the carrier of an obligation under [section 41734 of this title][/us/usc/t49/s41734].
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1148][/us/stat/108/1148].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1148][/us/stat/108/1148].)
 
 <table>
 
@@ -207,7 +207,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 419(c); added Oct. 24, 1978,
 [/us/usc/t49/s41733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs41733
 [/us/usc/t49/s41733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs41733
 [/us/usc/t49/s41734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs41734
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1148
 
 

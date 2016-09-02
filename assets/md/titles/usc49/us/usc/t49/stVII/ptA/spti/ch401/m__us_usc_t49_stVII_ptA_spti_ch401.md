@@ -267,17 +267,17 @@
 
  __Amendments__ 
 
-    2012—[Pub. L. 112–95, title I, § 111(c)(3)][/us/pl/112/95/s111/c/3], title VIII, § 802(b), Feb. 14, 2012, [126 Stat. 18][/us/stat/126/18], 119, substituted “Passenger facility charges” for “Passenger facility fees” in item 40117 and added item 40130.
+    2012—[Pub. L. 112–95, title I][/us/pl/112/95/tI], § 111(c)(3), title VIII, § 802(b), Feb. 14, 2012, [126 Stat. 18][/us/stat/126/18], 119, substituted “Passenger facility charges” for “Passenger facility fees” in item 40117 and added item 40130.
 
-    2003—[Pub. L. 108–176, title IV, § 423(b)][/us/pl/108/176/s423/b], Dec. 12, 2003, [117 Stat. 2554][/us/stat/117/2554], added item 40129.
+    2003—[Pub. L. 108–176, title IV][/us/pl/108/176/tIV], § 423(b), Dec. 12, 2003, [117 Stat. 2554][/us/stat/117/2554], added item 40129.
 
-    2000—[Pub. L. 106–181, title VII][/us/pl/106/181], §§ 702(b)(2), 705(b), 706(b), title VIII, § 803(b), Apr. 5, 2000, [114 Stat. 156–158][/us/stat/114/156-158], 192, added items 40125 to 40128.
+    2000—[Pub. L. 106–181, title VII][/us/pl/106/181/tVII], §§ 702(b)(2), 705(b), 706(b), title VIII, § 803(b), Apr. 5, 2000, [114 Stat. 156–158][/us/stat/114/156-158], 192, added items 40125 to 40128.
 
-    1997—[Pub. L. 105–102, § 3(d)(1)(B)][/us/pl/105/102/s3/d/1/B], Nov. 20, 1997, [111 Stat. 2215][/us/stat/111/2215], amended [Pub. L. 104–287, § 5(69)(B)][/us/pl/104/287/s5/69/B]. See 1996 Amendment note below.
+    1997—[Pub. L. 105–102][/us/pl/105/102], § 3(d)(1)(B), Nov. 20, 1997, [111 Stat. 2215][/us/stat/111/2215], amended [Pub. L. 104–287][/us/pl/104/287], § 5(69)(B). See 1996 Amendment note below.
 
-    1996—[Pub. L. 104–287, § 5(69)(B)][/us/pl/104/287/s5/69/B], Oct. 11, 1996, [110 Stat. 3396][/us/stat/110/3396], as amended by [Pub. L. 105–102, § 3(d)(1)(B)][/us/pl/105/102/s3/d/1/B], Nov. 20, 1997, [111 Stat. 2215][/us/stat/111/2215], added item 40124.
+    1996—[Pub. L. 104–287][/us/pl/104/287], § 5(69)(B), Oct. 11, 1996, [110 Stat. 3396][/us/stat/110/3396], as amended by [Pub. L. 105–102][/us/pl/105/102], § 3(d)(1)(B), Nov. 20, 1997, [111 Stat. 2215][/us/stat/111/2215], added item 40124.
 
-    [Pub. L. 104–264, title II, § 254][/us/pl/104/264/s254], title IV, §§ 401(b)(2), 402(b), Oct. 9, 1996, [110 Stat. 3238][/us/stat/110/3238], 3255, 3256, inserted “safety of” before “air commerce” in item 40104 and added item 40121 “Air traffic control modernization reviews” and items 40122 and 40123.
+    [Pub. L. 104–264, title II][/us/pl/104/264/tII], § 254, title IV, §§ 401(b)(2), 402(b), Oct. 9, 1996, [110 Stat. 3238][/us/stat/110/3238], 3255, 3256, inserted “safety of” before “air commerce” in item 40104 and added item 40121 “Air traffic control modernization reviews” and items 40122 and 40123.
 
 ----------
 
@@ -286,20 +286,20 @@
 ----------
 ----------
 
-[/us/pl/112/95/s111/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs111%2Fc%2F3
+[/us/pl/112/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtI
 [/us/stat/126/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F18
-[/us/pl/108/176/s423/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs423%2Fb
+[/us/pl/108/176/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtIV
 [/us/stat/117/2554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2554
-[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/106/181/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtVII
 [/us/stat/114/156-158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F156-158
-[/us/pl/105/102/s3/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102%2Fs3%2Fd%2F1%2FB
+[/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/stat/111/2215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2215
-[/us/pl/104/287/s5/69/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F69%2FB
-[/us/pl/104/287/s5/69/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F69%2FB
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3396
-[/us/pl/105/102/s3/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102%2Fs3%2Fd%2F1%2FB
+[/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/stat/111/2215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2215
-[/us/pl/104/264/s254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs254
+[/us/pl/104/264/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2FtII
 [/us/stat/110/3238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3238
 
 

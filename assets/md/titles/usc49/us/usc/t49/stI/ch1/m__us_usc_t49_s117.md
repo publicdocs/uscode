@@ -73,7 +73,7 @@
 
         (5) carry out such additional duties as the Secretary may prescribe.
 
-(Added [Pub. L. 114–94, div. A, title IX, § 9002(a)][/us/pl/114/94/s9002/a], Dec. 4, 2015, [129 Stat. 1618][/us/stat/129/1618].)
+(Added [Pub. L. 114–94, div. A, title IX][/us/pl/114/94/dA/tIX], § 9002(a), Dec. 4, 2015, [129 Stat. 1618][/us/stat/129/1618].)
 
  __Effective Date__ 
 
@@ -86,7 +86,7 @@
 ----------
 ----------
 
-[/us/pl/114/94/s9002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs9002%2Fa
+[/us/pl/114/94/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtIX
 [/us/stat/129/1618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1618
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313

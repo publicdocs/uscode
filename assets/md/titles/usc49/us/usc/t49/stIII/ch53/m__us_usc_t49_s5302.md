@@ -317,7 +317,7 @@
 
     The term “value capture” means recovering the increased property value to property located near public transportation resulting from investments in public transportation.
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 786][/us/stat/108/786]; [Pub. L. 103–331, title III, § 335A][/us/pl/103/331/s335A], Sept. 30, 1994, [108 Stat. 2495][/us/stat/108/2495]; [Pub. L. 104–50, title III, § 333(a)][/us/pl/104/50/s333/a], Nov. 15, 1995, [109 Stat. 457][/us/stat/109/457]; [Pub. L. 104–287, § 6(c)][/us/pl/104/287/s6/c], Oct. 11, 1996, [110 Stat. 3398][/us/stat/110/3398]; [Pub. L. 105–102, § 3(a)][/us/pl/105/102/s3/a], Nov. 20, 1997, [111 Stat. 2214][/us/stat/111/2214]; [Pub. L. 105–178, title III, § 3003][/us/pl/105/178/s3003], June 9, 1998, [112 Stat. 338][/us/stat/112/338]; [Pub. L. 105–206, title IX, § 9009(a)][/us/pl/105/206/s9009/a], July 22, 1998, [112 Stat. 852][/us/stat/112/852]; [Pub. L. 109–59, title III][/us/pl/109/59], §§ 3002(b)(4), 3004, Aug. 10, 2005, [119 Stat. 1545][/us/stat/119/1545]; [Pub. L. 110–244, title II, § 201(a)][/us/pl/110/244/s201/a], June 6, 2008, [122 Stat. 1609][/us/stat/122/1609]; [Pub. L. 112–141, div. B, § 20004][/us/pl/112/141/s20004], July 6, 2012, [126 Stat. 623][/us/stat/126/623]; [Pub. L. 114–94, div. A, title III, § 3002][/us/pl/114/94/s3002], Dec. 4, 2015, [129 Stat. 1446][/us/stat/129/1446].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(d), July 5, 1994, [108 Stat. 786][/us/stat/108/786]; [Pub. L. 103–331, title III][/us/pl/103/331/tIII], § 335A, Sept. 30, 1994, [108 Stat. 2495][/us/stat/108/2495]; [Pub. L. 104–50, title III][/us/pl/104/50/tIII], § 333(a), Nov. 15, 1995, [109 Stat. 457][/us/stat/109/457]; [Pub. L. 104–287][/us/pl/104/287], § 6(c), Oct. 11, 1996, [110 Stat. 3398][/us/stat/110/3398]; [Pub. L. 105–102][/us/pl/105/102], § 3(a), Nov. 20, 1997, [111 Stat. 2214][/us/stat/111/2214]; [Pub. L. 105–178, title III][/us/pl/105/178/tIII], § 3003, June 9, 1998, [112 Stat. 338][/us/stat/112/338]; [Pub. L. 105–206, title IX][/us/pl/105/206/tIX], § 9009(a), July 22, 1998, [112 Stat. 852][/us/stat/112/852]; [Pub. L. 109–59, title III][/us/pl/109/59/tIII], §§ 3002(b)(4), 3004, Aug. 10, 2005, [119 Stat. 1545][/us/stat/119/1545]; [Pub. L. 110–244, title II][/us/pl/110/244/tII], § 201(a), June 6, 2008, [122 Stat. 1609][/us/stat/122/1609]; [Pub. L. 112–141, div. B][/us/pl/112/141/dB], § 20004, July 6, 2012, [126 Stat. 623][/us/stat/126/623]; [Pub. L. 114–94, div. A, title III][/us/pl/114/94/dA/tIII], § 3002, Dec. 4, 2015, [129 Stat. 1446][/us/stat/129/1446].)
 
 <table>
 
@@ -601,79 +601,79 @@ July 9, 1964, Pub. L. 88–365, § 12(c)(10), (11), 78 Stat. 306; Aug. 10, 196
 
  __Amendments__ 
 
-    2015—Par. (1)(C). [Pub. L. 114–94, § 3002(1)(A)][/us/pl/114/94/s3002/1/A], inserted “functional” before “landscaping and”.
+    2015—Par. (1)(C). [Pub. L. 114–94][/us/pl/114/94], § 3002(1)(A), inserted “functional” before “landscaping and”.
 
-    Par. (1)(E). [Pub. L. 114–94, § 3002(1)(B)][/us/pl/114/94/s3002/1/B], substituted “bicycle storage shelters and parking facilities and the installation of equipment” for “bicycle storage facilities and installing equipment”.
+    Par. (1)(E). [Pub. L. 114–94][/us/pl/114/94], § 3002(1)(B), substituted “bicycle storage shelters and parking facilities and the installation of equipment” for “bicycle storage facilities and installing equipment”.
 
-    Par. (3)(F). [Pub. L. 114–94, § 3002(2)(A)][/us/pl/114/94/s3002/2/A], added subpar. (F) and struck out former subpar. (F), which read as follows: “leasing equipment or a facility for use in public transportation, subject to regulations that the Secretary prescribes limiting the leasing arrangements to those that are more cost-effective than purchase or construction;”.
+    Par. (3)(F). [Pub. L. 114–94][/us/pl/114/94], § 3002(2)(A), added subpar. (F) and struck out former subpar. (F), which read as follows: “leasing equipment or a facility for use in public transportation, subject to regulations that the Secretary prescribes limiting the leasing arrangements to those that are more cost-effective than purchase or construction;”.
 
-    Par. (3)(G)(iv). [Pub. L. 114–94, § 3002(2)(B)(i)][/us/pl/114/94/s3002/2/B/i], inserted “and” at end.
+    Par. (3)(G)(iv). [Pub. L. 114–94][/us/pl/114/94], § 3002(2)(B)(i), inserted “and” at end.
 
-    Par. (3)(G)(v)(XIV). [Pub. L. 114–94, § 3002(2)(B)(ii)][/us/pl/114/94/s3002/2/B/ii], struck out “and” at end.
+    Par. (3)(G)(v)(XIV). [Pub. L. 114–94][/us/pl/114/94], § 3002(2)(B)(ii), struck out “and” at end.
 
-    Par. (3)(G)(vi). [Pub. L. 114–94, § 3002(2)(B)(iii)][/us/pl/114/94/s3002/2/B/iii], struck out cl. (vi), which read as follows: “does not include outfitting of commercial space (other than an intercity bus or rail station or terminal) or a part of a public facility not related to public transportation;”.
+    Par. (3)(G)(vi). [Pub. L. 114–94][/us/pl/114/94], § 3002(2)(B)(iii), struck out cl. (vi), which read as follows: “does not include outfitting of commercial space (other than an intercity bus or rail station or terminal) or a part of a public facility not related to public transportation;”.
 
-    Par. (3)(I). [Pub. L. 114–94, § 3002(2)(C)][/us/pl/114/94/s3002/2/C], added subpar. (I) and struck out former subpar. (I), which read as follows: “the provision of nonfixed route paratransit transportation services in accordance with section 223 of the Americans with Disabilities Act of 1990 ([42 U.S.C. 12143][/us/usc/t42/s12143]), but only for grant recipients that are in compliance with applicable requirements of that Act, including both fixed route and demand responsive service, and only for amounts not to exceed 10 percent of such recipient’s annual formula apportionment under sections 5307 and 5311;”.
+    Par. (3)(I). [Pub. L. 114–94][/us/pl/114/94], § 3002(2)(C), added subpar. (I) and struck out former subpar. (I), which read as follows: “the provision of nonfixed route paratransit transportation services in accordance with section 223 of the Americans with Disabilities Act of 1990 ([42 U.S.C. 12143][/us/usc/t42/s12143]), but only for grant recipients that are in compliance with applicable requirements of that Act, including both fixed route and demand responsive service, and only for amounts not to exceed 10 percent of such recipient’s annual formula apportionment under sections 5307 and 5311;”.
 
-    Par. (3)(M), (N). [Pub. L. 114–94, § 3002(2)(D)][/us/pl/114/94/s3002/2/D]–(F), added subpars. (M) and (N).
+    Par. (3)(M), (N). [Pub. L. 114–94][/us/pl/114/94], § 3002(2)(D)–(F), added subpars. (M) and (N).
 
-    Par. (24). [Pub. L. 114–94, § 3002(3)][/us/pl/114/94/s3002/3], added par. (24).
+    Par. (24). [Pub. L. 114–94][/us/pl/114/94], § 3002(3), added par. (24).
 
     2012—[Pub. L. 112–141][/us/pl/112/141] amended section generally, substituting pars. (1) to (23) for former provisions defining terms for this chapter consisting of subsecs. (a) and (b).
 
     2008—Subsec. (a)(10). [Pub. L. 110–244][/us/pl/110/244] substituted “charter, sightseeing,” for “charter,”.
 
-    2005—Subsec. (a). [Pub. L. 109–59, § 3004(a)][/us/pl/109/59/s3004/a], substituted “Except as otherwise specifically provided, in this chapter” for “In this chapter” in introductory provisions.
+    2005—Subsec. (a). [Pub. L. 109–59][/us/pl/109/59], § 3004(a), substituted “Except as otherwise specifically provided, in this chapter” for “In this chapter” in introductory provisions.
 
-    Subsec. (a)(1)(A), (F). [Pub. L. 109–59, § 3002(b)(4)][/us/pl/109/59/s3002/b/4], substituted “public transportation” for “mass transportation”.
+    Subsec. (a)(1)(A), (F). [Pub. L. 109–59][/us/pl/109/59], § 3002(b)(4), substituted “public transportation” for “mass transportation”.
 
-    Subsec. (a)(1)(G). [Pub. L. 109–59, § 3004(b)(1)][/us/pl/109/59/s3004/b/1], inserted “construction, renovation, and improvement of intercity bus and intercity rail stations and terminals,” after “public transportation facility,” in introductory provisions.
+    Subsec. (a)(1)(G). [Pub. L. 109–59][/us/pl/109/59], § 3004(b)(1), inserted “construction, renovation, and improvement of intercity bus and intercity rail stations and terminals,” after “public transportation facility,” in introductory provisions.
 
-    [Pub. L. 109–59, § 3002(b)(4)][/us/pl/109/59/s3002/b/4], substituted “public transportation” for “mass transportation” wherever appearing in introductory provisions.
+    [Pub. L. 109–59][/us/pl/109/59], § 3002(b)(4), substituted “public transportation” for “mass transportation” wherever appearing in introductory provisions.
 
-    Subsec. (a)(1)(G)(ii). [Pub. L. 109–59, § 3004(b)(2)][/us/pl/109/59/s3004/b/2], inserted “(other than an intercity bus station or terminal)” after “commercial revenue-producing facility”.
+    Subsec. (a)(1)(G)(ii). [Pub. L. 109–59][/us/pl/109/59], § 3004(b)(2), inserted “(other than an intercity bus station or terminal)” after “commercial revenue-producing facility”.
 
-    [Pub. L. 109–59, § 3002(b)(4)][/us/pl/109/59/s3002/b/4], substituted “public transportation” for “mass transportation”.
+    [Pub. L. 109–59][/us/pl/109/59], § 3002(b)(4), substituted “public transportation” for “mass transportation”.
 
-    Subsec. (a)(1)(H). [Pub. L. 109–59, § 3002(b)(4)][/us/pl/109/59/s3002/b/4], substituted “public transportation” for “mass transportation”.
+    Subsec. (a)(1)(H). [Pub. L. 109–59][/us/pl/109/59], § 3002(b)(4), substituted “public transportation” for “mass transportation”.
 
-    Subsec. (a)(1)(J) to (L). [Pub. L. 109–59, § 3004(b)(3)][/us/pl/109/59/s3004/b/3]–(5), added subpars. (J) to (L).
+    Subsec. (a)(1)(J) to (L). [Pub. L. 109–59][/us/pl/109/59], § 3004(b)(3)–(5), added subpars. (J) to (L).
 
-    Subsec. (a)(4). [Pub. L. 109–59, § 3002(b)(4)][/us/pl/109/59/s3002/b/4], substituted “public transportation” for “mass transportation” in introductory provisions and subpar. (A).
+    Subsec. (a)(4). [Pub. L. 109–59][/us/pl/109/59], § 3002(b)(4), substituted “public transportation” for “mass transportation” in introductory provisions and subpar. (A).
 
-    Subsec. (a)(5). [Pub. L. 109–59, § 3004(c)][/us/pl/109/59/s3004/c], substituted “Individual with a disability” for “Handicapped individual” in heading and “individual with a disability” for “handicapped individual” in text.
+    Subsec. (a)(5). [Pub. L. 109–59][/us/pl/109/59], § 3004(c), substituted “Individual with a disability” for “Handicapped individual” in heading and “individual with a disability” for “handicapped individual” in text.
 
-    [Pub. L. 109–59, § 3002(b)(4)][/us/pl/109/59/s3002/b/4], substituted “public transportation” for “mass transportation” in two places.
+    [Pub. L. 109–59][/us/pl/109/59], § 3002(b)(4), substituted “public transportation” for “mass transportation” in two places.
 
-    Subsec. (a)(7). [Pub. L. 109–59, § 3004(d)][/us/pl/109/59/s3004/d], amended heading and text of par. (7) generally. Prior to amendment, text read as follows: “The term ‘mass transportation’ means transportation by a conveyance that provides regular and continuing general or special transportation to the public, but does not include school bus, charter, or sightseeing transportation.”
+    Subsec. (a)(7). [Pub. L. 109–59][/us/pl/109/59], § 3004(d), amended heading and text of par. (7) generally. Prior to amendment, text read as follows: “The term ‘mass transportation’ means transportation by a conveyance that provides regular and continuing general or special transportation to the public, but does not include school bus, charter, or sightseeing transportation.”
 
-    Subsec. (a)(9). [Pub. L. 109–59, § 3002(b)(4)][/us/pl/109/59/s3002/b/4], substituted “public transportation” for “mass transportation” in subpars. (A) and (B).
+    Subsec. (a)(9). [Pub. L. 109–59][/us/pl/109/59], § 3002(b)(4), substituted “public transportation” for “mass transportation” in subpars. (A) and (B).
 
-    Subsec. (a)(10). [Pub. L. 109–59, § 3004(e)][/us/pl/109/59/s3004/e], amended heading and text of par. (10) generally. Prior to amendment, text read as follows: “The term ‘public transportation’ means mass transportation.”
+    Subsec. (a)(10). [Pub. L. 109–59][/us/pl/109/59], § 3004(e), amended heading and text of par. (10) generally. Prior to amendment, text read as follows: “The term ‘public transportation’ means mass transportation.”
 
-    Subsec. (a)(14) to (16). [Pub. L. 109–59, § 3002(b)(4)][/us/pl/109/59/s3002/b/4], substituted “public transportation” for “mass transportation” wherever appearing.
+    Subsec. (a)(14) to (16). [Pub. L. 109–59][/us/pl/109/59], § 3002(b)(4), substituted “public transportation” for “mass transportation” wherever appearing.
 
-    Subsec. (a)(17). [Pub. L. 109–59, § 3004(f)][/us/pl/109/59/s3004/f], reenacted heading without change and amended text of par. (17) generally. Prior to amendment, text read as follows: “The term ‘urbanized area’ means an area—
+    Subsec. (a)(17). [Pub. L. 109–59][/us/pl/109/59], § 3004(f), reenacted heading without change and amended text of par. (17) generally. Prior to amendment, text read as follows: “The term ‘urbanized area’ means an area—
 
     “(A) encompassing at least an urbanized area within a State that the Secretary of Commerce designates; and
 
     “(B) designated as an urbanized area within boundaries fixed by State and local officials and approved by the Secretary.”
 
-    Subsec. (b). [Pub. L. 109–59, § 3004(g)][/us/pl/109/59/s3004/g], substituted “Individual With a Disability” for “Handicapped Individual” in heading and “individual with a disability” for “handicapped individual” in text.
+    Subsec. (b). [Pub. L. 109–59][/us/pl/109/59], § 3004(g), substituted “Individual With a Disability” for “Handicapped Individual” in heading and “individual with a disability” for “handicapped individual” in text.
 
-    1998—[Pub. L. 105–178, § 3003(a)][/us/pl/105/178/s3003/a], formerly § 3003, as renumbered by [Pub. L. 105–206, § 9009(a)(1)][/us/pl/105/206/s9009/a/1], amended section generally, revising and restating existing definitions and adding new pars. defining additional terms.
+    1998—[Pub. L. 105–178][/us/pl/105/178], § 3003(a), formerly § 3003, as renumbered by [Pub. L. 105–206][/us/pl/105/206], § 9009(a)(1), amended section generally, revising and restating existing definitions and adding new pars. defining additional terms.
 
-    Subsec. (a)(1)(G)(i). [Pub. L. 105–178, § 3003(b)][/us/pl/105/178/s3003/b], as added by [Pub. L. 105–206, § 9009(a)(2)][/us/pl/105/206/s9009/a/2], substituted “daycare or” for “daycare and”.
+    Subsec. (a)(1)(G)(i). [Pub. L. 105–178][/us/pl/105/178], § 3003(b), as added by [Pub. L. 105–206][/us/pl/105/206], § 9009(a)(2), substituted “daycare or” for “daycare and”.
 
-    1997—Subsec. (a)(1)(B), (C). [Pub. L. 105–102][/us/pl/105/102] made technical correction to directory language of [Pub. L. 104–50, § 333(a)][/us/pl/104/50/s333/a]. See 1995 Amendment notes below.
+    1997—Subsec. (a)(1)(B), (C). [Pub. L. 105–102][/us/pl/105/102] made technical correction to directory language of [Pub. L. 104–50][/us/pl/104/50], § 333(a). See 1995 Amendment notes below.
 
-    1996—Subsec. (a)(1). [Pub. L. 104–287][/us/pl/104/287] made technical correction to directory language of [Pub. L. 103–331, § 335A][/us/pl/103/331/s335A]. See 1994 Amendment note below.
+    1996—Subsec. (a)(1). [Pub. L. 104–287][/us/pl/104/287] made technical correction to directory language of [Pub. L. 103–331][/us/pl/103/331], § 335A. See 1994 Amendment note below.
 
-    1995—Subsec. (a)(1)(B). [Pub. L. 104–50, § 333(a)(1)][/us/pl/104/50/s333/a/1], as amended by [Pub. L. 105–102, § 3(a)(1)][/us/pl/105/102/s3/a/1], struck out “that extends the economic life of a bus for at least 5 years” after “rehabilitating a bus”.
+    1995—Subsec. (a)(1)(B). [Pub. L. 104–50][/us/pl/104/50], § 333(a)(1), as amended by [Pub. L. 105–102][/us/pl/105/102], § 3(a)(1), struck out “that extends the economic life of a bus for at least 5 years” after “rehabilitating a bus”.
 
-    Subsec. (a)(1)(C). [Pub. L. 104–50, § 333(a)(2)][/us/pl/104/50/s333/a/2], as amended by [Pub. L. 105–102, § 3(a)(2)][/us/pl/105/102/s3/a/2], struck out “that extends the economic life of a bus for at least 8 years” after “remanufacturing a bus”.
+    Subsec. (a)(1)(C). [Pub. L. 104–50][/us/pl/104/50], § 333(a)(2), as amended by [Pub. L. 105–102][/us/pl/105/102], § 3(a)(2), struck out “that extends the economic life of a bus for at least 8 years” after “remanufacturing a bus”.
 
-    1994—Subsec. (a)(1). [Pub. L. 103–331, § 335A][/us/pl/103/331/s335A], as amended by [Pub. L. 104–287][/us/pl/104/287], inserted “payments for the capital portions of rail trackage rights agreements,” after “rights of way),”.
+    1994—Subsec. (a)(1). [Pub. L. 103–331][/us/pl/103/331], § 335A, as amended by [Pub. L. 104–287][/us/pl/104/287], inserted “payments for the capital portions of rail trackage rights agreements,” after “rights of way),”.
 
  __Effective Date of 2015 Amendment__ 
 
@@ -689,17 +689,17 @@ July 9, 1964, Pub. L. 88–365, § 12(c)(10), (11), 78 Stat. 306; Aug. 10, 196
 
  __Effective Date of 1997 Amendment__ 
 
-    [Pub. L. 105–102, § 3(a)][/us/pl/105/102/s3/a], Nov. 20, 1997, [111 Stat. 2214][/us/stat/111/2214], provided that the amendment made by section 3(a) is effective Nov. 15, 1995.
+    [Pub. L. 105–102][/us/pl/105/102], § 3(a), Nov. 20, 1997, [111 Stat. 2214][/us/stat/111/2214], provided that the amendment made by section 3(a) is effective Nov. 15, 1995.
 
     Amendment by [Pub. L. 105–102][/us/pl/105/102] effective as if included in the provisions of the Act to which the amendment relates, see [section 3(f) of Pub. L. 105–102][/us/pl/105/102/s3/f], set out as a note under [section 106 of this title][/us/usc/t49/s106].
 
  __Effective Date of 1996 Amendment__ 
 
-    [Pub. L. 104–287, § 6(c)][/us/pl/104/287/s6/c], Oct. 11, 1996, [110 Stat. 3398][/us/stat/110/3398], provided that the amendment made by section 6(c) is effective Sept. 30, 1994.
+    [Pub. L. 104–287][/us/pl/104/287], § 6(c), Oct. 11, 1996, [110 Stat. 3398][/us/stat/110/3398], provided that the amendment made by section 6(c) is effective Sept. 30, 1994.
 
  __Effective Date of 1995 Amendment__ 
 
-[Pub. L. 104–50, title III, § 333(b)][/us/pl/104/50/s333/b], Nov. 15, 1995, [109 Stat. 457][/us/stat/109/457], provided that: 
+[Pub. L. 104–50, title III][/us/pl/104/50/tIII], § 333(b), Nov. 15, 1995, [109 Stat. 457][/us/stat/109/457], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall not take effect before March 31, 1996.”
 
@@ -715,27 +715,27 @@ July 9, 1964, Pub. L. 88–365, § 12(c)(10), (11), 78 Stat. 306; Aug. 10, 196
 [/us/usc/t42/s9902/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9902%2F2
 [/us/usc/t42/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs601
 [/us/usc/t42/s9902/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9902%2F2
-[/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F786
-[/us/pl/103/331/s335A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F331%2Fs335A
+[/us/pl/103/331/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F331%2FtIII
 [/us/stat/108/2495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2495
-[/us/pl/104/50/s333/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F50%2Fs333%2Fa
+[/us/pl/104/50/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F50%2FtIII
 [/us/stat/109/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F457
-[/us/pl/104/287/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs6%2Fc
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3398
-[/us/pl/105/102/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102%2Fs3%2Fa
+[/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/stat/111/2214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2214
-[/us/pl/105/178/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs3003
+[/us/pl/105/178/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtIII
 [/us/stat/112/338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F338
-[/us/pl/105/206/s9009/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs9009%2Fa
+[/us/pl/105/206/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIX
 [/us/stat/112/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F852
-[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIII
 [/us/stat/119/1545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1545
-[/us/pl/110/244/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs201%2Fa
+[/us/pl/110/244/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2FtII
 [/us/stat/122/1609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1609
-[/us/pl/112/141/s20004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs20004
+[/us/pl/112/141/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdB
 [/us/stat/126/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F623
-[/us/pl/114/94/s3002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3002
+[/us/pl/114/94/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtIII
 [/us/stat/129/1446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1446
 [/us/pl/101/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336
 [/us/stat/104/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F327
@@ -743,48 +743,48 @@ July 9, 1964, Pub. L. 88–365, § 12(c)(10), (11), 78 Stat. 306; Aug. 10, 196
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
-[/us/pl/114/94/s3002/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3002%2F1%2FA
-[/us/pl/114/94/s3002/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3002%2F1%2FB
-[/us/pl/114/94/s3002/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3002%2F2%2FA
-[/us/pl/114/94/s3002/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3002%2F2%2FB%2Fi
-[/us/pl/114/94/s3002/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3002%2F2%2FB%2Fii
-[/us/pl/114/94/s3002/2/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3002%2F2%2FB%2Fiii
-[/us/pl/114/94/s3002/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3002%2F2%2FC
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/usc/t42/s12143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12143
-[/us/pl/114/94/s3002/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3002%2F2%2FD
-[/us/pl/114/94/s3002/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3002%2F3
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
-[/us/pl/109/59/s3004/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3004%2Fa
-[/us/pl/109/59/s3002/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3002%2Fb%2F4
-[/us/pl/109/59/s3004/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3004%2Fb%2F1
-[/us/pl/109/59/s3002/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3002%2Fb%2F4
-[/us/pl/109/59/s3004/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3004%2Fb%2F2
-[/us/pl/109/59/s3002/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3002%2Fb%2F4
-[/us/pl/109/59/s3002/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3002%2Fb%2F4
-[/us/pl/109/59/s3004/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3004%2Fb%2F3
-[/us/pl/109/59/s3002/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3002%2Fb%2F4
-[/us/pl/109/59/s3004/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3004%2Fc
-[/us/pl/109/59/s3002/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3002%2Fb%2F4
-[/us/pl/109/59/s3004/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3004%2Fd
-[/us/pl/109/59/s3002/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3002%2Fb%2F4
-[/us/pl/109/59/s3004/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3004%2Fe
-[/us/pl/109/59/s3002/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3002%2Fb%2F4
-[/us/pl/109/59/s3004/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3004%2Ff
-[/us/pl/109/59/s3004/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3004%2Fg
-[/us/pl/105/178/s3003/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs3003%2Fa
-[/us/pl/105/206/s9009/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs9009%2Fa%2F1
-[/us/pl/105/178/s3003/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs3003%2Fb
-[/us/pl/105/206/s9009/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs9009%2Fa%2F2
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
 [/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
-[/us/pl/104/50/s333/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F50%2Fs333%2Fa
+[/us/pl/104/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F50
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
-[/us/pl/103/331/s335A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F331%2Fs335A
-[/us/pl/104/50/s333/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F50%2Fs333%2Fa%2F1
-[/us/pl/105/102/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102%2Fs3%2Fa%2F1
-[/us/pl/104/50/s333/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F50%2Fs333%2Fa%2F2
-[/us/pl/105/102/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102%2Fs3%2Fa%2F2
-[/us/pl/103/331/s335A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F331%2Fs335A
+[/us/pl/103/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F331
+[/us/pl/104/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F50
+[/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
+[/us/pl/104/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F50
+[/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
+[/us/pl/103/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F331
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
@@ -799,14 +799,14 @@ July 9, 1964, Pub. L. 88–365, § 12(c)(10), (11), 78 Stat. 306; Aug. 10, 196
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
 [/us/pl/105/206/s9016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs9016
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
-[/us/pl/105/102/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102%2Fs3%2Fa
+[/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/stat/111/2214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2214
 [/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/pl/105/102/s3/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102%2Fs3%2Ff
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106
-[/us/pl/104/287/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs6%2Fc
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3398
-[/us/pl/104/50/s333/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F50%2Fs333%2Fb
+[/us/pl/104/50/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F50%2FtIII
 [/us/stat/109/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F457
 
 

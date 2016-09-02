@@ -105,7 +105,7 @@
 
     The Secretary may act under subsections (d) and (f)(3)(B) of this section only after giving the air carrier notice and an opportunity for a hearing.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1104][/us/stat/108/1104]; [Pub. L. 104–287, § 5(65)][/us/pl/104/287/s5/65], Oct. 11, 1996, [110 Stat. 3395][/us/stat/110/3395].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1104][/us/stat/108/1104]; [Pub. L. 104–287][/us/pl/104/287], § 5(65), Oct. 11, 1996, [110 Stat. 3395][/us/stat/110/3395].)
 
 <table>
 
@@ -445,9 +445,9 @@ In subsection (h), the words “The Secretary may act under subsections (d) and 
 
  __Amendments__ 
 
-    1996—Subsec. (c). [Pub. L. 104–287, § 5(65)(B)][/us/pl/104/287/s5/65/B], substituted “sections 44909 and 46301(b)” for “section 46301(b)”.
+    1996—Subsec. (c). [Pub. L. 104–287][/us/pl/104/287], § 5(65)(B), substituted “sections 44909 and 46301(b)” for “section 46301(b)”.
 
-    [Pub. L. 104–287, § 5(65)(A)][/us/pl/104/287/s5/65/A], substituted “chapter 413 (except sections 41307 and 41310(b)–(f)), chapter 415 (except sections 41502, 41505, and 41507–41509), chapter 417 (except sections 41703, 41704, 41710, 41713, and 41714),” for “sections 41301–41306, 41308–41310(a), 41501, 41503, 41504, 41506, 41510, 41511, 41701, 41702, 41705–41709, 41711, 41712, and 41731–41742,”.
+    [Pub. L. 104–287][/us/pl/104/287], § 5(65)(A), substituted “chapter 413 (except sections 41307 and 41310(b)–(f)), chapter 415 (except sections 41502, 41505, and 41507–41509), chapter 417 (except sections 41703, 41704, 41710, 41713, and 41714),” for “sections 41301–41306, 41308–41310(a), 41501, 41503, 41504, 41506, 41510, 41511, 41701, 41702, 41705–41709, 41711, 41712, and 41731–41742,”.
 
  __Effective Date of 1996 Amendment__ 
 
@@ -455,7 +455,7 @@ In subsection (h), the words “The Secretary may act under subsections (d) and 
 
  __Authority To Grant Exemptions to Government Aircraft__ 
 
-[Pub. L. 103–411, § 3(b)][/us/pl/103/411/s3/b], Oct. 25, 1994, [108 Stat. 4237][/us/stat/108/4237], provided that:
+[Pub. L. 103–411][/us/pl/103/411], § 3(b), Oct. 25, 1994, [108 Stat. 4237][/us/stat/108/4237], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -482,9 +482,9 @@ In subsection (h), the words “The Secretary may act under subsections (d) and 
 [/us/usc/t49/s41732/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs41732%2Fb%2F1%2FB
 [/us/usc/t49/s41102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs41102
 [/us/usc/t49/s41102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs41102
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1104
-[/us/pl/104/287/s5/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F65
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3395
 [/us/pl/85/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F726
 [/us/stat/72/750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F750
@@ -497,12 +497,12 @@ In subsection (h), the words “The Secretary may act under subsections (d) and 
 [/us/stat/108/1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1105
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F745
-[/us/pl/104/287/s5/65/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F65%2FB
-[/us/pl/104/287/s5/65/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F65%2FA
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/pl/104/287/s8/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs8%2F1
 [/us/usc/t49/s5303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5303
-[/us/pl/103/411/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F411%2Fs3%2Fb
+[/us/pl/103/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F411
 [/us/stat/108/4237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4237
 [/us/usc/t49/s40102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40102
 

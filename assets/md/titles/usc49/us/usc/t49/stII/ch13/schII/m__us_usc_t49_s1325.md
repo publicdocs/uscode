@@ -99,7 +99,7 @@
 
             The Council may prepare other reports or develop policy statements as the Council considers appropriate. An annual report shall be submitted for each fiscal year and shall be submitted to the Secretary and Chairman within 90 days after the end of the fiscal year. Other such reports and statements may be submitted as the Council considers appropriate.
 
-(Added [Pub. L. 104–88, title II, § 201(a)][/us/pl/104/88/s201/a], Dec. 29, 1995, [109 Stat. 937][/us/stat/109/937], § 726; amended [Pub. L. 104–287, § 5(7)][/us/pl/104/287/s5/7], Oct. 11, 1996, [110 Stat. 3389][/us/stat/110/3389]; renumbered § 1325, [Pub. L. 114–110, § 3(a)(6)][/us/pl/114/110/s3/a/6], Dec. 18, 2015, [129 Stat. 2229][/us/stat/129/2229].)
+(Added [Pub. L. 104–88, title II][/us/pl/104/88/tII], § 201(a), Dec. 29, 1995, [109 Stat. 937][/us/stat/109/937], § 726; amended [Pub. L. 104–287][/us/pl/104/287], § 5(7), Oct. 11, 1996, [110 Stat. 3389][/us/stat/110/3389]; renumbered § 1325, [Pub. L. 114–110][/us/pl/114/110], § 3(a)(6), Dec. 18, 2015, [129 Stat. 2229][/us/stat/129/2229].)
 
  __References in Text__ 
 
@@ -118,11 +118,11 @@
 ----------
 ----------
 
-[/us/pl/104/88/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs201%2Fa
+[/us/pl/104/88/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtII
 [/us/stat/109/937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F937
-[/us/pl/104/287/s5/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F7
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3389
-[/us/pl/114/110/s3/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F110%2Fs3%2Fa%2F6
+[/us/pl/114/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F110
 [/us/stat/129/2229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2229
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770

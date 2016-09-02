@@ -17,7 +17,7 @@
 
     Notwithstanding the requirements of section 24402 of this chapter, the Secretary of Transportation may approve the use of a capital assistance grant under this chapter to fund self-insured retention of risk for the first tier of liability insurance coverage for rail passenger service associated with the grant, but the coverage may not exceed $20,000,000 per occurrence or $20,000,000 in aggregate per year.
 
-(Added [Pub. L. 110–432, div. B, title III, § 301(a)][/us/pl/110/432/s301/a], Oct. 16, 2008, [122 Stat. 4942][/us/stat/122/4942].)
+(Added [Pub. L. 110–432, div. B, title III][/us/pl/110/432/dB/tIII], § 301(a), Oct. 16, 2008, [122 Stat. 4942][/us/stat/122/4942].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/110/432/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs301%2Fa
+[/us/pl/110/432/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdB%2FtIII
 [/us/stat/122/4942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4942
 
 

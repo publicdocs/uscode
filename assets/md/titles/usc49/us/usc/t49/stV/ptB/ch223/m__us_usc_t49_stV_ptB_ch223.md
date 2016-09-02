@@ -35,7 +35,7 @@
 
  __Amendments__ 
 
-    2007—[Pub. L. 110–140, title XI, § 1112(a)][/us/pl/110/140/s1112/a], Dec. 19, 2007, [121 Stat. 1758][/us/stat/121/1758], substituted “CAPITAL GRANTS FOR CLASS II AND CLASS III RAILROADS” for “LIGHT DENSITY RAIL LINE PILOT PROJECTS” in chapter heading and “Capital grants for class II and class III railroads” for “Light density rail line pilot projects” in item 22301.
+    2007—[Pub. L. 110–140, title XI][/us/pl/110/140/tXI], § 1112(a), Dec. 19, 2007, [121 Stat. 1758][/us/stat/121/1758], substituted “CAPITAL GRANTS FOR CLASS II AND CLASS III RAILROADS” for “LIGHT DENSITY RAIL LINE PILOT PROJECTS” in chapter heading and “Capital grants for class II and class III railroads” for “Light density rail line pilot projects” in item 22301.
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/110/140/s1112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1112%2Fa
+[/us/pl/110/140/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtXI
 [/us/stat/121/1758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1758
 
 

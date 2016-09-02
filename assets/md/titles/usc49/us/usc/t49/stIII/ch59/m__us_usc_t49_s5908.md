@@ -21,7 +21,7 @@
 
     (2) any State highway weight or size law or regulation applicable to tractor-trailer combinations.
 
-(Added [Pub. L. 104–291, title II, § 209(a)][/us/pl/104/291/s209/a], Oct. 11, 1996, [110 Stat. 3458][/us/stat/110/3458].)
+(Added [Pub. L. 104–291, title II][/us/pl/104/291/tII], § 209(a), Oct. 11, 1996, [110 Stat. 3458][/us/stat/110/3458].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/104/291/s209/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F291%2Fs209%2Fa
+[/us/pl/104/291/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F291%2FtII
 [/us/stat/110/3458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3458
 
 

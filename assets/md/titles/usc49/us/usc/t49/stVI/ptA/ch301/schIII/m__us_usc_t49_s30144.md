@@ -39,7 +39,7 @@
 
     A motor vehicle imported under this section may not be sold when in the United States.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 964][/us/stat/108/964]; [Pub. L. 104–287, § 5(57)][/us/pl/104/287/s5/57], Oct. 11, 1996, [110 Stat. 3394][/us/stat/110/3394].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 964][/us/stat/108/964]; [Pub. L. 104–287][/us/pl/104/287], § 5(57), Oct. 11, 1996, [110 Stat. 3394][/us/stat/110/3394].)
 
 <table>
 
@@ -148,9 +148,9 @@ Sept. 9, 1966, Pub. L. 89–563, 80 Stat. 718, § 108(h); added Oct. 31, 1988,
 
 [/us/usc/t49/s30112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30112%2Fa
 [/us/usc/t22/s288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs288
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F964
-[/us/pl/104/287/s5/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F57
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3394
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/act/1945-12-29/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-12-29%2Fch652

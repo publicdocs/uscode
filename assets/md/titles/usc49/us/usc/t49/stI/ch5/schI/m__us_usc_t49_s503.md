@@ -21,7 +21,7 @@
 
     (c) Each of those carriers, including such a carrier operating in the United States while providing transportation between places in a foreign country or between a place in one foreign country and a place in another foreign country, shall designate an agent in each State in which it operates by name and post office address on whom process issued by a court with subject matter jurisdiction may be served in an action brought against that carrier. The designation shall be in writing and filed with the Secretary and with the authority of each State in which the carrier operates having jurisdiction to regulate transportation by motor vehicle in intrastate commerce on the highways of that State. If a designation under this subsection is not made, service may be made on any agent of the carrier in that State. The designation may be changed at any time in the same manner as originally made.
 
-([Pub. L. 97–449, § 1(b)][/us/pl/97/449/s1/b], Jan. 12, 1983, [96 Stat. 2432][/us/stat/96/2432].)
+([Pub. L. 97–449][/us/pl/97/449], § 1(b), Jan. 12, 1983, [96 Stat. 2432][/us/stat/96/2432].)
 
 <table>
 
@@ -168,7 +168,7 @@ Revised Section  </td>
 ----------
 ----------
 
-[/us/pl/97/449/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449%2Fs1%2Fb
+[/us/pl/97/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449
 [/us/stat/96/2432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2432
 
 

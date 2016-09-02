@@ -29,7 +29,7 @@
 
     The Secretary shall require a motor vehicle to be equipped with tires that meet maximum load standards when the vehicle is loaded with a reasonable amount of luggage and the total number of passengers the vehicle is designed to carry. The vehicle shall be equipped with those tires by the manufacturer or by the first purchaser when the vehicle is first bought in good faith other than for resale.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 956][/us/stat/108/956]; [Pub. L. 105–178, title VII, § 7106(b)][/us/pl/105/178/s7106/b], June 9, 1998, [112 Stat. 467][/us/stat/112/467].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 956][/us/stat/108/956]; [Pub. L. 105–178, title VII][/us/pl/105/178/tVII], § 7106(b), June 9, 1998, [112 Stat. 467][/us/stat/112/467].)
 
 <table>
 
@@ -203,7 +203,7 @@ Sept. 9, 1966, Pub. L. 89–563, § 204(a), 80 Stat. 729; restated Oct. 27, 19
 
  __Tire Pressure Monitoring System__ 
 
-[Pub. L. 114–94, div. B, title XXIV, § 24115][/us/pl/114/94/s24115], Dec. 4, 2015, [129 Stat. 1710][/us/stat/129/1710], provided that:
+[Pub. L. 114–94, div. B, title XXIV][/us/pl/114/94/dB/tXXIV], § 24115, Dec. 4, 2015, [129 Stat. 1710][/us/stat/129/1710], provided that:
 
 >     “(a)  __Proposed Rule__  __.—__ 
 
@@ -239,7 +239,7 @@ Sept. 9, 1966, Pub. L. 89–563, § 204(a), 80 Stat. 729; restated Oct. 27, 19
 
  __Improved Tire Information__ 
 
-[Pub. L. 106–414, § 11][/us/pl/106/414/s11], Nov. 1, 2000, [114 Stat. 1806][/us/stat/114/1806], provided that:
+[Pub. L. 106–414][/us/pl/106/414], § 11, Nov. 1, 2000, [114 Stat. 1806][/us/stat/114/1806], provided that:
 
 >     “(a)  __Tire Labeling__  __.—__ 
 
@@ -251,7 +251,7 @@ Sept. 9, 1966, Pub. L. 89–563, § 204(a), 80 Stat. 729; restated Oct. 27, 19
 
  __Tire Pressure Warning__ 
 
-[Pub. L. 106–414, § 13][/us/pl/106/414/s13], Nov. 1, 2000, [114 Stat. 1806][/us/stat/114/1806], provided that: 
+[Pub. L. 106–414][/us/pl/106/414], § 13, Nov. 1, 2000, [114 Stat. 1806][/us/stat/114/1806], provided that: 
 
 > “Not later than 1 year after the date of the enactment of this Act \[Nov. 1, 2000\], the Secretary of Transportation shall complete a rulemaking for a regulation to require a warning system in new motor vehicles to indicate to the operator when a tire is significantly under inflated. Such requirement shall become effective not later than 2 years after the date of the completion of such rulemaking.”
 
@@ -263,18 +263,18 @@ Sept. 9, 1966, Pub. L. 89–563, § 204(a), 80 Stat. 729; restated Oct. 27, 19
 ----------
 
 [/us/usc/t49/s30101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30101
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F956
-[/us/pl/105/178/s7106/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs7106%2Fb
+[/us/pl/105/178/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtVII
 [/us/stat/112/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F467
 [/us/usc/t49/s30101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30101
 [/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
-[/us/pl/114/94/s24115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24115
+[/us/pl/114/94/dB/tXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdB%2FtXXIV
 [/us/stat/129/1710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1710
-[/us/pl/106/414/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F414%2Fs11
+[/us/pl/106/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F414
 [/us/stat/114/1806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1806
 [/us/usc/t49/s30123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30123
-[/us/pl/106/414/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F414%2Fs13
+[/us/pl/106/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F414
 [/us/stat/114/1806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1806
 
 

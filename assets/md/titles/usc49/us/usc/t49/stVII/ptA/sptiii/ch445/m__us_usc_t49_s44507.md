@@ -43,7 +43,7 @@
 
     (5) provide medical consultation services to the Administrator about medical certification of airmen.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1179][/us/stat/108/1179].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1179][/us/stat/108/1179].)
 
 <table>
 
@@ -101,7 +101,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 312(e); added Nov. 3, 1988, 
 ----------
 
 [/us/usc/t49/s106/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106%2Fj
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1179
 
 

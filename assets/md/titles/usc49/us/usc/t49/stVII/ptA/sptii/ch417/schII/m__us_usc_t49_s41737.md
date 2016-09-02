@@ -65,7 +65,7 @@
 
         In this subsection, the term “significantly increased costs” means a total unit cost increase (but not increases in individual unit costs) of 10 percent or more in relation to the total unit cost reflected in the compensation rate, based on the carrier’s internal audit of its financial statements if such cost increase is incurred for a period of at least 2 consecutive months.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1151][/us/stat/108/1151]; [Pub. L. 108–176, title IV, § 402(a)][/us/pl/108/176/s402/a], Dec. 12, 2003, [117 Stat. 2543][/us/stat/117/2543]; [Pub. L. 112–95, title IV, § 427(a)][/us/pl/112/95/s427/a], Feb. 14, 2012, [126 Stat. 99][/us/stat/126/99].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1151][/us/stat/108/1151]; [Pub. L. 108–176, title IV][/us/pl/108/176/tIV], § 402(a), Dec. 12, 2003, [117 Stat. 2543][/us/stat/117/2543]; [Pub. L. 112–95, title IV][/us/pl/112/95/tIV], § 427(a), Feb. 14, 2012, [126 Stat. 99][/us/stat/126/99].)
 
 <table>
 
@@ -173,19 +173,19 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 419(l); added Nov. 5, 1990, 
 
  __Effective Date of 2003 Amendment__ 
 
-[Pub. L. 108–176, title IV, § 402(b)][/us/pl/108/176/s402/b], Dec. 12, 2003, [117 Stat. 2543][/us/stat/117/2543], provided that: 
+[Pub. L. 108–176, title IV][/us/pl/108/176/tIV], § 402(b), Dec. 12, 2003, [117 Stat. 2543][/us/stat/117/2543], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect 30 days after the date of enactment of this Act \[Dec. 12, 2003\].”
 
  __Emergency Across-the-Board Adjustment to Compensation for Significantly Increased Costs__ 
 
-[Pub. L. 112–95, title IV, § 426(a)][/us/pl/112/95/s426/a], Feb. 14, 2012, [126 Stat. 98][/us/stat/126/98], provided that: 
+[Pub. L. 112–95, title IV][/us/pl/112/95/tIV], § 426(a), Feb. 14, 2012, [126 Stat. 98][/us/stat/126/98], provided that: 
 
 > “Subject to the availability of funds, the Secretary may increase the rates of compensation payable to air carriers under subchapter II of chapter 417 of title 49, United States Code, to compensate such carriers for increased aviation fuel costs without regard to any agreement or requirement relating to the renegotiation of contracts or any notice requirement under section 41734 of such title.”
 
  __Deadline for Issuance of Revised Guidance__ 
 
-[Pub. L. 112–95, title IV, § 427(b)][/us/pl/112/95/s427/b], Feb. 14, 2012, [126 Stat. 99][/us/stat/126/99], provided that: 
+[Pub. L. 112–95, title IV][/us/pl/112/95/tIV], § 427(b), Feb. 14, 2012, [126 Stat. 99][/us/stat/126/99], provided that: 
 
 > “Not later than 1 year after the date of enactment of this Act \[Feb. 14, 2012\], the Secretary of Transportation shall issue revised guidelines governing the rate of compensation payable under subchapter II of chapter 417 that incorporate the amendments made by this section \[amending this section\].”
 
@@ -197,19 +197,19 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 419(l); added Nov. 5, 1990, 
 ----------
 
 [/us/usc/t26/s9502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9502
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1151
-[/us/pl/108/176/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs402%2Fa
+[/us/pl/108/176/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtIV
 [/us/stat/117/2543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2543
-[/us/pl/112/95/s427/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs427%2Fa
+[/us/pl/112/95/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtIV
 [/us/stat/126/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F99
 [/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
 [/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
-[/us/pl/108/176/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs402%2Fb
+[/us/pl/108/176/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtIV
 [/us/stat/117/2543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2543
-[/us/pl/112/95/s426/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs426%2Fa
+[/us/pl/112/95/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtIV
 [/us/stat/126/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F98
-[/us/pl/112/95/s427/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs427%2Fb
+[/us/pl/112/95/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtIV
 [/us/stat/126/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F99
 
 

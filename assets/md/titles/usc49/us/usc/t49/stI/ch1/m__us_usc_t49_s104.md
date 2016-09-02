@@ -35,7 +35,7 @@
 
     (d) Notwithstanding the provisions of sections 101(d) and 144 of title 23, highway bridges determined to be unreasonable obstructions to navigation under the Truman-Hobbs Act may be funded from amounts set aside from the discretionary bridge program. The Secretary shall transfer these allocations and the responsibility for administration of these funds to the United States Coast Guard.
 
-([Pub. L. 97–449, § 1(b)][/us/pl/97/449/s1/b], Jan. 12, 1983, [96 Stat. 2415][/us/stat/96/2415]; [Pub. L. 103–272][/us/pl/103/272], §§ 4(j)(2), 5(m)(2), July 5, 1994, [108 Stat. 1365][/us/stat/108/1365], 1375; [Pub. L. 104–324, title I, § 101(b)(1)][/us/pl/104/324/s101/b/1], Oct. 19, 1996, [110 Stat. 3905][/us/stat/110/3905]; [Pub. L. 106–159, title I, § 101(c)(2)][/us/pl/106/159/s101/c/2], Dec. 9, 1999, [113 Stat. 1751][/us/stat/113/1751].)
+([Pub. L. 97–449][/us/pl/97/449], § 1(b), Jan. 12, 1983, [96 Stat. 2415][/us/stat/96/2415]; [Pub. L. 103–272][/us/pl/103/272], §§ 4(j)(2), 5(m)(2), July 5, 1994, [108 Stat. 1365][/us/stat/108/1365], 1375; [Pub. L. 104–324, title I][/us/pl/104/324/tI], § 101(b)(1), Oct. 19, 1996, [110 Stat. 3905][/us/stat/110/3905]; [Pub. L. 106–159, title I][/us/pl/106/159/tI], § 101(c)(2), Dec. 9, 1999, [113 Stat. 1751][/us/stat/113/1751].)
 
 <table>
 
@@ -217,19 +217,19 @@ In subsection (b)(2), the words “In addition to the Administrator of the Feder
 
  __Amendments__ 
 
-    1999—Subsec. (c). [Pub. L. 106–159, § 101(c)(2)(A)][/us/pl/106/159/s101/c/2/A], substituted “; and” for the semicolon at end of par. (1), redesignated par. (3) as (2), and struck out former par. (2) which read as follows: “duties and powers related to motor carrier safety vested in the Secretary by chapters 5 and 315 of this title; and”.
+    1999—Subsec. (c). [Pub. L. 106–159][/us/pl/106/159], § 101(c)(2)(A), substituted “; and” for the semicolon at end of par. (1), redesignated par. (3) as (2), and struck out former par. (2) which read as follows: “duties and powers related to motor carrier safety vested in the Secretary by chapters 5 and 315 of this title; and”.
 
-    Subsecs. (d), (e). [Pub. L. 106–159, § 101(c)(2)(B)][/us/pl/106/159/s101/c/2/B], (C), redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows: “A duty or power specified by subsection (c)(2) of this section may be transferred to another part of the Department only when specifically provided by law or a reorganization plan submitted under chapter 9 of title 5. A decision of the Administrator in carrying out those duties or powers and involving notice and hearing required by law is administratively final.”
+    Subsecs. (d), (e). [Pub. L. 106–159][/us/pl/106/159], § 101(c)(2)(B), (C), redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows: “A duty or power specified by subsection (c)(2) of this section may be transferred to another part of the Department only when specifically provided by law or a reorganization plan submitted under chapter 9 of title 5. A decision of the Administrator in carrying out those duties or powers and involving notice and hearing required by law is administratively final.”
 
     1996—Subsec. (e). [Pub. L. 104–324][/us/pl/104/324] added subsec. (e).
 
-    1994—Subsec. (b)(1). [Pub. L. 103–272, § 4(j)(2)][/us/pl/103/272/s4/j/2], substituted “Administrator” for “Admininstrator” before “who is”.
+    1994—Subsec. (b)(1). [Pub. L. 103–272][/us/pl/103/272], § 4(j)(2), substituted “Administrator” for “Admininstrator” before “who is”.
 
-    Subsec. (c)(2). [Pub. L. 103–272, § 5(m)(2)][/us/pl/103/272/s5/m/2], substituted “315” for “31”.
+    Subsec. (c)(2). [Pub. L. 103–272][/us/pl/103/272], § 5(m)(2), substituted “315” for “31”.
 
  __Effective Date of 1999 Amendment__ 
 
-[Pub. L. 106–159, title I, § 107(a)][/us/pl/106/159/s107/a], Dec. 9, 1999, [113 Stat. 1758][/us/stat/113/1758], provided that: 
+[Pub. L. 106–159, title I][/us/pl/106/159/tI], § 107(a), Dec. 9, 1999, [113 Stat. 1758][/us/stat/113/1758], provided that: 
 
 > “This Act \[see Tables for classification\] shall take effect on the date of the enactment of this Act \[Dec. 9, 1999\]; except that the amendments made by section 101 \[enacting [section 113 of this title][/us/usc/t49/s113] and amending this section, sections 5314 and 5316 of Title 5, Government Organization and Employees, and [section 104 of Title 23][/us/usc/t23/s104], Highways\] shall take effect on January 1, 2000.”
 
@@ -239,7 +239,7 @@ In subsection (b)(2), the words “In addition to the Administrator of the Feder
 
  __Elimination of Regional Office Responsibilities__ 
 
-[Pub. L. 105–178, title I, § 1220][/us/pl/105/178/s1220], June 9, 1998, [112 Stat. 221][/us/stat/112/221], provided that:
+[Pub. L. 105–178, title I][/us/pl/105/178/tI], § 1220, June 9, 1998, [112 Stat. 221][/us/stat/112/221], provided that:
 
 >     “(a) __In General.—__ 
 
@@ -270,27 +270,27 @@ In subsection (b)(2), the words “In addition to the Administrator of the Feder
 ----------
 ----------
 
-[/us/pl/97/449/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449%2Fs1%2Fb
+[/us/pl/97/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449
 [/us/stat/96/2415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2415
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1365
-[/us/pl/104/324/s101/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs101%2Fb%2F1
+[/us/pl/104/324/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtI
 [/us/stat/110/3905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3905
-[/us/pl/106/159/s101/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2Fs101%2Fc%2F2
+[/us/pl/106/159/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2FtI
 [/us/stat/113/1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1751
 [/us/act/1940-06-21/ch409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-21%2Fch409
 [/us/stat/54/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F497
-[/us/pl/106/159/s101/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2Fs101%2Fc%2F2%2FA
-[/us/pl/106/159/s101/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2Fs101%2Fc%2F2%2FB
+[/us/pl/106/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159
+[/us/pl/106/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159
 [/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
-[/us/pl/103/272/s4/j/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs4%2Fj%2F2
-[/us/pl/103/272/s5/m/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs5%2Fm%2F2
-[/us/pl/106/159/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2Fs107%2Fa
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
+[/us/pl/106/159/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2FtI
 [/us/stat/113/1758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1758
 [/us/usc/t49/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs113
 [/us/usc/t23/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs104
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/105/178/s1220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1220
+[/us/pl/105/178/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtI
 [/us/stat/112/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F221
 
 

@@ -99,7 +99,7 @@
 
     This section shall not apply to any project subject to [section 139 of title 23][/us/usc/t23/s139].
 
-(Added [Pub. L. 114–94, div. A, title I, § 1313(a)][/us/pl/114/94/s1313/a], Dec. 4, 2015, [129 Stat. 1400][/us/stat/129/1400].)
+(Added [Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1313(a), Dec. 4, 2015, [129 Stat. 1400][/us/stat/129/1400].)
 
  __References in Text__ 
 
@@ -120,7 +120,7 @@
 
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/usc/t23/s139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs139
-[/us/pl/114/94/s1313/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1313%2Fa
+[/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
 [/us/stat/129/1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1400
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190

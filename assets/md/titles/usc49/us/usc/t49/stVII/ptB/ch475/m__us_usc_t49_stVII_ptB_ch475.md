@@ -235,11 +235,11 @@ SUBCHAPTER II—NATIONAL AVIATION NOISE POLICY  </td>
 
  __Amendments__ 
 
-    2012—[Pub. L. 112–95, title V, § 506(b)(3)][/us/pl/112/95/s506/b/3], Feb. 14, 2012, [126 Stat. 106][/us/stat/126/106], which directed amendment of the analysis for subchapter II of this chapter by substituting “Penalties” for “Penalties for violating sections 47528–47530” in item 47531 and by adding item 47534, was executed to the analysis for this chapter to reflect the probable intent of Congress.
+    2012—[Pub. L. 112–95, title V][/us/pl/112/95/tV], § 506(b)(3), Feb. 14, 2012, [126 Stat. 106][/us/stat/126/106], which directed amendment of the analysis for subchapter II of this chapter by substituting “Penalties” for “Penalties for violating sections 47528–47530” in item 47531 and by adding item 47534, was executed to the analysis for this chapter to reflect the probable intent of Congress.
 
-    1994—[Pub. L. 103–429, § 6(72)(B)][/us/pl/103/429/s6/72/B], Oct. 31, 1994, [108 Stat. 4388][/us/stat/108/4388], added item 47510.
+    1994—[Pub. L. 103–429][/us/pl/103/429], § 6(72)(B), Oct. 31, 1994, [108 Stat. 4388][/us/stat/108/4388], added item 47510.
 
-    [Pub. L. 103–305, title III, § 308(b)][/us/pl/103/305/s308/b], Aug. 23, 1994, [108 Stat. 1594][/us/stat/108/1594], added item 47509.
+    [Pub. L. 103–305, title III][/us/pl/103/305/tIII], § 308(b), Aug. 23, 1994, [108 Stat. 1594][/us/stat/108/1594], added item 47509.
 
 ----------
 
@@ -248,11 +248,11 @@ SUBCHAPTER II—NATIONAL AVIATION NOISE POLICY  </td>
 ----------
 ----------
 
-[/us/pl/112/95/s506/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs506%2Fb%2F3
+[/us/pl/112/95/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtV
 [/us/stat/126/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F106
-[/us/pl/103/429/s6/72/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F72%2FB
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/stat/108/4388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4388
-[/us/pl/103/305/s308/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2Fs308%2Fb
+[/us/pl/103/305/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2FtIII
 [/us/stat/108/1594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1594
 
 

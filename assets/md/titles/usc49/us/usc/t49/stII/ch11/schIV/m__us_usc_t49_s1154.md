@@ -75,7 +75,7 @@
 
     No part of a report of the Board, related to an accident or an investigation of an accident, may be admitted into evidence or used in a civil action for damages resulting from a matter mentioned in the report.
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 757][/us/stat/108/757]; [Pub. L. 106–424, § 5(c)(1)][/us/pl/106/424/s5/c/1], Nov. 1, 2000, [114 Stat. 1885][/us/stat/114/1885].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(d), July 5, 1994, [108 Stat. 757][/us/stat/108/757]; [Pub. L. 106–424][/us/pl/106/424], § 5(c)(1), Nov. 1, 2000, [114 Stat. 1885][/us/stat/114/1885].)
 
 <table>
 
@@ -181,13 +181,13 @@ In subsection (b), the words “civil action” are substituted for “suit or a
 
  __Amendments__ 
 
-    2000—[Pub. L. 106–424, § 5(c)(1)(A)][/us/pl/106/424/s5/c/1/A], substituted “and surface vehicle recordings and transcripts” for “voice and other material” in section catchline.
+    2000—[Pub. L. 106–424][/us/pl/106/424], § 5(c)(1)(A), substituted “and surface vehicle recordings and transcripts” for “voice and other material” in section catchline.
 
-    Subsec. (a). [Pub. L. 106–424, § 5(c)(1)(B)][/us/pl/106/424/s5/c/1/B], substituted “cockpit or surface vehicle recorder” for “cockpit voice recorder” wherever appearing.
+    Subsec. (a). [Pub. L. 106–424][/us/pl/106/424], § 5(c)(1)(B), substituted “cockpit or surface vehicle recorder” for “cockpit voice recorder” wherever appearing.
 
-    [Pub. L. 106–424, § 5(c)(1)(C)][/us/pl/106/424/s5/c/1/C], substituted “section 1114(c) or 1114(d)” for “section 1114(c)” wherever appearing.
+    [Pub. L. 106–424][/us/pl/106/424], § 5(c)(1)(C), substituted “section 1114(c) or 1114(d)” for “section 1114(c)” wherever appearing.
 
-    Subsec. (a)(6). [Pub. L. 106–424, § 5(c)(1)(D)][/us/pl/106/424/s5/c/1/D], which directed the amendment of this section by adding par. (6) at the end, was executed by adding par. (6) at the end of subsec. (a) to reflect the probable intent of Congress.
+    Subsec. (a)(6). [Pub. L. 106–424][/us/pl/106/424], § 5(c)(1)(D), which directed the amendment of this section by adding par. (6) at the end, was executed by adding par. (6) at the end of subsec. (a) to reflect the probable intent of Congress.
 
 ----------
 
@@ -196,13 +196,13 @@ In subsection (b), the words “civil action” are substituted for “suit or a
 ----------
 ----------
 
-[/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F757
-[/us/pl/106/424/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F424%2Fs5%2Fc%2F1
+[/us/pl/106/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F424
 [/us/stat/114/1885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1885
-[/us/pl/106/424/s5/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F424%2Fs5%2Fc%2F1%2FA
-[/us/pl/106/424/s5/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F424%2Fs5%2Fc%2F1%2FB
-[/us/pl/106/424/s5/c/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F424%2Fs5%2Fc%2F1%2FC
-[/us/pl/106/424/s5/c/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F424%2Fs5%2Fc%2F1%2FD
+[/us/pl/106/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F424
+[/us/pl/106/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F424
+[/us/pl/106/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F424
+[/us/pl/106/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F424
 
 

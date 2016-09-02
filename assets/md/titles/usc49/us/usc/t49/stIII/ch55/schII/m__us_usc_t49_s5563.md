@@ -53,7 +53,7 @@
 
     The Secretary of Transportation may not make a grant under this section for more than 80 percent of the total cost of converting a rail passenger terminal into an intermodal transportation terminal.
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 851][/us/stat/108/851].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(d), July 5, 1994, [108 Stat. 851][/us/stat/108/851].)
 
 <table>
 
@@ -127,7 +127,7 @@ Oct. 15, 1966, Pub. L. 89–670, 80 Stat. 931, § 4(i)(2); added Oct. 28, 1974
 ----------
 
 [/us/usc/t49/s5562/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5562%2Fa%2F1
-[/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F851
 [/us/usc/t49/s5562/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5562%2Fa%2F1
 

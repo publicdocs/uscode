@@ -79,23 +79,23 @@
 
     Nothing in this section may be construed as limiting the actions that an air carrier may take, or the obligations that an air carrier may have, in providing assistance to the families of passengers involved in an aircraft accident.
 
-(Added [Pub. L. 104–264, title VII, § 703(a)][/us/pl/104/264/s703/a], Oct. 9, 1996, [110 Stat. 3267][/us/stat/110/3267]; amended [Pub. L. 106–181, title IV, § 402(a)(1)][/us/pl/106/181/s402/a/1]–(3), (5)–(c), Apr. 5, 2000, [114 Stat. 129][/us/stat/114/129], 130; [Pub. L. 108–176, title VIII, § 809(a)][/us/pl/108/176/s809/a], Dec. 12, 2003, [117 Stat. 2588][/us/stat/117/2588].)
+(Added [Pub. L. 104–264, title VII][/us/pl/104/264/tVII], § 703(a), Oct. 9, 1996, [110 Stat. 3267][/us/stat/110/3267]; amended [Pub. L. 106–181, title IV][/us/pl/106/181/tIV], § 402(a)(1)–(3), (5)–(c), Apr. 5, 2000, [114 Stat. 129][/us/stat/114/129], 130; [Pub. L. 108–176, title VIII][/us/pl/108/176/tVIII], § 809(a), Dec. 12, 2003, [117 Stat. 2588][/us/stat/117/2588].)
 
  __Amendments__ 
 
-    2003—Subsec. (b)(16). [Pub. L. 108–176, § 809(a)(1)][/us/pl/108/176/s809/a/1], struck out “the air carrier” after “major loss of life,”.
+    2003—Subsec. (b)(16). [Pub. L. 108–176][/us/pl/108/176], § 809(a)(1), struck out “the air carrier” after “major loss of life,”.
 
-    Subsec. (b)(17), (18). [Pub. L. 108–176, § 809(a)(2)][/us/pl/108/176/s809/a/2], added pars. (17) and (18).
+    Subsec. (b)(17), (18). [Pub. L. 108–176][/us/pl/108/176], § 809(a)(2), added pars. (17) and (18).
 
-    2000—Subsec. (a). [Pub. L. 106–181, § 402(a)(5)(A)][/us/pl/106/181/s402/a/5/A], substituted “Each air carrier” for “Not later than 6 months after the date of the enactment of this section, each air carrier”.
+    2000—Subsec. (a). [Pub. L. 106–181][/us/pl/106/181], § 402(a)(5)(A), substituted “Each air carrier” for “Not later than 6 months after the date of the enactment of this section, each air carrier”.
 
-    Subsec. (b)(14) to (16). [Pub. L. 106–181, § 402(a)(1)][/us/pl/106/181/s402/a/1]–(3), added pars. (14) to (16).
+    Subsec. (b)(14) to (16). [Pub. L. 106–181][/us/pl/106/181], § 402(a)(1)–(3), added pars. (14) to (16).
 
-    Subsec. (c). [Pub. L. 106–181, § 402(a)(5)(B)][/us/pl/106/181/s402/a/5/B], substituted “The Secretary” for “After the date that is 6 months after the date of the enactment of this section, the Secretary”.
+    Subsec. (c). [Pub. L. 106–181][/us/pl/106/181], § 402(a)(5)(B), substituted “The Secretary” for “After the date that is 6 months after the date of the enactment of this section, the Secretary”.
 
-    Subsec. (d). [Pub. L. 106–181, § 402(b)][/us/pl/106/181/s402/b], inserted “, or in providing information concerning a preliminary passenger manifest,” before “pursuant to a plan”.
+    Subsec. (d). [Pub. L. 106–181][/us/pl/106/181], § 402(b), inserted “, or in providing information concerning a preliminary passenger manifest,” before “pursuant to a plan”.
 
-    Subsec. (f). [Pub. L. 106–181, § 402(c)][/us/pl/106/181/s402/c], added subsec. (f).
+    Subsec. (f). [Pub. L. 106–181][/us/pl/106/181], § 402(c), added subsec. (f).
 
  __Effective Date of 2003 Amendment__ 
 
@@ -105,7 +105,7 @@
 
     Amendment by section 402(a)(5)(B) to (c) of [Pub. L. 106–181][/us/pl/106/181] applicable only to fiscal years beginning after Sept. 30, 1999, see [section 3 of Pub. L. 106–181][/us/pl/106/181/s3], set out as a note under [section 106 of this title][/us/usc/t49/s106].
 
-[Pub. L. 106–181, title IV, § 402(a)(4)][/us/pl/106/181/s402/a/4], Apr. 5, 2000, [114 Stat. 130][/us/stat/114/130], provided that: 
+[Pub. L. 106–181, title IV][/us/pl/106/181/tIV], § 402(a)(4), Apr. 5, 2000, [114 Stat. 130][/us/stat/114/130], provided that: 
 
 > “The amendments made by paragraphs (1), (2), and (3) \[amending this section\] shall take effect on the 180th day following the date of the enactment of this Act \[Apr. 5, 2000\]. On or before such 180th day, each air carrier holding a certificate of public convenience and necessity under [section 41102 of title 49][/us/usc/t49/s41102], United States Code, shall submit to the Secretary \[of Transportation\] and the Chairman of the National Transportation Safety Board an updated plan under section 41113 of such title that meets the requirements of the amendments made by paragraphs (1), (2), and (3).”
 
@@ -115,13 +115,13 @@
 
  __Update Plans__ 
 
-[Pub. L. 108–176, title VIII, § 809(c)][/us/pl/108/176/s809/c], Dec. 12, 2003, [117 Stat. 2589][/us/stat/117/2589], provided that: 
+[Pub. L. 108–176, title VIII][/us/pl/108/176/tVIII], § 809(c), Dec. 12, 2003, [117 Stat. 2589][/us/stat/117/2589], provided that: 
 
 > “Air carriers and foreign air carriers shall update their plans under sections 41113 and 41313 of title 49, United States Code, respectively, to reflect the amendments made by subsections (a) and (b) of this section \[amending this section and [section 41313 of this title][/us/usc/t49/s41313]\] not later than 90 days after the date of enactment of this Act \[Dec. 12, 2003\].”
 
  __Establishment of Task Force__ 
 
-[Pub. L. 104–264, title VII, § 704][/us/pl/104/264/s704], Oct. 9, 1996, [110 Stat. 3268][/us/stat/110/3268], provided that:
+[Pub. L. 104–264, title VII][/us/pl/104/264/tVII], § 704, Oct. 9, 1996, [110 Stat. 3268][/us/stat/110/3268], provided that:
 
 >     “(a)  __Establishment__  __.—__ 
 
@@ -159,7 +159,7 @@
 
  __Limitation on Statutory Construction__ 
 
-[Pub. L. 104–264, title VII, § 705][/us/pl/104/264/s705], Oct. 9, 1996, [110 Stat. 3269][/us/stat/110/3269], provided that: 
+[Pub. L. 104–264, title VII][/us/pl/104/264/tVII], § 705, Oct. 9, 1996, [110 Stat. 3269][/us/stat/110/3269], provided that: 
 
 > “Nothing in this title \[enacting this section and [section 1136 of this title][/us/usc/t49/s1136], amending [section 1155 of this title][/us/usc/t49/s1155], and enacting provisions set out as notes under this section and [section 40101 of this title][/us/usc/t49/s40101]\] or any amendment made by this title may be construed as limiting the actions that an air carrier may take, or the obligations that an air carrier may have, in providing assistance to the families of passengers involved in an aircraft accident.”
 
@@ -178,36 +178,36 @@
 [/us/usc/t49/s1136/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1136%2Fa%2F2
 [/us/usc/t49/s41102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs41102
 [/us/usc/t49/s1136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1136
-[/us/pl/104/264/s703/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs703%2Fa
+[/us/pl/104/264/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2FtVII
 [/us/stat/110/3267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3267
-[/us/pl/106/181/s402/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs402%2Fa%2F1
+[/us/pl/106/181/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtIV
 [/us/stat/114/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F129
-[/us/pl/108/176/s809/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs809%2Fa
+[/us/pl/108/176/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtVIII
 [/us/stat/117/2588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2588
-[/us/pl/108/176/s809/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs809%2Fa%2F1
-[/us/pl/108/176/s809/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs809%2Fa%2F2
-[/us/pl/106/181/s402/a/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs402%2Fa%2F5%2FA
-[/us/pl/106/181/s402/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs402%2Fa%2F1
-[/us/pl/106/181/s402/a/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs402%2Fa%2F5%2FB
-[/us/pl/106/181/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs402%2Fb
-[/us/pl/106/181/s402/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs402%2Fc
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
 [/us/pl/108/176/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106
 [/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/pl/106/181/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106
-[/us/pl/106/181/s402/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs402%2Fa%2F4
+[/us/pl/106/181/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtIV
 [/us/stat/114/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F130
 [/us/usc/t49/s41102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs41102
 [/us/pl/104/264/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106
-[/us/pl/108/176/s809/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs809%2Fc
+[/us/pl/108/176/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtVIII
 [/us/stat/117/2589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2589
 [/us/usc/t49/s41313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs41313
-[/us/pl/104/264/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs704
+[/us/pl/104/264/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2FtVII
 [/us/stat/110/3268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3268
-[/us/pl/104/264/s705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs705
+[/us/pl/104/264/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2FtVII
 [/us/stat/110/3269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3269
 [/us/usc/t49/s1136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1136
 [/us/usc/t49/s1155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1155

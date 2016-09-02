@@ -25,7 +25,7 @@
 
     (4) under [section 46301(d)(5) of this title][/us/usc/t49/s46301/d/5], an order imposing a penalty under section 46301.
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 754][/us/stat/108/754].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(d), July 5, 1994, [108 Stat. 754][/us/stat/108/754].)
 
 <table>
 
@@ -107,7 +107,7 @@ Jan. 3, 1975, Pub. L. 93–633, § 304(a)(9), 88 Stat. 2169; Oct. 19, 1984, Pu
 [/us/usc/t49/s44106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44106
 [/us/usc/t46/s9303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs9303
 [/us/usc/t49/s46301/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs46301%2Fd%2F5
-[/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F754
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 

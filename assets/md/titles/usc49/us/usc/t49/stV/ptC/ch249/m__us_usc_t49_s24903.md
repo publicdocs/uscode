@@ -45,7 +45,7 @@
 
         (3) This subsection does not prevent the parties from making an agreement under subsection (a)(6) of this section after the Board makes a decision under this subsection.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 934][/us/stat/108/934], § 24904; [Pub. L. 103–429, § 6(22)][/us/pl/103/429/s6/22], Oct. 31, 1994, [108 Stat. 4380][/us/stat/108/4380]; [Pub. L. 105–134, title IV, § 405(b)(2)][/us/pl/105/134/s405/b/2], Dec. 2, 1997, [111 Stat. 2586][/us/stat/111/2586]; [Pub. L. 110–432, div. B, title II, § 212(b)(2)][/us/pl/110/432/s212/b/2], Oct. 16, 2008, [122 Stat. 4924][/us/stat/122/4924]; [Pub. L. 112–141, div. C, title II, § 32932(c)(4)][/us/pl/112/141/s32932/c/4], July 6, 2012, [126 Stat. 829][/us/stat/126/829]; renumbered § 24903, [Pub. L. 114–94, div. A, title XI, § 11306(a)(1)][/us/pl/114/94/s11306/a/1], Dec. 4, 2015, [129 Stat. 1658][/us/stat/129/1658].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 934][/us/stat/108/934], § 24904; [Pub. L. 103–429][/us/pl/103/429], § 6(22), Oct. 31, 1994, [108 Stat. 4380][/us/stat/108/4380]; [Pub. L. 105–134, title IV][/us/pl/105/134/tIV], § 405(b)(2), Dec. 2, 1997, [111 Stat. 2586][/us/stat/111/2586]; [Pub. L. 110–432, div. B, title II][/us/pl/110/432/dB/tII], § 212(b)(2), Oct. 16, 2008, [122 Stat. 4924][/us/stat/122/4924]; [Pub. L. 112–141, div. C, title II][/us/pl/112/141/dC/tII], § 32932(c)(4), July 6, 2012, [126 Stat. 829][/us/stat/126/829]; renumbered § 24903, [Pub. L. 114–94, div. A, title XI][/us/pl/114/94/dA/tXI], § 11306(a)(1), Dec. 4, 2015, [129 Stat. 1658][/us/stat/129/1658].)
 
 <table>
 
@@ -337,7 +337,7 @@ In subsection (a), before clause (1), the words “the purposes of” are omitte
 
  __Prior Provisions__ 
 
-    A prior section 24903, [Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 933][/us/stat/108/933]; [Pub. L. 104–287, § 5(48)][/us/pl/104/287/s5/48], Oct. 11, 1996, [110 Stat. 3393][/us/stat/110/3393], related to program master plan for Boston-New York main line, prior to repeal by [Pub. L. 105–134, title IV, § 405(a)][/us/pl/105/134/s405/a], Dec. 2, 1997, [111 Stat. 2586][/us/stat/111/2586].
+    A prior section 24903, [Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 933][/us/stat/108/933]; [Pub. L. 104–287][/us/pl/104/287], § 5(48), Oct. 11, 1996, [110 Stat. 3393][/us/stat/110/3393], related to program master plan for Boston-New York main line, prior to repeal by [Pub. L. 105–134, title IV][/us/pl/105/134/tIV], § 405(a), Dec. 2, 1997, [111 Stat. 2586][/us/stat/111/2586].
 
  __Amendments__ 
 
@@ -345,7 +345,7 @@ In subsection (a), before clause (1), the words “the purposes of” are omitte
 
     2012—Subsec. (c)(2). [Pub. L. 112–141][/us/pl/112/141] substituted “Surface Transportation Board” for “Interstate Commerce Commission” and “Board” for “Commission”.
 
-    Subsec. (c)(3). [Pub. L. 112–141, § 32932(c)(4)(B)][/us/pl/112/141/s32932/c/4/B], substituted “Board” for “Commission”.
+    Subsec. (c)(3). [Pub. L. 112–141][/us/pl/112/141], § 32932(c)(4)(B), substituted “Board” for “Commission”.
 
     2008—Subsec. (c)(2). [Pub. L. 110–432][/us/pl/110/432] inserted “commuter rail passenger and” after “between” in first sentence and struck out “freight” after “rail” in second sentence.
 
@@ -378,17 +378,17 @@ In subsection (a), before clause (1), the words “the purposes of” are omitte
 [/us/usc/t45/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs801
 [/us/usc/t45/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs701
 [/us/usc/t45/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs801
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F934
-[/us/pl/103/429/s6/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F22
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/stat/108/4380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4380
-[/us/pl/105/134/s405/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2Fs405%2Fb%2F2
+[/us/pl/105/134/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2FtIV
 [/us/stat/111/2586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2586
-[/us/pl/110/432/s212/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs212%2Fb%2F2
+[/us/pl/110/432/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdB%2FtII
 [/us/stat/122/4924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4924
-[/us/pl/112/141/s32932/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32932%2Fc%2F4
+[/us/pl/112/141/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtII
 [/us/stat/126/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F829
-[/us/pl/114/94/s11306/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11306%2Fa%2F1
+[/us/pl/114/94/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtXI
 [/us/stat/129/1658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1658
 [/us/usc/t45/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs501
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
@@ -401,16 +401,16 @@ In subsection (a), before clause (1), the words “the purposes of” are omitte
 [/us/pl/94/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F210
 [/us/stat/90/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F31
 [/us/usc/t45/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs801
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F933
-[/us/pl/104/287/s5/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F48
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3393
-[/us/pl/105/134/s405/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2Fs405%2Fa
+[/us/pl/105/134/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2FtIV
 [/us/stat/111/2586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2586
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/usc/t49/s24904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24904
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
-[/us/pl/112/141/s32932/c/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32932%2Fc%2F4%2FB
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
 [/us/pl/105/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134
 [/us/usc/t47/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs151

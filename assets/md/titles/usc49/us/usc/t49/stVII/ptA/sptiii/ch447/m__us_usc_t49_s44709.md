@@ -79,7 +79,7 @@
 
     A person substantially affected by an order of the Board under this section, or the Administrator when the Administrator decides that an order of the Board under this section will have a significant adverse impact on carrying out this part, may obtain judicial review of the order under [section 46110 of this title][/us/usc/t49/s46110]. The Administrator shall be made a party to the judicial review proceedings. Findings of fact of the Board are conclusive if supported by substantial evidence.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1190][/us/stat/108/1190]; [Pub. L. 106–181, title VII, § 716][/us/pl/106/181/s716], Apr. 5, 2000, [114 Stat. 162][/us/stat/114/162]; [Pub. L. 108–176, title II, § 227(c)][/us/pl/108/176/s227/c], Dec. 12, 2003, [117 Stat. 2532][/us/stat/117/2532]; [Pub. L. 112–153, § 2(c)(2)][/us/pl/112/153/s2/c/2], Aug. 3, 2012, [126 Stat. 1161][/us/stat/126/1161].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1190][/us/stat/108/1190]; [Pub. L. 106–181, title VII][/us/pl/106/181/tVII], § 716, Apr. 5, 2000, [114 Stat. 162][/us/stat/114/162]; [Pub. L. 108–176, title II][/us/pl/108/176/tII], § 227(c), Dec. 12, 2003, [117 Stat. 2532][/us/stat/117/2532]; [Pub. L. 112–153][/us/pl/112/153], § 2(c)(2), Aug. 3, 2012, [126 Stat. 1161][/us/stat/126/1161].)
 
 <table>
 
@@ -420,13 +420,13 @@ In this section, the word “Administrator” in section 609(a) of the Federal A
 [/us/usc/t49/s44715/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44715%2Fa
 [/us/usc/t16/s742j–1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs742j%E2%80%931%2Fa
 [/us/usc/t49/s46110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs46110
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1190
-[/us/pl/106/181/s716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs716
+[/us/pl/106/181/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtVII
 [/us/stat/114/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F162
-[/us/pl/108/176/s227/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs227%2Fc
+[/us/pl/108/176/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtII
 [/us/stat/117/2532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2532
-[/us/pl/112/153/s2/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F153%2Fs2%2Fc%2F2
+[/us/pl/112/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F153
 [/us/stat/126/1161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1161
 [/us/pl/85/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F726
 [/us/stat/72/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F779

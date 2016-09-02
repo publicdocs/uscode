@@ -17,7 +17,7 @@
 
     A person that knowingly or willfully violates [section 40103(b)(3) of this title][/us/usc/t49/s40103/b/3] or a regulation prescribed or order issued under section 40103(b)(3) shall be fined under title 18, imprisoned for not more than one year, or both.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1237][/us/stat/108/1237].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1237][/us/stat/108/1237].)
 
 <table>
 
@@ -75,7 +75,7 @@ Aug. 23, 1958, Pub. L. 85–726, § 1203, 72 Stat. 800.  </td>
 ----------
 
 [/us/usc/t49/s40103/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40103%2Fb%2F3
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1237
 
 

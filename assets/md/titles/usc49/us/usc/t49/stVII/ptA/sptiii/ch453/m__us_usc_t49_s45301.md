@@ -63,23 +63,23 @@
 
     In addition to adjustments under subsection (b), the Administrator may periodically adjust the fees established under this section.
 
-(Added [Pub. L. 104–264, title II, § 273(a)][/us/pl/104/264/s273/a], Oct. 9, 1996, [110 Stat. 3239][/us/stat/110/3239]; amended [Pub. L. 106–181, title VII, § 719][/us/pl/106/181/s719], Apr. 5, 2000, [114 Stat. 163][/us/stat/114/163]; [Pub. L. 107–71, title I, § 119(d)][/us/pl/107/71/s119/d], Nov. 19, 2001, [115 Stat. 629][/us/stat/115/629]; [Pub. L. 112–95, title I, § 121][/us/pl/112/95/s121], Feb. 14, 2012, [126 Stat. 19][/us/stat/126/19].)
+(Added [Pub. L. 104–264, title II][/us/pl/104/264/tII], § 273(a), Oct. 9, 1996, [110 Stat. 3239][/us/stat/110/3239]; amended [Pub. L. 106–181, title VII][/us/pl/106/181/tVII], § 719, Apr. 5, 2000, [114 Stat. 163][/us/stat/114/163]; [Pub. L. 107–71, title I][/us/pl/107/71/tI], § 119(d), Nov. 19, 2001, [115 Stat. 629][/us/stat/115/629]; [Pub. L. 112–95, title I][/us/pl/112/95/tI], § 121, Feb. 14, 2012, [126 Stat. 19][/us/stat/126/19].)
 
  __Prior Provisions__ 
 
-    A prior section 45301, [Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1225][/us/stat/108/1225]; [Pub. L. 103–305, title II, § 209][/us/pl/103/305/s209], Aug. 23, 1994, [108 Stat. 1589][/us/stat/108/1589]; [Pub. L. 104–287, § 5(76)][/us/pl/104/287/s5/76], Oct. 11, 1996, [110 Stat. 3396][/us/stat/110/3396]; [Pub. L. 105–102, § 3(d)(1)(C)][/us/pl/105/102/s3/d/1/C], Nov. 20, 1997, [111 Stat. 2215][/us/stat/111/2215], related to authority to impose fees, prior to repeal by [Pub. L. 104–264, title II][/us/pl/104/264], §§ 203, 273(a), Oct. 9, 1996, [110 Stat. 3227][/us/stat/110/3227], 3239, effective 30 days after Oct. 9, 1996.
+    A prior section 45301, [Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1225][/us/stat/108/1225]; [Pub. L. 103–305, title II][/us/pl/103/305/tII], § 209, Aug. 23, 1994, [108 Stat. 1589][/us/stat/108/1589]; [Pub. L. 104–287][/us/pl/104/287], § 5(76), Oct. 11, 1996, [110 Stat. 3396][/us/stat/110/3396]; [Pub. L. 105–102][/us/pl/105/102], § 3(d)(1)(C), Nov. 20, 1997, [111 Stat. 2215][/us/stat/111/2215], related to authority to impose fees, prior to repeal by [Pub. L. 104–264, title II][/us/pl/104/264/tII], §§ 203, 273(a), Oct. 9, 1996, [110 Stat. 3227][/us/stat/110/3227], 3239, effective 30 days after Oct. 9, 1996.
 
  __Amendments__ 
 
-    2012—Subsec. (b). [Pub. L. 112–95, § 121(a)][/us/pl/112/95/s121/a], amended subsec. (b) generally. Prior to amendment, subsec. (b) related to limitations on fees.
+    2012—Subsec. (b). [Pub. L. 112–95][/us/pl/112/95], § 121(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to limitations on fees.
 
-    Subsec. (e). [Pub. L. 112–95, § 121(b)][/us/pl/112/95/s121/b], added subsec. (e).
+    Subsec. (e). [Pub. L. 112–95][/us/pl/112/95], § 121(b), added subsec. (e).
 
     2001—Subsec. (b)(1)(B). [Pub. L. 107–71][/us/pl/107/71] substituted “reasonably” for “directly” and “Administration’s costs, as determined by the Administrator,” for “Administration’s costs” and inserted “The Determination of such costs by the Administrator is not subject to judicial review.” at end.
 
-    2000—Subsec. (a)(2). [Pub. L. 106–181, § 719(1)][/us/pl/106/181/s719/1], added par. (2) and struck out former par. (2) which read as follows: “Services (other than air traffic control services) provided to a foreign government.”
+    2000—Subsec. (a)(2). [Pub. L. 106–181][/us/pl/106/181], § 719(1), added par. (2) and struck out former par. (2) which read as follows: “Services (other than air traffic control services) provided to a foreign government.”
 
-    Subsec. (d). [Pub. L. 106–181, § 719(2)][/us/pl/106/181/s719/2], added subsec. (d).
+    Subsec. (d). [Pub. L. 106–181][/us/pl/106/181], § 719(2), added subsec. (d).
 
  __Effective Date of 2000 Amendment__ 
 
@@ -93,7 +93,7 @@
 
  __Overflight Fees__ 
 
-[Pub. L. 108–176, title II, § 229][/us/pl/108/176/s229], Dec. 12, 2003, [117 Stat. 2532][/us/stat/117/2532], provided that:
+[Pub. L. 108–176, title II][/us/pl/108/176/tII], § 229, Dec. 12, 2003, [117 Stat. 2532][/us/stat/117/2532], provided that:
 
 >     “(a) __Adoption and Legalization of Certain Rules.—__ 
 
@@ -126,29 +126,29 @@
 
 [/us/usc/t5/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs702
 [/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109
-[/us/pl/104/264/s273/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs273%2Fa
+[/us/pl/104/264/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2FtII
 [/us/stat/110/3239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3239
-[/us/pl/106/181/s719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs719
+[/us/pl/106/181/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtVII
 [/us/stat/114/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F163
-[/us/pl/107/71/s119/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs119%2Fd
+[/us/pl/107/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2FtI
 [/us/stat/115/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F629
-[/us/pl/112/95/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs121
+[/us/pl/112/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtI
 [/us/stat/126/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F19
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1225
-[/us/pl/103/305/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2Fs209
+[/us/pl/103/305/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2FtII
 [/us/stat/108/1589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1589
-[/us/pl/104/287/s5/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F76
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3396
-[/us/pl/105/102/s3/d/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102%2Fs3%2Fd%2F1%2FC
+[/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/stat/111/2215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2215
-[/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
+[/us/pl/104/264/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2FtII
 [/us/stat/110/3227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3227
-[/us/pl/112/95/s121/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs121%2Fa
-[/us/pl/112/95/s121/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs121%2Fb
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
 [/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
-[/us/pl/106/181/s719/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs719%2F1
-[/us/pl/106/181/s719/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs719%2F2
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/pl/106/181/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106
@@ -156,7 +156,7 @@
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106
 [/us/pl/104/264/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106
-[/us/pl/108/176/s229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs229
+[/us/pl/108/176/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtII
 [/us/stat/117/2532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2532
 [/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
 [/us/usc/t49/s44901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44901

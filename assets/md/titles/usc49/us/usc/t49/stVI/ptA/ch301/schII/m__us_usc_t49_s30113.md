@@ -73,7 +73,7 @@
 
     The Secretary shall require a permanent label to be fixed to a motor vehicle granted an exemption under this section. The label shall either name or describe each motor vehicle safety standard prescribed under this chapter or bumper standard prescribed under chapter 325 of this title from which the vehicle is exempt. The Secretary may require that written notice of an exemption be delivered by appropriate means to the dealer and the first purchaser of the vehicle other than for resale.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 945][/us/stat/108/945]; [Pub. L. 105–277, div. A, § 101(g)][/us/pl/105/277/s101/g] \[title III, § 351(a)\], Oct. 21, 1998, [112 Stat. 2681–439][/us/stat/112/2681-439], 2681–475.)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 945][/us/stat/108/945]; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(g) \[title III, § 351(a)\], Oct. 21, 1998, [112 Stat. 2681–439][/us/stat/112/2681-439], 2681–475.)
 
 <table>
 
@@ -245,15 +245,15 @@ Sept. 9, 1966, Pub. L. 89–563, 80 Stat. 718, § 123; added Apr. 10, 1968, Pu
 
  __Amendments__ 
 
-    1998—Subsec. (b)(1). [Pub. L. 105–277, § 101(g)][/us/pl/105/277/s101/g] \[title III, § 351(a)(1)(A)\], inserted “or passenger motor vehicles from a bumper standard prescribed under chapter 325 of this title,” after “a motor vehicle safety standard prescribed under this chapter”.
+    1998—Subsec. (b)(1). [Pub. L. 105–277][/us/pl/105/277], § 101(g) \[title III, § 351(a)(1)(A)\], inserted “or passenger motor vehicles from a bumper standard prescribed under chapter 325 of this title,” after “a motor vehicle safety standard prescribed under this chapter”.
 
-    Subsec. (b)(3)(A). [Pub. L. 105–277, § 101(g)][/us/pl/105/277/s101/g] \[title III, § 351(a)(1)(B)\], inserted “or chapter 325 of this title (as applicable)” after “this chapter”.
+    Subsec. (b)(3)(A). [Pub. L. 105–277][/us/pl/105/277], § 101(g) \[title III, § 351(a)(1)(B)\], inserted “or chapter 325 of this title (as applicable)” after “this chapter”.
 
-    Subsec. (c)(1). [Pub. L. 105–277, § 101(g)][/us/pl/105/277/s101/g] \[title III, § 351(a)(2)\], inserted “, or a bumper standard prescribed under chapter 325 of this title,” after “motor vehicle safety standard prescribed under this chapter”.
+    Subsec. (c)(1). [Pub. L. 105–277][/us/pl/105/277], § 101(g) \[title III, § 351(a)(2)\], inserted “, or a bumper standard prescribed under chapter 325 of this title,” after “motor vehicle safety standard prescribed under this chapter”.
 
-    Subsec. (d). [Pub. L. 105–277, § 101(g)][/us/pl/105/277/s101/g] \[title III, § 351(a)(3)\], inserted “(including an exemption under subsection (b)(3)(B)(i) relating to a bumper standard referred to in subsection (b)(1))” after “subsection (b)(3)(B)(i) of this section”.
+    Subsec. (d). [Pub. L. 105–277][/us/pl/105/277], § 101(g) \[title III, § 351(a)(3)\], inserted “(including an exemption under subsection (b)(3)(B)(i) relating to a bumper standard referred to in subsection (b)(1))” after “subsection (b)(3)(B)(i) of this section”.
 
-    Subsec. (h). [Pub. L. 105–277, § 101(g)][/us/pl/105/277/s101/g] \[title III, § 351(a)(4)\], inserted “or bumper standard prescribed under chapter 325 of this title” after “each motor vehicle safety standard prescribed under this chapter”.
+    Subsec. (h). [Pub. L. 105–277][/us/pl/105/277], § 101(g) \[title III, § 351(a)(4)\], inserted “or bumper standard prescribed under chapter 325 of this title” after “each motor vehicle safety standard prescribed under this chapter”.
 
 ----------
 
@@ -263,14 +263,14 @@ Sept. 9, 1966, Pub. L. 89–563, 80 Stat. 718, § 123; added Apr. 10, 1968, Pu
 ----------
 
 [/us/usc/t42/s7521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7521
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F945
-[/us/pl/105/277/s101/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fg
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-439
-[/us/pl/105/277/s101/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fg
-[/us/pl/105/277/s101/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fg
-[/us/pl/105/277/s101/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fg
-[/us/pl/105/277/s101/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fg
-[/us/pl/105/277/s101/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fg
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 
 

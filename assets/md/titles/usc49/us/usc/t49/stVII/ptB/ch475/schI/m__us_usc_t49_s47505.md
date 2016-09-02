@@ -27,7 +27,7 @@
 
     A grant under subsection (a) of this section may be made from amounts available under [section 48103 of this title][/us/usc/t49/s48103]. The United States Government’s share of the grant is the percent for which a project for airport development at an airport would be eligible under section 47109(a) and (b) of this title.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1286][/us/stat/108/1286].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1286][/us/stat/108/1286].)
 
 <table>
 
@@ -87,7 +87,7 @@ Feb. 18, 1980, Pub. L. 96–193, § 103(b), 94 Stat. 51; restated Sept. 3, 198
 [/us/usc/t49/s47503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs47503
 [/us/usc/t49/s47504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs47504
 [/us/usc/t49/s48103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs48103
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1286
 
 

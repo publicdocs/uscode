@@ -53,7 +53,7 @@
 
     A release of a bond required under [section 30141(d) of this title][/us/usc/t49/s30141/d] is deemed an acceptance of a certification or completion of an inspection under this section but is not a decision by the Secretary of Transportation under section 30118(a) or (b) of this title of compliance with applicable motor vehicle safety standards prescribed under this chapter.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 964][/us/stat/108/964].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 964][/us/stat/108/964].)
 
 <table>
 
@@ -172,7 +172,7 @@ Sept. 9, 1966, Pub. L. 89–563, 80 Stat. 718, § 108(c)(3)(E); added Oct. 31,
 [/us/usc/t49/s30142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30142
 [/us/usc/t49/s30141/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30141%2Fd
 [/us/usc/t49/s30141/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30141%2Fd
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F964
 
 

@@ -17,7 +17,7 @@
 
     The Secretary of Transportation shall encourage the submission of joint proposals, including joint fares, by 2 or more air carriers for providing air service or air transportation under this subchapter through arrangements that maximize the service or transportation to and from major destinations beyond the hub.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1152][/us/stat/108/1152]; [Pub. L. 108–176, title IV, § 403][/us/pl/108/176/s403], Dec. 12, 2003, [117 Stat. 2543][/us/stat/117/2543].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1152][/us/stat/108/1152]; [Pub. L. 108–176, title IV][/us/pl/108/176/tIV], § 403, Dec. 12, 2003, [117 Stat. 2543][/us/stat/117/2543].)
 
 <table>
 
@@ -82,9 +82,9 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 419(j); added Oct. 24, 1978,
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1152
-[/us/pl/108/176/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs403
+[/us/pl/108/176/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtIV
 [/us/stat/117/2543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2543
 [/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
 [/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176

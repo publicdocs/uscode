@@ -55,7 +55,7 @@
 
         (2) A person opposing a citizen applying for a certificate must prove that the transportation referred to in [section 41102(b)(2) of this title][/us/usc/t49/s41102/b/2] is not consistent with the public convenience and necessity. The transportation is deemed to be consistent with the public convenience and necessity unless the Secretary finds, by a preponderance of the evidence, that the transportation is not consistent with the public convenience and necessity.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1121][/us/stat/108/1121].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1121][/us/stat/108/1121].)
 
 <table>
 
@@ -209,7 +209,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 401(d)(9); added Oct. 24, 19
 [/us/usc/t49/s41307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs41307
 [/us/usc/t49/s41102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs41102
 [/us/usc/t49/s41102/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs41102%2Fb%2F2
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1121
 [/us/usc/t49/s41102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs41102
 

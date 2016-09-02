@@ -35,7 +35,7 @@
 
     (4) the State has ensured that it maintains or will maintain adequate procedures for financial control, accounting, and performance evaluation for the proper use of assistance provided by the United States Government.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 895][/us/stat/108/895].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 895][/us/stat/108/895].)
 
 <table>
 
@@ -92,7 +92,7 @@ Oct. 15, 1966, Pub. L. 89–670, 80 Stat. 931, § 5(a); added Feb. 5, 1976, Pu
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F895
 
 

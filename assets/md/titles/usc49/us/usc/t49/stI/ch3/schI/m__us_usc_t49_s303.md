@@ -163,7 +163,7 @@
 
                 (ii) that have been railbanked or otherwise reserved for the transportation of goods or passengers.
 
-([Pub. L. 97–449, § 1(b)][/us/pl/97/449/s1/b], Jan. 12, 1983, [96 Stat. 2419][/us/stat/96/2419]; [Pub. L. 100–17, title I, § 133(d)][/us/pl/100/17/s133/d], Apr. 2, 1987, [101 Stat. 173][/us/stat/101/173]; [Pub. L. 109–59, title VI, § 6009(a)(2)][/us/pl/109/59/s6009/a/2], Aug. 10, 2005, [119 Stat. 1875][/us/stat/119/1875]; [Pub. L. 113–287, § 5(p)][/us/pl/113/287/s5/p], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]; [Pub. L. 114–94, div. A, title I][/us/pl/114/94], §§ 1301(b), 1302(b), 1303(b), title XI, § 11502(b), Dec. 4, 2015, [129 Stat. 1376][/us/stat/129/1376], 1378, 1690.)
+([Pub. L. 97–449][/us/pl/97/449], § 1(b), Jan. 12, 1983, [96 Stat. 2419][/us/stat/96/2419]; [Pub. L. 100–17, title I][/us/pl/100/17/tI], § 133(d), Apr. 2, 1987, [101 Stat. 173][/us/stat/101/173]; [Pub. L. 109–59, title VI][/us/pl/109/59/tVI], § 6009(a)(2), Aug. 10, 2005, [119 Stat. 1875][/us/stat/119/1875]; [Pub. L. 113–287][/us/pl/113/287], § 5(p), Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]; [Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], §§ 1301(b), 1302(b), 1303(b), title XI, § 11502(b), Dec. 4, 2015, [129 Stat. 1376][/us/stat/129/1376], 1378, 1690.)
 
 <table>
 
@@ -263,7 +263,7 @@ Oct. 15, 1966, Pub. L. 89–670, § 4(f), 80 Stat. 934; restated Aug. 23, 1968
 
  __References in Text__ 
 
-    [Section 204 of title 23][/us/usc/t23/s204], referred to in subsec. (c), was repealed and a new section 204 enacted by [Pub. L. 112–141, div. A, title I, § 1119(a)][/us/pl/112/141/s1119/a], July 6, 2012, [126 Stat. 473][/us/stat/126/473], 489.
+    [Section 204 of title 23][/us/usc/t23/s204], referred to in subsec. (c), was repealed and a new section 204 enacted by [Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1119(a), July 6, 2012, [126 Stat. 473][/us/stat/126/473], 489.
 
     The National Environmental Policy Act of 1969, referred to in subsec. (e)(1)(A), (2)(A), is [Pub. L. 91–190][/us/pl/91/190], Jan. 1, 1970, [83 Stat. 852][/us/stat/83/852], which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42][/us/usc/t42/s4321] and Tables.
 
@@ -271,21 +271,21 @@ Oct. 15, 1966, Pub. L. 89–670, § 4(f), 80 Stat. 934; restated Aug. 23, 1968
 
  __Amendments__ 
 
-    2015—Subsec. (c). [Pub. L. 114–94, § 11502(b)(1)][/us/pl/114/94/s11502/b/1], substituted “subsections (d) and (h)” for “subsection (d)”.
+    2015—Subsec. (c). [Pub. L. 114–94][/us/pl/114/94], § 11502(b)(1), substituted “subsections (d) and (h)” for “subsection (d)”.
 
-    Subsec. (e). [Pub. L. 114–94, § 1301(b)][/us/pl/114/94/s1301/b], added subsec. (e).
+    Subsec. (e). [Pub. L. 114–94][/us/pl/114/94], § 1301(b), added subsec. (e).
 
-    Subsec. (f). [Pub. L. 114–94, § 1302(b)][/us/pl/114/94/s1302/b], added subsec. (f).
+    Subsec. (f). [Pub. L. 114–94][/us/pl/114/94], § 1302(b), added subsec. (f).
 
-    Subsec. (g). [Pub. L. 114–94, § 1303(b)][/us/pl/114/94/s1303/b], added subsec. (g).
+    Subsec. (g). [Pub. L. 114–94][/us/pl/114/94], § 1303(b), added subsec. (g).
 
-    Subsec. (h). [Pub. L. 114–94, § 11502(b)(2)][/us/pl/114/94/s11502/b/2], added subsec. (h).
+    Subsec. (h). [Pub. L. 114–94][/us/pl/114/94], § 11502(b)(2), added subsec. (h).
 
     2014—Subsec. (d)(2)(A). [Pub. L. 113–287][/us/pl/113/287] substituted “[section 306108 of title 54][/us/usc/t54/s306108], United States Code” for “section 106 of the National Historic Preservation Act ([16 U.S.C. 470f][/us/usc/t16/s470f])” in introductory provisions.
 
-    2005—Subsec. (c). [Pub. L. 109–59, § 6009(a)(2)(A)][/us/pl/109/59/s6009/a/2/A], inserted heading and substituted “Subject to subsection (d), the Secretary” for “The Secretary” in introductory provisions.
+    2005—Subsec. (c). [Pub. L. 109–59][/us/pl/109/59], § 6009(a)(2)(A), inserted heading and substituted “Subject to subsection (d), the Secretary” for “The Secretary” in introductory provisions.
 
-    Subsec. (d). [Pub. L. 109–59, § 6009(a)(2)(B)][/us/pl/109/59/s6009/a/2/B], added subsec. (d).
+    Subsec. (d). [Pub. L. 109–59][/us/pl/109/59], § 6009(a)(2)(B), added subsec. (d).
 
     1987—Subsec. (c). [Pub. L. 100–17][/us/pl/100/17] inserted “(other than any project for a park road or parkway under [section 204 of title 23][/us/usc/t23/s204])” after “program or project”.
 
@@ -295,7 +295,7 @@ Oct. 15, 1966, Pub. L. 89–670, § 4(f), 80 Stat. 934; restated Aug. 23, 1968
 
  __Treatment of Military Flight Operations__ 
 
-[Pub. L. 105–85, div. A, title X, § 1079][/us/pl/105/85/s1079], Nov. 18, 1997, [111 Stat. 1916][/us/stat/111/1916], provided that: 
+[Pub. L. 105–85, div. A, title X][/us/pl/105/85/dA/tX], § 1079, Nov. 18, 1997, [111 Stat. 1916][/us/stat/111/1916], provided that: 
 
 > “No military flight operation (including a military training flight), or designation of airspace for such an operation, may be treated as a transportation program or project for purposes of [section 303(c) of title 49][/us/usc/t49/s303/c], United States Code.”
 
@@ -319,39 +319,39 @@ Oct. 15, 1966, Pub. L. 89–670, § 4(f), 80 Stat. 934; restated Aug. 23, 1968
 [/us/pl/89/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F665
 [/us/stat/80/917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F917
 [/us/usc/t54/s306108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs306108
-[/us/pl/97/449/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449%2Fs1%2Fb
+[/us/pl/97/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449
 [/us/stat/96/2419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2419
-[/us/pl/100/17/s133/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs133%2Fd
+[/us/pl/100/17/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2FtI
 [/us/stat/101/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F173
-[/us/pl/109/59/s6009/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs6009%2Fa%2F2
+[/us/pl/109/59/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtVI
 [/us/stat/119/1875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1875
-[/us/pl/113/287/s5/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fp
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
-[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
 [/us/stat/129/1376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1376
 [/us/usc/t23/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs204
-[/us/pl/112/141/s1119/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1119%2Fa
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F473
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
-[/us/pl/114/94/s11502/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11502%2Fb%2F1
-[/us/pl/114/94/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1301%2Fb
-[/us/pl/114/94/s1302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1302%2Fb
-[/us/pl/114/94/s1303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1303%2Fb
-[/us/pl/114/94/s11502/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11502%2Fb%2F2
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/usc/t54/s306108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs306108
 [/us/usc/t16/s470f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470f
-[/us/pl/109/59/s6009/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs6009%2Fa%2F2%2FA
-[/us/pl/109/59/s6009/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs6009%2Fa%2F2%2FB
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/100/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17
 [/us/usc/t23/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs204
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
-[/us/pl/105/85/s1079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1079
+[/us/pl/105/85/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtX
 [/us/stat/111/1916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1916
 [/us/usc/t49/s303/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs303%2Fc
 

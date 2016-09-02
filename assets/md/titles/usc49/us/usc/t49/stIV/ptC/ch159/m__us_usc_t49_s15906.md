@@ -35,11 +35,11 @@
 
         (2) communications received from a carrier’s insurer shall not constitute a disallowance of any part of the claim unless the insurer, in writing, informs the claimant that such part of the claim is disallowed, provides reasons for such disallowance, and informs the claimant that the insurer is acting on behalf of the carrier.
 
-(Added [Pub. L. 104–88, title I, § 106(a)][/us/pl/104/88/s106/a], Dec. 29, 1995, [109 Stat. 929][/us/stat/109/929].)
+(Added [Pub. L. 104–88, title I][/us/pl/104/88/tI], § 106(a), Dec. 29, 1995, [109 Stat. 929][/us/stat/109/929].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [section 11707 of this title][/us/usc/t49/s11707] prior to the general amendment of this subtitle by [Pub. L. 104–88, § 102(a)][/us/pl/104/88/s102/a].
+    Provisions similar to those in this section were contained in [section 11707 of this title][/us/usc/t49/s11707] prior to the general amendment of this subtitle by [Pub. L. 104–88][/us/pl/104/88], § 102(a).
 
 ----------
 
@@ -48,9 +48,9 @@
 ----------
 ----------
 
-[/us/pl/104/88/s106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs106%2Fa
+[/us/pl/104/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtI
 [/us/stat/109/929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F929
 [/us/usc/t49/s11707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs11707
-[/us/pl/104/88/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs102%2Fa
+[/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 
 

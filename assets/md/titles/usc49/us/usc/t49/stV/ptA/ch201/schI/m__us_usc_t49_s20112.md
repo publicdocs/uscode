@@ -31,7 +31,7 @@
 
         (2) A civil action to enforce a subpena issued by the Secretary or a compliance order issued under [section 20111(b) of this title][/us/usc/t49/s20111/b] may be brought in the judicial district in which the defendant resides, does business, or is found.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 869][/us/stat/108/869]; [Pub. L. 110–432, div. A, title III, § 309][/us/pl/110/432/s309], Oct. 16, 2008, [122 Stat. 4882][/us/stat/122/4882].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 869][/us/stat/108/869]; [Pub. L. 110–432, div. A, title III][/us/pl/110/432/dA/tIII], § 309, Oct. 16, 2008, [122 Stat. 4882][/us/stat/122/4882].)
 
 <table>
 
@@ -179,11 +179,11 @@ Oct. 16, 1970, Pub. L. 91–458, 84 Stat. 971, § 210(c) (related to actions b
 
  __Amendments__ 
 
-    2008—Subsec. (a)(1). [Pub. L. 110–432, § 309(1)][/us/pl/110/432/s309/1], inserted “this part, except for [section 20109 of this title][/us/usc/t49/s20109], or” after “enforce,”.
+    2008—Subsec. (a)(1). [Pub. L. 110–432][/us/pl/110/432], § 309(1), inserted “this part, except for [section 20109 of this title][/us/usc/t49/s20109], or” after “enforce,”.
 
-    Subsec. (a)(2). [Pub. L. 110–432, § 309(2)][/us/pl/110/432/s309/2], substituted “21301, 21302, or 21303” for “21301”.
+    Subsec. (a)(2). [Pub. L. 110–432][/us/pl/110/432], § 309(2), substituted “21301, 21302, or 21303” for “21301”.
 
-    Subsec. (a)(3). [Pub. L. 110–432, § 309(3)][/us/pl/110/432/s309/3], (4), substituted “subpoena, request for admissions, request for production of documents or other tangible things, or request for testimony by deposition” for “subpena” and “part.” for “chapter.”
+    Subsec. (a)(3). [Pub. L. 110–432][/us/pl/110/432], § 309(3), (4), substituted “subpoena, request for admissions, request for production of documents or other tangible things, or request for testimony by deposition” for “subpena” and “part.” for “chapter.”
 
 ----------
 
@@ -194,14 +194,14 @@ Oct. 16, 1970, Pub. L. 91–458, 84 Stat. 971, § 210(c) (related to actions b
 
 [/us/usc/t49/s20109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs20109
 [/us/usc/t49/s20111/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs20111%2Fb
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F869
-[/us/pl/110/432/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs309
+[/us/pl/110/432/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdA%2FtIII
 [/us/stat/122/4882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4882
 [/us/usc/t49/s20111/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs20111%2Fb
-[/us/pl/110/432/s309/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs309%2F1
+[/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
 [/us/usc/t49/s20109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs20109
-[/us/pl/110/432/s309/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs309%2F2
-[/us/pl/110/432/s309/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs309%2F3
+[/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
+[/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
 
 

@@ -111,7 +111,7 @@
 
     In prescribing regulations to carry out this section, the Secretary may make decisions necessary to accommodate specialized equipment, including automobile and vessel transporters and maxi-cube vehicles.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 993][/us/stat/108/993]; [Pub. L. 104–88, title I, § 104(b)][/us/pl/104/88/s104/b], Dec. 29, 1995, [109 Stat. 919][/us/stat/109/919]; [Pub. L. 105–178, title IV, § 4005][/us/pl/105/178/s4005], June 9, 1998, [112 Stat. 400][/us/stat/112/400]; [Pub. L. 109–59, title IV, § 4141][/us/pl/109/59/s4141], Aug. 10, 2005, [119 Stat. 1746][/us/stat/119/1746]; [Pub. L. 110–244, title III, § 301(r)][/us/pl/110/244/s301/r], June 6, 2008, [122 Stat. 1617][/us/stat/122/1617]; [Pub. L. 114–94, div. A, title V][/us/pl/114/94], §§ 5520, 5523(a), (b), Dec. 4, 2015, [129 Stat. 1558–1560][/us/stat/129/1558-1560].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 993][/us/stat/108/993]; [Pub. L. 104–88, title I][/us/pl/104/88/tI], § 104(b), Dec. 29, 1995, [109 Stat. 919][/us/stat/109/919]; [Pub. L. 105–178, title IV][/us/pl/105/178/tIV], § 4005, June 9, 1998, [112 Stat. 400][/us/stat/112/400]; [Pub. L. 109–59, title IV][/us/pl/109/59/tIV], § 4141, Aug. 10, 2005, [119 Stat. 1746][/us/stat/119/1746]; [Pub. L. 110–244, title III][/us/pl/110/244/tIII], § 301(r), June 6, 2008, [122 Stat. 1617][/us/stat/122/1617]; [Pub. L. 114–94, div. A, title V][/us/pl/114/94/dA/tV], §§ 5520, 5523(a), (b), Dec. 4, 2015, [129 Stat. 1558–1560][/us/stat/129/1558-1560].)
 
 <table>
 
@@ -319,37 +319,37 @@ Jan. 6, 1983, Pub. L. 97–424, § 411(d), 96 Stat. 2160; Apr. 2, 1987, Pub. L
 
  __Amendments__ 
 
-    2015—Subsec. (a)(1). [Pub. L. 114–94, § 5520(a)][/us/pl/114/94/s5520/a], struck out “specifically” before “for the transport” and inserted at end “An automobile transporter shall not be prohibited from the transport of cargo or general freight on a backhaul, so long as it complies with weight limitations for a truck tractor and semitrailer combination.”
+    2015—Subsec. (a)(1). [Pub. L. 114–94][/us/pl/114/94], § 5520(a), struck out “specifically” before “for the transport” and inserted at end “An automobile transporter shall not be prohibited from the transport of cargo or general freight on a backhaul, so long as it complies with weight limitations for a truck tractor and semitrailer combination.”
 
-    Subsec. (a)(3)(B). [Pub. L. 114–94, § 5520(b)][/us/pl/114/94/s5520/b], struck out “only” before “motor vehicles when operating” and inserted “or any other commodity, including cargo or general freight on a backhaul” before period at end.
+    Subsec. (a)(3)(B). [Pub. L. 114–94][/us/pl/114/94], § 5520(b), struck out “only” before “motor vehicles when operating” and inserted “or any other commodity, including cargo or general freight on a backhaul” before period at end.
 
-    Subsec. (a)(5). [Pub. L. 114–94, § 5520(c)][/us/pl/114/94/s5520/c], added par. (5).
+    Subsec. (a)(5). [Pub. L. 114–94][/us/pl/114/94], § 5520(c), added par. (5).
 
-    Subsec. (a)(6), (7). [Pub. L. 114–94, § 5523(a)][/us/pl/114/94/s5523/a], added pars. (6) and (7).
+    Subsec. (a)(6), (7). [Pub. L. 114–94][/us/pl/114/94], § 5523(a), added pars. (6) and (7).
 
-    Subsec. (b)(1)(G). [Pub. L. 114–94, § 5520(d)][/us/pl/114/94/s5520/d], added subpar. (G).
+    Subsec. (b)(1)(G). [Pub. L. 114–94][/us/pl/114/94], § 5520(d), added subpar. (G).
 
-    Subsec. (b)(1)(H). [Pub. L. 114–94, § 5523(b)][/us/pl/114/94/s5523/b], added subpar. (H).
+    Subsec. (b)(1)(H). [Pub. L. 114–94][/us/pl/114/94], § 5523(b), added subpar. (H).
 
-    2008—Subsec. (a)(4). [Pub. L. 110–244, § 301(r)(1)][/us/pl/110/244/s301/r/1], in heading, substituted “Driveaway saddlemount” for “Drive-away saddlemount with fullmount”, and, in text, substituted “driveaway saddlemount” for “drive-away saddlemount with fullmount” and inserted at end “Such combination may include one fullmount.”
+    2008—Subsec. (a)(4). [Pub. L. 110–244][/us/pl/110/244], § 301(r)(1), in heading, substituted “Driveaway saddlemount” for “Drive-away saddlemount with fullmount”, and, in text, substituted “driveaway saddlemount” for “drive-away saddlemount with fullmount” and inserted at end “Such combination may include one fullmount.”
 
-    Subsec. (b)(1)(D). [Pub. L. 110–244, § 301(r)(2)][/us/pl/110/244/s301/r/2], substituted “all driveaway saddlemount” for “a driveaway saddlemount with fullmount”.
+    Subsec. (b)(1)(D). [Pub. L. 110–244][/us/pl/110/244], § 301(r)(2), substituted “all driveaway saddlemount” for “a driveaway saddlemount with fullmount”.
 
-    2005—Subsec. (a)(4). [Pub. L. 109–59, § 4141(a)][/us/pl/109/59/s4141/a], added par. (4).
+    2005—Subsec. (a)(4). [Pub. L. 109–59][/us/pl/109/59], § 4141(a), added par. (4).
 
-    Subsec. (b)(1)(D) to (F). [Pub. L. 109–59, § 4141(b)][/us/pl/109/59/s4141/b], added subpar. (D) and redesignated former subpars. (D) and (E) as (E) and (F), respectively.
+    Subsec. (b)(1)(D) to (F). [Pub. L. 109–59][/us/pl/109/59], § 4141(b), added subpar. (D) and redesignated former subpars. (D) and (E) as (E) and (F), respectively.
 
-    1998—Subsec. (a). [Pub. L. 105–178, § 4005(1)][/us/pl/105/178/s4005/1], substituted “section, the following definitions apply:” for “section—” in introductory provisions.
+    1998—Subsec. (a). [Pub. L. 105–178][/us/pl/105/178], § 4005(1), substituted “section, the following definitions apply:” for “section—” in introductory provisions.
 
-    Subsec. (a)(1). [Pub. L. 105–178, § 4005(5)][/us/pl/105/178/s4005/5], added par. (1). Former par. (1) redesignated (2).
+    Subsec. (a)(1). [Pub. L. 105–178][/us/pl/105/178], § 4005(5), added par. (1). Former par. (1) redesignated (2).
 
-    [Pub. L. 105–178, § 4005(2)][/us/pl/105/178/s4005/2], inserted “Maxi-cube vehicle.—The term” after “(1)”.
+    [Pub. L. 105–178][/us/pl/105/178], § 4005(2), inserted “Maxi-cube vehicle.—The term” after “(1)”.
 
-    Subsec. (a)(2). [Pub. L. 105–178, § 4005(4)][/us/pl/105/178/s4005/4], redesignated par. (1) as (2). Former par. (2) redesignated (3).
+    Subsec. (a)(2). [Pub. L. 105–178][/us/pl/105/178], § 4005(4), redesignated par. (1) as (2). Former par. (2) redesignated (3).
 
-    [Pub. L. 105–178, § 4005(3)][/us/pl/105/178/s4005/3], inserted “Truck tractor.—The term” after “(2)”.
+    [Pub. L. 105–178][/us/pl/105/178], § 4005(3), inserted “Truck tractor.—The term” after “(2)”.
 
-    Subsec. (a)(3). [Pub. L. 105–178, § 4005(4)][/us/pl/105/178/s4005/4], redesignated par. (2) as (3).
+    Subsec. (a)(3). [Pub. L. 105–178][/us/pl/105/178], § 4005(4), redesignated par. (2) as (3).
 
     1995—Subsec. (b)(1)(E). [Pub. L. 104–88][/us/pl/104/88] added subpar. (E).
 
@@ -368,36 +368,36 @@ Jan. 6, 1983, Pub. L. 97–424, § 411(d), 96 Stat. 2160; Apr. 2, 1987, Pub. L
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F993
-[/us/pl/104/88/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs104%2Fb
+[/us/pl/104/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtI
 [/us/stat/109/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F919
-[/us/pl/105/178/s4005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4005
+[/us/pl/105/178/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtIV
 [/us/stat/112/400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F400
-[/us/pl/109/59/s4141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4141
+[/us/pl/109/59/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIV
 [/us/stat/119/1746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1746
-[/us/pl/110/244/s301/r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs301%2Fr
+[/us/pl/110/244/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2FtIII
 [/us/stat/122/1617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1617
-[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtV
 [/us/stat/129/1558-1560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1558-1560
 [/us/pl/101/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F427
 [/us/stat/104/927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F927
-[/us/pl/114/94/s5520/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5520%2Fa
-[/us/pl/114/94/s5520/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5520%2Fb
-[/us/pl/114/94/s5520/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5520%2Fc
-[/us/pl/114/94/s5523/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5523%2Fa
-[/us/pl/114/94/s5520/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5520%2Fd
-[/us/pl/114/94/s5523/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5523%2Fb
-[/us/pl/110/244/s301/r/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs301%2Fr%2F1
-[/us/pl/110/244/s301/r/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs301%2Fr%2F2
-[/us/pl/109/59/s4141/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4141%2Fa
-[/us/pl/109/59/s4141/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4141%2Fb
-[/us/pl/105/178/s4005/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4005%2F1
-[/us/pl/105/178/s4005/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4005%2F5
-[/us/pl/105/178/s4005/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4005%2F2
-[/us/pl/105/178/s4005/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4005%2F4
-[/us/pl/105/178/s4005/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4005%2F3
-[/us/pl/105/178/s4005/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4005%2F4
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
+[/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003

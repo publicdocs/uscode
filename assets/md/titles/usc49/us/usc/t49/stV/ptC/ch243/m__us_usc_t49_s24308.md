@@ -85,7 +85,7 @@
 
         The Board shall, as it deems appropriate, order the host rail carrier to remit the damages awarded under this subsection to Amtrak or to an entity for which Amtrak operates intercity passenger rail service. Such damages shall be used for capital or operating expenditures on the routes over which delays or failures to achieve minimum standards were the result of a rail carrier’s failure to provide preference to Amtrak over freight transportation as determined in accordance with paragraph (2).
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 911][/us/stat/108/911]; 110–432, div. B, title II, § 213(a), (d), Oct. 16, 2008, [122 Stat. 4925][/us/stat/122/4925], 4926.)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 911][/us/stat/108/911]; 110–432, div. B, title II, § 213(a), (d), Oct. 16, 2008, [122 Stat. 4925][/us/stat/122/4925], 4926.)
 
 <table>
 
@@ -249,29 +249,29 @@ In subsection (e)(2)(B), the word “proper” is omitted as surplus. The words 
 
  __Amendments__ 
 
-    2008—Subsec. (a)(2). [Pub. L. 110–432, § 213(d)(2)][/us/pl/110/432/s213/d/2], substituted “Board” for “Commission” wherever appearing.
+    2008—Subsec. (a)(2). [Pub. L. 110–432][/us/pl/110/432], § 213(d)(2), substituted “Board” for “Commission” wherever appearing.
 
-    Subsec. (a)(2)(A). [Pub. L. 110–432, § 213(d)(1)][/us/pl/110/432/s213/d/1], substituted “Surface Transportation Board” for “Interstate Commerce Commission” in introductory provisions.
+    Subsec. (a)(2)(A). [Pub. L. 110–432][/us/pl/110/432], § 213(d)(1), substituted “Surface Transportation Board” for “Interstate Commerce Commission” in introductory provisions.
 
-    Subsec. (b). [Pub. L. 110–432, § 213(d)(2)][/us/pl/110/432/s213/d/2], substituted “Board” for “Commission” in two places.
+    Subsec. (b). [Pub. L. 110–432][/us/pl/110/432], § 213(d)(2), substituted “Board” for “Commission” in two places.
 
-    Subsec. (c). [Pub. L. 110–432, § 213(d)(3)][/us/pl/110/432/s213/d/3], (4), substituted “Board” for “Secretary of Transportation” after “unless the” and for “Secretary” in three places.
+    Subsec. (c). [Pub. L. 110–432][/us/pl/110/432], § 213(d)(3), (4), substituted “Board” for “Secretary of Transportation” after “unless the” and for “Secretary” in three places.
 
-    Subsecs. (d), (e)(1), (2). [Pub. L. 110–432, § 213(d)(4)][/us/pl/110/432/s213/d/4], substituted “Board” for “Secretary” wherever appearing.
+    Subsecs. (d), (e)(1), (2). [Pub. L. 110–432][/us/pl/110/432], § 213(d)(4), substituted “Board” for “Secretary” wherever appearing.
 
-    Subsec. (e)(3). [Pub. L. 110–432, § 213(d)(2)][/us/pl/110/432/s213/d/2], substituted “Board” for “Commission”.
+    Subsec. (e)(3). [Pub. L. 110–432][/us/pl/110/432], § 213(d)(2), substituted “Board” for “Commission”.
 
-    Subsec. (f). [Pub. L. 110–432, § 213(a)][/us/pl/110/432/s213/a], added subsec. (f).
+    Subsec. (f). [Pub. L. 110–432][/us/pl/110/432], § 213(a), added subsec. (f).
 
  __Fees__ 
 
-[Pub. L. 110–432, div. B, title II, § 213(b)][/us/pl/110/432/s213/b], Oct. 16, 2008, [122 Stat. 4926][/us/stat/122/4926], provided that: 
+[Pub. L. 110–432, div. B, title II][/us/pl/110/432/dB/tII], § 213(b), Oct. 16, 2008, [122 Stat. 4926][/us/stat/122/4926], provided that: 
 
 > “The Surface Transportation Board may establish and collect filing fees from any entity that files a complaint under [section 24308(f)(1) of title 49][/us/usc/t49/s24308/f/1], United States Code, or otherwise requests or requires the Board’s services pursuant to this division \[see Short Title of 2008 Amendment note set out under [section 20101 of this title][/us/usc/t49/s20101]\]. The Board shall establish such fees at levels that will fully or partially, as the Board determines to be appropriate, offset the costs of adjudicating complaints under that section and other requests or requirements for Board action under this division. The Board may waive any fee established under this subsection for any governmental entity as determined appropriate by the Board.”
 
  __Special Passenger Trains__ 
 
-[Pub. L. 110–432, div. B, title II, § 216][/us/pl/110/432/s216], Oct. 16, 2008, [122 Stat. 4930][/us/stat/122/4930], provided that: 
+[Pub. L. 110–432, div. B, title II][/us/pl/110/432/dB/tII], § 216, Oct. 16, 2008, [122 Stat. 4930][/us/stat/122/4930], provided that: 
 
 > “Amtrak is encouraged to increase the operation of special trains funded by, or in partnership with, private sector operators through competitive contracting to minimize the need for Federal subsidies. Amtrak shall utilize the provisions of [section 24308 of title 49][/us/usc/t49/s24308], United States Code, when necessary to obtain access to facilities, train and engine crews, or services of a rail carrier or regional transportation authority that are required to operate such trains.”
 
@@ -283,25 +283,25 @@ In subsection (e)(2)(B), the word “proper” is omitted as surplus. The words 
 ----------
 
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F911
 [/us/stat/122/4925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4925
 [/us/pl/91/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F35
 [/us/stat/95/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F688
 [/us/pl/110/432/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs207
 [/us/usc/t49/s24101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24101
-[/us/pl/110/432/s213/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs213%2Fd%2F2
-[/us/pl/110/432/s213/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs213%2Fd%2F1
-[/us/pl/110/432/s213/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs213%2Fd%2F2
-[/us/pl/110/432/s213/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs213%2Fd%2F3
-[/us/pl/110/432/s213/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs213%2Fd%2F4
-[/us/pl/110/432/s213/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs213%2Fd%2F2
-[/us/pl/110/432/s213/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs213%2Fa
-[/us/pl/110/432/s213/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs213%2Fb
+[/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
+[/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
+[/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
+[/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
+[/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
+[/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
+[/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
+[/us/pl/110/432/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdB%2FtII
 [/us/stat/122/4926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4926
 [/us/usc/t49/s24308/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24308%2Ff%2F1
 [/us/usc/t49/s20101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs20101
-[/us/pl/110/432/s216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs216
+[/us/pl/110/432/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdB%2FtII
 [/us/stat/122/4930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4930
 [/us/usc/t49/s24308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24308
 

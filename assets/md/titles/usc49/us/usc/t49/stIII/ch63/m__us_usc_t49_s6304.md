@@ -73,7 +73,7 @@
 
         Any amounts received by the Library as payment for library products and services or other activities shall be made available to the Director to carry out this section, deposited in the Office of the Assistant Secretary for Research and Technology of the Department of Transportation’s general fund account, and remain available until expended.
 
-(Added [Pub. L. 112–141, div. E, title II, § 52011(a)][/us/pl/112/141/s52011/a], July 6, 2012, [126 Stat. 890][/us/stat/126/890]; amended [Pub. L. 113–76, div. L, title I][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 574][/us/stat/128/574].)
+(Added [Pub. L. 112–141, div. E, title II][/us/pl/112/141/dE/tII], § 52011(a), July 6, 2012, [126 Stat. 890][/us/stat/126/890]; amended [Pub. L. 113–76, div. L, title I][/us/pl/113/76/dL/tI], Jan. 17, 2014, [128 Stat. 574][/us/stat/128/574].)
 
  __Change of Name__ 
 
@@ -90,9 +90,9 @@
 ----------
 ----------
 
-[/us/pl/112/141/s52011/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs52011%2Fa
+[/us/pl/112/141/dE/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdE%2FtII
 [/us/stat/126/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F890
-[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
+[/us/pl/113/76/dL/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdL%2FtI
 [/us/stat/128/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F574
 [/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
 [/us/usc/t49/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs112

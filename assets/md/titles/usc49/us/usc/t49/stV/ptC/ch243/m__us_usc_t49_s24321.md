@@ -51,7 +51,7 @@
 
     Not later than 120 days after the date of enactment of the Passenger Rail Reform and Investment Act of 2015, and annually thereafter for 5 years, Amtrak shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report containing the plan developed pursuant to subsection (a) and a description of progress in the implementation of the plan.
 
-(Added [Pub. L. 114–94, div. A, title XI, § 11207(a)][/us/pl/114/94/s11207/a], Dec. 4, 2015, [129 Stat. 1638][/us/stat/129/1638].)
+(Added [Pub. L. 114–94, div. A, title XI][/us/pl/114/94/dA/tXI], § 11207(a), Dec. 4, 2015, [129 Stat. 1638][/us/stat/129/1638].)
 
  __References in Text__ 
 
@@ -68,7 +68,7 @@
 ----------
 ----------
 
-[/us/pl/114/94/s11207/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11207%2Fa
+[/us/pl/114/94/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtXI
 [/us/stat/129/1638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1638
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003

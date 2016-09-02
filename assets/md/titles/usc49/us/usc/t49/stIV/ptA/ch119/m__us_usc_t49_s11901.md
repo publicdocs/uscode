@@ -35,11 +35,11 @@
 
     (f) Trial in a civil action under subsections (a) through (e) of this section is in the judicial district in which the rail carrier has its principal operating office or in a district through which the railroad of the rail carrier runs.
 
-(Added [Pub. L. 104–88, title I, § 102(a)][/us/pl/104/88/s102/a], Dec. 29, 1995, [109 Stat. 849][/us/stat/109/849].)
+(Added [Pub. L. 104–88, title I][/us/pl/104/88/tI], § 102(a), Dec. 29, 1995, [109 Stat. 849][/us/stat/109/849].)
 
  __Prior Provisions__ 
 
-    A prior section 11901, [Pub. L. 95–473][/us/pl/95/473], Oct. 17, 1978, [92 Stat. 1455][/us/stat/92/1455]; [Pub. L. 96–454, § 8(a)][/us/pl/96/454/s8/a], Oct. 15, 1980, [94 Stat. 2019][/us/stat/94/2019]; [Pub. L. 96–510, title III, § 306(c)][/us/pl/96/510/s306/c], Dec. 11, 1980, [94 Stat. 2810][/us/stat/94/2810]; [Pub. L. 97–261, § 23][/us/pl/97/261/s23], Sept. 20, 1982, [96 Stat. 1124][/us/stat/96/1124]; [Pub. L. 98–554, title II][/us/pl/98/554], §§ 226(c)(6), 227(a)(1), Oct. 30, 1984, [98 Stat. 2852][/us/stat/98/2852]; [Pub. L. 103–180][/us/pl/103/180], §§ 6(b), 7(c), Dec. 3, 1993, [107 Stat. 2051][/us/stat/107/2051], 2052, related to general civil penalties, prior to the general amendment of this subtitle by [Pub. L. 104–88, § 102(a)][/us/pl/104/88/s102/a]. See sections 11901, 14901, and 16101 of this title.
+    A prior section 11901, [Pub. L. 95–473][/us/pl/95/473], Oct. 17, 1978, [92 Stat. 1455][/us/stat/92/1455]; [Pub. L. 96–454][/us/pl/96/454], § 8(a), Oct. 15, 1980, [94 Stat. 2019][/us/stat/94/2019]; [Pub. L. 96–510, title III][/us/pl/96/510/tIII], § 306(c), Dec. 11, 1980, [94 Stat. 2810][/us/stat/94/2810]; [Pub. L. 97–261][/us/pl/97/261], § 23, Sept. 20, 1982, [96 Stat. 1124][/us/stat/96/1124]; [Pub. L. 98–554, title II][/us/pl/98/554/tII], §§ 226(c)(6), 227(a)(1), Oct. 30, 1984, [98 Stat. 2852][/us/stat/98/2852]; [Pub. L. 103–180][/us/pl/103/180], §§ 6(b), 7(c), Dec. 3, 1993, [107 Stat. 2051][/us/stat/107/2051], 2052, related to general civil penalties, prior to the general amendment of this subtitle by [Pub. L. 104–88][/us/pl/104/88], § 102(a). See sections 11901, 14901, and 16101 of this title.
 
  __Effective Date__ 
 
@@ -53,21 +53,21 @@
 ----------
 
 [/us/usc/t49/s11144/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs11144%2Fb%2F1
-[/us/pl/104/88/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs102%2Fa
+[/us/pl/104/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtI
 [/us/stat/109/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F849
 [/us/pl/95/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F473
 [/us/stat/92/1455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1455
-[/us/pl/96/454/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F454%2Fs8%2Fa
+[/us/pl/96/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F454
 [/us/stat/94/2019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2019
-[/us/pl/96/510/s306/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2Fs306%2Fc
+[/us/pl/96/510/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2FtIII
 [/us/stat/94/2810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2810
-[/us/pl/97/261/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F261%2Fs23
+[/us/pl/97/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F261
 [/us/stat/96/1124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1124
-[/us/pl/98/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F554
+[/us/pl/98/554/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F554%2FtII
 [/us/stat/98/2852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2852
 [/us/pl/103/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F180
 [/us/stat/107/2051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2051
-[/us/pl/104/88/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs102%2Fa
+[/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/104/88/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs2
 [/us/usc/t49/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1301

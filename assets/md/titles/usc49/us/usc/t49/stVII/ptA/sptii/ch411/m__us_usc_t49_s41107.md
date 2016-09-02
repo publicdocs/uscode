@@ -17,7 +17,7 @@
 
     When the United States Postal Service finds that the needs of the Postal Service require the transportation of mail by aircraft in foreign air transportation or between places in Alaska, in addition to the transportation of mail authorized under certificates in effect, the Postal Service shall certify that finding to the Secretary of Transportation with a statement about the additional transportation and facilities necessary to provide the additional transportation. A copy of each certification and statement shall be posted for at least 20 days in the office of the Secretary. After notice and an opportunity for a hearing, the Secretary shall issue a new certificate under [section 41102 of this title][/us/usc/t49/s41102], or amend or modify an existing certificate under [section 41110(a)(2)(A) of this title][/us/usc/t49/s41110/a/2/A], to provide the additional transportation and facilities if the Secretary finds the additional transportation is required by the public convenience and necessity.
 
-([Pub. L. 103–272][/us/pl/103/272], §§ 1(e), 4(k)(1), July 5, 1994, [108 Stat. 1121][/us/stat/108/1121], 1370; [Pub. L. 106–31, title VI, § 6003][/us/pl/106/31/s6003], May 21, 1999, [113 Stat. 113][/us/stat/113/113].)
+([Pub. L. 103–272][/us/pl/103/272], §§ 1(e), 4(k)(1), July 5, 1994, [108 Stat. 1121][/us/stat/108/1121], 1370; [Pub. L. 106–31, title VI][/us/pl/106/31/tVI], § 6003, May 21, 1999, [113 Stat. 113][/us/stat/113/113].)
 
 <table>
 
@@ -157,17 +157,17 @@ Section 4(k) reflects amendments to the restatement required by section 1601(a)(
 
  __Amendments__ 
 
-    1999—[Pub. L. 106–31][/us/pl/106/31] repealed [Pub. L. 103–272, § 4(k)][/us/pl/103/272/s4/k]. See 1994 Amendment note below.
+    1999—[Pub. L. 106–31][/us/pl/106/31] repealed [Pub. L. 103–272][/us/pl/103/272], § 4(k). See 1994 Amendment note below.
 
-    1994—[Pub. L. 103–272, § 4(k)(1)][/us/pl/103/272/s4/k/1], which directed the amendment of this section by substituting “foreign air transportation,” for “foreign air transportation or between places in Alaska,”, effective Jan. 1, 1999, was repealed by [Pub. L. 106–31, § 6003][/us/pl/106/31/s6003], effective Dec. 31, 1998.
+    1994—[Pub. L. 103–272][/us/pl/103/272], § 4(k)(1), which directed the amendment of this section by substituting “foreign air transportation,” for “foreign air transportation or between places in Alaska,”, effective Jan. 1, 1999, was repealed by [Pub. L. 106–31][/us/pl/106/31], § 6003, effective Dec. 31, 1998.
 
  __Effective Date of 1999 Amendment__ 
 
-    [Pub. L. 106–31, title VI, § 6003][/us/pl/106/31/s6003], May 21, 1999, [113 Stat. 113][/us/stat/113/113], provided that the amendment made by section 6003 is effective Dec. 31, 1998.
+    [Pub. L. 106–31, title VI][/us/pl/106/31/tVI], § 6003, May 21, 1999, [113 Stat. 113][/us/stat/113/113], provided that the amendment made by section 6003 is effective Dec. 31, 1998.
 
  __Effective Date of 1994 Amendment__ 
 
-    [Pub. L. 103–272, § 4(k)][/us/pl/103/272/s4/k], July 5, 1994, [108 Stat. 1370][/us/stat/108/1370], which provided that the amendments made by that section (amending this section and sections 41901, 41902, and 41903 of this title) were effective Jan. 1, 1999, was repealed by [Pub. L. 106–31, title VI, § 6003][/us/pl/106/31/s6003], May 21, 1999, [113 Stat. 113][/us/stat/113/113], effective Dec. 31, 1998.
+    [Pub. L. 103–272][/us/pl/103/272], § 4(k), July 5, 1994, [108 Stat. 1370][/us/stat/108/1370], which provided that the amendments made by that section (amending this section and sections 41901, 41902, and 41903 of this title) were effective Jan. 1, 1999, was repealed by [Pub. L. 106–31, title VI][/us/pl/106/31/tVI], § 6003, May 21, 1999, [113 Stat. 113][/us/stat/113/113], effective Dec. 31, 1998.
 
 ----------
 
@@ -180,7 +180,7 @@ Section 4(k) reflects amendments to the restatement required by section 1601(a)(
 [/us/usc/t49/s41110/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs41110%2Fa%2F2%2FA
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1121
-[/us/pl/106/31/s6003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31%2Fs6003
+[/us/pl/106/31/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31%2FtVI
 [/us/stat/113/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F113
 [/us/pl/85/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F726
 [/us/stat/72/757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F757
@@ -195,14 +195,14 @@ Section 4(k) reflects amendments to the restatement required by section 1601(a)(
 [/us/pl/98/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F443
 [/us/stat/98/1704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1704
 [/us/pl/106/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31
-[/us/pl/103/272/s4/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs4%2Fk
-[/us/pl/103/272/s4/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs4%2Fk%2F1
-[/us/pl/106/31/s6003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31%2Fs6003
-[/us/pl/106/31/s6003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31%2Fs6003
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
+[/us/pl/106/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31
+[/us/pl/106/31/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31%2FtVI
 [/us/stat/113/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F113
-[/us/pl/103/272/s4/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs4%2Fk
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1370
-[/us/pl/106/31/s6003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31%2Fs6003
+[/us/pl/106/31/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31%2FtVI
 [/us/stat/113/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F113
 
 

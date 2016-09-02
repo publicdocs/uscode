@@ -77,7 +77,7 @@
 
             (B) submit to Congress a corrective action plan to eliminate the duplicative research.
 
-(Added [Pub. L. 114–94, div. A, title VI, § 6019(b)(1)][/us/pl/114/94/s6019/b/1], Dec. 4, 2015, [129 Stat. 1578][/us/stat/129/1578].)
+(Added [Pub. L. 114–94, div. A, title VI][/us/pl/114/94/dA/tVI], § 6019(b)(1), Dec. 4, 2015, [129 Stat. 1578][/us/stat/129/1578].)
 
  __References in Text__ 
 
@@ -89,7 +89,7 @@
 
  __Findings__ 
 
-[Pub. L. 114–94, div. A, title VI, § 6019(a)][/us/pl/114/94/s6019/a], Dec. 4, 2015, [129 Stat. 1577][/us/stat/129/1577], provided that: 
+[Pub. L. 114–94, div. A, title VI][/us/pl/114/94/dA/tVI], § 6019(a), Dec. 4, 2015, [129 Stat. 1577][/us/stat/129/1577], provided that: 
 
 > “Congress finds that—
 
@@ -134,12 +134,12 @@
 ----------
 ----------
 
-[/us/pl/114/94/s6019/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs6019%2Fb%2F1
+[/us/pl/114/94/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtVI
 [/us/stat/129/1578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1578
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
-[/us/pl/114/94/s6019/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs6019%2Fa
+[/us/pl/114/94/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtVI
 [/us/stat/129/1577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1577
 
 

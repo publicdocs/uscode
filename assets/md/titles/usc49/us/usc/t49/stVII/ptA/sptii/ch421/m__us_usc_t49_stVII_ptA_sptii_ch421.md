@@ -129,7 +129,7 @@ Amendments  </td>
 
 </table>
 
-    2000—[Pub. L. 106–181, title V, § 519(b)][/us/pl/106/181/s519/b], Apr. 5, 2000, [114 Stat. 149][/us/stat/114/149], added heading for subchapter III and item 42121.
+    2000—[Pub. L. 106–181, title V][/us/pl/106/181/tV], § 519(b), Apr. 5, 2000, [114 Stat. 149][/us/stat/114/149], added heading for subchapter III and item 42121.
 
 ----------
 
@@ -138,7 +138,7 @@ Amendments  </td>
 ----------
 ----------
 
-[/us/pl/106/181/s519/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs519%2Fb
+[/us/pl/106/181/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtV
 [/us/stat/114/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F149
 
 

@@ -29,7 +29,7 @@
 
     An employee of a railroad carrier engaged in interstate or foreign commerce who may be exposed to imminent physical injury during that employment because of the Secretary’s failure, without any reasonable basis, to issue an order under subsection (a) of this section, or the employee’s authorized representative, may bring a civil action against the Secretary in a district court of the United States to compel the Secretary to issue an order. The action must be brought in the judicial district in which the emergency situation is alleged to exist, in which that employing carrier has its principal executive office, or for the District of Columbia. The Secretary’s failure to issue an order under subsection (a) of this section may be reviewed only under [section 706 of title 5][/us/usc/t5/s706].
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 864][/us/stat/108/864]; [Pub. L. 110–432, div. A, title III, § 304][/us/pl/110/432/s304], Oct. 16, 2008, [122 Stat. 4879][/us/stat/122/4879].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 864][/us/stat/108/864]; [Pub. L. 110–432, div. A, title III][/us/pl/110/432/dA/tIII], § 304, Oct. 16, 2008, [122 Stat. 4879][/us/stat/122/4879].)
 
 <table>
 
@@ -127,9 +127,9 @@ In subsection (a)(2), the words “or a combination of conditions and practices�
 [/us/usc/t49/s20103/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs20103%2Fe
 [/us/usc/t5/s554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs554
 [/us/usc/t5/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs706
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F864
-[/us/pl/110/432/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs304
+[/us/pl/110/432/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdA%2FtIII
 [/us/stat/122/4879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4879
 [/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
 

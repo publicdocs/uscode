@@ -41,7 +41,7 @@
 
         A term of imprisonment imposed under paragraph (2) shall be served in addition to, and not concurrently with, any other term of imprisonment imposed on the individual subject to the imprisonment.
 
-(Added [Pub. L. 106–181, title V, § 509(a)][/us/pl/106/181/s509/a], Apr. 5, 2000, [114 Stat. 141][/us/stat/114/141].)
+(Added [Pub. L. 106–181, title V][/us/pl/106/181/tV], § 509(a), Apr. 5, 2000, [114 Stat. 141][/us/stat/114/141].)
 
  __Effective Date__ 
 
@@ -55,7 +55,7 @@
 ----------
 
 [/us/usc/t21/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802
-[/us/pl/106/181/s509/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs509%2Fa
+[/us/pl/106/181/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtV
 [/us/stat/114/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F141
 [/us/pl/106/181/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106

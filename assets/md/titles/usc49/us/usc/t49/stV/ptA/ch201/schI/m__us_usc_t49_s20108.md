@@ -27,7 +27,7 @@
 
     The Secretary may request, receive, and expend amounts received from non-United States Government sources for expenses incurred in training safety employees of private industry, State and local authorities, or other public authorities, except State rail safety inspectors participating in training under [section 20105 of this title][/us/usc/t49/s20105].
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 867][/us/stat/108/867].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 867][/us/stat/108/867].)
 
 <table>
 
@@ -131,7 +131,7 @@ Oct. 16, 1970, Pub. L. 91–458, 84 Stat. 971, § 214(a) (last sentence); adde
 ----------
 
 [/us/usc/t49/s20105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs20105
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F867
 
 

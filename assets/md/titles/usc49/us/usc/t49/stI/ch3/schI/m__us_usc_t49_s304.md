@@ -61,7 +61,7 @@
 
     A cooperating authority shall provide expertise to the lead authority on aspects of the multimodal project in which the cooperating authority has expertise.
 
-([Pub. L. 97–449, § 1(b)][/us/pl/97/449/s1/b], Jan. 12, 1983, [96 Stat. 2419][/us/stat/96/2419]; [Pub. L. 112–141, div. A, title I, § 1314(a)][/us/pl/112/141/s1314/a], July 6, 2012, [126 Stat. 547][/us/stat/126/547]; [Pub. L. 114–94, div. A, title I, § 1310][/us/pl/114/94/s1310], Dec. 4, 2015, [129 Stat. 1397][/us/stat/129/1397].)
+([Pub. L. 97–449][/us/pl/97/449], § 1(b), Jan. 12, 1983, [96 Stat. 2419][/us/stat/96/2419]; [Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1314(a), July 6, 2012, [126 Stat. 547][/us/stat/126/547]; [Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1310, Dec. 4, 2015, [129 Stat. 1397][/us/stat/129/1397].)
 
 <table>
 
@@ -135,9 +135,9 @@ Oct. 15, 1966, Pub. L. 89–670, § 4(g), 80 Stat. 934.  </td>
 
  __Amendments__ 
 
-    2015—Subsec. (a)(1). [Pub. L. 114–94, § 1310(1)(A)][/us/pl/114/94/s1310/1/A], substituted “operating administration or secretarial office that has expertise but” for “operating authority that” and inserted “proposed multimodal” after “with respect to a”.
+    2015—Subsec. (a)(1). [Pub. L. 114–94][/us/pl/114/94], § 1310(1)(A), substituted “operating administration or secretarial office that has expertise but” for “operating authority that” and inserted “proposed multimodal” after “with respect to a”.
 
-    Subsec. (a)(2). [Pub. L. 114–94, § 1310(1)(B)][/us/pl/114/94/s1310/1/B], added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “The term ‘lead authority’ means a Department of Transportation operating administration or secretarial office that—
+    Subsec. (a)(2). [Pub. L. 114–94][/us/pl/114/94], § 1310(1)(B), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “The term ‘lead authority’ means a Department of Transportation operating administration or secretarial office that—
 
     “(A) is the lead authority over a proposed multimodal project; and
 
@@ -147,11 +147,11 @@ Oct. 15, 1966, Pub. L. 89–670, § 4(g), 80 Stat. 934.  </td>
 
     “(ii) do not require the preparation of an environmental assessment or environmental impact statement under that Act.”
 
-    Subsec. (b). [Pub. L. 114–94, § 1310(2)][/us/pl/114/94/s1310/2], inserted “or title 23” after “under this title”.
+    Subsec. (b). [Pub. L. 114–94][/us/pl/114/94], § 1310(2), inserted “or title 23” after “under this title”.
 
-    Subsec. (c). [Pub. L. 114–94, § 1310(3)][/us/pl/114/94/s1310/3], added subsec. (c) and struck out former subsec. (c) which related to application of categorical exclusions for multimodal projects.
+    Subsec. (c). [Pub. L. 114–94][/us/pl/114/94], § 1310(3), added subsec. (c) and struck out former subsec. (c) which related to application of categorical exclusions for multimodal projects.
 
-    Subsec. (d). [Pub. L. 114–94, § 1310(3)][/us/pl/114/94/s1310/3], added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows:
+    Subsec. (d). [Pub. L. 114–94][/us/pl/114/94], § 1310(3), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows:
 
     “(1) In general.—A cooperating authority shall provide modal expertise to the lead authority on such aspects of the multimodal project in which the cooperating authority has expertise.
 
@@ -178,23 +178,23 @@ Oct. 15, 1966, Pub. L. 89–670, § 4(g), 80 Stat. 934.  </td>
 [/us/usc/t23/s139/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs139%2Fa
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/pl/97/449/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449%2Fs1%2Fb
+[/us/pl/97/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449
 [/us/stat/96/2419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2419
-[/us/pl/112/141/s1314/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1314%2Fa
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F547
-[/us/pl/114/94/s1310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1310
+[/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
 [/us/stat/129/1397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1397
 [/us/pl/89/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670
 [/us/stat/80/931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F931
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/pl/114/94/s1310/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1310%2F1%2FA
-[/us/pl/114/94/s1310/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1310%2F1%2FB
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/pl/114/94/s1310/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1310%2F2
-[/us/pl/114/94/s1310/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1310%2F3
-[/us/pl/114/94/s1310/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1310%2F3
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94

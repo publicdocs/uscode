@@ -45,7 +45,7 @@
 
     For purposes of this section, a person acts recklessly when the person displays a deliberate indifference or conscious disregard to the consequences of that person’s conduct.
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 781][/us/stat/108/781]; [Pub. L. 109–59, title VII, § 7121][/us/pl/109/59/s7121], Aug. 10, 2005, [119 Stat. 1906][/us/stat/119/1906].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(d), July 5, 1994, [108 Stat. 781][/us/stat/108/781]; [Pub. L. 109–59, title VII][/us/pl/109/59/tVII], § 7121, Aug. 10, 2005, [119 Stat. 1906][/us/stat/119/1906].)
 
 <table>
 
@@ -104,9 +104,9 @@ Jan. 3, 1975, Pub. L. 93–633, § 110(b), 88 Stat. 2161; restated Nov. 16, 19
 ----------
 ----------
 
-[/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F781
-[/us/pl/109/59/s7121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7121
+[/us/pl/109/59/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtVII
 [/us/stat/119/1906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1906
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/usc/t49/s5104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5104%2Fb

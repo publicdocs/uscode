@@ -95,15 +95,15 @@
 
         (2) fails to find public convenience and necessity, it shall deny the application.
 
-(Added [Pub. L. 104–88, title I, § 102(a)][/us/pl/104/88/s102/a], Dec. 29, 1995, [109 Stat. 823][/us/stat/109/823]; amended [Pub. L. 112–141, div. C, title II, § 32932(b)][/us/pl/112/141/s32932/b], July 6, 2012, [126 Stat. 829][/us/stat/126/829].)
+(Added [Pub. L. 104–88, title I][/us/pl/104/88/tI], § 102(a), Dec. 29, 1995, [109 Stat. 823][/us/stat/109/823]; amended [Pub. L. 112–141, div. C, title II][/us/pl/112/141/dC/tII], § 32932(b), July 6, 2012, [126 Stat. 829][/us/stat/126/829].)
 
  __References in Text__ 
 
-    [Section 24706(c) of this title][/us/usc/t49/s24706/c], referred to in subsec. (b)(2), was repealed by [Pub. L. 105–134, title I, § 142(a)][/us/pl/105/134/s142/a], Dec. 2, 1997, [111 Stat. 2576][/us/stat/111/2576], effective 180 days after Dec. 2, 1997.
+    [Section 24706(c) of this title][/us/usc/t49/s24706/c], referred to in subsec. (b)(2), was repealed by [Pub. L. 105–134, title I][/us/pl/105/134/tI], § 142(a), Dec. 2, 1997, [111 Stat. 2576][/us/stat/111/2576], effective 180 days after Dec. 2, 1997.
 
  __Prior Provisions__ 
 
-    A prior section 10903, [Pub. L. 95–473][/us/pl/95/473], Oct. 17, 1978, [92 Stat. 1403][/us/stat/92/1403]; [Pub. L. 96–448, title IV, § 402(a)][/us/pl/96/448/s402/a], Oct. 14, 1980, [94 Stat. 1941][/us/stat/94/1941]; [Pub. L. 98–216, § 2(14)][/us/pl/98/216/s2/14], Feb. 14, 1984, [98 Stat. 5][/us/stat/98/5]; [Pub. L. 103–272, § 5(m)(24)][/us/pl/103/272/s5/m/24], July 5, 1994, [108 Stat. 1378][/us/stat/108/1378], related to authorizing abandonment and discontinuance of railroad lines and rail transportation.
+    A prior section 10903, [Pub. L. 95–473][/us/pl/95/473], Oct. 17, 1978, [92 Stat. 1403][/us/stat/92/1403]; [Pub. L. 96–448, title IV][/us/pl/96/448/tIV], § 402(a), Oct. 14, 1980, [94 Stat. 1941][/us/stat/94/1941]; [Pub. L. 98–216][/us/pl/98/216], § 2(14), Feb. 14, 1984, [98 Stat. 5][/us/stat/98/5]; [Pub. L. 103–272][/us/pl/103/272], § 5(m)(24), July 5, 1994, [108 Stat. 1378][/us/stat/108/1378], related to authorizing abandonment and discontinuance of railroad lines and rail transportation.
 
  __Amendments__ 
 
@@ -115,11 +115,11 @@
 
  __Railroad Branchline Abandonments by Burlington Northern Railroad in North Dakota__ 
 
-[Pub. L. 97–102, title IV, § 402][/us/pl/97/102/s402], Dec. 23, 1981, [95 Stat. 1465][/us/stat/95/1465], as amended by [Pub. L. 102–143, title III, § 343][/us/pl/102/143/s343], Oct. 28, 1991, [105 Stat. 948][/us/stat/105/948], provided that: 
+[Pub. L. 97–102, title IV][/us/pl/97/102/tIV], § 402, Dec. 23, 1981, [95 Stat. 1465][/us/stat/95/1465], as amended by [Pub. L. 102–143, title III][/us/pl/102/143/tIII], § 343, Oct. 28, 1991, [105 Stat. 948][/us/stat/105/948], provided that: 
 
 > “Notwithstanding any other provision of law or of this Act, none of the funds provided in this or any other Act shall hereafter be used by the Interstate Commerce Commission to approve railroad branchline abandonments in the State of North Dakota by the entity generally known as the Burlington Northern Railroad, or its agents or assignees, in excess of a total of 350 miles, except that exempt abandonments and discontinuances that are effectuated pursuant to section 1152.50 of title 49 of the Code of Federal Regulations after the date of enactment of the Department of Transportation and Related Agencies Appropriations Act, 1992 \[Oct. 28, 1991\], shall not apply toward such 350-mile limit: Provided, That this section shall be in lieu of section 311 (amendment numbered 93) as set forth in the conference report and the joint explanatory statement of the committee of conference on the Department of Transportation and Related Agencies Appropriations Act, 1982 (H.R. 4209), filed in the House of Representatives on November 13, 1981 (H. Rept. No. 97–331).”
 
- \[Section 311 of H.R. 4209 is [section 311 of Pub. L. 97–102][/us/pl/97/102/s311], title III, Dec. 23, 1981, [95 Stat. 1460][/us/stat/95/1460], which is not classified to the Code.\] Similar provisions were contained in [Pub. L. 97–92, title IV, § 115][/us/pl/97/92/s115], Dec. 15, 1981, [95 Stat. 1196][/us/stat/95/1196].
+ \[Section 311 of H.R. 4209 is [section 311 of Pub. L. 97–102][/us/pl/97/102/s311], title III, Dec. 23, 1981, [95 Stat. 1460][/us/stat/95/1460], which is not classified to the Code.\] Similar provisions were contained in [Pub. L. 97–92, title IV][/us/pl/97/92/tIV], § 115, Dec. 15, 1981, [95 Stat. 1196][/us/stat/95/1196].
 
     \[Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in [Pub. L. 104–88][/us/pl/104/88], to Surface Transportation Board effective Jan. 1, 1996, by [section 1302 of this title][/us/usc/t49/s1302], and [section 101 of Pub. L. 104–88][/us/pl/104/88/s101], set out as a note under [section 1301 of this title][/us/usc/t49/s1301]. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see [section 205 of Pub. L. 104–88][/us/pl/104/88/s205], set out as a note under [section 1301 of this title][/us/usc/t49/s1301].\]
 
@@ -132,32 +132,32 @@
 
 [/us/usc/t49/s10904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs10904
 [/us/usc/t49/s10904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs10904
-[/us/pl/104/88/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs102%2Fa
+[/us/pl/104/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtI
 [/us/stat/109/823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F823
-[/us/pl/112/141/s32932/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32932%2Fb
+[/us/pl/112/141/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtII
 [/us/stat/126/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F829
 [/us/usc/t49/s24706/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24706%2Fc
-[/us/pl/105/134/s142/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2Fs142%2Fa
+[/us/pl/105/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2FtI
 [/us/stat/111/2576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2576
 [/us/pl/95/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F473
 [/us/stat/92/1403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1403
-[/us/pl/96/448/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F448%2Fs402%2Fa
+[/us/pl/96/448/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F448%2FtIV
 [/us/stat/94/1941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1941
-[/us/pl/98/216/s2/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F216%2Fs2%2F14
+[/us/pl/98/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F216
 [/us/stat/98/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F5
-[/us/pl/103/272/s5/m/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs5%2Fm%2F24
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1378
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
-[/us/pl/97/102/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F102%2Fs402
+[/us/pl/97/102/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F102%2FtIV
 [/us/stat/95/1465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1465
-[/us/pl/102/143/s343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F143%2Fs343
+[/us/pl/102/143/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F143%2FtIII
 [/us/stat/105/948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F948
 [/us/pl/97/102/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F102%2Fs311
 [/us/stat/95/1460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1460
-[/us/pl/97/92/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F92%2Fs115
+[/us/pl/97/92/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F92%2FtIV
 [/us/stat/95/1196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1196
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/usc/t49/s1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1302

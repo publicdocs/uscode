@@ -23,7 +23,7 @@
 
     In developing the regulations required by subsection (a), the Secretary may consider the requirements of section 20135(b) through (e).
 
-(Added [Pub. L. 110–432, div. A, title IV, § 402(a)][/us/pl/110/432/s402/a], Oct. 16, 2008, [122 Stat. 4884][/us/stat/122/4884].)
+(Added [Pub. L. 110–432, div. A, title IV][/us/pl/110/432/dA/tIV], § 402(a), Oct. 16, 2008, [122 Stat. 4884][/us/stat/122/4884].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/110/432/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs402%2Fa
+[/us/pl/110/432/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdA%2FtIV
 [/us/stat/122/4884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4884
 [/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
 

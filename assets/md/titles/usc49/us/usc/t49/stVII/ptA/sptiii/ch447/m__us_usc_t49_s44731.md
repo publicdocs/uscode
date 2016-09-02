@@ -49,7 +49,7 @@
 
     In this section, the terms “part 135” and “part 135 certificate holder” have the meanings given such terms in section 44730.
 
-(Added [Pub. L. 112–95, title III, § 306(a)][/us/pl/112/95/s306/a], Feb. 14, 2012, [126 Stat. 60][/us/stat/126/60].)
+(Added [Pub. L. 112–95, title III][/us/pl/112/95/tIII], § 306(a), Feb. 14, 2012, [126 Stat. 60][/us/stat/126/60].)
 
  __References in Text__ 
 
@@ -62,7 +62,7 @@
 ----------
 ----------
 
-[/us/pl/112/95/s306/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs306%2Fa
+[/us/pl/112/95/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtIII
 [/us/stat/126/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F60
 [/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
 

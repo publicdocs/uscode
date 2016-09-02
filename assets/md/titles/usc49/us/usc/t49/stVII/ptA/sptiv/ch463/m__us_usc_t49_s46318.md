@@ -29,7 +29,7 @@
 
         The United States Government may deduct the amount of a civil penalty imposed or compromised under this section from amounts the Government owes the person liable for the penalty.
 
-(Added [Pub. L. 106–181, title V, § 511(a)][/us/pl/106/181/s511/a], Apr. 5, 2000, [114 Stat. 142][/us/stat/114/142].)
+(Added [Pub. L. 106–181, title V][/us/pl/106/181/tV], § 511(a), Apr. 5, 2000, [114 Stat. 142][/us/stat/114/142].)
 
  __Effective Date__ 
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/106/181/s511/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs511%2Fa
+[/us/pl/106/181/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtV
 [/us/stat/114/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F142
 [/us/pl/106/181/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106

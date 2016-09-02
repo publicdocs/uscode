@@ -43,7 +43,7 @@
 
         (2) enters the United States not later than 6 months after the expiration of a lease agreement (including any extension) between an owner described in clause (1) of this subsection and a foreign carrier.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1292][/us/stat/108/1292].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1292][/us/stat/108/1292].)
 
 <table>
 
@@ -99,7 +99,7 @@ Nov. 5, 1990, Pub. L. 101–508, § 9309, 104 Stat. 1388–384; Oct. 31, 1992,
 ----------
 
 [/us/usc/t49/s47530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs47530
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1292
 
 

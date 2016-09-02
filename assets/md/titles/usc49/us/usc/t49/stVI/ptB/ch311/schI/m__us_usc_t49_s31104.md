@@ -101,11 +101,11 @@
 
         At least 90 percent of the amounts set aside for a fiscal year under this subsection shall be awarded in grants to State agencies and local government agencies.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 987][/us/stat/108/987]; [Pub. L. 105–130, § 7][/us/pl/105/130/s7], Dec. 1, 1997, [111 Stat. 2559][/us/stat/111/2559]; [Pub. L. 105–178, title IV, § 4003(e)][/us/pl/105/178/s4003/e]–(g), June 9, 1998, [112 Stat. 397][/us/stat/112/397]; [Pub. L. 108–88, § 7(b)][/us/pl/108/88/s7/b], Sept. 30, 2003, [117 Stat. 1120][/us/stat/117/1120]; [Pub. L. 108–202, § 11(b)][/us/pl/108/202/s11/b], Feb. 29, 2004, [118 Stat. 490][/us/stat/118/490]; [Pub. L. 108–224, § 9(b)][/us/pl/108/224/s9/b], Apr. 30, 2004, [118 Stat. 638][/us/stat/118/638]; [Pub. L. 108–263, § 9(b)][/us/pl/108/263/s9/b], June 30, 2004, [118 Stat. 709][/us/stat/118/709]; [Pub. L. 108–280, § 9(b)][/us/pl/108/280/s9/b], July 30, 2004, [118 Stat. 886][/us/stat/118/886]; [Pub. L. 108–310, § 7(b)][/us/pl/108/310/s7/b], Sept. 30, 2004, [118 Stat. 1153][/us/stat/118/1153]; [Pub. L. 109–14, § 6(b)][/us/pl/109/14/s6/b], May 31, 2005, [119 Stat. 330][/us/stat/119/330]; [Pub. L. 109–20, § 6(b)][/us/pl/109/20/s6/b], July 1, 2005, [119 Stat. 352][/us/stat/119/352]; [Pub. L. 109–35, § 6(b)][/us/pl/109/35/s6/b], July 20, 2005, [119 Stat. 385][/us/stat/119/385]; [Pub. L. 109–37, § 6(b)][/us/pl/109/37/s6/b], July 22, 2005, [119 Stat. 400][/us/stat/119/400]; [Pub. L. 109–40, § 6(b)][/us/pl/109/40/s6/b], July 28, 2005, [119 Stat. 417][/us/stat/119/417]; [Pub. L. 109–59, title IV][/us/pl/109/59], §§ 4101(a), (b), 4107(a), Aug. 10, 2005, [119 Stat. 1714][/us/stat/119/1714], 1719; [Pub. L. 110–244, title III, § 301(a)][/us/pl/110/244/s301/a], June 6, 2008, [122 Stat. 1616][/us/stat/122/1616]; [Pub. L. 111–147, title IV, § 422(a)][/us/pl/111/147/s422/a], (b), (d), Mar. 18, 2010, [124 Stat. 86][/us/stat/124/86], 87; [Pub. L. 111–322, title II, § 2202(a)][/us/pl/111/322/s2202/a], (b), (d), Dec. 22, 2010, [124 Stat. 3524][/us/stat/124/3524], 3525; [Pub. L. 112–5, title II, § 202(a)][/us/pl/112/5/s202/a], (b), (d), Mar. 4, 2011, [125 Stat. 16][/us/stat/125/16], 17; [Pub. L. 112–30, title I, § 122(a)][/us/pl/112/30/s122/a], (b), (d), Sept. 16, 2011, [125 Stat. 348][/us/stat/125/348], 349; [Pub. L. 112–102, title II, § 202(a)][/us/pl/112/102/s202/a], (b), (d), Mar. 30, 2012, [126 Stat. 273][/us/stat/126/273], 274; [Pub. L. 112–140, title II, § 202(a)][/us/pl/112/140/s202/a], (b), (d), June 29, 2012, [126 Stat. 394][/us/stat/126/394], 395; [Pub. L. 112–141, div. C, title II, § 32603(a)][/us/pl/112/141/s32603/a], (b), (d), div. G, title II, § 112002(a), (b), July 6, 2012, [126 Stat. 807][/us/stat/126/807], 808, 982; [Pub. L. 113–159, title I, § 1102(a)][/us/pl/113/159/s1102/a], (b), (d), Aug. 8, 2014, [128 Stat. 1843][/us/stat/128/1843], 1844; [Pub. L. 114–21, title I, § 1102(a)][/us/pl/114/21/s1102/a], (b), (d), May 29, 2015, [129 Stat. 221][/us/stat/129/221], 222; [Pub. L. 114–41, title I, § 1102(a)][/us/pl/114/41/s1102/a], (b), (d), July 31, 2015, [129 Stat. 448][/us/stat/129/448], 449; [Pub. L. 114–73, title I, § 1102(a)][/us/pl/114/73/s1102/a], (b), (d), Oct. 29, 2015, [129 Stat. 571][/us/stat/129/571], 572; [Pub. L. 114–87, title I, § 1102(a)][/us/pl/114/87/s1102/a], (b), (d), Nov. 20, 2015, [129 Stat. 680][/us/stat/129/680], 681; [Pub. L. 114–94, div. A, title V][/us/pl/114/94], §§ 5101(c), 5103(c)(1), 5105(a), (c), Dec. 4, 2015, [129 Stat. 1523][/us/stat/129/1523], 1527, 1529.)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 987][/us/stat/108/987]; [Pub. L. 105–130][/us/pl/105/130], § 7, Dec. 1, 1997, [111 Stat. 2559][/us/stat/111/2559]; [Pub. L. 105–178, title IV][/us/pl/105/178/tIV], § 4003(e)–(g), June 9, 1998, [112 Stat. 397][/us/stat/112/397]; [Pub. L. 108–88][/us/pl/108/88], § 7(b), Sept. 30, 2003, [117 Stat. 1120][/us/stat/117/1120]; [Pub. L. 108–202][/us/pl/108/202], § 11(b), Feb. 29, 2004, [118 Stat. 490][/us/stat/118/490]; [Pub. L. 108–224][/us/pl/108/224], § 9(b), Apr. 30, 2004, [118 Stat. 638][/us/stat/118/638]; [Pub. L. 108–263][/us/pl/108/263], § 9(b), June 30, 2004, [118 Stat. 709][/us/stat/118/709]; [Pub. L. 108–280][/us/pl/108/280], § 9(b), July 30, 2004, [118 Stat. 886][/us/stat/118/886]; [Pub. L. 108–310][/us/pl/108/310], § 7(b), Sept. 30, 2004, [118 Stat. 1153][/us/stat/118/1153]; [Pub. L. 109–14][/us/pl/109/14], § 6(b), May 31, 2005, [119 Stat. 330][/us/stat/119/330]; [Pub. L. 109–20][/us/pl/109/20], § 6(b), July 1, 2005, [119 Stat. 352][/us/stat/119/352]; [Pub. L. 109–35][/us/pl/109/35], § 6(b), July 20, 2005, [119 Stat. 385][/us/stat/119/385]; [Pub. L. 109–37][/us/pl/109/37], § 6(b), July 22, 2005, [119 Stat. 400][/us/stat/119/400]; [Pub. L. 109–40][/us/pl/109/40], § 6(b), July 28, 2005, [119 Stat. 417][/us/stat/119/417]; [Pub. L. 109–59, title IV][/us/pl/109/59/tIV], §§ 4101(a), (b), 4107(a), Aug. 10, 2005, [119 Stat. 1714][/us/stat/119/1714], 1719; [Pub. L. 110–244, title III][/us/pl/110/244/tIII], § 301(a), June 6, 2008, [122 Stat. 1616][/us/stat/122/1616]; [Pub. L. 111–147, title IV][/us/pl/111/147/tIV], § 422(a), (b), (d), Mar. 18, 2010, [124 Stat. 86][/us/stat/124/86], 87; [Pub. L. 111–322, title II][/us/pl/111/322/tII], § 2202(a), (b), (d), Dec. 22, 2010, [124 Stat. 3524][/us/stat/124/3524], 3525; [Pub. L. 112–5, title II][/us/pl/112/5/tII], § 202(a), (b), (d), Mar. 4, 2011, [125 Stat. 16][/us/stat/125/16], 17; [Pub. L. 112–30, title I][/us/pl/112/30/tI], § 122(a), (b), (d), Sept. 16, 2011, [125 Stat. 348][/us/stat/125/348], 349; [Pub. L. 112–102, title II][/us/pl/112/102/tII], § 202(a), (b), (d), Mar. 30, 2012, [126 Stat. 273][/us/stat/126/273], 274; [Pub. L. 112–140, title II][/us/pl/112/140/tII], § 202(a), (b), (d), June 29, 2012, [126 Stat. 394][/us/stat/126/394], 395; [Pub. L. 112–141, div. C, title II][/us/pl/112/141/dC/tII], § 32603(a), (b), (d), div. G, title II, § 112002(a), (b), July 6, 2012, [126 Stat. 807][/us/stat/126/807], 808, 982; [Pub. L. 113–159, title I][/us/pl/113/159/tI], § 1102(a), (b), (d), Aug. 8, 2014, [128 Stat. 1843][/us/stat/128/1843], 1844; [Pub. L. 114–21, title I][/us/pl/114/21/tI], § 1102(a), (b), (d), May 29, 2015, [129 Stat. 221][/us/stat/129/221], 222; [Pub. L. 114–41, title I][/us/pl/114/41/tI], § 1102(a), (b), (d), July 31, 2015, [129 Stat. 448][/us/stat/129/448], 449; [Pub. L. 114–73, title I][/us/pl/114/73/tI], § 1102(a), (b), (d), Oct. 29, 2015, [129 Stat. 571][/us/stat/129/571], 572; [Pub. L. 114–87, title I][/us/pl/114/87/tI], § 1102(a), (b), (d), Nov. 20, 2015, [129 Stat. 680][/us/stat/129/680], 681; [Pub. L. 114–94, div. A, title V][/us/pl/114/94/dA/tV], §§ 5101(c), 5103(c)(1), 5105(a), (c), Dec. 4, 2015, [129 Stat. 1523][/us/stat/129/1523], 1527, 1529.)
 
  __Amendment of Section__ 
 
-    [Pub. L. 114–94, div. A, title V, § 5101(c)][/us/pl/114/94/s5101/c], (f), (g), Dec. 4, 2015, [129 Stat. 1523][/us/stat/129/1523], 1526, provided that, effective Oct. 1, 2016, and subject to a transition provision, this section is amended to read as follows:
+    [Pub. L. 114–94, div. A, title V][/us/pl/114/94/dA/tV], § 5101(c), (f), (g), Dec. 4, 2015, [129 Stat. 1523][/us/stat/129/1523], 1526, provided that, effective Oct. 1, 2016, and subject to a transition provision, this section is amended to read as follows:
 
     § 31104. Authorization of appropriations
 
@@ -427,117 +427,117 @@ Dec. 18, 1991, Pub. L. 102–240, § 4002(l), 105 Stat. 2144.  </td>
 
  __Amendments__ 
 
-    2015—[Pub. L. 114–94, § 5101(c)][/us/pl/114/94/s5101/c], amended section generally. Prior to amendment, section related to availability of appropriated amounts.
+    2015—[Pub. L. 114–94][/us/pl/114/94], § 5101(c), amended section generally. Prior to amendment, section related to availability of appropriated amounts.
 
-    Subsec. (a)(10). [Pub. L. 114–94, § 5105(a)][/us/pl/114/94/s5105/a], added par. (10) and struck out former par. (10) which read as follows: “$218,000,000 for fiscal year 2015; and”.
+    Subsec. (a)(10). [Pub. L. 114–94][/us/pl/114/94], § 5105(a), added par. (10) and struck out former par. (10) which read as follows: “$218,000,000 for fiscal year 2015; and”.
 
-    [Pub. L. 114–41, § 1102(a)(2)][/us/pl/114/41/s1102/a/2], added par. (10) and struck out former par. (10) which read as follows: “$181,567,123 for the period beginning on October 1, 2014, and ending on July 31, 2015.”
+    [Pub. L. 114–41][/us/pl/114/41], § 1102(a)(2), added par. (10) and struck out former par. (10) which read as follows: “$181,567,123 for the period beginning on October 1, 2014, and ending on July 31, 2015.”
 
-    [Pub. L. 114–21, § 1102(a)][/us/pl/114/21/s1102/a], amended par. (10) generally. Prior to amendment, par. (10) read as follows: “$145,134,247 for the period beginning on October 1, 2014, and ending on May 31, 2015.”
+    [Pub. L. 114–21][/us/pl/114/21], § 1102(a), amended par. (10) generally. Prior to amendment, par. (10) read as follows: “$145,134,247 for the period beginning on October 1, 2014, and ending on May 31, 2015.”
 
-    Subsec. (a)(11). [Pub. L. 114–94, § 5105(a)][/us/pl/114/94/s5105/a], added par. (11) and struck out former par. (11) which read as follows: “$38,715,847 for the period beginning on October 1, 2015, and ending on December 4, 2015.”
+    Subsec. (a)(11). [Pub. L. 114–94][/us/pl/114/94], § 5105(a), added par. (11) and struck out former par. (11) which read as follows: “$38,715,847 for the period beginning on October 1, 2015, and ending on December 4, 2015.”
 
-    [Pub. L. 114–87, § 1102(a)][/us/pl/114/87/s1102/a], amended par. (11) generally. Prior to amendment, par. (11) read as follows: “$30,377,049 for the period beginning on October 1, 2015, and ending on November 20, 2015.”
+    [Pub. L. 114–87][/us/pl/114/87], § 1102(a), amended par. (11) generally. Prior to amendment, par. (11) read as follows: “$30,377,049 for the period beginning on October 1, 2015, and ending on November 20, 2015.”
 
-    [Pub. L. 114–73, § 1102(a)][/us/pl/114/73/s1102/a], amended par. (11) generally. Prior to amendment, par. (11) read as follows: “$17,273,224 for the period beginning on October 1, 2015, and ending on October 29, 2015.”
+    [Pub. L. 114–73][/us/pl/114/73], § 1102(a), amended par. (11) generally. Prior to amendment, par. (11) read as follows: “$17,273,224 for the period beginning on October 1, 2015, and ending on October 29, 2015.”
 
-    [Pub. L. 114–41, § 1102(a)][/us/pl/114/41/s1102/a], added par. (11).
+    [Pub. L. 114–41][/us/pl/114/41], § 1102(a), added par. (11).
 
-    Subsec. (i). [Pub. L. 114–94, § 5103(c)(1)][/us/pl/114/94/s5103/c/1], redesignated subsec. (j) as (i) and struck out former subsec. (i) which related to authorization of appropriations for certain administrative expenses of the Federal Motor Carrier Safety Administration. See [section 31110 of this title][/us/usc/t49/s31110].
+    Subsec. (i). [Pub. L. 114–94][/us/pl/114/94], § 5103(c)(1), redesignated subsec. (j) as (i) and struck out former subsec. (i) which related to authorization of appropriations for certain administrative expenses of the Federal Motor Carrier Safety Administration. See [section 31110 of this title][/us/usc/t49/s31110].
 
-    Subsec. (i)(1)(J). [Pub. L. 114–41, § 1102(b)(2)][/us/pl/114/41/s1102/b/2], added subpar. (J) and struck out former subpar. (J) which read as follows: “$215,715,068 for the period beginning on October 1, 2014, and ending on July 31, 2015.”
+    Subsec. (i)(1)(J). [Pub. L. 114–41][/us/pl/114/41], § 1102(b)(2), added subpar. (J) and struck out former subpar. (J) which read as follows: “$215,715,068 for the period beginning on October 1, 2014, and ending on July 31, 2015.”
 
-    [Pub. L. 114–21, § 1102(b)][/us/pl/114/21/s1102/b], amended subpar. (J) generally. Prior to amendment, subpar. (J) read as follows: “$172,430,137 for the period beginning on October 1, 2014, and ending on May 31, 2015.”
+    [Pub. L. 114–21][/us/pl/114/21], § 1102(b), amended subpar. (J) generally. Prior to amendment, subpar. (J) read as follows: “$172,430,137 for the period beginning on October 1, 2014, and ending on May 31, 2015.”
 
-    Subsec. (i)(1)(K). [Pub. L. 114–87, § 1102(b)][/us/pl/114/87/s1102/b], amended subpar. (K) generally. Prior to amendment, subpar. (K) read as follows: “$36,090,164 for the period beginning on October 1, 2015, and ending on November 20, 2015.”
+    Subsec. (i)(1)(K). [Pub. L. 114–87][/us/pl/114/87], § 1102(b), amended subpar. (K) generally. Prior to amendment, subpar. (K) read as follows: “$36,090,164 for the period beginning on October 1, 2015, and ending on November 20, 2015.”
 
-    [Pub. L. 114–73, § 1102(b)][/us/pl/114/73/s1102/b], amended subpar. (K) generally. Prior to amendment, subpar. (K) read as follows: “$20,521,858 for the period beginning on October 1, 2015, and ending on October 29, 2015.”
+    [Pub. L. 114–73][/us/pl/114/73], § 1102(b), amended subpar. (K) generally. Prior to amendment, subpar. (K) read as follows: “$20,521,858 for the period beginning on October 1, 2015, and ending on October 29, 2015.”
 
-    [Pub. L. 114–41, § 1102(b)][/us/pl/114/41/s1102/b], added subpar. (K).
+    [Pub. L. 114–41][/us/pl/114/41], § 1102(b), added subpar. (K).
 
-    Subsec. (j). [Pub. L. 114–94, § 5103(c)(1)(B)][/us/pl/114/94/s5103/c/1/B], redesignated subsec. (k) as (j). Former subsec. (j) redesignated (i).
+    Subsec. (j). [Pub. L. 114–94][/us/pl/114/94], § 5103(c)(1)(B), redesignated subsec. (k) as (j). Former subsec. (j) redesignated (i).
 
-    Subsec. (j)(2). [Pub. L. 114–94, § 5105(c)][/us/pl/114/94/s5105/c], substituted “2016 for States,” for “2015 and up to $2,663,934 for the period beginning on October 1, 2015, and ending on December 4, 2015, for States,”.
+    Subsec. (j)(2). [Pub. L. 114–94][/us/pl/114/94], § 5105(c), substituted “2016 for States,” for “2015 and up to $2,663,934 for the period beginning on October 1, 2015, and ending on December 4, 2015, for States,”.
 
-    Subsec. (k). [Pub. L. 114–94, § 5103(c)(1)(B)][/us/pl/114/94/s5103/c/1/B], redesignated subsec. (k) as (j).
+    Subsec. (k). [Pub. L. 114–94][/us/pl/114/94], § 5103(c)(1)(B), redesignated subsec. (k) as (j).
 
-    Subsec. (k)(2). [Pub. L. 114–87, § 1102(d)][/us/pl/114/87/s1102/d], substituted “and up to $2,663,934 for the period beginning on October 1, 2015, and ending on December 4, 2015,” for “and up to $2,090,164 for the period beginning on October 1, 2015, and ending on November 20, 2015,”.
+    Subsec. (k)(2). [Pub. L. 114–87][/us/pl/114/87], § 1102(d), substituted “and up to $2,663,934 for the period beginning on October 1, 2015, and ending on December 4, 2015,” for “and up to $2,090,164 for the period beginning on October 1, 2015, and ending on November 20, 2015,”.
 
-    [Pub. L. 114–73, § 1102(d)][/us/pl/114/73/s1102/d], substituted “and up to $2,090,164 for the period beginning on October 1, 2015, and ending on November 20, 2015,” for “and up to $1,188,525 for the period beginning on October 1, 2015, and ending on October 29, 2015,”.
+    [Pub. L. 114–73][/us/pl/114/73], § 1102(d), substituted “and up to $2,090,164 for the period beginning on October 1, 2015, and ending on November 20, 2015,” for “and up to $1,188,525 for the period beginning on October 1, 2015, and ending on October 29, 2015,”.
 
-    [Pub. L. 114–41, § 1102(d)][/us/pl/114/41/s1102/d], substituted “each of fiscal years 2006 through 2015 and up to $1,188,525 for the period beginning on October 1, 2015, and ending on October 29, 2015,” for “each of fiscal years 2006 through 2014 and up to $12,493,151 for the period beginning on October 1, 2014, and ending on July 31, 2015,”.
+    [Pub. L. 114–41][/us/pl/114/41], § 1102(d), substituted “each of fiscal years 2006 through 2015 and up to $1,188,525 for the period beginning on October 1, 2015, and ending on October 29, 2015,” for “each of fiscal years 2006 through 2014 and up to $12,493,151 for the period beginning on October 1, 2014, and ending on July 31, 2015,”.
 
-    [Pub. L. 114–21, § 1102(d)][/us/pl/114/21/s1102/d], substituted “and up to $12,493,151 for the period beginning on October 1, 2014, and ending on July 31, 2015,” for “and up to $9,986,301 for the period beginning on October 1, 2014, and ending on May 31, 2015,”.
+    [Pub. L. 114–21][/us/pl/114/21], § 1102(d), substituted “and up to $12,493,151 for the period beginning on October 1, 2014, and ending on July 31, 2015,” for “and up to $9,986,301 for the period beginning on October 1, 2014, and ending on May 31, 2015,”.
 
-    2014—Subsec. (a)(10). [Pub. L. 113–159, § 1102(a)][/us/pl/113/159/s1102/a], added par. (10).
+    2014—Subsec. (a)(10). [Pub. L. 113–159][/us/pl/113/159], § 1102(a), added par. (10).
 
-    Subsec. (i)(1)(J). [Pub. L. 113–159, § 1102(b)][/us/pl/113/159/s1102/b], added subpar. (J).
+    Subsec. (i)(1)(J). [Pub. L. 113–159][/us/pl/113/159], § 1102(b), added subpar. (J).
 
-    Subsec. (k)(2). [Pub. L. 113–159, § 1102(d)][/us/pl/113/159/s1102/d], inserted “and up to $9,986,301 for the period beginning on October 1, 2014, and ending on May 31, 2015,” after “2014”.
+    Subsec. (k)(2). [Pub. L. 113–159][/us/pl/113/159], § 1102(d), inserted “and up to $9,986,301 for the period beginning on October 1, 2014, and ending on May 31, 2015,” after “2014”.
 
-    2012—Subsec. (a)(7). [Pub. L. 112–141, § 32603(a)(1)][/us/pl/112/141/s32603/a/1], struck out “and” at end.
+    2012—Subsec. (a)(7). [Pub. L. 112–141][/us/pl/112/141], § 32603(a)(1), struck out “and” at end.
 
-    Subsec. (a)(8). [Pub. L. 112–141, § 112002(a)][/us/pl/112/141/s112002/a], amended par. (8) generally. Prior to amendment, par. (8) read as follows: “$159,000,000 for the period beginning on October 1, 2011, and ending on June 30, 2012.”
+    Subsec. (a)(8). [Pub. L. 112–141][/us/pl/112/141], § 112002(a), amended par. (8) generally. Prior to amendment, par. (8) read as follows: “$159,000,000 for the period beginning on October 1, 2011, and ending on June 30, 2012.”
 
-    [Pub. L. 112–141, § 32603(a)(2)][/us/pl/112/141/s32603/a/2], (3), added par. (8) and struck out former par. (8) which read as follows: “$212,000,000 for fiscal year 2012.”
+    [Pub. L. 112–141][/us/pl/112/141], § 32603(a)(2), (3), added par. (8) and struck out former par. (8) which read as follows: “$212,000,000 for fiscal year 2012.”
 
     [Pub. L. 112–140][/us/pl/112/140], §§ 1(c), 202(a), temporarily amended par. (8) generally, authorizing $161,120,000 for the period beginning on Oct. 1, 2011, and ending on July 6, 2012. See Effective and Termination Dates of 2012 Amendment note below.
 
-    [Pub. L. 112–102, § 202(a)][/us/pl/112/102/s202/a], amended par. (8) generally. Prior to amendment, par. (8) read as follows: “$106,000,000 for the period beginning on October 1, 2011, and ending on March 31, 2012.”
+    [Pub. L. 112–102][/us/pl/112/102], § 202(a), amended par. (8) generally. Prior to amendment, par. (8) read as follows: “$106,000,000 for the period beginning on October 1, 2011, and ending on March 31, 2012.”
 
-    Subsec. (a)(9). [Pub. L. 112–141, § 32603(a)(3)][/us/pl/112/141/s32603/a/3], added par. (9).
+    Subsec. (a)(9). [Pub. L. 112–141][/us/pl/112/141], § 32603(a)(3), added par. (9).
 
-    Subsec. (i)(1)(F). [Pub. L. 112–141, § 112002(b)(2)][/us/pl/112/141/s112002/b/2], struck out open quotation marks and duplicate subpar. (F) designation after “(F)”.
+    Subsec. (i)(1)(F). [Pub. L. 112–141][/us/pl/112/141], § 112002(b)(2), struck out open quotation marks and duplicate subpar. (F) designation after “(F)”.
 
-    Subsec. (i)(1)(G). [Pub. L. 112–141, § 32603(b)(1)][/us/pl/112/141/s32603/b/1], struck out “and” at end.
+    Subsec. (i)(1)(G). [Pub. L. 112–141][/us/pl/112/141], § 32603(b)(1), struck out “and” at end.
 
-    Subsec. (i)(1)(H). [Pub. L. 112–141, § 112002(b)(1)][/us/pl/112/141/s112002/b/1], amended subpar. (H) generally. Prior to amendment, subpar. (H) read as follows: “$183,108,000 for the period beginning on October 1, 2011, and ending on June 30, 2012.”
+    Subsec. (i)(1)(H). [Pub. L. 112–141][/us/pl/112/141], § 112002(b)(1), amended subpar. (H) generally. Prior to amendment, subpar. (H) read as follows: “$183,108,000 for the period beginning on October 1, 2011, and ending on June 30, 2012.”
 
-    [Pub. L. 112–141, § 32603(b)(2)][/us/pl/112/141/s32603/b/2], (3), added subpar. (H) and struck out former subpar. (H) which read as follows: “$244,144,000 for fiscal year 2012.”
+    [Pub. L. 112–141][/us/pl/112/141], § 32603(b)(2), (3), added subpar. (H) and struck out former subpar. (H) which read as follows: “$244,144,000 for fiscal year 2012.”
 
     [Pub. L. 112–140][/us/pl/112/140], §§ 1(c), 202(b), temporarily amended subpar. (H) generally, authorizing $185,549,440 for the period beginning on Oct. 1, 2011, and ending on July 6, 2012. See Effective and Termination Dates of 2012 Amendment note below.
 
-    [Pub. L. 112–102, § 202(b)][/us/pl/112/102/s202/b], amended subpar. (H) generally. Prior to amendment, subpar. (H) read as follows: “$122,072,000 for the period beginning on October 1, 2011, and ending on March 31, 2012.”
+    [Pub. L. 112–102][/us/pl/112/102], § 202(b), amended subpar. (H) generally. Prior to amendment, subpar. (H) read as follows: “$122,072,000 for the period beginning on October 1, 2011, and ending on March 31, 2012.”
 
-    Subsec. (i)(1)(I). [Pub. L. 112–141, § 32603(b)(3)][/us/pl/112/141/s32603/b/3], added subpar. (I).
+    Subsec. (i)(1)(I). [Pub. L. 112–141][/us/pl/112/141], § 32603(b)(3), added subpar. (I).
 
-    Subsec. (k)(2). [Pub. L. 112–141, § 32603(d)][/us/pl/112/141/s32603/d], substituted “2014” for “2011 and $11,250,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,”.
+    Subsec. (k)(2). [Pub. L. 112–141][/us/pl/112/141], § 32603(d), substituted “2014” for “2011 and $11,250,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,”.
 
     [Pub. L. 112–140][/us/pl/112/140], §§ 1(c), 202(d), temporarily substituted “2011 and $11,400,000 for the period beginning on October 1, 2011, and ending on July 6, 2012,” for “2011 and $11,250,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,”. See Effective and Termination Dates of 2012 Amendment note below.
 
-    [Pub. L. 112–102, § 202(d)][/us/pl/112/102/s202/d], substituted “2011 and $11,250,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,” for “2011 and $7,500,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,”.
+    [Pub. L. 112–102][/us/pl/112/102], § 202(d), substituted “2011 and $11,250,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,” for “2011 and $7,500,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,”.
 
-    2011—Subsec. (a)(7). [Pub. L. 112–5, § 202(a)][/us/pl/112/5/s202/a], amended par. (7) generally. Prior to amendment, par. (7) read as follows: “$88,753,000 for the period beginning October 1, 2010, and ending on March 4, 2011.”
+    2011—Subsec. (a)(7). [Pub. L. 112–5][/us/pl/112/5], § 202(a), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “$88,753,000 for the period beginning October 1, 2010, and ending on March 4, 2011.”
 
-    Subsec. (a)(8). [Pub. L. 112–30, § 122(a)][/us/pl/112/30/s122/a], added par. (8).
+    Subsec. (a)(8). [Pub. L. 112–30][/us/pl/112/30], § 122(a), added par. (8).
 
-    Subsec. (i)(1)(G). [Pub. L. 112–5, § 202(b)][/us/pl/112/5/s202/b], amended subpar. (G) generally, substituting “(G) $244,144,000 for fiscal year 2011.” for “(G) ‘(G) $103,678,000 for the period beginning October 1, 2010, and ending on March 4, 2011.”
+    Subsec. (i)(1)(G). [Pub. L. 112–5][/us/pl/112/5], § 202(b), amended subpar. (G) generally, substituting “(G) $244,144,000 for fiscal year 2011.” for “(G) ‘(G) $103,678,000 for the period beginning October 1, 2010, and ending on March 4, 2011.”
 
-    Subsec. (i)(1)(H). [Pub. L. 112–30, § 122(b)][/us/pl/112/30/s122/b], added subpar. (H).
+    Subsec. (i)(1)(H). [Pub. L. 112–30][/us/pl/112/30], § 122(b), added subpar. (H).
 
-    Subsec. (k)(2). [Pub. L. 112–30, § 122(d)][/us/pl/112/30/s122/d], substituted “2011 and $7,500,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,” for “2011”.
+    Subsec. (k)(2). [Pub. L. 112–30][/us/pl/112/30], § 122(d), substituted “2011 and $7,500,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,” for “2011”.
 
-    [Pub. L. 112–5, § 202(d)][/us/pl/112/5/s202/d], substituted “through 2011” for “through 2010 and $6,370,000 for the period beginning October 1, 2010, and ending on March 4, 2011”.
+    [Pub. L. 112–5][/us/pl/112/5], § 202(d), substituted “through 2011” for “through 2010 and $6,370,000 for the period beginning October 1, 2010, and ending on March 4, 2011”.
 
-    2010—Subsec. (a)(6). [Pub. L. 111–147, § 422(a)][/us/pl/111/147/s422/a], added par. (6).
+    2010—Subsec. (a)(6). [Pub. L. 111–147][/us/pl/111/147], § 422(a), added par. (6).
 
-    Subsec. (a)(7). [Pub. L. 111–322, § 2202(a)][/us/pl/111/322/s2202/a], substituted “$88,753,000 for the period beginning October 1, 2010, and ending on March 4, 2011.” for “$52,679,000 for the period beginning on October 1, 2010, and ending on December 31, 2010.”
+    Subsec. (a)(7). [Pub. L. 111–322][/us/pl/111/322], § 2202(a), substituted “$88,753,000 for the period beginning October 1, 2010, and ending on March 4, 2011.” for “$52,679,000 for the period beginning on October 1, 2010, and ending on December 31, 2010.”
 
-    [Pub. L. 111–147, § 422(a)][/us/pl/111/147/s422/a], added par. (7).
+    [Pub. L. 111–147][/us/pl/111/147], § 422(a), added par. (7).
 
-    Subsec. (i)(1)(F). [Pub. L. 111–147, § 422(b)][/us/pl/111/147/s422/b], added subpar. (F).
+    Subsec. (i)(1)(F). [Pub. L. 111–147][/us/pl/111/147], § 422(b), added subpar. (F).
 
-    Subsec. (i)(1)(G). [Pub. L. 111–322, § 2202(b)][/us/pl/111/322/s2202/b], substituted “$103,678,000 for the period beginning October 1, 2010, and ending on March 4, 2011.” for “$61,036,000 for the period beginning on October 1, 2010, and ending on December 31, 2010.”
+    Subsec. (i)(1)(G). [Pub. L. 111–322][/us/pl/111/322], § 2202(b), substituted “$103,678,000 for the period beginning October 1, 2010, and ending on March 4, 2011.” for “$61,036,000 for the period beginning on October 1, 2010, and ending on December 31, 2010.”
 
-    [Pub. L. 111–147, § 422(b)][/us/pl/111/147/s422/b], added subpar (G).
+    [Pub. L. 111–147][/us/pl/111/147], § 422(b), added subpar (G).
 
-    Subsec. (k)(2). [Pub. L. 111–322, § 2202(d)][/us/pl/111/322/s2202/d], substituted “2010 and $6,370,000 for the period beginning October 1, 2010, and ending on March 4, 2011” for “2009, $15,000,000 for fiscal year 2010, and $3,781,000 for the period beginning on October 1, 2010, and ending on December 31, 2010”.
+    Subsec. (k)(2). [Pub. L. 111–322][/us/pl/111/322], § 2202(d), substituted “2010 and $6,370,000 for the period beginning October 1, 2010, and ending on March 4, 2011” for “2009, $15,000,000 for fiscal year 2010, and $3,781,000 for the period beginning on October 1, 2010, and ending on December 31, 2010”.
 
-    [Pub. L. 111–147, § 422(d)][/us/pl/111/147/s422/d], substituted “2009, $15,000,000 for fiscal year 2010, and $3,781,000 for the period beginning on October 1, 2010, and ending on December 31, 2010” for “2009”.
+    [Pub. L. 111–147][/us/pl/111/147], § 422(d), substituted “2009, $15,000,000 for fiscal year 2010, and $3,781,000 for the period beginning on October 1, 2010, and ending on December 31, 2010” for “2009”.
 
     2008—Subsec. (f). [Pub. L. 110–244][/us/pl/110/244] struck out par. (1) designation and heading before “On October” and struck out par. (2) which permitted the Secretary to designate certain allocated amounts for high-priority and border activities.
 
-    2005—Subsec. (a). [Pub. L. 109–59, § 4101(a)][/us/pl/109/59/s4101/a], reenacted heading without change and amended text of subsec. (a) generally. Prior to amendment, text contained pars. (1) to (8) making amounts available from the Highway Trust Fund (other than the Mass Transit Account) for the Secretary of Transportation to incur obligations to carry out section 31102 for fiscal years 1998 to 2004 and part of 2005.
+    2005—Subsec. (a). [Pub. L. 109–59][/us/pl/109/59], § 4101(a), reenacted heading without change and amended text of subsec. (a) generally. Prior to amendment, text contained pars. (1) to (8) making amounts available from the Highway Trust Fund (other than the Mass Transit Account) for the Secretary of Transportation to incur obligations to carry out section 31102 for fiscal years 1998 to 2004 and part of 2005.
 
     Subsec. (a)(8). [Pub. L. 109–40][/us/pl/109/40] amended par. (8) generally. Prior to amendment, par. (8) read as follows: “Not more than $138,904,110 for the period of October 1, 2004, through July 27, 2005.”
 
@@ -549,9 +549,9 @@ Dec. 18, 1991, Pub. L. 102–240, § 4002(l), 105 Stat. 2144.  </td>
 
     [Pub. L. 109–14][/us/pl/109/14] amended par. (8) generally. Prior to amendment, par. (8) read as follows: “Not more than $112,512,329 for the period of October 1, 2004, through May 31, 2005.”
 
-    Subsecs. (i), (j). [Pub. L. 109–59, § 4101(b)][/us/pl/109/59/s4101/b], added subsecs. (i) and (j).
+    Subsecs. (i), (j). [Pub. L. 109–59][/us/pl/109/59], § 4101(b), added subsecs. (i) and (j).
 
-    Subsec. (k). [Pub. L. 109–59, § 4107(a)][/us/pl/109/59/s4107/a], added subsec. (k).
+    Subsec. (k). [Pub. L. 109–59][/us/pl/109/59], § 4107(a), added subsec. (k).
 
     2004—Subsec. (a)(7). [Pub. L. 108–280][/us/pl/108/280] amended par. (7) generally. Prior to amendment, par. (7) read as follows: “Not more than $140,833,333 for the period of October 1, 2003, through July 31, 2004.”
 
@@ -565,21 +565,21 @@ Dec. 18, 1991, Pub. L. 102–240, § 4002(l), 105 Stat. 2144.  </td>
 
     2003—Subsec. (a)(7). [Pub. L. 108–88][/us/pl/108/88] added par. (7).
 
-    1998—Subsec. (a). [Pub. L. 105–178, § 4003(e)][/us/pl/105/178/s4003/e], amended heading and text of subsec. (a) generally, substituting provisions relating to appropriations for fiscal years 1998 to 2003 for provisions relating to appropriations for fiscal years ending Sept. 30, 1993 to 1997 and for period of Oct. 1, 1997 through Mar. 31, 1998.
+    1998—Subsec. (a). [Pub. L. 105–178][/us/pl/105/178], § 4003(e), amended heading and text of subsec. (a) generally, substituting provisions relating to appropriations for fiscal years 1998 to 2003 for provisions relating to appropriations for fiscal years ending Sept. 30, 1993 to 1997 and for period of Oct. 1, 1997 through Mar. 31, 1998.
 
-    Subsec. (b). [Pub. L. 105–178, § 4003(f)][/us/pl/105/178/s4003/f], struck out par. (1) designation and par. (2) which read as follows: “Amounts made available under section 404(a)(2) of the Surface Transportation Assistance Act of 1982 before October 1, 1991, that are not obligated on October 1, 1992, are available for reallocation and obligation under paragraph (1) of this subsection.”
+    Subsec. (b). [Pub. L. 105–178][/us/pl/105/178], § 4003(f), struck out par. (1) designation and par. (2) which read as follows: “Amounts made available under section 404(a)(2) of the Surface Transportation Assistance Act of 1982 before October 1, 1991, that are not obligated on October 1, 1992, are available for reallocation and obligation under paragraph (1) of this subsection.”
 
-    Subsec. (f). [Pub. L. 105–178, § 4003(g)(1)][/us/pl/105/178/s4003/g/1], added subsec. (f) and struck out heading and text of former subsec. (f). Text read as follows: “On October 1 of each fiscal year or as soon after that date as practicable, the Secretary, after making the deduction described in subsection (e) of this section, shall allocate under criteria the Secretary establishes the amounts available for that fiscal year among the States with plans approved under [section 31102 of this title][/us/usc/t49/s31102]. However, the Secretary may designate specific eligible States among which to allocate those amounts in allocating amounts available—
+    Subsec. (f). [Pub. L. 105–178][/us/pl/105/178], § 4003(g)(1), added subsec. (f) and struck out heading and text of former subsec. (f). Text read as follows: “On October 1 of each fiscal year or as soon after that date as practicable, the Secretary, after making the deduction described in subsection (e) of this section, shall allocate under criteria the Secretary establishes the amounts available for that fiscal year among the States with plans approved under [section 31102 of this title][/us/usc/t49/s31102]. However, the Secretary may designate specific eligible States among which to allocate those amounts in allocating amounts available—
 
     “(1) for research, development, and demonstration under subsection (g)(1)(F) of this section; and
 
     “(2) for public education under subsection (g)(1)(G) of this section.”
 
-    Subsec. (g). [Pub. L. 105–178, § 4003(g)(1)][/us/pl/105/178/s4003/g/1], (2), redesignated subsec. (h) as (g) and struck out former subsec. (g) which related to specific allocations.
+    Subsec. (g). [Pub. L. 105–178][/us/pl/105/178], § 4003(g)(1), (2), redesignated subsec. (h) as (g) and struck out former subsec. (g) which related to specific allocations.
 
-    Subsec. (h). [Pub. L. 105–178, § 4003(g)(4)][/us/pl/105/178/s4003/g/4], redesignated subsec. (j) as (h). Former subsec. (h) redesignated (g).
+    Subsec. (h). [Pub. L. 105–178][/us/pl/105/178], § 4003(g)(4), redesignated subsec. (j) as (h). Former subsec. (h) redesignated (g).
 
-    Subsec. (i). [Pub. L. 105–178, § 4003(g)(3)][/us/pl/105/178/s4003/g/3], struck out heading and text of subsec. (i). Text read as follows: “The Secretary shall prescribe regulations to develop an improved formula and process for allocating amounts made available for grants under [section 31102(a) of this title][/us/usc/t49/s31102/a] among States eligible for those amounts. In prescribing those regulations, the Secretary shall—
+    Subsec. (i). [Pub. L. 105–178][/us/pl/105/178], § 4003(g)(3), struck out heading and text of subsec. (i). Text read as follows: “The Secretary shall prescribe regulations to develop an improved formula and process for allocating amounts made available for grants under [section 31102(a) of this title][/us/usc/t49/s31102/a] among States eligible for those amounts. In prescribing those regulations, the Secretary shall—
 
     “(1) consider ways to provide incentives to States that demonstrate innovative, successful, cost-efficient, or cost-effective programs to promote commercial motor vehicle safety and hazardous material transportation safety;
 
@@ -587,7 +587,7 @@ Dec. 18, 1991, Pub. L. 102–240, § 4002(l), 105 Stat. 2144.  </td>
 
     “(3) consider ways to provide incentives to States that increase compatibility of State commercial motor vehicle safety and hazardous material transportation regulations with Government safety regulations and promote other factors intended to promote effectiveness and efficiency the Secretary decides are appropriate.”
 
-    Subsec. (j). [Pub. L. 105–178, § 4003(g)(4)][/us/pl/105/178/s4003/g/4], redesignated subsec. (j) as (h).
+    Subsec. (j). [Pub. L. 105–178][/us/pl/105/178], § 4003(g)(4), redesignated subsec. (j) as (h).
 
     1997—Subsec. (a). [Pub. L. 105–130][/us/pl/105/130] substituted “Not more” for “not more” in pars. (1) to (5) and added par. (6).
 
@@ -607,13 +607,13 @@ Dec. 18, 1991, Pub. L. 102–240, § 4002(l), 105 Stat. 2144.  </td>
 
  __Funding__ 
 
-[Pub. L. 109–59, title IV, § 4116(d)][/us/pl/109/59/s4116/d], Aug. 10, 2005, [119 Stat. 1728][/us/stat/119/1728], as amended by [Pub. L. 114–94, div. A, title V, § 5103(c)(2)][/us/pl/114/94/s5103/c/2], Dec. 4, 2015, [129 Stat. 1527][/us/stat/129/1527], provided that: 
+[Pub. L. 109–59, title IV][/us/pl/109/59/tIV], § 4116(d), Aug. 10, 2005, [119 Stat. 1728][/us/stat/119/1728], as amended by [Pub. L. 114–94, div. A, title V][/us/pl/114/94/dA/tV], § 5103(c)(2), Dec. 4, 2015, [129 Stat. 1527][/us/stat/129/1527], provided that: 
 
 > “Amounts made available pursuant to [section 31110 of title 49][/us/usc/t49/s31110], United States Code, shall be used by the Secretary \[of Transportation\] to carry out [section 31149 of title 49][/us/usc/t49/s31149], United States Code.”
 
  __Increased Authorizations for Motor Carrier Safety Grants__ 
 
-[Pub. L. 105–178, title IV, § 4003(i)][/us/pl/105/178/s4003/i], as added by [Pub. L. 106–159, title I, § 103(b)(1)][/us/pl/106/159/s103/b/1], Dec. 9, 1999, [113 Stat. 1753][/us/stat/113/1753], provided that: 
+[Pub. L. 105–178, title IV][/us/pl/105/178/tIV], § 4003(i), as added by [Pub. L. 106–159, title I][/us/pl/106/159/tI], § 103(b)(1), Dec. 9, 1999, [113 Stat. 1753][/us/stat/113/1753], provided that: 
 
 > “The amount made available to incur obligations to carry out [section 31102 of title 49][/us/usc/t49/s31102], United States Code, by section 31104(a) of such title for each of fiscal years 2001 through 2003 shall be increased by $65,000,000.”
 
@@ -629,150 +629,150 @@ Dec. 18, 1991, Pub. L. 102–240, § 4002(l), 105 Stat. 2144.  </td>
 [/us/usc/t49/s31102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31102
 [/us/usc/t49/s31102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31102%2Fa
 [/us/usc/t23/s153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs153
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F987
-[/us/pl/105/130/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F130%2Fs7
+[/us/pl/105/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F130
 [/us/stat/111/2559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2559
-[/us/pl/105/178/s4003/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4003%2Fe
+[/us/pl/105/178/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtIV
 [/us/stat/112/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F397
-[/us/pl/108/88/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F88%2Fs7%2Fb
+[/us/pl/108/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F88
 [/us/stat/117/1120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1120
-[/us/pl/108/202/s11/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F202%2Fs11%2Fb
+[/us/pl/108/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F202
 [/us/stat/118/490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F490
-[/us/pl/108/224/s9/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F224%2Fs9%2Fb
+[/us/pl/108/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F224
 [/us/stat/118/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F638
-[/us/pl/108/263/s9/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F263%2Fs9%2Fb
+[/us/pl/108/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F263
 [/us/stat/118/709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F709
-[/us/pl/108/280/s9/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F280%2Fs9%2Fb
+[/us/pl/108/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F280
 [/us/stat/118/886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F886
-[/us/pl/108/310/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F310%2Fs7%2Fb
+[/us/pl/108/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F310
 [/us/stat/118/1153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1153
-[/us/pl/109/14/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F14%2Fs6%2Fb
+[/us/pl/109/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F14
 [/us/stat/119/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F330
-[/us/pl/109/20/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F20%2Fs6%2Fb
+[/us/pl/109/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F20
 [/us/stat/119/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F352
-[/us/pl/109/35/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F35%2Fs6%2Fb
+[/us/pl/109/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F35
 [/us/stat/119/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F385
-[/us/pl/109/37/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F37%2Fs6%2Fb
+[/us/pl/109/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F37
 [/us/stat/119/400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F400
-[/us/pl/109/40/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F40%2Fs6%2Fb
+[/us/pl/109/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F40
 [/us/stat/119/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F417
-[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIV
 [/us/stat/119/1714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1714
-[/us/pl/110/244/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs301%2Fa
+[/us/pl/110/244/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2FtIII
 [/us/stat/122/1616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1616
-[/us/pl/111/147/s422/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2Fs422%2Fa
+[/us/pl/111/147/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2FtIV
 [/us/stat/124/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F86
-[/us/pl/111/322/s2202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F322%2Fs2202%2Fa
+[/us/pl/111/322/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F322%2FtII
 [/us/stat/124/3524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3524
-[/us/pl/112/5/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F5%2Fs202%2Fa
+[/us/pl/112/5/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F5%2FtII
 [/us/stat/125/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F16
-[/us/pl/112/30/s122/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F30%2Fs122%2Fa
+[/us/pl/112/30/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F30%2FtI
 [/us/stat/125/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F348
-[/us/pl/112/102/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F102%2Fs202%2Fa
+[/us/pl/112/102/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F102%2FtII
 [/us/stat/126/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F273
-[/us/pl/112/140/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F140%2Fs202%2Fa
+[/us/pl/112/140/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F140%2FtII
 [/us/stat/126/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F394
-[/us/pl/112/141/s32603/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32603%2Fa
+[/us/pl/112/141/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtII
 [/us/stat/126/807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F807
-[/us/pl/113/159/s1102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159%2Fs1102%2Fa
+[/us/pl/113/159/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159%2FtI
 [/us/stat/128/1843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1843
-[/us/pl/114/21/s1102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F21%2Fs1102%2Fa
+[/us/pl/114/21/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F21%2FtI
 [/us/stat/129/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F221
-[/us/pl/114/41/s1102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs1102%2Fa
+[/us/pl/114/41/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2FtI
 [/us/stat/129/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F448
-[/us/pl/114/73/s1102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73%2Fs1102%2Fa
+[/us/pl/114/73/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73%2FtI
 [/us/stat/129/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F571
-[/us/pl/114/87/s1102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F87%2Fs1102%2Fa
+[/us/pl/114/87/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F87%2FtI
 [/us/stat/129/680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F680
-[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtV
 [/us/stat/129/1523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1523
-[/us/pl/114/94/s5101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5101%2Fc
+[/us/pl/114/94/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtV
 [/us/stat/129/1523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1523
 [/us/pl/102/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240
 [/us/stat/105/2142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2142
 [/us/usc/t49/s31102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31102
 [/us/usc/t49/s31102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31102%2Fa
 [/us/usc/t49/s31102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31102%2Fa
-[/us/pl/114/94/s5101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5101%2Fc
-[/us/pl/114/94/s5105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5105%2Fa
-[/us/pl/114/41/s1102/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs1102%2Fa%2F2
-[/us/pl/114/21/s1102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F21%2Fs1102%2Fa
-[/us/pl/114/94/s5105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5105%2Fa
-[/us/pl/114/87/s1102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F87%2Fs1102%2Fa
-[/us/pl/114/73/s1102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73%2Fs1102%2Fa
-[/us/pl/114/41/s1102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs1102%2Fa
-[/us/pl/114/94/s5103/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5103%2Fc%2F1
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41
+[/us/pl/114/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F21
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F87
+[/us/pl/114/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73
+[/us/pl/114/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/usc/t49/s31110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31110
-[/us/pl/114/41/s1102/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs1102%2Fb%2F2
-[/us/pl/114/21/s1102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F21%2Fs1102%2Fb
-[/us/pl/114/87/s1102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F87%2Fs1102%2Fb
-[/us/pl/114/73/s1102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73%2Fs1102%2Fb
-[/us/pl/114/41/s1102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs1102%2Fb
-[/us/pl/114/94/s5103/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5103%2Fc%2F1%2FB
-[/us/pl/114/94/s5105/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5105%2Fc
-[/us/pl/114/94/s5103/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5103%2Fc%2F1%2FB
-[/us/pl/114/87/s1102/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F87%2Fs1102%2Fd
-[/us/pl/114/73/s1102/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73%2Fs1102%2Fd
-[/us/pl/114/41/s1102/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs1102%2Fd
-[/us/pl/114/21/s1102/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F21%2Fs1102%2Fd
-[/us/pl/113/159/s1102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159%2Fs1102%2Fa
-[/us/pl/113/159/s1102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159%2Fs1102%2Fb
-[/us/pl/113/159/s1102/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159%2Fs1102%2Fd
-[/us/pl/112/141/s32603/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32603%2Fa%2F1
-[/us/pl/112/141/s112002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs112002%2Fa
-[/us/pl/112/141/s32603/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32603%2Fa%2F2
+[/us/pl/114/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41
+[/us/pl/114/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F21
+[/us/pl/114/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F87
+[/us/pl/114/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73
+[/us/pl/114/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F87
+[/us/pl/114/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73
+[/us/pl/114/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41
+[/us/pl/114/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F21
+[/us/pl/113/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159
+[/us/pl/113/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159
+[/us/pl/113/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F140
-[/us/pl/112/102/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F102%2Fs202%2Fa
-[/us/pl/112/141/s32603/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32603%2Fa%2F3
-[/us/pl/112/141/s112002/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs112002%2Fb%2F2
-[/us/pl/112/141/s32603/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32603%2Fb%2F1
-[/us/pl/112/141/s112002/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs112002%2Fb%2F1
-[/us/pl/112/141/s32603/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32603%2Fb%2F2
+[/us/pl/112/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F102
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F140
-[/us/pl/112/102/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F102%2Fs202%2Fb
-[/us/pl/112/141/s32603/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32603%2Fb%2F3
-[/us/pl/112/141/s32603/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32603%2Fd
+[/us/pl/112/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F102
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F140
-[/us/pl/112/102/s202/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F102%2Fs202%2Fd
-[/us/pl/112/5/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F5%2Fs202%2Fa
-[/us/pl/112/30/s122/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F30%2Fs122%2Fa
-[/us/pl/112/5/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F5%2Fs202%2Fb
-[/us/pl/112/30/s122/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F30%2Fs122%2Fb
-[/us/pl/112/30/s122/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F30%2Fs122%2Fd
-[/us/pl/112/5/s202/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F5%2Fs202%2Fd
-[/us/pl/111/147/s422/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2Fs422%2Fa
-[/us/pl/111/322/s2202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F322%2Fs2202%2Fa
-[/us/pl/111/147/s422/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2Fs422%2Fa
-[/us/pl/111/147/s422/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2Fs422%2Fb
-[/us/pl/111/322/s2202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F322%2Fs2202%2Fb
-[/us/pl/111/147/s422/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2Fs422%2Fb
-[/us/pl/111/322/s2202/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F322%2Fs2202%2Fd
-[/us/pl/111/147/s422/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2Fs422%2Fd
+[/us/pl/112/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F102
+[/us/pl/112/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F5
+[/us/pl/112/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F30
+[/us/pl/112/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F5
+[/us/pl/112/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F30
+[/us/pl/112/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F30
+[/us/pl/112/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F5
+[/us/pl/111/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147
+[/us/pl/111/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F322
+[/us/pl/111/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147
+[/us/pl/111/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147
+[/us/pl/111/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F322
+[/us/pl/111/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147
+[/us/pl/111/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F322
+[/us/pl/111/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147
 [/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
-[/us/pl/109/59/s4101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4101%2Fa
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/109/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F40
 [/us/pl/109/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F37
 [/us/pl/109/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F35
 [/us/pl/109/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F20
 [/us/pl/109/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F14
-[/us/pl/109/59/s4101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4101%2Fb
-[/us/pl/109/59/s4107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4107%2Fa
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/108/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F280
 [/us/pl/108/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F263
 [/us/pl/108/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F224
 [/us/pl/108/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F202
 [/us/pl/108/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F310
 [/us/pl/108/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F88
-[/us/pl/105/178/s4003/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4003%2Fe
-[/us/pl/105/178/s4003/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4003%2Ff
-[/us/pl/105/178/s4003/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4003%2Fg%2F1
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
 [/us/usc/t49/s31102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31102
-[/us/pl/105/178/s4003/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4003%2Fg%2F1
-[/us/pl/105/178/s4003/g/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4003%2Fg%2F4
-[/us/pl/105/178/s4003/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4003%2Fg%2F3
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
 [/us/usc/t49/s31102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31102%2Fa
-[/us/pl/105/178/s4003/g/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4003%2Fg%2F4
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
 [/us/pl/105/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F130
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
@@ -792,14 +792,14 @@ Dec. 18, 1991, Pub. L. 102–240, § 4002(l), 105 Stat. 2144.  </td>
 [/us/pl/112/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F140
 [/us/pl/112/140/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F140%2Fs1%2Fc
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
-[/us/pl/109/59/s4116/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4116%2Fd
+[/us/pl/109/59/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIV
 [/us/stat/119/1728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1728
-[/us/pl/114/94/s5103/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5103%2Fc%2F2
+[/us/pl/114/94/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtV
 [/us/stat/129/1527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1527
 [/us/usc/t49/s31110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31110
 [/us/usc/t49/s31149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31149
-[/us/pl/105/178/s4003/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4003%2Fi
-[/us/pl/106/159/s103/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2Fs103%2Fb%2F1
+[/us/pl/105/178/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtIV
+[/us/pl/106/159/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2FtI
 [/us/stat/113/1753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1753
 [/us/usc/t49/s31102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31102
 

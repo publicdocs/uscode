@@ -27,7 +27,7 @@
 
     Notwithstanding [section 20106 of this title][/us/usc/t49/s20106], subsection (a) of this section does not prohibit a State from continuing in force a law, regulation, or order in effect on July 8, 1976, related to lighted markers on the rear car of a freight train except to the extent it would cause the car to be in violation of this section.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 873][/us/stat/108/873].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 873][/us/stat/108/873].)
 
 <table>
 
@@ -99,7 +99,7 @@ Oct. 16, 1970, Pub. L. 91–458, 84 Stat. 971, § 202(g) (1st sentence cls. (2
 ----------
 
 [/us/usc/t49/s20106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs20106
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F873
 
 

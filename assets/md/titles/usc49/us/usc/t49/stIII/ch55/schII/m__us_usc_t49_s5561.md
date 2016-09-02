@@ -17,7 +17,7 @@
 
     In this chapter, “civic and cultural activities” includes libraries, musical and dramatic presentations, art exhibits, adult education programs, public meeting places, and other facilities for carrying on an activity any part of which is supported under a law of the United States.
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 851][/us/stat/108/851].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(d), July 5, 1994, [108 Stat. 851][/us/stat/108/851].)
 
 <table>
 
@@ -76,7 +76,7 @@ Oct. 15, 1966, Pub. L. 89–670, 80 Stat. 931, § 4(i)(10); added Oct. 28, 197
 ----------
 ----------
 
-[/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F851
 [/us/pl/93/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F496
 [/us/stat/88/1528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1528

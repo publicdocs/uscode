@@ -23,7 +23,7 @@
 
     There is authorized to be appropriated to the Secretary $1,000,000 for the period beginning October 1, 2006, and ending September 30, 2008, to carry out this section.
 
-(Added [Pub. L. 109–468, § 3(a)][/us/pl/109/468/s3/a], Dec. 29, 2006, [120 Stat. 3489][/us/stat/120/3489].)
+(Added [Pub. L. 109–468][/us/pl/109/468], § 3(a), Dec. 29, 2006, [120 Stat. 3489][/us/stat/120/3489].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/109/468/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F468%2Fs3%2Fa
+[/us/pl/109/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F468
 [/us/stat/120/3489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3489
 
 

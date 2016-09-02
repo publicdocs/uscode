@@ -155,7 +155,7 @@
 
  __Amendments__ 
 
-    1994—[Pub. L. 103–429, § 6(79)][/us/pl/103/429/s6/79], Oct. 31, 1994, [108 Stat. 4388][/us/stat/108/4388], made technical amendment to chapter heading.
+    1994—[Pub. L. 103–429][/us/pl/103/429], § 6(79), Oct. 31, 1994, [108 Stat. 4388][/us/stat/108/4388], made technical amendment to chapter heading.
 
 ----------
 
@@ -164,7 +164,7 @@
 ----------
 ----------
 
-[/us/pl/103/429/s6/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F79
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/stat/108/4388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4388
 
 

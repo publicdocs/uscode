@@ -205,7 +205,7 @@
 
         (2) use the categories specified in the financial accounting and reporting system developed under section 203 of the Passenger Rail Investment and Improvement Act of 2008 ([49 U.S.C. 24101][/us/usc/t49/s24101] note).
 
-(Added [Pub. L. 114–94, div. A, title XI, § 11203(a)][/us/pl/114/94/s11203/a], Dec. 4, 2015, [129 Stat. 1630][/us/stat/129/1630].)
+(Added [Pub. L. 114–94, div. A, title XI][/us/pl/114/94/dA/tXI], § 11203(a), Dec. 4, 2015, [129 Stat. 1630][/us/stat/129/1630].)
 
  __Delayed Effective Dates Under Subsection (a)(1)__ 
 
@@ -215,13 +215,13 @@
 
     Section effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as an Effective Date of 2015 Amendment note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
 
-[Pub. L. 114–94, div. A, title XI, § 11203(b)][/us/pl/114/94/s11203/b], Dec. 4, 2015, [129 Stat. 1634][/us/stat/129/1634], provided that: 
+[Pub. L. 114–94, div. A, title XI][/us/pl/114/94/dA/tXI], § 11203(b), Dec. 4, 2015, [129 Stat. 1634][/us/stat/129/1634], provided that: 
 
 > “The requirement for Amtrak to submit 5-year business line plans under [section 24320(a)(1) of title 49][/us/usc/t49/s24320/a/1], United States Code, shall take effect on February 15, 2017, the due date of the first business line plans. The requirement for Amtrak to submit 5-year asset plans under section 24320(a)(1) of such title shall take effect on February 15, 2019, the due date of the first asset plans.”
 
  __Elimination of Duplicative Reporting__ 
 
-[Pub. L. 114–94, div. A, title XI, § 11215][/us/pl/114/94/s11215], Dec. 4, 2015, [129 Stat. 1644][/us/stat/129/1644], provided that: 
+[Pub. L. 114–94, div. A, title XI][/us/pl/114/94/dA/tXI], § 11215, Dec. 4, 2015, [129 Stat. 1644][/us/stat/129/1644], provided that: 
 
 > “Not later than 1 year after the date of enactment of this Act \[Dec. 4, 2015\], the Secretary \[of Transportation\] shall—
 
@@ -239,14 +239,14 @@
 ----------
 
 [/us/usc/t49/s24101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24101
-[/us/pl/114/94/s11203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11203%2Fa
+[/us/pl/114/94/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtXI
 [/us/stat/129/1630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1630
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
-[/us/pl/114/94/s11203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11203%2Fb
+[/us/pl/114/94/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtXI
 [/us/stat/129/1634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1634
 [/us/usc/t49/s24320/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24320%2Fa%2F1
-[/us/pl/114/94/s11215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11215
+[/us/pl/114/94/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtXI
 [/us/stat/129/1644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1644
 [/us/usc/t49/s24320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24320
 

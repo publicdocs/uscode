@@ -47,7 +47,7 @@
 
         (3) The Secretary of Transportation shall include the findings required by subsection (b)(1) of this section in an order of the Secretary approving or disapproving an agreement, request, modification, or cancellation.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1129][/us/stat/108/1129]; [Pub. L. 104–88, title III, § 308][/us/pl/104/88/s308](l), Dec. 29, 1995, [109 Stat. 948][/us/stat/109/948]; [Pub. L. 104–287, § 5(71)][/us/pl/104/287/s5/71], Oct. 11, 1996, [110 Stat. 3396][/us/stat/110/3396].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1129][/us/stat/108/1129]; [Pub. L. 104–88, title III][/us/pl/104/88/tIII], § 308(l), Dec. 29, 1995, [109 Stat. 948][/us/stat/109/948]; [Pub. L. 104–287][/us/pl/104/287], § 5(71), Oct. 11, 1996, [110 Stat. 3396][/us/stat/110/3396].)
 
 <table>
 
@@ -257,7 +257,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 1601(b)(1)(C) (related to §
 
  __Air Transportation Arrangements in Certain States__ 
 
-    [Pub. L. 107–71, title I, § 116][/us/pl/107/71/s116], Nov. 19, 2001, [115 Stat. 624][/us/stat/115/624], which related to air transportation arrangements for flights that both originate and terminate at points within the same State, was repealed by [Pub. L. 107–273, div. C, title IV, § 14102(g)][/us/pl/107/273/s14102/g], Nov. 2, 2002, [116 Stat. 1922][/us/stat/116/1922].
+    [Pub. L. 107–71, title I][/us/pl/107/71/tI], § 116, Nov. 19, 2001, [115 Stat. 624][/us/stat/115/624], which related to air transportation arrangements for flights that both originate and terminate at points within the same State, was repealed by [Pub. L. 107–273, div. C, title IV][/us/pl/107/273/dC/tIV], § 14102(g), Nov. 2, 2002, [116 Stat. 1922][/us/stat/116/1922].
 
 ----------
 
@@ -266,11 +266,11 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 1601(b)(1)(C) (related to §
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1129
-[/us/pl/104/88/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs308
+[/us/pl/104/88/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtIII
 [/us/stat/109/948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F948
-[/us/pl/104/287/s5/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F71
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3396
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
@@ -278,9 +278,9 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 1601(b)(1)(C) (related to §
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/104/88/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs2
 [/us/usc/t49/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1301
-[/us/pl/107/71/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs116
+[/us/pl/107/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2FtI
 [/us/stat/115/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F624
-[/us/pl/107/273/s14102/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs14102%2Fg
+[/us/pl/107/273/dC/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtIV
 [/us/stat/116/1922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1922
 
 

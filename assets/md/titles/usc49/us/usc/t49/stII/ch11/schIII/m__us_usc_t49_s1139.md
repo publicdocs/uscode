@@ -145,15 +145,15 @@
 
     Nothing in this section shall be construed to abridge the authority of the Board or the Secretary of Transportation to investigate the causes or circumstances of any rail accident, including development of information regarding the nature of injuries sustained and the manner in which they were sustained for the purposes of determining compliance with existing laws and regulations or for identifying means of preventing similar injuries in the future, or both.
 
-(Added [Pub. L. 110–432, div. A, title V, § 501(a)][/us/pl/110/432/s501/a], Oct. 16, 2008, [122 Stat. 4894][/us/stat/122/4894]; amended [Pub. L. 114–94, div. A, title XI, § 11316(a)][/us/pl/114/94/s11316/a], Dec. 4, 2015, [129 Stat. 1676][/us/stat/129/1676].)
+(Added [Pub. L. 110–432, div. A, title V][/us/pl/110/432/dA/tV], § 501(a), Oct. 16, 2008, [122 Stat. 4894][/us/stat/122/4894]; amended [Pub. L. 114–94, div. A, title XI][/us/pl/114/94/dA/tXI], § 11316(a), Dec. 4, 2015, [129 Stat. 1676][/us/stat/129/1676].)
 
  __Amendments__ 
 
-    2015—Subsec. (a)(1). [Pub. L. 114–94, § 11316(a)(1)][/us/pl/114/94/s11316/a/1], substituted “telephone number” for “phone number”.
+    2015—Subsec. (a)(1). [Pub. L. 114–94][/us/pl/114/94], § 11316(a)(1), substituted “telephone number” for “phone number”.
 
-    Subsec. (a)(2). [Pub. L. 114–94, § 11316(a)(2)][/us/pl/114/94/s11316/a/2], substituted “post-trauma communication with families” for “post trauma communication with families”.
+    Subsec. (a)(2). [Pub. L. 114–94][/us/pl/114/94], § 11316(a)(2), substituted “post-trauma communication with families” for “post trauma communication with families”.
 
-    Subsec. (j). [Pub. L. 114–94, § 11316(a)(3)][/us/pl/114/94/s11316/a/3], substituted “rail passenger accident” for “railroad passenger accident” in two places.
+    Subsec. (j). [Pub. L. 114–94][/us/pl/114/94], § 11316(a)(3), substituted “rail passenger accident” for “railroad passenger accident” in two places.
 
  __Effective Date of 2015 Amendment__ 
 
@@ -161,7 +161,7 @@
 
  __Establishment of Task Force__ 
 
-[Pub. L. 110–432, div. A, title V, § 503][/us/pl/110/432/s503], Oct. 16, 2008, [122 Stat. 4899][/us/stat/122/4899], provided that:
+[Pub. L. 110–432, div. A, title V][/us/pl/110/432/dA/tV], § 503, Oct. 16, 2008, [122 Stat. 4899][/us/stat/122/4899], provided that:
 
 >     “(a)  __Establishment__  __.—__ 
 
@@ -190,17 +190,17 @@
 ----------
 ----------
 
-[/us/pl/110/432/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs501%2Fa
+[/us/pl/110/432/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdA%2FtV
 [/us/stat/122/4894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4894
-[/us/pl/114/94/s11316/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11316%2Fa
+[/us/pl/114/94/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtXI
 [/us/stat/129/1676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1676
-[/us/pl/114/94/s11316/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11316%2Fa%2F1
-[/us/pl/114/94/s11316/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11316%2Fa%2F2
-[/us/pl/114/94/s11316/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11316%2Fa%2F3
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
-[/us/pl/110/432/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs503
+[/us/pl/110/432/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdA%2FtV
 [/us/stat/122/4899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4899
 [/us/usc/t49/s1139/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1139%2Fa%2F2
 [/us/usc/t49/s1139/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1139%2Fh%2F2

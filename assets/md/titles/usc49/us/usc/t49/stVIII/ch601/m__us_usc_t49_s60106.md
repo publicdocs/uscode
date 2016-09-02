@@ -91,7 +91,7 @@
 
         The Secretary shall give notice and an opportunity for a hearing to a State authority before ending an agreement under this section. The Secretary may provide a State an opportunity to correct any deficiencies before ending an agreement. The finding and decision to end the agreement shall be published in the Federal Register and may not become effective for at least 15 days after the date of publication unless the Secretary finds that continuation of an agreement poses an imminent hazard.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1310][/us/stat/108/1310]; [Pub. L. 104–304, § 20(b)][/us/pl/104/304/s20/b], Oct. 12, 1996, [110 Stat. 3804][/us/stat/110/3804]; [Pub. L. 107–355, § 4][/us/pl/107/355/s4], Dec. 17, 2002, [116 Stat. 2986][/us/stat/116/2986].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1310][/us/stat/108/1310]; [Pub. L. 104–304][/us/pl/104/304], § 20(b), Oct. 12, 1996, [110 Stat. 3804][/us/stat/110/3804]; [Pub. L. 107–355][/us/pl/107/355], § 4, Dec. 17, 2002, [116 Stat. 2986][/us/stat/116/2986].)
 
 <table>
 
@@ -255,15 +255,15 @@ Aug. 12, 1968, Pub. L. 90–481, § 5(f), 82 Stat. 724; Nov. 30, 1979, Pub. L.
 
  __Amendments__ 
 
-    2002—Subsec. (a). [Pub. L. 107–355, § 4(a)(1)][/us/pl/107/355/s4/a/1], substituted “Agreements Without Certification” for “General Authority” in heading.
+    2002—Subsec. (a). [Pub. L. 107–355][/us/pl/107/355], § 4(a)(1), substituted “Agreements Without Certification” for “General Authority” in heading.
 
-    Subsec. (b). [Pub. L. 107–355, § 4(a)(3)][/us/pl/107/355/s4/a/3], added subsec. (b). Former subsec. (b) redesignated (c).
+    Subsec. (b). [Pub. L. 107–355][/us/pl/107/355], § 4(a)(3), added subsec. (b). Former subsec. (b) redesignated (c).
 
-    Subsec. (c). [Pub. L. 107–355, § 4(a)(2)][/us/pl/107/355/s4/a/2], (c), redesignated subsec. (b) as (c), designated existing provisions as par. (1), inserted par. heading, realigned margins, and added par. (2). Former subsec. (c) redesignated (d).
+    Subsec. (c). [Pub. L. 107–355][/us/pl/107/355], § 4(a)(2), (c), redesignated subsec. (b) as (c), designated existing provisions as par. (1), inserted par. heading, realigned margins, and added par. (2). Former subsec. (c) redesignated (d).
 
-    Subsec. (d). [Pub. L. 107–355, § 4(a)(2)][/us/pl/107/355/s4/a/2], redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
+    Subsec. (d). [Pub. L. 107–355][/us/pl/107/355], § 4(a)(2), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-    Subsec. (e). [Pub. L. 107–355, § 4(a)(2)][/us/pl/107/355/s4/a/2], (b), redesignated subsec. (d) as (e), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The Secretary may end an agreement made under this section when the Secretary finds that the State authority has not complied with any provision of the agreement. The Secretary shall give the authority notice and an opportunity for a hearing before ending an agreement. The finding and decision to end the agreement shall be published in the Federal Register and may not become effective for at least 15 days after the date of publication.”
+    Subsec. (e). [Pub. L. 107–355][/us/pl/107/355], § 4(a)(2), (b), redesignated subsec. (d) as (e), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The Secretary may end an agreement made under this section when the Secretary finds that the State authority has not complied with any provision of the agreement. The Secretary shall give the authority notice and an opportunity for a hearing before ending an agreement. The finding and decision to end the agreement shall be published in the Federal Register and may not become effective for at least 15 days after the date of publication.”
 
     1996—[Pub. L. 104–304][/us/pl/104/304] substituted “State pipeline safety agreements” for “State agreements” in section catchline.
 
@@ -275,18 +275,18 @@ Aug. 12, 1968, Pub. L. 90–481, § 5(f), 82 Stat. 724; Nov. 30, 1979, Pub. L.
 ----------
 
 [/us/usc/t49/s60105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs60105
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1310
-[/us/pl/104/304/s20/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304%2Fs20%2Fb
+[/us/pl/104/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304
 [/us/stat/110/3804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3804
-[/us/pl/107/355/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355%2Fs4
+[/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355
 [/us/stat/116/2986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2986
 [/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355
-[/us/pl/107/355/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355%2Fs4%2Fa%2F1
-[/us/pl/107/355/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355%2Fs4%2Fa%2F3
-[/us/pl/107/355/s4/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355%2Fs4%2Fa%2F2
-[/us/pl/107/355/s4/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355%2Fs4%2Fa%2F2
-[/us/pl/107/355/s4/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355%2Fs4%2Fa%2F2
+[/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355
+[/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355
+[/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355
+[/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355
+[/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355
 [/us/pl/104/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304
 
 

@@ -251,15 +251,15 @@ SUBCHAPTER IV—ENFORCEMENT AND PENALTIES  </td>
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–432, div. A, title V, § 501(b)][/us/pl/110/432/s501/b], Oct. 16, 2008, [122 Stat. 4897][/us/stat/122/4897], added item 1139.
+    2008—[Pub. L. 110–432, div. A, title V][/us/pl/110/432/dA/tV], § 501(b), Oct. 16, 2008, [122 Stat. 4897][/us/stat/122/4897], added item 1139.
 
-    2006—[Pub. L. 109–443, § 5(b)][/us/pl/109/443/s5/b], Dec. 21, 2006, [120 Stat. 3300][/us/stat/120/3300], added item 1138.
+    2006—[Pub. L. 109–443][/us/pl/109/443], § 5(b), Dec. 21, 2006, [120 Stat. 3300][/us/stat/120/3300], added item 1138.
 
     2000—[Pub. L. 106–424][/us/pl/106/424], §§ 5(c)(2), 12(b), Nov. 1, 2000, [114 Stat. 1885][/us/stat/114/1885], 1887, added item 1137 and substituted “and surface vehicle recordings and transcripts” for “voice and other material” in item 1154.
 
-    1996—[Pub. L. 104–264, title IV, § 407(a)(2)][/us/pl/104/264/s407/a/2], title VII, § 702(a)(2), Oct. 9, 1996, [110 Stat. 3258][/us/stat/110/3258], 3267, added items 1119 and 1136.
+    1996—[Pub. L. 104–264, title IV][/us/pl/104/264/tIV], § 407(a)(2), title VII, § 702(a)(2), Oct. 9, 1996, [110 Stat. 3258][/us/stat/110/3258], 3267, added items 1119 and 1136.
 
-    1994—[Pub. L. 103–272, § 1(c)][/us/pl/103/272/s1/c], (d), July 5, 1994, [108 Stat. 745][/us/stat/108/745], added subtitle II (comprised of chapter 11, §§ 1101–1155) and struck out former subtitle II, except that chapter 31 (comprised of §§ 3101–3104) of subtitle II was redesignated and restated as chapter 315 (comprised of §§ 31501–31504) of subtitle VI, as enacted by [Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e].
+    1994—[Pub. L. 103–272][/us/pl/103/272], § 1(c), (d), July 5, 1994, [108 Stat. 745][/us/stat/108/745], added subtitle II (comprised of chapter 11, §§ 1101–1155) and struck out former subtitle II, except that chapter 31 (comprised of §§ 3101–3104) of subtitle II was redesignated and restated as chapter 315 (comprised of §§ 31501–31504) of subtitle VI, as enacted by [Pub. L. 103–272][/us/pl/103/272], § 1(e).
 
 ----------
 
@@ -268,16 +268,16 @@ SUBCHAPTER IV—ENFORCEMENT AND PENALTIES  </td>
 ----------
 ----------
 
-[/us/pl/110/432/s501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs501%2Fb
+[/us/pl/110/432/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdA%2FtV
 [/us/stat/122/4897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4897
-[/us/pl/109/443/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F443%2Fs5%2Fb
+[/us/pl/109/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F443
 [/us/stat/120/3300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3300
 [/us/pl/106/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F424
 [/us/stat/114/1885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1885
-[/us/pl/104/264/s407/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs407%2Fa%2F2
+[/us/pl/104/264/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2FtIV
 [/us/stat/110/3258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3258
-[/us/pl/103/272/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fc
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F745
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 
 

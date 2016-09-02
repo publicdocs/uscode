@@ -81,7 +81,7 @@
 
     To review a State law or regulation on commercial motor vehicle safety under this section, the Secretary may initiate a regulatory proceeding on the Secretary’s own initiative or on petition of an interested person (including a State).
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1008][/us/stat/108/1008]; [Pub. L. 105–178, title IV, § 4008(e)][/us/pl/105/178/s4008/e], June 9, 1998, [112 Stat. 404][/us/stat/112/404].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1008][/us/stat/108/1008]; [Pub. L. 105–178, title IV][/us/pl/105/178/tIV], § 4008(e), June 9, 1998, [112 Stat. 404][/us/stat/112/404].)
 
 <table>
 
@@ -259,9 +259,9 @@ Oct. 30, 1984, Pub. L. 98–554, § 208(h), 98 Stat. 2838; Nov. 18, 1988, Pub.
 
  __Amendments__ 
 
-    1998—Subsecs. (b), (c). [Pub. L. 105–178, § 4008(e)(1)][/us/pl/105/178/s4008/e/1], added subsecs. (b) and (c) and struck out headings and text of former subsecs. (b) and (c) which related to analysis and decisions by Commercial Motor Vehicle Safety Regulatory Review Panel and to review and decisions by Secretary, respectively.
+    1998—Subsecs. (b), (c). [Pub. L. 105–178][/us/pl/105/178], § 4008(e)(1), added subsecs. (b) and (c) and struck out headings and text of former subsecs. (b) and (c) which related to analysis and decisions by Commercial Motor Vehicle Safety Regulatory Review Panel and to review and decisions by Secretary, respectively.
 
-    Subsecs. (e) to (h). [Pub. L. 105–178, § 4008(e)(2)][/us/pl/105/178/s4008/e/2], (3), redesignated subsecs. (f) to (h) as (e) to (g), respectively, and struck out heading and text of former subsec. (e). Text read as follows: “The Secretary may consolidate regulatory proceedings under this section if the Secretary decides that the consolidation will not adversely affect a party to a proceeding.”
+    Subsecs. (e) to (h). [Pub. L. 105–178][/us/pl/105/178], § 4008(e)(2), (3), redesignated subsecs. (f) to (h) as (e) to (g), respectively, and struck out heading and text of former subsec. (e). Text read as follows: “The Secretary may consolidate regulatory proceedings under this section if the Secretary decides that the consolidation will not adversely affect a party to a proceeding.”
 
 ----------
 
@@ -274,11 +274,11 @@ Oct. 30, 1984, Pub. L. 98–554, § 208(h), 98 Stat. 2838; Nov. 18, 1988, Pub.
 [/us/usc/t49/s31136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31136
 [/us/usc/t49/s31136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31136
 [/us/usc/t28/s1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1254
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1008
-[/us/pl/105/178/s4008/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4008%2Fe
+[/us/pl/105/178/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtIV
 [/us/stat/112/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F404
-[/us/pl/105/178/s4008/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4008%2Fe%2F1
-[/us/pl/105/178/s4008/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4008%2Fe%2F2
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
 
 

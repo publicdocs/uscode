@@ -27,11 +27,11 @@
 
     When the consignee is liable only for rates billed at the time of delivery under subsection (a), the shipper or consignor, or, if the property is reconsigned or diverted, the beneficial owner is liable for those additional rates regardless of the bill of the lading or contract under which the property was transported. The beneficial owner is liable for all rates when the property is reconsigned or diverted by an agent but is refused or abandoned at its ultimate destination if the agent gave the carrier in the reconsignment or diversion order a notice of agency and the name and address of the beneficial owner. A consignee giving the carrier erroneous information about the identity of the beneficial owner of the property is liable for the additional rates.
 
-(Added [Pub. L. 104–88, title I, § 103][/us/pl/104/88/s103], Dec. 29, 1995, [109 Stat. 872][/us/stat/109/872].)
+(Added [Pub. L. 104–88, title I][/us/pl/104/88/tI], § 103, Dec. 29, 1995, [109 Stat. 872][/us/stat/109/872].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [section 10744 of this title][/us/usc/t49/s10744] prior to the general amendment of this subtitle by [Pub. L. 104–88, § 102(a)][/us/pl/104/88/s102/a].
+    Provisions similar to those in this section were contained in [section 10744 of this title][/us/usc/t49/s10744] prior to the general amendment of this subtitle by [Pub. L. 104–88][/us/pl/104/88], § 102(a).
 
 ----------
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/104/88/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs103
+[/us/pl/104/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtI
 [/us/stat/109/872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F872
 [/us/usc/t49/s10744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs10744
-[/us/pl/104/88/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs102%2Fa
+[/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 
 

@@ -71,17 +71,17 @@
 
         (4) a government entity demonstrates that granting the waiver is necessary to prevent an undue economic burden on that government.
 
-(Added [Pub. L. 106–181, title VII, § 702(b)(1)][/us/pl/106/181/s702/b/1], Apr. 5, 2000, [114 Stat. 155][/us/stat/114/155]; amended [Pub. L. 110–181, div. A, title X, § 1078(b)][/us/pl/110/181/s1078/b], (c), Jan. 28, 2008, [122 Stat. 334][/us/stat/122/334]; [Pub. L. 112–141, div. C, title V, § 35003][/us/pl/112/141/s35003], July 6, 2012, [126 Stat. 843][/us/stat/126/843].)
+(Added [Pub. L. 106–181, title VII][/us/pl/106/181/tVII], § 702(b)(1), Apr. 5, 2000, [114 Stat. 155][/us/stat/114/155]; amended [Pub. L. 110–181, div. A, title X][/us/pl/110/181/dA/tX], § 1078(b), (c), Jan. 28, 2008, [122 Stat. 334][/us/stat/122/334]; [Pub. L. 112–141, div. C, title V][/us/pl/112/141/dC/tV], § 35003, July 6, 2012, [126 Stat. 843][/us/stat/126/843].)
 
  __Amendments__ 
 
     2012—Subsec. (d). [Pub. L. 112–141][/us/pl/112/141] added subsec. (d).
 
-    2008—Subsec. (b). [Pub. L. 110–181, § 1078(c)(1)][/us/pl/110/181/s1078/c/1], substituted “section 40102(a)(41)” for “section 40102(a)(37)”.
+    2008—Subsec. (b). [Pub. L. 110–181][/us/pl/110/181], § 1078(c)(1), substituted “section 40102(a)(41)” for “section 40102(a)(37)”.
 
-    Subsec. (c)(1). [Pub. L. 110–181, § 1078(c)(2)][/us/pl/110/181/s1078/c/2], substituted “section 40102(a)(41)(E)” for “section 40102(a)(37)(E)” in introductory provisions.
+    Subsec. (c)(1). [Pub. L. 110–181][/us/pl/110/181], § 1078(c)(2), substituted “section 40102(a)(41)(E)” for “section 40102(a)(37)(E)” in introductory provisions.
 
-    Subsec. (c)(1)(C). [Pub. L. 110–181, § 1078(b)][/us/pl/110/181/s1078/b], inserted “or other commercial air service” after “transportation”.
+    Subsec. (c)(1)(C). [Pub. L. 110–181][/us/pl/110/181], § 1078(b), inserted “or other commercial air service” after “transportation”.
 
  __Effective Date of 2012 Amendment__ 
 
@@ -103,16 +103,16 @@
 ----------
 
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
-[/us/pl/106/181/s702/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs702%2Fb%2F1
+[/us/pl/106/181/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtVII
 [/us/stat/114/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F155
-[/us/pl/110/181/s1078/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1078%2Fb
+[/us/pl/110/181/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtX
 [/us/stat/122/334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F334
-[/us/pl/112/141/s35003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs35003
+[/us/pl/112/141/dC/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtV
 [/us/stat/126/843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F843
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
-[/us/pl/110/181/s1078/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1078%2Fc%2F1
-[/us/pl/110/181/s1078/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1078%2Fc%2F2
-[/us/pl/110/181/s1078/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1078%2Fb
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101

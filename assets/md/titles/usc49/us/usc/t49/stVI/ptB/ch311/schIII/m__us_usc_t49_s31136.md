@@ -101,7 +101,7 @@
 
     Nothing in subsection (f) or (g) may be construed to limit the contents of an advance notice of proposed rulemaking.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1003][/us/stat/108/1003]; [Pub. L. 104–59, title III, § 344][/us/pl/104/59/s344], Nov. 28, 1995, [109 Stat. 610][/us/stat/109/610]; [Pub. L. 104–287, § 5(60)][/us/pl/104/287/s5/60], Oct. 11, 1996, [110 Stat. 3394][/us/stat/110/3394]; [Pub. L. 105–178, title IV, § 4007(c)][/us/pl/105/178/s4007/c], June 9, 1998, [112 Stat. 403][/us/stat/112/403]; [Pub. L. 109–59, title IV, § 4116(b)][/us/pl/109/59/s4116/b], Aug. 10, 2005, [119 Stat. 1728][/us/stat/119/1728]; [Pub. L. 112–141, div. C, title II, § 32911][/us/pl/112/141/s32911], July 6, 2012, [126 Stat. 818][/us/stat/126/818]; [Pub. L. 114–94, div. A, title V, § 5202][/us/pl/114/94/s5202], Dec. 4, 2015, [129 Stat. 1534][/us/stat/129/1534].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1003][/us/stat/108/1003]; [Pub. L. 104–59, title III][/us/pl/104/59/tIII], § 344, Nov. 28, 1995, [109 Stat. 610][/us/stat/109/610]; [Pub. L. 104–287][/us/pl/104/287], § 5(60), Oct. 11, 1996, [110 Stat. 3394][/us/stat/110/3394]; [Pub. L. 105–178, title IV][/us/pl/105/178/tIV], § 4007(c), June 9, 1998, [112 Stat. 403][/us/stat/112/403]; [Pub. L. 109–59, title IV][/us/pl/109/59/tIV], § 4116(b), Aug. 10, 2005, [119 Stat. 1728][/us/stat/119/1728]; [Pub. L. 112–141, div. C, title II][/us/pl/112/141/dC/tII], § 32911, July 6, 2012, [126 Stat. 818][/us/stat/126/818]; [Pub. L. 114–94, div. A, title V][/us/pl/114/94/dA/tV], § 5202, Dec. 4, 2015, [129 Stat. 1534][/us/stat/129/1534].)
 
 <table>
 
@@ -233,7 +233,7 @@ Oct. 30, 1984, Pub. L. 98–554, § 206(h), 98 Stat. 2835; restated Nov. 18, 1
 
     2015—Subsec. (f). [Pub. L. 114–94][/us/pl/114/94] added subsec. (f) and redesignated and transferred former subsec. (f) of this section to subsec. (g) of [section 31315 of this title][/us/usc/t49/s31315].
 
-    Subsecs. (g), (h). [Pub. L. 114–94, § 5202(2)][/us/pl/114/94/s5202/2], added subsecs. (g) and (h).
+    Subsecs. (g), (h). [Pub. L. 114–94][/us/pl/114/94], § 5202(2), added subsecs. (g) and (h).
 
     2012—Subsec. (a)(5). [Pub. L. 112–141][/us/pl/112/141] added par. (5).
 
@@ -259,7 +259,7 @@ Oct. 30, 1984, Pub. L. 98–554, § 206(h), 98 Stat. 2835; restated Nov. 18, 1
 
  __Windshield Technology__ 
 
-[Pub. L. 114–94, div. A, title V, § 5301][/us/pl/114/94/s5301], Dec. 4, 2015, [129 Stat. 1543][/us/stat/129/1543], provided that:
+[Pub. L. 114–94, div. A, title V][/us/pl/114/94/dA/tV], § 5301, Dec. 4, 2015, [129 Stat. 1543][/us/stat/129/1543], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -275,7 +275,7 @@ Oct. 30, 1984, Pub. L. 98–554, § 206(h), 98 Stat. 2835; restated Nov. 18, 1
 
  __Operators of Hi-Rail Vehicles__ 
 
-[Pub. L. 114–94, div. A, title V, § 5519][/us/pl/114/94/s5519], Dec. 4, 2015, [129 Stat. 1558][/us/stat/129/1558], provided that:
+[Pub. L. 114–94, div. A, title V][/us/pl/114/94/dA/tV], § 5519, Dec. 4, 2015, [129 Stat. 1558][/us/stat/129/1558], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -291,7 +291,7 @@ Oct. 30, 1984, Pub. L. 98–554, § 206(h), 98 Stat. 2835; restated Nov. 18, 1
 
  __Exemptions From Requirements for Certain Welding Trucks Used in Pipeline Industry__ 
 
-[Pub. L. 114–94, div. A, title V, § 5524][/us/pl/114/94/s5524], Dec. 4, 2015, [129 Stat. 1560][/us/stat/129/1560], provided that:
+[Pub. L. 114–94, div. A, title V][/us/pl/114/94/dA/tV], § 5524, Dec. 4, 2015, [129 Stat. 1560][/us/stat/129/1560], provided that:
 
 >     “(a)  __Covered Motor Vehicle Defined__  __.—__ 
 
@@ -367,7 +367,7 @@ Oct. 30, 1984, Pub. L. 98–554, § 206(h), 98 Stat. 2835; restated Nov. 18, 1
 
  __Motorcoach Enhanced Safety__ 
 
-[Pub. L. 112–141, div. C, title II][/us/pl/112/141], subtitle G, July 6, 2012, [126 Stat. 809][/us/stat/126/809], provided that:
+[Pub. L. 112–141, div. C, title II][/us/pl/112/141/dC/tII], subtitle G, July 6, 2012, [126 Stat. 809][/us/stat/126/809], provided that:
 
 > “SEC. 32701. __SHORT TITLE.__ 
 
@@ -649,7 +649,7 @@ Oct. 30, 1984, Pub. L. 98–554, § 206(h), 98 Stat. 2835; restated Nov. 18, 1
 
  __Exemptions From Requirements for Covered Farm Vehicles__ 
 
-[Pub. L. 112–141, div. C, title II, § 32934][/us/pl/112/141/s32934], July 6, 2012, [126 Stat. 830][/us/stat/126/830], as amended by [Pub. L. 114–94, div. A, title V, § 5518][/us/pl/114/94/s5518], Dec. 4, 2015, [129 Stat. 1558][/us/stat/129/1558], provided that:
+[Pub. L. 112–141, div. C, title II][/us/pl/112/141/dC/tII], § 32934, July 6, 2012, [126 Stat. 830][/us/stat/126/830], as amended by [Pub. L. 114–94, div. A, title V][/us/pl/114/94/dA/tV], § 5518, Dec. 4, 2015, [129 Stat. 1558][/us/stat/129/1558], provided that:
 
 >     “(a)  __Federal Requirements__  __.—__ 
 
@@ -787,25 +787,25 @@ Oct. 30, 1984, Pub. L. 98–554, § 206(h), 98 Stat. 2835; restated Nov. 18, 1
 
  __Hours of Service Rules for Operators Providing Transportation to Movie Production Sites__ 
 
-[Pub. L. 109–59, title IV, § 4133][/us/pl/109/59/s4133], Aug. 10, 2005, [119 Stat. 1744][/us/stat/119/1744], provided that: 
+[Pub. L. 109–59, title IV][/us/pl/109/59/tIV], § 4133, Aug. 10, 2005, [119 Stat. 1744][/us/stat/119/1744], provided that: 
 
 > “Notwithstanding sections 31136 and 31502 of title 49, United States Code, and any other provision of law, the maximum daily hours of service for an operator of a commercial motor vehicle providing transportation of property or passengers to or from a theatrical or television motion picture production site located within a 100 air mile radius of the work reporting location of such operator shall be those in effect under the regulations in effect under such sections on April 27, 2003.”
 
  __Interstate Van Operations__ 
 
-[Pub. L. 109–59, title IV, § 4136][/us/pl/109/59/s4136], Aug. 10, 2005, [119 Stat. 1745][/us/stat/119/1745], provided that: 
+[Pub. L. 109–59, title IV][/us/pl/109/59/tIV], § 4136, Aug. 10, 2005, [119 Stat. 1745][/us/stat/119/1745], provided that: 
 
 > “The Federal motor carrier safety regulations that apply to interstate operations of commercial motor vehicles designed to transport between 9 and 15 passengers (including the driver) shall apply to all interstate operations of such carriers regardless of the distance traveled.”
 
  __Authority To Promulgate Safety Standards for Retrofitting__ 
 
-[Pub. L. 106–159, title I, § 101(f)][/us/pl/106/159/s101/f], Dec. 9, 1999, [113 Stat. 1752][/us/stat/113/1752], provided that: 
+[Pub. L. 106–159, title I][/us/pl/106/159/tI], § 101(f), Dec. 9, 1999, [113 Stat. 1752][/us/stat/113/1752], provided that: 
 
 > “The authority under title 49, United States Code, to promulgate safety standards for commercial motor vehicles and equipment subsequent to initial manufacture is vested in the Secretary and may be delegated.”
 
  __Certain Exemptions__ 
 
-[Pub. L. 106–159, title II, § 229][/us/pl/106/159/s229], as added and amended by [Pub. L. 109–59, title IV][/us/pl/109/59], §§ 4115(a), (c), 4130–4132, 4147, Aug. 10, 2005, [119 Stat. 1726][/us/stat/119/1726], 1743, 1744, 1749; [Pub. L. 110–244, title III, § 301(i)][/us/pl/110/244/s301/i], June 6, 2008, [122 Stat. 1616][/us/stat/122/1616]; [Pub. L. 112–141, div. C, title II, § 32101(d)][/us/pl/112/141/s32101/d], July 6, 2012, [126 Stat. 778][/us/stat/126/778]; [Pub. L. 114–94, div. A, title V][/us/pl/114/94], §§ 5508(c), 5522, Dec. 4, 2015, [129 Stat. 1554][/us/stat/129/1554], 1559, provided that:
+[Pub. L. 106–159, title II][/us/pl/106/159/tII], § 229, as added and amended by [Pub. L. 109–59, title IV][/us/pl/109/59/tIV], §§ 4115(a), (c), 4130–4132, 4147, Aug. 10, 2005, [119 Stat. 1726][/us/stat/119/1726], 1743, 1744, 1749; [Pub. L. 110–244, title III][/us/pl/110/244/tIII], § 301(i), June 6, 2008, [122 Stat. 1616][/us/stat/122/1616]; [Pub. L. 112–141, div. C, title II][/us/pl/112/141/dC/tII], § 32101(d), July 6, 2012, [126 Stat. 778][/us/stat/126/778]; [Pub. L. 114–94, div. A, title V][/us/pl/114/94/dA/tV], §§ 5508(c), 5522, Dec. 4, 2015, [129 Stat. 1554][/us/stat/129/1554], 1559, provided that:
 
 >     “(a) __Exemptions.—__ 
 
@@ -907,25 +907,23 @@ Oct. 30, 1984, Pub. L. 98–554, § 206(h), 98 Stat. 2835; restated Nov. 18, 1
 
  __Protection of Existing Exemptions__ 
 
-[Pub. L. 105–178, title IV, § 4007(d)][/us/pl/105/178/s4007/d], June 9, 1998, [112 Stat. 404][/us/stat/112/404], provided that: 
+[Pub. L. 105–178, title IV][/us/pl/105/178/tIV], § 4007(d), June 9, 1998, [112 Stat. 404][/us/stat/112/404], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 31315 of this title][/us/usc/t49/s31315]\] shall not apply to or otherwise affect a waiver, exemption, or pilot program in effect on the day before the date of enactment of this Act \[June 9, 1998\] under chapter 313 or [section 31136(e) of title 49][/us/usc/t49/s31136/e], United States Code.”
 
  __Application of Regulations to Certain Commercial Motor Vehicles__ 
 
-[Pub. L. 105–178, title IV, § 4008(b)][/us/pl/105/178/s4008/b], June 9, 1998, [112 Stat. 404][/us/stat/112/404], provided that: 
+[Pub. L. 105–178, title IV][/us/pl/105/178/tIV], § 4008(b), June 9, 1998, [112 Stat. 404][/us/stat/112/404], provided that: 
 
 > “Effective on the last day of the 1-year period beginning on the date of enactment of this Act \[June 9, 1998\], regulations prescribed under [section 31136 of title 49][/us/usc/t49/s31136], United States Code, shall apply to operators of commercial motor vehicles described in section 31132(1)(B) of such title (as amended by subsection (a)) to the extent that those regulations did not apply to those operators on the day before such effective date, except to the extent that the Secretary determines, through a rulemaking proceeding, that it is appropriate to exempt such operators of commercial motor vehicles from the application of those regulations.”
 
  __Improved Interstate School Bus Safety__ 
 
-[Pub. L. 105–178, title IV, § 4024][/us/pl/105/178/s4024], June 9, 1998, [112 Stat. 416][/us/stat/112/416], as amended by [Pub. L. 107–110, title X, § 1076(ii)][/us/pl/107/110/s1076/ii], Jan. 8, 2002, [115 Stat. 2094][/us/stat/115/2094], provided that: 
-
-> “Not later than 6 months after the date of enactment of this Act \[June 9, 1998\], the Secretary shall initiate a rulemaking proceeding to determine whether or not relevant commercial motor carrier safety regulations issued under [section 31136 of title 49][/us/usc/t49/s31136], United States Code, should apply to all interstate school transportation operations by local educational agencies (as defined in section 9101 of the Elementary and Secondary Education Act of 1965 \[[20 U.S.C. 7801][/us/usc/t20/s7801]\]).”
+    [Pub. L. 105–178, title IV][/us/pl/105/178/tIV], § 4024, June 9, 1998, [112 Stat. 416][/us/stat/112/416], as amended by [Pub. L. 107–110, title X][/us/pl/107/110/tX], § 1076(ii), Jan. 8, 2002, [115 Stat. 2094][/us/stat/115/2094], required the Secretary to initiate a rulemaking, not later than 6 months after June 9, 1998, regarding applicability of commercial motor carrier safety regulations to interstate school transportation operations by local educational agencies.
 
  __Federal Highway Administration Rulemaking__ 
 
-[Pub. L. 104–88, title IV, § 408][/us/pl/104/88/s408], Dec. 29, 1995, [109 Stat. 958][/us/stat/109/958], provided that:
+[Pub. L. 104–88, title IV][/us/pl/104/88/tIV], § 408, Dec. 29, 1995, [109 Stat. 958][/us/stat/109/958], provided that:
 
 >     “(a)  __Advance Notice__  __.—__ 
 
@@ -937,11 +935,11 @@ Oct. 30, 1984, Pub. L. 98–554, § 206(h), 98 Stat. 2835; restated Nov. 18, 1
 
  __Exemptions From Requirements Relating to Commercial Motor Vehicles and Their Operators__ 
 
-    [Pub. L. 104–59, title III, § 345][/us/pl/104/59/s345], Nov. 28, 1995, [109 Stat. 613][/us/stat/109/613], which related to exemption from certain regulatory or statutory requirements for transportation of agricultural commodities and farm supplies, transportation and operation of ground water well drilling rigs, transportation of construction materials and equipment, utility service vehicles, and vehicles operated for snow or ice removal, was repealed by [Pub. L. 109–59, title IV, § 4115(d)][/us/pl/109/59/s4115/d], Aug. 10, 2005, [119 Stat. 1726][/us/stat/119/1726]. The text of former [section 345 of Pub. L. 104–59][/us/pl/104/59/s345] was inserted as part of [section 229 of Pub. L. 106–159][/us/pl/106/159/s229], as added by [section 4115(a) of Pub. L. 109–59][/us/pl/109/59/s4115/a], and is set out above.
+    [Pub. L. 104–59, title III][/us/pl/104/59/tIII], § 345, Nov. 28, 1995, [109 Stat. 613][/us/stat/109/613], which related to exemption from certain regulatory or statutory requirements for transportation of agricultural commodities and farm supplies, transportation and operation of ground water well drilling rigs, transportation of construction materials and equipment, utility service vehicles, and vehicles operated for snow or ice removal, was repealed by [Pub. L. 109–59, title IV][/us/pl/109/59/tIV], § 4115(d), Aug. 10, 2005, [119 Stat. 1726][/us/stat/119/1726]. The text of former [section 345 of Pub. L. 104–59][/us/pl/104/59/s345] was inserted as part of [section 229 of Pub. L. 106–159][/us/pl/106/159/s229], as added by [section 4115(a) of Pub. L. 109–59][/us/pl/109/59/s4115/a], and is set out above.
 
  __Winter Home Heating Oil Delivery State Flexibility Program__ 
 
-[Pub. L. 104–59, title III, § 346][/us/pl/104/59/s346], Nov. 28, 1995, [109 Stat. 615][/us/stat/109/615], as amended by [Pub. L. 105–178, title I, § 1211(j)][/us/pl/105/178/s1211/j], June 9, 1998, [112 Stat. 192][/us/stat/112/192]; [Pub. L. 105–206, title IX, § 9003(d)(3)][/us/pl/105/206/s9003/d/3], July 22, 1998, [112 Stat. 839][/us/stat/112/839], provided that:
+[Pub. L. 104–59, title III][/us/pl/104/59/tIII], § 346, Nov. 28, 1995, [109 Stat. 615][/us/stat/109/615], as amended by [Pub. L. 105–178, title I][/us/pl/105/178/tI], § 1211(j), June 9, 1998, [112 Stat. 192][/us/stat/112/192]; [Pub. L. 105–206, title IX][/us/pl/105/206/tIX], § 9003(d)(3), July 22, 1998, [112 Stat. 839][/us/stat/112/839], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -991,7 +989,7 @@ Oct. 30, 1984, Pub. L. 98–554, § 206(h), 98 Stat. 2835; restated Nov. 18, 1
 
 >     In this section, the term ‘7 or 8 consecutive days’ has the meaning such term has under section 345 of this Act \[set out above\].”
 
-    \[[Pub. L. 114–94, div. A, title V, § 5101(e)(11)][/us/pl/114/94/s5101/e/11], (f), (g), Dec. 4, 2015, [129 Stat. 1526][/us/stat/129/1526], provided that, effective Oct. 1, 2016, [section 346 of Pub. L. 104–59][/us/pl/104/59/s346], set out above, is repealed, subject to a transition provision.\]
+    \[[Pub. L. 114–94, div. A, title V][/us/pl/114/94/dA/tV], § 5101(e)(11), (f), (g), Dec. 4, 2015, [129 Stat. 1526][/us/stat/129/1526], provided that, effective Oct. 1, 2016, [section 346 of Pub. L. 104–59][/us/pl/104/59/s346], set out above, is repealed, subject to a transition provision.\]
 
 ----------
 
@@ -1003,24 +1001,24 @@ Oct. 30, 1984, Pub. L. 98–554, § 206(h), 98 Stat. 2835; restated Nov. 18, 1
 [/us/usc/t49/s30103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30103%2Fa
 [/us/usc/t49/s5103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5103
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1003
-[/us/pl/104/59/s344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2Fs344
+[/us/pl/104/59/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2FtIII
 [/us/stat/109/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F610
-[/us/pl/104/287/s5/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F60
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3394
-[/us/pl/105/178/s4007/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4007%2Fc
+[/us/pl/105/178/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtIV
 [/us/stat/112/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F403
-[/us/pl/109/59/s4116/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4116%2Fb
+[/us/pl/109/59/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIV
 [/us/stat/119/1728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1728
-[/us/pl/112/141/s32911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32911
+[/us/pl/112/141/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtII
 [/us/stat/126/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F818
-[/us/pl/114/94/s5202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5202
+[/us/pl/114/94/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtV
 [/us/stat/129/1534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1534
 [/us/usc/t49/s30103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30103%2Fa
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/usc/t49/s31315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31315
-[/us/pl/114/94/s5202/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5202%2F2
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
@@ -1035,15 +1033,15 @@ Oct. 30, 1984, Pub. L. 98–554, § 206(h), 98 Stat. 2835; restated Nov. 18, 1
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/109/59/s4116/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4116%2Ff
 [/us/usc/t49/s31149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31149
-[/us/pl/114/94/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5301
+[/us/pl/114/94/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtV
 [/us/stat/129/1543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1543
-[/us/pl/114/94/s5519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5519
+[/us/pl/114/94/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtV
 [/us/stat/129/1558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1558
-[/us/pl/114/94/s5524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5524
+[/us/pl/114/94/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtV
 [/us/stat/129/1560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1560
 [/us/pl/113/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F125
 [/us/stat/128/1388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1388
-[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtII
 [/us/stat/126/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F809
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
@@ -1065,59 +1063,57 @@ Oct. 30, 1984, Pub. L. 98–554, § 206(h), 98 Stat. 2835; restated Nov. 18, 1
 [/us/usc/t49/s13501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs13501
 [/us/usc/t49/s31144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31144
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/pl/112/141/s32934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32934
+[/us/pl/112/141/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtII
 [/us/stat/126/830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F830
-[/us/pl/114/94/s5518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5518
+[/us/pl/114/94/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtV
 [/us/stat/129/1558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1558
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
-[/us/pl/109/59/s4133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4133
+[/us/pl/109/59/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIV
 [/us/stat/119/1744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1744
-[/us/pl/109/59/s4136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4136
+[/us/pl/109/59/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIV
 [/us/stat/119/1745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1745
-[/us/pl/106/159/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2Fs101%2Ff
+[/us/pl/106/159/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2FtI
 [/us/stat/113/1752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1752
-[/us/pl/106/159/s229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2Fs229
-[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/106/159/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2FtII
+[/us/pl/109/59/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIV
 [/us/stat/119/1726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1726
-[/us/pl/110/244/s301/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs301%2Fi
+[/us/pl/110/244/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2FtIII
 [/us/stat/122/1616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1616
-[/us/pl/112/141/s32101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32101%2Fd
+[/us/pl/112/141/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtII
 [/us/stat/126/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F778
-[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtV
 [/us/stat/129/1554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1554
 [/us/usc/t49/s5103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5103
 [/us/usc/t7/s1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1471
-[/us/pl/105/178/s4007/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4007%2Fd
+[/us/pl/105/178/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtIV
 [/us/stat/112/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F404
 [/us/usc/t49/s31315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31315
 [/us/usc/t49/s31136/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31136%2Fe
-[/us/pl/105/178/s4008/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4008%2Fb
+[/us/pl/105/178/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtIV
 [/us/stat/112/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F404
 [/us/usc/t49/s31136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31136
-[/us/pl/105/178/s4024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4024
+[/us/pl/105/178/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtIV
 [/us/stat/112/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F416
-[/us/pl/107/110/s1076/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1076%2Fii
+[/us/pl/107/110/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtX
 [/us/stat/115/2094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2094
-[/us/usc/t49/s31136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31136
-[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
-[/us/pl/104/88/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs408
+[/us/pl/104/88/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtIV
 [/us/stat/109/958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F958
-[/us/pl/104/59/s345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2Fs345
+[/us/pl/104/59/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2FtIII
 [/us/stat/109/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F613
-[/us/pl/109/59/s4115/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4115%2Fd
+[/us/pl/109/59/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIV
 [/us/stat/119/1726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1726
 [/us/pl/104/59/s345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2Fs345
 [/us/pl/106/159/s229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2Fs229
 [/us/pl/109/59/s4115/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4115%2Fa
-[/us/pl/104/59/s346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2Fs346
+[/us/pl/104/59/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2FtIII
 [/us/stat/109/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F615
-[/us/pl/105/178/s1211/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1211%2Fj
+[/us/pl/105/178/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtI
 [/us/stat/112/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F192
-[/us/pl/105/206/s9003/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs9003%2Fd%2F3
+[/us/pl/105/206/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIX
 [/us/stat/112/839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F839
 [/us/usc/t49/s31136/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31136%2Fe
-[/us/pl/114/94/s5101/e/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5101%2Fe%2F11
+[/us/pl/114/94/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtV
 [/us/stat/129/1526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1526
 [/us/pl/104/59/s346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2Fs346
 

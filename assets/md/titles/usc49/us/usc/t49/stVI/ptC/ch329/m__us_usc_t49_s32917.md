@@ -37,7 +37,7 @@
 
             (B) the sum of the fractions obtained by dividing the number of automobiles of each model leased or bought by the fuel economy of that model.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1075][/us/stat/108/1075].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1075][/us/stat/108/1075].)
 
 <table>
 
@@ -111,7 +111,7 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, § 510; added Dec. 22, 1975, Pu
 ----------
 
 [/us/usc/t5/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs105
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1075
 
 

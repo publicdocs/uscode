@@ -73,7 +73,7 @@
 
     A person may not fail to keep records, refuse access to or copying of records, fail to make reports or provide information, fail to allow entry or inspection, or fail to permit impoundment, as required under this section.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1052][/us/stat/108/1052]; [Pub. L. 103–429, § 6(35)][/us/pl/103/429/s6/35], Oct. 31, 1994, [108 Stat. 4380][/us/stat/108/4380]; [Pub. L. 105–102, § 2(19)][/us/pl/105/102/s2/19], Nov. 20, 1997, [111 Stat. 2205][/us/stat/111/2205].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1052][/us/stat/108/1052]; [Pub. L. 103–429][/us/pl/103/429], § 6(35), Oct. 31, 1994, [108 Stat. 4380][/us/stat/108/4380]; [Pub. L. 105–102][/us/pl/105/102], § 2(19), Nov. 20, 1997, [111 Stat. 2205][/us/stat/111/2205].)
 
 <table>
 
@@ -270,11 +270,11 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, §§ 414(a)–(c), 416; added J
 
 [/us/usc/t49/s32707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs32707
 [/us/usc/t49/s32707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs32707
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1052
-[/us/pl/103/429/s6/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F35
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/stat/108/4380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4380
-[/us/pl/105/102/s2/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102%2Fs2%2F19
+[/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/stat/111/2205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2205
 [/us/usc/t49/s32707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs32707
 [/us/usc/t49/s32707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs32707

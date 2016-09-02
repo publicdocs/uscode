@@ -75,7 +75,7 @@
 
         The term “transportation” means transportation that would be subject to the jurisdiction of the Interstate Commerce Commission under subchapter II of chapter 105 of this title, as in effect on December 31, 1995, if such subchapter were still in effect.
 
-(Added [Pub. L. 104–88, title I, § 103][/us/pl/104/88/s103], Dec. 29, 1995, [109 Stat. 887][/us/stat/109/887]; amended [Pub. L. 104–287, § 5(35)][/us/pl/104/287/s5/35], Oct. 11, 1996, [110 Stat. 3392][/us/stat/110/3392].)
+(Added [Pub. L. 104–88, title I][/us/pl/104/88/tI], § 103, Dec. 29, 1995, [109 Stat. 887][/us/stat/109/887]; amended [Pub. L. 104–287][/us/pl/104/287], § 5(35), Oct. 11, 1996, [110 Stat. 3392][/us/stat/110/3392].)
 
  __Historical and Revision Notes__ 
 
@@ -85,19 +85,19 @@
 
  __References in Text__ 
 
-    [Section 10102(11) of this title][/us/usc/t49/s10102/11], referred to in subsec. (e)(1), was omitted and a new section 10102 enacted in the general amendment of this subtitle by [Pub. L. 104–88, title I, § 102(a)][/us/pl/104/88/s102/a], Dec. 29, 1995, [109 Stat. 804][/us/stat/109/804], 806, effective Jan. 1, 1996.
+    [Section 10102(11) of this title][/us/usc/t49/s10102/11], referred to in subsec. (e)(1), was omitted and a new section 10102 enacted in the general amendment of this subtitle by [Pub. L. 104–88, title I][/us/pl/104/88/tI], § 102(a), Dec. 29, 1995, [109 Stat. 804][/us/stat/109/804], 806, effective Jan. 1, 1996.
 
-    Subchapter II of chapter 105 of this title, referred to in subsec. (e)(2), was omitted in the general amendment of this subtitle by [Pub. L. 104–88, title I, § 102(a)][/us/pl/104/88/s102/a], Dec. 29, 1995, [109 Stat. 804][/us/stat/109/804], effective Jan. 1, 1996.
+    Subchapter II of chapter 105 of this title, referred to in subsec. (e)(2), was omitted in the general amendment of this subtitle by [Pub. L. 104–88, title I][/us/pl/104/88/tI], § 102(a), Dec. 29, 1995, [109 Stat. 804][/us/stat/109/804], effective Jan. 1, 1996.
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [section 10934 of this title][/us/usc/t49/s10934] prior to the general amendment of this subtitle by [Pub. L. 104–88, § 102(a)][/us/pl/104/88/s102/a].
+    Provisions similar to those in this section were contained in [section 10934 of this title][/us/usc/t49/s10934] prior to the general amendment of this subtitle by [Pub. L. 104–88][/us/pl/104/88], § 102(a).
 
  __Amendments__ 
 
-    1996—Subsec. (e)(1). [Pub. L. 104–287, § 5(35)(A)][/us/pl/104/287/s5/35/A], substituted “December 31, 1995” for “the day before the effective date of this section”.
+    1996—Subsec. (e)(1). [Pub. L. 104–287][/us/pl/104/287], § 5(35)(A), substituted “December 31, 1995” for “the day before the effective date of this section”.
 
-    Subsec. (e)(2). [Pub. L. 104–287, § 5(35)(B)][/us/pl/104/287/s5/35/B], substituted “December 31, 1995” for “the day before such effective date”.
+    Subsec. (e)(2). [Pub. L. 104–287][/us/pl/104/287], § 5(35)(B), substituted “December 31, 1995” for “the day before such effective date”.
 
  __Abolition of Interstate Commerce Commission__ 
 
@@ -112,20 +112,20 @@
 
 [/us/usc/t15/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs12
 [/us/usc/t49/s10102/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs10102%2F11
-[/us/pl/104/88/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs103
+[/us/pl/104/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtI
 [/us/stat/109/887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F887
-[/us/pl/104/287/s5/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F35
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3392
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/usc/t49/s10102/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs10102%2F11
-[/us/pl/104/88/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs102%2Fa
+[/us/pl/104/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtI
 [/us/stat/109/804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F804
-[/us/pl/104/88/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs102%2Fa
+[/us/pl/104/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtI
 [/us/stat/109/804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F804
 [/us/usc/t49/s10934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs10934
-[/us/pl/104/88/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs102%2Fa
-[/us/pl/104/287/s5/35/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F35%2FA
-[/us/pl/104/287/s5/35/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F35%2FB
+[/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/pl/104/88/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs101
 [/us/usc/t49/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1301
 

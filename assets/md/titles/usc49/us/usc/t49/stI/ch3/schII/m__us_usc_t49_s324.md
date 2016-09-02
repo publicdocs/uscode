@@ -29,7 +29,7 @@
 
     (d) The Secretary of a military department does not control the duties and powers of a member of the armed forces appointed, detailed, or assigned under this section when those duties and powers pertain to the Department of Transportation. A member of the armed forces appointed, detailed, or assigned under subsection (a)(2) of this section may not be charged against a statutory limitation on grades or strengths of the armed forces. The appointment, detail, or assignment and service of a member under this section to a position in the Department of Transportation does not affect the status, office, rank, or grade held by that member, or a right or benefit arising from that status, office, rank, or grade.
 
-([Pub. L. 97–449, § 1(b)][/us/pl/97/449/s1/b], Jan. 12, 1983, [96 Stat. 2423][/us/stat/96/2423].)
+([Pub. L. 97–449][/us/pl/97/449], § 1(b), Jan. 12, 1983, [96 Stat. 2423][/us/stat/96/2423].)
 
 <table>
 
@@ -190,7 +190,7 @@ Oct. 15, 1966, Pub. L. 89–670, § 9(p), 80 Stat. 947; Oct. 28, 1974, Pub. L.
 ----------
 ----------
 
-[/us/pl/97/449/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449%2Fs1%2Fb
+[/us/pl/97/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449
 [/us/stat/96/2423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2423
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113

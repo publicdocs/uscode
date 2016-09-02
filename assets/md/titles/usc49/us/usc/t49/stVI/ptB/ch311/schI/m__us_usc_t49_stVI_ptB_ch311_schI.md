@@ -17,9 +17,9 @@
 
  __Amendments__ 
 
-    2005—[Pub. L. 109–59, title IV, § 4110(a)(1)][/us/pl/109/59/s4110/a/1], Aug. 10, 2005, [119 Stat. 1721][/us/stat/119/1721], substituted “GENERAL AUTHORITY AND STATE GRANTS” for “STATE GRANTS AND OTHER COMMERCIAL MOTOR VEHICLE PROGRAMS” in subchapter heading.
+    2005—[Pub. L. 109–59, title IV][/us/pl/109/59/tIV], § 4110(a)(1), Aug. 10, 2005, [119 Stat. 1721][/us/stat/119/1721], substituted “GENERAL AUTHORITY AND STATE GRANTS” for “STATE GRANTS AND OTHER COMMERCIAL MOTOR VEHICLE PROGRAMS” in subchapter heading.
 
-    1998—[Pub. L. 105–178, title IV, § 4004(c)][/us/pl/105/178/s4004/c], June 9, 1998, [112 Stat. 400][/us/stat/112/400], inserted “AND OTHER COMMERCIAL MOTOR VEHICLE PROGRAMS” after “GRANTS” in subchapter heading.
+    1998—[Pub. L. 105–178, title IV][/us/pl/105/178/tIV], § 4004(c), June 9, 1998, [112 Stat. 400][/us/stat/112/400], inserted “AND OTHER COMMERCIAL MOTOR VEHICLE PROGRAMS” after “GRANTS” in subchapter heading.
 
 ----------
 
@@ -28,9 +28,9 @@
 ----------
 ----------
 
-[/us/pl/109/59/s4110/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4110%2Fa%2F1
+[/us/pl/109/59/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIV
 [/us/stat/119/1721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1721
-[/us/pl/105/178/s4004/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4004%2Fc
+[/us/pl/105/178/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtIV
 [/us/stat/112/400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F400
 
 

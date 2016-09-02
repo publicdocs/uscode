@@ -33,7 +33,7 @@
 
     (4) “territory outside the continental United States” means territory outside the 48 contiguous States and the District of Columbia.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1280][/us/stat/108/1280].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1280][/us/stat/108/1280].)
 
 <table>
 
@@ -114,7 +114,7 @@ June 16, 1948, ch. 473, § 2, 62 Stat. 450; Aug. 23, 1958, Pub. L. 85–726, �
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1280
 
 

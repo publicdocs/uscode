@@ -63,7 +63,7 @@
 
     If, after the date of enactment of this subsection, an air carrier commences air transportation to an eligible place that is not receiving scheduled passenger air service as a result of the failure of the eligible place to meet requirements contained in an appropriations Act, the air carrier shall not be subject to the requirements of subsections (b) and (c) with respect to such air transportation.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1146][/us/stat/108/1146]; [Pub. L. 103–305, title II, § 206(c)][/us/pl/103/305/s206/c], Aug. 23, 1994, [108 Stat. 1587][/us/stat/108/1587]; [Pub. L. 103–429, § 6(81)][/us/pl/103/429/s6/81], Oct. 31, 1994, [108 Stat. 4388][/us/stat/108/4388]; [Pub. L. 108–176, title IV, § 401][/us/pl/108/176/s401], Dec. 12, 2003, [117 Stat. 2542][/us/stat/117/2542]; [Pub. L. 112–95, title IV, § 426(b)(1)][/us/pl/112/95/s426/b/1], Feb. 14, 2012, [126 Stat. 98][/us/stat/126/98].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1146][/us/stat/108/1146]; [Pub. L. 103–305, title II][/us/pl/103/305/tII], § 206(c), Aug. 23, 1994, [108 Stat. 1587][/us/stat/108/1587]; [Pub. L. 103–429][/us/pl/103/429], § 6(81), Oct. 31, 1994, [108 Stat. 4388][/us/stat/108/4388]; [Pub. L. 108–176, title IV][/us/pl/108/176/tIV], § 401, Dec. 12, 2003, [117 Stat. 2542][/us/stat/117/2542]; [Pub. L. 112–95, title IV][/us/pl/112/95/tIV], § 426(b)(1), Feb. 14, 2012, [126 Stat. 98][/us/stat/126/98].)
 
 <table>
 
@@ -225,7 +225,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 419(b)(2), (5)–(8); added 
 
  __Effective Date of 2012 Amendment__ 
 
-[Pub. L. 112–95, title IV, § 426(b)(2)][/us/pl/112/95/s426/b/2], Feb. 14, 2012, [126 Stat. 98][/us/stat/126/98], provided that: 
+[Pub. L. 112–95, title IV][/us/pl/112/95/tIV], § 426(b)(2), Feb. 14, 2012, [126 Stat. 98][/us/stat/126/98], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall apply to compensation to air carriers for air service provided after the 30th day following the date of enactment of this Act \[Feb. 14, 2012\].”
 
@@ -252,22 +252,22 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 419(b)(2), (5)–(8); added 
 [/us/usc/t49/s41733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs41733
 [/us/usc/t49/s41733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs41733
 [/us/usc/t49/s41733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs41733
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1146
-[/us/pl/103/305/s206/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2Fs206%2Fc
+[/us/pl/103/305/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2FtII
 [/us/stat/108/1587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1587
-[/us/pl/103/429/s6/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F81
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/stat/108/4388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4388
-[/us/pl/108/176/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs401
+[/us/pl/108/176/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtIV
 [/us/stat/117/2542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2542
-[/us/pl/112/95/s426/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs426%2Fb%2F1
+[/us/pl/112/95/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtIV
 [/us/stat/126/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F98
 [/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
 [/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
 [/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/pl/103/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305
-[/us/pl/112/95/s426/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs426%2Fb%2F2
+[/us/pl/112/95/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtIV
 [/us/stat/126/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F98
 [/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
 [/us/pl/108/176/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs3

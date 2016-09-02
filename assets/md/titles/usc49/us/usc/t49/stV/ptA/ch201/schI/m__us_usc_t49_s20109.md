@@ -169,7 +169,7 @@
 
         The Secretary of Homeland Security shall review and consider the information provided in any report submitted under paragraph (1) and shall take appropriate steps to address any problems or deficiencies identified.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 867][/us/stat/108/867]; [Pub. L. 110–53, title XV, § 1521][/us/pl/110/53/s1521], Aug. 3, 2007, [121 Stat. 444][/us/stat/121/444]; [Pub. L. 110–432, div. A, title IV, § 419][/us/pl/110/432/s419], Oct. 16, 2008, [122 Stat. 4892][/us/stat/122/4892].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 867][/us/stat/108/867]; [Pub. L. 110–53, title XV][/us/pl/110/53/tXV], § 1521, Aug. 3, 2007, [121 Stat. 444][/us/stat/121/444]; [Pub. L. 110–432, div. A, title IV][/us/pl/110/432/dA/tIV], § 419, Oct. 16, 2008, [122 Stat. 4892][/us/stat/122/4892].)
 
 <table>
 
@@ -341,31 +341,31 @@ Oct. 16, 1970, Pub. L. 91–458, 84 Stat. 971, § 212(f); added June 22, 1988,
 
  __Amendments__ 
 
-    2008—Subsec. (c). [Pub. L. 110–432, § 419(a)(2)][/us/pl/110/432/s419/a/2], added subsec. (c). Former subsec. (c) redesignated (d).
+    2008—Subsec. (c). [Pub. L. 110–432][/us/pl/110/432], § 419(a)(2), added subsec. (c). Former subsec. (c) redesignated (d).
 
-    Subsec. (d). [Pub. L. 110–432, § 419(a)(1)][/us/pl/110/432/s419/a/1], redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
+    Subsec. (d). [Pub. L. 110–432][/us/pl/110/432], § 419(a)(1), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-    Subsec. (d)(1). [Pub. L. 110–432, § 419(b)(1)(A)][/us/pl/110/432/s419/b/1/A], substituted “(a), (b), or (c)” for “(a) or (b)”.
+    Subsec. (d)(1). [Pub. L. 110–432][/us/pl/110/432], § 419(b)(1)(A), substituted “(a), (b), or (c)” for “(a) or (b)”.
 
-    Subsec. (d)(2)(A)(i). [Pub. L. 110–432, § 419(b)(1)(B)][/us/pl/110/432/s419/b/1/B], substituted “(d)(1)” for “(c)(1)”.
+    Subsec. (d)(2)(A)(i). [Pub. L. 110–432][/us/pl/110/432], § 419(b)(1)(B), substituted “(d)(1)” for “(c)(1)”.
 
-    Subsec. (d)(2)(A)(ii). [Pub. L. 110–432, § 419(b)(1)(C)][/us/pl/110/432/s419/b/1/C], substituted “(a), (b), or (c)” for “(a) or (b)”.
+    Subsec. (d)(2)(A)(ii). [Pub. L. 110–432][/us/pl/110/432], § 419(b)(1)(C), substituted “(a), (b), or (c)” for “(a) or (b)”.
 
-    Subsec. (e). [Pub. L. 110–432, § 419(a)(1)][/us/pl/110/432/s419/a/1], redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
+    Subsec. (e). [Pub. L. 110–432][/us/pl/110/432], § 419(a)(1), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
-    Subsec. (e)(1). [Pub. L. 110–432, § 419(b)(2)(A)][/us/pl/110/432/s419/b/2/A], substituted “(d)” for “(c)”.
+    Subsec. (e)(1). [Pub. L. 110–432][/us/pl/110/432], § 419(b)(2)(A), substituted “(d)” for “(c)”.
 
-    Subsec. (e)(2). [Pub. L. 110–432, § 419(b)(2)(B)][/us/pl/110/432/s419/b/2/B], (C), substituted “(d)” for “(c)” and “(d)(3)” for “(c)(3)” in introductory provisions.
+    Subsec. (e)(2). [Pub. L. 110–432][/us/pl/110/432], § 419(b)(2)(B), (C), substituted “(d)” for “(c)” and “(d)(3)” for “(c)(3)” in introductory provisions.
 
-    Subsec. (e)(3). [Pub. L. 110–432, § 419(b)(2)(D)][/us/pl/110/432/s419/b/2/D], substituted “(d)” for “(c)”.
+    Subsec. (e)(3). [Pub. L. 110–432][/us/pl/110/432], § 419(b)(2)(D), substituted “(d)” for “(c)”.
 
-    Subsecs. (f) to (j). [Pub. L. 110–432, § 419(a)(1)][/us/pl/110/432/s419/a/1], redesignated subsecs. (e) to (i) as (f) to (j), respectively.
+    Subsecs. (f) to (j). [Pub. L. 110–432][/us/pl/110/432], § 419(a)(1), redesignated subsecs. (e) to (i) as (f) to (j), respectively.
 
     2007—[Pub. L. 110–53][/us/pl/110/53] amended section generally. Prior to amendment, section consisted of subsecs. (a) to (e) relating to prohibition against discharge or discrimination for filing of complaints or testifying, prohibition against discharge or discrimination for refusal to work because of hazardous conditions, dispute resolution, election of remedies, and nondisclosure of identity of employee who had provided information regarding a violation.
 
  __Critical Incident Stress Plan__ 
 
-[Pub. L. 110–432, div. A, title IV, § 410][/us/pl/110/432/s410], Oct. 16, 2008, [122 Stat. 4887][/us/stat/122/4887], provided that:
+[Pub. L. 110–432, div. A, title IV][/us/pl/110/432/dA/tIV], § 410, Oct. 16, 2008, [122 Stat. 4887][/us/stat/122/4887], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -395,26 +395,26 @@ Oct. 16, 1970, Pub. L. 91–458, 84 Stat. 971, § 212(f); added June 22, 1988,
 ----------
 
 [/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F867
-[/us/pl/110/53/s1521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1521
+[/us/pl/110/53/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXV
 [/us/stat/121/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F444
-[/us/pl/110/432/s419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs419
+[/us/pl/110/432/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdA%2FtIV
 [/us/stat/122/4892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4892
 [/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
 [/us/stat/92/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1101
-[/us/pl/110/432/s419/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs419%2Fa%2F2
-[/us/pl/110/432/s419/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs419%2Fa%2F1
-[/us/pl/110/432/s419/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs419%2Fb%2F1%2FA
-[/us/pl/110/432/s419/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs419%2Fb%2F1%2FB
-[/us/pl/110/432/s419/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs419%2Fb%2F1%2FC
-[/us/pl/110/432/s419/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs419%2Fa%2F1
-[/us/pl/110/432/s419/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs419%2Fb%2F2%2FA
-[/us/pl/110/432/s419/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs419%2Fb%2F2%2FB
-[/us/pl/110/432/s419/b/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs419%2Fb%2F2%2FD
-[/us/pl/110/432/s419/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs419%2Fa%2F1
+[/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
+[/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
+[/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
+[/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
+[/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
+[/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
+[/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
+[/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
+[/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
+[/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
 [/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
-[/us/pl/110/432/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs410
+[/us/pl/110/432/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdA%2FtIV
 [/us/stat/122/4887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4887
 [/us/pl/110/432/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs410
 [/us/pl/110/432/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs2%2Fa

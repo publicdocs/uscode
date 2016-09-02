@@ -33,11 +33,11 @@
 
     The Board may begin a proceeding under this section on complaint. A complaint under this section must contain a full statement of the facts and the reasons for the complaint and must be made under oath.
 
-(Added [Pub. L. 104–88, title I, § 106(a)][/us/pl/104/88/s106/a], Dec. 29, 1995, [109 Stat. 924][/us/stat/109/924].)
+(Added [Pub. L. 104–88, title I][/us/pl/104/88/tI], § 106(a), Dec. 29, 1995, [109 Stat. 924][/us/stat/109/924].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [section 10704 of this title][/us/usc/t49/s10704] prior to the general amendment of this subtitle by [Pub. L. 104–88, § 102(a)][/us/pl/104/88/s102/a].
+    Provisions similar to those in this section were contained in [section 10704 of this title][/us/usc/t49/s10704] prior to the general amendment of this subtitle by [Pub. L. 104–88][/us/pl/104/88], § 102(a).
 
 ----------
 
@@ -46,9 +46,9 @@
 ----------
 ----------
 
-[/us/pl/104/88/s106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs106%2Fa
+[/us/pl/104/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtI
 [/us/stat/109/924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F924
 [/us/usc/t49/s10704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs10704
-[/us/pl/104/88/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs102%2Fa
+[/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 
 

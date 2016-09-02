@@ -69,17 +69,17 @@
 
         Each quarterly report shall be posted on the Board’s public website.
 
-(Added [Pub. L. 104–88, title II, § 201(a)][/us/pl/104/88/s201/a], Dec. 29, 1995, [109 Stat. 934][/us/stat/109/934], § 704; renumbered § 1304 and amended [Pub. L. 114–110][/us/pl/114/110], §§ 3(a)(3), 6, Dec. 18, 2015, [129 Stat. 2228][/us/stat/129/2228], 2231.)
+(Added [Pub. L. 104–88, title II][/us/pl/104/88/tII], § 201(a), Dec. 29, 1995, [109 Stat. 934][/us/stat/109/934], § 704; renumbered § 1304 and amended [Pub. L. 114–110][/us/pl/114/110], §§ 3(a)(3), 6, Dec. 18, 2015, [129 Stat. 2228][/us/stat/129/2228], 2231.)
 
  __Amendments__ 
 
-    2015—[Pub. L. 114–110, § 6][/us/pl/114/110/s6], substituted “Reports” for “Annual report” in section catchline, designated existing provisions as subsec. (a) and inserted heading, substituted “on its activities, including each instance in which the Board has initiated an investigation on its own initiative under this chapter or subtitle IV.” for “on its activities.”, and added subsecs. (b) and (c).
+    2015—[Pub. L. 114–110][/us/pl/114/110], § 6, substituted “Reports” for “Annual report” in section catchline, designated existing provisions as subsec. (a) and inserted heading, substituted “on its activities, including each instance in which the Board has initiated an investigation on its own initiative under this chapter or subtitle IV.” for “on its activities.”, and added subsecs. (b) and (c).
 
-    [Pub. L. 114–110, § 3(a)(3)][/us/pl/114/110/s3/a/3], renumbered [section 704 of this title][/us/usc/t49/s704] as this section.
+    [Pub. L. 114–110][/us/pl/114/110], § 3(a)(3), renumbered [section 704 of this title][/us/usc/t49/s704] as this section.
 
  __Quarterly Reports__ 
 
-[Pub. L. 114–110, § 15(b)][/us/pl/114/110/s15/b], Dec. 18, 2015, [129 Stat. 2238][/us/stat/129/2238], provided that: 
+[Pub. L. 114–110][/us/pl/114/110], § 15(b), Dec. 18, 2015, [129 Stat. 2238][/us/stat/129/2238], provided that: 
 
 > “Beginning not later than 60 days after the date of the enactment of this Act \[Dec. 18, 2015\], the Surface Transportation Board shall submit quarterly reports to the congressional committees referred to in section 14(b) \[Committee on Commerce, Science, and Transportation of the Senate and Committee on Transportation and Infrastructure of the House of Representatives\] that describes the Surface Transportation Board’s progress toward addressing the issues raised in each unfinished regulatory proceeding, regardless of whether the proceeding is subject to a statutory or regulatory deadline.”
 
@@ -90,14 +90,14 @@
 ----------
 ----------
 
-[/us/pl/104/88/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs201%2Fa
+[/us/pl/104/88/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtII
 [/us/stat/109/934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F934
 [/us/pl/114/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F110
 [/us/stat/129/2228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2228
-[/us/pl/114/110/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F110%2Fs6
-[/us/pl/114/110/s3/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F110%2Fs3%2Fa%2F3
+[/us/pl/114/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F110
+[/us/pl/114/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F110
 [/us/usc/t49/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs704
-[/us/pl/114/110/s15/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F110%2Fs15%2Fb
+[/us/pl/114/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F110
 [/us/stat/129/2238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2238
 
 

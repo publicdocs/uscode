@@ -39,7 +39,7 @@
 
     Notwithstanding subtitle IV, an action of the Board under this section is final on the date on which it is served, and a civil action to enforce, enjoin, suspend, or set aside the action may be filed after that date.
 
-(Added [Pub. L. 104–88, title II, § 201(a)][/us/pl/104/88/s201/a], Dec. 29, 1995, [109 Stat. 936][/us/stat/109/936], § 722; renumbered § 1322, [Pub. L. 114–110, § 3(a)(5)][/us/pl/114/110/s3/a/5], Dec. 18, 2015, [129 Stat. 2228][/us/stat/129/2228].)
+(Added [Pub. L. 104–88, title II][/us/pl/104/88/tII], § 201(a), Dec. 29, 1995, [109 Stat. 936][/us/stat/109/936], § 722; renumbered § 1322, [Pub. L. 114–110][/us/pl/114/110], § 3(a)(5), Dec. 18, 2015, [129 Stat. 2228][/us/stat/129/2228].)
 
  __Amendments__ 
 
@@ -52,9 +52,9 @@
 ----------
 ----------
 
-[/us/pl/104/88/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs201%2Fa
+[/us/pl/104/88/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtII
 [/us/stat/109/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F936
-[/us/pl/114/110/s3/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F110%2Fs3%2Fa%2F5
+[/us/pl/114/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F110
 [/us/stat/129/2228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2228
 [/us/pl/114/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F110
 [/us/usc/t49/s722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs722

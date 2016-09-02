@@ -17,7 +17,7 @@
 
     The Secretary of Transportation shall take affirmative action to ensure that an individual is not excluded because of race, creed, color, national origin, or sex from participating in an activity carried out with money received under a grant under this subchapter. The Secretary shall prescribe regulations necessary to carry out this section. The regulations shall be similar to those in effect under title VI of the Civil Rights Act of 1964 ([42 U.S.C. 2000d][/us/usc/t42/s2000d] et seq.). This section is in addition to title VI of the Act.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1275][/us/stat/108/1275].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1275][/us/stat/108/1275].)
 
 <table>
 
@@ -79,7 +79,7 @@ Sept. 3, 1982, Pub. L. 97–248, § 520, 96 Stat. 694.  </td>
 ----------
 
 [/us/usc/t42/s2000d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000d
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1275
 [/us/pl/88/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352
 [/us/stat/78/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F241

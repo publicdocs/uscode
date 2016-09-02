@@ -37,7 +37,7 @@
 
         Any sums appropriated under this subsection shall be derived from general revenues and may not be derived from amounts collected under section 60301.
 
-(Added [Pub. L. 105–178, title VII, § 7302(a)][/us/pl/105/178/s7302/a], June 9, 1998, [112 Stat. 480][/us/stat/112/480]; amended [Pub. L. 107–355, § 2(c)(1)][/us/pl/107/355/s2/c/1], Dec. 17, 2002, [116 Stat. 2985][/us/stat/116/2985].)
+(Added [Pub. L. 105–178, title VII][/us/pl/105/178/tVII], § 7302(a), June 9, 1998, [112 Stat. 480][/us/stat/112/480]; amended [Pub. L. 107–355][/us/pl/107/355], § 2(c)(1), Dec. 17, 2002, [116 Stat. 2985][/us/stat/116/2985].)
 
  __Amendments__ 
 
@@ -50,9 +50,9 @@
 ----------
 ----------
 
-[/us/pl/105/178/s7302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs7302%2Fa
+[/us/pl/105/178/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtVII
 [/us/stat/112/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F480
-[/us/pl/107/355/s2/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355%2Fs2%2Fc%2F1
+[/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355
 [/us/stat/116/2985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2985
 [/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355
 

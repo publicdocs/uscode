@@ -75,7 +75,7 @@
 
     The authority granted to the Secretary under this section shall not in any way limit the authority of the Attorney General to enforce the antitrust laws as defined in the first section of the Clayton Act ([15 U.S.C. 12][/us/usc/t15/s12]).
 
-(Added [Pub. L. 105–277, div. C, title I, § 110(f)(1)][/us/pl/105/277/s110/f/1], Oct. 21, 1998, [112 Stat. 2681–588][/us/stat/112/2681-588], § 41716; renumbered § 41720 and amended [Pub. L. 106–181, title II, § 231(b)(1)][/us/pl/106/181/s231/b/1], title VII, § 709, Apr. 5, 2000, [114 Stat. 108][/us/stat/114/108], 159.)
+(Added [Pub. L. 105–277, div. C, title I][/us/pl/105/277/dC/tI], § 110(f)(1), Oct. 21, 1998, [112 Stat. 2681–588][/us/stat/112/2681-588], § 41716; renumbered § 41720 and amended [Pub. L. 106–181, title II][/us/pl/106/181/tII], § 231(b)(1), title VII, § 709, Apr. 5, 2000, [114 Stat. 108][/us/stat/114/108], 159.)
 
  __References in Text__ 
 
@@ -83,13 +83,13 @@
 
  __Codification__ 
 
-    [Pub. L. 105–277, § 110(f)(1)][/us/pl/105/277/s110/f/1], which directed amendment of subchapter I of chapter 417 by adding this section at the end, without specifying a Code title or Act, was executed by adding this section at the end of this subchapter to reflect the probable intent of Congress.
+    [Pub. L. 105–277][/us/pl/105/277], § 110(f)(1), which directed amendment of subchapter I of chapter 417 by adding this section at the end, without specifying a Code title or Act, was executed by adding this section at the end of this subchapter to reflect the probable intent of Congress.
 
  __Amendments__ 
 
-    2000—[Pub. L. 106–181, § 231(b)(1)][/us/pl/106/181/s231/b/1], renumbered [section 41716 of this title][/us/usc/t49/s41716] as this section.
+    2000—[Pub. L. 106–181][/us/pl/106/181], § 231(b)(1), renumbered [section 41716 of this title][/us/usc/t49/s41716] as this section.
 
-    Subsec. (a)(1). [Pub. L. 106–181, § 709][/us/pl/106/181/s709], substituted “an agreement between two or more major air carriers” for “an agreement entered into by a major air carrier”.
+    Subsec. (a)(1). [Pub. L. 106–181][/us/pl/106/181], § 709, substituted “an agreement between two or more major air carriers” for “an agreement entered into by a major air carrier”.
 
  __Effective Date of 2000 Amendment__ 
 
@@ -103,15 +103,15 @@
 ----------
 
 [/us/usc/t15/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs12
-[/us/pl/105/277/s110/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs110%2Ff%2F1
+[/us/pl/105/277/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtI
 [/us/stat/112/2681-588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-588
-[/us/pl/106/181/s231/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs231%2Fb%2F1
+[/us/pl/106/181/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtII
 [/us/stat/114/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F108
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
-[/us/pl/105/277/s110/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs110%2Ff%2F1
-[/us/pl/106/181/s231/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs231%2Fb%2F1
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/usc/t49/s41716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs41716
-[/us/pl/106/181/s709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs709
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/pl/106/181/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106

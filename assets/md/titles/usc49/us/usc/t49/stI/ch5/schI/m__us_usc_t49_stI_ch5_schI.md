@@ -17,9 +17,9 @@
 
  __Amendments__ 
 
-    1997—[Pub. L. 105–102, § 2(2)][/us/pl/105/102/s2/2], Nov. 20, 1997, [111 Stat. 2204][/us/stat/111/2204], struck out “AND” before “POWERS”.
+    1997—[Pub. L. 105–102][/us/pl/105/102], § 2(2), Nov. 20, 1997, [111 Stat. 2204][/us/stat/111/2204], struck out “AND” before “POWERS”.
 
-    1995—[Pub. L. 104–88, title III, § 308(c)(1)][/us/pl/104/88/s308/c/1], Dec. 29, 1995, [109 Stat. 947][/us/stat/109/947], struck out “DUTIES” before “AND”.
+    1995—[Pub. L. 104–88, title III][/us/pl/104/88/tIII], § 308(c)(1), Dec. 29, 1995, [109 Stat. 947][/us/stat/109/947], struck out “DUTIES” before “AND”.
 
 ----------
 
@@ -28,9 +28,9 @@
 ----------
 ----------
 
-[/us/pl/105/102/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102%2Fs2%2F2
+[/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/stat/111/2204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2204
-[/us/pl/104/88/s308/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs308%2Fc%2F1
+[/us/pl/104/88/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtIII
 [/us/stat/109/947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F947
 
 

@@ -17,7 +17,7 @@
 
     To the extent the Secretary of Transportation prescribes by regulation, an air carrier may incorporate by reference in a ticket or written instrument any term of the contract for providing interstate air transportation.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1141][/us/stat/108/1141].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1141][/us/stat/108/1141].)
 
 <table>
 
@@ -72,7 +72,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 411(b); added Oct. 4, 1984, 
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1141
 
 

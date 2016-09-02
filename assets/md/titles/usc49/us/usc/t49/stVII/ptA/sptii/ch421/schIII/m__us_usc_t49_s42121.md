@@ -115,7 +115,7 @@
 
     In this section, the term “contractor” means a company that performs safety-sensitive functions by contract for an air carrier.
 
-(Added [Pub. L. 106–181, title V, § 519(a)][/us/pl/106/181/s519/a], Apr. 5, 2000, [114 Stat. 145][/us/stat/114/145].)
+(Added [Pub. L. 106–181, title V][/us/pl/106/181/tV], § 519(a), Apr. 5, 2000, [114 Stat. 145][/us/stat/114/145].)
 
  __Effective Date__ 
 
@@ -129,7 +129,7 @@
 ----------
 
 [/us/usc/t28/s1361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1361
-[/us/pl/106/181/s519/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs519%2Fa
+[/us/pl/106/181/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtV
 [/us/stat/114/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F145
 [/us/pl/106/181/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106

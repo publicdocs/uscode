@@ -67,15 +67,15 @@
 
     Nothing in this section requires the registration of a motor carrier, a motor private carrier of property, or a transporter of waste or recyclable materials operating exclusively in intrastate transportation not otherwise required to register with the Secretary under another provision of this title.
 
-(Added [Pub. L. 104–88, title I, § 103][/us/pl/104/88/s103], Dec. 29, 1995, [109 Stat. 888][/us/stat/109/888]; amended [Pub. L. 104–287, § 5(36)][/us/pl/104/287/s5/36], Oct. 11, 1996, [110 Stat. 3392][/us/stat/110/3392]; [Pub. L. 109–59, title IV, § 4304][/us/pl/109/59/s4304], Aug. 10, 2005, [119 Stat. 1763][/us/stat/119/1763]; [Pub. L. 110–244, title III, § 301][/us/pl/110/244/s301](l), June 6, 2008, [122 Stat. 1617][/us/stat/122/1617]; [Pub. L. 112–141, div. C, title II, § 32106][/us/pl/112/141/s32106], July 6, 2012, [126 Stat. 781][/us/stat/126/781].)
+(Added [Pub. L. 104–88, title I][/us/pl/104/88/tI], § 103, Dec. 29, 1995, [109 Stat. 888][/us/stat/109/888]; amended [Pub. L. 104–287][/us/pl/104/287], § 5(36), Oct. 11, 1996, [110 Stat. 3392][/us/stat/110/3392]; [Pub. L. 109–59, title IV][/us/pl/109/59/tIV], § 4304, Aug. 10, 2005, [119 Stat. 1763][/us/stat/119/1763]; [Pub. L. 110–244, title III][/us/pl/110/244/tIII], § 301(l), June 6, 2008, [122 Stat. 1617][/us/stat/122/1617]; [Pub. L. 112–141, div. C, title II][/us/pl/112/141/dC/tII], § 32106, July 6, 2012, [126 Stat. 781][/us/stat/126/781].)
 
  __Historical and Revision Notes__ 
 
- __[__  __Pub. L. 104–287, § 5(36)(A)__  __][/us/pl/104/287/s5/36/A]__ 
+ __[__  __Pub. L. 104–287__  __][/us/pl/104/287]__  __, § 5(36)(A)__ 
 
     This amends 49:13908(d)(1) for clarity and consistency.
 
- __[__  __Pub. L. 104–287, § 5(36)(B)__  __][/us/pl/104/287/s5/36/B]__ 
+ __[__  __Pub. L. 104–287__  __][/us/pl/104/287]__  __, § 5(36)(B)__ 
 
     This sets out the effective date of 49:13908.
 
@@ -83,7 +83,7 @@
 
     The date of enactment of the Unified Carrier Registration Act of 2005, referred to in subsec. (a), is the date of enactment of subtitle C of title IV of [Pub. L. 109–59][/us/pl/109/59], which was approved Aug. 10, 2005.
 
-    Section 14504, referred to in subsec. (a)(1), was repealed by [Pub. L. 109–59, title IV, § 4305(a)][/us/pl/109/59/s4305/a], Aug. 10, 2005, [119 Stat. 1764][/us/stat/119/1764]; [Pub. L. 110–53, title XV, § 1537(a)][/us/pl/110/53/s1537/a], Aug. 3, 2007, [121 Stat. 467][/us/stat/121/467], effective Jan. 1, 2008.
+    Section 14504, referred to in subsec. (a)(1), was repealed by [Pub. L. 109–59, title IV][/us/pl/109/59/tIV], § 4305(a), Aug. 10, 2005, [119 Stat. 1764][/us/stat/119/1764]; [Pub. L. 110–53, title XV][/us/pl/110/53/tXV], § 1537(a), Aug. 3, 2007, [121 Stat. 467][/us/stat/121/467], effective Jan. 1, 2008.
 
     The effective date of this section, referred to in subsec. (c), probably means the date of enactment of [Pub. L. 109–59][/us/pl/109/59], which amended this section generally and was approved Aug. 10, 2005.
 
@@ -95,9 +95,9 @@
 
     2005—[Pub. L. 109–59][/us/pl/109/59] amended heading and text of section generally. Prior to amendment, text consisted of subsecs. (a) to (e) relating to issuance of regulations to replace the current Department of Transportation identification number system, the single State registration system under section 14504, the registration system contained in this chapter, and the financial responsibility information system under section 13906 with a single, online, Federal system.
 
-    1996—Subsec. (d)(1). [Pub. L. 104–287, § 5(36)(A)][/us/pl/104/287/s5/36/A], substituted “December 31, 1995” for “the day before the effective date of this section”.
+    1996—Subsec. (d)(1). [Pub. L. 104–287][/us/pl/104/287], § 5(36)(A), substituted “December 31, 1995” for “the day before the effective date of this section”.
 
-    Subsec. (e). [Pub. L. 104–287, § 5(36)(B)][/us/pl/104/287/s5/36/B], substituted “January 1, 1996” for “the effective date of this section”.
+    Subsec. (e). [Pub. L. 104–287][/us/pl/104/287], § 5(36)(B), substituted “January 1, 1996” for “the effective date of this section”.
 
  __Effective Date of 2012 Amendment__ 
 
@@ -105,7 +105,7 @@
 
  __Regulations__ 
 
-[Pub. L. 110–53, title XV, § 1537(b)][/us/pl/110/53/s1537/b], Aug. 3, 2007, [121 Stat. 467][/us/stat/121/467], provided that: 
+[Pub. L. 110–53, title XV][/us/pl/110/53/tXV], § 1537(b), Aug. 3, 2007, [121 Stat. 467][/us/stat/121/467], provided that: 
 
 > “Not later than October 1, 2007, the Federal Motor Carrier Safety Administration shall issue final regulations to establish the Unified Carrier Registration System, as required by [section 13908 of title 49][/us/usc/t49/s13908], United States Code, and set fees for the unified carrier registration agreement for calendar year 2007 or subsequent calendar years to be charged to motor carriers, motor private carriers, and freight forwarders under such agreement, as required by 14504a of title 49, United States Code.”
 
@@ -125,33 +125,33 @@
 ----------
 
 [/us/usc/t31/s9701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9701
-[/us/pl/104/88/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs103
+[/us/pl/104/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtI
 [/us/stat/109/888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F888
-[/us/pl/104/287/s5/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F36
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3392
-[/us/pl/109/59/s4304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4304
+[/us/pl/109/59/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIV
 [/us/stat/119/1763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1763
-[/us/pl/110/244/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs301
+[/us/pl/110/244/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2FtIII
 [/us/stat/122/1617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1617
-[/us/pl/112/141/s32106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32106
+[/us/pl/112/141/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtII
 [/us/stat/126/781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F781
-[/us/pl/104/287/s5/36/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F36%2FA
-[/us/pl/104/287/s5/36/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F36%2FB
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
-[/us/pl/109/59/s4305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4305%2Fa
+[/us/pl/109/59/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIV
 [/us/stat/119/1764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1764
-[/us/pl/110/53/s1537/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1537%2Fa
+[/us/pl/110/53/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXV
 [/us/stat/121/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F467
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
-[/us/pl/104/287/s5/36/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F36%2FA
-[/us/pl/104/287/s5/36/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F36%2FB
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
-[/us/pl/110/53/s1537/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1537%2Fb
+[/us/pl/110/53/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXV
 [/us/stat/121/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F467
 [/us/usc/t49/s13908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs13908
 [/us/pl/111/314/s4/d/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314%2Fs4%2Fd%2F8

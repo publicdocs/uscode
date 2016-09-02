@@ -53,7 +53,7 @@
 
         If the operator of a leased vehicle transporting a container or trailer subject to this chapter is fined because of a violation of a State’s gross vehicle weight laws or regulations and the lessee motor carrier cannot establish that it tendered to the operator the notice required by paragraph (1) of this subsection, then the operator shall be entitled to reimbursement from the motor carrier in the amount of any fine and court costs resulting from the failure of the motor carrier to tender the notice to the operator.
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 860][/us/stat/108/860]; [Pub. L. 104–291, title II, § 205][/us/pl/104/291/s205], Oct. 11, 1996, [110 Stat. 3456][/us/stat/110/3456].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(d), July 5, 1994, [108 Stat. 860][/us/stat/108/860]; [Pub. L. 104–291, title II][/us/pl/104/291/tII], § 205, Oct. 11, 1996, [110 Stat. 3456][/us/stat/110/3456].)
 
 <table>
 
@@ -135,15 +135,15 @@ Source (Statutes at Large)  </td>
 
  __Amendments__ 
 
-    1996—Subsec. (a). [Pub. L. 104–291, § 205(1)][/us/pl/104/291/s205/1], inserted “, To whom section 5902(b) applies,” after “person”.
+    1996—Subsec. (a). [Pub. L. 104–291][/us/pl/104/291], § 205(1), inserted “, To whom section 5902(b) applies,” after “person”.
 
-    Subsec. (b). [Pub. L. 104–291, § 205(2)][/us/pl/104/291/s205/2], added subsec. (b) and struck out former subsec. (b) which read as follows:
+    Subsec. (b). [Pub. L. 104–291][/us/pl/104/291], § 205(2), added subsec. (b) and struck out former subsec. (b) which read as follows:
 
     “(b) Transporting Prior To Receiving Certification.—A motor carrier may not transport a loaded container or trailer to which [section 5902(b) of this title][/us/usc/t49/s5902/b] applies before receiving the certification required by section 5902(b).”
 
-    Subsec. (c). [Pub. L. 104–291, § 205(3)][/us/pl/104/291/s205/3], substituted “29,000 pounds” for “10,000 pounds (including packing materials and pallets)”.
+    Subsec. (c). [Pub. L. 104–291][/us/pl/104/291], § 205(3), substituted “29,000 pounds” for “10,000 pounds (including packing materials and pallets)”.
 
-    Subsec. (d). [Pub. L. 104–291, § 205(4)][/us/pl/104/291/s205/4], added subsec. (d).
+    Subsec. (d). [Pub. L. 104–291][/us/pl/104/291], § 205(4), added subsec. (d).
 
 ----------
 
@@ -154,15 +154,15 @@ Source (Statutes at Large)  </td>
 
 [/us/usc/t49/s5902/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5902%2Fb
 [/us/usc/t49/s5902/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5902%2Fb
-[/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F860
-[/us/pl/104/291/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F291%2Fs205
+[/us/pl/104/291/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F291%2FtII
 [/us/stat/110/3456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3456
 [/us/usc/t49/s10102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs10102
-[/us/pl/104/291/s205/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F291%2Fs205%2F1
-[/us/pl/104/291/s205/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F291%2Fs205%2F2
+[/us/pl/104/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F291
+[/us/pl/104/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F291
 [/us/usc/t49/s5902/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5902%2Fb
-[/us/pl/104/291/s205/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F291%2Fs205%2F3
-[/us/pl/104/291/s205/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F291%2Fs205%2F4
+[/us/pl/104/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F291
+[/us/pl/104/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F291
 
 

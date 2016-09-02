@@ -97,7 +97,7 @@
 
     In this section, the term “subsidy cap” means the subsidy-per-passenger cap established by section 332 of the Department of Transportation and Related Agencies Appropriations Act, 2000 ([Public Law 106–69][/us/pl/106/69]; [113 Stat. 1022][/us/stat/113/1022]).
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1145][/us/stat/108/1145]; [Pub. L. 106–181, title II, § 209(b)][/us/pl/106/181/s209/b], Apr. 5, 2000, [114 Stat. 95][/us/stat/114/95]; [Pub. L. 112–95, title IV][/us/pl/112/95], §§ 423–425, Feb. 14, 2012, [126 Stat. 97][/us/stat/126/97], 98.)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1145][/us/stat/108/1145]; [Pub. L. 106–181, title II][/us/pl/106/181/tII], § 209(b), Apr. 5, 2000, [114 Stat. 95][/us/stat/114/95]; [Pub. L. 112–95, title IV][/us/pl/112/95/tIV], §§ 423–425, Feb. 14, 2012, [126 Stat. 97][/us/stat/126/97], 98.)
 
 <table>
 
@@ -233,11 +233,11 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 419(b)(1), (3), (4), (9); ad
 
  __Amendments__ 
 
-    2012—Subsec. (c)(1)(E), (F). [Pub. L. 112–95, § 423][/us/pl/112/95/s423], added subpar. (E) and redesignated former subpar. (E) as (F).
+    2012—Subsec. (c)(1)(E), (F). [Pub. L. 112–95][/us/pl/112/95], § 423, added subpar. (E) and redesignated former subpar. (E) as (F).
 
-    Subsec. (f). [Pub. L. 112–95, § 424][/us/pl/112/95/s424], added subsec. (f).
+    Subsec. (f). [Pub. L. 112–95][/us/pl/112/95], § 424, added subsec. (f).
 
-    Subsecs. (g), (h). [Pub. L. 112–95, § 425][/us/pl/112/95/s425], added subsecs. (g) and (h).
+    Subsecs. (g), (h). [Pub. L. 112–95][/us/pl/112/95], § 425, added subsecs. (g) and (h).
 
     2000—Subsec. (e). [Pub. L. 106–181][/us/pl/106/181] inserted before period at end “, to the extent such adjustments are to a level not less than the basic essential air service level established under subsection (a) for the airport that serves the community”.
 
@@ -247,7 +247,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 419(b)(1), (3), (4), (9); ad
 
  __Effect on Certain Orders__ 
 
-[Pub. L. 106–181, title II, § 209(c)][/us/pl/106/181/s209/c], Apr. 5, 2000, [114 Stat. 95][/us/stat/114/95], provided that: 
+[Pub. L. 106–181, title II][/us/pl/106/181/tII], § 209(c), Apr. 5, 2000, [114 Stat. 95][/us/stat/114/95], provided that: 
 
 > “All orders issued by the Secretary \[of Transportation\] after September 30, 1999, and before the date of the enactment of this Act \[Apr. 5, 2000\] establishing, modifying, or revoking essential air service levels shall be null and void beginning on the 90th day following such date of enactment. During the 90-day period, the Secretary shall reconsider such orders and shall issue new orders consistent with the amendments made by this section \[amending this section and [section 41742 of this title][/us/usc/t49/s41742]\].”
 
@@ -262,11 +262,11 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 419(b)(1), (3), (4), (9); ad
 [/us/usc/t49/s41734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs41734
 [/us/pl/106/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F69
 [/us/stat/113/1022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1022
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1145
-[/us/pl/106/181/s209/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs209%2Fb
+[/us/pl/106/181/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtII
 [/us/stat/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F95
-[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtIV
 [/us/stat/126/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F97
 [/us/pl/85/726/s419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F726%2Fs419
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
@@ -274,14 +274,14 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 419(b)(1), (3), (4), (9); ad
 [/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
 [/us/pl/106/69/s332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F69%2Fs332
 [/us/usc/t49/s41731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs41731
-[/us/pl/112/95/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs423
-[/us/pl/112/95/s424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs424
-[/us/pl/112/95/s425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs425
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
 [/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/pl/106/181/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106
-[/us/pl/106/181/s209/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs209%2Fc
+[/us/pl/106/181/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtII
 [/us/stat/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F95
 [/us/usc/t49/s41742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs41742
 

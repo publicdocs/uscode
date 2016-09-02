@@ -97,7 +97,7 @@
 
         (3) a detailed plan for employing the controllers, including projected budget requests.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1178][/us/stat/108/1178]; [Pub. L. 104–287, § 5(9)][/us/pl/104/287/s5/9], Oct. 11, 1996, [110 Stat. 3389][/us/stat/110/3389]; [Pub. L. 112–95, title VI, § 607][/us/pl/112/95/s607], Feb. 14, 2012, [126 Stat. 114][/us/stat/126/114].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1178][/us/stat/108/1178]; [Pub. L. 104–287][/us/pl/104/287], § 5(9), Oct. 11, 1996, [110 Stat. 3389][/us/stat/110/3389]; [Pub. L. 112–95, title VI][/us/pl/112/95/tVI], § 607, Feb. 14, 2012, [126 Stat. 114][/us/stat/126/114].)
 
 <table>
 
@@ -193,7 +193,7 @@ Oct. 31, 1992, Pub. L. 102–581, § 120, 106 Stat. 4884.  </td>
 
  __Air Traffic Controller Staffing Initiatives and Analysis__ 
 
-[Pub. L. 112–95, title II, § 224][/us/pl/112/95/s224], Feb. 14, 2012, [126 Stat. 55][/us/stat/126/55], provided that: 
+[Pub. L. 112–95, title II][/us/pl/112/95/tII], § 224, Feb. 14, 2012, [126 Stat. 55][/us/stat/126/55], provided that: 
 
 > “As soon as practicable, and not later than 1 year after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator of the Federal Aviation Administration shall—
 
@@ -211,7 +211,7 @@ Oct. 31, 1992, Pub. L. 102–581, § 120, 106 Stat. 4884.  </td>
 
  __Facility Training Program__ 
 
-[Pub. L. 112–95, title VI, § 609(b)][/us/pl/112/95/s609/b], Feb. 14, 2012, [126 Stat. 116][/us/stat/126/116], provided that: 
+[Pub. L. 112–95, title VI][/us/pl/112/95/tVI], § 609(b), Feb. 14, 2012, [126 Stat. 116][/us/stat/126/116], provided that: 
 
 > “Not later than 1 year after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator \[of the Federal Aviation Administration\] shall conduct a comprehensive review and evaluation of its Academy and facility training efforts. The Administrator shall—
 
@@ -235,25 +235,25 @@ Oct. 31, 1992, Pub. L. 102–581, § 120, 106 Stat. 4884.  </td>
 
  __Controller Staffing__ 
 
-[Pub. L. 114–113, div. L, title I][/us/pl/114/113], Dec. 18, 2015, [129 Stat. 2839][/us/stat/129/2839], provided in part: 
+[Pub. L. 114–113, div. L, title I][/us/pl/114/113/dL/tI], Dec. 18, 2015, [129 Stat. 2839][/us/stat/129/2839], provided in part: 
 
 > “That not later than March 31 of each fiscal year hereafter, the Administrator of the Federal Aviation Administration shall transmit to Congress an annual update to the report submitted to Congress in December 2004 pursuant to [section 221 of Public Law 108–176][/us/pl/108/176/s221] \[set out below\]”.
 
 Similar provisions were contained in the following prior appropriation acts:
 
-    [Pub. L. 113–235, div. K, title I][/us/pl/113/235], Dec. 16, 2014, [128 Stat. 2700][/us/stat/128/2700].
+    [Pub. L. 113–235, div. K, title I][/us/pl/113/235/dK/tI], Dec. 16, 2014, [128 Stat. 2700][/us/stat/128/2700].
 
-    [Pub. L. 113–76, div. L, title I][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 578][/us/stat/128/578].
+    [Pub. L. 113–76, div. L, title I][/us/pl/113/76/dL/tI], Jan. 17, 2014, [128 Stat. 578][/us/stat/128/578].
 
-    [Pub. L. 112–55, div. C, title I][/us/pl/112/55], Nov. 18, 2011, [125 Stat. 645][/us/stat/125/645].
+    [Pub. L. 112–55, div. C, title I][/us/pl/112/55/dC/tI], Nov. 18, 2011, [125 Stat. 645][/us/stat/125/645].
 
-    [Pub. L. 111–117, div. A, title I][/us/pl/111/117], Dec. 16, 2009, [123 Stat. 3039][/us/stat/123/3039].
+    [Pub. L. 111–117, div. A, title I][/us/pl/111/117/dA/tI], Dec. 16, 2009, [123 Stat. 3039][/us/stat/123/3039].
 
-    [Pub. L. 111–8, div. I, title I][/us/pl/111/8], Mar. 11, 2009, [123 Stat. 918][/us/stat/123/918].
+    [Pub. L. 111–8, div. I, title I][/us/pl/111/8/dI/tI], Mar. 11, 2009, [123 Stat. 918][/us/stat/123/918].
 
-    [Pub. L. 110–161, div. K, title I][/us/pl/110/161], Dec. 26, 2007, [121 Stat. 2378][/us/stat/121/2378].
+    [Pub. L. 110–161, div. K, title I][/us/pl/110/161/dK/tI], Dec. 26, 2007, [121 Stat. 2378][/us/stat/121/2378].
 
-[Pub. L. 108–176, title II, § 221][/us/pl/108/176/s221], Dec. 12, 2003, [117 Stat. 2526][/us/stat/117/2526], provided that:
+[Pub. L. 108–176, title II][/us/pl/108/176/tII], § 221, Dec. 12, 2003, [117 Stat. 2526][/us/stat/117/2526], provided that:
 
 >     “(a)  __Annual Report__  __.—__ 
 
@@ -285,11 +285,11 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/usc/t5/s7511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7511
 [/us/usc/t5/s2102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2102
 [/us/usc/t31/s3302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3302
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1178
-[/us/pl/104/287/s5/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F9
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3389
-[/us/pl/112/95/s607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs607
+[/us/pl/112/95/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtVI
 [/us/stat/126/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F114
 [/us/pl/100/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F581
 [/us/stat/102/3015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3015
@@ -298,27 +298,27 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
 [/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
-[/us/pl/112/95/s224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs224
+[/us/pl/112/95/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtII
 [/us/stat/126/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F55
 [/us/usc/t5/s7111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7111
-[/us/pl/112/95/s609/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs609%2Fb
+[/us/pl/112/95/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtVI
 [/us/stat/126/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F116
-[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113/dL/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdL%2FtI
 [/us/stat/129/2839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2839
 [/us/pl/108/176/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs221
-[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235/dK/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdK%2FtI
 [/us/stat/128/2700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2700
-[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
+[/us/pl/113/76/dL/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdL%2FtI
 [/us/stat/128/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F578
-[/us/pl/112/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55
+[/us/pl/112/55/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55%2FdC%2FtI
 [/us/stat/125/645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F645
-[/us/pl/111/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117
+[/us/pl/111/117/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2FdA%2FtI
 [/us/stat/123/3039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3039
-[/us/pl/111/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8
+[/us/pl/111/8/dI/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2FdI%2FtI
 [/us/stat/123/918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F918
-[/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
+[/us/pl/110/161/dK/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdK%2FtI
 [/us/stat/121/2378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2378
-[/us/pl/108/176/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs221
+[/us/pl/108/176/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtII
 [/us/stat/117/2526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2526
 
 

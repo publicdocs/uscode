@@ -131,7 +131,7 @@
 
         The term “excessive tarmac delay” means a tarmac delay that lasts for a length of time, as determined by the Secretary.
 
-(Added [Pub. L. 112–95, title IV, § 415(a)][/us/pl/112/95/s415/a], Feb. 14, 2012, [126 Stat. 93][/us/stat/126/93].)
+(Added [Pub. L. 112–95, title IV][/us/pl/112/95/tIV], § 415(a), Feb. 14, 2012, [126 Stat. 93][/us/stat/126/93].)
 
  __References in Text__ 
 
@@ -139,7 +139,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 112–95, title IV, § 415(c)][/us/pl/112/95/s415/c], Feb. 14, 2012, [126 Stat. 96][/us/stat/126/96], provided that: 
+[Pub. L. 112–95, title IV][/us/pl/112/95/tIV], § 415(c), Feb. 14, 2012, [126 Stat. 96][/us/stat/126/96], provided that: 
 
 > “Except as otherwise provided, the requirements of chapter 423 of title 49, United States Code, as added by this section, shall begin to apply 60 days after the date of enactment of this Act \[Feb. 14, 2012\].”
 
@@ -150,10 +150,10 @@
 ----------
 ----------
 
-[/us/pl/112/95/s415/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs415%2Fa
+[/us/pl/112/95/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtIV
 [/us/stat/126/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F93
 [/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
-[/us/pl/112/95/s415/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs415%2Fc
+[/us/pl/112/95/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtIV
 [/us/stat/126/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F96
 
 

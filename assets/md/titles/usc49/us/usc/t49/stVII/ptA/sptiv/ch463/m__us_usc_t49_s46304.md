@@ -37,7 +37,7 @@
 
         (5) a bond (in an amount and with a surety the Secretary or Administrator prescribes), conditioned on payment of the penalty or compromise, is deposited with the Secretary or Administrator.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1235][/us/stat/108/1235]; [Pub. L. 108–176, title V, § 503(d)(2)][/us/pl/108/176/s503/d/2], Dec. 12, 2003, [117 Stat. 2559][/us/stat/117/2559].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1235][/us/stat/108/1235]; [Pub. L. 108–176, title V][/us/pl/108/176/tV], § 503(d)(2), Dec. 12, 2003, [117 Stat. 2559][/us/stat/117/2559].)
 
 <table>
 
@@ -196,9 +196,9 @@ Oct. 15, 1966, Pub. L. 89–670, § 6(c)(1), 80 Stat. 938; Jan. 12, 1983, Pub.
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1235
-[/us/pl/108/176/s503/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs503%2Fd%2F2
+[/us/pl/108/176/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtV
 [/us/stat/117/2559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2559
 [/us/pl/85/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F726
 [/us/stat/72/786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F786

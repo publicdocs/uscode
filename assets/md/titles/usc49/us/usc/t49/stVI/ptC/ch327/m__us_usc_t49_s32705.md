@@ -139,7 +139,7 @@
 
         (3) Paragraph (2) ceases to be effective on the date the regulations under paragraph (1) become effective.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1049][/us/stat/108/1049]; [Pub. L. 103–429, § 6(34)][/us/pl/103/429/s6/34], Oct. 31, 1994, [108 Stat. 4380][/us/stat/108/4380]; [Pub. L. 104–287, § 5(62)][/us/pl/104/287/s5/62], Oct. 11, 1996, [110 Stat. 3394][/us/stat/110/3394]; [Pub. L. 105–178, title VII, § 7105][/us/pl/105/178/s7105], June 9, 1998, [112 Stat. 467][/us/stat/112/467]; [Pub. L. 112–141, div. C, title I, § 31205(b)][/us/pl/112/141/s31205/b], July 6, 2012, [126 Stat. 761][/us/stat/126/761]; [Pub. L. 114–94, div. B, title XXIV, § 24111][/us/pl/114/94/s24111], Dec. 4, 2015, [129 Stat. 1709][/us/stat/129/1709].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1049][/us/stat/108/1049]; [Pub. L. 103–429][/us/pl/103/429], § 6(34), Oct. 31, 1994, [108 Stat. 4380][/us/stat/108/4380]; [Pub. L. 104–287][/us/pl/104/287], § 5(62), Oct. 11, 1996, [110 Stat. 3394][/us/stat/110/3394]; [Pub. L. 105–178, title VII][/us/pl/105/178/tVII], § 7105, June 9, 1998, [112 Stat. 467][/us/stat/112/467]; [Pub. L. 112–141, div. C, title I][/us/pl/112/141/dC/tI], § 31205(b), July 6, 2012, [126 Stat. 761][/us/stat/126/761]; [Pub. L. 114–94, div. B, title XXIV][/us/pl/114/94/dB/tXXIV], § 24111, Dec. 4, 2015, [129 Stat. 1709][/us/stat/129/1709].)
 
 <table>
 
@@ -381,7 +381,7 @@ Oct. 28, 1986, Pub. L. 99–579, § 2(c), 100 Stat. 3310.  </td>
 
     1998—Subsec. (a)(4), (5). [Pub. L. 105–178][/us/pl/105/178] added pars. (4) and (5).
 
-    1996—Subsec. (a). [Pub. L. 104–287, § 5(62)(A)][/us/pl/104/287/s5/62/A], substituted “Disclosure requirements” for “Written disclosure requirements” in heading and amended text generally. Prior to amendment, text read as follows:
+    1996—Subsec. (a). [Pub. L. 104–287][/us/pl/104/287], § 5(62)(A), substituted “Disclosure requirements” for “Written disclosure requirements” in heading and amended text generally. Prior to amendment, text read as follows:
 
     “(1) Under regulations prescribed by the Secretary of Transportation, a person transferring ownership of a motor vehicle shall give the transferee a written disclosure—
 
@@ -395,7 +395,7 @@ Oct. 28, 1986, Pub. L. 99–579, § 2(c), 100 Stat. 3310.  </td>
 
     “(4) The regulations prescribed by the Secretary shall provide the way in which information is disclosed and retained under this section.”
 
-    Subsec. (b)(3)(A). [Pub. L. 104–287, § 5(62)(B)][/us/pl/104/287/s5/62/B], substituted “may not be licensed for use in a State unless” for “may be licensed for use in a State only if” in introductory provisions.
+    Subsec. (b)(3)(A). [Pub. L. 104–287][/us/pl/104/287], § 5(62)(B), substituted “may not be licensed for use in a State unless” for “may be licensed for use in a State only if” in introductory provisions.
 
     1994—Subsec. (c)(2)(A). [Pub. L. 103–429][/us/pl/103/429] amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the mileage disclosure requirements of subsection (a) of this section; and”.
 
@@ -413,7 +413,7 @@ Oct. 28, 1986, Pub. L. 99–579, § 2(c), 100 Stat. 3310.  </td>
 
  __Regulations__ 
 
-[Pub. L. 103–272, § 4(q)][/us/pl/103/272/s4/q], July 5, 1994, [108 Stat. 1371][/us/stat/108/1371], provided that: 
+[Pub. L. 103–272][/us/pl/103/272], § 4(q), July 5, 1994, [108 Stat. 1371][/us/stat/108/1371], provided that: 
 
 > “The revision of regulations, referred to in [section 32705(b)(2)(A) of title 49][/us/usc/t49/s32705/b/2/A], United States Code, as enacted by section 1 of this Act, that is required by section 7 of the Independent Safety Board Act Amendments of 1990 ([Public Law 101–641][/us/pl/101/641], [104 Stat. 4657][/us/stat/104/4657]) \[former [15 U.S.C. 1988(d)(1)(C)][/us/usc/t15/s1988/d/1/C], 1988 note\] shall be prescribed not later than May 28, 1991.”
 
@@ -426,17 +426,17 @@ Oct. 28, 1986, Pub. L. 99–579, § 2(c), 100 Stat. 3310.  </td>
 
 [/us/usc/t49/s32701/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs32701%2Fb
 [/us/usc/t15/s7002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7002%2Fa
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1049
-[/us/pl/103/429/s6/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F34
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/stat/108/4380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4380
-[/us/pl/104/287/s5/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F62
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3394
-[/us/pl/105/178/s7105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs7105
+[/us/pl/105/178/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtVII
 [/us/stat/112/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F467
-[/us/pl/112/141/s31205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31205%2Fb
+[/us/pl/112/141/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtI
 [/us/stat/126/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F761
-[/us/pl/114/94/s24111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24111
+[/us/pl/114/94/dB/tXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdB%2FtXXIV
 [/us/stat/129/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1709
 [/us/pl/101/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F641
 [/us/stat/104/4657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4657
@@ -458,8 +458,8 @@ Oct. 28, 1986, Pub. L. 99–579, § 2(c), 100 Stat. 3310.  </td>
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
-[/us/pl/104/287/s5/62/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F62%2FA
-[/us/pl/104/287/s5/62/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F62%2FB
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
@@ -470,7 +470,7 @@ Oct. 28, 1986, Pub. L. 99–579, § 2(c), 100 Stat. 3310.  </td>
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/pl/103/429/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs9
 [/us/usc/t49/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs321
-[/us/pl/103/272/s4/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs4%2Fq
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1371
 [/us/usc/t49/s32705/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs32705%2Fb%2F2%2FA
 [/us/pl/101/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F641

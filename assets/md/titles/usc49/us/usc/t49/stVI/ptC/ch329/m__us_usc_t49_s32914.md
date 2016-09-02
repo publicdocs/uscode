@@ -23,7 +23,7 @@
 
     A claim of a creditor against a bankrupt or insolvent manufacturer of automobiles has priority over a claim of the United States Government against the manufacturer for a civil penalty under [section 32912(b) of this title][/us/usc/t49/s32912/b] when the creditor’s claim is for credit extended before a final judgment (without regard to section 32913(b)(1) and (2) of this title) in an action to collect under subsection (a) of this section.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1074][/us/stat/108/1074].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1074][/us/stat/108/1074].)
 
 <table>
 
@@ -97,7 +97,7 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, § 508(b)(3) (last sentence), (
 ----------
 
 [/us/usc/t49/s32912/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs32912%2Fb
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1074
 
 

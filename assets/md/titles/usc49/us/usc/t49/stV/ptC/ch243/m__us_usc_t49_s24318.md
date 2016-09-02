@@ -27,13 +27,13 @@
 
     Notwithstanding section 24102, for purposes of this section, the term “Northeast Corridor” means the Northeast Corridor main line between Boston, Massachusetts, and the District of Columbia, and facilities and services used to operate and maintain that line.
 
-(Added [Pub. L. 114–94, div. A, title XI, § 11202(a)][/us/pl/114/94/s11202/a], Dec. 4, 2015, [129 Stat. 1628][/us/stat/129/1628].)
+(Added [Pub. L. 114–94, div. A, title XI][/us/pl/114/94/dA/tXI], § 11202(a), Dec. 4, 2015, [129 Stat. 1628][/us/stat/129/1628].)
 
  __References in Text__ 
 
     The date of enactment of the Passenger Rail Reform and Investment Act of 2015, referred to in subsec. (a), is the date of enactment of title XI of div. A of [Pub. L. 114–94][/us/pl/114/94], which was approved Dec. 4, 2015.
 
-    Section 209 of the Passenger Rail Investment and Improvement Act of 2008, referred to in subsec. (b), is [section 209 of div. B of Pub. L. 110–432][/us/pl/110/432/s209], which is set out as a note under [section 24101 of this title][/us/usc/t49/s24101].
+    Section 209 of the Passenger Rail Investment and Improvement Act of 2008, referred to in subsec. (b), is [section 209 of div. B of Pub. L. 110–432][/us/pl/110/432/dB/s209], which is set out as a note under [section 24101 of this title][/us/usc/t49/s24101].
 
  __Effective Date__ 
 
@@ -47,10 +47,10 @@
 ----------
 
 [/us/usc/t49/s24101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24101
-[/us/pl/114/94/s11202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11202%2Fa
+[/us/pl/114/94/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtXI
 [/us/stat/129/1628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1628
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
-[/us/pl/110/432/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs209
+[/us/pl/110/432/dB/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdB%2Fs209
 [/us/usc/t49/s24101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24101
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313

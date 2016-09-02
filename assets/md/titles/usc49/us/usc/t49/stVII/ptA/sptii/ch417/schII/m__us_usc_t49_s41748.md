@@ -37,7 +37,7 @@
 
         If, after any 12-month period during which a marketing plan has been in effect under this section with respect to an eligible place, the Secretary determines that the marketing plan has increased average monthly boardings, or the level of passenger usage, at the airport serving the eligible place, by 50 percent or more, then no portion of the publicly financed costs associated with the marketing plan shall be required to come from non-Federal sources under this subsection for the following 12-month period.
 
-(Added [Pub. L. 108–176, title IV, § 410(b)][/us/pl/108/176/s410/b], Dec. 12, 2003, [117 Stat. 2548][/us/stat/117/2548].)
+(Added [Pub. L. 108–176, title IV][/us/pl/108/176/tIV], § 410(b), Dec. 12, 2003, [117 Stat. 2548][/us/stat/117/2548].)
 
  __Codification__ 
 
@@ -49,7 +49,7 @@
 
  __Incentive Program__ 
 
-[Pub. L. 108–176, title IV, § 410(a)][/us/pl/108/176/s410/a], Dec. 12, 2003, [117 Stat. 2548][/us/stat/117/2548], provided that: 
+[Pub. L. 108–176, title IV][/us/pl/108/176/tIV], § 410(a), Dec. 12, 2003, [117 Stat. 2548][/us/stat/117/2548], provided that: 
 
 > “The purposes of this section \[enacting this section\] are—
 
@@ -66,12 +66,12 @@
 ----------
 ----------
 
-[/us/pl/108/176/s410/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs410%2Fb
+[/us/pl/108/176/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtIV
 [/us/stat/117/2548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2548
 [/us/pl/108/176/s410/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs410%2Fb
 [/us/pl/108/176/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106
-[/us/pl/108/176/s410/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs410%2Fa
+[/us/pl/108/176/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtIV
 [/us/stat/117/2548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2548
 
 

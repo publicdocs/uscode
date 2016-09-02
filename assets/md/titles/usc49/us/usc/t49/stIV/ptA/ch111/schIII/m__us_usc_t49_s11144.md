@@ -41,11 +41,11 @@
 
     (c) The Board may prescribe the time period during which operating, accounting, and financial records must be preserved by rail carriers, lessors, and persons furnishing cars.
 
-(Added [Pub. L. 104–88, title I, § 102(a)][/us/pl/104/88/s102/a], Dec. 29, 1995, [109 Stat. 835][/us/stat/109/835].)
+(Added [Pub. L. 104–88, title I][/us/pl/104/88/tI], § 102(a), Dec. 29, 1995, [109 Stat. 835][/us/stat/109/835].)
 
  __Prior Provisions__ 
 
-    A prior section 11144, [Pub. L. 95–473][/us/pl/95/473], Oct. 17, 1978, [92 Stat. 1426][/us/stat/92/1426]; [Pub. L. 96–296, § 24(c)][/us/pl/96/296/s24/c], July 1, 1980, [94 Stat. 816][/us/stat/94/816], related to form, inspection, and preservation of records, prior to the general amendment of this subtitle by [Pub. L. 104–88, § 102(a)][/us/pl/104/88/s102/a]. See sections 11144, 14122, and 15722 of this title.
+    A prior section 11144, [Pub. L. 95–473][/us/pl/95/473], Oct. 17, 1978, [92 Stat. 1426][/us/stat/92/1426]; [Pub. L. 96–296][/us/pl/96/296], § 24(c), July 1, 1980, [94 Stat. 816][/us/stat/94/816], related to form, inspection, and preservation of records, prior to the general amendment of this subtitle by [Pub. L. 104–88][/us/pl/104/88], § 102(a). See sections 11144, 14122, and 15722 of this title.
 
 ----------
 
@@ -54,12 +54,12 @@
 ----------
 ----------
 
-[/us/pl/104/88/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs102%2Fa
+[/us/pl/104/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtI
 [/us/stat/109/835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F835
 [/us/pl/95/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F473
 [/us/stat/92/1426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1426
-[/us/pl/96/296/s24/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F296%2Fs24%2Fc
+[/us/pl/96/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F296
 [/us/stat/94/816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F816
-[/us/pl/104/88/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs102%2Fa
+[/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 
 

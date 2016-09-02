@@ -27,7 +27,7 @@
 
         (2) an agreement between national railroad labor representatives and the developer of the new equipment or technology.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 883][/us/stat/108/883].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 883][/us/stat/108/883].)
 
 <table>
 
@@ -86,7 +86,7 @@ May 30, 1980, Pub. L. 96–254, § 117, 94 Stat. 406.  </td>
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F883
 
 

@@ -41,7 +41,7 @@
 
             (D) use of funds apportioned under section 47114 for the payment of principal and interest of terminal development for costs incurred before the date of the enactment of this section.
 
-(Added [Pub. L. 106–181, title I, § 132(a)][/us/pl/106/181/s132/a], Apr. 5, 2000, [114 Stat. 80][/us/stat/114/80]; amended [Pub. L. 108–176, title I, § 156][/us/pl/108/176/s156], Dec. 12, 2003, [117 Stat. 2508][/us/stat/117/2508].)
+(Added [Pub. L. 106–181, title I][/us/pl/106/181/tI], § 132(a), Apr. 5, 2000, [114 Stat. 80][/us/stat/114/80]; amended [Pub. L. 108–176, title I][/us/pl/108/176/tI], § 156, Dec. 12, 2003, [117 Stat. 2508][/us/stat/117/2508].)
 
  __References in Text__ 
 
@@ -68,9 +68,9 @@
 ----------
 ----------
 
-[/us/pl/106/181/s132/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs132%2Fa
+[/us/pl/106/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtI
 [/us/stat/114/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F80
-[/us/pl/108/176/s156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs156
+[/us/pl/108/176/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtI
 [/us/stat/117/2508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2508
 [/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
 [/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181

@@ -51,13 +51,13 @@
 
  __Amendments__ 
 
-    1997—[Pub. L. 105–134, title I, § 161(b)][/us/pl/105/134/s161/b], Dec. 2, 1997, [111 Stat. 2578][/us/stat/111/2578], added item 28103.
+    1997—[Pub. L. 105–134, title I][/us/pl/105/134/tI], § 161(b), Dec. 2, 1997, [111 Stat. 2578][/us/stat/111/2578], added item 28103.
 
-    1994—[Pub. L. 103–440, title I, § 103(a)(1)][/us/pl/103/440/s103/a/1], (b)(2), Nov. 2, 1994, [108 Stat. 4616][/us/stat/108/4616], 4619, renumbered chapter 261 of this title as chapter 281 and items 26101 and 26102 as 28101 and 28102, respectively.
+    1994—[Pub. L. 103–440, title I][/us/pl/103/440/tI], § 103(a)(1), (b)(2), Nov. 2, 1994, [108 Stat. 4616][/us/stat/108/4616], 4619, renumbered chapter 261 of this title as chapter 281 and items 26101 and 26102 as 28101 and 28102, respectively.
 
  __United States-Canada Alaska Rail Commission__ 
 
-[Pub. L. 106–570, title III][/us/pl/106/570], Dec. 27, 2000, [114 Stat. 3043][/us/stat/114/3043], provided that:
+[Pub. L. 106–570, title III][/us/pl/106/570/tIII], Dec. 27, 2000, [114 Stat. 3043][/us/stat/114/3043], provided that:
 
 > “SEC. 301. __SHORT TITLE.__ 
 
@@ -252,11 +252,11 @@
 ----------
 ----------
 
-[/us/pl/105/134/s161/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2Fs161%2Fb
+[/us/pl/105/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2FtI
 [/us/stat/111/2578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2578
-[/us/pl/103/440/s103/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F440%2Fs103%2Fa%2F1
+[/us/pl/103/440/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F440%2FtI
 [/us/stat/108/4616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4616
-[/us/pl/106/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F570
+[/us/pl/106/570/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F570%2FtIII
 [/us/stat/114/3043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F3043
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
 [/us/usc/t5/s5316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5316

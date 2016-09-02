@@ -53,7 +53,7 @@
 
     The Attorney General shall establish by regulation procedures and practices to facilitate reporting in the least burdensome and costly fashion.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 982][/us/stat/108/982]; [Pub. L. 104–152][/us/pl/104/152], §§ 2(c), 3(a), July 2, 1996, [110 Stat. 1384][/us/stat/110/1384]; [Pub. L. 105–102, § 3(b)][/us/pl/105/102/s3/b], Nov. 20, 1997, [111 Stat. 2215][/us/stat/111/2215].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 982][/us/stat/108/982]; [Pub. L. 104–152][/us/pl/104/152], §§ 2(c), 3(a), July 2, 1996, [110 Stat. 1384][/us/stat/110/1384]; [Pub. L. 105–102][/us/pl/105/102], § 3(b), Nov. 20, 1997, [111 Stat. 2215][/us/stat/111/2215].)
 
 <table>
 
@@ -137,17 +137,17 @@ Oct. 25, 1992, Pub. L. 102–519, § 204(a), (b), (d), 106 Stat. 3392, 3393.  
 
  __Amendments__ 
 
-    1997—Subsec. (a)(1). [Pub. L. 105–102][/us/pl/105/102] amended directory language of [Pub. L. 104–152, § 2(c)][/us/pl/104/152/s2/c]. See 1996 Amendment note below.
+    1997—Subsec. (a)(1). [Pub. L. 105–102][/us/pl/105/102] amended directory language of [Pub. L. 104–152][/us/pl/104/152], § 2(c). See 1996 Amendment note below.
 
-    1996—Subsec. (a)(1). [Pub. L. 104–152, § 3(a)][/us/pl/104/152/s3/a], substituted “Attorney General” for “Secretary of Transportation”.
+    1996—Subsec. (a)(1). [Pub. L. 104–152][/us/pl/104/152], § 3(a), substituted “Attorney General” for “Secretary of Transportation”.
 
-    [Pub. L. 104–152, § 2(c)][/us/pl/104/152/s2/c], as amended by [Pub. L. 105–102][/us/pl/105/102], substituted “National Motor Vehicle Title Information System” for “National Automobile Title Information System”.
+    [Pub. L. 104–152][/us/pl/104/152], § 2(c), as amended by [Pub. L. 105–102][/us/pl/105/102], substituted “National Motor Vehicle Title Information System” for “National Automobile Title Information System”.
 
-    Subsecs. (b), (c). [Pub. L. 104–152, § 3(a)][/us/pl/104/152/s3/a], substituted “Attorney General” for “Secretary”.
+    Subsecs. (b), (c). [Pub. L. 104–152][/us/pl/104/152], § 3(a), substituted “Attorney General” for “Secretary”.
 
  __Effective Date of 1997 Amendment__ 
 
-    [Pub. L. 105–102, § 3(b)][/us/pl/105/102/s3/b], Nov. 20, 1997, [111 Stat. 2215][/us/stat/111/2215], provided that the amendment made by section 3(b) is effective July 2, 1996.
+    [Pub. L. 105–102][/us/pl/105/102], § 3(b), Nov. 20, 1997, [111 Stat. 2215][/us/stat/111/2215], provided that the amendment made by section 3(b) is effective July 2, 1996.
 
     Amendment by [Pub. L. 105–102][/us/pl/105/102] effective as if included in the provisions of the Act to which the amendment relates, see [section 3(f) of Pub. L. 105–102][/us/pl/105/102/s3/f], set out as a note under [section 106 of this title][/us/usc/t49/s106].
 
@@ -160,19 +160,19 @@ Oct. 25, 1992, Pub. L. 102–519, § 204(a), (b), (d), 106 Stat. 3392, 3393.  
 
 [/us/usc/t49/s30502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30502
 [/us/usc/t49/s33110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs33110
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F982
 [/us/pl/104/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F152
 [/us/stat/110/1384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1384
-[/us/pl/105/102/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102%2Fs3%2Fb
+[/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/stat/111/2215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2215
 [/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
-[/us/pl/104/152/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F152%2Fs2%2Fc
-[/us/pl/104/152/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F152%2Fs3%2Fa
-[/us/pl/104/152/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F152%2Fs2%2Fc
+[/us/pl/104/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F152
+[/us/pl/104/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F152
+[/us/pl/104/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F152
 [/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
-[/us/pl/104/152/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F152%2Fs3%2Fa
-[/us/pl/105/102/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102%2Fs3%2Fb
+[/us/pl/104/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F152
+[/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/stat/111/2215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2215
 [/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/pl/105/102/s3/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102%2Fs3%2Ff

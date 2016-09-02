@@ -27,7 +27,7 @@
 
     A commuter air carrier that has an agreement with an air carrier to provide transportation for passengers and property that includes through service by the commuter air carrier over the commuter air carrier’s routes and air transportation provided by the air carrier shall give the air carrier and the Secretary at least 90 days’ notice before modifying, suspending, or ending the transportation. If the commuter air carrier does not give that notice, the uniform method of establishing joint prices and divisions of joint prices referred to in subsection (b) of this section does not apply to the commuter air carrier.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1134][/us/stat/108/1134].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1134][/us/stat/108/1134].)
 
 <table>
 
@@ -148,7 +148,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 1601(b)(1)(E); added Oct. 4,
 
 [/us/usc/t49/s40109/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40109%2Ff
 [/us/usc/t49/s41102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs41102
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1134
 [/us/pl/95/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F504
 [/us/stat/92/1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1705

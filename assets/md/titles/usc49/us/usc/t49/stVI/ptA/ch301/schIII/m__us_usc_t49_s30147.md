@@ -31,7 +31,7 @@
 
     The Secretary shall require by regulation each registered importer (including any successor in interest) to provide and maintain evidence, satisfactory to the Secretary, of sufficient financial responsibility to meet its obligations under sections 30117(b), 30118–30121, and 30166(f) of this title.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 966][/us/stat/108/966].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 966][/us/stat/108/966].)
 
 <table>
 
@@ -109,7 +109,7 @@ Sept. 9, 1966, Pub. L. 89–563, 80 Stat. 718, § 108(d); added Oct. 31, 1988,
 [/us/usc/t49/s30146/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30146%2Fa%2F1
 [/us/usc/t49/s30141/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30141%2Fc
 [/us/usc/t49/s30142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30142
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F966
 
 

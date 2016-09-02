@@ -31,7 +31,7 @@
 
         (2) If information is not available as provided in paragraph (1)(A) or (B) of this subsection, the Secretary may use any other source to obtain the information. However, use of the information shall be subject to public notice and an opportunity for written comment.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 886][/us/stat/108/886].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 886][/us/stat/108/886].)
 
 <table>
 
@@ -149,7 +149,7 @@ Sept. 3, 1992, Pub. L. 102–365, § 15, 106 Stat. 981.  </td>
 
  __Accident and Incident Reporting__ 
 
-[Pub. L. 110–432, div. A, title II, § 209][/us/pl/110/432/s209], Oct. 16, 2008, [122 Stat. 4876][/us/stat/122/4876], provided that: 
+[Pub. L. 110–432, div. A, title II][/us/pl/110/432/dA/tII], § 209, Oct. 16, 2008, [122 Stat. 4876][/us/stat/122/4876], provided that: 
 
 > “The Federal Railroad Administration shall conduct an audit of each Class I railroad at least once every 2 years and conduct an audit of each non-Class I railroad at least once every 5 years to ensure that all grade crossing collisions and fatalities are reported to any Federal national accident database.”
 
@@ -162,11 +162,11 @@ Sept. 3, 1992, Pub. L. 102–365, § 15, 106 Stat. 981.  </td>
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F886
 [/us/pl/102/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F365
 [/us/stat/106/981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F981
-[/us/pl/110/432/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs209
+[/us/pl/110/432/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdA%2FtII
 [/us/stat/122/4876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4876
 [/us/pl/110/432/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs209
 [/us/pl/110/432/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs2%2Fa

@@ -145,7 +145,7 @@
 
         (3) a large quantity of radioactive material.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1006][/us/stat/108/1006]; [Pub. L. 104–88, title I, § 104(e)][/us/pl/104/88/s104/e], Dec. 29, 1995, [109 Stat. 919][/us/stat/109/919]; [Pub. L. 109–59, title IV][/us/pl/109/59], §§ 4120(b), 4121, Aug. 10, 2005, [119 Stat. 1733][/us/stat/119/1733], 1734; [Pub. L. 110–244, title III][/us/pl/110/244], §§ 301(f), 305(b), June 6, 2008, [122 Stat. 1616][/us/stat/122/1616], 1620.)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1006][/us/stat/108/1006]; [Pub. L. 104–88, title I][/us/pl/104/88/tI], § 104(e), Dec. 29, 1995, [109 Stat. 919][/us/stat/109/919]; [Pub. L. 109–59, title IV][/us/pl/109/59/tIV], §§ 4120(b), 4121, Aug. 10, 2005, [119 Stat. 1733][/us/stat/119/1733], 1734; [Pub. L. 110–244, title III][/us/pl/110/244/tIII], §§ 301(f), 305(b), June 6, 2008, [122 Stat. 1616][/us/stat/122/1616], 1620.)
 
 <table>
 
@@ -325,21 +325,21 @@ July 1, 1980, Pub. L. 96–296, § 30(f), 94 Stat. 823; Jan. 6, 1983, Pub. L. 
 
  __Amendments__ 
 
-    2008—Subsec. (b)(1). [Pub. L. 110–244, § 305(b)(1)][/us/pl/110/244/s305/b/1], in introductory provisions, substituted “motor carrier or motor private carrier (as such terms are defined in [section 13102 of this title][/us/usc/t49/s13102])” for “commercial motor vehicle”.
+    2008—Subsec. (b)(1). [Pub. L. 110–244][/us/pl/110/244], § 305(b)(1), in introductory provisions, substituted “motor carrier or motor private carrier (as such terms are defined in [section 13102 of this title][/us/usc/t49/s13102])” for “commercial motor vehicle”.
 
-    Subsec. (c). [Pub. L. 110–244, § 305(b)(2)][/us/pl/110/244/s305/b/2], struck out “commercial” before “motor vehicle”.
+    Subsec. (c). [Pub. L. 110–244][/us/pl/110/244], § 305(b)(2), struck out “commercial” before “motor vehicle”.
 
-    Subsec. (g)(5). [Pub. L. 110–244, § 301(f)][/us/pl/110/244/s301/f], amended [Pub. L. 109–59, § 4121][/us/pl/109/59/s4121]. See 2005 Amendment note below.
+    Subsec. (g)(5). [Pub. L. 110–244][/us/pl/110/244], § 301(f), amended [Pub. L. 109–59][/us/pl/109/59], § 4121. See 2005 Amendment note below.
 
-    2005—Subsec. (b)(1). [Pub. L. 109–59, § 4120(b)(1)][/us/pl/109/59/s4120/b/1], struck out “for compensation” after “property” and inserted “commercial” before “motor vehicle” in introductory provisions.
+    2005—Subsec. (b)(1). [Pub. L. 109–59][/us/pl/109/59], § 4120(b)(1), struck out “for compensation” after “property” and inserted “commercial” before “motor vehicle” in introductory provisions.
 
-    Subsecs. (c) to (f). [Pub. L. 109–59, § 4120(b)(2)][/us/pl/109/59/s4120/b/2], (3), added subsec. (c) and redesignated former subsecs. (c) to (e) as (d) to (f), respectively. Former subsec. (f) redesignated (g).
+    Subsecs. (c) to (f). [Pub. L. 109–59][/us/pl/109/59], § 4120(b)(2), (3), added subsec. (c) and redesignated former subsecs. (c) to (e) as (d) to (f), respectively. Former subsec. (f) redesignated (g).
 
-    Subsec. (g). [Pub. L. 109–59, § 4120(b)(2)][/us/pl/109/59/s4120/b/2], redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
+    Subsec. (g). [Pub. L. 109–59][/us/pl/109/59], § 4120(b)(2), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
 
-    Subsec. (g)(5). [Pub. L. 109–59, § 4121][/us/pl/109/59/s4121], as amended by [Pub. L. 110–244, § 301(f)][/us/pl/110/244/s301/f], substituted “Highway Trust Fund (other than the Mass Transit Account)” for “Treasury as miscellaneous receipts”.
+    Subsec. (g)(5). [Pub. L. 109–59][/us/pl/109/59], § 4121, as amended by [Pub. L. 110–244][/us/pl/110/244], § 301(f), substituted “Highway Trust Fund (other than the Mass Transit Account)” for “Treasury as miscellaneous receipts”.
 
-    Subsec. (h). [Pub. L. 109–59, § 4120(b)(2)][/us/pl/109/59/s4120/b/2], redesignated subsec. (g) as (h).
+    Subsec. (h). [Pub. L. 109–59][/us/pl/109/59], § 4120(b)(2), redesignated subsec. (g) as (h).
 
     1995—Subsec. (e)(3). [Pub. L. 104–88][/us/pl/104/88] added par. (3).
 
@@ -361,13 +361,13 @@ July 1, 1980, Pub. L. 96–296, § 30(f), 94 Stat. 823; Jan. 6, 1983, Pub. L. 
 [/us/usc/t49/s10102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs10102
 [/us/usc/t49/s13102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs13102
 [/us/usc/t49/s10530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs10530
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1006
-[/us/pl/104/88/s104/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs104%2Fe
+[/us/pl/104/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtI
 [/us/stat/109/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F919
-[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIV
 [/us/stat/119/1733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1733
-[/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
+[/us/pl/110/244/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2FtIII
 [/us/stat/122/1616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1616
 [/us/pl/96/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F296
 [/us/stat/94/823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F823
@@ -381,17 +381,17 @@ July 1, 1980, Pub. L. 96–296, § 30(f), 94 Stat. 823; Jan. 6, 1983, Pub. L. 
 [/us/stat/94/822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F822
 [/us/pl/96/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F296
 [/us/stat/94/822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F822
-[/us/pl/110/244/s305/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs305%2Fb%2F1
+[/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
 [/us/usc/t49/s13102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs13102
-[/us/pl/110/244/s305/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs305%2Fb%2F2
-[/us/pl/110/244/s301/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs301%2Ff
-[/us/pl/109/59/s4121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4121
-[/us/pl/109/59/s4120/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4120%2Fb%2F1
-[/us/pl/109/59/s4120/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4120%2Fb%2F2
-[/us/pl/109/59/s4120/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4120%2Fb%2F2
-[/us/pl/109/59/s4121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4121
-[/us/pl/110/244/s301/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs301%2Ff
-[/us/pl/109/59/s4120/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4120%2Fb%2F2
+[/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
+[/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/110/244/s301/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs301%2Ff
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59

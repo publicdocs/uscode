@@ -29,7 +29,7 @@
 
         (2) A judgment of a court under paragraph (1) of this subsection may be reviewed only by the Supreme Court under [section 1254(1) of title 28][/us/usc/t28/s1254/1].
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1323][/us/stat/108/1323]; [Pub. L. 112–90][/us/pl/112/90], §§ 2(d), 20(b), Jan. 3, 2012, [125 Stat. 1905][/us/stat/125/1905], 1917.)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1323][/us/stat/108/1323]; [Pub. L. 112–90][/us/pl/112/90], §§ 2(d), 20(b), Jan. 3, 2012, [125 Stat. 1905][/us/stat/125/1905], 1917.)
 
 <table>
 
@@ -183,11 +183,11 @@ Aug. 12, 1968, Pub. L. 90–481, 82 Stat. 720, § 7(b)(4); added Nov. 30, 1979
 
  __Amendments__ 
 
-    2012—Subsec. (a). [Pub. L. 112–90, § 2(d)(1)][/us/pl/112/90/s2/d/1], substituted “, Orders, and Other Final Agency Actions” for “and Waiver Orders” in heading.
+    2012—Subsec. (a). [Pub. L. 112–90][/us/pl/112/90], § 2(d)(1), substituted “, Orders, and Other Final Agency Actions” for “and Waiver Orders” in heading.
 
-    Subsec. (a)(1). [Pub. L. 112–90, § 2(d)(2)][/us/pl/112/90/s2/d/2], substituted “order issued under this chapter” for “order issued about an application for a waiver under section 60118(c) or (d) of this title”.
+    Subsec. (a)(1). [Pub. L. 112–90][/us/pl/112/90], § 2(d)(2), substituted “order issued under this chapter” for “order issued about an application for a waiver under section 60118(c) or (d) of this title”.
 
-    Subsec. (a)(3). [Pub. L. 112–90, § 20(b)][/us/pl/112/90/s20/b], added par. (3).
+    Subsec. (a)(3). [Pub. L. 112–90][/us/pl/112/90], § 20(b), added par. (3).
 
 ----------
 
@@ -200,12 +200,12 @@ Aug. 12, 1968, Pub. L. 90–481, 82 Stat. 720, § 7(b)(4); added Nov. 30, 1979
 [/us/usc/t5/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs706
 [/us/usc/t49/s60111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs60111
 [/us/usc/t28/s1254/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1254%2F1
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1323
 [/us/pl/112/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90
 [/us/stat/125/1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1905
-[/us/pl/112/90/s2/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90%2Fs2%2Fd%2F1
-[/us/pl/112/90/s2/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90%2Fs2%2Fd%2F2
-[/us/pl/112/90/s20/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90%2Fs20%2Fb
+[/us/pl/112/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90
+[/us/pl/112/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90
+[/us/pl/112/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90
 
 

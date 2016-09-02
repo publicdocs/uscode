@@ -49,7 +49,7 @@
 
         The report shall also include any recommendations the Secretary determines appropriate. If the Secretary determines that the purposes of this chapter have been substantially achieved, no further report under this section shall be required.
 
-(Added [Pub. L. 105–178, title VII, § 7302(a)][/us/pl/105/178/s7302/a], June 9, 1998, [112 Stat. 479][/us/stat/112/479]; amended [Pub. L. 107–355, § 2(b)][/us/pl/107/355/s2/b], Dec. 17, 2002, [116 Stat. 2985][/us/stat/116/2985].)
+(Added [Pub. L. 105–178, title VII][/us/pl/105/178/tVII], § 7302(a), June 9, 1998, [112 Stat. 479][/us/stat/112/479]; amended [Pub. L. 107–355][/us/pl/107/355], § 2(b), Dec. 17, 2002, [116 Stat. 2985][/us/stat/116/2985].)
 
  __References in Text__ 
 
@@ -67,9 +67,9 @@
 ----------
 
 [/us/usc/t49/s60124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs60124
-[/us/pl/105/178/s7302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs7302%2Fa
+[/us/pl/105/178/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtVII
 [/us/stat/112/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F479
-[/us/pl/107/355/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355%2Fs2%2Fb
+[/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355
 [/us/stat/116/2985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2985
 [/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
 [/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355

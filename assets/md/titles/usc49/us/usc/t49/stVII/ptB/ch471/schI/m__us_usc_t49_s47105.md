@@ -65,7 +65,7 @@
 
     The sponsor of an airport for which an amount is apportioned under [section 47114(c) of this title][/us/usc/t49/s47114/c] shall notify the Secretary of the fiscal year in which the sponsor intends to submit a project grant application for the apportioned amount. The notification shall be given by the time and contain the information the Secretary prescribes.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1253][/us/stat/108/1253]; [Pub. L. 103–305, title I][/us/pl/103/305], §§ 106, 107(a), Aug. 23, 1994, [108 Stat. 1572][/us/stat/108/1572].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1253][/us/stat/108/1253]; [Pub. L. 103–305, title I][/us/pl/103/305/tI], §§ 106, 107(a), Aug. 23, 1994, [108 Stat. 1572][/us/stat/108/1572].)
 
 <table>
 
@@ -233,9 +233,9 @@ Sept. 3, 1982, Pub. L. 97–248, § 509(e), 96 Stat. 685; Dec. 30, 1987, Pub. 
 
  __Amendments__ 
 
-    1994—Subsec. (a)(1)(B). [Pub. L. 103–305, § 106][/us/pl/103/305/s106], in introductory provisions, substituted “1 or more airports” for “at least 2 airports” in two places and struck out “similar” before “projects”.
+    1994—Subsec. (a)(1)(B). [Pub. L. 103–305][/us/pl/103/305], § 106, in introductory provisions, substituted “1 or more airports” for “at least 2 airports” in two places and struck out “similar” before “projects”.
 
-    Subsecs. (e), (f). [Pub. L. 103–305, § 107(a)][/us/pl/103/305/s107/a], added subsec. (e) and redesignated former subsec. (e) as (f).
+    Subsecs. (e), (f). [Pub. L. 103–305][/us/pl/103/305], § 107(a), added subsec. (e) and redesignated former subsec. (e) as (f).
 
 ----------
 
@@ -245,9 +245,9 @@ Sept. 3, 1982, Pub. L. 97–248, § 509(e), 96 Stat. 685; Dec. 30, 1987, Pub. 
 ----------
 
 [/us/usc/t49/s47114/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs47114%2Fc
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1253
-[/us/pl/103/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305
+[/us/pl/103/305/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2FtI
 [/us/stat/108/1572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1572
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/usc/t49/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs303
@@ -255,7 +255,7 @@ Sept. 3, 1982, Pub. L. 97–248, § 509(e), 96 Stat. 685; Dec. 30, 1987, Pub. 
 [/us/usc/t42/s2000d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000d
 [/us/usc/t42/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3601
 [/us/usc/t42/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4601
-[/us/pl/103/305/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2Fs106
-[/us/pl/103/305/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2Fs107%2Fa
+[/us/pl/103/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305
+[/us/pl/103/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305
 
 

@@ -91,7 +91,7 @@
 
     As part of any submission of an application for a private screening company to provide screening services at an airport, the airport operator shall provide to the Under Secretary a recommendation as to which company would best serve the security screening and passenger needs of the airport, along with a statement explaining the basis of the operator’s recommendation.
 
-(Added [Pub. L. 107–71, title I, § 108(a)][/us/pl/107/71/s108/a], Nov. 19, 2001, [115 Stat. 612][/us/stat/115/612]; amended [Pub. L. 109–90, title V, § 547][/us/pl/109/90/s547], Oct. 18, 2005, [119 Stat. 2089][/us/stat/119/2089]; [Pub. L. 112–95, title VIII, § 830(a)][/us/pl/112/95/s830/a]–(c), Feb. 14, 2012, [126 Stat. 135][/us/stat/126/135].)
+(Added [Pub. L. 107–71, title I][/us/pl/107/71/tI], § 108(a), Nov. 19, 2001, [115 Stat. 612][/us/stat/115/612]; amended [Pub. L. 109–90, title V][/us/pl/109/90/tV], § 547, Oct. 18, 2005, [119 Stat. 2089][/us/stat/119/2089]; [Pub. L. 112–95, title VIII][/us/pl/112/95/tVIII], § 830(a)–(c), Feb. 14, 2012, [126 Stat. 135][/us/stat/126/135].)
 
  __References in Text__ 
 
@@ -101,11 +101,11 @@
 
  __Amendments__ 
 
-    2012—Subsec. (b). [Pub. L. 112–95, § 830(a)][/us/pl/112/95/s830/a], amended subsec. (b) generally. Prior to amendment, text read as follows: “The Under Secretary may approve any application submitted under subsection (a).”
+    2012—Subsec. (b). [Pub. L. 112–95][/us/pl/112/95], § 830(a), amended subsec. (b) generally. Prior to amendment, text read as follows: “The Under Secretary may approve any application submitted under subsection (a).”
 
-    Subsec. (d). [Pub. L. 112–95, § 830(b)][/us/pl/112/95/s830/b], designated existing provisions as par. (1), inserted heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), realigned margins, and added par. (2).
+    Subsec. (d). [Pub. L. 112–95][/us/pl/112/95], § 830(b), designated existing provisions as par. (1), inserted heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), realigned margins, and added par. (2).
 
-    Subsec. (h). [Pub. L. 112–95, § 830(c)][/us/pl/112/95/s830/c], added subsec. (h).
+    Subsec. (h). [Pub. L. 112–95][/us/pl/112/95], § 830(c), added subsec. (h).
 
     2005—Subsec. (g). [Pub. L. 109–90][/us/pl/109/90] added subsec. (g).
 
@@ -120,20 +120,20 @@
 ----------
 ----------
 
-[/us/pl/107/71/s108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs108%2Fa
+[/us/pl/107/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2FtI
 [/us/stat/115/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F612
-[/us/pl/109/90/s547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F90%2Fs547
+[/us/pl/109/90/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F90%2FtV
 [/us/stat/119/2089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2089
-[/us/pl/112/95/s830/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs830%2Fa
+[/us/pl/112/95/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtVIII
 [/us/stat/126/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F135
 [/us/pl/107/71/s110/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs110%2Fc
 [/us/usc/t49/s44901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44901
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/stat/116/2238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2238
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101
-[/us/pl/112/95/s830/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs830%2Fa
-[/us/pl/112/95/s830/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs830%2Fb
-[/us/pl/112/95/s830/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs830%2Fc
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
 [/us/pl/109/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F90
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 

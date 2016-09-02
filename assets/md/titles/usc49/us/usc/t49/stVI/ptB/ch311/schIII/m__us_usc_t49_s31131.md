@@ -37,7 +37,7 @@
 
         (4) interested State governments can provide valuable assistance to the United States Government in ensuring that commercial motor vehicle operations are conducted safely and healthfully.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 999][/us/stat/108/999].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 999][/us/stat/108/999].)
 
 <table>
 
@@ -107,7 +107,7 @@ Oct. 30, 1984, Pub. L. 98–554, §§ 202, 203, 98 Stat. 2832.  </td>
 
  __Traffic Law Initiative__ 
 
-[Pub. L. 106–159, title II, § 220][/us/pl/106/159/s220], Dec. 9, 1999, [113 Stat. 1769][/us/stat/113/1769], provided that:
+[Pub. L. 106–159, title II][/us/pl/106/159/tII], § 220, Dec. 9, 1999, [113 Stat. 1769][/us/stat/113/1769], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -124,13 +124,13 @@ Oct. 30, 1984, Pub. L. 98–554, §§ 202, 203, 98 Stat. 2832.  </td>
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F999
 [/us/pl/98/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F554
 [/us/stat/98/2832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2832
 [/us/pl/112/141/s32934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32934
 [/us/usc/t49/s31136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31136
-[/us/pl/106/159/s220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2Fs220
+[/us/pl/106/159/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2FtII
 [/us/stat/113/1769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1769
 
 

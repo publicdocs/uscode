@@ -83,7 +83,7 @@
 
         Within 90 days after the date on which the Secretary submits a report under this subsection, the Board shall review the Secretary’s report and transmit comments on the report to the Secretary, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Transportation and Infrastructure of the House of Representatives.
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 755][/us/stat/108/755]; [Pub. L. 108–168, § 6][/us/pl/108/168/s6], Dec. 6, 2003, [117 Stat. 2034][/us/stat/117/2034]; [Pub. L. 109–443, § 2(b)][/us/pl/109/443/s2/b], Dec. 21, 2006, [120 Stat. 3298][/us/stat/120/3298]; [Pub. L. 111–216, title II, § 202][/us/pl/111/216/s202], Aug. 1, 2010, [124 Stat. 2351][/us/stat/124/2351]; [Pub. L. 111–249, § 6(1)][/us/pl/111/249/s6/1], (2), Sept. 30, 2010, [124 Stat. 2628][/us/stat/124/2628].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(d), July 5, 1994, [108 Stat. 755][/us/stat/108/755]; [Pub. L. 108–168][/us/pl/108/168], § 6, Dec. 6, 2003, [117 Stat. 2034][/us/stat/117/2034]; [Pub. L. 109–443][/us/pl/109/443], § 2(b), Dec. 21, 2006, [120 Stat. 3298][/us/stat/120/3298]; [Pub. L. 111–216, title II][/us/pl/111/216/tII], § 202, Aug. 1, 2010, [124 Stat. 2351][/us/stat/124/2351]; [Pub. L. 111–249][/us/pl/111/249], § 6(1), (2), Sept. 30, 2010, [124 Stat. 2628][/us/stat/124/2628].)
 
 <table>
 
@@ -167,9 +167,9 @@ Jan. 3, 1975, Pub. L. 93–633, 88 Stat. 2156, § 307(b); added Nov. 3, 1981, 
 
  __Amendments__ 
 
-    2010—Subsec. (a). [Pub. L. 111–216, § 202(a)][/us/pl/111/216/s202/a], as amended by [Pub. L. 111–249, § 6(1)][/us/pl/111/249/s6/1], inserted “to the Board” after “shall give” in introductory provisions.
+    2010—Subsec. (a). [Pub. L. 111–216][/us/pl/111/216], § 202(a), as amended by [Pub. L. 111–249][/us/pl/111/249], § 6(1), inserted “to the Board” after “shall give” in introductory provisions.
 
-    Subsecs. (d), (e). [Pub. L. 111–216, § 202(b)][/us/pl/111/216/s202/b], as amended by [Pub. L. 111–249, § 6(2)][/us/pl/111/249/s6/2], added subsec. (d) and redesignated former subsec. (d) as (e).
+    Subsecs. (d), (e). [Pub. L. 111–216][/us/pl/111/216], § 202(b), as amended by [Pub. L. 111–249][/us/pl/111/249], § 6(2), added subsec. (d) and redesignated former subsec. (d) as (e).
 
     2006—Subsec. (d)(3). [Pub. L. 109–443][/us/pl/109/443] amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “This subsection shall cease to be in effect after the report required to be filed on February 1, 2008, is filed.”
 
@@ -177,11 +177,11 @@ Jan. 3, 1975, Pub. L. 93–633, 88 Stat. 2156, § 307(b); added Nov. 3, 1981, 
 
  __Effective Date of 2010 Amendment__ 
 
-    [Pub. L. 111–249, § 6][/us/pl/111/249/s6], Sept. 30, 2010, [124 Stat. 2628][/us/stat/124/2628], provided that the amendments made by [section 6 of Pub. L. 111–249][/us/pl/111/249/s6] are effective as of Aug. 1, 2010, and as if included in [Pub. L. 111–216][/us/pl/111/216] as enacted.
+    [Pub. L. 111–249][/us/pl/111/249], § 6, Sept. 30, 2010, [124 Stat. 2628][/us/stat/124/2628], provided that the amendments made by [section 6 of Pub. L. 111–249][/us/pl/111/249/s6] are effective as of Aug. 1, 2010, and as if included in [Pub. L. 111–216][/us/pl/111/216] as enacted.
 
  __Reports on Certain Open Safety Recommendations__ 
 
-[Pub. L. 108–168, § 9][/us/pl/108/168/s9], Dec. 6, 2003, [117 Stat. 2035][/us/stat/117/2035], provided that:
+[Pub. L. 108–168][/us/pl/108/168], § 9, Dec. 6, 2003, [117 Stat. 2035][/us/stat/117/2035], provided that:
 
 >     “(a)  __Initial Report__  __.—__ 
 
@@ -209,7 +209,7 @@ Jan. 3, 1975, Pub. L. 93–633, 88 Stat. 2156, § 307(b); added Nov. 3, 1981, 
 
  __NTSB Safety Recommendations__ 
 
-[Pub. L. 107–355, § 19][/us/pl/107/355/s19], Dec. 17, 2002, [116 Stat. 3009][/us/stat/116/3009], as amended by [Pub. L. 108–426, § 2(c)(3)][/us/pl/108/426/s2/c/3], Nov. 30, 2004, [118 Stat. 2424][/us/stat/118/2424], provided that:
+[Pub. L. 107–355][/us/pl/107/355], § 19, Dec. 17, 2002, [116 Stat. 3009][/us/stat/116/3009], as amended by [Pub. L. 108–426][/us/pl/108/426], § 2(c)(3), Nov. 30, 2004, [118 Stat. 2424][/us/stat/118/2424], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -230,31 +230,31 @@ Jan. 3, 1975, Pub. L. 93–633, 88 Stat. 2156, § 307(b); added Nov. 3, 1981, 
 ----------
 ----------
 
-[/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F755
-[/us/pl/108/168/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F168%2Fs6
+[/us/pl/108/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F168
 [/us/stat/117/2034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2034
-[/us/pl/109/443/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F443%2Fs2%2Fb
+[/us/pl/109/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F443
 [/us/stat/120/3298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3298
-[/us/pl/111/216/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F216%2Fs202
+[/us/pl/111/216/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F216%2FtII
 [/us/stat/124/2351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2351
-[/us/pl/111/249/s6/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F249%2Fs6%2F1
+[/us/pl/111/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F249
 [/us/stat/124/2628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2628
-[/us/pl/111/216/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F216%2Fs202%2Fa
-[/us/pl/111/249/s6/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F249%2Fs6%2F1
-[/us/pl/111/216/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F216%2Fs202%2Fb
-[/us/pl/111/249/s6/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F249%2Fs6%2F2
+[/us/pl/111/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F216
+[/us/pl/111/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F249
+[/us/pl/111/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F216
+[/us/pl/111/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F249
 [/us/pl/109/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F443
 [/us/pl/108/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F168
-[/us/pl/111/249/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F249%2Fs6
+[/us/pl/111/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F249
 [/us/stat/124/2628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2628
 [/us/pl/111/249/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F249%2Fs6
 [/us/pl/111/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F216
-[/us/pl/108/168/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F168%2Fs9
+[/us/pl/108/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F168
 [/us/stat/117/2035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2035
-[/us/pl/107/355/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355%2Fs19
+[/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355
 [/us/stat/116/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3009
-[/us/pl/108/426/s2/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F426%2Fs2%2Fc%2F3
+[/us/pl/108/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F426
 [/us/stat/118/2424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2424
 [/us/usc/t49/s1135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1135
 

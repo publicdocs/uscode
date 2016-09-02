@@ -17,7 +17,7 @@
 
     Except as otherwise provided in the ICC Termination Act of 1995, or the amendments made thereby, the Board shall perform all functions that, immediately before January 1, 1996, were functions of the Interstate Commerce Commission or were performed by any officer or employee of the Interstate Commerce Commission in the capacity as such officer or employee.
 
-(Added [Pub. L. 104–88, title II, § 201(a)][/us/pl/104/88/s201/a], Dec. 29, 1995, [109 Stat. 933][/us/stat/109/933], § 702; amended [Pub. L. 104–287, § 5(6)][/us/pl/104/287/s5/6], Oct. 11, 1996, [110 Stat. 3389][/us/stat/110/3389]; renumbered § 1302, [Pub. L. 114–110, § 3(a)(3)][/us/pl/114/110/s3/a/3], Dec. 18, 2015, [129 Stat. 2228][/us/stat/129/2228].)
+(Added [Pub. L. 104–88, title II][/us/pl/104/88/tII], § 201(a), Dec. 29, 1995, [109 Stat. 933][/us/stat/109/933], § 702; amended [Pub. L. 104–287][/us/pl/104/287], § 5(6), Oct. 11, 1996, [110 Stat. 3389][/us/stat/110/3389]; renumbered § 1302, [Pub. L. 114–110][/us/pl/114/110], § 3(a)(3), Dec. 18, 2015, [129 Stat. 2228][/us/stat/129/2228].)
 
  __References in Text__ 
 
@@ -40,11 +40,11 @@
 ----------
 ----------
 
-[/us/pl/104/88/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs201%2Fa
+[/us/pl/104/88/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtII
 [/us/stat/109/933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F933
-[/us/pl/104/287/s5/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F6
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3389
-[/us/pl/114/110/s3/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F110%2Fs3%2Fa%2F3
+[/us/pl/114/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F110
 [/us/stat/129/2228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2228
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/stat/109/803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F803

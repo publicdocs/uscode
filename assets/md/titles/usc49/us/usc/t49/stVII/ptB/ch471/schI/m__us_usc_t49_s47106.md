@@ -139,7 +139,7 @@
 
     The Secretary shall consult with the Secretary of Homeland Security before approving an application under this subchapter for an airport development project grant for activities described in section 47102(3)(B)(ii) only as they relate to security equipment or section 47102(3)(B)(x) only as they relate to installation of bulk explosive detection system.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1254][/us/stat/108/1254]; [Pub. L. 103–305, title I][/us/pl/103/305], §§ 108, 109, Aug. 23, 1994, [108 Stat. 1573][/us/stat/108/1573]; [Pub. L. 106–181, title I, § 155(b)][/us/pl/106/181/s155/b], Apr. 5, 2000, [114 Stat. 88][/us/stat/114/88]; [Pub. L. 107–71, title I, § 123(a)][/us/pl/107/71/s123/a], Nov. 19, 2001, [115 Stat. 630][/us/stat/115/630]; [Pub. L. 107–296, title IV, § 426(b)][/us/pl/107/296/s426/b], Nov. 25, 2002, [116 Stat. 2187][/us/stat/116/2187]; [Pub. L. 108–176, title I, § 187][/us/pl/108/176/s187], title III, § 305, Dec. 12, 2003, [117 Stat. 2518][/us/stat/117/2518], 2539; [Pub. L. 112–95, title I][/us/pl/112/95], §§ 111(c)(2)(A)(i), 133, 134, Feb. 14, 2012, [126 Stat. 18][/us/stat/126/18], 22.)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1254][/us/stat/108/1254]; [Pub. L. 103–305, title I][/us/pl/103/305/tI], §§ 108, 109, Aug. 23, 1994, [108 Stat. 1573][/us/stat/108/1573]; [Pub. L. 106–181, title I][/us/pl/106/181/tI], § 155(b), Apr. 5, 2000, [114 Stat. 88][/us/stat/114/88]; [Pub. L. 107–71, title I][/us/pl/107/71/tI], § 123(a), Nov. 19, 2001, [115 Stat. 630][/us/stat/115/630]; [Pub. L. 107–296, title IV][/us/pl/107/296/tIV], § 426(b), Nov. 25, 2002, [116 Stat. 2187][/us/stat/116/2187]; [Pub. L. 108–176, title I][/us/pl/108/176/tI], § 187, title III, § 305, Dec. 12, 2003, [117 Stat. 2518][/us/stat/117/2518], 2539; [Pub. L. 112–95, title I][/us/pl/112/95/tI], §§ 111(c)(2)(A)(i), 133, 134, Feb. 14, 2012, [126 Stat. 18][/us/stat/126/18], 22.)
 
 <table>
 
@@ -379,25 +379,25 @@ Sept. 3, 1982, Pub. L. 97–248, 96 Stat. 324, § 519(b) (related to applicati
 
  __Amendments__ 
 
-    2012—Subsec. (a)(6). [Pub. L. 112–95, § 133][/us/pl/112/95/s133], added par. (6).
+    2012—Subsec. (a)(6). [Pub. L. 112–95][/us/pl/112/95], § 133, added par. (6).
 
-    Subsec. (f)(1). [Pub. L. 112–95, § 111(c)(2)(A)(i)][/us/pl/112/95/s111/c/2/A/i], substituted “charge” for “fee”.
+    Subsec. (f)(1). [Pub. L. 112–95][/us/pl/112/95], § 111(c)(2)(A)(i), substituted “charge” for “fee”.
 
-    Subsec. (f)(2). [Pub. L. 112–95, § 134][/us/pl/112/95/s134], struck out “patterns of air service,” after “gate-use requirements,” and “, and airfare levels (as compiled by the Department of Transportation) compared to other large airports” after “common facilities” and inserted “and” after “ground-side capacity,”.
+    Subsec. (f)(2). [Pub. L. 112–95][/us/pl/112/95], § 134, struck out “patterns of air service,” after “gate-use requirements,” and “, and airfare levels (as compiled by the Department of Transportation) compared to other large airports” after “common facilities” and inserted “and” after “ground-side capacity,”.
 
-    2003—Subsec. (c)(1)(A)(iii). [Pub. L. 108–176, § 305(1)][/us/pl/108/176/s305/1], inserted “and” after semicolon at end.
+    2003—Subsec. (c)(1)(A)(iii). [Pub. L. 108–176][/us/pl/108/176], § 305(1), inserted “and” after semicolon at end.
 
-    [Pub. L. 108–176, § 187][/us/pl/108/176/s187], added cl. (iii).
+    [Pub. L. 108–176][/us/pl/108/176], § 187, added cl. (iii).
 
-    Subsec. (c)(1)(B), (C). [Pub. L. 108–176, § 305(2)][/us/pl/108/176/s305/2], (3), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “only if the chief executive officer of the State in which the project will be located certifies in writing to the Secretary that there is reasonable assurance that the project will be located, designed, constructed, and operated in compliance with applicable air and water quality standards, except that the Administrator of the Environmental Protection Agency shall make the certification instead of the chief executive officer if—
+    Subsec. (c)(1)(B), (C). [Pub. L. 108–176][/us/pl/108/176], § 305(2), (3), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “only if the chief executive officer of the State in which the project will be located certifies in writing to the Secretary that there is reasonable assurance that the project will be located, designed, constructed, and operated in compliance with applicable air and water quality standards, except that the Administrator of the Environmental Protection Agency shall make the certification instead of the chief executive officer if—
 
     “(i) the State has not approved any applicable State or local standards; and
 
     “(ii) the Administrator has prescribed applicable standards; and”.
 
-    Subsec. (c)(2)(A). [Pub. L. 108–176, § 305(4)][/us/pl/108/176/s305/4], substituted “stage 3” for “stage 2”.
+    Subsec. (c)(2)(A). [Pub. L. 108–176][/us/pl/108/176], § 305(4), substituted “stage 3” for “stage 2”.
 
-    Subsec. (c)(4), (5). [Pub. L. 108–176, § 305(5)][/us/pl/108/176/s305/5]–(7), redesignated par. (5) as (4), substituted “paragraph (1)(B)” for “paragraph (1)(C)”, and struck out former par. (4) which read as follows:
+    Subsec. (c)(4), (5). [Pub. L. 108–176][/us/pl/108/176], § 305(5)–(7), redesignated par. (5) as (4), substituted “paragraph (1)(B)” for “paragraph (1)(C)”, and struck out former par. (4) which read as follows:
 
     “(4)(A) Notice of certification or of refusal to certify under paragraph (1)(B) of this subsection shall be provided to the Secretary not later than 60 days after the Secretary receives the application.
 
@@ -429,7 +429,7 @@ Sept. 3, 1982, Pub. L. 97–248, 96 Stat. 324, § 519(b) (related to applicati
 
  __Environmental Review of Airport Improvement Projects__ 
 
-[Pub. L. 106–181, title III, § 310][/us/pl/106/181/s310], Apr. 5, 2000, [114 Stat. 128][/us/stat/114/128], provided that:
+[Pub. L. 106–181, title III][/us/pl/106/181/tIII], § 310, Apr. 5, 2000, [114 Stat. 128][/us/stat/114/128], provided that:
 
 >     “(a)  __Study__  __.—__ 
 
@@ -457,19 +457,19 @@ Sept. 3, 1982, Pub. L. 97–248, 96 Stat. 324, § 519(b) (related to applicati
 
  __Grants for Engineered Materials Arresting Systems__ 
 
-[Pub. L. 106–181, title V, § 514(c)][/us/pl/106/181/s514/c], Apr. 5, 2000, [114 Stat. 144][/us/stat/114/144], provided that: 
+[Pub. L. 106–181, title V][/us/pl/106/181/tV], § 514(c), Apr. 5, 2000, [114 Stat. 144][/us/stat/114/144], provided that: 
 
 > “In making grants under [section 47104 of title 49][/us/usc/t49/s47104], United States Code, for engineered materials arresting systems, the Secretary \[of Transportation\] shall require the sponsor to demonstrate that the effects of jet blasts have been adequately considered.”
 
  __Grants for Runway Rehabilitation__ 
 
-[Pub. L. 106–181, title V, § 514(d)][/us/pl/106/181/s514/d], Apr. 5, 2000, [114 Stat. 144][/us/stat/114/144], provided that: 
+[Pub. L. 106–181, title V][/us/pl/106/181/tV], § 514(d), Apr. 5, 2000, [114 Stat. 144][/us/stat/114/144], provided that: 
 
 > “In any case in which an airport’s runways are constrained by physical conditions, the Secretary \[of Transportation\] shall consider alternative means for ensuring runway safety (other than a safety overrun area) when prescribing conditions for grants for runway rehabilitation.”
 
  __Compliance With Requirements__ 
 
-[Pub. L. 106–181, title VII, § 737][/us/pl/106/181/s737], Apr. 5, 2000, [114 Stat. 172][/us/stat/114/172], provided that: 
+[Pub. L. 106–181, title VII][/us/pl/106/181/tVII], § 737, Apr. 5, 2000, [114 Stat. 172][/us/stat/114/172], provided that: 
 
 > “Notwithstanding any other provision of law, in order to avoid unnecessary duplication of expense and effort, the Secretary \[of Transportation\] may authorize the use, in whole or in part, of a completed environmental assessment or environmental impact study for new construction projects on the air operations area of an airport, if the completed assessment or study was for a project at the airport that is substantially similar in nature to the new project. Any such authorized use shall meet all requirements of Federal law for the completion of such an assessment or study.”
 
@@ -480,28 +480,28 @@ Sept. 3, 1982, Pub. L. 97–248, 96 Stat. 324, § 519(b) (related to applicati
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1254
-[/us/pl/103/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305
+[/us/pl/103/305/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2FtI
 [/us/stat/108/1573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1573
-[/us/pl/106/181/s155/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs155%2Fb
+[/us/pl/106/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtI
 [/us/stat/114/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F88
-[/us/pl/107/71/s123/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs123%2Fa
+[/us/pl/107/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2FtI
 [/us/stat/115/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F630
-[/us/pl/107/296/s426/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs426%2Fb
+[/us/pl/107/296/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtIV
 [/us/stat/116/2187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2187
-[/us/pl/108/176/s187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs187
+[/us/pl/108/176/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtI
 [/us/stat/117/2518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2518
-[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtI
 [/us/stat/126/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F18
-[/us/pl/112/95/s133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs133
-[/us/pl/112/95/s111/c/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs111%2Fc%2F2%2FA%2Fi
-[/us/pl/112/95/s134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs134
-[/us/pl/108/176/s305/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs305%2F1
-[/us/pl/108/176/s187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs187
-[/us/pl/108/176/s305/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs305%2F2
-[/us/pl/108/176/s305/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs305%2F4
-[/us/pl/108/176/s305/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs305%2F5
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
 [/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
@@ -515,14 +515,14 @@ Sept. 3, 1982, Pub. L. 97–248, 96 Stat. 324, § 519(b) (related to applicati
 [/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/pl/106/181/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106
-[/us/pl/106/181/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs310
+[/us/pl/106/181/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtIII
 [/us/stat/114/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F128
-[/us/pl/106/181/s514/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs514%2Fc
+[/us/pl/106/181/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtV
 [/us/stat/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F144
 [/us/usc/t49/s47104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs47104
-[/us/pl/106/181/s514/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs514%2Fd
+[/us/pl/106/181/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtV
 [/us/stat/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F144
-[/us/pl/106/181/s737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs737
+[/us/pl/106/181/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtVII
 [/us/stat/114/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F172
 
 

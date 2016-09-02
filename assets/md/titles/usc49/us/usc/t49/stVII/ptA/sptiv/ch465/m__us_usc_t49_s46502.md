@@ -55,7 +55,7 @@
 
         (3) For purposes of this subsection, the term “national of the United States” has the meaning prescribed in section 101(a)(22) of the Immigration and Nationality Act ([8 U.S.C. 1101(a)(22)][/us/usc/t8/s1101/a/22]).
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1241][/us/stat/108/1241]; [Pub. L. 103–429, § 6(61)][/us/pl/103/429/s6/61], Oct. 31, 1994, [108 Stat. 4385][/us/stat/108/4385]; [Pub. L. 104–132, title VII][/us/pl/104/132], §§ 721(a), 723(b), Apr. 24, 1996, [110 Stat. 1298][/us/stat/110/1298], 1300.)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1241][/us/stat/108/1241]; [Pub. L. 103–429][/us/pl/103/429], § 6(61), Oct. 31, 1994, [108 Stat. 4385][/us/stat/108/4385]; [Pub. L. 104–132, title VII][/us/pl/104/132/tVII], §§ 721(a), 723(b), Apr. 24, 1996, [110 Stat. 1298][/us/stat/110/1298], 1300.)
 
 <table>
 
@@ -167,13 +167,13 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 902(n)(1), (3); added Aug. 5
 
  __Amendments__ 
 
-    1996—Subsec. (a)(2). [Pub. L. 104–132, § 723(b)(1)][/us/pl/104/132/s723/b/1], inserted “or conspiring” after “attempting”.
+    1996—Subsec. (a)(2). [Pub. L. 104–132][/us/pl/104/132], § 723(b)(1), inserted “or conspiring” after “attempting”.
 
     Subsec. (b)(1). [Pub. L. 104–132][/us/pl/104/132], §§ 721(a)(1), 723(b)(2), in introductory provisions, inserted “or conspiring to commit” after “committing” and struck out “and later found in the United States” after “jurisdiction of the United States”.
 
-    Subsec. (b)(2). [Pub. L. 104–132, § 721(a)(2)][/us/pl/104/132/s721/a/2], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “This subsection applies only if the place of takeoff or landing of the aircraft on which the individual commits the offense is located outside the territory of the country of registration of the aircraft.”
+    Subsec. (b)(2). [Pub. L. 104–132][/us/pl/104/132], § 721(a)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “This subsection applies only if the place of takeoff or landing of the aircraft on which the individual commits the offense is located outside the territory of the country of registration of the aircraft.”
 
-    Subsec. (b)(3). [Pub. L. 104–132, § 721(a)(3)][/us/pl/104/132/s721/a/3], added par. (3).
+    Subsec. (b)(3). [Pub. L. 104–132][/us/pl/104/132], § 721(a)(3), added par. (3).
 
     1994—Subsecs. (a)(2)(B), (b)(1)(B). [Pub. L. 103–429][/us/pl/103/429] inserted “notwithstanding [section 3559(b) of title 18][/us/usc/t18/s3559/b],” before “if the death”.
 
@@ -183,7 +183,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 902(n)(1), (3); added Aug. 5
 
  __Death Penalty Procedures for Certain Air Piracy Cases Occurring Before Enactment of the Federal Death Penalty Act of 1994__ 
 
-[Pub. L. 109–177, title II, § 211][/us/pl/109/177/s211], Mar. 9, 2006, [120 Stat. 230][/us/stat/120/230], provided that:
+[Pub. L. 109–177, title II][/us/pl/109/177/tII], § 211, Mar. 9, 2006, [120 Stat. 230][/us/stat/120/230], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -193,7 +193,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 902(n)(1), (3); added Aug. 5
 
 >     If any provision of section 60003(b)(2) of the Violent Crime and Law Enforcement Act of 1994 ([Public Law 103–322][/us/pl/103/322]) \[repealed [section 46503 of this title][/us/usc/t49/s46503]\], or the application thereof to any person or any circumstance is held invalid, the remainder of such section and the application of such section to other persons or circumstances shall not be affected thereby.”
 
-[Pub. L. 103–322, title VI, § 60003(c)][/us/pl/103/322/s60003/c], as added by [Pub. L. 109–177, title II, § 211(a)][/us/pl/109/177/s211/a], Mar. 9, 2006, [120 Stat. 230][/us/stat/120/230], provided that:
+[Pub. L. 103–322, title VI][/us/pl/103/322/tVI], § 60003(c), as added by [Pub. L. 109–177, title II][/us/pl/109/177/tII], § 211(a), Mar. 9, 2006, [120 Stat. 230][/us/stat/120/230], provided that:
 
 >     “(c)  __Death Penalty Procedures for Certain Previous Aircraft Piracy Violations__  __.—__ 
 
@@ -213,32 +213,32 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 902(n)(1), (3); added Aug. 5
 [/us/usc/t18/s3559/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3559%2Fb
 [/us/usc/t18/s3559/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3559%2Fb
 [/us/usc/t8/s1101/a/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F22
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1241
-[/us/pl/103/429/s6/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F61
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/stat/108/4385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4385
-[/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
+[/us/pl/104/132/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtVII
 [/us/stat/110/1298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1298
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/act/1994-07-05/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1994-07-05%2Fs1
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1241
-[/us/pl/104/132/s723/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs723%2Fb%2F1
 [/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
-[/us/pl/104/132/s721/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs721%2Fa%2F2
-[/us/pl/104/132/s721/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs721%2Fa%2F3
+[/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
+[/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
+[/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/usc/t18/s3559/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3559%2Fb
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/pl/103/429/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs9
 [/us/usc/t49/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs321
-[/us/pl/109/177/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs211
+[/us/pl/109/177/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtII
 [/us/stat/120/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F230
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/usc/t49/s46503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs46503
-[/us/pl/103/322/s60003/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs60003%2Fc
-[/us/pl/109/177/s211/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs211%2Fa
+[/us/pl/103/322/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtVI
+[/us/pl/109/177/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtII
 [/us/stat/120/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F230
 [/us/usc/t49/s46502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs46502
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322

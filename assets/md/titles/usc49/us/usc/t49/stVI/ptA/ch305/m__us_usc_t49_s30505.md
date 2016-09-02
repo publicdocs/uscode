@@ -25,7 +25,7 @@
 
         (2) The Government may deduct the amount of a civil penalty imposed or compromised under this section from amounts it owes the individual or entity liable for the penalty.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 983][/us/stat/108/983]; [Pub. L. 104–152, § 3(a)][/us/pl/104/152/s3/a], July 2, 1996, [110 Stat. 1384][/us/stat/110/1384].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 983][/us/stat/108/983]; [Pub. L. 104–152][/us/pl/104/152], § 3(a), July 2, 1996, [110 Stat. 1384][/us/stat/110/1384].)
 
 <table>
 
@@ -92,9 +92,9 @@ Oct. 25, 1992, Pub. L. 102–519, § 204(c), 106 Stat. 3393.  </td>
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F983
-[/us/pl/104/152/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F152%2Fs3%2Fa
+[/us/pl/104/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F152
 [/us/stat/110/1384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1384
 [/us/pl/104/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F152
 

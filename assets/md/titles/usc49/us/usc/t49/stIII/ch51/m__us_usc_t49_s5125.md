@@ -95,7 +95,7 @@
 
     This section does not apply to any procedure, penalty, required mental state, or other standard utilized by a State, political subdivision of a State, or Indian tribe to enforce a requirement applicable to the transportation of hazardous material.
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 781][/us/stat/108/781]; [Pub. L. 103–311, title I][/us/pl/103/311], §§ 107, 117(a)(2), 120(b), Aug. 26, 1994, [108 Stat. 1674][/us/stat/108/1674], 1678, 1681; [Pub. L. 103–429, § 6(6)][/us/pl/103/429/s6/6], Oct. 31, 1994, [108 Stat. 4378][/us/stat/108/4378]; [Pub. L. 107–296, title XVII, § 1711(b)][/us/pl/107/296/s1711/b], Nov. 25, 2002, [116 Stat. 2320][/us/stat/116/2320]; [Pub. L. 109–59, title VII][/us/pl/109/59], §§ 7122, 7123(a), 7126, Aug. 10, 2005, [119 Stat. 1907][/us/stat/119/1907], 1909; [Pub. L. 110–244, title III, § 302(c)][/us/pl/110/244/s302/c], June 6, 2008, [122 Stat. 1618][/us/stat/122/1618]; [Pub. L. 112–141, div. C, title III][/us/pl/112/141], §§ 33006(d), 33011, 33013(b), July 6, 2012, [126 Stat. 835][/us/stat/126/835], 838, 839.)
+([Pub. L. 103–272][/us/pl/103/272], § 1(d), July 5, 1994, [108 Stat. 781][/us/stat/108/781]; [Pub. L. 103–311, title I][/us/pl/103/311/tI], §§ 107, 117(a)(2), 120(b), Aug. 26, 1994, [108 Stat. 1674][/us/stat/108/1674], 1678, 1681; [Pub. L. 103–429][/us/pl/103/429], § 6(6), Oct. 31, 1994, [108 Stat. 4378][/us/stat/108/4378]; [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1711(b), Nov. 25, 2002, [116 Stat. 2320][/us/stat/116/2320]; [Pub. L. 109–59, title VII][/us/pl/109/59/tVII], §§ 7122, 7123(a), 7126, Aug. 10, 2005, [119 Stat. 1907][/us/stat/119/1907], 1909; [Pub. L. 110–244, title III][/us/pl/110/244/tIII], § 302(c), June 6, 2008, [122 Stat. 1618][/us/stat/122/1618]; [Pub. L. 112–141, div. C, title III][/us/pl/112/141/dC/tIII], §§ 33006(d), 33011, 33013(b), July 6, 2012, [126 Stat. 835][/us/stat/126/835], 838, 839.)
 
 <table>
 
@@ -257,45 +257,45 @@ Jan. 3, 1975, Pub. L. 93–633, § 105(a)(4), (5), (b)(4), 88 Stat. 2157; rest
 
  __Amendments__ 
 
-    2012—Subsec. (b)(1)(D). [Pub. L. 112–141, § 33006(d)][/us/pl/112/141/s33006/d], inserted “and other written hazardous materials transportation incident reporting involving State or local emergency responders in the initial response to the incident” before period at end.
+    2012—Subsec. (b)(1)(D). [Pub. L. 112–141][/us/pl/112/141], § 33006(d), inserted “and other written hazardous materials transportation incident reporting involving State or local emergency responders in the initial response to the incident” before period at end.
 
-    Subsec. (c)(1). [Pub. L. 112–141, § 33013(b)][/us/pl/112/141/s33013/b], inserted “, and is published in the Department’s hazardous materials route registry under section 5112(c)” before period at end.
+    Subsec. (c)(1). [Pub. L. 112–141][/us/pl/112/141], § 33013(b), inserted “, and is published in the Department’s hazardous materials route registry under section 5112(c)” before period at end.
 
-    Subsec. (f)(2). [Pub. L. 112–141, § 33011][/us/pl/112/141/s33011], substituted “biennially” for “, upon the Secretary’s request,”.
+    Subsec. (f)(2). [Pub. L. 112–141][/us/pl/112/141], § 33011, substituted “biennially” for “, upon the Secretary’s request,”.
 
-    2008—Subsec. (d)(1). [Pub. L. 110–244, § 302(c)(1)][/us/pl/110/244/s302/c/1], substituted “5119(f)” for “5119(e)”.
+    2008—Subsec. (d)(1). [Pub. L. 110–244][/us/pl/110/244], § 302(c)(1), substituted “5119(f)” for “5119(e)”.
 
-    Subsec. (e). [Pub. L. 110–244, § 302(c)(2)][/us/pl/110/244/s302/c/2], substituted “5119(f)” for “5119(b)” in introductory provisions.
+    Subsec. (e). [Pub. L. 110–244][/us/pl/110/244], § 302(c)(2), substituted “5119(f)” for “5119(b)” in introductory provisions.
 
-    Subsec. (g). [Pub. L. 110–244, § 302(c)(2)][/us/pl/110/244/s302/c/2], (3), substituted “(a), (b)(1), or (c)” for “(b), (c)(1), or (d)” and “5119(f)” for “5119(b)”.
+    Subsec. (g). [Pub. L. 110–244][/us/pl/110/244], § 302(c)(2), (3), substituted “(a), (b)(1), or (c)” for “(b), (c)(1), or (d)” and “5119(f)” for “5119(b)”.
 
-    2005—Subsec. (b)(1)(E). [Pub. L. 109–59, § 7122(a)(1)][/us/pl/109/59/s7122/a/1], added subpar. (E) and struck out former subpar. (E) which read as follows: “the design, manufacturing, fabricating, marking, maintenance, reconditioning, repairing, or testing of a packaging or a container represented, marked, certified, or sold as qualified for use in transporting hazardous material.”
+    2005—Subsec. (b)(1)(E). [Pub. L. 109–59][/us/pl/109/59], § 7122(a)(1), added subpar. (E) and struck out former subpar. (E) which read as follows: “the design, manufacturing, fabricating, marking, maintenance, reconditioning, repairing, or testing of a packaging or a container represented, marked, certified, or sold as qualified for use in transporting hazardous material.”
 
-    Subsec. (b)(2). [Pub. L. 109–59, § 7126][/us/pl/109/59/s7126], substituted “If the Secretary” for “If the Secretary of Transportation”.
+    Subsec. (b)(2). [Pub. L. 109–59][/us/pl/109/59], § 7126, substituted “If the Secretary” for “If the Secretary of Transportation”.
 
-    [Pub. L. 109–59, § 7122(a)(2)][/us/pl/109/59/s7122/a/2], substituted “subjects that the Secretary prescribes. The” for “subjects that the Secretary prescribes after November 16, 1990. However, the”.
+    [Pub. L. 109–59][/us/pl/109/59], § 7122(a)(2), substituted “subjects that the Secretary prescribes. The” for “subjects that the Secretary prescribes after November 16, 1990. However, the”.
 
-    Subsec. (d)(1). [Pub. L. 109–59, § 7122(b)][/us/pl/109/59/s7122/b], inserted “or section 5119(e)” before period at end of first sentence.
+    Subsec. (d)(1). [Pub. L. 109–59][/us/pl/109/59], § 7122(b), inserted “or section 5119(e)” before period at end of first sentence.
 
-    Subsec. (e). [Pub. L. 109–59, § 7122(c)][/us/pl/109/59/s7122/c], inserted “or section 5119(b)” before period at end of first sentence.
+    Subsec. (e). [Pub. L. 109–59][/us/pl/109/59], § 7122(c), inserted “or section 5119(b)” before period at end of first sentence.
 
-    Subsec. (f). [Pub. L. 109–59, § 7123(a)][/us/pl/109/59/s7123/a], redesignated subsec. (g) as (f), realigned margins, and struck out heading and text of former subsec. (f). Text read as follows: “A party to a proceeding under subsection (d) or (e) of this section may bring a civil action in an appropriate district court of the United States for judicial review of the decision of the Secretary not later than 60 days after the decision becomes final.”
+    Subsec. (f). [Pub. L. 109–59][/us/pl/109/59], § 7123(a), redesignated subsec. (g) as (f), realigned margins, and struck out heading and text of former subsec. (f). Text read as follows: “A party to a proceeding under subsection (d) or (e) of this section may bring a civil action in an appropriate district court of the United States for judicial review of the decision of the Secretary not later than 60 days after the decision becomes final.”
 
-    Subsec. (g). [Pub. L. 109–59, § 7123(a)(2)][/us/pl/109/59/s7123/a/2], redesignated subsec. (h) as (g). Former subsec. (g) redesignated (f).
+    Subsec. (g). [Pub. L. 109–59][/us/pl/109/59], § 7123(a)(2), redesignated subsec. (h) as (g). Former subsec. (g) redesignated (f).
 
-    Subsecs. (h), (i). [Pub. L. 109–59, § 7123(a)(2)][/us/pl/109/59/s7123/a/2], redesignated subsecs. (h) and (i) as (g) and (h), respectively.
+    Subsecs. (h), (i). [Pub. L. 109–59][/us/pl/109/59], § 7123(a)(2), redesignated subsecs. (h) and (i) as (g) and (h), respectively.
 
-    [Pub. L. 109–59, § 7122(d)][/us/pl/109/59/s7122/d], added subsecs. (h) and (i).
+    [Pub. L. 109–59][/us/pl/109/59], § 7122(d), added subsecs. (h) and (i).
 
     2002—Subsecs. (a), (b)(1). [Pub. L. 107–296][/us/pl/107/296] substituted “chapter, a regulation prescribed under this chapter, or a hazardous materials transportation security regulation or directive issued by the Secretary of Homeland Security” for “chapter or a regulation prescribed under this chapter” wherever appearing.
 
     1994—Subsecs. (a), (b)(1). [Pub. L. 103–429][/us/pl/103/429] inserted “and unless authorized by another law of the United States” after “section” in introductory provisions.
 
-    Subsec. (b)(1)(E). [Pub. L. 103–311, § 117(a)(2)][/us/pl/103/311/s117/a/2], substituted “a packaging or a” for “a package or”.
+    Subsec. (b)(1)(E). [Pub. L. 103–311][/us/pl/103/311], § 117(a)(2), substituted “a packaging or a” for “a package or”.
 
-    Subsec. (d). [Pub. L. 103–311, § 120(b)][/us/pl/103/311/s120/b], inserted after second sentence “The Secretary shall issue a decision on an application for a determination within 180 days after the date of the publication of the notice of having received such application, or the Secretary shall publish a statement in the Federal Register of the reason why the Secretary’s decision on the application is delayed, along with an estimate of the additional time necessary before the decision is made.”
+    Subsec. (d). [Pub. L. 103–311][/us/pl/103/311], § 120(b), inserted after second sentence “The Secretary shall issue a decision on an application for a determination within 180 days after the date of the publication of the notice of having received such application, or the Secretary shall publish a statement in the Federal Register of the reason why the Secretary’s decision on the application is delayed, along with an estimate of the additional time necessary before the decision is made.”
 
-    Subsec. (g). [Pub. L. 103–311, § 107][/us/pl/103/311/s107], designated existing provisions as par. (1) and added par. (2).
+    Subsec. (g). [Pub. L. 103–311][/us/pl/103/311], § 107, designated existing provisions as par. (1) and added par. (2).
 
  __Effective Date of 2012 Amendment__ 
 
@@ -321,44 +321,44 @@ Jan. 3, 1975, Pub. L. 93–633, § 105(a)(4), (5), (b)(4), 88 Stat. 2157; rest
 [/us/usc/t49/s5112/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5112%2Fb
 [/us/usc/t49/s5112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5112
 [/us/usc/t49/s5112/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5112%2Fd
-[/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F781
-[/us/pl/103/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311
+[/us/pl/103/311/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311%2FtI
 [/us/stat/108/1674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1674
-[/us/pl/103/429/s6/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F6
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/stat/108/4378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4378
-[/us/pl/107/296/s1711/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1711%2Fb
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2320
-[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtVII
 [/us/stat/119/1907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1907
-[/us/pl/110/244/s302/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs302%2Fc
+[/us/pl/110/244/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2FtIII
 [/us/stat/122/1618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1618
-[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtIII
 [/us/stat/126/835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F835
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/act/1994-07-05/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1994-07-05%2Fs1
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F781
-[/us/pl/112/141/s33006/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs33006%2Fd
-[/us/pl/112/141/s33013/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs33013%2Fb
-[/us/pl/112/141/s33011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs33011
-[/us/pl/110/244/s302/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs302%2Fc%2F1
-[/us/pl/110/244/s302/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs302%2Fc%2F2
-[/us/pl/110/244/s302/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs302%2Fc%2F2
-[/us/pl/109/59/s7122/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7122%2Fa%2F1
-[/us/pl/109/59/s7126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7126
-[/us/pl/109/59/s7122/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7122%2Fa%2F2
-[/us/pl/109/59/s7122/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7122%2Fb
-[/us/pl/109/59/s7122/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7122%2Fc
-[/us/pl/109/59/s7123/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7123%2Fa
-[/us/pl/109/59/s7123/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7123%2Fa%2F2
-[/us/pl/109/59/s7123/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7123%2Fa%2F2
-[/us/pl/109/59/s7122/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7122%2Fd
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
+[/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
+[/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
-[/us/pl/103/311/s117/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311%2Fs117%2Fa%2F2
-[/us/pl/103/311/s120/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311%2Fs120%2Fb
-[/us/pl/103/311/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311%2Fs107
+[/us/pl/103/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311
+[/us/pl/103/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311
+[/us/pl/103/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101

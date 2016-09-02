@@ -183,17 +183,17 @@
 
         (5) $350,000,000 for fiscal year 2013.
 
-(Added [Pub. L. 110–432, div. B, title V, § 501(d)][/us/pl/110/432/s501/d], Oct. 16, 2008, [122 Stat. 4960][/us/stat/122/4960].)
+(Added [Pub. L. 110–432, div. B, title V][/us/pl/110/432/dB/tV], § 501(d), Oct. 16, 2008, [122 Stat. 4960][/us/stat/122/4960].)
 
  __References in Text__ 
 
-    [Section 104 of title 23][/us/usc/t23/s104], referred to in subsec. (b)(2), was amended generally by [Pub. L. 112–141, div. A, title I, § 1105(a)][/us/pl/112/141/s1105/a], July 6, 2012, [126 Stat. 427][/us/stat/126/427].
+    [Section 104 of title 23][/us/usc/t23/s104], referred to in subsec. (b)(2), was amended generally by [Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1105(a), July 6, 2012, [126 Stat. 427][/us/stat/126/427].
 
-    Section 211 of the Passenger Rail Investment and Improvement Act of 2008, referred to in subsec. (e)(2)(A)(i), is [section 211 of Pub. L. 110–432][/us/pl/110/432/s211], which was set out as a note under [section 24902 of this title][/us/usc/t49/s24902], prior to repeal by [Pub. L. 114–94, div. A, title XI, § 11306(b)(3)][/us/pl/114/94/s11306/b/3], Dec. 4, 2015, [129 Stat. 1660][/us/stat/129/1660].
+    Section 211 of the Passenger Rail Investment and Improvement Act of 2008, referred to in subsec. (e)(2)(A)(i), is [section 211 of Pub. L. 110–432][/us/pl/110/432/s211], which was set out as a note under [section 24902 of this title][/us/usc/t49/s24902], prior to repeal by [Pub. L. 114–94, div. A, title XI][/us/pl/114/94/dA/tXI], § 11306(b)(3), Dec. 4, 2015, [129 Stat. 1660][/us/stat/129/1660].
 
     Section 207 of the Passenger Rail Investment and Improvement Act of 2008, referred to subsec. (e)(2)(B)(i)(I), is [section 207 of Pub. L. 110–432][/us/pl/110/432/s207], which is set out in a note under [section 24101 of this title][/us/usc/t49/s24101].
 
-    [Section 5302 of this title][/us/usc/t49/s5302], referred to in subsec. (e)(2)(C)(i)(VII), was amended generally by [Pub. L. 112–141, div. B, § 20004][/us/pl/112/141/s20004], July 6, 2012, [126 Stat. 623][/us/stat/126/623], and, as so amended, no longer contains a subsec. (a)(1)(G), which described a type of capital project. However, capital project is defined elsewhere in that section.
+    [Section 5302 of this title][/us/usc/t49/s5302], referred to in subsec. (e)(2)(C)(i)(VII), was amended generally by [Pub. L. 112–141, div. B][/us/pl/112/141/dB], § 20004, July 6, 2012, [126 Stat. 623][/us/stat/126/623], and, as so amended, no longer contains a subsec. (a)(1)(G), which described a type of capital project. However, capital project is defined elsewhere in that section.
 
     The date of enactment of the Passenger Rail Investment and Improvement Act of 2008, referred to in subsec. (e)(4), is the date of enactment of [Pub. L. 110–432][/us/pl/110/432], which was approved Oct. 16, 2008.
 
@@ -203,7 +203,7 @@
 
  __Additional High-Speed Rail Projects__ 
 
-[Pub. L. 110–432, div. B, title V, § 502][/us/pl/110/432/s502], Oct. 16, 2008, [122 Stat. 4963][/us/stat/122/4963], provided that:
+[Pub. L. 110–432, div. B, title V][/us/pl/110/432/dB/tV], § 502, Oct. 16, 2008, [122 Stat. 4963][/us/stat/122/4963], provided that:
 
 >     “(a) __Solicitation of Proposals.—__ 
 
@@ -428,26 +428,26 @@
 [/us/usc/t49/s26101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs26101
 [/us/usc/t23/s135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs135
 [/us/usc/t49/s24405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24405
-[/us/pl/110/432/s501/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs501%2Fd
+[/us/pl/110/432/dB/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdB%2FtV
 [/us/stat/122/4960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4960
 [/us/usc/t23/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs104
-[/us/pl/112/141/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1105%2Fa
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F427
 [/us/pl/110/432/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs211
 [/us/usc/t49/s24902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24902
-[/us/pl/114/94/s11306/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11306%2Fb%2F3
+[/us/pl/114/94/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtXI
 [/us/stat/129/1660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1660
 [/us/pl/110/432/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs207
 [/us/usc/t49/s24101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24101
 [/us/usc/t49/s5302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5302
-[/us/pl/112/141/s20004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs20004
+[/us/pl/112/141/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdB
 [/us/stat/126/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F623
 [/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
 [/us/usc/t49/s22506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs22506
 [/us/usc/t49/s22706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs22706
 [/us/usc/t49/s22506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs22506
 [/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
-[/us/pl/110/432/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs502
+[/us/pl/110/432/dB/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdB%2FtV
 [/us/stat/122/4963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4963
 [/us/usc/t49/s24405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24405
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463

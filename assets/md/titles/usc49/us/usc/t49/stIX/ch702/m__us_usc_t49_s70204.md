@@ -17,7 +17,7 @@
 
     Nothing in this subtitle provides additional authority to regulate or direct private activity on freight networks designated under this subtitle.
 
-(Added [Pub. L. 114–94, div. A, title VIII, § 8001(a)][/us/pl/114/94/s8001/a], Dec. 4, 2015, [129 Stat. 1612][/us/stat/129/1612].)
+(Added [Pub. L. 114–94, div. A, title VIII][/us/pl/114/94/dA/tVIII], § 8001(a), Dec. 4, 2015, [129 Stat. 1612][/us/stat/129/1612].)
 
  __Effective Date__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/114/94/s8001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs8001%2Fa
+[/us/pl/114/94/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtVIII
 [/us/stat/129/1612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1612
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313

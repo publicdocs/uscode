@@ -17,7 +17,7 @@
 
     A civil penalty under this chapter may be collected by bringing a civil action against the person subject to the penalty, a civil action in rem against an aircraft subject to a lien for a penalty, or both. The action shall conform as nearly as practicable to a civil action in admiralty, regardless of the place an aircraft in a civil action in rem is seized. However, a party may demand a jury trial of an issue of fact in an action involving a civil penalty under this chapter (except a penalty imposed by the Secretary of Transportation that formerly was imposed by the Civil Aeronautics Board) if the value of the matter in controversy is more than $20. Issues of fact tried by a jury may be reexamined only under common law rules.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1235][/us/stat/108/1235].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1235][/us/stat/108/1235].)
 
 <table>
 
@@ -106,7 +106,7 @@ The text of 49 App.:1473(b)(4) is omitted because of 28:ch. 131. The words “im
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1235
 
 

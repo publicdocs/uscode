@@ -307,15 +307,15 @@
 
  __Amendments__ 
 
-    2012—[Pub. L. 112–95, title III][/us/pl/112/95], §§ 303(c)(2), 306(c), 307(c), 308(b), 309(b), 310(b), Feb. 14, 2012, [126 Stat. 58][/us/stat/126/58], 61, 62, 64, 65, substituted “Type certificates, production certificates, airworthiness certificates, and design and production organization certificates” for “Type certificates, production certificates, airworthiness certificates, and design organization certificates” in item 44704 and added items 44730 to 44735.
+    2012—[Pub. L. 112–95, title III][/us/pl/112/95/tIII], §§ 303(c)(2), 306(c), 307(c), 308(b), 309(b), 310(b), Feb. 14, 2012, [126 Stat. 58][/us/stat/126/58], 61, 62, 64, 65, substituted “Type certificates, production certificates, airworthiness certificates, and design and production organization certificates” for “Type certificates, production certificates, airworthiness certificates, and design organization certificates” in item 44704 and added items 44730 to 44735.
 
-    2007—[Pub. L. 110–135, § 2(b)][/us/pl/110/135/s2/b], Dec. 13, 2007, [121 Stat. 1452][/us/stat/121/1452], added item 44729.
+    2007—[Pub. L. 110–135][/us/pl/110/135], § 2(b), Dec. 13, 2007, [121 Stat. 1452][/us/stat/121/1452], added item 44729.
 
-    2003—[Pub. L. 108–176, title II, § 227(e)(2)][/us/pl/108/176/s227/e/2], title V, § 502(b), title VIII, § 814(b), Dec. 12, 2003, [117 Stat. 2532][/us/stat/117/2532], 2557, 2592, substituted “Type certificates, production certificates, airworthiness certificates, and design organization certificates” for “Type certificates, production certificates, and airworthiness certificates” in item 44704 and added items 44727 and 44728.
+    2003—[Pub. L. 108–176, title II][/us/pl/108/176/tII], § 227(e)(2), title V, § 502(b), title VIII, § 814(b), Dec. 12, 2003, [117 Stat. 2532][/us/stat/117/2532], 2557, 2592, substituted “Type certificates, production certificates, airworthiness certificates, and design organization certificates” for “Type certificates, production certificates, and airworthiness certificates” in item 44704 and added items 44727 and 44728.
 
-    2000—[Pub. L. 106–181, title V][/us/pl/106/181], §§ 504(c), 505(a)(2), title VI, § 603(b), Apr. 5, 2000, [114 Stat. 134][/us/stat/114/134], 136, 152, substituted “Aeronautical charts and related products and services” for “Aeronautical maps and charts” in item 44721 and added items 44725 and 44726.
+    2000—[Pub. L. 106–181, title V][/us/pl/106/181/tV], §§ 504(c), 505(a)(2), title VI, § 603(b), Apr. 5, 2000, [114 Stat. 134][/us/stat/114/134], 136, 152, substituted “Aeronautical charts and related products and services” for “Aeronautical maps and charts” in item 44721 and added items 44725 and 44726.
 
-    1996—[Pub. L. 104–264, title VI, § 602(a)(2)][/us/pl/104/264/s602/a/2], Oct. 9, 1996, [110 Stat. 3264][/us/stat/110/3264], added item 44724.
+    1996—[Pub. L. 104–264, title VI][/us/pl/104/264/tVI], § 602(a)(2), Oct. 9, 1996, [110 Stat. 3264][/us/stat/110/3264], added item 44724.
 
 ----------
 
@@ -324,15 +324,15 @@
 ----------
 ----------
 
-[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtIII
 [/us/stat/126/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F58
-[/us/pl/110/135/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F135%2Fs2%2Fb
+[/us/pl/110/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F135
 [/us/stat/121/1452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1452
-[/us/pl/108/176/s227/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs227%2Fe%2F2
+[/us/pl/108/176/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtII
 [/us/stat/117/2532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2532
-[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/106/181/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtV
 [/us/stat/114/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F134
-[/us/pl/104/264/s602/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs602%2Fa%2F2
+[/us/pl/104/264/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2FtVI
 [/us/stat/110/3264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3264
 
 

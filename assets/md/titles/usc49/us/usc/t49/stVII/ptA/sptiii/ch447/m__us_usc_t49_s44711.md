@@ -67,7 +67,7 @@
 
         For purposes of paragraph (1), an individual shall be considered to be acting as an agent or representative of a certificate holder in a matter before the Administration if the individual makes any written or oral communication on behalf of the certificate holder to the Administration (or any of its officers or employees) in connection with a particular matter, whether or not involving a specific party and without regard to whether the individual has participated in, or had responsibility for, the particular matter while serving as a flight standards inspector of the Administration.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1193][/us/stat/108/1193]; [Pub. L. 103–429, § 6(56)][/us/pl/103/429/s6/56], Oct. 31, 1994, [108 Stat. 4385][/us/stat/108/4385]; [Pub. L. 106–181, title V, § 505(b)][/us/pl/106/181/s505/b], Apr. 5, 2000, [114 Stat. 136][/us/stat/114/136]; [Pub. L. 108–176, title II, § 227(d)][/us/pl/108/176/s227/d], Dec. 12, 2003, [117 Stat. 2532][/us/stat/117/2532]; [Pub. L. 112–95, title III][/us/pl/112/95], §§ 307(b), 342(a), Feb. 14, 2012, [126 Stat. 61][/us/stat/126/61], 79.)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1193][/us/stat/108/1193]; [Pub. L. 103–429][/us/pl/103/429], § 6(56), Oct. 31, 1994, [108 Stat. 4385][/us/stat/108/4385]; [Pub. L. 106–181, title V][/us/pl/106/181/tV], § 505(b), Apr. 5, 2000, [114 Stat. 136][/us/stat/114/136]; [Pub. L. 108–176, title II][/us/pl/108/176/tII], § 227(d), Dec. 12, 2003, [117 Stat. 2532][/us/stat/117/2532]; [Pub. L. 112–95, title III][/us/pl/112/95/tIII], §§ 307(b), 342(a), Feb. 14, 2012, [126 Stat. 61][/us/stat/126/61], 79.)
 
 <table>
 
@@ -299,9 +299,9 @@ In subsection (b), the word “Administrator” in section 610(b) of the Federal
 
  __Amendments__ 
 
-    2012—Subsec. (a)(10). [Pub. L. 112–95, § 307(b)][/us/pl/112/95/s307/b], added par. (10).
+    2012—Subsec. (a)(10). [Pub. L. 112–95][/us/pl/112/95], § 307(b), added par. (10).
 
-    Subsec. (d). [Pub. L. 112–95, § 342(a)][/us/pl/112/95/s342/a], added subsec. (d).
+    Subsec. (d). [Pub. L. 112–95][/us/pl/112/95], § 342(a), added subsec. (d).
 
     2003—Subsec. (a)(7). [Pub. L. 108–176][/us/pl/108/176] substituted “agency, design organization certificate,” for “agency”.
 
@@ -311,7 +311,7 @@ In subsection (b), the word “Administrator” in section 610(b) of the Federal
 
  __Effective Date of 2012 Amendment__ 
 
-[Pub. L. 112–95, title III, § 342(b)][/us/pl/112/95/s342/b], Feb. 14, 2012, [126 Stat. 80][/us/stat/126/80], provided that: 
+[Pub. L. 112–95, title III][/us/pl/112/95/tIII], § 342(b), Feb. 14, 2012, [126 Stat. 80][/us/stat/126/80], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall not apply to an individual employed by a certificate holder as of the date of enactment of this Act \[Feb. 14, 2012\].”
 
@@ -337,15 +337,15 @@ In subsection (b), the word “Administrator” in section 610(b) of the Federal
 [/us/usc/t33/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1602
 [/us/usc/t49/s44706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44706
 [/us/usc/t49/s44714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44714
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1193
-[/us/pl/103/429/s6/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F56
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/stat/108/4385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4385
-[/us/pl/106/181/s505/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs505%2Fb
+[/us/pl/106/181/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtV
 [/us/stat/114/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F136
-[/us/pl/108/176/s227/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs227%2Fd
+[/us/pl/108/176/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtII
 [/us/stat/117/2532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2532
-[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtIII
 [/us/stat/126/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F61
 [/us/usc/t33/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1602
 [/us/usc/t33/s143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs143
@@ -358,12 +358,12 @@ In subsection (b), the word “Administrator” in section 610(b) of the Federal
 [/us/pl/85/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F726
 [/us/stat/72/780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F780
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
-[/us/pl/112/95/s307/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs307%2Fb
-[/us/pl/112/95/s342/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs342%2Fa
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
 [/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
 [/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
-[/us/pl/112/95/s342/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs342%2Fb
+[/us/pl/112/95/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtIII
 [/us/stat/126/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F80
 [/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
 [/us/pl/108/176/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs3

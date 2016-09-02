@@ -41,7 +41,7 @@
 
         (2) after September 30, 1999, the air carrier submits an air service termination notice under section 41719 for that route and the Secretary determines that the carrier suffered excessive losses, including substantial losses on operations on that route during any three quarters of the year immediately preceding the date of submission of the notice.
 
-(Added [Pub. L. 106–181, title II, § 231(c)][/us/pl/106/181/s231/c], Apr. 5, 2000, [114 Stat. 109][/us/stat/114/109]; amended [Pub. L. 108–447, div. H, title I, § 199][/us/pl/108/447/s199], Dec. 8, 2004, [118 Stat. 3235][/us/stat/118/3235].)
+(Added [Pub. L. 106–181, title II][/us/pl/106/181/tII], § 231(c), Apr. 5, 2000, [114 Stat. 109][/us/stat/114/109]; amended [Pub. L. 108–447, div. H, title I][/us/pl/108/447/dH/tI], § 199, Dec. 8, 2004, [118 Stat. 3235][/us/stat/118/3235].)
 
  __References in Text__ 
 
@@ -66,9 +66,9 @@
 ----------
 ----------
 
-[/us/pl/106/181/s231/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs231%2Fc
+[/us/pl/106/181/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtII
 [/us/stat/114/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F109
-[/us/pl/108/447/s199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs199
+[/us/pl/108/447/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdH%2FtI
 [/us/stat/118/3235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3235
 [/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/usc/t49/s41720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs41720

@@ -57,7 +57,7 @@
 
     An operator of an aircraft shall make available for inspection a certificate of registration for the aircraft when requested by a United States Government, State, or local law enforcement officer.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1162][/us/stat/108/1162].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1162][/us/stat/108/1162].)
 
 <table>
 
@@ -203,7 +203,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 501(g); added Oct. 27, 1986,
 
  __Aircraft Situational Display Data__ 
 
-[Pub. L. 106–181, title VII, § 729][/us/pl/106/181/s729], Apr. 5, 2000, [114 Stat. 168][/us/stat/114/168], provided that:
+[Pub. L. 106–181, title VII][/us/pl/106/181/tVII], § 729, Apr. 5, 2000, [114 Stat. 168][/us/stat/114/168], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -229,11 +229,11 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 501(g); added Oct. 27, 1986,
 [/us/usc/t49/s44106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44106
 [/us/usc/t49/s44106/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44106%2Fe%2F2
 [/us/usc/t49/s44102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44102
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1162
 [/us/usc/t49/s44102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44102
 [/us/usc/t49/s44102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44102
-[/us/pl/106/181/s729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs729
+[/us/pl/106/181/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtVII
 [/us/stat/114/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F168
 
 

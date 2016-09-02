@@ -35,7 +35,7 @@
 
     If the Administrator of the Federal Aviation Administration and the Administrator of the National Aeronautics and Space Administration determine that additional research and development is necessary and would substantially contribute to the development of quiet aircraft technology, then the agencies shall conduct an appropriate research program in consultation with the entities listed in subsection (c) to develop safe, effective, and economical noise reduction technology (including technology that can be applied to existing propeller driven aircraft and rotorcraft) that would result in aircraft that operate at substantially reduced levels of noise to reduce the impact of such aircraft and rotorcraft on the resources of national parks and other areas.
 
-(Added [Pub. L. 103–305, title III, § 308(a)][/us/pl/103/305/s308/a], Aug. 23, 1994, [108 Stat. 1593][/us/stat/108/1593]; amended [Pub. L. 104–287, § 5(86)][/us/pl/104/287/s5/86], Oct. 11, 1996, [110 Stat. 3398][/us/stat/110/3398].)
+(Added [Pub. L. 103–305, title III][/us/pl/103/305/tIII], § 308(a), Aug. 23, 1994, [108 Stat. 1593][/us/stat/108/1593]; amended [Pub. L. 104–287][/us/pl/104/287], § 5(86), Oct. 11, 1996, [110 Stat. 3398][/us/stat/110/3398].)
 
  __Amendments__ 
 
@@ -48,9 +48,9 @@
 ----------
 ----------
 
-[/us/pl/103/305/s308/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2Fs308%2Fa
+[/us/pl/103/305/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2FtIII
 [/us/stat/108/1593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1593
-[/us/pl/104/287/s5/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F86
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3398
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 

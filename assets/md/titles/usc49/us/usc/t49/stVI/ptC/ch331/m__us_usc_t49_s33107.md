@@ -31,7 +31,7 @@
 
     Compliance with the standard under this section does not relieve a manufacturer from a requirement of a standard prescribed under section 33102 or 33103 of this title.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1083][/us/stat/108/1083].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1083][/us/stat/108/1083].)
 
 <table>
 
@@ -87,7 +87,7 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, § 616; added Oct. 25, 1984, Pu
 ----------
 
 [/us/usc/t18/s511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs511
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1083
 
 

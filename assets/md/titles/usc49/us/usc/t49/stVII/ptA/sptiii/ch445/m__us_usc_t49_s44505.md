@@ -89,7 +89,7 @@
 
     The Administrator may enter into cooperative agreements on a cost-shared basis with Federal and non-Federal entities that the Administrator may select in order to conduct, encourage, and promote aviation research, engineering, and development, including the development of prototypes and demonstration models.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1177][/us/stat/108/1177]; [Pub. L. 103–305, title III, § 307][/us/pl/103/305/s307], Aug. 23, 1994, [108 Stat. 1593][/us/stat/108/1593]; [Pub. L. 112–95, title IX][/us/pl/112/95], §§ 903(b), 905, Feb. 14, 2012, [126 Stat. 138][/us/stat/126/138], 139.)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1177][/us/stat/108/1177]; [Pub. L. 103–305, title III][/us/pl/103/305/tIII], § 307, Aug. 23, 1994, [108 Stat. 1593][/us/stat/108/1593]; [Pub. L. 112–95, title IX][/us/pl/112/95/tIX], §§ 903(b), 905, Feb. 14, 2012, [126 Stat. 138][/us/stat/126/138], 139.)
 
 <table>
 
@@ -253,15 +253,15 @@ In this section, the word “Administrator” in section 312(c) of the Federal A
 
  __Amendments__ 
 
-    2012—Subsec. (b)(6), (7). [Pub. L. 112–95, § 903(b)][/us/pl/112/95/s903/b], added pars. (6) and (7).
+    2012—Subsec. (b)(6), (7). [Pub. L. 112–95][/us/pl/112/95], § 903(b), added pars. (6) and (7).
 
-    Subsecs. (d), (e). [Pub. L. 112–95, § 905][/us/pl/112/95/s905], added subsec. (d) and redesignated former subsec. (d) as (e).
+    Subsecs. (d), (e). [Pub. L. 112–95][/us/pl/112/95], § 905, added subsec. (d) and redesignated former subsec. (d) as (e).
 
     1994—Subsec. (d). [Pub. L. 103–305][/us/pl/103/305] added subsec. (d).
 
  __Aircraft Departure Queue Management Pilot Program__ 
 
-[Pub. L. 112–95, title V, § 507][/us/pl/112/95/s507], Feb. 14, 2012, [126 Stat. 106][/us/stat/126/106], provided that:
+[Pub. L. 112–95, title V][/us/pl/112/95/tV], § 507, Feb. 14, 2012, [126 Stat. 106][/us/stat/126/106], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -277,7 +277,7 @@ In this section, the word “Administrator” in section 312(c) of the Federal A
 
  __Research Program on Runways__ 
 
-[Pub. L. 112–95, title IX, § 904][/us/pl/112/95/s904], Feb. 14, 2012, [126 Stat. 139][/us/stat/126/139], provided that: 
+[Pub. L. 112–95, title IX][/us/pl/112/95/tIX], § 904, Feb. 14, 2012, [126 Stat. 139][/us/stat/126/139], provided that: 
 
 > “Using amounts made available under [section 48102(a) of title 49][/us/usc/t49/s48102/a], United States Code, the Administrator \[of the Federal Aviation Administration\] shall continue to carry out a research program under which the Administrator may make grants to and enter into cooperative agreements with institutions of higher education and pavement research organizations for research and technology demonstrations related to—
 
@@ -287,7 +287,7 @@ In this section, the word “Administrator” in section 312(c) of the Federal A
 
  __Wake Turbulence, Volcanic Ash, and Weather Research__ 
 
-[Pub. L. 112–95, title IX, § 915][/us/pl/112/95/s915], Feb. 14, 2012, [126 Stat. 144][/us/stat/126/144], provided that: 
+[Pub. L. 112–95, title IX][/us/pl/112/95/tIX], § 915, Feb. 14, 2012, [126 Stat. 144][/us/stat/126/144], provided that: 
 
 > “Not later than 60 days after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator \[of the Federal Aviation Administration\] shall—
 
@@ -309,11 +309,11 @@ In this section, the word “Administrator” in section 312(c) of the Federal A
 
  __Assessment of Wake Turbulence Research and Development Program__ 
 
-    [Pub. L. 108–176, title V, § 505][/us/pl/108/176/s505], Dec. 12, 2003, [117 Stat. 2559][/us/stat/117/2559], required the Administrator of the Federal Aviation Administration to enter into an arrangement with the National Research Council for an assessment of the Federal Aviation Administration’s proposed wake turbulence research and development program and required that a report on the assessment be provided to Committees of Congress not later than 1 year after Dec. 12, 2003.
+    [Pub. L. 108–176, title V][/us/pl/108/176/tV], § 505, Dec. 12, 2003, [117 Stat. 2559][/us/stat/117/2559], required the Administrator of the Federal Aviation Administration to enter into an arrangement with the National Research Council for an assessment of the Federal Aviation Administration’s proposed wake turbulence research and development program and required that a report on the assessment be provided to Committees of Congress not later than 1 year after Dec. 12, 2003.
 
  __Ensuring Appropriate Standards for Airfield Pavements__ 
 
-[Pub. L. 108–176, title VII, § 705][/us/pl/108/176/s705], Dec. 12, 2003, [117 Stat. 2581][/us/stat/117/2581], provided that:
+[Pub. L. 108–176, title VII][/us/pl/108/176/tVII], § 705, Dec. 12, 2003, [117 Stat. 2581][/us/stat/117/2581], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -325,7 +325,7 @@ In this section, the word “Administrator” in section 312(c) of the Federal A
 
  __Use of Recycled Materials__ 
 
-[Pub. L. 106–181, title I, § 157][/us/pl/106/181/s157], Apr. 5, 2000, [114 Stat. 89][/us/stat/114/89], provided that:
+[Pub. L. 106–181, title I][/us/pl/106/181/tI], § 157, Apr. 5, 2000, [114 Stat. 89][/us/stat/114/89], provided that:
 
 >     “(a)  __Study__  __.—__ 
 
@@ -345,7 +345,7 @@ In this section, the word “Administrator” in section 312(c) of the Federal A
 
  __Airfield Pavement Conditions__ 
 
-[Pub. L. 106–181, title I, § 160][/us/pl/106/181/s160], Apr. 5, 2000, [114 Stat. 90][/us/stat/114/90], provided that:
+[Pub. L. 106–181, title I][/us/pl/106/181/tI], § 160, Apr. 5, 2000, [114 Stat. 90][/us/stat/114/90], provided that:
 
 >     “(a)  __Evaluation of Options__  __.—__ 
 
@@ -363,7 +363,7 @@ In this section, the word “Administrator” in section 312(c) of the Federal A
 
  __Pilot Program To Permit Cost-Sharing of Air Traffic Modernization Projects__ 
 
-[Pub. L. 106–181, title III, § 304][/us/pl/106/181/s304], Apr. 5, 2000, [114 Stat. 122][/us/stat/114/122], provided that:
+[Pub. L. 106–181, title III][/us/pl/106/181/tIII], § 304, Apr. 5, 2000, [114 Stat. 122][/us/stat/114/122], provided that:
 
 >     “(a)  __Purpose__  __.—__ 
 
@@ -413,7 +413,7 @@ In this section, the word “Administrator” in section 312(c) of the Federal A
 
  __Aircraft Dispatchers__ 
 
-[Pub. L. 106–181, title V, § 516][/us/pl/106/181/s516], Apr. 5, 2000, [114 Stat. 145][/us/stat/114/145], provided that:
+[Pub. L. 106–181, title V][/us/pl/106/181/tV], § 516, Apr. 5, 2000, [114 Stat. 145][/us/stat/114/145], provided that:
 
 >     “(a)  __Study__  __.—__ 
 
@@ -429,7 +429,7 @@ In this section, the word “Administrator” in section 312(c) of the Federal A
 
  __Occupational Injuries of Airport Workers__ 
 
-[Pub. L. 106–181, title V, § 520][/us/pl/106/181/s520], Apr. 5, 2000, [114 Stat. 149][/us/stat/114/149], provided that:
+[Pub. L. 106–181, title V][/us/pl/106/181/tV], § 520, Apr. 5, 2000, [114 Stat. 149][/us/stat/114/149], provided that:
 
 >     “(a)  __Study__  __.—__ 
 
@@ -441,7 +441,7 @@ In this section, the word “Administrator” in section 312(c) of the Federal A
 
  __Alkali Silica Reactivity Distress__ 
 
-[Pub. L. 106–181, title VII, § 743][/us/pl/106/181/s743], Apr. 5, 2000, [114 Stat. 175][/us/stat/114/175], provided that:
+[Pub. L. 106–181, title VII][/us/pl/106/181/tVII], § 743, Apr. 5, 2000, [114 Stat. 175][/us/stat/114/175], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -457,7 +457,7 @@ In this section, the word “Administrator” in section 312(c) of the Federal A
 
  __Research Program To Improve Airfield Pavements__ 
 
-[Pub. L. 108–176, title VII, § 704][/us/pl/108/176/s704], Dec. 12, 2003, [117 Stat. 2581][/us/stat/117/2581], provided that:
+[Pub. L. 108–176, title VII][/us/pl/108/176/tVII], § 704, Dec. 12, 2003, [117 Stat. 2581][/us/stat/117/2581], provided that:
 
 >     “(a)  __Continuation of Program__  __.—__ 
 
@@ -471,7 +471,7 @@ In this section, the word “Administrator” in section 312(c) of the Federal A
 
 >     Nothing in this section requires the Administrator to prioritize an airfield pavement research program above safety, security, Flight 21, environment, or energy research programs.”
 
-[Pub. L. 106–181, title IX, § 905][/us/pl/106/181/s905], Apr. 5, 2000, [114 Stat. 196][/us/stat/114/196], provided that: 
+[Pub. L. 106–181, title IX][/us/pl/106/181/tIX], § 905, Apr. 5, 2000, [114 Stat. 196][/us/stat/114/196], provided that: 
 
 > “The Administrator \[of the Federal Aviation Administration\] shall consider awards to nonprofit concrete pavement research foundations to improve the design, construction, rehabilitation, and repair of rigid concrete airfield pavements to aid in the development of safer, more cost-effective, and durable airfield pavements. The Administrator may use a grant or cooperative agreement for this purpose. Nothing in this section shall require the Administrator to prioritize an airfield pavement research program above safety, security, Flight 21, environment, or energy research programs.”
 
@@ -482,48 +482,48 @@ In this section, the word “Administrator” in section 312(c) of the Federal A
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1177
-[/us/pl/103/305/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2Fs307
+[/us/pl/103/305/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2FtIII
 [/us/stat/108/1593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1593
-[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtIX
 [/us/stat/126/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F138
 [/us/pl/85/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F726
 [/us/stat/72/752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F752
 [/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
-[/us/pl/112/95/s903/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs903%2Fb
-[/us/pl/112/95/s905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs905
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
 [/us/pl/103/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305
-[/us/pl/112/95/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs507
+[/us/pl/112/95/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtV
 [/us/stat/126/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F106
 [/us/usc/t49/s48101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs48101%2Fa
-[/us/pl/112/95/s904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs904
+[/us/pl/112/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtIX
 [/us/stat/126/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F139
 [/us/usc/t49/s48102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs48102%2Fa
-[/us/pl/112/95/s915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs915
+[/us/pl/112/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtIX
 [/us/stat/126/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F144
-[/us/pl/108/176/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs505
+[/us/pl/108/176/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtV
 [/us/stat/117/2559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2559
-[/us/pl/108/176/s705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs705
+[/us/pl/108/176/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtVII
 [/us/stat/117/2581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2581
-[/us/pl/106/181/s157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs157
+[/us/pl/106/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtI
 [/us/stat/114/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F89
 [/us/usc/t49/s106/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106%2Fk
-[/us/pl/106/181/s160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs160
+[/us/pl/106/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtI
 [/us/stat/114/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F90
-[/us/pl/106/181/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs304
+[/us/pl/106/181/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtIII
 [/us/stat/114/122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F122
 [/us/usc/t49/s40117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40117
 [/us/usc/t49/s48101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs48101%2Fa
-[/us/pl/106/181/s516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs516
+[/us/pl/106/181/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtV
 [/us/stat/114/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F145
-[/us/pl/106/181/s520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs520
+[/us/pl/106/181/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtV
 [/us/stat/114/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F149
-[/us/pl/106/181/s743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs743
+[/us/pl/106/181/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtVII
 [/us/stat/114/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F175
-[/us/pl/108/176/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs704
+[/us/pl/108/176/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtVII
 [/us/stat/117/2581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2581
-[/us/pl/106/181/s905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs905
+[/us/pl/106/181/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtIX
 [/us/stat/114/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F196
 
 

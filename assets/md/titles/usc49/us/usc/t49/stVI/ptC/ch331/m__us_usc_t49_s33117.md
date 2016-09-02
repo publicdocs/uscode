@@ -17,7 +17,7 @@
 
     A person that may be adversely affected by a regulation prescribed under this chapter may obtain judicial review of the regulation under [section 32909 of this title][/us/usc/t49/s32909]. A remedy under this section is in addition to any other remedies provided by law.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1093][/us/stat/108/1093].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1093][/us/stat/108/1093].)
 
 <table>
 
@@ -75,7 +75,7 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, § 613; added Oct. 25, 1984, Pu
 ----------
 
 [/us/usc/t49/s32909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs32909
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1093
 
 

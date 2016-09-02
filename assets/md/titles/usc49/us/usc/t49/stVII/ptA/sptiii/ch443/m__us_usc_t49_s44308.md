@@ -49,7 +49,7 @@
 
     The Secretary shall maintain a set of accounts for audit under chapter 35 of title 31. Notwithstanding chapter 35, the Comptroller General shall allow credit for expenditures under this chapter made consistent with commercial practices in the aviation insurance business when shown to be necessary because of the business activities authorized by this chapter.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1171][/us/stat/108/1171]; [Pub. L. 104–316, title I, § 127(e)][/us/pl/104/316/s127/e], Oct. 19, 1996, [110 Stat. 3840][/us/stat/110/3840]; [Pub. L. 105–137, § 4][/us/pl/105/137/s4], Dec. 2, 1997, [111 Stat. 2640][/us/stat/111/2640]; [Pub. L. 112–95, title VII, § 704][/us/pl/112/95/s704], Feb. 14, 2012, [126 Stat. 118][/us/stat/126/118].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1171][/us/stat/108/1171]; [Pub. L. 104–316, title I][/us/pl/104/316/tI], § 127(e), Oct. 19, 1996, [110 Stat. 3840][/us/stat/110/3840]; [Pub. L. 105–137][/us/pl/105/137], § 4, Dec. 2, 1997, [111 Stat. 2640][/us/stat/111/2640]; [Pub. L. 112–95, title VII][/us/pl/112/95/tVII], § 704, Feb. 14, 2012, [126 Stat. 118][/us/stat/126/118].)
 
 <table>
 
@@ -233,9 +233,9 @@ Aug. 23, 1958, Pub. L. 85–726, § 1307(f), 72 Stat. 804; Jan. 2, 1975, Pub. 
 
     2012—Subsec. (c)(1). [Pub. L. 112–95][/us/pl/112/95] substituted “agent, or a claims adjuster who is independent of the underwriting agent,” for “agent” in second sentence.
 
-    1997—Subsec. (b)(1). [Pub. L. 105–137, § 4(a)][/us/pl/105/137/s4/a], inserted after second sentence “Any such policy may authorize the binding arbitration of claims made thereunder in such manner as may be agreed to by the Secretary and any commercial insurer that may be responsible for any part of a loss to which such policy relates.”
+    1997—Subsec. (b)(1). [Pub. L. 105–137][/us/pl/105/137], § 4(a), inserted after second sentence “Any such policy may authorize the binding arbitration of claims made thereunder in such manner as may be agreed to by the Secretary and any commercial insurer that may be responsible for any part of a loss to which such policy relates.”
 
-    Subsec. (b)(2). [Pub. L. 105–137, § 4(b)][/us/pl/105/137/s4/b], struck out “and” at end of subpar. (A), added subpar. (B), and redesignated former subpar. (B) as (C).
+    Subsec. (b)(2). [Pub. L. 105–137][/us/pl/105/137], § 4(b), struck out “and” at end of subpar. (A), added subpar. (B), and redesignated former subpar. (B) as (C).
 
     1996—Subsec. (e). [Pub. L. 104–316][/us/pl/104/316] substituted “for audit” for “. The Comptroller General shall audit those accounts”.
 
@@ -246,13 +246,13 @@ Aug. 23, 1958, Pub. L. 85–726, § 1307(f), 72 Stat. 804; Jan. 2, 1975, Pub. 
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1171
-[/us/pl/104/316/s127/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs127%2Fe
+[/us/pl/104/316/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2FtI
 [/us/stat/110/3840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3840
-[/us/pl/105/137/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F137%2Fs4
+[/us/pl/105/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F137
 [/us/stat/111/2640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2640
-[/us/pl/112/95/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs704
+[/us/pl/112/95/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtVII
 [/us/stat/126/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F118
 [/us/stat/59/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F597
 [/us/usc/t31/s841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs841
@@ -269,8 +269,8 @@ Aug. 23, 1958, Pub. L. 85–726, § 1307(f), 72 Stat. 804; Jan. 2, 1975, Pub. 
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
 [/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
-[/us/pl/105/137/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F137%2Fs4%2Fa
-[/us/pl/105/137/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F137%2Fs4%2Fb
+[/us/pl/105/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F137
+[/us/pl/105/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F137
 [/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316
 
 

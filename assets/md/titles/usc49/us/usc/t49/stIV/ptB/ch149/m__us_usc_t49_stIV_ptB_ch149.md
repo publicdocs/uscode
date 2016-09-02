@@ -155,9 +155,9 @@
 
  __Amendments__ 
 
-    2012—[Pub. L. 112–141, div. C, title II, § 32919(b)][/us/pl/112/141/s32919/b], July 6, 2012, [126 Stat. 827][/us/stat/126/827], added item 14916.
+    2012—[Pub. L. 112–141, div. C, title II][/us/pl/112/141/dC/tII], § 32919(b), July 6, 2012, [126 Stat. 827][/us/stat/126/827], added item 14916.
 
-    2005—[Pub. L. 109–59, title IV, § 4210(b)][/us/pl/109/59/s4210/b], Aug. 10, 2005, [119 Stat. 1759][/us/stat/119/1759], added item 14915.
+    2005—[Pub. L. 109–59, title IV][/us/pl/109/59/tIV], § 4210(b), Aug. 10, 2005, [119 Stat. 1759][/us/stat/119/1759], added item 14915.
 
 ----------
 
@@ -166,9 +166,9 @@
 ----------
 ----------
 
-[/us/pl/112/141/s32919/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32919%2Fb
+[/us/pl/112/141/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtII
 [/us/stat/126/827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F827
-[/us/pl/109/59/s4210/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4210%2Fb
+[/us/pl/109/59/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIV
 [/us/stat/119/1759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1759
 
 

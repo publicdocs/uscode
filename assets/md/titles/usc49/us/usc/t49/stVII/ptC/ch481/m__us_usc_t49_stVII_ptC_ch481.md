@@ -139,11 +139,11 @@
 
  __Amendments__ 
 
-    2003—[Pub. L. 108–176, title I, § 104(b)][/us/pl/108/176/s104/b], Dec. 12, 2003, [117 Stat. 2497][/us/stat/117/2497], added item 48114.
+    2003—[Pub. L. 108–176, title I][/us/pl/108/176/tI], § 104(b), Dec. 12, 2003, [117 Stat. 2497][/us/stat/117/2497], added item 48114.
 
-    2000—[Pub. L. 106–181, title I][/us/pl/106/181], §§ 107(b), 108(b), Apr. 5, 2000, [114 Stat. 73][/us/stat/114/73], 74, added items 48112 and 48113.
+    2000—[Pub. L. 106–181, title I][/us/pl/106/181/tI], §§ 107(b), 108(b), Apr. 5, 2000, [114 Stat. 73][/us/stat/114/73], 74, added items 48112 and 48113.
 
-    1996—[Pub. L. 104–264, title I][/us/pl/104/264], §§ 102(b)(2), 103(d)(2), title II, § 275(b), Oct. 9, 1996, [110 Stat. 3216][/us/stat/110/3216], 3217, 3247, inserted “and equipment” after “facilities” in item 48101, substituted “Operations and maintenance” for “Certain direct costs and joint air navigation services” in item 48104, and added item 48111.
+    1996—[Pub. L. 104–264, title I][/us/pl/104/264/tI], §§ 102(b)(2), 103(d)(2), title II, § 275(b), Oct. 9, 1996, [110 Stat. 3216][/us/stat/110/3216], 3217, 3247, inserted “and equipment” after “facilities” in item 48101, substituted “Operations and maintenance” for “Certain direct costs and joint air navigation services” in item 48104, and added item 48111.
 
 ----------
 
@@ -152,11 +152,11 @@
 ----------
 ----------
 
-[/us/pl/108/176/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs104%2Fb
+[/us/pl/108/176/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtI
 [/us/stat/117/2497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2497
-[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/106/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtI
 [/us/stat/114/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F73
-[/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
+[/us/pl/104/264/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2FtI
 [/us/stat/110/3216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3216
 
 

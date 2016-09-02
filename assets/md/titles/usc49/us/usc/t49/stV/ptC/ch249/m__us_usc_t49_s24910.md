@@ -83,7 +83,7 @@
 
     There are authorized to be appropriated to the Secretary of Transportation $5,000,000 for each of fiscal years 2010 through 2013 for carrying out this section.
 
-(Added [Pub. L. 110–432, div. B, title III, § 306(a)][/us/pl/110/432/s306/a], Oct. 16, 2008, [122 Stat. 4952][/us/stat/122/4952]; amended [Pub. L. 114–94, div. A, title XI, § 11316][/us/pl/114/94/s11316](o), Dec. 4, 2015, [129 Stat. 1679][/us/stat/129/1679].)
+(Added [Pub. L. 110–432, div. B, title III][/us/pl/110/432/dB/tIII], § 306(a), Oct. 16, 2008, [122 Stat. 4952][/us/stat/122/4952]; amended [Pub. L. 114–94, div. A, title XI][/us/pl/114/94/dA/tXI], § 11316(o), Dec. 4, 2015, [129 Stat. 1679][/us/stat/129/1679].)
 
  __Amendments__ 
 
@@ -100,9 +100,9 @@
 ----------
 ----------
 
-[/us/pl/110/432/s306/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs306%2Fa
+[/us/pl/110/432/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdB%2FtIII
 [/us/stat/122/4952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4952
-[/us/pl/114/94/s11316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11316
+[/us/pl/114/94/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtXI
 [/us/stat/129/1679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1679
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94

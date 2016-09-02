@@ -31,11 +31,11 @@
 
     In this section, the term “personal wireless communications device” means a device through which personal wireless services (as defined in section 332(c)(7)(C)(i) of the Communications Act of 1934 ([47 U.S.C. 332(c)(7)(C)(i)][/us/usc/t47/s332/c/7/C/i])) are transmitted.
 
-(Added [Pub. L. 112–95, title III, § 307(a)][/us/pl/112/95/s307/a], Feb. 14, 2012, [126 Stat. 61][/us/stat/126/61].)
+(Added [Pub. L. 112–95, title III][/us/pl/112/95/tIII], § 307(a), Feb. 14, 2012, [126 Stat. 61][/us/stat/126/61].)
 
  __Regulations__ 
 
-[Pub. L. 112–95, title III, § 307(d)][/us/pl/112/95/s307/d], Feb. 14, 2012, [126 Stat. 62][/us/stat/126/62], provided that: 
+[Pub. L. 112–95, title III][/us/pl/112/95/tIII], § 307(d), Feb. 14, 2012, [126 Stat. 62][/us/stat/126/62], provided that: 
 
 > “Not later than 90 days after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator of the Federal Aviation Administration shall initiate a rulemaking procedure for regulations to carry out [section 44732 of title 49][/us/usc/t49/s44732], United States Code (as added by this section), and shall issue a final rule thereunder not later than 2 years after the date of enactment of this Act.”
 
@@ -47,9 +47,9 @@
 ----------
 
 [/us/usc/t47/s332/c/7/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs332%2Fc%2F7%2FC%2Fi
-[/us/pl/112/95/s307/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs307%2Fa
+[/us/pl/112/95/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtIII
 [/us/stat/126/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F61
-[/us/pl/112/95/s307/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs307%2Fd
+[/us/pl/112/95/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtIII
 [/us/stat/126/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F62
 [/us/usc/t49/s44732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44732
 

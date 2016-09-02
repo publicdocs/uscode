@@ -17,7 +17,7 @@
 
     Any report of the National Highway Traffic Safety Administration, or of any officer, employee, or contractor of the National Highway Traffic Safety Administration, relating to any highway traffic accident or the investigation of such accident conducted pursuant to this chapter or [section 403 of title 23][/us/usc/t23/s403], may be made available to the public only in a manner that does not identify individuals.
 
-(Added [Pub. L. 112–141, div. C, title I, § 31204(a)][/us/pl/112/141/s31204/a], July 6, 2012, [126 Stat. 760][/us/stat/126/760].)
+(Added [Pub. L. 112–141, div. C, title I][/us/pl/112/141/dC/tI], § 31204(a), July 6, 2012, [126 Stat. 760][/us/stat/126/760].)
 
  __Effective Date__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t23/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs403
-[/us/pl/112/141/s31204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31204%2Fa
+[/us/pl/112/141/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtI
 [/us/stat/126/760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F760
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101

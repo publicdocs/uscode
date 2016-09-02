@@ -169,7 +169,7 @@
 
     In this section, the term “major adverse personnel action” means a suspension of more than 14 days, a reduction in pay or grade, a removal for conduct or performance, a nondisciplinary removal, a furlough of 30 days or less (but not including placement in a nonpay status as the result of a lapse of appropriations or an enactment by Congress), or a reduction in force action.
 
-(Added [Pub. L. 104–264, title II, § 253][/us/pl/104/264/s253], Oct. 9, 1996, [110 Stat. 3237][/us/stat/110/3237]; amended [Pub. L. 106–181, title III][/us/pl/106/181], §§ 307(a), 308, Apr. 5, 2000, [114 Stat. 124][/us/stat/114/124], 126; [Pub. L. 112–95, title VI][/us/pl/112/95], §§ 601, 602, 611, Feb. 14, 2012, [126 Stat. 109][/us/stat/126/109], 111, 117.)
+(Added [Pub. L. 104–264, title II][/us/pl/104/264/tII], § 253, Oct. 9, 1996, [110 Stat. 3237][/us/stat/110/3237]; amended [Pub. L. 106–181, title III][/us/pl/106/181/tIII], §§ 307(a), 308, Apr. 5, 2000, [114 Stat. 124][/us/stat/114/124], 126; [Pub. L. 112–95, title VI][/us/pl/112/95/tVI], §§ 601, 602, 611, Feb. 14, 2012, [126 Stat. 109][/us/stat/126/109], 111, 117.)
 
  __References in Text__ 
 
@@ -181,17 +181,17 @@
 
  __Amendments__ 
 
-    2012—Subsec. (a)(2) to (5). [Pub. L. 112–95, § 601][/us/pl/112/95/s601], added pars. (2) and (3), redesignated former pars. (3) and (4) as (4) and (5), respectively, and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: “If the Administrator does not reach an agreement under paragraph (1) with the exclusive bargaining representatives, the services of the Federal Mediation and Conciliation Service shall be used to attempt to reach such agreement. If the services of the Federal Mediation and Conciliation Service do not lead to an agreement, the Administrator’s proposed change to the personnel management system shall not take effect until 60 days have elapsed after the Administrator has transmitted the proposed change, along with the objections of the exclusive bargaining representatives to the change, and the reasons for such objections, to Congress. The 60-day period shall not include any period during which Congress has adjourned sine die.”
+    2012—Subsec. (a)(2) to (5). [Pub. L. 112–95][/us/pl/112/95], § 601, added pars. (2) and (3), redesignated former pars. (3) and (4) as (4) and (5), respectively, and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: “If the Administrator does not reach an agreement under paragraph (1) with the exclusive bargaining representatives, the services of the Federal Mediation and Conciliation Service shall be used to attempt to reach such agreement. If the services of the Federal Mediation and Conciliation Service do not lead to an agreement, the Administrator’s proposed change to the personnel management system shall not take effect until 60 days have elapsed after the Administrator has transmitted the proposed change, along with the objections of the exclusive bargaining representatives to the change, and the reasons for such objections, to Congress. The 60-day period shall not include any period during which Congress has adjourned sine die.”
 
-    Subsec. (g)(2)(I). [Pub. L. 112–95, § 602][/us/pl/112/95/s602], added subpar. (I).
+    Subsec. (g)(2)(I). [Pub. L. 112–95][/us/pl/112/95], § 602, added subpar. (I).
 
-    Subsec. (g)(3). [Pub. L. 112–95, § 611][/us/pl/112/95/s611], inserted at end “Notwithstanding any other provision of law, retroactive to April 1, 1996, the Board shall have the same remedial authority over such employee appeals that it had as of March 31, 1996.”
+    Subsec. (g)(3). [Pub. L. 112–95][/us/pl/112/95], § 611, inserted at end “Notwithstanding any other provision of law, retroactive to April 1, 1996, the Board shall have the same remedial authority over such employee appeals that it had as of March 31, 1996.”
 
-    2000—Subsec. (a)(2). [Pub. L. 106–181, § 308(a)][/us/pl/106/181/s308/a], inserted at end “The 60-day period shall not include any period during which Congress has adjourned sine die.”
+    2000—Subsec. (a)(2). [Pub. L. 106–181][/us/pl/106/181], § 308(a), inserted at end “The 60-day period shall not include any period during which Congress has adjourned sine die.”
 
-    Subsec. (g). [Pub. L. 106–181, § 307(a)][/us/pl/106/181/s307/a], added subsec. (g).
+    Subsec. (g). [Pub. L. 106–181][/us/pl/106/181], § 307(a), added subsec. (g).
 
-    Subsecs. (h) to (j). [Pub. L. 106–181, § 308(b)][/us/pl/106/181/s308/b], added subsecs. (h) to (j).
+    Subsecs. (h) to (j). [Pub. L. 106–181][/us/pl/106/181], § 308(b), added subsecs. (h) to (j).
 
  __Effective Date of 2000 Amendment__ 
 
@@ -218,22 +218,22 @@
 [/us/usc/t5/s7119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7119
 [/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109
 [/us/usc/t5/s2635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2635
-[/us/pl/104/264/s253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs253
+[/us/pl/104/264/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2FtII
 [/us/stat/110/3237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3237
-[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/106/181/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtIII
 [/us/stat/114/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F124
-[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtVI
 [/us/stat/126/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F109
 [/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
 [/us/usc/t5/s7301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7301
 [/us/pl/104/264/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs203
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106
-[/us/pl/112/95/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs601
-[/us/pl/112/95/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs602
-[/us/pl/112/95/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs611
-[/us/pl/106/181/s308/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs308%2Fa
-[/us/pl/106/181/s307/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs307%2Fa
-[/us/pl/106/181/s308/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs308%2Fb
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/pl/106/181/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106

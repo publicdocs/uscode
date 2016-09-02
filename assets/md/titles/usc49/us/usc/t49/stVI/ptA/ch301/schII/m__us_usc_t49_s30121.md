@@ -55,7 +55,7 @@
 
     Notwithstanding [section 30163(c) of this title][/us/usc/t49/s30163/c], a civil action about an order issued under [section 30118(b) of this title][/us/usc/t49/s30118/b] must be brought in the United States district court for a judicial district in the State in which the manufacturer is incorporated or the District of Columbia. On motion of a party, the court may transfer the action to another district court if good cause is shown. All actions related to the same order under section 30118(b) shall be consolidated in an action in one judicial district under an order of the court in which the first action was brought. If the first action is transferred to another court, that court shall issue the consolidation order.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 954][/us/stat/108/954].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 954][/us/stat/108/954].)
 
 <table>
 
@@ -235,7 +235,7 @@ In subsection (d), the words “Notwithstanding [section 30163(c) of this title]
 [/us/usc/t49/s30120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30120
 [/us/usc/t49/s30163/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30163%2Fc
 [/us/usc/t49/s30118/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30118%2Fb
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F954
 [/us/usc/t49/s1413/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1413%2Fb
 [/us/usc/t49/s1412/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1412%2Fb

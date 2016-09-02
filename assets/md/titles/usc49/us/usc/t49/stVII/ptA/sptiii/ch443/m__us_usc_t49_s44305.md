@@ -33,7 +33,7 @@
 
     With the approval required under subsection (a) of this section, the Secretary of Transportation may provide the insurance without premium at the request of the Secretary of Defense or the head of a department, agency, or instrumentality designated by the President when the Secretary of Defense or the designated head agrees to indemnify the Secretary of Transportation against all losses covered by the insurance. The Secretary of Defense and any designated head may make indemnity agreements with the Secretary of Transportation under this section. If such an agreement is countersigned by the President or the President’s designee, the agreement shall constitute, for purposes of section 44302(c), a determination that continuation of the aircraft operations to which the agreement applies is necessary to carry out the foreign policy of the United States.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1170][/us/stat/108/1170]; [Pub. L. 105–137, § 3][/us/pl/105/137/s3], Dec. 2, 1997, [111 Stat. 2640][/us/stat/111/2640]; [Pub. L. 107–42, title II, § 201(e)][/us/pl/107/42/s201/e], Sept. 22, 2001, [115 Stat. 236][/us/stat/115/236]; [Pub. L. 107–217, § 3(n)(6)][/us/pl/107/217/s3/n/6], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1170][/us/stat/108/1170]; [Pub. L. 105–137][/us/pl/105/137], § 3, Dec. 2, 1997, [111 Stat. 2640][/us/stat/111/2640]; [Pub. L. 107–42, title II][/us/pl/107/42/tII], § 201(e), Sept. 22, 2001, [115 Stat. 236][/us/stat/115/236]; [Pub. L. 107–217][/us/pl/107/217], § 3(n)(6), Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303].)
 
 <table>
 
@@ -102,13 +102,13 @@ Aug. 23, 1958, Pub. L. 85–726, § 1304, 72 Stat. 802; Oct. 31, 1992, Pub. L.
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1170
-[/us/pl/105/137/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F137%2Fs3
+[/us/pl/105/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F137
 [/us/stat/111/2640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2640
-[/us/pl/107/42/s201/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F42%2Fs201%2Fe
+[/us/pl/107/42/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F42%2FtII
 [/us/stat/115/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F236
-[/us/pl/107/217/s3/n/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs3%2Fn%2F6
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/usc/t40/s721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs721

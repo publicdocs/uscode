@@ -23,7 +23,7 @@
 
     A manufacturer of automobiles commits a violation if the manufacturer fails to comply with an applicable average fuel economy standard under [section 32902 of this title][/us/usc/t49/s32902]. Compliance is determined after considering credits available to the manufacturer under [section 32903 of this title][/us/usc/t49/s32903]. If average fuel economy calculations under [section 32904(c) of this title][/us/usc/t49/s32904/c] indicate that a manufacturer has violated this subsection, the Secretary shall conduct a proceeding, with an opportunity for a hearing on the record, to decide whether a violation has been committed. The Secretary may not conduct the proceeding if further measurements of fuel economy, further calculations of average fuel economy, or other information indicates a violation has not been committed. The results of the measurements and calculations and the information shall be published in the Federal Register. Any interested person may participate in a proceeding under this subsection.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1071][/us/stat/108/1071]; [Pub. L. 103–429, § 6(40)][/us/pl/103/429/s6/40], Oct. 31, 1994, [108 Stat. 4382][/us/stat/108/4382].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1071][/us/stat/108/1071]; [Pub. L. 103–429][/us/pl/103/429], § 6(40), Oct. 31, 1994, [108 Stat. 4382][/us/stat/108/4382].)
 
 <table>
 
@@ -161,9 +161,9 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, § 507(b); added Oct. 10, 1980,
 [/us/usc/t49/s32902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs32902
 [/us/usc/t49/s32903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs32903
 [/us/usc/t49/s32904/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs32904%2Fc
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1071
-[/us/pl/103/429/s6/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F40
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/stat/108/4382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4382
 [/us/usc/t49/s32903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs32903
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429

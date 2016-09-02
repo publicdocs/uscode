@@ -31,11 +31,11 @@
 
     Nothing in this section shall be construed as invalidating or otherwise affecting commercial driver’s licenses issued by a State before the date of issuance of an order under subsection (a) with respect to the State.
 
-(Added [Pub. L. 106–159, title II, § 203(a)][/us/pl/106/159/s203/a], Dec. 9, 1999, [113 Stat. 1762][/us/stat/113/1762].)
+(Added [Pub. L. 106–159, title II][/us/pl/106/159/tII], § 203(a), Dec. 9, 1999, [113 Stat. 1762][/us/stat/113/1762].)
 
  __Prior Provisions__ 
 
-    A prior section 31312, [Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1025][/us/stat/108/1025], related to grants for testing and ensuring the fitness of operators of commercial motor vehicles, prior to repeal by [Pub. L. 105–178, title IV, § 4011(f)][/us/pl/105/178/s4011/f], June 9, 1998, [112 Stat. 408][/us/stat/112/408].
+    A prior section 31312, [Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1025][/us/stat/108/1025], related to grants for testing and ensuring the fitness of operators of commercial motor vehicles, prior to repeal by [Pub. L. 105–178, title IV][/us/pl/105/178/tIV], § 4011(f), June 9, 1998, [112 Stat. 408][/us/stat/112/408].
 
 ----------
 
@@ -44,11 +44,11 @@
 ----------
 ----------
 
-[/us/pl/106/159/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2Fs203%2Fa
+[/us/pl/106/159/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2FtII
 [/us/stat/113/1762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1762
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1025
-[/us/pl/105/178/s4011/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4011%2Ff
+[/us/pl/105/178/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtIV
 [/us/stat/112/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F408
 
 

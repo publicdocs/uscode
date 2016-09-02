@@ -17,7 +17,7 @@
 
     Not later than June 22, 1989, the Secretary of Transportation shall prescribe regulations and issue orders for the safety of maintenance-of-way employees on railroad bridges. The Secretary at least shall provide in those regulations standards for bridge safety equipment, including nets, walkways, handrails, and safety lines, and requirements for the use of vessels when work is performed on bridges located over bodies of water.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 876][/us/stat/108/876].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 876][/us/stat/108/876].)
 
 <table>
 
@@ -74,7 +74,7 @@ Oct. 16, 1970, Pub. L. 91–458, 84 Stat. 971, § 202(n); added June 22, 1988,
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F876
 
 

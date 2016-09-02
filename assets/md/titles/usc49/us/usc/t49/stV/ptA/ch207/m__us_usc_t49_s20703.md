@@ -37,7 +37,7 @@
 
     When the Secretary considers publication to be in the public interest, the Secretary may publish a report of an investigation made under this section, stating the cause of the accident or incident and making appropriate recommendations. No part of a report may be admitted into evidence or used in a civil action for damages resulting from a matter mentioned in the report.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 886][/us/stat/108/886].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 886][/us/stat/108/886].)
 
 <table>
 
@@ -172,7 +172,7 @@ Oct. 15, 1966, Pub. L. 89–670, § 6(e)(1)(E)–(G), 80 Stat. 939.  </td>
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F886
 [/us/usc/t49/s32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs32
 [/us/stat/79/1320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1320

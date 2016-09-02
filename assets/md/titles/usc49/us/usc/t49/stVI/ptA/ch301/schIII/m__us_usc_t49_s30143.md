@@ -41,7 +41,7 @@
 
     Subsection (b) of this section is carried out by certification in the form the Secretary of Transportation or the Secretary of the Treasury may prescribe.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 963][/us/stat/108/963].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 963][/us/stat/108/963].)
 
 <table>
 
@@ -117,7 +117,7 @@ Sept. 9, 1966, Pub. L. 89–563, 80 Stat. 718, § 108(g); added Oct. 31, 1988,
 ----------
 
 [/us/usc/t49/s30112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30112%2Fa
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F963
 [/us/pl/89/563/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F563%2Fs108
 [/us/usc/t15/s1397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1397

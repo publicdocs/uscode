@@ -39,7 +39,7 @@
 
     The Board shall provide recommendations for carrying out the duties of the Secretary described in [section 301(3) of this title][/us/usc/t49/s301/3].
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 849][/us/stat/108/849]; [Pub. L. 109–59, title IV, § 4145(a)][/us/pl/109/59/s4145/a], Aug. 10, 2005, [119 Stat. 1749][/us/stat/119/1749].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(d), July 5, 1994, [108 Stat. 849][/us/stat/108/849]; [Pub. L. 109–59, title IV][/us/pl/109/59/tIV], § 4145(a), Aug. 10, 2005, [119 Stat. 1749][/us/stat/119/1749].)
 
 <table>
 
@@ -103,9 +103,9 @@ Dec. 18, 1991, Pub. L. 102–240, § 5002(b), 105 Stat. 2158.  </td>
 ----------
 
 [/us/usc/t49/s301/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs301%2F3
-[/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F849
-[/us/pl/109/59/s4145/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4145%2Fa
+[/us/pl/109/59/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIV
 [/us/stat/119/1749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1749
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463

@@ -25,7 +25,7 @@
 
     Except as provided in subpart II of this part, copies of tariffs and arrangements filed with the Secretary under subpart II, and the statistics, tables, and figures contained in reports made to the Secretary under subpart II, are public records. The Secretary is the custodian of those records. A public record, or a copy or extract of it, certified by the Secretary under the seal of the Department of Transportation is competent evidence in an investigation by the Secretary and in a judicial proceeding.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1110][/us/stat/108/1110].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1110][/us/stat/108/1110].)
 
 <table>
 
@@ -213,7 +213,7 @@ In subsection (b), the words “otherwise”, “all contracts, agreements, unde
 
  __Consolidation or Elimination of Obsolete, Redundant, or Otherwise Unnecessary Reports; Use of Electronic Media Format__ 
 
-[Pub. L. 112–95, title VIII, § 806][/us/pl/112/95/s806], Feb. 14, 2012, [126 Stat. 121][/us/stat/126/121], provided that:
+[Pub. L. 112–95, title VIII][/us/pl/112/95/tVIII], § 806, Feb. 14, 2012, [126 Stat. 121][/us/stat/126/121], provided that:
 
 >     “(a)  __Consolidation or Elimination of Reports__  __.—__ 
 
@@ -254,11 +254,11 @@ In subsection (b), the words “otherwise”, “all contracts, agreements, unde
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1110
 [/us/pl/85/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F726
 [/us/stat/72/753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F753
-[/us/pl/112/95/s806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs806
+[/us/pl/112/95/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtVIII
 [/us/stat/126/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F121
 [/us/usc/t5/s552/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fb
 

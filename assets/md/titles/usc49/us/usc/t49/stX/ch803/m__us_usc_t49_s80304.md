@@ -51,7 +51,7 @@
 
     The Secretary, or the Governor of Guam or of the Northern Mariana Islands as provided in subsections (b) and (c) of this section, shall carry out the customs laws on the seizure and forfeiture of aircraft, vehicles, and vessels under this chapter.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1354][/us/stat/108/1354]; [Pub. L. 107–296, title XI, § 1112(r)][/us/pl/107/296/s1112/r], Nov. 25, 2002, [116 Stat. 2278][/us/stat/116/2278].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1354][/us/stat/108/1354]; [Pub. L. 107–296, title XI][/us/pl/107/296/tXI], § 1112(r), Nov. 25, 2002, [116 Stat. 2278][/us/stat/116/2278].)
 
 <table>
 
@@ -169,9 +169,9 @@ Aug. 3, 1939, ch. 618, 53 Stat. 1291, § 9; added Aug. 1, 1956, ch. 852, § 
 
  __Amendments__ 
 
-    2002—Subsec. (a). [Pub. L. 107–296, § 1112(r)(1)][/us/pl/107/296/s1112/r/1], substituted “(b), (c), and (d)” for “(b) and (c)” in introductory provisions.
+    2002—Subsec. (a). [Pub. L. 107–296][/us/pl/107/296], § 1112(r)(1), substituted “(b), (c), and (d)” for “(b) and (c)” in introductory provisions.
 
-    Subsecs. (d), (e). [Pub. L. 107–296, § 1112(r)(2)][/us/pl/107/296/s1112/r/2], (3), added subsec. (d) and redesignated former subsec. (d) as (e).
+    Subsecs. (d), (e). [Pub. L. 107–296][/us/pl/107/296], § 1112(r)(2), (3), added subsec. (d) and redesignated former subsec. (d) as (e).
 
  __Effective Date of 2002 Amendment__ 
 
@@ -187,15 +187,15 @@ Aug. 3, 1939, ch. 618, 53 Stat. 1291, § 9; added Aug. 1, 1956, ch. 852, § 
 [/us/usc/t49/s80306/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs80306%2Fb
 [/us/usc/t49/s80306/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs80306%2Fb
 [/us/usc/t49/s80306/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs80306%2Fb
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1354
-[/us/pl/107/296/s1112/r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1112%2Fr
+[/us/pl/107/296/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXI
 [/us/stat/116/2278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2278
 [/us/pl/94/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F241
 [/us/stat/90/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F263
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
-[/us/pl/107/296/s1112/r/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1112%2Fr%2F1
-[/us/pl/107/296/s1112/r/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1112%2Fr%2F2
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs4
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101

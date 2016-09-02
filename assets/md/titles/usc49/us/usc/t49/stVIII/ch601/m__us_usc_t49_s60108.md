@@ -141,7 +141,7 @@
 
         (4) Not later than December 31, 2012, and every 2 years thereafter, the Secretary shall conduct a follow-up survey to measure the progress that owners and operators of pipeline facilities have made in adopting and implementing their plans for the safe management and replacement of cast iron gas pipelines.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1312][/us/stat/108/1312]; [Pub. L. 104–304][/us/pl/104/304], §§ 6, 20(h), Oct. 12, 1996, [110 Stat. 3800][/us/stat/110/3800], 3805; [Pub. L. 112–90][/us/pl/112/90], §§ 7(a), 18(a), 21(c), Jan. 3, 2012, [125 Stat. 1910][/us/stat/125/1910], 1916, 1917.)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1312][/us/stat/108/1312]; [Pub. L. 104–304][/us/pl/104/304], §§ 6, 20(h), Oct. 12, 1996, [110 Stat. 3800][/us/stat/110/3800], 3805; [Pub. L. 112–90][/us/pl/112/90], §§ 7(a), 18(a), 21(c), Jan. 3, 2012, [125 Stat. 1910][/us/stat/125/1910], 1916, 1917.)
 
 <table>
 
@@ -663,31 +663,31 @@ Aug. 12, 1968, Pub. L. 90–481, 82 Stat. 720, § 13(c); added Oct. 24, 1992, 
 
  __References in Text__ 
 
-    Section 3(h)(1)(A) of the Natural Gas Pipeline Safety Act of 1968, referred to in subsec. (c)(2)(A), (5)(B), is [section 3(h)(1)(A) of Pub. L. 90–481][/us/pl/90/481/s3/h/1/A], which was classified to section 1672(h)(1)(A) of former Title 49, Transportation, prior to repeal by [Pub. L. 103–272, § 7(b)][/us/pl/103/272/s7/b], July 5, 1994, [108 Stat. 1379][/us/stat/108/1379]. For further details, see Historical and Revision Notes above.
+    Section 3(h)(1)(A) of the Natural Gas Pipeline Safety Act of 1968, referred to in subsec. (c)(2)(A), (5)(B), is [section 3(h)(1)(A) of Pub. L. 90–481][/us/pl/90/481/s3/h/1/A], which was classified to section 1672(h)(1)(A) of former Title 49, Transportation, prior to repeal by [Pub. L. 103–272][/us/pl/103/272], § 7(b), July 5, 1994, [108 Stat. 1379][/us/stat/108/1379]. For further details, see Historical and Revision Notes above.
 
-    Section 203(l)(1)(A) of the Hazardous Liquid Pipeline Safety Act of 1979, referred to in subsec. (c)(2)(A), (5)(B), is section 203(l)(1)(A) of [Pub. L. 96–129][/us/pl/96/129], which was classified to section 2002(l)(1)(A) of former Title 49, Transportation, prior to repeal by [Pub. L. 103–272, § 7(b)][/us/pl/103/272/s7/b], July 5, 1994, [108 Stat. 1379][/us/stat/108/1379]. For further details, see Historical and Revision Notes above.
+    Section 203(l)(1)(A) of the Hazardous Liquid Pipeline Safety Act of 1979, referred to in subsec. (c)(2)(A), (5)(B), is section 203(l)(1)(A) of [Pub. L. 96–129][/us/pl/96/129], which was classified to section 2002(l)(1)(A) of former Title 49, Transportation, prior to repeal by [Pub. L. 103–272][/us/pl/103/272], § 7(b), July 5, 1994, [108 Stat. 1379][/us/stat/108/1379]. For further details, see Historical and Revision Notes above.
 
  __Amendments__ 
 
-    2012—Subsec. (a)(1). [Pub. L. 112–90, § 18(a)][/us/pl/112/90/s18/a], substituted “a gas pipeline” for “an intrastate gas pipeline”.
+    2012—Subsec. (a)(1). [Pub. L. 112–90][/us/pl/112/90], § 18(a), substituted “a gas pipeline” for “an intrastate gas pipeline”.
 
-    Subsec. (c)(8). [Pub. L. 112–90, § 21(c)][/us/pl/112/90/s21/c], added par. (8).
+    Subsec. (c)(8). [Pub. L. 112–90][/us/pl/112/90], § 21(c), added par. (8).
 
-    Subsec. (d)(4). [Pub. L. 112–90, § 7(a)][/us/pl/112/90/s7/a], added par. (4).
+    Subsec. (d)(4). [Pub. L. 112–90][/us/pl/112/90], § 7(a), added par. (4).
 
-    1996—Subsec. (a)(1). [Pub. L. 104–304, § 6(1)][/us/pl/104/304/s6/1], struck out “transporting gas or hazardous liquid or” after “Each person” and “a person”.
+    1996—Subsec. (a)(1). [Pub. L. 104–304][/us/pl/104/304], § 6(1), struck out “transporting gas or hazardous liquid or” after “Each person” and “a person”.
 
-    Subsec. (b)(2). [Pub. L. 104–304, § 6(2)][/us/pl/104/304/s6/2], struck out after first sentence “However, an inspection must occur at least once every 2 years.”
+    Subsec. (b)(2). [Pub. L. 104–304][/us/pl/104/304], § 6(2), struck out after first sentence “However, an inspection must occur at least once every 2 years.”
 
-    Subsec. (c). [Pub. L. 104–304, § 6(3)][/us/pl/104/304/s6/3], substituted “Other Waters” for “Navigable Waters” in heading.
+    Subsec. (c). [Pub. L. 104–304][/us/pl/104/304], § 6(3), substituted “Other Waters” for “Navigable Waters” in heading.
 
-    Subsec. (c)(2)(A)(ii). [Pub. L. 104–304, § 6(4)][/us/pl/104/304/s6/4], added cl. (ii) and struck out former cl. (ii) which read as follows: “any other pipeline facility crossing under, over, or through navigable waters (as defined by the Secretary) if the Secretary decides that the location of the facility in those navigable waters could pose a hazard to navigation or public safety.”
+    Subsec. (c)(2)(A)(ii). [Pub. L. 104–304][/us/pl/104/304], § 6(4), added cl. (ii) and struck out former cl. (ii) which read as follows: “any other pipeline facility crossing under, over, or through navigable waters (as defined by the Secretary) if the Secretary decides that the location of the facility in those navigable waters could pose a hazard to navigation or public safety.”
 
-    Subsec. (c)(2)(B). [Pub. L. 104–304, § 20(h)(1)][/us/pl/104/304/s20/h/1], substituted “standards” for “regulations” in introductory provisions.
+    Subsec. (c)(2)(B). [Pub. L. 104–304][/us/pl/104/304], § 20(h)(1), substituted “standards” for “regulations” in introductory provisions.
 
-    Subsec. (c)(4)(A). [Pub. L. 104–304, § 20(h)(2)][/us/pl/104/304/s20/h/2], substituted “establish a standard” for “require by regulation”.
+    Subsec. (c)(4)(A). [Pub. L. 104–304][/us/pl/104/304], § 20(h)(2), substituted “establish a standard” for “require by regulation”.
 
-    Subsecs. (c)(4)(B), (d)(3). [Pub. L. 104–304, § 20(h)(1)][/us/pl/104/304/s20/h/1], substituted “standards” for “regulations”.
+    Subsecs. (c)(4)(B), (d)(3). [Pub. L. 104–304][/us/pl/104/304], § 20(h)(1), substituted “standards” for “regulations”.
 
  __Transfer of Functions__ 
 
@@ -695,7 +695,7 @@ Aug. 12, 1968, Pub. L. 90–481, 82 Stat. 720, § 13(c); added Oct. 24, 1992, 
 
  __Leak Detection__ 
 
-[Pub. L. 112–90, § 8][/us/pl/112/90/s8], Jan. 3, 2012, [125 Stat. 1911][/us/stat/125/1911], provided that:
+[Pub. L. 112–90][/us/pl/112/90], § 8, Jan. 3, 2012, [125 Stat. 1911][/us/stat/125/1911], provided that:
 
 >     “(a) __Leak Detection Report.—__ 
 
@@ -747,11 +747,11 @@ Aug. 12, 1968, Pub. L. 90–481, 82 Stat. 720, § 13(c); added Oct. 24, 1992, 
 
  __Pipeline Bridge Risk Study__ 
 
-    [Pub. L. 107–355, § 25][/us/pl/107/355/s25], Dec. 17, 2002, [116 Stat. 3011][/us/stat/116/3011], required the Secretary of Transportation to conduct a study to determine whether cable-suspension pipeline bridges pose structural or other risks warranting particularized attention in connection with pipeline operators risk assessment programs and whether particularized inspection standards need to be developed by the Department of Transportation to recognize the peculiar risks posed by such bridges and to transmit a report detailing the results of the completed study within 2 years after Dec. 17, 2002.
+    [Pub. L. 107–355][/us/pl/107/355], § 25, Dec. 17, 2002, [116 Stat. 3011][/us/stat/116/3011], required the Secretary of Transportation to conduct a study to determine whether cable-suspension pipeline bridges pose structural or other risks warranting particularized attention in connection with pipeline operators risk assessment programs and whether particularized inspection standards need to be developed by the Department of Transportation to recognize the peculiar risks posed by such bridges and to transmit a report detailing the results of the completed study within 2 years after Dec. 17, 2002.
 
  __Study of Underwater Abandoned Pipeline Facilities__ 
 
-    [Pub. L. 102–508, title III, § 307][/us/pl/102/508/s307], Oct. 24, 1992, [106 Stat. 3309][/us/stat/106/3309], directed Secretary of Transportation, in consultation with State and other Federal agencies having authority over underwater natural gas and hazardous liquid pipeline facilities and with pipeline owners and operators, fishing and maritime industries, and other affected groups, to submit to Congress, not later than 3 years after Oct. 24, 1992, report and recommendations on abandonment of such pipeline facilities, including analysis of problems caused by such facilities, alternative methods to abandonment, as well as navigational, safety, economic, and environmental impacts associated with abandonment, and further authorized Secretary to require, based on findings of such study, additional appropriate actions to prevent hazards to navigation in connection with such facilities.
+    [Pub. L. 102–508, title III][/us/pl/102/508/tIII], § 307, Oct. 24, 1992, [106 Stat. 3309][/us/stat/106/3309], directed Secretary of Transportation, in consultation with State and other Federal agencies having authority over underwater natural gas and hazardous liquid pipeline facilities and with pipeline owners and operators, fishing and maritime industries, and other affected groups, to submit to Congress, not later than 3 years after Oct. 24, 1992, report and recommendations on abandonment of such pipeline facilities, including analysis of problems caused by such facilities, alternative methods to abandonment, as well as navigational, safety, economic, and environmental impacts associated with abandonment, and further authorized Secretary to require, based on findings of such study, additional appropriate actions to prevent hazards to navigation in connection with such facilities.
 
 ----------
 
@@ -765,37 +765,37 @@ Aug. 12, 1968, Pub. L. 90–481, 82 Stat. 720, § 13(c); added Oct. 24, 1992, 
 [/us/usc/t49/s60105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs60105
 [/us/usc/t49/s60106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs60106
 [/us/usc/t49/s60123/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs60123%2Fc
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1312
 [/us/pl/104/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304
 [/us/stat/110/3800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3800
 [/us/pl/112/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90
 [/us/stat/125/1910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1910
 [/us/pl/90/481/s3/h/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F481%2Fs3%2Fh%2F1%2FA
-[/us/pl/103/272/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs7%2Fb
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1379
 [/us/pl/96/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F129
-[/us/pl/103/272/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs7%2Fb
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1379
-[/us/pl/112/90/s18/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90%2Fs18%2Fa
-[/us/pl/112/90/s21/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90%2Fs21%2Fc
-[/us/pl/112/90/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90%2Fs7%2Fa
-[/us/pl/104/304/s6/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304%2Fs6%2F1
-[/us/pl/104/304/s6/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304%2Fs6%2F2
-[/us/pl/104/304/s6/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304%2Fs6%2F3
-[/us/pl/104/304/s6/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304%2Fs6%2F4
-[/us/pl/104/304/s20/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304%2Fs20%2Fh%2F1
-[/us/pl/104/304/s20/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304%2Fs20%2Fh%2F2
-[/us/pl/104/304/s20/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304%2Fs20%2Fh%2F1
+[/us/pl/112/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90
+[/us/pl/112/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90
+[/us/pl/112/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90
+[/us/pl/104/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304
+[/us/pl/104/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304
+[/us/pl/104/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304
+[/us/pl/104/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304
+[/us/pl/104/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304
+[/us/pl/104/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304
+[/us/pl/104/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/112/90/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90%2Fs8
+[/us/pl/112/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90
 [/us/stat/125/1911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1911
 [/us/pl/112/90/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90%2Fs8
 [/us/pl/112/90/s1/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90%2Fs1%2Fc%2F1
 [/us/usc/t49/s60101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs60101
-[/us/pl/107/355/s25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355%2Fs25
+[/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355
 [/us/stat/116/3011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3011
-[/us/pl/102/508/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F508%2Fs307
+[/us/pl/102/508/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F508%2FtIII
 [/us/stat/106/3309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3309
 
 

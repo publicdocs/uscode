@@ -17,7 +17,7 @@
 
     The Secretary of State shall seek multilateral and bilateral agreement on strengthening enforcement measures and standards for compliance related to aircraft sabotage, aircraft hijacking, and airport security.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1212][/us/stat/108/1212].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1212][/us/stat/108/1212].)
 
 <table>
 
@@ -72,7 +72,7 @@ Aug. 8, 1985, Pub. L. 99–83, § 556, 99 Stat. 227.  </td>
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1212
 
 

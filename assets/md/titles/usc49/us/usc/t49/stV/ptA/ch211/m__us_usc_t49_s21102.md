@@ -61,7 +61,7 @@
 
             (D) The term “old section 21103” means section 21103 of this chapter as it was in effect on the day before the enactment of that Act.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 888][/us/stat/108/888]; [Pub. L. 110–432, div. A, title I, § 108(d)(1)][/us/pl/110/432/s108/d/1], Oct. 16, 2008, [122 Stat. 4863][/us/stat/122/4863].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 888][/us/stat/108/888]; [Pub. L. 110–432, div. A, title I][/us/pl/110/432/dA/tI], § 108(d)(1), Oct. 16, 2008, [122 Stat. 4863][/us/stat/122/4863].)
 
 <table>
 
@@ -163,9 +163,9 @@ Mar. 4, 1907, ch. 2939, § 5(e), 34 Stat. 1417; restated Dec. 26, 1969, Pub. L
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–432, § 108(d)(1)(A)][/us/pl/110/432/s108/d/1/A], substituted “Nonapplication, exemption, and alternate hours of service regime” for “Nonapplication and exemption” in section catchline.
+    2008—[Pub. L. 110–432][/us/pl/110/432], § 108(d)(1)(A), substituted “Nonapplication, exemption, and alternate hours of service regime” for “Nonapplication and exemption” in section catchline.
 
-    Subsec. (c). [Pub. L. 110–432, § 108(d)(1)(B)][/us/pl/110/432/s108/d/1/B], added subsec. (c).
+    Subsec. (c). [Pub. L. 110–432][/us/pl/110/432], § 108(d)(1)(B), added subsec. (c).
 
 ----------
 
@@ -176,14 +176,14 @@ Mar. 4, 1907, ch. 2939, § 5(e), 34 Stat. 1417; restated Dec. 26, 1969, Pub. L
 
 [/us/usc/t49/s21109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs21109%2Fb
 [/us/usc/t49/s24102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24102
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F888
-[/us/pl/110/432/s108/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs108%2Fd%2F1
+[/us/pl/110/432/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdA%2FtI
 [/us/stat/122/4863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4863
 [/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
 [/us/stat/122/4848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4848
 [/us/usc/t49/s20101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs20101
-[/us/pl/110/432/s108/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs108%2Fd%2F1%2FA
-[/us/pl/110/432/s108/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs108%2Fd%2F1%2FB
+[/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
+[/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
 
 

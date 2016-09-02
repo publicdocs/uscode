@@ -33,7 +33,7 @@
 
     This chapter does not affect the tort liability of any person.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1323][/us/stat/108/1323]; [Pub. L. 107–355, § 8(b)(3)][/us/pl/107/355/s8/b/3], Dec. 17, 2002, [116 Stat. 2993][/us/stat/116/2993]; [Pub. L. 112–90, § 2(c)][/us/pl/112/90/s2/c], Jan. 3, 2012, [125 Stat. 1905][/us/stat/125/1905].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1323][/us/stat/108/1323]; [Pub. L. 107–355][/us/pl/107/355], § 8(b)(3), Dec. 17, 2002, [116 Stat. 2993][/us/stat/116/2993]; [Pub. L. 112–90][/us/pl/112/90], § 2(c), Jan. 3, 2012, [125 Stat. 1905][/us/stat/125/1905].)
 
 <table>
 
@@ -238,11 +238,11 @@ In subsection (a)(1), the text of 49 App.:1677(b)(2) and 2006(b)(2) and the word
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1323
-[/us/pl/107/355/s8/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355%2Fs8%2Fb%2F3
+[/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355
 [/us/stat/116/2993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2993
-[/us/pl/112/90/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90%2Fs2%2Fc
+[/us/pl/112/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90
 [/us/stat/125/1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1905
 [/us/pl/112/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90
 [/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355

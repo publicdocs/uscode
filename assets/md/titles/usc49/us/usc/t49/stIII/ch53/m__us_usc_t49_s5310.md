@@ -267,7 +267,7 @@
 
         (5) transit cooperative research program reports.
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 807][/us/stat/108/807]; [Pub. L. 105–178, title III, § 3013(a)][/us/pl/105/178/s3013/a], June 9, 1998, [112 Stat. 359][/us/stat/112/359]; [Pub. L. 109–59, title III][/us/pl/109/59], §§ 3002(b)(2), 3012(a), Aug. 10, 2005, [119 Stat. 1544][/us/stat/119/1544], 1589; [Pub. L. 112–141, div. B, § 20009][/us/pl/112/141/s20009], July 6, 2012, [126 Stat. 675][/us/stat/126/675]; [Pub. L. 114–94, div. A, title III, § 3006(a)][/us/pl/114/94/s3006/a], Dec. 4, 2015, [129 Stat. 1462][/us/stat/129/1462].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(d), July 5, 1994, [108 Stat. 807][/us/stat/108/807]; [Pub. L. 105–178, title III][/us/pl/105/178/tIII], § 3013(a), June 9, 1998, [112 Stat. 359][/us/stat/112/359]; [Pub. L. 109–59, title III][/us/pl/109/59/tIII], §§ 3002(b)(2), 3012(a), Aug. 10, 2005, [119 Stat. 1544][/us/stat/119/1544], 1589; [Pub. L. 112–141, div. B][/us/pl/112/141/dB], § 20009, July 6, 2012, [126 Stat. 675][/us/stat/126/675]; [Pub. L. 114–94, div. A, title III][/us/pl/114/94/dA/tIII], § 3006(a), Dec. 4, 2015, [129 Stat. 1462][/us/stat/129/1462].)
 
 <table>
 
@@ -475,21 +475,21 @@ In subsection (f), the words “any applicable” are omitted as surplus. The wo
 
     The Americans with Disabilities Act of 1990, referred to in subsec. (b)(1)(B), is [Pub. L. 101–336][/us/pl/101/336], July 26, 1990, [104 Stat. 327][/us/stat/104/327], which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of Title 42][/us/usc/t42/s12101] and Tables.
 
-    [Section 204 of title 23][/us/usc/t23/s204], referred to in subsec. (d)(3)(B)(ii), was repealed and a new section 204 was enacted by [Pub. L. 112–141, div. A, title I, § 1119(a)][/us/pl/112/141/s1119/a], July 6, 2012, [126 Stat. 473][/us/stat/126/473], 489. As enacted by [Pub. L. 112–141][/us/pl/112/141], section 204 relates to the Federal lands access program.
+    [Section 204 of title 23][/us/usc/t23/s204], referred to in subsec. (d)(3)(B)(ii), was repealed and a new section 204 was enacted by [Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1119(a), July 6, 2012, [126 Stat. 473][/us/stat/126/473], 489. As enacted by [Pub. L. 112–141][/us/pl/112/141], section 204 relates to the Federal lands access program.
 
     The date of enactment of the Federal Public Transportation Act of 2012, referred to in subsec. (h)(1), is deemed to be Oct. 1, 2012, see section 3(a), (b) of [Pub. L. 112–141][/us/pl/112/141], set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of Title 23][/us/usc/t23/s101], Highways.
 
  __Amendments__ 
 
-    2015—Subsec. (a)(1). [Pub. L. 114–94, § 3006(a)(1)][/us/pl/114/94/s3006/a/1], added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “The term ‘recipient’ means a designated recipient or a State that receives a grant under this section directly.”
+    2015—Subsec. (a)(1). [Pub. L. 114–94][/us/pl/114/94], § 3006(a)(1), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “The term ‘recipient’ means a designated recipient or a State that receives a grant under this section directly.”
 
-    Subsec. (i). [Pub. L. 114–94, § 3006(a)(2)][/us/pl/114/94/s3006/a/2], added subsec. (i).
+    Subsec. (i). [Pub. L. 114–94][/us/pl/114/94], § 3006(a)(2), added subsec. (i).
 
     2012—[Pub. L. 112–141][/us/pl/112/141] amended section generally. Prior to amendment, section related to formula grants for special needs of elderly individuals and individuals with disabilities.
 
-    2005—[Pub. L. 109–59, § 3012(a)][/us/pl/109/59/s3012/a], amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) to (j) relating to formula grants and loans for special needs of elderly individuals and individuals with disabilities.
+    2005—[Pub. L. 109–59][/us/pl/109/59], § 3012(a), amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) to (j) relating to formula grants and loans for special needs of elderly individuals and individuals with disabilities.
 
-    Subsec. (h). [Pub. L. 109–59, § 3002(b)(2)][/us/pl/109/59/s3002/b/2], substituted “Public” for “Mass”.
+    Subsec. (h). [Pub. L. 109–59][/us/pl/109/59], § 3002(b)(2), substituted “Public” for “Mass”.
 
     1998—[Pub. L. 105–178][/us/pl/105/178] substituted “Formula grants” for “Grants” in section catchline.
 
@@ -503,7 +503,7 @@ In subsection (f), the words “any applicable” are omitted as surplus. The wo
 
  __Pilot Program for Innovative Coordinated Access and Mobility__ 
 
-[Pub. L. 114–94, div. A, title III, § 3006(b)][/us/pl/114/94/s3006/b], Dec. 4, 2015, [129 Stat. 1462][/us/stat/129/1462], provided that:
+[Pub. L. 114–94, div. A, title III][/us/pl/114/94/dA/tIII], § 3006(b), Dec. 4, 2015, [129 Stat. 1462][/us/stat/129/1462], provided that:
 
 >     “(1)  __Definitions__  __.—__ 
 
@@ -569,11 +569,11 @@ In subsection (f), the words “any applicable” are omitted as surplus. The wo
 
  __Elderly Individuals and Individuals With Disabilities Pilot Program__ 
 
-    [Pub. L. 109–59, title III, § 3012(b)][/us/pl/109/59/s3012/b], Aug. 10, 2005, [119 Stat. 1591][/us/stat/119/1591], as amended by [Pub. L. 111–147, title IV, § 437(c)][/us/pl/111/147/s437/c], Mar. 18, 2010, [124 Stat. 92][/us/stat/124/92]; [Pub. L. 111–322, title II, § 2307(c)][/us/pl/111/322/s2307/c], Dec. 22, 2010, [124 Stat. 3530][/us/stat/124/3530]; [Pub. L. 112–5, title III, § 307(c)][/us/pl/112/5/s307/c], Mar. 4, 2011, [125 Stat. 21][/us/stat/125/21]; [Pub. L. 112–30, title I, § 137(c)][/us/pl/112/30/s137/c], Sept. 16, 2011, [125 Stat. 354][/us/stat/125/354]; [Pub. L. 112–102, title III, § 307(c)][/us/pl/112/102/s307/c], Mar. 30, 2012, [126 Stat. 280][/us/stat/126/280]; [Pub. L. 112–140, title III, § 307(c)][/us/pl/112/140/s307/c], June 29, 2012, [126 Stat. 401][/us/stat/126/401]; [Pub. L. 112–141, div. G, title III, § 113007(c)][/us/pl/112/141/s113007/c], July 6, 2012, [126 Stat. 987][/us/stat/126/987], which established a pilot program for certain States to carry out projects for public transportation of elderly individuals and individuals with disabilities, was repealed by [Pub. L. 112–141, div. B, § 20002(c)(3)][/us/pl/112/141/s20002/c/3], July 6, 2012, [126 Stat. 622][/us/stat/126/622].
+    [Pub. L. 109–59, title III][/us/pl/109/59/tIII], § 3012(b), Aug. 10, 2005, [119 Stat. 1591][/us/stat/119/1591], as amended by [Pub. L. 111–147, title IV][/us/pl/111/147/tIV], § 437(c), Mar. 18, 2010, [124 Stat. 92][/us/stat/124/92]; [Pub. L. 111–322, title II][/us/pl/111/322/tII], § 2307(c), Dec. 22, 2010, [124 Stat. 3530][/us/stat/124/3530]; [Pub. L. 112–5, title III][/us/pl/112/5/tIII], § 307(c), Mar. 4, 2011, [125 Stat. 21][/us/stat/125/21]; [Pub. L. 112–30, title I][/us/pl/112/30/tI], § 137(c), Sept. 16, 2011, [125 Stat. 354][/us/stat/125/354]; [Pub. L. 112–102, title III][/us/pl/112/102/tIII], § 307(c), Mar. 30, 2012, [126 Stat. 280][/us/stat/126/280]; [Pub. L. 112–140, title III][/us/pl/112/140/tIII], § 307(c), June 29, 2012, [126 Stat. 401][/us/stat/126/401]; [Pub. L. 112–141, div. G, title III][/us/pl/112/141/dG/tIII], § 113007(c), July 6, 2012, [126 Stat. 987][/us/stat/126/987], which established a pilot program for certain States to carry out projects for public transportation of elderly individuals and individuals with disabilities, was repealed by [Pub. L. 112–141, div. B][/us/pl/112/141/dB], § 20002(c)(3), July 6, 2012, [126 Stat. 622][/us/stat/126/622].
 
  __Over-the-Road Bus Accessibility Program__ 
 
-    [Pub. L. 105–178, title III, § 3038][/us/pl/105/178/s3038], June 9, 1998, [112 Stat. 392][/us/stat/112/392], as amended by [Pub. L. 105–206, title IX, § 9009(x)][/us/pl/105/206/s9009/x], July 22, 1998, [112 Stat. 862][/us/stat/112/862]; [Pub. L. 106–346, § 101(a)][/us/pl/106/346/s101/a] \[title III, § 336\], Oct. 23, 2000, [114 Stat. 1356][/us/stat/114/1356], 1356A–31; [Pub. L. 108–88, § 8(m)][/us/pl/108/88/s8/m], Sept. 30, 2003, [117 Stat. 1125][/us/stat/117/1125]; [Pub. L. 108–202, § 9(m)][/us/pl/108/202/s9/m], Feb. 29, 2004, [118 Stat. 488][/us/stat/118/488]; [Pub. L. 108–224, § 7(m)][/us/pl/108/224/s7/m], Apr. 30, 2004, [118 Stat. 636][/us/stat/118/636]; [Pub. L. 108–263, § 7(m)][/us/pl/108/263/s7/m], June 30, 2004, [118 Stat. 707][/us/stat/118/707]; [Pub. L. 108–280, § 7(m)][/us/pl/108/280/s7/m], July 30, 2004, [118 Stat. 885][/us/stat/118/885]; [Pub. L. 108–310, § 8(m)][/us/pl/108/310/s8/m], Sept. 30, 2004, [118 Stat. 1158][/us/stat/118/1158]; [Pub. L. 109–14, § 7][/us/pl/109/14/s7](l), May 31, 2005, [119 Stat. 333][/us/stat/119/333]; [Pub. L. 109–20, § 7][/us/pl/109/20/s7](l), July 1, 2005, [119 Stat. 355][/us/stat/119/355]; [Pub. L. 109–35, § 7][/us/pl/109/35/s7](l), July 20, 2005, [119 Stat. 388][/us/stat/119/388]; [Pub. L. 109–37, § 7][/us/pl/109/37/s7](l), July 22, 2005, [119 Stat. 403][/us/stat/119/403]; [Pub. L. 109–40, § 7][/us/pl/109/40/s7](l), July 28, 2005, [119 Stat. 420][/us/stat/119/420]; [Pub. L. 109–59, title III, § 3039(a)][/us/pl/109/59/s3039/a], Aug. 10, 2005, [119 Stat. 1638][/us/stat/119/1638], which provided for grants to over-the-road bus operators to finance costs associated with bus accessibility for persons with disabilities, was repealed by [Pub. L. 112–141, div. B, § 20002(b)][/us/pl/112/141/s20002/b], July 6, 2012, [126 Stat. 622][/us/stat/126/622].
+    [Pub. L. 105–178, title III][/us/pl/105/178/tIII], § 3038, June 9, 1998, [112 Stat. 392][/us/stat/112/392], as amended by [Pub. L. 105–206, title IX][/us/pl/105/206/tIX], § 9009(x), July 22, 1998, [112 Stat. 862][/us/stat/112/862]; [Pub. L. 106–346][/us/pl/106/346], § 101(a) \[title III, § 336\], Oct. 23, 2000, [114 Stat. 1356][/us/stat/114/1356], 1356A–31; [Pub. L. 108–88][/us/pl/108/88], § 8(m), Sept. 30, 2003, [117 Stat. 1125][/us/stat/117/1125]; [Pub. L. 108–202][/us/pl/108/202], § 9(m), Feb. 29, 2004, [118 Stat. 488][/us/stat/118/488]; [Pub. L. 108–224][/us/pl/108/224], § 7(m), Apr. 30, 2004, [118 Stat. 636][/us/stat/118/636]; [Pub. L. 108–263][/us/pl/108/263], § 7(m), June 30, 2004, [118 Stat. 707][/us/stat/118/707]; [Pub. L. 108–280][/us/pl/108/280], § 7(m), July 30, 2004, [118 Stat. 885][/us/stat/118/885]; [Pub. L. 108–310][/us/pl/108/310], § 8(m), Sept. 30, 2004, [118 Stat. 1158][/us/stat/118/1158]; [Pub. L. 109–14][/us/pl/109/14], § 7(l), May 31, 2005, [119 Stat. 333][/us/stat/119/333]; [Pub. L. 109–20][/us/pl/109/20], § 7(l), July 1, 2005, [119 Stat. 355][/us/stat/119/355]; [Pub. L. 109–35][/us/pl/109/35], § 7(l), July 20, 2005, [119 Stat. 388][/us/stat/119/388]; [Pub. L. 109–37][/us/pl/109/37], § 7(l), July 22, 2005, [119 Stat. 403][/us/stat/119/403]; [Pub. L. 109–40][/us/pl/109/40], § 7(l), July 28, 2005, [119 Stat. 420][/us/stat/119/420]; [Pub. L. 109–59, title III][/us/pl/109/59/tIII], § 3039(a), Aug. 10, 2005, [119 Stat. 1638][/us/stat/119/1638], which provided for grants to over-the-road bus operators to finance costs associated with bus accessibility for persons with disabilities, was repealed by [Pub. L. 112–141, div. B][/us/pl/112/141/dB], § 20002(b), July 6, 2012, [126 Stat. 622][/us/stat/126/622].
 
 ----------
 
@@ -584,15 +584,15 @@ In subsection (f), the words “any applicable” are omitted as surplus. The wo
 
 [/us/usc/t42/s12101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12101
 [/us/usc/t42/s603/a/5/C/vii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs603%2Fa%2F5%2FC%2Fvii
-[/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F807
-[/us/pl/105/178/s3013/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs3013%2Fa
+[/us/pl/105/178/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtIII
 [/us/stat/112/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F359
-[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIII
 [/us/stat/119/1544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1544
-[/us/pl/112/141/s20009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs20009
+[/us/pl/112/141/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdB
 [/us/stat/126/675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F675
-[/us/pl/114/94/s3006/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3006%2Fa
+[/us/pl/114/94/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtIII
 [/us/stat/129/1462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1462
 [/us/pl/102/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240
 [/us/stat/105/2110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2110
@@ -600,16 +600,16 @@ In subsection (f), the words “any applicable” are omitted as surplus. The wo
 [/us/stat/104/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F327
 [/us/usc/t42/s12101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12101
 [/us/usc/t23/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs204
-[/us/pl/112/141/s1119/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1119%2Fa
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F473
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
-[/us/pl/114/94/s3006/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3006%2Fa%2F1
-[/us/pl/114/94/s3006/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3006%2Fa%2F2
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
-[/us/pl/109/59/s3012/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3012%2Fa
-[/us/pl/109/59/s3002/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3002%2Fb%2F2
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
@@ -617,59 +617,59 @@ In subsection (f), the words “any applicable” are omitted as surplus. The wo
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
-[/us/pl/114/94/s3006/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3006%2Fb
+[/us/pl/114/94/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtIII
 [/us/stat/129/1462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1462
 [/us/usc/t49/s5302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5302
 [/us/usc/t49/s5310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5310
-[/us/pl/109/59/s3012/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3012%2Fb
+[/us/pl/109/59/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIII
 [/us/stat/119/1591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1591
-[/us/pl/111/147/s437/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2Fs437%2Fc
+[/us/pl/111/147/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2FtIV
 [/us/stat/124/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F92
-[/us/pl/111/322/s2307/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F322%2Fs2307%2Fc
+[/us/pl/111/322/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F322%2FtII
 [/us/stat/124/3530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3530
-[/us/pl/112/5/s307/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F5%2Fs307%2Fc
+[/us/pl/112/5/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F5%2FtIII
 [/us/stat/125/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F21
-[/us/pl/112/30/s137/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F30%2Fs137%2Fc
+[/us/pl/112/30/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F30%2FtI
 [/us/stat/125/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F354
-[/us/pl/112/102/s307/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F102%2Fs307%2Fc
+[/us/pl/112/102/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F102%2FtIII
 [/us/stat/126/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F280
-[/us/pl/112/140/s307/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F140%2Fs307%2Fc
+[/us/pl/112/140/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F140%2FtIII
 [/us/stat/126/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F401
-[/us/pl/112/141/s113007/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs113007%2Fc
+[/us/pl/112/141/dG/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdG%2FtIII
 [/us/stat/126/987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F987
-[/us/pl/112/141/s20002/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs20002%2Fc%2F3
+[/us/pl/112/141/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdB
 [/us/stat/126/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F622
-[/us/pl/105/178/s3038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs3038
+[/us/pl/105/178/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtIII
 [/us/stat/112/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F392
-[/us/pl/105/206/s9009/x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs9009%2Fx
+[/us/pl/105/206/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIX
 [/us/stat/112/862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F862
-[/us/pl/106/346/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F346%2Fs101%2Fa
+[/us/pl/106/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F346
 [/us/stat/114/1356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1356
-[/us/pl/108/88/s8/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F88%2Fs8%2Fm
+[/us/pl/108/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F88
 [/us/stat/117/1125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1125
-[/us/pl/108/202/s9/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F202%2Fs9%2Fm
+[/us/pl/108/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F202
 [/us/stat/118/488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F488
-[/us/pl/108/224/s7/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F224%2Fs7%2Fm
+[/us/pl/108/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F224
 [/us/stat/118/636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F636
-[/us/pl/108/263/s7/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F263%2Fs7%2Fm
+[/us/pl/108/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F263
 [/us/stat/118/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F707
-[/us/pl/108/280/s7/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F280%2Fs7%2Fm
+[/us/pl/108/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F280
 [/us/stat/118/885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F885
-[/us/pl/108/310/s8/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F310%2Fs8%2Fm
+[/us/pl/108/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F310
 [/us/stat/118/1158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1158
-[/us/pl/109/14/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F14%2Fs7
+[/us/pl/109/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F14
 [/us/stat/119/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F333
-[/us/pl/109/20/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F20%2Fs7
+[/us/pl/109/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F20
 [/us/stat/119/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F355
-[/us/pl/109/35/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F35%2Fs7
+[/us/pl/109/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F35
 [/us/stat/119/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F388
-[/us/pl/109/37/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F37%2Fs7
+[/us/pl/109/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F37
 [/us/stat/119/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F403
-[/us/pl/109/40/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F40%2Fs7
+[/us/pl/109/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F40
 [/us/stat/119/420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F420
-[/us/pl/109/59/s3039/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3039%2Fa
+[/us/pl/109/59/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIII
 [/us/stat/119/1638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1638
-[/us/pl/112/141/s20002/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs20002%2Fb
+[/us/pl/112/141/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdB
 [/us/stat/126/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F622
 
 

@@ -101,7 +101,7 @@
 
             (B) The State or political subdivision of the State in which the employee’s scheduled flight time would have been more than 50 percent of the employee’s total scheduled flight time for the calendar year had the employee been engaged full time in the performance of regularly assigned duties on the carrier’s aircraft.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1111][/us/stat/108/1111]; [Pub. L. 103–305, title I, § 112(e)][/us/pl/103/305/s112/e], title II, § 208, Aug. 23, 1994, [108 Stat. 1576][/us/stat/108/1576], 1588; [Pub. L. 104–264, title I, § 149(b)][/us/pl/104/264/s149/b], Oct. 9, 1996, [110 Stat. 3226][/us/stat/110/3226]; [Pub. L. 104–287, § 5(66)][/us/pl/104/287/s5/66], Oct. 11, 1996, [110 Stat. 3395][/us/stat/110/3395].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1111][/us/stat/108/1111]; [Pub. L. 103–305, title I][/us/pl/103/305/tI], § 112(e), title II, § 208, Aug. 23, 1994, [108 Stat. 1576][/us/stat/108/1576], 1588; [Pub. L. 104–264, title I][/us/pl/104/264/tI], § 149(b), Oct. 9, 1996, [110 Stat. 3226][/us/stat/110/3226]; [Pub. L. 104–287][/us/pl/104/287], § 5(66), Oct. 11, 1996, [110 Stat. 3395][/us/stat/110/3395].)
 
 <table>
 
@@ -303,9 +303,9 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 1112; added Dec. 23, 1970, P
 
     [Pub. L. 104–287][/us/pl/104/287] substituted “levy” for “Levy”.
 
-    1994—Subsec. (d)(2)(A)(iv). [Pub. L. 103–305, § 112(e)][/us/pl/103/305/s112/e], added cl. (iv).
+    1994—Subsec. (d)(2)(A)(iv). [Pub. L. 103–305][/us/pl/103/305], § 112(e), added cl. (iv).
 
-    Subsec. (f)(3). [Pub. L. 103–305, § 208][/us/pl/103/305/s208], added par. (3).
+    Subsec. (f)(3). [Pub. L. 103–305][/us/pl/103/305], § 208, added par. (3).
 
  __Effective Date of 1996 Amendment__ 
 
@@ -320,21 +320,21 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 1112; added Dec. 23, 1970, P
 
 [/us/usc/t49/s40117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40117
 [/us/usc/t49/s47134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs47134
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1111
-[/us/pl/103/305/s112/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2Fs112%2Fe
+[/us/pl/103/305/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2FtI
 [/us/stat/108/1576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1576
-[/us/pl/104/264/s149/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs149%2Fb
+[/us/pl/104/264/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2FtI
 [/us/stat/110/3226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3226
-[/us/pl/104/287/s5/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F66
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3395
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
 [/us/usc/t49/s47134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs47134
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
-[/us/pl/103/305/s112/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2Fs112%2Fe
-[/us/pl/103/305/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2Fs208
+[/us/pl/103/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305
+[/us/pl/103/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305
 [/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
 [/us/pl/104/264/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106

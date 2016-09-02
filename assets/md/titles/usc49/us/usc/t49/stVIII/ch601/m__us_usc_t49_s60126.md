@@ -95,7 +95,7 @@
 
         (2) recommendations concerning whether the applications of risk management demonstrated under the demonstration project should be incorporated into the Federal pipeline safety program under this chapter on a permanent basis.
 
-(Added [Pub. L. 104–304, § 5(a)][/us/pl/104/304/s5/a], Oct. 12, 1996, [110 Stat. 3798][/us/stat/110/3798].)
+(Added [Pub. L. 104–304][/us/pl/104/304], § 5(a), Oct. 12, 1996, [110 Stat. 3798][/us/stat/110/3798].)
 
  __Deemed References to Chapters 509 and 511 of Title 51__ 
 
@@ -108,7 +108,7 @@
 ----------
 ----------
 
-[/us/pl/104/304/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304%2Fs5%2Fa
+[/us/pl/104/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304
 [/us/stat/110/3798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3798
 [/us/pl/111/314/s4/d/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314%2Fs4%2Fd%2F8
 [/us/usc/t49/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs101

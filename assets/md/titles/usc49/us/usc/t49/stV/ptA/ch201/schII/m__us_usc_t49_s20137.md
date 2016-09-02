@@ -27,7 +27,7 @@
 
     Not later than December 22, 1989, the Secretary shall prescribe regulations and issue orders that may be necessary to enhance safety by requiring that a train be equipped with an event recorder not later than one year after the regulations are prescribed and the orders are issued. However, if the Secretary finds it is impracticable to equip trains within that one-year period, the Secretary may extend the period to a date that is not later than 18 months after the regulations are prescribed and the orders are issued.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 875][/us/stat/108/875].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 875][/us/stat/108/875].)
 
 <table>
 
@@ -84,7 +84,7 @@ Oct. 16, 1970, Pub. L. 91–458, 84 Stat. 971, § 202(m); added June 22, 1988,
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F875
 
 

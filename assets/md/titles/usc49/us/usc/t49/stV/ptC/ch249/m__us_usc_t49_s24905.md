@@ -159,7 +159,7 @@
 
         At the beginning of the first session of each Congress, the Secretary shall submit a report to the Commission and to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on the status of efforts to improve safety and security on the Northeast Corridor main line. The report shall include the safety and security recommendations of the Committee and the comments of the Secretary on those recommendations.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 935][/us/stat/108/935]; [Pub. L. 110–432, div. B, title II, § 212(a)][/us/pl/110/432/s212/a], Oct. 16, 2008, [122 Stat. 4921][/us/stat/122/4921]; [Pub. L. 114–94, div. A, title XI, § 11305(a)][/us/pl/114/94/s11305/a]–(d)(1), Dec. 4, 2015, [129 Stat. 1656][/us/stat/129/1656], 1657.)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 935][/us/stat/108/935]; [Pub. L. 110–432, div. B, title II][/us/pl/110/432/dB/tII], § 212(a), Oct. 16, 2008, [122 Stat. 4921][/us/stat/122/4921]; [Pub. L. 114–94, div. A, title XI][/us/pl/114/94/dA/tXI], § 11305(a)–(d)(1), Dec. 4, 2015, [129 Stat. 1656][/us/stat/129/1656], 1657.)
 
 <table>
 
@@ -267,35 +267,35 @@ June 22, 1988, Pub. L. 100–342, § 11, 102 Stat. 629; Sept. 3, 1992, Pub. L.
 
     Section 203 of the Passenger Rail Investment and Improvement Act of 2008, referred to in subsec. (c)(3), is set out as a note under [section 24101 of this title][/us/usc/t49/s24101].
 
-    Section 11101(g) of the Passenger Rail Reform and Investment Act of 2015, referred to in subsec. (d), is [section 11101(g) of title XI of div. A of Pub. L. 114–94][/us/pl/114/94/s11101/g], Dec. 4, 2015, [129 Stat. 1623][/us/stat/129/1623], which is not classified to the Code.
+    Section 11101(g) of the Passenger Rail Reform and Investment Act of 2015, referred to in subsec. (d), is [section 11101(g) of title XI of div. A of Pub. L. 114–94][/us/pl/114/94/dA/tXI/s11101/g], Dec. 4, 2015, [129 Stat. 1623][/us/stat/129/1623], which is not classified to the Code.
 
  __Amendments__ 
 
-    2015—[Pub. L. 114–94, § 11305(d)(1)(A)][/us/pl/114/94/s11305/d/1/A], struck out “Infrastructure and Operations Advisory” after “Corridor” in section catchline.
+    2015—[Pub. L. 114–94][/us/pl/114/94], § 11305(d)(1)(A), struck out “Infrastructure and Operations Advisory” after “Corridor” in section catchline.
 
-    Subsec. (a). [Pub. L. 114–94, § 11305(d)(1)(B)(i)][/us/pl/114/94/s11305/d/1/B/i], struck out “Infrastructure and Operations Advisory” after “Corridor” in heading.
+    Subsec. (a). [Pub. L. 114–94][/us/pl/114/94], § 11305(d)(1)(B)(i), struck out “Infrastructure and Operations Advisory” after “Corridor” in heading.
 
-    Subsec. (a)(1). [Pub. L. 114–94, § 11305(a)(1)(A)][/us/pl/114/94/s11305/a/1/A], (d)(1)(B)(ii), struck out “Infrastructure and Operations Advisory” after “Corridor” and inserted “, infrastructure investments,” after “rail operations” in introductory provisions.
+    Subsec. (a)(1). [Pub. L. 114–94][/us/pl/114/94], § 11305(a)(1)(A), (d)(1)(B)(ii), struck out “Infrastructure and Operations Advisory” after “Corridor” and inserted “, infrastructure investments,” after “rail operations” in introductory provisions.
 
-    Subsec. (a)(1)(B). [Pub. L. 114–94, § 11305(a)(1)(B)][/us/pl/114/94/s11305/a/1/B], added subpar. (B) and struck out former subpar. (B) which read as follows: “members representing the Department of Transportation, including the Federal Railroad Administration;”.
+    Subsec. (a)(1)(B). [Pub. L. 114–94][/us/pl/114/94], § 11305(a)(1)(B), added subpar. (B) and struck out former subpar. (B) which read as follows: “members representing the Department of Transportation, including the Federal Railroad Administration;”.
 
-    Subsec. (a)(1)(D). [Pub. L. 114–94, § 11305(a)(1)(C)][/us/pl/114/94/s11305/a/1/C], inserted “and commuter” after “freight”.
+    Subsec. (a)(1)(D). [Pub. L. 114–94][/us/pl/114/94], § 11305(a)(1)(C), inserted “and commuter” after “freight”.
 
-    Subsec. (a)(6). [Pub. L. 114–94, § 11305(a)(2)][/us/pl/114/94/s11305/a/2], amended par. (6) generally. Prior to amendment, par. (6) read as follows: “The Chairman of the Commission shall be elected by the members.”
+    Subsec. (a)(6). [Pub. L. 114–94][/us/pl/114/94], § 11305(a)(2), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “The Chairman of the Commission shall be elected by the members.”
 
-    Subsec. (b)(1). [Pub. L. 114–94, § 11305(b)(1)][/us/pl/114/94/s11305/b/1], inserted “and periodically update” after “develop”.
+    Subsec. (b)(1). [Pub. L. 114–94][/us/pl/114/94], § 11305(b)(1), inserted “and periodically update” after “develop”.
 
-    Subsec. (b)(2)(A). [Pub. L. 114–94, § 11305(b)(2)][/us/pl/114/94/s11305/b/2], struck out “beyond those specified in the state-of-good-repair plan under section 211 of the Passenger Rail Investment and Improvement Act of 2008” after “needs”.
+    Subsec. (b)(2)(A). [Pub. L. 114–94][/us/pl/114/94], § 11305(b)(2), struck out “beyond those specified in the state-of-good-repair plan under section 211 of the Passenger Rail Investment and Improvement Act of 2008” after “needs”.
 
-    Subsec. (b)(3). [Pub. L. 114–94, § 11305(b)(3)][/us/pl/114/94/s11305/b/3], added par. (3).
+    Subsec. (b)(3). [Pub. L. 114–94][/us/pl/114/94], § 11305(b)(3), added par. (3).
 
-    Subsec. (c). [Pub. L. 114–94, § 11305(c)(1)][/us/pl/114/94/s11305/c/1], substituted “Allocation of Costs” for “Access Costs” in heading.
+    Subsec. (c). [Pub. L. 114–94][/us/pl/114/94], § 11305(c)(1), substituted “Allocation of Costs” for “Access Costs” in heading.
 
-    Subsec. (c)(1). [Pub. L. 114–94, § 11305(c)(2)(A)][/us/pl/114/94/s11305/c/2/A], (B), substituted “policy” for “formula” in heading and “The Commission” for “Within 2 years after the date of enactment of the Passenger Rail Investment and Improvement Act of 2008, the Commission” in introductory provisions.
+    Subsec. (c)(1). [Pub. L. 114–94][/us/pl/114/94], § 11305(c)(2)(A), (B), substituted “policy” for “formula” in heading and “The Commission” for “Within 2 years after the date of enactment of the Passenger Rail Investment and Improvement Act of 2008, the Commission” in introductory provisions.
 
-    Subsec. (c)(1)(A). [Pub. L. 114–94, § 11305(c)(2)(C)][/us/pl/114/94/s11305/c/2/C], substituted “policy” for “formula” in introductory provisions.
+    Subsec. (c)(1)(A). [Pub. L. 114–94][/us/pl/114/94], § 11305(c)(2)(C), substituted “policy” for “formula” in introductory provisions.
 
-    Subsec. (c)(1)(B) to (E). [Pub. L. 114–94, § 11305(c)(2)(D)][/us/pl/114/94/s11305/c/2/D], added subpars. (B) to (E) and struck out former subpars. (B) to (D) which read as follows:
+    Subsec. (c)(1)(B) to (E). [Pub. L. 114–94][/us/pl/114/94], § 11305(c)(2)(D), added subpars. (B) to (E) and struck out former subpars. (B) to (D) which read as follows:
 
     “(B) develop a proposed timetable for implementing the formula before the end of the 6th year following the date of enactment of that Act;
 
@@ -303,21 +303,21 @@ June 22, 1988, Pub. L. 100–342, § 11, 102 Stat. 629; Sept. 3, 1992, Pub. L.
 
     “(D) at the request of a Commission member, petition the Surface Transportation Board to appoint a mediator to assist the Commission members through non-binding mediation to reach an agreement under this section.”.
 
-    Subsec. (c)(2). [Pub. L. 114–94, § 11305(c)(3)][/us/pl/114/94/s11305/c/3], substituted “policy developed under” for “formula proposed in”, “paragraph (1)(D) or fail to comply with the policy thereafter, the Surface Transportation Board shall” for “the timetable, the Commission shall petition the Surface Transportation Board to”, and “for such usage in accordance with the procedures and procedural schedule applicable to a proceeding under section 24903(c), after taking into consideration the policy developed under paragraph (1)(A), as applicable” for “amounts for such services in accordance with [section 24904(c) of this title][/us/usc/t49/s24904/c]”.
+    Subsec. (c)(2). [Pub. L. 114–94][/us/pl/114/94], § 11305(c)(3), substituted “policy developed under” for “formula proposed in”, “paragraph (1)(D) or fail to comply with the policy thereafter, the Surface Transportation Board shall” for “the timetable, the Commission shall petition the Surface Transportation Board to”, and “for such usage in accordance with the procedures and procedural schedule applicable to a proceeding under section 24903(c), after taking into consideration the policy developed under paragraph (1)(A), as applicable” for “amounts for such services in accordance with [section 24904(c) of this title][/us/usc/t49/s24904/c]”.
 
-    Subsec. (c)(3). [Pub. L. 114–94, § 11305(c)(4)][/us/pl/114/94/s11305/c/4], substituted “policy” for “formula”.
+    Subsec. (c)(3). [Pub. L. 114–94][/us/pl/114/94], § 11305(c)(4), substituted “policy” for “formula”.
 
-    Subsec. (c)(4). [Pub. L. 114–94, § 11305(c)(5)][/us/pl/114/94/s11305/c/5], added par. (4).
+    Subsec. (c)(4). [Pub. L. 114–94][/us/pl/114/94], § 11305(c)(5), added par. (4).
 
-    Subsec. (d). [Pub. L. 114–94, § 11305(d)(1)(E)][/us/pl/114/94/s11305/d/1/E], substituted “to the Secretary for the use of the Commission and the Northeast Corridor Safety Committee” for “to the Commission” and “to carry out this section during fiscal years 2016 through 2020, in addition to any amounts withheld under section 11101(g) of the Passenger Rail Reform and Investment Act of 2015” for “for the period encompassing fiscal years 2009 through 2013 to carry out this section”.
+    Subsec. (d). [Pub. L. 114–94][/us/pl/114/94], § 11305(d)(1)(E), substituted “to the Secretary for the use of the Commission and the Northeast Corridor Safety Committee” for “to the Commission” and “to carry out this section during fiscal years 2016 through 2020, in addition to any amounts withheld under section 11101(g) of the Passenger Rail Reform and Investment Act of 2015” for “for the period encompassing fiscal years 2009 through 2013 to carry out this section”.
 
-    [Pub. L. 114–94, § 11305(d)(1)(C)][/us/pl/114/94/s11305/d/1/C], (D), redesignated subsec. (e) as (d) and struck out former subsec. (d) which related to transmission of statement of goals and recommendations.
+    [Pub. L. 114–94][/us/pl/114/94], § 11305(d)(1)(C), (D), redesignated subsec. (e) as (d) and struck out former subsec. (d) which related to transmission of statement of goals and recommendations.
 
-    Subsec. (e). [Pub. L. 114–94, § 11305(d)(1)(D)][/us/pl/114/94/s11305/d/1/D], redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
+    Subsec. (e). [Pub. L. 114–94][/us/pl/114/94], § 11305(d)(1)(D), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
 
-    Subsec. (e)(2). [Pub. L. 114–94, § 11305(d)(1)(F)][/us/pl/114/94/s11305/d/1/F], substituted “on the main line and meet annually with the Commission on the topic of Northeast Corridor safety and security.” for “on the main line.”
+    Subsec. (e)(2). [Pub. L. 114–94][/us/pl/114/94], § 11305(d)(1)(F), substituted “on the main line and meet annually with the Commission on the topic of Northeast Corridor safety and security.” for “on the main line.”
 
-    Subsec. (f). [Pub. L. 114–94, § 11305(d)(1)(D)][/us/pl/114/94/s11305/d/1/D], redesignated subsec. (f) as (e).
+    Subsec. (f). [Pub. L. 114–94][/us/pl/114/94], § 11305(d)(1)(D), redesignated subsec. (f) as (e).
 
     2008—[Pub. L. 110–432][/us/pl/110/432] amended section generally. Prior to amendment, section related to Northeast Corridor Coordination Board and Northeast Corridor Safety Committee.
 
@@ -333,38 +333,38 @@ June 22, 1988, Pub. L. 100–342, § 11, 102 Stat. 629; Sept. 3, 1992, Pub. L.
 ----------
 
 [/us/usc/t49/s24102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24102
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F935
-[/us/pl/110/432/s212/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs212%2Fa
+[/us/pl/110/432/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdB%2FtII
 [/us/stat/122/4921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4921
-[/us/pl/114/94/s11305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11305%2Fa
+[/us/pl/114/94/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtXI
 [/us/stat/129/1656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1656
 [/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
 [/us/usc/t49/s24101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24101
-[/us/pl/114/94/s11101/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11101%2Fg
+[/us/pl/114/94/dA/tXI/s11101/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtXI%2Fs11101%2Fg
 [/us/stat/129/1623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1623
-[/us/pl/114/94/s11305/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11305%2Fd%2F1%2FA
-[/us/pl/114/94/s11305/d/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11305%2Fd%2F1%2FB%2Fi
-[/us/pl/114/94/s11305/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11305%2Fa%2F1%2FA
-[/us/pl/114/94/s11305/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11305%2Fa%2F1%2FB
-[/us/pl/114/94/s11305/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11305%2Fa%2F1%2FC
-[/us/pl/114/94/s11305/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11305%2Fa%2F2
-[/us/pl/114/94/s11305/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11305%2Fb%2F1
-[/us/pl/114/94/s11305/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11305%2Fb%2F2
-[/us/pl/114/94/s11305/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11305%2Fb%2F3
-[/us/pl/114/94/s11305/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11305%2Fc%2F1
-[/us/pl/114/94/s11305/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11305%2Fc%2F2%2FA
-[/us/pl/114/94/s11305/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11305%2Fc%2F2%2FC
-[/us/pl/114/94/s11305/c/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11305%2Fc%2F2%2FD
-[/us/pl/114/94/s11305/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11305%2Fc%2F3
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/usc/t49/s24904/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24904%2Fc
-[/us/pl/114/94/s11305/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11305%2Fc%2F4
-[/us/pl/114/94/s11305/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11305%2Fc%2F5
-[/us/pl/114/94/s11305/d/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11305%2Fd%2F1%2FE
-[/us/pl/114/94/s11305/d/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11305%2Fd%2F1%2FC
-[/us/pl/114/94/s11305/d/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11305%2Fd%2F1%2FD
-[/us/pl/114/94/s11305/d/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11305%2Fd%2F1%2FF
-[/us/pl/114/94/s11305/d/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11305%2Fd%2F1%2FD
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003

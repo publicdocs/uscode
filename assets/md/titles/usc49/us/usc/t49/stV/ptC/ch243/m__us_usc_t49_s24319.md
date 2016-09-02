@@ -93,7 +93,7 @@
 
     Notwithstanding section 24102, for purposes of this section, the term “Northeast Corridor” means the Northeast Corridor main line between Boston, Massachusetts, and the District of Columbia, and facilities and services used to operate and maintain that line.
 
-(Added [Pub. L. 114–94, div. A, title XI, § 11202(a)][/us/pl/114/94/s11202/a], Dec. 4, 2015, [129 Stat. 1628][/us/stat/129/1628].)
+(Added [Pub. L. 114–94, div. A, title XI][/us/pl/114/94/dA/tXI], § 11202(a), Dec. 4, 2015, [129 Stat. 1628][/us/stat/129/1628].)
 
  __References in Text__ 
 
@@ -110,7 +110,7 @@
 ----------
 ----------
 
-[/us/pl/114/94/s11202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11202%2Fa
+[/us/pl/114/94/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtXI
 [/us/stat/129/1628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1628
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003

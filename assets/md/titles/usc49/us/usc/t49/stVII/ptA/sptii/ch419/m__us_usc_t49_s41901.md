@@ -49,7 +49,7 @@
 
     The Postal Service shall introduce as part of the record in every proceeding under this section a comprehensive statement of the services to be required of the air carrier and other information the Postal Service has that the Secretary considers material to the proceeding.
 
-([Pub. L. 103–272][/us/pl/103/272], §§ 1(e), 4(k)(1), (2), July 5, 1994, [108 Stat. 1153][/us/stat/108/1153], 1370; [Pub. L. 104–52, title VI, § 631(c)][/us/pl/104/52/s631/c], Nov. 19, 1995, [109 Stat. 505][/us/stat/109/505]; [Pub. L. 106–31, title VI, § 6003][/us/pl/106/31/s6003], May 21, 1999, [113 Stat. 113][/us/stat/113/113]; [Pub. L. 107–206, title III, § 3002(e)(2)][/us/pl/107/206/s3002/e/2], Aug. 2, 2002, [116 Stat. 924][/us/stat/116/924]; [Pub. L. 110–405, § 2(b)(1)][/us/pl/110/405/s2/b/1], (2), Oct. 13, 2008, [122 Stat. 4289][/us/stat/122/4289].)
+([Pub. L. 103–272][/us/pl/103/272], §§ 1(e), 4(k)(1), (2), July 5, 1994, [108 Stat. 1153][/us/stat/108/1153], 1370; [Pub. L. 104–52, title VI][/us/pl/104/52/tVI], § 631(c), Nov. 19, 1995, [109 Stat. 505][/us/stat/109/505]; [Pub. L. 106–31, title VI][/us/pl/106/31/tVI], § 6003, May 21, 1999, [113 Stat. 113][/us/stat/113/113]; [Pub. L. 107–206, title III][/us/pl/107/206/tIII], § 3002(e)(2), Aug. 2, 2002, [116 Stat. 924][/us/stat/116/924]; [Pub. L. 110–405][/us/pl/110/405], § 2(b)(1), (2), Oct. 13, 2008, [122 Stat. 4289][/us/stat/122/4289].)
 
 <table>
 
@@ -381,19 +381,19 @@ Section 4(k) reflects amendments to the restatement required by section 1601(a)(
 
  __Amendments__ 
 
-    2008—Subsec. (a). [Pub. L. 110–405, § 2(b)(1)][/us/pl/110/405/s2/b/1], substituted “39, and in foreign air transportation under section 5402(b) and (c) of title 39.” for “39.”
+    2008—Subsec. (a). [Pub. L. 110–405][/us/pl/110/405], § 2(b)(1), substituted “39, and in foreign air transportation under section 5402(b) and (c) of title 39.” for “39.”
 
-    Subsec. (b)(1). [Pub. L. 110–405, § 2(b)(2)][/us/pl/110/405/s2/b/2], struck out “in foreign air transportation or” after “aircraft”.
+    Subsec. (b)(1). [Pub. L. 110–405][/us/pl/110/405], § 2(b)(2), struck out “in foreign air transportation or” after “aircraft”.
 
     2002—Subsec. (a). [Pub. L. 107–206][/us/pl/107/206] substituted “5402(e)” for “5402(d)”.
 
-    1999—Subsecs. (b)(1), (g). [Pub. L. 106–31][/us/pl/106/31] repealed [Pub. L. 103–272, § 4(k)][/us/pl/103/272/s4/k]. See 1994 Amendment notes below.
+    1999—Subsecs. (b)(1), (g). [Pub. L. 106–31][/us/pl/106/31] repealed [Pub. L. 103–272][/us/pl/103/272], § 4(k). See 1994 Amendment notes below.
 
     1995—Subsec. (g). [Pub. L. 104–52][/us/pl/104/52] struck out subsec. (g) which read as follows: “Expiration Date.—The authority of the Secretary under this part and [section 5402 of title 39][/us/usc/t39/s5402] providing for the transportation of mail by aircraft between places in Alaska expires on the date specified in [section 5402(f) of title 39][/us/usc/t39/s5402/f].”
 
-    1994—Subsec. (b)(1). [Pub. L. 103–272, § 4(k)(1)][/us/pl/103/272/s4/k/1], which directed the amendment of this section by substituting “foreign air transportation,” for “foreign air transportation or between places in Alaska,”, effective Jan. 1, 1999, was repealed by [Pub. L. 106–31, § 6003][/us/pl/106/31/s6003], effective Dec. 31, 1998.
+    1994—Subsec. (b)(1). [Pub. L. 103–272][/us/pl/103/272], § 4(k)(1), which directed the amendment of this section by substituting “foreign air transportation,” for “foreign air transportation or between places in Alaska,”, effective Jan. 1, 1999, was repealed by [Pub. L. 106–31][/us/pl/106/31], § 6003, effective Dec. 31, 1998.
 
-    Subsec. (g). [Pub. L. 103–272, § 4(k)(2)][/us/pl/103/272/s4/k/2], which directed the amendment of this section by striking out subsec. (g), effective Jan. 1, 1999, was repealed by [Pub. L. 106–31, § 6003][/us/pl/106/31/s6003], effective Dec. 31, 1998.
+    Subsec. (g). [Pub. L. 103–272][/us/pl/103/272], § 4(k)(2), which directed the amendment of this section by striking out subsec. (g), effective Jan. 1, 1999, was repealed by [Pub. L. 106–31][/us/pl/106/31], § 6003, effective Dec. 31, 1998.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -401,7 +401,7 @@ Section 4(k) reflects amendments to the restatement required by section 1601(a)(
 
  __Effective Date of 1999 Amendment__ 
 
-    [Pub. L. 106–31, title VI, § 6003][/us/pl/106/31/s6003], May 21, 1999, [113 Stat. 113][/us/stat/113/113], provided that the amendment made by section 6003 is effective Dec. 31, 1998.
+    [Pub. L. 106–31, title VI][/us/pl/106/31/tVI], § 6003, May 21, 1999, [113 Stat. 113][/us/stat/113/113], provided that the amendment made by section 6003 is effective Dec. 31, 1998.
 
 ----------
 
@@ -413,13 +413,13 @@ Section 4(k) reflects amendments to the restatement required by section 1601(a)(
 [/us/usc/t39/s5402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs5402
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1153
-[/us/pl/104/52/s631/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F52%2Fs631%2Fc
+[/us/pl/104/52/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F52%2FtVI
 [/us/stat/109/505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F505
-[/us/pl/106/31/s6003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31%2Fs6003
+[/us/pl/106/31/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31%2FtVI
 [/us/stat/113/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F113
-[/us/pl/107/206/s3002/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2Fs3002%2Fe%2F2
+[/us/pl/107/206/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2FtIII
 [/us/stat/116/924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F924
-[/us/pl/110/405/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F405%2Fs2%2Fb%2F1
+[/us/pl/110/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F405
 [/us/stat/122/4289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4289
 [/us/usc/t39/s5402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs5402
 [/us/pl/85/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F726
@@ -430,22 +430,22 @@ Section 4(k) reflects amendments to the restatement required by section 1601(a)(
 [/us/stat/72/731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F731
 [/us/pl/98/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F443
 [/us/stat/98/1704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1704
-[/us/pl/110/405/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F405%2Fs2%2Fb%2F1
-[/us/pl/110/405/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F405%2Fs2%2Fb%2F2
+[/us/pl/110/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F405
+[/us/pl/110/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F405
 [/us/pl/107/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206
 [/us/pl/106/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31
-[/us/pl/103/272/s4/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs4%2Fk
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/pl/104/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F52
 [/us/usc/t39/s5402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs5402
 [/us/usc/t39/s5402/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs5402%2Ff
-[/us/pl/103/272/s4/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs4%2Fk%2F1
-[/us/pl/106/31/s6003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31%2Fs6003
-[/us/pl/103/272/s4/k/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs4%2Fk%2F2
-[/us/pl/106/31/s6003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31%2Fs6003
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
+[/us/pl/106/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
+[/us/pl/106/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31
 [/us/pl/110/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F405
 [/us/pl/110/405/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F405%2Fs2%2Fc
 [/us/usc/t39/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs101
-[/us/pl/106/31/s6003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31%2Fs6003
+[/us/pl/106/31/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31%2FtVI
 [/us/stat/113/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F113
 
 

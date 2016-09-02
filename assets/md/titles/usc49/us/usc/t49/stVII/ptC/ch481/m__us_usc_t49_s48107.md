@@ -17,7 +17,7 @@
 
     After the review under [section 44912(b) of this title][/us/usc/t49/s44912/b] is completed, necessary amounts may be appropriated to the Secretary of Transportation out of the Airport and Airway Trust Fund established under section 9502 of the Internal Revenue Code of 1986 ([26 U.S.C. 9502][/us/usc/t26/s9502]) to make grants under section 44912(a)(4)(A).
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1297][/us/stat/108/1297].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1297][/us/stat/108/1297].)
 
 <table>
 
@@ -76,7 +76,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 316(d)(9); added Nov. 16, 19
 
 [/us/usc/t49/s44912/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44912%2Fb
 [/us/usc/t26/s9502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9502
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1297
 
 

@@ -17,7 +17,7 @@
 
     The Secretary of Transportation shall prescribe regulations applying blue signal protection to on-track vehicles where rest is provided.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 881][/us/stat/108/881].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 881][/us/stat/108/881].)
 
 <table>
 
@@ -74,7 +74,7 @@ June 22, 1988, Pub. L. 100–342, § 19(c), 102 Stat. 638.  </td>
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F881
 
 

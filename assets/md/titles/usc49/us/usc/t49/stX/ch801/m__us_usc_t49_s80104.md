@@ -37,7 +37,7 @@
 
     When goods for which a negotiable bill of lading has been issued are in a common carrier’s possession, and the person to whom the bill has been issued retains possession of the bill after selling, mortgaging, or pledging the goods or bill, the subsequent negotiation of the bill by that person to another person receiving the bill for value, in good faith, and without notice of the prior sale, mortgage, or pledge has the same effect as if the first purchaser of the goods or bill had expressly authorized the subsequent negotiation.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1347][/us/stat/108/1347].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1347][/us/stat/108/1347].)
 
 <table>
 
@@ -150,7 +150,7 @@ Aug. 29, 1916, ch. 415, §§ 27, 28, 30, 37, 38, 39 Stat. 542, 543, 544.  </td
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1347
 
 

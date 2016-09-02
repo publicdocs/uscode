@@ -17,7 +17,7 @@
 
     The Secretary of Transportation shall prescribe regulations and issue orders that may be necessary to require that when railroad carrier employees (except train or yard crews) assigned to inspect, test, repair, or service rolling equipment have to work on, under, or between that equipment, every manually operated switch, including each crossover switch, providing access to the track on which the equipment is located is lined against movement to that track and secured by an effective locking device that can be removed only by the class or craft of employees performing the inspection, testing, repair, or service.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 872][/us/stat/108/872].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 872][/us/stat/108/872].)
 
 <table>
 
@@ -74,7 +74,7 @@ Oct. 16, 1970, Pub. L. 91–458, 84 Stat. 971, § 202(g) (1st sentence cl. (1)
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F872
 
 

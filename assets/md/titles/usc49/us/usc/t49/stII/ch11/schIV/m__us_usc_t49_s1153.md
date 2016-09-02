@@ -39,7 +39,7 @@
 
     If the Commandant of the Coast Guard decides that an order of the Board issued pursuant to a review of a Coast Guard action under [section 1133 of this title][/us/usc/t49/s1133] will have an adverse impact on maritime safety or security, the Commandant may obtain judicial review of the order under subsection (a). The Commandant, in the official capacity of the Commandant, shall be a party to the judicial review proceedings.
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 756][/us/stat/108/756]; [Pub. L. 108–293, title VI, § 622][/us/pl/108/293/s622], Aug. 9, 2004, [118 Stat. 1063][/us/stat/118/1063]; [Pub. L. 112–95, title III, § 301(b)][/us/pl/112/95/s301/b], Feb. 14, 2012, [126 Stat. 56][/us/stat/126/56].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(d), July 5, 1994, [108 Stat. 756][/us/stat/108/756]; [Pub. L. 108–293, title VI][/us/pl/108/293/tVI], § 622, Aug. 9, 2004, [118 Stat. 1063][/us/stat/118/1063]; [Pub. L. 112–95, title III][/us/pl/112/95/tIII], § 301(b), Feb. 14, 2012, [126 Stat. 56][/us/stat/126/56].)
 
 <table>
 
@@ -325,11 +325,11 @@ Oct. 15, 1966, Pub. L. 89–670, § 6(c)(1), 80 Stat. 938; Jan. 12, 1983, Pub.
 [/us/usc/t28/s1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1254
 [/us/usc/t49/s46110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs46110
 [/us/usc/t49/s1133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1133
-[/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F756
-[/us/pl/108/293/s622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs622
+[/us/pl/108/293/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2FtVI
 [/us/stat/118/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1063
-[/us/pl/112/95/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs301%2Fb
+[/us/pl/112/95/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtIII
 [/us/stat/126/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F56
 [/us/usc/t28/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2112
 [/us/pl/85/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F726

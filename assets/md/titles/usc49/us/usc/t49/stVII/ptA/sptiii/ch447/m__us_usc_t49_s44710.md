@@ -87,7 +87,7 @@
 
         (2) the Administrator decides that the waiver will facilitate law enforcement efforts.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1191][/us/stat/108/1191]; [Pub. L. 112–153, § 2(c)(3)][/us/pl/112/153/s2/c/3], Aug. 3, 2012, [126 Stat. 1161][/us/stat/126/1161].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1191][/us/stat/108/1191]; [Pub. L. 112–153][/us/pl/112/153], § 2(c)(3), Aug. 3, 2012, [126 Stat. 1161][/us/stat/126/1161].)
 
 <table>
 
@@ -283,9 +283,9 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 609(c)(5); added Nov. 18, 19
 [/us/usc/t49/s44703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44703
 [/us/usc/t49/s46110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs46110
 [/us/usc/t49/s44703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44703
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1191
-[/us/pl/112/153/s2/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F153%2Fs2%2Fc%2F3
+[/us/pl/112/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F153
 [/us/stat/126/1161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1161
 [/us/usc/t49/s44703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44703
 [/us/pl/112/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F153

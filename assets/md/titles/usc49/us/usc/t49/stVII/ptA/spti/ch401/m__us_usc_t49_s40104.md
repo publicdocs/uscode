@@ -27,7 +27,7 @@
 
     In carrying out subsection (a), the Administrator shall take action to encourage the construction of airport capacity enhancement projects at congested airports as those terms are defined in section 47176. <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1102][/us/stat/108/1102]; [Pub. L. 103–429, § 6(47)][/us/pl/103/429/s6/47], Oct. 31, 1994, [108 Stat. 4384][/us/stat/108/4384]; [Pub. L. 104–264, title IV, § 401(b)(1)][/us/pl/104/264/s401/b/1], Oct. 9, 1996, [110 Stat. 3255][/us/stat/110/3255]; [Pub. L. 108–176, title III, § 303][/us/pl/108/176/s303], title VIII, § 813, Dec. 12, 2003, [117 Stat. 2533][/us/stat/117/2533], 2590.)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1102][/us/stat/108/1102]; [Pub. L. 103–429][/us/pl/103/429], § 6(47), Oct. 31, 1994, [108 Stat. 4384][/us/stat/108/4384]; [Pub. L. 104–264, title IV][/us/pl/104/264/tIV], § 401(b)(1), Oct. 9, 1996, [110 Stat. 3255][/us/stat/110/3255]; [Pub. L. 108–176, title III][/us/pl/108/176/tIII], § 303, title VIII, § 813, Dec. 12, 2003, [117 Stat. 2533][/us/stat/117/2533], 2590.)
 
 <table>
 
@@ -117,7 +117,7 @@ Oct. 15, 1966, Pub. L. 89–670, § 6(c)(1), 80 Stat. 938; Jan. 12, 1983, Pub.
 
     The words “and foster” in 49 App.:1346 are omitted as surplus. The words “In carrying out this section” are substituted for “In furtherance of his mandate to promote civil aviation” in 49 App.:1346a because of the restatement. The word “Administrator” is substituted for “Secretary of Transportation acting through the Administrator of the Federal Aviation Administration” for consistency with the source provisions restated in this section. The words “be designed so as to”, “various aspects of”, and “civil and” are omitted as surplus.
 
- __[__  __Pub. L. 103–429, § 6(47)(A)__  __][/us/pl/103/429/s6/47/A]__  __, (B)__ 
+ __[__  __Pub. L. 103–429__  __][/us/pl/103/429]__  __, § 6(47)(A), (B)__ 
 
 This makes conforming amendments to 49:40104, as enacted by [section 1 of the Act of July 5, 1994][/us/act/1994-07-05/s1] ([Public Law 103–272][/us/pl/103/272], [108 Stat. 1102][/us/stat/108/1102]), because of the restatement of 49 App.:1655(c)(1) (words after last comma) as 49:40104(b) by section 6(47)(C) of the bill.
 
@@ -181,13 +181,13 @@ This makes conforming amendments to 49:40104, as enacted by [section 1 of the Ac
 
  __Amendments__ 
 
-    2003—Subsec. (b). [Pub. L. 108–176, § 813][/us/pl/108/176/s813], amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “The Secretary of Transportation may develop and construct a civil supersonic aircraft.”
+    2003—Subsec. (b). [Pub. L. 108–176][/us/pl/108/176], § 813, amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “The Secretary of Transportation may develop and construct a civil supersonic aircraft.”
 
-    Subsec. (c). [Pub. L. 108–176, § 303][/us/pl/108/176/s303], added subsec. (c).
+    Subsec. (c). [Pub. L. 108–176][/us/pl/108/176], § 303, added subsec. (c).
 
-    1996—[Pub. L. 104–264, § 401(b)(1)(A)][/us/pl/104/264/s401/b/1/A], inserted “safety of” before “air commerce” in section catchline.
+    1996—[Pub. L. 104–264][/us/pl/104/264], § 401(b)(1)(A), inserted “safety of” before “air commerce” in section catchline.
 
-    Subsec. (a). [Pub. L. 104–264, § 401(b)(1)(B)][/us/pl/104/264/s401/b/1/B], (C), inserted “Safety of” before “Air Commerce” in heading and “safety of” before “air commerce” in text.
+    Subsec. (a). [Pub. L. 104–264][/us/pl/104/264], § 401(b)(1)(B), (C), inserted “Safety of” before “Air Commerce” in heading and “safety of” before “air commerce” in text.
 
     1994—[Pub. L. 103–429][/us/pl/103/429] designated existing provisions as subsec. (a), inserted heading, substituted “carrying out this subsection” for “carrying out this section”, and added subsec. (b).
 
@@ -210,24 +210,24 @@ This makes conforming amendments to 49:40104, as enacted by [section 1 of the Ac
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1102
-[/us/pl/103/429/s6/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F47
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/stat/108/4384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4384
-[/us/pl/104/264/s401/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs401%2Fb%2F1
+[/us/pl/104/264/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2FtIV
 [/us/stat/110/3255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3255
-[/us/pl/108/176/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs303
+[/us/pl/108/176/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtIII
 [/us/stat/117/2533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2533
-[/us/pl/103/429/s6/47/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F47%2FA
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/act/1994-07-05/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1994-07-05%2Fs1
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1102
 [/us/usc/t49/s47175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs47175
 [/us/usc/t49/s47176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs47176
-[/us/pl/108/176/s813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs813
-[/us/pl/108/176/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs303
-[/us/pl/104/264/s401/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs401%2Fb%2F1%2FA
-[/us/pl/104/264/s401/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs401%2Fb%2F1%2FB
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
+[/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
+[/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
 [/us/pl/108/176/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs3

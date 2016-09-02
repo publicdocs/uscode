@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../../../..//us/usc/t49/stVII/ptA/sptii/ch417/schII/m__us_usc_t49_s41746.md) | [Next](./../../../../../../../..//us/usc/t49/stVII/ptA/sptii/ch417/schII/m__us_usc_t49_s41748.md) | [Root of Title](./../../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs41747)
 
-## \[§ 41747. Repealed. [Pub. L. 112–95, title IV, § 430][/us/pl/112/95/s430], Feb. 14, 2012, [126 Stat. 100][/us/stat/126/100]\]
+## \[§ 41747. Repealed. [Pub. L. 112–95, title IV][/us/pl/112/95/tIV], § 430, Feb. 14, 2012, [126 Stat. 100][/us/stat/126/100]\]
 
-    Section, added [Pub. L. 108–176, title IV, § 408(a)][/us/pl/108/176/s408/a], Dec. 12, 2003, [117 Stat. 2546][/us/stat/117/2546], related to the EAS local participation program.
+    Section, added [Pub. L. 108–176, title IV][/us/pl/108/176/tIV], § 408(a), Dec. 12, 2003, [117 Stat. 2546][/us/stat/117/2546], related to the EAS local participation program.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/pl/112/95/s430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs430
+[/us/pl/112/95/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtIV
 [/us/stat/126/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F100
-[/us/pl/108/176/s408/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs408%2Fa
+[/us/pl/108/176/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtIV
 [/us/stat/117/2546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2546
 
 

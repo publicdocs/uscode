@@ -55,7 +55,7 @@
 
         The term “State” means a State of the United States, the District of Columbia, or the Commonwealth of Puerto Rico.
 
-(Added [Pub. L. 110–432, div. A, title II, § 204(a)][/us/pl/110/432/s204/a], Oct. 16, 2008, [122 Stat. 4869][/us/stat/122/4869]; amended [Pub. L. 114–94, div. A, title XI, § 11316(g)][/us/pl/114/94/s11316/g], Dec. 4, 2015, [129 Stat. 1676][/us/stat/129/1676].)
+(Added [Pub. L. 110–432, div. A, title II][/us/pl/110/432/dA/tII], § 204(a), Oct. 16, 2008, [122 Stat. 4869][/us/stat/122/4869]; amended [Pub. L. 114–94, div. A, title XI][/us/pl/114/94/dA/tXI], § 11316(g), Dec. 4, 2015, [129 Stat. 1676][/us/stat/129/1676].)
 
  __References in Text__ 
 
@@ -63,9 +63,9 @@
 
  __Amendments__ 
 
-    2015—Subsec. (a)(1). [Pub. L. 114–94, § 11316(g)(1)][/us/pl/114/94/s11316/g/1], substituted “concerning each previously unreported crossing through which it operates with respect to the trackage over which it operates” for “concerning each previously unreported crossing through which it operates or with respect to the trackage over which it operates”.
+    2015—Subsec. (a)(1). [Pub. L. 114–94][/us/pl/114/94], § 11316(g)(1), substituted “concerning each previously unreported crossing through which it operates with respect to the trackage over which it operates” for “concerning each previously unreported crossing through which it operates or with respect to the trackage over which it operates”.
 
-    Subsec. (b)(1)(A). [Pub. L. 114–94, § 11316(g)(2)][/us/pl/114/94/s11316/g/2], substituted “concerning each crossing through which it operates with respect to the trackage over which it operates” for “concerning each crossing through which it operates or with respect to the trackage over which it operates”.
+    Subsec. (b)(1)(A). [Pub. L. 114–94][/us/pl/114/94], § 11316(g)(2), substituted “concerning each crossing through which it operates with respect to the trackage over which it operates” for “concerning each crossing through which it operates or with respect to the trackage over which it operates”.
 
  __Effective Date of 2015 Amendment__ 
 
@@ -78,13 +78,13 @@
 ----------
 ----------
 
-[/us/pl/110/432/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs204%2Fa
+[/us/pl/110/432/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdA%2FtII
 [/us/stat/122/4869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4869
-[/us/pl/114/94/s11316/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11316%2Fg
+[/us/pl/114/94/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtXI
 [/us/stat/129/1676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1676
 [/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
-[/us/pl/114/94/s11316/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11316%2Fg%2F1
-[/us/pl/114/94/s11316/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11316%2Fg%2F2
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313

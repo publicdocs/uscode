@@ -215,7 +215,7 @@
 
     For purposes of this section and sections 41716, 41717, and 41718, an air carrier that operates under the same designator code, or has or enters into a code-share agreement, with any other air carrier shall not qualify for a new slot or slot exemption as a new entrant or limited incumbent air carrier at an airport if the total number of slots and slot exemptions held by the two carriers at the airport exceed 20 slots and slot exemptions.
 
-(Added [Pub. L. 103–305, title II, § 206(a)(1)][/us/pl/103/305/s206/a/1], Aug. 23, 1994, [108 Stat. 1584][/us/stat/108/1584]; amended [Pub. L. 104–287, § 5(9)][/us/pl/104/287/s5/9], Oct. 11, 1996, [110 Stat. 3389][/us/stat/110/3389]; [Pub. L. 105–66, title III, § 345][/us/pl/105/66/s345], Oct. 27, 1997, [111 Stat. 1449][/us/stat/111/1449]; [Pub. L. 105–102, § 2(24)][/us/pl/105/102/s2/24], Nov. 20, 1997, [111 Stat. 2205][/us/stat/111/2205]; [Pub. L. 105–154, § 2(a)(1)(C)][/us/pl/105/154/s2/a/1/C], (2), Feb. 6, 1998, [112 Stat. 3][/us/stat/112/3]; [Pub. L. 106–181, title II, § 231(a)][/us/pl/106/181/s231/a], (d)(2)–(4), Apr. 5, 2000, [114 Stat. 106][/us/stat/114/106], 112; [Pub. L. 112–95, title IV, § 414(c)][/us/pl/112/95/s414/c], (d), Feb. 14, 2012, [126 Stat. 92][/us/stat/126/92].)
+(Added [Pub. L. 103–305, title II][/us/pl/103/305/tII], § 206(a)(1), Aug. 23, 1994, [108 Stat. 1584][/us/stat/108/1584]; amended [Pub. L. 104–287][/us/pl/104/287], § 5(9), Oct. 11, 1996, [110 Stat. 3389][/us/stat/110/3389]; [Pub. L. 105–66, title III][/us/pl/105/66/tIII], § 345, Oct. 27, 1997, [111 Stat. 1449][/us/stat/111/1449]; [Pub. L. 105–102][/us/pl/105/102], § 2(24), Nov. 20, 1997, [111 Stat. 2205][/us/stat/111/2205]; [Pub. L. 105–154][/us/pl/105/154], § 2(a)(1)(C), (2), Feb. 6, 1998, [112 Stat. 3][/us/stat/112/3]; [Pub. L. 106–181, title II][/us/pl/106/181/tII], § 231(a), (d)(2)–(4), Apr. 5, 2000, [114 Stat. 106][/us/stat/114/106], 112; [Pub. L. 112–95, title IV][/us/pl/112/95/tIV], § 414(c), (d), Feb. 14, 2012, [126 Stat. 92][/us/stat/126/92].)
 
  __Historical and Revision Notes__ 
 
@@ -225,29 +225,29 @@
 
  __Amendments__ 
 
-    2012—Subsec. (h)(5)(A). [Pub. L. 112–95, § 414(c)(1)][/us/pl/112/95/s414/c/1], substituted “40” for “20”.
+    2012—Subsec. (h)(5)(A). [Pub. L. 112–95][/us/pl/112/95], § 414(c)(1), substituted “40” for “20”.
 
-    Subsec. (h)(5)(B). [Pub. L. 112–95, § 414(c)(2)][/us/pl/112/95/s414/c/2], amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “for purposes of such sections, the term ‘slot’ shall include ‘slot exemptions’; and”.
+    Subsec. (h)(5)(B). [Pub. L. 112–95][/us/pl/112/95], § 414(c)(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “for purposes of such sections, the term ‘slot’ shall include ‘slot exemptions’; and”.
 
-    Subsec. (j). [Pub. L. 112–95, § 414(d)][/us/pl/112/95/s414/d], substituted “, except through an air carrier merger or acquisition.” for period at end.
+    Subsec. (j). [Pub. L. 112–95][/us/pl/112/95], § 414(d), substituted “, except through an air carrier merger or acquisition.” for period at end.
 
-    2000—Subsec. (a)(3). [Pub. L. 106–181, § 231(d)(2)][/us/pl/106/181/s231/d/2], struck out before period at end “; except that the Secretary shall not be required to make slots available at O’Hare International Airport in Chicago, Illinois, if the number of slots available for basic essential air service (including slots specifically designated as essential air service slots and slots used for such purposes) to and from such airport is at least 132 slots”.
+    2000—Subsec. (a)(3). [Pub. L. 106–181][/us/pl/106/181], § 231(d)(2), struck out before period at end “; except that the Secretary shall not be required to make slots available at O’Hare International Airport in Chicago, Illinois, if the number of slots available for basic essential air service (including slots specifically designated as essential air service slots and slots used for such purposes) to and from such airport is at least 132 slots”.
 
-    Subsec. (b)(2). [Pub. L. 106–181, § 231(d)(3)][/us/pl/106/181/s231/d/3], inserted “at Chicago O’Hare International Airport” after “a slot” and struck out before period at end “if the withdrawal of that slot would result in the withdrawal of slots from an air carrier at O’Hare International Airport under section 93.223 of title 14, Code of Federal Regulations, in excess of the total withdrawn from that air carrier as of October 31, 1993”.
+    Subsec. (b)(2). [Pub. L. 106–181][/us/pl/106/181], § 231(d)(3), inserted “at Chicago O’Hare International Airport” after “a slot” and struck out before period at end “if the withdrawal of that slot would result in the withdrawal of slots from an air carrier at O’Hare International Airport under section 93.223 of title 14, Code of Federal Regulations, in excess of the total withdrawn from that air carrier as of October 31, 1993”.
 
-    Subsec. (b)(4). [Pub. L. 106–181, § 231(d)(4)][/us/pl/106/181/s231/d/4], amended heading and text of par. (4) generally. Prior to amendment, text read as follows: “This subsection and exemptions issued under this subsection shall cease to be in effect when the final rules issued under subsection (f) become effective.”
+    Subsec. (b)(4). [Pub. L. 106–181][/us/pl/106/181], § 231(d)(4), amended heading and text of par. (4) generally. Prior to amendment, text read as follows: “This subsection and exemptions issued under this subsection shall cease to be in effect when the final rules issued under subsection (f) become effective.”
 
-    Subsec. (c). [Pub. L. 106–181, § 231(a)(4)][/us/pl/106/181/s231/a/4], reenacted subsec. heading and struck out “(1) In general.—” before “If the Secretary finds”, “and the circumstances to be exceptional” before “, the Secretary may by”, and par. (2) heading and text. Text of par. (2) read as follows: “Exemptions issued under this subsection shall cease to be in effect on or after the date on which the final rules issued under subsection (f) become effective.”
+    Subsec. (c). [Pub. L. 106–181][/us/pl/106/181], § 231(a)(4), reenacted subsec. heading and struck out “(1) In general.—” before “If the Secretary finds”, “and the circumstances to be exceptional” before “, the Secretary may by”, and par. (2) heading and text. Text of par. (2) read as follows: “Exemptions issued under this subsection shall cease to be in effect on or after the date on which the final rules issued under subsection (f) become effective.”
 
-    Subsec. (h). [Pub. L. 106–181, § 231(a)(5)(A)][/us/pl/106/181/s231/a/5/A], in introductory provisions, substituted “and sections 41715–41718 and 41734(h)” for “and section 41734(h)”.
+    Subsec. (h). [Pub. L. 106–181][/us/pl/106/181], § 231(a)(5)(A), in introductory provisions, substituted “and sections 41715–41718 and 41734(h)” for “and section 41734(h)”.
 
-    Subsec. (h)(3). [Pub. L. 106–181, § 231(a)(5)(B)][/us/pl/106/181/s231/a/5/B], struck out “as defined in subpart S of part 93 of title 14, Code of Federal Regulations” before period at end.
+    Subsec. (h)(3). [Pub. L. 106–181][/us/pl/106/181], § 231(a)(5)(B), struck out “as defined in subpart S of part 93 of title 14, Code of Federal Regulations” before period at end.
 
-    Subsec. (h)(5) to (9). [Pub. L. 106–181, § 231(a)(5)(C)][/us/pl/106/181/s231/a/5/C], added pars. (5) to (9).
+    Subsec. (h)(5) to (9). [Pub. L. 106–181][/us/pl/106/181], § 231(a)(5)(C), added pars. (5) to (9).
 
-    Subsec. (i). [Pub. L. 106–181, § 231(a)(1)][/us/pl/106/181/s231/a/1], amended heading and text of subsec. (i) generally. Prior to amendment, text read as follows: “Within 120 days after receiving an application for an exemption under subsection (a)(2) to improve air service between a nonhub airport (as defined in section 41731(a)(4)) and a high density airport subject to the exemption authority under subsection (a), the Secretary shall grant or deny the exemption. The Secretary shall notify the Senate Committee on Commerce, Science, and Transportation and the House Committee on Transportation and Infrastructure of the grant or denial within 14 calendar days after the determination and state the reasons for the determination.”
+    Subsec. (i). [Pub. L. 106–181][/us/pl/106/181], § 231(a)(1), amended heading and text of subsec. (i) generally. Prior to amendment, text read as follows: “Within 120 days after receiving an application for an exemption under subsection (a)(2) to improve air service between a nonhub airport (as defined in section 41731(a)(4)) and a high density airport subject to the exemption authority under subsection (a), the Secretary shall grant or deny the exemption. The Secretary shall notify the Senate Committee on Commerce, Science, and Transportation and the House Committee on Transportation and Infrastructure of the grant or denial within 14 calendar days after the determination and state the reasons for the determination.”
 
-    Subsecs. (j), (k). [Pub. L. 106–181, § 231(a)(2)][/us/pl/106/181/s231/a/2], (3), added subsecs. (j) and (k).
+    Subsecs. (j), (k). [Pub. L. 106–181][/us/pl/106/181], § 231(a)(2), (3), added subsecs. (j) and (k).
 
     1998—Subsecs. (a)(1), (b)(1), (c)(1), (d). [Pub. L. 105–154][/us/pl/105/154] substituted “Ronald Reagan Washington National Airport” for “Washington National Airport” wherever appearing in text and in subsec. (d) heading.
 
@@ -263,7 +263,7 @@
 
  __Return of Withdrawn Slots__ 
 
-[Pub. L. 106–181, title II, § 231(d)(5)][/us/pl/106/181/s231/d/5], Apr. 5, 2000, [114 Stat. 112][/us/stat/114/112], provided that: 
+[Pub. L. 106–181, title II][/us/pl/106/181/tII], § 231(d)(5), Apr. 5, 2000, [114 Stat. 112][/us/stat/114/112], provided that: 
 
 > “The Secretary \[of Transportation\] shall return any slot withdrawn from an air carrier under [section 41714(b) of title 49][/us/usc/t49/s41714/b], United States Code, before the date of the enactment of this Act \[Apr. 5, 2000\], to that carrier on April 30, 2000.”
 
@@ -274,37 +274,37 @@
 ----------
 ----------
 
-[/us/pl/103/305/s206/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2Fs206%2Fa%2F1
+[/us/pl/103/305/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2FtII
 [/us/stat/108/1584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1584
-[/us/pl/104/287/s5/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F9
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3389
-[/us/pl/105/66/s345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F66%2Fs345
+[/us/pl/105/66/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F66%2FtIII
 [/us/stat/111/1449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1449
-[/us/pl/105/102/s2/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102%2Fs2%2F24
+[/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/stat/111/2205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2205
-[/us/pl/105/154/s2/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F154%2Fs2%2Fa%2F1%2FC
+[/us/pl/105/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F154
 [/us/stat/112/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3
-[/us/pl/106/181/s231/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs231%2Fa
+[/us/pl/106/181/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtII
 [/us/stat/114/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F106
-[/us/pl/112/95/s414/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs414%2Fc
+[/us/pl/112/95/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtIV
 [/us/stat/126/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F92
 [/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-373
 [/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341-376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-376
-[/us/pl/112/95/s414/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs414%2Fc%2F1
-[/us/pl/112/95/s414/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs414%2Fc%2F2
-[/us/pl/112/95/s414/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs414%2Fd
-[/us/pl/106/181/s231/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs231%2Fd%2F2
-[/us/pl/106/181/s231/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs231%2Fd%2F3
-[/us/pl/106/181/s231/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs231%2Fd%2F4
-[/us/pl/106/181/s231/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs231%2Fa%2F4
-[/us/pl/106/181/s231/a/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs231%2Fa%2F5%2FA
-[/us/pl/106/181/s231/a/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs231%2Fa%2F5%2FB
-[/us/pl/106/181/s231/a/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs231%2Fa%2F5%2FC
-[/us/pl/106/181/s231/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs231%2Fa%2F1
-[/us/pl/106/181/s231/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs231%2Fa%2F2
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/pl/105/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F154
 [/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/pl/105/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F66
@@ -312,7 +312,7 @@
 [/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/pl/106/181/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106
-[/us/pl/106/181/s231/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs231%2Fd%2F5
+[/us/pl/106/181/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtII
 [/us/stat/114/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F112
 [/us/usc/t49/s41714/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs41714%2Fb
 

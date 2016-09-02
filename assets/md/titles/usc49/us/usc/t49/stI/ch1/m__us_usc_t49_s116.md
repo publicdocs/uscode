@@ -309,7 +309,7 @@
 
         The term “project” means a highway project, public transportation capital project, freight or passenger rail project, or multimodal project.
 
-(Added [Pub. L. 114–94, div. A, title IX, § 9001(a)][/us/pl/114/94/s9001/a], Dec. 4, 2015, [129 Stat. 1612][/us/stat/129/1612].)
+(Added [Pub. L. 114–94, div. A, title IX][/us/pl/114/94/dA/tIX], § 9001(a), Dec. 4, 2015, [129 Stat. 1612][/us/stat/129/1612].)
 
  __References in Text__ 
 
@@ -332,7 +332,7 @@
 
 [/us/usc/t45/s821–823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs821%E2%80%93823
 [/us/usc/t23/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs117
-[/us/pl/114/94/s9001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs9001%2Fa
+[/us/pl/114/94/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtIX
 [/us/stat/129/1612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1612
 [/us/usc/t26/s142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs142
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94

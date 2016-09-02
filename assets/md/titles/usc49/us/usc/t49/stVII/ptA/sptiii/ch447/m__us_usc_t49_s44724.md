@@ -33,7 +33,7 @@
 
     In this section, the term “pilot in command” has the meaning given such term by section 1.1 of title 14, Code of Federal Regulations.
 
-(Added [Pub. L. 104–264, title VI, § 602(a)(1)][/us/pl/104/264/s602/a/1], Oct. 9, 1996, [110 Stat. 3263][/us/stat/110/3263].)
+(Added [Pub. L. 104–264, title VI][/us/pl/104/264/tVI], § 602(a)(1), Oct. 9, 1996, [110 Stat. 3263][/us/stat/110/3263].)
 
  __Effective Date__ 
 
@@ -47,7 +47,7 @@
 ----------
 
 [/us/usc/t49/s44703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44703
-[/us/pl/104/264/s602/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs602%2Fa%2F1
+[/us/pl/104/264/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2FtVI
 [/us/stat/110/3263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3263
 [/us/pl/104/264/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106

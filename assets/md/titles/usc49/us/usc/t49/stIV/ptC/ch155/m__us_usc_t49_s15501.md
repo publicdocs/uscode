@@ -23,11 +23,11 @@
 
     A pipeline carrier providing transportation subject to this part may not discriminate in its rates against a connecting line of any other pipeline, rail, or water carrier providing transportation subject to this subtitle or unreasonably discriminate against that line in the distribution of traffic that is not routed specifically by the shipper.
 
-(Added [Pub. L. 104–88, title I, § 106(a)][/us/pl/104/88/s106/a], Dec. 29, 1995, [109 Stat. 923][/us/stat/109/923].)
+(Added [Pub. L. 104–88, title I][/us/pl/104/88/tI], § 106(a), Dec. 29, 1995, [109 Stat. 923][/us/stat/109/923].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [section 10701 of this title][/us/usc/t49/s10701] prior to the general amendment of this subtitle by [Pub. L. 104–88, § 102(a)][/us/pl/104/88/s102/a].
+    Provisions similar to those in this section were contained in [section 10701 of this title][/us/usc/t49/s10701] prior to the general amendment of this subtitle by [Pub. L. 104–88][/us/pl/104/88], § 102(a).
 
  __Effective Date__ 
 
@@ -40,10 +40,10 @@
 ----------
 ----------
 
-[/us/pl/104/88/s106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs106%2Fa
+[/us/pl/104/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtI
 [/us/stat/109/923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F923
 [/us/usc/t49/s10701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs10701
-[/us/pl/104/88/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs102%2Fa
+[/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/104/88/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs2
 [/us/usc/t49/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1301

@@ -43,31 +43,31 @@
 
     If a motor carrier (other than a motor carrier providing transportation of household goods) that was subject to jurisdiction under subchapter II of chapter 105, as in effect on December 31, 1995, and that had authority to provide transportation as both a motor common carrier and a motor contract carrier and a dispute arises as to whether certain transportation that was provided prior to January 1, 1996, was provided in its common carrier or contract carrier capacity and the parties are not able to resolve the dispute consensually, the Board shall resolve the dispute.
 
-(Added [Pub. L. 104–88, title I, § 103][/us/pl/104/88/s103], Dec. 29, 1995, [109 Stat. 876][/us/stat/109/876]; amended [Pub. L. 104–287, § 5(30)][/us/pl/104/287/s5/30], Oct. 11, 1996, [110 Stat. 3391][/us/stat/110/3391].)
+(Added [Pub. L. 104–88, title I][/us/pl/104/88/tI], § 103, Dec. 29, 1995, [109 Stat. 876][/us/stat/109/876]; amended [Pub. L. 104–287][/us/pl/104/287], § 5(30), Oct. 11, 1996, [110 Stat. 3391][/us/stat/110/3391].)
 
  __Historical and Revision Notes__ 
 
- __[__  __Pub. L. 104–287, § 5(30)(A)__  __][/us/pl/104/287/s5/30/A]__ 
+ __[__  __Pub. L. 104–287__  __][/us/pl/104/287]__  __, § 5(30)(A)__ 
 
     This sets out the effective date of 49:13710.
 
- __[__  __Pub. L. 104–287, § 5(30)(B)__  __][/us/pl/104/287/s5/30/B]__ 
+ __[__  __Pub. L. 104–287__  __][/us/pl/104/287]__  __, § 5(30)(B)__ 
 
     This amends 49:13710(b) by setting out the effective date for 49:13710 and for clarity and consistency.
 
  __References in Text__ 
 
-    Subchapter II of chapter 105, referred to in subsec. (b), was omitted in the general amendment of this subtitle by [Pub. L. 104–88, title I, § 102(a)][/us/pl/104/88/s102/a], Dec. 29, 1995, [109 Stat. 804][/us/stat/109/804], effective Jan. 1, 1996.
+    Subchapter II of chapter 105, referred to in subsec. (b), was omitted in the general amendment of this subtitle by [Pub. L. 104–88, title I][/us/pl/104/88/tI], § 102(a), Dec. 29, 1995, [109 Stat. 804][/us/stat/109/804], effective Jan. 1, 1996.
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in sections 10762 and 11101 of this title prior to the general amendment of this subtitle by [Pub. L. 104–88, § 102(a)][/us/pl/104/88/s102/a].
+    Provisions similar to those in this section were contained in sections 10762 and 11101 of this title prior to the general amendment of this subtitle by [Pub. L. 104–88][/us/pl/104/88], § 102(a).
 
  __Amendments__ 
 
-    1996—Subsec. (a)(4). [Pub. L. 104–287, § 5(30)(A)][/us/pl/104/287/s5/30/A], substituted “January 1, 1996,” for “the effective date of this section”.
+    1996—Subsec. (a)(4). [Pub. L. 104–287][/us/pl/104/287], § 5(30)(A), substituted “January 1, 1996,” for “the effective date of this section”.
 
-    Subsec. (b). [Pub. L. 104–287, § 5(30)(B)][/us/pl/104/287/s5/30/B], substituted “December 31, 1995” for “the day before the effective date of this section” and “January 1, 1996,” for “the effective date of this section”.
+    Subsec. (b). [Pub. L. 104–287][/us/pl/104/287], § 5(30)(B), substituted “December 31, 1995” for “the day before the effective date of this section” and “January 1, 1996,” for “the effective date of this section”.
 
  __Abolition of Interstate Commerce Commission__ 
 
@@ -80,17 +80,17 @@
 ----------
 ----------
 
-[/us/pl/104/88/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs103
+[/us/pl/104/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtI
 [/us/stat/109/876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F876
-[/us/pl/104/287/s5/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F30
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3391
-[/us/pl/104/287/s5/30/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F30%2FA
-[/us/pl/104/287/s5/30/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F30%2FB
-[/us/pl/104/88/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs102%2Fa
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
+[/us/pl/104/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtI
 [/us/stat/109/804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F804
-[/us/pl/104/88/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs102%2Fa
-[/us/pl/104/287/s5/30/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F30%2FA
-[/us/pl/104/287/s5/30/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F30%2FB
+[/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/pl/104/88/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs101
 [/us/usc/t49/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1301
 

@@ -31,7 +31,7 @@
 
     (e) The Administrator shall consult with the Federal Highway Administrator on all matters related to the design, construction, maintenance, and operation of highways.
 
-([Pub. L. 97–449, § 1(b)][/us/pl/97/449/s1/b], Jan. 12, 1983, [96 Stat. 2415][/us/stat/96/2415]; [Pub. L. 103–272, § 5(m)(3)][/us/pl/103/272/s5/m/3], July 5, 1994, [108 Stat. 1375][/us/stat/108/1375].)
+([Pub. L. 97–449][/us/pl/97/449], § 1(b), Jan. 12, 1983, [96 Stat. 2415][/us/stat/96/2415]; [Pub. L. 103–272][/us/pl/103/272], § 5(m)(3), July 5, 1994, [108 Stat. 1375][/us/stat/108/1375].)
 
 <table>
 
@@ -93,7 +93,7 @@ Sept. 9, 1966, Pub. L. 89–564, § 201(a) (less pay of Administrator and Depu
 
  __Required Reporting of NHTSA Agenda__ 
 
-[Pub. L. 114–94, div. B, title XXIV, § 24401][/us/pl/114/94/s24401], Dec. 4, 2015, [129 Stat. 1720][/us/stat/129/1720], provided that: 
+[Pub. L. 114–94, div. B, title XXIV][/us/pl/114/94/dB/tXXIV], § 24401, Dec. 4, 2015, [129 Stat. 1720][/us/stat/129/1720], provided that: 
 
 > “Not later than December 1 of the year beginning after the date of enactment of this Act \[Dec. 4, 2015\], and each year thereafter, the Administrator of the National Highway Traffic Safety Administration shall publish on the public website of the Administration, and file with the Committees on Energy and Commerce and Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate an annual plan for the following calendar year detailing the Administration’s projected activities, including—
 
@@ -111,7 +111,7 @@ Sept. 9, 1966, Pub. L. 89–564, § 201(a) (less pay of Administrator and Depu
 
  __National Highway Traffic Safety Administration Electronics, Software, and Engineering Expertise__ 
 
-[Pub. L. 112–141, div. C, title I, § 31401][/us/pl/112/141/s31401], July 6, 2012, [126 Stat. 772][/us/stat/126/772], provided that:
+[Pub. L. 112–141, div. C, title I][/us/pl/112/141/dC/tI], § 31401, July 6, 2012, [126 Stat. 772][/us/stat/126/772], provided that:
 
 >     “(a) __Council for Vehicle Electronics, Vehicle Software, and Emerging Technologies.—__ 
 
@@ -148,17 +148,17 @@ Sept. 9, 1966, Pub. L. 89–564, § 201(a) (less pay of Administrator and Depu
 ----------
 ----------
 
-[/us/pl/97/449/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449%2Fs1%2Fb
+[/us/pl/97/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449
 [/us/stat/96/2415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2415
-[/us/pl/103/272/s5/m/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs5%2Fm%2F3
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1375
 [/us/pl/89/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F564
 [/us/stat/80/731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F731
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/usc/t15/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1381
-[/us/pl/114/94/s24401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24401
+[/us/pl/114/94/dB/tXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdB%2FtXXIV
 [/us/stat/129/1720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1720
-[/us/pl/112/141/s31401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31401
+[/us/pl/112/141/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtI
 [/us/stat/126/772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F772
 
 

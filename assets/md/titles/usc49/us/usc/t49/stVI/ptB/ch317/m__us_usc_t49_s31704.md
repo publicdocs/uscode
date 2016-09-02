@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t49/stVI/ptB/ch317/m__us_usc_t49_s31701.md) | [Next](./../../../../../..//us/usc/t49/stVI/ptB/ch317/m__us_usc_t49_s31705.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31704)
+[Previous](./../../../../../..//us/usc/t49/stVI/ptB/ch317/m__us_usc_t49_s31702 _us_usc_t49_s31703.md) | [Next](./../../../../../..//us/usc/t49/stVI/ptB/ch317/m__us_usc_t49_s31705.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31704)
 
 ## § 31704. Vehicle registration
 
     After September 30, 1996, a State that is not participating in the International Registration Plan may not establish, maintain, or enforce a commercial motor vehicle registration law, regulation, or agreement that limits the operation in that State of a commercial motor vehicle that is not registered under the laws of the State, if the vehicle is registered under the laws of a State participating in the Plan.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1032][/us/stat/108/1032].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1032][/us/stat/108/1032].)
 
 <table>
 
@@ -69,12 +69,12 @@ Dec. 18, 1991, Pub. L. 102–240, § 4008(f), 105 Stat. 2154.  </td>
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t49/stVI/ptB/ch317/m__us_usc_t49_s31701.md) | [Next](./../../../../../..//us/usc/t49/stVI/ptB/ch317/m__us_usc_t49_s31705.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31704)
+[Previous](./../../../../../..//us/usc/t49/stVI/ptB/ch317/m__us_usc_t49_s31702 _us_usc_t49_s31703.md) | [Next](./../../../../../..//us/usc/t49/stVI/ptB/ch317/m__us_usc_t49_s31705.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31704)
 
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1032
 
 

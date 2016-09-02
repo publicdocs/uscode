@@ -31,7 +31,7 @@
 
         (4) a car, locomotive, or train used on a street railway.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 881][/us/stat/108/881]; [Pub. L. 104–287, § 5(52)][/us/pl/104/287/s5/52], Oct. 11, 1996, [110 Stat. 3393][/us/stat/110/3393].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 881][/us/stat/108/881]; [Pub. L. 104–287][/us/pl/104/287], § 5(52), Oct. 11, 1996, [110 Stat. 3393][/us/stat/110/3393].)
 
 <table>
 
@@ -154,9 +154,9 @@ Mar. 2, 1903, ch. 976, § 1 (words after 23d comma), 32 Stat. 943.  </td>
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F881
-[/us/pl/104/287/s5/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F52
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3393
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/act/1994-07-05/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1994-07-05%2Fs1

@@ -43,7 +43,7 @@
 
         The Board may refund any fee paid by mistake or any amount paid in excess of that required.
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 752][/us/stat/108/752]; [Pub. L. 103–411, § 2][/us/pl/103/411/s2], Oct. 25, 1994, [108 Stat. 4236][/us/stat/108/4236]; [Pub. L. 104–291, title I, § 105][/us/pl/104/291/s105], Oct. 11, 1996, [110 Stat. 3453][/us/stat/110/3453]; [Pub. L. 106–424, § 13][/us/pl/106/424/s13], Nov. 1, 2000, [114 Stat. 1888][/us/stat/114/1888]; [Pub. L. 108–168, § 2][/us/pl/108/168/s2], Dec. 6, 2003, [117 Stat. 2032][/us/stat/117/2032]; [Pub. L. 109–443, § 8(a)][/us/pl/109/443/s8/a], (b)(1), (c), Dec. 21, 2006, [120 Stat. 3300][/us/stat/120/3300].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(d), July 5, 1994, [108 Stat. 752][/us/stat/108/752]; [Pub. L. 103–411][/us/pl/103/411], § 2, Oct. 25, 1994, [108 Stat. 4236][/us/stat/108/4236]; [Pub. L. 104–291, title I][/us/pl/104/291/tI], § 105, Oct. 11, 1996, [110 Stat. 3453][/us/stat/110/3453]; [Pub. L. 106–424][/us/pl/106/424], § 13, Nov. 1, 2000, [114 Stat. 1888][/us/stat/114/1888]; [Pub. L. 108–168][/us/pl/108/168], § 2, Dec. 6, 2003, [117 Stat. 2032][/us/stat/117/2032]; [Pub. L. 109–443][/us/pl/109/443], § 8(a), (b)(1), (c), Dec. 21, 2006, [120 Stat. 3300][/us/stat/120/3300].)
 
 <table>
 
@@ -127,17 +127,17 @@ Jan. 3, 1975, Pub. L. 93–633, 88 Stat. 2156, § 309(b); added July 19, 1988,
 
  __Amendments__ 
 
-    2006—Subsec. (a). [Pub. L. 109–443, § 8(a)][/us/pl/109/443/s8/a], struck out “and” after “2005,” and substituted “2006, $81,594,000 for fiscal year 2007, and $92,625,000 for fiscal year 2008.” for “2006.”
+    2006—Subsec. (a). [Pub. L. 109–443][/us/pl/109/443], § 8(a), struck out “and” after “2005,” and substituted “2006, $81,594,000 for fiscal year 2007, and $92,625,000 for fiscal year 2008.” for “2006.”
 
-    Subsec. (c). [Pub. L. 109–443, § 8(b)(1)][/us/pl/109/443/s8/b/1], amended subsec. (c) generally. Prior to amendment, subsec. (c) related to appropriations and fees for the National Transportation Safety Board Academy.
+    Subsec. (c). [Pub. L. 109–443][/us/pl/109/443], § 8(b)(1), amended subsec. (c) generally. Prior to amendment, subsec. (c) related to appropriations and fees for the National Transportation Safety Board Academy.
 
-    Subsec. (d). [Pub. L. 109–443, § 8(c)][/us/pl/109/443/s8/c], struck out heading and text of subsec. (d). Text read as follows: “The National Transportation Safety Board shall transmit an annual report to the Congress on the activities and operations of the National Transportation Safety Board Academy.”
+    Subsec. (d). [Pub. L. 109–443][/us/pl/109/443], § 8(c), struck out heading and text of subsec. (d). Text read as follows: “The National Transportation Safety Board shall transmit an annual report to the Congress on the activities and operations of the National Transportation Safety Board Academy.”
 
-    2003—Subsec. (a). [Pub. L. 108–168, § 2(a)][/us/pl/108/168/s2/a], struck out “and” after “fiscal year 2001,” and substituted “$73,325,000 for fiscal year 2003, $78,757,000 for fiscal year 2004, $83,011,000 for fiscal year 2005, and $87,539,000 for fiscal year 2006. Such sums shall” for “such sums to”.
+    2003—Subsec. (a). [Pub. L. 108–168][/us/pl/108/168], § 2(a), struck out “and” after “fiscal year 2001,” and substituted “$73,325,000 for fiscal year 2003, $78,757,000 for fiscal year 2004, $83,011,000 for fiscal year 2005, and $87,539,000 for fiscal year 2006. Such sums shall” for “such sums to”.
 
-    Subsec. (b). [Pub. L. 108–168, § 2(b)][/us/pl/108/168/s2/b], added second sentence and struck out former second sentence which read as follows: “Amounts equal to the amounts expended annually out of the fund are authorized to be appropriated to the emergency fund.”
+    Subsec. (b). [Pub. L. 108–168][/us/pl/108/168], § 2(b), added second sentence and struck out former second sentence which read as follows: “Amounts equal to the amounts expended annually out of the fund are authorized to be appropriated to the emergency fund.”
 
-    Subsecs. (c), (d). [Pub. L. 108–168, § 2(c)][/us/pl/108/168/s2/c], added subsecs. (c) and (d).
+    Subsecs. (c), (d). [Pub. L. 108–168][/us/pl/108/168], § 2(c), added subsecs. (c) and (d).
 
     2000—[Pub. L. 106–424][/us/pl/106/424] amended section catchline and text generally. Prior to amendment, text read as follows:
 
@@ -157,7 +157,7 @@ Jan. 3, 1975, Pub. L. 93–633, 88 Stat. 2156, § 309(b); added July 19, 1988,
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–443, § 8(b)(2)][/us/pl/109/443/s8/b/2], Dec. 21, 2006, [120 Stat. 3300][/us/stat/120/3300], provided that: 
+[Pub. L. 109–443][/us/pl/109/443], § 8(b)(2), Dec. 21, 2006, [120 Stat. 3300][/us/stat/120/3300], provided that: 
 
 > “The amendments made by paragraph (1) \[amending this section\] shall take effect on October 1, 2005.”
 
@@ -169,28 +169,28 @@ Jan. 3, 1975, Pub. L. 93–633, 88 Stat. 2156, § 309(b); added July 19, 1988,
 ----------
 
 [/us/usc/t31/s3302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3302
-[/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F752
-[/us/pl/103/411/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F411%2Fs2
+[/us/pl/103/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F411
 [/us/stat/108/4236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4236
-[/us/pl/104/291/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F291%2Fs105
+[/us/pl/104/291/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F291%2FtI
 [/us/stat/110/3453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3453
-[/us/pl/106/424/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F424%2Fs13
+[/us/pl/106/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F424
 [/us/stat/114/1888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1888
-[/us/pl/108/168/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F168%2Fs2
+[/us/pl/108/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F168
 [/us/stat/117/2032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2032
-[/us/pl/109/443/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F443%2Fs8%2Fa
+[/us/pl/109/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F443
 [/us/stat/120/3300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3300
-[/us/pl/109/443/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F443%2Fs8%2Fa
-[/us/pl/109/443/s8/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F443%2Fs8%2Fb%2F1
-[/us/pl/109/443/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F443%2Fs8%2Fc
-[/us/pl/108/168/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F168%2Fs2%2Fa
-[/us/pl/108/168/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F168%2Fs2%2Fb
-[/us/pl/108/168/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F168%2Fs2%2Fc
+[/us/pl/109/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F443
+[/us/pl/109/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F443
+[/us/pl/109/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F443
+[/us/pl/108/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F168
+[/us/pl/108/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F168
+[/us/pl/108/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F168
 [/us/pl/106/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F424
 [/us/pl/104/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F291
 [/us/pl/103/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F411
-[/us/pl/109/443/s8/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F443%2Fs8%2Fb%2F2
+[/us/pl/109/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F443
 [/us/stat/120/3300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3300
 
 

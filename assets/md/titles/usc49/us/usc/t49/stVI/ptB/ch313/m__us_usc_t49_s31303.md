@@ -29,7 +29,7 @@
 
         (2) The Secretary of Transportation shall prescribe by regulation the period for which notice of previous employment must be given under paragraph (1) of this subsection. However, the period may not be less than the 10-year period ending on the date of the application.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1016][/us/stat/108/1016].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1016][/us/stat/108/1016].)
 
 <table>
 
@@ -88,7 +88,7 @@ Oct. 27, 1986, Pub. L. 99–570, § 12003, 100 Stat. 3207–171.  </td>
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1016
 
 

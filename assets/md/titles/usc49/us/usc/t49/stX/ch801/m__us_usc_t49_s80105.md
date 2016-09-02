@@ -37,7 +37,7 @@
 
     Except as provided in subsection (b) of this section, this chapter does not limit a right of a mortgagee or lien holder having a mortgage or lien on goods against a person that purchased for value in good faith from the owner, and got possession of the goods immediately before delivery to the common carrier.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1347][/us/stat/108/1347].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1347][/us/stat/108/1347].)
 
 <table>
 
@@ -126,7 +126,7 @@ Aug. 29, 1916, ch. 415, §§ 31, 39, 40, 39 Stat. 543, 544.  </td>
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1347
 
 

@@ -31,7 +31,7 @@
 
     The insurance policy on an aircraft insured or reinsured under this chapter shall specify a stated amount that is not more than the value of the aircraft, as determined by the Secretary in accordance with reasonable business practices in the commercial aviation insurance industry. A claim under the policy may not be paid for more than that stated amount.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1170][/us/stat/108/1170]; [Pub. L. 105–137, § 2(b)][/us/pl/105/137/s2/b], Dec. 2, 1997, [111 Stat. 2640][/us/stat/111/2640]; [Pub. L. 107–42, title II, § 201(d)][/us/pl/107/42/s201/d], Sept. 22, 2001, [115 Stat. 235][/us/stat/115/235]; [Pub. L. 107–71, title I][/us/pl/107/71], §§ 124(b), 147, Nov. 19, 2001, [115 Stat. 631][/us/stat/115/631], 645; [Pub. L. 107–296, title XII, § 1203][/us/pl/107/296/s1203], Nov. 25, 2002, [116 Stat. 2287][/us/stat/116/2287]; [Pub. L. 108–176, title I, § 106(c)][/us/pl/108/176/s106/c], (e), Dec. 12, 2003, [117 Stat. 2499][/us/stat/117/2499].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1170][/us/stat/108/1170]; [Pub. L. 105–137][/us/pl/105/137], § 2(b), Dec. 2, 1997, [111 Stat. 2640][/us/stat/111/2640]; [Pub. L. 107–42, title II][/us/pl/107/42/tII], § 201(d), Sept. 22, 2001, [115 Stat. 235][/us/stat/115/235]; [Pub. L. 107–71, title I][/us/pl/107/71/tI], §§ 124(b), 147, Nov. 19, 2001, [115 Stat. 631][/us/stat/115/631], 645; [Pub. L. 107–296, title XII][/us/pl/107/296/tXII], § 1203, Nov. 25, 2002, [116 Stat. 2287][/us/stat/116/2287]; [Pub. L. 108–176, title I][/us/pl/108/176/tI], § 106(c), (e), Dec. 12, 2003, [117 Stat. 2499][/us/stat/117/2499].)
 
 <table>
 
@@ -117,21 +117,21 @@ Aug. 23, 1958, Pub. L. 85–726, § 1307(a) (last sentence less words between 
 
  __Amendments__ 
 
-    2003—Subsec. (b). [Pub. L. 108–176, § 106(c)][/us/pl/108/176/s106/c], substituted “by the insurance carrier” for “by the air carrier”.
+    2003—Subsec. (b). [Pub. L. 108–176][/us/pl/108/176], § 106(c), substituted “by the insurance carrier” for “by the air carrier”.
 
-    Subsec. (c). [Pub. L. 108–176, § 106(e)][/us/pl/108/176/s106/e], made technical correction to directory language of [Pub. L. 107–71, § 124(b)][/us/pl/107/71/s124/b]. See 2001 Amendment note below.
+    Subsec. (c). [Pub. L. 108–176][/us/pl/108/176], § 106(e), made technical correction to directory language of [Pub. L. 107–71][/us/pl/107/71], § 124(b). See 2001 Amendment note below.
 
-    2002—Subsec. (c). [Pub. L. 107–296][/us/pl/107/296] made technical correction to directory language of [Pub. L. 107–71, § 147][/us/pl/107/71/s147]. See 2001 Amendment note below.
+    2002—Subsec. (c). [Pub. L. 107–296][/us/pl/107/296] made technical correction to directory language of [Pub. L. 107–71][/us/pl/107/71], § 147. See 2001 Amendment note below.
 
-    2001—Subsec. (b). [Pub. L. 107–42, § 201(d)(2)][/us/pl/107/42/s201/d/2], added subsec. (b). Former subsec. (b) redesignated (c).
+    2001—Subsec. (b). [Pub. L. 107–42][/us/pl/107/42], § 201(d)(2), added subsec. (b). Former subsec. (b) redesignated (c).
 
-    Subsec. (c). [Pub.L. 107–71, § 147][/us/pl/107/71/s147], as amended by [Pub. L. 107–296][/us/pl/107/296], substituted “1 year” for “60 days” in two places.
+    Subsec. (c). [Pub.L. 107–71][/us/pl/107/71], § 147, as amended by [Pub. L. 107–296][/us/pl/107/296], substituted “1 year” for “60 days” in two places.
 
-    [Pub. L. 107–71, § 124(b)][/us/pl/107/71/s124/b], as amended by [Pub. L. 108–176, § 106(e)][/us/pl/108/176/s106/e], inserted “in the interest of air commerce or national security or” before “to carry out the foreign policy”.
+    [Pub. L. 107–71][/us/pl/107/71], § 124(b), as amended by [Pub. L. 108–176][/us/pl/108/176], § 106(e), inserted “in the interest of air commerce or national security or” before “to carry out the foreign policy”.
 
-    [Pub. L. 107–42, § 201(d)(1)][/us/pl/107/42/s201/d/1], redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
+    [Pub. L. 107–42][/us/pl/107/42], § 201(d)(1), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
 
-    Subsec. (d). [Pub. L. 107–42, § 201(d)(1)][/us/pl/107/42/s201/d/1], redesignated subsec. (c) as (d).
+    Subsec. (d). [Pub. L. 107–42][/us/pl/107/42], § 201(d)(1), redesignated subsec. (c) as (d).
 
     1997—Subsec. (c). [Pub. L. 105–137][/us/pl/105/137] substituted “as determined by the Secretary in accordance with reasonable business practices in the commercial aviation insurance industry.” for “as determined by the Secretary.”
 
@@ -139,11 +139,11 @@ Aug. 23, 1958, Pub. L. 85–726, § 1307(a) (last sentence less words between 
 
     Amendment by [section 106(c) of Pub. L. 108–176][/us/pl/108/176/s106/c] applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see [section 3 of Pub. L. 108–176][/us/pl/108/176/s3], set out as a note under [section 106 of this title][/us/usc/t49/s106].
 
-    [Pub. L. 108–176, title I, § 106(e)][/us/pl/108/176/s106/e], Dec. 12, 2003, [117 Stat. 2499][/us/stat/117/2499], provided that the amendment made by section 106(e) is effective Nov. 19, 2001.
+    [Pub. L. 108–176, title I][/us/pl/108/176/tI], § 106(e), Dec. 12, 2003, [117 Stat. 2499][/us/stat/117/2499], provided that the amendment made by section 106(e) is effective Nov. 19, 2001.
 
  __Effective Date of 2002 Amendment__ 
 
-    [Pub. L. 107–296, title XII, § 1203][/us/pl/107/296/s1203], Nov. 25, 2002, [116 Stat. 2287][/us/stat/116/2287], provided that the amendment made by section 1203 is effective Nov. 19, 2001.
+    [Pub. L. 107–296, title XII][/us/pl/107/296/tXII], § 1203, Nov. 25, 2002, [116 Stat. 2287][/us/stat/116/2287], provided that the amendment made by section 1203 is effective Nov. 19, 2001.
 
  __Delegation of Authority__ 
 
@@ -156,37 +156,37 @@ Aug. 23, 1958, Pub. L. 85–726, § 1307(a) (last sentence less words between 
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1170
-[/us/pl/105/137/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F137%2Fs2%2Fb
+[/us/pl/105/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F137
 [/us/stat/111/2640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2640
-[/us/pl/107/42/s201/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F42%2Fs201%2Fd
+[/us/pl/107/42/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F42%2FtII
 [/us/stat/115/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F235
-[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2FtI
 [/us/stat/115/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F631
-[/us/pl/107/296/s1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1203
+[/us/pl/107/296/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXII
 [/us/stat/116/2287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2287
-[/us/pl/108/176/s106/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs106%2Fc
+[/us/pl/108/176/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtI
 [/us/stat/117/2499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2499
-[/us/pl/108/176/s106/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs106%2Fc
-[/us/pl/108/176/s106/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs106%2Fe
-[/us/pl/107/71/s124/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs124%2Fb
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
-[/us/pl/107/71/s147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs147
-[/us/pl/107/42/s201/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F42%2Fs201%2Fd%2F2
-[/us/pl/107/71/s147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs147
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F42
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
-[/us/pl/107/71/s124/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs124%2Fb
-[/us/pl/108/176/s106/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs106%2Fe
-[/us/pl/107/42/s201/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F42%2Fs201%2Fd%2F1
-[/us/pl/107/42/s201/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F42%2Fs201%2Fd%2F1
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
+[/us/pl/107/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F42
+[/us/pl/107/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F42
 [/us/pl/105/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F137
 [/us/pl/108/176/s106/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs106%2Fc
 [/us/pl/108/176/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106
-[/us/pl/108/176/s106/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs106%2Fe
+[/us/pl/108/176/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtI
 [/us/stat/117/2499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2499
-[/us/pl/107/296/s1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1203
+[/us/pl/107/296/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXII
 [/us/stat/116/2287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2287
 [/us/usc/t49/s44302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44302
 

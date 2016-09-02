@@ -121,7 +121,7 @@
 
         The term “part 135 certificate holder” means a person holding an operating certificate issued under part 119 of title 14, Code of Federal Regulations, that is authorized to conduct civil helicopter air ambulance operations under part 135.
 
-(Added [Pub. L. 112–95, title III, § 306(a)][/us/pl/112/95/s306/a], Feb. 14, 2012, [126 Stat. 58][/us/stat/126/58].)
+(Added [Pub. L. 112–95, title III][/us/pl/112/95/tIII], § 306(a), Feb. 14, 2012, [126 Stat. 58][/us/stat/126/58].)
 
  __References in Text__ 
 
@@ -134,7 +134,7 @@
 ----------
 ----------
 
-[/us/pl/112/95/s306/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs306%2Fa
+[/us/pl/112/95/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtIII
 [/us/stat/126/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F58
 [/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
 

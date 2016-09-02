@@ -93,7 +93,7 @@
 
     Any regulations under this section shall not take effect before the 365th day following the date of publication of the final rule.
 
-(Added [Pub. L. 103–440, title III, § 302(a)][/us/pl/103/440/s302/a], Nov. 2, 1994, [108 Stat. 4626][/us/stat/108/4626]; amended [Pub. L. 104–264, title XII, § 1218(a)][/us/pl/104/264/s1218/a], Oct. 9, 1996, [110 Stat. 3285][/us/stat/110/3285]; [Pub. L. 104–287, § 5(51)][/us/pl/104/287/s5/51], Oct. 11, 1996, [110 Stat. 3393][/us/stat/110/3393].)
+(Added [Pub. L. 103–440, title III][/us/pl/103/440/tIII], § 302(a), Nov. 2, 1994, [108 Stat. 4626][/us/stat/108/4626]; amended [Pub. L. 104–264, title XII][/us/pl/104/264/tXII], § 1218(a), Oct. 9, 1996, [110 Stat. 3285][/us/stat/110/3285]; [Pub. L. 104–287][/us/pl/104/287], § 5(51), Oct. 11, 1996, [110 Stat. 3393][/us/stat/110/3393].)
 
  __Amendments__ 
 
@@ -113,11 +113,11 @@
 ----------
 
 [/us/usc/t49/s20106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs20106
-[/us/pl/103/440/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F440%2Fs302%2Fa
+[/us/pl/103/440/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F440%2FtIII
 [/us/stat/108/4626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4626
-[/us/pl/104/264/s1218/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs1218%2Fa
+[/us/pl/104/264/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2FtXII
 [/us/stat/110/3285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3285
-[/us/pl/104/287/s5/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F51
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3393
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264

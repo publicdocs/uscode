@@ -41,7 +41,7 @@
 
             (B) the officer or agent has had time, exercising reasonable diligence, to communicate with the agent having possession or control of the goods.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1348][/us/stat/108/1348].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1348][/us/stat/108/1348].)
 
 <table>
 
@@ -144,7 +144,7 @@ Aug. 29, 1916, ch. 415, §§ 29 (1st sentence), 32, 33, 39 Stat. 543.  </td>
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1348
 
 

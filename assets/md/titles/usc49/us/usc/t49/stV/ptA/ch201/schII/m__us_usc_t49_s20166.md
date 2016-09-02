@@ -25,7 +25,7 @@
 
     (4) to provide their crewmembers with appropriate training for using the breathing apparatus.
 
-(Added [Pub. L. 110–432, div. A, title IV, § 413(a)][/us/pl/110/432/s413/a], Oct. 16, 2008, [122 Stat. 4889][/us/stat/122/4889].)
+(Added [Pub. L. 110–432, div. A, title IV][/us/pl/110/432/dA/tIV], § 413(a), Oct. 16, 2008, [122 Stat. 4889][/us/stat/122/4889].)
 
  __References in Text__ 
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/110/432/s413/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs413%2Fa
+[/us/pl/110/432/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdA%2FtIV
 [/us/stat/122/4889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4889
 [/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
 

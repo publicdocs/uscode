@@ -83,7 +83,7 @@
 
             (B) the Secretary of Homeland Security, with respect to railroad safety matters concerning such Secretary under laws administered by that Secretary.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 864][/us/stat/108/864]; [Pub. L. 107–296, title XVII, § 1710(a)][/us/pl/107/296/s1710/a], Nov. 25, 2002, [116 Stat. 2319][/us/stat/116/2319].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 864][/us/stat/108/864]; [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1710(a), Nov. 25, 2002, [116 Stat. 2319][/us/stat/116/2319].)
 
 <table>
 
@@ -265,19 +265,19 @@ Oct. 16, 1970, Pub. L. 91–458, § 206(d), 84 Stat. 974; Oct. 10, 1980, Pub. 
 
  __Amendments__ 
 
-    2002—Subsec. (a). [Pub. L. 107–296, § 1710(a)(2)][/us/pl/107/296/s1710/a/2], substituted “the Secretary concerned” for “the Secretary” in second sentence.
+    2002—Subsec. (a). [Pub. L. 107–296][/us/pl/107/296], § 1710(a)(2), substituted “the Secretary concerned” for “the Secretary” in second sentence.
 
-    [Pub. L. 107–296, § 1710(a)(1)][/us/pl/107/296/s1710/a/1], substituted “The Secretary concerned” for “The Secretary of Transportation” in first sentence.
+    [Pub. L. 107–296][/us/pl/107/296], § 1710(a)(1), substituted “The Secretary concerned” for “The Secretary of Transportation” in first sentence.
 
-    Subsecs. (b), (c). [Pub. L. 107–296, § 1710(a)(2)][/us/pl/107/296/s1710/a/2], substituted “Secretary concerned” for “Secretary” wherever appearing.
+    Subsecs. (b), (c). [Pub. L. 107–296][/us/pl/107/296], § 1710(a)(2), substituted “Secretary concerned” for “Secretary” wherever appearing.
 
-    Subsec. (d). [Pub. L. 107–296, § 1710(a)(2)][/us/pl/107/296/s1710/a/2], (3), substituted “Secretary concerned” for “Secretary” and “duties under chapters 203–213 of this title (in the case of the Secretary of Transportation) and duties under [section 114 of this title][/us/usc/t49/s114] (in the case of the Secretary of Homeland Security)” for “Secretary’s duties under chapters 203–213 of this title”.
+    Subsec. (d). [Pub. L. 107–296][/us/pl/107/296], § 1710(a)(2), (3), substituted “Secretary concerned” for “Secretary” and “duties under chapters 203–213 of this title (in the case of the Secretary of Transportation) and duties under [section 114 of this title][/us/usc/t49/s114] (in the case of the Secretary of Homeland Security)” for “Secretary’s duties under chapters 203–213 of this title”.
 
-    Subsec. (e). [Pub. L. 107–296, § 1710(a)(2)][/us/pl/107/296/s1710/a/2], substituted “Secretary concerned” for “Secretary” wherever appearing.
+    Subsec. (e). [Pub. L. 107–296][/us/pl/107/296], § 1710(a)(2), substituted “Secretary concerned” for “Secretary” wherever appearing.
 
-    Subsec. (f). [Pub. L. 107–296, § 1710(a)(2)][/us/pl/107/296/s1710/a/2], (4), substituted “Secretary concerned” for “Secretary” and “chapter (in the case of the Secretary of Transportation) and duties under [section 114 of this title][/us/usc/t49/s114] (in the case of the Secretary of Homeland Security)” for “chapter”.
+    Subsec. (f). [Pub. L. 107–296][/us/pl/107/296], § 1710(a)(2), (4), substituted “Secretary concerned” for “Secretary” and “chapter (in the case of the Secretary of Transportation) and duties under [section 114 of this title][/us/usc/t49/s114] (in the case of the Secretary of Homeland Security)” for “chapter”.
 
-    Subsec. (g). [Pub. L. 107–296, § 1710(a)(5)][/us/pl/107/296/s1710/a/5], added subsec. (g).
+    Subsec. (g). [Pub. L. 107–296][/us/pl/107/296], § 1710(a)(5), added subsec. (g).
 
  __Effective Date of 2002 Amendment__ 
 
@@ -292,19 +292,19 @@ Oct. 16, 1970, Pub. L. 91–458, § 206(d), 84 Stat. 974; Oct. 10, 1980, Pub. 
 
 [/us/usc/t49/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs114
 [/us/usc/t49/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs114
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F864
-[/us/pl/107/296/s1710/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1710%2Fa
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2319
-[/us/pl/107/296/s1710/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1710%2Fa%2F2
-[/us/pl/107/296/s1710/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1710%2Fa%2F1
-[/us/pl/107/296/s1710/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1710%2Fa%2F2
-[/us/pl/107/296/s1710/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1710%2Fa%2F2
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/usc/t49/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs114
-[/us/pl/107/296/s1710/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1710%2Fa%2F2
-[/us/pl/107/296/s1710/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1710%2Fa%2F2
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/usc/t49/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs114
-[/us/pl/107/296/s1710/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1710%2Fa%2F5
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs4
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101

@@ -27,7 +27,7 @@
 
     To the maximum extent possible, the State shall encourage the participation of shippers, rail carriers, and local communities in paying the State share of assistance costs.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 897][/us/stat/108/897]; [Pub. L. 104–287, § 5(55)][/us/pl/104/287/s5/55], Oct. 11, 1996, [110 Stat. 3393][/us/stat/110/3393]; [Pub. L. 110–432, div. A, title VII, § 701(a)][/us/pl/110/432/s701/a], Oct. 16, 2008, [122 Stat. 4905][/us/stat/122/4905]; [Pub. L. 114–94, div. A, title XI, § 11316(k)][/us/pl/114/94/s11316/k], Dec. 4, 2015, [129 Stat. 1678][/us/stat/129/1678].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 897][/us/stat/108/897]; [Pub. L. 104–287][/us/pl/104/287], § 5(55), Oct. 11, 1996, [110 Stat. 3393][/us/stat/110/3393]; [Pub. L. 110–432, div. A, title VII][/us/pl/110/432/dA/tVII], § 701(a), Oct. 16, 2008, [122 Stat. 4905][/us/stat/122/4905]; [Pub. L. 114–94, div. A, title XI][/us/pl/114/94/dA/tXI], § 11316(k), Dec. 4, 2015, [129 Stat. 1678][/us/stat/129/1678].)
 
 <table>
 
@@ -153,13 +153,13 @@ Oct. 15, 1966, Pub. L. 89–670, 80 Stat. 931, § 5(d), (i); added Feb. 5, 197
 
     2015—Subsec. (b). [Pub. L. 114–94][/us/pl/114/94] substituted “interest thereon” for “interest thereof”.
 
-    2008—Subsec. (a). [Pub. L. 110–432, § 701(a)(1)][/us/pl/110/432/s701/a/1], struck out last sentence which read as follows: “The State shall decide on the financial terms of the grant or loan, except that the time for making grant advances shall comply with regulations of the Secretary of the Treasury.”
+    2008—Subsec. (a). [Pub. L. 110–432][/us/pl/110/432], § 701(a)(1), struck out last sentence which read as follows: “The State shall decide on the financial terms of the grant or loan, except that the time for making grant advances shall comply with regulations of the Secretary of the Treasury.”
 
-    Subsec. (b). [Pub. L. 110–432, § 701(a)(2)][/us/pl/110/432/s701/a/2], added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “The State shall place the United States Government’s share of money that is repaid in an interest-bearing account. However, the Secretary of Transportation may allow a borrower to place that money, for the benefit of the State, in a bank designated by the Secretary of the Treasury under [section 10 of the Act of June 11, 1942][/us/act/1942-06-11/s10] ([12 U.S.C. 265][/us/usc/t12/s265]). The State shall use the money and accumulated interest to make other grants and loans under this chapter in the same manner and under the same conditions as if they were originally granted to the State by the Secretary of Transportation.”
+    Subsec. (b). [Pub. L. 110–432][/us/pl/110/432], § 701(a)(2), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “The State shall place the United States Government’s share of money that is repaid in an interest-bearing account. However, the Secretary of Transportation may allow a borrower to place that money, for the benefit of the State, in a bank designated by the Secretary of the Treasury under [section 10 of the Act of June 11, 1942][/us/act/1942-06-11/s10] ([12 U.S.C. 265][/us/usc/t12/s265]). The State shall use the money and accumulated interest to make other grants and loans under this chapter in the same manner and under the same conditions as if they were originally granted to the State by the Secretary of Transportation.”
 
-    Subsecs. (c), (d). [Pub. L. 110–432, § 701(a)(3)][/us/pl/110/432/s701/a/3], redesignated subsec. (d) as (c) and struck out former subsec. (c). Text of former subsec. (c) read as follows: “The State may pay the Secretary of Transportation the Government’s share of unused money and accumulated interest at any time. However, the State must pay the unused money and accumulated interest to the Secretary when the State ends its participation under this chapter.”
+    Subsecs. (c), (d). [Pub. L. 110–432][/us/pl/110/432], § 701(a)(3), redesignated subsec. (d) as (c) and struck out former subsec. (c). Text of former subsec. (c) read as follows: “The State may pay the Secretary of Transportation the Government’s share of unused money and accumulated interest at any time. However, the State must pay the unused money and accumulated interest to the Secretary when the State ends its participation under this chapter.”
 
-    Subsec. (e). [Pub. L. 110–432, § 701(a)(3)][/us/pl/110/432/s701/a/3], struck out subsec. (e). Text read as follows: “Each State shall retain a contingent interest (redeemable preference shares) for the Government’s share of amounts in a rail line receiving assistance under this chapter. The State may collect its share of the amounts used for the rail line if—
+    Subsec. (e). [Pub. L. 110–432][/us/pl/110/432], § 701(a)(3), struck out subsec. (e). Text read as follows: “Each State shall retain a contingent interest (redeemable preference shares) for the Government’s share of amounts in a rail line receiving assistance under this chapter. The State may collect its share of the amounts used for the rail line if—
 
     “(1) an application for abandonment of the rail line is filed under chapter 109 of this title; or
 
@@ -182,25 +182,25 @@ Oct. 15, 1966, Pub. L. 89–670, 80 Stat. 931, § 5(d), (i); added Feb. 5, 197
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F897
-[/us/pl/104/287/s5/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F55
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3393
-[/us/pl/110/432/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs701%2Fa
+[/us/pl/110/432/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdA%2FtVII
 [/us/stat/122/4905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4905
-[/us/pl/114/94/s11316/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11316%2Fk
+[/us/pl/114/94/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtXI
 [/us/stat/129/1678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1678
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/act/1994-07-05/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1994-07-05%2Fs1
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F897
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
-[/us/pl/110/432/s701/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs701%2Fa%2F1
-[/us/pl/110/432/s701/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs701%2Fa%2F2
+[/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
+[/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
 [/us/act/1942-06-11/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-06-11%2Fs10
 [/us/usc/t12/s265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs265
-[/us/pl/110/432/s701/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs701%2Fa%2F3
-[/us/pl/110/432/s701/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs701%2Fa%2F3
+[/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
+[/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003

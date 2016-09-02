@@ -27,7 +27,7 @@
 
         (B) for any other airport, the person operating the airport.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1284][/us/stat/108/1284].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1284][/us/stat/108/1284].)
 
 <table>
 
@@ -131,13 +131,13 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 1601(b)(1)(E); added Oct. 4,
 
  __Aviation Noise Complaints__ 
 
-[Pub. L. 112–95, title V, § 510][/us/pl/112/95/s510], Feb. 14, 2012, [126 Stat. 107][/us/stat/126/107], provided that: 
+[Pub. L. 112–95, title V][/us/pl/112/95/tV], § 510, Feb. 14, 2012, [126 Stat. 107][/us/stat/126/107], provided that: 
 
 > “Not later than 90 days after the date of enactment of this Act \[Feb. 14, 2012\], each owner or operator of a large hub airport (as defined in [section 40102(a) of title 49][/us/usc/t49/s40102/a], United States Code) shall publish on an Internet Web site of the airport a telephone number to receive aviation noise complaints related to the airport.”
 
  __Airport Noise Study__ 
 
-[Pub. L. 106–181, title VII, § 745][/us/pl/106/181/s745], Apr. 5, 2000, [114 Stat. 178][/us/stat/114/178], as amended by [Pub. L. 106–528, § 7(a)][/us/pl/106/528/s7/a], Nov. 22, 2000, [114 Stat. 2521][/us/stat/114/2521], provided that:
+[Pub. L. 106–181, title VII][/us/pl/106/181/tVII], § 745, Apr. 5, 2000, [114 Stat. 178][/us/stat/114/178], as amended by [Pub. L. 106–528][/us/pl/106/528], § 7(a), Nov. 22, 2000, [114 Stat. 2521][/us/stat/114/2521], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -165,7 +165,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 1601(b)(1)(E); added Oct. 4,
 
  __Nonmilitary Helicopter Noise__ 
 
-[Pub. L. 106–181, title VII, § 747][/us/pl/106/181/s747], Apr. 5, 2000, [114 Stat. 179][/us/stat/114/179], provided that:
+[Pub. L. 106–181, title VII][/us/pl/106/181/tVII], § 747, Apr. 5, 2000, [114 Stat. 179][/us/stat/114/179], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -196,16 +196,16 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 1601(b)(1)(E); added Oct. 4,
 
 [/us/usc/t49/s47102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs47102
 [/us/usc/t49/s44706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44706
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1284
-[/us/pl/112/95/s510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs510
+[/us/pl/112/95/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtV
 [/us/stat/126/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F107
 [/us/usc/t49/s40102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40102%2Fa
-[/us/pl/106/181/s745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs745
+[/us/pl/106/181/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtVII
 [/us/stat/114/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F178
-[/us/pl/106/528/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F528%2Fs7%2Fa
+[/us/pl/106/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F528
 [/us/stat/114/2521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2521
-[/us/pl/106/181/s747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs747
+[/us/pl/106/181/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtVII
 [/us/stat/114/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F179
 
 

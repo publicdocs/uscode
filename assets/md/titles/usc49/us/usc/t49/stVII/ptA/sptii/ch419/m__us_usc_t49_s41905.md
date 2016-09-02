@@ -23,7 +23,7 @@
 
     Transportation provided under a contract made under subsection (a) of this section is not air transportation within the meaning of this part.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1155][/us/stat/108/1155], § 41906; renumbered § 41905, [Pub. L. 110–405, § 2(b)(7)(B)][/us/pl/110/405/s2/b/7/B], Oct. 13, 2008, [122 Stat. 4289][/us/stat/122/4289].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1155][/us/stat/108/1155], § 41906; renumbered § 41905, [Pub. L. 110–405][/us/pl/110/405], § 2(b)(7)(B), Oct. 13, 2008, [122 Stat. 4289][/us/stat/122/4289].)
 
 <table>
 
@@ -91,7 +91,7 @@ In subsection (a), the word “disaster” is substituted for “calamitous visi
 
  __Prior Provisions__ 
 
-    A prior section 41905, [Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1155][/us/stat/108/1155], related to regulating air carrier transportation of foreign mail, prior to repeal by [Pub. L. 110–405, § 2(b)(7)(A)][/us/pl/110/405/s2/b/7/A], (c), Oct. 13, 2008, [122 Stat. 4289][/us/stat/122/4289], 4290, effective Oct. 1, 2008.
+    A prior section 41905, [Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1155][/us/stat/108/1155], related to regulating air carrier transportation of foreign mail, prior to repeal by [Pub. L. 110–405][/us/pl/110/405], § 2(b)(7)(A), (c), Oct. 13, 2008, [122 Stat. 4289][/us/stat/122/4289], 4290, effective Oct. 1, 2008.
 
  __Amendments__ 
 
@@ -108,13 +108,13 @@ In subsection (a), the word “disaster” is substituted for “calamitous visi
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1155
-[/us/pl/110/405/s2/b/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F405%2Fs2%2Fb%2F7%2FB
+[/us/pl/110/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F405
 [/us/stat/122/4289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4289
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1155
-[/us/pl/110/405/s2/b/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F405%2Fs2%2Fb%2F7%2FA
+[/us/pl/110/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F405
 [/us/stat/122/4289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4289
 [/us/pl/110/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F405
 [/us/usc/t49/s41906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs41906

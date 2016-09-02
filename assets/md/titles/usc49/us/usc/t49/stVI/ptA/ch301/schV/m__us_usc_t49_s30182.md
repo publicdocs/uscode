@@ -75,7 +75,7 @@
 
     When the United States Government makes more than a minimal contribution to a research or development activity under this chapter, the Secretary shall include in the arrangement for the activity a provision to ensure that all information, patents, and developments related to the activity are available to the public. The owner of a background patent may not be deprived of a right under the patent.
 
-(Added [Pub. L. 112–141, div. C, title I, § 31204(a)][/us/pl/112/141/s31204/a], July 6, 2012, [126 Stat. 759][/us/stat/126/759]; amended [Pub. L. 114–94, div. B, title XXIV, § 24202(a)][/us/pl/114/94/s24202/a], Dec. 4, 2015, [129 Stat. 1711][/us/stat/129/1711].)
+(Added [Pub. L. 112–141, div. C, title I][/us/pl/112/141/dC/tI], § 31204(a), July 6, 2012, [126 Stat. 759][/us/stat/126/759]; amended [Pub. L. 114–94, div. B, title XXIV][/us/pl/114/94/dB/tXXIV], § 24202(a), Dec. 4, 2015, [129 Stat. 1711][/us/stat/129/1711].)
 
  __Amendments__ 
 
@@ -92,9 +92,9 @@
 ----------
 ----------
 
-[/us/pl/112/141/s31204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31204%2Fa
+[/us/pl/112/141/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtI
 [/us/stat/126/759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F759
-[/us/pl/114/94/s24202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24202%2Fa
+[/us/pl/114/94/dB/tXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdB%2FtXXIV
 [/us/stat/129/1711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1711
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa

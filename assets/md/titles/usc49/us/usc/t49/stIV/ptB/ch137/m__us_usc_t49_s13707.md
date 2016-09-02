@@ -53,11 +53,11 @@
 
             Subparagraph (A) does not apply to impracticable operations, as defined by the applicable carrier tariff, except that the charges collected at delivery for such operations shall not exceed 15 percent of all other charges due at delivery. Any remaining charges due shall be paid within 30 days after the carrier presents its freight bill.
 
-(Added [Pub. L. 104–88, title I, § 103][/us/pl/104/88/s103], Dec. 29, 1995, [109 Stat. 873][/us/stat/109/873]; amended [Pub. L. 109–59, title IV, § 4203][/us/pl/109/59/s4203], Aug. 10, 2005, [119 Stat. 1752][/us/stat/119/1752].)
+(Added [Pub. L. 104–88, title I][/us/pl/104/88/tI], § 103, Dec. 29, 1995, [109 Stat. 873][/us/stat/109/873]; amended [Pub. L. 109–59, title IV][/us/pl/109/59/tIV], § 4203, Aug. 10, 2005, [119 Stat. 1752][/us/stat/119/1752].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [section 10743 of this title][/us/usc/t49/s10743] prior to the general amendment of this subtitle by [Pub. L. 104–88, § 102(a)][/us/pl/104/88/s102/a].
+    Provisions similar to those in this section were contained in [section 10743 of this title][/us/usc/t49/s10743] prior to the general amendment of this subtitle by [Pub. L. 104–88][/us/pl/104/88], § 102(a).
 
  __Amendments__ 
 
@@ -70,12 +70,12 @@
 ----------
 ----------
 
-[/us/pl/104/88/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs103
+[/us/pl/104/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtI
 [/us/stat/109/873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F873
-[/us/pl/109/59/s4203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4203
+[/us/pl/109/59/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIV
 [/us/stat/119/1752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1752
 [/us/usc/t49/s10743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs10743
-[/us/pl/104/88/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs102%2Fa
+[/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 
 

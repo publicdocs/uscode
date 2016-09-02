@@ -17,7 +17,7 @@
 
     Not later than 18 months after November 2, 1994, the Secretary of Transportation shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report concerning any action that has been taken by the Secretary on railroad bridge displacement detection systems.
 
-(Added [Pub. L. 103–440, title II, § 207(a)][/us/pl/103/440/s207/a], Nov. 2, 1994, [108 Stat. 4621][/us/stat/108/4621]; amended [Pub. L. 104–287, § 5(48)][/us/pl/104/287/s5/48], (49), Oct. 11, 1996, [110 Stat. 3393][/us/stat/110/3393].)
+(Added [Pub. L. 103–440, title II][/us/pl/103/440/tII], § 207(a), Nov. 2, 1994, [108 Stat. 4621][/us/stat/108/4621]; amended [Pub. L. 104–287][/us/pl/104/287], § 5(48), (49), Oct. 11, 1996, [110 Stat. 3393][/us/stat/110/3393].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/103/440/s207/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F440%2Fs207%2Fa
+[/us/pl/103/440/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F440%2FtII
 [/us/stat/108/4621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4621
-[/us/pl/104/287/s5/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F48
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3393
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 

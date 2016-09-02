@@ -113,19 +113,19 @@
 
         If this section does not apply to an aircraft accident because the Board has relinquished investigative priority with respect to the accident, the Board shall assist, to the maximum extent possible, the agency to which the Board has relinquished investigative priority in assisting families with respect to the accident.
 
-(Added [Pub. L. 104–264, title VII, § 702(a)(1)][/us/pl/104/264/s702/a/1], Oct. 9, 1996, [110 Stat. 3265][/us/stat/110/3265]; amended [Pub. L. 106–181, title IV, § 401(a)(1)][/us/pl/106/181/s401/a/1], (b)–(d), Apr. 5, 2000, [114 Stat. 129][/us/stat/114/129]; [Pub. L. 108–168, § 3(a)][/us/pl/108/168/s3/a], Dec. 6, 2003, [117 Stat. 2033][/us/stat/117/2033].)
+(Added [Pub. L. 104–264, title VII][/us/pl/104/264/tVII], § 702(a)(1), Oct. 9, 1996, [110 Stat. 3265][/us/stat/110/3265]; amended [Pub. L. 106–181, title IV][/us/pl/106/181/tIV], § 401(a)(1), (b)–(d), Apr. 5, 2000, [114 Stat. 129][/us/stat/114/129]; [Pub. L. 108–168][/us/pl/108/168], § 3(a), Dec. 6, 2003, [117 Stat. 2033][/us/stat/117/2033].)
 
  __Amendments__ 
 
     2003—Subsec. (j). [Pub. L. 108–168][/us/pl/108/168] added subsec. (j).
 
-    2000—Subsec. (g)(2). [Pub. L. 106–181, § 401(a)(1)][/us/pl/106/181/s401/a/1], substituted “transportation and in the event of an accident involving a foreign air carrier that occurs within the United States,” for “transportation,”, inserted “(including any associate, agent, employee, or other representative of an attorney)” after “attorney”, and substituted “45th day” for “30th day”.
+    2000—Subsec. (g)(2). [Pub. L. 106–181][/us/pl/106/181], § 401(a)(1), substituted “transportation and in the event of an accident involving a foreign air carrier that occurs within the United States,” for “transportation,”, inserted “(including any associate, agent, employee, or other representative of an attorney)” after “attorney”, and substituted “45th day” for “30th day”.
 
-    Subsec. (g)(3). [Pub. L. 106–181, § 401(b)][/us/pl/106/181/s401/b], added par. (3).
+    Subsec. (g)(3). [Pub. L. 106–181][/us/pl/106/181], § 401(b), added par. (3).
 
-    Subsec. (h)(2). [Pub. L. 106–181, § 401(c)][/us/pl/106/181/s401/c], amended heading and text generally. Prior to amendment, text read as follows: “The term ‘passenger’ includes an employee of an air carrier aboard an aircraft.”
+    Subsec. (h)(2). [Pub. L. 106–181][/us/pl/106/181], § 401(c), amended heading and text generally. Prior to amendment, text read as follows: “The term ‘passenger’ includes an employee of an air carrier aboard an aircraft.”
 
-    Subsec. (i). [Pub. L. 106–181, § 401(d)][/us/pl/106/181/s401/d], added subsec. (i).
+    Subsec. (i). [Pub. L. 106–181][/us/pl/106/181], § 401(d), added subsec. (i).
 
  __Effective Date of 2000 Amendment__ 
 
@@ -142,17 +142,17 @@
 ----------
 ----------
 
-[/us/pl/104/264/s702/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs702%2Fa%2F1
+[/us/pl/104/264/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2FtVII
 [/us/stat/110/3265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3265
-[/us/pl/106/181/s401/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs401%2Fa%2F1
+[/us/pl/106/181/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtIV
 [/us/stat/114/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F129
-[/us/pl/108/168/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F168%2Fs3%2Fa
+[/us/pl/108/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F168
 [/us/stat/117/2033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2033
 [/us/pl/108/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F168
-[/us/pl/106/181/s401/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs401%2Fa%2F1
-[/us/pl/106/181/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs401%2Fb
-[/us/pl/106/181/s401/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs401%2Fc
-[/us/pl/106/181/s401/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs401%2Fd
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/pl/106/181/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106

@@ -37,7 +37,7 @@
 
     The funds made available under this section shall remain available until expended.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1152][/us/stat/108/1152]; [Pub. L. 104–264, title II, § 278(c)][/us/pl/104/264/s278/c], Oct. 9, 1996, [110 Stat. 3249][/us/stat/110/3249]; [Pub. L. 106–181, title II, § 209(a)][/us/pl/106/181/s209/a], Apr. 5, 2000, [114 Stat. 95][/us/stat/114/95]; [Pub. L. 108–176, title IV, § 404][/us/pl/108/176/s404], Dec. 12, 2003, [117 Stat. 2543][/us/stat/117/2543]; [Pub. L. 112–30, title II, § 209][/us/pl/112/30/s209], Sept. 16, 2011, [125 Stat. 359][/us/stat/125/359]; [Pub. L. 112–91, § 9][/us/pl/112/91/s9], Jan. 31, 2012, [126 Stat. 5][/us/stat/126/5]; [Pub. L. 112–95, title IV, § 428][/us/pl/112/95/s428], Feb. 14, 2012, [126 Stat. 99][/us/stat/126/99]; [Pub. L. 114–55, title I, § 107][/us/pl/114/55/s107], Sept. 30, 2015, [129 Stat. 524][/us/stat/129/524].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1152][/us/stat/108/1152]; [Pub. L. 104–264, title II][/us/pl/104/264/tII], § 278(c), Oct. 9, 1996, [110 Stat. 3249][/us/stat/110/3249]; [Pub. L. 106–181, title II][/us/pl/106/181/tII], § 209(a), Apr. 5, 2000, [114 Stat. 95][/us/stat/114/95]; [Pub. L. 108–176, title IV][/us/pl/108/176/tIV], § 404, Dec. 12, 2003, [117 Stat. 2543][/us/stat/117/2543]; [Pub. L. 112–30, title II][/us/pl/112/30/tII], § 209, Sept. 16, 2011, [125 Stat. 359][/us/stat/125/359]; [Pub. L. 112–91][/us/pl/112/91], § 9, Jan. 31, 2012, [126 Stat. 5][/us/stat/126/5]; [Pub. L. 112–95, title IV][/us/pl/112/95/tIV], § 428, Feb. 14, 2012, [126 Stat. 99][/us/stat/126/99]; [Pub. L. 114–55, title I][/us/pl/114/55/tI], § 107, Sept. 30, 2015, [129 Stat. 524][/us/stat/129/524].)
 
 <table>
 
@@ -93,23 +93,23 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 419(m); added Oct. 24, 1978,
 
     2015—Subsec. (a)(2). [Pub. L. 114–55][/us/pl/114/55] substituted “$93,000,000 for fiscal year 2015, and $77,500,000 for the period beginning on October 1, 2015, and ending on March 31, 2016,” for “and $93,000,000 for fiscal year 2015”.
 
-    2012—Subsec. (a)(1). [Pub. L. 112–95, § 428(a)(1)][/us/pl/112/95/s428/a/1], inserted “for each fiscal year” before “is authorized” and substituted “under this subchapter” for “under this subchapter for each fiscal year”.
+    2012—Subsec. (a)(1). [Pub. L. 112–95][/us/pl/112/95], § 428(a)(1), inserted “for each fiscal year” before “is authorized” and substituted “under this subchapter” for “under this subchapter for each fiscal year”.
 
-    Subsec. (a)(2). [Pub. L. 112–95, § 428(a)(2)][/us/pl/112/95/s428/a/2], substituted “, $143,000,000 for fiscal year 2012, $118,000,000 for fiscal year 2013, $107,000,000 for fiscal year 2014, and $93,000,000 for fiscal year 2015” for “and $54,699,454 for the period beginning on October 1, 2011, and ending on February 17, 2012,”.
+    Subsec. (a)(2). [Pub. L. 112–95][/us/pl/112/95], § 428(a)(2), substituted “, $143,000,000 for fiscal year 2012, $118,000,000 for fiscal year 2013, $107,000,000 for fiscal year 2014, and $93,000,000 for fiscal year 2015” for “and $54,699,454 for the period beginning on October 1, 2011, and ending on February 17, 2012,”.
 
     [Pub. L. 112–91][/us/pl/112/91] substituted “and $54,699,454 for the period beginning on October 1, 2011, and ending on February 17, 2012,” for “and $50,309,016 for the period beginning on October 1, 2011, and ending on January 31, 2012,”.
 
-    Subsec. (b). [Pub. L. 112–95, § 428(b)][/us/pl/112/95/s428/b], amended subsec. (b) generally. Prior to amendment, text read as follows: “Notwithstanding any other provision of law, moneys credited to the account established under [section 45303(a) of this title][/us/usc/t49/s45303/a], including the funds derived from fees imposed under the authority contained in [section 45301(a) of this title][/us/usc/t49/s45301/a], shall be used to carry out the essential air service program under this subchapter. Notwithstanding [section 47114(g) of this title][/us/usc/t49/s47114/g], any amounts from those fees that are not obligated or expended at the end of the fiscal year for the purpose of funding the essential air service program under this subchapter shall be made available to the Administration for use in improving rural air safety under subchapter I of chapter 471 of this title and shall be used exclusively for projects at rural airports under this subchapter.”
+    Subsec. (b). [Pub. L. 112–95][/us/pl/112/95], § 428(b), amended subsec. (b) generally. Prior to amendment, text read as follows: “Notwithstanding any other provision of law, moneys credited to the account established under [section 45303(a) of this title][/us/usc/t49/s45303/a], including the funds derived from fees imposed under the authority contained in [section 45301(a) of this title][/us/usc/t49/s45301/a], shall be used to carry out the essential air service program under this subchapter. Notwithstanding [section 47114(g) of this title][/us/usc/t49/s47114/g], any amounts from those fees that are not obligated or expended at the end of the fiscal year for the purpose of funding the essential air service program under this subchapter shall be made available to the Administration for use in improving rural air safety under subchapter I of chapter 471 of this title and shall be used exclusively for projects at rural airports under this subchapter.”
 
-    Subsec. (c). [Pub. L. 112–95, § 428(c)][/us/pl/112/95/s428/c], added subsec. (c).
+    Subsec. (c). [Pub. L. 112–95][/us/pl/112/95], § 428(c), added subsec. (c).
 
     2011—Subsec. (a)(2). [Pub. L. 112–30][/us/pl/112/30] substituted “there is authorized to be appropriated out of the Airport and Airway Trust Fund (established under section 9502 of the Internal Revenue Code of 1986) $150,000,000 for fiscal year 2011 and $50,309,016 for the period beginning on October 1, 2011, and ending on January 31, 2012,” for “there is authorized to be appropriated $77,000,000 for each fiscal year”.
 
-    2003—Subsec. (a)(2). [Pub. L. 108–176, § 404(1)][/us/pl/108/176/s404/1], substituted “$77,000,000” for “$15,000,000” and inserted “of which not more than $12,000,000 per fiscal year may be used for the marketing incentive program for communities and for State marketing assistance” before period at end.
+    2003—Subsec. (a)(2). [Pub. L. 108–176][/us/pl/108/176], § 404(1), substituted “$77,000,000” for “$15,000,000” and inserted “of which not more than $12,000,000 per fiscal year may be used for the marketing incentive program for communities and for State marketing assistance” before period at end.
 
-    Subsec. (a)(3). [Pub. L. 108–176, § 404(2)][/us/pl/108/176/s404/2], added par. (3).
+    Subsec. (a)(3). [Pub. L. 108–176][/us/pl/108/176], § 404(2), added par. (3).
 
-    Subsec. (c). [Pub. L. 108–176, § 404(3)][/us/pl/108/176/s404/3], struck out heading and text of subsec. (c). Text read as follows: “Notwithstanding subsections (a) and (b), in fiscal year 1997, amounts in excess of $75,000,000 that are collected in fees pursuant to [section 45301(a)(1) of this title][/us/usc/t49/s45301/a/1] shall be available for the essential air service program under this subchapter, in addition to amounts specifically provided for in appropriations Acts.”
+    Subsec. (c). [Pub. L. 108–176][/us/pl/108/176], § 404(3), struck out heading and text of subsec. (c). Text read as follows: “Notwithstanding subsections (a) and (b), in fiscal year 1997, amounts in excess of $75,000,000 that are collected in fees pursuant to [section 45301(a)(1) of this title][/us/usc/t49/s45301/a/1] shall be available for the essential air service program under this subchapter, in addition to amounts specifically provided for in appropriations Acts.”
 
     2000—Subsec. (a). [Pub. L. 106–181][/us/pl/106/181] designated existing provisions as par. (1), inserted heading, realigned margins, and added par. (2).
 
@@ -131,13 +131,13 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 419(m); added Oct. 24, 1978,
 
  __Funding for Essential Air Service Program__ 
 
-[Pub. L. 112–55, div. C, title I][/us/pl/112/55], Nov. 18, 2011, [125 Stat. 644][/us/stat/125/644], provided in part: 
+[Pub. L. 112–55, div. C, title I][/us/pl/112/55/dC/tI], Nov. 18, 2011, [125 Stat. 644][/us/stat/125/644], provided in part: 
 
 > “That no funds made available under [section 41742 of title 49][/us/usc/t49/s41742], United States Code, and no funds made available in this Act \[div. C of [Pub. L. 112–55][/us/pl/112/55], see Tables for classification\] or any other Act in any fiscal year, shall be available to carry out the essential air service program under sections 41731 through 41742 of such title 49 in communities in the 48 contiguous States unless the community received subsidized essential air service or received a 90-day notice of intent to terminate service and the Secretary required the air carrier to continue to provide service to the community at any time between September 30, 2010, and September 30, 2011, inclusive”.
 
  __Findings__ 
 
-[Pub. L. 104–264, title II, § 278(b)][/us/pl/104/264/s278/b], Oct. 9, 1996, [110 Stat. 3249][/us/stat/110/3249], provided that: 
+[Pub. L. 104–264, title II][/us/pl/104/264/tII], § 278(b), Oct. 9, 1996, [110 Stat. 3249][/us/stat/110/3249], provided that: 
 
 > “Congress finds that—
 
@@ -171,36 +171,36 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 419(m); added Oct. 24, 1978,
 ----------
 
 [/us/usc/t49/s45303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs45303
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1152
-[/us/pl/104/264/s278/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs278%2Fc
+[/us/pl/104/264/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2FtII
 [/us/stat/110/3249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3249
-[/us/pl/106/181/s209/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs209%2Fa
+[/us/pl/106/181/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtII
 [/us/stat/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F95
-[/us/pl/108/176/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs404
+[/us/pl/108/176/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtIV
 [/us/stat/117/2543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2543
-[/us/pl/112/30/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F30%2Fs209
+[/us/pl/112/30/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F30%2FtII
 [/us/stat/125/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F359
-[/us/pl/112/91/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F91%2Fs9
+[/us/pl/112/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F91
 [/us/stat/126/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F5
-[/us/pl/112/95/s428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs428
+[/us/pl/112/95/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtIV
 [/us/stat/126/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F99
-[/us/pl/114/55/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F55%2Fs107
+[/us/pl/114/55/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F55%2FtI
 [/us/stat/129/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F524
 [/us/usc/t26/s9502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9502
 [/us/pl/114/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F55
-[/us/pl/112/95/s428/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs428%2Fa%2F1
-[/us/pl/112/95/s428/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs428%2Fa%2F2
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
 [/us/pl/112/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F91
-[/us/pl/112/95/s428/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs428%2Fb
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
 [/us/usc/t49/s45303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs45303%2Fa
 [/us/usc/t49/s45301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs45301%2Fa
 [/us/usc/t49/s47114/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs47114%2Fg
-[/us/pl/112/95/s428/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs428%2Fc
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
 [/us/pl/112/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F30
-[/us/pl/108/176/s404/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs404%2F1
-[/us/pl/108/176/s404/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs404%2F2
-[/us/pl/108/176/s404/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs404%2F3
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
 [/us/usc/t49/s45301/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs45301%2Fa%2F1
 [/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
@@ -216,11 +216,11 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 419(m); added Oct. 24, 1978,
 [/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
 [/us/pl/104/264/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106
-[/us/pl/112/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55
+[/us/pl/112/55/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55%2FdC%2FtI
 [/us/stat/125/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F644
 [/us/usc/t49/s41742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs41742
 [/us/pl/112/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55
-[/us/pl/104/264/s278/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs278%2Fb
+[/us/pl/104/264/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2FtII
 [/us/stat/110/3249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3249
 
 

@@ -73,7 +73,7 @@
 
     A member of a committee under this section is entitled to expenses under [section 5703 of title 5][/us/usc/t5/s5703]. A payment under this subsection does not make a member an officer or employee of the Government. This subsection does not apply to members regularly employed by the Government.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1319][/us/stat/108/1319]; [Pub. L. 104–88, title III, § 308(m)][/us/pl/104/88/s308/m], Dec. 29, 1995, [109 Stat. 948][/us/stat/109/948]; [Pub. L. 104–304, § 10][/us/pl/104/304/s10], Oct. 12, 1996, [110 Stat. 3801][/us/stat/110/3801]; [Pub. L. 107–355, § 20(b)][/us/pl/107/355/s20/b], Dec. 17, 2002, [116 Stat. 3010][/us/stat/116/3010].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1319][/us/stat/108/1319]; [Pub. L. 104–88, title III][/us/pl/104/88/tIII], § 308(m), Dec. 29, 1995, [109 Stat. 948][/us/stat/109/948]; [Pub. L. 104–304][/us/pl/104/304], § 10, Oct. 12, 1996, [110 Stat. 3801][/us/stat/110/3801]; [Pub. L. 107–355][/us/pl/107/355], § 20(b), Dec. 17, 2002, [116 Stat. 3010][/us/stat/116/3010].)
 
 <table>
 
@@ -375,27 +375,27 @@ In subsection (f), the words “The Secretary may establish the pay” are subst
 
     2002—Subsec. (b)(4)(D). [Pub. L. 107–355][/us/pl/107/355] added subpar. (D).
 
-    1996—Subsec. (a). [Pub. L. 104–304, § 10(a)][/us/pl/104/304/s10/a], inserted at end “The committees referred to in the preceding sentence shall serve as peer review committees for carrying out this chapter. Peer reviews conducted by the committees shall be treated for purposes of all Federal laws relating to risk assessment and peer review (including laws that take effect after the date of the enactment of the Accountable Pipeline Safety and Partnership Act of 1996) as meeting any peer review requirements of such laws.”
+    1996—Subsec. (a). [Pub. L. 104–304][/us/pl/104/304], § 10(a), inserted at end “The committees referred to in the preceding sentence shall serve as peer review committees for carrying out this chapter. Peer reviews conducted by the committees shall be treated for purposes of all Federal laws relating to risk assessment and peer review (including laws that take effect after the date of the enactment of the Accountable Pipeline Safety and Partnership Act of 1996) as meeting any peer review requirements of such laws.”
 
-    Subsec. (b)(1), (2). [Pub. L. 104–304, § 10(b)(1)][/us/pl/104/304/s10/b/1], (2), inserted before period at end “or risk management principles”.
+    Subsec. (b)(1), (2). [Pub. L. 104–304][/us/pl/104/304], § 10(b)(1), (2), inserted before period at end “or risk management principles”.
 
-    Subsec. (b)(3)(B). [Pub. L. 104–304, § 10(b)(3)][/us/pl/104/304/s10/b/3], substituted “5” for “4”.
+    Subsec. (b)(3)(B). [Pub. L. 104–304][/us/pl/104/304], § 10(b)(3), substituted “5” for “4”.
 
-    Subsec. (b)(3)(C). [Pub. L. 104–304, § 10(b)(4)][/us/pl/104/304/s10/b/4], substituted “5” for “6”.
+    Subsec. (b)(3)(C). [Pub. L. 104–304][/us/pl/104/304], § 10(b)(4), substituted “5” for “6”.
 
-    Subsec. (b)(4)(B). [Pub. L. 104–304, § 10(b)(5)][/us/pl/104/304/s10/b/5], inserted at end “At least 1 of the individuals selected for each committee under paragraph (3)(B) shall have education, background, or experience in risk assessment and cost-benefit analysis. The Secretary shall consult with the national organizations representing the owners and operators of pipeline facilities before selecting individuals under paragraph (3)(B).”
+    Subsec. (b)(4)(B). [Pub. L. 104–304][/us/pl/104/304], § 10(b)(5), inserted at end “At least 1 of the individuals selected for each committee under paragraph (3)(B) shall have education, background, or experience in risk assessment and cost-benefit analysis. The Secretary shall consult with the national organizations representing the owners and operators of pipeline facilities before selecting individuals under paragraph (3)(B).”
 
-    Subsec. (b)(4)(C). [Pub. L. 104–304, § 10(b)(6)][/us/pl/104/304/s10/b/6], inserted after first sentence “At least 1 of the individuals selected for each committee under paragraph (3)(C) shall have education, background, or experience in risk assessment and cost-benefit analysis.”
+    Subsec. (b)(4)(C). [Pub. L. 104–304][/us/pl/104/304], § 10(b)(6), inserted after first sentence “At least 1 of the individuals selected for each committee under paragraph (3)(C) shall have education, background, or experience in risk assessment and cost-benefit analysis.”
 
-    Subsec. (c)(1)(A). [Pub. L. 104–304, § 10(c)(1)][/us/pl/104/304/s10/c/1], inserted before semicolon “including the risk assessment information and other analyses supporting each proposed standard”.
+    Subsec. (c)(1)(A). [Pub. L. 104–304][/us/pl/104/304], § 10(c)(1), inserted before semicolon “including the risk assessment information and other analyses supporting each proposed standard”.
 
-    Subsec. (c)(1)(B). [Pub. L. 104–304, § 10(c)(2)][/us/pl/104/304/s10/c/2], inserted before period at end “including the risk assessment information and other analyses supporting each proposed standard”.
+    Subsec. (c)(1)(B). [Pub. L. 104–304][/us/pl/104/304], § 10(c)(2), inserted before period at end “including the risk assessment information and other analyses supporting each proposed standard”.
 
-    Subsec. (c)(2). [Pub. L. 104–304, § 10(c)(3)][/us/pl/104/304/s10/c/3]–(6), inserted “and supporting analyses” after “receiving the proposed standard”, “and submit to the Secretary” after “prepare”, “cost-effectiveness,” after “reasonableness,”, “and include in the report recommended actions” after “practicability of the proposed standard”, and “any recommended actions and” after “including”.
+    Subsec. (c)(2). [Pub. L. 104–304][/us/pl/104/304], § 10(c)(3)–(6), inserted “and supporting analyses” after “receiving the proposed standard”, “and submit to the Secretary” after “prepare”, “cost-effectiveness,” after “reasonableness,”, “and include in the report recommended actions” after “practicability of the proposed standard”, and “any recommended actions and” after “including”.
 
-    Subsec. (e). [Pub. L. 104–304, § 10(d)][/us/pl/104/304/s10/d], substituted “up to 4 times” for “twice”.
+    Subsec. (e). [Pub. L. 104–304][/us/pl/104/304], § 10(d), substituted “up to 4 times” for “twice”.
 
-    Subsec. (f). [Pub. L. 104–304, § 10(e)][/us/pl/104/304/s10/e], substituted “Expenses” for “Pay and Expenses” in heading, struck out “The Secretary may establish the pay for each member of a committee for each day (including travel time) when performing duties of the committee. However, a member may not be paid more than the daily equivalent of the maximum annual rate of basic pay payable under [section 5376 of title 5][/us/usc/t5/s5376].” after heading, and inserted “of a committee under this section” after “A member”.
+    Subsec. (f). [Pub. L. 104–304][/us/pl/104/304], § 10(e), substituted “Expenses” for “Pay and Expenses” in heading, struck out “The Secretary may establish the pay for each member of a committee for each day (including travel time) when performing duties of the committee. However, a member may not be paid more than the daily equivalent of the maximum annual rate of basic pay payable under [section 5376 of title 5][/us/usc/t5/s5376].” after heading, and inserted “of a committee under this section” after “A member”.
 
     1995—Subsec. (b)(4)(A). [Pub. L. 104–88][/us/pl/104/88] struck out “(referred to in [section 10344(f) of this title][/us/usc/t49/s10344/f])” after “commissions”.
 
@@ -411,13 +411,13 @@ In subsection (f), the words “The Secretary may establish the pay” are subst
 ----------
 
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1319
-[/us/pl/104/88/s308/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs308%2Fm
+[/us/pl/104/88/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtIII
 [/us/stat/109/948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F948
-[/us/pl/104/304/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304%2Fs10
+[/us/pl/104/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304
 [/us/stat/110/3801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3801
-[/us/pl/107/355/s20/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355%2Fs20%2Fb
+[/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355
 [/us/stat/116/3010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3010
 [/us/usc/t49/s10344/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs10344%2Ff
 [/us/usc/t5/s5376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5376
@@ -427,17 +427,17 @@ In subsection (f), the words “The Secretary may establish the pay” are subst
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
 [/us/pl/104/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304
 [/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355
-[/us/pl/104/304/s10/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304%2Fs10%2Fa
-[/us/pl/104/304/s10/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304%2Fs10%2Fb%2F1
-[/us/pl/104/304/s10/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304%2Fs10%2Fb%2F3
-[/us/pl/104/304/s10/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304%2Fs10%2Fb%2F4
-[/us/pl/104/304/s10/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304%2Fs10%2Fb%2F5
-[/us/pl/104/304/s10/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304%2Fs10%2Fb%2F6
-[/us/pl/104/304/s10/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304%2Fs10%2Fc%2F1
-[/us/pl/104/304/s10/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304%2Fs10%2Fc%2F2
-[/us/pl/104/304/s10/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304%2Fs10%2Fc%2F3
-[/us/pl/104/304/s10/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304%2Fs10%2Fd
-[/us/pl/104/304/s10/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304%2Fs10%2Fe
+[/us/pl/104/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304
+[/us/pl/104/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304
+[/us/pl/104/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304
+[/us/pl/104/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304
+[/us/pl/104/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304
+[/us/pl/104/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304
+[/us/pl/104/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304
+[/us/pl/104/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304
+[/us/pl/104/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304
+[/us/pl/104/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304
+[/us/pl/104/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304
 [/us/usc/t5/s5376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5376
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/usc/t49/s10344/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs10344%2Ff

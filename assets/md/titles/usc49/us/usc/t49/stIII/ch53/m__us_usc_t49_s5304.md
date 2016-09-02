@@ -431,7 +431,7 @@
 
         If a State chooses not to establish or designate a regional transportation planning organization, the State shall consult with affected nonmetropolitan local officials to determine projects that may be of regional significance.
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 793][/us/stat/108/793]; [Pub. L. 105–178, title III, § 3005][/us/pl/105/178/s3005], June 9, 1998, [112 Stat. 345][/us/stat/112/345]; [Pub. L. 105–206, title IX, § 9009(c)(2)][/us/pl/105/206/s9009/c/2], July 22, 1998, [112 Stat. 854][/us/stat/112/854]; [Pub. L. 109–59, title III, § 3006(a)][/us/pl/109/59/s3006/a], Aug. 10, 2005, [119 Stat. 1559][/us/stat/119/1559]; [Pub. L. 112–141, div. B, § 20006][/us/pl/112/141/s20006], July 6, 2012, [126 Stat. 643][/us/stat/126/643]; [Pub. L. 114–94, div. A, title III, § 3003(b)][/us/pl/114/94/s3003/b], Dec. 4, 2015, [129 Stat. 1449][/us/stat/129/1449].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(d), July 5, 1994, [108 Stat. 793][/us/stat/108/793]; [Pub. L. 105–178, title III][/us/pl/105/178/tIII], § 3005, June 9, 1998, [112 Stat. 345][/us/stat/112/345]; [Pub. L. 105–206, title IX][/us/pl/105/206/tIX], § 9009(c)(2), July 22, 1998, [112 Stat. 854][/us/stat/112/854]; [Pub. L. 109–59, title III][/us/pl/109/59/tIII], § 3006(a), Aug. 10, 2005, [119 Stat. 1559][/us/stat/119/1559]; [Pub. L. 112–141, div. B][/us/pl/112/141/dB], § 20006, July 6, 2012, [126 Stat. 643][/us/stat/126/643]; [Pub. L. 114–94, div. A, title III][/us/pl/114/94/dA/tIII], § 3003(b), Dec. 4, 2015, [129 Stat. 1449][/us/stat/129/1449].)
 
 <table>
 
@@ -551,41 +551,41 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 8(h); added Nov. 6, 1978, Pub
 
  __Amendments__ 
 
-    2015—Subsec. (a)(2). [Pub. L. 114–94, § 3003(b)(1)][/us/pl/114/94/s3003/b/1], substituted “, bicycle transportation facilities, and intermodal facilities that support intercity transportation, including intercity buses and intercity bus facilities and commuter vanpool providers” for “and bicycle transportation facilities”.
+    2015—Subsec. (a)(2). [Pub. L. 114–94][/us/pl/114/94], § 3003(b)(1), substituted “, bicycle transportation facilities, and intermodal facilities that support intercity transportation, including intercity buses and intercity bus facilities and commuter vanpool providers” for “and bicycle transportation facilities”.
 
-    Subsec. (d)(1)(I). [Pub. L. 114–94, § 3003(b)(2)(A)][/us/pl/114/94/s3003/b/2/A], added subpar. (I).
+    Subsec. (d)(1)(I). [Pub. L. 114–94][/us/pl/114/94], § 3003(b)(2)(A), added subpar. (I).
 
-    Subsec. (d)(2)(B)(ii). [Pub. L. 114–94, § 3003(b)(2)(B)(i)][/us/pl/114/94/s3003/b/2/B/i], struck out “urbanized” after “In”.
+    Subsec. (d)(2)(B)(ii). [Pub. L. 114–94][/us/pl/114/94], § 3003(b)(2)(B)(i), struck out “urbanized” after “In”.
 
-    Subsec. (d)(2)(C). [Pub. L. 114–94, § 3003(b)(2)(B)(ii)][/us/pl/114/94/s3003/b/2/B/ii], struck out “urbanized” after “public transportation in”.
+    Subsec. (d)(2)(C). [Pub. L. 114–94][/us/pl/114/94], § 3003(b)(2)(B)(ii), struck out “urbanized” after “public transportation in”.
 
-    Subsec. (f)(3)(A)(ii). [Pub. L. 114–94, § 3003(b)(3)][/us/pl/114/94/s3003/b/3], inserted “public ports,” before “freight shippers,” and “(including intercity bus operators, employer-based commuting programs, such as a carpool program, vanpool program, transit benefit program, parking cash-out program, shuttle program, or telework program)” after “private providers of transportation”.
+    Subsec. (f)(3)(A)(ii). [Pub. L. 114–94][/us/pl/114/94], § 3003(b)(3), inserted “public ports,” before “freight shippers,” and “(including intercity bus operators, employer-based commuting programs, such as a carpool program, vanpool program, transit benefit program, parking cash-out program, shuttle program, or telework program)” after “private providers of transportation”.
 
     2012—[Pub. L. 112–141][/us/pl/112/141] amended section generally. Prior to amendment, section related to statewide transportation planning and consisted of subsecs. (a) to (j).
 
     2005—[Pub. L. 109–59][/us/pl/109/59] amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) to (e) relating to development and updating of a transportation improvement program, contents of program, selection of projects, notice and an opportunity to comment on proposed programs, and conformance of review requirements under the National Environmental Policy Act of 1969.
 
-    1998—Subsec. (a). [Pub. L. 105–178, § 3005(d)(1)][/us/pl/105/178/s3005/d/1], as added by [Pub. L. 105–206, § 9009(c)(2)][/us/pl/105/206/s9009/c/2], designated existing provisions as par. (1), inserted heading, and added par. (2).
+    1998—Subsec. (a). [Pub. L. 105–178][/us/pl/105/178], § 3005(d)(1), as added by [Pub. L. 105–206][/us/pl/105/206], § 9009(c)(2), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
-    [Pub. L. 105–178, § 3005(a)][/us/pl/105/178/s3005/a], in second sentence, substituted “the metropolitan planning organization, in cooperation with the chief executive officer of the State and any affected mass transportation operator,” for “the organization” and inserted “other affected employee representatives, freight shippers, providers of freight transportation services,” after “transportation authority employees,” and “representatives of users of public transit,” after “private providers of transportation,”.
+    [Pub. L. 105–178][/us/pl/105/178], § 3005(a), in second sentence, substituted “the metropolitan planning organization, in cooperation with the chief executive officer of the State and any affected mass transportation operator,” for “the organization” and inserted “other affected employee representatives, freight shippers, providers of freight transportation services,” after “transportation authority employees,” and “representatives of users of public transit,” after “private providers of transportation,”.
 
-    Subsec. (b)(2)(B). [Pub. L. 105–178, § 3005(d)(2)(A)][/us/pl/105/178/s3005/d/2/A], as added by [Pub. L. 105–206, § 9009(c)(2)][/us/pl/105/206/s9009/c/2], struck out “and” at end.
+    Subsec. (b)(2)(B). [Pub. L. 105–178][/us/pl/105/178], § 3005(d)(2)(A), as added by [Pub. L. 105–206][/us/pl/105/206], § 9009(c)(2), struck out “and” at end.
 
-    Subsec. (b)(2)(C). [Pub. L. 105–178, § 3005(d)(2)(B)][/us/pl/105/178/s3005/d/2/B], as added by [Pub. L. 105–206, § 9009(c)(2)][/us/pl/105/206/s9009/c/2], which directed amendment of subpar. (C) by substituting “strategies; and” for “strategies which may include”, was executed by making the substitution for “strategies, which may include” to reflect the probable intent of Congress. Remaining provisions of subpar. (C) redesignated (D).
+    Subsec. (b)(2)(C). [Pub. L. 105–178][/us/pl/105/178], § 3005(d)(2)(B), as added by [Pub. L. 105–206][/us/pl/105/206], § 9009(c)(2), which directed amendment of subpar. (C) by substituting “strategies; and” for “strategies which may include”, was executed by making the substitution for “strategies, which may include” to reflect the probable intent of Congress. Remaining provisions of subpar. (C) redesignated (D).
 
-    [Pub. L. 105–178, § 3005(b)][/us/pl/105/178/s3005/b], added subpar. (C) and struck out former subpar. (C) which read as follows: “recommends innovative financing techniques, including value capture, tolls, and congestion pricing, to finance needed projects.”
+    [Pub. L. 105–178][/us/pl/105/178], § 3005(b), added subpar. (C) and struck out former subpar. (C) which read as follows: “recommends innovative financing techniques, including value capture, tolls, and congestion pricing, to finance needed projects.”
 
-    Subsec. (b)(2)(D). [Pub. L. 105–178, § 3005(d)(2)(B)][/us/pl/105/178/s3005/d/2/B], as added by [Pub. L. 105–206, § 9009(c)(2)][/us/pl/105/206/s9009/c/2], which directed amendment of subpar. (C) by substituting “strategies; and” followed by “(D) may include” for “strategies which may include”, was executed by making the substitutions for “strategies, which may include” to reflect the probable intent of Congress.
+    Subsec. (b)(2)(D). [Pub. L. 105–178][/us/pl/105/178], § 3005(d)(2)(B), as added by [Pub. L. 105–206][/us/pl/105/206], § 9009(c)(2), which directed amendment of subpar. (C) by substituting “strategies; and” followed by “(D) may include” for “strategies which may include”, was executed by making the substitutions for “strategies, which may include” to reflect the probable intent of Congress.
 
-    Subsec. (c)(1). [Pub. L. 105–178, § 3005(c)(1)][/us/pl/105/178/s3005/c/1], added par. (1) and struck out former par. (1) which read as follows: “Except as provided in [section 5305(d)(1) of this title][/us/usc/t49/s5305/d/1], the State, in cooperation with the metropolitan planning organization, shall select projects in a metropolitan area that involve United States Government participation. Selection shall comply with the transportation improvement program for the area.”
+    Subsec. (c)(1). [Pub. L. 105–178][/us/pl/105/178], § 3005(c)(1), added par. (1) and struck out former par. (1) which read as follows: “Except as provided in [section 5305(d)(1) of this title][/us/usc/t49/s5305/d/1], the State, in cooperation with the metropolitan planning organization, shall select projects in a metropolitan area that involve United States Government participation. Selection shall comply with the transportation improvement program for the area.”
 
-    Subsec. (c)(3). [Pub. L. 105–178, § 3005(c)(2)][/us/pl/105/178/s3005/c/2], added par. (3).
+    Subsec. (c)(3). [Pub. L. 105–178][/us/pl/105/178], § 3005(c)(2), added par. (3).
 
-    Subsec. (c)(4). [Pub. L. 105–178, § 3005(d)(3)][/us/pl/105/178/s3005/d/3], as added by [Pub. L. 105–206, § 9009(c)(2)][/us/pl/105/206/s9009/c/2], added par. (4) and struck out heading and text of former par. (4). Text read as follows: “Notwithstanding subsection (b)(2)(C), a State or metropolitan planning organization shall not be required to select any project from the illustrative list of additional projects included in the financial plan under subsection (b)(2)(C).”
+    Subsec. (c)(4). [Pub. L. 105–178][/us/pl/105/178], § 3005(d)(3), as added by [Pub. L. 105–206][/us/pl/105/206], § 9009(c)(2), added par. (4) and struck out heading and text of former par. (4). Text read as follows: “Notwithstanding subsection (b)(2)(C), a State or metropolitan planning organization shall not be required to select any project from the illustrative list of additional projects included in the financial plan under subsection (b)(2)(C).”
 
-    [Pub. L. 105–178, § 3005(c)(2)][/us/pl/105/178/s3005/c/2], added par. (4).
+    [Pub. L. 105–178][/us/pl/105/178], § 3005(c)(2), added par. (4).
 
-    Subsec. (c)(5), (6). [Pub. L. 105–178, § 3005(c)(2)][/us/pl/105/178/s3005/c/2], added pars. (5) and (6).
+    Subsec. (c)(5), (6). [Pub. L. 105–178][/us/pl/105/178], § 3005(c)(2), added pars. (5) and (6).
 
  __Effective Date of 2015 Amendment__ 
 
@@ -601,7 +601,7 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 8(h); added Nov. 6, 1978, Pub
 
  __Schedule for Implementation__ 
 
-    [Pub. L. 109–59, title III, § 3006(b)][/us/pl/109/59/s3006/b], Aug. 10, 2005, [119 Stat. 1565][/us/stat/119/1565], required the Secretary of Transportation to issue guidance on a schedule for implementation of the changes made to this section by [section 3006(a) of Pub. L. 109–59][/us/pl/109/59/s3006/a] and required State or metropolitan planning organization plan or program updates to reflect such changes beginning July 1, 2007.
+    [Pub. L. 109–59, title III][/us/pl/109/59/tIII], § 3006(b), Aug. 10, 2005, [119 Stat. 1565][/us/stat/119/1565], required the Secretary of Transportation to issue guidance on a schedule for implementation of the changes made to this section by [section 3006(a) of Pub. L. 109–59][/us/pl/109/59/s3006/a] and required State or metropolitan planning organization plan or program updates to reflect such changes beginning July 1, 2007.
 
 ----------
 
@@ -617,17 +617,17 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 8(h); added Nov. 6, 1978, Pub
 [/us/usc/t42/s7501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7501
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F793
-[/us/pl/105/178/s3005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs3005
+[/us/pl/105/178/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtIII
 [/us/stat/112/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F345
-[/us/pl/105/206/s9009/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs9009%2Fc%2F2
+[/us/pl/105/206/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIX
 [/us/stat/112/854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F854
-[/us/pl/109/59/s3006/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3006%2Fa
+[/us/pl/109/59/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIII
 [/us/stat/119/1559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1559
-[/us/pl/112/141/s20006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs20006
+[/us/pl/112/141/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdB
 [/us/stat/126/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F643
-[/us/pl/114/94/s3003/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3003%2Fb
+[/us/pl/114/94/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtIII
 [/us/stat/129/1449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1449
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
 [/us/stat/69/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F322
@@ -637,30 +637,30 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 8(h); added Nov. 6, 1978, Pub
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/pl/114/94/s3003/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3003%2Fb%2F1
-[/us/pl/114/94/s3003/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3003%2Fb%2F2%2FA
-[/us/pl/114/94/s3003/b/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3003%2Fb%2F2%2FB%2Fi
-[/us/pl/114/94/s3003/b/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3003%2Fb%2F2%2FB%2Fii
-[/us/pl/114/94/s3003/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3003%2Fb%2F3
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
-[/us/pl/105/178/s3005/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs3005%2Fd%2F1
-[/us/pl/105/206/s9009/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs9009%2Fc%2F2
-[/us/pl/105/178/s3005/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs3005%2Fa
-[/us/pl/105/178/s3005/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs3005%2Fd%2F2%2FA
-[/us/pl/105/206/s9009/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs9009%2Fc%2F2
-[/us/pl/105/178/s3005/d/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs3005%2Fd%2F2%2FB
-[/us/pl/105/206/s9009/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs9009%2Fc%2F2
-[/us/pl/105/178/s3005/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs3005%2Fb
-[/us/pl/105/178/s3005/d/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs3005%2Fd%2F2%2FB
-[/us/pl/105/206/s9009/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs9009%2Fc%2F2
-[/us/pl/105/178/s3005/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs3005%2Fc%2F1
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
 [/us/usc/t49/s5305/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5305%2Fd%2F1
-[/us/pl/105/178/s3005/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs3005%2Fc%2F2
-[/us/pl/105/178/s3005/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs3005%2Fd%2F3
-[/us/pl/105/206/s9009/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs9009%2Fc%2F2
-[/us/pl/105/178/s3005/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs3005%2Fc%2F2
-[/us/pl/105/178/s3005/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs3005%2Fc%2F2
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
@@ -674,7 +674,7 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 8(h); added Nov. 6, 1978, Pub
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
 [/us/pl/105/206/s9016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs9016
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
-[/us/pl/109/59/s3006/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3006%2Fb
+[/us/pl/109/59/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIII
 [/us/stat/119/1565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1565
 [/us/pl/109/59/s3006/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3006%2Fa
 

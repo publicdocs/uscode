@@ -31,7 +31,7 @@
 
     For 3 years after a project is completed, the Secretary and the Comptroller General may audit and inspect records of a recipient that the Secretary or Comptroller General decides may be related or pertinent to the financial assistance.
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 853][/us/stat/108/853].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(d), July 5, 1994, [108 Stat. 853][/us/stat/108/853].)
 
 <table>
 
@@ -106,7 +106,7 @@ Oct. 15, 1966, Pub. L. 89–670, 80 Stat. 931, § 4(i)(8); added Oct. 28, 1974
 ----------
 ----------
 
-[/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F853
 
 

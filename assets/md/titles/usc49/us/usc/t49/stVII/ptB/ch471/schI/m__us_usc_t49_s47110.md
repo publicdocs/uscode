@@ -145,7 +145,7 @@
 
         (2) within 180 days after such research is concluded, issue a final report on the use of avian radar systems in the national airspace system.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1264][/us/stat/108/1264]; [Pub. L. 103–305, title I, § 115][/us/pl/103/305/s115], Aug. 23, 1994, [108 Stat. 1579][/us/stat/108/1579]; [Pub. L. 103–429, § 6(64)][/us/pl/103/429/s6/64], Oct. 31, 1994, [108 Stat. 4385][/us/stat/108/4385]; [Pub. L. 104–264, title I, § 144][/us/pl/104/264/s144], Oct. 9, 1996, [110 Stat. 3222][/us/stat/110/3222]; [Pub. L. 106–181, title I, § 127][/us/pl/106/181/s127], Apr. 5, 2000, [114 Stat. 76][/us/stat/114/76]; [Pub. L. 107–71, title I, § 119(a)(2)][/us/pl/107/71/s119/a/2], Nov. 19, 2001, [115 Stat. 628][/us/stat/115/628]; [Pub. L. 108–176, title I][/us/pl/108/176], §§ 145, 149(b), 159(c), Dec. 12, 2003, [117 Stat. 2504][/us/stat/117/2504], 2505, 2511; [Pub. L. 109–115, div. A, title I, § 176(b)][/us/pl/109/115/s176/b], Nov. 30, 2005, [119 Stat. 2427][/us/stat/119/2427]; [Pub. L. 112–95, title I][/us/pl/112/95], §§ 111(c)(2)(A)(ii), 138, Feb. 14, 2012, [126 Stat. 18][/us/stat/126/18], 25.)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1264][/us/stat/108/1264]; [Pub. L. 103–305, title I][/us/pl/103/305/tI], § 115, Aug. 23, 1994, [108 Stat. 1579][/us/stat/108/1579]; [Pub. L. 103–429][/us/pl/103/429], § 6(64), Oct. 31, 1994, [108 Stat. 4385][/us/stat/108/4385]; [Pub. L. 104–264, title I][/us/pl/104/264/tI], § 144, Oct. 9, 1996, [110 Stat. 3222][/us/stat/110/3222]; [Pub. L. 106–181, title I][/us/pl/106/181/tI], § 127, Apr. 5, 2000, [114 Stat. 76][/us/stat/114/76]; [Pub. L. 107–71, title I][/us/pl/107/71/tI], § 119(a)(2), Nov. 19, 2001, [115 Stat. 628][/us/stat/115/628]; [Pub. L. 108–176, title I][/us/pl/108/176/tI], §§ 145, 149(b), 159(c), Dec. 12, 2003, [117 Stat. 2504][/us/stat/117/2504], 2505, 2511; [Pub. L. 109–115, div. A, title I][/us/pl/109/115/dA/tI], § 176(b), Nov. 30, 2005, [119 Stat. 2427][/us/stat/119/2427]; [Pub. L. 112–95, title I][/us/pl/112/95/tI], §§ 111(c)(2)(A)(ii), 138, Feb. 14, 2012, [126 Stat. 18][/us/stat/126/18], 25.)
 
 <table>
 
@@ -361,37 +361,37 @@ Sept. 3, 1982, Pub. L. 97–248, § 513(a) (2d sentence), as amended May 26, 1
 
  __Amendments__ 
 
-    2012—Subsec. (b)(2)(D). [Pub. L. 112–95, § 138(a)][/us/pl/112/95/s138/a], amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “if the cost is incurred after September 11, 2001, for a project described in section 47102(3)(J), 47102(3)(K), or 47102(3)(L) and shall not depend upon the date of execution of a grant agreement made under this subchapter;”.
+    2012—Subsec. (b)(2)(D). [Pub. L. 112–95][/us/pl/112/95], § 138(a), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “if the cost is incurred after September 11, 2001, for a project described in section 47102(3)(J), 47102(3)(K), or 47102(3)(L) and shall not depend upon the date of execution of a grant agreement made under this subchapter;”.
 
-    Subsec. (b)(7). [Pub. L. 112–95, § 138(b)][/us/pl/112/95/s138/b], added par. (7).
+    Subsec. (b)(7). [Pub. L. 112–95][/us/pl/112/95], § 138(b), added par. (7).
 
-    Subsec. (d). [Pub. L. 112–95, § 138(c)][/us/pl/112/95/s138/c], amended subsec. (d) generally. Prior to amendment, subsec. (d) related to terminal development costs.
+    Subsec. (d). [Pub. L. 112–95][/us/pl/112/95], § 138(c), amended subsec. (d) generally. Prior to amendment, subsec. (d) related to terminal development costs.
 
-    Subsec. (e)(5). [Pub. L. 112–95, § 111(c)(2)(A)(ii)][/us/pl/112/95/s111/c/2/A/ii], substituted “charge” for “fee”.
+    Subsec. (e)(5). [Pub. L. 112–95][/us/pl/112/95], § 111(c)(2)(A)(ii), substituted “charge” for “fee”.
 
-    Subsec. (h). [Pub. L. 112–95, § 138(d)][/us/pl/112/95/s138/d], inserted “construction” before “costs of revenue producing” and struck out “, including fuel farms and hangars,” before “are allowable”.
+    Subsec. (h). [Pub. L. 112–95][/us/pl/112/95], § 138(d), inserted “construction” before “costs of revenue producing” and struck out “, including fuel farms and hangars,” before “are allowable”.
 
-    Subsec. (i). [Pub. L. 112–95, § 138(e)][/us/pl/112/95/s138/e], added subsec. (i).
+    Subsec. (i). [Pub. L. 112–95][/us/pl/112/95], § 138(e), added subsec. (i).
 
     2005—Subsec. (d)(2)(A). [Pub. L. 109–115][/us/pl/109/115], which directed amendment of section 47110(d)(2)(A), without specifying the title to be amended, by substituting “(A) except as provided in section 47108(e)(3), the” for “(A) the”, was executed to this section, to reflect the probable intent of Congress.
 
-    2003—Subsec. (b)(1). [Pub. L. 108–176, § 145][/us/pl/108/176/s145], inserted “and any cost of moving a Federal facility impeding the project if the rebuilt facility is of an equivalent size and type” before semicolon at end.
+    2003—Subsec. (b)(1). [Pub. L. 108–176][/us/pl/108/176], § 145, inserted “and any cost of moving a Federal facility impeding the project if the rebuilt facility is of an equivalent size and type” before semicolon at end.
 
-    Subsec. (b)(2)(C). [Pub. L. 108–176, § 149(b)(1)][/us/pl/108/176/s149/b/1], substituted “or section 47114(d)(3)(A)” for “of this title” in introductory provisions.
+    Subsec. (b)(2)(C). [Pub. L. 108–176][/us/pl/108/176], § 149(b)(1), substituted “or section 47114(d)(3)(A)” for “of this title” in introductory provisions.
 
-    Subsec. (b)(6). [Pub. L. 108–176, § 159(c)][/us/pl/108/176/s159/c], added par. (6).
+    Subsec. (b)(6). [Pub. L. 108–176][/us/pl/108/176], § 159(c), added par. (6).
 
-    Subsec. (g). [Pub. L. 108–176, § 149(b)(2)][/us/pl/108/176/s149/b/2], inserted “or section 47114(d)(3)(A)” after “of section 47114(c)” and substituted “of the project” for “of project”.
+    Subsec. (g). [Pub. L. 108–176][/us/pl/108/176], § 149(b)(2), inserted “or section 47114(d)(3)(A)” after “of section 47114(c)” and substituted “of the project” for “of project”.
 
-    Subsec. (h). [Pub. L. 108–176, § 149(b)(3)][/us/pl/108/176/s149/b/3], added subsec. (h).
+    Subsec. (h). [Pub. L. 108–176][/us/pl/108/176], § 149(b)(3), added subsec. (h).
 
     2001—Subsec. (b)(2)(D). [Pub. L. 107–71][/us/pl/107/71] added subpar. (D).
 
-    2000—Subsec. (e)(2)(C). [Pub. L. 106–181, § 127(1)][/us/pl/106/181/s127/1], added subpar. (C) and struck out former subpar. (C) which read as follows: “the Secretary decides will enhance system-wide airport capacity significantly and meets the criteria of [section 47115(d) of this title][/us/usc/t49/s47115/d].”
+    2000—Subsec. (e)(2)(C). [Pub. L. 106–181][/us/pl/106/181], § 127(1), added subpar. (C) and struck out former subpar. (C) which read as follows: “the Secretary decides will enhance system-wide airport capacity significantly and meets the criteria of [section 47115(d) of this title][/us/usc/t49/s47115/d].”
 
-    Subsec. (e)(5). [Pub. L. 106–181, § 127(2)][/us/pl/106/181/s127/2], added par. (5) and struck out former par. (5) which read as follows: “A letter of intent issued under paragraph (1) of this subsection may not condition the obligation of amounts on the imposition of a passenger facility fee.”
+    Subsec. (e)(5). [Pub. L. 106–181][/us/pl/106/181], § 127(2), added par. (5) and struck out former par. (5) which read as follows: “A letter of intent issued under paragraph (1) of this subsection may not condition the obligation of amounts on the imposition of a passenger facility fee.”
 
-    1996—Subsec. (b)(2)(C). [Pub. L. 104–264, § 144(a)][/us/pl/104/264/s144/a], amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “if the Government’s share is paid only with amounts apportioned under section 47114(c)(1)(A) and (2) of this title and if the cost is incurred—
+    1996—Subsec. (b)(2)(C). [Pub. L. 104–264][/us/pl/104/264], § 144(a), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “if the Government’s share is paid only with amounts apportioned under section 47114(c)(1)(A) and (2) of this title and if the cost is incurred—
 
     “(i) during the fiscal year ending September 30, 1994;
 
@@ -399,7 +399,7 @@ Sept. 3, 1982, Pub. L. 97–248, § 513(a) (2d sentence), as amended May 26, 1
 
     “(iii) for work related to a project for which a grant agreement previously was executed during the fiscal year ending September 30, 1994;”.
 
-    Subsec. (g). [Pub. L. 104–264, § 144(b)][/us/pl/104/264/s144/b], added subsec. (g).
+    Subsec. (g). [Pub. L. 104–264][/us/pl/104/264], § 144(b), added subsec. (g).
 
     1994—Subsec. (b)(2). [Pub. L. 103–429][/us/pl/103/429] amended par. (2) generally. Prior to amendment, par. (2) read as follows: “if the cost is incurred—
 
@@ -423,7 +423,7 @@ Sept. 3, 1982, Pub. L. 97–248, § 513(a) (2d sentence), as amended May 26, 1
 
  __Letters of Intent for Airport Security Improvement Projects__ 
 
-[Pub. L. 108–7, div. I, title III, § 367][/us/pl/108/7/s367], Feb. 20, 2003, [117 Stat. 423][/us/stat/117/423], provided that:
+[Pub. L. 108–7, div. I, title III][/us/pl/108/7/dI/tIII], § 367, Feb. 20, 2003, [117 Stat. 423][/us/stat/117/423], provided that:
 
 >     “(a) The Under Secretary of Transportation for Security may issue a letter of intent to an airport committing to obligate from future budget authority an amount, not more than the Federal Government’s share of the project’s cost, for an airport security improvement project (including interest costs and costs of formulating the project) at the airport. The letter shall establish a schedule under which the Under Secretary will reimburse the airport for the Government’s share of the project’s costs, as amounts become available, if the airport, after the Under Secretary issues the letter, carries out the project without receiving amounts under Chapter 471 of title 49 \[United States Code\].
 
@@ -449,19 +449,19 @@ Sept. 3, 1982, Pub. L. 97–248, § 513(a) (2d sentence), as amended May 26, 1
 
  __Letters of Intent; Duration of Authority and Approval by Congress__ 
 
-[Pub. L. 102–388, title III, § 320][/us/pl/102/388/s320], Oct. 6, 1992, [106 Stat. 1546][/us/stat/106/1546], provided that: 
+[Pub. L. 102–388, title III][/us/pl/102/388/tIII], § 320, Oct. 6, 1992, [106 Stat. 1546][/us/stat/106/1546], provided that: 
 
-> “The authority conferred by section 513(d) of the Airport and Airway Improvement Act of 1982, as amended \[see subsec. (e) of this section\], to issue letters of intent shall remain in effect subsequent to September 30, 1992. Letters of intent may be issued under such subsection to applicants determined to be qualified under such Act \[substantially repealed by [Pub. L. 103–272, § 7(b)][/us/pl/103/272/s7/b], July 5, 1994, [108 Stat. 1379][/us/stat/108/1379], and reenacted by first section thereof as this subchapter\]: Provided, That, notwithstanding any other provision of law, all such letters of intent in excess of $10,000,000 shall be submitted for approval to the Committees on Appropriations of the Senate and the House of Representatives; the Committee on Commerce, Science, and Transportation of the Senate; and the Committee on Public Works and Transportation \[now Committee on Transportation and Infrastructure\] of the House of Representatives.”
+> “The authority conferred by section 513(d) of the Airport and Airway Improvement Act of 1982, as amended \[see subsec. (e) of this section\], to issue letters of intent shall remain in effect subsequent to September 30, 1992. Letters of intent may be issued under such subsection to applicants determined to be qualified under such Act \[substantially repealed by [Pub. L. 103–272][/us/pl/103/272], § 7(b), July 5, 1994, [108 Stat. 1379][/us/stat/108/1379], and reenacted by first section thereof as this subchapter\]: Provided, That, notwithstanding any other provision of law, all such letters of intent in excess of $10,000,000 shall be submitted for approval to the Committees on Appropriations of the Senate and the House of Representatives; the Committee on Commerce, Science, and Transportation of the Senate; and the Committee on Public Works and Transportation \[now Committee on Transportation and Infrastructure\] of the House of Representatives.”
 
  Similar provisions were contained in the following prior appropriation acts:
 
-    [Pub. L. 102–143, title III, § 320][/us/pl/102/143/s320], Oct. 28, 1991, [105 Stat. 942][/us/stat/105/942].
+    [Pub. L. 102–143, title III][/us/pl/102/143/tIII], § 320, Oct. 28, 1991, [105 Stat. 942][/us/stat/105/942].
 
-    [Pub. L. 101–516, title III, § 320][/us/pl/101/516/s320], Nov. 5, 1990, [104 Stat. 2181][/us/stat/104/2181].
+    [Pub. L. 101–516, title III][/us/pl/101/516/tIII], § 320, Nov. 5, 1990, [104 Stat. 2181][/us/stat/104/2181].
 
     [Pub. L. 101–164][/us/pl/101/164] title III, § 326, Nov. 21, 1989, [103 Stat. 1096][/us/stat/103/1096].
 
-    [Pub. L. 100–457, title III, § 334][/us/pl/100/457/s334], Sept. 30, 1988, [102 Stat. 2153][/us/stat/102/2153].
+    [Pub. L. 100–457, title III][/us/pl/100/457/tIII], § 334, Sept. 30, 1988, [102 Stat. 2153][/us/stat/102/2153].
 
 ----------
 
@@ -477,43 +477,43 @@ Sept. 3, 1982, Pub. L. 97–248, § 513(a) (2d sentence), as amended May 26, 1
 [/us/usc/t49/s48103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs48103
 [/us/usc/t49/s47118/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs47118%2Ff
 [/us/usc/t49/s47115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs47115
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1264
-[/us/pl/103/305/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2Fs115
+[/us/pl/103/305/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2FtI
 [/us/stat/108/1579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1579
-[/us/pl/103/429/s6/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F64
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/stat/108/4385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4385
-[/us/pl/104/264/s144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs144
+[/us/pl/104/264/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2FtI
 [/us/stat/110/3222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3222
-[/us/pl/106/181/s127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs127
+[/us/pl/106/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtI
 [/us/stat/114/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F76
-[/us/pl/107/71/s119/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs119%2Fa%2F2
+[/us/pl/107/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2FtI
 [/us/stat/115/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F628
-[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
+[/us/pl/108/176/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtI
 [/us/stat/117/2504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2504
-[/us/pl/109/115/s176/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F115%2Fs176%2Fb
+[/us/pl/109/115/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F115%2FdA%2FtI
 [/us/stat/119/2427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2427
-[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtI
 [/us/stat/126/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F18
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
-[/us/pl/112/95/s138/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs138%2Fa
-[/us/pl/112/95/s138/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs138%2Fb
-[/us/pl/112/95/s138/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs138%2Fc
-[/us/pl/112/95/s111/c/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs111%2Fc%2F2%2FA%2Fii
-[/us/pl/112/95/s138/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs138%2Fd
-[/us/pl/112/95/s138/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs138%2Fe
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
 [/us/pl/109/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F115
-[/us/pl/108/176/s145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs145
-[/us/pl/108/176/s149/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs149%2Fb%2F1
-[/us/pl/108/176/s159/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs159%2Fc
-[/us/pl/108/176/s149/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs149%2Fb%2F2
-[/us/pl/108/176/s149/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs149%2Fb%2F3
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
 [/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
-[/us/pl/106/181/s127/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs127%2F1
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/usc/t49/s47115/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs47115%2Fd
-[/us/pl/106/181/s127/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs127%2F2
-[/us/pl/104/264/s144/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs144%2Fa
-[/us/pl/104/264/s144/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs144%2Fb
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
+[/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/pl/103/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305
 [/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
@@ -525,20 +525,20 @@ Sept. 3, 1982, Pub. L. 97–248, § 513(a) (2d sentence), as amended May 26, 1
 [/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
 [/us/pl/104/264/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106
-[/us/pl/108/7/s367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs367
+[/us/pl/108/7/dI/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdI%2FtIII
 [/us/stat/117/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F423
 [/us/usc/t31/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1501
-[/us/pl/102/388/s320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F388%2Fs320
+[/us/pl/102/388/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F388%2FtIII
 [/us/stat/106/1546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1546
-[/us/pl/103/272/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs7%2Fb
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1379
-[/us/pl/102/143/s320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F143%2Fs320
+[/us/pl/102/143/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F143%2FtIII
 [/us/stat/105/942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F942
-[/us/pl/101/516/s320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F516%2Fs320
+[/us/pl/101/516/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F516%2FtIII
 [/us/stat/104/2181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2181
 [/us/pl/101/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F164
 [/us/stat/103/1096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1096
-[/us/pl/100/457/s334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F457%2Fs334
+[/us/pl/100/457/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F457%2FtIII
 [/us/stat/102/2153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2153
 
 

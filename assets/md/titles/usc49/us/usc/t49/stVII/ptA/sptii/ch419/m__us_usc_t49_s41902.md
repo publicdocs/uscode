@@ -41,7 +41,7 @@
 
     A schedule designated or required to be established for the transportation of mail under subsection (c) of this section may be changed only after 10 days’ notice of the change is filed as provided in subsection (b)(2) of this section. The Postal Service may disapprove a proposed change in a schedule or amend or modify the schedule or proposed change.
 
-([Pub. L. 103–272][/us/pl/103/272], §§ 1(e), 4(k)(1), (3), July 5, 1994, [108 Stat. 1153][/us/stat/108/1153], 1370; [Pub. L. 103–429, § 7(a)(3)(D)][/us/pl/103/429/s7/a/3/D], Oct. 31, 1994, [108 Stat. 4389][/us/stat/108/4389]; [Pub. L. 106–31, title VI, § 6003][/us/pl/106/31/s6003], May 21, 1999, [113 Stat. 113][/us/stat/113/113]; [Pub. L. 110–405, § 2(b)(3)][/us/pl/110/405/s2/b/3], Oct. 13, 2008, [122 Stat. 4289][/us/stat/122/4289].)
+([Pub. L. 103–272][/us/pl/103/272], §§ 1(e), 4(k)(1), (3), July 5, 1994, [108 Stat. 1153][/us/stat/108/1153], 1370; [Pub. L. 103–429][/us/pl/103/429], § 7(a)(3)(D), Oct. 31, 1994, [108 Stat. 4389][/us/stat/108/4389]; [Pub. L. 106–31, title VI][/us/pl/106/31/tVI], § 6003, May 21, 1999, [113 Stat. 113][/us/stat/113/113]; [Pub. L. 110–405][/us/pl/110/405], § 2(b)(3), Oct. 13, 2008, [122 Stat. 4289][/us/stat/122/4289].)
 
 <table>
 
@@ -307,13 +307,13 @@ Section 4(k) reflects amendments to the restatement required by section 1601(a)(
 
  __References in Text__ 
 
-    [Section 41906 of this title][/us/usc/t49/s41906], referred to in subsec. (a), was redesignated section 41905 by [Pub. L. 110–405, § 2(b)(7)(B)][/us/pl/110/405/s2/b/7/B], Oct. 13, 2008, [122 Stat. 4289][/us/stat/122/4289].
+    [Section 41906 of this title][/us/usc/t49/s41906], referred to in subsec. (a), was redesignated section 41905 by [Pub. L. 110–405][/us/pl/110/405], § 2(b)(7)(B), Oct. 13, 2008, [122 Stat. 4289][/us/stat/122/4289].
 
  __Amendments__ 
 
-    2008—Subsec. (a). [Pub. L. 110–405, § 2(b)(3)(A)][/us/pl/110/405/s2/b/3/A], struck out “in foreign air transportation or” after “aircraft”.
+    2008—Subsec. (a). [Pub. L. 110–405][/us/pl/110/405], § 2(b)(3)(A), struck out “in foreign air transportation or” after “aircraft”.
 
-    Subsec. (b). [Pub. L. 110–405, § 2(b)(3)(B)][/us/pl/110/405/s2/b/3/B], added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “Every air carrier shall file with the Secretary of Transportation and the United States Postal Service a statement showing—
+    Subsec. (b). [Pub. L. 110–405][/us/pl/110/405], § 2(b)(3)(B), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “Every air carrier shall file with the Secretary of Transportation and the United States Postal Service a statement showing—
 
     “(1) the places between which the carrier is authorized to provide foreign air transportation;
 
@@ -323,19 +323,19 @@ Section 4(k) reflects amendments to the restatement required by section 1601(a)(
 
     “(4) for each schedule, the places served by the carrier and the time of arrival at, and departure from, each place.”
 
-    Subsecs. (c)(1), (d). [Pub. L. 110–405, § 2(b)(3)(C)][/us/pl/110/405/s2/b/3/C], substituted “subsection (b)(2)” for “subsection (b)(3)”.
+    Subsecs. (c)(1), (d). [Pub. L. 110–405][/us/pl/110/405], § 2(b)(3)(C), substituted “subsection (b)(2)” for “subsection (b)(3)”.
 
-    Subsecs. (e), (f). [Pub. L. 110–405, § 2(b)(3)(D)][/us/pl/110/405/s2/b/3/D], struck out subsecs. (e) and (f) which read as follows:
+    Subsecs. (e), (f). [Pub. L. 110–405][/us/pl/110/405], § 2(b)(3)(D), struck out subsecs. (e) and (f) which read as follows:
 
     “(e) Orders.—An order of the Postal Service under this section may become effective only after 10 days after the order is issued. A person adversely affected by the order may appeal the order to the Secretary before the end of the 10-day period under regulations the Secretary prescribes. If the public convenience and necessity require, the Secretary may amend, modify, suspend, or cancel the order. Pending a decision about the order, the Secretary may postpone the effective date of the order.
 
     “(f) Proceedings Preferences.—The Secretary shall give preference to a proceeding under this section over all other proceedings before the Secretary under this subpart.”
 
-    1999—Subsecs. (a), (b)(2) to (4). [Pub. L. 106–31][/us/pl/106/31] repealed [Pub. L. 103–272, § 4(k)][/us/pl/103/272/s4/k]. See 1994 Amendment notes below.
+    1999—Subsecs. (a), (b)(2) to (4). [Pub. L. 106–31][/us/pl/106/31] repealed [Pub. L. 103–272][/us/pl/103/272], § 4(k). See 1994 Amendment notes below.
 
-    1994—Subsec. (a). [Pub. L. 103–272, § 4(k)(1)][/us/pl/103/272/s4/k/1], which directed the amendment of this section by substituting “foreign air transportation” for “foreign air transportation or between places in Alaska”, effective Jan. 1, 1999, was repealed by [Pub. L. 106–31, § 6003][/us/pl/106/31/s6003], effective Dec. 31, 1998.
+    1994—Subsec. (a). [Pub. L. 103–272][/us/pl/103/272], § 4(k)(1), which directed the amendment of this section by substituting “foreign air transportation” for “foreign air transportation or between places in Alaska”, effective Jan. 1, 1999, was repealed by [Pub. L. 106–31][/us/pl/106/31], § 6003, effective Dec. 31, 1998.
 
-    Subsec. (b)(2) to (4). [Pub. L. 103–272, § 4(k)(3)][/us/pl/103/272/s4/k/3], as amended by [Pub. L. 103–429][/us/pl/103/429], which directed the amendment of subsec. (b) by redesignating par. (3) as (2) and substituting “clause (1)” for “clauses (1) and (2)”, striking out former par. (2) which read as follows: “the places between which the carrier is authorized to transport mail in Alaska;”, and redesignating par. (4) as (3), effective Jan. 1, 1999, was repealed by [Pub. L. 106–31, § 6003][/us/pl/106/31/s6003], effective Dec. 31, 1998.
+    Subsec. (b)(2) to (4). [Pub. L. 103–272][/us/pl/103/272], § 4(k)(3), as amended by [Pub. L. 103–429][/us/pl/103/429], which directed the amendment of subsec. (b) by redesignating par. (3) as (2) and substituting “clause (1)” for “clauses (1) and (2)”, striking out former par. (2) which read as follows: “the places between which the carrier is authorized to transport mail in Alaska;”, and redesignating par. (4) as (3), effective Jan. 1, 1999, was repealed by [Pub. L. 106–31][/us/pl/106/31], § 6003, effective Dec. 31, 1998.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -343,11 +343,11 @@ Section 4(k) reflects amendments to the restatement required by section 1601(a)(
 
  __Effective Date of 1999 Amendment__ 
 
-    [Pub. L. 106–31, title VI, § 6003][/us/pl/106/31/s6003], May 21, 1999, [113 Stat. 113][/us/stat/113/113], provided that the amendment made by section 6003 is effective Dec. 31, 1998.
+    [Pub. L. 106–31, title VI][/us/pl/106/31/tVI], § 6003, May 21, 1999, [113 Stat. 113][/us/stat/113/113], provided that the amendment made by section 6003 is effective Dec. 31, 1998.
 
  __Effective Date of 1994 Amendment__ 
 
-    [Pub. L. 103–429, § 7(a)][/us/pl/103/429/s7/a], Oct. 31, 1994, [108 Stat. 4388][/us/stat/108/4388], provided in part that the amendment made by that section is effective July 5, 1994.
+    [Pub. L. 103–429][/us/pl/103/429], § 7(a), Oct. 31, 1994, [108 Stat. 4388][/us/stat/108/4388], provided in part that the amendment made by that section is effective July 5, 1994.
 
 ----------
 
@@ -359,11 +359,11 @@ Section 4(k) reflects amendments to the restatement required by section 1601(a)(
 [/us/usc/t39/s5402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs5402
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1153
-[/us/pl/103/429/s7/a/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs7%2Fa%2F3%2FD
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/stat/108/4389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4389
-[/us/pl/106/31/s6003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31%2Fs6003
+[/us/pl/106/31/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31%2FtVI
 [/us/stat/113/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F113
-[/us/pl/110/405/s2/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F405%2Fs2%2Fb%2F3
+[/us/pl/110/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F405
 [/us/stat/122/4289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4289
 [/us/pl/85/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F726
 [/us/stat/72/754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F754
@@ -380,25 +380,25 @@ Section 4(k) reflects amendments to the restatement required by section 1601(a)(
 [/us/pl/98/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F443
 [/us/stat/98/1704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1704
 [/us/usc/t49/s41906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs41906
-[/us/pl/110/405/s2/b/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F405%2Fs2%2Fb%2F7%2FB
+[/us/pl/110/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F405
 [/us/stat/122/4289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4289
-[/us/pl/110/405/s2/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F405%2Fs2%2Fb%2F3%2FA
-[/us/pl/110/405/s2/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F405%2Fs2%2Fb%2F3%2FB
-[/us/pl/110/405/s2/b/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F405%2Fs2%2Fb%2F3%2FC
-[/us/pl/110/405/s2/b/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F405%2Fs2%2Fb%2F3%2FD
+[/us/pl/110/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F405
+[/us/pl/110/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F405
+[/us/pl/110/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F405
+[/us/pl/110/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F405
 [/us/pl/106/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31
-[/us/pl/103/272/s4/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs4%2Fk
-[/us/pl/103/272/s4/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs4%2Fk%2F1
-[/us/pl/106/31/s6003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31%2Fs6003
-[/us/pl/103/272/s4/k/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs4%2Fk%2F3
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
+[/us/pl/106/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
-[/us/pl/106/31/s6003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31%2Fs6003
+[/us/pl/106/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31
 [/us/pl/110/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F405
 [/us/pl/110/405/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F405%2Fs2%2Fc
 [/us/usc/t39/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs101
-[/us/pl/106/31/s6003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31%2Fs6003
+[/us/pl/106/31/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31%2FtVI
 [/us/stat/113/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F113
-[/us/pl/103/429/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs7%2Fa
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/stat/108/4388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4388
 
 

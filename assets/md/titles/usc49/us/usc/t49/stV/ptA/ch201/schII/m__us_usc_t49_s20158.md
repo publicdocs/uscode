@@ -47,7 +47,7 @@
 
     There are authorized to be appropriated to the Secretary of Transportation $50,000,000 for each of fiscal years 2009 through 2013 to carry out this section. Amounts appropriated pursuant to this section shall remain available until expended.
 
-(Added [Pub. L. 110–432, div. A, title I, § 105(a)][/us/pl/110/432/s105/a], Oct. 16, 2008, [122 Stat. 4858][/us/stat/122/4858].)
+(Added [Pub. L. 110–432, div. A, title I][/us/pl/110/432/dA/tI], § 105(a), Oct. 16, 2008, [122 Stat. 4858][/us/stat/122/4858].)
 
 ----------
 
@@ -56,7 +56,7 @@
 ----------
 ----------
 
-[/us/pl/110/432/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs105%2Fa
+[/us/pl/110/432/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdA%2FtI
 [/us/stat/122/4858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4858
 
 

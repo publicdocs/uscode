@@ -23,7 +23,7 @@
 
     In conducting an investigation or public hearing under this subchapter, the Secretary has the same authority the Secretary has under [section 46104 of this title][/us/usc/t49/s46104]. An action of the Secretary in exercising that authority is governed by the procedures specified in section 46104 and shall be enforced as provided in section 46104.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1275][/us/stat/108/1275].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1275][/us/stat/108/1275].)
 
 <table>
 
@@ -97,7 +97,7 @@ Aug. 23, 1958, Pub. L. 85–726, § 313(c) (related to Airport and Airway Impr
 ----------
 
 [/us/usc/t49/s46104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs46104
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1275
 
 

@@ -23,7 +23,7 @@
 
     The provisions of this chapter that apply with respect to employees of the Federal Aviation Administration whose duties include responsibility for safety-sensitive functions shall apply with respect to employees of the Transportation Security Administration whose duties include responsibility for security-sensitive functions. The Under Secretary of Transportation for Security, the Transportation Security Administration, and employees of the Transportation Security Administration whose duties include responsibility for security-sensitive functions shall be subject to and comply with such provisions in the same manner and to the same extent as the Administrator of the Federal Aviation Administration, the Federal Aviation Administration, and employees of the Federal Aviation Administration whose duties include responsibility for safety-sensitive functions, respectively.
 
-(Added [Pub. L. 107–71, title I, § 139(4)][/us/pl/107/71/s139/4], Nov. 19, 2001, [115 Stat. 640][/us/stat/115/640].)
+(Added [Pub. L. 107–71, title I][/us/pl/107/71/tI], § 139(4), Nov. 19, 2001, [115 Stat. 640][/us/stat/115/640].)
 
  __Transfer of Functions__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/107/71/s139/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs139%2F4
+[/us/pl/107/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2FtI
 [/us/stat/115/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F640
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 

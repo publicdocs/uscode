@@ -167,7 +167,7 @@
 
         (3) This subsection does not affect a State commercial motor vehicle safety law applicable to intrastate commerce.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1029][/us/stat/108/1029]; [Pub. L. 105–178, title IV, § 4007(a)][/us/pl/105/178/s4007/a], June 9, 1998, [112 Stat. 401][/us/stat/112/401]; [Pub. L. 112–141, div. C, title II, § 32913][/us/pl/112/141/s32913], July 6, 2012, [126 Stat. 818][/us/stat/126/818]; [Pub. L. 114–94, div. A, title V][/us/pl/114/94], §§ 5202(1), § 5206(a), Dec. 4, 2015, [129 Stat. 1534][/us/stat/129/1534], 1537.)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1029][/us/stat/108/1029]; [Pub. L. 105–178, title IV][/us/pl/105/178/tIV], § 4007(a), June 9, 1998, [112 Stat. 401][/us/stat/112/401]; [Pub. L. 112–141, div. C, title II][/us/pl/112/141/dC/tII], § 32913, July 6, 2012, [126 Stat. 818][/us/stat/126/818]; [Pub. L. 114–94, div. A, title V][/us/pl/114/94/dA/tV], §§ 5202(1), § 5206(a), Dec. 4, 2015, [129 Stat. 1534][/us/stat/129/1534], 1537.)
 
 <table>
 
@@ -223,27 +223,27 @@ Oct. 27, 1986, Pub. L. 99–570, § 12013, 100 Stat. 3207–186.  </td>
 
  __Codification__ 
 
-    The text of [section 31136(f) of this title][/us/usc/t49/s31136/f], which was redesignated subsec. (g) and transferred to this section by [Pub. L. 114–94, § 5202(1)][/us/pl/114/94/s5202/1], was based on [Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1003][/us/stat/108/1003].
+    The text of [section 31136(f) of this title][/us/usc/t49/s31136/f], which was redesignated subsec. (g) and transferred to this section by [Pub. L. 114–94][/us/pl/114/94], § 5202(1), was based on [Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1003][/us/stat/108/1003].
 
  __Amendments__ 
 
-    2015—Subsec. (b)(1). [Pub. L. 114–94, § 5206(a)(1)][/us/pl/114/94/s5206/a/1], substituted “this subsection” for “paragraph (3)” and struck out at end “An exemption may be granted for no longer than 2 years from its approval date and may be renewed upon application to the Secretary.”
+    2015—Subsec. (b)(1). [Pub. L. 114–94][/us/pl/114/94], § 5206(a)(1), substituted “this subsection” for “paragraph (3)” and struck out at end “An exemption may be granted for no longer than 2 years from its approval date and may be renewed upon application to the Secretary.”
 
-    Subsec. (b)(2) to (9). [Pub. L. 114–94, § 5206(a)(2)][/us/pl/114/94/s5206/a/2], (3), added pars. (2) and (3) and redesignated former pars (2) to (7) as (4) to (9), respectively.
+    Subsec. (b)(2) to (9). [Pub. L. 114–94][/us/pl/114/94], § 5206(a)(2), (3), added pars. (2) and (3) and redesignated former pars (2) to (7) as (4) to (9), respectively.
 
-    Subsec. (g). [Pub. L. 114–94, § 5202(1)][/us/pl/114/94/s5202/1], redesignated subsec. (f) of [section 31136 of this title][/us/usc/t49/s31136] as (g) and transferred it to this section. See Codification note above.
+    Subsec. (g). [Pub. L. 114–94][/us/pl/114/94], § 5202(1), redesignated subsec. (f) of [section 31136 of this title][/us/usc/t49/s31136] as (g) and transferred it to this section. See Codification note above.
 
-    2012—Subsec. (b)(4)(A). [Pub. L. 112–141, § 32913(a)(1)][/us/pl/112/141/s32913/a/1], inserted “(or, in the case of a request for an exemption from the physical qualification standards for commercial motor vehicle drivers, post on a web site established by the Secretary to implement the requirements of section 31149)” after “Federal Register”.
+    2012—Subsec. (b)(4)(A). [Pub. L. 112–141][/us/pl/112/141], § 32913(a)(1), inserted “(or, in the case of a request for an exemption from the physical qualification standards for commercial motor vehicle drivers, post on a web site established by the Secretary to implement the requirements of section 31149)” after “Federal Register”.
 
-    Subsec. (b)(4)(B). [Pub. L. 112–141, § 32913(a)(2)][/us/pl/112/141/s32913/a/2], amended subpar. (B) generally. Prior to amendment, text read as follows: “Upon granting a request for exemption, the Secretary shall publish in the Federal Register the name of the person granted the exemption, the provisions from which the person will be exempt, the effective period, and all terms and conditions of the exemption.”
+    Subsec. (b)(4)(B). [Pub. L. 112–141][/us/pl/112/141], § 32913(a)(2), amended subpar. (B) generally. Prior to amendment, text read as follows: “Upon granting a request for exemption, the Secretary shall publish in the Federal Register the name of the person granted the exemption, the provisions from which the person will be exempt, the effective period, and all terms and conditions of the exemption.”
 
-    Subsec. (b)(4)(C). [Pub. L. 112–141, § 32913(a)(3)][/us/pl/112/141/s32913/a/3], inserted “(or, in the case of a request for an exemption from the physical qualification standards for commercial motor vehicle drivers, post on a web site established by the Secretary to implement the requirements of section 31149)” after “Federal Register”.
+    Subsec. (b)(4)(C). [Pub. L. 112–141][/us/pl/112/141], § 32913(a)(3), inserted “(or, in the case of a request for an exemption from the physical qualification standards for commercial motor vehicle drivers, post on a web site established by the Secretary to implement the requirements of section 31149)” after “Federal Register”.
 
-    Subsec. (b)(7). [Pub. L. 112–141, § 32913(b)][/us/pl/112/141/s32913/b], amended par. (7) generally. Prior to amendment, text read as follows: “Before granting a request for exemption, the Secretary shall notify State safety compliance and enforcement personnel, including roadside inspectors, and the public that a person will be operating pursuant to an exemption and any terms and conditions that will apply to the exemption.”
+    Subsec. (b)(7). [Pub. L. 112–141][/us/pl/112/141], § 32913(b), amended par. (7) generally. Prior to amendment, text read as follows: “Before granting a request for exemption, the Secretary shall notify State safety compliance and enforcement personnel, including roadside inspectors, and the public that a person will be operating pursuant to an exemption and any terms and conditions that will apply to the exemption.”
 
-    Subsec. (c)(1). [Pub. L. 112–141, § 32913(c)][/us/pl/112/141/s32913/c], struck out “in the Federal Register” after “shall publish”.
+    Subsec. (c)(1). [Pub. L. 112–141][/us/pl/112/141], § 32913(c), struck out “in the Federal Register” after “shall publish”.
 
-    Subsecs. (e), (f). [Pub. L. 112–141, § 32913(d)][/us/pl/112/141/s32913/d], added subsecs. (e) and (f).
+    Subsecs. (e), (f). [Pub. L. 112–141][/us/pl/112/141], § 32913(d), added subsecs. (e) and (f).
 
     1998—[Pub. L. 105–178][/us/pl/105/178] amended section catchline and text generally. Prior to amendment, text read as follows: “After notice and an opportunity for comment, the Secretary of Transportation may waive any part of this chapter or a regulation prescribed under this chapter as it applies to a class of individuals or commercial motor vehicles if the Secretary decides the waiver is not contrary to the public interest and does not diminish the safe operation of commercial motor vehicles. A waiver under this section shall be published in the Federal Register with reasons for the waiver.”
 
@@ -257,7 +257,7 @@ Oct. 27, 1986, Pub. L. 99–570, § 12013, 100 Stat. 3207–186.  </td>
 
  __Administrative Exemptions__ 
 
-[Pub. L. 114–94, div. A, title V, § 5206(b)][/us/pl/114/94/s5206/b], Dec. 4, 2015, [129 Stat. 1537][/us/stat/129/1537], provided that:
+[Pub. L. 114–94, div. A, title V][/us/pl/114/94/dA/tV], § 5206(b), Dec. 4, 2015, [129 Stat. 1537][/us/stat/129/1537], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -279,7 +279,7 @@ Oct. 27, 1986, Pub. L. 99–570, § 12013, 100 Stat. 3207–186.  </td>
 
  __Commercial Driver Pilot Program__ 
 
-[Pub. L. 114–94, div. A, title V, § 5404][/us/pl/114/94/s5404], Dec. 4, 2015, [129 Stat. 1549][/us/stat/129/1549], provided that:
+[Pub. L. 114–94, div. A, title V][/us/pl/114/94/dA/tV], § 5404, Dec. 4, 2015, [129 Stat. 1549][/us/stat/129/1549], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -364,29 +364,29 @@ Oct. 27, 1986, Pub. L. 99–570, § 12013, 100 Stat. 3207–186.  </td>
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1029
-[/us/pl/105/178/s4007/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4007%2Fa
+[/us/pl/105/178/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtIV
 [/us/stat/112/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F401
-[/us/pl/112/141/s32913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32913
+[/us/pl/112/141/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtII
 [/us/stat/126/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F818
-[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtV
 [/us/stat/129/1534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1534
 [/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
 [/us/usc/t49/s31136/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31136%2Ff
-[/us/pl/114/94/s5202/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5202%2F1
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1003
-[/us/pl/114/94/s5206/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5206%2Fa%2F1
-[/us/pl/114/94/s5206/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5206%2Fa%2F2
-[/us/pl/114/94/s5202/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5202%2F1
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/usc/t49/s31136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31136
-[/us/pl/112/141/s32913/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32913%2Fa%2F1
-[/us/pl/112/141/s32913/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32913%2Fa%2F2
-[/us/pl/112/141/s32913/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32913%2Fa%2F3
-[/us/pl/112/141/s32913/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32913%2Fb
-[/us/pl/112/141/s32913/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32913%2Fc
-[/us/pl/112/141/s32913/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32913%2Fd
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
@@ -394,11 +394,11 @@ Oct. 27, 1986, Pub. L. 99–570, § 12013, 100 Stat. 3207–186.  </td>
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
-[/us/pl/114/94/s5206/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5206%2Fb
+[/us/pl/114/94/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtV
 [/us/stat/129/1537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1537
 [/us/usc/t49/s31315/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31315%2Fb
 [/us/usc/t49/s31315/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31315%2Fb%2F2
-[/us/pl/114/94/s5404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5404
+[/us/pl/114/94/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtV
 [/us/stat/129/1549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1549
 [/us/usc/t49/s31315/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31315%2Fc
 [/us/usc/t10/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2Fa

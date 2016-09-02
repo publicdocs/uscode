@@ -17,7 +17,7 @@
 
     The Secretary of Transportation shall encourage railroad carriers to warn the public about potential liability for violation of regulations related to vandalism of railroad signs, devices, and equipment and to trespassing on railroad property.
 
-(Added [Pub. L. 103–440, title II, § 211(a)][/us/pl/103/440/s211/a], Nov. 2, 1994, [108 Stat. 4622][/us/stat/108/4622].)
+(Added [Pub. L. 103–440, title II][/us/pl/103/440/tII], § 211(a), Nov. 2, 1994, [108 Stat. 4622][/us/stat/108/4622].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/103/440/s211/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F440%2Fs211%2Fa
+[/us/pl/103/440/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F440%2FtII
 [/us/stat/108/4622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4622
 
 

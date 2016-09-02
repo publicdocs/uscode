@@ -23,9 +23,9 @@
 
         (2) the costs of services provided under international agreements related to the joint financing of air navigation services assessed against the United States Government.
 
-    \[(b), (c). Repealed. [Pub. L. 106–181, title I, § 106(d)(2)][/us/pl/106/181/s106/d/2], Apr. 5, 2000, [114 Stat. 73][/us/stat/114/73].\]
+    \[(b), (c). Repealed. [Pub. L. 106–181, title I][/us/pl/106/181/tI], § 106(d)(2), Apr. 5, 2000, [114 Stat. 73][/us/stat/114/73].\]
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1296][/us/stat/108/1296]; [Pub. L. 103–305, title I, § 102(b)][/us/pl/103/305/s102/b], Aug. 23, 1994, [108 Stat. 1571][/us/stat/108/1571]; [Pub. L. 104–264, title I, § 103(b)][/us/pl/104/264/s103/b], (d)(1), Oct. 9, 1996, [110 Stat. 3216][/us/stat/110/3216]; [Pub. L. 104–287, § 5(87)][/us/pl/104/287/s5/87], Oct. 11, 1996, [110 Stat. 3398][/us/stat/110/3398]; [Pub. L. 106–181, title I, § 106(d)][/us/pl/106/181/s106/d], Apr. 5, 2000, [114 Stat. 73][/us/stat/114/73].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1296][/us/stat/108/1296]; [Pub. L. 103–305, title I][/us/pl/103/305/tI], § 102(b), Aug. 23, 1994, [108 Stat. 1571][/us/stat/108/1571]; [Pub. L. 104–264, title I][/us/pl/104/264/tI], § 103(b), (d)(1), Oct. 9, 1996, [110 Stat. 3216][/us/stat/110/3216]; [Pub. L. 104–287][/us/pl/104/287], § 5(87), Oct. 11, 1996, [110 Stat. 3398][/us/stat/110/3398]; [Pub. L. 106–181, title I][/us/pl/106/181/tI], § 106(d), Apr. 5, 2000, [114 Stat. 73][/us/stat/114/73].)
 
 <table>
 
@@ -155,21 +155,21 @@ Sept. 3, 1982, Pub. L. 97–248, 96 Stat. 324, § 506(c)(4); added Nov. 5, 199
 
  __Amendments__ 
 
-    2000—Subsec. (a). [Pub. L. 106–181, § 106(d)(1)][/us/pl/106/181/s106/d/1], struck out “Except as provided in this section,” before “the balance of the money” in introductory provisions.
+    2000—Subsec. (a). [Pub. L. 106–181][/us/pl/106/181], § 106(d)(1), struck out “Except as provided in this section,” before “the balance of the money” in introductory provisions.
 
-    Subsecs. (b), (c). [Pub. L. 106–181, § 106(d)(2)][/us/pl/106/181/s106/d/2], struck out heading and text of subsecs. (b) and (c), which set out funding limitations for fiscal year 1993 and fiscal years 1994 to 1998, respectively.
+    Subsecs. (b), (c). [Pub. L. 106–181][/us/pl/106/181], § 106(d)(2), struck out heading and text of subsecs. (b) and (c), which set out funding limitations for fiscal year 1993 and fiscal years 1994 to 1998, respectively.
 
-    1996—[Pub. L. 104–264, § 103(d)(1)][/us/pl/104/264/s103/d/1], substituted “Operations and maintenance” for “Certain direct costs and joint air navigation services” in section catchline.
+    1996—[Pub. L. 104–264][/us/pl/104/264], § 103(d)(1), substituted “Operations and maintenance” for “Certain direct costs and joint air navigation services” in section catchline.
 
     Subsec. (b). [Pub. L. 104–287][/us/pl/104/287] substituted “Year” for “Years” in heading.
 
-    Subsec. (c). [Pub. L. 104–264, § 103(b)(1)][/us/pl/104/264/s103/b/1], (2), substituted “1998” for “1996” in heading and “1994 through 1998” for “1994, 1995, and 1996” in introductory provisions.
+    Subsec. (c). [Pub. L. 104–264][/us/pl/104/264], § 103(b)(1), (2), substituted “1998” for “1996” in heading and “1994 through 1998” for “1994, 1995, and 1996” in introductory provisions.
 
-    Subsec. (c)(2)(A). [Pub. L. 104–264, § 103(b)(3)][/us/pl/104/264/s103/b/3], substituted “72.5 percent” for “70 percent”.
+    Subsec. (c)(2)(A). [Pub. L. 104–264][/us/pl/104/264], § 103(b)(3), substituted “72.5 percent” for “70 percent”.
 
-    1994—Subsec. (b). [Pub. L. 103–305, § 102(b)(1)][/us/pl/103/305/s102/b/1], (2), inserted “for Fiscal Years 1993” in heading and substituted “fiscal year 1993” for “each of the fiscal years ending September 30, 1993–1995,” in introductory provisions.
+    1994—Subsec. (b). [Pub. L. 103–305][/us/pl/103/305], § 102(b)(1), (2), inserted “for Fiscal Years 1993” in heading and substituted “fiscal year 1993” for “each of the fiscal years ending September 30, 1993–1995,” in introductory provisions.
 
-    Subsec. (c). [Pub. L. 103–305, § 102(b)(3)][/us/pl/103/305/s102/b/3], added subsec. (c).
+    Subsec. (c). [Pub. L. 103–305][/us/pl/103/305], § 102(b)(3), added subsec. (c).
 
  __Effective Date of 2000 Amendment__ 
 
@@ -188,27 +188,27 @@ Sept. 3, 1982, Pub. L. 97–248, 96 Stat. 324, § 506(c)(4); added Nov. 5, 199
 
 [/us/usc/t26/s9502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9502
 [/us/usc/t49/s44502/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44502%2Fa%2F1%2FA
-[/us/pl/106/181/s106/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs106%2Fd%2F2
+[/us/pl/106/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtI
 [/us/stat/114/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F73
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1296
-[/us/pl/103/305/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2Fs102%2Fb
+[/us/pl/103/305/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2FtI
 [/us/stat/108/1571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1571
-[/us/pl/104/264/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs103%2Fb
+[/us/pl/104/264/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2FtI
 [/us/stat/110/3216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3216
-[/us/pl/104/287/s5/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F87
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3398
-[/us/pl/106/181/s106/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs106%2Fd
+[/us/pl/106/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtI
 [/us/stat/114/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F73
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
-[/us/pl/106/181/s106/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs106%2Fd%2F1
-[/us/pl/106/181/s106/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs106%2Fd%2F2
-[/us/pl/104/264/s103/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs103%2Fd%2F1
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
-[/us/pl/104/264/s103/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs103%2Fb%2F1
-[/us/pl/104/264/s103/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs103%2Fb%2F3
-[/us/pl/103/305/s102/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2Fs102%2Fb%2F1
-[/us/pl/103/305/s102/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2Fs102%2Fb%2F3
+[/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
+[/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
+[/us/pl/103/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305
+[/us/pl/103/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305
 [/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/pl/106/181/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106

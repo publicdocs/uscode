@@ -35,7 +35,7 @@
 
     The Secretary shall determine whether a railroad carrier has fully retrofitted or replaced a camp car pursuant to subsection (b) and shall prohibit the use of any non-compliant camp car. The Secretary may assess civil penalties pursuant to chapter 213 for violations of this section.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 891][/us/stat/108/891]; [Pub. L. 110–432, div. A, title IV, § 420][/us/pl/110/432/s420], Oct. 16, 2008, [122 Stat. 4893][/us/stat/122/4893].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 891][/us/stat/108/891]; [Pub. L. 110–432, div. A, title IV][/us/pl/110/432/dA/tIV], § 420, Oct. 16, 2008, [122 Stat. 4893][/us/stat/122/4893].)
 
 <table>
 
@@ -128,9 +128,9 @@ Mar. 4, 1907, ch. 2939, 34 Stat. 1415, § 3A(d) (related to § 2(a)(3)); add
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F891
-[/us/pl/110/432/s420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs420
+[/us/pl/110/432/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdA%2FtIV
 [/us/stat/122/4893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4893
 [/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
 

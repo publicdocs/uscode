@@ -27,7 +27,7 @@
 
         (2) any disclosure made with reckless disregard as to the truth or falsity of that disclosure.
 
-(Added [Pub. L. 107–71, title I, § 125(a)][/us/pl/107/71/s125/a], Nov. 19, 2001, [115 Stat. 631][/us/stat/115/631].)
+(Added [Pub. L. 107–71, title I][/us/pl/107/71/tI], § 125(a), Nov. 19, 2001, [115 Stat. 631][/us/stat/115/631].)
 
 ----------
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t18/s3077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3077
-[/us/pl/107/71/s125/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs125%2Fa
+[/us/pl/107/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2FtI
 [/us/stat/115/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F631
 
 

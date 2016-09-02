@@ -17,7 +17,7 @@
 
     A person not obeying a subpena or requirement of the Secretary of Transportation (or the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator) to appear and testify or produce records shall be fined under title 18, imprisoned for not more than one year, or both.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1239][/us/stat/108/1239]; [Pub. L. 107–71, title I, § 140(d)(7)][/us/pl/107/71/s140/d/7], Nov. 19, 2001, [115 Stat. 642][/us/stat/115/642].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1239][/us/stat/108/1239]; [Pub. L. 107–71, title I][/us/pl/107/71/tI], § 140(d)(7), Nov. 19, 2001, [115 Stat. 642][/us/stat/115/642].)
 
 <table>
 
@@ -114,9 +114,9 @@ The word “Administrator” in section 902(g) of the Federal Aviation Act of 19
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1239
-[/us/pl/107/71/s140/d/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs140%2Fd%2F7
+[/us/pl/107/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2FtI
 [/us/stat/115/642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F642
 [/us/pl/85/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F726
 [/us/stat/72/785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F785

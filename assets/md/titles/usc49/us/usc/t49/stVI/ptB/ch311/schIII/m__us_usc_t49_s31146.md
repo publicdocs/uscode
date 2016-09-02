@@ -17,7 +17,7 @@
 
     Except as provided in [section 31136(b) of this title][/us/usc/t49/s31136/b], this subchapter and the regulations prescribed under this subchapter do not affect chapter 51 of this title or a regulation prescribed under chapter 51.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1013][/us/stat/108/1013].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1013][/us/stat/108/1013].)
 
 <table>
 
@@ -73,7 +73,7 @@ Oct. 30, 1984, Pub. L. 98–554, § 221, 98 Stat. 2846.  </td>
 ----------
 
 [/us/usc/t49/s31136/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31136%2Fb
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1013
 
 

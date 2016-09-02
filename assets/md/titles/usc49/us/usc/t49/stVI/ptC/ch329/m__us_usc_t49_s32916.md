@@ -37,7 +37,7 @@
 
         (2) The Secretary of Transportation shall include the results of the examination under paragraph (1) of this subsection in each report submitted under subsection (a) of this section more than 180 days after an exemption has been granted under [section 32904(b)(6) of this title][/us/usc/t49/s32904/b/6], or submit the results of the examination directly to Congress before the report is submitted when circumstances warrant.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1074][/us/stat/108/1074]; [Pub. L. 103–429, § 6(42)][/us/pl/103/429/s6/42], Oct. 31, 1994, [108 Stat. 4382][/us/stat/108/4382].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1074][/us/stat/108/1074]; [Pub. L. 103–429][/us/pl/103/429], § 6(42), Oct. 31, 1994, [108 Stat. 4382][/us/stat/108/4382].)
 
 <table>
 
@@ -135,7 +135,7 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, § 512(c); added Oct. 10, 1980,
 
  __References in Text__ 
 
-    Paragraph (6) of [section 32904(b) of this title][/us/usc/t49/s32904/b], referred to in subsec. (b), was repealed by [Pub. L. 110–140, title I, § 113(a)][/us/pl/110/140/s113/a], Dec. 19, 2007, [121 Stat. 1508][/us/stat/121/1508].
+    Paragraph (6) of [section 32904(b) of this title][/us/usc/t49/s32904/b], referred to in subsec. (b), was repealed by [Pub. L. 110–140, title I][/us/pl/110/140/tI], § 113(a), Dec. 19, 2007, [121 Stat. 1508][/us/stat/121/1508].
 
  __Amendments__ 
 
@@ -150,14 +150,14 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, § 512(c); added Oct. 10, 1980,
 
 [/us/usc/t49/s32904/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs32904%2Fb%2F2
 [/us/usc/t49/s32904/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs32904%2Fb%2F6
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1074
-[/us/pl/103/429/s6/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F42
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/stat/108/4382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4382
 [/us/usc/t49/s2003/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs2003%2Fb
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/usc/t49/s32904/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs32904%2Fb
-[/us/pl/110/140/s113/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs113%2Fa
+[/us/pl/110/140/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtI
 [/us/stat/121/1508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1508
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 

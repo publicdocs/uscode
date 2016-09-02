@@ -387,31 +387,31 @@ SUBCHAPTER II—ADMINISTRATION AND PERSONNEL  </td>
 
  __Amendments__ 
 
-    2014—[Pub. L. 113–238, § 2(b)][/us/pl/113/238/s2/b], Dec. 18, 2014, [128 Stat. 2846][/us/stat/128/2846], which directed amendment of analysis for subchapter II of chapter 449 of title 49 by adding item 44946 at the end, was executed by adding item 44946 to analysis for this chapter to reflect the probable intent of Congress.
+    2014—[Pub. L. 113–238][/us/pl/113/238], § 2(b), Dec. 18, 2014, [128 Stat. 2846][/us/stat/128/2846], which directed amendment of analysis for subchapter II of chapter 449 of title 49 by adding item 44946 at the end, was executed by adding item 44946 to analysis for this chapter to reflect the probable intent of Congress.
 
-    [Pub. L. 113–221, § 2(b)][/us/pl/113/221/s2/b], Dec. 16, 2014, [128 Stat. 2094][/us/stat/128/2094], which directed amendment of analysis for title 49 by adding item 44928 after item 44927, was executed by adding item 44928 to analysis for this chapter, to reflect the probable intent of Congress.
+    [Pub. L. 113–221][/us/pl/113/221], § 2(b), Dec. 16, 2014, [128 Stat. 2094][/us/stat/128/2094], which directed amendment of analysis for title 49 by adding item 44928 after item 44927, was executed by adding item 44928 to analysis for this chapter, to reflect the probable intent of Congress.
 
-    2013—[Pub. L. 113–27, § 2(b)][/us/pl/113/27/s2/b], Aug. 9, 2013, [127 Stat. 504][/us/stat/127/504], which directed amendment of analysis for subchapter I of chapter 449 by adding item 44927 after item 44926, was executed by adding item 44927 to analysis for this chapter to reflect the probable intent of Congress.
+    2013—[Pub. L. 113–27][/us/pl/113/27], § 2(b), Aug. 9, 2013, [127 Stat. 504][/us/stat/127/504], which directed amendment of analysis for subchapter I of chapter 449 by adding item 44927 after item 44926, was executed by adding item 44927 to analysis for this chapter to reflect the probable intent of Congress.
 
-    [Pub. L. 112–271, § 2(b)][/us/pl/112/271/s2/b], Jan. 14, 2013, [126 Stat. 2447][/us/stat/126/2447], substituted “Disposition of unclaimed money and clothing” for “Disposition of unclaimed money” in item 44945.
+    [Pub. L. 112–271][/us/pl/112/271], § 2(b), Jan. 14, 2013, [126 Stat. 2447][/us/stat/126/2447], substituted “Disposition of unclaimed money and clothing” for “Disposition of unclaimed money” in item 44945.
 
-    2007—[Pub. L. 110–53, title XVI, § 1606(b)][/us/pl/110/53/s1606/b], Aug. 3, 2007, [121 Stat. 483][/us/stat/121/483], added item 44926.
+    2007—[Pub. L. 110–53, title XVI][/us/pl/110/53/tXVI], § 1606(b), Aug. 3, 2007, [121 Stat. 483][/us/stat/121/483], added item 44926.
 
-    2004—[Pub. L. 108–458, title IV, § 4013(b)][/us/pl/108/458/s4013/b], Dec. 17, 2004, [118 Stat. 3720][/us/stat/118/3720], added item 44925.
+    2004—[Pub. L. 108–458, title IV][/us/pl/108/458/tIV], § 4013(b), Dec. 17, 2004, [118 Stat. 3720][/us/stat/118/3720], added item 44925.
 
-    [Pub. L. 108–334, title V, § 515(c)][/us/pl/108/334/s515/c], Oct. 18, 2004, [118 Stat. 1318][/us/stat/118/1318], added item 44945.
+    [Pub. L. 108–334, title V][/us/pl/108/334/tV], § 515(c), Oct. 18, 2004, [118 Stat. 1318][/us/stat/118/1318], added item 44945.
 
-    2003—[Pub. L. 108–176, title VI][/us/pl/108/176], §§ 605(b)(3), 611(b)(2), Dec. 12, 2003, [117 Stat. 2568][/us/stat/117/2568], 2572, added items 44923 and 44924.
+    2003—[Pub. L. 108–176, title VI][/us/pl/108/176/tVI], §§ 605(b)(3), 611(b)(2), Dec. 12, 2003, [117 Stat. 2568][/us/stat/117/2568], 2572, added items 44923 and 44924.
 
-    [Pub. L. 108–7, div. I, title III, § 351(c)][/us/pl/108/7/s351/c], Feb. 20, 2003, [117 Stat. 420][/us/stat/117/420], added item 44922.
+    [Pub. L. 108–7, div. I, title III][/us/pl/108/7/dI/tIII], § 351(c), Feb. 20, 2003, [117 Stat. 420][/us/stat/117/420], added item 44922.
 
-    2002—[Pub. L. 107–296, title XIV, § 1402(b)(1)][/us/pl/107/296/s1402/b/1], Nov. 25, 2002, [116 Stat. 2305][/us/stat/116/2305], added item 44921.
+    2002—[Pub. L. 107–296, title XIV][/us/pl/107/296/tXIV], § 1402(b)(1), Nov. 25, 2002, [116 Stat. 2305][/us/stat/116/2305], added item 44921.
 
-    2001—[Pub. L. 107–71, title I][/us/pl/107/71], §§ 101(f)(6), 105(b), 107(b), 108(b), 113(b), 125(b), 131(b), Nov. 19, 2001, [115 Stat. 603][/us/stat/115/603], 607, 611, 613, 622, 632, 635, added items 44917 to 44920, 44939, 44941, and 44944 and struck out items 44931 “Director of Intelligence and Security” and 44932 “Assistant Administrator for Civil Aviation Security”.
+    2001—[Pub. L. 107–71, title I][/us/pl/107/71/tI], §§ 101(f)(6), 105(b), 107(b), 108(b), 113(b), 125(b), 131(b), Nov. 19, 2001, [115 Stat. 603][/us/stat/115/603], 607, 611, 613, 622, 632, 635, added items 44917 to 44920, 44939, 44941, and 44944 and struck out items 44931 “Director of Intelligence and Security” and 44932 “Assistant Administrator for Civil Aviation Security”.
 
-    [Pub. L. 107–71, title I, § 118(b)][/us/pl/107/71/s118/b], Nov. 19, 2001, [115 Stat. 627][/us/stat/115/627], which directed addition of item 44940 to the analysis for chapter 449 without specifying the Code title to be amended, was executed by adding item 44940 to this analysis to reflect the probable intent of Congress.
+    [Pub. L. 107–71, title I][/us/pl/107/71/tI], § 118(b), Nov. 19, 2001, [115 Stat. 627][/us/stat/115/627], which directed addition of item 44940 to the analysis for chapter 449 without specifying the Code title to be amended, was executed by adding item 44940 to this analysis to reflect the probable intent of Congress.
 
-    1996—[Pub. L. 104–264, title III, § 312(b)][/us/pl/104/264/s312/b], Oct. 9, 1996, [110 Stat. 3254][/us/stat/110/3254], added item 44916.
+    1996—[Pub. L. 104–264, title III][/us/pl/104/264/tIII], § 312(b), Oct. 9, 1996, [110 Stat. 3254][/us/stat/110/3254], added item 44916.
 
 ----------
 
@@ -420,31 +420,31 @@ SUBCHAPTER II—ADMINISTRATION AND PERSONNEL  </td>
 ----------
 ----------
 
-[/us/pl/113/238/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F238%2Fs2%2Fb
+[/us/pl/113/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F238
 [/us/stat/128/2846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2846
-[/us/pl/113/221/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F221%2Fs2%2Fb
+[/us/pl/113/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F221
 [/us/stat/128/2094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2094
-[/us/pl/113/27/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F27%2Fs2%2Fb
+[/us/pl/113/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F27
 [/us/stat/127/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F504
-[/us/pl/112/271/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F271%2Fs2%2Fb
+[/us/pl/112/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F271
 [/us/stat/126/2447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2447
-[/us/pl/110/53/s1606/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1606%2Fb
+[/us/pl/110/53/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXVI
 [/us/stat/121/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F483
-[/us/pl/108/458/s4013/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs4013%2Fb
+[/us/pl/108/458/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtIV
 [/us/stat/118/3720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3720
-[/us/pl/108/334/s515/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F334%2Fs515%2Fc
+[/us/pl/108/334/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F334%2FtV
 [/us/stat/118/1318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1318
-[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
+[/us/pl/108/176/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtVI
 [/us/stat/117/2568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2568
-[/us/pl/108/7/s351/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs351%2Fc
+[/us/pl/108/7/dI/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdI%2FtIII
 [/us/stat/117/420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F420
-[/us/pl/107/296/s1402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1402%2Fb%2F1
+[/us/pl/107/296/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXIV
 [/us/stat/116/2305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2305
-[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2FtI
 [/us/stat/115/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F603
-[/us/pl/107/71/s118/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs118%2Fb
+[/us/pl/107/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2FtI
 [/us/stat/115/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F627
-[/us/pl/104/264/s312/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs312%2Fb
+[/us/pl/104/264/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2FtIII
 [/us/stat/110/3254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3254
 
 

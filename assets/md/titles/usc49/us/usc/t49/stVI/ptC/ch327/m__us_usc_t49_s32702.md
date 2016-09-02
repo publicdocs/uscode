@@ -33,7 +33,7 @@
 
     (8) “transfer” means to change ownership by sale, gift, or any other means.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1048][/us/stat/108/1048]; [Pub. L. 104–287, § 5(61)][/us/pl/104/287/s5/61], Oct. 11, 1996, [110 Stat. 3394][/us/stat/110/3394]; [Pub. L. 112–141, div. C, title I, § 31205(a)][/us/pl/112/141/s31205/a], July 6, 2012, [126 Stat. 760][/us/stat/126/760].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1048][/us/stat/108/1048]; [Pub. L. 104–287][/us/pl/104/287], § 5(61), Oct. 11, 1996, [110 Stat. 3394][/us/stat/110/3394]; [Pub. L. 112–141, div. C, title I][/us/pl/112/141/dC/tI], § 31205(a), July 6, 2012, [126 Stat. 760][/us/stat/126/760].)
 
 <table>
 
@@ -222,11 +222,11 @@ Oct. 20, 1972, Pub. L. 92–513, § 402(3)–(5), 86 Stat. 961; July 14, 1976,
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1048
-[/us/pl/104/287/s5/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F61
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3394
-[/us/pl/112/141/s31205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31205%2Fa
+[/us/pl/112/141/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtI
 [/us/stat/126/760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F760
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/act/1994-07-05/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1994-07-05%2Fs1

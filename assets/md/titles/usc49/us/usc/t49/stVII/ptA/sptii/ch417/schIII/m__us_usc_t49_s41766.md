@@ -17,7 +17,7 @@
 
     Of the amounts appropriated under section 106(k) for each of fiscal years 2001 through 2003, such sums as may be necessary may be used to carry out this subchapter, including administrative expenses.
 
-(Added [Pub. L. 106–181, title II, § 210(a)][/us/pl/106/181/s210/a], Apr. 5, 2000, [114 Stat. 101][/us/stat/114/101].)
+(Added [Pub. L. 106–181, title II][/us/pl/106/181/tII], § 210(a), Apr. 5, 2000, [114 Stat. 101][/us/stat/114/101].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/106/181/s210/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs210%2Fa
+[/us/pl/106/181/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtII
 [/us/stat/114/101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F101
 
 

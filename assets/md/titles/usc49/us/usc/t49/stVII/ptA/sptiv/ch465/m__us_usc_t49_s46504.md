@@ -17,7 +17,7 @@
 
     An individual on an aircraft in the special aircraft jurisdiction of the United States who, by assaulting or intimidating a flight crew member or flight attendant of the aircraft, interferes with the performance of the duties of the member or attendant or lessens the ability of the member or attendant to perform those duties, or attempts or conspires to do such an act, shall be fined under title 18, imprisoned for not more than 20 years, or both. However, if a dangerous weapon is used in assaulting or intimidating the member or attendant, the individual shall be imprisoned for any term of years or for life.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1244][/us/stat/108/1244]; [Pub. L. 107–56, title VIII, § 811(i)][/us/pl/107/56/s811/i], Oct. 26, 2001, [115 Stat. 382][/us/stat/115/382].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1244][/us/stat/108/1244]; [Pub. L. 107–56, title VIII][/us/pl/107/56/tVIII], § 811(i), Oct. 26, 2001, [115 Stat. 382][/us/stat/115/382].)
 
 <table>
 
@@ -78,9 +78,9 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 902(j); added Sept. 5, 1961,
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1244
-[/us/pl/107/56/s811/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs811%2Fi
+[/us/pl/107/56/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtVIII
 [/us/stat/115/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F382
 [/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
 

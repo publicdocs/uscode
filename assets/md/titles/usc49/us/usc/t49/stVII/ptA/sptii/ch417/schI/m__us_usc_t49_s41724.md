@@ -57,11 +57,13 @@
 
     The requirements of this section shall become effective on the date of issuance of the final regulations under subsection (b).
 
-(Added [Pub. L. 112–95, title IV, § 403(a)][/us/pl/112/95/s403/a], Feb. 14, 2012, [126 Stat. 84][/us/stat/126/84].)
+(Added [Pub. L. 112–95, title IV][/us/pl/112/95/tIV], § 403(a), Feb. 14, 2012, [126 Stat. 84][/us/stat/126/84].)
 
  __References in Text__ 
 
     The date of enactment of this section, referred to in subsec. (b), is the date of enactment of [Pub. L. 112–95][/us/pl/112/95], which was approved Feb. 14, 2012.
+
+    The final regulations under subsection (b), referred to in subsec. (c), were issued Dec. 29, 2014, effective Mar. 6, 2015. See 80 F.R. 161.
 
 ----------
 
@@ -70,7 +72,7 @@
 ----------
 ----------
 
-[/us/pl/112/95/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs403%2Fa
+[/us/pl/112/95/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtIV
 [/us/stat/126/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F84
 [/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
 

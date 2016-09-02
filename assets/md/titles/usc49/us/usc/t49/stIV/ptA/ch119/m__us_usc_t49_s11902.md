@@ -27,17 +27,17 @@
 
         shall be fined not more than $1,000, imprisoned for not more than 2 years, or both.
 
-(Added [Pub. L. 104–88, title I, § 102(a)][/us/pl/104/88/s102/a], Dec. 29, 1995, [109 Stat. 850][/us/stat/109/850].)
+(Added [Pub. L. 104–88, title I][/us/pl/104/88/tI], § 102(a), Dec. 29, 1995, [109 Stat. 850][/us/stat/109/850].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [section 11907 of this title][/us/usc/t49/s11907] prior to the general amendment of this subtitle by [Pub. L. 104–88, § 102(a)][/us/pl/104/88/s102/a].
+    Provisions similar to those in this section were contained in [section 11907 of this title][/us/usc/t49/s11907] prior to the general amendment of this subtitle by [Pub. L. 104–88][/us/pl/104/88], § 102(a).
 
-    Prior sections 11902 and 11902a were omitted in the general amendment of this subtitle by [Pub. L. 104–88, § 102(a)][/us/pl/104/88/s102/a].
+    Prior sections 11902 and 11902a were omitted in the general amendment of this subtitle by [Pub. L. 104–88][/us/pl/104/88], § 102(a).
 
     Section 11902, [Pub. L. 95–473][/us/pl/95/473], Oct. 17, 1978, [92 Stat. 1457][/us/stat/92/1457], related to civil penalties for accepting rebates from common carriers. See [section 14902 of this title][/us/usc/t49/s14902].
 
-    Section 11902a, added [Pub. L. 96–296, § 15(b)(1)][/us/pl/96/296/s15/b/1], July 1, 1980, [94 Stat. 809][/us/stat/94/809], related to penalties for violations of rules relating to loading and unloading motor vehicles. See [section 14905 of this title][/us/usc/t49/s14905].
+    Section 11902a, added [Pub. L. 96–296][/us/pl/96/296], § 15(b)(1), July 1, 1980, [94 Stat. 809][/us/stat/94/809], related to penalties for violations of rules relating to loading and unloading motor vehicles. See [section 14905 of this title][/us/usc/t49/s14905].
 
 ----------
 
@@ -46,15 +46,15 @@
 ----------
 ----------
 
-[/us/pl/104/88/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs102%2Fa
+[/us/pl/104/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtI
 [/us/stat/109/850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F850
 [/us/usc/t49/s11907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs11907
-[/us/pl/104/88/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs102%2Fa
-[/us/pl/104/88/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs102%2Fa
+[/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
+[/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/95/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F473
 [/us/stat/92/1457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1457
 [/us/usc/t49/s14902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs14902
-[/us/pl/96/296/s15/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F296%2Fs15%2Fb%2F1
+[/us/pl/96/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F296
 [/us/stat/94/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F809
 [/us/usc/t49/s14905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs14905
 

@@ -157,7 +157,7 @@
 
             (B) 3 full model years of regulatory stability.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1059][/us/stat/108/1059]; [Pub. L. 110–140, title I][/us/pl/110/140], §§ 102, 104(b)(1), Dec. 19, 2007, [121 Stat. 1498][/us/stat/121/1498], 1503.)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1059][/us/stat/108/1059]; [Pub. L. 110–140, title I][/us/pl/110/140/tI], §§ 102, 104(b)(1), Dec. 19, 2007, [121 Stat. 1498][/us/stat/121/1498], 1503.)
 
 <table>
 
@@ -413,15 +413,15 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, § 502(i), (j); added Aug. 4, 1
 
  __Amendments__ 
 
-    2007—Subsec. (a). [Pub. L. 110–140, § 102(a)(1)][/us/pl/110/140/s102/a/1], in heading, substituted “Prescription of Standards by Regulation” for “Non-Passenger Automobiles”, and, in text, struck out “(except passenger automobiles)” after “for automobiles” and “The Secretary may prescribe separate standards for different classes of automobiles.” at end.
+    2007—Subsec. (a). [Pub. L. 110–140][/us/pl/110/140], § 102(a)(1), in heading, substituted “Prescription of Standards by Regulation” for “Non-Passenger Automobiles”, and, in text, struck out “(except passenger automobiles)” after “for automobiles” and “The Secretary may prescribe separate standards for different classes of automobiles.” at end.
 
-    Subsec. (b). [Pub. L. 110–140, § 102(a)(2)][/us/pl/110/140/s102/a/2], added subsec. (b) and struck out former subsec. (b). Prior to amendment, text of subsec. (b) read as follows: “Except as provided in this section, the average fuel economy standard for passenger automobiles manufactured by a manufacturer in a model year after model year 1984 shall be 27.5 miles a gallon.”
+    Subsec. (b). [Pub. L. 110–140][/us/pl/110/140], § 102(a)(2), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text of subsec. (b) read as follows: “Except as provided in this section, the average fuel economy standard for passenger automobiles manufactured by a manufacturer in a model year after model year 1984 shall be 27.5 miles a gallon.”
 
-    Subsec. (c). [Pub. L. 110–140, § 102(a)(3)][/us/pl/110/140/s102/a/3], substituted “The Secretary” for “(1) Subject to paragraph (2) of this subsection, the Secretary” and struck out par. (2) which read as follows: “If an amendment increases the standard above 27.5 miles a gallon or decreases the standard below 26.0 miles a gallon, the Secretary of Transportation shall submit the amendment to Congress. The procedures of section 551 of the Energy Policy and Conservation Act ([42 U.S.C. 6421][/us/usc/t42/s6421]) apply to an amendment, except that the 15 calendar days referred to in section 551(c) and (d) of the Act ([42 U.S.C. 6421(c)][/us/usc/t42/s6421/c], (d)) are deemed to be 60 calendar days, and the 5 calendar days referred to in section 551(f)(4)(A) of the Act ([42 U.S.C. 6421(f)(4)(A)][/us/usc/t42/s6421/f/4/A]) are deemed to be 20 calendar days. If either House of Congress disapproves the amendment under those procedures, the amendment does not take effect.”
+    Subsec. (c). [Pub. L. 110–140][/us/pl/110/140], § 102(a)(3), substituted “The Secretary” for “(1) Subject to paragraph (2) of this subsection, the Secretary” and struck out par. (2) which read as follows: “If an amendment increases the standard above 27.5 miles a gallon or decreases the standard below 26.0 miles a gallon, the Secretary of Transportation shall submit the amendment to Congress. The procedures of section 551 of the Energy Policy and Conservation Act ([42 U.S.C. 6421][/us/usc/t42/s6421]) apply to an amendment, except that the 15 calendar days referred to in section 551(c) and (d) of the Act ([42 U.S.C. 6421(c)][/us/usc/t42/s6421/c], (d)) are deemed to be 60 calendar days, and the 5 calendar days referred to in section 551(f)(4)(A) of the Act ([42 U.S.C. 6421(f)(4)(A)][/us/usc/t42/s6421/f/4/A]) are deemed to be 20 calendar days. If either House of Congress disapproves the amendment under those procedures, the amendment does not take effect.”
 
-    Subsec. (h)(3). [Pub. L. 110–140, § 104(b)(1)][/us/pl/110/140/s104/b/1], added par. (3).
+    Subsec. (h)(3). [Pub. L. 110–140][/us/pl/110/140], § 104(b)(1), added par. (3).
 
-    Subsec. (k). [Pub. L. 110–140, § 102(b)][/us/pl/110/140/s102/b], added subsec. (k).
+    Subsec. (k). [Pub. L. 110–140][/us/pl/110/140], § 102(b), added subsec. (k).
 
  __Effective Date of 2007 Amendment__ 
 
@@ -429,13 +429,13 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, § 502(i), (j); added Aug. 4, 1
 
  __Continued Applicability of Existing Standards__ 
 
-[Pub. L. 110–140, title I, § 106][/us/pl/110/140/s106], Dec. 19, 2007, [121 Stat. 1504][/us/stat/121/1504], provided that: 
+[Pub. L. 110–140, title I][/us/pl/110/140/tI], § 106, Dec. 19, 2007, [121 Stat. 1504][/us/stat/121/1504], provided that: 
 
 > “Nothing in this subtitle \[subtitle A (§§ 101–113) of title I of [Pub. L. 110–140][/us/pl/110/140], see Short Title of 2007 Amendment note set out under [section 30101 of this title][/us/usc/t49/s30101]\], or the amendments made by this subtitle, shall be construed to affect the application of [section 32902 of title 49][/us/usc/t49/s32902], United States Code, to passenger automobiles or non-passenger automobiles manufactured before model year 2011.”
 
  __National Academy of Sciences Studies__ 
 
-[Pub. L. 110–140, title I, § 107][/us/pl/110/140/s107], Dec. 19, 2007, [121 Stat. 1504][/us/stat/121/1504], provided that:
+[Pub. L. 110–140, title I][/us/pl/110/140/tI], § 107, Dec. 19, 2007, [121 Stat. 1504][/us/stat/121/1504], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -546,29 +546,29 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, § 502(i), (j); added Aug. 4, 1
 [/us/usc/t49/s30141/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30141%2Fc
 [/us/usc/t49/s30142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30142
 [/us/usc/t49/s32903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs32903
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1059
-[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtI
 [/us/stat/121/1498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1498
 [/us/pl/110/140/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs108
 [/us/stat/121/1505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1505
-[/us/pl/110/140/s102/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs102%2Fa%2F1
-[/us/pl/110/140/s102/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs102%2Fa%2F2
-[/us/pl/110/140/s102/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs102%2Fa%2F3
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/usc/t42/s6421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6421
 [/us/usc/t42/s6421/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6421%2Fc
 [/us/usc/t42/s6421/f/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6421%2Ff%2F4%2FA
-[/us/pl/110/140/s104/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs104%2Fb%2F1
-[/us/pl/110/140/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs102%2Fb
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/110/140/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1601
 [/us/usc/t2/s1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1824
-[/us/pl/110/140/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs106
+[/us/pl/110/140/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtI
 [/us/stat/121/1504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1504
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/usc/t49/s30101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30101
 [/us/usc/t49/s32902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs32902
-[/us/pl/110/140/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs107
+[/us/pl/110/140/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtI
 [/us/stat/121/1504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1504
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/usc/t49/s30101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30101

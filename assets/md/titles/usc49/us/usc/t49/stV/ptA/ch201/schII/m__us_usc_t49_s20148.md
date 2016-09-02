@@ -39,7 +39,7 @@
 
     In prescribing regulations under subsection (b), the Secretary may exclude from any specific visibility requirement any category of trains or railroad operations if the Secretary determines that such an exclusion is in the public interest and is consistent with railroad safety.
 
-(Added [Pub. L. 103–440, title II, § 212(a)][/us/pl/103/440/s212/a], Nov. 2, 1994, [108 Stat. 4622][/us/stat/108/4622].)
+(Added [Pub. L. 103–440, title II][/us/pl/103/440/tII], § 212(a), Nov. 2, 1994, [108 Stat. 4622][/us/stat/108/4622].)
 
 ----------
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/103/440/s212/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F440%2Fs212%2Fa
+[/us/pl/103/440/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F440%2FtII
 [/us/stat/108/4622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4622
 
 

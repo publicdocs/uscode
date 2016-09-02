@@ -53,19 +53,19 @@
 
     No State or political subdivision thereof may enact, prescribe, issue, continue in effect, or enforce any law (including any regulation, standard, or other provision having the force and effect of law) that prohibits, penalizes, or imposes liability for furnishing or using safety performance records in accordance with regulations issued by the Secretary to carry out this section. Notwithstanding any provision of law, written authorization shall not be required to obtain information on the motor vehicle driving record of an individual under consideration for employment with a motor carrier.
 
-(Added [Pub. L. 105–178, title IV, § 4014(a)(1)][/us/pl/105/178/s4014/a/1], June 9, 1998, [112 Stat. 409][/us/stat/112/409].)
+(Added [Pub. L. 105–178, title IV][/us/pl/105/178/tIV], § 4014(a)(1), June 9, 1998, [112 Stat. 409][/us/stat/112/409].)
 
  __Codification__ 
 
-    [Pub. L. 105–178, title IV, § 4014(a)(1)][/us/pl/105/178/s4014/a/1], June 9, 1998, [112 Stat. 409][/us/stat/112/409], which directed the addition of section 508 at end of this chapter, was executed by adding this section at the end of subchapter I of this chapter to reflect the probable intent of Congress.
+    [Pub. L. 105–178, title IV][/us/pl/105/178/tIV], § 4014(a)(1), June 9, 1998, [112 Stat. 409][/us/stat/112/409], which directed the addition of section 508 at end of this chapter, was executed by adding this section at the end of subchapter I of this chapter to reflect the probable intent of Congress.
 
  __Prior Provisions__ 
 
-    A prior section 508, added [Pub. L. 102–548, § 2(a)][/us/pl/102/548/s2/a], Oct. 28, 1992, [106 Stat. 3646][/us/stat/106/3646], related to certification of weights and description, prior to repeal by [Pub. L. 103–272, § 4(j)(11)(B)][/us/pl/103/272/s4/j/11/B], July 5, 1994, [108 Stat. 1368][/us/stat/108/1368]. See chapter 59 of this title.
+    A prior section 508, added [Pub. L. 102–548][/us/pl/102/548], § 2(a), Oct. 28, 1992, [106 Stat. 3646][/us/stat/106/3646], related to certification of weights and description, prior to repeal by [Pub. L. 103–272][/us/pl/103/272], § 4(j)(11)(B), July 5, 1994, [108 Stat. 1368][/us/stat/108/1368]. See chapter 59 of this title.
 
  __Effective Date__ 
 
-[Pub. L. 105–178, title IV, § 4014(b)][/us/pl/105/178/s4014/b], June 9, 1998, [112 Stat. 411][/us/stat/112/411], provided that: 
+[Pub. L. 105–178, title IV][/us/pl/105/178/tIV], § 4014(b), June 9, 1998, [112 Stat. 411][/us/stat/112/411], provided that: 
 
 > “The amendments made by subsection (a) \[enacting this section\] shall take effect on January 31, 1999.”
 
@@ -76,15 +76,15 @@
 ----------
 ----------
 
-[/us/pl/105/178/s4014/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4014%2Fa%2F1
+[/us/pl/105/178/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtIV
 [/us/stat/112/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F409
-[/us/pl/105/178/s4014/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4014%2Fa%2F1
+[/us/pl/105/178/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtIV
 [/us/stat/112/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F409
-[/us/pl/102/548/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F548%2Fs2%2Fa
+[/us/pl/102/548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F548
 [/us/stat/106/3646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3646
-[/us/pl/103/272/s4/j/11/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs4%2Fj%2F11%2FB
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1368
-[/us/pl/105/178/s4014/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4014%2Fb
+[/us/pl/105/178/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtIV
 [/us/stat/112/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F411
 
 

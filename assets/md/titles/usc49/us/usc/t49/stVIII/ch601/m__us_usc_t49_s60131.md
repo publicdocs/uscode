@@ -93,7 +93,7 @@
 
     Not later than 4 years after the date of enactment of this section, the Secretary shall transmit to Congress a report on the status and results to date of the personnel qualification regulations issued under this chapter.
 
-(Added [Pub. L. 107–355, § 13(a)(1)][/us/pl/107/355/s13/a/1], Dec. 17, 2002, [116 Stat. 2999][/us/stat/116/2999].)
+(Added [Pub. L. 107–355][/us/pl/107/355], § 13(a)(1), Dec. 17, 2002, [116 Stat. 2999][/us/stat/116/2999].)
 
  __References in Text__ 
 
@@ -101,7 +101,7 @@
 
  __Pilot Program for Certification of Certain Pipeline Workers__ 
 
-[Pub. L. 107–355, § 13(b)][/us/pl/107/355/s13/b], Dec. 17, 2002, [116 Stat. 3001][/us/stat/116/3001], provided that:
+[Pub. L. 107–355][/us/pl/107/355], § 13(b), Dec. 17, 2002, [116 Stat. 3001][/us/stat/116/3001], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -134,10 +134,10 @@
 ----------
 ----------
 
-[/us/pl/107/355/s13/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355%2Fs13%2Fa%2F1
+[/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355
 [/us/stat/116/2999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2999
 [/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355
-[/us/pl/107/355/s13/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355%2Fs13%2Fb
+[/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355
 [/us/stat/116/3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3001
 
 

@@ -97,7 +97,7 @@
 
     The Secretary and the Airports Authority may at any time negotiate an extension of the lease.
 
-(Added [Pub. L. 105–102, § 2(26)][/us/pl/105/102/s2/26], Nov. 20, 1997, [111 Stat. 2207][/us/stat/111/2207]; amended [Pub. L. 105–154, § 2(a)(1)(D)][/us/pl/105/154/s2/a/1/D], Feb. 6, 1998, [112 Stat. 3][/us/stat/112/3]; [Pub. L. 106–181, title II, § 231(e)(2)][/us/pl/106/181/s231/e/2], Apr. 5, 2000, [114 Stat. 113][/us/stat/114/113]; [Pub. L. 112–95, title IV, § 414(e)][/us/pl/112/95/s414/e], Feb. 14, 2012, [126 Stat. 92][/us/stat/126/92].)
+(Added [Pub. L. 105–102][/us/pl/105/102], § 2(26), Nov. 20, 1997, [111 Stat. 2207][/us/stat/111/2207]; amended [Pub. L. 105–154][/us/pl/105/154], § 2(a)(1)(D), Feb. 6, 1998, [112 Stat. 3][/us/stat/112/3]; [Pub. L. 106–181, title II][/us/pl/106/181/tII], § 231(e)(2), Apr. 5, 2000, [114 Stat. 113][/us/stat/114/113]; [Pub. L. 112–95, title IV][/us/pl/112/95/tIV], § 414(e), Feb. 14, 2012, [126 Stat. 92][/us/stat/126/92].)
 
 <table>
 
@@ -295,9 +295,9 @@ Oct. 30, 1986, Pub. L. 99–591, title VI, § 6010, 100 Stat. 3341–388.  </t
 
  __References in Text__ 
 
-    Section 6005(a) of the Metropolitan Washington Airports Act of 1986, referred to in subsec. (a), is [section 6005(a) of Pub. L. 99–500][/us/pl/99/500/s6005/a], title VI, Oct. 18, 1986, [100 Stat. 1783–375][/us/stat/100/1783-375], and [Pub. L. 99–591, title VI][/us/pl/99/591], Oct. 30, 1986, [100 Stat. 3341–378][/us/stat/100/3341-378], which was classified to section 2454(a) of former Title 49, Transportation, and was repealed and reenacted as subsec. (a) of this section by [Pub. L. 105–102][/us/pl/105/102], §§ 2(26), 5(b), Nov. 20, 1997, [111 Stat. 2205][/us/stat/111/2205], 2217.
+    Section 6005(a) of the Metropolitan Washington Airports Act of 1986, referred to in subsec. (a), is [section 6005(a) of Pub. L. 99–500][/us/pl/99/500/s6005/a], title VI, Oct. 18, 1986, [100 Stat. 1783–375][/us/stat/100/1783-375], and [Pub. L. 99–591, title VI][/us/pl/99/591/tVI], Oct. 30, 1986, [100 Stat. 3341–378][/us/stat/100/3341-378], which was classified to section 2454(a) of former Title 49, Transportation, and was repealed and reenacted as subsec. (a) of this section by [Pub. L. 105–102][/us/pl/105/102], §§ 2(26), 5(b), Nov. 20, 1997, [111 Stat. 2205][/us/stat/111/2205], 2217.
 
-    The Airport and Airway Improvement Act of 1982, referred to in subsec. (a)(3), is title V of [Pub. L. 97–248][/us/pl/97/248], Sept. 3, 1982, [96 Stat. 671][/us/stat/96/671], as amended, which was classified principally to chapter 31 (§ 2201 et seq.) of former Title 49, Transportation, and was substantially repealed by [Pub. L. 103–272, § 7(b)][/us/pl/103/272/s7/b], July 5, 1994, [108 Stat. 1379][/us/stat/108/1379], and reenacted by the first section thereof as subchapter I of chapter 471 of Title 49, Transportation.
+    The Airport and Airway Improvement Act of 1982, referred to in subsec. (a)(3), is title V of [Pub. L. 97–248][/us/pl/97/248], Sept. 3, 1982, [96 Stat. 671][/us/stat/96/671], as amended, which was classified principally to chapter 31 (§ 2201 et seq.) of former Title 49, Transportation, and was substantially repealed by [Pub. L. 103–272][/us/pl/103/272], § 7(b), July 5, 1994, [108 Stat. 1379][/us/stat/108/1379], and reenacted by the first section thereof as subchapter I of chapter 471 of Title 49, Transportation.
 
  __Prior Provisions__ 
 
@@ -331,13 +331,13 @@ Oct. 30, 1986, Pub. L. 99–591, title VI, § 6010, 100 Stat. 3341–388.  </t
 [/us/usc/t49/s47107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs47107%2Fb
 [/us/usc/t5/s8147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8147
 [/us/usc/t49/s49106/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs49106%2Fd
-[/us/pl/105/102/s2/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102%2Fs2%2F26
+[/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/stat/111/2207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2207
-[/us/pl/105/154/s2/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F154%2Fs2%2Fa%2F1%2FD
+[/us/pl/105/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F154
 [/us/stat/112/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3
-[/us/pl/106/181/s231/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs231%2Fe%2F2
+[/us/pl/106/181/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtII
 [/us/stat/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F113
-[/us/pl/112/95/s414/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs414%2Fe
+[/us/pl/112/95/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtIV
 [/us/stat/126/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F92
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-375
@@ -350,13 +350,13 @@ Oct. 30, 1986, Pub. L. 99–591, title VI, § 6010, 100 Stat. 3341–388.  </t
 [/us/stat/100/3341-378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-378
 [/us/pl/99/500/s6005/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs6005%2Fa
 [/us/stat/100/1783-375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-375
-[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
+[/us/pl/99/591/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2FtVI
 [/us/stat/100/3341-378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-378
 [/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/stat/111/2205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2205
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
 [/us/stat/96/671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F671
-[/us/pl/103/272/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs7%2Fb
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1379
 [/us/usc/t49/s50104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs50104
 [/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95

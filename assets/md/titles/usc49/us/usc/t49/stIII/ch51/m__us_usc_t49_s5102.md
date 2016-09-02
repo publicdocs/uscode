@@ -149,7 +149,7 @@
 
     (14) “United States” means all of the States.
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 759][/us/stat/108/759]; [Pub. L. 103–311, title I, § 117(a)(1)][/us/pl/103/311/s117/a/1], Aug. 26, 1994, [108 Stat. 1678][/us/stat/108/1678]; [Pub. L. 104–88, title III, § 308(d)][/us/pl/104/88/s308/d], Dec. 29, 1995, [109 Stat. 947][/us/stat/109/947]; [Pub. L. 109–59, title VII][/us/pl/109/59], §§ 7102, 7126, Aug. 10, 2005, [119 Stat. 1892][/us/stat/119/1892], 1909; [Pub. L. 110–244, title III, § 302(a)][/us/pl/110/244/s302/a], June 6, 2008, [122 Stat. 1618][/us/stat/122/1618].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(d), July 5, 1994, [108 Stat. 759][/us/stat/108/759]; [Pub. L. 103–311, title I][/us/pl/103/311/tI], § 117(a)(1), Aug. 26, 1994, [108 Stat. 1678][/us/stat/108/1678]; [Pub. L. 104–88, title III][/us/pl/104/88/tIII], § 308(d), Dec. 29, 1995, [109 Stat. 947][/us/stat/109/947]; [Pub. L. 109–59, title VII][/us/pl/109/59/tVII], §§ 7102, 7126, Aug. 10, 2005, [119 Stat. 1892][/us/stat/119/1892], 1909; [Pub. L. 110–244, title III][/us/pl/110/244/tIII], § 302(a), June 6, 2008, [122 Stat. 1618][/us/stat/122/1618].)
 
 <table>
 
@@ -379,35 +379,35 @@ Jan. 3, 1975, Pub. L. 93–633, § 103, 88 Stat. 2156; restated Nov. 16, 1990,
 
  __Amendments__ 
 
-    2008—Par. (3). [Pub. L. 110–244][/us/pl/110/244] amended [Pub. L. 109–59, § 7102(2)][/us/pl/109/59/s7102/2]. See 2005 Amendment notes below.
+    2008—Par. (3). [Pub. L. 110–244][/us/pl/110/244] amended [Pub. L. 109–59][/us/pl/109/59], § 7102(2). See 2005 Amendment notes below.
 
-    2005—Par. (1)(C). [Pub. L. 109–59, § 7102(1)][/us/pl/109/59/s7102/1], added subpar. (C).
+    2005—Par. (1)(C). [Pub. L. 109–59][/us/pl/109/59], § 7102(1), added subpar. (C).
 
-    Par. (2). [Pub. L. 109–59, § 7126][/us/pl/109/59/s7126], substituted “Secretary” for “Secretary of Transportation”.
+    Par. (2). [Pub. L. 109–59][/us/pl/109/59], § 7126, substituted “Secretary” for “Secretary of Transportation”.
 
-    Par. (3)(A)(i). [Pub. L. 109–59, § 7102(2)(A)][/us/pl/109/59/s7102/2/A], as amended by [Pub. L. 110–244, § 302(a)(1)][/us/pl/110/244/s302/a/1], (2), added cl. (i) and struck out former cl. (i) which read as follows: “employed by a hazmat employer; and”.
+    Par. (3)(A)(i). [Pub. L. 109–59][/us/pl/109/59], § 7102(2)(A), as amended by [Pub. L. 110–244][/us/pl/110/244], § 302(a)(1), (2), added cl. (i) and struck out former cl. (i) which read as follows: “employed by a hazmat employer; and”.
 
-    Par. (3)(A)(ii). [Pub. L. 109–59, § 7102(2)(B)][/us/pl/109/59/s7102/2/B], as amended by [Pub. L. 110–244, § 302(a)(1)][/us/pl/110/244/s302/a/1], (3), substituted “course of such full time, part time, or temporary employment, or such self employment,” for “course of employment” and inserted “and” at end.
+    Par. (3)(A)(ii). [Pub. L. 109–59][/us/pl/109/59], § 7102(2)(B), as amended by [Pub. L. 110–244][/us/pl/110/244], § 302(a)(1), (3), substituted “course of such full time, part time, or temporary employment, or such self employment,” for “course of employment” and inserted “and” at end.
 
-    Par. (3)(B). [Pub. L. 109–59, § 7102(2)(D)(i)][/us/pl/109/59/s7102/2/D/i], as amended by [Pub. L. 110–244, § 302(a)(1)][/us/pl/110/244/s302/a/1], substituted “employed on a full time, part time, or temporary basis by a hazmat employer, or self employed,” for “employed by a hazmat employer,” in introductory provisions.
+    Par. (3)(B). [Pub. L. 109–59][/us/pl/109/59], § 7102(2)(D)(i), as amended by [Pub. L. 110–244][/us/pl/110/244], § 302(a)(1), substituted “employed on a full time, part time, or temporary basis by a hazmat employer, or self employed,” for “employed by a hazmat employer,” in introductory provisions.
 
-    [Pub. L. 109–59, § 7102(2)(C)][/us/pl/109/59/s7102/2/C], as amended by [Pub. L. 110–244, § 302(a)(1)][/us/pl/110/244/s302/a/1], redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “includes an owner-operator of a motor vehicle transporting hazardous material in commerce; and”.
+    [Pub. L. 109–59][/us/pl/109/59], § 7102(2)(C), as amended by [Pub. L. 110–244][/us/pl/110/244], § 302(a)(1), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “includes an owner-operator of a motor vehicle transporting hazardous material in commerce; and”.
 
-    Par. (3)(B)(ii). [Pub. L. 109–59, § 7102(2)(D)(ii)][/us/pl/109/59/s7102/2/D/ii], as amended by [Pub. L. 110–244, § 302(a)(1)][/us/pl/110/244/s302/a/1], added cl. (ii) and struck out former cl. (ii) which read as follows: “manufactures, reconditions, or tests containers, drums, and packagings represented as qualified for use in transporting hazardous material;”.
+    Par. (3)(B)(ii). [Pub. L. 109–59][/us/pl/109/59], § 7102(2)(D)(ii), as amended by [Pub. L. 110–244][/us/pl/110/244], § 302(a)(1), added cl. (ii) and struck out former cl. (ii) which read as follows: “manufactures, reconditions, or tests containers, drums, and packagings represented as qualified for use in transporting hazardous material;”.
 
-    Par. (3)(C). [Pub. L. 109–59, § 7102(2)(C)][/us/pl/109/59/s7102/2/C], as amended by [Pub. L. 110–244, § 302(a)(1)][/us/pl/110/244/s302/a/1], redesignated subpar. (C) as (B).
+    Par. (3)(C). [Pub. L. 109–59][/us/pl/109/59], § 7102(2)(C), as amended by [Pub. L. 110–244][/us/pl/110/244], § 302(a)(1), redesignated subpar. (C) as (B).
 
-    Par. (4). [Pub. L. 109–59, § 7102(3)][/us/pl/109/59/s7102/3], amended par. (4) generally. Prior to amendment, par. (4) consisted of subpars. (A) to (C), which included within definition of “hazmat employer” a person using at least one employee in connection with transporting or containers for transporting hazardous material, an owner-operator of a motor vehicle transporting hazardous material in commerce, and a department, agency, or instrumentality of the United States Government, or an authority of a State, political subdivision of a State, or Indian tribe, carrying out certain described activities.
+    Par. (4). [Pub. L. 109–59][/us/pl/109/59], § 7102(3), amended par. (4) generally. Prior to amendment, par. (4) consisted of subpars. (A) to (C), which included within definition of “hazmat employer” a person using at least one employee in connection with transporting or containers for transporting hazardous material, an owner-operator of a motor vehicle transporting hazardous material in commerce, and a department, agency, or instrumentality of the United States Government, or an authority of a State, political subdivision of a State, or Indian tribe, carrying out certain described activities.
 
-    Par. (5). [Pub. L. 109–59, § 7102(4)][/us/pl/109/59/s7102/4], inserted “relating to hazardous material” after “of a condition”.
+    Par. (5). [Pub. L. 109–59][/us/pl/109/59], § 7102(4), inserted “relating to hazardous material” after “of a condition”.
 
-    Par. (7). [Pub. L. 109–59, § 7102(5)][/us/pl/109/59/s7102/5], amended par. (7) generally. Prior to amendment, par. (7) read as follows: “ ‘motor carrier’ means a motor carrier, motor private carrier, and freight forwarder as those terms are defined in [section 13102 of this title][/us/usc/t49/s13102].”
+    Par. (7). [Pub. L. 109–59][/us/pl/109/59], § 7102(5), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “ ‘motor carrier’ means a motor carrier, motor private carrier, and freight forwarder as those terms are defined in [section 13102 of this title][/us/usc/t49/s13102].”
 
-    Par. (8). [Pub. L. 109–59, § 7102(6)][/us/pl/109/59/s7102/6], substituted “National Response Team” for “national response team” in two places and “National Contingency Plan” for “national contingency plan”.
+    Par. (8). [Pub. L. 109–59][/us/pl/109/59], § 7102(6), substituted “National Response Team” for “national response team” in two places and “National Contingency Plan” for “national contingency plan”.
 
-    Par. (9)(A). [Pub. L. 109–59, § 7102(7)][/us/pl/109/59/s7102/7], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “includes a government, Indian tribe, or authority of a government or tribe offering hazardous material for transportation in commerce or transporting hazardous material to further a commercial enterprise; but”.
+    Par. (9)(A). [Pub. L. 109–59][/us/pl/109/59], § 7102(7), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “includes a government, Indian tribe, or authority of a government or tribe offering hazardous material for transportation in commerce or transporting hazardous material to further a commercial enterprise; but”.
 
-    Pars. (11) to (14). [Pub. L. 109–59, § 7102(8)][/us/pl/109/59/s7102/8], added par. (11) and redesignated former pars. (11) to (13) as (12) to (14), respectively.
+    Pars. (11) to (14). [Pub. L. 109–59][/us/pl/109/59], § 7102(8), added par. (11) and redesignated former pars. (11) to (13) as (12) to (14), respectively.
 
     1995—Par. (7). [Pub. L. 104–88][/us/pl/104/88] substituted “motor carrier, motor private” for “motor common carrier, motor contract carrier, motor private” and “section 13102” for “section 10102”.
 
@@ -430,39 +430,39 @@ Jan. 3, 1975, Pub. L. 93–633, § 103, 88 Stat. 2156; restated Nov. 16, 1990,
 [/us/usc/t1/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft1%2Fs1
 [/us/usc/t49/s5119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5119
 [/us/usc/t49/s5119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5119
-[/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F759
-[/us/pl/103/311/s117/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311%2Fs117%2Fa%2F1
+[/us/pl/103/311/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311%2FtI
 [/us/stat/108/1678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1678
-[/us/pl/104/88/s308/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs308%2Fd
+[/us/pl/104/88/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtIII
 [/us/stat/109/947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F947
-[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtVII
 [/us/stat/119/1892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1892
-[/us/pl/110/244/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs302%2Fa
+[/us/pl/110/244/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2FtIII
 [/us/stat/122/1618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1618
 [/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
-[/us/pl/109/59/s7102/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7102%2F2
-[/us/pl/109/59/s7102/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7102%2F1
-[/us/pl/109/59/s7126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7126
-[/us/pl/109/59/s7102/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7102%2F2%2FA
-[/us/pl/110/244/s302/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs302%2Fa%2F1
-[/us/pl/109/59/s7102/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7102%2F2%2FB
-[/us/pl/110/244/s302/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs302%2Fa%2F1
-[/us/pl/109/59/s7102/2/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7102%2F2%2FD%2Fi
-[/us/pl/110/244/s302/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs302%2Fa%2F1
-[/us/pl/109/59/s7102/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7102%2F2%2FC
-[/us/pl/110/244/s302/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs302%2Fa%2F1
-[/us/pl/109/59/s7102/2/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7102%2F2%2FD%2Fii
-[/us/pl/110/244/s302/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs302%2Fa%2F1
-[/us/pl/109/59/s7102/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7102%2F2%2FC
-[/us/pl/110/244/s302/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs302%2Fa%2F1
-[/us/pl/109/59/s7102/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7102%2F3
-[/us/pl/109/59/s7102/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7102%2F4
-[/us/pl/109/59/s7102/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7102%2F5
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/usc/t49/s13102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs13102
-[/us/pl/109/59/s7102/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7102%2F6
-[/us/pl/109/59/s7102/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7102%2F7
-[/us/pl/109/59/s7102/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7102%2F8
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/103/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311
 [/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244

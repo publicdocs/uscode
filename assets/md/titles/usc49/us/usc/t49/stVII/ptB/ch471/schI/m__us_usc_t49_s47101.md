@@ -149,7 +149,7 @@
 
         (4) another factor affecting the environment.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1246][/us/stat/108/1246]; [Pub. L. 103–305, title I][/us/pl/103/305], §§ 104, 110, Aug. 23, 1994, [108 Stat. 1571][/us/stat/108/1571], 1573; [Pub. L. 103–429, § 6(62)][/us/pl/103/429/s6/62], Oct. 31, 1994, [108 Stat. 4385][/us/stat/108/4385]; [Pub. L. 104–264, title I, § 141][/us/pl/104/264/s141], Oct. 9, 1996, [110 Stat. 3220][/us/stat/110/3220]; [Pub. L. 106–181, title I][/us/pl/106/181], §§ 121(a), (b), 137(a), Apr. 5, 2000, [114 Stat. 74][/us/stat/114/74], 85; [Pub. L. 112–95, title I, § 131][/us/pl/112/95/s131], Feb. 14, 2012, [126 Stat. 21][/us/stat/126/21].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1246][/us/stat/108/1246]; [Pub. L. 103–305, title I][/us/pl/103/305/tI], §§ 104, 110, Aug. 23, 1994, [108 Stat. 1571][/us/stat/108/1571], 1573; [Pub. L. 103–429][/us/pl/103/429], § 6(62), Oct. 31, 1994, [108 Stat. 4385][/us/stat/108/4385]; [Pub. L. 104–264, title I][/us/pl/104/264/tI], § 141, Oct. 9, 1996, [110 Stat. 3220][/us/stat/110/3220]; [Pub. L. 106–181, title I][/us/pl/106/181/tI], §§ 121(a), (b), 137(a), Apr. 5, 2000, [114 Stat. 74][/us/stat/114/74], 85; [Pub. L. 112–95, title I][/us/pl/112/95/tI], § 131, Feb. 14, 2012, [126 Stat. 21][/us/stat/126/21].)
 
 <table>
 
@@ -513,21 +513,21 @@ Sept. 3, 1982, Pub. L. 97–248, § 502(a)(4), 96 Stat. 671; Dec. 30, 1987, Pu
 
     2012—Subsec. (g)(2)(C), (D). [Pub. L. 112–95][/us/pl/112/95] added subpar. (C) and redesignated former subpar. (C) as (D).
 
-    2000—Subsec. (a)(5). [Pub. L. 106–181, § 137(a)][/us/pl/106/181/s137/a], amended par. (5) generally. Prior to amendment, par. (5) read as follows: “to encourage the development of transportation systems that use various modes of transportation in a way that will serve the States and local communities efficiently and effectively;”.
+    2000—Subsec. (a)(5). [Pub. L. 106–181][/us/pl/106/181], § 137(a), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “to encourage the development of transportation systems that use various modes of transportation in a way that will serve the States and local communities efficiently and effectively;”.
 
-    Subsec. (a)(11). [Pub. L. 106–181, § 121(a)][/us/pl/106/181/s121/a], inserted “(including integrated in-pavement lighting systems for runways and taxiways and other runway and taxiway incursion prevention devices)” after “employ innovative technology”.
+    Subsec. (a)(11). [Pub. L. 106–181][/us/pl/106/181], § 121(a), inserted “(including integrated in-pavement lighting systems for runways and taxiways and other runway and taxiway incursion prevention devices)” after “employ innovative technology”.
 
-    Subsec. (f)(11). [Pub. L. 106–181, § 121(b)][/us/pl/106/181/s121/b], added par. (11).
+    Subsec. (f)(11). [Pub. L. 106–181][/us/pl/106/181], § 121(b), added par. (11).
 
     1996—Subsec. (g). [Pub. L. 104–264][/us/pl/104/264] substituted “Intermodal Planning” for “Cooperation” in heading and amended text generally. Prior to amendment, text read as follows: “To carry out the policy of subsection (a)(5) of this section, the Secretary of Transportation shall cooperate with State and local officials in developing airport plans and programs that are based on overall transportation needs. The airport plans and programs shall be developed in coordination with other transportation planning and considering comprehensive long-range land-use plans and overall social, economic, environmental, system performance, and energy conservation objectives. The process of developing airport plans and programs shall be continuing, cooperative, and comprehensive to the degree appropriate to the complexity of the transportation problems.”
 
-    1994—Subsec. (a)(11). [Pub. L. 103–305, § 104][/us/pl/103/305/s104], added par. (11).
+    1994—Subsec. (a)(11). [Pub. L. 103–305][/us/pl/103/305], § 104, added par. (11).
 
     Subsec. (a)(12). [Pub. L. 103–429][/us/pl/103/429] substituted “subchapter” for “Act”.
 
-    [Pub. L. 103–305, § 110][/us/pl/103/305/s110], added par. (12).
+    [Pub. L. 103–305][/us/pl/103/305], § 110, added par. (12).
 
-    Subsec. (a)(13). [Pub. L. 103–305, § 110][/us/pl/103/305/s110], added par. (13).
+    Subsec. (a)(13). [Pub. L. 103–305][/us/pl/103/305], § 110, added par. (13).
 
  __Effective Date of 2000 Amendment__ 
 
@@ -543,7 +543,7 @@ Sept. 3, 1982, Pub. L. 97–248, § 502(a)(4), 96 Stat. 671; Dec. 30, 1987, Pu
 
  __Runway Safety__ 
 
-[Pub. L. 112–95, title III, § 314][/us/pl/112/95/s314], Feb. 14, 2012, [126 Stat. 67][/us/stat/126/67], provided that:
+[Pub. L. 112–95, title III][/us/pl/112/95/tIII], § 314, Feb. 14, 2012, [126 Stat. 67][/us/stat/126/67], provided that:
 
 >     “(a) __Strategic Runway Safety Plan.—__ 
 
@@ -587,29 +587,29 @@ Sept. 3, 1982, Pub. L. 97–248, § 502(a)(4), 96 Stat. 671; Dec. 30, 1987, Pu
 
  __Availability of Gates and Other Essential Services__ 
 
-[Pub. L. 106–181, title I, § 155(d)][/us/pl/106/181/s155/d], Apr. 5, 2000, [114 Stat. 89][/us/stat/114/89], provided that: 
+[Pub. L. 106–181, title I][/us/pl/106/181/tI], § 155(d), Apr. 5, 2000, [114 Stat. 89][/us/stat/114/89], provided that: 
 
 > “The Secretary \[of Transportation\] shall ensure that gates and other facilities are made available at costs that are fair and reasonable to air carriers at covered airports (as defined in section 47106(f)(4) \[47106(f)(3)\] of title 49, United States Code) where a ‘majority-in-interest clause’ of a contract or other agreement or arrangement inhibits the ability of the local airport authority to provide or build new gates or other facilities.”
 
  __Construction of Runways__ 
 
-[Pub. L. 106–181, title I, § 158][/us/pl/106/181/s158], Apr. 5, 2000, [114 Stat. 90][/us/stat/114/90], provided that: 
+[Pub. L. 106–181, title I][/us/pl/106/181/tI], § 158, Apr. 5, 2000, [114 Stat. 90][/us/stat/114/90], provided that: 
 
 > “Notwithstanding any provision of law that specifically restricts the number of runways at a single international airport, the Secretary \[of Transportation\] may obligate funds made available under chapters 471 and 481 of title 49, United States Code, for any project to construct a new runway at such airport, unless this section is expressly repealed.”
 
  __Innovative Financing Techniques__ 
 
-    [Pub. L. 104–264, title I, § 148][/us/pl/104/264/s148], Oct. 9, 1996, [110 Stat. 3223][/us/stat/110/3223], authorized the Secretary of Transportation until Sept. 30, 1998, to carry out a demonstration program to provide information on the use of innovative financing techniques for airport development projects to Congress and the National Civil Aviation Review Commission. See [section 47135 of this title][/us/usc/t49/s47135].
+    [Pub. L. 104–264, title I][/us/pl/104/264/tI], § 148, Oct. 9, 1996, [110 Stat. 3223][/us/stat/110/3223], authorized the Secretary of Transportation until Sept. 30, 1998, to carry out a demonstration program to provide information on the use of innovative financing techniques for airport development projects to Congress and the National Civil Aviation Review Commission. See [section 47135 of this title][/us/usc/t49/s47135].
 
  __Authority To Close Airport Located Near Closed or Realigned Military Base__ 
 
-[Pub. L. 104–264, title XII, § 1203][/us/pl/104/264/s1203], Oct. 9, 1996, [110 Stat. 3280][/us/stat/110/3280], provided that: 
+[Pub. L. 104–264, title XII][/us/pl/104/264/tXII], § 1203, Oct. 9, 1996, [110 Stat. 3280][/us/stat/110/3280], provided that: 
 
 > “Notwithstanding any other provision of a law, rule, or grant assurance, an airport that is not a commercial service airport may be closed by its sponsor without any obligation to repay grants made under chapter 471 of title 49, United States Code, the Airport and Airway Improvement Act of 1982 \[see References in Text note set out under [section 47108 of this title][/us/usc/t49/s47108]\], or any other law if the airport is located within 2 miles of a United States Army depot which has been closed or realigned; except that in the case of disposal of the land associated with the airport, the part of the proceeds from the disposal that is proportional to the Government’s share of the cost of acquiring the land shall be paid to the Secretary of Transportation for deposit in the Airport and Airway Trust Fund established under section 9502 of the Internal Revenue Code of 1986 ([26 U.S.C. 9502][/us/usc/t26/s9502]).”
 
  __Study on Innovative Financing__ 
 
-[Pub. L. 103–305, title V, § 520][/us/pl/103/305/s520], Aug. 23, 1994, [108 Stat. 1601][/us/stat/108/1601], provided that:
+[Pub. L. 103–305, title V][/us/pl/103/305/tV], § 520, Aug. 23, 1994, [108 Stat. 1601][/us/stat/108/1601], provided that:
 
 >     “(a)  __Study__  __.—__ 
 
@@ -641,30 +641,30 @@ Sept. 3, 1982, Pub. L. 97–248, § 502(a)(4), 96 Stat. 671; Dec. 30, 1987, Pu
 ----------
 
 [/us/usc/t49/s47107/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs47107%2Fb%2F1
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1246
-[/us/pl/103/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305
+[/us/pl/103/305/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2FtI
 [/us/stat/108/1571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1571
-[/us/pl/103/429/s6/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F62
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/stat/108/4385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4385
-[/us/pl/104/264/s141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs141
+[/us/pl/104/264/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2FtI
 [/us/stat/110/3220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3220
-[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/106/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtI
 [/us/stat/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F74
-[/us/pl/112/95/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs131
+[/us/pl/112/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtI
 [/us/stat/126/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F21
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
 [/us/stat/96/671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F671
 [/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
-[/us/pl/106/181/s137/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs137%2Fa
-[/us/pl/106/181/s121/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs121%2Fa
-[/us/pl/106/181/s121/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs121%2Fb
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
-[/us/pl/103/305/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2Fs104
+[/us/pl/103/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
-[/us/pl/103/305/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2Fs110
-[/us/pl/103/305/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2Fs110
+[/us/pl/103/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305
+[/us/pl/103/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305
 [/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/pl/106/181/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106
@@ -674,21 +674,21 @@ Sept. 3, 1982, Pub. L. 97–248, § 502(a)(4), 96 Stat. 671; Dec. 30, 1987, Pu
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/pl/103/429/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs9
 [/us/usc/t49/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs321
-[/us/pl/112/95/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs314
+[/us/pl/112/95/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtIII
 [/us/stat/126/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F67
 [/us/usc/t49/s47102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs47102
-[/us/pl/106/181/s155/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs155%2Fd
+[/us/pl/106/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtI
 [/us/stat/114/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F89
-[/us/pl/106/181/s158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs158
+[/us/pl/106/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtI
 [/us/stat/114/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F90
-[/us/pl/104/264/s148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs148
+[/us/pl/104/264/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2FtI
 [/us/stat/110/3223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3223
 [/us/usc/t49/s47135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs47135
-[/us/pl/104/264/s1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs1203
+[/us/pl/104/264/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2FtXII
 [/us/stat/110/3280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3280
 [/us/usc/t49/s47108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs47108
 [/us/usc/t26/s9502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9502
-[/us/pl/103/305/s520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2Fs520
+[/us/pl/103/305/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2FtV
 [/us/stat/108/1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1601
 
 

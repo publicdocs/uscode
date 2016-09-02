@@ -93,7 +93,7 @@
 
         then the Administrator may amend the certificate to impose a limitation that the certificate will not be valid if that individual has a controlling or ownership interest in the holder. A decision by the Administrator under this subsection is not reviewable by the Board.
 
-(Added [Pub. L. 106–181, title V, § 505(a)(1)][/us/pl/106/181/s505/a/1], Apr. 5, 2000, [114 Stat. 134][/us/stat/114/134]; amended [Pub. L. 108–176, title V, § 501][/us/pl/108/176/s501], Dec. 12, 2003, [117 Stat. 2556][/us/stat/117/2556].)
+(Added [Pub. L. 106–181, title V][/us/pl/106/181/tV], § 505(a)(1), Apr. 5, 2000, [114 Stat. 134][/us/stat/114/134]; amended [Pub. L. 108–176, title V][/us/pl/108/176/tV], § 501, Dec. 12, 2003, [117 Stat. 2556][/us/stat/117/2556].)
 
  __Amendments__ 
 
@@ -114,9 +114,9 @@
 ----------
 ----------
 
-[/us/pl/106/181/s505/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs505%2Fa%2F1
+[/us/pl/106/181/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtV
 [/us/stat/114/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F134
-[/us/pl/108/176/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs501
+[/us/pl/108/176/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtV
 [/us/stat/117/2556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2556
 [/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
 [/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176

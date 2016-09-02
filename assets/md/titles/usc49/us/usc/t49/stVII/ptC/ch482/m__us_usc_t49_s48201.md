@@ -23,7 +23,7 @@
 
     Beginning with fiscal year 1999, amounts appropriated from the Airport and Airway Trust Fund shall be appropriated for periods of 3 fiscal years rather than annually.
 
-(Added [Pub. L. 104–264, title II, § 277(a)][/us/pl/104/264/s277/a], Oct. 9, 1996, [110 Stat. 3248][/us/stat/110/3248].)
+(Added [Pub. L. 104–264, title II][/us/pl/104/264/tII], § 277(a), Oct. 9, 1996, [110 Stat. 3248][/us/stat/110/3248].)
 
  __References in Text__ 
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/104/264/s277/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs277%2Fa
+[/us/pl/104/264/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2FtII
 [/us/stat/110/3248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3248
 [/us/usc/t26/s9502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9502
 [/us/pl/104/264/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs203

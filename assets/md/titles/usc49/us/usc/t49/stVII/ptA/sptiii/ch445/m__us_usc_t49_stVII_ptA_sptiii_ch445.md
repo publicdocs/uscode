@@ -163,9 +163,9 @@
 
  __Amendments__ 
 
-    2003—[Pub. L. 108–176, title I, § 183(b)][/us/pl/108/176/s183/b], Dec. 12, 2003, [117 Stat. 2517][/us/stat/117/2517], added item 44517.
+    2003—[Pub. L. 108–176, title I][/us/pl/108/176/tI], § 183(b), Dec. 12, 2003, [117 Stat. 2517][/us/stat/117/2517], added item 44517.
 
-    2000—[Pub. L. 106–181, title VII, § 713(c)][/us/pl/106/181/s713/c], Apr. 5, 2000, [114 Stat. 161][/us/stat/114/161], added item 44516.
+    2000—[Pub. L. 106–181, title VII][/us/pl/106/181/tVII], § 713(c), Apr. 5, 2000, [114 Stat. 161][/us/stat/114/161], added item 44516.
 
 ----------
 
@@ -174,9 +174,9 @@
 ----------
 ----------
 
-[/us/pl/108/176/s183/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs183%2Fb
+[/us/pl/108/176/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtI
 [/us/stat/117/2517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2517
-[/us/pl/106/181/s713/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs713%2Fc
+[/us/pl/106/181/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtVII
 [/us/stat/114/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F161
 
 

@@ -49,7 +49,7 @@
 
         (2) to the individual officers, directors, and principals of such entities.
 
-(Added [Pub. L. 112–141, div. C, title II, § 32919(a)][/us/pl/112/141/s32919/a], July 6, 2012, [126 Stat. 827][/us/stat/126/827]; amended [Pub. L. 114–94, div. A, title V, § 5508(a)(5)][/us/pl/114/94/s5508/a/5], Dec. 4, 2015, [129 Stat. 1554][/us/stat/129/1554].)
+(Added [Pub. L. 112–141, div. C, title II][/us/pl/112/141/dC/tII], § 32919(a), July 6, 2012, [126 Stat. 827][/us/stat/126/827]; amended [Pub. L. 114–94, div. A, title V][/us/pl/114/94/dA/tV], § 5508(a)(5), Dec. 4, 2015, [129 Stat. 1554][/us/stat/129/1554].)
 
  __Amendments__ 
 
@@ -72,9 +72,9 @@
 
 [/us/usc/t46/s40102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs40102
 [/us/usc/t46/s40102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs40102
-[/us/pl/112/141/s32919/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32919%2Fa
+[/us/pl/112/141/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtII
 [/us/stat/126/827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F827
-[/us/pl/114/94/s5508/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5508%2Fa%2F5
+[/us/pl/114/94/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtV
 [/us/stat/129/1554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1554
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94

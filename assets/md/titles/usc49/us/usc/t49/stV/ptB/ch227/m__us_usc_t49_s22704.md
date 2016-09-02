@@ -23,7 +23,7 @@
 
     A State shall review the freight and passenger rail service activities and initiatives by regional planning agencies, regional transportation authorities, and municipalities within the State, or in the region in which the State is located, while preparing the plan, and shall include any recommendations made by such agencies, authorities, and municipalities as deemed appropriate by the State.
 
-(Added [Pub. L. 110–432, div. B, title III, § 303(a)][/us/pl/110/432/s303/a], Oct. 16, 2008, [122 Stat. 4949][/us/stat/122/4949].)
+(Added [Pub. L. 110–432, div. B, title III][/us/pl/110/432/dB/tIII], § 303(a), Oct. 16, 2008, [122 Stat. 4949][/us/stat/122/4949].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/110/432/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs303%2Fa
+[/us/pl/110/432/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdB%2FtIII
 [/us/stat/122/4949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4949
 
 

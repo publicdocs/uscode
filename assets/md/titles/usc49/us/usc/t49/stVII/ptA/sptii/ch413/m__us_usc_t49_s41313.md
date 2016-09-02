@@ -129,7 +129,7 @@
 
     A foreign air carrier shall not be liable for damages in any action brought in a Federal or State court arising out of the performance of the foreign air carrier in preparing or providing a passenger list pursuant to a plan submitted by the foreign air carrier under subsection (c), unless the liability was caused by conduct of the foreign air carrier which was grossly negligent or which constituted intentional misconduct.
 
-(Added [Pub. L. 105–148, § 1(a)][/us/pl/105/148/s1/a], Dec. 16, 1997, [111 Stat. 2681][/us/stat/111/2681]; amended [Pub. L. 106–181, title IV, § 403(a)][/us/pl/106/181/s403/a]–(c)(1), Apr. 5, 2000, [114 Stat. 130][/us/stat/114/130]; [Pub. L. 108–176, title VIII, § 809(b)][/us/pl/108/176/s809/b], Dec. 12, 2003, [117 Stat. 2589][/us/stat/117/2589].)
+(Added [Pub. L. 105–148][/us/pl/105/148], § 1(a), Dec. 16, 1997, [111 Stat. 2681][/us/stat/111/2681]; amended [Pub. L. 106–181, title IV][/us/pl/106/181/tIV], § 403(a)–(c)(1), Apr. 5, 2000, [114 Stat. 130][/us/stat/114/130]; [Pub. L. 108–176, title VIII][/us/pl/108/176/tVIII], § 809(b), Dec. 12, 2003, [117 Stat. 2589][/us/stat/117/2589].)
 
  __References in Text__ 
 
@@ -139,11 +139,11 @@
 
     2003—Subsec. (c)(17), (18). [Pub. L. 108–176][/us/pl/108/176] added pars. (17) and (18).
 
-    2000—Subsec. (a)(2). [Pub. L. 106–181, § 403(a)][/us/pl/106/181/s403/a], amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “The term ‘passenger’ includes an employee of a foreign air carrier or air carrier aboard an aircraft.”
+    2000—Subsec. (a)(2). [Pub. L. 106–181][/us/pl/106/181], § 403(a), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “The term ‘passenger’ includes an employee of a foreign air carrier or air carrier aboard an aircraft.”
 
-    Subsec. (b). [Pub. L. 106–181, § 403(b)][/us/pl/106/181/s403/b], substituted “major” for “significant”.
+    Subsec. (b). [Pub. L. 106–181][/us/pl/106/181], § 403(b), substituted “major” for “significant”.
 
-    Subsec. (c)(15), (16). [Pub. L. 106–181, § 403(c)(1)][/us/pl/106/181/s403/c/1], added pars. (15) and (16).
+    Subsec. (c)(15), (16). [Pub. L. 106–181][/us/pl/106/181], § 403(c)(1), added pars. (15) and (16).
 
  __Effective Date of 2003 Amendment__ 
 
@@ -153,13 +153,13 @@
 
     Amendment by section 403(a) and (b) of [Pub. L. 106–181][/us/pl/106/181] applicable only to fiscal years beginning after Sept. 30, 1999, see [section 3 of Pub. L. 106–181][/us/pl/106/181/s3], set out as a note under [section 106 of this title][/us/usc/t49/s106].
 
-[Pub. L. 106–181, title IV, § 403(c)(2)][/us/pl/106/181/s403/c/2], Apr. 5, 2000, [114 Stat. 131][/us/stat/114/131], provided that: 
+[Pub. L. 106–181, title IV][/us/pl/106/181/tIV], § 403(c)(2), Apr. 5, 2000, [114 Stat. 131][/us/stat/114/131], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall take effect on the 180th day following the date of the enactment of this Act \[Apr. 5, 2000\]. On or before such 180th day, each foreign air carrier providing foreign air transportation under chapter 413 of title 49, United States Code, shall submit to the Secretary \[of Transportation\] and the Chairman of the National Transportation Safety Board an updated plan under section 41313 of such title that meets the requirements of the amendment made by paragraph (1).”
 
  __Effective Date__ 
 
-[Pub. L. 105–148, § 1(c)][/us/pl/105/148/s1/c], Dec. 16, 1997, [111 Stat. 2683][/us/stat/111/2683], provided that: 
+[Pub. L. 105–148][/us/pl/105/148], § 1(c), Dec. 16, 1997, [111 Stat. 2683][/us/stat/111/2683], provided that: 
 
 > “The amendments made by this section \[enacting this section\] shall take effect on the 180th day following the date of the enactment of this Act \[Dec. 16, 1997\].”
 
@@ -170,26 +170,26 @@
 ----------
 ----------
 
-[/us/pl/105/148/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F148%2Fs1%2Fa
+[/us/pl/105/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F148
 [/us/stat/111/2681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2681
-[/us/pl/106/181/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs403%2Fa
+[/us/pl/106/181/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtIV
 [/us/stat/114/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F130
-[/us/pl/108/176/s809/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs809%2Fb
+[/us/pl/108/176/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtVIII
 [/us/stat/117/2589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2589
 [/us/pl/105/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F148
 [/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
-[/us/pl/106/181/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs403%2Fa
-[/us/pl/106/181/s403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs403%2Fb
-[/us/pl/106/181/s403/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs403%2Fc%2F1
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
 [/us/pl/108/176/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106
 [/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/pl/106/181/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106
-[/us/pl/106/181/s403/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs403%2Fc%2F2
+[/us/pl/106/181/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtIV
 [/us/stat/114/131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F131
-[/us/pl/105/148/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F148%2Fs1%2Fc
+[/us/pl/105/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F148
 [/us/stat/111/2683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2683
 
 

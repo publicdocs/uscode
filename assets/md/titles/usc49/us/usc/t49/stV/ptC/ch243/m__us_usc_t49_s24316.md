@@ -77,7 +77,7 @@
 
     Out of funds appropriated pursuant to section 20117(a)(1)(A), there shall be made available to the Secretary of Transportation $500,000 for fiscal year 2010 to carry out this section. Amounts made available pursuant to this subsection shall remain available until expended.
 
-(Added [Pub. L. 110–432, div. A, title V, § 502(a)][/us/pl/110/432/s502/a], Oct. 16, 2008, [122 Stat. 4897][/us/stat/122/4897].)
+(Added [Pub. L. 110–432, div. A, title V][/us/pl/110/432/dA/tV], § 502(a), Oct. 16, 2008, [122 Stat. 4897][/us/stat/122/4897].)
 
  __References in Text__ 
 
@@ -94,7 +94,7 @@
 [/us/usc/t49/s1139/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1139%2Fa%2F2
 [/us/usc/t49/s1139/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1139%2Fa%2F2
 [/us/usc/t49/s1139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1139
-[/us/pl/110/432/s502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs502%2Fa
+[/us/pl/110/432/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdA%2FtV
 [/us/stat/122/4897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4897
 [/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
 

@@ -53,7 +53,7 @@
 
     The term “State rail transportation authority” means the State agency or official responsible under the direction of the Governor of the State or a State law for preparation, maintenance, coordination, and administration of the State rail plan.
 
-(Added [Pub. L. 110–432, div. B, title III, § 303(a)][/us/pl/110/432/s303/a], Oct. 16, 2008, [122 Stat. 4947][/us/stat/122/4947].)
+(Added [Pub. L. 110–432, div. B, title III][/us/pl/110/432/dB/tIII], § 303(a), Oct. 16, 2008, [122 Stat. 4947][/us/stat/122/4947].)
 
 ----------
 
@@ -62,7 +62,7 @@
 ----------
 ----------
 
-[/us/pl/110/432/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs303%2Fa
+[/us/pl/110/432/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdB%2FtIII
 [/us/stat/122/4947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4947
 
 

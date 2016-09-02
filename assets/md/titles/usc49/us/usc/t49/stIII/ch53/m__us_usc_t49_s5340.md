@@ -77,7 +77,7 @@
 
         The Secretary shall apportion amounts made available to each State under paragraph (4) so that each urbanized area receives an amount equal to the amount apportioned under paragraph (4) multiplied by a ratio equal to the population of each urbanized area divided by the sum of populations of all urbanized areas in the State. Amounts apportioned to each urbanized area shall be added to amounts apportioned to that urbanized area under section 5336, and made available for grants under section 5307.
 
-(Added [Pub. L. 109–59, title III, § 3038(a)][/us/pl/109/59/s3038/a], Aug. 10, 2005, [119 Stat. 1636][/us/stat/119/1636]; amended [Pub. L. 114–94, div. A, title III, § 3030(f)][/us/pl/114/94/s3030/f], Dec. 4, 2015, [129 Stat. 1497][/us/stat/129/1497].)
+(Added [Pub. L. 109–59, title III][/us/pl/109/59/tIII], § 3038(a), Aug. 10, 2005, [119 Stat. 1636][/us/stat/119/1636]; amended [Pub. L. 114–94, div. A, title III][/us/pl/114/94/dA/tIII], § 3030(f), Dec. 4, 2015, [129 Stat. 1497][/us/stat/129/1497].)
 
  __Amendments__ 
 
@@ -98,9 +98,9 @@
 ----------
 ----------
 
-[/us/pl/109/59/s3038/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3038%2Fa
+[/us/pl/109/59/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIII
 [/us/stat/119/1636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1636
-[/us/pl/114/94/s3030/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3030%2Ff
+[/us/pl/114/94/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtIII
 [/us/stat/129/1497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1497
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94

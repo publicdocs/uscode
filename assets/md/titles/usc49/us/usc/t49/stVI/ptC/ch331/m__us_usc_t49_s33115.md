@@ -67,7 +67,7 @@
 
     A civil action under subsection (a) or (c) of this section may be brought in the judicial district in which the violation occurred or the defendant resides, is found, or transacts business. Process in the action may be served in any other judicial district in which the defendant resides or is found. A subpena for a witness in the action may be served in any judicial district.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1091][/us/stat/108/1091].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1091][/us/stat/108/1091].)
 
 <table>
 
@@ -207,7 +207,7 @@ Oct. 20, 1972, Pub. L. 92–513, § 86 Stat. 947, § 610(c)(2); added Oct. 2
 ----------
 
 [/us/usc/t49/s33114/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs33114%2Fa%2F5
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1091
 [/us/pl/92/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F513
 [/us/stat/86/947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F947

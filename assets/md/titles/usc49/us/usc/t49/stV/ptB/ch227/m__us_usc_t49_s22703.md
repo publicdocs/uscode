@@ -31,7 +31,7 @@
 
     A State rail plan shall be coordinated with other State transportation planning goals and programs, including the plan required under [section 135 of title 23][/us/usc/t23/s135], and set forth rail transportation’s role within the State transportation system.
 
-(Added [Pub. L. 110–432, div. B, title III, § 303(a)][/us/pl/110/432/s303/a], Oct. 16, 2008, [122 Stat. 4948][/us/stat/122/4948].)
+(Added [Pub. L. 110–432, div. B, title III][/us/pl/110/432/dB/tIII], § 303(a), Oct. 16, 2008, [122 Stat. 4948][/us/stat/122/4948].)
 
 ----------
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t23/s135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs135
-[/us/pl/110/432/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs303%2Fa
+[/us/pl/110/432/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdB%2FtIII
 [/us/stat/122/4948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4948
 
 

@@ -83,7 +83,7 @@
 
         (2) Not later than June 15, 1992, the Secretary shall prescribe regulations establishing criteria for a State to follow in making minor adjustments under subsection (d) of this section.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 995][/us/stat/108/995]; [Pub. L. 104–59, title III, § 312(a)(3)][/us/pl/104/59/s312/a/3], Nov. 28, 1995, [109 Stat. 584][/us/stat/109/584]; [Pub. L. 104–205, title III, § 352][/us/pl/104/205/s352], Sept. 30, 1996, [110 Stat. 2980][/us/stat/110/2980]; [Pub. L. 105–66, title III, § 343][/us/pl/105/66/s343], Oct. 27, 1997, [111 Stat. 1449][/us/stat/111/1449]; [Pub. L. 109–59, title IV, § 4112][/us/pl/109/59/s4112], Aug. 10, 2005, [119 Stat. 1724][/us/stat/119/1724]; [Pub. L. 114–94, div. A, title V, § 5523(c)(1)][/us/pl/114/94/s5523/c/1], Dec. 4, 2015, [129 Stat. 1560][/us/stat/129/1560]; [Pub. L. 114–113, div. L, title I, § 137][/us/pl/114/113/s137], Dec. 18, 2015, [129 Stat. 2851][/us/stat/129/2851].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 995][/us/stat/108/995]; [Pub. L. 104–59, title III][/us/pl/104/59/tIII], § 312(a)(3), Nov. 28, 1995, [109 Stat. 584][/us/stat/109/584]; [Pub. L. 104–205, title III][/us/pl/104/205/tIII], § 352, Sept. 30, 1996, [110 Stat. 2980][/us/stat/110/2980]; [Pub. L. 105–66, title III][/us/pl/105/66/tIII], § 343, Oct. 27, 1997, [111 Stat. 1449][/us/stat/111/1449]; [Pub. L. 109–59, title IV][/us/pl/109/59/tIV], § 4112, Aug. 10, 2005, [119 Stat. 1724][/us/stat/119/1724]; [Pub. L. 114–94, div. A, title V][/us/pl/114/94/dA/tV], § 5523(c)(1), Dec. 4, 2015, [129 Stat. 1560][/us/stat/129/1560]; [Pub. L. 114–113, div. L, title I][/us/pl/114/113/dL/tI], § 137, Dec. 18, 2015, [129 Stat. 2851][/us/stat/129/2851].)
 
 <table>
 
@@ -253,17 +253,17 @@ Jan 6, 1983, Pub. L. 97–424, 96 Stat. 2159, § 411(j); added Dec. 18, 1991, 
 
     2015—Subsec. (a)(1). [Pub. L. 114–94][/us/pl/114/94] inserted before period at end “, but not including a trailer or a semitrailer transported as part of a towaway trailer transporter combination (as defined in section 31111(a))”.
 
-    Subsec. (c). [Pub. L. 114–113, § 137(b)(1)][/us/pl/114/113/s137/b/1], substituted “Nebraska, and Kansas” for “and Nebraska” in heading.
+    Subsec. (c). [Pub. L. 114–113][/us/pl/114/113], § 137(b)(1), substituted “Nebraska, and Kansas” for “and Nebraska” in heading.
 
-    Subsec. (c)(3). [Pub. L. 114–113, § 137(b)(2)][/us/pl/114/113/s137/b/2], substituted a semicolon for “; and” at end.
+    Subsec. (c)(3). [Pub. L. 114–113][/us/pl/114/113], § 137(b)(2), substituted a semicolon for “; and” at end.
 
-    Subsec. (c)(4). [Pub. L. 114–113, § 137(b)(3)][/us/pl/114/113/s137/b/3], substituted “; and” for period at end.
+    Subsec. (c)(4). [Pub. L. 114–113][/us/pl/114/113], § 137(b)(3), substituted “; and” for period at end.
 
-    Subsec. (c)(5). [Pub. L. 114–113, § 137(a)][/us/pl/114/113/s137/a], substituted “Nebraska and Kansas may” for “Nebraska may” and “the relevant state” for “the State of Nebraska”.
+    Subsec. (c)(5). [Pub. L. 114–113][/us/pl/114/113], § 137(a), substituted “Nebraska and Kansas may” for “Nebraska may” and “the relevant state” for “the State of Nebraska”.
 
-    2005—Subsec. (c). [Pub. L. 109–59, § 4112(b)][/us/pl/109/59/s4112/b], substituted “Iowa, and Nebraska” for “and Iowa” in heading.
+    2005—Subsec. (c). [Pub. L. 109–59][/us/pl/109/59], § 4112(b), substituted “Iowa, and Nebraska” for “and Iowa” in heading.
 
-    Subsec. (c)(5). [Pub. L. 109–59, § 4112(a)][/us/pl/109/59/s4112/a], added par. (5).
+    Subsec. (c)(5). [Pub. L. 109–59][/us/pl/109/59], § 4112(a), added par. (5).
 
     1997—Subsec. (d)(4). [Pub. L. 105–66][/us/pl/105/66] substituted “February 28, 1998” for “September 30, 1997”.
 
@@ -286,29 +286,29 @@ Jan 6, 1983, Pub. L. 97–424, 96 Stat. 2159, § 411(j); added Dec. 18, 1991, 
 [/us/usc/t23/s127/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs127%2Fa
 [/us/usc/t23/s127/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs127%2Fd
 [/us/usc/t23/s127/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs127%2Fd
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F995
-[/us/pl/104/59/s312/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2Fs312%2Fa%2F3
+[/us/pl/104/59/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2FtIII
 [/us/stat/109/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F584
-[/us/pl/104/205/s352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F205%2Fs352
+[/us/pl/104/205/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F205%2FtIII
 [/us/stat/110/2980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2980
-[/us/pl/105/66/s343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F66%2Fs343
+[/us/pl/105/66/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F66%2FtIII
 [/us/stat/111/1449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1449
-[/us/pl/109/59/s4112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4112
+[/us/pl/109/59/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIV
 [/us/stat/119/1724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1724
-[/us/pl/114/94/s5523/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5523%2Fc%2F1
+[/us/pl/114/94/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtV
 [/us/stat/129/1560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1560
-[/us/pl/114/113/s137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs137
+[/us/pl/114/113/dL/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdL%2FtI
 [/us/stat/129/2851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2851
 [/us/pl/101/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F427
 [/us/stat/104/927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F927
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
-[/us/pl/114/113/s137/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs137%2Fb%2F1
-[/us/pl/114/113/s137/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs137%2Fb%2F2
-[/us/pl/114/113/s137/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs137%2Fb%2F3
-[/us/pl/114/113/s137/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs137%2Fa
-[/us/pl/109/59/s4112/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4112%2Fb
-[/us/pl/109/59/s4112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4112%2Fa
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/105/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F66
 [/us/pl/104/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F205
 [/us/pl/104/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59

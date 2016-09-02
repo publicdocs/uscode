@@ -25,7 +25,7 @@
 
     The Secretary and the Administrator of the Federal Aviation Administration shall establish a system of manned auxiliary flight service stations. The manned auxiliary flight service stations shall supplement the services of the planned consolidation to 61 automated flight service stations under the flight service station modernization program. A manned auxiliary flight service station shall be located in an area of unique weather or operational conditions that are critical to the safety of flight.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1183][/us/stat/108/1183].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1183][/us/stat/108/1183].)
 
 <table>
 
@@ -118,7 +118,7 @@ Nov. 5, 1990, Pub. L. 101–516, § 330(a), 104 Stat. 2184.  </td>
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1183
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/stat/104/1388-364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-364

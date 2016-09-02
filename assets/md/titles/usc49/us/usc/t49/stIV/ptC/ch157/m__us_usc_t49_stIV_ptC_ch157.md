@@ -81,7 +81,7 @@ Amendments  </td>
 
 </table>
 
-    1996—[Pub. L. 104–287, § 5(43)(A)][/us/pl/104/287/s5/43/A], Oct. 11, 1996, [110 Stat. 3392][/us/stat/110/3392], struck out duplicative chapter heading and made technical amendments to items for subchapters A and B.
+    1996—[Pub. L. 104–287][/us/pl/104/287], § 5(43)(A), Oct. 11, 1996, [110 Stat. 3392][/us/stat/110/3392], struck out duplicative chapter heading and made technical amendments to items for subchapters A and B.
 
 ----------
 
@@ -90,7 +90,7 @@ Amendments  </td>
 ----------
 ----------
 
-[/us/pl/104/287/s5/43/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F43%2FA
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3392
 
 

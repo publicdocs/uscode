@@ -27,7 +27,7 @@
 
     The Administrator shall establish guidelines to determine the direct costs allowable under a grant to be made under this section. The Government’s share of the allowable cost of a project assisted by a grant under this section may not be more than 65 percent.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1181][/us/stat/108/1181].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1181][/us/stat/108/1181].)
 
 <table>
 
@@ -132,7 +132,7 @@ Oct. 6, 1992, Pub. L. 102–388, (1st sentence last proviso, 3d, last sentences 
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1181
 
 

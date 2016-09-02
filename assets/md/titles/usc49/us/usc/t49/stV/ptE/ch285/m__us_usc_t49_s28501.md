@@ -31,11 +31,11 @@
 
     (7) the term “trackage” means a railroad line of a rail carrier, including a spur, industrial, team, switching, side, yard, or station track, and a facility of a rail carrier.
 
-(Added [Pub. L. 110–432, div. B, title IV, § 401(a)][/us/pl/110/432/s401/a], Oct. 16, 2008, [122 Stat. 4955][/us/stat/122/4955].)
+(Added [Pub. L. 110–432, div. B, title IV][/us/pl/110/432/dB/tIV], § 401(a), Oct. 16, 2008, [122 Stat. 4955][/us/stat/122/4955].)
 
  __References in Text__ 
 
-    Section 5302, referred to in par. (4), was amended generally by [Pub. L. 112–141, div. B, § 20004][/us/pl/112/141/s20004], July 6, 2012, [126 Stat. 623][/us/stat/126/623], and, as so amended, no longer contains a subsec. (a). However, the term “local governmental authority” is defined elsewhere in that section.
+    Section 5302, referred to in par. (4), was amended generally by [Pub. L. 112–141, div. B][/us/pl/112/141/dB], § 20004, July 6, 2012, [126 Stat. 623][/us/stat/126/623], and, as so amended, no longer contains a subsec. (a). However, the term “local governmental authority” is defined elsewhere in that section.
 
 ----------
 
@@ -44,9 +44,9 @@
 ----------
 ----------
 
-[/us/pl/110/432/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs401%2Fa
+[/us/pl/110/432/dB/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdB%2FtIV
 [/us/stat/122/4955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4955
-[/us/pl/112/141/s20004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs20004
+[/us/pl/112/141/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdB
 [/us/stat/126/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F623
 
 

@@ -17,7 +17,7 @@
 
     Any interested person may appeal a decision of the Secretary of Transportation to impose a civil penalty under section 32912(a) or (b) of this title, or of the Federal Trade Commission under [section 32913(b)(1) of this title][/us/usc/t49/s32913/b/1], in the United States Court of Appeals for the District of Columbia Circuit or in the court of appeals of the United States for the circuit in which the person resides or has its principal place of business. A person appealing a decision must file a notice of appeal with the court not later than 30 days after the decision and, at the same time, send a copy of the notice by certified mail to the Secretary or the Commission. The Secretary or the Commission promptly shall file with the court a certified copy of the record of the proceeding in which the decision was made.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1074][/us/stat/108/1074].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1074][/us/stat/108/1074].)
 
 <table>
 
@@ -75,7 +75,7 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, § 508(c)(1); added Dec. 22, 19
 ----------
 
 [/us/usc/t49/s32913/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs32913%2Fb%2F1
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1074
 
 

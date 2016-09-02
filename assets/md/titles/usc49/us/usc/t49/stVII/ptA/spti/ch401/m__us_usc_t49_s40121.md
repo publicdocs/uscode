@@ -49,7 +49,7 @@
 
         If the Administrator makes a determination under paragraph (1), the Administrator shall transmit a copy of the determination, together with a statement of the basis for the determination, to the Committees on Appropriations of the Senate and the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Transportation and Infrastructure of the House of Representatives.
 
-(Added [Pub. L. 104–264, title II, § 252][/us/pl/104/264/s252], Oct. 9, 1996, [110 Stat. 3236][/us/stat/110/3236]; amended [Pub. L. 106–181, title III, § 307(c)(2)][/us/pl/106/181/s307/c/2], Apr. 5, 2000, [114 Stat. 126][/us/stat/114/126].)
+(Added [Pub. L. 104–264, title II][/us/pl/104/264/tII], § 252, Oct. 9, 1996, [110 Stat. 3236][/us/stat/110/3236]; amended [Pub. L. 106–181, title III][/us/pl/106/181/tIII], § 307(c)(2), Apr. 5, 2000, [114 Stat. 126][/us/stat/114/126].)
 
  __References in Text__ 
 
@@ -81,9 +81,9 @@
 ----------
 
 [/us/usc/t49/s40110/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40110%2Fd%2F2
-[/us/pl/104/264/s252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs252
+[/us/pl/104/264/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2FtII
 [/us/stat/110/3236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3236
-[/us/pl/106/181/s307/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs307%2Fc%2F2
+[/us/pl/106/181/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtIII
 [/us/stat/114/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F126
 [/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
 [/us/usc/t49/s40124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40124

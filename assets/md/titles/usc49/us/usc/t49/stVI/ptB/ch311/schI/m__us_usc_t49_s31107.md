@@ -27,15 +27,15 @@
 
     Allocations to a State remain available for expenditure in the State for the fiscal year in which they are allocated and for the next fiscal year. Amounts not expended by a State during those 2 fiscal years are available to the Secretary for reallocation under this section.
 
-(Added [Pub. L. 109–59, title IV, § 4110(a)(2)][/us/pl/109/59/s4110/a/2], Aug. 10, 2005, [119 Stat. 1721][/us/stat/119/1721]; amended [Pub. L. 112–141, div. C, title II, § 32603(h)][/us/pl/112/141/s32603/h], July 6, 2012, [126 Stat. 808][/us/stat/126/808].)
+(Added [Pub. L. 109–59, title IV][/us/pl/109/59/tIV], § 4110(a)(2), Aug. 10, 2005, [119 Stat. 1721][/us/stat/119/1721]; amended [Pub. L. 112–141, div. C, title II][/us/pl/112/141/dC/tII], § 32603(h), July 6, 2012, [126 Stat. 808][/us/stat/126/808].)
 
  __Repeal of Section__ 
 
-    [Pub. L. 114–94, div. A, title V, § 5101(e)(3)][/us/pl/114/94/s5101/e/3], (f), (g), Dec. 4, 2015, [129 Stat. 1525][/us/stat/129/1525], 1526, provided that, effective Oct. 1, 2016, this section is repealed, subject to a transition provision.
+    [Pub. L. 114–94, div. A, title V][/us/pl/114/94/dA/tV], § 5101(e)(3), (f), (g), Dec. 4, 2015, [129 Stat. 1525][/us/stat/129/1525], 1526, provided that, effective Oct. 1, 2016, this section is repealed, subject to a transition provision.
 
  __Prior Provisions__ 
 
-    A prior section 31107, [Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 992][/us/stat/108/992]; [Pub. L. 105–178, title IV, § 4004(b)][/us/pl/105/178/s4004/b], June 9, 1998, [112 Stat. 400][/us/stat/112/400]; [Pub. L. 106–159, title I, § 103(d)][/us/pl/106/159/s103/d], Dec. 9, 1999, [113 Stat. 1754][/us/stat/113/1754]; [Pub. L. 108–88, § 7(c)(1)][/us/pl/108/88/s7/c/1], Sept. 30, 2003, [117 Stat. 1120][/us/stat/117/1120]; [Pub. L. 108–202, § 11(c)(1)][/us/pl/108/202/s11/c/1], Feb. 29, 2004, [118 Stat. 490][/us/stat/118/490]; [Pub. L. 108–224, § 9(c)(1)][/us/pl/108/224/s9/c/1], Apr. 30, 2004, [118 Stat. 638][/us/stat/118/638]; [Pub. L. 108–263, § 9(c)(1)][/us/pl/108/263/s9/c/1], June 30, 2004, [118 Stat. 709][/us/stat/118/709]; [Pub. L. 108–280, § 9(c)(1)][/us/pl/108/280/s9/c/1], July 30, 2004, [118 Stat. 886][/us/stat/118/886]; [Pub. L. 108–310, § 7(c)(1)][/us/pl/108/310/s7/c/1], Sept. 30, 2004, [118 Stat. 1153][/us/stat/118/1153]; [Pub. L. 109–14, § 6(c)(1)][/us/pl/109/14/s6/c/1], May 31, 2005, [119 Stat. 330][/us/stat/119/330]; [Pub. L. 109–20, § 6(c)(1)][/us/pl/109/20/s6/c/1], July 1, 2005, [119 Stat. 352][/us/stat/119/352]; [Pub. L. 109–35, § 6(c)(1)][/us/pl/109/35/s6/c/1], July 20, 2005, [119 Stat. 385][/us/stat/119/385]; [Pub. L. 109–37, § 6(c)(1)][/us/pl/109/37/s6/c/1], July 22, 2005, [119 Stat. 400][/us/stat/119/400]; [Pub. L. 109–40, § 6(c)(1)][/us/pl/109/40/s6/c/1], July 28, 2005, [119 Stat. 417][/us/stat/119/417], related to contract authority funding for information systems, prior to repeal by [Pub. L. 109–59, title IV, § 4110(a)(2)][/us/pl/109/59/s4110/a/2], Aug. 10, 2005, [119 Stat. 1721][/us/stat/119/1721].
+    A prior section 31107, [Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 992][/us/stat/108/992]; [Pub. L. 105–178, title IV][/us/pl/105/178/tIV], § 4004(b), June 9, 1998, [112 Stat. 400][/us/stat/112/400]; [Pub. L. 106–159, title I][/us/pl/106/159/tI], § 103(d), Dec. 9, 1999, [113 Stat. 1754][/us/stat/113/1754]; [Pub. L. 108–88][/us/pl/108/88], § 7(c)(1), Sept. 30, 2003, [117 Stat. 1120][/us/stat/117/1120]; [Pub. L. 108–202][/us/pl/108/202], § 11(c)(1), Feb. 29, 2004, [118 Stat. 490][/us/stat/118/490]; [Pub. L. 108–224][/us/pl/108/224], § 9(c)(1), Apr. 30, 2004, [118 Stat. 638][/us/stat/118/638]; [Pub. L. 108–263][/us/pl/108/263], § 9(c)(1), June 30, 2004, [118 Stat. 709][/us/stat/118/709]; [Pub. L. 108–280][/us/pl/108/280], § 9(c)(1), July 30, 2004, [118 Stat. 886][/us/stat/118/886]; [Pub. L. 108–310][/us/pl/108/310], § 7(c)(1), Sept. 30, 2004, [118 Stat. 1153][/us/stat/118/1153]; [Pub. L. 109–14][/us/pl/109/14], § 6(c)(1), May 31, 2005, [119 Stat. 330][/us/stat/119/330]; [Pub. L. 109–20][/us/pl/109/20], § 6(c)(1), July 1, 2005, [119 Stat. 352][/us/stat/119/352]; [Pub. L. 109–35][/us/pl/109/35], § 6(c)(1), July 20, 2005, [119 Stat. 385][/us/stat/119/385]; [Pub. L. 109–37][/us/pl/109/37], § 6(c)(1), July 22, 2005, [119 Stat. 400][/us/stat/119/400]; [Pub. L. 109–40][/us/pl/109/40], § 6(c)(1), July 28, 2005, [119 Stat. 417][/us/stat/119/417], related to contract authority funding for information systems, prior to repeal by [Pub. L. 109–59, title IV][/us/pl/109/59/tIV], § 4110(a)(2), Aug. 10, 2005, [119 Stat. 1721][/us/stat/119/1721].
 
  __Amendments__ 
 
@@ -56,41 +56,41 @@
 ----------
 ----------
 
-[/us/pl/109/59/s4110/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4110%2Fa%2F2
+[/us/pl/109/59/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIV
 [/us/stat/119/1721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1721
-[/us/pl/112/141/s32603/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32603%2Fh
+[/us/pl/112/141/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtII
 [/us/stat/126/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F808
-[/us/pl/114/94/s5101/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5101%2Fe%2F3
+[/us/pl/114/94/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtV
 [/us/stat/129/1525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1525
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F992
-[/us/pl/105/178/s4004/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4004%2Fb
+[/us/pl/105/178/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtIV
 [/us/stat/112/400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F400
-[/us/pl/106/159/s103/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2Fs103%2Fd
+[/us/pl/106/159/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2FtI
 [/us/stat/113/1754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1754
-[/us/pl/108/88/s7/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F88%2Fs7%2Fc%2F1
+[/us/pl/108/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F88
 [/us/stat/117/1120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1120
-[/us/pl/108/202/s11/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F202%2Fs11%2Fc%2F1
+[/us/pl/108/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F202
 [/us/stat/118/490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F490
-[/us/pl/108/224/s9/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F224%2Fs9%2Fc%2F1
+[/us/pl/108/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F224
 [/us/stat/118/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F638
-[/us/pl/108/263/s9/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F263%2Fs9%2Fc%2F1
+[/us/pl/108/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F263
 [/us/stat/118/709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F709
-[/us/pl/108/280/s9/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F280%2Fs9%2Fc%2F1
+[/us/pl/108/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F280
 [/us/stat/118/886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F886
-[/us/pl/108/310/s7/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F310%2Fs7%2Fc%2F1
+[/us/pl/108/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F310
 [/us/stat/118/1153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1153
-[/us/pl/109/14/s6/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F14%2Fs6%2Fc%2F1
+[/us/pl/109/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F14
 [/us/stat/119/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F330
-[/us/pl/109/20/s6/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F20%2Fs6%2Fc%2F1
+[/us/pl/109/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F20
 [/us/stat/119/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F352
-[/us/pl/109/35/s6/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F35%2Fs6%2Fc%2F1
+[/us/pl/109/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F35
 [/us/stat/119/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F385
-[/us/pl/109/37/s6/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F37%2Fs6%2Fc%2F1
+[/us/pl/109/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F37
 [/us/stat/119/400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F400
-[/us/pl/109/40/s6/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F40%2Fs6%2Fc%2F1
+[/us/pl/109/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F40
 [/us/stat/119/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F417
-[/us/pl/109/59/s4110/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4110%2Fa%2F2
+[/us/pl/109/59/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIV
 [/us/stat/119/1721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1721
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94

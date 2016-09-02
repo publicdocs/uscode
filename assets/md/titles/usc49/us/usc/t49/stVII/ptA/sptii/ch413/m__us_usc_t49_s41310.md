@@ -83,7 +83,7 @@
 
         (2) imposes an unjustifiable or unreasonable restriction on access of such a computer reservations system to a foreign market.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1130][/us/stat/108/1130]; [Pub. L. 104–287, § 5(9)][/us/pl/104/287/s5/9], Oct. 11, 1996, [110 Stat. 3389][/us/stat/110/3389]; [Pub. L. 106–181, title VII, § 741][/us/pl/106/181/s741], Apr. 5, 2000, [114 Stat. 174][/us/stat/114/174].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1130][/us/stat/108/1130]; [Pub. L. 104–287][/us/pl/104/287], § 5(9), Oct. 11, 1996, [110 Stat. 3389][/us/stat/110/3389]; [Pub. L. 106–181, title VII][/us/pl/106/181/tVII], § 741, Apr. 5, 2000, [114 Stat. 174][/us/stat/114/174].)
 
 <table>
 
@@ -295,13 +295,13 @@ Jan. 3, 1975, Pub. L. 93–623, § 2(d), 88 Stat. 2103; Feb. 15, 1980, Pub. L.
 
  __Amendments__ 
 
-    2000—Subsec. (d)(1). [Pub. L. 106–181, § 741(b)(1)(A)][/us/pl/106/181/s741/b/1/A], (B), in first sentence of introductory provisions, substituted “air carrier, computer reservations system firm,” for “air carrier” and “subsection (c) or (g)” for “subsection (c)”.
+    2000—Subsec. (d)(1). [Pub. L. 106–181][/us/pl/106/181], § 741(b)(1)(A), (B), in first sentence of introductory provisions, substituted “air carrier, computer reservations system firm,” for “air carrier” and “subsection (c) or (g)” for “subsection (c)”.
 
-    Subsec. (d)(1)(B). [Pub. L. 106–181, § 741(b)(1)(C)][/us/pl/106/181/s741/b/1/C], substituted “air carrier or computer reservations system firm” for “air carrier”.
+    Subsec. (d)(1)(B). [Pub. L. 106–181][/us/pl/106/181], § 741(b)(1)(C), substituted “air carrier or computer reservations system firm” for “air carrier”.
 
-    Subsec. (e)(1). [Pub. L. 106–181, § 741(b)(2)][/us/pl/106/181/s741/b/2], inserted “or a computer reservations system firm is subject when providing services with respect to airline service” before period at end of first sentence.
+    Subsec. (e)(1). [Pub. L. 106–181][/us/pl/106/181], § 741(b)(2), inserted “or a computer reservations system firm is subject when providing services with respect to airline service” before period at end of first sentence.
 
-    Subsec. (g). [Pub. L. 106–181, § 741(a)][/us/pl/106/181/s741/a], added subsec. (g).
+    Subsec. (g). [Pub. L. 106–181][/us/pl/106/181], § 741(a), added subsec. (g).
 
     1996—Subsec. (f). [Pub. L. 104–287][/us/pl/104/287] substituted “Transportation and Infrastructure” for “Public Works and Transportation”.
 
@@ -320,18 +320,18 @@ Jan. 3, 1975, Pub. L. 93–623, § 2(d), 88 Stat. 2103; Feb. 15, 1980, Pub. L.
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1130
-[/us/pl/104/287/s5/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F9
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3389
-[/us/pl/106/181/s741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs741
+[/us/pl/106/181/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtVII
 [/us/stat/114/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F174
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/stat/102/1573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1573
-[/us/pl/106/181/s741/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs741%2Fb%2F1%2FA
-[/us/pl/106/181/s741/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs741%2Fb%2F1%2FC
-[/us/pl/106/181/s741/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs741%2Fb%2F2
-[/us/pl/106/181/s741/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs741%2Fa
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/pl/106/181/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs3

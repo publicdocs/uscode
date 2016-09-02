@@ -17,11 +17,11 @@
 
     A motor carrier of property providing transportation exempt from jurisdiction under paragraph (6), (8), (11), (12), or (13) of section 13506(a) may transport property under such paragraph in the same vehicle and at the same time as property which the carrier is authorized to transport under a registration issued under section 13902(a). Such transportation shall not affect the unregulated status of such exempt property or the regulated status of the property which the carrier is authorized to transport under such registration.
 
-(Added [Pub. L. 104–88, title I, § 103][/us/pl/104/88/s103], Dec. 29, 1995, [109 Stat. 863][/us/stat/109/863].)
+(Added [Pub. L. 104–88, title I][/us/pl/104/88/tI], § 103, Dec. 29, 1995, [109 Stat. 863][/us/stat/109/863].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [section 10528 of this title][/us/usc/t49/s10528] prior to the general amendment of this subtitle by [Pub. L. 104–88, § 102(a)][/us/pl/104/88/s102/a].
+    Provisions similar to those in this section were contained in [section 10528 of this title][/us/usc/t49/s10528] prior to the general amendment of this subtitle by [Pub. L. 104–88][/us/pl/104/88], § 102(a).
 
 ----------
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/104/88/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs103
+[/us/pl/104/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtI
 [/us/stat/109/863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F863
 [/us/usc/t49/s10528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs10528
-[/us/pl/104/88/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs102%2Fa
+[/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 
 

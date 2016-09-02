@@ -89,7 +89,7 @@
 
     The Secretary shall encourage States and local governments to consolidate their respective permitting processes for pipeline repair projects subject to any time periods for repair specified by rule by the Secretary. The Secretary may request other relevant Federal agencies to provide technical assistance to States and local governments for the purpose of encouraging such consolidation.
 
-(Added [Pub. L. 107–355, § 16(a)][/us/pl/107/355/s16/a], Dec. 17, 2002, [116 Stat. 3006][/us/stat/116/3006].)
+(Added [Pub. L. 107–355][/us/pl/107/355], § 16(a), Dec. 17, 2002, [116 Stat. 3006][/us/stat/116/3006].)
 
  __References in Text__ 
 
@@ -106,7 +106,7 @@
 ----------
 ----------
 
-[/us/pl/107/355/s16/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355%2Fs16%2Fa
+[/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355
 [/us/stat/116/3006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3006
 [/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355
 

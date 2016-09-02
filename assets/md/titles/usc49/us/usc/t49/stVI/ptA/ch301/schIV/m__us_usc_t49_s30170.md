@@ -39,11 +39,11 @@
 
     The Attorney General may bring an action, or initiate grand jury proceedings, for a violation of subsection (a) only at the request of the Secretary of Transportation.
 
-(Added [Pub. L. 106–414, § 5(b)(1)][/us/pl/106/414/s5/b/1], Nov. 1, 2000, [114 Stat. 1803][/us/stat/114/1803].)
+(Added [Pub. L. 106–414][/us/pl/106/414], § 5(b)(1), Nov. 1, 2000, [114 Stat. 1803][/us/stat/114/1803].)
 
  __References in Text__ 
 
-    [Section 1365(g)(3) of title 18][/us/usc/t18/s1365/g/3], referred to in subsec. (a)(1), was redesignated [section 1365(h)(3) of title 18][/us/usc/t18/s1365/h/3] by [Pub. L. 107–307, § 2(1)][/us/pl/107/307/s2/1], Dec. 2, 2002, [116 Stat. 2445][/us/stat/116/2445].
+    [Section 1365(g)(3) of title 18][/us/usc/t18/s1365/g/3], referred to in subsec. (a)(1), was redesignated [section 1365(h)(3) of title 18][/us/usc/t18/s1365/h/3] by [Pub. L. 107–307][/us/pl/107/307], § 2(1), Dec. 2, 2002, [116 Stat. 2445][/us/stat/116/2445].
 
     The date of the enactment of this section, referred to in subsec. (a)(2)(B), is the date of enactment of [Pub. L. 106–414][/us/pl/106/414], which was approved Nov. 1, 2000.
 
@@ -55,11 +55,11 @@
 ----------
 
 [/us/usc/t18/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1001
-[/us/pl/106/414/s5/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F414%2Fs5%2Fb%2F1
+[/us/pl/106/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F414
 [/us/stat/114/1803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1803
 [/us/usc/t18/s1365/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1365%2Fg%2F3
 [/us/usc/t18/s1365/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1365%2Fh%2F3
-[/us/pl/107/307/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F307%2Fs2%2F1
+[/us/pl/107/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F307
 [/us/stat/116/2445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2445
 [/us/pl/106/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F414
 

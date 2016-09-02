@@ -17,7 +17,7 @@
 
     To the extent the Secretary of Transportation is authorized to provide insurance under this chapter, the Secretary may reinsure any part of the insurance provided by an insurance carrier. The Secretary may reinsure with, transfer to, or transfer back to, any insurance carrier any insurance or reinsurance provided by the Secretary under this chapter.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1169][/us/stat/108/1169]; [Pub. L. 107–42, title II, § 201(c)][/us/pl/107/42/s201/c], Sept. 22, 2001, [115 Stat. 235][/us/stat/115/235]; [Pub. L. 112–95, title VII, § 703][/us/pl/112/95/s703], Feb. 14, 2012, [126 Stat. 118][/us/stat/126/118].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1169][/us/stat/108/1169]; [Pub. L. 107–42, title II][/us/pl/107/42/tII], § 201(c), Sept. 22, 2001, [115 Stat. 235][/us/stat/115/235]; [Pub. L. 112–95, title VII][/us/pl/112/95/tVII], § 703, Feb. 14, 2012, [126 Stat. 118][/us/stat/126/118].)
 
 <table>
 
@@ -98,11 +98,11 @@ Aug. 23, 1958, Pub. L. 85–726, § 1305, 72 Stat. 802; Nov. 9, 1977, Pub. L. 
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1169
-[/us/pl/107/42/s201/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F42%2Fs201%2Fc
+[/us/pl/107/42/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F42%2FtII
 [/us/stat/115/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F235
-[/us/pl/112/95/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs703
+[/us/pl/112/95/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtVII
 [/us/stat/126/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F118
 [/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
 [/us/pl/107/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F42

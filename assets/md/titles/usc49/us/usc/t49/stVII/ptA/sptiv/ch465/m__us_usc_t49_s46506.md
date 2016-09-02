@@ -21,7 +21,7 @@
 
     (2) if committed in the District of Columbia would violate [section 9 of the Act of July 29, 1892][/us/act/1892-07-29/s9] (D.C. Code § 22-1112), shall be fined under title 18, imprisoned under section 9 of the Act, or both.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1245][/us/stat/108/1245].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1245][/us/stat/108/1245].)
 
 <table>
 
@@ -86,7 +86,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 902(k); added Sept. 5, 1961,
 
 [/us/usc/t18/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs7
 [/us/act/1892-07-29/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1892-07-29%2Fs9
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1245
 [/us/act/1892-07-29/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1892-07-29%2Fs9
 [/us/act/1892-07-29/ch320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1892-07-29%2Fch320

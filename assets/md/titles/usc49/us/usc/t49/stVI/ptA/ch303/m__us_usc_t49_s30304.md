@@ -65,7 +65,7 @@
 
     Before issuing a motor vehicle operator’s license to an individual or renewing such a license, a State shall request from the Secretary information from the National Driver Register under section 30302 and the commercial driver’s license information system under section 31309 on the individual’s driving record.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 975][/us/stat/108/975]; [Pub. L. 106–159, title II, § 204][/us/pl/106/159/s204], Dec. 9, 1999, [113 Stat. 1762][/us/stat/113/1762].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 975][/us/stat/108/975]; [Pub. L. 106–159, title II][/us/pl/106/159/tII], § 204, Dec. 9, 1999, [113 Stat. 1762][/us/stat/113/1762].)
 
 <table>
 
@@ -132,9 +132,9 @@ Oct. 25, 1982, Pub. L. 97–364, § 205, 96 Stat. 1742.  </td>
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/975]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F975
-[/us/pl/106/159/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2Fs204
+[/us/pl/106/159/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2FtII
 [/us/stat/113/1762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1762
 [/us/pl/106/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159
 

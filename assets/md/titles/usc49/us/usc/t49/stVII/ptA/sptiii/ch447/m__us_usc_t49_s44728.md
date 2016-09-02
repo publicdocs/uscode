@@ -77,7 +77,7 @@
 
     In this section, the term “flight attendant” means an individual working as a flight attendant in the cabin of an aircraft that has 20 or more seats and is being used by an air carrier to provide air transportation.
 
-(Added [Pub. L. 108–176, title VIII, § 814(a)][/us/pl/108/176/s814/a], Dec. 12, 2003, [117 Stat. 2590][/us/stat/117/2590]; amended [Pub. L. 112–95, title III, § 304(a)][/us/pl/112/95/s304/a], Feb. 14, 2012, [126 Stat. 58][/us/stat/126/58].)
+(Added [Pub. L. 108–176, title VIII][/us/pl/108/176/tVIII], § 814(a), Dec. 12, 2003, [117 Stat. 2590][/us/stat/117/2590]; amended [Pub. L. 112–95, title III][/us/pl/112/95/tIII], § 304(a), Feb. 14, 2012, [126 Stat. 58][/us/stat/126/58].)
 
  __References in Text__ 
 
@@ -91,13 +91,13 @@
 
  __Effective Date__ 
 
-[Pub. L. 108–176, title VIII, § 814(c)][/us/pl/108/176/s814/c], Dec. 12, 2003, [117 Stat. 2592][/us/stat/117/2592], provided that: 
+[Pub. L. 108–176, title VIII][/us/pl/108/176/tVIII], § 814(c), Dec. 12, 2003, [117 Stat. 2592][/us/stat/117/2592], provided that: 
 
 > “The amendments made by subsections (a) and (b) \[enacting this section and amending the analysis to this chapter\] shall take effect on the 365th day following the date of enactment of this Act \[Dec. 12, 2003\].”
 
  __Facilitation__ 
 
-[Pub. L. 112–95, title III, § 304(b)][/us/pl/112/95/s304/b], Feb. 14, 2012, [126 Stat. 58][/us/stat/126/58], provided that: 
+[Pub. L. 112–95, title III][/us/pl/112/95/tIII], § 304(b), Feb. 14, 2012, [126 Stat. 58][/us/stat/126/58], provided that: 
 
 > “The Administrator of the Federal Aviation Administration shall work with air carriers to facilitate compliance with the requirements of [section 44728(f) of title 49][/us/usc/t49/s44728/f], United States Code (as amended by this section).”
 
@@ -108,15 +108,15 @@
 ----------
 ----------
 
-[/us/pl/108/176/s814/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs814%2Fa
+[/us/pl/108/176/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtVIII
 [/us/stat/117/2590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2590
-[/us/pl/112/95/s304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs304%2Fa
+[/us/pl/112/95/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtIII
 [/us/stat/126/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F58
 [/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
 [/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
-[/us/pl/108/176/s814/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs814%2Fc
+[/us/pl/108/176/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtVIII
 [/us/stat/117/2592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2592
-[/us/pl/112/95/s304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs304%2Fb
+[/us/pl/112/95/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtIII
 [/us/stat/126/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F58
 [/us/usc/t49/s44728/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44728%2Ff
 

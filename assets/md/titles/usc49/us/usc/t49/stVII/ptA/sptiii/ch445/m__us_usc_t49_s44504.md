@@ -43,7 +43,7 @@
 
     In carrying out this section, the Administrator, by negotiation or otherwise, may buy or exchange experimental aircraft, aircraft engines, propellers, and appliances that the Administrator decides may offer special advantages to aeronautics.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1176][/us/stat/108/1176]; [Pub. L. 106–181, title IX, § 904][/us/pl/106/181/s904], Apr. 5, 2000, [114 Stat. 196][/us/stat/114/196]; [Pub. L. 112–95, title IX, § 903(a)][/us/pl/112/95/s903/a], Feb. 14, 2012, [126 Stat. 138][/us/stat/126/138].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1176][/us/stat/108/1176]; [Pub. L. 106–181, title IX][/us/pl/106/181/tIX], § 904, Apr. 5, 2000, [114 Stat. 196][/us/stat/114/196]; [Pub. L. 112–95, title IX][/us/pl/112/95/tIX], § 903(a), Feb. 14, 2012, [126 Stat. 138][/us/stat/126/138].)
 
 <table>
 
@@ -167,7 +167,7 @@ In this section, the word “Administrator” in section 312(b) of the Federal A
 
  __Aviation Fuel Research and Development Program__ 
 
-[Pub. L. 112–95, title IX, § 910][/us/pl/112/95/s910], Feb. 14, 2012, [126 Stat. 141][/us/stat/126/141], provided that:
+[Pub. L. 112–95, title IX][/us/pl/112/95/tIX], § 910, Feb. 14, 2012, [126 Stat. 141][/us/stat/126/141], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -199,7 +199,7 @@ In this section, the word “Administrator” in section 312(b) of the Federal A
 
  __Research Program on Alternative Jet Fuel Technology for Civil Aircraft__ 
 
-[Pub. L. 112–95, title IX, § 911][/us/pl/112/95/s911], Feb. 14, 2012, [126 Stat. 142][/us/stat/126/142], provided that:
+[Pub. L. 112–95, title IX][/us/pl/112/95/tIX], § 911, Feb. 14, 2012, [126 Stat. 142][/us/stat/126/142], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -239,7 +239,7 @@ In this section, the word “Administrator” in section 312(b) of the Federal A
 
  __Production of Clean Coal Fuel Technology for Civilian Aircraft__ 
 
-[Pub. L. 112–95, title IX, § 914][/us/pl/112/95/s914], Feb. 14, 2012, [126 Stat. 144][/us/stat/126/144], provided that:
+[Pub. L. 112–95, title IX][/us/pl/112/95/tIX], § 914, Feb. 14, 2012, [126 Stat. 144][/us/stat/126/144], provided that:
 
 >     “(a)  __Establishment of Research Program__  __.—__ 
 
@@ -259,7 +259,7 @@ In this section, the word “Administrator” in section 312(b) of the Federal A
 
  __Research and Development of Equipment To Clean and Monitor the Engine and APU Bleed Air Supplied on Pressurized Aircraft__ 
 
-[Pub. L. 112–95, title IX, § 917][/us/pl/112/95/s917], Feb. 14, 2012, [126 Stat. 145][/us/stat/126/145], provided that:
+[Pub. L. 112–95, title IX][/us/pl/112/95/tIX], § 917, Feb. 14, 2012, [126 Stat. 145][/us/stat/126/145], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -279,7 +279,7 @@ In this section, the word “Administrator” in section 312(b) of the Federal A
 
  __FAA Center for Excellence for Applied Research and Training in the Use of Advanced Materials in Transport Aircraft__ 
 
-[Pub. L. 108–176, title VII, § 708][/us/pl/108/176/s708], Dec. 12, 2003, [117 Stat. 2582][/us/stat/117/2582], as amended by [Pub. L. 112–95, title IX, § 916][/us/pl/112/95/s916], Feb. 14, 2012, [126 Stat. 145][/us/stat/126/145], provided that:
+[Pub. L. 108–176, title VII][/us/pl/108/176/tVII], § 708, Dec. 12, 2003, [117 Stat. 2582][/us/stat/117/2582], as amended by [Pub. L. 112–95, title IX][/us/pl/112/95/tIX], § 916, Feb. 14, 2012, [126 Stat. 145][/us/stat/126/145], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -295,7 +295,7 @@ In this section, the word “Administrator” in section 312(b) of the Federal A
 
  __Rotorcraft Research and Development Initiative__ 
 
-[Pub. L. 108–176, title VII, § 711][/us/pl/108/176/s711], Dec. 12, 2003, [117 Stat. 2585][/us/stat/117/2585], provided that:
+[Pub. L. 108–176, title VII][/us/pl/108/176/tVII], § 711, Dec. 12, 2003, [117 Stat. 2585][/us/stat/117/2585], provided that:
 
 >     “(a)  __Objective__  __.—__ 
 
@@ -317,7 +317,7 @@ In this section, the word “Administrator” in section 312(b) of the Federal A
 
  __Specialty Metals Consortium__ 
 
-[Pub. L. 106–181, title VII, § 742][/us/pl/106/181/s742], Apr. 5, 2000, [114 Stat. 175][/us/stat/114/175], provided that:
+[Pub. L. 106–181, title VII][/us/pl/106/181/tVII], § 742, Apr. 5, 2000, [114 Stat. 175][/us/stat/114/175], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -334,11 +334,11 @@ In this section, the word “Administrator” in section 312(b) of the Federal A
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1176
-[/us/pl/106/181/s904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs904
+[/us/pl/106/181/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtIX
 [/us/stat/114/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F196
-[/us/pl/112/95/s903/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs903%2Fa
+[/us/pl/112/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtIX
 [/us/stat/126/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F138
 [/us/pl/85/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F726
 [/us/stat/72/752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F752
@@ -347,24 +347,24 @@ In this section, the word “Administrator” in section 312(b) of the Federal A
 [/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/pl/106/181/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106
-[/us/pl/112/95/s910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs910
+[/us/pl/112/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtIX
 [/us/stat/126/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F141
 [/us/usc/t49/s48102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs48102%2Fa
-[/us/pl/112/95/s911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs911
+[/us/pl/112/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtIX
 [/us/stat/126/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F142
 [/us/usc/t49/s48102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs48102%2Fa
-[/us/pl/112/95/s914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs914
+[/us/pl/112/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtIX
 [/us/stat/126/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F144
 [/us/usc/t49/s48102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs48102%2Fa
-[/us/pl/112/95/s917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs917
+[/us/pl/112/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtIX
 [/us/stat/126/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F145
-[/us/pl/108/176/s708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs708
+[/us/pl/108/176/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtVII
 [/us/stat/117/2582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2582
-[/us/pl/112/95/s916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs916
+[/us/pl/112/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtIX
 [/us/stat/126/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F145
-[/us/pl/108/176/s711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs711
+[/us/pl/108/176/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtVII
 [/us/stat/117/2585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2585
-[/us/pl/106/181/s742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs742
+[/us/pl/106/181/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtVII
 [/us/stat/114/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F175
 
 

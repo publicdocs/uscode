@@ -93,7 +93,7 @@
 
     An exemption from a standard or regulation prescribed under this section may be granted only if, before granting the exemption, the Administrator of the Federal Aviation Administration consults with the Administrator of the Environmental Protection Agency. However, if the Administrator of the Federal Aviation Administration finds that safety in air transportation or air commerce requires an exemption before the Administrator of the Environmental Protection Agency can be consulted, the exemption may be granted. The Administrator of the Federal Aviation Administration shall consult with the Administrator of the Environmental Protection Agency as soon as practicable after the exemption is granted.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1196][/us/stat/108/1196]; [Pub. L. 104–264, title IV, § 406(a)][/us/pl/104/264/s406/a], Oct. 9, 1996, [110 Stat. 3257][/us/stat/110/3257].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1196][/us/stat/108/1196]; [Pub. L. 104–264, title IV][/us/pl/104/264/tIV], § 406(a), Oct. 9, 1996, [110 Stat. 3257][/us/stat/110/3257].)
 
 <table>
 
@@ -267,9 +267,9 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 611(c); added July 21, 1968,
 [/us/usc/t49/s44704/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44704%2Fa
 [/us/usc/t42/s4332/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4332%2F2%2FC
 [/us/usc/t42/s4332/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4332%2F2%2FC
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1196
-[/us/pl/104/264/s406/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs406%2Fa
+[/us/pl/104/264/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2FtIV
 [/us/stat/110/3257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3257
 [/us/usc/t42/s4906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4906
 [/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264

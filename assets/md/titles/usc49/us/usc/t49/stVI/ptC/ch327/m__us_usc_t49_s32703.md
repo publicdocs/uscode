@@ -25,7 +25,7 @@
 
     (4) conspire to violate this section or section 32704 or 32705 of this title.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1049][/us/stat/108/1049]; [Pub. L. 103–429, § 6(33)][/us/pl/103/429/s6/33], Oct. 31, 1994, [108 Stat. 4380][/us/stat/108/4380].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1049][/us/stat/108/1049]; [Pub. L. 103–429][/us/pl/103/429], § 6(33), Oct. 31, 1994, [108 Stat. 4380][/us/stat/108/4380].)
 
 <table>
 
@@ -150,9 +150,9 @@ Oct. 20, 1972, Pub. L. 92–513, § 406, 86 Stat. 962.  </td>
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1049
-[/us/pl/103/429/s6/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F33
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/stat/108/4380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4380
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/act/1994-07-05/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1994-07-05%2Fs1

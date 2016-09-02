@@ -157,7 +157,7 @@
 
         (3) The Secretary shall solicit comments from the public in the development of the Policy and may consult with other Federal agencies as appropriate in drafting the Policy.
 
-(Added [Pub. L. 102–240, title I, § 1036(c)(1)][/us/pl/102/240/s1036/c/1], Dec. 18, 1991, [105 Stat. 1982][/us/stat/105/1982].)
+(Added [Pub. L. 102–240, title I][/us/pl/102/240/tI], § 1036(c)(1), Dec. 18, 1991, [105 Stat. 1982][/us/stat/105/1982].)
 
  __References in Text__ 
 
@@ -173,7 +173,7 @@
 
  __National Magnetic Levitation Prototype Development Program__ 
 
-[Pub. L. 102–240, title I, § 1036(b)][/us/pl/102/240/s1036/b], Dec. 18, 1991, [105 Stat. 1978][/us/stat/105/1978], provided that:
+[Pub. L. 102–240, title I][/us/pl/102/240/tI], § 1036(b), Dec. 18, 1991, [105 Stat. 1978][/us/stat/105/1978], provided that:
 
 >     “(1)  __Management of program__  __.—__ 
 
@@ -275,7 +275,7 @@
 [/us/usc/t15/s3710a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3710a
 [/us/usc/t35/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs201%2Fb
 [/us/usc/t15/s3701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3701
-[/us/pl/102/240/s1036/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1036%2Fc%2F1
+[/us/pl/102/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2FtI
 [/us/stat/105/1982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1982
 [/us/pl/102/240/s1036/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1036%2Fb
 [/us/pl/96/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F480
@@ -285,7 +285,7 @@
 [/us/usc/t45/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs431
 [/us/pl/102/240/s1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1100
 [/us/usc/t23/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs104
-[/us/pl/102/240/s1036/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1036%2Fb
+[/us/pl/102/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2FtI
 [/us/stat/105/1978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1978
 [/us/usc/t5/s552/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fb%2F4
 [/us/usc/t15/s3701–371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3701%E2%80%93371

@@ -173,7 +173,7 @@
 
     Not later than 5 years after the initial designation under subsection (c), and every 5 years thereafter, the Under Secretary, using the designation factors described in subsection (c), shall redesignate the National Multimodal Freight Network.
 
-(Added [Pub. L. 114–94, div. A, title VIII, § 8001(a)][/us/pl/114/94/s8001/a], Dec. 4, 2015, [129 Stat. 1607][/us/stat/129/1607].)
+(Added [Pub. L. 114–94, div. A, title VIII][/us/pl/114/94/dA/tVIII], § 8001(a), Dec. 4, 2015, [129 Stat. 1607][/us/stat/129/1607].)
 
  __References in Text__ 
 
@@ -202,7 +202,7 @@
 [/us/usc/t33/s1804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1804
 [/us/usc/t49/s70101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs70101%2Fb
 [/us/usc/t23/s167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs167
-[/us/pl/114/94/s8001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs8001%2Fa
+[/us/pl/114/94/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtVIII
 [/us/stat/129/1607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1607
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/usc/t51/s50903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs50903

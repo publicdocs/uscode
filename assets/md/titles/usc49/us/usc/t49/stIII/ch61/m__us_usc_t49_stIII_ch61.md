@@ -99,9 +99,9 @@
 
  __Amendments__ 
 
-    2006—[Pub. L. 109–468, § 3(b)][/us/pl/109/468/s3/b], Dec. 29, 2006, [120 Stat. 3490][/us/stat/120/3490], added item 6109.
+    2006—[Pub. L. 109–468][/us/pl/109/468], § 3(b), Dec. 29, 2006, [120 Stat. 3490][/us/stat/120/3490], added item 6109.
 
-    2002—[Pub. L. 107–355, § 2(c)(2)][/us/pl/107/355/s2/c/2], Dec. 17, 2002, [116 Stat. 2986][/us/stat/116/2986], substituted “Implementation of best practices guidelines” for “Review of one-call system best practices” in item 6105.
+    2002—[Pub. L. 107–355][/us/pl/107/355], § 2(c)(2), Dec. 17, 2002, [116 Stat. 2986][/us/stat/116/2986], substituted “Implementation of best practices guidelines” for “Review of one-call system best practices” in item 6105.
 
 ----------
 
@@ -110,9 +110,9 @@
 ----------
 ----------
 
-[/us/pl/109/468/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F468%2Fs3%2Fb
+[/us/pl/109/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F468
 [/us/stat/120/3490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3490
-[/us/pl/107/355/s2/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355%2Fs2%2Fc%2F2
+[/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355
 [/us/stat/116/2986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2986
 
 

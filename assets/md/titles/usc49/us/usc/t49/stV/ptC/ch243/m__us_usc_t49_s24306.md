@@ -23,7 +23,7 @@
 
     State and local laws and regulations that impair the provision of auto-ferry transportation do not apply to Amtrak or a rail carrier providing auto-ferry transportation. A rail carrier may not refuse to participate with Amtrak in providing auto-ferry transportation because a State or local law or regulation makes the transportation unlawful.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 910][/us/stat/108/910]; [Pub. L. 105–134, title I, § 102][/us/pl/105/134/s102], Dec. 2, 1997, [111 Stat. 2572][/us/stat/111/2572].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 910][/us/stat/108/910]; [Pub. L. 105–134, title I][/us/pl/105/134/tI], § 102, Dec. 2, 1997, [111 Stat. 2572][/us/stat/111/2572].)
 
 <table>
 
@@ -125,9 +125,9 @@ Oct. 30, 1970, Pub. L. 91–518, 84 Stat. 1327, § 306(h); added Nov. 3, 1973,
 
  __Amendments__ 
 
-    1997—Subsec. (a). [Pub. L. 105–134, § 102(1)][/us/pl/105/134/s102/1], struck out at end “When requested by Amtrak, a department, agency, or instrumentality of the United States Government shall assist in carrying out this section.”
+    1997—Subsec. (a). [Pub. L. 105–134][/us/pl/105/134], § 102(1), struck out at end “When requested by Amtrak, a department, agency, or instrumentality of the United States Government shall assist in carrying out this section.”
 
-    Subsec. (b). [Pub. L. 105–134, § 102(2)][/us/pl/105/134/s102/2], added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows:
+    Subsec. (b). [Pub. L. 105–134][/us/pl/105/134], § 102(2), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows:
 
     “(1) A person primarily providing auto-ferry transportation and any other person not a rail carrier may provide auto-ferry transportation over any route under a certificate issued by the Interstate Commerce Commission if the Commission finds that the auto-ferry transportation—
 
@@ -146,11 +146,11 @@ Oct. 30, 1970, Pub. L. 91–518, 84 Stat. 1327, § 306(h); added Nov. 3, 1973,
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F910
-[/us/pl/105/134/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2Fs102
+[/us/pl/105/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2FtI
 [/us/stat/111/2572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2572
-[/us/pl/105/134/s102/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2Fs102%2F1
-[/us/pl/105/134/s102/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2Fs102%2F2
+[/us/pl/105/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134
+[/us/pl/105/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134
 
 

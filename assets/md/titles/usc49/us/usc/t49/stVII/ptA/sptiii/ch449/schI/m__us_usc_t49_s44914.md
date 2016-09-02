@@ -17,7 +17,7 @@
 
     In consultation with air carriers, airport authorities, and others the Under Secretary of Transportation for Security considers appropriate, the Under Secretary shall develop guidelines for airport design and construction to allow for maximum security enhancement. In developing the guidelines, the Under Secretary shall consider the results of the assessment carried out under [section 44904(a) of this title][/us/usc/t49/s44904/a].
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1214][/us/stat/108/1214]; [Pub. L. 107–71, title I, § 101(f)(7)][/us/pl/107/71/s101/f/7], (9), Nov. 19, 2001, [115 Stat. 603][/us/stat/115/603].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1214][/us/stat/108/1214]; [Pub. L. 107–71, title I][/us/pl/107/71/tI], § 101(f)(7), (9), Nov. 19, 2001, [115 Stat. 603][/us/stat/115/603].)
 
 <table>
 
@@ -99,9 +99,9 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 612(d); added Nov. 16, 1990,
 ----------
 
 [/us/usc/t49/s44904/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44904%2Fa
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1214
-[/us/pl/107/71/s101/f/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs101%2Ff%2F7
+[/us/pl/107/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2FtI
 [/us/stat/115/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F603
 [/us/pl/101/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F604
 [/us/stat/104/3075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3075

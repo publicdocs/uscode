@@ -131,7 +131,7 @@
 
     In this section, the term “Northeast Corridor” means the main line between Boston, Massachusetts, and the District of Columbia, and the Northeast Corridor branch lines connecting to Harrisburg, Pennsylvania, Springfield, Massachusetts, and Spuyten Duyvil, New York, including the facilities and services used to operate and maintain those lines.
 
-(Added [Pub. L. 114–94, div. A, title XI, § 11306(a)(2)][/us/pl/114/94/s11306/a/2], Dec. 4, 2015, [129 Stat. 1658][/us/stat/129/1658].)
+(Added [Pub. L. 114–94, div. A, title XI][/us/pl/114/94/dA/tXI], § 11306(a)(2), Dec. 4, 2015, [129 Stat. 1658][/us/stat/129/1658].)
 
  __References in Text__ 
 
@@ -152,7 +152,7 @@
 ----------
 ----------
 
-[/us/pl/114/94/s11306/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11306%2Fa%2F2
+[/us/pl/114/94/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtXI
 [/us/stat/129/1658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1658
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/usc/t49/s24903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24903

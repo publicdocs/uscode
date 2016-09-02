@@ -107,7 +107,7 @@
 
         If the Secretary determines that a person that receives funds under this chapter is not in compliance with regulations prescribed under this section, the Secretary may bar the person from receiving Federal transit assistance in an amount the Secretary considers appropriate.
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 832][/us/stat/108/832]; [Pub. L. 103–429, § 6(13)][/us/pl/103/429/s6/13], Oct. 31, 1994, [108 Stat. 4379][/us/stat/108/4379]; [Pub. L. 104–59, title III, § 342(a)][/us/pl/104/59/s342/a], Nov. 28, 1995, [109 Stat. 608][/us/stat/109/608]; [Pub. L. 109–59, title III][/us/pl/109/59], §§ 3002(b)(3), (4), 3030, Aug. 10, 2005, [119 Stat. 1545][/us/stat/119/1545], 1625; [Pub. L. 112–141, div. B][/us/pl/112/141], §§ 20022, 20030(f), July 6, 2012, [126 Stat. 717][/us/stat/126/717], 731.)
+([Pub. L. 103–272][/us/pl/103/272], § 1(d), July 5, 1994, [108 Stat. 832][/us/stat/108/832]; [Pub. L. 103–429][/us/pl/103/429], § 6(13), Oct. 31, 1994, [108 Stat. 4379][/us/stat/108/4379]; [Pub. L. 104–59, title III][/us/pl/104/59/tIII], § 342(a), Nov. 28, 1995, [109 Stat. 608][/us/stat/109/608]; [Pub. L. 109–59, title III][/us/pl/109/59/tIII], §§ 3002(b)(3), (4), 3030, Aug. 10, 2005, [119 Stat. 1545][/us/stat/119/1545], 1625; [Pub. L. 112–141, div. B][/us/pl/112/141/dB], §§ 20022, 20030(f), July 6, 2012, [126 Stat. 717][/us/stat/126/717], 731.)
 
 <table>
 
@@ -277,25 +277,25 @@ Oct. 28, 1991, Pub. L. 102–143, § 6, 105 Stat. 962.  </td>
 
  __Amendments__ 
 
-    2012—[Pub. L. 112–141, § 20030(f)][/us/pl/112/141/s20030/f], substituted “Secretary” for “Secretary of Transportation” wherever appearing.
+    2012—[Pub. L. 112–141][/us/pl/112/141], § 20030(f), substituted “Secretary” for “Secretary of Transportation” wherever appearing.
 
-    Subsec. (g). [Pub. L. 112–141, § 20022][/us/pl/112/141/s20022], added subsec. (g) and struck out former subsec. (g). Prior to amendment, text read as follows: “A person is not eligible for financial assistance under section 5307, 5309, or 5311 of this title if the person is required, under regulations the Secretary of Transportation prescribes under this section, to establish a program of alcohol and controlled substances testing and does not establish the program.”
+    Subsec. (g). [Pub. L. 112–141][/us/pl/112/141], § 20022, added subsec. (g) and struck out former subsec. (g). Prior to amendment, text read as follows: “A person is not eligible for financial assistance under section 5307, 5309, or 5311 of this title if the person is required, under regulations the Secretary of Transportation prescribes under this section, to establish a program of alcohol and controlled substances testing and does not establish the program.”
 
-    2005—Subsec. (a)(3). [Pub. L. 109–59, § 3030(a)][/us/pl/109/59/s3030/a], substituted “section 20140 or 31306 of this title or section 2303a, 7101(i), or 7302(e) of title 46” for “section 20140 or 31306 of this title” and inserted at end “The Secretary may also decide that a form of public transportation is covered adequately, for employee alcohol and controlled substances testing purposes, under the alcohol and controlled substance statutes or regulations of an agency within the Department of Transportation or the Coast Guard.”.
+    2005—Subsec. (a)(3). [Pub. L. 109–59][/us/pl/109/59], § 3030(a), substituted “section 20140 or 31306 of this title or section 2303a, 7101(i), or 7302(e) of title 46” for “section 20140 or 31306 of this title” and inserted at end “The Secretary may also decide that a form of public transportation is covered adequately, for employee alcohol and controlled substances testing purposes, under the alcohol and controlled substance statutes or regulations of an agency within the Department of Transportation or the Coast Guard.”.
 
-    [Pub. L. 109–59, § 3002(b)(4)][/us/pl/109/59/s3002/b/4], substituted “public transportation” for “mass transportation” in two places.
+    [Pub. L. 109–59][/us/pl/109/59], § 3002(b)(4), substituted “public transportation” for “mass transportation” in two places.
 
-    Subsec. (b). [Pub. L. 109–59, § 3002(b)(3)][/us/pl/109/59/s3002/b/3], substituted “Public” for “Mass” in heading.
+    Subsec. (b). [Pub. L. 109–59][/us/pl/109/59], § 3002(b)(3), substituted “Public” for “Mass” in heading.
 
-    Subsec. (b)(1)(A). [Pub. L. 109–59, § 3030(b)][/us/pl/109/59/s3030/b], struck out “or [section 103(e)(4) of title 23][/us/usc/t23/s103/e/4]” after “5311 of this title”.
+    Subsec. (b)(1)(A). [Pub. L. 109–59][/us/pl/109/59], § 3030(b), struck out “or [section 103(e)(4) of title 23][/us/usc/t23/s103/e/4]” after “5311 of this title”.
 
-    [Pub. L. 109–59, § 3002(b)(4)][/us/pl/109/59/s3002/b/4], substituted “public transportation” for “mass transportation” wherever appearing.
+    [Pub. L. 109–59][/us/pl/109/59], § 3002(b)(4), substituted “public transportation” for “mass transportation” wherever appearing.
 
-    Subsecs. (b)(1)(B), (2), (c)(2), (e). [Pub. L. 109–59, § 3002(b)(4)][/us/pl/109/59/s3002/b/4], substituted “public transportation” for “mass transportation” wherever appearing.
+    Subsecs. (b)(1)(B), (2), (c)(2), (e). [Pub. L. 109–59][/us/pl/109/59], § 3002(b)(4), substituted “public transportation” for “mass transportation” wherever appearing.
 
-    Subsec. (f)(3). [Pub. L. 109–59, § 3030(c)][/us/pl/109/59/s3030/c], struck out par. (3) which read as follows: “This section does not prevent the Secretary of Transportation from continuing in effect, amending, or further supplementing a regulation prescribed before October 28, 1991, governing the use of alcohol or a controlled substance by mass transportation employees.”
+    Subsec. (f)(3). [Pub. L. 109–59][/us/pl/109/59], § 3030(c), struck out par. (3) which read as follows: “This section does not prevent the Secretary of Transportation from continuing in effect, amending, or further supplementing a regulation prescribed before October 28, 1991, governing the use of alcohol or a controlled substance by mass transportation employees.”
 
-    Subsec. (g). [Pub. L. 109–59, § 3030(b)][/us/pl/109/59/s3030/b], struck out “or [section 103(e)(4) of title 23][/us/usc/t23/s103/e/4]” after “5311 of this title”.
+    Subsec. (g). [Pub. L. 109–59][/us/pl/109/59], § 3030(b), struck out “or [section 103(e)(4) of title 23][/us/usc/t23/s103/e/4]” after “5311 of this title”.
 
     1995—Subsec. (b)(1)(A). [Pub. L. 104–59][/us/pl/104/59] added subpar. (A) and struck out former subpar. (A) which read as follows: “In the interest of mass transportation safety, the Secretary of Transportation shall prescribe regulations not later than October 28, 1992, that establish a program requiring mass transportation operations that receive financial assistance under section 5307, 5309, or 5311 of this title or [section 103(e)(4) of title 23][/us/usc/t23/s103/e/4] to conduct preemployment, reasonable suspicion, random, and post-accident testing of mass transportation employees responsible for safety-sensitive functions (as decided by the Secretary) for the use of alcohol or a controlled substance in violation of law or a United States Government regulation.”
 
@@ -317,28 +317,28 @@ Oct. 28, 1991, Pub. L. 102–143, § 6, 105 Stat. 962.  </td>
 ----------
 
 [/us/usc/t21/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802
-[/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F832
-[/us/pl/103/429/s6/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F13
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/stat/108/4379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4379
-[/us/pl/104/59/s342/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2Fs342%2Fa
+[/us/pl/104/59/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2FtIII
 [/us/stat/109/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F608
-[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIII
 [/us/stat/119/1545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1545
-[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdB
 [/us/stat/126/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F717
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
-[/us/pl/112/141/s20030/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs20030%2Ff
-[/us/pl/112/141/s20022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs20022
-[/us/pl/109/59/s3030/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3030%2Fa
-[/us/pl/109/59/s3002/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3002%2Fb%2F4
-[/us/pl/109/59/s3002/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3002%2Fb%2F3
-[/us/pl/109/59/s3030/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3030%2Fb
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/usc/t23/s103/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs103%2Fe%2F4
-[/us/pl/109/59/s3002/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3002%2Fb%2F4
-[/us/pl/109/59/s3002/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3002%2Fb%2F4
-[/us/pl/109/59/s3030/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3030%2Fc
-[/us/pl/109/59/s3030/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3030%2Fb
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/usc/t23/s103/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs103%2Fe%2F4
 [/us/pl/104/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59
 [/us/usc/t23/s103/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs103%2Fe%2F4

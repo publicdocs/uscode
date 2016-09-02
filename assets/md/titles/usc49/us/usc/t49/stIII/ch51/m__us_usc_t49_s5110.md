@@ -49,7 +49,7 @@
 
         Any person required to keep a shipping paper under this subsection shall, upon request, make it available to a Federal, State, or local government agency at reasonable times and locations.
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 768][/us/stat/108/768]; [Pub. L. 103–311, title I, § 115][/us/pl/103/311/s115], Aug. 26, 1994, [108 Stat. 1678][/us/stat/108/1678]; [Pub. L. 109–59, title VII][/us/pl/109/59], §§ 7110, 7126, Aug. 10, 2005, [119 Stat. 1898][/us/stat/119/1898], 1909; [Pub. L. 110–244, title III, § 302(i)][/us/pl/110/244/s302/i], June 6, 2008, [122 Stat. 1618][/us/stat/122/1618].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(d), July 5, 1994, [108 Stat. 768][/us/stat/108/768]; [Pub. L. 103–311, title I][/us/pl/103/311/tI], § 115, Aug. 26, 1994, [108 Stat. 1678][/us/stat/108/1678]; [Pub. L. 109–59, title VII][/us/pl/109/59/tVII], §§ 7110, 7126, Aug. 10, 2005, [119 Stat. 1898][/us/stat/119/1898], 1909; [Pub. L. 110–244, title III][/us/pl/110/244/tIII], § 302(i), June 6, 2008, [122 Stat. 1618][/us/stat/122/1618].)
 
 <table>
 
@@ -143,27 +143,27 @@ Jan. 3, 1975, Pub. L. 93–633, 88 Stat. 2156, § 105(g); added Nov. 16, 1990,
 
  __Amendments__ 
 
-    2008—Subsec. (d)(1). [Pub. L. 110–244, § 302(i)(2)][/us/pl/110/244/s302/i/2], substituted “offeror’s” for “shipper’s”.
+    2008—Subsec. (d)(1). [Pub. L. 110–244][/us/pl/110/244], § 302(i)(2), substituted “offeror’s” for “shipper’s”.
 
-    [Pub. L. 110–244, § 302(i)(1)][/us/pl/110/244/s302/i/1], which directed substitution of “Offerors” for “Shippers” “in the subsection heading”, was executed by making the substitution in par. (1) heading to reflect the probable intent of Congress.
+    [Pub. L. 110–244][/us/pl/110/244], § 302(i)(1), which directed substitution of “Offerors” for “Shippers” “in the subsection heading”, was executed by making the substitution in par. (1) heading to reflect the probable intent of Congress.
 
-    2005—Subsec. (a). [Pub. L. 109–59, § 7126][/us/pl/109/59/s7126], substituted “Secretary apply” for “Secretary of Transportation apply”.
+    2005—Subsec. (a). [Pub. L. 109–59][/us/pl/109/59], § 7126, substituted “Secretary apply” for “Secretary of Transportation apply”.
 
-    [Pub. L. 109–59, § 7110(a)(1)][/us/pl/109/59/s7110/a/1], substituted “in regulations” for “under subsection (b) of this section”.
+    [Pub. L. 109–59][/us/pl/109/59], § 7110(a)(1), substituted “in regulations” for “under subsection (b) of this section”.
 
-    Subsecs. (b), (c). [Pub. L. 109–59, § 7110(a)(2)][/us/pl/109/59/s7110/a/2], (3), redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out former subsec. (b) which related to considerations and requirements in carrying out subsec. (a).
+    Subsecs. (b), (c). [Pub. L. 109–59][/us/pl/109/59], § 7110(a)(2), (3), redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out former subsec. (b) which related to considerations and requirements in carrying out subsec. (a).
 
-    Subsec. (d). [Pub. L. 109–59, § 7110(b)][/us/pl/109/59/s7110/b], reenacted heading without change and amended text of subsec. (d) generally. Prior to amendment, text read as follows: “After the hazardous material to which a shipping paper provided to a carrier under subsection (a) applies is no longer in transportation, the person who provided the shipping paper and the carrier required to maintain it under subsection (a) shall retain the paper or electronic image thereof for a period of 1 year to be accessible through their respective principal places of business. Such person and carrier shall, upon request, make the shipping paper available to a Federal, State, or local government agency at reasonable times and locations.”
+    Subsec. (d). [Pub. L. 109–59][/us/pl/109/59], § 7110(b), reenacted heading without change and amended text of subsec. (d) generally. Prior to amendment, text read as follows: “After the hazardous material to which a shipping paper provided to a carrier under subsection (a) applies is no longer in transportation, the person who provided the shipping paper and the carrier required to maintain it under subsection (a) shall retain the paper or electronic image thereof for a period of 1 year to be accessible through their respective principal places of business. Such person and carrier shall, upon request, make the shipping paper available to a Federal, State, or local government agency at reasonable times and locations.”
 
-    [Pub. L. 109–59, § 7110(a)(3)][/us/pl/109/59/s7110/a/3], redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
+    [Pub. L. 109–59][/us/pl/109/59], § 7110(a)(3), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
 
-    Subsec. (e). [Pub. L. 109–59, § 7110(a)(3)][/us/pl/109/59/s7110/a/3], redesignated subsec. (e) as (d).
+    Subsec. (e). [Pub. L. 109–59][/us/pl/109/59], § 7110(a)(3), redesignated subsec. (e) as (d).
 
     1994—Subsec. (e). [Pub. L. 103–311][/us/pl/103/311] added subsec. (e).
 
  __Improvements to Hazardous Materials Identification Systems__ 
 
-[Pub. L. 101–615, § 25][/us/pl/101/615/s25], Nov. 16, 1990, [104 Stat. 3273][/us/stat/104/3273], provided that:
+[Pub. L. 101–615][/us/pl/101/615], § 25, Nov. 16, 1990, [104 Stat. 3273][/us/stat/104/3273], provided that:
 
 >     “(a) __Rulemaking Proceeding.—__ 
 
@@ -253,7 +253,7 @@ Jan. 3, 1975, Pub. L. 93–633, 88 Stat. 2156, § 105(g); added Nov. 16, 1990,
 
  __Continually Monitored Telephone Systems__ 
 
-[Pub. L. 101–615, § 26][/us/pl/101/615/s26], Nov. 16, 1990, [104 Stat. 3273][/us/stat/104/3273], provided that:
+[Pub. L. 101–615][/us/pl/101/615], § 26, Nov. 16, 1990, [104 Stat. 3273][/us/stat/104/3273], provided that:
 
 >     “(a)  __Rulemaking Proceeding__  __.—__ 
 
@@ -270,28 +270,28 @@ Jan. 3, 1975, Pub. L. 93–633, 88 Stat. 2156, § 105(g); added Nov. 16, 1990,
 ----------
 ----------
 
-[/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F768
-[/us/pl/103/311/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311%2Fs115
+[/us/pl/103/311/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311%2FtI
 [/us/stat/108/1678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1678
-[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtVII
 [/us/stat/119/1898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1898
-[/us/pl/110/244/s302/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs302%2Fi
+[/us/pl/110/244/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2FtIII
 [/us/stat/122/1618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1618
-[/us/pl/110/244/s302/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs302%2Fi%2F2
-[/us/pl/110/244/s302/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs302%2Fi%2F1
-[/us/pl/109/59/s7126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7126
-[/us/pl/109/59/s7110/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7110%2Fa%2F1
-[/us/pl/109/59/s7110/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7110%2Fa%2F2
-[/us/pl/109/59/s7110/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7110%2Fb
-[/us/pl/109/59/s7110/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7110%2Fa%2F3
-[/us/pl/109/59/s7110/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7110%2Fa%2F3
+[/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
+[/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/103/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311
-[/us/pl/101/615/s25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F615%2Fs25
+[/us/pl/101/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F615
 [/us/stat/104/3273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3273
 [/us/usc/t49/s5101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5101
 [/us/usc/t49/s5127/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5127%2Fa
-[/us/pl/101/615/s26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F615%2Fs26
+[/us/pl/101/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F615
 [/us/stat/104/3273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3273
 
 

@@ -71,7 +71,7 @@
 
         (3) a process for recipients that the Secretary has found require more frequent oversight to return to quarterly reviews for purposes of paragraph (2)(B).
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 826][/us/stat/108/826]; [Pub. L. 103–429, § 6(12)][/us/pl/103/429/s6/12], Oct. 31, 1994, [108 Stat. 4379][/us/stat/108/4379]; [Pub. L. 104–287, § 5(17)][/us/pl/104/287/s5/17], Oct. 11, 1996, [110 Stat. 3390][/us/stat/110/3390]; [Pub. L. 105–178, title III, § 3024][/us/pl/105/178/s3024], June 9, 1998, [112 Stat. 364][/us/stat/112/364]; [Pub. L. 109–59, title III, § 3026][/us/pl/109/59/s3026], Aug. 10, 2005, [119 Stat. 1622][/us/stat/119/1622]; [Pub. L. 112–141, div. B, § 20020][/us/pl/112/141/s20020], July 6, 2012, [126 Stat. 708][/us/stat/126/708]; [Pub. L. 114–94, div. A, title III, § 3012][/us/pl/114/94/s3012], Dec. 4, 2015, [129 Stat. 1475][/us/stat/129/1475].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(d), July 5, 1994, [108 Stat. 826][/us/stat/108/826]; [Pub. L. 103–429][/us/pl/103/429], § 6(12), Oct. 31, 1994, [108 Stat. 4379][/us/stat/108/4379]; [Pub. L. 104–287][/us/pl/104/287], § 5(17), Oct. 11, 1996, [110 Stat. 3390][/us/stat/110/3390]; [Pub. L. 105–178, title III][/us/pl/105/178/tIII], § 3024, June 9, 1998, [112 Stat. 364][/us/stat/112/364]; [Pub. L. 109–59, title III][/us/pl/109/59/tIII], § 3026, Aug. 10, 2005, [119 Stat. 1622][/us/stat/119/1622]; [Pub. L. 112–141, div. B][/us/pl/112/141/dB], § 20020, July 6, 2012, [126 Stat. 708][/us/stat/126/708]; [Pub. L. 114–94, div. A, title III][/us/pl/114/94/dA/tIII], § 3012, Dec. 4, 2015, [129 Stat. 1475][/us/stat/129/1475].)
 
 <table>
 
@@ -233,35 +233,35 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 23(h); added Nov. 21, 1989, P
 
  __Amendments__ 
 
-    2015—Subsec. (c). [Pub. L. 114–94, § 3012(1)][/us/pl/114/94/s3012/1], which directed substitution of section “5338(f)” for “section 5338(i)”, was executed by substituting “section 5338(f)” for “section 5338(i)”, to reflect the probable intent of Congress.
+    2015—Subsec. (c). [Pub. L. 114–94][/us/pl/114/94], § 3012(1), which directed substitution of section “5338(f)” for “section 5338(i)”, was executed by substituting “section 5338(f)” for “section 5338(i)”, to reflect the probable intent of Congress.
 
-    Subsec. (d)(1). [Pub. L. 114–94, § 3012(2)(A)(i)][/us/pl/114/94/s3012/2/A/i], which directed substitution of section 5338(f) for “section 5338(i)” without placing quotation marks around the language to be substituted, was executed by substituting “section 5338(f)” for “section 5338(i)”, to reflect the probable intent of Congress.
+    Subsec. (d)(1). [Pub. L. 114–94][/us/pl/114/94], § 3012(2)(A)(i), which directed substitution of section 5338(f) for “section 5338(i)” without placing quotation marks around the language to be substituted, was executed by substituting “section 5338(f)” for “section 5338(i)”, to reflect the probable intent of Congress.
 
-    Subsec. (d)(2), (3). [Pub. L. 114–94, § 3012(2)(A)(ii)][/us/pl/114/94/s3012/2/A/ii], (B), added pars. (2) and (3) and struck out former par. (2), which read as follows: “a requirement that oversight begin during the project development phase of a project, unless the Secretary finds it more appropriate to begin the oversight during another phase of the project, to maximize the transportation benefits and cost savings associated with project management oversight.”
+    Subsec. (d)(2), (3). [Pub. L. 114–94][/us/pl/114/94], § 3012(2)(A)(ii), (B), added pars. (2) and (3) and struck out former par. (2), which read as follows: “a requirement that oversight begin during the project development phase of a project, unless the Secretary finds it more appropriate to begin the oversight during another phase of the project, to maximize the transportation benefits and cost savings associated with project management oversight.”
 
-    2012—Subsec. (a). [Pub. L. 112–141, § 20020(1)(A)][/us/pl/112/141/s20020/1/A], in introductory provisions, substituted “Federal financial assistance for a major capital project for public transportation under this chapter or any other provision of Federal law, a recipient must prepare a project management plan approved by the Secretary and carry out the project in accordance with the project management plan” for “United States Government financial assistance for a major capital project under this chapter or the National Capital Transportation Act of 1969 ([Public Law 91–143][/us/pl/91/143], [83 Stat. 320][/us/stat/83/320]), a recipient must prepare and carry out a project management plan approved by the Secretary of Transportation”.
+    2012—Subsec. (a). [Pub. L. 112–141][/us/pl/112/141], § 20020(1)(A), in introductory provisions, substituted “Federal financial assistance for a major capital project for public transportation under this chapter or any other provision of Federal law, a recipient must prepare a project management plan approved by the Secretary and carry out the project in accordance with the project management plan” for “United States Government financial assistance for a major capital project under this chapter or the National Capital Transportation Act of 1969 ([Public Law 91–143][/us/pl/91/143], [83 Stat. 320][/us/stat/83/320]), a recipient must prepare and carry out a project management plan approved by the Secretary of Transportation”.
 
-    Subsec. (a)(12). [Pub. L. 112–141, § 20020(1)(B)][/us/pl/112/141/s20020/1/B], substituted “quarterly” for “each month”.
+    Subsec. (a)(12). [Pub. L. 112–141][/us/pl/112/141], § 20020(1)(B), substituted “quarterly” for “each month”.
 
-    Subsec. (c). [Pub. L. 112–141, § 20020(2)][/us/pl/112/141/s20020/2], (3), added subsec. (c) and struck out former subsec. (c) which related to limitations.
+    Subsec. (c). [Pub. L. 112–141][/us/pl/112/141], § 20020(2), (3), added subsec. (c) and struck out former subsec. (c) which related to limitations.
 
-    Subsec. (d). [Pub. L. 112–141, § 20020(2)][/us/pl/112/141/s20020/2], (4), redesignated subsec. (e) as (d) and struck out former subsec. (d) which related to access to sites and records.
+    Subsec. (d). [Pub. L. 112–141][/us/pl/112/141], § 20020(2), (4), redesignated subsec. (e) as (d) and struck out former subsec. (d) which related to access to sites and records.
 
-    Subsec. (d)(1). [Pub. L. 112–141, § 20020(5)(A)][/us/pl/112/141/s20020/5/A], substituted “section 5338(i)” for “subsection (c) of this section”.
+    Subsec. (d)(1). [Pub. L. 112–141][/us/pl/112/141], § 20020(5)(A), substituted “section 5338(i)” for “subsection (c) of this section”.
 
-    Subsec. (d)(2). [Pub. L. 112–141, § 20020(5)(B)][/us/pl/112/141/s20020/5/B], substituted “project development phase” for “preliminary engineering stage” and “another phase” for “another stage”.
+    Subsec. (d)(2). [Pub. L. 112–141][/us/pl/112/141], § 20020(5)(B), substituted “project development phase” for “preliminary engineering stage” and “another phase” for “another stage”.
 
-    Subsec. (e). [Pub. L. 112–141, § 20020(4)][/us/pl/112/141/s20020/4], redesignated subsec. (e) as (d).
+    Subsec. (e). [Pub. L. 112–141][/us/pl/112/141], § 20020(4), redesignated subsec. (e) as (d).
 
-    Subsec. (f). [Pub. L. 112–141, § 20020(2)][/us/pl/112/141/s20020/2], struck out subsec. (f). Text read as follows: “A recipient of financial assistance for a project under this chapter with an estimated total cost of $1,000,000,000 or more shall submit to the Secretary an annual financial plan for the project. The plan shall be based on detailed annual estimates of the cost to complete the remaining elements of the project and on reasonable assumptions, as determined by the Secretary, of future increases in the cost to complete the project.”
+    Subsec. (f). [Pub. L. 112–141][/us/pl/112/141], § 20020(2), struck out subsec. (f). Text read as follows: “A recipient of financial assistance for a project under this chapter with an estimated total cost of $1,000,000,000 or more shall submit to the Secretary an annual financial plan for the project. The plan shall be based on detailed annual estimates of the cost to complete the remaining elements of the project and on reasonable assumptions, as determined by the Secretary, of future increases in the cost to complete the project.”
 
-    2005—Subsec. (a)(13). [Pub. L. 109–59, § 3026(a)][/us/pl/109/59/s3026/a], added par. (13).
+    2005—Subsec. (a)(13). [Pub. L. 109–59][/us/pl/109/59], § 3026(a), added par. (13).
 
-    Subsec. (c). [Pub. L. 109–59, § 3026(b)][/us/pl/109/59/s3026/b], amended subsec. (c) generally. Prior to amendment, subsec. (c) specified limitations on use of available amounts for certain purposes.
+    Subsec. (c). [Pub. L. 109–59][/us/pl/109/59], § 3026(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) specified limitations on use of available amounts for certain purposes.
 
-    1998—Subsec. (c)(2). [Pub. L. 105–178, § 3024(a)][/us/pl/105/178/s3024/a], substituted “enter into contracts” for “make contracts” and inserted “and to provide technical assistance to correct deficiencies identified in compliance reviews and audits carried out under this section” before period at end of first sentence.
+    1998—Subsec. (c)(2). [Pub. L. 105–178][/us/pl/105/178], § 3024(a), substituted “enter into contracts” for “make contracts” and inserted “and to provide technical assistance to correct deficiencies identified in compliance reviews and audits carried out under this section” before period at end of first sentence.
 
-    Subsec. (f). [Pub. L. 105–178, § 3024(b)][/us/pl/105/178/s3024/b], added subsec. (f).
+    Subsec. (f). [Pub. L. 105–178][/us/pl/105/178], § 3024(b), added subsec. (f).
 
     1996—Subsec. (c)(1). [Pub. L. 104–287][/us/pl/104/287] substituted “to carry out a major project under section 5309” for “to carry out a major project under section 5307”.
 
@@ -285,7 +285,7 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 23(h); added Nov. 21, 1989, P
 
  __Financing of Oversight Activities__ 
 
-[Pub. L. 107–87, title III, § 319][/us/pl/107/87/s319], Dec. 18, 2001, [115 Stat. 858][/us/stat/115/858], provided that: 
+[Pub. L. 107–87, title III][/us/pl/107/87/tIII], § 319, Dec. 18, 2001, [115 Stat. 858][/us/stat/115/858], provided that: 
 
 > “Beginning in fiscal year 2002 and thereafter, the Secretary may use up to 1 percent of the amounts made available to carry out [49 U.S.C. 5309][/us/usc/t49/s5309] for oversight activities under [49 U.S.C. 5327][/us/usc/t49/s5327].”
 
@@ -296,39 +296,39 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 23(h); added Nov. 21, 1989, P
 ----------
 ----------
 
-[/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F826
-[/us/pl/103/429/s6/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F12
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/stat/108/4379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4379
-[/us/pl/104/287/s5/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F17
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3390
-[/us/pl/105/178/s3024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs3024
+[/us/pl/105/178/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtIII
 [/us/stat/112/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F364
-[/us/pl/109/59/s3026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3026
+[/us/pl/109/59/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIII
 [/us/stat/119/1622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1622
-[/us/pl/112/141/s20020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs20020
+[/us/pl/112/141/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdB
 [/us/stat/126/708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F708
-[/us/pl/114/94/s3012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3012
+[/us/pl/114/94/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtIII
 [/us/stat/129/1475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1475
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
-[/us/pl/114/94/s3012/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3012%2F1
-[/us/pl/114/94/s3012/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3012%2F2%2FA%2Fi
-[/us/pl/114/94/s3012/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3012%2F2%2FA%2Fii
-[/us/pl/112/141/s20020/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs20020%2F1%2FA
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/91/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F143
 [/us/stat/83/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F320
-[/us/pl/112/141/s20020/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs20020%2F1%2FB
-[/us/pl/112/141/s20020/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs20020%2F2
-[/us/pl/112/141/s20020/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs20020%2F2
-[/us/pl/112/141/s20020/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs20020%2F5%2FA
-[/us/pl/112/141/s20020/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs20020%2F5%2FB
-[/us/pl/112/141/s20020/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs20020%2F4
-[/us/pl/112/141/s20020/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs20020%2F2
-[/us/pl/109/59/s3026/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3026%2Fa
-[/us/pl/109/59/s3026/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3026%2Fb
-[/us/pl/105/178/s3024/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs3024%2Fa
-[/us/pl/105/178/s3024/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs3024%2Fb
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
@@ -343,7 +343,7 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 23(h); added Nov. 21, 1989, P
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/pl/103/429/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs9
 [/us/usc/t49/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs321
-[/us/pl/107/87/s319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F87%2Fs319
+[/us/pl/107/87/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F87%2FtIII
 [/us/stat/115/858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F858
 [/us/usc/t49/s5309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5309
 [/us/usc/t49/s5327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5327

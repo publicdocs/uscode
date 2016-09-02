@@ -79,7 +79,7 @@
 
     The Board shall have a seal that shall be judicially recognized.
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 746][/us/stat/108/746]; [Pub. L. 106–424, § 10][/us/pl/106/424/s10], Nov. 1, 2000, [114 Stat. 1886][/us/stat/114/1886]; [Pub. L. 109–443, § 9(a)][/us/pl/109/443/s9/a], (d), Dec. 21, 2006, [120 Stat. 3301][/us/stat/120/3301].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(d), July 5, 1994, [108 Stat. 746][/us/stat/108/746]; [Pub. L. 106–424][/us/pl/106/424], § 10, Nov. 1, 2000, [114 Stat. 1886][/us/stat/114/1886]; [Pub. L. 109–443][/us/pl/109/443], § 9(a), (d), Dec. 21, 2006, [120 Stat. 3301][/us/stat/120/3301].)
 
 <table>
 
@@ -245,19 +245,19 @@ Jan. 3, 1975, Pub. L. 93–633, § 303(b)(1), 88 Stat. 2167; Oct. 14, 1982, Pu
 
  __Amendments__ 
 
-    2006—Subsec. (e)(1). [Pub. L. 109–443, § 9(d)(1)][/us/pl/109/443/s9/d/1], added par. (1) and struck out former par. (1) which read as follows: “appoint, supervise, and fix the pay of officers and employees necessary to carry out this chapter;”.
+    2006—Subsec. (e)(1). [Pub. L. 109–443][/us/pl/109/443], § 9(d)(1), added par. (1) and struck out former par. (1) which read as follows: “appoint, supervise, and fix the pay of officers and employees necessary to carry out this chapter;”.
 
-    Subsec. (e)(2) to (4). [Pub. L. 109–443, § 9(d)(2)][/us/pl/109/443/s9/d/2], (3), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
+    Subsec. (e)(2) to (4). [Pub. L. 109–443][/us/pl/109/443], § 9(d)(2), (3), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
-    Subsec. (g)(5). [Pub. L. 109–443, § 9(a)][/us/pl/109/443/s9/a], added par. (5).
+    Subsec. (g)(5). [Pub. L. 109–443][/us/pl/109/443], § 9(a), added par. (5).
 
-    Subsecs. (i), (j). [Pub. L. 109–443, § 9(d)(4)][/us/pl/109/443/s9/d/4], (5), added subsec. (i) and redesignated former subsec. (i) as (j).
+    Subsecs. (i), (j). [Pub. L. 109–443][/us/pl/109/443], § 9(d)(4), (5), added subsec. (i) and redesignated former subsec. (i) as (j).
 
     2000—Subsecs. (h), (i). [Pub. L. 106–424][/us/pl/106/424] added subsec. (h) and redesignated former subsec. (h) as (i).
 
  __Utilization Plan__ 
 
-[Pub. L. 109–443, § 2(a)(2)][/us/pl/109/443/s2/a/2], Dec. 21, 2006, [120 Stat. 3297][/us/stat/120/3297], provided that:
+[Pub. L. 109–443][/us/pl/109/443], § 2(a)(2), Dec. 21, 2006, [120 Stat. 3297][/us/stat/120/3297], provided that:
 
 >     “(A)  __Plan__  __.—__ 
 
@@ -293,13 +293,13 @@ Jan. 3, 1975, Pub. L. 93–633, § 303(b)(1), 88 Stat. 2167; Oct. 14, 1982, Pu
 
  __Audit Procedures__ 
 
-[Pub. L. 109–443, § 6][/us/pl/109/443/s6], Dec. 21, 2006, [120 Stat. 3300][/us/stat/120/3300], provided that: 
+[Pub. L. 109–443][/us/pl/109/443], § 6, Dec. 21, 2006, [120 Stat. 3300][/us/stat/120/3300], provided that: 
 
 > “The National Transportation Safety Board, in consultation with the Inspector General of the Department of Transportation, shall continue to develop and implement comprehensive internal audit controls for its operations. The audit controls shall address, at a minimum, Board asset management systems, including systems for accounting management, debt collection, travel, and property and inventory management and control.”
 
  __Improved Audit Procedures__ 
 
-[Pub. L. 106–424, § 11][/us/pl/106/424/s11], Nov. 1, 2000, [114 Stat. 1887][/us/stat/114/1887], provided that: 
+[Pub. L. 106–424][/us/pl/106/424], § 11, Nov. 1, 2000, [114 Stat. 1887][/us/stat/114/1887], provided that: 
 
 > “The National Transportation Safety Board, in consultation with the Inspector General of the Department of Transportation, shall develop and implement comprehensive internal audit controls for its financial programs based on the findings and recommendations of the private sector audit firm contract entered into by the Board in March, 2000. The improved internal audit controls shall, at a minimum, address Board asset management systems, including systems for accounting management, debt collection, travel, and property and inventory management and control.”
 
@@ -310,23 +310,23 @@ Jan. 3, 1975, Pub. L. 93–633, § 303(b)(1), 88 Stat. 2167; Oct. 14, 1982, Pu
 ----------
 ----------
 
-[/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F746
-[/us/pl/106/424/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F424%2Fs10
+[/us/pl/106/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F424
 [/us/stat/114/1886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1886
-[/us/pl/109/443/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F443%2Fs9%2Fa
+[/us/pl/109/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F443
 [/us/stat/120/3301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3301
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
-[/us/pl/109/443/s9/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F443%2Fs9%2Fd%2F1
-[/us/pl/109/443/s9/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F443%2Fs9%2Fd%2F2
-[/us/pl/109/443/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F443%2Fs9%2Fa
-[/us/pl/109/443/s9/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F443%2Fs9%2Fd%2F4
+[/us/pl/109/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F443
+[/us/pl/109/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F443
+[/us/pl/109/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F443
+[/us/pl/109/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F443
 [/us/pl/106/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F424
-[/us/pl/109/443/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F443%2Fs2%2Fa%2F2
+[/us/pl/109/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F443
 [/us/stat/120/3297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3297
-[/us/pl/109/443/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F443%2Fs6
+[/us/pl/109/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F443
 [/us/stat/120/3300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3300
-[/us/pl/106/424/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F424%2Fs11
+[/us/pl/106/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F424
 [/us/stat/114/1887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1887
 
 

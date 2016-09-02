@@ -17,7 +17,7 @@
 
     A motor vehicle safety standard prescribed under this chapter may not require a manufacturer to comply with the standard by using a safety belt interlock designed to prevent starting or operating a motor vehicle if an occupant is not using a safety belt.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 957][/us/stat/108/957]; [Pub. L. 112–141, div. C, title I, § 31202(a)(2)][/us/pl/112/141/s31202/a/2], July 6, 2012, [126 Stat. 757][/us/stat/126/757].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 957][/us/stat/108/957]; [Pub. L. 112–141, div. C, title I][/us/pl/112/141/dC/tI], § 31202(a)(2), July 6, 2012, [126 Stat. 757][/us/stat/126/757].)
 
 <table>
 
@@ -82,9 +82,9 @@ Sept. 9, 1966, Pub. L. 89–563, 80 Stat. 718, § 125; added Oct. 27, 1974, Pu
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F957
-[/us/pl/112/141/s31202/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31202%2Fa%2F2
+[/us/pl/112/141/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtI
 [/us/stat/126/757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F757
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141

@@ -55,11 +55,11 @@
 
         (3) If a State does not meet the requirements of subsection (c) of this section at the end of the period for which an amount withheld under subsection (b) of this section remains available under paragraph (1) of this subsection, the amount shall be apportioned for use in other States under [section 5336 of this title][/us/usc/t49/s5336].
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 831][/us/stat/108/831]; [Pub. L. 109–59, title III][/us/pl/109/59], §§ 3002(b)(4), 3029(a), Aug. 10, 2005, [119 Stat. 1545][/us/stat/119/1545], 1625.)
+([Pub. L. 103–272][/us/pl/103/272], § 1(d), July 5, 1994, [108 Stat. 831][/us/stat/108/831]; [Pub. L. 109–59, title III][/us/pl/109/59/tIII], §§ 3002(b)(4), 3029(a), Aug. 10, 2005, [119 Stat. 1545][/us/stat/119/1545], 1625.)
 
  __Repeal of Section__ 
 
-    [Pub. L. 112–141, div. B, § 20030(e)][/us/pl/112/141/s20030/e], July 6, 2012, [126 Stat. 731][/us/stat/126/731], provided that, effective 3 years after the effective date of the final rules issued by the Secretary of Transportation under [section 5329(e) of this title][/us/usc/t49/s5329/e], this section is repealed.
+    [Pub. L. 112–141, div. B][/us/pl/112/141/dB], § 20030(e), July 6, 2012, [126 Stat. 731][/us/stat/126/731], provided that, effective 3 years after the effective date of the final rules issued by the Secretary of Transportation under [section 5329(e) of this title][/us/usc/t49/s5329/e], this section is repealed.
 
 <table>
 
@@ -183,21 +183,21 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 28; added Dec. 18, 1991, Pub.
 
  __Amendments__ 
 
-    2005—[Pub. L. 109–59, § 3029(a)(1)][/us/pl/109/59/s3029/a/1], substituted “State safety oversight” for “Withholding amounts for noncompliance with safety requirements” in section catchline.
+    2005—[Pub. L. 109–59][/us/pl/109/59], § 3029(a)(1), substituted “State safety oversight” for “Withholding amounts for noncompliance with safety requirements” in section catchline.
 
-    Subsec. (a). [Pub. L. 109–59, § 3029(a)(1)][/us/pl/109/59/s3029/a/1], added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “This section applies only to States that have rail fixed guideway mass transportation systems not subject to regulation by the Federal Railroad Administration.”
+    Subsec. (a). [Pub. L. 109–59][/us/pl/109/59], § 3029(a)(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “This section applies only to States that have rail fixed guideway mass transportation systems not subject to regulation by the Federal Railroad Administration.”
 
-    Subsec. (c)(1). [Pub. L. 109–59, § 3002(b)(4)][/us/pl/109/59/s3002/b/4], substituted “public transportation” for “mass transportation”.
+    Subsec. (c)(1). [Pub. L. 109–59][/us/pl/109/59], § 3002(b)(4), substituted “public transportation” for “mass transportation”.
 
-    Subsec. (d). [Pub. L. 109–59, § 3029(a)(2)][/us/pl/109/59/s3029/a/2], substituted “shall ensure uniform safety standards and enforcement or shall designate” for “may designate”.
+    Subsec. (d). [Pub. L. 109–59][/us/pl/109/59], § 3029(a)(2), substituted “shall ensure uniform safety standards and enforcement or shall designate” for “may designate”.
 
-    [Pub. L. 109–59, § 3002(b)(4)][/us/pl/109/59/s3002/b/4], substituted “public transportation” for “mass transportation” in two places.
+    [Pub. L. 109–59][/us/pl/109/59], § 3002(b)(4), substituted “public transportation” for “mass transportation” in two places.
 
-    Subsec. (f). [Pub. L. 109–59, § 3029(a)(3)][/us/pl/109/59/s3029/a/3], struck out heading and text of subsec. (f). Text read as follows: “Not later than December 18, 1992, the Secretary shall prescribe regulations stating the requirements for complying with subsection (c) of this section.”
+    Subsec. (f). [Pub. L. 109–59][/us/pl/109/59], § 3029(a)(3), struck out heading and text of subsec. (f). Text read as follows: “Not later than December 18, 1992, the Secretary shall prescribe regulations stating the requirements for complying with subsection (c) of this section.”
 
  __Effective Date of Repeal__ 
 
-    [Pub. L. 112–141, div. B, § 20030(e)][/us/pl/112/141/s20030/e], July 6, 2012, [126 Stat. 731][/us/stat/126/731], provided that the repeal of this section is effective 3 years after the effective date of the final rules issued by the Secretary of Transportation under [section 5329(e) of this title][/us/usc/t49/s5329/e].
+    [Pub. L. 112–141, div. B][/us/pl/112/141/dB], § 20030(e), July 6, 2012, [126 Stat. 731][/us/stat/126/731], provided that the repeal of this section is effective 3 years after the effective date of the final rules issued by the Secretary of Transportation under [section 5329(e) of this title][/us/usc/t49/s5329/e].
 
 ----------
 
@@ -209,20 +209,20 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 28; added Dec. 18, 1991, Pub.
 [/us/usc/t49/s5307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5307
 [/us/usc/t49/s5336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5336
 [/us/usc/t49/s5336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5336
-[/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F831
-[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIII
 [/us/stat/119/1545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1545
-[/us/pl/112/141/s20030/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs20030%2Fe
+[/us/pl/112/141/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdB
 [/us/stat/126/731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F731
 [/us/usc/t49/s5329/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5329%2Fe
-[/us/pl/109/59/s3029/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3029%2Fa%2F1
-[/us/pl/109/59/s3029/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3029%2Fa%2F1
-[/us/pl/109/59/s3002/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3002%2Fb%2F4
-[/us/pl/109/59/s3029/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3029%2Fa%2F2
-[/us/pl/109/59/s3002/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3002%2Fb%2F4
-[/us/pl/109/59/s3029/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3029%2Fa%2F3
-[/us/pl/112/141/s20030/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs20030%2Fe
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/112/141/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdB
 [/us/stat/126/731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F731
 [/us/usc/t49/s5329/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5329%2Fe
 

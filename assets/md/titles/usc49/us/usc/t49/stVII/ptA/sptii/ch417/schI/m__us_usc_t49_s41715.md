@@ -41,7 +41,7 @@
 
         Paragraph (1) does not apply in any case in which the air carrier requesting the slot exemption is proposing to use under the exemption a type of aircraft for which there is not a competing United States manufacturer.
 
-(Added [Pub. L. 106–181, title II, § 231(b)(2)][/us/pl/106/181/s231/b/2], Apr. 5, 2000, [114 Stat. 108][/us/stat/114/108].)
+(Added [Pub. L. 106–181, title II][/us/pl/106/181/tII], § 231(b)(2), Apr. 5, 2000, [114 Stat. 108][/us/stat/114/108].)
 
  __Prior Provisions__ 
 
@@ -58,7 +58,7 @@
 ----------
 ----------
 
-[/us/pl/106/181/s231/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs231%2Fb%2F2
+[/us/pl/106/181/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtII
 [/us/stat/114/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F108
 [/us/usc/t49/s41719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs41719
 [/us/pl/106/181/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs3

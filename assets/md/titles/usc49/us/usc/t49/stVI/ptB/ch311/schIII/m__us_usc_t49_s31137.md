@@ -135,7 +135,7 @@
 
     The Secretary shall maintain regulations on improved standards or methods to ensure that brakes and brake systems of commercial motor vehicles are maintained properly and inspected by appropriate employees. At a minimum, the regulations shall establish minimum training requirements and qualifications for employees responsible for maintaining and inspecting the brakes and brake systems.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1004][/us/stat/108/1004]; [Pub. L. 112–141, div. C, title II][/us/pl/112/141], §§ 32301(b), 32931(a), July 6, 2012, [126 Stat. 786][/us/stat/126/786], 829; [Pub. L. 114–94, div. A, title V][/us/pl/114/94], §§ 5507, 5508(b)(2), Dec. 4, 2015, [129 Stat. 1553][/us/stat/129/1553], 1554.)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1004][/us/stat/108/1004]; [Pub. L. 112–141, div. C, title II][/us/pl/112/141/dC/tII], §§ 32301(b), 32931(a), July 6, 2012, [126 Stat. 786][/us/stat/126/786], 829; [Pub. L. 114–94, div. A, title V][/us/pl/114/94/dA/tV], §§ 5507, 5508(b)(2), Dec. 4, 2015, [129 Stat. 1553][/us/stat/129/1553], 1554.)
 
 <table>
 
@@ -207,25 +207,25 @@ Oct. 30, 1984, Pub. L. 98–554, 98 Stat. 2829, § 231; added Nov. 18, 1988, P
 
  __Amendments__ 
 
-    2015—[Pub. L. 114–94, § 5508(b)(2)][/us/pl/114/94/s5508/b/2], amended directory language of [Pub. L. 112–141, § 32301(b)(3)][/us/pl/112/141/s32301/b/3]. See 2012 Amendment note for subsecs. (a) to (f) below.
+    2015—[Pub. L. 114–94][/us/pl/114/94], § 5508(b)(2), amended directory language of [Pub. L. 112–141][/us/pl/112/141], § 32301(b)(3). See 2012 Amendment note for subsecs. (a) to (f) below.
 
-    Subsec. (b)(1)(C). [Pub. L. 114–94, § 5507(1)][/us/pl/114/94/s5507/1], substituted “except as provided in paragraph (3), apply to” for “apply to”.
+    Subsec. (b)(1)(C). [Pub. L. 114–94][/us/pl/114/94], § 5507(1), substituted “except as provided in paragraph (3), apply to” for “apply to”.
 
-    Subsec. (b)(3). [Pub. L. 114–94, § 5507(2)][/us/pl/114/94/s5507/2], added par. (3).
+    Subsec. (b)(3). [Pub. L. 114–94][/us/pl/114/94], § 5507(2), added par. (3).
 
-    2012—[Pub. L. 112–141, § 32301(b)(1)][/us/pl/112/141/s32301/b/1], substituted “Electronic logging devices and brake maintenance regulations” for “Monitoring device and brake maintenance regulations” in section catchline.
+    2012—[Pub. L. 112–141][/us/pl/112/141], § 32301(b)(1), substituted “Electronic logging devices and brake maintenance regulations” for “Monitoring device and brake maintenance regulations” in section catchline.
 
-    Subsecs. (a) to (f). [Pub. L. 112–141, § 32301(b)(3)][/us/pl/112/141/s32301/b/3], as amended by [Pub. L. 114–94, § 5508(b)(2)][/us/pl/114/94/s5508/b/2], added subsecs. (a) to (f) and struck out former subsec. (a). Prior to amendment, text of subsec. (a) read as follows: “If the Secretary of Transportation prescribes a regulation about the use of monitoring devices on commercial motor vehicles to increase compliance by operators of the vehicles with hours of service regulations of the Secretary, the regulation shall ensure that the devices are not used to harass vehicle operators. However, the devices may be used to monitor productivity of the operators.” Former subsec. (b) redesignated (g).
+    Subsecs. (a) to (f). [Pub. L. 112–141][/us/pl/112/141], § 32301(b)(3), as amended by [Pub. L. 114–94][/us/pl/114/94], § 5508(b)(2), added subsecs. (a) to (f) and struck out former subsec. (a). Prior to amendment, text of subsec. (a) read as follows: “If the Secretary of Transportation prescribes a regulation about the use of monitoring devices on commercial motor vehicles to increase compliance by operators of the vehicles with hours of service regulations of the Secretary, the regulation shall ensure that the devices are not used to harass vehicle operators. However, the devices may be used to monitor productivity of the operators.” Former subsec. (b) redesignated (g).
 
-    Subsec. (g). [Pub. L. 112–141, § 32931(a)][/us/pl/112/141/s32931/a], which directed substitution of “The Secretary shall maintain” for “Not later than December 1, 1990, the Secretary shall prescribe”, was executed by making the substitution for “Not later than December 31, 1990, the Secretary shall prescribe”, to reflect the probable intent of Congress.
+    Subsec. (g). [Pub. L. 112–141][/us/pl/112/141], § 32931(a), which directed substitution of “The Secretary shall maintain” for “Not later than December 1, 1990, the Secretary shall prescribe”, was executed by making the substitution for “Not later than December 31, 1990, the Secretary shall prescribe”, to reflect the probable intent of Congress.
 
-    [Pub. L. 112–141, § 32301(b)(2)][/us/pl/112/141/s32301/b/2], redesignated subsec. (b) as (g).
+    [Pub. L. 112–141][/us/pl/112/141], § 32301(b)(2), redesignated subsec. (b) as (g).
 
  __Effective Date of 2015 Amendment__ 
 
     Amendment by [section 5507 of Pub. L. 114–94][/us/pl/114/94/s5507] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
 
-    [Pub. L. 114–94, div. A, title V, § 5508(b)][/us/pl/114/94/s5508/b], Dec. 4, 2015, [129 Stat. 1554][/us/stat/129/1554], provided that the amendment made by section 5508(b)(2) is effective as of July 6, 2012, and as if included in [Pub. L. 112–141][/us/pl/112/141] as enacted.
+    [Pub. L. 114–94, div. A, title V][/us/pl/114/94/dA/tV], § 5508(b), Dec. 4, 2015, [129 Stat. 1554][/us/stat/129/1554], provided that the amendment made by section 5508(b)(2) is effective as of July 6, 2012, and as if included in [Pub. L. 112–141][/us/pl/112/141] as enacted.
 
  __Effective Date of 2012 Amendment__ 
 
@@ -238,26 +238,26 @@ Oct. 30, 1984, Pub. L. 98–554, 98 Stat. 2829, § 231; added Nov. 18, 1988, P
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1004
-[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtII
 [/us/stat/126/786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F786
-[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtV
 [/us/stat/129/1553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1553
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
-[/us/pl/114/94/s5508/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5508%2Fb%2F2
-[/us/pl/112/141/s32301/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32301%2Fb%2F3
-[/us/pl/114/94/s5507/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5507%2F1
-[/us/pl/114/94/s5507/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5507%2F2
-[/us/pl/112/141/s32301/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32301%2Fb%2F1
-[/us/pl/112/141/s32301/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32301%2Fb%2F3
-[/us/pl/114/94/s5508/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5508%2Fb%2F2
-[/us/pl/112/141/s32931/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32931%2Fa
-[/us/pl/112/141/s32301/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32301%2Fb%2F2
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/114/94/s5507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5507
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
-[/us/pl/114/94/s5508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5508%2Fb
+[/us/pl/114/94/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtV
 [/us/stat/129/1554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1554
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141

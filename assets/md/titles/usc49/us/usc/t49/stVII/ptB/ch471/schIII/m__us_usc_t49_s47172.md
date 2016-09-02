@@ -23,7 +23,7 @@
 
     Notwithstanding any commitment by the Administrator under subsection (a), the Administrator may initiate changes to such procedures if necessary to maintain safety and efficiency in light of new information or changed circumstances.
 
-(Added [Pub. L. 108–176, title III, § 304(a)][/us/pl/108/176/s304/a], Dec. 12, 2003, [117 Stat. 2537][/us/stat/117/2537].)
+(Added [Pub. L. 108–176, title III][/us/pl/108/176/tIII], § 304(a), Dec. 12, 2003, [117 Stat. 2537][/us/stat/117/2537].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/108/176/s304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs304%2Fa
+[/us/pl/108/176/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtIII
 [/us/stat/117/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2537
 
 

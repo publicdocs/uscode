@@ -45,7 +45,7 @@
 
     Service on an agent designated under this section shall be made at the office or usual place of residence of the agent. If an air carrier or foreign air carrier does not have a designated agent, service may be made by posting the notice, process, or action in the office of the Secretary, Under Secretary, or Administrator.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1227][/us/stat/108/1227]; [Pub. L. 107–71, title I, § 140(b)(1)][/us/pl/107/71/s140/b/1], (2), Nov. 19, 2001, [115 Stat. 641][/us/stat/115/641].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1227][/us/stat/108/1227]; [Pub. L. 107–71, title I][/us/pl/107/71/tI], § 140(b)(1), (2), Nov. 19, 2001, [115 Stat. 641][/us/stat/115/641].)
 
 <table>
 
@@ -197,11 +197,11 @@ Aug. 23, 1958, Pub. L. 85–726, § 1005(c), 72 Stat. 794; restated Aug. 25, 1
 
  __Amendments__ 
 
-    2001—Subsec. (a)(1). [Pub. L. 107–71, § 140(b)(1)][/us/pl/107/71/s140/b/1], inserted “the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or” after “(or”.
+    2001—Subsec. (a)(1). [Pub. L. 107–71][/us/pl/107/71], § 140(b)(1), inserted “the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or” after “(or”.
 
-    Subsec. (a)(2)(A). [Pub. L. 107–71, § 140(b)(2)][/us/pl/107/71/s140/b/2], substituted “, Under Secretary, or Administrator” for “or Administrator”.
+    Subsec. (a)(2)(A). [Pub. L. 107–71][/us/pl/107/71], § 140(b)(2), substituted “, Under Secretary, or Administrator” for “or Administrator”.
 
-    Subsec. (c). [Pub. L. 107–71, § 140(b)(2)][/us/pl/107/71/s140/b/2], substituted “, Under Secretary, or Administrator” for “or Administrator”.
+    Subsec. (c). [Pub. L. 107–71][/us/pl/107/71], § 140(b)(2), substituted “, Under Secretary, or Administrator” for “or Administrator”.
 
  __Transfer of Functions__ 
 
@@ -214,13 +214,13 @@ Aug. 23, 1958, Pub. L. 85–726, § 1005(c), 72 Stat. 794; restated Aug. 25, 1
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1227
-[/us/pl/107/71/s140/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs140%2Fb%2F1
+[/us/pl/107/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2FtI
 [/us/stat/115/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F641
-[/us/pl/107/71/s140/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs140%2Fb%2F1
-[/us/pl/107/71/s140/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs140%2Fb%2F2
-[/us/pl/107/71/s140/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs140%2Fb%2F2
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 
 

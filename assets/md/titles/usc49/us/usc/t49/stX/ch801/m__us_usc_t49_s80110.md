@@ -65,7 +65,7 @@
 
     Except as provided in subsections (b), (d), and (e) of this section, title or a right of a third person is not a defense to an action brought by the consignee of a nonnegotiable bill of lading or by the holder of a negotiable bill against the common carrier for failure to deliver the goods on demand unless enforced by legal process.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1349][/us/stat/108/1349].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1349][/us/stat/108/1349].)
 
 <table>
 
@@ -201,7 +201,7 @@ Aug. 29, 1916, ch. 415, §§ 8, 9, 16–19, 39 Stat. 539, 541.  </td>
 ----------
 
 [/us/usc/t49/s80111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs80111
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1349
 
 

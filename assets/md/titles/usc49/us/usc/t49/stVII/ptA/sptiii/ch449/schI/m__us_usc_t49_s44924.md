@@ -53,7 +53,7 @@
 
     If the Under Secretary does not issue final regulations before the deadline specified in subsection (f), the Under Secretary shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report containing an explanation as to why the deadline was not met and a schedule for issuing the final regulations.
 
-(Added [Pub. L. 108–176, title VI, § 611(b)(1)][/us/pl/108/176/s611/b/1], Dec. 12, 2003, [117 Stat. 2571][/us/stat/117/2571]; amended [Pub. L. 110–53, title XVI, § 1616(b)][/us/pl/110/53/s1616/b], Aug. 3, 2007, [121 Stat. 488][/us/stat/121/488].)
+(Added [Pub. L. 108–176, title VI][/us/pl/108/176/tVI], § 611(b)(1), Dec. 12, 2003, [117 Stat. 2571][/us/stat/117/2571]; amended [Pub. L. 110–53, title XVI][/us/pl/110/53/tXVI], § 1616(b), Aug. 3, 2007, [121 Stat. 488][/us/stat/121/488].)
 
  __References in Text__ 
 
@@ -61,11 +61,11 @@
 
  __Amendments__ 
 
-    2007—Subsec. (a). [Pub. L. 110–53, § 1616(b)(1)][/us/pl/110/53/s1616/b/1], substituted “6 months” for “18 months”.
+    2007—Subsec. (a). [Pub. L. 110–53][/us/pl/110/53], § 1616(b)(1), substituted “6 months” for “18 months”.
 
-    Subsec. (d). [Pub. L. 110–53, § 1616(b)(2)][/us/pl/110/53/s1616/b/2], inserted “(other than a station that was previously certified, or is in the process of certification, by the Administration under this part)” after “foreign repair station”.
+    Subsec. (d). [Pub. L. 110–53][/us/pl/110/53], § 1616(b)(2), inserted “(other than a station that was previously certified, or is in the process of certification, by the Administration under this part)” after “foreign repair station”.
 
-    [Pub. L. 110–53, § 1616(b)(1)][/us/pl/110/53/s1616/b/1], which directed amendment of subsec. (b) by substituting “6 months” for “18 months”, was executed by making the substitution in subsec. (d), to reflect the probable intent of Congress.
+    [Pub. L. 110–53][/us/pl/110/53], § 1616(b)(1), which directed amendment of subsec. (b) by substituting “6 months” for “18 months”, was executed by making the substitution in subsec. (d), to reflect the probable intent of Congress.
 
  __Effective Date__ 
 
@@ -73,7 +73,7 @@
 
  __Suspension of Certification of Foreign Repair Stations__ 
 
-[Pub. L. 110–53, title XVI, § 1616(a)][/us/pl/110/53/s1616/a], Aug. 3, 2007, [121 Stat. 488][/us/stat/121/488], provided that: 
+[Pub. L. 110–53, title XVI][/us/pl/110/53/tXVI], § 1616(a), Aug. 3, 2007, [121 Stat. 488][/us/stat/121/488], provided that: 
 
 > “If the regulations required by [section 44924(f) of title 49][/us/usc/t49/s44924/f], United States Code, are not issued within 1 year after the date of enactment of this Act \[Aug. 3, 2007\], the Administrator of the Federal Aviation Administration may not certify any foreign repair station under part 145 of title 14, Code of Federal Regulations, after such date unless the station was previously certified, or is in the process of certification by the Administration under that part.”
 
@@ -84,17 +84,17 @@
 ----------
 ----------
 
-[/us/pl/108/176/s611/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs611%2Fb%2F1
+[/us/pl/108/176/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtVI
 [/us/stat/117/2571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2571
-[/us/pl/110/53/s1616/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1616%2Fb
+[/us/pl/110/53/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXVI
 [/us/stat/121/488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F488
 [/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
-[/us/pl/110/53/s1616/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1616%2Fb%2F1
-[/us/pl/110/53/s1616/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1616%2Fb%2F2
-[/us/pl/110/53/s1616/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1616%2Fb%2F1
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
 [/us/pl/108/176/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106
-[/us/pl/110/53/s1616/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1616%2Fa
+[/us/pl/110/53/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXVI
 [/us/stat/121/488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F488
 [/us/usc/t49/s44924/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44924%2Ff
 

@@ -23,7 +23,7 @@
 
     This subchapter does not authorize the Secretary to regulate the manufacture of commercial motor vehicles for any purpose, including fuel economy, safety, or emission control.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1013][/us/stat/108/1013].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1013][/us/stat/108/1013].)
 
 <table>
 
@@ -94,7 +94,7 @@ Oct. 30, 1984, Pub. L. 98–554, § 229, 98 Stat. 2853.  </td>
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1013
 
 

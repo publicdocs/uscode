@@ -23,11 +23,11 @@
 
     The Secretary may reimburse State agencies, local governments, or other persons up to 100 percent for public education activities.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 987][/us/stat/108/987]; [Pub. L. 105–178, title IV, § 4003(d)][/us/pl/105/178/s4003/d], June 9, 1998, [112 Stat. 397][/us/stat/112/397]; [Pub. L. 109–59, title IV, § 4307(a)][/us/pl/109/59/s4307/a], Aug. 10, 2005, [119 Stat. 1774][/us/stat/119/1774]; [Pub. L. 112–141, div. C, title II, § 32933(c)][/us/pl/112/141/s32933/c], (d), July 6, 2012, [126 Stat. 830][/us/stat/126/830]; [Pub. L. 114–94, div. A, title V, § 5101(b)][/us/pl/114/94/s5101/b], Dec. 4, 2015, [129 Stat. 1523][/us/stat/129/1523].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 987][/us/stat/108/987]; [Pub. L. 105–178, title IV][/us/pl/105/178/tIV], § 4003(d), June 9, 1998, [112 Stat. 397][/us/stat/112/397]; [Pub. L. 109–59, title IV][/us/pl/109/59/tIV], § 4307(a), Aug. 10, 2005, [119 Stat. 1774][/us/stat/119/1774]; [Pub. L. 112–141, div. C, title II][/us/pl/112/141/dC/tII], § 32933(c), (d), July 6, 2012, [126 Stat. 830][/us/stat/126/830]; [Pub. L. 114–94, div. A, title V][/us/pl/114/94/dA/tV], § 5101(b), Dec. 4, 2015, [129 Stat. 1523][/us/stat/129/1523].)
 
  __Amendment of Section__ 
 
-    [Pub. L. 114–94, div. A, title V, § 5101(b)][/us/pl/114/94/s5101/b], (f), (g), Dec. 4, 2015, [129 Stat. 1523][/us/stat/129/1523], 1526, provided that, effective Oct. 1, 2016, and subject to a transition provision, this section is amended to read as follows:
+    [Pub. L. 114–94, div. A, title V][/us/pl/114/94/dA/tV], § 5101(b), (f), (g), Dec. 4, 2015, [129 Stat. 1523][/us/stat/129/1523], 1526, provided that, effective Oct. 1, 2016, and subject to a transition provision, this section is amended to read as follows:
 
     § 31103. Commercial motor vehicle operators grant program
 
@@ -91,9 +91,9 @@ Jan. 6, 1983, Pub. L. 97–424, § 403, 96 Stat. 2156; Dec. 18, 1991, Pub. L. 
 
     2015—[Pub. L. 114–94][/us/pl/114/94] amended section generally. Prior to amendment, section related to United States Government’s share of costs incurred by a State.
 
-    2012—Subsec. (a). [Pub. L. 112–141, § 32933(c)][/us/pl/112/141/s32933/c], substituted “section 31102(b)(2)(E)” for “section 31102(b)(1)(E)”.
+    2012—Subsec. (a). [Pub. L. 112–141][/us/pl/112/141], § 32933(c), substituted “section 31102(b)(2)(E)” for “section 31102(b)(1)(E)”.
 
-    Subsec. (b). [Pub. L. 112–141, § 32933(d)][/us/pl/112/141/s32933/d], struck out “authorized by section 31104(f)(2)” after “public education activities”.
+    Subsec. (b). [Pub. L. 112–141][/us/pl/112/141], § 32933(d), struck out “authorized by section 31104(f)(2)” after “public education activities”.
 
     2005—Subsec. (a). [Pub. L. 109–59][/us/pl/109/59] substituted “31102(b)(1)(E)” for “31102(b)(1)(D)” and inserted before last sentence “Amounts generated under the unified carrier registration agreement under section 14504a and received by a State and used for motor carrier safety purposes may be included as part of the State’s share not provided by the United States.”
 
@@ -119,22 +119,22 @@ Jan. 6, 1983, Pub. L. 97–424, § 403, 96 Stat. 2156; Dec. 18, 1991, Pub. L. 
 ----------
 
 [/us/usc/t49/s31102/b/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31102%2Fb%2F2%2FE
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F987
-[/us/pl/105/178/s4003/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4003%2Fd
+[/us/pl/105/178/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtIV
 [/us/stat/112/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F397
-[/us/pl/109/59/s4307/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4307%2Fa
+[/us/pl/109/59/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIV
 [/us/stat/119/1774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1774
-[/us/pl/112/141/s32933/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32933%2Fc
+[/us/pl/112/141/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtII
 [/us/stat/126/830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F830
-[/us/pl/114/94/s5101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5101%2Fb
+[/us/pl/114/94/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtV
 [/us/stat/129/1523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1523
-[/us/pl/114/94/s5101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5101%2Fb
+[/us/pl/114/94/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtV
 [/us/stat/129/1523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1523
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
-[/us/pl/112/141/s32933/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32933%2Fc
-[/us/pl/112/141/s32933/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32933%2Fd
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94

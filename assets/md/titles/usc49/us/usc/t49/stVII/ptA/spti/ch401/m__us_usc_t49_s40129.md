@@ -83,7 +83,7 @@
 
     At the end of the 2-year period for which the pilot program is authorized, the Administrator, with the concurrence of the Attorney General, may continue the pilot program for an additional 2 years and expand participation in the program to up to 7 additional airports if the Administrator determines pursuant to subsection (j) that the pilot program has facilitated more effective use of air traffic capacity and if the Secretary, with the concurrence of the Attorney General, determines that the pilot program has had no adverse effect on airline competition or the availability of air services to communities. The Administrator shall select the additional airports to participate in the extended pilot program in the same manner in which airports were initially selected to participate.
 
-(Added [Pub. L. 108–176, title IV, § 423(a)][/us/pl/108/176/s423/a], Dec. 12, 2003, [117 Stat. 2552][/us/stat/117/2552].)
+(Added [Pub. L. 108–176, title IV][/us/pl/108/176/tIV], § 423(a), Dec. 12, 2003, [117 Stat. 2552][/us/stat/117/2552].)
 
  __References in Text__ 
 
@@ -101,7 +101,7 @@
 ----------
 
 [/us/usc/t15/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs12
-[/us/pl/108/176/s423/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs423%2Fa
+[/us/pl/108/176/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtIV
 [/us/stat/117/2552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2552
 [/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
 [/us/pl/108/176/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs3

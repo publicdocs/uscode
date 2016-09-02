@@ -57,13 +57,13 @@
 
     The term “joint use airport” means an airport owned by the Department of Defense, at which both military and civilian aircraft make shared use of the airfield.
 
-(Added [Pub. L. 108–176, title III, § 304(a)][/us/pl/108/176/s304/a], Dec. 12, 2003, [117 Stat. 2538][/us/stat/117/2538]; amended [Pub. L. 112–95, title I, § 152(g)][/us/pl/112/95/s152/g], Feb. 14, 2012, [126 Stat. 34][/us/stat/126/34].)
+(Added [Pub. L. 108–176, title III][/us/pl/108/176/tIII], § 304(a), Dec. 12, 2003, [117 Stat. 2538][/us/stat/117/2538]; amended [Pub. L. 112–95, title I][/us/pl/112/95/tI], § 152(g), Feb. 14, 2012, [126 Stat. 34][/us/stat/126/34].)
 
  __Amendments__ 
 
-    2012—Par. (2). [Pub. L. 112–95, § 152(g)(1)][/us/pl/112/95/s152/g/1], substituted “2004 or any successor report” for “2001”.
+    2012—Par. (2). [Pub. L. 112–95][/us/pl/112/95], § 152(g)(1), substituted “2004 or any successor report” for “2001”.
 
-    Par. (7). [Pub. L. 112–95, § 152(g)(2)][/us/pl/112/95/s152/g/2], added par. (7).
+    Par. (7). [Pub. L. 112–95][/us/pl/112/95], § 152(g)(2), added par. (7).
 
 ----------
 
@@ -72,11 +72,11 @@
 ----------
 ----------
 
-[/us/pl/108/176/s304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs304%2Fa
+[/us/pl/108/176/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtIII
 [/us/stat/117/2538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2538
-[/us/pl/112/95/s152/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs152%2Fg
+[/us/pl/112/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtI
 [/us/stat/126/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F34
-[/us/pl/112/95/s152/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs152%2Fg%2F1
-[/us/pl/112/95/s152/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs152%2Fg%2F2
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
 
 

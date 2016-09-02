@@ -39,7 +39,7 @@
 
     (8) “State of record” means a State that has given the Secretary a report under [section 30304 of this title][/us/usc/t49/s30304] about an individual who is the subject of a request for information made under [section 30305 of this title][/us/usc/t49/s30305].
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 973][/us/stat/108/973].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 973][/us/stat/108/973].)
 
 <table>
 
@@ -99,13 +99,13 @@ Oct. 25, 1982, Pub. L. 97–364, § 202, 96 Stat. 1740.  </td>
 
  __Protection of Domestic Violence and Crime Victims From Certain Disclosures of Information__ 
 
-[Pub. L. 109–162, title VIII, § 827][/us/pl/109/162/s827], Jan. 5, 2006, [119 Stat. 3066][/us/stat/119/3066], provided that: 
+[Pub. L. 109–162, title VIII][/us/pl/109/162/tVIII], § 827, Jan. 5, 2006, [119 Stat. 3066][/us/stat/119/3066], provided that: 
 
 > “In developing regulations or guidance with regard to identification documents, including driver’s licenses, the Secretary of Homeland Security, in consultation with the Administrator of Social Security, shall consider and address the needs of victims, including victims of battery, extreme cruelty, domestic violence, dating violence, sexual assault, stalking or trafficking, who are entitled to enroll in State address confidentiality programs, whose addresses are entitled to be suppressed under State or Federal law or suppressed by a court order, or who are protected from disclosure of information pursuant to section 384 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 ([8 U.S.C. 1367][/us/usc/t8/s1367]).”
 
  __Improved Security for Drivers’ Licenses and Personal Identification Cards__ 
 
-[Pub. L. 110–177, title V, § 508][/us/pl/110/177/s508], Jan. 7, 2008, [121 Stat. 2543][/us/stat/121/2543], provided that:
+[Pub. L. 110–177, title V][/us/pl/110/177/tV], § 508, Jan. 7, 2008, [121 Stat. 2543][/us/stat/121/2543], provided that:
 
 >     “(a) __Minimum Document Requirements.—__ 
 
@@ -125,7 +125,7 @@ Oct. 25, 1982, Pub. L. 97–364, § 202, 96 Stat. 1740.  </td>
 
 >     For purposes of section 202(c)(1)(D) of the REAL ID Act of 2005 ([49 U.S.C. 30301][/us/usc/t49/s30301] note), in the case of an individual described in subparagraph (A) or (B) of subsection (a)(2), a State need only require documentation of the address appearing on the individual’s driver’s license or other identification card issued by that State to the individual.”
 
-[Pub. L. 109–13, div. B, title II][/us/pl/109/13], May 11, 2005, [119 Stat. 311][/us/stat/119/311], provided that:
+[Pub. L. 109–13, div. B, title II][/us/pl/109/13/dB/tII], May 11, 2005, [119 Stat. 311][/us/stat/119/311], provided that:
 
 > “SEC. 201. __DEFINITIONS.__ 
 
@@ -253,7 +253,7 @@ Oct. 25, 1982, Pub. L. 97–364, § 202, 96 Stat. 1740.  </td>
 
 >             “(B) The State shall not accept any foreign document, other than an official passport, to satisfy a requirement of paragraph (1) or (2).
 
->             “(C) Not later than September 11, 2005, the State shall enter into a memorandum of understanding with the Secretary of Homeland Security to routinely utilize the automated system known as Systematic Alien Verification for Entitlements, as provided for by section 404 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 \[[Pub. L. 104–208, div. C][/us/pl/104/208], [8 U.S.C. 1324a][/us/usc/t8/s1324a] note\] ([110 Stat. 3009–664][/us/stat/110/3009-664]), to verify the legal presence status of a person, other than a United States citizen, applying for a driver’s license or identification card.
+>             “(C) Not later than September 11, 2005, the State shall enter into a memorandum of understanding with the Secretary of Homeland Security to routinely utilize the automated system known as Systematic Alien Verification for Entitlements, as provided for by section 404 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 \[[Pub. L. 104–208, div. C][/us/pl/104/208/dC], [8 U.S.C. 1324a][/us/usc/t8/s1324a] note\] ([110 Stat. 3009–664][/us/stat/110/3009-664]), to verify the legal presence status of a person, other than a United States citizen, applying for a driver’s license or identification card.
 
 >     “(d)  __Other Requirements__  __.—__ 
 
@@ -341,11 +341,11 @@ Oct. 25, 1982, Pub. L. 97–364, § 202, 96 Stat. 1740.  </td>
 
 >     “Nothing in this title shall be construed to affect the authorities or responsibilities of the Secretary of Transportation or the States under chapter 303 of title 49, United States Code.”
 
-    [Pub. L. 108–458, title VII, § 7212][/us/pl/108/458/s7212], Dec. 17, 2004, [118 Stat. 3827][/us/stat/118/3827], which prohibited acceptance by a Federal agency, for any official purpose, of a driver’s license or personal identification card issued by a State more than 2 years after the promulgation of minimum standards unless the driver’s license or personal identification card conformed to such minimum standards, and directed the Secretary of Transportation, in consultation with the Secretary of Homeland Security, to establish such standards not later than 18 months after Dec. 17, 2004, was repealed by [Pub. L. 109–13, div. B, title II, § 206][/us/pl/109/13/s206], May 11, 2005, [119 Stat. 316][/us/stat/119/316].
+    [Pub. L. 108–458, title VII][/us/pl/108/458/tVII], § 7212, Dec. 17, 2004, [118 Stat. 3827][/us/stat/118/3827], which prohibited acceptance by a Federal agency, for any official purpose, of a driver’s license or personal identification card issued by a State more than 2 years after the promulgation of minimum standards unless the driver’s license or personal identification card conformed to such minimum standards, and directed the Secretary of Transportation, in consultation with the Secretary of Homeland Security, to establish such standards not later than 18 months after Dec. 17, 2004, was repealed by [Pub. L. 109–13, div. B, title II][/us/pl/109/13/dB/tII], § 206, May 11, 2005, [119 Stat. 316][/us/stat/119/316].
 
  __Evaluation and Assessment of Alternatives__ 
 
-[Pub. L. 105–178, title II, § 2006(c)][/us/pl/105/178/s2006/c], June 9, 1998, [112 Stat. 336][/us/stat/112/336], provided that:
+[Pub. L. 105–178, title II][/us/pl/105/178/tII], § 2006(c), June 9, 1998, [112 Stat. 336][/us/stat/112/336], provided that:
 
 >     “(1)  __Evaluation__  __.—__ 
 
@@ -374,33 +374,33 @@ Oct. 25, 1982, Pub. L. 97–364, § 202, 96 Stat. 1740.  </td>
 [/us/usc/t49/s30303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30303
 [/us/usc/t49/s30304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30304
 [/us/usc/t49/s30305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30305
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F973
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
-[/us/pl/109/162/s827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs827
+[/us/pl/109/162/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtVIII
 [/us/stat/119/3066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3066
 [/us/usc/t8/s1367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1367
-[/us/pl/110/177/s508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F177%2Fs508
+[/us/pl/110/177/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F177%2FtV
 [/us/stat/121/2543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2543
 [/us/pl/109/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13
 [/us/usc/t49/s30301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30301
 [/us/usc/t49/s30301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30301
-[/us/pl/109/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13
+[/us/pl/109/13/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13%2FdB%2FtII
 [/us/stat/119/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F311
 [/us/usc/t49/s30301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30301
 [/us/usc/t18/s1028/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1028%2Fd
-[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208/dC]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC
 [/us/usc/t8/s1324a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1324a
 [/us/stat/110/3009-664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-664
 [/us/usc/t18/s1028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1028
 [/us/usc/t49/s40102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40102
 [/us/usc/t18/s1028/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1028%2Fd
 [/us/pl/108/458/s7212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7212
-[/us/pl/108/458/s7212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7212
+[/us/pl/108/458/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVII
 [/us/stat/118/3827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3827
-[/us/pl/109/13/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13%2Fs206
+[/us/pl/109/13/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13%2FdB%2FtII
 [/us/stat/119/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F316
-[/us/pl/105/178/s2006/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs2006%2Fc
+[/us/pl/105/178/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtII
 [/us/stat/112/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F336
 
 

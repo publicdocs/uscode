@@ -165,7 +165,7 @@
 
         (2) A State or a political subdivision of a State may prescribe requirements related to the content of passenger motor vehicles obtained for its own use.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1036][/us/stat/108/1036]; [Pub. L. 103–429, § 6(29)][/us/pl/103/429/s6/29], (30), Oct. 31, 1994, [108 Stat. 4380][/us/stat/108/4380]; [Pub. L. 105–178, title VII, § 7106(d)][/us/pl/105/178/s7106/d], June 9, 1998, [112 Stat. 467][/us/stat/112/467].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1036][/us/stat/108/1036]; [Pub. L. 103–429][/us/pl/103/429], § 6(29), (30), Oct. 31, 1994, [108 Stat. 4380][/us/stat/108/4380]; [Pub. L. 105–178, title VII][/us/pl/105/178/tVII], § 7106(d), June 9, 1998, [112 Stat. 467][/us/stat/112/467].)
 
 <table>
 
@@ -339,33 +339,33 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, § 210(b)–(d), (f), (g), adde
 
     In subsection (e), the words “passenger motor vehicle equipment” are substituted for “a component” for clarity and for consistency with the defined term. The text of 15:1950(d) (last sentence) is omitted as unnecessary because of section 32308 of the revised title. The words “foreign content” are substituted for “foreign” for clarity and consistency with the defined term.
 
- __[__  __Pub. L. 103–429, § 6(29)__  __][/us/pl/103/429/s6/29]__ 
+ __[__  __Pub. L. 103–429__  __][/us/pl/103/429]__  __, § 6(29)__ 
 
     This amends 32304(a)(11) to clarify the restatement of 15:1950(f)(3) by [section 1 of the Act of July 5, 1994][/us/act/1994-07-05/s1] ([Public Law 103–272][/us/pl/103/272], [108 Stat. 1038][/us/stat/108/1038]).
 
- __[__  __Pub. L. 103–429, § 6(30)__  __][/us/pl/103/429/s6/30]__ 
+ __[__  __Pub. L. 103–429__  __][/us/pl/103/429]__  __, § 6(30)__ 
 
     This amends 49:32304(a)(14) to reflect the inclusion of the Northern Mariana Islands and the exclusion of the Canal Zone. The words “the Northern Mariana Islands” are added because of section 502(a)(2) of the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America, as enacted by the Act of March 24, 1976 ([Public Law 94–241][/us/pl/94/241], [90 Stat. 268][/us/stat/90/268]), and as proclaimed to be in effect by the President on January 9, 1978 (Proc. No. 4534, Oct. 24, 1977, 42 F.R. 56593). The words “the Canal Zone” are omitted because of the Panama Canal Treaty of 1977.
 
  __Amendments__ 
 
-    1998—Subsec. (a)(3)(B). [Pub. L. 105–178, § 7106(d)(1)(A)][/us/pl/105/178/s7106/d/1/A], inserted before period at end “, plus the assembly and labor costs incurred for the final assembly of such engines and transmissions”.
+    1998—Subsec. (a)(3)(B). [Pub. L. 105–178][/us/pl/105/178], § 7106(d)(1)(A), inserted before period at end “, plus the assembly and labor costs incurred for the final assembly of such engines and transmissions”.
 
-    Subsec. (a)(5). [Pub. L. 105–178, § 7106(d)(1)(B)][/us/pl/105/178/s7106/d/1/B], inserted at end “Such term does not include facilities for engine and transmission fabrication and assembly and the facilities for fabrication of motor vehicle equipment component parts which are produced at the same final assembly place using forming processes such as stamping, machining, or molding processes.”
+    Subsec. (a)(5). [Pub. L. 105–178][/us/pl/105/178], § 7106(d)(1)(B), inserted at end “Such term does not include facilities for engine and transmission fabrication and assembly and the facilities for fabrication of motor vehicle equipment component parts which are produced at the same final assembly place using forming processes such as stamping, machining, or molding processes.”
 
-    Subsec. (a)(9)(A). [Pub. L. 105–178, § 7106(d)(1)(C)][/us/pl/105/178/s7106/d/1/C], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “for an outside supplier, passenger motor vehicle equipment whose purchase price contains at least 70 percent value added in the United States and Canada; and”.
+    Subsec. (a)(9)(A). [Pub. L. 105–178][/us/pl/105/178], § 7106(d)(1)(C), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “for an outside supplier, passenger motor vehicle equipment whose purchase price contains at least 70 percent value added in the United States and Canada; and”.
 
-    Subsec. (c). [Pub. L. 105–178, § 7106(d)(3)][/us/pl/105/178/s7106/d/3], added subsec. (c). Former subsec. (c) redesignated (f).
+    Subsec. (c). [Pub. L. 105–178][/us/pl/105/178], § 7106(d)(3), added subsec. (c). Former subsec. (c) redesignated (f).
 
-    Subsec. (d). [Pub. L. 105–178, § 7106(d)(4)][/us/pl/105/178/s7106/d/4], added subsec. (d). Former subsec. (d) redesignated (g).
+    Subsec. (d). [Pub. L. 105–178][/us/pl/105/178], § 7106(d)(4), added subsec. (d). Former subsec. (d) redesignated (g).
 
-    [Pub. L. 105–178, § 7106(d)(2)][/us/pl/105/178/s7106/d/2], inserted at end “A manufacturer may add to the label required under subsection (b) a line stating the country in which vehicle assembly was completed.”
+    [Pub. L. 105–178][/us/pl/105/178], § 7106(d)(2), inserted at end “A manufacturer may add to the label required under subsection (b) a line stating the country in which vehicle assembly was completed.”
 
-    Subsec. (e). [Pub. L. 105–178, § 7106(d)(5)][/us/pl/105/178/s7106/d/5], added subsec. (e). Former subsec. (e) redesignated (h).
+    Subsec. (e). [Pub. L. 105–178][/us/pl/105/178], § 7106(d)(5), added subsec. (e). Former subsec. (e) redesignated (h).
 
-    Subsecs. (f) to (i). [Pub. L. 105–178, § 7106(d)(3)][/us/pl/105/178/s7106/d/3], redesignated subsecs. (c) to (f) as (f) to (i), respectively.
+    Subsecs. (f) to (i). [Pub. L. 105–178][/us/pl/105/178], § 7106(d)(3), redesignated subsecs. (c) to (f) as (f) to (i), respectively.
 
-    1994—Subsec. (a)(11). [Pub. L. 103–429, § 6(29)][/us/pl/103/429/s6/29], amended par. (11) generally. Prior to amendment, par. (11) read as follows: “ ‘passenger motor vehicle’ means a motor vehicle with motive power, manufactured primarily for use on public streets, roads, and highways, and designed to carry not more than 12 individuals—
+    1994—Subsec. (a)(11). [Pub. L. 103–429][/us/pl/103/429], § 6(29), amended par. (11) generally. Prior to amendment, par. (11) read as follows: “ ‘passenger motor vehicle’ means a motor vehicle with motive power, manufactured primarily for use on public streets, roads, and highways, and designed to carry not more than 12 individuals—
 
     “(A) including a multipurpose vehicle or light duty truck when the vehicle or truck is rated at not more than 8,500 pounds gross vehicle weight; but
 
@@ -377,7 +377,7 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, § 210(b)–(d), (f), (g), adde
 
     “(iii) a vehicle operated only on a rail line.”
 
-    Subsec. (a)(14). [Pub. L. 103–429, § 6(30)][/us/pl/103/429/s6/30], inserted “the Northern Mariana Islands,” after “Puerto Rico,” and struck out “the Canal Zone,” after “Guam,”.
+    Subsec. (a)(14). [Pub. L. 103–429][/us/pl/103/429], § 6(30), inserted “the Northern Mariana Islands,” after “Puerto Rico,” and struck out “the Canal Zone,” after “Guam,”.
 
  __Effective Date of 1994 Amendment__ 
 
@@ -394,30 +394,30 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, § 210(b)–(d), (f), (g), adde
 [/us/usc/t15/s1232/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1232%2Fb
 [/us/usc/t15/s1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1232
 [/us/usc/t49/s32908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs32908
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1036
-[/us/pl/103/429/s6/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F29
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/stat/108/4380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4380
-[/us/pl/105/178/s7106/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs7106%2Fd
+[/us/pl/105/178/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtVII
 [/us/stat/112/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F467
 [/us/usc/t49/s1901/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1901%2F1
-[/us/pl/103/429/s6/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F29
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/act/1994-07-05/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1994-07-05%2Fs1
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1038
-[/us/pl/103/429/s6/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F30
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/pl/94/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F241
 [/us/stat/90/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F268
-[/us/pl/105/178/s7106/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs7106%2Fd%2F1%2FA
-[/us/pl/105/178/s7106/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs7106%2Fd%2F1%2FB
-[/us/pl/105/178/s7106/d/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs7106%2Fd%2F1%2FC
-[/us/pl/105/178/s7106/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs7106%2Fd%2F3
-[/us/pl/105/178/s7106/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs7106%2Fd%2F4
-[/us/pl/105/178/s7106/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs7106%2Fd%2F2
-[/us/pl/105/178/s7106/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs7106%2Fd%2F5
-[/us/pl/105/178/s7106/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs7106%2Fd%2F3
-[/us/pl/103/429/s6/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F29
-[/us/pl/103/429/s6/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F30
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/pl/103/429/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs9
 [/us/usc/t49/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs321

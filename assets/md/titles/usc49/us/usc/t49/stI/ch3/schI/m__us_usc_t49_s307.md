@@ -57,7 +57,7 @@
 
     Nothing in this section may be construed to conflict with [section 139(j) of title 23][/us/usc/t23/s139/j].
 
-(Added [Pub. L. 114–94, div. A, title I, § 1312(a)][/us/pl/114/94/s1312/a], Dec. 4, 2015, [129 Stat. 1399][/us/stat/129/1399].)
+(Added [Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1312(a), Dec. 4, 2015, [129 Stat. 1399][/us/stat/129/1399].)
 
  __References in Text__ 
 
@@ -65,7 +65,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 307, [Pub. L. 97–449, § 1(b)][/us/pl/97/449/s1/b], Jan. 12, 1983, [96 Stat. 2421][/us/stat/96/2421], related to safety information and intervention in Interstate Commerce Commission proceedings, prior to repeal by [Pub. L. 112–141, div. C, title II, § 32932(a)(1)][/us/pl/112/141/s32932/a/1], July 6, 2012, [126 Stat. 829][/us/stat/126/829], effective Oct. 1, 2012.
+    A prior section 307, [Pub. L. 97–449][/us/pl/97/449], § 1(b), Jan. 12, 1983, [96 Stat. 2421][/us/stat/96/2421], related to safety information and intervention in Interstate Commerce Commission proceedings, prior to repeal by [Pub. L. 112–141, div. C, title II][/us/pl/112/141/dC/tII], § 32932(a)(1), July 6, 2012, [126 Stat. 829][/us/stat/126/829], effective Oct. 1, 2012.
 
  __Effective Date__ 
 
@@ -79,12 +79,12 @@
 ----------
 
 [/us/usc/t23/s139/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs139%2Fj
-[/us/pl/114/94/s1312/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1312%2Fa
+[/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
 [/us/stat/129/1399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1399
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
-[/us/pl/97/449/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449%2Fs1%2Fb
+[/us/pl/97/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449
 [/us/stat/96/2421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2421
-[/us/pl/112/141/s32932/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32932%2Fa%2F1
+[/us/pl/112/141/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtII
 [/us/stat/126/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F829
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313

@@ -27,7 +27,7 @@
 
     The Administrator shall establish a solicitation, application, review, and evaluation process that ensures providing grants under this section for proposals having adequate merit and relevancy to the research described in subsection (a) of this section.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1182][/us/stat/108/1182].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1182][/us/stat/108/1182].)
 
 <table>
 
@@ -86,7 +86,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 312(h); added Nov. 5, 1990, 
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1182
 
 

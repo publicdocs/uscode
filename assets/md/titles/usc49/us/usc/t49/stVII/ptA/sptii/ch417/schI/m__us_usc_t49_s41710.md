@@ -21,7 +21,7 @@
 
     (2) is not ordered, the Secretary shall make a final decision on the matter not later than the last day of the 6th month that begins after the date the matter is submitted.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1142][/us/stat/108/1142].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1142][/us/stat/108/1142].)
 
 <table>
 
@@ -94,7 +94,7 @@ In this section, before clause (1), the words “matter requiring action of the 
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1142
 
 

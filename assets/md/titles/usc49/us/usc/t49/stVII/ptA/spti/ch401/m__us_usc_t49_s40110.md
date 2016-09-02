@@ -131,7 +131,7 @@
 
         In this subsection, the term “proposal” means information contained in or originating from any proposal, including a technical, management, or cost proposal, submitted by an offeror in response to the requirements of a solicitation for a competitive proposal.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1106][/us/stat/108/1106]; [Pub. L. 103–429, § 6(48)][/us/pl/103/429/s6/48], (80), Oct. 31, 1994, [108 Stat. 4384][/us/stat/108/4384], 4388; [Pub. L. 104–264, title XII, § 1201][/us/pl/104/264/s1201], Oct. 9, 1996, [110 Stat. 3279][/us/stat/110/3279]; [Pub. L. 106–181, title III, § 307(b)][/us/pl/106/181/s307/b], title VII, § 703, Apr. 5, 2000, [114 Stat. 125][/us/stat/114/125], 156; [Pub. L. 107–217, § 3(n)(5)][/us/pl/107/217/s3/n/5], Aug. 21, 2002, [116 Stat. 1302][/us/stat/116/1302]; [Pub. L. 108–176, title II][/us/pl/108/176], §§ 222, 224(a), (b), Dec. 12, 2003, [117 Stat. 2527][/us/stat/117/2527]; [Pub. L. 108–178, § 4(k)][/us/pl/108/178/s4/k], Dec. 15, 2003, [117 Stat. 2642][/us/stat/117/2642]; [Pub. L. 111–350, § 5][/us/pl/111/350/s5](o)(7), Jan. 4, 2011, [124 Stat. 3853][/us/stat/124/3853]; [Pub. L. 112–95, title II][/us/pl/112/95], §§ 206, 210, Feb. 14, 2012, [126 Stat. 39][/us/stat/126/39], 44.)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1106][/us/stat/108/1106]; [Pub. L. 103–429][/us/pl/103/429], § 6(48), (80), Oct. 31, 1994, [108 Stat. 4384][/us/stat/108/4384], 4388; [Pub. L. 104–264, title XII][/us/pl/104/264/tXII], § 1201, Oct. 9, 1996, [110 Stat. 3279][/us/stat/110/3279]; [Pub. L. 106–181, title III][/us/pl/106/181/tIII], § 307(b), title VII, § 703, Apr. 5, 2000, [114 Stat. 125][/us/stat/114/125], 156; [Pub. L. 107–217][/us/pl/107/217], § 3(n)(5), Aug. 21, 2002, [116 Stat. 1302][/us/stat/116/1302]; [Pub. L. 108–176, title II][/us/pl/108/176/tII], §§ 222, 224(a), (b), Dec. 12, 2003, [117 Stat. 2527][/us/stat/117/2527]; [Pub. L. 108–178][/us/pl/108/178], § 4(k), Dec. 15, 2003, [117 Stat. 2642][/us/stat/117/2642]; [Pub. L. 111–350][/us/pl/111/350], § 5(o)(7), Jan. 4, 2011, [124 Stat. 3853][/us/stat/124/3853]; [Pub. L. 112–95, title II][/us/pl/112/95/tII], §§ 206, 210, Feb. 14, 2012, [126 Stat. 39][/us/stat/126/39], 44.)
 
 <table>
 
@@ -309,57 +309,57 @@ In this section, the word “Administrator” in section 303(a)–(d) of the Fed
 
     The Federal Acquisition Streamlining Act of 1994, referred to in subsec. (d)(2)(C), is [Pub. L. 103–355][/us/pl/103/355], Oct. 13, 1994, [108 Stat. 3243][/us/stat/108/3243]. For complete classification of this Act to the Code, see Short Title of 1994 Act note set out under [section 101 of Title 41][/us/usc/t41/s101], Public Contracts, and Tables.
 
-    The Small Business Act, referred to in subsec. (d)(2)(D), is [Pub. L. 85–536, § 2][/us/pl/85/536/s2](1 et seq.), July 18, 1958, [72 Stat. 384][/us/stat/72/384], which is classified generally to chapter 14A (§ 631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 631 of Title 15][/us/usc/t15/s631] and Tables.
+    The Small Business Act, referred to in subsec. (d)(2)(D), is [Pub. L. 85–536][/us/pl/85/536], § 2(1 et seq.), July 18, 1958, [72 Stat. 384][/us/stat/72/384], which is classified generally to chapter 14A (§ 631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 631 of Title 15][/us/usc/t15/s631] and Tables.
 
-    The Competition in Contracting Act, referred to in subsec. (d)(2)(E), probably means the Competition in Contracting Act of 1984, which is title VII of [Pub. L. 98–369, div. B][/us/pl/98/369], July 18, 1984, [98 Stat. 1175][/us/stat/98/1175]. For complete classification of this Act to the Code, see Short Title of 1984 Act note set out under [section 101 of Title 41][/us/usc/t41/s101], Public Contracts, and Tables.
+    The Competition in Contracting Act, referred to in subsec. (d)(2)(E), probably means the Competition in Contracting Act of 1984, which is title VII of [Pub. L. 98–369, div. B][/us/pl/98/369/dB], July 18, 1984, [98 Stat. 1175][/us/stat/98/1175]. For complete classification of this Act to the Code, see Short Title of 1984 Act note set out under [section 101 of Title 41][/us/usc/t41/s101], Public Contracts, and Tables.
 
     The date of the enactment of the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century, referred to in subsec. (d)(3)(B), is the date of enactment of [Pub. L. 106–181][/us/pl/106/181], which was approved Apr. 5, 2000.
 
  __Amendments__ 
 
-    2012—Subsec. (a)(2), (3). [Pub. L. 112–95, § 210][/us/pl/112/95/s210], added pars. (2) and (3) and struck out former pars. (2) and (3) which read as follows:
+    2012—Subsec. (a)(2), (3). [Pub. L. 112–95][/us/pl/112/95], § 210, added pars. (2) and (3) and struck out former pars. (2) and (3) which read as follows:
 
     “(2) may dispose of an interest in property for adequate compensation; and
 
     “(3) may construct and improve laboratories and other test facilities.”
 
-    Subsec. (c)(3) to (5). [Pub. L. 112–95, § 206][/us/pl/112/95/s206], inserted “and” at end of par. (3), redesignated par. (5) as (4), and struck out former par. (4) which read as follows: “use procedures other than competitive procedures only when the property or services needed by the Administrator of the Federal Aviation Administration are available from only one responsible source or only from a limited number of responsible sources and no other type of property or services will satisfy the needs of the Administrator; and”.
+    Subsec. (c)(3) to (5). [Pub. L. 112–95][/us/pl/112/95], § 206, inserted “and” at end of par. (3), redesignated par. (5) as (4), and struck out former par. (4) which read as follows: “use procedures other than competitive procedures only when the property or services needed by the Administrator of the Federal Aviation Administration are available from only one responsible source or only from a limited number of responsible sources and no other type of property or services will satisfy the needs of the Administrator; and”.
 
-    2011—Subsec. (d)(2)(A). [Pub. L. 111–350, § 5][/us/pl/111/350/s5](o)(7)(A), substituted “Division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” for “Title III of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 252–266][/us/usc/t41/s252–266])”.
+    2011—Subsec. (d)(2)(A). [Pub. L. 111–350][/us/pl/111/350], § 5(o)(7)(A), substituted “Division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” for “Title III of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 252–266][/us/usc/t41/s252–266])”.
 
-    Subsec. (d)(2)(B). [Pub. L. 111–350, § 5][/us/pl/111/350/s5](o)(7)(B), substituted “Division B (except sections 1704 and 2303) of subtitle I of title 41” for “The Office of Federal Procurement Policy Act ([41 U.S.C. 401][/us/usc/t41/s401] et seq.)”.
+    Subsec. (d)(2)(B). [Pub. L. 111–350][/us/pl/111/350], § 5(o)(7)(B), substituted “Division B (except sections 1704 and 2303) of subtitle I of title 41” for “The Office of Federal Procurement Policy Act ([41 U.S.C. 401][/us/usc/t41/s401] et seq.)”.
 
-    Subsec. (d)(2)(C). [Pub. L. 111–350, § 5][/us/pl/111/350/s5](o)(7)(C), substituted “([Public Law 103–355][/us/pl/103/355]). However, [section 4705 of title 41][/us/usc/t41/s4705] shall apply to the new acquisition management system developed and implemented pursuant to paragraph (1). For the purpose of applying [section 4705 of title 41][/us/usc/t41/s4705] to the system,” for “([Public Law 103–355][/us/pl/103/355]), except for section 315 ([41 U.S.C. 265][/us/usc/t41/s265]). For the purpose of applying section 315 of that Act to the system,”.
+    Subsec. (d)(2)(C). [Pub. L. 111–350][/us/pl/111/350], § 5(o)(7)(C), substituted “([Public Law 103–355][/us/pl/103/355]). However, [section 4705 of title 41][/us/usc/t41/s4705] shall apply to the new acquisition management system developed and implemented pursuant to paragraph (1). For the purpose of applying [section 4705 of title 41][/us/usc/t41/s4705] to the system,” for “([Public Law 103–355][/us/pl/103/355]), except for section 315 ([41 U.S.C. 265][/us/usc/t41/s265]). For the purpose of applying section 315 of that Act to the system,”.
 
-    Subsec. (d)(3). [Pub. L. 111–350, § 5][/us/pl/111/350/s5](o)(7)(D)(i), (ii), substituted “division b (except sections 1704 and 2303) of subtitle i of title 41” for “the office of federal procurement policy act” in heading and “chapter 21 of title 41” for “section 27 of the Office of Federal Procurement Policy Act ([41 U.S.C. 423][/us/usc/t41/s423])” in text.
+    Subsec. (d)(3). [Pub. L. 111–350][/us/pl/111/350], § 5(o)(7)(D)(i), (ii), substituted “division b (except sections 1704 and 2303) of subtitle i of title 41” for “the office of federal procurement policy act” in heading and “chapter 21 of title 41” for “section 27 of the Office of Federal Procurement Policy Act ([41 U.S.C. 423][/us/usc/t41/s423])” in text.
 
-    Subsec. (d)(3)(A). [Pub. L. 111–350, § 5][/us/pl/111/350/s5](o)(7)(D)(iii), substituted “Sections 2101 and 2106 of title 41” for “Subsections (f) and (g)”.
+    Subsec. (d)(3)(A). [Pub. L. 111–350][/us/pl/111/350], § 5(o)(7)(D)(iii), substituted “Sections 2101 and 2106 of title 41” for “Subsections (f) and (g)”.
 
-    2003—Subsec. (c). [Pub. L. 108–176, § 224(a)][/us/pl/108/176/s224/a], struck out par. (1), which related to the senior procurement executive, par. (2) designation before “may—”, and subpar. (D) of par. (2), which related to use procedures other than competitive procedures, redesignated subpars. (A), (B), (C), (E), and (F) of par. (2) as pars. (1) to (5), respectively, and realigned margins.
+    2003—Subsec. (c). [Pub. L. 108–176][/us/pl/108/176], § 224(a), struck out par. (1), which related to the senior procurement executive, par. (2) designation before “may—”, and subpar. (D) of par. (2), which related to use procedures other than competitive procedures, redesignated subpars. (A), (B), (C), (E), and (F) of par. (2) as pars. (1) to (5), respectively, and realigned margins.
 
-    Subsec. (d)(1). [Pub. L. 108–176, § 224(b)(1)][/us/pl/108/176/s224/b/1], struck out “, not later than January 1, 1996,” after “shall develop and implement”, substituted “provides for—” for “provides for more timely and cost-effective acquisitions of equipment and materials.”, and added subpars. (A) and (B).
+    Subsec. (d)(1). [Pub. L. 108–176][/us/pl/108/176], § 224(b)(1), struck out “, not later than January 1, 1996,” after “shall develop and implement”, substituted “provides for—” for “provides for more timely and cost-effective acquisitions of equipment and materials.”, and added subpars. (A) and (B).
 
-    Subsec. (d)(2)(C). [Pub. L. 108–176, § 222][/us/pl/108/176/s222], substituted “([Public Law 103–355][/us/pl/103/355]), except for section 315 ([41 U.S.C. 265][/us/usc/t41/s265]). For the purpose of applying section 315 of that Act to the system, the term ‘executive agency’ is deemed to refer to the Federal Aviation Administration.” for “([Public Law 103–355][/us/pl/103/355]).”
+    Subsec. (d)(2)(C). [Pub. L. 108–176][/us/pl/108/176], § 222, substituted “([Public Law 103–355][/us/pl/103/355]), except for section 315 ([41 U.S.C. 265][/us/usc/t41/s265]). For the purpose of applying section 315 of that Act to the system, the term ‘executive agency’ is deemed to refer to the Federal Aviation Administration.” for “([Public Law 103–355][/us/pl/103/355]).”
 
-    Subsec. (d)(2)(G). [Pub. L. 108–178, § 4(k)(3)][/us/pl/108/178/s4/k/3], substituted “subparagraphs (A) through (F)” for “subparagraphs (A) through (G)”.
+    Subsec. (d)(2)(G). [Pub. L. 108–178][/us/pl/108/178], § 4(k)(3), substituted “subparagraphs (A) through (F)” for “subparagraphs (A) through (G)”.
 
-    [Pub. L. 108–178, § 4(k)(1)][/us/pl/108/178/s4/k/1], (2), redesignated subpar. (H) as (G) and struck out former subpar. (G) which read as follows: “The Brooks Automatic Data Processing Act ([40 U.S.C. 759][/us/usc/t40/s759]).”
+    [Pub. L. 108–178][/us/pl/108/178], § 4(k)(1), (2), redesignated subpar. (H) as (G) and struck out former subpar. (G) which read as follows: “The Brooks Automatic Data Processing Act ([40 U.S.C. 759][/us/usc/t40/s759]).”
 
-    Subsec. (d)(2)(H). [Pub. L. 108–178, § 4(k)(2)][/us/pl/108/178/s4/k/2], redesignated subpar. (H) as (G).
+    Subsec. (d)(2)(H). [Pub. L. 108–178][/us/pl/108/178], § 4(k)(2), redesignated subpar. (H) as (G).
 
-    Subsec. (d)(4). [Pub. L. 108–176, § 224(b)(2)][/us/pl/108/176/s224/b/2], added par. (4) and struck out heading and text of former par. (4). Text read as follows: “This subsection shall take effect on April 1, 1996.”
+    Subsec. (d)(4). [Pub. L. 108–176][/us/pl/108/176], § 224(b)(2), added par. (4) and struck out heading and text of former par. (4). Text read as follows: “This subsection shall take effect on April 1, 1996.”
 
-    2002—Subsec. (c)(2)(C). [Pub. L. 107–217, § 3(n)(5)(A)][/us/pl/107/217/s3/n/5/A], substituted “(as defined in [section 3301(a) of title 40][/us/usc/t40/s3301/a])” for “(as defined in section 13 of the Public Buildings Act of 1959 ([40 U.S.C. 612][/us/usc/t40/s612]))”.
+    2002—Subsec. (c)(2)(C). [Pub. L. 107–217][/us/pl/107/217], § 3(n)(5)(A), substituted “(as defined in [section 3301(a) of title 40][/us/usc/t40/s3301/a])” for “(as defined in section 13 of the Public Buildings Act of 1959 ([40 U.S.C. 612][/us/usc/t40/s612]))”.
 
-    Subsec. (c)(2)(F). [Pub. L. 107–217, § 3(n)(5)(B)][/us/pl/107/217/s3/n/5/B], substituted “sections 121, 123, and 126 and chapter 5 of title 40” for “title II of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 481][/us/usc/t40/s481] et seq.)”.
+    Subsec. (c)(2)(F). [Pub. L. 107–217][/us/pl/107/217], § 3(n)(5)(B), substituted “sections 121, 123, and 126 and chapter 5 of title 40” for “title II of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 481][/us/usc/t40/s481] et seq.)”.
 
     2000—Subsecs. (d), (e). [Pub. L. 106–181][/us/pl/106/181] added subsecs. (d) and (e).
 
     1996—Subsecs. (b), (c). [Pub. L. 104–264][/us/pl/104/264] added subsec. (b) and redesignated former subsec. (b) as (c).
 
-    1994—Subsec. (a). [Pub. L. 103–429, § 6(48)][/us/pl/103/429/s6/48], in introductory provisions, struck out “may” after “Administration”, in par. (1), struck out “acquire,” before “to the extent” and substituted “may acquire services or, by condemnation or otherwise,” for “services or”, and in pars. (2) and (3), inserted “may” after par. designation.
+    1994—Subsec. (a). [Pub. L. 103–429][/us/pl/103/429], § 6(48), in introductory provisions, struck out “may” after “Administration”, in par. (1), struck out “acquire,” before “to the extent” and substituted “may acquire services or, by condemnation or otherwise,” for “services or”, and in pars. (2) and (3), inserted “may” after par. designation.
 
-    Subsec. (b)(2)(A). [Pub. L. 103–429, § 6(80)][/us/pl/103/429/s6/80], inserted “notwithstanding [section 1341(a)(1) of title 31][/us/usc/t31/s1341/a/1],” before “lease”.
+    Subsec. (b)(2)(A). [Pub. L. 103–429][/us/pl/103/429], § 6(80), inserted “notwithstanding [section 1341(a)(1) of title 31][/us/usc/t31/s1341/a/1],” before “lease”.
 
  __Effective Date of 2003 Amendments__ 
 
@@ -381,7 +381,7 @@ In this section, the word “Administrator” in section 303(a)–(d) of the Fed
 
  __Contracting__ 
 
-[Pub. L. 112–95, title VIII, § 814][/us/pl/112/95/s814], Feb. 14, 2012, [126 Stat. 125][/us/stat/126/125], provided that: 
+[Pub. L. 112–95, title VIII][/us/pl/112/95/tVIII], § 814, Feb. 14, 2012, [126 Stat. 125][/us/stat/126/125], provided that: 
 
 > “When drafting contract proposals for training facilities under the general contracting authority of the Federal Aviation Administration, the Administrator of the Federal Aviation Administration shall ensure—
 
@@ -391,7 +391,7 @@ In this section, the word “Administrator” in section 303(a)–(d) of the Fed
 
  __FAA Evaluation of Long-Term Capital Leasing__ 
 
-[Pub. L. 106–181, title VII, § 704][/us/pl/106/181/s704], Apr. 5, 2000, [114 Stat. 157][/us/stat/114/157], provided that:
+[Pub. L. 106–181, title VII][/us/pl/106/181/tVII], § 704, Apr. 5, 2000, [114 Stat. 157][/us/stat/114/157], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -411,11 +411,11 @@ In this section, the word “Administrator” in section 303(a)–(d) of the Fed
 
  __Assessment of Acquisition Management System__ 
 
-[Pub. L. 104–264, title II, § 251][/us/pl/104/264/s251], Oct. 9, 1996, [110 Stat. 3236][/us/stat/110/3236], provided that: 
+[Pub. L. 104–264, title II][/us/pl/104/264/tII], § 251, Oct. 9, 1996, [110 Stat. 3236][/us/stat/110/3236], provided that: 
 
 > “Not later than April 1, 1999, the Administrator \[of the Federal Aviation Administration\] shall employ outside experts to provide an independent evaluation of the effectiveness of the Administration’s \[Federal Aviation Administration\] acquisition management system within 3 months after such date. The Administrator shall transmit a copy of the evaluation to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.”
 
-[Pub. L. 104–205, title III, § 351][/us/pl/104/205/s351], Sept. 30, 1996, [110 Stat. 2979][/us/stat/110/2979], provided that: 
+[Pub. L. 104–205, title III][/us/pl/104/205/tIII], § 351, Sept. 30, 1996, [110 Stat. 2979][/us/stat/110/2979], provided that: 
 
 > “Not later than December 31, 1997, the Administrator of the Federal Aviation Administration shall—
 
@@ -425,11 +425,11 @@ In this section, the word “Administrator” in section 303(a)–(d) of the Fed
 
  __Acquisition Management System for Federal Aviation Administration__ 
 
-    [Pub. L. 104–50, title III, § 348][/us/pl/104/50/s348], Nov. 15, 1995, [109 Stat. 460][/us/stat/109/460], required the Administrator of the Federal Aviation Administration to develop and implement, not later than Jan. 1, 1996, an acquisition management system, exempt from specified federal procurement and acquisition laws, to provide for more timely and cost-effective acquisitions of equipment and materials, prior to repeal by [Pub. L. 106–181, title III, § 307(d)][/us/pl/106/181/s307/d], Apr. 5, 2000, [114 Stat. 126][/us/stat/114/126].
+    [Pub. L. 104–50, title III][/us/pl/104/50/tIII], § 348, Nov. 15, 1995, [109 Stat. 460][/us/stat/109/460], required the Administrator of the Federal Aviation Administration to develop and implement, not later than Jan. 1, 1996, an acquisition management system, exempt from specified federal procurement and acquisition laws, to provide for more timely and cost-effective acquisitions of equipment and materials, prior to repeal by [Pub. L. 106–181, title III][/us/pl/106/181/tIII], § 307(d), Apr. 5, 2000, [114 Stat. 126][/us/stat/114/126].
 
  __Alternative Procurement and Acquisition Pilot Program__ 
 
-[Pub. L. 103–355, title V, § 5063][/us/pl/103/355/s5063], Oct. 13, 1994, [108 Stat. 3356][/us/stat/108/3356], provided that:
+[Pub. L. 103–355, title V][/us/pl/103/355/tV], § 5063, Oct. 13, 1994, [108 Stat. 3356][/us/stat/108/3356], provided that:
 
 >     “(a)  __Authority__  __.—__ 
 
@@ -563,23 +563,23 @@ In this section, the word “Administrator” in section 303(a)–(d) of the Fed
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
 [/us/usc/t5/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs504
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1106
-[/us/pl/103/429/s6/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F48
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/stat/108/4384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4384
-[/us/pl/104/264/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs1201
+[/us/pl/104/264/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2FtXII
 [/us/stat/110/3279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3279
-[/us/pl/106/181/s307/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs307%2Fb
+[/us/pl/106/181/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtIII
 [/us/stat/114/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F125
-[/us/pl/107/217/s3/n/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs3%2Fn%2F5
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1302
-[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
+[/us/pl/108/176/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtII
 [/us/stat/117/2527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2527
-[/us/pl/108/178/s4/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F178%2Fs4%2Fk
+[/us/pl/108/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F178
 [/us/stat/117/2642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2642
-[/us/pl/111/350/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3853
-[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtII
 [/us/stat/126/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F39
 [/us/pl/85/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F726
 [/us/stat/72/747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F747
@@ -597,48 +597,48 @@ In this section, the word “Administrator” in section 303(a)–(d) of the Fed
 [/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
 [/us/stat/108/3243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3243
 [/us/usc/t41/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs101
-[/us/pl/85/536/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536%2Fs2
+[/us/pl/85/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536
 [/us/stat/72/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F384
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
-[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdB
 [/us/stat/98/1175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1175
 [/us/usc/t41/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs101
 [/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
-[/us/pl/112/95/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs210
-[/us/pl/112/95/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs206
-[/us/pl/111/350/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/usc/t41/s252–266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs252%E2%80%93266
-[/us/pl/111/350/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/usc/t41/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs401
-[/us/pl/111/350/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
 [/us/usc/t41/s4705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs4705
 [/us/usc/t41/s4705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs4705
 [/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
 [/us/usc/t41/s265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs265
-[/us/pl/111/350/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/usc/t41/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs423
-[/us/pl/111/350/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5
-[/us/pl/108/176/s224/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs224%2Fa
-[/us/pl/108/176/s224/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs224%2Fb%2F1
-[/us/pl/108/176/s222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs222
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
 [/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
 [/us/usc/t41/s265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs265
 [/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
-[/us/pl/108/178/s4/k/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F178%2Fs4%2Fk%2F3
-[/us/pl/108/178/s4/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F178%2Fs4%2Fk%2F1
+[/us/pl/108/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F178
+[/us/pl/108/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F178
 [/us/usc/t40/s759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs759
-[/us/pl/108/178/s4/k/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F178%2Fs4%2Fk%2F2
-[/us/pl/108/176/s224/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs224%2Fb%2F2
-[/us/pl/107/217/s3/n/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs3%2Fn%2F5%2FA
+[/us/pl/108/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F178
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/usc/t40/s3301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs3301%2Fa
 [/us/usc/t40/s612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs612
-[/us/pl/107/217/s3/n/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs3%2Fn%2F5%2FB
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/usc/t40/s481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs481
 [/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
-[/us/pl/103/429/s6/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F48
-[/us/pl/103/429/s6/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F80
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/usc/t31/s1341/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1341%2Fa%2F1
 [/us/pl/108/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F178
 [/us/pl/108/178/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F178%2Fs5
@@ -655,20 +655,20 @@ In this section, the word “Administrator” in section 303(a)–(d) of the Fed
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/pl/103/429/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs9
 [/us/usc/t49/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs321
-[/us/pl/112/95/s814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs814
+[/us/pl/112/95/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtVIII
 [/us/stat/126/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F125
-[/us/pl/106/181/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs704
+[/us/pl/106/181/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtVII
 [/us/stat/114/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F157
-[/us/pl/104/264/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs251
+[/us/pl/104/264/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2FtII
 [/us/stat/110/3236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3236
-[/us/pl/104/205/s351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F205%2Fs351
+[/us/pl/104/205/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F205%2FtIII
 [/us/stat/110/2979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2979
 [/us/usc/t41/s403/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs403%2F6
-[/us/pl/104/50/s348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F50%2Fs348
+[/us/pl/104/50/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F50%2FtIII
 [/us/stat/109/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F460
-[/us/pl/106/181/s307/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs307%2Fd
+[/us/pl/106/181/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtIII
 [/us/stat/114/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F126
-[/us/pl/103/355/s5063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs5063
+[/us/pl/103/355/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2FtV
 [/us/stat/108/3356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3356
 [/us/usc/t49/s44501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44501%2Fb
 [/us/usc/t41/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs251

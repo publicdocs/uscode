@@ -39,7 +39,7 @@
 
     Not later than 18 months after regulations are first prescribed under section 2(e)(1)(B) of the Imported Vehicle Safety Compliance Act of 1988, the Secretary shall submit to Congress a report of the actions taken to carry out subchapter III of this chapter and the effectiveness of those actions, including any testing by the Secretary under [section 30146(c)(2) of this title][/us/usc/t49/s30146/c/2]. After the first report, the Secretary shall submit a report to Congress under this subsection not later than July 31 of each year.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 972][/us/stat/108/972].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 972][/us/stat/108/972].)
 
 <table>
 
@@ -107,7 +107,7 @@ Oct. 31, 1988, Pub. L. 100–562, § 2(e)(4), 102 Stat. 2825.  </td>
 
  __References in Text__ 
 
-    Section 2(e)(1)(B) of the Imported Vehicle Safety Compliance Act of 1988, referred to in subsec. (b), is [section 2(e)(1)(B) of Pub. L. 100–562][/us/pl/100/562/s2/e/1/B], which was set out as a note under [section 1397 of Title 15][/us/usc/t15/s1397], Commerce and Trade, prior to repeal by [Pub. L. 103–272, § 7(b)][/us/pl/103/272/s7/b], July 5, 1994, [108 Stat. 1379][/us/stat/108/1379].
+    Section 2(e)(1)(B) of the Imported Vehicle Safety Compliance Act of 1988, referred to in subsec. (b), is [section 2(e)(1)(B) of Pub. L. 100–562][/us/pl/100/562/s2/e/1/B], which was set out as a note under [section 1397 of Title 15][/us/usc/t15/s1397], Commerce and Trade, prior to repeal by [Pub. L. 103–272][/us/pl/103/272], § 7(b), July 5, 1994, [108 Stat. 1379][/us/stat/108/1379].
 
  __Termination of Reporting Requirements__ 
 
@@ -121,11 +121,11 @@ Oct. 31, 1988, Pub. L. 100–562, § 2(e)(4), 102 Stat. 2825.  </td>
 ----------
 
 [/us/usc/t49/s30146/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30146%2Fc%2F2
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F972
 [/us/pl/100/562/s2/e/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F562%2Fs2%2Fe%2F1%2FB
 [/us/usc/t15/s1397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1397
-[/us/pl/103/272/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs7%2Fb
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1379
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113

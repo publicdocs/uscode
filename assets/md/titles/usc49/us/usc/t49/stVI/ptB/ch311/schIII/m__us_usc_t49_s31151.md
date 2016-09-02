@@ -123,7 +123,7 @@
 
             (B) does not include the leasing of equipment to a motor carrier for primary use in the motor carrier’s freight hauling operations.
 
-(Added [Pub. L. 109–59, title IV, § 4118(a)][/us/pl/109/59/s4118/a], Aug. 10, 2005, [119 Stat. 1729][/us/stat/119/1729]; amended [Pub. L. 110–244, title III, § 301(e)][/us/pl/110/244/s301/e], June 6, 2008, [122 Stat. 1616][/us/stat/122/1616]; [Pub. L. 112–141, div. C, title II, § 32931(b)][/us/pl/112/141/s32931/b], July 6, 2012, [126 Stat. 829][/us/stat/126/829].)
+(Added [Pub. L. 109–59, title IV][/us/pl/109/59/tIV], § 4118(a), Aug. 10, 2005, [119 Stat. 1729][/us/stat/119/1729]; amended [Pub. L. 110–244, title III][/us/pl/110/244/tIII], § 301(e), June 6, 2008, [122 Stat. 1616][/us/stat/122/1616]; [Pub. L. 112–141, div. C, title II][/us/pl/112/141/dC/tII], § 32931(b), July 6, 2012, [126 Stat. 829][/us/stat/126/829].)
 
  __References in Text__ 
 
@@ -131,9 +131,9 @@
 
  __Amendments__ 
 
-    2012—Subsec. (a)(1). [Pub. L. 112–141, § 32931(b)(1)][/us/pl/112/141/s32931/b/1], amended par. (1) generally. Prior to amendment, text read as follows: “Not later than 1 year after the date of enactment of this section, the Secretary of Transportation, after providing notice and opportunity for comment, shall issue regulations establishing a program to ensure that intermodal equipment used to transport intermodal containers is safe and systematically maintained.”
+    2012—Subsec. (a)(1). [Pub. L. 112–141][/us/pl/112/141], § 32931(b)(1), amended par. (1) generally. Prior to amendment, text read as follows: “Not later than 1 year after the date of enactment of this section, the Secretary of Transportation, after providing notice and opportunity for comment, shall issue regulations establishing a program to ensure that intermodal equipment used to transport intermodal containers is safe and systematically maintained.”
 
-    Subsec. (a)(4). [Pub. L. 112–141, § 32931(b)(2)][/us/pl/112/141/s32931/b/2], struck out par. (4). Text read as follows: “Not later than 120 days after the date of enactment of this section, the Secretary shall initiate a rulemaking proceeding for issuance of the regulations under this section.”
+    Subsec. (a)(4). [Pub. L. 112–141][/us/pl/112/141], § 32931(b)(2), struck out par. (4). Text read as follows: “Not later than 120 days after the date of enactment of this section, the Secretary shall initiate a rulemaking proceeding for issuance of the regulations under this section.”
 
     2008—Subsec. (a)(3)(E)(ii). [Pub. L. 110–244][/us/pl/110/244] substituted “section” for “Act”.
 
@@ -149,15 +149,15 @@
 ----------
 
 [/us/usc/t49/s521/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs521%2Fb
-[/us/pl/109/59/s4118/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4118%2Fa
+[/us/pl/109/59/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIV
 [/us/stat/119/1729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1729
-[/us/pl/110/244/s301/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs301%2Fe
+[/us/pl/110/244/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2FtIII
 [/us/stat/122/1616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1616
-[/us/pl/112/141/s32931/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32931%2Fb
+[/us/pl/112/141/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtII
 [/us/stat/126/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F829
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
-[/us/pl/112/141/s32931/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32931%2Fb%2F1
-[/us/pl/112/141/s32931/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32931%2Fb%2F2
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa

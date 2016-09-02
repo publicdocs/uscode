@@ -17,7 +17,7 @@
 
     The Secretary of Transportation may pay an air carrier compensation under this subchapter only when the carrier files with the Secretary an insurance policy or self-insurance plan approved by the Secretary. The policy or plan must be sufficient to pay for bodily injury to, or death of, an individual, or for loss of or damage to property of others, resulting from the operation of aircraft, but not more than the amount of the policy or plan limits.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1152][/us/stat/108/1152].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1152][/us/stat/108/1152].)
 
 <table>
 
@@ -74,7 +74,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 419(h); added Oct. 24, 1978,
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1152
 
 

@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../..//us/usc/t49/stV/ptB/ch221/m__us_usc_t49_s22107.md) | [Next](./../../../../../..//us/usc/t49/stV/ptB/ch223/m__us_usc_t49_stV_ptB_ch223.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs22108)
 
-## \[§ 22108. Repealed. [Pub. L. 114–94, div. A, title XI, § 11301(c)(4)][/us/pl/114/94/s11301/c/4], Dec. 4, 2015, [129 Stat. 1648][/us/stat/129/1648]\]
+## \[§ 22108. Repealed. [Pub. L. 114–94, div. A, title XI][/us/pl/114/94/dA/tXI], § 11301(c)(4), Dec. 4, 2015, [129 Stat. 1648][/us/stat/129/1648]\]
 
-    Section, [Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 898][/us/stat/108/898]; [Pub. L. 103–429, § 6(20)][/us/pl/103/429/s6/20], Oct. 31, 1994, [108 Stat. 4379][/us/stat/108/4379]; [Pub. L. 104–287, § 5(48)][/us/pl/104/287/s5/48], Oct. 11, 1996, [110 Stat. 3393][/us/stat/110/3393], related to authorization of appropriations.
+    Section, [Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 898][/us/stat/108/898]; [Pub. L. 103–429][/us/pl/103/429], § 6(20), Oct. 31, 1994, [108 Stat. 4379][/us/stat/108/4379]; [Pub. L. 104–287][/us/pl/104/287], § 5(48), Oct. 11, 1996, [110 Stat. 3393][/us/stat/110/3393], related to authorization of appropriations.
 
  __Effective Date of Repeal__ 
 
@@ -28,13 +28,13 @@
 ----------
 ----------
 
-[/us/pl/114/94/s11301/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11301%2Fc%2F4
+[/us/pl/114/94/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtXI
 [/us/stat/129/1648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1648
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F898
-[/us/pl/103/429/s6/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F20
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/stat/108/4379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4379
-[/us/pl/104/287/s5/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F48
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3393
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003

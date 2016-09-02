@@ -17,7 +17,7 @@
 
     Sections 47528(a)–(d) and 47529 of this title do not apply to aircraft used only to provide air transportation outside the 48 contiguous States. A civil subsonic turbojet aircraft with a maximum weight of more than 75,000 pounds that is imported into a noncontiguous State or a territory or possession of the United States after November 4, 1990, may be used to provide air transportation in the 48 contiguous States only if the aircraft complies with the stage 3 noise levels.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1293][/us/stat/108/1293].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1293][/us/stat/108/1293].)
 
 <table>
 
@@ -72,7 +72,7 @@ Nov. 5, 1990, Pub. L. 101–508, § 9308(d), 104 Stat. 1388–383; Oct. 28, 19
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1293
 
 

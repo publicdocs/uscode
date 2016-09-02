@@ -65,7 +65,7 @@
 
         The Administrator shall adjust a fee established under subsection (a) for a service or activity if the Administrator determines that the actual cost of the service or activity is higher or lower than was indicated by the cost data used to establish such fee.
 
-(Added [Pub. L. 112–95, title I, § 122(a)][/us/pl/112/95/s122/a], Feb. 14, 2012, [126 Stat. 19][/us/stat/126/19].)
+(Added [Pub. L. 112–95, title I][/us/pl/112/95/tI], § 122(a), Feb. 14, 2012, [126 Stat. 19][/us/stat/126/19].)
 
 ----------
 
@@ -75,7 +75,7 @@
 ----------
 
 [/us/usc/t31/s3302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3302
-[/us/pl/112/95/s122/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs122%2Fa
+[/us/pl/112/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtI
 [/us/stat/126/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F19
 
 

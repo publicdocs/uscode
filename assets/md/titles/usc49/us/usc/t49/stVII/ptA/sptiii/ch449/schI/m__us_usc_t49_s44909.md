@@ -91,7 +91,7 @@
 
                 The process shall include the establishment of a method by which the Secretary will be able to maintain a record of air passengers and other individuals who have been misidentified and have corrected erroneous information. To prevent repeated delays of misidentified passengers and other individuals, the Department of Homeland Security record shall contain information determined by the Secretary to authenticate the identity of such a passenger or individual.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1211][/us/stat/108/1211]; [Pub. L. 106–181, title VII, § 718][/us/pl/106/181/s718], Apr. 5, 2000, [114 Stat. 163][/us/stat/114/163]; [Pub. L. 107–71, title I, § 115][/us/pl/107/71/s115], Nov. 19, 2001, [115 Stat. 623][/us/stat/115/623]; [Pub. L. 108–458, title IV, § 4012(a)(2)][/us/pl/108/458/s4012/a/2], Dec. 17, 2004, [118 Stat. 3717][/us/stat/118/3717].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1211][/us/stat/108/1211]; [Pub. L. 106–181, title VII][/us/pl/106/181/tVII], § 718, Apr. 5, 2000, [114 Stat. 163][/us/stat/114/163]; [Pub. L. 107–71, title I][/us/pl/107/71/tI], § 115, Nov. 19, 2001, [115 Stat. 623][/us/stat/115/623]; [Pub. L. 108–458, title IV][/us/pl/108/458/tIV], § 4012(a)(2), Dec. 17, 2004, [118 Stat. 3717][/us/stat/118/3717].)
 
 <table>
 
@@ -201,9 +201,9 @@ Nov. 16, 1990, Pub. L. 101–604, § 203(c), 104 Stat. 3083.  </td>
 
  __Amendments__ 
 
-    2004—Subsec. (c)(4). [Pub. L. 108–458, § 4012(a)(2)(A)][/us/pl/108/458/s4012/a/2/A], substituted “paragraphs (5) and (6),” for “paragraph (5),”.
+    2004—Subsec. (c)(4). [Pub. L. 108–458][/us/pl/108/458], § 4012(a)(2)(A), substituted “paragraphs (5) and (6),” for “paragraph (5),”.
 
-    Subsec. (c)(6). [Pub. L. 108–458, § 4012(a)(2)(B)][/us/pl/108/458/s4012/a/2/B], added par. (6).
+    Subsec. (c)(6). [Pub. L. 108–458][/us/pl/108/458], § 4012(a)(2)(B), added par. (6).
 
     2001—Subsec. (c). [Pub. L. 107–71][/us/pl/107/71] which directed the addition of subsec. (c) to section 44909, without specifying the Code title to be amended, was executed by making the addition to this section, to reflect the probable intent of Congress.
 
@@ -227,18 +227,18 @@ Nov. 16, 1990, Pub. L. 101–604, § 203(c), 104 Stat. 3083.  </td>
 ----------
 
 [/us/usc/t19/s1431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1431
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1211
-[/us/pl/106/181/s718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs718
+[/us/pl/106/181/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtVII
 [/us/stat/114/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F163
-[/us/pl/107/71/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs115
+[/us/pl/107/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2FtI
 [/us/stat/115/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F623
-[/us/pl/108/458/s4012/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs4012%2Fa%2F2
+[/us/pl/108/458/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtIV
 [/us/stat/118/3717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3717
 [/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
-[/us/pl/108/458/s4012/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs4012%2Fa%2F2%2FA
-[/us/pl/108/458/s4012/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs4012%2Fa%2F2%2FB
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
 [/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181

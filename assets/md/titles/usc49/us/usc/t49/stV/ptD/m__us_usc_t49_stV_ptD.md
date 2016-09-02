@@ -17,7 +17,7 @@
 
  __Prior Provisions__ 
 
-    A prior part D, consisting of chapter 261, was redesignated part E of this subtitle by [Pub. L. 103–440, title I, § 103(a)(1)][/us/pl/103/440/s103/a/1], Nov. 2, 1994, [108 Stat. 4616][/us/stat/108/4616].
+    A prior part D, consisting of chapter 261, was redesignated part E of this subtitle by [Pub. L. 103–440, title I][/us/pl/103/440/tI], § 103(a)(1), Nov. 2, 1994, [108 Stat. 4616][/us/stat/108/4616].
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/103/440/s103/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F440%2Fs103%2Fa%2F1
+[/us/pl/103/440/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F440%2FtI
 [/us/stat/108/4616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4616
 
 

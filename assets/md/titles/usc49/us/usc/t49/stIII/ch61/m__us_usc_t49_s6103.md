@@ -63,11 +63,11 @@
 
         (5) citation of violations.
 
-(Added [Pub. L. 105–178, title VII, § 7302(a)][/us/pl/105/178/s7302/a], June 9, 1998, [112 Stat. 479][/us/stat/112/479]; amended [Pub. L. 107–355, § 2(a)][/us/pl/107/355/s2/a], Dec. 17, 2002, [116 Stat. 2985][/us/stat/116/2985]; [Pub. L. 112–90, § 3(a)][/us/pl/112/90/s3/a], Jan. 3, 2012, [125 Stat. 1906][/us/stat/125/1906].)
+(Added [Pub. L. 105–178, title VII][/us/pl/105/178/tVII], § 7302(a), June 9, 1998, [112 Stat. 479][/us/stat/112/479]; amended [Pub. L. 107–355][/us/pl/107/355], § 2(a), Dec. 17, 2002, [116 Stat. 2985][/us/stat/116/2985]; [Pub. L. 112–90][/us/pl/112/90], § 3(a), Jan. 3, 2012, [125 Stat. 1906][/us/stat/125/1906].)
 
  __Amendments__ 
 
-    2012—Subsec. (a). [Pub. L. 112–90, § 3(a)][/us/pl/112/90/s3/a], amended subsec. (a) generally. Prior to amendment, text read as follows: “In order to qualify for a grant under section 6106, a State one-call notification program shall, at a minimum, provide for—
+    2012—Subsec. (a). [Pub. L. 112–90][/us/pl/112/90], § 3(a), amended subsec. (a) generally. Prior to amendment, text read as follows: “In order to qualify for a grant under section 6106, a State one-call notification program shall, at a minimum, provide for—
 
     “(1) appropriate participation by all underground facility operators, including all government operators;
 
@@ -75,15 +75,15 @@
 
     “(3) flexible and effective enforcement under State law with respect to participation in, and use of, one-call notification systems.”
 
-    2002—Subsec. (a)(1). [Pub. L. 107–355, § 2(a)(1)(A)][/us/pl/107/355/s2/a/1/A], inserted “, including all government operators” before semicolon at end.
+    2002—Subsec. (a)(1). [Pub. L. 107–355][/us/pl/107/355], § 2(a)(1)(A), inserted “, including all government operators” before semicolon at end.
 
-    Subsec. (a)(2). [Pub. L. 107–355, § 2(a)(1)(B)][/us/pl/107/355/s2/a/1/B], inserted “, including all government and contract excavators” before semicolon.
+    Subsec. (a)(2). [Pub. L. 107–355][/us/pl/107/355], § 2(a)(1)(B), inserted “, including all government and contract excavators” before semicolon.
 
-    Subsec. (c). [Pub. L. 107–355, § 2(a)(2)][/us/pl/107/355/s2/a/2], substituted “provide for and document” for “provide for” in introductory provisions.
+    Subsec. (c). [Pub. L. 107–355][/us/pl/107/355], § 2(a)(2), substituted “provide for and document” for “provide for” in introductory provisions.
 
  __Effective Date of 2012 Amendment__ 
 
-[Pub. L. 112–90, § 3(c)][/us/pl/112/90/s3/c], Jan. 3, 2012, [125 Stat. 1906][/us/stat/125/1906], provided that: 
+[Pub. L. 112–90][/us/pl/112/90], § 3(c), Jan. 3, 2012, [125 Stat. 1906][/us/stat/125/1906], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 60134 of this title][/us/usc/t49/s60134]\] shall take effect 2 years after the date of enactment of this Act \[Jan. 3, 2012\].”
 
@@ -94,17 +94,17 @@
 ----------
 ----------
 
-[/us/pl/105/178/s7302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs7302%2Fa
+[/us/pl/105/178/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtVII
 [/us/stat/112/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F479
-[/us/pl/107/355/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355%2Fs2%2Fa
+[/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355
 [/us/stat/116/2985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2985
-[/us/pl/112/90/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90%2Fs3%2Fa
+[/us/pl/112/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90
 [/us/stat/125/1906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1906
-[/us/pl/112/90/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90%2Fs3%2Fa
-[/us/pl/107/355/s2/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355%2Fs2%2Fa%2F1%2FA
-[/us/pl/107/355/s2/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355%2Fs2%2Fa%2F1%2FB
-[/us/pl/107/355/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355%2Fs2%2Fa%2F2
-[/us/pl/112/90/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90%2Fs3%2Fc
+[/us/pl/112/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90
+[/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355
+[/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355
+[/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355
+[/us/pl/112/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90
 [/us/stat/125/1906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1906
 [/us/usc/t49/s60134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs60134
 

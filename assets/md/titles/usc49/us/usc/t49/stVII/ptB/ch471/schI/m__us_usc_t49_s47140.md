@@ -39,7 +39,7 @@
 
     In this section, the term “eligible equipment” means ground service or maintenance equipment that is located at the airport, is used to support aeronautical and related activities at the airport, and will remain in operation at the airport for the life or useful life of the equipment, whichever is earlier.
 
-(Added [Pub. L. 108–176, title I, § 159(a)(1)][/us/pl/108/176/s159/a/1], Dec. 12, 2003, [117 Stat. 2509][/us/stat/117/2509].)
+(Added [Pub. L. 108–176, title I][/us/pl/108/176/tI], § 159(a)(1), Dec. 12, 2003, [117 Stat. 2509][/us/stat/117/2509].)
 
  __Effective Date__ 
 
@@ -54,7 +54,7 @@
 
 [/us/usc/t42/s7501/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7501%2F2
 [/us/usc/t42/s7505a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7505a
-[/us/pl/108/176/s159/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs159%2Fa%2F1
+[/us/pl/108/176/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtI
 [/us/stat/117/2509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2509
 [/us/pl/108/176/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106

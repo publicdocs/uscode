@@ -67,7 +67,7 @@
 
     The Secretary, employer, or prospective employer, as appropriate, shall make information obtained under subsection (b)(6) of this section available to the individual. The individual shall be given an opportunity to comment in writing about the information. Any comment shall be included in any record or file maintained by the Secretary, employer, or prospective employer that contains information to which the comment is related.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 874][/us/stat/108/874].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 874][/us/stat/108/874].)
 
 <table>
 
@@ -200,7 +200,7 @@ Oct. 16, 1970, Pub. L. 91–458, 84 Stat. 971, § 202(i); added June 22, 1988,
 
 [/us/usc/t49/s30305/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30305%2Fb%2F4
 [/us/usc/t49/s20103/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs20103%2Fe
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F874
 
 

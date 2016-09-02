@@ -119,7 +119,7 @@
 
     Subsection (a) shall not apply with respect to an employee of a motor vehicle manufacturer, part supplier, or dealership who, acting without direction from such motor vehicle manufacturer, part supplier, or dealership (or such person’s agent), deliberately causes a violation of any requirement relating to motor vehicle safety under this chapter.
 
-(Added [Pub. L. 112–141, div. C, title I, § 31307(a)][/us/pl/112/141/s31307/a], July 6, 2012, [126 Stat. 765][/us/stat/126/765].)
+(Added [Pub. L. 112–141, div. C, title I][/us/pl/112/141/dC/tI], § 31307(a), July 6, 2012, [126 Stat. 765][/us/stat/126/765].)
 
  __Effective Date__ 
 
@@ -133,7 +133,7 @@
 ----------
 
 [/us/usc/t28/s1361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1361
-[/us/pl/112/141/s31307/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31307%2Fa
+[/us/pl/112/141/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtI
 [/us/stat/126/765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F765
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101

@@ -29,7 +29,7 @@
 
     The term “International Registry” means the registry established under the Cape Town Treaty.
 
-(Added [Pub. L. 108–297, § 6(a)][/us/pl/108/297/s6/a], Aug. 9, 2004, [118 Stat. 1097][/us/stat/118/1097].)
+(Added [Pub. L. 108–297][/us/pl/108/297], § 6(a), Aug. 9, 2004, [118 Stat. 1097][/us/stat/118/1097].)
 
  __Effective Date__ 
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/108/297/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F297%2Fs6%2Fa
+[/us/pl/108/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F297
 [/us/stat/118/1097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1097
 [/us/pl/108/297/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F297%2Fs7
 [/us/usc/t49/s44101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44101

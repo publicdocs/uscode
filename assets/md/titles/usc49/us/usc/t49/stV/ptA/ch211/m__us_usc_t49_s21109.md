@@ -69,7 +69,7 @@
 
     In this section the term “duty call” means a telephone call that a railroad places to an employee to notify the employee of his or her assigned shift time.
 
-(Added [Pub. L. 110–432, div. A, title I, § 108(e)(1)][/us/pl/110/432/s108/e/1], Oct. 16, 2008, [122 Stat. 4864][/us/stat/122/4864].)
+(Added [Pub. L. 110–432, div. A, title I][/us/pl/110/432/dA/tI], § 108(e)(1), Oct. 16, 2008, [122 Stat. 4864][/us/stat/122/4864].)
 
  __References in Text__ 
 
@@ -83,7 +83,7 @@
 ----------
 
 [/us/usc/t49/s24102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24102
-[/us/pl/110/432/s108/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs108%2Fe%2F1
+[/us/pl/110/432/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdA%2FtI
 [/us/stat/122/4864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4864
 [/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
 

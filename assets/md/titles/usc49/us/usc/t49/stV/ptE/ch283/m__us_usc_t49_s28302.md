@@ -17,7 +17,7 @@
 
     A person violating [section 28301 of this title][/us/usc/t49/s28301] shall be fined under title 18, imprisoned not more than one year, or both.
 
-(Added [Pub. L. 104–287, § 5(56)(A)][/us/pl/104/287/s5/56/A], Oct. 11, 1996, [110 Stat. 3394][/us/stat/110/3394].)
+(Added [Pub. L. 104–287][/us/pl/104/287], § 5(56)(A), Oct. 11, 1996, [110 Stat. 3394][/us/stat/110/3394].)
 
 <table>
 
@@ -75,7 +75,7 @@ Sept. 3, 5, 1916, ch. 436, § 4, 39 Stat. 722.  </td>
 ----------
 
 [/us/usc/t49/s28301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs28301
-[/us/pl/104/287/s5/56/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F56%2FA
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3394
 
 

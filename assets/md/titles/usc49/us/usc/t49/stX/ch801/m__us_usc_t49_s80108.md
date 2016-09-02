@@ -17,7 +17,7 @@
 
     An alteration or addition to a bill of lading after its issuance by a common carrier, without authorization from the carrier in writing or noted on the bill, is void. However, the original terms of the bill are enforceable.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1349][/us/stat/108/1349].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1349][/us/stat/108/1349].)
 
 <table>
 
@@ -74,7 +74,7 @@ Aug. 29, 1916, ch. 415, § 13, 39 Stat. 540.  </td>
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1349
 
 

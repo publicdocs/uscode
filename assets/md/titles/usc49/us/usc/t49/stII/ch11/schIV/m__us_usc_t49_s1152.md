@@ -17,7 +17,7 @@
 
     A person interested in or affected by a matter under consideration in a proceeding or a civil action to enforce section 1132, 1134(b) or (f)(1) (related to an aircraft accident), or 1155(a) of this title, or a regulation prescribed or order issued under any of those sections, may be joined as a party or permitted to intervene in the proceeding or civil action.
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 756][/us/stat/108/756].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(d), July 5, 1994, [108 Stat. 756][/us/stat/108/756].)
 
 <table>
 
@@ -106,7 +106,7 @@ Jan. 3, 1975, Pub. L. 93–633, § 304(a)(1)(A), 88 Stat. 2168.  </td>
 ----------
 ----------
 
-[/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F756
 
 

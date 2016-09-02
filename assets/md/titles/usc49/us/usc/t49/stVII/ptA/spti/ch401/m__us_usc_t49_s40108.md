@@ -23,7 +23,7 @@
 
     The Administrator may authorize officers and employees of other departments, agencies, or instrumentalities of the United States Government, officers and employees of governments of foreign countries, and individuals from the aeronautics industry to attend those schools. However, if the attendance of any of those officers, employees, or individuals increases the cost of operating the schools, the Administrator may require the payment or transfer of amounts or other consideration to offset the additional cost. The amount received may be credited to the appropriation current when the expenditures are or were paid, the appropriation current when the amount is received, or both.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1104][/us/stat/108/1104].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1104][/us/stat/108/1104].)
 
 <table>
 
@@ -128,7 +128,7 @@ In this section, the word “Administrator” in section 313(d) of the Federal A
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1104
 [/us/pl/85/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F726
 [/us/stat/72/753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F753

@@ -363,15 +363,15 @@ PART E—MISCELLANEOUS  </td>
 
  __Amendments__ 
 
-    2012—[Pub. L. 112–95, title IV, § 415(d)][/us/pl/112/95/s415/d], Feb. 14, 2012, [126 Stat. 96][/us/stat/126/96], added item for chapter 423.
+    2012—[Pub. L. 112–95, title IV][/us/pl/112/95/tIV], § 415(d), Feb. 14, 2012, [126 Stat. 96][/us/stat/126/96], added item for chapter 423.
 
-    2001—[Pub. L. 107–71, title I, § 118(c)(2)][/us/pl/107/71/s118/c/2], Nov. 19, 2001, [115 Stat. 628][/us/stat/115/628], added item for chapter 483.
+    2001—[Pub. L. 107–71, title I][/us/pl/107/71/tI], § 118(c)(2), Nov. 19, 2001, [115 Stat. 628][/us/stat/115/628], added item for chapter 483.
 
-    1997—[Pub. L. 105–102, § 2(20)][/us/pl/105/102/s2/20], Nov. 20, 1997, [111 Stat. 2205][/us/stat/111/2205], substituted “PUBLIC AIRPORTS” for “RESERVED” in item for part D and added item for chapter 491.
+    1997—[Pub. L. 105–102][/us/pl/105/102], § 2(20), Nov. 20, 1997, [111 Stat. 2205][/us/stat/111/2205], substituted “PUBLIC AIRPORTS” for “RESERVED” in item for part D and added item for chapter 491.
 
-    1996—[Pub. L. 104–287, § 5(64)][/us/pl/104/287/s5/64], Oct. 11, 1996, [110 Stat. 3395][/us/stat/110/3395], substituted “RESERVED” for “MISCELLANEOUS” in item for part D, struck out item for chapter 491 “Buy-American Preferences”, and added items for part E and chapter 501.
+    1996—[Pub. L. 104–287][/us/pl/104/287], § 5(64), Oct. 11, 1996, [110 Stat. 3395][/us/stat/110/3395], substituted “RESERVED” for “MISCELLANEOUS” in item for part D, struck out item for chapter 491 “Buy-American Preferences”, and added items for part E and chapter 501.
 
-    [Pub. L. 104–264, title II, § 277(b)][/us/pl/104/264/s277/b], Oct. 9, 1996, [110 Stat. 3248][/us/stat/110/3248], added item for chapter 482.
+    [Pub. L. 104–264, title II][/us/pl/104/264/tII], § 277(b), Oct. 9, 1996, [110 Stat. 3248][/us/stat/110/3248], added item for chapter 482.
 
 ----------
 
@@ -380,15 +380,15 @@ PART E—MISCELLANEOUS  </td>
 ----------
 ----------
 
-[/us/pl/112/95/s415/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs415%2Fd
+[/us/pl/112/95/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtIV
 [/us/stat/126/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F96
-[/us/pl/107/71/s118/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs118%2Fc%2F2
+[/us/pl/107/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2FtI
 [/us/stat/115/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F628
-[/us/pl/105/102/s2/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102%2Fs2%2F20
+[/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/stat/111/2205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2205
-[/us/pl/104/287/s5/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F64
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3395
-[/us/pl/104/264/s277/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs277%2Fb
+[/us/pl/104/264/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2FtII
 [/us/stat/110/3248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3248
 
 

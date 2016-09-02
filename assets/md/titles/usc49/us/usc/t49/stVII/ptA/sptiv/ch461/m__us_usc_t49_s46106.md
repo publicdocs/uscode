@@ -17,7 +17,7 @@
 
     The Secretary of Transportation (or the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator) may bring a civil action against a person in a district court of the United States to enforce this part or a requirement or regulation prescribed, or an order or any term of a certificate or permit issued, under this part. The action may be brought in the judicial district in which the person does business or the violation occurred.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1229][/us/stat/108/1229]; [Pub. L. 107–71, title I, § 140(b)(1)][/us/pl/107/71/s140/b/1], (7), Nov. 19, 2001, [115 Stat. 641][/us/stat/115/641].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1229][/us/stat/108/1229]; [Pub. L. 107–71, title I][/us/pl/107/71/tI], § 140(b)(1), (7), Nov. 19, 2001, [115 Stat. 641][/us/stat/115/641].)
 
 <table>
 
@@ -101,9 +101,9 @@ Oct. 15, 1966, Pub. L. 89–670, § 6(c)(1), 80 Stat. 938; Jan. 12, 1983, Pub.
 
  __Amendments__ 
 
-    2001—[Pub. L. 107–71, § 140(b)(7)][/us/pl/107/71/s140/b/7], substituted “Department of Transportation” for “Secretary of Transportation and Administrator of the Federal Aviation Administration” in section catchline.
+    2001—[Pub. L. 107–71][/us/pl/107/71], § 140(b)(7), substituted “Department of Transportation” for “Secretary of Transportation and Administrator of the Federal Aviation Administration” in section catchline.
 
-    [Pub. L. 107–71, § 140(b)(1)][/us/pl/107/71/s140/b/1], inserted “the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or” after “(or”.
+    [Pub. L. 107–71][/us/pl/107/71], § 140(b)(1), inserted “the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or” after “(or”.
 
  __Transfer of Functions__ 
 
@@ -116,12 +116,12 @@ Oct. 15, 1966, Pub. L. 89–670, § 6(c)(1), 80 Stat. 938; Jan. 12, 1983, Pub.
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1229
-[/us/pl/107/71/s140/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs140%2Fb%2F1
+[/us/pl/107/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2FtI
 [/us/stat/115/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F641
-[/us/pl/107/71/s140/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs140%2Fb%2F7
-[/us/pl/107/71/s140/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs140%2Fb%2F1
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 
 

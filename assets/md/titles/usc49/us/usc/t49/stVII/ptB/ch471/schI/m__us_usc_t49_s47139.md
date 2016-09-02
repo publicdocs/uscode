@@ -41,7 +41,7 @@
 
     Nothing in this section shall be construed as overriding existing State law or regulation pursuant to section 116 of the Clean Air Act ([42 U.S.C. 7416][/us/usc/t42/s7416]).
 
-(Added [Pub. L. 108–176, title I, § 158(a)][/us/pl/108/176/s158/a], Dec. 12, 2003, [117 Stat. 2508][/us/stat/117/2508]; amended [Pub. L. 112–95, title I][/us/pl/112/95], §§ 111(c)(2)(A)(v), 152(d), Feb. 14, 2012, [126 Stat. 18][/us/stat/126/18], 34.)
+(Added [Pub. L. 108–176, title I][/us/pl/108/176/tI], § 158(a), Dec. 12, 2003, [117 Stat. 2508][/us/stat/117/2508]; amended [Pub. L. 112–95, title I][/us/pl/112/95/tI], §§ 111(c)(2)(A)(v), 152(d), Feb. 14, 2012, [126 Stat. 18][/us/stat/126/18], 34.)
 
  __References in Text__ 
 
@@ -49,11 +49,11 @@
 
  __Amendments__ 
 
-    2012—Subsec. (a). [Pub. L. 112–95, § 152(d)(1)][/us/pl/112/95/s152/d/1], struck out “47102(3)(F),” after “40117(a)(3)(G),” in introductory provisions.
+    2012—Subsec. (a). [Pub. L. 112–95][/us/pl/112/95], § 152(d)(1), struck out “47102(3)(F),” after “40117(a)(3)(G),” in introductory provisions.
 
-    Subsec. (b). [Pub. L. 112–95, § 152(d)(2)][/us/pl/112/95/s152/d/2], struck out “47102(3)(F),” after “grant for a project described in section” and “47103(3)(F),” after “40117(a)(3)(G),”.
+    Subsec. (b). [Pub. L. 112–95][/us/pl/112/95], § 152(d)(2), struck out “47102(3)(F),” after “grant for a project described in section” and “47103(3)(F),” after “40117(a)(3)(G),”.
 
-    [Pub. L. 112–95, § 111(c)(2)(A)(v)][/us/pl/112/95/s111/c/2/A/v], substituted “charge” for “fee”.
+    [Pub. L. 112–95][/us/pl/112/95], § 111(c)(2)(A)(v), substituted “charge” for “fee”.
 
  __Effective Date__ 
 
@@ -68,16 +68,16 @@
 
 [/us/usc/t42/s7402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7402
 [/us/usc/t42/s7416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7416
-[/us/pl/108/176/s158/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs158%2Fa
+[/us/pl/108/176/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtI
 [/us/stat/117/2508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2508
-[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtI
 [/us/stat/126/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F18
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
 [/us/stat/69/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F322
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
-[/us/pl/112/95/s152/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs152%2Fd%2F1
-[/us/pl/112/95/s152/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs152%2Fd%2F2
-[/us/pl/112/95/s111/c/2/A/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs111%2Fc%2F2%2FA%2Fv
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
 [/us/pl/108/176/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106
 

@@ -47,7 +47,7 @@
 
     A remedy under this section is in addition to any other remedies provided by law. This section does not restrict a right to relief that a person or a class of persons may have under another law or at common law.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1324][/us/stat/108/1324].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1324][/us/stat/108/1324].)
 
 <table>
 
@@ -271,7 +271,7 @@ Nov. 30, 1979, Pub. L. 96–129, § 215, 93 Stat. 1014.  </td>
 ----------
 
 [/us/usc/t49/s60105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs60105
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1324
 
 

@@ -93,7 +93,7 @@
 
             (B) section 5307 or 5311, in the case of a grant made available under section 5307 or 5311, respectively, to address an emergency.
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 824][/us/stat/108/824]; [Pub. L. 109–59, title III, § 3024(a)][/us/pl/109/59/s3024/a], Aug. 10, 2005, [119 Stat. 1619][/us/stat/119/1619]; [Pub. L. 112–141, div. B, § 20017(a)][/us/pl/112/141/s20017/a], July 6, 2012, [126 Stat. 703][/us/stat/126/703].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(d), July 5, 1994, [108 Stat. 824][/us/stat/108/824]; [Pub. L. 109–59, title III][/us/pl/109/59/tIII], § 3024(a), Aug. 10, 2005, [119 Stat. 1619][/us/stat/119/1619]; [Pub. L. 112–141, div. B][/us/pl/112/141/dB], § 20017(a), July 6, 2012, [126 Stat. 703][/us/stat/126/703].)
 
 <table>
 
@@ -229,7 +229,7 @@ In subsection (b)(1), the words “Health and Human Services” are substituted 
 
  __Memorandum of Agreement__ 
 
-[Pub. L. 112–141, div. B, § 20017(b)][/us/pl/112/141/s20017/b], July 6, 2012, [126 Stat. 705][/us/stat/126/705], provided that:
+[Pub. L. 112–141, div. B][/us/pl/112/141/dB], § 20017(b), July 6, 2012, [126 Stat. 705][/us/stat/126/705], provided that:
 
 >     “(1)  __Purposes__  __.—__ 
 
@@ -308,11 +308,11 @@ In subsection (b)(1), the words “Health and Human Services” are substituted 
 
 [/us/usc/t42/s5170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5170
 [/us/usc/t42/s5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5121
-[/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F824
-[/us/pl/109/59/s3024/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3024%2Fa
+[/us/pl/109/59/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIII
 [/us/stat/119/1619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1619
-[/us/pl/112/141/s20017/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs20017%2Fa
+[/us/pl/112/141/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdB
 [/us/stat/126/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F703
 [/us/pl/88/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F365
 [/us/stat/78/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F308
@@ -327,7 +327,7 @@ In subsection (b)(1), the words “Health and Human Services” are substituted 
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
-[/us/pl/112/141/s20017/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs20017%2Fb
+[/us/pl/112/141/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdB
 [/us/stat/126/705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F705
 [/us/usc/t42/s5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5121
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141

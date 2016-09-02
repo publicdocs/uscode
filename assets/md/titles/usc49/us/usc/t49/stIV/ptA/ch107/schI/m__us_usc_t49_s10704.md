@@ -59,17 +59,17 @@
 
             (B) The Board may extend a timeline under subparagraph (A) after a request from any party or in the interest of due process.
 
-(Added [Pub. L. 104–88, title I, § 102(a)][/us/pl/104/88/s102/a], Dec. 29, 1995, [109 Stat. 810][/us/stat/109/810]; amended [Pub. L. 104–287, § 5(23)][/us/pl/104/287/s5/23], Oct. 11, 1996, [110 Stat. 3390][/us/stat/110/3390]; [Pub. L. 114–110][/us/pl/114/110], §§ 11(b), 16, Dec. 18, 2015, [129 Stat. 2233][/us/stat/129/2233], 2238.)
+(Added [Pub. L. 104–88, title I][/us/pl/104/88/tI], § 102(a), Dec. 29, 1995, [109 Stat. 810][/us/stat/109/810]; amended [Pub. L. 104–287][/us/pl/104/287], § 5(23), Oct. 11, 1996, [110 Stat. 3390][/us/stat/110/3390]; [Pub. L. 114–110][/us/pl/114/110], §§ 11(b), 16, Dec. 18, 2015, [129 Stat. 2233][/us/stat/129/2233], 2238.)
 
  __Prior Provisions__ 
 
-    A prior section 10704, [Pub. L. 95–473][/us/pl/95/473], Oct. 17, 1978, [92 Stat. 1373][/us/stat/92/1373]; [Pub. L. 96–296, § 13(b)][/us/pl/96/296/s13/b], July 1, 1980, [94 Stat. 803][/us/stat/94/803]; [Pub. L. 96–448, title II, § 205(b)][/us/pl/96/448/s205/b], Oct. 14, 1980, [94 Stat. 1906][/us/stat/94/1906]; [Pub. L. 97–261, § 9(b)][/us/pl/97/261/s9/b], Sept. 20, 1982, [96 Stat. 1109][/us/stat/96/1109]; [Pub. L. 99–521, § 7(b)][/us/pl/99/521/s7/b], Oct. 22, 1986, [100 Stat. 2994][/us/stat/100/2994], related to authority and criteria for rates, classifications, rules, and practices prescribed by Interstate Commerce Commission, prior to the general amendment of this subtitle by [Pub. L. 104–88, § 102(a)][/us/pl/104/88/s102/a]. See sections 10704, 13701, and 15503 of this title.
+    A prior section 10704, [Pub. L. 95–473][/us/pl/95/473], Oct. 17, 1978, [92 Stat. 1373][/us/stat/92/1373]; [Pub. L. 96–296][/us/pl/96/296], § 13(b), July 1, 1980, [94 Stat. 803][/us/stat/94/803]; [Pub. L. 96–448, title II][/us/pl/96/448/tII], § 205(b), Oct. 14, 1980, [94 Stat. 1906][/us/stat/94/1906]; [Pub. L. 97–261][/us/pl/97/261], § 9(b), Sept. 20, 1982, [96 Stat. 1109][/us/stat/96/1109]; [Pub. L. 99–521][/us/pl/99/521], § 7(b), Oct. 22, 1986, [100 Stat. 2994][/us/stat/100/2994], related to authority and criteria for rates, classifications, rules, and practices prescribed by Interstate Commerce Commission, prior to the general amendment of this subtitle by [Pub. L. 104–88][/us/pl/104/88], § 102(a). See sections 10704, 13701, and 15503 of this title.
 
  __Amendments__ 
 
-    2015—Subsec. (a)(2). [Pub. L. 114–110, § 16][/us/pl/114/110/s16], inserted “for the infrastructure and investment needed to meet the present and future demand for rail services and” after “management,” in introductory provisions.
+    2015—Subsec. (a)(2). [Pub. L. 114–110][/us/pl/114/110], § 16, inserted “for the infrastructure and investment needed to meet the present and future demand for rail services and” after “management,” in introductory provisions.
 
-    Subsec. (d). [Pub. L. 114–110, § 11(b)][/us/pl/114/110/s11/b], designated existing provisions as par. (1), substituted “The Board shall maintain procedures to ensure the expeditious handling of challenges to the reasonableness of railroad rates.” for “Within 9 months after January 1, 1996, the Board shall establish procedures to ensure expeditious handling of challenges to the reasonableness of railroad rates.”, and added par. (2).
+    Subsec. (d). [Pub. L. 114–110][/us/pl/114/110], § 11(b), designated existing provisions as par. (1), substituted “The Board shall maintain procedures to ensure the expeditious handling of challenges to the reasonableness of railroad rates.” for “Within 9 months after January 1, 1996, the Board shall establish procedures to ensure expeditious handling of challenges to the reasonableness of railroad rates.”, and added par. (2).
 
     1996—Subsec. (d). [Pub. L. 104–287][/us/pl/104/287] substituted “January 1, 1996” for “the effective date of the ICC Termination Act of 1995”.
 
@@ -81,25 +81,25 @@
 ----------
 
 [/us/usc/t49/s11701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs11701
-[/us/pl/104/88/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs102%2Fa
+[/us/pl/104/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtI
 [/us/stat/109/810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F810
-[/us/pl/104/287/s5/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F23
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3390
 [/us/pl/114/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F110
 [/us/stat/129/2233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2233
 [/us/pl/95/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F473
 [/us/stat/92/1373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1373
-[/us/pl/96/296/s13/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F296%2Fs13%2Fb
+[/us/pl/96/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F296
 [/us/stat/94/803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F803
-[/us/pl/96/448/s205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F448%2Fs205%2Fb
+[/us/pl/96/448/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F448%2FtII
 [/us/stat/94/1906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1906
-[/us/pl/97/261/s9/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F261%2Fs9%2Fb
+[/us/pl/97/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F261
 [/us/stat/96/1109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1109
-[/us/pl/99/521/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F521%2Fs7%2Fb
+[/us/pl/99/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F521
 [/us/stat/100/2994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2994
-[/us/pl/104/88/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs102%2Fa
-[/us/pl/114/110/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F110%2Fs16
-[/us/pl/114/110/s11/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F110%2Fs11%2Fb
+[/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
+[/us/pl/114/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F110
+[/us/pl/114/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F110
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 
 

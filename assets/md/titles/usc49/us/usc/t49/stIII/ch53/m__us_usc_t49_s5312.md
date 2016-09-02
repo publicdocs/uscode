@@ -311,7 +311,7 @@
 
         Subsections (f)  <sup>\[2\]</sup>  <sup><sup> 2 So in original. There is no subsec. designated subsec. (f). </sup></sup>  and (g) shall not apply to activities carried out under this subsection.
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 811][/us/stat/108/811]; [Pub. L. 105–178, title III, § 3015(a)][/us/pl/105/178/s3015/a], June 9, 1998, [112 Stat. 359][/us/stat/112/359]; [Pub. L. 109–59, title III][/us/pl/109/59], §§ 3002(b)(4), 3014(a)–(e)(1), Aug. 10, 2005, [119 Stat. 1545][/us/stat/119/1545], 1596, 1597; [Pub. L. 110–244, title II, § 201(f)][/us/pl/110/244/s201/f], June 6, 2008, [122 Stat. 1610][/us/stat/122/1610]; [Pub. L. 112–141, div. B, § 20011][/us/pl/112/141/s20011], July 6, 2012, [126 Stat. 686][/us/stat/126/686]; [Pub. L. 114–94, div. A, title III, § 3008(a)][/us/pl/114/94/s3008/a], (b), Dec. 4, 2015, [129 Stat. 1465][/us/stat/129/1465], 1468.)
+([Pub. L. 103–272][/us/pl/103/272], § 1(d), July 5, 1994, [108 Stat. 811][/us/stat/108/811]; [Pub. L. 105–178, title III][/us/pl/105/178/tIII], § 3015(a), June 9, 1998, [112 Stat. 359][/us/stat/112/359]; [Pub. L. 109–59, title III][/us/pl/109/59/tIII], §§ 3002(b)(4), 3014(a)–(e)(1), Aug. 10, 2005, [119 Stat. 1545][/us/stat/119/1545], 1596, 1597; [Pub. L. 110–244, title II][/us/pl/110/244/tII], § 201(f), June 6, 2008, [122 Stat. 1610][/us/stat/122/1610]; [Pub. L. 112–141, div. B][/us/pl/112/141/dB], § 20011, July 6, 2012, [126 Stat. 686][/us/stat/126/686]; [Pub. L. 114–94, div. A, title III][/us/pl/114/94/dA/tIII], § 3008(a), (b), Dec. 4, 2015, [129 Stat. 1465][/us/stat/129/1465], 1468.)
 
 <table>
 
@@ -483,73 +483,73 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 4(c) (1st sentence); added No
 
  __Amendments__ 
 
-    2015—[Pub. L. 114–94, § 3008(a)(1)][/us/pl/114/94/s3008/a/1], substituted “Public transportation innovation” for “Research, development, demonstration, and deployment projects” in section catchline.
+    2015—[Pub. L. 114–94][/us/pl/114/94], § 3008(a)(1), substituted “Public transportation innovation” for “Research, development, demonstration, and deployment projects” in section catchline.
 
-    Subsecs. (a), (b). [Pub. L. 114–94, § 3008(a)(2)][/us/pl/114/94/s3008/a/2], (3), added subsec. (a) and redesignated former subsec. (a) as (b). Former subsec. (b) redesignated (c).
+    Subsecs. (a), (b). [Pub. L. 114–94][/us/pl/114/94], § 3008(a)(2), (3), added subsec. (a) and redesignated former subsec. (a) as (b). Former subsec. (b) redesignated (c).
 
-    Subsec. (c). [Pub. L. 114–94, § 3008(a)(2)][/us/pl/114/94/s3008/a/2], redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
+    Subsec. (c). [Pub. L. 114–94][/us/pl/114/94], § 3008(a)(2), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
 
-    Subsec. (c)(1). [Pub. L. 114–94, § 3008(b)(1)][/us/pl/114/94/s3008/b/1], substituted “subsection (b)(2)” for “subsection (a)(2)”.
+    Subsec. (c)(1). [Pub. L. 114–94][/us/pl/114/94], § 3008(b)(1), substituted “subsection (b)(2)” for “subsection (a)(2)”.
 
-    Subsec. (d). [Pub. L. 114–94, § 3008(a)(2)][/us/pl/114/94/s3008/a/2], redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
+    Subsec. (d). [Pub. L. 114–94][/us/pl/114/94], § 3008(a)(2), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-    Subsec. (d)(1). [Pub. L. 114–94, § 3008(b)(2)(A)][/us/pl/114/94/s3008/b/2/A], substituted “subsection (b)(2)” for “subsection (a)(2)”.
+    Subsec. (d)(1). [Pub. L. 114–94][/us/pl/114/94], § 3008(b)(2)(A), substituted “subsection (b)(2)” for “subsection (a)(2)”.
 
-    Subsec. (d)(2)(A). [Pub. L. 114–94, § 3008(b)(2)(B)][/us/pl/114/94/s3008/b/2/B], substituted “subsection (c)” for “subsection (b)”.
+    Subsec. (d)(2)(A). [Pub. L. 114–94][/us/pl/114/94], § 3008(b)(2)(B), substituted “subsection (c)” for “subsection (b)”.
 
-    Subsec. (e). [Pub. L. 114–94, § 3008(a)(2)][/us/pl/114/94/s3008/a/2], redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
+    Subsec. (e). [Pub. L. 114–94][/us/pl/114/94], § 3008(a)(2), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
-    Subsec. (e)(2). [Pub. L. 114–94, § 3008(b)(3)][/us/pl/114/94/s3008/b/3], substituted “subsection (b)(2)” for “subsection (a)(2)” in subpars. (A) and (B).
+    Subsec. (e)(2). [Pub. L. 114–94][/us/pl/114/94], § 3008(b)(3), substituted “subsection (b)(2)” for “subsection (a)(2)” in subpars. (A) and (B).
 
-    Subsec. (e)(3). [Pub. L. 114–94, § 3008(a)(4)(A)(i)][/us/pl/114/94/s3008/a/4/A/i], inserted “demonstration, deployment, or evaluation” before “project that” in introductory provisions.
+    Subsec. (e)(3). [Pub. L. 114–94][/us/pl/114/94], § 3008(a)(4)(A)(i), inserted “demonstration, deployment, or evaluation” before “project that” in introductory provisions.
 
-    Subsec. (e)(3)(C). [Pub. L. 114–94, § 3008(a)(4)(A)(ii)][/us/pl/114/94/s3008/a/4/A/ii]–(iv), added subpar. (C).
+    Subsec. (e)(3)(C). [Pub. L. 114–94][/us/pl/114/94], § 3008(a)(4)(A)(ii)–(iv), added subpar. (C).
 
-    Subsec. (e)(5), (6). [Pub. L. 114–94, § 3008(a)(4)(B)][/us/pl/114/94/s3008/a/4/B], added pars. (5) and (6) and struck out former par. (5), which related to low or no emission vehicle deployment.
+    Subsec. (e)(5), (6). [Pub. L. 114–94][/us/pl/114/94], § 3008(a)(4)(B), added pars. (5) and (6) and struck out former par. (5), which related to low or no emission vehicle deployment.
 
-    Subsec. (f). [Pub. L. 114–94, § 3008(a)(6)(A)][/us/pl/114/94/s3008/a/6/A], redesignated subsec. (f) relating to annual report on research as (g).
+    Subsec. (f). [Pub. L. 114–94][/us/pl/114/94], § 3008(a)(6)(A), redesignated subsec. (f) relating to annual report on research as (g).
 
-    [Pub. L. 114–94, § 3008(a)(2)][/us/pl/114/94/s3008/a/2], redesignated subsec. (e) relating to annual report on research as (f). Former subsec. (f) redesignated (g).
+    [Pub. L. 114–94][/us/pl/114/94], § 3008(a)(2), redesignated subsec. (e) relating to annual report on research as (f). Former subsec. (f) redesignated (g).
 
-    Subsec. (g). [Pub. L. 114–94, § 3008(a)(6)(A)][/us/pl/114/94/s3008/a/6/A], redesignated subsec. (f) relating to annual report on research as (g), inserted heading and introductory provisions, and struck out former heading and introductory provisions. Prior to amendment, text read as follows: “Not later than the first Monday in February of each year, the Secretary shall submit to the Committee on Banking, Housing, and Urban Affairs and the Committee on Appropriations of the Senate and the Committee on Transportation and Infrastructure, the Committee on Science, Space, and Technology, and the Committee on Appropriations of the House of Representatives a report that includes—”.
+    Subsec. (g). [Pub. L. 114–94][/us/pl/114/94], § 3008(a)(6)(A), redesignated subsec. (f) relating to annual report on research as (g), inserted heading and introductory provisions, and struck out former heading and introductory provisions. Prior to amendment, text read as follows: “Not later than the first Monday in February of each year, the Secretary shall submit to the Committee on Banking, Housing, and Urban Affairs and the Committee on Appropriations of the Senate and the Committee on Transportation and Infrastructure, the Committee on Science, Space, and Technology, and the Committee on Appropriations of the House of Representatives a report that includes—”.
 
-    [Pub. L. 114–94, § 3008(a)(2)][/us/pl/114/94/s3008/a/2], redesignated subsec. (f) relating to government share of costs as (g).
+    [Pub. L. 114–94][/us/pl/114/94], § 3008(a)(2), redesignated subsec. (f) relating to government share of costs as (g).
 
-    Subsec. (g)(1). [Pub. L. 114–94, § 3008(a)(6)(B)][/us/pl/114/94/s3008/a/6/B], struck out “and” at end.
+    Subsec. (g)(1). [Pub. L. 114–94][/us/pl/114/94], § 3008(a)(6)(B), struck out “and” at end.
 
-    Subsec. (g)(2). [Pub. L. 114–94, § 3008(b)(4)][/us/pl/114/94/s3008/b/4], which directed substitution of “subsection (e)(4)” for “subsection (d)(4)” in subsec. (f)(2), was executed to par. (2) of subsec. (g) relating to annual report on research, to reflect the probable intent of Congress.
+    Subsec. (g)(2). [Pub. L. 114–94][/us/pl/114/94], § 3008(b)(4), which directed substitution of “subsection (e)(4)” for “subsection (d)(4)” in subsec. (f)(2), was executed to par. (2) of subsec. (g) relating to annual report on research, to reflect the probable intent of Congress.
 
-    [Pub. L. 114–94, § 3008(a)(6)(C)][/us/pl/114/94/s3008/a/6/C], substituted a period for “; and”.
+    [Pub. L. 114–94][/us/pl/114/94], § 3008(a)(6)(C), substituted a period for “; and”.
 
-    Subsec. (g)(3). [Pub. L. 114–94, § 3008(a)(6)(D)][/us/pl/114/94/s3008/a/6/D], struck out par. (3) which read as follows: “a proposal for allocations of amounts for assistance under this section for the subsequent fiscal year.”
+    Subsec. (g)(3). [Pub. L. 114–94][/us/pl/114/94], § 3008(a)(6)(D), struck out par. (3) which read as follows: “a proposal for allocations of amounts for assistance under this section for the subsequent fiscal year.”
 
-    Subsec. (h). [Pub. L. 114–94, § 3008(a)(5)][/us/pl/114/94/s3008/a/5], added subsec. (h).
+    Subsec. (h). [Pub. L. 114–94][/us/pl/114/94], § 3008(a)(5), added subsec. (h).
 
-    Subsec. (i). [Pub. L. 114–94, § 3008(a)(7)][/us/pl/114/94/s3008/a/7], added subsec. (i).
+    Subsec. (i). [Pub. L. 114–94][/us/pl/114/94], § 3008(a)(7), added subsec. (i).
 
     2012—[Pub. L. 112–141][/us/pl/112/141] amended section generally. Prior to amendment, section related to research, development, demonstration, and deployment projects and consisted of subsecs. (a) to (c).
 
     2008—Subsec. (c). [Pub. L. 110–244][/us/pl/110/244] substituted “Public Transportation” for “Mass Transportation” in heading.
 
-    2005—[Pub. L. 109–59, § 3014(e)(1)][/us/pl/109/59/s3014/e/1], substituted “deployment” for “training” in section catchline.
+    2005—[Pub. L. 109–59][/us/pl/109/59], § 3014(e)(1), substituted “deployment” for “training” in section catchline.
 
-    Subsec. (a). [Pub. L. 109–59, § 3014(a)][/us/pl/109/59/s3014/a], amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary of Transportation (or the Secretary of Housing and Urban Development when required by [section 5334(i) of this title][/us/usc/t49/s5334/i]) may undertake, or make grants or contracts (including agreements with departments, agencies, and instrumentalities of the United States Government) for, research, development, and demonstration projects related to urban mass transportation that the Secretary decides will help reduce urban transportation needs, improve mass transportation service, or help mass transportation service meet the total urban transportation needs at a minimum cost. The Secretary may request and receive appropriate information from any source. This subsection does not limit the authority of the Secretary under another law.”
+    Subsec. (a). [Pub. L. 109–59][/us/pl/109/59], § 3014(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary of Transportation (or the Secretary of Housing and Urban Development when required by [section 5334(i) of this title][/us/usc/t49/s5334/i]) may undertake, or make grants or contracts (including agreements with departments, agencies, and instrumentalities of the United States Government) for, research, development, and demonstration projects related to urban mass transportation that the Secretary decides will help reduce urban transportation needs, improve mass transportation service, or help mass transportation service meet the total urban transportation needs at a minimum cost. The Secretary may request and receive appropriate information from any source. This subsection does not limit the authority of the Secretary under another law.”
 
-    Subsec. (b). [Pub. L. 109–59, § 3014(b)][/us/pl/109/59/s3014/b], redesignated subsec. (d) as (b) and struck out former subsec. (b) which related to grants to nonprofit institutions of higher learning for research, investigations, and training.
+    Subsec. (b). [Pub. L. 109–59][/us/pl/109/59], § 3014(b), redesignated subsec. (d) as (b) and struck out former subsec. (b) which related to grants to nonprofit institutions of higher learning for research, investigations, and training.
 
-    Subsec. (c). [Pub. L. 109–59, § 3014(b)][/us/pl/109/59/s3014/b], redesignated subsec. (e) as (c) and struck out former subsec. (c) which related to grants to States, local governmental authorities, and operators of mass transportation systems for training fellowships and grants to State and local governmental authorities for projects that would use innovative techniques and methods in managing and providing mass transportation.
+    Subsec. (c). [Pub. L. 109–59][/us/pl/109/59], § 3014(b), redesignated subsec. (e) as (c) and struck out former subsec. (c) which related to grants to States, local governmental authorities, and operators of mass transportation systems for training fellowships and grants to State and local governmental authorities for projects that would use innovative techniques and methods in managing and providing mass transportation.
 
-    Subsec. (c)(2). [Pub. L. 109–59, § 3014(c)][/us/pl/109/59/s3014/c], substituted “public or private” for “public and private”.
+    Subsec. (c)(2). [Pub. L. 109–59][/us/pl/109/59], § 3014(c), substituted “public or private” for “public and private”.
 
-    Subsec. (c)(3). [Pub. L. 109–59, § 3014(d)][/us/pl/109/59/s3014/d], struck out “shall be accounted for separately within the Mass Transit Account of the Highway Trust Fund and” after “Such revenues”.
+    Subsec. (c)(3). [Pub. L. 109–59][/us/pl/109/59], § 3014(d), struck out “shall be accounted for separately within the Mass Transit Account of the Highway Trust Fund and” after “Such revenues”.
 
-    Subsec. (d). [Pub. L. 109–59, § 3014(b)][/us/pl/109/59/s3014/b], redesignated subsec. (d) as (b).
+    Subsec. (d). [Pub. L. 109–59][/us/pl/109/59], § 3014(b), redesignated subsec. (d) as (b).
 
-    Subsec. (d)(1)(A), (2). [Pub. L. 109–59, § 3002(b)(4)][/us/pl/109/59/s3002/b/4], substituted “public transportation” for “mass transportation” wherever appearing.
+    Subsec. (d)(1)(A), (2). [Pub. L. 109–59][/us/pl/109/59], § 3002(b)(4), substituted “public transportation” for “mass transportation” wherever appearing.
 
-    Subsec. (e). [Pub. L. 109–59, § 3014(b)][/us/pl/109/59/s3014/b], redesignated subsec. (e) as (c).
+    Subsec. (e). [Pub. L. 109–59][/us/pl/109/59], § 3014(b), redesignated subsec. (e) as (c).
 
-    Subsec. (e)(1). [Pub. L. 109–59, § 3002(b)(4)][/us/pl/109/59/s3002/b/4], substituted “public transportation” for “mass transportation” wherever appearing.
+    Subsec. (e)(1). [Pub. L. 109–59][/us/pl/109/59], § 3002(b)(4), substituted “public transportation” for “mass transportation” wherever appearing.
 
     1998—Subsecs. (d), (e). [Pub. L. 105–178][/us/pl/105/178] added subsecs. (d) and (e).
 
@@ -569,56 +569,56 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 4(c) (1st sentence); added No
 ----------
 
 [/us/usc/t20/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1002
-[/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F811
-[/us/pl/105/178/s3015/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs3015%2Fa
+[/us/pl/105/178/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtIII
 [/us/stat/112/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F359
-[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIII
 [/us/stat/119/1545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1545
-[/us/pl/110/244/s201/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs201%2Ff
+[/us/pl/110/244/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2FtII
 [/us/stat/122/1610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1610
-[/us/pl/112/141/s20011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs20011
+[/us/pl/112/141/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdB
 [/us/stat/126/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F686
-[/us/pl/114/94/s3008/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3008%2Fa
+[/us/pl/114/94/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtIII
 [/us/stat/129/1465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1465
 [/us/usc/t49/s5334/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5334%2Fi
 [/us/usc/t12/s1701d–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701d%E2%80%933
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
-[/us/pl/114/94/s3008/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3008%2Fa%2F1
-[/us/pl/114/94/s3008/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3008%2Fa%2F2
-[/us/pl/114/94/s3008/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3008%2Fa%2F2
-[/us/pl/114/94/s3008/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3008%2Fb%2F1
-[/us/pl/114/94/s3008/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3008%2Fa%2F2
-[/us/pl/114/94/s3008/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3008%2Fb%2F2%2FA
-[/us/pl/114/94/s3008/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3008%2Fb%2F2%2FB
-[/us/pl/114/94/s3008/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3008%2Fa%2F2
-[/us/pl/114/94/s3008/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3008%2Fb%2F3
-[/us/pl/114/94/s3008/a/4/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3008%2Fa%2F4%2FA%2Fi
-[/us/pl/114/94/s3008/a/4/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3008%2Fa%2F4%2FA%2Fii
-[/us/pl/114/94/s3008/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3008%2Fa%2F4%2FB
-[/us/pl/114/94/s3008/a/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3008%2Fa%2F6%2FA
-[/us/pl/114/94/s3008/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3008%2Fa%2F2
-[/us/pl/114/94/s3008/a/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3008%2Fa%2F6%2FA
-[/us/pl/114/94/s3008/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3008%2Fa%2F2
-[/us/pl/114/94/s3008/a/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3008%2Fa%2F6%2FB
-[/us/pl/114/94/s3008/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3008%2Fb%2F4
-[/us/pl/114/94/s3008/a/6/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3008%2Fa%2F6%2FC
-[/us/pl/114/94/s3008/a/6/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3008%2Fa%2F6%2FD
-[/us/pl/114/94/s3008/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3008%2Fa%2F5
-[/us/pl/114/94/s3008/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3008%2Fa%2F7
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
-[/us/pl/109/59/s3014/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3014%2Fe%2F1
-[/us/pl/109/59/s3014/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3014%2Fa
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/usc/t49/s5334/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5334%2Fi
-[/us/pl/109/59/s3014/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3014%2Fb
-[/us/pl/109/59/s3014/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3014%2Fb
-[/us/pl/109/59/s3014/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3014%2Fc
-[/us/pl/109/59/s3014/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3014%2Fd
-[/us/pl/109/59/s3014/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3014%2Fb
-[/us/pl/109/59/s3002/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3002%2Fb%2F4
-[/us/pl/109/59/s3014/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3014%2Fb
-[/us/pl/109/59/s3002/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3002%2Fb%2F4
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003

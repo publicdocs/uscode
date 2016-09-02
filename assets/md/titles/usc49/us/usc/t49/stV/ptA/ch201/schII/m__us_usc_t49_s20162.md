@@ -33,7 +33,7 @@
 
     The Secretary may exempt railroad carriers and railroad carrier contractors and subcontractors from submitting training plans for which the Secretary has issued training regulations before the date of enactment of the Rail Safety Improvement Act of 2008.
 
-(Added [Pub. L. 110–432, div. A, title IV, § 401(a)][/us/pl/110/432/s401/a], Oct. 16, 2008, [122 Stat. 4883][/us/stat/122/4883]; amended [Pub. L. 114–94, div. A, title XI, § 11316(h)][/us/pl/114/94/s11316/h], Dec. 4, 2015, [129 Stat. 1677][/us/stat/129/1677].)
+(Added [Pub. L. 110–432, div. A, title IV][/us/pl/110/432/dA/tIV], § 401(a), Oct. 16, 2008, [122 Stat. 4883][/us/stat/122/4883]; amended [Pub. L. 114–94, div. A, title XI][/us/pl/114/94/dA/tXI], § 11316(h), Dec. 4, 2015, [129 Stat. 1677][/us/stat/129/1677].)
 
  __References in Text__ 
 
@@ -49,7 +49,7 @@
 
  __Report and Regulations on Certification of Certain Crafts or Classes of Employees__ 
 
-[Pub. L. 110–432, div. A, title IV, § 402(b)][/us/pl/110/432/s402/b]–(d), Oct. 16, 2008, [122 Stat. 4884][/us/stat/122/4884], provided that:
+[Pub. L. 110–432, div. A, title IV][/us/pl/110/432/dA/tIV], § 402(b)–(d), Oct. 16, 2008, [122 Stat. 4884][/us/stat/122/4884], provided that:
 
 >     “(b)  __Report__  __.—__ 
 
@@ -84,16 +84,16 @@
 ----------
 ----------
 
-[/us/pl/110/432/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs401%2Fa
+[/us/pl/110/432/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdA%2FtIV
 [/us/stat/122/4883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4883
-[/us/pl/114/94/s11316/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11316%2Fh
+[/us/pl/114/94/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtXI
 [/us/stat/129/1677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1677
 [/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
-[/us/pl/110/432/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs402%2Fb
+[/us/pl/110/432/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdA%2FtIV
 [/us/stat/122/4884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4884
 [/us/usc/t49/s20162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs20162
 [/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432

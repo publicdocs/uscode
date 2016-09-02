@@ -119,7 +119,7 @@
 
         (2) is not an employee of the United States Government, a State, or a political subdivision of a State acting in the course of employment.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 990][/us/stat/108/990]; [Pub. L. 110–53, title XV, § 1536][/us/pl/110/53/s1536], Aug. 3, 2007, [121 Stat. 464][/us/stat/121/464].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 990][/us/stat/108/990]; [Pub. L. 110–53, title XV][/us/pl/110/53/tXV], § 1536, Aug. 3, 2007, [121 Stat. 464][/us/stat/121/464].)
 
 <table>
 
@@ -235,7 +235,7 @@ Jan. 6, 1983, Pub. L. 97–424, § 405(e), 96 Stat. 2158; Nov. 8, 1984, Pub. L
 
  __Employee Protections__ 
 
-[Pub. L. 105–178, title IV, § 4023][/us/pl/105/178/s4023], June 9, 1998, [112 Stat. 415][/us/stat/112/415], provided that: 
+[Pub. L. 105–178, title IV][/us/pl/105/178/tIV], § 4023, June 9, 1998, [112 Stat. 415][/us/stat/112/415], provided that: 
 
 > “Not later than 2 years after the date of enactment of this Act \[June 9, 1998\], the Secretary \[of Transportation\], in conjunction with the Secretary of Labor, shall report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives on the effectiveness of existing statutory employee protections provided for under [section 31105 of title 49][/us/usc/t49/s31105], United States Code. The report shall include recommendations to address any statutory changes necessary to strengthen the enforcement of such employee protection provisions.”
 
@@ -246,12 +246,12 @@ Jan. 6, 1983, Pub. L. 97–424, § 405(e), 96 Stat. 2158; Nov. 8, 1984, Pub. L
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F990
-[/us/pl/110/53/s1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1536
+[/us/pl/110/53/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXV
 [/us/stat/121/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F464
 [/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
-[/us/pl/105/178/s4023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4023
+[/us/pl/105/178/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtIV
 [/us/stat/112/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F415
 [/us/usc/t49/s31105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31105
 

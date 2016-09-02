@@ -101,7 +101,7 @@
 
         (3) The part number of the component or components, if any.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 951][/us/stat/108/951]; [Pub. L. 112–141, div. C, title I, § 31310][/us/pl/112/141/s31310], July 6, 2012, [126 Stat. 771][/us/stat/126/771]; [Pub. L. 114–94, div. B, title XXIV, § 24116][/us/pl/114/94/s24116], Dec. 4, 2015, [129 Stat. 1711][/us/stat/129/1711].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 951][/us/stat/108/951]; [Pub. L. 112–141, div. C, title I][/us/pl/112/141/dC/tI], § 31310, July 6, 2012, [126 Stat. 771][/us/stat/126/771]; [Pub. L. 114–94, div. B, title XXIV][/us/pl/114/94/dB/tXXIV], § 24116, Dec. 4, 2015, [129 Stat. 1711][/us/stat/129/1711].)
 
 <table>
 
@@ -307,15 +307,15 @@ In subsection (d)(3), the words “(or, if the manufacturer prefers, by certifie
 
     2015—Subsec. (g). [Pub. L. 114–94][/us/pl/114/94] added subsec. (g).
 
-    2012—Subsec. (d)(1). [Pub. L. 112–141, § 31310(a)(1)][/us/pl/112/141/s31310/a/1], substituted “in the manner prescribed by the Secretary, by regulation” for “by first class mail” in introductory provisions.
+    2012—Subsec. (d)(1). [Pub. L. 112–141][/us/pl/112/141], § 31310(a)(1), substituted “in the manner prescribed by the Secretary, by regulation” for “by first class mail” in introductory provisions.
 
-    Subsec. (d)(2). [Pub. L. 112–141, § 31310(a)(2)][/us/pl/112/141/s31310/a/2], substituted “shall be sent in the manner prescribed by the Secretary, by regulation,” for “(except a tire) shall be sent by first class mail” and struck out second sentence which read as follows: “In addition, if the Secretary decides that public notice is required for motor vehicle safety, public notice shall be given in the way required by the Secretary after consulting with the manufacturer.”
+    Subsec. (d)(2). [Pub. L. 112–141][/us/pl/112/141], § 31310(a)(2), substituted “shall be sent in the manner prescribed by the Secretary, by regulation,” for “(except a tire) shall be sent by first class mail” and struck out second sentence which read as follows: “In addition, if the Secretary decides that public notice is required for motor vehicle safety, public notice shall be given in the way required by the Secretary after consulting with the manufacturer.”
 
-    Subsec. (d)(3). [Pub. L. 112–141, § 31310(a)(3)][/us/pl/112/141/s31310/a/3], struck out first sentence which read “Notification required under [section 30118 of this title][/us/usc/t49/s30118] about a tire shall be sent by first class mail (or, if the manufacturer prefers, by certified mail) to the most recent purchaser known to the manufacturer.” and inserted “to the notification required under paragraphs (1) and (2)” after “addition” and “by the manufacturer” after “given” in introductory provisions.
+    Subsec. (d)(3). [Pub. L. 112–141][/us/pl/112/141], § 31310(a)(3), struck out first sentence which read “Notification required under [section 30118 of this title][/us/usc/t49/s30118] about a tire shall be sent by first class mail (or, if the manufacturer prefers, by certified mail) to the most recent purchaser known to the manufacturer.” and inserted “to the notification required under paragraphs (1) and (2)” after “addition” and “by the manufacturer” after “given” in introductory provisions.
 
-    Subsec. (d)(4). [Pub. L. 112–141, § 31310(a)(4)][/us/pl/112/141/s31310/a/4], substituted “in the manner prescribed by the Secretary, by regulation” for “by certified mail or quicker means if available”.
+    Subsec. (d)(4). [Pub. L. 112–141][/us/pl/112/141], § 31310(a)(4), substituted “in the manner prescribed by the Secretary, by regulation” for “by certified mail or quicker means if available”.
 
-    Subsec. (e). [Pub. L. 112–141, § 31310(b)][/us/pl/112/141/s31310/b], substituted “Additional” for “Second” in subsec. heading, designated existing provisions as par. (1), inserted par. heading, and added par. (2).
+    Subsec. (e). [Pub. L. 112–141][/us/pl/112/141], § 31310(b), substituted “Additional” for “Second” in subsec. heading, designated existing provisions as par. (1), inserted par. heading, and added par. (2).
 
  __Effective Date of 2012 Amendment__ 
 
@@ -323,7 +323,7 @@ In subsection (d)(3), the words “(or, if the manufacturer prefers, by certifie
 
  __Improvements in Availability of Recall Information__ 
 
-[Pub. L. 114–94, div. B, title XXIV, § 24103(a)][/us/pl/114/94/s24103/a], Dec. 4, 2015, [129 Stat. 1702][/us/stat/129/1702], provided that: 
+[Pub. L. 114–94, div. B, title XXIV][/us/pl/114/94/dB/tXXIV], § 24103(a), Dec. 4, 2015, [129 Stat. 1702][/us/stat/129/1702], provided that: 
 
 > “Not later than 2 years after the date of enactment of this Act \[Dec. 4, 2015\], the Secretary \[probably means Secretary of Transportation\] shall implement current information technology, web design trends, and best practices that will help ensure that motor vehicle safety recall information available to the public on the Federal website is readily accessible and easy to use, including—
 
@@ -335,7 +335,7 @@ In subsection (d)(3), the words “(or, if the manufacturer prefers, by certifie
 
  __Notification Improvement__ 
 
-[Pub. L. 114–94, div. B, title XXIV, § 24104(a)][/us/pl/114/94/s24104/a], Dec. 4, 2015, [129 Stat. 1703][/us/stat/129/1703], provided that:
+[Pub. L. 114–94, div. B, title XXIV][/us/pl/114/94/dB/tXXIV], § 24104(a), Dec. 4, 2015, [129 Stat. 1703][/us/stat/129/1703], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -347,7 +347,7 @@ In subsection (d)(3), the words “(or, if the manufacturer prefers, by certifie
 
  __Pilot Grant Program for State Notification to Consumers of Motor Vehicle Recall Status__ 
 
-[Pub. L. 114–94, div. B, title XXIV, § 24105][/us/pl/114/94/s24105], Dec. 4, 2015, [129 Stat. 1704][/us/stat/129/1704], provided that:
+[Pub. L. 114–94, div. B, title XXIV][/us/pl/114/94/dB/tXXIV], § 24105, Dec. 4, 2015, [129 Stat. 1704][/us/stat/129/1704], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -411,7 +411,7 @@ In subsection (d)(3), the words “(or, if the manufacturer prefers, by certifie
 
  __Tire Recall Database__ 
 
-[Pub. L. 114–94, div. B, title XXIV, § 24335][/us/pl/114/94/s24335], Dec. 4, 2015, [129 Stat. 1716][/us/stat/129/1716], provided that:
+[Pub. L. 114–94, div. B, title XXIV][/us/pl/114/94/dB/tXXIV], § 24335, Dec. 4, 2015, [129 Stat. 1716][/us/stat/129/1716], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -439,35 +439,35 @@ In subsection (d)(3), the words “(or, if the manufacturer prefers, by certifie
 [/us/usc/t49/s30118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30118
 [/us/usc/t49/s30118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30118
 [/us/usc/t49/s30118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30118
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F951
-[/us/pl/112/141/s31310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31310
+[/us/pl/112/141/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtI
 [/us/stat/126/771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F771
-[/us/pl/114/94/s24116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24116
+[/us/pl/114/94/dB/tXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdB%2FtXXIV
 [/us/stat/129/1711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1711
 [/us/usc/t49/s1414/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1414%2Fb%2F2
 [/us/usc/t49/s30120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30120
 [/us/usc/t49/s30121/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30121%2Fc
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
-[/us/pl/112/141/s31310/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31310%2Fa%2F1
-[/us/pl/112/141/s31310/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31310%2Fa%2F2
-[/us/pl/112/141/s31310/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31310%2Fa%2F3
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t49/s30118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30118
-[/us/pl/112/141/s31310/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31310%2Fa%2F4
-[/us/pl/112/141/s31310/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31310%2Fb
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
-[/us/pl/114/94/s24103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24103%2Fa
+[/us/pl/114/94/dB/tXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdB%2FtXXIV
 [/us/stat/129/1702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1702
-[/us/pl/114/94/s24104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24104%2Fa
+[/us/pl/114/94/dB/tXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdB%2FtXXIV
 [/us/stat/129/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1703
-[/us/pl/114/94/s24105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24105
+[/us/pl/114/94/dB/tXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdB%2FtXXIV
 [/us/stat/129/1704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1704
 [/us/usc/t49/s30102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30102%2Fa
 [/us/usc/t49/s30119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30119
 [/us/usc/t23/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101%2Fa
-[/us/pl/114/94/s24335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24335
+[/us/pl/114/94/dB/tXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdB%2FtXXIV
 [/us/stat/129/1716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1716
 
 

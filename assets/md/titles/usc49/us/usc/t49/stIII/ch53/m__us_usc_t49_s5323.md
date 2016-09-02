@@ -319,7 +319,7 @@
 
         (2) any amounts withheld pursuant to paragraph (1) shall be added to the amount that the Secretary may apportion under section 5336 in the following fiscal year.
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 821][/us/stat/108/821]; [Pub. L. 103–429, § 6(10)][/us/pl/103/429/s6/10], Oct. 31, 1994, [108 Stat. 4379][/us/stat/108/4379]; [Pub. L. 104–287, § 5(15)][/us/pl/104/287/s5/15], Oct. 11, 1996, [110 Stat. 3390][/us/stat/110/3390]; [Pub. L. 105–178, title III, § 3020][/us/pl/105/178/s3020], June 9, 1998, [112 Stat. 362][/us/stat/112/362]; [Pub. L. 109–59, title III][/us/pl/109/59], §§ 3002(b)(4), 3023(a)–(i)(3), (j)–(m), Aug. 10, 2005, [119 Stat. 1545][/us/stat/119/1545], 1615–1619; [Pub. L. 110–244, title II, § 201(j)][/us/pl/110/244/s201/j], June 6, 2008, [122 Stat. 1611][/us/stat/122/1611]; [Pub. L. 112–141, div. B, § 20016][/us/pl/112/141/s20016], July 6, 2012, [126 Stat. 697][/us/stat/126/697]; [Pub. L. 114–94, div. A, title III, § 3011][/us/pl/114/94/s3011], Dec. 4, 2015, [129 Stat. 1474][/us/stat/129/1474].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(d), July 5, 1994, [108 Stat. 821][/us/stat/108/821]; [Pub. L. 103–429][/us/pl/103/429], § 6(10), Oct. 31, 1994, [108 Stat. 4379][/us/stat/108/4379]; [Pub. L. 104–287][/us/pl/104/287], § 5(15), Oct. 11, 1996, [110 Stat. 3390][/us/stat/110/3390]; [Pub. L. 105–178, title III][/us/pl/105/178/tIII], § 3020, June 9, 1998, [112 Stat. 362][/us/stat/112/362]; [Pub. L. 109–59, title III][/us/pl/109/59/tIII], §§ 3002(b)(4), 3023(a)–(i)(3), (j)–(m), Aug. 10, 2005, [119 Stat. 1545][/us/stat/119/1545], 1615–1619; [Pub. L. 110–244, title II][/us/pl/110/244/tII], § 201(j), June 6, 2008, [122 Stat. 1611][/us/stat/122/1611]; [Pub. L. 112–141, div. B][/us/pl/112/141/dB], § 20016, July 6, 2012, [126 Stat. 697][/us/stat/126/697]; [Pub. L. 114–94, div. A, title III][/us/pl/114/94/dA/tIII], § 3011, Dec. 4, 2015, [129 Stat. 1474][/us/stat/129/1474].)
 
 <table>
 
@@ -681,7 +681,7 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 8(q); added Oct. 6, 1992, Pub
 
     In subsection (k), the word “statewide” is omitted as surplus.
 
- __[__  __Pub. L. 103–429, § 6(10)(A)__  __][/us/pl/103/429/s6/10/A]__ 
+ __[__  __Pub. L. 103–429__  __][/us/pl/103/429]__  __, § 6(10)(A)__ 
 
     This makes a clarifying amendment to the catchline for 49:5323(j).
 
@@ -753,85 +753,85 @@ July 9, 1964, Pub. L. 88–365, § 12(j), as added Apr. 2, 1987, Pub. L. 100�
 
  __Amendments__ 
 
-    2015—Subsec. (h)(2), (3). [Pub. L. 114–94, § 3011(1)][/us/pl/114/94/s3011/1], added par. (2) and redesignated former par. (2) as (3).
+    2015—Subsec. (h)(2), (3). [Pub. L. 114–94][/us/pl/114/94], § 3011(1), added par. (2) and redesignated former par. (2) as (3).
 
-    Subsec. (j)(2)(C). [Pub. L. 114–94, § 3011(2)(A)][/us/pl/114/94/s3011/2/A], added subpar. (C) and struck out former subpar. (C), which read as follows: “when procuring rolling stock (including train control, communication, and traction power equipment) under this chapter—
+    Subsec. (j)(2)(C). [Pub. L. 114–94][/us/pl/114/94], § 3011(2)(A), added subpar. (C) and struck out former subpar. (C), which read as follows: “when procuring rolling stock (including train control, communication, and traction power equipment) under this chapter—
 
     “(i) the cost of components and subcomponents produced in the United States is more than 60 percent of the cost of all components of the rolling stock; and
 
     “(ii) final assembly of the rolling stock has occurred in the United States; or”.
 
-    Subsec. (j)(5) to (11). [Pub. L. 114–94, § 3011(2)(B)][/us/pl/114/94/s3011/2/B]–(D), added pars. (5) and (6), redesignated former pars. (5) to (9) as pars. (7) to (11), respectively, and in par. (8), substituted “Federal Public Transportation Act of 2015” for “Federal Public Transportation Act of 2012”.
+    Subsec. (j)(5) to (11). [Pub. L. 114–94][/us/pl/114/94], § 3011(2)(B)–(D), added pars. (5) and (6), redesignated former pars. (5) to (9) as pars. (7) to (11), respectively, and in par. (8), substituted “Federal Public Transportation Act of 2015” for “Federal Public Transportation Act of 2012”.
 
-    Subsec. (j)(12), (13). [Pub. L. 114–94, § 3011(2)(E)][/us/pl/114/94/s3011/2/E], added pars. (12) and (13).
+    Subsec. (j)(12), (13). [Pub. L. 114–94][/us/pl/114/94], § 3011(2)(E), added pars. (12) and (13).
 
-    Subsec. (q)(1). [Pub. L. 114–94, § 3011(3)][/us/pl/114/94/s3011/3], struck out at end “The Secretary may establish restrictions on such an acquisition as the Secretary determines to be necessary and appropriate.”
+    Subsec. (q)(1). [Pub. L. 114–94][/us/pl/114/94], § 3011(3), struck out at end “The Secretary may establish restrictions on such an acquisition as the Secretary determines to be necessary and appropriate.”
 
-    Subsecs. (s), (t). [Pub. L. 114–94, § 3011(4)][/us/pl/114/94/s3011/4], added subsecs. (s) and (t).
+    Subsecs. (s), (t). [Pub. L. 114–94][/us/pl/114/94], § 3011(4), added subsecs. (s) and (t).
 
     2012—[Pub. L. 112–141][/us/pl/112/141] amended section generally. Prior to amendment, section related to general provisions on assistance.
 
     2008—Subsec. (n). [Pub. L. 110–244][/us/pl/110/244] substituted “section 5336(d)(2)” for “section 5336(e)(2)”.
 
-    2005—Subsec. (a)(1). [Pub. L. 109–59, § 3023(a)(1)][/us/pl/109/59/s3023/a/1], inserted heading and text of par. (1) and struck out former par. (1) which authorized use of financial assistance provided under this chapter for certain purposes only if the Secretary finds the assistance is essential to a program of projects required under sections 5303–5306 of this title, the Secretary finds that the program, to the maximum extent feasible, provides for the participation of private companies, just compensation will be paid to the company for its franchise or property, and the Secretary of Labor certifies that the assistance complies with [section 5333(b) of this title][/us/usc/t49/s5333/b].
+    2005—Subsec. (a)(1). [Pub. L. 109–59][/us/pl/109/59], § 3023(a)(1), inserted heading and text of par. (1) and struck out former par. (1) which authorized use of financial assistance provided under this chapter for certain purposes only if the Secretary finds the assistance is essential to a program of projects required under sections 5303–5306 of this title, the Secretary finds that the program, to the maximum extent feasible, provides for the participation of private companies, just compensation will be paid to the company for its franchise or property, and the Secretary of Labor certifies that the assistance complies with [section 5333(b) of this title][/us/usc/t49/s5333/b].
 
-    Subsec. (a)(2). [Pub. L. 109–59, § 3023(a)(2)][/us/pl/109/59/s3023/a/2], inserted heading.
+    Subsec. (a)(2). [Pub. L. 109–59][/us/pl/109/59], § 3023(a)(2), inserted heading.
 
-    [Pub. L. 109–59, § 3002(b)(4)][/us/pl/109/59/s3002/b/4], substituted “public transportation” for “mass transportation”.
+    [Pub. L. 109–59][/us/pl/109/59], § 3002(b)(4), substituted “public transportation” for “mass transportation”.
 
-    Subsec. (b). [Pub. L. 109–59, § 3023(b)][/us/pl/109/59/s3023/b], reenacted heading without change and amended text of subsec. (b) generally, substituting provisions relating to general requirements, notice, and application requirements, consisting of pars. (1) to (3), for provisions relating to application requirements and notice, consisting of pars. (1) and (2).
+    Subsec. (b). [Pub. L. 109–59][/us/pl/109/59], § 3023(b), reenacted heading without change and amended text of subsec. (b) generally, substituting provisions relating to general requirements, notice, and application requirements, consisting of pars. (1) to (3), for provisions relating to application requirements and notice, consisting of pars. (1) and (2).
 
-    Subsec. (c). [Pub. L. 109–59, § 3023(c)][/us/pl/109/59/s3023/c], amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: “Amounts appropriated or made available under this chapter after September 30, 1989, may be obligated or expended to acquire a new bus model only if a bus of the model has been tested at the facility established under [section 5318 of this title][/us/usc/t49/s5318].”
+    Subsec. (c). [Pub. L. 109–59][/us/pl/109/59], § 3023(c), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: “Amounts appropriated or made available under this chapter after September 30, 1989, may be obligated or expended to acquire a new bus model only if a bus of the model has been tested at the facility established under [section 5318 of this title][/us/usc/t49/s5318].”
 
-    Subsec. (d)(1). [Pub. L. 109–59, § 3023(d)(1)][/us/pl/109/59/s3023/d/1], inserted heading.
+    Subsec. (d)(1). [Pub. L. 109–59][/us/pl/109/59], § 3023(d)(1), inserted heading.
 
-    [Pub. L. 109–59, § 3002(b)(4)][/us/pl/109/59/s3002/b/4], substituted “public transportation” for “mass transportation” in two places.
+    [Pub. L. 109–59][/us/pl/109/59], § 3002(b)(4), substituted “public transportation” for “mass transportation” in two places.
 
-    Subsec. (d)(2). [Pub. L. 109–59, § 3023(d)(2)][/us/pl/109/59/s3023/d/2], inserted heading and text of par. (2) and struck out former par. (2) which read as follows: “On receiving a complaint about a violation of an agreement, the Secretary of Transportation shall investigate and decide whether a violation has occurred. If the Secretary decides that a violation has occurred, the Secretary shall correct the violation under terms of the agreement. In addition to a remedy specified in the agreement, the Secretary may bar a recipient under this subsection or an operator from receiving further assistance when the Secretary finds a continuing pattern of violations of the agreement.”
+    Subsec. (d)(2). [Pub. L. 109–59][/us/pl/109/59], § 3023(d)(2), inserted heading and text of par. (2) and struck out former par. (2) which read as follows: “On receiving a complaint about a violation of an agreement, the Secretary of Transportation shall investigate and decide whether a violation has occurred. If the Secretary decides that a violation has occurred, the Secretary shall correct the violation under terms of the agreement. In addition to a remedy specified in the agreement, the Secretary may bar a recipient under this subsection or an operator from receiving further assistance when the Secretary finds a continuing pattern of violations of the agreement.”
 
-    Subsec. (e). [Pub. L. 109–59, § 3023(e)][/us/pl/109/59/s3023/e], amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “The initial advertising by a State or local governmental authority for bids to acquire buses using financial assistance under this chapter may include passenger seat functional specifications that are at least equal to performance specifications the Secretary of Transportation prescribes. The specifications shall be based on a finding by the State or local governmental authority of local requirements for safety, comfort, maintenance, and life cycle costs.”
+    Subsec. (e). [Pub. L. 109–59][/us/pl/109/59], § 3023(e), amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “The initial advertising by a State or local governmental authority for bids to acquire buses using financial assistance under this chapter may include passenger seat functional specifications that are at least equal to performance specifications the Secretary of Transportation prescribes. The specifications shall be based on a finding by the State or local governmental authority of local requirements for safety, comfort, maintenance, and life cycle costs.”
 
-    Subsec. (f). [Pub. L. 109–59, § 3023(f)][/us/pl/109/59/s3023/f], in par. (1) inserted heading and realigned margins, added par. (2), and struck out former par. (2) which read as follows: “An applicant violating an agreement under this subsection may not receive other financial assistance under this chapter.”
+    Subsec. (f). [Pub. L. 109–59][/us/pl/109/59], § 3023(f), in par. (1) inserted heading and realigned margins, added par. (2), and struck out former par. (2) which read as follows: “An applicant violating an agreement under this subsection may not receive other financial assistance under this chapter.”
 
-    Subsec. (f)(1). [Pub. L. 109–59, § 3002(b)(4)][/us/pl/109/59/s3002/b/4], substituted “public transportation” for “mass transportation” in two places in introductory provisions.
+    Subsec. (f)(1). [Pub. L. 109–59][/us/pl/109/59], § 3002(b)(4), substituted “public transportation” for “mass transportation” in two places in introductory provisions.
 
-    Subsec. (g). [Pub. L. 109–59, § 3023(g)][/us/pl/109/59/s3023/g], substituted “133 and 142” for “103(e)(4) and 142(a) or (c)” in two places.
+    Subsec. (g). [Pub. L. 109–59][/us/pl/109/59], § 3023(g), substituted “133 and 142” for “103(e)(4) and 142(a) or (c)” in two places.
 
-    Subsec. (i). [Pub. L. 109–59, § 3023(h)][/us/pl/109/59/s3023/h], substituted “Government’s” for “Government” in subsec. heading, designated existing provisions as par. (1), inserted par. heading, inserted “or facilities” after “equipment” wherever appearing, and added par. (2).
+    Subsec. (i). [Pub. L. 109–59][/us/pl/109/59], § 3023(h), substituted “Government’s” for “Government” in subsec. heading, designated existing provisions as par. (1), inserted par. heading, inserted “or facilities” after “equipment” wherever appearing, and added par. (2).
 
-    Subsec. (j)(3) to (5). [Pub. L. 109–59, § 3023(i)(1)][/us/pl/109/59/s3023/i/1], added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively. Former par. (5) redesignated (6).
+    Subsec. (j)(3) to (5). [Pub. L. 109–59][/us/pl/109/59], § 3023(i)(1), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively. Former par. (5) redesignated (6).
 
-    Subsec. (j)(6). [Pub. L. 109–59, § 3023(i)(1)(A)][/us/pl/109/59/s3023/i/1/A], (2), redesignated par. (5) as (6) and substituted “Federal Public Transportation Act of 2005” for “Intermodal Surface Transportation Efficiency Act of 1991 ([Public Law 102–240][/us/pl/102/240], [105 Stat. 1914][/us/stat/105/1914])” in introductory provisions. Former par. (6) redesignated (7).
+    Subsec. (j)(6). [Pub. L. 109–59][/us/pl/109/59], § 3023(i)(1)(A), (2), redesignated par. (5) as (6) and substituted “Federal Public Transportation Act of 2005” for “Intermodal Surface Transportation Efficiency Act of 1991 ([Public Law 102–240][/us/pl/102/240], [105 Stat. 1914][/us/stat/105/1914])” in introductory provisions. Former par. (6) redesignated (7).
 
-    Subsec. (j)(7), (8). [Pub. L. 109–59, § 3023(i)(1)(A)][/us/pl/109/59/s3023/i/1/A], redesignated pars. (6) and (7) as (7) and (8), respectively.
+    Subsec. (j)(7), (8). [Pub. L. 109–59][/us/pl/109/59], § 3023(i)(1)(A), redesignated pars. (6) and (7) as (7) and (8), respectively.
 
-    Subsec. (j)(9). [Pub. L. 109–59, § 3023(i)(3)][/us/pl/109/59/s3023/i/3], added par. (9).
+    Subsec. (j)(9). [Pub. L. 109–59][/us/pl/109/59], § 3023(i)(3), added par. (9).
 
-    Subsec. (l). [Pub. L. 109–59, § 3023(j)][/us/pl/109/59/s3023/j], amended heading and text of subsec. (l) generally. Prior to amendment, text read as follows: “The planning and programming requirements of [section 135 of title 23][/us/usc/t23/s135] apply to a grant made under sections 5307–5311 of this title.”
+    Subsec. (l). [Pub. L. 109–59][/us/pl/109/59], § 3023(j), amended heading and text of subsec. (l) generally. Prior to amendment, text read as follows: “The planning and programming requirements of [section 135 of title 23][/us/usc/t23/s135] apply to a grant made under sections 5307–5311 of this title.”
 
-    Subsec. (m). [Pub. L. 109–59, § 3023(k)][/us/pl/109/59/s3023/k], inserted at end “Rolling stock procurements of 20 vehicles or fewer made for the purpose of serving other than urbanized areas and urbanized areas with populations of 200,000 or fewer shall be subject to the same requirements as established for procurements of 10 or fewer buses under the post-delivery purchaser’s requirements certification process under section 663.37(c) of title 49, Code of Federal Regulations.”
+    Subsec. (m). [Pub. L. 109–59][/us/pl/109/59], § 3023(k), inserted at end “Rolling stock procurements of 20 vehicles or fewer made for the purpose of serving other than urbanized areas and urbanized areas with populations of 200,000 or fewer shall be subject to the same requirements as established for procurements of 10 or fewer buses under the post-delivery purchaser’s requirements certification process under section 663.37(c) of title 49, Code of Federal Regulations.”
 
-    Subsec. (o). [Pub. L. 109–59, § 3023][/us/pl/109/59/s3023](l), substituted “chapter 6 (other than section 609) of title 23” for “the Transportation Infrastructure Finance and Innovation Act of 1998”.
+    Subsec. (o). [Pub. L. 109–59][/us/pl/109/59], § 3023(l), substituted “chapter 6 (other than section 609) of title 23” for “the Transportation Infrastructure Finance and Innovation Act of 1998”.
 
-    Subsec. (p). [Pub. L. 109–59, § 3023(m)][/us/pl/109/59/s3023/m], added subsec. (p).
+    Subsec. (p). [Pub. L. 109–59][/us/pl/109/59], § 3023(m), added subsec. (p).
 
-    1998—Subsec. (d). [Pub. L. 105–178, § 3020(a)][/us/pl/105/178/s3020/a], substituted “Condition on Charter Bus Transportation Service” for “Buying and Operating Buses” in heading.
+    1998—Subsec. (d). [Pub. L. 105–178][/us/pl/105/178], § 3020(a), substituted “Condition on Charter Bus Transportation Service” for “Buying and Operating Buses” in heading.
 
-    Subsec. (i). [Pub. L. 105–178, § 3020(c)][/us/pl/105/178/s3020/c], amended heading and text of subsec. (i) generally. Prior to amendment, text read as follows: “A Government grant for a project to be assisted under this chapter that involves acquiring vehicle-related equipment required by the Clean Air Act ([42 U.S.C. 7401][/us/usc/t42/s7401] et seq.) or the Americans with Disabilities Act of 1990 ([42 U.S.C. 12101][/us/usc/t42/s12101] et seq.) is for 90 percent of the net project cost of the equipment that is attributable to complying with those Acts. The Secretary of Transportation, through practicable administrative procedures, may determine the costs attributable to that equipment.”
+    Subsec. (i). [Pub. L. 105–178][/us/pl/105/178], § 3020(c), amended heading and text of subsec. (i) generally. Prior to amendment, text read as follows: “A Government grant for a project to be assisted under this chapter that involves acquiring vehicle-related equipment required by the Clean Air Act ([42 U.S.C. 7401][/us/usc/t42/s7401] et seq.) or the Americans with Disabilities Act of 1990 ([42 U.S.C. 12101][/us/usc/t42/s12101] et seq.) is for 90 percent of the net project cost of the equipment that is attributable to complying with those Acts. The Secretary of Transportation, through practicable administrative procedures, may determine the costs attributable to that equipment.”
 
-    Subsec. (j)(7). [Pub. L. 105–178, § 3020(b)][/us/pl/105/178/s3020/b], inserted heading and amended text of par. (7) generally. Prior to amendment, text read as follows: “Not later than January 1, 1995, the Secretary of Transportation shall submit to Congress a report on purchases from foreign entities waived under paragraph (2) of this subsection in the fiscal years ending September 30, 1992, and September 30, 1993. The report shall indicate the dollar value of items for which waivers were granted.”
+    Subsec. (j)(7). [Pub. L. 105–178][/us/pl/105/178], § 3020(b), inserted heading and amended text of par. (7) generally. Prior to amendment, text read as follows: “Not later than January 1, 1995, the Secretary of Transportation shall submit to Congress a report on purchases from foreign entities waived under paragraph (2) of this subsection in the fiscal years ending September 30, 1992, and September 30, 1993. The report shall indicate the dollar value of items for which waivers were granted.”
 
-    Subsecs. (k) to (m). [Pub. L. 105–178, § 3020(d)][/us/pl/105/178/s3020/d], added subsec. (k) and redesignated former subsecs. (k) and (l) as (l) and (m), respectively.
+    Subsecs. (k) to (m). [Pub. L. 105–178][/us/pl/105/178], § 3020(d), added subsec. (k) and redesignated former subsecs. (k) and (l) as (l) and (m), respectively.
 
-    Subsec. (n). [Pub. L. 105–178, § 3020(e)][/us/pl/105/178/s3020/e], added subsec. (n).
+    Subsec. (n). [Pub. L. 105–178][/us/pl/105/178], § 3020(e), added subsec. (n).
 
-    Subsec. (o). [Pub. L. 105–178, § 3020(f)][/us/pl/105/178/s3020/f], added subsec. (o).
+    Subsec. (o). [Pub. L. 105–178][/us/pl/105/178], § 3020(f), added subsec. (o).
 
     1996—Subsecs. (b)(1), (c), (e). [Pub. L. 104–287][/us/pl/104/287] struck out “(except section 5307)” after “under this chapter”.
 
-    1994—Subsec. (j). [Pub. L. 103–429, § 6(10)(A)][/us/pl/103/429/s6/10/A], substituted “America” for “American” in heading.
+    1994—Subsec. (j). [Pub. L. 103–429][/us/pl/103/429], § 6(10)(A), substituted “America” for “American” in heading.
 
-    Subsec. (l). [Pub. L. 103–429, § 6(10)(B)][/us/pl/103/429/s6/10/B], added subsec. (l).
+    Subsec. (l). [Pub. L. 103–429][/us/pl/103/429], § 6(10)(B), added subsec. (l).
 
  __Effective Date of 2015 Amendment__ 
 
@@ -851,11 +851,11 @@ July 9, 1964, Pub. L. 88–365, § 12(j), as added Apr. 2, 1987, Pub. L. 100�
 
  __Rulemaking__ 
 
-    [Pub. L. 109–59, title III, § 3023(i)(5)][/us/pl/109/59/s3023/i/5], Aug. 10, 2005, [119 Stat. 1618][/us/stat/119/1618], required the Secretary of Transportation to issue a final rule on implementation of the Buy America requirements of former subsec. (j) of this section no later than 180 days after Aug. 10, 2005.
+    [Pub. L. 109–59, title III][/us/pl/109/59/tIII], § 3023(i)(5), Aug. 10, 2005, [119 Stat. 1618][/us/stat/119/1618], required the Secretary of Transportation to issue a final rule on implementation of the Buy America requirements of former subsec. (j) of this section no later than 180 days after Aug. 10, 2005.
 
  __Final Assembly of Buses__ 
 
-    [Pub. L. 105–178, title III, § 3035][/us/pl/105/178/s3035], June 9, 1998, [112 Stat. 387][/us/stat/112/387], required certain buses manufactured after Sept. 1, 1999, to conform with the Federal Transit Administration Guidance on Buy America Requirements, dated March 18, 1997.
+    [Pub. L. 105–178, title III][/us/pl/105/178/tIII], § 3035, June 9, 1998, [112 Stat. 387][/us/stat/112/387], required certain buses manufactured after Sept. 1, 1999, to conform with the Federal Transit Administration Guidance on Buy America Requirements, dated March 18, 1997.
 
 ----------
 
@@ -870,23 +870,23 @@ July 9, 1964, Pub. L. 88–365, § 12(j), as added Apr. 2, 1987, Pub. L. 100�
 [/us/usc/t42/s12101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12101
 [/us/usc/t5/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs702
 [/us/usc/t18/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1001
-[/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F821
-[/us/pl/103/429/s6/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F10
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/stat/108/4379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4379
-[/us/pl/104/287/s5/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F15
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3390
-[/us/pl/105/178/s3020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs3020
+[/us/pl/105/178/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtIII
 [/us/stat/112/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F362
-[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIII
 [/us/stat/119/1545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1545
-[/us/pl/110/244/s201/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs201%2Fj
+[/us/pl/110/244/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2FtII
 [/us/stat/122/1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1611
-[/us/pl/112/141/s20016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs20016
+[/us/pl/112/141/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdB
 [/us/stat/126/697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F697
-[/us/pl/114/94/s3011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3011
+[/us/pl/114/94/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtIII
 [/us/stat/129/1474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1474
-[/us/pl/103/429/s6/10/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F10%2FA
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/pl/91/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646
 [/us/stat/84/1894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1894
@@ -905,51 +905,51 @@ July 9, 1964, Pub. L. 88–365, § 12(j), as added Apr. 2, 1987, Pub. L. 100�
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/stat/129/1446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1446
 [/us/usc/t49/s5101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5101
-[/us/pl/114/94/s3011/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3011%2F1
-[/us/pl/114/94/s3011/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3011%2F2%2FA
-[/us/pl/114/94/s3011/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3011%2F2%2FB
-[/us/pl/114/94/s3011/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3011%2F2%2FE
-[/us/pl/114/94/s3011/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3011%2F3
-[/us/pl/114/94/s3011/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3011%2F4
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
-[/us/pl/109/59/s3023/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3023%2Fa%2F1
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/usc/t49/s5333/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5333%2Fb
-[/us/pl/109/59/s3023/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3023%2Fa%2F2
-[/us/pl/109/59/s3002/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3002%2Fb%2F4
-[/us/pl/109/59/s3023/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3023%2Fb
-[/us/pl/109/59/s3023/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3023%2Fc
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/usc/t49/s5318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5318
-[/us/pl/109/59/s3023/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3023%2Fd%2F1
-[/us/pl/109/59/s3002/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3002%2Fb%2F4
-[/us/pl/109/59/s3023/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3023%2Fd%2F2
-[/us/pl/109/59/s3023/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3023%2Fe
-[/us/pl/109/59/s3023/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3023%2Ff
-[/us/pl/109/59/s3002/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3002%2Fb%2F4
-[/us/pl/109/59/s3023/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3023%2Fg
-[/us/pl/109/59/s3023/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3023%2Fh
-[/us/pl/109/59/s3023/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3023%2Fi%2F1
-[/us/pl/109/59/s3023/i/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3023%2Fi%2F1%2FA
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/102/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240
 [/us/stat/105/1914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1914
-[/us/pl/109/59/s3023/i/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3023%2Fi%2F1%2FA
-[/us/pl/109/59/s3023/i/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3023%2Fi%2F3
-[/us/pl/109/59/s3023/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3023%2Fj
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/usc/t23/s135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs135
-[/us/pl/109/59/s3023/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3023%2Fk
-[/us/pl/109/59/s3023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3023
-[/us/pl/109/59/s3023/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3023%2Fm
-[/us/pl/105/178/s3020/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs3020%2Fa
-[/us/pl/105/178/s3020/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs3020%2Fc
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
 [/us/usc/t42/s12101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12101
-[/us/pl/105/178/s3020/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs3020%2Fb
-[/us/pl/105/178/s3020/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs3020%2Fd
-[/us/pl/105/178/s3020/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs3020%2Fe
-[/us/pl/105/178/s3020/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs3020%2Ff
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
-[/us/pl/103/429/s6/10/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F10%2FA
-[/us/pl/103/429/s6/10/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F10%2FB
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
@@ -962,9 +962,9 @@ July 9, 1964, Pub. L. 88–365, § 12(j), as added Apr. 2, 1987, Pub. L. 100�
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/pl/103/429/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs9
 [/us/usc/t49/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs321
-[/us/pl/109/59/s3023/i/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3023%2Fi%2F5
+[/us/pl/109/59/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIII
 [/us/stat/119/1618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1618
-[/us/pl/105/178/s3035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs3035
+[/us/pl/105/178/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtIII
 [/us/stat/112/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F387
 
 

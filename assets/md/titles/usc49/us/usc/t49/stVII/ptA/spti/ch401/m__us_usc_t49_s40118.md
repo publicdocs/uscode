@@ -63,7 +63,7 @@
 
         (2) In paragraph (1), the term “commercial item” has the meaning given such term in [section 103 of title 41][/us/usc/t41/s103], except that it shall not include a contract for the transportation by air of passengers.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1116][/us/stat/108/1116]; [Pub. L. 103–355, title VIII, § 8301(h)][/us/pl/103/355/s8301/h], Oct. 13, 1994, [108 Stat. 3398][/us/stat/108/3398]; [Pub. L. 104–287, § 5(68)][/us/pl/104/287/s5/68], Oct. 11, 1996, [110 Stat. 3395][/us/stat/110/3395]; [Pub. L. 104–316, title I, § 127(d)][/us/pl/104/316/s127/d], Oct. 19, 1996, [110 Stat. 3840][/us/stat/110/3840]; [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XII, § 1225(h), title XIII, § 1335(p), title XIV, § 1422(b)(6), Oct. 21, 1998, [112 Stat. 2681–775][/us/stat/112/2681-775], 2681–789, 2681–793; [Pub. L. 108–176, title VIII, § 806][/us/pl/108/176/s806], Dec. 12, 2003, [117 Stat. 2588][/us/stat/117/2588]; [Pub. L. 111–350, § 5][/us/pl/111/350/s5](o)(8), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1116][/us/stat/108/1116]; [Pub. L. 103–355, title VIII][/us/pl/103/355/tVIII], § 8301(h), Oct. 13, 1994, [108 Stat. 3398][/us/stat/108/3398]; [Pub. L. 104–287][/us/pl/104/287], § 5(68), Oct. 11, 1996, [110 Stat. 3395][/us/stat/110/3395]; [Pub. L. 104–316, title I][/us/pl/104/316/tI], § 127(d), Oct. 19, 1996, [110 Stat. 3840][/us/stat/110/3840]; [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XII, § 1225(h), title XIII, § 1335(p), title XIV, § 1422(b)(6), Oct. 21, 1998, [112 Stat. 2681–775][/us/stat/112/2681-775], 2681–789, 2681–793; [Pub. L. 108–176, title VIII][/us/pl/108/176/tVIII], § 806, Dec. 12, 2003, [117 Stat. 2588][/us/stat/117/2588]; [Pub. L. 111–350][/us/pl/111/350], § 5(o)(8), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854].)
 
 <table>
 
@@ -205,11 +205,11 @@ Oct. 7, 1978, Pub. L. 95–426, § 706, 92 Stat. 992.  </td>
 
     In subsection (e), the word “affect” is substituted for “prevent” for clarity. The words “to such traffic” are omitted as surplus.
 
- __[__  __Pub. L. 104–287, § 5(68)(A)__  __][/us/pl/104/287/s5/68/A]__ 
+ __[__  __Pub. L. 104–287__  __][/us/pl/104/287]__  __, § 5(68)(A)__ 
 
     This amends the catchline for 49:40118(d) to make a clarifying amendment.
 
- __[__  __Pub. L. 104–287, § 5(68)(B)__  __][/us/pl/104/287/s5/68/B]__ 
+ __[__  __Pub. L. 104–287__  __][/us/pl/104/287]__  __, § 5(68)(B)__ 
 
     This amends 49:40118(f)(1) to make a clarifying amendment.
 
@@ -219,17 +219,17 @@ Oct. 7, 1978, Pub. L. 95–426, § 706, 92 Stat. 992.  </td>
 
     2003—Subsec. (f)(2). [Pub. L. 108–176][/us/pl/108/176] inserted “, except that it shall not include a contract for the transportation by air of passengers” before period at end.
 
-    1998—Subsec. (d). [Pub. L. 105–277, § 1422(b)(6)][/us/pl/105/277/s1422/b/6], substituted “or the Administrator of the Agency for International Development” for “the Director of the United States International Development Cooperation Agency”.
+    1998—Subsec. (d). [Pub. L. 105–277][/us/pl/105/277], § 1422(b)(6), substituted “or the Administrator of the Agency for International Development” for “the Director of the United States International Development Cooperation Agency”.
 
-    [Pub. L. 105–277, § 1335(p)][/us/pl/105/277/s1335/p], struck out “, the Director of the United States Information Agency,” after “Secretary of State”.
+    [Pub. L. 105–277][/us/pl/105/277], § 1335(p), struck out “, the Director of the United States Information Agency,” after “Secretary of State”.
 
-    [Pub. L. 105–277, § 1225(h)][/us/pl/105/277/s1225/h], struck out “, or the Director of the Arms Control and Disarmament Agency” before “may be used to pay”.
+    [Pub. L. 105–277][/us/pl/105/277], § 1225(h), struck out “, or the Director of the Arms Control and Disarmament Agency” before “may be used to pay”.
 
     1996—Subsec. (c). [Pub. L. 104–316][/us/pl/104/316] substituted “Administrator of General Services shall prescribe regulations under which agencies may” for “Comptroller General shall”.
 
-    Subsec. (d). [Pub. L. 104–287, § 5(68)(A)][/us/pl/104/287/s5/68/A], substituted “Certain Transportation by Air Outside the United States” for “Transportation by Foreign Air Carriers” in heading.
+    Subsec. (d). [Pub. L. 104–287][/us/pl/104/287], § 5(68)(A), substituted “Certain Transportation by Air Outside the United States” for “Transportation by Foreign Air Carriers” in heading.
 
-    Subsec. (f). [Pub. L. 104–287, § 5(68)(B)][/us/pl/104/287/s5/68/B], inserted heading.
+    Subsec. (f). [Pub. L. 104–287][/us/pl/104/287], § 5(68)(B), inserted heading.
 
     1994—Subsec. (f). [Pub. L. 103–355][/us/pl/103/355] added subsec. (f).
 
@@ -263,19 +263,19 @@ Oct. 7, 1978, Pub. L. 95–426, § 706, 92 Stat. 992.  </td>
 [/us/usc/t49/s41102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs41102
 [/us/usc/t49/s40101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40101%2Fe
 [/us/usc/t41/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs103
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1116
-[/us/pl/103/355/s8301/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs8301%2Fh
+[/us/pl/103/355/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2FtVIII
 [/us/stat/108/3398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3398
-[/us/pl/104/287/s5/68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F68
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3395
-[/us/pl/104/316/s127/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs127%2Fd
+[/us/pl/104/316/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2FtI
 [/us/stat/110/3840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3840
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-775
-[/us/pl/108/176/s806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs806
+[/us/pl/108/176/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtVIII
 [/us/stat/117/2588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2588
-[/us/pl/111/350/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/act/1978-10-07/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1978-10-07%2Fs706
 [/us/pl/95/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426
@@ -284,18 +284,18 @@ Oct. 7, 1978, Pub. L. 95–426, § 706, 92 Stat. 992.  </td>
 [/us/pl/97/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241
 [/us/stat/96/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F291
 [/us/stat/93/1379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1379
-[/us/pl/104/287/s5/68/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F68%2FA
-[/us/pl/104/287/s5/68/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F68%2FB
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/usc/t41/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs103
 [/us/usc/t41/s403/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs403%2F12
 [/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
-[/us/pl/105/277/s1422/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1422%2Fb%2F6
-[/us/pl/105/277/s1335/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1335%2Fp
-[/us/pl/105/277/s1225/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1225%2Fh
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316
-[/us/pl/104/287/s5/68/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F68%2FA
-[/us/pl/104/287/s5/68/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F68%2FB
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
 [/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
 [/us/pl/103/355/s10001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs10001

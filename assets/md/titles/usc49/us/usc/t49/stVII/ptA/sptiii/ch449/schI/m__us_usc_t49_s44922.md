@@ -45,7 +45,7 @@
 
     The Under Secretary may allow law enforcement personnel to be stationed other than at the airport security screening location if that would be preferable for law enforcement purposes and if such personnel would still be able to provide prompt responsiveness to problems occurring at the screening location.
 
-(Added [Pub. L. 108–7, div. I, title III, § 351(a)][/us/pl/108/7/s351/a], Feb. 20, 2003, [117 Stat. 419][/us/stat/117/419].)
+(Added [Pub. L. 108–7, div. I, title III][/us/pl/108/7/dI/tIII], § 351(a), Feb. 20, 2003, [117 Stat. 419][/us/stat/117/419].)
 
 ----------
 
@@ -54,7 +54,7 @@
 ----------
 ----------
 
-[/us/pl/108/7/s351/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs351%2Fa
+[/us/pl/108/7/dI/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdI%2FtIII
 [/us/stat/117/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F419
 
 

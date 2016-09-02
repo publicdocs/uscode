@@ -17,7 +17,7 @@
 
     The Secretary of Transportation shall consult with the Secretary of Labor on a regular basis to ensure that all applicable laws affecting safe working conditions for railroad employees are appropriately enforced to ensure a safe and productive working environment for the railroad industry.
 
-(Added [Pub. L. 103–440, title II, § 213(a)][/us/pl/103/440/s213/a], Nov. 2, 1994, [108 Stat. 4623][/us/stat/108/4623].)
+(Added [Pub. L. 103–440, title II][/us/pl/103/440/tII], § 213(a), Nov. 2, 1994, [108 Stat. 4623][/us/stat/108/4623].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/103/440/s213/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F440%2Fs213%2Fa
+[/us/pl/103/440/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F440%2FtII
 [/us/stat/108/4623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4623
 
 

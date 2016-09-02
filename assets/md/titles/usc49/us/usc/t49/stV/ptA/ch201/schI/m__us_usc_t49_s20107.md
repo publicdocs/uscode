@@ -75,7 +75,7 @@
 
         Section 705 of the Communications Act of 1934 ([47 U.S.C. 605][/us/usc/t47/s605]) and chapter 119 of title 18 shall not apply to conduct authorized by and pursuant to this subsection.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 866][/us/stat/108/866]; [Pub. L. 110–432, div. A, title III, § 306][/us/pl/110/432/s306], Oct. 16, 2008, [122 Stat. 4880][/us/stat/122/4880].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 866][/us/stat/108/866]; [Pub. L. 110–432, div. A, title III][/us/pl/110/432/dA/tIII], § 306, Oct. 16, 2008, [122 Stat. 4880][/us/stat/122/4880].)
 
 <table>
 
@@ -165,7 +165,7 @@ Oct. 16, 1970, Pub. L. 91–458, § 208(b), 84 Stat. 975; restated Nov. 2, 197
 
  __Safety Inspections in Mexico__ 
 
-[Pub. L. 110–432, div. A, title IV, § 416][/us/pl/110/432/s416], Oct. 16, 2008, [122 Stat. 4890][/us/stat/122/4890], as amended by [Pub. L. 114–94, div. A, title XI, § 11316(j)(8)][/us/pl/114/94/s11316/j/8], Dec. 4, 2015, [129 Stat. 1678][/us/stat/129/1678], provided that: 
+[Pub. L. 110–432, div. A, title IV][/us/pl/110/432/dA/tIV], § 416, Oct. 16, 2008, [122 Stat. 4890][/us/stat/122/4890], as amended by [Pub. L. 114–94, div. A, title XI][/us/pl/114/94/dA/tXI], § 11316(j)(8), Dec. 4, 2015, [129 Stat. 1678][/us/stat/129/1678], provided that: 
 
 > “Mechanical and brake inspections of rail cars performed in Mexico shall not be treated as satisfying United States rail safety laws or regulations unless the Secretary certifies that—
 
@@ -188,14 +188,14 @@ Oct. 16, 1970, Pub. L. 91–458, § 208(b), 84 Stat. 975; restated Nov. 2, 197
 
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
 [/us/usc/t47/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs605
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F866
-[/us/pl/110/432/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs306
+[/us/pl/110/432/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdA%2FtIII
 [/us/stat/122/4880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4880
 [/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
-[/us/pl/110/432/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs416
+[/us/pl/110/432/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdA%2FtIV
 [/us/stat/122/4890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4890
-[/us/pl/114/94/s11316/j/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11316%2Fj%2F8
+[/us/pl/114/94/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtXI
 [/us/stat/129/1678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1678
 [/us/pl/110/432/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs416
 [/us/pl/110/432/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs2%2Fa

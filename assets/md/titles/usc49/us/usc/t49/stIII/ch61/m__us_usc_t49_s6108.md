@@ -17,7 +17,7 @@
 
     Nothing in this chapter preempts State law or shall impose a new requirement on any State or mandate revisions to a one-call system.
 
-(Added [Pub. L. 105–178, title VII, § 7302(a)][/us/pl/105/178/s7302/a], June 9, 1998, [112 Stat. 482][/us/stat/112/482].)
+(Added [Pub. L. 105–178, title VII][/us/pl/105/178/tVII], § 7302(a), June 9, 1998, [112 Stat. 482][/us/stat/112/482].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/105/178/s7302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs7302%2Fa
+[/us/pl/105/178/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtVII
 [/us/stat/112/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F482
 
 

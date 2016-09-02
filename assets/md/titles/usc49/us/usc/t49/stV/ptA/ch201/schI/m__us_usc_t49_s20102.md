@@ -51,7 +51,7 @@
 
         (F) any other employee of a railroad carrier who directly affects railroad safety, as determined by the Secretary.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 863][/us/stat/108/863]; [Pub. L. 110–432, div. A, § 2(b)][/us/pl/110/432/s2/b], title IV, § 407, Oct. 16, 2008, [122 Stat. 4850][/us/stat/122/4850], 4886.)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 863][/us/stat/108/863]; [Pub. L. 110–432, div. A][/us/pl/110/432/dA], § 2(b), title IV, § 407, Oct. 16, 2008, [122 Stat. 4850][/us/stat/122/4850], 4886.)
 
 <table>
 
@@ -215,13 +215,13 @@ Feb. 4, 1887, ch. 104, 24 Stat. 379, § 25(a); added Feb. 28, 1920, ch. 91, §
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–432, § 2(b)][/us/pl/110/432/s2/b], added pars. (1) and (4) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
+    2008—[Pub. L. 110–432][/us/pl/110/432], § 2(b), added pars. (1) and (4) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
 
-    Par. (3). [Pub. L. 110–432, § 407][/us/pl/110/432/s407], amended par. (3) generally. Prior to amendment, text read as follows: “ ‘railroad carrier’ means a person providing railroad transportation.”
+    Par. (3). [Pub. L. 110–432][/us/pl/110/432], § 407, amended par. (3) generally. Prior to amendment, text read as follows: “ ‘railroad carrier’ means a person providing railroad transportation.”
 
  __Definitions Applicable to Division A of__  __[__  __Pub. L. 110–432__  __][/us/pl/110/432]__ 
 
-[Pub. L. 110–432, div. A, § 2(a)][/us/pl/110/432/s2/a], Oct. 16, 2008, [122 Stat. 4849][/us/stat/122/4849], as amended by [Pub. L. 114–94, div. A, title XI, § 11316(j)(2)][/us/pl/114/94/s11316/j/2], Dec. 4, 2015, [129 Stat. 1677][/us/stat/129/1677], provided that: 
+[Pub. L. 110–432, div. A][/us/pl/110/432/dA], § 2(a), Oct. 16, 2008, [122 Stat. 4849][/us/stat/122/4849], as amended by [Pub. L. 114–94, div. A, title XI][/us/pl/114/94/dA/tXI], § 11316(j)(2), Dec. 4, 2015, [129 Stat. 1677][/us/stat/129/1677], provided that: 
 
 > “In this division \[see Short Title of 2008 Amendment note set out under [section 20101 of this title][/us/usc/t49/s20101]\]:
 
@@ -261,16 +261,16 @@ Feb. 4, 1887, ch. 104, 24 Stat. 379, § 25(a); added Feb. 28, 1920, ch. 91, §
 ----------
 
 [/us/usc/t49/s5102/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5102%2F3
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F863
-[/us/pl/110/432/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs2%2Fb
+[/us/pl/110/432/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdA
 [/us/stat/122/4850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4850
-[/us/pl/110/432/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs2%2Fb
-[/us/pl/110/432/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs407
 [/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
-[/us/pl/110/432/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs2%2Fa
+[/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
+[/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
+[/us/pl/110/432/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdA
 [/us/stat/122/4849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4849
-[/us/pl/114/94/s11316/j/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11316%2Fj%2F2
+[/us/pl/114/94/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtXI
 [/us/stat/129/1677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1677
 [/us/usc/t49/s20101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs20101
 [/us/usc/t49/s20102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs20102

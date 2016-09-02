@@ -93,7 +93,7 @@
 
     The Board shall maintain at least 1 full-time employee in each State located more than 1,000 miles from the nearest Board regional office to provide initial investigative response to accidents the Board is empowered to investigate under this chapter that occur in that State.
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 747][/us/stat/108/747]; [Pub. L. 106–424][/us/pl/106/424], §§ 3(a), (b)(1), 4, Nov. 1, 2000, [114 Stat. 1883][/us/stat/114/1883], 1884; [Pub. L. 109–443, § 9(e)][/us/pl/109/443/s9/e]–(g), Dec. 21, 2006, [120 Stat. 3301][/us/stat/120/3301]; [Pub. L. 111–350, § 5][/us/pl/111/350/s5](o)(2), Jan. 4, 2011, [124 Stat. 3853][/us/stat/124/3853].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(d), July 5, 1994, [108 Stat. 747][/us/stat/108/747]; [Pub. L. 106–424][/us/pl/106/424], §§ 3(a), (b)(1), 4, Nov. 1, 2000, [114 Stat. 1883][/us/stat/114/1883], 1884; [Pub. L. 109–443][/us/pl/109/443], § 9(e)–(g), Dec. 21, 2006, [120 Stat. 3301][/us/stat/120/3301]; [Pub. L. 111–350][/us/pl/111/350], § 5(o)(2), Jan. 4, 2011, [124 Stat. 3853][/us/stat/124/3853].)
 
 <table>
 
@@ -369,23 +369,23 @@ Jan. 3, 1975, Pub. L. 93–633, § 304(b)(12), 88 Stat. 2171; July 19, 1988, P
 
     2011—Subsec. (b)(1)(B). [Pub. L. 111–350][/us/pl/111/350] substituted “section 6101(b) to (d) of title 41” for “section 3709 of the Revised Statutes ([41 U.S.C. 5][/us/usc/t41/s5])”.
 
-    2006—Subsec. (a)(3). [Pub. L. 109–443, § 9(e)][/us/pl/109/443/s9/e], substituted “subpoena” for “subpena”.
+    2006—Subsec. (a)(3). [Pub. L. 109–443][/us/pl/109/443], § 9(e), substituted “subpoena” for “subpena”.
 
-    Subsec. (a)(4). [Pub. L. 109–443, § 9(e)][/us/pl/109/443/s9/e], which directed substitution of “subpoena” for “subpena”, was executed by making the substitution wherever appearing, to reflect the probable intent of Congress.
+    Subsec. (a)(4). [Pub. L. 109–443][/us/pl/109/443], § 9(e), which directed substitution of “subpoena” for “subpena”, was executed by making the substitution wherever appearing, to reflect the probable intent of Congress.
 
-    Subsec. (c). [Pub. L. 109–443, § 9(f)][/us/pl/109/443/s9/f], inserted at end “The Board shall develop and approve a process for the Board’s review and comment or approval of documents submitted to the President, Director of the Office of Management and Budget, or Congress under this subsection.”
+    Subsec. (c). [Pub. L. 109–443][/us/pl/109/443], § 9(f), inserted at end “The Board shall develop and approve a process for the Board’s review and comment or approval of documents submitted to the President, Director of the Office of Management and Budget, or Congress under this subsection.”
 
-    Subsec. (h). [Pub. L. 109–443, § 9(g)][/us/pl/109/443/s9/g], added subsec. (h).
+    Subsec. (h). [Pub. L. 109–443][/us/pl/109/443], § 9(g), added subsec. (h).
 
-    2000—Subsec. (b)(1)(I). [Pub. L. 106–424, § 3(a)][/us/pl/106/424/s3/a], amended subpar. (I) generally. Prior to amendment, subpar. (I) read as follows: “require that the departments, agencies, and instrumentalities of the Government, State and local governments, and governments of foreign countries provide appropriate consideration for the reasonable costs of goods and services supplied by the Board.”
+    2000—Subsec. (b)(1)(I). [Pub. L. 106–424][/us/pl/106/424], § 3(a), amended subpar. (I) generally. Prior to amendment, subpar. (I) read as follows: “require that the departments, agencies, and instrumentalities of the Government, State and local governments, and governments of foreign countries provide appropriate consideration for the reasonable costs of goods and services supplied by the Board.”
 
-    Subsec. (b)(2). [Pub. L. 106–424, § 3(b)(1)][/us/pl/106/424/s3/b/1], inserted “as offsetting collections” after “to be credited” and “The Board shall maintain an annual record of collections received under paragraph (1)(I) of this subsection.” at end.
+    Subsec. (b)(2). [Pub. L. 106–424][/us/pl/106/424], § 3(b)(1), inserted “as offsetting collections” after “to be credited” and “The Board shall maintain an annual record of collections received under paragraph (1)(I) of this subsection.” at end.
 
-    Subsec. (g). [Pub. L. 106–424, § 4][/us/pl/106/424/s4], added subsec. (g).
+    Subsec. (g). [Pub. L. 106–424][/us/pl/106/424], § 4, added subsec. (g).
 
  __Relief From Contracting Requirements for Investigations Services__ 
 
-[Pub. L. 108–168, § 4][/us/pl/108/168/s4], Dec. 6, 2003, [117 Stat. 2033][/us/stat/117/2033], as amended by [Pub. L. 109–443, § 3][/us/pl/109/443/s3], Dec. 21, 2006, [120 Stat. 3298][/us/stat/120/3298], provided that:
+[Pub. L. 108–168][/us/pl/108/168], § 4, Dec. 6, 2003, [117 Stat. 2033][/us/stat/117/2033], as amended by [Pub. L. 109–443][/us/pl/109/443], § 3, Dec. 21, 2006, [120 Stat. 3298][/us/stat/120/3298], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -401,7 +401,7 @@ Jan. 3, 1975, Pub. L. 93–633, § 304(b)(12), 88 Stat. 2171; July 19, 1988, P
 
  __Travel Budgets__ 
 
-[Pub. L. 106–424, § 9][/us/pl/106/424/s9], Nov. 1, 2000, [114 Stat. 1886][/us/stat/114/1886], provided that: 
+[Pub. L. 106–424][/us/pl/106/424], § 9, Nov. 1, 2000, [114 Stat. 1886][/us/stat/114/1886], provided that: 
 
 > “The Chairman of the National Transportation Safety Board shall establish annual fiscal year budgets for non-accident-related travel expenditures for Board members which shall be approved by the Board and submitted to the Senate Committee on Commerce, Science, and Transportation and to the House of Representatives Committee on Transportation and Infrastructure together with an annual report detailing the non-accident-related travel of each Board member. The report shall include separate accounting for foreign and domestic travel, including any personnel or other expenses associated with that travel.”
 
@@ -416,31 +416,31 @@ Jan. 3, 1975, Pub. L. 93–633, § 304(b)(12), 88 Stat. 2171; July 19, 1988, P
 [/us/usc/t5/s5542/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5542%2Fa
 [/us/usc/t5/s5304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5304
 [/us/usc/t5/s5305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5305
-[/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F747
 [/us/pl/106/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F424
 [/us/stat/114/1883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1883
-[/us/pl/109/443/s9/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F443%2Fs9%2Fe
+[/us/pl/109/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F443
 [/us/stat/120/3301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3301
-[/us/pl/111/350/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3853
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/usc/t41/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs5
-[/us/pl/109/443/s9/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F443%2Fs9%2Fe
-[/us/pl/109/443/s9/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F443%2Fs9%2Fe
-[/us/pl/109/443/s9/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F443%2Fs9%2Ff
-[/us/pl/109/443/s9/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F443%2Fs9%2Fg
-[/us/pl/106/424/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F424%2Fs3%2Fa
-[/us/pl/106/424/s3/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F424%2Fs3%2Fb%2F1
-[/us/pl/106/424/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F424%2Fs4
-[/us/pl/108/168/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F168%2Fs4
+[/us/pl/109/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F443
+[/us/pl/109/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F443
+[/us/pl/109/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F443
+[/us/pl/109/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F443
+[/us/pl/106/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F424
+[/us/pl/106/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F424
+[/us/pl/106/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F424
+[/us/pl/108/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F168
 [/us/stat/117/2033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2033
-[/us/pl/109/443/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F443%2Fs3
+[/us/pl/109/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F443
 [/us/stat/120/3298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3298
 [/us/usc/t49/s1113/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1113%2Fb%2F1%2FB
 [/us/usc/t49/s1117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1117
-[/us/pl/106/424/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F424%2Fs9
+[/us/pl/106/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F424
 [/us/stat/114/1886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1886
 
 

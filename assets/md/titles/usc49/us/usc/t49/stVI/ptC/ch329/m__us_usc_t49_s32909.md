@@ -35,7 +35,7 @@
 
     A judgment of a court under this section may be reviewed only by the Supreme Court under [section 1254 of title 28][/us/usc/t28/s1254]. A remedy under subsections (a)(1) and (c) of this section is in addition to any other remedies provided by law.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1070][/us/stat/108/1070]; [Pub. L. 103–429, § 6(38)][/us/pl/103/429/s6/38], Oct. 31, 1994, [108 Stat. 4382][/us/stat/108/4382].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1070][/us/stat/108/1070]; [Pub. L. 103–429][/us/pl/103/429], § 6(38), Oct. 31, 1994, [108 Stat. 4382][/us/stat/108/4382].)
 
 <table>
 
@@ -229,9 +229,9 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, § 508(e)(3); added Nov. 9, 197
 [/us/usc/t49/s32912/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs32912%2Fc%2F1
 [/us/usc/t49/s32902/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs32902%2Fc%2F2
 [/us/usc/t28/s1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1254
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1070
-[/us/pl/103/429/s6/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F38
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/stat/108/4382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4382
 [/us/usc/t28/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2112
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429

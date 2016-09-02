@@ -17,7 +17,7 @@
 
     To ensure a continuing and effective national safety program, it is the policy of the United States Government to encourage and strengthen State inspection of used motor vehicles. Therefore, the Secretary of Transportation shall prescribe uniform motor vehicle safety standards applicable to all used motor vehicles. The standards shall be stated in terms of motor vehicle safety performance.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 958][/us/stat/108/958].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 958][/us/stat/108/958].)
 
 <table>
 
@@ -74,7 +74,7 @@ Sept. 9, 1966, Pub. L. 89–563, § 108(b)(1) (2d–last sentences), 80 Stat. 
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F958
 
 

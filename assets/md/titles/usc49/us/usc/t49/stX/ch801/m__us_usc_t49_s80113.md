@@ -49,7 +49,7 @@
 
         (2) When goods are loaded by a common carrier, the carrier must count the packages of goods, if package freight, and determine the kind and quantity, if bulk freight. In that situation, inserting in the bill of lading or in a notice, receipt, contract, rule, or tariff, the words “shipper’s weight, load, and count” or words indicating that the shipper described and loaded the goods, has no effect except for freight concealed by packages.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1351][/us/stat/108/1351].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1351][/us/stat/108/1351].)
 
 <table>
 
@@ -170,7 +170,7 @@ Aug. 29, 1916, ch. 415, §§ 20, 21, 39 Stat. 541.  </td>
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1351
 
 

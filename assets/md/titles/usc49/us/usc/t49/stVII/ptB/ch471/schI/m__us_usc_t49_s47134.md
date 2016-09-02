@@ -129,29 +129,29 @@
 
     In this section, the term “general aviation airport” means an airport that is not a commercial service airport.
 
-(Added [Pub. L. 104–264, title I, § 149(a)(1)][/us/pl/104/264/s149/a/1], Oct. 9, 1996, [110 Stat. 3224][/us/stat/110/3224]; amended [Pub. L. 108–176, title I, § 155(a)][/us/pl/108/176/s155/a], Dec. 12, 2003, [117 Stat. 2508][/us/stat/117/2508]; [Pub. L. 112–95, title I][/us/pl/112/95], §§ 111(c)(2)(A)(iv), 156, Feb. 14, 2012, [126 Stat. 18][/us/stat/126/18], 36.)
+(Added [Pub. L. 104–264, title I][/us/pl/104/264/tI], § 149(a)(1), Oct. 9, 1996, [110 Stat. 3224][/us/stat/110/3224]; amended [Pub. L. 108–176, title I][/us/pl/108/176/tI], § 155(a), Dec. 12, 2003, [117 Stat. 2508][/us/stat/117/2508]; [Pub. L. 112–95, title I][/us/pl/112/95/tI], §§ 111(c)(2)(A)(iv), 156, Feb. 14, 2012, [126 Stat. 18][/us/stat/126/18], 36.)
 
  __References in Text__ 
 
-    The Airport and Airway Improvement Act of 1982, referred to in subsec. (b)(2), is title V of [Pub. L. 97–248][/us/pl/97/248], Sept. 3, 1982, [96 Stat. 671][/us/stat/96/671], as amended, which was classified principally to chapter 31 (§ 2201 et seq.) of former Title 49, Transportation, and was substantially repealed by [Pub. L. 103–272, § 7(b)][/us/pl/103/272/s7/b], July 5, 1994, [108 Stat. 1379][/us/stat/108/1379], and reenacted by the first section thereof as this subchapter.
+    The Airport and Airway Improvement Act of 1982, referred to in subsec. (b)(2), is title V of [Pub. L. 97–248][/us/pl/97/248], Sept. 3, 1982, [96 Stat. 671][/us/stat/96/671], as amended, which was classified principally to chapter 31 (§ 2201 et seq.) of former Title 49, Transportation, and was substantially repealed by [Pub. L. 103–272][/us/pl/103/272], § 7(b), July 5, 1994, [108 Stat. 1379][/us/stat/108/1379], and reenacted by the first section thereof as this subchapter.
 
  __Amendments__ 
 
-    2012—Subsec. (b). [Pub. L. 112–95, § 156][/us/pl/112/95/s156], substituted “10 airports” for “5 airports” in introductory provisions.
+    2012—Subsec. (b). [Pub. L. 112–95][/us/pl/112/95], § 156, substituted “10 airports” for “5 airports” in introductory provisions.
 
-    Subsec. (g)(1). [Pub. L. 112–95, § 111(c)(2)(A)(iv)][/us/pl/112/95/s111/c/2/A/iv], substituted “charge” for “fee”.
+    Subsec. (g)(1). [Pub. L. 112–95][/us/pl/112/95], § 111(c)(2)(A)(iv), substituted “charge” for “fee”.
 
-    2003—Subsec. (b)(1)(A). [Pub. L. 108–176, § 155(a)(1)][/us/pl/108/176/s155/a/1], added cls. (i) and (ii) and struck out former cls. (i) and (ii) which read as follows:
+    2003—Subsec. (b)(1)(A). [Pub. L. 108–176][/us/pl/108/176], § 155(a)(1), added cls. (i) and (ii) and struck out former cls. (i) and (ii) which read as follows:
 
     “(i) by at least 65 percent of the air carriers serving the airport; and
 
     “(ii) by air carriers whose aircraft landing at the airport during the preceding calendar year had a total landed weight during the preceding calendar year of at least 65 percent of the total landed weight of all aircraft landing at the airport during such year.”
 
-    Subsec. (b)(1)(B), (C). [Pub. L. 108–176, § 155(a)(2)][/us/pl/108/176/s155/a/2], (3), added subpar. (B) and redesignated former subpar. (B) as (C).
+    Subsec. (b)(1)(B), (C). [Pub. L. 108–176][/us/pl/108/176], § 155(a)(2), (3), added subpar. (B) and redesignated former subpar. (B) as (C).
 
  __Effective Date of 2003 Amendment__ 
 
-[Pub. L. 108–176, title I, § 155(b)][/us/pl/108/176/s155/b], Dec. 12, 2003, [117 Stat. 2508][/us/stat/117/2508], provided that: 
+[Pub. L. 108–176, title I][/us/pl/108/176/tI], § 155(b), Dec. 12, 2003, [117 Stat. 2508][/us/stat/117/2508], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall not affect any application submitted before the date of enactment of this Act \[Dec. 12, 2003\].”
 
@@ -173,21 +173,21 @@
 [/us/usc/t49/s40117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40117
 [/us/usc/t49/s47114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs47114
 [/us/usc/t49/s40116/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40116%2Fe%2F2
-[/us/pl/104/264/s149/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs149%2Fa%2F1
+[/us/pl/104/264/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2FtI
 [/us/stat/110/3224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3224
-[/us/pl/108/176/s155/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs155%2Fa
+[/us/pl/108/176/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtI
 [/us/stat/117/2508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2508
-[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtI
 [/us/stat/126/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F18
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
 [/us/stat/96/671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F671
-[/us/pl/103/272/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs7%2Fb
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1379
-[/us/pl/112/95/s156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs156
-[/us/pl/112/95/s111/c/2/A/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs111%2Fc%2F2%2FA%2Fiv
-[/us/pl/108/176/s155/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs155%2Fa%2F1
-[/us/pl/108/176/s155/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs155%2Fa%2F2
-[/us/pl/108/176/s155/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs155%2Fb
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
+[/us/pl/108/176/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtI
 [/us/stat/117/2508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2508
 [/us/pl/104/264/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106

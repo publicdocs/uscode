@@ -107,7 +107,7 @@
 
         50 percent of amounts appropriated pursuant to this subsection for a fiscal year shall be used for making allocations under subsection (h)(2) and 50 percent of such amounts shall be used for making discretionary grants under subsection (h)(3).
 
-(Added [Pub. L. 108–176, title VI, § 605(a)][/us/pl/108/176/s605/a], Dec. 12, 2003, [117 Stat. 2566][/us/stat/117/2566]; amended [Pub. L. 108–458, title IV, § 4019(e)(1)][/us/pl/108/458/s4019/e/1], Dec. 17, 2004, [118 Stat. 3722][/us/stat/118/3722]; [Pub. L. 110–53, title XVI][/us/pl/110/53], §§ 1603(a), 1604(a), Aug. 3, 2007, [121 Stat. 480][/us/stat/121/480].)
+(Added [Pub. L. 108–176, title VI][/us/pl/108/176/tVI], § 605(a), Dec. 12, 2003, [117 Stat. 2566][/us/stat/117/2566]; amended [Pub. L. 108–458, title IV][/us/pl/108/458/tIV], § 4019(e)(1), Dec. 17, 2004, [118 Stat. 3722][/us/stat/118/3722]; [Pub. L. 110–53, title XVI][/us/pl/110/53/tXVI], §§ 1603(a), 1604(a), Aug. 3, 2007, [121 Stat. 480][/us/stat/121/480].)
 
  __References in Text__ 
 
@@ -115,19 +115,19 @@
 
  __Amendments__ 
 
-    2007—Subsec. (a). [Pub. L. 110–53, § 1604(a)(1)][/us/pl/110/53/s1604/a/1], substituted “shall make” for “may make” in introductory provisions.
+    2007—Subsec. (a). [Pub. L. 110–53][/us/pl/110/53], § 1604(a)(1), substituted “shall make” for “may make” in introductory provisions.
 
-    Subsec. (d)(1). [Pub. L. 110–53, § 1604(a)(2)][/us/pl/110/53/s1604/a/2], substituted “shall issue” for “may issue”.
+    Subsec. (d)(1). [Pub. L. 110–53][/us/pl/110/53], § 1604(a)(2), substituted “shall issue” for “may issue”.
 
-    Subsec. (h)(1). [Pub. L. 110–53, § 1604(a)(3)][/us/pl/110/53/s1604/a/3], substituted “2028” for “2007”.
+    Subsec. (h)(1). [Pub. L. 110–53][/us/pl/110/53], § 1604(a)(3), substituted “2028” for “2007”.
 
-    Subsec. (h)(2), (3). [Pub. L. 110–53, § 1604(a)(4)][/us/pl/110/53/s1604/a/4], added pars. (2) and (3) and struck out former pars. (2) and (3) which related to allocation of $125,000,000 of amount available per fiscal year for large, medium, and small hub airports, nonhub airports, and on the basis of aviation security risks, and allocation of $125,000,000 of amount available per fiscal year for discretionary grants, with priority given to fulfilling letters of intent issued under subsec. (d).
+    Subsec. (h)(2), (3). [Pub. L. 110–53][/us/pl/110/53], § 1604(a)(4), added pars. (2) and (3) and struck out former pars. (2) and (3) which related to allocation of $125,000,000 of amount available per fiscal year for large, medium, and small hub airports, nonhub airports, and on the basis of aviation security risks, and allocation of $125,000,000 of amount available per fiscal year for discretionary grants, with priority given to fulfilling letters of intent issued under subsec. (d).
 
-    Subsec. (i). [Pub. L. 110–53, § 1604(a)(6)][/us/pl/110/53/s1604/a/6], added subsec. (i). Former subsec. (i) redesignated (j).
+    Subsec. (i). [Pub. L. 110–53][/us/pl/110/53], § 1604(a)(6), added subsec. (i). Former subsec. (i) redesignated (j).
 
-    Subsec. (i)(1). [Pub. L. 110–53, § 1603(a)][/us/pl/110/53/s1603/a], substituted “2007, and $450,000,000 for each of fiscal years 2008 through 2011” for “2007.”
+    Subsec. (i)(1). [Pub. L. 110–53][/us/pl/110/53], § 1603(a), substituted “2007, and $450,000,000 for each of fiscal years 2008 through 2011” for “2007.”
 
-    Subsec. (j). [Pub. L. 110–53, § 1604(a)(5)][/us/pl/110/53/s1604/a/5], redesignated subsec. (i) as (j).
+    Subsec. (j). [Pub. L. 110–53][/us/pl/110/53], § 1604(a)(5), redesignated subsec. (i) as (j).
 
     2004—Subsec. (i)(1). [Pub. L. 108–458][/us/pl/108/458] substituted “$400,000,000 for each of fiscal years 2005, 2006, and 2007” for “$250,000,000 for each of fiscal years 2004 through 2007”.
 
@@ -137,7 +137,7 @@
 
  __Prioritization of Projects__ 
 
-[Pub. L. 110–53, title XVI, § 1604(b)][/us/pl/110/53/s1604/b], Aug. 3, 2007, [121 Stat. 480][/us/stat/121/480], provided that:
+[Pub. L. 110–53, title XVI][/us/pl/110/53/tXVI], § 1604(b), Aug. 3, 2007, [121 Stat. 480][/us/stat/121/480], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -153,9 +153,9 @@
 
  __Period of Reimbursement__ 
 
-[Pub. L. 108–458, title IV, § 4019(e)(2)][/us/pl/108/458/s4019/e/2], Dec. 17, 2004, [118 Stat. 3722][/us/stat/118/3722], provided that: 
+[Pub. L. 108–458, title IV][/us/pl/108/458/tIV], § 4019(e)(2), Dec. 17, 2004, [118 Stat. 3722][/us/stat/118/3722], provided that: 
 
-> “Notwithstanding any other provision of law, the Secretary \[of Homeland Security\] may provide that the period of reimbursement under any letter of intent may extend for a period not to exceed 10 years after the date that the Secretary issues such letter, subject to the availability of appropriations. This paragraph applies to letters of intent issued under [section 44923 of title 49][/us/usc/t49/s44923], United States Code, and letters of intent issued under section 367 of the Department of Transportation and Related Agencies Appropriation Act, 2003 \[[Pub. L. 108–7, div. I][/us/pl/108/7]\] ([49 U.S.C. 47110][/us/usc/t49/s47110] note).”
+> “Notwithstanding any other provision of law, the Secretary \[of Homeland Security\] may provide that the period of reimbursement under any letter of intent may extend for a period not to exceed 10 years after the date that the Secretary issues such letter, subject to the availability of appropriations. This paragraph applies to letters of intent issued under [section 44923 of title 49][/us/usc/t49/s44923], United States Code, and letters of intent issued under section 367 of the Department of Transportation and Related Agencies Appropriation Act, 2003 \[[Pub. L. 108–7, div. I][/us/pl/108/7/dI]\] ([49 U.S.C. 47110][/us/usc/t49/s47110] note).”
 
 ----------
 
@@ -165,32 +165,32 @@
 ----------
 
 [/us/usc/t31/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1501
-[/us/pl/108/176/s605/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs605%2Fa
+[/us/pl/108/176/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtVI
 [/us/stat/117/2566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2566
-[/us/pl/108/458/s4019/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs4019%2Fe%2F1
+[/us/pl/108/458/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtIV
 [/us/stat/118/3722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3722
-[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/110/53/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXVI
 [/us/stat/121/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F480
 [/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
-[/us/pl/110/53/s1604/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1604%2Fa%2F1
-[/us/pl/110/53/s1604/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1604%2Fa%2F2
-[/us/pl/110/53/s1604/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1604%2Fa%2F3
-[/us/pl/110/53/s1604/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1604%2Fa%2F4
-[/us/pl/110/53/s1604/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1604%2Fa%2F6
-[/us/pl/110/53/s1603/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1603%2Fa
-[/us/pl/110/53/s1604/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1604%2Fa%2F5
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/pl/108/176/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106
-[/us/pl/110/53/s1604/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1604%2Fb
+[/us/pl/110/53/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXVI
 [/us/stat/121/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F480
 [/us/usc/t49/s44923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44923
 [/us/usc/t49/s44923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44923
 [/us/usc/t49/s44923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44923
-[/us/pl/108/458/s4019/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs4019%2Fe%2F2
+[/us/pl/108/458/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtIV
 [/us/stat/118/3722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3722
 [/us/usc/t49/s44923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44923
-[/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
+[/us/pl/108/7/dI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdI
 [/us/usc/t49/s47110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs47110
 
 

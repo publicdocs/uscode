@@ -83,7 +83,7 @@
 
  __Amendments__ 
 
-    2001—[Pub. L. 107–71, title I, § 139(5)][/us/pl/107/71/s139/5], Nov. 19, 2001, [115 Stat. 641][/us/stat/115/641], added item 45107.
+    2001—[Pub. L. 107–71, title I][/us/pl/107/71/tI], § 139(5), Nov. 19, 2001, [115 Stat. 641][/us/stat/115/641], added item 45107.
 
 ----------
 
@@ -92,7 +92,7 @@
 ----------
 ----------
 
-[/us/pl/107/71/s139/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs139%2F5
+[/us/pl/107/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2FtI
 [/us/stat/115/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F641
 
 

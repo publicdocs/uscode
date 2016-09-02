@@ -95,21 +95,21 @@
 
     Not later than 18 months after January 1, 1996, the Secretary shall complete a review of the dispute settlement program established under this section. If, after notice and opportunity for comment, the Secretary determines that changes are necessary to such program to ensure the fair and equitable resolution of disputes under this section, the Secretary shall implement such changes and transmit a report to Congress on such changes.
 
-(Added [Pub. L. 104–88, title I, § 103][/us/pl/104/88/s103], Dec. 29, 1995, [109 Stat. 910][/us/stat/109/910]; amended [Pub. L. 104–287, § 5(38)][/us/pl/104/287/s5/38], Oct. 11, 1996, [110 Stat. 3392][/us/stat/110/3392]; [Pub. L. 106–159, title II, § 209(b)][/us/pl/106/159/s209/b], Dec. 9, 1999, [113 Stat. 1764][/us/stat/113/1764]; [Pub. L. 109–59, title IV, § 4208][/us/pl/109/59/s4208], Aug. 10, 2005, [119 Stat. 1757][/us/stat/119/1757].)
+(Added [Pub. L. 104–88, title I][/us/pl/104/88/tI], § 103, Dec. 29, 1995, [109 Stat. 910][/us/stat/109/910]; amended [Pub. L. 104–287][/us/pl/104/287], § 5(38), Oct. 11, 1996, [110 Stat. 3392][/us/stat/110/3392]; [Pub. L. 106–159, title II][/us/pl/106/159/tII], § 209(b), Dec. 9, 1999, [113 Stat. 1764][/us/stat/113/1764]; [Pub. L. 109–59, title IV][/us/pl/109/59/tIV], § 4208, Aug. 10, 2005, [119 Stat. 1757][/us/stat/119/1757].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [section 11711 of this title][/us/usc/t49/s11711] prior to the general amendment of this subtitle by [Pub. L. 104–88, § 102(a)][/us/pl/104/88/s102/a].
+    Provisions similar to those in this section were contained in [section 11711 of this title][/us/usc/t49/s11711] prior to the general amendment of this subtitle by [Pub. L. 104–88][/us/pl/104/88], § 102(a).
 
  __Amendments__ 
 
-    2005—Subsec. (a). [Pub. L. 109–59, § 4208(a)][/us/pl/109/59/s4208/a], inserted “and to determine whether carrier charges, in addition to those collected at delivery, must be paid by shippers for transportation and services related to transportation of household goods” before period at end.
+    2005—Subsec. (a). [Pub. L. 109–59][/us/pl/109/59], § 4208(a), inserted “and to determine whether carrier charges, in addition to those collected at delivery, must be paid by shippers for transportation and services related to transportation of household goods” before period at end.
 
-    Subsec. (b)(6). [Pub. L. 109–59, § 4208(b)][/us/pl/109/59/s4208/b], substituted “$10,000” for “$5,000” in two places.
+    Subsec. (b)(6). [Pub. L. 109–59][/us/pl/109/59], § 4208(b), substituted “$10,000” for “$5,000” in two places.
 
-    Subsec. (b)(8). [Pub. L. 109–59, § 4208(c)][/us/pl/109/59/s4208/c], substituted “compensation for damages, and an order requiring the payment of additional carrier charges” for “and compensation for damages”.
+    Subsec. (b)(8). [Pub. L. 109–59][/us/pl/109/59], § 4208(c), substituted “compensation for damages, and an order requiring the payment of additional carrier charges” for “and compensation for damages”.
 
-    Subsec. (d)(3). [Pub. L. 109–59, § 4208(d)][/us/pl/109/59/s4208/d], added subpar. (A) and redesignated former subpars. (A) and (B) as (B) and (C), respectively.
+    Subsec. (d)(3). [Pub. L. 109–59][/us/pl/109/59], § 4208(d), added subpar. (A) and redesignated former subpars. (A) and (B) as (B) and (C), respectively.
 
     1999—Subsec. (b)(6). [Pub. L. 106–159][/us/pl/106/159] substituted “$5000” for “$1000” in two places.
 
@@ -122,20 +122,20 @@
 ----------
 ----------
 
-[/us/pl/104/88/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs103
+[/us/pl/104/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtI
 [/us/stat/109/910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F910
-[/us/pl/104/287/s5/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F38
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3392
-[/us/pl/106/159/s209/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2Fs209%2Fb
+[/us/pl/106/159/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2FtII
 [/us/stat/113/1764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1764
-[/us/pl/109/59/s4208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4208
+[/us/pl/109/59/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIV
 [/us/stat/119/1757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1757
 [/us/usc/t49/s11711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs11711
-[/us/pl/104/88/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs102%2Fa
-[/us/pl/109/59/s4208/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4208%2Fa
-[/us/pl/109/59/s4208/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4208%2Fb
-[/us/pl/109/59/s4208/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4208%2Fc
-[/us/pl/109/59/s4208/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4208%2Fd
+[/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/106/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 

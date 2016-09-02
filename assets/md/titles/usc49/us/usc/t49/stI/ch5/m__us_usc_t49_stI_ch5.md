@@ -155,9 +155,9 @@ SUBCHAPTER II—PENALTIES  </td>
 
  __Amendments__ 
 
-    1998—[Pub. L. 105–178, title IV, § 4014(a)(2)][/us/pl/105/178/s4014/a/2], June 9, 1998, [112 Stat. 411][/us/stat/112/411], added item 508.
+    1998—[Pub. L. 105–178, title IV][/us/pl/105/178/tIV], § 4014(a)(2), June 9, 1998, [112 Stat. 411][/us/stat/112/411], added item 508.
 
-    1997—[Pub. L. 105–102, § 2(1)][/us/pl/105/102/s2/1], Nov. 20, 1997, [111 Stat. 2204][/us/stat/111/2204], struck out “DUTIES AND” before “POWERS” in item for heading of subchapter I.
+    1997—[Pub. L. 105–102][/us/pl/105/102], § 2(1), Nov. 20, 1997, [111 Stat. 2204][/us/stat/111/2204], struck out “DUTIES AND” before “POWERS” in item for heading of subchapter I.
 
 ----------
 
@@ -166,9 +166,9 @@ SUBCHAPTER II—PENALTIES  </td>
 ----------
 ----------
 
-[/us/pl/105/178/s4014/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4014%2Fa%2F2
+[/us/pl/105/178/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtIV
 [/us/stat/112/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F411
-[/us/pl/105/102/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102%2Fs2%2F1
+[/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/stat/111/2204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2204
 
 

@@ -17,7 +17,7 @@
 
     The annual budget the Secretary of Transportation submits shall include a specific request for the Office of the Director of Intelligence and Security. In deciding on the budget request for the Office, the Secretary shall consider recommendations in the annual report submitted under [section 44938(a) of this title][/us/usc/t49/s44938/a].
 
-([Pub. L. 103–272, § 4(j)(10)(A)][/us/pl/103/272/s4/j/10/A], July 5, 1994, [108 Stat. 1367][/us/stat/108/1367].)
+([Pub. L. 103–272][/us/pl/103/272], § 4(j)(10)(A), July 5, 1994, [108 Stat. 1367][/us/stat/108/1367].)
 
 <table>
 
@@ -75,7 +75,7 @@ Nov. 16, 1990, Pub. L. 101–604, § 102(d), 104 Stat. 3069.  </td>
 ----------
 
 [/us/usc/t49/s44938/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44938%2Fa
-[/us/pl/103/272/s4/j/10/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs4%2Fj%2F10%2FA
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1367
 
 

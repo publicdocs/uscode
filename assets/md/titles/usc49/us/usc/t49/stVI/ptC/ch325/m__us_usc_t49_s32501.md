@@ -17,7 +17,7 @@
 
     The purpose of this chapter is to reduce economic loss resulting from damage to passenger motor vehicles involved in motor vehicle accidents by providing for the maintenance and enforcement of bumper standards.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1042][/us/stat/108/1042].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1042][/us/stat/108/1042].)
 
 <table>
 
@@ -74,7 +74,7 @@ Oct. 20, 1972, Pub. L. 92–513, § 101, 86 Stat. 948.  </td>
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1042
 
 

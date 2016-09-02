@@ -45,7 +45,7 @@
 
     There is authorized to be appropriated to the Secretary of Transportation for carrying out this section $1,500,000 for each of fiscal years 2012 through 2015. Such amounts shall not be derived from user fees collected under section 60301.
 
-(Added [Pub. L. 107–355, § 9(a)][/us/pl/107/355/s9/a], Dec. 17, 2002, [116 Stat. 2994][/us/stat/116/2994]; amended [Pub. L. 109–468, § 5][/us/pl/109/468/s5], Dec. 29, 2006, [120 Stat. 3490][/us/stat/120/3490]; [Pub. L. 112–90, § 32(e)][/us/pl/112/90/s32/e], Jan. 3, 2012, [125 Stat. 1923][/us/stat/125/1923]; [Pub. L. 113–188, title XV, § 1501(c)][/us/pl/113/188/s1501/c], Nov. 26, 2014, [128 Stat. 2024][/us/stat/128/2024].)
+(Added [Pub. L. 107–355][/us/pl/107/355], § 9(a), Dec. 17, 2002, [116 Stat. 2994][/us/stat/116/2994]; amended [Pub. L. 109–468][/us/pl/109/468], § 5, Dec. 29, 2006, [120 Stat. 3490][/us/stat/120/3490]; [Pub. L. 112–90][/us/pl/112/90], § 32(e), Jan. 3, 2012, [125 Stat. 1923][/us/stat/125/1923]; [Pub. L. 113–188, title XV][/us/pl/113/188/tXV], § 1501(c), Nov. 26, 2014, [128 Stat. 2024][/us/stat/128/2024].)
 
  __References in Text__ 
 
@@ -55,17 +55,17 @@
 
     2014—Subsecs. (c), (d). [Pub. L. 113–188][/us/pl/113/188] redesignated subsec. (d) as (c) and struck out former subsec. (c) which required annual reports on grants made under this section.
 
-    2012—Subsec. (a)(1). [Pub. L. 112–90, § 32(e)(1)][/us/pl/112/90/s32/e/1], substituted “$100,000” for “$50,000”.
+    2012—Subsec. (a)(1). [Pub. L. 112–90][/us/pl/112/90], § 32(e)(1), substituted “$100,000” for “$50,000”.
 
-    Subsec. (b). [Pub. L. 112–90, § 32(e)(2)][/us/pl/112/90/s32/e/2], inserted “to grant recipients and their contractors” after “this section” and “, for direct advocacy for or against a pipeline construction or expansion project,” after “for lobbying”.
+    Subsec. (b). [Pub. L. 112–90][/us/pl/112/90], § 32(e)(2), inserted “to grant recipients and their contractors” after “this section” and “, for direct advocacy for or against a pipeline construction or expansion project,” after “for lobbying”.
 
-    Subsec. (d). [Pub. L. 112–90, § 32(e)(3)][/us/pl/112/90/s32/e/3], substituted “$1,500,000 for each of fiscal years 2012 through 2015” for “$1,000,000 for each of the fiscal years 2003 through 2010”.
+    Subsec. (d). [Pub. L. 112–90][/us/pl/112/90], § 32(e)(3), substituted “$1,500,000 for each of fiscal years 2012 through 2015” for “$1,000,000 for each of the fiscal years 2003 through 2010”.
 
-    2006—Subsec. (a)(1). [Pub. L. 109–468, § 5(1)][/us/pl/109/468/s5/1], substituted “No grants may be awarded under section 60114(g) until the Secretary has established competitive” for “The Secretary shall establish competitive”.
+    2006—Subsec. (a)(1). [Pub. L. 109–468][/us/pl/109/468], § 5(1), substituted “No grants may be awarded under section 60114(g) until the Secretary has established competitive” for “The Secretary shall establish competitive”.
 
-    Subsec. (a)(2) to (4). [Pub. L. 109–468, § 5(2)][/us/pl/109/468/s5/2], (3), added pars. (2) and (3) and redesignated former par. (2) as (4).
+    Subsec. (a)(2) to (4). [Pub. L. 109–468][/us/pl/109/468], § 5(2), (3), added pars. (2) and (3) and redesignated former par. (2) as (4).
 
-    Subsec. (d). [Pub. L. 109–468, § 5(4)][/us/pl/109/468/s5/4], substituted “2010” for “2006”.
+    Subsec. (d). [Pub. L. 109–468][/us/pl/109/468], § 5(4), substituted “2010” for “2006”.
 
 ----------
 
@@ -76,24 +76,24 @@
 
 [/us/pl/93/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F153
 [/us/usc/t43/s1651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1651
-[/us/pl/107/355/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355%2Fs9%2Fa
+[/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355
 [/us/stat/116/2994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2994
-[/us/pl/109/468/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F468%2Fs5
+[/us/pl/109/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F468
 [/us/stat/120/3490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3490
-[/us/pl/112/90/s32/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90%2Fs32%2Fe
+[/us/pl/112/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90
 [/us/stat/125/1923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1923
-[/us/pl/113/188/s1501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs1501%2Fc
+[/us/pl/113/188/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2FtXV
 [/us/stat/128/2024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2024
 [/us/pl/93/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F153
 [/us/pl/93/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F153
 [/us/stat/87/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F576
 [/us/usc/t43/s1651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1651
 [/us/pl/113/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188
-[/us/pl/112/90/s32/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90%2Fs32%2Fe%2F1
-[/us/pl/112/90/s32/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90%2Fs32%2Fe%2F2
-[/us/pl/112/90/s32/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90%2Fs32%2Fe%2F3
-[/us/pl/109/468/s5/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F468%2Fs5%2F1
-[/us/pl/109/468/s5/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F468%2Fs5%2F2
-[/us/pl/109/468/s5/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F468%2Fs5%2F4
+[/us/pl/112/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90
+[/us/pl/112/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90
+[/us/pl/112/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90
+[/us/pl/109/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F468
+[/us/pl/109/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F468
+[/us/pl/109/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F468
 
 

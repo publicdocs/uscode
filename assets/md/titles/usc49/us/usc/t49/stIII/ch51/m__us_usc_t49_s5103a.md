@@ -141,7 +141,7 @@
 
         In this subsection, the term “commercial motor vehicle” has the meaning given that term by section 31101.
 
-(Added [Pub. L. 107–56, title X, § 1012(a)(1)][/us/pl/107/56/s1012/a/1], Oct. 26, 2001, [115 Stat. 396][/us/stat/115/396]; amended [Pub. L. 109–59, title VII][/us/pl/109/59], §§ 7104, 7105, 7126, Aug. 10, 2005, [119 Stat. 1894][/us/stat/119/1894], 1909; [Pub. L. 110–53, title XV, § 1556(a)][/us/pl/110/53/s1556/a], Aug. 3, 2007, [121 Stat. 475][/us/stat/121/475]; [Pub. L. 110–244, title III, § 302(b)][/us/pl/110/244/s302/b], June 6, 2008, [122 Stat. 1618][/us/stat/122/1618].)
+(Added [Pub. L. 107–56, title X][/us/pl/107/56/tX], § 1012(a)(1), Oct. 26, 2001, [115 Stat. 396][/us/stat/115/396]; amended [Pub. L. 109–59, title VII][/us/pl/109/59/tVII], §§ 7104, 7105, 7126, Aug. 10, 2005, [119 Stat. 1894][/us/stat/119/1894], 1909; [Pub. L. 110–53, title XV][/us/pl/110/53/tXV], § 1556(a), Aug. 3, 2007, [121 Stat. 475][/us/stat/121/475]; [Pub. L. 110–244, title III][/us/pl/110/244/tIII], § 302(b), June 6, 2008, [122 Stat. 1618][/us/stat/122/1618].)
 
  __References in Text__ 
 
@@ -153,41 +153,41 @@
 
     2008—Subsec. (g)(1)(B)(ii). [Pub. L. 110–244][/us/pl/110/244] substituted “subsection” for “Act”.
 
-    2007—Subsec. (a)(1). [Pub. L. 110–53, § 1556(a)(1)][/us/pl/110/53/s1556/a/1], substituted “Secretary of Homeland Security” for “Secretary”.
+    2007—Subsec. (a)(1). [Pub. L. 110–53][/us/pl/110/53], § 1556(a)(1), substituted “Secretary of Homeland Security” for “Secretary”.
 
-    Subsec. (b). [Pub. L. 110–53, § 1556(a)(2)][/us/pl/110/53/s1556/a/2], substituted “Secretary of Transportation” for “Secretary” in two places.
+    Subsec. (b). [Pub. L. 110–53][/us/pl/110/53], § 1556(a)(2), substituted “Secretary of Transportation” for “Secretary” in two places.
 
-    Subsec. (d)(1)(B). [Pub. L. 110–53, § 1556(a)(3)][/us/pl/110/53/s1556/a/3], substituted “Secretary of Homeland Security” for “Secretary”.
+    Subsec. (d)(1)(B). [Pub. L. 110–53][/us/pl/110/53], § 1556(a)(3), substituted “Secretary of Homeland Security” for “Secretary”.
 
-    Subsec. (e). [Pub. L. 110–53, § 1556(a)(4)][/us/pl/110/53/s1556/a/4], substituted “Secretary of Homeland Security” for “Secretary” wherever appearing.
+    Subsec. (e). [Pub. L. 110–53][/us/pl/110/53], § 1556(a)(4), substituted “Secretary of Homeland Security” for “Secretary” wherever appearing.
 
-    2005—Subsec. (a)(1). [Pub. L. 109–59, § 7126][/us/pl/109/59/s7126], substituted “Secretary” for “Secretary of Transportation”.
+    2005—Subsec. (a)(1). [Pub. L. 109–59][/us/pl/109/59], § 7126, substituted “Secretary” for “Secretary of Transportation”.
 
-    [Pub. L. 109–59, § 7104(c)][/us/pl/109/59/s7104/c], substituted “subsection (d)(1)(B),” for “subsection (c)(1)(B),”.
+    [Pub. L. 109–59][/us/pl/109/59], § 7104(c), substituted “subsection (d)(1)(B),” for “subsection (c)(1)(B),”.
 
-    Subsec. (b). [Pub. L. 109–59, § 7104(a)][/us/pl/109/59/s7104/a], substituted “with respect to any material defined as hazardous material by the Secretary for which the Secretary requires placarding of a commercial motor vehicle transporting that material in commerce” for “with respect to—
+    Subsec. (b). [Pub. L. 109–59][/us/pl/109/59], § 7104(a), substituted “with respect to any material defined as hazardous material by the Secretary for which the Secretary requires placarding of a commercial motor vehicle transporting that material in commerce” for “with respect to—
 
     “(1) any material defined as a hazardous material by the Secretary of Transportation; and
 
     “(2) any chemical or biological material or agent determined by the Secretary of Health and Human Services or the Attorney General as being a threat to the national security of the United States”.
 
-    Subsec. (c). [Pub. L. 109–59, § 7104(b)(2)][/us/pl/109/59/s7104/b/2], added subsec. (c). Former subsec. (c) redesignated (d).
+    Subsec. (c). [Pub. L. 109–59][/us/pl/109/59], § 7104(b)(2), added subsec. (c). Former subsec. (c) redesignated (d).
 
-    Subsec. (d). [Pub. L. 109–59, § 7104(b)(1)][/us/pl/109/59/s7104/b/1], redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
+    Subsec. (d). [Pub. L. 109–59][/us/pl/109/59], § 7104(b)(1), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-    Subsec. (d)(1)(B). [Pub. L. 109–59, § 7126][/us/pl/109/59/s7126], substituted “Secretary” for “Secretary of Transportation”.
+    Subsec. (d)(1)(B). [Pub. L. 109–59][/us/pl/109/59], § 7126, substituted “Secretary” for “Secretary of Transportation”.
 
-    Subsec. (e). [Pub. L. 109–59, § 7126][/us/pl/109/59/s7126], substituted “submit to the Secretary” for “submit to the Secretary of Transportation” in introductory provisions.
+    Subsec. (e). [Pub. L. 109–59][/us/pl/109/59], § 7126, substituted “submit to the Secretary” for “submit to the Secretary of Transportation” in introductory provisions.
 
-    [Pub. L. 109–59, § 7104(b)(1)][/us/pl/109/59/s7104/b/1], redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
+    [Pub. L. 109–59][/us/pl/109/59], § 7104(b)(1), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
-    Subsec. (f). [Pub. L. 109–59, § 7104(b)(1)][/us/pl/109/59/s7104/b/1], redesignated subsec. (e) as (f).
+    Subsec. (f). [Pub. L. 109–59][/us/pl/109/59], § 7104(b)(1), redesignated subsec. (e) as (f).
 
-    Subsecs. (g), (h). [Pub. L. 109–59, § 7105][/us/pl/109/59/s7105], added subsecs. (g) and (h).
+    Subsecs. (g), (h). [Pub. L. 109–59][/us/pl/109/59], § 7105, added subsecs. (g) and (h).
 
  __Authorization of Appropriations__ 
 
-[Pub. L. 107–56, title X, § 1012(c)][/us/pl/107/56/s1012/c], Oct. 26, 2001, [115 Stat. 398][/us/stat/115/398], provided that: 
+[Pub. L. 107–56, title X][/us/pl/107/56/tX], § 1012(c), Oct. 26, 2001, [115 Stat. 398][/us/stat/115/398], provided that: 
 
 > “There is authorized to be appropriated for the Department of Transportation and the Department of Justice such amounts as may be necessary to carry out [section 5103a of title 49][/us/usc/t49/s5103a], United States Code, as added by subsection (a).”
 
@@ -198,32 +198,32 @@
 ----------
 ----------
 
-[/us/pl/107/56/s1012/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs1012%2Fa%2F1
+[/us/pl/107/56/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtX
 [/us/stat/115/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F396
-[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtVII
 [/us/stat/119/1894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1894
-[/us/pl/110/53/s1556/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1556%2Fa
+[/us/pl/110/53/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXV
 [/us/stat/121/475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F475
-[/us/pl/110/244/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs302%2Fb
+[/us/pl/110/244/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2FtIII
 [/us/stat/122/1618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1618
 [/us/usc/t8/s1101/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F3
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
-[/us/pl/110/53/s1556/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1556%2Fa%2F1
-[/us/pl/110/53/s1556/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1556%2Fa%2F2
-[/us/pl/110/53/s1556/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1556%2Fa%2F3
-[/us/pl/110/53/s1556/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1556%2Fa%2F4
-[/us/pl/109/59/s7126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7126
-[/us/pl/109/59/s7104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7104%2Fc
-[/us/pl/109/59/s7104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7104%2Fa
-[/us/pl/109/59/s7104/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7104%2Fb%2F2
-[/us/pl/109/59/s7104/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7104%2Fb%2F1
-[/us/pl/109/59/s7126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7126
-[/us/pl/109/59/s7126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7126
-[/us/pl/109/59/s7104/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7104%2Fb%2F1
-[/us/pl/109/59/s7104/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7104%2Fb%2F1
-[/us/pl/109/59/s7105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7105
-[/us/pl/107/56/s1012/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs1012%2Fc
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/107/56/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtX
 [/us/stat/115/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F398
 [/us/usc/t49/s5103a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5103a
 

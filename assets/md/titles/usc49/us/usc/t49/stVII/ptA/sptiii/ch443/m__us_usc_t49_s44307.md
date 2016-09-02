@@ -33,7 +33,7 @@
 
     The Secretary of Transportation shall deposit annually an amount in the Treasury as miscellaneous receipts to cover the expenses the Government incurs when the Secretary of Transportation uses appropriated amounts in carrying out this chapter. The deposited amount shall equal an amount determined by multiplying the average monthly balance of appropriated amounts retained in the revolving fund by a percentage that is at least the current average rate payable on marketable obligations of the Government. The Secretary of the Treasury shall determine annually in advance the percentage applied.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1170][/us/stat/108/1170].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1170][/us/stat/108/1170].)
 
 <table>
 
@@ -140,7 +140,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 1306(f); added Aug. 9, 1975,
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1170
 
 

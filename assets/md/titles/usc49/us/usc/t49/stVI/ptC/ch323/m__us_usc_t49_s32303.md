@@ -49,7 +49,7 @@
 
     In distributing information received under this section, the Secretary may disclose identifying information about a person that may be an insured, a claimant, a passenger, an owner, a witness, or an individual involved in a motor vehicle accident, only with the consent of the person.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1036][/us/stat/108/1036].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1036][/us/stat/108/1036].)
 
 <table>
 
@@ -142,7 +142,7 @@ Oct. 20, 1972, Pub. L. 92–513, § 205, 86 Stat. 958.  </td>
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1036
 
 

@@ -53,7 +53,7 @@
 
     The hours of service, duty hours, and rest periods of signal employees shall be governed exclusively by this chapter. Signal employees operating motor vehicles shall not be subject to any hours of service rules, duty hours or rest period rules promulgated by any Federal authority, including the Federal Motor Carrier Safety Administration, other than the Federal Railroad Administration.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 889][/us/stat/108/889]; [Pub. L. 110–432, div. A, title I, § 108(c)][/us/pl/110/432/s108/c], Oct. 16, 2008, [122 Stat. 4862][/us/stat/122/4862].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 889][/us/stat/108/889]; [Pub. L. 110–432, div. A, title I][/us/pl/110/432/dA/tI], § 108(c), Oct. 16, 2008, [122 Stat. 4862][/us/stat/122/4862].)
 
 <table>
 
@@ -175,13 +175,13 @@ Mar. 4, 1907, ch. 2939, 34 Stat. 1415, § 3A(f); added July 8, 1976, Pub. L. 9
 
  __Amendments__ 
 
-    2008—Subsec. (a). [Pub. L. 110–432, § 108(c)(1)][/us/pl/110/432/s108/c/1], added subsec. (a) and struck out former subsec. (a) which limited the amount of time spent on duty by signal employees.
+    2008—Subsec. (a). [Pub. L. 110–432][/us/pl/110/432], § 108(c)(1), added subsec. (a) and struck out former subsec. (a) which limited the amount of time spent on duty by signal employees.
 
-    Subsec. (b)(3). [Pub. L. 110–432, § 108(c)(2)][/us/pl/110/432/s108/c/2], substituted “duty.” for “duty, except that up to one hour of that time spent returning from the final trouble call of a period of continuous or broken service is time off duty.”
+    Subsec. (b)(3). [Pub. L. 110–432][/us/pl/110/432], § 108(c)(2), substituted “duty.” for “duty, except that up to one hour of that time spent returning from the final trouble call of a period of continuous or broken service is time off duty.”
 
-    Subsec. (c). [Pub. L. 110–432, § 108(c)(3)][/us/pl/110/432/s108/c/3], inserted at end “A signal employee may not be allowed to remain or go on duty under the emergency authority provided under this subsection to conduct routine repairs, routine maintenance, or routine inspection of signal systems.”
+    Subsec. (c). [Pub. L. 110–432][/us/pl/110/432], § 108(c)(3), inserted at end “A signal employee may not be allowed to remain or go on duty under the emergency authority provided under this subsection to conduct routine repairs, routine maintenance, or routine inspection of signal systems.”
 
-    Subsecs. (d), (e). [Pub. L. 110–432, § 108(c)(4)][/us/pl/110/432/s108/c/4], added subsecs. (d) and (e).
+    Subsecs. (d), (e). [Pub. L. 110–432][/us/pl/110/432], § 108(c)(4), added subsecs. (d) and (e).
 
  __Effective Date of 2008 Amendment__ 
 
@@ -194,14 +194,14 @@ Mar. 4, 1907, ch. 2939, 34 Stat. 1415, § 3A(f); added July 8, 1976, Pub. L. 9
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F889
-[/us/pl/110/432/s108/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs108%2Fc
+[/us/pl/110/432/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdA%2FtI
 [/us/stat/122/4862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4862
-[/us/pl/110/432/s108/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs108%2Fc%2F1
-[/us/pl/110/432/s108/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs108%2Fc%2F2
-[/us/pl/110/432/s108/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs108%2Fc%2F3
-[/us/pl/110/432/s108/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs108%2Fc%2F4
+[/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
+[/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
+[/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
+[/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
 [/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
 [/us/pl/110/432/s108/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs108%2Fg
 [/us/usc/t49/s21101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs21101

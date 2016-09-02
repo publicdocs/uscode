@@ -47,7 +47,7 @@
 
         (3) An application under this subsection may not be dismissed under [section 41108(b)(1)(C) of this title][/us/usc/t49/s41108/b/1/C].
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1123][/us/stat/108/1123]; [Pub. L. 104–287, § 5(70)][/us/pl/104/287/s5/70], Oct. 11, 1996, [110 Stat. 3396][/us/stat/110/3396].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1123][/us/stat/108/1123]; [Pub. L. 104–287][/us/pl/104/287], § 5(70), Oct. 11, 1996, [110 Stat. 3396][/us/stat/110/3396].)
 
 <table>
 
@@ -292,9 +292,9 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 401(e)(7)(B); added Oct. 24,
 [/us/usc/t49/s41102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs41102
 [/us/usc/t49/s41111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs41111
 [/us/usc/t49/s41108/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs41108%2Fb%2F1%2FC
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1123
-[/us/pl/104/287/s5/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F70
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3396
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/act/1994-07-05/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1994-07-05%2Fs1

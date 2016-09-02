@@ -23,7 +23,7 @@
 
     (3) board passengers, or load property intended to be carried in an aircraft cabin, that will be screened under [section 44901 of this title][/us/usc/t49/s44901] at another airport in Alaska before the passengers board, or the property is loaded on, an aircraft for a place outside Alaska.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1215][/us/stat/108/1215]; [Pub. L. 107–71, title I, § 101(f)(7)][/us/pl/107/71/s101/f/7], (9), Nov. 19, 2001, [115 Stat. 603][/us/stat/115/603].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1215][/us/stat/108/1215]; [Pub. L. 107–71, title I][/us/pl/107/71/tI], § 101(f)(7), (9), Nov. 19, 2001, [115 Stat. 603][/us/stat/115/603].)
 
 <table>
 
@@ -92,9 +92,9 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 317; added July 12, 1976, Pu
 
 [/us/usc/t49/s41102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs41102
 [/us/usc/t49/s44901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44901
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1215
-[/us/pl/107/71/s101/f/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs101%2Ff%2F7
+[/us/pl/107/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2FtI
 [/us/stat/115/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F603
 [/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542

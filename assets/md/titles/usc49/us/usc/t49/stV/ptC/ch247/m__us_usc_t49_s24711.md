@@ -153,13 +153,13 @@
 
     Nothing in this section shall affect Amtrak’s access rights to railroad rights-of-way and facilities.
 
-(Added [Pub. L. 110–432, div. B, title II, § 214(a)][/us/pl/110/432/s214/a], Oct. 16, 2008, [122 Stat. 4927][/us/stat/122/4927]; amended [Pub. L. 114–94, div. A, title XI, § 11307(a)][/us/pl/114/94/s11307/a], Dec. 4, 2015, [129 Stat. 1660][/us/stat/129/1660].)
+(Added [Pub. L. 110–432, div. B, title II][/us/pl/110/432/dB/tII], § 214(a), Oct. 16, 2008, [122 Stat. 4927][/us/stat/122/4927]; amended [Pub. L. 114–94, div. A, title XI][/us/pl/114/94/dA/tXI], § 11307(a), Dec. 4, 2015, [129 Stat. 1660][/us/stat/129/1660].)
 
  __References in Text__ 
 
     The date of enactment of the Passenger Rail Reform and Investment Act of 2015, referred to in subsecs. (a) and (f), is the date of enactment of title XI of div. A of [Pub. L. 114–94][/us/pl/114/94], which was approved Dec. 4, 2015.
 
-    Section 11101 of the Passenger Rail Reform and Investment Act of 2015, referred to in subsec. (e), is [section 11101 of title XI of div. A of Pub. L. 114–94][/us/pl/114/94/s11101], Dec. 4, 2015, [129 Stat. 1622][/us/stat/129/1622], which is not classified to the Code.
+    Section 11101 of the Passenger Rail Reform and Investment Act of 2015, referred to in subsec. (e), is [section 11101 of title XI of div. A of Pub. L. 114–94][/us/pl/114/94/dA/tXI/s11101], Dec. 4, 2015, [129 Stat. 1622][/us/stat/129/1622], which is not classified to the Code.
 
  __Amendments__ 
 
@@ -175,13 +175,13 @@
 
  __Report__ 
 
-[Pub. L. 114–94, div. A, title XI, § 11307(c)][/us/pl/114/94/s11307/c], Dec. 4, 2015, [129 Stat. 1664][/us/stat/129/1664], provided that: 
+[Pub. L. 114–94, div. A, title XI][/us/pl/114/94/dA/tXI], § 11307(c), Dec. 4, 2015, [129 Stat. 1664][/us/stat/129/1664], provided that: 
 
 > “Not later than 4 years after the date of implementation of the pilot program under [section 24711 of title 49][/us/usc/t49/s24711], United States Code, and quadrennially thereafter until the pilot program is discontinued, the Secretary \[of Transportation\] shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the results of the pilot program to date and any recommendations for further action.”
 
  __Employee Transition Assistance__ 
 
-[Pub. L. 110–432, div. B, title II, § 215][/us/pl/110/432/s215], Oct. 16, 2008, [122 Stat. 4929][/us/stat/122/4929], provided that:
+[Pub. L. 110–432, div. B, title II][/us/pl/110/432/dB/tII], § 215, Oct. 16, 2008, [122 Stat. 4929][/us/stat/122/4929], provided that:
 
 >     “(a)  __Provision of Financial Incentives__  __.—__ 
 
@@ -218,12 +218,12 @@
 ----------
 ----------
 
-[/us/pl/110/432/s214/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs214%2Fa
+[/us/pl/110/432/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdB%2FtII
 [/us/stat/122/4927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4927
-[/us/pl/114/94/s11307/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11307%2Fa
+[/us/pl/114/94/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtXI
 [/us/stat/129/1660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1660
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
-[/us/pl/114/94/s11101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11101
+[/us/pl/114/94/dA/tXI/s11101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtXI%2Fs11101
 [/us/stat/129/1622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1622
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
@@ -231,10 +231,10 @@
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/111/314/s4/d/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314%2Fs4%2Fd%2F8
 [/us/usc/t49/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs101
-[/us/pl/114/94/s11307/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11307%2Fc
+[/us/pl/114/94/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtXI
 [/us/stat/129/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1664
 [/us/usc/t49/s24711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24711
-[/us/pl/110/432/s215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs215
+[/us/pl/110/432/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdB%2FtII
 [/us/stat/122/4929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4929
 [/us/usc/t49/s24711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24711
 [/us/usc/t49/s24711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24711

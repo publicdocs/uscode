@@ -31,7 +31,7 @@
 
     The requirement for air carriers providing foreign air transportation may not be more stringent than the requirement for foreign air carriers.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1287][/us/stat/108/1287].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1287][/us/stat/108/1287].)
 
 <table>
 
@@ -115,13 +115,13 @@ Feb. 18, 1980, Pub. L. 96–193, § 302(a), 94 Stat. 56.  </td>
 
  __Implementation of Chapter 4 Noise Standards__ 
 
-[Pub. L. 108–176, title III, § 325][/us/pl/108/176/s325], Dec. 12, 2003, [117 Stat. 2542][/us/stat/117/2542], provided that: 
+[Pub. L. 108–176, title III][/us/pl/108/176/tIII], § 325, Dec. 12, 2003, [117 Stat. 2542][/us/stat/117/2542], provided that: 
 
 > “Not later than April 1, 2005, the Secretary of Transportation shall issue final regulations to implement Chapter 4 noise standards, consistent with the recommendations adopted by the International Civil Aviation Organization.”
 
  __Standards for Aircraft and Aircraft Engines To Reduce Noise Levels__ 
 
-[Pub. L. 106–181, title VII, § 726][/us/pl/106/181/s726], Apr. 5, 2000, [114 Stat. 167][/us/stat/114/167], as amended by [Pub. L. 113–188, title XV, § 1501(f)][/us/pl/113/188/s1501/f], Nov. 26, 2014, [128 Stat. 2025][/us/stat/128/2025], provided that:
+[Pub. L. 106–181, title VII][/us/pl/106/181/tVII], § 726, Apr. 5, 2000, [114 Stat. 167][/us/stat/114/167], as amended by [Pub. L. 113–188, title XV][/us/pl/113/188/tXV], § 1501(f), Nov. 26, 2014, [128 Stat. 2025][/us/stat/128/2025], provided that:
 
 >     “(a)  __Development of New Standards__  __.—__ 
 
@@ -143,7 +143,7 @@ Feb. 18, 1980, Pub. L. 96–193, § 302(a), 94 Stat. 56.  </td>
 
  __Aircraft Noise Research Program__ 
 
-[Pub. L. 102–581, title III, § 304][/us/pl/102/581/s304], Oct. 31, 1992, [106 Stat. 4896][/us/stat/106/4896], as amended by [Pub. L. 109–155, title VII, § 706(b)][/us/pl/109/155/s706/b], Dec. 30, 2005, [119 Stat. 2937][/us/stat/119/2937], provided that:
+[Pub. L. 102–581, title III][/us/pl/102/581/tIII], § 304, Oct. 31, 1992, [106 Stat. 4896][/us/stat/106/4896], as amended by [Pub. L. 109–155, title VII][/us/pl/109/155/tVII], § 706(b), Dec. 30, 2005, [119 Stat. 2937][/us/stat/119/2937], provided that:
 
 >     “(a)  __Establishment__  __.—__ 
 
@@ -168,19 +168,19 @@ Feb. 18, 1980, Pub. L. 96–193, § 302(a), 94 Stat. 56.  </td>
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1287
 [/us/pl/89/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670
 [/us/stat/80/938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F938
-[/us/pl/108/176/s325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs325
+[/us/pl/108/176/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtIII
 [/us/stat/117/2542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2542
-[/us/pl/106/181/s726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs726
+[/us/pl/106/181/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtVII
 [/us/stat/114/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F167
-[/us/pl/113/188/s1501/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs1501%2Ff
+[/us/pl/113/188/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2FtXV
 [/us/stat/128/2025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2025
-[/us/pl/102/581/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F581%2Fs304
+[/us/pl/102/581/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F581%2FtIII
 [/us/stat/106/4896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4896
-[/us/pl/109/155/s706/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F155%2Fs706%2Fb
+[/us/pl/109/155/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F155%2FtVII
 [/us/stat/119/2937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2937
 
 

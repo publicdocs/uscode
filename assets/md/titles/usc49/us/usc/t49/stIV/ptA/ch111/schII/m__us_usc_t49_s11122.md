@@ -27,11 +27,11 @@
 
     (b) The rate of compensation to be paid for each type of freight car shall be determined by the expense of owning and maintaining that type of freight car, including a fair return on its cost giving consideration to current costs of capital, repairs, materials, parts, and labor. In determining the rate of compensation, the Board shall consider the transportation use of each type of freight car, the national level of ownership of each type of freight car, and other factors that affect the adequacy of the national freight car supply.
 
-(Added [Pub. L. 104–88, title I, § 102(a)][/us/pl/104/88/s102/a], Dec. 29, 1995, [109 Stat. 832][/us/stat/109/832].)
+(Added [Pub. L. 104–88, title I][/us/pl/104/88/tI], § 102(a), Dec. 29, 1995, [109 Stat. 832][/us/stat/109/832].)
 
  __Prior Provisions__ 
 
-    A prior section 11122, [Pub. L. 95–473][/us/pl/95/473], Oct. 17, 1978, [92 Stat. 1421][/us/stat/92/1421]; [Pub. L. 96–448, title II, § 224(a)][/us/pl/96/448/s224/a], Oct. 14, 1980, [94 Stat. 1929][/us/stat/94/1929], related to use of and compensation for freight cars, prior to the general amendment of this subtitle by [Pub. L. 104–88, § 102(a)][/us/pl/104/88/s102/a].
+    A prior section 11122, [Pub. L. 95–473][/us/pl/95/473], Oct. 17, 1978, [92 Stat. 1421][/us/stat/92/1421]; [Pub. L. 96–448, title II][/us/pl/96/448/tII], § 224(a), Oct. 14, 1980, [94 Stat. 1929][/us/stat/94/1929], related to use of and compensation for freight cars, prior to the general amendment of this subtitle by [Pub. L. 104–88][/us/pl/104/88], § 102(a).
 
 ----------
 
@@ -40,12 +40,12 @@
 ----------
 ----------
 
-[/us/pl/104/88/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs102%2Fa
+[/us/pl/104/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtI
 [/us/stat/109/832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F832
 [/us/pl/95/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F473
 [/us/stat/92/1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1421
-[/us/pl/96/448/s224/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F448%2Fs224%2Fa
+[/us/pl/96/448/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F448%2FtII
 [/us/stat/94/1929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1929
-[/us/pl/104/88/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs102%2Fa
+[/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 
 

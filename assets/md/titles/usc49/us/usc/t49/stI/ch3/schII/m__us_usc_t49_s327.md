@@ -45,7 +45,7 @@
 
     (d) The fund shall be reimbursed, in advance, from amounts available to the Department or from other sources, for supplies and services at rates that will approximate the expenses of operation, including the accrual of annual leave and the depreciation of equipment. Amounts in the fund, in excess of amounts transferred or appropriated to maintain the fund, shall be deposited in the Treasury as miscellaneous receipts. All assets, liabilities, and prior losses are considered in determining the amount of the excess.
 
-([Pub. L. 97–449, § 1(b)][/us/pl/97/449/s1/b], Jan. 12, 1983, [96 Stat. 2425][/us/stat/96/2425].)
+([Pub. L. 97–449][/us/pl/97/449], § 1(b), Jan. 12, 1983, [96 Stat. 2425][/us/stat/96/2425].)
 
 <table>
 
@@ -150,7 +150,7 @@ Oct. 15, 1966, Pub. L. 89–670, § 9(j), 80 Stat. 945.  </td>
 ----------
 ----------
 
-[/us/pl/97/449/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449%2Fs1%2Fb
+[/us/pl/97/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449
 [/us/stat/96/2425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2425
 
 

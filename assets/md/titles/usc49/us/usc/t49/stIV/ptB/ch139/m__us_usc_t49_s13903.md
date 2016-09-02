@@ -43,25 +43,25 @@
 
     The Secretary shall require a freight forwarder to update its registration under this section not later than 30 days after a change in the freight forwarder’s address, other contact information, officers, process agent, or other essential information, as determined by the Secretary.
 
-(Added [Pub. L. 104–88, title I, § 103][/us/pl/104/88/s103], Dec. 29, 1995, [109 Stat. 884][/us/stat/109/884]; amended [Pub. L. 109–59, title IV, § 4142(b)][/us/pl/109/59/s4142/b], Aug. 10, 2005, [119 Stat. 1747][/us/stat/119/1747]; [Pub. L. 110–244, title III, § 305(d)][/us/pl/110/244/s305/d], June 6, 2008, [122 Stat. 1620][/us/stat/122/1620]; [Pub. L. 112–141, div. C, title II][/us/pl/112/141], §§ 32107(b), 32916(a), July 6, 2012, [126 Stat. 782][/us/stat/126/782], 820; [Pub. L. 114–94, div. A, title V, § 5508(a)(2)][/us/pl/114/94/s5508/a/2], Dec. 4, 2015, [129 Stat. 1554][/us/stat/129/1554].)
+(Added [Pub. L. 104–88, title I][/us/pl/104/88/tI], § 103, Dec. 29, 1995, [109 Stat. 884][/us/stat/109/884]; amended [Pub. L. 109–59, title IV][/us/pl/109/59/tIV], § 4142(b), Aug. 10, 2005, [119 Stat. 1747][/us/stat/119/1747]; [Pub. L. 110–244, title III][/us/pl/110/244/tIII], § 305(d), June 6, 2008, [122 Stat. 1620][/us/stat/122/1620]; [Pub. L. 112–141, div. C, title II][/us/pl/112/141/dC/tII], §§ 32107(b), 32916(a), July 6, 2012, [126 Stat. 782][/us/stat/126/782], 820; [Pub. L. 114–94, div. A, title V][/us/pl/114/94/dA/tV], § 5508(a)(2), Dec. 4, 2015, [129 Stat. 1554][/us/stat/129/1554].)
 
  __Amendments__ 
 
     2015—Subsec. (d). [Pub. L. 114–94][/us/pl/114/94] struck out par. (1) designation and heading before “A freight forwarder”.
 
-    2012—Subsec. (a). [Pub. L. 112–141, § 32916(a)(1)][/us/pl/112/141/s32916/a/1], substituted “determines that the person—” for “finds that the person is fit”, added par. (1), inserted par. (2) designation and “is fit” before “, willing”, and, in par. (2), struck out “and the Board” after “Secretary”.
+    2012—Subsec. (a). [Pub. L. 112–141][/us/pl/112/141], § 32916(a)(1), substituted “determines that the person—” for “finds that the person is fit”, added par. (1), inserted par. (2) designation and “is fit” before “, willing”, and, in par. (2), struck out “and the Board” after “Secretary”.
 
-    Subsec. (b). [Pub. L. 112–141, § 32916(a)(3)][/us/pl/112/141/s32916/a/3], added subsec. (b). Former subsec. (b) redesignated (d).
+    Subsec. (b). [Pub. L. 112–141][/us/pl/112/141], § 32916(a)(3), added subsec. (b). Former subsec. (b) redesignated (d).
 
-    Subsec. (c). [Pub. L. 112–141, § 32916(a)(3)][/us/pl/112/141/s32916/a/3], added subsec. (c). Former subsec. (c) redesignated (e).
+    Subsec. (c). [Pub. L. 112–141][/us/pl/112/141], § 32916(a)(3), added subsec. (c). Former subsec. (c) redesignated (e).
 
-    [Pub. L. 112–141, § 32107(b)][/us/pl/112/141/s32107/b], added subsec. (c).
+    [Pub. L. 112–141][/us/pl/112/141], § 32107(b), added subsec. (c).
 
-    Subsec. (d). [Pub. L. 112–141, § 32916(a)(4)][/us/pl/112/141/s32916/a/4], amended subsec. (d) generally. Prior to amendment, text read as follows: “The freight forwarder may provide transportation as the carrier itself only if the freight forwarder also has registered to provide transportation as a carrier under this chapter.”
+    Subsec. (d). [Pub. L. 112–141][/us/pl/112/141], § 32916(a)(4), amended subsec. (d) generally. Prior to amendment, text read as follows: “The freight forwarder may provide transportation as the carrier itself only if the freight forwarder also has registered to provide transportation as a carrier under this chapter.”
 
-    [Pub. L. 112–141, § 32916(a)(2)][/us/pl/112/141/s32916/a/2], redesignated subsec. (b) as (d).
+    [Pub. L. 112–141][/us/pl/112/141], § 32916(a)(2), redesignated subsec. (b) as (d).
 
-    Subsec. (e). [Pub. L. 112–141, § 32916(a)(2)][/us/pl/112/141/s32916/a/2], redesignated subsec. (c) as (e).
+    Subsec. (e). [Pub. L. 112–141][/us/pl/112/141], § 32916(a)(2), redesignated subsec. (c) as (e).
 
     2008—Subsec. (a). [Pub. L. 110–244][/us/pl/110/244] amended subsec. (a) generally. Prior to amendment, text read as follows:
 
@@ -81,7 +81,7 @@
 
  __Financial Responsibility Requirements__ 
 
-[Pub. L. 112–141, div. C, title II, § 32104][/us/pl/112/141/s32104], July 6, 2012, [126 Stat. 780][/us/stat/126/780], provided that: 
+[Pub. L. 112–141, div. C, title II][/us/pl/112/141/dC/tII], § 32104, July 6, 2012, [126 Stat. 780][/us/stat/126/780], provided that: 
 
 > “Not later than 6 months after the date of enactment of this Act \[see section 3(a), (b) of [Pub. L. 112–141][/us/pl/112/141], set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of Title 23][/us/usc/t23/s101], Highways\], and every 4 years thereafter, the Secretary shall—
 
@@ -102,24 +102,24 @@
 ----------
 ----------
 
-[/us/pl/104/88/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs103
+[/us/pl/104/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtI
 [/us/stat/109/884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F884
-[/us/pl/109/59/s4142/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4142%2Fb
+[/us/pl/109/59/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIV
 [/us/stat/119/1747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1747
-[/us/pl/110/244/s305/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs305%2Fd
+[/us/pl/110/244/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2FtIII
 [/us/stat/122/1620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1620
-[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtII
 [/us/stat/126/782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F782
-[/us/pl/114/94/s5508/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5508%2Fa%2F2
+[/us/pl/114/94/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtV
 [/us/stat/129/1554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1554
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
-[/us/pl/112/141/s32916/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32916%2Fa%2F1
-[/us/pl/112/141/s32916/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32916%2Fa%2F3
-[/us/pl/112/141/s32916/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32916%2Fa%2F3
-[/us/pl/112/141/s32107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32107%2Fb
-[/us/pl/112/141/s32916/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32916%2Fa%2F4
-[/us/pl/112/141/s32916/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32916%2Fa%2F2
-[/us/pl/112/141/s32916/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32916%2Fa%2F2
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
@@ -128,7 +128,7 @@
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
-[/us/pl/112/141/s32104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32104
+[/us/pl/112/141/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtII
 [/us/stat/126/780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F780
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101

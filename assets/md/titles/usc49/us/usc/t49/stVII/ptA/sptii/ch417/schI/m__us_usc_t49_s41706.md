@@ -45,7 +45,7 @@
 
     The Secretary shall prescribe such regulations as are necessary to carry out this section.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1141][/us/stat/108/1141]; [Pub. L. 106–181, title VII, § 708(a)][/us/pl/106/181/s708/a], Apr. 5, 2000, [114 Stat. 159][/us/stat/114/159]; [Pub. L. 112–95, title IV, § 401(a)][/us/pl/112/95/s401/a], Feb. 14, 2012, [126 Stat. 83][/us/stat/126/83].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1141][/us/stat/108/1141]; [Pub. L. 106–181, title VII][/us/pl/106/181/tVII], § 708(a), Apr. 5, 2000, [114 Stat. 159][/us/stat/114/159]; [Pub. L. 112–95, title IV][/us/pl/112/95/tIV], § 401(a), Feb. 14, 2012, [126 Stat. 83][/us/stat/126/83].)
 
 <table>
 
@@ -113,9 +113,9 @@ Nov. 21, 1989, Pub. L. 101–164, § 335 (related to effective date), 103 Stat
 
  __Amendments__ 
 
-    2012—[Pub. L. 112–95, § 401(a)(1)][/us/pl/112/95/s401/a/1], substituted “passenger” for “scheduled” in section catchline.
+    2012—[Pub. L. 112–95][/us/pl/112/95], § 401(a)(1), substituted “passenger” for “scheduled” in section catchline.
 
-    Subsecs. (a), (b). [Pub. L. 112–95, § 401(a)(2)][/us/pl/112/95/s401/a/2], added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which read as follows:
+    Subsecs. (a), (b). [Pub. L. 112–95][/us/pl/112/95], § 401(a)(2), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which read as follows:
 
     “(a) Smoking Prohibition in Intrastate and Interstate Air Transportation.—An individual may not smoke in an aircraft in scheduled passenger interstate air transportation or scheduled passenger intrastate air transportation.
 
@@ -139,7 +139,7 @@ Nov. 21, 1989, Pub. L. 101–164, § 335 (related to effective date), 103 Stat
 
  __Effective Date of 2000 Amendment__ 
 
-[Pub. L. 106–181, title VII, § 708(b)][/us/pl/106/181/s708/b], Apr. 5, 2000, [114 Stat. 159][/us/stat/114/159], provided that: 
+[Pub. L. 106–181, title VII][/us/pl/106/181/tVII], § 708(b), Apr. 5, 2000, [114 Stat. 159][/us/stat/114/159], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect on the date that is 60 days after the date of the enactment of this Act \[Apr. 5, 2000\].”
 
@@ -150,16 +150,16 @@ Nov. 21, 1989, Pub. L. 101–164, § 335 (related to effective date), 103 Stat
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1141
-[/us/pl/106/181/s708/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs708%2Fa
+[/us/pl/106/181/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtVII
 [/us/stat/114/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F159
-[/us/pl/112/95/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs401%2Fa
+[/us/pl/112/95/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtIV
 [/us/stat/126/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F83
-[/us/pl/112/95/s401/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs401%2Fa%2F1
-[/us/pl/112/95/s401/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs401%2Fa%2F2
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
 [/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
-[/us/pl/106/181/s708/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs708%2Fb
+[/us/pl/106/181/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtVII
 [/us/stat/114/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F159
 
 

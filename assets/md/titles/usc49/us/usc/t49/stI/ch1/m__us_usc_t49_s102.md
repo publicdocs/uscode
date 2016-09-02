@@ -79,7 +79,7 @@
 
     (h) The Department shall have a seal that shall be judicially recognized.
 
-([Pub. L. 97–449, § 1(b)][/us/pl/97/449/s1/b], Jan. 12, 1983, [96 Stat. 2414][/us/stat/96/2414]; [Pub. L. 98–557, § 26(a)][/us/pl/98/557/s26/a], Oct. 30, 1984, [98 Stat. 2873][/us/stat/98/2873]; [Pub. L. 103–272, § 4(j)(1)][/us/pl/103/272/s4/j/1], July 5, 1994, [108 Stat. 1365][/us/stat/108/1365]; [Pub. L. 107–295, title II, § 215(a)][/us/pl/107/295/s215/a], (c), Nov. 25, 2002, [116 Stat. 2101][/us/stat/116/2101], 2102; [Pub. L. 109–59, title I, § 1119][/us/pl/109/59/s1119](l), Aug. 10, 2005, [119 Stat. 1189][/us/stat/119/1189]; [Pub. L. 110–140, title XI, § 1101(a)][/us/pl/110/140/s1101/a], Dec. 19, 2007, [121 Stat. 1756][/us/stat/121/1756]; [Pub. L. 112–166, § 2(k)(1)][/us/pl/112/166/s2/k/1], Aug. 10, 2012, [126 Stat. 1286][/us/stat/126/1286]; [Pub. L. 114–94, div. A, title VI, § 6011(a)][/us/pl/114/94/s6011/a], Dec. 4, 2015, [129 Stat. 1568][/us/stat/129/1568].)
+([Pub. L. 97–449][/us/pl/97/449], § 1(b), Jan. 12, 1983, [96 Stat. 2414][/us/stat/96/2414]; [Pub. L. 98–557][/us/pl/98/557], § 26(a), Oct. 30, 1984, [98 Stat. 2873][/us/stat/98/2873]; [Pub. L. 103–272][/us/pl/103/272], § 4(j)(1), July 5, 1994, [108 Stat. 1365][/us/stat/108/1365]; [Pub. L. 107–295, title II][/us/pl/107/295/tII], § 215(a), (c), Nov. 25, 2002, [116 Stat. 2101][/us/stat/116/2101], 2102; [Pub. L. 109–59, title I][/us/pl/109/59/tI], § 1119(l), Aug. 10, 2005, [119 Stat. 1189][/us/stat/119/1189]; [Pub. L. 110–140, title XI][/us/pl/110/140/tXI], § 1101(a), Dec. 19, 2007, [121 Stat. 1756][/us/stat/121/1756]; [Pub. L. 112–166][/us/pl/112/166], § 2(k)(1), Aug. 10, 2012, [126 Stat. 1286][/us/stat/126/1286]; [Pub. L. 114–94, div. A, title VI][/us/pl/114/94/dA/tVI], § 6011(a), Dec. 4, 2015, [129 Stat. 1568][/us/stat/129/1568].)
 
 <table>
 
@@ -199,9 +199,9 @@ Oct. 15, 1966, Pub. L. 89–670, § 9(k), 80 Stat. 946.  </td>
 
  __Amendments__ 
 
-    2015—Subsec. (e)(1). [Pub. L. 114–94, § 6011(a)(1)][/us/pl/114/94/s6011/a/1], substituted “6” for “5” in introductory provisions.
+    2015—Subsec. (e)(1). [Pub. L. 114–94][/us/pl/114/94], § 6011(a)(1), substituted “6” for “5” in introductory provisions.
 
-    Subsec. (e)(1)(A). [Pub. L. 114–94, § 6011(a)(2)][/us/pl/114/94/s6011/a/2], inserted “an Assistant Secretary for Research and Technology,” after “Governmental Affairs,”.
+    Subsec. (e)(1)(A). [Pub. L. 114–94][/us/pl/114/94], § 6011(a)(2), inserted “an Assistant Secretary for Research and Technology,” after “Governmental Affairs,”.
 
     2012—Subsec. (e). [Pub. L. 112–166][/us/pl/112/166] inserted subsec. (e) heading, struck out “The Department has 4 Assistant Secretaries and a General Counsel appointed by the President, by and with the advice and consent of the Senate. The Department also has an Assistant Secretary of Transportation for Administration appointed in the competitive service by the Secretary, with the approval of the President. They shall carry out duties and powers prescribed by the Secretary. An Assistant Secretary” before “or the General Counsel,”, added par. (1), inserted par. (2) designation and heading, and, in par. (2), inserted “The officers set forth in paragraph (1) shall carry out duties and powers prescribed by the Secretary. An Assistant Secretary”.
 
@@ -209,13 +209,13 @@ Oct. 15, 1966, Pub. L. 89–670, § 9(k), 80 Stat. 946.  </td>
 
     2005—Subsecs. (f), (g). [Pub. L. 109–59][/us/pl/109/59], which directed amendment of this section by adding subsec. (f) and redesignating former subsecs. (f) and (g) as (g) and (h), respectively, was executed by adding subsec. (f) and redesignating former subsec. (f) as (g), to reflect the probable intent of Congress. See 2002 Amendment note below.
 
-    2002—Subsec. (d). [Pub. L. 107–295, § 215(a)(2)][/us/pl/107/295/s215/a/2], added subsec. (d). Former subsec. (d) redesignated (g).
+    2002—Subsec. (d). [Pub. L. 107–295][/us/pl/107/295], § 215(a)(2), added subsec. (d). Former subsec. (d) redesignated (g).
 
-    Subsec. (e). [Pub. L. 107–295, § 215(a)(3)][/us/pl/107/295/s215/a/3], which directed the substitution of “Secretary, Deputy Secretary, and Under Secretary of Transportation for Policy” for “Secretary and the Deputy Secretary” each place it appears in last sentence, was executed by making substitution for “Secretary and the Deputy Secretary” before “are absent” and for “Secretary and Deputy Secretary” before “are vacant”, to reflect the probable intent of Congress.
+    Subsec. (e). [Pub. L. 107–295][/us/pl/107/295], § 215(a)(3), which directed the substitution of “Secretary, Deputy Secretary, and Under Secretary of Transportation for Policy” for “Secretary and the Deputy Secretary” each place it appears in last sentence, was executed by making substitution for “Secretary and the Deputy Secretary” before “are absent” and for “Secretary and Deputy Secretary” before “are vacant”, to reflect the probable intent of Congress.
 
-    Subsec. (g). [Pub. L. 107–295, § 215(c)][/us/pl/107/295/s215/c], struck out subsec. (g) which read as follows: “The Department has an Associate Deputy Secretary appointed by the President, by and with the advice and consent of the Senate. The Associate Deputy Secretary shall carry out powers and duties prescribed by the Secretary.”
+    Subsec. (g). [Pub. L. 107–295][/us/pl/107/295], § 215(c), struck out subsec. (g) which read as follows: “The Department has an Associate Deputy Secretary appointed by the President, by and with the advice and consent of the Senate. The Associate Deputy Secretary shall carry out powers and duties prescribed by the Secretary.”
 
-    [Pub. L. 107–295, § 215(a)(1)][/us/pl/107/295/s215/a/1], redesignated subsec. (d) as (g).
+    [Pub. L. 107–295][/us/pl/107/295], § 215(a)(1), redesignated subsec. (d) as (g).
 
     1994—Subsecs. (e), (f). [Pub. L. 103–272][/us/pl/103/272] redesignated subsec. (e), relating to judicial recognition of Department seal, as (f).
 
@@ -235,7 +235,7 @@ Oct. 15, 1966, Pub. L. 89–670, § 9(k), 80 Stat. 946.  </td>
 
  __Effective Date of 2002 Amendment__ 
 
-    [Pub. L. 107–295, title II, § 215(c)][/us/pl/107/295/s215/c], Nov. 25, 2002, [116 Stat. 2102][/us/stat/116/2102], provided that the amendment to this section made by section 215(c) is effective on the date that an individual is appointed to the position of Under Secretary of Transportation for Policy under subsection (d) of this section. On Mar. 19, 2003, the United States Senate confirmed the appointment of the first Under Secretary of Transportation for Policy.
+    [Pub. L. 107–295, title II][/us/pl/107/295/tII], § 215(c), Nov. 25, 2002, [116 Stat. 2102][/us/stat/116/2102], provided that the amendment to this section made by section 215(c) is effective on the date that an individual is appointed to the position of Under Secretary of Transportation for Policy under subsection (d) of this section. On Mar. 19, 2003, the United States Senate confirmed the appointment of the first Under Secretary of Transportation for Policy.
 
  __Deemed References to Chapters 509 and 511 of Title 51__ 
 
@@ -243,13 +243,13 @@ Oct. 15, 1966, Pub. L. 89–670, § 9(k), 80 Stat. 946.  </td>
 
  __Coordination__ 
 
-[Pub. L. 110–140, title XI, § 1101(b)][/us/pl/110/140/s1101/b], Dec. 19, 2007, [121 Stat. 1756][/us/stat/121/1756], provided that: 
+[Pub. L. 110–140, title XI][/us/pl/110/140/tXI], § 1101(b), Dec. 19, 2007, [121 Stat. 1756][/us/stat/121/1756], provided that: 
 
 > “The Office of Climate Change and Environment of the Department of Transportation shall coordinate its activities with the United States Global Change Research Program.”
 
  __Notice__ 
 
-[Pub. L. 109–59, title V, § 5510][/us/pl/109/59/s5510], Aug. 10, 2005, [119 Stat. 1828][/us/stat/119/1828], provided that:
+[Pub. L. 109–59, title V][/us/pl/109/59/tV], § 5510, Aug. 10, 2005, [119 Stat. 1828][/us/stat/119/1828], provided that:
 
 >     “(a)  __Notice of Reprogramming__  __.—__ 
 
@@ -259,7 +259,7 @@ Oct. 15, 1966, Pub. L. 89–670, § 9(k), 80 Stat. 946.  </td>
 
 >     On or before the 15th day preceding the date of any major reorganization of a program, project, or activity of the Department \[of Transportation\] for which funds are authorized by this title or the amendments made by this title, the Secretary \[of Transportation\] shall provide notice of the reorganization to the Committees on Transportation and Infrastructure and Science \[now Science, Space, and Technology\] of the House of Representatives and the Committee on Environment and Public Works of the Senate.”
 
-[Pub. L. 105–178, title V, § 5003][/us/pl/105/178/s5003], June 9, 1998, [112 Stat. 422][/us/stat/112/422], provided that:
+[Pub. L. 105–178, title V][/us/pl/105/178/tV], § 5003, June 9, 1998, [112 Stat. 422][/us/stat/112/422], provided that:
 
 >     “(a)  __Notice of Reprogramming__  __.—__ 
 
@@ -271,7 +271,7 @@ Oct. 15, 1966, Pub. L. 89–670, § 9(k), 80 Stat. 946.  </td>
 
  __Surface Transportation Administration__ 
 
-[Pub. L. 102–240, title V, § 5004][/us/pl/102/240/s5004], Dec. 18, 1991, [105 Stat. 2160][/us/stat/105/2160], provided that:
+[Pub. L. 102–240, title V][/us/pl/102/240/tV], § 5004, Dec. 18, 1991, [105 Stat. 2160][/us/stat/105/2160], provided that:
 
 >     “(a)  __Study__  __.—__ 
 
@@ -283,7 +283,7 @@ Oct. 15, 1966, Pub. L. 89–670, § 9(k), 80 Stat. 946.  </td>
 
  __Person Holding Position of Associate Deputy Secretary Until__  __April 15, 1985__ 
 
-[Pub. L. 98–557, § 26(c)][/us/pl/98/557/s26/c], Oct. 30, 1984, [98 Stat. 2873][/us/stat/98/2873], provided that: 
+[Pub. L. 98–557][/us/pl/98/557], § 26(c), Oct. 30, 1984, [98 Stat. 2873][/us/stat/98/2873], provided that: 
 
 > “Notwithstanding any other provision of law, until April 15, 1985, the position created by subsection (a) of this section \[adding subsec. (d) of this section\] may be held by a person named by the President alone from among qualified individuals.”
 
@@ -302,31 +302,31 @@ Oct. 15, 1966, Pub. L. 89–670, § 9(k), 80 Stat. 946.  </td>
 ----------
 ----------
 
-[/us/pl/97/449/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449%2Fs1%2Fb
+[/us/pl/97/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449
 [/us/stat/96/2414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2414
-[/us/pl/98/557/s26/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557%2Fs26%2Fa
+[/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
 [/us/stat/98/2873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2873
-[/us/pl/103/272/s4/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs4%2Fj%2F1
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1365
-[/us/pl/107/295/s215/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs215%2Fa
+[/us/pl/107/295/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtII
 [/us/stat/116/2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2101
-[/us/pl/109/59/s1119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1119
+[/us/pl/109/59/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtI
 [/us/stat/119/1189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1189
-[/us/pl/110/140/s1101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1101%2Fa
+[/us/pl/110/140/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtXI
 [/us/stat/121/1756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1756
-[/us/pl/112/166/s2/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166%2Fs2%2Fk%2F1
+[/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
 [/us/stat/126/1286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1286
-[/us/pl/114/94/s6011/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs6011%2Fa
+[/us/pl/114/94/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtVI
 [/us/stat/129/1568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1568
-[/us/pl/114/94/s6011/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs6011%2Fa%2F1
-[/us/pl/114/94/s6011/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs6011%2Fa%2F2
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
-[/us/pl/107/295/s215/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs215%2Fa%2F2
-[/us/pl/107/295/s215/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs215%2Fa%2F3
-[/us/pl/107/295/s215/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs215%2Fc
-[/us/pl/107/295/s215/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs215%2Fa%2F1
+[/us/pl/107/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295
+[/us/pl/107/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295
+[/us/pl/107/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295
+[/us/pl/107/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
@@ -338,19 +338,19 @@ Oct. 15, 1966, Pub. L. 89–670, § 9(k), 80 Stat. 946.  </td>
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/110/140/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1601
 [/us/usc/t2/s1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1824
-[/us/pl/107/295/s215/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs215%2Fc
+[/us/pl/107/295/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtII
 [/us/stat/116/2102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2102
 [/us/pl/111/314/s4/d/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314%2Fs4%2Fd%2F8
 [/us/usc/t49/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs101
-[/us/pl/110/140/s1101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1101%2Fb
+[/us/pl/110/140/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtXI
 [/us/stat/121/1756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1756
-[/us/pl/109/59/s5510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs5510
+[/us/pl/109/59/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtV
 [/us/stat/119/1828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1828
-[/us/pl/105/178/s5003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs5003
+[/us/pl/105/178/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtV
 [/us/stat/112/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F422
-[/us/pl/102/240/s5004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs5004
+[/us/pl/102/240/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2FtV
 [/us/stat/105/2160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2160
-[/us/pl/98/557/s26/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557%2Fs26%2Fc
+[/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
 [/us/stat/98/2873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2873
 [/us/pl/89/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670
 [/us/stat/80/950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F950

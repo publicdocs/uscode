@@ -363,19 +363,19 @@ SUBCHAPTER IV—MISCELLANEOUS  </td>
 
  __Amendment of Analysis__ 
 
-    [Pub. L. 114–94, div. A, title V, § 5101(d)][/us/pl/114/94/s5101/d], (e)(3), (4), (f), Dec. 4, 2015, [129 Stat. 1525][/us/stat/129/1525], 1526, provided that, effective Oct. 1, 2016, the analysis for this chapter is amended by striking items 31102, 31103, and 31104 and inserting new items 31102 “Motor carrier safety assistance program”, 31103 “Commercial motor vehicle operators grant program”, and 31104 “Authorization of appropriations” and by striking items 31107 and 31109. See 2015 Amendment note below.
+    [Pub. L. 114–94, div. A, title V][/us/pl/114/94/dA/tV], § 5101(d), (e)(3), (4), (f), Dec. 4, 2015, [129 Stat. 1525][/us/stat/129/1525], 1526, provided that, effective Oct. 1, 2016, the analysis for this chapter is amended by striking items 31102, 31103, and 31104 and inserting new items 31102 “Motor carrier safety assistance program”, 31103 “Commercial motor vehicle operators grant program”, and 31104 “Authorization of appropriations” and by striking items 31107 and 31109. See 2015 Amendment note below.
 
  __Amendments__ 
 
-    2015—[Pub. L. 114–94, div. A, title V][/us/pl/114/94], §§ 5101(d), (e)(3), (4), 5103(b), Dec. 4, 2015, [129 Stat. 1525][/us/stat/129/1525], 1527, substituted “Motor carrier safety assistance program” for “Grants to States” in item 31102, “Commercial motor vehicle operators grant program” for “United States Government’s share of costs” in item 31103, and “Authorization of appropriations” for “Availability of amounts” in item 31104, struck out items 31107 “Border enforcement grants” and 31109 “Performance and registration information system management”, and added item 31110.
+    2015—[Pub. L. 114–94, div. A, title V][/us/pl/114/94/dA/tV], §§ 5101(d), (e)(3), (4), 5103(b), Dec. 4, 2015, [129 Stat. 1525][/us/stat/129/1525], 1527, substituted “Motor carrier safety assistance program” for “Grants to States” in item 31102, “Commercial motor vehicle operators grant program” for “United States Government’s share of costs” in item 31103, and “Authorization of appropriations” for “Availability of amounts” in item 31104, struck out items 31107 “Border enforcement grants” and 31109 “Performance and registration information system management”, and added item 31110.
 
-    2012—[Pub. L. 112–141, div. C, title II][/us/pl/112/141], §§ 32105(b), 32301(d), July 6, 2012, [126 Stat. 781][/us/stat/126/781], 788, added items 31134 and 31137 and struck out former item 31137 “Monitoring device and brake maintenance regulations”.
+    2012—[Pub. L. 112–141, div. C, title II][/us/pl/112/141/dC/tII], §§ 32105(b), 32301(d), July 6, 2012, [126 Stat. 781][/us/stat/126/781], 788, added items 31134 and 31137 and struck out former item 31137 “Monitoring device and brake maintenance regulations”.
 
-    2005—[Pub. L. 109–59, title IV][/us/pl/109/59], §§ 4109(b)(2), 4110(b), 4111(b), 4116(e), 4117(b), 4118(b), 4119(b), Aug. 10, 2005, [119 Stat. 1721][/us/stat/119/1721], 1722, 1724, 1728, 1729, 1732, 1733, substituted “GENERAL AUTHORITY AND STATE GRANTS” for “STATE GRANTS AND OTHER COMMERCIAL MOTOR VEHICLE PROGRAMS” in subchapter I heading, “Border enforcement grants” for “Contract authority funding for information systems” in item 31107, and “Motor carrier research and technology program” for “Authorization of appropriations” in item 31108 and added items 31109 and 31149 to 31151, subchapter IV heading, and item 31161.
+    2005—[Pub. L. 109–59, title IV][/us/pl/109/59/tIV], §§ 4109(b)(2), 4110(b), 4111(b), 4116(e), 4117(b), 4118(b), 4119(b), Aug. 10, 2005, [119 Stat. 1721][/us/stat/119/1721], 1722, 1724, 1728, 1729, 1732, 1733, substituted “GENERAL AUTHORITY AND STATE GRANTS” for “STATE GRANTS AND OTHER COMMERCIAL MOTOR VEHICLE PROGRAMS” in subchapter I heading, “Border enforcement grants” for “Contract authority funding for information systems” in item 31107, and “Motor carrier research and technology program” for “Authorization of appropriations” in item 31108 and added items 31109 and 31149 to 31151, subchapter IV heading, and item 31161.
 
-    1999—[Pub. L. 106–159, title II, § 211(b)][/us/pl/106/159/s211/b], Dec. 9, 1999, [113 Stat. 1766][/us/stat/113/1766], added item 31148.
+    1999—[Pub. L. 106–159, title II][/us/pl/106/159/tII], § 211(b), Dec. 9, 1999, [113 Stat. 1766][/us/stat/113/1766], added item 31148.
 
-    1998—[Pub. L. 105–178, title IV][/us/pl/105/178], §§ 4002(b), 4004(d), 4008(c), (d), 4010, June 9, 1998, [112 Stat. 395][/us/stat/112/395], 400, 404, 407, inserted “AND OTHER COMMERCIAL MOTOR VEHICLE PROGRAMS” after “GRANTS” in subchapter I heading, added item 31100, substituted “Information systems” for “Commercial motor vehicle information system program” in item 31106 and “Contract authority funding for information systems” for “Truck and bus accident grant program” in item 31107, struck out items 31134 “Commercial Motor Vehicle Safety Regulatory Review Panel” and 31140 “Submission of State laws and regulations for review”, subchapter IV heading “MISCELLANEOUS”, and items 31161 “Procedures to ensure timely correction of safety violations” and 31162 “Compliance review priority”.
+    1998—[Pub. L. 105–178, title IV][/us/pl/105/178/tIV], §§ 4002(b), 4004(d), 4008(c), (d), 4010, June 9, 1998, [112 Stat. 395][/us/stat/112/395], 400, 404, 407, inserted “AND OTHER COMMERCIAL MOTOR VEHICLE PROGRAMS” after “GRANTS” in subchapter I heading, added item 31100, substituted “Information systems” for “Commercial motor vehicle information system program” in item 31106 and “Contract authority funding for information systems” for “Truck and bus accident grant program” in item 31107, struck out items 31134 “Commercial Motor Vehicle Safety Regulatory Review Panel” and 31140 “Submission of State laws and regulations for review”, subchapter IV heading “MISCELLANEOUS”, and items 31161 “Procedures to ensure timely correction of safety violations” and 31162 “Compliance review priority”.
 
 ----------
 
@@ -384,17 +384,17 @@ SUBCHAPTER IV—MISCELLANEOUS  </td>
 ----------
 ----------
 
-[/us/pl/114/94/s5101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5101%2Fd
+[/us/pl/114/94/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtV
 [/us/stat/129/1525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1525
-[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtV
 [/us/stat/129/1525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1525
-[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtII
 [/us/stat/126/781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F781
-[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIV
 [/us/stat/119/1721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1721
-[/us/pl/106/159/s211/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2Fs211%2Fb
+[/us/pl/106/159/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2FtII
 [/us/stat/113/1766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1766
-[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtIV
 [/us/stat/112/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F395
 
 

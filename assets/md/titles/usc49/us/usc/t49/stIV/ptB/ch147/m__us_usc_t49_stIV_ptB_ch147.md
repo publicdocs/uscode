@@ -115,7 +115,7 @@
 
  __Amendments__ 
 
-    2005—[Pub. L. 109–59, title IV, § 4206(c)][/us/pl/109/59/s4206/c], Aug. 10, 2005, [119 Stat. 1757][/us/stat/119/1757], added items 14710 and 14711.
+    2005—[Pub. L. 109–59, title IV][/us/pl/109/59/tIV], § 4206(c), Aug. 10, 2005, [119 Stat. 1757][/us/stat/119/1757], added items 14710 and 14711.
 
 ----------
 
@@ -124,7 +124,7 @@
 ----------
 ----------
 
-[/us/pl/109/59/s4206/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4206%2Fc
+[/us/pl/109/59/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIV
 [/us/stat/119/1757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1757
 
 

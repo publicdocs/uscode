@@ -55,7 +55,7 @@
 
     The Administrator shall consult with the Federal Highway Administrator and with the National Highway Traffic Safety Administrator on matters related to highway and motor carrier safety.
 
-(Added [Pub. L. 106–159, title I, § 101(a)][/us/pl/106/159/s101/a], Dec. 9, 1999, [113 Stat. 1750][/us/stat/113/1750].)
+(Added [Pub. L. 106–159, title I][/us/pl/106/159/tI], § 101(a), Dec. 9, 1999, [113 Stat. 1750][/us/stat/113/1750].)
 
  __Effective Date__ 
 
@@ -63,7 +63,7 @@
 
  __Guidance__ 
 
-[Pub. L. 114–94, div. A, title V, § 5203][/us/pl/114/94/s5203], Dec. 4, 2015, [129 Stat. 1535][/us/stat/129/1535], provided that:
+[Pub. L. 114–94, div. A, title V][/us/pl/114/94/dA/tV], § 5203, Dec. 4, 2015, [129 Stat. 1535][/us/stat/129/1535], provided that:
 
 >     “(a) __In General.—__ 
 
@@ -133,7 +133,7 @@
 
  __Petitions__ 
 
-[Pub. L. 114–94, div. A, title V, § 5204][/us/pl/114/94/s5204], Dec. 4, 2015, [129 Stat. 1536][/us/stat/129/1536], provided that:
+[Pub. L. 114–94, div. A, title V][/us/pl/114/94/dA/tV], § 5204, Dec. 4, 2015, [129 Stat. 1536][/us/stat/129/1536], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -181,13 +181,13 @@
 
  __Prioritizing Statutory Rulemakings__ 
 
-[Pub. L. 114–94, div. A, title V, § 5302][/us/pl/114/94/s5302], Dec. 4, 2015, [129 Stat. 1543][/us/stat/129/1543], provided that: 
+[Pub. L. 114–94, div. A, title V][/us/pl/114/94/dA/tV], § 5302, Dec. 4, 2015, [129 Stat. 1543][/us/stat/129/1543], provided that: 
 
 > “The Administrator of the Federal Motor Carrier Safety Administration shall prioritize the completion of each outstanding rulemaking required by statute before beginning any other rulemaking, unless the Secretary \[of Transportation\] determines that there is a significant need for such other rulemaking and notifies Congress of such determination.”
 
  __Findings__ 
 
-[Pub. L. 106–159, § 3][/us/pl/106/159/s3], Dec. 9, 1999, [113 Stat. 1749][/us/stat/113/1749], provided that: 
+[Pub. L. 106–159][/us/pl/106/159], § 3, Dec. 9, 1999, [113 Stat. 1749][/us/stat/113/1749], provided that: 
 
 > “Congress makes the following findings:
 
@@ -209,7 +209,7 @@
 
  __Purposes__ 
 
-[Pub. L. 106–159, § 4][/us/pl/106/159/s4], Dec. 9, 1999, [113 Stat. 1749][/us/stat/113/1749], provided that: 
+[Pub. L. 106–159][/us/pl/106/159], § 4, Dec. 9, 1999, [113 Stat. 1749][/us/stat/113/1749], provided that: 
 
 > “The purposes of this Act \[see Tables for classification\] are—
 
@@ -219,7 +219,7 @@
 
  __Savings Provision__ 
 
-[Pub. L. 106–159, title I, § 106][/us/pl/106/159/s106], Dec. 9, 1999, [113 Stat. 1756][/us/stat/113/1756], provided that:
+[Pub. L. 106–159, title I][/us/pl/106/159/tI], § 106, Dec. 9, 1999, [113 Stat. 1756][/us/stat/113/1756], provided that:
 
 >     “(a)  __Transfer of Assets and Personnel__  __.—__ 
 
@@ -284,21 +284,21 @@
 
 [/us/usc/t42/s4917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4917
 [/us/stat/86/1249-1250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1249-1250
-[/us/pl/106/159/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2Fs101%2Fa
+[/us/pl/106/159/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2FtI
 [/us/stat/113/1750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1750
 [/us/pl/106/159/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2Fs107%2Fa
 [/us/usc/t49/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs104
-[/us/pl/114/94/s5203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5203
+[/us/pl/114/94/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtV
 [/us/stat/129/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1535
-[/us/pl/114/94/s5204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5204
+[/us/pl/114/94/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtV
 [/us/stat/129/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1536
-[/us/pl/114/94/s5302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5302
+[/us/pl/114/94/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtV
 [/us/stat/129/1543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1543
-[/us/pl/106/159/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2Fs3
+[/us/pl/106/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159
 [/us/stat/113/1749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1749
-[/us/pl/106/159/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2Fs4
+[/us/pl/106/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159
 [/us/stat/113/1749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1749
-[/us/pl/106/159/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2Fs106
+[/us/pl/106/159/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2FtI
 [/us/stat/113/1756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1756
 [/us/usc/t49/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs104
 

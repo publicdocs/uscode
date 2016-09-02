@@ -203,7 +203,7 @@
 
         In this section, the term “air transportation” includes all-cargo air transportation.
 
-(Added [Pub. L. 107–296, title XIV, § 1402(a)][/us/pl/107/296/s1402/a], Nov. 25, 2002, [116 Stat. 2300][/us/stat/116/2300]; amended [Pub. L. 108–176, title VI, § 609(b)][/us/pl/108/176/s609/b], Dec. 12, 2003, [117 Stat. 2570][/us/stat/117/2570].)
+(Added [Pub. L. 107–296, title XIV][/us/pl/107/296/tXIV], § 1402(a), Nov. 25, 2002, [116 Stat. 2300][/us/stat/116/2300]; amended [Pub. L. 108–176, title VI][/us/pl/108/176/tVI], § 609(b), Dec. 12, 2003, [117 Stat. 2570][/us/stat/117/2570].)
 
  __References in Text__ 
 
@@ -211,11 +211,11 @@
 
  __Amendments__ 
 
-    2003—Subsec. (a). [Pub. L. 108–176, § 609(b)(1)][/us/pl/108/176/s609/b/1], struck out “passenger” before “air transportation” in two places.
+    2003—Subsec. (a). [Pub. L. 108–176][/us/pl/108/176], § 609(b)(1), struck out “passenger” before “air transportation” in two places.
 
-    Subsec. (k)(2). [Pub. L. 108–176, § 609(b)(2)][/us/pl/108/176/s609/b/2], substituted “or any other flight deck crew member” for “or, if more than 1 pilot is required for the operation of the aircraft or by the regulations under which the flight is being conducted, the individual designated as second in command”.
+    Subsec. (k)(2). [Pub. L. 108–176][/us/pl/108/176], § 609(b)(2), substituted “or any other flight deck crew member” for “or, if more than 1 pilot is required for the operation of the aircraft or by the regulations under which the flight is being conducted, the individual designated as second in command”.
 
-    Subsec. (k)(3). [Pub. L. 108–176, § 609(b)(3)][/us/pl/108/176/s609/b/3], added par. (3).
+    Subsec. (k)(3). [Pub. L. 108–176][/us/pl/108/176], § 609(b)(3), added par. (3).
 
  __Effective Date of 2003 Amendment__ 
 
@@ -231,13 +231,13 @@
 
  __Equitable Implementation of 2003 Amendments__ 
 
-[Pub. L. 108–176, title VI, § 609(c)][/us/pl/108/176/s609/c], Dec. 12, 2003, [117 Stat. 2570][/us/stat/117/2570], provided that: 
+[Pub. L. 108–176, title VI][/us/pl/108/176/tVI], § 609(c), Dec. 12, 2003, [117 Stat. 2570][/us/stat/117/2570], provided that: 
 
 > “In carrying out the amendments made by subsection (d) \[probably means subsec. (b), which amended this section\], the Under Secretary for Border and Transportation Security of the Department of Homeland Security shall ensure that passenger and cargo pilots are treated equitably in receiving access to training as Federal flight deck officers.”
 
  __Time for Implementation__ 
 
-[Pub. L. 108–176, title VI, § 609(d)][/us/pl/108/176/s609/d], Dec. 12, 2003, [117 Stat. 2570][/us/stat/117/2570], provided that: 
+[Pub. L. 108–176, title VI][/us/pl/108/176/tVI], § 609(d), Dec. 12, 2003, [117 Stat. 2570][/us/stat/117/2570], provided that: 
 
 > “The requirements of subsection (e) \[[section 609 of Pub. L. 108–176][/us/pl/108/176/s609] has no subsec. (e)\] shall have no effect on the deadlines for implementation contained in [section 44921 of title 49][/us/usc/t49/s44921], United States Code, as in effect on the day before the date of enactment of this Act \[Dec. 12, 2003\].”
 
@@ -250,23 +250,23 @@
 
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
 [/us/usc/t49/s40119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40119
-[/us/pl/107/296/s1402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1402%2Fa
+[/us/pl/107/296/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXIV
 [/us/stat/116/2300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2300
-[/us/pl/108/176/s609/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs609%2Fb
+[/us/pl/108/176/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtVI
 [/us/stat/117/2570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2570
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
-[/us/pl/108/176/s609/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs609%2Fb%2F1
-[/us/pl/108/176/s609/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs609%2Fb%2F2
-[/us/pl/108/176/s609/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs609%2Fb%2F3
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
 [/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
 [/us/pl/108/176/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106
 [/us/pl/107/296/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs4
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/108/176/s609/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs609%2Fc
+[/us/pl/108/176/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtVI
 [/us/stat/117/2570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2570
-[/us/pl/108/176/s609/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs609%2Fd
+[/us/pl/108/176/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtVI
 [/us/stat/117/2570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2570
 [/us/pl/108/176/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs609
 [/us/usc/t49/s44921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44921

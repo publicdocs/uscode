@@ -31,7 +31,7 @@
 
         (4) revise and resubmit a State-approved plan no less frequently than once every 4 years for acceptance by the Secretary.
 
-(Added [Pub. L. 110–432, div. B, title III, § 303(a)][/us/pl/110/432/s303/a], Oct. 16, 2008, [122 Stat. 4948][/us/stat/122/4948]; amended [Pub. L. 114–94, div. A, title XI, § 11315(a)(1)][/us/pl/114/94/s11315/a/1], Dec. 4, 2015, [129 Stat. 1674][/us/stat/129/1674].)
+(Added [Pub. L. 110–432, div. B, title III][/us/pl/110/432/dB/tIII], § 303(a), Oct. 16, 2008, [122 Stat. 4948][/us/stat/122/4948]; amended [Pub. L. 114–94, div. A, title XI][/us/pl/114/94/dA/tXI], § 11315(a)(1), Dec. 4, 2015, [129 Stat. 1674][/us/stat/129/1674].)
 
  __Amendments__ 
 
@@ -48,9 +48,9 @@
 ----------
 ----------
 
-[/us/pl/110/432/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs303%2Fa
+[/us/pl/110/432/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdB%2FtIII
 [/us/stat/122/4948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4948
-[/us/pl/114/94/s11315/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11315%2Fa%2F1
+[/us/pl/114/94/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtXI
 [/us/stat/129/1674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1674
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94

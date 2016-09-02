@@ -39,7 +39,7 @@
 
             (B) a privilege or facility, related to a matter required by the Secretary to be specified in a tariff for foreign air transportation of property, except as specified in the tariff.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1138][/us/stat/108/1138].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1138][/us/stat/108/1138].)
 
 <table>
 
@@ -146,7 +146,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 403(b)(2); added Jan. 3, 197
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1138
 
 

@@ -35,7 +35,7 @@
 
     (3) “insurance carrier” means a person authorized to do aviation insurance business in a State, including a mutual or stock insurance company and a reciprocal insurance association.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1168][/us/stat/108/1168]; [Pub. L. 108–176, title I, § 106(a)(2)][/us/pl/108/176/s106/a/2], Dec. 12, 2003, [117 Stat. 2498][/us/stat/117/2498].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1168][/us/stat/108/1168]; [Pub. L. 108–176, title I][/us/pl/108/176/tI], § 106(a)(2), Dec. 12, 2003, [117 Stat. 2498][/us/stat/117/2498].)
 
 <table>
 
@@ -106,9 +106,9 @@ Aug. 23, 1958, Pub. L. 85–726, § 1301, 72 Stat. 800; restated Nov. 9, 1977,
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1168
-[/us/pl/108/176/s106/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs106%2Fa%2F2
+[/us/pl/108/176/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtI
 [/us/stat/117/2498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2498
 [/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
 [/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176

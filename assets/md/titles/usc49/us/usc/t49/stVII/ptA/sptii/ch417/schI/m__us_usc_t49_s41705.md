@@ -51,7 +51,7 @@
 
             (B) ensure the availability and provision of appropriate technical assistance manuals to individuals and entities with rights or responsibilities under this section.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1141][/us/stat/108/1141]; [Pub. L. 106–181, title VII, § 707(a)][/us/pl/106/181/s707/a], Apr. 5, 2000, [114 Stat. 158][/us/stat/114/158]; [Pub. L. 108–176, title V, § 503(d)(1)][/us/pl/108/176/s503/d/1], Dec. 12, 2003, [117 Stat. 2559][/us/stat/117/2559].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1141][/us/stat/108/1141]; [Pub. L. 106–181, title VII][/us/pl/106/181/tVII], § 707(a), Apr. 5, 2000, [114 Stat. 158][/us/stat/114/158]; [Pub. L. 108–176, title V][/us/pl/108/176/tV], § 503(d)(1), Dec. 12, 2003, [117 Stat. 2559][/us/stat/117/2559].)
 
 <table>
 
@@ -121,13 +121,13 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 404(c); added Oct. 2, 1986, 
 
  __Establishment of Higher International Standards__ 
 
-[Pub. L. 106–181, title VII, § 707(c)][/us/pl/106/181/s707/c], Apr. 5, 2000, [114 Stat. 158][/us/stat/114/158], provided that: 
+[Pub. L. 106–181, title VII][/us/pl/106/181/tVII], § 707(c), Apr. 5, 2000, [114 Stat. 158][/us/stat/114/158], provided that: 
 
 > “The Secretary \[of Transportation\] shall work with appropriate international organizations and the aviation authorities of other nations to bring about the establishment of higher standards for accommodating handicapped passengers in air transportation, particularly with respect to foreign air carriers that code-share with air carriers.”
 
  __Restrictions on Air Transportation of Peanuts; Scientific Study on Effect of Airborne Particles on Passengers__ 
 
-[Pub. L. 106–69, title III, § 346][/us/pl/106/69/s346], Oct. 9, 1999, [113 Stat. 1023][/us/stat/113/1023], provided that: 
+[Pub. L. 106–69, title III][/us/pl/106/69/tIII], § 346, Oct. 9, 1999, [113 Stat. 1023][/us/stat/113/1023], provided that: 
 
 > “Hereafter, none of the funds made available under this Act or any other Act, may be used to implement, carry out, or enforce any regulation issued under [section 41705 of title 49][/us/usc/t49/s41705], United States Code, including any regulation contained in part 382 of title 14, Code of Federal Regulations, or any other provision of law (including any Act of Congress, regulation, or Executive order or any official guidance or correspondence thereto), that requires or encourages an air carrier (as that term is defined in [section 40102 of title 49][/us/usc/t49/s40102], United States Code) to, on intrastate or interstate air transportation (as those terms are defined in [section 40102 of title 49][/us/usc/t49/s40102], United States Code)—
 
@@ -137,7 +137,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 404(c); added Oct. 2, 1986, 
 
 >     until 90 days after submission to the Congress and the Secretary of a peer-reviewed scientific study that determines that there are severe reactions by passengers to peanuts as a result of contact with very small airborne peanut particles of the kind that passengers might encounter in an aircraft.”
 
-    Similar provisions were contained in [Pub. L. 105–277, div. A, § 101(g)][/us/pl/105/277/s101/g] \[title III, § 372\], Oct. 21, 1998, [112 Stat. 2681–439][/us/stat/112/2681-439], 2681–479.
+    Similar provisions were contained in [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(g) \[title III, § 372\], Oct. 21, 1998, [112 Stat. 2681–439][/us/stat/112/2681-439], 2681–479.
 
 ----------
 
@@ -146,11 +146,11 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 404(c); added Oct. 2, 1986, 
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1141
-[/us/pl/106/181/s707/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs707%2Fa
+[/us/pl/106/181/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtVII
 [/us/stat/114/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F158
-[/us/pl/108/176/s503/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs503%2Fd%2F1
+[/us/pl/108/176/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtV
 [/us/stat/117/2559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2559
 [/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
@@ -161,14 +161,14 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 404(c); added Oct. 2, 1986, 
 [/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/pl/106/181/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106
-[/us/pl/106/181/s707/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs707%2Fc
+[/us/pl/106/181/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtVII
 [/us/stat/114/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F158
-[/us/pl/106/69/s346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F69%2Fs346
+[/us/pl/106/69/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F69%2FtIII
 [/us/stat/113/1023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1023
 [/us/usc/t49/s41705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs41705
 [/us/usc/t49/s40102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40102
 [/us/usc/t49/s40102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40102
-[/us/pl/105/277/s101/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fg
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-439
 
 

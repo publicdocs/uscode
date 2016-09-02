@@ -27,7 +27,7 @@
 
     The Secretary may authorize the temporary suspension of foreign air transportation under subsection (a) of this section when the Secretary finds the suspension is in the public interest.
 
-(Added [Pub. L. 103–429, § 6(51)(A)][/us/pl/103/429/s6/51/A], Oct. 31, 1994, [108 Stat. 4384][/us/stat/108/4384]; amended [Pub. L. 104–287, § 5(72)][/us/pl/104/287/s5/72], Oct. 11, 1996, [110 Stat. 3396][/us/stat/110/3396].)
+(Added [Pub. L. 103–429][/us/pl/103/429], § 6(51)(A), Oct. 31, 1994, [108 Stat. 4384][/us/stat/108/4384]; amended [Pub. L. 104–287][/us/pl/104/287], § 5(72), Oct. 11, 1996, [110 Stat. 3396][/us/stat/110/3396].)
 
 <table>
 
@@ -161,9 +161,9 @@ Aug. 23, 1958, Pub. L. 85–726, § 1601(b)(1)(E), as added Oct. 4, 1984, Pub.
 ----------
 
 [/us/usc/t49/s41102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs41102
-[/us/pl/103/429/s6/51/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F51%2FA
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/stat/108/4384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4384
-[/us/pl/104/287/s5/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F72
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3396
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287

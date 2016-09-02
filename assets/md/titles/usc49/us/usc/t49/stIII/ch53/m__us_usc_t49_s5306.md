@@ -27,7 +27,7 @@
 
         (2) intervention in the management of a transportation authority.
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 795][/us/stat/108/795]; [Pub. L. 109–59, title III, § 3008][/us/pl/109/59/s3008], Aug. 10, 2005, [119 Stat. 1568][/us/stat/119/1568].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(d), July 5, 1994, [108 Stat. 795][/us/stat/108/795]; [Pub. L. 109–59, title III][/us/pl/109/59/tIII], § 3008, Aug. 10, 2005, [119 Stat. 1568][/us/stat/119/1568].)
 
 <table>
 
@@ -104,9 +104,9 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 8(m); added Nov. 6, 1978, Pub
 ----------
 ----------
 
-[/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F795
-[/us/pl/109/59/s3008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3008
+[/us/pl/109/59/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIII
 [/us/stat/119/1568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1568
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 

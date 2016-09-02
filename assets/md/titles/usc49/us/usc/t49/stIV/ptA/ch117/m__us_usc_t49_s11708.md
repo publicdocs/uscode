@@ -175,7 +175,7 @@
 
         (4) the award limitation under subsection (g) was violated.
 
-(Added [Pub. L. 114–110, § 13(a)][/us/pl/114/110/s13/a], Dec. 18, 2015, [129 Stat. 2235][/us/stat/129/2235].)
+(Added [Pub. L. 114–110][/us/pl/114/110], § 13(a), Dec. 18, 2015, [129 Stat. 2235][/us/stat/129/2235].)
 
  __References in Text__ 
 
@@ -188,7 +188,7 @@
 ----------
 ----------
 
-[/us/pl/114/110/s13/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F110%2Fs13%2Fa
+[/us/pl/114/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F110
 [/us/stat/129/2235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2235
 [/us/pl/114/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F110
 

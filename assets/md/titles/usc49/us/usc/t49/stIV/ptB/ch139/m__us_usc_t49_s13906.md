@@ -249,11 +249,11 @@
 
     The Secretary shall also prescribe the appropriate form of endorsement to be appended to policies of insurance and surety bonds which will subject the insurance policy or surety bond to the full security limits of the coverage required under this section.
 
-(Added [Pub. L. 104–88, title I, § 103][/us/pl/104/88/s103], Dec. 29, 1995, [109 Stat. 885][/us/stat/109/885]; amended [Pub. L. 104–287, § 5(34)][/us/pl/104/287/s5/34], Oct. 11, 1996, [110 Stat. 3392][/us/stat/110/3392]; [Pub. L. 109–59, title IV, § 4303(b)][/us/pl/109/59/s4303/b], (d)(1), Aug. 10, 2005, [119 Stat. 1762][/us/stat/119/1762], 1763; [Pub. L. 112–141, div. C, title II, § 32918(a)][/us/pl/112/141/s32918/a], July 6, 2012, [126 Stat. 822][/us/stat/126/822]; [Pub. L. 114–94, div. A, title V, § 5201][/us/pl/114/94/s5201], Dec. 4, 2015, [129 Stat. 1534][/us/stat/129/1534].)
+(Added [Pub. L. 104–88, title I][/us/pl/104/88/tI], § 103, Dec. 29, 1995, [109 Stat. 885][/us/stat/109/885]; amended [Pub. L. 104–287][/us/pl/104/287], § 5(34), Oct. 11, 1996, [110 Stat. 3392][/us/stat/110/3392]; [Pub. L. 109–59, title IV][/us/pl/109/59/tIV], § 4303(b), (d)(1), Aug. 10, 2005, [119 Stat. 1762][/us/stat/119/1762], 1763; [Pub. L. 112–141, div. C, title II][/us/pl/112/141/dC/tII], § 32918(a), July 6, 2012, [126 Stat. 822][/us/stat/126/822]; [Pub. L. 114–94, div. A, title V][/us/pl/114/94/dA/tV], § 5201, Dec. 4, 2015, [129 Stat. 1534][/us/stat/129/1534].)
 
  __References in Text__ 
 
-    Paragraph (3) of this subsection, referred to in subsec. (a)(1), was redesignated as paragraph (4) of subsec. (a) of this section by [Pub. L. 109–59, title IV, § 4303(b)(1)][/us/pl/109/59/s4303/b/1], Aug. 10, 2005, [119 Stat. 1762][/us/stat/119/1762].
+    Paragraph (3) of this subsection, referred to in subsec. (a)(1), was redesignated as paragraph (4) of subsec. (a) of this section by [Pub. L. 109–59, title IV][/us/pl/109/59/tIV], § 4303(b)(1), Aug. 10, 2005, [119 Stat. 1762][/us/stat/119/1762].
 
     The date of enactment of the Unified Carrier Registration Act of 2005, referred to in subsec. (a)(2), is the date of enactment of subtitle C of title IV of [Pub. L. 109–59][/us/pl/109/59], which was approved Aug. 10, 2005.
 
@@ -263,9 +263,9 @@
 
     2012—Subsecs. (b), (c). [Pub. L. 112–141][/us/pl/112/141] added subsecs. (b) and (c) and struck out former subsecs. (b) and (c) which related to broker requirements and freight forwarder requirements, respectively.
 
-    2005—[Pub. L. 109–59, § 4303(d)(1)][/us/pl/109/59/s4303/d/1], inserted “motor private carriers,” after “motor carriers,” in section catchline.
+    2005—[Pub. L. 109–59][/us/pl/109/59], § 4303(d)(1), inserted “motor private carriers,” after “motor carriers,” in section catchline.
 
-    Subsec. (a)(2) to (4). [Pub. L. 109–59, § 4303(b)][/us/pl/109/59/s4303/b], added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
+    Subsec. (a)(2) to (4). [Pub. L. 109–59][/us/pl/109/59], § 4303(b), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
     1996—Subsec. (d). [Pub. L. 104–287][/us/pl/104/287] substituted “January 1, 1996,” for “the effective date of this section”.
 
@@ -275,13 +275,13 @@
 
  __Effective Date of 2012 Amendment__ 
 
-[Pub. L. 112–141, div. C, title II, § 32918(c)][/us/pl/112/141/s32918/c], July 6, 2012, [126 Stat. 826][/us/stat/126/826], provided that: 
+[Pub. L. 112–141, div. C, title II][/us/pl/112/141/dC/tII], § 32918(c), July 6, 2012, [126 Stat. 826][/us/stat/126/826], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall take effect on the date that is 1 year after the date of enactment of this Act \[see section 3(a), (b) of [Pub. L. 112–141][/us/pl/112/141], set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of Title 23][/us/usc/t23/s101], Highways\].”
 
  __Regulations__ 
 
-[Pub. L. 112–141, div. C, title II, § 32918(b)][/us/pl/112/141/s32918/b], July 6, 2012, [126 Stat. 826][/us/stat/126/826], provided that: 
+[Pub. L. 112–141, div. C, title II][/us/pl/112/141/dC/tII], § 32918(b), July 6, 2012, [126 Stat. 826][/us/stat/126/826], provided that: 
 
 > “Not later than 1 year after the date of enactment of this Act \[see section 3(a), (b) of [Pub. L. 112–141][/us/pl/112/141], set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of Title 23][/us/usc/t23/s101], Highways\], the Secretary \[of Transportation\] shall issue regulations to implement and enforce the requirements under subsections (b) and (c) of [section 13906 of title 49][/us/usc/t49/s13906], United States Code, as amended by subsection (a).”
 
@@ -291,7 +291,7 @@
 
  __Self-Insurance Rules__ 
 
-[Pub. L. 104–88, title I, § 104(h)][/us/pl/104/88/s104/h], Dec. 29, 1995, [109 Stat. 920][/us/stat/109/920], provided that: 
+[Pub. L. 104–88, title I][/us/pl/104/88/tI], § 104(h), Dec. 29, 1995, [109 Stat. 920][/us/stat/109/920], provided that: 
 
 > “The Secretary of Transportation shall continue to enforce the rules and regulations of the Interstate Commerce Commission, as in effect on July 1, 1995, governing the qualifications for approval of a motor carrier as a self-insurer, until such time as the Secretary finds it in the public interest to revise such rules. The revised rules must provide for—
 
@@ -308,32 +308,32 @@
 ----------
 ----------
 
-[/us/pl/104/88/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs103
+[/us/pl/104/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtI
 [/us/stat/109/885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F885
-[/us/pl/104/287/s5/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F34
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3392
-[/us/pl/109/59/s4303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4303%2Fb
+[/us/pl/109/59/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIV
 [/us/stat/119/1762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1762
-[/us/pl/112/141/s32918/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32918%2Fa
+[/us/pl/112/141/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtII
 [/us/stat/126/822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F822
-[/us/pl/114/94/s5201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5201
+[/us/pl/114/94/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtV
 [/us/stat/129/1534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1534
-[/us/pl/109/59/s4303/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4303%2Fb%2F1
+[/us/pl/109/59/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIV
 [/us/stat/119/1762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1762
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
-[/us/pl/109/59/s4303/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4303%2Fd%2F1
-[/us/pl/109/59/s4303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4303%2Fb
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
-[/us/pl/112/141/s32918/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32918%2Fc
+[/us/pl/112/141/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtII
 [/us/stat/126/826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F826
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
-[/us/pl/112/141/s32918/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32918%2Fb
+[/us/pl/112/141/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtII
 [/us/stat/126/826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F826
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
@@ -341,7 +341,7 @@
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/109/59/s4302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4302
 [/us/usc/t49/s13902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs13902
-[/us/pl/104/88/s104/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs104%2Fh
+[/us/pl/104/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtI
 [/us/stat/109/920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F920
 [/us/pl/104/88/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs101
 [/us/usc/t49/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1301

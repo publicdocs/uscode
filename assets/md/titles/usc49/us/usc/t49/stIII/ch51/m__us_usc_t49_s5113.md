@@ -17,7 +17,7 @@
 
     A violation of section 31144(c)(3) shall be considered a violation of this chapter, and shall be subject to the penalties in sections 5123 and 5124.
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 771][/us/stat/108/771]; [Pub. L. 105–178, title IV, § 4009(b)][/us/pl/105/178/s4009/b], June 9, 1998, [112 Stat. 407][/us/stat/112/407]; [Pub. L. 109–59, title VII, § 7112(a)][/us/pl/109/59/s7112/a], Aug. 10, 2005, [119 Stat. 1899][/us/stat/119/1899].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(d), July 5, 1994, [108 Stat. 771][/us/stat/108/771]; [Pub. L. 105–178, title IV][/us/pl/105/178/tIV], § 4009(b), June 9, 1998, [112 Stat. 407][/us/stat/112/407]; [Pub. L. 109–59, title VII][/us/pl/109/59/tVII], § 7112(a), Aug. 10, 2005, [119 Stat. 1899][/us/stat/119/1899].)
 
 <table>
 
@@ -130,11 +130,11 @@ Nov. 3, 1990, Pub. L. 101–500, § 15(b)(2), 104 Stat. 1219.  </td>
 ----------
 ----------
 
-[/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F771
-[/us/pl/105/178/s4009/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4009%2Fb
+[/us/pl/105/178/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtIV
 [/us/stat/112/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F407
-[/us/pl/109/59/s7112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7112%2Fa
+[/us/pl/109/59/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtVII
 [/us/stat/119/1899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1899
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178

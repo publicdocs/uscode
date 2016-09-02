@@ -83,7 +83,7 @@
 
     In this section the terms “solid waste”, “solid waste rail transfer facility”, and “State requirements” have the meaning given such terms in section 10908(e).
 
-(Added [Pub. L. 110–432, div. A, title VI, § 604(a)][/us/pl/110/432/s604/a], Oct. 16, 2008, [122 Stat. 4903][/us/stat/122/4903]; amended [Pub. L. 114–94, div. A, title XI, § 11316(b)][/us/pl/114/94/s11316/b], Dec. 4, 2015, [129 Stat. 1676][/us/stat/129/1676].)
+(Added [Pub. L. 110–432, div. A, title VI][/us/pl/110/432/dA/tVI], § 604(a), Oct. 16, 2008, [122 Stat. 4903][/us/stat/122/4903]; amended [Pub. L. 114–94, div. A, title XI][/us/pl/114/94/dA/tXI], § 11316(b), Dec. 4, 2015, [129 Stat. 1676][/us/stat/129/1676].)
 
  __References in Text__ 
 
@@ -97,9 +97,9 @@
 
  __Amendments__ 
 
-    2015—Subsec. (b). [Pub. L. 114–94, § 11316(b)(1)][/us/pl/114/94/s11316/b/1], substituted “Clean Railroads Act of 2008” for “Clean Railroad Act of 2008” in introductory provisions.
+    2015—Subsec. (b). [Pub. L. 114–94][/us/pl/114/94], § 11316(b)(1), substituted “Clean Railroads Act of 2008” for “Clean Railroad Act of 2008” in introductory provisions.
 
-    Subsec. (e). [Pub. L. 114–94, § 11316(b)(2)][/us/pl/114/94/s11316/b/2], substituted “Upon the granting of a petition from the State” for “Upon the granting of petition from the State”.
+    Subsec. (e). [Pub. L. 114–94][/us/pl/114/94], § 11316(b)(2), substituted “Upon the granting of a petition from the State” for “Upon the granting of petition from the State”.
 
  __Effective Date of 2015 Amendment__ 
 
@@ -113,17 +113,17 @@
 ----------
 
 [/us/pl/108/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F421
-[/us/pl/110/432/s604/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs604%2Fa
+[/us/pl/110/432/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdA%2FtVI
 [/us/stat/122/4903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4903
-[/us/pl/114/94/s11316/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11316%2Fb
+[/us/pl/114/94/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtXI
 [/us/stat/129/1676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1676
 [/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
 [/us/pl/108/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F421
 [/us/pl/108/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F421
 [/us/stat/118/2375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2375
 [/us/usc/t49/s10907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs10907
-[/us/pl/114/94/s11316/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11316%2Fb%2F1
-[/us/pl/114/94/s11316/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11316%2Fb%2F2
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313

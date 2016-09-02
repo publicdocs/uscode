@@ -77,7 +77,7 @@
 
     The approval of funds by the Secretary under this section is a contractual obligation of the Federal Government for payment of the Federal Government’s share of costs.
 
-(Added [Pub. L. 114–94, div. A, title V, § 5103(a)][/us/pl/114/94/s5103/a], Dec. 4, 2015, [129 Stat. 1526][/us/stat/129/1526].)
+(Added [Pub. L. 114–94, div. A, title V][/us/pl/114/94/dA/tV], § 5103(a), Dec. 4, 2015, [129 Stat. 1526][/us/stat/129/1526].)
 
  __Effective Date__ 
 
@@ -90,7 +90,7 @@
 ----------
 ----------
 
-[/us/pl/114/94/s5103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5103%2Fa
+[/us/pl/114/94/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtV
 [/us/stat/129/1526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1526
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313

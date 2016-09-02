@@ -53,7 +53,7 @@
 
         (2) A limitation on amounts available for obligation by or for the committee does not apply to amounts made available to carry out this section.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1180][/us/stat/108/1180]; [Pub. L. 104–264, title XI, § 1104][/us/pl/104/264/s1104], Oct. 9, 1996, [110 Stat. 3279][/us/stat/110/3279].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1180][/us/stat/108/1180]; [Pub. L. 104–264, title XI][/us/pl/104/264/tXI], § 1104, Oct. 9, 1996, [110 Stat. 3279][/us/stat/110/3279].)
 
 <table>
 
@@ -203,9 +203,9 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 312(f); added Nov. 3, 1988, 
 [/us/usc/t49/s44513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44513
 [/us/usc/t49/s48102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs48102%2Fa
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1180
-[/us/pl/104/264/s1104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs1104
+[/us/pl/104/264/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2FtXI
 [/us/stat/110/3279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3279
 [/us/pl/92/463/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs14
 [/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264

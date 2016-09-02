@@ -47,7 +47,7 @@
 
         (2) a lease or instrument described in [section 44107(a)(2) of this title][/us/usc/t49/s44107/a/2] that was made before June 20, 1948.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1165][/us/stat/108/1165]; [Pub. L. 108–297, § 5][/us/pl/108/297/s5], Aug. 9, 2004, [118 Stat. 1097][/us/stat/118/1097].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1165][/us/stat/108/1165]; [Pub. L. 108–297][/us/pl/108/297], § 5, Aug. 9, 2004, [118 Stat. 1097][/us/stat/118/1097].)
 
 <table>
 
@@ -184,9 +184,9 @@ June 30, 1964, Pub. L. 88–346, § 1(c), 78 Stat. 236.  </td>
 [/us/usc/t49/s44107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44107
 [/us/usc/t49/s44107/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44107%2Fa%2F1
 [/us/usc/t49/s44107/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44107%2Fa%2F2
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1165
-[/us/pl/108/297/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F297%2Fs5
+[/us/pl/108/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F297
 [/us/stat/118/1097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1097
 [/us/usc/t49/s44107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44107
 [/us/pl/108/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F297

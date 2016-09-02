@@ -17,7 +17,7 @@
 
     The number of hours established by this chapter that an employee may be required or allowed to be on duty is the maximum number of hours consistent with safety. Shorter hours of service and time on duty of an employee are proper subjects for collective bargaining between a railroad carrier and its employees.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 891][/us/stat/108/891].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 891][/us/stat/108/891].)
 
 <table>
 
@@ -88,7 +88,7 @@ Mar. 4, 1907, ch. 2939, § 4, 34 Stat. 1417; restated Dec. 26, 1969, Pub. L. 9
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F891
 
 

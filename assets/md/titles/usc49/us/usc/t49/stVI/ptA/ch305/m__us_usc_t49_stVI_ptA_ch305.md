@@ -67,9 +67,9 @@
 
  __Amendments__ 
 
-    1997—[Pub. L. 105–102, § 3(b)][/us/pl/105/102/s3/b], Nov. 20, 1997, [111 Stat. 2215][/us/stat/111/2215], amended directory language of [Pub. L. 104–152][/us/pl/104/152]. See 1996 Amendment note below.
+    1997—[Pub. L. 105–102][/us/pl/105/102], § 3(b), Nov. 20, 1997, [111 Stat. 2215][/us/stat/111/2215], amended directory language of [Pub. L. 104–152][/us/pl/104/152]. See 1996 Amendment note below.
 
-    1996—[Pub. L. 104–152, § 2(c)][/us/pl/104/152/s2/c], July 2, 1996, [110 Stat. 1384][/us/stat/110/1384], as amended by [Pub. L. 105–102, § 3(b)][/us/pl/105/102/s3/b], Nov. 20, 1997, [111 Stat. 2215][/us/stat/111/2215], substituted “National Motor Vehicle Title Information System” for “National Automobile Title Information System” in chapter heading and in item 30502.
+    1996—[Pub. L. 104–152][/us/pl/104/152], § 2(c), July 2, 1996, [110 Stat. 1384][/us/stat/110/1384], as amended by [Pub. L. 105–102][/us/pl/105/102], § 3(b), Nov. 20, 1997, [111 Stat. 2215][/us/stat/111/2215], substituted “National Motor Vehicle Title Information System” for “National Automobile Title Information System” in chapter heading and in item 30502.
 
 ----------
 
@@ -78,12 +78,12 @@
 ----------
 ----------
 
-[/us/pl/105/102/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102%2Fs3%2Fb
+[/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/stat/111/2215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2215
 [/us/pl/104/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F152
-[/us/pl/104/152/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F152%2Fs2%2Fc
+[/us/pl/104/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F152
 [/us/stat/110/1384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1384
-[/us/pl/105/102/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102%2Fs3%2Fb
+[/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/stat/111/2215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2215
 
 

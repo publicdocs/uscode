@@ -109,13 +109,13 @@
 
     The Secretary shall designate an airport in the program as an Air Service Development Zone and work with the community or consortium on means to attract business to the area surrounding the airport, to develop land use options for the area, and provide data, working with the Department of Commerce and other agencies.
 
-(Added [Pub. L. 106–181, title II, § 203(a)][/us/pl/106/181/s203/a], Apr. 5, 2000, [114 Stat. 92][/us/stat/114/92]; amended [Pub. L. 108–11, title II, § 2708][/us/pl/108/11/s2708], Apr. 16, 2003, [117 Stat. 601][/us/stat/117/601]; [Pub. L. 108–176, title II, § 225(b)(3)][/us/pl/108/176/s225/b/3], title IV, § 412, Dec. 12, 2003, [117 Stat. 2529][/us/stat/117/2529], 2551; [Pub. L. 110–330, § 5(b)][/us/pl/110/330/s5/b], Sept. 30, 2008, [122 Stat. 3718][/us/stat/122/3718]; [Pub. L. 111–69, § 5(b)][/us/pl/111/69/s5/b], Oct. 1, 2009, [123 Stat. 2055][/us/stat/123/2055]; [Pub. L. 111–249, § 5(b)][/us/pl/111/249/s5/b], Sept. 30, 2010, [124 Stat. 2628][/us/stat/124/2628]; [Pub. L. 112–30, title II, § 205(b)][/us/pl/112/30/s205/b], Sept. 16, 2011, [125 Stat. 358][/us/stat/125/358]; [Pub. L. 112–91, § 5(b)][/us/pl/112/91/s5/b], Jan. 31, 2012, [126 Stat. 4][/us/stat/126/4]; [Pub. L. 112–95, title IV, § 429][/us/pl/112/95/s429], Feb. 14, 2012, [126 Stat. 100][/us/stat/126/100].)
+(Added [Pub. L. 106–181, title II][/us/pl/106/181/tII], § 203(a), Apr. 5, 2000, [114 Stat. 92][/us/stat/114/92]; amended [Pub. L. 108–11, title II][/us/pl/108/11/tII], § 2708, Apr. 16, 2003, [117 Stat. 601][/us/stat/117/601]; [Pub. L. 108–176, title II][/us/pl/108/176/tII], § 225(b)(3), title IV, § 412, Dec. 12, 2003, [117 Stat. 2529][/us/stat/117/2529], 2551; [Pub. L. 110–330][/us/pl/110/330], § 5(b), Sept. 30, 2008, [122 Stat. 3718][/us/stat/122/3718]; [Pub. L. 111–69][/us/pl/111/69], § 5(b), Oct. 1, 2009, [123 Stat. 2055][/us/stat/123/2055]; [Pub. L. 111–249][/us/pl/111/249], § 5(b), Sept. 30, 2010, [124 Stat. 2628][/us/stat/124/2628]; [Pub. L. 112–30, title II][/us/pl/112/30/tII], § 205(b), Sept. 16, 2011, [125 Stat. 358][/us/stat/125/358]; [Pub. L. 112–91][/us/pl/112/91], § 5(b), Jan. 31, 2012, [126 Stat. 4][/us/stat/126/4]; [Pub. L. 112–95, title IV][/us/pl/112/95/tIV], § 429, Feb. 14, 2012, [126 Stat. 100][/us/stat/126/100].)
 
  __Amendments__ 
 
-    2012—Subsec. (c)(5)(F). [Pub. L. 112–95, § 429(a)][/us/pl/112/95/s429/a], added subpar. (F).
+    2012—Subsec. (c)(5)(F). [Pub. L. 112–95][/us/pl/112/95], § 429(a), added subpar. (F).
 
-    Subsec. (e)(2). [Pub. L. 112–95, § 429(b)][/us/pl/112/95/s429/b], amended par. (2) generally. Prior to amendment, par. (2) provided for authorization of appropriations for fiscal years 2001 through 2011 and for the portion of fiscal year 2012 ending before Feb. 18, 2012.
+    Subsec. (e)(2). [Pub. L. 112–95][/us/pl/112/95], § 429(b), amended par. (2) generally. Prior to amendment, par. (2) provided for authorization of appropriations for fiscal years 2001 through 2011 and for the portion of fiscal year 2012 ending before Feb. 18, 2012.
 
     [Pub. L. 112–91][/us/pl/112/91] substituted “and $2,295,082 for the portion of fiscal year 2012 ending before February 18, 2012,” for “and $2,016,393 for the portion of fiscal year 2012 ending before February 1, 2012,”.
 
@@ -127,19 +127,19 @@
 
     2008—Subsec. (e)(2). [Pub. L. 110–330][/us/pl/110/330] substituted “2009” for “2008”.
 
-    2003—Subsec. (a). [Pub. L. 108–176, § 412(1)][/us/pl/108/176/s412/1], (2), struck out “Pilot” before “Program” in heading and “pilot” before “program” in text.
+    2003—Subsec. (a). [Pub. L. 108–176][/us/pl/108/176], § 412(1), (2), struck out “Pilot” before “Program” in heading and “pilot” before “program” in text.
 
-    Subsec. (c)(1). [Pub. L. 108–176, § 225(b)(3)(A)][/us/pl/108/176/s225/b/3/A], struck out “(as that term is defined in section 41731(a)(5))” after “small hub airport” in introductory provisions.
+    Subsec. (c)(1). [Pub. L. 108–176][/us/pl/108/176], § 225(b)(3)(A), struck out “(as that term is defined in section 41731(a)(5))” after “small hub airport” in introductory provisions.
 
-    Subsec. (c)(3). [Pub. L. 108–176, § 412(3)(A)][/us/pl/108/176/s412/3/A], added par. (3) and struck out heading and text of former par. (3). Text read as follows: “No more than four communities or consortia of communities, or a combination thereof, may be located in the same State.”
+    Subsec. (c)(3). [Pub. L. 108–176][/us/pl/108/176], § 412(3)(A), added par. (3) and struck out heading and text of former par. (3). Text read as follows: “No more than four communities or consortia of communities, or a combination thereof, may be located in the same State.”
 
-    Subsec. (c)(4). [Pub. L. 108–176, § 412(3)(B)][/us/pl/108/176/s412/3/B], inserted at end “No community, consortia of communities, nor combination thereof may participate in the program in support of the same project more than once, but any community, consortia of communities, or combination thereof may apply, subsequent to such participation, to participate in the program in support of a different project.”
+    Subsec. (c)(4). [Pub. L. 108–176][/us/pl/108/176], § 412(3)(B), inserted at end “No community, consortia of communities, nor combination thereof may participate in the program in support of the same project more than once, but any community, consortia of communities, or combination thereof may apply, subsequent to such participation, to participate in the program in support of a different project.”
 
     [Pub. L. 108–11][/us/pl/108/11] inserted before period at end “in each year for which funds are appropriated for the program”.
 
-    Subsec. (c)(5)(E). [Pub. L. 108–176, § 412(3)(C)][/us/pl/108/176/s412/3/C], added subpar. (E).
+    Subsec. (c)(5)(E). [Pub. L. 108–176][/us/pl/108/176], § 412(3)(C), added subpar. (E).
 
-    Subsec. (e)(2). [Pub. L. 108–176, § 412(4)][/us/pl/108/176/s412/4], substituted “fiscal year 2001,” for “fiscal year 2001 and” and inserted “, and $35,000,000 for each of fiscal years 2004 through 2008” after “2003”.
+    Subsec. (e)(2). [Pub. L. 108–176][/us/pl/108/176], § 412(4), substituted “fiscal year 2001,” for “fiscal year 2001 and” and inserted “, and $35,000,000 for each of fiscal years 2004 through 2008” after “2003”.
 
     Subsec. (f). [Pub. L. 108–176][/us/pl/108/176], §§ 225(b)(3)(B), 412(5), struck out “pilot” after “Under the” and “(as defined in section 41731(a)(3))” after “large hub airports”.
 
@@ -166,38 +166,38 @@
 ----------
 ----------
 
-[/us/pl/106/181/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs203%2Fa
+[/us/pl/106/181/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtII
 [/us/stat/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F92
-[/us/pl/108/11/s2708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F11%2Fs2708
+[/us/pl/108/11/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F11%2FtII
 [/us/stat/117/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F601
-[/us/pl/108/176/s225/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs225%2Fb%2F3
+[/us/pl/108/176/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtII
 [/us/stat/117/2529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2529
-[/us/pl/110/330/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F330%2Fs5%2Fb
+[/us/pl/110/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F330
 [/us/stat/122/3718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3718
-[/us/pl/111/69/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F69%2Fs5%2Fb
+[/us/pl/111/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F69
 [/us/stat/123/2055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2055
-[/us/pl/111/249/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F249%2Fs5%2Fb
+[/us/pl/111/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F249
 [/us/stat/124/2628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2628
-[/us/pl/112/30/s205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F30%2Fs205%2Fb
+[/us/pl/112/30/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F30%2FtII
 [/us/stat/125/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F358
-[/us/pl/112/91/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F91%2Fs5%2Fb
+[/us/pl/112/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F91
 [/us/stat/126/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F4
-[/us/pl/112/95/s429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs429
+[/us/pl/112/95/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtIV
 [/us/stat/126/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F100
-[/us/pl/112/95/s429/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs429%2Fa
-[/us/pl/112/95/s429/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs429%2Fb
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
 [/us/pl/112/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F91
 [/us/pl/112/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F30
 [/us/pl/111/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F249
 [/us/pl/111/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F69
 [/us/pl/110/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F330
-[/us/pl/108/176/s412/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs412%2F1
-[/us/pl/108/176/s225/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs225%2Fb%2F3%2FA
-[/us/pl/108/176/s412/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs412%2F3%2FA
-[/us/pl/108/176/s412/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs412%2F3%2FB
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
 [/us/pl/108/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F11
-[/us/pl/108/176/s412/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs412%2F3%2FC
-[/us/pl/108/176/s412/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs412%2F4
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
 [/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
 [/us/pl/111/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F249
 [/us/pl/111/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F249

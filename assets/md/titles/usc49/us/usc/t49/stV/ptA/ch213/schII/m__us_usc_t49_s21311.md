@@ -33,7 +33,7 @@
 
     A railroad carrier not filing a report in violation of [section 20901 of this title][/us/usc/t49/s20901] shall be fined not more than $2,500. A separate violation occurs for each day the violation continues.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 893][/us/stat/108/893]; [Pub. L. 110–432, div. A, title III, § 310][/us/pl/110/432/s310], Oct. 16, 2008, [122 Stat. 4882][/us/stat/122/4882].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 893][/us/stat/108/893]; [Pub. L. 110–432, div. A, title III][/us/pl/110/432/dA/tIII], § 310, Oct. 16, 2008, [122 Stat. 4882][/us/stat/122/4882].)
 
 <table>
 
@@ -113,9 +113,9 @@ May 6, 1910, ch. 208, § 2 (related to fine), 36 Stat. 351; Jan. 3, 1975, Pub.
 ----------
 
 [/us/usc/t49/s20901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs20901
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F893
-[/us/pl/110/432/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs310
+[/us/pl/110/432/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdA%2FtIII
 [/us/stat/122/4882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4882
 [/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
 [/us/usc/t49/s20901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs20901

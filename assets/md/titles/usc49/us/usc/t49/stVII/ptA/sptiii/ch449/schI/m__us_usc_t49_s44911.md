@@ -55,7 +55,7 @@
 
     The heads of units in the intelligence community, the Secretary, and the Under Secretary shall review and, as appropriate, revise written working agreements between the intelligence community and the Under Secretary.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1212][/us/stat/108/1212]; [Pub. L. 107–71, title I][/us/pl/107/71], §§ 101(f)(7), (9), 102(b), (c), Nov. 19, 2001, [115 Stat. 603][/us/stat/115/603], 605.)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1212][/us/stat/108/1212]; [Pub. L. 107–71, title I][/us/pl/107/71/tI], §§ 101(f)(7), (9), 102(b), (c), Nov. 19, 2001, [115 Stat. 603][/us/stat/115/603], 605.)
 
 <table>
 
@@ -179,13 +179,13 @@ Nov. 16, 1990, Pub. L. 101–604, § 111(d), 104 Stat. 3080.  </td>
 
  __Amendments__ 
 
-    2001—Subsec. (b). [Pub. L. 107–71, § 102(b)][/us/pl/107/71/s102/b], struck out “international” before “terrorism”.
+    2001—Subsec. (b). [Pub. L. 107–71][/us/pl/107/71], § 102(b), struck out “international” before “terrorism”.
 
-    [Pub. L. 107–71, § 101(f)(7)][/us/pl/107/71/s101/f/7], (9), substituted “Under Secretary of Transportation for Security” for “Administrator of the Federal Aviation Administration”.
+    [Pub. L. 107–71][/us/pl/107/71], § 101(f)(7), (9), substituted “Under Secretary of Transportation for Security” for “Administrator of the Federal Aviation Administration”.
 
-    Subsec. (c). [Pub. L. 107–71, § 102(c)][/us/pl/107/71/s102/c], substituted “place” for “consider placing”.
+    Subsec. (c). [Pub. L. 107–71][/us/pl/107/71], § 102(c), substituted “place” for “consider placing”.
 
-    Subsec. (e). [Pub. L. 107–71, § 101(f)(7)][/us/pl/107/71/s101/f/7], substituted “Under Secretary” for “Administrator” in two places.
+    Subsec. (e). [Pub. L. 107–71][/us/pl/107/71], § 101(f)(7), substituted “Under Secretary” for “Administrator” in two places.
 
  __Change of Name__ 
 
@@ -202,16 +202,16 @@ Nov. 16, 1990, Pub. L. 101–604, § 111(d), 104 Stat. 3080.  </td>
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1212
-[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2FtI
 [/us/stat/115/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F603
 [/us/pl/101/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640
 [/us/stat/104/3080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3080
-[/us/pl/107/71/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs102%2Fb
-[/us/pl/107/71/s101/f/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs101%2Ff%2F7
-[/us/pl/107/71/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs102%2Fc
-[/us/pl/107/71/s101/f/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs101%2Ff%2F7
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542

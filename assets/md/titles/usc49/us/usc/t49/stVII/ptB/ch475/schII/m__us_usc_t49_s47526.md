@@ -21,7 +21,7 @@
 
     (2) impose a passenger facility charge under [section 40117 of this title][/us/usc/t49/s40117].
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1291][/us/stat/108/1291]; [Pub. L. 112–95, title I, § 111(c)(2)(A)(viii)][/us/pl/112/95/s111/c/2/A/viii], Feb. 14, 2012, [126 Stat. 18][/us/stat/126/18].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1291][/us/stat/108/1291]; [Pub. L. 112–95, title I][/us/pl/112/95/tI], § 111(c)(2)(A)(viii), Feb. 14, 2012, [126 Stat. 18][/us/stat/126/18].)
 
 <table>
 
@@ -83,9 +83,9 @@ Nov. 5, 1990, Pub. L. 101–508, § 9307, 104 Stat. 1388–382.  </td>
 ----------
 
 [/us/usc/t49/s40117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40117
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1291
-[/us/pl/112/95/s111/c/2/A/viii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs111%2Fc%2F2%2FA%2Fviii
+[/us/pl/112/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtI
 [/us/stat/126/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F18
 [/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
 

@@ -17,7 +17,7 @@
 
     There is authorized to be appropriated to the Secretary $98,313,500 for the National Highway Traffic Safety Administration to carry out this part in each fiscal year beginning in fiscal year 1999 and ending in fiscal year 2001.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 944][/us/stat/108/944]; [Pub. L. 105–178, title VII, § 7102(a)][/us/pl/105/178/s7102/a], June 9, 1998, [112 Stat. 465][/us/stat/112/465]; [Pub. L. 106–39, § 1(a)][/us/pl/106/39/s1/a], July 28, 1999, [113 Stat. 206][/us/stat/113/206].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 944][/us/stat/108/944]; [Pub. L. 105–178, title VII][/us/pl/105/178/tVII], § 7102(a), June 9, 1998, [112 Stat. 465][/us/stat/112/465]; [Pub. L. 106–39][/us/pl/106/39], § 1(a), July 28, 1999, [113 Stat. 206][/us/stat/113/206].)
 
 <table>
 
@@ -86,11 +86,11 @@ Dec. 18, 1991, Pub. L. 102–240, § 2501(a), 105 Stat. 2081.  </td>
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F944
-[/us/pl/105/178/s7102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs7102%2Fa
+[/us/pl/105/178/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtVII
 [/us/stat/112/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F465
-[/us/pl/106/39/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F39%2Fs1%2Fa
+[/us/pl/106/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F39
 [/us/stat/113/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F206
 [/us/pl/106/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F39
 [/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178

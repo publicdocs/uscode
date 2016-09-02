@@ -23,7 +23,7 @@
 
     (3) the authority of the Secretary of Transportation to seek and obtain legal remedies the Secretary considers appropriate, including injunctive relief.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1293][/us/stat/108/1293].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1293][/us/stat/108/1293].)
 
 <table>
 
@@ -79,7 +79,7 @@ Nov. 5, 1990, Pub. L. 101–508, § 9304(h), 104 Stat. 1388–382.  </td>
 ----------
 
 [/us/usc/t49/s47524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs47524
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1293
 
 

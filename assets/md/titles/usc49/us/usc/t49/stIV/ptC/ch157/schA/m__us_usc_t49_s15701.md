@@ -43,11 +43,11 @@
 
     The Board shall, by regulation, establish rules to implement this section. The regulations shall provide for immediate disclosure and dissemination of rates and service terms, including classifications, rules, and practices, and their effective dates. The regulations may modify the 20-day period specified in subsection (c). Final regulations shall be adopted by the Board not later than 180 days after January 1, 1996.
 
-(Added [Pub. L. 104–88, title I, § 106(a)][/us/pl/104/88/s106/a], Dec. 29, 1995, [109 Stat. 925][/us/stat/109/925]; amended [Pub. L. 104–287, § 5(44)][/us/pl/104/287/s5/44], Oct. 11, 1996, [110 Stat. 3393][/us/stat/110/3393].)
+(Added [Pub. L. 104–88, title I][/us/pl/104/88/tI], § 106(a), Dec. 29, 1995, [109 Stat. 925][/us/stat/109/925]; amended [Pub. L. 104–287][/us/pl/104/287], § 5(44), Oct. 11, 1996, [110 Stat. 3393][/us/stat/110/3393].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [section 11101 of this title][/us/usc/t49/s11101] prior to the general amendment of this subtitle by [Pub. L. 104–88, § 102(a)][/us/pl/104/88/s102/a].
+    Provisions similar to those in this section were contained in [section 11101 of this title][/us/usc/t49/s11101] prior to the general amendment of this subtitle by [Pub. L. 104–88][/us/pl/104/88], § 102(a).
 
  __Amendments__ 
 
@@ -64,12 +64,12 @@
 ----------
 ----------
 
-[/us/pl/104/88/s106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs106%2Fa
+[/us/pl/104/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtI
 [/us/stat/109/925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F925
-[/us/pl/104/287/s5/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F44
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3393
 [/us/usc/t49/s11101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs11101
-[/us/pl/104/88/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs102%2Fa
+[/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/104/88/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs2

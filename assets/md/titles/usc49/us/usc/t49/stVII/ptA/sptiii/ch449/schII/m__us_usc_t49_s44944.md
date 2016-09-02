@@ -41,7 +41,7 @@
 
     The exemption under subsection (b) shall not apply in any case in which an individual provides, or attempts to provide, assistance described in that paragraph in a manner that constitutes gross negligence or willful misconduct.
 
-(Added [Pub. L. 107–71, title I, § 131(a)][/us/pl/107/71/s131/a], Nov. 19, 2001, [115 Stat. 635][/us/stat/115/635].)
+(Added [Pub. L. 107–71, title I][/us/pl/107/71/tI], § 131(a), Nov. 19, 2001, [115 Stat. 635][/us/stat/115/635].)
 
  __Transfer of Functions__ 
 
@@ -49,7 +49,7 @@
 
  __Construction__ 
 
-[Pub. L. 107–71, title I, § 131(c)][/us/pl/107/71/s131/c], Nov. 19, 2001, [115 Stat. 635][/us/stat/115/635], provided that: 
+[Pub. L. 107–71, title I][/us/pl/107/71/tI], § 131(c), Nov. 19, 2001, [115 Stat. 635][/us/stat/115/635], provided that: 
 
 > “Nothing in this section \[enacting this section\] may be construed to require any modification of regulations of the Department of Transportation governing the possession of firearms while in aircraft or air transportation facilities or to authorize the possession of a firearm in an aircraft or any such facility not authorized under those regulations.”
 
@@ -62,10 +62,10 @@
 ----------
 ----------
 
-[/us/pl/107/71/s131/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs131%2Fa
+[/us/pl/107/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2FtI
 [/us/stat/115/635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F635
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/107/71/s131/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs131%2Fc
+[/us/pl/107/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2FtI
 [/us/stat/115/635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F635
 [/us/pl/107/71/s131/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs131%2Fc
 [/us/pl/107/71/s133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs133

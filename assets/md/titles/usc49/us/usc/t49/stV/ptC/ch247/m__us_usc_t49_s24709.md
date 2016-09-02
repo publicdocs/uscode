@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t49/stV/ptC/ch247/m__us_usc_t49_s24706.md) | [Next](./../../../../../..//us/usc/t49/stV/ptC/ch247/m__us_usc_t49_s24710.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24709)
+[Previous](./../../../../../..//us/usc/t49/stV/ptC/ch247/m__us_usc_t49_s24707 _us_usc_t49_s24708.md) | [Next](./../../../../../..//us/usc/t49/stV/ptC/ch247/m__us_usc_t49_s24710.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24709)
 
 ## § 24709. International transportation
 
@@ -21,7 +21,7 @@
 
     (2) result in the quickest possible international intercity rail passenger transportation.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 929][/us/stat/108/929]; [Pub. L. 114–94, div. A, title XI, § 11316(n)(2)][/us/pl/114/94/s11316/n/2], Dec. 4, 2015, [129 Stat. 1679][/us/stat/129/1679].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 929][/us/stat/108/929]; [Pub. L. 114–94, div. A, title XI][/us/pl/114/94/dA/tXI], § 11316(n)(2), Dec. 4, 2015, [129 Stat. 1679][/us/stat/129/1679].)
 
 <table>
 
@@ -97,7 +97,7 @@ Oct. 30, 1970, Pub. L. 91–518, 84 Stat. 1327, § 305(i); added Oct. 28, 1974
 
  __Cross-Border Passenger Rail Service__ 
 
-[Pub. L. 110–432, div. B, title IV, § 406][/us/pl/110/432/s406], Oct. 16, 2008, [122 Stat. 4958][/us/stat/122/4958], provided that:
+[Pub. L. 110–432, div. B, title IV][/us/pl/110/432/dB/tIV], § 406, Oct. 16, 2008, [122 Stat. 4958][/us/stat/122/4958], provided that:
 
 >     “(a)  __Plan__  __.—__ 
 
@@ -119,20 +119,20 @@ Oct. 30, 1970, Pub. L. 91–518, 84 Stat. 1327, § 305(i); added Oct. 28, 1974
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t49/stV/ptC/ch247/m__us_usc_t49_s24706.md) | [Next](./../../../../../..//us/usc/t49/stV/ptC/ch247/m__us_usc_t49_s24710.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24709)
+[Previous](./../../../../../..//us/usc/t49/stV/ptC/ch247/m__us_usc_t49_s24707 _us_usc_t49_s24708.md) | [Next](./../../../../../..//us/usc/t49/stV/ptC/ch247/m__us_usc_t49_s24710.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24709)
 
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F929
-[/us/pl/114/94/s11316/n/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11316%2Fn%2F2
+[/us/pl/114/94/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtXI
 [/us/stat/129/1679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1679
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
-[/us/pl/110/432/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs406
+[/us/pl/110/432/dB/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdB%2FtIV
 [/us/stat/122/4958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4958
 
 

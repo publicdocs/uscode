@@ -39,7 +39,7 @@
 
     Not later than August 1 of each year, each rail carrier subject to part A of subtitle IV of this title shall submit to the Secretary a list of the rail lines of the carrier that carried not more than 5,000,000 gross ton-miles of freight a mile in the prior year.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 898][/us/stat/108/898]; [Pub. L. 104–88, title III, § 308(f)(4)][/us/pl/104/88/s308/f/4], (5), Dec. 29, 1995, [109 Stat. 947][/us/stat/109/947]; [Pub. L. 104–316, title I, § 127(c)][/us/pl/104/316/s127/c], Oct. 19, 1996, [110 Stat. 3840][/us/stat/110/3840].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 898][/us/stat/108/898]; [Pub. L. 104–88, title III][/us/pl/104/88/tIII], § 308(f)(4), (5), Dec. 29, 1995, [109 Stat. 947][/us/stat/109/947]; [Pub. L. 104–316, title I][/us/pl/104/316/tI], § 127(c), Oct. 19, 1996, [110 Stat. 3840][/us/stat/110/3840].)
 
 <table>
 
@@ -139,9 +139,9 @@ Oct. 15, 1966, Pub. L. 89–670, 80 Stat. 931, § 5(k)–(m); added Feb. 5, 19
 
     1996—Subsec. (b). [Pub. L. 104–316][/us/pl/104/316] struck out “and the Comptroller General” after “Secretary”.
 
-    1995—Subsec. (c). [Pub. L. 104–88, § 308(f)(4)][/us/pl/104/88/s308/f/4], substituted “Surface Transportation Board” for “Interstate Commerce Commission” and “The Board” for “The Commission”.
+    1995—Subsec. (c). [Pub. L. 104–88][/us/pl/104/88], § 308(f)(4), substituted “Surface Transportation Board” for “Interstate Commerce Commission” and “The Board” for “The Commission”.
 
-    Subsec. (d). [Pub. L. 104–88, § 308(f)(5)][/us/pl/104/88/s308/f/5], substituted “part A of subtitle IV” for “subchapter I of chapter 105”.
+    Subsec. (d). [Pub. L. 104–88][/us/pl/104/88], § 308(f)(5), substituted “part A of subtitle IV” for “subchapter I of chapter 105”.
 
  __Effective Date of 1995 Amendment__ 
 
@@ -154,15 +154,15 @@ Oct. 15, 1966, Pub. L. 89–670, 80 Stat. 931, § 5(k)–(m); added Feb. 5, 19
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F898
-[/us/pl/104/88/s308/f/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs308%2Ff%2F4
+[/us/pl/104/88/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtIII
 [/us/stat/109/947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F947
-[/us/pl/104/316/s127/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs127%2Fc
+[/us/pl/104/316/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2FtI
 [/us/stat/110/3840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3840
 [/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316
-[/us/pl/104/88/s308/f/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs308%2Ff%2F4
-[/us/pl/104/88/s308/f/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs308%2Ff%2F5
+[/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
+[/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/104/88/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs2
 [/us/usc/t49/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1301

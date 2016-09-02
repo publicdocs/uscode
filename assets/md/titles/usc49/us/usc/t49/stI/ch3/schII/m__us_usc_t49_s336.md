@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t49/stI/ch3/schII/m__us_usc_t49_s333.md) | [Next](./../../../../../..//us/usc/t49/stI/ch3/schII/m__us_usc_t49_s337.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs336)
+[Previous](./../../../../../..//us/usc/t49/stI/ch3/schII/m__us_usc_t49_s334 _us_usc_t49_s335.md) | [Next](./../../../../../..//us/usc/t49/stI/ch3/schII/m__us_usc_t49_s337.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs336)
 
 ## § 336. Civil penalty procedures
 
@@ -29,7 +29,7 @@
 
         (2) the Secretary finds that the penalty was unlawfully, improperly, or excessively imposed.
 
-(Added [Pub. L. 101–225, title III, § 305(1)][/us/pl/101/225/s305/1], Dec. 12, 1989, [103 Stat. 1924][/us/stat/103/1924].)
+(Added [Pub. L. 101–225, title III][/us/pl/101/225/tIII], § 305(1), Dec. 12, 1989, [103 Stat. 1924][/us/stat/103/1924].)
 
  __Transfer of Functions__ 
 
@@ -37,12 +37,12 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t49/stI/ch3/schII/m__us_usc_t49_s333.md) | [Next](./../../../../../..//us/usc/t49/stI/ch3/schII/m__us_usc_t49_s337.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs336)
+[Previous](./../../../../../..//us/usc/t49/stI/ch3/schII/m__us_usc_t49_s334 _us_usc_t49_s335.md) | [Next](./../../../../../..//us/usc/t49/stI/ch3/schII/m__us_usc_t49_s337.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs336)
 
 ----------
 ----------
 
-[/us/pl/101/225/s305/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225%2Fs305%2F1
+[/us/pl/101/225/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225%2FtIII
 [/us/stat/103/1924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1924
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 

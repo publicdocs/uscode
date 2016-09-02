@@ -49,7 +49,7 @@
 
     In this section, the term “advanced qualification program” means an alternative method for qualifying, training, certifying, and ensuring the competency of flight crews and other commercial aviation operations personnel subject to the training and evaluation requirements of parts 121 and 135 of title 14, Code of Federal Regulations.
 
-(Added [Pub. L. 106–181, title VII, § 713(a)][/us/pl/106/181/s713/a], Apr. 5, 2000, [114 Stat. 160][/us/stat/114/160].)
+(Added [Pub. L. 106–181, title VII][/us/pl/106/181/tVII], § 713(a), Apr. 5, 2000, [114 Stat. 160][/us/stat/114/160].)
 
  __References in Text__ 
 
@@ -66,7 +66,7 @@
 ----------
 ----------
 
-[/us/pl/106/181/s713/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs713%2Fa
+[/us/pl/106/181/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtVII
 [/us/stat/114/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F160
 [/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/pl/106/181/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs3

@@ -23,7 +23,7 @@
 
     (3) “damage susceptibility” means the susceptibility of a passenger motor vehicle to damage in a motor vehicle accident.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1035][/us/stat/108/1035]; [Pub. L. 112–141, div. C, title I, § 31305(a)][/us/pl/112/141/s31305/a], July 6, 2012, [126 Stat. 765][/us/stat/126/765].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1035][/us/stat/108/1035]; [Pub. L. 112–141, div. C, title I][/us/pl/112/141/dC/tI], § 31305(a), July 6, 2012, [126 Stat. 765][/us/stat/126/765].)
 
 <table>
 
@@ -86,9 +86,9 @@ Oct. 20, 1972, Pub. L. 92–513, § 2(13), (14), 86 Stat. 948; Dec. 22, 1975, 
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1035
-[/us/pl/112/141/s31305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31305%2Fa
+[/us/pl/112/141/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtI
 [/us/stat/126/765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F765
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141

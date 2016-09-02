@@ -325,11 +325,11 @@ PART C—PIPELINE CARRIERS  </td>
 
  __Prior Provisions__ 
 
-    A prior subtitle IV, consisting of chapters 101 to 119, related to interstate commerce, prior to the general amendment of this subtitle by [Pub. L. 104–88, § 102(a)][/us/pl/104/88/s102/a].
+    A prior subtitle IV, consisting of chapters 101 to 119, related to interstate commerce, prior to the general amendment of this subtitle by [Pub. L. 104–88][/us/pl/104/88], § 102(a).
 
  __Amendments__ 
 
-    1997—[Pub. L. 105–102, § 2(5)][/us/pl/105/102/s2/5], Nov. 20, 1997, [111 Stat. 2204][/us/stat/111/2204], struck out “AND TARIFFS” after “RATES” in item for chapter 155.
+    1997—[Pub. L. 105–102][/us/pl/105/102], § 2(5), Nov. 20, 1997, [111 Stat. 2204][/us/stat/111/2204], struck out “AND TARIFFS” after “RATES” in item for chapter 155.
 
 ----------
 
@@ -338,8 +338,8 @@ PART C—PIPELINE CARRIERS  </td>
 ----------
 ----------
 
-[/us/pl/104/88/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs102%2Fa
-[/us/pl/105/102/s2/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102%2Fs2%2F5
+[/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
+[/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/stat/111/2204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2204
 
 

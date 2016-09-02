@@ -143,7 +143,7 @@
 
                 (vii) the Coast Guard Reserve.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1016][/us/stat/108/1016]; [Pub. L. 106–159, title II, § 201(d)][/us/pl/106/159/s201/d], Dec. 9, 1999, [113 Stat. 1760][/us/stat/113/1760]; [Pub. L. 107–56, title X, § 1012(b)][/us/pl/107/56/s1012/b], Oct. 26, 2001, [115 Stat. 397][/us/stat/115/397]; [Pub. L. 112–141, div. C, title II, § 32304(a)][/us/pl/112/141/s32304/a], (c), July 6, 2012, [126 Stat. 791][/us/stat/126/791], 792; [Pub. L. 114–94, div. A, title V, § 5401(a)][/us/pl/114/94/s5401/a], Dec. 4, 2015, [129 Stat. 1546][/us/stat/129/1546].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1016][/us/stat/108/1016]; [Pub. L. 106–159, title II][/us/pl/106/159/tII], § 201(d), Dec. 9, 1999, [113 Stat. 1760][/us/stat/113/1760]; [Pub. L. 107–56, title X][/us/pl/107/56/tX], § 1012(b), Oct. 26, 2001, [115 Stat. 397][/us/stat/115/397]; [Pub. L. 112–141, div. C, title II][/us/pl/112/141/dC/tII], § 32304(a), (c), July 6, 2012, [126 Stat. 791][/us/stat/126/791], 792; [Pub. L. 114–94, div. A, title V][/us/pl/114/94/dA/tV], § 5401(a), Dec. 4, 2015, [129 Stat. 1546][/us/stat/129/1546].)
 
 <table>
 
@@ -219,9 +219,9 @@ Oct. 27, 1986, Pub. L. 99–570, § 12005(a), (b), 100 Stat. 3207–171.  </td
 
     2015—Subsec. (d). [Pub. L. 114–94][/us/pl/114/94] added subsec. (d).
 
-    2012—[Pub. L. 112–141, § 32304(c)][/us/pl/112/141/s32304/c], substituted “General driver fitness, testing, and training” for “General driver fitness and testing” in section catchline.
+    2012—[Pub. L. 112–141][/us/pl/112/141], § 32304(c), substituted “General driver fitness, testing, and training” for “General driver fitness and testing” in section catchline.
 
-    Subsec. (c). [Pub. L. 112–141, § 32304(a)][/us/pl/112/141/s32304/a], added subsec. (c).
+    Subsec. (c). [Pub. L. 112–141][/us/pl/112/141], § 32304(a), added subsec. (c).
 
     2001—Subsec. (a)(5)(C). [Pub. L. 107–56][/us/pl/107/56] added subpar. (C).
 
@@ -237,7 +237,7 @@ Oct. 27, 1986, Pub. L. 99–570, § 12005(a), (b), 100 Stat. 3207–171.  </td
 
  __Report on Commercial Driver’s License Skills Test Delays__ 
 
-[Pub. L. 114–94, div. A, title V, § 5506][/us/pl/114/94/s5506], Dec. 4, 2015, [129 Stat. 1553][/us/stat/129/1553], provided that: 
+[Pub. L. 114–94, div. A, title V][/us/pl/114/94/dA/tV], § 5506, Dec. 4, 2015, [129 Stat. 1553][/us/stat/129/1553], provided that: 
 
 > “Not later than 18 months after the date of enactment of this Act \[Dec. 4, 2015\], and each year thereafter, the Administrator of the Federal Motor Carrier Safety Administration shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that—
 
@@ -257,7 +257,7 @@ Oct. 27, 1986, Pub. L. 99–570, § 12005(a), (b), 100 Stat. 3207–171.  </td
 
  __Hazardous Materials Endorsement Exemption__ 
 
-[Pub. L. 114–94, div. A, title VII, § 7208][/us/pl/114/94/s7208], Dec. 4, 2015, [129 Stat. 1593][/us/stat/129/1593], provided that: 
+[Pub. L. 114–94, div. A, title VII][/us/pl/114/94/dA/tVII], § 7208, Dec. 4, 2015, [129 Stat. 1593][/us/stat/129/1593], provided that: 
 
 > “The Secretary \[of Transportation\] shall allow a State, at the discretion of the State, to waive the requirement for a holder of a Class A commercial driver’s license to obtain a hazardous materials endorsement under part 383 of title 49, Code of Federal Regulations, if the license holder—
 
@@ -273,7 +273,7 @@ Oct. 27, 1986, Pub. L. 99–570, § 12005(a), (b), 100 Stat. 3207–171.  </td
 
  __Commercial Motor Vehicle Operator Requirements Relating to Sleep Disorders__ 
 
-[Pub. L. 113–45, § 1][/us/pl/113/45/s1], Oct. 15, 2013, [127 Stat. 557][/us/stat/127/557], provided that:
+[Pub. L. 113–45][/us/pl/113/45], § 1, Oct. 15, 2013, [127 Stat. 557][/us/stat/127/557], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -289,7 +289,7 @@ Oct. 27, 1986, Pub. L. 99–570, § 12005(a), (b), 100 Stat. 3207–171.  </td
 
  __Operation of Commercial Motor Vehicles by Individuals Who Use Insulin To Treat Diabetes Mellitus__ 
 
-[Pub. L. 109–59, title IV, § 4129][/us/pl/109/59/s4129], Aug. 10, 2005, [119 Stat. 1742][/us/stat/119/1742], provided that:
+[Pub. L. 109–59, title IV][/us/pl/109/59/tIV], § 4129, Aug. 10, 2005, [119 Stat. 1742][/us/stat/119/1742], provided that:
 
 >     “(a)  __Revision of Final Rule__  __.—__ 
 
@@ -309,7 +309,7 @@ Oct. 27, 1986, Pub. L. 99–570, § 12005(a), (b), 100 Stat. 3207–171.  </td
 
  __CDL School Bus Endorsement__ 
 
-[Pub. L. 106–159, title II, § 214][/us/pl/106/159/s214], Dec. 9, 1999, [113 Stat. 1766][/us/stat/113/1766], provided that: 
+[Pub. L. 106–159, title II][/us/pl/106/159/tII], § 214, Dec. 9, 1999, [113 Stat. 1766][/us/stat/113/1766], provided that: 
 
 > “The Secretary shall conduct a rulemaking to establish a special commercial driver’s license endorsement for drivers of school buses. The endorsement shall, at a minimum—
 
@@ -327,13 +327,13 @@ Oct. 27, 1986, Pub. L. 99–570, § 12005(a), (b), 100 Stat. 3207–171.  </td
 
  __Medical Certificate__ 
 
-[Pub. L. 106–159, title II, § 215][/us/pl/106/159/s215], Dec. 9, 1999, [113 Stat. 1767][/us/stat/113/1767], provided that: 
+[Pub. L. 106–159, title II][/us/pl/106/159/tII], § 215, Dec. 9, 1999, [113 Stat. 1767][/us/stat/113/1767], provided that: 
 
 > “The Secretary shall initiate a rulemaking to provide for a Federal medical qualification certificate to be made a part of commercial driver’s licenses.”
 
  __Insulin Treated Diabetes Mellitus__ 
 
-[Pub. L. 105–178, title IV, § 4018][/us/pl/105/178/s4018], June 9, 1998, [112 Stat. 413][/us/stat/112/413], provided that:
+[Pub. L. 105–178, title IV][/us/pl/105/178/tIV], § 4018, June 9, 1998, [112 Stat. 413][/us/stat/112/413], provided that:
 
 >     “(a)  __Determination__  __.—__ 
 
@@ -365,7 +365,7 @@ Oct. 27, 1986, Pub. L. 99–570, § 12005(a), (b), 100 Stat. 3207–171.  </td
 
  __Performance-Based CDL Testing__ 
 
-[Pub. L. 105–178, title IV, § 4019][/us/pl/105/178/s4019], June 9, 1998, [112 Stat. 414][/us/stat/112/414], provided that:
+[Pub. L. 105–178, title IV][/us/pl/105/178/tIV], § 4019, June 9, 1998, [112 Stat. 414][/us/stat/112/414], provided that:
 
 >     “(a)  __Review__  __.—__ 
 
@@ -377,7 +377,7 @@ Oct. 27, 1986, Pub. L. 99–570, § 12005(a), (b), 100 Stat. 3207–171.  </td
 
  __Driver Fatigue__ 
 
-[Pub. L. 105–178, title IV, § 4021][/us/pl/105/178/s4021], June 9, 1998, [112 Stat. 414][/us/stat/112/414], provided that:
+[Pub. L. 105–178, title IV][/us/pl/105/178/tIV], § 4021, June 9, 1998, [112 Stat. 414][/us/stat/112/414], provided that:
 
 >     “(a) __Technologies To Reduce Fatigue of Commercial Motor Vehicle Operators.—__ 
 
@@ -412,20 +412,20 @@ Oct. 27, 1986, Pub. L. 99–570, § 12005(a), (b), 100 Stat. 3207–171.  </td
 
 [/us/usc/t49/s5103a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5103a
 [/us/usc/t10/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2Fa
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1016
-[/us/pl/106/159/s201/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2Fs201%2Fd
+[/us/pl/106/159/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2FtII
 [/us/stat/113/1760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1760
-[/us/pl/107/56/s1012/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs1012%2Fb
+[/us/pl/107/56/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtX
 [/us/stat/115/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F397
-[/us/pl/112/141/s32304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32304%2Fa
+[/us/pl/112/141/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtII
 [/us/stat/126/791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F791
-[/us/pl/114/94/s5401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5401%2Fa
+[/us/pl/114/94/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtV
 [/us/stat/129/1546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1546
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
-[/us/pl/112/141/s32304/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32304%2Fc
-[/us/pl/112/141/s32304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32304%2Fa
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
 [/us/pl/106/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
@@ -434,27 +434,27 @@ Oct. 27, 1986, Pub. L. 99–570, § 12005(a), (b), 100 Stat. 3207–171.  </td
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
-[/us/pl/114/94/s5506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5506
+[/us/pl/114/94/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtV
 [/us/stat/129/1553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1553
-[/us/pl/114/94/s7208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs7208
+[/us/pl/114/94/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtVII
 [/us/stat/129/1593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1593
-[/us/pl/113/45/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F45%2Fs1
+[/us/pl/113/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F45
 [/us/stat/127/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F557
-[/us/pl/109/59/s4129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4129
+[/us/pl/109/59/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIV
 [/us/stat/119/1742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1742
 [/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
 [/us/usc/t49/s31305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31305
-[/us/pl/106/159/s214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2Fs214
+[/us/pl/106/159/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2FtII
 [/us/stat/113/1766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1766
-[/us/pl/106/159/s215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2Fs215
+[/us/pl/106/159/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2FtII
 [/us/stat/113/1767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1767
-[/us/pl/105/178/s4018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4018
+[/us/pl/105/178/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtIV
 [/us/stat/112/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F413
-[/us/pl/105/178/s4019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4019
+[/us/pl/105/178/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtIV
 [/us/stat/112/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F414
 [/us/usc/t49/s31305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31305
 [/us/usc/t49/s31305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31305
-[/us/pl/105/178/s4021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4021
+[/us/pl/105/178/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtIV
 [/us/stat/112/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F414
 [/us/stat/112/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F419
 

@@ -11,15 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t49/stI/ch7/m__us_usc_t49_stI_ch7.md) | [Next](./../../../../../..//us/usc/t49/stI/ch7/schII/m__us_usc_t49_stI_ch7_schII.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2FstI%2Fch7%2FschI)
+[Previous](./../../../../../..//us/usc/t49/stI/ch7/m__us_usc_t49_stI_ch7.md) | [Next](./../../../../../..//us/usc/t49/stI/ch7/schI/m__us_usc_t49_s701...706.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2FstI%2Fch7%2FschI)
 
 #### SUBCHAPTER I—ESTABLISHMENT
 
-\[§§ 701 to 706. __Renumbered §§ 1301 to 1306\]__ 
-
 ----------
 
-[Previous](./../../../../../..//us/usc/t49/stI/ch7/m__us_usc_t49_stI_ch7.md) | [Next](./../../../../../..//us/usc/t49/stI/ch7/schII/m__us_usc_t49_stI_ch7_schII.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2FstI%2Fch7%2FschI)
+[Previous](./../../../../../..//us/usc/t49/stI/ch7/m__us_usc_t49_stI_ch7.md) | [Next](./../../../../../..//us/usc/t49/stI/ch7/schI/m__us_usc_t49_s701...706.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2FstI%2Fch7%2FschI)
 
 ----------
 ----------

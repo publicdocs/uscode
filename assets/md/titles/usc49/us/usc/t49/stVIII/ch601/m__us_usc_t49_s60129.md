@@ -125,7 +125,7 @@
 
     Subsection (a) shall not apply with respect to an action of an employee of an employer who, acting without direction from the employer (or such employer’s agent), deliberately causes a violation of any requirement relating to pipeline safety under this chapter or any other law of the United States.
 
-(Added [Pub. L. 107–355, § 6(a)][/us/pl/107/355/s6/a], Dec. 17, 2002, [116 Stat. 2989][/us/stat/116/2989].)
+(Added [Pub. L. 107–355][/us/pl/107/355], § 6(a), Dec. 17, 2002, [116 Stat. 2989][/us/stat/116/2989].)
 
 ----------
 
@@ -135,7 +135,7 @@
 ----------
 
 [/us/usc/t28/s1361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1361
-[/us/pl/107/355/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355%2Fs6%2Fa
+[/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355
 [/us/stat/116/2989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2989
 
 

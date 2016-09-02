@@ -123,7 +123,7 @@
 
             (B) Subsections (a)–(h) of this section do not apply to a department, agency, or instrumentality of the United States Government, an authority of a State or political subdivision of a State, an Indian tribe, or an employee of a department, agency, instrumentality, or authority carrying out official duties.
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 765][/us/stat/108/765]; [Pub. L. 103–311, title I][/us/pl/103/311], §§ 104, 117(a)(3), 119(d)(1), Aug. 26, 1994, [108 Stat. 1673][/us/stat/108/1673], 1678, 1680; [Pub. L. 105–102, § 2(3)][/us/pl/105/102/s2/3], Nov. 20, 1997, [111 Stat. 2204][/us/stat/111/2204]; [Pub. L. 105–225, § 7(b)(1)][/us/pl/105/225/s7/b/1], Aug. 12, 1998, [112 Stat. 1511][/us/stat/112/1511]; [Pub. L. 109–59, title VII][/us/pl/109/59], §§ 7109(a)–(c), (e), (f), 7114(d)(3), 7126, Aug. 10, 2005, [119 Stat. 1897][/us/stat/119/1897], 1898, 1900, 1909; [Pub. L. 114–94, div. A, title VII, § 7203(b)(1)][/us/pl/114/94/s7203/b/1], Dec. 4, 2015, [129 Stat. 1591][/us/stat/129/1591].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(d), July 5, 1994, [108 Stat. 765][/us/stat/108/765]; [Pub. L. 103–311, title I][/us/pl/103/311/tI], §§ 104, 117(a)(3), 119(d)(1), Aug. 26, 1994, [108 Stat. 1673][/us/stat/108/1673], 1678, 1680; [Pub. L. 105–102][/us/pl/105/102], § 2(3), Nov. 20, 1997, [111 Stat. 2204][/us/stat/111/2204]; [Pub. L. 105–225][/us/pl/105/225], § 7(b)(1), Aug. 12, 1998, [112 Stat. 1511][/us/stat/112/1511]; [Pub. L. 109–59, title VII][/us/pl/109/59/tVII], §§ 7109(a)–(c), (e), (f), 7114(d)(3), 7126, Aug. 10, 2005, [119 Stat. 1897][/us/stat/119/1897], 1898, 1900, 1909; [Pub. L. 114–94, div. A, title VII][/us/pl/114/94/dA/tVII], § 7203(b)(1), Dec. 4, 2015, [129 Stat. 1591][/us/stat/129/1591].)
 
 <table>
 
@@ -357,59 +357,59 @@ Jan. 3, 1975, Pub. L. 93–633, 88 Stat. 2156, § 117A(h)(1)– (5); added Nov
 
     2015—Subsec. (g)(2)(B), (C). [Pub. L. 114–94][/us/pl/114/94] substituted “5116(h)” for “5116(i)”
 
-    2005—Subsec. (a)(1). [Pub. L. 109–59, § 7126][/us/pl/109/59/s7126], substituted “Secretary” for “Secretary of Transportation” in introductory provisions.
+    2005—Subsec. (a)(1). [Pub. L. 109–59][/us/pl/109/59], § 7126, substituted “Secretary” for “Secretary of Transportation” in introductory provisions.
 
-    Subsec. (a)(1)(B). [Pub. L. 109–59, § 7109(a)(1)][/us/pl/109/59/s7109/a/1], substituted “Division 1.1, 1.2, or 1.3 explosive material” for “class A or B explosive”.
+    Subsec. (a)(1)(B). [Pub. L. 109–59][/us/pl/109/59], § 7109(a)(1), substituted “Division 1.1, 1.2, or 1.3 explosive material” for “class A or B explosive”.
 
-    Subsec. (a)(2). [Pub. L. 109–59, § 7126][/us/pl/109/59/s7126], substituted “Secretary may” for “Secretary of Transportation may” in introductory provisions.
+    Subsec. (a)(2). [Pub. L. 109–59][/us/pl/109/59], § 7126, substituted “Secretary may” for “Secretary of Transportation may” in introductory provisions.
 
-    Subsec. (a)(2)(B). [Pub. L. 109–59, § 7109(a)(2)][/us/pl/109/59/s7109/a/2], amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “a person manufacturing, fabricating, marking, maintaining, reconditioning, repairing, or testing a package or container the person represents, marks, certifies, or sells for use in transporting in commerce hazardous material the Secretary designates.”
+    Subsec. (a)(2)(B). [Pub. L. 109–59][/us/pl/109/59], § 7109(a)(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “a person manufacturing, fabricating, marking, maintaining, reconditioning, repairing, or testing a package or container the person represents, marks, certifies, or sells for use in transporting in commerce hazardous material the Secretary designates.”
 
-    Subsec. (a)(3). [Pub. L. 109–59, § 7109(a)(3)][/us/pl/109/59/s7109/a/3], substituted “design, manufacture, fabricate, inspect, mark, maintain, recondition, repair, or test a package, container packaging component, or” for “manufacture, fabricate, mark, maintain, recondition, repair, or test a package or”.
+    Subsec. (a)(3). [Pub. L. 109–59][/us/pl/109/59], § 7109(a)(3), substituted “design, manufacture, fabricate, inspect, mark, maintain, recondition, repair, or test a package, container packaging component, or” for “manufacture, fabricate, mark, maintain, recondition, repair, or test a package or”.
 
-    Subsec. (b)(1). [Pub. L. 109–59, § 7126][/us/pl/109/59/s7126], substituted “Secretary requires” for “Secretary of Transportation requires” in introductory provisions.
+    Subsec. (b)(1). [Pub. L. 109–59][/us/pl/109/59], § 7126, substituted “Secretary requires” for “Secretary of Transportation requires” in introductory provisions.
 
-    Subsec. (b)(1)(C). [Pub. L. 109–59, § 7109(b)][/us/pl/109/59/s7109/b], substituted “any of the activities” for “the activity”.
+    Subsec. (b)(1)(C). [Pub. L. 109–59][/us/pl/109/59], § 7109(b), substituted “any of the activities” for “the activity”.
 
-    Subsec. (c). [Pub. L. 109–59, § 7109(c)][/us/pl/109/59/s7109/c], amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows:
+    Subsec. (c). [Pub. L. 109–59][/us/pl/109/59], § 7109(c), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows:
 
     “(1) Each person required to file a registration statement under subsection (a) of this section must file the first statement not later than March 31, 1992. The Secretary of Transportation may extend that date to September 30, 1992, for activities referred to in subsection (a)(1) of this section. A person shall renew the statement periodically consistent with regulations the Secretary prescribes, but not more than once each year and not less than once every 5 years.
 
     “(2) The Secretary of Transportation shall decide by regulation when and under what circumstances a registration statement must be amended and the procedures to follow in amending the statement.”
 
-    Subsecs. (d) to (f). [Pub. L. 109–59, § 7126][/us/pl/109/59/s7126], substituted “Secretary” for “Secretary of Transportation” in subsec. (d), “Secretary in carrying” for “Secretary of Transportation in carrying” in subsec. (e), and “Secretary shall” for “Secretary of Transportation shall” in subsec. (f).
+    Subsecs. (d) to (f). [Pub. L. 109–59][/us/pl/109/59], § 7126, substituted “Secretary” for “Secretary of Transportation” in subsec. (d), “Secretary in carrying” for “Secretary of Transportation in carrying” in subsec. (e), and “Secretary shall” for “Secretary of Transportation shall” in subsec. (f).
 
-    Subsec. (g)(1). [Pub. L. 109–59, § 7126][/us/pl/109/59/s7126], substituted “Secretary shall” for “Secretary of Transportation shall”.
+    Subsec. (g)(1). [Pub. L. 109–59][/us/pl/109/59], § 7126, substituted “Secretary shall” for “Secretary of Transportation shall”.
 
-    [Pub. L. 109–59, § 7109(f)(1)][/us/pl/109/59/s7109/f/1], substituted “shall” for “may”.
+    [Pub. L. 109–59][/us/pl/109/59], § 7109(f)(1), substituted “shall” for “may”.
 
-    Subsec. (g)(2)(A). [Pub. L. 109–59, § 7126][/us/pl/109/59/s7126], substituted “Secretary shall establish” for “Secretary of Transportation shall establish” in introductory provisions.
+    Subsec. (g)(2)(A). [Pub. L. 109–59][/us/pl/109/59], § 7126, substituted “Secretary shall establish” for “Secretary of Transportation shall establish” in introductory provisions.
 
-    [Pub. L. 109–59, § 7109(f)(2)][/us/pl/109/59/s7109/f/2], substituted “$3,000” for “$5,000” in introductory provisions.
+    [Pub. L. 109–59][/us/pl/109/59], § 7109(f)(2), substituted “$3,000” for “$5,000” in introductory provisions.
 
-    Subsec. (g)(2)(B). [Pub. L. 109–59, § 7126][/us/pl/109/59/s7126], substituted “Secretary shall” for “Secretary of Transportation shall”.
+    Subsec. (g)(2)(B). [Pub. L. 109–59][/us/pl/109/59], § 7126, substituted “Secretary shall” for “Secretary of Transportation shall”.
 
-    Subsec. (g)(2)(C). [Pub. L. 109–59, § 7126][/us/pl/109/59/s7126], substituted “Secretary shall” for “Secretary of Transportation shall”.
+    Subsec. (g)(2)(C). [Pub. L. 109–59][/us/pl/109/59], § 7126, substituted “Secretary shall” for “Secretary of Transportation shall”.
 
-    [Pub. L. 109–59, § 7114(d)(3)][/us/pl/109/59/s7114/d/3], substituted “the Hazardous Materials Emergency Preparedness Fund established” for “the account the Secretary of the Treasury establishes”.
+    [Pub. L. 109–59][/us/pl/109/59], § 7114(d)(3), substituted “the Hazardous Materials Emergency Preparedness Fund established” for “the account the Secretary of the Treasury establishes”.
 
-    Subsec. (g)(3). [Pub. L. 109–59, § 7109(f)(3)][/us/pl/109/59/s7109/f/3], added par. (3).
+    Subsec. (g)(3). [Pub. L. 109–59][/us/pl/109/59], § 7109(f)(3), added par. (3).
 
-    Subsec. (h). [Pub. L. 109–59, § 7126][/us/pl/109/59/s7126], substituted “Secretary” for “Secretary of Transportation”.
+    Subsec. (h). [Pub. L. 109–59][/us/pl/109/59], § 7126, substituted “Secretary” for “Secretary of Transportation”.
 
-    Subsec. (i)(1). [Pub. L. 109–59, § 7126][/us/pl/109/59/s7126], substituted “Secretary” for “Secretary of Transportation”.
+    Subsec. (i)(1). [Pub. L. 109–59][/us/pl/109/59], § 7126, substituted “Secretary” for “Secretary of Transportation”.
 
-    Subsec. (i)(2)(B). [Pub. L. 109–59, § 7109(e)][/us/pl/109/59/s7109/e], inserted “an Indian tribe,” after “subdivision of a State,”.
+    Subsec. (i)(2)(B). [Pub. L. 109–59][/us/pl/109/59], § 7109(e), inserted “an Indian tribe,” after “subdivision of a State,”.
 
     1998—Subsec. (f). [Pub. L. 105–225][/us/pl/105/225] substituted “section 552(b)” for “section 552(f)”.
 
     1997—Subsec. (f). [Pub. L. 105–102][/us/pl/105/102] which directed substitution of “section 552(b)” for “section 522(f)” could not be executed because “section 522(f)” did not appear.
 
-    1994—Subsec. (a)(1)(D). [Pub. L. 103–311, § 117(a)(3)][/us/pl/103/311/s117/a/3], substituted “a bulk packaging” for “a bulk package” and “the bulk packaging” for “the package”.
+    1994—Subsec. (a)(1)(D). [Pub. L. 103–311][/us/pl/103/311], § 117(a)(3), substituted “a bulk packaging” for “a bulk package” and “the bulk packaging” for “the package”.
 
-    Subsec. (a)(4). [Pub. L. 103–311, § 104][/us/pl/103/311/s104], added par. (4).
+    Subsec. (a)(4). [Pub. L. 103–311][/us/pl/103/311], § 104, added par. (4).
 
-    Subsec. (g)(2)(A)(viii). [Pub. L. 103–311, § 119(d)(1)][/us/pl/103/311/s119/d/1], struck out “5107(e),” before “5108(g)(2)”.
+    Subsec. (g)(2)(A)(viii). [Pub. L. 103–311][/us/pl/103/311], § 119(d)(1), struck out “5107(e),” before “5108(g)(2)”.
 
  __Effective Date of 2015 Amendment__ 
 
@@ -417,7 +417,7 @@ Jan. 3, 1975, Pub. L. 93–633, 88 Stat. 2156, § 117A(h)(1)– (5); added Nov
 
  __Registration__ 
 
-[Pub. L. 109–59, title VII, § 7109(d)][/us/pl/109/59/s7109/d], Aug. 10, 2005, [119 Stat. 1898][/us/stat/119/1898], provided that: 
+[Pub. L. 109–59, title VII][/us/pl/109/59/tVII], § 7109(d), Aug. 10, 2005, [119 Stat. 1898][/us/stat/119/1898], provided that: 
 
 > “As soon as practicable, the Administrator of the Pipeline and Hazardous Materials Safety Administration shall transmit to the Federal Motor Carrier Safety Administration hazardous material registrant information obtained before, on, or after the date of enactment of this Act \[Aug. 10, 2005\] under [section 5108 of title 49][/us/usc/t49/s5108], United States Code, together with any Department of Transportation identification number for each registrant.”
 
@@ -431,49 +431,49 @@ Jan. 3, 1975, Pub. L. 93–633, 88 Stat. 2156, § 117A(h)(1)– (5); added Nov
 [/us/usc/t5/s552/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fb
 [/us/usc/t49/s5116/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5116%2Fh
 [/us/usc/t49/s5116/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5116%2Fh
-[/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F765
-[/us/pl/103/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311
+[/us/pl/103/311/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311%2FtI
 [/us/stat/108/1673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1673
-[/us/pl/105/102/s2/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102%2Fs2%2F3
+[/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/stat/111/2204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2204
-[/us/pl/105/225/s7/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225%2Fs7%2Fb%2F1
+[/us/pl/105/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225
 [/us/stat/112/1511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1511
-[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtVII
 [/us/stat/119/1897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1897
-[/us/pl/114/94/s7203/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs7203%2Fb%2F1
+[/us/pl/114/94/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtVII
 [/us/stat/129/1591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1591
 [/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
-[/us/pl/109/59/s7126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7126
-[/us/pl/109/59/s7109/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7109%2Fa%2F1
-[/us/pl/109/59/s7126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7126
-[/us/pl/109/59/s7109/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7109%2Fa%2F2
-[/us/pl/109/59/s7109/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7109%2Fa%2F3
-[/us/pl/109/59/s7126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7126
-[/us/pl/109/59/s7109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7109%2Fb
-[/us/pl/109/59/s7109/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7109%2Fc
-[/us/pl/109/59/s7126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7126
-[/us/pl/109/59/s7126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7126
-[/us/pl/109/59/s7109/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7109%2Ff%2F1
-[/us/pl/109/59/s7126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7126
-[/us/pl/109/59/s7109/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7109%2Ff%2F2
-[/us/pl/109/59/s7126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7126
-[/us/pl/109/59/s7126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7126
-[/us/pl/109/59/s7114/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7114%2Fd%2F3
-[/us/pl/109/59/s7109/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7109%2Ff%2F3
-[/us/pl/109/59/s7126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7126
-[/us/pl/109/59/s7126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7126
-[/us/pl/109/59/s7109/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7109%2Fe
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/105/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225
 [/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
-[/us/pl/103/311/s117/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311%2Fs117%2Fa%2F3
-[/us/pl/103/311/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311%2Fs104
-[/us/pl/103/311/s119/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311%2Fs119%2Fd%2F1
+[/us/pl/103/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311
+[/us/pl/103/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311
+[/us/pl/103/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
-[/us/pl/109/59/s7109/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7109%2Fd
+[/us/pl/109/59/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtVII
 [/us/stat/119/1898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1898
 [/us/usc/t49/s5108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5108
 

@@ -17,7 +17,7 @@
 
     No part of an accident or incident report filed by a railroad carrier under [section 20901 of this title][/us/usc/t49/s20901] or made by the Secretary of Transportation under [section 20902 of this title][/us/usc/t49/s20902] may be used in a civil action for damages resulting from a matter mentioned in the report.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 887][/us/stat/108/887].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 887][/us/stat/108/887].)
 
 <table>
 
@@ -76,7 +76,7 @@ May 6, 1910, ch. 208, § 4, 36 Stat. 351.  </td>
 
 [/us/usc/t49/s20901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs20901
 [/us/usc/t49/s20902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs20902
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F887
 
 

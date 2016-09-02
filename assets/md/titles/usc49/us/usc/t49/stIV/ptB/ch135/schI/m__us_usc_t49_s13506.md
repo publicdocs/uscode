@@ -103,7 +103,7 @@
 
         (3) the emergency towing of an accidentally wrecked or disabled motor vehicle.
 
-(Added [Pub. L. 104–88, title I, § 103][/us/pl/104/88/s103], Dec. 29, 1995, [109 Stat. 861][/us/stat/109/861]; amended [Pub. L. 105–102, § 2(8)][/us/pl/105/102/s2/8], Nov. 20, 1997, [111 Stat. 2204][/us/stat/111/2204]; [Pub. L. 107–298, § 3(b)(1)][/us/pl/107/298/s3/b/1], Nov. 26, 2002, [116 Stat. 2343][/us/stat/116/2343]; [Pub. L. 114–113, div. L, title I, § 136][/us/pl/114/113/s136], Dec. 18, 2015, [129 Stat. 2851][/us/stat/129/2851].)
+(Added [Pub. L. 104–88, title I][/us/pl/104/88/tI], § 103, Dec. 29, 1995, [109 Stat. 861][/us/stat/109/861]; amended [Pub. L. 105–102][/us/pl/105/102], § 2(8), Nov. 20, 1997, [111 Stat. 2204][/us/stat/111/2204]; [Pub. L. 107–298][/us/pl/107/298], § 3(b)(1), Nov. 26, 2002, [116 Stat. 2343][/us/stat/116/2343]; [Pub. L. 114–113, div. L, title I][/us/pl/114/113/dL/tI], § 136, Dec. 18, 2015, [129 Stat. 2851][/us/stat/129/2851].)
 
  __Historical and Revision Notes__ 
 
@@ -113,11 +113,11 @@
 
  __References in Text__ 
 
-    Section 13904(d), referred to in subsec. (a)(14), was redesignated section 13904(f) by [Pub. L. 112–141, div. C, title II, § 32916(b)(2)][/us/pl/112/141/s32916/b/2], July 6, 2012, [126 Stat. 821][/us/stat/126/821].
+    Section 13904(d), referred to in subsec. (a)(14), was redesignated section 13904(f) by [Pub. L. 112–141, div. C, title II][/us/pl/112/141/dC/tII], § 32916(b)(2), July 6, 2012, [126 Stat. 821][/us/stat/126/821].
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [section 10526 of this title][/us/usc/t49/s10526] prior to the general amendment of this subtitle by [Pub. L. 104–88, § 102(a)][/us/pl/104/88/s102/a].
+    Provisions similar to those in this section were contained in [section 10526 of this title][/us/usc/t49/s10526] prior to the general amendment of this subtitle by [Pub. L. 104–88][/us/pl/104/88], § 102(a).
 
  __Amendments__ 
 
@@ -139,19 +139,19 @@
 ----------
 
 [/us/usc/t12/s1141j/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1141j%2Fa
-[/us/pl/104/88/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs103
+[/us/pl/104/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtI
 [/us/stat/109/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F861
-[/us/pl/105/102/s2/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102%2Fs2%2F8
+[/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/stat/111/2204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2204
-[/us/pl/107/298/s3/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F298%2Fs3%2Fb%2F1
+[/us/pl/107/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F298
 [/us/stat/116/2343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2343
-[/us/pl/114/113/s136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs136
+[/us/pl/114/113/dL/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdL%2FtI
 [/us/stat/129/2851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2851
 [/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
-[/us/pl/112/141/s32916/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32916%2Fb%2F2
+[/us/pl/112/141/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtII
 [/us/stat/126/821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F821
 [/us/usc/t49/s10526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs10526
-[/us/pl/104/88/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs102%2Fa
+[/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/107/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F298
 [/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102

@@ -47,7 +47,7 @@
 
         (3) This subsection does not prohibit the Surface Transportation Board from ordering retroactive relief in a proceeding begun or reopened after October 1, 1981.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 911][/us/stat/108/911]; [Pub. L. 105–134, title IV, § 406(b)][/us/pl/105/134/s406/b], Dec. 2, 1997, [111 Stat. 2586][/us/stat/111/2586]; [Pub. L. 112–141, div. C, title II, § 32932(c)(1)][/us/pl/112/141/s32932/c/1], July 6, 2012, [126 Stat. 829][/us/stat/126/829].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 911][/us/stat/108/911]; [Pub. L. 105–134, title IV][/us/pl/105/134/tIV], § 406(b), Dec. 2, 1997, [111 Stat. 2586][/us/stat/111/2586]; [Pub. L. 112–141, div. C, title II][/us/pl/112/141/dC/tII], § 32932(c)(1), July 6, 2012, [126 Stat. 829][/us/stat/126/829].)
 
 <table>
 
@@ -159,7 +159,7 @@ In subsection (c)(2), the words “take such action as may be necessary to”, �
 
  __Accessibility by Individuals With Disabilities__ 
 
-[Pub. L. 110–432, div. B, title II, § 219][/us/pl/110/432/s219], Oct. 16, 2008, [122 Stat. 4931][/us/stat/122/4931], provided that:
+[Pub. L. 110–432, div. B, title II][/us/pl/110/432/dB/tII], § 219, Oct. 16, 2008, [122 Stat. 4931][/us/stat/122/4931], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -169,11 +169,11 @@ In subsection (c)(2), the words “take such action as may be necessary to”, �
 
 >     There are authorized to be appropriated to the Secretary \[of Transportation\] for the use of Amtrak such sums as may be necessary to improve the accessibility of facilities, including rail platforms, and services.”
 
-[Pub. L. 110–432, div. B, title II, § 220][/us/pl/110/432/s220], Oct. 16, 2008, [122 Stat. 4931][/us/stat/122/4931], provided that: 
+[Pub. L. 110–432, div. B, title II][/us/pl/110/432/dB/tII], § 220, Oct. 16, 2008, [122 Stat. 4931][/us/stat/122/4931], provided that: 
 
 > “Using the funds authorized by section 103 of this division \[[122 Stat. 4909][/us/stat/122/4909]\], the Federal Railroad Administration shall monitor and conduct periodic reviews of Amtrak’s compliance with applicable sections of the Americans with Disabilities Act of 1990 \[[42 U.S.C. 12101][/us/usc/t42/s12101] et seq.\] and the Rehabilitation Act of 1974 \[probably means Rehabilitation Act of 1973, [29 U.S.C. 701][/us/usc/t29/s701] et seq.\] to ensure that Amtrak’s services and facilities are accessible to individuals with disabilities to the extent required by law.”
 
-[Pub. L. 105–134, title IV, § 406(a)][/us/pl/105/134/s406/a], Dec. 2, 1997, [111 Stat. 2586][/us/stat/111/2586], provided that:
+[Pub. L. 105–134, title IV][/us/pl/105/134/tIV], § 406(a), Dec. 2, 1997, [111 Stat. 2586][/us/stat/111/2586], provided that:
 
 >     “(1)  __Access improvements at certain shared stations__  __.—__ 
 
@@ -190,27 +190,27 @@ In subsection (c)(2), the words “take such action as may be necessary to”, �
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F911
-[/us/pl/105/134/s406/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2Fs406%2Fb
+[/us/pl/105/134/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2FtIV
 [/us/stat/111/2586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2586
-[/us/pl/112/141/s32932/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32932%2Fc%2F1
+[/us/pl/112/141/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtII
 [/us/stat/126/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F829
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/105/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
-[/us/pl/110/432/s219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs219
+[/us/pl/110/432/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdB%2FtII
 [/us/stat/122/4931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4931
 [/us/usc/t42/s12162/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12162%2Fe%2F2
 [/us/usc/t42/s12161/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12161%2F5
-[/us/pl/110/432/s220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs220
+[/us/pl/110/432/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdB%2FtII
 [/us/stat/122/4931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4931
 [/us/stat/122/4909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4909
 [/us/usc/t42/s12101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12101
 [/us/usc/t29/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs701
-[/us/pl/105/134/s406/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2Fs406%2Fa
+[/us/pl/105/134/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2FtIV
 [/us/stat/111/2586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2586
 [/us/usc/t42/s12101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12101
 [/us/usc/t42/s12162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12162

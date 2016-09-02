@@ -45,7 +45,7 @@
 
     In prescribing regulations, issuing orders, and making amendments under this section, the Secretary may consult with Amtrak, public authorities operating railroad passenger service, other railroad carriers transporting passengers, organizations of passengers, and organizations of employees. A consultation is not subject to the Federal Advisory Committee Act (5 U.S.C. App.), but minutes of the consultation shall be placed in the public docket of the regulatory proceeding.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 873][/us/stat/108/873]; [Pub. L. 103–440, title II, § 215(a)][/us/pl/103/440/s215/a], Nov. 2, 1994, [108 Stat. 4623][/us/stat/108/4623]; [Pub. L. 104–287, § 5(47)][/us/pl/104/287/s5/47], Oct. 11, 1996, [110 Stat. 3393][/us/stat/110/3393].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 873][/us/stat/108/873]; [Pub. L. 103–440, title II][/us/pl/103/440/tII], § 215(a), Nov. 2, 1994, [108 Stat. 4623][/us/stat/108/4623]; [Pub. L. 104–287][/us/pl/104/287], § 5(47), Oct. 11, 1996, [110 Stat. 3393][/us/stat/110/3393].)
 
 <table>
 
@@ -133,9 +133,9 @@ Oct. 16, 1970, Pub. L. 91–458, 84 Stat. 971, § 202(h); added Oct. 10, 1980,
 
  __Amendments__ 
 
-    1996—Subsec. (b)(1). [Pub. L. 104–287, § 5(47)(A)][/us/pl/104/287/s5/47/A], substituted “November 2, 1994” for “the date of enactment of the Federal Railroad Safety Authorization Act of 1994”.
+    1996—Subsec. (b)(1). [Pub. L. 104–287][/us/pl/104/287], § 5(47)(A), substituted “November 2, 1994” for “the date of enactment of the Federal Railroad Safety Authorization Act of 1994”.
 
-    Subsec. (b)(2). [Pub. L. 104–287, § 5(47)(B)][/us/pl/104/287/s5/47/B], substituted “November 2, 1994” for “such date of enactment”.
+    Subsec. (b)(2). [Pub. L. 104–287][/us/pl/104/287], § 5(47)(B), substituted “November 2, 1994” for “such date of enactment”.
 
     1994—[Pub. L. 103–440][/us/pl/103/440] amended section generally, substituting present provisions for provisions requiring the Secretary to take administrative action to ensure that the construction, operation, and maintenance of passenger rail equipment maximize the safety of passengers, and providing for areas of consideration and concentration, as well as consultation with Amtrak.
 
@@ -146,16 +146,16 @@ Oct. 16, 1970, Pub. L. 91–458, 84 Stat. 971, § 202(h); added Oct. 10, 1980,
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F873
-[/us/pl/103/440/s215/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F440%2Fs215%2Fa
+[/us/pl/103/440/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F440%2FtII
 [/us/stat/108/4623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4623
-[/us/pl/104/287/s5/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F47
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3393
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
-[/us/pl/104/287/s5/47/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F47%2FA
-[/us/pl/104/287/s5/47/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F47%2FB
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/pl/103/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F440
 
 

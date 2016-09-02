@@ -17,7 +17,7 @@
 
     When another criminal penalty is not provided under a provision of this chapter, subchapter III of chapter 311 (except sections 31138 and 31139), or [section 31502 of this title][/us/usc/t49/s31502], a person that knowingly and willfully violates any of those provisions or a regulation or order of the Secretary of Transportation under any of those provisions, related to transportation by motor carrier, motor carrier of migrant workers, or motor private carrier, shall be fined at least $100 but not more than $500 for the first violation and at least $200 but not more than $500 for a subsequent violation. A separate violation occurs each day the violation continues.
 
-([Pub. L. 97–449, § 1(b)][/us/pl/97/449/s1/b], Jan. 12, 1983, [96 Stat. 2437][/us/stat/96/2437]; [Pub. L. 98–554, title II, § 213(c)][/us/pl/98/554/s213/c], Oct. 30, 1984, [98 Stat. 2844][/us/stat/98/2844]; [Pub. L. 103–272, § 5(m)(12)][/us/pl/103/272/s5/m/12], July 5, 1994, [108 Stat. 1377][/us/stat/108/1377].)
+([Pub. L. 97–449][/us/pl/97/449], § 1(b), Jan. 12, 1983, [96 Stat. 2437][/us/stat/96/2437]; [Pub. L. 98–554, title II][/us/pl/98/554/tII], § 213(c), Oct. 30, 1984, [98 Stat. 2844][/us/stat/98/2844]; [Pub. L. 103–272][/us/pl/103/272], § 5(m)(12), July 5, 1994, [108 Stat. 1377][/us/stat/108/1377].)
 
 <table>
 
@@ -153,11 +153,11 @@ Revised Section  </td>
 ----------
 
 [/us/usc/t49/s31502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31502
-[/us/pl/97/449/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449%2Fs1%2Fb
+[/us/pl/97/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449
 [/us/stat/96/2437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2437
-[/us/pl/98/554/s213/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F554%2Fs213%2Fc
+[/us/pl/98/554/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F554%2FtII
 [/us/stat/98/2844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2844
-[/us/pl/103/272/s5/m/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs5%2Fm%2F12
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1377
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/usc/t49/s31502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31502

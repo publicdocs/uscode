@@ -413,7 +413,7 @@
 
         (2) describes the effect on public transportation safety of activities carried out using grants under this section.
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 830][/us/stat/108/830]; [Pub. L. 109–59, title III, § 3028(a)][/us/pl/109/59/s3028/a], Aug. 10, 2005, [119 Stat. 1624][/us/stat/119/1624]; [Pub. L. 112–141, div. B, § 20021(a)][/us/pl/112/141/s20021/a], July 6, 2012, [126 Stat. 709][/us/stat/126/709]; [Pub. L. 114–94, div. A, title III, § 3013][/us/pl/114/94/s3013], Dec. 4, 2015, [129 Stat. 1476][/us/stat/129/1476].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(d), July 5, 1994, [108 Stat. 830][/us/stat/108/830]; [Pub. L. 109–59, title III][/us/pl/109/59/tIII], § 3028(a), Aug. 10, 2005, [119 Stat. 1624][/us/stat/119/1624]; [Pub. L. 112–141, div. B][/us/pl/112/141/dB], § 20021(a), July 6, 2012, [126 Stat. 709][/us/stat/126/709]; [Pub. L. 114–94, div. A, title III][/us/pl/114/94/dA/tIII], § 3013, Dec. 4, 2015, [129 Stat. 1476][/us/stat/129/1476].)
 
 <table>
 
@@ -489,19 +489,19 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 22(b); added Dec. 18, 1991, P
 
  __Amendments__ 
 
-    2015—Subsec. (b)(2)(D), (E). [Pub. L. 114–94, § 3013(1)][/us/pl/114/94/s3013/1], added subpar. (D) and redesignated former subpar. (D) as (E).
+    2015—Subsec. (b)(2)(D), (E). [Pub. L. 114–94][/us/pl/114/94], § 3013(1), added subpar. (D) and redesignated former subpar. (D) as (E).
 
-    Subsec. (e)(8) to (10). [Pub. L. 114–94, § 3013(2)][/us/pl/114/94/s3013/2], added par. (8) and redesignated former pars. (8) and (9) as (9) and (10), respectively.
+    Subsec. (e)(8) to (10). [Pub. L. 114–94][/us/pl/114/94], § 3013(2), added par. (8) and redesignated former pars. (8) and (9) as (9) and (10), respectively.
 
-    Subsec. (f)(2). [Pub. L. 114–94, § 3013(3)][/us/pl/114/94/s3013/3], which directed insertion of “or the public transportation industry generally” after “recipients”, was executed by making the insertion after “recipient”, to reflect the probable intent of Congress.
+    Subsec. (f)(2). [Pub. L. 114–94][/us/pl/114/94], § 3013(3), which directed insertion of “or the public transportation industry generally” after “recipients”, was executed by making the insertion after “recipient”, to reflect the probable intent of Congress.
 
-    Subsec. (g)(1). [Pub. L. 114–94, § 3013(4)(A)][/us/pl/114/94/s3013/4/A], substituted “a recipient” for “an eligible State, as defined in subsection (e),” in introductory provisions.
+    Subsec. (g)(1). [Pub. L. 114–94][/us/pl/114/94], § 3013(4)(A), substituted “a recipient” for “an eligible State, as defined in subsection (e),” in introductory provisions.
 
-    Subsec. (g)(1)(E). [Pub. L. 114–94, § 3013(4)(B)][/us/pl/114/94/s3013/4/B]–(D), added subpar. (E).
+    Subsec. (g)(1)(E). [Pub. L. 114–94][/us/pl/114/94], § 3013(4)(B)–(D), added subpar. (E).
 
-    Subsec. (g)(2)(A). [Pub. L. 114–94, § 3013(5)][/us/pl/114/94/s3013/5], inserted “or withhold funds” after “use of funds” and “or (1)(E)” after “paragraph (1)(D)”.
+    Subsec. (g)(2)(A). [Pub. L. 114–94][/us/pl/114/94], § 3013(5), inserted “or withhold funds” after “use of funds” and “or (1)(E)” after “paragraph (1)(D)”.
 
-    Subsec. (h). [Pub. L. 114–94, § 3013(6)][/us/pl/114/94/s3013/6], added subsec. (h) and struck out former subsec. (h), which related to cost-benefit analysis.
+    Subsec. (h). [Pub. L. 114–94][/us/pl/114/94], § 3013(6), added subsec. (h) and struck out former subsec. (h), which related to cost-benefit analysis.
 
     2012—[Pub. L. 112–141][/us/pl/112/141] amended section generally. Prior to amendment, section related to investigations of safety hazards and security risks.
 
@@ -517,7 +517,7 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 22(b); added Dec. 18, 1991, P
 
  __Improved Public Transportation Safety Measures__ 
 
-[Pub. L. 114–94, div. A, title III, § 3022][/us/pl/114/94/s3022], Dec. 4, 2015, [129 Stat. 1493][/us/stat/129/1493], provided that:
+[Pub. L. 114–94, div. A, title III][/us/pl/114/94/dA/tIII], § 3022, Dec. 4, 2015, [129 Stat. 1493][/us/stat/129/1493], provided that:
 
 >     “(a)  __Requirements__  __.—__ 
 
@@ -549,25 +549,25 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 22(b); added Dec. 18, 1991, P
 ----------
 
 [/us/usc/t49/s5307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5307
-[/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F830
-[/us/pl/109/59/s3028/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3028%2Fa
+[/us/pl/109/59/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIII
 [/us/stat/119/1624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1624
-[/us/pl/112/141/s20021/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs20021%2Fa
+[/us/pl/112/141/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdB
 [/us/stat/126/709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F709
-[/us/pl/114/94/s3013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3013
+[/us/pl/114/94/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtIII
 [/us/stat/129/1476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1476
 [/us/pl/114/94/s3020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3020
 [/us/stat/129/1491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1491
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
-[/us/pl/114/94/s3013/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3013%2F1
-[/us/pl/114/94/s3013/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3013%2F2
-[/us/pl/114/94/s3013/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3013%2F3
-[/us/pl/114/94/s3013/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3013%2F4%2FA
-[/us/pl/114/94/s3013/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3013%2F4%2FB
-[/us/pl/114/94/s3013/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3013%2F5
-[/us/pl/114/94/s3013/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3013%2F6
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
@@ -576,7 +576,7 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 22(b); added Dec. 18, 1991, P
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
-[/us/pl/114/94/s3022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3022
+[/us/pl/114/94/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtIII
 [/us/stat/129/1493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1493
 
 

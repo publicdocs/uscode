@@ -71,7 +71,7 @@
 
     (f) No part of a report of an accident occurring in operations of a motor carrier, motor carrier of migrant workers, or motor private carrier and required by the Secretary, and no part of a report of an investigation of the accident made by the Secretary, may be admitted into evidence or used in a civil action for damages related to a matter mentioned in the report or investigation.
 
-([Pub. L. 97–449, § 1(b)][/us/pl/97/449/s1/b], Jan. 12, 1983, [96 Stat. 2433][/us/stat/96/2433]; [Pub. L. 105–178, title IV, § 4006(b)][/us/pl/105/178/s4006/b], June 9, 1998, [112 Stat. 401][/us/stat/112/401]; [Pub. L. 112–141, div. C, title II, § 32501(a)][/us/pl/112/141/s32501/a], July 6, 2012, [126 Stat. 802][/us/stat/126/802].)
+([Pub. L. 97–449][/us/pl/97/449], § 1(b), Jan. 12, 1983, [96 Stat. 2433][/us/stat/96/2433]; [Pub. L. 105–178, title IV][/us/pl/105/178/tIV], § 4006(b), June 9, 1998, [112 Stat. 401][/us/stat/112/401]; [Pub. L. 112–141, div. C, title II][/us/pl/112/141/dC/tII], § 32501(a), July 6, 2012, [126 Stat. 802][/us/stat/126/802].)
 
 <table>
 
@@ -423,11 +423,11 @@ In the section, the text of 49:304(a)(3) (last sentence 1st–7th words) and (3a
 ----------
 
 [/us/usc/t49/s31102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31102
-[/us/pl/97/449/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449%2Fs1%2Fb
+[/us/pl/97/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449
 [/us/stat/96/2433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2433
-[/us/pl/105/178/s4006/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4006%2Fb
+[/us/pl/105/178/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtIV
 [/us/stat/112/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F401
-[/us/pl/112/141/s32501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32501%2Fa
+[/us/pl/112/141/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtII
 [/us/stat/126/802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F802
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t49/s31102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31102

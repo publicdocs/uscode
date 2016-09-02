@@ -95,7 +95,7 @@
 
     Any person performing any activity under this section or section 33110 or 33111 in good faith and with the reasonable belief that such activity was in accordance with such section shall be immune from any civil action respecting such activity which is seeking money damages or equitable relief in any court of the United States or a State.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1084][/us/stat/108/1084]; [Pub. L. 104–152, § 5][/us/pl/104/152/s5], July 2, 1996, [110 Stat. 1385][/us/stat/110/1385].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1084][/us/stat/108/1084]; [Pub. L. 104–152][/us/pl/104/152], § 5, July 2, 1996, [110 Stat. 1385][/us/stat/110/1385].)
 
 <table>
 
@@ -201,9 +201,9 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, § 609; added Oct. 25, 1992, Pu
 ----------
 
 [/us/usc/t49/s33110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs33110
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1084
-[/us/pl/104/152/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F152%2Fs5
+[/us/pl/104/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F152
 [/us/stat/110/1385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1385
 [/us/pl/104/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F152
 [/us/pl/92/463/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs14

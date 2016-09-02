@@ -207,27 +207,27 @@
 
     The term “over-the-road bus” means a bus characterized by an elevated passenger deck located over a baggage compartment.
 
-(Added [Pub. L. 104–88, title I, § 103][/us/pl/104/88/s103], Dec. 29, 1995, [109 Stat. 854][/us/stat/109/854]; amended [Pub. L. 104–287, § 5(27)][/us/pl/104/287/s5/27], Oct. 11, 1996, [110 Stat. 3390][/us/stat/110/3390]; [Pub. L. 106–159, title II, § 209(a)][/us/pl/106/159/s209/a], Dec. 9, 1999, [113 Stat. 1764][/us/stat/113/1764]; [Pub. L. 107–298, § 3(a)][/us/pl/107/298/s3/a], Nov. 26, 2002, [116 Stat. 2343][/us/stat/116/2343]; [Pub. L. 109–59, title IV][/us/pl/109/59], §§ 4142(a), 4202(b), Aug. 10, 2005, [119 Stat. 1747][/us/stat/119/1747], 1751; [Pub. L. 110–244, title III, § 305(c)][/us/pl/110/244/s305/c], June 6, 2008, [122 Stat. 1620][/us/stat/122/1620]; [Pub. L. 110–291, § 3][/us/pl/110/291/s3], July 30, 2008, [122 Stat. 2915][/us/stat/122/2915].)
+(Added [Pub. L. 104–88, title I][/us/pl/104/88/tI], § 103, Dec. 29, 1995, [109 Stat. 854][/us/stat/109/854]; amended [Pub. L. 104–287][/us/pl/104/287], § 5(27), Oct. 11, 1996, [110 Stat. 3390][/us/stat/110/3390]; [Pub. L. 106–159, title II][/us/pl/106/159/tII], § 209(a), Dec. 9, 1999, [113 Stat. 1764][/us/stat/113/1764]; [Pub. L. 107–298][/us/pl/107/298], § 3(a), Nov. 26, 2002, [116 Stat. 2343][/us/stat/116/2343]; [Pub. L. 109–59, title IV][/us/pl/109/59/tIV], §§ 4142(a), 4202(b), Aug. 10, 2005, [119 Stat. 1747][/us/stat/119/1747], 1751; [Pub. L. 110–244, title III][/us/pl/110/244/tIII], § 305(c), June 6, 2008, [122 Stat. 1620][/us/stat/122/1620]; [Pub. L. 110–291][/us/pl/110/291], § 3, July 30, 2008, [122 Stat. 2915][/us/stat/122/2915].)
 
  __Historical and Revision Notes__ 
 
- __[__  __Pub. L. 104–287, § 5(27)(A)__  __][/us/pl/104/287/s5/27/A]__ 
+ __[__  __Pub. L. 104–287__  __][/us/pl/104/287]__  __, § 5(27)(A)__ 
 
     This amends 49:13102(4)(A) by setting out the effective date of the ICC Termination Act of 1995 ([Public Law 104–88][/us/pl/104/88], [109 Stat. 803][/us/stat/109/803]) and the day before that date.
 
- __[__  __Pub. L. 104–287, § 5(27)(B)__  __][/us/pl/104/287/s5/27/B]__ 
+ __[__  __Pub. L. 104–287__  __][/us/pl/104/287]__  __, § 5(27)(B)__ 
 
     This amends 49:13102(4)(B) for clarity and consistency.
 
  __References in Text__ 
 
-    Section 10923, referred to in par. (4)(A), was omitted in the general amendment of this subtitle by [Pub. L. 104–88, title I, § 102(a)][/us/pl/104/88/s102/a], Dec. 29, 1995, [109 Stat. 804][/us/stat/109/804], effective Jan. 1, 1996.
+    Section 10923, referred to in par. (4)(A), was omitted in the general amendment of this subtitle by [Pub. L. 104–88, title I][/us/pl/104/88/tI], § 102(a), Dec. 29, 1995, [109 Stat. 804][/us/stat/109/804], effective Jan. 1, 1996.
 
     The date of enactment of the Household Goods Mover Oversight Enforcement and Reform Act of 2005, referred to in par. (12)(B), is the date of enactment of subtitle B of title IV of [Pub. L. 109–59][/us/pl/109/59], which was approved Aug. 10, 2005.
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [section 10102 of this title][/us/usc/t49/s10102] prior to the general amendment of this subtitle by [Pub. L. 104–88, § 102(a)][/us/pl/104/88/s102/a].
+    Provisions similar to those in this section were contained in [section 10102 of this title][/us/usc/t49/s10102] prior to the general amendment of this subtitle by [Pub. L. 104–88][/us/pl/104/88], § 102(a).
 
  __Amendments__ 
 
@@ -235,35 +235,35 @@
 
     Par. (27). [Pub. L. 110–291][/us/pl/110/291] added par. (27).
 
-    2005—Pars. (6)(B), (7)(B). [Pub. L. 109–59, § 4142(a)][/us/pl/109/59/s4142/a], substituted “commercial motor vehicle (as defined in section 31132)” for “motor vehicle”.
+    2005—Pars. (6)(B), (7)(B). [Pub. L. 109–59][/us/pl/109/59], § 4142(a), substituted “commercial motor vehicle (as defined in section 31132)” for “motor vehicle”.
 
-    Par. (12). [Pub. L. 109–59, § 4202(b)][/us/pl/109/59/s4202/b], added par. (12). Former par. (12) redesignated (14).
+    Par. (12). [Pub. L. 109–59][/us/pl/109/59], § 4202(b), added par. (12). Former par. (12) redesignated (14).
 
-    [Pub. L. 109–59, § 4142(a)][/us/pl/109/59/s4142/a], substituted “commercial motor vehicle (as defined in section 31132)” for “motor vehicle”.
+    [Pub. L. 109–59][/us/pl/109/59], § 4142(a), substituted “commercial motor vehicle (as defined in section 31132)” for “motor vehicle”.
 
-    Par. (13). [Pub. L. 109–59, § 4202(b)][/us/pl/109/59/s4202/b], added par. (13). Former par. (13) redesignated (15).
+    Par. (13). [Pub. L. 109–59][/us/pl/109/59], § 4202(b), added par. (13). Former par. (13) redesignated (15).
 
-    [Pub. L. 109–59, § 4142(a)][/us/pl/109/59/s4142/a], substituted “commercial motor vehicle (as defined in section 31132)” for “motor vehicle” in introductory provisions.
+    [Pub. L. 109–59][/us/pl/109/59], § 4142(a), substituted “commercial motor vehicle (as defined in section 31132)” for “motor vehicle” in introductory provisions.
 
-    Pars. (14) to (26). [Pub. L. 109–59, § 4202(b)][/us/pl/109/59/s4202/b], redesignated pars. (12) to (24) as (14) to (26), respectively.
+    Pars. (14) to (26). [Pub. L. 109–59][/us/pl/109/59], § 4202(b), redesignated pars. (12) to (24) as (14) to (26), respectively.
 
     2002—Pars. (17) to (24). [Pub. L. 107–298][/us/pl/107/298] added pars. (17) and (20) and redesignated former pars. (17), (18), (19), (20), (21), and (22) as pars. (18), (19), (21), (22), (23), and (24), respectively.
 
     1999—Par. (10)(A). [Pub. L. 106–159][/us/pl/106/159] substituted “, except such term does not include property moving from a factory or store, other than property that the householder has purchased with the intent to use in his or her dwelling and is transported at the request of, and the transportation charges are paid to the carrier by, the householder;” for “, including transportation of property from a factory or store when the property is purchased by the householder with intent to use in his or her dwelling,”.
 
-    1996—Par. (4)(A). [Pub. L. 104–287, § 5(27)(A)][/us/pl/104/287/s5/27/A], substituted “January 1, 1996” for “the effective date of this section” and “December 31, 1995” for “the day before the effective date of this section”.
+    1996—Par. (4)(A). [Pub. L. 104–287][/us/pl/104/287], § 5(27)(A), substituted “January 1, 1996” for “the effective date of this section” and “December 31, 1995” for “the day before the effective date of this section”.
 
-    Par. (4)(B). [Pub. L. 104–287, § 5(27)(B)][/us/pl/104/287/s5/27/B], substituted “after December 31, 1995” for “on or after such date”.
+    Par. (4)(B). [Pub. L. 104–287][/us/pl/104/287], § 5(27)(B), substituted “after December 31, 1995” for “on or after such date”.
 
  __Application of Certain Provisions of Law__ 
 
-[Pub. L. 109–59, title IV, § 4202(c)][/us/pl/109/59/s4202/c], Aug. 10, 2005, [119 Stat. 1752][/us/stat/119/1752], provided that: 
+[Pub. L. 109–59, title IV][/us/pl/109/59/tIV], § 4202(c), Aug. 10, 2005, [119 Stat. 1752][/us/stat/119/1752], provided that: 
 
 > “The provisions of title 49, United States Code, and this subtitle \[subtitle B (§§ 4201–4216) of title IV of [Pub. L. 109–59][/us/pl/109/59], see Short Title of 2005 Amendment note set out under [section 10101 of this title][/us/usc/t49/s10101]\] (including any amendments made by this subtitle), that relate to the transportation of household goods apply only to a household goods motor carrier (as defined in [section 13102 of title 49][/us/usc/t49/s13102], United States Code).”
 
  __Definitions__ 
 
-[Pub. L. 109–59, title IV, § 4202(a)][/us/pl/109/59/s4202/a], Aug. 10, 2005, [119 Stat. 1751][/us/stat/119/1751], provided that: 
+[Pub. L. 109–59, title IV][/us/pl/109/59/tIV], § 4202(a), Aug. 10, 2005, [119 Stat. 1751][/us/stat/119/1751], provided that: 
 
 > “In this subtitle \[subtitle B (§§ 4201–4216) of title IV of [Pub. L. 109–59][/us/pl/109/59], see Short Title of 2005 Amendment note set out under [section 10101 of this title][/us/usc/t49/s10101]\], the terms ‘carrier’, ‘household goods’, ‘motor carrier’, ‘Secretary’, and ‘transportation’ have the meaning given to such terms in [section 13102 of title 49][/us/usc/t49/s13102], United States Code.”
 
@@ -276,47 +276,47 @@
 
 [/us/usc/t49/s13501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs13501
 [/us/usc/t1/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft1%2Fs1
-[/us/pl/104/88/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs103
+[/us/pl/104/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtI
 [/us/stat/109/854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F854
-[/us/pl/104/287/s5/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F27
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3390
-[/us/pl/106/159/s209/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2Fs209%2Fa
+[/us/pl/106/159/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2FtII
 [/us/stat/113/1764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1764
-[/us/pl/107/298/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F298%2Fs3%2Fa
+[/us/pl/107/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F298
 [/us/stat/116/2343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2343
-[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIV
 [/us/stat/119/1747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1747
-[/us/pl/110/244/s305/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs305%2Fc
+[/us/pl/110/244/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2FtIII
 [/us/stat/122/1620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1620
-[/us/pl/110/291/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F291%2Fs3
+[/us/pl/110/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F291
 [/us/stat/122/2915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2915
-[/us/pl/104/287/s5/27/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F27%2FA
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/stat/109/803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F803
-[/us/pl/104/287/s5/27/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F27%2FB
-[/us/pl/104/88/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs102%2Fa
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
+[/us/pl/104/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtI
 [/us/stat/109/804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F804
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/usc/t49/s10102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs10102
-[/us/pl/104/88/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs102%2Fa
+[/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
 [/us/pl/110/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F291
-[/us/pl/109/59/s4142/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4142%2Fa
-[/us/pl/109/59/s4202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4202%2Fb
-[/us/pl/109/59/s4142/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4142%2Fa
-[/us/pl/109/59/s4202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4202%2Fb
-[/us/pl/109/59/s4142/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4142%2Fa
-[/us/pl/109/59/s4202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4202%2Fb
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/107/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F298
 [/us/pl/106/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159
-[/us/pl/104/287/s5/27/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F27%2FA
-[/us/pl/104/287/s5/27/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F27%2FB
-[/us/pl/109/59/s4202/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4202%2Fc
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
+[/us/pl/109/59/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIV
 [/us/stat/119/1752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1752
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/usc/t49/s10101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs10101
 [/us/usc/t49/s13102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs13102
-[/us/pl/109/59/s4202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4202%2Fa
+[/us/pl/109/59/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIV
 [/us/stat/119/1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1751
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/usc/t49/s10101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs10101

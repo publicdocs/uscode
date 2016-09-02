@@ -23,7 +23,7 @@
 
     The Administrator of the Federal Aviation Administration shall discourage airport sponsors and airports from using entitlement funds for lower priority projects by giving lower priority to discretionary projects submitted by airport sponsors and airports that have used entitlement funds for projects that have a lower priority than the projects for which discretionary funds are being requested.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1274][/us/stat/108/1274]; [Pub. L. 106–181, title I, § 162][/us/pl/106/181/s162], Apr. 5, 2000, [114 Stat. 91][/us/stat/114/91].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1274][/us/stat/108/1274]; [Pub. L. 106–181, title I][/us/pl/106/181/tI], § 162, Apr. 5, 2000, [114 Stat. 91][/us/stat/114/91].)
 
 <table>
 
@@ -88,9 +88,9 @@ Sept. 3, 1982, Pub. L. 97–248, § 509(b)(9), 96 Stat. 685.  </td>
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1274
-[/us/pl/106/181/s162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs162
+[/us/pl/106/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtI
 [/us/stat/114/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F91
 [/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181

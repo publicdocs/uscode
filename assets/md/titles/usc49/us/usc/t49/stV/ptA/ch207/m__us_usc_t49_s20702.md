@@ -51,7 +51,7 @@
 
     A railroad carrier may change a rule or instruction of the carrier governing the inspection by the carrier of the locomotives and tenders and locomotive and tender parts and appurtenances of the carrier when the Secretary approves a request filed by the carrier to make the change.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 885][/us/stat/108/885].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 885][/us/stat/108/885].)
 
 <table>
 
@@ -254,7 +254,7 @@ Feb. 17, 1911, ch. 103, § 5, 36 Stat. 914; Apr. 22, 1940, ch. 124, § 1(1)�
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F885
 [/us/stat/79/1320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1320
 [/us/stat/79/1320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1320

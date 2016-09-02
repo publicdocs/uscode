@@ -35,7 +35,7 @@
 
     This section does not authorize the Secretary, Under Secretary, or Administrator to withhold information from a committee of Congress authorized to have the information.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1239][/us/stat/108/1239]; [Pub. L. 107–71, title I, § 140(d)(6)][/us/pl/107/71/s140/d/6], Nov. 19, 2001, [115 Stat. 642][/us/stat/115/642].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1239][/us/stat/108/1239]; [Pub. L. 107–71, title I][/us/pl/107/71/tI], § 140(d)(6), Nov. 19, 2001, [115 Stat. 642][/us/stat/115/642].)
 
 <table>
 
@@ -167,15 +167,15 @@ In this section, the word “Administrator” in section 902(f) of the Federal A
 
  __Amendments__ 
 
-    2001—Subsec. (a). [Pub. L. 107–71, § 140(d)(6)][/us/pl/107/71/s140/d/6], in introductory provisions, inserted “the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary,” after “Transportation,” and “Under Secretary,” after “Secretary,” and substituted “, Under Secretary, or Administrator” for “or Administrator”.
+    2001—Subsec. (a). [Pub. L. 107–71][/us/pl/107/71], § 140(d)(6), in introductory provisions, inserted “the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary,” after “Transportation,” and “Under Secretary,” after “Secretary,” and substituted “, Under Secretary, or Administrator” for “or Administrator”.
 
-    Subsec. (a)(1). [Pub. L. 107–71, § 140(d)(6)(B)][/us/pl/107/71/s140/d/6/B] inserted “Under Secretary,” after “Secretary,”.
+    Subsec. (a)(1). [Pub. L. 107–71][/us/pl/107/71], § 140(d)(6)(B) inserted “Under Secretary,” after “Secretary,”.
 
-    Subsec. (b)(1). [Pub. L. 107–71, § 140(d)(6)(C)][/us/pl/107/71/s140/d/6/C], substituted “, Under Secretary, or Administrator” for “or Administrator” in two places.
+    Subsec. (b)(1). [Pub. L. 107–71][/us/pl/107/71], § 140(d)(6)(C), substituted “, Under Secretary, or Administrator” for “or Administrator” in two places.
 
-    Subsec. (b)(2). [Pub. L. 107–71, § 140(d)(6)(B)][/us/pl/107/71/s140/d/6/B] inserted “Under Secretary,” after “Secretary,”.
+    Subsec. (b)(2). [Pub. L. 107–71][/us/pl/107/71], § 140(d)(6)(B) inserted “Under Secretary,” after “Secretary,”.
 
-    Subsec. (c). [Pub. L. 107–71, § 140(d)(6)(C)][/us/pl/107/71/s140/d/6/C], substituted “, Under Secretary, or Administrator” for “or Administrator”.
+    Subsec. (c). [Pub. L. 107–71][/us/pl/107/71], § 140(d)(6)(C), substituted “, Under Secretary, or Administrator” for “or Administrator”.
 
  __Transfer of Functions__ 
 
@@ -189,17 +189,17 @@ In this section, the word “Administrator” in section 902(f) of the Federal A
 ----------
 
 [/us/usc/t49/s40115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40115
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1239
-[/us/pl/107/71/s140/d/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs140%2Fd%2F6
+[/us/pl/107/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2FtI
 [/us/stat/115/642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F642
 [/us/pl/85/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F726
 [/us/stat/72/785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F785
-[/us/pl/107/71/s140/d/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs140%2Fd%2F6
-[/us/pl/107/71/s140/d/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs140%2Fd%2F6%2FB
-[/us/pl/107/71/s140/d/6/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs140%2Fd%2F6%2FC
-[/us/pl/107/71/s140/d/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs140%2Fd%2F6%2FB
-[/us/pl/107/71/s140/d/6/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs140%2Fd%2F6%2FC
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 
 

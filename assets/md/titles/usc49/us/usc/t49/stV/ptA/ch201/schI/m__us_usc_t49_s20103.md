@@ -67,7 +67,7 @@
 
         In this subsection, the terms “emergency situation” and “emergency event” mean a natural or manmade disaster, such as a hurricane, flood, earthquake, mudslide, forest fire, snowstorm, terrorist act, biological outbreak, release of a dangerous radiological, chemical, explosive, or biological material, or a war-related activity, that poses a risk of death, serious illness, severe injury, or substantial property damage. The disaster may be local, regional, or national in scope.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 863][/us/stat/108/863]; [Pub. L. 103–440, title II, § 217][/us/pl/103/440/s217], Nov. 2, 1994, [108 Stat. 4624][/us/stat/108/4624]; [Pub. L. 107–296, title XVII, § 1710(b)][/us/pl/107/296/s1710/b], Nov. 25, 2002, [116 Stat. 2319][/us/stat/116/2319]; [Pub. L. 110–432, div. A, title III, § 308][/us/pl/110/432/s308], Oct. 16, 2008, [122 Stat. 4881][/us/stat/122/4881].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 863][/us/stat/108/863]; [Pub. L. 103–440, title II][/us/pl/103/440/tII], § 217, Nov. 2, 1994, [108 Stat. 4624][/us/stat/108/4624]; [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1710(b), Nov. 25, 2002, [116 Stat. 2319][/us/stat/116/2319]; [Pub. L. 110–432, div. A, title III][/us/pl/110/432/dA/tIII], § 308, Oct. 16, 2008, [122 Stat. 4881][/us/stat/122/4881].)
 
 <table>
 
@@ -183,11 +183,11 @@ Oct. 16, 1970, Pub. L. 91–458, § 202(d), 84 Stat. 971; restated July 8, 197
 
  __Amendments__ 
 
-    2008—Subsec. (d). [Pub. L. 110–432, § 308(1)][/us/pl/110/432/s308/1], substituted “Nonemergency Waivers” for “Waivers” in heading.
+    2008—Subsec. (d). [Pub. L. 110–432][/us/pl/110/432], § 308(1), substituted “Nonemergency Waivers” for “Waivers” in heading.
 
-    Subsec. (e). [Pub. L. 110–432, § 308(2)][/us/pl/110/432/s308/2], added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: “The Secretary shall conduct a hearing as provided by [section 553 of title 5][/us/usc/t5/s553] when prescribing a regulation or issuing an order under this chapter, including a regulation or order establishing, amending, or waiving compliance with a railroad safety regulation prescribed or order issued under this chapter. An opportunity for an oral presentation shall be provided.”
+    Subsec. (e). [Pub. L. 110–432][/us/pl/110/432], § 308(2), added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: “The Secretary shall conduct a hearing as provided by [section 553 of title 5][/us/usc/t5/s553] when prescribing a regulation or issuing an order under this chapter, including a regulation or order establishing, amending, or waiving compliance with a railroad safety regulation prescribed or order issued under this chapter. An opportunity for an oral presentation shall be provided.”
 
-    Subsec. (g). [Pub. L. 110–432, § 308(3)][/us/pl/110/432/s308/3], added subsec. (g).
+    Subsec. (g). [Pub. L. 110–432][/us/pl/110/432], § 308(3), added subsec. (g).
 
     2002—Subsec. (a). [Pub. L. 107–296][/us/pl/107/296] inserted at end “When prescribing a security regulation or issuing a security order that affects the safety of railroad operations, the Secretary of Homeland Security shall consult with the Secretary.”
 
@@ -199,7 +199,7 @@ Oct. 16, 1970, Pub. L. 91–458, § 202(d), 84 Stat. 971; restated July 8, 197
 
  __Regulations__ 
 
-[Pub. L. 103–272, § 4(t)][/us/pl/103/272/s4/t], July 5, 1994, [108 Stat. 1372][/us/stat/108/1372], provided that:
+[Pub. L. 103–272][/us/pl/103/272], § 4(t), July 5, 1994, [108 Stat. 1372][/us/stat/108/1372], provided that:
 
 >     “(1)
 
@@ -245,7 +245,7 @@ Oct. 16, 1970, Pub. L. 91–458, § 202(d), 84 Stat. 971; restated July 8, 197
 
  __Real-Time Emergency Response Information__ 
 
-[Pub. L. 114–94, div. A, title VII, § 7302][/us/pl/114/94/s7302], Dec. 4, 2015, [129 Stat. 1594][/us/stat/129/1594], provided that:
+[Pub. L. 114–94, div. A, title VII][/us/pl/114/94/dA/tVII], § 7302, Dec. 4, 2015, [129 Stat. 1594][/us/stat/129/1594], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -333,7 +333,7 @@ Oct. 16, 1970, Pub. L. 91–458, § 202(d), 84 Stat. 971; restated July 8, 197
 
  __Alerters__ 
 
-[Pub. L. 114–94, div. A, title XI, § 11407][/us/pl/114/94/s11407], Dec. 4, 2015, [129 Stat. 1684][/us/stat/129/1684], provided that:
+[Pub. L. 114–94, div. A, title XI][/us/pl/114/94/dA/tXI], § 11407, Dec. 4, 2015, [129 Stat. 1684][/us/stat/129/1684], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -351,7 +351,7 @@ Oct. 16, 1970, Pub. L. 91–458, § 202(d), 84 Stat. 971; restated July 8, 197
 
  __Locomotive Cab Studies__ 
 
-[Pub. L. 110–432, div. A, title IV, § 405][/us/pl/110/432/s405], Oct. 16, 2008, [122 Stat. 4885][/us/stat/122/4885], provided that:
+[Pub. L. 110–432, div. A, title IV][/us/pl/110/432/dA/tIV], § 405, Oct. 16, 2008, [122 Stat. 4885][/us/stat/122/4885], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -373,7 +373,7 @@ Oct. 16, 1970, Pub. L. 91–458, § 202(d), 84 Stat. 971; restated July 8, 197
 
  __Tunnel Information__ 
 
-[Pub. L. 110–432, div. A, title IV, § 414][/us/pl/110/432/s414], Oct. 16, 2008, [122 Stat. 4889][/us/stat/122/4889], as amended by [Pub. L. 114–94, div. A, title XI, § 11316(j)(7)][/us/pl/114/94/s11316/j/7], Dec. 4, 2015, [129 Stat. 1678][/us/stat/129/1678], provided that: 
+[Pub. L. 110–432, div. A, title IV][/us/pl/110/432/dA/tIV], § 414, Oct. 16, 2008, [122 Stat. 4889][/us/stat/122/4889], as amended by [Pub. L. 114–94, div. A, title XI][/us/pl/114/94/dA/tXI], § 11316(j)(7), Dec. 4, 2015, [129 Stat. 1678][/us/stat/129/1678], provided that: 
 
 > “Not later than 120 days after the date of enactment of this Act \[Oct. 16, 2008\], each railroad carrier shall, with respect to each of its tunnels which—
 
@@ -387,7 +387,7 @@ Oct. 16, 1970, Pub. L. 91–458, § 202(d), 84 Stat. 971; restated July 8, 197
 
  __Railroad Bridge Safety Assurance__ 
 
-[Pub. L. 110–432, div. A, title IV, § 417][/us/pl/110/432/s417], Oct. 16, 2008, [122 Stat. 4890][/us/stat/122/4890], as amended by [Pub. L. 114–94, div. A, title XI, § 11405][/us/pl/114/94/s11405], Dec. 4, 2015, [129 Stat. 1682][/us/stat/129/1682], provided that:
+[Pub. L. 110–432, div. A, title IV][/us/pl/110/432/dA/tIV], § 417, Oct. 16, 2008, [122 Stat. 4890][/us/stat/122/4890], as amended by [Pub. L. 114–94, div. A, title XI][/us/pl/114/94/dA/tXI], § 11405, Dec. 4, 2015, [129 Stat. 1682][/us/stat/129/1682], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -459,50 +459,50 @@ Oct. 16, 1970, Pub. L. 91–458, § 202(d), 84 Stat. 971; restated July 8, 197
 ----------
 
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F863
-[/us/pl/103/440/s217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F440%2Fs217
+[/us/pl/103/440/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F440%2FtII
 [/us/stat/108/4624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4624
-[/us/pl/107/296/s1710/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1710%2Fb
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2319
-[/us/pl/110/432/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs308
+[/us/pl/110/432/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdA%2FtIII
 [/us/stat/122/4881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4881
-[/us/pl/110/432/s308/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs308%2F1
-[/us/pl/110/432/s308/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs308%2F2
+[/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
+[/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/pl/110/432/s308/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs308%2F3
+[/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/103/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F440
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs4
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101
-[/us/pl/103/272/s4/t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs4%2Ft
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1372
-[/us/pl/114/94/s7302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs7302
+[/us/pl/114/94/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtVII
 [/us/stat/129/1594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1594
 [/us/usc/t49/s20102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs20102
 [/us/usc/t6/s124h/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs124h%2Fj
 [/us/usc/t49/s5103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5103
-[/us/pl/114/94/s11407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11407
+[/us/pl/114/94/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtXI
 [/us/stat/129/1684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1684
 [/us/usc/t49/s24102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24102
 [/us/usc/t49/s24102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24102
-[/us/pl/110/432/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs405
+[/us/pl/110/432/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdA%2FtIV
 [/us/stat/122/4885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4885
 [/us/usc/t49/s20102/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs20102%2F4
 [/us/pl/110/432/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs405
 [/us/pl/110/432/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs2%2Fa
 [/us/usc/t49/s20102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs20102
-[/us/pl/110/432/s414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs414
+[/us/pl/110/432/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdA%2FtIV
 [/us/stat/122/4889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4889
-[/us/pl/114/94/s11316/j/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11316%2Fj%2F7
+[/us/pl/114/94/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtXI
 [/us/stat/129/1678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1678
 [/us/pl/110/432/s414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs414
 [/us/pl/110/432/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs2%2Fa
 [/us/usc/t49/s20102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs20102
-[/us/pl/110/432/s417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs417
+[/us/pl/110/432/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdA%2FtIV
 [/us/stat/122/4890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4890
-[/us/pl/114/94/s11405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11405
+[/us/pl/114/94/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtXI
 [/us/stat/129/1682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1682
 [/us/pl/110/432/s417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs417
 [/us/pl/110/432/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs2%2Fa

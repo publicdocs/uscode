@@ -57,7 +57,7 @@
 
         (3) send the survey, plan, or report to the President for disposition under law and procedure established by the President.
 
-([Pub. L. 97–449, § 1(b)][/us/pl/97/449/s1/b], Jan. 12, 1983, [96 Stat. 2420][/us/stat/96/2420].)
+([Pub. L. 97–449][/us/pl/97/449], § 1(b), Jan. 12, 1983, [96 Stat. 2420][/us/stat/96/2420].)
 
 <table>
 
@@ -127,7 +127,7 @@ Oct. 15, 1966, Pub. L. 89–670, § 7 (less (a) next-to-last par.), 80 Stat. 9
 
  __References in Text__ 
 
-    [Section 304 of this title][/us/usc/t49/s304], referred to in subsec. (a), was amended generally by [Pub. L. 112–141, div. A, title I, § 1314(a)][/us/pl/112/141/s1314/a], July 6, 2012, [126 Stat. 547][/us/stat/126/547].
+    [Section 304 of this title][/us/usc/t49/s304], referred to in subsec. (a), was amended generally by [Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1314(a), July 6, 2012, [126 Stat. 547][/us/stat/126/547].
 
 ----------
 
@@ -136,10 +136,10 @@ Oct. 15, 1966, Pub. L. 89–670, § 7 (less (a) next-to-last par.), 80 Stat. 9
 ----------
 ----------
 
-[/us/pl/97/449/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449%2Fs1%2Fb
+[/us/pl/97/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449
 [/us/stat/96/2420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2420
 [/us/usc/t49/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs304
-[/us/pl/112/141/s1314/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1314%2Fa
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F547
 
 

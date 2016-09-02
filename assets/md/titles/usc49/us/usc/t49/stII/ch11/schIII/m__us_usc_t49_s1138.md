@@ -39,7 +39,7 @@
 
     For purposes of this section the term “appropriate congressional committees” means the Committee on Commerce, Science and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
 
-(Added [Pub. L. 109–443, § 5(a)][/us/pl/109/443/s5/a], Dec. 21, 2006, [120 Stat. 3299][/us/stat/120/3299]; amended [Pub. L. 113–188, title XV, § 1502][/us/pl/113/188/s1502], Nov. 26, 2014, [128 Stat. 2025][/us/stat/128/2025].)
+(Added [Pub. L. 109–443][/us/pl/109/443], § 5(a), Dec. 21, 2006, [120 Stat. 3299][/us/stat/120/3299]; amended [Pub. L. 113–188, title XV][/us/pl/113/188/tXV], § 1502, Nov. 26, 2014, [128 Stat. 2025][/us/stat/128/2025].)
 
  __Amendments__ 
 
@@ -52,9 +52,9 @@
 ----------
 ----------
 
-[/us/pl/109/443/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F443%2Fs5%2Fa
+[/us/pl/109/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F443
 [/us/stat/120/3299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3299
-[/us/pl/113/188/s1502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs1502
+[/us/pl/113/188/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2FtXV
 [/us/stat/128/2025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2025
 [/us/pl/113/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188
 

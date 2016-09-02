@@ -79,7 +79,7 @@
 
         (2) after September 30, 1999, the air carrier submits an air service termination notice under section 41719 for that route and the Secretary determines that the carrier suffered excessive losses, including substantial losses on operations on that route during the calendar quarters immediately preceding submission of the notice.
 
-(Added [Pub. L. 106–181, title II, § 231(d)(1)][/us/pl/106/181/s231/d/1], Apr. 5, 2000, [114 Stat. 110][/us/stat/114/110].)
+(Added [Pub. L. 106–181, title II][/us/pl/106/181/tII], § 231(d)(1), Apr. 5, 2000, [114 Stat. 110][/us/stat/114/110].)
 
  __References in Text__ 
 
@@ -96,7 +96,7 @@
 ----------
 ----------
 
-[/us/pl/106/181/s231/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs231%2Fd%2F1
+[/us/pl/106/181/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtII
 [/us/stat/114/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F110
 [/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/pl/106/181/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs3

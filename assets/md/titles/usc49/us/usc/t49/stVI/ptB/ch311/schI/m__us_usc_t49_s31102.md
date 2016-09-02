@@ -147,11 +147,11 @@
 
         (2) describes the effect of activities carried out with grants made under this section on commercial motor vehicle safety.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 984][/us/stat/108/984]; [Pub. L. 104–88, title I, § 104(a)][/us/pl/104/88/s104/a], Dec. 29, 1995, [109 Stat. 918][/us/stat/109/918]; [Pub. L. 105–178, title IV, § 4003(b)][/us/pl/105/178/s4003/b], (c), June 9, 1998, [112 Stat. 395][/us/stat/112/395], 396; [Pub. L. 106–159, title II, § 207][/us/pl/106/159/s207], Dec. 9, 1999, [113 Stat. 1764][/us/stat/113/1764]; [Pub. L. 109–59, title IV][/us/pl/109/59], §§ 4106, 4307(b), Aug. 10, 2005, [119 Stat. 1717][/us/stat/119/1717], 1774; [Pub. L. 112–141, div. C, title II, § 32601(a)][/us/pl/112/141/s32601/a], July 6, 2012, [126 Stat. 805][/us/stat/126/805]; [Pub. L. 114–94, div. A, title V, § 5101(a)][/us/pl/114/94/s5101/a], Dec. 4, 2015, [129 Stat. 1514][/us/stat/129/1514].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 984][/us/stat/108/984]; [Pub. L. 104–88, title I][/us/pl/104/88/tI], § 104(a), Dec. 29, 1995, [109 Stat. 918][/us/stat/109/918]; [Pub. L. 105–178, title IV][/us/pl/105/178/tIV], § 4003(b), (c), June 9, 1998, [112 Stat. 395][/us/stat/112/395], 396; [Pub. L. 106–159, title II][/us/pl/106/159/tII], § 207, Dec. 9, 1999, [113 Stat. 1764][/us/stat/113/1764]; [Pub. L. 109–59, title IV][/us/pl/109/59/tIV], §§ 4106, 4307(b), Aug. 10, 2005, [119 Stat. 1717][/us/stat/119/1717], 1774; [Pub. L. 112–141, div. C, title II][/us/pl/112/141/dC/tII], § 32601(a), July 6, 2012, [126 Stat. 805][/us/stat/126/805]; [Pub. L. 114–94, div. A, title V][/us/pl/114/94/dA/tV], § 5101(a), Dec. 4, 2015, [129 Stat. 1514][/us/stat/129/1514].)
 
  __Amendment of Section__ 
 
-    [Pub. L. 114–94, div. A, title V, § 5101(a)][/us/pl/114/94/s5101/a], (f), Dec. 4, 2015, [129 Stat. 1514][/us/stat/129/1514], 1526, provided that, effective Oct. 1, 2016, this section is amended to read as follows:
+    [Pub. L. 114–94, div. A, title V][/us/pl/114/94/dA/tV], § 5101(a), (f), Dec. 4, 2015, [129 Stat. 1514][/us/stat/129/1514], 1526, provided that, effective Oct. 1, 2016, this section is amended to read as follows:
 
     § 31102. Motor carrier safety assistance program
 
@@ -513,43 +513,43 @@ Jan. 6, 1983, Pub. L. 97–424, 96 Stat. 2097, § 402(e); added Dec. 18, 1991,
 
     2015—[Pub. L. 114–94][/us/pl/114/94] amended section generally. Prior to amendment, section related to grants to States for programs to improve motor carrier safety.
 
-    2012—Subsec. (b). [Pub. L. 112–141, § 32601(a)(1)][/us/pl/112/141/s32601/a/1], amended heading generally, substituting “Motor Carrier Safety Assistance Program” for “State Plan Procedures and Contents”.
+    2012—Subsec. (b). [Pub. L. 112–141][/us/pl/112/141], § 32601(a)(1), amended heading generally, substituting “Motor Carrier Safety Assistance Program” for “State Plan Procedures and Contents”.
 
-    Subsec. (b)(1). [Pub. L. 112–141, § 32601(a)(3)][/us/pl/112/141/s32601/a/3], added par. (1). Former par. (1) redesignated (2).
+    Subsec. (b)(1). [Pub. L. 112–141][/us/pl/112/141], § 32601(a)(3), added par. (1). Former par. (1) redesignated (2).
 
-    Subsec. (b)(2). [Pub. L. 112–141, § 32601(a)(2)][/us/pl/112/141/s32601/a/2], redesignated par. (1) as (2). Former par. (2) redesignated (3).
+    Subsec. (b)(2). [Pub. L. 112–141][/us/pl/112/141], § 32601(a)(2), redesignated par. (1) as (2). Former par. (2) redesignated (3).
 
-    Subsec. (b)(2)(I). [Pub. L. 112–141, § 32601(a)(4)(A)][/us/pl/112/141/s32601/a/4/A], substituted “demonstrate” for “make a declaration of”.
+    Subsec. (b)(2)(I). [Pub. L. 112–141][/us/pl/112/141], § 32601(a)(4)(A), substituted “demonstrate” for “make a declaration of”.
 
-    Subsec. (b)(2)(M). [Pub. L. 112–141, § 32601(a)(4)(B)][/us/pl/112/141/s32601/a/4/B], amended subpar. (M) generally. Prior to amendment, subpar. (M) read as follows: “ensures participation in SAFETYNET and other information systems by all appropriate jurisdictions receiving funding under this section;”.
+    Subsec. (b)(2)(M). [Pub. L. 112–141][/us/pl/112/141], § 32601(a)(4)(B), amended subpar. (M) generally. Prior to amendment, subpar. (M) read as follows: “ensures participation in SAFETYNET and other information systems by all appropriate jurisdictions receiving funding under this section;”.
 
-    Subsec. (b)(2)(Q). [Pub. L. 112–141, § 32601(a)(4)(C)][/us/pl/112/141/s32601/a/4/C], inserted “and dedicated sufficient resources to” after “has established”.
+    Subsec. (b)(2)(Q). [Pub. L. 112–141][/us/pl/112/141], § 32601(a)(4)(C), inserted “and dedicated sufficient resources to” after “has established”.
 
-    Subsec. (b)(2)(Y). [Pub. L. 112–141, § 32601(a)(4)(D)][/us/pl/112/141/s32601/a/4/D]–(F), added subpar. (Y).
+    Subsec. (b)(2)(Y). [Pub. L. 112–141][/us/pl/112/141], § 32601(a)(4)(D)–(F), added subpar. (Y).
 
-    Subsec. (b)(3). [Pub. L. 112–141, § 32601(a)(2)][/us/pl/112/141/s32601/a/2], redesignated par. (2) as (3). Former par. (3) redesignated (4).
+    Subsec. (b)(3). [Pub. L. 112–141][/us/pl/112/141], § 32601(a)(2), redesignated par. (2) as (3). Former par. (3) redesignated (4).
 
-    Subsec. (b)(4). [Pub. L. 112–141, § 32601(a)(5)][/us/pl/112/141/s32601/a/5], amended par. (4) generally. Prior to amendment, par. (4) read as follows: “In estimating the average level of State expenditure under paragraph (1)(E) of this subsection, the Secretary—
+    Subsec. (b)(4). [Pub. L. 112–141][/us/pl/112/141], § 32601(a)(5), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “In estimating the average level of State expenditure under paragraph (1)(E) of this subsection, the Secretary—
 
     “(A) may allow the State to exclude State expenditures for Government-sponsored demonstration or pilot programs; and
 
     “(B) shall require the State to exclude Government amounts and State matching amounts used to receive Government financing under subsection (a) of this section.”
 
-    [Pub. L. 112–141, § 32601(a)(2)][/us/pl/112/141/s32601/a/2], redesignated par. (3) as (4).
+    [Pub. L. 112–141][/us/pl/112/141], § 32601(a)(2), redesignated par. (3) as (4).
 
-    2005—Subsec. (b)(1)(A). [Pub. L. 109–59, § 4106(a)(1)][/us/pl/109/59/s4106/a/1], added subpar. (A) and struck out former subpar. (A) which read as follows: “implements performance-based activities by fiscal year 2000;”.
+    2005—Subsec. (b)(1)(A). [Pub. L. 109–59][/us/pl/109/59], § 4106(a)(1), added subpar. (A) and struck out former subpar. (A) which read as follows: “implements performance-based activities by fiscal year 2000;”.
 
-    Subsec. (b)(1)(E). [Pub. L. 109–59, § 4106(a)(2)][/us/pl/109/59/s4106/a/2], added subpar. (E) and struck out former subpar. (E) which read as follows: “provides that the total expenditure of amounts of the State and its political subdivisions (not including amounts of the Government) for commercial motor vehicle safety programs for enforcement of commercial motor vehicle size and weight limitations, drug interdiction, and State traffic safety laws and regulations under subsection (c) of this section will be maintained at a level at least equal to the average level of that expenditure for its last 3 full fiscal years before December 18, 1991;”.
+    Subsec. (b)(1)(E). [Pub. L. 109–59][/us/pl/109/59], § 4106(a)(2), added subpar. (E) and struck out former subpar. (E) which read as follows: “provides that the total expenditure of amounts of the State and its political subdivisions (not including amounts of the Government) for commercial motor vehicle safety programs for enforcement of commercial motor vehicle size and weight limitations, drug interdiction, and State traffic safety laws and regulations under subsection (c) of this section will be maintained at a level at least equal to the average level of that expenditure for its last 3 full fiscal years before December 18, 1991;”.
 
-    Subsec. (b)(1)(Q). [Pub. L. 109–59, § 4106(a)(3)][/us/pl/109/59/s4106/a/3], added subpar. (Q) and struck out former subpar. (Q) which read as follows: “provides that the State will establish a program to ensure the proper and timely correction of commercial motor vehicle safety violations noted during an inspection carried out with funds authorized under section 31104;”.
+    Subsec. (b)(1)(Q). [Pub. L. 109–59][/us/pl/109/59], § 4106(a)(3), added subpar. (Q) and struck out former subpar. (Q) which read as follows: “provides that the State will establish a program to ensure the proper and timely correction of commercial motor vehicle safety violations noted during an inspection carried out with funds authorized under section 31104;”.
 
-    Subsec. (b)(1)(R). [Pub. L. 109–59, § 4106(a)(4)][/us/pl/109/59/s4106/a/4], aligned margins.
+    Subsec. (b)(1)(R). [Pub. L. 109–59][/us/pl/109/59], § 4106(a)(4), aligned margins.
 
-    Subsec. (b)(1)(U) to (X). [Pub. L. 109–59, § 4106(a)(5)][/us/pl/109/59/s4106/a/5]–(7), added subpars. (U) to (X).
+    Subsec. (b)(1)(U) to (X). [Pub. L. 109–59][/us/pl/109/59], § 4106(a)(5)–(7), added subpars. (U) to (X).
 
-    Subsec. (b)(3). [Pub. L. 109–59, § 4307(b)][/us/pl/109/59/s4307/b], substituted “paragraph (1)(E)” for “paragraph (1)(D)” in introductory provisions.
+    Subsec. (b)(3). [Pub. L. 109–59][/us/pl/109/59], § 4307(b), substituted “paragraph (1)(E)” for “paragraph (1)(D)” in introductory provisions.
 
-    Subsec. (c). [Pub. L. 109–59, § 4106(b)(1)][/us/pl/109/59/s4106/b/1], added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: “A State may use amounts received under a grant under subsection (a) of this section for the following activities if the activities are carried out in conjunction with an appropriate inspection of the commercial motor vehicle to enforce Government or State commercial motor vehicle safety regulations:
+    Subsec. (c). [Pub. L. 109–59][/us/pl/109/59], § 4106(b)(1), added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: “A State may use amounts received under a grant under subsection (a) of this section for the following activities if the activities are carried out in conjunction with an appropriate inspection of the commercial motor vehicle to enforce Government or State commercial motor vehicle safety regulations:
 
     “(1) enforcement of commercial motor vehicle size and weight limitations at locations other than fixed weight facilities, at specific locations such as steep grades or mountainous terrains where the weight of a commercial motor vehicle can significantly affect the safe operation of the vehicle, or at ports where intermodal shipping containers enter and leave the United States.
 
@@ -557,25 +557,25 @@ Jan. 6, 1983, Pub. L. 97–424, 96 Stat. 2097, § 402(e); added Dec. 18, 1991,
 
     “(3) enforcement of State traffic laws and regulations designed to promote the safe operation of commercial motor vehicles.”
 
-    Subsec. (e). [Pub. L. 109–59, § 4106(b)(2)][/us/pl/109/59/s4106/b/2], added subsec. (e).
+    Subsec. (e). [Pub. L. 109–59][/us/pl/109/59], § 4106(b)(2), added subsec. (e).
 
-    1999—Subsec. (b)(1)(A). [Pub. L. 106–159, § 207(1)][/us/pl/106/159/s207/1], realigned subpar. (A) margins.
+    1999—Subsec. (b)(1)(A). [Pub. L. 106–159][/us/pl/106/159], § 207(1), realigned subpar. (A) margins.
 
-    Subsec. (b)(1)(R). [Pub. L. 106–159, § 207(2)][/us/pl/106/159/s207/2], added subpar. (R) and struck out former subpar. (R) which read as follows: “ensures that the State will cooperate in the enforcement of registration and financial responsibility requirements under sections 31138 and 31139, or regulations issued thereunder;”.
+    Subsec. (b)(1)(R). [Pub. L. 106–159][/us/pl/106/159], § 207(2), added subpar. (R) and struck out former subpar. (R) which read as follows: “ensures that the State will cooperate in the enforcement of registration and financial responsibility requirements under sections 31138 and 31139, or regulations issued thereunder;”.
 
-    1998—Subsec. (a). [Pub. L. 105–178, § 4003(b)(1)][/us/pl/105/178/s4003/b/1], inserted “improving motor carrier safety and” after “implementation of programs for” and “, hazardous materials transportation safety,” after “commercial motor vehicle safety”.
+    1998—Subsec. (a). [Pub. L. 105–178][/us/pl/105/178], § 4003(b)(1), inserted “improving motor carrier safety and” after “implementation of programs for” and “, hazardous materials transportation safety,” after “commercial motor vehicle safety”.
 
-    Subsec. (b)(1). [Pub. L. 105–178, § 4003(b)(2)][/us/pl/105/178/s4003/b/2], in introductory provisions, substituted “assume responsibility for improving motor carrier safety and to adopt and enforce” for “adopt and assume responsibility for enforcing” and inserted “, hazardous materials transportation safety,” after “commercial motor vehicle safety”.
+    Subsec. (b)(1). [Pub. L. 105–178][/us/pl/105/178], § 4003(b)(2), in introductory provisions, substituted “assume responsibility for improving motor carrier safety and to adopt and enforce” for “adopt and assume responsibility for enforcing” and inserted “, hazardous materials transportation safety,” after “commercial motor vehicle safety”.
 
-    Subsec. (b)(1)(A) to (I). [Pub. L. 105–178, § 4003(c)(6)][/us/pl/105/178/s4003/c/6], (7), added subpar. (A) and redesignated former subpars. (A) to (H) as (B) to (I), respectively. Former subpar. (I) redesignated (J).
+    Subsec. (b)(1)(A) to (I). [Pub. L. 105–178][/us/pl/105/178], § 4003(c)(6), (7), added subpar. (A) and redesignated former subpars. (A) to (H) as (B) to (I), respectively. Former subpar. (I) redesignated (J).
 
-    Subsec. (b)(1)(J). [Pub. L. 105–178, § 4003(c)(6)][/us/pl/105/178/s4003/c/6], redesignated subpar. (I) as (J). Former subpar. (J) redesignated (K).
+    Subsec. (b)(1)(J). [Pub. L. 105–178][/us/pl/105/178], § 4003(c)(6), redesignated subpar. (I) as (J). Former subpar. (J) redesignated (K).
 
-    [Pub. L. 105–178, § 4003(c)(1)][/us/pl/105/178/s4003/c/1], substituted “subsection (c)(1)” for “subsection (c)”.
+    [Pub. L. 105–178][/us/pl/105/178], § 4003(c)(1), substituted “subsection (c)(1)” for “subsection (c)”.
 
-    Subsec. (b)(1)(K) to (M). [Pub. L. 105–178, § 4003(c)(6)][/us/pl/105/178/s4003/c/6], redesignated subpars. (J) to (L) as (K) to (M), respectively. Former subpar. (M) redesignated (N).
+    Subsec. (b)(1)(K) to (M). [Pub. L. 105–178][/us/pl/105/178], § 4003(c)(6), redesignated subpars. (J) to (L) as (K) to (M), respectively. Former subpar. (M) redesignated (N).
 
-    [Pub. L. 105–178, § 4003(c)(2)][/us/pl/105/178/s4003/c/2], added subpars. (K) to (M) and struck out former subpars. (K) to (M) which read as follows:
+    [Pub. L. 105–178][/us/pl/105/178], § 4003(c)(2), added subpars. (K) to (M) and struck out former subpars. (K) to (M) which read as follows:
 
     “(K) ensures that fines imposed and collected by the State for violations of commercial motor vehicle safety regulations will be reasonable and appropriate and that, to the maximum extent practicable, the State will attempt to implement the recommended fine schedule published by the Commercial Vehicle Safety Alliance;
 
@@ -583,37 +583,37 @@ Jan. 6, 1983, Pub. L. 97–424, 96 Stat. 2097, § 402(e); added Dec. 18, 1991,
 
     “(M) ensures participation by the 48 contiguous States in SAFETYNET not later than January 1, 1994;”.
 
-    Subsec. (b)(1)(N). [Pub. L. 105–178, § 4003(c)(6)][/us/pl/105/178/s4003/c/6], redesignated subpar. (M) as (N). Former subpar. (N) redesignated (O).
+    Subsec. (b)(1)(N). [Pub. L. 105–178][/us/pl/105/178], § 4003(c)(6), redesignated subpar. (M) as (N). Former subpar. (N) redesignated (O).
 
-    Subsec. (b)(1)(O). [Pub. L. 105–178, § 4003(c)(6)][/us/pl/105/178/s4003/c/6], redesignated subpar. (N) as (O). Former subpar. (O) redesignated (P).
+    Subsec. (b)(1)(O). [Pub. L. 105–178][/us/pl/105/178], § 4003(c)(6), redesignated subpar. (N) as (O). Former subpar. (O) redesignated (P).
 
-    [Pub. L. 105–178, § 4003(c)(3)][/us/pl/105/178/s4003/c/3], inserted “in support of national priorities and performance goals, including” after “activities” in introductory provisions, substituted “activities aimed at removing” for “to remove” in cl. (i), substituted “activities aimed at providing” for “to provide” and inserted “and” after semicolon in cl. (ii), added cl. (iii), and struck out former cls. (iii) and (iv) which read as follows:
+    [Pub. L. 105–178][/us/pl/105/178], § 4003(c)(3), inserted “in support of national priorities and performance goals, including” after “activities” in introductory provisions, substituted “activities aimed at removing” for “to remove” in cl. (i), substituted “activities aimed at providing” for “to provide” and inserted “and” after semicolon in cl. (ii), added cl. (iii), and struck out former cls. (iii) and (iv) which read as follows:
 
     “(iii) to promote enforcement of the requirements related to the licensing of commercial motor vehicle drivers, including checking the status of commercial drivers’ licenses; and
 
     “(iv) to improve enforcement of hazardous material transportation regulations by encouraging more inspections of shipper facilities affecting highway transportation and more comprehensive inspection of the loads of commercial motor vehicles transporting hazardous material;”.
 
-    Subsec. (b)(1)(P). [Pub. L. 105–178, § 4003(c)(6)][/us/pl/105/178/s4003/c/6], redesignated subpar. (O) as (P). Former subpar. (P) redesignated (Q).
+    Subsec. (b)(1)(P). [Pub. L. 105–178][/us/pl/105/178], § 4003(c)(6), redesignated subpar. (O) as (P). Former subpar. (P) redesignated (Q).
 
-    [Pub. L. 105–178, § 4003(c)(4)][/us/pl/105/178/s4003/c/4], added subpar. (P) and struck out former subpar. (P) which read as follows: “provides satisfactory assurances that the State will promote effective—
+    [Pub. L. 105–178][/us/pl/105/178], § 4003(c)(4), added subpar. (P) and struck out former subpar. (P) which read as follows: “provides satisfactory assurances that the State will promote effective—
 
     “(i) interdiction activities affecting the transportation of controlled substances by commercial motor vehicle drivers and training on appropriate strategies for carrying out those interdiction activities; and
 
     “(ii) use of trained and qualified officers and employees of political subdivisions and local governments, under the supervision and direction of the State motor vehicle safety agency, in the enforcement of regulations affecting commercial motor vehicle safety and hazardous material transportation safety; and”.
 
-    Subsec. (b)(1)(Q). [Pub. L. 105–178, § 4003(c)(6)][/us/pl/105/178/s4003/c/6], redesignated subpar. (P) as (Q). Former subpar. (Q) redesignated (R).
+    Subsec. (b)(1)(Q). [Pub. L. 105–178][/us/pl/105/178], § 4003(c)(6), redesignated subpar. (P) as (Q). Former subpar. (Q) redesignated (R).
 
-    [Pub. L. 105–178, § 4003(c)(5)(A)][/us/pl/105/178/s4003/c/5/A], substituted “sections 31138 and 31139” for “sections 31140 and 31146”.
+    [Pub. L. 105–178][/us/pl/105/178], § 4003(c)(5)(A), substituted “sections 31138 and 31139” for “sections 31140 and 31146”.
 
-    Subsec. (b)(1)(R). [Pub. L. 105–178, § 4003(c)(6)][/us/pl/105/178/s4003/c/6], redesignated subpar. (Q) as (R).
+    Subsec. (b)(1)(R). [Pub. L. 105–178][/us/pl/105/178], § 4003(c)(6), redesignated subpar. (Q) as (R).
 
-    Subsec. (b)(1)(S), (T). [Pub. L. 105–178, § 4003(c)(5)(B)][/us/pl/105/178/s4003/c/5/B], (8), added subpars. (S) and (T).
+    Subsec. (b)(1)(S), (T). [Pub. L. 105–178][/us/pl/105/178], § 4003(c)(5)(B), (8), added subpars. (S) and (T).
 
     1995—Subsec. (b)(1)(Q). [Pub. L. 104–88][/us/pl/104/88] added subpar. (Q).
 
  __Effective Date of 2015 Amendment__ 
 
-[Pub. L. 114–94, div. A, title V, § 5101(f)][/us/pl/114/94/s5101/f], Dec. 4, 2015, [129 Stat. 1526][/us/stat/129/1526], provided that: 
+[Pub. L. 114–94, div. A, title V][/us/pl/114/94/dA/tV], § 5101(f), Dec. 4, 2015, [129 Stat. 1526][/us/stat/129/1526], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 31103, 31104, 31106, and 31144 of this title, repealing sections 31107 and 31109 of this title, amending provisions set out as a note under [section 31133 of this title][/us/usc/t49/s31133], and repealing provisions set out as notes under this section and sections 31100, 31106, 31136, and 31301 of this title\] shall take effect on October 1, 2016.”
 
@@ -627,13 +627,13 @@ Jan. 6, 1983, Pub. L. 97–424, 96 Stat. 2097, § 402(e); added Dec. 18, 1991,
 
  __Transition__ 
 
-[Pub. L. 114–94, div. A, title V, § 5101(g)][/us/pl/114/94/s5101/g], Dec. 4, 2015, [129 Stat. 1526][/us/stat/129/1526], provided that: 
+[Pub. L. 114–94, div. A, title V][/us/pl/114/94/dA/tV], § 5101(g), Dec. 4, 2015, [129 Stat. 1526][/us/stat/129/1526], provided that: 
 
 > “Notwithstanding the amendments made by this section \[see Effective Date of 2015 Amendment note above\], the Secretary \[of Transportation\] shall carry out sections 31102, 31103, and 31104 of title 49, United States Code, and any sections repealed under subsection (e) \[repealing sections 31107 and 31109 of this title and provisions set out as notes under this section and sections 31100, 31106, 31136, and 31301 of this title\], as necessary, as those sections were in effect on the day before October 1, 2016, with respect to applications for grants, cooperative agreements, or contracts under those sections submitted before October 1, 2016.”
 
  __Motor Carrier Safety Assistance Program Allocation__ 
 
-[Pub. L. 114–94, div. A, title V, § 5106][/us/pl/114/94/s5106], Dec. 4, 2015, [129 Stat. 1530][/us/stat/129/1530], provided that:
+[Pub. L. 114–94, div. A, title V][/us/pl/114/94/dA/tV], § 5106, Dec. 4, 2015, [129 Stat. 1530][/us/stat/129/1530], provided that:
 
 >     “(a) __Working Group.—__ 
 
@@ -739,7 +739,7 @@ Jan. 6, 1983, Pub. L. 97–424, 96 Stat. 2097, § 402(e); added Dec. 18, 1991,
 
  __Maintenance of Effort Calculation__ 
 
-[Pub. L. 114–94, div. A, title V, § 5107][/us/pl/114/94/s5107], Dec. 4, 2015, [129 Stat. 1532][/us/stat/129/1532], provided that:
+[Pub. L. 114–94, div. A, title V][/us/pl/114/94/dA/tV], § 5107, Dec. 4, 2015, [129 Stat. 1532][/us/stat/129/1532], provided that:
 
 >     “(a) __Before New Allocation Formula.—__ 
 
@@ -805,15 +805,15 @@ Jan. 6, 1983, Pub. L. 97–424, 96 Stat. 2097, § 402(e); added Dec. 18, 1991,
 
  __Maintenance of Effort__ 
 
-[Pub. L. 106–159, title I, § 103(c)][/us/pl/106/159/s103/c], Dec. 9, 1999, [113 Stat. 1753][/us/stat/113/1753], provided that: 
+[Pub. L. 106–159, title I][/us/pl/106/159/tI], § 103(c), Dec. 9, 1999, [113 Stat. 1753][/us/stat/113/1753], provided that: 
 
 > “The Secretary may not make, from funds made available by or under this section \[amending [section 31107 of this title][/us/usc/t49/s31107], enacting provisions set out as notes under this section and [section 31104 of this title][/us/usc/t49/s31104], and amending a provision set out as a note under [section 104 of Title 23][/us/usc/t23/s104], Highways\] (including any amendment made by this section), a grant to a State unless the State first enters into a binding agreement with the Secretary that provides that the total expenditures of amounts of the State and its political subdivisions (not including amounts of the United States) for the development or implementation of programs for improving motor carrier safety and enforcement of regulations, standards, and orders of the United States on commercial motor vehicle safety, hazardous materials transportation safety, and compatible State regulations, standards, and orders will be maintained at a level at least equal to the average level of such expenditures for fiscal years 1997, 1998, and 1999.”
 
-    \[[Pub. L. 114–94, div. A, title V, § 5101(e)(8)][/us/pl/114/94/s5101/e/8], (f), (g), Dec. 4, 2015, [129 Stat. 1525][/us/stat/129/1525], 1526, provided that, effective Oct. 1, 2016, [section 103(c) of Pub. L. 106–159][/us/pl/106/159/s103/c], set out above, is repealed, subject to a transition provision.\]
+    \[[Pub. L. 114–94, div. A, title V][/us/pl/114/94/dA/tV], § 5101(e)(8), (f), (g), Dec. 4, 2015, [129 Stat. 1525][/us/stat/129/1525], 1526, provided that, effective Oct. 1, 2016, [section 103(c) of Pub. L. 106–159][/us/pl/106/159/s103/c], set out above, is repealed, subject to a transition provision.\]
 
  __State Compliance With CDL Requirements__ 
 
-[Pub. L. 106–159, title I, § 103(e)][/us/pl/106/159/s103/e], Dec. 9, 1999, [113 Stat. 1754][/us/stat/113/1754], provided that:
+[Pub. L. 106–159, title I][/us/pl/106/159/tI], § 103(e), Dec. 9, 1999, [113 Stat. 1754][/us/stat/113/1754], provided that:
 
 >     “(1)  __Withholding of allocation for noncompliance__  __.—__ 
 
@@ -835,11 +835,11 @@ Jan. 6, 1983, Pub. L. 97–424, 96 Stat. 2097, § 402(e); added Dec. 18, 1991,
 
 >     If, on June 30 of the fiscal year in which funds are withheld from allocation under paragraph (1), the State is not substantially complying with each requirement of [section 31311 of title 49][/us/usc/t49/s31311], United States Code, the funds are released to the Secretary for reallocation.”
 
-    \[[Pub. L. 114–94, div. A, title V, § 5101(e)(9)][/us/pl/114/94/s5101/e/9], (f), (g), Dec. 4, 2015, [129 Stat. 1525][/us/stat/129/1525], 1526, provided that, effective Oct. 1, 2016, [section 103(e) of Pub. L. 106–159][/us/pl/106/159/s103/e], set out above, is repealed, subject to a transition provision.\]
+    \[[Pub. L. 114–94, div. A, title V][/us/pl/114/94/dA/tV], § 5101(e)(9), (f), (g), Dec. 4, 2015, [129 Stat. 1525][/us/stat/129/1525], 1526, provided that, effective Oct. 1, 2016, [section 103(e) of Pub. L. 106–159][/us/pl/106/159/s103/e], set out above, is repealed, subject to a transition provision.\]
 
  __Effects of MCSAP Grant Reductions__ 
 
-[Pub. L. 105–178, title IV, § 4032][/us/pl/105/178/s4032], June 9, 1998, [112 Stat. 419][/us/stat/112/419], provided that:
+[Pub. L. 105–178, title IV][/us/pl/105/178/tIV], § 4032, June 9, 1998, [112 Stat. 419][/us/stat/112/419], provided that:
 
 >     “(a)  __Study__  __.—__ 
 
@@ -867,66 +867,66 @@ Jan. 6, 1983, Pub. L. 97–424, 96 Stat. 2097, § 402(e); added Dec. 18, 1991,
 ----------
 
 [/us/usc/t21/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F984
-[/us/pl/104/88/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs104%2Fa
+[/us/pl/104/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtI
 [/us/stat/109/918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F918
-[/us/pl/105/178/s4003/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4003%2Fb
+[/us/pl/105/178/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtIV
 [/us/stat/112/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F395
-[/us/pl/106/159/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2Fs207
+[/us/pl/106/159/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2FtII
 [/us/stat/113/1764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1764
-[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIV
 [/us/stat/119/1717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1717
-[/us/pl/112/141/s32601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32601%2Fa
+[/us/pl/112/141/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtII
 [/us/stat/126/805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F805
-[/us/pl/114/94/s5101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5101%2Fa
+[/us/pl/114/94/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtV
 [/us/stat/129/1514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1514
-[/us/pl/114/94/s5101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5101%2Fa
+[/us/pl/114/94/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtV
 [/us/stat/129/1514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1514
 [/us/usc/t23/s148/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs148%2Fc
 [/us/usc/t21/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802
 [/us/usc/t49/s31315/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31315%2Fb
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
-[/us/pl/112/141/s32601/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32601%2Fa%2F1
-[/us/pl/112/141/s32601/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32601%2Fa%2F3
-[/us/pl/112/141/s32601/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32601%2Fa%2F2
-[/us/pl/112/141/s32601/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32601%2Fa%2F4%2FA
-[/us/pl/112/141/s32601/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32601%2Fa%2F4%2FB
-[/us/pl/112/141/s32601/a/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32601%2Fa%2F4%2FC
-[/us/pl/112/141/s32601/a/4/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32601%2Fa%2F4%2FD
-[/us/pl/112/141/s32601/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32601%2Fa%2F2
-[/us/pl/112/141/s32601/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32601%2Fa%2F5
-[/us/pl/112/141/s32601/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32601%2Fa%2F2
-[/us/pl/109/59/s4106/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4106%2Fa%2F1
-[/us/pl/109/59/s4106/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4106%2Fa%2F2
-[/us/pl/109/59/s4106/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4106%2Fa%2F3
-[/us/pl/109/59/s4106/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4106%2Fa%2F4
-[/us/pl/109/59/s4106/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4106%2Fa%2F5
-[/us/pl/109/59/s4307/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4307%2Fb
-[/us/pl/109/59/s4106/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4106%2Fb%2F1
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/usc/t21/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802
-[/us/pl/109/59/s4106/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4106%2Fb%2F2
-[/us/pl/106/159/s207/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2Fs207%2F1
-[/us/pl/106/159/s207/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2Fs207%2F2
-[/us/pl/105/178/s4003/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4003%2Fb%2F1
-[/us/pl/105/178/s4003/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4003%2Fb%2F2
-[/us/pl/105/178/s4003/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4003%2Fc%2F6
-[/us/pl/105/178/s4003/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4003%2Fc%2F6
-[/us/pl/105/178/s4003/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4003%2Fc%2F1
-[/us/pl/105/178/s4003/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4003%2Fc%2F6
-[/us/pl/105/178/s4003/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4003%2Fc%2F2
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/106/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159
+[/us/pl/106/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
 [/us/usc/t23/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs402
-[/us/pl/105/178/s4003/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4003%2Fc%2F6
-[/us/pl/105/178/s4003/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4003%2Fc%2F6
-[/us/pl/105/178/s4003/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4003%2Fc%2F3
-[/us/pl/105/178/s4003/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4003%2Fc%2F6
-[/us/pl/105/178/s4003/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4003%2Fc%2F4
-[/us/pl/105/178/s4003/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4003%2Fc%2F6
-[/us/pl/105/178/s4003/c/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4003%2Fc%2F5%2FA
-[/us/pl/105/178/s4003/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4003%2Fc%2F6
-[/us/pl/105/178/s4003/c/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4003%2Fc%2F5%2FB
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
-[/us/pl/114/94/s5101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5101%2Ff
+[/us/pl/114/94/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtV
 [/us/stat/129/1526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1526
 [/us/usc/t49/s31133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31133
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
@@ -935,9 +935,9 @@ Jan. 6, 1983, Pub. L. 97–424, 96 Stat. 2097, § 402(e); added Dec. 18, 1991,
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/104/88/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs2
 [/us/usc/t49/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1301
-[/us/pl/114/94/s5101/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5101%2Fg
+[/us/pl/114/94/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtV
 [/us/stat/129/1526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1526
-[/us/pl/114/94/s5106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5106
+[/us/pl/114/94/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtV
 [/us/stat/129/1530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1530
 [/us/usc/t49/s31102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31102
 [/us/usc/t49/s31102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31102
@@ -949,7 +949,7 @@ Jan. 6, 1983, Pub. L. 97–424, 96 Stat. 2097, § 402(e); added Dec. 18, 1991,
 [/us/usc/t49/s31107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31107
 [/us/usc/t49/s31144/g/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31144%2Fg%2F5
 [/us/usc/t49/s31102/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31102%2Fk
-[/us/pl/114/94/s5107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5107
+[/us/pl/114/94/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtV
 [/us/stat/129/1532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1532
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/usc/t49/s31102/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31102%2Ff
@@ -964,23 +964,23 @@ Jan. 6, 1983, Pub. L. 97–424, 96 Stat. 2097, § 402(e); added Dec. 18, 1991,
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/109/59/s4302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4302
 [/us/usc/t49/s13902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs13902
-[/us/pl/106/159/s103/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2Fs103%2Fc
+[/us/pl/106/159/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2FtI
 [/us/stat/113/1753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1753
 [/us/usc/t49/s31107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31107
 [/us/usc/t49/s31104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31104
 [/us/usc/t23/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs104
-[/us/pl/114/94/s5101/e/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5101%2Fe%2F8
+[/us/pl/114/94/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtV
 [/us/stat/129/1525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1525
 [/us/pl/106/159/s103/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2Fs103%2Fc
-[/us/pl/106/159/s103/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2Fs103%2Fe
+[/us/pl/106/159/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2FtI
 [/us/stat/113/1754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1754
 [/us/usc/t49/s31311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31311
 [/us/usc/t49/s31311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31311
 [/us/usc/t49/s31311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31311
-[/us/pl/114/94/s5101/e/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5101%2Fe%2F9
+[/us/pl/114/94/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtV
 [/us/stat/129/1525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1525
 [/us/pl/106/159/s103/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2Fs103%2Fe
-[/us/pl/105/178/s4032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4032
+[/us/pl/105/178/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtIV
 [/us/stat/112/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F419
 [/us/usc/t49/s31102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31102
 [/us/usc/t49/s31103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31103

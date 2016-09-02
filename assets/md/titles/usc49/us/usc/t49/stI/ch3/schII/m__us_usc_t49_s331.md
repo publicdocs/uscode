@@ -35,7 +35,7 @@
 
     (c) When appropriations for a fiscal year for aviation duties and powers have not been made before June 1 immediately before the beginning of the fiscal year, the Secretary may designate an officer, and authorize that officer, to incur obligations to buy and transport supplies to carry out those duties and powers at installations outside the 48 contiguous States and the District of Columbia. The amount obligated under this subsection in a fiscal year may be not more than 75 percent of the amount available for buying and transporting supplies to those installations for the then current fiscal year. Payment of obligations under this subsection shall be made from appropriations for the next fiscal year when available.
 
-([Pub. L. 97–449, § 1(b)][/us/pl/97/449/s1/b], Jan. 12, 1983, [96 Stat. 2427][/us/stat/96/2427]; [Pub. L. 103–272, § 4(j)(8)][/us/pl/103/272/s4/j/8], July 5, 1994, [108 Stat. 1367][/us/stat/108/1367].)
+([Pub. L. 97–449][/us/pl/97/449], § 1(b), Jan. 12, 1983, [96 Stat. 2427][/us/stat/96/2427]; [Pub. L. 103–272][/us/pl/103/272], § 4(j)(8), July 5, 1994, [108 Stat. 1367][/us/stat/108/1367].)
 
 <table>
 
@@ -142,9 +142,9 @@ Aug. 23, 1958, Pub. L. 85–726, § 303(b), 72 Stat. 748.  </td>
 ----------
 ----------
 
-[/us/pl/97/449/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449%2Fs1%2Fb
+[/us/pl/97/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449
 [/us/stat/96/2427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2427
-[/us/pl/103/272/s4/j/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs4%2Fj%2F8
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1367
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272

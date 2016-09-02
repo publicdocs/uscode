@@ -63,11 +63,11 @@
 
         Transportation exempt from jurisdiction under paragraph (1) of this subsection is considered transportation provided by the carrier or service provided by the freight forwarder for whom the transportation was provided and is subject to jurisdiction under chapter 105 of this title when provided for such a rail carrier, under this subchapter when provided for such a motor carrier, under subchapter II of this chapter when provided for such a water carrier, and under subchapter III of this chapter when provided for such a freight forwarder.
 
-(Added [Pub. L. 104–88, title I, § 103][/us/pl/104/88/s103], Dec. 29, 1995, [109 Stat. 860][/us/stat/109/860].)
+(Added [Pub. L. 104–88, title I][/us/pl/104/88/tI], § 103, Dec. 29, 1995, [109 Stat. 860][/us/stat/109/860].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [section 10523 of this title][/us/usc/t49/s10523] prior to the general amendment of this subtitle by [Pub. L. 104–88, § 102(a)][/us/pl/104/88/s102/a].
+    Provisions similar to those in this section were contained in [section 10523 of this title][/us/usc/t49/s10523] prior to the general amendment of this subtitle by [Pub. L. 104–88][/us/pl/104/88], § 102(a).
 
 ----------
 
@@ -76,9 +76,9 @@
 ----------
 ----------
 
-[/us/pl/104/88/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs103
+[/us/pl/104/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtI
 [/us/stat/109/860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F860
 [/us/usc/t49/s10523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs10523
-[/us/pl/104/88/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs102%2Fa
+[/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 
 

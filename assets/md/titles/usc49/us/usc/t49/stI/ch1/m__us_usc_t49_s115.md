@@ -67,17 +67,17 @@
 
     A majority of the Board may vote to close a meeting of the Board to the public, except that meetings shall be closed to the public whenever classified, sensitive security information, or information protected in accordance with section 40119(b), will be discussed.
 
-(Added [Pub. L. 107–71, title I, § 102(a)][/us/pl/107/71/s102/a], Nov. 19, 2001, [115 Stat. 604][/us/stat/115/604]; amended [Pub. L. 107–296, title IV, § 426(a)][/us/pl/107/296/s426/a], Nov. 25, 2002, [116 Stat. 2186][/us/stat/116/2186]; [Pub. L. 111–259, title IV, § 411][/us/pl/111/259/s411], Oct. 7, 2010, [124 Stat. 2725][/us/stat/124/2725].)
+(Added [Pub. L. 107–71, title I][/us/pl/107/71/tI], § 102(a), Nov. 19, 2001, [115 Stat. 604][/us/stat/115/604]; amended [Pub. L. 107–296, title IV][/us/pl/107/296/tIV], § 426(a), Nov. 25, 2002, [116 Stat. 2186][/us/stat/116/2186]; [Pub. L. 111–259, title IV][/us/pl/111/259/tIV], § 411, Oct. 7, 2010, [124 Stat. 2725][/us/stat/124/2725].)
 
  __Amendments__ 
 
     2010—Subsec. (b)(1)(F). [Pub. L. 111–259][/us/pl/111/259] amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “The Director of the Central Intelligence Agency, or the Director’s designee.”
 
-    2002—Subsec. (a). [Pub. L. 107–296, § 426(a)(1)][/us/pl/107/296/s426/a/1], substituted “Department of Homeland Security” for “Department of Transportation”.
+    2002—Subsec. (a). [Pub. L. 107–296][/us/pl/107/296], § 426(a)(1), substituted “Department of Homeland Security” for “Department of Transportation”.
 
-    Subsec. (b)(1). [Pub. L. 107–296, § 426(a)(2)][/us/pl/107/296/s426/a/2], added subpar. (A), redesignated former subpars. (A) to (F) as (B) to (G), respectively, and struck out former subpar. (G) which read as follows: “One member appointed by the President to represent the Office of Homeland Security.”
+    Subsec. (b)(1). [Pub. L. 107–296][/us/pl/107/296], § 426(a)(2), added subpar. (A), redesignated former subpars. (A) to (F) as (B) to (G), respectively, and struck out former subpar. (G) which read as follows: “One member appointed by the President to represent the Office of Homeland Security.”
 
-    Subsec. (b)(2). [Pub. L. 107–296, § 426(a)(3)][/us/pl/107/296/s426/a/3], substituted “Secretary of Homeland Security” for “Secretary of Transportation”.
+    Subsec. (b)(2). [Pub. L. 107–296][/us/pl/107/296], § 426(a)(3), substituted “Secretary of Homeland Security” for “Secretary of Transportation”.
 
  __Effective Date of 2002 Amendment__ 
 
@@ -94,16 +94,16 @@
 ----------
 ----------
 
-[/us/pl/107/71/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs102%2Fa
+[/us/pl/107/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2FtI
 [/us/stat/115/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F604
-[/us/pl/107/296/s426/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs426%2Fa
+[/us/pl/107/296/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtIV
 [/us/stat/116/2186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2186
-[/us/pl/111/259/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs411
+[/us/pl/111/259/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2FtIV
 [/us/stat/124/2725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2725
 [/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
-[/us/pl/107/296/s426/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs426%2Fa%2F1
-[/us/pl/107/296/s426/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs426%2Fa%2F2
-[/us/pl/107/296/s426/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs426%2Fa%2F3
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs4
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101

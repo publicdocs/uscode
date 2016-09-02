@@ -23,7 +23,7 @@
 
     This chapter does not prohibit the Airports Authority and Maryland from making an agreement to make Baltimore/Washington International Airport part of a regional airports authority, subject to terms agreed to by the Airports Authority, the Secretary of Transportation, Virginia, the District of Columbia, and Maryland.
 
-(Added [Pub. L. 105–102, § 2(26)][/us/pl/105/102/s2/26], Nov. 20, 1997, [111 Stat. 2207][/us/stat/111/2207].)
+(Added [Pub. L. 105–102][/us/pl/105/102], § 2(26), Nov. 20, 1997, [111 Stat. 2207][/us/stat/111/2207].)
 
 <table>
 
@@ -132,7 +132,7 @@ Oct. 30, 1986, Pub. L. 99–591, title VI, § 6003(b), 100 Stat. 3341–377.  
 ----------
 ----------
 
-[/us/pl/105/102/s2/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102%2Fs2%2F26
+[/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/stat/111/2207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2207
 [/us/usc/t49/s50102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs50102
 

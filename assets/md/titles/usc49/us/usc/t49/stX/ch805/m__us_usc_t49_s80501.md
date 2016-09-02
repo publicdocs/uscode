@@ -23,7 +23,7 @@
 
     A person may not be prosecuted for an act under this section when the person has been convicted or acquitted on the merits for the same act under the laws of a State, the District of Columbia, or a territory or possession of the United States.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1356][/us/stat/108/1356].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1356][/us/stat/108/1356].)
 
 <table>
 
@@ -96,7 +96,7 @@ Sept. 13, 1961, Pub. L. 87–221, 75 Stat. 494.  </td>
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1356
 
 

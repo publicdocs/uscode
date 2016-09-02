@@ -71,7 +71,7 @@
 
         If the status of a nonhub primary airport changes to a small hub primary airport at a time when the airport has received discretionary funds under this chapter for a terminal development project in accordance with section 47119(a), and the project is not yet completed, the project shall remain eligible for funding from the discretionary fund and the small airport fund to pay costs allowable under section 47119(a). Such project shall remain eligible for such funds for three fiscal years after the start of construction of the project, or if the Secretary determines that a further extension of eligibility is justified, until the project is completed.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1262][/us/stat/108/1262]; [Pub. L. 106–181, title I, § 135(c)][/us/pl/106/181/s135/c], Apr. 5, 2000, [114 Stat. 84][/us/stat/114/84]; [Pub. L. 108–176, title I, § 149(a)][/us/pl/108/176/s149/a], Dec. 12, 2003, [117 Stat. 2505][/us/stat/117/2505]; [Pub. L. 109–115, div. A, title I, § 176(a)][/us/pl/109/115/s176/a], Nov. 30, 2005, [119 Stat. 2427][/us/stat/119/2427]; [Pub. L. 112–95, title I, § 152(e)(2)][/us/pl/112/95/s152/e/2], Feb. 14, 2012, [126 Stat. 34][/us/stat/126/34].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1262][/us/stat/108/1262]; [Pub. L. 106–181, title I][/us/pl/106/181/tI], § 135(c), Apr. 5, 2000, [114 Stat. 84][/us/stat/114/84]; [Pub. L. 108–176, title I][/us/pl/108/176/tI], § 149(a), Dec. 12, 2003, [117 Stat. 2505][/us/stat/117/2505]; [Pub. L. 109–115, div. A, title I][/us/pl/109/115/dA/tI], § 176(a), Nov. 30, 2005, [119 Stat. 2427][/us/stat/119/2427]; [Pub. L. 112–95, title I][/us/pl/112/95/tI], § 152(e)(2), Feb. 14, 2012, [126 Stat. 34][/us/stat/126/34].)
 
 <table>
 
@@ -179,9 +179,9 @@ Sept. 3, 1982, Pub. L. 97–248, 96 Stat. 324, § 512(d); added Dec. 30, 1987,
 
  __References in Text__ 
 
-    The Airport and Airway Improvement Act of 1982, referred to in subsec. (b)(2)(A), (3), is title V of [Pub. L. 97–248][/us/pl/97/248], Sept. 3, 1982, [96 Stat. 671][/us/stat/96/671], as amended, which was classified principally to chapter 31 (§ 2201 et seq.) of former Title 49, Transportation, and was substantially repealed by [Pub. L. 103–272, § 7(b)][/us/pl/103/272/s7/b], July 5, 1994, [108 Stat. 1379][/us/stat/108/1379], and reenacted by the first section thereof as this subchapter.
+    The Airport and Airway Improvement Act of 1982, referred to in subsec. (b)(2)(A), (3), is title V of [Pub. L. 97–248][/us/pl/97/248], Sept. 3, 1982, [96 Stat. 671][/us/stat/96/671], as amended, which was classified principally to chapter 31 (§ 2201 et seq.) of former Title 49, Transportation, and was substantially repealed by [Pub. L. 103–272][/us/pl/103/272], § 7(b), July 5, 1994, [108 Stat. 1379][/us/stat/108/1379], and reenacted by the first section thereof as this subchapter.
 
-    The Airport and Airway Development Act of 1970, referred to in subsec. (c), is title I of [Pub. L. 91–258][/us/pl/91/258], May 21, 1970, [84 Stat. 219][/us/stat/84/219], as amended, which was classified principally to chapter 25 (§ 1701 et seq.) of former Title 49. Sections 1 through 30 of title I of [Pub. L. 91–258][/us/pl/91/258], which enacted sections 1701 to 1703, 1711 to 1713, and 1714 to 1730 of former Title 49, and a provision set out as a note under section 1701 of former Title 49, were repealed by [Pub. L. 97–248, title V, § 523(a)][/us/pl/97/248/s523/a], Sept. 3, 1982, [96 Stat. 695][/us/stat/96/695]. Sections 31, 51, 52(a), (b)(4), (6), (c), (d), and 53 of title I of [Pub. L. 91–258][/us/pl/91/258] were repealed by [Pub. L. 103–272, § 7(b)][/us/pl/103/272/s7/b], July 5, 1994, [108 Stat. 1379][/us/stat/108/1379], the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation. For complete classification of this Act to the Code, see Tables. For disposition of sections of former Title 49, see table at the beginning of Title 49.
+    The Airport and Airway Development Act of 1970, referred to in subsec. (c), is title I of [Pub. L. 91–258][/us/pl/91/258], May 21, 1970, [84 Stat. 219][/us/stat/84/219], as amended, which was classified principally to chapter 25 (§ 1701 et seq.) of former Title 49. Sections 1 through 30 of title I of [Pub. L. 91–258][/us/pl/91/258], which enacted sections 1701 to 1703, 1711 to 1713, and 1714 to 1730 of former Title 49, and a provision set out as a note under section 1701 of former Title 49, were repealed by [Pub. L. 97–248, title V][/us/pl/97/248/tV], § 523(a), Sept. 3, 1982, [96 Stat. 695][/us/stat/96/695]. Sections 31, 51, 52(a), (b)(4), (6), (c), (d), and 53 of title I of [Pub. L. 91–258][/us/pl/91/258] were repealed by [Pub. L. 103–272][/us/pl/103/272], § 7(b), July 5, 1994, [108 Stat. 1379][/us/stat/108/1379], the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation. For complete classification of this Act to the Code, see Tables. For disposition of sections of former Title 49, see table at the beginning of Title 49.
 
  __Amendments__ 
 
@@ -203,7 +203,7 @@ Sept. 3, 1982, Pub. L. 97–248, 96 Stat. 324, § 512(d); added Dec. 30, 1987,
 
  __Land Acquisition Costs__ 
 
-[Pub. L. 107–71, title I, § 143][/us/pl/107/71/s143], Nov. 19, 2001, [115 Stat. 644][/us/stat/115/644], provided that: 
+[Pub. L. 107–71, title I][/us/pl/107/71/tI], § 143, Nov. 19, 2001, [115 Stat. 644][/us/stat/115/644], provided that: 
 
 > “In the case of a grant for land acquisition issued to an airport under chapter 471 of title 49, United States Code, prior to January 1, 1995, the Secretary of Transportation may waive the provisions of section 47108 of such title and provide an upward adjustment in the maximum obligation of the United States under that chapter to assist the airport in funding land acquisition costs (and associated eligible costs) that increased as a result of a judicial order.”
 
@@ -217,28 +217,28 @@ Sept. 3, 1982, Pub. L. 97–248, 96 Stat. 324, § 512(d); added Dec. 30, 1987,
 ----------
 
 [/us/usc/t49/s47110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs47110
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1262
-[/us/pl/106/181/s135/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs135%2Fc
+[/us/pl/106/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtI
 [/us/stat/114/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F84
-[/us/pl/108/176/s149/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs149%2Fa
+[/us/pl/108/176/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtI
 [/us/stat/117/2505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2505
-[/us/pl/109/115/s176/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F115%2Fs176%2Fa
+[/us/pl/109/115/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F115%2FdA%2FtI
 [/us/stat/119/2427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2427
-[/us/pl/112/95/s152/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs152%2Fe%2F2
+[/us/pl/112/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtI
 [/us/stat/126/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F34
 [/us/usc/t49/s47110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs47110
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
 [/us/stat/96/671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F671
-[/us/pl/103/272/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs7%2Fb
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1379
 [/us/pl/91/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F258
 [/us/stat/84/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F219
 [/us/pl/91/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F258
-[/us/pl/97/248/s523/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs523%2Fa
+[/us/pl/97/248/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtV
 [/us/stat/96/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F695
 [/us/pl/91/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F258
-[/us/pl/103/272/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs7%2Fb
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1379
 [/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
 [/us/pl/109/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F115
@@ -250,7 +250,7 @@ Sept. 3, 1982, Pub. L. 97–248, 96 Stat. 324, § 512(d); added Dec. 30, 1987,
 [/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/pl/106/181/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106
-[/us/pl/107/71/s143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs143
+[/us/pl/107/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2FtI
 [/us/stat/115/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F644
 [/us/pl/107/71/s143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs143
 [/us/pl/107/71/s133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs133

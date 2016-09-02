@@ -47,7 +47,7 @@
 
     Of the amounts made available to the Secretary under section 47115 in a fiscal year, the Secretary shall make available not less than $5,000,000 for the purpose of carrying out this section.
 
-(Added [Pub. L. 106–181, title I, § 134(a)][/us/pl/106/181/s134/a], Apr. 5, 2000, [114 Stat. 83][/us/stat/114/83]; amended [Pub. L. 108–176, title I, § 157][/us/pl/108/176/s157], Dec. 12, 2003, [117 Stat. 2508][/us/stat/117/2508].)
+(Added [Pub. L. 106–181, title I][/us/pl/106/181/tI], § 134(a), Apr. 5, 2000, [114 Stat. 83][/us/stat/114/83]; amended [Pub. L. 108–176, title I][/us/pl/108/176/tI], § 157, Dec. 12, 2003, [117 Stat. 2508][/us/stat/117/2508].)
 
  __Amendments__ 
 
@@ -68,9 +68,9 @@
 ----------
 ----------
 
-[/us/pl/106/181/s134/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs134%2Fa
+[/us/pl/106/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtI
 [/us/stat/114/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F83
-[/us/pl/108/176/s157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs157
+[/us/pl/108/176/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtI
 [/us/stat/117/2508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2508
 [/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
 [/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176

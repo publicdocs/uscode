@@ -29,7 +29,7 @@
 
     (6) a list of ongoing investigations that have exceeded the expected time allotted for completion by Board order and an explanation for the additional time required to complete each such investigation.
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 751][/us/stat/108/751]; [Pub. L. 104–66, title II, § 2151][/us/pl/104/66/s2151], Dec. 21, 1995, [109 Stat. 731][/us/stat/109/731]; [Pub. L. 109–443, § 2(a)(1)][/us/pl/109/443/s2/a/1], Dec. 21, 2006, [120 Stat. 3297][/us/stat/120/3297].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(d), July 5, 1994, [108 Stat. 751][/us/stat/108/751]; [Pub. L. 104–66, title II][/us/pl/104/66/tII], § 2151, Dec. 21, 1995, [109 Stat. 731][/us/stat/109/731]; [Pub. L. 109–443][/us/pl/109/443], § 2(a)(1), Dec. 21, 2006, [120 Stat. 3297][/us/stat/120/3297].)
 
 <table>
 
@@ -96,11 +96,11 @@ Jan. 3, 1975, Pub. L. 93–633, § 305, 88 Stat. 2171.  </td>
 ----------
 ----------
 
-[/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F751
-[/us/pl/104/66/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs2151
+[/us/pl/104/66/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtII
 [/us/stat/109/731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F731
-[/us/pl/109/443/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F443%2Fs2%2Fa%2F1
+[/us/pl/109/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F443
 [/us/stat/120/3297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3297
 [/us/pl/109/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F443
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66

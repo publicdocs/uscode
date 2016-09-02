@@ -35,7 +35,7 @@
 
     A decision by a court under this section may be reviewed only by the Supreme Court under [section 1254 of title 28][/us/usc/t28/s1254].
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1230][/us/stat/108/1230]; [Pub. L. 107–71, title I, § 140(b)(1)][/us/pl/107/71/s140/b/1], (2), Nov. 19, 2001, [115 Stat. 641][/us/stat/115/641]; [Pub. L. 108–176, title II, § 228][/us/pl/108/176/s228], Dec. 12, 2003, [117 Stat. 2532][/us/stat/117/2532].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1230][/us/stat/108/1230]; [Pub. L. 107–71, title I][/us/pl/107/71/tI], § 140(b)(1), (2), Nov. 19, 2001, [115 Stat. 641][/us/stat/115/641]; [Pub. L. 108–176, title II][/us/pl/108/176/tII], § 228, Dec. 12, 2003, [117 Stat. 2532][/us/stat/117/2532].)
 
 <table>
 
@@ -315,9 +315,9 @@ In subsections (a)–(d), the word “Administrator” in section 1006 of the Fe
 
     2003—Subsec. (a). [Pub. L. 108–176][/us/pl/108/176], in first sentence, struck out “safety” before “duties and powers designated to be carried out by the Administrator)” and substituted “in whole or in part under this part, part B, or subsection (l) or (s) of section 114” for “under this part”.
 
-    2001—Subsec. (a). [Pub. L. 107–71, § 140(b)(1)][/us/pl/107/71/s140/b/1], inserted “the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or” after “(or”.
+    2001—Subsec. (a). [Pub. L. 107–71][/us/pl/107/71], § 140(b)(1), inserted “the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or” after “(or”.
 
-    Subsecs. (b) to (d). [Pub. L. 107–71, § 140(b)(2)][/us/pl/107/71/s140/b/2], substituted “, Under Secretary, or Administrator” for “or Administrator” wherever appearing.
+    Subsecs. (b) to (d). [Pub. L. 107–71][/us/pl/107/71], § 140(b)(2), substituted “, Under Secretary, or Administrator” for “or Administrator” wherever appearing.
 
  __Effective Date of 2003 Amendment__ 
 
@@ -336,17 +336,17 @@ In subsections (a)–(d), the word “Administrator” in section 1006 of the Fe
 
 [/us/usc/t28/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2112
 [/us/usc/t28/s1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1254
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1230
-[/us/pl/107/71/s140/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs140%2Fb%2F1
+[/us/pl/107/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2FtI
 [/us/stat/115/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F641
-[/us/pl/108/176/s228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs228
+[/us/pl/108/176/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtII
 [/us/stat/117/2532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2532
 [/us/pl/85/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F726
 [/us/stat/72/795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F795
 [/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
-[/us/pl/107/71/s140/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs140%2Fb%2F1
-[/us/pl/107/71/s140/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs140%2Fb%2F2
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
 [/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
 [/us/pl/108/176/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106

@@ -59,7 +59,7 @@
 
     Nothing in subtitle E of the Passenger Rail Reform and Investment Act of 2015, or any amendment made by such subtitle, shall affect any existing environmental review process, program, agreement, or funding arrangement approved by the Secretary under title 49, as that title was in effect on the day preceding the date of enactment of such subtitle.
 
-(Added [Pub. L. 114–94, div. A, title XI, § 11503(a)][/us/pl/114/94/s11503/a], Dec. 4, 2015, [129 Stat. 1691][/us/stat/129/1691].)
+(Added [Pub. L. 114–94, div. A, title XI][/us/pl/114/94/dA/tXI], § 11503(a), Dec. 4, 2015, [129 Stat. 1691][/us/stat/129/1691].)
 
  __References in Text__ 
 
@@ -86,7 +86,7 @@
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/usc/t23/s139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs139
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/pl/114/94/s11503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11503%2Fa
+[/us/pl/114/94/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtXI
 [/us/stat/129/1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1691
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852

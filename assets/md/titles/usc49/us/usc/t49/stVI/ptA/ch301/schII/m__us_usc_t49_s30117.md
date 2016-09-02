@@ -71,7 +71,7 @@
 
         This subsection applies to motor vehicles, including passenger cars, multipurpose passenger vehicles, and trucks, with a gross vehicle weight rating of 10,000 pounds or less. A motor vehicle designed to provide temporary residential accommodations is not covered.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 948][/us/stat/108/948]; [Pub. L. 106–414, § 12][/us/pl/106/414/s12], Nov. 1, 2000, [114 Stat. 1806][/us/stat/114/1806]; [Pub. L. 114–94, div. B, title XXIV, § 24333][/us/pl/114/94/s24333], Dec. 4, 2015, [129 Stat. 1715][/us/stat/129/1715].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 948][/us/stat/108/948]; [Pub. L. 106–414][/us/pl/106/414], § 12, Nov. 1, 2000, [114 Stat. 1806][/us/stat/114/1806]; [Pub. L. 114–94, div. B, title XXIV][/us/pl/114/94/dB/tXXIV], § 24333, Dec. 4, 2015, [129 Stat. 1715][/us/stat/129/1715].)
 
 <table>
 
@@ -203,7 +203,7 @@ Sept. 9, 1966, Pub. L. 89–563, 80 Stat. 718, § 158(b)(2), (3); added Oct. 1
 
  __Retention of Safety Records by Manufacturers__ 
 
-[Pub. L. 114–94, div. B, title XXIV, § 24403][/us/pl/114/94/s24403], Dec. 4, 2015, [129 Stat. 1720][/us/stat/129/1720], provided that:
+[Pub. L. 114–94, div. B, title XXIV][/us/pl/114/94/dB/tXXIV], § 24403, Dec. 4, 2015, [129 Stat. 1720][/us/stat/129/1720], provided that:
 
 >     “(a)  __Rule__  __.—__ 
 
@@ -215,7 +215,7 @@ Sept. 9, 1966, Pub. L. 89–563, 80 Stat. 718, § 158(b)(2), (3); added Oct. 1
 
  __15-__  __Passenger Van Safety__ 
 
-[Pub. L. 109–59, title X, § 10309(a)][/us/pl/109/59/s10309/a], Aug. 10, 2005, [119 Stat. 1942][/us/stat/119/1942], provided that:
+[Pub. L. 109–59, title X][/us/pl/109/59/tX], § 10309(a), Aug. 10, 2005, [119 Stat. 1942][/us/stat/119/1942], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -232,19 +232,19 @@ Sept. 9, 1966, Pub. L. 89–563, 80 Stat. 718, § 158(b)(2), (3); added Oct. 1
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F948
-[/us/pl/106/414/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F414%2Fs12
+[/us/pl/106/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F414
 [/us/stat/114/1806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1806
-[/us/pl/114/94/s24333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24333
+[/us/pl/114/94/dB/tXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdB%2FtXXIV
 [/us/stat/129/1715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1715
 [/us/pl/106/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F414
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/106/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F414
-[/us/pl/114/94/s24403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24403
+[/us/pl/114/94/dB/tXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdB%2FtXXIV
 [/us/stat/129/1720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1720
 [/us/usc/t49/s30117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30117
-[/us/pl/109/59/s10309/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs10309%2Fa
+[/us/pl/109/59/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtX
 [/us/stat/119/1942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1942
 
 

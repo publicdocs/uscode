@@ -33,7 +33,7 @@
 
         (6) develop and recommend to the President and Congress transportation policies and programs to achieve transportation objectives considering the needs of the public, users, carriers, industry, labor, and national defense.
 
-([Pub. L. 97–449, § 1(b)][/us/pl/97/449/s1/b], Jan. 12, 1983, [96 Stat. 2414][/us/stat/96/2414]; [Pub. L. 102–240, title VI, § 6018][/us/pl/102/240/s6018], Dec. 18, 1991, [105 Stat. 2183][/us/stat/105/2183].)
+([Pub. L. 97–449][/us/pl/97/449], § 1(b), Jan. 12, 1983, [96 Stat. 2414][/us/stat/96/2414]; [Pub. L. 102–240, title VI][/us/pl/102/240/tVI], § 6018, Dec. 18, 1991, [105 Stat. 2183][/us/stat/105/2183].)
 
 <table>
 
@@ -115,51 +115,51 @@ Oct. 15, 1966, Pub. L. 89–670, § 2(a), (b)(1), 80 Stat. 931.  </td>
 
  __Short Title of 2004 Amendment__ 
 
-[Pub. L. 108–426, § 1][/us/pl/108/426/s1], Nov. 30, 2004, [118 Stat. 2423][/us/stat/118/2423], provided that: 
+[Pub. L. 108–426][/us/pl/108/426], § 1, Nov. 30, 2004, [118 Stat. 2423][/us/stat/118/2423], provided that: 
 
 > “This Act \[enacting [section 108 of this title][/us/usc/t49/s108], amending sections 111, 112, 5118, and 5503 of this title, sections 5314 and 5316 of Title 5, Government Organization and Employees, [section 844 of Title 18][/us/usc/t18/s844], Crimes and Criminal Procedure, [section 2761 of Title 33][/us/usc/t33/s2761], Navigation and Navigable Waters, and [section 1121–2 of Title 46][/us/usc/t46/s1121–2], Appendix, Shipping, enacting provisions set out as notes under sections 108 and 112 of this title, and amending provisions set out as a note under [section 1135 of this title][/us/usc/t49/s1135]\] may be cited as the ‘Norman Y. Mineta Research and Special Programs Improvement Act’.”
 
  __Short Title of 1999 Amendment__ 
 
-[Pub. L. 106–159, § 1(a)][/us/pl/106/159/s1/a], Dec. 9, 1999, [113 Stat. 1748][/us/stat/113/1748], provided that: 
+[Pub. L. 106–159][/us/pl/106/159], § 1(a), Dec. 9, 1999, [113 Stat. 1748][/us/stat/113/1748], provided that: 
 
 > “This Act \[see Tables for classification\] may be cited as the ‘Motor Carrier Safety Improvement Act of 1999’.”
 
  __Short Title of 1995 Amendment__ 
 
-[Pub. L. 104–88, § 1(a)][/us/pl/104/88/s1/a], Dec. 29, 1995, [109 Stat. 803][/us/stat/109/803], provided that: 
+[Pub. L. 104–88][/us/pl/104/88], § 1(a), Dec. 29, 1995, [109 Stat. 803][/us/stat/109/803], provided that: 
 
 > “This Act \[see Tables for classification\] may be cited as the ‘ICC Termination Act of 1995’.”
 
  __Short Title of 1994 Amendment__ 
 
-[Pub. L. 103–411, § 1][/us/pl/103/411/s1], Oct. 25, 1994, [108 Stat. 4236][/us/stat/108/4236], provided that: 
+[Pub. L. 103–411][/us/pl/103/411], § 1, Oct. 25, 1994, [108 Stat. 4236][/us/stat/108/4236], provided that: 
 
 > “This Act \[amending sections 1118, 1131, and 40102 of this title and enacting provisions set out as notes under sections 1131 and 40109 of this title\] may be cited as the ‘Independent Safety Board Act Amendments of 1994’.”
 
  __Short Title of 1991 Amendment__ 
 
-[Pub. L. 102–240, § 1][/us/pl/102/240/s1], Dec. 18, 1991, [105 Stat. 1914][/us/stat/105/1914], provided that: 
+[Pub. L. 102–240][/us/pl/102/240], § 1, Dec. 18, 1991, [105 Stat. 1914][/us/stat/105/1914], provided that: 
 
 > “This Act \[see Tables for classification\] may be cited as the ‘Intermodal Surface Transportation Efficiency Act of 1991’.”
 
  __Deemed References to Chapters 509 and 511 of Title 51__ 
 
-[Pub. L. 111–314, § 4(d)(8)][/us/pl/111/314/s4/d/8], Dec. 18, 2010, [124 Stat. 3443][/us/stat/124/3443], provided that: 
+[Pub. L. 111–314][/us/pl/111/314], § 4(d)(8), Dec. 18, 2010, [124 Stat. 3443][/us/stat/124/3443], provided that: 
 
 > “In title 49, United States Code, references to ‘this title’ are deemed to refer also to chapters 509 and 511 of title 51, United States Code.”
 
  __Congressional Declaration of Policy Regarding National Intermodal Transportation System__ 
 
-    [Pub. L. 102–240, § 2][/us/pl/102/240/s2], Dec. 18, 1991, [105 Stat. 1914][/us/stat/105/1914], which provided that it was the policy of the United States to develop a National Intermodal Transportation System consisting of all forms of transportation in a unified, interconnected manner, a National Highway System, improvements in public transportation achieving goals for improved air quality, energy conservation, international competitiveness, and mobility for elderly persons, persons with disabilities, and economically disadvantaged persons, was repealed and reenacted as [section 5501 of this title][/us/usc/t49/s5501] by [Pub. L. 103–272][/us/pl/103/272], §§ 1(d), 7(b), July 5, 1994, [108 Stat. 848][/us/stat/108/848], 1379.
+    [Pub. L. 102–240][/us/pl/102/240], § 2, Dec. 18, 1991, [105 Stat. 1914][/us/stat/105/1914], which provided that it was the policy of the United States to develop a National Intermodal Transportation System consisting of all forms of transportation in a unified, interconnected manner, a National Highway System, improvements in public transportation achieving goals for improved air quality, energy conservation, international competitiveness, and mobility for elderly persons, persons with disabilities, and economically disadvantaged persons, was repealed and reenacted as [section 5501 of this title][/us/usc/t49/s5501] by [Pub. L. 103–272][/us/pl/103/272], §§ 1(d), 7(b), July 5, 1994, [108 Stat. 848][/us/stat/108/848], 1379.
 
  __“Secretary” Defined__ 
 
-[Pub. L. 106–159, § 2][/us/pl/106/159/s2], Dec. 9, 1999, [113 Stat. 1749][/us/stat/113/1749], provided that: 
+[Pub. L. 106–159][/us/pl/106/159], § 2, Dec. 9, 1999, [113 Stat. 1749][/us/stat/113/1749], provided that: 
 
 > “In this Act \[see Tables for classification\], the term ‘Secretary’ means the Secretary of Transportation.”
 
-[Pub. L. 102–240, § 3][/us/pl/102/240/s3], Dec. 18, 1991, [105 Stat. 1915][/us/stat/105/1915], provided that: 
+[Pub. L. 102–240][/us/pl/102/240], § 3, Dec. 18, 1991, [105 Stat. 1915][/us/stat/105/1915], provided that: 
 
 > “As used in this Act \[see Short Title of 1991 Amendment note set out above\], the term ‘Secretary’ means the Secretary of Transportation.”
 
@@ -236,36 +236,36 @@ Oct. 15, 1966, Pub. L. 89–670, § 2(a), (b)(1), 80 Stat. 931.  </td>
 ----------
 ----------
 
-[/us/pl/97/449/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449%2Fs1%2Fb
+[/us/pl/97/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449
 [/us/stat/96/2414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2414
-[/us/pl/102/240/s6018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs6018
+[/us/pl/102/240/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2FtVI
 [/us/stat/105/2183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2183
 [/us/pl/102/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240
-[/us/pl/108/426/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F426%2Fs1
+[/us/pl/108/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F426
 [/us/stat/118/2423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2423
 [/us/usc/t49/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs108
 [/us/usc/t18/s844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs844
 [/us/usc/t33/s2761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2761
 [/us/usc/t46/s1121–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs1121%E2%80%932
 [/us/usc/t49/s1135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1135
-[/us/pl/106/159/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2Fs1%2Fa
+[/us/pl/106/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159
 [/us/stat/113/1748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1748
-[/us/pl/104/88/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs1%2Fa
+[/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/stat/109/803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F803
-[/us/pl/103/411/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F411%2Fs1
+[/us/pl/103/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F411
 [/us/stat/108/4236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4236
-[/us/pl/102/240/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1
+[/us/pl/102/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240
 [/us/stat/105/1914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1914
-[/us/pl/111/314/s4/d/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314%2Fs4%2Fd%2F8
+[/us/pl/111/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314
 [/us/stat/124/3443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3443
-[/us/pl/102/240/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs2
+[/us/pl/102/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240
 [/us/stat/105/1914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1914
 [/us/usc/t49/s5501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5501
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F848
-[/us/pl/106/159/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2Fs2
+[/us/pl/106/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159
 [/us/stat/113/1749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1749
-[/us/pl/102/240/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs3
+[/us/pl/102/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240
 [/us/stat/105/1915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1915
 
 

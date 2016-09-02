@@ -21,7 +21,7 @@
 
     (2) prohibit the bargaining representatives of railroad carriers and their employees from making collective bargaining agreements under the Railway Labor Act ([45 U.S.C. 151][/us/usc/t45/s151] et seq.), including agreements related to qualifications of employees, that are not inconsistent with regulations prescribed and orders issued under this chapter.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 868][/us/stat/108/868].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 868][/us/stat/108/868].)
 
 <table>
 
@@ -83,7 +83,7 @@ Oct. 16, 1970, Pub. L. 91–458, § 202(a) (2d, last sentences), 84 Stat. 971.
 ----------
 
 [/us/usc/t45/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs151
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F868
 [/us/act/1926-05-20/ch347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-20%2Fch347
 [/us/stat/44/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F577

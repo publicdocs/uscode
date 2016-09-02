@@ -123,7 +123,7 @@
 
     An amount greater than that authorized for a fiscal year may be appropriated to the extent that the amount appropriated for any prior fiscal year is less than the amount authorized for that year.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 937][/us/stat/108/937]; [Pub. L. 113–158, § 2][/us/pl/113/158/s2], Aug. 8, 2014, [128 Stat. 1838][/us/stat/128/1838].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 937][/us/stat/108/937]; [Pub. L. 113–158][/us/pl/113/158], § 2, Aug. 8, 2014, [128 Stat. 1838][/us/stat/128/1838].)
 
 <table>
 
@@ -413,11 +413,11 @@ Feb. 5, 1976, Pub. L. 94–210, 90 Stat. 31, § 704(a) (4th–last sentences);
 
  __References in Text__ 
 
-    [Section 24902 of this title][/us/usc/t49/s24902], referred to in subsecs. (a)(1), (2)(A), (E), was amended by [Pub. L. 105–134, title IV, § 405(b)(1)][/us/pl/105/134/s405/b/1], Dec. 2, 1997, [111 Stat. 2586][/us/stat/111/2586], and, as so amended, subsec. (a) of that section was repealed and subsecs. (b), (j), and (m) were redesignated (a), (g), and (j), respectively.
+    [Section 24902 of this title][/us/usc/t49/s24902], referred to in subsecs. (a)(1), (2)(A), (E), was amended by [Pub. L. 105–134, title IV][/us/pl/105/134/tIV], § 405(b)(1), Dec. 2, 1997, [111 Stat. 2586][/us/stat/111/2586], and, as so amended, subsec. (a) of that section was repealed and subsecs. (b), (j), and (m) were redesignated (a), (g), and (j), respectively.
 
     Act of February 28, 1975 ([Public Law 94–6][/us/pl/94/6], [89 Stat. 11][/us/stat/89/11]), referred to in subsec. (b), provided appropriations for interim operating assistance for Federal Railroad Administration of Department of Transportation in chapter II which is not classified to the Code.
 
-    Section 602 of the Rail Passenger Service Act, referred to in subsec. (c), was classified to [section 602 of Title 45][/us/usc/t45/s602], Railroads, prior to repeal by [Pub. L. 102–533, § 7(c)][/us/pl/102/533/s7/c], Oct. 27, 1992, [106 Stat. 3519][/us/stat/106/3519].
+    Section 602 of the Rail Passenger Service Act, referred to in subsec. (c), was classified to [section 602 of Title 45][/us/usc/t45/s602], Railroads, prior to repeal by [Pub. L. 102–533][/us/pl/102/533], § 7(c), Oct. 27, 1992, [106 Stat. 3519][/us/stat/106/3519].
 
  __Change of Name__ 
 
@@ -445,19 +445,19 @@ Feb. 5, 1976, Pub. L. 94–210, 90 Stat. 31, § 704(a) (4th–last sentences);
 [/us/stat/89/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F11
 [/us/usc/t45/s716/c/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs716%2Fc%2F1%2FC
 [/us/usc/t49/s24902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24902
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F937
-[/us/pl/113/158/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F158%2Fs2
+[/us/pl/113/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F158
 [/us/stat/128/1838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1838
 [/us/usc/t45/s743/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs743%2Fb
 [/us/usc/t49/s851/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs851%2Fb
 [/us/usc/t49/s24902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24902
-[/us/pl/105/134/s405/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2Fs405%2Fb%2F1
+[/us/pl/105/134/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2FtIV
 [/us/stat/111/2586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2586
 [/us/pl/94/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F6
 [/us/stat/89/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F11
 [/us/usc/t45/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs602
-[/us/pl/102/533/s7/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F533%2Fs7%2Fc
+[/us/pl/102/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F533
 [/us/stat/106/3519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3519
 [/us/pl/113/158/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F158%2Fs2
 [/us/pl/113/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F158

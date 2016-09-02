@@ -47,7 +47,7 @@
 
     On the motion of the Secretary or on petition of any interested person, the Secretary may conduct a hearing to decide whether the manufacturer has reasonably met the notification requirements under this section. Any interested person may make written and oral presentations of information, views, and arguments on whether the manufacturer has reasonably met the notification requirements. If the Secretary decides that the manufacturer has not reasonably met the notification requirements, the Secretary shall order the manufacturer to take specified action to meet those requirements and may take any other action authorized under this chapter.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 950][/us/stat/108/950]; [Pub. L. 106–346, § 101(a)][/us/pl/106/346/s101/a] \[title III, § 364\], Oct. 23, 2000, [114 Stat. 1356][/us/stat/114/1356], 1356A–37; [Pub. L. 106–414, § 2][/us/pl/106/414/s2], Nov. 1, 2000, [114 Stat. 1800][/us/stat/114/1800]; [Pub. L. 114–94, div. B, title XXIV, § 24104(b)][/us/pl/114/94/s24104/b], Dec. 4, 2015, [129 Stat. 1703][/us/stat/129/1703].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 950][/us/stat/108/950]; [Pub. L. 106–346][/us/pl/106/346], § 101(a) \[title III, § 364\], Oct. 23, 2000, [114 Stat. 1356][/us/stat/114/1356], 1356A–37; [Pub. L. 106–414][/us/pl/106/414], § 2, Nov. 1, 2000, [114 Stat. 1800][/us/stat/114/1800]; [Pub. L. 114–94, div. B, title XXIV][/us/pl/114/94/dB/tXXIV], § 24104(b), Dec. 4, 2015, [129 Stat. 1703][/us/stat/129/1703].)
 
 <table>
 
@@ -257,13 +257,13 @@ Sept. 9, 1966, Pub. L. 89–563, 80 Stat. 718, § 153(c) (1st sentence cl. (6)
 
     2015—Subsec. (c). [Pub. L. 114–94][/us/pl/114/94] inserted “or electronic mail” after “certified mail” in introductory provisions.
 
-    2000—[Pub. L. 106–346, § 101(a)][/us/pl/106/346/s101/a] \[title III, § 364\], which directed amendment of this section in subsecs. (a), (b)(1), and (c), by inserting “, original equipment,” before “or replacement equipment” wherever appearing, and in subsec. (c), by redesignating pars. (1) and (2) as subpars. (A) and (B), respectively, and realigning margins, by substituting “(1) In general.—A manufacturer” for “A manufacturer”, and by adding a new par (2) relating to duty of manufacturers, was repealed by [Pub. L. 106–414, § 2][/us/pl/106/414/s2]. See Construction of 2000 Amendment note below.
+    2000—[Pub. L. 106–346][/us/pl/106/346], § 101(a) \[title III, § 364\], which directed amendment of this section in subsecs. (a), (b)(1), and (c), by inserting “, original equipment,” before “or replacement equipment” wherever appearing, and in subsec. (c), by redesignating pars. (1) and (2) as subpars. (A) and (B), respectively, and realigning margins, by substituting “(1) In general.—A manufacturer” for “A manufacturer”, and by adding a new par (2) relating to duty of manufacturers, was repealed by [Pub. L. 106–414][/us/pl/106/414], § 2. See Construction of 2000 Amendment note below.
 
  __Construction of 2000 Amendment__ 
 
-[Pub. L. 106–414, § 2][/us/pl/106/414/s2], Nov. 1, 2000, [114 Stat. 1800][/us/stat/114/1800], provided that: 
+[Pub. L. 106–414][/us/pl/106/414], § 2, Nov. 1, 2000, [114 Stat. 1800][/us/stat/114/1800], provided that: 
 
-> “The amendments made to [section 30118 of title 49][/us/usc/t49/s30118], United States Code, by section 364 of the Department of Transportation and Related Agencies Appropriations Act, 2001 \[[Pub. L. 106–346, § 101(a)][/us/pl/106/346/s101/a] \[title III, § 364\], Oct. 23, 2000, [114 Stat. 1356][/us/stat/114/1356], 1356A–37\] are repealed and such section shall be effective as if such amending section had not been enacted.”
+> “The amendments made to [section 30118 of title 49][/us/usc/t49/s30118], United States Code, by section 364 of the Department of Transportation and Related Agencies Appropriations Act, 2001 \[[Pub. L. 106–346][/us/pl/106/346], § 101(a) \[title III, § 364\], Oct. 23, 2000, [114 Stat. 1356][/us/stat/114/1356], 1356A–37\] are repealed and such section shall be effective as if such amending section had not been enacted.”
 
 ----------
 
@@ -276,23 +276,23 @@ Sept. 9, 1966, Pub. L. 89–563, 80 Stat. 718, § 153(c) (1st sentence cl. (6)
 [/us/usc/t49/s30167/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30167%2Fa
 [/us/usc/t49/s30119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30119
 [/us/usc/t49/s30120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30120
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F950
-[/us/pl/106/346/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F346%2Fs101%2Fa
+[/us/pl/106/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F346
 [/us/stat/114/1356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1356
-[/us/pl/106/414/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F414%2Fs2
+[/us/pl/106/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F414
 [/us/stat/114/1800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1800
-[/us/pl/114/94/s24104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24104%2Fb
+[/us/pl/114/94/dB/tXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdB%2FtXXIV
 [/us/stat/129/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1703
 [/us/usc/t49/s1411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1411
 [/us/usc/t49/s1414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1414
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
-[/us/pl/106/346/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F346%2Fs101%2Fa
-[/us/pl/106/414/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F414%2Fs2
-[/us/pl/106/414/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F414%2Fs2
+[/us/pl/106/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F346
+[/us/pl/106/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F414
+[/us/pl/106/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F414
 [/us/stat/114/1800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1800
 [/us/usc/t49/s30118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30118
-[/us/pl/106/346/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F346%2Fs101%2Fa
+[/us/pl/106/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F346
 [/us/stat/114/1356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1356
 
 

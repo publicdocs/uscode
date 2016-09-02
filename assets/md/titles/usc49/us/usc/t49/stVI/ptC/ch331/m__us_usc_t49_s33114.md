@@ -41,7 +41,7 @@
 
     Subsection (a)(1) of this section does not apply to a person establishing that in the exercise of reasonable care the person did not have reason to know that the motor vehicle or major replacement part was not in conformity with the standard.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1091][/us/stat/108/1091].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1091][/us/stat/108/1091].)
 
 <table>
 
@@ -117,7 +117,7 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, § 610(c)(1); added Oct. 25, 19
 ----------
 
 [/us/usc/t49/s33108/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs33108%2Fc
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1091
 [/us/usc/t49/s2022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs2022
 

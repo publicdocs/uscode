@@ -47,7 +47,7 @@
 
     This section does not prevent pilots or copilots of an air carrier from obtaining by collective bargaining higher rates of compensation or more favorable working conditions or relations.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1160][/us/stat/108/1160].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1160][/us/stat/108/1160].)
 
 <table>
 
@@ -137,7 +137,7 @@ Aug. 23, 1958, Pub. L. 85–726, § 401(k), 72 Stat. 756.  </td>
 
  __Labor Integration__ 
 
-[Pub. L. 110–161, div. K, title I, § 117][/us/pl/110/161/s117], Dec. 26, 2007, [121 Stat. 2382][/us/stat/121/2382], provided that:
+[Pub. L. 110–161, div. K, title I][/us/pl/110/161/dK/tI], § 117, Dec. 26, 2007, [121 Stat. 2382][/us/stat/121/2382], provided that:
 
 >     “(a)  __Labor Integration__  __.—__ 
 
@@ -197,14 +197,14 @@ Aug. 23, 1958, Pub. L. 85–726, § 401(k), 72 Stat. 756.  </td>
 ----------
 
 [/us/usc/t45/s181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs181
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1160
 [/us/act/1926-05-20/ch347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-20%2Fch347
 [/us/stat/44/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F577
 [/us/act/1936-04-10/ch166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-04-10%2Fch166
 [/us/stat/49/1189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1189
 [/us/usc/t45/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs151
-[/us/pl/110/161/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs117
+[/us/pl/110/161/dK/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdK%2FtI
 [/us/stat/121/2382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2382
 [/us/usc/t45/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs151
 [/us/usc/t45/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs151

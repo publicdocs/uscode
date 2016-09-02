@@ -41,7 +41,7 @@
 
     In this section, labor costs involved in final assembly are not included in calculating the cost of components.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1298][/us/stat/108/1298], § 49101; renumbered § 50101 and amended [Pub. L. 104–287, § 5(88)(D)][/us/pl/104/287/s5/88/D], (89), Oct. 11, 1996, [110 Stat. 3398][/us/stat/110/3398].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1298][/us/stat/108/1298], § 49101; renumbered § 50101 and amended [Pub. L. 104–287][/us/pl/104/287], § 5(88)(D), (89), Oct. 11, 1996, [110 Stat. 3398][/us/stat/110/3398].)
 
 <table>
 
@@ -131,19 +131,19 @@ Nov. 5, 1990, Pub. L. 101–508, § 9129, 104 Stat. 1388–371.  </td>
 
     In subsection (b), before clause (1), the words “The Secretary may waive” are substituted for “shall not apply” for consistency. In clause (2), the words “steel and goods” are substituted for “materials and products” for consistency. In clause (4), the word “contract” is omitted as surplus.
 
- __[__  __Pub. L. 104–287, § 5(89)__  __][/us/pl/104/287/s5/89]__ 
+ __[__  __Pub. L. 104–287__  __][/us/pl/104/287]__  __, § 5(89)__ 
 
     This makes a clarifying amendment to 49:50101(a) and (b)(3), 50102, 50104(b)(1), and 50105, as redesignated by clause (88)(D) of this section, because 49:47106(d) was struck by section 108(1) of the Federal Aviation Administration Authorization Act of 1994 ([Public Law 103–305][/us/pl/103/305], [108 Stat. 1573][/us/stat/108/1573]).
 
  __Amendments__ 
 
-    1996—[Pub. L. 104–287, § 5(88)(D)][/us/pl/104/287/s5/88/D], renumbered [section 49101 of this title][/us/usc/t49/s49101] as this section.
+    1996—[Pub. L. 104–287][/us/pl/104/287], § 5(88)(D), renumbered [section 49101 of this title][/us/usc/t49/s49101] as this section.
 
-    Subsecs. (a), (b)(3). [Pub. L. 104–287, § 5(89)][/us/pl/104/287/s5/89], substituted “section 47127” for “sections 47106(d) and 47127”.
+    Subsecs. (a), (b)(3). [Pub. L. 104–287][/us/pl/104/287], § 5(89), substituted “section 47127” for “sections 47106(d) and 47127”.
 
  __Use of Domestic Products__ 
 
-[Pub. L. 103–305, title III, § 305][/us/pl/103/305/s305], Aug. 23, 1994, [108 Stat. 1592][/us/stat/108/1592], provided that:
+[Pub. L. 103–305, title III][/us/pl/103/305/tIII], § 305, Aug. 23, 1994, [108 Stat. 1592][/us/stat/108/1592], provided that:
 
 >     “(a)  __Prohibition Against Fraudulent Use of ‘Made in America’ Labels__  __.—__ 
 
@@ -173,11 +173,11 @@ Nov. 5, 1990, Pub. L. 101–508, § 9129, 104 Stat. 1388–371.  </td>
 
 >         “(2) at least 50 percent of the cost of the articles, materials, or supplies of which are mined, produced, or manufactured in the United States.”
 
-    Similar provisions were contained in the following prior authorization act: [Pub. L. 102–581, title III, § 305][/us/pl/102/581/s305], Oct. 31, 1992, [106 Stat. 4896][/us/stat/106/4896].
+    Similar provisions were contained in the following prior authorization act: [Pub. L. 102–581, title III][/us/pl/102/581/tIII], § 305, Oct. 31, 1992, [106 Stat. 4896][/us/stat/106/4896].
 
  __Purchase of American Made Equipment and Products__ 
 
-[Pub. L. 103–305, title III, § 306][/us/pl/103/305/s306], Aug. 23, 1994, [108 Stat. 1593][/us/stat/108/1593], provided that:
+[Pub. L. 103–305, title III][/us/pl/103/305/tIII], § 306, Aug. 23, 1994, [108 Stat. 1593][/us/stat/108/1593], provided that:
 
 >     “(a)  __Sense of Congress__  __.—__ 
 
@@ -194,25 +194,25 @@ Nov. 5, 1990, Pub. L. 101–508, § 9129, 104 Stat. 1388–371.  </td>
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1298
-[/us/pl/104/287/s5/88/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F88%2FD
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3398
-[/us/pl/104/287/s5/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F89
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/pl/103/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305
 [/us/stat/108/1573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1573
-[/us/pl/104/287/s5/88/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F88%2FD
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/usc/t49/s49101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs49101
-[/us/pl/104/287/s5/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F89
-[/us/pl/103/305/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2Fs305
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
+[/us/pl/103/305/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2FtIII
 [/us/stat/108/1592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1592
 [/us/usc/t49/s47509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs47509
 [/us/usc/t49/s40101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40101
 [/us/usc/t41/s10a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs10a
 [/us/usc/t41/s8301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs8301
-[/us/pl/102/581/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F581%2Fs305
+[/us/pl/102/581/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F581%2FtIII
 [/us/stat/106/4896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4896
-[/us/pl/103/305/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2Fs306
+[/us/pl/103/305/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2FtIII
 [/us/stat/108/1593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1593
 [/us/usc/t49/s47509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs47509
 [/us/usc/t49/s40101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40101

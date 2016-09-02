@@ -45,7 +45,7 @@
 
         (2) A common carrier issuing a nonnegotiable bill of lading must put “nonnegotiable” or “not negotiable” on the bill. This paragraph does not apply to an informal memorandum or acknowledgment.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1346][/us/stat/108/1346].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1346][/us/stat/108/1346].)
 
 <table>
 
@@ -162,7 +162,7 @@ Aug. 29, 1916, ch. 415, §§ 2, 3, 6, 7, 29 (last sentence), 39 Stat. 539, 543
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1346
 
 

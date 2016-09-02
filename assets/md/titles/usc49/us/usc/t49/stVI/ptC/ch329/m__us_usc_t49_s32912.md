@@ -89,7 +89,7 @@
 
         (2) transfer 50 percent of such total amount to the account providing appropriations to the Secretary of Transportation for the administration of this chapter, which shall be used by the Secretary to carry out a program to make grants to manufacturers for retooling, reequipping, or expanding existing manufacturing facilities in the United States to produce advanced technology vehicles and components.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1072][/us/stat/108/1072]; [Pub. L. 110–140, title I, § 112][/us/pl/110/140/s112], Dec. 19, 2007, [121 Stat. 1508][/us/stat/121/1508].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1072][/us/stat/108/1072]; [Pub. L. 110–140, title I][/us/pl/110/140/tI], § 112, Dec. 19, 2007, [121 Stat. 1508][/us/stat/121/1508].)
 
 <table>
 
@@ -255,9 +255,9 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, § 508(d), (e)(1), (2), (4); ad
 [/us/usc/t49/s32903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs32903
 [/us/usc/t18/s1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1905
 [/us/usc/t15/s796/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs796%2Fd
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1072
-[/us/pl/110/140/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs112
+[/us/pl/110/140/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtI
 [/us/stat/121/1508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1508
 [/us/usc/t49/s32902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs32902
 [/us/usc/t49/s2007/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs2007%2Fa%2F1

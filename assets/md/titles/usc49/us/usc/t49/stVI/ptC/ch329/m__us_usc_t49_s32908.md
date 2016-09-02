@@ -151,7 +151,7 @@
 
         The Secretary of Transportation shall issue a final rule under this subsection not later than 42 months after the date of the enactment of the Ten-in-Ten Fuel Economy Act.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1068][/us/stat/108/1068]; [Pub. L. 103–429, § 6(37)][/us/pl/103/429/s6/37], Oct. 31, 1994, [108 Stat. 4382][/us/stat/108/4382]; [Pub. L. 110–140, title I, § 105][/us/pl/110/140/s105], Dec. 19, 2007, [121 Stat. 1503][/us/stat/121/1503].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1068][/us/stat/108/1068]; [Pub. L. 103–429][/us/pl/103/429], § 6(37), Oct. 31, 1994, [108 Stat. 4382][/us/stat/108/4382]; [Pub. L. 110–140, title I][/us/pl/110/140/tI], § 105, Dec. 19, 2007, [121 Stat. 1503][/us/stat/121/1503].)
 
 <table>
 
@@ -395,7 +395,7 @@ In subsection (a)(2), the words “means a person residing or located in a State
 
     The date of the enactment of the Ten-in-Ten Fuel Economy Act, referred to in subsec. (g)(1)(A)(i), (4), is the date of enactment of subtitle A (§§ 101–113) of title I of [Pub. L. 110–140][/us/pl/110/140], which was approved Dec. 19, 2007.
 
-    Subsection (h) of [section 32905 of this title][/us/usc/t49/s32905], referred to in subsec. (g)(3), was redesignated subsec. (f) by [Pub. L. 110–140, title I, § 109(b)(4)][/us/pl/110/140/s109/b/4], Dec. 19, 2007, [121 Stat. 1506][/us/stat/121/1506], and subsequently was redesignated subsec. (g) by [Pub. L. 113–291, div. A, title III, § 318(c)(1)][/us/pl/113/291/s318/c/1], Dec. 19, 2014, [128 Stat. 3341][/us/stat/128/3341].
+    Subsection (h) of [section 32905 of this title][/us/usc/t49/s32905], referred to in subsec. (g)(3), was redesignated subsec. (f) by [Pub. L. 110–140, title I][/us/pl/110/140/tI], § 109(b)(4), Dec. 19, 2007, [121 Stat. 1506][/us/stat/121/1506], and subsequently was redesignated subsec. (g) by [Pub. L. 113–291, div. A, title III][/us/pl/113/291/dA/tIII], § 318(c)(1), Dec. 19, 2014, [128 Stat. 3341][/us/stat/128/3341].
 
  __Amendments__ 
 
@@ -409,7 +409,7 @@ In subsection (a)(2), the words “means a person residing or located in a State
 
  __Periodic Review of Accuracy of Fuel Economy Labeling Procedures__ 
 
-[Pub. L. 110–140, title I, § 110][/us/pl/110/140/s110], Dec. 19, 2007, [121 Stat. 1506][/us/stat/121/1506], provided that: 
+[Pub. L. 110–140, title I][/us/pl/110/140/tI], § 110, Dec. 19, 2007, [121 Stat. 1506][/us/stat/121/1506], provided that: 
 
 > “Beginning in December 2009, and not less often than every 5 years thereafter, the Administrator of the Environmental Protection Agency, in consultation with the Secretary of Transportation, shall—
 
@@ -434,11 +434,11 @@ In subsection (a)(2), the words “means a person residing or located in a State
 [/us/usc/t15/s1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1232
 [/us/usc/t15/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs41
 [/us/usc/t15/s45/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs45%2Fm
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1068
-[/us/pl/103/429/s6/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F37
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/stat/108/4382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4382
-[/us/pl/110/140/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs105
+[/us/pl/110/140/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtI
 [/us/stat/121/1503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1503
 [/us/usc/t15/s1231/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1231%2Fe
 [/us/usc/t49/s2001/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs2001%2F1
@@ -452,16 +452,16 @@ In subsection (a)(2), the words “means a person residing or located in a State
 [/us/usc/t15/s58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs58
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/usc/t49/s32905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs32905
-[/us/pl/110/140/s109/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs109%2Fb%2F4
+[/us/pl/110/140/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtI
 [/us/stat/121/1506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1506
-[/us/pl/113/291/s318/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs318%2Fc%2F1
+[/us/pl/113/291/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtIII
 [/us/stat/128/3341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3341
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/110/140/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1601
 [/us/usc/t2/s1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1824
-[/us/pl/110/140/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs110
+[/us/pl/110/140/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtI
 [/us/stat/121/1506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1506
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/pl/103/429/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs9

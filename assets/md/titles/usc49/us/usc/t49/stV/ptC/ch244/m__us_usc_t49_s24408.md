@@ -185,11 +185,11 @@
 
         (5) any legislative recommendations.
 
-(Added [Pub. L. 114–94, div. A, title XI, § 11303(a)][/us/pl/114/94/s11303/a], Dec. 4, 2015, [129 Stat. 1651][/us/stat/129/1651].)
+(Added [Pub. L. 114–94, div. A, title XI][/us/pl/114/94/dA/tXI], § 11303(a), Dec. 4, 2015, [129 Stat. 1651][/us/stat/129/1651].)
 
  __References in Text__ 
 
-    Section 11304 of the Passenger Rail Reform and Investment Act of 2015, referred to in subsec. (d)(2), is [section 11304 of title IX of div. A of Pub. L. 114–94][/us/pl/114/94/s11304], [129 Stat. 1655][/us/stat/129/1655], which is not classified to the Code.
+    Section 11304 of the Passenger Rail Reform and Investment Act of 2015, referred to in subsec. (d)(2), is [section 11304 of title IX of div. A of Pub. L. 114–94][/us/pl/114/94/dA/tIX/s11304], [129 Stat. 1655][/us/stat/129/1655], which is not classified to the Code.
 
     The date of enactment of the Passenger Rail Reform and Investment Act of 2015, referred to in subsec. (j), is the date of enactment of title XI of div. A of [Pub. L. 114–94][/us/pl/114/94], which was approved Dec. 4, 2015.
 
@@ -205,9 +205,9 @@
 ----------
 
 [/us/usc/t49/s24711/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24711%2Fc%2F1
-[/us/pl/114/94/s11303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11303%2Fa
+[/us/pl/114/94/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtXI
 [/us/stat/129/1651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1651
-[/us/pl/114/94/s11304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11304
+[/us/pl/114/94/dA/tIX/s11304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtIX%2Fs11304
 [/us/stat/129/1655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1655
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003

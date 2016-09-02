@@ -181,7 +181,7 @@
 
     Not later than 18 months after the date of enactment of this section, the Secretary shall promulgate regulations on the requirements of this section, consistent with this section.
 
-(Added [Pub. L. 114–94, div. B, title XXIV, § 24352(a)][/us/pl/114/94/s24352/a], Dec. 4, 2015, [129 Stat. 1716][/us/stat/129/1716].)
+(Added [Pub. L. 114–94, div. B, title XXIV][/us/pl/114/94/dB/tXXIV], § 24352(a), Dec. 4, 2015, [129 Stat. 1716][/us/stat/129/1716].)
 
  __References in Text__ 
 
@@ -189,7 +189,7 @@
 
  __Rule of Construction__ 
 
-[Pub. L. 114–94, div. B, title XXIV, § 24352(b)][/us/pl/114/94/s24352/b], Dec. 4, 2015, [129 Stat. 1720][/us/stat/129/1720], provided that:
+[Pub. L. 114–94, div. B, title XXIV][/us/pl/114/94/dB/tXXIV], § 24352(b), Dec. 4, 2015, [129 Stat. 1720][/us/stat/129/1720], provided that:
 
 >     “(1)  __Original information__  __.—__ 
 
@@ -210,10 +210,10 @@
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
 [/us/usc/t18/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1001
 [/us/usc/t5/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs706
-[/us/pl/114/94/s24352/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24352%2Fa
+[/us/pl/114/94/dB/tXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdB%2FtXXIV
 [/us/stat/129/1716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1716
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
-[/us/pl/114/94/s24352/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24352%2Fb
+[/us/pl/114/94/dB/tXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdB%2FtXXIV
 [/us/stat/129/1720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1720
 [/us/usc/t49/s30172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30172
 [/us/usc/t49/s30172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30172

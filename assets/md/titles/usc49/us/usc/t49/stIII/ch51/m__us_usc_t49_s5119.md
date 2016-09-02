@@ -43,7 +43,7 @@
 
     Nothing in this section shall be construed as prohibiting a State from voluntarily participating in a program of uniform forms and procedures until such time as the Secretary issues regulations under subsection (f).
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 777][/us/stat/108/777]; [Pub. L. 104–287, § 5(9)][/us/pl/104/287/s5/9], Oct. 11, 1996, [110 Stat. 3389][/us/stat/110/3389]; [Pub. L. 109–59, title VII, § 7116][/us/pl/109/59/s7116], Aug. 10, 2005, [119 Stat. 1901][/us/stat/119/1901].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(d), July 5, 1994, [108 Stat. 777][/us/stat/108/777]; [Pub. L. 104–287][/us/pl/104/287], § 5(9), Oct. 11, 1996, [110 Stat. 3389][/us/stat/110/3389]; [Pub. L. 109–59, title VII][/us/pl/109/59/tVII], § 7116, Aug. 10, 2005, [119 Stat. 1901][/us/stat/119/1901].)
 
 <table>
 
@@ -182,11 +182,11 @@ Jan. 3, 1975, Pub. L. 93–633, 88 Stat. 2156, § 121(a)–(g); added Nov. 16,
 ----------
 ----------
 
-[/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F777
-[/us/pl/104/287/s5/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F9
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3389
-[/us/pl/109/59/s7116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7116
+[/us/pl/109/59/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtVII
 [/us/stat/119/1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1901
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59

@@ -23,7 +23,7 @@
 
     Funds made available for a fiscal year may be obligated for the total amount of a contract entered into under the authority of subsection (a).
 
-(Added [Pub. L. 106–181, title VII, § 705(a)][/us/pl/106/181/s705/a], Apr. 5, 2000, [114 Stat. 157][/us/stat/114/157].)
+(Added [Pub. L. 106–181, title VII][/us/pl/106/181/tVII], § 705(a), Apr. 5, 2000, [114 Stat. 157][/us/stat/114/157].)
 
  __Effective Date__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/106/181/s705/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs705%2Fa
+[/us/pl/106/181/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtVII
 [/us/stat/114/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F157
 [/us/pl/106/181/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106

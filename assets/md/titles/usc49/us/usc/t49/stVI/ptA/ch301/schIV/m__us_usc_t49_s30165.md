@@ -75,11 +75,11 @@
 
     In a civil action brought under this section, a subpena for a witness may be served in any judicial district.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 968][/us/stat/108/968]; [Pub. L. 103–429, § 6(23)][/us/pl/103/429/s6/23], Oct. 31, 1994, [108 Stat. 4380][/us/stat/108/4380]; [Pub. L. 106–414, § 5(a)][/us/pl/106/414/s5/a], Nov. 1, 2000, [114 Stat. 1803][/us/stat/114/1803]; [Pub. L. 109–59, title X, § 10309(c)][/us/pl/109/59/s10309/c], Aug. 10, 2005, [119 Stat. 1942][/us/stat/119/1942]; [Pub. L. 112–141, div. C, title I][/us/pl/112/141], §§ 31203(a), 31304(b), title II, § 32301(c), July 6, 2012, [126 Stat. 758][/us/stat/126/758], 764, 788; [Pub. L. 114–94, div. B, title XXIV, § 24110(a)][/us/pl/114/94/s24110/a], Dec. 4, 2015, [129 Stat. 1709][/us/stat/129/1709].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 968][/us/stat/108/968]; [Pub. L. 103–429][/us/pl/103/429], § 6(23), Oct. 31, 1994, [108 Stat. 4380][/us/stat/108/4380]; [Pub. L. 106–414][/us/pl/106/414], § 5(a), Nov. 1, 2000, [114 Stat. 1803][/us/stat/114/1803]; [Pub. L. 109–59, title X][/us/pl/109/59/tX], § 10309(c), Aug. 10, 2005, [119 Stat. 1942][/us/stat/119/1942]; [Pub. L. 112–141, div. C, title I][/us/pl/112/141/dC/tI], §§ 31203(a), 31304(b), title II, § 32301(c), July 6, 2012, [126 Stat. 758][/us/stat/126/758], 764, 788; [Pub. L. 114–94, div. B, title XXIV][/us/pl/114/94/dB/tXXIV], § 24110(a), Dec. 4, 2015, [129 Stat. 1709][/us/stat/129/1709].)
 
  __Amendment of Subsection (a)__ 
 
-[Pub. L. 114–94, div. B, title XXIV, § 24110(a)][/us/pl/114/94/s24110/a], (b), Dec. 4, 2015, [129 Stat. 1709][/us/stat/129/1709], provided that, effective on the date the Secretary of Transportation makes the certification required by [section 31203(b) of Pub. L. 112–141][/us/pl/112/141/s31203/b], set out as a note below, subsection (a) of this section is amended:
+[Pub. L. 114–94, div. B, title XXIV][/us/pl/114/94/dB/tXXIV], § 24110(a), (b), Dec. 4, 2015, [129 Stat. 1709][/us/stat/129/1709], provided that, effective on the date the Secretary of Transportation makes the certification required by [section 31203(b) of Pub. L. 112–141][/us/pl/112/141/s31203/b], set out as a note below, subsection (a) of this section is amended:
 
     (1) in paragraph (1)—
 
@@ -219,21 +219,21 @@ Sept. 9, 1966, Pub. L. 89–563, §§ 109(b), 110(d) (related to § 109), 20
 
  __Amendments__ 
 
-    2015—Subsec. (a)(1). [Pub. L. 114–94, § 24110(a)(1)][/us/pl/114/94/s24110/a/1], substituted “$21,000” for “$5,000” and “$105,000,000” for “$35,000,000”.
+    2015—Subsec. (a)(1). [Pub. L. 114–94][/us/pl/114/94], § 24110(a)(1), substituted “$21,000” for “$5,000” and “$105,000,000” for “$35,000,000”.
 
-    Subsec. (a)(3). [Pub. L. 114–94, § 24110(a)(2)][/us/pl/114/94/s24110/a/2], substituted “$21,000” for “$5,000” and “$105,000,000” for “$35,000,000”.
+    Subsec. (a)(3). [Pub. L. 114–94][/us/pl/114/94], § 24110(a)(2), substituted “$21,000” for “$5,000” and “$105,000,000” for “$35,000,000”.
 
-    2012—Subsec. (a)(1). [Pub. L. 112–141, § 32301(c)][/us/pl/112/141/s32301/c], substituted “30141 through 30147, or 31137” for “or 30141 through 30147”.
+    2012—Subsec. (a)(1). [Pub. L. 112–141][/us/pl/112/141], § 32301(c), substituted “30141 through 30147, or 31137” for “or 30141 through 30147”.
 
-    [Pub. L. 112–141, § 31203(a)(1)(A)][/us/pl/112/141/s31203/a/1/A], substituted “30123(a)” for “30123(d)” and “$35,000,000” for “$15,000,000”.
+    [Pub. L. 112–141][/us/pl/112/141], § 31203(a)(1)(A), substituted “30123(a)” for “30123(d)” and “$35,000,000” for “$15,000,000”.
 
-    Subsec. (a)(3). [Pub. L. 112–141, § 31304(b)(1)][/us/pl/112/141/s31304/b/1], substituted “Except as provided in paragraph (4), a person” for “A person”.
+    Subsec. (a)(3). [Pub. L. 112–141][/us/pl/112/141], § 31304(b)(1), substituted “Except as provided in paragraph (4), a person” for “A person”.
 
-    [Pub. L. 112–141, § 31203(a)(1)(B)][/us/pl/112/141/s31203/a/1/B], substituted “$35,000,000” for “$15,000,000”.
+    [Pub. L. 112–141][/us/pl/112/141], § 31203(a)(1)(B), substituted “$35,000,000” for “$15,000,000”.
 
-    Subsec. (a)(4). [Pub. L. 112–141, § 31304(b)(2)][/us/pl/112/141/s31304/b/2], added par. (4).
+    Subsec. (a)(4). [Pub. L. 112–141][/us/pl/112/141], § 31304(b)(2), added par. (4).
 
-    Subsec. (c). [Pub. L. 112–141, § 31203(a)(2)][/us/pl/112/141/s31203/a/2], amended subsec. (c) generally. Prior to amendment, text read as follows: “In determining the amount of a civil penalty or compromise, the appropriateness of the penalty or compromise to the size of the business of the person charged and the gravity of the violation shall be considered.”
+    Subsec. (c). [Pub. L. 112–141][/us/pl/112/141], § 31203(a)(2), amended subsec. (c) generally. Prior to amendment, text read as follows: “In determining the amount of a civil penalty or compromise, the appropriateness of the penalty or compromise to the size of the business of the person charged and the gravity of the violation shall be considered.”
 
     2005—Subsec. (a)(2), (3). [Pub. L. 109–59][/us/pl/109/59], which directed amendment of section 30165(a), without specifying the title to be amended, by adding par. (2) and redesignating former par. (2) as (3), was executed to this section, to reflect the probable intent of Congress.
 
@@ -243,7 +243,7 @@ Sept. 9, 1966, Pub. L. 89–563, §§ 109(b), 110(d) (related to § 109), 20
 
  __Effective Date of 2015 Amendment__ 
 
-[Pub. L. 114–94, div. B, title XXIV, § 24110(b)][/us/pl/114/94/s24110/b], (c), Dec. 4, 2015, [129 Stat. 1709][/us/stat/129/1709], provided that:
+[Pub. L. 114–94, div. B, title XXIV][/us/pl/114/94/dB/tXXIV], § 24110(b), (c), Dec. 4, 2015, [129 Stat. 1709][/us/stat/129/1709], provided that:
 
 >     “(b)  __Effective Date__  __.—__ 
 
@@ -255,7 +255,7 @@ Sept. 9, 1966, Pub. L. 89–563, §§ 109(b), 110(d) (related to § 109), 20
 
  __Effective Date of 2012 Amendment__ 
 
-[Pub. L. 112–141, div. C, title I, § 31203(c)][/us/pl/112/141/s31203/c], July 6, 2012, [126 Stat. 758][/us/stat/126/758], provided that: 
+[Pub. L. 112–141, div. C, title I][/us/pl/112/141/dC/tI], § 31203(c), July 6, 2012, [126 Stat. 758][/us/stat/126/758], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall take effect on the date that is the earlier of the date on which final regulations are issued under subsection (b) \[set out as a note below\] or 1 year after the date of enactment of this Act \[see section 3(a), (b) of [Pub. L. 112–141][/us/pl/112/141], set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of Title 23][/us/usc/t23/s101], Highways\].”
 
@@ -267,7 +267,7 @@ Sept. 9, 1966, Pub. L. 89–563, §§ 109(b), 110(d) (related to § 109), 20
 
  __Civil Penalty Criteria__ 
 
-[Pub. L. 112–141, div. C, title I, § 31203(b)][/us/pl/112/141/s31203/b], July 6, 2012, [126 Stat. 758][/us/stat/126/758], provided that: 
+[Pub. L. 112–141, div. C, title I][/us/pl/112/141/dC/tI], § 31203(b), July 6, 2012, [126 Stat. 758][/us/stat/126/758], provided that: 
 
 > “Not later than 1 year after the date of enactment of this Act \[see section 3(a), (b) of [Pub. L. 112–141][/us/pl/112/141], set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of Title 23][/us/usc/t23/s101], Highways\], the Secretary \[of Transportation\] shall issue a final rule, in accordance with the procedures of [section 553 of title 5][/us/usc/t5/s553], United States Code, which provides an interpretation of the penalty factors described in [section 30165(c) of title 49][/us/usc/t49/s30165/c], United States Code.”
 
@@ -281,40 +281,40 @@ Sept. 9, 1966, Pub. L. 89–563, §§ 109(b), 110(d) (related to § 109), 20
 [/us/usc/t49/s30125/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30125%2Fa
 [/us/usc/t49/s30112/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30112%2Fa%2F1
 [/us/usc/t49/s30112/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30112%2Fa%2F2
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F968
-[/us/pl/103/429/s6/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F23
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/stat/108/4380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4380
-[/us/pl/106/414/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F414%2Fs5%2Fa
+[/us/pl/106/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F414
 [/us/stat/114/1803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1803
-[/us/pl/109/59/s10309/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs10309%2Fc
+[/us/pl/109/59/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtX
 [/us/stat/119/1942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1942
-[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtI
 [/us/stat/126/758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F758
-[/us/pl/114/94/s24110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24110%2Fa
+[/us/pl/114/94/dB/tXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdB%2FtXXIV
 [/us/stat/129/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1709
-[/us/pl/114/94/s24110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24110%2Fa
+[/us/pl/114/94/dB/tXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdB%2FtXXIV
 [/us/stat/129/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1709
 [/us/pl/112/141/s31203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31203%2Fb
 [/us/usc/t49/s1397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1397
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
-[/us/pl/114/94/s24110/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24110%2Fa%2F1
-[/us/pl/114/94/s24110/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24110%2Fa%2F2
-[/us/pl/112/141/s32301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32301%2Fc
-[/us/pl/112/141/s31203/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31203%2Fa%2F1%2FA
-[/us/pl/112/141/s31304/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31304%2Fb%2F1
-[/us/pl/112/141/s31203/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31203%2Fa%2F1%2FB
-[/us/pl/112/141/s31304/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31304%2Fb%2F2
-[/us/pl/112/141/s31203/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31203%2Fa%2F2
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/106/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F414
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
-[/us/pl/114/94/s24110/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24110%2Fb
+[/us/pl/114/94/dB/tXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdB%2FtXXIV
 [/us/stat/129/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1709
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/stat/126/758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F758
 [/us/usc/t49/s30165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30165
-[/us/pl/112/141/s31203/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31203%2Fc
+[/us/pl/112/141/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtI
 [/us/stat/126/758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F758
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
@@ -324,7 +324,7 @@ Sept. 9, 1966, Pub. L. 89–563, §§ 109(b), 110(d) (related to § 109), 20
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/pl/103/429/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs9
 [/us/usc/t49/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs321
-[/us/pl/112/141/s31203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31203%2Fb
+[/us/pl/112/141/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtI
 [/us/stat/126/758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F758
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101

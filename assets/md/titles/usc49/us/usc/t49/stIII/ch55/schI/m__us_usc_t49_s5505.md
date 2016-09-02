@@ -241,7 +241,7 @@
 
     Any survey, questionnaire, or interview that the Secretary determines to be necessary to carry out reporting requirements relating to any program assessment or evaluation activity under this section, including customer satisfaction assessments, shall not be subject to chapter 35 of title 44.
 
-(Added and amended [Pub. L. 105–178, title V, § 5110(a)][/us/pl/105/178/s5110/a], (d), June 9, 1998, [112 Stat. 441][/us/stat/112/441]; [Pub. L. 105–206, title IX, § 9011(d)][/us/pl/105/206/s9011/d], July 22, 1998, [112 Stat. 863][/us/stat/112/863]; [Pub. L. 109–59, title V, § 5401(a)][/us/pl/109/59/s5401/a], Aug. 10, 2005, [119 Stat. 1814][/us/stat/119/1814]; [Pub. L. 112–141, div. E, title II, § 52009(a)][/us/pl/112/141/s52009/a], July 6, 2012, [126 Stat. 882][/us/stat/126/882]; [Pub. L. 114–94, div. A, title VI, § 6016][/us/pl/114/94/s6016], Dec. 4, 2015, [129 Stat. 1571][/us/stat/129/1571].)
+(Added and amended [Pub. L. 105–178, title V][/us/pl/105/178/tV], § 5110(a), (d), June 9, 1998, [112 Stat. 441][/us/stat/112/441]; [Pub. L. 105–206, title IX][/us/pl/105/206/tIX], § 9011(d), July 22, 1998, [112 Stat. 863][/us/stat/112/863]; [Pub. L. 109–59, title V][/us/pl/109/59/tV], § 5401(a), Aug. 10, 2005, [119 Stat. 1814][/us/stat/119/1814]; [Pub. L. 112–141, div. E, title II][/us/pl/112/141/dE/tII], § 52009(a), July 6, 2012, [126 Stat. 882][/us/stat/126/882]; [Pub. L. 114–94, div. A, title VI][/us/pl/114/94/dA/tVI], § 6016, Dec. 4, 2015, [129 Stat. 1571][/us/stat/129/1571].)
 
  __References in Text__ 
 
@@ -255,11 +255,11 @@
 
     2005—[Pub. L. 109–59][/us/pl/109/59] amended section catchline and text generally, substituting provisions relating to national university transportation centers for provisions relating to university transportation research.
 
-    1998—Subsec. (g)(2). [Pub. L. 105–178, § 5110(d)(1)][/us/pl/105/178/s5110/d/1], as added by [Pub. L. 105–206][/us/pl/105/206], substituted “[section 508 of title 23][/us/usc/t23/s508], United States Code,” for “section 5506,”.
+    1998—Subsec. (g)(2). [Pub. L. 105–178][/us/pl/105/178], § 5110(d)(1), as added by [Pub. L. 105–206][/us/pl/105/206], substituted “[section 508 of title 23][/us/usc/t23/s508], United States Code,” for “section 5506,”.
 
-    Subsec. (i). [Pub. L. 105–178, § 5110(d)(2)][/us/pl/105/178/s5110/d/2], as added by [Pub. L. 105–206][/us/pl/105/206], inserted “Subject to section 5338(e):” before par. (1) and substituted “institutions or groups of institutions” for “institutions” wherever appearing.
+    Subsec. (i). [Pub. L. 105–178][/us/pl/105/178], § 5110(d)(2), as added by [Pub. L. 105–206][/us/pl/105/206], inserted “Subject to section 5338(e):” before par. (1) and substituted “institutions or groups of institutions” for “institutions” wherever appearing.
 
-    Subsec. (j)(4)(B). [Pub. L. 105–178, § 5110(d)(3)][/us/pl/105/178/s5110/d/3], as added by [Pub. L. 105–206][/us/pl/105/206], substituted “on behalf of a consortium which may also include West Virginia University Institute of Technology, the College of West Virginia, and Bluefield State College” for “on behalf of a consortium of West Virginia colleges and universities”.
+    Subsec. (j)(4)(B). [Pub. L. 105–178][/us/pl/105/178], § 5110(d)(3), as added by [Pub. L. 105–206][/us/pl/105/206], substituted “on behalf of a consortium which may also include West Virginia University Institute of Technology, the College of West Virginia, and Bluefield State College” for “on behalf of a consortium of West Virginia colleges and universities”.
 
  __Effective Date of 2015 Amendment__ 
 
@@ -287,26 +287,26 @@
 [/us/usc/t23/s504/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs504%2Fb
 [/us/usc/t23/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs505
 [/us/usc/t20/s1067k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1067k
-[/us/pl/105/178/s5110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs5110%2Fa
+[/us/pl/105/178/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtV
 [/us/stat/112/441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F441
-[/us/pl/105/206/s9011/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs9011%2Fd
+[/us/pl/105/206/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIX
 [/us/stat/112/863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F863
-[/us/pl/109/59/s5401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs5401%2Fa
+[/us/pl/109/59/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtV
 [/us/stat/119/1814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1814
-[/us/pl/112/141/s52009/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs52009%2Fa
+[/us/pl/112/141/dE/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdE%2FtII
 [/us/stat/126/882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F882
-[/us/pl/114/94/s6016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs6016
+[/us/pl/114/94/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtVI
 [/us/stat/129/1571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1571
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
-[/us/pl/105/178/s5110/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs5110%2Fd%2F1
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
 [/us/usc/t23/s508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs508
-[/us/pl/105/178/s5110/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs5110%2Fd%2F2
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
-[/us/pl/105/178/s5110/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs5110%2Fd%2F3
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003

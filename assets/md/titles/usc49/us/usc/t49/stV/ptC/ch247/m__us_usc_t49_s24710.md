@@ -65,7 +65,7 @@
 
         (3) may withhold appropriated funds otherwise available to Amtrak for the operation of a route or routes from among the worst performing third of routes currently served by Amtrak on which Amtrak is not making reasonable progress, other than funds made available for passenger safety or security measures.
 
-(Added [Pub. L. 110–432, div. B, title II, § 210(a)][/us/pl/110/432/s210/a], Oct. 16, 2008, [122 Stat. 4918][/us/stat/122/4918].)
+(Added [Pub. L. 110–432, div. B, title II][/us/pl/110/432/dB/tII], § 210(a), Oct. 16, 2008, [122 Stat. 4918][/us/stat/122/4918].)
 
  __References in Text__ 
 
@@ -78,7 +78,7 @@
 ----------
 ----------
 
-[/us/pl/110/432/s210/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs210%2Fa
+[/us/pl/110/432/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdB%2FtII
 [/us/stat/122/4918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4918
 [/us/pl/110/432/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs207
 [/us/usc/t49/s24101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24101

@@ -43,13 +43,13 @@
 
     (c) A person is affiliated with a rail carrier under this subchapter if, because of the relationship between that person and a rail carrier, it is reasonable to believe that the affairs of another rail carrier, control of which may be acquired by that person, will be managed in the interest of the other rail carrier.
 
-(Added [Pub. L. 104–88, title I, § 102(a)][/us/pl/104/88/s102/a], Dec. 29, 1995, [109 Stat. 838][/us/stat/109/838].)
+(Added [Pub. L. 104–88, title I][/us/pl/104/88/tI], § 102(a), Dec. 29, 1995, [109 Stat. 838][/us/stat/109/838].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [section 11343 of this title][/us/usc/t49/s11343] prior to the general amendment of this subtitle by [Pub. L. 104–88, § 102(a)][/us/pl/104/88/s102/a].
+    Provisions similar to those in this section were contained in [section 11343 of this title][/us/usc/t49/s11343] prior to the general amendment of this subtitle by [Pub. L. 104–88][/us/pl/104/88], § 102(a).
 
-    A prior section 11323, [Pub. L. 95–473][/us/pl/95/473], Oct. 17, 1978, [92 Stat. 1433][/us/stat/92/1433]; [Pub. L. 99–521, § 10(a)][/us/pl/99/521/s10/a], (b)(1), Oct. 22, 1986, [100 Stat. 2997][/us/stat/100/2997], related to limitation on ownership of other carriers by household goods freight forwarders, prior to the general amendment of this subtitle by [Pub. L. 104–88, § 102(a)][/us/pl/104/88/s102/a].
+    A prior section 11323, [Pub. L. 95–473][/us/pl/95/473], Oct. 17, 1978, [92 Stat. 1433][/us/stat/92/1433]; [Pub. L. 99–521][/us/pl/99/521], § 10(a), (b)(1), Oct. 22, 1986, [100 Stat. 2997][/us/stat/100/2997], related to limitation on ownership of other carriers by household goods freight forwarders, prior to the general amendment of this subtitle by [Pub. L. 104–88][/us/pl/104/88], § 102(a).
 
 ----------
 
@@ -58,14 +58,14 @@
 ----------
 ----------
 
-[/us/pl/104/88/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs102%2Fa
+[/us/pl/104/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtI
 [/us/stat/109/838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F838
 [/us/usc/t49/s11343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs11343
-[/us/pl/104/88/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs102%2Fa
+[/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/95/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F473
 [/us/stat/92/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1433
-[/us/pl/99/521/s10/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F521%2Fs10%2Fa
+[/us/pl/99/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F521
 [/us/stat/100/2997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2997
-[/us/pl/104/88/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs102%2Fa
+[/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 
 

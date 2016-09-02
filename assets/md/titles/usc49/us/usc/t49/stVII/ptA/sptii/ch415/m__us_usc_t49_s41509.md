@@ -117,7 +117,7 @@
 
     This section and compliance with an order of the Secretary under this section are conditions to any certificate or permit held by an air carrier or foreign air carrier. An air carrier or foreign air carrier may provide foreign air transportation only as long as the carrier maintains prices for that transportation that comply with this section and orders of the Secretary under this section.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1135][/us/stat/108/1135].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1135][/us/stat/108/1135].)
 
 <table>
 
@@ -537,7 +537,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 801(b); added Mar. 22, 1972,
 
  __References in Text__ 
 
-    Section 1002(j)(8) of the Federal Aviation Act of 1958, referred to in subsec. (e)(1)(A)(i), is [section 1002(j)(8) of Pub. L. 85–726][/us/pl/85/726/s1002/j/8], which was classified to section 1482(j)(8) of former Title 49, Transportation, prior to repeal by [Pub. L. 103–272, § 7(b)][/us/pl/103/272/s7/b], July 5, 1994, [108 Stat. 1379][/us/stat/108/1379].
+    Section 1002(j)(8) of the Federal Aviation Act of 1958, referred to in subsec. (e)(1)(A)(i), is [section 1002(j)(8) of Pub. L. 85–726][/us/pl/85/726/s1002/j/8], which was classified to section 1482(j)(8) of former Title 49, Transportation, prior to repeal by [Pub. L. 103–272][/us/pl/103/272], § 7(b), July 5, 1994, [108 Stat. 1379][/us/stat/108/1379].
 
 ----------
 
@@ -552,10 +552,10 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 801(b); added Mar. 22, 1972,
 [/us/stat/72/731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F731
 [/us/pl/96/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F192
 [/us/stat/94/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F46
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1135
 [/us/pl/85/726/s1002/j/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F726%2Fs1002%2Fj%2F8
-[/us/pl/103/272/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs7%2Fb
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1379
 
 

@@ -35,7 +35,7 @@
 
     (e) When a matter is referred to the Attorney General under subsection (d)(2) of this section, or when the Attorney General has reason to believe that a person is engaged in a pattern or practice violating this section, the Attorney General may begin a civil action in a district court of the United States for appropriate relief.
 
-([Pub. L. 97–449, § 1(b)][/us/pl/97/449/s1/b], Jan. 12, 1983, [96 Stat. 2421][/us/stat/96/2421]; [Pub. L. 98–216, § 2(3)][/us/pl/98/216/s2/3], Feb. 14, 1984, [98 Stat. 5][/us/stat/98/5]; [Pub. L. 103–272, § 5(m)(7)][/us/pl/103/272/s5/m/7], July 5, 1994, [108 Stat. 1376][/us/stat/108/1376].)
+([Pub. L. 97–449][/us/pl/97/449], § 1(b), Jan. 12, 1983, [96 Stat. 2421][/us/stat/96/2421]; [Pub. L. 98–216][/us/pl/98/216], § 2(3), Feb. 14, 1984, [98 Stat. 5][/us/stat/98/5]; [Pub. L. 103–272][/us/pl/103/272], § 5(m)(7), July 5, 1994, [108 Stat. 1376][/us/stat/108/1376].)
 
 <table>
 
@@ -167,11 +167,11 @@ In subsection (b), the enumerated laws are substituted for “through financial 
 [/us/usc/t45/s721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs721
 [/us/usc/t45/s821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs821
 [/us/usc/t42/s2000d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000d
-[/us/pl/97/449/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449%2Fs1%2Fb
+[/us/pl/97/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449
 [/us/stat/96/2421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2421
-[/us/pl/98/216/s2/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F216%2Fs2%2F3
+[/us/pl/98/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F216
 [/us/stat/98/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F5
-[/us/pl/103/272/s5/m/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs5%2Fm%2F7
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1376
 [/us/pl/94/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F210
 [/us/stat/90/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F31

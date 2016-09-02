@@ -17,7 +17,7 @@
 
     Every air carrier and foreign air carrier shall keep currently on file with the Secretary of Transportation, if the Secretary requires, the established divisions of all joint prices for foreign air transportation in which the carrier participates.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1134][/us/stat/108/1134].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1134][/us/stat/108/1134].)
 
 <table>
 
@@ -90,7 +90,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 1601(a)(4)(B) (related to §
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1134
 
 

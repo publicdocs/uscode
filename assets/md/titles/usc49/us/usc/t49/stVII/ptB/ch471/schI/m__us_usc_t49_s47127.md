@@ -31,7 +31,7 @@
 
         (4) improves access to air transportation for individuals residing or working in the region by encouraging the optimal balance of use of airports in the region.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1277][/us/stat/108/1277].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1277][/us/stat/108/1277].)
 
 <table>
 
@@ -99,7 +99,7 @@ July 12, 1976, Pub. L. 94–353, § 23(a), 90 Stat. 884.  </td>
 
  __References in Text__ 
 
-    Section 13(b) of the Airport and Airway Development Act of 1970, referred to in subsec. (a), is [section 13(b) of Pub. L. 91–258][/us/pl/91/258/s13/b], which was classified to section 1713(b) of former Title 49, Transportation, prior to repeal by [Pub. L. 97–248, title V, § 523(a)][/us/pl/97/248/s523/a], Sept. 3, 1982, [96 Stat. 695][/us/stat/96/695].
+    Section 13(b) of the Airport and Airway Development Act of 1970, referred to in subsec. (a), is [section 13(b) of Pub. L. 91–258][/us/pl/91/258/s13/b], which was classified to section 1713(b) of former Title 49, Transportation, prior to repeal by [Pub. L. 97–248, title V][/us/pl/97/248/tV], § 523(a), Sept. 3, 1982, [96 Stat. 695][/us/stat/96/695].
 
 ----------
 
@@ -108,10 +108,10 @@ July 12, 1976, Pub. L. 94–353, § 23(a), 90 Stat. 884.  </td>
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1277
 [/us/pl/91/258/s13/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F258%2Fs13%2Fb
-[/us/pl/97/248/s523/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs523%2Fa
+[/us/pl/97/248/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtV
 [/us/stat/96/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F695
 
 

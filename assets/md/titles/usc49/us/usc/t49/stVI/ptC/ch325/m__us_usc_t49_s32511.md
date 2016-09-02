@@ -31,7 +31,7 @@
 
     The United States Government, a State, or a political subdivision of a State may prescribe a bumper standard for a passenger motor vehicle or passenger motor vehicle equipment obtained for its own use that imposes additional or higher standards of performance than a standard prescribed under [section 32502 of this title][/us/usc/t49/s32502].
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1047][/us/stat/108/1047].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1047][/us/stat/108/1047].)
 
 <table>
 
@@ -123,7 +123,7 @@ Oct. 20, 1972, Pub. L. 92–513, § 110, 86 Stat. 955.  </td>
 [/us/usc/t49/s32502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs32502
 [/us/usc/t49/s32502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs32502
 [/us/usc/t49/s32502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs32502
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1047
 [/us/usc/t49/s32502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs32502
 [/us/usc/t49/s32502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs32502

@@ -33,7 +33,7 @@
 
         (5) the impact of rail bankruptcies, rail restructuring, and rail mergers on the State.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 896][/us/stat/108/896]; [Pub. L. 104–88, title III, § 308(f)(3)][/us/pl/104/88/s308/f/3], Dec. 29, 1995, [109 Stat. 947][/us/stat/109/947].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 896][/us/stat/108/896]; [Pub. L. 104–88, title III][/us/pl/104/88/tIII], § 308(f)(3), Dec. 29, 1995, [109 Stat. 947][/us/stat/109/947].)
 
 <table>
 
@@ -118,9 +118,9 @@ Oct. 15, 1966, Pub. L. 89–670, 80 Stat. 931, § 5(f); added Feb. 5, 1976, Pu
 
 [/us/usc/t49/s22101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs22101%2Fa
 [/us/usc/t49/s22101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs22101%2Fb
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F896
-[/us/pl/104/88/s308/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs308%2Ff%2F3
+[/us/pl/104/88/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtIII
 [/us/stat/109/947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F947
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88

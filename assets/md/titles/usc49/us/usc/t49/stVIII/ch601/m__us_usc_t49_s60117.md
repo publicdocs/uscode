@@ -151,7 +151,7 @@
 
         Nothing in this subsection may be construed as authorizing the Secretary to require a person to obtain a permit before beginning design and construction in connection with a project described in paragraph (1)(B).
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1321][/us/stat/108/1321]; [Pub. L. 103–429, § 6(77)][/us/pl/103/429/s6/77], Oct. 31, 1994, [108 Stat. 4388][/us/stat/108/4388]; [Pub. L. 104–304][/us/pl/104/304], §§ 12, 19, Oct. 12, 1996, [110 Stat. 3802][/us/stat/110/3802], 3804; [Pub. L. 107–355, § 7][/us/pl/107/355/s7], Dec. 17, 2002, [116 Stat. 2993][/us/stat/116/2993]; [Pub. L. 109–468][/us/pl/109/468], §§ 11, 13, 17, Dec. 29, 2006, [120 Stat. 3494–3496][/us/stat/120/3494-3496]; [Pub. L. 112–90, § 13(a)][/us/pl/112/90/s13/a], Jan. 3, 2012, [125 Stat. 1913][/us/stat/125/1913].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1321][/us/stat/108/1321]; [Pub. L. 103–429][/us/pl/103/429], § 6(77), Oct. 31, 1994, [108 Stat. 4388][/us/stat/108/4388]; [Pub. L. 104–304][/us/pl/104/304], §§ 12, 19, Oct. 12, 1996, [110 Stat. 3802][/us/stat/110/3802], 3804; [Pub. L. 107–355][/us/pl/107/355], § 7, Dec. 17, 2002, [116 Stat. 2993][/us/stat/116/2993]; [Pub. L. 109–468][/us/pl/109/468], §§ 11, 13, 17, Dec. 29, 2006, [120 Stat. 3494–3496][/us/stat/120/3494-3496]; [Pub. L. 112–90][/us/pl/112/90], § 13(a), Jan. 3, 2012, [125 Stat. 1913][/us/stat/125/1913].)
 
 <table>
 
@@ -683,23 +683,23 @@ This amends 49:60117(i) by restating section 304(c) of the Pipeline Safety Act o
 
     “(3) Authorization of appropriations.—Funds deposited pursuant to this subsection are authorized to be appropriated for the purposes set forth in section 60301(d).”
 
-    2006—Subsec. (l). [Pub. L. 109–468, § 13][/us/pl/109/468/s13], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “If the Secretary decides that a pipeline facility has a potential safety-related condition, the Secretary may order the operator of the facility to take necessary corrective action, including physical inspection, testing, repair, replacement, or other appropriate action to remedy the safety-related condition.”
+    2006—Subsec. (l). [Pub. L. 109–468][/us/pl/109/468], § 13, reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “If the Secretary decides that a pipeline facility has a potential safety-related condition, the Secretary may order the operator of the facility to take necessary corrective action, including physical inspection, testing, repair, replacement, or other appropriate action to remedy the safety-related condition.”
 
     Subsecs. (m), (n). [Pub. L. 109–468][/us/pl/109/468], §§ 11, 17, added subsecs. (m) and (n).
 
     2002—Subsec. (l). [Pub. L. 107–355][/us/pl/107/355] added subsec. (l).
 
-    1996—Subsec. (a). [Pub. L. 104–304, § 19][/us/pl/104/304/s19], inserted “and promotional activities relating to prevention of damage to pipeline facilities” after “and training activities”.
+    1996—Subsec. (a). [Pub. L. 104–304][/us/pl/104/304], § 19, inserted “and promotional activities relating to prevention of damage to pipeline facilities” after “and training activities”.
 
-    Subsec. (b). [Pub. L. 104–304, § 12(1)][/us/pl/104/304/s12/1], (3), substituted “owning” for “transporting gas or hazardous liquid” and inserted at end “The Secretary may require owners and operators of gathering lines to provide the Secretary information pertinent to the Secretary’s ability to make a determination as to whether and to what extent to regulate gathering lines.”
+    Subsec. (b). [Pub. L. 104–304][/us/pl/104/304], § 12(1), (3), substituted “owning” for “transporting gas or hazardous liquid” and inserted at end “The Secretary may require owners and operators of gathering lines to provide the Secretary information pertinent to the Secretary’s ability to make a determination as to whether and to what extent to regulate gathering lines.”
 
-    Subsec. (k). [Pub. L. 104–304, § 12(2)][/us/pl/104/304/s12/2], added subsec. (k).
+    Subsec. (k). [Pub. L. 104–304][/us/pl/104/304], § 12(2), added subsec. (k).
 
     1994—Subsec. (i). [Pub. L. 103–429][/us/pl/103/429] designated existing provisions as par. (1) and added par. (2).
 
  __Regulations__ 
 
-[Pub. L. 112–90, § 20(a)][/us/pl/112/90/s20/a], Jan. 3, 2012, [125 Stat. 1916][/us/stat/125/1916], provided that:
+[Pub. L. 112–90][/us/pl/112/90], § 20(a), Jan. 3, 2012, [125 Stat. 1916][/us/stat/125/1916], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -729,7 +729,7 @@ This amends 49:60117(i) by restating section 304(c) of the Pipeline Safety Act o
 
  __Accident and Incident Notification__ 
 
-[Pub. L. 112–90, § 9][/us/pl/112/90/s9], Jan. 3, 2012, [125 Stat. 1912][/us/stat/125/1912], provided that:
+[Pub. L. 112–90][/us/pl/112/90], § 9, Jan. 3, 2012, [125 Stat. 1912][/us/stat/125/1912], provided that:
 
 >     “(a)  __Revision of Regulations__  __.—__ 
 
@@ -753,13 +753,13 @@ This amends 49:60117(i) by restating section 304(c) of the Pipeline Safety Act o
 
  __Guidance__ 
 
-[Pub. L. 112–90, § 13(b)][/us/pl/112/90/s13/b], Jan. 3, 2012, [125 Stat. 1914][/us/stat/125/1914], provided that: 
+[Pub. L. 112–90][/us/pl/112/90], § 13(b), Jan. 3, 2012, [125 Stat. 1914][/us/stat/125/1914], provided that: 
 
 > “Not later than 1 year after the date of enactment of this Act \[Jan. 3, 2012\], the Secretary of Transportation shall issue guidance to clarify the meaning of the term ‘new or novel technologies or design’ as used in [section 60117(n)(1)(B)(ii) of title 49][/us/usc/t49/s60117/n/1/B/ii], United States Code, as amended by subsection (a) of this section.”
 
  __Pipeline Safety Training for State and Local Government Personnel__ 
 
-[Pub. L. 112–90, § 25][/us/pl/112/90/s25], Jan. 3, 2012, [125 Stat. 1919][/us/stat/125/1919], provided that:
+[Pub. L. 112–90][/us/pl/112/90], § 25, Jan. 3, 2012, [125 Stat. 1919][/us/stat/125/1919], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -779,19 +779,19 @@ This amends 49:60117(i) by restating section 304(c) of the Pipeline Safety Act o
 
  __Tribal Consultation for Pipeline Projects__ 
 
-[Pub. L. 112–90, § 30][/us/pl/112/90/s30], Jan. 3, 2012, [125 Stat. 1921][/us/stat/125/1921], provided that: 
+[Pub. L. 112–90][/us/pl/112/90], § 30, Jan. 3, 2012, [125 Stat. 1921][/us/stat/125/1921], provided that: 
 
 > “Not later than 1 year after the date of enactment of this Act \[Jan. 3, 2012\], the Secretary of Transportation shall develop and implement a protocol for consulting with Indian tribes to provide technical assistance for the regulation of pipelines that are under the jurisdiction of Indian tribes.”
 
  __Incident Reporting__ 
 
-[Pub. L. 109–468, § 15][/us/pl/109/468/s15], Dec. 29, 2006, [120 Stat. 3496][/us/stat/120/3496], provided that: 
+[Pub. L. 109–468][/us/pl/109/468], § 15, Dec. 29, 2006, [120 Stat. 3496][/us/stat/120/3496], provided that: 
 
 > “Not later than December 31, 2007, the Secretary of Transportation shall review the incident reporting requirements for operators of natural gas pipelines and modify the reporting criteria as appropriate to ensure that the incident data gathered accurately reflects incident trends over time, taking into consideration the recommendations from the Comptroller General in GAO report 06–946.”
 
  __Accident Reporting Form__ 
 
-[Pub. L. 109–468, § 20][/us/pl/109/468/s20], Dec. 29, 2006, [120 Stat. 3498][/us/stat/120/3498], provided that: 
+[Pub. L. 109–468][/us/pl/109/468], § 20, Dec. 29, 2006, [120 Stat. 3498][/us/stat/120/3498], provided that: 
 
 > “Not later than December 31, 2007, the Secretary of Transportation shall amend accident reporting forms to require operators of gas and hazardous liquid pipelines to provide data related to controller fatigue.”
 
@@ -803,49 +803,49 @@ This amends 49:60117(i) by restating section 304(c) of the Pipeline Safety Act o
 ----------
 
 [/us/usc/t18/s1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1905
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1321
-[/us/pl/103/429/s6/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F77
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/stat/108/4388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4388
 [/us/pl/104/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304
 [/us/stat/110/3802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3802
-[/us/pl/107/355/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355%2Fs7
+[/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355
 [/us/stat/116/2993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2993
 [/us/pl/109/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F468
 [/us/stat/120/3494-3496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3494-3496
-[/us/pl/112/90/s13/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90%2Fs13%2Fa
+[/us/pl/112/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90
 [/us/stat/125/1913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1913
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/pl/102/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F508
 [/us/stat/106/3308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3308
 [/us/pl/112/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90
-[/us/pl/109/468/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F468%2Fs13
+[/us/pl/109/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F468
 [/us/pl/109/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F468
 [/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355
-[/us/pl/104/304/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304%2Fs19
-[/us/pl/104/304/s12/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304%2Fs12%2F1
-[/us/pl/104/304/s12/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304%2Fs12%2F2
+[/us/pl/104/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304
+[/us/pl/104/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304
+[/us/pl/104/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
-[/us/pl/112/90/s20/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90%2Fs20%2Fa
+[/us/pl/112/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90
 [/us/stat/125/1916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1916
-[/us/pl/112/90/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90%2Fs9
+[/us/pl/112/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90
 [/us/stat/125/1912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1912
 [/us/pl/112/90/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90%2Fs9
 [/us/pl/112/90/s1/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90%2Fs1%2Fc%2F1
 [/us/usc/t49/s60101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs60101
-[/us/pl/112/90/s13/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90%2Fs13%2Fb
+[/us/pl/112/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90
 [/us/stat/125/1914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1914
 [/us/usc/t49/s60117/n/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs60117%2Fn%2F1%2FB%2Fii
-[/us/pl/112/90/s25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90%2Fs25
+[/us/pl/112/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90
 [/us/stat/125/1919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1919
 [/us/pl/112/90/s25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90%2Fs25
 [/us/pl/112/90/s1/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90%2Fs1%2Fc%2F1
 [/us/usc/t49/s60101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs60101
-[/us/pl/112/90/s30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90%2Fs30
+[/us/pl/112/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90
 [/us/stat/125/1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1921
-[/us/pl/109/468/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F468%2Fs15
+[/us/pl/109/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F468
 [/us/stat/120/3496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3496
-[/us/pl/109/468/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F468%2Fs20
+[/us/pl/109/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F468
 [/us/stat/120/3498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3498
 
 

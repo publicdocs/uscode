@@ -21,7 +21,7 @@
 
     (2) on the Secretary’s own initiative for good cause shown.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 884][/us/stat/108/884].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 884][/us/stat/108/884].)
 
 <table>
 
@@ -94,7 +94,7 @@ Oct. 15, 1966, Pub. L. 89–670, § 6(e)(6)(A), 80 Stat. 939.  </td>
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F884
 
 

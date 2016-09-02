@@ -129,7 +129,7 @@
 
             (C) as restricting the right of any State or political subdivision of a State to require, in a nondiscriminatory manner, that any individual operating a vehicle providing prearranged ground transportation service originating in the State or political subdivision have submitted to pre-licensing drug testing or a criminal background investigation of the records of the State in which the operator is domiciled, by the State or political subdivision by which the operator is licensed to provide such service, or by the motor carrier providing such service, as a condition of providing such service.
 
-(Added [Pub. L. 104–88, title I, § 103][/us/pl/104/88/s103], Dec. 29, 1995, [109 Stat. 899][/us/stat/109/899]; amended [Pub. L. 105–178, title IV, § 4016][/us/pl/105/178/s4016], June 9, 1998, [112 Stat. 412][/us/stat/112/412]; [Pub. L. 105–277, div. C, title I, § 106][/us/pl/105/277/s106], Oct. 21, 1998, [112 Stat. 2681–586][/us/stat/112/2681-586]; [Pub. L. 107–298, § 2][/us/pl/107/298/s2], Nov. 26, 2002, [116 Stat. 2342][/us/stat/116/2342]; [Pub. L. 109–59, title IV][/us/pl/109/59], §§ 4105(a), 4206(a), Aug. 10, 2005, [119 Stat. 1717][/us/stat/119/1717], 1754; [Pub. L. 114–94, div. A, title V, § 5514][/us/pl/114/94/s5514], Dec. 4, 2015, [129 Stat. 1557][/us/stat/129/1557].)
+(Added [Pub. L. 104–88, title I][/us/pl/104/88/tI], § 103, Dec. 29, 1995, [109 Stat. 899][/us/stat/109/899]; amended [Pub. L. 105–178, title IV][/us/pl/105/178/tIV], § 4016, June 9, 1998, [112 Stat. 412][/us/stat/112/412]; [Pub. L. 105–277, div. C, title I][/us/pl/105/277/dC/tI], § 106, Oct. 21, 1998, [112 Stat. 2681–586][/us/stat/112/2681-586]; [Pub. L. 107–298][/us/pl/107/298], § 2, Nov. 26, 2002, [116 Stat. 2342][/us/stat/116/2342]; [Pub. L. 109–59, title IV][/us/pl/109/59/tIV], §§ 4105(a), 4206(a), Aug. 10, 2005, [119 Stat. 1717][/us/stat/119/1717], 1754; [Pub. L. 114–94, div. A, title V][/us/pl/114/94/dA/tV], § 5514, Dec. 4, 2015, [129 Stat. 1557][/us/stat/129/1557].)
 
  __References in Text__ 
 
@@ -137,15 +137,15 @@
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [section 11501 of this title][/us/usc/t49/s11501] prior to the general amendment of this subtitle by [Pub. L. 104–88, § 102(a)][/us/pl/104/88/s102/a].
+    Provisions similar to those in this section were contained in [section 11501 of this title][/us/usc/t49/s11501] prior to the general amendment of this subtitle by [Pub. L. 104–88][/us/pl/104/88], § 102(a).
 
  __Amendments__ 
 
     2015—Subsec. (c)(2)(C). [Pub. L. 114–94][/us/pl/114/94] substituted “the regulation of tow truck operations” for “the price of for-hire motor vehicle transportation by a tow truck, if such transportation is”.
 
-    2005—Subsec. (c)(2)(B). [Pub. L. 109–59, § 4206(a)][/us/pl/109/59/s4206/a], inserted “intrastate” before “transportation”.
+    2005—Subsec. (c)(2)(B). [Pub. L. 109–59][/us/pl/109/59], § 4206(a), inserted “intrastate” before “transportation”.
 
-    Subsec. (c)(5). [Pub. L. 109–59, § 4105(a)][/us/pl/109/59/s4105/a], added par. (5).
+    Subsec. (c)(5). [Pub. L. 109–59][/us/pl/109/59], § 4105(a), added par. (5).
 
     2002—Subsec. (d). [Pub. L. 107–298][/us/pl/107/298] added subsec. (d).
 
@@ -168,26 +168,26 @@
 ----------
 ----------
 
-[/us/pl/104/88/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs103
+[/us/pl/104/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtI
 [/us/stat/109/899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F899
-[/us/pl/105/178/s4016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4016
+[/us/pl/105/178/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtIV
 [/us/stat/112/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F412
-[/us/pl/105/277/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs106
+[/us/pl/105/277/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtI
 [/us/stat/112/2681-586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-586
-[/us/pl/107/298/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F298%2Fs2
+[/us/pl/107/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F298
 [/us/stat/116/2342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2342
-[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIV
 [/us/stat/119/1717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1717
-[/us/pl/114/94/s5514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5514
+[/us/pl/114/94/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtV
 [/us/stat/129/1557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1557
 [/us/pl/99/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F521
 [/us/stat/100/2993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2993
 [/us/usc/t49/s10101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs10101
 [/us/usc/t49/s11501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs11501
-[/us/pl/104/88/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs102%2Fa
+[/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
-[/us/pl/109/59/s4206/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4206%2Fa
-[/us/pl/109/59/s4105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4105%2Fa
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/107/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F298
 [/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277

@@ -31,11 +31,11 @@
 
         (2) to define “make inoperative”.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 956][/us/stat/108/956]; [Pub. L. 112–141, div. C, title I, § 31202(a)(1)][/us/pl/112/141/s31202/a/1], July 6, 2012, [126 Stat. 757][/us/stat/126/757]; [Pub. L. 114–94, div. B, title XXIV, § 24109(d)][/us/pl/114/94/s24109/d], Dec. 4, 2015, [129 Stat. 1707][/us/stat/129/1707].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 956][/us/stat/108/956]; [Pub. L. 112–141, div. C, title I][/us/pl/112/141/dC/tI], § 31202(a)(1), July 6, 2012, [126 Stat. 757][/us/stat/126/757]; [Pub. L. 114–94, div. B, title XXIV][/us/pl/114/94/dB/tXXIV], § 24109(d), Dec. 4, 2015, [129 Stat. 1707][/us/stat/129/1707].)
 
  __Amendment of Subsection (b)__ 
 
-    [Pub. L. 114–94, div. B, title XXIV, § 24109(d)][/us/pl/114/94/s24109/d], (k), Dec. 4, 2015, [129 Stat. 1707][/us/stat/129/1707], 1709, provided that, effective on the date that is 180 days after Dec. 4, 2015, subsection (b) of this section is amended by inserting “rental company,” after “dealer,” each place such term appears. See 2015 Amendment note below.
+    [Pub. L. 114–94, div. B, title XXIV][/us/pl/114/94/dB/tXXIV], § 24109(d), (k), Dec. 4, 2015, [129 Stat. 1707][/us/stat/129/1707], 1709, provided that, effective on the date that is 180 days after Dec. 4, 2015, subsection (b) of this section is amended by inserting “rental company,” after “dealer,” each place such term appears. See 2015 Amendment note below.
 
 <table>
 
@@ -157,13 +157,13 @@ Sept. 9, 1966, Pub. L. 89–563, 80 Stat. 718, § 108(a)(2)(A)– (C); added O
 ----------
 
 [/us/usc/t49/s30101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30101
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F956
-[/us/pl/112/141/s31202/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31202%2Fa%2F1
+[/us/pl/112/141/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtI
 [/us/stat/126/757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F757
-[/us/pl/114/94/s24109/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24109%2Fd
+[/us/pl/114/94/dB/tXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdB%2FtXXIV
 [/us/stat/129/1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1707
-[/us/pl/114/94/s24109/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24109%2Fd
+[/us/pl/114/94/dB/tXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdB%2FtXXIV
 [/us/stat/129/1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1707
 [/us/usc/t49/s30101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30101
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94

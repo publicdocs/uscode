@@ -209,7 +209,7 @@
 
         The Under Secretary shall work with air carriers and airports to ensure that computer-based training facilities intended for use by security screeners at an airport regularly serving an air carrier holding a certificate issued by the Secretary of Transportation are conveniently located for that airport and easily accessible.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1217][/us/stat/108/1217]; [Pub. L. 106–528, § 3][/us/pl/106/528/s3], Nov. 22, 2000, [114 Stat. 2519][/us/stat/114/2519]; [Pub. L. 107–71, title I][/us/pl/107/71], §§ 101(f)(7), (9), 111(a), Nov. 19, 2001, [115 Stat. 603][/us/stat/115/603], 616; [Pub. L. 107–296, title XVI, § 1603][/us/pl/107/296/s1603], Nov. 25, 2002, [116 Stat. 2313][/us/stat/116/2313].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1217][/us/stat/108/1217]; [Pub. L. 106–528][/us/pl/106/528], § 3, Nov. 22, 2000, [114 Stat. 2519][/us/stat/114/2519]; [Pub. L. 107–71, title I][/us/pl/107/71/tI], §§ 101(f)(7), (9), 111(a), Nov. 19, 2001, [115 Stat. 603][/us/stat/115/603], 616; [Pub. L. 107–296, title XVI][/us/pl/107/296/tXVI], § 1603, Nov. 25, 2002, [116 Stat. 2313][/us/stat/116/2313].)
 
 <table>
 
@@ -319,27 +319,27 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 316(c); added Aug. 5, 1974, 
 
     2002—Subsec. (e)(2)(A)(ii). [Pub. L. 107–296][/us/pl/107/296] substituted “citizen of the United States or a national of the United States, as defined in section 1101(a)(22) of the Immigration and Nationality Act ([8 U.S.C. 1101(a)(22)][/us/usc/t8/s1101/a/22])” for “citizen of the United States”.
 
-    2001—Subsec. (a). [Pub. L. 107–71, § 101(f)(7)][/us/pl/107/71/s101/f/7], (9), substituted “Under Secretary of Transportation for Security” for “Administrator of the Federal Aviation Administration” in introductory provisions.
+    2001—Subsec. (a). [Pub. L. 107–71][/us/pl/107/71], § 101(f)(7), (9), substituted “Under Secretary of Transportation for Security” for “Administrator of the Federal Aviation Administration” in introductory provisions.
 
-    Subsec. (b). [Pub. L. 107–71, § 101(f)(7)][/us/pl/107/71/s101/f/7], substituted “Under Secretary” for “Administrator” in two places.
+    Subsec. (b). [Pub. L. 107–71][/us/pl/107/71], § 101(f)(7), substituted “Under Secretary” for “Administrator” in two places.
 
-    Subsec. (c). [Pub. L. 107–71, § 101(f)(7)][/us/pl/107/71/s101/f/7], substituted “Under Secretary” for “Administrator” in introductory provisions of par. (1) and in par. (2).
+    Subsec. (c). [Pub. L. 107–71][/us/pl/107/71], § 101(f)(7), substituted “Under Secretary” for “Administrator” in introductory provisions of par. (1) and in par. (2).
 
-    Subsec. (d)(1). [Pub. L. 107–71, § 101(f)(7)][/us/pl/107/71/s101/f/7], substituted “Under Secretary” for “Administrator” in introductory provisions.
+    Subsec. (d)(1). [Pub. L. 107–71][/us/pl/107/71], § 101(f)(7), substituted “Under Secretary” for “Administrator” in introductory provisions.
 
-    Subsec. (e). [Pub. L. 107–71, § 111(a)(2)][/us/pl/107/71/s111/a/2], added subsec. (e) and struck out former subsec. (e) which established training standards for screeners.
+    Subsec. (e). [Pub. L. 107–71][/us/pl/107/71], § 111(a)(2), added subsec. (e) and struck out former subsec. (e) which established training standards for screeners.
 
-    Subsec. (f). [Pub. L. 107–71, § 111(a)(2)][/us/pl/107/71/s111/a/2], added subsec. (f). Former subsec. (f) redesignated (i).
+    Subsec. (f). [Pub. L. 107–71][/us/pl/107/71], § 111(a)(2), added subsec. (f). Former subsec. (f) redesignated (i).
 
-    [Pub. L. 107–71, § 101(f)(7)][/us/pl/107/71/s101/f/7], substituted “Under Secretary” for “Administrator”.
+    [Pub. L. 107–71][/us/pl/107/71], § 101(f)(7), substituted “Under Secretary” for “Administrator”.
 
-    Subsecs. (g), (h). [Pub. L. 107–71, § 111(a)(2)][/us/pl/107/71/s111/a/2], added subsecs. (g) and (h).
+    Subsecs. (g), (h). [Pub. L. 107–71][/us/pl/107/71], § 111(a)(2), added subsecs. (g) and (h).
 
-    Subsec. (i). [Pub. L. 107–71, § 111(a)(2)][/us/pl/107/71/s111/a/2], added subsec. (i) relating to limitation on right to strike.
+    Subsec. (i). [Pub. L. 107–71][/us/pl/107/71], § 111(a)(2), added subsec. (i) relating to limitation on right to strike.
 
-    [Pub. L. 107–71, § 111(a)(1)][/us/pl/107/71/s111/a/1], redesignated subsec. (f) as (i) relating to accessibility of computer-based training facilities.
+    [Pub. L. 107–71][/us/pl/107/71], § 111(a)(1), redesignated subsec. (f) as (i) relating to accessibility of computer-based training facilities.
 
-    Subsec. (j). [Pub. L. 107–71, § 111(a)(2)][/us/pl/107/71/s111/a/2], added subsec. (j).
+    Subsec. (j). [Pub. L. 107–71][/us/pl/107/71], § 111(a)(2), added subsec. (j).
 
     2000—Subsecs. (e), (f). [Pub. L. 106–528][/us/pl/106/528] added subsecs. (e) and (f).
 
@@ -357,13 +357,13 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 316(c); added Aug. 5, 1974, 
 
  __Transition__ 
 
-[Pub. L. 107–71, title I, § 111(c)][/us/pl/107/71/s111/c], Nov. 19, 2001, [115 Stat. 620][/us/stat/115/620], provided that: 
+[Pub. L. 107–71, title I][/us/pl/107/71/tI], § 111(c), Nov. 19, 2001, [115 Stat. 620][/us/stat/115/620], provided that: 
 
 > “The Under Secretary of Transportation for Security shall complete the full implementation of section 44935 (e), (f), (g), and (h) of title 49, United States Code, as amended by subsection (a), as soon as is practicable. The Under Secretary may make or continue such arrangements for the training of security screeners under that section as the Under Secretary determines necessary pending full implementation of that section as so amended.”
 
  __Improvement of Screener Job Performance__ 
 
-[Pub. L. 108–458, title IV, § 4015][/us/pl/108/458/s4015], Dec. 17, 2004, [118 Stat. 3720][/us/stat/118/3720], provided that:
+[Pub. L. 108–458, title IV][/us/pl/108/458/tIV], § 4015, Dec. 17, 2004, [118 Stat. 3720][/us/stat/118/3720], provided that:
 
 >     “(a)  __Required Action__  __.—__ 
 
@@ -377,7 +377,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 316(c); added Aug. 5, 1974, 
 
  __Screener Personnel__ 
 
-[Pub. L. 107–71, title I, § 111(d)][/us/pl/107/71/s111/d], Nov. 19, 2001, [115 Stat. 620][/us/stat/115/620], as amended by [Pub. L. 112–171, § 1(a)][/us/pl/112/171/s1/a], Aug. 16, 2012, [126 Stat. 1306][/us/stat/126/1306], provided that:
+[Pub. L. 107–71, title I][/us/pl/107/71/tI], § 111(d), Nov. 19, 2001, [115 Stat. 620][/us/stat/115/620], as amended by [Pub. L. 112–171][/us/pl/112/171], § 1(a), Aug. 16, 2012, [126 Stat. 1306][/us/stat/126/1306], provided that:
 
 >     “(1)  __General authority__  __.—__ 
 
@@ -387,7 +387,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 316(c); added Aug. 5, 1974, 
 
 >     In carrying out the functions authorized under paragraph (1), the Under Secretary shall be subject to the provisions set forth in chapter 43 of title 38, United States Code.”
 
-\[[Pub. L. 112–171, § 1(b)][/us/pl/112/171/s1/b], Aug. 16, 2012, [126 Stat. 1306][/us/stat/126/1306], provided that: 
+\[[Pub. L. 112–171][/us/pl/112/171], § 1(b), Aug. 16, 2012, [126 Stat. 1306][/us/stat/126/1306], provided that: 
 
 > “The amendments made by subsection (a) \[amending [section 111(d) of Pub. L. 107–71][/us/pl/107/71/s111/d], set out above\] shall take effect on the date that is 270 days after the date of the enactment of this Act \[Aug. 16, 2012\].”
 
@@ -395,13 +395,13 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 316(c); added Aug. 5, 1974, 
 
  __Certification of Screening Companies__ 
 
-[Pub. L. 104–264, title III, § 302][/us/pl/104/264/s302], Oct. 9, 1996, [110 Stat. 3250][/us/stat/110/3250], provided that: 
+[Pub. L. 104–264, title III][/us/pl/104/264/tIII], § 302, Oct. 9, 1996, [110 Stat. 3250][/us/stat/110/3250], provided that: 
 
 > “The Administrator of the Federal Aviation Administration is directed to certify companies providing security screening and to improve the training and testing of security screeners through development of uniform performance standards for providing security screening services.”
 
  __Studies of Minimum Standards for Pilot Qualifications and of Pay for Training__ 
 
-[Pub. L. 104–264, title V, § 503][/us/pl/104/264/s503], Oct. 9, 1996, [110 Stat. 3263][/us/stat/110/3263], provided that:
+[Pub. L. 104–264, title V][/us/pl/104/264/tV], § 503, Oct. 9, 1996, [110 Stat. 3263][/us/stat/110/3263], provided that:
 
 >     “(a)  __Study__  __.—__ 
 
@@ -423,7 +423,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 316(c); added Aug. 5, 1974, 
 
  __Study of Minimum Flight Time__ 
 
-[Pub. L. 104–264, title V, § 504][/us/pl/104/264/s504], Oct. 9, 1996, [110 Stat. 3263][/us/stat/110/3263], provided that:
+[Pub. L. 104–264, title V][/us/pl/104/264/tV], § 504, Oct. 9, 1996, [110 Stat. 3263][/us/stat/110/3263], provided that:
 
 >     “(a)  __Study__  __.—__ 
 
@@ -442,28 +442,28 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 316(c); added Aug. 5, 1974, 
 
 [/us/usc/t49/s44903/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44903%2Fc
 [/us/usc/t8/s1101/a/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F22
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1217
-[/us/pl/106/528/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F528%2Fs3
+[/us/pl/106/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F528
 [/us/stat/114/2519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2519
-[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2FtI
 [/us/stat/115/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F603
-[/us/pl/107/296/s1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1603
+[/us/pl/107/296/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVI
 [/us/stat/116/2313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2313
 [/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/usc/t8/s1101/a/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F22
-[/us/pl/107/71/s101/f/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs101%2Ff%2F7
-[/us/pl/107/71/s101/f/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs101%2Ff%2F7
-[/us/pl/107/71/s101/f/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs101%2Ff%2F7
-[/us/pl/107/71/s101/f/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs101%2Ff%2F7
-[/us/pl/107/71/s111/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs111%2Fa%2F2
-[/us/pl/107/71/s111/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs111%2Fa%2F2
-[/us/pl/107/71/s101/f/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs101%2Ff%2F7
-[/us/pl/107/71/s111/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs111%2Fa%2F2
-[/us/pl/107/71/s111/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs111%2Fa%2F2
-[/us/pl/107/71/s111/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs111%2Fa%2F1
-[/us/pl/107/71/s111/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs111%2Fa%2F2
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
 [/us/pl/106/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F528
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs4
@@ -472,26 +472,26 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 316(c); added Aug. 5, 1974, 
 [/us/pl/106/528/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F528%2Fs9
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/107/71/s111/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs111%2Fc
+[/us/pl/107/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2FtI
 [/us/stat/115/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F620
-[/us/pl/108/458/s4015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs4015
+[/us/pl/108/458/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtIV
 [/us/stat/118/3720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3720
 [/us/pl/108/458/s4015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs4015
 [/us/pl/108/458/s4081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs4081
 [/us/usc/t49/s44901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44901
-[/us/pl/107/71/s111/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs111%2Fd
+[/us/pl/107/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2FtI
 [/us/stat/115/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F620
-[/us/pl/112/171/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F171%2Fs1%2Fa
+[/us/pl/112/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F171
 [/us/stat/126/1306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1306
 [/us/usc/t49/s44901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44901
-[/us/pl/112/171/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F171%2Fs1%2Fb
+[/us/pl/112/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F171
 [/us/stat/126/1306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1306
 [/us/pl/107/71/s111/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs111%2Fd
-[/us/pl/104/264/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs302
+[/us/pl/104/264/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2FtIII
 [/us/stat/110/3250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3250
-[/us/pl/104/264/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs503
+[/us/pl/104/264/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2FtV
 [/us/stat/110/3263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3263
-[/us/pl/104/264/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs504
+[/us/pl/104/264/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2FtV
 [/us/stat/110/3263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3263
 
 

@@ -57,7 +57,7 @@
 
         The term “person” means any individual, corporation, company, limited liability company, trust, association, firm, partnership, society, joint stock company, or any other entity.
 
-(Added [Pub. L. 109–59, title X, § 10208(a)][/us/pl/109/59/s10208/a], Aug. 10, 2005, [119 Stat. 1935][/us/stat/119/1935].)
+(Added [Pub. L. 109–59, title X][/us/pl/109/59/tX], § 10208(a), Aug. 10, 2005, [119 Stat. 1935][/us/stat/119/1935].)
 
  __References in Text__ 
 
@@ -70,7 +70,7 @@
 ----------
 ----------
 
-[/us/pl/109/59/s10208/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs10208%2Fa
+[/us/pl/109/59/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtX
 [/us/stat/119/1935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1935
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 

@@ -51,11 +51,11 @@
 
     Nothing in this section shall be construed as affecting the authority of a State to issue a Department of Transportation number under State law to a person operating in intrastate commerce.
 
-(Added [Pub. L. 112–141, div. C, title II, § 32105(a)][/us/pl/112/141/s32105/a], July 6, 2012, [126 Stat. 780][/us/stat/126/780].)
+(Added [Pub. L. 112–141, div. C, title II][/us/pl/112/141/dC/tII], § 32105(a), July 6, 2012, [126 Stat. 780][/us/stat/126/780].)
 
  __Prior Provisions__ 
 
-    A prior section 31134, [Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1001][/us/stat/108/1001]; [Pub. L. 104–287, § 5(9)][/us/pl/104/287/s5/9], Oct. 11, 1996, [110 Stat. 3389][/us/stat/110/3389], related to Commercial Motor Vehicle Safety Regulatory Review Panel, prior to repeal by [Pub. L. 105–178, title IV, § 4008(c)][/us/pl/105/178/s4008/c], June 9, 1998, [112 Stat. 404][/us/stat/112/404].
+    A prior section 31134, [Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1001][/us/stat/108/1001]; [Pub. L. 104–287][/us/pl/104/287], § 5(9), Oct. 11, 1996, [110 Stat. 3389][/us/stat/110/3389], related to Commercial Motor Vehicle Safety Regulatory Review Panel, prior to repeal by [Pub. L. 105–178, title IV][/us/pl/105/178/tIV], § 4008(c), June 9, 1998, [112 Stat. 404][/us/stat/112/404].
 
  __Effective Date__ 
 
@@ -70,13 +70,13 @@
 
 [/us/usc/t49/s13902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs13902
 [/us/usc/t49/s31144/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31144%2Fg
-[/us/pl/112/141/s32105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32105%2Fa
+[/us/pl/112/141/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtII
 [/us/stat/126/780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F780
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1001
-[/us/pl/104/287/s5/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F9
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3389
-[/us/pl/105/178/s4008/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4008%2Fc
+[/us/pl/105/178/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtIV
 [/us/stat/112/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F404
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101

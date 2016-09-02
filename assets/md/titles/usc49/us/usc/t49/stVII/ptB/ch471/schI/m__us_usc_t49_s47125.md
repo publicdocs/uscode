@@ -29,7 +29,7 @@
 
         (3) a national forest or Indian reservation.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1276][/us/stat/108/1276]; [Pub. L. 106–181, title I, § 125(b)][/us/pl/106/181/s125/b], Apr. 5, 2000, [114 Stat. 75][/us/stat/114/75].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1276][/us/stat/108/1276]; [Pub. L. 106–181, title I][/us/pl/106/181/tI], § 125(b), Apr. 5, 2000, [114 Stat. 75][/us/stat/114/75].)
 
 <table>
 
@@ -107,7 +107,7 @@ Sept. 3, 1982, Pub. L. 97–248, § 516, 96 Stat. 692.  </td>
 
  __Release From Restrictions__ 
 
-[Pub. L. 112–95, title VIII, § 817][/us/pl/112/95/s817], Feb. 14, 2012, [126 Stat. 127][/us/stat/126/127], provided that:
+[Pub. L. 112–95, title VIII][/us/pl/112/95/tVIII], § 817, Feb. 14, 2012, [126 Stat. 127][/us/stat/126/127], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -130,9 +130,9 @@ Sept. 3, 1982, Pub. L. 97–248, § 516, 96 Stat. 692.  </td>
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1276
-[/us/pl/106/181/s125/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs125%2Fb
+[/us/pl/106/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtI
 [/us/stat/114/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F75
 [/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
@@ -141,7 +141,7 @@ Sept. 3, 1982, Pub. L. 97–248, § 516, 96 Stat. 692.  </td>
 [/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/pl/106/181/s125/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs125%2Fe
 [/us/usc/t49/s47107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs47107
-[/us/pl/112/95/s817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs817
+[/us/pl/112/95/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtVIII
 [/us/stat/126/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F127
 [/us/stat/60/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F179
 [/us/stat/84/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F232

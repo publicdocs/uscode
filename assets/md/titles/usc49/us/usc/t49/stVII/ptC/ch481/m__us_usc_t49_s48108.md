@@ -29,7 +29,7 @@
 
     In a fiscal year beginning after September 30, 1998, the Secretary of Transportation may obligate or expend an amount appropriated out of the Fund under [section 48104 of this title][/us/usc/t49/s48104] only if a law expressly amends section 48104.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1297][/us/stat/108/1297]; [Pub. L. 103–305, title I, § 102(c)][/us/pl/103/305/s102/c], Aug. 23, 1994, [108 Stat. 1571][/us/stat/108/1571]; [Pub. L. 104–264, title I, § 103(c)][/us/pl/104/264/s103/c], Oct. 9, 1996, [110 Stat. 3216][/us/stat/110/3216].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1297][/us/stat/108/1297]; [Pub. L. 103–305, title I][/us/pl/103/305/tI], § 102(c), Aug. 23, 1994, [108 Stat. 1571][/us/stat/108/1571]; [Pub. L. 104–264, title I][/us/pl/104/264/tI], § 103(c), Oct. 9, 1996, [110 Stat. 3216][/us/stat/110/3216].)
 
 <table>
 
@@ -169,11 +169,11 @@ Sept. 3, 1982, Pub. L. 97–248, § 506(e)(5), 96 Stat. 679; Dec. 30, 1987, Pu
 [/us/usc/t26/s9502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9502
 [/us/usc/t49/s48104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs48104
 [/us/usc/t49/s48104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs48104
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1297
-[/us/pl/103/305/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2Fs102%2Fc
+[/us/pl/103/305/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2FtI
 [/us/stat/108/1571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1571
-[/us/pl/104/264/s103/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs103%2Fc
+[/us/pl/104/264/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2FtI
 [/us/stat/110/3216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3216
 [/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
 [/us/pl/103/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305

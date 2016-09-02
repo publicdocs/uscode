@@ -63,7 +63,7 @@
 
     Not later than April 24, 1994, the Secretary shall develop standards for the performance of excess flow valves used to protect lines in a natural gas distribution system. The Secretary may adopt industry accepted performance standards in order to comply with the requirement under the preceding sentence. The standards shall be incorporated into regulations the Secretary prescribes under this section. All excess flow valves shall be installed according to the standards.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1316][/us/stat/108/1316]; [Pub. L. 104–304][/us/pl/104/304], §§ 8, 20(j), Oct. 12, 1996, [110 Stat. 3800][/us/stat/110/3800], 3805; [Pub. L. 107–355, § 21(1)][/us/pl/107/355/s21/1], Dec. 17, 2002, [116 Stat. 3010][/us/stat/116/3010].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1316][/us/stat/108/1316]; [Pub. L. 104–304][/us/pl/104/304], §§ 8, 20(j), Oct. 12, 1996, [110 Stat. 3800][/us/stat/110/3800], 3805; [Pub. L. 107–355][/us/pl/107/355], § 21(1), Dec. 17, 2002, [116 Stat. 3010][/us/stat/116/3010].)
 
 <table>
 
@@ -175,19 +175,19 @@ Aug. 12, 1968, Pub. L. 90–481, 82 Stat. 720, § 3(j); added Oct. 24, 1992, P
 
     2002—Subsec. (b). [Pub. L. 107–355][/us/pl/107/355] substituted “circumstances, if any, under which an operator” for “circumstances under which an operator” in introductory provisions.
 
-    1996—Subsec. (b). [Pub. L. 104–304, § 20(j)][/us/pl/104/304/s20/j], substituted “standards” for “regulations” in introductory provisions.
+    1996—Subsec. (b). [Pub. L. 104–304][/us/pl/104/304], § 20(j), substituted “standards” for “regulations” in introductory provisions.
 
-    Subsec. (b)(1). [Pub. L. 104–304, § 8(1)][/us/pl/104/304/s8/1], which directed the insertion of “, if any,” after “circumstances” in the first sentence of subsection (b)(1), could not be executed because the word “circumstances” did not appear in subsec. (b)(1).
+    Subsec. (b)(1). [Pub. L. 104–304][/us/pl/104/304], § 8(1), which directed the insertion of “, if any,” after “circumstances” in the first sentence of subsection (b)(1), could not be executed because the word “circumstances” did not appear in subsec. (b)(1).
 
-    Subsec. (b)(4). [Pub. L. 104–304, § 8(2)][/us/pl/104/304/s8/2], inserted “, operating, and maintaining” after “cost of installing”.
+    Subsec. (b)(4). [Pub. L. 104–304][/us/pl/104/304], § 8(2), inserted “, operating, and maintaining” after “cost of installing”.
 
-    Subsec. (c)(1). [Pub. L. 104–304, § 20(j)][/us/pl/104/304/s20/j], substituted “standards” for “regulations” after “prescribe” in introductory provisions.
+    Subsec. (c)(1). [Pub. L. 104–304][/us/pl/104/304], § 20(j), substituted “standards” for “regulations” after “prescribe” in introductory provisions.
 
-    Subsec. (c)(1)(C). [Pub. L. 104–304, § 8(3)][/us/pl/104/304/s8/3], inserted “, maintenance, and replacement” after “installation”.
+    Subsec. (c)(1)(C). [Pub. L. 104–304][/us/pl/104/304], § 8(3), inserted “, maintenance, and replacement” after “installation”.
 
-    Subsec. (c)(2). [Pub. L. 104–304, § 20(j)][/us/pl/104/304/s20/j], substituted “standards” for “regulations”.
+    Subsec. (c)(2). [Pub. L. 104–304][/us/pl/104/304], § 20(j), substituted “standards” for “regulations”.
 
-    Subsec. (e). [Pub. L. 104–304, § 8(4)][/us/pl/104/304/s8/4], inserted after first sentence “The Secretary may adopt industry accepted performance standards in order to comply with the requirement under the preceding sentence.”
+    Subsec. (e). [Pub. L. 104–304][/us/pl/104/304], § 8(4), inserted after first sentence “The Secretary may adopt industry accepted performance standards in order to comply with the requirement under the preceding sentence.”
 
 ----------
 
@@ -196,19 +196,19 @@ Aug. 12, 1968, Pub. L. 90–481, 82 Stat. 720, § 3(j); added Oct. 24, 1992, P
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1316
 [/us/pl/104/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304
 [/us/stat/110/3800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3800
-[/us/pl/107/355/s21/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355%2Fs21%2F1
+[/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355
 [/us/stat/116/3010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3010
 [/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355
-[/us/pl/104/304/s20/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304%2Fs20%2Fj
-[/us/pl/104/304/s8/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304%2Fs8%2F1
-[/us/pl/104/304/s8/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304%2Fs8%2F2
-[/us/pl/104/304/s20/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304%2Fs20%2Fj
-[/us/pl/104/304/s8/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304%2Fs8%2F3
-[/us/pl/104/304/s20/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304%2Fs20%2Fj
-[/us/pl/104/304/s8/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304%2Fs8%2F4
+[/us/pl/104/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304
+[/us/pl/104/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304
+[/us/pl/104/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304
+[/us/pl/104/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304
+[/us/pl/104/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304
+[/us/pl/104/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304
+[/us/pl/104/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304
 
 

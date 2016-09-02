@@ -67,7 +67,7 @@
 
         The Assistant Secretary shall establish reasonable fees and charges to pay expenses incurred in carrying out this subsection. Funds collected under this subsection shall be credited to the account in the Treasury from which the expenses were incurred and shall be available to the Assistant Secretary for purposes for which amounts in such account are available.
 
-(Added [Pub. L. 107–71, title I, § 105(a)][/us/pl/107/71/s105/a], Nov. 19, 2001, [115 Stat. 606][/us/stat/115/606]; amended [Pub. L. 108–458, title IV, § 4018][/us/pl/108/458/s4018], Dec. 17, 2004, [118 Stat. 3721][/us/stat/118/3721].)
+(Added [Pub. L. 107–71, title I][/us/pl/107/71/tI], § 105(a), Nov. 19, 2001, [115 Stat. 606][/us/stat/115/606]; amended [Pub. L. 108–458, title IV][/us/pl/108/458/tIV], § 4018, Dec. 17, 2004, [118 Stat. 3721][/us/stat/118/3721].)
 
  __Amendments__ 
 
@@ -79,7 +79,7 @@
 
  __Federal Air Marshals__ 
 
-[Pub. L. 108–458, title IV, § 4016][/us/pl/108/458/s4016], Dec. 17, 2004, [118 Stat. 3720][/us/stat/118/3720], provided that:
+[Pub. L. 108–458, title IV][/us/pl/108/458/tIV], § 4016, Dec. 17, 2004, [118 Stat. 3720][/us/stat/118/3720], provided that:
 
 >     “(a)  __Federal Air Marshal Anonymity__  __.—__ 
 
@@ -106,13 +106,13 @@
 ----------
 ----------
 
-[/us/pl/107/71/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs105%2Fa
+[/us/pl/107/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2FtI
 [/us/stat/115/606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F606
-[/us/pl/108/458/s4018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs4018
+[/us/pl/108/458/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtIV
 [/us/stat/118/3721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3721
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/108/458/s4016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs4016
+[/us/pl/108/458/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtIV
 [/us/stat/118/3720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3720
 [/us/usc/t49/s44917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44917
 

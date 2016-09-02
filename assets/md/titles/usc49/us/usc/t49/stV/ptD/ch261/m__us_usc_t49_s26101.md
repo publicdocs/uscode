@@ -87,7 +87,7 @@
 
         (14) whether the corridor has been designated as a high-speed rail corridor by the Secretary.
 
-(Added [Pub. L. 103–440, title I, § 103(a)(2)][/us/pl/103/440/s103/a/2], Nov. 2, 1994, [108 Stat. 4616][/us/stat/108/4616]; amended [Pub. L. 109–59, title IX, § 9001(a)(1)][/us/pl/109/59/s9001/a/1], Aug. 10, 2005, [119 Stat. 1918][/us/stat/119/1918]; [Pub. L. 110–432, div. B, title V, § 501(a)][/us/pl/110/432/s501/a], Oct. 16, 2008, [122 Stat. 4959][/us/stat/122/4959].)
+(Added [Pub. L. 103–440, title I][/us/pl/103/440/tI], § 103(a)(2), Nov. 2, 1994, [108 Stat. 4616][/us/stat/108/4616]; amended [Pub. L. 109–59, title IX][/us/pl/109/59/tIX], § 9001(a)(1), Aug. 10, 2005, [119 Stat. 1918][/us/stat/119/1918]; [Pub. L. 110–432, div. B, title V][/us/pl/110/432/dB/tV], § 501(a), Oct. 16, 2008, [122 Stat. 4959][/us/stat/122/4959].)
 
  __References in Text__ 
 
@@ -99,35 +99,35 @@
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–432, § 501(a)(1)][/us/pl/110/432/s501/a/1], substituted “High-speed rail corridor planning” for “Corridor development” in section catchline.
+    2008—[Pub. L. 110–432][/us/pl/110/432], § 501(a)(1), substituted “High-speed rail corridor planning” for “Corridor development” in section catchline.
 
-    Subsec. (a). [Pub. L. 110–432, § 501(a)(2)][/us/pl/110/432/s501/a/2], substituted “Corridor Planning” for “Corridor Development” in heading.
+    Subsec. (a). [Pub. L. 110–432][/us/pl/110/432], § 501(a)(2), substituted “Corridor Planning” for “Corridor Development” in heading.
 
-    Subsecs. (a)(1), (b). [Pub. L. 110–432, § 501(a)(3)][/us/pl/110/432/s501/a/3], substituted “corridor planning” for “corridor development” wherever appearing.
+    Subsecs. (a)(1), (b). [Pub. L. 110–432][/us/pl/110/432], § 501(a)(3), substituted “corridor planning” for “corridor development” wherever appearing.
 
-    Subsec. (c)(2). [Pub. L. 110–432, § 501(a)(4)][/us/pl/110/432/s501/a/4], substituted “planning” for “development”.
+    Subsec. (c)(2). [Pub. L. 110–432][/us/pl/110/432], § 501(a)(4), substituted “planning” for “development”.
 
-    2005—[Pub. L. 109–59, § 9001(a)(1)(A)][/us/pl/109/59/s9001/a/1/A], substituted “development” for “planning” in section catchline.
+    2005—[Pub. L. 109–59][/us/pl/109/59], § 9001(a)(1)(A), substituted “development” for “planning” in section catchline.
 
-    Subsec. (a). [Pub. L. 109–59, § 9001(a)(1)(B)][/us/pl/109/59/s9001/a/1/B], substituted “Development” for “Planning” in subsec. heading.
+    Subsec. (a). [Pub. L. 109–59][/us/pl/109/59], § 9001(a)(1)(B), substituted “Development” for “Planning” in subsec. heading.
 
-    Subsec. (a)(1). [Pub. L. 109–59, § 9001(a)(1)(C)][/us/pl/109/59/s9001/a/1/C], substituted “corridor development” for “corridor planning”.
+    Subsec. (a)(1). [Pub. L. 109–59][/us/pl/109/59], § 9001(a)(1)(C), substituted “corridor development” for “corridor planning”.
 
-    Subsec. (b)(1). [Pub. L. 109–59, § 9001(a)(1)(D)(i)][/us/pl/109/59/s9001/a/1/D/i], inserted “, or if it is an activity described in subparagraph (M)” after “high-speed rail improvements” in introductory provisions.
+    Subsec. (b)(1). [Pub. L. 109–59][/us/pl/109/59], § 9001(a)(1)(D)(i), inserted “, or if it is an activity described in subparagraph (M)” after “high-speed rail improvements” in introductory provisions.
 
-    [Pub. L. 109–59, § 9001(a)(1)(C)][/us/pl/109/59/s9001/a/1/C], substituted “corridor development” for “corridor planning” in two places in introductory provisions.
+    [Pub. L. 109–59][/us/pl/109/59], § 9001(a)(1)(C), substituted “corridor development” for “corridor planning” in two places in introductory provisions.
 
-    Subsec. (b)(1)(F). [Pub. L. 109–59, § 9001(a)(1)(C)][/us/pl/109/59/s9001/a/1/C], substituted “corridor development” for “corridor planning”.
+    Subsec. (b)(1)(F). [Pub. L. 109–59][/us/pl/109/59], § 9001(a)(1)(C), substituted “corridor development” for “corridor planning”.
 
-    Subsec. (b)(1)(M). [Pub. L. 109–59, § 9001(a)(1)(D)(ii)][/us/pl/109/59/s9001/a/1/D/ii]–(iv), added subpar. (M).
+    Subsec. (b)(1)(M). [Pub. L. 109–59][/us/pl/109/59], § 9001(a)(1)(D)(ii)–(iv), added subpar. (M).
 
-    Subsec. (b)(2). [Pub. L. 109–59, § 9001(a)(1)(C)][/us/pl/109/59/s9001/a/1/C], substituted “corridor development” for “corridor planning”.
+    Subsec. (b)(2). [Pub. L. 109–59][/us/pl/109/59], § 9001(a)(1)(C), substituted “corridor development” for “corridor planning”.
 
-    Subsec. (c)(2). [Pub. L. 109–59, § 9001(a)(1)(E)][/us/pl/109/59/s9001/a/1/E], substituted “development” for “planning”.
+    Subsec. (c)(2). [Pub. L. 109–59][/us/pl/109/59], § 9001(a)(1)(E), substituted “development” for “planning”.
 
  __Congressional Findings; Purpose__ 
 
-[Pub. L. 103–440, title I, § 102][/us/pl/103/440/s102], Nov. 2, 1994, [108 Stat. 4615][/us/stat/108/4615], provided that:
+[Pub. L. 103–440, title I][/us/pl/103/440/tI], § 102, Nov. 2, 1994, [108 Stat. 4615][/us/stat/108/4615], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -163,30 +163,30 @@
 ----------
 
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
-[/us/pl/103/440/s103/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F440%2Fs103%2Fa%2F2
+[/us/pl/103/440/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F440%2FtI
 [/us/stat/108/4616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4616
-[/us/pl/109/59/s9001/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs9001%2Fa%2F1
+[/us/pl/109/59/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIX
 [/us/stat/119/1918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1918
-[/us/pl/110/432/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs501%2Fa
+[/us/pl/110/432/dB/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdB%2FtV
 [/us/stat/122/4959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4959
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
 [/us/stat/69/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F322
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
 [/us/usc/t49/s28101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs28101
-[/us/pl/110/432/s501/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs501%2Fa%2F1
-[/us/pl/110/432/s501/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs501%2Fa%2F2
-[/us/pl/110/432/s501/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs501%2Fa%2F3
-[/us/pl/110/432/s501/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs501%2Fa%2F4
-[/us/pl/109/59/s9001/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs9001%2Fa%2F1%2FA
-[/us/pl/109/59/s9001/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs9001%2Fa%2F1%2FB
-[/us/pl/109/59/s9001/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs9001%2Fa%2F1%2FC
-[/us/pl/109/59/s9001/a/1/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs9001%2Fa%2F1%2FD%2Fi
-[/us/pl/109/59/s9001/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs9001%2Fa%2F1%2FC
-[/us/pl/109/59/s9001/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs9001%2Fa%2F1%2FC
-[/us/pl/109/59/s9001/a/1/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs9001%2Fa%2F1%2FD%2Fii
-[/us/pl/109/59/s9001/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs9001%2Fa%2F1%2FC
-[/us/pl/109/59/s9001/a/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs9001%2Fa%2F1%2FE
-[/us/pl/103/440/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F440%2Fs102
+[/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
+[/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
+[/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
+[/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/103/440/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F440%2FtI
 [/us/stat/108/4615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4615
 [/us/usc/t49/s20101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs20101
 

@@ -55,7 +55,7 @@
 
         (6) service provided by pressurized aircraft when the service is provided by aircraft that regularly fly above 8,000 feet in altitude.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1144][/us/stat/108/1144].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1144][/us/stat/108/1144].)
 
 <table>
 
@@ -129,7 +129,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 419(k)(1); added Oct. 24, 19
 ----------
 
 [/us/usc/t49/s41733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs41733
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1144
 [/us/usc/t49/s41733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs41733
 

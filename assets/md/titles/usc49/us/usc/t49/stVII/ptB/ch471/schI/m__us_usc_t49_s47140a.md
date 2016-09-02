@@ -29,7 +29,7 @@
 
         To be eligible for a grant under paragraph (1), the sponsor of a public-use airport shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require.
 
-(Added [Pub. L. 112–95, title V, § 512(a)][/us/pl/112/95/s512/a], Feb. 14, 2012, [126 Stat. 109][/us/stat/126/109].)
+(Added [Pub. L. 112–95, title V][/us/pl/112/95/tV], § 512(a), Feb. 14, 2012, [126 Stat. 109][/us/stat/126/109].)
 
 ----------
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/112/95/s512/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs512%2Fa
+[/us/pl/112/95/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtV
 [/us/stat/126/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F109
 
 

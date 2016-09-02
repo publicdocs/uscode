@@ -49,7 +49,7 @@
 
         (6) compile, publish, and distribute information about transportation on inland waterways that the Secretary considers useful to the commercial interests of the United States.
 
-([Pub. L. 103–272, § 4(j)(6)(A)][/us/pl/103/272/s4/j/6/A], July 5, 1994, [108 Stat. 1366][/us/stat/108/1366].)
+([Pub. L. 103–272][/us/pl/103/272], § 4(j)(6)(A), July 5, 1994, [108 Stat. 1366][/us/stat/108/1366].)
 
 <table>
 
@@ -118,7 +118,7 @@ Feb. 28, 1920, ch. 91, § 500, 41 Stat. 499; Aug. 6, 1981, Pub. L. 97–31, §
 ----------
 ----------
 
-[/us/pl/103/272/s4/j/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs4%2Fj%2F6%2FA
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1366
 
 

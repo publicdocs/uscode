@@ -17,7 +17,7 @@
 
     This chapter shall take effect 180 days after the date of enactment of the Intermodal Safe Container Transportation Amendments Act of 1996.
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 862][/us/stat/108/862]; [Pub. L. 104–291, title II, § 208(a)][/us/pl/104/291/s208/a], Oct. 11, 1996, [110 Stat. 3457][/us/stat/110/3457].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(d), July 5, 1994, [108 Stat. 862][/us/stat/108/862]; [Pub. L. 104–291, title II][/us/pl/104/291/tII], § 208(a), Oct. 11, 1996, [110 Stat. 3457][/us/stat/110/3457].)
 
 <table>
 
@@ -102,9 +102,9 @@ Oct. 28, 1992, Pub. L. 102–548, § 2(d), 106 Stat. 3649.  </td>
 ----------
 ----------
 
-[/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F862
-[/us/pl/104/291/s208/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F291%2Fs208%2Fa
+[/us/pl/104/291/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F291%2FtII
 [/us/stat/110/3457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3457
 [/us/pl/104/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F291
 [/us/pl/104/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F291

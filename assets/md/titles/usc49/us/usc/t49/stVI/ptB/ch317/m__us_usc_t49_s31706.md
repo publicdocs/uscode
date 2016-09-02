@@ -31,7 +31,7 @@
 
         (2) may require by the injunction that the State or any person comply with sections 31704 and 31705 of this title.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1033][/us/stat/108/1033].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1033][/us/stat/108/1033].)
 
 <table>
 
@@ -91,7 +91,7 @@ Dec. 18, 1991, Pub. L. 102–240, § 4008(h), 105 Stat. 2155.  </td>
 ----------
 
 [/us/usc/t28/s1341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1341
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1033
 
 

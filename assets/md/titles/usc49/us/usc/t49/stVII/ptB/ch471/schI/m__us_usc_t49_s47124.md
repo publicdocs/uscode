@@ -141,7 +141,7 @@
 
     The Secretary shall establish uniform standards and requirements for regular safety assessments of air traffic control towers that receive funding under this section.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1276][/us/stat/108/1276]; [Pub. L. 106–181, title I, § 131][/us/pl/106/181/s131], Apr. 5, 2000, [114 Stat. 78][/us/stat/114/78]; [Pub. L. 108–7, div. I, title III, § 370(b)(1)][/us/pl/108/7/s370/b/1], (2), Feb. 20, 2003, [117 Stat. 425][/us/stat/117/425], 426; [Pub. L. 108–176, title I, § 105][/us/pl/108/176/s105], Dec. 12, 2003, [117 Stat. 2498][/us/stat/117/2498]; [Pub. L. 112–55, div. C, title I, § 119][/us/pl/112/55/s119], Nov. 18, 2011, [125 Stat. 649][/us/stat/125/649]; [Pub. L. 112–95, title I, § 147][/us/pl/112/95/s147], Feb. 14, 2012, [126 Stat. 30][/us/stat/126/30]; [Pub. L. 113–76, div. L, title I, § 118][/us/pl/113/76/s118], Jan. 17, 2014, [128 Stat. 581][/us/stat/128/581]; [Pub. L. 113–235, div. K, title I, § 118][/us/pl/113/235/s118], Dec. 16, 2014, [128 Stat. 2704][/us/stat/128/2704]; [Pub. L. 114–55, title I, § 102(c)][/us/pl/114/55/s102/c], Sept. 30, 2015, [129 Stat. 523][/us/stat/129/523].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1276][/us/stat/108/1276]; [Pub. L. 106–181, title I][/us/pl/106/181/tI], § 131, Apr. 5, 2000, [114 Stat. 78][/us/stat/114/78]; [Pub. L. 108–7, div. I, title III][/us/pl/108/7/dI/tIII], § 370(b)(1), (2), Feb. 20, 2003, [117 Stat. 425][/us/stat/117/425], 426; [Pub. L. 108–176, title I][/us/pl/108/176/tI], § 105, Dec. 12, 2003, [117 Stat. 2498][/us/stat/117/2498]; [Pub. L. 112–55, div. C, title I][/us/pl/112/55/dC/tI], § 119, Nov. 18, 2011, [125 Stat. 649][/us/stat/125/649]; [Pub. L. 112–95, title I][/us/pl/112/95/tI], § 147, Feb. 14, 2012, [126 Stat. 30][/us/stat/126/30]; [Pub. L. 113–76, div. L, title I][/us/pl/113/76/dL/tI], § 118, Jan. 17, 2014, [128 Stat. 581][/us/stat/128/581]; [Pub. L. 113–235, div. K, title I][/us/pl/113/235/dK/tI], § 118, Dec. 16, 2014, [128 Stat. 2704][/us/stat/128/2704]; [Pub. L. 114–55, title I][/us/pl/114/55/tI], § 102(c), Sept. 30, 2015, [129 Stat. 523][/us/stat/129/523].)
 
 <table>
 
@@ -233,33 +233,33 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 747, § 303(h); added Oct. 31, 1992,
 
     2014—Subsec. (b)(3)(D). [Pub. L. 113–76][/us/pl/113/76] and [Pub. L. 113–235][/us/pl/113/235], which identically directed substitution of “benefit, with the maximum allowable local cost share capped at 20 percent.” for “benefit.”, could not be executed because of the prior amendment by [Pub. L. 112–55][/us/pl/112/55]. See 2011 Amendment note below.
 
-    2012—Subsec. (b)(1). [Pub. L. 112–95, § 147(a)(1)][/us/pl/112/95/s147/a/1], designated existing provisions as subpar. (A), inserted par. and subpar. headings, and added subpars. (B) and (C).
+    2012—Subsec. (b)(1). [Pub. L. 112–95][/us/pl/112/95], § 147(a)(1), designated existing provisions as subpar. (A), inserted par. and subpar. headings, and added subpars. (B) and (C).
 
-    Subsec. (b)(2). [Pub. L. 112–95, § 147(a)(2)][/us/pl/112/95/s147/a/2], inserted heading.
+    Subsec. (b)(2). [Pub. L. 112–95][/us/pl/112/95], § 147(a)(2), inserted heading.
 
-    Subsec. (b)(3)(E), (F). [Pub. L. 112–95, § 147(b)][/us/pl/112/95/s147/b], added subpars. (E) and (F) and struck out former subpar. (E). Prior to amendment, text of subpar. (E) read as follows: “Of the amounts appropriated pursuant to section 106(k), not more than $6,500,000 for fiscal 2004, $7,000,000 for fiscal year 2005, $7,500,000 for fiscal year 2006, and $8,000,000 for fiscal year 2007 may be used to carry out this paragraph.”
+    Subsec. (b)(3)(E), (F). [Pub. L. 112–95][/us/pl/112/95], § 147(b), added subpars. (E) and (F) and struck out former subpar. (E). Prior to amendment, text of subpar. (E) read as follows: “Of the amounts appropriated pursuant to section 106(k), not more than $6,500,000 for fiscal 2004, $7,000,000 for fiscal year 2005, $7,500,000 for fiscal year 2006, and $8,000,000 for fiscal year 2007 may be used to carry out this paragraph.”
 
-    Subsec. (b)(4)(C). [Pub. L. 112–95, § 147(c)][/us/pl/112/95/s147/c], substituted “$2,000,000” for “$1,500,000”.
+    Subsec. (b)(4)(C). [Pub. L. 112–95][/us/pl/112/95], § 147(c), substituted “$2,000,000” for “$1,500,000”.
 
-    Subsec. (c). [Pub. L. 112–95, § 147(d)][/us/pl/112/95/s147/d], added subsec. (c).
+    Subsec. (c). [Pub. L. 112–95][/us/pl/112/95], § 147(d), added subsec. (c).
 
     2011—Subsec. (b)(3)(D). [Pub. L. 112–55][/us/pl/112/55] substituted “benefit, with the maximum allowable local cost share capped at 20 percent.” for “benefit.”
 
-    2003—Subsec. (a). [Pub. L. 108–176, § 105(1)][/us/pl/108/176/s105/1], added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “The Secretary of Transportation shall ensure that an agreement under this subchapter with a State or a political subdivision of a State to allow the State or subdivision to operate an airport facility in the State or subdivision relieves the United States Government from any liability arising out of, or related to, acts or omissions of employees of the State or subdivision in operating the airport facility.”
+    2003—Subsec. (a). [Pub. L. 108–176][/us/pl/108/176], § 105(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “The Secretary of Transportation shall ensure that an agreement under this subchapter with a State or a political subdivision of a State to allow the State or subdivision to operate an airport facility in the State or subdivision relieves the United States Government from any liability arising out of, or related to, acts or omissions of employees of the State or subdivision in operating the airport facility.”
 
-    Subsec. (b)(2). [Pub. L. 108–176, § 105(2)][/us/pl/108/176/s105/2], added par. (2) and struck out former par. (2) which read as follows: “The Secretary may make a contract, on a sole source basis, with a State or a political subdivision of a State to allow the State or subdivision to operate an airport traffic control tower classified as a level I (Visual Flight Rules) tower if the Secretary decides that the State or subdivision has the capability to comply with the requirements of this paragraph. The contract shall require that the State or subdivision comply with applicable safety regulations in operating the facility and with applicable competition requirements in making a subcontract to perform work to carry out the contract.”
+    Subsec. (b)(2). [Pub. L. 108–176][/us/pl/108/176], § 105(2), added par. (2) and struck out former par. (2) which read as follows: “The Secretary may make a contract, on a sole source basis, with a State or a political subdivision of a State to allow the State or subdivision to operate an airport traffic control tower classified as a level I (Visual Flight Rules) tower if the Secretary decides that the State or subdivision has the capability to comply with the requirements of this paragraph. The contract shall require that the State or subdivision comply with applicable safety regulations in operating the facility and with applicable competition requirements in making a subcontract to perform work to carry out the contract.”
 
-    Subsec. (b)(3). [Pub. L. 108–176, § 105(3)(A)][/us/pl/108/176/s105/3/A], (B), struck out “pilot” before “program” in par. heading, before “program to contract” in subpar. (A), before “program, the Secretary” in subpars. (B) and (C), and before “program exceed” in subpar. (D).
+    Subsec. (b)(3). [Pub. L. 108–176][/us/pl/108/176], § 105(3)(A), (B), struck out “pilot” before “program” in par. heading, before “program to contract” in subpar. (A), before “program, the Secretary” in subpars. (B) and (C), and before “program exceed” in subpar. (D).
 
-    Subsec. (b)(3)(A). [Pub. L. 108–7, § 370(b)(2)(A)][/us/pl/108/7/s370/b/2/A], substituted “nonapproach control towers, as defined by the Secretary,” for “Level I air traffic control towers, as defined by the Secretary,”.
+    Subsec. (b)(3)(A). [Pub. L. 108–7][/us/pl/108/7], § 370(b)(2)(A), substituted “nonapproach control towers, as defined by the Secretary,” for “Level I air traffic control towers, as defined by the Secretary,”.
 
-    Subsec. (b)(3)(E). [Pub. L. 108–176, § 105(3)(C)][/us/pl/108/176/s105/3/C], substituted “$6,500,000 for fiscal 2004, $7,000,000 for fiscal year 2005, $7,500,000 for fiscal year 2006, and $8,000,000 for fiscal year 2007” for “$6,000,000 per fiscal year”.
+    Subsec. (b)(3)(E). [Pub. L. 108–176][/us/pl/108/176], § 105(3)(C), substituted “$6,500,000 for fiscal 2004, $7,000,000 for fiscal year 2005, $7,500,000 for fiscal year 2006, and $8,000,000 for fiscal year 2007” for “$6,000,000 per fiscal year”.
 
-    [Pub. L. 108–7, § 370(b)(2)(B)][/us/pl/108/7/s370/b/2/B], substituted “Of” for “Subject to paragraph (4)(D), of”.
+    [Pub. L. 108–7][/us/pl/108/7], § 370(b)(2)(B), substituted “Of” for “Subject to paragraph (4)(D), of”.
 
-    Subsec. (b)(4). [Pub. L. 108–7, § 370(b)(1)][/us/pl/108/7/s370/b/1], reenacted heading without change and amended text generally. Prior to amendment, par. authorized the Secretary to provide grants under this subchapter to not more than two airport sponsors for the construction of a low-level activity visual flight rule (level 1) air traffic control tower.
+    Subsec. (b)(4). [Pub. L. 108–7][/us/pl/108/7], § 370(b)(1), reenacted heading without change and amended text generally. Prior to amendment, par. authorized the Secretary to provide grants under this subchapter to not more than two airport sponsors for the construction of a low-level activity visual flight rule (level 1) air traffic control tower.
 
-    Subsec. (b)(4)(C). [Pub. L. 108–176, § 105(4)][/us/pl/108/176/s105/4], substituted “$1,500,000” for “$1,100,000”.
+    Subsec. (b)(4)(C). [Pub. L. 108–176][/us/pl/108/176], § 105(4), substituted “$1,500,000” for “$1,100,000”.
 
     2000—Subsec. (b)(3), (4). [Pub. L. 106–181][/us/pl/106/181] added pars. (3) and (4).
 
@@ -273,13 +273,13 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 747, § 303(h); added Oct. 31, 1992,
 
  __Savings Provision__ 
 
-[Pub. L. 108–7, div. I, title III, § 370(b)(3)][/us/pl/108/7/s370/b/3], Feb. 20, 2003, [117 Stat. 426][/us/stat/117/426], provided that: 
+[Pub. L. 108–7, div. I, title III][/us/pl/108/7/dI/tIII], § 370(b)(3), Feb. 20, 2003, [117 Stat. 426][/us/stat/117/426], provided that: 
 
 > “Notwithstanding the amendments made by this section \[amending this section and [section 47102 of this title][/us/usc/t49/s47102]\], the towers for which assistance is being provided on the day before the date of enactment of this Act \[Feb. 20, 2003\] under [section 47124(b)(4) of title 49][/us/usc/t49/s47124/b/4], United States Code, as in effect on such day, may continue to be provided such assistance under the terms of such section.”
 
  __Nonapproach Control Towers__ 
 
-[Pub. L. 108–7, div. I, title III, § 370(c)][/us/pl/108/7/s370/c], Feb. 20, 2003, [117 Stat. 426][/us/stat/117/426], provided that:
+[Pub. L. 108–7, div. I, title III][/us/pl/108/7/dI/tIII], § 370(c), Feb. 20, 2003, [117 Stat. 426][/us/stat/117/426], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -305,7 +305,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 747, § 303(h); added Oct. 31, 1992,
 
  __Use of Apportionments To Pay Non-Federal Share of Operation Costs__ 
 
-[Pub. L. 108–7, div. I, title III, § 370(d)][/us/pl/108/7/s370/d], Feb. 20, 2003, [117 Stat. 427][/us/stat/117/427], provided that:
+[Pub. L. 108–7, div. I, title III][/us/pl/108/7/dI/tIII], § 370(d), Feb. 20, 2003, [117 Stat. 427][/us/stat/117/427], provided that:
 
 >     “(1)  __Study__  __.—__ 
 
@@ -317,7 +317,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 747, § 303(h); added Oct. 31, 1992,
 
  __Contract Tower Assistance__ 
 
-[Pub. L. 103–305, title V, § 508][/us/pl/103/305/s508], Aug. 23, 1994, [108 Stat. 1596][/us/stat/108/1596], provided that: 
+[Pub. L. 103–305, title V][/us/pl/103/305/tV], § 508, Aug. 23, 1994, [108 Stat. 1596][/us/stat/108/1596], provided that: 
 
 > “The Secretary shall take appropriate action to assist communities where the Secretary deems such assistance appropriate in obtaining the installation of a Level I Contract Tower for those communities.”
 
@@ -328,42 +328,42 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 747, § 303(h); added Oct. 31, 1992,
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1276
-[/us/pl/106/181/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs131
+[/us/pl/106/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtI
 [/us/stat/114/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F78
-[/us/pl/108/7/s370/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs370%2Fb%2F1
+[/us/pl/108/7/dI/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdI%2FtIII
 [/us/stat/117/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F425
-[/us/pl/108/176/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs105
+[/us/pl/108/176/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtI
 [/us/stat/117/2498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2498
-[/us/pl/112/55/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55%2Fs119
+[/us/pl/112/55/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55%2FdC%2FtI
 [/us/stat/125/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F649
-[/us/pl/112/95/s147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs147
+[/us/pl/112/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtI
 [/us/stat/126/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F30
-[/us/pl/113/76/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs118
+[/us/pl/113/76/dL/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdL%2FtI
 [/us/stat/128/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F581
-[/us/pl/113/235/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs118
+[/us/pl/113/235/dK/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdK%2FtI
 [/us/stat/128/2704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2704
-[/us/pl/114/55/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F55%2Fs102%2Fc
+[/us/pl/114/55/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F55%2FtI
 [/us/stat/129/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F523
 [/us/pl/114/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F55
 [/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
 [/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/pl/112/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55
-[/us/pl/112/95/s147/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs147%2Fa%2F1
-[/us/pl/112/95/s147/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs147%2Fa%2F2
-[/us/pl/112/95/s147/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs147%2Fb
-[/us/pl/112/95/s147/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs147%2Fc
-[/us/pl/112/95/s147/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs147%2Fd
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
 [/us/pl/112/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55
-[/us/pl/108/176/s105/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs105%2F1
-[/us/pl/108/176/s105/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs105%2F2
-[/us/pl/108/176/s105/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs105%2F3%2FA
-[/us/pl/108/7/s370/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs370%2Fb%2F2%2FA
-[/us/pl/108/176/s105/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs105%2F3%2FC
-[/us/pl/108/7/s370/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs370%2Fb%2F2%2FB
-[/us/pl/108/7/s370/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs370%2Fb%2F1
-[/us/pl/108/176/s105/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs105%2F4
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
+[/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
+[/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
+[/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
 [/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
 [/us/pl/108/176/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs3
@@ -371,16 +371,16 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 747, § 303(h); added Oct. 31, 1992,
 [/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/pl/106/181/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106
-[/us/pl/108/7/s370/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs370%2Fb%2F3
+[/us/pl/108/7/dI/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdI%2FtIII
 [/us/stat/117/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F426
 [/us/usc/t49/s47102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs47102
 [/us/usc/t49/s47124/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs47124%2Fb%2F4
-[/us/pl/108/7/s370/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs370%2Fc
+[/us/pl/108/7/dI/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdI%2FtIII
 [/us/stat/117/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F426
-[/us/pl/108/7/s370/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs370%2Fd
+[/us/pl/108/7/dI/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdI%2FtIII
 [/us/stat/117/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F427
 [/us/usc/t49/s47124/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs47124%2Fb
-[/us/pl/103/305/s508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2Fs508
+[/us/pl/103/305/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2FtV
 [/us/stat/108/1596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1596
 
 

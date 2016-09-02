@@ -31,7 +31,7 @@
 
     An action required under this section is no longer required only if the Secretary of Transportation has made a decision as provided under [section 44907(d)(4) of this title][/us/usc/t49/s44907/d/4]. The Secretary shall notify Congress when the action is no longer required to be taken.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1211][/us/stat/108/1211]; [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. B, title XXII, § 2224(a), Oct. 21, 1998, [112 Stat. 2681–819][/us/stat/112/2681-819].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1211][/us/stat/108/1211]; [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. B, title XXII, § 2224(a), Oct. 21, 1998, [112 Stat. 2681–819][/us/stat/112/2681-819].)
 
 <table>
 
@@ -136,9 +136,9 @@ Aug. 8, 1985, Pub. L. 99–83, § 552, 99 Stat. 226.  </td>
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
 [/us/usc/t49/s44907/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44907%2Fd%2F1
 [/us/usc/t49/s44907/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44907%2Fd%2F4
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1211
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-819
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424

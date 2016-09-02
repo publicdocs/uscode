@@ -29,7 +29,7 @@
 
     Amounts appropriated to carry out this chapter remain available until expended.
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 854][/us/stat/108/854].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(d), July 5, 1994, [108 Stat. 854][/us/stat/108/854].)
 
 <table>
 
@@ -90,7 +90,7 @@ Oct. 15, 1966, Pub. L. 89–670, 80 Stat. 931, § 4(i)(9); added Oct. 28, 1974
 
 [/us/usc/t49/s5562/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5562%2Fa%2F2
 [/us/usc/t49/s5562/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5562%2Fa%2F4
-[/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F854
 
 

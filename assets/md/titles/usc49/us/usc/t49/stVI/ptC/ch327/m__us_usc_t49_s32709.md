@@ -51,7 +51,7 @@
 
         (2) An action under this subsection may be brought in an appropriate United States district court or in a State court of competent jurisdiction. The action must be brought not later than 2 years after the claim accrues.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1054][/us/stat/108/1054]; [Pub. L. 112–141, div. C, title I, § 31206(1)][/us/pl/112/141/s31206/1], July 6, 2012, [126 Stat. 761][/us/stat/126/761].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1054][/us/stat/108/1054]; [Pub. L. 112–141, div. C, title I][/us/pl/112/141/dC/tI], § 31206(1), July 6, 2012, [126 Stat. 761][/us/stat/126/761].)
 
 <table>
 
@@ -205,9 +205,9 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, § 411; added July 14, 1976, Pu
 ----------
 
 [/us/usc/t49/s32710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs32710
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1054
-[/us/pl/112/141/s31206/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31206%2F1
+[/us/pl/112/141/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtI
 [/us/stat/126/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F761
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141

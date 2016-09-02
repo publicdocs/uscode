@@ -61,7 +61,7 @@
 
         (3) the number of contracts made under this section.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1298][/us/stat/108/1298], § 49103; renumbered § 50103, [Pub. L. 104–287, § 5(88)(D)][/us/pl/104/287/s5/88/D], Oct. 11, 1996, [110 Stat. 3398][/us/stat/110/3398]; amended [Pub. L. 106–36, title I, § 1002(i)][/us/pl/106/36/s1002/i], June 25, 1999, [113 Stat. 134][/us/stat/113/134].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1298][/us/stat/108/1298], § 49103; renumbered § 50103, [Pub. L. 104–287][/us/pl/104/287], § 5(88)(D), Oct. 11, 1996, [110 Stat. 3398][/us/stat/110/3398]; amended [Pub. L. 106–36, title I][/us/pl/106/36/tI], § 1002(i), June 25, 1999, [113 Stat. 134][/us/stat/113/134].)
 
 <table>
 
@@ -190,11 +190,11 @@ Nov. 5, 1990, Pub. L. 101–508, § 9207, 104 Stat. 1388–375.  </td>
 
 [/us/usc/t19/s3501/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3501%2F4
 [/us/usc/t19/s3501/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3501%2F4
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1298
-[/us/pl/104/287/s5/88/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F88%2FD
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3398
-[/us/pl/106/36/s1002/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2Fs1002%2Fi
+[/us/pl/106/36/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2FtI
 [/us/stat/113/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F134
 [/us/pl/106/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36
 [/us/usc/t19/s3501/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3501%2F4

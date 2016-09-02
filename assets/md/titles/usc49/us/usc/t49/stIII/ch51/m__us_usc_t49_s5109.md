@@ -75,7 +75,7 @@
 
         (2) the Secretary determines the actions or plan is insufficient to address the safety concerns identified during the course of the comprehensive review.
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 767][/us/stat/108/767]; [Pub. L. 109–59, title VII, § 7126][/us/pl/109/59/s7126], Aug. 10, 2005, [119 Stat. 1909][/us/stat/119/1909]; [Pub. L. 114–94, div. A, title VII, § 7202][/us/pl/114/94/s7202], Dec. 4, 2015, [129 Stat. 1589][/us/stat/129/1589].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(d), July 5, 1994, [108 Stat. 767][/us/stat/108/767]; [Pub. L. 109–59, title VII][/us/pl/109/59/tVII], § 7126, Aug. 10, 2005, [119 Stat. 1909][/us/stat/119/1909]; [Pub. L. 114–94, div. A, title VII][/us/pl/114/94/dA/tVII], § 7202, Dec. 4, 2015, [129 Stat. 1589][/us/stat/129/1589].)
 
 <table>
 
@@ -243,7 +243,7 @@ Nov. 16, 1990, Pub. L. 101–615, § 8(b), 104 Stat. 3258.  </td>
 
  __Motor Carrier Safety Permits__ 
 
-[Pub. L. 112–141, div. C, title III, § 33014][/us/pl/112/141/s33014], July 6, 2012, [126 Stat. 840][/us/stat/126/840], provided that:
+[Pub. L. 112–141, div. C, title III][/us/pl/112/141/dC/tIII], § 33014, July 6, 2012, [126 Stat. 840][/us/stat/126/840], provided that:
 
 >     “(a)  __Review__  __.—__ 
 
@@ -270,11 +270,11 @@ Nov. 16, 1990, Pub. L. 101–615, § 8(b), 104 Stat. 3258.  </td>
 ----------
 ----------
 
-[/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F767
-[/us/pl/109/59/s7126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7126
+[/us/pl/109/59/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtVII
 [/us/stat/119/1909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1909
-[/us/pl/114/94/s7202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs7202
+[/us/pl/114/94/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtVII
 [/us/stat/129/1589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1589
 [/us/pl/101/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F615
 [/us/stat/104/3258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3258
@@ -283,7 +283,7 @@ Nov. 16, 1990, Pub. L. 101–615, § 8(b), 104 Stat. 3258.  </td>
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
-[/us/pl/112/141/s33014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs33014
+[/us/pl/112/141/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtIII
 [/us/stat/126/840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F840
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101

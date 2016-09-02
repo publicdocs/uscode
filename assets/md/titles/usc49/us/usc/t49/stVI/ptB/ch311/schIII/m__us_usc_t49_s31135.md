@@ -53,7 +53,7 @@
 
         The term “officer” means an owner, director, chief executive officer, chief operating officer, chief financial officer, safety director, vehicle maintenance supervisor, and driver supervisor of a motor carrier, regardless of the title attached to those functions, and any person, however designated, exercising controlling influence over the operations of a motor carrier.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1003][/us/stat/108/1003]; [Pub. L. 109–59, title IV, § 4113(a)][/us/pl/109/59/s4113/a], Aug. 10, 2005, [119 Stat. 1724][/us/stat/119/1724]; [Pub. L. 112–141, div. C, title II, § 32112][/us/pl/112/141/s32112], July 6, 2012, [126 Stat. 783][/us/stat/126/783].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1003][/us/stat/108/1003]; [Pub. L. 109–59, title IV][/us/pl/109/59/tIV], § 4113(a), Aug. 10, 2005, [119 Stat. 1724][/us/stat/119/1724]; [Pub. L. 112–141, div. C, title II][/us/pl/112/141/dC/tII], § 32112, July 6, 2012, [126 Stat. 783][/us/stat/126/783].)
 
 <table>
 
@@ -122,11 +122,11 @@ Oct. 30, 1984, Pub. L. 98–554, § 205, 98 Stat. 2834.  </td>
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1003
-[/us/pl/109/59/s4113/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4113%2Fa
+[/us/pl/109/59/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIV
 [/us/stat/119/1724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1724
-[/us/pl/112/141/s32112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32112
+[/us/pl/112/141/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtII
 [/us/stat/126/783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F783
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141

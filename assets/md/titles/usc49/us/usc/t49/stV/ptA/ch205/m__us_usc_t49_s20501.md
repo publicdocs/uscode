@@ -17,7 +17,7 @@
 
     In this chapter, “signal system” means a block signal system, an interlocking, automatic train stop, train control, or cab-signal device, or a similar appliance, method, device, or system intended to promote safety in railroad operations.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 883][/us/stat/108/883].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 883][/us/stat/108/883].)
 
 <table>
 
@@ -67,7 +67,7 @@ Source (Statutes at Large)  </td>
 
  __Signal Protection__ 
 
-[Pub. L. 114–94, div. A, title XI, § 11408][/us/pl/114/94/s11408], Dec. 4, 2015, [129 Stat. 1684][/us/stat/129/1684], provided that:
+[Pub. L. 114–94, div. A, title XI][/us/pl/114/94/dA/tXI], § 11408, Dec. 4, 2015, [129 Stat. 1684][/us/stat/129/1684], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -84,9 +84,9 @@ Source (Statutes at Large)  </td>
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F883
-[/us/pl/114/94/s11408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11408
+[/us/pl/114/94/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtXI
 [/us/stat/129/1684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1684
 [/us/usc/t49/s20157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs20157
 

@@ -31,7 +31,7 @@
 
         (4) provide for the use of other innovative technologies to enhance aircraft security.
 
-(Added [Pub. L. 107–71, title I, § 118(c)(1)][/us/pl/107/71/s118/c/1], Nov. 19, 2001, [115 Stat. 627][/us/stat/115/627]; amended [Pub. L. 108–458, title IV, § 4029][/us/pl/108/458/s4029], Dec. 17, 2004, [118 Stat. 3727][/us/stat/118/3727]; [Pub. L. 110–53, title XVI, § 1618][/us/pl/110/53/s1618], Aug. 3, 2007, [121 Stat. 489][/us/stat/121/489].)
+(Added [Pub. L. 107–71, title I][/us/pl/107/71/tI], § 118(c)(1), Nov. 19, 2001, [115 Stat. 627][/us/stat/115/627]; amended [Pub. L. 108–458, title IV][/us/pl/108/458/tIV], § 4029, Dec. 17, 2004, [118 Stat. 3727][/us/stat/118/3727]; [Pub. L. 110–53, title XVI][/us/pl/110/53/tXVI], § 1618, Aug. 3, 2007, [121 Stat. 489][/us/stat/121/489].)
 
  __Amendments__ 
 
@@ -50,11 +50,11 @@
 ----------
 ----------
 
-[/us/pl/107/71/s118/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs118%2Fc%2F1
+[/us/pl/107/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2FtI
 [/us/stat/115/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F627
-[/us/pl/108/458/s4029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs4029
+[/us/pl/108/458/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtIV
 [/us/stat/118/3727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3727
-[/us/pl/110/53/s1618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1618
+[/us/pl/110/53/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXVI
 [/us/stat/121/489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F489
 [/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458

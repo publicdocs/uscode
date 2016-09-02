@@ -21,7 +21,7 @@
 
     (2) other charges for which the bill expressly specifies a lien is claimed to the extent the charges are allowed by law and the agreement between the consignor and carrier.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1349][/us/stat/108/1349].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1349][/us/stat/108/1349].)
 
 <table>
 
@@ -78,7 +78,7 @@ Aug. 29, 1916, ch. 415, § 25, 39 Stat. 542.  </td>
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1349
 
 

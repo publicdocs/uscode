@@ -17,7 +17,7 @@
 
     The Secretary of Transportation shall prescribe regulations on standards for installing navigational aids, including airport control towers. For each type of facility, the regulations shall consider at a minimum traffic density (number of aircraft operations without consideration of aircraft size), terrain and other obstacles to navigation, weather characteristics, passengers served, and potential aircraft operating efficiencies.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1201][/us/stat/108/1201].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1201][/us/stat/108/1201].)
 
 <table>
 
@@ -74,7 +74,7 @@ Dec. 30, 1987, Pub. L. 100–223, § 308, 101 Stat. 1526.  </td>
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1201
 
 

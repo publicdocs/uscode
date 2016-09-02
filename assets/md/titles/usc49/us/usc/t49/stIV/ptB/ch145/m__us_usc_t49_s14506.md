@@ -33,7 +33,7 @@
 
         (5) in connection with the Federal vehicle inspection standards under section 31136.
 
-(Added [Pub. L. 109–59, title IV, § 4306(a)][/us/pl/109/59/s4306/a], Aug. 10, 2005, [119 Stat. 1773][/us/stat/119/1773]; amended [Pub. L. 110–244, title III, § 301(q)][/us/pl/110/244/s301/q], June 6, 2008, [122 Stat. 1617][/us/stat/122/1617].)
+(Added [Pub. L. 109–59, title IV][/us/pl/109/59/tIV], § 4306(a), Aug. 10, 2005, [119 Stat. 1773][/us/stat/119/1773]; amended [Pub. L. 110–244, title III][/us/pl/110/244/tIII], § 301(q), June 6, 2008, [122 Stat. 1617][/us/stat/122/1617].)
 
  __Amendments__ 
 
@@ -46,9 +46,9 @@
 ----------
 ----------
 
-[/us/pl/109/59/s4306/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4306%2Fa
+[/us/pl/109/59/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIV
 [/us/stat/119/1773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1773
-[/us/pl/110/244/s301/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs301%2Fq
+[/us/pl/110/244/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2FtIII
 [/us/stat/122/1617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1617
 [/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
 

@@ -41,7 +41,7 @@
 
     Section 6101(b) to (d) of title 41 does not apply to a lease or contract made by the Secretary of Transportation or Commerce under this chapter.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1282][/us/stat/108/1282]; [Pub. L. 111–350, § 5][/us/pl/111/350/s5](o)(9), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1282][/us/stat/108/1282]; [Pub. L. 111–350][/us/pl/111/350], § 5(o)(9), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854].)
 
 <table>
 
@@ -216,9 +216,9 @@ June 16, 1948, ch. 473, § 12, 62 Stat. 454; Aug. 23, 1958, Pub. L. 85–726, 
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1282
-[/us/pl/111/350/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/stat/62/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F454
 [/us/stat/79/1318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1318

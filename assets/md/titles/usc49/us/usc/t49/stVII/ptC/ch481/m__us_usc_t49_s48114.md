@@ -73,7 +73,7 @@
 
         It shall not be in order in the House of Representatives or the Senate to consider any bill, joint resolution, amendment, motion, or conference report that provides an appropriation (or any amendment thereto) for any fiscal year through fiscal year 2016 for Research and Development or Operations if the sum of the obligation limitation for Grants-in-Aid for Airports and the appropriation for Facilities and Equipment for such fiscal year is below the sum of the authorized levels for Grants-in-Aid for Airports and for Facilities and Equipment for such fiscal year.
 
-(Added [Pub. L. 108–176, title I, § 104(a)][/us/pl/108/176/s104/a], Dec. 12, 2003, [117 Stat. 2496][/us/stat/117/2496]; amended [Pub. L. 112–95, title I, § 104][/us/pl/112/95/s104], Feb. 14, 2012, [126 Stat. 16][/us/stat/126/16]; [Pub. L. 114–55, title I, § 106(a)][/us/pl/114/55/s106/a], Sept. 30, 2015, [129 Stat. 524][/us/stat/129/524].)
+(Added [Pub. L. 108–176, title I][/us/pl/108/176/tI], § 104(a), Dec. 12, 2003, [117 Stat. 2496][/us/stat/117/2496]; amended [Pub. L. 112–95, title I][/us/pl/112/95/tI], § 104, Feb. 14, 2012, [126 Stat. 16][/us/stat/126/16]; [Pub. L. 114–55, title I][/us/pl/114/55/tI], § 106(a), Sept. 30, 2015, [129 Stat. 524][/us/stat/129/524].)
 
  __References in Text__ 
 
@@ -83,19 +83,19 @@
 
  __Amendments__ 
 
-    2015—Subsec. (a)(2). [Pub. L. 114–55, § 106(a)(1)][/us/pl/114/55/s106/a/1], substituted “2016’ for “2015”.
+    2015—Subsec. (a)(2). [Pub. L. 114–55][/us/pl/114/55], § 106(a)(1), substituted “2016’ for “2015”.
 
-    Subsec. (c)(2). [Pub. L. 114–55, § 106(a)(2)][/us/pl/114/55/s106/a/2], substituted “2016” for “2015”.
+    Subsec. (c)(2). [Pub. L. 114–55][/us/pl/114/55], § 106(a)(2), substituted “2016” for “2015”.
 
-    2012—Subsec. (a)(1)(A). [Pub. L. 112–95, § 104(a)][/us/pl/112/95/s104/a], amended subpar. (A) generally. Prior to amendment, text read as follows: “The total budget resources made available from the Airport and Airway Trust Fund each fiscal year through fiscal year 2007 pursuant to sections 48101, 48102, 48103, and 106(k) of title 49, United States Code, shall be equal to the level of receipts plus interest credited to the Airport and Airway Trust Fund for that fiscal year. Such amounts may be used only for aviation investment programs listed in subsection (b).”
+    2012—Subsec. (a)(1)(A). [Pub. L. 112–95][/us/pl/112/95], § 104(a), amended subpar. (A) generally. Prior to amendment, text read as follows: “The total budget resources made available from the Airport and Airway Trust Fund each fiscal year through fiscal year 2007 pursuant to sections 48101, 48102, 48103, and 106(k) of title 49, United States Code, shall be equal to the level of receipts plus interest credited to the Airport and Airway Trust Fund for that fiscal year. Such amounts may be used only for aviation investment programs listed in subsection (b).”
 
-    Subsec. (a)(1)(B). [Pub. L. 112–95, § 104(b)][/us/pl/112/95/s104/b], substituted “subsection (b)(1)” for “subsection (b)”.
+    Subsec. (a)(1)(B). [Pub. L. 112–95][/us/pl/112/95], § 104(b), substituted “subsection (b)(1)” for “subsection (b)”.
 
-    Subsec. (a)(2). [Pub. L. 112–95, § 104(c)][/us/pl/112/95/s104/c], substituted “2015” for “2007”.
+    Subsec. (a)(2). [Pub. L. 112–95][/us/pl/112/95], § 104(c), substituted “2015” for “2007”.
 
-    Subsec. (b)(2). [Pub. L. 112–95, § 104(d)][/us/pl/112/95/s104/d], substituted “Estimated level” for “Level” in heading and “estimated level of receipts plus interest” for “level of receipts plus interest” in text.
+    Subsec. (b)(2). [Pub. L. 112–95][/us/pl/112/95], § 104(d), substituted “Estimated level” for “Level” in heading and “estimated level of receipts plus interest” for “level of receipts plus interest” in text.
 
-    Subsec. (c)(2). [Pub. L. 112–95, § 104(e)][/us/pl/112/95/s104/e], substituted “2015” for “2007”.
+    Subsec. (c)(2). [Pub. L. 112–95][/us/pl/112/95], § 104(e), substituted “2015” for “2007”.
 
  __Effective Date__ 
 
@@ -114,21 +114,21 @@
 
 [/us/pl/99/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
-[/us/pl/108/176/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs104%2Fa
+[/us/pl/108/176/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtI
 [/us/stat/117/2496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2496
-[/us/pl/112/95/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs104
+[/us/pl/112/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtI
 [/us/stat/126/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F16
-[/us/pl/114/55/s106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F55%2Fs106%2Fa
+[/us/pl/114/55/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F55%2FtI
 [/us/stat/129/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F524
 [/us/usc/t26/s9502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9502
 [/us/usc/t2/s907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs907
-[/us/pl/114/55/s106/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F55%2Fs106%2Fa%2F1
-[/us/pl/114/55/s106/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F55%2Fs106%2Fa%2F2
-[/us/pl/112/95/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs104%2Fa
-[/us/pl/112/95/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs104%2Fb
-[/us/pl/112/95/s104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs104%2Fc
-[/us/pl/112/95/s104/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs104%2Fd
-[/us/pl/112/95/s104/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs104%2Fe
+[/us/pl/114/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F55
+[/us/pl/114/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F55
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
 [/us/pl/108/176/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106
 [/us/pl/111/314/s4/d/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314%2Fs4%2Fd%2F8

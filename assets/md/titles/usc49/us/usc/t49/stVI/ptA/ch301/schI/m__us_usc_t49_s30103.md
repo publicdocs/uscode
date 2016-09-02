@@ -41,7 +41,7 @@
 
     Compliance with a motor vehicle safety standard prescribed under this chapter does not exempt a person from liability at common law.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 943][/us/stat/108/943]; [Pub. L. 104–88, title III, § 308(j)][/us/pl/104/88/s308/j], Dec. 29, 1995, [109 Stat. 947][/us/stat/109/947].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 943][/us/stat/108/943]; [Pub. L. 104–88, title III][/us/pl/104/88/tIII], § 308(j), Dec. 29, 1995, [109 Stat. 947][/us/stat/109/947].)
 
 <table>
 
@@ -204,9 +204,9 @@ In subsection (a), the words “or the Transportation of Explosives Act, as amen
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F943
-[/us/pl/104/88/s308/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs308%2Fj
+[/us/pl/104/88/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtIII
 [/us/stat/109/947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F947
 [/us/usc/t18/s831–835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs831%E2%80%93835
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88

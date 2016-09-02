@@ -27,7 +27,7 @@
 
     An officer or employee required to submit to toxicological testing may not assert failure to comply with this section as a claim, cause of action, or defense in an administrative or judicial proceeding.
 
-([Pub. L. 103–272, § 4(j)(10)(A)][/us/pl/103/272/s4/j/10/A], July 5, 1994, [108 Stat. 1368][/us/stat/108/1368].)
+([Pub. L. 103–272][/us/pl/103/272], § 4(j)(10)(A), July 5, 1994, [108 Stat. 1368][/us/stat/108/1368].)
 
 <table>
 
@@ -90,7 +90,7 @@ Nov. 28, 1990, Pub. L. 101–641, § 5, 104 Stat. 4656.  </td>
 ----------
 ----------
 
-[/us/pl/103/272/s4/j/10/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs4%2Fj%2F10%2FA
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1368
 
 

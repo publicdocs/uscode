@@ -23,7 +23,7 @@
 
     Subsection (a) of this section does not apply to chapter 401 (except sections 40103(a) and (d), 40105, 40116, and 40117), chapter 441 (except section 44109), chapter 445, chapter 447 (except section 44718(a)), and chapter 449 (except sections 44902, 44903(d), 44904, and 44907–44909) of this title.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1240][/us/stat/108/1240]; [Pub. L. 104–287, § 5(79)][/us/pl/104/287/s5/79], Oct. 11, 1996, [110 Stat. 3397][/us/stat/110/3397]; [Pub. L. 105–102, § 3(d)(1)(D)][/us/pl/105/102/s3/d/1/D], Nov. 20, 1997, [111 Stat. 2215][/us/stat/111/2215]; [Pub. L. 107–71, title I, § 140(d)(7)][/us/pl/107/71/s140/d/7], Nov. 19, 2001, [115 Stat. 642][/us/stat/115/642].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1240][/us/stat/108/1240]; [Pub. L. 104–287][/us/pl/104/287], § 5(79), Oct. 11, 1996, [110 Stat. 3397][/us/stat/110/3397]; [Pub. L. 105–102][/us/pl/105/102], § 3(d)(1)(D), Nov. 20, 1997, [111 Stat. 2215][/us/stat/111/2215]; [Pub. L. 107–71, title I][/us/pl/107/71/tI], § 140(d)(7), Nov. 19, 2001, [115 Stat. 642][/us/stat/115/642].)
 
 <table>
 
@@ -129,7 +129,7 @@ In subsection (a), the word “prescribed” is added for consistency in the rev
 
  __Effective Date of 1997 Amendment__ 
 
-    [Pub. L. 105–102, § 3(d)][/us/pl/105/102/s3/d], Nov. 20, 1997, [111 Stat. 2215][/us/stat/111/2215], provided that the amendment made by section 3(d)(1)(D) is effective Oct. 11, 1996.
+    [Pub. L. 105–102][/us/pl/105/102], § 3(d), Nov. 20, 1997, [111 Stat. 2215][/us/stat/111/2215], provided that the amendment made by section 3(d)(1)(D) is effective Oct. 11, 1996.
 
     Amendment by [Pub. L. 105–102][/us/pl/105/102] effective as if included in the provisions of the Act to which the amendment relates, see [section 3(f) of Pub. L. 105–102][/us/pl/105/102/s3/f], set out as a note under [section 106 of this title][/us/usc/t49/s106].
 
@@ -148,13 +148,13 @@ In subsection (a), the word “prescribed” is added for consistency in the rev
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1240
-[/us/pl/104/287/s5/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F79
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3397
-[/us/pl/105/102/s3/d/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102%2Fs3%2Fd%2F1%2FD
+[/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/stat/111/2215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2215
-[/us/pl/107/71/s140/d/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs140%2Fd%2F7
+[/us/pl/107/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2FtI
 [/us/stat/115/642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F642
 [/us/pl/85/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F726
 [/us/stat/72/784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F784
@@ -164,7 +164,7 @@ In subsection (a), the word “prescribed” is added for consistency in the rev
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
-[/us/pl/105/102/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102%2Fs3%2Fd
+[/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/stat/111/2215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2215
 [/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/pl/105/102/s3/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102%2Fs3%2Ff

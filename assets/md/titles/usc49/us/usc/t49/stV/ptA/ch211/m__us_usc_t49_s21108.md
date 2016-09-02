@@ -47,7 +47,7 @@
 
     For purposes of this section, the term “directly affected covered service employees” means covered service employees to whose hours of service the terms of the waiver petitioned for specifically apply.
 
-(Added [Pub. L. 103–440, title II, § 203(a)][/us/pl/103/440/s203/a], Nov. 2, 1994, [108 Stat. 4619][/us/stat/108/4619]; amended [Pub. L. 110–432, div. A, title I, § 110][/us/pl/110/432/s110], Oct. 16, 2008, [122 Stat. 4867][/us/stat/122/4867].)
+(Added [Pub. L. 103–440, title II][/us/pl/103/440/tII], § 203(a), Nov. 2, 1994, [108 Stat. 4619][/us/stat/108/4619]; amended [Pub. L. 110–432, div. A, title I][/us/pl/110/432/dA/tI], § 110, Oct. 16, 2008, [122 Stat. 4867][/us/stat/122/4867].)
 
  __References in Text__ 
 
@@ -64,9 +64,9 @@
 ----------
 ----------
 
-[/us/pl/103/440/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F440%2Fs203%2Fa
+[/us/pl/103/440/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F440%2FtII
 [/us/stat/108/4619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4619
-[/us/pl/110/432/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs110
+[/us/pl/110/432/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdA%2FtI
 [/us/stat/122/4867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4867
 [/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
 [/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432

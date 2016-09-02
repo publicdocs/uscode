@@ -27,7 +27,7 @@
 
     The Secretary shall assist the 3 airports serving the District of Columbia metropolitan area in planning for operational and capital improvements at those airports and shall accelerate consideration of applications for United States Government financial assistance by whichever of the 3 airports is most in need of increasing airside capacity.
 
-(Added [Pub. L. 105–102, § 2(26)][/us/pl/105/102/s2/26], Nov. 20, 1997, [111 Stat. 2210][/us/stat/111/2210]; amended [Pub. L. 105–154, § 2(a)(1)(D)][/us/pl/105/154/s2/a/1/D], Feb. 6, 1998, [112 Stat. 3][/us/stat/112/3].)
+(Added [Pub. L. 105–102][/us/pl/105/102], § 2(26), Nov. 20, 1997, [111 Stat. 2210][/us/stat/111/2210]; amended [Pub. L. 105–154][/us/pl/105/154], § 2(a)(1)(D), Feb. 6, 1998, [112 Stat. 3][/us/stat/112/3].)
 
 <table>
 
@@ -138,9 +138,9 @@ Oct. 30, 1986, Pub. L. 99–591, title VI, § 6006(b), 100 Stat. 3341–382.  
 ----------
 ----------
 
-[/us/pl/105/102/s2/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102%2Fs2%2F26
+[/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/stat/111/2210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2210
-[/us/pl/105/154/s2/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F154%2Fs2%2Fa%2F1%2FD
+[/us/pl/105/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F154
 [/us/stat/112/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3
 [/us/usc/t49/s50105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs50105
 [/us/pl/105/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F154

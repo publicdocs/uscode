@@ -55,7 +55,7 @@
 
         This subsection shall not apply in the case of an accident that results in a loss of life.
 
-(Added [Pub. L. 104–264, title IV, § 407(a)(1)][/us/pl/104/264/s407/a/1], Oct. 9, 1996, [110 Stat. 3257][/us/stat/110/3257]; amended [Pub. L. 108–168, § 5][/us/pl/108/168/s5], Dec. 6, 2003, [117 Stat. 2034][/us/stat/117/2034].)
+(Added [Pub. L. 104–264, title IV][/us/pl/104/264/tIV], § 407(a)(1), Oct. 9, 1996, [110 Stat. 3257][/us/stat/110/3257]; amended [Pub. L. 108–168][/us/pl/108/168], § 5, Dec. 6, 2003, [117 Stat. 2034][/us/stat/117/2034].)
 
  __References in Text__ 
 
@@ -76,9 +76,9 @@
 ----------
 ----------
 
-[/us/pl/104/264/s407/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs407%2Fa%2F1
+[/us/pl/104/264/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2FtIV
 [/us/stat/110/3257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3257
-[/us/pl/108/168/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F168%2Fs5
+[/us/pl/108/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F168
 [/us/stat/117/2034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2034
 [/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
 [/us/pl/108/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F168

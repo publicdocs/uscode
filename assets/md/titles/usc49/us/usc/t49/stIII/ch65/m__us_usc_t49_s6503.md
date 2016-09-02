@@ -97,7 +97,7 @@
 
         (2) includes a description of the extent to which the research and development is or is not successfully meeting the purposes described under subsection (c)(1).
 
-(Added [Pub. L. 114–94, div. A, title VI, § 6019(b)(1)][/us/pl/114/94/s6019/b/1], Dec. 4, 2015, [129 Stat. 1580][/us/stat/129/1580].)
+(Added [Pub. L. 114–94, div. A, title VI][/us/pl/114/94/dA/tVI], § 6019(b)(1), Dec. 4, 2015, [129 Stat. 1580][/us/stat/129/1580].)
 
  __References in Text__ 
 
@@ -115,7 +115,7 @@
 ----------
 
 [/us/usc/t5/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs306
-[/us/pl/114/94/s6019/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs6019%2Fb%2F1
+[/us/pl/114/94/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtVI
 [/us/stat/129/1580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1580
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003

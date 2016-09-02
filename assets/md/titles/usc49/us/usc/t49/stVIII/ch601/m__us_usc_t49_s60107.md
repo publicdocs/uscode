@@ -53,7 +53,7 @@
 
             (C) provide for approval of qualifications on a conditional basis until specified requirements are met.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1311][/us/stat/108/1311]; [Pub. L. 104–304, § 20(c)][/us/pl/104/304/s20/c], Oct. 12, 1996, [110 Stat. 3804][/us/stat/110/3804]; [Pub. L. 109–468, § 2(c)][/us/pl/109/468/s2/c], (d), Dec. 29, 2006, [120 Stat. 3489][/us/stat/120/3489]; [Pub. L. 112–90, § 19][/us/pl/112/90/s19], Jan. 3, 2012, [125 Stat. 1916][/us/stat/125/1916].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1311][/us/stat/108/1311]; [Pub. L. 104–304][/us/pl/104/304], § 20(c), Oct. 12, 1996, [110 Stat. 3804][/us/stat/110/3804]; [Pub. L. 109–468][/us/pl/109/468], § 2(c), (d), Dec. 29, 2006, [120 Stat. 3489][/us/stat/120/3489]; [Pub. L. 112–90][/us/pl/112/90], § 19, Jan. 3, 2012, [125 Stat. 1916][/us/stat/125/1916].)
 
 <table>
 
@@ -279,9 +279,9 @@ Nov. 30, 1979, Pub. L. 96–129, 93 Stat. 989, § 205(d)(5); added Oct. 31, 19
 
     2012—Subsec. (b). [Pub. L. 112–90][/us/pl/112/90] inserted at end “For each of fiscal years 2012 and 2013, the Secretary shall grant such a waiver to a State if the State can demonstrate an inability to maintain or increase the required funding share of its safety program at or above the level required by this subsection due to economic hardship in that State. For fiscal year 2014, and each fiscal year thereafter, the Secretary may grant such a waiver to a State if the State can make the demonstration described in the preceding sentence.”
 
-    2006—Subsec. (a). [Pub. L. 109–468, § 2(c)][/us/pl/109/468/s2/c], substituted “not more than 80 percent” for “not more than 50 percent” in introductory provisions.
+    2006—Subsec. (a). [Pub. L. 109–468][/us/pl/109/468], § 2(c), substituted “not more than 80 percent” for “not more than 50 percent” in introductory provisions.
 
-    Subsec. (b). [Pub. L. 109–468, § 2(d)][/us/pl/109/468/s2/d], substituted “spent for gas and hazardous liquid safety programs for the 3 fiscal years prior to the fiscal year in which the Secretary makes the payment, except when the Secretary waives this requirement.” for “spent—
+    Subsec. (b). [Pub. L. 109–468][/us/pl/109/468], § 2(d), substituted “spent for gas and hazardous liquid safety programs for the 3 fiscal years prior to the fiscal year in which the Secretary makes the payment, except when the Secretary waives this requirement.” for “spent—
 
     “(1) for a gas safety program, for the fiscal years that ended June 30, 1967, and June 30, 1968; and
 
@@ -298,17 +298,17 @@ Nov. 30, 1979, Pub. L. 96–129, 93 Stat. 989, § 205(d)(5); added Oct. 31, 19
 
 [/us/usc/t49/s60105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs60105
 [/us/usc/t49/s60106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs60106
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1311
-[/us/pl/104/304/s20/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304%2Fs20%2Fc
+[/us/pl/104/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304
 [/us/stat/110/3804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3804
-[/us/pl/109/468/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F468%2Fs2%2Fc
+[/us/pl/109/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F468
 [/us/stat/120/3489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3489
-[/us/pl/112/90/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90%2Fs19
+[/us/pl/112/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90
 [/us/stat/125/1916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1916
 [/us/pl/112/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90
-[/us/pl/109/468/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F468%2Fs2%2Fc
-[/us/pl/109/468/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F468%2Fs2%2Fd
+[/us/pl/109/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F468
+[/us/pl/109/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F468
 [/us/pl/104/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304
 
 

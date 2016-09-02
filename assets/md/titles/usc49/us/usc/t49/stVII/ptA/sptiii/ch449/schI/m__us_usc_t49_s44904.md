@@ -49,7 +49,7 @@
 
     The Under Secretary shall take necessary actions to improve domestic air transportation security by correcting any deficiencies in that security discovered in the assessments, analyses, and monitoring carried out under this section.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1207][/us/stat/108/1207]; [Pub. L. 107–71, title I, § 101(f)(1)][/us/pl/107/71/s101/f/1], (7), (9), Nov. 19, 2001, [115 Stat. 603][/us/stat/115/603]; [Pub. L. 108–458, title IV, § 4001(b)][/us/pl/108/458/s4001/b], Dec. 17, 2004, [118 Stat. 3712][/us/stat/118/3712].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1207][/us/stat/108/1207]; [Pub. L. 107–71, title I][/us/pl/107/71/tI], § 101(f)(1), (7), (9), Nov. 19, 2001, [115 Stat. 603][/us/stat/115/603]; [Pub. L. 108–458, title IV][/us/pl/108/458/tIV], § 4001(b), Dec. 17, 2004, [118 Stat. 3712][/us/stat/118/3712].)
 
 <table>
 
@@ -137,19 +137,19 @@ Nov. 16, 1990, Pub. L. 101–604, § 106(e), 104 Stat. 3075.  </td>
 
  __References in Text__ 
 
-    Section 114(t), referred to in subsecs. (c) and (d), was redesignated section 114(s) by [Pub. L. 110–161, div. E, title V, § 568(a)][/us/pl/110/161/s568/a], Dec. 26, 2007, [121 Stat. 2092][/us/stat/121/2092].
+    Section 114(t), referred to in subsecs. (c) and (d), was redesignated section 114(s) by [Pub. L. 110–161, div. E, title V][/us/pl/110/161/dE/tV], § 568(a), Dec. 26, 2007, [121 Stat. 2092][/us/stat/121/2092].
 
  __Amendments__ 
 
     2004—Subsecs. (c) to (e). [Pub. L. 108–458][/us/pl/108/458] added subsecs. (c) and (d) and redesignated former subsec. (c) as (e).
 
-    2001—Subsec. (a). [Pub. L. 107–71, § 101(f)(7)][/us/pl/107/71/s101/f/7], (9), substituted “Under Secretary” for “Administrator” in two places and “of Transportation for Security” for “of the Federal Aviation Administration”.
+    2001—Subsec. (a). [Pub. L. 107–71][/us/pl/107/71], § 101(f)(7), (9), substituted “Under Secretary” for “Administrator” in two places and “of Transportation for Security” for “of the Federal Aviation Administration”.
 
-    Subsec. (b). [Pub. L. 107–71, § 101(f)(7)][/us/pl/107/71/s101/f/7], substituted “Under Secretary” for “Administrator” in introductory provisions.
+    Subsec. (b). [Pub. L. 107–71][/us/pl/107/71], § 101(f)(7), substituted “Under Secretary” for “Administrator” in introductory provisions.
 
-    Subsec. (b)(5). [Pub. L. 107–71, § 101(f)(1)][/us/pl/107/71/s101/f/1], substituted “the Transportation Security Administration” for “the Administration”.
+    Subsec. (b)(5). [Pub. L. 107–71][/us/pl/107/71], § 101(f)(1), substituted “the Transportation Security Administration” for “the Administration”.
 
-    Subsec. (c). [Pub. L. 107–71, § 101(f)(7)][/us/pl/107/71/s101/f/7], substituted “Under Secretary” for “Administrator”.
+    Subsec. (c). [Pub. L. 107–71][/us/pl/107/71], § 101(f)(7), substituted “Under Secretary” for “Administrator”.
 
  __Transfer of Functions__ 
 
@@ -163,7 +163,7 @@ Nov. 16, 1990, Pub. L. 101–604, § 106(e), 104 Stat. 3075.  </td>
 
  __Regular Joint Threat Assessments__ 
 
-[Pub. L. 104–264, title III, § 310][/us/pl/104/264/s310], Oct. 9, 1996, [110 Stat. 3253][/us/stat/110/3253], provided that: 
+[Pub. L. 104–264, title III][/us/pl/104/264/tIII], § 310, Oct. 9, 1996, [110 Stat. 3253][/us/stat/110/3253], provided that: 
 
 > “The Administrator of the Federal Aviation Administration and the Director of the Federal Bureau of Investigation shall carry out joint threat and vulnerability assessments on security every 3 years, or more frequently, as necessary, at each airport determined to be high risk.”
 
@@ -174,23 +174,23 @@ Nov. 16, 1990, Pub. L. 101–604, § 106(e), 104 Stat. 3075.  </td>
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1207
-[/us/pl/107/71/s101/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs101%2Ff%2F1
+[/us/pl/107/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2FtI
 [/us/stat/115/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F603
-[/us/pl/108/458/s4001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs4001%2Fb
+[/us/pl/108/458/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtIV
 [/us/stat/118/3712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3712
-[/us/pl/110/161/s568/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs568%2Fa
+[/us/pl/110/161/dE/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdE%2FtV
 [/us/stat/121/2092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2092
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
-[/us/pl/107/71/s101/f/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs101%2Ff%2F7
-[/us/pl/107/71/s101/f/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs101%2Ff%2F7
-[/us/pl/107/71/s101/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs101%2Ff%2F1
-[/us/pl/107/71/s101/f/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs101%2Ff%2F7
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551
-[/us/pl/104/264/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs310
+[/us/pl/104/264/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2FtIII
 [/us/stat/110/3253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3253
 
 

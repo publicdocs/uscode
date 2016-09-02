@@ -57,7 +57,7 @@
 
         Nothing in this section may be construed as interfering with, nullifying, or otherwise affecting determinations made by the Federal Aviation Administration, or to be made by the Administration, with respect to applications under part 161 of title 14, Code of Federal Regulations, that were pending on the date of enactment of this section.
 
-(Added [Pub. L. 112–95, title V, § 506(a)][/us/pl/112/95/s506/a], Feb. 14, 2012, [126 Stat. 105][/us/stat/126/105].)
+(Added [Pub. L. 112–95, title V][/us/pl/112/95/tV], § 506(a), Feb. 14, 2012, [126 Stat. 105][/us/stat/126/105].)
 
  __References in Text__ 
 
@@ -70,7 +70,7 @@
 ----------
 ----------
 
-[/us/pl/112/95/s506/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs506%2Fa
+[/us/pl/112/95/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtV
 [/us/stat/126/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F105
 [/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
 

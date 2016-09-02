@@ -27,7 +27,7 @@
 
         (2) may exempt a person or class under the regulations.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1166][/us/stat/108/1166].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1166][/us/stat/108/1166].)
 
 <table>
 
@@ -103,7 +103,7 @@ Oct. 27, 1986, Pub. L. 99–570, § 3401(d)(2), 100 Stat. 3207–102.  </td>
 ----------
 
 [/us/usc/t49/s44103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44103
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1166
 
 

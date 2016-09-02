@@ -23,7 +23,7 @@
 
     Notwithstanding [section 552 of title 5][/us/usc/t5/s552], the Secretary may disclose the identity of a complainant only if disclosure is necessary to prosecute a violation. If disclosure becomes necessary, the Secretary shall take every practical means within the Secretary’s authority to ensure that the complainant is not subject to harassment, intimidation, disciplinary action, discrimination, or financial loss because of the disclosure.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1012][/us/stat/108/1012].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1012][/us/stat/108/1012].)
 
 <table>
 
@@ -87,7 +87,7 @@ Oct. 30, 1984, Pub. L. 98–554, § 212, 98 Stat. 2841.  </td>
 
  __Telephone Hotline for Reporting Safety Violations__ 
 
-[Pub. L. 105–178, title IV, § 4017][/us/pl/105/178/s4017], June 9, 1998, [112 Stat. 413][/us/stat/112/413], as amended by [Pub. L. 106–159, title II, § 213][/us/pl/106/159/s213], Dec. 9, 1999, [113 Stat. 1766][/us/stat/113/1766], provided that:
+[Pub. L. 105–178, title IV][/us/pl/105/178/tIV], § 4017, June 9, 1998, [112 Stat. 413][/us/stat/112/413], as amended by [Pub. L. 106–159, title II][/us/pl/106/159/tII], § 213, Dec. 9, 1999, [113 Stat. 1766][/us/stat/113/1766], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -123,11 +123,11 @@ Oct. 30, 1984, Pub. L. 98–554, § 212, 98 Stat. 2841.  </td>
 ----------
 
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1012
-[/us/pl/105/178/s4017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4017
+[/us/pl/105/178/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtIV
 [/us/stat/112/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F413
-[/us/pl/106/159/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2Fs213
+[/us/pl/106/159/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2FtII
 [/us/stat/113/1766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1766
 [/us/usc/t49/s31105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31105
 [/us/usc/t49/s31105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31105

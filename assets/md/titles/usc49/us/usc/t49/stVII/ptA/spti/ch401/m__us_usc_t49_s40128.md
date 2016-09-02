@@ -343,7 +343,7 @@
 
         The term “Director” means the Director of the National Park Service.
 
-(Added [Pub. L. 106–181, title VIII, § 803(a)][/us/pl/106/181/s803/a], Apr. 5, 2000, [114 Stat. 186][/us/stat/114/186]; amended [Pub. L. 108–176, title III, § 323(a)][/us/pl/108/176/s323/a], Dec. 12, 2003, [117 Stat. 2541][/us/stat/117/2541]; [Pub. L. 109–115, div. A, title I, § 177][/us/pl/109/115/s177], Nov. 30, 2005, [119 Stat. 2427][/us/stat/119/2427]; [Pub. L. 112–95, title V, § 501][/us/pl/112/95/s501], Feb. 14, 2012, [126 Stat. 100][/us/stat/126/100]; [Pub. L. 112–141, div. C, title V, § 35002][/us/pl/112/141/s35002], July 6, 2012, [126 Stat. 843][/us/stat/126/843].)
+(Added [Pub. L. 106–181, title VIII][/us/pl/106/181/tVIII], § 803(a), Apr. 5, 2000, [114 Stat. 186][/us/stat/114/186]; amended [Pub. L. 108–176, title III][/us/pl/108/176/tIII], § 323(a), Dec. 12, 2003, [117 Stat. 2541][/us/stat/117/2541]; [Pub. L. 109–115, div. A, title I][/us/pl/109/115/dA/tI], § 177, Nov. 30, 2005, [119 Stat. 2427][/us/stat/119/2427]; [Pub. L. 112–95, title V][/us/pl/112/95/tV], § 501, Feb. 14, 2012, [126 Stat. 100][/us/stat/126/100]; [Pub. L. 112–141, div. C, title V][/us/pl/112/141/dC/tV], § 35002, July 6, 2012, [126 Stat. 843][/us/stat/126/843].)
 
  __References in Text__ 
 
@@ -353,43 +353,43 @@
 
  __Amendments__ 
 
-    2012—Subsec. (a)(1)(C). [Pub. L. 112–95, § 501(a)][/us/pl/112/95/s501/a], inserted “or voluntary agreement under subsection (b)(7)” before “for the park”.
+    2012—Subsec. (a)(1)(C). [Pub. L. 112–95][/us/pl/112/95], § 501(a), inserted “or voluntary agreement under subsection (b)(7)” before “for the park”.
 
-    Subsec. (a)(5). [Pub. L. 112–95, § 501(b)][/us/pl/112/95/s501/b], added par. (5).
+    Subsec. (a)(5). [Pub. L. 112–95][/us/pl/112/95], § 501(b), added par. (5).
 
     Subsec. (b)(1)(C). [Pub. L. 112–141][/us/pl/112/141] amended subpar. (C) generally. Prior to amendment, text read as follows: “An application to begin commercial air tour operations at Crater Lake National Park may be denied without the establishment of an air tour management plan by the Director of the National Park Service if the Director determines that such operations would adversely affect park resources or visitor experiences.”
 
-    [Pub. L. 112–95, § 501(c)(1)][/us/pl/112/95/s501/c/1], added subpar. (C).
+    [Pub. L. 112–95][/us/pl/112/95], § 501(c)(1), added subpar. (C).
 
-    Subsec. (b)(7). [Pub. L. 112–95, § 501(c)(2)][/us/pl/112/95/s501/c/2], added par. (7).
+    Subsec. (b)(7). [Pub. L. 112–95][/us/pl/112/95], § 501(c)(2), added par. (7).
 
-    Subsec. (c)(2)(I). [Pub. L. 112–95, § 501(d)(1)][/us/pl/112/95/s501/d/1], added subpar. (I) and struck out former subpar. (I) which read as follows: “shall allow for modifications of the interim operating authority based on experience if the modification improves protection of national park resources and values and of tribal lands.”
+    Subsec. (c)(2)(I). [Pub. L. 112–95][/us/pl/112/95], § 501(d)(1), added subpar. (I) and struck out former subpar. (I) which read as follows: “shall allow for modifications of the interim operating authority based on experience if the modification improves protection of national park resources and values and of tribal lands.”
 
-    Subsec. (c)(3)(A). [Pub. L. 112–95, § 501(d)(2)][/us/pl/112/95/s501/d/2], substituted “without further environmental process beyond that described in this paragraph, if—” for “if the Administrator determines the authority is necessary to ensure competition in the provision of commercial air tour operations over the park or tribal lands.” and added cls. (i) to (iii).
+    Subsec. (c)(3)(A). [Pub. L. 112–95][/us/pl/112/95], § 501(d)(2), substituted “without further environmental process beyond that described in this paragraph, if—” for “if the Administrator determines the authority is necessary to ensure competition in the provision of commercial air tour operations over the park or tribal lands.” and added cls. (i) to (iii).
 
-    Subsecs. (d) to (g). [Pub. L. 112–95, § 501(e)][/us/pl/112/95/s501/e], added subsec. (d) and redesignated former subsecs. (d) to (f) as (e) to (g), respectively.
+    Subsecs. (d) to (g). [Pub. L. 112–95][/us/pl/112/95], § 501(e), added subsec. (d) and redesignated former subsecs. (d) to (f) as (e) to (g), respectively.
 
     2005—Subsec. (e). [Pub. L. 109–115][/us/pl/109/115] inserted at end “For purposes of this subsection, an air tour operator flying over the Hoover Dam in the Lake Mead National Recreation Area en route to the Grand Canyon National Park shall be deemed to be flying solely as a transportation route.”
 
-    2003—Subsec. (a)(1). [Pub. L. 108–176, § 323(a)(1)][/us/pl/108/176/s323/a/1], inserted “, as defined by this section,” after “tribal lands” in introductory provisions.
+    2003—Subsec. (a)(1). [Pub. L. 108–176][/us/pl/108/176], § 323(a)(1), inserted “, as defined by this section,” after “tribal lands” in introductory provisions.
 
-    Subsec. (b)(3)(A), (B). [Pub. L. 108–176, § 323(a)(2)][/us/pl/108/176/s323/a/2], inserted “over a national park” after “operations”.
+    Subsec. (b)(3)(A), (B). [Pub. L. 108–176][/us/pl/108/176], § 323(a)(2), inserted “over a national park” after “operations”.
 
-    Subsec. (b)(3)(C). [Pub. L. 108–176, § 323(a)(3)][/us/pl/108/176/s323/a/3], inserted “over a national park that are also” after “operations”.
+    Subsec. (b)(3)(C). [Pub. L. 108–176][/us/pl/108/176], § 323(a)(3), inserted “over a national park that are also” after “operations”.
 
-    Subsec. (b)(3)(D). [Pub. L. 108–176, § 323(a)(4)][/us/pl/108/176/s323/a/4], substituted “over a national park” for “at the park”.
+    Subsec. (b)(3)(D). [Pub. L. 108–176][/us/pl/108/176], § 323(a)(4), substituted “over a national park” for “at the park”.
 
-    Subsec. (b)(3)(E). [Pub. L. 108–176, § 323(a)(5)][/us/pl/108/176/s323/a/5], inserted “over a national park” before “if the plan includes”.
+    Subsec. (b)(3)(E). [Pub. L. 108–176][/us/pl/108/176], § 323(a)(5), inserted “over a national park” before “if the plan includes”.
 
-    Subsec. (c)(2)(A)(i), (B). [Pub. L. 108–176, § 323(a)(6)][/us/pl/108/176/s323/a/6], inserted “over a national park” after “operations”.
+    Subsec. (c)(2)(A)(i), (B). [Pub. L. 108–176][/us/pl/108/176], § 323(a)(6), inserted “over a national park” after “operations”.
 
-    Subsec. (f)(1). [Pub. L. 108–176, § 323(a)(7)][/us/pl/108/176/s323/a/7], inserted “over a national park” after “operation”.
+    Subsec. (f)(1). [Pub. L. 108–176][/us/pl/108/176], § 323(a)(7), inserted “over a national park” after “operation”.
 
-    Subsec. (f)(4). [Pub. L. 108–176, § 323(a)(10)][/us/pl/108/176/s323/a/10], inserted “over a national park” after “operation” in heading.
+    Subsec. (f)(4). [Pub. L. 108–176][/us/pl/108/176], § 323(a)(10), inserted “over a national park” after “operation” in heading.
 
-    Subsec. (f)(4)(A). [Pub. L. 108–176, § 323(a)(8)][/us/pl/108/176/s323/a/8], in introductory provisions, substituted “commercial air tour operation over a national park” for “commercial air tour operation” and “park (except the Grand Canyon National Park), or over tribal lands (except those within or abutting the Grand Canyon National Park),” for “park, or over tribal lands,”.
+    Subsec. (f)(4)(A). [Pub. L. 108–176][/us/pl/108/176], § 323(a)(8), in introductory provisions, substituted “commercial air tour operation over a national park” for “commercial air tour operation” and “park (except the Grand Canyon National Park), or over tribal lands (except those within or abutting the Grand Canyon National Park),” for “park, or over tribal lands,”.
 
-    Subsec. (f)(4)(B). [Pub. L. 108–176, § 323(a)(9)][/us/pl/108/176/s323/a/9], inserted “over a national park” after “operation” in introductory provisions.
+    Subsec. (f)(4)(B). [Pub. L. 108–176][/us/pl/108/176], § 323(a)(9), inserted “over a national park” after “operation” in introductory provisions.
 
  __Effective Date of 2012 Amendment__ 
 
@@ -405,7 +405,7 @@
 
  __Overflights in Grand Canyon National Park__ 
 
-[Pub. L. 112–141, div. C, title V, § 35001][/us/pl/112/141/s35001], July 6, 2012, [126 Stat. 842][/us/stat/126/842], provided that:
+[Pub. L. 112–141, div. C, title V][/us/pl/112/141/dC/tV], § 35001, July 6, 2012, [126 Stat. 842][/us/stat/126/842], provided that:
 
 >     “(a) __Determinations With Respect to Substantial Restoration of Natural Quiet and Experience.—__ 
 
@@ -465,13 +465,13 @@
 
  __Grand Canyon Overflight Rules__ 
 
-[Pub. L. 109–115, div. A, title I, § 177][/us/pl/109/115/s177], Nov. 30, 2005, [119 Stat. 2427][/us/stat/119/2427], provided in part that: 
+[Pub. L. 109–115, div. A, title I][/us/pl/109/115/dA/tI], § 177, Nov. 30, 2005, [119 Stat. 2427][/us/stat/119/2427], provided in part that: 
 
 > “Nothing in this provision \[amending this section\] shall allow exemption from overflight rules for the Grand Canyon.”
 
  __Quiet Technology Rulemaking for Air Tours Over Grand Canyon National Park__ 
 
-[Pub. L. 108–176, title III, § 323(b)][/us/pl/108/176/s323/b], Dec. 12, 2003, [117 Stat. 2541][/us/stat/117/2541], provided that:
+[Pub. L. 108–176, title III][/us/pl/108/176/tIII], § 323(b), Dec. 12, 2003, [117 Stat. 2541][/us/stat/117/2541], provided that:
 
 >     “(1)  __Deadline for rule__  __.—__ 
 
@@ -483,7 +483,7 @@
 
  __National Parks Air Tour Management__ 
 
-[Pub. L. 106–181, title VIII][/us/pl/106/181], Apr. 5, 2000, [114 Stat. 185][/us/stat/114/185], as amended by [Pub. L. 106–528, § 8(b)][/us/pl/106/528/s8/b], Nov. 22, 2000, [114 Stat. 2522][/us/stat/114/2522], provided that:
+[Pub. L. 106–181, title VIII][/us/pl/106/181/tVIII], Apr. 5, 2000, [114 Stat. 185][/us/stat/114/185], as amended by [Pub. L. 106–528][/us/pl/106/528], § 8(b), Nov. 22, 2000, [114 Stat. 2522][/us/stat/114/2522], provided that:
 
 > “SEC. 801. __SHORT TITLE.__ 
 
@@ -647,7 +647,7 @@
 
  __Study To Determine Appropriate Minimum Altitude for Aircraft Flying Over National Park System Units__ 
 
-[Pub. L. 100–91][/us/pl/100/91], Aug. 18, 1987, [101 Stat. 674][/us/stat/101/674], as amended by [Pub. L. 106–510, § 3(a)(2)][/us/pl/106/510/s3/a/2], (b)(2), Nov. 13, 2000, [114 Stat. 2363][/us/stat/114/2363], provided that:
+[Pub. L. 100–91][/us/pl/100/91], Aug. 18, 1987, [101 Stat. 674][/us/stat/101/674], as amended by [Pub. L. 106–510][/us/pl/106/510], § 3(a)(2), (b)(2), Nov. 13, 2000, [114 Stat. 2363][/us/stat/114/2363], provided that:
 
 > “SECTION 1. __STUDY OF PARK OVERFLIGHTS.__ 
 
@@ -780,37 +780,37 @@
 
 [/us/usc/t42/s4332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4332
 [/us/usc/t18/s1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1151
-[/us/pl/106/181/s803/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs803%2Fa
+[/us/pl/106/181/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtVIII
 [/us/stat/114/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F186
-[/us/pl/108/176/s323/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs323%2Fa
+[/us/pl/108/176/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtIII
 [/us/stat/117/2541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2541
-[/us/pl/109/115/s177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F115%2Fs177
+[/us/pl/109/115/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F115%2FdA%2FtI
 [/us/stat/119/2427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2427
-[/us/pl/112/95/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs501
+[/us/pl/112/95/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtV
 [/us/stat/126/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F100
-[/us/pl/112/141/s35002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs35002
+[/us/pl/112/141/dC/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtV
 [/us/stat/126/843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F843
 [/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
-[/us/pl/112/95/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs501%2Fa
-[/us/pl/112/95/s501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs501%2Fb
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
-[/us/pl/112/95/s501/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs501%2Fc%2F1
-[/us/pl/112/95/s501/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs501%2Fc%2F2
-[/us/pl/112/95/s501/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs501%2Fd%2F1
-[/us/pl/112/95/s501/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs501%2Fd%2F2
-[/us/pl/112/95/s501/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs501%2Fe
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
 [/us/pl/109/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F115
-[/us/pl/108/176/s323/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs323%2Fa%2F1
-[/us/pl/108/176/s323/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs323%2Fa%2F2
-[/us/pl/108/176/s323/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs323%2Fa%2F3
-[/us/pl/108/176/s323/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs323%2Fa%2F4
-[/us/pl/108/176/s323/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs323%2Fa%2F5
-[/us/pl/108/176/s323/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs323%2Fa%2F6
-[/us/pl/108/176/s323/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs323%2Fa%2F7
-[/us/pl/108/176/s323/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs323%2Fa%2F10
-[/us/pl/108/176/s323/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs323%2Fa%2F8
-[/us/pl/108/176/s323/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs323%2Fa%2F9
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
@@ -819,20 +819,20 @@
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106
 [/us/pl/106/181/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106
-[/us/pl/112/141/s35001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs35001
+[/us/pl/112/141/dC/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtV
 [/us/stat/126/842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F842
 [/us/pl/100/91/s3/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F91%2Fs3%2Fb%2F1
 [/us/usc/t16/s1a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1a%E2%80%931
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
 [/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
-[/us/pl/109/115/s177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F115%2Fs177
+[/us/pl/109/115/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F115%2FdA%2FtI
 [/us/stat/119/2427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2427
-[/us/pl/108/176/s323/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs323%2Fb
+[/us/pl/108/176/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtIII
 [/us/stat/117/2541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2541
-[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/106/181/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtVIII
 [/us/stat/114/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F185
-[/us/pl/106/528/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F528%2Fs8%2Fb
+[/us/pl/106/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F528
 [/us/stat/114/2522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2522
 [/us/usc/t49/s40128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40128
 [/us/pl/100/91/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F91%2Fs3
@@ -845,7 +845,7 @@
 [/us/usc/t49/s40128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40128
 [/us/pl/100/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F91
 [/us/stat/101/674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F674
-[/us/pl/106/510/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F510%2Fs3%2Fa%2F2
+[/us/pl/106/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F510
 [/us/stat/114/2363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2363
 [/us/usc/t49/s40103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40103%2Fb
 [/us/usc/t49/s40101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40101

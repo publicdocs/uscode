@@ -37,7 +37,7 @@
 
     Nothing in this section may be construed to require disclosure of information or records that are exempt from disclosure under [section 552 of title 5][/us/usc/t5/s552].
 
-(Added [Pub. L. 112–90, § 6(c)(1)][/us/pl/112/90/s6/c/1], Jan. 3, 2012, [125 Stat. 1910][/us/stat/125/1910].)
+(Added [Pub. L. 112–90][/us/pl/112/90], § 6(c)(1), Jan. 3, 2012, [125 Stat. 1910][/us/stat/125/1910].)
 
 ----------
 
@@ -47,7 +47,7 @@
 ----------
 
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
-[/us/pl/112/90/s6/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90%2Fs6%2Fc%2F1
+[/us/pl/112/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90
 [/us/stat/125/1910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1910
 
 

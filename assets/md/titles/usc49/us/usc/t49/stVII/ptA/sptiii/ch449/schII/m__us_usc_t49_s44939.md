@@ -87,7 +87,7 @@
 
     The Secretary shall require flight schools to conduct a security awareness program for flight school employees to increase their awareness of suspicious circumstances and activities of individuals enrolling in or attending flight school.
 
-(Added [Pub. L. 107–71, title I, § 113(a)][/us/pl/107/71/s113/a], Nov. 19, 2001, [115 Stat. 622][/us/stat/115/622]; amended [Pub. L. 108–176, title VI, § 612(a)][/us/pl/108/176/s612/a], Dec. 12, 2003, [117 Stat. 2572][/us/stat/117/2572].)
+(Added [Pub. L. 107–71, title I][/us/pl/107/71/tI], § 113(a), Nov. 19, 2001, [115 Stat. 622][/us/stat/115/622]; amended [Pub. L. 108–176, title VI][/us/pl/108/176/tVI], § 612(a), Dec. 12, 2003, [117 Stat. 2572][/us/stat/117/2572].)
 
  __References in Text__ 
 
@@ -99,19 +99,19 @@
 
  __Effective Date of 2003 Amendment__ 
 
-[Pub. L. 108–176, title VI, § 612(c)][/us/pl/108/176/s612/c], Dec. 12, 2003, [117 Stat. 2574][/us/stat/117/2574], provided that: 
+[Pub. L. 108–176, title VI][/us/pl/108/176/tVI], § 612(c), Dec. 12, 2003, [117 Stat. 2574][/us/stat/117/2574], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] takes effect on the effective date of the interim final rule required by subsection (b)(1) \[set out below\] \[rule effective Sept. 20, 2004, see 69 F.R. 56323\].”
 
  __Effective Date__ 
 
-[Pub. L. 107–71, title I, § 113(d)][/us/pl/107/71/s113/d], Nov. 19, 2001, [115 Stat. 622][/us/stat/115/622], provided that: 
+[Pub. L. 107–71, title I][/us/pl/107/71/tI], § 113(d), Nov. 19, 2001, [115 Stat. 622][/us/stat/115/622], provided that: 
 
 > “The amendment made by subsection (a) \[enacting this section\] applies to applications for training received after the date of enactment of this Act \[Nov. 19, 2001\].”
 
  __Implementation__ 
 
-[Pub. L. 108–176, title VI, § 612(b)][/us/pl/108/176/s612/b], Dec. 12, 2003, [117 Stat. 2574][/us/stat/117/2574], provided that:
+[Pub. L. 108–176, title VI][/us/pl/108/176/tVI], § 612(b), Dec. 12, 2003, [117 Stat. 2574][/us/stat/117/2574], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -127,13 +127,13 @@
 
  __Report__ 
 
-[Pub. L. 108–176, title VI, § 612(d)][/us/pl/108/176/s612/d], Dec. 12, 2003, [117 Stat. 2574][/us/stat/117/2574], provided that: 
+[Pub. L. 108–176, title VI][/us/pl/108/176/tVI], § 612(d), Dec. 12, 2003, [117 Stat. 2574][/us/stat/117/2574], provided that: 
 
 > “Not later than 1 year after the date of enactment of this Act \[Dec. 12, 2003\], the Secretary of Homeland Security shall submit to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Transportation and Infrastructure a report on the effectiveness of the activities carried out under [section 44939 of title 49][/us/usc/t49/s44939], United States Code, in reducing risks to aviation security and national security.”
 
  __International Cooperation__ 
 
-[Pub. L. 107–71, title I, § 113(c)][/us/pl/107/71/s113/c], Nov. 19, 2001, [115 Stat. 622][/us/stat/115/622], provided that: 
+[Pub. L. 107–71, title I][/us/pl/107/71/tI], § 113(c), Nov. 19, 2001, [115 Stat. 622][/us/stat/115/622], provided that: 
 
 > “The Secretary of Transportation, in consultation with the Secretary of State, shall work with the International Civil Aviation Organization and the civil aviation authorities of other countries to improve international aviation security through screening programs for flight instruction candidates.”
 
@@ -149,25 +149,25 @@
 [/us/usc/t8/s1101/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F3
 [/us/usc/t49/s1546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1546
 [/us/usc/t31/s3302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3302
-[/us/pl/107/71/s113/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs113%2Fa
+[/us/pl/107/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2FtI
 [/us/stat/115/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F622
-[/us/pl/108/176/s612/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs612%2Fa
+[/us/pl/108/176/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtVI
 [/us/stat/117/2572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2572
 [/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
 [/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
-[/us/pl/108/176/s612/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs612%2Fc
+[/us/pl/108/176/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtVI
 [/us/stat/117/2574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2574
-[/us/pl/107/71/s113/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs113%2Fd
+[/us/pl/107/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2FtI
 [/us/stat/115/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F622
-[/us/pl/108/176/s612/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs612%2Fb
+[/us/pl/108/176/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtVI
 [/us/stat/117/2574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2574
 [/us/usc/t49/s44939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44939
 [/us/usc/t49/s44939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44939
 [/us/usc/t49/s44939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44939
-[/us/pl/108/176/s612/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs612%2Fd
+[/us/pl/108/176/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtVI
 [/us/stat/117/2574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2574
 [/us/usc/t49/s44939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44939
-[/us/pl/107/71/s113/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs113%2Fc
+[/us/pl/107/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2FtI
 [/us/stat/115/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F622
 
 

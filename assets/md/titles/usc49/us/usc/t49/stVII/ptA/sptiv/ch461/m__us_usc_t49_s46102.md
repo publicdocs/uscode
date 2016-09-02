@@ -31,7 +31,7 @@
 
     The Secretary, the Under Secretary, the Administrator, or an officer or employee of the Administration may not participate in a proceeding referred to in subsection (a) of this section in which the individual has a pecuniary interest.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1226][/us/stat/108/1226]; [Pub. L. 107–71, title I, § 140(b)(1)][/us/pl/107/71/s140/b/1], (2), (4)–(6), Nov. 19, 2001, [115 Stat. 641][/us/stat/115/641].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1226][/us/stat/108/1226]; [Pub. L. 107–71, title I][/us/pl/107/71/tI], § 140(b)(1), (2), (4)–(6), Nov. 19, 2001, [115 Stat. 641][/us/stat/115/641].)
 
 <table>
 
@@ -247,13 +247,13 @@ In subsection (b), the text of 49 App.:1481 (4th sentence words after last comma
 
  __Amendments__ 
 
-    2001—Subsec. (a). [Pub. L. 107–71, § 140(b)(1)][/us/pl/107/71/s140/b/1], inserted “the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or” after “(or”.
+    2001—Subsec. (a). [Pub. L. 107–71][/us/pl/107/71], § 140(b)(1), inserted “the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or” after “(or”.
 
-    Subsec. (b). [Pub. L. 107–71, § 140(b)(4)][/us/pl/107/71/s140/b/4], substituted “, the Under Secretary, and the Administrator” for “and the Administrator”.
+    Subsec. (b). [Pub. L. 107–71][/us/pl/107/71], § 140(b)(4), substituted “, the Under Secretary, and the Administrator” for “and the Administrator”.
 
-    Subsec. (c). [Pub. L. 107–71, § 140(b)(2)][/us/pl/107/71/s140/b/2], (5), substituted “, Under Secretary, and Administrator” for “and Administrator” in two places and “, Under Secretary, or Administrator” for “or Administrator”.
+    Subsec. (c). [Pub. L. 107–71][/us/pl/107/71], § 140(b)(2), (5), substituted “, Under Secretary, and Administrator” for “and Administrator” in two places and “, Under Secretary, or Administrator” for “or Administrator”.
 
-    Subsec. (d). [Pub. L. 107–71, § 140(b)(6)][/us/pl/107/71/s140/b/6], inserted “the Under Secretary,” after “Secretary,”.
+    Subsec. (d). [Pub. L. 107–71][/us/pl/107/71], § 140(b)(6), inserted “the Under Secretary,” after “Secretary,”.
 
  __Transfer of Functions__ 
 
@@ -267,16 +267,16 @@ In subsection (b), the text of 49 App.:1481 (4th sentence words after last comma
 ----------
 
 [/us/usc/t49/s40113/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40113%2Fa
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1226
-[/us/pl/107/71/s140/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs140%2Fb%2F1
+[/us/pl/107/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2FtI
 [/us/stat/115/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F641
 [/us/pl/85/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F726
 [/us/stat/72/775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F775
-[/us/pl/107/71/s140/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs140%2Fb%2F1
-[/us/pl/107/71/s140/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs140%2Fb%2F4
-[/us/pl/107/71/s140/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs140%2Fb%2F2
-[/us/pl/107/71/s140/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs140%2Fb%2F6
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 
 

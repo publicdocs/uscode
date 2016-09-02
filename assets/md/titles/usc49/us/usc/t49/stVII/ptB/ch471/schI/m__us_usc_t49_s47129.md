@@ -107,15 +107,15 @@
 
     In this section, the term “fee” means any rate, rental charge, landing fee, or other service charge for the use of airport facilities.
 
-(Added [Pub. L. 103–305, title I, § 113(a)(2)][/us/pl/103/305/s113/a/2], Aug. 23, 1994, [108 Stat. 1577][/us/stat/108/1577]; amended [Pub. L. 104–264, title I, § 149(d)][/us/pl/104/264/s149/d], Oct. 9, 1996, [110 Stat. 3227][/us/stat/110/3227]; [Pub. L. 104–287, § 5(85)][/us/pl/104/287/s5/85], Oct. 11, 1996, [110 Stat. 3397][/us/stat/110/3397]; [Pub. L. 112–95, title I, § 148(a)][/us/pl/112/95/s148/a], Feb. 14, 2012, [126 Stat. 31][/us/stat/126/31].)
+(Added [Pub. L. 103–305, title I][/us/pl/103/305/tI], § 113(a)(2), Aug. 23, 1994, [108 Stat. 1577][/us/stat/108/1577]; amended [Pub. L. 104–264, title I][/us/pl/104/264/tI], § 149(d), Oct. 9, 1996, [110 Stat. 3227][/us/stat/110/3227]; [Pub. L. 104–287][/us/pl/104/287], § 5(85), Oct. 11, 1996, [110 Stat. 3397][/us/stat/110/3397]; [Pub. L. 112–95, title I][/us/pl/112/95/tI], § 148(a), Feb. 14, 2012, [126 Stat. 31][/us/stat/126/31].)
 
  __Historical and Revision Notes__ 
 
- __[__  __Pub. L. 104–287, § 5(85)(A)__  __][/us/pl/104/287/s5/85/A]__ 
+ __[__  __Pub. L. 104–287__  __][/us/pl/104/287]__  __, § 5(85)(A)__ 
 
     This amends 49:47129(a)(1) to conform to the style of title 49.
 
- __[__  __Pub. L. 104–287, § 5(85)(B)__  __][/us/pl/104/287/s5/85/B]__  __and (C)__ 
+ __[__  __Pub. L. 104–287__  __][/us/pl/104/287]__  __, § 5(85)(B) and (C)__ 
 
 These set out the date of enactment of 49:47129.
 
@@ -125,33 +125,33 @@ These set out the date of enactment of 49:47129.
 
  __Amendments__ 
 
-    2012—[Pub. L. 112–95, § 148(a)(1)][/us/pl/112/95/s148/a/1], substituted “Resolution of disputes concerning airport fees” for “Resolution of airport-air carrier disputes concerning airport fees” in section catchline.
+    2012—[Pub. L. 112–95][/us/pl/112/95], § 148(a)(1), substituted “Resolution of disputes concerning airport fees” for “Resolution of airport-air carrier disputes concerning airport fees” in section catchline.
 
-    Subsec. (a)(1). [Pub. L. 112–95, § 148(a)(6)][/us/pl/112/95/s148/a/6], (7), substituted “air carriers or foreign air carriers” for “air carriers” and “(as those terms are defined in section 40102)” for “(as defined in [section 40102 of this title][/us/usc/t49/s40102])” in introductory provisions.
+    Subsec. (a)(1). [Pub. L. 112–95][/us/pl/112/95], § 148(a)(6), (7), substituted “air carriers or foreign air carriers” for “air carriers” and “(as those terms are defined in section 40102)” for “(as defined in [section 40102 of this title][/us/usc/t49/s40102])” in introductory provisions.
 
-    Subsec. (a)(1)(B). [Pub. L. 112–95, § 148(a)(4)][/us/pl/112/95/s148/a/4], substituted “air carrier or foreign air carrier” for “air carrier”.
+    Subsec. (a)(1)(B). [Pub. L. 112–95][/us/pl/112/95], § 148(a)(4), substituted “air carrier or foreign air carrier” for “air carrier”.
 
-    Subsec. (c)(1). [Pub. L. 112–95, § 148(a)(4)][/us/pl/112/95/s148/a/4], substituted “air carrier or foreign air carrier” for “air carrier”.
+    Subsec. (c)(1). [Pub. L. 112–95][/us/pl/112/95], § 148(a)(4), substituted “air carrier or foreign air carrier” for “air carrier”.
 
-    Subsec. (d). [Pub. L. 112–95, § 148(a)(2)][/us/pl/112/95/s148/a/2], inserted “and Foreign Air Carrier” after “Carrier” in heading.
+    Subsec. (d). [Pub. L. 112–95][/us/pl/112/95], § 148(a)(2), inserted “and Foreign Air Carrier” after “Carrier” in heading.
 
-    Subsec. (d)(1)(A) to (C). [Pub. L. 112–95, § 148(a)(4)][/us/pl/112/95/s148/a/4], substituted “air carrier or foreign air carrier” for “air carrier” wherever appearing.
+    Subsec. (d)(1)(A) to (C). [Pub. L. 112–95][/us/pl/112/95], § 148(a)(4), substituted “air carrier or foreign air carrier” for “air carrier” wherever appearing.
 
-    Subsec. (d)(2). [Pub. L. 112–95, § 148(a)(3)][/us/pl/112/95/s148/a/3]–(5), inserted “and foreign air carrier” after “carrier” in heading and, in text, substituted “air carrier’s or foreign air carrier’s” for “air carrier’s” in two places and “air carrier or foreign air carrier” for “air carrier”.
+    Subsec. (d)(2). [Pub. L. 112–95][/us/pl/112/95], § 148(a)(3)–(5), inserted “and foreign air carrier” after “carrier” in heading and, in text, substituted “air carrier’s or foreign air carrier’s” for “air carrier’s” in two places and “air carrier or foreign air carrier” for “air carrier”.
 
-    Subsec. (e)(1). [Pub. L. 112–95, § 148(a)(6)][/us/pl/112/95/s148/a/6], substituted “air carriers or foreign air carriers” for “air carriers”.
+    Subsec. (e)(1). [Pub. L. 112–95][/us/pl/112/95], § 148(a)(6), substituted “air carriers or foreign air carriers” for “air carriers”.
 
-    Subsec. (f)(1). [Pub. L. 112–95, § 148(a)(4)][/us/pl/112/95/s148/a/4], substituted “air carrier or foreign air carrier” for “air carrier”.
+    Subsec. (f)(1). [Pub. L. 112–95][/us/pl/112/95], § 148(a)(4), substituted “air carrier or foreign air carrier” for “air carrier”.
 
-    1996—Subsec. (a)(1). [Pub. L. 104–287, § 5(85)(A)][/us/pl/104/287/s5/85/A], substituted “of this title” for “of this subtitle” in introductory provisions.
+    1996—Subsec. (a)(1). [Pub. L. 104–287][/us/pl/104/287], § 5(85)(A), substituted “of this title” for “of this subtitle” in introductory provisions.
 
     Subsec. (a)(4). [Pub. L. 104–264][/us/pl/104/264] added par. (4).
 
-    Subsecs. (b), (e)(2). [Pub. L. 104–287, § 5(85)(B)][/us/pl/104/287/s5/85/B], substituted “August 23, 1994” for “the date of the enactment of this section”.
+    Subsecs. (b), (e)(2). [Pub. L. 104–287][/us/pl/104/287], § 5(85)(B), substituted “August 23, 1994” for “the date of the enactment of this section”.
 
-    Subsec. (e)(3). [Pub. L. 104–287, § 5(85)(C)][/us/pl/104/287/s5/85/C], substituted “August 23, 1994” for “such date of enactment”.
+    Subsec. (e)(3). [Pub. L. 104–287][/us/pl/104/287], § 5(85)(C), substituted “August 23, 1994” for “such date of enactment”.
 
-    Subsec. (f)(2). [Pub. L. 104–287, § 5(85)(B)][/us/pl/104/287/s5/85/B], substituted “August 23, 1994” for “the date of the enactment of this section”.
+    Subsec. (f)(2). [Pub. L. 104–287][/us/pl/104/287], § 5(85)(B), substituted “August 23, 1994” for “the date of the enactment of this section”.
 
  __Effective Date of 1996 Amendment__ 
 
@@ -165,32 +165,32 @@ These set out the date of enactment of 49:47129.
 ----------
 
 [/us/usc/t49/s47134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs47134
-[/us/pl/103/305/s113/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2Fs113%2Fa%2F2
+[/us/pl/103/305/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2FtI
 [/us/stat/108/1577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1577
-[/us/pl/104/264/s149/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs149%2Fd
+[/us/pl/104/264/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2FtI
 [/us/stat/110/3227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3227
-[/us/pl/104/287/s5/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F85
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3397
-[/us/pl/112/95/s148/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs148%2Fa
+[/us/pl/112/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtI
 [/us/stat/126/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F31
-[/us/pl/104/287/s5/85/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F85%2FA
-[/us/pl/104/287/s5/85/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F85%2FB
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/usc/t49/s47131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs47131
-[/us/pl/112/95/s148/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs148%2Fa%2F1
-[/us/pl/112/95/s148/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs148%2Fa%2F6
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
 [/us/usc/t49/s40102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40102
-[/us/pl/112/95/s148/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs148%2Fa%2F4
-[/us/pl/112/95/s148/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs148%2Fa%2F4
-[/us/pl/112/95/s148/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs148%2Fa%2F2
-[/us/pl/112/95/s148/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs148%2Fa%2F4
-[/us/pl/112/95/s148/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs148%2Fa%2F3
-[/us/pl/112/95/s148/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs148%2Fa%2F6
-[/us/pl/112/95/s148/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs148%2Fa%2F4
-[/us/pl/104/287/s5/85/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F85%2FA
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
-[/us/pl/104/287/s5/85/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F85%2FB
-[/us/pl/104/287/s5/85/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F85%2FC
-[/us/pl/104/287/s5/85/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F85%2FB
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
 [/us/pl/104/264/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106

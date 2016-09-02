@@ -23,7 +23,7 @@
 
     For purposes of this section, the term “solid waste” has the meaning given that term in section 1004(27) of the Solid Waste Disposal Act ([42 U.S.C. 6903(27)][/us/usc/t42/s6903/27]).
 
-(Added [Pub. L. 104–304, § 18(a)][/us/pl/104/304/s18/a], Oct. 12, 1996, [110 Stat. 3804][/us/stat/110/3804].)
+(Added [Pub. L. 104–304][/us/pl/104/304], § 18(a), Oct. 12, 1996, [110 Stat. 3804][/us/stat/110/3804].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t42/s6903/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6903%2F27
-[/us/pl/104/304/s18/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304%2Fs18%2Fa
+[/us/pl/104/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304
 [/us/stat/110/3804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3804
 
 

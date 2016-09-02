@@ -27,7 +27,7 @@
 
     This section does not apply to material the Secretary decides does not pose a significant hazard to health or safety when transported because of its low order of radioactivity.
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 772][/us/stat/108/772]; [Pub. L. 109–59, title VII, § 7126][/us/pl/109/59/s7126], Aug. 10, 2005, [119 Stat. 1909][/us/stat/119/1909].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(d), July 5, 1994, [108 Stat. 772][/us/stat/108/772]; [Pub. L. 109–59, title VII][/us/pl/109/59/tVII], § 7126, Aug. 10, 2005, [119 Stat. 1909][/us/stat/119/1909].)
 
 <table>
 
@@ -119,9 +119,9 @@ Jan. 3, 1975, Pub. L. 93–633, § 108, 88 Stat. 2159; Nov. 16, 1990, Pub. L. 
 ----------
 
 [/us/usc/t49/s40102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40102%2Fa
-[/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F772
-[/us/pl/109/59/s7126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7126
+[/us/pl/109/59/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtVII
 [/us/stat/119/1909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1909
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 

@@ -43,7 +43,7 @@
 
             (B) the Commission before undertaking development that would alter the skyline of Ronald Reagan Washington National Airport when viewed from the opposing shoreline of the Potomac River or from the George Washington Parkway.
 
-(Added [Pub. L. 105–102, § 2(26)][/us/pl/105/102/s2/26], Nov. 20, 1997, [111 Stat. 2213][/us/stat/111/2213]; amended [Pub. L. 105–154, § 2(a)(1)(D)][/us/pl/105/154/s2/a/1/D], Feb. 6, 1998, [112 Stat. 3][/us/stat/112/3]; [Pub. L. 105–225, § 7(c)(1)(D)][/us/pl/105/225/s7/c/1/D], Aug. 12, 1998, [112 Stat. 1511][/us/stat/112/1511]; [Pub. L. 106–181, title II, § 231(j)(1)][/us/pl/106/181/s231/j/1], Apr. 5, 2000, [114 Stat. 115][/us/stat/114/115]; [Pub. L. 107–217, § 3(n)(9)][/us/pl/107/217/s3/n/9], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303].)
+(Added [Pub. L. 105–102][/us/pl/105/102], § 2(26), Nov. 20, 1997, [111 Stat. 2213][/us/stat/111/2213]; amended [Pub. L. 105–154][/us/pl/105/154], § 2(a)(1)(D), Feb. 6, 1998, [112 Stat. 3][/us/stat/112/3]; [Pub. L. 105–225][/us/pl/105/225], § 7(c)(1)(D), Aug. 12, 1998, [112 Stat. 1511][/us/stat/112/1511]; [Pub. L. 106–181, title II][/us/pl/106/181/tII], § 231(j)(1), Apr. 5, 2000, [114 Stat. 115][/us/stat/114/115]; [Pub. L. 107–217][/us/pl/107/217], § 3(n)(9), Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303].)
 
 <table>
 
@@ -241,7 +241,7 @@ Oct. 30, 1986, Pub. L. 99–591, title VI, § 6009(e), 100 Stat. 3341–388.  
 
  __References in Text__ 
 
-    Section 6005 of the Metropolitan Washington Airports Act of 1986, referred to in subsec. (a), is [section 6005 of Pub. L. 99–500][/us/pl/99/500/s6005], title VI, Oct. 18, 1986, [100 Stat. 1783–375][/us/stat/100/1783-375], and [Pub. L. 99–591, title VI][/us/pl/99/591], Oct. 30, 1986, [100 Stat. 3341–378][/us/stat/100/3341-378], which was classified to section 2454 of former Title 49, Transportation, and was repealed and reenacted as this section by [Pub. L. 105–102][/us/pl/105/102], §§ 2(26), 5(b), Nov. 20, 1997, [111 Stat. 2205][/us/stat/111/2205], 2217.
+    Section 6005 of the Metropolitan Washington Airports Act of 1986, referred to in subsec. (a), is [section 6005 of Pub. L. 99–500][/us/pl/99/500/s6005], title VI, Oct. 18, 1986, [100 Stat. 1783–375][/us/stat/100/1783-375], and [Pub. L. 99–591, title VI][/us/pl/99/591/tVI], Oct. 30, 1986, [100 Stat. 3341–378][/us/stat/100/3341-378], which was classified to section 2454 of former Title 49, Transportation, and was repealed and reenacted as this section by [Pub. L. 105–102][/us/pl/105/102], §§ 2(26), 5(b), Nov. 20, 1997, [111 Stat. 2205][/us/stat/111/2205], 2217.
 
     [Act of June 29, 1940, ch. 444][/us/act/1940-06-29/ch444], [54 Stat. 686][/us/stat/54/686], referred to in subsec. (a)(2), was classified to subchapter I (§ 2401 et seq.) of chapter 33 of former Title 49, Transportation, and was omitted from the Code when subtitles II, III, and V to X of Title 49, Transportation, were enacted by [Pub. L. 103–272][/us/pl/103/272], July 5, 1994, [108 Stat. 745][/us/stat/108/745].
 
@@ -282,15 +282,15 @@ Oct. 30, 1986, Pub. L. 99–591, title VI, § 6009(e), 100 Stat. 3341–388.  
 [/us/stat/54/1030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1030
 [/us/stat/64/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F770
 [/us/usc/t40/s8722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs8722
-[/us/pl/105/102/s2/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102%2Fs2%2F26
+[/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/stat/111/2213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2213
-[/us/pl/105/154/s2/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F154%2Fs2%2Fa%2F1%2FD
+[/us/pl/105/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F154
 [/us/stat/112/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3
-[/us/pl/105/225/s7/c/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225%2Fs7%2Fc%2F1%2FD
+[/us/pl/105/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225
 [/us/stat/112/1511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1511
-[/us/pl/106/181/s231/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs231%2Fj%2F1
+[/us/pl/106/181/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtII
 [/us/stat/114/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F115
-[/us/pl/107/217/s3/n/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs3%2Fn%2F9
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-385
@@ -298,7 +298,7 @@ Oct. 30, 1986, Pub. L. 99–591, title VI, § 6009(e), 100 Stat. 3341–388.  
 [/us/stat/100/3341-388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-388
 [/us/pl/99/500/s6005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs6005
 [/us/stat/100/1783-375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-375
-[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
+[/us/pl/99/591/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2FtVI
 [/us/stat/100/3341-378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-378
 [/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/stat/111/2205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2205

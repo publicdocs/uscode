@@ -171,7 +171,7 @@
 
  __Amendments__ 
 
-    2012—[Pub. L. 112–141, div. C, title I, § 31313(1)][/us/pl/112/141/s31313/1], July 6, 2012, [126 Stat. 772][/us/stat/126/772], struck out item 33112 “Insurance reports and information”.
+    2012—[Pub. L. 112–141, div. C, title I][/us/pl/112/141/dC/tI], § 31313(1), July 6, 2012, [126 Stat. 772][/us/stat/126/772], struck out item 33112 “Insurance reports and information”.
 
 ----------
 
@@ -180,7 +180,7 @@
 ----------
 ----------
 
-[/us/pl/112/141/s31313/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31313%2F1
+[/us/pl/112/141/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtI
 [/us/stat/126/772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F772
 
 

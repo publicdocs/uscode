@@ -39,7 +39,7 @@
 
     The Secretary of Transportation shall publish the plan every 2 years.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1251][/us/stat/108/1251]; [Pub. L. 112–95, title I, § 152(a)][/us/pl/112/95/s152/a], Feb. 14, 2012, [126 Stat. 32][/us/stat/126/32].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1251][/us/stat/108/1251]; [Pub. L. 112–95, title I][/us/pl/112/95/tI], § 152(a), Feb. 14, 2012, [126 Stat. 32][/us/stat/126/32].)
 
 <table>
 
@@ -159,17 +159,17 @@ Sept. 3, 1982, Pub. L. 97–248, § 504(d)(1), 96 Stat. 676; Dec. 30, 1987, Pu
 
  __Amendments__ 
 
-    2012—Subsec. (a). [Pub. L. 112–95, § 152(a)(1)(A)][/us/pl/112/95/s152/a/1/A], substituted “the airport system to” for “each airport to” in introductory provisions.
+    2012—Subsec. (a). [Pub. L. 112–95][/us/pl/112/95], § 152(a)(1)(A), substituted “the airport system to” for “each airport to” in introductory provisions.
 
-    Subsec. (a)(1). [Pub. L. 112–95, § 152(a)(1)(B)][/us/pl/112/95/s152/a/1/B], substituted “system, including connection to the surface transportation network; and” for “system in the particular area;”.
+    Subsec. (a)(1). [Pub. L. 112–95][/us/pl/112/95], § 152(a)(1)(B), substituted “system, including connection to the surface transportation network; and” for “system in the particular area;”.
 
-    Subsec. (a)(2). [Pub. L. 112–95, § 152(a)(1)(C)][/us/pl/112/95/s152/a/1/C], substituted period at end for “; and”.
+    Subsec. (a)(2). [Pub. L. 112–95][/us/pl/112/95], § 152(a)(1)(C), substituted period at end for “; and”.
 
-    Subsec. (a)(3). [Pub. L. 112–95, § 152(a)(1)(D)][/us/pl/112/95/s152/a/1/D], struck out par. (3) which read as follows: “forecasted developments in other modes of intercity transportation.”
+    Subsec. (a)(3). [Pub. L. 112–95][/us/pl/112/95], § 152(a)(1)(D), struck out par. (3) which read as follows: “forecasted developments in other modes of intercity transportation.”
 
-    Subsec. (b). [Pub. L. 112–95, § 152(a)(2)][/us/pl/112/95/s152/a/2], inserted “and” at end of par. (1), redesignated par. (3) as (2) and struck out “, Short Takeoff and Landing/Very Short Takeoff and Landing aircraft operations,” after “air cargo operations”, and struck out former par. (2) which read as follows: “consider tall structures that reduce safety or airport capacity; and”.
+    Subsec. (b). [Pub. L. 112–95][/us/pl/112/95], § 152(a)(2), inserted “and” at end of par. (1), redesignated par. (3) as (2) and struck out “, Short Takeoff and Landing/Very Short Takeoff and Landing aircraft operations,” after “air cargo operations”, and struck out former par. (2) which read as follows: “consider tall structures that reduce safety or airport capacity; and”.
 
-    Subsec. (d). [Pub. L. 112–95, § 152(a)(3)][/us/pl/112/95/s152/a/3], struck out “status of the” before “plan”.
+    Subsec. (d). [Pub. L. 112–95][/us/pl/112/95], § 152(a)(3), struck out “status of the” before “plan”.
 
 ----------
 
@@ -178,15 +178,15 @@ Sept. 3, 1982, Pub. L. 97–248, § 504(d)(1), 96 Stat. 676; Dec. 30, 1987, Pu
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1251
-[/us/pl/112/95/s152/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs152%2Fa
+[/us/pl/112/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtI
 [/us/stat/126/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F32
-[/us/pl/112/95/s152/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs152%2Fa%2F1%2FA
-[/us/pl/112/95/s152/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs152%2Fa%2F1%2FB
-[/us/pl/112/95/s152/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs152%2Fa%2F1%2FC
-[/us/pl/112/95/s152/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs152%2Fa%2F1%2FD
-[/us/pl/112/95/s152/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs152%2Fa%2F2
-[/us/pl/112/95/s152/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs152%2Fa%2F3
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
 
 

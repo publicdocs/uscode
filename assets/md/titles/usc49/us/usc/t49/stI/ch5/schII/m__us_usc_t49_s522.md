@@ -17,7 +17,7 @@
 
     A person required to make a report to the Secretary of Transportation, or make, prepare, or preserve a record, under [section 504 of this title][/us/usc/t49/s504] about transportation by rail carrier, that knowingly and willfully (1) makes a false entry in the report or record, (2) destroys, mutilates, changes, or by another means falsifies the record, (3) does not enter business related facts and transactions in the record, (4) makes, prepares, or preserves the record in violation of a regulation or order of the Secretary, or (5) files a false report or record with the Secretary, shall be fined not more than $5,000, imprisoned for not more than 2 years, or both.
 
-([Pub. L. 97–449, § 1(b)][/us/pl/97/449/s1/b], Jan. 12, 1983, [96 Stat. 2436][/us/stat/96/2436]; [Pub. L. 105–178, title IV, § 4015(c)][/us/pl/105/178/s4015/c], June 9, 1998, [112 Stat. 412][/us/stat/112/412].)
+([Pub. L. 97–449][/us/pl/97/449], § 1(b), Jan. 12, 1983, [96 Stat. 2436][/us/stat/96/2436]; [Pub. L. 105–178, title IV][/us/pl/105/178/tIV], § 4015(c), June 9, 1998, [112 Stat. 412][/us/stat/112/412].)
 
 <table>
 
@@ -167,9 +167,9 @@ Revised Section  </td>
 ----------
 
 [/us/usc/t49/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs504
-[/us/pl/97/449/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449%2Fs1%2Fb
+[/us/pl/97/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449
 [/us/stat/96/2436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2436
-[/us/pl/105/178/s4015/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4015%2Fc
+[/us/pl/105/178/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtIV
 [/us/stat/112/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F412
 [/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
 [/us/usc/t49/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs504

@@ -21,7 +21,7 @@
 
     (2) regulations providing for carrying out and enforcing those standards.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1195][/us/stat/108/1195].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1195][/us/stat/108/1195].)
 
 <table>
 
@@ -79,7 +79,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 601(e); added Dec. 31, 1970,
 ----------
 
 [/us/usc/t42/s7571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7571
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1195
 
 

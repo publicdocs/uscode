@@ -77,7 +77,7 @@
 
     (11) “vehicle theft prevention standard” means a minimum performance standard for identifying major parts of new motor vehicles and major replacement parts by inscribing or affixing numbers or symbols on those parts.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1076][/us/stat/108/1076]; [Pub. L. 103–429, § 6(44)][/us/pl/103/429/s6/44], Oct. 31, 1994, [108 Stat. 4383][/us/stat/108/4383]; [Pub. L. 104–287, § 6(d)(1)(B)][/us/pl/104/287/s6/d/1/B], Oct. 11, 1996, [110 Stat. 3399][/us/stat/110/3399].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1076][/us/stat/108/1076]; [Pub. L. 103–429][/us/pl/103/429], § 6(44), Oct. 31, 1994, [108 Stat. 4383][/us/stat/108/4383]; [Pub. L. 104–287][/us/pl/104/287], § 6(d)(1)(B), Oct. 11, 1996, [110 Stat. 3399][/us/stat/110/3399].)
 
 <table>
 
@@ -289,25 +289,25 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, § 601(1), (8); added Oct. 25, 
 
     In clause (9), the words “after December 31, 1989” are substituted for “on or after the beginning of the 2-year period specified in [section 2023(a)(1)(A) of this title][/us/usc/t49/s2023/a/1/A]” for clarity and consistency.
 
- __[__  __Pub. L. 103–429, § 6(44)(A)__  __][/us/pl/103/429/s6/44/A]__ 
+ __[__  __Pub. L. 103–429__  __][/us/pl/103/429]__  __, § 6(44)(A)__ 
 
     This corrects a cross-reference in 49:33101(2) by eliminating the reference to 49:33102(c)(1). Section 302(1) of the Anti Car Theft Act of 1992 ([Public Law 102–519][/us/pl/102/519], [106 Stat. 3394][/us/stat/106/3394]) restated section 602(d)(1)(A) and (B) of the Motor Vehicle Information and Cost Savings Act ([Public Law 92–513][/us/pl/92/513], [86 Stat. 947][/us/stat/86/947]) as section 602(d)(1) without making a change in the cross-reference in section 601(6) to section 602(d)(1)(B).
 
- __[__  __Pub. L. 103–429, § 6(44)(B)__  __][/us/pl/103/429/s6/44/B]__ 
+ __[__  __Pub. L. 103–429__  __][/us/pl/103/429]__  __, § 6(44)(B)__ 
 
     This makes a conforming amendment for consistency with the style of title 49.
 
  __Amendments__ 
 
-    1996—[Pub. L. 104–287][/us/pl/104/287] made technical amendment to directory language of [Pub. L. 103–429, § 6(44)(B)][/us/pl/103/429/s6/44/B]. See 1994 Amendment note below.
+    1996—[Pub. L. 104–287][/us/pl/104/287] made technical amendment to directory language of [Pub. L. 103–429][/us/pl/103/429], § 6(44)(B). See 1994 Amendment note below.
 
-    1994—Par. (2). [Pub. L. 103–429, § 6(44)(B)][/us/pl/103/429/s6/44/B], as amended by [Pub. L. 104–287][/us/pl/104/287], inserted “of this title” before period at end.
+    1994—Par. (2). [Pub. L. 103–429][/us/pl/103/429], § 6(44)(B), as amended by [Pub. L. 104–287][/us/pl/104/287], inserted “of this title” before period at end.
 
-    [Pub. L. 103–429, § 6(44)(A)][/us/pl/103/429/s6/44/A], substituted “section 33104” for “sections 33102(c)(1) and 33104”.
+    [Pub. L. 103–429][/us/pl/103/429], § 6(44)(A), substituted “section 33104” for “sections 33102(c)(1) and 33104”.
 
  __Effective Date of 1996 Amendment__ 
 
-    [Pub. L. 104–287, § 6(d)][/us/pl/104/287/s6/d], Oct. 11, 1996, [110 Stat. 3398][/us/stat/110/3398], provided that the amendment made by section 6(d)(1)(B) is effective Oct. 31, 1994.
+    [Pub. L. 104–287][/us/pl/104/287], § 6(d), Oct. 11, 1996, [110 Stat. 3398][/us/stat/110/3398], provided that the amendment made by section 6(d)(1)(B) is effective Oct. 31, 1994.
 
  __Effective Date of 1994 Amendment__ 
 
@@ -322,11 +322,11 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, § 601(1), (8); added Oct. 25, 
 
 [/us/usc/t49/s33104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs33104
 [/us/usc/t49/s32901/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs32901%2Fa
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1076
-[/us/pl/103/429/s6/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F44
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/stat/108/4383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4383
-[/us/pl/104/287/s6/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs6%2Fd%2F1%2FB
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3399
 [/us/act/1992-10-25/s302/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1992-10-25%2Fs302%2F1
 [/us/pl/102/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F519
@@ -335,18 +335,18 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, § 601(1), (8); added Oct. 25, 
 [/us/stat/86/947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F947
 [/us/usc/t49/s2023/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs2023%2Fa%2F1%2FA
 [/us/usc/t49/s2023/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs2023%2Fa%2F1%2FA
-[/us/pl/103/429/s6/44/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F44%2FA
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/pl/102/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F519
 [/us/stat/106/3394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3394
 [/us/pl/92/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F513
 [/us/stat/86/947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F947
-[/us/pl/103/429/s6/44/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F44%2FB
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
-[/us/pl/103/429/s6/44/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F44%2FB
-[/us/pl/103/429/s6/44/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F44%2FB
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
-[/us/pl/103/429/s6/44/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F44%2FA
-[/us/pl/104/287/s6/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs6%2Fd
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3398
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/pl/103/429/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs9

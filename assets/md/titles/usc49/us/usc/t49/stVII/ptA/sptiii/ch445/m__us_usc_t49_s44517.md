@@ -57,7 +57,7 @@
 
     The Administrator shall issue advisory guidelines on the implementation of the program. The guidelines shall not be subject to administrative rulemaking requirements under subchapter II of chapter 5 of title 5.
 
-(Added [Pub. L. 108–176, title I, § 183(a)][/us/pl/108/176/s183/a], Dec. 12, 2003, [117 Stat. 2516][/us/stat/117/2516].)
+(Added [Pub. L. 108–176, title I][/us/pl/108/176/tI], § 183(a), Dec. 12, 2003, [117 Stat. 2516][/us/stat/117/2516].)
 
  __Effective Date__ 
 
@@ -70,7 +70,7 @@
 ----------
 ----------
 
-[/us/pl/108/176/s183/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs183%2Fa
+[/us/pl/108/176/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtI
 [/us/stat/117/2516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2516
 [/us/pl/108/176/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106

@@ -49,7 +49,7 @@
 
             (B) engaged in transfers of freight between railroads or between railroads and industrial plants.
 
-(Added [Pub. L. 104–287, § 5(56)(A)][/us/pl/104/287/s5/56/A], Oct. 11, 1996, [110 Stat. 3394][/us/stat/110/3394].)
+(Added [Pub. L. 104–287][/us/pl/104/287], § 5(56)(A), Oct. 11, 1996, [110 Stat. 3394][/us/stat/110/3394].)
 
 <table>
 
@@ -124,7 +124,7 @@ Sept. 3, 5, 1916, ch. 436, §§ 2, 3, 39 Stat. 721.  </td>
 ----------
 ----------
 
-[/us/pl/104/287/s5/56/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F56%2FA
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3394
 [/us/stat/39/721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F721
 

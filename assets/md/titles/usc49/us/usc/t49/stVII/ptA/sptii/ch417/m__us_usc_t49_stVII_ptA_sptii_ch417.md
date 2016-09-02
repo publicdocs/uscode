@@ -443,21 +443,21 @@ SUBCHAPTER III—REGIONAL AIR SERVICE INCENTIVE PROGRAM  </td>
 
  __Amendments__ 
 
-    2012—[Pub. L. 112–95, title IV, § 403(b)][/us/pl/112/95/s403/b], Feb. 14, 2012, [126 Stat. 85][/us/stat/126/85], which directed amendment of analysis for “such subchapter”, meaning subchapter I of chapter 417, by adding item 41724 at the end, was executed by adding item 41724 to analysis for this chapter to reflect the probable intent of Congress.
+    2012—[Pub. L. 112–95, title IV][/us/pl/112/95/tIV], § 403(b), Feb. 14, 2012, [126 Stat. 85][/us/stat/126/85], which directed amendment of analysis for “such subchapter”, meaning subchapter I of chapter 417, by adding item 41724 at the end, was executed by adding item 41724 to analysis for this chapter to reflect the probable intent of Congress.
 
-    [Pub. L. 112–95, title IV][/us/pl/112/95], §§ 401(b), 430, Feb. 14, 2012, [126 Stat. 83][/us/stat/126/83], 100, substituted “Prohibitions against smoking on passenger flights” for “Prohibitions against smoking on scheduled flights” in item 41706, and struck out item 41747 “EAS local participation program”.
+    [Pub. L. 112–95, title IV][/us/pl/112/95/tIV], §§ 401(b), 430, Feb. 14, 2012, [126 Stat. 83][/us/stat/126/83], 100, substituted “Prohibitions against smoking on passenger flights” for “Prohibitions against smoking on scheduled flights” in item 41706, and struck out item 41747 “EAS local participation program”.
 
-    2003—[Pub. L. 108–176, title IV][/us/pl/108/176], §§ 408(b), 410(b), 422(b), title VIII, § 810(b), Dec. 12, 2003, [117 Stat. 2547][/us/stat/117/2547], 2549, 2552, 2590, added items 41721 to 41723 and 41745 to 41748 and struck out former item 41721 “Reports by carriers on incidents involving animals during air transportation”.
+    2003—[Pub. L. 108–176, title IV][/us/pl/108/176/tIV], §§ 408(b), 410(b), 422(b), title VIII, § 810(b), Dec. 12, 2003, [117 Stat. 2547][/us/stat/117/2547], 2549, 2552, 2590, added items 41721 to 41723 and 41745 to 41748 and struck out former item 41721 “Reports by carriers on incidents involving animals during air transportation”.
 
-    2000—[Pub. L. 106–181, title II][/us/pl/106/181], §§ 203(b), 204(b), 210(b), 231(j)(2), title VII, § 710(b), Apr. 5, 2000, [114 Stat. 93][/us/stat/114/93], 94, 102, 115, 160, added items 41715 to 41718, redesignated former items 41715 and 41716 as 41719 and 41720, respectively, and added items 41721, 41743, and 41744, subchapter III heading, and items 41761 to 41767.
+    2000—[Pub. L. 106–181, title II][/us/pl/106/181/tII], §§ 203(b), 204(b), 210(b), 231(j)(2), title VII, § 710(b), Apr. 5, 2000, [114 Stat. 93][/us/stat/114/93], 94, 102, 115, 160, added items 41715 to 41718, redesignated former items 41715 and 41716 as 41719 and 41720, respectively, and added items 41721, 41743, and 41744, subchapter III heading, and items 41761 to 41767.
 
-    1998—[Pub. L. 105–277, div. C, title I, § 110(f)(2)][/us/pl/105/277/s110/f/2], Oct. 21, 1998, [112 Stat. 2681–590][/us/stat/112/2681-590], which directed amendment of the analysis for subchapter I of chapter 417 by adding item 41716 without specifying the Code title or Act for chapter 417, was executed by adding item 41716 to this analysis to reflect the probable intent of Congress.
+    1998—[Pub. L. 105–277, div. C, title I][/us/pl/105/277/dC/tI], § 110(f)(2), Oct. 21, 1998, [112 Stat. 2681–590][/us/stat/112/2681-590], which directed amendment of the analysis for subchapter I of chapter 417 by adding item 41716 without specifying the Code title or Act for chapter 417, was executed by adding item 41716 to this analysis to reflect the probable intent of Congress.
 
-    1996—[Pub. L. 104–264, title II, § 278(d)][/us/pl/104/264/s278/d], Oct. 9, 1996, [110 Stat. 3250][/us/stat/110/3250], substituted “Essential air service authorization” for “Ending effective date” in item 41742.
+    1996—[Pub. L. 104–264, title II][/us/pl/104/264/tII], § 278(d), Oct. 9, 1996, [110 Stat. 3250][/us/stat/110/3250], substituted “Essential air service authorization” for “Ending effective date” in item 41742.
 
-    1994—[Pub. L. 103–429, § 6(52)][/us/pl/103/429/s6/52], Oct. 31, 1994, [108 Stat. 4385][/us/stat/108/4385], made technical correction to chapter heading.
+    1994—[Pub. L. 103–429][/us/pl/103/429], § 6(52), Oct. 31, 1994, [108 Stat. 4385][/us/stat/108/4385], made technical correction to chapter heading.
 
-    [Pub. L. 103–305, title II][/us/pl/103/305], §§ 206(b), 207(b), Aug. 23, 1994, [108 Stat. 1587][/us/stat/108/1587], 1588, added items 41714 and 41715.
+    [Pub. L. 103–305, title II][/us/pl/103/305/tII], §§ 206(b), 207(b), Aug. 23, 1994, [108 Stat. 1587][/us/stat/108/1587], 1588, added items 41714 and 41715.
 
 ----------
 
@@ -466,21 +466,21 @@ SUBCHAPTER III—REGIONAL AIR SERVICE INCENTIVE PROGRAM  </td>
 ----------
 ----------
 
-[/us/pl/112/95/s403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs403%2Fb
+[/us/pl/112/95/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtIV
 [/us/stat/126/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F85
-[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtIV
 [/us/stat/126/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F83
-[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
+[/us/pl/108/176/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtIV
 [/us/stat/117/2547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2547
-[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/106/181/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtII
 [/us/stat/114/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F93
-[/us/pl/105/277/s110/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs110%2Ff%2F2
+[/us/pl/105/277/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtI
 [/us/stat/112/2681-590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-590
-[/us/pl/104/264/s278/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs278%2Fd
+[/us/pl/104/264/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2FtII
 [/us/stat/110/3250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3250
-[/us/pl/103/429/s6/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F52
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/stat/108/4385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4385
-[/us/pl/103/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305
+[/us/pl/103/305/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2FtII
 [/us/stat/108/1587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1587
 
 

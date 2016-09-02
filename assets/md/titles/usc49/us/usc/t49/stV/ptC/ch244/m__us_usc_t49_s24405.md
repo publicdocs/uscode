@@ -147,11 +147,11 @@
 
     No grants shall be provided under this chapter for commuter rail passenger transportation (as defined in section 24102(3)).
 
-(Added [Pub. L. 110–432, div. B, title III, § 301(a)][/us/pl/110/432/s301/a], Oct. 16, 2008, [122 Stat. 4942][/us/stat/122/4942]; amended [Pub. L. 114–94, div. A, title XI, § 11303(b)(1)(D)][/us/pl/114/94/s11303/b/1/D], Dec. 4, 2015, [129 Stat. 1654][/us/stat/129/1654].)
+(Added [Pub. L. 110–432, div. B, title III][/us/pl/110/432/dB/tIII], § 301(a), Oct. 16, 2008, [122 Stat. 4942][/us/stat/122/4942]; amended [Pub. L. 114–94, div. A, title XI][/us/pl/114/94/dA/tXI], § 11303(b)(1)(D), Dec. 4, 2015, [129 Stat. 1654][/us/stat/129/1654].)
 
  __References in Text__ 
 
-    The Railroad Retirement Act of 1974, referred to in subsec. (b)(1), is [act Aug. 29, 1935, ch. 812][/us/act/1935-08-29/ch812], as amended generally by [Pub. L. 93–445, title I, § 101][/us/pl/93/445/s101], Oct. 16, 1974, [88 Stat. 1305][/us/stat/88/1305], which is classified generally to subchapter IV (§ 231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding [section 231 of Title 45][/us/usc/t45/s231], [section 231t of Title 45][/us/usc/t45/s231t], and Tables.
+    The Railroad Retirement Act of 1974, referred to in subsec. (b)(1), is [act Aug. 29, 1935, ch. 812][/us/act/1935-08-29/ch812], as amended generally by [Pub. L. 93–445, title I][/us/pl/93/445/tI], § 101, Oct. 16, 1974, [88 Stat. 1305][/us/stat/88/1305], which is classified generally to subchapter IV (§ 231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding [section 231 of Title 45][/us/usc/t45/s231], [section 231t of Title 45][/us/usc/t45/s231t], and Tables.
 
     The Railway Labor Act, referred to in subsec. (b)(2), is [act May 20, 1926, ch. 347][/us/act/1926-05-20/ch347], [44 Stat. 577][/us/stat/44/577], which is classified principally to chapter 8 (§ 151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see [section 151 of Title 45][/us/usc/t45/s151] and Tables.
 
@@ -159,19 +159,19 @@
 
     The date of enactment of this Act, referred to in subsec. (d)(1), probably means the date of enactment of [Pub. L. 110–432][/us/pl/110/432], which enacted this section and was approved Oct. 16, 2008.
 
-    [Section 24102(4) of this title][/us/usc/t49/s24102/4], referred to in subsec. (e)(1), was redesignated [section 24102(3) of this title][/us/usc/t49/s24102/3] by [Pub. L. 110–432, div. B, title II, § 201(a)(2)][/us/pl/110/432/s201/a/2], Oct. 16, 2008, [122 Stat. 4909][/us/stat/122/4909].
+    [Section 24102(4) of this title][/us/usc/t49/s24102/4], referred to in subsec. (e)(1), was redesignated [section 24102(3) of this title][/us/usc/t49/s24102/3] by [Pub. L. 110–432, div. B, title II][/us/pl/110/432/dB/tII], § 201(a)(2), Oct. 16, 2008, [122 Stat. 4909][/us/stat/122/4909].
 
-    [Section 5302 of this title][/us/usc/t49/s5302], referred to in subsec. (e)(1), was amended generally by [Pub. L. 112–141, div. B, § 20004][/us/pl/112/141/s20004], July 6, 2012, [126 Stat. 623][/us/stat/126/623], and, as so amended, defines the terms “State” and “local governmental authority” in other pars.
+    [Section 5302 of this title][/us/usc/t49/s5302], referred to in subsec. (e)(1), was amended generally by [Pub. L. 112–141, div. B][/us/pl/112/141/dB], § 20004, July 6, 2012, [126 Stat. 623][/us/stat/126/623], and, as so amended, defines the terms “State” and “local governmental authority” in other pars.
 
  __Amendments__ 
 
-    2015—Subsec. (b)(2). [Pub. L. 114–94, § 11303(b)(1)(D)(i)][/us/pl/114/94/s11303/b/1/D/i], substituted “(45” for “(43”.
+    2015—Subsec. (b)(2). [Pub. L. 114–94][/us/pl/114/94], § 11303(b)(1)(D)(i), substituted “(45” for “(43”.
 
-    Subsec. (c)(2)(B). [Pub. L. 114–94, § 11303(b)(1)(D)(ii)][/us/pl/114/94/s11303/b/1/D/ii], substituted “protective arrangements that are equivalent to the protective arrangements established” for “protective arrangements established”.
+    Subsec. (c)(2)(B). [Pub. L. 114–94][/us/pl/114/94], § 11303(b)(1)(D)(ii), substituted “protective arrangements that are equivalent to the protective arrangements established” for “protective arrangements established”.
 
-    Subsec. (d)(1). [Pub. L. 114–94, § 11303(b)(1)(D)(iii)][/us/pl/114/94/s11303/b/1/D/iii], inserted “or unless Amtrak ceased providing intercity passenger railroad transportation over the affected route more than 3 years before the commencement of new service” after “unless such service was provided solely by Amtrak to another entity”.
+    Subsec. (d)(1). [Pub. L. 114–94][/us/pl/114/94], § 11303(b)(1)(D)(iii), inserted “or unless Amtrak ceased providing intercity passenger railroad transportation over the affected route more than 3 years before the commencement of new service” after “unless such service was provided solely by Amtrak to another entity”.
 
-    Subsec. (f). [Pub. L. 114–94, § 11303(b)(1)(D)(iv)][/us/pl/114/94/s11303/b/1/D/iv], substituted “under this chapter for commuter rail passenger transportation (as defined in section 24102(3)).” for “under this chapter for commuter rail passenger transportation, as defined in [section 24102(4) of this title][/us/usc/t49/s24102/4].”
+    Subsec. (f). [Pub. L. 114–94][/us/pl/114/94], § 11303(b)(1)(D)(iv), substituted “under this chapter for commuter rail passenger transportation (as defined in section 24102(3)).” for “under this chapter for commuter rail passenger transportation, as defined in [section 24102(4) of this title][/us/usc/t49/s24102/4].”
 
  __Effective Date of 2015 Amendment__ 
 
@@ -179,7 +179,7 @@
 
  __Assistance With Buy America Waiver Requests__ 
 
-[Pub. L. 110–432, div. B, title III, § 301(c)][/us/pl/110/432/s301/c], Oct. 16, 2008, [122 Stat. 4946][/us/stat/122/4946], provided that: 
+[Pub. L. 110–432, div. B, title III][/us/pl/110/432/dB/tIII], § 301(c), Oct. 16, 2008, [122 Stat. 4946][/us/stat/122/4946], provided that: 
 
 > “In implementing [section 24405(a) of title 49][/us/usc/t49/s24405/a], United States Code, the Federal Highway Administration shall, upon request by the Federal Railroad Administration, assist the Federal Railroad Administration in developing a process for posting on its website or distributing via email notices of waiver requests received pursuant to such subsection and soliciting public comments on the intent to issue a waiver. The Federal Railroad Administration’s development of such a process does not relieve the Federal Railroad Administration of the requirements under paragraph (4) of such subsection.”
 
@@ -200,12 +200,12 @@
 [/us/usc/t49/s24308/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24308%2Fa
 [/us/usc/t45/s836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs836
 [/us/usc/t49/s5307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5307
-[/us/pl/110/432/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs301%2Fa
+[/us/pl/110/432/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdB%2FtIII
 [/us/stat/122/4942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4942
-[/us/pl/114/94/s11303/b/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11303%2Fb%2F1%2FD
+[/us/pl/114/94/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtXI
 [/us/stat/129/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1654
 [/us/act/1935-08-29/ch812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-29%2Fch812
-[/us/pl/93/445/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F445%2Fs101
+[/us/pl/93/445/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F445%2FtI
 [/us/stat/88/1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1305
 [/us/usc/t45/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs231
 [/us/usc/t45/s231t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs231t
@@ -218,20 +218,20 @@
 [/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
 [/us/usc/t49/s24102/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24102%2F4
 [/us/usc/t49/s24102/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24102%2F3
-[/us/pl/110/432/s201/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs201%2Fa%2F2
+[/us/pl/110/432/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdB%2FtII
 [/us/stat/122/4909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4909
 [/us/usc/t49/s5302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5302
-[/us/pl/112/141/s20004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs20004
+[/us/pl/112/141/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdB
 [/us/stat/126/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F623
-[/us/pl/114/94/s11303/b/1/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11303%2Fb%2F1%2FD%2Fi
-[/us/pl/114/94/s11303/b/1/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11303%2Fb%2F1%2FD%2Fii
-[/us/pl/114/94/s11303/b/1/D/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11303%2Fb%2F1%2FD%2Fiii
-[/us/pl/114/94/s11303/b/1/D/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11303%2Fb%2F1%2FD%2Fiv
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/usc/t49/s24102/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24102%2F4
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
-[/us/pl/110/432/s301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs301%2Fc
+[/us/pl/110/432/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdB%2FtIII
 [/us/stat/122/4946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4946
 [/us/usc/t49/s24405/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24405%2Fa
 

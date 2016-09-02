@@ -17,7 +17,7 @@
 
     The Secretary of Transportation shall require, beginning after the last day of the 18-month period following the date of enactment of this section, an air carrier using an aircraft to provide scheduled passenger air transportation to display a notice, on an information placard available to each passenger on the aircraft, that informs the passengers of the nation in which the aircraft was finally assembled.
 
-(Added [Pub. L. 108–176, title VIII, § 810(a)][/us/pl/108/176/s810/a], Dec. 12, 2003, [117 Stat. 2590][/us/stat/117/2590].)
+(Added [Pub. L. 108–176, title VIII][/us/pl/108/176/tVIII], § 810(a), Dec. 12, 2003, [117 Stat. 2590][/us/stat/117/2590].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/108/176/s810/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs810%2Fa
+[/us/pl/108/176/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtVIII
 [/us/stat/117/2590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2590
 [/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
 [/us/pl/108/176/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs3

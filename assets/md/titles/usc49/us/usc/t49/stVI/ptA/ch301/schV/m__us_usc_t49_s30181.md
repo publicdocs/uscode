@@ -17,7 +17,7 @@
 
     The Secretary of Transportation shall conduct research, development, and testing on any area or aspect of motor vehicle safety necessary to carry out this chapter.
 
-(Added [Pub. L. 112–141, div. C, title I, § 31204(a)][/us/pl/112/141/s31204/a], July 6, 2012, [126 Stat. 759][/us/stat/126/759].)
+(Added [Pub. L. 112–141, div. C, title I][/us/pl/112/141/dC/tI], § 31204(a), July 6, 2012, [126 Stat. 759][/us/stat/126/759].)
 
  __Effective Date__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/112/141/s31204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31204%2Fa
+[/us/pl/112/141/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtI
 [/us/stat/126/759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F759
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101

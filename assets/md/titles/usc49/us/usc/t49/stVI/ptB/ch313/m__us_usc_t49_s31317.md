@@ -17,7 +17,7 @@
 
     Regulations prescribed by the Secretary of Transportation to carry out this chapter (except section 31307) shall be prescribed under [section 553 of title 5][/us/usc/t5/s553] without regard to sections 556 and 557 of title 5.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1029][/us/stat/108/1029].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1029][/us/stat/108/1029].)
 
 <table>
 
@@ -75,7 +75,7 @@ Oct. 27, 1986, Pub. L. 99–570, § 12018, 100 Stat. 3207–187.  </td>
 ----------
 
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1029
 
 

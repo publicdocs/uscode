@@ -67,7 +67,7 @@
 
         (2) in consultation with State departments of transportation, metropolitan planning organizations, and other appropriate public and private transportation stakeholders.
 
-(Added [Pub. L. 114–94, div. A, title VIII, § 8001(a)][/us/pl/114/94/s8001/a], Dec. 4, 2015, [129 Stat. 1606][/us/stat/129/1606].)
+(Added [Pub. L. 114–94, div. A, title VIII][/us/pl/114/94/dA/tVIII], § 8001(a), Dec. 4, 2015, [129 Stat. 1606][/us/stat/129/1606].)
 
  __References in Text__ 
 
@@ -88,7 +88,7 @@
 ----------
 ----------
 
-[/us/pl/114/94/s8001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs8001%2Fa
+[/us/pl/114/94/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtVIII
 [/us/stat/129/1606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1606
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/usc/t51/s50902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs50902

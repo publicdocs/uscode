@@ -125,7 +125,7 @@
 
     Recipients and subrecipients of Federal financial assistance under this chapter shall ensure that contractors working on a capital project funded using such assistance give a hiring preference, to the extent practicable, to veterans (as defined in [section 2108 of title 5][/us/usc/t5/s2108]) who have the requisite skills and abilities to perform the construction work required under the contract. This subsection shall not be understood, construed or enforced in any manner that would require an employer to give a preference to any veteran over any equally qualified applicant who is a member of any racial or ethnic minority, female, an individual with a disability, or a former employee.
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 825][/us/stat/108/825]; [Pub. L. 104–287, § 5(16)][/us/pl/104/287/s5/16], Oct. 11, 1996, [110 Stat. 3390][/us/stat/110/3390]; [Pub. L. 105–178, title III, § 3022][/us/pl/105/178/s3022], June 9, 1998, [112 Stat. 363][/us/stat/112/363]; [Pub. L. 105–206, title IX, § 9009(n)][/us/pl/105/206/s9009/n], July 22, 1998, [112 Stat. 857][/us/stat/112/857]; [Pub. L. 107–217, § 3(n)(2)][/us/pl/107/217/s3/n/2], Aug. 21, 2002, [116 Stat. 1302][/us/stat/116/1302]; [Pub. L. 109–59, title III, § 3025(a)][/us/pl/109/59/s3025/a], Aug. 10, 2005, [119 Stat. 1620][/us/stat/119/1620]; [Pub. L. 110–244, title II, § 201(k)][/us/pl/110/244/s201/k], June 6, 2008, [122 Stat. 1611][/us/stat/122/1611]; [Pub. L. 112–141, div. B][/us/pl/112/141], §§ 20018, 20030(d), July 6, 2012, [126 Stat. 706][/us/stat/126/706], 730; [Pub. L. 114–94, div. A, title III, § 3030(e)][/us/pl/114/94/s3030/e], Dec. 4, 2015, [129 Stat. 1497][/us/stat/129/1497].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(d), July 5, 1994, [108 Stat. 825][/us/stat/108/825]; [Pub. L. 104–287][/us/pl/104/287], § 5(16), Oct. 11, 1996, [110 Stat. 3390][/us/stat/110/3390]; [Pub. L. 105–178, title III][/us/pl/105/178/tIII], § 3022, June 9, 1998, [112 Stat. 363][/us/stat/112/363]; [Pub. L. 105–206, title IX][/us/pl/105/206/tIX], § 9009(n), July 22, 1998, [112 Stat. 857][/us/stat/112/857]; [Pub. L. 107–217][/us/pl/107/217], § 3(n)(2), Aug. 21, 2002, [116 Stat. 1302][/us/stat/116/1302]; [Pub. L. 109–59, title III][/us/pl/109/59/tIII], § 3025(a), Aug. 10, 2005, [119 Stat. 1620][/us/stat/119/1620]; [Pub. L. 110–244, title II][/us/pl/110/244/tII], § 201(k), June 6, 2008, [122 Stat. 1611][/us/stat/122/1611]; [Pub. L. 112–141, div. B][/us/pl/112/141/dB], §§ 20018, 20030(d), July 6, 2012, [126 Stat. 706][/us/stat/126/706], 730; [Pub. L. 114–94, div. A, title III][/us/pl/114/94/dA/tIII], § 3030(e), Dec. 4, 2015, [129 Stat. 1497][/us/stat/129/1497].)
 
 <table>
 
@@ -243,31 +243,31 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 12(b)(4); added Apr. 2, 1987,
 
  __Amendments__ 
 
-    2015—Subsec. (e)(2). [Pub. L. 114–94, § 3030(e)(1)][/us/pl/114/94/s3030/e/1], struck out “at least two” after “allow”.
+    2015—Subsec. (e)(2). [Pub. L. 114–94][/us/pl/114/94], § 3030(e)(1), struck out “at least two” after “allow”.
 
-    Subsec. (h). [Pub. L. 114–94, § 3030(e)(2)][/us/pl/114/94/s3030/e/2], substituted “Federal Public Transportation Act of 2015” for “Federal Public Transportation Act of 2012”.
+    Subsec. (h). [Pub. L. 114–94][/us/pl/114/94], § 3030(e)(2), substituted “Federal Public Transportation Act of 2015” for “Federal Public Transportation Act of 2012”.
 
-    2012—Subsec. (b)(2)(A). [Pub. L. 112–141, § 20030(d)][/us/pl/112/141/s20030/d], substituted “the Federal Acquisition Regulation, or any successor thereto” for “title 48, Code of Federal Regulations (commonly known as the Federal Acquisition Regulation)”.
+    2012—Subsec. (b)(2)(A). [Pub. L. 112–141][/us/pl/112/141], § 20030(d), substituted “the Federal Acquisition Regulation, or any successor thereto” for “title 48, Code of Federal Regulations (commonly known as the Federal Acquisition Regulation)”.
 
-    Subsec. (e)(1). [Pub. L. 112–141, § 20018(1)][/us/pl/112/141/s20018/1], added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “A recipient procuring rolling stock with Government financial assistance under this chapter may make a multiyear contract to buy the rolling stock and replacement parts under which the recipient has an option to buy additional rolling stock or replacement parts for not more than 5 years after the date of the original contract.”
+    Subsec. (e)(1). [Pub. L. 112–141][/us/pl/112/141], § 20018(1), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “A recipient procuring rolling stock with Government financial assistance under this chapter may make a multiyear contract to buy the rolling stock and replacement parts under which the recipient has an option to buy additional rolling stock or replacement parts for not more than 5 years after the date of the original contract.”
 
-    Subsec. (h). [Pub. L. 112–141, § 20018(2)][/us/pl/112/141/s20018/2], substituted “Federal Public Transportation Act of 2012” for “Federal Public Transportation Act of 2005”.
+    Subsec. (h). [Pub. L. 112–141][/us/pl/112/141], § 20018(2), substituted “Federal Public Transportation Act of 2012” for “Federal Public Transportation Act of 2005”.
 
-    Subsec. (j)(2)(C). [Pub. L. 112–141, § 20018(3)][/us/pl/112/141/s20018/3], struck out “, including the performance reported in the Contractor Performance Assessment Reports required under section 5309(l)(2)” after “past performance”.
+    Subsec. (j)(2)(C). [Pub. L. 112–141][/us/pl/112/141], § 20018(3), struck out “, including the performance reported in the Contractor Performance Assessment Reports required under section 5309(l)(2)” after “past performance”.
 
-    Subsec. (k). [Pub. L. 112–141, § 20018(4)][/us/pl/112/141/s20018/4], added subsec. (k).
+    Subsec. (k). [Pub. L. 112–141][/us/pl/112/141], § 20018(4), added subsec. (k).
 
-    2008—Subsec. (b)(1). [Pub. L. 110–244, § 201(k)(1)][/us/pl/110/244/s201/k/1], inserted “adopted before August 10, 2005” before period at end.
+    2008—Subsec. (b)(1). [Pub. L. 110–244][/us/pl/110/244], § 201(k)(1), inserted “adopted before August 10, 2005” before period at end.
 
-    Subsec. (b)(2), (3). [Pub. L. 110–244, § 201(k)(2)][/us/pl/110/244/s201/k/2], (3), redesignated par. (3) as (2) and struck out former par. (2). Text read as follows: “Paragraph (1) does not apply to the extent a State has adopted by law, before the date of enactment of the Federal Public Transportation Act of 2005, an equivalent State qualifications-based requirement for contracting for architectural, engineering, and design services.”
+    Subsec. (b)(2), (3). [Pub. L. 110–244][/us/pl/110/244], § 201(k)(2), (3), redesignated par. (3) as (2) and struck out former par. (2). Text read as follows: “Paragraph (1) does not apply to the extent a State has adopted by law, before the date of enactment of the Federal Public Transportation Act of 2005, an equivalent State qualifications-based requirement for contracting for architectural, engineering, and design services.”
 
     2005—[Pub. L. 109–59][/us/pl/109/59] amended section generally. Prior to amendment, section consisted of subsecs. (a) to (c) relating to noncompetitive bidding in subsec. (a), procedures for award of architectural, engineering, and design contracts in subsec. (b), and efficient procurement in subsec. (c).
 
     2002—Subsec. (b). [Pub. L. 107–217][/us/pl/107/217] substituted “chapter 11 of title 40” for “title IX of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 541][/us/usc/t40/s541] et seq.)”.
 
-    1998—Subsec. (b). [Pub. L. 105–178, § 3022(b)][/us/pl/105/178/s3022/b], as added by [Pub. L. 105–206][/us/pl/105/206], inserted “or requirement” after “A contract” and “When awarding such contracts, recipients of assistance under this chapter shall maximize efficiencies of administration by accepting nondisputed audits conducted by other governmental agencies, as provided in subparagraphs (C) through (F) of [section 112(b)(2) of title 23][/us/usc/t23/s112/b/2], United States Code.” before “This subsection does not apply”.
+    1998—Subsec. (b). [Pub. L. 105–178][/us/pl/105/178], § 3022(b), as added by [Pub. L. 105–206][/us/pl/105/206], inserted “or requirement” after “A contract” and “When awarding such contracts, recipients of assistance under this chapter shall maximize efficiencies of administration by accepting nondisputed audits conducted by other governmental agencies, as provided in subparagraphs (C) through (F) of [section 112(b)(2) of title 23][/us/usc/t23/s112/b/2], United States Code.” before “This subsection does not apply”.
 
-    [Pub. L. 105–178, § 3022(a)(1)][/us/pl/105/178/s3022/a/1], (2), redesignated subsec. (d) as (b) and struck out heading and text of former subsec. (b). Text read as follows: “A recipient of financial assistance of the United States Government under this chapter may make a contract to expend that assistance to acquire rolling stock—
+    [Pub. L. 105–178][/us/pl/105/178], § 3022(a)(1), (2), redesignated subsec. (d) as (b) and struck out heading and text of former subsec. (b). Text read as follows: “A recipient of financial assistance of the United States Government under this chapter may make a contract to expend that assistance to acquire rolling stock—
 
     “(1) based on—
 
@@ -277,13 +277,13 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 12(b)(4); added Apr. 2, 1987,
 
     “(2) with a party selected through a competitive procurement process.”
 
-    Subsec. (c). [Pub. L. 105–178, § 3022(a)(1)][/us/pl/105/178/s3022/a/1], (3), added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: “A recipient of a grant under [section 5307 of this title][/us/usc/t49/s5307] procuring an associated capital maintenance item under section 5307(b) may make a contract directly with the original manufacturer or supplier of the item to be replaced, without receiving prior approval of the Secretary, if the recipient first certifies in writing to the Secretary that—
+    Subsec. (c). [Pub. L. 105–178][/us/pl/105/178], § 3022(a)(1), (3), added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: “A recipient of a grant under [section 5307 of this title][/us/usc/t49/s5307] procuring an associated capital maintenance item under section 5307(b) may make a contract directly with the original manufacturer or supplier of the item to be replaced, without receiving prior approval of the Secretary, if the recipient first certifies in writing to the Secretary that—
 
     “(1) the manufacturer or supplier is the only source for the item; and
 
     “(2) the price of the item is no more than the price similar customers pay for the item.”
 
-    Subsec. (d). [Pub. L. 105–178, § 3022(a)(2)][/us/pl/105/178/s3022/a/2], redesignated subsec. (d) as (b).
+    Subsec. (d). [Pub. L. 105–178][/us/pl/105/178], § 3022(a)(2), redesignated subsec. (d) as (b).
 
     1996—Subsec. (d). [Pub. L. 104–287][/us/pl/104/287] substituted “Architectural, Engineering, and Design Contracts” for “Management, Architectural, and Engineering Contracts” in heading.
 
@@ -305,7 +305,7 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 12(b)(4); added Apr. 2, 1987,
 
  __Innovative Procurement__ 
 
-[Pub. L. 114–94, div. A, title III, § 3019][/us/pl/114/94/s3019], Dec. 4, 2015, [129 Stat. 1488][/us/stat/129/1488], provided that:
+[Pub. L. 114–94, div. A, title III][/us/pl/114/94/dA/tIII], § 3019, Dec. 4, 2015, [129 Stat. 1488][/us/stat/129/1488], provided that:
 
 >     “(a)  __Definition__  __.—__ 
 
@@ -533,47 +533,47 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 12(b)(4); added Apr. 2, 1987,
 ----------
 
 [/us/usc/t5/s2108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2108
-[/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F825
-[/us/pl/104/287/s5/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F16
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3390
-[/us/pl/105/178/s3022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs3022
+[/us/pl/105/178/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtIII
 [/us/stat/112/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F363
-[/us/pl/105/206/s9009/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs9009%2Fn
+[/us/pl/105/206/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIX
 [/us/stat/112/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F857
-[/us/pl/107/217/s3/n/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs3%2Fn%2F2
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1302
-[/us/pl/109/59/s3025/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3025%2Fa
+[/us/pl/109/59/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIII
 [/us/stat/119/1620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1620
-[/us/pl/110/244/s201/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs201%2Fk
+[/us/pl/110/244/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2FtII
 [/us/stat/122/1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1611
-[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdB
 [/us/stat/126/706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F706
-[/us/pl/114/94/s3030/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3030%2Fe
+[/us/pl/114/94/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtIII
 [/us/stat/129/1497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1497
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/stat/129/1446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1446
 [/us/usc/t49/s5101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5101
-[/us/pl/114/94/s3030/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3030%2Fe%2F1
-[/us/pl/114/94/s3030/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3030%2Fe%2F2
-[/us/pl/112/141/s20030/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs20030%2Fd
-[/us/pl/112/141/s20018/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs20018%2F1
-[/us/pl/112/141/s20018/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs20018%2F2
-[/us/pl/112/141/s20018/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs20018%2F3
-[/us/pl/112/141/s20018/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs20018%2F4
-[/us/pl/110/244/s201/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs201%2Fk%2F1
-[/us/pl/110/244/s201/k/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs201%2Fk%2F2
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
+[/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/usc/t40/s541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs541
-[/us/pl/105/178/s3022/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs3022%2Fb
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
 [/us/usc/t23/s112/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs112%2Fb%2F2
-[/us/pl/105/178/s3022/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs3022%2Fa%2F1
-[/us/pl/105/178/s3022/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs3022%2Fa%2F1
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
 [/us/usc/t49/s5307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5307
-[/us/pl/105/178/s3022/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs3022%2Fa%2F2
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
@@ -591,7 +591,7 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 12(b)(4); added Apr. 2, 1987,
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/pl/104/287/s8/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs8%2F1
 [/us/usc/t49/s5303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5303
-[/us/pl/114/94/s3019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3019
+[/us/pl/114/94/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtIII
 [/us/stat/129/1488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1488
 [/us/usc/t49/s5323/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5323%2Fj
 [/us/usc/t49/s5339/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5339%2Fc

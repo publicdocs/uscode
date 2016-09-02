@@ -33,7 +33,7 @@
 
     To the extent contracts, if any, are used to implement the Aviation Security Act, the Under Secretary for Transportation Security shall, to the extent practical, maximize the use of performance-based service contracts. These contracts should be consistent with guidelines published by the Office of Federal Procurement Policy.
 
-(Added [Pub. L. 107–71, title I, § 130][/us/pl/107/71/s130], Nov. 19, 2001, [115 Stat. 634][/us/stat/115/634].)
+(Added [Pub. L. 107–71, title I][/us/pl/107/71/tI], § 130, Nov. 19, 2001, [115 Stat. 634][/us/stat/115/634].)
 
  __References in Text__ 
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/107/71/s130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs130
+[/us/pl/107/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2FtI
 [/us/stat/115/634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F634
 [/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
 [/us/stat/115/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F597

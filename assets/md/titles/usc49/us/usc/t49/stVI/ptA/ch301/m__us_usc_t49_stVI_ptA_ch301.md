@@ -443,17 +443,17 @@ SUBCHAPTER V—MOTOR VEHICLE SAFETY RESEARCH AND DEVELOPMENT  </td>
 
  __Amendments__ 
 
-    2015—[Pub. L. 114–94, div. B, title XXIV, § 24352(c)][/us/pl/114/94/s24352/c], Dec. 4, 2015, [129 Stat. 1720][/us/stat/129/1720], which directed amendment of the analysis for subchapter IV of this chapter by adding item 30172 at the end, was executed by adding item 30172 to the analysis for this chapter to reflect the probable intent of Congress.
+    2015—[Pub. L. 114–94, div. B, title XXIV][/us/pl/114/94/dB/tXXIV], § 24352(c), Dec. 4, 2015, [129 Stat. 1720][/us/stat/129/1720], which directed amendment of the analysis for subchapter IV of this chapter by adding item 30172 at the end, was executed by adding item 30172 to the analysis for this chapter to reflect the probable intent of Congress.
 
-    2012—[Pub. L. 112–141, div. C, title I][/us/pl/112/141], §§ 31202(b), 31204(b)(1), (2)(A), 31208(1), 31307(c), 31312(b), July 6, 2012, [126 Stat. 758][/us/stat/126/758], 760, 761, 769, 772, added items 30120A and 30171, item for subchapter V, and items 30181 to 30183, substituted “Nonuse of safety belts” for “Buzzers indicating nonuse of safety belts” in item 30124 and “Service of process; conditions on importation of vehicles and equipment” for “Service of process” in item 30164, and struck out item 30168 “Research, testing, development, and training”.
+    2012—[Pub. L. 112–141, div. C, title I][/us/pl/112/141/dC/tI], §§ 31202(b), 31204(b)(1), (2)(A), 31208(1), 31307(c), 31312(b), July 6, 2012, [126 Stat. 758][/us/stat/126/758], 760, 761, 769, 772, added items 30120A and 30171, item for subchapter V, and items 30181 to 30183, substituted “Nonuse of safety belts” for “Buzzers indicating nonuse of safety belts” in item 30124 and “Service of process; conditions on importation of vehicles and equipment” for “Service of process” in item 30164, and struck out item 30168 “Research, testing, development, and training”.
 
-    2005—[Pub. L. 109–59, title X, § 10303(a)][/us/pl/109/59/s10303/a], Aug. 10, 2005, [119 Stat. 1940][/us/stat/119/1940], which directed amendment of the table of sections for chapter 301 by adding item 30128, without specifying the title to be amended, was executed to the table of sections for this chapter, to reflect the probable intent of Congress.
+    2005—[Pub. L. 109–59, title X][/us/pl/109/59/tX], § 10303(a), Aug. 10, 2005, [119 Stat. 1940][/us/stat/119/1940], which directed amendment of the table of sections for chapter 301 by adding item 30128, without specifying the title to be amended, was executed to the table of sections for this chapter, to reflect the probable intent of Congress.
 
-    [Pub. L. 109–59, title X, § 10208(b)][/us/pl/109/59/s10208/b], Aug. 10, 2005, [119 Stat. 1936][/us/stat/119/1936], added item 30106.
+    [Pub. L. 109–59, title X][/us/pl/109/59/tX], § 10208(b), Aug. 10, 2005, [119 Stat. 1936][/us/stat/119/1936], added item 30106.
 
-    2000—[Pub. L. 106–414, § 5(b)(2)][/us/pl/106/414/s5/b/2], Nov. 1, 2000, [114 Stat. 1804][/us/stat/114/1804], added item 30170.
+    2000—[Pub. L. 106–414][/us/pl/106/414], § 5(b)(2), Nov. 1, 2000, [114 Stat. 1804][/us/stat/114/1804], added item 30170.
 
-    1998—[Pub. L. 105–178, title VII, § 7104(b)][/us/pl/105/178/s7104/b], June 9, 1998, [112 Stat. 467][/us/stat/112/467], added item 30105.
+    1998—[Pub. L. 105–178, title VII][/us/pl/105/178/tVII], § 7104(b), June 9, 1998, [112 Stat. 467][/us/stat/112/467], added item 30105.
 
 ----------
 
@@ -462,17 +462,17 @@ SUBCHAPTER V—MOTOR VEHICLE SAFETY RESEARCH AND DEVELOPMENT  </td>
 ----------
 ----------
 
-[/us/pl/114/94/s24352/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24352%2Fc
+[/us/pl/114/94/dB/tXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdB%2FtXXIV
 [/us/stat/129/1720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1720
-[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtI
 [/us/stat/126/758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F758
-[/us/pl/109/59/s10303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs10303%2Fa
+[/us/pl/109/59/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtX
 [/us/stat/119/1940]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1940
-[/us/pl/109/59/s10208/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs10208%2Fb
+[/us/pl/109/59/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtX
 [/us/stat/119/1936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1936
-[/us/pl/106/414/s5/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F414%2Fs5%2Fb%2F2
+[/us/pl/106/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F414
 [/us/stat/114/1804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1804
-[/us/pl/105/178/s7104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs7104%2Fb
+[/us/pl/105/178/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtVII
 [/us/stat/112/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F467
 
 

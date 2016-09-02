@@ -29,7 +29,7 @@
 
         If the intermediate or final stage manufacturer elects to assume responsibility for compliance with the standard covered by the documentation provided by an incomplete motor vehicle manufacturer, the intermediate or final stage manufacturer shall notify the incomplete motor vehicle manufacturer in writing within a reasonable time of affixing the certification label. A violation of this subsection shall not be subject to a civil penalty under section 30165.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 947][/us/stat/108/947]; [Pub. L. 106–414, § 9][/us/pl/106/414/s9], Nov. 1, 2000, [114 Stat. 1805][/us/stat/114/1805].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 947][/us/stat/108/947]; [Pub. L. 106–414][/us/pl/106/414], § 9, Nov. 1, 2000, [114 Stat. 1805][/us/stat/114/1805].)
 
 <table>
 
@@ -101,7 +101,7 @@ Sept. 9, 1966, Pub. L. 89–563, § 114, 80 Stat. 726.  </td>
 
  __Follow-Up Report__ 
 
-[Pub. L. 106–414, § 16][/us/pl/106/414/s16], Nov. 1, 2000, [114 Stat. 1808][/us/stat/114/1808], provided that: 
+[Pub. L. 106–414][/us/pl/106/414], § 16, Nov. 1, 2000, [114 Stat. 1808][/us/stat/114/1808], provided that: 
 
 > “One year after the date of the enactment of this Act \[Nov. 1, 2000\], the Secretary of Transportation shall report to the Congress on the implementation of the amendments made by this Act \[see Short Title of 2000 Amendment note set out under [section 30101 of this title][/us/usc/t49/s30101]\] and any recommendations for additional amendments for consumer safety.”
 
@@ -112,13 +112,13 @@ Sept. 9, 1966, Pub. L. 89–563, § 114, 80 Stat. 726.  </td>
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F947
-[/us/pl/106/414/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F414%2Fs9
+[/us/pl/106/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F414
 [/us/stat/114/1805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1805
 [/us/usc/t49/s1403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1403
 [/us/pl/106/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F414
-[/us/pl/106/414/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F414%2Fs16
+[/us/pl/106/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F414
 [/us/stat/114/1808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1808
 [/us/usc/t49/s30101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30101
 

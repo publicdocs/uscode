@@ -27,7 +27,7 @@
 
     Within 1 year after the date of enactment of this section the Federal Railroad Administration shall conduct a comprehensive analysis to determine the impact resistance of the steels in the shells of pressure tank cars constructed before 1989. Within 6 months after completing that analysis the Administration shall transmit a report, including recommendations for reducing any risk of catastrophic fracture and separation of such cars, to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
 
-(Added [Pub. L. 109–59, title IX, § 9005(b)(1)][/us/pl/109/59/s9005/b/1], Aug. 10, 2005, [119 Stat. 1924][/us/stat/119/1924].)
+(Added [Pub. L. 109–59, title IX][/us/pl/109/59/tIX], § 9005(b)(1), Aug. 10, 2005, [119 Stat. 1924][/us/stat/119/1924].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 
  __Phase-Out of All Tank Cars Used To Transport Class 3 Flammable Liquids__ 
 
-[Pub. L. 114–94, div. A, title VII, § 7304][/us/pl/114/94/s7304], Dec. 4, 2015, [129 Stat. 1596][/us/stat/129/1596], provided that:
+[Pub. L. 114–94, div. A, title VII][/us/pl/114/94/dA/tVII], § 7304, Dec. 4, 2015, [129 Stat. 1596][/us/stat/129/1596], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -99,7 +99,7 @@
 
  __Thermal Blankets__ 
 
-[Pub. L. 114–94, div. A, title VII, § 7305][/us/pl/114/94/s7305], Dec. 4, 2015, [129 Stat. 1597][/us/stat/129/1597], provided that:
+[Pub. L. 114–94, div. A, title VII][/us/pl/114/94/dA/tVII], § 7305, Dec. 4, 2015, [129 Stat. 1597][/us/stat/129/1597], provided that:
 
 >     “(a)  __Requirements__  __.—__ 
 
@@ -111,7 +111,7 @@
 
  __Modification Reporting__ 
 
-[Pub. L. 114–94, div. A, title VII, § 7308][/us/pl/114/94/s7308], Dec. 4, 2015, [129 Stat. 1599][/us/stat/129/1599], provided that:
+[Pub. L. 114–94, div. A, title VII][/us/pl/114/94/dA/tVII], § 7308, Dec. 4, 2015, [129 Stat. 1599][/us/stat/129/1599], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -184,14 +184,14 @@
 ----------
 ----------
 
-[/us/pl/109/59/s9005/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs9005%2Fb%2F1
+[/us/pl/109/59/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIX
 [/us/stat/119/1924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1924
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
-[/us/pl/114/94/s7304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs7304
+[/us/pl/114/94/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtVII
 [/us/stat/129/1596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1596
-[/us/pl/114/94/s7305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs7305
+[/us/pl/114/94/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtVII
 [/us/stat/129/1597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1597
-[/us/pl/114/94/s7308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs7308
+[/us/pl/114/94/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtVII
 [/us/stat/129/1599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1599
 [/us/usc/t44/s3501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3501
 

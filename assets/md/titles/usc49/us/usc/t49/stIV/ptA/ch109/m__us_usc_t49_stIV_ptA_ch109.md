@@ -107,7 +107,7 @@
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–432, div. A, title VI][/us/pl/110/432], §§ 603(b), 604(b), 605(b), Oct. 16, 2008, [122 Stat. 4903][/us/stat/122/4903], 4905, added items 10908 to 10910.
+    2008—[Pub. L. 110–432, div. A, title VI][/us/pl/110/432/dA/tVI], §§ 603(b), 604(b), 605(b), Oct. 16, 2008, [122 Stat. 4903][/us/stat/122/4903], 4905, added items 10908 to 10910.
 
 ----------
 
@@ -116,7 +116,7 @@
 ----------
 ----------
 
-[/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
+[/us/pl/110/432/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdA%2FtVI
 [/us/stat/122/4903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4903
 
 

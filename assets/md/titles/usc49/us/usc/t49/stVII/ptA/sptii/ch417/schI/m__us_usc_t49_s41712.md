@@ -37,7 +37,7 @@
 
         In the case of an offer to sell tickets described in paragraph (1) on an Internet Web site, disclosure of the information required by paragraph (1) shall be provided on the first display of the Web site following a search of a requested itinerary in a format that is easily visible to a viewer.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1143][/us/stat/108/1143]; [Pub. L. 106–181, title II, § 221][/us/pl/106/181/s221], Apr. 5, 2000, [114 Stat. 102][/us/stat/114/102]; [Pub. L. 111–216, title II, § 210][/us/pl/111/216/s210], Aug. 1, 2010, [124 Stat. 2362][/us/stat/124/2362].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1143][/us/stat/108/1143]; [Pub. L. 106–181, title II][/us/pl/106/181/tII], § 221, Apr. 5, 2000, [114 Stat. 102][/us/stat/114/102]; [Pub. L. 111–216, title II][/us/pl/111/216/tII], § 210, Aug. 1, 2010, [124 Stat. 2362][/us/stat/124/2362].)
 
 <table>
 
@@ -120,11 +120,11 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 1601(b)(1)(E); added Oct. 4,
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1143
-[/us/pl/106/181/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs221
+[/us/pl/106/181/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtII
 [/us/stat/114/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F102
-[/us/pl/111/216/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F216%2Fs210
+[/us/pl/111/216/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F216%2FtII
 [/us/stat/124/2362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2362
 [/us/pl/111/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F216
 [/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181

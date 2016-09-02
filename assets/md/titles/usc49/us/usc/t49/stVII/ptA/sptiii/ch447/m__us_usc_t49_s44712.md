@@ -75,7 +75,7 @@
 
     The Administrator shall prescribe regulations specifying the conditions under which an aircraft subject to subsection (a) of this section may operate when its emergency locator transmitter has been removed for inspection, repair, alteration, or replacement.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1194][/us/stat/108/1194]; [Pub. L. 106–181, title V, § 501(a)][/us/pl/106/181/s501/a], Apr. 5, 2000, [114 Stat. 131][/us/stat/114/131].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1194][/us/stat/108/1194]; [Pub. L. 106–181, title V][/us/pl/106/181/tV], § 501(a), Apr. 5, 2000, [114 Stat. 131][/us/stat/114/131].)
 
 <table>
 
@@ -179,9 +179,9 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 601(d)(3); added Nov. 9, 197
 
  __Amendments__ 
 
-    2000—Subsec. (b). [Pub. L. 106–181, § 501(a)(1)][/us/pl/106/181/s501/a/1], substituted “Prior to January 1, 2002, subsection (a)” for “Subsection (a) of this section” in introductory provisions.
+    2000—Subsec. (b). [Pub. L. 106–181][/us/pl/106/181], § 501(a)(1), substituted “Prior to January 1, 2002, subsection (a)” for “Subsection (a) of this section” in introductory provisions.
 
-    Subsecs. (c) to (e). [Pub. L. 106–181, § 501(a)(2)][/us/pl/106/181/s501/a/2], (3), added subsecs. (c) and (d) and redesignated former subsec. (c) as (e).
+    Subsecs. (c) to (e). [Pub. L. 106–181][/us/pl/106/181], § 501(a)(2), (3), added subsecs. (c) and (d) and redesignated former subsec. (c) as (e).
 
  __Effective Date of 2000 Amendment__ 
 
@@ -189,13 +189,13 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 601(d)(3); added Nov. 9, 197
 
  __Regulations__ 
 
-[Pub. L. 106–181, title V, § 501(b)][/us/pl/106/181/s501/b], Apr. 5, 2000, [114 Stat. 132][/us/stat/114/132], provided that: 
+[Pub. L. 106–181, title V][/us/pl/106/181/tV], § 501(b), Apr. 5, 2000, [114 Stat. 132][/us/stat/114/132], provided that: 
 
 > “The Secretary \[of Transportation\] shall issue regulations to carry out [section 44712(c) of title 49][/us/usc/t49/s44712/c], United States Code, as amended by this section, not later than January 1, 2001.”
 
  __Emergency Locator Transmitters on General Aviation Aircraft__ 
 
-[Pub. L. 112–95, title III, § 347][/us/pl/112/95/s347], Feb. 14, 2012, [126 Stat. 82][/us/stat/126/82], provided that:
+[Pub. L. 112–95, title III][/us/pl/112/95/tIII], § 347, Feb. 14, 2012, [126 Stat. 82][/us/stat/126/82], provided that:
 
 >     “(a)  __Inspection__  __.—__ 
 
@@ -226,19 +226,19 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 601(d)(3); added Nov. 9, 197
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1194
-[/us/pl/106/181/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs501%2Fa
+[/us/pl/106/181/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtV
 [/us/stat/114/131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F131
-[/us/pl/106/181/s501/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs501%2Fa%2F1
-[/us/pl/106/181/s501/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs501%2Fa%2F2
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/pl/106/181/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106
-[/us/pl/106/181/s501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs501%2Fb
+[/us/pl/106/181/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtV
 [/us/stat/114/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F132
 [/us/usc/t49/s44712/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44712%2Fc
-[/us/pl/112/95/s347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs347
+[/us/pl/112/95/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtIII
 [/us/stat/126/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F82
 
 

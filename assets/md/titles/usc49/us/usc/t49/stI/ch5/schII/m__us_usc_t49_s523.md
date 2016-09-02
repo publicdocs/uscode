@@ -29,7 +29,7 @@
 
     (c) An employee of the Secretary of Transportation delegated to make an inspection under [section 504 of this title][/us/usc/t49/s504] who knowingly discloses information acquired during that inspection, except as directed by the Secretary, a court, or a judge of that court, shall be fined not more than $500, imprisoned for not more than 6 months, or both.
 
-([Pub. L. 97–449, § 1(b)][/us/pl/97/449/s1/b], Jan. 12, 1983, [96 Stat. 2436][/us/stat/96/2436].)
+([Pub. L. 97–449][/us/pl/97/449], § 1(b), Jan. 12, 1983, [96 Stat. 2436][/us/stat/96/2436].)
 
 <table>
 
@@ -237,7 +237,7 @@ Revised Section  </td>
 ----------
 
 [/us/usc/t49/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs504
-[/us/pl/97/449/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449%2Fs1%2Fb
+[/us/pl/97/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449
 [/us/stat/96/2436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2436
 
 

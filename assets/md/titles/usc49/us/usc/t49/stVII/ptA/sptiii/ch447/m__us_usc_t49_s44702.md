@@ -55,7 +55,7 @@
 
         (3) A person affected by an action of a private person under this subsection may apply for reconsideration of the action by the Administrator. On the Administrator’s own initiative, the Administrator may reconsider the action of a private person at any time. If the Administrator decides on reconsideration that the action is unreasonable or unwarranted, the Administrator shall change, modify, or reverse the action. If the Administrator decides the action is warranted, the Administrator shall affirm the action.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1186][/us/stat/108/1186]; [Pub. L. 108–176, title II, § 227(a)][/us/pl/108/176/s227/a], Dec. 12, 2003, [117 Stat. 2531][/us/stat/117/2531].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1186][/us/stat/108/1186]; [Pub. L. 108–176, title II][/us/pl/108/176/tII], § 227(a), Dec. 12, 2003, [117 Stat. 2531][/us/stat/117/2531].)
 
 <table>
 
@@ -307,11 +307,11 @@ In subsection (d)(3), the words “exercising delegated authority” and “with
 
  __Effective Date of 2003 Amendment__ 
 
-    [Pub. L. 108–176, title II, § 227(a)][/us/pl/108/176/s227/a], Dec. 12, 2003, [117 Stat. 2531][/us/stat/117/2531], provided that the amendment made by section 227(a) is effective on the last day of the 7-year period beginning on Dec. 12, 2003.
+    [Pub. L. 108–176, title II][/us/pl/108/176/tII], § 227(a), Dec. 12, 2003, [117 Stat. 2531][/us/stat/117/2531], provided that the amendment made by section 227(a) is effective on the last day of the 7-year period beginning on Dec. 12, 2003.
 
  __Development of Analytical Tools and Certification Methods__ 
 
-[Pub. L. 108–176, title VII, § 706][/us/pl/108/176/s706], Dec. 12, 2003, [117 Stat. 2582][/us/stat/117/2582], provided that: 
+[Pub. L. 108–176, title VII][/us/pl/108/176/tVII], § 706, Dec. 12, 2003, [117 Stat. 2582][/us/stat/117/2582], provided that: 
 
 > “The Federal Aviation Administration shall conduct research to promote the development of analytical tools to improve existing certification methods and to reduce the overall costs for the certification of new products.”
 
@@ -322,16 +322,16 @@ In subsection (d)(3), the words “exercising delegated authority” and “with
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1186
-[/us/pl/108/176/s227/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs227%2Fa
+[/us/pl/108/176/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtII
 [/us/stat/117/2531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2531
 [/us/pl/85/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F726
 [/us/stat/72/775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F775
 [/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
-[/us/pl/108/176/s227/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs227%2Fa
+[/us/pl/108/176/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtII
 [/us/stat/117/2531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2531
-[/us/pl/108/176/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs706
+[/us/pl/108/176/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtVII
 [/us/stat/117/2582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2582
 
 

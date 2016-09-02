@@ -21,7 +21,7 @@
 
     (2) the certification required under clause (1) of this section shall be maintained in the same way and place as the daily inspection report for the locomotive.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 875][/us/stat/108/875]; [Pub. L. 103–429, § 6(19)][/us/pl/103/429/s6/19], Oct. 31, 1994, [108 Stat. 4379][/us/stat/108/4379].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 875][/us/stat/108/875]; [Pub. L. 103–429][/us/pl/103/429], § 6(19), Oct. 31, 1994, [108 Stat. 4379][/us/stat/108/4379].)
 
 <table>
 
@@ -98,9 +98,9 @@ Oct. 16, 1970, Pub. L. 91–458, 84 Stat. 971, § 202(j); added June 22, 1988,
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F875
-[/us/pl/103/429/s6/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F19
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/stat/108/4379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4379
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/act/1994-07-05/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1994-07-05%2Fs1

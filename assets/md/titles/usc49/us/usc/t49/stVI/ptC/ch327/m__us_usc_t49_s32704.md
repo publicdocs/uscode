@@ -27,7 +27,7 @@
 
     A person may not, with intent to defraud, remove or alter a notice attached to a motor vehicle as required by this section.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1049][/us/stat/108/1049].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1049][/us/stat/108/1049].)
 
 <table>
 
@@ -84,7 +84,7 @@ Oct. 20, 1972, Pub. L. 92–513, § 407, 86 Stat. 962; July 14, 1976, Pub. L. 
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1049
 
 

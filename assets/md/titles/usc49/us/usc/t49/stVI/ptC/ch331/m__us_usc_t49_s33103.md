@@ -77,7 +77,7 @@
 
     The Secretary and the Attorney General shall inform the appropriate legislative committees of Congress with jurisdiction over this part and [section 2322 of title 18][/us/usc/t18/s2322] of actions taken or planned under this section.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1078][/us/stat/108/1078].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1078][/us/stat/108/1078].)
 
 <table>
 
@@ -229,7 +229,7 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, § 602(c)(4); added Oct. 25, 19
 
  __References in Text__ 
 
-    [Section 33112 of this title][/us/usc/t49/s33112], referred to in subsecs. (c) and (d)(2)(A)(ii), was repealed by [Pub. L. 112–141, div. C, title I, § 31313(2)][/us/pl/112/141/s31313/2], July 6, 2012, [126 Stat. 772][/us/stat/126/772].
+    [Section 33112 of this title][/us/usc/t49/s33112], referred to in subsecs. (c) and (d)(2)(A)(ii), was repealed by [Pub. L. 112–141, div. C, title I][/us/pl/112/141/dC/tI], § 31313(2), July 6, 2012, [126 Stat. 772][/us/stat/126/772].
 
 ----------
 
@@ -247,13 +247,13 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, § 602(c)(4); added Oct. 25, 19
 [/us/usc/t49/s33106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs33106
 [/us/usc/t49/s33106/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs33106%2Fb%2F2%2FC
 [/us/usc/t18/s2322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2322
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1078
 [/us/usc/t49/s33104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs33104
 [/us/usc/t49/s33115/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs33115%2Fb
 [/us/usc/t49/s2027/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs2027%2Fb
 [/us/usc/t49/s33112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs33112
-[/us/pl/112/141/s31313/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31313%2F2
+[/us/pl/112/141/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtI
 [/us/stat/126/772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F772
 
 

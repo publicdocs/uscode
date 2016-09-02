@@ -31,7 +31,7 @@
 
     The Secretary shall reserve, from amounts deducted under [section 104(a) of title 23][/us/usc/t23/s104/a], $3,000,000 to make grants under this section. The total amount that a State may receive in grants under this section may not be more than $500,000.
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 850][/us/stat/108/850].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(d), July 5, 1994, [108 Stat. 850][/us/stat/108/850].)
 
 <table>
 
@@ -88,7 +88,7 @@ Dec. 18, 1991, Pub. L. 102–240, § 5003, 105 Stat. 2159.  </td>
 
 [/us/usc/t49/s302/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs302%2Fe
 [/us/usc/t23/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs104%2Fa
-[/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F850
 
 

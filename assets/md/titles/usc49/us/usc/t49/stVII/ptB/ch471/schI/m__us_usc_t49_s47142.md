@@ -39,7 +39,7 @@
 
     In this section, the term “design-build contract” means an agreement that provides for both design and construction of a project by a contractor.
 
-(Added [Pub. L. 108–176, title I, § 181(a)][/us/pl/108/176/s181/a], Dec. 12, 2003, [117 Stat. 2515][/us/stat/117/2515].)
+(Added [Pub. L. 108–176, title I][/us/pl/108/176/tI], § 181(a), Dec. 12, 2003, [117 Stat. 2515][/us/stat/117/2515].)
 
  __Effective Date__ 
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/108/176/s181/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs181%2Fa
+[/us/pl/108/176/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtI
 [/us/stat/117/2515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2515
 [/us/pl/108/176/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106

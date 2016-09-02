@@ -49,7 +49,7 @@
 
         The district court shall award a reasonable attorney’s fee as a part of the damages for which a carrier is found liable under this subsection. The district court shall tax and collect that fee as a part of the costs of the action.
 
-(Added [Pub. L. 104–88, title I, § 106(a)][/us/pl/104/88/s106/a], Dec. 29, 1995, [109 Stat. 927][/us/stat/109/927]; amended [Pub. L. 105–102, § 2(15)][/us/pl/105/102/s2/15], Nov. 20, 1997, [111 Stat. 2205][/us/stat/111/2205]; [Pub. L. 105–225, § 7(b)(2)][/us/pl/105/225/s7/b/2], Aug. 12, 1998, [112 Stat. 1511][/us/stat/112/1511].)
+(Added [Pub. L. 104–88, title I][/us/pl/104/88/tI], § 106(a), Dec. 29, 1995, [109 Stat. 927][/us/stat/109/927]; amended [Pub. L. 105–102][/us/pl/105/102], § 2(15), Nov. 20, 1997, [111 Stat. 2205][/us/stat/111/2205]; [Pub. L. 105–225][/us/pl/105/225], § 7(b)(2), Aug. 12, 1998, [112 Stat. 1511][/us/stat/112/1511].)
 
  __Historical and Revision Notes__ 
 
@@ -59,7 +59,7 @@
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [section 11705 of this title][/us/usc/t49/s11705] prior to the general amendment of this subtitle by [Pub. L. 104–88, § 102(a)][/us/pl/104/88/s102/a].
+    Provisions similar to those in this section were contained in [section 11705 of this title][/us/usc/t49/s11705] prior to the general amendment of this subtitle by [Pub. L. 104–88][/us/pl/104/88], § 102(a).
 
  __Amendments__ 
 
@@ -74,15 +74,15 @@
 ----------
 ----------
 
-[/us/pl/104/88/s106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs106%2Fa
+[/us/pl/104/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtI
 [/us/stat/109/927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F927
-[/us/pl/105/102/s2/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102%2Fs2%2F15
+[/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/stat/111/2205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2205
-[/us/pl/105/225/s7/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225%2Fs7%2Fb%2F2
+[/us/pl/105/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225
 [/us/stat/112/1511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1511
 [/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/usc/t49/s11705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs11705
-[/us/pl/104/88/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs102%2Fa
+[/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/105/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225
 [/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 

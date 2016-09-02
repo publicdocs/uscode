@@ -39,7 +39,7 @@
 
         (2) A contract involving labor for carrying out an airport development project under a grant agreement under this subchapter must require that preference in the employment of labor (except in executive, administrative, and supervisory positions) be given to Vietnam-era veterans, Persian Gulf veterans, Afghanistan-Iraq war veterans, disabled veterans, and small business concerns (as defined in section 3 of the Small Business Act ([15 U.S.C. 632][/us/usc/t15/s632])) owned and controlled by disabled veterans when they are available and qualified for the employment.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1267][/us/stat/108/1267]; [Pub. L. 107–217, § 3(n)(8)][/us/pl/107/217/s3/n/8], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303]; [Pub. L. 112–95, title I, § 139][/us/pl/112/95/s139], Feb. 14, 2012, [126 Stat. 26][/us/stat/126/26].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1267][/us/stat/108/1267]; [Pub. L. 107–217][/us/pl/107/217], § 3(n)(8), Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303]; [Pub. L. 112–95, title I][/us/pl/112/95/tI], § 139, Feb. 14, 2012, [126 Stat. 26][/us/stat/126/26].)
 
 <table>
 
@@ -129,17 +129,17 @@ Sept. 3, 1982, Pub. L. 97–248, § 515, 96 Stat. 691.  </td>
 
  __Amendments__ 
 
-    2012—Subsec. (c)(1)(B). [Pub. L. 112–95, § 139(1)(A)][/us/pl/112/95/s139/1/A], substituted “discharged or released from active duty in” for “separated from”.
+    2012—Subsec. (c)(1)(B). [Pub. L. 112–95][/us/pl/112/95], § 139(1)(A), substituted “discharged or released from active duty in” for “separated from”.
 
-    Subsec. (c)(1)(C), (D). [Pub. L. 112–95, § 139(1)(B)][/us/pl/112/95/s139/1/B], added subpars. (C) and (D).
+    Subsec. (c)(1)(C), (D). [Pub. L. 112–95][/us/pl/112/95], § 139(1)(B), added subpars. (C) and (D).
 
-    Subsec. (c)(2). [Pub. L. 112–95, § 139(2)][/us/pl/112/95/s139/2], substituted “Vietnam-era veterans, Persian Gulf veterans, Afghanistan-Iraq war veterans, disabled veterans, and small business concerns (as defined in section 3 of the Small Business Act ([15 U.S.C. 632][/us/usc/t15/s632])) owned and controlled by disabled veterans” for “Vietnam-era veterans and disabled veterans”.
+    Subsec. (c)(2). [Pub. L. 112–95][/us/pl/112/95], § 139(2), substituted “Vietnam-era veterans, Persian Gulf veterans, Afghanistan-Iraq war veterans, disabled veterans, and small business concerns (as defined in section 3 of the Small Business Act ([15 U.S.C. 632][/us/usc/t15/s632])) owned and controlled by disabled veterans” for “Vietnam-era veterans and disabled veterans”.
 
     2002—Subsec. (b). [Pub. L. 107–217][/us/pl/107/217] substituted “sections 3141–3144, 3146, and 3147 of title 40” for “the Act of March 3, 1931 (known as the Davis-Bacon Act) ([40 U.S.C. 276a][/us/usc/t40/s276a]—276a–5)”.
 
  __Priority Review of Construction Projects in Cold Weather States__ 
 
-[Pub. L. 112–95, title I, § 154][/us/pl/112/95/s154], Feb. 14, 2012, [126 Stat. 35][/us/stat/126/35], provided that: 
+[Pub. L. 112–95, title I][/us/pl/112/95/tI], § 154, Feb. 14, 2012, [126 Stat. 35][/us/stat/126/35], provided that: 
 
 > “The Administrator of the Federal Aviation Administration, to the extent practicable, shall schedule the Administrator’s review of construction projects so that projects to be carried out in States in which the weather during a typical calendar year prevents major construction projects from being carried out before May 1 are reviewed as early as possible.”
 
@@ -154,20 +154,20 @@ Sept. 3, 1982, Pub. L. 97–248, § 515, 96 Stat. 691.  </td>
 [/us/usc/t38/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101
 [/us/usc/t38/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101
 [/us/usc/t15/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1267
-[/us/pl/107/217/s3/n/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs3%2Fn%2F8
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
-[/us/pl/112/95/s139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs139
+[/us/pl/112/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtI
 [/us/stat/126/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F26
 [/us/usc/t5/s2108/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2108%2F2
-[/us/pl/112/95/s139/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs139%2F1%2FA
-[/us/pl/112/95/s139/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs139%2F1%2FB
-[/us/pl/112/95/s139/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs139%2F2
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
 [/us/usc/t15/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/usc/t40/s276a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs276a
-[/us/pl/112/95/s154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs154
+[/us/pl/112/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtI
 [/us/stat/126/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F35
 
 

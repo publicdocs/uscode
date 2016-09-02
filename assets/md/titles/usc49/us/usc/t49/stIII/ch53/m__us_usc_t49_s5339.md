@@ -295,7 +295,7 @@
 
             The non-Federal share of the cost of an eligible project carried out under this subsection may be derived from in-kind contributions.
 
-(Added [Pub. L. 108–7, div. I, title III, § 356][/us/pl/108/7/s356], Feb. 20, 2003, [117 Stat. 421][/us/stat/117/421]; amended [Pub. L. 109–59, title III, § 3037(a)][/us/pl/109/59/s3037/a], Aug. 10, 2005, [119 Stat. 1635][/us/stat/119/1635]; [Pub. L. 112–141, div. B, § 20029(a)][/us/pl/112/141/s20029/a], July 6, 2012, [126 Stat. 729][/us/stat/126/729]; [Pub. L. 113–159, title I, § 1204][/us/pl/113/159/s1204], Aug. 8, 2014, [128 Stat. 1847][/us/stat/128/1847]; [Pub. L. 114–21, title I, § 1204][/us/pl/114/21/s1204], May 29, 2015, [129 Stat. 225][/us/stat/129/225]; [Pub. L. 114–41, title I, § 1204][/us/pl/114/41/s1204], July 31, 2015, [129 Stat. 452][/us/stat/129/452]; [Pub. L. 114–73, title I, § 1204][/us/pl/114/73/s1204], Oct. 29, 2015, [129 Stat. 575][/us/stat/129/575]; [Pub. L. 114–87, title I, § 1204][/us/pl/114/87/s1204], Nov. 20, 2015, [129 Stat. 684][/us/stat/129/684]; [Pub. L. 114–94, div. A, title III, § 3017(a)][/us/pl/114/94/s3017/a], Dec. 4, 2015, [129 Stat. 1482][/us/stat/129/1482].)
+(Added [Pub. L. 108–7, div. I, title III][/us/pl/108/7/dI/tIII], § 356, Feb. 20, 2003, [117 Stat. 421][/us/stat/117/421]; amended [Pub. L. 109–59, title III][/us/pl/109/59/tIII], § 3037(a), Aug. 10, 2005, [119 Stat. 1635][/us/stat/119/1635]; [Pub. L. 112–141, div. B][/us/pl/112/141/dB], § 20029(a), July 6, 2012, [126 Stat. 729][/us/stat/126/729]; [Pub. L. 113–159, title I][/us/pl/113/159/tI], § 1204, Aug. 8, 2014, [128 Stat. 1847][/us/stat/128/1847]; [Pub. L. 114–21, title I][/us/pl/114/21/tI], § 1204, May 29, 2015, [129 Stat. 225][/us/stat/129/225]; [Pub. L. 114–41, title I][/us/pl/114/41/tI], § 1204, July 31, 2015, [129 Stat. 452][/us/stat/129/452]; [Pub. L. 114–73, title I][/us/pl/114/73/tI], § 1204, Oct. 29, 2015, [129 Stat. 575][/us/stat/129/575]; [Pub. L. 114–87, title I][/us/pl/114/87/tI], § 1204, Nov. 20, 2015, [129 Stat. 684][/us/stat/129/684]; [Pub. L. 114–94, div. A, title III][/us/pl/114/94/dA/tIII], § 3017(a), Dec. 4, 2015, [129 Stat. 1482][/us/stat/129/1482].)
 
  __References in Text__ 
 
@@ -334,23 +334,23 @@
 ----------
 ----------
 
-[/us/pl/108/7/s356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs356
+[/us/pl/108/7/dI/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdI%2FtIII
 [/us/stat/117/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F421
-[/us/pl/109/59/s3037/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3037%2Fa
+[/us/pl/109/59/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIII
 [/us/stat/119/1635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1635
-[/us/pl/112/141/s20029/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs20029%2Fa
+[/us/pl/112/141/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdB
 [/us/stat/126/729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F729
-[/us/pl/113/159/s1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159%2Fs1204
+[/us/pl/113/159/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159%2FtI
 [/us/stat/128/1847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1847
-[/us/pl/114/21/s1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F21%2Fs1204
+[/us/pl/114/21/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F21%2FtI
 [/us/stat/129/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F225
-[/us/pl/114/41/s1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs1204
+[/us/pl/114/41/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2FtI
 [/us/stat/129/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F452
-[/us/pl/114/73/s1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73%2Fs1204
+[/us/pl/114/73/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73%2FtI
 [/us/stat/129/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F575
-[/us/pl/114/87/s1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F87%2Fs1204
+[/us/pl/114/87/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F87%2FtI
 [/us/stat/129/684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F684
-[/us/pl/114/94/s3017/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3017%2Fa
+[/us/pl/114/94/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtIII
 [/us/stat/129/1482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1482
 [/us/pl/114/94/s3019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3019
 [/us/usc/t49/s5325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5325

@@ -17,7 +17,7 @@
 
     The Secretary shall prescribe procedures for States to submit State rail plans for review under this title, including standardized format and data requirements. State rail plans completed before the date of enactment of the Passenger Rail Investment and Improvement Act of 2008 that substantially meet the requirements of this chapter, as determined by the Secretary, shall be deemed by the Secretary to have met the requirements of this chapter.
 
-(Added [Pub. L. 110–432, div. B, title III, § 303(a)][/us/pl/110/432/s303/a], Oct. 16, 2008, [122 Stat. 4950][/us/stat/122/4950].)
+(Added [Pub. L. 110–432, div. B, title III][/us/pl/110/432/dB/tIII], § 303(a), Oct. 16, 2008, [122 Stat. 4950][/us/stat/122/4950].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/110/432/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs303%2Fa
+[/us/pl/110/432/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdB%2FtIII
 [/us/stat/122/4950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4950
 [/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
 

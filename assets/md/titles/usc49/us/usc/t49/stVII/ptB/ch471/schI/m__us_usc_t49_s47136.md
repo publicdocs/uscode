@@ -93,11 +93,11 @@
 
         (4) the acquisition of technological capital equipment to enable the delivery of fuel and services necessary for the use of vehicles described in paragraph (1).
 
-(Added [Pub. L. 106–181, title I, § 133(a)][/us/pl/106/181/s133/a], Apr. 5, 2000, [114 Stat. 81][/us/stat/114/81]; amended [Pub. L. 112–95, title V, § 511(d)][/us/pl/112/95/s511/d], Feb. 14, 2012, [126 Stat. 108][/us/stat/126/108].)
+(Added [Pub. L. 106–181, title I][/us/pl/106/181/tI], § 133(a), Apr. 5, 2000, [114 Stat. 81][/us/stat/114/81]; amended [Pub. L. 112–95, title V][/us/pl/112/95/tV], § 511(d), Feb. 14, 2012, [126 Stat. 108][/us/stat/126/108].)
 
  __References in Text__ 
 
-    [Section 5506 of this title][/us/usc/t49/s5506], referred to in subsec. (f)(2), was repealed by [Pub. L. 112–141, div. E, title II, § 52010(a)][/us/pl/112/141/s52010/a], July 6, 2012, [126 Stat. 887][/us/stat/126/887].
+    [Section 5506 of this title][/us/usc/t49/s5506], referred to in subsec. (f)(2), was repealed by [Pub. L. 112–141, div. E, title II][/us/pl/112/141/dE/tII], § 52010(a), July 6, 2012, [126 Stat. 887][/us/stat/126/887].
 
     The date of the enactment of this section, referred to in subsec. (h), is the date of enactment of [Pub. L. 106–181][/us/pl/106/181], which was approved Apr. 5, 2000.
 
@@ -117,12 +117,12 @@
 ----------
 
 [/us/usc/t42/s7501/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7501%2F2
-[/us/pl/106/181/s133/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs133%2Fa
+[/us/pl/106/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtI
 [/us/stat/114/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F81
-[/us/pl/112/95/s511/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs511%2Fd
+[/us/pl/112/95/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtV
 [/us/stat/126/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F108
 [/us/usc/t49/s5506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5506
-[/us/pl/112/141/s52010/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs52010%2Fa
+[/us/pl/112/141/dE/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdE%2FtII
 [/us/stat/126/887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F887
 [/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95

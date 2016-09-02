@@ -91,7 +91,7 @@
 
                 (ii) is given an opportunity to respond before the person is required to cease the activity.
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 780][/us/stat/108/780]; [Pub. L. 109–59, title VII][/us/pl/109/59], §§ 7120(a)–(c), 7126, Aug. 10, 2005, [119 Stat. 1905][/us/stat/119/1905], 1906, 1909; [Pub. L. 112–141, div. C, title III, § 33010][/us/pl/112/141/s33010], July 6, 2012, [126 Stat. 837][/us/stat/126/837].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(d), July 5, 1994, [108 Stat. 780][/us/stat/108/780]; [Pub. L. 109–59, title VII][/us/pl/109/59/tVII], §§ 7120(a)–(c), 7126, Aug. 10, 2005, [119 Stat. 1905][/us/stat/119/1905], 1906, 1909; [Pub. L. 112–141, div. C, title III][/us/pl/112/141/dC/tIII], § 33010, July 6, 2012, [126 Stat. 837][/us/stat/126/837].)
 
 <table>
 
@@ -255,23 +255,23 @@ Jan. 3, 1975, Pub. L. 93–633, § 110(a)(2), 88 Stat. 2160.  </td>
 
  __Amendments__ 
 
-    2012—Subsec. (a)(1). [Pub. L. 112–141, § 33010(1)(A)][/us/pl/112/141/s33010/1/A], in introductory provisions, struck out “at least $250 but” after “civil penalty of” and substituted “$75,000” for “$50,000”.
+    2012—Subsec. (a)(1). [Pub. L. 112–141][/us/pl/112/141], § 33010(1)(A), in introductory provisions, struck out “at least $250 but” after “civil penalty of” and substituted “$75,000” for “$50,000”.
 
-    Subsec. (a)(2). [Pub. L. 112–141, § 33010(1)(B)][/us/pl/112/141/s33010/1/B], substituted “$175,000” for “$100,000”.
+    Subsec. (a)(2). [Pub. L. 112–141][/us/pl/112/141], § 33010(1)(B), substituted “$175,000” for “$100,000”.
 
-    Subsec. (a)(3). [Pub. L. 112–141, § 33010(1)(C)][/us/pl/112/141/s33010/1/C], amended par. (3) generally. Prior to amendment, par. (3) read as follows: “If the violation is related to training, paragraph (1) shall be applied by substituting ‘$450’ for ‘$250’.”
+    Subsec. (a)(3). [Pub. L. 112–141][/us/pl/112/141], § 33010(1)(C), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “If the violation is related to training, paragraph (1) shall be applied by substituting ‘$450’ for ‘$250’.”
 
-    Subsecs. (h), (i). [Pub. L. 112–141, § 33010(2)][/us/pl/112/141/s33010/2], added subsecs. (h) and (i).
+    Subsecs. (h), (i). [Pub. L. 112–141][/us/pl/112/141], § 33010(2), added subsecs. (h) and (i).
 
-    2005—Subsec. (a)(1). [Pub. L. 109–59, § 7120(a)(1)][/us/pl/109/59/s7120/a/1], in introductory provisions substituted “regulation, order, special permit, or approval issued” for “regulation prescribed or order issued” and “$50,000” for “$25,000”.
+    2005—Subsec. (a)(1). [Pub. L. 109–59][/us/pl/109/59], § 7120(a)(1), in introductory provisions substituted “regulation, order, special permit, or approval issued” for “regulation prescribed or order issued” and “$50,000” for “$25,000”.
 
-    Subsec. (a)(2) to (4). [Pub. L. 109–59, § 7120(a)(2)][/us/pl/109/59/s7120/a/2], (3), added pars. (2) and (3) and redesignated former par. (2) as (4).
+    Subsec. (a)(2) to (4). [Pub. L. 109–59][/us/pl/109/59], § 7120(a)(2), (3), added pars. (2) and (3) and redesignated former par. (2) as (4).
 
-    Subsec. (b). [Pub. L. 109–59, § 7126][/us/pl/109/59/s7126], substituted “Secretary may” for “Secretary of Transportation may”.
+    Subsec. (b). [Pub. L. 109–59][/us/pl/109/59], § 7126, substituted “Secretary may” for “Secretary of Transportation may”.
 
-    [Pub. L. 109–59, § 7120(b)][/us/pl/109/59/s7120/b], substituted “regulation prescribed or order, special permit, or approval issued” for “regulation prescribed”.
+    [Pub. L. 109–59][/us/pl/109/59], § 7120(b), substituted “regulation prescribed or order, special permit, or approval issued” for “regulation prescribed”.
 
-    Subsec. (d). [Pub. L. 109–59, § 7120(c)][/us/pl/109/59/s7120/c], substituted “section and any accrued interest on the civil penalty as calculated in accordance with section 1005 of the Oil Pollution Act of 1990 ([33 U.S.C. 2705][/us/usc/t33/s2705]). In the civil action, the amount and appropriateness of the civil penalty shall not be subject to review.” for “section.”
+    Subsec. (d). [Pub. L. 109–59][/us/pl/109/59], § 7120(c), substituted “section and any accrued interest on the civil penalty as calculated in accordance with section 1005 of the Oil Pollution Act of 1990 ([33 U.S.C. 2705][/us/usc/t33/s2705]). In the civil action, the amount and appropriateness of the civil penalty shall not be subject to review.” for “section.”
 
  __Effective Date of 2012 Amendment__ 
 
@@ -279,7 +279,7 @@ Jan. 3, 1975, Pub. L. 93–633, § 110(a)(2), 88 Stat. 2160.  </td>
 
  __Effective Date of 2005 Amendment__ 
 
-[Pub. L. 109–59, title VII, § 7120(d)][/us/pl/109/59/s7120/d], Aug. 10, 2005, [119 Stat. 1906][/us/stat/119/1906], provided that:
+[Pub. L. 109–59, title VII][/us/pl/109/59/tVII], § 7120(d), Aug. 10, 2005, [119 Stat. 1906][/us/stat/119/1906], provided that:
 
 >     “(1)  __Hearing requirement__  __.—__ 
 
@@ -297,27 +297,27 @@ Jan. 3, 1975, Pub. L. 93–633, § 110(a)(2), 88 Stat. 2160.  </td>
 ----------
 
 [/us/usc/t33/s2705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2705
-[/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F780
-[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtVII
 [/us/stat/119/1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1905
-[/us/pl/112/141/s33010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs33010
+[/us/pl/112/141/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtIII
 [/us/stat/126/837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F837
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
-[/us/pl/112/141/s33010/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs33010%2F1%2FA
-[/us/pl/112/141/s33010/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs33010%2F1%2FB
-[/us/pl/112/141/s33010/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs33010%2F1%2FC
-[/us/pl/112/141/s33010/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs33010%2F2
-[/us/pl/109/59/s7120/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7120%2Fa%2F1
-[/us/pl/109/59/s7120/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7120%2Fa%2F2
-[/us/pl/109/59/s7126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7126
-[/us/pl/109/59/s7120/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7120%2Fb
-[/us/pl/109/59/s7120/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7120%2Fc
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/usc/t33/s2705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2705
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
-[/us/pl/109/59/s7120/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7120%2Fd
+[/us/pl/109/59/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtVII
 [/us/stat/119/1906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1906
 [/us/usc/t49/s5123/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5123%2Fa
 [/us/usc/t49/s5123/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5123%2Fa

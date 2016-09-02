@@ -35,7 +35,7 @@
 
     Notwithstanding subsections (a) and (b), before the Secretary may waive any term imposed under this section that an interest in land be used for an aeronautical purpose, the Secretary must provide notice to the public not less than 30 days before waiving such term.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1280][/us/stat/108/1280]; [Pub. L. 106–181, title I][/us/pl/106/181], §§ 125(d), 135(d)(3), Apr. 5, 2000, [114 Stat. 76][/us/stat/114/76], 85.)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1280][/us/stat/108/1280]; [Pub. L. 106–181, title I][/us/pl/106/181/tI], §§ 125(d), 135(d)(3), Apr. 5, 2000, [114 Stat. 76][/us/stat/114/76], 85.)
 
 <table>
 
@@ -135,9 +135,9 @@ Oct. 3, 1944, ch. 479, 58 Stat. 765, § 13(g)(3); added July 30, 1947, ch. 404
 
  __Amendments__ 
 
-    2000—Subsec. (a)(1). [Pub. L. 106–181, § 135(d)(3)][/us/pl/106/181/s135/d/3], substituted “conveyance” for “gift” in introductory provisions and subpar. (B) and “conveyed” for “given” in subpar. (A).
+    2000—Subsec. (a)(1). [Pub. L. 106–181][/us/pl/106/181], § 135(d)(3), substituted “conveyance” for “gift” in introductory provisions and subpar. (B) and “conveyed” for “given” in subpar. (A).
 
-    Subsec. (c). [Pub. L. 106–181, § 125(d)][/us/pl/106/181/s125/d], added subsec. (c).
+    Subsec. (c). [Pub. L. 106–181][/us/pl/106/181], § 125(d), added subsec. (c).
 
  __Effective Date of 2000 Amendment__ 
 
@@ -155,15 +155,15 @@ Oct. 3, 1944, ch. 479, 58 Stat. 765, § 13(g)(3); added July 30, 1947, ch. 404
 ----------
 
 [/us/usc/t49/s47152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs47152
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1280
-[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/106/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtI
 [/us/stat/114/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F76
 [/us/stat/58/765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F765
 [/us/stat/61/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F501
 [/us/stat/61/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F502
-[/us/pl/106/181/s135/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs135%2Fd%2F3
-[/us/pl/106/181/s125/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs125%2Fd
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/pl/106/181/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106

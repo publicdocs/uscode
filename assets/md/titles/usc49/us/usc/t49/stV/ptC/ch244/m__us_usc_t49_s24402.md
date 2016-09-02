@@ -225,31 +225,31 @@
 
     Grants under this chapter may be used to provide access to rolling stock for nonmotorized transportation, including bicycles, and recreational equipment, and to provide storage capacity in trains for such transportation, equipment, and other luggage, to ensure passenger safety.
 
-(Added [Pub. L. 110–432, div. B, title III, § 301(a)][/us/pl/110/432/s301/a], Oct. 16, 2008, [122 Stat. 4936][/us/stat/122/4936]; amended [Pub. L. 114–94, div. A, title XI][/us/pl/114/94], §§ 11303(b)(1)(C), 11309, Dec. 4, 2015, [129 Stat. 1654][/us/stat/129/1654], 1669.)
+(Added [Pub. L. 110–432, div. B, title III][/us/pl/110/432/dB/tIII], § 301(a), Oct. 16, 2008, [122 Stat. 4936][/us/stat/122/4936]; amended [Pub. L. 114–94, div. A, title XI][/us/pl/114/94/dA/tXI], §§ 11303(b)(1)(C), 11309, Dec. 4, 2015, [129 Stat. 1654][/us/stat/129/1654], 1669.)
 
  __References in Text__ 
 
     The date of enactment of the Passenger Rail Investment and Improvement Act of 2008, referred to in subsecs. (a)(2) and (d), is the date of enactment of div. B of [Pub. L. 110–432][/us/pl/110/432], which was approved Oct. 16, 2008.
 
-    Section 211 of the Passenger Rail Investment and Improvement Act of 2008, referred to in subsecs. (b)(1) and (c)(1)(A), is [section 211 of Pub. L. 110–432][/us/pl/110/432/s211], which was set out as a note under [section 24902 of this title][/us/usc/t49/s24902], prior to repeal by [Pub. L. 114–94, div. A, title XI, § 11306(b)(3)][/us/pl/114/94/s11306/b/3], Dec. 4, 2015, [129 Stat. 1660][/us/stat/129/1660].
+    Section 211 of the Passenger Rail Investment and Improvement Act of 2008, referred to in subsecs. (b)(1) and (c)(1)(A), is [section 211 of Pub. L. 110–432][/us/pl/110/432/s211], which was set out as a note under [section 24902 of this title][/us/usc/t49/s24902], prior to repeal by [Pub. L. 114–94, div. A, title XI][/us/pl/114/94/dA/tXI], § 11306(b)(3), Dec. 4, 2015, [129 Stat. 1660][/us/stat/129/1660].
 
     Section 207 of the Passenger Rail Investment and Improvement Act of 2008, referred to in subsec. (c)(2)(A)(i), is [section 207 of Pub. L. 110–432][/us/pl/110/432/s207], which is set out in a note under [section 24101 of this title][/us/usc/t49/s24101].
 
-    [Section 5302 of this title][/us/usc/t49/s5302], referred to in subsec. (c)(3)(A)(vii), was amended generally by [Pub. L. 112–141, div. B, § 20004][/us/pl/112/141/s20004], July 6, 2012, [126 Stat. 623][/us/stat/126/623], and, as so amended, no longer contains a subsec. (a)(1)(G), which described a type of capital project. However, capital project is defined elsewhere in that section.
+    [Section 5302 of this title][/us/usc/t49/s5302], referred to in subsec. (c)(3)(A)(vii), was amended generally by [Pub. L. 112–141, div. B][/us/pl/112/141/dB], § 20004, July 6, 2012, [126 Stat. 623][/us/stat/126/623], and, as so amended, no longer contains a subsec. (a)(1)(G), which described a type of capital project. However, capital project is defined elsewhere in that section.
 
     [Section 22506 of this title][/us/usc/t49/s22506], referred to in subsec. (d), probably should be a reference to [section 22706 of this title][/us/usc/t49/s22706], which requires the Secretary to prescribe procedures for submitting State rail plans for review. No [section 22506 of this title][/us/usc/t49/s22506] has been enacted.
 
-    [Section 22504(a)(5) of this title][/us/usc/t49/s22504/a/5], referred to in subsec. (e), probably should be a reference to [section 22705(a)(5) of this title][/us/usc/t49/s22705/a/5], which requires each State rail plan to contain a long-range rail investment program that includes a list of any rail capital projects expected to be undertaken or supported in whole or in part by the State. [Section 22504(a) of this title][/us/usc/t49/s22504/a] did not contain a par. (5), prior to repeal by [Pub. L. 114–94, div. A, title XI, § 11301(c)(3)][/us/pl/114/94/s11301/c/3], Dec. 4, 2015, [129 Stat. 1648][/us/stat/129/1648].
+    [Section 22504(a)(5) of this title][/us/usc/t49/s22504/a/5], referred to in subsec. (e), probably should be a reference to [section 22705(a)(5) of this title][/us/usc/t49/s22705/a/5], which requires each State rail plan to contain a long-range rail investment program that includes a list of any rail capital projects expected to be undertaken or supported in whole or in part by the State. [Section 22504(a) of this title][/us/usc/t49/s22504/a] did not contain a par. (5), prior to repeal by [Pub. L. 114–94, div. A, title XI][/us/pl/114/94/dA/tXI], § 11301(c)(3), Dec. 4, 2015, [129 Stat. 1648][/us/stat/129/1648].
 
-    Section 101 of the Passenger Rail Investment and Improvement Act of 2008, referred to in subsecs. (e) and (k), is [section 101 of title I of div. B of Pub. L. 110–432][/us/pl/110/432/s101], Oct. 16, 2008, [122 Stat. 4908][/us/stat/122/4908], which is not classified to the Code.
+    Section 101 of the Passenger Rail Investment and Improvement Act of 2008, referred to in subsecs. (e) and (k), is [section 101 of title I of div. B of Pub. L. 110–432][/us/pl/110/432/dB/tI/s101], Oct. 16, 2008, [122 Stat. 4908][/us/stat/122/4908], which is not classified to the Code.
 
     Section 209(d) of the Passenger Rail Investment and Improvement Act of 2008, referred to in subsec. (k), is [section 209(d) of Pub. L. 110–432][/us/pl/110/432/s209/d], which was redesignated as section 209(c) of the Act by [Pub. L. 114–94][/us/pl/114/94] and is set out in a note under [section 24101 of this title][/us/usc/t49/s24101].
 
  __Amendments__ 
 
-    2015—Subsec. (j). [Pub. L. 114–94, § 11309][/us/pl/114/94/s11309], added subsec. (j).
+    2015—Subsec. (j). [Pub. L. 114–94][/us/pl/114/94], § 11309, added subsec. (j).
 
-    [Pub. L. 114–94, § 11303(b)(1)(C)][/us/pl/114/94/s11303/b/1/C], struck out subsec. (j) which related to special transportation circumstances.
+    [Pub. L. 114–94][/us/pl/114/94], § 11303(b)(1)(C), struck out subsec. (j) which related to special transportation circumstances.
 
  __Effective Date of 2015 Amendment__ 
 
@@ -267,19 +267,19 @@
 ----------
 
 [/us/usc/t23/s135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs135
-[/us/pl/110/432/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs301%2Fa
+[/us/pl/110/432/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdB%2FtIII
 [/us/stat/122/4936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4936
-[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtXI
 [/us/stat/129/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1654
 [/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
 [/us/pl/110/432/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs211
 [/us/usc/t49/s24902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24902
-[/us/pl/114/94/s11306/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11306%2Fb%2F3
+[/us/pl/114/94/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtXI
 [/us/stat/129/1660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1660
 [/us/pl/110/432/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs207
 [/us/usc/t49/s24101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24101
 [/us/usc/t49/s5302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5302
-[/us/pl/112/141/s20004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs20004
+[/us/pl/112/141/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdB
 [/us/stat/126/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F623
 [/us/usc/t49/s22506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs22506
 [/us/usc/t49/s22706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs22706
@@ -287,15 +287,15 @@
 [/us/usc/t49/s22504/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs22504%2Fa%2F5
 [/us/usc/t49/s22705/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs22705%2Fa%2F5
 [/us/usc/t49/s22504/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs22504%2Fa
-[/us/pl/114/94/s11301/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11301%2Fc%2F3
+[/us/pl/114/94/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtXI
 [/us/stat/129/1648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1648
-[/us/pl/110/432/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs101
+[/us/pl/110/432/dB/tI/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdB%2FtI%2Fs101
 [/us/stat/122/4908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4908
 [/us/pl/110/432/s209/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs209%2Fd
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/usc/t49/s24101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24101
-[/us/pl/114/94/s11309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11309
-[/us/pl/114/94/s11303/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11303%2Fb%2F1%2FC
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313

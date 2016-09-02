@@ -39,15 +39,15 @@
 
         (3) The Board shall maintain 1 or more simplified and expedited methods for determining the reasonableness of challenged rates in those cases in which a full stand-alone cost presentation is too costly, given the value of the case.
 
-(Added [Pub. L. 104–88, title I, § 102(a)][/us/pl/104/88/s102/a], Dec. 29, 1995, [109 Stat. 809][/us/stat/109/809]; amended [Pub. L. 104–287, § 5(22)][/us/pl/104/287/s5/22], Oct. 11, 1996, [110 Stat. 3390][/us/stat/110/3390]; [Pub. L. 114–110, § 11(a)][/us/pl/114/110/s11/a], Dec. 18, 2015, [129 Stat. 2233][/us/stat/129/2233].)
+(Added [Pub. L. 104–88, title I][/us/pl/104/88/tI], § 102(a), Dec. 29, 1995, [109 Stat. 809][/us/stat/109/809]; amended [Pub. L. 104–287][/us/pl/104/287], § 5(22), Oct. 11, 1996, [110 Stat. 3390][/us/stat/110/3390]; [Pub. L. 114–110][/us/pl/114/110], § 11(a), Dec. 18, 2015, [129 Stat. 2233][/us/stat/129/2233].)
 
  __Prior Provisions__ 
 
-    Prior sections 10701 and 10701a were omitted in the general amendment of this subtitle by [Pub. L. 104–88, § 102(a)][/us/pl/104/88/s102/a].
+    Prior sections 10701 and 10701a were omitted in the general amendment of this subtitle by [Pub. L. 104–88][/us/pl/104/88], § 102(a).
 
-    Section 10701, [Pub. L. 95–473][/us/pl/95/473], Oct. 17, 1978, [92 Stat. 1371][/us/stat/92/1371]; [Pub. L. 96–296, § 13(a)][/us/pl/96/296/s13/a], July 1, 1980, [94 Stat. 803][/us/stat/94/803]; [Pub. L. 96–448, title II, § 201(b)(1)][/us/pl/96/448/s201/b/1], (2), Oct. 14, 1980, [94 Stat. 1899][/us/stat/94/1899], 1900; [Pub. L. 97–261, § 9(a)][/us/pl/97/261/s9/a], Sept. 20, 1982, [96 Stat. 1109][/us/stat/96/1109]; [Pub. L. 103–180, § 2(a)][/us/pl/103/180/s2/a], (b), (g), Dec. 3, 1993, [107 Stat. 2044][/us/stat/107/2044], 2047, 2049, related to standards for rates, classifications, through routes, rules, and practices. See sections 10701, 13701, 13709, and 15501 of this title.
+    Section 10701, [Pub. L. 95–473][/us/pl/95/473], Oct. 17, 1978, [92 Stat. 1371][/us/stat/92/1371]; [Pub. L. 96–296][/us/pl/96/296], § 13(a), July 1, 1980, [94 Stat. 803][/us/stat/94/803]; [Pub. L. 96–448, title II][/us/pl/96/448/tII], § 201(b)(1), (2), Oct. 14, 1980, [94 Stat. 1899][/us/stat/94/1899], 1900; [Pub. L. 97–261][/us/pl/97/261], § 9(a), Sept. 20, 1982, [96 Stat. 1109][/us/stat/96/1109]; [Pub. L. 103–180][/us/pl/103/180], § 2(a), (b), (g), Dec. 3, 1993, [107 Stat. 2044][/us/stat/107/2044], 2047, 2049, related to standards for rates, classifications, through routes, rules, and practices. See sections 10701, 13701, 13709, and 15501 of this title.
 
-    Section 10701a, added [Pub. L. 96–448, title II, § 201(a)][/us/pl/96/448/s201/a], Oct. 14, 1980, [94 Stat. 1898][/us/stat/94/1898]; amended [Pub. L. 103–272, § 4(j)(19)][/us/pl/103/272/s4/j/19], July 5, 1994, [108 Stat. 1369][/us/stat/108/1369], related to standards for rates for rail carriers. See [section 10701 of this title][/us/usc/t49/s10701].
+    Section 10701a, added [Pub. L. 96–448, title II][/us/pl/96/448/tII], § 201(a), Oct. 14, 1980, [94 Stat. 1898][/us/stat/94/1898]; amended [Pub. L. 103–272][/us/pl/103/272], § 4(j)(19), July 5, 1994, [108 Stat. 1369][/us/stat/108/1369], related to standards for rates for rail carriers. See [section 10701 of this title][/us/usc/t49/s10701].
 
  __Amendments__ 
 
@@ -72,26 +72,26 @@
 
 [/us/usc/t49/s10707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs10707
 [/us/usc/t49/s10704/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs10704%2Fa%2F2
-[/us/pl/104/88/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs102%2Fa
+[/us/pl/104/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtI
 [/us/stat/109/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F809
-[/us/pl/104/287/s5/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F22
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3390
-[/us/pl/114/110/s11/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F110%2Fs11%2Fa
+[/us/pl/114/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F110
 [/us/stat/129/2233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2233
-[/us/pl/104/88/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs102%2Fa
+[/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/95/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F473
 [/us/stat/92/1371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1371
-[/us/pl/96/296/s13/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F296%2Fs13%2Fa
+[/us/pl/96/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F296
 [/us/stat/94/803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F803
-[/us/pl/96/448/s201/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F448%2Fs201%2Fb%2F1
+[/us/pl/96/448/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F448%2FtII
 [/us/stat/94/1899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1899
-[/us/pl/97/261/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F261%2Fs9%2Fa
+[/us/pl/97/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F261
 [/us/stat/96/1109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1109
-[/us/pl/103/180/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F180%2Fs2%2Fa
+[/us/pl/103/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F180
 [/us/stat/107/2044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2044
-[/us/pl/96/448/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F448%2Fs201%2Fa
+[/us/pl/96/448/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F448%2FtII
 [/us/stat/94/1898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1898
-[/us/pl/103/272/s4/j/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs4%2Fj%2F19
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1369
 [/us/usc/t49/s10701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs10701
 [/us/pl/114/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F110

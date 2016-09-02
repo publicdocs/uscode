@@ -35,7 +35,7 @@
 
     This section does not prevent the Administrator from continuing in effect, amending, or further supplementing a regulation prescribed before October 28, 1991, governing the use of alcohol or a controlled substance by airmen, crewmembers, airport security screening employees, air carrier employees responsible for safety-sensitive functions (as decided by the Administrator), or employees of the Administration with responsibility for safety-sensitive functions.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1224][/us/stat/108/1224]; [Pub. L. 107–71, title I, § 139(3)][/us/pl/107/71/s139/3], Nov. 19, 2001, [115 Stat. 640][/us/stat/115/640].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1224][/us/stat/108/1224]; [Pub. L. 107–71, title I][/us/pl/107/71/tI], § 139(3), Nov. 19, 2001, [115 Stat. 640][/us/stat/115/640].)
 
 <table>
 
@@ -126,9 +126,9 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 614(e); added Oct. 28, 1991,
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1224
-[/us/pl/107/71/s139/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs139%2F3
+[/us/pl/107/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2FtI
 [/us/stat/115/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F640
 [/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
 

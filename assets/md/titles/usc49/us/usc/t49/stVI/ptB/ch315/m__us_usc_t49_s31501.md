@@ -29,7 +29,7 @@
 
         (B) does not include a migrant worker providing transportation for migrant workers and their immediate families.
 
-([Pub. L. 97–449][/us/pl/97/449], Jan. 12, 1983, [96 Stat. 2438][/us/stat/96/2438], § 3101; renumbered § 31501 and amended [Pub. L. 103–272, § 1(c)][/us/pl/103/272/s1/c], (e), July 5, 1994, [108 Stat. 745][/us/stat/108/745], 1029; [Pub. L. 103–429, § 6(26)][/us/pl/103/429/s6/26], Oct. 31, 1994, [108 Stat. 4380][/us/stat/108/4380]; [Pub. L. 104–88, title III, § 308(k)(1)][/us/pl/104/88/s308/k/1], (2), Dec. 29, 1995, [109 Stat. 947][/us/stat/109/947], 948.)
+([Pub. L. 97–449][/us/pl/97/449], Jan. 12, 1983, [96 Stat. 2438][/us/stat/96/2438], § 3101; renumbered § 31501 and amended [Pub. L. 103–272][/us/pl/103/272], § 1(c), (e), July 5, 1994, [108 Stat. 745][/us/stat/108/745], 1029; [Pub. L. 103–429][/us/pl/103/429], § 6(26), Oct. 31, 1994, [108 Stat. 4380][/us/stat/108/4380]; [Pub. L. 104–88, title III][/us/pl/104/88/tIII], § 308(k)(1), (2), Dec. 29, 1995, [109 Stat. 947][/us/stat/109/947], 948.)
 
 <table>
 
@@ -125,9 +125,9 @@ Feb. 4, 1887, ch. 104, 24 Stat. 397, § 203(a)(22), (23); added Aug. 3, 1956, 
 
  __Amendments__ 
 
-    1995—Par. (2). [Pub. L. 104–88, § 308(k)(1)][/us/pl/104/88/s308/k/1], substituted “13102” for “10102”.
+    1995—Par. (2). [Pub. L. 104–88][/us/pl/104/88], § 308(k)(1), substituted “13102” for “10102”.
 
-    Par. (3)(A). [Pub. L. 104–88, § 308(k)(2)][/us/pl/104/88/s308/k/2], substituted “13501” for “10521(a)”.
+    Par. (3)(A). [Pub. L. 104–88][/us/pl/104/88], § 308(k)(2), substituted “13501” for “10521(a)”.
 
     1994—[Pub. L. 103–272][/us/pl/103/272] renumbered [section 3101 of this title][/us/usc/t49/s3101] as this section and amended it generally, restating it without substantive change.
 
@@ -158,16 +158,16 @@ Feb. 4, 1887, ch. 104, 24 Stat. 397, § 203(a)(22), (23); added Aug. 3, 1956, 
 [/us/usc/t49/s13501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs13501
 [/us/pl/97/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449
 [/us/stat/96/2438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2438
-[/us/pl/103/272/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fc
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F745
-[/us/pl/103/429/s6/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F26
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/stat/108/4380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4380
-[/us/pl/104/88/s308/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs308%2Fk%2F1
+[/us/pl/104/88/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtIII
 [/us/stat/109/947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F947
 [/us/usc/t49/s10521/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs10521%2Fa
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
-[/us/pl/104/88/s308/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs308%2Fk%2F1
-[/us/pl/104/88/s308/k/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs308%2Fk%2F2
+[/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
+[/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/usc/t49/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs3101
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429

@@ -85,7 +85,7 @@
 
         Nothing in this subsection shall be construed to preempt, affect, or supersede any State titling or registration law or regulation for a replica motor vehicle, or exempt a person from complying with such law or regulation.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 947][/us/stat/108/947]; [Pub. L. 105–178, title VII, § 7107(a)][/us/pl/105/178/s7107/a], June 9, 1998, [112 Stat. 469][/us/stat/112/469]; [Pub. L. 114–94, div. B, title XXIV, § 24405(a)][/us/pl/114/94/s24405/a], Dec. 4, 2015, [129 Stat. 1721][/us/stat/129/1721].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 947][/us/stat/108/947]; [Pub. L. 105–178, title VII][/us/pl/105/178/tVII], § 7107(a), June 9, 1998, [112 Stat. 469][/us/stat/112/469]; [Pub. L. 114–94, div. B, title XXIV][/us/pl/114/94/dB/tXXIV], § 24405(a), Dec. 4, 2015, [129 Stat. 1721][/us/stat/129/1721].)
 
 <table>
 
@@ -143,7 +143,7 @@ Sept. 9, 1966, Pub. L. 89–563, 80 Stat. 718, § 108(j); added Oct. 31, 1988,
 
  __Transition Rule__ 
 
-[Pub. L. 105–178, title VII, § 7107(b)][/us/pl/105/178/s7107/b], June 9, 1998, [112 Stat. 469][/us/stat/112/469], provided that: 
+[Pub. L. 105–178, title VII][/us/pl/105/178/tVII], § 7107(b), June 9, 1998, [112 Stat. 469][/us/stat/112/469], provided that: 
 
 > “A person who is the owner of a motor vehicle located in the United States on the date of enactment of this Act \[June 9, 1998\] may seek an exemption under [section 30114 of title 49][/us/usc/t49/s30114], United States Code, as amended by subsection (a) of this section, for a period of 6 months after the date regulations of the Secretary of Transportation promulgated in response to such amendment take effect.”
 
@@ -159,15 +159,15 @@ Sept. 9, 1966, Pub. L. 89–563, 80 Stat. 718, § 108(j); added Oct. 31, 1988,
 [/us/usc/t49/s30141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30141
 [/us/usc/t15/s1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1232
 [/us/usc/t49/s30141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30141
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F947
-[/us/pl/105/178/s7107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs7107%2Fa
+[/us/pl/105/178/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtVII
 [/us/stat/112/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F469
-[/us/pl/114/94/s24405/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24405%2Fa
+[/us/pl/114/94/dB/tXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdB%2FtXXIV
 [/us/stat/129/1721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1721
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
-[/us/pl/105/178/s7107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs7107%2Fb
+[/us/pl/105/178/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtVII
 [/us/stat/112/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F469
 [/us/usc/t49/s30114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30114
 

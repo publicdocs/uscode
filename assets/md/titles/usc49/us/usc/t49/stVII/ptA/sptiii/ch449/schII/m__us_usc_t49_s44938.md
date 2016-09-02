@@ -55,7 +55,7 @@
 
             (B) for which extraordinary security measures are in place.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1220][/us/stat/108/1220]; [Pub. L. 103–305, title V, § 502][/us/pl/103/305/s502], Aug. 23, 1994, [108 Stat. 1595][/us/stat/108/1595]; [Pub. L. 105–362, title XV, § 1502(b)][/us/pl/105/362/s1502/b], Nov. 10, 1998, [112 Stat. 3295][/us/stat/112/3295]; [Pub. L. 107–71, title I, § 101(f)(7)][/us/pl/107/71/s101/f/7], (9), Nov. 19, 2001, [115 Stat. 603][/us/stat/115/603].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1220][/us/stat/108/1220]; [Pub. L. 103–305, title V][/us/pl/103/305/tV], § 502, Aug. 23, 1994, [108 Stat. 1595][/us/stat/108/1595]; [Pub. L. 105–362, title XV][/us/pl/105/362/tXV], § 1502(b), Nov. 10, 1998, [112 Stat. 3295][/us/stat/112/3295]; [Pub. L. 107–71, title I][/us/pl/107/71/tI], § 101(f)(7), (9), Nov. 19, 2001, [115 Stat. 603][/us/stat/115/603].)
 
 <table>
 
@@ -161,17 +161,17 @@ Nov. 16, 1990, Pub. L. 101–604, § 106(d), 104 Stat. 3075.  </td>
 
  __Amendments__ 
 
-    2001—Subsec. (a). [Pub. L. 107–71, § 101(f)(7)][/us/pl/107/71/s101/f/7], (9), in introductory provisions, substituted “Under Secretary” for “Administrator” in two places and “of Transportation for Security” for “of the Federal Aviation Administration”.
+    2001—Subsec. (a). [Pub. L. 107–71][/us/pl/107/71], § 101(f)(7), (9), in introductory provisions, substituted “Under Secretary” for “Administrator” in two places and “of Transportation for Security” for “of the Federal Aviation Administration”.
 
-    Subsec. (a)(9). [Pub. L. 107–71, § 101(f)(7)][/us/pl/107/71/s101/f/7], substituted “Under Secretary” for “Administrator”.
+    Subsec. (a)(9). [Pub. L. 107–71][/us/pl/107/71], § 101(f)(7), substituted “Under Secretary” for “Administrator”.
 
-    Subsec. (b). [Pub. L. 107–71, § 101(f)(7)][/us/pl/107/71/s101/f/7], substituted “Under Secretary” for “Administrator” in introductory provisions and par. (3)(A).
+    Subsec. (b). [Pub. L. 107–71][/us/pl/107/71], § 101(f)(7), substituted “Under Secretary” for “Administrator” in introductory provisions and par. (3)(A).
 
-    1998—Subsec. (a). [Pub. L. 105–362, § 1502(b)(1)][/us/pl/105/362/s1502/b/1], in second sentence of introductory provisions, substituted “biennial report” for “annual report” and inserted “in each year the Administrator submits the biennial report” after “subsection (b) of this section”.
+    1998—Subsec. (a). [Pub. L. 105–362][/us/pl/105/362], § 1502(b)(1), in second sentence of introductory provisions, substituted “biennial report” for “annual report” and inserted “in each year the Administrator submits the biennial report” after “subsection (b) of this section”.
 
-    Subsec. (b). [Pub. L. 105–362, § 1502(b)(2)][/us/pl/105/362/s1502/b/2], substituted “biennially” for “annually” in introductory provisions.
+    Subsec. (b). [Pub. L. 105–362][/us/pl/105/362], § 1502(b)(2), substituted “biennially” for “annually” in introductory provisions.
 
-    Subsec. (c). [Pub. L. 105–362, § 1502(b)(3)][/us/pl/105/362/s1502/b/3], struck out heading and text of subsec. (c). Text read as follows: “The Administrator shall submit to Congress an annual report for each of the calendar years 1991 and 1992 on the progress being made, and the problems occurring, in carrying out [section 44904 of this title][/us/usc/t49/s44904]. The report shall include recommendations for improving domestic air transportation security.”
+    Subsec. (c). [Pub. L. 105–362][/us/pl/105/362], § 1502(b)(3), struck out heading and text of subsec. (c). Text read as follows: “The Administrator shall submit to Congress an annual report for each of the calendar years 1991 and 1992 on the progress being made, and the problems occurring, in carrying out [section 44904 of this title][/us/usc/t49/s44904]. The report shall include recommendations for improving domestic air transportation security.”
 
     1994—Subsec. (a). [Pub. L. 103–305][/us/pl/103/305] substituted “March 31” for “December 31”.
 
@@ -194,20 +194,20 @@ Nov. 16, 1990, Pub. L. 101–604, § 106(d), 104 Stat. 3075.  </td>
 [/us/usc/t49/s44501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44501%2Fc
 [/us/usc/t49/s44901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44901
 [/us/usc/t49/s44906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44906
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1220
-[/us/pl/103/305/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2Fs502
+[/us/pl/103/305/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2FtV
 [/us/stat/108/1595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1595
-[/us/pl/105/362/s1502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs1502%2Fb
+[/us/pl/105/362/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2FtXV
 [/us/stat/112/3295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3295
-[/us/pl/107/71/s101/f/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs101%2Ff%2F7
+[/us/pl/107/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2FtI
 [/us/stat/115/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F603
-[/us/pl/107/71/s101/f/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs101%2Ff%2F7
-[/us/pl/107/71/s101/f/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs101%2Ff%2F7
-[/us/pl/107/71/s101/f/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs101%2Ff%2F7
-[/us/pl/105/362/s1502/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs1502%2Fb%2F1
-[/us/pl/105/362/s1502/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs1502%2Fb%2F2
-[/us/pl/105/362/s1502/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs1502%2Fb%2F3
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/105/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362
+[/us/pl/105/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362
+[/us/pl/105/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362
 [/us/usc/t49/s44904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44904
 [/us/pl/103/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003

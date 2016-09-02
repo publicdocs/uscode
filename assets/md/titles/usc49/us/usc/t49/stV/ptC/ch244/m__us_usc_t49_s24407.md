@@ -161,7 +161,7 @@
 
         For the purposes of this subsection, the term “appropriate portion” means a share, for each State subject to paragraph (1), not less than the share of the total railroad route miles in such State of the total railroad route miles in the United States, excluding from all totals the route miles exclusively used for tourist, scenic, and excursion railroad operations.
 
-(Added [Pub. L. 114–94, div. A, title XI, § 11301(a)][/us/pl/114/94/s11301/a], Dec. 4, 2015, [129 Stat. 1644][/us/stat/129/1644].)
+(Added [Pub. L. 114–94, div. A, title XI][/us/pl/114/94/dA/tXI], § 11301(a), Dec. 4, 2015, [129 Stat. 1644][/us/stat/129/1644].)
 
  __Effective Date__ 
 
@@ -169,7 +169,7 @@
 
  __Data and Analysis__ 
 
-[Pub. L. 114–94, div. A, title XI, § 11313][/us/pl/114/94/s11313], Dec. 4, 2015, [129 Stat. 1673][/us/stat/129/1673], provided that:
+[Pub. L. 114–94, div. A, title XI][/us/pl/114/94/dA/tXI], § 11313, Dec. 4, 2015, [129 Stat. 1673][/us/stat/129/1673], provided that:
 
 >     “(a)  __Data__  __.—__ 
 
@@ -215,7 +215,7 @@
 
  __Highway-Rail Grade Crossing Safety__ 
 
-[Pub. L. 114–94, div. A, title XI, § 11401][/us/pl/114/94/s11401], Dec. 4, 2015, [129 Stat. 1679][/us/stat/129/1679], provided that:
+[Pub. L. 114–94, div. A, title XI][/us/pl/114/94/dA/tXI], § 11401, Dec. 4, 2015, [129 Stat. 1679][/us/stat/129/1679], provided that:
 
 >     “(a) __Model State Highway-Rail Grade Crossing Action Plan.—__ 
 
@@ -253,7 +253,7 @@
 
 >             “(B)
 
->              each State identified under section 202 of the Rail Safety Improvement Act of 2008 \[[Pub. L. 110–432, div. A][/us/pl/110/432]\] ([49 U.S.C. 22501][/us/usc/t49/s22501] note) to—
+>              each State identified under section 202 of the Rail Safety Improvement Act of 2008 \[[Pub. L. 110–432, div. A][/us/pl/110/432/dA]\] ([49 U.S.C. 22501][/us/usc/t49/s22501] note) to—
 
 >                 “(i) update the State action plan under such section; and
 
@@ -333,7 +333,7 @@
 
  __State Action Plans__ 
 
-[Pub. L. 110–432, div. A, title II, § 202][/us/pl/110/432/s202], Oct. 16, 2008, [122 Stat. 4868][/us/stat/122/4868], provided that:
+[Pub. L. 110–432, div. A, title II][/us/pl/110/432/dA/tII], § 202, Oct. 16, 2008, [122 Stat. 4868][/us/stat/122/4868], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -347,7 +347,7 @@
 
  __Operation Lifesaver__ 
 
-[Pub. L. 110–432, div. A, title II, § 206][/us/pl/110/432/s206], Oct. 16, 2008, [122 Stat. 4873][/us/stat/122/4873], as amended by [Pub. L. 114–94, div. A, title XI, § 11316(j)(4)][/us/pl/114/94/s11316/j/4], Dec. 4, 2015, [129 Stat. 1677][/us/stat/129/1677], provided that:
+[Pub. L. 110–432, div. A, title II][/us/pl/110/432/dA/tII], § 206, Oct. 16, 2008, [122 Stat. 4873][/us/stat/122/4873], as amended by [Pub. L. 114–94, div. A, title XI][/us/pl/114/94/dA/tXI], § 11316(j)(4), Dec. 4, 2015, [129 Stat. 1677][/us/stat/129/1677], provided that:
 
 >     “(a)  __Grant__  __.—__ 
 
@@ -374,26 +374,26 @@
 ----------
 ----------
 
-[/us/pl/114/94/s11301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11301%2Fa
+[/us/pl/114/94/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtXI
 [/us/stat/129/1644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1644
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
-[/us/pl/114/94/s11313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11313
+[/us/pl/114/94/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtXI
 [/us/stat/129/1673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1673
-[/us/pl/114/94/s11401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11401
+[/us/pl/114/94/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtXI
 [/us/stat/129/1679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1679
 [/us/usc/t49/s22501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs22501
-[/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
+[/us/pl/110/432/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdA
 [/us/usc/t49/s22501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs22501
 [/us/usc/t23/s130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs130
-[/us/pl/110/432/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs202
+[/us/pl/110/432/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdA%2FtII
 [/us/stat/122/4868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4868
 [/us/pl/110/432/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs202
 [/us/pl/110/432/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs2%2Fa
 [/us/usc/t49/s20102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs20102
-[/us/pl/110/432/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs206
+[/us/pl/110/432/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdA%2FtII
 [/us/stat/122/4873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4873
-[/us/pl/114/94/s11316/j/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11316%2Fj%2F4
+[/us/pl/114/94/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtXI
 [/us/stat/129/1677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1677
 [/us/pl/110/432/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs206
 [/us/pl/110/432/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs2%2Fa

@@ -31,7 +31,7 @@
 
     The Secretary shall make available to the Comptroller General of the United States such information with respect to any Federal credit instrument made under this subchapter as the Comptroller General may require to carry out the duties of the Comptroller General under chapter 7 of title 31, United States Code.
 
-(Added [Pub. L. 106–181, title II, § 210(a)][/us/pl/106/181/s210/a], Apr. 5, 2000, [114 Stat. 101][/us/stat/114/101].)
+(Added [Pub. L. 106–181, title II][/us/pl/106/181/tII], § 210(a), Apr. 5, 2000, [114 Stat. 101][/us/stat/114/101].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/106/181/s210/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs210%2Fa
+[/us/pl/106/181/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtII
 [/us/stat/114/101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F101
 
 

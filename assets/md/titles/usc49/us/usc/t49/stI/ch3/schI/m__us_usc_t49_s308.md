@@ -43,7 +43,7 @@
 
         (3) factors that may impede the continued development of the ports.
 
-    \[(d) Repealed. [Pub. L. 104–66, title I, § 1121(h)][/us/pl/104/66/s1121/h], Dec. 21, 1995, [109 Stat. 724][/us/stat/109/724].\]
+    \[(d) Repealed. [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1121(h), Dec. 21, 1995, [109 Stat. 724][/us/stat/109/724].\]
 
     (e)
 
@@ -51,7 +51,7 @@
 
         (2) In reporting to Congress under this subsection, the Secretary shall prepare a complete assessment of public transportation facilities in the United States. The Secretary also shall assess future needs for those facilities and estimate future capital requirements and operation and maintenance requirements for one-year, 5-year, and 10-year periods at specified levels of service.
 
-([Pub. L. 97–449, § 1(b)][/us/pl/97/449/s1/b], Jan. 12, 1983, [96 Stat. 2422][/us/stat/96/2422]; [Pub. L. 98–216, § 2(1)(A)][/us/pl/98/216/s2/1/A], Feb. 14, 1984, [98 Stat. 4][/us/stat/98/4]; [Pub. L. 104–66, title I, § 1121(h)][/us/pl/104/66/s1121/h], Dec. 21, 1995, [109 Stat. 724][/us/stat/109/724]; [Pub. L. 105–362, title XV, § 1502(c)][/us/pl/105/362/s1502/c], Nov. 10, 1998, [112 Stat. 3295][/us/stat/112/3295].)
+([Pub. L. 97–449][/us/pl/97/449], § 1(b), Jan. 12, 1983, [96 Stat. 2422][/us/stat/96/2422]; [Pub. L. 98–216][/us/pl/98/216], § 2(1)(A), Feb. 14, 1984, [98 Stat. 4][/us/stat/98/4]; [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1121(h), Dec. 21, 1995, [109 Stat. 724][/us/stat/109/724]; [Pub. L. 105–362, title XV][/us/pl/105/362/tXV], § 1502(c), Nov. 10, 1998, [112 Stat. 3295][/us/stat/112/3295].)
 
 <table>
 
@@ -231,15 +231,15 @@ Jan. 6, 1983, Pub. L. 97–424, § 310, 96 Stat. 2151.  </td>
 
     1995—Subsec. (d). [Pub. L. 104–66][/us/pl/104/66] struck out subsec. (d) which related to reports to Congress listing assistance provided by Government to railroad industry.
 
-    1984—[Pub. L. 98–216, § 2(1)(A)(i)][/us/pl/98/216/s2/1/A/i], substituted “Reports” for “Annual reports” in section catchline.
+    1984—[Pub. L. 98–216][/us/pl/98/216], § 2(1)(A)(i), substituted “Reports” for “Annual reports” in section catchline.
 
-    Subsec. (a). [Pub. L. 98–216, § 2(1)(A)(ii)][/us/pl/98/216/s2/1/A/ii], struck out requirement that the report include a complete statement on the effectiveness of the United States Railway Association and the Consolidated Rail Corporation in carrying out the purposes of the Regional Rail Reorganization Act of 1973.
+    Subsec. (a). [Pub. L. 98–216][/us/pl/98/216], § 2(1)(A)(ii), struck out requirement that the report include a complete statement on the effectiveness of the United States Railway Association and the Consolidated Rail Corporation in carrying out the purposes of the Regional Rail Reorganization Act of 1973.
 
-    Subsecs. (d), (e). [Pub. L. 98–216, § 2(1)(A)(iii)][/us/pl/98/216/s2/1/A/iii], added subsecs. (d) and (e).
+    Subsecs. (d), (e). [Pub. L. 98–216][/us/pl/98/216], § 2(1)(A)(iii), added subsecs. (d) and (e).
 
  __Availability of Reports__ 
 
-[Pub. L. 114–94, div. A, title I, § 1434][/us/pl/114/94/s1434], Dec. 4, 2015, [129 Stat. 1430][/us/stat/129/1430], provided that:
+[Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1434, Dec. 4, 2015, [129 Stat. 1430][/us/stat/129/1430], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -255,7 +255,7 @@ Jan. 6, 1983, Pub. L. 97–424, § 310, 96 Stat. 2151.  </td>
 
  __Annual Report on Safety Enforcement Activities of Federal Aviation Administration__ 
 
-    [Pub. L. 100–202, § 101][/us/pl/100/202/s101](l) \[title III, § 317(a)\], Dec. 22, 1987, [101 Stat. 1329–358][/us/stat/101/1329-358], 1329–380, and [Pub. L. 100–457, title III, § 317(a)][/us/pl/100/457/s317/a], Sept. 30, 1988, [102 Stat. 2148][/us/stat/102/2148], which required Secretary of Transportation to transmit to Congress an annual report on Federal Aviation Administration’s prior safety enforcement activities including staffing level comparisons, inspector experience and training schedules, criteria used to set annual work programs, annual inspection comparisons, statement of adequacy of internal management controls, status of regulatory changes, list of specific operational measures of effectiveness, schedule showing number of civil penalty cases closed, schedule showing number of enforcement actions taken, and schedules showing aviation industry’s safety record, were repealed and reenacted as [section 44723 of this title][/us/usc/t49/s44723] by [Pub. L. 103–272][/us/pl/103/272], §§ 1(e), 7(b), July 5, 1994, [108 Stat. 1202][/us/stat/108/1202], 1379.
+    [Pub. L. 100–202][/us/pl/100/202], § 101(l) \[title III, § 317(a)\], Dec. 22, 1987, [101 Stat. 1329–358][/us/stat/101/1329-358], 1329–380, and [Pub. L. 100–457, title III][/us/pl/100/457/tIII], § 317(a), Sept. 30, 1988, [102 Stat. 2148][/us/stat/102/2148], which required Secretary of Transportation to transmit to Congress an annual report on Federal Aviation Administration’s prior safety enforcement activities including staffing level comparisons, inspector experience and training schedules, criteria used to set annual work programs, annual inspection comparisons, statement of adequacy of internal management controls, status of regulatory changes, list of specific operational measures of effectiveness, schedule showing number of civil penalty cases closed, schedule showing number of enforcement actions taken, and schedules showing aviation industry’s safety record, were repealed and reenacted as [section 44723 of this title][/us/usc/t49/s44723] by [Pub. L. 103–272][/us/pl/103/272], §§ 1(e), 7(b), July 5, 1994, [108 Stat. 1202][/us/stat/108/1202], 1379.
 
 ----------
 
@@ -264,15 +264,15 @@ Jan. 6, 1983, Pub. L. 97–424, § 310, 96 Stat. 2151.  </td>
 ----------
 ----------
 
-[/us/pl/104/66/s1121/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1121%2Fh
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F724
-[/us/pl/97/449/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449%2Fs1%2Fb
+[/us/pl/97/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449
 [/us/stat/96/2422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2422
-[/us/pl/98/216/s2/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F216%2Fs2%2F1%2FA
+[/us/pl/98/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F216
 [/us/stat/98/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F4
-[/us/pl/104/66/s1121/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1121%2Fh
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F724
-[/us/pl/105/362/s1502/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs1502%2Fc
+[/us/pl/105/362/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2FtXV
 [/us/stat/112/3295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3295
 [/us/pl/97/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F375
 [/us/stat/96/1821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1821
@@ -283,16 +283,16 @@ Jan. 6, 1983, Pub. L. 97–424, § 310, 96 Stat. 2151.  </td>
 [/us/stat/96/2413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2413
 [/us/pl/105/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
-[/us/pl/98/216/s2/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F216%2Fs2%2F1%2FA%2Fi
-[/us/pl/98/216/s2/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F216%2Fs2%2F1%2FA%2Fii
-[/us/pl/98/216/s2/1/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F216%2Fs2%2F1%2FA%2Fiii
-[/us/pl/114/94/s1434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1434
+[/us/pl/98/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F216
+[/us/pl/98/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F216
+[/us/pl/98/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F216
+[/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
 [/us/stat/129/1430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1430
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
-[/us/pl/100/202/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-358
-[/us/pl/100/457/s317/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F457%2Fs317%2Fa
+[/us/pl/100/457/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F457%2FtIII
 [/us/stat/102/2148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2148
 [/us/usc/t49/s44723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44723
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272

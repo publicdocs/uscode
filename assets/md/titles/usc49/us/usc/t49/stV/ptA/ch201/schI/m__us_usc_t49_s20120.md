@@ -75,17 +75,17 @@
 
         (7) includes any additional information that the Secretary determines is useful to improve the transparency of its enforcement program.
 
-(Added [Pub. L. 110–432, div. A, title III, § 303(a)][/us/pl/110/432/s303/a], Oct. 16, 2008, [122 Stat. 4878][/us/stat/122/4878]; amended [Pub. L. 114–94, div. A, title XI, § 11316(d)][/us/pl/114/94/s11316/d], Dec. 4, 2015, [129 Stat. 1676][/us/stat/129/1676].)
+(Added [Pub. L. 110–432, div. A, title III][/us/pl/110/432/dA/tIII], § 303(a), Oct. 16, 2008, [122 Stat. 4878][/us/stat/122/4878]; amended [Pub. L. 114–94, div. A, title XI][/us/pl/114/94/dA/tXI], § 11316(d), Dec. 4, 2015, [129 Stat. 1676][/us/stat/129/1676].)
 
  __Amendments__ 
 
-    2015—Subsec. (a). [Pub. L. 114–94, § 11316(d)(1)][/us/pl/114/94/s11316/d/1], substituted “Web site” for “website” in introductory provisions.
+    2015—Subsec. (a). [Pub. L. 114–94][/us/pl/114/94], § 11316(d)(1), substituted “Web site” for “website” in introductory provisions.
 
-    Subsec. (a)(1). [Pub. L. 114–94, § 11316(d)(2)][/us/pl/114/94/s11316/d/2], substituted “accident and incident reporting” for “accident and incidence reporting”.
+    Subsec. (a)(1). [Pub. L. 114–94][/us/pl/114/94], § 11316(d)(2), substituted “accident and incident reporting” for “accident and incidence reporting”.
 
-    Subsec. (a)(2)(G). [Pub. L. 114–94, § 11316(d)(3)][/us/pl/114/94/s11316/d/3], inserted “and” at end.
+    Subsec. (a)(2)(G). [Pub. L. 114–94][/us/pl/114/94], § 11316(d)(3), inserted “and” at end.
 
-    Subsec. (a)(5)(B). [Pub. L. 114–94, § 11316(d)(4)][/us/pl/114/94/s11316/d/4], substituted “administrative hearing officer or administrative law judge” for “Administrative Hearing Officer or Administrative Law Judge”.
+    Subsec. (a)(5)(B). [Pub. L. 114–94][/us/pl/114/94], § 11316(d)(4), substituted “administrative hearing officer or administrative law judge” for “Administrative Hearing Officer or Administrative Law Judge”.
 
  __Effective Date of 2015 Amendment__ 
 
@@ -98,14 +98,14 @@
 ----------
 ----------
 
-[/us/pl/110/432/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs303%2Fa
+[/us/pl/110/432/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdA%2FtIII
 [/us/stat/122/4878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4878
-[/us/pl/114/94/s11316/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11316%2Fd
+[/us/pl/114/94/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtXI
 [/us/stat/129/1676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1676
-[/us/pl/114/94/s11316/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11316%2Fd%2F1
-[/us/pl/114/94/s11316/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11316%2Fd%2F2
-[/us/pl/114/94/s11316/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11316%2Fd%2F3
-[/us/pl/114/94/s11316/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11316%2Fd%2F4
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313

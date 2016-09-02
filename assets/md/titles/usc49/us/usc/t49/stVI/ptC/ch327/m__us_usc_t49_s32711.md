@@ -21,7 +21,7 @@
 
     (2) exempt a person from complying with that law.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1056][/us/stat/108/1056].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1056][/us/stat/108/1056].)
 
 <table>
 
@@ -78,7 +78,7 @@ Oct. 20, 1972, Pub. L. 92–513, § 418, 86 Stat. 963; July 14, 1976, Pub. L. 
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1056
 
 

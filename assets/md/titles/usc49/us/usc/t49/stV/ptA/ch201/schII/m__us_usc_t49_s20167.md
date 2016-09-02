@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../../..//us/usc/t49/stV/ptA/ch201/schII/m__us_usc_t49_s20166.md) | [Next](./../../../../../../..//us/usc/t49/stV/ptA/ch201/schII/m__us_usc_t49_s20168.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs20167)
 
-## \[§ 20167. Repealed. [Pub. L. 114–94, div. A, title XI, § 11301(c)(1)][/us/pl/114/94/s11301/c/1], Dec. 4, 2015, [129 Stat. 1648][/us/stat/129/1648]\]
+## \[§ 20167. Repealed. [Pub. L. 114–94, div. A, title XI][/us/pl/114/94/dA/tXI], § 11301(c)(1), Dec. 4, 2015, [129 Stat. 1648][/us/stat/129/1648]\]
 
-    Section, [Pub. L. 110–432, div. A, title IV, § 418(a)][/us/pl/110/432/s418/a], Oct. 16, 2008, [122 Stat. 4891][/us/stat/122/4891], related to railroad safety infrastructure improvement grants.
+    Section, [Pub. L. 110–432, div. A, title IV][/us/pl/110/432/dA/tIV], § 418(a), Oct. 16, 2008, [122 Stat. 4891][/us/stat/122/4891], related to railroad safety infrastructure improvement grants.
 
  __Effective Date of Repeal__ 
 
@@ -28,9 +28,9 @@
 ----------
 ----------
 
-[/us/pl/114/94/s11301/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11301%2Fc%2F1
+[/us/pl/114/94/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtXI
 [/us/stat/129/1648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1648
-[/us/pl/110/432/s418/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs418%2Fa
+[/us/pl/110/432/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdA%2FtIV
 [/us/stat/122/4891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4891
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003

@@ -57,7 +57,7 @@
 
             (B) any modification of the list made before the next list is published.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1299][/us/stat/108/1299], § 49104; renumbered § 50104 and amended [Pub. L. 104–287, § 5(88)(D)][/us/pl/104/287/s5/88/D], (89), Oct. 11, 1996, [110 Stat. 3398][/us/stat/110/3398].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1299][/us/stat/108/1299], § 49104; renumbered § 50104 and amended [Pub. L. 104–287][/us/pl/104/287], § 5(88)(D), (89), Oct. 11, 1996, [110 Stat. 3398][/us/stat/110/3398].)
 
 <table>
 
@@ -181,15 +181,15 @@ Sept. 3, 1982, Pub. L. 97–248, 96 Stat. 324, § 533; added Dec. 30, 1987, Pu
 
     In subsection (d)(2)(A), the word “entire” is omitted as surplus.
 
- __[__  __Pub. L. 104–287, § 5(89)__  __][/us/pl/104/287/s5/89]__ 
+ __[__  __Pub. L. 104–287__  __][/us/pl/104/287]__  __, § 5(89)__ 
 
     This makes a clarifying amendment to 49:50101(a) and (b)(3), 50102, 50104(b)(1), and 50105, as redesignated by clause (88)(D) of this section, because 49:47106(d) was struck by section 108(1) of the Federal Aviation Administration Authorization Act of 1994 ([Public Law 103–305][/us/pl/103/305], [108 Stat. 1573][/us/stat/108/1573]).
 
  __Amendments__ 
 
-    1996—[Pub. L. 104–287, § 5(88)(D)][/us/pl/104/287/s5/88/D], renumbered [section 49104 of this title][/us/usc/t49/s49104] as this section.
+    1996—[Pub. L. 104–287][/us/pl/104/287], § 5(88)(D), renumbered [section 49104 of this title][/us/usc/t49/s49104] as this section.
 
-    Subsec. (b)(1). [Pub. L. 104–287, § 5(89)][/us/pl/104/287/s5/89], substituted “section 47127” for “sections 47106(d) and 47127”.
+    Subsec. (b)(1). [Pub. L. 104–287][/us/pl/104/287], § 5(89), substituted “section 47127” for “sections 47106(d) and 47127”.
 
 ----------
 
@@ -200,17 +200,17 @@ Sept. 3, 1982, Pub. L. 97–248, 96 Stat. 324, § 533; added Dec. 30, 1987, Pu
 
 [/us/usc/t49/s47102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs47102
 [/us/usc/t19/s2241/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2241%2Fb
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1299
-[/us/pl/104/287/s5/88/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F88%2FD
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3398
 [/us/pl/100/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F223
 [/us/stat/101/1505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1505
-[/us/pl/104/287/s5/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F89
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/pl/103/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305
 [/us/stat/108/1573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1573
-[/us/pl/104/287/s5/88/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F88%2FD
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/usc/t49/s49104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs49104
-[/us/pl/104/287/s5/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F89
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 
 

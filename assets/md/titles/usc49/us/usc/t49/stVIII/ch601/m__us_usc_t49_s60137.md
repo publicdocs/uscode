@@ -35,7 +35,7 @@
 
     In issuing regulations under subsection (a), the Secretary shall develop and include in such regulations requirements for an operator of a gas or hazardous liquid pipeline to report deviations from compliance with the plan submitted by the operator under subsection (a).
 
-(Added [Pub. L. 109–468, § 12(a)][/us/pl/109/468/s12/a], Dec. 29, 2006, [120 Stat. 3494][/us/stat/120/3494].)
+(Added [Pub. L. 109–468][/us/pl/109/468], § 12(a), Dec. 29, 2006, [120 Stat. 3494][/us/stat/120/3494].)
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/109/468/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F468%2Fs12%2Fa
+[/us/pl/109/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F468
 [/us/stat/120/3494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3494
 
 

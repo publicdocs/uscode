@@ -37,7 +37,7 @@
 
         (2) Not later than June 22, 1990, the Secretary shall submit a report on the results of the demonstration projects to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 873][/us/stat/108/873]; [Pub. L. 104–287, § 5(48)][/us/pl/104/287/s5/48], Oct. 11, 1996, [110 Stat. 3393][/us/stat/110/3393]; [Pub. L. 110–432, div. A, title II, § 208(c)][/us/pl/110/432/s208/c], Oct. 16, 2008, [122 Stat. 4876][/us/stat/122/4876].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 873][/us/stat/108/873]; [Pub. L. 104–287][/us/pl/104/287], § 5(48), Oct. 11, 1996, [110 Stat. 3393][/us/stat/110/3393]; [Pub. L. 110–432, div. A, title II][/us/pl/110/432/dA/tII], § 208(c), Oct. 16, 2008, [122 Stat. 4876][/us/stat/122/4876].)
 
 <table>
 
@@ -131,7 +131,7 @@ Oct. 16, 1970, Pub. L. 91–458, 84 Stat. 971, §§ 202(q), 215(a), (b); added
 
  __Pedestrian Crossing Safety__ 
 
-[Pub. L. 110–432, div. A, title II, § 201][/us/pl/110/432/s201], Oct. 16, 2008, [122 Stat. 4868][/us/stat/122/4868], provided that: 
+[Pub. L. 110–432, div. A, title II][/us/pl/110/432/dA/tII], § 201, Oct. 16, 2008, [122 Stat. 4868][/us/stat/122/4868], provided that: 
 
 > “Not later than 1 year after the date of enactment of this Act \[Oct. 16, 2008\], the Secretary shall provide guidance to railroads on strategies and methods to prevent pedestrian accidents, incidents, injuries, and fatalities at or near passenger stations, including—
 
@@ -154,15 +154,15 @@ Oct. 16, 1970, Pub. L. 91–458, 84 Stat. 971, §§ 202(q), 215(a), (b); added
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F873
-[/us/pl/104/287/s5/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F48
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3393
-[/us/pl/110/432/s208/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs208%2Fc
+[/us/pl/110/432/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdA%2FtII
 [/us/stat/122/4876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4876
 [/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
-[/us/pl/110/432/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs201
+[/us/pl/110/432/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdA%2FtII
 [/us/stat/122/4868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4868
 [/us/pl/110/432/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs201
 [/us/pl/110/432/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs2%2Fa

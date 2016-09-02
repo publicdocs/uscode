@@ -117,7 +117,7 @@
 
         (2) after September 30, 1996, for use by the Government be equipped, to the maximum extent practicable, with inflatable restraints for both front outboard seating positions.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 958][/us/stat/108/958]; [Pub. L. 105–178, title VII, § 7106(c)][/us/pl/105/178/s7106/c], June 9, 1998, [112 Stat. 467][/us/stat/112/467].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 958][/us/stat/108/958]; [Pub. L. 105–178, title VII][/us/pl/105/178/tVII], § 7106(c), June 9, 1998, [112 Stat. 467][/us/stat/112/467].)
 
 <table>
 
@@ -299,7 +299,7 @@ Dec. 18, 1991, Pub. L. 102–240, § 2508(f), 105 Stat. 2087.  </td>
 
  __References in Text__ 
 
-    The National Traffic and Motor Vehicle Safety Act of 1966, referred to in subsec. (b)(1), is [Pub. L. 89–563][/us/pl/89/563], Sept. 9, 1966, [80 Stat. 718][/us/stat/80/718], as amended, which was classified generally to chapter 38 (§ 1381 et seq.) of Title 15, Commerce and Trade, and was substantially repealed by [Pub. L. 103–272, § 7(b)][/us/pl/103/272/s7/b], July 5, 1994, [108 Stat. 1379][/us/stat/108/1379], and reenacted by the first section thereof as this chapter.
+    The National Traffic and Motor Vehicle Safety Act of 1966, referred to in subsec. (b)(1), is [Pub. L. 89–563][/us/pl/89/563], Sept. 9, 1966, [80 Stat. 718][/us/stat/80/718], as amended, which was classified generally to chapter 38 (§ 1381 et seq.) of Title 15, Commerce and Trade, and was substantially repealed by [Pub. L. 103–272][/us/pl/103/272], § 7(b), July 5, 1994, [108 Stat. 1379][/us/stat/108/1379], and reenacted by the first section thereof as this chapter.
 
  __Amendments__ 
 
@@ -307,7 +307,7 @@ Dec. 18, 1991, Pub. L. 102–240, § 2508(f), 105 Stat. 2087.  </td>
 
  __Improvement of Data Collection on Child Occupants in Vehicle Crashes__ 
 
-[Pub. L. 114–94, div. B, title XXIV, § 24407][/us/pl/114/94/s24407], Dec. 4, 2015, [129 Stat. 1726][/us/stat/129/1726], provided that:
+[Pub. L. 114–94, div. B, title XXIV][/us/pl/114/94/dB/tXXIV], § 24407, Dec. 4, 2015, [129 Stat. 1726][/us/stat/129/1726], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -327,7 +327,7 @@ Dec. 18, 1991, Pub. L. 102–240, § 2508(f), 105 Stat. 2087.  </td>
 
  __Child Safety Seats__ 
 
-[Pub. L. 112–141, div. C, title I, § 31501][/us/pl/112/141/s31501], July 6, 2012, [126 Stat. 773][/us/stat/126/773], provided that:
+[Pub. L. 112–141, div. C, title I][/us/pl/112/141/dC/tI], § 31501, July 6, 2012, [126 Stat. 773][/us/stat/126/773], provided that:
 
 >     “(a)  __Side Impact Crashes__  __.—__ 
 
@@ -345,7 +345,7 @@ Dec. 18, 1991, Pub. L. 102–240, § 2508(f), 105 Stat. 2087.  </td>
 
  __Child Restraint Anchorage Systems__ 
 
-[Pub. L. 112–141, div. C, title I, § 31502][/us/pl/112/141/s31502], July 6, 2012, [126 Stat. 774][/us/stat/126/774], provided that:
+[Pub. L. 112–141, div. C, title I][/us/pl/112/141/dC/tI], § 31502, July 6, 2012, [126 Stat. 774][/us/stat/126/774], provided that:
 
 >     “(a)  __Initiation of Rulemaking Proceeding__  __.—__ 
 
@@ -367,7 +367,7 @@ Dec. 18, 1991, Pub. L. 102–240, § 2508(f), 105 Stat. 2087.  </td>
 
  __Rear Seat Belt Reminders__ 
 
-[Pub. L. 112–141, div. C, title I, § 31503][/us/pl/112/141/s31503], July 6, 2012, [126 Stat. 774][/us/stat/126/774], provided that:
+[Pub. L. 112–141, div. C, title I][/us/pl/112/141/dC/tI], § 31503, July 6, 2012, [126 Stat. 774][/us/stat/126/774], provided that:
 
 >     “(a)  __Initiation of Rulemaking Proceeding__  __.—__ 
 
@@ -389,7 +389,7 @@ Dec. 18, 1991, Pub. L. 102–240, § 2508(f), 105 Stat. 2087.  </td>
 
  __New Deadline__ 
 
-[Pub. L. 112–141, div. C, title I, § 31505][/us/pl/112/141/s31505], July 6, 2012, [126 Stat. 775][/us/stat/126/775], provided that: 
+[Pub. L. 112–141, div. C, title I][/us/pl/112/141/dC/tI], § 31505, July 6, 2012, [126 Stat. 775][/us/stat/126/775], provided that: 
 
 > “If the Secretary \[of Transportation\] determines that any deadline for issuing a final rule under this Act \[probably should be “this title”, see Tables for classification\] cannot be met, the Secretary shall—
 
@@ -515,7 +515,7 @@ Dec. 18, 1991, Pub. L. 102–240, § 2508(f), 105 Stat. 2087.  </td>
 
 >     Funds appropriated under subsection (a) shall not be available for the general administrative expenses of the Secretary.”
 
-[Pub. L. 106–414, § 14][/us/pl/106/414/s14], Nov. 1, 2000, [114 Stat. 1806][/us/stat/114/1806], provided that:
+[Pub. L. 106–414][/us/pl/106/414], § 14, Nov. 1, 2000, [114 Stat. 1806][/us/stat/114/1806], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -585,7 +585,7 @@ Dec. 18, 1991, Pub. L. 102–240, § 2508(f), 105 Stat. 2087.  </td>
 
  __Improving Air Bag Safety__ 
 
-[Pub. L. 105–178, title VII, § 7103][/us/pl/105/178/s7103], June 9, 1998, [112 Stat. 465][/us/stat/112/465], provided that:
+[Pub. L. 105–178, title VII][/us/pl/105/178/tVII], § 7103, June 9, 1998, [112 Stat. 465][/us/stat/112/465], provided that:
 
 >     “(a) __Rulemaking To Improve Air Bags.—__ 
 
@@ -624,41 +624,41 @@ Dec. 18, 1991, Pub. L. 102–240, § 2508(f), 105 Stat. 2087.  </td>
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F958
-[/us/pl/105/178/s7106/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs7106%2Fc
+[/us/pl/105/178/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtVII
 [/us/stat/112/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F467
 [/us/pl/102/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240
 [/us/stat/105/2081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2081
 [/us/pl/89/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F563
 [/us/stat/80/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F718
-[/us/pl/103/272/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs7%2Fb
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1379
 [/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
-[/us/pl/114/94/s24407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24407
+[/us/pl/114/94/dB/tXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdB%2FtXXIV
 [/us/stat/129/1726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1726
-[/us/pl/112/141/s31501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31501
+[/us/pl/112/141/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtI
 [/us/stat/126/773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F773
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
-[/us/pl/112/141/s31502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31502
+[/us/pl/112/141/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtI
 [/us/stat/126/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F774
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
 [/us/usc/t49/s30111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30111
-[/us/pl/112/141/s31503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31503
+[/us/pl/112/141/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtI
 [/us/stat/126/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F774
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
 [/us/usc/t49/s30111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30111
-[/us/pl/112/141/s31505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31505
+[/us/pl/112/141/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtI
 [/us/stat/126/775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F775
 [/us/pl/107/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F318
 [/us/stat/116/2772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2772
 [/us/usc/t23/s405/f/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs405%2Ff%2F5
-[/us/pl/106/414/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F414%2Fs14
+[/us/pl/106/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F414
 [/us/stat/114/1806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1806
-[/us/pl/105/178/s7103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs7103
+[/us/pl/105/178/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtVII
 [/us/stat/112/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F465
 [/us/usc/t49/s30115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30115
 

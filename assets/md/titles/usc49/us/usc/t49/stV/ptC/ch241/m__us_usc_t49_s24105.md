@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../..//us/usc/t49/stV/ptC/ch241/m__us_usc_t49_s24104.md) | [Next](./../../../../../..//us/usc/t49/stV/ptC/ch242/m__us_usc_t49_stV_ptC_ch242.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24105)
 
-## \[§ 24105. Repealed. [Pub. L. 114–94, div. A, title XI, § 11301(c)(2)][/us/pl/114/94/s11301/c/2], Dec. 4, 2015, [129 Stat. 1648][/us/stat/129/1648]\]
+## \[§ 24105. Repealed. [Pub. L. 114–94, div. A, title XI][/us/pl/114/94/dA/tXI], § 11301(c)(2), Dec. 4, 2015, [129 Stat. 1648][/us/stat/129/1648]\]
 
-    Section, [Pub. L. 110–432, div. B, title III, § 302(a)][/us/pl/110/432/s302/a], Oct. 16, 2008, [122 Stat. 4947][/us/stat/122/4947], related to congestion grants.
+    Section, [Pub. L. 110–432, div. B, title III][/us/pl/110/432/dB/tIII], § 302(a), Oct. 16, 2008, [122 Stat. 4947][/us/stat/122/4947], related to congestion grants.
 
  __Effective Date of Repeal__ 
 
@@ -28,9 +28,9 @@
 ----------
 ----------
 
-[/us/pl/114/94/s11301/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11301%2Fc%2F2
+[/us/pl/114/94/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtXI
 [/us/stat/129/1648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1648
-[/us/pl/110/432/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs302%2Fa
+[/us/pl/110/432/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdB%2FtIII
 [/us/stat/122/4947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4947
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003

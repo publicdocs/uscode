@@ -23,7 +23,7 @@
 
     The Secretary of Transportation shall maintain regulations establishing minimum training requirements for operators of longer combination vehicles. The training shall include certification of an operator’s proficiency by an instructor who has met the requirements established by the Secretary.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1020][/us/stat/108/1020]; [Pub. L. 112–141, div. C, title II, § 32931(c)][/us/pl/112/141/s32931/c], July 6, 2012, [126 Stat. 829][/us/stat/126/829]; [Pub. L. 114–94, div. A, title V, § 5508(b)(5)][/us/pl/114/94/s5508/b/5], Dec. 4, 2015, [129 Stat. 1554][/us/stat/129/1554].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1020][/us/stat/108/1020]; [Pub. L. 112–141, div. C, title II][/us/pl/112/141/dC/tII], § 32931(c), July 6, 2012, [126 Stat. 829][/us/stat/126/829]; [Pub. L. 114–94, div. A, title V][/us/pl/114/94/dA/tV], § 5508(b)(5), Dec. 4, 2015, [129 Stat. 1554][/us/stat/129/1554].)
 
 <table>
 
@@ -93,13 +93,13 @@ Dec. 18, 1991, Pub. L. 102–240, § 4007(b), 105 Stat. 2152.  </td>
 
  __Amendments__ 
 
-    2015—Subsec. (b). [Pub. L. 114–94, § 5508(b)(5)][/us/pl/114/94/s5508/b/5], amended [Pub. L. 112–141, § 32931(c)][/us/pl/112/141/s32931/c]. See 2012 Amendment note below.
+    2015—Subsec. (b). [Pub. L. 114–94][/us/pl/114/94], § 5508(b)(5), amended [Pub. L. 112–141][/us/pl/112/141], § 32931(c). See 2012 Amendment note below.
 
-    2012—Subsec. (b). [Pub. L. 112–141, § 32931(c)][/us/pl/112/141/s32931/c], as amended by [Pub. L. 114–94, § 5508(b)(5)][/us/pl/114/94/s5508/b/5], substituted “The Secretary of Transportation shall maintain” for “Not later than December 18, 1994, the Secretary of Transportation shall prescribe”.
+    2012—Subsec. (b). [Pub. L. 112–141][/us/pl/112/141], § 32931(c), as amended by [Pub. L. 114–94][/us/pl/114/94], § 5508(b)(5), substituted “The Secretary of Transportation shall maintain” for “Not later than December 18, 1994, the Secretary of Transportation shall prescribe”.
 
  __Effective Date of 2015 Amendment__ 
 
-    [Pub. L. 114–94, div. A, title V, § 5508(b)][/us/pl/114/94/s5508/b], Dec. 4, 2015, [129 Stat. 1554][/us/stat/129/1554], provided that the amendment made by section 5508(b)(5) is effective as of July 6, 2012, and as if included in [Pub. L. 112–141][/us/pl/112/141] as enacted.
+    [Pub. L. 114–94, div. A, title V][/us/pl/114/94/dA/tV], § 5508(b), Dec. 4, 2015, [129 Stat. 1554][/us/stat/129/1554], provided that the amendment made by section 5508(b)(5) is effective as of July 6, 2012, and as if included in [Pub. L. 112–141][/us/pl/112/141] as enacted.
 
  __Effective Date of 2012 Amendment__ 
 
@@ -112,19 +112,19 @@ Dec. 18, 1991, Pub. L. 102–240, § 4007(b), 105 Stat. 2152.  </td>
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1020
-[/us/pl/112/141/s32931/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32931%2Fc
+[/us/pl/112/141/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtII
 [/us/stat/126/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F829
-[/us/pl/114/94/s5508/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5508%2Fb%2F5
+[/us/pl/114/94/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtV
 [/us/stat/129/1554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1554
 [/us/pl/101/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F427
 [/us/stat/104/927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F927
-[/us/pl/114/94/s5508/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5508%2Fb%2F5
-[/us/pl/112/141/s32931/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32931%2Fc
-[/us/pl/112/141/s32931/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32931%2Fc
-[/us/pl/114/94/s5508/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5508%2Fb%2F5
-[/us/pl/114/94/s5508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5508%2Fb
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtV
 [/us/stat/129/1554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1554
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141

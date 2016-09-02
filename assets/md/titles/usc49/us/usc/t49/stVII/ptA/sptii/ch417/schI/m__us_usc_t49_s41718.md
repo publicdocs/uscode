@@ -151,7 +151,7 @@
 
         (3) consider applications from foreign air carriers that are certificated by the government of Canada if such consideration is required by the bilateral aviation agreement between the United States and Canada and so long as the conditions and limitations under this section apply to such foreign air carriers.
 
-(Added [Pub. L. 106–181, title II, § 231(e)(1)][/us/pl/106/181/s231/e/1], Apr. 5, 2000, [114 Stat. 112][/us/stat/114/112]; amended [Pub. L. 108–176, title IV][/us/pl/108/176], §§ 425, 426(a), Dec. 12, 2003, [117 Stat. 2555][/us/stat/117/2555]; [Pub. L. 112–95, title IV, § 414(a)][/us/pl/112/95/s414/a], (b), Feb. 14, 2012, [126 Stat. 90][/us/stat/126/90], 92.)
+(Added [Pub. L. 106–181, title II][/us/pl/106/181/tII], § 231(e)(1), Apr. 5, 2000, [114 Stat. 112][/us/stat/114/112]; amended [Pub. L. 108–176, title IV][/us/pl/108/176/tIV], §§ 425, 426(a), Dec. 12, 2003, [117 Stat. 2555][/us/stat/117/2555]; [Pub. L. 112–95, title IV][/us/pl/112/95/tIV], § 414(a), (b), Feb. 14, 2012, [126 Stat. 90][/us/stat/126/90], 92.)
 
  __References in Text__ 
 
@@ -159,23 +159,23 @@
 
  __Amendments__ 
 
-    2012—Subsec. (c)(2). [Pub. L. 112–95, § 414(b)][/us/pl/112/95/s414/b], amended par. (2) generally. Prior to amendment, text read as follows: “The exemptions granted under subsections (a) and (b) may not be for operations between the hours of 10:00 p.m. and 7:00 a.m. and may not increase the number of operations at Ronald Reagan Washington National Airport in any 1-hour period during the hours between 7:00 a.m. and 9:59 p.m. by more than 3 operations.”
+    2012—Subsec. (c)(2). [Pub. L. 112–95][/us/pl/112/95], § 414(b), amended par. (2) generally. Prior to amendment, text read as follows: “The exemptions granted under subsections (a) and (b) may not be for operations between the hours of 10:00 p.m. and 7:00 a.m. and may not increase the number of operations at Ronald Reagan Washington National Airport in any 1-hour period during the hours between 7:00 a.m. and 9:59 p.m. by more than 3 operations.”
 
-    Subsecs. (g), (h). [Pub. L. 112–95, § 414(a)][/us/pl/112/95/s414/a], added subsecs. (g) and (h).
+    Subsecs. (g), (h). [Pub. L. 112–95][/us/pl/112/95], § 414(a), added subsecs. (g) and (h).
 
-    2003—Subsec. (a). [Pub. L. 108–176, § 425(a)][/us/pl/108/176/s425/a], substituted “24 exemptions” for “12 exemptions” in introductory provisions.
+    2003—Subsec. (a). [Pub. L. 108–176][/us/pl/108/176], § 425(a), substituted “24 exemptions” for “12 exemptions” in introductory provisions.
 
-    Subsec. (b). [Pub. L. 108–176, § 425(b)][/us/pl/108/176/s425/b], in introductory provisions, substituted “20 exemptions” for “12 exemptions” and struck out “that were designated as medium hub or smaller airports” before “within the perimeter established”.
+    Subsec. (b). [Pub. L. 108–176][/us/pl/108/176], § 425(b), in introductory provisions, substituted “20 exemptions” for “12 exemptions” and struck out “that were designated as medium hub or smaller airports” before “within the perimeter established”.
 
-    Subsec. (c)(2). [Pub. L. 108–176, § 425(c)(1)][/us/pl/108/176/s425/c/1], substituted “3 operations” for “two operations”.
+    Subsec. (c)(2). [Pub. L. 108–176][/us/pl/108/176], § 425(c)(1), substituted “3 operations” for “two operations”.
 
-    Subsec. (c)(3)(A). [Pub. L. 108–176, § 425(c)(2)(A)][/us/pl/108/176/s425/c/2/A], substituted “without regard to the criteria contained in subsection (b)(1), six” for “four” and struck out “and” at end.
+    Subsec. (c)(3)(A). [Pub. L. 108–176][/us/pl/108/176], § 425(c)(2)(A), substituted “without regard to the criteria contained in subsection (b)(1), six” for “four” and struck out “and” at end.
 
-    Subsec. (c)(3)(B). [Pub. L. 108–176, § 425(c)(2)(B)][/us/pl/108/176/s425/c/2/B], substituted “ten” for “eight” and “; and” for period at end.
+    Subsec. (c)(3)(B). [Pub. L. 108–176][/us/pl/108/176], § 425(c)(2)(B), substituted “ten” for “eight” and “; and” for period at end.
 
-    Subsec. (c)(3)(C). [Pub. L. 108–176, § 425(c)(2)(C)][/us/pl/108/176/s425/c/2/C], added subpar. (C).
+    Subsec. (c)(3)(C). [Pub. L. 108–176][/us/pl/108/176], § 425(c)(2)(C), added subpar. (C).
 
-    Subsec. (d). [Pub. L. 108–176, § 425(d)][/us/pl/108/176/s425/d], amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows:
+    Subsec. (d). [Pub. L. 108–176][/us/pl/108/176], § 425(d), amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows:
 
     “(1) Deadline for submission.—All requests for exemptions under this section must be submitted to the Secretary not later than the 30th day following the date of the enactment of this subsection.
 
@@ -183,7 +183,7 @@
 
     “(3) Deadline for final decision.—Not later than the 90th day following the date of the enactment of this Act, the Secretary shall make a decision regarding whether to approve or deny any request that is submitted to the Secretary in accordance with paragraph (1).”
 
-    Subsec. (f). [Pub. L. 108–176, § 426(a)][/us/pl/108/176/s426/a], added subsec. (f).
+    Subsec. (f). [Pub. L. 108–176][/us/pl/108/176], § 426(a), added subsec. (f).
 
  __Effective Date of 2003 Amendment__ 
 
@@ -195,13 +195,13 @@
 
  __Regulations__ 
 
-[Pub. L. 108–176, title IV, § 426(b)][/us/pl/108/176/s426/b], Dec. 12, 2003, [117 Stat. 2556][/us/stat/117/2556], provided that: 
+[Pub. L. 108–176, title IV][/us/pl/108/176/tIV], § 426(b), Dec. 12, 2003, [117 Stat. 2556][/us/stat/117/2556], provided that: 
 
 > “The Administrator of the Federal Aviation Administration shall revise regulations to take into account the amendment made by subsection (a) \[amending this section\].”
 
  __General Aviation Flights at Ronald Reagan Washington National Airport__ 
 
-[Pub. L. 108–176, title VIII, § 823][/us/pl/108/176/s823], Dec. 12, 2003, [117 Stat. 2595][/us/stat/117/2595], provided that:
+[Pub. L. 108–176, title VIII][/us/pl/108/176/tVIII], § 823, Dec. 12, 2003, [117 Stat. 2595][/us/stat/117/2595], provided that:
 
 >     “(a)  __Security Plan__  __.—__ 
 
@@ -222,31 +222,31 @@
 ----------
 ----------
 
-[/us/pl/106/181/s231/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs231%2Fe%2F1
+[/us/pl/106/181/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtII
 [/us/stat/114/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F112
-[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
+[/us/pl/108/176/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtIV
 [/us/stat/117/2555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2555
-[/us/pl/112/95/s414/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs414%2Fa
+[/us/pl/112/95/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtIV
 [/us/stat/126/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F90
 [/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
-[/us/pl/112/95/s414/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs414%2Fb
-[/us/pl/112/95/s414/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs414%2Fa
-[/us/pl/108/176/s425/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs425%2Fa
-[/us/pl/108/176/s425/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs425%2Fb
-[/us/pl/108/176/s425/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs425%2Fc%2F1
-[/us/pl/108/176/s425/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs425%2Fc%2F2%2FA
-[/us/pl/108/176/s425/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs425%2Fc%2F2%2FB
-[/us/pl/108/176/s425/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs425%2Fc%2F2%2FC
-[/us/pl/108/176/s425/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs425%2Fd
-[/us/pl/108/176/s426/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs426%2Fa
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
 [/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
 [/us/pl/108/176/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106
 [/us/pl/106/181/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106
-[/us/pl/108/176/s426/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs426%2Fb
+[/us/pl/108/176/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtIV
 [/us/stat/117/2556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2556
-[/us/pl/108/176/s823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs823
+[/us/pl/108/176/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtVIII
 [/us/stat/117/2595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2595
 
 

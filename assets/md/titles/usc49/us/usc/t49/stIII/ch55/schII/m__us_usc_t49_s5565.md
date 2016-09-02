@@ -41,7 +41,7 @@
 
         (2) The Secretary of Transportation may not make a grant under this section for more than 80 percent of the total cost of the project for which the financial assistance is provided.
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 853][/us/stat/108/853]; [Pub. L. 103–429, § 6(15)][/us/pl/103/429/s6/15], Oct. 31, 1994, [108 Stat. 4379][/us/stat/108/4379].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(d), July 5, 1994, [108 Stat. 853][/us/stat/108/853]; [Pub. L. 103–429][/us/pl/103/429], § 6(15), Oct. 31, 1994, [108 Stat. 4379][/us/stat/108/4379].)
 
 <table>
 
@@ -152,9 +152,9 @@ Oct. 15, 1966, Pub. L. 89–670, 80 Stat. 931, § 4(i)(5); added Oct. 28, 1974
 
 [/us/usc/t49/s5562/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5562%2Fa%2F4
 [/us/usc/t49/s5562/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5562%2Fa%2F4
-[/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F853
-[/us/pl/103/429/s6/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F15
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/stat/108/4379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4379
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429

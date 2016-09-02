@@ -33,7 +33,7 @@
 
             (C) suspension or loss of a license or certification issued under [section 20135 of this title][/us/usc/t49/s20135].
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 876][/us/stat/108/876].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 876][/us/stat/108/876].)
 
 <table>
 
@@ -95,7 +95,7 @@ Oct 16, 1970, Pub. L. 91–458, 84 Stat. 971, § 202(o); added June 22, 1988, 
 [/us/usc/t49/s21301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs21301
 [/us/usc/t49/s21301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs21301
 [/us/usc/t49/s20135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs20135
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F876
 
 

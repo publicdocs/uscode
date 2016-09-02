@@ -81,7 +81,7 @@
 
     This section does not prevent the Secretary of Transportation from continuing in effect, amending, or further supplementing a regulation prescribed or order issued before October 28, 1991, governing the use of alcohol or a controlled substance in railroad operations.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 876][/us/stat/108/876]; [Pub. L. 104–59, title III, § 342(b)][/us/pl/104/59/s342/b], Nov. 28, 1995, [109 Stat. 609][/us/stat/109/609].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 876][/us/stat/108/876]; [Pub. L. 104–59, title III][/us/pl/104/59/tIII], § 342(b), Nov. 28, 1995, [109 Stat. 609][/us/stat/109/609].)
 
 <table>
 
@@ -213,7 +213,7 @@ Oct. 16, 1970, Pub. L. 91–458, 84 Stat. 971, § 202(r); added Oct. 28, 1991,
 
  __Alcohol and Controlled Substance Testing for Maintenance-of-Way Employees__ 
 
-[Pub. L. 110–432, div. A, title IV, § 412][/us/pl/110/432/s412], Oct. 16, 2008, [122 Stat. 4889][/us/stat/122/4889], as amended by [Pub. L. 114–94, div. A, title XI, § 11316(j)(6)][/us/pl/114/94/s11316/j/6], Dec. 4, 2015, [129 Stat. 1678][/us/stat/129/1678], provided that: 
+[Pub. L. 110–432, div. A, title IV][/us/pl/110/432/dA/tIV], § 412, Oct. 16, 2008, [122 Stat. 4889][/us/stat/122/4889], as amended by [Pub. L. 114–94, div. A, title XI][/us/pl/114/94/dA/tXI], § 11316(j)(6), Dec. 4, 2015, [129 Stat. 1678][/us/stat/129/1678], provided that: 
 
 > “Not later than 2 years following the date of enactment of this Act \[Oct. 16, 2008\], the Secretary shall complete a rulemaking proceeding to revise the regulations prescribed under [section 20140 of title 49][/us/usc/t49/s20140], United States Code, to cover all employees of railroad carriers and contractors or subcontractors to railroad carriers who perform maintenance-of-way activities.”
 
@@ -227,14 +227,14 @@ Oct. 16, 1970, Pub. L. 91–458, 84 Stat. 971, § 202(r); added Oct. 28, 1991,
 ----------
 
 [/us/usc/t21/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F876
-[/us/pl/104/59/s342/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2Fs342%2Fb
+[/us/pl/104/59/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2FtIII
 [/us/stat/109/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F609
 [/us/pl/104/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59
-[/us/pl/110/432/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs412
+[/us/pl/110/432/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdA%2FtIV
 [/us/stat/122/4889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4889
-[/us/pl/114/94/s11316/j/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11316%2Fj%2F6
+[/us/pl/114/94/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtXI
 [/us/stat/129/1678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1678
 [/us/usc/t49/s20140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs20140
 [/us/pl/110/432/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs412

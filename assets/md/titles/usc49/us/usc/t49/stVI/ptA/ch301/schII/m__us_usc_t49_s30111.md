@@ -53,7 +53,7 @@
 
         Nothing in this subsection shall be construed to confer any authority upon or negate any authority of the Secretary to issue guidelines under this chapter.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 944][/us/stat/108/944]; [Pub. L. 114–94, div. B, title XXIV, § 24406][/us/pl/114/94/s24406], Dec. 4, 2015, [129 Stat. 1725][/us/stat/129/1725].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 944][/us/stat/108/944]; [Pub. L. 114–94, div. B, title XXIV][/us/pl/114/94/dB/tXXIV], § 24406, Dec. 4, 2015, [129 Stat. 1725][/us/stat/129/1725].)
 
 <table>
 
@@ -197,7 +197,7 @@ In subsection (b)(2), the words “agency established under the Act of August 20
 
  __Rulemaking on Visibility of Agricultural Equipment__ 
 
-[Pub. L. 112–141, div. C, title I, § 31601][/us/pl/112/141/s31601], July 6, 2012, [126 Stat. 775][/us/stat/126/775], provided that:
+[Pub. L. 112–141, div. C, title I][/us/pl/112/141/dC/tI], § 31601, July 6, 2012, [126 Stat. 775][/us/stat/126/775], provided that:
 
 >     “(a)  __Definitions__  __.—__ 
 
@@ -249,7 +249,7 @@ In subsection (b)(2), the words “agency established under the Act of August 20
 
  __Unattended Passenger Reminders__ 
 
-[Pub. L. 112–141, div. C, title I, § 31504][/us/pl/112/141/s31504], July 6, 2012, [126 Stat. 775][/us/stat/126/775], as amended by [Pub. L. 114–94, div. B, title XXIV, § 24114][/us/pl/114/94/s24114], Dec. 4, 2015, [129 Stat. 1710][/us/stat/129/1710], provided that:
+[Pub. L. 112–141, div. C, title I][/us/pl/112/141/dC/tI], § 31504, July 6, 2012, [126 Stat. 775][/us/stat/126/775], as amended by [Pub. L. 114–94, div. B, title XXIV][/us/pl/114/94/dB/tXXIV], § 24114, Dec. 4, 2015, [129 Stat. 1710][/us/stat/129/1710], provided that:
 
 >     “(a)  __Safety Research Initiative__  __.—__ 
 
@@ -465,7 +465,7 @@ In subsection (b)(2), the words “agency established under the Act of August 20
 
  __Improving Criteria Used in a Recall__ 
 
-[Pub. L. 106–414, § 15][/us/pl/106/414/s15], Nov. 1, 2000, [114 Stat. 1808][/us/stat/114/1808], provided that:
+[Pub. L. 106–414][/us/pl/106/414], § 15, Nov. 1, 2000, [114 Stat. 1808][/us/stat/114/1808], provided that:
 
 >     “(a)  __Review of Standards and Criteria Used in Opening a Defect or Noncompliance Investigation__  __.—__ 
 
@@ -486,22 +486,22 @@ In subsection (b)(2), the words “agency established under the Act of August 20
 [/us/stat/72/635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F635
 [/us/usc/t49/s30101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30101
 [/us/usc/t49/s30101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30101
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F944
-[/us/pl/114/94/s24406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24406
+[/us/pl/114/94/dB/tXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdB%2FtXXIV
 [/us/stat/129/1725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1725
 [/us/pl/85/684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F684
 [/us/stat/72/635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F635
 [/us/usc/t23/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs313
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
-[/us/pl/112/141/s31601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31601
+[/us/pl/112/141/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtI
 [/us/stat/126/775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F775
 [/us/usc/t23/s101/a/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101%2Fa%2F27
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
-[/us/pl/112/141/s31504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31504
+[/us/pl/112/141/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtI
 [/us/stat/126/775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F775
-[/us/pl/114/94/s24114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24114
+[/us/pl/114/94/dB/tXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdB%2FtXXIV
 [/us/stat/129/1710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1710
 [/us/pl/111/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F373
 [/us/stat/124/4086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4086
@@ -517,7 +517,7 @@ In subsection (b)(2), the words “agency established under the Act of August 20
 [/us/usc/t49/s30111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30111
 [/us/usc/t49/s30111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30111
 [/us/usc/t49/s30102/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30102%2Fa%2F6
-[/us/pl/106/414/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F414%2Fs15
+[/us/pl/106/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F414
 [/us/stat/114/1808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1808
 
 

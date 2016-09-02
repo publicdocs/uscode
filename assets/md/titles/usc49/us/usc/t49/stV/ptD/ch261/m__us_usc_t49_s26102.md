@@ -27,7 +27,7 @@
 
     In carrying out activities authorized by subsection (a), the Secretary shall consult with such other governmental agencies as may be necessary concerning the availability of appropriate technologies for commercial application in high-speed rail service in the United States.
 
-(Added [Pub. L. 103–440, title I, § 103(a)(2)][/us/pl/103/440/s103/a/2], Nov. 2, 1994, [108 Stat. 4617][/us/stat/108/4617].)
+(Added [Pub. L. 103–440, title I][/us/pl/103/440/tI], § 103(a)(2), Nov. 2, 1994, [108 Stat. 4617][/us/stat/108/4617].)
 
  __Prior Provisions__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/103/440/s103/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F440%2Fs103%2Fa%2F2
+[/us/pl/103/440/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F440%2FtI
 [/us/stat/108/4617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4617
 [/us/usc/t49/s28102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs28102
 

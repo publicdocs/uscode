@@ -17,7 +17,7 @@
 
     The Secretary of Transportation shall submit a report to the Congress on the development, deployment, and demonstration of positive train control systems by December 31, 1995.
 
-(Added [Pub. L. 103–440, title II, § 214(a)][/us/pl/103/440/s214/a], Nov. 2, 1994, [108 Stat. 4623][/us/stat/108/4623].)
+(Added [Pub. L. 103–440, title II][/us/pl/103/440/tII], § 214(a), Nov. 2, 1994, [108 Stat. 4623][/us/stat/108/4623].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/103/440/s214/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F440%2Fs214%2Fa
+[/us/pl/103/440/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F440%2FtII
 [/us/stat/108/4623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4623
 
 

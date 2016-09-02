@@ -33,11 +33,11 @@
 
     (c) The Board shall consult, as it considers necessary, with the National Grain Car Council on matters within the charter of that body.
 
-(Added [Pub. L. 104–88, title I, § 102(a)][/us/pl/104/88/s102/a], Dec. 29, 1995, [109 Stat. 832][/us/stat/109/832].)
+(Added [Pub. L. 104–88, title I][/us/pl/104/88/tI], § 102(a), Dec. 29, 1995, [109 Stat. 832][/us/stat/109/832].)
 
  __Prior Provisions__ 
 
-    A prior section 11121, [Pub. L. 95–473][/us/pl/95/473], Oct. 17, 1978, [92 Stat. 1421][/us/stat/92/1421]; [Pub. L. 96–258, § 1(11)][/us/pl/96/258/s1/11], June 3, 1980, [94 Stat. 426][/us/stat/94/426], related to criteria of rail carriers to furnish safe and adequate car service, prior to the general amendment of this subtitle by [Pub. L. 104–88, § 102(a)][/us/pl/104/88/s102/a].
+    A prior section 11121, [Pub. L. 95–473][/us/pl/95/473], Oct. 17, 1978, [92 Stat. 1421][/us/stat/92/1421]; [Pub. L. 96–258][/us/pl/96/258], § 1(11), June 3, 1980, [94 Stat. 426][/us/stat/94/426], related to criteria of rail carriers to furnish safe and adequate car service, prior to the general amendment of this subtitle by [Pub. L. 104–88][/us/pl/104/88], § 102(a).
 
 ----------
 
@@ -46,12 +46,12 @@
 ----------
 ----------
 
-[/us/pl/104/88/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs102%2Fa
+[/us/pl/104/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtI
 [/us/stat/109/832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F832
 [/us/pl/95/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F473
 [/us/stat/92/1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1421
-[/us/pl/96/258/s1/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F258%2Fs1%2F11
+[/us/pl/96/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F258
 [/us/stat/94/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F426
-[/us/pl/104/88/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs102%2Fa
+[/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 
 

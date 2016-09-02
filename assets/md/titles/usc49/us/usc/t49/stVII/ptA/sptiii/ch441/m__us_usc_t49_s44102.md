@@ -41,7 +41,7 @@
 
     In carrying out subsection (a)(1)(C) of this section, the Secretary of Transportation shall define “based and primarily used in the United States”.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1161][/us/stat/108/1161].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1161][/us/stat/108/1161].)
 
 <table>
 
@@ -129,7 +129,7 @@ Aug. 23, 1958, Pub. L. 85–726, § 501(b), 72 Stat. 772; restated Nov. 9, 197
 ----------
 
 [/us/usc/t49/s44103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44103
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1161
 [/us/usc/t49/s44103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44103
 

@@ -27,7 +27,7 @@
 
     Amtrak, its board of directors, and its individual directors are not liable because Amtrak has given or issued the note or agreement to the Government under subsection (a) of this section. Immunity granted under this subsection also applies to a transaction related to the note or agreement. The Government shall indemnify Amtrak, its board, and individual directors against costs and expenses actually and reasonably incurred in defending a civil action testing the validity of the note, agreement, or transaction.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 936][/us/stat/108/936]; [Pub. L. 114–94, div. A, title XI, § 11306(b)(1)][/us/pl/114/94/s11306/b/1], Dec. 4, 2015, [129 Stat. 1660][/us/stat/129/1660].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 936][/us/stat/108/936]; [Pub. L. 114–94, div. A, title XI][/us/pl/114/94/dA/tXI], § 11306(b)(1), Dec. 4, 2015, [129 Stat. 1660][/us/stat/129/1660].)
 
 <table>
 
@@ -136,9 +136,9 @@ Feb. 5, 1976, Pub. L. 94–210, 90 Stat. 31, § 704(e)–(g); added Oct. 19, 1
 [/us/usc/t45/s791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs791
 [/us/usc/t45/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs701
 [/us/usc/t45/s743/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs743%2Fb
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F936
-[/us/pl/114/94/s11306/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11306%2Fb%2F1
+[/us/pl/114/94/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtXI
 [/us/stat/129/1660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1660
 [/us/usc/t15/s77a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77a
 [/us/usc/t45/s743/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs743%2Fe

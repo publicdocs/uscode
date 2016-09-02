@@ -27,7 +27,7 @@
 
     This section does not prevent a State or local government from imposing reasonable restrictions, based on safety considerations, on a truck tractor-semitrailer combination in which the semitrailer has a length of not more than 28.5 feet and that generally operates as part of a vehicle combination described in [section 31111(c) of this title][/us/usc/t49/s31111/c].
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 999][/us/stat/108/999]; [Pub. L. 114–94, div. A, title V, § 5523(c)(2)][/us/pl/114/94/s5523/c/2], Dec. 4, 2015, [129 Stat. 1560][/us/stat/129/1560].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 999][/us/stat/108/999]; [Pub. L. 114–94, div. A, title V][/us/pl/114/94/dA/tV], § 5523(c)(2), Dec. 4, 2015, [129 Stat. 1560][/us/stat/129/1560].)
 
 <table>
 
@@ -108,9 +108,9 @@ Jan. 6, 1983, Pub. L. 97–424, § 412, 96 Stat. 2160; Oct. 30, 1984, Pub. L. 
 
 [/us/usc/t49/s31111/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31111%2Fc
 [/us/usc/t49/s31111/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31111%2Fc
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F999
-[/us/pl/114/94/s5523/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5523%2Fc%2F2
+[/us/pl/114/94/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtV
 [/us/stat/129/1560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1560
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94

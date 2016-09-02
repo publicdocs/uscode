@@ -217,7 +217,7 @@
 
         (2) make the results of the comparison available to the public.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1023][/us/stat/108/1023]; [Pub. L. 104–88, title IV, § 403(c)][/us/pl/104/88/s403/c], Dec. 29, 1995, [109 Stat. 956][/us/stat/109/956]; [Pub. L. 105–178, title IV, § 4011(e)][/us/pl/105/178/s4011/e], June 9, 1998, [112 Stat. 408][/us/stat/112/408]; [Pub. L. 106–159, title II, § 202][/us/pl/106/159/s202], Dec. 9, 1999, [113 Stat. 1760][/us/stat/113/1760]; [Pub. L. 109–59, title IV, § 4123(b)][/us/pl/109/59/s4123/b], Aug. 10, 2005, [119 Stat. 1735][/us/stat/119/1735]; [Pub. L. 112–141, div. C, title II][/us/pl/112/141], §§ 32203(b), 32302(d), 32305(b), July 6, 2012, [126 Stat. 784][/us/stat/126/784], 790, 792; [Pub. L. 112–196, § 2][/us/pl/112/196/s2], Oct. 19, 2012, [126 Stat. 1459][/us/stat/126/1459]; [Pub. L. 114–94, div. A, title V, § 5401(d)][/us/pl/114/94/s5401/d], Dec. 4, 2015, [129 Stat. 1547][/us/stat/129/1547].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1023][/us/stat/108/1023]; [Pub. L. 104–88, title IV][/us/pl/104/88/tIV], § 403(c), Dec. 29, 1995, [109 Stat. 956][/us/stat/109/956]; [Pub. L. 105–178, title IV][/us/pl/105/178/tIV], § 4011(e), June 9, 1998, [112 Stat. 408][/us/stat/112/408]; [Pub. L. 106–159, title II][/us/pl/106/159/tII], § 202, Dec. 9, 1999, [113 Stat. 1760][/us/stat/113/1760]; [Pub. L. 109–59, title IV][/us/pl/109/59/tIV], § 4123(b), Aug. 10, 2005, [119 Stat. 1735][/us/stat/119/1735]; [Pub. L. 112–141, div. C, title II][/us/pl/112/141/dC/tII], §§ 32203(b), 32302(d), 32305(b), July 6, 2012, [126 Stat. 784][/us/stat/126/784], 790, 792; [Pub. L. 112–196][/us/pl/112/196], § 2, Oct. 19, 2012, [126 Stat. 1459][/us/stat/126/1459]; [Pub. L. 114–94, div. A, title V][/us/pl/114/94/dA/tV], § 5401(d), Dec. 4, 2015, [129 Stat. 1547][/us/stat/129/1547].)
 
 <table>
 
@@ -271,7 +271,7 @@ Oct. 27, 1986, Pub. L. 99–570, § 12009, 100 Stat. 3207–179; Dec. 18, 1991
 
  __References in Text__ 
 
-    Par. (3) of [section 31308 of this title][/us/usc/t49/s31308], referred to in subsec. (a)(4), was redesignated par. (4) by [Pub. L. 109–59, title IV, § 4122(2)(C)][/us/pl/109/59/s4122/2/C], Aug. 10, 2005, [119 Stat. 1734][/us/stat/119/1734].
+    Par. (3) of [section 31308 of this title][/us/usc/t49/s31308], referred to in subsec. (a)(4), was redesignated par. (4) by [Pub. L. 109–59, title IV][/us/pl/109/59/tIV], § 4122(2)(C), Aug. 10, 2005, [119 Stat. 1734][/us/stat/119/1734].
 
     The date of enactment of the Commercial Motor Vehicle Safety Enhancement Act of 2012, referred to in subsec. (a)(23), (25), is the date of enactment of title II of div. C of [Pub. L. 112–141][/us/pl/112/141], which was approved July 6, 2012.
 
@@ -279,33 +279,33 @@ Oct. 27, 1986, Pub. L. 99–570, § 12009, 100 Stat. 3207–179; Dec. 18, 1991
 
     2015—Subsec. (a)(12)(C)(ii). [Pub. L. 114–94][/us/pl/114/94] amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “is a member of the active duty military, military reserves, National Guard, active duty United States Coast Guard, or Coast Guard Auxiliary; and”.
 
-    2012—Subsec. (a)(5). [Pub. L. 112–141, § 32305(b)(1)(A)][/us/pl/112/141/s32305/b/1/A], substituted “Not later than the time period prescribed by the Secretary by regulation,” for “At least 60 days before issuing a commercial driver’s license (or a shorter period the Secretary prescribes by regulation),”.
+    2012—Subsec. (a)(5). [Pub. L. 112–141][/us/pl/112/141], § 32305(b)(1)(A), substituted “Not later than the time period prescribed by the Secretary by regulation,” for “At least 60 days before issuing a commercial driver’s license (or a shorter period the Secretary prescribes by regulation),”.
 
     Subsec. (a)(12). [Pub. L. 112–196][/us/pl/112/196] amended par. (12) generally. Prior to amendment, par. (12) read as follows: “The State may issue a commercial driver’s license only to an individual who operates or will operate a commercial motor vehicle and is domiciled in the State, except that, under regulations the Secretary shall prescribe, the State may issue a commercial driver’s license to an individual who operates or will operate a commercial motor vehicle and is not domiciled in a State that issues commercial drivers’ licenses.”
 
-    Subsec. (a)(22). [Pub. L. 112–141, § 32203(b)][/us/pl/112/141/s32203/b], added par. (22).
+    Subsec. (a)(22). [Pub. L. 112–141][/us/pl/112/141], § 32203(b), added par. (22).
 
-    Subsec. (a)(23), (24). [Pub. L. 112–141, § 32305(b)(1)(B)][/us/pl/112/141/s32305/b/1/B], added pars. (23) and (24).
+    Subsec. (a)(23), (24). [Pub. L. 112–141][/us/pl/112/141], § 32305(b)(1)(B), added pars. (23) and (24).
 
-    Subsec. (a)(25). [Pub. L. 112–141, § 32302(d)][/us/pl/112/141/s32302/d], added par. (25).
+    Subsec. (a)(25). [Pub. L. 112–141][/us/pl/112/141], § 32302(d), added par. (25).
 
-    Subsecs. (d), (e). [Pub. L. 112–141, § 32305(b)(2)][/us/pl/112/141/s32305/b/2], added subsecs. (d) and (e).
+    Subsecs. (d), (e). [Pub. L. 112–141][/us/pl/112/141], § 32305(b)(2), added subsecs. (d) and (e).
 
-    2005—Subsec. (a)(15). [Pub. L. 109–59, § 4123(b)(1)][/us/pl/109/59/s4123/b/1], substituted “(i)(1)(A) and (i)(2)” for “(g)(1)(A), and (g)(2)”.
+    2005—Subsec. (a)(15). [Pub. L. 109–59][/us/pl/109/59], § 4123(b)(1), substituted “(i)(1)(A) and (i)(2)” for “(g)(1)(A), and (g)(2)”.
 
-    Subsec. (a)(17). [Pub. L. 109–59, § 4123(b)(2)][/us/pl/109/59/s4123/b/2], substituted “as 31310(j)” for “section 31310(h)”.
+    Subsec. (a)(17). [Pub. L. 109–59][/us/pl/109/59], § 4123(b)(2), substituted “as 31310(j)” for “section 31310(h)”.
 
-    Subsec. (a)(21). [Pub. L. 109–59, § 4123(b)(3)][/us/pl/109/59/s4123/b/3], added par. (21).
+    Subsec. (a)(21). [Pub. L. 109–59][/us/pl/109/59], § 4123(b)(3), added par. (21).
 
-    1999—Subsec. (a)(6). [Pub. L. 106–159, § 202(a)][/us/pl/106/159/s202/a], inserted “or renewing such a license” after “to an individual” and struck out “commercial” after “has issued a”.
+    1999—Subsec. (a)(6). [Pub. L. 106–159][/us/pl/106/159], § 202(a), inserted “or renewing such a license” after “to an individual” and struck out “commercial” after “has issued a”.
 
-    Subsec. (a)(8). [Pub. L. 106–159, § 202(b)][/us/pl/106/159/s202/b], inserted “, and the violation that resulted in the disqualification, revocation, suspension, or cancellation shall be recorded” before the period at end.
+    Subsec. (a)(8). [Pub. L. 106–159][/us/pl/106/159], § 202(b), inserted “, and the violation that resulted in the disqualification, revocation, suspension, or cancellation shall be recorded” before the period at end.
 
-    Subsec. (a)(9). [Pub. L. 106–159, § 202(c)][/us/pl/106/159/s202/c], amended par. (9) generally. Prior to amendment, par. (9) read as follows: “If an individual operating a commercial motor vehicle violates a State or local law on motor vehicle traffic control (except a parking violation) and the individual has a driver’s license issued by another State, the State in which the violation occurred shall notify a State official designated by the issuing State of the violation not later than 10 days after the date the individual is found to have committed the violation.”
+    Subsec. (a)(9). [Pub. L. 106–159][/us/pl/106/159], § 202(c), amended par. (9) generally. Prior to amendment, par. (9) read as follows: “If an individual operating a commercial motor vehicle violates a State or local law on motor vehicle traffic control (except a parking violation) and the individual has a driver’s license issued by another State, the State in which the violation occurred shall notify a State official designated by the issuing State of the violation not later than 10 days after the date the individual is found to have committed the violation.”
 
-    Subsec. (a)(10). [Pub. L. 106–159, § 202(d)][/us/pl/106/159/s202/d], designated existing provisions as subpar. (A) and added subpar. (B).
+    Subsec. (a)(10). [Pub. L. 106–159][/us/pl/106/159], § 202(d), designated existing provisions as subpar. (A) and added subpar. (B).
 
-    Subsec. (a)(13). [Pub. L. 106–159, § 202(e)][/us/pl/106/159/s202/e], inserted “consistent with this chapter that” after “penalties”, substituted “vehicle.” for “vehicle when the individual—”, and struck out pars. (A) to (C) which read as follows:
+    Subsec. (a)(13). [Pub. L. 106–159][/us/pl/106/159], § 202(e), inserted “consistent with this chapter that” after “penalties”, substituted “vehicle.” for “vehicle when the individual—”, and struck out pars. (A) to (C) which read as follows:
 
     “(A) does not have a commercial driver’s license;
 
@@ -313,11 +313,11 @@ Oct. 27, 1986, Pub. L. 99–570, § 12009, 100 Stat. 3207–179; Dec. 18, 1991
 
     “(C) is disqualified from operating a commercial motor vehicle.”
 
-    Subsec. (a)(18) to (20). [Pub. L. 106–159, § 202(f)][/us/pl/106/159/s202/f]–(h), added pars. (18) to (20).
+    Subsec. (a)(18) to (20). [Pub. L. 106–159][/us/pl/106/159], § 202(f)–(h), added pars. (18) to (20).
 
-    1998—Subsec. (a)(15). [Pub. L. 105–178, § 4011(e)(1)][/us/pl/105/178/s4011/e/1], substituted “subsections (b)–(e), (g)(1)(A), and (g)(2) of section 31310” for “section 31310(b)–(e) of this title”.
+    1998—Subsec. (a)(15). [Pub. L. 105–178][/us/pl/105/178], § 4011(e)(1), substituted “subsections (b)–(e), (g)(1)(A), and (g)(2) of section 31310” for “section 31310(b)–(e) of this title”.
 
-    Subsec. (a)(17), (18). [Pub. L. 105–178, § 4011(e)(2)][/us/pl/105/178/s4011/e/2], (3), redesignated par. (18) as (17) and struck out former par. (17) which read as follows: “The State shall adopt and enforce regulations prescribed by the Secretary under section 31310(g)(1)(A) and (2) of this title.”
+    Subsec. (a)(17), (18). [Pub. L. 105–178][/us/pl/105/178], § 4011(e)(2), (3), redesignated par. (18) as (17) and struck out former par. (17) which read as follows: “The State shall adopt and enforce regulations prescribed by the Secretary under section 31310(g)(1)(A) and (2) of this title.”
 
     1995—Subsec. (a)(18). [Pub. L. 104–88][/us/pl/104/88] added par. (18).
 
@@ -335,13 +335,13 @@ Oct. 27, 1986, Pub. L. 99–570, § 12009, 100 Stat. 3207–179; Dec. 18, 1991
 
  __Regulations__ 
 
-[Pub. L. 114–94, div. A, title V, § 5401(c)][/us/pl/114/94/s5401/c], Dec. 4, 2015, [129 Stat. 1547][/us/stat/129/1547], provided that: 
+[Pub. L. 114–94, div. A, title V][/us/pl/114/94/dA/tV], § 5401(c), Dec. 4, 2015, [129 Stat. 1547][/us/stat/129/1547], provided that: 
 
 > “Not later than December 31, 2015, the Secretary \[of Transportation\] shall issue final regulations to implement the exemption to the domicile requirement under [section 31311(a)(12)(C) of title 49][/us/usc/t49/s31311/a/12/C], United States Code.”
 
  __State-to-State Notification of Violations Data__ 
 
-[Pub. L. 106–159, title II, § 221][/us/pl/106/159/s221], Dec. 9, 1999, [113 Stat. 1769][/us/stat/113/1769], provided that:
+[Pub. L. 106–159, title II][/us/pl/106/159/tII], § 221, Dec. 9, 1999, [113 Stat. 1769][/us/stat/113/1769], provided that:
 
 >     “(a)  __Development__  __.—__ 
 
@@ -370,44 +370,44 @@ Oct. 27, 1986, Pub. L. 99–570, § 12009, 100 Stat. 3207–179; Dec. 18, 1991
 [/us/usc/t49/s31305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31305%2Fa
 [/us/usc/t49/s30304/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30304%2Fa%2F3
 [/us/usc/t49/s31309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31309
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1023
-[/us/pl/104/88/s403/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs403%2Fc
+[/us/pl/104/88/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtIV
 [/us/stat/109/956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F956
-[/us/pl/105/178/s4011/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4011%2Fe
+[/us/pl/105/178/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtIV
 [/us/stat/112/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F408
-[/us/pl/106/159/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2Fs202
+[/us/pl/106/159/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2FtII
 [/us/stat/113/1760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1760
-[/us/pl/109/59/s4123/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4123%2Fb
+[/us/pl/109/59/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIV
 [/us/stat/119/1735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1735
-[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtII
 [/us/stat/126/784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F784
-[/us/pl/112/196/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F196%2Fs2
+[/us/pl/112/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F196
 [/us/stat/126/1459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1459
-[/us/pl/114/94/s5401/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5401%2Fd
+[/us/pl/114/94/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtV
 [/us/stat/129/1547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1547
 [/us/usc/t49/s31308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31308
-[/us/pl/109/59/s4122/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4122%2F2%2FC
+[/us/pl/109/59/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIV
 [/us/stat/119/1734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1734
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
-[/us/pl/112/141/s32305/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32305%2Fb%2F1%2FA
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F196
-[/us/pl/112/141/s32203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32203%2Fb
-[/us/pl/112/141/s32305/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32305%2Fb%2F1%2FB
-[/us/pl/112/141/s32302/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32302%2Fd
-[/us/pl/112/141/s32305/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32305%2Fb%2F2
-[/us/pl/109/59/s4123/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4123%2Fb%2F1
-[/us/pl/109/59/s4123/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4123%2Fb%2F2
-[/us/pl/109/59/s4123/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4123%2Fb%2F3
-[/us/pl/106/159/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2Fs202%2Fa
-[/us/pl/106/159/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2Fs202%2Fb
-[/us/pl/106/159/s202/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2Fs202%2Fc
-[/us/pl/106/159/s202/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2Fs202%2Fd
-[/us/pl/106/159/s202/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2Fs202%2Fe
-[/us/pl/106/159/s202/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2Fs202%2Ff
-[/us/pl/105/178/s4011/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4011%2Fe%2F1
-[/us/pl/105/178/s4011/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4011%2Fe%2F2
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/106/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159
+[/us/pl/106/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159
+[/us/pl/106/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159
+[/us/pl/106/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159
+[/us/pl/106/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159
+[/us/pl/106/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
@@ -418,10 +418,10 @@ Oct. 27, 1986, Pub. L. 99–570, § 12009, 100 Stat. 3207–179; Dec. 18, 1991
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/104/88/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs2
 [/us/usc/t49/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1301
-[/us/pl/114/94/s5401/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5401%2Fc
+[/us/pl/114/94/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtV
 [/us/stat/129/1547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1547
 [/us/usc/t49/s31311/a/12/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31311%2Fa%2F12%2FC
-[/us/pl/106/159/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2Fs221
+[/us/pl/106/159/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2FtII
 [/us/stat/113/1769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1769
 [/us/usc/t49/s31311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31311%2Fa
 

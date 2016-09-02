@@ -67,7 +67,7 @@
 
         In developing the system under this section, the Administration shall consider the near-term integration of accident and incident data into the safety performance analysis system under this subsection.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1194][/us/stat/108/1194]; [Pub. L. 104–264, title IV, § 407(b)][/us/pl/104/264/s407/b], Oct. 9, 1996, [110 Stat. 3258][/us/stat/110/3258].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1194][/us/stat/108/1194]; [Pub. L. 104–264, title IV][/us/pl/104/264/tIV], § 407(b), Oct. 9, 1996, [110 Stat. 3258][/us/stat/110/3258].)
 
 <table>
 
@@ -261,7 +261,7 @@ In subsections (a)–(c), the word “Administrator” in section 605(a) and (b)
 
  __Maintenance Providers__ 
 
-[Pub. L. 112–95, title III, § 319][/us/pl/112/95/s319], Feb. 14, 2012, [126 Stat. 69][/us/stat/126/69], provided that:
+[Pub. L. 112–95, title III][/us/pl/112/95/tIII], § 319, Feb. 14, 2012, [126 Stat. 69][/us/stat/126/69], provided that:
 
 >     “(a)  __Regulations__  __.—__ 
 
@@ -327,9 +327,9 @@ In subsections (a)–(c), the word “Administrator” in section 605(a) and (b)
 ----------
 
 [/us/usc/t21/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1194
-[/us/pl/104/264/s407/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs407%2Fb
+[/us/pl/104/264/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2FtIV
 [/us/stat/110/3258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3258
 [/us/pl/85/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F726
 [/us/stat/72/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F778
@@ -341,7 +341,7 @@ In subsections (a)–(c), the word “Administrator” in section 605(a) and (b)
 [/us/pl/104/264/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/112/95/s319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs319
+[/us/pl/112/95/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtIII
 [/us/stat/126/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F69
 
 

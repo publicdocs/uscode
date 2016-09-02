@@ -129,7 +129,7 @@
 
         The Secretary may suspend or revoke under this subsection the registration only after giving notice of the suspension or revocation to the registrant. A suspension remains in effect until the registrant complies with the applicable sections or, in the case of a suspension under paragraph (2), until the Secretary revokes the suspension.
 
-(Added [Pub. L. 104–88, title I, § 103][/us/pl/104/88/s103], Dec. 29, 1995, [109 Stat. 884][/us/stat/109/884]; amended [Pub. L. 104–287, § 5(33)][/us/pl/104/287/s5/33], Oct. 11, 1996, [110 Stat. 3392][/us/stat/110/3392]; [Pub. L. 105–102, § 2(10)][/us/pl/105/102/s2/10], Nov. 20, 1997, [111 Stat. 2204][/us/stat/111/2204]; [Pub. L. 106–159, title II, § 206(a)][/us/pl/106/159/s206/a], Dec. 9, 1999, [113 Stat. 1763][/us/stat/113/1763]; [Pub. L. 109–59, title IV][/us/pl/109/59], §§ 4104, 4303(a), Aug. 10, 2005, [119 Stat. 1716][/us/stat/119/1716], 1761; [Pub. L. 110–291, § 2(b)][/us/pl/110/291/s2/b], July 30, 2008, [122 Stat. 2915][/us/stat/122/2915]; [Pub. L. 112–141, div. C, title II][/us/pl/112/141], §§ 32103(a), 32109, 32205, 32917, 32933(a), July 6, 2012, [126 Stat. 778][/us/stat/126/778], 782, 785, 821, 830; [Pub. L. 114–94, div. A, title V, § 5508(a)(3)][/us/pl/114/94/s5508/a/3], Dec. 4, 2015, [129 Stat. 1554][/us/stat/129/1554].)
+(Added [Pub. L. 104–88, title I][/us/pl/104/88/tI], § 103, Dec. 29, 1995, [109 Stat. 884][/us/stat/109/884]; amended [Pub. L. 104–287][/us/pl/104/287], § 5(33), Oct. 11, 1996, [110 Stat. 3392][/us/stat/110/3392]; [Pub. L. 105–102][/us/pl/105/102], § 2(10), Nov. 20, 1997, [111 Stat. 2204][/us/stat/111/2204]; [Pub. L. 106–159, title II][/us/pl/106/159/tII], § 206(a), Dec. 9, 1999, [113 Stat. 1763][/us/stat/113/1763]; [Pub. L. 109–59, title IV][/us/pl/109/59/tIV], §§ 4104, 4303(a), Aug. 10, 2005, [119 Stat. 1716][/us/stat/119/1716], 1761; [Pub. L. 110–291][/us/pl/110/291], § 2(b), July 30, 2008, [122 Stat. 2915][/us/stat/122/2915]; [Pub. L. 112–141, div. C, title II][/us/pl/112/141/dC/tII], §§ 32103(a), 32109, 32205, 32917, 32933(a), July 6, 2012, [126 Stat. 778][/us/stat/126/778], 782, 785, 821, 830; [Pub. L. 114–94, div. A, title V][/us/pl/114/94/dA/tV], § 5508(a)(3), Dec. 4, 2015, [129 Stat. 1554][/us/stat/129/1554].)
 
  __Historical and Revision Notes__ 
 
@@ -151,39 +151,39 @@
 
     2015—Subsec. (d)(2)(D). [Pub. L. 114–94][/us/pl/114/94] substituted “the Secretary finds that” for “the Secretary finds that—”, struck out cl. (i) designation before “the motor carrier,”, and inserted period at end.
 
-    2012—Subsec. (c). [Pub. L. 112–141, § 32917][/us/pl/112/141/s32917], amended subsec. (c) generally. Prior to amendment, text read as follows: “Except as otherwise provided in this part, each registration issued under section 13902, 13903, or 13904 shall be effective from the date specified by the Secretary and shall remain in effect for such period as the Secretary determines appropriate by regulation.”
+    2012—Subsec. (c). [Pub. L. 112–141][/us/pl/112/141], § 32917, amended subsec. (c) generally. Prior to amendment, text read as follows: “Except as otherwise provided in this part, each registration issued under section 13902, 13903, or 13904 shall be effective from the date specified by the Secretary and shall remain in effect for such period as the Secretary determines appropriate by regulation.”
 
-    Subsec. (d)(1). [Pub. L. 112–141, § 32103(a)(1)(B)][/us/pl/112/141/s32103/a/1/B], added par. (1) and struck out former par. (1) which authorized the Secretary to amend or revoke a registration upon application, or suspend, amend or revoke a registration upon complaint or the Secretary’s own initiative after notice and opportunity for a proceeding.
+    Subsec. (d)(1). [Pub. L. 112–141][/us/pl/112/141], § 32103(a)(1)(B), added par. (1) and struck out former par. (1) which authorized the Secretary to amend or revoke a registration upon application, or suspend, amend or revoke a registration upon complaint or the Secretary’s own initiative after notice and opportunity for a proceeding.
 
-    Subsec. (d)(2). [Pub. L. 112–141, § 32205][/us/pl/112/141/s32205], inserted “foreign motor carrier, foreign motor private carrier,” after “registration of a motor carrier,” wherever appearing.
+    Subsec. (d)(2). [Pub. L. 112–141][/us/pl/112/141], § 32205, inserted “foreign motor carrier, foreign motor private carrier,” after “registration of a motor carrier,” wherever appearing.
 
-    [Pub. L. 112–141, § 32103(a)(1)(B)][/us/pl/112/141/s32103/a/1/B], added par. (2). Former par. (2) redesignated (4).
+    [Pub. L. 112–141][/us/pl/112/141], § 32103(a)(1)(B), added par. (2). Former par. (2) redesignated (4).
 
-    Subsec. (d)(3). [Pub. L. 112–141, § 32103(a)(1)(B)][/us/pl/112/141/s32103/a/1/B], added par. (3).
+    Subsec. (d)(3). [Pub. L. 112–141][/us/pl/112/141], § 32103(a)(1)(B), added par. (3).
 
-    Subsec. (d)(4). [Pub. L. 112–141, § 32103(a)(1)(C)][/us/pl/112/141/s32103/a/1/C], substituted “paragraph (2)(B)” for “paragraph (1)(B)”.
+    Subsec. (d)(4). [Pub. L. 112–141][/us/pl/112/141], § 32103(a)(1)(C), substituted “paragraph (2)(B)” for “paragraph (1)(B)”.
 
-    [Pub. L. 112–141, § 32103(a)(1)(A)][/us/pl/112/141/s32103/a/1/A], redesignated par. (2) as (4).
+    [Pub. L. 112–141][/us/pl/112/141], § 32103(a)(1)(A), redesignated par. (2) as (4).
 
-    Subsec. (e). [Pub. L. 112–141, § 32103(a)(2)][/us/pl/112/141/s32103/a/2], inserted “or if the Secretary determines that the registrant failed to disclose a material fact in an application for registration in accordance with subsection (d)(2)(C),” after “registrant,”.
+    Subsec. (e). [Pub. L. 112–141][/us/pl/112/141], § 32103(a)(2), inserted “or if the Secretary determines that the registrant failed to disclose a material fact in an application for registration in accordance with subsection (d)(2)(C),” after “registrant,”.
 
-    Subsec. (f)(1)(A). [Pub. L. 112–141, § 32933(a)][/us/pl/112/141/s32933/a], substituted “section 13904(e)” for “section 13904(c)”.
+    Subsec. (f)(1)(A). [Pub. L. 112–141][/us/pl/112/141], § 32933(a), substituted “section 13904(e)” for “section 13904(c)”.
 
-    Subsec. (f)(2). [Pub. L. 112–141, § 32109][/us/pl/112/141/s32109], amended par. (2) generally. Prior to amendment, text read as follows: “Without regard to subchapter II of chapter 5 of title 5, the Secretary shall revoke the registration of a motor carrier of passengers if the Secretary finds that such carrier has been conducting unsafe operations which are an imminent hazard to public health or property.”
+    Subsec. (f)(2). [Pub. L. 112–141][/us/pl/112/141], § 32109, amended par. (2) generally. Prior to amendment, text read as follows: “Without regard to subchapter II of chapter 5 of title 5, the Secretary shall revoke the registration of a motor carrier of passengers if the Secretary finds that such carrier has been conducting unsafe operations which are an imminent hazard to public health or property.”
 
     2008—Subsec. (d)(1)(A). [Pub. L. 110–291][/us/pl/110/291] inserted “(including the accessibility requirements established by the Secretary under subpart H of part 37 of title 49, Code of Federal Regulations, or such successor regulations to those accessibility requirements as the Secretary may issue, for transportation provided by an over-the-road bus)” after “Board”.
 
-    2005—Subsecs. (b) to (d). [Pub. L. 109–59, § 4303(a)][/us/pl/109/59/s4303/a], added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively. Former subsec. (d) redesignated (e).
+    2005—Subsecs. (b) to (d). [Pub. L. 109–59][/us/pl/109/59], § 4303(a), added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively. Former subsec. (d) redesignated (e).
 
-    Subsec. (e). [Pub. L. 109–59, § 4303(a)(1)][/us/pl/109/59/s4303/a/1], redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
+    Subsec. (e). [Pub. L. 109–59][/us/pl/109/59], § 4303(a)(1), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
-    Subsec. (e)(1). [Pub. L. 109–59, § 4104(1)][/us/pl/109/59/s4104/1], added par. (1) and struck out heading and text of former par. (1). Text read as follows: “Without regard to subchapter II of chapter 5 of title 5, the Secretary may suspend the registration of a motor carrier, a freight forwarder, or a broker for failure to comply with safety requirements of the Secretary or the safety fitness requirements pursuant to section 13904(c), 13906, or 31144 of this title, or an order or regulation of the Secretary prescribed under those sections.”
+    Subsec. (e)(1). [Pub. L. 109–59][/us/pl/109/59], § 4104(1), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “Without regard to subchapter II of chapter 5 of title 5, the Secretary may suspend the registration of a motor carrier, a freight forwarder, or a broker for failure to comply with safety requirements of the Secretary or the safety fitness requirements pursuant to section 13904(c), 13906, or 31144 of this title, or an order or regulation of the Secretary prescribed under those sections.”
 
-    Subsec. (e)(2). [Pub. L. 109–59, § 4104(2)][/us/pl/109/59/s4104/2], substituted “shall revoke the registration” for “may suspend a registration”.
+    Subsec. (e)(2). [Pub. L. 109–59][/us/pl/109/59], § 4104(2), substituted “shall revoke the registration” for “may suspend a registration”.
 
-    Subsec. (e)(3). [Pub. L. 109–59, § 4104(3)][/us/pl/109/59/s4104/3], added par. (3) and struck out heading and text of former par. (3). Text read as follows: “The Secretary may suspend under this subsection the registration only after giving notice of the suspension to the registrant. The suspension remains in effect until the registrant complies with those applicable sections or, in the case of a suspension under paragraph (2), until the Secretary revokes such suspension.”
+    Subsec. (e)(3). [Pub. L. 109–59][/us/pl/109/59], § 4104(3), added par. (3) and struck out heading and text of former par. (3). Text read as follows: “The Secretary may suspend under this subsection the registration only after giving notice of the suspension to the registrant. The suspension remains in effect until the registrant complies with those applicable sections or, in the case of a suspension under paragraph (2), until the Secretary revokes such suspension.”
 
-    Subsec. (f). [Pub. L. 109–59, § 4303(a)(1)][/us/pl/109/59/s4303/a/1], redesignated subsec. (e) as (f).
+    Subsec. (f). [Pub. L. 109–59][/us/pl/109/59], § 4303(a)(1), redesignated subsec. (e) as (f).
 
     1999—Subsec. (c). [Pub. L. 106–159][/us/pl/106/159] inserted par. (1) designation and heading, inserted “(A)” before “suspend”, added cl. (B), realigned par. (1) margins, and added par. (2).
 
@@ -210,44 +210,44 @@
 ----------
 ----------
 
-[/us/pl/104/88/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs103
+[/us/pl/104/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtI
 [/us/stat/109/884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F884
-[/us/pl/104/287/s5/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F33
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3392
-[/us/pl/105/102/s2/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102%2Fs2%2F10
+[/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/stat/111/2204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2204
-[/us/pl/106/159/s206/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2Fs206%2Fa
+[/us/pl/106/159/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2FtII
 [/us/stat/113/1763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1763
-[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIV
 [/us/stat/119/1716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1716
-[/us/pl/110/291/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F291%2Fs2%2Fb
+[/us/pl/110/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F291
 [/us/stat/122/2915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2915
-[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtII
 [/us/stat/126/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F778
-[/us/pl/114/94/s5508/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5508%2Fa%2F3
+[/us/pl/114/94/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtV
 [/us/stat/129/1554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1554
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/106/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
-[/us/pl/112/141/s32917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32917
-[/us/pl/112/141/s32103/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32103%2Fa%2F1%2FB
-[/us/pl/112/141/s32205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32205
-[/us/pl/112/141/s32103/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32103%2Fa%2F1%2FB
-[/us/pl/112/141/s32103/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32103%2Fa%2F1%2FB
-[/us/pl/112/141/s32103/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32103%2Fa%2F1%2FC
-[/us/pl/112/141/s32103/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32103%2Fa%2F1%2FA
-[/us/pl/112/141/s32103/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32103%2Fa%2F2
-[/us/pl/112/141/s32933/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32933%2Fa
-[/us/pl/112/141/s32109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32109
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/110/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F291
-[/us/pl/109/59/s4303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4303%2Fa
-[/us/pl/109/59/s4303/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4303%2Fa%2F1
-[/us/pl/109/59/s4104/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4104%2F1
-[/us/pl/109/59/s4104/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4104%2F2
-[/us/pl/109/59/s4104/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4104%2F3
-[/us/pl/109/59/s4303/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4303%2Fa%2F1
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/106/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159
 [/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287

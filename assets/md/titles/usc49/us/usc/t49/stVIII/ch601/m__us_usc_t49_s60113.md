@@ -25,7 +25,7 @@
 
     (4) the potential hazards of not maintaining the lines.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1318][/us/stat/108/1318]; [Pub. L. 104–304][/us/pl/104/304], §§ 9, 20(k), Oct. 12, 1996, [110 Stat. 3801][/us/stat/110/3801], 3805.)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1318][/us/stat/108/1318]; [Pub. L. 104–304][/us/pl/104/304], §§ 9, 20(k), Oct. 12, 1996, [110 Stat. 3801][/us/stat/110/3801], 3805.)
 
 <table>
 
@@ -97,7 +97,7 @@ Aug. 12, 1968, Pub. L. 90–481, 82 Stat. 720, § 3(k); added Oct. 24, 1992, P
 
  __Maintenance of Customer-Owned Service Lines__ 
 
-[Pub. L. 102–508, title I, § 115(b)][/us/pl/102/508/s115/b], Oct. 24, 1992, [106 Stat. 3296][/us/stat/106/3296], provided that:
+[Pub. L. 102–508, title I][/us/pl/102/508/tI], § 115(b), Oct. 24, 1992, [106 Stat. 3296][/us/stat/106/3296], provided that:
 
 >     “(1)  __DOT safety review__  __.—__ 
 
@@ -122,14 +122,14 @@ Aug. 12, 1968, Pub. L. 90–481, 82 Stat. 720, § 3(k); added Oct. 24, 1992, P
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1318
 [/us/pl/104/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304
 [/us/stat/110/3801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3801
 [/us/pl/104/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304
 [/us/pl/102/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F508
 [/us/stat/106/3296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3296
-[/us/pl/102/508/s115/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F508%2Fs115%2Fb
+[/us/pl/102/508/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F508%2FtI
 [/us/stat/106/3296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3296
 
 

@@ -17,7 +17,7 @@
 
     The Federal Energy Regulatory Commission has the duties and powers related to the establishment of a rate or charge for the transportation of oil by pipeline or the valuation of that pipeline that were vested on October 1, 1977, in the Interstate Commerce Commission or an officer or component of the Interstate Commerce Commission.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1329][/us/stat/108/1329].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1329][/us/stat/108/1329].)
 
 <table>
 
@@ -94,7 +94,7 @@ Oct. 17, 1978, Pub. L. 95–473, § 4(c)(1)(B), (2) (related to § 402(b) of
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1329
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/usc/t49/s1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1302

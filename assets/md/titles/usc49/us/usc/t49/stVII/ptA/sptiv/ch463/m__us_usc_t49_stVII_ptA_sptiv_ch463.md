@@ -179,9 +179,9 @@
 
  __Amendments__ 
 
-    2003—[Pub. L. 108–176, title I, § 185(b)][/us/pl/108/176/s185/b], Dec. 12, 2003, [117 Stat. 2518][/us/stat/117/2518], added item 46319.
+    2003—[Pub. L. 108–176, title I][/us/pl/108/176/tI], § 185(b), Dec. 12, 2003, [117 Stat. 2518][/us/stat/117/2518], added item 46319.
 
-    2000—[Pub. L. 106–181, title V][/us/pl/106/181], §§ 509(b), 511(b), Apr. 5, 2000, [114 Stat. 141][/us/stat/114/141], 142, added items 46317 and 46318.
+    2000—[Pub. L. 106–181, title V][/us/pl/106/181/tV], §§ 509(b), 511(b), Apr. 5, 2000, [114 Stat. 141][/us/stat/114/141], 142, added items 46317 and 46318.
 
 ----------
 
@@ -190,9 +190,9 @@
 ----------
 ----------
 
-[/us/pl/108/176/s185/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs185%2Fb
+[/us/pl/108/176/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtI
 [/us/stat/117/2518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2518
-[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/106/181/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtV
 [/us/stat/114/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F141
 
 

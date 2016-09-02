@@ -17,7 +17,7 @@
 
     A civil penalty under this subchapter may be imposed against an individual only for a willful violation. An individual is deemed not to have committed a willful violation if the individual was following the direct order of a railroad carrier official or supervisor under protest communicated to the official or supervisor. The individual is entitled to document the protest.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 893][/us/stat/108/893].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 893][/us/stat/108/893].)
 
 <table>
 
@@ -170,7 +170,7 @@ Feb. 4, 1887, ch. 104, 24 Stat. 379, § 25(h) (1st sentence words after last c
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F893
 
 

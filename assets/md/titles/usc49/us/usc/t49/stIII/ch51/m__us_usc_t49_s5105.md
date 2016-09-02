@@ -33,7 +33,7 @@
 
         (2) The Secretary may allow a person, transporting or causing to be transported a highway-route-controlled quantity of radioactive material, to inspect the motor vehicle used to transport the material and to certify that the vehicle complies with this chapter. The inspector qualification requirements the Secretary prescribes for an individual inspecting a motor vehicle apply to an individual conducting an inspection under this paragraph.
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 762][/us/stat/108/762]; [Pub. L. 109–59, title VII][/us/pl/109/59], §§ 7107, 7126, Aug. 10, 2005, [119 Stat. 1897][/us/stat/119/1897], 1909.)
+([Pub. L. 103–272][/us/pl/103/272], § 1(d), July 5, 1994, [108 Stat. 762][/us/stat/108/762]; [Pub. L. 109–59, title VII][/us/pl/109/59/tVII], §§ 7107, 7126, Aug. 10, 2005, [119 Stat. 1897][/us/stat/119/1897], 1909.)
 
 <table>
 
@@ -165,13 +165,13 @@ In subsection (a), section 16(e) of the Hazardous Materials Transportation Unifo
 
  __Amendments__ 
 
-    2005—Subsecs. (b), (c). [Pub. L. 109–59, § 7126][/us/pl/109/59/s7126], substituted “Secretary shall” for “Secretary of Transportation shall” wherever appearing.
+    2005—Subsecs. (b), (c). [Pub. L. 109–59][/us/pl/109/59], § 7126, substituted “Secretary shall” for “Secretary of Transportation shall” wherever appearing.
 
-    Subsec. (d). [Pub. L. 109–59, § 7126][/us/pl/109/59/s7126], substituted “Secretary shall” for “Secretary of Transportation shall” in par. (1) and “Secretary may” for “Secretary of Transportation may” in par. (2).
+    Subsec. (d). [Pub. L. 109–59][/us/pl/109/59], § 7126, substituted “Secretary shall” for “Secretary of Transportation shall” in par. (1) and “Secretary may” for “Secretary of Transportation may” in par. (2).
 
-    [Pub. L. 109–59, § 7107][/us/pl/109/59/s7107], redesignated subsec. (e) as (d) and struck out former subsec. (d) which related to a study to be conducted not later than Nov. 16, 1991, to decide which factors, if any, shippers and carriers should consider when selecting routes and modes that would enhance overall public safety related to the transportation of high-level radioactive waste and spent nuclear fuel.
+    [Pub. L. 109–59][/us/pl/109/59], § 7107, redesignated subsec. (e) as (d) and struck out former subsec. (d) which related to a study to be conducted not later than Nov. 16, 1991, to decide which factors, if any, shippers and carriers should consider when selecting routes and modes that would enhance overall public safety related to the transportation of high-level radioactive waste and spent nuclear fuel.
 
-    Subsec. (e). [Pub. L. 109–59, § 7107(2)][/us/pl/109/59/s7107/2], redesignated subsec. (e) as (d).
+    Subsec. (e). [Pub. L. 109–59][/us/pl/109/59], § 7107(2), redesignated subsec. (e) as (d).
 
 ----------
 
@@ -181,18 +181,18 @@ In subsection (a), section 16(e) of the Hazardous Materials Transportation Unifo
 ----------
 
 [/us/usc/t42/s10101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10101
-[/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F762
-[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtVII
 [/us/stat/119/1897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1897
 [/us/pl/101/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F615
 [/us/stat/104/3263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3263
 [/us/pl/101/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F615
 [/us/stat/104/3262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3262
 [/us/stat/104/3261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3261
-[/us/pl/109/59/s7126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7126
-[/us/pl/109/59/s7126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7126
-[/us/pl/109/59/s7107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7107
-[/us/pl/109/59/s7107/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7107%2F2
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 
 

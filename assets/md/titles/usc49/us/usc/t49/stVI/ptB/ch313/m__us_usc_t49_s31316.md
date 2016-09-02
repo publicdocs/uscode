@@ -17,7 +17,7 @@
 
     This chapter does not affect the authority of the Secretary of Transportation to regulate commercial motor vehicle safety involving motor vehicles with a gross vehicle weight rating of less than 26,001 pounds or a lesser gross vehicle weight rating the Secretary decides is appropriate under [section 31301(4)(A) of this title][/us/usc/t49/s31301/4/A].
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1029][/us/stat/108/1029].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1029][/us/stat/108/1029].)
 
 <table>
 
@@ -75,7 +75,7 @@ Oct. 27, 1986, Pub. L. 99–570, § 12017, 100 Stat. 3207–187.  </td>
 ----------
 
 [/us/usc/t49/s31301/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31301%2F4%2FA
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1029
 
 

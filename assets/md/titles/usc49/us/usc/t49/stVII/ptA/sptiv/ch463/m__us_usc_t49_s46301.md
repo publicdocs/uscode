@@ -227,7 +227,7 @@
 
     In this section, the term “small business concern” has the meaning given that term in section 3 of the Small Business Act ([15 U.S.C. 632][/us/usc/t15/s632]).
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1231][/us/stat/108/1231]; [Pub. L. 103–305, title I, § 112(c)][/us/pl/103/305/s112/c], title II, § 207(c), Aug. 23, 1994, [108 Stat. 1575][/us/stat/108/1575], 1588; [Pub. L. 103–429, § 6(60)][/us/pl/103/429/s6/60], Oct. 31, 1994, [108 Stat. 4385][/us/stat/108/4385]; [Pub. L. 104–264, title V, § 502(c)][/us/pl/104/264/s502/c], title VIII, § 804(b), title XII, § 1220(b), Oct. 9, 1996, [110 Stat. 3263][/us/stat/110/3263], 3271, 3286; [Pub. L. 104–287, § 5(77)][/us/pl/104/287/s5/77], Oct. 11, 1996, [110 Stat. 3396][/us/stat/110/3396]; [Pub. L. 105–102, § 3(c)(4)][/us/pl/105/102/s3/c/4], Nov. 20, 1997, [111 Stat. 2215][/us/stat/111/2215]; [Pub. L. 106–181, title II, § 222][/us/pl/106/181/s222], title V, §§ 503(c), 504(b), 519(c), title VII, §§ 707(b), 720, Apr. 5, 2000, [114 Stat. 102][/us/stat/114/102], 133, 134, 149, 158, 163; [Pub. L. 106–424, § 15][/us/pl/106/424/s15], Nov. 1, 2000, [114 Stat. 1888][/us/stat/114/1888]; [Pub. L. 107–71, title I, § 140(d)(1)][/us/pl/107/71/s140/d/1]–(4), Nov. 19, 2001, [115 Stat. 642][/us/stat/115/642]; [Pub. L. 107–296, title XVI, § 1602][/us/pl/107/296/s1602], Nov. 25, 2002, [116 Stat. 2312][/us/stat/116/2312]; [Pub. L. 108–176, title V, § 503(a)][/us/pl/108/176/s503/a]–(c), Dec. 12, 2003, [117 Stat. 2557][/us/stat/117/2557], 2558; [Pub. L. 108–458, title IV, § 4027(a)][/us/pl/108/458/s4027/a], Dec. 17, 2004, [118 Stat. 3727][/us/stat/118/3727]; [Pub. L. 110–53, title XIII, § 1302(b)][/us/pl/110/53/s1302/b], Aug. 3, 2007, [121 Stat. 392][/us/stat/121/392]; [Pub. L. 110–161, div. E, title V, § 542][/us/pl/110/161/s542], Dec. 26, 2007, [121 Stat. 2079][/us/stat/121/2079]; [Pub. L. 112–74, div. D, title V, § 564(a)][/us/pl/112/74/s564/a], Dec. 23, 2011, [125 Stat. 981][/us/stat/125/981]; [Pub. L. 112–95, title IV, § 415(b)][/us/pl/112/95/s415/b], title VIII, § 803, Feb. 14, 2012, [126 Stat. 96][/us/stat/126/96], 119; [Pub. L. 113–188, title XV, § 1501(b)(2)(B)][/us/pl/113/188/s1501/b/2/B], Nov. 26, 2014, [128 Stat. 2024][/us/stat/128/2024].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1231][/us/stat/108/1231]; [Pub. L. 103–305, title I][/us/pl/103/305/tI], § 112(c), title II, § 207(c), Aug. 23, 1994, [108 Stat. 1575][/us/stat/108/1575], 1588; [Pub. L. 103–429][/us/pl/103/429], § 6(60), Oct. 31, 1994, [108 Stat. 4385][/us/stat/108/4385]; [Pub. L. 104–264, title V][/us/pl/104/264/tV], § 502(c), title VIII, § 804(b), title XII, § 1220(b), Oct. 9, 1996, [110 Stat. 3263][/us/stat/110/3263], 3271, 3286; [Pub. L. 104–287][/us/pl/104/287], § 5(77), Oct. 11, 1996, [110 Stat. 3396][/us/stat/110/3396]; [Pub. L. 105–102][/us/pl/105/102], § 3(c)(4), Nov. 20, 1997, [111 Stat. 2215][/us/stat/111/2215]; [Pub. L. 106–181, title II][/us/pl/106/181/tII], § 222, title V, §§ 503(c), 504(b), 519(c), title VII, §§ 707(b), 720, Apr. 5, 2000, [114 Stat. 102][/us/stat/114/102], 133, 134, 149, 158, 163; [Pub. L. 106–424][/us/pl/106/424], § 15, Nov. 1, 2000, [114 Stat. 1888][/us/stat/114/1888]; [Pub. L. 107–71, title I][/us/pl/107/71/tI], § 140(d)(1)–(4), Nov. 19, 2001, [115 Stat. 642][/us/stat/115/642]; [Pub. L. 107–296, title XVI][/us/pl/107/296/tXVI], § 1602, Nov. 25, 2002, [116 Stat. 2312][/us/stat/116/2312]; [Pub. L. 108–176, title V][/us/pl/108/176/tV], § 503(a)–(c), Dec. 12, 2003, [117 Stat. 2557][/us/stat/117/2557], 2558; [Pub. L. 108–458, title IV][/us/pl/108/458/tIV], § 4027(a), Dec. 17, 2004, [118 Stat. 3727][/us/stat/118/3727]; [Pub. L. 110–53, title XIII][/us/pl/110/53/tXIII], § 1302(b), Aug. 3, 2007, [121 Stat. 392][/us/stat/121/392]; [Pub. L. 110–161, div. E, title V][/us/pl/110/161/dE/tV], § 542, Dec. 26, 2007, [121 Stat. 2079][/us/stat/121/2079]; [Pub. L. 112–74, div. D, title V][/us/pl/112/74/dD/tV], § 564(a), Dec. 23, 2011, [125 Stat. 981][/us/stat/125/981]; [Pub. L. 112–95, title IV][/us/pl/112/95/tIV], § 415(b), title VIII, § 803, Feb. 14, 2012, [126 Stat. 96][/us/stat/126/96], 119; [Pub. L. 113–188, title XV][/us/pl/113/188/tXV], § 1501(b)(2)(B), Nov. 26, 2014, [128 Stat. 2024][/us/stat/128/2024].)
 
 <table>
 
@@ -661,15 +661,15 @@ In subsection (h)(2), the words “with respect thereto” are omitted as surplu
 
     This amends 49:46301(a)(1)(A) and (2)(A), (c)(1)(A), (d)(2), and (f)(1)(A)(i) to correct erroneous cross-references.
 
- __[__  __Pub. L. 104–287, § 5(77)(A)__  __][/us/pl/104/287/s5/77/A]__  __and (B)__ 
+ __[__  __Pub. L. 104–287__  __][/us/pl/104/287]__  __, § 5(77)(A) and (B)__ 
 
     These amend 49:46301(a)(1)(A) and (2)(A) to correct errors in the codification enacted by [section 1 of the Act of July 5, 1994][/us/act/1994-07-05/s1] ([Public Law 103–272][/us/pl/103/272], [108 Stat. 1231][/us/stat/108/1231]), to include in the cross-reference sections enacted after the cutoff date for the codification of title 49 as enacted by section 1 of the Act ([Public Law 103–272][/us/pl/103/272], [108 Stat. 745][/us/stat/108/745]), and to make it easier to include future sections in the cross-reference by restating it in terms of chapters.
 
- __[__  __Pub. L. 104–287, § 5(77)(C)__  __][/us/pl/104/287/s5/77/C]__ 
+ __[__  __Pub. L. 104–287__  __][/us/pl/104/287]__  __, § 5(77)(C)__ 
 
     This makes a conforming amendment to 49:46301(a)(3).
 
- __[__  __Pub. L. 104–287, § 5(77)(D)__  __][/us/pl/104/287/s5/77/D]__  __–(F)__ 
+ __[__  __Pub. L. 104–287__  __][/us/pl/104/287]__  __, § 5(77)(D)–(F)__ 
 
     These amend 49:46301(c)(1)(A), (d)(2), and (f)(1)(A)(i) to correct errors in the codification enacted by [section 1 of the Act of July 5, 1994][/us/act/1994-07-05/s1] ([Public Law 103–272][/us/pl/103/272], [108 Stat. 1231][/us/stat/108/1231]), to include in the cross-reference sections enacted after the cutoff date for the codification of title 49 as enacted by section 1 of the Act ([Public Law 103–272][/us/pl/103/272], [108 Stat. 745][/us/stat/108/745]), and to make it easier to include future sections in the cross-reference by restating it in terms of chapters.
 
@@ -683,19 +683,19 @@ In subsection (h)(2), the words “with respect thereto” are omitted as surplu
 
     2014—Subsec. (d)(2). [Pub. L. 113–188][/us/pl/113/188] substituted “section 47107(k)” for “section 47107(l)”.
 
-    2012—Subsec. (a)(1)(A). [Pub. L. 112–95, § 803(1)][/us/pl/112/95/s803/1], inserted “chapter 451,” before “section 47107(b)”.
+    2012—Subsec. (a)(1)(A). [Pub. L. 112–95][/us/pl/112/95], § 803(1), inserted “chapter 451,” before “section 47107(b)”.
 
-    [Pub. L. 112–95, § 415(b)][/us/pl/112/95/s415/b], inserted “chapter 423,” after “chapter 421,”.
+    [Pub. L. 112–95][/us/pl/112/95], § 415(b), inserted “chapter 423,” after “chapter 421,”.
 
-    Subsec. (a)(5)(A)(i). [Pub. L. 112–95, § 803(2)(B)][/us/pl/112/95/s803/2/B], inserted “, or chapter 451” after “44907–44909)”.
+    Subsec. (a)(5)(A)(i). [Pub. L. 112–95][/us/pl/112/95], § 803(2)(B), inserted “, or chapter 451” after “44907–44909)”.
 
-    [Pub. L. 112–95, § 803(2)(A)][/us/pl/112/95/s803/2/A], which directed the substitution of “chapter 449” for “or chapter 449”, could not be executed because of the prior amendment by [Pub. L. 112–74, § 564(a)][/us/pl/112/74/s564/a]. See 2011 Amendment note below.
+    [Pub. L. 112–95][/us/pl/112/95], § 803(2)(A), which directed the substitution of “chapter 449” for “or chapter 449”, could not be executed because of the prior amendment by [Pub. L. 112–74][/us/pl/112/74], § 564(a). See 2011 Amendment note below.
 
-    Subsec. (c)(1)(A). [Pub. L. 112–95, § 415(b)][/us/pl/112/95/s415/b], inserted “chapter 423,” after “chapter 421,”.
+    Subsec. (c)(1)(A). [Pub. L. 112–95][/us/pl/112/95], § 415(b), inserted “chapter 423,” after “chapter 421,”.
 
-    Subsec. (d)(2). [Pub. L. 112–95, § 803(3)][/us/pl/112/95/s803/3], substituted “44723), chapter 451,” for “44723) or”, “section 46302” for “46302”, “section 46318, section 46319, or section 47107(b)” for “46318, or 47107(b)” in first sentence , and “section 46302” for “46302”, “or [section 46303 of this title][/us/usc/t49/s46303]” for “46303,”, and “any of those provisions” for “such chapter 449” in second sentence.
+    Subsec. (d)(2). [Pub. L. 112–95][/us/pl/112/95], § 803(3), substituted “44723), chapter 451,” for “44723) or”, “section 46302” for “46302”, “section 46318, section 46319, or section 47107(b)” for “46318, or 47107(b)” in first sentence , and “section 46302” for “46302”, “or [section 46303 of this title][/us/usc/t49/s46303]” for “46303,”, and “any of those provisions” for “such chapter 449” in second sentence.
 
-    Subsec. (f)(1)(A)(i). [Pub. L. 112–95, § 803(4)][/us/pl/112/95/s803/4], substituted “chapter 449” for “or chapter 449” and inserted “, or chapter 451” after “44909)”.
+    Subsec. (f)(1)(A)(i). [Pub. L. 112–95][/us/pl/112/95], § 803(4), substituted “chapter 449” for “or chapter 449” and inserted “, or chapter 451” after “44909)”.
 
     2011—Subsec. (a)(5)(A)(i). [Pub. L. 112–74][/us/pl/112/74] substituted “chapter 449” for “or chapter 449” and inserted “, or section 46314(a)” after “44909)”.
 
@@ -703,27 +703,27 @@ In subsection (h)(2), the words “with respect thereto” are omitted as surplu
 
     Subsec. (a)(6). [Pub. L. 110–161][/us/pl/110/161] added par. (6).
 
-    2004—Subsec. (d)(2). [Pub. L. 108–458, § 4027(a)(1)][/us/pl/108/458/s4027/a/1]–(3), substituted “46302 (for a violation relating to section 46504),” for “46302, 46303,”, “The Secretary of Homeland Security may” for “The Under Secretary of Transportation for Security may”, “44909), 46302 (except for a violation relating to section 46504), 46303,” for “44909)”, and “The Secretary of Homeland Security or” for “The Under Secretary or”.
+    2004—Subsec. (d)(2). [Pub. L. 108–458][/us/pl/108/458], § 4027(a)(1)–(3), substituted “46302 (for a violation relating to section 46504),” for “46302, 46303,”, “The Secretary of Homeland Security may” for “The Under Secretary of Transportation for Security may”, “44909), 46302 (except for a violation relating to section 46504), 46303,” for “44909)”, and “The Secretary of Homeland Security or” for “The Under Secretary or”.
 
-    Subsec. (d)(3). [Pub. L. 108–458, § 4027(a)(3)][/us/pl/108/458/s4027/a/3], substituted “Secretary of Homeland Security or” for “Under Secretary or”.
+    Subsec. (d)(3). [Pub. L. 108–458][/us/pl/108/458], § 4027(a)(3), substituted “Secretary of Homeland Security or” for “Under Secretary or”.
 
-    Subsec. (d)(4). [Pub. L. 108–458, § 4027(a)(3)][/us/pl/108/458/s4027/a/3], substituted “Secretary of Homeland Security or” for “Under Secretary or” in introductory provisions.
+    Subsec. (d)(4). [Pub. L. 108–458][/us/pl/108/458], § 4027(a)(3), substituted “Secretary of Homeland Security or” for “Under Secretary or” in introductory provisions.
 
-    Subsec. (d)(4)(A). [Pub. L. 108–458, § 4027(a)(4)][/us/pl/108/458/s4027/a/4], realigned margins.
+    Subsec. (d)(4)(A). [Pub. L. 108–458][/us/pl/108/458], § 4027(a)(4), realigned margins.
 
-    2003—Subsec. (a)(1). [Pub. L. 108–176, § 503(a)(1)][/us/pl/108/176/s503/a/1], substituted “$25,000 (or $1,100 if the person is an individual or small business concern)” for “$1,000” in introductory provisions.
+    2003—Subsec. (a)(1). [Pub. L. 108–176][/us/pl/108/176], § 503(a)(1), substituted “$25,000 (or $1,100 if the person is an individual or small business concern)” for “$1,000” in introductory provisions.
 
-    Subsec. (a)(1)(A). [Pub. L. 108–176, § 503(a)(2)][/us/pl/108/176/s503/a/2], (3), struck out “or” before “section 47107(b)” and substituted “section), or section 47133” for “section)”.
+    Subsec. (a)(1)(A). [Pub. L. 108–176][/us/pl/108/176], § 503(a)(2), (3), struck out “or” before “section 47107(b)” and substituted “section), or section 47133” for “section)”.
 
-    Subsec. (a)(2). [Pub. L. 108–176, § 503(a)(5)][/us/pl/108/176/s503/a/5], substituted “section 41719” for “section 41715” in two places.
+    Subsec. (a)(2). [Pub. L. 108–176][/us/pl/108/176], § 503(a)(5), substituted “section 41719” for “section 41715” in two places.
 
-    [Pub. L. 108–176, § 503(a)(4)][/us/pl/108/176/s503/a/4], redesignated par. (4) as (2) and struck out former par. (2) which read as follows: “A person operating an aircraft for the transportation of passengers or property for compensation (except an airman serving as an airman) is liable to the Government for a civil penalty of not more than $10,000 for violating—
+    [Pub. L. 108–176][/us/pl/108/176], § 503(a)(4), redesignated par. (4) as (2) and struck out former par. (2) which read as follows: “A person operating an aircraft for the transportation of passengers or property for compensation (except an airman serving as an airman) is liable to the Government for a civil penalty of not more than $10,000 for violating—
 
     “(A) chapter 401 (except sections 40103(a) and (d), 40105, 40106(b), 40116, and 40117), section 44502(b) or (c), chapter 447 (except sections 44717–44723), or chapter 449 (except sections 44902, 44903(d), 44904, and 44907–44909) of this title; or
 
     “(B) a regulation prescribed or order issued under any provision to which clause (A) of this paragraph applies.”
 
-    Subsec. (a)(3). [Pub. L. 108–176, § 503(a)(4)][/us/pl/108/176/s503/a/4], redesignated par. (5) as (3) and struck out former par. (3) which read as follows: “A civil penalty of not more than $10,000 may be imposed for each violation under paragraph (1) of this subsection related to
+    Subsec. (a)(3). [Pub. L. 108–176][/us/pl/108/176], § 503(a)(4), redesignated par. (5) as (3) and struck out former par. (3) which read as follows: “A civil penalty of not more than $10,000 may be imposed for each violation under paragraph (1) of this subsection related to
 
     “(A) the transportation of hazardous material;
 
@@ -735,113 +735,113 @@ In subsection (h)(2), the words “with respect thereto” are omitted as surplu
 
     “(E) a violation of section 41705, relating to discrimination against handicapped individuals.”
 
-    Subsec. (a)(4). [Pub. L. 108–176, § 503(a)(6)][/us/pl/108/176/s503/a/6], substituted “paragraph (1)” for “paragraphs (1) and (2)”.
+    Subsec. (a)(4). [Pub. L. 108–176][/us/pl/108/176], § 503(a)(6), substituted “paragraph (1)” for “paragraphs (1) and (2)”.
 
-    [Pub. L. 108–176, § 503(a)(4)][/us/pl/108/176/s503/a/4], redesignated par. (8) as (4). Former par. (4) redesignated (2).
+    [Pub. L. 108–176][/us/pl/108/176], § 503(a)(4), redesignated par. (8) as (4). Former par. (4) redesignated (2).
 
-    Subsec. (a)(5). [Pub. L. 108–176, § 503(a)(7)][/us/pl/108/176/s503/a/7], added par. (5). Former par. (5) redesignated (3).
+    Subsec. (a)(5). [Pub. L. 108–176][/us/pl/108/176], § 503(a)(7), added par. (5). Former par. (5) redesignated (3).
 
-    Subsec. (a)(6). [Pub. L. 108–176, § 503(a)(4)][/us/pl/108/176/s503/a/4], struck out heading and text of par. (6). Text read as follows: “Notwithstanding paragraph (1), the maximum civil penalty for violating section 41715 shall be $5,000 instead of $1,000.”
+    Subsec. (a)(6). [Pub. L. 108–176][/us/pl/108/176], § 503(a)(4), struck out heading and text of par. (6). Text read as follows: “Notwithstanding paragraph (1), the maximum civil penalty for violating section 41715 shall be $5,000 instead of $1,000.”
 
-    Subsec. (a)(7). [Pub. L. 108–176, § 503(a)(4)][/us/pl/108/176/s503/a/4], struck out heading and text of par. (7). Text read as follows: “Notwithstanding paragraphs (1) and (4), the maximum civil penalty for violating section 40127 or 41712 (including a regulation prescribed or order issued under such section) or any other regulation prescribed by the Secretary that is intended to afford consumer protection to commercial air transportation passengers, shall be $2,500 for each violation.”
+    Subsec. (a)(7). [Pub. L. 108–176][/us/pl/108/176], § 503(a)(4), struck out heading and text of par. (7). Text read as follows: “Notwithstanding paragraphs (1) and (4), the maximum civil penalty for violating section 40127 or 41712 (including a regulation prescribed or order issued under such section) or any other regulation prescribed by the Secretary that is intended to afford consumer protection to commercial air transportation passengers, shall be $2,500 for each violation.”
 
-    Subsec. (a)(8). [Pub. L. 108–176, § 503(a)(4)][/us/pl/108/176/s503/a/4], redesignated par. (8) as (4).
+    Subsec. (a)(8). [Pub. L. 108–176][/us/pl/108/176], § 503(a)(4), redesignated par. (8) as (4).
 
-    Subsec. (d)(4)(A). [Pub. L. 108–176, § 503(b)(1)][/us/pl/108/176/s503/b/1], substituted “more than—” for “more than $50,000;” and added cls. (i) to (iii).
+    Subsec. (d)(4)(A). [Pub. L. 108–176][/us/pl/108/176], § 503(b)(1), substituted “more than—” for “more than $50,000;” and added cls. (i) to (iii).
 
-    Subsec. (d)(8). [Pub. L. 108–176, § 503(b)(2)][/us/pl/108/176/s503/b/2], substituted “is—” for “is $50,000.” and added subpars. (A) to (C).
+    Subsec. (d)(8). [Pub. L. 108–176][/us/pl/108/176], § 503(b)(2), substituted “is—” for “is $50,000.” and added subpars. (A) to (C).
 
-    Subsec. (i). [Pub. L. 108–176, § 503(c)][/us/pl/108/176/s503/c], added subsec. (i).
+    Subsec. (i). [Pub. L. 108–176][/us/pl/108/176], § 503(c), added subsec. (i).
 
     2002—Subsec. (a)(8). [Pub. L. 107–296][/us/pl/107/296] added par. (8).
 
-    2001—Subsec. (d)(2). [Pub. L. 107–71, § 140(d)(1)(C)][/us/pl/107/71/s140/d/1/C], inserted “Under Secretary or” before “Administrator shall”.
+    2001—Subsec. (d)(2). [Pub. L. 107–71][/us/pl/107/71], § 140(d)(1)(C), inserted “Under Secretary or” before “Administrator shall”.
 
-    [Pub. L. 107–71, § 140(d)(1)(B)][/us/pl/107/71/s140/d/1/B], inserted after first sentence “The Under Secretary of Transportation for Security may impose a civil penalty for a violation of chapter 449 (except sections 44902, 44903(d), 44907(a)–(d)(1)(A), 44907(d)(1)(C)–(f), 44908, and 44909) or a regulation prescribed or order issued under such chapter 449.”
+    [Pub. L. 107–71][/us/pl/107/71], § 140(d)(1)(B), inserted after first sentence “The Under Secretary of Transportation for Security may impose a civil penalty for a violation of chapter 449 (except sections 44902, 44903(d), 44907(a)–(d)(1)(A), 44907(d)(1)(C)–(f), 44908, and 44909) or a regulation prescribed or order issued under such chapter 449.”
 
-    [Pub. L. 107–71, § 140(d)(1)(A)][/us/pl/107/71/s140/d/1/A], which directed amendment of subsec. (d)(2) by striking out “, chapter 449 (except sections 44902, 44903(d), 44907(a)–(d)(1)(A) and (d)(1)(C)–(f), 44908, and 44909),”, was executed by striking out “, chapter 449 (except sections 44902, 44903(d), 44904, 44907(a)–(d)(1)(A) and (d)(1)(C)–(f), 44908, and 44909),” before “or section 46301(b)”, to reflect the probable intent of Congress.
+    [Pub. L. 107–71][/us/pl/107/71], § 140(d)(1)(A), which directed amendment of subsec. (d)(2) by striking out “, chapter 449 (except sections 44902, 44903(d), 44907(a)–(d)(1)(A) and (d)(1)(C)–(f), 44908, and 44909),”, was executed by striking out “, chapter 449 (except sections 44902, 44903(d), 44904, 44907(a)–(d)(1)(A) and (d)(1)(C)–(f), 44908, and 44909),” before “or section 46301(b)”, to reflect the probable intent of Congress.
 
-    Subsec. (d)(3), (4). [Pub. L. 107–71, § 140(d)(2)][/us/pl/107/71/s140/d/2], substituted “Under Secretary or Administrator” for “Administrator”.
+    Subsec. (d)(3), (4). [Pub. L. 107–71][/us/pl/107/71], § 140(d)(2), substituted “Under Secretary or Administrator” for “Administrator”.
 
-    Subsec. (d)(8). [Pub. L. 107–71, § 140(d)(3)][/us/pl/107/71/s140/d/3], substituted “Under Secretary, Administrator,” for “Administrator”.
+    Subsec. (d)(8). [Pub. L. 107–71][/us/pl/107/71], § 140(d)(3), substituted “Under Secretary, Administrator,” for “Administrator”.
 
-    Subsec. (h)(2). [Pub. L. 107–71, § 140(d)(4)][/us/pl/107/71/s140/d/4], inserted “the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or” after “(or”.
+    Subsec. (h)(2). [Pub. L. 107–71][/us/pl/107/71], § 140(d)(4), inserted “the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or” after “(or”.
 
     2000—Subsec. (a)(1)(A). [Pub. L. 106–181][/us/pl/106/181], §§ 519(c), 720(1), substituted “subchapter II or III of chapter 421” for “subchapter II of chapter 421” and struck out “46302, 46303, or” before “47107(b) (including”.
 
-    Subsec. (a)(3)(C). [Pub. L. 106–181, § 503(c)][/us/pl/106/181/s503/c], added subpar. (C).
+    Subsec. (a)(3)(C). [Pub. L. 106–181][/us/pl/106/181], § 503(c), added subpar. (C).
 
     Subsec. (a)(3)(D), (E). [Pub. L. 106–181][/us/pl/106/181], §§ 504(b), 707(b), added subpars. (D) and (E).
 
-    Subsec. (a)(6). [Pub. L. 106–181, § 222(b)][/us/pl/106/181/s222/b], inserted heading and realigned margins.
+    Subsec. (a)(6). [Pub. L. 106–181][/us/pl/106/181], § 222(b), inserted heading and realigned margins.
 
-    Subsec. (a)(7). [Pub. L. 106–181, § 222(a)][/us/pl/106/181/s222/a], added par. (7).
+    Subsec. (a)(7). [Pub. L. 106–181][/us/pl/106/181], § 222(a), added par. (7).
 
     Subsec. (d)(2). [Pub. L. 106–424][/us/pl/106/424] substituted “46301(b), 46302, 46303, 46318,” for “46302, 46303,”.
 
-    Subsec. (d)(7)(A). [Pub. L. 106–181, § 720(2)][/us/pl/106/181/s720/2], substituted “a penalty on a person” for “a penalty on an individual”.
+    Subsec. (d)(7)(A). [Pub. L. 106–181][/us/pl/106/181], § 720(2), substituted “a penalty on a person” for “a penalty on an individual”.
 
-    Subsec. (g). [Pub. L. 106–181, § 720(3)][/us/pl/106/181/s720/3], inserted “or the Administrator” after “Secretary”.
+    Subsec. (g). [Pub. L. 106–181][/us/pl/106/181], § 720(3), inserted “or the Administrator” after “Secretary”.
 
     1997—Subsecs. (a)(1)(A), (2)(A), (d)(2), (f)(1)(A)(i). [Pub. L. 105–102][/us/pl/105/102] repealed [Pub. L. 104–264][/us/pl/104/264], §§ 502(c), 1220(b). See 1996 Amendment notes below.
 
-    1996—Subsec. (a)(1)(A). [Pub. L. 104–287, § 5(77)(A)(iii)][/us/pl/104/287/s5/77/A/iii], (iv), inserted “or” after “46303,” and struck out “, or 41715” after “under such section)”.
+    1996—Subsec. (a)(1)(A). [Pub. L. 104–287][/us/pl/104/287], § 5(77)(A)(iii), (iv), inserted “or” after “46303,” and struck out “, or 41715” after “under such section)”.
 
-    [Pub. L. 104–287, § 5(77)(A)(ii)][/us/pl/104/287/s5/77/A/ii], substituted “section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723), chapter 449 (except sections 44902, 44903(d), 44904, 44907(a)–(d)(1)(A) and (d)(1)(C)–(f), and 44908), or section” for “or any of sections 44701(a) or (b), 44702–44716, 44901, 44903(b) or (c), 44905, 44906, 44907(d)(1)(B), 44909(a), 44912–44915, 44932–44938,”.
+    [Pub. L. 104–287][/us/pl/104/287], § 5(77)(A)(ii), substituted “section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723), chapter 449 (except sections 44902, 44903(d), 44904, 44907(a)–(d)(1)(A) and (d)(1)(C)–(f), and 44908), or section” for “or any of sections 44701(a) or (b), 44702–44716, 44901, 44903(b) or (c), 44905, 44906, 44907(d)(1)(B), 44909(a), 44912–44915, 44932–44938,”.
 
-    [Pub. L. 104–287, § 5(77)(A)(i)][/us/pl/104/287/s5/77/A/i], substituted “chapter 413 (except sections 41307 and 41310(b)–(f)), chapter 415 (except sections 41502, 41505, and 41507–41509), chapter 417 (except sections 41703, 41704, 41710, 41713, and 41714),” for “any of sections 41301–41306, 41308–41310(a), 41501, 41503, 41504, 41506, 41510, 41511, 41701, 41702, 41705–41709, 41711, 41712, or 41731–41742,”.
+    [Pub. L. 104–287][/us/pl/104/287], § 5(77)(A)(i), substituted “chapter 413 (except sections 41307 and 41310(b)–(f)), chapter 415 (except sections 41502, 41505, and 41507–41509), chapter 417 (except sections 41703, 41704, 41710, 41713, and 41714),” for “any of sections 41301–41306, 41308–41310(a), 41501, 41503, 41504, 41506, 41510, 41511, 41701, 41702, 41705–41709, 41711, 41712, or 41731–41742,”.
 
-    [Pub. L. 104–264, § 1220(b)][/us/pl/104/264/s1220/b], which directed amendment of subpar. (A) by inserting “44718(d),” after “44716,”, was repealed by [Pub. L. 105–102][/us/pl/105/102].
+    [Pub. L. 104–264][/us/pl/104/264], § 1220(b), which directed amendment of subpar. (A) by inserting “44718(d),” after “44716,”, was repealed by [Pub. L. 105–102][/us/pl/105/102].
 
-    [Pub. L. 104–264, § 502(c)(1)][/us/pl/104/264/s502/c/1], which directed amendment of subpar. (A) by inserting “44724,” after “44718(d),”, was repealed by [Pub. L. 105–102][/us/pl/105/102].
+    [Pub. L. 104–264][/us/pl/104/264], § 502(c)(1), which directed amendment of subpar. (A) by inserting “44724,” after “44718(d),”, was repealed by [Pub. L. 105–102][/us/pl/105/102].
 
-    Subsec. (a)(2)(A). [Pub. L. 104–287, § 5(77)(B)][/us/pl/104/287/s5/77/B], substituted “, section 44502(b) or (c), chapter 447 (except sections 44717–44723), or chapter 449 (except sections 44902, 44903(d), 44904, and 44907–44909)” for “or any of sections 44701(a) or (b), 44702–44716, 44901, 44903(b) or (c), 44905, 44906, 44912–44915, or 44932–44938”.
+    Subsec. (a)(2)(A). [Pub. L. 104–287][/us/pl/104/287], § 5(77)(B), substituted “, section 44502(b) or (c), chapter 447 (except sections 44717–44723), or chapter 449 (except sections 44902, 44903(d), 44904, and 44907–44909)” for “or any of sections 44701(a) or (b), 44702–44716, 44901, 44903(b) or (c), 44905, 44906, 44912–44915, or 44932–44938”.
 
-    [Pub. L. 104–264, § 502(c)(2)][/us/pl/104/264/s502/c/2], which directed amendment of subpar. (A) by inserting “44724,” after “44716,”, was repealed by [Pub. L. 105–102][/us/pl/105/102].
+    [Pub. L. 104–264][/us/pl/104/264], § 502(c)(2), which directed amendment of subpar. (A) by inserting “44724,” after “44716,”, was repealed by [Pub. L. 105–102][/us/pl/105/102].
 
-    Subsec. (a)(3). [Pub. L. 104–287, § 5(77)(C)][/us/pl/104/287/s5/77/C], realigned margins of subpars. (A) and (B).
+    Subsec. (a)(3). [Pub. L. 104–287][/us/pl/104/287], § 5(77)(C), realigned margins of subpars. (A) and (B).
 
-    Subsec. (a)(5). [Pub. L. 104–264, § 804(b)][/us/pl/104/264/s804/b], amended par. (5) generally. Prior to amendment, par. (5) read as follows: “In the case of a violation of [section 47107(b) of this title][/us/usc/t49/s47107/b], the maximum civil penalty for a continuing violation shall not exceed $50,000.”
+    Subsec. (a)(5). [Pub. L. 104–264][/us/pl/104/264], § 804(b), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “In the case of a violation of [section 47107(b) of this title][/us/usc/t49/s47107/b], the maximum civil penalty for a continuing violation shall not exceed $50,000.”
 
-    Subsec. (c)(1)(A). [Pub. L. 104–287, § 5(77)(D)(ii)][/us/pl/104/287/s5/77/D/ii], (iii), struck out “or” before “subchapter II” and inserted “, or section 44909” before “of this title”.
+    Subsec. (c)(1)(A). [Pub. L. 104–287][/us/pl/104/287], § 5(77)(D)(ii), (iii), struck out “or” before “subchapter II” and inserted “, or section 44909” before “of this title”.
 
-    [Pub. L. 104–287, § 5(77)(D)(i)][/us/pl/104/287/s5/77/D/i], substituted “chapter 413 (except sections 41307 and 41310(b)–(f)), chapter 415 (except sections 41502, 41505, and 41507–41509), chapter 417 (except sections 41703, 41704, 41710, 41713, and 41714),” for “any of sections 41301–41306, 41308–41310(a), 41501, 41503, 41504, 41506, 41510, 41511, 41701, 41702, 41705–41709, 41711, 41712, or 41731–41742,”.
+    [Pub. L. 104–287][/us/pl/104/287], § 5(77)(D)(i), substituted “chapter 413 (except sections 41307 and 41310(b)–(f)), chapter 415 (except sections 41502, 41505, and 41507–41509), chapter 417 (except sections 41703, 41704, 41710, 41713, and 41714),” for “any of sections 41301–41306, 41308–41310(a), 41501, 41503, 41504, 41506, 41510, 41511, 41701, 41702, 41705–41709, 41711, 41712, or 41731–41742,”.
 
-    Subsec. (d)(2). [Pub. L. 104–287, § 5(77)(E)][/us/pl/104/287/s5/77/E], substituted “section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723), chapter 449 (except sections 44902, 44903(d), 44904, 44907(a)–(d)(1)(A) and (d)(1)(C)–(f), 44908, and 44909), or section” for “or any of sections 44701(a) or (b), 44702–44716, 44901, 44903(b) or (c), 44905, 44906, 44907(d)(1)(B), 44912–44915, 44932–44938,”.
+    Subsec. (d)(2). [Pub. L. 104–287][/us/pl/104/287], § 5(77)(E), substituted “section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723), chapter 449 (except sections 44902, 44903(d), 44904, 44907(a)–(d)(1)(A) and (d)(1)(C)–(f), 44908, and 44909), or section” for “or any of sections 44701(a) or (b), 44702–44716, 44901, 44903(b) or (c), 44905, 44906, 44907(d)(1)(B), 44912–44915, 44932–44938,”.
 
-    [Pub. L. 104–264, § 1220(b)][/us/pl/104/264/s1220/b], which directed amendment of par. (2) by inserting “44718(d),” after “44716,”, was repealed by [Pub. L. 105–102][/us/pl/105/102].
+    [Pub. L. 104–264][/us/pl/104/264], § 1220(b), which directed amendment of par. (2) by inserting “44718(d),” after “44716,”, was repealed by [Pub. L. 105–102][/us/pl/105/102].
 
-    [Pub. L. 104–264, § 502(c)(1)][/us/pl/104/264/s502/c/1], which directed amendment of par. (2) by inserting “44724,” after “44718(d),”, was repealed by [Pub. L. 105–102][/us/pl/105/102].
+    [Pub. L. 104–264][/us/pl/104/264], § 502(c)(1), which directed amendment of par. (2) by inserting “44724,” after “44718(d),”, was repealed by [Pub. L. 105–102][/us/pl/105/102].
 
-    Subsec. (f)(1)(A)(i). [Pub. L. 104–287, § 5(77)(F)][/us/pl/104/287/s5/77/F], substituted “section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723), or chapter 449 (except sections 44902, 44903(d), 44904, 44907(a)–(d)(1)(A) and (d)(1)(C)–(f), 44908, and 44909)” for “or any of sections 44701(a) or (b), 44702–44716, 44901, 44903(b) or (c), 44905, 44906, 44907(d)(1)(B), 44912–44915, or 44932–44938”.
+    Subsec. (f)(1)(A)(i). [Pub. L. 104–287][/us/pl/104/287], § 5(77)(F), substituted “section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723), or chapter 449 (except sections 44902, 44903(d), 44904, 44907(a)–(d)(1)(A) and (d)(1)(C)–(f), 44908, and 44909)” for “or any of sections 44701(a) or (b), 44702–44716, 44901, 44903(b) or (c), 44905, 44906, 44907(d)(1)(B), 44912–44915, or 44932–44938”.
 
-    [Pub. L. 104–264, § 1220(b)][/us/pl/104/264/s1220/b], which directed amendment of cl. (i) by inserting “44718(d),” after “44716,”, was repealed by [Pub. L. 105–102][/us/pl/105/102].
+    [Pub. L. 104–264][/us/pl/104/264], § 1220(b), which directed amendment of cl. (i) by inserting “44718(d),” after “44716,”, was repealed by [Pub. L. 105–102][/us/pl/105/102].
 
-    [Pub. L. 104–264, § 502(c)(1)][/us/pl/104/264/s502/c/1], which directed amendment of cl. (i) by inserting “44724,” after “44718(d),”, was repealed by [Pub. L. 105–102][/us/pl/105/102].
+    [Pub. L. 104–264][/us/pl/104/264], § 502(c)(1), which directed amendment of cl. (i) by inserting “44724,” after “44718(d),”, was repealed by [Pub. L. 105–102][/us/pl/105/102].
 
-    1994—Subsec. (a)(1)(A). [Pub. L. 103–429, § 6(60)(A)][/us/pl/103/429/s6/60/A], substituted “any of sections 41301–41306” for “section 41301–41306” and “any of sections 44701(a)” for “section 44701(a)”.
+    1994—Subsec. (a)(1)(A). [Pub. L. 103–429][/us/pl/103/429], § 6(60)(A), substituted “any of sections 41301–41306” for “section 41301–41306” and “any of sections 44701(a)” for “section 44701(a)”.
 
-    [Pub. L. 103–305, § 207(c)(1)][/us/pl/103/305/s207/c/1], inserted “, or 41715” before “of this title”.
+    [Pub. L. 103–305][/us/pl/103/305], § 207(c)(1), inserted “, or 41715” before “of this title”.
 
-    [Pub. L. 103–305, § 112(c)(1)(A)][/us/pl/103/305/s112/c/1/A], substituted “46303, 47107(b) (including any assurance made under such section)” for “or 46303”.
+    [Pub. L. 103–305][/us/pl/103/305], § 112(c)(1)(A), substituted “46303, 47107(b) (including any assurance made under such section)” for “or 46303”.
 
-    Subsec. (a)(2)(A). [Pub. L. 103–429, § 6(60)(B)][/us/pl/103/429/s6/60/B], substituted “any of sections 44701(a)” for “section 44701(a)”.
+    Subsec. (a)(2)(A). [Pub. L. 103–429][/us/pl/103/429], § 6(60)(B), substituted “any of sections 44701(a)” for “section 44701(a)”.
 
-    Subsec. (a)(4). [Pub. L. 103–305, § 207(c)(2)][/us/pl/103/305/s207/c/2], inserted “(other than a violation of section 41715)” after “the violation” in two places.
+    Subsec. (a)(4). [Pub. L. 103–305][/us/pl/103/305], § 207(c)(2), inserted “(other than a violation of section 41715)” after “the violation” in two places.
 
-    Subsec. (a)(5). [Pub. L. 103–305, § 112(c)(1)(B)][/us/pl/103/305/s112/c/1/B], added par. (5).
+    Subsec. (a)(5). [Pub. L. 103–305][/us/pl/103/305], § 112(c)(1)(B), added par. (5).
 
-    Subsec. (a)(6). [Pub. L. 103–305, § 207(c)(3)][/us/pl/103/305/s207/c/3], added par. (6).
+    Subsec. (a)(6). [Pub. L. 103–305][/us/pl/103/305], § 207(c)(3), added par. (6).
 
-    Subsec. (c)(1)(A). [Pub. L. 103–429, § 6(60)(C)][/us/pl/103/429/s6/60/C], substituted “any of sections 41301–41306” for “section 41301–41306”.
+    Subsec. (c)(1)(A). [Pub. L. 103–429][/us/pl/103/429], § 6(60)(C), substituted “any of sections 41301–41306” for “section 41301–41306”.
 
-    Subsec. (d)(2). [Pub. L. 103–429, § 6(60)(B)][/us/pl/103/429/s6/60/B], substituted “any of sections 44701(a)” for “section 44701(a)”.
+    Subsec. (d)(2). [Pub. L. 103–429][/us/pl/103/429], § 6(60)(B), substituted “any of sections 44701(a)” for “section 44701(a)”.
 
-    [Pub. L. 103–305, § 112(c)(2)][/us/pl/103/305/s112/c/2], substituted “46303, or 47107(b) (as further defined by the Secretary under section 47107(l) and including any assurance made under section 47107(b))” for “or 46303”.
+    [Pub. L. 103–305][/us/pl/103/305], § 112(c)(2), substituted “46303, or 47107(b) (as further defined by the Secretary under section 47107(l) and including any assurance made under section 47107(b))” for “or 46303”.
 
-    Subsec. (d)(7)(D). [Pub. L. 103–305, § 112(c)(3)][/us/pl/103/305/s112/c/3], added subpar. (D).
+    Subsec. (d)(7)(D). [Pub. L. 103–305][/us/pl/103/305], § 112(c)(3), added subpar. (D).
 
-    Subsec. (f)(1)(A)(i). [Pub. L. 103–429, § 6(60)(B)][/us/pl/103/429/s6/60/B], substituted “any of sections 44701(a)” for “section 44701(a)”.
+    Subsec. (f)(1)(A)(i). [Pub. L. 103–429][/us/pl/103/429], § 6(60)(B), substituted “any of sections 44701(a)” for “section 44701(a)”.
 
  __Effective Date of 2003 Amendment__ 
 
@@ -857,7 +857,7 @@ In subsection (h)(2), the words “with respect thereto” are omitted as surplu
 
  __Effective Date of 1997 Amendment__ 
 
-    [Pub. L. 105–102, § 3(c)][/us/pl/105/102/s3/c], Nov. 20, 1997, [111 Stat. 2215][/us/stat/111/2215], provided that the amendment made by section 3(c)(4) is effective Oct. 9, 1996.
+    [Pub. L. 105–102][/us/pl/105/102], § 3(c), Nov. 20, 1997, [111 Stat. 2215][/us/stat/111/2215], provided that the amendment made by section 3(c)(4) is effective Oct. 9, 1996.
 
     Amendment by [Pub. L. 105–102][/us/pl/105/102] effective as if included in the provisions of the Act to which the amendment relates, see [section 3(f) of Pub. L. 105–102][/us/pl/105/102/s3/f], set out as a note under [section 106 of this title][/us/usc/t49/s106].
 
@@ -877,7 +877,7 @@ In subsection (h)(2), the words “with respect thereto” are omitted as surplu
 
  __Savings Provision__ 
 
-[Pub. L. 102–345, § 2(c)][/us/pl/102/345/s2/c], Aug. 26, 1992, [106 Stat. 925][/us/stat/106/925], provided that: 
+[Pub. L. 102–345][/us/pl/102/345], § 2(c), Aug. 26, 1992, [106 Stat. 925][/us/stat/106/925], provided that: 
 
 > “Notwithstanding subsections (a) and (b) of this section, sections 901(a)(3) and 905 of the Federal Aviation Act of 1958 \[[Pub. L. 85–726][/us/pl/85/726]\] as in effect on July 31, 1992, shall continue in effect on and after such date of enactment with respect to violations of the Federal Aviation Act of 1958 occurring before such date of enactment.”
 
@@ -903,39 +903,39 @@ In subsection (h)(2), the words “with respect thereto” are omitted as surplu
 [/us/usc/t49/s46110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs46110
 [/us/usc/t49/s46110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs46110
 [/us/usc/t15/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1231
-[/us/pl/103/305/s112/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2Fs112%2Fc
+[/us/pl/103/305/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2FtI
 [/us/stat/108/1575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1575
-[/us/pl/103/429/s6/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F60
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/stat/108/4385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4385
-[/us/pl/104/264/s502/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs502%2Fc
+[/us/pl/104/264/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2FtV
 [/us/stat/110/3263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3263
-[/us/pl/104/287/s5/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F77
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3396
-[/us/pl/105/102/s3/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102%2Fs3%2Fc%2F4
+[/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/stat/111/2215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2215
-[/us/pl/106/181/s222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs222
+[/us/pl/106/181/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtII
 [/us/stat/114/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F102
-[/us/pl/106/424/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F424%2Fs15
+[/us/pl/106/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F424
 [/us/stat/114/1888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1888
-[/us/pl/107/71/s140/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs140%2Fd%2F1
+[/us/pl/107/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2FtI
 [/us/stat/115/642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F642
-[/us/pl/107/296/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1602
+[/us/pl/107/296/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVI
 [/us/stat/116/2312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2312
-[/us/pl/108/176/s503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs503%2Fa
+[/us/pl/108/176/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtV
 [/us/stat/117/2557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2557
-[/us/pl/108/458/s4027/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs4027%2Fa
+[/us/pl/108/458/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtIV
 [/us/stat/118/3727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3727
-[/us/pl/110/53/s1302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1302%2Fb
+[/us/pl/110/53/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXIII
 [/us/stat/121/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F392
-[/us/pl/110/161/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs542
+[/us/pl/110/161/dE/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdE%2FtV
 [/us/stat/121/2079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2079
-[/us/pl/112/74/s564/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs564%2Fa
+[/us/pl/112/74/dD/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdD%2FtV
 [/us/stat/125/981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F981
-[/us/pl/112/95/s415/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs415%2Fb
+[/us/pl/112/95/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtIV
 [/us/stat/126/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F96
-[/us/pl/113/188/s1501/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs1501%2Fb%2F2%2FB
+[/us/pl/113/188/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2FtXV
 [/us/stat/128/2024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2024
 [/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F773
@@ -944,14 +944,14 @@ In subsection (h)(2), the words “with respect thereto” are omitted as surplu
 [/us/pl/85/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F726
 [/us/stat/72/783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F783
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
-[/us/pl/104/287/s5/77/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F77%2FA
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/act/1994-07-05/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1994-07-05%2Fs1
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1231
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F745
-[/us/pl/104/287/s5/77/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F77%2FC
-[/us/pl/104/287/s5/77/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F77%2FD
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/act/1994-07-05/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1994-07-05%2Fs1
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1231
@@ -960,90 +960,90 @@ In subsection (h)(2), the words “with respect thereto” are omitted as surplu
 [/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
 [/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
 [/us/pl/113/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188
-[/us/pl/112/95/s803/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs803%2F1
-[/us/pl/112/95/s415/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs415%2Fb
-[/us/pl/112/95/s803/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs803%2F2%2FB
-[/us/pl/112/95/s803/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs803%2F2%2FA
-[/us/pl/112/74/s564/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs564%2Fa
-[/us/pl/112/95/s415/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs415%2Fb
-[/us/pl/112/95/s803/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs803%2F3
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
 [/us/usc/t49/s46303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs46303
-[/us/pl/112/95/s803/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs803%2F4
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
 [/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
 [/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
 [/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
-[/us/pl/108/458/s4027/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs4027%2Fa%2F1
-[/us/pl/108/458/s4027/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs4027%2Fa%2F3
-[/us/pl/108/458/s4027/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs4027%2Fa%2F3
-[/us/pl/108/458/s4027/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs4027%2Fa%2F4
-[/us/pl/108/176/s503/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs503%2Fa%2F1
-[/us/pl/108/176/s503/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs503%2Fa%2F2
-[/us/pl/108/176/s503/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs503%2Fa%2F5
-[/us/pl/108/176/s503/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs503%2Fa%2F4
-[/us/pl/108/176/s503/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs503%2Fa%2F4
-[/us/pl/108/176/s503/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs503%2Fa%2F6
-[/us/pl/108/176/s503/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs503%2Fa%2F4
-[/us/pl/108/176/s503/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs503%2Fa%2F7
-[/us/pl/108/176/s503/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs503%2Fa%2F4
-[/us/pl/108/176/s503/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs503%2Fa%2F4
-[/us/pl/108/176/s503/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs503%2Fa%2F4
-[/us/pl/108/176/s503/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs503%2Fb%2F1
-[/us/pl/108/176/s503/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs503%2Fb%2F2
-[/us/pl/108/176/s503/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs503%2Fc
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
-[/us/pl/107/71/s140/d/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs140%2Fd%2F1%2FC
-[/us/pl/107/71/s140/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs140%2Fd%2F1%2FB
-[/us/pl/107/71/s140/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs140%2Fd%2F1%2FA
-[/us/pl/107/71/s140/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs140%2Fd%2F2
-[/us/pl/107/71/s140/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs140%2Fd%2F3
-[/us/pl/107/71/s140/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs140%2Fd%2F4
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
 [/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
-[/us/pl/106/181/s503/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs503%2Fc
 [/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
-[/us/pl/106/181/s222/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs222%2Fb
-[/us/pl/106/181/s222/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs222%2Fa
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/pl/106/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F424
-[/us/pl/106/181/s720/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs720%2F2
-[/us/pl/106/181/s720/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs720%2F3
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
-[/us/pl/104/287/s5/77/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F77%2FA%2Fiii
-[/us/pl/104/287/s5/77/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F77%2FA%2Fii
-[/us/pl/104/287/s5/77/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F77%2FA%2Fi
-[/us/pl/104/264/s1220/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs1220%2Fb
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
+[/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
 [/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
-[/us/pl/104/264/s502/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs502%2Fc%2F1
+[/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
 [/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
-[/us/pl/104/287/s5/77/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F77%2FB
-[/us/pl/104/264/s502/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs502%2Fc%2F2
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
+[/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
 [/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
-[/us/pl/104/287/s5/77/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F77%2FC
-[/us/pl/104/264/s804/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs804%2Fb
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
+[/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
 [/us/usc/t49/s47107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs47107%2Fb
-[/us/pl/104/287/s5/77/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F77%2FD%2Fii
-[/us/pl/104/287/s5/77/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F77%2FD%2Fi
-[/us/pl/104/287/s5/77/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F77%2FE
-[/us/pl/104/264/s1220/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs1220%2Fb
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
+[/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
 [/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
-[/us/pl/104/264/s502/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs502%2Fc%2F1
+[/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
 [/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
-[/us/pl/104/287/s5/77/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F77%2FF
-[/us/pl/104/264/s1220/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs1220%2Fb
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
+[/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
 [/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
-[/us/pl/104/264/s502/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs502%2Fc%2F1
+[/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
 [/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
-[/us/pl/103/429/s6/60/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F60%2FA
-[/us/pl/103/305/s207/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2Fs207%2Fc%2F1
-[/us/pl/103/305/s112/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2Fs112%2Fc%2F1%2FA
-[/us/pl/103/429/s6/60/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F60%2FB
-[/us/pl/103/305/s207/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2Fs207%2Fc%2F2
-[/us/pl/103/305/s112/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2Fs112%2Fc%2F1%2FB
-[/us/pl/103/305/s207/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2Fs207%2Fc%2F3
-[/us/pl/103/429/s6/60/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F60%2FC
-[/us/pl/103/429/s6/60/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F60%2FB
-[/us/pl/103/305/s112/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2Fs112%2Fc%2F2
-[/us/pl/103/305/s112/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2Fs112%2Fc%2F3
-[/us/pl/103/429/s6/60/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F60%2FB
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
+[/us/pl/103/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305
+[/us/pl/103/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
+[/us/pl/103/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305
+[/us/pl/103/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305
+[/us/pl/103/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
+[/us/pl/103/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305
+[/us/pl/103/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
 [/us/pl/108/176/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106
@@ -1053,7 +1053,7 @@ In subsection (h)(2), the words “with respect thereto” are omitted as surplu
 [/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/pl/106/181/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106
-[/us/pl/105/102/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102%2Fs3%2Fc
+[/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/stat/111/2215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2215
 [/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/pl/105/102/s3/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102%2Fs3%2Ff
@@ -1073,7 +1073,7 @@ In subsection (h)(2), the words “with respect thereto” are omitted as surplu
 [/us/pl/103/305/s207/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2Fs207%2Fc
 [/us/pl/103/305/s207/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2Fs207%2Fd
 [/us/usc/t49/s41719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs41719
-[/us/pl/102/345/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F345%2Fs2%2Fc
+[/us/pl/102/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F345
 [/us/stat/106/925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F925
 [/us/pl/85/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F726
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542

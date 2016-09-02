@@ -27,7 +27,7 @@
 
     For purposes of subsection (a), knowledge by the person of the existence of a regulation or requirement related to the transportation of hazardous material prescribed by the Secretary under this part or chapter 51 is not an element of an offense under this section but shall be considered in mitigation of the penalty.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1239][/us/stat/108/1239]; [Pub. L. 106–181, title V, § 507][/us/pl/106/181/s507], Apr. 5, 2000, [114 Stat. 140][/us/stat/114/140]; [Pub. L. 109–59, title VII, § 7128(a)][/us/pl/109/59/s7128/a], Aug. 10, 2005, [119 Stat. 1909][/us/stat/119/1909].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1239][/us/stat/108/1239]; [Pub. L. 106–181, title V][/us/pl/106/181/tV], § 507, Apr. 5, 2000, [114 Stat. 140][/us/stat/114/140]; [Pub. L. 109–59, title VII][/us/pl/109/59/tVII], § 7128(a), Aug. 10, 2005, [119 Stat. 1909][/us/stat/119/1909].)
 
 <table>
 
@@ -79,9 +79,9 @@ Aug. 23, 1958, Pub. L. 85–726, § 902(h)(2), 72 Stat. 785; restated Jan. 3, 
 
  __Amendments__ 
 
-    2005—Subsec. (a). [Pub. L. 109–59, § 7128(a)(1)][/us/pl/109/59/s7128/a/1], substituted “this part or chapter 51—” for “this part—” in introductory provisions.
+    2005—Subsec. (a). [Pub. L. 109–59][/us/pl/109/59], § 7128(a)(1), substituted “this part or chapter 51—” for “this part—” in introductory provisions.
 
-    Subsec. (b). [Pub. L. 109–59, § 7128(a)(2)][/us/pl/109/59/s7128/a/2], inserted “or chapter 51” after “under this part”.
+    Subsec. (b). [Pub. L. 109–59][/us/pl/109/59], § 7128(a)(2), inserted “or chapter 51” after “under this part”.
 
     2000—[Pub. L. 106–181][/us/pl/106/181] designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
@@ -96,14 +96,14 @@ Aug. 23, 1958, Pub. L. 85–726, § 902(h)(2), 72 Stat. 785; restated Jan. 3, 
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1239
-[/us/pl/106/181/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs507
+[/us/pl/106/181/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtV
 [/us/stat/114/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F140
-[/us/pl/109/59/s7128/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7128%2Fa
+[/us/pl/109/59/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtVII
 [/us/stat/119/1909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1909
-[/us/pl/109/59/s7128/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7128%2Fa%2F1
-[/us/pl/109/59/s7128/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7128%2Fa%2F2
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/pl/106/181/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs3

@@ -77,7 +77,7 @@
 
     Not later than 1 year after the date of enactment of the Federal Public Transportation Act of 2012, the Secretary shall issue a final rule to implement the transit asset management system described in subsection (b).
 
-(Added [Pub. L. 112–141, div. B, § 20019][/us/pl/112/141/s20019], July 6, 2012, [126 Stat. 707][/us/stat/126/707].)
+(Added [Pub. L. 112–141, div. B][/us/pl/112/141/dB], § 20019, July 6, 2012, [126 Stat. 707][/us/stat/126/707].)
 
  __References in Text__ 
 
@@ -85,11 +85,11 @@
 
  __Codification__ 
 
-    [Pub. L. 112–141, div. B, § 20019][/us/pl/112/141/s20019], July 6, 2012, [126 Stat. 707][/us/stat/126/707], which directed that [section 5326 of this title][/us/usc/t49/s5326] be amended generally, was executed by adding a new section 5326 to reflect the probable intent of Congress. A prior section 5326 was repealed by [Pub. L. 109–59, title III, § 3025(b)][/us/pl/109/59/s3025/b], Aug. 10, 2005, [119 Stat. 1622][/us/stat/119/1622].
+    [Pub. L. 112–141, div. B][/us/pl/112/141/dB], § 20019, July 6, 2012, [126 Stat. 707][/us/stat/126/707], which directed that [section 5326 of this title][/us/usc/t49/s5326] be amended generally, was executed by adding a new section 5326 to reflect the probable intent of Congress. A prior section 5326 was repealed by [Pub. L. 109–59, title III][/us/pl/109/59/tIII], § 3025(b), Aug. 10, 2005, [119 Stat. 1622][/us/stat/119/1622].
 
  __Prior Provisions__ 
 
-    A prior section 5326, [Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 826][/us/stat/108/826]; [Pub. L. 103–429, § 6(11)][/us/pl/103/429/s6/11], Oct. 31, 1994, [108 Stat. 4379][/us/stat/108/4379]; [Pub. L. 105–178, title III, § 3023(a)][/us/pl/105/178/s3023/a], (b), June 9, 1998, [112 Stat. 364][/us/stat/112/364], related to turnkey system projects, acquisition of rolling stock, and procurement of associated capital maintenance items, prior to repeal by [Pub. L. 109–59, title III, § 3025(b)][/us/pl/109/59/s3025/b], Aug. 10, 2005, [119 Stat. 1622][/us/stat/119/1622].
+    A prior section 5326, [Pub. L. 103–272][/us/pl/103/272], § 1(d), July 5, 1994, [108 Stat. 826][/us/stat/108/826]; [Pub. L. 103–429][/us/pl/103/429], § 6(11), Oct. 31, 1994, [108 Stat. 4379][/us/stat/108/4379]; [Pub. L. 105–178, title III][/us/pl/105/178/tIII], § 3023(a), (b), June 9, 1998, [112 Stat. 364][/us/stat/112/364], related to turnkey system projects, acquisition of rolling stock, and procurement of associated capital maintenance items, prior to repeal by [Pub. L. 109–59, title III][/us/pl/109/59/tIII], § 3025(b), Aug. 10, 2005, [119 Stat. 1622][/us/stat/119/1622].
 
  __Effective Date__ 
 
@@ -102,22 +102,22 @@
 ----------
 ----------
 
-[/us/pl/112/141/s20019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs20019
+[/us/pl/112/141/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdB
 [/us/stat/126/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F707
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
-[/us/pl/112/141/s20019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs20019
+[/us/pl/112/141/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdB
 [/us/stat/126/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F707
 [/us/usc/t49/s5326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5326
-[/us/pl/109/59/s3025/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3025%2Fb
+[/us/pl/109/59/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIII
 [/us/stat/119/1622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1622
-[/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F826
-[/us/pl/103/429/s6/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F11
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/stat/108/4379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4379
-[/us/pl/105/178/s3023/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs3023%2Fa
+[/us/pl/105/178/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtIII
 [/us/stat/112/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F364
-[/us/pl/109/59/s3025/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3025%2Fb
+[/us/pl/109/59/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIII
 [/us/stat/119/1622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1622
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101

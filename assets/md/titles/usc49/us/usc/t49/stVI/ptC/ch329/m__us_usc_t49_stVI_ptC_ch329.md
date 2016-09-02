@@ -179,7 +179,7 @@
 
  __Amendments__ 
 
-    1994—[Pub. L. 103–429, § 6(43)(C)][/us/pl/103/429/s6/43/C], Oct. 31, 1994, [108 Stat. 4383][/us/stat/108/4383], added items 32918 and 32919 and struck out former item 32918 “Preemption”.
+    1994—[Pub. L. 103–429][/us/pl/103/429], § 6(43)(C), Oct. 31, 1994, [108 Stat. 4383][/us/stat/108/4383], added items 32918 and 32919 and struck out former item 32918 “Preemption”.
 
 ----------
 
@@ -188,7 +188,7 @@
 ----------
 ----------
 
-[/us/pl/103/429/s6/43/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F43%2FC
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/stat/108/4383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4383
 
 

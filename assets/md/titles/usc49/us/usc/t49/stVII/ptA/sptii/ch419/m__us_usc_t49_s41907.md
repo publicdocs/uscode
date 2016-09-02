@@ -17,7 +17,7 @@
 
     The United States Postal Service may weigh mail transported by aircraft between places in Alaska and make statistical and –administrative  <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  computations necessary in the interest of mail service. When the Secretary of Transportation decides that additional or more frequent weighings of mail are advisable or necessary to carry out this part, the Postal Service shall provide the weighings, but it is not required to provide them for continuous periods of more than 30 days.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1157][/us/stat/108/1157], § 41910; renumbered § 41907 and amended [Pub. L. 110–405, § 2(b)(6)][/us/pl/110/405/s2/b/6], (7)(B), Oct. 13, 2008, [122 Stat. 4289][/us/stat/122/4289].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1157][/us/stat/108/1157], § 41910; renumbered § 41907 and amended [Pub. L. 110–405][/us/pl/110/405], § 2(b)(6), (7)(B), Oct. 13, 2008, [122 Stat. 4289][/us/stat/122/4289].)
 
 <table>
 
@@ -85,13 +85,13 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 1601(b)(1)(E); added Oct. 4,
 
  __Prior Provisions__ 
 
-    A prior section 41907, [Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1155][/us/stat/108/1155], related to prices for foreign transportation of mail, prior to repeal by [Pub. L. 110–405, § 2(b)(7)(A)][/us/pl/110/405/s2/b/7/A], (c), Oct. 13, 2008, [122 Stat. 4289][/us/stat/122/4289], 4290, effective Oct. 1, 2008.
+    A prior section 41907, [Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1155][/us/stat/108/1155], related to prices for foreign transportation of mail, prior to repeal by [Pub. L. 110–405][/us/pl/110/405], § 2(b)(7)(A), (c), Oct. 13, 2008, [122 Stat. 4289][/us/stat/122/4289], 4290, effective Oct. 1, 2008.
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–405, § 2(b)(7)(B)][/us/pl/110/405/s2/b/7/B], renumbered [section 41910 of this title][/us/usc/t49/s41910] as this section.
+    2008—[Pub. L. 110–405][/us/pl/110/405], § 2(b)(7)(B), renumbered [section 41910 of this title][/us/usc/t49/s41910] as this section.
 
-    [Pub. L. 110–405, § 2(b)(6)][/us/pl/110/405/s2/b/6], substituted “The United States Postal Service may weigh mail transported by aircraft between places in Alaska and make statistical and –administrative computations necessary in the interest of mail service.” for “The United States Postal Service may weigh mail transported by aircraft and make statistical and administrative computations necessary in the interest of mail service.”
+    [Pub. L. 110–405][/us/pl/110/405], § 2(b)(6), substituted “The United States Postal Service may weigh mail transported by aircraft between places in Alaska and make statistical and –administrative computations necessary in the interest of mail service.” for “The United States Postal Service may weigh mail transported by aircraft and make statistical and administrative computations necessary in the interest of mail service.”
 
  __Effective Date of 2008 Amendment__ 
 
@@ -104,17 +104,17 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 1601(b)(1)(E); added Oct. 4,
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1157
-[/us/pl/110/405/s2/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F405%2Fs2%2Fb%2F6
+[/us/pl/110/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F405
 [/us/stat/122/4289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4289
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1155
-[/us/pl/110/405/s2/b/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F405%2Fs2%2Fb%2F7%2FA
+[/us/pl/110/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F405
 [/us/stat/122/4289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4289
-[/us/pl/110/405/s2/b/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F405%2Fs2%2Fb%2F7%2FB
+[/us/pl/110/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F405
 [/us/usc/t49/s41910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs41910
-[/us/pl/110/405/s2/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F405%2Fs2%2Fb%2F6
+[/us/pl/110/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F405
 [/us/pl/110/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F405
 [/us/pl/110/405/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F405%2Fs2%2Fc
 [/us/usc/t39/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs101

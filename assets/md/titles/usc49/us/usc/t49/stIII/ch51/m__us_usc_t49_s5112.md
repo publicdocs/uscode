@@ -147,7 +147,7 @@
 
     The Secretary is not required to amend or again prescribe regulations related to highway routing designations over which radioactive material may and may not be transported by motor vehicles, and limitations and requirements related to the routing, that were in effect on November 16, 1990.
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 769][/us/stat/108/769]; [Pub. L. 109–59, title VII, § 7126][/us/pl/109/59/s7126], Aug. 10, 2005, [119 Stat. 1909][/us/stat/119/1909]; [Pub. L. 112–141, div. C, title III, § 33013(a)][/us/pl/112/141/s33013/a], July 6, 2012, [126 Stat. 839][/us/stat/126/839].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(d), July 5, 1994, [108 Stat. 769][/us/stat/108/769]; [Pub. L. 109–59, title VII][/us/pl/109/59/tVII], § 7126, Aug. 10, 2005, [119 Stat. 1909][/us/stat/119/1909]; [Pub. L. 112–141, div. C, title III][/us/pl/112/141/dC/tIII], § 33013(a), July 6, 2012, [126 Stat. 839][/us/stat/126/839].)
 
 <table>
 
@@ -317,7 +317,7 @@ Jan. 3, 1975, Pub. L. 93–633, § 105(b)(1)–(3), (5)–(9), (c), 88 Stat. 2
 
  __Study of Hazardous Materials Transportation by Motor Carriers Near Federal Prisons__ 
 
-    [Pub. L. 103–311, title I, § 121][/us/pl/103/311/s121], Aug. 26, 1994, [108 Stat. 1681][/us/stat/108/1681], directed Secretary of Transportation to submit to Congress, not later than 1 year after Aug. 26, 1994, report on results of study to determine safety considerations of transporting hazardous materials by motor carriers in close proximity to Federal prisons, particularly those housing maximum security prisoners, which was to include evaluation of ability of such facilities and designated local planning agencies to safely evacuate such prisoners in event of emergency and any special training, equipment, or personnel that would be required by such facility and designated local emergency planning agencies to carry out such evacuation.
+    [Pub. L. 103–311, title I][/us/pl/103/311/tI], § 121, Aug. 26, 1994, [108 Stat. 1681][/us/stat/108/1681], directed Secretary of Transportation to submit to Congress, not later than 1 year after Aug. 26, 1994, report on results of study to determine safety considerations of transporting hazardous materials by motor carriers in close proximity to Federal prisons, particularly those housing maximum security prisoners, which was to include evaluation of ability of such facilities and designated local planning agencies to safely evacuate such prisoners in event of emergency and any special training, equipment, or personnel that would be required by such facility and designated local emergency planning agencies to carry out such evacuation.
 
 ----------
 
@@ -328,18 +328,18 @@ Jan. 3, 1975, Pub. L. 93–633, § 105(b)(1)–(3), (5)–(9), (c), 88 Stat. 2
 
 [/us/usc/t49/s5125/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5125%2Fc
 [/us/usc/t23/s127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs127
-[/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F769
-[/us/pl/109/59/s7126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7126
+[/us/pl/109/59/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtVII
 [/us/stat/119/1909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1909
-[/us/pl/112/141/s33013/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs33013%2Fa
+[/us/pl/112/141/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtIII
 [/us/stat/126/839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F839
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
-[/us/pl/103/311/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311%2Fs121
+[/us/pl/103/311/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311%2FtI
 [/us/stat/108/1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1681
 
 

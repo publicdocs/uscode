@@ -91,7 +91,7 @@
 
     Amounts appropriated or otherwise made available to carry out the essential air service program under this subchapter shall be available to carry out this section.
 
-(Added [Pub. L. 108–176, title IV, § 405][/us/pl/108/176/s405], Dec. 12, 2003, [117 Stat. 2544][/us/stat/117/2544].)
+(Added [Pub. L. 108–176, title IV][/us/pl/108/176/tIV], § 405, Dec. 12, 2003, [117 Stat. 2544][/us/stat/117/2544].)
 
  __Effective Date__ 
 
@@ -104,7 +104,7 @@
 ----------
 ----------
 
-[/us/pl/108/176/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs405
+[/us/pl/108/176/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtIV
 [/us/stat/117/2544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2544
 [/us/pl/108/176/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106

@@ -29,7 +29,7 @@
 
     A person knowingly and willfully requesting, or under false pretenses obtaining, information specified in section 30304(b)(1)(A) or (C) of this title from a person receiving the information under [section 30305 of this title][/us/usc/t49/s30305] shall be fined under title 18, imprisoned for not more than one year, or both.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 979][/us/stat/108/979].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 979][/us/stat/108/979].)
 
 <table>
 
@@ -83,7 +83,7 @@ Oct. 25, 1982, Pub. L. 97–364, § 208, 96 Stat. 1746; Dec. 30, 1987, Pub. L.
 
  __References in Text__ 
 
-    [Section 30305(b) of this title][/us/usc/t49/s30305/b], referred to in subsec. (a), was amended by [Pub. L. 105–178, title II, § 2006(b)(2)(A)][/us/pl/105/178/s2006/b/2/A], (B), June 9, 1998, [112 Stat. 336][/us/stat/112/336], which added a new par. (6) and redesignated former par. (6) as (10).
+    [Section 30305(b) of this title][/us/usc/t49/s30305/b], referred to in subsec. (a), was amended by [Pub. L. 105–178, title II][/us/pl/105/178/tII], § 2006(b)(2)(A), (B), June 9, 1998, [112 Stat. 336][/us/stat/112/336], which added a new par. (6) and redesignated former par. (6) as (10).
 
 ----------
 
@@ -95,7 +95,7 @@ Oct. 25, 1982, Pub. L. 97–364, § 208, 96 Stat. 1746; Dec. 30, 1987, Pub. L.
 [/us/usc/t49/s30305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30305
 [/us/usc/t49/s30305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30305
 [/us/usc/t49/s30305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30305
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F979
 [/us/usc/t49/s30305/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30305%2Fb%2F6
 [/us/pl/100/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F223
@@ -103,7 +103,7 @@ Oct. 25, 1982, Pub. L. 97–364, § 208, 96 Stat. 1746; Dec. 30, 1987, Pub. L.
 [/us/pl/97/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F364
 [/us/stat/96/1744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1744
 [/us/usc/t49/s30305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30305%2Fb
-[/us/pl/105/178/s2006/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs2006%2Fb%2F2%2FA
+[/us/pl/105/178/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtII
 [/us/stat/112/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F336
 
 

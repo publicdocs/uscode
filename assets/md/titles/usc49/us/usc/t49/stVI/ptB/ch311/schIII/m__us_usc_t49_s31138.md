@@ -97,7 +97,7 @@
 
         (4) providing transportation service within a transit service area under an agreement with a Federal, State, or local government funded, in whole or in part, with a grant under section 5307, 5310, or 5311, including transportation designed and carried out to meet the special needs of elderly individuals and individuals with disabilities; except that, in any case in which the transit service area is located in more than 1 State, the minimum level of financial responsibility for such motor vehicle will be at least the highest level required for any of such States.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1005][/us/stat/108/1005]; [Pub. L. 104–88, title I, § 104(c)][/us/pl/104/88/s104/c], (d), Dec. 29, 1995, [109 Stat. 919][/us/stat/109/919]; [Pub. L. 107–298, § 3(b)(2)][/us/pl/107/298/s3/b/2], Nov. 26, 2002, [116 Stat. 2343][/us/stat/116/2343]; [Pub. L. 109–59, title IV][/us/pl/109/59], §§ 4120(a), 4121, Aug. 10, 2005, [119 Stat. 1733][/us/stat/119/1733], 1734; [Pub. L. 110–244, title III, § 305(a)][/us/pl/110/244/s305/a], June 6, 2008, [122 Stat. 1619][/us/stat/122/1619].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1005][/us/stat/108/1005]; [Pub. L. 104–88, title I][/us/pl/104/88/tI], § 104(c), (d), Dec. 29, 1995, [109 Stat. 919][/us/stat/109/919]; [Pub. L. 107–298][/us/pl/107/298], § 3(b)(2), Nov. 26, 2002, [116 Stat. 2343][/us/stat/116/2343]; [Pub. L. 109–59, title IV][/us/pl/109/59/tIV], §§ 4120(a), 4121, Aug. 10, 2005, [119 Stat. 1733][/us/stat/119/1733], 1734; [Pub. L. 110–244, title III][/us/pl/110/244/tIII], § 305(a), June 6, 2008, [122 Stat. 1619][/us/stat/122/1619].)
 
 <table>
 
@@ -221,7 +221,7 @@ Sept. 20, 1982, Pub. L. 97–261, § 18(f), (g), 96 Stat. 1122.  </td>
 
  __Amendments__ 
 
-    2008—Subsec. (a). [Pub. L. 110–244, § 305(a)(1)][/us/pl/110/244/s305/a/1], added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Secretary of Transportation shall prescribe regulations to require minimum levels of financial responsibility sufficient to satisfy liability amounts established by the Secretary covering public liability and property damage for the transportation of passengers by commercial motor vehicle in the United States between a place in a State and—
+    2008—Subsec. (a). [Pub. L. 110–244][/us/pl/110/244], § 305(a)(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Secretary of Transportation shall prescribe regulations to require minimum levels of financial responsibility sufficient to satisfy liability amounts established by the Secretary covering public liability and property damage for the transportation of passengers by commercial motor vehicle in the United States between a place in a State and—
 
     “(1) a place in another State;
 
@@ -229,19 +229,19 @@ Sept. 20, 1982, Pub. L. 97–261, § 18(f), (g), 96 Stat. 1122.  </td>
 
     “(3) a place outside the United States.”
 
-    Subsec. (c)(4). [Pub. L. 110–244, § 305(a)(2)][/us/pl/110/244/s305/a/2], struck out “commercial” before “motor vehicle” in two places.
+    Subsec. (c)(4). [Pub. L. 110–244][/us/pl/110/244], § 305(a)(2), struck out “commercial” before “motor vehicle” in two places.
 
-    2005—Subsec. (a). [Pub. L. 109–59, § 4120(a)(1)][/us/pl/109/59/s4120/a/1], struck out “for compensation” after “passengers” and inserted “commercial” before “motor vehicle” in introductory provisions.
+    2005—Subsec. (a). [Pub. L. 109–59][/us/pl/109/59], § 4120(a)(1), struck out “for compensation” after “passengers” and inserted “commercial” before “motor vehicle” in introductory provisions.
 
-    Subsec. (c)(4). [Pub. L. 109–59, § 4120(a)(2)][/us/pl/109/59/s4120/a/2], added par. (4).
+    Subsec. (c)(4). [Pub. L. 109–59][/us/pl/109/59], § 4120(a)(2), added par. (4).
 
-    Subsec. (d)(5). [Pub. L. 109–59, § 4121][/us/pl/109/59/s4121], substituted “Highway Trust Fund (other than the Mass Transit Account)” for “Treasury as miscellaneous receipts”.
+    Subsec. (d)(5). [Pub. L. 109–59][/us/pl/109/59], § 4121, substituted “Highway Trust Fund (other than the Mass Transit Account)” for “Treasury as miscellaneous receipts”.
 
     2002—Subsec. (e)(2). [Pub. L. 107–298][/us/pl/107/298] amended par. (2) generally. Prior to amendment, par. (2) read as follows: “providing taxicab service, having a seating capacity of not more than 6 passengers, and not being operated on a regular route or between specified places;”.
 
-    1995—Subsec. (c)(3). [Pub. L. 104–88, § 104(c)][/us/pl/104/88/s104/c], added par. (3).
+    1995—Subsec. (c)(3). [Pub. L. 104–88][/us/pl/104/88], § 104(c), added par. (3).
 
-    Subsec. (e)(4). [Pub. L. 104–88, § 104(d)][/us/pl/104/88/s104/d], added par. (4).
+    Subsec. (e)(4). [Pub. L. 104–88][/us/pl/104/88], § 104(d), added par. (4).
 
  __Effective Date of 1995 Amendment__ 
 
@@ -249,7 +249,7 @@ Sept. 20, 1982, Pub. L. 97–261, § 18(f), (g), 96 Stat. 1122.  </td>
 
  __Minimum Financial Responsibility__ 
 
-[Pub. L. 114–94, div. A, title V, § 5509][/us/pl/114/94/s5509], Dec. 4, 2015, [129 Stat. 1554][/us/stat/129/1554], provided that:
+[Pub. L. 114–94, div. A, title V][/us/pl/114/94/dA/tV], § 5509, Dec. 4, 2015, [129 Stat. 1554][/us/stat/129/1554], provided that:
 
 >     “(a)  __Transporting Property__  __.—__ 
 
@@ -316,32 +316,32 @@ Sept. 20, 1982, Pub. L. 97–261, § 18(f), (g), 96 Stat. 1122.  </td>
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1005
-[/us/pl/104/88/s104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs104%2Fc
+[/us/pl/104/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtI
 [/us/stat/109/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F919
-[/us/pl/107/298/s3/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F298%2Fs3%2Fb%2F2
+[/us/pl/107/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F298
 [/us/stat/116/2343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2343
-[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIV
 [/us/stat/119/1733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1733
-[/us/pl/110/244/s305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs305%2Fa
+[/us/pl/110/244/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2FtIII
 [/us/stat/122/1619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1619
 [/us/pl/97/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F261
 [/us/stat/96/1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1121
 [/us/pl/97/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F261
 [/us/stat/96/1122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1122
-[/us/pl/110/244/s305/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs305%2Fa%2F1
-[/us/pl/110/244/s305/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs305%2Fa%2F2
-[/us/pl/109/59/s4120/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4120%2Fa%2F1
-[/us/pl/109/59/s4120/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4120%2Fa%2F2
-[/us/pl/109/59/s4121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4121
+[/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
+[/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/107/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F298
-[/us/pl/104/88/s104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs104%2Fc
-[/us/pl/104/88/s104/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs104%2Fd
+[/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
+[/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/104/88/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs2
 [/us/usc/t49/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1301
-[/us/pl/114/94/s5509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5509
+[/us/pl/114/94/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtV
 [/us/stat/129/1554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1554
 [/us/usc/t49/s31139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31139
 [/us/usc/t49/s31138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31138

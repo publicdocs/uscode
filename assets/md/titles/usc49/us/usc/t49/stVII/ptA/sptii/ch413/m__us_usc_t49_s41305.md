@@ -35,7 +35,7 @@
 
     The Secretary may impose terms for providing foreign air transportation under the permit that the Secretary finds may be required in the public interest.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1127][/us/stat/108/1127].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1127][/us/stat/108/1127].)
 
 <table>
 
@@ -171,7 +171,7 @@ Aug. 23, 1958, Pub. L. 85–726, § 402(d), 72 Stat. 758; Feb. 15, 1980, Pub. 
 ----------
 
 [/us/usc/t49/s41302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs41302
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1127
 [/us/usc/t49/s41302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs41302
 

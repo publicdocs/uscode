@@ -17,7 +17,7 @@
 
     Nothing in section 10908 or 10909 is intended to affect the traditional police powers of the State to require a rail carrier to comply with State and local environmental, public health, and public safety standards that are not unreasonably burdensome to interstate commerce and do not discriminate against rail carriers.
 
-(Added [Pub. L. 110–432, div. A, title VI, § 605(a)][/us/pl/110/432/s605/a], Oct. 16, 2008, [122 Stat. 4905][/us/stat/122/4905].)
+(Added [Pub. L. 110–432, div. A, title VI][/us/pl/110/432/dA/tVI], § 605(a), Oct. 16, 2008, [122 Stat. 4905][/us/stat/122/4905].)
 
  __Prior Provisions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/110/432/s605/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs605%2Fa
+[/us/pl/110/432/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdA%2FtVI
 [/us/stat/122/4905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4905
 [/us/usc/t49/s10907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs10907
 

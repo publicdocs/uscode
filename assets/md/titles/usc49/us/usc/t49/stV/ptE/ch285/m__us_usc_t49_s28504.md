@@ -17,7 +17,7 @@
 
     Nothing in this chapter shall be construed to limit a rail transportation provider’s right under section 28103(b) to enter into contracts that allocate financial responsibility for claims.
 
-(Added [Pub. L. 110–432, div. B, title IV, § 401(a)][/us/pl/110/432/s401/a], Oct. 16, 2008, [122 Stat. 4956][/us/stat/122/4956].)
+(Added [Pub. L. 110–432, div. B, title IV][/us/pl/110/432/dB/tIV], § 401(a), Oct. 16, 2008, [122 Stat. 4956][/us/stat/122/4956].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/110/432/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs401%2Fa
+[/us/pl/110/432/dB/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdB%2FtIV
 [/us/stat/122/4956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4956
 
 

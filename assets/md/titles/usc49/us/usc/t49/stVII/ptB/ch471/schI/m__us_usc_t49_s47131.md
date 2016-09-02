@@ -33,7 +33,7 @@
 
     The Secretary does not have to conduct an audit or make a final determination before including an airport on the list referred to in subsection (a)(5).
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1278][/us/stat/108/1278], § 47129; renumbered § 47131, [Pub. L. 103–305, title I, § 113(a)(1)][/us/pl/103/305/s113/a/1], Aug. 23, 1994, [108 Stat. 1577][/us/stat/108/1577]; amended [Pub. L. 106–181, title VII, § 722][/us/pl/106/181/s722], Apr. 5, 2000, [114 Stat. 165][/us/stat/114/165]; [Pub. L. 112–95, title I, § 152(c)][/us/pl/112/95/s152/c], Feb. 14, 2012, [126 Stat. 34][/us/stat/126/34].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1278][/us/stat/108/1278], § 47129; renumbered § 47131, [Pub. L. 103–305, title I][/us/pl/103/305/tI], § 113(a)(1), Aug. 23, 1994, [108 Stat. 1577][/us/stat/108/1577]; amended [Pub. L. 106–181, title VII][/us/pl/106/181/tVII], § 722, Apr. 5, 2000, [114 Stat. 165][/us/stat/114/165]; [Pub. L. 112–95, title I][/us/pl/112/95/tI], § 152(c), Feb. 14, 2012, [126 Stat. 34][/us/stat/126/34].)
 
 <table>
 
@@ -110,13 +110,13 @@ Sept. 3, 1982, Pub. L. 97–248, § 521, 96 Stat. 694.  </td>
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1278
-[/us/pl/103/305/s113/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2Fs113%2Fa%2F1
+[/us/pl/103/305/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2FtI
 [/us/stat/108/1577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1577
-[/us/pl/106/181/s722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs722
+[/us/pl/106/181/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtVII
 [/us/stat/114/165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F165
-[/us/pl/112/95/s152/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs152%2Fc
+[/us/pl/112/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtI
 [/us/stat/126/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F34
 [/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
 [/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181

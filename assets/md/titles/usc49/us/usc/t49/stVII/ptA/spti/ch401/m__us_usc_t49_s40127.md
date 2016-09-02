@@ -23,7 +23,7 @@
 
     Notwithstanding any other provision of law, no State or local government may prohibit the use or full enjoyment of a private airport within its jurisdiction by any person on the basis of that person’s race, color, national origin, religion, sex, or ancestry.
 
-(Added [Pub. L. 106–181, title VII, § 706(a)][/us/pl/106/181/s706/a], Apr. 5, 2000, [114 Stat. 157][/us/stat/114/157].)
+(Added [Pub. L. 106–181, title VII][/us/pl/106/181/tVII], § 706(a), Apr. 5, 2000, [114 Stat. 157][/us/stat/114/157].)
 
  __Effective Date__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/106/181/s706/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs706%2Fa
+[/us/pl/106/181/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtVII
 [/us/stat/114/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F157
 [/us/pl/106/181/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106

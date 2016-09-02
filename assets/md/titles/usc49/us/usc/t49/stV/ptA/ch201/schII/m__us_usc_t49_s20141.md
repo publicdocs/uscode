@@ -51,7 +51,7 @@
 
         (5) trains that operate in a push mode.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 878][/us/stat/108/878].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 878][/us/stat/108/878].)
 
 <table>
 
@@ -129,7 +129,7 @@ Oct. 16, 1970, Pub. L. 91–458, 84 Stat. 971, § 202(r); added Sept. 3, 1992,
 
  __Study and Testing of Electronically Controlled Pneumatic Brakes__ 
 
-[Pub. L. 114–94, div. A, title VII, § 7311][/us/pl/114/94/s7311], Dec. 4, 2015, [129 Stat. 1601][/us/stat/129/1601], provided that:
+[Pub. L. 114–94, div. A, title VII][/us/pl/114/94/dA/tVII], § 7311, Dec. 4, 2015, [129 Stat. 1601][/us/stat/129/1601], provided that:
 
 >     “(a) __Government Accountability Office Study.—__ 
 
@@ -276,9 +276,9 @@ Oct. 16, 1970, Pub. L. 91–458, 84 Stat. 971, § 202(r); added Sept. 3, 1992,
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F878
-[/us/pl/114/94/s7311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs7311
+[/us/pl/114/94/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtVII
 [/us/stat/129/1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1601
 [/us/usc/t49/s20102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs20102
 

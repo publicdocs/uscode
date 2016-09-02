@@ -59,7 +59,7 @@
 
         The Secretary shall encourage Federal agencies and State and local governments to adopt and implement appropriate practices, laws, and ordinances, as identified in the report, to address the risks and hazards associated with encroachment upon pipeline rights-of-way and to address the potential methods of preserving environmental resources while maintaining pipeline rights-of-way, consistent with pipeline safety.
 
-(Added [Pub. L. 104–304, § 16(a)][/us/pl/104/304/s16/a], Oct. 12, 1996, [110 Stat. 3803][/us/stat/110/3803]; amended [Pub. L. 107–355, § 11(a)][/us/pl/107/355/s11/a], Dec. 17, 2002, [116 Stat. 2996][/us/stat/116/2996].)
+(Added [Pub. L. 104–304][/us/pl/104/304], § 16(a), Oct. 12, 1996, [110 Stat. 3803][/us/stat/110/3803]; amended [Pub. L. 107–355][/us/pl/107/355], § 11(a), Dec. 17, 2002, [116 Stat. 2996][/us/stat/116/2996].)
 
  __References in Text__ 
 
@@ -88,9 +88,9 @@
 ----------
 ----------
 
-[/us/pl/104/304/s16/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304%2Fs16%2Fa
+[/us/pl/104/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304
 [/us/stat/110/3803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3803
-[/us/pl/107/355/s11/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355%2Fs11%2Fa
+[/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355
 [/us/stat/116/2996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2996
 [/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355
 [/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355

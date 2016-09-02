@@ -57,29 +57,29 @@
 
     The Secretary shall require a broker to update its registration under this section not later than 30 days after a change in the broker’s address, other contact information, officers, process agent, or other essential information, as determined by the Secretary.
 
-(Added [Pub. L. 104–88, title I, § 103][/us/pl/104/88/s103], Dec. 29, 1995, [109 Stat. 884][/us/stat/109/884]; amended [Pub. L. 109–59, title IV, § 4142(c)][/us/pl/109/59/s4142/c], Aug. 10, 2005, [119 Stat. 1747][/us/stat/119/1747]; [Pub. L. 110–244, title III, § 305(e)][/us/pl/110/244/s305/e], June 6, 2008, [122 Stat. 1620][/us/stat/122/1620]; [Pub. L. 112–141, div. C, title II][/us/pl/112/141], §§ 32107(c), 32916(b), July 6, 2012, [126 Stat. 782][/us/stat/126/782], 821.)
+(Added [Pub. L. 104–88, title I][/us/pl/104/88/tI], § 103, Dec. 29, 1995, [109 Stat. 884][/us/stat/109/884]; amended [Pub. L. 109–59, title IV][/us/pl/109/59/tIV], § 4142(c), Aug. 10, 2005, [119 Stat. 1747][/us/stat/119/1747]; [Pub. L. 110–244, title III][/us/pl/110/244/tIII], § 305(e), June 6, 2008, [122 Stat. 1620][/us/stat/122/1620]; [Pub. L. 112–141, div. C, title II][/us/pl/112/141/dC/tII], §§ 32107(c), 32916(b), July 6, 2012, [126 Stat. 782][/us/stat/126/782], 821.)
 
  __Amendments__ 
 
-    2012—Subsec. (a). [Pub. L. 112–141, § 32916(b)(1)][/us/pl/112/141/s32916/b/1], substituted “determines that the person—” for “finds that the person is fit”, added par. (1), and inserted par. (2) designation and “is fit” before “, willing”.
+    2012—Subsec. (a). [Pub. L. 112–141][/us/pl/112/141], § 32916(b)(1), substituted “determines that the person—” for “finds that the person is fit”, added par. (1), and inserted par. (2) designation and “is fit” before “, willing”.
 
-    Subsecs. (b), (c). [Pub. L. 112–141, § 32916(b)(3)][/us/pl/112/141/s32916/b/3], added subsecs. (b) and (c). Former subsecs. (b) and (c) redesignated (d) and (e), respectively.
+    Subsecs. (b), (c). [Pub. L. 112–141][/us/pl/112/141], § 32916(b)(3), added subsecs. (b) and (c). Former subsecs. (b) and (c) redesignated (d) and (e), respectively.
 
-    Subsec. (d). [Pub. L. 112–141, § 32916(b)(4)][/us/pl/112/141/s32916/b/4], amended subsec. (d) generally. Prior to amendment, text read as follows:
+    Subsec. (d). [Pub. L. 112–141][/us/pl/112/141], § 32916(b)(4), amended subsec. (d) generally. Prior to amendment, text read as follows:
 
     “(1) In general.—The broker may provide the transportation itself only if the broker also has been registered to provide the transportation as a motor carrier under this chapter.
 
     “(2) Limitation.—This subsection does not apply to a motor carrier registered under this chapter or to an employee or agent of the motor carrier to the extent the transportation is to be provided entirely by the motor carrier, with other registered motor carriers, or with rail or water carriers.”
 
-    [Pub. L. 112–141, § 32916(b)(2)][/us/pl/112/141/s32916/b/2], redesignated subsec. (b) as (d). Former subsec. (d) redesignated (f).
+    [Pub. L. 112–141][/us/pl/112/141], § 32916(b)(2), redesignated subsec. (b) as (d). Former subsec. (d) redesignated (f).
 
-    Subsec. (e). [Pub. L. 112–141, § 32916(b)(5)][/us/pl/112/141/s32916/b/5], amended subsec. (e) generally. Prior to amendment, text read as follows: “Regulations of the Secretary applicable to brokers registered under this section shall provide for the protection of shippers by motor vehicle.”
+    Subsec. (e). [Pub. L. 112–141][/us/pl/112/141], § 32916(b)(5), amended subsec. (e) generally. Prior to amendment, text read as follows: “Regulations of the Secretary applicable to brokers registered under this section shall provide for the protection of shippers by motor vehicle.”
 
-    [Pub. L. 112–141, § 32916(b)(2)][/us/pl/112/141/s32916/b/2], redesignated subsec. (c) as (e). Former subsec. (e) redesignated (g).
+    [Pub. L. 112–141][/us/pl/112/141], § 32916(b)(2), redesignated subsec. (c) as (e). Former subsec. (e) redesignated (g).
 
-    [Pub. L. 112–141, § 32107(c)][/us/pl/112/141/s32107/c], added subsec. (e).
+    [Pub. L. 112–141][/us/pl/112/141], § 32107(c), added subsec. (e).
 
-    Subsecs. (f), (g). [Pub. L. 112–141, § 32916(b)(2)][/us/pl/112/141/s32916/b/2], redesignated subsecs. (d) and (e) as (f) and (g), respectively.
+    Subsecs. (f), (g). [Pub. L. 112–141][/us/pl/112/141], § 32916(b)(2), redesignated subsecs. (d) and (e) as (f) and (g), respectively.
 
     2008—Subsec. (a). [Pub. L. 110–244][/us/pl/110/244] amended subsec. (a) generally. Prior to amendment, text read as follows:
 
@@ -87,9 +87,9 @@
 
     “(2) Others.—The Secretary may register a person to provide service subject to jurisdiction under subchapter III of chapter 135 as a broker (other than a broker of household goods) if the Secretary finds that such registration is needed for the protection of shippers and that the person is fit, willing, and able to provide the service and to comply with this part and applicable regulations of the Secretary and Board.”
 
-    2005—Subsec. (a). [Pub. L. 109–59, § 4142(c)(1)][/us/pl/109/59/s4142/c/1], (3), designated existing provisions as par. (1), inserted heading, and added par. (2).
+    2005—Subsec. (a). [Pub. L. 109–59][/us/pl/109/59], § 4142(c)(1), (3), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
-    Subsec. (a)(1). [Pub. L. 109–59, § 4142(c)(2)][/us/pl/109/59/s4142/c/2], which directed amendment of par. (1) by inserting “of household goods” after “broker”, was executed by making the insertion in two places to reflect the probable intent of Congress.
+    Subsec. (a)(1). [Pub. L. 109–59][/us/pl/109/59], § 4142(c)(2), which directed amendment of par. (1) by inserting “of household goods” after “broker”, was executed by making the insertion in two places to reflect the probable intent of Congress.
 
  __Effective Date of 2012 Amendment__ 
 
@@ -102,25 +102,25 @@
 ----------
 ----------
 
-[/us/pl/104/88/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs103
+[/us/pl/104/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtI
 [/us/stat/109/884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F884
-[/us/pl/109/59/s4142/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4142%2Fc
+[/us/pl/109/59/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIV
 [/us/stat/119/1747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1747
-[/us/pl/110/244/s305/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs305%2Fe
+[/us/pl/110/244/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2FtIII
 [/us/stat/122/1620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1620
-[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtII
 [/us/stat/126/782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F782
-[/us/pl/112/141/s32916/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32916%2Fb%2F1
-[/us/pl/112/141/s32916/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32916%2Fb%2F3
-[/us/pl/112/141/s32916/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32916%2Fb%2F4
-[/us/pl/112/141/s32916/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32916%2Fb%2F2
-[/us/pl/112/141/s32916/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32916%2Fb%2F5
-[/us/pl/112/141/s32916/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32916%2Fb%2F2
-[/us/pl/112/141/s32107/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32107%2Fc
-[/us/pl/112/141/s32916/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32916%2Fb%2F2
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
-[/us/pl/109/59/s4142/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4142%2Fc%2F1
-[/us/pl/109/59/s4142/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4142%2Fc%2F2
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101

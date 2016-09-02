@@ -17,7 +17,7 @@
 
     Before reprogramming any amounts appropriated under section 106(k), 48101(a), or 48103, for which notification of the Committees on Appropriations of the Senate and the House of Representatives is required, the Secretary of Transportation shall transmit a written explanation of the proposed reprogramming to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
 
-(Added [Pub. L. 106–181, title I, § 108(a)][/us/pl/106/181/s108/a], Apr. 5, 2000, [114 Stat. 73][/us/stat/114/73].)
+(Added [Pub. L. 106–181, title I][/us/pl/106/181/tI], § 108(a), Apr. 5, 2000, [114 Stat. 73][/us/stat/114/73].)
 
  __Effective Date__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/106/181/s108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs108%2Fa
+[/us/pl/106/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtI
 [/us/stat/114/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F73
 [/us/pl/106/181/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106

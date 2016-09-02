@@ -113,7 +113,7 @@
 
     This section does not supersede a penalty applicable to an operator of a commercial motor vehicle under this chapter or another law.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1017][/us/stat/108/1017]; [Pub. L. 104–59, title III, § 342(c)][/us/pl/104/59/s342/c], Nov. 28, 1995, [109 Stat. 609][/us/stat/109/609]; [Pub. L. 112–141, div. C, title II, § 32402(a)(1)][/us/pl/112/141/s32402/a/1], July 6, 2012, [126 Stat. 795][/us/stat/126/795]; [Pub. L. 114–94, div. A, title V, § 5402(a)][/us/pl/114/94/s5402/a], Dec. 4, 2015, [129 Stat. 1547][/us/stat/129/1547].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1017][/us/stat/108/1017]; [Pub. L. 104–59, title III][/us/pl/104/59/tIII], § 342(c), Nov. 28, 1995, [109 Stat. 609][/us/stat/109/609]; [Pub. L. 112–141, div. C, title II][/us/pl/112/141/dC/tII], § 32402(a)(1), July 6, 2012, [126 Stat. 795][/us/stat/126/795]; [Pub. L. 114–94, div. A, title V][/us/pl/114/94/dA/tV], § 5402(a), Dec. 4, 2015, [129 Stat. 1547][/us/stat/129/1547].)
 
 <table>
 
@@ -319,15 +319,15 @@ Oct. 27, 1986, Pub. L. 99–570, 100 Stat. 3207–170, § 12020; added Oct. 28
 
  __Amendments__ 
 
-    2015—Subsec. (b)(1)(A). [Pub. L. 114–94, § 5402(a)(1)(B)][/us/pl/114/94/s5402/a/1/B], struck out at end “The regulations shall permit such motor carriers to conduct preemployment testing of such employees for the use of alcohol.”
+    2015—Subsec. (b)(1)(A). [Pub. L. 114–94][/us/pl/114/94], § 5402(a)(1)(B), struck out at end “The regulations shall permit such motor carriers to conduct preemployment testing of such employees for the use of alcohol.”
 
-    Subsec. (b)(1)(B), (C). [Pub. L. 114–94, § 5402(a)(1)(A)][/us/pl/114/94/s5402/a/1/A], (C), added subpar. (B) and redesignated former subpar. (B) as (C).
+    Subsec. (b)(1)(B), (C). [Pub. L. 114–94][/us/pl/114/94], § 5402(a)(1)(A), (C), added subpar. (B) and redesignated former subpar. (B) as (C).
 
-    Subsec. (b)(2)(C). [Pub. L. 114–94, § 5402(a)(2)][/us/pl/114/94/s5402/a/2], added subpar. (C).
+    Subsec. (b)(2)(C). [Pub. L. 114–94][/us/pl/114/94], § 5402(a)(2), added subpar. (C).
 
-    Subsec. (c)(2). [Pub. L. 114–94, § 5402(a)(3)(A)][/us/pl/114/94/s5402/a/3/A], inserted “for urine testing, and technical guidelines for hair testing,” before “including mandatory guidelines” in introductory provisions.
+    Subsec. (c)(2). [Pub. L. 114–94][/us/pl/114/94], § 5402(a)(3)(A), inserted “for urine testing, and technical guidelines for hair testing,” before “including mandatory guidelines” in introductory provisions.
 
-    Subsec. (c)(2)(D). [Pub. L. 114–94, § 5402(a)(3)(B)][/us/pl/114/94/s5402/a/3/B]–(D), added subpar. (D).
+    Subsec. (c)(2)(D). [Pub. L. 114–94][/us/pl/114/94], § 5402(a)(3)(B)–(D), added subpar. (D).
 
     2012—Subsec. (a). [Pub. L. 112–141][/us/pl/112/141] inserted “and section 31306a” after “this section”.
 
@@ -343,13 +343,13 @@ Oct. 27, 1986, Pub. L. 99–570, 100 Stat. 3207–170, § 12020; added Oct. 28
 
  __Guidelines__ 
 
-[Pub. L. 114–94, div. A, title V, § 5402(b)][/us/pl/114/94/s5402/b], Dec. 4, 2015, [129 Stat. 1548][/us/stat/129/1548], provided that: 
+[Pub. L. 114–94, div. A, title V][/us/pl/114/94/dA/tV], § 5402(b), Dec. 4, 2015, [129 Stat. 1548][/us/stat/129/1548], provided that: 
 
 > “Not later than 1 year after the date of enactment of this Act \[Dec. 4, 2015\], the Secretary of Health and Human Services shall issue scientific and technical guidelines for hair testing as a method of detecting the use of a controlled substance for purposes of [section 31306 of title 49][/us/usc/t49/s31306], United States Code.”
 
  __Drug Test Results Study__ 
 
-[Pub. L. 106–159, title II, § 226][/us/pl/106/159/s226], Dec. 9, 1999, [113 Stat. 1771][/us/stat/113/1771], provided that:
+[Pub. L. 106–159, title II][/us/pl/106/159/tII], § 226, Dec. 9, 1999, [113 Stat. 1771][/us/stat/113/1771], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -381,7 +381,7 @@ Oct. 27, 1986, Pub. L. 99–570, 100 Stat. 3207–170, § 12020; added Oct. 28
 
  __Post-Accident Alcohol Testing__ 
 
-[Pub. L. 105–178, title IV, § 4020][/us/pl/105/178/s4020], June 9, 1998, [112 Stat. 414][/us/stat/112/414], provided that:
+[Pub. L. 105–178, title IV][/us/pl/105/178/tIV], § 4020, June 9, 1998, [112 Stat. 414][/us/stat/112/414], provided that:
 
 >     “(a)  __Study__  __.—__ 
 
@@ -399,19 +399,19 @@ Oct. 27, 1986, Pub. L. 99–570, 100 Stat. 3207–170, § 12020; added Oct. 28
 ----------
 
 [/us/usc/t21/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1017
-[/us/pl/104/59/s342/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2Fs342%2Fc
+[/us/pl/104/59/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2FtIII
 [/us/stat/109/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F609
-[/us/pl/112/141/s32402/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32402%2Fa%2F1
+[/us/pl/112/141/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtII
 [/us/stat/126/795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F795
-[/us/pl/114/94/s5402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5402%2Fa
+[/us/pl/114/94/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtV
 [/us/stat/129/1547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1547
-[/us/pl/114/94/s5402/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5402%2Fa%2F1%2FB
-[/us/pl/114/94/s5402/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5402%2Fa%2F1%2FA
-[/us/pl/114/94/s5402/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5402%2Fa%2F2
-[/us/pl/114/94/s5402/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5402%2Fa%2F3%2FA
-[/us/pl/114/94/s5402/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5402%2Fa%2F3%2FB
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/104/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
@@ -420,12 +420,12 @@ Oct. 27, 1986, Pub. L. 99–570, 100 Stat. 3207–170, § 12020; added Oct. 28
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
-[/us/pl/114/94/s5402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5402%2Fb
+[/us/pl/114/94/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtV
 [/us/stat/129/1548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1548
 [/us/usc/t49/s31306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31306
-[/us/pl/106/159/s226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2Fs226
+[/us/pl/106/159/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2FtII
 [/us/stat/113/1771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1771
-[/us/pl/105/178/s4020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4020
+[/us/pl/105/178/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtIV
 [/us/stat/112/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F414
 [/us/usc/t49/s31306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31306
 

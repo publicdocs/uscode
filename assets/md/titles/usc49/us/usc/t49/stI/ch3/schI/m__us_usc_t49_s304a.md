@@ -57,7 +57,7 @@
 
             (C) the incorporated material does not include proprietary data that is not available for review and comment.
 
-(Added [Pub. L. 114–94, div. A, title I, § 1311(a)][/us/pl/114/94/s1311/a], Dec. 4, 2015, [129 Stat. 1398][/us/stat/129/1398].)
+(Added [Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1311(a), Dec. 4, 2015, [129 Stat. 1398][/us/stat/129/1398].)
 
  __References in Text__ 
 
@@ -76,7 +76,7 @@
 
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/pl/114/94/s1311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1311%2Fa
+[/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
 [/us/stat/129/1398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1398
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852

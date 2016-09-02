@@ -77,7 +77,7 @@
 
     The Secretary may submit one report to carry out subsection (a) of this section.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1326][/us/stat/108/1326]; [Pub. L. 104–66, title I, § 1121][/us/pl/104/66/s1121](l), Dec. 21, 1995, [109 Stat. 724][/us/stat/109/724]; [Pub. L. 104–304, § 15(a)][/us/pl/104/304/s15/a], Oct. 12, 1996, [110 Stat. 3803][/us/stat/110/3803].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1326][/us/stat/108/1326]; [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1121(l), Dec. 21, 1995, [109 Stat. 724][/us/stat/109/724]; [Pub. L. 104–304][/us/pl/104/304], § 15(a), Oct. 12, 1996, [110 Stat. 3803][/us/stat/110/3803].)
 
 <table>
 
@@ -193,9 +193,9 @@ Nov. 30, 1979, Pub. L. 96–129, § 213(b), (c), 93 Stat. 1014.  </td>
 
  __Amendments__ 
 
-    1996—[Pub. L. 104–304, § 15(a)(1)][/us/pl/104/304/s15/a/1], substituted “Biennial” for “Annual” in section catchline.
+    1996—[Pub. L. 104–304][/us/pl/104/304], § 15(a)(1), substituted “Biennial” for “Annual” in section catchline.
 
-    Subsec. (a). [Pub. L. 104–304, § 15(a)(2)][/us/pl/104/304/s15/a/2], inserted first sentence and struck out former first sentence which read as follows: “The Secretary of Transportation shall submit to Congress not later than August 15 of each odd-numbered year a report on carrying out this chapter for the prior calendar year for gas and a report on carrying out this chapter for the prior calendar year for hazardous liquid.”
+    Subsec. (a). [Pub. L. 104–304][/us/pl/104/304], § 15(a)(2), inserted first sentence and struck out former first sentence which read as follows: “The Secretary of Transportation shall submit to Congress not later than August 15 of each odd-numbered year a report on carrying out this chapter for the prior calendar year for gas and a report on carrying out this chapter for the prior calendar year for hazardous liquid.”
 
     1995—Subsec. (a). [Pub. L. 104–66][/us/pl/104/66] substituted “of each odd-numbered year” for “of each year” in first sentence of introductory provisions.
 
@@ -214,14 +214,14 @@ Nov. 30, 1979, Pub. L. 96–129, § 213(b), (c), 93 Stat. 1014.  </td>
 [/us/usc/t49/s60106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs60106
 [/us/usc/t49/s60105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs60105
 [/us/usc/t49/s60106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs60106
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1326
-[/us/pl/104/66/s1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1121
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F724
-[/us/pl/104/304/s15/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304%2Fs15%2Fa
+[/us/pl/104/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304
 [/us/stat/110/3803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3803
-[/us/pl/104/304/s15/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304%2Fs15%2Fa%2F1
-[/us/pl/104/304/s15/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304%2Fs15%2Fa%2F2
+[/us/pl/104/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304
+[/us/pl/104/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113

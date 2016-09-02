@@ -23,7 +23,7 @@
 
     The head of a department, agency, or instrumentality may detail, on a reimbursable basis, personnel to assist the Secretary in carrying out this chapter.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1040][/us/stat/108/1040].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1040][/us/stat/108/1040].)
 
 <table>
 
@@ -82,7 +82,7 @@ Oct. 20, 1972, Pub. L. 92–513, § 203, 86 Stat. 957.  </td>
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1040
 
 

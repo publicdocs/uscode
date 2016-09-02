@@ -141,15 +141,15 @@
 
     Notwithstanding section 24102, for purposes of this section, the term “Northeast Corridor” means the Northeast Corridor main line between Boston, Massachusetts, and the District of Columbia, and facilities and services used to operate and maintain that line.
 
-(Added [Pub. L. 114–94, div. A, title XI, § 11201(a)][/us/pl/114/94/s11201/a], Dec. 4, 2015, [129 Stat. 1625][/us/stat/129/1625].)
+(Added [Pub. L. 114–94, div. A, title XI][/us/pl/114/94/dA/tXI], § 11201(a), Dec. 4, 2015, [129 Stat. 1625][/us/stat/129/1625].)
 
  __References in Text__ 
 
     The date of enactment of the Passenger Rail Reform and Investment Act of 2015, referred to in subsecs. (b), (e)(1) and (h), is the date of enactment of title XI of div. A of [Pub. L. 114–94][/us/pl/114/94], which was approved Dec. 4, 2015.
 
-    Section 11101 of the Passenger Rail Reform and Investment Act of 2015, referred to in subsec. (c)(1)(A), (2)(A), is [section 11101 of title XI of div. A of Pub. L. 114–94][/us/pl/114/94/s11101], Dec. 4, 2015, [129 Stat. 1622][/us/stat/129/1622], which is not classified to the Code.
+    Section 11101 of the Passenger Rail Reform and Investment Act of 2015, referred to in subsec. (c)(1)(A), (2)(A), is [section 11101 of title XI of div. A of Pub. L. 114–94][/us/pl/114/94/dA/tXI/s11101], Dec. 4, 2015, [129 Stat. 1622][/us/stat/129/1622], which is not classified to the Code.
 
-    Section 209 of the Passenger Rail Investment and Improvement Act of 2008 ([42 U.S.C. 24101][/us/usc/t42/s24101] note), referred to in subsec. (c)(2)(B), probably means [section 209 of div. B of Pub. L. 110–432][/us/pl/110/432/s209], which is set out as a note under [section 24101 of this title][/us/usc/t49/s24101].
+    Section 209 of the Passenger Rail Investment and Improvement Act of 2008 ([42 U.S.C. 24101][/us/usc/t42/s24101] note), referred to in subsec. (c)(2)(B), probably means [section 209 of div. B of Pub. L. 110–432][/us/pl/110/432/dB/s209], which is set out as a note under [section 24101 of this title][/us/usc/t49/s24101].
 
  __Effective Date__ 
 
@@ -163,13 +163,13 @@
 ----------
 
 [/us/usc/t42/s24101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs24101
-[/us/pl/114/94/s11201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11201%2Fa
+[/us/pl/114/94/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtXI
 [/us/stat/129/1625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1625
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
-[/us/pl/114/94/s11101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11101
+[/us/pl/114/94/dA/tXI/s11101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtXI%2Fs11101
 [/us/stat/129/1622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1622
 [/us/usc/t42/s24101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs24101
-[/us/pl/110/432/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs209
+[/us/pl/110/432/dB/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdB%2Fs209
 [/us/usc/t49/s24101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24101
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313

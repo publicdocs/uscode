@@ -109,7 +109,7 @@
 
             (B) rolling stock or power train equipment cannot be bought and delivered in the United States within a reasonable time.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 909][/us/stat/108/909]; [Pub. L. 105–134, title I, § 107][/us/pl/105/134/s107], Dec. 2, 1997, [111 Stat. 2573][/us/stat/111/2573]; [Pub. L. 114–94, div. A, title XI, § 11412(c)(1)][/us/pl/114/94/s11412/c/1], Dec. 4, 2015, [129 Stat. 1688][/us/stat/129/1688].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 909][/us/stat/108/909]; [Pub. L. 105–134, title I][/us/pl/105/134/tI], § 107, Dec. 2, 1997, [111 Stat. 2573][/us/stat/111/2573]; [Pub. L. 114–94, div. A, title XI][/us/pl/114/94/dA/tXI], § 11412(c)(1), Dec. 4, 2015, [129 Stat. 1688][/us/stat/129/1688].)
 
 <table>
 
@@ -413,9 +413,9 @@ Oct. 30, 1970, Pub. L. 91–518, 84 Stat. 1327, § 305(k); added Oct. 5, 1978,
 
     2015—Subsec. (e). [Pub. L. 114–94][/us/pl/114/94] substituted “may directly employ or contract with” for “may employ”, “directly employed by or contracted by” for “employed by”, and “directly employed or contracted without” for “employed without”.
 
-    1997—Subsec. (a)(3). [Pub. L. 105–134, § 107(a)][/us/pl/105/134/s107/a], added par. (3).
+    1997—Subsec. (a)(3). [Pub. L. 105–134][/us/pl/105/134], § 107(a), added par. (3).
 
-    Subsec. (d)(3). [Pub. L. 105–134, § 107(b)][/us/pl/105/134/s107/b], added par. (3).
+    Subsec. (d)(3). [Pub. L. 105–134][/us/pl/105/134], § 107(b), added par. (3).
 
  __Effective Date of 2015 Amendment__ 
 
@@ -423,7 +423,7 @@ Oct. 30, 1970, Pub. L. 91–518, 84 Stat. 1327, § 305(k); added Oct. 5, 1978,
 
  __Local Products and Promotional Events__ 
 
-[Pub. L. 114–94, div. A, title XI, § 11209][/us/pl/114/94/s11209], Dec. 4, 2015, [129 Stat. 1640][/us/stat/129/1640], provided that:
+[Pub. L. 114–94, div. A, title XI][/us/pl/114/94/dA/tXI], § 11209, Dec. 4, 2015, [129 Stat. 1640][/us/stat/129/1640], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -463,7 +463,7 @@ Oct. 30, 1970, Pub. L. 91–518, 84 Stat. 1327, § 305(k); added Oct. 5, 1978,
 
  __Amtrak Pilot Program for Passengers Transporting Domesticated Cats and Dogs__ 
 
-[Pub. L. 114–94, div. A, title XI, § 11210][/us/pl/114/94/s11210], Dec. 4, 2015, [129 Stat. 1641][/us/stat/129/1641], provided that:
+[Pub. L. 114–94, div. A, title XI][/us/pl/114/94/dA/tXI], § 11210, Dec. 4, 2015, [129 Stat. 1641][/us/stat/129/1641], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -521,7 +521,7 @@ Oct. 30, 1970, Pub. L. 91–518, 84 Stat. 1327, § 305(k); added Oct. 5, 1978,
 
  __Right-of-Way Leveraging__ 
 
-[Pub. L. 114–94, div. A, title XI, § 11211][/us/pl/114/94/s11211], Dec. 4, 2015, [129 Stat. 1641][/us/stat/129/1641], provided that:
+[Pub. L. 114–94, div. A, title XI][/us/pl/114/94/dA/tXI], § 11211, Dec. 4, 2015, [129 Stat. 1641][/us/stat/129/1641], provided that:
 
 >     “(a) __Request for Proposals.—__ 
 
@@ -551,7 +551,7 @@ Oct. 30, 1970, Pub. L. 91–518, 84 Stat. 1327, § 305(k); added Oct. 5, 1978,
 
  __Station Development__ 
 
-[Pub. L. 114–94, div. A, title XI, § 11212][/us/pl/114/94/s11212], Dec. 4, 2015, [129 Stat. 1642][/us/stat/129/1642], provided that:
+[Pub. L. 114–94, div. A, title XI][/us/pl/114/94/dA/tXI], § 11212, Dec. 4, 2015, [129 Stat. 1642][/us/stat/129/1642], provided that:
 
 >     “(a)  __Report on Development Options__  __.—__ 
 
@@ -599,7 +599,7 @@ Oct. 30, 1970, Pub. L. 91–518, 84 Stat. 1327, § 305(k); added Oct. 5, 1978,
 
  __Amtrak Security Evaluation and Development of Procedures for Firearm Storage and Carriage in Checked Baggage Cars and Stations__ 
 
-[Pub. L. 111–117, div. A, title I, § 159][/us/pl/111/117/s159], Dec. 16, 2009, [123 Stat. 3061][/us/stat/123/3061], as amended by [Pub. L. 111–212, title III, § 3009][/us/pl/111/212/s3009], July 29, 2010, [124 Stat. 2340][/us/stat/124/2340], provided that:
+[Pub. L. 111–117, div. A, title I][/us/pl/111/117/dA/tI], § 159, Dec. 16, 2009, [123 Stat. 3061][/us/stat/123/3061], as amended by [Pub. L. 111–212, title III][/us/pl/111/212/tIII], § 3009, July 29, 2010, [124 Stat. 2340][/us/stat/124/2340], provided that:
 
 >     “(a)  __Amtrak Security Evaluation__  __.—__ 
 
@@ -655,17 +655,17 @@ Oct. 30, 1970, Pub. L. 91–518, 84 Stat. 1327, § 305(k); added Oct. 5, 1978,
 
  __General Services Administration Services__ 
 
-[Pub. L. 110–432, div. B, title II, § 218(b)][/us/pl/110/432/s218/b], Oct. 16, 2008, [122 Stat. 4930][/us/stat/122/4930], provided that: 
+[Pub. L. 110–432, div. B, title II][/us/pl/110/432/dB/tII], § 218(b), Oct. 16, 2008, [122 Stat. 4930][/us/stat/122/4930], provided that: 
 
 > “Amtrak may obtain from the Administrator of General Services, and the Administrator may provide to Amtrak, services under sections 502(a) and 602 of title 40, United States Code.”
 
-[Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. A, § 1110\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–202, provided that: 
+[Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. A, § 1110\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–202, provided that: 
 
 > “Amtrak is authorized to obtain services from the Administrator of General Services, and the Administrator is authorized to provide services to Amtrak, under sections 201(b) and 211(b) of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 481(b)][/us/usc/t40/s481/b] and 491(b)) \[now [40 U.S.C. 502][/us/usc/t40/s502], 602, 603(a)(1)\] for fiscal year 2001 and each fiscal year thereafter until the fiscal year that Amtrak operates without Federal operating grant funds appropriated for its benefit, as required by sections 24101(d) and \[former\] 24104(a) of title 49, United States Code.”
 
  __Rail and Motor Carrier Passenger Service__ 
 
-[Pub. L. 105–134, title I, § 108][/us/pl/105/134/s108], Dec. 2, 1997, [111 Stat. 2574][/us/stat/111/2574], provided that:
+[Pub. L. 105–134, title I][/us/pl/105/134/tI], § 108, Dec. 2, 1997, [111 Stat. 2574][/us/stat/111/2574], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -681,7 +681,7 @@ Oct. 30, 1970, Pub. L. 91–518, 84 Stat. 1327, § 305(k); added Oct. 5, 1978,
 
  __Educational Participation__ 
 
-[Pub. L. 105–134, title IV, § 412][/us/pl/105/134/s412], Dec. 2, 1997, [111 Stat. 2589][/us/stat/111/2589], provided that: 
+[Pub. L. 105–134, title IV][/us/pl/105/134/tIV], § 412, Dec. 2, 1997, [111 Stat. 2589][/us/stat/111/2589], provided that: 
 
 > “Amtrak shall participate in educational efforts with elementary and secondary schools to inform students on the advantages of rail travel and the need for rail safety.”
 
@@ -694,45 +694,45 @@ Oct. 30, 1970, Pub. L. 91–518, 84 Stat. 1327, § 305(k); added Oct. 5, 1978,
 
 [/us/usc/t49/s13902/b/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs13902%2Fb%2F8%2FA
 [/us/usc/t49/s5311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5311
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F909
-[/us/pl/105/134/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2Fs107
+[/us/pl/105/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2FtI
 [/us/stat/111/2573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2573
-[/us/pl/114/94/s11412/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11412%2Fc%2F1
+[/us/pl/114/94/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtXI
 [/us/stat/129/1688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1688
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
-[/us/pl/105/134/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2Fs107%2Fa
-[/us/pl/105/134/s107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2Fs107%2Fb
+[/us/pl/105/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134
+[/us/pl/105/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
-[/us/pl/114/94/s11209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11209
+[/us/pl/114/94/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtXI
 [/us/stat/129/1640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1640
 [/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
 [/us/usc/t49/s24308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24308
-[/us/pl/114/94/s11210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11210
+[/us/pl/114/94/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtXI
 [/us/stat/129/1641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1641
 [/us/usc/t49/s24102/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24102%2F7
 [/us/usc/t49/s24102/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24102%2F7
-[/us/pl/114/94/s11211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11211
+[/us/pl/114/94/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtXI
 [/us/stat/129/1641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1641
-[/us/pl/114/94/s11212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11212
+[/us/pl/114/94/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtXI
 [/us/stat/129/1642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1642
 [/us/stat/129/1670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1670
-[/us/pl/111/117/s159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2Fs159
+[/us/pl/111/117/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2FdA%2FtI
 [/us/stat/123/3061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3061
-[/us/pl/111/212/s3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F212%2Fs3009
+[/us/pl/111/212/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F212%2FtIII
 [/us/stat/124/2340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2340
-[/us/pl/110/432/s218/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs218%2Fb
+[/us/pl/110/432/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdB%2FtII
 [/us/stat/122/4930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4930
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/usc/t40/s481/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs481%2Fb
 [/us/usc/t40/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs502
-[/us/pl/105/134/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2Fs108
+[/us/pl/105/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2FtI
 [/us/stat/111/2574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2574
 [/us/usc/t49/s24305/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24305%2Fa%2F3
-[/us/pl/105/134/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2Fs412
+[/us/pl/105/134/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2FtIV
 [/us/stat/111/2589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2589
 
 

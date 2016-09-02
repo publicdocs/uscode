@@ -33,7 +33,7 @@
 
     (8) a precondition to the establishment and collection of a passenger facility charge is the prescribing by the Secretary of Transportation of a regulation establishing procedures for reviewing airport noise and access restrictions on operations of stage 2 and stage 3 aircraft.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1287][/us/stat/108/1287]; [Pub. L. 112–95, title I, § 111(c)(2)(A)(vi)][/us/pl/112/95/s111/c/2/A/vi], (B), Feb. 14, 2012, [126 Stat. 18][/us/stat/126/18].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1287][/us/stat/108/1287]; [Pub. L. 112–95, title I][/us/pl/112/95/tI], § 111(c)(2)(A)(vi), (B), Feb. 14, 2012, [126 Stat. 18][/us/stat/126/18].)
 
 <table>
 
@@ -83,9 +83,9 @@ Nov. 5, 1990, Pub. L. 101–508, § 9302, 104 Stat. 1388–378.  </td>
 
  __Amendments__ 
 
-    2012—Par. (5). [Pub. L. 112–95, § 111(c)(2)(B)][/us/pl/112/95/s111/c/2/B], substituted “charges” for “fees”.
+    2012—Par. (5). [Pub. L. 112–95][/us/pl/112/95], § 111(c)(2)(B), substituted “charges” for “fees”.
 
-    Pars. (7), (8). [Pub. L. 112–95, § 111(c)(2)(A)(vi)][/us/pl/112/95/s111/c/2/A/vi], substituted “charge” for “fee”.
+    Pars. (7), (8). [Pub. L. 112–95][/us/pl/112/95], § 111(c)(2)(A)(vi), substituted “charge” for “fee”.
 
 ----------
 
@@ -94,11 +94,11 @@ Nov. 5, 1990, Pub. L. 101–508, § 9302, 104 Stat. 1388–378.  </td>
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1287
-[/us/pl/112/95/s111/c/2/A/vi]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs111%2Fc%2F2%2FA%2Fvi
+[/us/pl/112/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtI
 [/us/stat/126/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F18
-[/us/pl/112/95/s111/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs111%2Fc%2F2%2FB
-[/us/pl/112/95/s111/c/2/A/vi]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs111%2Fc%2F2%2FA%2Fvi
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
 
 

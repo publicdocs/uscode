@@ -189,7 +189,7 @@
 
     No Federal credit instrument shall be made by the Secretary under this section for the purchase of a regional jet aircraft unless the commuter air carrier or new entrant air carrier enters into a legally binding agreement that requires the carrier to provide scheduled passenger air transportation to the underserved market for which the aircraft is purchased for a period of not less than 36 consecutive months after the date that aircraft is placed in service.
 
-(Added [Pub. L. 106–181, title II, § 210(a)][/us/pl/106/181/s210/a], Apr. 5, 2000, [114 Stat. 97][/us/stat/114/97].)
+(Added [Pub. L. 106–181, title II][/us/pl/106/181/tII], § 210(a), Apr. 5, 2000, [114 Stat. 97][/us/stat/114/97].)
 
 ----------
 
@@ -198,7 +198,7 @@
 ----------
 ----------
 
-[/us/pl/106/181/s210/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs210%2Fa
+[/us/pl/106/181/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtII
 [/us/stat/114/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F97
 
 

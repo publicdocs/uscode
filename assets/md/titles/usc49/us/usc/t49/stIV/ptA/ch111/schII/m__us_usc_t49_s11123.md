@@ -77,7 +77,7 @@
 
     (f) For purposes of this section, the term “commuter rail passenger transportation” has the meaning given that term in section 24102(4). <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
-(Added [Pub. L. 104–88, title I, § 102(a)][/us/pl/104/88/s102/a], Dec. 29, 1995, [109 Stat. 833][/us/stat/109/833]; amended [Pub. L. 108–199, div. F, title I, § 150(1)][/us/pl/108/199/s150/1], Jan. 23, 2004, [118 Stat. 302][/us/stat/118/302].)
+(Added [Pub. L. 104–88, title I][/us/pl/104/88/tI], § 102(a), Dec. 29, 1995, [109 Stat. 833][/us/stat/109/833]; amended [Pub. L. 108–199, div. F, title I][/us/pl/108/199/dF/tI], § 150(1), Jan. 23, 2004, [118 Stat. 302][/us/stat/118/302].)
 
  __References in Text__ 
 
@@ -85,19 +85,19 @@
 
  __Prior Provisions__ 
 
-    A prior section 11123, [Pub. L. 95–473][/us/pl/95/473], Oct. 17, 1978, [92 Stat. 1422][/us/stat/92/1422]; [Pub. L. 96–448, title II, § 226][/us/pl/96/448/s226], Oct. 14, 1980, [94 Stat. 1930][/us/stat/94/1930], related to situations requiring immediate action, prior to the general amendment of this subtitle by [Pub. L. 104–88, § 102(a)][/us/pl/104/88/s102/a].
+    A prior section 11123, [Pub. L. 95–473][/us/pl/95/473], Oct. 17, 1978, [92 Stat. 1422][/us/stat/92/1422]; [Pub. L. 96–448, title II][/us/pl/96/448/tII], § 226, Oct. 14, 1980, [94 Stat. 1930][/us/stat/94/1930], related to situations requiring immediate action, prior to the general amendment of this subtitle by [Pub. L. 104–88][/us/pl/104/88], § 102(a).
 
  __Amendments__ 
 
-    2004—Subsec. (a). [Pub. L. 108–199, § 150(1)(A)(i)][/us/pl/108/199/s150/1/A/i], inserted “failure of existing commuter rail passenger transportation operations caused by a cessation of service by the National Railroad Passenger Corporation,” after “cessation of operations,” in introductory provisions.
+    2004—Subsec. (a). [Pub. L. 108–199][/us/pl/108/199], § 150(1)(A)(i), inserted “failure of existing commuter rail passenger transportation operations caused by a cessation of service by the National Railroad Passenger Corporation,” after “cessation of operations,” in introductory provisions.
 
-    Subsec. (a)(5). [Pub. L. 108–199, § 150(1)(A)(ii)][/us/pl/108/199/s150/1/A/ii]–(iv), added par. (5).
+    Subsec. (a)(5). [Pub. L. 108–199][/us/pl/108/199], § 150(1)(A)(ii)–(iv), added par. (5).
 
-    Subsec. (b)(3). [Pub. L. 108–199, § 150(1)(B)][/us/pl/108/199/s150/1/B], designated existing provisions as subpar. (A), substituted “Except as provided in subparagraph (B), when” for “When”, and added subpar. (B).
+    Subsec. (b)(3). [Pub. L. 108–199][/us/pl/108/199], § 150(1)(B), designated existing provisions as subpar. (A), substituted “Except as provided in subparagraph (B), when” for “When”, and added subpar. (B).
 
-    Subsec. (c)(4). [Pub. L. 108–199, § 150(1)(C)][/us/pl/108/199/s150/1/C], added par. (4).
+    Subsec. (c)(4). [Pub. L. 108–199][/us/pl/108/199], § 150(1)(C), added par. (4).
 
-    Subsecs. (e), (f). [Pub. L. 108–199, § 150(1)(D)][/us/pl/108/199/s150/1/D], added subsecs. (e) and (f).
+    Subsecs. (e), (f). [Pub. L. 108–199][/us/pl/108/199], § 150(1)(D), added subsecs. (e) and (f).
 
 ----------
 
@@ -106,20 +106,20 @@
 ----------
 ----------
 
-[/us/pl/104/88/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs102%2Fa
+[/us/pl/104/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtI
 [/us/stat/109/833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F833
-[/us/pl/108/199/s150/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs150%2F1
+[/us/pl/108/199/dF/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdF%2FtI
 [/us/stat/118/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F302
 [/us/usc/t49/s24102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24102
 [/us/pl/95/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F473
 [/us/stat/92/1422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1422
-[/us/pl/96/448/s226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F448%2Fs226
+[/us/pl/96/448/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F448%2FtII
 [/us/stat/94/1930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1930
-[/us/pl/104/88/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs102%2Fa
-[/us/pl/108/199/s150/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs150%2F1%2FA%2Fi
-[/us/pl/108/199/s150/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs150%2F1%2FA%2Fii
-[/us/pl/108/199/s150/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs150%2F1%2FB
-[/us/pl/108/199/s150/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs150%2F1%2FC
-[/us/pl/108/199/s150/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs150%2F1%2FD
+[/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
+[/us/pl/108/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199
+[/us/pl/108/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199
+[/us/pl/108/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199
+[/us/pl/108/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199
+[/us/pl/108/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199
 
 

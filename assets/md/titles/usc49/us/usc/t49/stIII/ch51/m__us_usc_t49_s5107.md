@@ -101,7 +101,7 @@
 
         (2) training State and local personnel responsible for enforcing the safe transportation of hazardous materials, including Class 3 flammable liquids.
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 763][/us/stat/108/763]; [Pub. L. 103–311, title I][/us/pl/103/311], §§ 106, 119(c)(1)–(3), Aug. 26, 1994, [108 Stat. 1674][/us/stat/108/1674], 1680; [Pub. L. 109–59, title VII][/us/pl/109/59], §§ 7108, 7126, Aug. 10, 2005, [119 Stat. 1897][/us/stat/119/1897], 1909; [Pub. L. 112–141, div. C, title III, § 33016][/us/pl/112/141/s33016], July 6, 2012, [126 Stat. 841][/us/stat/126/841]; [Pub. L. 114–94, div. A, title VII, § 7301][/us/pl/114/94/s7301], Dec. 4, 2015, [129 Stat. 1594][/us/stat/129/1594].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(d), July 5, 1994, [108 Stat. 763][/us/stat/108/763]; [Pub. L. 103–311, title I][/us/pl/103/311/tI], §§ 106, 119(c)(1)–(3), Aug. 26, 1994, [108 Stat. 1674][/us/stat/108/1674], 1680; [Pub. L. 109–59, title VII][/us/pl/109/59/tVII], §§ 7108, 7126, Aug. 10, 2005, [119 Stat. 1897][/us/stat/119/1897], 1909; [Pub. L. 112–141, div. C, title III][/us/pl/112/141/dC/tIII], § 33016, July 6, 2012, [126 Stat. 841][/us/stat/126/841]; [Pub. L. 114–94, div. A, title VII][/us/pl/114/94/dA/tVII], § 7301, Dec. 4, 2015, [129 Stat. 1594][/us/stat/129/1594].)
 
 <table>
 
@@ -255,31 +255,31 @@ Jan. 3, 1975, Pub. L. 93–633, 88 Stat. 2156, § 118(a)–(c); added Nov. 16,
 
     2012—Subsec. (e)(2). [Pub. L. 112–141][/us/pl/112/141] inserted “through a competitive process” after “shall be made” and struck out “hazmat employee” after “nonprofit” in introductory provisions.
 
-    2005—Subsecs. (a) to (d). [Pub. L. 109–59, § 7126][/us/pl/109/59/s7126], substituted “Secretary” for “Secretary of Transportation” in introductory provisions of subsecs. (a) to (c) and “Secretary shall” for “Secretary of Transportation shall” in introductory provisions of subsec. (d).
+    2005—Subsecs. (a) to (d). [Pub. L. 109–59][/us/pl/109/59], § 7126, substituted “Secretary” for “Secretary of Transportation” in introductory provisions of subsecs. (a) to (c) and “Secretary shall” for “Secretary of Transportation shall” in introductory provisions of subsec. (d).
 
-    Subsec. (e). [Pub. L. 109–59, § 7108(1)][/us/pl/109/59/s7108/1], added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows: “The Secretary shall, subject to the availability of funds under section 5127(c)(3), make grants for training instructors to train hazmat employees under this section. A grant under this subsection shall be made to a nonprofit hazmat employee organization that demonstrates—
+    Subsec. (e). [Pub. L. 109–59][/us/pl/109/59], § 7108(1), added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows: “The Secretary shall, subject to the availability of funds under section 5127(c)(3), make grants for training instructors to train hazmat employees under this section. A grant under this subsection shall be made to a nonprofit hazmat employee organization that demonstrates—
 
     “(1) expertise in conducting a training program for hazmat employees; and
 
     “(2) the ability to reach and involve in a training program a target population of hazmat employees.”
 
-    Subsec. (f). [Pub. L. 109–59, § 7108(3)][/us/pl/109/59/s7108/3], added subsec. (f). Former subsec. (f) redesignated (g).
+    Subsec. (f). [Pub. L. 109–59][/us/pl/109/59], § 7108(3), added subsec. (f). Former subsec. (f) redesignated (g).
 
-    Subsec. (g). [Pub. L. 109–59, § 7108(2)][/us/pl/109/59/s7108/2], redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
+    Subsec. (g). [Pub. L. 109–59][/us/pl/109/59], § 7108(2), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
 
-    Subsec. (g)(1). [Pub. L. 109–59, § 7126][/us/pl/109/59/s7126], substituted “Secretary” for “Secretary of Transportation”.
+    Subsec. (g)(1). [Pub. L. 109–59][/us/pl/109/59], § 7126, substituted “Secretary” for “Secretary of Transportation”.
 
-    Subsec. (g)(2). [Pub. L. 109–59, § 7126][/us/pl/109/59/s7126], substituted “Secretary” for “Secretary of Transportation”.
+    Subsec. (g)(2). [Pub. L. 109–59][/us/pl/109/59], § 7126, substituted “Secretary” for “Secretary of Transportation”.
 
-    [Pub. L. 109–59, § 7108(4)][/us/pl/109/59/s7108/4], substituted “section 5106” for “sections 5106, 5108(a)–(g)(1) and (h), and 5109 of this title”.
+    [Pub. L. 109–59][/us/pl/109/59], § 7108(4), substituted “section 5106” for “sections 5106, 5108(a)–(g)(1) and (h), and 5109 of this title”.
 
-    Subsec. (h). [Pub. L. 109–59, § 7108(2)][/us/pl/109/59/s7108/2], redesignated subsec. (g) as (h).
+    Subsec. (h). [Pub. L. 109–59][/us/pl/109/59], § 7108(2), redesignated subsec. (g) as (h).
 
-    1994—Subsec. (d). [Pub. L. 103–311, § 106][/us/pl/103/311/s106], in introductory provisions inserted “or duplicate” after “conflict with” and in par. (1) substituted “hazard communication, and hazardous waste operations, and” for “hazardous waste operations and”.
+    1994—Subsec. (d). [Pub. L. 103–311][/us/pl/103/311], § 106, in introductory provisions inserted “or duplicate” after “conflict with” and in par. (1) substituted “hazard communication, and hazardous waste operations, and” for “hazardous waste operations and”.
 
-    Subsec. (e). [Pub. L. 103–311, § 119(c)(1)][/us/pl/103/311/s119/c/1], (2), in first sentence substituted “The Secretary shall, subject to the availability of funds under section 5127(c)(3), make grants for training instructors to train hazmat employees under this section.” for “In consultation with the Secretaries of Transportation and Labor and the Administrator, the Director of the National Institute of Environmental Health Sciences may make grants to train hazmat employees under this section.” and in second sentence inserted “hazmat employee” after “nonprofit”.
+    Subsec. (e). [Pub. L. 103–311][/us/pl/103/311], § 119(c)(1), (2), in first sentence substituted “The Secretary shall, subject to the availability of funds under section 5127(c)(3), make grants for training instructors to train hazmat employees under this section.” for “In consultation with the Secretaries of Transportation and Labor and the Administrator, the Director of the National Institute of Environmental Health Sciences may make grants to train hazmat employees under this section.” and in second sentence inserted “hazmat employee” after “nonprofit”.
 
-    Subsec. (g). [Pub. L. 103–311, § 119(c)(3)][/us/pl/103/311/s119/c/3], added subsec. (g).
+    Subsec. (g). [Pub. L. 103–311][/us/pl/103/311], § 119(c)(3), added subsec. (g).
 
  __Effective Date of 2015 Amendment__ 
 
@@ -297,30 +297,30 @@ Jan. 3, 1975, Pub. L. 93–633, 88 Stat. 2156, § 118(a)–(c); added Nov. 16,
 ----------
 
 [/us/usc/t29/s653/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs653%2Fb%2F1
-[/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F763
-[/us/pl/103/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311
+[/us/pl/103/311/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311%2FtI
 [/us/stat/108/1674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1674
-[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtVII
 [/us/stat/119/1897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1897
-[/us/pl/112/141/s33016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs33016
+[/us/pl/112/141/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtIII
 [/us/stat/126/841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F841
-[/us/pl/114/94/s7301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs7301
+[/us/pl/114/94/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtVII
 [/us/stat/129/1594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1594
 [/us/usc/t49/s1816/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1816%2Fb
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
-[/us/pl/109/59/s7126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7126
-[/us/pl/109/59/s7108/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7108%2F1
-[/us/pl/109/59/s7108/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7108%2F3
-[/us/pl/109/59/s7108/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7108%2F2
-[/us/pl/109/59/s7126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7126
-[/us/pl/109/59/s7126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7126
-[/us/pl/109/59/s7108/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7108%2F4
-[/us/pl/109/59/s7108/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7108%2F2
-[/us/pl/103/311/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311%2Fs106
-[/us/pl/103/311/s119/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311%2Fs119%2Fc%2F1
-[/us/pl/103/311/s119/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311%2Fs119%2Fc%2F3
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/103/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311
+[/us/pl/103/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311
+[/us/pl/103/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313

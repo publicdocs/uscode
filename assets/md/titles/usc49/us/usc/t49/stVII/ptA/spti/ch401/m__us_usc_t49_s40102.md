@@ -239,7 +239,7 @@
 
     In subpart II of this part, “control” means control by any means.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1097][/us/stat/108/1097]; [Pub. L. 103–305, title VI, § 601(b)(2)(B)][/us/pl/103/305/s601/b/2/B], Aug. 23, 1994, [108 Stat. 1606][/us/stat/108/1606]; [Pub. L. 103–411, § 3(a)][/us/pl/103/411/s3/a], Oct. 25, 1994, [108 Stat. 4236][/us/stat/108/4236]; [Pub. L. 103–429, § 6(46)][/us/pl/103/429/s6/46], Oct. 31, 1994, [108 Stat. 4384][/us/stat/108/4384]; [Pub. L. 105–137, § 6][/us/pl/105/137/s6], Dec. 2, 1997, [111 Stat. 2641][/us/stat/111/2641]; [Pub. L. 106–181, title III, § 301][/us/pl/106/181/s301], title VII, § 702(a), Apr. 5, 2000, [114 Stat. 115][/us/stat/114/115], 155; [Pub. L. 108–176, title II, § 225(a)][/us/pl/108/176/s225/a], title VIII, § 807, Dec. 12, 2003, [117 Stat. 2528][/us/stat/117/2528], 2588; [Pub. L. 110–181, div. A, title X, § 1078(a)][/us/pl/110/181/s1078/a], Jan. 28, 2008, [122 Stat. 334][/us/stat/122/334]; [Pub. L. 112–95, title II, § 205][/us/pl/112/95/s205], Feb. 14, 2012, [126 Stat. 39][/us/stat/126/39].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1097][/us/stat/108/1097]; [Pub. L. 103–305, title VI][/us/pl/103/305/tVI], § 601(b)(2)(B), Aug. 23, 1994, [108 Stat. 1606][/us/stat/108/1606]; [Pub. L. 103–411][/us/pl/103/411], § 3(a), Oct. 25, 1994, [108 Stat. 4236][/us/stat/108/4236]; [Pub. L. 103–429][/us/pl/103/429], § 6(46), Oct. 31, 1994, [108 Stat. 4384][/us/stat/108/4384]; [Pub. L. 105–137][/us/pl/105/137], § 6, Dec. 2, 1997, [111 Stat. 2641][/us/stat/111/2641]; [Pub. L. 106–181, title III][/us/pl/106/181/tIII], § 301, title VII, § 702(a), Apr. 5, 2000, [114 Stat. 115][/us/stat/114/115], 155; [Pub. L. 108–176, title II][/us/pl/108/176/tII], § 225(a), title VIII, § 807, Dec. 12, 2003, [117 Stat. 2528][/us/stat/117/2528], 2588; [Pub. L. 110–181, div. A, title X][/us/pl/110/181/dA/tX], § 1078(a), Jan. 28, 2008, [122 Stat. 334][/us/stat/122/334]; [Pub. L. 112–95, title II][/us/pl/112/95/tII], § 205, Feb. 14, 2012, [126 Stat. 39][/us/stat/126/39].)
 
 <table>
 
@@ -899,13 +899,13 @@ Aug. 23, 1958, Pub. L. 85–726, § 101(36), 72 Stat. 739; Aug. 5, 1974, Pub. 
 
     2008—Subsec. (a)(41)(E). [Pub. L. 110–181][/us/pl/110/181] inserted “or other commercial air service” after “transportation” and inserted at end “In the preceding sentence, the term ‘other commercial air service’ means an aircraft operation that (i) is within the United States territorial airspace; (ii) the Administrator of the Federal Aviation Administration determines is available for compensation or hire to the public, and (iii) must comply with all applicable civil aircraft rules under title 14, Code of Federal Regulations.”
 
-    2003—Subsec. (a)(15)(C). [Pub. L. 108–176, § 807][/us/pl/108/176/s807], inserted “which is under the actual control of citizens of the United States,” before “and in which”.
+    2003—Subsec. (a)(15)(C). [Pub. L. 108–176][/us/pl/108/176], § 807, inserted “which is under the actual control of citizens of the United States,” before “and in which”.
 
-    Subsec. (a)(29) to (47). [Pub. L. 108–176, § 225(a)][/us/pl/108/176/s225/a], added pars. (29), (31), (34), (36), and (42) and redesignated former pars. (29), (30), (31), (32), (33), (34), (35), (36), (37), (38), (39), (40), (41), and (42) as (30), (32), (33), (35), (37), (38), (39), (40), (41), (43), (44), (45), (46), and (47), respectively.
+    Subsec. (a)(29) to (47). [Pub. L. 108–176][/us/pl/108/176], § 225(a), added pars. (29), (31), (34), (36), and (42) and redesignated former pars. (29), (30), (31), (32), (33), (34), (35), (36), (37), (38), (39), (40), (41), and (42) as (30), (32), (33), (35), (37), (38), (39), (40), (41), (43), (44), (45), (46), and (47), respectively.
 
-    2000—Subsec. (a)(37). [Pub. L. 106–181, § 702(a)][/us/pl/106/181/s702/a], amended par. (37) generally, revising and restating provisions defining “public aircraft” to include references to qualifications found in section 40125(b) and (c).
+    2000—Subsec. (a)(37). [Pub. L. 106–181][/us/pl/106/181], § 702(a), amended par. (37) generally, revising and restating provisions defining “public aircraft” to include references to qualifications found in section 40125(b) and (c).
 
-    Subsec. (a)(42). [Pub. L. 106–181, § 301][/us/pl/106/181/s301], added par. (42).
+    Subsec. (a)(42). [Pub. L. 106–181][/us/pl/106/181], § 301, added par. (42).
 
     1997—Subsec. (a)(37)(A). [Pub. L. 105–137][/us/pl/105/137] struck out “or” at end of cl. (i), added cl. (ii), and redesignated former cl. (ii) as (iii).
 
@@ -937,13 +937,13 @@ Aug. 23, 1958, Pub. L. 85–726, § 101(36), 72 Stat. 739; Aug. 5, 1974, Pub. 
 
  __Definitions of Terms in__  __[__  __Pub. L. 107–71__  __][/us/pl/107/71]__ 
 
-[Pub. L. 107–71, title I, § 133][/us/pl/107/71/s133], Nov. 19, 2001, [115 Stat. 636][/us/stat/115/636], provided that: 
+[Pub. L. 107–71, title I][/us/pl/107/71/tI], § 133, Nov. 19, 2001, [115 Stat. 636][/us/stat/115/636], provided that: 
 
 > “Except as otherwise explicitly provided, any term used in this title \[see Tables for classification\] that is defined in [section 40102 of title 49][/us/usc/t49/s40102], United States Code, has the meaning given that term in that section.”
 
  __Definitions Applicable to__  __[__  __Pub. L. 106–181__  __][/us/pl/106/181]__ 
 
-[Pub. L. 106–181, § 4][/us/pl/106/181/s4], Apr. 5, 2000, [114 Stat. 64][/us/stat/114/64], provided that: 
+[Pub. L. 106–181][/us/pl/106/181], § 4, Apr. 5, 2000, [114 Stat. 64][/us/stat/114/64], provided that: 
 
 > “Except as otherwise provided in this Act \[see Tables for classification\], the following definitions apply:
 
@@ -957,7 +957,7 @@ Aug. 23, 1958, Pub. L. 85–726, § 101(36), 72 Stat. 739; Aug. 5, 1974, Pub. 
 
  __Definitions Applicable to__  __[__  __Pub. L. 103–305__  __][/us/pl/103/305]__ 
 
-[Pub. L. 103–305, § 2][/us/pl/103/305/s2], Aug. 23, 1994, [108 Stat. 1570][/us/stat/108/1570], provided that: 
+[Pub. L. 103–305][/us/pl/103/305], § 2, Aug. 23, 1994, [108 Stat. 1570][/us/stat/108/1570], provided that: 
 
 > “In this Act \[see Short Title of 1994 Amendment note set out under [section 40101 of this title][/us/usc/t49/s40101]\], the following definitions apply:
 
@@ -978,32 +978,32 @@ Aug. 23, 1958, Pub. L. 85–726, § 101(36), 72 Stat. 739; Aug. 5, 1974, Pub. 
 
 [/us/usc/t1/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft1%2Fs1
 [/us/usc/t15/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs12
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1097
-[/us/pl/103/305/s601/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2Fs601%2Fb%2F2%2FB
+[/us/pl/103/305/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2FtVI
 [/us/stat/108/1606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1606
-[/us/pl/103/411/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F411%2Fs3%2Fa
+[/us/pl/103/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F411
 [/us/stat/108/4236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4236
-[/us/pl/103/429/s6/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F46
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/stat/108/4384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4384
-[/us/pl/105/137/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F137%2Fs6
+[/us/pl/105/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F137
 [/us/stat/111/2641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2641
-[/us/pl/106/181/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs301
+[/us/pl/106/181/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtIII
 [/us/stat/114/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F115
-[/us/pl/108/176/s225/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs225%2Fa
+[/us/pl/108/176/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtII
 [/us/stat/117/2528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2528
-[/us/pl/110/181/s1078/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1078%2Fa
+[/us/pl/110/181/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtX
 [/us/stat/122/334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F334
-[/us/pl/112/95/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs205
+[/us/pl/112/95/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtII
 [/us/stat/126/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F39
 [/us/usc/t1/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft1%2Fs1
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
-[/us/pl/108/176/s807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs807
-[/us/pl/108/176/s225/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs225%2Fa
-[/us/pl/106/181/s702/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs702%2Fa
-[/us/pl/106/181/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs301
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/pl/105/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F137
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/pl/103/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305
@@ -1025,14 +1025,14 @@ Aug. 23, 1958, Pub. L. 85–726, § 101(36), 72 Stat. 739; Aug. 5, 1974, Pub. 
 [/us/usc/t49/s10521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs10521
 [/us/usc/t43/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1331
 [/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
-[/us/pl/107/71/s133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs133
+[/us/pl/107/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2FtI
 [/us/stat/115/636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F636
 [/us/usc/t49/s40102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40102
 [/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
-[/us/pl/106/181/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs4
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/stat/114/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F64
 [/us/pl/103/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305
-[/us/pl/103/305/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2Fs2
+[/us/pl/103/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305
 [/us/stat/108/1570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1570
 [/us/usc/t49/s40101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40101
 

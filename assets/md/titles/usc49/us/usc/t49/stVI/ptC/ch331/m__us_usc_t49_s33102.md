@@ -53,7 +53,7 @@
 
     This chapter does not authorize the Secretary to require a person to keep records or make reports, except as provided in sections 33104(c), 33106(c), 33108(a), and 33112  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1077][/us/stat/108/1077].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1077][/us/stat/108/1077].)
 
 <table>
 
@@ -167,7 +167,7 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, § 602(e); added Oct. 25, 1984,
 
  __References in Text__ 
 
-    [Section 33112 of this title][/us/usc/t49/s33112], referred to in subsec. (d), was repealed by [Pub. L. 112–141, div. C, title I, § 31313(2)][/us/pl/112/141/s31313/2], July 6, 2012, [126 Stat. 772][/us/stat/126/772].
+    [Section 33112 of this title][/us/usc/t49/s33112], referred to in subsec. (d), was repealed by [Pub. L. 112–141, div. C, title I][/us/pl/112/141/dC/tI], § 31313(2), July 6, 2012, [126 Stat. 772][/us/stat/126/772].
 
 ----------
 
@@ -177,10 +177,10 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, § 602(e); added Oct. 25, 1984,
 ----------
 
 [/us/usc/t49/s33104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs33104
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1077
 [/us/usc/t49/s33112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs33112
-[/us/pl/112/141/s31313/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31313%2F2
+[/us/pl/112/141/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtI
 [/us/stat/126/772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F772
 
 

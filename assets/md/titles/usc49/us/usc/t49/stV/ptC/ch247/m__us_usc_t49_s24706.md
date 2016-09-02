@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t49/stV/ptC/ch247/m__us_usc_t49_s24702.md) | [Next](./../../../../../..//us/usc/t49/stV/ptC/ch247/m__us_usc_t49_s24709.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24706)
+[Previous](./../../../../../..//us/usc/t49/stV/ptC/ch247/m__us_usc_t49_s24703...24705.md) | [Next](./../../../../../..//us/usc/t49/stV/ptC/ch247/m__us_usc_t49_s24707 _us_usc_t49_s24708.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24706)
 
 ## § 24706. Discontinuance
 
@@ -37,7 +37,7 @@
 
     This section applies to all service over routes provided by Amtrak, notwithstanding any provision of [section 24701 of this title][/us/usc/t49/s24701] or any other provision of this title except section 24702(b).
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 927][/us/stat/108/927]; [Pub. L. 105–134, title I][/us/pl/105/134], §§ 101(c), 142(a), Dec. 2, 1997, [111 Stat. 2572][/us/stat/111/2572], 2576; [Pub. L. 110–432, div. B, title II, § 201(d)][/us/pl/110/432/s201/d], Oct. 16, 2008, [122 Stat. 4910][/us/stat/122/4910]; [Pub. L. 114–94, div. A, title XI, § 11316(n)(1)][/us/pl/114/94/s11316/n/1], Dec. 4, 2015, [129 Stat. 1678][/us/stat/129/1678].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 927][/us/stat/108/927]; [Pub. L. 105–134, title I][/us/pl/105/134/tI], §§ 101(c), 142(a), Dec. 2, 1997, [111 Stat. 2572][/us/stat/111/2572], 2576; [Pub. L. 110–432, div. B, title II][/us/pl/110/432/dB/tII], § 201(d), Oct. 16, 2008, [122 Stat. 4910][/us/stat/122/4910]; [Pub. L. 114–94, div. A, title XI][/us/pl/114/94/dA/tXI], § 11316(n)(1), Dec. 4, 2015, [129 Stat. 1678][/us/stat/129/1678].)
 
 <table>
 
@@ -261,21 +261,21 @@ Oct. 30, 1970, Pub. L. 91–518, 84 Stat. 1327, § 405(g); added Aug. 13, 1981
 
  __Amendments__ 
 
-    2015—Subsec. (a)(1). [Pub. L. 114–94, § 11316(n)(1)(A)(i)][/us/pl/114/94/s11316/n/1/A/i], struck out “a discontinuance under section 24704 or or” after “before”.
+    2015—Subsec. (a)(1). [Pub. L. 114–94][/us/pl/114/94], § 11316(n)(1)(A)(i), struck out “a discontinuance under section 24704 or or” after “before”.
 
-    Subsec. (a)(2). [Pub. L. 114–94, § 11316(n)(1)(A)(ii)][/us/pl/114/94/s11316/n/1/A/ii], struck out “section 24704 or” after “under”.
+    Subsec. (a)(2). [Pub. L. 114–94][/us/pl/114/94], § 11316(n)(1)(A)(ii), struck out “section 24704 or” after “under”.
 
-    Subsec. (b)(1). [Pub. L. 114–94, § 11316(n)(1)(B)][/us/pl/114/94/s11316/n/1/B], struck out “section 24704 or” after “under” in introductory provisions.
+    Subsec. (b)(1). [Pub. L. 114–94][/us/pl/114/94], § 11316(n)(1)(B), struck out “section 24704 or” after “under” in introductory provisions.
 
     2008—Subsec. (c). [Pub. L. 110–432][/us/pl/110/432] added subsec. (c).
 
-    1997—Subsec. (a)(1). [Pub. L. 105–134, § 101(c)(1)][/us/pl/105/134/s101/c/1]–(3), substituted “180 days” for “90 days” and “or discontinuing service over a route,” for “24707(a) or (b) of this title,” and inserted “or assume” after “agree to share”.
+    1997—Subsec. (a)(1). [Pub. L. 105–134][/us/pl/105/134], § 101(c)(1)–(3), substituted “180 days” for “90 days” and “or discontinuing service over a route,” for “24707(a) or (b) of this title,” and inserted “or assume” after “agree to share”.
 
-    Subsec. (a)(2). [Pub. L. 105–134, § 101(c)(4)][/us/pl/105/134/s101/c/4], which directed substitution of “paragraph (1)” for “section 24707(a) or (b) of this title”, was executed by making the substitution for “24707(a) or (b) of this title” to reflect the probable intent of Congress.
+    Subsec. (a)(2). [Pub. L. 105–134][/us/pl/105/134], § 101(c)(4), which directed substitution of “paragraph (1)” for “section 24707(a) or (b) of this title”, was executed by making the substitution for “24707(a) or (b) of this title” to reflect the probable intent of Congress.
 
-    Subsec. (b)(1). [Pub. L. 105–134, § 101(c)(5)][/us/pl/105/134/s101/c/5], which directed substitution of “subsection (a)(1)” for “section 24707(a) or (b) of this title”, was executed by making the substitution for “24707(a) or (b) of this title” to reflect the probable intent of Congress.
+    Subsec. (b)(1). [Pub. L. 105–134][/us/pl/105/134], § 101(c)(5), which directed substitution of “subsection (a)(1)” for “section 24707(a) or (b) of this title”, was executed by making the substitution for “24707(a) or (b) of this title” to reflect the probable intent of Congress.
 
-    Subsec. (c). [Pub. L. 105–134, § 142(a)][/us/pl/105/134/s142/a], struck out subsec. (c) which related to employee protective arrangements.
+    Subsec. (c). [Pub. L. 105–134][/us/pl/105/134], § 142(a), struck out subsec. (c) which related to employee protective arrangements.
 
  __Effective Date of 2015 Amendment__ 
 
@@ -291,7 +291,7 @@ Oct. 30, 1970, Pub. L. 91–518, 84 Stat. 1327, § 405(g); added Aug. 13, 1981
 
  __Employee Protection Reforms__ 
 
-[Pub. L. 105–134, title I][/us/pl/105/134], §§ 141, 142, Dec. 2, 1997, [111 Stat. 2575][/us/stat/111/2575], 2576, provided that:
+[Pub. L. 105–134, title I][/us/pl/105/134/tI], §§ 141, 142, Dec. 2, 1997, [111 Stat. 2575][/us/stat/111/2575], 2576, provided that:
 
 > “SEC. 141. __RAILWAY LABOR ACT PROCEDURES.__ 
 
@@ -351,27 +351,21 @@ Oct. 30, 1970, Pub. L. 91–518, 84 Stat. 1327, § 405(g); added Aug. 13, 1981
 
 >     [Section 1172(c) of title 11][/us/usc/t11/s1172/c], United States Code, shall not apply to Amtrak and its employees.”
 
-\[§§ 24707, 24708. __Repealed.__  __[__  __Pub. L. 105–134, title I, § 101(d)__  __][/us/pl/105/134/s101/d]__  __, (e),__  __Dec. 2, 1997__  __,__  __[__  __111 Stat. 2572__  __][/us/stat/111/2572]__  __\]__ 
-
-    Section 24707, [Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 928][/us/stat/108/928], required annual route, financial, and performance reviews.
-
-    Section 24708, [Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 929][/us/stat/108/929], related to continuing, modifying, or discontinuing passenger transportation routes.
-
 ----------
 
-[Previous](./../../../../../..//us/usc/t49/stV/ptC/ch247/m__us_usc_t49_s24702.md) | [Next](./../../../../../..//us/usc/t49/stV/ptC/ch247/m__us_usc_t49_s24709.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24706)
+[Previous](./../../../../../..//us/usc/t49/stV/ptC/ch247/m__us_usc_t49_s24703...24705.md) | [Next](./../../../../../..//us/usc/t49/stV/ptC/ch247/m__us_usc_t49_s24707 _us_usc_t49_s24708.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24706)
 
 ----------
 ----------
 
 [/us/usc/t49/s24701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24701
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F927
-[/us/pl/105/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134
+[/us/pl/105/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2FtI
 [/us/stat/111/2572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2572
-[/us/pl/110/432/s201/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs201%2Fd
+[/us/pl/110/432/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdB%2FtII
 [/us/stat/122/4910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4910
-[/us/pl/114/94/s11316/n/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11316%2Fn%2F1
+[/us/pl/114/94/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtXI
 [/us/stat/129/1678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1678
 [/us/usc/t49/s11347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs11347
 [/us/pl/91/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F518
@@ -379,14 +373,14 @@ Oct. 30, 1970, Pub. L. 91–518, 84 Stat. 1327, § 405(g); added Aug. 13, 1981
 [/us/act/1978-10-17/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1978-10-17%2Fs3%2Fb
 [/us/pl/95/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F473
 [/us/stat/92/1466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1466
-[/us/pl/114/94/s11316/n/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11316%2Fn%2F1%2FA%2Fi
-[/us/pl/114/94/s11316/n/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11316%2Fn%2F1%2FA%2Fii
-[/us/pl/114/94/s11316/n/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11316%2Fn%2F1%2FB
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
-[/us/pl/105/134/s101/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2Fs101%2Fc%2F1
-[/us/pl/105/134/s101/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2Fs101%2Fc%2F4
-[/us/pl/105/134/s101/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2Fs101%2Fc%2F5
-[/us/pl/105/134/s142/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2Fs142%2Fa
+[/us/pl/105/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134
+[/us/pl/105/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134
+[/us/pl/105/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134
+[/us/pl/105/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
@@ -394,7 +388,7 @@ Oct. 30, 1970, Pub. L. 91–518, 84 Stat. 1327, § 405(g); added Aug. 13, 1981
 [/us/pl/105/134/s142/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2Fs142%2Fc
 [/us/pl/111/314/s4/d/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314%2Fs4%2Fd%2F8
 [/us/usc/t49/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs101
-[/us/pl/105/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134
+[/us/pl/105/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2FtI
 [/us/stat/111/2575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2575
 [/us/usc/t45/s156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs156
 [/us/usc/t45/s155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs155
@@ -403,11 +397,5 @@ Oct. 30, 1970, Pub. L. 91–518, 84 Stat. 1327, § 405(g); added Aug. 13, 1981
 [/us/usc/t45/s160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs160
 [/us/usc/t49/s20101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs20101
 [/us/usc/t11/s1172/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs1172%2Fc
-[/us/pl/105/134/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2Fs101%2Fd
-[/us/stat/111/2572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2572
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
-[/us/stat/108/928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F928
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
-[/us/stat/108/929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F929
 
 

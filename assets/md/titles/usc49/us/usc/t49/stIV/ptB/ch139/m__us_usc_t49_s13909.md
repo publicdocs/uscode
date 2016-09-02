@@ -23,7 +23,7 @@
 
     (3) the electronic address of the entity’s surety provider for the submission of claims.
 
-(Added [Pub. L. 112–141, div. C, title II, § 32914(b)(1)][/us/pl/112/141/s32914/b/1], July 6, 2012, [126 Stat. 819][/us/stat/126/819].)
+(Added [Pub. L. 112–141, div. C, title II][/us/pl/112/141/dC/tII], § 32914(b)(1), July 6, 2012, [126 Stat. 819][/us/stat/126/819].)
 
  __Effective Date__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/112/141/s32914/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32914%2Fb%2F1
+[/us/pl/112/141/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtII
 [/us/stat/126/819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F819
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101

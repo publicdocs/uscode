@@ -27,7 +27,7 @@
 
     Notification by a State under this section shall be made in the form and way the Secretary prescribes by regulation.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 974][/us/stat/108/974].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 974][/us/stat/108/974].)
 
 <table>
 
@@ -85,7 +85,7 @@ Oct. 25, 1982, Pub. L. 97–364, § 204, 96 Stat. 1742.  </td>
 ----------
 
 [/us/usc/t49/s30304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30304
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F974
 
 

@@ -27,7 +27,7 @@
 
     When employed by Amtrak, an officer may not have a financial or employment relationship with another rail carrier, except that holding securities issued by a rail carrier is not deemed to be a violation of this subsection if the officer holding the securities makes a complete public disclosure of the holdings and does not participate in any decision directly affecting the rail carrier.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 907][/us/stat/108/907]; [Pub. L. 105–134, title II, § 207][/us/pl/105/134/s207], Dec. 2, 1997, [111 Stat. 2584][/us/stat/111/2584].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 907][/us/stat/108/907]; [Pub. L. 105–134, title II][/us/pl/105/134/tII], § 207, Dec. 2, 1997, [111 Stat. 2584][/us/stat/111/2584].)
 
 <table>
 
@@ -120,9 +120,9 @@ Oct. 30, 1970, Pub. L. 91–518, § 303(d), 84 Stat. 1331; June 22, 1972, Pub.
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F907
-[/us/pl/105/134/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2Fs207
+[/us/pl/105/134/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2FtII
 [/us/stat/111/2584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2584
 [/us/pl/105/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134
 

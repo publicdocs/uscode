@@ -17,7 +17,7 @@
 
     An air carrier may not operate an aircraft nonstop in air transportation between Ronald Reagan Washington National Airport and another airport that is more than 1,250 statute miles away from Ronald Reagan Washington National Airport.
 
-(Added [Pub. L. 105–102, § 2(26)][/us/pl/105/102/s2/26], Nov. 20, 1997, [111 Stat. 2213][/us/stat/111/2213]; amended [Pub. L. 105–154, § 2(a)(1)(D)][/us/pl/105/154/s2/a/1/D], Feb. 6, 1998, [112 Stat. 3][/us/stat/112/3].)
+(Added [Pub. L. 105–102][/us/pl/105/102], § 2(26), Nov. 20, 1997, [111 Stat. 2213][/us/stat/111/2213]; amended [Pub. L. 105–154][/us/pl/105/154], § 2(a)(1)(D), Feb. 6, 1998, [112 Stat. 3][/us/stat/112/3].)
 
 <table>
 
@@ -92,9 +92,9 @@ Oct. 30, 1986, Pub. L. 99–591, title VI, § 6012, 100 Stat. 3341–388.  </t
 ----------
 ----------
 
-[/us/pl/105/102/s2/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102%2Fs2%2F26
+[/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/stat/111/2213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2213
-[/us/pl/105/154/s2/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F154%2Fs2%2Fa%2F1%2FD
+[/us/pl/105/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F154
 [/us/stat/112/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3
 [/us/pl/105/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F154
 

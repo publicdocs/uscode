@@ -21,7 +21,7 @@
 
     (c) The Administrator shall carry out duties and powers prescribed by the Secretary.
 
-([Pub. L. 97–449, § 1(b)][/us/pl/97/449/s1/b], Jan. 12, 1983, [96 Stat. 2417][/us/stat/96/2417]; [Pub. L. 102–240, title III, § 3004(c)(1)][/us/pl/102/240/s3004/c/1], (2), Dec. 18, 1991, [105 Stat. 2088][/us/stat/105/2088].)
+([Pub. L. 97–449][/us/pl/97/449], § 1(b), Jan. 12, 1983, [96 Stat. 2417][/us/stat/96/2417]; [Pub. L. 102–240, title III][/us/pl/102/240/tIII], § 3004(c)(1), (2), Dec. 18, 1991, [105 Stat. 2088][/us/stat/105/2088].)
 
 <table>
 
@@ -77,7 +77,7 @@ Reorg. Plan No. 2 of 1968, eff. July 1, 1968, § 3, 82 Stat. 1369.  </td>
 
  __Change of Name__ 
 
-[Pub. L. 102–240, title III, § 3004(a)][/us/pl/102/240/s3004/a], (b), Dec. 18, 1991, [105 Stat. 2088][/us/stat/105/2088], provided that:
+[Pub. L. 102–240, title III][/us/pl/102/240/tIII], § 3004(a), (b), Dec. 18, 1991, [105 Stat. 2088][/us/stat/105/2088], provided that:
 
 >     “(a)  __Redesignation of UMTA__  __.—__ 
 
@@ -94,13 +94,13 @@ Reorg. Plan No. 2 of 1968, eff. July 1, 1968, § 3, 82 Stat. 1369.  </td>
 ----------
 ----------
 
-[/us/pl/97/449/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449%2Fs1%2Fb
+[/us/pl/97/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449
 [/us/stat/96/2417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2417
-[/us/pl/102/240/s3004/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs3004%2Fc%2F1
+[/us/pl/102/240/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2FtIII
 [/us/stat/105/2088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2088
 [/us/usc/t5/s5314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5314
 [/us/pl/102/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240
-[/us/pl/102/240/s3004/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs3004%2Fa
+[/us/pl/102/240/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2FtIII
 [/us/stat/105/2088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2088
 
 

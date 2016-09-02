@@ -441,7 +441,7 @@
 
         In this section, the term “sterile area” has the meaning given that term in section 1540.5 of title 49, Code of Federal Regulations (or any corresponding similar regulation or ruling).
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1205][/us/stat/108/1205]; [Pub. L. 106–181, title VII, § 717][/us/pl/106/181/s717], Apr. 5, 2000, [114 Stat. 163][/us/stat/114/163]; [Pub. L. 106–528][/us/pl/106/528], §§ 4, 6, Nov. 22, 2000, [114 Stat. 2520][/us/stat/114/2520], 2521; [Pub. L. 107–71, title I][/us/pl/107/71], §§ 101(f)(7)–(9), 106(a), (c), (d), 120, 126(b), 136, 144, Nov. 19, 2001, [115 Stat. 603][/us/stat/115/603], 608–610, 629, 632, 636, 644; [Pub. L. 107–296, title XIV][/us/pl/107/296], §§ 1405, 1406, Nov. 25, 2002, [116 Stat. 2307][/us/stat/116/2307]; [Pub. L. 108–176, title VI, § 606(a)][/us/pl/108/176/s606/a], Dec. 12, 2003, [117 Stat. 2568][/us/stat/117/2568]; [Pub. L. 108–458, title IV][/us/pl/108/458], §§ 4011(a), 4012(a)(1), Dec. 17, 2004, [118 Stat. 3712][/us/stat/118/3712], 3714; [Pub. L. 110–53, title XVI, § 1615(a)][/us/pl/110/53/s1615/a], Aug. 3, 2007, [121 Stat. 486][/us/stat/121/486]; [Pub. L. 111–83, title V, § 553][/us/pl/111/83/s553], Oct. 28, 2009, [123 Stat. 2179][/us/stat/123/2179]; [Pub. L. 112–86, § 2(a)][/us/pl/112/86/s2/a], Jan. 3, 2012, [125 Stat. 1874][/us/stat/125/1874]; [Pub. L. 113–67, div. A, title VI, § 603][/us/pl/113/67/s603], Dec. 26, 2013, [127 Stat. 1188][/us/stat/127/1188].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1205][/us/stat/108/1205]; [Pub. L. 106–181, title VII][/us/pl/106/181/tVII], § 717, Apr. 5, 2000, [114 Stat. 163][/us/stat/114/163]; [Pub. L. 106–528][/us/pl/106/528], §§ 4, 6, Nov. 22, 2000, [114 Stat. 2520][/us/stat/114/2520], 2521; [Pub. L. 107–71, title I][/us/pl/107/71/tI], §§ 101(f)(7)–(9), 106(a), (c), (d), 120, 126(b), 136, 144, Nov. 19, 2001, [115 Stat. 603][/us/stat/115/603], 608–610, 629, 632, 636, 644; [Pub. L. 107–296, title XIV][/us/pl/107/296/tXIV], §§ 1405, 1406, Nov. 25, 2002, [116 Stat. 2307][/us/stat/116/2307]; [Pub. L. 108–176, title VI][/us/pl/108/176/tVI], § 606(a), Dec. 12, 2003, [117 Stat. 2568][/us/stat/117/2568]; [Pub. L. 108–458, title IV][/us/pl/108/458/tIV], §§ 4011(a), 4012(a)(1), Dec. 17, 2004, [118 Stat. 3712][/us/stat/118/3712], 3714; [Pub. L. 110–53, title XVI][/us/pl/110/53/tXVI], § 1615(a), Aug. 3, 2007, [121 Stat. 486][/us/stat/121/486]; [Pub. L. 111–83, title V][/us/pl/111/83/tV], § 553, Oct. 28, 2009, [123 Stat. 2179][/us/stat/123/2179]; [Pub. L. 112–86][/us/pl/112/86], § 2(a), Jan. 3, 2012, [125 Stat. 1874][/us/stat/125/1874]; [Pub. L. 113–67, div. A, title VI][/us/pl/113/67/dA/tVI], § 603, Dec. 26, 2013, [127 Stat. 1188][/us/stat/127/1188].)
 
 <table>
 
@@ -601,73 +601,73 @@ Aug. 8, 1985, Pub. L. 99–83, § 553(b), 99 Stat. 226.  </td>
 
     2007—Subsec. (h)(6). [Pub. L. 110–53][/us/pl/110/53] amended par. (6) generally. Prior to amendment, par. (6) related to establishment of a uniform law enforcement officer travel credential incorporating biometric identifier technology not later than 120 days after Dec. 17, 2004.
 
-    2004—Subsec. (h)(4)(E). [Pub. L. 108–458, § 4011(a)(1)][/us/pl/108/458/s4011/a/1], substituted “shall issue, not later than March 31, 2005, guidance for” for “may provide for”.
+    2004—Subsec. (h)(4)(E). [Pub. L. 108–458][/us/pl/108/458], § 4011(a)(1), substituted “shall issue, not later than March 31, 2005, guidance for” for “may provide for”.
 
-    Subsec. (h)(5) to (7). [Pub. L. 108–458, § 4011(a)(2)][/us/pl/108/458/s4011/a/2], added pars. (5) to (7).
+    Subsec. (h)(5) to (7). [Pub. L. 108–458][/us/pl/108/458], § 4011(a)(2), added pars. (5) to (7).
 
-    Subsec. (j)(2)(C) to (H). [Pub. L. 108–458, § 4012(a)(1)][/us/pl/108/458/s4012/a/1], added subpars. (C) to (H).
+    Subsec. (j)(2)(C) to (H). [Pub. L. 108–458][/us/pl/108/458], § 4012(a)(1), added subpars. (C) to (H).
 
     2003—Subsec. (l). [Pub. L. 108–176][/us/pl/108/176] added subsec. (l).
 
-    2002—Subsec. (h). [Pub. L. 107–296, § 1406(3)][/us/pl/107/296/s1406/3], redesignated subsec. (h), relating to limitation on liability for acts to thwart criminal violence or aircraft piracy, as (k).
+    2002—Subsec. (h). [Pub. L. 107–296][/us/pl/107/296], § 1406(3), redesignated subsec. (h), relating to limitation on liability for acts to thwart criminal violence or aircraft piracy, as (k).
 
-    [Pub. L. 107–296, § 1406(2)][/us/pl/107/296/s1406/2], redesignated subsec. (h), relating to authority to arm flight deck crews with less-than-lethal weapons, as (i).
+    [Pub. L. 107–296][/us/pl/107/296], § 1406(2), redesignated subsec. (h), relating to authority to arm flight deck crews with less-than-lethal weapons, as (i).
 
-    Subsec. (i). [Pub. L. 107–296, § 1406(2)][/us/pl/107/296/s1406/2], redesignated subsec. (h), relating to authority to arm flight deck crews with less-than-lethal weapons, as (i). Former subsec. (i) redesignated (j).
+    Subsec. (i). [Pub. L. 107–296][/us/pl/107/296], § 1406(2), redesignated subsec. (h), relating to authority to arm flight deck crews with less-than-lethal weapons, as (i). Former subsec. (i) redesignated (j).
 
-    Subsec. (i)(1). [Pub. L. 107–296, § 1405(b)(1)][/us/pl/107/296/s1405/b/1], substituted “If the Under Secretary” for “If the Secretary” and “the Under Secretary may” for “the Secretary may”.
+    Subsec. (i)(1). [Pub. L. 107–296][/us/pl/107/296], § 1405(b)(1), substituted “If the Under Secretary” for “If the Secretary” and “the Under Secretary may” for “the Secretary may”.
 
-    Subsec. (i)(2). [Pub. L. 107–296, § 1405(b)(2)][/us/pl/107/296/s1405/b/2], substituted “Under Secretary” for “Secretary” in two places in introductory provisions.
+    Subsec. (i)(2). [Pub. L. 107–296][/us/pl/107/296], § 1405(b)(2), substituted “Under Secretary” for “Secretary” in two places in introductory provisions.
 
-    Subsec. (i)(3). [Pub. L. 107–296, § 1405(a)][/us/pl/107/296/s1405/a], added par. (3).
+    Subsec. (i)(3). [Pub. L. 107–296][/us/pl/107/296], § 1405(a), added par. (3).
 
-    Subsec. (j). [Pub. L. 107–296, § 1406(1)][/us/pl/107/296/s1406/1], redesignated subsec. (i) as (j).
+    Subsec. (j). [Pub. L. 107–296][/us/pl/107/296], § 1406(1), redesignated subsec. (i) as (j).
 
-    Subsec. (k). [Pub. L. 107–296, § 1406(3)][/us/pl/107/296/s1406/3], redesignated subsec. (h), relating to limitation on liability for acts to thwart criminal violence or aircraft piracy, as (k).
+    Subsec. (k). [Pub. L. 107–296][/us/pl/107/296], § 1406(3), redesignated subsec. (h), relating to limitation on liability for acts to thwart criminal violence or aircraft piracy, as (k).
 
-    2001—Subsec. (a)(2). [Pub. L. 107–71, § 101(f)(7)][/us/pl/107/71/s101/f/7], (9), substituted “Under Secretary of Transportation for Security” for “Administrator of the Federal Aviation Administration”.
+    2001—Subsec. (a)(2). [Pub. L. 107–71][/us/pl/107/71], § 101(f)(7), (9), substituted “Under Secretary of Transportation for Security” for “Administrator of the Federal Aviation Administration”.
 
-    Subsec. (b). [Pub. L. 107–71, § 101(f)(7)][/us/pl/107/71/s101/f/7], substituted “Under Secretary” for “Administrator” in two places in introductory provisions.
+    Subsec. (b). [Pub. L. 107–71][/us/pl/107/71], § 101(f)(7), substituted “Under Secretary” for “Administrator” in two places in introductory provisions.
 
-    Subsec. (c)(1), (2)(A), (B). [Pub. L. 107–71, § 101(f)(7)][/us/pl/107/71/s101/f/7], substituted “Under Secretary” for “Administrator” wherever appearing.
+    Subsec. (c)(1), (2)(A), (B). [Pub. L. 107–71][/us/pl/107/71], § 101(f)(7), substituted “Under Secretary” for “Administrator” wherever appearing.
 
-    Subsec. (c)(2)(C). [Pub. L. 107–71, § 120][/us/pl/107/71/s120], amended heading and text of subpar. (C) generally, substituting provisions relating to maximum use of chemical and biological weapon detection equipment for provisions relating to a manual process at explosive detection locations for randomly selecting additional checked bags for screening.
+    Subsec. (c)(2)(C). [Pub. L. 107–71][/us/pl/107/71], § 120, amended heading and text of subpar. (C) generally, substituting provisions relating to maximum use of chemical and biological weapon detection equipment for provisions relating to a manual process at explosive detection locations for randomly selecting additional checked bags for screening.
 
-    Subsec. (c)(3). [Pub. L. 107–71, § 106(d)][/us/pl/107/71/s106/d], added par. (3).
+    Subsec. (c)(3). [Pub. L. 107–71][/us/pl/107/71], § 106(d), added par. (3).
 
-    Subsecs. (e), (f), (g)(1)(A), (B). [Pub. L. 107–71, § 101(f)(7)][/us/pl/107/71/s101/f/7], substituted “Under Secretary” for “Administrator” wherever appearing.
+    Subsecs. (e), (f), (g)(1)(A), (B). [Pub. L. 107–71][/us/pl/107/71], § 101(f)(7), substituted “Under Secretary” for “Administrator” wherever appearing.
 
-    Subsec. (g)(2). [Pub. L. 107–71, § 101(f)(7)][/us/pl/107/71/s101/f/7], substituted “Under Secretary” for “Administrator” in introductory provisions.
+    Subsec. (g)(2). [Pub. L. 107–71][/us/pl/107/71], § 101(f)(7), substituted “Under Secretary” for “Administrator” in introductory provisions.
 
-    Subsec. (g)(2)(A). [Pub. L. 107–71, § 106(c)(1)][/us/pl/107/71/s106/c/1], substituted “weaknesses;” for “weaknesses by January 31, 2001;”.
+    Subsec. (g)(2)(A). [Pub. L. 107–71][/us/pl/107/71], § 106(c)(1), substituted “weaknesses;” for “weaknesses by January 31, 2001;”.
 
-    Subsec. (g)(2)(D). [Pub. L. 107–71, § 106(c)(2)][/us/pl/107/71/s106/c/2], added subpar. (D) and struck out former subpar. (D) which read as follows: “assess and test for compliance with access control requirements, report findings, and assess penalties or take other appropriate enforcement actions when noncompliance is found;”.
+    Subsec. (g)(2)(D). [Pub. L. 107–71][/us/pl/107/71], § 106(c)(2), added subpar. (D) and struck out former subpar. (D) which read as follows: “assess and test for compliance with access control requirements, report findings, and assess penalties or take other appropriate enforcement actions when noncompliance is found;”.
 
-    Subsec. (g)(2)(C). [Pub. L. 107–71, § 101(f)(7)][/us/pl/107/71/s101/f/7], substituted “Under Secretary” for “Administrator”.
+    Subsec. (g)(2)(C). [Pub. L. 107–71][/us/pl/107/71], § 101(f)(7), substituted “Under Secretary” for “Administrator”.
 
-    Subsec. (g)(2)(E). [Pub. L. 107–71, § 101(f)(8)][/us/pl/107/71/s101/f/8], substituted “Under Secretary’s” for “Administrator’s”.
+    Subsec. (g)(2)(E). [Pub. L. 107–71][/us/pl/107/71], § 101(f)(8), substituted “Under Secretary’s” for “Administrator’s”.
 
     Subsec. (g)(2)(F). [Pub. L. 107–71][/us/pl/107/71], §§ 101(f)(8), 106(c)(3), substituted “Under Secretary’s” for “Administrator’s” and “program;” for “program by January 31, 2001;”.
 
-    Subsec. (g)(2)(G). [Pub. L. 107–71, § 106(c)(4)][/us/pl/107/71/s106/c/4], added subpar. (G) and struck out former subpar. (G) which read as follows: “require airport operators and air carriers to strengthen access control points in secured areas (including air traffic control operations areas) to ensure the security of passengers and aircraft by January 31, 2001.”
+    Subsec. (g)(2)(G). [Pub. L. 107–71][/us/pl/107/71], § 106(c)(4), added subpar. (G) and struck out former subpar. (G) which read as follows: “require airport operators and air carriers to strengthen access control points in secured areas (including air traffic control operations areas) to ensure the security of passengers and aircraft by January 31, 2001.”
 
-    Subsec. (h). [Pub. L. 107–71, § 144][/us/pl/107/71/s144], which directed that subsec. (h) relating to limitation on liability for acts to thwart criminal violence or aircraft piracy be added at end of section 44903, without specifying the Code title to be amended, was executed by making the addition at the end of this section, to reflect the probable intent of Congress.
+    Subsec. (h). [Pub. L. 107–71][/us/pl/107/71], § 144, which directed that subsec. (h) relating to limitation on liability for acts to thwart criminal violence or aircraft piracy be added at end of section 44903, without specifying the Code title to be amended, was executed by making the addition at the end of this section, to reflect the probable intent of Congress.
 
-    [Pub. L. 107–71, § 126(b)][/us/pl/107/71/s126/b], added subsec. (h) relating to authority to arm flight deck crews with less-than-lethal weapons.
+    [Pub. L. 107–71][/us/pl/107/71], § 126(b), added subsec. (h) relating to authority to arm flight deck crews with less-than-lethal weapons.
 
-    [Pub. L. 107–71, § 106(a)][/us/pl/107/71/s106/a], added subsec. (h) relating to improved airport perimeter access security.
+    [Pub. L. 107–71][/us/pl/107/71], § 106(a), added subsec. (h) relating to improved airport perimeter access security.
 
-    Subsec. (i). [Pub. L. 107–71, § 136][/us/pl/107/71/s136], added subsec. (i).
+    Subsec. (i). [Pub. L. 107–71][/us/pl/107/71], § 136, added subsec. (i).
 
-    2000—Subsec. (c)(2)(C). [Pub. L. 106–528, § 6][/us/pl/106/528/s6], added subpar. (C).
+    2000—Subsec. (c)(2)(C). [Pub. L. 106–528][/us/pl/106/528], § 6, added subpar. (C).
 
     Subsec. (f). [Pub. L. 106–181][/us/pl/106/181] added subsec. (f).
 
-    Subsec. (g). [Pub. L. 106–528, § 4][/us/pl/106/528/s4], added subsec. (g).
+    Subsec. (g). [Pub. L. 106–528][/us/pl/106/528], § 4, added subsec. (g).
 
  __Effective Date of 2012 Amendment__ 
 
-[Pub. L. 112–86, § 2(b)][/us/pl/112/86/s2/b], Jan. 3, 2012, [125 Stat. 1875][/us/stat/125/1875], provided that: 
+[Pub. L. 112–86][/us/pl/112/86], § 2(b), Jan. 3, 2012, [125 Stat. 1875][/us/stat/125/1875], provided that: 
 
 > “Not later than 180 days after the date of enactment of this Act \[Jan. 3, 2012\], the Assistant Secretary shall implement the plan required by this Act \[amending this section and enacting provisions set out as a note under [section 40101 of this title][/us/usc/t49/s40101]\].”
 
@@ -803,13 +803,13 @@ Aug. 8, 1985, Pub. L. 99–83, § 553(b), 99 Stat. 226.  </td>
 
  __Cabin Flight Crew Participation in Known Crewmember Pilot Program__ 
 
-[Pub. L. 113–6, div. D, title II][/us/pl/113/6], Mar. 26, 2013, [127 Stat. 349][/us/stat/127/349], provided in part: 
+[Pub. L. 113–6, div. D, title II][/us/pl/113/6/dD/tII], Mar. 26, 2013, [127 Stat. 349][/us/stat/127/349], provided in part: 
 
 > “That the Administrator of the Transportation Security Administration shall, within 270 days of the date of enactment of this Act \[Mar. 26, 2013\], establish procedures allowing members of cabin flight crews of air carriers to participate in the Known Crewmember pilot program, unless the Administrator determines that meeting the requirement within this timeline is not practicable and informs the Committees on Appropriations of the Senate and House of Representatives of the basis for that determination and the new timeline for implementing the requirement”.
 
  __Strategic Plan To Test and Implement Advanced Passenger Prescreening System__ 
 
-[Pub. L. 110–53, title XVI, § 1605][/us/pl/110/53/s1605], Aug. 3, 2007, [121 Stat. 481][/us/stat/121/481], provided that:
+[Pub. L. 110–53, title XVI][/us/pl/110/53/tXVI], § 1605, Aug. 3, 2007, [121 Stat. 481][/us/stat/121/481], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -839,7 +839,7 @@ Aug. 8, 1985, Pub. L. 99–83, § 553(b), 99 Stat. 226.  </td>
 
  __Pilot Project To Test Different Technologies at Airport Exit Lanes__ 
 
-[Pub. L. 110–53, title XVI, § 1613][/us/pl/110/53/s1613], Aug. 3, 2007, [121 Stat. 485][/us/stat/121/485], provided that:
+[Pub. L. 110–53, title XVI][/us/pl/110/53/tXVI], § 1613, Aug. 3, 2007, [121 Stat. 485][/us/stat/121/485], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -901,7 +901,7 @@ Aug. 8, 1985, Pub. L. 99–83, § 553(b), 99 Stat. 226.  </td>
 
  __Security Credentials for Airline Crews__ 
 
-[Pub. L. 110–53, title XVI, § 1614][/us/pl/110/53/s1614], Aug. 3, 2007, [121 Stat. 486][/us/stat/121/486], provided that:
+[Pub. L. 110–53, title XVI][/us/pl/110/53/tXVI], § 1614, Aug. 3, 2007, [121 Stat. 486][/us/stat/121/486], provided that:
 
 >     “(a)  __Report__  __.—__ 
 
@@ -913,7 +913,7 @@ Aug. 8, 1985, Pub. L. 99–83, § 553(b), 99 Stat. 226.  </td>
 
  __CAPPS2__ 
 
-[Pub. L. 108–176, title VI, § 607][/us/pl/108/176/s607], Dec. 12, 2003, [117 Stat. 2568][/us/stat/117/2568], provided that:
+[Pub. L. 108–176, title VI][/us/pl/108/176/tVI], § 607, Dec. 12, 2003, [117 Stat. 2568][/us/stat/117/2568], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -941,7 +941,7 @@ Aug. 8, 1985, Pub. L. 99–83, § 553(b), 99 Stat. 226.  </td>
 
  __Reimbursement of Air Carriers for Certain Screening and Related Activities__ 
 
-[Pub. L. 108–176, title VIII, § 821][/us/pl/108/176/s821], Dec. 12, 2003, [117 Stat. 2594][/us/stat/117/2594], provided that: 
+[Pub. L. 108–176, title VIII][/us/pl/108/176/tVIII], § 821, Dec. 12, 2003, [117 Stat. 2594][/us/stat/117/2594], provided that: 
 
 > “The Secretary of Homeland Security, subject to the availability of funds (other than amounts in the Aviation Trust Fund) provided for this purpose, shall reimburse air carriers and airports for—
 
@@ -951,7 +951,7 @@ Aug. 8, 1985, Pub. L. 99–83, § 553(b), 99 Stat. 226.  </td>
 
  __Improved Flight Deck Integrity Measures__ 
 
-[Pub. L. 107–71, title I, § 104][/us/pl/107/71/s104], Nov. 19, 2001, [115 Stat. 605][/us/stat/115/605], provided that:
+[Pub. L. 107–71, title I][/us/pl/107/71/tI], § 104, Nov. 19, 2001, [115 Stat. 605][/us/stat/115/605], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -987,7 +987,7 @@ Aug. 8, 1985, Pub. L. 99–83, § 553(b), 99 Stat. 226.  </td>
 
  __Small and Medium Airports__ 
 
-[Pub. L. 107–71, title I, § 106(b)][/us/pl/107/71/s106/b], Nov. 19, 2001, [115 Stat. 609][/us/stat/115/609], provided that:
+[Pub. L. 107–71, title I][/us/pl/107/71/tI], § 106(b), Nov. 19, 2001, [115 Stat. 609][/us/stat/115/609], provided that:
 
 >     “(1)  __Technical support and financial assistance__  __.—__ 
 
@@ -1017,19 +1017,19 @@ Aug. 8, 1985, Pub. L. 99–83, § 553(b), 99 Stat. 226.  </td>
 
  __Airport Security Awareness Programs__ 
 
-[Pub. L. 107–71, title I, § 106(e)][/us/pl/107/71/s106/e], Nov. 19, 2001, [115 Stat. 610][/us/stat/115/610], provided that: 
+[Pub. L. 107–71, title I][/us/pl/107/71/tI], § 106(e), Nov. 19, 2001, [115 Stat. 610][/us/stat/115/610], provided that: 
 
 > “The Under Secretary of Transportation for Security shall require scheduled passenger air carriers, and airports in the United States described in section 44903(c) \[of title 49\] to develop security awareness programs for airport employees, ground crews, gate, ticket, and curbside agents of the air carriers, and other individuals employed at such airports.”
 
  __Airline Computer Reservation Systems__ 
 
-[Pub. L. 107–71, title I, § 117][/us/pl/107/71/s117], Nov. 19, 2001, [115 Stat. 624][/us/stat/115/624], provided that: 
+[Pub. L. 107–71, title I][/us/pl/107/71/tI], § 117, Nov. 19, 2001, [115 Stat. 624][/us/stat/115/624], provided that: 
 
 > “In order to ensure that all airline computer reservation systems maintained by United States air carriers are secure from unauthorized access by persons seeking information on reservations, passenger manifests, or other nonpublic information, the Secretary of Transportation shall require all such air carriers to utilize to the maximum extent practicable the best technology available to secure their computer reservation system against such unauthorized access.”
 
  __Authorization of Funds for Reimbursement of Airports for Security Mandates__ 
 
-[Pub. L. 107–71, title I, § 121][/us/pl/107/71/s121], Nov. 19, 2001, [115 Stat. 630][/us/stat/115/630], provided that:
+[Pub. L. 107–71, title I][/us/pl/107/71/tI], § 121, Nov. 19, 2001, [115 Stat. 630][/us/stat/115/630], provided that:
 
 >     “(a)  __Airport Security__  __.—__ 
 
@@ -1051,15 +1051,15 @@ Aug. 8, 1985, Pub. L. 99–83, § 553(b), 99 Stat. 226.  </td>
 
  __Flight Deck Security__ 
 
-    [Pub. L. 107–71, title I, § 128][/us/pl/107/71/s128], Nov. 19, 2001, [115 Stat. 633][/us/stat/115/633], which authorized the pilot of a passenger aircraft to carry a firearm into the cockpit if approved by the Under Secretary of Transportation for Security and the air carrier, if the firearm is approved by the Under Secretary, and if the pilot has received proper training, was repealed by [Pub. L. 107–296, title XIV, § 1402(b)(2)][/us/pl/107/296/s1402/b/2], Nov. 25, 2002, [116 Stat. 2305][/us/stat/116/2305].
+    [Pub. L. 107–71, title I][/us/pl/107/71/tI], § 128, Nov. 19, 2001, [115 Stat. 633][/us/stat/115/633], which authorized the pilot of a passenger aircraft to carry a firearm into the cockpit if approved by the Under Secretary of Transportation for Security and the air carrier, if the firearm is approved by the Under Secretary, and if the pilot has received proper training, was repealed by [Pub. L. 107–296, title XIV][/us/pl/107/296/tXIV], § 1402(b)(2), Nov. 25, 2002, [116 Stat. 2305][/us/stat/116/2305].
 
  __Charter Air Carriers__ 
 
-    [Pub. L. 107–71, title I, § 132(a)][/us/pl/107/71/s132/a], Nov. 19, 2001, [115 Stat. 635][/us/stat/115/635], which provided that within 90 days after Nov. 19, 2001, the Under Secretary of Transportation for Security was to implement an aviation security program for charter air carriers with a maximum certificated takeoff weight of 12,500 pounds or more, was repealed by [Pub. L. 108–176, title VI, § 606(b)][/us/pl/108/176/s606/b], Dec. 12, 2003, [117 Stat. 2568][/us/stat/117/2568].
+    [Pub. L. 107–71, title I][/us/pl/107/71/tI], § 132(a), Nov. 19, 2001, [115 Stat. 635][/us/stat/115/635], which provided that within 90 days after Nov. 19, 2001, the Under Secretary of Transportation for Security was to implement an aviation security program for charter air carriers with a maximum certificated takeoff weight of 12,500 pounds or more, was repealed by [Pub. L. 108–176, title VI][/us/pl/108/176/tVI], § 606(b), Dec. 12, 2003, [117 Stat. 2568][/us/stat/117/2568].
 
  __Physical Security for ATC Facilities__ 
 
-[Pub. L. 106–528, § 5][/us/pl/106/528/s5], Nov. 22, 2000, [114 Stat. 2521][/us/stat/114/2521], provided that:
+[Pub. L. 106–528][/us/pl/106/528], § 5, Nov. 22, 2000, [114 Stat. 2521][/us/stat/114/2521], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -1075,7 +1075,7 @@ Aug. 8, 1985, Pub. L. 99–83, § 553(b), 99 Stat. 226.  </td>
 
  __Deputizing of State and Local Law Enforcement Officers__ 
 
-[Pub. L. 106–181, title V, § 512][/us/pl/106/181/s512], Apr. 5, 2000, [114 Stat. 142][/us/stat/114/142], provided that:
+[Pub. L. 106–181, title V][/us/pl/106/181/tV], § 512, Apr. 5, 2000, [114 Stat. 142][/us/stat/114/142], provided that:
 
 >     “(a)  __Definitions__  __.—__ 
 
@@ -1161,7 +1161,7 @@ Aug. 8, 1985, Pub. L. 99–83, § 553(b), 99 Stat. 226.  </td>
 
  __Development of Aviation Security Liaison Agreement__ 
 
-[Pub. L. 104–264, title III, § 309][/us/pl/104/264/s309], Oct. 9, 1996, [110 Stat. 3253][/us/stat/110/3253], provided that: 
+[Pub. L. 104–264, title III][/us/pl/104/264/tIII], § 309, Oct. 9, 1996, [110 Stat. 3253][/us/stat/110/3253], provided that: 
 
 > “The Secretary of Transportation and the Attorney General, acting through the Administrator of the Federal Aviation Administration and the Director of the Federal Bureau of Investigation, shall enter into an interagency agreement providing for the establishment of an aviation security liaison at existing appropriate Federal agencies’ field offices in or near cities served by a designated high-risk airport.”
 
@@ -1181,27 +1181,27 @@ Aug. 8, 1985, Pub. L. 99–83, § 553(b), 99 Stat. 226.  </td>
 [/us/stat/117/2568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2568
 [/us/usc/t10/s101/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2Fa%2F4
 [/us/usc/t49/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs114
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1205
-[/us/pl/106/181/s717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs717
+[/us/pl/106/181/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtVII
 [/us/stat/114/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F163
 [/us/pl/106/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F528
 [/us/stat/114/2520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2520
-[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2FtI
 [/us/stat/115/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F603
-[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/296/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXIV
 [/us/stat/116/2307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2307
-[/us/pl/108/176/s606/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs606%2Fa
+[/us/pl/108/176/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtVI
 [/us/stat/117/2568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2568
-[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtIV
 [/us/stat/118/3712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3712
-[/us/pl/110/53/s1615/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1615%2Fa
+[/us/pl/110/53/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXVI
 [/us/stat/121/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F486
-[/us/pl/111/83/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F83%2Fs553
+[/us/pl/111/83/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F83%2FtV
 [/us/stat/123/2179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2179
-[/us/pl/112/86/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F86%2Fs2%2Fa
+[/us/pl/112/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F86
 [/us/stat/125/1874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1874
-[/us/pl/113/67/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs603
+[/us/pl/113/67/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2FdA%2FtVI
 [/us/stat/127/1188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1188
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
@@ -1215,39 +1215,39 @@ Aug. 8, 1985, Pub. L. 99–83, § 553(b), 99 Stat. 226.  </td>
 [/us/pl/112/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F86
 [/us/pl/111/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F83
 [/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
-[/us/pl/108/458/s4011/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs4011%2Fa%2F1
-[/us/pl/108/458/s4011/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs4011%2Fa%2F2
-[/us/pl/108/458/s4012/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs4012%2Fa%2F1
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
-[/us/pl/107/296/s1406/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1406%2F3
-[/us/pl/107/296/s1406/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1406%2F2
-[/us/pl/107/296/s1406/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1406%2F2
-[/us/pl/107/296/s1405/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1405%2Fb%2F1
-[/us/pl/107/296/s1405/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1405%2Fb%2F2
-[/us/pl/107/296/s1405/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1405%2Fa
-[/us/pl/107/296/s1406/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1406%2F1
-[/us/pl/107/296/s1406/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1406%2F3
-[/us/pl/107/71/s101/f/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs101%2Ff%2F7
-[/us/pl/107/71/s101/f/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs101%2Ff%2F7
-[/us/pl/107/71/s101/f/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs101%2Ff%2F7
-[/us/pl/107/71/s120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs120
-[/us/pl/107/71/s106/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs106%2Fd
-[/us/pl/107/71/s101/f/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs101%2Ff%2F7
-[/us/pl/107/71/s101/f/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs101%2Ff%2F7
-[/us/pl/107/71/s106/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs106%2Fc%2F1
-[/us/pl/107/71/s106/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs106%2Fc%2F2
-[/us/pl/107/71/s101/f/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs101%2Ff%2F7
-[/us/pl/107/71/s101/f/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs101%2Ff%2F8
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
-[/us/pl/107/71/s106/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs106%2Fc%2F4
-[/us/pl/107/71/s144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs144
-[/us/pl/107/71/s126/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs126%2Fb
-[/us/pl/107/71/s106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs106%2Fa
-[/us/pl/107/71/s136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs136
-[/us/pl/106/528/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F528%2Fs6
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/106/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F528
 [/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
-[/us/pl/106/528/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F528%2Fs4
-[/us/pl/112/86/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F86%2Fs2%2Fb
+[/us/pl/106/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F528
+[/us/pl/112/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F86
 [/us/stat/125/1875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1875
 [/us/usc/t49/s40101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40101
 [/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
@@ -1265,45 +1265,45 @@ Aug. 8, 1985, Pub. L. 99–83, § 553(b), 99 Stat. 226.  </td>
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/pl/114/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F50
 [/us/stat/129/490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F490
-[/us/pl/113/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6
+[/us/pl/113/6/dD/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6%2FdD%2FtII
 [/us/stat/127/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F349
-[/us/pl/110/53/s1605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1605
+[/us/pl/110/53/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXVI
 [/us/stat/121/481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F481
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
-[/us/pl/110/53/s1613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1613
+[/us/pl/110/53/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXVI
 [/us/stat/121/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F485
-[/us/pl/110/53/s1614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1614
+[/us/pl/110/53/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXVI
 [/us/stat/121/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F486
-[/us/pl/108/176/s607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs607
+[/us/pl/108/176/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtVI
 [/us/stat/117/2568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2568
-[/us/pl/108/176/s821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs821
+[/us/pl/108/176/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtVIII
 [/us/stat/117/2594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2594
-[/us/pl/107/71/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs104
+[/us/pl/107/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2FtI
 [/us/stat/115/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F605
-[/us/pl/107/71/s106/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs106%2Fb
+[/us/pl/107/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2FtI
 [/us/stat/115/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F609
 [/us/usc/t49/s41714/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs41714%2Fh
-[/us/pl/107/71/s106/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs106%2Fe
+[/us/pl/107/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2FtI
 [/us/stat/115/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F610
-[/us/pl/107/71/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs117
+[/us/pl/107/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2FtI
 [/us/stat/115/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F624
-[/us/pl/107/71/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs121
+[/us/pl/107/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2FtI
 [/us/stat/115/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F630
-[/us/pl/107/71/s128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs128
+[/us/pl/107/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2FtI
 [/us/stat/115/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F633
-[/us/pl/107/296/s1402/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1402%2Fb%2F2
+[/us/pl/107/296/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXIV
 [/us/stat/116/2305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2305
-[/us/pl/107/71/s132/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs132%2Fa
+[/us/pl/107/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2FtI
 [/us/stat/115/635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F635
-[/us/pl/108/176/s606/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs606%2Fb
+[/us/pl/108/176/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtVI
 [/us/stat/117/2568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2568
-[/us/pl/106/528/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F528%2Fs5
+[/us/pl/106/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F528
 [/us/stat/114/2521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2521
-[/us/pl/106/181/s512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs512
+[/us/pl/106/181/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtV
 [/us/stat/114/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F142
 [/us/usc/t49/s40102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40102
 [/us/usc/t49/s46301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs46301
-[/us/pl/104/264/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs309
+[/us/pl/104/264/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2FtIII
 [/us/stat/110/3253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3253
 [/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
 [/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71

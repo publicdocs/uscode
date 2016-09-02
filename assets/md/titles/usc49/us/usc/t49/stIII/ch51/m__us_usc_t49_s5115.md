@@ -53,7 +53,7 @@
 
         (2) the Secretary may publish and distribute a list of programs and courses maintained and updated under this section and of any programs utilizing such courses.
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 772][/us/stat/108/772]; [Pub. L. 103–429, § 6(5)][/us/pl/103/429/s6/5], Oct. 31, 1994, [108 Stat. 4378][/us/stat/108/4378]; [Pub. L. 109–59, title VII][/us/pl/109/59], §§ 7113, 7126, Aug. 10, 2005, [119 Stat. 1899][/us/stat/119/1899], 1909; [Pub. L. 109–295, title VI, § 612(c)][/us/pl/109/295/s612/c], Oct. 4, 2006, [120 Stat. 1410][/us/stat/120/1410]; [Pub. L. 112–141, div. C, title III, § 33004(a)][/us/pl/112/141/s33004/a], July 6, 2012, [126 Stat. 832][/us/stat/126/832]; [Pub. L. 114–94, div. A, title VI, § 6013][/us/pl/114/94/s6013], Dec. 4, 2015, [129 Stat. 1570][/us/stat/129/1570].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(d), July 5, 1994, [108 Stat. 772][/us/stat/108/772]; [Pub. L. 103–429][/us/pl/103/429], § 6(5), Oct. 31, 1994, [108 Stat. 4378][/us/stat/108/4378]; [Pub. L. 109–59, title VII][/us/pl/109/59/tVII], §§ 7113, 7126, Aug. 10, 2005, [119 Stat. 1899][/us/stat/119/1899], 1909; [Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 612(c), Oct. 4, 2006, [120 Stat. 1410][/us/stat/120/1410]; [Pub. L. 112–141, div. C, title III][/us/pl/112/141/dC/tIII], § 33004(a), July 6, 2012, [126 Stat. 832][/us/stat/126/832]; [Pub. L. 114–94, div. A, title VI][/us/pl/114/94/dA/tVI], § 6013, Dec. 4, 2015, [129 Stat. 1570][/us/stat/129/1570].)
 
 <table>
 
@@ -179,21 +179,21 @@ Jan. 3, 1975, Pub. L. 93–633, 88 Stat. 2156, § 117A (g)(1)–(6), (8); adde
 
     2012—Subsecs. (b)(1)(B), (2), (c). [Pub. L. 112–141][/us/pl/112/141] struck out “basic” after “recommended”.
 
-    2005—Subsec. (a). [Pub. L. 109–59, § 7113(a)][/us/pl/109/59/s7113/a], inserted heading and first sentence and struck out former heading and first sentence. Text read as follows: “Not later than November 16, 1992, in coordination with the Director of the Federal Emergency Management Agency, Chairman of the Nuclear Regulatory Commission, Administrator of the Environmental Protection Agency, Secretaries of Labor, Energy, and Health and Human Services, and Director of the National Institute of Environmental Health Sciences, and using the existing coordinating mechanisms of the national response team and, for radioactive material, the Federal Radiological Preparedness Coordinating Committee, the Secretary of Transportation shall develop and update periodically a curriculum consisting of a list of courses necessary to train public sector emergency response and preparedness teams.”
+    2005—Subsec. (a). [Pub. L. 109–59][/us/pl/109/59], § 7113(a), inserted heading and first sentence and struck out former heading and first sentence. Text read as follows: “Not later than November 16, 1992, in coordination with the Director of the Federal Emergency Management Agency, Chairman of the Nuclear Regulatory Commission, Administrator of the Environmental Protection Agency, Secretaries of Labor, Energy, and Health and Human Services, and Director of the National Institute of Environmental Health Sciences, and using the existing coordinating mechanisms of the national response team and, for radioactive material, the Federal Radiological Preparedness Coordinating Committee, the Secretary of Transportation shall develop and update periodically a curriculum consisting of a list of courses necessary to train public sector emergency response and preparedness teams.”
 
-    Subsec. (b). [Pub. L. 109–59, § 7113(b)(1)][/us/pl/109/59/s7113/b/1], substituted “maintained and updated” for “developed” in introductory provisions.
+    Subsec. (b). [Pub. L. 109–59][/us/pl/109/59], § 7113(b)(1), substituted “maintained and updated” for “developed” in introductory provisions.
 
-    Subsec. (b)(1)(C). [Pub. L. 109–59, § 7113(b)(2)][/us/pl/109/59/s7113/b/2], substituted “with Federal financial assistance, including programs” for “under other United States Government grant programs, including those”.
+    Subsec. (b)(1)(C). [Pub. L. 109–59][/us/pl/109/59], § 7113(b)(2), substituted “with Federal financial assistance, including programs” for “under other United States Government grant programs, including those”.
 
-    Subsec. (c)(3). [Pub. L. 109–59, § 7113(c)][/us/pl/109/59/s7113/c], inserted “and such other voluntary consensus standard-setting organizations as the Secretary of Transportation determines appropriate” before period at end.
+    Subsec. (c)(3). [Pub. L. 109–59][/us/pl/109/59], § 7113(c), inserted “and such other voluntary consensus standard-setting organizations as the Secretary of Transportation determines appropriate” before period at end.
 
-    Subsec. (d). [Pub. L. 109–59, § 7113(d)(1)][/us/pl/109/59/s7113/d/1], substituted “National Response Team” for “national response team” in introductory provisions.
+    Subsec. (d). [Pub. L. 109–59][/us/pl/109/59], § 7113(d)(1), substituted “National Response Team” for “national response team” in introductory provisions.
 
-    Subsec. (d)(1). [Pub. L. 109–59, § 7113(d)(2)][/us/pl/109/59/s7113/d/2], substituted “Secretary” for “Director of the Federal Emergency Management Agency”.
+    Subsec. (d)(1). [Pub. L. 109–59][/us/pl/109/59], § 7113(d)(2), substituted “Secretary” for “Director of the Federal Emergency Management Agency”.
 
-    Subsec. (d)(2). [Pub. L. 109–59, § 7126][/us/pl/109/59/s7126], substituted “Secretary” for “Secretary of Transportation”.
+    Subsec. (d)(2). [Pub. L. 109–59][/us/pl/109/59], § 7126, substituted “Secretary” for “Secretary of Transportation”.
 
-    [Pub. L. 109–59, § 7113(d)(3)][/us/pl/109/59/s7113/d/3], inserted “and distribute” after “publish” and substituted “list of programs and courses maintained and updated under this section and of any programs utilizing such courses” for “list of programs that uses a course developed under this section for training public sector employees to respond to an accident or incident involving the transportation of hazardous material”.
+    [Pub. L. 109–59][/us/pl/109/59], § 7113(d)(3), inserted “and distribute” after “publish” and substituted “list of programs and courses maintained and updated under this section and of any programs utilizing such courses” for “list of programs that uses a course developed under this section for training public sector employees to respond to an accident or incident involving the transportation of hazardous material”.
 
     1994—Subsec. (b)(1)(C). [Pub. L. 103–429][/us/pl/103/429] substituted “126(g)” for “126”.
 
@@ -224,29 +224,29 @@ Jan. 3, 1975, Pub. L. 93–633, 88 Stat. 2156, § 117A (g)(1)–(6), (8); adde
 [/us/usc/t42/s11001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11001
 [/us/usc/t42/s9660a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9660a
 [/us/usc/t42/s11001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11001
-[/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F772
-[/us/pl/103/429/s6/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F5
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/stat/108/4378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4378
-[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtVII
 [/us/stat/119/1899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1899
-[/us/pl/109/295/s612/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs612%2Fc
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1410
-[/us/pl/112/141/s33004/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs33004%2Fa
+[/us/pl/112/141/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtIII
 [/us/stat/126/832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F832
-[/us/pl/114/94/s6013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs6013
+[/us/pl/114/94/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtVI
 [/us/stat/129/1570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1570
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
-[/us/pl/109/59/s7113/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7113%2Fa
-[/us/pl/109/59/s7113/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7113%2Fb%2F1
-[/us/pl/109/59/s7113/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7113%2Fb%2F2
-[/us/pl/109/59/s7113/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7113%2Fc
-[/us/pl/109/59/s7113/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7113%2Fd%2F1
-[/us/pl/109/59/s7113/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7113%2Fd%2F2
-[/us/pl/109/59/s7126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7126
-[/us/pl/109/59/s7113/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7113%2Fd%2F3
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/pl/109/295/s612/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs612%2Fc
 [/us/usc/t6/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs313

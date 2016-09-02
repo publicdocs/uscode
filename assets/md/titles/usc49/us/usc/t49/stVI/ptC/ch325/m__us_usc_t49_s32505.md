@@ -61,7 +61,7 @@
 
         (3) Subject to paragraph (1) of this subsection, the Secretary, on request, shall make available to the public at cost information the Secretary submits or receives in carrying out this chapter.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1044][/us/stat/108/1044]; [Pub. L. 103–429, § 6(32)][/us/pl/103/429/s6/32], Oct. 31, 1994, [108 Stat. 4380][/us/stat/108/4380].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1044][/us/stat/108/1044]; [Pub. L. 103–429][/us/pl/103/429], § 6(32), Oct. 31, 1994, [108 Stat. 4380][/us/stat/108/4380].)
 
 <table>
 
@@ -235,9 +235,9 @@ Oct. 20, 1972, Pub. L. 92–513, §§ 104(a), (b), 105(a), (b), 109, 86 Stat. 
 ----------
 
 [/us/usc/t18/s1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1905
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1044
-[/us/pl/103/429/s6/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F32
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/stat/108/4380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4380
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/act/1994-07-05/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1994-07-05%2Fs1

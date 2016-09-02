@@ -17,7 +17,7 @@
 
     A person violating section 47528, 47529, 47530, or 47534 of this title or a regulation prescribed under any of those sections is subject to the same civil penalties and procedures under chapter 463 of this title as a person violating section 44701(a) or (b) or any of sections 44702–44716 of this title.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1293][/us/stat/108/1293]; [Pub. L. 103–429, § 6(73)][/us/pl/103/429/s6/73], Oct. 31, 1994, [108 Stat. 4388][/us/stat/108/4388]; [Pub. L. 112–95, title V, § 506(b)(1)][/us/pl/112/95/s506/b/1], Feb. 14, 2012, [126 Stat. 106][/us/stat/126/106].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1293][/us/stat/108/1293]; [Pub. L. 103–429][/us/pl/103/429], § 6(73), Oct. 31, 1994, [108 Stat. 4388][/us/stat/108/4388]; [Pub. L. 112–95, title V][/us/pl/112/95/tV], § 506(b)(1), Feb. 14, 2012, [126 Stat. 106][/us/stat/126/106].)
 
 <table>
 
@@ -94,11 +94,11 @@ Nov. 5, 1990, Pub. L. 101–508, § 9308(e), 104 Stat. 1388–383.  </td>
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1293
-[/us/pl/103/429/s6/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F73
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/stat/108/4388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4388
-[/us/pl/112/95/s506/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs506%2Fb%2F1
+[/us/pl/112/95/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtV
 [/us/stat/126/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F106
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95

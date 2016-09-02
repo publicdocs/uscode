@@ -57,7 +57,7 @@
 
         (2) procurement by advertising would likely result in additional cost to the Government by duplication of investment or would result in duplication of necessary preparation that would unreasonably delay procuring the property.
 
-([Pub. L. 97–449, § 1(b)][/us/pl/97/449/s1/b], Jan. 12, 1983, [96 Stat. 2422][/us/stat/96/2422].)
+([Pub. L. 97–449][/us/pl/97/449], § 1(b), Jan. 12, 1983, [96 Stat. 2422][/us/stat/96/2422].)
 
 <table>
 
@@ -209,21 +209,21 @@ In the chapter, the words “Secretary of Transportation” and “Secretary” 
 
  __References in Text__ 
 
-    [Section 103(c)(1) of this title][/us/usc/t49/s103/c/1], referred to in subsec. (b), was struck out by [Pub. L. 110–432, div. A, title I, § 101][/us/pl/110/432/s101], Oct. 16, 2008, [122 Stat. 4851][/us/stat/122/4851]. Provisions similar to those contained in former subsec. (c)(1) of section 103 are now contained in subsec. (g)(1) of section 103.
+    [Section 103(c)(1) of this title][/us/usc/t49/s103/c/1], referred to in subsec. (b), was struck out by [Pub. L. 110–432, div. A, title I][/us/pl/110/432/dA/tI], § 101, Oct. 16, 2008, [122 Stat. 4851][/us/stat/122/4851]. Provisions similar to those contained in former subsec. (c)(1) of section 103 are now contained in subsec. (g)(1) of section 103.
 
  __Availability of Receipts From Fitness Centers For Operation and Maintenance of Facilities__ 
 
-[Pub. L. 106–69, title III, § 329][/us/pl/106/69/s329], Oct. 9, 1999, [113 Stat. 1021][/us/stat/113/1021], provided that: 
+[Pub. L. 106–69, title III][/us/pl/106/69/tIII], § 329, Oct. 9, 1999, [113 Stat. 1021][/us/stat/113/1021], provided that: 
 
 > “Hereafter, notwithstanding any other provision of law, receipts, in amounts determined by the Secretary, collected from users of fitness centers operated by or for the Department of Transportation shall be available to support the operation and maintenance of those facilities.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
-    [Pub. L. 105–277, div. A, § 101(g)][/us/pl/105/277/s101/g] \[title III, § 332\], Oct. 21, 1998, [112 Stat. 2681–439][/us/stat/112/2681-439], 2681–471.
+    [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(g) \[title III, § 332\], Oct. 21, 1998, [112 Stat. 2681–439][/us/stat/112/2681-439], 2681–471.
 
-    [Pub. L. 105–66, title III, § 332][/us/pl/105/66/s332], Oct. 27, 1997, [111 Stat. 1447][/us/stat/111/1447].
+    [Pub. L. 105–66, title III][/us/pl/105/66/tIII], § 332, Oct. 27, 1997, [111 Stat. 1447][/us/stat/111/1447].
 
-    [Pub. L. 104–205, title III, § 344][/us/pl/104/205/s344], Sept. 30, 1996, [110 Stat. 2976][/us/stat/110/2976].
+    [Pub. L. 104–205, title III][/us/pl/104/205/tIII], § 344, Sept. 30, 1996, [110 Stat. 2976][/us/stat/110/2976].
 
  __Executive Order No. 11382__ 
 
@@ -236,22 +236,22 @@ Similar provisions were contained in the following prior appropriation acts:
 ----------
 ----------
 
-[/us/pl/97/449/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449%2Fs1%2Fb
+[/us/pl/97/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449
 [/us/stat/96/2422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2422
 [/us/pl/85/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F726
 [/us/stat/72/731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F731
 [/us/stat/82/1369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1369
 [/us/usc/t49/s1652/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1652%2Fe
 [/us/usc/t49/s103/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs103%2Fc%2F1
-[/us/pl/110/432/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs101
+[/us/pl/110/432/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdA%2FtI
 [/us/stat/122/4851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4851
-[/us/pl/106/69/s329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F69%2Fs329
+[/us/pl/106/69/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F69%2FtIII
 [/us/stat/113/1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1021
-[/us/pl/105/277/s101/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fg
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-439
-[/us/pl/105/66/s332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F66%2Fs332
+[/us/pl/105/66/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F66%2FtIII
 [/us/stat/111/1447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1447
-[/us/pl/104/205/s344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F205%2Fs344
+[/us/pl/104/205/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F205%2FtIII
 [/us/stat/110/2976]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2976
 
 

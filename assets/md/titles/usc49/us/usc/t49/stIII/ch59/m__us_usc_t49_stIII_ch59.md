@@ -91,7 +91,7 @@
 
  __Amendments__ 
 
-    1996—[Pub. L. 104–291, title II][/us/pl/104/291], §§ 208(b), 209(b), Oct. 11, 1996, [110 Stat. 3457][/us/stat/110/3457], 3458, substituted “Effective date” for “Regulations and effective date” in item 5907 and added item 5908.
+    1996—[Pub. L. 104–291, title II][/us/pl/104/291/tII], §§ 208(b), 209(b), Oct. 11, 1996, [110 Stat. 3457][/us/stat/110/3457], 3458, substituted “Effective date” for “Regulations and effective date” in item 5907 and added item 5908.
 
 ----------
 
@@ -100,7 +100,7 @@
 ----------
 ----------
 
-[/us/pl/104/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F291
+[/us/pl/104/291/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F291%2FtII
 [/us/stat/110/3457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3457
 
 

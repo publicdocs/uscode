@@ -515,15 +515,15 @@ SUBCHAPTER II—PARTICULAR ASPECTS OF SAFETY  </td>
 
  __Amendments__ 
 
-    2015–[Pub. L. 114–94, div. A, title XI][/us/pl/114/94], §§ 11301(c)(1), 11411(b), 11413(b), Dec. 4, 2015, [129 Stat. 1648][/us/stat/129/1648], 1687, 1689, added items 20121 and 20168 and struck out items 20154 “Capital grants for rail line relocation projects” and 20167 “Railroad safety infrastructure improvement grants”. Items 20121 and 20168 were added to the analysis for this chapter to reflect the probable intent of Congress, notwithstanding directory language adding those items to the analyses for subchapters I and II of this chapter, respectively.
+    2015–[Pub. L. 114–94, div. A, title XI][/us/pl/114/94/dA/tXI], §§ 11301(c)(1), 11411(b), 11413(b), Dec. 4, 2015, [129 Stat. 1648][/us/stat/129/1648], 1687, 1689, added items 20121 and 20168 and struck out items 20154 “Capital grants for rail line relocation projects” and 20167 “Railroad safety infrastructure improvement grants”. Items 20121 and 20168 were added to the analysis for this chapter to reflect the probable intent of Congress, notwithstanding directory language adding those items to the analyses for subchapters I and II of this chapter, respectively.
 
-    2008—[Pub. L. 110–432, div. A, title I][/us/pl/110/432], §§ 103(b), 104(b), 105(b), 107(b), 109(b), title II, §§ 203(b), 204(b), 205(b), 208(b), 210(b), title III, § 303(b), title IV, §§ 401(b), 402(e), 406(b), 409(b), 413(b), 418(b), Oct. 16, 2008, [122 Stat. 4856][/us/stat/122/4856], 4858–4860, 4867, 4869, 4871, 4873, 4876, 4877, 4879, 4883, 4884, 4886, 4887, 4889, 4892, added items 20116 and 20118 to 20120, substituted “Railroad trespassing, vandalism, and highway-rail grade crossing warning sign violation prevention strategy” for “Railroad trespassing and vandalism prevention strategy” in item 20151 and “Notification of grade crossing problems” for “Emergency notification of grade crossing problems” in item 20152, and added items 20156 to 20167.
+    2008—[Pub. L. 110–432, div. A, title I][/us/pl/110/432/dA/tI], §§ 103(b), 104(b), 105(b), 107(b), 109(b), title II, §§ 203(b), 204(b), 205(b), 208(b), 210(b), title III, § 303(b), title IV, §§ 401(b), 402(e), 406(b), 409(b), 413(b), 418(b), Oct. 16, 2008, [122 Stat. 4856][/us/stat/122/4856], 4858–4860, 4867, 4869, 4871, 4873, 4876, 4877, 4879, 4883, 4884, 4886, 4887, 4889, 4892, added items 20116 and 20118 to 20120, substituted “Railroad trespassing, vandalism, and highway-rail grade crossing warning sign violation prevention strategy” for “Railroad trespassing and vandalism prevention strategy” in item 20151 and “Notification of grade crossing problems” for “Emergency notification of grade crossing problems” in item 20152, and added items 20156 to 20167.
 
-    2005—[Pub. L. 109–59, title IX][/us/pl/109/59], §§ 9002(a)(2), 9005(b)(2), Aug. 10, 2005, [119 Stat. 1921][/us/stat/119/1921], 1925, added items 20154 and 20155.
+    2005—[Pub. L. 109–59, title IX][/us/pl/109/59/tIX], §§ 9002(a)(2), 9005(b)(2), Aug. 10, 2005, [119 Stat. 1921][/us/stat/119/1921], 1925, added items 20154 and 20155.
 
-    1995—[Pub. L. 104–66, title I, § 1121(g)(2)][/us/pl/104/66/s1121/g/2], Dec. 21, 1995, [109 Stat. 724][/us/stat/109/724], struck out item 20116 “Biennial report”.
+    1995—[Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1121(g)(2), Dec. 21, 1995, [109 Stat. 724][/us/stat/109/724], struck out item 20116 “Biennial report”.
 
-    1994—[Pub. L. 103–440, title II][/us/pl/103/440], §§ 206(b), 207(b), 210(b), 211(b), 212(b), 213(b), 214(b), 215(b), 219(b), title III, §§ 301(b), 302(b), Nov. 2, 1994, [108 Stat. 4621–4624][/us/stat/108/4621-4624], 4626, 4628, substituted “Biennial” for “Annual” in item 20116 and “cars” for “equipment” in item 20133 and added items 20145 to 20153.
+    1994—[Pub. L. 103–440, title II][/us/pl/103/440/tII], §§ 206(b), 207(b), 210(b), 211(b), 212(b), 213(b), 214(b), 215(b), 219(b), title III, §§ 301(b), 302(b), Nov. 2, 1994, [108 Stat. 4621–4624][/us/stat/108/4621-4624], 4626, 4628, substituted “Biennial” for “Annual” in item 20116 and “cars” for “equipment” in item 20133 and added items 20145 to 20153.
 
 ----------
 
@@ -532,15 +532,15 @@ SUBCHAPTER II—PARTICULAR ASPECTS OF SAFETY  </td>
 ----------
 ----------
 
-[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtXI
 [/us/stat/129/1648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1648
-[/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
+[/us/pl/110/432/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdA%2FtI
 [/us/stat/122/4856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4856
-[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIX
 [/us/stat/119/1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1921
-[/us/pl/104/66/s1121/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1121%2Fg%2F2
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F724
-[/us/pl/103/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F440
+[/us/pl/103/440/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F440%2FtII
 [/us/stat/108/4621-4624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4621-4624
 
 

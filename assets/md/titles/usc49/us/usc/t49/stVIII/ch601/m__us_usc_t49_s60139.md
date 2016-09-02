@@ -75,7 +75,7 @@
 
     In this section, the term “high-consequence area” means an area described in section 60109(a).
 
-(Added [Pub. L. 112–90, § 23(a)][/us/pl/112/90/s23/a], Jan. 3, 2012, [125 Stat. 1918][/us/stat/125/1918].)
+(Added [Pub. L. 112–90][/us/pl/112/90], § 23(a), Jan. 3, 2012, [125 Stat. 1918][/us/stat/125/1918].)
 
  __References in Text__ 
 
@@ -88,7 +88,7 @@
 ----------
 ----------
 
-[/us/pl/112/90/s23/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90%2Fs23%2Fa
+[/us/pl/112/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90
 [/us/stat/125/1918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1918
 [/us/pl/112/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90
 

@@ -41,7 +41,7 @@
 
         (2) is an air carrier under this part except to the extent the carrier is exempt under this section from a requirement of this part.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1119][/us/stat/108/1119]; [Pub. L. 103–429, § 6(49)][/us/pl/103/429/s6/49], Oct. 31, 1994, [108 Stat. 4384][/us/stat/108/4384].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1119][/us/stat/108/1119]; [Pub. L. 103–429][/us/pl/103/429], § 6(49), Oct. 31, 1994, [108 Stat. 4384][/us/stat/108/4384].)
 
 <table>
 
@@ -241,9 +241,9 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 418(b)(2), (c), (d); added N
 ----------
 
 [/us/usc/t49/s41101/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs41101%2Fa%2F1
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1119
-[/us/pl/103/429/s6/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F49
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/stat/108/4384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4384
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429

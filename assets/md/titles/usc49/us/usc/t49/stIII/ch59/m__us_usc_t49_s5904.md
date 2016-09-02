@@ -27,7 +27,7 @@
 
     This chapter does not require a person tendering a loaded container or trailer to a first carrier to ensure that the first carrier or any other carrier involved in the intermodal transportation will comply with any State highway weight law or regulation, other than as required by this chapter.
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 861][/us/stat/108/861].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(d), July 5, 1994, [108 Stat. 861][/us/stat/108/861].)
 
 <table>
 
@@ -100,7 +100,7 @@ Source (Statutes at Large)  </td>
 
 [/us/usc/t49/s5902/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5902%2Fb
 [/us/usc/t49/s5903/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5903%2Fa
-[/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F861
 
 

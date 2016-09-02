@@ -47,7 +47,7 @@
 
     The Attorney General shall prescribe regulations to carry out this section. The regulations shall include regulations prescribed in consultation with the Secretary that are necessary to ensure that a verification a person provides under subsection (a)(2) of this section is uniform, effective, and resistant to fraudulent use.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1086][/us/stat/108/1086].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1086][/us/stat/108/1086].)
 
 <table>
 
@@ -129,7 +129,7 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, § 608; added Oct. 25, 1992, Pu
 
  __Effective Date__ 
 
-[Pub. L. 103–272, § 4(v)][/us/pl/103/272/s4/v], July 5, 1994, [108 Stat. 1373][/us/stat/108/1373], provided that: 
+[Pub. L. 103–272][/us/pl/103/272], § 4(v), July 5, 1994, [108 Stat. 1373][/us/stat/108/1373], provided that: 
 
 > “[Section 33111 of title 49][/us/usc/t49/s33111], United States Code, as enacted by section 1 of this Act, is effective on the date on which the National Stolen Passenger Motor Vehicle Information System is established under [section 33109 of title 49][/us/usc/t49/s33109].”
 
@@ -142,9 +142,9 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, § 608; added Oct. 25, 1992, Pu
 
 [/us/usc/t49/s33109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs33109
 [/us/usc/t49/s33110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs33110
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1086
-[/us/pl/103/272/s4/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs4%2Fv
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1373
 [/us/usc/t49/s33111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs33111
 [/us/usc/t49/s33109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs33109

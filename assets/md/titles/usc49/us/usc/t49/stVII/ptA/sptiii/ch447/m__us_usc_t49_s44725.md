@@ -45,7 +45,7 @@
 
     No rule issued under subsection (a) shall require the marking of parts removed from aircraft before the effective date of the rules issued under subsection (a), nor shall any such rule forbid the installation of an otherwise airworthy life-limited part.
 
-(Added [Pub. L. 106–181, title V, § 504(a)][/us/pl/106/181/s504/a], Apr. 5, 2000, [114 Stat. 134][/us/stat/114/134].)
+(Added [Pub. L. 106–181, title V][/us/pl/106/181/tV], § 504(a), Apr. 5, 2000, [114 Stat. 134][/us/stat/114/134].)
 
  __References in Text__ 
 
@@ -62,7 +62,7 @@
 ----------
 ----------
 
-[/us/pl/106/181/s504/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs504%2Fa
+[/us/pl/106/181/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtV
 [/us/stat/114/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F134
 [/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/pl/106/181/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs3

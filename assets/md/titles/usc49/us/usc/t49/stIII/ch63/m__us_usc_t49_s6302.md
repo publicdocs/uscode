@@ -161,7 +161,7 @@
 
         The Department Chief Information Officer shall consult with the Director to ensure decisions related to information technology guarantee the protection of the confidentiality of information provided solely for statistical purposes, in accordance with the Confidential Information Protection and Statistical Efficiency Act of 2002 ([44 U.S.C. 3501][/us/usc/t44/s3501] note; [Public Law 107–347][/us/pl/107/347]).
 
-(Added [Pub. L. 112–141, div. E, title II, § 52011(a)][/us/pl/112/141/s52011/a], July 6, 2012, [126 Stat. 887][/us/stat/126/887]; amended [Pub. L. 114–94, div. A, title I, § 1446(b)][/us/pl/114/94/s1446/b], title VI, §§ 6011(d)(2), 6017, Dec. 4, 2015, [129 Stat. 1438][/us/stat/129/1438], 1570, 1575.)
+(Added [Pub. L. 112–141, div. E, title II][/us/pl/112/141/dE/tII], § 52011(a), July 6, 2012, [126 Stat. 887][/us/stat/126/887]; amended [Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1446(b), title VI, §§ 6011(d)(2), 6017, Dec. 4, 2015, [129 Stat. 1438][/us/stat/129/1438], 1570, 1575.)
 
  __References in Text__ 
 
@@ -173,11 +173,11 @@
 
  __Amendments__ 
 
-    2015—Subsec. (a). [Pub. L. 114–94, § 6011(d)(2)][/us/pl/114/94/s6011/d/2], added subsec. (a) and struck out former subsec. (a) which related to establishment of the Bureau of Transportation Statistics.
+    2015—Subsec. (a). [Pub. L. 114–94][/us/pl/114/94], § 6011(d)(2), added subsec. (a) and struck out former subsec. (a) which related to establishment of the Bureau of Transportation Statistics.
 
-    Subsec. (b)(3)(B)(vi)(III). [Pub. L. 114–94, § 1446(b)][/us/pl/114/94/s1446/b], substituted “6309” for “6310”.
+    Subsec. (b)(3)(B)(vi)(III). [Pub. L. 114–94][/us/pl/114/94], § 1446(b), substituted “6309” for “6310”.
 
-    Subsec. (d). [Pub. L. 114–94, § 6017][/us/pl/114/94/s6017], added subsec. (d).
+    Subsec. (d). [Pub. L. 114–94][/us/pl/114/94], § 6017, added subsec. (d).
 
  __Effective Date of 2015 Amendment__ 
 
@@ -189,7 +189,7 @@
 
  __Office of Airline Information__ 
 
-[Pub. L. 106–181, title I, § 103(b)][/us/pl/106/181/s103/b], Apr. 5, 2000, [114 Stat. 67][/us/stat/114/67], provided that: 
+[Pub. L. 106–181, title I][/us/pl/106/181/tI], § 103(b), Apr. 5, 2000, [114 Stat. 67][/us/stat/114/67], provided that: 
 
 > “There is authorized to be appropriated from the Airport and Airway Trust Fund to the Secretary \[of Transportation\] $4,000,000 for fiscal years beginning after September 30, 2000, to fund the activities of the Office of Airline Information in the Bureau of Transportation Statistics of the Department of Transportation.”
 
@@ -204,9 +204,9 @@
 [/us/stat/107/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F285
 [/us/usc/t44/s3501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3501
 [/us/pl/107/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347
-[/us/pl/112/141/s52011/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs52011%2Fa
+[/us/pl/112/141/dE/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdE%2FtII
 [/us/stat/126/887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F887
-[/us/pl/114/94/s1446/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fb
+[/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
 [/us/stat/129/1438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1438
 [/us/usc/t43/s1457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1457
 [/us/pl/103/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62
@@ -219,15 +219,15 @@
 [/us/usc/t13/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft13%2Fs402
 [/us/usc/t15/s176a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs176a
 [/us/usc/t44/s3501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3501
-[/us/pl/114/94/s6011/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs6011%2Fd%2F2
-[/us/pl/114/94/s1446/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fb
-[/us/pl/114/94/s6017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs6017
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
-[/us/pl/106/181/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs103%2Fb
+[/us/pl/106/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtI
 [/us/stat/114/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F67
 
 

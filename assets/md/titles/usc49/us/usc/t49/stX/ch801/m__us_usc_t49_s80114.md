@@ -23,7 +23,7 @@
 
     Delivery of goods under a court order under subsection (a) of this section does not relieve a common carrier from liability to a person to whom the negotiable bill has been or is negotiated for value without notice of the court proceeding or of the delivery of the goods.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1352][/us/stat/108/1352].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1352][/us/stat/108/1352].)
 
 <table>
 
@@ -94,7 +94,7 @@ Aug. 29, 1916, ch. 415, § 14, 39 Stat. 540.  </td>
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1352
 
 

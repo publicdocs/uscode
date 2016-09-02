@@ -65,7 +65,7 @@
 
             (D) under the code of a United States air carrier for purposes of transportation within the United States.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1140][/us/stat/108/1140]; [Pub. L. 108–176, title VIII, § 808][/us/pl/108/176/s808], Dec. 12, 2003, [117 Stat. 2588][/us/stat/117/2588].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1140][/us/stat/108/1140]; [Pub. L. 108–176, title VIII][/us/pl/108/176/tVIII], § 808, Dec. 12, 2003, [117 Stat. 2588][/us/stat/117/2588].)
 
 <table>
 
@@ -225,9 +225,9 @@ Aug. 23, 1958, Pub. L. 85–726, § 1108(b) (3d sentence), 72 Stat. 799; Feb. 
 ----------
 
 [/us/usc/t49/s40109/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40109%2Fg
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1140
-[/us/pl/108/176/s808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs808
+[/us/pl/108/176/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtVIII
 [/us/stat/117/2588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2588
 [/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
 [/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176

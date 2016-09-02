@@ -73,7 +73,7 @@
 
         (3) The judge or magistrate shall file the warrant, proof of service, and all documents filed about the warrant with the clerk of the United States district court for the judicial district in which the inspection is made.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1053][/us/stat/108/1053].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1053][/us/stat/108/1053].)
 
 <table>
 
@@ -254,7 +254,7 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, § 415; added July 14, 1976, Pu
 [/us/usc/t49/s32706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs32706
 [/us/usc/t49/s32706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs32706
 [/us/usc/t49/s32706/e/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs32706%2Fe%2F1%2FA
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1053
 [/us/usc/t49/s1990d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1990d
 [/us/pl/101/650/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs321

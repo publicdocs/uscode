@@ -37,7 +37,7 @@
 
     The term “Secretary” means the Secretary of Transportation.
 
-(Added [Pub. L. 112–141, div. E, title II, § 52011(a)][/us/pl/112/141/s52011/a], July 6, 2012, [126 Stat. 887][/us/stat/126/887].)
+(Added [Pub. L. 112–141, div. E, title II][/us/pl/112/141/dE/tII], § 52011(a), July 6, 2012, [126 Stat. 887][/us/stat/126/887].)
 
  __Effective Date__ 
 
@@ -45,7 +45,7 @@
 
  __Construction__ 
 
-[Pub. L. 112–141, div. E, title II, § 52011(b)][/us/pl/112/141/s52011/b], July 6, 2012, [126 Stat. 895][/us/stat/126/895], provided that: 
+[Pub. L. 112–141, div. E, title II][/us/pl/112/141/dE/tII], § 52011(b), July 6, 2012, [126 Stat. 895][/us/stat/126/895], provided that: 
 
 > “If the provisions of [section 111 of title 49][/us/usc/t49/s111], United States Code, are transferred to chapter 63 of that title, the following rules of construction apply:
 
@@ -64,11 +64,11 @@
 ----------
 ----------
 
-[/us/pl/112/141/s52011/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs52011%2Fa
+[/us/pl/112/141/dE/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdE%2FtII
 [/us/stat/126/887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F887
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
-[/us/pl/112/141/s52011/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs52011%2Fb
+[/us/pl/112/141/dE/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdE%2FtII
 [/us/stat/126/895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F895
 [/us/usc/t49/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs111
 [/us/usc/t49/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs111

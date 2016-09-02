@@ -23,7 +23,7 @@
 
     A manufacturer of a passenger motor vehicle distributed in commerce for sale in the United States that willfully fails to attach the label required under [section 32304 of this title][/us/usc/t49/s32304] to a new passenger motor vehicle that the manufacturer manufactures or imports, or a dealer that fails to maintain that label as required under section 32304, is liable to the United States Government for a civil penalty of not more than $1,000 for each violation. Each failure to attach or maintain that label for each vehicle is a separate violation.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1042][/us/stat/108/1042]; [Pub. L. 103–429, § 6(31)][/us/pl/103/429/s6/31], Oct. 31, 1994, [108 Stat. 4380][/us/stat/108/4380].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1042][/us/stat/108/1042]; [Pub. L. 103–429][/us/pl/103/429], § 6(31), Oct. 31, 1994, [108 Stat. 4380][/us/stat/108/4380].)
 
 <table>
 
@@ -118,9 +118,9 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, § 210(e); added Oct. 6, 1992, 
 
 [/us/usc/t49/s32304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs32304
 [/us/usc/t49/s32304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs32304
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1042
-[/us/pl/103/429/s6/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F31
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/stat/108/4380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4380
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/act/1994-07-05/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1994-07-05%2Fs1

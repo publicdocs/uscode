@@ -51,7 +51,7 @@
 
     Nothing in this title may be construed as requiring a person to obtain an airport operating certificate if such person does not desire to operate an airport described in subsection (a).
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1189][/us/stat/108/1189]; [Pub. L. 104–264, title IV, § 404][/us/pl/104/264/s404], Oct. 9, 1996, [110 Stat. 3256][/us/stat/110/3256].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1189][/us/stat/108/1189]; [Pub. L. 104–264, title IV][/us/pl/104/264/tIV], § 404, Oct. 9, 1996, [110 Stat. 3256][/us/stat/110/3256].)
 
 <table>
 
@@ -135,13 +135,13 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 612(c); added July 12, 1976,
 
  __Amendments__ 
 
-    1996—Subsec. (a). [Pub. L. 104–264, § 404(a)][/us/pl/104/264/s404/a], added par. (2), redesignated former par. (2) as (3), substituted “if” for “(3) when” in former par. (3) and adjusted the margins of that par. to make it a flush provision following par. (3).
+    1996—Subsec. (a). [Pub. L. 104–264][/us/pl/104/264], § 404(a), added par. (2), redesignated former par. (2) as (3), substituted “if” for “(3) when” in former par. (3) and adjusted the margins of that par. to make it a flush provision following par. (3).
 
-    Subsec. (d). [Pub. L. 104–264, § 404(b)][/us/pl/104/264/s404/b], added subsec. (d).
+    Subsec. (d). [Pub. L. 104–264][/us/pl/104/264], § 404(b), added subsec. (d).
 
-    Subsec. (e). [Pub. L. 104–264, § 404(c)][/us/pl/104/264/s404/c], added subsec. (e).
+    Subsec. (e). [Pub. L. 104–264][/us/pl/104/264], § 404(c), added subsec. (e).
 
-    Subsec. (f). [Pub. L. 104–264, § 404(d)][/us/pl/104/264/s404/d], added subsec. (f).
+    Subsec. (f). [Pub. L. 104–264][/us/pl/104/264], § 404(d), added subsec. (f).
 
  __Effective Date of 1996 Amendment__ 
 
@@ -153,13 +153,13 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 612(c); added July 12, 1976,
 
  __Improvement of Runway Safety Areas__ 
 
-[Pub. L. 109–115, div. A, title I][/us/pl/109/115], Nov. 30, 2005, [119 Stat. 2401][/us/stat/119/2401], provided in part: 
+[Pub. L. 109–115, div. A, title I][/us/pl/109/115/dA/tI], Nov. 30, 2005, [119 Stat. 2401][/us/stat/119/2401], provided in part: 
 
 > “That not later than December 31, 2015, the owner or operator of an airport certificated under [49 U.S.C. 44706][/us/usc/t49/s44706] shall improve the airport’s runway safety areas to comply with the Federal Aviation Administration design standards required by 14 CFR part 139: Provided further, That the Federal Aviation Administration shall report annually to the Congress on the agency’s progress toward improving the runway safety areas at [49 U.S.C. 44706][/us/usc/t49/s44706] airports.”
 
  __Small Airport Certification__ 
 
-[Pub. L. 106–181, title V, § 518][/us/pl/106/181/s518], Apr. 5, 2000, [114 Stat. 145][/us/stat/114/145], provided that: 
+[Pub. L. 106–181, title V][/us/pl/106/181/tV], § 518, Apr. 5, 2000, [114 Stat. 145][/us/stat/114/145], provided that: 
 
 > “Not later than 60 days after the date of the enactment of this Act \[Apr. 5, 2000\], the Administrator \[of the Federal Aviation Administration\] shall issue a notice of proposed rulemaking on implementing [section 44706(a)(2) of title 49][/us/usc/t49/s44706/a/2], United States Code, relating to issuance of airport operating certificates for small scheduled passenger air carrier operations. Not later than 1 year after the last day of the period for public comment provided for in the notice of proposed rulemaking, the Administrator shall issue a final rule on implementing such program.”
 
@@ -170,24 +170,24 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 612(c); added July 12, 1976,
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1189
-[/us/pl/104/264/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs404
+[/us/pl/104/264/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2FtIV
 [/us/stat/110/3256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3256
-[/us/pl/104/264/s404/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs404%2Fa
-[/us/pl/104/264/s404/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs404%2Fb
-[/us/pl/104/264/s404/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs404%2Fc
-[/us/pl/104/264/s404/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs404%2Fd
+[/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
+[/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
+[/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
+[/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
 [/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
 [/us/pl/104/264/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106
 [/us/pl/111/314/s4/d/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314%2Fs4%2Fd%2F8
 [/us/usc/t49/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs101
-[/us/pl/109/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F115
+[/us/pl/109/115/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F115%2FdA%2FtI
 [/us/stat/119/2401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2401
 [/us/usc/t49/s44706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44706
 [/us/usc/t49/s44706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44706
-[/us/pl/106/181/s518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs518
+[/us/pl/106/181/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtV
 [/us/stat/114/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F145
 [/us/usc/t49/s44706/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44706%2Fa%2F2
 

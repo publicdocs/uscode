@@ -65,7 +65,7 @@
 
     If after receiving a certification the Secretary decides the State authority is not enforcing satisfactorily compliance with applicable safety standards prescribed under this chapter, the Secretary may reject the certification, assert United States Government jurisdiction, or take other appropriate action to achieve adequate enforcement. The Secretary shall give the authority notice and an opportunity for a hearing before taking final action under this subsection. When notice is given, the burden of proof is on the authority to demonstrate that it is enforcing satisfactorily compliance with the prescribed standards.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1309][/us/stat/108/1309]; [Pub. L. 104–304, § 20(a)][/us/pl/104/304/s20/a], Oct. 12, 1996, [110 Stat. 3804][/us/stat/110/3804]; [Pub. L. 109–468, § 2(b)(1)][/us/pl/109/468/s2/b/1], Dec. 29, 2006, [120 Stat. 3487][/us/stat/120/3487].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1309][/us/stat/108/1309]; [Pub. L. 104–304][/us/pl/104/304], § 20(a), Oct. 12, 1996, [110 Stat. 3804][/us/stat/110/3804]; [Pub. L. 109–468][/us/pl/109/468], § 2(b)(1), Dec. 29, 2006, [120 Stat. 3487][/us/stat/120/3487].)
 
 <table>
 
@@ -306,11 +306,11 @@ Aug. 12, 1968, Pub. L. 90–481, 82 Stat. 720, § 5(c) (related to certificati
 
 [/us/usc/t49/s60107/d/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs60107%2Fd%2F1%2FC
 [/us/usc/t49/s60117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs60117
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1309
-[/us/pl/104/304/s20/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304%2Fs20%2Fa
+[/us/pl/104/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304
 [/us/stat/110/3804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3804
-[/us/pl/109/468/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F468%2Fs2%2Fb%2F1
+[/us/pl/109/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F468
 [/us/stat/120/3487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3487
 [/us/pl/109/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F468
 [/us/pl/104/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304

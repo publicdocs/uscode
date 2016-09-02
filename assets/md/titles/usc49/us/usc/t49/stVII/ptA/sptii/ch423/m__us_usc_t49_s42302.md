@@ -41,7 +41,7 @@
 
         (2) any electronic confirmation of the purchase of a passenger ticket for air transportation issued by the air carrier.
 
-(Added [Pub. L. 112–95, title IV, § 415(a)][/us/pl/112/95/s415/a], Feb. 14, 2012, [126 Stat. 95][/us/stat/126/95].)
+(Added [Pub. L. 112–95, title IV][/us/pl/112/95/tIV], § 415(a), Feb. 14, 2012, [126 Stat. 95][/us/stat/126/95].)
 
  __Effective Date__ 
 
@@ -49,7 +49,7 @@
 
  __DOT Airline Consumer Complaint Investigations__ 
 
-[Pub. L. 112–95, title IV, § 408][/us/pl/112/95/s408], Feb. 14, 2012, [126 Stat. 87][/us/stat/126/87], provided that: 
+[Pub. L. 112–95, title IV][/us/pl/112/95/tIV], § 408, Feb. 14, 2012, [126 Stat. 87][/us/stat/126/87], provided that: 
 
 > “The Secretary of Transportation may investigate consumer complaints regarding—
 
@@ -74,11 +74,11 @@
 ----------
 ----------
 
-[/us/pl/112/95/s415/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs415%2Fa
+[/us/pl/112/95/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtIV
 [/us/stat/126/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F95
 [/us/pl/112/95/s415/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs415%2Fc
 [/us/usc/t49/s42301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs42301
-[/us/pl/112/95/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs408
+[/us/pl/112/95/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtIV
 [/us/stat/126/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F87
 
 

@@ -39,7 +39,7 @@
 
         (2) the agreement is not a violation of State law.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 897][/us/stat/108/897].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 897][/us/stat/108/897].)
 
 <table>
 
@@ -115,7 +115,7 @@ Oct. 15, 1966, Pub. L. 89–670, 80 Stat. 931, § 5(e), (j); added Feb. 5, 197
 ----------
 
 [/us/usc/t49/s22101/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs22101%2Fa%2F2
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F897
 
 

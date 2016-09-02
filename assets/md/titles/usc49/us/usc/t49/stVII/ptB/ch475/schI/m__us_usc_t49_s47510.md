@@ -17,7 +17,7 @@
 
     Notwithstanding another law or a regulation prescribed or order issued under that law, the tradeoff provisions contained in appendix C of part 36 of title 14, Code of Federal Regulations, apply in deciding whether an aircraft complies with subpart I of part 91 of title 14.
 
-(Added [Pub. L. 103–429, § 6(72)(A)][/us/pl/103/429/s6/72/A], Oct. 31, 1994, [108 Stat. 4387][/us/stat/108/4387].)
+(Added [Pub. L. 103–429][/us/pl/103/429], § 6(72)(A), Oct. 31, 1994, [108 Stat. 4387][/us/stat/108/4387].)
 
 <table>
 
@@ -74,7 +74,7 @@ Feb. 18, 1980, Pub. L. 96–193, § 305, 94 Stat. 57.  </td>
 ----------
 ----------
 
-[/us/pl/103/429/s6/72/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F72%2FA
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/stat/108/4387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4387
 
 

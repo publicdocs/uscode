@@ -63,7 +63,7 @@
 
             (C) if applicable, has identified an agent for service of process in accordance with part 551 of such title.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 945][/us/stat/108/945]; [Pub. L. 109–59, title X, § 10309(b)][/us/pl/109/59/s10309/b], Aug. 10, 2005, [119 Stat. 1942][/us/stat/119/1942]; [Pub. L. 112–141, div. C, title I, § 31207][/us/pl/112/141/s31207], July 6, 2012, [126 Stat. 761][/us/stat/126/761]; [Pub. L. 114–94, div. B, title XXIV, § 24404][/us/pl/114/94/s24404], Dec. 4, 2015, [129 Stat. 1721][/us/stat/129/1721].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 945][/us/stat/108/945]; [Pub. L. 109–59, title X][/us/pl/109/59/tX], § 10309(b), Aug. 10, 2005, [119 Stat. 1942][/us/stat/119/1942]; [Pub. L. 112–141, div. C, title I][/us/pl/112/141/dC/tI], § 31207, July 6, 2012, [126 Stat. 761][/us/stat/126/761]; [Pub. L. 114–94, div. B, title XXIV][/us/pl/114/94/dB/tXXIV], § 24404, Dec. 4, 2015, [129 Stat. 1721][/us/stat/129/1721].)
 
 <table>
 
@@ -201,9 +201,9 @@ Sept. 9, 1966, Pub. L. 89–563, § 108(b)(3), 80 Stat. 723; Oct. 27, 1974, Pu
 
     2015—Subsec. (b)(10). [Pub. L. 114–94][/us/pl/114/94] added par. (10).
 
-    2012—Subsec. (a)(3). [Pub. L. 112–141, § 31207(1)][/us/pl/112/141/s31207/1], added par. (3).
+    2012—Subsec. (a)(3). [Pub. L. 112–141][/us/pl/112/141], § 31207(1), added par. (3).
 
-    Subsec. (b)(2)(C). [Pub. L. 112–141, § 31207(2)][/us/pl/112/141/s31207/2], added subpar. (C).
+    Subsec. (b)(2)(C). [Pub. L. 112–141][/us/pl/112/141], § 31207(2), added subpar. (C).
 
     2005—Subsec. (a). [Pub. L. 109–59][/us/pl/109/59], which directed amendment of section 30112(a), without specifying the title to be amended, by designating existing provisions as par. (1) and adding par. (2), was executed to this section, to reflect the probable intent of Congress.
 
@@ -224,19 +224,19 @@ Sept. 9, 1966, Pub. L. 89–563, § 108(b)(3), 80 Stat. 723; Oct. 27, 1974, Pu
 [/us/usc/t49/s30143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30143
 [/us/usc/t49/s30144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30144
 [/us/usc/t49/s30145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30145
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F945
-[/us/pl/109/59/s10309/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs10309%2Fb
+[/us/pl/109/59/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtX
 [/us/stat/119/1942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1942
-[/us/pl/112/141/s31207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31207
+[/us/pl/112/141/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtI
 [/us/stat/126/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F761
-[/us/pl/114/94/s24404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24404
+[/us/pl/114/94/dB/tXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdB%2FtXXIV
 [/us/stat/129/1721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1721
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
-[/us/pl/112/141/s31207/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31207%2F1
-[/us/pl/112/141/s31207/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31207%2F2
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa

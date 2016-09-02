@@ -93,7 +93,7 @@
 
         Amounts may not be appropriated for the purchase or construction of training vessels for State maritime academies unless the Secretary has approved a plan for sharing training vessels between State maritime academies.
 
-([Pub. L. 97–449, § 1(b)][/us/pl/97/449/s1/b], Jan. 12, 1983, [96 Stat. 2417][/us/stat/96/2417]; [Pub. L. 103–272, § 5(m)(5)][/us/pl/103/272/s5/m/5], July 5, 1994, [108 Stat. 1375][/us/stat/108/1375]; [Pub. L. 109–304, § 12][/us/pl/109/304/s12], Oct. 6, 2006, [120 Stat. 1698][/us/stat/120/1698]; [Pub. L. 111–84, div. C, title XXXV, § 3508][/us/pl/111/84/s3508], Oct. 28, 2009, [123 Stat. 2721][/us/stat/123/2721]; [Pub. L. 111–383, div. A, title X, § 1075(d)(26)][/us/pl/111/383/s1075/d/26], Jan. 7, 2011, [124 Stat. 4374][/us/stat/124/4374]; [Pub. L. 112–213, title IV, § 409][/us/pl/112/213/s409], Dec. 20, 2012, [126 Stat. 1572][/us/stat/126/1572].)
+([Pub. L. 97–449][/us/pl/97/449], § 1(b), Jan. 12, 1983, [96 Stat. 2417][/us/stat/96/2417]; [Pub. L. 103–272][/us/pl/103/272], § 5(m)(5), July 5, 1994, [108 Stat. 1375][/us/stat/108/1375]; [Pub. L. 109–304][/us/pl/109/304], § 12, Oct. 6, 2006, [120 Stat. 1698][/us/stat/120/1698]; [Pub. L. 111–84, div. C, title XXXV][/us/pl/111/84/dC/tXXXV], § 3508, Oct. 28, 2009, [123 Stat. 2721][/us/stat/123/2721]; [Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1075(d)(26), Jan. 7, 2011, [124 Stat. 4374][/us/stat/124/4374]; [Pub. L. 112–213, title IV][/us/pl/112/213/tIV], § 409, Dec. 20, 2012, [126 Stat. 1572][/us/stat/126/1572].)
 
 <table>
 
@@ -417,15 +417,15 @@ Pub. L. 100–202, § 101(a) [title V (4th proviso on p. 1329–28)], Dec. 22,
 
     2012—Subsec. (a). [Pub. L. 112–213][/us/pl/112/213] substituted “Organization and Mission” for “Organization” in heading and inserted at end of text “The mission of the Maritime Administration is to foster, promote, and develop the merchant maritime industry of the United States.”
 
-    2011—Subsec. (h). [Pub. L. 111–383][/us/pl/111/383] made technical amendment to directory language of [Pub. L. 111–84, § 3508(1)][/us/pl/111/84/s3508/1]. See 2009 Amendment note below.
+    2011—Subsec. (h). [Pub. L. 111–383][/us/pl/111/383] made technical amendment to directory language of [Pub. L. 111–84][/us/pl/111/84], § 3508(1). See 2009 Amendment note below.
 
-    2009—Subsec. (h). [Pub. L. 111–84, § 3508(1)][/us/pl/111/84/s3508/1], as amended by [Pub. L. 111–383][/us/pl/111/383], substituted “Contracts, Cooperative Agreements, and Audits” for “Contracts and Audits” in heading.
+    2009—Subsec. (h). [Pub. L. 111–84][/us/pl/111/84], § 3508(1), as amended by [Pub. L. 111–383][/us/pl/111/383], substituted “Contracts, Cooperative Agreements, and Audits” for “Contracts and Audits” in heading.
 
-    Subsec. (h)(1). [Pub. L. 111–84, § 3508(2)][/us/pl/111/84/s3508/2], (3), substituted “Contracts and cooperative agreements” for “Contracts” in heading and “make contracts and cooperative agreements” for “make contracts” in introductory provisions.
+    Subsec. (h)(1). [Pub. L. 111–84][/us/pl/111/84], § 3508(2), (3), substituted “Contracts and cooperative agreements” for “Contracts” in heading and “make contracts and cooperative agreements” for “make contracts” in introductory provisions.
 
-    Subsec. (h)(1)(A). [Pub. L. 111–84, § 3508(4)][/us/pl/111/84/s3508/4], (5), substituted “section,” for “section and” and “title 46, and all other Maritime Administration programs;” for “title 46;”.
+    Subsec. (h)(1)(A). [Pub. L. 111–84][/us/pl/111/84], § 3508(4), (5), substituted “section,” for “section and” and “title 46, and all other Maritime Administration programs;” for “title 46;”.
 
-    Subsecs. (i), (j). [Pub. L. 111–84, § 3508(6)][/us/pl/111/84/s3508/6], added subsec. (i) and redesignated former subsec. (i) as (j).
+    Subsecs. (i), (j). [Pub. L. 111–84][/us/pl/111/84], § 3508(6), added subsec. (i) and redesignated former subsec. (i) as (j).
 
     2006—[Pub. L. 109–304][/us/pl/109/304] amended section generally. Prior to amendment, section read as follows:
 
@@ -437,17 +437,17 @@ Pub. L. 100–202, § 101(a) [title V (4th proviso on p. 1329–28)], Dec. 22,
 
  __Effective Date of 2011 Amendment__ 
 
-    [Pub. L. 111–383, div. A, title X, § 1075(d)][/us/pl/111/383/s1075/d], Jan. 7, 2011, [124 Stat. 4372][/us/stat/124/4372], provided that the amendment by section 1075(d)(26) is effective as of Oct. 28, 2009, and as if included in [Pub. L. 111–84][/us/pl/111/84] as enacted.
+    [Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1075(d), Jan. 7, 2011, [124 Stat. 4372][/us/stat/124/4372], provided that the amendment by section 1075(d)(26) is effective as of Oct. 28, 2009, and as if included in [Pub. L. 111–84][/us/pl/111/84] as enacted.
 
  __References in Other Federal Laws to Functions or Offices Transferred__ 
 
-[Pub. L. 97–31, § 10][/us/pl/97/31/s10], Aug. 6, 1981, [95 Stat. 153][/us/stat/95/153], provided that: 
+[Pub. L. 97–31][/us/pl/97/31], § 10, Aug. 6, 1981, [95 Stat. 153][/us/stat/95/153], provided that: 
 
 > “With respect to any function or office transferred by this Act \[see Tables for classification\] and exercised on or after the effective date of this Act \[Aug. 6, 1981\], reference in any other Federal law to the Maritime Administration or any of its predecessor agencies or any officer or office the functions of which are so transferred shall be deemed to refer to the Secretary of Transportation, other official, or component of the Department of Transportation to which this Act transfers such functions.”
 
  __Expansion of the Marine View System__ 
 
-[Pub. L. 111–84, div. C, title XXXV, § 3516][/us/pl/111/84/s3516], Oct. 28, 2009, [123 Stat. 2725][/us/stat/123/2725], provided that:
+[Pub. L. 111–84, div. C, title XXXV][/us/pl/111/84/dC/tXXXV], § 3516, Oct. 28, 2009, [123 Stat. 2725][/us/stat/123/2725], provided that:
 
 >     “(a)  __Definitions__  __.—__ 
 
@@ -492,37 +492,37 @@ Pub. L. 100–202, § 101(a) [title V (4th proviso on p. 1329–28)], Dec. 22,
 ----------
 ----------
 
-[/us/pl/97/449/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449%2Fs1%2Fb
+[/us/pl/97/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449
 [/us/stat/96/2417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2417
-[/us/pl/103/272/s5/m/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs5%2Fm%2F5
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1375
-[/us/pl/109/304/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs12
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1698]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1698
-[/us/pl/111/84/s3508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs3508
+[/us/pl/111/84/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdC%2FtXXXV
 [/us/stat/123/2721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2721
-[/us/pl/111/383/s1075/d/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fd%2F26
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4374
-[/us/pl/112/213/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs409
+[/us/pl/112/213/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2FtIV
 [/us/stat/126/1572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1572
 [/us/usc/t5/s5314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5314
 [/us/usc/t5/s2102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2102%2Fc
 [/us/stat/42/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F444
 [/us/pl/112/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
-[/us/pl/111/84/s3508/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs3508%2F1
-[/us/pl/111/84/s3508/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs3508%2F1
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
-[/us/pl/111/84/s3508/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs3508%2F2
-[/us/pl/111/84/s3508/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs3508%2F4
-[/us/pl/111/84/s3508/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs3508%2F6
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
-[/us/pl/111/383/s1075/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fd
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4372
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
-[/us/pl/97/31/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F31%2Fs10
+[/us/pl/97/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F31
 [/us/stat/95/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F153
-[/us/pl/111/84/s3516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs3516
+[/us/pl/111/84/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdC%2FtXXXV
 [/us/stat/123/2725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2725
 
 

@@ -23,7 +23,7 @@
 
     It shall be unlawful to coerce or attempt to coerce any person providing transportation of property by motor vehicle for compensation in interstate commerce (whether or not such transportation is subject to jurisdiction under subchapter I of chapter 135) to load or unload any part of such property onto or from such vehicle or to employ or pay one or more persons to load or unload any part of such property onto or from such vehicle; except that this subsection shall not be construed as making unlawful any activity which is not unlawful under the National Labor Relations Act or the Act of March 23, 1932 ([47 Stat. 70][/us/stat/47/70]; [29 U.S.C. 101][/us/usc/t29/s101] et seq.), commonly known as the Norris-LaGuardia Act.
 
-(Added [Pub. L. 104–88, title I, § 103][/us/pl/104/88/s103], Dec. 29, 1995, [109 Stat. 891][/us/stat/109/891].)
+(Added [Pub. L. 104–88, title I][/us/pl/104/88/tI], § 103, Dec. 29, 1995, [109 Stat. 891][/us/stat/109/891].)
 
  __References in Text__ 
 
@@ -33,11 +33,11 @@
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [section 11109 of this title][/us/usc/t49/s11109] prior to the general amendment of this subtitle by [Pub. L. 104–88, § 102(a)][/us/pl/104/88/s102/a].
+    Provisions similar to those in this section were contained in [section 11109 of this title][/us/usc/t49/s11109] prior to the general amendment of this subtitle by [Pub. L. 104–88][/us/pl/104/88], § 102(a).
 
  __Collection of Data on Delays in Goods Movement__ 
 
-[Pub. L. 114–94, div. A, title V, § 5501(b)][/us/pl/114/94/s5501/b], Dec. 4, 2015, [129 Stat. 1550][/us/stat/129/1550], provided that: 
+[Pub. L. 114–94, div. A, title V][/us/pl/114/94/dA/tV], § 5501(b), Dec. 4, 2015, [129 Stat. 1550][/us/stat/129/1550], provided that: 
 
 > “Not later than 2 years after the date of enactment of this Act \[Dec. 4, 2015\], the Secretary \[of Transportation\] shall establish by regulation a process to collect data on delays experienced by operators of commercial motor vehicles before the loading and unloading of such vehicles and at other points in the pick-up and delivery process.”
 
@@ -50,7 +50,7 @@
 
 [/us/stat/47/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F70
 [/us/usc/t29/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs101
-[/us/pl/104/88/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs103
+[/us/pl/104/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtI
 [/us/stat/109/891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F891
 [/us/act/1935-07-05/ch372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-07-05%2Fch372
 [/us/stat/49/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F449
@@ -59,8 +59,8 @@
 [/us/stat/47/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F70
 [/us/usc/t29/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs101
 [/us/usc/t49/s11109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs11109
-[/us/pl/104/88/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs102%2Fa
-[/us/pl/114/94/s5501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5501%2Fb
+[/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
+[/us/pl/114/94/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtV
 [/us/stat/129/1550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1550
 
 

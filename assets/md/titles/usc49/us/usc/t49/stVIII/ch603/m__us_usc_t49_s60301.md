@@ -43,7 +43,7 @@
 
     Fees prescribed under subsection (a) of this section shall be sufficient to pay for the costs of activities described in subsection (d) of this section. However, the total amount collected for a fiscal year may not be more than 105 percent of the total amount of the appropriations made for the fiscal year for activities to be financed by the fees.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1328][/us/stat/108/1328].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1328][/us/stat/108/1328].)
 
 <table>
 
@@ -163,7 +163,7 @@ Apr. 7, 1986, Pub. L. 99–272, § 7005, 100 Stat. 140.  </td>
 
  __Study and Report on User Fee Assessment Factors__ 
 
-[Pub. L. 104–304, § 17][/us/pl/104/304/s17], Oct. 12, 1996, [110 Stat. 3803][/us/stat/110/3803], provided that:
+[Pub. L. 104–304][/us/pl/104/304], § 17, Oct. 12, 1996, [110 Stat. 3803][/us/stat/110/3803], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -184,11 +184,11 @@ Apr. 7, 1986, Pub. L. 99–272, § 7005, 100 Stat. 140.  </td>
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1328
 [/us/pl/108/426/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F426%2Fs2%2Fb
 [/us/usc/t49/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs108
-[/us/pl/104/304/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304%2Fs17
+[/us/pl/104/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304
 [/us/stat/110/3803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3803
 
 

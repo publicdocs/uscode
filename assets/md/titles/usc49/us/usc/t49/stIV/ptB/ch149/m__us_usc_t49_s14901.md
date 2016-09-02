@@ -91,29 +91,29 @@
 
     Nothing in this section shall be construed to prohibit the Secretary from accepting partial payment of a civil penalty as part of a settlement agreement in the public interest, or from holding imposition of any part of a civil penalty in abeyance.
 
-(Added [Pub. L. 104–88, title I, § 103][/us/pl/104/88/s103], Dec. 29, 1995, [109 Stat. 913][/us/stat/109/913]; amended [Pub. L. 109–59, title IV, § 4209][/us/pl/109/59/s4209], Aug. 10, 2005, [119 Stat. 1758][/us/stat/119/1758]; [Pub. L. 112–141, div. C, title II][/us/pl/112/141], §§ 32108, 32923(a), July 6, 2012, [126 Stat. 782][/us/stat/126/782], 828; [Pub. L. 114–94, div. A, title V, § 5508(a)(4)][/us/pl/114/94/s5508/a/4], (b)(1), Dec. 4, 2015, [129 Stat. 1554][/us/stat/129/1554].)
+(Added [Pub. L. 104–88, title I][/us/pl/104/88/tI], § 103, Dec. 29, 1995, [109 Stat. 913][/us/stat/109/913]; amended [Pub. L. 109–59, title IV][/us/pl/109/59/tIV], § 4209, Aug. 10, 2005, [119 Stat. 1758][/us/stat/119/1758]; [Pub. L. 112–141, div. C, title II][/us/pl/112/141/dC/tII], §§ 32108, 32923(a), July 6, 2012, [126 Stat. 782][/us/stat/126/782], 828; [Pub. L. 114–94, div. A, title V][/us/pl/114/94/dA/tV], § 5508(a)(4), (b)(1), Dec. 4, 2015, [129 Stat. 1554][/us/stat/129/1554].)
 
  __References in Text__ 
 
-    The Solid Waste Disposal Act, referred to in subsec. (b), is title II of [Pub. L. 89–272][/us/pl/89/272], as amended generally by [Pub. L. 94–580, § 2][/us/pl/94/580/s2], Oct. 21, 1976, [90 Stat. 2795][/us/stat/90/2795], which is classified generally to chapter 82 (§ 6901 et seq.) of Title 42, The Public Health and Welfare. Section 3001 of the Act is classified to [section 6921 of Title 42][/us/usc/t42/s6921]. For complete classification of this Act to the Code, see Short Title note set out under [section 6901 of Title 42][/us/usc/t42/s6901] and Tables.
+    The Solid Waste Disposal Act, referred to in subsec. (b), is title II of [Pub. L. 89–272][/us/pl/89/272], as amended generally by [Pub. L. 94–580][/us/pl/94/580], § 2, Oct. 21, 1976, [90 Stat. 2795][/us/stat/90/2795], which is classified generally to chapter 82 (§ 6901 et seq.) of Title 42, The Public Health and Welfare. Section 3001 of the Act is classified to [section 6921 of Title 42][/us/usc/t42/s6921]. For complete classification of this Act to the Code, see Short Title note set out under [section 6901 of Title 42][/us/usc/t42/s6901] and Tables.
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in sections 10751 and 11901 of this title prior to the general amendment of this subtitle by [Pub. L. 104–88, § 102(a)][/us/pl/104/88/s102/a].
+    Provisions similar to those in this section were contained in sections 10751 and 11901 of this title prior to the general amendment of this subtitle by [Pub. L. 104–88][/us/pl/104/88], § 102(a).
 
  __Amendments__ 
 
-    2015—Subsec. (a). [Pub. L. 114–94, § 5508(b)(1)][/us/pl/114/94/s5508/b/1], amended [Pub. L. 112–141, § 32108(a)(4)][/us/pl/112/141/s32108/a/4]. See 2012 Amendment note below.
+    2015—Subsec. (a). [Pub. L. 114–94][/us/pl/114/94], § 5508(b)(1), amended [Pub. L. 112–141][/us/pl/112/141], § 32108(a)(4). See 2012 Amendment note below.
 
-    Subsec. (h). [Pub. L. 114–94, § 5508(a)(4)][/us/pl/114/94/s5508/a/4], struck out “Household Goods” after “Settlement of” in heading.
+    Subsec. (h). [Pub. L. 114–94][/us/pl/114/94], § 5508(a)(4), struck out “Household Goods” after “Settlement of” in heading.
 
-    2012—Subsec. (a). [Pub. L. 112–141, § 32108(a)(4)][/us/pl/112/141/s32108/a/4], as amended by [Pub. L. 114–94, § 5508(b)(1)][/us/pl/114/94/s5508/b/1], substituted “$10,000 for each violation, or $25,000 for each violation relating to providing transportation of passengers” for “$2,000 for each violation and for each additional day the violation continues” in concluding provisions.
+    2012—Subsec. (a). [Pub. L. 112–141][/us/pl/112/141], § 32108(a)(4), as amended by [Pub. L. 114–94][/us/pl/114/94], § 5508(b)(1), substituted “$10,000 for each violation, or $25,000 for each violation relating to providing transportation of passengers” for “$2,000 for each violation and for each additional day the violation continues” in concluding provisions.
 
-    [Pub. L. 112–141, § 32108(a)(1)][/us/pl/112/141/s32108/a/1]–(3), substituted “$1,000” for “$500” and “or [section 13902(c) of this title][/us/usc/t49/s13902/c],” for “with respect to providing transportation of passengers,” and struck out “who is not registered under this part to provide transportation of passengers,” after “in the case of a person” in concluding provisions.
+    [Pub. L. 112–141][/us/pl/112/141], § 32108(a)(1)–(3), substituted “$1,000” for “$500” and “or [section 13902(c) of this title][/us/usc/t49/s13902/c],” for “with respect to providing transportation of passengers,” and struck out “who is not registered under this part to provide transportation of passengers,” after “in the case of a person” in concluding provisions.
 
-    Subsec. (b). [Pub. L. 112–141, § 32108(b)][/us/pl/112/141/s32108/b], substituted “not less than $20,000, but not to exceed $40,000” for “not to exceed $20,000”.
+    Subsec. (b). [Pub. L. 112–141][/us/pl/112/141], § 32108(b), substituted “not less than $20,000, but not to exceed $40,000” for “not to exceed $20,000”.
 
-    Subsec. (h). [Pub. L. 112–141, § 32923(a)][/us/pl/112/141/s32923/a], added subsec. (h).
+    Subsec. (h). [Pub. L. 112–141][/us/pl/112/141], § 32923(a), added subsec. (h).
 
     2005—Subsec. (d). [Pub. L. 109–59][/us/pl/109/59] designated existing provisions as par. (1), inserted heading, and added pars. (2) and (3).
 
@@ -121,7 +121,7 @@
 
     Amendment by [section 5508(a)(4) of Pub. L. 114–94][/us/pl/114/94/s5508/a/4] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
 
-    [Pub. L. 114–94, div. A, title V, § 5508(b)][/us/pl/114/94/s5508/b], Dec. 4, 2015, [129 Stat. 1554][/us/stat/129/1554], provided that the amendment made by section 5508(b)(1) is effective as of July 6, 2012, and as if included in [Pub. L. 112–141][/us/pl/112/141] as enacted.
+    [Pub. L. 114–94, div. A, title V][/us/pl/114/94/dA/tV], § 5508(b), Dec. 4, 2015, [129 Stat. 1554][/us/stat/129/1554], provided that the amendment made by section 5508(b)(1) is effective as of July 6, 2012, and as if included in [Pub. L. 112–141][/us/pl/112/141] as enacted.
 
  __Effective Date of 2012 Amendment__ 
 
@@ -133,7 +133,7 @@
 
  __Foreign Motor Carrier Penalties and Disqualifications__ 
 
-[Pub. L. 106–159, title II, § 219][/us/pl/106/159/s219], Dec. 9, 1999, [113 Stat. 1768][/us/stat/113/1768], provided that:
+[Pub. L. 106–159, title II][/us/pl/106/159/tII], § 219, Dec. 9, 1999, [113 Stat. 1768][/us/stat/113/1768], provided that:
 
 >     “(a)  __General Rule__  __.—__ 
 
@@ -168,34 +168,34 @@
 
 [/us/usc/t49/s13902/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs13902%2Fc
 [/us/usc/t49/s13901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs13901
-[/us/pl/104/88/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs103
+[/us/pl/104/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtI
 [/us/stat/109/913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F913
-[/us/pl/109/59/s4209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4209
+[/us/pl/109/59/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIV
 [/us/stat/119/1758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1758
-[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtII
 [/us/stat/126/782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F782
-[/us/pl/114/94/s5508/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5508%2Fa%2F4
+[/us/pl/114/94/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtV
 [/us/stat/129/1554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1554
 [/us/pl/89/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272
-[/us/pl/94/580/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580%2Fs2
+[/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
 [/us/stat/90/2795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2795
 [/us/usc/t42/s6921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6921
 [/us/usc/t42/s6901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6901
-[/us/pl/104/88/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs102%2Fa
-[/us/pl/114/94/s5508/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5508%2Fb%2F1
-[/us/pl/112/141/s32108/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32108%2Fa%2F4
-[/us/pl/114/94/s5508/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5508%2Fa%2F4
-[/us/pl/112/141/s32108/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32108%2Fa%2F4
-[/us/pl/114/94/s5508/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5508%2Fb%2F1
-[/us/pl/112/141/s32108/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32108%2Fa%2F1
+[/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t49/s13902/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs13902%2Fc
-[/us/pl/112/141/s32108/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32108%2Fb
-[/us/pl/112/141/s32923/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32923%2Fa
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/114/94/s5508/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5508%2Fa%2F4
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
-[/us/pl/114/94/s5508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5508%2Fb
+[/us/pl/114/94/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtV
 [/us/stat/129/1554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1554
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
@@ -204,7 +204,7 @@
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/104/88/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs2
 [/us/usc/t49/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1301
-[/us/pl/106/159/s219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2Fs219
+[/us/pl/106/159/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2FtII
 [/us/stat/113/1768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1768
 [/us/usc/t49/s13102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs13102
 [/us/usc/t49/s13902/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs13902%2Fc

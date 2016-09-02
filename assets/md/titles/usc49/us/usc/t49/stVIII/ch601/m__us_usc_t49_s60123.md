@@ -51,7 +51,7 @@
 
         Penalties under this subsection may be reduced in the case of a violation that is promptly reported by the violator.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1325][/us/stat/108/1325]; [Pub. L. 104–304][/us/pl/104/304], §§ 14, 18(b)(1), Oct. 12, 1996, [110 Stat. 3803][/us/stat/110/3803], 3804; [Pub. L. 107–56, title VIII][/us/pl/107/56], §§ 810(h), 811(k), Oct. 26, 2001, [115 Stat. 381][/us/stat/115/381], 382; [Pub. L. 107–355][/us/pl/107/355], §§ 3(c), 8(c), 21(4), Dec. 17, 2002, [116 Stat. 2986][/us/stat/116/2986], 2994, 3010.)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1325][/us/stat/108/1325]; [Pub. L. 104–304][/us/pl/104/304], §§ 14, 18(b)(1), Oct. 12, 1996, [110 Stat. 3803][/us/stat/110/3803], 3804; [Pub. L. 107–56, title VIII][/us/pl/107/56/tVIII], §§ 810(h), 811(k), Oct. 26, 2001, [115 Stat. 381][/us/stat/115/381], 382; [Pub. L. 107–355][/us/pl/107/355], §§ 3(c), 8(c), 21(4), Dec. 17, 2002, [116 Stat. 2986][/us/stat/116/2986], 2994, 3010.)
 
 <table>
 
@@ -203,21 +203,21 @@ Aug. 12, 1968, Pub. L. 90–481, 82 Stat. 720, § 20(g); added Oct. 24, 1992, 
 
  __Amendments__ 
 
-    2002—Subsec. (a). [Pub. L. 107–355, § 21(4)][/us/pl/107/355/s21/4], substituted “60114(b)” for “60114(c)”.
+    2002—Subsec. (a). [Pub. L. 107–355][/us/pl/107/355], § 21(4), substituted “60114(b)” for “60114(c)”.
 
-    Subsec. (b). [Pub. L. 107–355, § 8(c)][/us/pl/107/355/s8/c], substituted “gas pipeline facility, an” for “gas pipeline facility or” and inserted “, or either an intrastate gas pipeline facility or intrastate hazardous liquid pipeline facility that is used in interstate or foreign commerce or in any activity affecting interstate or foreign commerce” after “liquid pipeline facility”.
+    Subsec. (b). [Pub. L. 107–355][/us/pl/107/355], § 8(c), substituted “gas pipeline facility, an” for “gas pipeline facility or” and inserted “, or either an intrastate gas pipeline facility or intrastate hazardous liquid pipeline facility that is used in interstate or foreign commerce or in any activity affecting interstate or foreign commerce” after “liquid pipeline facility”.
 
-    Subsec. (d). [Pub. L. 107–355, § 3(c)(1)][/us/pl/107/355/s3/c/1], (4), struck out “knowingly and willfully” after “if the person” in introductory provisions and inserted concluding provisions.
+    Subsec. (d). [Pub. L. 107–355][/us/pl/107/355], § 3(c)(1), (4), struck out “knowingly and willfully” after “if the person” in introductory provisions and inserted concluding provisions.
 
-    Subsec. (d)(1). [Pub. L. 107–355, § 3(c)(2)][/us/pl/107/355/s3/c/2], inserted “knowingly and willfully” before “engages”.
+    Subsec. (d)(1). [Pub. L. 107–355][/us/pl/107/355], § 3(c)(2), inserted “knowingly and willfully” before “engages”.
 
-    Subsec. (d)(2)(B). [Pub. L. 107–355, § 3(c)(3)][/us/pl/107/355/s3/c/3], added subpar. (B) and struck out former subpar. (B) which read as follows: “a pipeline facility that does not report the damage promptly to the operator of the pipeline facility and to other appropriate authorities; or”.
+    Subsec. (d)(2)(B). [Pub. L. 107–355][/us/pl/107/355], § 3(c)(3), added subpar. (B) and struck out former subpar. (B) which read as follows: “a pipeline facility that does not report the damage promptly to the operator of the pipeline facility and to other appropriate authorities; or”.
 
     2001—Subsec. (b). [Pub. L. 107–56][/us/pl/107/56] struck out “, or attempting to damage or destroy,” before “an interstate gas pipeline facility”, inserted “, or attempting or conspiring to do such an act,” before “shall be fined under title 18,” and substituted “20 years, or both, and, if death results to any person, shall be imprisoned for any term of years or for life.” for “15 years, or both.”
 
-    1996—Subsec. (a). [Pub. L. 104–304, § 18(b)(1)][/us/pl/104/304/s18/b/1], substituted “, 60118(a), or 60128” for “or 60118(a)”.
+    1996—Subsec. (a). [Pub. L. 104–304][/us/pl/104/304], § 18(b)(1), substituted “, 60118(a), or 60128” for “or 60118(a)”.
 
-    Subsec. (d)(2). [Pub. L. 104–304, § 14][/us/pl/104/304/s14], added subpar. (B) and redesignated former subpar. (B) as (C).
+    Subsec. (d)(2). [Pub. L. 104–304][/us/pl/104/304], § 14, added subpar. (B) and redesignated former subpar. (B) as (C).
 
 ----------
 
@@ -226,21 +226,21 @@ Aug. 12, 1968, Pub. L. 90–481, 82 Stat. 720, § 20(g); added Oct. 24, 1992, 
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1325
 [/us/pl/104/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304
 [/us/stat/110/3803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3803
-[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtVIII
 [/us/stat/115/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F381
 [/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355
 [/us/stat/116/2986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2986
-[/us/pl/107/355/s21/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355%2Fs21%2F4
-[/us/pl/107/355/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355%2Fs8%2Fc
-[/us/pl/107/355/s3/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355%2Fs3%2Fc%2F1
-[/us/pl/107/355/s3/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355%2Fs3%2Fc%2F2
-[/us/pl/107/355/s3/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355%2Fs3%2Fc%2F3
+[/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355
+[/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355
+[/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355
+[/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355
+[/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355
 [/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
-[/us/pl/104/304/s18/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304%2Fs18%2Fb%2F1
-[/us/pl/104/304/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304%2Fs14
+[/us/pl/104/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304
+[/us/pl/104/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304
 
 

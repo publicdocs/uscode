@@ -45,7 +45,7 @@
 
             This paragraph shall not limit the applicability of paragraph (1).
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1143][/us/stat/108/1143]; [Pub. L. 103–305, title VI, § 601(b)(1)][/us/pl/103/305/s601/b/1], (2)(A), Aug. 23, 1994, [108 Stat. 1605][/us/stat/108/1605], 1606; [Pub. L. 105–102, § 2(23)][/us/pl/105/102/s2/23], Nov. 20, 1997, [111 Stat. 2205][/us/stat/111/2205].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1143][/us/stat/108/1143]; [Pub. L. 103–305, title VI][/us/pl/103/305/tVI], § 601(b)(1), (2)(A), Aug. 23, 1994, [108 Stat. 1605][/us/stat/108/1605], 1606; [Pub. L. 105–102][/us/pl/105/102], § 2(23), Nov. 20, 1997, [111 Stat. 2205][/us/stat/111/2205].)
 
 <table>
 
@@ -191,9 +191,9 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 1601(b)(1)(E); added Oct. 4,
 
     1997—Subsec. (b)(4)(B)(ii). [Pub. L. 105–102][/us/pl/105/102] substituted “13102” for “10102”.
 
-    1994—Subsec. (b)(2). [Pub. L. 103–305, § 601(b)(2)(A)][/us/pl/103/305/s601/b/2/A], substituted “Paragraphs (1) and (4) of this subsection do” for “Paragraph (1) of this subsection does”.
+    1994—Subsec. (b)(2). [Pub. L. 103–305][/us/pl/103/305], § 601(b)(2)(A), substituted “Paragraphs (1) and (4) of this subsection do” for “Paragraph (1) of this subsection does”.
 
-    Subsec. (b)(4). [Pub. L. 103–305, § 601(b)(1)][/us/pl/103/305/s601/b/1], added par. (4).
+    Subsec. (b)(4). [Pub. L. 103–305][/us/pl/103/305], § 601(b)(1), added par. (4).
 
  __Effective Date of 1994 Amendment__ 
 
@@ -208,18 +208,18 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 1601(b)(1)(E); added Oct. 4,
 
 [/us/usc/t49/s41102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs41102
 [/us/usc/t49/s13102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs13102
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1143
-[/us/pl/103/305/s601/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2Fs601%2Fb%2F1
+[/us/pl/103/305/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2FtVI
 [/us/stat/108/1605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1605
-[/us/pl/105/102/s2/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102%2Fs2%2F23
+[/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/stat/111/2205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2205
 [/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/stat/109/803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F803
 [/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
-[/us/pl/103/305/s601/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2Fs601%2Fb%2F2%2FA
-[/us/pl/103/305/s601/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2Fs601%2Fb%2F1
+[/us/pl/103/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305
+[/us/pl/103/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305
 [/us/pl/103/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305
 [/us/pl/103/305/s601/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2Fs601%2Fd
 [/us/usc/t49/s10521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs10521

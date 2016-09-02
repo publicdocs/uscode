@@ -45,7 +45,7 @@
 
     (4) “State” means a State of the United States, the District of Columbia, Puerto Rico, the Virgin Islands, American Samoa, Guam, and the Northern Mariana Islands.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 984][/us/stat/108/984]; [Pub. L. 105–178, title IV, § 4003(a)][/us/pl/105/178/s4003/a], June 9, 1998, [112 Stat. 395][/us/stat/112/395].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 984][/us/stat/108/984]; [Pub. L. 105–178, title IV][/us/pl/105/178/tIV], § 4003(a), June 9, 1998, [112 Stat. 395][/us/stat/112/395].)
 
 <table>
 
@@ -117,13 +117,13 @@ Jan. 6, 1983, Pub. L. 97–424, § 401(2), 96 Stat. 2154; Oct. 30, 1984, Pub. 
 
  __Amendments__ 
 
-    1998—Par. (1)(A). [Pub. L. 105–178, § 4003(a)(1)][/us/pl/105/178/s4003/a/1], inserted “or gross vehicle weight” after “rating” and substituted “10,001 pounds, whichever is greater” for “10,000 pounds”.
+    1998—Par. (1)(A). [Pub. L. 105–178][/us/pl/105/178], § 4003(a)(1), inserted “or gross vehicle weight” after “rating” and substituted “10,001 pounds, whichever is greater” for “10,000 pounds”.
 
-    Par. (1)(C). [Pub. L. 105–178, § 4003(a)(2)][/us/pl/105/178/s4003/a/2], inserted “and transported in a quantity requiring placarding under regulations prescribed by the Secretary under section 5103” before period at end.
+    Par. (1)(C). [Pub. L. 105–178][/us/pl/105/178], § 4003(a)(2), inserted “and transported in a quantity requiring placarding under regulations prescribed by the Secretary under section 5103” before period at end.
 
  __Savings Clause__ 
 
-[Pub. L. 105–178, title IV, § 4003(h)][/us/pl/105/178/s4003/h], June 9, 1998, [112 Stat. 398][/us/stat/112/398], provided that: 
+[Pub. L. 105–178, title IV][/us/pl/105/178/tIV], § 4003(h), June 9, 1998, [112 Stat. 398][/us/stat/112/398], provided that: 
 
 > “Amendments made by this section \[amending this section and sections 31102 to 31104 of this title\] shall not affect any funds made available before the date of enactment of this Act \[June 9, 1998\].”
 
@@ -135,13 +135,13 @@ Jan. 6, 1983, Pub. L. 97–424, § 401(2), 96 Stat. 2154; Oct. 30, 1984, Pub. 
 ----------
 
 [/us/usc/t49/s5103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5103
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F984
-[/us/pl/105/178/s4003/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4003%2Fa
+[/us/pl/105/178/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtIV
 [/us/stat/112/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F395
-[/us/pl/105/178/s4003/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4003%2Fa%2F1
-[/us/pl/105/178/s4003/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4003%2Fa%2F2
-[/us/pl/105/178/s4003/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4003%2Fh
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtIV
 [/us/stat/112/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F398
 
 

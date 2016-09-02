@@ -107,9 +107,9 @@
 
  __Amendments__ 
 
-    2007—[Pub. L. 110–140, title I, § 111(c)][/us/pl/110/140/s111/c], Dec. 19, 2007, [121 Stat. 1507][/us/stat/121/1507], added item 32304A.
+    2007—[Pub. L. 110–140, title I][/us/pl/110/140/tI], § 111(c), Dec. 19, 2007, [121 Stat. 1507][/us/stat/121/1507], added item 32304A.
 
-    1994—[Pub. L. 103–429, § 6(28)][/us/pl/103/429/s6/28], Oct. 31, 1994, [108 Stat. 4380][/us/stat/108/4380], substituted “Civil” for “Criminal” in item 32309.
+    1994—[Pub. L. 103–429][/us/pl/103/429], § 6(28), Oct. 31, 1994, [108 Stat. 4380][/us/stat/108/4380], substituted “Civil” for “Criminal” in item 32309.
 
 ----------
 
@@ -118,9 +118,9 @@
 ----------
 ----------
 
-[/us/pl/110/140/s111/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs111%2Fc
+[/us/pl/110/140/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtI
 [/us/stat/121/1507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1507
-[/us/pl/103/429/s6/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F28
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/stat/108/4380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4380
 
 

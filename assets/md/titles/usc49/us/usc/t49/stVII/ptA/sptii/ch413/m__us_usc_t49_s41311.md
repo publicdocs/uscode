@@ -27,11 +27,11 @@
 
         (2) by the operation of which a person may become entitled to receive, as the result of the application of an element of chance, any money or property.
 
-(Added [Pub. L. 103–305, title II, § 205(a)(1)][/us/pl/103/305/s205/a/1], Aug. 23, 1994, [108 Stat. 1583][/us/stat/108/1583].)
+(Added [Pub. L. 103–305, title II][/us/pl/103/305/tII], § 205(a)(1), Aug. 23, 1994, [108 Stat. 1583][/us/stat/108/1583].)
 
  __Study of Gambling on Commercial Aircraft__ 
 
-[Pub. L. 103–305, title II, § 205(b)][/us/pl/103/305/s205/b], Aug. 23, 1994, [108 Stat. 1583][/us/stat/108/1583], provided that: 
+[Pub. L. 103–305, title II][/us/pl/103/305/tII], § 205(b), Aug. 23, 1994, [108 Stat. 1583][/us/stat/108/1583], provided that: 
 
 > “Not later than 1 year after the date of the enactment of this Act \[Aug. 23, 1994\], the Secretary shall complete a study of—
 
@@ -50,9 +50,9 @@
 ----------
 ----------
 
-[/us/pl/103/305/s205/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2Fs205%2Fa%2F1
+[/us/pl/103/305/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2FtII
 [/us/stat/108/1583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1583
-[/us/pl/103/305/s205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2Fs205%2Fb
+[/us/pl/103/305/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2FtII
 [/us/stat/108/1583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1583
 
 

@@ -47,7 +47,7 @@
 
         (4) in the vicinity of a grade crossing, who creates a hazard of an accident involving injury or property damage at the grade crossing.
 
-(Added [Pub. L. 103–440, title II, § 219(a)][/us/pl/103/440/s219/a], Nov. 2, 1994, [108 Stat. 4625][/us/stat/108/4625]; amended [Pub. L. 104–287, § 5(49)][/us/pl/104/287/s5/49], Oct. 11, 1996, [110 Stat. 3393][/us/stat/110/3393]; [Pub. L. 110–432, div. A, title II, § 208(a)][/us/pl/110/432/s208/a], Oct. 16, 2008, [122 Stat. 4875][/us/stat/122/4875].)
+(Added [Pub. L. 103–440, title II][/us/pl/103/440/tII], § 219(a), Nov. 2, 1994, [108 Stat. 4625][/us/stat/108/4625]; amended [Pub. L. 104–287][/us/pl/104/287], § 5(49), Oct. 11, 1996, [110 Stat. 3393][/us/stat/110/3393]; [Pub. L. 110–432, div. A, title II][/us/pl/110/432/dA/tII], § 208(a), Oct. 16, 2008, [122 Stat. 4875][/us/stat/122/4875].)
 
  __References in Text__ 
 
@@ -55,15 +55,15 @@
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–432, § 208(a)(1)][/us/pl/110/432/s208/a/1], substituted “Railroad trespassing, vandalism, and highway-rail grade crossing warning sign violation prevention strategy” for “Railroad trespassing and vandalism prevention strategy” in section catchline.
+    2008—[Pub. L. 110–432][/us/pl/110/432], § 208(a)(1), substituted “Railroad trespassing, vandalism, and highway-rail grade crossing warning sign violation prevention strategy” for “Railroad trespassing and vandalism prevention strategy” in section catchline.
 
-    Subsec. (a). [Pub. L. 110–432, § 208(a)(2)][/us/pl/110/432/s208/a/2], added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “In consultation with affected parties, the Secretary of Transportation shall evaluate and review current local, State, and Federal laws regarding trespassing on railroad property and vandalism affecting railroad safety, and develop model prevention strategies and enforcement laws to be used for the consideration of State and local legislatures and governmental entities. The first such evaluation and review shall be completed within 1 year after November 2, 1994. The Secretary shall revise such model prevention strategies and enforcement codes periodically.”
+    Subsec. (a). [Pub. L. 110–432][/us/pl/110/432], § 208(a)(2), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “In consultation with affected parties, the Secretary of Transportation shall evaluate and review current local, State, and Federal laws regarding trespassing on railroad property and vandalism affecting railroad safety, and develop model prevention strategies and enforcement laws to be used for the consideration of State and local legislatures and governmental entities. The first such evaluation and review shall be completed within 1 year after November 2, 1994. The Secretary shall revise such model prevention strategies and enforcement codes periodically.”
 
-    Subsec. (b). [Pub. L. 110–432, § 208(a)(3)][/us/pl/110/432/s208/a/3], inserted “for Trespassing and Vandalism Prevention” after “Outreach Program” in heading.
+    Subsec. (b). [Pub. L. 110–432][/us/pl/110/432], § 208(a)(3), inserted “for Trespassing and Vandalism Prevention” after “Outreach Program” in heading.
 
-    Subsec. (c). [Pub. L. 110–432, § 208(a)(4)][/us/pl/110/432/s208/a/4], designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), and added par. (2).
+    Subsec. (c). [Pub. L. 110–432][/us/pl/110/432], § 208(a)(4), designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), and added par. (2).
 
-    Subsec. (d). [Pub. L. 110–432, § 208(a)(5)][/us/pl/110/432/s208/a/5], added subsec. (d).
+    Subsec. (d). [Pub. L. 110–432][/us/pl/110/432], § 208(a)(5), added subsec. (d).
 
     1996—Subsecs. (a), (c). [Pub. L. 104–287][/us/pl/104/287] substituted “November 2, 1994” for “the date of enactment of the Federal Railroad Safety Authorization Act of 1994”.
 
@@ -74,18 +74,18 @@
 ----------
 ----------
 
-[/us/pl/103/440/s219/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F440%2Fs219%2Fa
+[/us/pl/103/440/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F440%2FtII
 [/us/stat/108/4625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4625
-[/us/pl/104/287/s5/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F49
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3393
-[/us/pl/110/432/s208/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs208%2Fa
+[/us/pl/110/432/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdA%2FtII
 [/us/stat/122/4875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4875
 [/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
-[/us/pl/110/432/s208/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs208%2Fa%2F1
-[/us/pl/110/432/s208/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs208%2Fa%2F2
-[/us/pl/110/432/s208/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs208%2Fa%2F3
-[/us/pl/110/432/s208/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs208%2Fa%2F4
-[/us/pl/110/432/s208/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs208%2Fa%2F5
+[/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
+[/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
+[/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
+[/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
+[/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 
 

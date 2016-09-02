@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t49/stVI/ptB/ch317/m__us_usc_t49_stVI_ptB_ch317.md) | [Next](./../../../../../..//us/usc/t49/stVI/ptB/ch317/m__us_usc_t49_s31704.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31701)
+[Previous](./../../../../../..//us/usc/t49/stVI/ptB/ch317/m__us_usc_t49_stVI_ptB_ch317.md) | [Next](./../../../../../..//us/usc/t49/stVI/ptB/ch317/m__us_usc_t49_s31702 _us_usc_t49_s31703.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31701)
 
 ## § 31701. Definitions
 
@@ -35,7 +35,7 @@
 
     (6) “State” means the 48 contiguous States and the District of Columbia.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1031][/us/stat/108/1031].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1031][/us/stat/108/1031].)
 
 <table>
 
@@ -85,7 +85,7 @@ Dec. 18, 1991, Pub. L. 102–240, § 4008(k), 105 Stat. 2155.  </td>
 
  __Operation of Trailers__ 
 
-[Pub. L. 105–277, div. C, title I, § 109][/us/pl/105/277/s109], Oct. 21, 1998, [112 Stat. 2681–586][/us/stat/112/2681-586], provided that:
+[Pub. L. 105–277, div. C, title I][/us/pl/105/277/dC/tI], § 109, Oct. 21, 1998, [112 Stat. 2681–586][/us/stat/112/2681-586], provided that:
 
 >     “(a)  __Registration of Trailers__  __.—__ 
 
@@ -111,29 +111,17 @@ Dec. 18, 1991, Pub. L. 102–240, § 4008(k), 105 Stat. 2155.  </td>
 
 >     In this section, the term ‘container chassis’ means a trailer, semi-trailer, or auxiliary axle used exclusively for the transportation of ocean shipping containers.”
 
-\[§§ 31702, 31703. __Repealed.__  __[__  __Pub. L. 105–178, title IV, § 4013__  __][/us/pl/105/178/s4013]__  __,__  __June 9, 1998__  __,__  __[__  __112 Stat. 409__  __][/us/stat/112/409]__  __\]__ 
-
-    Section 31702, [Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1031][/us/stat/108/1031], related to establishment and purposes of working group of State and local government officials to propose procedures to resolve disputes among States participating in the International Registration Plan and in the International Fuel Tax Agreement.
-
-    Section 31703, [Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1032][/us/stat/108/1032], related to grants to States and appropriate persons to facilitate participation in the International Registration Plan and in the International Fuel Tax Agreement.
-
 ----------
 
-[Previous](./../../../../../..//us/usc/t49/stVI/ptB/ch317/m__us_usc_t49_stVI_ptB_ch317.md) | [Next](./../../../../../..//us/usc/t49/stVI/ptB/ch317/m__us_usc_t49_s31704.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31701)
+[Previous](./../../../../../..//us/usc/t49/stVI/ptB/ch317/m__us_usc_t49_stVI_ptB_ch317.md) | [Next](./../../../../../..//us/usc/t49/stVI/ptB/ch317/m__us_usc_t49_s31702 _us_usc_t49_s31703.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31701)
 
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1031
-[/us/pl/105/277/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs109
+[/us/pl/105/277/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtI
 [/us/stat/112/2681-586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-586
 [/us/usc/t49/s31701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31701
-[/us/pl/105/178/s4013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4013
-[/us/stat/112/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F409
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
-[/us/stat/108/1031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1031
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
-[/us/stat/108/1032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1032
 
 

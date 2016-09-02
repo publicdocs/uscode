@@ -39,7 +39,7 @@
 
     In this section, the term “dark territory” means any territory in a railroad system that does not have a signal or train control system installed or operational.
 
-(Added [Pub. L. 110–432, div. A, title IV, § 406(a)][/us/pl/110/432/s406/a], Oct. 16, 2008, [122 Stat. 4886][/us/stat/122/4886]; amended [Pub. L. 114–94, div. A, title XI, § 11316(i)][/us/pl/114/94/s11316/i], Dec. 4, 2015, [129 Stat. 1677][/us/stat/129/1677].)
+(Added [Pub. L. 110–432, div. A, title IV][/us/pl/110/432/dA/tIV], § 406(a), Oct. 16, 2008, [122 Stat. 4886][/us/stat/122/4886]; amended [Pub. L. 114–94, div. A, title XI][/us/pl/114/94/dA/tXI], § 11316(i), Dec. 4, 2015, [129 Stat. 1677][/us/stat/129/1677].)
 
  __References in Text__ 
 
@@ -60,9 +60,9 @@
 ----------
 ----------
 
-[/us/pl/110/432/s406/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs406%2Fa
+[/us/pl/110/432/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdA%2FtIV
 [/us/stat/122/4886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4886
-[/us/pl/114/94/s11316/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11316%2Fi
+[/us/pl/114/94/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtXI
 [/us/stat/129/1677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1677
 [/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94

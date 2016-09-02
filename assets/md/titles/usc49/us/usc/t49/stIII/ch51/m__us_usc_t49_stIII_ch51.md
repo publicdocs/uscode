@@ -259,11 +259,11 @@
 
  __Amendments__ 
 
-    2012—[Pub. L. 112–141, div. C, title III, § 33007(b)][/us/pl/112/141/s33007/b], July 6, 2012, [126 Stat. 836][/us/stat/126/836], added item 5118.
+    2012—[Pub. L. 112–141, div. C, title III][/us/pl/112/141/dC/tIII], § 33007(b), July 6, 2012, [126 Stat. 836][/us/stat/126/836], added item 5118.
 
-    2005—[Pub. L. 109–59, title VII][/us/pl/109/59], §§ 7111, 7115(a)(2), (h), 7123(c), Aug. 10, 2005, [119 Stat. 1899][/us/stat/119/1899], 1901, 1908, struck out item 5111 “Rail tank cars”, substituted “Special permits and exclusions” for “Exemptions and exclusions” in item 5117, struck out item 5118 “Inspectors”, added items 5127 and 5128, and struck out former item 5127 “Authorization of appropriations”.
+    2005—[Pub. L. 109–59, title VII][/us/pl/109/59/tVII], §§ 7111, 7115(a)(2), (h), 7123(c), Aug. 10, 2005, [119 Stat. 1899][/us/stat/119/1899], 1901, 1908, struck out item 5111 “Rail tank cars”, substituted “Special permits and exclusions” for “Exemptions and exclusions” in item 5117, struck out item 5118 “Inspectors”, added items 5127 and 5128, and struck out former item 5127 “Authorization of appropriations”.
 
-    2001—[Pub. L. 107–56, title X, § 1012(a)(2)][/us/pl/107/56/s1012/a/2], Oct. 26, 2001, [115 Stat. 397][/us/stat/115/397], added item 5103a.
+    2001—[Pub. L. 107–56, title X][/us/pl/107/56/tX], § 1012(a)(2), Oct. 26, 2001, [115 Stat. 397][/us/stat/115/397], added item 5103a.
 
 ----------
 
@@ -272,11 +272,11 @@
 ----------
 ----------
 
-[/us/pl/112/141/s33007/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs33007%2Fb
+[/us/pl/112/141/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtIII
 [/us/stat/126/836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F836
-[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtVII
 [/us/stat/119/1899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1899
-[/us/pl/107/56/s1012/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs1012%2Fa%2F2
+[/us/pl/107/56/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtX
 [/us/stat/115/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F397
 
 

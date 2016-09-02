@@ -23,13 +23,13 @@
 
     The Under Secretary shall conduct periodic and unannounced inspections of security systems of airports and air carriers to determine the effectiveness and vulnerabilities of such systems. To the extent allowable by law, the Under Secretary may provide for anonymous tests of those security systems.
 
-(Added [Pub. L. 104–264, title III, § 312(a)][/us/pl/104/264/s312/a], Oct. 9, 1996, [110 Stat. 3253][/us/stat/110/3253]; amended [Pub. L. 107–71, title I, § 101(f)(3)][/us/pl/107/71/s101/f/3], (7), Nov. 19, 2001, [115 Stat. 603][/us/stat/115/603].)
+(Added [Pub. L. 104–264, title III][/us/pl/104/264/tIII], § 312(a), Oct. 9, 1996, [110 Stat. 3253][/us/stat/110/3253]; amended [Pub. L. 107–71, title I][/us/pl/107/71/tI], § 101(f)(3), (7), Nov. 19, 2001, [115 Stat. 603][/us/stat/115/603].)
 
  __Amendments__ 
 
-    2001—Subsec. (a). [Pub. L. 107–71, § 101(f)(3)][/us/pl/107/71/s101/f/3], substituted “Under Secretary of Transportation for Security” for “Administrator” in first sentence and “Transportation Security Administration” for “Administration” in second sentence.
+    2001—Subsec. (a). [Pub. L. 107–71][/us/pl/107/71], § 101(f)(3), substituted “Under Secretary of Transportation for Security” for “Administrator” in first sentence and “Transportation Security Administration” for “Administration” in second sentence.
 
-    Subsec. (b). [Pub. L. 107–71, § 101(f)(7)][/us/pl/107/71/s101/f/7], substituted “Under Secretary” for “Administrator” in two places.
+    Subsec. (b). [Pub. L. 107–71][/us/pl/107/71], § 101(f)(7), substituted “Under Secretary” for “Administrator” in two places.
 
  __Effective Date__ 
 
@@ -46,12 +46,12 @@
 ----------
 ----------
 
-[/us/pl/104/264/s312/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs312%2Fa
+[/us/pl/104/264/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2FtIII
 [/us/stat/110/3253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3253
-[/us/pl/107/71/s101/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs101%2Ff%2F3
+[/us/pl/107/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2FtI
 [/us/stat/115/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F603
-[/us/pl/107/71/s101/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs101%2Ff%2F3
-[/us/pl/107/71/s101/f/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs101%2Ff%2F7
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
 [/us/pl/104/264/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542

@@ -107,7 +107,7 @@
 
         Nothing in this subsection shall restrict the Board at any time from referring to foreign accident investigation information in making safety recommendations.
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 749][/us/stat/108/749]; [Pub. L. 104–291, title I][/us/pl/104/291], §§ 102, 103, Oct. 11, 1996, [110 Stat. 3452][/us/stat/110/3452]; [Pub. L. 106–424][/us/pl/106/424], §§ 3(b)(2), 5(a), (b), Nov. 1, 2000, [114 Stat. 1884][/us/stat/114/1884], 1885.)
+([Pub. L. 103–272][/us/pl/103/272], § 1(d), July 5, 1994, [108 Stat. 749][/us/stat/108/749]; [Pub. L. 104–291, title I][/us/pl/104/291/tI], §§ 102, 103, Oct. 11, 1996, [110 Stat. 3452][/us/stat/110/3452]; [Pub. L. 106–424][/us/pl/106/424], §§ 3(b)(2), 5(a), (b), Nov. 1, 2000, [114 Stat. 1884][/us/stat/114/1884], 1885.)
 
 <table>
 
@@ -247,21 +247,21 @@ Jan. 3, 1975, Pub. L. 93–633, 88 Stat. 2156, § 304(b)(11); added Nov. 28, 1
 
     2000—Subsec. (a). [Pub. L. 106–424][/us/pl/106/424], §§ 3(b)(2), 5(b)(2), designated existing provisions as par. (1), substituted “(d), and (f)” for “and (e)” in first sentence, and added par. (2).
 
-    Subsec. (c). [Pub. L. 106–424, § 5(a)(1)][/us/pl/106/424/s5/a/1], struck out “Voice” after “Cockpit” in heading.
+    Subsec. (c). [Pub. L. 106–424][/us/pl/106/424], § 5(a)(1), struck out “Voice” after “Cockpit” in heading.
 
-    Subsec. (c)(1). [Pub. L. 106–424, § 5(a)(2)][/us/pl/106/424/s5/a/2], (3), substituted “cockpit voice or video recorder” for “cockpit voice recorder” in first sentence and inserted “or any written depiction of visual information” after “transcript” in second sentence.
+    Subsec. (c)(1). [Pub. L. 106–424][/us/pl/106/424], § 5(a)(2), (3), substituted “cockpit voice or video recorder” for “cockpit voice recorder” in first sentence and inserted “or any written depiction of visual information” after “transcript” in second sentence.
 
-    Subsec. (c)(2). [Pub. L. 106–424, § 5(a)(2)][/us/pl/106/424/s5/a/2], substituted “cockpit voice or video recorder” for “cockpit voice recorder”.
+    Subsec. (c)(2). [Pub. L. 106–424][/us/pl/106/424], § 5(a)(2), substituted “cockpit voice or video recorder” for “cockpit voice recorder”.
 
-    Subsec. (d). [Pub. L. 106–424, § 5(b)(1)(B)][/us/pl/106/424/s5/b/1/B], which directed the addition of subsec. (d) after subsec. (e), was executed by adding subsec. (d) before subsec. (e) to reflect the probable intent of Congress. Former subsec. (d) redesignated (e).
+    Subsec. (d). [Pub. L. 106–424][/us/pl/106/424], § 5(b)(1)(B), which directed the addition of subsec. (d) after subsec. (e), was executed by adding subsec. (d) before subsec. (e) to reflect the probable intent of Congress. Former subsec. (d) redesignated (e).
 
-    Subsecs. (e), (f). [Pub. L. 106–424, § 5(b)(1)(A)][/us/pl/106/424/s5/b/1/A], redesignated subsecs. (d) and (e) as (e) and (f), respectively.
+    Subsecs. (e), (f). [Pub. L. 106–424][/us/pl/106/424], § 5(b)(1)(A), redesignated subsecs. (d) and (e) as (e) and (f), respectively.
 
-    1996—Subsec. (a). [Pub. L. 104–291, § 102(1)][/us/pl/104/291/s102/1], substituted “(b), (c), and (e)” for “(b) and (c)”.
+    1996—Subsec. (a). [Pub. L. 104–291][/us/pl/104/291], § 102(1), substituted “(b), (c), and (e)” for “(b) and (c)”.
 
-    Subsec. (b)(3). [Pub. L. 104–291, § 103][/us/pl/104/291/s103], added par. (3).
+    Subsec. (b)(3). [Pub. L. 104–291][/us/pl/104/291], § 103, added par. (3).
 
-    Subsec. (e). [Pub. L. 104–291, § 102(2)][/us/pl/104/291/s102/2], added subsec. (e).
+    Subsec. (e). [Pub. L. 104–291][/us/pl/104/291], § 102(2), added subsec. (e).
 
 ----------
 
@@ -275,22 +275,22 @@ Jan. 3, 1975, Pub. L. 93–633, 88 Stat. 2156, § 304(b)(11); added Nov. 28, 1
 [/us/pl/100/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F71
 [/us/stat/101/471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F471
 [/us/usc/t5/s552/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fb%2F3
-[/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F749
-[/us/pl/104/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F291
+[/us/pl/104/291/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F291%2FtI
 [/us/stat/110/3452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3452
 [/us/pl/106/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F424
 [/us/stat/114/1884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1884
 [/us/pl/100/71/s503/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F71%2Fs503%2Fe
 [/us/usc/t5/s7301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7301
 [/us/pl/106/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F424
-[/us/pl/106/424/s5/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F424%2Fs5%2Fa%2F1
-[/us/pl/106/424/s5/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F424%2Fs5%2Fa%2F2
-[/us/pl/106/424/s5/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F424%2Fs5%2Fa%2F2
-[/us/pl/106/424/s5/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F424%2Fs5%2Fb%2F1%2FB
-[/us/pl/106/424/s5/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F424%2Fs5%2Fb%2F1%2FA
-[/us/pl/104/291/s102/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F291%2Fs102%2F1
-[/us/pl/104/291/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F291%2Fs103
-[/us/pl/104/291/s102/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F291%2Fs102%2F2
+[/us/pl/106/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F424
+[/us/pl/106/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F424
+[/us/pl/106/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F424
+[/us/pl/106/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F424
+[/us/pl/106/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F424
+[/us/pl/104/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F291
+[/us/pl/104/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F291
+[/us/pl/104/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F291
 
 

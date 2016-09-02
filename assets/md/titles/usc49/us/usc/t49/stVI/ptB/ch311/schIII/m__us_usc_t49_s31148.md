@@ -39,7 +39,7 @@
 
     The Secretary shall have authority over any motor carrier safety auditor certified under subsection (a), including the authority to decertify a motor carrier safety auditor.
 
-(Added [Pub. L. 106–159, title II, § 211(a)][/us/pl/106/159/s211/a], Dec. 9, 1999, [113 Stat. 1765][/us/stat/113/1765].)
+(Added [Pub. L. 106–159, title II][/us/pl/106/159/tII], § 211(a), Dec. 9, 1999, [113 Stat. 1765][/us/stat/113/1765].)
 
  __References in Text__ 
 
@@ -47,7 +47,7 @@
 
  __Inspector Standards__ 
 
-[Pub. L. 114–94, div. A, title V, § 5205][/us/pl/114/94/s5205], Dec. 4, 2015, [129 Stat. 1537][/us/stat/129/1537], provided that: 
+[Pub. L. 114–94, div. A, title V][/us/pl/114/94/dA/tV], § 5205, Dec. 4, 2015, [129 Stat. 1537][/us/stat/129/1537], provided that: 
 
 > “Not later than 90 days after the date of enactment of this Act \[Dec. 4, 2015\], the Administrator of the Federal Motor Carrier Safety Administration shall revise the regulations under part 385 of title 49, Code of Federal Regulations, as necessary, to incorporate by reference the certification standards for roadside inspectors issued by the Commercial Vehicle Safety Alliance.”
 
@@ -58,10 +58,10 @@
 ----------
 ----------
 
-[/us/pl/106/159/s211/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2Fs211%2Fa
+[/us/pl/106/159/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2FtII
 [/us/stat/113/1765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1765
 [/us/pl/106/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159
-[/us/pl/114/94/s5205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5205
+[/us/pl/114/94/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtV
 [/us/stat/129/1537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1537
 
 

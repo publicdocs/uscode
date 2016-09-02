@@ -43,7 +43,7 @@
 
         In the absence of an appropriation under this subsection for an expense referred to in paragraph (1), the Inspector General and the Board shall have a reimbursable agreement to cover such expense.
 
-(Added [Pub. L. 106–424, § 12(a)][/us/pl/106/424/s12/a], Nov. 1, 2000, [114 Stat. 1887][/us/stat/114/1887]; amended [Pub. L. 109–443, § 4][/us/pl/109/443/s4], Dec. 21, 2006, [120 Stat. 3299][/us/stat/120/3299].)
+(Added [Pub. L. 106–424][/us/pl/106/424], § 12(a), Nov. 1, 2000, [114 Stat. 1887][/us/stat/114/1887]; amended [Pub. L. 109–443][/us/pl/109/443], § 4, Dec. 21, 2006, [120 Stat. 3299][/us/stat/120/3299].)
 
  __References in Text__ 
 
@@ -60,9 +60,9 @@
 ----------
 ----------
 
-[/us/pl/106/424/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F424%2Fs12%2Fa
+[/us/pl/106/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F424
 [/us/stat/114/1887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1887
-[/us/pl/109/443/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F443%2Fs4
+[/us/pl/109/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F443
 [/us/stat/120/3299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3299
 [/us/pl/95/452/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452%2Fs6
 [/us/pl/109/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F443

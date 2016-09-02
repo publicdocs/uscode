@@ -89,7 +89,7 @@
 
 </table>
 
-    2015—[Pub. L. 114–110, § 13(b)][/us/pl/114/110/s13/b], Dec. 18, 2015, [129 Stat. 2237][/us/stat/129/2237], added item 11708.
+    2015—[Pub. L. 114–110][/us/pl/114/110], § 13(b), Dec. 18, 2015, [129 Stat. 2237][/us/stat/129/2237], added item 11708.
 
 ----------
 
@@ -98,7 +98,7 @@
 ----------
 ----------
 
-[/us/pl/114/110/s13/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F110%2Fs13%2Fb
+[/us/pl/114/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F110
 [/us/stat/129/2237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2237
 
 

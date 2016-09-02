@@ -17,7 +17,7 @@
 
     The Under Secretary of Transportation for Security shall continue in effect the requirement of section 129.25 of title 14, Code of Federal Regulations, that a foreign air carrier must adopt and use a security program approved by the Under Secretary. The Under Secretary shall not approve a security program of a foreign air carrier under section 129.25, or any successor regulation, unless the security program requires the foreign air carrier in its operations to and from airports in the United States to adhere to the identical security measures that the Under Secretary requires air carriers serving the same airports to adhere to. The foregoing requirement shall not be interpreted to limit the ability of the Under Secretary to impose additional security measures on a foreign air carrier or an air carrier when the Under Secretary determines that a specific threat warrants such additional measures. The Under Secretary shall prescribe regulations to carry out this section.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1208][/us/stat/108/1208]; [Pub. L. 104–132, title III, § 322][/us/pl/104/132/s322], Apr. 24, 1996, [110 Stat. 1254][/us/stat/110/1254]; [Pub. L. 107–71, title I, § 101(f)(7)][/us/pl/107/71/s101/f/7], (9), Nov. 19, 2001, [115 Stat. 603][/us/stat/115/603].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1208][/us/stat/108/1208]; [Pub. L. 104–132, title III][/us/pl/104/132/tIII], § 322, Apr. 24, 1996, [110 Stat. 1254][/us/stat/110/1254]; [Pub. L. 107–71, title I][/us/pl/107/71/tI], § 101(f)(7), (9), Nov. 19, 2001, [115 Stat. 603][/us/stat/115/603].)
 
 <table>
 
@@ -100,11 +100,11 @@ Nov. 16, 1990, Pub. L. 101–604, § 105(c), 104 Stat. 3075.  </td>
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1208
-[/us/pl/104/132/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs322
+[/us/pl/104/132/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtIII
 [/us/stat/110/1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1254
-[/us/pl/107/71/s101/f/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs101%2Ff%2F7
+[/us/pl/107/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2FtI
 [/us/stat/115/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F603
 [/us/pl/101/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F604
 [/us/stat/104/3075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3075

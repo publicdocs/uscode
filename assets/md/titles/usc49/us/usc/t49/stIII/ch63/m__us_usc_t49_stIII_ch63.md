@@ -139,7 +139,7 @@
 
  __Amendments__ 
 
-    2015—[Pub. L. 114–94, div. A, title VI, § 6018(c)][/us/pl/114/94/s6018/c], Dec. 4, 2015, [129 Stat. 1577][/us/stat/129/1577], added item 6314.
+    2015—[Pub. L. 114–94, div. A, title VI][/us/pl/114/94/dA/tVI], § 6018(c), Dec. 4, 2015, [129 Stat. 1577][/us/stat/129/1577], added item 6314.
 
 ----------
 
@@ -148,7 +148,7 @@
 ----------
 ----------
 
-[/us/pl/114/94/s6018/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs6018%2Fc
+[/us/pl/114/94/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtVI
 [/us/stat/129/1577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1577
 
 

@@ -17,7 +17,7 @@
 
     The Administrator of the Federal Aviation Administration shall prescribe regulations requiring procedures to improve safety of aircraft operations during winter conditions. In deciding on the procedures to be required, the Administrator shall consider at least aircraft and air traffic control modifications, the availability of different types of deicing fluids (considering their efficacy and environmental limitations), the types of deicing equipment available, and the feasibility and desirability of establishing timeframes within which deicing must occur under certain types of inclement weather.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1202][/us/stat/108/1202].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1202][/us/stat/108/1202].)
 
 <table>
 
@@ -74,7 +74,7 @@ Oct. 31, 1992, Pub. L. 102–581, § 124, 106 Stat. 4885.  </td>
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1202
 
 

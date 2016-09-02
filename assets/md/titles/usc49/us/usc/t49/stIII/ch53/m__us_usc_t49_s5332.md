@@ -53,7 +53,7 @@
 
     This section applies to an employment or business opportunity and is in addition to title VI of the Civil Rights Act of 1964 ([42 U.S.C. 2000d][/us/usc/t42/s2000d] et seq.).
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 834][/us/stat/108/834]; [Pub. L. 112–141, div. B][/us/pl/112/141], §§ 20023(a), 20030(g), July 6, 2012, [126 Stat. 717][/us/stat/126/717], 731.)
+([Pub. L. 103–272][/us/pl/103/272], § 1(d), July 5, 1994, [108 Stat. 834][/us/stat/108/834]; [Pub. L. 112–141, div. B][/us/pl/112/141/dB], §§ 20023(a), 20030(g), July 6, 2012, [126 Stat. 717][/us/stat/126/717], 731.)
 
 <table>
 
@@ -189,11 +189,11 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 19; added Nov. 6, 1978, Pub. 
 
  __Amendments__ 
 
-    2012—Subsec. (b). [Pub. L. 112–141, § 20023(a)(1)][/us/pl/112/141/s20023/a/1], substituted “religion” for “creed” and inserted “disability,” after “sex,”.
+    2012—Subsec. (b). [Pub. L. 112–141][/us/pl/112/141], § 20023(a)(1), substituted “religion” for “creed” and inserted “disability,” after “sex,”.
 
-    Subsec. (c)(1). [Pub. L. 112–141, § 20030(g)][/us/pl/112/141/s20030/g], struck out “of Transportation” after “Secretary”.
+    Subsec. (c)(1). [Pub. L. 112–141][/us/pl/112/141], § 20030(g), struck out “of Transportation” after “Secretary”.
 
-    Subsec. (d)(3). [Pub. L. 112–141, § 20023(a)(2)][/us/pl/112/141/s20023/a/2], substituted “or” for “and”.
+    Subsec. (d)(3). [Pub. L. 112–141][/us/pl/112/141], § 20023(a)(2), substituted “or” for “and”.
 
  __Effective Date of 2012 Amendment__ 
 
@@ -208,16 +208,16 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 19; added Nov. 6, 1978, Pub. 
 
 [/us/usc/t42/s2000d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000d
 [/us/usc/t42/s2000d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000d
-[/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F834
-[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdB
 [/us/stat/126/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F717
 [/us/pl/88/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352
 [/us/stat/78/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F241
 [/us/usc/t42/s2000a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000a
-[/us/pl/112/141/s20023/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs20023%2Fa%2F1
-[/us/pl/112/141/s20030/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs20030%2Fg
-[/us/pl/112/141/s20023/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs20023%2Fa%2F2
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101

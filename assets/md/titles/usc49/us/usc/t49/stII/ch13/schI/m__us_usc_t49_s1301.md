@@ -57,35 +57,35 @@
 
             (E) supervise the expenditure of funds allocated by the Board for major programs and purposes.
 
-(Added [Pub. L. 104–88, title II, § 201(a)][/us/pl/104/88/s201/a], Dec. 29, 1995, [109 Stat. 932][/us/stat/109/932], § 701; amended [Pub. L. 104–287, § 5(5)][/us/pl/104/287/s5/5], Oct. 11, 1996, [110 Stat. 3389][/us/stat/110/3389]; renumbered § 1301 and amended [Pub. L. 114–110][/us/pl/114/110], §§ 3(a)(3), (b), 4, Dec. 18, 2015, [129 Stat. 2228][/us/stat/129/2228], 2229.)
+(Added [Pub. L. 104–88, title II][/us/pl/104/88/tII], § 201(a), Dec. 29, 1995, [109 Stat. 932][/us/stat/109/932], § 701; amended [Pub. L. 104–287][/us/pl/104/287], § 5(5), Oct. 11, 1996, [110 Stat. 3389][/us/stat/110/3389]; renumbered § 1301 and amended [Pub. L. 114–110][/us/pl/114/110], §§ 3(a)(3), (b), 4, Dec. 18, 2015, [129 Stat. 2228][/us/stat/129/2228], 2229.)
 
  __Amendments__ 
 
-    2015—[Pub. L. 114–110, § 3(a)(3)][/us/pl/114/110/s3/a/3], renumbered [section 701 of this title][/us/usc/t49/s701] as this section.
+    2015—[Pub. L. 114–110][/us/pl/114/110], § 3(a)(3), renumbered [section 701 of this title][/us/usc/t49/s701] as this section.
 
-    Subsec. (a). [Pub. L. 114–110, § 3(b)][/us/pl/114/110/s3/b], added subsec. (a) and struck out former subsec. (a) which read as follows: “There is hereby established within the Department of Transportation the Surface Transportation Board.”
+    Subsec. (a). [Pub. L. 114–110][/us/pl/114/110], § 3(b), added subsec. (a) and struck out former subsec. (a) which read as follows: “There is hereby established within the Department of Transportation the Surface Transportation Board.”
 
-    Subsec. (b)(1). [Pub. L. 114–110, § 4(a)(1)][/us/pl/114/110/s4/a/1], substituted “5 members” for “3 members” and “3 members” for “2 members”.
+    Subsec. (b)(1). [Pub. L. 114–110][/us/pl/114/110], § 4(a)(1), substituted “5 members” for “3 members” and “3 members” for “2 members”.
 
-    Subsec. (b)(2). [Pub. L. 114–110, § 4(a)(2)][/us/pl/114/110/s4/a/2], added par. (2) and struck out former par. (2) which read as follows: “ At any given time, at least 2 members of the Board shall be individuals with professional standing and demonstrated knowledge in the fields of transportation or transportation regulation, and at least one member shall be an individual with professional or business experience (including agriculture) in the private sector.”
+    Subsec. (b)(2). [Pub. L. 114–110][/us/pl/114/110], § 4(a)(2), added par. (2) and struck out former par. (2) which read as follows: “ At any given time, at least 2 members of the Board shall be individuals with professional standing and demonstrated knowledge in the fields of transportation or transportation regulation, and at least one member shall be an individual with professional or business experience (including agriculture) in the private sector.”
 
-    Subsec. (b)(4). [Pub. L. 114–110, § 4(b)(3)][/us/pl/114/110/s4/b/3], struck out “who becomes a member of the Board pursuant to paragraph (4), or an individual” after “In the case of an individual”.
+    Subsec. (b)(4). [Pub. L. 114–110][/us/pl/114/110], § 4(b)(3), struck out “who becomes a member of the Board pursuant to paragraph (4), or an individual” after “In the case of an individual”.
 
-    [Pub. L. 114–110, § 4(b)(1)][/us/pl/114/110/s4/b/1], (2), redesignated par. (5) as (4) and struck out former par. (4) which read as follows: “On January 1, 1996, the members of the Interstate Commerce Commission serving unexpired terms on December 29, 1995, shall become members of the Board, to serve for a period of time equal to the remainder of the term for which they were originally appointed to the Interstate Commerce Commission. Any member of the Interstate Commerce Commission whose term expires on December 31, 1995, shall become a member of the Board, subject to paragraph (3).”
+    [Pub. L. 114–110][/us/pl/114/110], § 4(b)(1), (2), redesignated par. (5) as (4) and struck out former par. (4) which read as follows: “On January 1, 1996, the members of the Interstate Commerce Commission serving unexpired terms on December 29, 1995, shall become members of the Board, to serve for a period of time equal to the remainder of the term for which they were originally appointed to the Interstate Commerce Commission. Any member of the Interstate Commerce Commission whose term expires on December 31, 1995, shall become a member of the Board, subject to paragraph (3).”
 
-    Subsec. (b)(5), (6). [Pub. L. 114–110, § 4(b)(2)][/us/pl/114/110/s4/b/2], redesignated pars. (6) and (7) as (5) and (6), respectively. Former par. (5) redesignated (4).
+    Subsec. (b)(5), (6). [Pub. L. 114–110][/us/pl/114/110], § 4(b)(2), redesignated pars. (6) and (7) as (5) and (6), respectively. Former par. (5) redesignated (4).
 
     1996—Subsec. (b)(4). [Pub. L. 104–287][/us/pl/104/287] substituted “January 1, 1996” for “the effective date of this section” and “December 29, 1995,” for “the date of the enactment of the ICC Termination Act of 1995”.
 
  __Effective Date__ 
 
-[Pub. L. 104–88, § 2][/us/pl/104/88/s2], Dec. 29, 1995, [109 Stat. 804][/us/stat/109/804], provided that: 
+[Pub. L. 104–88][/us/pl/104/88], § 2, Dec. 29, 1995, [109 Stat. 804][/us/stat/109/804], provided that: 
 
 > “Except as otherwise provided in this Act \[see Tables for classification\], this Act shall take effect on January 1, 1996.”
 
  __Savings Provision__ 
 
-[Pub. L. 104–88, title II, § 204][/us/pl/104/88/s204], Dec. 29, 1995, [109 Stat. 941][/us/stat/109/941], provided that:
+[Pub. L. 104–88, title II][/us/pl/104/88/tII], § 204, Dec. 29, 1995, [109 Stat. 941][/us/stat/109/941], provided that:
 
 >     “(a)  __Legal Documents__  __.—__ 
 
@@ -131,25 +131,25 @@
 
  __Construction__ 
 
-[Pub. L. 114–110, § 17][/us/pl/114/110/s17], Dec. 18, 2015, [129 Stat. 2238][/us/stat/129/2238], provided that: 
+[Pub. L. 114–110][/us/pl/114/110], § 17, Dec. 18, 2015, [129 Stat. 2238][/us/stat/129/2238], provided that: 
 
 > “Nothing in this Act \[see Tables for classification\] may be construed to affect any suit commenced by or against the Surface Transportation Board, or any proceeding or challenge pending before the Surface Transportation Board, before the date of the enactment of this Act \[Dec. 18, 2015\].”
 
  __Abolition of Interstate Commerce Commission__ 
 
-[Pub. L. 104–88, title I, § 101][/us/pl/104/88/s101], Dec. 29, 1995, [109 Stat. 804][/us/stat/109/804], provided that: 
+[Pub. L. 104–88, title I][/us/pl/104/88/tI], § 101, Dec. 29, 1995, [109 Stat. 804][/us/stat/109/804], provided that: 
 
 > “The Interstate Commerce Commission is abolished.”
 
  __Organization of Functions of Surface Transportation Board__ 
 
-[Pub. L. 104–88, title II, § 202][/us/pl/104/88/s202], Dec. 29, 1995, [109 Stat. 940][/us/stat/109/940], provided that: 
+[Pub. L. 104–88, title II][/us/pl/104/88/tII], § 202, Dec. 29, 1995, [109 Stat. 940][/us/stat/109/940], provided that: 
 
 > “The Chairman of the Surface Transportation Board (in this Act \[see Tables for classification\] referred to as the ‘Board’) may allocate or reallocate any function of the Board, consistent with this title \[see Tables for classification\] and \[former\] subchapter I of chapter 7 \[now [49 U.S.C. 1301][/us/usc/t49/s1301] et seq.\], as amended by [section 201 of this title][/us/usc/t49/s201], among the members or employees of the Board, and may establish, consolidate, alter, or discontinue in the Board any organizational entities that were entities of the Interstate Commerce Commission, as the Chairman considers necessary or appropriate.”
 
  __Transfer of Assets and Personnel__ 
 
-[Pub. L. 104–88, title II, § 203][/us/pl/104/88/s203], Dec. 29, 1995, [109 Stat. 941][/us/stat/109/941], provided that:
+[Pub. L. 104–88, title II][/us/pl/104/88/tII], § 203, Dec. 29, 1995, [109 Stat. 941][/us/stat/109/941], provided that:
 
 >     “(a)  __To Board__  __.—__ 
 
@@ -165,7 +165,7 @@
 
  __References to Interstate Commerce Commission Deemed To Be References to Surface Transportation Board__ 
 
-[Pub. L. 104–88, title II, § 205][/us/pl/104/88/s205], Dec. 29, 1995, [109 Stat. 943][/us/stat/109/943], provided that: 
+[Pub. L. 104–88, title II][/us/pl/104/88/tII], § 205, Dec. 29, 1995, [109 Stat. 943][/us/stat/109/943], provided that: 
 
 > “Any reference to the Interstate Commerce Commission in any other Federal law, Executive order, rule, regulation, or delegation of authority, or any document of or pertaining to the Interstate Commerce Commission or an officer or employee of the Interstate Commerce Commission, is deemed to refer to the Board \[Surface Transportation Board\], a member or employee of the Board, or the Secretary, as appropriate.”
 
@@ -177,37 +177,37 @@
 ----------
 
 [/us/usc/t5/s5314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5314
-[/us/pl/104/88/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs201%2Fa
+[/us/pl/104/88/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtII
 [/us/stat/109/932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F932
-[/us/pl/104/287/s5/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F5
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3389
 [/us/pl/114/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F110
 [/us/stat/129/2228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2228
-[/us/pl/114/110/s3/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F110%2Fs3%2Fa%2F3
+[/us/pl/114/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F110
 [/us/usc/t49/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs701
-[/us/pl/114/110/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F110%2Fs3%2Fb
-[/us/pl/114/110/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F110%2Fs4%2Fa%2F1
-[/us/pl/114/110/s4/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F110%2Fs4%2Fa%2F2
-[/us/pl/114/110/s4/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F110%2Fs4%2Fb%2F3
-[/us/pl/114/110/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F110%2Fs4%2Fb%2F1
-[/us/pl/114/110/s4/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F110%2Fs4%2Fb%2F2
+[/us/pl/114/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F110
+[/us/pl/114/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F110
+[/us/pl/114/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F110
+[/us/pl/114/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F110
+[/us/pl/114/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F110
+[/us/pl/114/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F110
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
-[/us/pl/104/88/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs2
+[/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/stat/109/804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F804
-[/us/pl/104/88/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs204
+[/us/pl/104/88/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtII
 [/us/stat/109/941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F941
 [/us/usc/t46/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs101
-[/us/pl/114/110/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F110%2Fs17
+[/us/pl/114/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F110
 [/us/stat/129/2238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2238
-[/us/pl/104/88/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs101
+[/us/pl/104/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtI
 [/us/stat/109/804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F804
-[/us/pl/104/88/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs202
+[/us/pl/104/88/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtII
 [/us/stat/109/940]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F940
 [/us/usc/t49/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1301
 [/us/usc/t49/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs201
-[/us/pl/104/88/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs203
+[/us/pl/104/88/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtII
 [/us/stat/109/941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F941
-[/us/pl/104/88/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs205
+[/us/pl/104/88/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtII
 [/us/stat/109/943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F943
 
 

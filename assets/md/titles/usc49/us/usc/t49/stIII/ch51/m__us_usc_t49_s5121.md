@@ -171,7 +171,7 @@
 
         (6) recommendations for appropriate legislation.
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 779][/us/stat/108/779]; [Pub. L. 103–311, title I][/us/pl/103/311], §§ 108, 117(a)(2), Aug. 26, 1994, [108 Stat. 1674][/us/stat/108/1674], 1678; [Pub. L. 109–59, title VII][/us/pl/109/59], §§ 7118, 7126, Aug. 10, 2005, [119 Stat. 1902][/us/stat/119/1902], 1909; [Pub. L. 110–244, title III, § 302(e)][/us/pl/110/244/s302/e], June 6, 2008, [122 Stat. 1618][/us/stat/122/1618]; [Pub. L. 112–141, div. C, title II, § 32501(c)][/us/pl/112/141/s32501/c], title III, § 33009(a), (b)(1), (c), July 6, 2012, [126 Stat. 803][/us/stat/126/803], 836, 837; [Pub. L. 114–94, div. A, title VII, § 7205][/us/pl/114/94/s7205], Dec. 4, 2015, [129 Stat. 1592][/us/stat/129/1592].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(d), July 5, 1994, [108 Stat. 779][/us/stat/108/779]; [Pub. L. 103–311, title I][/us/pl/103/311/tI], §§ 108, 117(a)(2), Aug. 26, 1994, [108 Stat. 1674][/us/stat/108/1674], 1678; [Pub. L. 109–59, title VII][/us/pl/109/59/tVII], §§ 7118, 7126, Aug. 10, 2005, [119 Stat. 1902][/us/stat/119/1902], 1909; [Pub. L. 110–244, title III][/us/pl/110/244/tIII], § 302(e), June 6, 2008, [122 Stat. 1618][/us/stat/122/1618]; [Pub. L. 112–141, div. C, title II][/us/pl/112/141/dC/tII], § 32501(c), title III, § 33009(a), (b)(1), (c), July 6, 2012, [126 Stat. 803][/us/stat/126/803], 836, 837; [Pub. L. 114–94, div. A, title VII][/us/pl/114/94/dA/tVII], § 7205, Dec. 4, 2015, [129 Stat. 1592][/us/stat/129/1592].)
 
 <table>
 
@@ -297,27 +297,27 @@ Jan. 3, 1975, Pub. L. 93–633, § 109(e), 88 Stat. 2159; Oct. 30, 1984, Pub. 
 
     2015—Subsec. (h). [Pub. L. 114–94][/us/pl/114/94] substituted “make available to the public on the Department of Transportation’s Internet Web site” for “transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate” in introductory provisions.
 
-    2012—Subsec. (c)(1)(G). [Pub. L. 112–141, § 33009(a)][/us/pl/112/141/s33009/a], added subpar. (G).
+    2012—Subsec. (c)(1)(G). [Pub. L. 112–141][/us/pl/112/141], § 33009(a), added subpar. (G).
 
-    Subsec. (c)(2). [Pub. L. 112–141, § 32501(c)][/us/pl/112/141/s32501/c], inserted “, in person or in writing,” after “proper credentials”.
+    Subsec. (c)(2). [Pub. L. 112–141][/us/pl/112/141], § 32501(c), inserted “, in person or in writing,” after “proper credentials”.
 
-    Subsec. (e)(3). [Pub. L. 112–141, § 33009(b)(1)][/us/pl/112/141/s33009/b/1], added par. (3).
+    Subsec. (e)(3). [Pub. L. 112–141][/us/pl/112/141], § 33009(b)(1), added par. (3).
 
-    Subsec. (g)(1). [Pub. L. 112–141, § 33009(c)][/us/pl/112/141/s33009/c], inserted “safety and” before “security”.
+    Subsec. (g)(1). [Pub. L. 112–141][/us/pl/112/141], § 33009(c), inserted “safety and” before “security”.
 
-    2008—Subsec. (h)(2). [Pub. L. 110–244, § 302(e)(1)][/us/pl/110/244/s302/e/1], substituted “special permits” for “exemptions”.
+    2008—Subsec. (h)(2). [Pub. L. 110–244][/us/pl/110/244], § 302(e)(1), substituted “special permits” for “exemptions”.
 
-    Subsec. (h)(3). [Pub. L. 110–244, § 302(e)(2)][/us/pl/110/244/s302/e/2], substituted “special permit” for “exemption”.
+    Subsec. (h)(3). [Pub. L. 110–244][/us/pl/110/244], § 302(e)(2), substituted “special permit” for “exemption”.
 
-    2005—Subsec. (a). [Pub. L. 109–59, § 7126][/us/pl/109/59/s7126], substituted “Secretary may investigate” for “Secretary of Transportation may investigate”.
+    2005—Subsec. (a). [Pub. L. 109–59][/us/pl/109/59], § 7126, substituted “Secretary may investigate” for “Secretary of Transportation may investigate”.
 
-    [Pub. L. 109–59, § 7118(a)][/us/pl/109/59/s7118/a], inserted “conduct tests,” after “investigate,” and substituted “Except as provided in subsections (c) and (d), after” for “After” and “regulation prescribed, or an order, special permit, or approval issued,” for “regulation prescribed”.
+    [Pub. L. 109–59][/us/pl/109/59], § 7118(a), inserted “conduct tests,” after “investigate,” and substituted “Except as provided in subsections (c) and (d), after” for “After” and “regulation prescribed, or an order, special permit, or approval issued,” for “regulation prescribed”.
 
-    Subsec. (b)(1). [Pub. L. 109–59, § 7118(b)(1)][/us/pl/109/59/s7118/b/1], inserted “and property” after “records”.
+    Subsec. (b)(1). [Pub. L. 109–59][/us/pl/109/59], § 7118(b)(1), inserted “and property” after “records”.
 
-    Subsec. (b)(2). [Pub. L. 109–59, § 7118(b)(2)][/us/pl/109/59/s7118/b/2], inserted “property,” after “records,” and “for inspection” after “available” and substituted “undertakes an investigation or makes a request” for “requests”.
+    Subsec. (b)(2). [Pub. L. 109–59][/us/pl/109/59], § 7118(b)(2), inserted “property,” after “records,” and “for inspection” after “available” and substituted “undertakes an investigation or makes a request” for “requests”.
 
-    Subsec. (c). [Pub. L. 109–59, § 7118(c)][/us/pl/109/59/s7118/c], amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows:
+    Subsec. (c). [Pub. L. 109–59][/us/pl/109/59], § 7118(c), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows:
 
     “(1) The Secretary may authorize an officer, employee, or agent to inspect, at a reasonable time and in a reasonable way, records and property related to—
 
@@ -327,21 +327,21 @@ Jan. 3, 1975, Pub. L. 93–633, § 109(e), 88 Stat. 2159; Oct. 30, 1984, Pub. 
 
     “(2) An officer, employee, or agent under this subsection shall display proper credentials when requested.”
 
-    Subsecs. (d), (e). [Pub. L. 109–59, § 7118(d)][/us/pl/109/59/s7118/d], added subsecs. (d) and (e). Former subsecs. (d) and (e) redesignated (f) and (h), respectively.
+    Subsecs. (d), (e). [Pub. L. 109–59][/us/pl/109/59], § 7118(d), added subsecs. (d) and (e). Former subsecs. (d) and (e) redesignated (f) and (h), respectively.
 
-    Subsec. (f). [Pub. L. 109–59, § 7118(d)(1)][/us/pl/109/59/s7118/d/1], redesignated subsec. (d) as (f).
+    Subsec. (f). [Pub. L. 109–59][/us/pl/109/59], § 7118(d)(1), redesignated subsec. (d) as (f).
 
-    Subsec. (g). [Pub. L. 109–59, § 7118(e)][/us/pl/109/59/s7118/e], added subsec. (g).
+    Subsec. (g). [Pub. L. 109–59][/us/pl/109/59], § 7118(e), added subsec. (g).
 
-    Subsec. (h). [Pub. L. 109–59, § 7118(f)(1)][/us/pl/109/59/s7118/f/1], substituted “transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate” for “submit to the President for transmittal to the Congress” in introductory provisions.
+    Subsec. (h). [Pub. L. 109–59][/us/pl/109/59], § 7118(f)(1), substituted “transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate” for “submit to the President for transmittal to the Congress” in introductory provisions.
 
-    [Pub. L. 109–59, § 7118(d)(1)][/us/pl/109/59/s7118/d/1], redesignated subsec. (e) as (h).
+    [Pub. L. 109–59][/us/pl/109/59], § 7118(d)(1), redesignated subsec. (e) as (h).
 
-    Subsec. (h)(4). [Pub. L. 109–59, § 7118(f)(2)][/us/pl/109/59/s7118/f/2], inserted “relating to a function regulated by the Secretary under section 5103(b)(1)” after “activities”.
+    Subsec. (h)(4). [Pub. L. 109–59][/us/pl/109/59], § 7118(f)(2), inserted “relating to a function regulated by the Secretary under section 5103(b)(1)” after “activities”.
 
-    1994—Subsec. (c)(1)(A). [Pub. L. 103–311, § 117(a)(2)][/us/pl/103/311/s117/a/2], substituted “a packaging or a” for “a package or”.
+    1994—Subsec. (c)(1)(A). [Pub. L. 103–311][/us/pl/103/311], § 117(a)(2), substituted “a packaging or a” for “a package or”.
 
-    Subsec. (e). [Pub. L. 103–311, § 108][/us/pl/103/311/s108], substituted “Report” for “Annual Report” in heading and substituted first sentence for former first sentence which read as follows: “The Secretary shall submit to the President, for submission to Congress, not later than June 15th of each year, a report about the transportation of hazardous material during the prior calendar year.”
+    Subsec. (e). [Pub. L. 103–311][/us/pl/103/311], § 108, substituted “Report” for “Annual Report” in heading and substituted first sentence for former first sentence which read as follows: “The Secretary shall submit to the President, for submission to Congress, not later than June 15th of each year, a report about the transportation of hazardous material during the prior calendar year.”
 
  __Effective Date of 2015 Amendment__ 
 
@@ -353,7 +353,7 @@ Jan. 3, 1975, Pub. L. 93–633, § 109(e), 88 Stat. 2159; Oct. 30, 1984, Pub. 
 
  __Paperless Hazard Communications Pilot Program__ 
 
-[Pub. L. 112–141, div. C, title III, § 33005][/us/pl/112/141/s33005], July 6, 2012, [126 Stat. 833][/us/stat/126/833], provided that:
+[Pub. L. 112–141, div. C, title III][/us/pl/112/141/dC/tIII], § 33005, July 6, 2012, [126 Stat. 833][/us/stat/126/833], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -407,7 +407,7 @@ Jan. 3, 1975, Pub. L. 93–633, § 109(e), 88 Stat. 2159; Oct. 30, 1984, Pub. 
 
  __Hazardous Material Enforcement Training__ 
 
-[Pub. L. 112–141, div. C, title III, § 33008][/us/pl/112/141/s33008], July 6, 2012, [126 Stat. 836][/us/stat/126/836], provided that:
+[Pub. L. 112–141, div. C, title III][/us/pl/112/141/dC/tIII], § 33008, July 6, 2012, [126 Stat. 836][/us/stat/126/836], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -443,13 +443,13 @@ Jan. 3, 1975, Pub. L. 93–633, § 109(e), 88 Stat. 2159; Oct. 30, 1984, Pub. 
 
  __Finalizing Regulations__ 
 
-[Pub. L. 112–141, div. C, title III, § 33009(b)(2)][/us/pl/112/141/s33009/b/2], July 6, 2012, [126 Stat. 837][/us/stat/126/837], provided that: 
+[Pub. L. 112–141, div. C, title III][/us/pl/112/141/dC/tIII], § 33009(b)(2), July 6, 2012, [126 Stat. 837][/us/stat/126/837], provided that: 
 
 > “In accordance with [section 5103(b)(2) of title 49][/us/usc/t49/s5103/b/2], United States Code, not later than 1 year after the date of enactment of this Act \[see section 3(a), (b) of [Pub. L. 112–141][/us/pl/112/141], set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of Title 23][/us/usc/t23/s101], Highways\], the Secretary \[of Transportation\] shall take all actions necessary to finalize a regulation under paragraph (1) of this subsection \[amending this section\].”
 
  __Toll Free Number for Reporting__ 
 
-[Pub. L. 103–311, title I, § 116][/us/pl/103/311/s116], Aug. 26, 1994, [108 Stat. 1678][/us/stat/108/1678], provided that: 
+[Pub. L. 103–311, title I][/us/pl/103/311/tI], § 116, Aug. 26, 1994, [108 Stat. 1678][/us/stat/108/1678], provided that: 
 
 > “The Secretary of Transportation shall designate a toll free telephone number for transporters of hazardous materials and other individuals to report to the Secretary possible violations of chapter 51 of title 49, United States Code, or any order or regulation issued under that chapter.”
 
@@ -461,60 +461,60 @@ Jan. 3, 1975, Pub. L. 93–633, § 109(e), 88 Stat. 2159; Oct. 30, 1984, Pub. 
 ----------
 
 [/us/usc/t5/s554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs554
-[/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F779
-[/us/pl/103/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311
+[/us/pl/103/311/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311%2FtI
 [/us/stat/108/1674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1674
-[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtVII
 [/us/stat/119/1902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1902
-[/us/pl/110/244/s302/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs302%2Fe
+[/us/pl/110/244/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2FtIII
 [/us/stat/122/1618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1618
-[/us/pl/112/141/s32501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32501%2Fc
+[/us/pl/112/141/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtII
 [/us/stat/126/803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F803
-[/us/pl/114/94/s7205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs7205
+[/us/pl/114/94/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtVII
 [/us/stat/129/1592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1592
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
-[/us/pl/112/141/s33009/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs33009%2Fa
-[/us/pl/112/141/s32501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32501%2Fc
-[/us/pl/112/141/s33009/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs33009%2Fb%2F1
-[/us/pl/112/141/s33009/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs33009%2Fc
-[/us/pl/110/244/s302/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs302%2Fe%2F1
-[/us/pl/110/244/s302/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs302%2Fe%2F2
-[/us/pl/109/59/s7126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7126
-[/us/pl/109/59/s7118/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7118%2Fa
-[/us/pl/109/59/s7118/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7118%2Fb%2F1
-[/us/pl/109/59/s7118/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7118%2Fb%2F2
-[/us/pl/109/59/s7118/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7118%2Fc
-[/us/pl/109/59/s7118/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7118%2Fd
-[/us/pl/109/59/s7118/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7118%2Fd%2F1
-[/us/pl/109/59/s7118/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7118%2Fe
-[/us/pl/109/59/s7118/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7118%2Ff%2F1
-[/us/pl/109/59/s7118/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7118%2Fd%2F1
-[/us/pl/109/59/s7118/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7118%2Ff%2F2
-[/us/pl/103/311/s117/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311%2Fs117%2Fa%2F2
-[/us/pl/103/311/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311%2Fs108
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
+[/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/103/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311
+[/us/pl/103/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
-[/us/pl/112/141/s33005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs33005
+[/us/pl/112/141/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtIII
 [/us/stat/126/833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F833
 [/us/usc/t49/s5110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5110
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
-[/us/pl/112/141/s33008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs33008
+[/us/pl/112/141/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtIII
 [/us/stat/126/836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F836
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
-[/us/pl/112/141/s33009/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs33009%2Fb%2F2
+[/us/pl/112/141/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtIII
 [/us/stat/126/837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F837
 [/us/usc/t49/s5103/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5103%2Fb%2F2
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
-[/us/pl/103/311/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311%2Fs116
+[/us/pl/103/311/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311%2FtI
 [/us/stat/108/1678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1678
 
 

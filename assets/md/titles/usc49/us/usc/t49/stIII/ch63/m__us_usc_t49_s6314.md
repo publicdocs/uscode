@@ -111,7 +111,7 @@
 
         (2) the data acquired, regardless of source, shall be protected in accordance with the Confidential Information Protection and Statistical Efficiency Act of 2002 ([44 U.S.C. 3501][/us/usc/t44/s3501] note; [Public Law 107–347][/us/pl/107/347]).
 
-(Added [Pub. L. 114–94, div. A, title VI, § 6018(a)][/us/pl/114/94/s6018/a], Dec. 4, 2015, [129 Stat. 1576][/us/stat/129/1576].)
+(Added [Pub. L. 114–94, div. A, title VI][/us/pl/114/94/dA/tVI], § 6018(a), Dec. 4, 2015, [129 Stat. 1576][/us/stat/129/1576].)
 
  __References in Text__ 
 
@@ -132,7 +132,7 @@
 
 [/us/usc/t44/s3501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3501
 [/us/pl/107/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347
-[/us/pl/114/94/s6018/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs6018%2Fa
+[/us/pl/114/94/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtVI
 [/us/stat/129/1576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1576
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/107/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347

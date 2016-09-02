@@ -43,7 +43,7 @@
 
         (5) evaluate the adequacy of safeguards and procedures for the transportation of hazardous material and the performance of other departments, agencies, and instrumentalities of the Government responsible for the safe transportation of that material.
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 751][/us/stat/108/751].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(d), July 5, 1994, [108 Stat. 751][/us/stat/108/751].)
 
 <table>
 
@@ -242,7 +242,7 @@ Jan. 3, 1975, Pub. L. 93–633, § 304(a)(6), 88 Stat. 2169; Nov. 3, 1981, Pub
 ----------
 ----------
 
-[/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F751
 
 

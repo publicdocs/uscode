@@ -69,7 +69,7 @@
 
     An airport may transfer, without consideration, to the Administrator of the Federal Aviation Administration an instrument landing system (and associated approach lighting equipment and runway visual range equipment) that conforms to performance specifications of the Administrator if a Government airport aid program, airport development aid program, or airport improvement project grant was used to assist in purchasing the system. The Administrator shall accept the system and operate and maintain it under criteria of the Administrator.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1175][/us/stat/108/1175]; [Pub. L. 103–305, title I, § 120(a)][/us/pl/103/305/s120/a], Aug. 23, 1994, [108 Stat. 1581][/us/stat/108/1581]; [Pub. L. 103–429, § 6(54)][/us/pl/103/429/s6/54], Oct. 31, 1994, [108 Stat. 4385][/us/stat/108/4385]; [Pub. L. 104–287, § 5(75)][/us/pl/104/287/s5/75], Oct. 11, 1996, [110 Stat. 3396][/us/stat/110/3396]; [Pub. L. 106–181, title I, § 153][/us/pl/106/181/s153], title VII, § 712, Apr. 5, 2000, [114 Stat. 87][/us/stat/114/87], 160.)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1175][/us/stat/108/1175]; [Pub. L. 103–305, title I][/us/pl/103/305/tI], § 120(a), Aug. 23, 1994, [108 Stat. 1581][/us/stat/108/1581]; [Pub. L. 103–429][/us/pl/103/429], § 6(54), Oct. 31, 1994, [108 Stat. 4385][/us/stat/108/4385]; [Pub. L. 104–287][/us/pl/104/287], § 5(75), Oct. 11, 1996, [110 Stat. 3396][/us/stat/110/3396]; [Pub. L. 106–181, title I][/us/pl/106/181/tI], § 153, title VII, § 712, Apr. 5, 2000, [114 Stat. 87][/us/stat/114/87], 160.)
 
 <table>
 
@@ -379,23 +379,23 @@ In subsection (e), the words “or compact” are omitted as surplus. The words 
 
     This amends 49:44502(b) to clarify the restatement of 49 App.:1349(a) (1st, 2d sentences) by [section 1 of the Act of July 5, 1994][/us/act/1994-07-05/s1] ([Public Law 103–272][/us/pl/103/272], [108 Stat. 1175][/us/stat/108/1175]).
 
- __[__  __Pub. L. 104–287, § 5(75)(A)__  __][/us/pl/104/287/s5/75/A]__ 
+ __[__  __Pub. L. 104–287__  __][/us/pl/104/287]__  __, § 5(75)(A)__ 
 
     This amends 49:44502(c)(1) to correct an error in the codification enacted by [section 1 of the Act of July 5, 1994][/us/act/1994-07-05/s1] ([Public Law 103–272][/us/pl/103/272], [108 Stat. 1175][/us/stat/108/1175]).
 
- __[__  __Pub. L. 104–287, § 5(75)(B)__  __][/us/pl/104/287/s5/75/B]__ 
+ __[__  __Pub. L. 104–287__  __][/us/pl/104/287]__  __, § 5(75)(B)__ 
 
     This strikes 49:44502(e) and redesignates 49:44502(f) as 49:44502(e) because of the restatement of former 49:44502(e) as 49:40121.
 
  __Amendments__ 
 
-    2000—Subsec. (a)(4)(B). [Pub. L. 106–181, § 153][/us/pl/106/181/s153], substituted “each of fiscal years 2000 through 2002” for “each of fiscal years 1995 and 1996” and inserted “under new or existing contracts” after “including acquisition”.
+    2000—Subsec. (a)(4)(B). [Pub. L. 106–181][/us/pl/106/181], § 153, substituted “each of fiscal years 2000 through 2002” for “each of fiscal years 1995 and 1996” and inserted “under new or existing contracts” after “including acquisition”.
 
-    Subsec. (a)(5). [Pub. L. 106–181, § 712][/us/pl/106/181/s712], added par. (5).
+    Subsec. (a)(5). [Pub. L. 106–181][/us/pl/106/181], § 712, added par. (5).
 
-    1996—Subsec. (c)(1). [Pub. L. 104–287, § 5(75)(A)][/us/pl/104/287/s5/75/A], substituted “To ensure” for “To ensure that”.
+    1996—Subsec. (c)(1). [Pub. L. 104–287][/us/pl/104/287], § 5(75)(A), substituted “To ensure” for “To ensure that”.
 
-    Subsecs. (e), (f). [Pub. L. 104–287, § 5(75)(B)][/us/pl/104/287/s5/75/B], redesignated subsec. (f) as (e) and struck out former subsec. (e) which read as follows:
+    Subsecs. (e), (f). [Pub. L. 104–287][/us/pl/104/287], § 5(75)(B), redesignated subsec. (f) as (e) and struck out former subsec. (e) which read as follows:
 
     “(e) Consent of Congress.—Congress consents to a State making an agreement, not in conflict with a law of the United States, with another State to develop or operate an airport facility.”
 
@@ -413,29 +413,29 @@ In subsection (e), the words “or compact” are omitted as surplus. The words 
 
  __High Performance, Sustainable, and Cost-Effective Air Traffic Control Facilities__ 
 
-[Pub. L. 112–95, title V, § 508][/us/pl/112/95/s508], Feb. 14, 2012, [126 Stat. 106][/us/stat/126/106], provided that: 
+[Pub. L. 112–95, title V][/us/pl/112/95/tV], § 508, Feb. 14, 2012, [126 Stat. 106][/us/stat/126/106], provided that: 
 
 > “The Administrator of the Federal Aviation Administration may implement, to the extent practicable, sustainable practices for the incorporation of energy-efficient design, equipment, systems, and other measures in the construction and major renovation of air traffic control facilities of the Administration in order to reduce energy consumption at, improve the environmental performance of, and reduce the cost of maintenance for such facilities.”
 
  __Strategy for Staffing, Hiring, and Training Flight Standards and Aircraft Certification Staff__ 
 
-[Pub. L. 114–113, div. L, title I][/us/pl/114/113], Dec. 18, 2015, [129 Stat. 2839][/us/stat/129/2839], provided in part: 
+[Pub. L. 114–113, div. L, title I][/us/pl/114/113/dL/tI], Dec. 18, 2015, [129 Stat. 2839][/us/stat/129/2839], provided in part: 
 
 > “That not later than March 31 of each fiscal year hereafter, the Administrator shall transmit to Congress a companion report that describes a comprehensive strategy for staffing, hiring, and training flight standards and aircraft certification staff in a format similar to the one utilized for the controller staffing plan, including stated attrition estimates and numerical hiring goals by fiscal year”.
 
 Similar provisions were contained in the following prior appropriation acts:
 
-    [Pub. L. 113–235, div. K, title I][/us/pl/113/235], Dec. 16, 2014, [128 Stat. 2700][/us/stat/128/2700].
+    [Pub. L. 113–235, div. K, title I][/us/pl/113/235/dK/tI], Dec. 16, 2014, [128 Stat. 2700][/us/stat/128/2700].
 
-    [Pub. L. 113–76, div. L, title I][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 578][/us/stat/128/578].
+    [Pub. L. 113–76, div. L, title I][/us/pl/113/76/dL/tI], Jan. 17, 2014, [128 Stat. 578][/us/stat/128/578].
 
-    [Pub. L. 112–55, div. C, title I][/us/pl/112/55], Nov. 18, 2011, [125 Stat. 646][/us/stat/125/646].
+    [Pub. L. 112–55, div. C, title I][/us/pl/112/55/dC/tI], Nov. 18, 2011, [125 Stat. 646][/us/stat/125/646].
 
-    [Pub. L. 111–117, div. A, title I][/us/pl/111/117], Dec. 16, 2009, [123 Stat. 3040][/us/stat/123/3040].
+    [Pub. L. 111–117, div. A, title I][/us/pl/111/117/dA/tI], Dec. 16, 2009, [123 Stat. 3040][/us/stat/123/3040].
 
  __Pilot Program for Innovative Financing of Air Traffic Control Equipment__ 
 
-[Pub. L. 108–176, title I, § 182][/us/pl/108/176/s182], Dec. 12, 2003, [117 Stat. 2515][/us/stat/117/2515], as amended by [Pub. L. 113–188, title XV, § 1501(d)][/us/pl/113/188/s1501/d], Nov. 26, 2014, [128 Stat. 2024][/us/stat/128/2024], provided that:
+[Pub. L. 108–176, title I][/us/pl/108/176/tI], § 182, Dec. 12, 2003, [117 Stat. 2515][/us/stat/117/2515], as amended by [Pub. L. 113–188, title XV][/us/pl/113/188/tXV], § 1501(d), Nov. 26, 2014, [128 Stat. 2024][/us/stat/128/2024], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -459,7 +459,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
  __Enhanced Vision Technologies__ 
 
-[Pub. L. 106–181, title I, § 124][/us/pl/106/181/s124], Apr. 5, 2000, [114 Stat. 75][/us/stat/114/75], provided that:
+[Pub. L. 106–181, title I][/us/pl/106/181/tI], § 124, Apr. 5, 2000, [114 Stat. 75][/us/stat/114/75], provided that:
 
 >     “(a)  __Study__  __.—__ 
 
@@ -475,39 +475,39 @@ Similar provisions were contained in the following prior appropriation acts:
 
  __Transfer by Airports of Instrument Landing Systems and Associated Equipment to Federal Aviation Administration__ 
 
-[Pub. L. 109–115, div. A, title I, § 101][/us/pl/109/115/s101], Nov. 30, 2005, [119 Stat. 2401][/us/stat/119/2401], which provided that airports may transfer to the Federal Aviation Administration (FAA) instrument landing systems (along with associated approach lighting equipment and runway visual range equipment) which conform to FAA design and performance specifications, the purchase of which was assisted by a Federal airport-aid program, airport development aid program or airport improvement program grant, provided that the FAA accept such equipment and operate and maintain it in accordance with agency criteria, was from the Transportation, Treasury, Housing and Urban Development, the Judiciary, and Independent Agencies Appropriations Act, 2006, and was not repeated in subsequent appropriation acts. Similar provisions were contained in the following prior appropriation acts:
+[Pub. L. 109–115, div. A, title I][/us/pl/109/115/dA/tI], § 101, Nov. 30, 2005, [119 Stat. 2401][/us/stat/119/2401], which provided that airports may transfer to the Federal Aviation Administration (FAA) instrument landing systems (along with associated approach lighting equipment and runway visual range equipment) which conform to FAA design and performance specifications, the purchase of which was assisted by a Federal airport-aid program, airport development aid program or airport improvement program grant, provided that the FAA accept such equipment and operate and maintain it in accordance with agency criteria, was from the Transportation, Treasury, Housing and Urban Development, the Judiciary, and Independent Agencies Appropriations Act, 2006, and was not repeated in subsequent appropriation acts. Similar provisions were contained in the following prior appropriation acts:
 
-    [Pub. L. 108–447, div. H, title I, § 101][/us/pl/108/447/s101], Dec. 8, 2004, [118 Stat. 3203][/us/stat/118/3203].
+    [Pub. L. 108–447, div. H, title I][/us/pl/108/447/dH/tI], § 101, Dec. 8, 2004, [118 Stat. 3203][/us/stat/118/3203].
 
-    [Pub. L. 108–199, div. F, title I, § 101][/us/pl/108/199/s101], Jan. 23, 2004, [118 Stat. 284][/us/stat/118/284].
+    [Pub. L. 108–199, div. F, title I][/us/pl/108/199/dF/tI], § 101, Jan. 23, 2004, [118 Stat. 284][/us/stat/118/284].
 
-    [Pub. L. 108–7, div. I, title III, § 313][/us/pl/108/7/s313], Feb. 20, 2003, [117 Stat. 410][/us/stat/117/410].
+    [Pub. L. 108–7, div. I, title III][/us/pl/108/7/dI/tIII], § 313, Feb. 20, 2003, [117 Stat. 410][/us/stat/117/410].
 
-    [Pub. L. 107–87, title III, § 313][/us/pl/107/87/s313], Dec. 18, 2001, [115 Stat. 858][/us/stat/115/858].
+    [Pub. L. 107–87, title III][/us/pl/107/87/tIII], § 313, Dec. 18, 2001, [115 Stat. 858][/us/stat/115/858].
 
-    [Pub. L. 106–346, § 101(a)][/us/pl/106/346/s101/a] \[title III, § 314\], Oct. 23, 2000, [114 Stat. 1356][/us/stat/114/1356], 1356A–27.
+    [Pub. L. 106–346][/us/pl/106/346], § 101(a) \[title III, § 314\], Oct. 23, 2000, [114 Stat. 1356][/us/stat/114/1356], 1356A–27.
 
-    [Pub. L. 106–69, title III, § 314][/us/pl/106/69/s314], Oct. 9, 1999, [113 Stat. 1018][/us/stat/113/1018].
+    [Pub. L. 106–69, title III][/us/pl/106/69/tIII], § 314, Oct. 9, 1999, [113 Stat. 1018][/us/stat/113/1018].
 
-    [Pub. L. 105–277, div. A, § 101(g)][/us/pl/105/277/s101/g] \[title III, § 314\], Oct. 21, 1998, [112 Stat. 2681–439][/us/stat/112/2681-439], 2681–468.
+    [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(g) \[title III, § 314\], Oct. 21, 1998, [112 Stat. 2681–439][/us/stat/112/2681-439], 2681–468.
 
-    [Pub. L. 105–66, title III, § 314][/us/pl/105/66/s314], Oct. 27, 1997, [111 Stat. 1443][/us/stat/111/1443].
+    [Pub. L. 105–66, title III][/us/pl/105/66/tIII], § 314, Oct. 27, 1997, [111 Stat. 1443][/us/stat/111/1443].
 
-    [Pub. L. 104–205, title III, § 314][/us/pl/104/205/s314], Sept. 30, 1996, [110 Stat. 2971][/us/stat/110/2971].
+    [Pub. L. 104–205, title III][/us/pl/104/205/tIII], § 314, Sept. 30, 1996, [110 Stat. 2971][/us/stat/110/2971].
 
-    [Pub. L. 104–50, title III, § 317][/us/pl/104/50/s317], Nov. 15, 1995, [109 Stat. 455][/us/stat/109/455].
+    [Pub. L. 104–50, title III][/us/pl/104/50/tIII], § 317, Nov. 15, 1995, [109 Stat. 455][/us/stat/109/455].
 
-    [Pub. L. 103–331, title III, § 317][/us/pl/103/331/s317], Sept. 30, 1994, [108 Stat. 2491][/us/stat/108/2491], repealed by [Pub. L. 104–287, § 7(4)][/us/pl/104/287/s7/4], Oct. 11, 1996, [110 Stat. 3400][/us/stat/110/3400].
+    [Pub. L. 103–331, title III][/us/pl/103/331/tIII], § 317, Sept. 30, 1994, [108 Stat. 2491][/us/stat/108/2491], repealed by [Pub. L. 104–287][/us/pl/104/287], § 7(4), Oct. 11, 1996, [110 Stat. 3400][/us/stat/110/3400].
 
  __Cost Savings Associated With Purchase__ 
 
-[Pub. L. 103–305, title I, § 120(b)][/us/pl/103/305/s120/b], Aug. 23, 1994, [108 Stat. 1581][/us/stat/108/1581], provided that: 
+[Pub. L. 103–305, title I][/us/pl/103/305/tI], § 120(b), Aug. 23, 1994, [108 Stat. 1581][/us/stat/108/1581], provided that: 
 
 > “Notwithstanding other provisions of law or regulations to the contrary, the Administrator \[of the Federal Aviation Administration\] shall establish, within 120 days after the date of the enactment of this Act \[Aug. 23, 1994\], a process through which airport sponsors may take advantage of cost savings associated with the purchase and installation of instrument landing systems, along with associated equipment, under existing or future Federal Aviation Administration contracts. The process established by the Administrator may provide for the direct reimbursement (including administrative costs) of the Administrator by an airport sponsor using grants funds under subchapter I of chapter 471 of subtitle VII of title 49, United States Code, relating to airport improvement, for the ordering of such equipment and installation or for the direct ordering of such equipment and installation by an airport sponsor, using such grant funds, from the suppliers with which the Administrator has contracted.”
 
  __Grandfather Provision for FAA Demonstration Project__ 
 
-[Pub. L. 103–260, title IV, § 401][/us/pl/103/260/s401], May 26, 1994, [108 Stat. 702][/us/stat/108/702], provided that:
+[Pub. L. 103–260, title IV][/us/pl/103/260/tIV], § 401, May 26, 1994, [108 Stat. 702][/us/stat/108/702], provided that:
 
 >     “(a)  __In general__  __.—__ 
 
@@ -565,15 +565,15 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/usc/t49/s48101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs48101%2Fa
 [/us/usc/t49/s47102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs47102
 [/us/usc/t49/s40103/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40103%2Fb%2F1
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1175
-[/us/pl/103/305/s120/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2Fs120%2Fa
+[/us/pl/103/305/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2FtI
 [/us/stat/108/1581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1581
-[/us/pl/103/429/s6/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F54
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/stat/108/4385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4385
-[/us/pl/104/287/s5/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F75
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3396
-[/us/pl/106/181/s153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs153
+[/us/pl/106/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtI
 [/us/stat/114/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F87
 [/us/pl/85/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F726
 [/us/stat/72/750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F750
@@ -581,15 +581,15 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/act/1994-07-05/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1994-07-05%2Fs1
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1175
-[/us/pl/104/287/s5/75/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F75%2FA
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/act/1994-07-05/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1994-07-05%2Fs1
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1175
-[/us/pl/104/287/s5/75/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F75%2FB
-[/us/pl/106/181/s153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs153
-[/us/pl/106/181/s712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs712
-[/us/pl/104/287/s5/75/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F75%2FA
-[/us/pl/104/287/s5/75/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F75%2FB
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/pl/103/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
@@ -598,56 +598,56 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/pl/103/429/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs9
 [/us/usc/t49/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs321
-[/us/pl/112/95/s508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs508
+[/us/pl/112/95/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtV
 [/us/stat/126/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F106
-[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113/dL/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdL%2FtI
 [/us/stat/129/2839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2839
-[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235/dK/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdK%2FtI
 [/us/stat/128/2700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2700
-[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
+[/us/pl/113/76/dL/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdL%2FtI
 [/us/stat/128/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F578
-[/us/pl/112/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55
+[/us/pl/112/55/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55%2FdC%2FtI
 [/us/stat/125/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F646
-[/us/pl/111/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117
+[/us/pl/111/117/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2FdA%2FtI
 [/us/stat/123/3040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3040
-[/us/pl/108/176/s182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs182
+[/us/pl/108/176/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtI
 [/us/stat/117/2515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2515
-[/us/pl/113/188/s1501/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs1501%2Fd
+[/us/pl/113/188/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2FtXV
 [/us/stat/128/2024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2024
 [/us/usc/t31/s1341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1341
 [/us/usc/t49/s48101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs48101
-[/us/pl/106/181/s124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs124
+[/us/pl/106/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtI
 [/us/stat/114/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F75
 [/us/usc/t49/s47102/3/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs47102%2F3%2FB%2Fi
-[/us/pl/109/115/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F115%2Fs101
+[/us/pl/109/115/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F115%2FdA%2FtI
 [/us/stat/119/2401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2401
-[/us/pl/108/447/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs101
+[/us/pl/108/447/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdH%2FtI
 [/us/stat/118/3203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3203
-[/us/pl/108/199/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs101
+[/us/pl/108/199/dF/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdF%2FtI
 [/us/stat/118/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F284
-[/us/pl/108/7/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs313
+[/us/pl/108/7/dI/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdI%2FtIII
 [/us/stat/117/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F410
-[/us/pl/107/87/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F87%2Fs313
+[/us/pl/107/87/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F87%2FtIII
 [/us/stat/115/858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F858
-[/us/pl/106/346/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F346%2Fs101%2Fa
+[/us/pl/106/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F346
 [/us/stat/114/1356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1356
-[/us/pl/106/69/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F69%2Fs314
+[/us/pl/106/69/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F69%2FtIII
 [/us/stat/113/1018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1018
-[/us/pl/105/277/s101/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fg
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-439
-[/us/pl/105/66/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F66%2Fs314
+[/us/pl/105/66/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F66%2FtIII
 [/us/stat/111/1443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1443
-[/us/pl/104/205/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F205%2Fs314
+[/us/pl/104/205/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F205%2FtIII
 [/us/stat/110/2971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2971
-[/us/pl/104/50/s317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F50%2Fs317
+[/us/pl/104/50/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F50%2FtIII
 [/us/stat/109/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F455
-[/us/pl/103/331/s317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F331%2Fs317
+[/us/pl/103/331/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F331%2FtIII
 [/us/stat/108/2491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2491
-[/us/pl/104/287/s7/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs7%2F4
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3400
-[/us/pl/103/305/s120/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2Fs120%2Fb
+[/us/pl/103/305/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2FtI
 [/us/stat/108/1581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1581
-[/us/pl/103/260/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F260%2Fs401
+[/us/pl/103/260/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F260%2FtIV
 [/us/stat/108/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F702
 [/us/usc/t5/s4703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs4703
 [/us/usc/t5/s5303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5303

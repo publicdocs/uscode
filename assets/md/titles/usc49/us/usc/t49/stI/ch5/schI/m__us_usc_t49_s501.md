@@ -29,7 +29,7 @@
 
     This chapter only applies in carrying out sections 20302(a)(1)(B) and (C), (2), and (3), (c), and (d)(1) and 20303 and chapters 205 (except section 20504(b)), 211, 213 (in carrying out those sections and chapters), and 315 of this title.
 
-([Pub. L. 97–449, § 1(b)][/us/pl/97/449/s1/b], Jan. 12, 1983, [96 Stat. 2431][/us/stat/96/2431]; [Pub. L. 98–216, § 2(2)][/us/pl/98/216/s2/2], Feb. 14, 1984, [98 Stat. 5][/us/stat/98/5]; [Pub. L. 102–548, § 2(c)][/us/pl/102/548/s2/c], Oct. 28, 1992, [106 Stat. 3648][/us/stat/106/3648]; [Pub. L. 103–272][/us/pl/103/272], §§ 4(j)(11)(A), 5(m)(9), July 5, 1994, [108 Stat. 1368][/us/stat/108/1368], 1376; [Pub. L. 104–88, title III, § 308(c)(2)][/us/pl/104/88/s308/c/2], Dec. 29, 1995, [109 Stat. 947][/us/stat/109/947].)
+([Pub. L. 97–449][/us/pl/97/449], § 1(b), Jan. 12, 1983, [96 Stat. 2431][/us/stat/96/2431]; [Pub. L. 98–216][/us/pl/98/216], § 2(2), Feb. 14, 1984, [98 Stat. 5][/us/stat/98/5]; [Pub. L. 102–548][/us/pl/102/548], § 2(c), Oct. 28, 1992, [106 Stat. 3648][/us/stat/106/3648]; [Pub. L. 103–272][/us/pl/103/272], §§ 4(j)(11)(A), 5(m)(9), July 5, 1994, [108 Stat. 1368][/us/stat/108/1368], 1376; [Pub. L. 104–88, title III][/us/pl/104/88/tIII], § 308(c)(2), Dec. 29, 1995, [109 Stat. 947][/us/stat/109/947].)
 
 <table>
 
@@ -145,13 +145,13 @@ Oct. 15, 1966, Pub. L. 89–670, § 6(f)(2), 80 Stat. 940.  </td>
 
     1995—Subsec. (a)(1). [Pub. L. 104–88][/us/pl/104/88] substituted “sections 10102 and 13102” for “section 10102”.
 
-    1994—Subsec. (a)(2). [Pub. L. 103–272, § 5(m)(9)(A)][/us/pl/103/272/s5/m/9/A], substituted “section 31501” for “section 3101”.
+    1994—Subsec. (a)(2). [Pub. L. 103–272][/us/pl/103/272], § 5(m)(9)(A), substituted “section 31501” for “section 3101”.
 
-    Subsec. (a)(3). [Pub. L. 103–272, § 5(m)(9)(B)][/us/pl/103/272/s5/m/9/B], substituted “section 31502(c)” for “section 3102(c)”.
+    Subsec. (a)(3). [Pub. L. 103–272][/us/pl/103/272], § 5(m)(9)(B), substituted “section 31502(c)” for “section 3102(c)”.
 
-    Subsec. (a)(4) to (9). [Pub. L. 103–272, § 4(j)(11)(A)][/us/pl/103/272/s4/j/11/A], struck out pars. (4) to (9) which defined “beneficial owner”, “carrier”, “container”, “initial carrier”, “intermodal transportation”, and “trailer”, respectively.
+    Subsec. (a)(4) to (9). [Pub. L. 103–272][/us/pl/103/272], § 4(j)(11)(A), struck out pars. (4) to (9) which defined “beneficial owner”, “carrier”, “container”, “initial carrier”, “intermodal transportation”, and “trailer”, respectively.
 
-    Subsec. (b). [Pub. L. 103–272, § 5(m)(9)(C)][/us/pl/103/272/s5/m/9/C], added subsec. (b) and struck out former subsec. (b) which read as follows: “This chapter only applies in carrying out—
+    Subsec. (b). [Pub. L. 103–272][/us/pl/103/272], § 5(m)(9)(C), added subsec. (b) and struck out former subsec. (b) which read as follows: “This chapter only applies in carrying out—
 
     “(1) chapter 31 of this title; and
 
@@ -167,7 +167,7 @@ Oct. 15, 1966, Pub. L. 89–670, § 6(f)(2), 80 Stat. 940.  </td>
 
  __Short Title of 1992 Amendment__ 
 
-[Pub. L. 102–548, § 1][/us/pl/102/548/s1], Oct. 28, 1992, [106 Stat. 3646][/us/stat/106/3646], provided that: 
+[Pub. L. 102–548][/us/pl/102/548], § 1, Oct. 28, 1992, [106 Stat. 3646][/us/stat/106/3646], provided that: 
 
 > “This Act \[enacting [section 508 of this title][/us/usc/t49/s508], amending this section and [section 521 of this title][/us/usc/t49/s521], and enacting provisions set out as notes under [section 508 of this title][/us/usc/t49/s508]\] may be cited as the ‘Intermodal Safe Container Transportation Act of 1992’.”
 
@@ -180,15 +180,15 @@ Oct. 15, 1966, Pub. L. 89–670, § 6(f)(2), 80 Stat. 940.  </td>
 
 [/us/usc/t49/s31501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31501
 [/us/usc/t49/s31502/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31502%2Fc
-[/us/pl/97/449/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449%2Fs1%2Fb
+[/us/pl/97/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449
 [/us/stat/96/2431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2431
-[/us/pl/98/216/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F216%2Fs2%2F2
+[/us/pl/98/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F216
 [/us/stat/98/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F5
-[/us/pl/102/548/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F548%2Fs2%2Fc
+[/us/pl/102/548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F548
 [/us/stat/106/3648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3648
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1368
-[/us/pl/104/88/s308/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs308%2Fc%2F2
+[/us/pl/104/88/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtIII
 [/us/stat/109/947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F947
 [/us/pl/89/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670
 [/us/stat/80/931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F931
@@ -199,16 +199,16 @@ Oct. 15, 1966, Pub. L. 89–670, § 6(f)(2), 80 Stat. 940.  </td>
 [/us/stat/83/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F463
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
-[/us/pl/103/272/s5/m/9/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs5%2Fm%2F9%2FA
-[/us/pl/103/272/s5/m/9/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs5%2Fm%2F9%2FB
-[/us/pl/103/272/s4/j/11/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs4%2Fj%2F11%2FA
-[/us/pl/103/272/s5/m/9/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs5%2Fm%2F9%2FC
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/pl/102/548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F548
 [/us/pl/98/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F216
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/104/88/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs2
 [/us/usc/t49/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1301
-[/us/pl/102/548/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F548%2Fs1
+[/us/pl/102/548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F548
 [/us/stat/106/3646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3646
 [/us/usc/t49/s508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs508
 [/us/usc/t49/s521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs521

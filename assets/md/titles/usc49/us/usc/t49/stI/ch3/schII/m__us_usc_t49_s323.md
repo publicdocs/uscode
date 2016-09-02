@@ -19,7 +19,7 @@
 
     (b) The Secretary may procure services under [section 3109 of title 5][/us/usc/t5/s3109]. However, an individual may be paid not more than $100 a day for services.
 
-([Pub. L. 97–449, § 1(b)][/us/pl/97/449/s1/b], Jan. 12, 1983, [96 Stat. 2423][/us/stat/96/2423].)
+([Pub. L. 97–449][/us/pl/97/449], § 1(b), Jan. 12, 1983, [96 Stat. 2423][/us/stat/96/2423].)
 
 <table>
 
@@ -139,7 +139,7 @@ The text of 49:1343(d) (words after 1st comma) is omitted because of section 414
 
  __Post-Employment Policy Study__ 
 
-[Pub. L. 112–141, div. C, title I, § 31308(b)][/us/pl/112/141/s31308/b], July 6, 2012, [126 Stat. 770][/us/stat/126/770], provided that:
+[Pub. L. 112–141, div. C, title I][/us/pl/112/141/dC/tI], § 31308(b), July 6, 2012, [126 Stat. 770][/us/stat/126/770], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -167,11 +167,11 @@ The text of 49:1343(d) (words after 1st comma) is omitted because of section 414
 ----------
 
 [/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109
-[/us/pl/97/449/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449%2Fs1%2Fb
+[/us/pl/97/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449
 [/us/stat/96/2423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2423
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/stat/92/1177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1177
-[/us/pl/112/141/s31308/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31308%2Fb
+[/us/pl/112/141/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtI
 [/us/stat/126/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F770
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101

@@ -17,7 +17,7 @@
 
     When an owner of a passenger motor vehicle sustains damages as a result of a motor vehicle accident because the vehicle did not comply with a standard prescribed under [section 32502 of this title][/us/usc/t49/s32502], the owner may bring a civil action against the manufacturer to recover the damages. The action may be brought in the United States District Court for the District of Columbia or in the United States district court for the judicial district in which the owner resides. The action must be brought not later than 3 years after the date of the accident. The court shall award costs and a reasonable attorney’s fee to the owner when a judgment is entered for the owner.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1047][/us/stat/108/1047].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1047][/us/stat/108/1047].)
 
 <table>
 
@@ -75,7 +75,7 @@ Oct. 20, 1972, Pub. L. 92–513, § 108, 86 Stat. 955.  </td>
 ----------
 
 [/us/usc/t49/s32502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs32502
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1047
 
 

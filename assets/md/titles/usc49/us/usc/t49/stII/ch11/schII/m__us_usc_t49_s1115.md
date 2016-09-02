@@ -43,7 +43,7 @@
 
     The Board may conduct training of its employees in those subjects necessary for the proper performance of accident investigation. The Board may also authorize attendance at courses given under this subsection by other government personnel, personnel of foreign governments, and personnel from industry or otherwise who have a requirement for accident investigation training. The Board may require non-Board personnel to reimburse some or all of the training costs, and amounts so reimbursed shall be credited to the appropriation of the Board as offsetting collections.
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 750][/us/stat/108/750]; [Pub. L. 104–291, title I, § 104][/us/pl/104/291/s104], Oct. 11, 1996, [110 Stat. 3453][/us/stat/110/3453]; [Pub. L. 106–424, § 3(b)(3)][/us/pl/106/424/s3/b/3], Nov. 1, 2000, [114 Stat. 1884][/us/stat/114/1884].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(d), July 5, 1994, [108 Stat. 750][/us/stat/108/750]; [Pub. L. 104–291, title I][/us/pl/104/291/tI], § 104, Oct. 11, 1996, [110 Stat. 3453][/us/stat/110/3453]; [Pub. L. 106–424][/us/pl/106/424], § 3(b)(3), Nov. 1, 2000, [114 Stat. 1884][/us/stat/114/1884].)
 
 <table>
 
@@ -138,11 +138,11 @@ Jan. 3, 1975, Pub. L. 93–633, § 304(b)(10), 88 Stat. 2156; added July 19, 1
 ----------
 ----------
 
-[/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F750
-[/us/pl/104/291/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F291%2Fs104
+[/us/pl/104/291/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F291%2FtI
 [/us/stat/110/3453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3453
-[/us/pl/106/424/s3/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F424%2Fs3%2Fb%2F3
+[/us/pl/106/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F424
 [/us/stat/114/1884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1884
 [/us/pl/106/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F424
 [/us/pl/104/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F291

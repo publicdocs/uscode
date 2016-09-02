@@ -17,7 +17,7 @@
 
     A motor carrier, motor carrier of migrant workers, or motor private carrier not obeying a subpoena or requirement of the Secretary of Transportation under this chapter to appear and testify or produce records shall be fined at least $1,000 but not more than $10,000, imprisoned for not more than one year, or both. The Secretary may withhold, suspend, amend, or revoke any part of the registration of a person required to register under chapter 139 for failing to obey a subpoena or requirement of the Secretary under this chapter to appear and testify or produce records.
 
-([Pub. L. 97–449, § 1(b)][/us/pl/97/449/s1/b], Jan. 12, 1983, [96 Stat. 2437][/us/stat/96/2437]; [Pub. L. 112–141, div. C, title II, § 32110][/us/pl/112/141/s32110], July 6, 2012, [126 Stat. 782][/us/stat/126/782].)
+([Pub. L. 97–449][/us/pl/97/449], § 1(b), Jan. 12, 1983, [96 Stat. 2437][/us/stat/96/2437]; [Pub. L. 112–141, div. C, title II][/us/pl/112/141/dC/tII], § 32110, July 6, 2012, [126 Stat. 782][/us/stat/126/782].)
 
 <table>
 
@@ -154,9 +154,9 @@ Revised Section  </td>
 ----------
 ----------
 
-[/us/pl/97/449/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449%2Fs1%2Fb
+[/us/pl/97/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449
 [/us/stat/96/2437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2437
-[/us/pl/112/141/s32110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32110
+[/us/pl/112/141/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtII
 [/us/stat/126/782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F782
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141

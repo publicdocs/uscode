@@ -175,7 +175,7 @@
 
             The term “perimeter security” includes the fence area surrounding an airport, access gates, and access controls.
 
-(Added [Pub. L. 113–238, § 2(a)][/us/pl/113/238/s2/a], Dec. 18, 2014, [128 Stat. 2842][/us/stat/128/2842].)
+(Added [Pub. L. 113–238][/us/pl/113/238], § 2(a), Dec. 18, 2014, [128 Stat. 2842][/us/stat/128/2842].)
 
  __References in Text__ 
 
@@ -191,7 +191,7 @@
 ----------
 
 [/us/usc/t5/s552/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fb
-[/us/pl/113/238/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F238%2Fs2%2Fa
+[/us/pl/113/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F238
 [/us/stat/128/2842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2842
 [/us/pl/113/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F238
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463

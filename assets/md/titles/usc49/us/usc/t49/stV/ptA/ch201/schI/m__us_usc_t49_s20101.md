@@ -17,7 +17,7 @@
 
     The purpose of this chapter is to promote safety in every area of railroad operations and reduce railroad-related accidents and incidents.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 863][/us/stat/108/863].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 863][/us/stat/108/863].)
 
 <table>
 
@@ -69,47 +69,47 @@ Oct. 16, 1970, Pub. L. 91–458, § 101, 84 Stat. 971.  </td>
 
  __Short Title of 2015 Amendment__ 
 
-[Pub. L. 114–94, div. A, title XI, § 11001][/us/pl/114/94/s11001], Dec. 4, 2015, [129 Stat. 1622][/us/stat/129/1622], provided that: 
+[Pub. L. 114–94, div. A, title XI][/us/pl/114/94/dA/tXI], § 11001, Dec. 4, 2015, [129 Stat. 1622][/us/stat/129/1622], provided that: 
 
 > “This title \[see Tables for classification\] may be cited as the ‘Passenger Rail Reform and Investment Act of 2015’.”
 
-[Pub. L. 114–94, div. A, title XI, § 11501][/us/pl/114/94/s11501], Dec. 4, 2015, [129 Stat. 1690][/us/stat/129/1690], provided that: 
+[Pub. L. 114–94, div. A, title XI][/us/pl/114/94/dA/tXI], § 11501, Dec. 4, 2015, [129 Stat. 1690][/us/stat/129/1690], provided that: 
 
 > “This subtitle \[subtitle E (§§ 11501–11504) of title XI of div. A of [Pub. L. 114–94][/us/pl/114/94], enacting sections 24201 and 24202 of this title, amending [section 303 of this title][/us/usc/t49/s303] and [section 138 of Title 23][/us/usc/t23/s138], Highways, and enacting provisions set out as a note under [section 4370m of Title 42][/us/usc/t42/s4370m], The Public Health and Welfare\] may be cited as the ‘Track, Railroad, and Infrastructure Network Act’ or the ‘TRAIN Act’.”
 
-[Pub. L. 114–73, title I, § 1302(a)][/us/pl/114/73/s1302/a], Oct. 29, 2015, [129 Stat. 576][/us/stat/129/576], provided that: 
+[Pub. L. 114–73, title I][/us/pl/114/73/tI], § 1302(a), Oct. 29, 2015, [129 Stat. 576][/us/stat/129/576], provided that: 
 
 > “This section \[amending [section 20157 of this title][/us/usc/t49/s20157]\] may be cited as the ‘Positive Train Control Enforcement and Implementation Act of 2015’.”
 
  __Short Title of 2008 Amendment__ 
 
-[Pub. L. 110–432, div. A, § 1(a)][/us/pl/110/432/s1/a], Oct. 16, 2008, [122 Stat. 4848][/us/stat/122/4848], provided that: 
+[Pub. L. 110–432, div. A][/us/pl/110/432/dA], § 1(a), Oct. 16, 2008, [122 Stat. 4848][/us/stat/122/4848], provided that: 
 
 > “This division \[see Tables for classification\] may be cited as the ‘Rail Safety Improvement Act of 2008’.”
 
-[Pub. L. 110–432, div. B, § 1(a)][/us/pl/110/432/s1/a], Oct. 16, 2008, [122 Stat. 4907][/us/stat/122/4907], provided that: 
+[Pub. L. 110–432, div. B][/us/pl/110/432/dB], § 1(a), Oct. 16, 2008, [122 Stat. 4907][/us/stat/122/4907], provided that: 
 
 > “This division \[enacting chapters 227, 244, and 285 of this title and sections 24105, 24310, 24316, 24702, 24710, 24711, 24910, and 26106 of this title, amending sections 103, 24101, 24102, 24302, 24308, 24706, 24904, 24905, 26101, and 26104 of this title, enacting provisions set out as notes under sections 24101, 24302, 24305, 24307, 24308, 24405, 24702, 24709, 24711, 24902, and 26106 of this title, and amending provisions set out as a note under [section 24101 of this title][/us/usc/t49/s24101]\] may be cited as the ‘Passenger Rail Investment and Improvement Act of 2008’.”
 
  __Short Title of 1997 Amendment__ 
 
-[Pub. L. 105–134, § 1(a)][/us/pl/105/134/s1/a], Dec. 2, 1997, [111 Stat. 2570][/us/stat/111/2570], provided that: 
+[Pub. L. 105–134][/us/pl/105/134], § 1(a), Dec. 2, 1997, [111 Stat. 2570][/us/stat/111/2570], provided that: 
 
 > “This Act \[enacting [section 28103 of this title][/us/usc/t49/s28103], amending sections 24101, 24102, 24104, 24301 to 24307, 24309, 24312, 24315, 24701, 24706, 24902, and 24904 of this title, section 8G of the Inspector General Act of 1978, [Pub. L. 95–452][/us/pl/95/452], set out in the Appendix to Title 5, Government Organization and Employees, and [section 9101 of Title 31][/us/usc/t31/s9101], Money and Finance, repealing sections 24310, 24314, 24501 to 24506, 24702 to 24705, 24707, 24708, and 24903 of this title, and [section 1111 of Title 45][/us/usc/t45/s1111], Railroads, and enacting provisions set out as notes under this section and sections 24101, 24104, 24301, 24304, 24305, 24307, 24312, 24315, 24501, and 24706 of this title, section 8G of the Appendix to Title 5, and [section 172 of Title 26][/us/usc/t26/s172], Internal Revenue Code\] may be cited as the ‘Amtrak Reform and Accountability Act of 1997’.”
 
  __Short Title of 1994 Amendment__ 
 
-[Pub. L. 103–440, title I, § 101][/us/pl/103/440/s101], Nov. 2, 1994, [108 Stat. 4615][/us/stat/108/4615], provided that: 
+[Pub. L. 103–440, title I][/us/pl/103/440/tI], § 101, Nov. 2, 1994, [108 Stat. 4615][/us/stat/108/4615], provided that: 
 
 > “This title \[enacting sections 26101 to 26105 of this title, renumbering former sections 26101 and 26102 of this title as 28101 and 28102 of this title, respectively, and enacting provisions set out as notes under [section 26101 of this title][/us/usc/t49/s26101] and [section 838 of Title 45][/us/usc/t45/s838], Railroads\] may be cited as the ‘Swift Rail Development Act of 1994’.”
 
-[Pub. L. 103–440, title II, § 201][/us/pl/103/440/s201], Nov. 2, 1994, [108 Stat. 4619][/us/stat/108/4619], provided that: 
+[Pub. L. 103–440, title II][/us/pl/103/440/tII], § 201, Nov. 2, 1994, [108 Stat. 4619][/us/stat/108/4619], provided that: 
 
 > “This title \[enacting sections 20145 to 20151 and 21108 of this title, amending sections 103, 20103, 20111, 20116, 20117, 20133, 20142, and 21303 of this title, and enacting provisions set out as a note under [section 11504 of this title][/us/usc/t49/s11504]\] may be cited as the ‘Federal Railroad Safety Authorization Act of 1994’.”
 
  __Shared-Use Study__ 
 
-[Pub. L. 114–94, div. A, title XI, § 11311][/us/pl/114/94/s11311], Dec. 4, 2015, [129 Stat. 1670][/us/stat/129/1670], provided that:
+[Pub. L. 114–94, div. A, title XI][/us/pl/114/94/dA/tXI], § 11311, Dec. 4, 2015, [129 Stat. 1670][/us/stat/129/1670], provided that:
 
 >     “(a)  __In Genera__  __l.—__ 
 
@@ -185,7 +185,7 @@ Oct. 16, 1970, Pub. L. 91–458, § 101, 84 Stat. 971.  </td>
 
  __Railroad Safety Strategy__ 
 
-[Pub. L. 110–432, div. A, title I, § 102][/us/pl/110/432/s102], Oct. 16, 2008, [122 Stat. 4852][/us/stat/122/4852], as amended by [Pub. L. 114–94, div. A, title XI, § 11316(j)(3)][/us/pl/114/94/s11316/j/3], Dec. 4, 2015, [129 Stat. 1677][/us/stat/129/1677], provided that:
+[Pub. L. 110–432, div. A, title I][/us/pl/110/432/dA/tI], § 102, Oct. 16, 2008, [122 Stat. 4852][/us/stat/122/4852], as amended by [Pub. L. 114–94, div. A, title XI][/us/pl/114/94/dA/tXI], § 11316(j)(3), Dec. 4, 2015, [129 Stat. 1677][/us/stat/129/1677], provided that:
 
 >     “(a)  __Safety Goals__  __.—__ 
 
@@ -225,7 +225,7 @@ Oct. 16, 1970, Pub. L. 91–458, § 101, 84 Stat. 971.  </td>
 
  __Reports on Statutory Mandates and Recommendations__ 
 
-[Pub. L. 110–432, div. A, title I, § 106][/us/pl/110/432/s106], Oct. 16, 2008, [122 Stat. 4859][/us/stat/122/4859], provided that: 
+[Pub. L. 110–432, div. A, title I][/us/pl/110/432/dA/tI], § 106, Oct. 16, 2008, [122 Stat. 4859][/us/stat/122/4859], provided that: 
 
 > “Not later than December 31, 2008, and annually thereafter, the Secretary shall transmit a report to the House of Representatives Committee on Transportation and Infrastructure and the Senate Committee on Commerce, Science, and Transportation on the specific actions taken to implement unmet statutory mandates regarding railroad safety and each open railroad safety recommendation made by the National Transportation Safety Board or the Department’s Inspector General.”
 
@@ -238,52 +238,52 @@ Oct. 16, 1970, Pub. L. 91–458, § 101, 84 Stat. 971.  </td>
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F863
 [/us/pl/93/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F633
 [/us/stat/88/2163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2163
-[/us/pl/114/94/s11001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11001
+[/us/pl/114/94/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtXI
 [/us/stat/129/1622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1622
-[/us/pl/114/94/s11501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11501
+[/us/pl/114/94/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtXI
 [/us/stat/129/1690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1690
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/usc/t49/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs303
 [/us/usc/t23/s138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs138
 [/us/usc/t42/s4370m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4370m
-[/us/pl/114/73/s1302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73%2Fs1302%2Fa
+[/us/pl/114/73/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73%2FtI
 [/us/stat/129/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F576
 [/us/usc/t49/s20157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs20157
-[/us/pl/110/432/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs1%2Fa
+[/us/pl/110/432/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdA
 [/us/stat/122/4848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4848
-[/us/pl/110/432/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs1%2Fa
+[/us/pl/110/432/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdB
 [/us/stat/122/4907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4907
 [/us/usc/t49/s24101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24101
-[/us/pl/105/134/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2Fs1%2Fa
+[/us/pl/105/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134
 [/us/stat/111/2570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2570
 [/us/usc/t49/s28103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs28103
 [/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
 [/us/usc/t31/s9101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9101
 [/us/usc/t45/s1111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs1111
 [/us/usc/t26/s172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs172
-[/us/pl/103/440/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F440%2Fs101
+[/us/pl/103/440/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F440%2FtI
 [/us/stat/108/4615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4615
 [/us/usc/t49/s26101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs26101
 [/us/usc/t45/s838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs838
-[/us/pl/103/440/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F440%2Fs201
+[/us/pl/103/440/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F440%2FtII
 [/us/stat/108/4619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4619
 [/us/usc/t49/s11504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs11504
-[/us/pl/114/94/s11311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11311
+[/us/pl/114/94/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtXI
 [/us/stat/129/1670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1670
 [/us/usc/t49/s24905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24905
 [/us/usc/t45/s822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs822
-[/us/pl/110/432/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs102
+[/us/pl/110/432/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdA%2FtI
 [/us/stat/122/4852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4852
-[/us/pl/114/94/s11316/j/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11316%2Fj%2F3
+[/us/pl/114/94/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtXI
 [/us/stat/129/1677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1677
 [/us/pl/110/432/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs102
 [/us/pl/110/432/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs2%2Fa
 [/us/usc/t49/s20102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs20102
-[/us/pl/110/432/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs106
+[/us/pl/110/432/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdA%2FtI
 [/us/stat/122/4859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4859
 [/us/pl/110/432/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs106
 [/us/pl/110/432/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs2%2Fa

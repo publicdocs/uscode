@@ -37,7 +37,7 @@
 
     Information obtained by the Secretary under this section related to a confidential matter referred to in [section 1905 of title 18][/us/usc/t18/s1905] may be disclosed only to another officer or employee of the United States Government for use in carrying out this chapter. This subsection does not authorize information to be withheld from a committee of Congress authorized to have the information.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1040][/us/stat/108/1040].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1040][/us/stat/108/1040].)
 
 <table>
 
@@ -141,7 +141,7 @@ Oct. 20, 1972, Pub. L. 92–513, § 204, 86 Stat. 957.  </td>
 ----------
 
 [/us/usc/t18/s1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1905
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1040
 
 

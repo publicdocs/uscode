@@ -17,7 +17,7 @@
 
     Congress consents to a State making an agreement, not in conflict with a law of the United States, with another State to develop or operate an airport facility.
 
-(Added [Pub. L. 104–287, § 5(69)(A)][/us/pl/104/287/s5/69/A], Oct. 11, 1996, [110 Stat. 3395][/us/stat/110/3395], § 40121; renumbered § 40124, [Pub. L. 105–102, § 3(d)(1)(B)][/us/pl/105/102/s3/d/1/B], Nov. 20, 1997, [111 Stat. 2215][/us/stat/111/2215].)
+(Added [Pub. L. 104–287][/us/pl/104/287], § 5(69)(A), Oct. 11, 1996, [110 Stat. 3395][/us/stat/110/3395], § 40121; renumbered § 40124, [Pub. L. 105–102][/us/pl/105/102], § 3(d)(1)(B), Nov. 20, 1997, [111 Stat. 2215][/us/stat/111/2215].)
 
  __Historical and Revision Notes__ 
 
@@ -29,7 +29,7 @@
 
  __Effective Date of 1997 Amendment__ 
 
-    [Pub. L. 105–102, § 3(d)][/us/pl/105/102/s3/d], Nov. 20, 1997, [111 Stat. 2215][/us/stat/111/2215], provided that the amendment made by section 3(d)(1)(B) is effective Oct. 11, 1996.
+    [Pub. L. 105–102][/us/pl/105/102], § 3(d), Nov. 20, 1997, [111 Stat. 2215][/us/stat/111/2215], provided that the amendment made by section 3(d)(1)(B) is effective Oct. 11, 1996.
 
     Amendment by [Pub. L. 105–102][/us/pl/105/102] effective as if included in the provisions of the Act to which the amendment relates, see [section 3(f) of Pub. L. 105–102][/us/pl/105/102/s3/f], set out as a note under [section 106 of this title][/us/usc/t49/s106].
 
@@ -40,14 +40,14 @@
 ----------
 ----------
 
-[/us/pl/104/287/s5/69/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F69%2FA
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3395
-[/us/pl/105/102/s3/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102%2Fs3%2Fd%2F1%2FB
+[/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/stat/111/2215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2215
 [/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/usc/t49/s40121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40121
-[/us/pl/105/102/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102%2Fs3%2Fd
+[/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/stat/111/2215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2215
 [/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/pl/105/102/s3/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102%2Fs3%2Ff

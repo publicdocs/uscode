@@ -47,7 +47,7 @@
 
     If two or more persons conspire to violate subsection (b) or (c), and one or more of such persons do any act to effect the object of the conspiracy, each of the parties to such conspiracy shall be punished as provided in such subsection.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1244][/us/stat/108/1244]; [Pub. L. 104–132, title VII, § 705(b)][/us/pl/104/132/s705/b], Apr. 24, 1996, [110 Stat. 1295][/us/stat/110/1295]; [Pub. L. 107–56, title VIII][/us/pl/107/56], §§ 810(g), 811(j), Oct. 26, 2001, [115 Stat. 381][/us/stat/115/381], 382; [Pub. L. 107–71, title I, § 140(d)(8)][/us/pl/107/71/s140/d/8], Nov. 19, 2001, [115 Stat. 642][/us/stat/115/642].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1244][/us/stat/108/1244]; [Pub. L. 104–132, title VII][/us/pl/104/132/tVII], § 705(b), Apr. 24, 1996, [110 Stat. 1295][/us/stat/110/1295]; [Pub. L. 107–56, title VIII][/us/pl/107/56/tVIII], §§ 810(g), 811(j), Oct. 26, 2001, [115 Stat. 381][/us/stat/115/381], 382; [Pub. L. 107–71, title I][/us/pl/107/71/tI], § 140(d)(8), Nov. 19, 2001, [115 Stat. 642][/us/stat/115/642].)
 
 <table>
 
@@ -159,15 +159,15 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 902(l)(3); added Sept. 5, 19
 
  __Amendments__ 
 
-    2001—Subsec. (c). [Pub. L. 107–56, § 810(g)][/us/pl/107/56/s810/g], substituted “20 years, or both, and, if death results to any person, shall be imprisoned for any term of years or for life.” for “15 years, or both.”
+    2001—Subsec. (c). [Pub. L. 107–56][/us/pl/107/56], § 810(g), substituted “20 years, or both, and, if death results to any person, shall be imprisoned for any term of years or for life.” for “15 years, or both.”
 
-    Subsec. (d)(2). [Pub. L. 107–71, § 140(d)(8)][/us/pl/107/71/s140/d/8], inserted “or the Under Secretary of Transportation for Security” after “Federal Aviation Administration”.
+    Subsec. (d)(2). [Pub. L. 107–71][/us/pl/107/71], § 140(d)(8), inserted “or the Under Secretary of Transportation for Security” after “Federal Aviation Administration”.
 
-    Subsec. (e). [Pub. L. 107–56, § 811(j)][/us/pl/107/56/s811/j], added subsec. (e).
+    Subsec. (e). [Pub. L. 107–56][/us/pl/107/56], § 811(j), added subsec. (e).
 
-    1996—Subsec. (b). [Pub. L. 104–132, § 705(b)(1)][/us/pl/104/132/s705/b/1], substituted “10 years” for “one year”.
+    1996—Subsec. (b). [Pub. L. 104–132][/us/pl/104/132], § 705(b)(1), substituted “10 years” for “one year”.
 
-    Subsec. (c). [Pub. L. 104–132, § 705(b)(2)][/us/pl/104/132/s705/b/2], substituted “15 years” for “5 years”.
+    Subsec. (c). [Pub. L. 104–132][/us/pl/104/132], § 705(b)(2), substituted “15 years” for “5 years”.
 
  __Transfer of Functions__ 
 
@@ -180,19 +180,19 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 902(l)(3); added Sept. 5, 19
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1244
-[/us/pl/104/132/s705/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs705%2Fb
+[/us/pl/104/132/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtVII
 [/us/stat/110/1295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1295
-[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtVIII
 [/us/stat/115/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F381
-[/us/pl/107/71/s140/d/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs140%2Fd%2F8
+[/us/pl/107/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2FtI
 [/us/stat/115/642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F642
-[/us/pl/107/56/s810/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs810%2Fg
-[/us/pl/107/71/s140/d/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs140%2Fd%2F8
-[/us/pl/107/56/s811/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs811%2Fj
-[/us/pl/104/132/s705/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs705%2Fb%2F1
-[/us/pl/104/132/s705/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs705%2Fb%2F2
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
+[/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 
 

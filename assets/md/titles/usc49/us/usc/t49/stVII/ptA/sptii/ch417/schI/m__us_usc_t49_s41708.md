@@ -93,7 +93,7 @@
 
         The Secretary shall compile the information provided in the monthly reports filed pursuant to paragraph (1) in a single monthly report and publish such report on the Internet Web site of the Department of Transportation.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1141][/us/stat/108/1141]; [Pub. L. 112–95, title IV, § 402(a)][/us/pl/112/95/s402/a], Feb. 14, 2012, [126 Stat. 83][/us/stat/126/83].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1141][/us/stat/108/1141]; [Pub. L. 112–95, title IV][/us/pl/112/95/tIV], § 402(a), Feb. 14, 2012, [126 Stat. 83][/us/stat/126/83].)
 
 <table>
 
@@ -197,7 +197,7 @@ Aug. 23, 1958, Pub. L. 85–726, § 407(a), 72 Stat. 766; Feb. 15, 1980, Pub. 
 
  __Effective Date of 2012 Amendment__ 
 
-[Pub. L. 112–95, title IV, § 402(b)][/us/pl/112/95/s402/b], Feb. 14, 2012, [126 Stat. 84][/us/stat/126/84], provided that: 
+[Pub. L. 112–95, title IV][/us/pl/112/95/tIV], § 402(b), Feb. 14, 2012, [126 Stat. 84][/us/stat/126/84], provided that: 
 
 > “Beginning not later than 90 days after the date of enactment of this Act \[Feb. 14, 2012\], the Secretary of Transportation shall require monthly reports pursuant to the amendment made by subsection (a) \[amending this section\].”
 
@@ -210,15 +210,15 @@ Aug. 23, 1958, Pub. L. 85–726, § 407(a), 72 Stat. 766; Feb. 15, 1980, Pub. 
 
 [/us/usc/t49/s41709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs41709
 [/us/usc/t49/s11343/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs11343%2Fc
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1141
-[/us/pl/112/95/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs402%2Fa
+[/us/pl/112/95/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtIV
 [/us/stat/126/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F83
 [/us/usc/t49/s11343/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs11343%2Fc
 [/us/pl/85/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F726
 [/us/stat/72/766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F766
 [/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
-[/us/pl/112/95/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs402%2Fb
+[/us/pl/112/95/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtIV
 [/us/stat/126/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F84
 
 

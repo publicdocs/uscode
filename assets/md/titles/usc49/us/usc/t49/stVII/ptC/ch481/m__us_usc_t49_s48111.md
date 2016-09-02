@@ -43,7 +43,7 @@
 
         (2) with full recognition of the constitutional right of the Senate to change the rules (so far as relating to the procedure of the Senate) at any time, in the same manner and to the same extent as in the case of any other rule of the Senate.
 
-(Added [Pub. L. 104–264, title II, § 275(a)][/us/pl/104/264/s275/a], Oct. 9, 1996, [110 Stat. 3246][/us/stat/110/3246].)
+(Added [Pub. L. 104–264, title II][/us/pl/104/264/tII], § 275(a), Oct. 9, 1996, [110 Stat. 3246][/us/stat/110/3246].)
 
  __References in Text__ 
 
@@ -62,7 +62,7 @@
 ----------
 ----------
 
-[/us/pl/104/264/s275/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs275%2Fa
+[/us/pl/104/264/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2FtII
 [/us/stat/110/3246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3246
 [/us/pl/104/264/s274/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs274%2Fc
 [/us/usc/t49/s40101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40101

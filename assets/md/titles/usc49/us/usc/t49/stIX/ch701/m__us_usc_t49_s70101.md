@@ -69,7 +69,7 @@
 
         (3) identify interagency data sharing opportunities to promote freight planning and coordination.
 
-(Added [Pub. L. 114–94, div. A, title VIII, § 8001(a)][/us/pl/114/94/s8001/a], Dec. 4, 2015, [129 Stat. 1605][/us/stat/129/1605].)
+(Added [Pub. L. 114–94, div. A, title VIII][/us/pl/114/94/dA/tVIII], § 8001(a), Dec. 4, 2015, [129 Stat. 1605][/us/stat/129/1605].)
 
  __Prior Provisions__ 
 
@@ -86,7 +86,7 @@
 ----------
 ----------
 
-[/us/pl/114/94/s8001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs8001%2Fa
+[/us/pl/114/94/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtVIII
 [/us/stat/129/1605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1605
 [/us/usc/t51/s50901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs50901
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003

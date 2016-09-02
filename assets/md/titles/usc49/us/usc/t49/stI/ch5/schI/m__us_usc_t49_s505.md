@@ -19,7 +19,7 @@
 
     (b) Except as provided in subsection (a) of this section, all arrangements and statistics, tables, and figures contained in reports filed with the Secretary by a motor carrier under this chapter are public records. Such a public record, or a copy or extract of it, certified by the Secretary under seal is competent evidence in a proceeding of the Secretary, and, except as provided in [section 504(f) of this title][/us/usc/t49/s504/f], in a judicial proceeding.
 
-([Pub. L. 97–449, § 1(b)][/us/pl/97/449/s1/b], Jan. 12, 1983, [96 Stat. 2434][/us/stat/96/2434].)
+([Pub. L. 97–449][/us/pl/97/449], § 1(b), Jan. 12, 1983, [96 Stat. 2434][/us/stat/96/2434].)
 
 <table>
 
@@ -183,7 +183,7 @@ Revised Section  </td>
 ----------
 
 [/us/usc/t49/s504/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs504%2Ff
-[/us/pl/97/449/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449%2Fs1%2Fb
+[/us/pl/97/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449
 [/us/stat/96/2434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2434
 [/us/usc/t49/s504/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs504%2Ff
 

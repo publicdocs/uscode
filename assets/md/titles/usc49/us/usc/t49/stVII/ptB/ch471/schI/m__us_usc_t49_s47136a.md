@@ -51,7 +51,7 @@
 
     The Secretary may develop and make available materials identifying best practices for carrying out activities funded under the program based on projects carried out under section 47136 and other sources.
 
-(Added [Pub. L. 112–95, title V, § 511(a)][/us/pl/112/95/s511/a], Feb. 14, 2012, [126 Stat. 107][/us/stat/126/107].)
+(Added [Pub. L. 112–95, title V][/us/pl/112/95/tV], § 511(a), Feb. 14, 2012, [126 Stat. 107][/us/stat/126/107].)
 
 ----------
 
@@ -61,7 +61,7 @@
 ----------
 
 [/us/usc/t42/s7501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7501
-[/us/pl/112/95/s511/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs511%2Fa
+[/us/pl/112/95/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtV
 [/us/stat/126/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F107
 
 

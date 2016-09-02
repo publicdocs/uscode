@@ -47,7 +47,7 @@
 
         (3) as necessary, consult with the State to describe the supplemental analysis the State must provide to meet applicable Federal requirements.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1277][/us/stat/108/1277]; [Pub. L. 103–429, § 6(70)][/us/pl/103/429/s6/70], Oct. 31, 1994, [108 Stat. 4387][/us/stat/108/4387]; [Pub. L. 104–264, title I, § 147(a)][/us/pl/104/264/s147/a]–(c)(1), Oct. 9, 1996, [110 Stat. 3223][/us/stat/110/3223]; [Pub. L. 104–287, § 5(84)][/us/pl/104/287/s5/84], Oct. 11, 1996, [110 Stat. 3397][/us/stat/110/3397]; [Pub. L. 105–102, § 3(d)(1)(E)][/us/pl/105/102/s3/d/1/E], Nov. 20, 1997, [111 Stat. 2215][/us/stat/111/2215]; [Pub. L. 106–181, title I, § 138][/us/pl/106/181/s138], Apr. 5, 2000, [114 Stat. 85][/us/stat/114/85]; [Pub. L. 112–95, title V, § 502][/us/pl/112/95/s502], Feb. 14, 2012, [126 Stat. 103][/us/stat/126/103].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1277][/us/stat/108/1277]; [Pub. L. 103–429][/us/pl/103/429], § 6(70), Oct. 31, 1994, [108 Stat. 4387][/us/stat/108/4387]; [Pub. L. 104–264, title I][/us/pl/104/264/tI], § 147(a)–(c)(1), Oct. 9, 1996, [110 Stat. 3223][/us/stat/110/3223]; [Pub. L. 104–287][/us/pl/104/287], § 5(84), Oct. 11, 1996, [110 Stat. 3397][/us/stat/110/3397]; [Pub. L. 105–102][/us/pl/105/102], § 3(d)(1)(E), Nov. 20, 1997, [111 Stat. 2215][/us/stat/111/2215]; [Pub. L. 106–181, title I][/us/pl/106/181/tI], § 138, Apr. 5, 2000, [114 Stat. 85][/us/stat/114/85]; [Pub. L. 112–95, title V][/us/pl/112/95/tV], § 502, Feb. 14, 2012, [126 Stat. 103][/us/stat/126/103].)
 
 <table>
 
@@ -181,27 +181,27 @@ Sept. 3, 1982, Pub. L. 97–248, 96 Stat. 324, § 534; added Dec. 30, 1987, Pu
 
  __Amendments__ 
 
-    2012—Subsec. (a). [Pub. L. 112–95, § 502(a)][/us/pl/112/95/s502/a], substituted “issue guidance” for “prescribe regulations” in first sentence and “guidance” for “regulations” in second sentence.
+    2012—Subsec. (a). [Pub. L. 112–95][/us/pl/112/95], § 502(a), substituted “issue guidance” for “prescribe regulations” in first sentence and “guidance” for “regulations” in second sentence.
 
-    Subsec. (b)(4). [Pub. L. 112–95, § 502(b)][/us/pl/112/95/s502/b], inserted before semicolon “, including the National Environmental Policy Act of 1969 ([42 U.S.C. 4321][/us/usc/t42/s4321] et seq.), State and local environmental policy acts, Executive orders, agency regulations and guidance, and other Federal environmental requirements”.
+    Subsec. (b)(4). [Pub. L. 112–95][/us/pl/112/95], § 502(b), inserted before semicolon “, including the National Environmental Policy Act of 1969 ([42 U.S.C. 4321][/us/usc/t42/s4321] et seq.), State and local environmental policy acts, Executive orders, agency regulations and guidance, and other Federal environmental requirements”.
 
-    Subsec. (d). [Pub. L. 112–95, § 502(c)][/us/pl/112/95/s502/c], added subsec. (d).
+    Subsec. (d). [Pub. L. 112–95][/us/pl/112/95], § 502(c), added subsec. (d).
 
     2000—Subsec. (a). [Pub. L. 106–181][/us/pl/106/181] substituted “9 qualified States for fiscal years 2000 and 2001 and 10 qualified States for each fiscal year thereafter” for “8 qualified States for fiscal year 1997 and 9 qualified States for each fiscal year thereafter”.
 
-    1997—Subsec. (d). [Pub. L. 105–102][/us/pl/105/102] repealed [Pub. L. 104–287, § 5(84)][/us/pl/104/287/s5/84]. See 1996 Amendment note below.
+    1997—Subsec. (d). [Pub. L. 105–102][/us/pl/105/102] repealed [Pub. L. 104–287][/us/pl/104/287], § 5(84). See 1996 Amendment note below.
 
-    1996—[Pub. L. 104–264, § 147(c)(1)(A)][/us/pl/104/264/s147/c/1/A], substituted “grant program” for “grant pilot program” in section catchline.
+    1996—[Pub. L. 104–264][/us/pl/104/264], § 147(c)(1)(A), substituted “grant program” for “grant pilot program” in section catchline.
 
-    Subsec. (a). [Pub. L. 104–264, § 147(a)(1)][/us/pl/104/264/s147/a/1], (c)(1)(B), substituted “block grant program” for “block grant pilot program” and “8 qualified States for fiscal year 1997 and 9 qualified States for each fiscal year thereafter” for “7 qualified States”.
+    Subsec. (a). [Pub. L. 104–264][/us/pl/104/264], § 147(a)(1), (c)(1)(B), substituted “block grant program” for “block grant pilot program” and “8 qualified States for fiscal year 1997 and 9 qualified States for each fiscal year thereafter” for “7 qualified States”.
 
-    Subsec. (b). [Pub. L. 104–264, § 147(a)(2)][/us/pl/104/264/s147/a/2], (3), struck out “(1)” before “A State wishing”, redesignated subpars. (A) to (E) as pars. (1) to (5), respectively, and struck out former par. (2) which read as follows: “For the fiscal years ending September 30, 1993–1996, the States selected shall include Illinois, Missouri, and North Carolina.”
+    Subsec. (b). [Pub. L. 104–264][/us/pl/104/264], § 147(a)(2), (3), struck out “(1)” before “A State wishing”, redesignated subpars. (A) to (E) as pars. (1) to (5), respectively, and struck out former par. (2) which read as follows: “For the fiscal years ending September 30, 1993–1996, the States selected shall include Illinois, Missouri, and North Carolina.”
 
-    Subsec. (c). [Pub. L. 104–264, § 147(b)][/us/pl/104/264/s147/b], substituted “(b)(2) or (b)(3)” for “(b)(1)(B) or (C)” and inserted at end “In carrying out this subsection, the Secretary shall permit a State to use the priority system of the State if such system is not inconsistent with the national priority system.”
+    Subsec. (c). [Pub. L. 104–264][/us/pl/104/264], § 147(b), substituted “(b)(2) or (b)(3)” for “(b)(1)(B) or (C)” and inserted at end “In carrying out this subsection, the Secretary shall permit a State to use the priority system of the State if such system is not inconsistent with the national priority system.”
 
-    Subsec. (d). [Pub. L. 104–287, § 5(84)][/us/pl/104/287/s5/84], which directed amendment of heading by striking “and report”, was repealed by [Pub. L. 105–102][/us/pl/105/102].
+    Subsec. (d). [Pub. L. 104–287][/us/pl/104/287], § 5(84), which directed amendment of heading by striking “and report”, was repealed by [Pub. L. 105–102][/us/pl/105/102].
 
-    [Pub. L. 104–264, § 147(c)(1)(C)][/us/pl/104/264/s147/c/1/C], struck out subsec. (d) which read as follows:
+    [Pub. L. 104–264][/us/pl/104/264], § 147(c)(1)(C), struck out subsec. (d) which read as follows:
 
     “(d) Ending Effective Date and Report.—This section is effective only through September 30, 1996.”
 
@@ -213,7 +213,7 @@ Sept. 3, 1982, Pub. L. 97–248, 96 Stat. 324, § 534; added Dec. 30, 1987, Pu
 
  __Effective Date of 1997 Amendment__ 
 
-    [Pub. L. 105–102, § 3(d)][/us/pl/105/102/s3/d], Nov. 20, 1997, [111 Stat. 2215][/us/stat/111/2215], provided that the amendment made by section 3(d)(1)(E) is effective Oct. 11, 1996.
+    [Pub. L. 105–102][/us/pl/105/102], § 3(d), Nov. 20, 1997, [111 Stat. 2215][/us/stat/111/2215], provided that the amendment made by section 3(d)(1)(E) is effective Oct. 11, 1996.
 
     Amendment by [Pub. L. 105–102][/us/pl/105/102] effective as if included in the provisions of the Act to which the amendment relates, see [section 3(f) of Pub. L. 105–102][/us/pl/105/102/s3/f], set out as a note under [section 106 of this title][/us/usc/t49/s106].
 
@@ -233,19 +233,19 @@ Sept. 3, 1982, Pub. L. 97–248, 96 Stat. 324, § 534; added Dec. 30, 1987, Pu
 ----------
 
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1277
-[/us/pl/103/429/s6/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F70
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/stat/108/4387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4387
-[/us/pl/104/264/s147/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs147%2Fa
+[/us/pl/104/264/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2FtI
 [/us/stat/110/3223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3223
-[/us/pl/104/287/s5/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F84
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3397
-[/us/pl/105/102/s3/d/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102%2Fs3%2Fd%2F1%2FE
+[/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/stat/111/2215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2215
-[/us/pl/106/181/s138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs138
+[/us/pl/106/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtI
 [/us/stat/114/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F85
-[/us/pl/112/95/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs502
+[/us/pl/112/95/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtV
 [/us/stat/126/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F103
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/act/1994-07-05/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1994-07-05%2Fs1
@@ -255,25 +255,25 @@ Sept. 3, 1982, Pub. L. 97–248, 96 Stat. 324, § 534; added Dec. 30, 1987, Pu
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/pl/112/95/s502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs502%2Fa
-[/us/pl/112/95/s502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs502%2Fb
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/pl/112/95/s502/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs502%2Fc
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
 [/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
-[/us/pl/104/287/s5/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F84
-[/us/pl/104/264/s147/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs147%2Fc%2F1%2FA
-[/us/pl/104/264/s147/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs147%2Fa%2F1
-[/us/pl/104/264/s147/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs147%2Fa%2F2
-[/us/pl/104/264/s147/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs147%2Fb
-[/us/pl/104/287/s5/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F84
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
+[/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
+[/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
+[/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
+[/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
-[/us/pl/104/264/s147/c/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs147%2Fc%2F1%2FC
+[/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/pl/106/181/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106
-[/us/pl/105/102/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102%2Fs3%2Fd
+[/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/stat/111/2215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2215
 [/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/pl/105/102/s3/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102%2Fs3%2Ff

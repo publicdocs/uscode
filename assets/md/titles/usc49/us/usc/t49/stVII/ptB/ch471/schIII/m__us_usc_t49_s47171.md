@@ -113,7 +113,7 @@
 
     The Transportation Infrastructure Streamlining Task Force, established by Executive Order 13274 (67 Fed. Reg. 59449; relating to environmental stewardship and transportation infrastructure project reviews), may monitor airport projects that are subject to the coordinated review process under this section.
 
-(Added [Pub. L. 108–176, title III, § 304(a)][/us/pl/108/176/s304/a], Dec. 12, 2003, [117 Stat. 2534][/us/stat/117/2534].)
+(Added [Pub. L. 108–176, title III][/us/pl/108/176/tIII], § 304(a), Dec. 12, 2003, [117 Stat. 2534][/us/stat/117/2534].)
 
  __References in Text__ 
 
@@ -127,7 +127,7 @@
 
  __Findings__ 
 
-[Pub. L. 108–176, title III, § 302][/us/pl/108/176/s302], Dec. 12, 2003, [117 Stat. 2533][/us/stat/117/2533], provided that: 
+[Pub. L. 108–176, title III][/us/pl/108/176/tIII], § 302, Dec. 12, 2003, [117 Stat. 2533][/us/stat/117/2533], provided that: 
 
 > “Congress finds that—
 
@@ -143,7 +143,7 @@
 
  __Limitations__ 
 
-[Pub. L. 108–176, title III, § 308][/us/pl/108/176/s308], Dec. 12, 2003, [117 Stat. 2539][/us/stat/117/2539], provided that: 
+[Pub. L. 108–176, title III][/us/pl/108/176/tIII], § 308, Dec. 12, 2003, [117 Stat. 2539][/us/stat/117/2539], provided that: 
 
 > “Nothing in this subtitle \[subtitle A (§§ 301–309) of title III of [Pub. L. 108–176][/us/pl/108/176], enacting this subchapter, amending sections 40104, 47106, and 47504 of this title, and enacting provisions set out as notes under this section\], including any amendment made by this title \[enacting this subchapter and amending sections 40104, 40128, 47106, 47503, and 47504 of this title\], shall preempt or interfere with—
 
@@ -155,7 +155,7 @@
 
  __Relationship to Other Requirements__ 
 
-[Pub. L. 108–176, title III, § 309][/us/pl/108/176/s309], Dec. 12, 2003, [117 Stat. 2540][/us/stat/117/2540], provided that: 
+[Pub. L. 108–176, title III][/us/pl/108/176/tIII], § 309, Dec. 12, 2003, [117 Stat. 2540][/us/stat/117/2540], provided that: 
 
 > “The coordinated review process required under the amendments made by this subtitle \[enacting this subchapter and amending sections 40104, 47106, and 47504 of this title\] shall apply to an airport capacity enhancement project at a congested airport whether or not the project is designated by the Secretary of Transportation as a high-priority transportation infrastructure project under Executive Order 13274 \[[49 U.S.C. 301][/us/usc/t49/s301] note\] (67 Fed. Reg. 59449; relating to environmental stewardship and transportation infrastructure project reviews).”
 
@@ -169,7 +169,7 @@
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/usc/t42/s4371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4371
-[/us/pl/108/176/s304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs304%2Fa
+[/us/pl/108/176/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtIII
 [/us/stat/117/2534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2534
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852
@@ -177,13 +177,13 @@
 [/us/usc/t49/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs301
 [/us/pl/108/176/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106
-[/us/pl/108/176/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs302
+[/us/pl/108/176/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtIII
 [/us/stat/117/2533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2533
-[/us/pl/108/176/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs308
+[/us/pl/108/176/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtIII
 [/us/stat/117/2539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2539
 [/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
 [/us/usc/t42/s4371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4371
-[/us/pl/108/176/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs309
+[/us/pl/108/176/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtIII
 [/us/stat/117/2540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2540
 [/us/usc/t49/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs301
 

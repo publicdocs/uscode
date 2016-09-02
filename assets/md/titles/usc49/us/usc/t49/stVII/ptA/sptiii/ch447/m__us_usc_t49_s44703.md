@@ -511,7 +511,7 @@
 
     Nothing in subsection (h) or (i) shall be construed as precluding the availability of the records of a pilot in an investigation or other proceeding concerning an accident or incident conducted by the Administrator, the National Transportation Safety Board, or a court.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1186][/us/stat/108/1186]; [Pub. L. 106–181, title VII, § 715][/us/pl/106/181/s715], Apr. 5, 2000, [114 Stat. 162][/us/stat/114/162]; [Pub. L. 107–71, title I][/us/pl/107/71], §§ 129, 138(b), 140(a), Nov. 19, 2001, [115 Stat. 633][/us/stat/115/633], 640, 641; [Pub. L. 111–216, title II, § 203][/us/pl/111/216/s203], Aug. 1, 2010, [124 Stat. 2352][/us/stat/124/2352]; [Pub. L. 111–249, § 6(3)][/us/pl/111/249/s6/3], (4), Sept. 30, 2010, [124 Stat. 2629][/us/stat/124/2629]; [Pub. L. 112–95, title III][/us/pl/112/95], §§ 301(a), 310(c), Feb. 14, 2012, [126 Stat. 56][/us/stat/126/56], 65; [Pub. L. 112–153, § 2(c)(1)][/us/pl/112/153/s2/c/1], Aug. 3, 2012, [126 Stat. 1160][/us/stat/126/1160].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1186][/us/stat/108/1186]; [Pub. L. 106–181, title VII][/us/pl/106/181/tVII], § 715, Apr. 5, 2000, [114 Stat. 162][/us/stat/114/162]; [Pub. L. 107–71, title I][/us/pl/107/71/tI], §§ 129, 138(b), 140(a), Nov. 19, 2001, [115 Stat. 633][/us/stat/115/633], 640, 641; [Pub. L. 111–216, title II][/us/pl/111/216/tII], § 203, Aug. 1, 2010, [124 Stat. 2352][/us/stat/124/2352]; [Pub. L. 111–249][/us/pl/111/249], § 6(3), (4), Sept. 30, 2010, [124 Stat. 2629][/us/stat/124/2629]; [Pub. L. 112–95, title III][/us/pl/112/95/tIII], §§ 301(a), 310(c), Feb. 14, 2012, [126 Stat. 56][/us/stat/126/56], 65; [Pub. L. 112–153][/us/pl/112/153], § 2(c)(1), Aug. 3, 2012, [126 Stat. 1160][/us/stat/126/1160].)
 
 <table>
 
@@ -765,41 +765,41 @@ In subsections (a)–(d), the word “Administrator” in section 602(a), (b)(1)
 
  __Codification__ 
 
-    The text of section 44936(f) to (h) of this title, which was transferred to the end of this section, redesignated as subsecs. (h) to (j), respectively, and amended by [Pub. L. 107–71][/us/pl/107/71], §§ 138(b), 140(a), was based on [Pub. L. 104–264, title V, § 502(a)][/us/pl/104/264/s502/a], Oct. 9, 1996, [110 Stat. 3259][/us/stat/110/3259]; amended [Pub. L. 105–102, § 2(25)][/us/pl/105/102/s2/25], Nov. 20, 1997, [111 Stat. 2205][/us/stat/111/2205]; [Pub. L. 105–142, § 1][/us/pl/105/142/s1], Dec. 5, 1997, [111 Stat. 2650][/us/stat/111/2650]; [Pub. L. 106–181, title V, § 508(b)][/us/pl/106/181/s508/b], Apr. 5, 2000, [114 Stat. 140][/us/stat/114/140].
+    The text of section 44936(f) to (h) of this title, which was transferred to the end of this section, redesignated as subsecs. (h) to (j), respectively, and amended by [Pub. L. 107–71][/us/pl/107/71], §§ 138(b), 140(a), was based on [Pub. L. 104–264, title V][/us/pl/104/264/tV], § 502(a), Oct. 9, 1996, [110 Stat. 3259][/us/stat/110/3259]; amended [Pub. L. 105–102][/us/pl/105/102], § 2(25), Nov. 20, 1997, [111 Stat. 2205][/us/stat/111/2205]; [Pub. L. 105–142][/us/pl/105/142], § 1, Dec. 5, 1997, [111 Stat. 2650][/us/stat/111/2650]; [Pub. L. 106–181, title V][/us/pl/106/181/tV], § 508(b), Apr. 5, 2000, [114 Stat. 140][/us/stat/114/140].
 
  __Amendments__ 
 
     2012—Subsec. (d)(2). [Pub. L. 112–153][/us/pl/112/153] struck out “but is bound by all validly adopted interpretations of laws and regulations the Administrator carries out unless the Board finds an interpretation is arbitrary, capricious, or otherwise not according to law” after “Federal Aviation Administration”.
 
-    Subsec. (d)(3). [Pub. L. 112–95, § 301(a)][/us/pl/112/95/s301/a], added par. (3).
+    Subsec. (d)(3). [Pub. L. 112–95][/us/pl/112/95], § 301(a), added par. (3).
 
-    Subsec. (i)(9)(B)(i). [Pub. L. 112–95, § 310(c)][/us/pl/112/95/s310/c], substituted “[section 552(b)(3)(B) of title 5][/us/usc/t5/s552/b/3/B]” for “[section 552 of title 5][/us/usc/t5/s552]”.
+    Subsec. (i)(9)(B)(i). [Pub. L. 112–95][/us/pl/112/95], § 310(c), substituted “[section 552(b)(3)(B) of title 5][/us/usc/t5/s552/b/3/B]” for “[section 552 of title 5][/us/usc/t5/s552]”.
 
-    2010—Subsec. (h)(16). [Pub. L. 111–216, § 203(a)][/us/pl/111/216/s203/a], added par. (16).
+    2010—Subsec. (h)(16). [Pub. L. 111–216][/us/pl/111/216], § 203(a), added par. (16).
 
-    Subsec. (i). [Pub. L. 111–216, § 203(b)(2)][/us/pl/111/216/s203/b/2], added subsec. (i). Former subsec. (i) redesignated (j).
+    Subsec. (i). [Pub. L. 111–216][/us/pl/111/216], § 203(b)(2), added subsec. (i). Former subsec. (i) redesignated (j).
 
-    Subsec. (j). [Pub. L. 111–216, § 203(c)(1)(A)][/us/pl/111/216/s203/c/1/A], as amended by [Pub. L. 111–249, § 6(3)][/us/pl/111/249/s6/3], substituted “Limitations” for “Limitation” in heading.
+    Subsec. (j). [Pub. L. 111–216][/us/pl/111/216], § 203(c)(1)(A), as amended by [Pub. L. 111–249][/us/pl/111/249], § 6(3), substituted “Limitations” for “Limitation” in heading.
 
-    [Pub. L. 111–216, § 203(b)(1)][/us/pl/111/216/s203/b/1], redesignated subsec. (i) as (j). Former subsec. (j) redesignated (k).
+    [Pub. L. 111–216][/us/pl/111/216], § 203(b)(1), redesignated subsec. (i) as (j). Former subsec. (j) redesignated (k).
 
-    Subsec. (j)(1). [Pub. L. 111–216, § 203(c)(1)(B)(i)][/us/pl/111/216/s203/c/1/B/i], (iii), as amended by [Pub. L. 111–249, § 6(3)][/us/pl/111/249/s6/3], substituted “subsection (h)(2) or (i)(3)” for “paragraph (2)” in introductory provisions and “subsection (h) or (i)” for “subsection (h)” in concluding provisions.
+    Subsec. (j)(1). [Pub. L. 111–216][/us/pl/111/216], § 203(c)(1)(B)(i), (iii), as amended by [Pub. L. 111–249][/us/pl/111/249], § 6(3), substituted “subsection (h)(2) or (i)(3)” for “paragraph (2)” in introductory provisions and “subsection (h) or (i)” for “subsection (h)” in concluding provisions.
 
-    Subsec. (j)(1)(A). [Pub. L. 111–216, § 203(c)(1)(B)(ii)][/us/pl/111/216/s203/c/1/B/ii], as amended by [Pub. L. 111–249, § 6(3)][/us/pl/111/249/s6/3], inserted “or accessing the records of that individual under subsection (i)(1)” before semicolon.
+    Subsec. (j)(1)(A). [Pub. L. 111–216][/us/pl/111/216], § 203(c)(1)(B)(ii), as amended by [Pub. L. 111–249][/us/pl/111/249], § 6(3), inserted “or accessing the records of that individual under subsection (i)(1)” before semicolon.
 
-    Subsec. (j)(2). [Pub. L. 111–216, § 203(c)(1)(C)][/us/pl/111/216/s203/c/1/C], as amended by [Pub. L. 111–249, § 6(3)][/us/pl/111/249/s6/3], substituted “subsection (h) or (i)” for “subsection (h)”.
+    Subsec. (j)(2). [Pub. L. 111–216][/us/pl/111/216], § 203(c)(1)(C), as amended by [Pub. L. 111–249][/us/pl/111/249], § 6(3), substituted “subsection (h) or (i)” for “subsection (h)”.
 
-    Subsec. (j)(3). [Pub. L. 111–216, § 203(c)(1)(D)][/us/pl/111/216/s203/c/1/D], as amended by [Pub. L. 111–249, § 6(3)][/us/pl/111/249/s6/3], inserted “or who furnished information to the database established under subsection (i)(2)” after “subsection (h)(1)” in introductory provisions.
+    Subsec. (j)(3). [Pub. L. 111–216][/us/pl/111/216], § 203(c)(1)(D), as amended by [Pub. L. 111–249][/us/pl/111/249], § 6(3), inserted “or who furnished information to the database established under subsection (i)(2)” after “subsection (h)(1)” in introductory provisions.
 
-    Subsec. (j)(4). [Pub. L. 111–216, § 203(c)(1)(E)][/us/pl/111/216/s203/c/1/E], as amended by [Pub. L. 111–249, § 6(3)][/us/pl/111/249/s6/3], added par. (4).
+    Subsec. (j)(4). [Pub. L. 111–216][/us/pl/111/216], § 203(c)(1)(E), as amended by [Pub. L. 111–249][/us/pl/111/249], § 6(3), added par. (4).
 
-    Subsec. (k). [Pub. L. 111–216, § 203(c)(2)][/us/pl/111/216/s203/c/2], as amended by [Pub. L. 111–249, § 6(4)][/us/pl/111/249/s6/4], substituted “subsection (h) or (i)” for “subsection (h)”.
+    Subsec. (k). [Pub. L. 111–216][/us/pl/111/216], § 203(c)(2), as amended by [Pub. L. 111–249][/us/pl/111/249], § 6(4), substituted “subsection (h) or (i)” for “subsection (h)”.
 
-    [Pub. L. 111–216, § 203(b)(1)][/us/pl/111/216/s203/b/1], redesignated subsec. (j) as (k).
+    [Pub. L. 111–216][/us/pl/111/216], § 203(b)(1), redesignated subsec. (j) as (k).
 
-    2001—Subsec. (g)(1). [Pub. L. 107–71, § 129(1)][/us/pl/107/71/s129/1], in first sentence, substituted “needs of airmen” for “needs of pilots” and inserted “and related to combating acts of terrorism” before period at end.
+    2001—Subsec. (g)(1). [Pub. L. 107–71][/us/pl/107/71], § 129(1), in first sentence, substituted “needs of airmen” for “needs of pilots” and inserted “and related to combating acts of terrorism” before period at end.
 
-    Subsec. (g)(3), (4). [Pub. L. 107–71, § 129(2)][/us/pl/107/71/s129/2], added pars. (3) and (4).
+    Subsec. (g)(3), (4). [Pub. L. 107–71][/us/pl/107/71], § 129(2), added pars. (3) and (4).
 
     Subsecs. (h) to (j). [Pub. L. 107–71][/us/pl/107/71], §§ 138(b), 140(a), amended section identically, redesignating subsecs. (f) to (h) of [section 44936 of this title][/us/usc/t49/s44936] as subsecs. (h) to (j), respectively, of this section, and substituting “subsection (h)” for “subsection (f)” wherever appearing in subsecs. (i) and (j). See Codification note above.
 
@@ -807,7 +807,7 @@ In subsections (a)–(d), the word “Administrator” in section 602(a), (b)(1)
 
  __Effective Date of 2010 Amendment__ 
 
-    [Pub. L. 111–249, § 6][/us/pl/111/249/s6], Sept. 30, 2010, [124 Stat. 2628][/us/stat/124/2628], provided that the amendments made by [section 6 of Pub. L. 111–249][/us/pl/111/249/s6] are effective as of Aug. 1, 2010, and as if included in [Pub. L. 111–216][/us/pl/111/216] as enacted.
+    [Pub. L. 111–249][/us/pl/111/249], § 6, Sept. 30, 2010, [124 Stat. 2628][/us/stat/124/2628], provided that the amendments made by [section 6 of Pub. L. 111–249][/us/pl/111/249/s6] are effective as of Aug. 1, 2010, and as if included in [Pub. L. 111–216][/us/pl/111/216] as enacted.
 
  __Effective Date of 2000 Amendment__ 
 
@@ -823,7 +823,7 @@ In subsections (a)–(d), the word “Administrator” in section 602(a), (b)(1)
 
  __Federal Aviation Administration Enforcement Proceedings and Elimination of Deference__ 
 
-[Pub. L. 112–153, § 2][/us/pl/112/153/s2], Aug. 3, 2012, [126 Stat. 1159][/us/stat/126/1159], provided that:
+[Pub. L. 112–153][/us/pl/112/153], § 2, Aug. 3, 2012, [126 Stat. 1159][/us/stat/126/1159], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -939,7 +939,7 @@ In subsections (a)–(d), the word “Administrator” in section 602(a), (b)(1)
 
  __Medical Certification__ 
 
-[Pub. L. 112–153, § 4][/us/pl/112/153/s4], Aug. 3, 2012, [126 Stat. 1162][/us/stat/126/1162], provided that:
+[Pub. L. 112–153][/us/pl/112/153], § 4, Aug. 3, 2012, [126 Stat. 1162][/us/stat/126/1162], provided that:
 
 >     “(a) __Assessment.—__ 
 
@@ -995,7 +995,7 @@ In subsections (a)–(d), the word “Administrator” in section 602(a), (b)(1)
 
  __Improved Pilot Licenses__ 
 
-[Pub. L. 112–95, title III, § 321][/us/pl/112/95/s321], Feb. 14, 2012, [126 Stat. 71][/us/stat/126/71], provided that:
+[Pub. L. 112–95, title III][/us/pl/112/95/tIII], § 321, Feb. 14, 2012, [126 Stat. 71][/us/stat/126/71], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -1049,7 +1049,7 @@ In subsections (a)–(d), the word “Administrator” in section 602(a), (b)(1)
 
 >         The Administrator shall not be required to submit annual reports under this subsection after the date on which the Administrator has issued improved pilot licenses under this section to all pilots.”
 
-[Pub. L. 108–458, title IV, § 4022][/us/pl/108/458/s4022], Dec. 17, 2004, [118 Stat. 3723][/us/stat/118/3723], provided that:
+[Pub. L. 108–458, title IV][/us/pl/108/458/tIV], § 4022, Dec. 17, 2004, [118 Stat. 3723][/us/stat/118/3723], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -1075,7 +1075,7 @@ In subsections (a)–(d), the word “Administrator” in section 602(a), (b)(1)
 
  __Crediting of Law Enforcement Flight Time__ 
 
-[Pub. L. 106–424, § 14][/us/pl/106/424/s14], Nov. 1, 2000, [114 Stat. 1888][/us/stat/114/1888], provided that: 
+[Pub. L. 106–424][/us/pl/106/424], § 14, Nov. 1, 2000, [114 Stat. 1888][/us/stat/114/1888], provided that: 
 
 > “In determining whether an individual meets the aeronautical experience requirements imposed under [section 44703 of title 49][/us/usc/t49/s44703], United States Code, for an airman certificate or rating, the Secretary of Transportation shall take into account any time spent by that individual operating a public aircraft as defined in [section 40102 of title 49][/us/usc/t49/s40102], United States Code, if that aircraft is—
 
@@ -1096,19 +1096,19 @@ In subsections (a)–(d), the word “Administrator” in section 602(a), (b)(1)
 [/us/usc/t49/s30305/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30305%2Fb%2F8
 [/us/usc/t49/s30305/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30305%2Fb%2F8
 [/us/usc/t5/s552/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fb%2F3%2FB
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1186
-[/us/pl/106/181/s715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs715
+[/us/pl/106/181/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtVII
 [/us/stat/114/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F162
-[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2FtI
 [/us/stat/115/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F633
-[/us/pl/111/216/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F216%2Fs203
+[/us/pl/111/216/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F216%2FtII
 [/us/stat/124/2352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2352
-[/us/pl/111/249/s6/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F249%2Fs6%2F3
+[/us/pl/111/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F249
 [/us/stat/124/2629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2629
-[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtIII
 [/us/stat/126/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F56
-[/us/pl/112/153/s2/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F153%2Fs2%2Fc%2F1
+[/us/pl/112/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F153
 [/us/stat/126/1160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1160
 [/us/pl/85/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F726
 [/us/stat/72/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F776
@@ -1117,43 +1117,43 @@ In subsections (a)–(d), the word “Administrator” in section 602(a), (b)(1)
 [/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
 [/us/pl/111/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F216
 [/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
-[/us/pl/104/264/s502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs502%2Fa
+[/us/pl/104/264/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2FtV
 [/us/stat/110/3259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3259
-[/us/pl/105/102/s2/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102%2Fs2%2F25
+[/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/stat/111/2205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2205
-[/us/pl/105/142/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F142%2Fs1
+[/us/pl/105/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F142
 [/us/stat/111/2650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2650
-[/us/pl/106/181/s508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs508%2Fb
+[/us/pl/106/181/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtV
 [/us/stat/114/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F140
 [/us/pl/112/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F153
-[/us/pl/112/95/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs301%2Fa
-[/us/pl/112/95/s310/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs310%2Fc
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
 [/us/usc/t5/s552/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fb%2F3%2FB
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
-[/us/pl/111/216/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F216%2Fs203%2Fa
-[/us/pl/111/216/s203/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F216%2Fs203%2Fb%2F2
-[/us/pl/111/216/s203/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F216%2Fs203%2Fc%2F1%2FA
-[/us/pl/111/249/s6/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F249%2Fs6%2F3
-[/us/pl/111/216/s203/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F216%2Fs203%2Fb%2F1
-[/us/pl/111/216/s203/c/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F216%2Fs203%2Fc%2F1%2FB%2Fi
-[/us/pl/111/249/s6/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F249%2Fs6%2F3
-[/us/pl/111/216/s203/c/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F216%2Fs203%2Fc%2F1%2FB%2Fii
-[/us/pl/111/249/s6/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F249%2Fs6%2F3
-[/us/pl/111/216/s203/c/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F216%2Fs203%2Fc%2F1%2FC
-[/us/pl/111/249/s6/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F249%2Fs6%2F3
-[/us/pl/111/216/s203/c/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F216%2Fs203%2Fc%2F1%2FD
-[/us/pl/111/249/s6/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F249%2Fs6%2F3
-[/us/pl/111/216/s203/c/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F216%2Fs203%2Fc%2F1%2FE
-[/us/pl/111/249/s6/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F249%2Fs6%2F3
-[/us/pl/111/216/s203/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F216%2Fs203%2Fc%2F2
-[/us/pl/111/249/s6/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F249%2Fs6%2F4
-[/us/pl/111/216/s203/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F216%2Fs203%2Fb%2F1
-[/us/pl/107/71/s129/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs129%2F1
-[/us/pl/107/71/s129/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs129%2F2
+[/us/pl/111/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F216
+[/us/pl/111/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F216
+[/us/pl/111/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F216
+[/us/pl/111/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F249
+[/us/pl/111/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F216
+[/us/pl/111/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F216
+[/us/pl/111/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F249
+[/us/pl/111/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F216
+[/us/pl/111/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F249
+[/us/pl/111/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F216
+[/us/pl/111/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F249
+[/us/pl/111/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F216
+[/us/pl/111/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F249
+[/us/pl/111/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F216
+[/us/pl/111/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F249
+[/us/pl/111/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F216
+[/us/pl/111/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F249
+[/us/pl/111/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F216
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
 [/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
 [/us/usc/t49/s44936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44936
 [/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
-[/us/pl/111/249/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F249%2Fs6
+[/us/pl/111/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F249
 [/us/stat/124/2628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2628
 [/us/pl/111/249/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F249%2Fs6
 [/us/pl/111/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F216
@@ -1163,19 +1163,19 @@ In subsections (a)–(d), the word “Administrator” in section 602(a), (b)(1)
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/pl/111/314/s4/d/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314%2Fs4%2Fd%2F8
 [/us/usc/t49/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs101
-[/us/pl/112/153/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F153%2Fs2
+[/us/pl/112/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F153
 [/us/stat/126/1159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1159
 [/us/usc/t49/s44709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44709
 [/us/usc/t49/s44710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44710
 [/us/usc/t49/s44703/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44703%2Fd
 [/us/usc/t49/s44709/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44709%2Fe%2F2
-[/us/pl/112/153/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F153%2Fs4
+[/us/pl/112/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F153
 [/us/stat/126/1162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1162
-[/us/pl/112/95/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs321
+[/us/pl/112/95/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtIII
 [/us/stat/126/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F71
-[/us/pl/108/458/s4022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs4022
+[/us/pl/108/458/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtIV
 [/us/stat/118/3723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3723
-[/us/pl/106/424/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F424%2Fs14
+[/us/pl/106/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F424
 [/us/stat/114/1888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1888
 [/us/usc/t49/s44703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44703
 [/us/usc/t49/s40102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40102

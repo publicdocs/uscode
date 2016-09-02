@@ -113,7 +113,7 @@
 
     The Comptroller General shall review contracts of the Airports Authority to decide whether the contracts were awarded by procedures that follow sound Government contracting principles and comply with [section 49104(a)(4) of this title][/us/usc/t49/s49104/a/4]. The Comptroller General shall submit periodic reports of the conclusions reached as a result of the review to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
 
-(Added [Pub. L. 105–102, § 2(26)][/us/pl/105/102/s2/26], Nov. 20, 1997, [111 Stat. 2210][/us/stat/111/2210]; amended [Pub. L. 105–225, § 7(c)(1)(A)][/us/pl/105/225/s7/c/1/A], (B), Aug. 12, 1998, [112 Stat. 1511][/us/stat/112/1511]; [Pub. L. 106–181, title II, § 231(i)][/us/pl/106/181/s231/i], Apr. 5, 2000, [114 Stat. 115][/us/stat/114/115]; [Pub. L. 112–55, div. C, title I, § 191][/us/pl/112/55/s191], Nov. 18, 2011, [125 Stat. 671][/us/stat/125/671].)
+(Added [Pub. L. 105–102][/us/pl/105/102], § 2(26), Nov. 20, 1997, [111 Stat. 2210][/us/stat/111/2210]; amended [Pub. L. 105–225][/us/pl/105/225], § 7(c)(1)(A), (B), Aug. 12, 1998, [112 Stat. 1511][/us/stat/112/1511]; [Pub. L. 106–181, title II][/us/pl/106/181/tII], § 231(i), Apr. 5, 2000, [114 Stat. 115][/us/stat/114/115]; [Pub. L. 112–55, div. C, title I][/us/pl/112/55/dC/tI], § 191, Nov. 18, 2011, [125 Stat. 671][/us/stat/125/671].)
 
 <table>
 
@@ -379,29 +379,29 @@ Oct. 30, 1986, Pub. L. 99–591, title VI, § 6007(g), as added Dec. 18, 1991,
 
  __References in Text__ 
 
-    [Section 49108 of this title][/us/usc/t49/s49108], referred to in subsec. (a)(1)(B), was repealed by [Pub. L. 112–95, title I, § 150][/us/pl/112/95/s150], Feb. 14, 2012, [126 Stat. 32][/us/stat/126/32].
+    [Section 49108 of this title][/us/usc/t49/s49108], referred to in subsec. (a)(1)(B), was repealed by [Pub. L. 112–95, title I][/us/pl/112/95/tI], § 150, Feb. 14, 2012, [126 Stat. 32][/us/stat/126/32].
 
  __Amendments__ 
 
-    2011—Subsec. (c)(1). [Pub. L. 112–55, § 191(a)(1)][/us/pl/112/55/s191/a/1], substituted “17 members” for “13 members” in introductory provisions.
+    2011—Subsec. (c)(1). [Pub. L. 112–55][/us/pl/112/55], § 191(a)(1), substituted “17 members” for “13 members” in introductory provisions.
 
-    Subsec. (c)(1)(A). [Pub. L. 112–55, § 191(a)(2)][/us/pl/112/55/s191/a/2], substituted “7 members” for “5 members”.
+    Subsec. (c)(1)(A). [Pub. L. 112–55][/us/pl/112/55], § 191(a)(2), substituted “7 members” for “5 members”.
 
-    Subsec. (c)(1)(B). [Pub. L. 112–55, § 191(a)(3)][/us/pl/112/55/s191/a/3], substituted “4 members” for “3 members”.
+    Subsec. (c)(1)(B). [Pub. L. 112–55][/us/pl/112/55], § 191(a)(3), substituted “4 members” for “3 members”.
 
-    Subsec. (c)(1)(C). [Pub. L. 112–55, § 191(a)(4)][/us/pl/112/55/s191/a/4], substituted “3 members” for “2 members”.
+    Subsec. (c)(1)(C). [Pub. L. 112–55][/us/pl/112/55], § 191(a)(4), substituted “3 members” for “2 members”.
 
-    Subsec. (c)(3). [Pub. L. 112–55, § 191(b)][/us/pl/112/55/s191/b], substituted “Any member of the board shall be eligible for reappointment for 1 additional term. A member shall not serve after the expiration of the member’s term(s).” for “A member may serve after the expiration of that member’s term until a successor has taken office.”
+    Subsec. (c)(3). [Pub. L. 112–55][/us/pl/112/55], § 191(b), substituted “Any member of the board shall be eligible for reappointment for 1 additional term. A member shall not serve after the expiration of the member’s term(s).” for “A member may serve after the expiration of that member’s term until a successor has taken office.”
 
-    Subsec. (c)(6)(C). [Pub. L. 112–55, § 191(c)][/us/pl/112/55/s191/c], inserted at end “A member appointed by the Mayor of the District of Columbia, the Governor of Maryland or the Governor of Virginia may be removed or suspended from office only for cause and in accordance with the laws of jurisdiction from which the member is appointed.”
+    Subsec. (c)(6)(C). [Pub. L. 112–55][/us/pl/112/55], § 191(c), inserted at end “A member appointed by the Mayor of the District of Columbia, the Governor of Maryland or the Governor of Virginia may be removed or suspended from office only for cause and in accordance with the laws of jurisdiction from which the member is appointed.”
 
-    Subsec. (c)(7). [Pub. L. 112–55, § 191(d)][/us/pl/112/55/s191/d], substituted “Ten votes” for “Eight votes”.
+    Subsec. (c)(7). [Pub. L. 112–55][/us/pl/112/55], § 191(d), substituted “Ten votes” for “Eight votes”.
 
     2000—Subsec. (c)(6)(C), (D). [Pub. L. 106–181][/us/pl/106/181] redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: “The members to be appointed under paragraph (1)(D) of this subsection must be appointed before October 1, 1997. If the deadline is not met, the Secretary of Transportation and the Airports Authority are subject to the limitations of [section 49108 of this title][/us/usc/t49/s49108] until all members referred to in paragraph (1)(D) are appointed.”
 
-    1998—Subsec. (b)(1)(F). [Pub. L. 105–225, § 7(c)(1)(A)][/us/pl/105/225/s7/c/1/A], substituted “1986” for “1996”.
+    1998—Subsec. (b)(1)(F). [Pub. L. 105–225][/us/pl/105/225], § 7(c)(1)(A), substituted “1986” for “1996”.
 
-    Subsec. (c)(3). [Pub. L. 105–225, § 7(c)(1)(B)][/us/pl/105/225/s7/c/1/B], substituted “to the board” for “by the board”.
+    Subsec. (c)(3). [Pub. L. 105–225][/us/pl/105/225], § 7(c)(1)(B), substituted “to the board” for “by the board”.
 
  __Effective Date of 2000 Amendment__ 
 
@@ -409,7 +409,7 @@ Oct. 30, 1986, Pub. L. 99–591, title VI, § 6007(g), as added Dec. 18, 1991,
 
  __Effective Date of 1998 Amendment__ 
 
-[Pub. L. 105–225, § 7(c)(3)][/us/pl/105/225/s7/c/3], Aug. 12, 1998, [112 Stat. 1512][/us/stat/112/1512], provided that: 
+[Pub. L. 105–225][/us/pl/105/225], § 7(c)(3), Aug. 12, 1998, [112 Stat. 1512][/us/stat/112/1512], provided that: 
 
 > “The amendments made by this subsection \[amending this section and sections 49107 and 49111 of this title and provisions set out as a note preceding [section 101 of this title][/us/usc/t49/s101]\] are effective as of November 20, 1997.”
 
@@ -421,32 +421,32 @@ Oct. 30, 1986, Pub. L. 99–591, title VI, § 6007(g), as added Dec. 18, 1991,
 ----------
 
 [/us/usc/t49/s49104/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs49104%2Fa%2F4
-[/us/pl/105/102/s2/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102%2Fs2%2F26
+[/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/stat/111/2210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2210
-[/us/pl/105/225/s7/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225%2Fs7%2Fc%2F1%2FA
+[/us/pl/105/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225
 [/us/stat/112/1511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1511
-[/us/pl/106/181/s231/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs231%2Fi
+[/us/pl/106/181/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtII
 [/us/stat/114/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F115
-[/us/pl/112/55/s191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55%2Fs191
+[/us/pl/112/55/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55%2FdC%2FtI
 [/us/stat/125/671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F671
 [/us/usc/t49/s49108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs49108
-[/us/pl/112/95/s150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs150
+[/us/pl/112/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtI
 [/us/stat/126/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F32
-[/us/pl/112/55/s191/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55%2Fs191%2Fa%2F1
-[/us/pl/112/55/s191/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55%2Fs191%2Fa%2F2
-[/us/pl/112/55/s191/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55%2Fs191%2Fa%2F3
-[/us/pl/112/55/s191/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55%2Fs191%2Fa%2F4
-[/us/pl/112/55/s191/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55%2Fs191%2Fb
-[/us/pl/112/55/s191/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55%2Fs191%2Fc
-[/us/pl/112/55/s191/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55%2Fs191%2Fd
+[/us/pl/112/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55
+[/us/pl/112/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55
+[/us/pl/112/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55
+[/us/pl/112/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55
+[/us/pl/112/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55
+[/us/pl/112/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55
+[/us/pl/112/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55
 [/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/usc/t49/s49108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs49108
-[/us/pl/105/225/s7/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225%2Fs7%2Fc%2F1%2FA
-[/us/pl/105/225/s7/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225%2Fs7%2Fc%2F1%2FB
+[/us/pl/105/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225
+[/us/pl/105/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225
 [/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/pl/106/181/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106
-[/us/pl/105/225/s7/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225%2Fs7%2Fc%2F3
+[/us/pl/105/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225
 [/us/stat/112/1512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1512
 [/us/usc/t49/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs101
 

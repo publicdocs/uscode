@@ -75,7 +75,7 @@
 
     The Secretary of Transportation shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Senate Committee on Commerce, Science, and Transportation a biennial report providing information on whether the Secretary has designated as hazardous materials for purposes of chapter 51 of such title all by-products of the methamphetamine-production process that are known by the Secretary to pose an unreasonable risk to health and safety or property when transported in commerce in a particular amount and form.
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 761][/us/stat/108/761]; [Pub. L. 103–311, title I, § 117(a)(2)][/us/pl/103/311/s117/a/2], Aug. 26, 1994, [108 Stat. 1678][/us/stat/108/1678]; [Pub. L. 103–429, § 6(3)][/us/pl/103/429/s6/3], Oct. 31, 1994, [108 Stat. 4378][/us/stat/108/4378]; [Pub. L. 107–296, title XVII, § 1711(a)][/us/pl/107/296/s1711/a], Nov. 25, 2002, [116 Stat. 2319][/us/stat/116/2319]; [Pub. L. 109–59, title VII][/us/pl/109/59], §§ 7103, 7126, Aug. 10, 2005, [119 Stat. 1893][/us/stat/119/1893], 1909; [Pub. L. 109–177, title VII, § 741][/us/pl/109/177/s741], Mar. 9, 2006, [120 Stat. 272][/us/stat/120/272]; [Pub. L. 114–94, div. A, title VII, § 7201][/us/pl/114/94/s7201], Dec. 4, 2015, [129 Stat. 1589][/us/stat/129/1589].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(d), July 5, 1994, [108 Stat. 761][/us/stat/108/761]; [Pub. L. 103–311, title I][/us/pl/103/311/tI], § 117(a)(2), Aug. 26, 1994, [108 Stat. 1678][/us/stat/108/1678]; [Pub. L. 103–429][/us/pl/103/429], § 6(3), Oct. 31, 1994, [108 Stat. 4378][/us/stat/108/4378]; [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1711(a), Nov. 25, 2002, [116 Stat. 2319][/us/stat/116/2319]; [Pub. L. 109–59, title VII][/us/pl/109/59/tVII], §§ 7103, 7126, Aug. 10, 2005, [119 Stat. 1893][/us/stat/119/1893], 1909; [Pub. L. 109–177, title VII][/us/pl/109/177/tVII], § 741, Mar. 9, 2006, [120 Stat. 272][/us/stat/120/272]; [Pub. L. 114–94, div. A, title VII][/us/pl/114/94/dA/tVII], § 7201, Dec. 4, 2015, [129 Stat. 1589][/us/stat/129/1589].)
 
 <table>
 
@@ -165,11 +165,11 @@ Jan. 3, 1975, Pub. L. 93–633, § 105(a)(1)–(3), 88 Stat. 2157; restated No
 
     2006—Subsec. (d). [Pub. L. 109–177][/us/pl/109/177] added subsec. (d).
 
-    2005—Subsec. (a). [Pub. L. 109–59, § 7126][/us/pl/109/59/s7126], substituted “Secretary shall designate” for “Secretary of Transportation shall designate”.
+    2005—Subsec. (a). [Pub. L. 109–59][/us/pl/109/59], § 7126, substituted “Secretary shall designate” for “Secretary of Transportation shall designate”.
 
-    [Pub. L. 109–59, § 7103(a)][/us/pl/109/59/s7103/a], substituted “infectious substance, flammable or combustible liquid, solid, or gas, toxic, oxidizing, or corrosive material,” for “etiologic agent, flammable or combustible liquid or solid, poison, oxidizing or corrosive material,” and “determines” for “decides”.
+    [Pub. L. 109–59][/us/pl/109/59], § 7103(a), substituted “infectious substance, flammable or combustible liquid, solid, or gas, toxic, oxidizing, or corrosive material,” for “etiologic agent, flammable or combustible liquid or solid, poison, oxidizing or corrosive material,” and “determines” for “decides”.
 
-    Subsec. (b)(1)(A). [Pub. L. 109–59, § 7103(b)][/us/pl/109/59/s7103/b], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “apply to a person—
+    Subsec. (b)(1)(A). [Pub. L. 109–59][/us/pl/109/59], § 7103(b), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “apply to a person—
 
     “(i) transporting hazardous material in commerce;
 
@@ -177,15 +177,15 @@ Jan. 3, 1975, Pub. L. 93–633, § 105(a)(1)–(3), 88 Stat. 2157; restated No
 
     “(iii) manufacturing, fabricating, marking, maintaining, reconditioning, repairing, or testing a packaging or a container that is represented, marked, certified, or sold by that person as qualified for use in transporting hazardous material in commerce; and”.
 
-    Subsec. (b)(1)(C). [Pub. L. 109–59, § 7103(c)(1)][/us/pl/109/59/s7103/c/1], struck out heading and text of subpar. (C). Text read as follows: “When prescribing a security regulation or issuing a security order that affects the safety of the transportation of hazardous material, the Secretary of Homeland Security shall consult with the Secretary.”
+    Subsec. (b)(1)(C). [Pub. L. 109–59][/us/pl/109/59], § 7103(c)(1), struck out heading and text of subpar. (C). Text read as follows: “When prescribing a security regulation or issuing a security order that affects the safety of the transportation of hazardous material, the Secretary of Homeland Security shall consult with the Secretary.”
 
-    Subsec. (c). [Pub. L. 109–59, § 7103(c)(2)][/us/pl/109/59/s7103/c/2], added subsec. (c).
+    Subsec. (c). [Pub. L. 109–59][/us/pl/109/59], § 7103(c)(2), added subsec. (c).
 
-    2002—Subsec. (b)(1). [Pub. L. 107–296, § 1711(a)(1)][/us/pl/107/296/s1711/a/1], substituted “transportation, including security,” for “transportation” in introductory provisions.
+    2002—Subsec. (b)(1). [Pub. L. 107–296][/us/pl/107/296], § 1711(a)(1), substituted “transportation, including security,” for “transportation” in introductory provisions.
 
-    Subsec. (b)(1)(B). [Pub. L. 107–296, § 1711(a)(2)][/us/pl/107/296/s1711/a/2], substituted “aspects, including security,” for “aspects”.
+    Subsec. (b)(1)(B). [Pub. L. 107–296][/us/pl/107/296], § 1711(a)(2), substituted “aspects, including security,” for “aspects”.
 
-    Subsec. (b)(1)(C). [Pub. L. 107–296, § 1711(a)(3)][/us/pl/107/296/s1711/a/3], added subpar. (C).
+    Subsec. (b)(1)(C). [Pub. L. 107–296][/us/pl/107/296], § 1711(a)(3), added subpar. (C).
 
     1994—Subsec. (b)(1)(A)(iii). [Pub. L. 103–311][/us/pl/103/311] substituted “a packaging or a” for “a package or”.
 
@@ -205,7 +205,7 @@ Jan. 3, 1975, Pub. L. 93–633, § 105(a)(1)–(3), 88 Stat. 2157; restated No
 
  __GAO Study on Acceptance of Classification Examinations__ 
 
-[Pub. L. 114–94, div. A, title VII, § 7207][/us/pl/114/94/s7207], Dec. 4, 2015, [129 Stat. 1592][/us/stat/129/1592], provided that:
+[Pub. L. 114–94, div. A, title VII][/us/pl/114/94/dA/tVII], § 7207, Dec. 4, 2015, [129 Stat. 1592][/us/stat/129/1592], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -233,7 +233,7 @@ Jan. 3, 1975, Pub. L. 93–633, § 105(a)(1)–(3), 88 Stat. 2157; restated No
 
  __Railroad Carrier Employee Exposure to Radiation Study__ 
 
-[Pub. L. 110–432, div. A, title IV, § 411][/us/pl/110/432/s411], Oct. 16, 2008, [122 Stat. 4888][/us/stat/122/4888], provided that:
+[Pub. L. 110–432, div. A, title IV][/us/pl/110/432/dA/tIV], § 411, Oct. 16, 2008, [122 Stat. 4888][/us/stat/122/4888], provided that:
 
 >     “(a)  __Study__  __.—__ 
 
@@ -259,13 +259,13 @@ Jan. 3, 1975, Pub. L. 93–633, § 105(a)(1)–(3), 88 Stat. 2157; restated No
 
  __Safe Placement of Train Cars__ 
 
-[Pub. L. 103–311, title I, § 111][/us/pl/103/311/s111], Aug. 26, 1994, [108 Stat. 1676][/us/stat/108/1676], provided that: 
+[Pub. L. 103–311, title I][/us/pl/103/311/tI], § 111, Aug. 26, 1994, [108 Stat. 1676][/us/stat/108/1676], provided that: 
 
 > “The Secretary of Transportation shall conduct a study of existing practices regarding the placement of cars on trains, with particular attention to the placement of cars that carry hazardous materials. In conducting the study, the Secretary shall consider whether such placement practices increase the risk of derailment, hazardous materials spills, or tank ruptures or have any other adverse effect on safety. The results of the study shall be submitted to Congress within 1 year after the date of enactment of this Act \[Aug. 26, 1994\].”
 
  __Fiber Drum Packaging__ 
 
-[Pub. L. 104–88, title IV, § 406][/us/pl/104/88/s406], Dec. 29, 1995, [109 Stat. 957][/us/stat/109/957], provided that:
+[Pub. L. 104–88, title IV][/us/pl/104/88/tIV], § 406, Dec. 29, 1995, [109 Stat. 957][/us/stat/109/957], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -297,7 +297,7 @@ Jan. 3, 1975, Pub. L. 93–633, § 105(a)(1)–(3), 88 Stat. 2157; restated No
 
 >     By September 30, 1997, the Secretary shall issue final regulations to determine what standards should apply to fiber drum packaging with a removable head for transportation of liquid hazardous materials (with respect to those liquid hazardous materials transported by such drums pursuant to regulations in effect on September 30, 1991) after September 30, 1997. In issuing such regulations, the Secretary shall give full and substantial consideration to the results of the study conducted in subsection (c).”
 
-[Pub. L. 103–311, title I, § 122][/us/pl/103/311/s122], Aug. 26, 1994, [108 Stat. 1681][/us/stat/108/1681], provided that:
+[Pub. L. 103–311, title I][/us/pl/103/311/tI], § 122, Aug. 26, 1994, [108 Stat. 1681][/us/stat/108/1681], provided that:
 
 >     “(a)  __Initiation of Rulemaking Proceeding__  __.—__ 
 
@@ -326,19 +326,19 @@ Jan. 3, 1975, Pub. L. 93–633, § 105(a)(1)–(3), 88 Stat. 2157; restated No
 
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/usc/t42/s5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5121
-[/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F761
-[/us/pl/103/311/s117/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311%2Fs117%2Fa%2F2
+[/us/pl/103/311/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311%2FtI
 [/us/stat/108/1678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1678
-[/us/pl/103/429/s6/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F3
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/stat/108/4378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4378
-[/us/pl/107/296/s1711/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1711%2Fa
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2319
-[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtVII
 [/us/stat/119/1893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1893
-[/us/pl/109/177/s741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs741
+[/us/pl/109/177/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtVII
 [/us/stat/120/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F272
-[/us/pl/114/94/s7201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs7201
+[/us/pl/114/94/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtVII
 [/us/stat/129/1589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1589
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
@@ -350,14 +350,14 @@ Jan. 3, 1975, Pub. L. 93–633, § 105(a)(1)–(3), 88 Stat. 2157; restated No
 [/us/usc/t42/s5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5121
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
-[/us/pl/109/59/s7126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7126
-[/us/pl/109/59/s7103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7103%2Fa
-[/us/pl/109/59/s7103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7103%2Fb
-[/us/pl/109/59/s7103/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7103%2Fc%2F1
-[/us/pl/109/59/s7103/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7103%2Fc%2F2
-[/us/pl/107/296/s1711/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1711%2Fa%2F1
-[/us/pl/107/296/s1711/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1711%2Fa%2F2
-[/us/pl/107/296/s1711/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1711%2Fa%2F3
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/103/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
@@ -370,20 +370,20 @@ Jan. 3, 1975, Pub. L. 93–633, § 105(a)(1)–(3), 88 Stat. 2157; restated No
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/pl/103/429/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs9
 [/us/usc/t49/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs321
-[/us/pl/114/94/s7207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs7207
+[/us/pl/114/94/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtVII
 [/us/stat/129/1592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1592
-[/us/pl/110/432/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs411
+[/us/pl/110/432/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdA%2FtIV
 [/us/stat/122/4888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4888
 [/us/pl/110/432/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs411
 [/us/pl/110/432/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs2%2Fa
 [/us/usc/t49/s20102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs20102
-[/us/pl/103/311/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311%2Fs111
+[/us/pl/103/311/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311%2FtI
 [/us/stat/108/1676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1676
-[/us/pl/104/88/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs406
+[/us/pl/104/88/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtIV
 [/us/stat/109/957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F957
 [/us/usc/t49/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1801
 [/us/usc/t49/s5103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5103%2Fb
-[/us/pl/103/311/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311%2Fs122
+[/us/pl/103/311/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311%2FtI
 [/us/stat/108/1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1681
 [/us/usc/t49/s5103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5103%2Fb
 

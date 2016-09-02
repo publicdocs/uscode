@@ -115,7 +115,7 @@
 
         (2) Reports received by the Board under this subsection shall be published and made available to the public under [section 552(a) of title 5][/us/usc/t5/s552/a].
 
-(Added [Pub. L. 104–88, title I, § 102(a)][/us/pl/104/88/s102/a], Dec. 29, 1995, [109 Stat. 812][/us/stat/109/812]; amended [Pub. L. 104–287, § 5(24)][/us/pl/104/287/s5/24], Oct. 11, 1996, [110 Stat. 3390][/us/stat/110/3390].)
+(Added [Pub. L. 104–88, title I][/us/pl/104/88/tI], § 102(a), Dec. 29, 1995, [109 Stat. 812][/us/stat/109/812]; amended [Pub. L. 104–287][/us/pl/104/287], § 5(24), Oct. 11, 1996, [110 Stat. 3390][/us/stat/110/3390].)
 
  __References in Text__ 
 
@@ -131,7 +131,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 10706, [Pub. L. 95–473][/us/pl/95/473], Oct. 17, 1978, [92 Stat. 1377][/us/stat/92/1377]; [Pub. L. 96–258, § 1(7)][/us/pl/96/258/s1/7], June 3, 1980, [94 Stat. 426][/us/stat/94/426]; [Pub. L. 96–296, § 14(a)][/us/pl/96/296/s14/a], (c), (d), July 1, 1980, [94 Stat. 803][/us/stat/94/803], 808; [Pub. L. 96–448, title II, § 219(a)][/us/pl/96/448/s219/a]–(e), 224(b), Oct. 14, 1980, [94 Stat. 1926–1929][/us/stat/94/1926-1929]; [Pub. L. 97–261, § 10(a)][/us/pl/97/261/s10/a]–(d), Sept. 20, 1982, [96 Stat. 1109][/us/stat/96/1109], 1110; [Pub. L. 98–216, § 2(12)][/us/pl/98/216/s2/12], Feb. 14, 1984, [98 Stat. 5][/us/stat/98/5]; [Pub. L. 99–521, § 7(c)][/us/pl/99/521/s7/c], Oct. 22, 1986, [100 Stat. 2995][/us/stat/100/2995], related to exemption from antitrust laws of rate agreements, prior to the general amendment of this subtitle by [Pub. L. 104–88, § 102(a)][/us/pl/104/88/s102/a]. See sections 10706 and 13703 of this title.
+    A prior section 10706, [Pub. L. 95–473][/us/pl/95/473], Oct. 17, 1978, [92 Stat. 1377][/us/stat/92/1377]; [Pub. L. 96–258][/us/pl/96/258], § 1(7), June 3, 1980, [94 Stat. 426][/us/stat/94/426]; [Pub. L. 96–296][/us/pl/96/296], § 14(a), (c), (d), July 1, 1980, [94 Stat. 803][/us/stat/94/803], 808; [Pub. L. 96–448, title II][/us/pl/96/448/tII], § 219(a)–(e), 224(b), Oct. 14, 1980, [94 Stat. 1926–1929][/us/stat/94/1926-1929]; [Pub. L. 97–261][/us/pl/97/261], § 10(a)–(d), Sept. 20, 1982, [96 Stat. 1109][/us/stat/96/1109], 1110; [Pub. L. 98–216][/us/pl/98/216], § 2(12), Feb. 14, 1984, [98 Stat. 5][/us/stat/98/5]; [Pub. L. 99–521][/us/pl/99/521], § 7(c), Oct. 22, 1986, [100 Stat. 2995][/us/stat/100/2995], related to exemption from antitrust laws of rate agreements, prior to the general amendment of this subtitle by [Pub. L. 104–88][/us/pl/104/88], § 102(a). See sections 10706 and 13703 of this title.
 
  __Amendments__ 
 
@@ -159,9 +159,9 @@
 [/us/usc/t49/s10101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs10101
 [/us/usc/t49/s10101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs10101
 [/us/usc/t5/s552/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fa
-[/us/pl/104/88/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs102%2Fa
+[/us/pl/104/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtI
 [/us/stat/109/812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F812
-[/us/pl/104/287/s5/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F24
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3390
 [/us/act/1890-07-02/ch647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-07-02%2Fch647
 [/us/stat/26/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F209
@@ -180,19 +180,19 @@
 [/us/usc/t15/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs13
 [/us/pl/95/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F473
 [/us/stat/92/1377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1377
-[/us/pl/96/258/s1/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F258%2Fs1%2F7
+[/us/pl/96/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F258
 [/us/stat/94/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F426
-[/us/pl/96/296/s14/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F296%2Fs14%2Fa
+[/us/pl/96/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F296
 [/us/stat/94/803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F803
-[/us/pl/96/448/s219/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F448%2Fs219%2Fa
+[/us/pl/96/448/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F448%2FtII
 [/us/stat/94/1926-1929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1926-1929
-[/us/pl/97/261/s10/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F261%2Fs10%2Fa
+[/us/pl/97/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F261
 [/us/stat/96/1109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1109
-[/us/pl/98/216/s2/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F216%2Fs2%2F12
+[/us/pl/98/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F216
 [/us/stat/98/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F5
-[/us/pl/99/521/s7/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F521%2Fs7%2Fc
+[/us/pl/99/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F521
 [/us/stat/100/2995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2995
-[/us/pl/104/88/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs102%2Fa
+[/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 
 

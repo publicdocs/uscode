@@ -435,13 +435,13 @@
 
     Notwithstanding any other provision of this section, a State may elect to apply the provisions of the UCR agreement to motor carriers and motor private carriers and freight forwarders subject to its jurisdiction that operate solely in intrastate commerce within the borders of the State.
 
-(Added [Pub. L. 109–59, title IV, § 4305(b)][/us/pl/109/59/s4305/b], Aug. 10, 2005, [119 Stat. 1764][/us/stat/119/1764]; amended [Pub. L. 110–244, title III, § 301(m)][/us/pl/110/244/s301/m]–(p), June 6, 2008, [122 Stat. 1617][/us/stat/122/1617]; [Pub. L. 110–432, div. A, title VII, § 701(d)][/us/pl/110/432/s701/d], Oct. 16, 2008, [122 Stat. 4906][/us/stat/122/4906]; [Pub. L. 112–141, div. C, title II, § 32933(b)][/us/pl/112/141/s32933/b], July 6, 2012, [126 Stat. 830][/us/stat/126/830].)
+(Added [Pub. L. 109–59, title IV][/us/pl/109/59/tIV], § 4305(b), Aug. 10, 2005, [119 Stat. 1764][/us/stat/119/1764]; amended [Pub. L. 110–244, title III][/us/pl/110/244/tIII], § 301(m)–(p), June 6, 2008, [122 Stat. 1617][/us/stat/122/1617]; [Pub. L. 110–432, div. A, title VII][/us/pl/110/432/dA/tVII], § 701(d), Oct. 16, 2008, [122 Stat. 4906][/us/stat/122/4906]; [Pub. L. 112–141, div. C, title II][/us/pl/112/141/dC/tII], § 32933(b), July 6, 2012, [126 Stat. 830][/us/stat/126/830].)
 
  __References in Text__ 
 
     The date of enactment of this section, referred to in subsec. (a)(7), is the date of enactment of [Pub. L. 109–59][/us/pl/109/59], which was approved Aug. 10, 2005.
 
-    Section 13903(b), referred to in subsec. (b), was redesignated section 13903(d) by [Pub. L. 112–141, div. C, title II, § 32916(a)(2)][/us/pl/112/141/s32916/a/2], July 6, 2012, [126 Stat. 820][/us/stat/126/820].
+    Section 13903(b), referred to in subsec. (b), was redesignated section 13903(d) by [Pub. L. 112–141, div. C, title II][/us/pl/112/141/dC/tII], § 32916(a)(2), July 6, 2012, [126 Stat. 820][/us/stat/126/820].
 
     The Federal Advisory Committee Act, referred to in subsec. (d)(9), is [Pub. L. 92–463][/us/pl/92/463], Oct. 6, 1972, [86 Stat. 770][/us/stat/86/770], as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -449,27 +449,27 @@
 
  __Amendments__ 
 
-    2012—Subsec. (c)(1)(C). [Pub. L. 112–141, § 32933(b)(1)][/us/pl/112/141/s32933/b/1], substituted “section” for “sections”.
+    2012—Subsec. (c)(1)(C). [Pub. L. 112–141][/us/pl/112/141], § 32933(b)(1), substituted “section” for “sections”.
 
-    Subsec. (c)(1)(D)(ii)(II). [Pub. L. 112–141, § 32933(b)(2)][/us/pl/112/141/s32933/b/2], substituted “; and” for period at end.
+    Subsec. (c)(1)(D)(ii)(II). [Pub. L. 112–141][/us/pl/112/141], § 32933(b)(2), substituted “; and” for period at end.
 
-    2008—Subsec. (a). [Pub. L. 110–432, § 701(d)(1)(A)][/us/pl/110/432/s701/d/1/A], inserted “(except as provided in paragraph (5))” after “14506” in introductory provisions.
+    2008—Subsec. (a). [Pub. L. 110–432][/us/pl/110/432], § 701(d)(1)(A), inserted “(except as provided in paragraph (5))” after “14506” in introductory provisions.
 
-    Subsec. (a)(1)(A). [Pub. L. 110–432, § 701(d)(1)(B)][/us/pl/110/432/s701/d/1/B], added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: “Except as provided in subparagraph (B), the term ‘commercial motor vehicle’ has the meaning such term has under section 31101.”
+    Subsec. (a)(1)(A). [Pub. L. 110–432][/us/pl/110/432], § 701(d)(1)(B), added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: “Except as provided in subparagraph (B), the term ‘commercial motor vehicle’ has the meaning such term has under section 31101.”
 
-    Subsec. (a)(1)(B). [Pub. L. 110–244, § 301(m)][/us/pl/110/244/s301/m], substituted “determining the size of a motor carrier or motor private carrier’s fleet in calculating the fee to be paid by a motor carrier or motor private carrier pursuant to subsection (f)(1), the motor carrier or motor private carrier” for “a motor carrier required to make any filing or pay any fee to a State with respect to the motor carrier’s authority or insurance related to operation within such State, the motor carrier”.
+    Subsec. (a)(1)(B). [Pub. L. 110–244][/us/pl/110/244], § 301(m), substituted “determining the size of a motor carrier or motor private carrier’s fleet in calculating the fee to be paid by a motor carrier or motor private carrier pursuant to subsection (f)(1), the motor carrier or motor private carrier” for “a motor carrier required to make any filing or pay any fee to a State with respect to the motor carrier’s authority or insurance related to operation within such State, the motor carrier”.
 
-    Subsec. (a)(5). [Pub. L. 110–432, § 701(d)(1)(C)][/us/pl/110/432/s701/d/1/C], added par. (5) and struck out former par. (5). Prior to amendment, text read as follows: “The term ‘motor carrier’ includes all carriers that are otherwise exempt from this part under subchapter I of chapter 135 or exemption actions by the former Interstate Commerce Commission under this title.”
+    Subsec. (a)(5). [Pub. L. 110–432][/us/pl/110/432], § 701(d)(1)(C), added par. (5) and struck out former par. (5). Prior to amendment, text read as follows: “The term ‘motor carrier’ includes all carriers that are otherwise exempt from this part under subchapter I of chapter 135 or exemption actions by the former Interstate Commerce Commission under this title.”
 
-    Subsec. (c)(1)(B). [Pub. L. 110–244, § 301(p)(1)][/us/pl/110/244/s301/p/1], substituted “a” for “the a”.
+    Subsec. (c)(1)(B). [Pub. L. 110–244][/us/pl/110/244], § 301(p)(1), substituted “a” for “the a”.
 
-    Subsec. (c)(2). [Pub. L. 110–244, § 301(n)][/us/pl/110/244/s301/n], substituted “exclusively in intrastate operations” for “exclusively in interstate operations”.
+    Subsec. (c)(2). [Pub. L. 110–244][/us/pl/110/244], § 301(n), substituted “exclusively in intrastate operations” for “exclusively in interstate operations”.
 
-    Subsec. (d)(4)(C). [Pub. L. 110–432, § 701(d)(2)][/us/pl/110/432/s701/d/2], inserted before period “, except that a decision to approve the exclusion of carriers from the definition of the term ‘motor carrier’ under subsection (a)(5) shall require an affirmative vote of ¾ of all such directors.”
+    Subsec. (d)(4)(C). [Pub. L. 110–432][/us/pl/110/432], § 701(d)(2), inserted before period “, except that a decision to approve the exclusion of carriers from the definition of the term ‘motor carrier’ under subsection (a)(5) shall require an affirmative vote of ¾ of all such directors.”
 
-    Subsec. (f)(1)(A)(i). [Pub. L. 110–244, § 301(p)(2)][/us/pl/110/244/s301/p/2], struck out “in connection with the filing of proof of financial responsibility” before “under the UCR agreement”.
+    Subsec. (f)(1)(A)(i). [Pub. L. 110–244][/us/pl/110/244], § 301(p)(2), struck out “in connection with the filing of proof of financial responsibility” before “under the UCR agreement”.
 
-    Subsec. (f)(1)(A)(ii). [Pub. L. 110–244, § 301][/us/pl/110/244/s301](o), (p)(3), substituted “under the UCR agreement” for “in connection with such a filing” and struck out “or” before “under this paragraph.”
+    Subsec. (f)(1)(A)(ii). [Pub. L. 110–244][/us/pl/110/244], § 301(o), (p)(3), substituted “under the UCR agreement” for “in connection with such a filing” and struck out “or” before “under this paragraph.”
 
  __Effective Date of 2012 Amendment__ 
 
@@ -488,31 +488,31 @@
 
 [/us/usc/t5/s552b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552b
 [/us/usc/t28/s1341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1341
-[/us/pl/109/59/s4305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4305%2Fb
+[/us/pl/109/59/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIV
 [/us/stat/119/1764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1764
-[/us/pl/110/244/s301/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs301%2Fm
+[/us/pl/110/244/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2FtIII
 [/us/stat/122/1617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1617
-[/us/pl/110/432/s701/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs701%2Fd
+[/us/pl/110/432/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdA%2FtVII
 [/us/stat/122/4906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4906
-[/us/pl/112/141/s32933/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32933%2Fb
+[/us/pl/112/141/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtII
 [/us/stat/126/830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F830
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
-[/us/pl/112/141/s32916/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32916%2Fa%2F2
+[/us/pl/112/141/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtII
 [/us/stat/126/820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F820
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
-[/us/pl/112/141/s32933/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32933%2Fb%2F1
-[/us/pl/112/141/s32933/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32933%2Fb%2F2
-[/us/pl/110/432/s701/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs701%2Fd%2F1%2FA
-[/us/pl/110/432/s701/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs701%2Fd%2F1%2FB
-[/us/pl/110/244/s301/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs301%2Fm
-[/us/pl/110/432/s701/d/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs701%2Fd%2F1%2FC
-[/us/pl/110/244/s301/p/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs301%2Fp%2F1
-[/us/pl/110/244/s301/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs301%2Fn
-[/us/pl/110/432/s701/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs701%2Fd%2F2
-[/us/pl/110/244/s301/p/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs301%2Fp%2F2
-[/us/pl/110/244/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs301
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
+[/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
+[/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
+[/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
+[/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
+[/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
+[/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
+[/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
+[/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101

@@ -29,7 +29,7 @@
 
         (3) for a reasonable period of time after a transfer of ownership, under regulations prescribed by the Administrator.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1161][/us/stat/108/1161].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1161][/us/stat/108/1161].)
 
 <table>
 
@@ -115,7 +115,7 @@ Oct. 15, 1966, Pub. L. 89–670, § 6(c)(1), 80 Stat. 938; Jan. 12, 1983, Pub.
 
  __Effective Date of 2004 Amendment__ 
 
-[Pub. L. 108–297, § 7][/us/pl/108/297/s7], Aug. 9, 2004, [118 Stat. 1097][/us/stat/118/1097], provided that: 
+[Pub. L. 108–297][/us/pl/108/297], § 7, Aug. 9, 2004, [118 Stat. 1097][/us/stat/118/1097], provided that: 
 
 > “This Act \[see Short Title of 2004 Amendment note set out under [section 40101 of this title][/us/usc/t49/s40101]\], including any amendments made by this Act, shall take effect on the date the Cape Town Treaty (as defined in [section 44113 of title 49][/us/usc/t49/s44113], United States Code) enters into force with respect to the United States and shall not apply to any registration or recordation that was made before such effective date under chapter 441 of such title or any legal rights relating to such registration or recordation.”
 
@@ -123,7 +123,7 @@ Oct. 15, 1966, Pub. L. 89–670, § 6(c)(1), 80 Stat. 938; Jan. 12, 1983, Pub.
 
  __Regulations__ 
 
-[Pub. L. 108–297, § 4][/us/pl/108/297/s4], Aug. 9, 2004, [118 Stat. 1096][/us/stat/118/1096], provided that:
+[Pub. L. 108–297][/us/pl/108/297], § 4, Aug. 9, 2004, [118 Stat. 1096][/us/stat/118/1096], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -157,7 +157,7 @@ Oct. 15, 1966, Pub. L. 89–670, § 6(c)(1), 80 Stat. 938; Jan. 12, 1983, Pub.
 
  __Cape Town Treaty; Findings and Purpose__ 
 
-[Pub. L. 108–297, § 2][/us/pl/108/297/s2], Aug. 9, 2004, [118 Stat. 1095][/us/stat/118/1095], provided that:
+[Pub. L. 108–297][/us/pl/108/297], § 2, Aug. 9, 2004, [118 Stat. 1095][/us/stat/118/1095], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -187,17 +187,17 @@ Oct. 15, 1966, Pub. L. 89–670, § 6(c)(1), 80 Stat. 938; Jan. 12, 1983, Pub.
 ----------
 
 [/us/usc/t49/s44103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44103
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1161
 [/us/usc/t49/s44103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44103
-[/us/pl/108/297/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F297%2Fs7
+[/us/pl/108/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F297
 [/us/stat/118/1097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1097
 [/us/usc/t49/s40101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40101
 [/us/usc/t49/s44113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44113
-[/us/pl/108/297/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F297%2Fs4
+[/us/pl/108/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F297
 [/us/stat/118/1096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1096
 [/us/usc/t49/s40101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40101
-[/us/pl/108/297/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F297%2Fs2
+[/us/pl/108/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F297
 [/us/stat/118/1095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1095
 [/us/usc/t49/s44113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44113
 [/us/usc/t49/s40101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40101

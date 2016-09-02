@@ -37,7 +37,7 @@
 
     (6) the term “United States private business” means a business entity organized under the laws of the United States, or of a State, and conducting substantial business operations in the United States.
 
-(Added [Pub. L. 103–440, title I, § 103(a)(2)][/us/pl/103/440/s103/a/2], Nov. 2, 1994, [108 Stat. 4618][/us/stat/108/4618]; amended [Pub. L. 105–178, title VII, § 7201(b)][/us/pl/105/178/s7201/b], June 9, 1998, [112 Stat. 470][/us/stat/112/470]; [Pub. L. 109–59, title IX, § 9001(c)][/us/pl/109/59/s9001/c], Aug. 10, 2005, [119 Stat. 1919][/us/stat/119/1919].)
+(Added [Pub. L. 103–440, title I][/us/pl/103/440/tI], § 103(a)(2), Nov. 2, 1994, [108 Stat. 4618][/us/stat/108/4618]; amended [Pub. L. 105–178, title VII][/us/pl/105/178/tVII], § 7201(b), June 9, 1998, [112 Stat. 470][/us/stat/112/470]; [Pub. L. 109–59, title IX][/us/pl/109/59/tIX], § 9001(c), Aug. 10, 2005, [119 Stat. 1919][/us/stat/119/1919].)
 
  __Amendments__ 
 
@@ -52,11 +52,11 @@
 ----------
 ----------
 
-[/us/pl/103/440/s103/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F440%2Fs103%2Fa%2F2
+[/us/pl/103/440/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F440%2FtI
 [/us/stat/108/4618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4618
-[/us/pl/105/178/s7201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs7201%2Fb
+[/us/pl/105/178/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtVII
 [/us/stat/112/470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F470
-[/us/pl/109/59/s9001/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs9001%2Fc
+[/us/pl/109/59/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIX
 [/us/stat/119/1919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1919
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178

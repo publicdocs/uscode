@@ -75,7 +75,7 @@
 
         Not later than 24 months after the date of enactment of this section, the Comptroller General shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report concerning the effect, if any, on aviation safety of the modification to pilot age standards made by subsection (a).
 
-(Added [Pub. L. 110–135, § 2(a)][/us/pl/110/135/s2/a], Dec. 13, 2007, [121 Stat. 1450][/us/stat/121/1450]; amended [Pub. L. 112–95, title III, § 305][/us/pl/112/95/s305], Feb. 14, 2012, [126 Stat. 58][/us/stat/126/58].)
+(Added [Pub. L. 110–135][/us/pl/110/135], § 2(a), Dec. 13, 2007, [121 Stat. 1450][/us/stat/121/1450]; amended [Pub. L. 112–95, title III][/us/pl/112/95/tIII], § 305, Feb. 14, 2012, [126 Stat. 58][/us/stat/126/58].)
 
  __References in Text__ 
 
@@ -92,9 +92,9 @@
 ----------
 ----------
 
-[/us/pl/110/135/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F135%2Fs2%2Fa
+[/us/pl/110/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F135
 [/us/stat/121/1450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1450
-[/us/pl/112/95/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs305
+[/us/pl/112/95/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtIII
 [/us/stat/126/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F58
 [/us/pl/110/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F135
 [/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95

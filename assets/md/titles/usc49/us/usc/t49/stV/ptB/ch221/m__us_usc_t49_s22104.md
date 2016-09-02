@@ -31,7 +31,7 @@
 
     Amounts provided under this section remain available to a State for obligation for the first 3 months after the end of the fiscal year for which the amounts were made available. Amounts not applied for under this section or that remain unobligated after the first 3 months after the end of the fiscal year for which the amounts were made available are available to the Secretary for projects meeting the requirements of this chapter.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 896][/us/stat/108/896].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 896][/us/stat/108/896].)
 
 <table>
 
@@ -115,7 +115,7 @@ Oct. 15, 1966, Pub. L. 89–670, 80 Stat. 931, § 5(g); added Feb. 5, 1976, Pu
 
  __References in Text__ 
 
-    [Section 22108 of this title][/us/usc/t49/s22108], referred to in subsec. (a), was repealed by [Pub. L. 114–94, div. A, title XI, § 11301(c)(4)][/us/pl/114/94/s11301/c/4], Dec. 4, 2015, [129 Stat. 1648][/us/stat/129/1648].
+    [Section 22108 of this title][/us/usc/t49/s22108], referred to in subsec. (a), was repealed by [Pub. L. 114–94, div. A, title XI][/us/pl/114/94/dA/tXI], § 11301(c)(4), Dec. 4, 2015, [129 Stat. 1648][/us/stat/129/1648].
 
 ----------
 
@@ -126,10 +126,10 @@ Oct. 15, 1966, Pub. L. 89–670, 80 Stat. 931, § 5(g); added Feb. 5, 1976, Pu
 
 [/us/usc/t49/s22102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs22102
 [/us/usc/t49/s22101/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs22101%2Fc%2F1%2FB
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F896
 [/us/usc/t49/s22108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs22108
-[/us/pl/114/94/s11301/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11301%2Fc%2F4
+[/us/pl/114/94/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtXI
 [/us/stat/129/1648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1648
 
 

@@ -17,7 +17,7 @@
 
     A foreign air carrier may provide foreign air transportation only if the foreign air carrier holds a permit issued under this chapter authorizing the foreign air transportation.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1126][/us/stat/108/1126].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1126][/us/stat/108/1126].)
 
 <table>
 
@@ -74,7 +74,7 @@ Aug. 23, 1958, Pub. L. 85–726, § 402(a), 72 Stat. 757.  </td>
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1126
 
 

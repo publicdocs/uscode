@@ -21,7 +21,7 @@
 
     (2) for joint prices established for foreign air transportation, reasonable divisions of those prices among the participating air carriers or foreign air carriers without unreasonably discriminating against any of those carriers.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1132][/us/stat/108/1132].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1132][/us/stat/108/1132].)
 
 <table>
 
@@ -80,7 +80,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 404(a)(2); added Mar. 22, 19
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1132
 
 

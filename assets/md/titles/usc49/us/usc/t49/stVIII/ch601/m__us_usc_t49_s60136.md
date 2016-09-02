@@ -35,7 +35,7 @@
 
     In this section, the term “petroleum product” means oil of any kind or in any form, gasoline, diesel fuel, aviation fuel, fuel oil, kerosene, any product obtained from refining or processing of crude oil, liquefied petroleum gases, natural gas liquids, petrochemical feedstocks, condensate, waste or refuse mixtures containing any of such oil products, and any other liquid hydrocarbon compounds.
 
-(Added [Pub. L. 109–468, § 8(a)][/us/pl/109/468/s8/a], Dec. 29, 2006, [120 Stat. 3492][/us/stat/120/3492].)
+(Added [Pub. L. 109–468][/us/pl/109/468], § 8(a), Dec. 29, 2006, [120 Stat. 3492][/us/stat/120/3492].)
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/109/468/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F468%2Fs8%2Fa
+[/us/pl/109/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F468
 [/us/stat/120/3492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3492
 
 

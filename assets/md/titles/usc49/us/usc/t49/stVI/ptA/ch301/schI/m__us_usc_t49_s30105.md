@@ -23,11 +23,11 @@
 
     Subsection (a) does not prohibit officers or employees of the United States from testifying before any State or local legislative body in response to the invitation of any member of that legislative body or a State executive office.
 
-(Added and amended [Pub. L. 105–178, title VII, § 7104(a)][/us/pl/105/178/s7104/a], (c), June 9, 1998, [112 Stat. 466][/us/stat/112/466]; [Pub. L. 105–206, title IX, § 9012(a)][/us/pl/105/206/s9012/a], July 22, 1998, [112 Stat. 864][/us/stat/112/864].)
+(Added and amended [Pub. L. 105–178, title VII][/us/pl/105/178/tVII], § 7104(a), (c), June 9, 1998, [112 Stat. 466][/us/stat/112/466]; [Pub. L. 105–206, title IX][/us/pl/105/206/tIX], § 9012(a), July 22, 1998, [112 Stat. 864][/us/stat/112/864].)
 
  __Amendments__ 
 
-    1998—Subsec. (a). [Pub. L. 105–178, § 7104(c)][/us/pl/105/178/s7104/c], as added by [Pub. L. 105–206][/us/pl/105/206], inserted “for the National Highway Traffic Safety Administration” after “Secretary”.
+    1998—Subsec. (a). [Pub. L. 105–178][/us/pl/105/178], § 7104(c), as added by [Pub. L. 105–206][/us/pl/105/206], inserted “for the National Highway Traffic Safety Administration” after “Secretary”.
 
  __Effective Date of 1998 Amendment__ 
 
@@ -40,11 +40,11 @@
 ----------
 ----------
 
-[/us/pl/105/178/s7104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs7104%2Fa
+[/us/pl/105/178/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtVII
 [/us/stat/112/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F466
-[/us/pl/105/206/s9012/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs9012%2Fa
+[/us/pl/105/206/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIX
 [/us/stat/112/864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F864
-[/us/pl/105/178/s7104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs7104%2Fc
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
 [/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178

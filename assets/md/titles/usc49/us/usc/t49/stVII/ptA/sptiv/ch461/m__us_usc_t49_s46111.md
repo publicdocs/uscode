@@ -59,7 +59,7 @@
 
         As part of a hearing conducted under this section and upon the request of the individual adversely affected by an order of the Administrator under subsection (a), the Under Secretary shall provide to the individual and reviewing administrative law judge, consistent with the procedures established under paragraph (1), an unclassified summary of any classified information upon which the order of the Administrator is based.
 
-(Added [Pub. L. 108–176, title VI, § 601(a)][/us/pl/108/176/s601/a], Dec. 12, 2003, [117 Stat. 2561][/us/stat/117/2561].)
+(Added [Pub. L. 108–176, title VI][/us/pl/108/176/tVI], § 601(a), Dec. 12, 2003, [117 Stat. 2561][/us/stat/117/2561].)
 
  __References in Text__ 
 
@@ -80,7 +80,7 @@
 ----------
 ----------
 
-[/us/pl/108/176/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs601%2Fa
+[/us/pl/108/176/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtVI
 [/us/stat/117/2561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2561
 [/us/pl/96/456/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F456%2Fs1%2Fa
 [/us/pl/108/176/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs3

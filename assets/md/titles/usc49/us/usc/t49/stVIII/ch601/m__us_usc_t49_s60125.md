@@ -39,7 +39,7 @@
 
     The Secretary may credit to an appropriation authorized under subsection (a) amounts received from sources other than the Government for reimbursement for expenses incurred by the Secretary in providing training.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1327][/us/stat/108/1327]; [Pub. L. 104–304, § 21][/us/pl/104/304/s21], Oct. 12, 1996, [110 Stat. 3805][/us/stat/110/3805]; [Pub. L. 107–355, § 22][/us/pl/107/355/s22], Dec. 17, 2002, [116 Stat. 3010][/us/stat/116/3010]; [Pub. L. 109–468, § 18(a)][/us/pl/109/468/s18/a]–(c), Dec. 29, 2006, [120 Stat. 3497][/us/stat/120/3497], 3498; [Pub. L. 112–90, § 32(a)][/us/pl/112/90/s32/a], (b), Jan. 3, 2012, [125 Stat. 1922][/us/stat/125/1922].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1327][/us/stat/108/1327]; [Pub. L. 104–304][/us/pl/104/304], § 21, Oct. 12, 1996, [110 Stat. 3805][/us/stat/110/3805]; [Pub. L. 107–355][/us/pl/107/355], § 22, Dec. 17, 2002, [116 Stat. 3010][/us/stat/116/3010]; [Pub. L. 109–468][/us/pl/109/468], § 18(a)–(c), Dec. 29, 2006, [120 Stat. 3497][/us/stat/120/3497], 3498; [Pub. L. 112–90][/us/pl/112/90], § 32(a), (b), Jan. 3, 2012, [125 Stat. 1922][/us/stat/125/1922].)
 
 <table>
 
@@ -211,23 +211,23 @@ Aug. 12, 1968, Pub. L. 90–481, 82 Stat. 720, § 17(e); added Oct. 31, 1988, 
 
  __Amendments__ 
 
-    2012—Subsec. (a). [Pub. L. 112–90, § 32(a)][/us/pl/112/90/s32/a], amended subsec. (a) generally. Prior to amendment, subsec. (a) authorized appropriations and trust fund amounts for gas and hazardous liquid transportation for fiscal years 2007 through 2010.
+    2012—Subsec. (a). [Pub. L. 112–90][/us/pl/112/90], § 32(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) authorized appropriations and trust fund amounts for gas and hazardous liquid transportation for fiscal years 2007 through 2010.
 
-    Subsec. (b)(2). [Pub. L. 112–90, § 32(b)][/us/pl/112/90/s32/b], substituted “2012 through 2015” for “2007 through 2010”.
+    Subsec. (b)(2). [Pub. L. 112–90][/us/pl/112/90], § 32(b), substituted “2012 through 2015” for “2007 through 2010”.
 
-    2006—Subsec. (a). [Pub. L. 109–468, § 18(a)][/us/pl/109/468/s18/a], amended subsec. (a) generally. Prior to amendment, subsec. (a) authorized appropriations for gas and hazardous liquid transportation for fiscal years 2003 through 2006.
+    2006—Subsec. (a). [Pub. L. 109–468][/us/pl/109/468], § 18(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) authorized appropriations for gas and hazardous liquid transportation for fiscal years 2003 through 2006.
 
-    Subsec. (b). [Pub. L. 109–468, § 18(b)][/us/pl/109/468/s18/b], redesignated subsec. (d) as (b) and struck out former subsec. (b) which limited appropriation amounts for fiscal years 2003 through 2006 to carry out [section 60107 of this title][/us/usc/t49/s60107].
+    Subsec. (b). [Pub. L. 109–468][/us/pl/109/468], § 18(b), redesignated subsec. (d) as (b) and struck out former subsec. (b) which limited appropriation amounts for fiscal years 2003 through 2006 to carry out [section 60107 of this title][/us/usc/t49/s60107].
 
-    Subsec. (b)(1). [Pub. L. 109–468, § 18(c)(1)][/us/pl/109/468/s18/c/1], inserted at end “To the extent that such grants are used to train emergency responders, such training shall ensure that emergency responders have the ability to protect nearby persons, property, and the environment from the effects of accidents or incidents involving gas or hazardous liquid pipelines, in accordance with existing regulations.”
+    Subsec. (b)(1). [Pub. L. 109–468][/us/pl/109/468], § 18(c)(1), inserted at end “To the extent that such grants are used to train emergency responders, such training shall ensure that emergency responders have the ability to protect nearby persons, property, and the environment from the effects of accidents or incidents involving gas or hazardous liquid pipelines, in accordance with existing regulations.”
 
-    Subsec. (b)(2). [Pub. L. 109–468, § 18(c)(2)][/us/pl/109/468/s18/c/2], substituted “$10,000,000” for “$6,000,000” and “2007 through 2010” for “2003 through 2006”.
+    Subsec. (b)(2). [Pub. L. 109–468][/us/pl/109/468], § 18(c)(2), substituted “$10,000,000” for “$6,000,000” and “2007 through 2010” for “2003 through 2006”.
 
-    Subsec. (c). [Pub. L. 109–468, § 18(b)][/us/pl/109/468/s18/b], redesignated subsec. (e) as (c) and struck out heading and text of former subsec. (c). Text read as follows: “Of the amounts available in the Oil Spill Liability Trust Fund, $8,000,000 shall be transferred to the Secretary of Transportation, as provided in appropriation Acts, to carry out programs authorized in this chapter for each of fiscal years 2003 through 2006.”
+    Subsec. (c). [Pub. L. 109–468][/us/pl/109/468], § 18(b), redesignated subsec. (e) as (c) and struck out heading and text of former subsec. (c). Text read as follows: “Of the amounts available in the Oil Spill Liability Trust Fund, $8,000,000 shall be transferred to the Secretary of Transportation, as provided in appropriation Acts, to carry out programs authorized in this chapter for each of fiscal years 2003 through 2006.”
 
-    Subsecs. (d), (e). [Pub. L. 109–468, § 18(b)][/us/pl/109/468/s18/b], redesignated subsecs. (d) and (e) as (b) and (c), respectively.
+    Subsecs. (d), (e). [Pub. L. 109–468][/us/pl/109/468], § 18(b), redesignated subsecs. (d) and (e) as (b) and (c), respectively.
 
-    2002—Subsec. (a). [Pub. L. 107–355, § 22(a)][/us/pl/107/355/s22/a], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “To carry out this chapter (except for sections 60107 and 60114(b)) related to gas and hazardous liquid, there are authorized to be appropriated to the Department of Transportation—
+    2002—Subsec. (a). [Pub. L. 107–355][/us/pl/107/355], § 22(a), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “To carry out this chapter (except for sections 60107 and 60114(b)) related to gas and hazardous liquid, there are authorized to be appropriated to the Department of Transportation—
 
     “(1) $19,448,000 for fiscal year 1996;
 
@@ -239,7 +239,7 @@ Aug. 12, 1968, Pub. L. 90–481, 82 Stat. 720, § 17(e); added Oct. 31, 1988, 
 
     “(5) $22,194,000 for fiscal year 2000, of which $16,300,000 is to be derived from user fees for fiscal year 2000 collected under [section 60301 of this title][/us/usc/t49/s60301].”
 
-    Subsec. (b). [Pub. L. 107–355, § 22(b)(1)][/us/pl/107/355/s22/b/1], redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows:
+    Subsec. (b). [Pub. L. 107–355][/us/pl/107/355], § 22(b)(1), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows:
 
     “(b) Hazardous Liquid.—Not more than the following amounts may be appropriated to the Secretary to carry out this chapter (except sections 60107 and 60114(b)) related to hazardous liquid:
 
@@ -249,7 +249,7 @@ Aug. 12, 1968, Pub. L. 90–481, 82 Stat. 720, § 17(e); added Oct. 31, 1988, 
 
     “(3) $2,000,000 for the fiscal year ending September 30, 1995.”
 
-    Subsec. (b)(1). [Pub. L. 107–355, § 22(b)(2)][/us/pl/107/355/s22/b/2], added subpars. (A) to (D) and struck out former subpars. (A) to (H) which read as follows:
+    Subsec. (b)(1). [Pub. L. 107–355][/us/pl/107/355], § 22(b)(2), added subpars. (A) to (D) and struck out former subpars. (A) to (H) which read as follows:
 
     “(A) $7,750,000 for the fiscal year ending September 30, 1993.
 
@@ -267,15 +267,15 @@ Aug. 12, 1968, Pub. L. 90–481, 82 Stat. 720, § 17(e); added Oct. 31, 1988, 
 
     “(H) $15,524,000 for fiscal year 2000, of which $13,700,000 is to be derived from user fees for fiscal year 2000 collected under [section 60301 of this title][/us/usc/t49/s60301].”
 
-    Subsec. (c). [Pub. L. 107–355, § 22(c)][/us/pl/107/355/s22/c], added subsec. (c). Former subsec. (c) redesignated (b).
+    Subsec. (c). [Pub. L. 107–355][/us/pl/107/355], § 22(c), added subsec. (c). Former subsec. (c) redesignated (b).
 
-    Subsec. (d). [Pub. L. 107–355, § 22(b)(1)][/us/pl/107/355/s22/b/1], (c), added subsec. (d) and struck out former subsec. (d) which read as follows:
+    Subsec. (d). [Pub. L. 107–355][/us/pl/107/355], § 22(b)(1), (c), added subsec. (d) and struck out former subsec. (d) which read as follows:
 
     “(d) Grants for One-Call Notification Systems.—Not more than $\_\_\_\_\_ may be appropriated to the Secretary for the fiscal year ending September 30, 19\_, to carry out [section 60114(b) of this title][/us/usc/t49/s60114/b]. Amounts under this subsection remain available until expended.”
 
-    Subsec. (e). [Pub. L. 107–355, § 22(d)][/us/pl/107/355/s22/d], struck out “or (b) of this section” after “under subsection (a)”.
+    Subsec. (e). [Pub. L. 107–355][/us/pl/107/355], § 22(d), struck out “or (b) of this section” after “under subsection (a)”.
 
-    Subsec. (f). [Pub. L. 107–355, § 22(b)(1)][/us/pl/107/355/s22/b/1], struck out subsec. (f) which read as follows:
+    Subsec. (f). [Pub. L. 107–355][/us/pl/107/355], § 22(b)(1), struck out subsec. (f) which read as follows:
 
     “(f) Availability of Unused Amounts for Grants.—(1) The Secretary shall make available for grants to States amounts appropriated for each of the fiscal years that ended September 30, 1986, and 1987, that have not been expended in making grants under [section 60107 of this title][/us/usc/t49/s60107].
 
@@ -291,7 +291,7 @@ Aug. 12, 1968, Pub. L. 90–481, 82 Stat. 720, § 17(e); added Oct. 31, 1988, 
 
     “(5) Amounts under this subsection remain available until expended.”
 
-    1996—Subsec. (a). [Pub. L. 104–304, § 21(a)(1)][/us/pl/104/304/s21/a/1], added subsec. (a) and struck out former subsec. (a) which read as follows:
+    1996—Subsec. (a). [Pub. L. 104–304][/us/pl/104/304], § 21(a)(1), added subsec. (a) and struck out former subsec. (a) which read as follows:
 
     “(a) Gas.—Not more than the following amounts may be appropriated to the Secretary of Transportation to carry out this chapter (except sections 60107 and 60114(b)) related to gas:
 
@@ -301,7 +301,7 @@ Aug. 12, 1968, Pub. L. 90–481, 82 Stat. 720, § 17(e); added Oct. 31, 1988, 
 
     “(3) $7,500,000 for the fiscal year ending September 30, 1995.”
 
-    Subsec. (c)(1). [Pub. L. 104–304, § 21(b)][/us/pl/104/304/s21/b], added subpars. (D) to (H).
+    Subsec. (c)(1). [Pub. L. 104–304][/us/pl/104/304], § 21(b), added subpars. (D) to (H).
 
 ----------
 
@@ -314,44 +314,44 @@ Aug. 12, 1968, Pub. L. 90–481, 82 Stat. 720, § 17(e); added Oct. 31, 1988, 
 [/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355
 [/us/usc/t49/s60101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs60101
 [/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1327
-[/us/pl/104/304/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304%2Fs21
+[/us/pl/104/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304
 [/us/stat/110/3805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3805
-[/us/pl/107/355/s22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355%2Fs22
+[/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355
 [/us/stat/116/3010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3010
-[/us/pl/109/468/s18/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F468%2Fs18%2Fa
+[/us/pl/109/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F468
 [/us/stat/120/3497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3497
-[/us/pl/112/90/s32/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90%2Fs32%2Fa
+[/us/pl/112/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90
 [/us/stat/125/1922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1922
-[/us/pl/112/90/s32/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90%2Fs32%2Fa
-[/us/pl/112/90/s32/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90%2Fs32%2Fb
-[/us/pl/109/468/s18/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F468%2Fs18%2Fa
-[/us/pl/109/468/s18/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F468%2Fs18%2Fb
+[/us/pl/112/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90
+[/us/pl/112/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90
+[/us/pl/109/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F468
+[/us/pl/109/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F468
 [/us/usc/t49/s60107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs60107
-[/us/pl/109/468/s18/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F468%2Fs18%2Fc%2F1
-[/us/pl/109/468/s18/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F468%2Fs18%2Fc%2F2
-[/us/pl/109/468/s18/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F468%2Fs18%2Fb
-[/us/pl/109/468/s18/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F468%2Fs18%2Fb
-[/us/pl/107/355/s22/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355%2Fs22%2Fa
+[/us/pl/109/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F468
+[/us/pl/109/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F468
+[/us/pl/109/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F468
+[/us/pl/109/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F468
+[/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355
 [/us/usc/t49/s60301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs60301
 [/us/usc/t49/s60301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs60301
 [/us/usc/t49/s60301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs60301
 [/us/usc/t49/s60301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs60301
-[/us/pl/107/355/s22/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355%2Fs22%2Fb%2F1
-[/us/pl/107/355/s22/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355%2Fs22%2Fb%2F2
+[/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355
+[/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355
 [/us/usc/t49/s60301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs60301
 [/us/usc/t49/s60301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs60301
 [/us/usc/t49/s60301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs60301
 [/us/usc/t49/s60301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs60301
-[/us/pl/107/355/s22/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355%2Fs22%2Fc
-[/us/pl/107/355/s22/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355%2Fs22%2Fb%2F1
+[/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355
+[/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355
 [/us/usc/t49/s60114/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs60114%2Fb
-[/us/pl/107/355/s22/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355%2Fs22%2Fd
-[/us/pl/107/355/s22/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355%2Fs22%2Fb%2F1
+[/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355
+[/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355
 [/us/usc/t49/s60107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs60107
 [/us/usc/t49/s60105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs60105
-[/us/pl/104/304/s21/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304%2Fs21%2Fa%2F1
-[/us/pl/104/304/s21/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304%2Fs21%2Fb
+[/us/pl/104/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304
+[/us/pl/104/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304
 
 

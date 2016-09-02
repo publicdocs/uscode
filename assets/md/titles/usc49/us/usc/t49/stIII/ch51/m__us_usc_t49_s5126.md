@@ -27,7 +27,7 @@
 
         (2) any matter that is subject to the postal laws and regulations of the United States under this chapter or title 18 or 39.
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 783][/us/stat/108/783]; [Pub. L. 103–311, title I, § 117(a)(2)][/us/pl/103/311/s117/a/2], Aug. 26, 1994, [108 Stat. 1678][/us/stat/108/1678]; [Pub. L. 109–59, title VII, § 7124][/us/pl/109/59/s7124], Aug. 10, 2005, [119 Stat. 1908][/us/stat/119/1908]; [Pub. L. 110–244, title III, § 302(d)][/us/pl/110/244/s302/d], June 6, 2008, [122 Stat. 1618][/us/stat/122/1618].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(d), July 5, 1994, [108 Stat. 783][/us/stat/108/783]; [Pub. L. 103–311, title I][/us/pl/103/311/tI], § 117(a)(2), Aug. 26, 1994, [108 Stat. 1678][/us/stat/108/1678]; [Pub. L. 109–59, title VII][/us/pl/109/59/tVII], § 7124, Aug. 10, 2005, [119 Stat. 1908][/us/stat/119/1908]; [Pub. L. 110–244, title III][/us/pl/110/244/tIII], § 302(d), June 6, 2008, [122 Stat. 1618][/us/stat/122/1618].)
 
 <table>
 
@@ -97,11 +97,11 @@ Jan. 3, 1975, Pub. L. 93–633, § 112(f), 88 Stat. 2161; Nov. 30, 1979, Pub. 
 
     2008—Subsec. (a). [Pub. L. 110–244][/us/pl/110/244] amended [Pub. L. 109–59][/us/pl/109/59]. See 2005 Amendment note below.
 
-    2005—Subsec. (a). [Pub. L. 109–59, § 7124(4)][/us/pl/109/59/s7124/4], substituted “designing, manufacturing, fabricating, inspecting, marking, maintaining, reconditioning, repairing, or testing” for “manufacturing, fabricating, marking, maintenance, reconditioning, repairing, or testing”.
+    2005—Subsec. (a). [Pub. L. 109–59][/us/pl/109/59], § 7124(4), substituted “designing, manufacturing, fabricating, inspecting, marking, maintaining, reconditioning, repairing, or testing” for “manufacturing, fabricating, marking, maintenance, reconditioning, repairing, or testing”.
 
-    [Pub. L. 109–59, § 7124(3)][/us/pl/109/59/s7124/3], as amended by [Pub. L. 110–244][/us/pl/110/244], substituted “shall comply with this chapter” for “must comply with this chapter”.
+    [Pub. L. 109–59][/us/pl/109/59], § 7124(3), as amended by [Pub. L. 110–244][/us/pl/110/244], substituted “shall comply with this chapter” for “must comply with this chapter”.
 
-    [Pub. L. 109–59, § 7124(1)][/us/pl/109/59/s7124/1], (2), substituted “transports hazardous material, or causes hazardous material to be transported,” for “transports or causes to be transported hazardous material,” and “designs, manufactures, fabricates, inspects, marks, maintains, reconditions, repairs, or tests a package, container, or packaging component that is represented” for “manufactures, fabricates, marks, maintains, reconditions, repairs, or tests a packaging or a container that the person represents, marks, certifies, or sells”.
+    [Pub. L. 109–59][/us/pl/109/59], § 7124(1), (2), substituted “transports hazardous material, or causes hazardous material to be transported,” for “transports or causes to be transported hazardous material,” and “designs, manufactures, fabricates, inspects, marks, maintains, reconditions, repairs, or tests a package, container, or packaging component that is represented” for “manufactures, fabricates, marks, maintains, reconditions, repairs, or tests a packaging or a container that the person represents, marks, certifies, or sells”.
 
     1994—Subsec. (a). [Pub. L. 103–311][/us/pl/103/311] substituted “a packaging or a” for “a package or”.
 
@@ -116,20 +116,20 @@ Jan. 3, 1975, Pub. L. 93–633, § 112(f), 88 Stat. 2161; Nov. 30, 1979, Pub. 
 ----------
 ----------
 
-[/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F783
-[/us/pl/103/311/s117/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311%2Fs117%2Fa%2F2
+[/us/pl/103/311/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311%2FtI
 [/us/stat/108/1678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1678
-[/us/pl/109/59/s7124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7124
+[/us/pl/109/59/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtVII
 [/us/stat/119/1908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1908
-[/us/pl/110/244/s302/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs302%2Fd
+[/us/pl/110/244/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2FtIII
 [/us/stat/122/1618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1618
 [/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
-[/us/pl/109/59/s7124/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7124%2F4
-[/us/pl/109/59/s7124/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7124%2F3
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
-[/us/pl/109/59/s7124/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7124%2F1
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/103/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311
 [/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59

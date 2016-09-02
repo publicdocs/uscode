@@ -83,9 +83,9 @@
 
  __Amendments__ 
 
-    2005—[Pub. L. 109–59, title IV][/us/pl/109/59], §§ 4305(c), 4306(b), Aug. 10, 2005, [119 Stat. 1773][/us/stat/119/1773], 1774, added items 14504a and 14506.
+    2005—[Pub. L. 109–59, title IV][/us/pl/109/59/tIV], §§ 4305(c), 4306(b), Aug. 10, 2005, [119 Stat. 1773][/us/stat/119/1773], 1774, added items 14504a and 14506.
 
-    [Pub. L. 109–59, title IV, § 4305(a)][/us/pl/109/59/s4305/a], Aug. 10, 2005, [119 Stat. 1764][/us/stat/119/1764], as amended by [Pub. L. 110–53, title XV, § 1537(c)][/us/pl/110/53/s1537/c], Aug. 3, 2007, [121 Stat. 467][/us/stat/121/467], struck out item 14504 “Registration of motor carriers by a State”, effective Jan. 1, 2008.
+    [Pub. L. 109–59, title IV][/us/pl/109/59/tIV], § 4305(a), Aug. 10, 2005, [119 Stat. 1764][/us/stat/119/1764], as amended by [Pub. L. 110–53, title XV][/us/pl/110/53/tXV], § 1537(c), Aug. 3, 2007, [121 Stat. 467][/us/stat/121/467], struck out item 14504 “Registration of motor carriers by a State”, effective Jan. 1, 2008.
 
 ----------
 
@@ -94,11 +94,11 @@
 ----------
 ----------
 
-[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIV
 [/us/stat/119/1773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1773
-[/us/pl/109/59/s4305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4305%2Fa
+[/us/pl/109/59/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIV
 [/us/stat/119/1764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1764
-[/us/pl/110/53/s1537/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1537%2Fc
+[/us/pl/110/53/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXV
 [/us/stat/121/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F467
 
 

@@ -43,7 +43,7 @@
 
         In the absence of an appropriation under this subsection for an expense referred to in paragraph (1), the Inspector General and the Board shall have a reimbursement agreement to cover such expense.
 
-(Added [Pub. L. 114–110, § 9][/us/pl/114/110/s9], Dec. 18, 2015, [129 Stat. 2232][/us/stat/129/2232].)
+(Added [Pub. L. 114–110][/us/pl/114/110], § 9, Dec. 18, 2015, [129 Stat. 2232][/us/stat/129/2232].)
 
  __References in Text__ 
 
@@ -56,7 +56,7 @@
 ----------
 ----------
 
-[/us/pl/114/110/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F110%2Fs9
+[/us/pl/114/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F110
 [/us/stat/129/2232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2232
 [/us/pl/95/452/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452%2Fs6
 

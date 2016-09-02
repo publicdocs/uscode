@@ -67,7 +67,7 @@
 
     In order for any model of dual fueled automobile to be eligible to receive the fuel economy incentives included in section 32906(a) and (b), a label shall be attached to the fuel compartment of each dual fueled automobile of that model, notifying that the vehicle can be operated on an alternative fuel and on gasoline or diesel, with the form of alternative fuel stated on the notice. This requirement applies to dual fueled automobiles manufactured on or after September 1, 2006.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1065][/us/stat/108/1065]; [Pub. L. 104–287, § 5(63)][/us/pl/104/287/s5/63], Oct. 11, 1996, [110 Stat. 3395][/us/stat/110/3395]; [Pub. L. 109–58, title VII][/us/pl/109/58], §§ 759, 772(a), Aug. 8, 2005, [119 Stat. 833][/us/stat/119/833], 834; [Pub. L. 110–140, title I, § 109(b)][/us/pl/110/140/s109/b], (c), Dec. 19, 2007, [121 Stat. 1506][/us/stat/121/1506]; [Pub. L. 113–291, div. A, title III, § 318(c)][/us/pl/113/291/s318/c], Dec. 19, 2014, [128 Stat. 3341][/us/stat/128/3341].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1065][/us/stat/108/1065]; [Pub. L. 104–287][/us/pl/104/287], § 5(63), Oct. 11, 1996, [110 Stat. 3395][/us/stat/110/3395]; [Pub. L. 109–58, title VII][/us/pl/109/58/tVII], §§ 759, 772(a), Aug. 8, 2005, [119 Stat. 833][/us/stat/119/833], 834; [Pub. L. 110–140, title I][/us/pl/110/140/tI], § 109(b), (c), Dec. 19, 2007, [121 Stat. 1506][/us/stat/121/1506]; [Pub. L. 113–291, div. A, title III][/us/pl/113/291/dA/tIII], § 318(c), Dec. 19, 2014, [128 Stat. 3341][/us/stat/128/3341].)
 
 <table>
 
@@ -211,21 +211,21 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, § 513(a)–(f); added Oct. 14,
 
     2014—Subsecs. (e) to (g). [Pub. L. 113–291][/us/pl/113/291] added subsec. (e) and redesignated former subsecs. (e) and (f) as (f) and (g), respectively.
 
-    2007—Subsec. (b). [Pub. L. 110–140, § 109(b)(1)][/us/pl/110/140/s109/b/1], substituted “1993 through 2019” for “1993–2010” in introductory provisions.
+    2007—Subsec. (b). [Pub. L. 110–140][/us/pl/110/140], § 109(b)(1), substituted “1993 through 2019” for “1993–2010” in introductory provisions.
 
-    Subsec. (b)(2). [Pub. L. 110–140, § 109(c)][/us/pl/110/140/s109/c], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “.5 divided by the fuel economy measured under subsection (a) of this section when operating the model on alternative fuel.”
+    Subsec. (b)(2). [Pub. L. 110–140][/us/pl/110/140], § 109(c), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “.5 divided by the fuel economy measured under subsection (a) of this section when operating the model on alternative fuel.”
 
-    Subsec. (d). [Pub. L. 110–140, § 109(b)(2)][/us/pl/110/140/s109/b/2], substituted “1993 through 2019” for “1993–2010” in introductory provisions.
+    Subsec. (d). [Pub. L. 110–140][/us/pl/110/140], § 109(b)(2), substituted “1993 through 2019” for “1993–2010” in introductory provisions.
 
-    Subsecs. (f) to (h). [Pub. L. 110–140, § 109(b)(3)][/us/pl/110/140/s109/b/3], (4), redesignated subsec. (h) as (f) and struck out former subsecs. (f) and (g) which related to temporary extension of application of subsecs. (b) and (d) and study and report on success of the policy of subsecs. (b) and (d), respectively.
+    Subsecs. (f) to (h). [Pub. L. 110–140][/us/pl/110/140], § 109(b)(3), (4), redesignated subsec. (h) as (f) and struck out former subsecs. (f) and (g) which related to temporary extension of application of subsecs. (b) and (d) and study and report on success of the policy of subsecs. (b) and (d), respectively.
 
-    2005—Subsecs. (b), (d). [Pub. L. 109–58, § 772(a)(1)][/us/pl/109/58/s772/a/1], substituted “1993–2010” for “1993–2004” in introductory provisions.
+    2005—Subsecs. (b), (d). [Pub. L. 109–58][/us/pl/109/58], § 772(a)(1), substituted “1993–2010” for “1993–2004” in introductory provisions.
 
-    Subsec. (f). [Pub. L. 109–58, § 772(a)(2)][/us/pl/109/58/s772/a/2], substituted “2007” for “2001” in introductory provisions.
+    Subsec. (f). [Pub. L. 109–58][/us/pl/109/58], § 772(a)(2), substituted “2007” for “2001” in introductory provisions.
 
-    Subsec. (f)(1). [Pub. L. 109–58, § 772(a)(3)][/us/pl/109/58/s772/a/3], substituted “2010” for “2004”.
+    Subsec. (f)(1). [Pub. L. 109–58][/us/pl/109/58], § 772(a)(3), substituted “2010” for “2004”.
 
-    Subsec. (h). [Pub. L. 109–58, § 759][/us/pl/109/58/s759], added subsec. (h).
+    Subsec. (h). [Pub. L. 109–58][/us/pl/109/58], § 759, added subsec. (h).
 
     1996—Subsec. (g). [Pub. L. 104–287][/us/pl/104/287] substituted “Committee on Commerce” for “Committee on Energy and Commerce”.
 
@@ -245,25 +245,25 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, § 513(a)–(f); added Oct. 14,
 [/us/usc/t49/s32904/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs32904%2Fc
 [/us/usc/t49/s32904/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs32904%2Fc
 [/us/usc/t49/s32904/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs32904%2Fa%2F1
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1065
-[/us/pl/104/287/s5/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F63
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3395
-[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtVII
 [/us/stat/119/833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F833
-[/us/pl/110/140/s109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs109%2Fb
+[/us/pl/110/140/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtI
 [/us/stat/121/1506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1506
-[/us/pl/113/291/s318/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs318%2Fc
+[/us/pl/113/291/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtIII
 [/us/stat/128/3341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3341
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
-[/us/pl/110/140/s109/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs109%2Fb%2F1
-[/us/pl/110/140/s109/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs109%2Fc
-[/us/pl/110/140/s109/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs109%2Fb%2F2
-[/us/pl/110/140/s109/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs109%2Fb%2F3
-[/us/pl/109/58/s772/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs772%2Fa%2F1
-[/us/pl/109/58/s772/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs772%2Fa%2F2
-[/us/pl/109/58/s772/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs772%2Fa%2F3
-[/us/pl/109/58/s759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs759
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/110/140/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1601

@@ -17,7 +17,7 @@
 
  __Prior Provisions__ 
 
-    A prior subchapter IV consisted of sections 31161 and 31162, prior to repeal by [Pub. L. 105–178, title IV, § 4010][/us/pl/105/178/s4010], June 9, 1998, [112 Stat. 407][/us/stat/112/407].
+    A prior subchapter IV consisted of sections 31161 and 31162, prior to repeal by [Pub. L. 105–178, title IV][/us/pl/105/178/tIV], § 4010, June 9, 1998, [112 Stat. 407][/us/stat/112/407].
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/105/178/s4010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4010
+[/us/pl/105/178/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtIV
 [/us/stat/112/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F407
 
 

@@ -39,7 +39,7 @@
 
     (8) “trailer” means a nonpower, property-carrying, trailing unit that is designed for use in combination with a truck tractor.
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 859][/us/stat/108/859]; [Pub. L. 104–291, title II, § 203][/us/pl/104/291/s203], Oct. 11, 1996, [110 Stat. 3453][/us/stat/110/3453]; [Pub. L. 109–304, § 17(h)(2)][/us/pl/109/304/s17/h/2], Oct. 6, 2006, [120 Stat. 1709][/us/stat/120/1709].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(d), July 5, 1994, [108 Stat. 859][/us/stat/108/859]; [Pub. L. 104–291, title II][/us/pl/104/291/tII], § 203, Oct. 11, 1996, [110 Stat. 3453][/us/stat/110/3453]; [Pub. L. 109–304][/us/pl/109/304], § 17(h)(2), Oct. 6, 2006, [120 Stat. 1709][/us/stat/120/1709].)
 
 <table>
 
@@ -181,9 +181,9 @@ Source (Statutes at Large)  </td>
 
     2006—Par. (3)(B). [Pub. L. 109–304][/us/pl/109/304] substituted “[section 40102 of title 46][/us/usc/t46/s40102]” for “section 3 of the Shipping Act of 1984 (46 App. U.S.C. 1702)”.
 
-    1996—Par. (1). [Pub. L. 104–291, § 203(1)][/us/pl/104/291/s203/1], added par. (1) and struck out former par. (1) which read as follows: “the definitions in [section 10102 of this title][/us/usc/t49/s10102] apply.”
+    1996—Par. (1). [Pub. L. 104–291][/us/pl/104/291], § 203(1), added par. (1) and struck out former par. (1) which read as follows: “the definitions in [section 10102 of this title][/us/usc/t49/s10102] apply.”
 
-    Pars. (6) to (8). [Pub. L. 104–291, § 203(2)][/us/pl/104/291/s203/2], (3), added par. (6) and redesignated former pars. (6) and (7) as (7) and (8), respectively.
+    Pars. (6) to (8). [Pub. L. 104–291][/us/pl/104/291], § 203(2), (3), added par. (6) and redesignated former pars. (6) and (7) as (7) and (8), respectively.
 
 ----------
 
@@ -193,17 +193,17 @@ Source (Statutes at Large)  </td>
 ----------
 
 [/us/usc/t46/s40102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs40102
-[/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F859
-[/us/pl/104/291/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F291%2Fs203
+[/us/pl/104/291/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F291%2FtII
 [/us/stat/110/3453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3453
-[/us/pl/109/304/s17/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs17%2Fh%2F2
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1709
 [/us/usc/t49/s10102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs10102
 [/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/usc/t46/s40102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs40102
-[/us/pl/104/291/s203/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F291%2Fs203%2F1
+[/us/pl/104/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F291
 [/us/usc/t49/s10102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs10102
-[/us/pl/104/291/s203/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F291%2Fs203%2F2
+[/us/pl/104/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F291
 
 

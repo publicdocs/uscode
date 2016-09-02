@@ -77,7 +77,7 @@ Amendments  </td>
 
 </table>
 
-    1995—[Pub. L. 104–88, title II, § 201(b)][/us/pl/104/88/s201/b], Dec. 29, 1995, [109 Stat. 940][/us/stat/109/940], added item for chapter 7.
+    1995—[Pub. L. 104–88, title II][/us/pl/104/88/tII], § 201(b), Dec. 29, 1995, [109 Stat. 940][/us/stat/109/940], added item for chapter 7.
 
 ----------
 
@@ -86,7 +86,7 @@ Amendments  </td>
 ----------
 ----------
 
-[/us/pl/104/88/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs201%2Fb
+[/us/pl/104/88/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtII
 [/us/stat/109/940]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F940
 
 

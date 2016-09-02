@@ -29,7 +29,7 @@
 
     (6) a system of monitoring safety procedures for transporting the hazardous material.
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 763][/us/stat/108/763]; [Pub. L. 109–59, title VII, § 7126][/us/pl/109/59/s7126], Aug. 10, 2005, [119 Stat. 1909][/us/stat/119/1909].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(d), July 5, 1994, [108 Stat. 763][/us/stat/108/763]; [Pub. L. 109–59, title VII][/us/pl/109/59/tVII], § 7126, Aug. 10, 2005, [119 Stat. 1909][/us/stat/119/1909].)
 
 <table>
 
@@ -90,9 +90,9 @@ Jan. 3, 1975, Pub. L. 93–633, § 106(a), 88 Stat. 2157.  </td>
 ----------
 ----------
 
-[/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F763
-[/us/pl/109/59/s7126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7126
+[/us/pl/109/59/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtVII
 [/us/stat/119/1909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1909
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 

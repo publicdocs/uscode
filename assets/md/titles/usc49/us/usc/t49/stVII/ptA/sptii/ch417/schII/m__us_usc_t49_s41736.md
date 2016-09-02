@@ -91,7 +91,7 @@
 
     An air carrier providing air transportation for compensation under this section may end, suspend, or reduce that transportation below the level of transportation established by the Secretary under this section only after giving the Secretary, the affected community, and the State or local government or person paying compensation under this section at least 30 days’ notice before ending, suspending, or reducing the transportation.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1149][/us/stat/108/1149]; [Pub. L. 106–181, title II, § 202][/us/pl/106/181/s202], Apr. 5, 2000, [114 Stat. 91][/us/stat/114/91].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1149][/us/stat/108/1149]; [Pub. L. 106–181, title II][/us/pl/106/181/tII], § 202, Apr. 5, 2000, [114 Stat. 91][/us/stat/114/91].)
 
 <table>
 
@@ -249,7 +249,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 419(d); added Oct. 24, 1978,
 
  __References in Text__ 
 
-    Section 401 of the Federal Aviation Act of 1958, referred to in subsec. (b)(1), is [section 401 of Pub. L. 85–726][/us/pl/85/726/s401], which was classified to section 1371 of former Title 49, Transportation, and was repealed by [Pub. L. 103–272, § 7(b)][/us/pl/103/272/s7/b], July 5, 1994, [108 Stat. 1379][/us/stat/108/1379], the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation. For disposition of section 1371 of former Title 49, see Table at the beginning of Title 49.
+    Section 401 of the Federal Aviation Act of 1958, referred to in subsec. (b)(1), is [section 401 of Pub. L. 85–726][/us/pl/85/726/s401], which was classified to section 1371 of former Title 49, Transportation, and was repealed by [Pub. L. 103–272][/us/pl/103/272], § 7(b), July 5, 1994, [108 Stat. 1379][/us/stat/108/1379], the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation. For disposition of section 1371 of former Title 49, see Table at the beginning of Title 49.
 
  __Amendments__ 
 
@@ -267,12 +267,12 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 419(d); added Oct. 24, 1978,
 ----------
 
 [/us/usc/t49/s41733/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs41733%2Fc%2F1
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1149
-[/us/pl/106/181/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs202
+[/us/pl/106/181/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtII
 [/us/stat/114/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F91
 [/us/pl/85/726/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F726%2Fs401
-[/us/pl/103/272/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs7%2Fb
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1379
 [/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181

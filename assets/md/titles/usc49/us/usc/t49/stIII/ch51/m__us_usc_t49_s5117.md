@@ -89,7 +89,7 @@
 
         (2) make available to the public on the Department of Transportation’s Internet Web site notice of the final disposition of any other special permit during the preceding quarter.
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 776][/us/stat/108/776]; [Pub. L. 103–311, title I, § 120(a)][/us/pl/103/311/s120/a], Aug. 26, 1994, [108 Stat. 1680][/us/stat/108/1680]; [Pub. L. 109–59, title VII][/us/pl/109/59], §§ 7115(a)(1), (b)–(g), 7126, Aug. 10, 2005, [119 Stat. 1901][/us/stat/119/1901], 1909; [Pub. L. 112–141, div. C, title III, § 33012(c)][/us/pl/112/141/s33012/c], July 6, 2012, [126 Stat. 839][/us/stat/126/839]; [Pub. L. 114–94, div. A, title VII, § 7204][/us/pl/114/94/s7204], Dec. 4, 2015, [129 Stat. 1592][/us/stat/129/1592].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(d), July 5, 1994, [108 Stat. 776][/us/stat/108/776]; [Pub. L. 103–311, title I][/us/pl/103/311/tI], § 120(a), Aug. 26, 1994, [108 Stat. 1680][/us/stat/108/1680]; [Pub. L. 109–59, title VII][/us/pl/109/59/tVII], §§ 7115(a)(1), (b)–(g), 7126, Aug. 10, 2005, [119 Stat. 1901][/us/stat/119/1901], 1909; [Pub. L. 112–141, div. C, title III][/us/pl/112/141/dC/tIII], § 33012(c), July 6, 2012, [126 Stat. 839][/us/stat/126/839]; [Pub. L. 114–94, div. A, title VII][/us/pl/114/94/dA/tVII], § 7204, Dec. 4, 2015, [129 Stat. 1592][/us/stat/129/1592].)
 
 <table>
 
@@ -211,29 +211,29 @@ In subsection (c)(1), clauses (A) and (B) are substituted for “any vessel whic
 
  __Amendments__ 
 
-    2015—Subsec. (b). [Pub. L. 114–94, § 7204(1)][/us/pl/114/94/s7204/1], substituted “an application for a new special permit or a modification to an existing special permit” for “an application for a special permit” and inserted “The Secretary shall make available to the public on the Department of Transportation’s Internet Web site any special permit other than a new special permit or a modification to an existing special permit and shall give the public an opportunity to inspect the safety analysis and comment on the application for a period of not more than 15 days.” before “This subsection”.
+    2015—Subsec. (b). [Pub. L. 114–94][/us/pl/114/94], § 7204(1), substituted “an application for a new special permit or a modification to an existing special permit” for “an application for a special permit” and inserted “The Secretary shall make available to the public on the Department of Transportation’s Internet Web site any special permit other than a new special permit or a modification to an existing special permit and shall give the public an opportunity to inspect the safety analysis and comment on the application for a period of not more than 15 days.” before “This subsection”.
 
-    Subsec. (c). [Pub. L. 114–94, § 7204(2)][/us/pl/114/94/s7204/2], substituted “a special permit or approval” for “the special permit” in two places, “120 days” for “180 days”, and “make available to the public” for “publish”, and struck out “in the Federal Register” after “a statement”.
+    Subsec. (c). [Pub. L. 114–94][/us/pl/114/94], § 7204(2), substituted “a special permit or approval” for “the special permit” in two places, “120 days” for “180 days”, and “make available to the public” for “publish”, and struck out “in the Federal Register” after “a statement”.
 
-    Subsec. (g). [Pub. L. 114–94, § 7204(3)][/us/pl/114/94/s7204/3], added subsec. (g).
+    Subsec. (g). [Pub. L. 114–94][/us/pl/114/94], § 7204(3), added subsec. (g).
 
     2012—Subsec. (f). [Pub. L. 112–141][/us/pl/112/141] added subsec. (f).
 
-    2005—[Pub. L. 109–59, § 7115(a)(1)][/us/pl/109/59/s7115/a/1], substituted “Special permits and exclusions” for “Exemptions and exclusions” in section catchline.
+    2005—[Pub. L. 109–59][/us/pl/109/59], § 7115(a)(1), substituted “Special permits and exclusions” for “Exemptions and exclusions” in section catchline.
 
-    Subsec. (a). [Pub. L. 109–59, § 7115(b)][/us/pl/109/59/s7115/b], substituted “Issue Special Permits” for “Exempt” in heading.
+    Subsec. (a). [Pub. L. 109–59][/us/pl/109/59], § 7115(b), substituted “Issue Special Permits” for “Exempt” in heading.
 
-    Subsec. (a)(1). [Pub. L. 109–59, § 7126][/us/pl/109/59/s7126], substituted “Secretary” for “Secretary of Transportation” in introductory provisions.
+    Subsec. (a)(1). [Pub. L. 109–59][/us/pl/109/59], § 7126, substituted “Secretary” for “Secretary of Transportation” in introductory provisions.
 
-    [Pub. L. 109–59, § 7115(c)][/us/pl/109/59/s7115/c], in introductory provisions, substituted “issue, modify, or terminate a special permit authorizing a variance” for “issue an exemption” and “performing a function regulated by the Secretary under section 5103(b)(1)” for “transporting, or causing to be transported, hazardous material”.
+    [Pub. L. 109–59][/us/pl/109/59], § 7115(c), in introductory provisions, substituted “issue, modify, or terminate a special permit authorizing a variance” for “issue an exemption” and “performing a function regulated by the Secretary under section 5103(b)(1)” for “transporting, or causing to be transported, hazardous material”.
 
-    Subsec. (a)(2). [Pub. L. 109–59, § 7115(d)][/us/pl/109/59/s7115/d], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “An exemption under this subsection is effective for not more than 2 years and may be renewed on application to the Secretary.”
+    Subsec. (a)(2). [Pub. L. 109–59][/us/pl/109/59], § 7115(d), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “An exemption under this subsection is effective for not more than 2 years and may be renewed on application to the Secretary.”
 
-    Subsec. (b). [Pub. L. 109–59, § 7115(e)][/us/pl/109/59/s7115/e], substituted “the special permit” for “the exemption” and substituted “a special permit” for “an exemption” wherever appearing.
+    Subsec. (b). [Pub. L. 109–59][/us/pl/109/59], § 7115(e), substituted “the special permit” for “the exemption” and substituted “a special permit” for “an exemption” wherever appearing.
 
-    Subsec. (c). [Pub. L. 109–59, § 7115(f)][/us/pl/109/59/s7115/f], substituted “the special permit” for “the exemption” in two places.
+    Subsec. (c). [Pub. L. 109–59][/us/pl/109/59], § 7115(f), substituted “the special permit” for “the exemption” in two places.
 
-    Subsec. (e). [Pub. L. 109–59, § 7115(g)][/us/pl/109/59/s7115/g], substituted “a special permit” for “an exemption” and “be granted a variance” for “be exempt”.
+    Subsec. (e). [Pub. L. 109–59][/us/pl/109/59], § 7115(g), substituted “a special permit” for “an exemption” and “be granted a variance” for “be exempt”.
 
     1994—Subsecs. (c) to (e). [Pub. L. 103–311][/us/pl/103/311] added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 
@@ -247,7 +247,7 @@ In subsection (c)(1), clauses (A) and (B) are substituted for “any vessel whic
 
  __Special Permits, Approvals, and Exclusions__ 
 
-[Pub. L. 112–141, div. C, title III, § 33012(a)][/us/pl/112/141/s33012/a], (b), July 6, 2012, [126 Stat. 838][/us/stat/126/838], provided that:
+[Pub. L. 112–141, div. C, title III][/us/pl/112/141/dC/tIII], § 33012(a), (b), July 6, 2012, [126 Stat. 838][/us/stat/126/838], provided that:
 
 >     “(a)  __Rulemaking__  __.—__ 
 
@@ -290,32 +290,32 @@ In subsection (c)(1), clauses (A) and (B) are substituted for “any vessel whic
 [/us/usc/t46/s3702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs3702
 [/us/usc/t33/s1221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1221
 [/us/usc/t18/s232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs232
-[/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F776
-[/us/pl/103/311/s120/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311%2Fs120%2Fa
+[/us/pl/103/311/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311%2FtI
 [/us/stat/108/1680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1680
-[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtVII
 [/us/stat/119/1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1901
-[/us/pl/112/141/s33012/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs33012%2Fc
+[/us/pl/112/141/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtIII
 [/us/stat/126/839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F839
-[/us/pl/114/94/s7204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs7204
+[/us/pl/114/94/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtVII
 [/us/stat/129/1592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1592
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
 [/us/pl/92/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F340
 [/us/stat/86/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F424
 [/us/usc/t33/s1221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1221
-[/us/pl/114/94/s7204/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs7204%2F1
-[/us/pl/114/94/s7204/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs7204%2F2
-[/us/pl/114/94/s7204/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs7204%2F3
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
-[/us/pl/109/59/s7115/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7115%2Fa%2F1
-[/us/pl/109/59/s7115/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7115%2Fb
-[/us/pl/109/59/s7126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7126
-[/us/pl/109/59/s7115/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7115%2Fc
-[/us/pl/109/59/s7115/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7115%2Fd
-[/us/pl/109/59/s7115/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7115%2Fe
-[/us/pl/109/59/s7115/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7115%2Ff
-[/us/pl/109/59/s7115/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7115%2Fg
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/103/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
@@ -323,7 +323,7 @@ In subsection (c)(1), clauses (A) and (B) are substituted for “any vessel whic
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
-[/us/pl/112/141/s33012/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs33012%2Fa
+[/us/pl/112/141/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtIII
 [/us/stat/126/838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F838
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101

@@ -31,7 +31,7 @@
 
     The Secretary of Transportation or Commerce, as appropriate, may accept payment from a government of a foreign country or international organization for facilities or services sold or provided the government or organization under this chapter. The amount received may be credited to the appropriation current when the expenditures are or were paid, the appropriation current when the amount is received, or both.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1281][/us/stat/108/1281].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1281][/us/stat/108/1281].)
 
 <table>
 
@@ -144,7 +144,7 @@ June 16, 1948, ch. 473, § 5, 62 Stat. 451.  </td>
 
 [/us/usc/t49/s47304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs47304%2Fb
 [/us/usc/t49/s40102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40102%2Fa
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1281
 [/us/stat/62/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F451
 [/us/stat/79/1318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1318

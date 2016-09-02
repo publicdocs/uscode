@@ -31,7 +31,7 @@
 
         (2) a package, component of a package, or packaging, container, motor vehicle, rail freight car, aircraft, or vessel used to transport hazardous material.
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 761][/us/stat/108/761]; [Pub. L. 103–311, title I, § 117(b)][/us/pl/103/311/s117/b], Aug. 26, 1994, [108 Stat. 1678][/us/stat/108/1678]; [Pub. L. 103–429, § 6(4)][/us/pl/103/429/s6/4], Oct. 31, 1994, [108 Stat. 4378][/us/stat/108/4378]; [Pub. L. 109–59, title VII, § 7106][/us/pl/109/59/s7106], Aug. 10, 2005, [119 Stat. 1897][/us/stat/119/1897].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(d), July 5, 1994, [108 Stat. 761][/us/stat/108/761]; [Pub. L. 103–311, title I][/us/pl/103/311/tI], § 117(b), Aug. 26, 1994, [108 Stat. 1678][/us/stat/108/1678]; [Pub. L. 103–429][/us/pl/103/429], § 6(4), Oct. 31, 1994, [108 Stat. 4378][/us/stat/108/4378]; [Pub. L. 109–59, title VII][/us/pl/109/59/tVII], § 7106, Aug. 10, 2005, [119 Stat. 1897][/us/stat/119/1897].)
 
 <table>
 
@@ -111,11 +111,11 @@ Jan. 3, 1975, Pub. L. 93–633, 88 Stat. 2156, § 105(e), (f); added Nov. 16, 
 
  __Amendments__ 
 
-    2005—Subsec. (a)(1). [Pub. L. 109–59, § 7106(a)][/us/pl/109/59/s7106/a], substituted “a package, component of a package, or packaging for” for “a container, package, or packaging (or a component of a container, package, or packaging) for” and “the package, component of a package, or packaging meets” for “the container, package, or packaging (or a component of a container, package, or packaging) meets”.
+    2005—Subsec. (a)(1). [Pub. L. 109–59][/us/pl/109/59], § 7106(a), substituted “a package, component of a package, or packaging for” for “a container, package, or packaging (or a component of a container, package, or packaging) for” and “the package, component of a package, or packaging meets” for “the container, package, or packaging (or a component of a container, package, or packaging) meets”.
 
-    Subsec. (b). [Pub. L. 109–59, § 7106(b)(1)][/us/pl/109/59/s7106/b/1], substituted “No person may” for “A person may not” in introductory provisions.
+    Subsec. (b). [Pub. L. 109–59][/us/pl/109/59], § 7106(b)(1), substituted “No person may” for “A person may not” in introductory provisions.
 
-    Subsec. (b)(2). [Pub. L. 109–59, § 7106(b)(2)][/us/pl/109/59/s7106/b/2], inserted “component of a package, or packaging,” after “package,”.
+    Subsec. (b)(2). [Pub. L. 109–59][/us/pl/109/59], § 7106(b)(2), inserted “component of a package, or packaging,” after “package,”.
 
     1994—Subsec. (a)(1). [Pub. L. 103–429][/us/pl/103/429] inserted “applicable” after “each”.
 
@@ -132,21 +132,21 @@ Jan. 3, 1975, Pub. L. 93–633, 88 Stat. 2156, § 105(e), (f); added Nov. 16, 
 ----------
 ----------
 
-[/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F761
-[/us/pl/103/311/s117/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311%2Fs117%2Fb
+[/us/pl/103/311/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311%2FtI
 [/us/stat/108/1678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1678
-[/us/pl/103/429/s6/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F4
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/stat/108/4378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4378
-[/us/pl/109/59/s7106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7106
+[/us/pl/109/59/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtVII
 [/us/stat/119/1897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1897
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/act/1994-07-05/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1994-07-05%2Fs1
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F761
-[/us/pl/109/59/s7106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7106%2Fa
-[/us/pl/109/59/s7106/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7106%2Fb%2F1
-[/us/pl/109/59/s7106/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7106%2Fb%2F2
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/pl/103/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429

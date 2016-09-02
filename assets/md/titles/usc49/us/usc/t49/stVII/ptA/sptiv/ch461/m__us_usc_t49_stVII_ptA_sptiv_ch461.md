@@ -115,9 +115,9 @@
 
  __Amendments__ 
 
-    2003—[Pub. L. 108–176, title VI, § 601(b)][/us/pl/108/176/s601/b], Dec. 12, 2003, [117 Stat. 2563][/us/stat/117/2563], added item 46111.
+    2003—[Pub. L. 108–176, title VI][/us/pl/108/176/tVI], § 601(b), Dec. 12, 2003, [117 Stat. 2563][/us/stat/117/2563], added item 46111.
 
-    2001—[Pub. L. 107–71, title I, § 140(b)(8)][/us/pl/107/71/s140/b/8], Nov. 19, 2001, [115 Stat. 641][/us/stat/115/641], substituted “Department of Transportation” for “Secretary of Transportation and Administrator of the Federal Aviation Administration” in item 46106.
+    2001—[Pub. L. 107–71, title I][/us/pl/107/71/tI], § 140(b)(8), Nov. 19, 2001, [115 Stat. 641][/us/stat/115/641], substituted “Department of Transportation” for “Secretary of Transportation and Administrator of the Federal Aviation Administration” in item 46106.
 
 ----------
 
@@ -126,9 +126,9 @@
 ----------
 ----------
 
-[/us/pl/108/176/s601/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs601%2Fb
+[/us/pl/108/176/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtVI
 [/us/stat/117/2563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2563
-[/us/pl/107/71/s140/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs140%2Fb%2F8
+[/us/pl/107/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2FtI
 [/us/stat/115/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F641
 
 

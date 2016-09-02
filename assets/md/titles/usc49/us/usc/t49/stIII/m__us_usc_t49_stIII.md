@@ -121,13 +121,13 @@
 
  __Amendments__ 
 
-    2015—[Pub. L. 114–94, div. A, title VI, § 6019(c)][/us/pl/114/94/s6019/c], Dec. 4, 2015, [129 Stat. 1581][/us/stat/129/1581], added items for chapters 63 and 65.
+    2015—[Pub. L. 114–94, div. A, title VI][/us/pl/114/94/dA/tVI], § 6019(c), Dec. 4, 2015, [129 Stat. 1581][/us/stat/129/1581], added items for chapters 63 and 65.
 
-    2012—[Pub. L. 112–141, div. E, title II, § 52011(c)(2)][/us/pl/112/141/s52011/c/2], July 6, 2012, [126 Stat. 895][/us/stat/126/895], added item for chapter 63.
+    2012—[Pub. L. 112–141, div. E, title II][/us/pl/112/141/dE/tII], § 52011(c)(2), July 6, 2012, [126 Stat. 895][/us/stat/126/895], added item for chapter 63.
 
-    2005—[Pub. L. 109–59, title III, § 3002(c)][/us/pl/109/59/s3002/c], Aug. 10, 2005, [119 Stat. 1545][/us/stat/119/1545], substituted “Public” for “Mass” in item for chapter 53.
+    2005—[Pub. L. 109–59, title III][/us/pl/109/59/tIII], § 3002(c), Aug. 10, 2005, [119 Stat. 1545][/us/stat/119/1545], substituted “Public” for “Mass” in item for chapter 53.
 
-    1998—[Pub. L. 105–178, title VII, § 7302(b)][/us/pl/105/178/s7302/b], June 9, 1998, [112 Stat. 482][/us/stat/112/482], added item for chapter 61.
+    1998—[Pub. L. 105–178, title VII][/us/pl/105/178/tVII], § 7302(b), June 9, 1998, [112 Stat. 482][/us/stat/112/482], added item for chapter 61.
 
 ----------
 
@@ -136,13 +136,13 @@
 ----------
 ----------
 
-[/us/pl/114/94/s6019/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs6019%2Fc
+[/us/pl/114/94/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtVI
 [/us/stat/129/1581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1581
-[/us/pl/112/141/s52011/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs52011%2Fc%2F2
+[/us/pl/112/141/dE/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdE%2FtII
 [/us/stat/126/895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F895
-[/us/pl/109/59/s3002/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3002%2Fc
+[/us/pl/109/59/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIII
 [/us/stat/119/1545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1545
-[/us/pl/105/178/s7302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs7302%2Fb
+[/us/pl/105/178/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtVII
 [/us/stat/112/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F482
 
 

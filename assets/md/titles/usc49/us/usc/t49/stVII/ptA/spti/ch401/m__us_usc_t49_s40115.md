@@ -37,7 +37,7 @@
 
     This section does not authorize information to be withheld from a committee of Congress authorized to have the information.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1111][/us/stat/108/1111].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1111][/us/stat/108/1111].)
 
 <table>
 
@@ -98,7 +98,7 @@ Aug. 23, 1958, Pub. L. 85–726, § 1104, 72 Stat. 797; restated Oct. 24, 1978
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1111
 
 

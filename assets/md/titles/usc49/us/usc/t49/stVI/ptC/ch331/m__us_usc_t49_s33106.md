@@ -71,7 +71,7 @@
 
         (2) at least 6 months after the manufacturer receives written notice of the rescission from the Secretary.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1082][/us/stat/108/1082]; [Pub. L. 103–429, § 6(45)][/us/pl/103/429/s6/45], Oct. 31, 1994, [108 Stat. 4383][/us/stat/108/4383].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1082][/us/stat/108/1082]; [Pub. L. 103–429][/us/pl/103/429], § 6(45), Oct. 31, 1994, [108 Stat. 4383][/us/stat/108/4383].)
 
 <table>
 
@@ -227,9 +227,9 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, § 605(a)(2); added Oct. 25, 19
 ----------
 
 [/us/usc/t49/s33103/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs33103%2Fd%2F3
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1082
-[/us/pl/103/429/s6/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F45
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/stat/108/4383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4383
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/act/1994-07-05/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1994-07-05%2Fs1

@@ -155,7 +155,7 @@
 
         (3) In prescribing a minimum driving range under paragraph (1) of this subsection and in taking an action under paragraph (2) of this subsection, the Secretary shall consider the purpose set forth in section 3 of the Alternative Motor Fuels Act of 1988 ([Public Law 100–494][/us/pl/100/494], [102 Stat. 2442][/us/stat/102/2442]), consumer acceptability, economic practicability, technology, environmental impact, safety, drivability, performance, and other factors the Secretary considers relevant.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1056][/us/stat/108/1056]; [Pub. L. 110–140, title I, § 103(a)][/us/pl/110/140/s103/a], Dec. 19, 2007, [121 Stat. 1501][/us/stat/121/1501]; [Pub. L. 113–291, div. A, title III, § 318(b)][/us/pl/113/291/s318/b], Dec. 19, 2014, [128 Stat. 3341][/us/stat/128/3341].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1056][/us/stat/108/1056]; [Pub. L. 110–140, title I][/us/pl/110/140/tI], § 103(a), Dec. 19, 2007, [121 Stat. 1501][/us/stat/121/1501]; [Pub. L. 113–291, div. A, title III][/us/pl/113/291/dA/tIII], § 318(b), Dec. 19, 2014, [128 Stat. 3341][/us/stat/128/3341].)
 
 <table>
 
@@ -515,11 +515,11 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, § 501(8), (9); added Dec. 22, 
 
  __Amendments__ 
 
-    2014—Subsec. (c)(2)(B). [Pub. L. 113–291, § 318(b)(1)][/us/pl/113/291/s318/b/1], inserted “, except that beginning with model year 2016, alternative fueled automobiles that use a fuel described in subparagraph (E) of subsection (a)(1) shall have a minimum driving range of 150 miles” after “at least 200 miles”.
+    2014—Subsec. (c)(2)(B). [Pub. L. 113–291][/us/pl/113/291], § 318(b)(1), inserted “, except that beginning with model year 2016, alternative fueled automobiles that use a fuel described in subparagraph (E) of subsection (a)(1) shall have a minimum driving range of 150 miles” after “at least 200 miles”.
 
-    Subsec. (c)(2)(C). [Pub. L. 113–291, § 318(b)(2)][/us/pl/113/291/s318/b/2], inserted at end “Beginning with model year 2016, if the Secretary prescribes a minimum driving range of 150 miles for alternative fueled automobiles that use a fuel described in subparagraph (E) of subsection (a)(1), subparagraph (A) shall not apply to dual fueled automobiles (except electric automobiles).”
+    Subsec. (c)(2)(C). [Pub. L. 113–291][/us/pl/113/291], § 318(b)(2), inserted at end “Beginning with model year 2016, if the Secretary prescribes a minimum driving range of 150 miles for alternative fueled automobiles that use a fuel described in subparagraph (E) of subsection (a)(1), subparagraph (A) shall not apply to dual fueled automobiles (except electric automobiles).”
 
-    2007—Subsec. (a)(3). [Pub. L. 110–140, § 103(a)(1)][/us/pl/110/140/s103/a/1], added par. (3) and struck out former par. (3) which read as follows: “except as provided in [section 32908 of this title][/us/usc/t49/s32908], ‘automobile’ means a 4-wheeled vehicle that is propelled by fuel, or by alternative fuel, manufactured primarily for use on public streets, roads, and highways (except a vehicle operated only on a rail line), and rated at—
+    2007—Subsec. (a)(3). [Pub. L. 110–140][/us/pl/110/140], § 103(a)(1), added par. (3) and struck out former par. (3) which read as follows: “except as provided in [section 32908 of this title][/us/usc/t49/s32908], ‘automobile’ means a 4-wheeled vehicle that is propelled by fuel, or by alternative fuel, manufactured primarily for use on public streets, roads, and highways (except a vehicle operated only on a rail line), and rated at—
 
     “(A) not more than 6,000 pounds gross vehicle weight; or
 
@@ -529,21 +529,21 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, § 501(8), (9); added Dec. 22, 
 
     “(ii) an average fuel economy standard under this chapter for the vehicle will result in significant energy conservation or the vehicle is substantially used for the same purposes as a vehicle rated at not more than 6,000 pounds gross vehicle weight.”
 
-    Subsec. (a)(7), (8). [Pub. L. 110–140, § 103(a)(2)][/us/pl/110/140/s103/a/2], (3), added par. (7) and redesignated former par. (7) as (8). Former par. (8) redesignated (9).
+    Subsec. (a)(7), (8). [Pub. L. 110–140][/us/pl/110/140], § 103(a)(2), (3), added par. (7) and redesignated former par. (7) as (8). Former par. (8) redesignated (9).
 
-    Subsec. (a)(9). [Pub. L. 110–140, § 103(a)(2)][/us/pl/110/140/s103/a/2], redesignated par. (8) as (9). Former par. (9) redesignated (10).
+    Subsec. (a)(9). [Pub. L. 110–140][/us/pl/110/140], § 103(a)(2), redesignated par. (8) as (9). Former par. (9) redesignated (10).
 
-    Subsec. (a)(9)(A). [Pub. L. 110–140, § 103(a)(4)][/us/pl/110/140/s103/a/4], inserted “or a mixture of biodiesel and diesel fuel meeting the standard established by the American Society for Testing and Materials or under section 211(u) of the Clean Air Act ([42 U.S.C. 7545(u)][/us/usc/t42/s7545/u]) for fuel containing 20 percent biodiesel (commonly known as ‘B20’)” after “alternative fuel”.
+    Subsec. (a)(9)(A). [Pub. L. 110–140][/us/pl/110/140], § 103(a)(4), inserted “or a mixture of biodiesel and diesel fuel meeting the standard established by the American Society for Testing and Materials or under section 211(u) of the Clean Air Act ([42 U.S.C. 7545(u)][/us/usc/t42/s7545/u]) for fuel containing 20 percent biodiesel (commonly known as ‘B20’)” after “alternative fuel”.
 
-    Subsec. (a)(10) to (16). [Pub. L. 110–140, § 103(a)(2)][/us/pl/110/140/s103/a/2], redesignated pars. (9) to (15) as (10) to (16), respectively. Former par. (16) redesignated (17).
+    Subsec. (a)(10) to (16). [Pub. L. 110–140][/us/pl/110/140], § 103(a)(2), redesignated pars. (9) to (15) as (10) to (16), respectively. Former par. (16) redesignated (17).
 
-    Subsec. (a)(17). [Pub. L. 110–140, § 103(a)(6)][/us/pl/110/140/s103/a/6], added par. (17). Former par. (17) redesignated (18).
+    Subsec. (a)(17). [Pub. L. 110–140][/us/pl/110/140], § 103(a)(6), added par. (17). Former par. (17) redesignated (18).
 
-    [Pub. L. 110–140, § 103(a)(2)][/us/pl/110/140/s103/a/2], redesignated par. (16) as (17).
+    [Pub. L. 110–140][/us/pl/110/140], § 103(a)(2), redesignated par. (16) as (17).
 
-    Subsec. (a)(18). [Pub. L. 110–140, § 103(a)(5)][/us/pl/110/140/s103/a/5], redesignated par. (17) as (18).
+    Subsec. (a)(18). [Pub. L. 110–140][/us/pl/110/140], § 103(a)(5), redesignated par. (17) as (18).
 
-    Subsec. (a)(19). [Pub. L. 110–140, § 103(a)(7)][/us/pl/110/140/s103/a/7], added par. (19).
+    Subsec. (a)(19). [Pub. L. 110–140][/us/pl/110/140], § 103(a)(7), added par. (19).
 
  __Effective Date of 2007 Amendment__ 
 
@@ -551,7 +551,7 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, § 501(8), (9); added Dec. 22, 
 
  __Consumer Assistance to Recycle and Save__ 
 
-[Pub. L. 111–32, title XIII][/us/pl/111/32], June 24, 2009, [123 Stat. 1909][/us/stat/123/1909], as amended by [Pub. L. 111–47][/us/pl/111/47], Aug. 7, 2009, [123 Stat. 1972][/us/stat/123/1972], provided that:
+[Pub. L. 111–32, title XIII][/us/pl/111/32/tXIII], June 24, 2009, [123 Stat. 1909][/us/stat/123/1909], as amended by [Pub. L. 111–47][/us/pl/111/47], Aug. 7, 2009, [123 Stat. 1972][/us/stat/123/1972], provided that:
 
 > “Sec. 1301.  __Short Title__  __.—__ 
 
@@ -849,33 +849,33 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, § 501(8), (9); added Dec. 22, 
 [/us/usc/t49/s32902/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs32902%2Fd
 [/us/pl/100/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F494
 [/us/stat/102/2442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2442
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1056
-[/us/pl/110/140/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs103%2Fa
+[/us/pl/110/140/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtI
 [/us/stat/121/1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1501
-[/us/pl/113/291/s318/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs318%2Fb
+[/us/pl/113/291/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtIII
 [/us/stat/128/3341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3341
 [/us/usc/t49/s32908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs32908
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/100/494/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F494%2Fs3
 [/us/usc/t42/s6374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6374
-[/us/pl/113/291/s318/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs318%2Fb%2F1
-[/us/pl/113/291/s318/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs318%2Fb%2F2
-[/us/pl/110/140/s103/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs103%2Fa%2F1
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/usc/t49/s32908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs32908
-[/us/pl/110/140/s103/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs103%2Fa%2F2
-[/us/pl/110/140/s103/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs103%2Fa%2F2
-[/us/pl/110/140/s103/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs103%2Fa%2F4
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/usc/t42/s7545/u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7545%2Fu
-[/us/pl/110/140/s103/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs103%2Fa%2F2
-[/us/pl/110/140/s103/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs103%2Fa%2F6
-[/us/pl/110/140/s103/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs103%2Fa%2F2
-[/us/pl/110/140/s103/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs103%2Fa%2F5
-[/us/pl/110/140/s103/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs103%2Fa%2F7
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/110/140/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1601
 [/us/usc/t2/s1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1824
-[/us/pl/111/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F32
+[/us/pl/111/32/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F32%2FtXIII
 [/us/stat/123/1909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1909
 [/us/pl/111/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F47
 [/us/stat/123/1972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1972

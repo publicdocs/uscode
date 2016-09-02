@@ -33,7 +33,7 @@
 
         (5) any other aspect of Amtrak operations the Inspector General finds appropriate to review.
 
-(Added [Pub. L. 110–432, div. B, title II, § 221(a)][/us/pl/110/432/s221/a], Oct. 16, 2008, [122 Stat. 4931][/us/stat/122/4931].)
+(Added [Pub. L. 110–432, div. B, title II][/us/pl/110/432/dB/tII], § 221(a), Oct. 16, 2008, [122 Stat. 4931][/us/stat/122/4931].)
 
  __References in Text__ 
 
@@ -41,7 +41,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 24310, [Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 914][/us/stat/108/914], allowed petition or application for assistance in upgrading facilities to correct dangerous conditions or State and local violations, prior to repeal by [Pub. L. 105–134, title IV, § 403][/us/pl/105/134/s403], Dec. 2, 1997, [111 Stat. 2585][/us/stat/111/2585].
+    A prior section 24310, [Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 914][/us/stat/108/914], allowed petition or application for assistance in upgrading facilities to correct dangerous conditions or State and local violations, prior to repeal by [Pub. L. 105–134, title IV][/us/pl/105/134/tIV], § 403, Dec. 2, 1997, [111 Stat. 2585][/us/stat/111/2585].
 
 ----------
 
@@ -50,14 +50,14 @@
 ----------
 ----------
 
-[/us/pl/110/432/s221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs221%2Fa
+[/us/pl/110/432/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdB%2FtII
 [/us/stat/122/4931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4931
 [/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
 [/us/stat/122/4907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4907
 [/us/usc/t49/s20101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs20101
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F914
-[/us/pl/105/134/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2Fs403
+[/us/pl/105/134/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2FtIV
 [/us/stat/111/2585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2585
 
 

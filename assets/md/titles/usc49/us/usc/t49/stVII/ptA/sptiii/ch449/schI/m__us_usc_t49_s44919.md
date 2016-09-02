@@ -51,7 +51,7 @@
 
     If a contract is in effect with respect to screening at an airport under the pilot program on the last day of the 3-year period beginning on the date of enactment of this section, the operator of the airport may elect to continue to have such screening carried out by the screening personnel of a qualified private screening company under a contract entered into with the Under Secretary under section 44920 or by Federal Government personnel in accordance with this chapter.
 
-(Added [Pub. L. 107–71, title I, § 108(a)][/us/pl/107/71/s108/a], Nov. 19, 2001, [115 Stat. 611][/us/stat/115/611].)
+(Added [Pub. L. 107–71, title I][/us/pl/107/71/tI], § 108(a), Nov. 19, 2001, [115 Stat. 611][/us/stat/115/611].)
 
  __References in Text__ 
 
@@ -68,7 +68,7 @@
 ----------
 ----------
 
-[/us/pl/107/71/s108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs108%2Fa
+[/us/pl/107/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2FtI
 [/us/stat/115/611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F611
 [/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542

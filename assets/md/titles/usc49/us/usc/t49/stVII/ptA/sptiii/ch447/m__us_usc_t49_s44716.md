@@ -73,7 +73,7 @@
 
             (B) a margin of safety of at least the same level as provided by the collision avoidance system known as TCAS–II.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1198][/us/stat/108/1198]; [Pub. L. 106–181, title V, § 502][/us/pl/106/181/s502], Apr. 5, 2000, [114 Stat. 132][/us/stat/114/132].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1198][/us/stat/108/1198]; [Pub. L. 106–181, title V][/us/pl/106/181/tV], § 502, Apr. 5, 2000, [114 Stat. 132][/us/stat/114/132].)
 
 <table>
 
@@ -221,9 +221,9 @@ Dec. 30, 1987, Pub. L. 100–223, § 203(d), 101 Stat. 1519.  </td>
 ----------
 
 [/us/usc/t26/s9502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9502
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1198
-[/us/pl/106/181/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs502
+[/us/pl/106/181/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtV
 [/us/stat/114/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F132
 [/us/usc/t26/s9502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9502
 [/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181

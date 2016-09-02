@@ -147,7 +147,7 @@
 
     During a train employee’s minimum off-duty period of 10 consecutive hours, as provided under subsection (a) or during an interim period of at least 4 consecutive hours available for rest under subsection (b)(7) or during additional off-duty hours under subsection (c)(4), a railroad carrier, and its officers and agents, shall not communicate with the train employee by telephone, by pager, or in any other manner that could reasonably be expected to disrupt the employee’s rest. Nothing in this subsection shall prohibit communication necessary to notify an employee of an emergency situation, as defined by the Secretary. The Secretary may waive the requirements of this paragraph for commuter or intercity passenger railroads if the Secretary determines that such a waiver will not reduce safety and is necessary to maintain such railroads’ efficient operations and on-time performance of its trains.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 888][/us/stat/108/888]; [Pub. L. 110–432, div. A, title I, § 108(b)][/us/pl/110/432/s108/b], Oct. 16, 2008, [122 Stat. 4860][/us/stat/122/4860].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 888][/us/stat/108/888]; [Pub. L. 110–432, div. A, title I][/us/pl/110/432/dA/tI], § 108(b), Oct. 16, 2008, [122 Stat. 4860][/us/stat/122/4860].)
 
 <table>
 
@@ -269,15 +269,15 @@ Mar. 4, 1907, ch. 2939, § 2(c), 34 Stat. 1416; Dec. 26, 1969, Pub. L. 91–16
 
  __Amendments__ 
 
-    2008—Subsec. (a). [Pub. L. 110–432, § 108(b)(1)][/us/pl/110/432/s108/b/1], added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “Except as provided in subsection (c) of this section, a railroad carrier and its officers and agents may not require or allow a train employee to remain or go on duty—
+    2008—Subsec. (a). [Pub. L. 110–432][/us/pl/110/432], § 108(b)(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “Except as provided in subsection (c) of this section, a railroad carrier and its officers and agents may not require or allow a train employee to remain or go on duty—
 
     “(1) unless that employee has had at least 8 consecutive hours off duty during the prior 24 hours; or
 
     “(2) after that employee has been on duty for 12 consecutive hours, until that employee has had at least 10 consecutive hours off duty.”
 
-    Subsecs. (c), (d). [Pub. L. 110–432, § 108(b)(2)][/us/pl/110/432/s108/b/2], added subsec. (c) and redesignated former subsec. (c) as (d).
+    Subsecs. (c), (d). [Pub. L. 110–432][/us/pl/110/432], § 108(b)(2), added subsec. (c) and redesignated former subsec. (c) as (d).
 
-    Subsec. (e). [Pub. L. 110–432, § 108(b)(3)][/us/pl/110/432/s108/b/3], added subsec. (e).
+    Subsec. (e). [Pub. L. 110–432][/us/pl/110/432], § 108(b)(3), added subsec. (e).
 
  __Effective Date of 2008 Amendment__ 
 
@@ -290,14 +290,14 @@ Mar. 4, 1907, ch. 2939, § 2(c), 34 Stat. 1416; Dec. 26, 1969, Pub. L. 91–16
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F888
-[/us/pl/110/432/s108/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs108%2Fb
+[/us/pl/110/432/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdA%2FtI
 [/us/stat/122/4860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4860
 [/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
-[/us/pl/110/432/s108/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs108%2Fb%2F1
-[/us/pl/110/432/s108/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs108%2Fb%2F2
-[/us/pl/110/432/s108/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs108%2Fb%2F3
+[/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
+[/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
+[/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
 [/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
 [/us/pl/110/432/s108/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs108%2Fg
 [/us/usc/t49/s21101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs21101

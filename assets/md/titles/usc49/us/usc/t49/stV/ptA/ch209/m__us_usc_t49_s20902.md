@@ -31,7 +31,7 @@
 
     When in the public interest, the Secretary shall make a report of the investigation, stating the cause of the accident or incident and making recommendations the Secretary considers appropriate. The Secretary shall publish the report in a way the Secretary considers appropriate.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 887][/us/stat/108/887].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 887][/us/stat/108/887].)
 
 <table>
 
@@ -155,7 +155,7 @@ Oct. 15, 1966, Pub. L. 89–670, § 6(e)(1)(K), 80 Stat. 939.  </td>
 ----------
 
 [/us/usc/t49/s20505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs20505
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F887
 
 

@@ -309,41 +309,41 @@
 
     When a railroad carrier or other entity subject to (a)(1)  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be preceded by “subsection”. </sup></sup>  notifies the Secretary it is prepared to initiate revenue service demonstration, it shall also notify any applicable tenant railroad carrier or other entity subject to subsection (a)(1).
 
-(Added [Pub. L. 110–432, div. A, title I, § 104(a)][/us/pl/110/432/s104/a], Oct. 16, 2008, [122 Stat. 4856][/us/stat/122/4856]; amended [Pub. L. 114–73, title I, § 1302(b)][/us/pl/114/73/s1302/b], (c), Oct. 29, 2015, [129 Stat. 576][/us/stat/129/576], 582; [Pub. L. 114–94, div. A, title XI, § 11315(d)][/us/pl/114/94/s11315/d], Dec. 4, 2015, [129 Stat. 1675][/us/stat/129/1675].)
+(Added [Pub. L. 110–432, div. A, title I][/us/pl/110/432/dA/tI], § 104(a), Oct. 16, 2008, [122 Stat. 4856][/us/stat/122/4856]; amended [Pub. L. 114–73, title I][/us/pl/114/73/tI], § 1302(b), (c), Oct. 29, 2015, [129 Stat. 576][/us/stat/129/576], 582; [Pub. L. 114–94, div. A, title XI][/us/pl/114/94/dA/tXI], § 11315(d), Dec. 4, 2015, [129 Stat. 1675][/us/stat/129/1675].)
 
  __References in Text__ 
 
     The date of enactment of the Positive Train Control Enforcement and Implementation Act of 2015, referred to in subsecs. (a)(1), (g)(2), and (j)(1), is the date of enactment of [section 1302 of Pub. L. 114–73][/us/pl/114/73/s1302], which was approved Oct. 29, 2015.
 
-    The Positive Train Control Enforcement and Implementation Act of 2015, referred to in subsec. (g)(2), (3), is [Pub. L. 114–73, title I, § 1302][/us/pl/114/73/s1302], Oct. 29, 2015, [129 Stat. 576][/us/stat/129/576], which amended this section and enacted provisions set out as a note under [section 20101 of this title][/us/usc/t49/s20101]. For complete classification of this Act to the Code, see Short Title of 2015 Amendment note set out under [section 20101 of this title][/us/usc/t49/s20101] and Tables.
+    The Positive Train Control Enforcement and Implementation Act of 2015, referred to in subsec. (g)(2), (3), is [Pub. L. 114–73, title I][/us/pl/114/73/tI], § 1302, Oct. 29, 2015, [129 Stat. 576][/us/stat/129/576], which amended this section and enacted provisions set out as a note under [section 20101 of this title][/us/usc/t49/s20101]. For complete classification of this Act to the Code, see Short Title of 2015 Amendment note set out under [section 20101 of this title][/us/usc/t49/s20101] and Tables.
 
     The date of the enactment of this Act, referred to in subsec. (k), probably means the date of enactment of [section 1302 of Pub. L. 114–73][/us/pl/114/73/s1302], known as the Positive Train Control Enforcement and Implementation Act of 2015, which enacted subsec. (k) and was approved Oct. 29, 2015.
 
  __Amendments__ 
 
-    2015—Subsec. (a)(1). [Pub. L. 114–73, § 1302(b)(1)(A)][/us/pl/114/73/s1302/b/1/A]–(D), in introductory provisions, substituted “90 days after the date of enactment of the Positive Train Control Enforcement and Implementation Act of 2015” for “18 months after the date of enactment of the Rail Safety Improvement Act of 2008”, “a revised plan for implementing” for “a plan for implementing”, and “December 31, 2018” for “December 31, 2015” and struck out “develop and” before “submit to the Secretary of Transportation”.
+    2015—Subsec. (a)(1). [Pub. L. 114–73][/us/pl/114/73], § 1302(b)(1)(A)–(D), in introductory provisions, substituted “90 days after the date of enactment of the Positive Train Control Enforcement and Implementation Act of 2015” for “18 months after the date of enactment of the Rail Safety Improvement Act of 2008”, “a revised plan for implementing” for “a plan for implementing”, and “December 31, 2018” for “December 31, 2015” and struck out “develop and” before “submit to the Secretary of Transportation”.
 
-    Subsec. (a)(1)(B). [Pub. L. 114–73, § 1302(b)(1)(E)][/us/pl/114/73/s1302/b/1/E], substituted “defined in sections” for “defined in parts”.
+    Subsec. (a)(1)(B). [Pub. L. 114–73][/us/pl/114/73], § 1302(b)(1)(E), substituted “defined in sections” for “defined in parts”.
 
-    Subsec. (a)(2), (3). [Pub. L. 114–73, § 1302(b)(2)][/us/pl/114/73/s1302/b/2], added pars. (2) and (3) and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: “The plan shall describe how it will provide for interoperability of the system with movements of trains of other railroad carriers over its lines and shall, to the extent practical, implement the system in a manner that addresses areas of greater risk before areas of lesser risk. The railroad carrier shall implement a positive train control system in accordance with the plan.”
+    Subsec. (a)(2), (3). [Pub. L. 114–73][/us/pl/114/73], § 1302(b)(2), added pars. (2) and (3) and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: “The plan shall describe how it will provide for interoperability of the system with movements of trains of other railroad carriers over its lines and shall, to the extent practical, implement the system in a manner that addresses areas of greater risk before areas of lesser risk. The railroad carrier shall implement a positive train control system in accordance with the plan.”
 
-    Subsecs. (c) to (e). [Pub. L. 114–73, § 1302(b)(3)][/us/pl/114/73/s1302/b/3], added subsecs. (c) to (e) and struck out former subsecs. (c) to (e) which related, respectively, to review and approval of plans, progress report on implementation of positive train control systems, and enforcement of section.
+    Subsecs. (c) to (e). [Pub. L. 114–73][/us/pl/114/73], § 1302(b)(3), added subsecs. (c) to (e) and struck out former subsecs. (c) to (e) which related, respectively, to review and approval of plans, progress report on implementation of positive train control systems, and enforcement of section.
 
-    Subsec. (g). [Pub. L. 114–73, § 1302(c)][/us/pl/114/73/s1302/c], designated existing provisions as par. (1), inserted heading, and added pars. (2) and (3).
+    Subsec. (g). [Pub. L. 114–73][/us/pl/114/73], § 1302(c), designated existing provisions as par. (1), inserted heading, and added pars. (2) and (3).
 
-    Subsec. (g)(3). [Pub. L. 114–94, § 11315(d)(2)][/us/pl/114/94/s11315/d/2], substituted “to conform with this section” for “by paragraph (2) and subsection (k)”.
+    Subsec. (g)(3). [Pub. L. 114–94][/us/pl/114/94], § 11315(d)(2), substituted “to conform with this section” for “by paragraph (2) and subsection (k)”.
 
-    Subsec. (g)(4). [Pub. L. 114–94, § 11315(d)(1)][/us/pl/114/94/s11315/d/1], added par. (4).
+    Subsec. (g)(4). [Pub. L. 114–94][/us/pl/114/94], § 11315(d)(1), added par. (4).
 
-    Subsec. (h). [Pub. L. 114–73, § 1302(b)(4)][/us/pl/114/73/s1302/b/4], designated existing provisions as par. (1), inserted heading, and added par. (2).
+    Subsec. (h). [Pub. L. 114–73][/us/pl/114/73], § 1302(b)(4), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
-    Subsec. (i). [Pub. L. 114–73, § 1302(b)(5)][/us/pl/114/73/s1302/b/5], added pars. (1) and (2) and redesignated former pars. (1) to (3) as (3) to (5), respectively.
+    Subsec. (i). [Pub. L. 114–73][/us/pl/114/73], § 1302(b)(5), added pars. (1) and (2) and redesignated former pars. (1) to (3) as (3) to (5), respectively.
 
  __Effective Date of 2015 Amendment__ 
 
     Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
 
-    Subsecs. (j) to (l). [Pub. L. 114–73, § 1302(b)(6)][/us/pl/114/73/s1302/b/6], added subsecs. (j) to (l).
+    Subsecs. (j) to (l). [Pub. L. 114–73][/us/pl/114/73], § 1302(b)(6), added subsecs. (j) to (l).
 
 ----------
 
@@ -352,30 +352,30 @@
 ----------
 ----------
 
-[/us/pl/110/432/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs104%2Fa
+[/us/pl/110/432/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdA%2FtI
 [/us/stat/122/4856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4856
-[/us/pl/114/73/s1302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73%2Fs1302%2Fb
+[/us/pl/114/73/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73%2FtI
 [/us/stat/129/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F576
-[/us/pl/114/94/s11315/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11315%2Fd
+[/us/pl/114/94/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtXI
 [/us/stat/129/1675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1675
 [/us/pl/114/73/s1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73%2Fs1302
-[/us/pl/114/73/s1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73%2Fs1302
+[/us/pl/114/73/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73%2FtI
 [/us/stat/129/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F576
 [/us/usc/t49/s20101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs20101
 [/us/usc/t49/s20101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs20101
 [/us/pl/114/73/s1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73%2Fs1302
-[/us/pl/114/73/s1302/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73%2Fs1302%2Fb%2F1%2FA
-[/us/pl/114/73/s1302/b/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73%2Fs1302%2Fb%2F1%2FE
-[/us/pl/114/73/s1302/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73%2Fs1302%2Fb%2F2
-[/us/pl/114/73/s1302/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73%2Fs1302%2Fb%2F3
-[/us/pl/114/73/s1302/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73%2Fs1302%2Fc
-[/us/pl/114/94/s11315/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11315%2Fd%2F2
-[/us/pl/114/94/s11315/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11315%2Fd%2F1
-[/us/pl/114/73/s1302/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73%2Fs1302%2Fb%2F4
-[/us/pl/114/73/s1302/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73%2Fs1302%2Fb%2F5
+[/us/pl/114/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73
+[/us/pl/114/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73
+[/us/pl/114/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73
+[/us/pl/114/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73
+[/us/pl/114/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73
+[/us/pl/114/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
-[/us/pl/114/73/s1302/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73%2Fs1302%2Fb%2F6
+[/us/pl/114/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73
 
 

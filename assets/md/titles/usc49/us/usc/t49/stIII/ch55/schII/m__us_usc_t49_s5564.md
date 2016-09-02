@@ -41,7 +41,7 @@
 
         (2) The Secretary of Transportation may not make a grant under this section for more than 80 percent of the total cost of maintaining the terminal for an interim period of not more than 5 years.
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 852][/us/stat/108/852].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(d), July 5, 1994, [108 Stat. 852][/us/stat/108/852].)
 
 <table>
 
@@ -132,7 +132,7 @@ Oct. 15, 1966, Pub. L. 89–670, 80 Stat. 931, § 4(i)(3); added Oct. 28, 1974
 
 [/us/usc/t49/s5562/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5562%2Fa%2F2
 [/us/usc/t49/s5562/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5562%2Fa%2F2
-[/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F852
 
 

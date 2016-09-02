@@ -85,7 +85,7 @@
 
     A State shall have access to Amtrak’s records, accounts, and other necessary documents used to determine the amount of any payment to Amtrak required of the State.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 918][/us/stat/108/918]; [Pub. L. 105–134, title II, § 206][/us/pl/105/134/s206], Dec. 2, 1997, [111 Stat. 2584][/us/stat/111/2584].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 918][/us/stat/108/918]; [Pub. L. 105–134, title II][/us/pl/105/134/tII], § 206, Dec. 2, 1997, [111 Stat. 2584][/us/stat/111/2584].)
 
 <table>
 
@@ -275,7 +275,7 @@ Oct. 30, 1970, Pub. L. 91–518, § 805(2)(C), 84 Stat. 1340; June 22, 1972, P
 
  __References in Text__ 
 
-    [Section 24902(b) of this title][/us/usc/t49/s24902/b], referred to in subsec. (b)(1)(A), was redesignated section 24902(a) and section 24902(e) was redesignated section 24902(b) by [Pub. L. 105–134, title IV, § 405(b)(1)(A)][/us/pl/105/134/s405/b/1/A], Dec. 2, 1997, [111 Stat. 2586][/us/stat/111/2586].
+    [Section 24902(b) of this title][/us/usc/t49/s24902/b], referred to in subsec. (b)(1)(A), was redesignated section 24902(a) and section 24902(e) was redesignated section 24902(b) by [Pub. L. 105–134, title IV][/us/pl/105/134/tIV], § 405(b)(1)(A), Dec. 2, 1997, [111 Stat. 2586][/us/stat/111/2586].
 
  __Amendments__ 
 
@@ -287,19 +287,19 @@ Oct. 30, 1970, Pub. L. 91–518, § 805(2)(C), 84 Stat. 1340; June 22, 1972, P
 
  __Funding for Valuation of Amtrak’s Assets__ 
 
-[Pub. L. 108–447, div. H, title I][/us/pl/108/447], Dec. 8, 2004, [118 Stat. 3221][/us/stat/118/3221], provided in part: 
+[Pub. L. 108–447, div. H, title I][/us/pl/108/447/dH/tI], Dec. 8, 2004, [118 Stat. 3221][/us/stat/118/3221], provided in part: 
 
 > “That the Secretary of Transportation is authorized to retain up to $4,000,000 of the funds provided to be used to retain a consultant or consultants to assist the Secretary in preparing a comprehensive valuation of Amtrak’s assets to be completed not later than September 30, 2005: Provided further, That these funds shall be available to the Secretary of Transportation until expended: Provided further, That this valuation shall to be used to retain a consultant or consultants to develop to the Secretary’s satisfaction a methodology for determining the avoidable and fully allocated costs of each Amtrak route: Provided further, That once the Secretary has approved the methodology for determining the avoidable and fully allocated costs of each Amtrak route, Amtrak shall apply that methodology in compiling an annual report to Congress on the avoidable and fully allocated costs of each of its routes, with the initial report for fiscal year 2005 to be submitted to the House and Senate Committees on Appropriations, the House Committee on Transportation and Infrastructure, and the Senate Committee on Commerce, Science, and Transportation before December 31, 2005, and each subsequent report to be submitted within 90 days after the end of the fiscal year to which the report pertains.”
 
  __Reports on Operating Losses__ 
 
-[Pub. L. 108–7, div. I, title III, § 350][/us/pl/108/7/s350], Feb. 20, 2003, [117 Stat. 419][/us/stat/117/419], provided that: 
+[Pub. L. 108–7, div. I, title III][/us/pl/108/7/dI/tIII], § 350, Feb. 20, 2003, [117 Stat. 419][/us/stat/117/419], provided that: 
 
 > “On February 15, 2003, and on each year thereafter, the National Railroad Passenger Corporation shall submit to the appropriate Congressional Committees a report detailing the per passenger operating loss on each rail line.”
 
  __Amtrak To Notify Congress of Lobbying Relationships__ 
 
-[Pub. L. 105–134, title IV, § 414][/us/pl/105/134/s414], Dec. 2, 1997, [111 Stat. 2589][/us/stat/111/2589], provided that: 
+[Pub. L. 105–134, title IV][/us/pl/105/134/tIV], § 414, Dec. 2, 1997, [111 Stat. 2589][/us/stat/111/2589], provided that: 
 
 > “If, at any time, during a fiscal year in which Amtrak receives Federal assistance, Amtrak enters into a consulting contract or similar arrangement, or a contract for lobbying, with a lobbying firm, an individual who is a lobbyist, or who is affiliated with a lobbying firm, as those terms are defined in section 3 of the Lobbying Disclosure Act of 1995 ([2 U.S.C. 1602][/us/usc/t2/s1602]), Amtrak shall notify the United States Senate Committee on Commerce, Science, and Transportation, and the United States House of Representatives Committee on Transportation and Infrastructure of—
 
@@ -320,22 +320,22 @@ Oct. 30, 1970, Pub. L. 91–518, § 805(2)(C), 84 Stat. 1340; June 22, 1972, P
 
 [/us/usc/t5/s5312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5312
 [/us/usc/t49/s308/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs308%2Fa
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F918
-[/us/pl/105/134/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2Fs206
+[/us/pl/105/134/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2FtII
 [/us/stat/111/2584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2584
 [/us/usc/t49/s308/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs308%2Fa
 [/us/usc/t49/s24902/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24902%2Fb
-[/us/pl/105/134/s405/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2Fs405%2Fb%2F1%2FA
+[/us/pl/105/134/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2FtIV
 [/us/stat/111/2586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2586
 [/us/pl/105/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
-[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/447/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdH%2FtI
 [/us/stat/118/3221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3221
-[/us/pl/108/7/s350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs350
+[/us/pl/108/7/dI/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdI%2FtIII
 [/us/stat/117/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F419
-[/us/pl/105/134/s414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2Fs414
+[/us/pl/105/134/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2FtIV
 [/us/stat/111/2589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2589
 [/us/usc/t2/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1602
 

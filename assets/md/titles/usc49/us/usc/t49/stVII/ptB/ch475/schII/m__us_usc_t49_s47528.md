@@ -101,7 +101,7 @@
 
     Nothing in this section may be construed as interfering with, nullifying, or otherwise affecting determinations made by the Federal Aviation Administration, or to be made by the Administration with respect to applications under part 161 of title 14, Code of Federal Regulations, that were pending on November 1, 1999.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1291][/us/stat/108/1291]; [Pub. L. 106–113, div. B, § 1000(a)(5)][/us/pl/106/113/s1000/a/5] \[title II, § 231(a), (b)(1)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–300, 1501A–301; [Pub. L. 106–181, title VII, § 721(a)][/us/pl/106/181/s721/a]–(c)(1), (d), Apr. 5, 2000, [114 Stat. 164][/us/stat/114/164], 165.)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1291][/us/stat/108/1291]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(5) \[title II, § 231(a), (b)(1)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–300, 1501A–301; [Pub. L. 106–181, title VII][/us/pl/106/181/tVII], § 721(a)–(c)(1), (d), Apr. 5, 2000, [114 Stat. 164][/us/stat/114/164], 165.)
 
 <table>
 
@@ -219,19 +219,19 @@ Nov. 5, 1990, Pub. L. 101–508, 104 Stat. 1388–382, § 9308(i); added Oct. 
 
  __Amendments__ 
 
-    2000—[Pub. L. 106–181, § 721(a)][/us/pl/106/181/s721/a], repealed [Pub. L. 106–113, § 1000(a)(5)][/us/pl/106/113/s1000/a/5] \[title II, § 231\]. See 1999 Amendment notes and Construction of 2000 Amendment note below.
+    2000—[Pub. L. 106–181][/us/pl/106/181], § 721(a), repealed [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(5) \[title II, § 231\]. See 1999 Amendment notes and Construction of 2000 Amendment note below.
 
-    Subsec. (a). [Pub. L. 106–181, § 721(b)(1)][/us/pl/106/181/s721/b/1], (c)(1), substituted “subsection (b) or (f)” for “subsection (b)” and inserted “(for which an airworthiness certificate other than an experimental certificate has been issued by the Administrator)” after “civil subsonic turbojet”.
+    Subsec. (a). [Pub. L. 106–181][/us/pl/106/181], § 721(b)(1), (c)(1), substituted “subsection (b) or (f)” for “subsection (b)” and inserted “(for which an airworthiness certificate other than an experimental certificate has been issued by the Administrator)” after “civil subsonic turbojet”.
 
-    Subsec. (b)(1). [Pub. L. 106–181, § 721(d)][/us/pl/106/181/s721/d], in first sentence, inserted “or foreign air carrier” after “air carrier”, and, in last sentence, inserted “or, in the case of a foreign air carrier, the 15th day following the date of the enactment of the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century” after “January 1, 1999,”.
+    Subsec. (b)(1). [Pub. L. 106–181][/us/pl/106/181], § 721(d), in first sentence, inserted “or foreign air carrier” after “air carrier”, and, in last sentence, inserted “or, in the case of a foreign air carrier, the 15th day following the date of the enactment of the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century” after “January 1, 1999,”.
 
-    Subsec. (e)(4). [Pub. L. 106–181, § 721(b)(2)][/us/pl/106/181/s721/b/2], added par. (4).
+    Subsec. (e)(4). [Pub. L. 106–181][/us/pl/106/181], § 721(b)(2), added par. (4).
 
-    Subsecs. (f), (g). [Pub. L. 106–181, § 721(b)(3)][/us/pl/106/181/s721/b/3], added subsecs. (f) and (g).
+    Subsecs. (f), (g). [Pub. L. 106–181][/us/pl/106/181], § 721(b)(3), added subsecs. (f) and (g).
 
-    1999—[Pub. L. 106–113, § 1000(a)(5)][/us/pl/106/113/s1000/a/5] \[title II, § 231(a)\], which directed the amendment of section 47528 by substituting “subsection (b) or (f)” for “subsection (b)” in subsec. (a), adding a par. (4) to subsec. (e), and adding subsec. (f) at the end, without specifying the Code title to be amended, was repealed by [Pub. L. 106–181, § 721(a)][/us/pl/106/181/s721/a]. See Construction of 2000 Amendment note below.
+    1999—[Pub. L. 106–113][/us/pl/106/113], § 1000(a)(5) \[title II, § 231(a)\], which directed the amendment of section 47528 by substituting “subsection (b) or (f)” for “subsection (b)” in subsec. (a), adding a par. (4) to subsec. (e), and adding subsec. (f) at the end, without specifying the Code title to be amended, was repealed by [Pub. L. 106–181][/us/pl/106/181], § 721(a). See Construction of 2000 Amendment note below.
 
-    Subsec. (a). [Pub. L. 106–113, § 1000(a)(5)][/us/pl/106/113/s1000/a/5] \[title II, § 231(b)(1)\], which inserted “(for which an airworthiness certificate other than an experimental certificate has been issued by the Administrator)” after “civil subsonic turbojet”, was repealed by [Pub. L. 106–181, § 721(a)][/us/pl/106/181/s721/a]. See Construction of 2000 Amendment note below.
+    Subsec. (a). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(5) \[title II, § 231(b)(1)\], which inserted “(for which an airworthiness certificate other than an experimental certificate has been issued by the Administrator)” after “civil subsonic turbojet”, was repealed by [Pub. L. 106–181][/us/pl/106/181], § 721(a). See Construction of 2000 Amendment note below.
 
  __Effective Date of 2000 Amendment__ 
 
@@ -239,13 +239,13 @@ Nov. 5, 1990, Pub. L. 101–508, 104 Stat. 1388–382, § 9308(i); added Oct. 
 
  __Regulations__ 
 
-[Pub. L. 106–181, title VII, § 721(c)(2)][/us/pl/106/181/s721/c/2], Apr. 5, 2000, [114 Stat. 165][/us/stat/114/165], provided that: 
+[Pub. L. 106–181, title VII][/us/pl/106/181/tVII], § 721(c)(2), Apr. 5, 2000, [114 Stat. 165][/us/stat/114/165], provided that: 
 
 > “Regulations contained in title 14, Code of Federal Regulations, that implement [section 47528 of title 49][/us/usc/t49/s47528], United States Code, and related provisions shall be deemed to incorporate the amendment made by paragraph (1) \[amending this section\] on the date of the enactment of this Act \[Apr. 5, 2000\].”
 
  __Construction of 2000 Amendment__ 
 
-[Pub. L. 106–181, title VII, § 721(a)][/us/pl/106/181/s721/a], Apr. 5, 2000, [114 Stat. 164][/us/stat/114/164], provided that: 
+[Pub. L. 106–181, title VII][/us/pl/106/181/tVII], § 721(a), Apr. 5, 2000, [114 Stat. 164][/us/stat/114/164], provided that: 
 
 > “Section 231 of H.R. 3425 of the 106th Congress, as enacted into law by [section 1000(a)(5) of Public Law 106–113][/us/pl/106/113/s1000/a/5] \[amending this section\], is repealed and the provisions of law amended by such section shall be read as if such section had not been enacted into law.”
 
@@ -261,31 +261,31 @@ Nov. 5, 1990, Pub. L. 101–508, 104 Stat. 1388–382, § 9308(i); added Oct. 
 ----------
 
 [/us/usc/t49/s47530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs47530
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1291
-[/us/pl/106/113/s1000/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F5
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/106/181/s721/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs721%2Fa
+[/us/pl/106/181/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtVII
 [/us/stat/114/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F164
 [/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
-[/us/pl/106/181/s721/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs721%2Fa
-[/us/pl/106/113/s1000/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F5
-[/us/pl/106/181/s721/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs721%2Fb%2F1
-[/us/pl/106/181/s721/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs721%2Fd
-[/us/pl/106/181/s721/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs721%2Fb%2F2
-[/us/pl/106/181/s721/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs721%2Fb%2F3
-[/us/pl/106/113/s1000/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F5
-[/us/pl/106/181/s721/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs721%2Fa
-[/us/pl/106/113/s1000/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F5
-[/us/pl/106/181/s721/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs721%2Fa
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/pl/106/181/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106
-[/us/pl/106/181/s721/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs721%2Fc%2F2
+[/us/pl/106/181/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtVII
 [/us/stat/114/165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F165
 [/us/usc/t49/s47528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs47528
-[/us/pl/106/181/s721/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs721%2Fa
+[/us/pl/106/181/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtVII
 [/us/stat/114/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F164
 [/us/pl/106/113/s1000/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F5
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003

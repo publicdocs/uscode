@@ -123,9 +123,9 @@
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–405, § 2(b)(8)][/us/pl/110/405/s2/b/8], Oct. 13, 2008, [122 Stat. 4289][/us/stat/122/4289], redesignated items 41906, 41909, and 41910 as 41905 “Emergency mail transportation”, 41906, and 41907 “Weighing mail”, respectively.
+    2008—[Pub. L. 110–405][/us/pl/110/405], § 2(b)(8), Oct. 13, 2008, [122 Stat. 4289][/us/stat/122/4289], redesignated items 41906, 41909, and 41910 as 41905 “Emergency mail transportation”, 41906, and 41907 “Weighing mail”, respectively.
 
-    [Pub. L. 110–405, § 2(b)(8)][/us/pl/110/405/s2/b/8], Oct. 13, 2008, [122 Stat. 4289][/us/stat/122/4289], which directed redesignation of item 49112 as 41908, was executed by redesignating item 41912 as 41908 “Effect of foreign postal arrangements” to reflect the probable intent of Congress.
+    [Pub. L. 110–405][/us/pl/110/405], § 2(b)(8), Oct. 13, 2008, [122 Stat. 4289][/us/stat/122/4289], which directed redesignation of item 49112 as 41908, was executed by redesignating item 41912 as 41908 “Effect of foreign postal arrangements” to reflect the probable intent of Congress.
 
 ----------
 
@@ -134,9 +134,9 @@
 ----------
 ----------
 
-[/us/pl/110/405/s2/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F405%2Fs2%2Fb%2F8
+[/us/pl/110/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F405
 [/us/stat/122/4289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4289
-[/us/pl/110/405/s2/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F405%2Fs2%2Fb%2F8
+[/us/pl/110/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F405
 [/us/stat/122/4289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4289
 
 

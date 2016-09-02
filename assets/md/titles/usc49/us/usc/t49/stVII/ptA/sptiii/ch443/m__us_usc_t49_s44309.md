@@ -69,7 +69,7 @@
 
         (3) Judgment in a civil action under this subsection discharges the Government from further liability to the parties to the action and to all other persons served by publication under paragraph (2) of this subsection.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1172][/us/stat/108/1172]; [Pub. L. 105–277, div. C, title I, § 110(c)(1)][/us/pl/105/277/s110/c/1], Oct. 21, 1998, [112 Stat. 2681–587][/us/stat/112/2681-587]; [Pub. L. 113–291, div. A, title X, § 1074(a)][/us/pl/113/291/s1074/a], Dec. 19, 2014, [128 Stat. 3518][/us/stat/128/3518].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1172][/us/stat/108/1172]; [Pub. L. 105–277, div. C, title I][/us/pl/105/277/dC/tI], § 110(c)(1), Oct. 21, 1998, [112 Stat. 2681–587][/us/stat/112/2681-587]; [Pub. L. 113–291, div. A, title X][/us/pl/113/291/dA/tX], § 1074(a), Dec. 19, 2014, [128 Stat. 3518][/us/stat/128/3518].)
 
 <table>
 
@@ -189,15 +189,15 @@ Aug. 23, 1958, Pub. L. 85–726, § 1310, 72 Stat. 805.  </td>
 
  __Amendments__ 
 
-    2014—Subsec. (a)(2). [Pub. L. 113–291, § 1074(a)(1)][/us/pl/113/291/s1074/a/1], inserted at end “A civil action shall not be instituted against the United States under this chapter unless the claimant first presents the claim to the Secretary of Transportation and such claim is finally denied by the Secretary in writing and notice of the denial of such claim is sent by certified or registered mail.”
+    2014—Subsec. (a)(2). [Pub. L. 113–291][/us/pl/113/291], § 1074(a)(1), inserted at end “A civil action shall not be instituted against the United States under this chapter unless the claimant first presents the claim to the Secretary of Transportation and such claim is finally denied by the Secretary in writing and notice of the denial of such claim is sent by certified or registered mail.”
 
-    Subsec. (c). [Pub. L. 113–291, § 1074(a)(2)][/us/pl/113/291/s1074/a/2], added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “When an insurance claim is made under this chapter, the period during which, under [section 2401 of title 28][/us/usc/t28/s2401], a civil action must be brought under subsection (a) of this section is suspended until 60 days after the Secretary of Transportation denies the claim. The claim is deemed to be administratively denied if the Secretary does not act on the claim not later than 6 months after filing, unless the Secretary makes a different agreement with the claimant when there is good cause for an agreement.”
+    Subsec. (c). [Pub. L. 113–291][/us/pl/113/291], § 1074(a)(2), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “When an insurance claim is made under this chapter, the period during which, under [section 2401 of title 28][/us/usc/t28/s2401], a civil action must be brought under subsection (a) of this section is suspended until 60 days after the Secretary of Transportation denies the claim. The claim is deemed to be administratively denied if the Secretary does not act on the claim not later than 6 months after filing, unless the Secretary makes a different agreement with the claimant when there is good cause for an agreement.”
 
     1998—Subsec. (a). [Pub. L. 105–277][/us/pl/105/277] amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “A person may bring a civil action in a district court of the United States against the United States Government when a loss insured under this chapter is in dispute. A civil action involving the same matter (except the action authorized by this subsection) may not be brought against an agent, officer, or employee of the Government carrying out this chapter. To the extent applicable, the procedure in an action brought under [section 1346(a)(2) of title 28][/us/usc/t28/s1346/a/2] applies to an action under this subsection.”
 
  __Effective Date of 2014 Amendment__ 
 
-[Pub. L. 113–291, div. A, title X, § 1074(b)][/us/pl/113/291/s1074/b], Dec. 19, 2014, [128 Stat. 3519][/us/stat/128/3519], provided that: 
+[Pub. L. 113–291, div. A, title X][/us/pl/113/291/dA/tX], § 1074(b), Dec. 19, 2014, [128 Stat. 3519][/us/stat/128/3519], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall apply with respect to a claim arising after the date of the enactment of this Act \[Dec. 19, 2014\].”
 
@@ -209,20 +209,20 @@ Aug. 23, 1958, Pub. L. 85–726, § 1310, 72 Stat. 805.  </td>
 ----------
 
 [/us/usc/t28/s1346/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1346%2Fa%2F2
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1172
-[/us/pl/105/277/s110/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs110%2Fc%2F1
+[/us/pl/105/277/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtI
 [/us/stat/112/2681-587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-587
-[/us/pl/113/291/s1074/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1074%2Fa
+[/us/pl/113/291/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtX
 [/us/stat/128/3518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3518
 [/us/usc/t28/s2401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2401
 [/us/usc/t28/s2401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2401
-[/us/pl/113/291/s1074/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1074%2Fa%2F1
-[/us/pl/113/291/s1074/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1074%2Fa%2F2
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/usc/t28/s2401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2401
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/usc/t28/s1346/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1346%2Fa%2F2
-[/us/pl/113/291/s1074/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1074%2Fb
+[/us/pl/113/291/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtX
 [/us/stat/128/3519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3519
 
 

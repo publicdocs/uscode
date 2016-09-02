@@ -27,7 +27,7 @@
 
     A motor private carrier or a motor carrier of migrant workers may use an identification plate only as authorized by the Secretary.
 
-([Pub. L. 97–449][/us/pl/97/449], Jan. 12, 1983, [96 Stat. 2439][/us/stat/96/2439], § 3104; renumbered § 31504 and amended [Pub. L. 103–272, § 1(c)][/us/pl/103/272/s1/c], (e), July 5, 1994, [108 Stat. 745][/us/stat/108/745], 1030.)
+([Pub. L. 97–449][/us/pl/97/449], Jan. 12, 1983, [96 Stat. 2439][/us/stat/96/2439], § 3104; renumbered § 31504 and amended [Pub. L. 103–272][/us/pl/103/272], § 1(c), (e), July 5, 1994, [108 Stat. 745][/us/stat/108/745], 1030.)
 
 <table>
 
@@ -165,7 +165,7 @@ Oct. 15, 1966, Pub. L. 89–670, § 6(e)(6)(D) (related to “Sec. 224”), 80
 [/us/usc/t49/s31502/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31502%2Fc
 [/us/pl/97/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449
 [/us/stat/96/2439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2439
-[/us/pl/103/272/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fc
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F745
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/usc/t49/s3104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs3104

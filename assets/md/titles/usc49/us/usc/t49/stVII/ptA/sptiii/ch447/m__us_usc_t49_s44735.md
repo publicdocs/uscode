@@ -43,7 +43,7 @@
 
         In this subsection, the term “de-identified” means the process by which all information that is likely to establish the identity of the specific persons or entities submitting reports, data, or other information is removed from the reports, data, or other information.
 
-(Added [Pub. L. 112–95, title III, § 310(a)][/us/pl/112/95/s310/a], Feb. 14, 2012, [126 Stat. 64][/us/stat/126/64].)
+(Added [Pub. L. 112–95, title III][/us/pl/112/95/tIII], § 310(a), Feb. 14, 2012, [126 Stat. 64][/us/stat/126/64].)
 
 ----------
 
@@ -53,7 +53,7 @@
 ----------
 
 [/us/usc/t5/s552/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fb%2F3%2FB
-[/us/pl/112/95/s310/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs310%2Fa
+[/us/pl/112/95/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtIII
 [/us/stat/126/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F64
 
 

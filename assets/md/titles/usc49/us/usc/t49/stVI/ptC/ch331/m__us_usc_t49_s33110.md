@@ -45,7 +45,7 @@
 
     In consultation with the Secretary, the Attorney General shall prescribe regulations necessary to ensure that verification performed and provided by an insurance carrier under subsection (b)(1)(B) of this section is uniform, effective, and resistant to fraudulent use.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1086][/us/stat/108/1086].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1086][/us/stat/108/1086].)
 
 <table>
 
@@ -129,7 +129,7 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, § 607; added Oct. 25, 1992, Pu
 
  __Effective Date__ 
 
-[Pub. L. 103–272, § 4(u)][/us/pl/103/272/s4/u], July 5, 1994, [108 Stat. 1372][/us/stat/108/1372], provided that: 
+[Pub. L. 103–272][/us/pl/103/272], § 4(u), July 5, 1994, [108 Stat. 1372][/us/stat/108/1372], provided that: 
 
 > “Not later than April 25, 1993, the Attorney General shall prescribe the regulations required under [section 33110(c) of title 49][/us/usc/t49/s33110/c], United States Code, as enacted by section 1 of this Act. [Section 33110(b) of title 49][/us/usc/t49/s33110/b] is effective not later than 3 months after those regulations are prescribed but not before the date on which the National Stolen Passenger Motor Vehicle Information System established under [section 33109 of title 49][/us/usc/t49/s33109] is operational.”
 
@@ -143,9 +143,9 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, § 607; added Oct. 25, 1992, Pu
 [/us/usc/t49/s33109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs33109
 [/us/usc/t49/s33109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs33109
 [/us/usc/t49/s33109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs33109
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1086
-[/us/pl/103/272/s4/u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs4%2Fu
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1372
 [/us/usc/t49/s33110/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs33110%2Fc
 [/us/usc/t49/s33110/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs33110%2Fb

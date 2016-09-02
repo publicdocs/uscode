@@ -27,7 +27,7 @@
 
     A vocational technical educational institution may not receive more than a total of $5,000,000 in grants under this section.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1184][/us/stat/108/1184].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1184][/us/stat/108/1184].)
 
 <table>
 
@@ -79,7 +79,7 @@ Oct., 31, 1992, Pub. L. 102–581, § 119(a)–(c), 106 Stat. 4883.  </td>
 
  __Improvement of Curriculum Standards for Aviation Maintenance Technicians__ 
 
-[Pub. L. 108–176, title V, § 504][/us/pl/108/176/s504], Dec. 12, 2003, [117 Stat. 2559][/us/stat/117/2559], provided that:
+[Pub. L. 108–176, title V][/us/pl/108/176/tV], § 504, Dec. 12, 2003, [117 Stat. 2559][/us/stat/117/2559], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -103,7 +103,7 @@ Oct., 31, 1992, Pub. L. 102–581, § 119(a)–(c), 106 Stat. 4883.  </td>
 
  __Improved Training for Airframe and Powerplant Mechanics__ 
 
-[Pub. L. 106–181, title V, § 517][/us/pl/106/181/s517], Apr. 5, 2000, [114 Stat. 145][/us/stat/114/145], provided that: 
+[Pub. L. 106–181, title V][/us/pl/106/181/tV], § 517, Apr. 5, 2000, [114 Stat. 145][/us/stat/114/145], provided that: 
 
 > “The Administrator \[of the Federal Aviation Administration\] shall form a partnership with industry and labor to develop a model program to improve the curricula, teaching methods, and quality of instructors for training individuals that need certification as airframe and powerplant mechanics.”
 
@@ -114,11 +114,11 @@ Oct., 31, 1992, Pub. L. 102–581, § 119(a)–(c), 106 Stat. 4883.  </td>
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1184
-[/us/pl/108/176/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs504
+[/us/pl/108/176/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtV
 [/us/stat/117/2559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2559
-[/us/pl/106/181/s517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs517
+[/us/pl/106/181/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtV
 [/us/stat/114/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F145
 
 

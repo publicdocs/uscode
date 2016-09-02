@@ -23,7 +23,7 @@
 
     In carrying out this chapter, the Secretary may use the services of a department, agency, or instrumentality of the Government having special knowledge about safety, to conduct scientific and technical research, investigation, and testing when necessary to promote safety of operation and equipment of motor vehicles. The Secretary may reimburse the department, agency, or instrumentality for the services provided.
 
-([Pub. L. 97–449][/us/pl/97/449], Jan. 12, 1983, [96 Stat. 2439][/us/stat/96/2439], § 3103; renumbered § 31503 and amended [Pub. L. 103–272, § 1(c)][/us/pl/103/272/s1/c], (e), July 5, 1994, [108 Stat. 745][/us/stat/108/745], 1030; [Pub. L. 104–88, title III, § 308(k)(4)][/us/pl/104/88/s308/k/4], Dec. 29, 1995, [109 Stat. 948][/us/stat/109/948].)
+([Pub. L. 97–449][/us/pl/97/449], Jan. 12, 1983, [96 Stat. 2439][/us/stat/96/2439], § 3103; renumbered § 31503 and amended [Pub. L. 103–272][/us/pl/103/272], § 1(c), (e), July 5, 1994, [108 Stat. 745][/us/stat/108/745], 1030; [Pub. L. 104–88, title III][/us/pl/104/88/tIII], § 308(k)(4), Dec. 29, 1995, [109 Stat. 948][/us/stat/109/948].)
 
 <table>
 
@@ -140,9 +140,9 @@ Feb. 4, 1887, ch. 104, 24 Stat. 379, § 204(a)(5); added Aug. 9, 1935, ch. 498
 
 [/us/pl/97/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449
 [/us/stat/96/2439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2439
-[/us/pl/103/272/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fc
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F745
-[/us/pl/104/88/s308/k/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs308%2Fk%2F4
+[/us/pl/104/88/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtIII
 [/us/stat/109/948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F948
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272

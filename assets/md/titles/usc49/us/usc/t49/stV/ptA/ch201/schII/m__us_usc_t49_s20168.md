@@ -79,7 +79,7 @@
 
     Nothing in this section may be construed as requiring a railroad carrier to cease or restrict operations upon a technical failure of an inward- or outward-facing image recording device or in-cab audio device. Such railroad carrier shall repair or replace the failed inward- or outward-facing image recording device as soon as practicable.
 
-(Added [Pub. L. 114–94, div. A, title XI, § 11411(a)][/us/pl/114/94/s11411/a], Dec. 4, 2015, [129 Stat. 1686][/us/stat/129/1686].)
+(Added [Pub. L. 114–94, div. A, title XI][/us/pl/114/94/dA/tXI], § 11411(a), Dec. 4, 2015, [129 Stat. 1686][/us/stat/129/1686].)
 
  __References in Text__ 
 
@@ -96,7 +96,7 @@
 ----------
 ----------
 
-[/us/pl/114/94/s11411/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11411%2Fa
+[/us/pl/114/94/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtXI
 [/us/stat/129/1686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1686
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003

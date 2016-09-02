@@ -133,7 +133,7 @@
 
     A foreign commercial driver shall be subject to disqualification under this section.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1022][/us/stat/108/1022]; [Pub. L. 104–88, title IV, § 403(a)][/us/pl/104/88/s403/a], Dec. 29, 1995, [109 Stat. 956][/us/stat/109/956]; [Pub. L. 106–159, title II, § 201(a)(1)][/us/pl/106/159/s201/a/1], (2), (b), Dec. 9, 1999, [113 Stat. 1758][/us/stat/113/1758], 1759; [Pub. L. 109–59, title IV, § 4102(b)][/us/pl/109/59/s4102/b], Aug. 10, 2005, [119 Stat. 1715][/us/stat/119/1715]; [Pub. L. 112–141, div. C, title II][/us/pl/112/141], §§ 32204, 32507, 32931(d), July 6, 2012, [126 Stat. 785][/us/stat/126/785], 804, 829.)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1022][/us/stat/108/1022]; [Pub. L. 104–88, title IV][/us/pl/104/88/tIV], § 403(a), Dec. 29, 1995, [109 Stat. 956][/us/stat/109/956]; [Pub. L. 106–159, title II][/us/pl/106/159/tII], § 201(a)(1), (2), (b), Dec. 9, 1999, [113 Stat. 1758][/us/stat/113/1758], 1759; [Pub. L. 109–59, title IV][/us/pl/109/59/tIV], § 4102(b), Aug. 10, 2005, [119 Stat. 1715][/us/stat/119/1715]; [Pub. L. 112–141, div. C, title II][/us/pl/112/141/dC/tII], §§ 32204, 32507, 32931(d), July 6, 2012, [126 Stat. 785][/us/stat/126/785], 804, 829.)
 
 <table>
 
@@ -293,33 +293,33 @@ Oct. 27, 1986, Pub. L. 99–570, 100 Stat. 3207–170, § 12020; added Dec. 18
 
  __Amendments__ 
 
-    2012—Subsec. (f). [Pub. L. 112–141, § 32507][/us/pl/112/141/s32507], inserted “section 521 or” before “section 5102” in pars. (1) and (2).
+    2012—Subsec. (f). [Pub. L. 112–141][/us/pl/112/141], § 32507, inserted “section 521 or” before “section 5102” in pars. (1) and (2).
 
-    Subsec. (g)(1). [Pub. L. 112–141, § 32931(d)][/us/pl/112/141/s32931/d], which directed substitution of “The” for “Not later than 1 year after the date of enactment of this Act, the”, was executed by making the substitution for “Not later than 1 year after the date of the enactment of this Act, the”, to reflect the probable intent of Congress.
+    Subsec. (g)(1). [Pub. L. 112–141][/us/pl/112/141], § 32931(d), which directed substitution of “The” for “Not later than 1 year after the date of enactment of this Act, the”, was executed by making the substitution for “Not later than 1 year after the date of the enactment of this Act, the”, to reflect the probable intent of Congress.
 
-    Subsec. (k). [Pub. L. 112–141, § 32204][/us/pl/112/141/s32204], added subsec. (k).
+    Subsec. (k). [Pub. L. 112–141][/us/pl/112/141], § 32204, added subsec. (k).
 
-    2005—Subsec. (i)(2). [Pub. L. 109–59, § 4102(b)(1)][/us/pl/109/59/s4102/b/1], substituted “The Secretary” for “Not later than December 18, 1992, the Secretary” in introductory provisions.
+    2005—Subsec. (i)(2). [Pub. L. 109–59][/us/pl/109/59], § 4102(b)(1), substituted “The Secretary” for “Not later than December 18, 1992, the Secretary” in introductory provisions.
 
-    Subsec. (i)(2)(A). [Pub. L. 109–59, § 4102(b)(2)][/us/pl/109/59/s4102/b/2], substituted “180 days” for “90 days” and “$2,500” for “$1,000”.
+    Subsec. (i)(2)(A). [Pub. L. 109–59][/us/pl/109/59], § 4102(b)(2), substituted “180 days” for “90 days” and “$2,500” for “$1,000”.
 
-    Subsec. (i)(2)(B). [Pub. L. 109–59, § 4102(b)(3)][/us/pl/109/59/s4102/b/3], substituted “2 years” for “one year” and “$5,000;” for “$1,000; and”.
+    Subsec. (i)(2)(B). [Pub. L. 109–59][/us/pl/109/59], § 4102(b)(3), substituted “2 years” for “one year” and “$5,000;” for “$1,000; and”.
 
-    Subsec. (i)(2)(C). [Pub. L. 109–59, § 4102(b)(4)][/us/pl/109/59/s4102/b/4], substituted “$25,000; and” for “$10,000.”
+    Subsec. (i)(2)(C). [Pub. L. 109–59][/us/pl/109/59], § 4102(b)(4), substituted “$25,000; and” for “$10,000.”
 
-    Subsec. (i)(2)(D). [Pub. L. 109–59, § 4102(b)(5)][/us/pl/109/59/s4102/b/5], added subpar. (D).
+    Subsec. (i)(2)(D). [Pub. L. 109–59][/us/pl/109/59], § 4102(b)(5), added subpar. (D).
 
-    1999—Subsec. (b)(1)(D), (E). [Pub. L. 106–159, § 201(a)(1)][/us/pl/106/159/s201/a/1], added subpars. (D) and (E).
+    1999—Subsec. (b)(1)(D), (E). [Pub. L. 106–159][/us/pl/106/159], § 201(a)(1), added subpars. (D) and (E).
 
-    Subsec. (c)(1)(D), (E). [Pub. L. 106–159, § 201(a)(2)(A)][/us/pl/106/159/s201/a/2/A], (C), added subpars. (D) and (E). Former subpar. (D) redesignated (F).
+    Subsec. (c)(1)(D), (E). [Pub. L. 106–159][/us/pl/106/159], § 201(a)(2)(A), (C), added subpars. (D) and (E). Former subpar. (D) redesignated (F).
 
-    Subsec. (c)(1)(F). [Pub. L. 106–159, § 201(a)(2)(B)][/us/pl/106/159/s201/a/2/B], (D), redesignated subpar. (D) as (F) and substituted “subparagraphs (A) through (E)” for “clauses (A)–(C) of this paragraph”.
+    Subsec. (c)(1)(F). [Pub. L. 106–159][/us/pl/106/159], § 201(a)(2)(B), (D), redesignated subpar. (D) as (F) and substituted “subparagraphs (A) through (E)” for “clauses (A)–(C) of this paragraph”.
 
-    Subsecs. (f), (g). [Pub. L. 106–159, § 201(b)(2)][/us/pl/106/159/s201/b/2], added subsecs. (f) and (g). Former subsecs. (f) and (g) redesignated (h) and (i), respectively.
+    Subsecs. (f), (g). [Pub. L. 106–159][/us/pl/106/159], § 201(b)(2), added subsecs. (f) and (g). Former subsecs. (f) and (g) redesignated (h) and (i), respectively.
 
-    Subsec. (h). [Pub. L. 106–159, § 201(b)(1)][/us/pl/106/159/s201/b/1], (3), redesignated subsec. (f) as (h) and substituted “(b) through (g)” for “(b)–(e)” in two places. Former subsec. (h) redesignated (j).
+    Subsec. (h). [Pub. L. 106–159][/us/pl/106/159], § 201(b)(1), (3), redesignated subsec. (f) as (h) and substituted “(b) through (g)” for “(b)–(e)” in two places. Former subsec. (h) redesignated (j).
 
-    Subsecs. (i), (j). [Pub. L. 106–159, § 201(b)(1)][/us/pl/106/159/s201/b/1], redesignated subsecs. (g) and (h) as (i) and (j), respectively.
+    Subsecs. (i), (j). [Pub. L. 106–159][/us/pl/106/159], § 201(b)(1), redesignated subsecs. (g) and (h) as (i) and (j), respectively.
 
     1995—Subsec. (h). [Pub. L. 104–88][/us/pl/104/88] added subsec. (h).
 
@@ -333,7 +333,7 @@ Oct. 27, 1986, Pub. L. 99–570, 100 Stat. 3207–170, § 12020; added Dec. 18
 
  __Regulations__ 
 
-[Pub. L. 104–88, title IV, § 403(b)][/us/pl/104/88/s403/b], Dec. 29, 1995, [109 Stat. 956][/us/stat/109/956], provided that: 
+[Pub. L. 104–88, title IV][/us/pl/104/88/tIV], § 403(b), Dec. 29, 1995, [109 Stat. 956][/us/stat/109/956], provided that: 
 
 > “The initial regulations required under [section 31310(h) of title 49][/us/usc/t49/s31310/h], United States Code, shall be issued not later than 1 year after the date of the enactment of this Act \[Dec. 29, 1995\].”
 
@@ -345,30 +345,30 @@ Oct. 27, 1986, Pub. L. 99–570, 100 Stat. 3207–170, § 12020; added Dec. 18
 ----------
 
 [/us/usc/t49/s5103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5103
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1022
-[/us/pl/104/88/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs403%2Fa
+[/us/pl/104/88/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtIV
 [/us/stat/109/956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F956
-[/us/pl/106/159/s201/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2Fs201%2Fa%2F1
+[/us/pl/106/159/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2FtII
 [/us/stat/113/1758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1758
-[/us/pl/109/59/s4102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4102%2Fb
+[/us/pl/109/59/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIV
 [/us/stat/119/1715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1715
-[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtII
 [/us/stat/126/785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F785
-[/us/pl/112/141/s32507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32507
-[/us/pl/112/141/s32931/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32931%2Fd
-[/us/pl/112/141/s32204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32204
-[/us/pl/109/59/s4102/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4102%2Fb%2F1
-[/us/pl/109/59/s4102/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4102%2Fb%2F2
-[/us/pl/109/59/s4102/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4102%2Fb%2F3
-[/us/pl/109/59/s4102/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4102%2Fb%2F4
-[/us/pl/109/59/s4102/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4102%2Fb%2F5
-[/us/pl/106/159/s201/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2Fs201%2Fa%2F1
-[/us/pl/106/159/s201/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2Fs201%2Fa%2F2%2FA
-[/us/pl/106/159/s201/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2Fs201%2Fa%2F2%2FB
-[/us/pl/106/159/s201/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2Fs201%2Fb%2F2
-[/us/pl/106/159/s201/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2Fs201%2Fb%2F1
-[/us/pl/106/159/s201/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2Fs201%2Fb%2F1
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/106/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159
+[/us/pl/106/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159
+[/us/pl/106/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159
+[/us/pl/106/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159
+[/us/pl/106/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159
+[/us/pl/106/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
@@ -376,7 +376,7 @@ Oct. 27, 1986, Pub. L. 99–570, 100 Stat. 3207–170, § 12020; added Dec. 18
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/104/88/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs2
 [/us/usc/t49/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1301
-[/us/pl/104/88/s403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs403%2Fb
+[/us/pl/104/88/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtIV
 [/us/stat/109/956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F956
 [/us/usc/t49/s31310/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31310%2Fh
 

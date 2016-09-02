@@ -131,7 +131,7 @@
 
  __Amendments__ 
 
-    2004—[Pub. L. 108–297, § 6(b)][/us/pl/108/297/s6/b], Aug. 9, 2004, [118 Stat. 1097][/us/stat/118/1097], added item 44113.
+    2004—[Pub. L. 108–297][/us/pl/108/297], § 6(b), Aug. 9, 2004, [118 Stat. 1097][/us/stat/118/1097], added item 44113.
 
 ----------
 
@@ -140,7 +140,7 @@
 ----------
 ----------
 
-[/us/pl/108/297/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F297%2Fs6%2Fb
+[/us/pl/108/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F297
 [/us/stat/118/1097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1097
 
 

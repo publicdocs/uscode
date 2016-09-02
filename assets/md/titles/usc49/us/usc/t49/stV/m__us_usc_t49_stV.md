@@ -291,21 +291,21 @@ PART E—MISCELLANEOUS  </td>
 
  __Amendments__ 
 
-    2015–[Pub. L. 114–94, div. A, title XI][/us/pl/114/94], §§ 11301(c)(3), 11303(b)(2), 11503(c), Dec. 4, 2015, [129 Stat. 1648][/us/stat/129/1648], 1654, 1692, struck out item for chapter 225 “Federal grants to States for highway-rail grade crossing safety”, added item for chapter 242, and substituted “Rail improvement grants” for “Intercity Passenger Rail Service Corridor Capital Assistance” in item for chapter 244.
+    2015–[Pub. L. 114–94, div. A, title XI][/us/pl/114/94/dA/tXI], §§ 11301(c)(3), 11303(b)(2), 11503(c), Dec. 4, 2015, [129 Stat. 1648][/us/stat/129/1648], 1654, 1692, struck out item for chapter 225 “Federal grants to States for highway-rail grade crossing safety”, added item for chapter 242, and substituted “Rail improvement grants” for “Intercity Passenger Rail Service Corridor Capital Assistance” in item for chapter 244.
 
-    2008—[Pub. L. 110–432, div. A, title II, § 207(b)][/us/pl/110/432/s207/b], div. B, title III, § 301(b), title IV, § 401(b), Oct. 16, 2008, [122 Stat. 4875][/us/stat/122/4875], 4946, 4956, added items for chapters 225, 244, and 285.
+    2008—[Pub. L. 110–432, div. A, title II][/us/pl/110/432/dA/tII], § 207(b), div. B, title III, § 301(b), title IV, § 401(b), Oct. 16, 2008, [122 Stat. 4875][/us/stat/122/4875], 4946, 4956, added items for chapters 225, 244, and 285.
 
-    [Pub. L. 110–432, div. B, title III, § 303(b)][/us/pl/110/432/s303/b], Oct. 16, 2008, [122 Stat. 4951][/us/stat/122/4951], which directed insertion of the item for chapter 227 after the item for chapter 223, was executed by making the insertion after the item for chapter 225 to reflect the probable intent of Congress.
+    [Pub. L. 110–432, div. B, title III][/us/pl/110/432/dB/tIII], § 303(b), Oct. 16, 2008, [122 Stat. 4951][/us/stat/122/4951], which directed insertion of the item for chapter 227 after the item for chapter 223, was executed by making the insertion after the item for chapter 225 to reflect the probable intent of Congress.
 
-    2007—[Pub. L. 110–140, title XI, § 1112(b)][/us/pl/110/140/s1112/b], Dec. 19, 2007, [121 Stat. 1759][/us/stat/121/1759], substituted “Capital Grants for Class II and Class III Railroads” for “Light Density Rail Line Pilot Projects” in item for chapter 223.
+    2007—[Pub. L. 110–140, title XI][/us/pl/110/140/tXI], § 1112(b), Dec. 19, 2007, [121 Stat. 1759][/us/stat/121/1759], substituted “Capital Grants for Class II and Class III Railroads” for “Light Density Rail Line Pilot Projects” in item for chapter 223.
 
-    1998—[Pub. L. 105–178, title VII, § 7202(b)][/us/pl/105/178/s7202/b], June 9, 1998, [112 Stat. 471][/us/stat/112/471], added item for chapter 223.
+    1998—[Pub. L. 105–178, title VII][/us/pl/105/178/tVII], § 7202(b), June 9, 1998, [112 Stat. 471][/us/stat/112/471], added item for chapter 223.
 
-    1997—[Pub. L. 105–134, title I, § 106(a)][/us/pl/105/134/s106/a], Dec. 2, 1997, [111 Stat. 2573][/us/stat/111/2573], struck out item for chapter 245 “Amtrak Commuter”.
+    1997—[Pub. L. 105–134, title I][/us/pl/105/134/tI], § 106(a), Dec. 2, 1997, [111 Stat. 2573][/us/stat/111/2573], struck out item for chapter 245 “Amtrak Commuter”.
 
-    1996—[Pub. L. 104–287, § 5(56)(B)][/us/pl/104/287/s5/56/B], Oct. 11, 1996, [110 Stat. 3394][/us/stat/110/3394], added item for chapter 283.
+    1996—[Pub. L. 104–287][/us/pl/104/287], § 5(56)(B), Oct. 11, 1996, [110 Stat. 3394][/us/stat/110/3394], added item for chapter 283.
 
-    1994—[Pub. L. 103–440, title I, § 103(b)(1)][/us/pl/103/440/s103/b/1], Nov. 2, 1994, [108 Stat. 4618][/us/stat/108/4618], added part D and item for chapter 261, struck out former part D “MISCELLANEOUS” and former item for chapter 261 “Law Enforcement . . . 26101”, and added part E and item for chapter 281.
+    1994—[Pub. L. 103–440, title I][/us/pl/103/440/tI], § 103(b)(1), Nov. 2, 1994, [108 Stat. 4618][/us/stat/108/4618], added part D and item for chapter 261, struck out former part D “MISCELLANEOUS” and former item for chapter 261 “Law Enforcement . . . 26101”, and added part E and item for chapter 281.
 
 ----------
 
@@ -314,21 +314,21 @@ PART E—MISCELLANEOUS  </td>
 ----------
 ----------
 
-[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtXI
 [/us/stat/129/1648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1648
-[/us/pl/110/432/s207/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs207%2Fb
+[/us/pl/110/432/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdA%2FtII
 [/us/stat/122/4875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4875
-[/us/pl/110/432/s303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs303%2Fb
+[/us/pl/110/432/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdB%2FtIII
 [/us/stat/122/4951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4951
-[/us/pl/110/140/s1112/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1112%2Fb
+[/us/pl/110/140/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtXI
 [/us/stat/121/1759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1759
-[/us/pl/105/178/s7202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs7202%2Fb
+[/us/pl/105/178/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtVII
 [/us/stat/112/471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F471
-[/us/pl/105/134/s106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2Fs106%2Fa
+[/us/pl/105/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2FtI
 [/us/stat/111/2573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2573
-[/us/pl/104/287/s5/56/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F56%2FB
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3394
-[/us/pl/103/440/s103/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F440%2Fs103%2Fb%2F1
+[/us/pl/103/440/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F440%2FtI
 [/us/stat/108/4618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4618
 
 

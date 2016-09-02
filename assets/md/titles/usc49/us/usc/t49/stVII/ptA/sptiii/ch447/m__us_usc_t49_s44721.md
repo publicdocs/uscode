@@ -119,7 +119,7 @@
 
         Notwithstanding any other provision of law, amounts received for the sale of products created and services performed under this section shall be fully credited to the account of the Federal Aviation Administration that funded the provision of the products or services and shall remain available until expended.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1202][/us/stat/108/1202]; [Pub. L. 106–181, title VI, § 603(a)][/us/pl/106/181/s603/a], Apr. 5, 2000, [114 Stat. 150][/us/stat/114/150]; [Pub. L. 106–424, § 17(a)][/us/pl/106/424/s17/a], Nov. 1, 2000, [114 Stat. 1888][/us/stat/114/1888].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1202][/us/stat/108/1202]; [Pub. L. 106–181, title VI][/us/pl/106/181/tVI], § 603(a), Apr. 5, 2000, [114 Stat. 150][/us/stat/114/150]; [Pub. L. 106–424][/us/pl/106/424], § 17(a), Nov. 1, 2000, [114 Stat. 1888][/us/stat/114/1888].)
 
 <table>
 
@@ -221,7 +221,7 @@ In subsection (a)(1), the word “Administrator” in section 307(b) of the Fede
 
  __References in Text__ 
 
-    Sections 1 through 9 of the Act entitled “An Act to define the functions and duties of the Coast and Geodetic Survey, and for other purposes”, approved August 6, 1947, referred to in subsec. (c)(1), are classified to sections 883a to 883i of Title 33, Navigation and Navigable Waters. [Section 883g of Title 33][/us/usc/t33/s883g] was repealed by [Pub. L. 88–611, § 4(a)(2)][/us/pl/88/611/s4/a/2], Oct. 2, 1964, [78 Stat. 991][/us/stat/78/991].
+    Sections 1 through 9 of the Act entitled “An Act to define the functions and duties of the Coast and Geodetic Survey, and for other purposes”, approved August 6, 1947, referred to in subsec. (c)(1), are classified to sections 883a to 883i of Title 33, Navigation and Navigable Waters. [Section 883g of Title 33][/us/usc/t33/s883g] was repealed by [Pub. L. 88–611][/us/pl/88/611], § 4(a)(2), Oct. 2, 1964, [78 Stat. 991][/us/stat/78/991].
 
  __Amendments__ 
 
@@ -239,19 +239,19 @@ In subsection (a)(1), the word “Administrator” in section 307(b) of the Fede
 
     “(3) not obviously defective or deficient.”
 
-    Subsec. (c)(3), (4). [Pub. L. 106–424, § 17(a)(1)][/us/pl/106/424/s17/a/1], struck out pars. (3) and (4) which read as follows:
+    Subsec. (c)(3), (4). [Pub. L. 106–424][/us/pl/106/424], § 17(a)(1), struck out pars. (3) and (4) which read as follows:
 
     “(3) [Section 1307 of title 44][/us/usc/t44/s1307], United States Code.
 
     “(4) The provision of title II of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1995 under the heading ‘National Oceanic and Atmospheric Administration’ relating to aeronautical charts ([44 U.S.C. 1307][/us/usc/t44/s1307] note).”
 
-    Subsec. (g)(1)(D). [Pub. L. 106–424, § 17(a)(2)][/us/pl/106/424/s17/a/2], added subpar. (D).
+    Subsec. (g)(1)(D). [Pub. L. 106–424][/us/pl/106/424], § 17(a)(2), added subpar. (D).
 
-    Subsec. (g)(5). [Pub. L. 106–424, § 17(a)(3)][/us/pl/106/424/s17/a/3], added par. (5).
+    Subsec. (g)(5). [Pub. L. 106–424][/us/pl/106/424], § 17(a)(3), added par. (5).
 
  __Effective Date of 2000 Amendments__ 
 
-[Pub. L. 106–424, § 17(b)][/us/pl/106/424/s17/b], Nov. 1, 2000, [114 Stat. 1889][/us/stat/114/1889], provided that: 
+[Pub. L. 106–424][/us/pl/106/424], § 17(b), Nov. 1, 2000, [114 Stat. 1889][/us/stat/114/1889], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] take effect on October 1, 2000.”
 
@@ -259,7 +259,7 @@ In subsection (a)(1), the word “Administrator” in section 307(b) of the Fede
 
  __Savings Provision__ 
 
-[Pub. L. 106–181, title VI, § 604][/us/pl/106/181/s604], Apr. 5, 2000, [114 Stat. 152][/us/stat/114/152], provided that:
+[Pub. L. 106–181, title VI][/us/pl/106/181/tVI], § 604, Apr. 5, 2000, [114 Stat. 152][/us/stat/114/152], provided that:
 
 >     “(a)  __Continued Effectiveness of Directives__  __.—__ 
 
@@ -299,13 +299,13 @@ In subsection (a)(1), the word “Administrator” in section 307(b) of the Fede
 
  __Transfer of Functions__ 
 
-[Pub. L. 106–181, title VI, § 601][/us/pl/106/181/s601], Apr. 5, 2000, [114 Stat. 149][/us/stat/114/149], provided that: 
+[Pub. L. 106–181, title VI][/us/pl/106/181/tVI], § 601, Apr. 5, 2000, [114 Stat. 149][/us/stat/114/149], provided that: 
 
 > “Effective October 1, 2000, there are transferred to the Federal Aviation Administration and vested in the Administrator the functions, powers, and duties of the Secretary of Commerce and other officers of the Department of Commerce that relate to the Office of Aeronautical Charting and Cartography and are set forth in [section 44721 of title 49][/us/usc/t49/s44721], United States Code.”
 
  __Transfer of Office, Personnel, and Funds__ 
 
-[Pub. L. 106–181, title VI, § 602][/us/pl/106/181/s602], Apr. 5, 2000, [114 Stat. 149][/us/stat/114/149], provided that:
+[Pub. L. 106–181, title VI][/us/pl/106/181/tVI], § 602, Apr. 5, 2000, [114 Stat. 149][/us/stat/114/149], provided that:
 
 >     “(a)  __Transfer of Office__  __.—__ 
 
@@ -317,7 +317,7 @@ In subsection (a)(1), the word “Administrator” in section 307(b) of the Fede
 
  __Procurement of Private Enterprise Mapping, Charting, and Geographic Information Systems__ 
 
-[Pub. L. 106–181, title VI, § 607][/us/pl/106/181/s607], Apr. 5, 2000, [114 Stat. 154][/us/stat/114/154], provided that: 
+[Pub. L. 106–181, title VI][/us/pl/106/181/tVI], § 607, Apr. 5, 2000, [114 Stat. 154][/us/stat/114/154], provided that: 
 
 > “The Administrator \[of the Federal Aviation Administration\] shall consider procuring mapping, charting, and geographic information systems necessary to carry out the duties of the Administrator under title 49, United States Code, from private enterprises, if the Administrator determines that such procurement furthers the mission of the Federal Aviation Administration and is cost effective.”
 
@@ -331,40 +331,40 @@ In subsection (a)(1), the word “Administrator” in section 307(b) of the Fede
 [/us/usc/t33/s883a–883h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs883a%E2%80%93883h
 [/us/usc/t33/s883j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs883j
 [/us/usc/t31/s9701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9701
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1202
-[/us/pl/106/181/s603/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs603%2Fa
+[/us/pl/106/181/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtVI
 [/us/stat/114/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F150
-[/us/pl/106/424/s17/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F424%2Fs17%2Fa
+[/us/pl/106/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F424
 [/us/stat/114/1888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1888
 [/us/pl/85/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F726
 [/us/stat/72/750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F750
 [/us/usc/t31/s1341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1341
 [/us/usc/t33/s883g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs883g
-[/us/pl/88/611/s4/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F611%2Fs4%2Fa%2F2
+[/us/pl/88/611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F611
 [/us/stat/78/991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F991
 [/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
-[/us/pl/106/424/s17/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F424%2Fs17%2Fa%2F1
+[/us/pl/106/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F424
 [/us/usc/t44/s1307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs1307
 [/us/usc/t44/s1307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs1307
-[/us/pl/106/424/s17/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F424%2Fs17%2Fa%2F2
-[/us/pl/106/424/s17/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F424%2Fs17%2Fa%2F3
-[/us/pl/106/424/s17/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F424%2Fs17%2Fb
+[/us/pl/106/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F424
+[/us/pl/106/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F424
+[/us/pl/106/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F424
 [/us/stat/114/1889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1889
 [/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/pl/106/181/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106
-[/us/pl/106/181/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs604
+[/us/pl/106/181/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtVI
 [/us/stat/114/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F152
 [/us/usc/t44/s1307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs1307
-[/us/pl/106/181/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs601
+[/us/pl/106/181/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtVI
 [/us/stat/114/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F149
 [/us/usc/t49/s44721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44721
-[/us/pl/106/181/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs602
+[/us/pl/106/181/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtVI
 [/us/stat/114/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F149
 [/us/usc/t44/s1307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs1307
 [/us/usc/t31/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1531
-[/us/pl/106/181/s607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs607
+[/us/pl/106/181/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtVI
 [/us/stat/114/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F154
 
 

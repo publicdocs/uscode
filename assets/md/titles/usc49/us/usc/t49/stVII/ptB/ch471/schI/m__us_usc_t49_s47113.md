@@ -61,7 +61,7 @@
 
             (B) who is responsible for determining whether or not a small business concern qualifies as a small business concern owned and controlled by socially and economically disadvantaged individuals under this section or section 47107(e).
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1268][/us/stat/108/1268]; [Pub. L. 103–429, § 6(65)][/us/pl/103/429/s6/65], Oct. 31, 1994, [108 Stat. 4386][/us/stat/108/4386]; [Pub. L. 105–135, title VI, § 604(h)(2)][/us/pl/105/135/s604/h/2], Dec. 2, 1997, [111 Stat. 2635][/us/stat/111/2635]; [Pub. L. 112–95, title I, § 140(b)][/us/pl/112/95/s140/b], Feb. 14, 2012, [126 Stat. 27][/us/stat/126/27].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1268][/us/stat/108/1268]; [Pub. L. 103–429][/us/pl/103/429], § 6(65), Oct. 31, 1994, [108 Stat. 4386][/us/stat/108/4386]; [Pub. L. 105–135, title VI][/us/pl/105/135/tVI], § 604(h)(2), Dec. 2, 1997, [111 Stat. 2635][/us/stat/111/2635]; [Pub. L. 112–95, title I][/us/pl/112/95/tI], § 140(b), Feb. 14, 2012, [126 Stat. 27][/us/stat/126/27].)
 
 <table>
 
@@ -177,9 +177,9 @@ In subsection (a)(2), the reference is to section 8(c) of the Act because 15:637
 
     2012—Subsec. (e). [Pub. L. 112–95][/us/pl/112/95] added subsec. (e).
 
-    1997—Subsec. (a). [Pub. L. 105–135, § 604(h)(2)(A)][/us/pl/105/135/s604/h/2/A], substituted semicolon for period at end of par. (1), substituted “; and” for period at end of par. (2), and added par. (3).
+    1997—Subsec. (a). [Pub. L. 105–135][/us/pl/105/135], § 604(h)(2)(A), substituted semicolon for period at end of par. (1), substituted “; and” for period at end of par. (2), and added par. (3).
 
-    Subsec. (b). [Pub. L. 105–135, § 604(h)(2)(B)][/us/pl/105/135/s604/h/2/B], inserted “or qualified HUBZone small business concerns” before period at end.
+    Subsec. (b). [Pub. L. 105–135][/us/pl/105/135], § 604(h)(2)(B), inserted “or qualified HUBZone small business concerns” before period at end.
 
     1994—Subsec. (a)(2). [Pub. L. 103–429][/us/pl/103/429] substituted “8(d)” for “8(c)” in two places and “637(d))” for “637(c))”.
 
@@ -193,7 +193,7 @@ In subsection (a)(2), the reference is to section 8(c) of the Act because 15:637
 
  __Findings Regarding Disadvantaged Business Enterprise Programs__ 
 
-[Pub. L. 112–95, title I, § 140(a)][/us/pl/112/95/s140/a], Feb. 14, 2012, [126 Stat. 27][/us/stat/126/27], provided that: 
+[Pub. L. 112–95, title I][/us/pl/112/95/tI], § 140(a), Feb. 14, 2012, [126 Stat. 27][/us/stat/126/27], provided that: 
 
 > “Congress finds the following:
 
@@ -216,21 +216,21 @@ In subsection (a)(2), the reference is to section 8(c) of the Act because 15:637
 [/us/usc/t15/s637/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs637%2Fd
 [/us/usc/t15/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632
 [/us/usc/t49/s48103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs48103
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1268
-[/us/pl/103/429/s6/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F65
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/stat/108/4386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4386
-[/us/pl/105/135/s604/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs604%2Fh%2F2
+[/us/pl/105/135/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2FtVI
 [/us/stat/111/2635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2635
-[/us/pl/112/95/s140/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs140%2Fb
+[/us/pl/112/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtI
 [/us/stat/126/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F27
 [/us/pl/102/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F191
 [/us/stat/105/1591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1591
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
 [/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
-[/us/pl/105/135/s604/h/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs604%2Fh%2F2%2FA
-[/us/pl/105/135/s604/h/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs604%2Fh%2F2%2FB
+[/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
+[/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
 [/us/pl/105/135/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs3
@@ -238,7 +238,7 @@ In subsection (a)(2), the reference is to section 8(c) of the Act because 15:637
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/pl/103/429/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs9
 [/us/usc/t49/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs321
-[/us/pl/112/95/s140/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs140%2Fa
+[/us/pl/112/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtI
 [/us/stat/126/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F27
 [/us/usc/t49/s47107/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs47107%2Fe
 

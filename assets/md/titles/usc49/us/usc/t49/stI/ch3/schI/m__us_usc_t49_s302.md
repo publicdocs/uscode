@@ -47,7 +47,7 @@
 
     It is the policy of the United States Government to encourage and promote development of a national intermodal transportation system in the United States to move people and goods in an energy-efficient manner, provide the foundation for improved productivity growth, strengthen the Nation’s ability to compete in the global economy, and obtain the optimum yield from the Nation’s transportation resources.
 
-([Pub. L. 97–449, § 1(b)][/us/pl/97/449/s1/b], Jan. 12, 1983, [96 Stat. 2419][/us/stat/96/2419]; [Pub. L. 98–216, § 2(2)][/us/pl/98/216/s2/2], Feb. 14, 1984, [98 Stat. 5][/us/stat/98/5]; [Pub. L. 102–240, title I, § 1036(a)][/us/pl/102/240/s1036/a], title V, § 5001, Dec. 18, 1991, [105 Stat. 1978][/us/stat/105/1978], 2158; [Pub. L. 103–272, § 5(m)(6)][/us/pl/103/272/s5/m/6], July 5, 1994, [108 Stat. 1375][/us/stat/108/1375]; [Pub. L. 104–88, title III, § 308(a)][/us/pl/104/88/s308/a], Dec. 29, 1995, [109 Stat. 946][/us/stat/109/946].)
+([Pub. L. 97–449][/us/pl/97/449], § 1(b), Jan. 12, 1983, [96 Stat. 2419][/us/stat/96/2419]; [Pub. L. 98–216][/us/pl/98/216], § 2(2), Feb. 14, 1984, [98 Stat. 5][/us/stat/98/5]; [Pub. L. 102–240, title I][/us/pl/102/240/tI], § 1036(a), title V, § 5001, Dec. 18, 1991, [105 Stat. 1978][/us/stat/105/1978], 2158; [Pub. L. 103–272][/us/pl/103/272], § 5(m)(6), July 5, 1994, [108 Stat. 1375][/us/stat/108/1375]; [Pub. L. 104–88, title III][/us/pl/104/88/tIII], § 308(a), Dec. 29, 1995, [109 Stat. 946][/us/stat/109/946].)
 
 <table>
 
@@ -133,9 +133,9 @@ Oct. 15, 1966, Pub. L. 89–670, § 4(b), 80 Stat. 933.  </td>
 
     1994—Subsec. (b). [Pub. L. 103–272][/us/pl/103/272] substituted “This subtitle and chapters 221 and 315 of this title” for “Subtitle I and chapter 31 of subtitle II of this title and the Department of Transportation Act (49 App. U.S.C. 1651 et seq.)”.
 
-    1991—Subsec. (d). [Pub. L. 102–240, § 1036(a)][/us/pl/102/240/s1036/a], added subsec. (d).
+    1991—Subsec. (d). [Pub. L. 102–240][/us/pl/102/240], § 1036(a), added subsec. (d).
 
-    Subsec. (e). [Pub. L. 102–240, § 5001][/us/pl/102/240/s5001], added subsec. (e).
+    Subsec. (e). [Pub. L. 102–240][/us/pl/102/240], § 5001, added subsec. (e).
 
     1984—Subsec. (b). [Pub. L. 98–216][/us/pl/98/216] substituted “49 App. U.S.C.” for “49 U.S.C.”.
 
@@ -154,21 +154,21 @@ Oct. 15, 1966, Pub. L. 89–670, § 4(b), 80 Stat. 933.  </td>
 ----------
 ----------
 
-[/us/pl/97/449/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449%2Fs1%2Fb
+[/us/pl/97/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449
 [/us/stat/96/2419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2419
-[/us/pl/98/216/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F216%2Fs2%2F2
+[/us/pl/98/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F216
 [/us/stat/98/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F5
-[/us/pl/102/240/s1036/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1036%2Fa
+[/us/pl/102/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2FtI
 [/us/stat/105/1978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1978
-[/us/pl/103/272/s5/m/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs5%2Fm%2F6
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1375
-[/us/pl/104/88/s308/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs308%2Fa
+[/us/pl/104/88/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtIII
 [/us/stat/109/946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F946
 [/us/usc/t49/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1301
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
-[/us/pl/102/240/s1036/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1036%2Fa
-[/us/pl/102/240/s5001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs5001
+[/us/pl/102/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240
+[/us/pl/102/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240
 [/us/pl/98/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F216
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/104/88/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs2

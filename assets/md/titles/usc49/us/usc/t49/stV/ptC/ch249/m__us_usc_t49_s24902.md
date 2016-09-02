@@ -81,7 +81,7 @@
 
     No State or local building, zoning, subdivision, or similar or related law, nor any other State or local law from which a project would be exempt if undertaken by the Federal Government or an agency thereof within a Federal enclave wherein Federal jurisdiction is exclusive, including without limitation with respect to all such laws referenced herein above requirements for permits, actions, approvals or filings, shall apply in connection with the construction, ownership, use, operation, financing, leasing, conveying, mortgaging or enforcing a mortgage of (i) any improvement undertaken by or for the benefit of Amtrak as part of, or in furtherance of, the Northeast Corridor Improvement Project (including without limitation maintenance, service, inspection or similar facilities acquired, constructed or used for high speed trainsets) or chapter 241, 243, or 247 of this title or (ii) any land (and right, title or interest created with respect thereto) on which such improvement is located and adjoining, surrounding or any related land. These exemptions shall remain in effect and be applicable with respect to such land and improvements for the benefit of any mortgagee before, upon and after coming into possession of such improvements or land, any third party purchasers thereof in foreclosure (or through a deed in lieu of foreclosure), and their respective successors and assigns, in each case to the extent the land or improvements are used, or held for use, for railroad purposes or purposes accessory thereto. This subsection shall not apply to any improvement or related land unless Amtrak receives a Federal operating subsidy in the fiscal year in which Amtrak commits to or initiates such improvement.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 930][/us/stat/108/930]; [Pub. L. 104–205, title III, § 334][/us/pl/104/205/s334], Sept. 30, 1996, [110 Stat. 2974][/us/stat/110/2974]; [Pub. L. 105–134, title IV, § 405(b)(1)][/us/pl/105/134/s405/b/1], Dec. 2, 1997, [111 Stat. 2586][/us/stat/111/2586]; [Pub. L. 112–141, div. C, title II, § 32932(c)(3)][/us/pl/112/141/s32932/c/3], July 6, 2012, [126 Stat. 829][/us/stat/126/829].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 930][/us/stat/108/930]; [Pub. L. 104–205, title III][/us/pl/104/205/tIII], § 334, Sept. 30, 1996, [110 Stat. 2974][/us/stat/110/2974]; [Pub. L. 105–134, title IV][/us/pl/105/134/tIV], § 405(b)(1), Dec. 2, 1997, [111 Stat. 2586][/us/stat/111/2586]; [Pub. L. 112–141, div. C, title II][/us/pl/112/141/dC/tII], § 32932(c)(3), July 6, 2012, [126 Stat. 829][/us/stat/126/829].)
 
 <table>
 
@@ -585,7 +585,7 @@ Oct. 30, 1970, Pub. L. 91–518, 84 Stat. 1327, § 305(h) (last sentence); add
 
  __Northeast Corridor State-of-Good-Repair Plan__ 
 
-    [Pub. L. 110–432, div. B, title II, § 211][/us/pl/110/432/s211], Oct. 16, 2008, [122 Stat. 4920][/us/stat/122/4920], within 6 months after Oct. 16, 2008, required Amtrak to prepare capital spending plan to return the railroad right-of-way, facilities, stations, and equipment, of the Northeast Corridor main line to a state-of-good-repair by the end of fiscal year 2018 and required review and approval of the plan by the Secretary of Transportation, prior to repeal by [Pub. L. 114–94, div. A, title XI, § 11306(b)(3)][/us/pl/114/94/s11306/b/3], Dec. 4, 2015, [129 Stat. 1660][/us/stat/129/1660].
+    [Pub. L. 110–432, div. B, title II][/us/pl/110/432/dB/tII], § 211, Oct. 16, 2008, [122 Stat. 4920][/us/stat/122/4920], within 6 months after Oct. 16, 2008, required Amtrak to prepare capital spending plan to return the railroad right-of-way, facilities, stations, and equipment, of the Northeast Corridor main line to a state-of-good-repair by the end of fiscal year 2018 and required review and approval of the plan by the Secretary of Transportation, prior to repeal by [Pub. L. 114–94, div. A, title XI][/us/pl/114/94/dA/tXI], § 11306(b)(3), Dec. 4, 2015, [129 Stat. 1660][/us/stat/129/1660].
 
 ----------
 
@@ -598,13 +598,13 @@ Oct. 30, 1970, Pub. L. 91–518, 84 Stat. 1327, § 305(h) (last sentence); add
 [/us/stat/90/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F121
 [/us/pl/94/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F210
 [/us/stat/90/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F121
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F930
-[/us/pl/104/205/s334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F205%2Fs334
+[/us/pl/104/205/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F205%2FtIII
 [/us/stat/110/2974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2974
-[/us/pl/105/134/s405/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2Fs405%2Fb%2F1
+[/us/pl/105/134/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2FtIV
 [/us/stat/111/2586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2586
-[/us/pl/112/141/s32932/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32932%2Fc%2F3
+[/us/pl/112/141/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtII
 [/us/stat/126/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F829
 [/us/usc/t49/s854/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs854%2Fa%2F1%2FB
 [/us/pl/94/210/s703/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F210%2Fs703%2F1%2FE
@@ -617,9 +617,9 @@ Oct. 30, 1970, Pub. L. 91–518, 84 Stat. 1327, § 305(h) (last sentence); add
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
-[/us/pl/110/432/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs211
+[/us/pl/110/432/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdB%2FtII
 [/us/stat/122/4920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4920
-[/us/pl/114/94/s11306/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11306%2Fb%2F3
+[/us/pl/114/94/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtXI
 [/us/stat/129/1660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1660
 
 

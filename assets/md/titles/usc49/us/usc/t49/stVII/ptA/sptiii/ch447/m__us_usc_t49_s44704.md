@@ -105,7 +105,7 @@
 
         Nothing in this subsection affects the authority of the Secretary of Transportation to revoke a certificate.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1188][/us/stat/108/1188]; [Pub. L. 104–264, title IV, § 403][/us/pl/104/264/s403], Oct. 9, 1996, [110 Stat. 3256][/us/stat/110/3256]; [Pub. L. 108–176, title II, § 227(b)(2)][/us/pl/108/176/s227/b/2], (e)(1), title VIII, § 811, Dec. 12, 2003, [117 Stat. 2531][/us/stat/117/2531], 2532, 2590; [Pub. L. 109–59, title IV, § 4405][/us/pl/109/59/s4405], Aug. 10, 2005, [119 Stat. 1776][/us/stat/119/1776]; [Pub. L. 112–95, title III][/us/pl/112/95], §§ 302, 303(a), (c)(1), Feb. 14, 2012, [126 Stat. 56][/us/stat/126/56], 57.)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1188][/us/stat/108/1188]; [Pub. L. 104–264, title IV][/us/pl/104/264/tIV], § 403, Oct. 9, 1996, [110 Stat. 3256][/us/stat/110/3256]; [Pub. L. 108–176, title II][/us/pl/108/176/tII], § 227(b)(2), (e)(1), title VIII, § 811, Dec. 12, 2003, [117 Stat. 2531][/us/stat/117/2531], 2532, 2590; [Pub. L. 109–59, title IV][/us/pl/109/59/tIV], § 4405, Aug. 10, 2005, [119 Stat. 1776][/us/stat/119/1776]; [Pub. L. 112–95, title III][/us/pl/112/95/tIII], §§ 302, 303(a), (c)(1), Feb. 14, 2012, [126 Stat. 56][/us/stat/126/56], 57.)
 
 <table>
 
@@ -299,21 +299,21 @@ In subsections (a)–(c)(1), the word “Administrator” in section 603 of the 
 
  __Amendments__ 
 
-    2012—[Pub. L. 112–95, § 303(c)(1)][/us/pl/112/95/s303/c/1], substituted “, and design and production organization certificates” for “and design organization certificates” in section catchline.
+    2012—[Pub. L. 112–95][/us/pl/112/95], § 303(c)(1), substituted “, and design and production organization certificates” for “and design organization certificates” in section catchline.
 
-    Subsec. (a)(5). [Pub. L. 112–95, § 302][/us/pl/112/95/s302], added par. (5).
+    Subsec. (a)(5). [Pub. L. 112–95][/us/pl/112/95], § 302, added par. (5).
 
-    Subsec. (e). [Pub. L. 112–95, § 303(a)][/us/pl/112/95/s303/a], amended subsec. (e) generally. Prior to amendment, subsec. (e) related to design organization certificates.
+    Subsec. (e). [Pub. L. 112–95][/us/pl/112/95], § 303(a), amended subsec. (e) generally. Prior to amendment, subsec. (e) related to design organization certificates.
 
-    2005—Subsec. (a)(1) to (3). [Pub. L. 109–59, § 4405(1)][/us/pl/109/59/s4405/1]–(3), (5), (6), inserted par. headings, realigned margins, and substituted “Except as provided in paragraph (4), if” for “If” in par. (3).
+    2005—Subsec. (a)(1) to (3). [Pub. L. 109–59][/us/pl/109/59], § 4405(1)–(3), (5), (6), inserted par. headings, realigned margins, and substituted “Except as provided in paragraph (4), if” for “If” in par. (3).
 
-    Subsec. (a)(4). [Pub. L. 109–59, § 4405(4)][/us/pl/109/59/s4405/4], added par. (4).
+    Subsec. (a)(4). [Pub. L. 109–59][/us/pl/109/59], § 4405(4), added par. (4).
 
-    2003—[Pub. L. 108–176, § 227(e)(1)][/us/pl/108/176/s227/e/1], added section catchline and struck out former section catchline which read as follows: “Type certificates, production certificates, and airworthiness certificates”.
+    2003—[Pub. L. 108–176][/us/pl/108/176], § 227(e)(1), added section catchline and struck out former section catchline which read as follows: “Type certificates, production certificates, and airworthiness certificates”.
 
-    Subsec. (a)(3). [Pub. L. 108–176, § 811][/us/pl/108/176/s811], added par. (3).
+    Subsec. (a)(3). [Pub. L. 108–176][/us/pl/108/176], § 811, added par. (3).
 
-    Subsec. (e). [Pub. L. 108–176, § 227(b)(2)][/us/pl/108/176/s227/b/2], added subsec. (e).
+    Subsec. (e). [Pub. L. 108–176][/us/pl/108/176], § 227(b)(2), added subsec. (e).
 
     1996—Subsecs. (b) to (d). [Pub. L. 104–264][/us/pl/104/264] added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 
@@ -415,13 +415,13 @@ In subsections (a)–(c)(1), the word “Administrator” in section 603 of the 
 
  __Applicability__ 
 
-[Pub. L. 112–95, title III, § 303(b)][/us/pl/112/95/s303/b], Feb. 14, 2012, [126 Stat. 57][/us/stat/126/57], provided that: 
+[Pub. L. 112–95, title III][/us/pl/112/95/tIII], § 303(b), Feb. 14, 2012, [126 Stat. 57][/us/stat/126/57], provided that: 
 
 > “Before January 1, 2013, the Administrator of the Federal Aviation Administration may continue to issue certificates under [section 44704(e) of title 49][/us/usc/t49/s44704/e], United States Code, as in effect on the day before the date of enactment of this Act \[Feb. 14, 2012\].”
 
  __Aircraft Certification Process Review and Reform__ 
 
-[Pub. L. 112–95, title III, § 312][/us/pl/112/95/s312], Feb. 14, 2012, [126 Stat. 66][/us/stat/126/66], provided that:
+[Pub. L. 112–95, title III][/us/pl/112/95/tIII], § 312, Feb. 14, 2012, [126 Stat. 66][/us/stat/126/66], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -457,7 +457,7 @@ In subsections (a)–(c)(1), the word “Administrator” in section 603 of the 
 
  __Historical Aircraft Documents__ 
 
-[Pub. L. 112–95, title VIII, § 816][/us/pl/112/95/s816], Feb. 14, 2012, [126 Stat. 126][/us/stat/126/126], provided that:
+[Pub. L. 112–95, title VIII][/us/pl/112/95/tVIII], § 816, Feb. 14, 2012, [126 Stat. 126][/us/stat/126/126], provided that:
 
 >     “(a) __Preservation of Documents.—__ 
 
@@ -507,7 +507,7 @@ In subsections (a)–(c)(1), the word “Administrator” in section 603 of the 
 
  __Plan for Development and Oversight of System for Certification of Design Organizations__ 
 
-[Pub. L. 108–176, title II, § 227(b)(1)][/us/pl/108/176/s227/b/1], Dec. 12, 2003, [117 Stat. 2531][/us/stat/117/2531], provided that: 
+[Pub. L. 108–176, title II][/us/pl/108/176/tII], § 227(b)(1), Dec. 12, 2003, [117 Stat. 2531][/us/stat/117/2531], provided that: 
 
 > “Not later than 4 years after the date of enactment of this Act \[Dec. 12, 2003\], the Administrator of the Federal Aviation Administration shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a plan for the development and oversight of a system for certification of design organizations to certify compliance with the requirements and minimum standards prescribed under [section 44701(a) of title 49][/us/usc/t49/s44701/a], United States Code, for the type certification of aircraft, aircraft engines, propellers, or appliances.”
 
@@ -519,27 +519,27 @@ In subsections (a)–(c)(1), the word “Administrator” in section 603 of the 
 ----------
 
 [/us/usc/t49/s44701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44701%2Fa
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1188
-[/us/pl/104/264/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs403
+[/us/pl/104/264/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2FtIV
 [/us/stat/110/3256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3256
-[/us/pl/108/176/s227/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs227%2Fb%2F2
+[/us/pl/108/176/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtII
 [/us/stat/117/2531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2531
-[/us/pl/109/59/s4405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4405
+[/us/pl/109/59/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIV
 [/us/stat/119/1776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1776
-[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtIII
 [/us/stat/126/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F56
 [/us/pl/85/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F726
 [/us/stat/72/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F776
 [/us/usc/t49/s44701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44701%2Fa
-[/us/pl/112/95/s303/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs303%2Fc%2F1
-[/us/pl/112/95/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs302
-[/us/pl/112/95/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs303%2Fa
-[/us/pl/109/59/s4405/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4405%2F1
-[/us/pl/109/59/s4405/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4405%2F4
-[/us/pl/108/176/s227/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs227%2Fe%2F1
-[/us/pl/108/176/s811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs811
-[/us/pl/108/176/s227/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs227%2Fb%2F2
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
 [/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
 [/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
 [/us/pl/108/176/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs3
@@ -550,16 +550,16 @@ In subsections (a)–(c)(1), the word “Administrator” in section 603 of the 
 [/us/pl/113/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F53
 [/us/stat/127/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F584
 [/us/usc/t15/s272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs272
-[/us/pl/112/95/s303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs303%2Fb
+[/us/pl/112/95/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtIII
 [/us/stat/126/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F57
 [/us/usc/t49/s44704/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44704%2Fe
-[/us/pl/112/95/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs312
+[/us/pl/112/95/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtIII
 [/us/stat/126/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F66
 [/us/usc/t49/s44704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44704
-[/us/pl/112/95/s816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs816
+[/us/pl/112/95/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtVIII
 [/us/stat/126/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F126
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
-[/us/pl/108/176/s227/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs227%2Fb%2F1
+[/us/pl/108/176/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtII
 [/us/stat/117/2531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2531
 [/us/usc/t49/s44701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44701%2Fa
 

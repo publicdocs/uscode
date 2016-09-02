@@ -119,7 +119,7 @@
 
     The Administrator shall report measurements and calculations under this section to the Secretary of Transportation and shall consult and coordinate with the Secretary in carrying out this section.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1062][/us/stat/108/1062]; [Pub. L. 103–429, § 6(36)][/us/pl/103/429/s6/36], Oct. 31, 1994, [108 Stat. 4380][/us/stat/108/4380]; [Pub. L. 104–287, § 5(63)][/us/pl/104/287/s5/63], Oct. 11, 1996, [110 Stat. 3395][/us/stat/110/3395]; [Pub. L. 110–140, title I][/us/pl/110/140], §§ 104(b)(2), 113(a), Dec. 19, 2007, [121 Stat. 1503][/us/stat/121/1503], 1508.)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1062][/us/stat/108/1062]; [Pub. L. 103–429][/us/pl/103/429], § 6(36), Oct. 31, 1994, [108 Stat. 4380][/us/stat/108/4380]; [Pub. L. 104–287][/us/pl/104/287], § 5(63), Oct. 11, 1996, [110 Stat. 3395][/us/stat/110/3395]; [Pub. L. 110–140, title I][/us/pl/110/140/tI], §§ 104(b)(2), 113(a), Dec. 19, 2007, [121 Stat. 1503][/us/stat/121/1503], 1508.)
 
 <table>
 
@@ -321,7 +321,7 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, § 503(b)(3); added Oct. 10, 19
 
     In subsection (e), the words “his duties under” are omitted as surplus.
 
- __[__  __Pub. L. 103–429, § 6(36)(A)__  __][/us/pl/103/429/s6/36/A]__ 
+ __[__  __Pub. L. 103–429__  __][/us/pl/103/429]__  __, § 6(36)(A)__ 
 
     This makes conforming amendments necessary because of the restatement of 15:2003(b)(2)(G) as 49:32904(b)(3) by section 6(36)(B) of the bill.
 
@@ -381,25 +381,25 @@ In subsection (b)(3)(C), the words “and the EPA Administrator may prescribe ru
 
     The text of subsection (b)(4) is the text of 49:32904(b)(1)(B), as enacted by [section 1 of the Act of July 5, 1994][/us/act/1994-07-05/s1] ([Public Law 103–272][/us/pl/103/272], [108 Stat. 1063][/us/stat/108/1063]).
 
- __[__  __Pub. L. 103–429, § 6(36)(C)__  __][/us/pl/103/429/s6/36/C]__  __, (D)__ 
+ __[__  __Pub. L. 103–429__  __][/us/pl/103/429]__  __, § 6(36)(C), (D)__ 
 
     This makes conforming amendments necessary because of the restatement of 15:2003(b)(2)(G) as 49:32904(b)(3) by section 6(36)(B) of the bill.
 
  __Amendments__ 
 
-    2007—Subsec. (b)(1)(B). [Pub. L. 110–140, § 104(b)(2)][/us/pl/110/140/s104/b/2], inserted “, except for the purposes of section 32903” before period at end.
+    2007—Subsec. (b)(1)(B). [Pub. L. 110–140][/us/pl/110/140], § 104(b)(2), inserted “, except for the purposes of section 32903” before period at end.
 
-    Subsec. (b)(6) to (8). [Pub. L. 110–140, § 113(a)][/us/pl/110/140/s113/a], struck out pars. (6) to (8) which related to exemption from separate calculations requirement, judicial review of denial of petition, and unavailability of section 32903(a) and (b)(2) credits during model year when exemption is effective, respectively.
+    Subsec. (b)(6) to (8). [Pub. L. 110–140][/us/pl/110/140], § 113(a), struck out pars. (6) to (8) which related to exemption from separate calculations requirement, judicial review of denial of petition, and unavailability of section 32903(a) and (b)(2) credits during model year when exemption is effective, respectively.
 
     1996—Subsec. (b)(6)(C). [Pub. L. 104–287][/us/pl/104/287] substituted “Committee on Commerce” for “Committee on Energy and Commerce”.
 
-    1994—Subsec. (b)(1). [Pub. L. 103–429, § 6(36)(B)][/us/pl/103/429/s6/36/B], added par. (1) and struck out former par. (1) which read as follows: “In this subsection—
+    1994—Subsec. (b)(1). [Pub. L. 103–429][/us/pl/103/429], § 6(36)(B), added par. (1) and struck out former par. (1) which read as follows: “In this subsection—
 
     “(A) a passenger automobile is deemed to be manufactured domestically in a model year if at least 75 percent of the cost to the manufacturer is attributable to value added in the United States or Canada, unless the assembly of the automobile is completed in Canada and the automobile is imported into the United States more than 30 days after the end of the model year; and
 
     “(B) the fuel economy of a passenger automobile that is not manufactured domestically is deemed to be equal to the average fuel economy of all passenger automobiles manufactured by the same manufacturer that are not manufactured domestically.”
 
-    Subsec. (b)(2). [Pub. L. 103–429, § 6(36)(B)][/us/pl/103/429/s6/36/B], added par. (2) and struck out former par. (2) which read as follows:
+    Subsec. (b)(2). [Pub. L. 103–429][/us/pl/103/429], § 6(36)(B), added par. (2) and struck out former par. (2) which read as follows:
 
     “(2)(A) Except as provided in paragraphs (4) and (5) of this subsection, the Administrator shall make separate calculations under subsection (a)(1)(B) of this section for—
 
@@ -409,17 +409,17 @@ In subsection (b)(3)(C), the words “and the EPA Administrator may prescribe ru
 
     “(B) Passenger automobiles described in subparagraph (A)(i) and (ii) of this paragraph are deemed to be manufactured by separate manufacturers under this chapter.”
 
-    Subsec. (b)(3), (4). [Pub. L. 103–429, § 6(36)(B)][/us/pl/103/429/s6/36/B], added pars. (3) and (4). Former pars. (3) and (4) redesignated (5) and (6), respectively.
+    Subsec. (b)(3), (4). [Pub. L. 103–429][/us/pl/103/429], § 6(36)(B), added pars. (3) and (4). Former pars. (3) and (4) redesignated (5) and (6), respectively.
 
-    Subsec. (b)(5). [Pub. L. 103–429, § 6(36)(A)][/us/pl/103/429/s6/36/A], redesignated par. (3) as (5). Former par. (5) redesignated (7).
+    Subsec. (b)(5). [Pub. L. 103–429][/us/pl/103/429], § 6(36)(A), redesignated par. (3) as (5). Former par. (5) redesignated (7).
 
-    Subsec. (b)(5)(B). [Pub. L. 103–429, § 6(36)(C)][/us/pl/103/429/s6/36/C], substituted “paragraph (1)(A)(i) and exclude under paragraph (1)(A)(ii)” for “paragraph (2)(A)(i) and exclude under paragraph (2)(A)(ii)” in introductory provisions.
+    Subsec. (b)(5)(B). [Pub. L. 103–429][/us/pl/103/429], § 6(36)(C), substituted “paragraph (1)(A)(i) and exclude under paragraph (1)(A)(ii)” for “paragraph (2)(A)(i) and exclude under paragraph (2)(A)(ii)” in introductory provisions.
 
-    Subsec. (b)(6). [Pub. L. 103–429, § 6(36)(A)][/us/pl/103/429/s6/36/A], redesignated par. (4) as (6). Former par. (6) redesignated (8).
+    Subsec. (b)(6). [Pub. L. 103–429][/us/pl/103/429], § 6(36)(A), redesignated par. (4) as (6). Former par. (6) redesignated (8).
 
-    Subsec. (b)(6)(A). [Pub. L. 103–429, § 6(36)(D)][/us/pl/103/429/s6/36/D], substituted “paragraph (1)(A)” for “paragraph (2)(A)” in introductory provisions.
+    Subsec. (b)(6)(A). [Pub. L. 103–429][/us/pl/103/429], § 6(36)(D), substituted “paragraph (1)(A)” for “paragraph (2)(A)” in introductory provisions.
 
-    Subsec. (b)(7), (8). [Pub. L. 103–429, § 6(36)(A)][/us/pl/103/429/s6/36/A], redesignated pars. (5) and (6) as (7) and (8), respectively.
+    Subsec. (b)(7), (8). [Pub. L. 103–429][/us/pl/103/429], § 6(36)(A), redesignated pars. (5) and (6) as (7) and (8), respectively.
 
  __Effective Date of 2007 Amendment__ 
 
@@ -427,7 +427,7 @@ In subsection (b)(3)(C), the words “and the EPA Administrator may prescribe ru
 
  __Effect of Repeal on Existing Exemptions__ 
 
-[Pub. L. 110–140, title I, § 113(b)][/us/pl/110/140/s113/b], (c), Dec. 19, 2007, [121 Stat. 1508][/us/stat/121/1508], provided that:
+[Pub. L. 110–140, title I][/us/pl/110/140/tI], § 113(b), (c), Dec. 19, 2007, [121 Stat. 1508][/us/stat/121/1508], provided that:
 
 >     “(b)  __Effect of Repeal on Existing Exemptions__  __.—__ 
 
@@ -447,16 +447,16 @@ In subsection (b)(3)(C), the words “and the EPA Administrator may prescribe ru
 [/us/usc/t49/s32902/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs32902%2Fa
 [/us/usc/t49/s32908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs32908
 [/us/usc/t42/s7525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7525
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1062
-[/us/pl/103/429/s6/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F36
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/stat/108/4380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4380
-[/us/pl/104/287/s5/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F63
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3395
-[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtI
 [/us/stat/121/1503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1503
 [/us/usc/t49/s2012/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs2012%2Fb%2F2
-[/us/pl/103/429/s6/36/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F36%2FA
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/act/1994-07-05/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1994-07-05%2Fs1
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1063
@@ -472,22 +472,22 @@ In subsection (b)(3)(C), the words “and the EPA Administrator may prescribe ru
 [/us/act/1994-07-05/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1994-07-05%2Fs1
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1063
-[/us/pl/103/429/s6/36/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F36%2FC
-[/us/pl/110/140/s104/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs104%2Fb%2F2
-[/us/pl/110/140/s113/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs113%2Fa
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
-[/us/pl/103/429/s6/36/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F36%2FB
-[/us/pl/103/429/s6/36/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F36%2FB
-[/us/pl/103/429/s6/36/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F36%2FB
-[/us/pl/103/429/s6/36/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F36%2FA
-[/us/pl/103/429/s6/36/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F36%2FC
-[/us/pl/103/429/s6/36/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F36%2FA
-[/us/pl/103/429/s6/36/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F36%2FD
-[/us/pl/103/429/s6/36/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F36%2FA
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/110/140/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1601
 [/us/usc/t2/s1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1824
-[/us/pl/110/140/s113/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs113%2Fb
+[/us/pl/110/140/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtI
 [/us/stat/121/1508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1508
 [/us/usc/t49/s32904/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs32904%2Fb%2F6
 [/us/usc/t49/s32904/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs32904%2Fb%2F6

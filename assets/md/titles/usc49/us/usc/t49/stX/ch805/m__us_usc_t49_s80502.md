@@ -47,7 +47,7 @@
 
     A rail carrier, express carrier, or common carrier (except by air or water), a receiver, trustee, or lessee of one of those carriers, or an owner or master of a vessel that knowingly and willfully violates this section is liable to the United States Government for a civil penalty of at least $100 but not more than $500 for each violation. On learning of a violation, the Attorney General shall bring a civil action to collect the penalty in the district court of the United States for the judicial district in which the violation occurred or the defendant resides or does business.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1356][/us/stat/108/1356].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1356][/us/stat/108/1356].)
 
 <table>
 
@@ -186,7 +186,7 @@ June 29, 1906, ch. 3594, §§ 1–4, 34 Stat. 607.  </td>
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1356
 [/us/usc/t49/s73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs73
 [/us/act/1906-06-29/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-06-29%2Fs4

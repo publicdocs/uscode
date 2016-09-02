@@ -75,7 +75,7 @@
 
         (3) Amtrak subsequently may reconvey to a third party an interest conveyed to Amtrak under this subsection or prior comparable provision of law if the Board decides that the reconveyance will carry out the purposes of this part, regardless of when the proceeding was brought (including a proceeding pending before a United States court on November 28, 1990).
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 915][/us/stat/108/915]; [Pub. L. 112–141, div. C, title II, § 32932(c)(2)][/us/pl/112/141/s32932/c/2], July 6, 2012, [126 Stat. 829][/us/stat/126/829].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 915][/us/stat/108/915]; [Pub. L. 112–141, div. C, title II][/us/pl/112/141/dC/tII], § 32932(c)(2), July 6, 2012, [126 Stat. 829][/us/stat/126/829].)
 
 <table>
 
@@ -245,11 +245,11 @@ Nov. 28, 1990, Pub. L. 101–641, § 9(b), 104 Stat. 4658.  </td>
 
  __Amendments__ 
 
-    2012—Subsec. (c). [Pub. L. 112–141, § 32932(c)(2)(B)][/us/pl/112/141/s32932/c/2/B], substituted “Board” for “Commission” wherever appearing.
+    2012—Subsec. (c). [Pub. L. 112–141][/us/pl/112/141], § 32932(c)(2)(B), substituted “Board” for “Commission” wherever appearing.
 
-    Subsec. (c)(1). [Pub. L. 112–141, § 32932(c)(2)(A)][/us/pl/112/141/s32932/c/2/A], substituted “Surface Transportation Board” for “Interstate Commerce Commission”.
+    Subsec. (c)(1). [Pub. L. 112–141][/us/pl/112/141], § 32932(c)(2)(A), substituted “Surface Transportation Board” for “Interstate Commerce Commission”.
 
-    Subsec. (c)(2). [Pub. L. 112–141, § 32932(c)(2)(C)][/us/pl/112/141/s32932/c/2/C], substituted “Board’s” for “Commission’s”.
+    Subsec. (c)(2). [Pub. L. 112–141][/us/pl/112/141], § 32932(c)(2)(C), substituted “Board’s” for “Commission’s”.
 
  __Effective Date of 2012 Amendment__ 
 
@@ -262,16 +262,16 @@ Nov. 28, 1990, Pub. L. 101–641, § 9(b), 104 Stat. 4658.  </td>
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F915
-[/us/pl/112/141/s32932/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32932%2Fc%2F2
+[/us/pl/112/141/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtII
 [/us/stat/126/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F829
 [/us/usc/t49/s545/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs545%2Fd
 [/us/pl/101/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F641
 [/us/stat/104/4658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4658
-[/us/pl/112/141/s32932/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32932%2Fc%2F2%2FB
-[/us/pl/112/141/s32932/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32932%2Fc%2F2%2FA
-[/us/pl/112/141/s32932/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32932%2Fc%2F2%2FC
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101

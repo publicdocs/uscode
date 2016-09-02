@@ -23,7 +23,7 @@
 
     When at least 2 negotiable bills of lading are issued in a State for the same goods to be transported to a place in the 48 contiguous States or the District of Columbia, the word “duplicate” or another word indicating that the bill is not an original must be put plainly on the face of each bill except the original. A common carrier violating this subsection is liable for damages caused by the violation to a purchaser of the bill for value in good faith as an original bill even though the purchase occurred after the carrier delivered the goods to the holder of the original bill.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1351][/us/stat/108/1351].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1351][/us/stat/108/1351].)
 
 <table>
 
@@ -96,7 +96,7 @@ Aug. 29, 1916, ch. 415, §§ 4, 5, 39 Stat. 539.  </td>
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1351
 
 

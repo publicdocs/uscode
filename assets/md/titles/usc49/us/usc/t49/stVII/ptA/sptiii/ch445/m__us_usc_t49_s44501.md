@@ -87,7 +87,7 @@
 
         (3) Subject to [section 40119(b) of this title][/us/usc/t49/s40119/b] and regulations prescribed under section 40119(b), the Administrator of the Federal Aviation Administration shall submit to the committees named in paragraph (1) of this subsection an annual report on the accomplishments of the research completed during the prior fiscal year, including a description of the dissemination to the private sector of research results and a description of any new technologies developed. The report shall be submitted with the plan required under paragraph (1) and be organized to allow comparison with the plan in effect for the prior fiscal year. The report shall be prepared in accordance with requirements of [section 1116 of title 31][/us/usc/t31/s1116].
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1173][/us/stat/108/1173]; [Pub. L. 104–264, title XI, § 1105][/us/pl/104/264/s1105], Oct. 9, 1996, [110 Stat. 3279][/us/stat/110/3279]; [Pub. L. 104–287, § 5(74)][/us/pl/104/287/s5/74], Oct. 11, 1996, [110 Stat. 3396][/us/stat/110/3396]; [Pub. L. 106–181, title IX, § 902(a)][/us/pl/106/181/s902/a], Apr. 5, 2000, [114 Stat. 195][/us/stat/114/195]; [Pub. L. 112–95, title I, § 105][/us/pl/112/95/s105], Feb. 14, 2012, [126 Stat. 17][/us/stat/126/17].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1173][/us/stat/108/1173]; [Pub. L. 104–264, title XI][/us/pl/104/264/tXI], § 1105, Oct. 9, 1996, [110 Stat. 3279][/us/stat/110/3279]; [Pub. L. 104–287][/us/pl/104/287], § 5(74), Oct. 11, 1996, [110 Stat. 3396][/us/stat/110/3396]; [Pub. L. 106–181, title IX][/us/pl/106/181/tIX], § 902(a), Apr. 5, 2000, [114 Stat. 195][/us/stat/114/195]; [Pub. L. 112–95, title I][/us/pl/112/95/tI], § 105, Feb. 14, 2012, [126 Stat. 17][/us/stat/126/17].)
 
 <table>
 
@@ -203,17 +203,17 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 312(d); added Nov. 3, 1988, 
 
     2012—Subsec. (b)(5). [Pub. L. 112–95][/us/pl/112/95] added par. (5).
 
-    2000—Subsec. (c)(2)(B)(iv) to (vi). [Pub. L. 106–181, § 902(a)(1)][/us/pl/106/181/s902/a/1], added cls. (iv) and (vi) and redesignated former cl. (iv) as (v).
+    2000—Subsec. (c)(2)(B)(iv) to (vi). [Pub. L. 106–181][/us/pl/106/181], § 902(a)(1), added cls. (iv) and (vi) and redesignated former cl. (iv) as (v).
 
-    Subsec. (c)(3). [Pub. L. 106–181, § 902(a)(2)][/us/pl/106/181/s902/a/2], inserted at end “The report shall be prepared in accordance with requirements of [section 1116 of title 31][/us/usc/t31/s1116].”
+    Subsec. (c)(3). [Pub. L. 106–181][/us/pl/106/181], § 902(a)(2), inserted at end “The report shall be prepared in accordance with requirements of [section 1116 of title 31][/us/usc/t31/s1116].”
 
     1996—Subsec. (c)(1). [Pub. L. 104–287][/us/pl/104/287] substituted “Committee on Science” for “Committee on Science, Space, and Technology”.
 
-    Subsec. (c)(2)(A). [Pub. L. 104–264, § 1105(1)][/us/pl/104/264/s1105/1], substituted “5-year period” for “15-year period”.
+    Subsec. (c)(2)(A). [Pub. L. 104–264][/us/pl/104/264], § 1105(1), substituted “5-year period” for “15-year period”.
 
-    Subsec. (c)(2)(B). [Pub. L. 104–264, § 1105(2)][/us/pl/104/264/s1105/2], amended subpar. (B) generally. Prior to amendment, subpar. (B) set out the requirements for research plans including specific requirements for the first two years of the plan, for the 3rd, 4th, and 5th years, and for the 6th and subsequent years.
+    Subsec. (c)(2)(B). [Pub. L. 104–264][/us/pl/104/264], § 1105(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) set out the requirements for research plans including specific requirements for the first two years of the plan, for the 3rd, 4th, and 5th years, and for the 6th and subsequent years.
 
-    Subsec. (c)(3). [Pub. L. 104–264, § 1105(3)][/us/pl/104/264/s1105/3], inserted “, including a description of the dissemination to the private sector of research results and a description of any new technologies developed” after “during the prior fiscal year”.
+    Subsec. (c)(3). [Pub. L. 104–264][/us/pl/104/264], § 1105(3), inserted “, including a description of the dissemination to the private sector of research results and a description of any new technologies developed” after “during the prior fiscal year”.
 
  __Change of Name__ 
 
@@ -229,7 +229,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 312(d); added Nov. 3, 1988, 
 
  __Consolidation and Realignment of FAA Services and Facilities__ 
 
-[Pub. L. 112–95, title VIII, § 804][/us/pl/112/95/s804], Feb. 14, 2012, [126 Stat. 119][/us/stat/126/119], provided that:
+[Pub. L. 112–95, title VIII][/us/pl/112/95/tVIII], § 804, Feb. 14, 2012, [126 Stat. 119][/us/stat/126/119], provided that:
 
 >     “(a) __National Facilities Realignment and Consolidation Report.—__ 
 
@@ -335,7 +335,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 312(d); added Nov. 3, 1988, 
 
  __Program Authorizations__ 
 
-[Pub. L. 112–95, title IX, § 901(c)][/us/pl/112/95/s901/c], Feb. 14, 2012, [126 Stat. 137][/us/stat/126/137], provided that: 
+[Pub. L. 112–95, title IX][/us/pl/112/95/tIX], § 901(c), Feb. 14, 2012, [126 Stat. 137][/us/stat/126/137], provided that: 
 
 > “From the other accounts described in the national aviation research plan required under [section 44501(c) of title 49][/us/usc/t49/s44501/c], United States Code, the following research and development activities are authorized:
 
@@ -389,15 +389,15 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 312(d); added Nov. 3, 1988, 
 [/us/usc/t49/s44508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44508
 [/us/usc/t49/s40119/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40119%2Fb
 [/us/usc/t31/s1116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1116
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1173
-[/us/pl/104/264/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs1105
+[/us/pl/104/264/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2FtXI
 [/us/stat/110/3279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3279
-[/us/pl/104/287/s5/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F74
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3396
-[/us/pl/106/181/s902/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs902%2Fa
+[/us/pl/106/181/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtIX
 [/us/stat/114/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F195
-[/us/pl/112/95/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs105
+[/us/pl/112/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtI
 [/us/stat/126/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F17
 [/us/pl/85/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F726
 [/us/stat/72/752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F752
@@ -405,22 +405,22 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 312(d); added Nov. 3, 1988, 
 [/us/stat/94/2311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2311
 [/us/usc/t15/s3701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3701
 [/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
-[/us/pl/106/181/s902/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs902%2Fa%2F1
-[/us/pl/106/181/s902/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs902%2Fa%2F2
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/usc/t31/s1116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1116
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
-[/us/pl/104/264/s1105/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs1105%2F1
-[/us/pl/104/264/s1105/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs1105%2F2
-[/us/pl/104/264/s1105/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs1105%2F3
+[/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
+[/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
+[/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
 [/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/pl/106/181/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106
 [/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
 [/us/pl/104/264/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106
-[/us/pl/112/95/s804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs804
+[/us/pl/112/95/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtVIII
 [/us/stat/126/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F119
-[/us/pl/112/95/s901/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs901%2Fc
+[/us/pl/112/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtIX
 [/us/stat/126/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F137
 [/us/usc/t49/s44501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44501%2Fc
 

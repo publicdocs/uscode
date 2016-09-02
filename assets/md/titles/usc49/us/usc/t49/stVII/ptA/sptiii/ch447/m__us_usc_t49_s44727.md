@@ -29,7 +29,7 @@
 
         Not later than 9 months after the date of enactment of this section, the Secretary shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report containing the results of the study.
 
-(Added [Pub. L. 108–176, title V, § 502(a)][/us/pl/108/176/s502/a], Dec. 12, 2003, [117 Stat. 2557][/us/stat/117/2557].)
+(Added [Pub. L. 108–176, title V][/us/pl/108/176/tV], § 502(a), Dec. 12, 2003, [117 Stat. 2557][/us/stat/117/2557].)
 
  __References in Text__ 
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/108/176/s502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs502%2Fa
+[/us/pl/108/176/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtV
 [/us/stat/117/2557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2557
 [/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
 [/us/pl/108/176/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs3

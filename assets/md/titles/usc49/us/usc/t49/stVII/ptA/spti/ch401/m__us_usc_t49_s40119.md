@@ -51,7 +51,7 @@
 
     Except as otherwise provided by law, the Under Secretary may not transfer a duty or power under this section to another department, agency, or instrumentality of the United States Government.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1117][/us/stat/108/1117]; [Pub. L. 107–71, title I, § 101(e)][/us/pl/107/71/s101/e], Nov. 19, 2001, [115 Stat. 603][/us/stat/115/603]; [Pub. L. 107–296, title XVI, § 1601(a)][/us/pl/107/296/s1601/a], Nov. 25, 2002, [116 Stat. 2312][/us/stat/116/2312]; [Pub. L. 111–83, title V, § 561(c)(2)][/us/pl/111/83/s561/c/2], Oct. 28, 2009, [123 Stat. 2182][/us/stat/123/2182]; [Pub. L. 112–95, title VIII, § 801][/us/pl/112/95/s801], Feb. 14, 2012, [126 Stat. 118][/us/stat/126/118].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1117][/us/stat/108/1117]; [Pub. L. 107–71, title I][/us/pl/107/71/tI], § 101(e), Nov. 19, 2001, [115 Stat. 603][/us/stat/115/603]; [Pub. L. 107–296, title XVI][/us/pl/107/296/tXVI], § 1601(a), Nov. 25, 2002, [116 Stat. 2312][/us/stat/116/2312]; [Pub. L. 111–83, title V][/us/pl/111/83/tV], § 561(c)(2), Oct. 28, 2009, [123 Stat. 2182][/us/stat/123/2182]; [Pub. L. 112–95, title VIII][/us/pl/112/95/tVIII], § 801, Feb. 14, 2012, [126 Stat. 118][/us/stat/126/118].)
 
 <table>
 
@@ -143,19 +143,19 @@ In this section, the word “Administrator” in section 316(d) and (e) of the F
 
     2009—Subsec. (b)(3). [Pub. L. 111–83][/us/pl/111/83] added par. (3).
 
-    2002—Subsec. (a). [Pub. L. 107–296, § 1601(a)(1)][/us/pl/107/296/s1601/a/1], inserted “and the Administrator of the Federal Aviation Administration each” after “for Security” and substituted “criminal violence, aircraft piracy, and terrorism and to ensure security” for “criminal violence and aircraft piracy”.
+    2002—Subsec. (a). [Pub. L. 107–296][/us/pl/107/296], § 1601(a)(1), inserted “and the Administrator of the Federal Aviation Administration each” after “for Security” and substituted “criminal violence, aircraft piracy, and terrorism and to ensure security” for “criminal violence and aircraft piracy”.
 
-    Subsec. (b)(1). [Pub. L. 107–296, § 1601(a)(2)(A)][/us/pl/107/296/s1601/a/2/A], (B), in introductory provisions, substituted “and the establishment of a Department of Homeland Security, the Secretary of Transportation” for “, the Under Secretary” and “ensuring security under this title if the Secretary of Transportation” for “carrying out security or research and development activities under section 44501(a) or (c), 44502(a)(1) or (3), (b), or (c), 44504, 44505, 44507, 44508, 44511, 44512, 44513, 44901, 44903(a), (b), (c), or (e), 44905, 44912, 44935, 44936, or 44938(a) or (b) of this title if the Under Secretary”.
+    Subsec. (b)(1). [Pub. L. 107–296][/us/pl/107/296], § 1601(a)(2)(A), (B), in introductory provisions, substituted “and the establishment of a Department of Homeland Security, the Secretary of Transportation” for “, the Under Secretary” and “ensuring security under this title if the Secretary of Transportation” for “carrying out security or research and development activities under section 44501(a) or (c), 44502(a)(1) or (3), (b), or (c), 44504, 44505, 44507, 44508, 44511, 44512, 44513, 44901, 44903(a), (b), (c), or (e), 44905, 44912, 44935, 44936, or 44938(a) or (b) of this title if the Under Secretary”.
 
-    Subsec. (b)(1)(C). [Pub. L. 107–296, § 1601(a)(2)(C)][/us/pl/107/296/s1601/a/2/C], substituted “transportation safety” for “the safety of passengers in transportation”.
+    Subsec. (b)(1)(C). [Pub. L. 107–296][/us/pl/107/296], § 1601(a)(2)(C), substituted “transportation safety” for “the safety of passengers in transportation”.
 
-    2001—Subsec. (a). [Pub. L. 107–71, § 101(e)(1)][/us/pl/107/71/s101/e/1], substituted “Under Secretary of Transportation for Security” for “Administrator of the Federal Aviation Administration”.
+    2001—Subsec. (a). [Pub. L. 107–71][/us/pl/107/71], § 101(e)(1), substituted “Under Secretary of Transportation for Security” for “Administrator of the Federal Aviation Administration”.
 
-    Subsec. (b). [Pub. L. 107–71, § 101(e)(2)][/us/pl/107/71/s101/e/2], substituted “Under Secretary” for “Administrator” in two places in introductory provisions.
+    Subsec. (b). [Pub. L. 107–71][/us/pl/107/71], § 101(e)(2), substituted “Under Secretary” for “Administrator” in two places in introductory provisions.
 
-    Subsec. (b)(1)(C). [Pub. L. 107–71, § 101(e)(3)][/us/pl/107/71/s101/e/3], struck out “air” before “transportation”.
+    Subsec. (b)(1)(C). [Pub. L. 107–71][/us/pl/107/71], § 101(e)(3), struck out “air” before “transportation”.
 
-    Subsec. (c). [Pub. L. 107–71, § 101(e)(2)][/us/pl/107/71/s101/e/2], substituted “Under Secretary” for “Administrator”.
+    Subsec. (c). [Pub. L. 107–71][/us/pl/107/71], § 101(e)(2), substituted “Under Secretary” for “Administrator”.
 
  __Effective Date of 2002 Amendment__ 
 
@@ -178,27 +178,27 @@ In this section, the word “Administrator” in section 316(d) and (e) of the F
 
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1117
-[/us/pl/107/71/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs101%2Fe
+[/us/pl/107/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2FtI
 [/us/stat/115/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F603
-[/us/pl/107/296/s1601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1601%2Fa
+[/us/pl/107/296/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVI
 [/us/stat/116/2312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2312
-[/us/pl/111/83/s561/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F83%2Fs561%2Fc%2F2
+[/us/pl/111/83/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F83%2FtV
 [/us/stat/123/2182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2182
-[/us/pl/112/95/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs801
+[/us/pl/112/95/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtVIII
 [/us/stat/126/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F118
 [/us/pl/85/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F726
 [/us/stat/72/731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F731
 [/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
 [/us/pl/111/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F83
-[/us/pl/107/296/s1601/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1601%2Fa%2F1
-[/us/pl/107/296/s1601/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1601%2Fa%2F2%2FA
-[/us/pl/107/296/s1601/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1601%2Fa%2F2%2FC
-[/us/pl/107/71/s101/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs101%2Fe%2F1
-[/us/pl/107/71/s101/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs101%2Fe%2F2
-[/us/pl/107/71/s101/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs101%2Fe%2F3
-[/us/pl/107/71/s101/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs101%2Fe%2F2
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
+[/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs4
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101

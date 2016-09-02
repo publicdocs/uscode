@@ -27,7 +27,7 @@
 
     by reducing the incidence of damage to underground facilities during excavation through the voluntary adoption and efficient implementation by all States of State one-call notification programs that meet the minimum standards set forth under section 6103.
 
-(Added [Pub. L. 105–178, title VII, § 7302(a)][/us/pl/105/178/s7302/a], June 9, 1998, [112 Stat. 478][/us/stat/112/478].)
+(Added [Pub. L. 105–178, title VII][/us/pl/105/178/tVII], § 7302(a), June 9, 1998, [112 Stat. 478][/us/stat/112/478].)
 
  __Transfer of Functions__ 
 
@@ -35,7 +35,7 @@
 
  __Congressional Findings__ 
 
-[Pub. L. 105–178, title VII, § 7301][/us/pl/105/178/s7301], June 9, 1998, [112 Stat. 477][/us/stat/112/477], provided that: 
+[Pub. L. 105–178, title VII][/us/pl/105/178/tVII], § 7301, June 9, 1998, [112 Stat. 477][/us/stat/112/477], provided that: 
 
 > “Congress finds that—
 
@@ -52,11 +52,11 @@
 ----------
 ----------
 
-[/us/pl/105/178/s7302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs7302%2Fa
+[/us/pl/105/178/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtVII
 [/us/stat/112/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F478
 [/us/pl/108/426/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F426%2Fs2%2Fb
 [/us/usc/t49/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs108
-[/us/pl/105/178/s7301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs7301
+[/us/pl/105/178/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtVII
 [/us/stat/112/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F477
 
 

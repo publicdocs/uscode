@@ -33,7 +33,7 @@
 
         (3) refuses to begin or complete a rehabilitation program described in [section 45105 of this title][/us/usc/t49/s45105] after a finding by the Administrator under this section.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1222][/us/stat/108/1222]; [Pub. L. 107–71, title I, § 139(2)][/us/pl/107/71/s139/2], Nov. 19, 2001, [115 Stat. 640][/us/stat/115/640].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1222][/us/stat/108/1222]; [Pub. L. 107–71, title I][/us/pl/107/71/tI], § 139(2), Nov. 19, 2001, [115 Stat. 640][/us/stat/115/640].)
 
 <table>
 
@@ -125,9 +125,9 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 614(b); added Oct. 28, 1991,
 [/us/usc/t49/s45105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs45105
 [/us/usc/t49/s45105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs45105
 [/us/usc/t49/s45105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs45105
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1222
-[/us/pl/107/71/s139/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs139%2F2
+[/us/pl/107/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2FtI
 [/us/stat/115/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F640
 [/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
 

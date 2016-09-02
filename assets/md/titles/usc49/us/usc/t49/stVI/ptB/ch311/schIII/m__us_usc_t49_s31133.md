@@ -47,7 +47,7 @@
 
     The Secretary may delegate to a State receiving a grant under [section 31102 of this title][/us/usc/t49/s31102] those duties and powers related to enforcement (including conducting investigations) of this subchapter and regulations prescribed under this subchapter that the Secretary considers appropriate.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1001][/us/stat/108/1001]; [Pub. L. 105–178, title IV, § 4006(a)][/us/pl/105/178/s4006/a], June 9, 1998, [112 Stat. 401][/us/stat/112/401].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1001][/us/stat/108/1001]; [Pub. L. 105–178, title IV][/us/pl/105/178/tIV], § 4006(a), June 9, 1998, [112 Stat. 401][/us/stat/112/401].)
 
 <table>
 
@@ -133,7 +133,7 @@ In subsection (a), the words before clause (1) are substituted for “In carryin
 
  __Border Staffing Standards__ 
 
-[Pub. L. 106–159, title II, § 218][/us/pl/106/159/s218], Dec. 9, 1999, [113 Stat. 1767][/us/stat/113/1767], as amended by [Pub. L. 114–94, div. A, title V, § 5101(e)(10)][/us/pl/114/94/s5101/e/10], Dec. 4, 2015, [129 Stat. 1525][/us/stat/129/1525], provided that:
+[Pub. L. 106–159, title II][/us/pl/106/159/tII], § 218, Dec. 9, 1999, [113 Stat. 1767][/us/stat/113/1767], as amended by [Pub. L. 114–94, div. A, title V][/us/pl/114/94/dA/tV], § 5101(e)(10), Dec. 4, 2015, [129 Stat. 1525][/us/stat/129/1525], provided that:
 
 >     “(a)  __Development and Implementation__  __.—__ 
 
@@ -161,7 +161,7 @@ In subsection (a), the words before clause (1) are substituted for “In carryin
 
 >         If the Secretary makes a designation pursuant to paragraph (1) for a fiscal year, the Secretary may not make a designation under \[former\] [section 31104(f)(2)(B) of title 49][/us/usc/t49/s31104/f/2/B], United States Code, for such fiscal year.”
 
-    \[[Pub. L. 114–94, div. A, title V, § 5101(e)(10)][/us/pl/114/94/s5101/e/10], (f), Dec. 4, 2015, [129 Stat. 1525][/us/stat/129/1525], 1526, provided that, effective Oct. 1, 2016, [section 218 of Pub. L. 106–159][/us/pl/106/159/s218], set out above, is amended in subsection (d)(1) by striking “[section 31104(f)(2)(B) of title 49][/us/usc/t49/s31104/f/2/B], United States Code” and inserting “[section 31104(a)(1) of title 49][/us/usc/t49/s31104/a/1], United States Code” and by striking subsection (d)(3).\]
+    \[[Pub. L. 114–94, div. A, title V][/us/pl/114/94/dA/tV], § 5101(e)(10), (f), Dec. 4, 2015, [129 Stat. 1525][/us/stat/129/1525], 1526, provided that, effective Oct. 1, 2016, [section 218 of Pub. L. 106–159][/us/pl/106/159/s218], set out above, is amended in subsection (d)(1) by striking “[section 31104(f)(2)(B) of title 49][/us/usc/t49/s31104/f/2/B], United States Code” and inserting “[section 31104(a)(1) of title 49][/us/usc/t49/s31104/a/1], United States Code” and by striking subsection (d)(3).\]
 
 ----------
 
@@ -172,18 +172,18 @@ In subsection (a), the words before clause (1) are substituted for “In carryin
 
 [/us/usc/t49/s31102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31102
 [/us/usc/t49/s31102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31102
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1001
-[/us/pl/105/178/s4006/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4006%2Fa
+[/us/pl/105/178/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtIV
 [/us/stat/112/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F401
 [/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
-[/us/pl/106/159/s218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2Fs218
+[/us/pl/106/159/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2FtII
 [/us/stat/113/1767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1767
-[/us/pl/114/94/s5101/e/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5101%2Fe%2F10
+[/us/pl/114/94/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtV
 [/us/stat/129/1525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1525
 [/us/usc/t49/s31104/f/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31104%2Ff%2F2%2FB
 [/us/usc/t49/s31104/f/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31104%2Ff%2F2%2FB
-[/us/pl/114/94/s5101/e/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5101%2Fe%2F10
+[/us/pl/114/94/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtV
 [/us/stat/129/1525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1525
 [/us/pl/106/159/s218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2Fs218
 [/us/usc/t49/s31104/f/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31104%2Ff%2F2%2FB

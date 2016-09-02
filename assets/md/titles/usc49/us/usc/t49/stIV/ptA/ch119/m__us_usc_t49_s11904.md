@@ -41,7 +41,7 @@
 
     (e) A person that knowingly discloses confidential data made available to such person under [section 11163 of this title][/us/usc/t49/s11163] by a rail carrier providing transportation subject to the jurisdiction of the Board under this part shall be fined not more than $50,000.
 
-(Added [Pub. L. 104–88, title I, § 102(a)][/us/pl/104/88/s102/a], Dec. 29, 1995, [109 Stat. 851][/us/stat/109/851]; amended [Pub. L. 105–102, § 2(6)][/us/pl/105/102/s2/6], Nov. 20, 1997, [111 Stat. 2204][/us/stat/111/2204].)
+(Added [Pub. L. 104–88, title I][/us/pl/104/88/tI], § 102(a), Dec. 29, 1995, [109 Stat. 851][/us/stat/109/851]; amended [Pub. L. 105–102][/us/pl/105/102], § 2(6), Nov. 20, 1997, [111 Stat. 2204][/us/stat/111/2204].)
 
  __Historical and Revision Notes__ 
 
@@ -51,9 +51,9 @@
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [section 11910 of this title][/us/usc/t49/s11910] prior to the general amendment of this subtitle by [Pub. L. 104–88, § 102(a)][/us/pl/104/88/s102/a].
+    Provisions similar to those in this section were contained in [section 11910 of this title][/us/usc/t49/s11910] prior to the general amendment of this subtitle by [Pub. L. 104–88][/us/pl/104/88], § 102(a).
 
-    A prior section 11904, [Pub. L. 95–473][/us/pl/95/473], Oct. 17, 1978, [92 Stat. 1457][/us/stat/92/1457]; [Pub. L. 99–521, § 13(a)][/us/pl/99/521/s13/a], Oct. 22, 1986, [100 Stat. 2998][/us/stat/100/2998], related to additional rate and discrimination violations, prior to the general amendment of this subtitle by [Pub. L. 104–88, § 102(a)][/us/pl/104/88/s102/a]. See [section 14904 of this title][/us/usc/t49/s14904].
+    A prior section 11904, [Pub. L. 95–473][/us/pl/95/473], Oct. 17, 1978, [92 Stat. 1457][/us/stat/92/1457]; [Pub. L. 99–521][/us/pl/99/521], § 13(a), Oct. 22, 1986, [100 Stat. 2998][/us/stat/100/2998], related to additional rate and discrimination violations, prior to the general amendment of this subtitle by [Pub. L. 104–88][/us/pl/104/88], § 102(a). See [section 14904 of this title][/us/usc/t49/s14904].
 
  __Amendments__ 
 
@@ -69,18 +69,18 @@
 [/us/usc/t49/s10709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs10709
 [/us/usc/t49/s11144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs11144
 [/us/usc/t49/s11163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs11163
-[/us/pl/104/88/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs102%2Fa
+[/us/pl/104/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtI
 [/us/stat/109/851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F851
-[/us/pl/105/102/s2/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102%2Fs2%2F6
+[/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/stat/111/2204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2204
 [/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/usc/t49/s11910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs11910
-[/us/pl/104/88/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs102%2Fa
+[/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/95/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F473
 [/us/stat/92/1457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1457
-[/us/pl/99/521/s13/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F521%2Fs13%2Fa
+[/us/pl/99/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F521
 [/us/stat/100/2998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2998
-[/us/pl/104/88/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs102%2Fa
+[/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/usc/t49/s14904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs14904
 [/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 

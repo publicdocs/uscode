@@ -25,7 +25,7 @@
 
         (2) Any action of the Airports Authority that was required to be submitted to the Board of Review under section 6007(f)(4) of the Metropolitan Washington Airports Act of 1986 ([Public Law 99–500][/us/pl/99/500]; [100 Stat. 1783–380][/us/stat/100/1783-380]; [Public Law 99–599][/us/pl/99/599]; [100 Stat. 3341–383][/us/stat/100/3341-383]) before October 9, 1996, remains in effect and may not be set aside only because of a judicial order invalidating certain functions of the Board.
 
-(Added [Pub. L. 105–102, § 2(26)][/us/pl/105/102/s2/26], Nov. 20, 1997, [111 Stat. 2214][/us/stat/111/2214].)
+(Added [Pub. L. 105–102][/us/pl/105/102], § 2(26), Nov. 20, 1997, [111 Stat. 2214][/us/stat/111/2214].)
 
 <table>
 
@@ -145,9 +145,9 @@ Oct. 9, 1996, Pub. L. 104–264, title IX, § 904(d), 110 Stat. 3276.  </td>
 
     The Metropolitan Washington Airports Amendments Act of 1996, referred to in subsec. (b)(1), is title IX of [Pub. L. 104–264][/us/pl/104/264], Oct. 9, 1996, [110 Stat. 3274][/us/stat/110/3274], which amended the Metropolitan Washington Airports Act of 1986, title VI of [Pub. L. 99–500][/us/pl/99/500], Oct. 18, 1986, [100 Stat. 1783–373][/us/stat/100/1783-373], and title VI of [Pub. L. 99–591][/us/pl/99/591], Oct. 30, 1986, [100 Stat. 3341–376][/us/stat/100/3341-376], as amended. The Metropolitan Washington Airports Act of 1986 was classified generally to subchapter III (§ 2451 et seq.) of chapter 33 of former Title 49, Transportation, and was repealed and reenacted as this chapter by [Pub. L. 105–102][/us/pl/105/102], §§ 2(26), 5(b), Nov. 20, 1997, [111 Stat. 2205][/us/stat/111/2205], 2217.
 
-    [Section 49108 of this title][/us/usc/t49/s49108], referred to in subsec. (b)(1), was repealed by [Pub. L. 112–95, title I, § 150][/us/pl/112/95/s150], Feb. 14, 2012, [126 Stat. 32][/us/stat/126/32].
+    [Section 49108 of this title][/us/usc/t49/s49108], referred to in subsec. (b)(1), was repealed by [Pub. L. 112–95, title I][/us/pl/112/95/tI], § 150, Feb. 14, 2012, [126 Stat. 32][/us/stat/126/32].
 
-    Section 6007(f)(4) of the Metropolitan Washington Airports Act of 1986, referred to in subsec. (b)(2), is [section 6007(f)(4) of Pub. L. 99–500][/us/pl/99/500/s6007/f/4], title VI, Oct. 18, 1986, [100 Stat. 1783–379][/us/stat/100/1783-379], and [Pub. L. 99–591, title VI][/us/pl/99/591], Oct. 30, 1986, [100 Stat. 3341–382][/us/stat/100/3341-382], which related to a Board of Review and was classified to section 2456(f)(4) of former Title 49, Transportation. Subsec. (f) of section 6007 was repealed and subsec. (g) redesignated (f) by [Pub. L. 104–264, title IX, § 904(a)][/us/pl/104/264/s904/a], Oct. 9, 1996, [110 Stat. 3276][/us/stat/110/3276]. Section 6007 was subsequently repealed and reenacted as [section 49106 of Title 49][/us/usc/t49/s49106], Transportation, by [Pub. L. 105–102][/us/pl/105/102], §§ 2(26), 5(b), Nov. 20, 1997, [111 Stat. 2205][/us/stat/111/2205], 2217, and does not contain provisions relating to a Board of Review.
+    Section 6007(f)(4) of the Metropolitan Washington Airports Act of 1986, referred to in subsec. (b)(2), is [section 6007(f)(4) of Pub. L. 99–500][/us/pl/99/500/s6007/f/4], title VI, Oct. 18, 1986, [100 Stat. 1783–379][/us/stat/100/1783-379], and [Pub. L. 99–591, title VI][/us/pl/99/591/tVI], Oct. 30, 1986, [100 Stat. 3341–382][/us/stat/100/3341-382], which related to a Board of Review and was classified to section 2456(f)(4) of former Title 49, Transportation. Subsec. (f) of section 6007 was repealed and subsec. (g) redesignated (f) by [Pub. L. 104–264, title IX][/us/pl/104/264/tIX], § 904(a), Oct. 9, 1996, [110 Stat. 3276][/us/stat/110/3276]. Section 6007 was subsequently repealed and reenacted as [section 49106 of Title 49][/us/usc/t49/s49106], Transportation, by [Pub. L. 105–102][/us/pl/105/102], §§ 2(26), 5(b), Nov. 20, 1997, [111 Stat. 2205][/us/stat/111/2205], 2217, and does not contain provisions relating to a Board of Review.
 
 ----------
 
@@ -162,7 +162,7 @@ Oct. 9, 1996, Pub. L. 104–264, title IX, § 904(d), 110 Stat. 3276.  </td>
 [/us/stat/100/1783-380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-380
 [/us/pl/99/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F599
 [/us/stat/100/3341-383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-383
-[/us/pl/105/102/s2/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102%2Fs2%2F26
+[/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/stat/111/2214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2214
 [/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
 [/us/stat/110/3274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3274
@@ -173,13 +173,13 @@ Oct. 9, 1996, Pub. L. 104–264, title IX, § 904(d), 110 Stat. 3276.  </td>
 [/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/stat/111/2205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2205
 [/us/usc/t49/s49108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs49108
-[/us/pl/112/95/s150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs150
+[/us/pl/112/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtI
 [/us/stat/126/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F32
 [/us/pl/99/500/s6007/f/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs6007%2Ff%2F4
 [/us/stat/100/1783-379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-379
-[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
+[/us/pl/99/591/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2FtVI
 [/us/stat/100/3341-382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-382
-[/us/pl/104/264/s904/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs904%2Fa
+[/us/pl/104/264/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2FtIX
 [/us/stat/110/3276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3276
 [/us/usc/t49/s49106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs49106
 [/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102

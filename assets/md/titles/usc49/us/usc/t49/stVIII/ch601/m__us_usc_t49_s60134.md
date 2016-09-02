@@ -79,13 +79,13 @@
 
     There is authorized to be appropriated to the Secretary to provide grants under this section $1,500,000 for each of fiscal years 2012 through 2015. Such funds shall remain available until expended.
 
-(Added [Pub. L. 109–468, § 2(b)(2)][/us/pl/109/468/s2/b/2], Dec. 29, 2006, [120 Stat. 3487][/us/stat/120/3487]; amended [Pub. L. 112–90][/us/pl/112/90], §§ 3(b), 32(d), Jan. 3, 2012, [125 Stat. 1906][/us/stat/125/1906], 1923.)
+(Added [Pub. L. 109–468][/us/pl/109/468], § 2(b)(2), Dec. 29, 2006, [120 Stat. 3487][/us/stat/120/3487]; amended [Pub. L. 112–90][/us/pl/112/90], §§ 3(b), 32(d), Jan. 3, 2012, [125 Stat. 1906][/us/stat/125/1906], 1923.)
 
  __Amendments__ 
 
-    2012—Subsec. (a)(3). [Pub. L. 112–90, § 3(b)][/us/pl/112/90/s3/b], added par. (3).
+    2012—Subsec. (a)(3). [Pub. L. 112–90][/us/pl/112/90], § 3(b), added par. (3).
 
-    Subsec. (i). [Pub. L. 112–90, § 32(d)][/us/pl/112/90/s32/d], added subsec. (i).
+    Subsec. (i). [Pub. L. 112–90][/us/pl/112/90], § 32(d), added subsec. (i).
 
  __Effective Date of 2012 Amendment__ 
 
@@ -98,12 +98,12 @@
 ----------
 ----------
 
-[/us/pl/109/468/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F468%2Fs2%2Fb%2F2
+[/us/pl/109/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F468
 [/us/stat/120/3487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3487
 [/us/pl/112/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90
 [/us/stat/125/1906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1906
-[/us/pl/112/90/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90%2Fs3%2Fb
-[/us/pl/112/90/s32/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90%2Fs32%2Fd
+[/us/pl/112/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90
+[/us/pl/112/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90
 [/us/pl/112/90/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90%2Fs3%2Fb
 [/us/pl/112/90/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90%2Fs3%2Fc
 [/us/usc/t49/s6103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs6103

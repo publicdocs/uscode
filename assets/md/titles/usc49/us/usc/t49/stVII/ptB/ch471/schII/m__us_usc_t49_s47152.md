@@ -53,7 +53,7 @@
 
     (8) When a term under this section is not satisfied, any part of the interest in the property reverts to the Government, at the option of the Government, as the property then exists.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1279][/us/stat/108/1279]; [Pub. L. 106–181, title I, § 135(d)(2)][/us/pl/106/181/s135/d/2], Apr. 5, 2000, [114 Stat. 85][/us/stat/114/85].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1279][/us/stat/108/1279]; [Pub. L. 106–181, title I][/us/pl/106/181/tI], § 135(d)(2), Apr. 5, 2000, [114 Stat. 85][/us/stat/114/85].)
 
 <table>
 
@@ -135,9 +135,9 @@ In this section, before paragraph (1), the words “conditions, reservations, an
 ----------
 
 [/us/usc/t49/s47153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs47153
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1279
-[/us/pl/106/181/s135/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs135%2Fd%2F2
+[/us/pl/106/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtI
 [/us/stat/114/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F85
 [/us/pl/91/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F258
 [/us/stat/84/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F235

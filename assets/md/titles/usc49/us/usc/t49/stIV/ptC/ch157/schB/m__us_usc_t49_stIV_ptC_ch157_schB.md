@@ -17,7 +17,7 @@
 
  __Amendments__ 
 
-    1996—[Pub. L. 104–287, § 5(43)(B)(ii)][/us/pl/104/287/s5/43/B/ii], Oct. 11, 1996, [110 Stat. 3393][/us/stat/110/3393], made technical amendment to subchapter heading.
+    1996—[Pub. L. 104–287][/us/pl/104/287], § 5(43)(B)(ii), Oct. 11, 1996, [110 Stat. 3393][/us/stat/110/3393], made technical amendment to subchapter heading.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/104/287/s5/43/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F43%2FB%2Fii
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3393
 
 

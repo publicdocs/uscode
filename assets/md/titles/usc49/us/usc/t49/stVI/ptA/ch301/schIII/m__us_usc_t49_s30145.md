@@ -21,7 +21,7 @@
 
     (2) is accompanied at the time of importation by a written statement issued by the manufacturer indicating the applicable motor vehicle safety standard prescribed under this chapter with which it does not comply.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 964][/us/stat/108/964].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 964][/us/stat/108/964].)
 
 <table>
 
@@ -79,7 +79,7 @@ Sept. 9, 1966, Pub. L. 89–563, 80 Stat. 718, § 108(e); added Oct. 31, 1988,
 ----------
 
 [/us/usc/t49/s30112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30112%2Fa
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F964
 
 

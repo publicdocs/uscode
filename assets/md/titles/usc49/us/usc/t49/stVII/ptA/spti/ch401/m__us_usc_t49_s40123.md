@@ -27,7 +27,7 @@
 
     The Administrator shall issue regulations to carry out this section.
 
-(Added [Pub. L. 104–264, title IV, § 402(a)][/us/pl/104/264/s402/a], Oct. 9, 1996, [110 Stat. 3255][/us/stat/110/3255].)
+(Added [Pub. L. 104–264, title IV][/us/pl/104/264/tIV], § 402(a), Oct. 9, 1996, [110 Stat. 3255][/us/stat/110/3255].)
 
  __Effective Date__ 
 
@@ -35,7 +35,7 @@
 
  __Improved Voluntary Disclosure Reporting System__ 
 
-[Pub. L. 112–95, title III, § 344][/us/pl/112/95/s344], Feb. 14, 2012, [126 Stat. 81][/us/stat/126/81], provided that:
+[Pub. L. 112–95, title III][/us/pl/112/95/tIII], § 344, Feb. 14, 2012, [126 Stat. 81][/us/stat/126/81], provided that:
 
 >     “(a)  __Voluntary Disclosure Reporting Program Defined__  __.—__ 
 
@@ -80,11 +80,11 @@
 ----------
 ----------
 
-[/us/pl/104/264/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs402%2Fa
+[/us/pl/104/264/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2FtIV
 [/us/stat/110/3255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3255
 [/us/pl/104/264/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106
-[/us/pl/112/95/s344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs344
+[/us/pl/112/95/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtIII
 [/us/stat/126/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F81
 
 

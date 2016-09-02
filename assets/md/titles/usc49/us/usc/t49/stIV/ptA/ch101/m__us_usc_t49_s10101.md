@@ -47,15 +47,15 @@
 
     (15) to provide for the expeditious handling and resolution of all proceedings required or permitted to be brought under this part.
 
-(Added [Pub. L. 104–88, title I, § 102(a)][/us/pl/104/88/s102/a], Dec. 29, 1995, [109 Stat. 805][/us/stat/109/805].)
+(Added [Pub. L. 104–88, title I][/us/pl/104/88/tI], § 102(a), Dec. 29, 1995, [109 Stat. 805][/us/stat/109/805].)
 
  __Prior Provisions__ 
 
-    Prior sections 10101 and 10101a were omitted in the general amendment of this subtitle by [Pub. L. 104–88, § 102(a)][/us/pl/104/88/s102/a].
+    Prior sections 10101 and 10101a were omitted in the general amendment of this subtitle by [Pub. L. 104–88][/us/pl/104/88], § 102(a).
 
-    Section 10101, [Pub. L. 95–473][/us/pl/95/473], Oct. 17, 1978, [92 Stat. 1337][/us/stat/92/1337]; [Pub. L. 96–296, § 4][/us/pl/96/296/s4], July 1, 1980, [94 Stat. 793][/us/stat/94/793]; [Pub. L. 96–448, title I, § 101(b)][/us/pl/96/448/s101/b], Oct. 14, 1980, [94 Stat. 1898][/us/stat/94/1898]; [Pub. L. 97–261, § 5][/us/pl/97/261/s5], Sept. 20, 1982, [96 Stat. 1103][/us/stat/96/1103]; [Pub. L. 103–311, title II, § 204][/us/pl/103/311/s204], Aug. 26, 1994, [108 Stat. 1683][/us/stat/108/1683], related to transportation policy. See sections 13101 and 15101 of this title.
+    Section 10101, [Pub. L. 95–473][/us/pl/95/473], Oct. 17, 1978, [92 Stat. 1337][/us/stat/92/1337]; [Pub. L. 96–296][/us/pl/96/296], § 4, July 1, 1980, [94 Stat. 793][/us/stat/94/793]; [Pub. L. 96–448, title I][/us/pl/96/448/tI], § 101(b), Oct. 14, 1980, [94 Stat. 1898][/us/stat/94/1898]; [Pub. L. 97–261][/us/pl/97/261], § 5, Sept. 20, 1982, [96 Stat. 1103][/us/stat/96/1103]; [Pub. L. 103–311, title II][/us/pl/103/311/tII], § 204, Aug. 26, 1994, [108 Stat. 1683][/us/stat/108/1683], related to transportation policy. See sections 13101 and 15101 of this title.
 
-    Section 10101a, added [Pub. L. 96–448, title I, § 101(a)][/us/pl/96/448/s101/a], Oct. 14, 1980, [94 Stat. 1897][/us/stat/94/1897], related to rail transportation policy.
+    Section 10101a, added [Pub. L. 96–448, title I][/us/pl/96/448/tI], § 101(a), Oct. 14, 1980, [94 Stat. 1897][/us/stat/94/1897], related to rail transportation policy.
 
  __Effective Date__ 
 
@@ -63,53 +63,53 @@
 
  __Short Title of 2008 Amendment__ 
 
-[Pub. L. 110–432, div. A, title VI, § 601][/us/pl/110/432/s601], Oct. 16, 2008, [122 Stat. 4900][/us/stat/122/4900], provided that: 
+[Pub. L. 110–432, div. A, title VI][/us/pl/110/432/dA/tVI], § 601, Oct. 16, 2008, [122 Stat. 4900][/us/stat/122/4900], provided that: 
 
 > “This title \[enacting sections 10908 to 10910 of this title and amending [section 10501 of this title][/us/usc/t49/s10501]\] may be cited as the ‘Clean Railroads Act of 2008’.”
 
-[Pub. L. 110–291, § 1][/us/pl/110/291/s1], July 30, 2008, [122 Stat. 2915][/us/stat/122/2915], provided that: 
+[Pub. L. 110–291][/us/pl/110/291], § 1, July 30, 2008, [122 Stat. 2915][/us/stat/122/2915], provided that: 
 
 > “This Act \[amending sections 13102, 13902, and 13905 of this title and enacting provisions set out as notes under [section 13902 of this title][/us/usc/t49/s13902]\] may be cited as the ‘Over-the-Road Bus Transportation Accessibility Act of 2007’.”
 
  __Short Title of 2005 Amendment__ 
 
-[Pub. L. 109–59, title IV, § 4201][/us/pl/109/59/s4201], Aug. 10, 2005, [119 Stat. 1751][/us/stat/119/1751], provided that: 
+[Pub. L. 109–59, title IV][/us/pl/109/59/tIV], § 4201, Aug. 10, 2005, [119 Stat. 1751][/us/stat/119/1751], provided that: 
 
 > “This subtitle \[subtitle B (§§ 4201–4216) of title IV of [Pub. L. 109–59][/us/pl/109/59], enacting sections 14710, 14711, and 14915 of this title, amending sections 13102, 13707, 13902, 14104, 14501, 14706, 14708, and 14901 of this title, and enacting provisions set out as notes under sections 13102, 14701, 14706, and 14710 of this title\] may be cited as the ‘Household Goods Mover Oversight Enforcement and Reform Act of 2005’\[.\]”
 
-[Pub. L. 109–59, title IV, § 4301][/us/pl/109/59/s4301], Aug. 10, 2005, [119 Stat. 1761][/us/stat/119/1761], provided that: 
+[Pub. L. 109–59, title IV][/us/pl/109/59/tIV], § 4301, Aug. 10, 2005, [119 Stat. 1761][/us/stat/119/1761], provided that: 
 
 > “This subtitle \[subtitle C (§§ 4301–4308) of title IV of [Pub. L. 109–59][/us/pl/109/59], enacting sections 14504a and 14506 of this title, amending sections 13902, 13905, 13906, 13908, 31102, and 31103 of this title, repealing [section 14504 of this title][/us/usc/t49/s14504], and enacting provisions set out as notes under sections 13902 and 14504 of this title\] may be cited as the ‘Unified Carrier Registration Act of 2005’.”
 
  __Short Title of 2002 Amendment__ 
 
-[Pub. L. 107–298, § 1][/us/pl/107/298/s1], Nov. 26, 2002, [116 Stat. 2342][/us/stat/116/2342], provided that: 
+[Pub. L. 107–298][/us/pl/107/298], § 1, Nov. 26, 2002, [116 Stat. 2342][/us/stat/116/2342], provided that: 
 
 > “This Act \[amending sections 13102, 13506, 14501, and 31138 of this title\] may be cited as the ‘Real Interstate Driver Equity Act of 2002’.”
 
  __Short Title of 1986 Amendment__ 
 
-[Pub. L. 99–521, § 1][/us/pl/99/521/s1], Oct. 22, 1986, [100 Stat. 2993][/us/stat/100/2993], provided that: 
+[Pub. L. 99–521][/us/pl/99/521], § 1, Oct. 22, 1986, [100 Stat. 2993][/us/stat/100/2993], provided that: 
 
 > “This Act \[see Tables for classification\] may be cited as the ‘Surface Freight Forwarder Deregulation Act of 1986’.”
 
  __Short Title of 1982 Amendment__ 
 
-[Pub. L. 97–261, § 1][/us/pl/97/261/s1], Sept. 20, 1982, [96 Stat. 1102][/us/stat/96/1102], provided: 
+[Pub. L. 97–261][/us/pl/97/261], § 1, Sept. 20, 1982, [96 Stat. 1102][/us/stat/96/1102], provided: 
 
 > “That this Act \[see Tables for classification\] may be cited as the ‘Bus Regulatory Reform Act of 1982’.”
 
  __Short Title of 1980 Amendments__ 
 
-[Pub. L. 96–454, § 1][/us/pl/96/454/s1], Oct. 15, 1980, [94 Stat. 2011][/us/stat/94/2011], provided: 
+[Pub. L. 96–454][/us/pl/96/454], § 1, Oct. 15, 1980, [94 Stat. 2011][/us/stat/94/2011], provided: 
 
 > “That this Act \[see Tables for classification\] may be cited as the ‘Household Goods Transportation Act of 1980’.”
 
-[Pub. L. 96–448, § 1][/us/pl/96/448/s1], Oct. 14, 1980, [94 Stat. 1895][/us/stat/94/1895], provided that: 
+[Pub. L. 96–448][/us/pl/96/448], § 1, Oct. 14, 1980, [94 Stat. 1895][/us/stat/94/1895], provided that: 
 
 > “This Act \[see Tables for classification\] may be cited as the ‘Staggers Rail Act of 1980’.”
 
-[Pub. L. 96–296, § 1][/us/pl/96/296/s1], July 1, 1980, [94 Stat. 793][/us/stat/94/793], provided: 
+[Pub. L. 96–296][/us/pl/96/296], § 1, July 1, 1980, [94 Stat. 793][/us/stat/94/793], provided: 
 
 > “That this Act \[see Tables for classification\] may be cited as the ‘Motor Carrier Act of 1980’.”
 
@@ -120,48 +120,48 @@
 ----------
 ----------
 
-[/us/pl/104/88/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs102%2Fa
+[/us/pl/104/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtI
 [/us/stat/109/805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F805
-[/us/pl/104/88/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs102%2Fa
+[/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/95/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F473
 [/us/stat/92/1337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1337
-[/us/pl/96/296/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F296%2Fs4
+[/us/pl/96/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F296
 [/us/stat/94/793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F793
-[/us/pl/96/448/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F448%2Fs101%2Fb
+[/us/pl/96/448/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F448%2FtI
 [/us/stat/94/1898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1898
-[/us/pl/97/261/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F261%2Fs5
+[/us/pl/97/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F261
 [/us/stat/96/1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1103
-[/us/pl/103/311/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311%2Fs204
+[/us/pl/103/311/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311%2FtII
 [/us/stat/108/1683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1683
-[/us/pl/96/448/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F448%2Fs101%2Fa
+[/us/pl/96/448/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F448%2FtI
 [/us/stat/94/1897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1897
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/104/88/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs2
 [/us/usc/t49/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1301
-[/us/pl/110/432/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs601
+[/us/pl/110/432/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdA%2FtVI
 [/us/stat/122/4900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4900
 [/us/usc/t49/s10501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs10501
-[/us/pl/110/291/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F291%2Fs1
+[/us/pl/110/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F291
 [/us/stat/122/2915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2915
 [/us/usc/t49/s13902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs13902
-[/us/pl/109/59/s4201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4201
+[/us/pl/109/59/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIV
 [/us/stat/119/1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1751
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
-[/us/pl/109/59/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4301
+[/us/pl/109/59/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIV
 [/us/stat/119/1761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1761
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/usc/t49/s14504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs14504
-[/us/pl/107/298/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F298%2Fs1
+[/us/pl/107/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F298
 [/us/stat/116/2342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2342
-[/us/pl/99/521/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F521%2Fs1
+[/us/pl/99/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F521
 [/us/stat/100/2993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2993
-[/us/pl/97/261/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F261%2Fs1
+[/us/pl/97/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F261
 [/us/stat/96/1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1102
-[/us/pl/96/454/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F454%2Fs1
+[/us/pl/96/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F454
 [/us/stat/94/2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2011
-[/us/pl/96/448/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F448%2Fs1
+[/us/pl/96/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F448
 [/us/stat/94/1895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1895
-[/us/pl/96/296/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F296%2Fs1
+[/us/pl/96/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F296
 [/us/stat/94/793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F793
 
 

@@ -51,7 +51,7 @@
 
         (4) Such other information as the Assistant Secretary determines is appropriate.
 
-(Added [Pub. L. 113–27, § 2(a)][/us/pl/113/27/s2/a], Aug. 9, 2013, [127 Stat. 503][/us/stat/127/503].)
+(Added [Pub. L. 113–27][/us/pl/113/27], § 2(a), Aug. 9, 2013, [127 Stat. 503][/us/stat/127/503].)
 
  __References in Text__ 
 
@@ -64,7 +64,7 @@
 ----------
 ----------
 
-[/us/pl/113/27/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F27%2Fs2%2Fa
+[/us/pl/113/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F27
 [/us/stat/127/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F503
 [/us/pl/113/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F27
 

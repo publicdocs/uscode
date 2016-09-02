@@ -23,7 +23,7 @@
 
     An air carrier, foreign air carrier, or ticket agent selling, in the United States, a ticket for a flight in foreign air transportation to a country listed on the Internet Web site established under subsection (a) shall refer the purchaser of the ticket to the Internet Web site established under subsection (a) for additional information.
 
-(Added [Pub. L. 112–95, title IV, § 415(a)][/us/pl/112/95/s415/a], Feb. 14, 2012, [126 Stat. 95][/us/stat/126/95].)
+(Added [Pub. L. 112–95, title IV][/us/pl/112/95/tIV], § 415(a), Feb. 14, 2012, [126 Stat. 95][/us/stat/126/95].)
 
  __Effective Date__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/112/95/s415/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs415%2Fa
+[/us/pl/112/95/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtIV
 [/us/stat/126/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F95
 [/us/pl/112/95/s415/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs415%2Fc
 [/us/usc/t49/s42301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs42301

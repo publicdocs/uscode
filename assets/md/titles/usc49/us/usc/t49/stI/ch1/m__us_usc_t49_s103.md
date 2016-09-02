@@ -89,7 +89,7 @@
 
         Beginning with fiscal year 2010 and each fiscal year thereafter, the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate, at the same time as the President’s budget submission, the Administration’s performance goals and schedule developed under paragraph (1), including an assessment of the progress of the Administration toward achieving its performance goals.
 
-([Pub. L. 97–449, § 1(b)][/us/pl/97/449/s1/b], Jan. 12, 1983, [96 Stat. 2414][/us/stat/96/2414]; [Pub. L. 98–216, § 2(2)][/us/pl/98/216/s2/2], Feb. 14, 1984, [98 Stat. 5][/us/stat/98/5]; [Pub. L. 103–272, § 5(m)(1)][/us/pl/103/272/s5/m/1], July 5, 1994, [108 Stat. 1375][/us/stat/108/1375]; [Pub. L. 103–440, title II, § 216][/us/pl/103/440/s216], Nov. 2, 1994, [108 Stat. 4624][/us/stat/108/4624]; [Pub. L. 107–217, § 3(n)(1)][/us/pl/107/217/s3/n/1], Aug. 21, 2002, [116 Stat. 1302][/us/stat/116/1302]; [Pub. L. 110–432, div. A, title I, § 101][/us/pl/110/432/s101], div. B, title III, § 307, Oct. 16, 2008, [122 Stat. 4851][/us/stat/122/4851], 4953; [Pub. L. 111–350, § 5][/us/pl/111/350/s5](o)(1), Jan. 4, 2011, [124 Stat. 3853][/us/stat/124/3853].)
+([Pub. L. 97–449][/us/pl/97/449], § 1(b), Jan. 12, 1983, [96 Stat. 2414][/us/stat/96/2414]; [Pub. L. 98–216][/us/pl/98/216], § 2(2), Feb. 14, 1984, [98 Stat. 5][/us/stat/98/5]; [Pub. L. 103–272][/us/pl/103/272], § 5(m)(1), July 5, 1994, [108 Stat. 1375][/us/stat/108/1375]; [Pub. L. 103–440, title II][/us/pl/103/440/tII], § 216, Nov. 2, 1994, [108 Stat. 4624][/us/stat/108/4624]; [Pub. L. 107–217][/us/pl/107/217], § 3(n)(1), Aug. 21, 2002, [116 Stat. 1302][/us/stat/116/1302]; [Pub. L. 110–432, div. A, title I][/us/pl/110/432/dA/tI], § 101, div. B, title III, § 307, Oct. 16, 2008, [122 Stat. 4851][/us/stat/122/4851], 4953; [Pub. L. 111–350][/us/pl/111/350], § 5(o)(1), Jan. 4, 2011, [124 Stat. 3853][/us/stat/124/3853].)
 
 <table>
 
@@ -253,7 +253,7 @@ In subsection (c), the words “vested in the Secretary” are substituted for �
 
     2011—Subsec. (i). [Pub. L. 111–350][/us/pl/111/350], which directed substitution of “division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” for “title III of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 251][/us/usc/t41/s251] et seq.)” in subsec. (e), was executed to subsec. (i), to reflect the probable intent of Congress.
 
-    2008—Subsec. (a). [Pub. L. 110–432, § 307(1)][/us/pl/110/432/s307/1], (2), inserted heading and struck out at end “To carry out all railroad safety laws of the United States, the Administration is divided on a geographical basis into at least 8 safety offices. The Secretary of Transportation is responsible for all acts taken under those laws and for ensuring that the laws are uniformly administered and enforced among the safety offices.”
+    2008—Subsec. (a). [Pub. L. 110–432][/us/pl/110/432], § 307(1), (2), inserted heading and struck out at end “To carry out all railroad safety laws of the United States, the Administration is divided on a geographical basis into at least 8 safety offices. The Secretary of Transportation is responsible for all acts taken under those laws and for ensuring that the laws are uniformly administered and enforced among the safety offices.”
 
     Subsecs. (b) to (k). [Pub. L. 110–432][/us/pl/110/432], §§ 101, 307(3), (4), added subsecs. (b) to (k) and struck out former subsecs. (b) to (e), which related to: in subsec. (b), Administrator as head of the Administration; in subsec. (c), Administrator’s duties and powers; in subsec. (d), transfer of duties or powers and effect of Administrator’s decision; and, in subsec. (e), authority of Secretary of Transportation.
 
@@ -267,7 +267,7 @@ In subsection (c), the words “vested in the Secretary” are substituted for �
 
  __Update of Federal Railroad Administration Web Site__ 
 
-[Pub. L. 110–432, div. A, title III, § 307][/us/pl/110/432/s307], Oct. 16, 2008, [122 Stat. 4881][/us/stat/122/4881], as amended by [Pub. L. 114–94, div. A, title XI, § 11316(j)(5)][/us/pl/114/94/s11316/j/5], Dec. 4, 2015, [129 Stat. 1677][/us/stat/129/1677], provided that:
+[Pub. L. 110–432, div. A, title III][/us/pl/110/432/dA/tIII], § 307, Oct. 16, 2008, [122 Stat. 4881][/us/stat/122/4881], as amended by [Pub. L. 114–94, div. A, title XI][/us/pl/114/94/dA/tXI], § 11316(j)(5), Dec. 4, 2015, [129 Stat. 1677][/us/stat/129/1677], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -281,7 +281,7 @@ In subsection (c), the words “vested in the Secretary” are substituted for �
 
  __Funds for Broadband High Speed Internet Service Connection for Federal Railroad Administration Employees__ 
 
-[Pub. L. 108–447, div. H, title I, § 151][/us/pl/108/447/s151], Dec. 8, 2004, [118 Stat. 3222][/us/stat/118/3222], provided that: 
+[Pub. L. 108–447, div. H, title I][/us/pl/108/447/dH/tI], § 151, Dec. 8, 2004, [118 Stat. 3222][/us/stat/118/3222], provided that: 
 
 > “Notwithstanding any provisions of this or any other Act, during the fiscal year ending September 30, 2005, and hereafter, the Federal Railroad Administration may use funds appropriated by this or any other Act to provide for the installation of a broadband high speed internet service connection, including necessary equipment, for Federal Railroad Administration employees, and to either pay directly recurring monthly charges or to reimburse a percentage of such monthly charges which are paid by such employees: Provided, That the Federal Railroad Administration certifies that adequate safeguards against private misuse exist, and that the service is necessary for direct support of the agency’s mission.”
 
@@ -292,26 +292,26 @@ In subsection (c), the words “vested in the Secretary” are substituted for �
 ----------
 ----------
 
-[/us/pl/97/449/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449%2Fs1%2Fb
+[/us/pl/97/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449
 [/us/stat/96/2414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2414
-[/us/pl/98/216/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F216%2Fs2%2F2
+[/us/pl/98/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F216
 [/us/stat/98/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F5
-[/us/pl/103/272/s5/m/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs5%2Fm%2F1
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1375
-[/us/pl/103/440/s216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F440%2Fs216
+[/us/pl/103/440/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F440%2FtII
 [/us/stat/108/4624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4624
-[/us/pl/107/217/s3/n/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs3%2Fn%2F1
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1302
-[/us/pl/110/432/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs101
+[/us/pl/110/432/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdA%2FtI
 [/us/stat/122/4851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4851
-[/us/pl/111/350/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3853
 [/us/usc/t49/s1655/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1655%2Fe%2F1
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
 [/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/usc/t41/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs251
-[/us/pl/110/432/s307/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs307%2F1
+[/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
 [/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/usc/t41/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs251
@@ -319,14 +319,14 @@ In subsection (c), the words “vested in the Secretary” are substituted for �
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/pl/103/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F440
 [/us/pl/98/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F216
-[/us/pl/110/432/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs307
+[/us/pl/110/432/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdA%2FtIII
 [/us/stat/122/4881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4881
-[/us/pl/114/94/s11316/j/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11316%2Fj%2F5
+[/us/pl/114/94/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtXI
 [/us/stat/129/1677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1677
 [/us/pl/110/432/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs307
 [/us/pl/110/432/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs2%2Fa
 [/us/usc/t49/s20102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs20102
-[/us/pl/108/447/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs151
+[/us/pl/108/447/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdH%2FtI
 [/us/stat/118/3222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3222
 
 

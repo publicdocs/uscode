@@ -77,7 +77,7 @@
 
     There is authorized to be appropriated to the Secretary $50,000,000 for each of fiscal years 2008 through 2011 for carrying out this section.
 
-(Added [Pub. L. 110–140, title XI, § 1112(a)][/us/pl/110/140/s1112/a], Dec. 19, 2007, [121 Stat. 1758][/us/stat/121/1758]; amended [Pub. L. 110–432, div. A, title VII, § 701(b)][/us/pl/110/432/s701/b], Oct. 16, 2008, [122 Stat. 4906][/us/stat/122/4906].)
+(Added [Pub. L. 110–140, title XI][/us/pl/110/140/tXI], § 1112(a), Dec. 19, 2007, [121 Stat. 1758][/us/stat/121/1758]; amended [Pub. L. 110–432, div. A, title VII][/us/pl/110/432/dA/tVII], § 701(b), Oct. 16, 2008, [122 Stat. 4906][/us/stat/122/4906].)
 
  __References in Text__ 
 
@@ -87,7 +87,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 22301, added [Pub. L. 105–178, title VII, § 7202(a)][/us/pl/105/178/s7202/a], June 9, 1998, [112 Stat. 470][/us/stat/112/470], related to grants for light density rail line pilot projects, prior to the general amendment of this chapter by [Pub. L. 110–140][/us/pl/110/140].
+    A prior section 22301, added [Pub. L. 105–178, title VII][/us/pl/105/178/tVII], § 7202(a), June 9, 1998, [112 Stat. 470][/us/stat/112/470], related to grants for light density rail line pilot projects, prior to the general amendment of this chapter by [Pub. L. 110–140][/us/pl/110/140].
 
  __Amendments__ 
 
@@ -105,15 +105,15 @@
 ----------
 
 [/us/usc/t45/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs151
-[/us/pl/110/140/s1112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1112%2Fa
+[/us/pl/110/140/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtXI
 [/us/stat/121/1758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1758
-[/us/pl/110/432/s701/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs701%2Fb
+[/us/pl/110/432/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdA%2FtVII
 [/us/stat/122/4906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4906
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/act/1926-05-20/ch347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-20%2Fch347
 [/us/stat/44/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F577
 [/us/usc/t45/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs151
-[/us/pl/105/178/s7202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs7202%2Fa
+[/us/pl/105/178/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtVII
 [/us/stat/112/470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F470
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432

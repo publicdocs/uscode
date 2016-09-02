@@ -17,7 +17,7 @@
 
     In issuing stock pursuant to applicable corporate law, Amtrak is encouraged to include employee stock ownership plans.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 908][/us/stat/108/908]; [Pub. L. 105–134, title IV, § 415(a)(1)][/us/pl/105/134/s415/a/1], Dec. 2, 1997, [111 Stat. 2590][/us/stat/111/2590].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 908][/us/stat/108/908]; [Pub. L. 105–134, title IV][/us/pl/105/134/tIV], § 415(a)(1), Dec. 2, 1997, [111 Stat. 2590][/us/stat/111/2590].)
 
 <table>
 
@@ -235,7 +235,7 @@ Oct. 30, 1970, Pub. L. 91–518, § 304(d), (e), 84 Stat. 1332; restated Aug. 
 
  __Amtrak Stock__ 
 
-[Pub. L. 105–134, title IV, § 415(b)][/us/pl/105/134/s415/b], (c), Dec. 2, 1997, [111 Stat. 2590][/us/stat/111/2590], provided that:
+[Pub. L. 105–134, title IV][/us/pl/105/134/tIV], § 415(b), (c), Dec. 2, 1997, [111 Stat. 2590][/us/stat/111/2590], provided that:
 
 >     “(b)  __Redemption of Common Stock__  __.—__ 
 
@@ -262,13 +262,13 @@ Oct. 30, 1970, Pub. L. 91–518, § 304(d), (e), 84 Stat. 1332; restated Aug. 
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F908
-[/us/pl/105/134/s415/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2Fs415%2Fa%2F1
+[/us/pl/105/134/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2FtIV
 [/us/stat/111/2590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2590
 [/us/usc/t49/s10102/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs10102%2F6
 [/us/pl/105/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134
-[/us/pl/105/134/s415/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2Fs415%2Fb
+[/us/pl/105/134/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2FtIV
 [/us/stat/111/2590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2590
 
 

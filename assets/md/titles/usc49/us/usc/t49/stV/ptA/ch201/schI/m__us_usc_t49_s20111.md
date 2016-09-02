@@ -53,7 +53,7 @@
 
             (B) not later than September 3, 1994, shall prescribe final regulations to carry out this subsection.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 868][/us/stat/108/868]; [Pub. L. 103–440, title II, § 205][/us/pl/103/440/s205], Nov. 2, 1994, [108 Stat. 4620][/us/stat/108/4620]; [Pub. L. 110–432, div. A, title III, § 305][/us/pl/110/432/s305], Oct. 16, 2008, [122 Stat. 4879][/us/stat/122/4879].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 868][/us/stat/108/868]; [Pub. L. 103–440, title II][/us/pl/103/440/tII], § 205, Nov. 2, 1994, [108 Stat. 4620][/us/stat/108/4620]; [Pub. L. 110–432, div. A, title III][/us/pl/110/432/dA/tIII], § 305, Oct. 16, 2008, [122 Stat. 4879][/us/stat/122/4879].)
 
 <table>
 
@@ -187,11 +187,11 @@ Sept. 3, 1992, Pub. L. 102–365, § 3, 106 Stat. 972.  </td>
 [/us/usc/t49/s20113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs20113
 [/us/usc/t49/s20112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs20112%2Fa
 [/us/usc/t49/s20104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs20104
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F868
-[/us/pl/103/440/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F440%2Fs205
+[/us/pl/103/440/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F440%2FtII
 [/us/stat/108/4620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4620
-[/us/pl/110/432/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs305
+[/us/pl/110/432/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdA%2FtIII
 [/us/stat/122/4879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4879
 [/us/usc/t49/s441/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs441%2Fe
 [/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432

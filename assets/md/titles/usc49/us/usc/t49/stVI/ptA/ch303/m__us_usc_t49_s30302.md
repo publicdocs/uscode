@@ -77,7 +77,7 @@
 
         Nothing in this subsection may be construed to diminish, limit, or otherwise affect the authority of the Secretary to carry out this chapter.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 973][/us/stat/108/973]; [Pub. L. 105–178, title II, § 2006(a)][/us/pl/105/178/s2006/a], June 9, 1998, [112 Stat. 335][/us/stat/112/335]; [Pub. L. 112–141, div. C, title I, § 31104][/us/pl/112/141/s31104], July 6, 2012, [126 Stat. 741][/us/stat/126/741].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 973][/us/stat/108/973]; [Pub. L. 105–178, title II][/us/pl/105/178/tII], § 2006(a), June 9, 1998, [112 Stat. 335][/us/stat/112/335]; [Pub. L. 112–141, div. C, title I][/us/pl/112/141/dC/tI], § 31104, July 6, 2012, [126 Stat. 741][/us/stat/126/741].)
 
 <table>
 
@@ -147,7 +147,7 @@ The text of section 203(e) of the National Driver Register Act of 1982 ([Public 
 
  __Register of Revocations of Motor Vehicle Operator’s Licenses__ 
 
-[Pub. L. 86–660][/us/pl/86/660], July 14, 1960, [74 Stat. 526][/us/stat/74/526], as amended by [Pub. L. 87–359][/us/pl/87/359], Oct. 4, 1961, [75 Stat. 779][/us/stat/75/779]; [Pub. L. 89–563, title IV, § 401][/us/pl/89/563/s401], Sept. 9, 1966, [80 Stat. 730][/us/stat/80/730], provided: 
+[Pub. L. 86–660][/us/pl/86/660], July 14, 1960, [74 Stat. 526][/us/stat/74/526], as amended by [Pub. L. 87–359][/us/pl/87/359], Oct. 4, 1961, [75 Stat. 779][/us/stat/75/779]; [Pub. L. 89–563, title IV][/us/pl/89/563/tIV], § 401, Sept. 9, 1966, [80 Stat. 730][/us/stat/80/730], provided: 
 
 > “That the Secretary of Commerce shall establish and maintain a register identifying each individual reported to him by a State, or political subdivision thereof, as an individual with respect to whom such State or political subdivision has denied, terminated, or temporarily withdrawn (except a withdrawal for less than six months based on a series of nonmoving violations) an individual’s license or privilege to operate a motor vehicle.
 
@@ -173,11 +173,11 @@ The text of section 203(e) of the National Driver Register Act of 1982 ([Public 
 [/us/stat/74/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F526
 [/us/pl/89/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F563
 [/us/stat/80/730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F730
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F973
-[/us/pl/105/178/s2006/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs2006%2Fa
+[/us/pl/105/178/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtII
 [/us/stat/112/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F335
-[/us/pl/112/141/s31104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31104
+[/us/pl/112/141/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtI
 [/us/stat/126/741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F741
 [/us/pl/97/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F364
 [/us/stat/96/1742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1742
@@ -190,7 +190,7 @@ The text of section 203(e) of the National Driver Register Act of 1982 ([Public 
 [/us/stat/74/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F526
 [/us/pl/87/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F359
 [/us/stat/75/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F779
-[/us/pl/89/563/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F563%2Fs401
+[/us/pl/89/563/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F563%2FtIV
 [/us/stat/80/730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F730
 
 

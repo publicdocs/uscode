@@ -23,7 +23,7 @@
 
     (3) the master or owner of the vessel consents to, or knows of, the alleged violation when the violation occurs.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1354][/us/stat/108/1354]; [Pub. L. 107–296, title XI, § 1112(q)][/us/pl/107/296/s1112/q], Nov. 25, 2002, [116 Stat. 2278][/us/stat/116/2278].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1354][/us/stat/108/1354]; [Pub. L. 107–296, title XI][/us/pl/107/296/tXI], § 1112(q), Nov. 25, 2002, [116 Stat. 2278][/us/stat/116/2278].)
 
 <table>
 
@@ -95,9 +95,9 @@ In this section, before clause (1), the words “The Secretary of the Treasury .
 
  __Amendments__ 
 
-    2002—[Pub. L. 107–296, § 1112(q)(2)][/us/pl/107/296/s1112/q/2], inserted “, the Attorney General,” after “by the Secretary” in introductory provisions.
+    2002—[Pub. L. 107–296][/us/pl/107/296], § 1112(q)(2), inserted “, the Attorney General,” after “by the Secretary” in introductory provisions.
 
-    [Pub. L. 107–296, § 1112(q)(1)][/us/pl/107/296/s1112/q/1], which directed amendment of this section by inserting “or, when the violation of this chapter involves contraband described in paragraph (2) or (5) of section 80302(a), the Attorney General” after “[section 80304 of this title][/us/usc/t49/s80304].”, was executed by making the insertion after “[section 80304 of this title][/us/usc/t49/s80304],” to reflect the probable intent of Congress.
+    [Pub. L. 107–296][/us/pl/107/296], § 1112(q)(1), which directed amendment of this section by inserting “or, when the violation of this chapter involves contraband described in paragraph (2) or (5) of section 80302(a), the Attorney General” after “[section 80304 of this title][/us/usc/t49/s80304].”, was executed by making the insertion after “[section 80304 of this title][/us/usc/t49/s80304],” to reflect the probable intent of Congress.
 
  __Effective Date of 2002 Amendment__ 
 
@@ -112,17 +112,17 @@ In this section, before clause (1), the words “The Secretary of the Treasury .
 
 [/us/usc/t49/s80304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs80304
 [/us/usc/t49/s80302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs80302
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1354
-[/us/pl/107/296/s1112/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1112%2Fq
+[/us/pl/107/296/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXI
 [/us/stat/116/2278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2278
 [/us/usc/t49/s80304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs80304
 [/us/pl/94/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F241
 [/us/stat/90/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F263
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
 [/us/usc/t49/s80302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs80302
-[/us/pl/107/296/s1112/q/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1112%2Fq%2F2
-[/us/pl/107/296/s1112/q/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1112%2Fq%2F1
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/usc/t49/s80304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs80304
 [/us/usc/t49/s80304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs80304
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296

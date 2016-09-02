@@ -47,7 +47,7 @@
 
     The Secretary may require by regulation a schoolbus to be test-driven by a manufacturer before introduction in commerce.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 957][/us/stat/108/957].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 957][/us/stat/108/957].)
 
 <table>
 
@@ -156,7 +156,7 @@ Sept. 9, 1966, Pub. L. 89–563, 80 Stat. 718, § 108(a)(1)(F); added Oct. 27,
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F957
 
 

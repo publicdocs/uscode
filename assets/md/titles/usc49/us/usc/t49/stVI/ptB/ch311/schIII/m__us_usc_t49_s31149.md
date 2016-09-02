@@ -59,9 +59,17 @@
 
                 (iv) demonstration of a medical examiner’s willingness to meet the reporting requirements established by the Secretary;
 
-            (E) require medical examiners to transmit the name of the applicant and numerical identifier, as determined by the Administrator of the Federal Motor Carrier Safety Administration, for any completed medical examination report required under section 391.43 of title 49, Code of Federal Regulations, electronically to the chief medical examiner on monthly basis; and
+            (E) require medical examiners to transmit electronically, on a monthly basis, the name of the applicant, a numerical identifier, and additional information contained on the medical examiner’s certificate for any completed medical examination report required under section 391.43 of title 49, Code of Federal Regulations, to the chief medical examiner;
 
-            (F) periodically review a representative sample of the medical examination reports associated with the name and numerical identifiers of applicants transmitted under subparagraph (E) for errors, omissions, or other indications of improper certification.
+            (F) periodically review a representative sample of the medical examination reports associated with the name and numerical identifiers of applicants transmitted under subparagraph (E) for errors, omissions, or other indications of improper certification; and
+
+            (G)
+
+             annually review the implementation of commercial driver’s license requirements by not fewer than 10 States to assess the accuracy, validity, and timeliness of—
+
+                (i) the submission of physical examination reports and medical certificates to State licensing agencies; and
+
+                (ii) the processing of the submissions by State licensing agencies.
 
         (2)  __Monitoring performance__  __.—__ 
 
@@ -83,53 +91,33 @@
 
     The Secretary shall issue such regulations as may be necessary to carry out this section.
 
-(Added [Pub. L. 109–59, title IV, § 4116(a)][/us/pl/109/59/s4116/a], Aug. 10, 2005, [119 Stat. 1726][/us/stat/119/1726]; amended [Pub. L. 112–141, div. C, title II, § 32302(b)][/us/pl/112/141/s32302/b], (c)(1), July 6, 2012, [126 Stat. 789][/us/stat/126/789].)
-
- __Amendment of Subsection (c)(1)__ 
-
-[Pub. L. 112–141, div. C, title II, § 32302(c)(1)][/us/pl/112/141/s32302/c/1], (2)(B), July 6, 2012, [126 Stat. 789][/us/stat/126/789], as amended by [Pub. L. 114–94, div. A, title V, § 5508(b)(3)][/us/pl/114/94/s5508/b/3], Dec. 4, 2015, [129 Stat. 1554][/us/stat/129/1554], provided that, effective on the date the oversight policies and procedures are established pursuant to [section 32302(c)(2)(A) of Pub. L. 112–141][/us/pl/112/141/s32302/c/2/A] (set out as a note below), subsection (c)(1) of this section is amended as follows:
-
-    (1) by amending subparagraph (E) to read as follows:
-
-    “(E) require medical examiners to transmit electronically, on a monthly basis, the name of the applicant, a numerical identifier, and additional information contained on the medical examiner’s certificate for any completed medical examination report required under section 391.43 of title 49, Code of Federal Regulations, to the chief medical examiner;”;
-
-    (2) in subparagraph (F), by striking the period at the end and inserting “; and”; and
-
-    (3) by adding at the end the following:
-
-    (G) annually review the implementation of commercial driver’s license requirements by not fewer than 10 States to assess the accuracy, validity, and timeliness of—
-
-    (i) the submission of physical examination reports and medical certificates to State licensing agencies; and
-
-    (ii) the processing of the submissions by State licensing agencies.
-
-    See 2012 Amendment notes below.
+(Added [Pub. L. 109–59, title IV][/us/pl/109/59/tIV], § 4116(a), Aug. 10, 2005, [119 Stat. 1726][/us/stat/119/1726]; amended [Pub. L. 112–141, div. C, title II][/us/pl/112/141/dC/tII], § 32302(b), (c)(1), July 6, 2012, [126 Stat. 789][/us/stat/126/789].)
 
  __References in Text__ 
 
-    The Commercial Motor Vehicle Safety Enhancement Act of 2012, referred to in subsec. (c)(1)(D), is [Pub. L. 112–141, div. C, title II][/us/pl/112/141], July 6, 2012, [126 Stat. 776][/us/stat/126/776]. For complete classification of this Act to the Code, see Short Title of 2012 Amendment note set out under [section 30101 of this title][/us/usc/t49/s30101] and Tables.
+    The Commercial Motor Vehicle Safety Enhancement Act of 2012, referred to in subsec. (c)(1)(D), is [Pub. L. 112–141, div. C, title II][/us/pl/112/141/dC/tII], July 6, 2012, [126 Stat. 776][/us/stat/126/776]. For complete classification of this Act to the Code, see Short Title of 2012 Amendment note set out under [section 30101 of this title][/us/usc/t49/s30101] and Tables.
 
  __Amendments__ 
 
-    2012—Subsec. (c)(1)(D). [Pub. L. 112–141, § 32302(b)][/us/pl/112/141/s32302/b], amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “develop, as appropriate, specific courses and materials for medical examiners listed in the national registry established under this section, and require those medical examiners to, at a minimum, self-certify that they have completed specific training, including refresher courses, to be listed in the registry;”.
+    2012—Subsec. (c)(1)(D). [Pub. L. 112–141][/us/pl/112/141], § 32302(b), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “develop, as appropriate, specific courses and materials for medical examiners listed in the national registry established under this section, and require those medical examiners to, at a minimum, self-certify that they have completed specific training, including refresher courses, to be listed in the registry;”.
 
-    Subsec. (c)(1)(E). [Pub. L. 112–141, § 32302(c)(1)(A)][/us/pl/112/141/s32302/c/1/A], amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “require medical examiners to transmit the name of the applicant and numerical identifier, as determined by the Administrator of the Federal Motor Carrier Safety Administration, for any completed medical examination report required under section 391.43 of title 49, Code of Federal Regulations, electronically to the chief medical examiner on monthly basis; and”.
+    Subsec. (c)(1)(E). [Pub. L. 112–141][/us/pl/112/141], § 32302(c)(1)(A), amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “require medical examiners to transmit the name of the applicant and numerical identifier, as determined by the Administrator of the Federal Motor Carrier Safety Administration, for any completed medical examination report required under section 391.43 of title 49, Code of Federal Regulations, electronically to the chief medical examiner on monthly basis; and”.
 
-    Subsec. (c)(1)(G). [Pub. L. 112–141, § 32302(c)(1)(B)][/us/pl/112/141/s32302/c/1/B], (C), added subpar. (G).
+    Subsec. (c)(1)(G). [Pub. L. 112–141][/us/pl/112/141], § 32302(c)(1)(B), (C), added subpar. (G).
 
  __Effective Date of 2012 Amendment__ 
 
     Amendment by [section 32302(b) of Pub. L. 112–141][/us/pl/112/141/s32302/b] effective Oct. 1, 2012, see [section 3(a) of Pub. L. 112–141][/us/pl/112/141/s3/a], set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23][/us/usc/t23/s101], Highways.
 
-[Pub. L. 112–141, div. C, title II, § 32302(c)(2)(B)][/us/pl/112/141/s32302/c/2/B], July 6, 2012, [126 Stat. 789][/us/stat/126/789], as amended by [Pub. L. 114–94, div. A, title V, § 5508(b)(3)][/us/pl/114/94/s5508/b/3], Dec. 4, 2015, [129 Stat. 1554][/us/stat/129/1554], provided that: 
+[Pub. L. 112–141, div. C, title II][/us/pl/112/141/dC/tII], § 32302(c)(2)(B), July 6, 2012, [126 Stat. 789][/us/stat/126/789], as amended by [Pub. L. 114–94, div. A, title V][/us/pl/114/94/dA/tV], § 5508(b)(3), Dec. 4, 2015, [129 Stat. 1554][/us/stat/129/1554], provided that: 
 
 > “The amendments made by section 32302(c)(1) of this Act \[amending this section\] shall take effect on the date the oversight policies and procedures are established pursuant to subparagraph (A).”
 
-    \[[Pub. L. 114–94, div. A, title V, § 5508(b)][/us/pl/114/94/s5508/b], Dec. 4, 2015, [129 Stat. 1554][/us/stat/129/1554], provided that the amendment made by section 5508(b)(3) to [section 32302(c)(2)(B) of Pub. L. 112–141][/us/pl/112/141/s32302/c/2/B], set out above, is effective as of July 6, 2012, and as if included in [Pub. L. 112–141][/us/pl/112/141] as enacted.\]
+    \[[Pub. L. 114–94, div. A, title V][/us/pl/114/94/dA/tV], § 5508(b), Dec. 4, 2015, [129 Stat. 1554][/us/stat/129/1554], provided that the amendment made by section 5508(b)(3) to [section 32302(c)(2)(B) of Pub. L. 112–141][/us/pl/112/141/s32302/c/2/B], set out above, is effective as of July 6, 2012, and as if included in [Pub. L. 112–141][/us/pl/112/141] as enacted.\]
 
  __Effective Date__ 
 
-[Pub. L. 109–59, title IV, § 4116(f)][/us/pl/109/59/s4116/f], Aug. 10, 2005, [119 Stat. 1728][/us/stat/119/1728], as amended by [Pub. L. 110–244, title III, § 301(d)][/us/pl/110/244/s301/d], June 6, 2008, [122 Stat. 1616][/us/stat/122/1616], provided that: 
+[Pub. L. 109–59, title IV][/us/pl/109/59/tIV], § 4116(f), Aug. 10, 2005, [119 Stat. 1728][/us/stat/119/1728], as amended by [Pub. L. 110–244, title III][/us/pl/110/244/tIII], § 301(d), June 6, 2008, [122 Stat. 1616][/us/stat/122/1616], provided that: 
 
 > “The amendments made by subsections (a) and (b) \[enacting this section and amending [section 31136 of this title][/us/usc/t49/s31136]\] shall take effect on the 365th day following the date of enactment of this Act \[Aug. 10, 2005\].”
 
@@ -137,7 +125,7 @@
 
  __Medical Certification of Veterans for Commercial Driver’s Licenses__ 
 
-[Pub. L. 114–94, div. A, title V, § 5403][/us/pl/114/94/s5403], Dec. 4, 2015, [129 Stat. 1548][/us/stat/129/1548], provided that:
+[Pub. L. 114–94, div. A, title V][/us/pl/114/94/dA/tV], § 5403, Dec. 4, 2015, [129 Stat. 1548][/us/stat/129/1548], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -187,13 +175,13 @@
 
  __Deadline for Establishment of National Registry of Medical Examiners__ 
 
-[Pub. L. 112–141, div. C, title II, § 32302(a)][/us/pl/112/141/s32302/a], July 6, 2012, [126 Stat. 788][/us/stat/126/788], provided that: 
+[Pub. L. 112–141, div. C, title II][/us/pl/112/141/dC/tII], § 32302(a), July 6, 2012, [126 Stat. 788][/us/stat/126/788], provided that: 
 
 > “Not later than 1 year after the date of enactment of this Act \[see section 3(a), (b) of [Pub. L. 112–141][/us/pl/112/141], set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of Title 23][/us/usc/t23/s101], Highways\], the Secretary \[of Transportation\] shall establish a national registry of medical examiners in accordance with [section 31149(d)(1) of title 49][/us/usc/t49/s31149/d/1], United States Code.”
 
  __Internal Oversight Policy__ 
 
-[Pub. L. 112–141, div. C, title II, § 32302(c)(2)(A)][/us/pl/112/141/s32302/c/2/A], July 6, 2012, [126 Stat. 789][/us/stat/126/789], provided that: 
+[Pub. L. 112–141, div. C, title II][/us/pl/112/141/dC/tII], § 32302(c)(2)(A), July 6, 2012, [126 Stat. 789][/us/stat/126/789], provided that: 
 
 > “Not later than 2 years after the date of enactment of this Act \[see section 3(a), (b) of [Pub. L. 112–141][/us/pl/112/141], set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of Title 23][/us/usc/t23/s101], Highways\], the Secretary \[of Transportation\] shall establish an oversight policy and procedure to carry out [section 31149(c)(1)(G) of title 49][/us/usc/t49/s31149/c/1/G], United States Code, as added by section 32302(c)(1) of this Act.”
 
@@ -206,35 +194,30 @@
 
 [/us/usc/t5/s3104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3104
 [/us/usc/t5/s5376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5376
-[/us/pl/109/59/s4116/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4116%2Fa
+[/us/pl/109/59/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIV
 [/us/stat/119/1726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1726
-[/us/pl/112/141/s32302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32302%2Fb
+[/us/pl/112/141/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtII
 [/us/stat/126/789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F789
-[/us/pl/112/141/s32302/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32302%2Fc%2F1
-[/us/stat/126/789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F789
-[/us/pl/114/94/s5508/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5508%2Fb%2F3
-[/us/stat/129/1554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1554
-[/us/pl/112/141/s32302/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32302%2Fc%2F2%2FA
-[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtII
 [/us/stat/126/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F776
 [/us/usc/t49/s30101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30101
-[/us/pl/112/141/s32302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32302%2Fb
-[/us/pl/112/141/s32302/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32302%2Fc%2F1%2FA
-[/us/pl/112/141/s32302/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32302%2Fc%2F1%2FB
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s32302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32302%2Fb
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
-[/us/pl/112/141/s32302/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32302%2Fc%2F2%2FB
+[/us/pl/112/141/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtII
 [/us/stat/126/789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F789
-[/us/pl/114/94/s5508/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5508%2Fb%2F3
+[/us/pl/114/94/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtV
 [/us/stat/129/1554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1554
-[/us/pl/114/94/s5508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5508%2Fb
+[/us/pl/114/94/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtV
 [/us/stat/129/1554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1554
 [/us/pl/112/141/s32302/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32302%2Fc%2F2%2FB
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
-[/us/pl/109/59/s4116/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4116%2Ff
+[/us/pl/109/59/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIV
 [/us/stat/119/1728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1728
-[/us/pl/110/244/s301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs301%2Fd
+[/us/pl/110/244/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2FtIII
 [/us/stat/122/1616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1616
 [/us/usc/t49/s31136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31136
 [/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
@@ -245,7 +228,7 @@
 [/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
 [/us/pl/110/244/s121/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs121%2Fb
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
-[/us/pl/114/94/s5403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5403
+[/us/pl/114/94/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtV
 [/us/stat/129/1548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1548
 [/us/usc/t49/s31149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31149
 [/us/usc/t49/s31149/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31149%2Fd
@@ -253,12 +236,12 @@
 [/us/usc/t49/s31149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31149
 [/us/usc/t49/s31149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31149
 [/us/usc/t38/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101
-[/us/pl/112/141/s32302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32302%2Fa
+[/us/pl/112/141/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtII
 [/us/stat/126/788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F788
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
 [/us/usc/t49/s31149/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31149%2Fd%2F1
-[/us/pl/112/141/s32302/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32302%2Fc%2F2%2FA
+[/us/pl/112/141/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtII
 [/us/stat/126/789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F789
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101

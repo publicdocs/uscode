@@ -27,7 +27,7 @@
 
     (5) “Ronald Reagan Washington National Airport” means the airport described in the Act of June 29, 1940 (ch. 444, [54 Stat. 686][/us/stat/54/686]).
 
-(Added [Pub. L. 105–102, § 2(26)][/us/pl/105/102/s2/26], Nov. 20, 1997, [111 Stat. 2207][/us/stat/111/2207]; amended [Pub. L. 105–154, § 2(a)(1)(D)][/us/pl/105/154/s2/a/1/D], Feb. 6, 1998, [112 Stat. 3][/us/stat/112/3].)
+(Added [Pub. L. 105–102][/us/pl/105/102], § 2(26), Nov. 20, 1997, [111 Stat. 2207][/us/stat/111/2207]; amended [Pub. L. 105–154][/us/pl/105/154], § 2(a)(1)(D), Feb. 6, 1998, [112 Stat. 3][/us/stat/112/3].)
 
 <table>
 
@@ -111,11 +111,11 @@ Oct. 30, 1986, Pub. L. 99–591, title VI, § 6004, 100 Stat. 3341–377.  </t
 
  __Change of Name__ 
 
-[Pub. L. 105–154, § 1][/us/pl/105/154/s1], Feb. 6, 1998, [112 Stat. 3][/us/stat/112/3], provided that: 
+[Pub. L. 105–154][/us/pl/105/154], § 1, Feb. 6, 1998, [112 Stat. 3][/us/stat/112/3], provided that: 
 
 > “The airport described in the Act entitled ‘An Act to provide for the administration of the Washington National Airport, and for other purposes’, approved June 29, 1940 ([54 Stat. 686][/us/stat/54/686]) \[section 2401 et seq. of former Title 49, Transportation, see References in Text note above\], and known as the Washington National Airport, shall be known and designated as the ‘Ronald Reagan Washington National Airport’.”
 
-[Pub. L. 105–154, § 2(b)][/us/pl/105/154/s2/b], Feb. 6, 1998, [112 Stat. 4][/us/stat/112/4], provided that: 
+[Pub. L. 105–154][/us/pl/105/154], § 2(b), Feb. 6, 1998, [112 Stat. 4][/us/stat/112/4], provided that: 
 
 > “Any reference in a law, map, regulation, document, paper, or other record of the United States to the Washington National Airport shall be deemed to be a reference to the ‘Ronald Reagan Washington National Airport’.”
 
@@ -129,9 +129,9 @@ Oct. 30, 1986, Pub. L. 99–591, title VI, § 6004, 100 Stat. 3341–377.  </t
 [/us/usc/t49/s49106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs49106
 [/us/stat/64/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F770
 [/us/stat/54/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F686
-[/us/pl/105/102/s2/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102%2Fs2%2F26
+[/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/stat/111/2207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2207
-[/us/pl/105/154/s2/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F154%2Fs2%2Fa%2F1%2FD
+[/us/pl/105/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F154
 [/us/stat/112/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-374
@@ -147,10 +147,10 @@ Oct. 30, 1986, Pub. L. 99–591, title VI, § 6004, 100 Stat. 3341–377.  </t
 [/us/stat/108/745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F745
 [/us/usc/t49/s50103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs50103
 [/us/pl/105/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F154
-[/us/pl/105/154/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F154%2Fs1
+[/us/pl/105/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F154
 [/us/stat/112/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3
 [/us/stat/54/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F686
-[/us/pl/105/154/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F154%2Fs2%2Fb
+[/us/pl/105/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F154
 [/us/stat/112/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F4
 
 

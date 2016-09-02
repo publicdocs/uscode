@@ -67,7 +67,7 @@
 
         The term “part 145 repair station” means a repair station that holds a certificate issued under part 145 of title 14, Code of Federal Regulations.
 
-(Added [Pub. L. 112–95, title III, § 308(a)][/us/pl/112/95/s308/a], Feb. 14, 2012, [126 Stat. 62][/us/stat/126/62].)
+(Added [Pub. L. 112–95, title III][/us/pl/112/95/tIII], § 308(a), Feb. 14, 2012, [126 Stat. 62][/us/stat/126/62].)
 
  __References in Text__ 
 
@@ -80,7 +80,7 @@
 ----------
 ----------
 
-[/us/pl/112/95/s308/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs308%2Fa
+[/us/pl/112/95/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtIII
 [/us/stat/126/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F62
 [/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
 

@@ -41,7 +41,7 @@
 
             The amount of such costs shall be determined by the Under Secretary and shall not be subject to judicial review. For purposes of subparagraph (A), the term “Federal law enforcement personnel” includes State and local law enforcement officers who are deputized under section 44922.
 
-        \[(2) Repealed. [Pub. L. 113–67, div. A, title VI, § 601(a)(1)][/us/pl/113/67/s601/a/1], Dec. 26, 2013, [127 Stat. 1187][/us/stat/127/1187].\]
+        \[(2) Repealed. [Pub. L. 113–67, div. A, title VI][/us/pl/113/67/dA/tVI], § 601(a)(1), Dec. 26, 2013, [127 Stat. 1187][/us/stat/127/1187].\]
 
     (b)  __Schedule of Fees__  __.—__ 
 
@@ -161,7 +161,7 @@
 
             (L) $1,600,000,000 for fiscal year 2025.
 
-(Added [Pub. L. 107–71, title I, § 118(a)][/us/pl/107/71/s118/a], Nov. 19, 2001, [115 Stat. 625][/us/stat/115/625]; amended [Pub. L. 108–7, div. I, title III, § 351(b)][/us/pl/108/7/s351/b], Feb. 20, 2003, [117 Stat. 420][/us/stat/117/420]; [Pub. L. 108–176, title VI, § 605(b)(1)][/us/pl/108/176/s605/b/1], (2), Dec. 12, 2003, [117 Stat. 2568][/us/stat/117/2568]; [Pub. L. 110–53, title XVI, § 1601][/us/pl/110/53/s1601], Aug. 3, 2007, [121 Stat. 477][/us/stat/121/477]; [Pub. L. 110–161, div. E, title V, § 540][/us/pl/110/161/s540], Dec. 26, 2007, [121 Stat. 2079][/us/stat/121/2079]; [Pub. L. 113–67, div. A, title VI, § 601(a)(1)][/us/pl/113/67/s601/a/1], (2), (b), (c), Dec. 26, 2013, [127 Stat. 1187][/us/stat/127/1187]; [Pub. L. 113–294, § 1(a)][/us/pl/113/294/s1/a], Dec. 19, 2014, [128 Stat. 4009][/us/stat/128/4009]; [Pub. L. 114–41, title III, § 3001][/us/pl/114/41/s3001], July 31, 2015, [129 Stat. 460][/us/stat/129/460].)
+(Added [Pub. L. 107–71, title I][/us/pl/107/71/tI], § 118(a), Nov. 19, 2001, [115 Stat. 625][/us/stat/115/625]; amended [Pub. L. 108–7, div. I, title III][/us/pl/108/7/dI/tIII], § 351(b), Feb. 20, 2003, [117 Stat. 420][/us/stat/117/420]; [Pub. L. 108–176, title VI][/us/pl/108/176/tVI], § 605(b)(1), (2), Dec. 12, 2003, [117 Stat. 2568][/us/stat/117/2568]; [Pub. L. 110–53, title XVI][/us/pl/110/53/tXVI], § 1601, Aug. 3, 2007, [121 Stat. 477][/us/stat/121/477]; [Pub. L. 110–161, div. E, title V][/us/pl/110/161/dE/tV], § 540, Dec. 26, 2007, [121 Stat. 2079][/us/stat/121/2079]; [Pub. L. 113–67, div. A, title VI][/us/pl/113/67/dA/tVI], § 601(a)(1), (2), (b), (c), Dec. 26, 2013, [127 Stat. 1187][/us/stat/127/1187]; [Pub. L. 113–294][/us/pl/113/294], § 1(a), Dec. 19, 2014, [128 Stat. 4009][/us/stat/128/4009]; [Pub. L. 114–41, title III][/us/pl/114/41/tIII], § 3001, July 31, 2015, [129 Stat. 460][/us/stat/129/460].)
 
  __References in Text__ 
 
@@ -169,7 +169,7 @@
 
  __Codification__ 
 
-    [Pub. L. 107–71, title I, § 118(a)][/us/pl/107/71/s118/a], Nov. 19, 2001, [115 Stat. 625][/us/stat/115/625], which directed the addition of section 44940 at end of subchapter II of chapter 449 without specifying the Code title to be amended, was executed by adding this section at the end of this subchapter, to reflect the probable intent of Congress.
+    [Pub. L. 107–71, title I][/us/pl/107/71/tI], § 118(a), Nov. 19, 2001, [115 Stat. 625][/us/stat/115/625], which directed the addition of section 44940 at end of subchapter II of chapter 449 without specifying the Code title to be amended, was executed by adding this section at the end of this subchapter, to reflect the probable intent of Congress.
 
  __Amendments__ 
 
@@ -177,35 +177,35 @@
 
     2014—Subsec. (c). [Pub. L. 113–294][/us/pl/113/294] amended subsec. (c) generally. Prior to amendment, text read as follows: “Fees imposed under subsection (a)(1) shall be $5.60 per one-way trip in air transportation or intrastate air transportation that originates at an airport in the United States.”
 
-    2013—Subsec. (a)(2). [Pub. L. 113–67, § 601(a)(1)][/us/pl/113/67/s601/a/1], struck out par. (2) which related to fees on air carriers and foreign air carriers engaged in air transportation and intrastate air transportation.
+    2013—Subsec. (a)(2). [Pub. L. 113–67][/us/pl/113/67], § 601(a)(1), struck out par. (2) which related to fees on air carriers and foreign air carriers engaged in air transportation and intrastate air transportation.
 
-    Subsec. (c). [Pub. L. 113–67, § 601(b)][/us/pl/113/67/s601/b], amended subsec. (c) generally. Prior to amendment, text read as follows: “Fees imposed under subsection (a)(1) may not exceed $2.50 per enplanement in air transportation or intrastate air transportation that originates at an airport in the United States, except that the total amount of such fees may not exceed $5.00 per one-way trip.”
+    Subsec. (c). [Pub. L. 113–67][/us/pl/113/67], § 601(b), amended subsec. (c) generally. Prior to amendment, text read as follows: “Fees imposed under subsection (a)(1) may not exceed $2.50 per enplanement in air transportation or intrastate air transportation that originates at an airport in the United States, except that the total amount of such fees may not exceed $5.00 per one-way trip.”
 
-    Subsec. (d)(1). [Pub. L. 113–67, § 601(a)(2)][/us/pl/113/67/s601/a/2], struck out “, and may impose a fee under subsection (a)(2),” after “under subsection (a)(1)”.
+    Subsec. (d)(1). [Pub. L. 113–67][/us/pl/113/67], § 601(a)(2), struck out “, and may impose a fee under subsection (a)(2),” after “under subsection (a)(1)”.
 
-    Subsec. (i). [Pub. L. 113–67, § 601(c)][/us/pl/113/67/s601/c], amended subsec. (i) generally. Prior to amendment, subsec. (i) related to the Checkpoint Screening Security Fund.
+    Subsec. (i). [Pub. L. 113–67][/us/pl/113/67], § 601(c), amended subsec. (i) generally. Prior to amendment, subsec. (i) related to the Checkpoint Screening Security Fund.
 
     2007—Subsec. (a)(2)(A), (B)(iv). [Pub. L. 110–161][/us/pl/110/161], which directed amendment of subsec. (a)(2) “by striking the period in the last sentence of subparagraph (A) and the clause (iv) of subparagraph B and adding the following, ‘except for estimates and additional collections made pursuant to the appropriation for Aviation Security in [Public Law 108–334][/us/pl/108/334]: Provided, That such judicial review shall be pursuant to [section 46110 of title 49][/us/usc/t49/s46110], United States Code: Provided further, That such judicial review shall be limited only to additional amounts collected by the Secretary before October 1, 2007.’ ”, was executed by substituting the quoted language directed to be added for the period at the end of last sentence of subpar. (A) and for the period at the end of cl. (iv) of subpar. (B), to reflect the probable intent of Congress.
 
-    Subsec. (d)(4). [Pub. L. 110–53, § 1601(1)][/us/pl/110/53/s1601/1], inserted “, other than subsection (i),” before “except to”.
+    Subsec. (d)(4). [Pub. L. 110–53][/us/pl/110/53], § 1601(1), inserted “, other than subsection (i),” before “except to”.
 
-    Subsec. (i). [Pub. L. 110–53, § 1601(2)][/us/pl/110/53/s1601/2], added subsec. (i).
+    Subsec. (i). [Pub. L. 110–53][/us/pl/110/53], § 1601(2), added subsec. (i).
 
     2003—Subsec. (a)(1). [Pub. L. 108–7][/us/pl/108/7] inserted at end of concluding provisions “For purposes of subparagraph (A), the term ‘Federal law enforcement personnel’ includes State and local law enforcement officers who are deputized under section 44922.”
 
-    Subsec. (a)(1)(H), (I). [Pub. L. 108–176, § 605(b)(1)][/us/pl/108/176/s605/b/1], added subpars. (H) and (I).
+    Subsec. (a)(1)(H), (I). [Pub. L. 108–176][/us/pl/108/176], § 605(b)(1), added subpars. (H) and (I).
 
-    Subsec. (d)(4). [Pub. L. 108–176, § 605(b)(2)][/us/pl/108/176/s605/b/2], substituted “appropriations Act or in section 44923” for “appropriations Act”.
+    Subsec. (d)(4). [Pub. L. 108–176][/us/pl/108/176], § 605(b)(2), substituted “appropriations Act or in section 44923” for “appropriations Act”.
 
  __Effective Date of 2014 Amendment__ 
 
-[Pub. L. 113–294, § 1(b)][/us/pl/113/294/s1/b], Dec. 19, 2014, [128 Stat. 4009][/us/stat/128/4009], provided that: 
+[Pub. L. 113–294][/us/pl/113/294], § 1(b), Dec. 19, 2014, [128 Stat. 4009][/us/stat/128/4009], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply with respect to a trip in air transportation or intrastate air transportation that is purchased on or after the date of the enactment of this Act \[Dec. 19, 2014\].”
 
  __Effective Date of 2013 Amendment__ 
 
-[Pub. L. 113–67, div. A, title VI, § 601(a)(3)][/us/pl/113/67/s601/a/3], Dec. 26, 2013, [127 Stat. 1187][/us/stat/127/1187], provided that: 
+[Pub. L. 113–67, div. A, title VI][/us/pl/113/67/dA/tVI], § 601(a)(3), Dec. 26, 2013, [127 Stat. 1187][/us/stat/127/1187], provided that: 
 
 > “The repeal made by paragraph (1) \[amending this section\] and the amendment made by paragraph (2) \[amending this section\] shall each take effect on October 1, 2014.”
 
@@ -223,7 +223,7 @@
 
  __Imposition of Fee Increase__ 
 
-[Pub. L. 113–67, div. A, title VI, § 601(d)][/us/pl/113/67/s601/d], Dec. 26, 2013, [127 Stat. 1188][/us/stat/127/1188], provided that: 
+[Pub. L. 113–67, div. A, title VI][/us/pl/113/67/dA/tVI], § 601(d), Dec. 26, 2013, [127 Stat. 1188][/us/stat/127/1188], provided that: 
 
 > “The Secretary of Homeland Security shall implement the fee increase authorized by the amendment made by subsection (b) \[amending this section\]—
 
@@ -233,7 +233,7 @@
 
  __Continued Availability of Existing Balances__ 
 
-[Pub. L. 113–67, div. A, title VI, § 601(e)][/us/pl/113/67/s601/e], Dec. 26, 2013, [127 Stat. 1188][/us/stat/127/1188], provided that: 
+[Pub. L. 113–67, div. A, title VI][/us/pl/113/67/dA/tVI], § 601(e), Dec. 26, 2013, [127 Stat. 1188][/us/stat/127/1188], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall not affect the availability of funds made available under [section 44940(i) of title 49][/us/usc/t49/s44940/i], United States Code, before the date of enactment of this Act \[Dec. 26, 2013\].”
 
@@ -244,48 +244,48 @@
 ----------
 ----------
 
-[/us/pl/113/67/s601/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs601%2Fa%2F1
+[/us/pl/113/67/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2FdA%2FtVI
 [/us/stat/127/1187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1187
 [/us/usc/t31/s9701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9701
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/usc/t26/s4261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4261
 [/us/usc/t31/s3302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3302
-[/us/pl/107/71/s118/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs118%2Fa
+[/us/pl/107/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2FtI
 [/us/stat/115/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F625
-[/us/pl/108/7/s351/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs351%2Fb
+[/us/pl/108/7/dI/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdI%2FtIII
 [/us/stat/117/420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F420
-[/us/pl/108/176/s605/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs605%2Fb%2F1
+[/us/pl/108/176/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtVI
 [/us/stat/117/2568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2568
-[/us/pl/110/53/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1601
+[/us/pl/110/53/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXVI
 [/us/stat/121/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F477
-[/us/pl/110/161/s540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs540
+[/us/pl/110/161/dE/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdE%2FtV
 [/us/stat/121/2079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2079
-[/us/pl/113/67/s601/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs601%2Fa%2F1
+[/us/pl/113/67/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2FdA%2FtVI
 [/us/stat/127/1187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1187
-[/us/pl/113/294/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F294%2Fs1%2Fa
+[/us/pl/113/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F294
 [/us/stat/128/4009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4009
-[/us/pl/114/41/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs3001
+[/us/pl/114/41/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2FtIII
 [/us/stat/129/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F460
 [/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
-[/us/pl/107/71/s118/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs118%2Fa
+[/us/pl/107/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2FtI
 [/us/stat/115/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F625
 [/us/pl/114/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41
 [/us/pl/113/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F294
-[/us/pl/113/67/s601/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs601%2Fa%2F1
-[/us/pl/113/67/s601/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs601%2Fb
-[/us/pl/113/67/s601/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs601%2Fa%2F2
-[/us/pl/113/67/s601/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs601%2Fc
+[/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
+[/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
+[/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
+[/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
 [/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
 [/us/pl/108/334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F334
 [/us/usc/t49/s46110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs46110
-[/us/pl/110/53/s1601/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1601%2F1
-[/us/pl/110/53/s1601/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1601%2F2
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
 [/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
-[/us/pl/108/176/s605/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs605%2Fb%2F1
-[/us/pl/108/176/s605/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs605%2Fb%2F2
-[/us/pl/113/294/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F294%2Fs1%2Fb
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
+[/us/pl/113/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F294
 [/us/stat/128/4009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4009
-[/us/pl/113/67/s601/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs601%2Fa%2F3
+[/us/pl/113/67/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2FdA%2FtVI
 [/us/stat/127/1187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1187
 [/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
 [/us/pl/108/176/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs3
@@ -293,11 +293,11 @@
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/pl/111/314/s4/d/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314%2Fs4%2Fd%2F8
 [/us/usc/t49/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs101
-[/us/pl/113/67/s601/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs601%2Fd
+[/us/pl/113/67/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2FdA%2FtVI
 [/us/stat/127/1188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1188
 [/us/usc/t31/s9701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9701
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/pl/113/67/s601/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs601%2Fe
+[/us/pl/113/67/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2FdA%2FtVI
 [/us/stat/127/1188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1188
 [/us/usc/t49/s44940/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44940%2Fi
 

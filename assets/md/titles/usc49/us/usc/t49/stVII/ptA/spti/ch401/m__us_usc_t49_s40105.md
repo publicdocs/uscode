@@ -57,7 +57,7 @@
 
     The President shall grant to at least one representative of each House of Congress the privilege of attending international aviation negotiations as an observer if the privilege is requested in advance in writing.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1102][/us/stat/108/1102].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1102][/us/stat/108/1102].)
 
 <table>
 
@@ -237,7 +237,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 1102(c), (d); added Feb. 15,
 
  __Reciprocal Airworthiness Certification__ 
 
-[Pub. L. 108–176, title VIII, § 812][/us/pl/108/176/s812], Dec. 12, 2003, [117 Stat. 2590][/us/stat/117/2590], provided that:
+[Pub. L. 108–176, title VIII][/us/pl/108/176/tVIII], § 812, Dec. 12, 2003, [117 Stat. 2590][/us/stat/117/2590], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -249,7 +249,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 1102(c), (d); added Feb. 15,
 
  __Report on Certain Bilateral Negotiations__ 
 
-[Pub. L. 103–305, title V, § 519][/us/pl/103/305/s519], Aug. 23, 1994, [108 Stat. 1600][/us/stat/108/1600], provided that: 
+[Pub. L. 103–305, title V][/us/pl/103/305/tV], § 519, Aug. 23, 1994, [108 Stat. 1600][/us/stat/108/1600], provided that: 
 
 > “The Secretary shall report every other month to the Committee on Public Works and Transportation \[now Committee on Transportation and Infrastructure\] of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on the status of all active aviation bilateral and multilateral negotiations and informal government-to-government consultations with United States aviation trade partners.”
 
@@ -262,11 +262,11 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 1102(c), (d); added Feb. 15,
 
 [/us/usc/t49/s40106/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40106%2Fb%2F2
 [/us/usc/t49/s40101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40101%2Fe
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1102
-[/us/pl/108/176/s812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs812
+[/us/pl/108/176/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtVIII
 [/us/stat/117/2590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2590
-[/us/pl/103/305/s519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2Fs519
+[/us/pl/103/305/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2FtV
 [/us/stat/108/1600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1600
 
 

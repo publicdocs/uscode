@@ -59,7 +59,7 @@
 
     The Board may adopt and amend bylaws governing the operation of Amtrak. The bylaws shall be consistent with this part and the articles of incorporation.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 906][/us/stat/108/906]; [Pub. L. 105–134, title IV, § 411(a)][/us/pl/105/134/s411/a], Dec. 2, 1997, [111 Stat. 2588][/us/stat/111/2588]; [Pub. L. 110–432, div. B, title II, § 202(a)][/us/pl/110/432/s202/a], Oct. 16, 2008, [122 Stat. 4911][/us/stat/122/4911]; [Pub. L. 114–94, div. A, title XI, § 11205][/us/pl/114/94/s11205], Dec. 4, 2015, [129 Stat. 1637][/us/stat/129/1637].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 906][/us/stat/108/906]; [Pub. L. 105–134, title IV][/us/pl/105/134/tIV], § 411(a), Dec. 2, 1997, [111 Stat. 2588][/us/stat/111/2588]; [Pub. L. 110–432, div. B, title II][/us/pl/110/432/dB/tII], § 202(a), Oct. 16, 2008, [122 Stat. 4911][/us/stat/122/4911]; [Pub. L. 114–94, div. A, title XI][/us/pl/114/94/dA/tXI], § 11205, Dec. 4, 2015, [129 Stat. 1637][/us/stat/129/1637].)
 
 <table>
 
@@ -281,13 +281,13 @@ Oct. 30, 1970, Pub. L. 91–518, § 303(b), (c), 84 Stat. 1331.  </td>
 
  __Amendments__ 
 
-    2015—Subsec. (a)(1). [Pub. L. 114–94, § 11205(1)(A)][/us/pl/114/94/s11205/1/A], substituted “10 directors” for “9 directors”.
+    2015—Subsec. (a)(1). [Pub. L. 114–94][/us/pl/114/94], § 11205(1)(A), substituted “10 directors” for “9 directors”.
 
-    Subsec. (a)(1)(B). [Pub. L. 114–94, § 11205(1)(B)][/us/pl/114/94/s11205/1/B], inserted “, who shall serve as a nonvoting member of the Board” after “Amtrak”.
+    Subsec. (a)(1)(B). [Pub. L. 114–94][/us/pl/114/94], § 11205(1)(B), inserted “, who shall serve as a nonvoting member of the Board” after “Amtrak”.
 
-    Subsec. (a)(1)(C). [Pub. L. 114–94, § 11205(1)(C)][/us/pl/114/94/s11205/1/C], substituted “8” for “7”.
+    Subsec. (a)(1)(C). [Pub. L. 114–94][/us/pl/114/94], § 11205(1)(C), substituted “8” for “7”.
 
-    Subsec. (e). [Pub. L. 114–94, § 11205(2)][/us/pl/114/94/s11205/2], inserted “who are eligible to vote” after “serving”.
+    Subsec. (e). [Pub. L. 114–94][/us/pl/114/94], § 11205(2), inserted “who are eligible to vote” after “serving”.
 
     2008—[Pub. L. 110–432][/us/pl/110/432] amended section generally. Prior to amendment, section related, in subsec. (a), to establishment, duties, membership, and confirmation procedure of Reform Board, in subsec. (b), to selection of the Board of Directors, and in subsec. (c), to authority of Reform Board to recommend to Congress a plan to implement transfer of Amtrak’s infrastructure assets and responsibilities to a new separately governed corporation.
 
@@ -299,7 +299,7 @@ Oct. 30, 1970, Pub. L. 91–518, § 303(b), (c), 84 Stat. 1331.  </td>
 
  __Effective Date of 2008 Amendment__ 
 
-[Pub. L. 110–432, div. B, title II, § 202(b)][/us/pl/110/432/s202/b], Oct. 16, 2008, [122 Stat. 4912][/us/stat/122/4912], provided that: 
+[Pub. L. 110–432, div. B, title II][/us/pl/110/432/dB/tII], § 202(b), Oct. 16, 2008, [122 Stat. 4912][/us/stat/122/4912], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect 6 months after the date of enactment of this Act \[Oct. 16, 2008\]. The members of the Amtrak Board of Directors serving as of the date of enactment of this Act may continue to serve for the remainder of the term to which they were appointed.”
 
@@ -310,24 +310,24 @@ Oct. 30, 1970, Pub. L. 91–518, § 303(b), (c), 84 Stat. 1331.  </td>
 ----------
 ----------
 
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F906
-[/us/pl/105/134/s411/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2Fs411%2Fa
+[/us/pl/105/134/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2FtIV
 [/us/stat/111/2588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2588
-[/us/pl/110/432/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs202%2Fa
+[/us/pl/110/432/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdB%2FtII
 [/us/stat/122/4911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4911
-[/us/pl/114/94/s11205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11205
+[/us/pl/114/94/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtXI
 [/us/stat/129/1637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1637
-[/us/pl/114/94/s11205/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11205%2F1%2FA
-[/us/pl/114/94/s11205/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11205%2F1%2FB
-[/us/pl/114/94/s11205/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11205%2F1%2FC
-[/us/pl/114/94/s11205/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11205%2F2
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
 [/us/pl/105/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
-[/us/pl/110/432/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs202%2Fb
+[/us/pl/110/432/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdB%2FtII
 [/us/stat/122/4912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4912
 
 

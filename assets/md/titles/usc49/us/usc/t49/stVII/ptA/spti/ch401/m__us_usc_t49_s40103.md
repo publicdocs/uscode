@@ -63,7 +63,7 @@
 
         (2) allowing more than one fixed-based operator to provide the services requires a reduction in space leased under an agreement existing on September 3, 1982, between the operator and the airport.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1101][/us/stat/108/1101].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1101][/us/stat/108/1101].)
 
 <table>
 
@@ -339,7 +339,7 @@ In subsection (b), the word “Administrator” in section 307(a), (c), and (d) 
 
  __Regulations__ 
 
-[Pub. L. 85–726, title VI, § 613(a)][/us/pl/85/726/s613/a], (b), as added by Pub. L.101–508, title IX, § 9124, Nov. 5, 1990, [104 Stat. 1388–370][/us/stat/104/1388-370], provided that:
+[Pub. L. 85–726, title VI][/us/pl/85/726/tVI], § 613(a), (b), as added by Pub. L.101–508, title IX, § 9124, Nov. 5, 1990, [104 Stat. 1388–370][/us/stat/104/1388-370], provided that:
 
 >     “(a)  __National Disaster Areas__  __.—__ 
 
@@ -351,7 +351,7 @@ In subsection (b), the word “Administrator” in section 307(a), (c), and (d) 
 
  __National Airspace Redesign__ 
 
-[Pub. L. 106–181, title VII, § 736][/us/pl/106/181/s736], Apr. 5, 2000, [114 Stat. 171][/us/stat/114/171], provided that:
+[Pub. L. 106–181, title VII][/us/pl/106/181/tVII], § 736, Apr. 5, 2000, [114 Stat. 171][/us/stat/114/171], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -387,13 +387,13 @@ In subsection (b), the word “Administrator” in section 307(a), (c), and (d) 
 [/us/usc/t29/s792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs792
 [/us/usc/t5/s553/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553%2Fa%2F1
 [/us/usc/t49/s41703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs41703
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1101
 [/us/pl/85/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F726
 [/us/stat/72/749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F749
-[/us/pl/85/726/s613/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F726%2Fs613%2Fa
+[/us/pl/85/726/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F726%2FtVI
 [/us/stat/104/1388-370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-370
-[/us/pl/106/181/s736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs736
+[/us/pl/106/181/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtVII
 [/us/stat/114/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F171
 
 

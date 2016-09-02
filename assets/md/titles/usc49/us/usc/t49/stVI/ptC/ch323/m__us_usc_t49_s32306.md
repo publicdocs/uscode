@@ -27,7 +27,7 @@
 
     A member of an advisory committee appointed under [section 325 of this title][/us/usc/t49/s325] to carry out this chapter is a special United States Government employee under chapter 11 of title 18.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1040][/us/stat/108/1040].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1040][/us/stat/108/1040].)
 
 <table>
 
@@ -103,7 +103,7 @@ Oct. 20, 1972, Pub. L. 92–513, § 202, 86 Stat. 956.  </td>
 ----------
 
 [/us/usc/t49/s325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs325
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1040
 
 

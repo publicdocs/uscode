@@ -51,7 +51,7 @@
 
         (2) With or without reimbursement, the Board may obtain a copy of an autopsy report performed by a State or local official on an individual who died because of a transportation accident investigated by the Board under this chapter.
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 754][/us/stat/108/754].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(d), July 5, 1994, [108 Stat. 754][/us/stat/108/754].)
 
 <table>
 
@@ -250,7 +250,7 @@ Jan. 3, 1975, Pub. L. 93–633, § 304(a)(1)(A), (b)(5), 88 Stat. 2168, 2170. 
 ----------
 ----------
 
-[/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F754
 
 

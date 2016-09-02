@@ -17,7 +17,7 @@
 
     No part of a noise exposure map or related information described in [section 47503 of this title][/us/usc/t49/s47503] that is submitted to, or prepared by, the Secretary of Transportation and no part of a list of land uses the Secretary identifies as normally compatible with various exposures of individuals to noise may be admitted into evidence or used for any other purpose in a civil action asking for relief for noise resulting from the operation of an airport.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1287][/us/stat/108/1287].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1287][/us/stat/108/1287].)
 
 <table>
 
@@ -75,7 +75,7 @@ Feb. 18, 1980, Pub. L. 96–193, § 106, 94 Stat. 53.  </td>
 ----------
 
 [/us/usc/t49/s47503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs47503
-[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1287
 
 

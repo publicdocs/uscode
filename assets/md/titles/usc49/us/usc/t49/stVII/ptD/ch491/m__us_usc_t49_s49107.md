@@ -29,7 +29,7 @@
 
     The Airports Authority shall allow representatives of the Secretary of Transportation adequate access to employees and employee records of the Airports Authority when needed to carry out a duty or power related to the period before June 7, 1987. The Secretary shall provide the Airports Authority access to employee records of transferring employees for appropriate purposes.
 
-(Added [Pub. L. 105–102, § 2(26)][/us/pl/105/102/s2/26], Nov. 20, 1997, [111 Stat. 2212][/us/stat/111/2212]; amended [Pub. L. 105–225, § 7(c)(1)(C)][/us/pl/105/225/s7/c/1/C], Aug. 12, 1998, [112 Stat. 1511][/us/stat/112/1511].)
+(Added [Pub. L. 105–102][/us/pl/105/102], § 2(26), Nov. 20, 1997, [111 Stat. 2212][/us/stat/111/2212]; amended [Pub. L. 105–225][/us/pl/105/225], § 7(c)(1)(C), Aug. 12, 1998, [112 Stat. 1511][/us/stat/112/1511].)
 
 <table>
 
@@ -171,7 +171,7 @@ Oct. 30, 1986, Pub. L. 99–591, title VI, § 6008(g), 100 Stat. 3341–387.  
 
  __Retirement Provisions Relating to Certain Members of Police Force of Metropolitan Washington Airports Authority__ 
 
-[Pub. L. 106–554, § 1(a)(3)][/us/pl/106/554/s1/a/3] \[title VI, § 636\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–164, provided that:
+[Pub. L. 106–554][/us/pl/106/554], § 1(a)(3) \[title VI, § 636\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–164, provided that:
 
 >     “(a)  __Qualified MWAA Police Officer Defined__  __.—__ 
 
@@ -240,9 +240,9 @@ Oct. 30, 1986, Pub. L. 99–591, title VI, § 6008(g), 100 Stat. 3341–387.  
 ----------
 ----------
 
-[/us/pl/105/102/s2/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102%2Fs2%2F26
+[/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/stat/111/2212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2212
-[/us/pl/105/225/s7/c/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225%2Fs7%2Fc%2F1%2FC
+[/us/pl/105/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225
 [/us/stat/112/1511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1511
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
@@ -251,7 +251,7 @@ Oct. 30, 1986, Pub. L. 99–591, title VI, § 6008(g), 100 Stat. 3341–387.  
 [/us/pl/105/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225
 [/us/pl/105/225/s7/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225%2Fs7%2Fc%2F3
 [/us/usc/t49/s49106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs49106
-[/us/pl/106/554/s1/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F3
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/usc/t49/s49107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs49107%2Fb
 [/us/usc/t5/s8334/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8334%2Fe
