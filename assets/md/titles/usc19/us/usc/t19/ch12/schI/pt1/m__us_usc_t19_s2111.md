@@ -129,57 +129,109 @@
 
                               Jimmy Carter.
 
- __Annex I__ 
-
- __Texts of Agreements Identified in the Third and Fourth Recitals of This Proclamation__  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ Not printed in the Federal Register. The text of the Geneva (1979) Protocol to the General Agreement in part 1 of Annex I has been printed by the Contracting Parties to the General Agreement on Tariffs and Trade in four volumes entitled Geneva (1979) Protocol to the General Agreements on Tariffs and Trade. The Agreement with the Hungarian People’s Republic in part 6 of Annex I has been printed in House Document 96–153, vol. 1, p. 703. The general provisions of all the agreements in parts 1 to 6 of annex I, but not schedules of concessions by other parties, will be printed in the Customs Bulletin. The texts of all these agreements will be printed in Treaties and Other International Acts Series, and in the bound volumes of United States Treaties and Other International Agreements.__  __ </sup></sup> __ 
-
 <table>
 
   <tr>
 
-    <td> Part 1  </td>
+    <td colspan="2"> 
 
-    <td> Geneva (1979) Protocol to the General Agreement on Tariffs and Trade (Including Schedules of Concessions)  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> Part 2  </td>
-
-    <td> Trade Agreement with the People’s Republic of Hungary Entered Into on November 18, 1979  </td>
+Annex I  </td>
 
   </tr>
 
   <tr>
 
-    <td> Part 3  </td>
+    <td colspan="2"> 
 
-    <td> Trade Agreement with the United Mexican States Entered Into on October 31, 1979  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> Part 4  </td>
-
-    <td> Trade Agreement with the Socialist Republic of Romania Entered Into on March 2, 1979  </td>
+Texts of Agreements Identified in the Third and Fourth Recitals of This Proclamation 1  </td>
 
   </tr>
 
   <tr>
 
-    <td> Part 5  </td>
-
-    <td> Trade Agreement between the American Institute in Taiwan and the Coordination Council for North American Affairs Entered Into on October 24, 1979  </td>
+    <td>   </td>
 
   </tr>
 
   <tr>
 
-    <td> Part 6  </td>
+    <td colspan="2"> 
 
-    <td> Agreement with the Hungarian People’s Republic Entered Into on June 13, 1979  </td>
+1 Not printed in the Federal Register. The text of the Geneva (1979) Protocol to the General Agreement in part 1 of Annex I has been printed by the Contracting Parties to the General Agreement on Tariffs and Trade in four volumes entitled Geneva (1979) Protocol to the General Agreements on Tariffs and Trade. The Agreement with the Hungarian People’s Republic in part 6 of Annex I has been printed in House Document 96–153, vol. 1, p. 703. The general provisions of all the agreements in parts 1 to 6 of annex I, but not schedules of concessions by other parties, will be printed in the Customs Bulletin. The texts of all these agreements will be printed in Treaties and Other International Acts Series, and in the bound volumes of United States Treaties and Other International Agreements.
+
+  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+Part 1  </td>
+
+    <td> 
+
+Geneva (1979) Protocol to the General Agreement on Tariffs and Trade (Including Schedules of Concessions)  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+Part 2  </td>
+
+    <td> 
+
+Trade Agreement with the People’s Republic of Hungary Entered Into on November 18, 1979  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+Part 3  </td>
+
+    <td> 
+
+Trade Agreement with the United Mexican States Entered Into on October 31, 1979  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+Part 4  </td>
+
+    <td> 
+
+Trade Agreement with the Socialist Republic of Romania Entered Into on March 2, 1979  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+Part 5  </td>
+
+    <td> 
+
+Trade Agreement between the American Institute in Taiwan and the Coordination Council for North American Affairs Entered Into on October 24, 1979  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+Part 6  </td>
+
+    <td> 
+
+Agreement with the Hungarian People’s Republic Entered Into on June 13, 1979  </td>
 
   </tr>
 
