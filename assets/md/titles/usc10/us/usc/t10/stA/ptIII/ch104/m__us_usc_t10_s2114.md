@@ -35,7 +35,7 @@
 
         <td> 
 
-    Ready    Reserve    Obligation  </td>
+    Ready Reserve Obligation  </td>
 
   </tr>
 
@@ -43,7 +43,7 @@
 
         <td> 
 
-    Less than 8 years  </td>
+     Less than 8 years  </td>
 
         <td> 
 
@@ -55,7 +55,7 @@
 
         <td> 
 
-     8 years or more, but less than 9  </td>
+     8 years or more, but less than 9  </td>
 
         <td> 
 
@@ -67,7 +67,7 @@
 
         <td> 
 
-    9 years or more, but less than 10  </td>
+     9 years or more, but less than 10  </td>
 
         <td> 
 

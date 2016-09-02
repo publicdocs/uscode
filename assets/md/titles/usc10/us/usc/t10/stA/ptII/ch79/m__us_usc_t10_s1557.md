@@ -25,11 +25,15 @@
 
         <td> 
 
-    For applications received during—  </td>
+    For applications received during—
+
+   </td>
 
         <td> 
 
-    The percentage on which final Correction Board action must be completed within 10 months of receipt is—  </td>
+    The percentage on which final Correction Board action must be completed within 10 months of
+
+    receipt is—  </td>
 
   </tr>
 
@@ -41,7 +45,7 @@
 
         <td> 
 
-    50  </td>
+    50     </td>
 
   </tr>
 
@@ -53,7 +57,7 @@
 
         <td> 
 
-    60  </td>
+    60     </td>
 
   </tr>
 
@@ -65,7 +69,7 @@
 
         <td> 
 
-    70  </td>
+    70     </td>
 
   </tr>
 
@@ -77,7 +81,7 @@
 
         <td> 
 
-    80  </td>
+    80     </td>
 
   </tr>
 
@@ -89,7 +93,7 @@
 
         <td> 
 
-    90.  </td>
+    90.   </td>
 
   </tr>
 
