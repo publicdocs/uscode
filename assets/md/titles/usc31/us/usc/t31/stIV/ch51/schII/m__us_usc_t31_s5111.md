@@ -333,6 +333,12 @@ July 23, 1965, Pub. L. 89–81, §§ 103(a), 105, 106, 79 Stat. 255.  </td>
 
 Provisions authorizing commemorative medals were contained in the following acts:
 
+    [Pub. L. 113–108][/us/pl/113/108], May 30, 2014, [128 Stat. 1164][/us/stat/128/1164], recognizing World War II members of the Civil Air Patrol.
+
+    [Pub. L. 113–106][/us/pl/113/106], May 23, 2014, [128 Stat. 1160][/us/stat/128/1160], recognizing the World War II members of the 17th Bombardment Group (Medium) who became known as the “Doolittle Tokyo Raiders”.
+
+    [Pub. L. 113–105][/us/pl/113/105], May 23, 2014, [128 Stat. 1157][/us/stat/128/1157], recognizing the American Fighter Aces.
+
     [Pub. L. 113–16][/us/pl/113/16], July 12, 2013, [127 Stat. 477][/us/stat/127/477], recognizing the First Special Service Force.
 
     [Pub. L. 113–11][/us/pl/113/11], May 24, 2013, [127 Stat. 446][/us/stat/127/446], recognizing Addie Mae Collins, Denise McNair, Carole Robertson, and Cynthia Wesley.
@@ -475,6 +481,12 @@ Provisions authorizing commemorative medals were contained in the following acts
 [/us/pl/102/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F390
 [/us/pl/100/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F274
 [/us/usc/t31/s5136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5136
+[/us/pl/113/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F108
+[/us/stat/128/1164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1164
+[/us/pl/113/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F106
+[/us/stat/128/1160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1160
+[/us/pl/113/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F105
+[/us/stat/128/1157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1157
 [/us/pl/113/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F16
 [/us/stat/127/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F477
 [/us/pl/113/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F11
