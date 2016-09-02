@@ -233,6 +233,50 @@ Oct. 30, 1984, Pub. L. 98–554, § 206(h), 98 Stat. 2835; restated Nov. 18, 1
 
     Amendment by [Pub. L. 109–59][/us/pl/109/59] effective on the 365th day following Aug. 10, 2005, see [section 4116(f) of Pub. L. 109–59][/us/pl/109/59/s4116/f], set out as an Effective Date note under [section 31149 of this title][/us/usc/t49/s31149].
 
+ __Reliable Home Heating__ 
+
+[Pub. L. 113–125][/us/pl/113/125], June 30, 2014, [128 Stat. 1388][/us/stat/128/1388], provided that:
+
+> “SECTION 1. __SHORT TITLE.__ 
+
+>     “This Act may be cited as the ‘Reliable Home Heating Act’.
+
+> “SEC. 2. __AUTHORITY TO EXTEND EMERGENCY DECLARATIONS FOR PURPOSES OF TEMPORARILY EXEMPTING MOTOR CARRIERS PROVIDING EMERGENCY RELIEF FROM CERTAIN SAFETY REGULATIONS.__ 
+
+>     “(a)  __Defined Term__  __.—__ 
+
+>     In this Act, the term ‘residential heating fuel’ includes—
+
+>         “(1) heating oil;
+
+>         “(2) natural gas; and
+
+>         “(3) propane.
+
+>     “(b)  __Authorization__  __.—__ 
+
+>     If the Governor of a State declares a state of emergency caused by a shortage of residential heating fuel and, at the conclusion of the initial 30-day emergency period (or a second 30-day emergency period authorized under this subsection), the Governor determines that the emergency shortage has not ended, any extension of such state of emergency by the Governor, up to 2 additional 30-day periods, shall be recognized by the Federal Motor Carrier Safety Administration as a period during which parts 390 through 399 of chapter III of title 49, Code of Federal Regulations, shall not apply to any motor carrier or driver operating a commercial motor vehicle to provide residential heating fuel in the geographic area so designated as under a state of emergency.
+
+>     “(c)  __Rulemaking__  __.—__ 
+
+>     The Secretary of Transportation shall amend section 390.23(a)(1)(ii) of title 49, Code of Federal Regulations, to conform to the provision set forth in subsection (b).
+
+>     “(d)  __Savings Provision__  __.—__ 
+
+>     Nothing in this section may be construed to modify the authority granted to the Federal Motor Carrier Safety Administration’s Field Administrator under section 390.23(a) of title 49, Code of Federal Regulations, to offer temporary exemptions from parts 390 through 399 of such title.
+
+> “SEC. 3. __ENERGY INFORMATION ADMINISTRATION NOTIFICATION REQUIREMENT.__ 
+
+>     “The Administrator of the Energy Information Administration, using data compiled from the Administration’s Weekly Petroleum Status Reports, shall notify the Governor of each State in a Petroleum Administration for Defense District if the inventory of residential heating fuel within such district has been below the most recent 5-year average for more than 3 consecutive weeks.
+
+> “SEC. 4. __REVIEW.__ 
+
+> “Not later than 12 months after the date of enactment of this Act \[June 30, 2014\], the Secretary of Transportation shall conduct a study of, and transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives, a report on the impacts of safety from the extensions issued by Governors according to this Act. In conducting the study, the Secretary shall review, at a minimum—
+
+>     “(1) the safety implications of extending exemptions; and
+
+>     “(2) a review of the exemption process to ensure clarity and efficiency during emergencies.”
+
  __Motorcoach Enhanced Safety__ 
 
 [Pub. L. 112–141, div. C, title II][/us/pl/112/141], subtitle G, July 6, 2012, [126 Stat. 809][/us/stat/126/809], provided that:
@@ -889,6 +933,8 @@ Oct. 30, 1984, Pub. L. 98–554, § 206(h), 98 Stat. 2835; restated Nov. 18, 1
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/109/59/s4116/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4116%2Ff
 [/us/usc/t49/s31149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31149
+[/us/pl/113/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F125
+[/us/stat/128/1388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1388
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/stat/126/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F809
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
