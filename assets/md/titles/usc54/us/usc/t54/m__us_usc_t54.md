@@ -17,7 +17,7 @@
 
 This title was enacted by [Pub. L. 113–287, § 3][/us/pl/113/287/s3], Dec. 19, 2014, [128 Stat. 3094][/us/stat/128/3094]
 
-Current through 114-93not92
+Current through 114-100not94not95
 
 <table>
 
@@ -3047,7 +3047,7 @@ See §4(c) of bill.  </td>
 
     <td> 
 
-16 U.S.C. 460l–8(less (b)(5) (last sentence))  </td>
+16 U.S.C. 460l–8 (less (b)(5) (last sentence))  </td>
 
     <td> 
 
@@ -3695,7 +3695,7 @@ Not repealed but omitted from the text of title 54. Provides purpose of this sec
 
     <td> 
 
-16 U.S.C. 469l(a)  </td>
+16 U.S.C. 469l (a)  </td>
 
     <td> 
 
@@ -3707,7 +3707,7 @@ Not repealed but omitted from the text of title 54. Provides findings for 16 U.S
 
     <td> 
 
-16 U.S.C. 469l(b)  </td>
+16 U.S.C. 469l (b)  </td>
 
     <td> 
 
@@ -5655,7 +5655,7 @@ Repealed as obsolete. Provided for a 4-year cessation of certain mining operatio
 
     <td> 
 
-Repealed as obsolete. Provided for the innapplicability of requirements for annual expenditures on mining claims to mining operations during the 4-year period under 16 U.S.C. 1903.  </td>
+Repealed as obsolete. Provided for the inapplicability of requirements for annual expenditures on mining claims to mining operations during the 4-year period under 16 U.S.C. 1903.  </td>
 
   </tr>
 
