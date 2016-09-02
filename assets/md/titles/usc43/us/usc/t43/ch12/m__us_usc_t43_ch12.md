@@ -105,6 +105,14 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs373f" data-uslm-ref="/us/usc/t43/s373f">373f.</a>  </td>
+
+    <td> Partnerships, grants, and cooperative agreements with local joint powers authorities.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs374" data-uslm-ref="/us/usc/t43/s374">374.</a>  </td>
 
     <td> Sale of lands acquired in connection with irrigation project.  </td>
