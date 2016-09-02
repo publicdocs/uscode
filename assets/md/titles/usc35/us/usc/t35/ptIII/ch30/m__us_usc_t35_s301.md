@@ -1,0 +1,75 @@
+---
+---
+
+# 35 U.S.C., USLM ref /us/usc/t35/s301
+
+* Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
+  Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
+* See the [Document Metadata](././../../../../..//README.md) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+[Previous](./../../../../..//us/usc/t35/ptIII/ch30/m__us_usc_t35_ptIII_ch30.md) | [Next](./../../../../..//us/usc/t35/ptIII/ch30/m__us_usc_t35_s302.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs301)
+
+## § 301. Citation of prior art and written statements
+
+    (a) __In General.—__ 
+
+    Any person at any time may cite to the Office in writing—
+
+        (1) prior art consisting of patents or printed publications which that person believes to have a bearing on the patentability of any claim of a particular patent; or
+
+        (2) statements of the patent owner filed in a proceeding before a Federal court or the Office in which the patent owner took a position on the scope of any claim of a particular patent.
+
+    (b) __Official File.—__ 
+
+    If the person citing prior art or written statements pursuant to subsection (a) explains in writing the pertinence and manner of applying the prior art or written statements to at least 1 claim of the patent, the citation of the prior art or written statements and the explanation thereof shall become a part of the official file of the patent.
+
+    (c) __Additional Information.—__ 
+
+    A party that submits a written statement pursuant to subsection (a)(2) shall include any other documents, pleadings, or evidence from the proceeding in which the statement was filed that addresses the written statement.
+
+    (d) __Limitations.—__ 
+
+    A written statement submitted pursuant to subsection (a)(2), and additional information submitted pursuant to subsection (c), shall not be considered by the Office for any purpose other than to determine the proper meaning of a patent claim in a proceeding that is ordered or instituted pursuant to section 304, 314, or 324. If any such written statement or additional information is subject to an applicable protective order, such statement or information shall be redacted to exclude information that is subject to that order.
+
+    (e) __Confidentiality.—__ 
+
+    Upon the written request of the person citing prior art or written statements pursuant to subsection (a), that person’s identity shall be excluded from the patent file and kept confidential.
+
+(Added [Pub. L. 96–517, § 1][/us/pl/96/517/s1], Dec. 12, 1980, [94 Stat. 3015][/us/stat/94/3015]; amended [Pub. L. 112–29, § 6(g)(1)][/us/pl/112/29/s6/g/1], Sept. 16, 2011, [125 Stat. 311][/us/stat/125/311].)
+
+ __Amendments__ 
+
+    2011—[Pub. L. 112–29][/us/pl/112/29] amended section generally. Prior to amendment, text read as follows: “Any person at any time may cite to the Office in writing prior art consisting of patents or printed publications which that person believes to have a bearing on the patentability of any claim of a particular patent. If the person explains in writing the pertinency and manner of applying such prior art to at least one claim of the patent, the citation of such prior art and the explanation thereof will become a part of the official file of the patent. At the written request of the person citing the prior art, his or her identity will be excluded from the patent file and kept confidential.”
+
+ __Effective Date of 2011 Amendment__ 
+
+[Pub. L. 112–29, § 6(g)(3)][/us/pl/112/29/s6/g/3], Sept. 16, 2011, [125 Stat. 312][/us/stat/125/312], provided that: 
+
+> “The amendments made by this subsection \[amending this section\] shall take effect upon the expiration of the 1-year period beginning on the date of the enactment of this Act \[Sept. 16, 2011\] and shall apply to any patent issued before, on, or after that effective date.”
+
+ __Effective Date__ 
+
+    Chapter effective July 1, 1981, and applicable to patents in force as of July 1, 1981, or issued thereafter, see [section 8(b) of Pub. L. 96–517][/us/pl/96/517/s8/b], set out as an Effective Date of 1980 Amendment note under [section 41 of this title][/us/usc/t35/s41].
+
+----------
+
+[Previous](./../../../../..//us/usc/t35/ptIII/ch30/m__us_usc_t35_ptIII_ch30.md) | [Next](./../../../../..//us/usc/t35/ptIII/ch30/m__us_usc_t35_s302.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs301)
+
+----------
+----------
+
+[/us/pl/96/517/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F517%2Fs1
+[/us/stat/94/3015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3015
+[/us/pl/112/29/s6/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs6%2Fg%2F1
+[/us/stat/125/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F311
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
+[/us/pl/112/29/s6/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs6%2Fg%2F3
+[/us/stat/125/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F312
+[/us/pl/96/517/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F517%2Fs8%2Fb
+[/us/usc/t35/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs41
+
+
